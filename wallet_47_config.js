@@ -1,1 +1,1 @@
-var mnemonic = "avoid kingdom fresh emerge now guitar situate trial catalog final body sand";
+var mnemonic = "device fatigue city afford double dice portion blossom runway quarter embrace next";

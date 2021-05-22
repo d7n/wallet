@@ -1,1 +1,1 @@
-var mnemonic = "demise solid person december wood raw tuna runway venture tenant apart parent";
+var mnemonic = "nuclear pass twin month dish audit emerge alcohol raise return hurdle ticket";

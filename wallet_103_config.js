@@ -1,1 +1,1 @@
-var mnemonic = "system robot marble surround region chest spin trust place blame amateur purse";
+var mnemonic = "brain frost unusual foster glad anxiety decrease speed disagree lyrics attend bus";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis hunt wheat quantum cover wave fuel shield adapt cupboard decrease glass";
+var mnemonic = "output clump naive trial odor light absurd craft token fetch silk congress";

@@ -1,1 +1,1 @@
-var mnemonic = "shove camera clay unfair demand table rigid moon sea dress vote kitchen";
+var mnemonic = "minimum benefit language exist venture certain memory stay result car slight piece";

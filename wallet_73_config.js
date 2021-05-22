@@ -1,1 +1,1 @@
-var mnemonic = "cruise valley hybrid universe cheap tomato rural stool fresh banner emotion taxi";
+var mnemonic = "bread wheat session carpet broccoli damage oppose sketch near color fog say";

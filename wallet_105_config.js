@@ -1,1 +1,1 @@
-var mnemonic = "art rug law clap outside boat wedding occur badge olympic bag december";
+var mnemonic = "word virtual amateur demand way bulk pact ghost sheriff tired risk split";

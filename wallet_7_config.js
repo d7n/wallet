@@ -1,1 +1,1 @@
-var mnemonic = "welcome mandate word swift oval cricket nominee obtain umbrella consider burger icon";
+var mnemonic = "tuna buzz phrase boy protect remember logic release dish trouble speed kit";

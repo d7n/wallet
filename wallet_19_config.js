@@ -1,1 +1,1 @@
-var mnemonic = "little stay merge save tuna conduct anchor output effort banana trade wedding";
+var mnemonic = "auto ability decrease cry question napkin journey main mistake quit mean this";

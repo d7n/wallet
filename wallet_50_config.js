@@ -1,1 +1,1 @@
-var mnemonic = "cloth mix half hand margin green panther easy noise chat check column";
+var mnemonic = "pigeon skin scale link jacket check fault excess tackle muscle laundry month";

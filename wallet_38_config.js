@@ -1,1 +1,1 @@
-var mnemonic = "vacant success come clinic retire tell country baby mansion artwork media feed";
+var mnemonic = "lyrics jewel addict roof symptom cause fiction struggle holiday furnace obscure business";

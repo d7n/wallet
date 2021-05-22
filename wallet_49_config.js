@@ -1,1 +1,1 @@
-var mnemonic = "cause promote north again bus intact base deal inspire rain eternal orange";
+var mnemonic = "outdoor street gadget furnace hamster spray between express second ugly family pass";

@@ -1,1 +1,1 @@
-var mnemonic = "vast you call sheriff unveil juice latin satisfy post ancient mercy mutual";
+var mnemonic = "action stove analyst gym burst neglect spatial auto buzz oblige sample mercy";

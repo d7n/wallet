@@ -1,1 +1,1 @@
-var mnemonic = "pear bulk video thing ethics pretty monster island waste since spring jar";
+var mnemonic = "reduce return room owner cloth primary marine ship skull alarm uphold benefit";

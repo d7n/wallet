@@ -1,1 +1,1 @@
-var mnemonic = "aerobic curtain cute move consider shine settle height milk person nothing flush";
+var mnemonic = "useless maximum crucial tiny shaft endless cake kiwi setup audit involve asthma";

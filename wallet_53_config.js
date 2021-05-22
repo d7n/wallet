@@ -1,1 +1,1 @@
-var mnemonic = "risk town neck lucky discover accident glory super appear uniform village sister";
+var mnemonic = "critic void knock garbage cherry puppy settle custom indicate antenna gorilla viable";

@@ -1,1 +1,1 @@
-var mnemonic = "memory whip blast unable behind yard sleep expire engage dinosaur panic repeat";
+var mnemonic = "embody absent address split group satoshi few picnic blood parade around excess";

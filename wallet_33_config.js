@@ -1,1 +1,1 @@
-var mnemonic = "table crash swear mad hedgehog burst odor theory rose scrap loan amused";
+var mnemonic = "pluck gather october tennis toy hidden become rule clever cruel foil drum";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige leopard oblige bright turn island update discover riot plunge final shaft";
+var mnemonic = "execute filter march life sudden joy issue size estate crowd medal issue";

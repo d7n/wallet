@@ -1,1 +1,1 @@
-var mnemonic = "blood damage bomb orange stamp blast october rice stamp surprise pear erupt";
+var mnemonic = "flower near rent switch squeeze forget denial rocket firm race pipe execute";

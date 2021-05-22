@@ -1,1 +1,1 @@
-var mnemonic = "satisfy feed puppy aisle tilt dentist slide walk share federal pizza vehicle";
+var mnemonic = "chase regret bracket assault spare disagree again few cliff friend flag frost";

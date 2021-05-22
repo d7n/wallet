@@ -1,1 +1,1 @@
-var mnemonic = "nothing toe harsh execute entire improve basket certain place asset electric argue";
+var mnemonic = "check bonus brown torch tortoise tennis stadium bracket liquid patrol whisper lion";

@@ -1,1 +1,1 @@
-var mnemonic = "display doll accident discover nuclear family renew define excuse obvious rural whale";
+var mnemonic = "mystery borrow marine endorse planet broken toddler beauty push power era finger";

@@ -1,1 +1,1 @@
-var mnemonic = "write minute check face impact pilot dry lawn syrup silent ten gasp";
+var mnemonic = "employ blanket retreat maze enlist discover arm logic quantum soul sphere bullet";

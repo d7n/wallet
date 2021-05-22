@@ -1,1 +1,1 @@
-var mnemonic = "discover pride network tuition pigeon expire good document farm congress valid sea";
+var mnemonic = "wait spirit anchor grant submit wink master arena process census unit exist";

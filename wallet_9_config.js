@@ -1,1 +1,1 @@
-var mnemonic = "private green welcome rocket nose outdoor book ripple bridge hat claw long";
+var mnemonic = "sign practice pet summer thought betray mouse essay produce nasty plate rich";

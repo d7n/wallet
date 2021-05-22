@@ -1,1 +1,1 @@
-var mnemonic = "away unveil diary repair display crane dune marriage truth fall upgrade laugh";
+var mnemonic = "target mad snap chase party pepper faculty vapor present control midnight shoe";

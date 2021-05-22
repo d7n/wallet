@@ -1,1 +1,1 @@
-var mnemonic = "all bless follow draft bronze cause thank quarter caught case assault acoustic";
+var mnemonic = "draw heart banana apple tissue spring explain donate involve churn valid lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "quick barely thumb globe daring message icon goose begin pony fog street";
+var mnemonic = "aisle also wrist slush million elephant calm web degree viable blood replace";

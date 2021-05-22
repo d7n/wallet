@@ -1,1 +1,1 @@
-var mnemonic = "happy define little critic tenant home face leg sugar true team blast";
+var mnemonic = "pen prefer measure tray awesome three turn mutual flash edge agent glide";

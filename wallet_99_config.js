@@ -1,1 +1,1 @@
-var mnemonic = "token primary until doll sound laptop security beef dolphin fall hat legend";
+var mnemonic = "minimum virus woman prevent evolve crazy obvious arch client winter yellow summer";

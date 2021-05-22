@@ -1,1 +1,1 @@
-var mnemonic = "cabbage floor spin earn satoshi cause weekend brain royal tortoise stock appear";
+var mnemonic = "shadow ozone slam you opera absorb struggle never solution glove two found";

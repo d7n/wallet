@@ -1,1 +1,1 @@
-var mnemonic = "embrace during accident same until online skirt attitude fever south interest pact";
+var mnemonic = "second west coyote portion ivory angle palace help picnic knock roast wave";

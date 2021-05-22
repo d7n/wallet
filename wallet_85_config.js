@@ -1,1 +1,1 @@
-var mnemonic = "abandon grunt orchard tell earth fun uphold now obscure nice artist walk";
+var mnemonic = "noble salt solar render clerk virtual noodle coil viable project path parent";

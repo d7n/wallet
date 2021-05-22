@@ -1,1 +1,1 @@
-var mnemonic = "staff emotion gap cement volume grass satisfy jazz matter blast stay exchange";
+var mnemonic = "pretty label august space radar train pizza reject ignore choice mask actress";

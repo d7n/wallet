@@ -1,1 +1,1 @@
-var mnemonic = "bench auto inside valley strategy hazard okay blue foot left neglect between";
+var mnemonic = "photo report thunder domain offer rack margin ripple above repeat romance toast";

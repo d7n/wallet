@@ -1,1 +1,1 @@
-var mnemonic = "spread theory hybrid bamboo fox shoulder field rebel convince tiger mushroom will";
+var mnemonic = "call address trick behave jeans relax bamboo second sport gorilla average angry";

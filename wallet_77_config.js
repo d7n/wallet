@@ -1,1 +1,1 @@
-var mnemonic = "volume educate taxi radio doctor impact joy aware sight crazy uniform floor";
+var mnemonic = "whale green exclude cute tower recycle detail fiction crystal man myself chicken";

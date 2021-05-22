@@ -1,1 +1,1 @@
-var mnemonic = "wreck wrist crazy rebel start income point rigid point crop ring someone";
+var mnemonic = "pottery join monster clock neglect edit gauge few rely legal click riot";

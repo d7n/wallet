@@ -1,1 +1,1 @@
-var mnemonic = "net convince balcony reopen interest connect vote mirror define flip wise chicken";
+var mnemonic = "problem sphere adjust ring viable deliver year bid rebuild play eager prize";

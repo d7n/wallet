@@ -1,1 +1,1 @@
-var mnemonic = "story toddler vicious admit vast garment raw mountain rescue globe such balance";
+var mnemonic = "load dumb evil parade explain yard misery simple empower music defy lawsuit";

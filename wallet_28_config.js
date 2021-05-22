@@ -1,1 +1,1 @@
-var mnemonic = "flash scatter plastic nest warm desk ramp pilot arrive grant imitate vacant";
+var mnemonic = "virus bring concert shuffle entry opinion coil two step size retire chase";

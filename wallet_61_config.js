@@ -1,1 +1,1 @@
-var mnemonic = "valid merge math flash lecture embrace strong boost wish obey example boring";
+var mnemonic = "gas spirit bless host rely lesson garlic screen cliff install retire fashion";

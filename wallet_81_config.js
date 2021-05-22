@@ -1,1 +1,1 @@
-var mnemonic = "trick wasp survey first tell vault depend shrimp swarm tongue hollow east";
+var mnemonic = "blind inject impact sight want iron glide warfare arrive genius bind effort";

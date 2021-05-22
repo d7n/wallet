@@ -1,1 +1,1 @@
-var mnemonic = "illegal blush ship sudden alley camp guilt calm addict trade chase note";
+var mnemonic = "venue rival voyage filter taxi seat win domain fever sentence side switch";

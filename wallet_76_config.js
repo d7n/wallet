@@ -1,1 +1,1 @@
-var mnemonic = "liar such balcony solve devote welcome artefact divide skill lyrics cousin leisure";
+var mnemonic = "hour gesture nest dignity advice month canoe course below insect beach student";

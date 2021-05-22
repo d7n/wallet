@@ -1,1 +1,1 @@
-var mnemonic = "toilet book choose question notice fold eight correct cram buddy lake velvet";
+var mnemonic = "bracket junior police cool bottom general bone undo visa stereo mixture nasty";

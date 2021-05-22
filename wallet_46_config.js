@@ -1,1 +1,1 @@
-var mnemonic = "rescue absent deputy surge broken device pact denial rich nurse genius dove";
+var mnemonic = "rule feature celery stock morning now poverty fun eager ability fantasy impose";

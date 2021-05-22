@@ -1,1 +1,1 @@
-var mnemonic = "twenty error regular sentence amateur practice spoon swift monkey hard undo sell";
+var mnemonic = "inherit margin actress morning primary crane license swing deal today sentence heavy";

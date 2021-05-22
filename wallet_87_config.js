@@ -1,1 +1,1 @@
-var mnemonic = "galaxy fury sausage engine bachelor crowd reason dinner table oyster physical vast";
+var mnemonic = "play view stock swear just biology must actress case amount stand until";

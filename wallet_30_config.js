@@ -1,1 +1,1 @@
-var mnemonic = "jewel february frozen exclude globe habit height inch kitten asset island million";
+var mnemonic = "habit morning lunar innocent syrup sand soon like stamp casual cactus globe";

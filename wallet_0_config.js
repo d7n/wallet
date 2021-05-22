@@ -1,1 +1,1 @@
-var mnemonic = "edit burden soda put relax target witness water frown palm suffer alarm";
+var mnemonic = "gap blood limb obtain edge cross save cover calm broom peasant staff";

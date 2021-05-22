@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit raise charge level fan industry celery twenty travel fish fitness fork";
+var mnemonic = "vivid element creek cannon actress radar vibrant topple soldier page mobile curious";

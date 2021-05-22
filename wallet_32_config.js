@@ -1,1 +1,1 @@
-var mnemonic = "blanket drum faith bomb bone twelve demand exhibit outdoor modify lunch target";
+var mnemonic = "praise invite hurry mammal inquiry mixed basic stumble relax pill another actor";

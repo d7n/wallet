@@ -1,1 +1,1 @@
-var mnemonic = "release slam bounce void inherit neck aerobic verb marine asthma crucial pride";
+var mnemonic = "cotton transfer erupt desert bone quit grain six birth easily museum rose";

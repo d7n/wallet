@@ -1,1 +1,1 @@
-var mnemonic = "way exercise awful solar rent sail cost speak much expand life brass";
+var mnemonic = "visit crawl unique donkey flag saddle enter bargain hawk direct bone mention";

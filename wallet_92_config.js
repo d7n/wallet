@@ -1,1 +1,1 @@
-var mnemonic = "umbrella purpose text upgrade junior token they clerk private enact must oblige";
+var mnemonic = "vague fluid move tackle coffee also firm roast tone wish movie floor";

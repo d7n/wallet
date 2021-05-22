@@ -1,1 +1,1 @@
-var mnemonic = "energy boil cube dentist journey outer piece meadow finish annual matter brisk";
+var mnemonic = "walk obey planet loyal proud bomb source enrich cat aim mom season";

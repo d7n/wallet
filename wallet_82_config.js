@@ -1,1 +1,1 @@
-var mnemonic = "various boss budget pistol stuff now inject payment mass core learn push";
+var mnemonic = "rack tray fox salute mechanic you reunion relief promote cool dizzy wild";

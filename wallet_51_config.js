@@ -1,1 +1,1 @@
-var mnemonic = "harsh piece survey poet current chapter mistake steak drop fury sheriff utility";
+var mnemonic = "stick avocado yellow wagon gap drop amused rifle suggest basket toddler typical";

@@ -1,1 +1,1 @@
-var mnemonic = "deal thumb primary razor garbage van violin floor canal answer glide gesture";
+var mnemonic = "radio thunder bundle alien margin shock rhythm exist laugh inmate entry gold";

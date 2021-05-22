@@ -1,1 +1,1 @@
-var mnemonic = "idle pulse cage holiday soda taxi purity cost blade vendor filter skirt";
+var mnemonic = "effort child nominee husband caught sketch have saddle sorry ivory patch vague";

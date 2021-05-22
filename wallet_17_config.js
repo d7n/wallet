@@ -1,1 +1,1 @@
-var mnemonic = "error sure grocery twenty lend uncle peanut method satisfy volume mixed priority";
+var mnemonic = "ramp heavy patient orient pear position gadget collect stool release whisper sorry";

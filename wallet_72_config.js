@@ -1,1 +1,1 @@
-var mnemonic = "sock scheme happy cereal test cabin swear robust vacant okay smooth sponsor";
+var mnemonic = "fluid mean output large equip wide exhaust whip regular nuclear thank grid";

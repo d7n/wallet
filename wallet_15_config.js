@@ -1,1 +1,1 @@
-var mnemonic = "wise start curtain injury huge comic identify evidence pond trend moon punch";
+var mnemonic = "cruel rebel art shoot space second phone member survey assume buzz obvious";

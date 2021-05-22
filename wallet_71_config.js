@@ -1,1 +1,1 @@
-var mnemonic = "wave flip hand spy depth cousin celery junior beauty father apart ability";
+var mnemonic = "update polar dial rocket crawl sorry denial uncle radio coin room machine";

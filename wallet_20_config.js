@@ -1,1 +1,1 @@
-var mnemonic = "empower vault quality chaos raise hurdle forest rib ghost interest excuse juice";
+var mnemonic = "mystery sword modify search broom broom slice check old monster harbor arch";

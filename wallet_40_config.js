@@ -1,1 +1,1 @@
-var mnemonic = "image private shoe enhance wool film depth devote ridge gadget essay hat";
+var mnemonic = "mom rude below century pitch net abandon enforce stereo manage shiver bird";

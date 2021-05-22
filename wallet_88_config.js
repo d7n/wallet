@@ -1,1 +1,1 @@
-var mnemonic = "where salt satoshi useless sleep sting dog toss sketch frozen sudden payment";
+var mnemonic = "gloom side reveal resist blush clutch express twenty smoke rug climb spawn";

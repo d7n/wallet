@@ -1,1 +1,1 @@
-var mnemonic = "hole awful acoustic tomorrow crash shine opinion glide olive flip catalog action";
+var mnemonic = "beach search explain toss cash finish aisle alcohol turtle gain mule damp";

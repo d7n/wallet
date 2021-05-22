@@ -1,1 +1,1 @@
-var mnemonic = "enforce answer praise blind mind impact sausage debris rescue heart lion sight";
+var mnemonic = "glad excite food aisle mom curtain salad abandon judge electric rifle dash";

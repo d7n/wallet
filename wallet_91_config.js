@@ -1,1 +1,1 @@
-var mnemonic = "health snake response quantum cigar announce purse strong choose only exhibit engine";
+var mnemonic = "move memory scale energy ghost also impose grit please rebel glass grid";

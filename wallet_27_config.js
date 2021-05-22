@@ -1,1 +1,1 @@
-var mnemonic = "risk cancel party word account goose donate nothing goddess party bargain burden";
+var mnemonic = "decline absent fly wine cat negative wasp roast people similar chuckle bacon";

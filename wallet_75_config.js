@@ -1,1 +1,1 @@
-var mnemonic = "raise hazard mix south fever position film tumble bachelor zero fiber range";
+var mnemonic = "giraffe million diagram defy cave pledge electric hover october ignore one immune";

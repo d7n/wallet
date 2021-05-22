@@ -1,1 +1,1 @@
-var mnemonic = "remember history cabbage arrest stairs mistake sample cheap foot supply street buzz";
+var mnemonic = "post corn kitchen shock render already pond wagon just bike few year";

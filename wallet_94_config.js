@@ -1,1 +1,1 @@
-var mnemonic = "balcony flush quality soccer argue tilt smile auto cube syrup question excuse";
+var mnemonic = "surface finish boy ride blade harvest suspect check observe music check move";

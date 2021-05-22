@@ -1,1 +1,1 @@
-var mnemonic = "pizza fossil disorder pottery region art believe emotion under electric brain derive";
+var mnemonic = "lecture cherry daughter tackle whip swarm alpha top earth habit reform donkey";

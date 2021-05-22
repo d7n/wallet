@@ -1,1 +1,1 @@
-var mnemonic = "cool yard embark will rocket inflict benefit sweet surround west guide dry";
+var mnemonic = "check awful exchange twist round stem require trash saddle possible shield midnight";

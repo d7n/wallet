@@ -1,1 +1,1 @@
-var mnemonic = "clerk comfort cabbage country idle erode survey grid museum napkin paddle tortoise";
+var mnemonic = "luxury ordinary beauty custom delay bird prize diamond drip plug curve indicate";

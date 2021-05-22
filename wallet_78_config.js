@@ -1,1 +1,1 @@
-var mnemonic = "museum rocket laptop skate involve praise observe economy sword relief bounce symptom";
+var mnemonic = "toilet fiber shoulder hazard crucial busy light undo prefer consider cruel song";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty noodle slim kit forget arrow sentence shoot option swarm series nuclear";
+var mnemonic = "diagram police rent steel typical fresh notice beef chimney fiscal tortoise assist";

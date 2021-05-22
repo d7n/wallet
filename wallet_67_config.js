@@ -1,1 +1,1 @@
-var mnemonic = "glance ghost rent blanket animal umbrella cannon smile they remove citizen climb";
+var mnemonic = "dove hill gauge reduce enrich spray cricket piece excite sign orphan ramp";

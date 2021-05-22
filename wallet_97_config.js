@@ -1,1 +1,1 @@
-var mnemonic = "salute rebuild drop awesome core salute island ocean soup belt narrow empower";
+var mnemonic = "source coyote curtain toilet north visit mother gaze inform become clog spare";

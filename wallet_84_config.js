@@ -1,1 +1,1 @@
-var mnemonic = "amused carbon indoor wing bitter stock stadium comic spring stereo entry explain";
+var mnemonic = "memory inquiry mean bicycle say zero fish debate thumb camera blue picture";

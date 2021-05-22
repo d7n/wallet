@@ -1,1 +1,1 @@
-var mnemonic = "clinic maze owner casual bleak tragic anchor remember detect maid safe strategy";
+var mnemonic = "carry orbit vapor easily kid idle afraid undo swing ladder bubble kind";

@@ -1,1 +1,1 @@
-var mnemonic = "regular crawl decorate govern electric sock object drive kid party dry hint";
+var mnemonic = "false tool half cheap client disease hello office tooth cart property small";

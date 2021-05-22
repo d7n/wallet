@@ -1,1 +1,1 @@
-var mnemonic = "useful salt main adult label goose lonely depth will human oak language";
+var mnemonic = "crowd portion please purse avoid crouch inside august kind solid chest lottery";

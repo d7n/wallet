@@ -1,1 +1,1 @@
-var mnemonic = "ghost sunny remain tongue across layer pencil other steel struggle flower supreme";
+var mnemonic = "cabbage inform connect fun pull mandate effort whale expect struggle inner symptom";

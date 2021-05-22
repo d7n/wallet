@@ -1,1 +1,1 @@
-var mnemonic = "island label nation near menu section unknown noble purse awkward today drip";
+var mnemonic = "kidney electric turkey aspect orbit cigar cash attack grit catalog cliff clock";

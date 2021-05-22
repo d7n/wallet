@@ -1,1 +1,1 @@
-var mnemonic = "stay twin cricket despair property trust caution forest abuse cage swap stay";
+var mnemonic = "top leg hood panda language across glow notable climb grass dinosaur giggle";

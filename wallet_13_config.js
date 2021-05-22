@@ -1,1 +1,1 @@
-var mnemonic = "essay salute thrive cycle ancient load response diesel detect mention path attitude";
+var mnemonic = "gasp tail vague opera tomorrow afford gas mixture culture orphan olive receive";

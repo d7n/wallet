@@ -1,1 +1,1 @@
-var mnemonic = "safe over ball oven front code hand salt little uncover calm disagree";
+var mnemonic = "useful page armor keen mixture letter negative property mystery weekend ozone same";

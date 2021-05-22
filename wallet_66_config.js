@@ -1,1 +1,1 @@
-var mnemonic = "test height tenant slice polar banner ugly glad lumber dismiss expose blast";
+var mnemonic = "night world velvet rotate enact length cash tomorrow calm credit joke anchor";
