@@ -1,1 +1,1 @@
-var mnemonic = "enforce until cloud angry mercy wrestle say sand tip lounge transfer auto";
+var mnemonic = "vibrant balance clock avoid suffer doctor benefit champion gossip boss raccoon today";

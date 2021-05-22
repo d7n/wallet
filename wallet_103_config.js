@@ -1,1 +1,1 @@
-var mnemonic = "surge slight parent cross virus spoil salmon antenna force silent float student";
+var mnemonic = "neutral finger solid magnet today dynamic treat clock wash hire crew two";

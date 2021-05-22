@@ -1,1 +1,1 @@
-var mnemonic = "burst evoke audit lecture ripple museum tumble better beef current exact smart";
+var mnemonic = "same legend lobster answer tobacco winner regret risk flee sing sense wild";

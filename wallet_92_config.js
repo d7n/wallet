@@ -1,1 +1,1 @@
-var mnemonic = "another jungle clarify cause decrease will speed level buddy coil also fix";
+var mnemonic = "bracket industry wait scissors trap same voyage proud bargain napkin memory pull";

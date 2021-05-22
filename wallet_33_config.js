@@ -1,1 +1,1 @@
-var mnemonic = "hospital bridge program rebuild lawsuit donor just ghost mystery quantum casual myself";
+var mnemonic = "lake blade rail discover tooth sauce fish setup move concert flash novel";

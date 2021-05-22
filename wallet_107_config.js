@@ -1,1 +1,1 @@
-var mnemonic = "gadget salmon fiction modify repair sheriff lecture episode cage police keen glass";
+var mnemonic = "present afford angle differ antique chuckle bulb fence food evoke picture tower";

@@ -1,1 +1,1 @@
-var mnemonic = "improve clown power clip water build obey rice uniform pledge normal cradle";
+var mnemonic = "ridge tattoo rubber uphold differ caution cereal cigar kingdom entire tornado remind";

@@ -1,1 +1,1 @@
-var mnemonic = "room boil razor trip monkey unfair used trophy tourist leg addict spray";
+var mnemonic = "above nasty bomb fluid rather scene acid file hand victory luggage praise";

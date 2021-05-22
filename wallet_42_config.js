@@ -1,1 +1,1 @@
-var mnemonic = "cherry start embrace uncle gun salad scale mercy fat melody split group";
+var mnemonic = "mouse cargo leopard must spoon kingdom pear asthma garlic doll spray layer";

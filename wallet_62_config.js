@@ -1,1 +1,1 @@
-var mnemonic = "sick whisper art seat cable erosion float cigar pipe border network six";
+var mnemonic = "ghost govern client capable cry cover chief citizen grass track bracket team";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue escape edge whale seek radar feature planet front black town lawsuit";
+var mnemonic = "pond eternal river depend ivory like pyramid glance slam holiday amateur session";

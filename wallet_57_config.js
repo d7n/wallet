@@ -1,1 +1,1 @@
-var mnemonic = "concert worry keep strong brush cream involve estate universe swing exercise buffalo";
+var mnemonic = "lab night buddy enhance blame age allow peasant bench august rose jaguar";

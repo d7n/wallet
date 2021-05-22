@@ -1,1 +1,1 @@
-var mnemonic = "burden produce melody crisp where boss elevator account latin strategy dove slim";
+var mnemonic = "salt enrich chef add usual inject east zone rice slam achieve horror";

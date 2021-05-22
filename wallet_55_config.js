@@ -1,1 +1,1 @@
-var mnemonic = "napkin imitate rural dynamic cruel option used agent earth focus stick snap";
+var mnemonic = "crawl rebel write spoil tired alert soldier bargain worry dynamic source museum";

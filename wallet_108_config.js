@@ -1,1 +1,1 @@
-var mnemonic = "jacket hard involve industry survey fortune shock flag hidden bubble gun copy";
+var mnemonic = "rhythm special mix length please volume embark inject journey danger radar alter";

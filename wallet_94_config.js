@@ -1,1 +1,1 @@
-var mnemonic = "height more there essence tattoo female achieve broom absorb crime parrot draw";
+var mnemonic = "accident scorpion mention visit seminar tomato fall cover modify exile never doll";

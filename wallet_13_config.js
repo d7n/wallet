@@ -1,1 +1,1 @@
-var mnemonic = "subject shoulder own sugar census motor novel short follow corn buffalo first";
+var mnemonic = "awesome wheat travel crystal approve kingdom cabbage enemy crane gift nut enforce";

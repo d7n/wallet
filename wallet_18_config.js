@@ -1,1 +1,1 @@
-var mnemonic = "tourist yellow rain keep slight trap equal spike disease ecology habit muscle";
+var mnemonic = "rapid insect shiver blossom ready cake vanish debate siege physical novel maze";

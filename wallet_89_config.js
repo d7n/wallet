@@ -1,1 +1,1 @@
-var mnemonic = "cloud position attitude typical egg snow fatal trim mechanic disorder pigeon warrior";
+var mnemonic = "cloth crush novel skull cat ankle prosper rookie sheriff prevent rug assist";

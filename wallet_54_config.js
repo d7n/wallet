@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin slam puppy runway mass illness hotel choice pass ability foil card";
+var mnemonic = "injury noble yellow stone snack crucial choice mosquito injury roast circle fat";

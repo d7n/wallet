@@ -1,1 +1,1 @@
-var mnemonic = "time peace parrot notable resource gentle boring jewel plunge mechanic simple fix";
+var mnemonic = "call initial coral balance anxiety favorite winner safe acid skull shoe speak";

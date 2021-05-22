@@ -1,1 +1,1 @@
-var mnemonic = "remember planet next gallery swarm clarify mix fiscal say envelope gallery biology";
+var mnemonic = "umbrella panda remember peanut manage flight equip flower visa office obvious topic";

@@ -1,1 +1,1 @@
-var mnemonic = "govern start rely another blossom mechanic lab omit palace present cupboard expire";
+var mnemonic = "truly snap hero stay case love window fan yellow shadow endless draw";

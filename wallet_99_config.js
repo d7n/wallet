@@ -1,1 +1,1 @@
-var mnemonic = "fix runway rose steak doll deposit pizza cupboard jelly excite friend tomorrow";
+var mnemonic = "cement ritual left post baby rail lend sort track increase coyote pave";

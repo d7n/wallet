@@ -1,1 +1,1 @@
-var mnemonic = "meadow direct tooth dog order immune innocent clerk blush burst muscle fatigue";
+var mnemonic = "police bar pilot fruit leisure tobacco betray company plug detect roast shiver";

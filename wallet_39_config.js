@@ -1,1 +1,1 @@
-var mnemonic = "connect middle sail helmet canyon salon biology omit clinic eager mail addict";
+var mnemonic = "high ceiling work glide sphere foster tube engage never patient resist note";

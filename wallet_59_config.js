@@ -1,1 +1,1 @@
-var mnemonic = "hint say tumble describe later cruel smile ranch sock banner avocado sister";
+var mnemonic = "drama despair cricket jar spray front habit will rescue they collect ladder";

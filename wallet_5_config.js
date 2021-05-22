@@ -1,1 +1,1 @@
-var mnemonic = "romance news zebra mimic base permit enter symbol dilemma raccoon blouse today";
+var mnemonic = "lucky adult great panic dutch apple board smile above clerk borrow vibrant";

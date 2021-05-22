@@ -1,1 +1,1 @@
-var mnemonic = "seek build denial phrase shed concert twist leave trap version swear portion";
+var mnemonic = "silly injury symptom bunker bright chicken inquiry hundred tortoise uncover decorate cave";

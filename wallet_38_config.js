@@ -1,1 +1,1 @@
-var mnemonic = "since habit wait sunset regret pear abstract way spy height image enforce";
+var mnemonic = "ill brick consider betray cloth input seven voice dance south steel broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "mass mule neither mango urban solution favorite runway absorb capable patrol celery";
+var mnemonic = "confirm reopen plate weasel actual help milk early plate pet retreat violin";

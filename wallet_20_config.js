@@ -1,1 +1,1 @@
-var mnemonic = "loan track dumb laundry prevent canal fiction maximum hero gossip frame hip";
+var mnemonic = "wool pelican muscle elbow cream angry magnet object focus bid win fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "color crop liar usage they style boost affair cattle obvious cloth split";
+var mnemonic = "goddess surface thought invest silk mammal lemon another style gesture strategy setup";

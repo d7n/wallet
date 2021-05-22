@@ -1,1 +1,1 @@
-var mnemonic = "excuse announce regret giant wire used nice leisure tonight bitter child exit";
+var mnemonic = "jealous basket panic still canoe exhibit cannon city inch inner people wear";

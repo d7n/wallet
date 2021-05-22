@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow jump alcohol check thing much broccoli donkey sing equip scatter shoe";
+var mnemonic = "letter frame chef category hybrid find guilt divert check desert blast able";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse main hood fame all tomorrow obvious trap source hire thank butter";
+var mnemonic = "length limit leave release train inherit judge behind captain neither loop lumber";

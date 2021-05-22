@@ -1,1 +1,1 @@
-var mnemonic = "material fatal rhythm wish bright turn mechanic palm scatter unfold neglect sadness";
+var mnemonic = "bring scout couple spot duck valid tag slab whip benefit pink bridge";

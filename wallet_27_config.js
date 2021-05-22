@@ -1,1 +1,1 @@
-var mnemonic = "festival normal alien rug indoor fortune option spider swing room session dice";
+var mnemonic = "country sadness extend blame tissue harbor rare festival tag again isolate minor";

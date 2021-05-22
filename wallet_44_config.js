@@ -1,1 +1,1 @@
-var mnemonic = "victory laugh promote badge father train sentence hurry paper mansion element deer";
+var mnemonic = "social tail crawl goose decrease people drip eternal mountain fury vault potato";

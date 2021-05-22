@@ -1,1 +1,1 @@
-var mnemonic = "borrow unfold injury roof reward lab rival mosquito happy sphere victory reflect";
+var mnemonic = "photo soda cable replace wide slim real law track tonight culture accuse";

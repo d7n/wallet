@@ -1,1 +1,1 @@
-var mnemonic = "mushroom large romance sphere candy begin utility aerobic valid settle test cricket";
+var mnemonic = "message car they pill rabbit hour half derive fine subway nut domain";

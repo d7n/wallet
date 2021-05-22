@@ -1,1 +1,1 @@
-var mnemonic = "trigger skirt subject drop legend double climb oak then age easily chunk";
+var mnemonic = "pill elite grass sausage curve plastic hedgehog flat prepare sort mobile blade";

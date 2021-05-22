@@ -1,1 +1,1 @@
-var mnemonic = "piano board gospel vanish cube globe case laundry ride setup popular merge";
+var mnemonic = "that erode push nest river sad now napkin time audit yard peace";

@@ -1,1 +1,1 @@
-var mnemonic = "gold symbol drop benefit fish mind phone crush vacant strike mom come";
+var mnemonic = "blanket design beef like ladder argue dream attitude garbage once camera tower";

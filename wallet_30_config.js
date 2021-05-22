@@ -1,1 +1,1 @@
-var mnemonic = "spy october enter rally tonight dilemma super young comfort swing crouch oil";
+var mnemonic = "frog silent humor hungry people render humor advance jealous silent grow frog";

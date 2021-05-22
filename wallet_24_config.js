@@ -1,1 +1,1 @@
-var mnemonic = "lens squirrel harbor tone symbol verify style umbrella car crystal valve among";
+var mnemonic = "police name copper reward guess dinosaur swallow rose grunt obvious problem machine";

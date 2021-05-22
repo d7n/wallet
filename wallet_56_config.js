@@ -1,1 +1,1 @@
-var mnemonic = "vehicle avocado alley above spread exhibit bread whip script market radio belt";
+var mnemonic = "scrub phrase feature jelly ostrich spot future crop floor shift relief extra";

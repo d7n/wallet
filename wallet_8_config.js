@@ -1,1 +1,1 @@
-var mnemonic = "vicious insect still refuse mouse work balance manual elite option intact road";
+var mnemonic = "come cube grow mimic intact clog poet almost athlete tide satoshi identify";

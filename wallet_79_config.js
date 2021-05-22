@@ -1,1 +1,1 @@
-var mnemonic = "dolphin gather rotate crunch eye century woman bounce airport magic liquid foil";
+var mnemonic = "keen human couch head rare decide hip upset solve rubber stem repeat";

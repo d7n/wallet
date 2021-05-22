@@ -1,1 +1,1 @@
-var mnemonic = "novel fossil ladder void rice jelly remember use priority brain essay inside";
+var mnemonic = "design flash universe rent hunt balance hammer want grain cream push puzzle";

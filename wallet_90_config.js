@@ -1,1 +1,1 @@
-var mnemonic = "hand execute grant layer prosper middle dentist deer produce sting vibrant unfold";
+var mnemonic = "allow fury blue bamboo fence dress deliver stove amount powder become oil";

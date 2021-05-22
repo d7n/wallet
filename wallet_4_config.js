@@ -1,1 +1,1 @@
-var mnemonic = "drink upgrade differ shrug lawsuit park electric mutual text social fatigue recall";
+var mnemonic = "school dish female flag one provide guard adult auto surge image car";

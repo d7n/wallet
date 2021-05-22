@@ -1,1 +1,1 @@
-var mnemonic = "choice manual poet ahead crane pill abstract spare forest gather squirrel poet";
+var mnemonic = "ask box wagon ball coin wild roof picnic unknown crime bargain rare";

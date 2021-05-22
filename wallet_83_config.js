@@ -1,1 +1,1 @@
-var mnemonic = "kid sting yellow fire drastic rocket glow boss tank busy waste shaft";
+var mnemonic = "cotton picnic document poem museum once tool way verify angle soon sample";

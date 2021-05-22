@@ -1,1 +1,1 @@
-var mnemonic = "gravity animal defy define decade leg foam agree core year slam border";
+var mnemonic = "desert cannon eager bid skirt cause wrap mechanic budget service fall journey";

@@ -1,1 +1,1 @@
-var mnemonic = "grief math shiver butter cart earn provide decline inch enter goose loan";
+var mnemonic = "slam spawn face outside alien anchor essence guitar actor repair outside unveil";

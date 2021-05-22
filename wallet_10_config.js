@@ -1,1 +1,1 @@
-var mnemonic = "crystal autumn make huge thumb click mushroom bounce steel fuel enter pioneer";
+var mnemonic = "garden husband person filter document hazard kitchen charge say quantum mail voice";

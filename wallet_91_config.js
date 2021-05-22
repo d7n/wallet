@@ -1,1 +1,1 @@
-var mnemonic = "exile fold nothing roof guard device clutch eye surprise term together pioneer";
+var mnemonic = "error flame chicken salt solution base side flush indoor cost flock achieve";

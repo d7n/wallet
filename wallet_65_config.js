@@ -1,1 +1,1 @@
-var mnemonic = "wet few able female produce doll economy under casual balcony bacon two";
+var mnemonic = "help all venture second renew uniform firm stairs miracle element moon wet";

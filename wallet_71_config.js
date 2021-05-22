@@ -1,1 +1,1 @@
-var mnemonic = "session teach tooth ribbon cream damage multiply biology crew write page captain";
+var mnemonic = "deliver mind security syrup ski reject baby payment job assault position exist";

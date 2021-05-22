@@ -1,1 +1,1 @@
-var mnemonic = "pulse trash real between olive fire rich chuckle roof swim unknown round";
+var mnemonic = "circle circle winter canyon planet little into fragile before connect stay early";

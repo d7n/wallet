@@ -1,1 +1,1 @@
-var mnemonic = "enrich off soul exercise brush initial buzz tag capital liquid decorate bacon";
+var mnemonic = "vague picture pause lumber solid honey regret pony cross water despair wait";

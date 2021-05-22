@@ -1,1 +1,1 @@
-var mnemonic = "else hero wasp victory collect faith foil boss almost betray whale egg";
+var mnemonic = "hidden weather network nose banner fox gold pact lizard one place oak";

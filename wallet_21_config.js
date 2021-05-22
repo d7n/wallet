@@ -1,1 +1,1 @@
-var mnemonic = "trip rule oppose float sketch museum peanut mammal fine scene feel crouch";
+var mnemonic = "furnace emerge relief athlete spice garbage innocent mad audit elder real void";

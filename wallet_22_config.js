@@ -1,1 +1,1 @@
-var mnemonic = "stem exchange lady spell sand organ laundry admit mixed season joy risk";
+var mnemonic = "bundle raw deposit cancel shell feed report dwarf empty type among oval";

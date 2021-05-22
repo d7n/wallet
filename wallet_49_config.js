@@ -1,1 +1,1 @@
-var mnemonic = "orange angry sugar deal express nature stomach negative fruit truly strategy file";
+var mnemonic = "later keep guitar enforce catch dove all polar stage worry solid renew";

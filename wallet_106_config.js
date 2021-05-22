@@ -1,1 +1,1 @@
-var mnemonic = "write put session retreat blame witness space repeat rhythm crane fly must";
+var mnemonic = "license fog umbrella wealth wide immune dizzy three allow essence blast maid";

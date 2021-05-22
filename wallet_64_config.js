@@ -1,1 +1,1 @@
-var mnemonic = "border return sail flat author gap train bulk fancy clip random pigeon";
+var mnemonic = "mosquito sample define copper swear donor million able myth climb retire final";

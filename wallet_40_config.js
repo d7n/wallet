@@ -1,1 +1,1 @@
-var mnemonic = "jar degree brief pyramid nephew damage hold rifle earn kangaroo firm celery";
+var mnemonic = "apart essay surge mansion sadness matrix library resemble reunion hundred paddle filter";

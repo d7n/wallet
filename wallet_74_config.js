@@ -1,1 +1,1 @@
-var mnemonic = "brass slice glance foil essay resist inner vital until case liquid reward";
+var mnemonic = "grab voice pole day kind phrase merry ozone try pool apart path";

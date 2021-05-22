@@ -1,1 +1,1 @@
-var mnemonic = "twin label speak jelly mixed soon great increase citizen host dress envelope";
+var mnemonic = "segment buddy roast sing drastic prize admit fluid arrest edit nation december";

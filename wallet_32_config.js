@@ -1,1 +1,1 @@
-var mnemonic = "crowd ski conduct distance echo smile wrestle typical boost exhibit jealous glare";
+var mnemonic = "alley plastic excuse dream figure hub mobile peanut kite real wet track";

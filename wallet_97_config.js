@@ -1,1 +1,1 @@
-var mnemonic = "tank planet belt fitness camera cabbage bracket solve kidney coast fire antique";
+var mnemonic = "spirit rain situate draft kick meadow amazing casual alarm sorry traffic case";

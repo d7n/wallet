@@ -1,1 +1,1 @@
-var mnemonic = "correct obey ridge jazz olympic smoke theory battle bacon slim citizen approve";
+var mnemonic = "slide miracle creek just borrow season stand hat wait demise interest parrot";

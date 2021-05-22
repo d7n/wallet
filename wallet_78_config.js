@@ -1,1 +1,1 @@
-var mnemonic = "deny palm slogan layer island steak leg gown ship zebra teach present";
+var mnemonic = "alpha border maple vendor gift borrow jeans visual tool verify angry other";

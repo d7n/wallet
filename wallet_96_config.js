@@ -1,1 +1,1 @@
-var mnemonic = "tide interest divorce subway blind alien matter judge tornado minor diagram lift";
+var mnemonic = "symbol review salon text catalog canoe tool pipe inform frost aerobic venue";

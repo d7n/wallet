@@ -1,1 +1,1 @@
-var mnemonic = "imitate theory wine carbon gentle plunge behind answer abuse response lucky limit";
+var mnemonic = "matrix foster hungry discover exile copy camera shield nerve liquid east mango";

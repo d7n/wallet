@@ -1,1 +1,1 @@
-var mnemonic = "escape range crystal earn beef relax inform cry hurry truck circle tooth";
+var mnemonic = "bubble base genius domain mad fold spend hunt chief blind dream chalk";

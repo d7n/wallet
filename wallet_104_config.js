@@ -1,1 +1,1 @@
-var mnemonic = "web success hazard script term story demise merry pair circle pill swear";
+var mnemonic = "learn six immense wrap learn blind cave kite innocent genre wage remove";

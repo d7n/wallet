@@ -1,1 +1,1 @@
-var mnemonic = "science desk engage what index insane remember leg stool weather wolf mother";
+var mnemonic = "lava actress crop wrestle betray solid modify tank fuel humor bronze swim";

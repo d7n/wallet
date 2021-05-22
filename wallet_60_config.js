@@ -1,1 +1,1 @@
-var mnemonic = "client orange rabbit east throw raven swear million swarm iron bottom universe";
+var mnemonic = "plunge neglect just math vivid nominee address humble obtain lonely trial gym";

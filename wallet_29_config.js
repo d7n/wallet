@@ -1,1 +1,1 @@
-var mnemonic = "cement curious pool notable indicate rapid roast gadget wide found tackle demand";
+var mnemonic = "question relief dress base process size tree surface dumb runway hammer acid";

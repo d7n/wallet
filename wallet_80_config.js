@@ -1,1 +1,1 @@
-var mnemonic = "void sister ketchup maze miracle smart acoustic eye muscle lion imitate solid";
+var mnemonic = "wage conduct ugly area stove toss once police actor lift wine youth";

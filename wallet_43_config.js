@@ -1,1 +1,1 @@
-var mnemonic = "rack rapid suffer garbage lazy apology bacon cycle negative potato aerobic addict";
+var mnemonic = "solid genre horror letter outdoor school sock useful child vacant inject dolphin";

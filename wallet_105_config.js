@@ -1,1 +1,1 @@
-var mnemonic = "laugh assault food cereal deliver subject idle diagram grain ice dream century";
+var mnemonic = "script pet bamboo rough begin napkin spike tag often sign mix bus";

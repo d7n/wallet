@@ -1,1 +1,1 @@
-var mnemonic = "luggage undo genius cute reward chief chimney rabbit produce stairs dial kitten";
+var mnemonic = "gasp dinosaur badge trick grace legal girl notable core define age pet";

@@ -1,1 +1,1 @@
-var mnemonic = "blue pluck return beef bracket grief march card assist foil cereal park";
+var mnemonic = "doll hand sponsor student unaware off bench entry coach velvet outer goddess";

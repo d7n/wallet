@@ -1,1 +1,1 @@
-var mnemonic = "dream monkey include pupil wreck any mom young innocent taxi negative nothing";
+var mnemonic = "pudding front minor face today jacket myself surprise spawn panic vacuum join";
