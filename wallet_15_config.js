@@ -1,1 +1,1 @@
-var mnemonic = "spring mirror pencil input strategy media provide empty aunt ceiling fade donate";
+var mnemonic = "drive grain love unhappy rookie scan govern outdoor glance neglect nurse gather";

@@ -1,1 +1,1 @@
-var mnemonic = "dog large filter help rebuild path prison remove fresh twenty paper ranch";
+var mnemonic = "tube adult skill zoo curtain velvet hawk advice electric scare stool enlist";

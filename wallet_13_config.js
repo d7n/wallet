@@ -1,1 +1,1 @@
-var mnemonic = "asthma error swamp pigeon foster bounce wrestle retire team piano come salute";
+var mnemonic = "speak tone vague repair error attract urge ignore enough pudding vibrant great";

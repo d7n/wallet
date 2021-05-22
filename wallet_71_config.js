@@ -1,1 +1,1 @@
-var mnemonic = "argue aware dish giraffe source enact hold impact busy fresh impose image";
+var mnemonic = "grit trade sing elevator grab debris okay nothing sun auto bar kiwi";

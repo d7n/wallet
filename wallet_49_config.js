@@ -1,1 +1,1 @@
-var mnemonic = "jeans subject panic pupil wide eagle eager sketch bread pilot ecology broom";
+var mnemonic = "glimpse recall drama slender duck inmate brain follow throw offer excess photo";

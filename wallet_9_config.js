@@ -1,1 +1,1 @@
-var mnemonic = "youth ignore unfold kick scan hybrid farm exit faith punch luggage funny";
+var mnemonic = "height dice proud guilt state coin jaguar pull myself country uncover fire";

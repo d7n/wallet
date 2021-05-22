@@ -1,1 +1,1 @@
-var mnemonic = "opera turn glory vessel kind sense borrow shrug minute fatigue eagle plastic";
+var mnemonic = "situate kidney exchange course crash giggle tobacco fury orient episode range mosquito";

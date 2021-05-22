@@ -1,1 +1,1 @@
-var mnemonic = "recycle family onion test act rug digital damp feel cereal basket large";
+var mnemonic = "pipe pelican search problem gas method foster pigeon emotion brave fringe duck";

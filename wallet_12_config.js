@@ -1,1 +1,1 @@
-var mnemonic = "sorry normal citizen dolphin kangaroo fortune siege soccer robust total enable right";
+var mnemonic = "logic rent only gap always harsh empty busy cute explain arctic shift";

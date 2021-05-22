@@ -1,1 +1,1 @@
-var mnemonic = "bulb van couple ancient flip drip eternal leader urge demise deer update";
+var mnemonic = "bunker burst dash borrow diary lawn elite chaos swing mimic science salon";

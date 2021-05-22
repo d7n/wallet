@@ -1,1 +1,1 @@
-var mnemonic = "attack dash voice shine couch black company beauty point disagree device candy";
+var mnemonic = "bargain music hazard prosper flame ski glow around cycle merry expire hip";

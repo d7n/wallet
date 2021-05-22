@@ -1,1 +1,1 @@
-var mnemonic = "say parent nominee funny thank void there uniform iron pulse hat chest";
+var mnemonic = "milk pizza already ask find certain crystal orphan tomorrow success sentence absent";

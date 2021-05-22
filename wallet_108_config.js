@@ -1,1 +1,1 @@
-var mnemonic = "airport traffic auto call blur inquiry increase civil effort abuse audit execute";
+var mnemonic = "spread buffalo butter viable merry envelope rose tuna coach actress dad assault";

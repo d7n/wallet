@@ -1,1 +1,1 @@
-var mnemonic = "pyramid slice comic lock leopard whale rate engage trouble tuition retreat skill";
+var mnemonic = "spin cliff truth home soda skill frozen sentence upon stage arctic wool";

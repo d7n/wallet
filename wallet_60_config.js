@@ -1,1 +1,1 @@
-var mnemonic = "ethics window critic fan razor give happy river rent know seed sorry";
+var mnemonic = "sea nest arch electric leave correct flip uncover vendor enough vague cost";

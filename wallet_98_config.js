@@ -1,1 +1,1 @@
-var mnemonic = "improve error excuse open clever entry vast intact chapter leaf upper hard";
+var mnemonic = "trial next horror combine pumpkin almost deliver there expect parade blossom time";

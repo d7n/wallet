@@ -1,1 +1,1 @@
-var mnemonic = "feel cash apart differ radio clinic brass scrap observe claim thumb blouse";
+var mnemonic = "magnet vital few candy real similar father predict meadow reject bring sun";

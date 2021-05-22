@@ -1,1 +1,1 @@
-var mnemonic = "monkey grace alley screen note collect winner sweet result crawl original opera";
+var mnemonic = "shield peanut bicycle jewel grid dynamic exile cup island expect cover spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen asthma wool surface fever equip penalty clown spirit flash switch crunch";
+var mnemonic = "system ripple pond undo bullet million unit hole same misery item define";

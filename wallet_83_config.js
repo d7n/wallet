@@ -1,1 +1,1 @@
-var mnemonic = "real inmate wheel roof ghost mass gloom marine portion demand chase mushroom";
+var mnemonic = "girl absent mind misery trial fold chalk axis try gallery embrace open";

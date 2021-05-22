@@ -1,1 +1,1 @@
-var mnemonic = "hawk bag glow onion swift unusual quick path grain inject there leader";
+var mnemonic = "tobacco wish shield define drift car judge crowd clutch can pudding install";

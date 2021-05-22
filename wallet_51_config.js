@@ -1,1 +1,1 @@
-var mnemonic = "rice convince corn help weasel twenty aisle list tree practice acquire bench";
+var mnemonic = "tortoise wool kite speed fox anxiety cherry wood emerge pumpkin curious fox";

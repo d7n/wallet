@@ -1,1 +1,1 @@
-var mnemonic = "wash whip achieve raise course leave drama casual muffin win slender hip";
+var mnemonic = "cube cargo tuna point soft car share prison virus betray rare return";

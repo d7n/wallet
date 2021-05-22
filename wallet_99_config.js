@@ -1,1 +1,1 @@
-var mnemonic = "spring regret into secret cry dragon favorite unknown artist teach unaware old";
+var mnemonic = "clog tennis ivory obtain icon gym manage empower chronic penalty aware march";

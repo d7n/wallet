@@ -1,1 +1,1 @@
-var mnemonic = "music wonder brown random urge trash audit radio tray edit later venture";
+var mnemonic = "grid height obvious grass caution bunker business flight option room more oxygen";

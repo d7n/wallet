@@ -1,1 +1,1 @@
-var mnemonic = "narrow twice summer jar ramp prepare high ramp salute repair tomorrow rural";
+var mnemonic = "buffalo maid muffin anxiety jungle resource aunt erase tornado mimic artefact diary";

@@ -1,1 +1,1 @@
-var mnemonic = "type choose exit member hamster draw large tip assault float cattle vast";
+var mnemonic = "face supply select hobby olive visa bomb shoot special novel gym genuine";

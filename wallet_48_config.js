@@ -1,1 +1,1 @@
-var mnemonic = "relief mistake surround can once series view quit history swing embrace early";
+var mnemonic = "attitude lesson team live test absorb light exhibit try box tortoise obey";

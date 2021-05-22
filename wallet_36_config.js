@@ -1,1 +1,1 @@
-var mnemonic = "twin coach image doll beef observe will major small foot recycle rhythm";
+var mnemonic = "scale figure lizard dance doctor erosion bridge moment lady castle chapter mandate";

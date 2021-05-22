@@ -1,1 +1,1 @@
-var mnemonic = "public find silver ripple buffalo shell trick ski tragic major muffin movie";
+var mnemonic = "depend flavor cannon online claim elegant race unusual warrior hamster slogan thing";

@@ -1,1 +1,1 @@
-var mnemonic = "hope layer donor buffalo indoor call car salon rural mouse gather young";
+var mnemonic = "resemble dose silver turn drive vacuum casual like left rapid sail space";

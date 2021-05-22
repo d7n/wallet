@@ -1,1 +1,1 @@
-var mnemonic = "jealous dust steel album can view pink current lab valve bar accuse";
+var mnemonic = "tourist swift citizen duty uncover chief narrow treat system token maze shine";

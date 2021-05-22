@@ -1,1 +1,1 @@
-var mnemonic = "book snake almost bench whip inject sound grocery humble easily bottom current";
+var mnemonic = "priority protect table hold section rotate cradle denial lady robot demise crew";

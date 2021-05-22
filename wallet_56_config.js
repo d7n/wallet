@@ -1,1 +1,1 @@
-var mnemonic = "satisfy copper make video film grief mesh swap wait laptop impact tray";
+var mnemonic = "trumpet sweet program oil car economy jaguar nerve ginger crazy unfair captain";

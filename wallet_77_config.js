@@ -1,1 +1,1 @@
-var mnemonic = "omit odor december blood giraffe announce exercise shove choice bar thumb despair";
+var mnemonic = "harsh need erupt cluster velvet absent total delay other van misery range";

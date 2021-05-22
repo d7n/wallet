@@ -1,1 +1,1 @@
-var mnemonic = "bronze pink velvet soul galaxy supply vocal oil baby liquid twice alpha";
+var mnemonic = "pigeon zero trophy olive ticket soon wave lumber neither fox soldier news";

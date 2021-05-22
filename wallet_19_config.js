@@ -1,1 +1,1 @@
-var mnemonic = "artwork oval okay title common diagram label infant foster harbor crazy supply";
+var mnemonic = "vintage paddle what pioneer earn uphold soda crush worth crush silent mansion";

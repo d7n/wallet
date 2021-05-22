@@ -1,1 +1,1 @@
-var mnemonic = "clap return solar half virtual slow twenty delay guide cram expect deposit";
+var mnemonic = "render clap catalog rule sausage act noise correct enemy mercy syrup waste";

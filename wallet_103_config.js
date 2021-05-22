@@ -1,1 +1,1 @@
-var mnemonic = "screen paper can siege build cream hockey leopard ability tent uncle february";
+var mnemonic = "affair tide elegant crop mobile shrimp clock normal clown oval flame timber";

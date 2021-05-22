@@ -1,1 +1,1 @@
-var mnemonic = "fluid exile pact strike govern dove mammal float limit strategy program team";
+var mnemonic = "symbol chimney hammer comfort manage fantasy brain visit swear slim heavy reform";

@@ -1,1 +1,1 @@
-var mnemonic = "course where illness calm viable unhappy bachelor book fatigue sphere return amount";
+var mnemonic = "hawk bird globe method kitchen guilt super update slim cave own resist";

@@ -1,1 +1,1 @@
-var mnemonic = "gift eight earth damp solve invest insect exhaust leave void employ obey";
+var mnemonic = "today swarm before valid trade poverty orange alarm wood credit cereal often";

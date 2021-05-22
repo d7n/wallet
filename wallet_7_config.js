@@ -1,1 +1,1 @@
-var mnemonic = "broom bulb inmate address category belt reject champion ritual goose chef police";
+var mnemonic = "fatigue sunset reward world net educate code wage cannon wish panic shoulder";

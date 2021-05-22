@@ -1,1 +1,1 @@
-var mnemonic = "evolve dog fluid post pudding emotion aisle tuna clay stable faint lecture";
+var mnemonic = "media drama kiss unfold table diet mother hard session true north film";

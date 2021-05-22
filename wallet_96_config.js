@@ -1,1 +1,1 @@
-var mnemonic = "portion artwork fancy exhibit deliver gossip slow like loop hill sting tiger";
+var mnemonic = "emerge wolf text whisper toward lamp shield elbow shift aware phone stadium";

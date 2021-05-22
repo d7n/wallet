@@ -1,1 +1,1 @@
-var mnemonic = "pencil cigar draft rebuild twenty shell rate floor logic try cousin bottom";
+var mnemonic = "catch ability gentle client distance wheel unfold exit absent bar endless equip";

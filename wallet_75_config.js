@@ -1,1 +1,1 @@
-var mnemonic = "achieve elder cool spoon gallery cloth response good distance network essay exchange";
+var mnemonic = "keen mom ordinary inflict enforce useful tired wagon secret phrase father tent";

@@ -1,1 +1,1 @@
-var mnemonic = "manage economy guard zone nice warm walk pride cabbage empower someone found";
+var mnemonic = "occur job hope ranch useful axis attract silk crash east total neck";

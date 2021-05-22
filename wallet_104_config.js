@@ -1,1 +1,1 @@
-var mnemonic = "stamp wear hat same virus demand debris poem elevator trust economy what";
+var mnemonic = "main trade trim rice equal pride juice winter symptom tell fork clip";

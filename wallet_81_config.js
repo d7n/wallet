@@ -1,1 +1,1 @@
-var mnemonic = "update flee pair riot prison bless keen region turkey song page glow";
+var mnemonic = "salon canyon service leisure dilemma what return hungry spoon giant bacon eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve economy news seed melt express fashion sibling head awesome insane snack";
+var mnemonic = "office color another retreat special expand call tool table object liberty erase";

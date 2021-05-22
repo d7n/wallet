@@ -1,1 +1,1 @@
-var mnemonic = "hidden ginger false twice mixed visit all rent estate detect promote match";
+var mnemonic = "antenna quit orient main noble ginger nuclear response car fantasy tattoo lunch";

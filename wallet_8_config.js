@@ -1,1 +1,1 @@
-var mnemonic = "civil cart almost ceiling pen now bag clap expect harvest degree mind";
+var mnemonic = "reduce mobile inherit they filter hungry season change tank round rhythm security";

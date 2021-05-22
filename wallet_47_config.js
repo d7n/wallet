@@ -1,1 +1,1 @@
-var mnemonic = "envelope become rabbit embody lottery unit service wait rice creek exit suggest";
+var mnemonic = "wife ritual urban live skate pet any front hover fame silver poverty";

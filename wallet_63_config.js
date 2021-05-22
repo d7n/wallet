@@ -1,1 +1,1 @@
-var mnemonic = "group forward vacuum village stamp catch leaf ginger silent plate base tree";
+var mnemonic = "occur doctor make erode blast spoon home absurd drama juice nut spy";

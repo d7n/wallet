@@ -1,1 +1,1 @@
-var mnemonic = "aunt lake earn gate ribbon mixed soap trumpet bubble hazard deal history";
+var mnemonic = "direct calm boat tell mountain bleak team broom solve task myself local";

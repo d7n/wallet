@@ -1,1 +1,1 @@
-var mnemonic = "fix save shallow shoot steel cover insect soft throw elephant attend daring";
+var mnemonic = "arena loan term twist pudding keen shadow fault assume chapter dawn umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "robust gossip age spell sail elite useful lumber rhythm pencil dilemma when";
+var mnemonic = "distance nose chef drastic apart west tortoise quantum embody direct baby gas";

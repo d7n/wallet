@@ -1,1 +1,1 @@
-var mnemonic = "blast amateur aerobic carry culture rug wealth unaware live tomorrow assault lend";
+var mnemonic = "annual distance mind mushroom erode wolf consider victory school annual loyal rent";

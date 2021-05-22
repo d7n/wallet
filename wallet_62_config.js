@@ -1,1 +1,1 @@
-var mnemonic = "verb produce want manual smart month pride sense chalk casino corn blame";
+var mnemonic = "above elder trade small deputy milk boat latin vehicle illness unfold craft";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo blossom document quality visit crumble powder airport lyrics decorate cousin flower";
+var mnemonic = "retire pattern resist toward punch illness crucial habit marine grass coach text";

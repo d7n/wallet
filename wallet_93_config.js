@@ -1,1 +1,1 @@
-var mnemonic = "merit fantasy chaos enemy combine amazing clay today frozen boil tool pumpkin";
+var mnemonic = "embrace earn rifle powder trick galaxy board stone table link key load";

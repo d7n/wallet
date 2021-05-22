@@ -1,1 +1,1 @@
-var mnemonic = "chalk skill tide account key cheap shoe craft quantum exhibit extend balance";
+var mnemonic = "embody immune vivid code innocent milk much diary neck stable flee point";

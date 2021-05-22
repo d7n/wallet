@@ -1,1 +1,1 @@
-var mnemonic = "cargo clutch deer net exact army imitate glory warm during genuine example";
+var mnemonic = "army fire hazard cattle alley lens illness trade print innocent review yard";

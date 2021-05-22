@@ -1,1 +1,1 @@
-var mnemonic = "casino daughter level leader unable warfare light cactus yard gasp hurry spray";
+var mnemonic = "upon action ivory stairs public injury tenant engage nest brief hair gadget";

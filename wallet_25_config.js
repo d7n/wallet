@@ -1,1 +1,1 @@
-var mnemonic = "bubble secret inquiry trumpet frame half utility input oyster hope all tattoo";
+var mnemonic = "drum air can large math crew reject cream puzzle away copper sand";

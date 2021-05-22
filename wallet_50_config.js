@@ -1,1 +1,1 @@
-var mnemonic = "cheap blood know truck uncover trumpet umbrella bargain appear magic weather output";
+var mnemonic = "public cotton similar boost doctor remind offer you envelope unique believe until";

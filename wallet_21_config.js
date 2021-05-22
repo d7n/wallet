@@ -1,1 +1,1 @@
-var mnemonic = "voyage tennis effort dream gain title hammer bulk village shell degree put";
+var mnemonic = "hybrid coyote learn army recycle burger silk shell price tiny peasant cream";

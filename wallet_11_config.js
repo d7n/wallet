@@ -1,1 +1,1 @@
-var mnemonic = "weekend demise maple buffalo flight before wine summer picture topple adjust bottom";
+var mnemonic = "canoe absent this cradle portion alone able lemon resource series picture viable";

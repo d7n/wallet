@@ -1,1 +1,1 @@
-var mnemonic = "top buffalo brand harvest slogan gentle shoulder poverty remove ride help twenty";
+var mnemonic = "city ugly ahead clap upset update chapter tired promote tent sustain reason";

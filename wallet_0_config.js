@@ -1,1 +1,1 @@
-var mnemonic = "find cry spring blanket label prize van gospel coast vacant oxygen easily";
+var mnemonic = "tragic equal mix century glue source job debate strategy renew shove start";

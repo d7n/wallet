@@ -1,1 +1,1 @@
-var mnemonic = "dial act endless pen hundred race shed solution forum code pulse true";
+var mnemonic = "tilt vehicle forget lens slab option park brain evolve glove mountain asset";

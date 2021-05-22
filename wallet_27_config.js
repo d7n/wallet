@@ -1,1 +1,1 @@
-var mnemonic = "purpose power tiny noble yellow hope dizzy practice charge vibrant chimney gospel";
+var mnemonic = "dial budget task web danger whale custom phone attract carpet shy pet";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe notice fall hollow lab horror pet deputy process client wife mule";
+var mnemonic = "better crush route dirt retreat size endorse electric notable dilemma friend design";

@@ -1,1 +1,1 @@
-var mnemonic = "nation foot divert pause own volcano remain butter axis large stone amused";
+var mnemonic = "heart grain pluck there sauce review guard plastic submit quarter impulse shove";

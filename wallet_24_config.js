@@ -1,1 +1,1 @@
-var mnemonic = "mail master wood mercy gown discover cheese six tackle much pig have";
+var mnemonic = "game speed piano stereo sad employ snake client empty foil loop case";

@@ -1,1 +1,1 @@
-var mnemonic = "member virtual space dizzy supreme divorce verify unveil frame token misery mansion";
+var mnemonic = "salute worry table alert priority knock drive entire myself desert point quote";

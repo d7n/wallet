@@ -1,1 +1,1 @@
-var mnemonic = "theory soft anchor spirit success flower cinnamon disease aspect upon lyrics basket";
+var mnemonic = "depend monitor alone scan social display someone better glance beyond recipe bargain";

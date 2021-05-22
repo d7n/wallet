@@ -1,1 +1,1 @@
-var mnemonic = "crush equal addict heart metal seek broken evolve coral insane excite celery";
+var mnemonic = "swift visa caught tired spawn volcano quick joke reunion boat federal welcome";

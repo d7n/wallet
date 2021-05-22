@@ -1,1 +1,1 @@
-var mnemonic = "project pipe doll play print toss affair increase report hip obtain priority";
+var mnemonic = "surge emotion pelican sunny jacket actor whip impose floor element circle coyote";

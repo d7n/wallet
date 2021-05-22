@@ -1,1 +1,1 @@
-var mnemonic = "plug mango price tide history quiz crash gym trophy hub napkin vacant";
+var mnemonic = "sun moment comfort arena monitor walnut element spirit glow youth motor mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp battle unlock invite target water hammer bright claim sunset female bacon";
+var mnemonic = "affair steel hair sunset coil history choice search wine crime zero dentist";

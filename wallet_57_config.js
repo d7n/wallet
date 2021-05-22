@@ -1,1 +1,1 @@
-var mnemonic = "feature eye clean visa crash slot armed tobacco sword case bounce collect";
+var mnemonic = "apple number vapor spawn target frost ordinary parent shop gospel very ginger";

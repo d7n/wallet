@@ -1,1 +1,1 @@
-var mnemonic = "blade social tortoise travel tomato video negative mule planet spell gadget sunset";
+var mnemonic = "void onion achieve purchase favorite build typical moment marriage rich powder search";

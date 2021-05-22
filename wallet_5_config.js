@@ -1,1 +1,1 @@
-var mnemonic = "view honey sick verify potato verb gravity medal subject trial mention topic";
+var mnemonic = "erosion drive stairs barrel fiction real used under goat wing keep arrest";

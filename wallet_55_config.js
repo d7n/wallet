@@ -1,1 +1,1 @@
-var mnemonic = "awesome rally grunt forest bar various about injury fashion wide vast involve";
+var mnemonic = "fiber gold hover danger hedgehog limb skin coral survey best reward asset";

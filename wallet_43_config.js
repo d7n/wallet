@@ -1,1 +1,1 @@
-var mnemonic = "plastic silly mimic razor father year crisp fiber risk deer genre private";
+var mnemonic = "million junior access early sweet inner average mouse summer during leopard fatigue";

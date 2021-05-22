@@ -1,1 +1,1 @@
-var mnemonic = "saddle text type penalty certain salt muffin depth guess feel guard olympic";
+var mnemonic = "clerk mobile custom empower neither rotate cost smooth legal jar during bike";

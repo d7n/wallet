@@ -1,1 +1,1 @@
-var mnemonic = "proud soldier rotate analyst flip input main trip retire fade today reject";
+var mnemonic = "dizzy valve nice tone inspire tower below account box error globe coffee";
