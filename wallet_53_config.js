@@ -1,1 +1,1 @@
-var mnemonic = "frost source misery usual armor garage fiction attack destroy pause popular rhythm";
+var mnemonic = "tide club near track tobacco clinic perfect abandon document sting dwarf describe";

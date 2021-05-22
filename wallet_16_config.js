@@ -1,1 +1,1 @@
-var mnemonic = "hat occur cactus increase vocal tourist vapor bounce duty sock exhibit comic";
+var mnemonic = "sustain entire pumpkin share avocado tell organ seminar coffee habit clutch loyal";

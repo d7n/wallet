@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wool kite speed fox anxiety cherry wood emerge pumpkin curious fox";
+var mnemonic = "obvious word task sunset faculty security dream layer bunker chief sibling bright";

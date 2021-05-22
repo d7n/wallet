@@ -1,1 +1,1 @@
-var mnemonic = "grit trade sing elevator grab debris okay nothing sun auto bar kiwi";
+var mnemonic = "grab grant cook demise marble potato ring brother grocery sell outside pigeon";

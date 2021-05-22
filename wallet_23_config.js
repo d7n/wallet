@@ -1,1 +1,1 @@
-var mnemonic = "affair steel hair sunset coil history choice search wine crime zero dentist";
+var mnemonic = "kidney creek chapter panel dial tourist life near solution donate outside tissue";

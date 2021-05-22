@@ -1,1 +1,1 @@
-var mnemonic = "funny close appear connect trash silk pulp display feed symbol lens gorilla";
+var mnemonic = "pledge tragic slot lounge silver baby salute pride text snap way swim";

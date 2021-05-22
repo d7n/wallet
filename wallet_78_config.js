@@ -1,1 +1,1 @@
-var mnemonic = "credit upgrade arctic amazing kiss grocery horn rack early join tilt renew";
+var mnemonic = "dismiss raise topple choose broom correct dilemma there winner pony peace pottery";

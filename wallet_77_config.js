@@ -1,1 +1,1 @@
-var mnemonic = "harsh need erupt cluster velvet absent total delay other van misery range";
+var mnemonic = "grit angle february swear room electric source cotton thrive ordinary apology method";

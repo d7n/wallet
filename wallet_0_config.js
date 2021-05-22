@@ -1,1 +1,1 @@
-var mnemonic = "tragic equal mix century glue source job debate strategy renew shove start";
+var mnemonic = "siren stove walnut accident just borrow actual hub guitar banana canal royal";

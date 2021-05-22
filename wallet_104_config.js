@@ -1,1 +1,1 @@
-var mnemonic = "main trade trim rice equal pride juice winter symptom tell fork clip";
+var mnemonic = "shell hero orbit mushroom dose age civil mixture achieve actress puzzle easy";

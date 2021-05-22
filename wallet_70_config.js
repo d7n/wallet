@@ -1,1 +1,1 @@
-var mnemonic = "tube adult skill zoo curtain velvet hawk advice electric scare stool enlist";
+var mnemonic = "merit cupboard main orient smart food episode top video again ostrich cluster";

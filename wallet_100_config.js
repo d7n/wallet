@@ -1,1 +1,1 @@
-var mnemonic = "heart grain pluck there sauce review guard plastic submit quarter impulse shove";
+var mnemonic = "series more coin rose absent mirror phrase world tower chef matrix taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "direct calm boat tell mountain bleak team broom solve task myself local";
+var mnemonic = "scout spice host butter paddle photo april hunt click fancy elegant train";

@@ -1,1 +1,1 @@
-var mnemonic = "public cotton similar boost doctor remind offer you envelope unique believe until";
+var mnemonic = "foil citizen sight smoke odor hurdle jeans clip foot farm napkin favorite";

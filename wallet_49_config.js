@@ -1,1 +1,1 @@
-var mnemonic = "glimpse recall drama slender duck inmate brain follow throw offer excess photo";
+var mnemonic = "inspire uniform diesel permit way genius gentle abuse speak arrow feature vast";

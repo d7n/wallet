@@ -1,1 +1,1 @@
-var mnemonic = "dial budget task web danger whale custom phone attract carpet shy pet";
+var mnemonic = "friend soda receive blossom shuffle roof lion similar they group beauty like";

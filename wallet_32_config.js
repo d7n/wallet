@@ -1,1 +1,1 @@
-var mnemonic = "antenna quit orient main noble ginger nuclear response car fantasy tattoo lunch";
+var mnemonic = "remind swap arctic salute will duty shell nothing brass because shove grief";

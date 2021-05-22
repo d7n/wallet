@@ -1,1 +1,1 @@
-var mnemonic = "season ankle wedding hour search cry level bus nominee column mountain private";
+var mnemonic = "forum crowd snake husband chest actor crash example about when acquire crew";

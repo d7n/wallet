@@ -1,1 +1,1 @@
-var mnemonic = "trumpet sweet program oil car economy jaguar nerve ginger crazy unfair captain";
+var mnemonic = "vessel pen horn view allow kit science sweet scorpion attitude poem bone";

@@ -1,1 +1,1 @@
-var mnemonic = "distance nose chef drastic apart west tortoise quantum embody direct baby gas";
+var mnemonic = "rough immense question crazy local pitch yard behind slam wheat labor one";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk bird globe method kitchen guilt super update slim cave own resist";
+var mnemonic = "ivory december frog force reopen grab control popular sort chunk swap supply";

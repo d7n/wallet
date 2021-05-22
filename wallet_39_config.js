@@ -1,1 +1,1 @@
-var mnemonic = "myth process swear point coach lava digital defy pen thing abandon renew";
+var mnemonic = "protect elegant siege tomorrow slow rare title harvest reflect eternal solar front";

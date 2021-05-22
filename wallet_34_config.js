@@ -1,1 +1,1 @@
-var mnemonic = "library spend glue matter circle relax present move field salad fog sea";
+var mnemonic = "custom give capital pony labor dinner caution metal ask gather guilt vast";

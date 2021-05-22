@@ -1,1 +1,1 @@
-var mnemonic = "speak tone vague repair error attract urge ignore enough pudding vibrant great";
+var mnemonic = "card debate armed logic robust remain term car reveal predict talent champion";

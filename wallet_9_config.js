@@ -1,1 +1,1 @@
-var mnemonic = "height dice proud guilt state coin jaguar pull myself country uncover fire";
+var mnemonic = "sibling gap dirt join west crawl simple swallow shop emotion dwarf board";

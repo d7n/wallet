@@ -1,1 +1,1 @@
-var mnemonic = "embody immune vivid code innocent milk much diary neck stable flee point";
+var mnemonic = "easily suspect crack comfort express brother month tape olive uncle scene firm";

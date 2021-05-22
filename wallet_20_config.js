@@ -1,1 +1,1 @@
-var mnemonic = "dizzy valve nice tone inspire tower below account box error globe coffee";
+var mnemonic = "coast fetch jacket obscure fall crater pumpkin ring one key skirt category";

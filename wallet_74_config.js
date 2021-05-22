@@ -1,1 +1,1 @@
-var mnemonic = "city ugly ahead clap upset update chapter tired promote tent sustain reason";
+var mnemonic = "bag squeeze shield suggest tail modify oxygen borrow attitude vessel matrix next";

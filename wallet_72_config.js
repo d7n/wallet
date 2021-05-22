@@ -1,1 +1,1 @@
-var mnemonic = "office color another retreat special expand call tool table object liberty erase";
+var mnemonic = "sunset doctor never film vivid bridge goddess fold hub suggest gather type";

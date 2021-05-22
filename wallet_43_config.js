@@ -1,1 +1,1 @@
-var mnemonic = "million junior access early sweet inner average mouse summer during leopard fatigue";
+var mnemonic = "involve humble frost fatal senior wheel much genius lobster leaf extend home";

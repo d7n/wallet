@@ -1,1 +1,1 @@
-var mnemonic = "tilt vehicle forget lens slab option park brain evolve glove mountain asset";
+var mnemonic = "hen fossil wage buffalo stadium finger cloth trend dentist whisper when paddle";

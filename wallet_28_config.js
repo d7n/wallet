@@ -1,1 +1,1 @@
-var mnemonic = "device illness give pumpkin shop code menu open brain loop potato enhance";
+var mnemonic = "suit unlock resist hidden oak love polar river visa live change access";

@@ -1,1 +1,1 @@
-var mnemonic = "grid height obvious grass caution bunker business flight option room more oxygen";
+var mnemonic = "area hip stool outside garment rigid cable caution silver order credit column";

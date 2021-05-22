@@ -1,1 +1,1 @@
-var mnemonic = "canoe absent this cradle portion alone able lemon resource series picture viable";
+var mnemonic = "traffic cargo ask bulk fabric drive rug inhale net suspect salad image";

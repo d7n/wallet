@@ -1,1 +1,1 @@
-var mnemonic = "tourist swift citizen duty uncover chief narrow treat system token maze shine";
+var mnemonic = "famous canyon doctor alarm enact whip under gloom grunt lend sniff jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "asset chronic unfair project muffin party cluster liar pupil bright pistol erupt";
+var mnemonic = "siren hour shock kite gate enable hybrid learn pink damp example drama";

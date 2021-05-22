@@ -1,1 +1,1 @@
-var mnemonic = "cube cargo tuna point soft car share prison virus betray rare return";
+var mnemonic = "city pride forward own group glory aim trophy maple render faith obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "glance country width ocean client promote firm cement flat can gym tape";
+var mnemonic = "retire dragon length push episode sausage odor payment vague mom describe knife";

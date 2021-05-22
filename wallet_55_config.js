@@ -1,1 +1,1 @@
-var mnemonic = "fiber gold hover danger hedgehog limb skin coral survey best reward asset";
+var mnemonic = "reason sunset sell output idea blur surprise laptop autumn party gallery marble";

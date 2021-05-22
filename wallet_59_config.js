@@ -1,1 +1,1 @@
-var mnemonic = "sunset flip report comfort warrior purse supply decade return bundle basic soccer";
+var mnemonic = "physical canoe merit soldier riot wheel miss because chimney pave flee earn";

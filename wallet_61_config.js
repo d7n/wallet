@@ -1,1 +1,1 @@
-var mnemonic = "shield peanut bicycle jewel grid dynamic exile cup island expect cover spatial";
+var mnemonic = "axis false assault amount essence shoot arctic equip chalk shoulder snake select";

@@ -1,1 +1,1 @@
-var mnemonic = "morning peanut banana color divide rather arrive path bar adjust arena tornado";
+var mnemonic = "inform head stamp come inch hood possible reopen innocent random truck ramp";

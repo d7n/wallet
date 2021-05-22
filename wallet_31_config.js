@@ -1,1 +1,1 @@
-var mnemonic = "resemble dose silver turn drive vacuum casual like left rapid sail space";
+var mnemonic = "universe toss teach film borrow theory rain install novel lens bid grit";

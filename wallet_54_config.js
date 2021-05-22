@@ -1,1 +1,1 @@
-var mnemonic = "void onion achieve purchase favorite build typical moment marriage rich powder search";
+var mnemonic = "alcohol devote game violin dog dinner awkward joke expose rebuild scale solve";

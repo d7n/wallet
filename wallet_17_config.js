@@ -1,1 +1,1 @@
-var mnemonic = "today swarm before valid trade poverty orange alarm wood credit cereal often";
+var mnemonic = "rose host rabbit debris waste doctor album manage risk canoe fork few";

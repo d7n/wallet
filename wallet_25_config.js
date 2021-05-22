@@ -1,1 +1,1 @@
-var mnemonic = "drum air can large math crew reject cream puzzle away copper sand";
+var mnemonic = "cousin weapon eternal cup result frozen ice road private stick april foot";

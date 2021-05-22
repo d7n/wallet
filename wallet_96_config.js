@@ -1,1 +1,1 @@
-var mnemonic = "emerge wolf text whisper toward lamp shield elbow shift aware phone stadium";
+var mnemonic = "black fence tuna beef salt achieve almost large cart gain bird coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "upon action ivory stairs public injury tenant engage nest brief hair gadget";
+var mnemonic = "disagree family hundred boy afraid artefact street about clarify penalty warrior curious";

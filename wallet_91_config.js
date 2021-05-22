@@ -1,1 +1,1 @@
-var mnemonic = "depend flavor cannon online claim elegant race unusual warrior hamster slogan thing";
+var mnemonic = "until language input vacant antenna upset planet beauty cool decorate together trial";

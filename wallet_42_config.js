@@ -1,1 +1,1 @@
-var mnemonic = "symbol chimney hammer comfort manage fantasy brain visit swear slim heavy reform";
+var mnemonic = "boy dutch lemon original earth vintage lizard modify ranch alter inspire behave";

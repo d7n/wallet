@@ -1,1 +1,1 @@
-var mnemonic = "salon canyon service leisure dilemma what return hungry spoon giant bacon eternal";
+var mnemonic = "crane shine toddler fury write rug cactus evolve hedgehog mouse disagree slush";

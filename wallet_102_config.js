@@ -1,1 +1,1 @@
-var mnemonic = "media drama kiss unfold table diet mother hard session true north film";
+var mnemonic = "body chunk still attitude indicate crazy century celery stand educate inside awkward";

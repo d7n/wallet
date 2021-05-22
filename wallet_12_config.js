@@ -1,1 +1,1 @@
-var mnemonic = "logic rent only gap always harsh empty busy cute explain arctic shift";
+var mnemonic = "venture license amount similar unhappy ankle critic result access behind century visual";

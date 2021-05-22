@@ -1,1 +1,1 @@
-var mnemonic = "bag fiber issue rapid carbon bonus speed boil away basket aspect wool";
+var mnemonic = "torch differ hurry toast wolf thumb want emotion fold oppose oval sure";

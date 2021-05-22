@@ -1,1 +1,1 @@
-var mnemonic = "retire pattern resist toward punch illness crucial habit marine grass coach text";
+var mnemonic = "humor convince awful jewel traffic relief empower sauce matrix joke pattern shuffle";

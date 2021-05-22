@@ -1,1 +1,1 @@
-var mnemonic = "pipe pelican search problem gas method foster pigeon emotion brave fringe duck";
+var mnemonic = "goose luxury lemon opinion bleak era tumble load proof require hockey mix";

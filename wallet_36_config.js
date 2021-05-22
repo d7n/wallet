@@ -1,1 +1,1 @@
-var mnemonic = "scale figure lizard dance doctor erosion bridge moment lady castle chapter mandate";
+var mnemonic = "wink upset learn travel until foster south spice minimum spot crack aisle";

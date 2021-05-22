@@ -1,1 +1,1 @@
-var mnemonic = "catch ability gentle client distance wheel unfold exit absent bar endless equip";
+var mnemonic = "rabbit shadow among dizzy pluck poet cruel point awesome hover before forget";

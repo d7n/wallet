@@ -1,1 +1,1 @@
-var mnemonic = "attitude lesson team live test absorb light exhibit try box tortoise obey";
+var mnemonic = "method evoke address prison fiber moral employ zero fiction endless pelican fiber";

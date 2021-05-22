@@ -1,1 +1,1 @@
-var mnemonic = "fatigue sunset reward world net educate code wage cannon wish panic shoulder";
+var mnemonic = "rotate sunny enemy village clean weapon slush then quote deny glass blossom";

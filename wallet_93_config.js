@@ -1,1 +1,1 @@
-var mnemonic = "embrace earn rifle powder trick galaxy board stone table link key load";
+var mnemonic = "eight gap magnet roast tiny stereo drop dirt stem parade effort salon";

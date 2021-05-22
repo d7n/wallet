@@ -1,1 +1,1 @@
-var mnemonic = "occur job hope ranch useful axis attract silk crash east total neck";
+var mnemonic = "success more holiday addict nurse swarm physical punch detect belt parade unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "depend monitor alone scan social display someone better glance beyond recipe bargain";
+var mnemonic = "picnic celery coach spread raise december flush barely educate olive wine breeze";

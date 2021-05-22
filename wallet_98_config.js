@@ -1,1 +1,1 @@
-var mnemonic = "trial next horror combine pumpkin almost deliver there expect parade blossom time";
+var mnemonic = "frost assist skate bounce turn enjoy honey tone remind only lend cancel";

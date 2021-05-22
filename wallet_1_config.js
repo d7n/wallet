@@ -1,1 +1,1 @@
-var mnemonic = "situate kidney exchange course crash giggle tobacco fury orient episode range mosquito";
+var mnemonic = "two carry cross bulk rescue pudding unaware digital bar fence senior hen";

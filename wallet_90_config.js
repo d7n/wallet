@@ -1,1 +1,1 @@
-var mnemonic = "magnet vital few candy real similar father predict meadow reject bring sun";
+var mnemonic = "captain dutch boost people pen quiz muffin cook light poet whale kingdom";

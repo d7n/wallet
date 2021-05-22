@@ -1,1 +1,1 @@
-var mnemonic = "always asthma convince flee cycle special civil flat series kick false rely";
+var mnemonic = "lady replace tree corn inflict clap cabin unaware sound example double grief";

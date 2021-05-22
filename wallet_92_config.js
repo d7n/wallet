@@ -1,1 +1,1 @@
-var mnemonic = "face supply select hobby olive visa bomb shoot special novel gym genuine";
+var mnemonic = "venue struggle kitchen broccoli ankle blanket second name script evoke magnet stage";

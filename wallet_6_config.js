@@ -1,1 +1,1 @@
-var mnemonic = "sun moment comfort arena monitor walnut element spirit glow youth motor mimic";
+var mnemonic = "advance layer food embrace marriage imitate level shadow federal naive grief false";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain music hazard prosper flame ski glow around cycle merry expire hip";
+var mnemonic = "steel twin calm life possible oak space genius great bachelor knife fit";

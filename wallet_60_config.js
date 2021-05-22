@@ -1,1 +1,1 @@
-var mnemonic = "sea nest arch electric leave correct flip uncover vendor enough vague cost";
+var mnemonic = "pause faith rabbit poet enough genre dance faith bean detect ball medal";

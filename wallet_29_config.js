@@ -1,1 +1,1 @@
-var mnemonic = "pigeon zero trophy olive ticket soon wave lumber neither fox soldier news";
+var mnemonic = "meadow proof sustain square unaware interest crater crop ramp card color modify";

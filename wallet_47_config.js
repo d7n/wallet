@@ -1,1 +1,1 @@
-var mnemonic = "wife ritual urban live skate pet any front hover fame silver poverty";
+var mnemonic = "alley unhappy shed advance ecology soap verb dice eight clay pass matter";

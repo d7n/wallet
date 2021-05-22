@@ -1,1 +1,1 @@
-var mnemonic = "apple number vapor spawn target frost ordinary parent shop gospel very ginger";
+var mnemonic = "clown science inch exercise dolphin sleep aim stove orient friend deal wolf";

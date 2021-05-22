@@ -1,1 +1,1 @@
-var mnemonic = "game speed piano stereo sad employ snake client empty foil loop case";
+var mnemonic = "easily boy plate pony retire collect gravity public coin royal accuse slam";

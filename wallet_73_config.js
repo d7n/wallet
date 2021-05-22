@@ -1,1 +1,1 @@
-var mnemonic = "system ripple pond undo bullet million unit hole same misery item define";
+var mnemonic = "film text survey fantasy north pair record project shift stool alone solar";

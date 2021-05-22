@@ -1,1 +1,1 @@
-var mnemonic = "spread buffalo butter viable merry envelope rose tuna coach actress dad assault";
+var mnemonic = "elite affair crane appear size dash sunset design offer festival deer before";

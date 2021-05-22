@@ -1,1 +1,1 @@
-var mnemonic = "surge emotion pelican sunny jacket actor whip impose floor element circle coyote";
+var mnemonic = "caught flush fortune carry always omit submit acoustic rebuild access armed biology";

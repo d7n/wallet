@@ -1,1 +1,1 @@
-var mnemonic = "bunker burst dash borrow diary lawn elite chaos swing mimic science salon";
+var mnemonic = "sort ahead return grunt drink promote peasant record stable uncover orange obvious";

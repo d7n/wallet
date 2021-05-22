@@ -1,1 +1,1 @@
-var mnemonic = "game voice travel disease aspect wing desert local result winner enforce dumb";
+var mnemonic = "lottery intact betray illness bicycle energy weekend lunch escape gravity entry major";

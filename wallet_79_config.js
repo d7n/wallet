@@ -1,1 +1,1 @@
-var mnemonic = "annual distance mind mushroom erode wolf consider victory school annual loyal rent";
+var mnemonic = "able clock awkward foil melody peace beef move snack fortune bright stomach";

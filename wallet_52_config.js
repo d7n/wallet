@@ -1,1 +1,1 @@
-var mnemonic = "better crush route dirt retreat size endorse electric notable dilemma friend design";
+var mnemonic = "aspect team swamp edge describe vicious noodle bronze carbon pair round harvest";

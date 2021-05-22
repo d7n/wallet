@@ -1,1 +1,1 @@
-var mnemonic = "milk pizza already ask find certain crystal orphan tomorrow success sentence absent";
+var mnemonic = "antique worry bundle entire scrap document draft circle notable accuse exhibit bone";

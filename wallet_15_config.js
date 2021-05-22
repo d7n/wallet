@@ -1,1 +1,1 @@
-var mnemonic = "drive grain love unhappy rookie scan govern outdoor glance neglect nurse gather";
+var mnemonic = "public raw honey govern air nest flat amount absent erase insane clerk";

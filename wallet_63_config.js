@@ -1,1 +1,1 @@
-var mnemonic = "occur doctor make erode blast spoon home absurd drama juice nut spy";
+var mnemonic = "blossom oxygen whale jelly inject provide panda track face bird half oxygen";

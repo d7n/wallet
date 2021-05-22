@@ -1,1 +1,1 @@
-var mnemonic = "swift visa caught tired spawn volcano quick joke reunion boat federal welcome";
+var mnemonic = "ginger hover audit pelican neck wrong circle adapt snow denial risk attack";

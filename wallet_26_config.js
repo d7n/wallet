@@ -1,1 +1,1 @@
-var mnemonic = "they inspire case ridge aunt crucial physical shell thrive spend clay boat";
+var mnemonic = "token give point radio consider mystery report illness spot goose tonight group";

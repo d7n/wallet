@@ -1,1 +1,1 @@
-var mnemonic = "keen mom ordinary inflict enforce useful tired wagon secret phrase father tent";
+var mnemonic = "secret parade adapt impact knife attack tooth deny space boring embody blossom";

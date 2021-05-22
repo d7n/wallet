@@ -1,1 +1,1 @@
-var mnemonic = "spin cliff truth home soda skill frozen sentence upon stage arctic wool";
+var mnemonic = "mountain enable common advice material verify roof utility harbor cereal category sudden";

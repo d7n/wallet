@@ -1,1 +1,1 @@
-var mnemonic = "reduce mobile inherit they filter hungry season change tank round rhythm security";
+var mnemonic = "fever lion deal relax fit utility prize true budget feature tuna wear";
