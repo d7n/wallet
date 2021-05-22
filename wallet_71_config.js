@@ -1,1 +1,1 @@
-var mnemonic = "rally chimney fish mammal labor kitten vast debate outer have pattern level";
+var mnemonic = "forget economy thumb approve later seed prevent moment cloud honey slot reform";

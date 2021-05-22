@@ -1,1 +1,1 @@
-var mnemonic = "glow assault turn season hollow hurt cotton result uphold coyote soap evolve";
+var mnemonic = "evolve quiz average happy give grass squeeze permit shy next boost mandate";

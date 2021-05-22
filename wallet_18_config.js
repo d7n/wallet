@@ -1,1 +1,1 @@
-var mnemonic = "scare more into join catalog two black proof spin profit security churn";
+var mnemonic = "ocean shadow camp board genre behave hedgehog vintage all drift home carry";

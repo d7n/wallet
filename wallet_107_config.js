@@ -1,1 +1,1 @@
-var mnemonic = "skirt teach aerobic decline cancel winter desert oblige captain guard journey actual";
+var mnemonic = "option love music token build angry hour post level record fresh clinic";

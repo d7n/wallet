@@ -1,1 +1,1 @@
-var mnemonic = "october express stand can afraid shallow violin fortune lawsuit window hint hello";
+var mnemonic = "paper shed meat hole sing proud jar goddess soda harbor tribe point";

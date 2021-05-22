@@ -1,1 +1,1 @@
-var mnemonic = "switch sign paper conduct afraid hand heavy labor lobster speed mobile check";
+var mnemonic = "acoustic pitch naive cherry friend dice lobster error super vendor vast remind";

@@ -1,1 +1,1 @@
-var mnemonic = "youth test rough antique staff penalty elite allow favorite area evoke devote";
+var mnemonic = "used pelican spring figure empty best three extra world maximum draft because";

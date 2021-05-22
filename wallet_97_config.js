@@ -1,1 +1,1 @@
-var mnemonic = "bind umbrella youth play bean glide palace acquire slogan direct tired snake";
+var mnemonic = "nothing panda deny horn arrest garden must cluster glory health woman only";

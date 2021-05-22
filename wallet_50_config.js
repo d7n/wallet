@@ -1,1 +1,1 @@
-var mnemonic = "entry father wage hole science program poem robot dolphin lift attitude arrange";
+var mnemonic = "twenty raw day city volume multiply zero scrap transfer reward shift curtain";

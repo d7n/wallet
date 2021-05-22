@@ -1,1 +1,1 @@
-var mnemonic = "depart demise benefit sugar benefit trend debris insect embrace utility main awesome";
+var mnemonic = "gadget ability domain april impact layer small neither network tobacco recipe river";

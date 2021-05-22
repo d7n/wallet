@@ -1,1 +1,1 @@
-var mnemonic = "actress click adjust romance solution stock time other turn lobster organ order";
+var mnemonic = "route artist toe caution skate genius real frog file smile riot ketchup";

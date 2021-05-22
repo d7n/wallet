@@ -1,1 +1,1 @@
-var mnemonic = "twin gesture update oxygen cradle glide install door girl lift bench nerve";
+var mnemonic = "police mercy trouble cup panel exhaust cram siege crime decorate risk stable";

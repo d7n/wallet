@@ -1,1 +1,1 @@
-var mnemonic = "atom degree theory crater toward order kid retire victory gas law harvest";
+var mnemonic = "trophy possible oak opinion wool dawn soap essence fork sunny struggle bundle";

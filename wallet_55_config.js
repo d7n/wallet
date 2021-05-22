@@ -1,1 +1,1 @@
-var mnemonic = "obscure sketch legend stone spend stove bless debris lucky recall ride chimney";
+var mnemonic = "team inch tiger bleak tent lucky increase army title way light music";

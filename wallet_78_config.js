@@ -1,1 +1,1 @@
-var mnemonic = "catch fatal diamond turtle next usual rally fever stairs together harvest head";
+var mnemonic = "bomb either cannon whale budget marine kitten glimpse rail maze anchor suspect";

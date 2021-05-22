@@ -1,1 +1,1 @@
-var mnemonic = "insane feed health dance outdoor flee ozone asthma jelly cram web eyebrow";
+var mnemonic = "pill egg owner april present polar twist own left stumble shock endorse";

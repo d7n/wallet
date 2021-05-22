@@ -1,1 +1,1 @@
-var mnemonic = "skate brain super social plunge fix fame seek bread forward sketch parrot";
+var mnemonic = "slide then edit tumble sing fuel quality manage major spray emerge airport";

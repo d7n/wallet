@@ -1,1 +1,1 @@
-var mnemonic = "erupt horse tired supply candy joke horse bird dwarf develop budget liar";
+var mnemonic = "catalog olympic tobacco calm toss must group leopard call spoon horn damage";

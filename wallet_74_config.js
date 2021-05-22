@@ -1,1 +1,1 @@
-var mnemonic = "stay hazard forest offer mango blame priority crew security screen torch ripple";
+var mnemonic = "soon two case flash right mosquito giraffe odor judge ignore symbol castle";

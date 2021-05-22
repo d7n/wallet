@@ -1,1 +1,1 @@
-var mnemonic = "sad hobby avoid settle domain symbol depth network gift kiwi gallery entire";
+var mnemonic = "sadness pill wave post water purity explain column giggle olympic exit admit";

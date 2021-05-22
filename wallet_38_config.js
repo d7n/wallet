@@ -1,1 +1,1 @@
-var mnemonic = "eight jeans share glimpse grief sausage believe process home meat push runway";
+var mnemonic = "target disagree final banner essence anger grape spray trash soap rifle cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn brass violin flip dose snack cancel gap reform tonight code book";
+var mnemonic = "comic ten usual exact ahead differ quarter flat rapid hire virtual foil";

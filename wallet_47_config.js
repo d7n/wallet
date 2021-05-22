@@ -1,1 +1,1 @@
-var mnemonic = "dog cloud light dice grief ball bundle chalk model leader shy now";
+var mnemonic = "assist ancient label will ginger uncle anger room icon ten into heart";

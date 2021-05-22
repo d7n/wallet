@@ -1,1 +1,1 @@
-var mnemonic = "dish zebra capital mouse illness brick organ balance wheel chair style forum";
+var mnemonic = "level anchor fever broccoli frog plate until right six firm radio globe";

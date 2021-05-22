@@ -1,1 +1,1 @@
-var mnemonic = "document illness alarm draw before bronze patch cactus waste gun ostrich item";
+var mnemonic = "wing credit neither label deer vintage spring wrap ocean admit organ comfort";

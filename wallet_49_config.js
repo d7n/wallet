@@ -1,1 +1,1 @@
-var mnemonic = "doctor approve repeat ability cake audit goddess enforce gold firm daring result";
+var mnemonic = "upset vapor ginger alarm install edit inflict nut receive harbor gospel attack";

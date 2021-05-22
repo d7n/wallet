@@ -1,1 +1,1 @@
-var mnemonic = "desk artefact polar husband cushion ripple dumb advice doctor later lawn crack";
+var mnemonic = "rain tackle elbow taxi skirt usual legal prevent south candy fancy depth";

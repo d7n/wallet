@@ -1,1 +1,1 @@
-var mnemonic = "slam love captain detail north feature correct rather apology tray misery heart";
+var mnemonic = "empower health dry problem plunge multiply innocent follow drift find bundle knock";

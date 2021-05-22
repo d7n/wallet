@@ -1,1 +1,1 @@
-var mnemonic = "sense coast unusual when have creek tower crisp lab aware tortoise world";
+var mnemonic = "abstract lawsuit rack hope reform valley scheme cup emerge wise crunch damage";

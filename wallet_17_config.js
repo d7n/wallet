@@ -1,1 +1,1 @@
-var mnemonic = "know animal guard idea dose hidden biology praise group actress luggage machine";
+var mnemonic = "soup reunion next famous recycle crucial field concert property describe beyond dawn";

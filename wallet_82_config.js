@@ -1,1 +1,1 @@
-var mnemonic = "crew witness document whale stable embrace critic roast hub waste quantum visa";
+var mnemonic = "ozone head destroy shell promote nest skill speed grab adjust subway solar";

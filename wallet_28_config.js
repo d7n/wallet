@@ -1,1 +1,1 @@
-var mnemonic = "smooth spot adult upgrade clog people quick main claim success victory pencil";
+var mnemonic = "seminar paddle cactus job later kangaroo monkey office hundred whisper arrange helmet";

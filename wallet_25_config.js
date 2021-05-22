@@ -1,1 +1,1 @@
-var mnemonic = "detail enjoy riot group enforce guess juice bomb speed kitchen lawsuit yard";
+var mnemonic = "wrap choice cricket memory horse year approve bounce wide sail judge design";

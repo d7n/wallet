@@ -1,1 +1,1 @@
-var mnemonic = "pear check swamp dress discover desert evolve gospel across nation army brand";
+var mnemonic = "enemy improve please switch predict rapid practice drink summer pyramid often volcano";

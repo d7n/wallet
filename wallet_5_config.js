@@ -1,1 +1,1 @@
-var mnemonic = "enforce decade battle hard subway garbage flower front copper grass hurt vital";
+var mnemonic = "deputy robot pill shove peanut payment risk lyrics spoon noise this hint";

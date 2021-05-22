@@ -1,1 +1,1 @@
-var mnemonic = "provide skull before moral fuel moment hunt cool kit pink retreat critic";
+var mnemonic = "horse rigid timber hedgehog rural monitor air where capable pelican base air";

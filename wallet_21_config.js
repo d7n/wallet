@@ -1,1 +1,1 @@
-var mnemonic = "dignity victory elegant minute walk stand table wool load helmet arrive sphere";
+var mnemonic = "often seminar diet asset provide rally salute another jar annual upon team";

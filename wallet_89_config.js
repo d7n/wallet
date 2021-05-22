@@ -1,1 +1,1 @@
-var mnemonic = "vehicle shoe list shine news elevator north excite spy festival inform staff";
+var mnemonic = "carbon demise same engine axis interest thought kitchen mad consider arrive park";

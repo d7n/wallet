@@ -1,1 +1,1 @@
-var mnemonic = "blood sentence digital gold order biology hammer negative elite north unknown glad";
+var mnemonic = "work blue evoke glue move axis jungle brush session blouse novel token";

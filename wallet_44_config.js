@@ -1,1 +1,1 @@
-var mnemonic = "grief heavy feed void there elite vacant apart benefit breeze coin history";
+var mnemonic = "fashion turn drink liar derive evidence sail romance round pepper warfare lock";

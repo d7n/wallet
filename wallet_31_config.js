@@ -1,1 +1,1 @@
-var mnemonic = "brand name guitar plug tomorrow kingdom universe enjoy pass kiwi artist camp";
+var mnemonic = "lava vintage then habit sight mention reason title collect earn door dream";

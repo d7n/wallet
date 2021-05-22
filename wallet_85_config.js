@@ -1,1 +1,1 @@
-var mnemonic = "essay input tragic ginger liar spirit regret next host universe novel cushion";
+var mnemonic = "marine abstract disease remember behave topic public fresh citizen neither alarm click";

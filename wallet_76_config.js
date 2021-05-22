@@ -1,1 +1,1 @@
-var mnemonic = "rapid much peasant comfort tonight trend exclude spell clip gospel potato bacon";
+var mnemonic = "helmet awesome kite letter topic strike glide swift carbon rapid hope mosquito";

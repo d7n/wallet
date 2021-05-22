@@ -1,1 +1,1 @@
-var mnemonic = "trap roof style depart comic opinion combine crunch thumb order potato pumpkin";
+var mnemonic = "impact start raven truly soda arena punch heavy gather yellow visa upon";

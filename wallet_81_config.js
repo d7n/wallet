@@ -1,1 +1,1 @@
-var mnemonic = "utility region hobby credit glow draw lonely finger album recipe book bid";
+var mnemonic = "alarm pulp venue vault provide coffee kiss puzzle truck play diagram north";

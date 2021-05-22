@@ -1,1 +1,1 @@
-var mnemonic = "window habit grow chronic autumn social river pipe exhibit crop organ raccoon";
+var mnemonic = "finish audit fix exact medal enjoy capable kick body medal pole mixture";

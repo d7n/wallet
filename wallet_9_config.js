@@ -1,1 +1,1 @@
-var mnemonic = "twelve clarify taste elbow also appear execute skull crime nephew sport charge";
+var mnemonic = "team frequent grit couple certain slot dirt crater stable cement quote able";

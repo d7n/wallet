@@ -1,1 +1,1 @@
-var mnemonic = "offer pelican adapt company afford brass foster tenant ridge embrace faith clean";
+var mnemonic = "dove chuckle magnet siren stem spring vendor best reflect describe grass sponsor";

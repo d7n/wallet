@@ -1,1 +1,1 @@
-var mnemonic = "beef quality away define island culture rally giant decrease slim dwarf return";
+var mnemonic = "key wool album wreck season snake tiger all teach blur noise window";

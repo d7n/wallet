@@ -1,1 +1,1 @@
-var mnemonic = "sting next happy task nuclear library peace earn trumpet moon unveil welcome";
+var mnemonic = "design track talk crowd supply capital appear jazz valve cabin need model";

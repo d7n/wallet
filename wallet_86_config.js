@@ -1,1 +1,1 @@
-var mnemonic = "crazy alarm moon train injury amateur fox buyer okay elevator race shell";
+var mnemonic = "forward name husband attitude broken inject tuna come depart stove people parent";

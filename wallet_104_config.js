@@ -1,1 +1,1 @@
-var mnemonic = "script aware force loyal hello verb file chalk measure core fatal audit";
+var mnemonic = "vehicle night accuse whale genre dust powder umbrella ice pill sustain iron";

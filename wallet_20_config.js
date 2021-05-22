@@ -1,1 +1,1 @@
-var mnemonic = "demise escape lucky tumble syrup regular mobile such laptop deliver half taste";
+var mnemonic = "street civil large tip goose crater heavy rare song galaxy review envelope";

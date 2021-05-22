@@ -1,1 +1,1 @@
-var mnemonic = "believe leg sing false turkey only apology panel will kick apple talk";
+var mnemonic = "manual process account foam cement whale setup rocket option calm narrow army";

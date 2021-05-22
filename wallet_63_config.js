@@ -1,1 +1,1 @@
-var mnemonic = "erosion organ luggage loyal armor defense arm mirror dance regret ordinary ring";
+var mnemonic = "color expand session huge fork desk tissue kidney life demand east spatial";

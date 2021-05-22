@@ -1,1 +1,1 @@
-var mnemonic = "invest silk lift glove acid describe alpha search hidden puppy shy lend";
+var mnemonic = "course tunnel fork rain unaware right sheriff poet despair oven north lady";

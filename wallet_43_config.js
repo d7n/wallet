@@ -1,1 +1,1 @@
-var mnemonic = "today capital churn address practice airport hat clump next cabin gentle prosper";
+var mnemonic = "regular economy chunk floor trumpet relief ginger find milk harbor bless broken";

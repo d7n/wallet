@@ -1,1 +1,1 @@
-var mnemonic = "task reform issue history surface message rabbit also make raccoon margin august";
+var mnemonic = "vivid tissue neglect shy plastic report rescue crash asthma width carpet little";

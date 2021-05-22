@@ -1,1 +1,1 @@
-var mnemonic = "border quick relief tissue knee canoe latin fancy entry infant stand thought";
+var mnemonic = "rate maze acquire jewel one comfort foster royal taxi disagree excess better";

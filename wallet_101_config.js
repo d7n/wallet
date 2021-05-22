@@ -1,1 +1,1 @@
-var mnemonic = "choose cage milk plate else concert dry casino salt trend sibling patrol";
+var mnemonic = "vivid exotic either broom green wedding borrow someone upper fiction inmate rebuild";

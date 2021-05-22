@@ -1,1 +1,1 @@
-var mnemonic = "noble father million kite position lady spy affair elite object agree lunar";
+var mnemonic = "vintage brisk area barely ketchup vapor domain apology soldier enjoy marine come";

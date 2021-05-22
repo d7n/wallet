@@ -1,1 +1,1 @@
-var mnemonic = "south walnut learn fan usage today type random session remind ribbon true";
+var mnemonic = "thumb resemble shadow decorate shoulder nasty long poet unaware maze require chase";

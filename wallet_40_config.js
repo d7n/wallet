@@ -1,1 +1,1 @@
-var mnemonic = "kiss shy dizzy sell obscure wrist gain crisp casual ill pond ranch";
+var mnemonic = "page observe liar balance planet diamond aisle bulb main exercise trash grain";

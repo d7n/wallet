@@ -1,1 +1,1 @@
-var mnemonic = "nose quantum spell flight vapor smoke stick edge repair party father explain";
+var mnemonic = "divide wisdom broken since enable process anger island lumber either oblige question";

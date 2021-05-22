@@ -1,1 +1,1 @@
-var mnemonic = "rifle tip error range pistol robot when size allow improve excess puzzle";
+var mnemonic = "egg clean lemon assist curtain rack cruel approve eight salmon drift dry";

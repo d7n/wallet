@@ -1,1 +1,1 @@
-var mnemonic = "pulse inner autumn method prosper exile review job ahead any main panda";
+var mnemonic = "grid whip flock armor wasp loud reduce coin pulse clinic kick nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "audit catch enrich asset slogan marble what empty crouch target inhale oak";
+var mnemonic = "acquire clip exit mom candy govern among planet moral paper vendor result";

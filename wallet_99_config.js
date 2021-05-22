@@ -1,1 +1,1 @@
-var mnemonic = "surface banner cube sustain cotton brisk tenant beach fun renew web bargain";
+var mnemonic = "muffin dilemma ethics gloom afford jar sick project essay moment science resource";

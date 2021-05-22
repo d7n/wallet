@@ -1,1 +1,1 @@
-var mnemonic = "margin morning year monkey catalog report vivid early sign off express deny";
+var mnemonic = "reward dawn raise public gift axis maximum month neglect author theory run";

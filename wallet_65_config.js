@@ -1,1 +1,1 @@
-var mnemonic = "crisp gain morning news misery soon candy history enable record doctor story";
+var mnemonic = "page insane ladder quiz latin estate nasty release helmet immune second security";

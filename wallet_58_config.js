@@ -1,1 +1,1 @@
-var mnemonic = "plate banana digital dragon quality real start discover dragon general enrich patrol";
+var mnemonic = "rib stock half exit arrange patrol kite above ribbon debate woman mechanic";

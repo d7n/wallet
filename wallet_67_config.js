@@ -1,1 +1,1 @@
-var mnemonic = "tide time column stool below neglect today length jelly leave advice simple";
+var mnemonic = "derive prevent record mutual tide blur fox method museum giggle board midnight";

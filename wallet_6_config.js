@@ -1,1 +1,1 @@
-var mnemonic = "canvas curve deny citizen because bean panel connect strong split artefact tragic";
+var mnemonic = "shed zoo skirt seat panel control unit flag above swim pulse shine";

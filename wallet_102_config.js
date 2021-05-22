@@ -1,1 +1,1 @@
-var mnemonic = "elder cabin annual movie mosquito candy abstract spoil mass vehicle unhappy miracle";
+var mnemonic = "bread layer fence quote sorry bring future goose cruel border puppy token";

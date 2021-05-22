@@ -1,1 +1,1 @@
-var mnemonic = "series siege narrow machine above lunar walnut attack honey throw swim moon";
+var mnemonic = "float pave fall neck camp inquiry fragile mouse staff shop bar child";

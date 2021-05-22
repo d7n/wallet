@@ -1,1 +1,1 @@
-var mnemonic = "apology few quality success choice want stand accident clap attend family pond";
+var mnemonic = "real bless tank walnut gentle congress dizzy inquiry food anger empty laundry";

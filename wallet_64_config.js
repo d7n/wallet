@@ -1,1 +1,1 @@
-var mnemonic = "bind hundred result primary snake topple target ability various suspect come mammal";
+var mnemonic = "tired manage royal curtain correct thunder twenty over jungle olive secret purchase";

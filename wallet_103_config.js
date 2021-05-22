@@ -1,1 +1,1 @@
-var mnemonic = "now twice advice poet whale sustain photo time casual story save negative";
+var mnemonic = "usual buyer erosion unfair invite host camera unknown labor cabbage grass mask";

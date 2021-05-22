@@ -1,1 +1,1 @@
-var mnemonic = "illegal fade benefit saddle crawl trouble share noodle client inhale outdoor van";
+var mnemonic = "lion kick black myth glow marine luggage age awkward glove index patient";

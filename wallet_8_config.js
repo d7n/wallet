@@ -1,1 +1,1 @@
-var mnemonic = "glory rookie home clog daughter track gaze edit outer learn diagram gloom";
+var mnemonic = "banner round gather humble supply lock drive unaware wheel cross solar obey";

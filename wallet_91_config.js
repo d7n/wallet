@@ -1,1 +1,1 @@
-var mnemonic = "repeat mirror fragile typical slow carbon reward wink stand chaos horse wreck";
+var mnemonic = "bounce carpet banner immense crime develop climb ask woman husband excuse person";

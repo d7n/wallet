@@ -1,1 +1,1 @@
-var mnemonic = "fire best virtual dismiss region garment road ordinary trash smoke problem favorite";
+var mnemonic = "assist card nuclear morning theory volume charge bonus over uncover coin disease";

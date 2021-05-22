@@ -1,1 +1,1 @@
-var mnemonic = "napkin nasty pattern honey target dream major remove energy slot defy cluster";
+var mnemonic = "tray live way bunker mean spread yard gorilla muffin benefit clock reduce";
