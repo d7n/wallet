@@ -1,1 +1,1 @@
-var mnemonic = "cloth crush novel skull cat ankle prosper rookie sheriff prevent rug assist";
+var mnemonic = "grain chase myself segment wire old hundred tiger avocado actress please loud";

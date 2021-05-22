@@ -1,1 +1,1 @@
-var mnemonic = "police name copper reward guess dinosaur swallow rose grunt obvious problem machine";
+var mnemonic = "simple ignore engine dismiss void latin believe elder expire humble reveal such";

@@ -1,1 +1,1 @@
-var mnemonic = "frog silent humor hungry people render humor advance jealous silent grow frog";
+var mnemonic = "volume able rocket interest letter inflict tank spoil kiss hover apology notice";

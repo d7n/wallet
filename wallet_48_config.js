@@ -1,1 +1,1 @@
-var mnemonic = "reopen around jeans push reunion snake business laptop autumn smoke tortoise visual";
+var mnemonic = "design intact recipe gas play super pact tuna film armed olive tilt";

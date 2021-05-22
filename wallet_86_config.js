@@ -1,1 +1,1 @@
-var mnemonic = "kite endorse foster win miracle cause venue throw autumn awful focus fish";
+var mnemonic = "sunset lava misery baby hill unfair trade soccer bone arrest pink visual";

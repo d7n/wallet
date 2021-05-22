@@ -1,1 +1,1 @@
-var mnemonic = "message car they pill rabbit hour half derive fine subway nut domain";
+var mnemonic = "genuine bomb sick easily chief okay segment turkey supreme first cash film";

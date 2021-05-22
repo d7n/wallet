@@ -1,1 +1,1 @@
-var mnemonic = "rapid insect shiver blossom ready cake vanish debate siege physical novel maze";
+var mnemonic = "monitor select negative jacket phone dismiss armor hill side chicken rebuild uncover";

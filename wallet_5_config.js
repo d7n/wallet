@@ -1,1 +1,1 @@
-var mnemonic = "lucky adult great panic dutch apple board smile above clerk borrow vibrant";
+var mnemonic = "upgrade main manual buffalo success acid between lab narrow unfair stairs balance";

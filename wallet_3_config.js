@@ -1,1 +1,1 @@
-var mnemonic = "design flash universe rent hunt balance hammer want grain cream push puzzle";
+var mnemonic = "what connect whip either embrace lab high wire six embrace pumpkin champion";

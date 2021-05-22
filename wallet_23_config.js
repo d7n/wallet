@@ -1,1 +1,1 @@
-var mnemonic = "nuclear wisdom smile script glue arrest toast park believe mandate emotion define";
+var mnemonic = "gravity custom audit assault light better despair index hour eternal injury inform";

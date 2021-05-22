@@ -1,1 +1,1 @@
-var mnemonic = "connect time piece either retire inform drill benefit fame winner slice fall";
+var mnemonic = "plunge unable clown length fiction wire eagle laundry sense surface beef jump";

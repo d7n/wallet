@@ -1,1 +1,1 @@
-var mnemonic = "license fog umbrella wealth wide immune dizzy three allow essence blast maid";
+var mnemonic = "poverty ceiling able collect lab cage august arrow decide sport usage over";

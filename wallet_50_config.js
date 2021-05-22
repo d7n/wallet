@@ -1,1 +1,1 @@
-var mnemonic = "confirm reopen plate weasel actual help milk early plate pet retreat violin";
+var mnemonic = "slight boy decide service warrior possible forward matrix transfer crowd unaware runway";

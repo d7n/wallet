@@ -1,1 +1,1 @@
-var mnemonic = "that erode push nest river sad now napkin time audit yard peace";
+var mnemonic = "gallery guilt disease repeat mad rookie fuel athlete member wave clump kiss";

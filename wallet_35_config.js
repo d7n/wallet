@@ -1,1 +1,1 @@
-var mnemonic = "pause happy absurd right kiss coast monster athlete begin answer sad inquiry";
+var mnemonic = "month orchard audit ostrich eager maple exist file heart gadget adult among";

@@ -1,1 +1,1 @@
-var mnemonic = "novel ostrich asthma modify this picnic often race fiction nasty shiver ski";
+var mnemonic = "despair guilt machine sight enrich glide relax charge soccer expose dice fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "call initial coral balance anxiety favorite winner safe acid skull shoe speak";
+var mnemonic = "midnight audit dial cement nose clay present toilet cover host kit donor";

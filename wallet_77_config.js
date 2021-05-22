@@ -1,1 +1,1 @@
-var mnemonic = "winter subject swarm drive small staff rapid lend fence undo economy ethics";
+var mnemonic = "image hold hint animal run remain monitor nominee moment fiscal plate gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "bring scout couple spot duck valid tag slab whip benefit pink bridge";
+var mnemonic = "audit object license silk almost traffic empower fault stool above more picnic";

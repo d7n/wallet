@@ -1,1 +1,1 @@
-var mnemonic = "repair lend parade expire segment fragile beauty buddy north advice melody arrest";
+var mnemonic = "episode resist bounce oven winner lab music hen floor bacon champion diamond";

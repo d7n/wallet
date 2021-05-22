@@ -1,1 +1,1 @@
-var mnemonic = "spirit rain situate draft kick meadow amazing casual alarm sorry traffic case";
+var mnemonic = "comic accident bicycle student laptop review move nation differ melt thank problem";

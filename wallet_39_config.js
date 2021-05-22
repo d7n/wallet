@@ -1,1 +1,1 @@
-var mnemonic = "high ceiling work glide sphere foster tube engage never patient resist note";
+var mnemonic = "cradle organ degree portion vapor idea destroy nasty rib large hub misery";

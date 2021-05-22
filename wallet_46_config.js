@@ -1,1 +1,1 @@
-var mnemonic = "giant just plug thought expose cart develop name rice wave orient curtain";
+var mnemonic = "elite anxiety human correct cousin essay magnet edge they couple group legend";

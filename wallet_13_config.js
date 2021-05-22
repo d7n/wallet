@@ -1,1 +1,1 @@
-var mnemonic = "awesome wheat travel crystal approve kingdom cabbage enemy crane gift nut enforce";
+var mnemonic = "become loyal mention lottery move pilot guilt wide history interest time twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "photo soda cable replace wide slim real law track tonight culture accuse";
+var mnemonic = "nature marble loud bullet crystal asset hen all energy mouse jungle flock";

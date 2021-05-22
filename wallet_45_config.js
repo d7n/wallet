@@ -1,1 +1,1 @@
-var mnemonic = "police bar pilot fruit leisure tobacco betray company plug detect roast shiver";
+var mnemonic = "target appear borrow planet beach address desert always gun keep borrow eye";

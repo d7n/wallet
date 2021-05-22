@@ -1,1 +1,1 @@
-var mnemonic = "rhythm special mix length please volume embark inject journey danger radar alter";
+var mnemonic = "deal believe gain happy robust mixed decline angle grape shallow black silly";

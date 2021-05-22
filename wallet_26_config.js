@@ -1,1 +1,1 @@
-var mnemonic = "ask box wagon ball coin wild roof picnic unknown crime bargain rare";
+var mnemonic = "story lamp slice load kiwi early orange slot indoor record left crop";

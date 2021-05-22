@@ -1,1 +1,1 @@
-var mnemonic = "furnace emerge relief athlete spice garbage innocent mad audit elder real void";
+var mnemonic = "segment hidden waste castle flame divorce tennis dilemma split certain alpha brief";

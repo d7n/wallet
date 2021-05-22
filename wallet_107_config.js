@@ -1,1 +1,1 @@
-var mnemonic = "present afford angle differ antique chuckle bulb fence food evoke picture tower";
+var mnemonic = "female olive rebel receive negative donate predict pond boring term coil moral";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden weather network nose banner fox gold pact lizard one place oak";
+var mnemonic = "amazing early train rural bitter hat habit verify forward filter risk toe";

@@ -1,1 +1,1 @@
-var mnemonic = "option walk spirit crater gasp sign joke diet crisp orchard equal nest";
+var mnemonic = "begin soldier since eternal punch orange erosion charge horse tobacco shed guide";

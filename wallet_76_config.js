@@ -1,1 +1,1 @@
-var mnemonic = "doll hand sponsor student unaware off bench entry coach velvet outer goddess";
+var mnemonic = "donate junk bulb power student exile merit feature liberty radio future noble";

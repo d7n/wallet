@@ -1,1 +1,1 @@
-var mnemonic = "gasp dinosaur badge trick grace legal girl notable core define age pet";
+var mnemonic = "accident tower genre bottom river jealous best beach sleep few print month";

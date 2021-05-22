@@ -1,1 +1,1 @@
-var mnemonic = "keen human couch head rare decide hip upset solve rubber stem repeat";
+var mnemonic = "real kidney school escape dish cause embody betray very people nut repeat";

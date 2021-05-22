@@ -1,1 +1,1 @@
-var mnemonic = "alley plastic excuse dream figure hub mobile peanut kite real wet track";
+var mnemonic = "task antique valley desk pony urge rival belt wink reward actual pudding";

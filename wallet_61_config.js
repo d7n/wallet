@@ -1,1 +1,1 @@
-var mnemonic = "match mass use ladder exchange fork dance process capable fence tourist pact";
+var mnemonic = "cry enhance taxi liar quantum major urge heart fame paddle plug reform";

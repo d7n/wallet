@@ -1,1 +1,1 @@
-var mnemonic = "drama despair cricket jar spray front habit will rescue they collect ladder";
+var mnemonic = "nerve lock urge avoid duty sniff moon ball donkey identify kind rain";

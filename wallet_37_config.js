@@ -1,1 +1,1 @@
-var mnemonic = "garden tiny notable transfer across submit elephant boring speak city bean squeeze";
+var mnemonic = "absurd moment plunge lava glow artefact logic brush envelope baby uphold electric";

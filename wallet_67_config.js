@@ -1,1 +1,1 @@
-var mnemonic = "vibrant balance clock avoid suffer doctor benefit champion gossip boss raccoon today";
+var mnemonic = "neutral gadget rare twelve weekend inner runway clutch police negative chair pumpkin";

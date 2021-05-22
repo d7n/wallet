@@ -1,1 +1,1 @@
-var mnemonic = "country sadness extend blame tissue harbor rare festival tag again isolate minor";
+var mnemonic = "crop antenna teach tobacco village mountain derive wrestle water bring fresh valve";

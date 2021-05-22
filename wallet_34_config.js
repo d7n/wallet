@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow earn eagle cactus detect fit utility habit night update craft nothing";
+var mnemonic = "neutral fit address amused trim grant orbit current language whip north business";

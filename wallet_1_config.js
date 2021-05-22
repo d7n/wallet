@@ -1,1 +1,1 @@
-var mnemonic = "umbrella panda remember peanut manage flight equip flower visa office obvious topic";
+var mnemonic = "shallow minimum dose craft accident load breeze brass frame boss crumble beach";

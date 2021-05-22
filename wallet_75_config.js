@@ -1,1 +1,1 @@
-var mnemonic = "letter frame chef category hybrid find guilt divert check desert blast able";
+var mnemonic = "jaguar parent jazz shove viable artefact private window casual call purity copper";

@@ -1,1 +1,1 @@
-var mnemonic = "same legend lobster answer tobacco winner regret risk flee sing sense wild";
+var mnemonic = "boost want air zebra control obtain ridge drink drastic success speak twin";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket industry wait scissors trap same voyage proud bargain napkin memory pull";
+var mnemonic = "embark chalk soul front rocket flavor entry shoot index perfect butter dad";

@@ -1,1 +1,1 @@
-var mnemonic = "slam spawn face outside alien anchor essence guitar actor repair outside unveil";
+var mnemonic = "harvest tower wall between siege design clarify lady ask remain legal tube";

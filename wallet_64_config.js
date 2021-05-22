@@ -1,1 +1,1 @@
-var mnemonic = "mosquito sample define copper swear donor million able myth climb retire final";
+var mnemonic = "ankle fury immune under mirror twenty six surge sand candy state unfold";

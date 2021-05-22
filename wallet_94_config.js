@@ -1,1 +1,1 @@
-var mnemonic = "accident scorpion mention visit seminar tomato fall cover modify exile never doll";
+var mnemonic = "recipe own trip alone spawn vital book provide gasp trap ancient have";

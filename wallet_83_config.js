@@ -1,1 +1,1 @@
-var mnemonic = "cotton picnic document poem museum once tool way verify angle soon sample";
+var mnemonic = "mesh gym until limit surface lunch term cry mass give library have";

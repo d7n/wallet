@@ -1,1 +1,1 @@
-var mnemonic = "wage conduct ugly area stove toss once police actor lift wine youth";
+var mnemonic = "sheriff combine often entire heart pledge nothing early noodle beef lab stairs";

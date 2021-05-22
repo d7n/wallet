@@ -1,1 +1,1 @@
-var mnemonic = "pill elite grass sausage curve plastic hedgehog flat prepare sort mobile blade";
+var mnemonic = "knock today wait ribbon absorb drop alley outdoor antique pretty fetch carpet";

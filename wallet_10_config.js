@@ -1,1 +1,1 @@
-var mnemonic = "garden husband person filter document hazard kitchen charge say quantum mail voice";
+var mnemonic = "simple squeeze rural logic veteran tooth sample twice planet voyage circle trophy";

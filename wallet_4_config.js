@@ -1,1 +1,1 @@
-var mnemonic = "school dish female flag one provide guard adult auto surge image car";
+var mnemonic = "solution used deputy salad broccoli logic deny trigger vacuum obtain thumb burden";

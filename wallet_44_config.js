@@ -1,1 +1,1 @@
-var mnemonic = "social tail crawl goose decrease people drip eternal mountain fury vault potato";
+var mnemonic = "athlete fame shuffle galaxy crystal ignore smoke zebra flat device visit front";

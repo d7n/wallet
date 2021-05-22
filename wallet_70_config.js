@@ -1,1 +1,1 @@
-var mnemonic = "typical cradle effort rain tent judge subway list banner motion price chalk";
+var mnemonic = "demand roast grab board party program sick chalk profit slender glide addict";

@@ -1,1 +1,1 @@
-var mnemonic = "vague picture pause lumber solid honey regret pony cross water despair wait";
+var mnemonic = "farm medal thought kitten radar shove river donkey dolphin bamboo depart napkin";

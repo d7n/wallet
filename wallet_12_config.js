@@ -1,1 +1,1 @@
-var mnemonic = "above nasty bomb fluid rather scene acid file hand victory luggage praise";
+var mnemonic = "sail basic salt frost despair nothing across onion bulk stereo mask like";

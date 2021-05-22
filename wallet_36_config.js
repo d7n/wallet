@@ -1,1 +1,1 @@
-var mnemonic = "salt enrich chef add usual inject east zone rice slam achieve horror";
+var mnemonic = "museum confirm weekend taste style light zone hole response fossil inhale vehicle";

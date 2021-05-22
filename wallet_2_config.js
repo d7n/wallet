@@ -1,1 +1,1 @@
-var mnemonic = "matrix foster hungry discover exile copy camera shield nerve liquid east mango";
+var mnemonic = "defy skin draw amused apology pistol mass essence over about throw virus";

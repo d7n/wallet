@@ -1,1 +1,1 @@
-var mnemonic = "original ice wood endless magnet drift ahead real relax loyal rate also";
+var mnemonic = "canyon engine flock vacant bike news tube focus engine asthma cushion spray";

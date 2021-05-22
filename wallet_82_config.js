@@ -1,1 +1,1 @@
-var mnemonic = "circle circle winter canyon planet little into fragile before connect stay early";
+var mnemonic = "pepper uphold stairs voyage like involve problem badge learn review hair one";

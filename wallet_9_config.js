@@ -1,1 +1,1 @@
-var mnemonic = "goddess surface thought invest silk mammal lemon another style gesture strategy setup";
+var mnemonic = "filter garage wish toe oxygen beach zero insane feel dash reveal afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous basket panic still canoe exhibit cannon city inch inner people wear";
+var mnemonic = "bind speed battle clown purity cause season slam enable load major box";

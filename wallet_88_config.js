@@ -1,1 +1,1 @@
-var mnemonic = "desert cannon eager bid skirt cause wrap mechanic budget service fall journey";
+var mnemonic = "symptom company market piano radar success grit indicate turtle pluck universe cool";

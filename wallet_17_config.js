@@ -1,1 +1,1 @@
-var mnemonic = "segment buddy roast sing drastic prize admit fluid arrest edit nation december";
+var mnemonic = "multiply little flag venue disagree ability goat current same census climb loud";

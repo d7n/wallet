@@ -1,1 +1,1 @@
-var mnemonic = "apart essay surge mansion sadness matrix library resemble reunion hundred paddle filter";
+var mnemonic = "supply test aisle differ join simple tourist acquire one wreck expire wrap";

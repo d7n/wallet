@@ -1,1 +1,1 @@
-var mnemonic = "mouse cargo leopard must spoon kingdom pear asthma garlic doll spray layer";
+var mnemonic = "know honey exile afford sock month square travel time prefer industry crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge tattoo rubber uphold differ caution cereal cigar kingdom entire tornado remind";
+var mnemonic = "kingdom impact pink blur year polar can crucial laptop bounce disease volcano";

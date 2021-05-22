@@ -1,1 +1,1 @@
-var mnemonic = "error flame chicken salt solution base side flush indoor cost flock achieve";
+var mnemonic = "work size dinner conduct despair all exhaust run material there account submit";

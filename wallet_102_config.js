@@ -1,1 +1,1 @@
-var mnemonic = "slide miracle creek just borrow season stand hat wait demise interest parrot";
+var mnemonic = "project pigeon boat security bless neutral sniff list mesh hamster pipe tackle";

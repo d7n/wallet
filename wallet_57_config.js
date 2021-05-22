@@ -1,1 +1,1 @@
-var mnemonic = "lab night buddy enhance blame age allow peasant bench august rose jaguar";
+var mnemonic = "rent sea alcohol design breeze wheat solar mushroom addict wheel aerobic leader";

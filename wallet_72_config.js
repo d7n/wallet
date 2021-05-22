@@ -1,1 +1,1 @@
-var mnemonic = "coach update session common protect cereal local friend best leopard sting visit";
+var mnemonic = "rival twin cash sugar sure lawn autumn thunder garage screen neutral warfare";

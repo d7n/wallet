@@ -1,1 +1,1 @@
-var mnemonic = "cement ritual left post baby rail lend sort track increase coyote pave";
+var mnemonic = "swing favorite prefer any dizzy cream corn repeat exercise runway lamp shuffle";

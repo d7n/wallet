@@ -1,1 +1,1 @@
-var mnemonic = "provide degree buddy antique appear note secret jaguar there enjoy bring achieve";
+var mnemonic = "wear exhaust change weekend rhythm anger green enlist upon motion junior surprise";

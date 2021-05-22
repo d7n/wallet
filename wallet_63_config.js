@@ -1,1 +1,1 @@
-var mnemonic = "lava actress crop wrestle betray solid modify tank fuel humor bronze swim";
+var mnemonic = "dentist company earth lamp tuna fiscal occur home alter repeat month chapter";

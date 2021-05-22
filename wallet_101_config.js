@@ -1,1 +1,1 @@
-var mnemonic = "pond eternal river depend ivory like pyramid glance slam holiday amateur session";
+var mnemonic = "undo erode horse power curve medal virtual grant impact box emerge rice";

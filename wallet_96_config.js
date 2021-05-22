@@ -1,1 +1,1 @@
-var mnemonic = "symbol review salon text catalog canoe tool pipe inform frost aerobic venue";
+var mnemonic = "bring popular correct figure father truck report gaze alarm duty violin cannon";

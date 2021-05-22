@@ -1,1 +1,1 @@
-var mnemonic = "truly snap hero stay case love window fan yellow shadow endless draw";
+var mnemonic = "between enjoy vote install mean pool athlete egg leaf liar skin soon";

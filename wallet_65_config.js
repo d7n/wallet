@@ -1,1 +1,1 @@
-var mnemonic = "help all venture second renew uniform firm stairs miracle element moon wet";
+var mnemonic = "wife coil angle false noble midnight year bird plunge final city advance";

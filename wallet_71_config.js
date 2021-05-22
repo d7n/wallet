@@ -1,1 +1,1 @@
-var mnemonic = "deliver mind security syrup ski reject baby payment job assault position exist";
+var mnemonic = "dove zebra army long breeze crack milk uncle village dolphin vanish frequent";

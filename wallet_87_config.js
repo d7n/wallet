@@ -1,1 +1,1 @@
-var mnemonic = "bubble base genius domain mad fold spend hunt chief blind dream chalk";
+var mnemonic = "make interest youth action depart lecture click proud tortoise wall claw install";

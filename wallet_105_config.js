@@ -1,1 +1,1 @@
-var mnemonic = "script pet bamboo rough begin napkin spike tag often sign mix bus";
+var mnemonic = "dizzy water embody dizzy thrive shed cotton saddle proud wish adult board";

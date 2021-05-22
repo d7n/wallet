@@ -1,1 +1,1 @@
-var mnemonic = "lake blade rail discover tooth sauce fish setup move concert flash novel";
+var mnemonic = "sing hill erupt lion artefact eternal armor orient slice egg erode destroy";

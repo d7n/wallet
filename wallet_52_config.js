@@ -1,1 +1,1 @@
-var mnemonic = "eight leave sense outdoor shy orchard unknown rebel library result razor trade";
+var mnemonic = "essay zebra decorate fortune length sing throw act hole empower noodle patient";

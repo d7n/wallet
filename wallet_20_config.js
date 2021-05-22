@@ -1,1 +1,1 @@
-var mnemonic = "wool pelican muscle elbow cream angry magnet object focus bid win fitness";
+var mnemonic = "scan jeans chair legal toss rubber unfold output try salmon magic celery";

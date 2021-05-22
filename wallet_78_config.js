@@ -1,1 +1,1 @@
-var mnemonic = "alpha border maple vendor gift borrow jeans visual tool verify angry other";
+var mnemonic = "bulb attend vibrant garlic weird board asthma sniff ignore verb resource enact";

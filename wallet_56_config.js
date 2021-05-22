@@ -1,1 +1,1 @@
-var mnemonic = "scrub phrase feature jelly ostrich spot future crop floor shift relief extra";
+var mnemonic = "patch alcohol danger weird idea casual finish ship disagree foot real poet";

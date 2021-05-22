@@ -1,1 +1,1 @@
-var mnemonic = "search vibrant box slide screen bunker loud material put spoon allow swim";
+var mnemonic = "divorce cook ramp success pupil arctic robot honey fiber hollow public photo";

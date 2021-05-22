@@ -1,1 +1,1 @@
-var mnemonic = "all bench urge width sentence first slice fruit identify excuse seat steel";
+var mnemonic = "airport razor twenty card cave spoil deny atom math position horror weekend";

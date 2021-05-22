@@ -1,1 +1,1 @@
-var mnemonic = "pudding front minor face today jacket myself surprise spawn panic vacuum join";
+var mnemonic = "badge kitten viable involve spawn stay bread custom elbow sketch spring pool";

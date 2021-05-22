@@ -1,1 +1,1 @@
-var mnemonic = "bundle raw deposit cancel shell feed report dwarf empty type among oval";
+var mnemonic = "bubble duck winner bargain clip toast organ pair social stumble miracle evidence";

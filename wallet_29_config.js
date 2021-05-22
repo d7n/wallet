@@ -1,1 +1,1 @@
-var mnemonic = "question relief dress base process size tree surface dumb runway hammer acid";
+var mnemonic = "price slice online camp soccer corn end model element sunset trophy unlock";
