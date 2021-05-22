@@ -1,1 +1,1 @@
-var mnemonic = "distance shop joy sun winner biology muffin cattle absent spread cable siren";
+var mnemonic = "cost tenant govern pumpkin promote icon virtual enough lunar aspect there click";

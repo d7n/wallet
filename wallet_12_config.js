@@ -1,1 +1,1 @@
-var mnemonic = "hour warm ball vibrant intact end faint picture alcohol evoke shrimp recipe";
+var mnemonic = "ahead typical ready hockey medal flock frame never prefer horn bulb dune";

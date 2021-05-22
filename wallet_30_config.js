@@ -1,1 +1,1 @@
-var mnemonic = "maze forum dizzy duck velvet engage network prepare retire address weekend refuse";
+var mnemonic = "crash month scan jelly motion peace solid discover mercy shed episode winter";

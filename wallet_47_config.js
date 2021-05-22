@@ -1,1 +1,1 @@
-var mnemonic = "laugh deposit gun define trumpet amateur plastic attract sentence cause gorilla survey";
+var mnemonic = "fit violin panel three parent orchard segment ski material catalog rigid always";

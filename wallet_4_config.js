@@ -1,1 +1,1 @@
-var mnemonic = "ozone very spike avoid sting must atom spell pyramid toss super edit";
+var mnemonic = "evolve cool vehicle valid urban spring develop issue arctic about effort brown";

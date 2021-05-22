@@ -1,1 +1,1 @@
-var mnemonic = "van jewel vital valley badge dose rifle clap ritual paper awkward advice";
+var mnemonic = "immense eight assist vehicle stumble duty brother custom soon laugh forum mind";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp maximum escape mango ridge eternal favorite ready veteran dial suggest enforce";
+var mnemonic = "science balance muscle fringe rescue laugh weird dad anxiety what height enter";

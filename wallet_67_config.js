@@ -1,1 +1,1 @@
-var mnemonic = "poet unfair army current prepare mobile concert prosper shield beef label check";
+var mnemonic = "garage peasant asthma orchard clown liquid attract hint worry leisure canal science";

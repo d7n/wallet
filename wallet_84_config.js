@@ -1,1 +1,1 @@
-var mnemonic = "wreck tail noodle verify picture hobby link stamp dirt legal require rather";
+var mnemonic = "local flavor flee neglect disagree torch sand door finish service word help";

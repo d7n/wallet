@@ -1,1 +1,1 @@
-var mnemonic = "grit lyrics title lemon language heavy hotel flip original bid unhappy impulse";
+var mnemonic = "wrap gentle spell pill razor allow ten daring front large medal stock";

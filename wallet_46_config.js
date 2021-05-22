@@ -1,1 +1,1 @@
-var mnemonic = "opinion cable walnut crunch axis around tenant predict have account act unable";
+var mnemonic = "lend secret wing fitness parade glance verb project journey anchor knock chicken";

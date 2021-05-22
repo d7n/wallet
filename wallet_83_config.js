@@ -1,1 +1,1 @@
-var mnemonic = "since travel baby mystery inspire gym pass picture rely whip gesture tourist";
+var mnemonic = "allow insane fantasy genuine cage receive flush uncle panel bunker energy flee";

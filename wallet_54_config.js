@@ -1,1 +1,1 @@
-var mnemonic = "blast runway utility mesh into pioneer danger casual plug affair poem stable";
+var mnemonic = "coyote custom produce twin pact say title bar rack rival abuse wall";

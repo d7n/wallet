@@ -1,1 +1,1 @@
-var mnemonic = "client myth neither define rival toward prepare maple spray blush dizzy wet";
+var mnemonic = "phrase photo allow enjoy cram erode van tonight panic apple obey knife";

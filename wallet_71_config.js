@@ -1,1 +1,1 @@
-var mnemonic = "annual chase palace afford negative orient long imitate unique wash have flag";
+var mnemonic = "tube team limit avoid spare toddler observe video few use cabin sort";

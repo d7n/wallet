@@ -1,1 +1,1 @@
-var mnemonic = "enroll suffer awesome oxygen during nurse crane width maximum lesson elephant nothing";
+var mnemonic = "friend imitate meat pig mystery job crazy afraid prepare dynamic crystal forward";

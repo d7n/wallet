@@ -1,1 +1,1 @@
-var mnemonic = "mutual grain solution pass color aerobic pioneer hand hazard fiscal cargo okay";
+var mnemonic = "fashion chalk moon fee opinion parent genre try clock gown love faith";

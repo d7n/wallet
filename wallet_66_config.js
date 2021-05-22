@@ -1,1 +1,1 @@
-var mnemonic = "try voyage flag happy rail grunt advice cube blush virtual social debris";
+var mnemonic = "parade ordinary zero cargo rhythm sample intact add rail minor dad mandate";

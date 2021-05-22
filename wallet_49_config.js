@@ -1,1 +1,1 @@
-var mnemonic = "call federal portion thrive present lab reopen educate erode memory obtain excess";
+var mnemonic = "fatigue curious enlist paddle advance glimpse guard metal solar solve trip trim";

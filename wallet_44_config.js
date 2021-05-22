@@ -1,1 +1,1 @@
-var mnemonic = "round harvest prosper canoe assault mix tenant clown amused long happy donkey";
+var mnemonic = "naive bundle attack tank inmate concert aspect impact ice immune unique tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "time job popular gadget argue course pyramid orbit infant frozen citizen habit";
+var mnemonic = "west novel reward obey satisfy cause occur hole trumpet tell enforce garbage";

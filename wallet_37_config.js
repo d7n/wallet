@@ -1,1 +1,1 @@
-var mnemonic = "mule awake heart collect other enrich exhaust genius crawl tennis hole arm";
+var mnemonic = "rotate dynamic actress flat neck skate toward idle rude water walk adult";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital faith scatter honey session fence upset bone option siege near circle";
+var mnemonic = "menu session audit comic text bread pencil better speak frozen around mutual";

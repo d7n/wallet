@@ -1,1 +1,1 @@
-var mnemonic = "venue settle inspire pact mom across invite blast action venture basket pioneer";
+var mnemonic = "riot exotic finger garbage victory place panda involve sock foam fiction brand";

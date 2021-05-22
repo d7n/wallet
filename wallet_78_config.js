@@ -1,1 +1,1 @@
-var mnemonic = "coast uncle double access merit focus grow trend inform book salt call";
+var mnemonic = "device tiger minute craft dial major spoon flat excuse chase violin normal";

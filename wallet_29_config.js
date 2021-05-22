@@ -1,1 +1,1 @@
-var mnemonic = "wool wine farm bring super ten giant sunset town brand head relief";
+var mnemonic = "filter garage there wisdom reduce salon curve top visa flash cause off";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap resist beyond claw height truly series truck liar truly type muscle";
+var mnemonic = "upon return dentist symptom neither pulp antique minor weapon social airport exact";

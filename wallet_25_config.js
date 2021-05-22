@@ -1,1 +1,1 @@
-var mnemonic = "soldier ribbon mammal material thumb glance actress note betray season destroy hill";
+var mnemonic = "loop purse urge tower bleak estate long sail silly machine cream cricket";

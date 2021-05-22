@@ -1,1 +1,1 @@
-var mnemonic = "leopard minimum phrase club kid oblige kind final ostrich mask eternal garment";
+var mnemonic = "topic window door entry voyage pride clerk inner slim ripple believe brand";

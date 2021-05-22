@@ -1,1 +1,1 @@
-var mnemonic = "hospital goddess pumpkin decade awesome water room number daring scheme you crew";
+var mnemonic = "behind insect chaos ask dial inside view oven mutual early swallow property";

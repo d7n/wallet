@@ -1,1 +1,1 @@
-var mnemonic = "match inquiry eight pistol enlist web high material flavor midnight gloom buzz";
+var mnemonic = "remove welcome project air deposit cricket hawk blame mammal noble spray success";

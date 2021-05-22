@@ -1,1 +1,1 @@
-var mnemonic = "cheese spawn theme deposit increase alarm razor wheel pause item hero huge";
+var mnemonic = "calm gain invite treat iron sunny about advice learn brick catch describe";

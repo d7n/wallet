@@ -1,1 +1,1 @@
-var mnemonic = "body grocery butter under nose gasp blame deliver alien famous trust crucial";
+var mnemonic = "ugly usage slim sadness possible saddle foot dial fish absurd raise shed";

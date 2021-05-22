@@ -1,1 +1,1 @@
-var mnemonic = "figure mystery tumble inherit sort toe manage you smoke hammer bird pepper";
+var mnemonic = "reward net prefer celery drink dizzy urge below trumpet daring gate addict";

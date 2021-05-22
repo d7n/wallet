@@ -1,1 +1,1 @@
-var mnemonic = "check next party flame wood vacant note dust object ship catch whale";
+var mnemonic = "season usual jaguar result snake nasty suit eternal write net pear welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "board actual sing armed meadow wrestle hip regret average faculty merit egg";
+var mnemonic = "main short finger inch cat tissue album leave sustain creek icon split";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs fan volume awesome clown jelly dutch opera letter mobile oblige decide";
+var mnemonic = "wire disease rather taxi price link extend point dish pottery whip clown";

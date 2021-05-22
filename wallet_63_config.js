@@ -1,1 +1,1 @@
-var mnemonic = "select volume lake join retreat hello arrange acid glimpse boost spare leopard";
+var mnemonic = "ranch flavor easy clerk glance label father just physical also focus spider";

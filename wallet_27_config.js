@@ -1,1 +1,1 @@
-var mnemonic = "modify okay valley add exchange night head sphere salute forum bar tower";
+var mnemonic = "gadget episode worth actor tray soccer carbon cup cement gold into retreat";

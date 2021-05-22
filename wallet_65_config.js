@@ -1,1 +1,1 @@
-var mnemonic = "mad dune allow mention logic night there cabbage accuse price devote lady";
+var mnemonic = "umbrella mask snake music fault away fetch cabbage police hungry message hybrid";

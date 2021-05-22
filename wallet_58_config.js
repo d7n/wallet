@@ -1,1 +1,1 @@
-var mnemonic = "hub erode salmon husband mind item off camp august usage hen dignity";
+var mnemonic = "woman female biology phrase furnace cupboard seminar tuna remain stamp dish alter";

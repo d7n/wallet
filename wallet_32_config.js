@@ -1,1 +1,1 @@
-var mnemonic = "all consider arrive advice fee learn donor few friend pledge name brown";
+var mnemonic = "domain trophy team trash slot ancient regret know infant avoid satoshi lamp";

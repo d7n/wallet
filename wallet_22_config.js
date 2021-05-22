@@ -1,1 +1,1 @@
-var mnemonic = "legend wool nose dog rug thrive squeeze shove nose pilot cry pyramid";
+var mnemonic = "pulp matter alone image minimum excess uncle like limb bacon squeeze beach";

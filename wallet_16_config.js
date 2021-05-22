@@ -1,1 +1,1 @@
-var mnemonic = "car sauce inform city kick release easily sunset monitor spawn camera equip";
+var mnemonic = "cabin manual rate stumble basket cube sort rescue gate dawn actor puzzle";

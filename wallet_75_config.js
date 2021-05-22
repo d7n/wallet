@@ -1,1 +1,1 @@
-var mnemonic = "barely unable quiz sock sample flat few sister tired misery broccoli job";
+var mnemonic = "trial blue wear chuckle exhaust exchange side crumble name drill edge kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe cross head urge cheese furnace manual sentence silent equal light glare";
+var mnemonic = "guard armor endorse senior stem grid fatal mosquito leave survey turn crew";

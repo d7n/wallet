@@ -1,1 +1,1 @@
-var mnemonic = "pulp dignity pole recycle inmate hub you curious extend crane cradle way";
+var mnemonic = "elite hamster able will execute blue museum bronze math shoe huge alone";

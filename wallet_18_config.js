@@ -1,1 +1,1 @@
-var mnemonic = "duck erosion wash tool castle disorder bargain crane slender love pear fluid";
+var mnemonic = "sorry now squirrel canoe venture bicycle easily garbage divert hotel mountain fluid";

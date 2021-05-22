@@ -1,1 +1,1 @@
-var mnemonic = "coach trap addict odor mimic tragic buffalo where tiger spend flight wedding";
+var mnemonic = "flip favorite photo amused garlic donate dove vague surprise measure replace loop";

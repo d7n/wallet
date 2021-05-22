@@ -1,1 +1,1 @@
-var mnemonic = "company craft bread until random runway front world flip maximum since option";
+var mnemonic = "opinion roof token dove hollow stadium trouble busy frown senior either exhaust";

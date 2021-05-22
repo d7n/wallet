@@ -1,1 +1,1 @@
-var mnemonic = "clinic sea noise broom shift awake shallow smile safe dinosaur wolf level";
+var mnemonic = "service eagle unaware keen meadow amateur one cat voice charge phrase valve";

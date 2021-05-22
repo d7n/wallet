@@ -1,1 +1,1 @@
-var mnemonic = "capable aisle skull tennis jazz rubber flight velvet wild grunt claim marble";
+var mnemonic = "hen used used song concert kind pave table edge tourist reward place";

@@ -1,1 +1,1 @@
-var mnemonic = "depart keen social code infant budget diagram magic consider turkey give comfort";
+var mnemonic = "hospital agent unfair urban vague link way artwork name never census fitness";

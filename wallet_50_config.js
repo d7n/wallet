@@ -1,1 +1,1 @@
-var mnemonic = "isolate parrot volcano peasant fantasy crazy meadow maximum milk reform host awesome";
+var mnemonic = "demand lunar relief retire trial culture rely oak bus common enroll chaos";

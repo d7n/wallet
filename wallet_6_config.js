@@ -1,1 +1,1 @@
-var mnemonic = "wire expect lens reopen tilt fold furnace rain debris method depend open";
+var mnemonic = "valley prevent sword leg loyal goat ride capital start razor throw brown";

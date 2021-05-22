@@ -1,1 +1,1 @@
-var mnemonic = "open matrix soccer globe patient damage holiday disagree live output debate swap";
+var mnemonic = "leisure inmate mandate ancient parrot taste beef ketchup frost certain wrong globe";

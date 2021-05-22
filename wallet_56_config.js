@@ -1,1 +1,1 @@
-var mnemonic = "then tank frown skill gap leg visual mom aerobic ring virus wing";
+var mnemonic = "frame over eagle flavor refuse mimic inquiry burger giggle coil hybrid jacket";

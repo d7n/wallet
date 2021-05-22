@@ -1,1 +1,1 @@
-var mnemonic = "nerve ship caught pipe balcony express kite mirror cotton cement same mother";
+var mnemonic = "connect old ginger near pig rack curious wheel dragon story brass verify";

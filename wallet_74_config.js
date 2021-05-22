@@ -1,1 +1,1 @@
-var mnemonic = "learn seat truly army provide wire pear fee label symbol analyst average";
+var mnemonic = "gadget social connect slender alley garden nut crane fury barely noodle athlete";

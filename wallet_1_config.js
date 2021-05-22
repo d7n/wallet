@@ -1,1 +1,1 @@
-var mnemonic = "tomato laptop life clog rural purse note rug tenant hamster over pizza";
+var mnemonic = "title hello replace uphold donate raise frozen stumble raccoon cable fit weird";

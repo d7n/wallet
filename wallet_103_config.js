@@ -1,1 +1,1 @@
-var mnemonic = "such photo negative catch vessel piece chicken million rule renew punch vast";
+var mnemonic = "cause bus surround extra ripple attract inside relief kiwi excuse fury coffee";

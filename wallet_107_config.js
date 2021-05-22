@@ -1,1 +1,1 @@
-var mnemonic = "circle core rocket rare supply spot grunt ivory avoid usage coach armor";
+var mnemonic = "road awesome work above control machine poverty swing exchange impose snake found";

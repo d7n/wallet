@@ -1,1 +1,1 @@
-var mnemonic = "moon term slogan huge clown possible resource leg above ill nature bless";
+var mnemonic = "output relax forward bridge creek near bone mammal car alley cushion please";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory camp tuna improve breeze tooth fat kiss stone erosion upgrade bubble";
+var mnemonic = "decline connect marble circle comfort comfort quarter replace summer into search amused";

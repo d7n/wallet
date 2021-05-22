@@ -1,1 +1,1 @@
-var mnemonic = "cherry mirror blood glance mandate shoe junior burst bottom tired dragon narrow";
+var mnemonic = "clog drift never impose color category repeat buyer best cabin acquire cook";

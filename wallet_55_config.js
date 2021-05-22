@@ -1,1 +1,1 @@
-var mnemonic = "train praise salad lemon float material clever update champion aerobic boil door";
+var mnemonic = "custom ethics orange duck jaguar brisk mango cushion leg antique slot rude";

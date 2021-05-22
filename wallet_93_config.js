@@ -1,1 +1,1 @@
-var mnemonic = "federal main legal salute kangaroo three hole liberty plunge divorce army lonely";
+var mnemonic = "garden fabric surprise lamp elite link earn worry love area exchange cage";

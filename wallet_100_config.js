@@ -1,1 +1,1 @@
-var mnemonic = "tunnel luggage loyal flight gather buffalo feel bring front rail plug basic";
+var mnemonic = "boy mixed pretty north erupt mesh debris success throw hold road stable";

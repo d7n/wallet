@@ -1,1 +1,1 @@
-var mnemonic = "diamond profit dad amount weekend adjust energy pelican coil near season hen";
+var mnemonic = "husband address excess cousin warrior joke kangaroo famous monitor cherry castle jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge analyst remain recall around morning devote alcohol adapt logic truly island";
+var mnemonic = "miracle word cabbage grocery month glad helmet that hazard photo setup wild";

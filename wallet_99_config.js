@@ -1,1 +1,1 @@
-var mnemonic = "duty glory rhythm neglect grocery spy smoke raven prison false emotion refuse";
+var mnemonic = "relief frequent symptom van lyrics ozone siege evil news dash roast hope";

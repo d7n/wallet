@@ -1,1 +1,1 @@
-var mnemonic = "design drip elephant symbol execute cement hard section fancy coin barrel push";
+var mnemonic = "mention bleak hero victory loop govern grow scheme drastic offer scheme miss";

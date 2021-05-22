@@ -1,1 +1,1 @@
-var mnemonic = "trip clip lift senior avocado cross monitor hip chaos cable lucky admit";
+var mnemonic = "piano armor plug gift siren perfect toilet good copper sleep royal inmate";

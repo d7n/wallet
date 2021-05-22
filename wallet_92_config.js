@@ -1,1 +1,1 @@
-var mnemonic = "spatial response gentle wife left monster gas stumble purity vacuum leader true";
+var mnemonic = "great naive jungle lemon junior gravity car top indicate where fit describe";

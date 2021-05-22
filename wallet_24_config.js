@@ -1,1 +1,1 @@
-var mnemonic = "siege tiger chief strategy spirit curious staff oyster sea husband mother script";
+var mnemonic = "circle lottery flip gold mushroom pony shield eternal broccoli cup drama power";

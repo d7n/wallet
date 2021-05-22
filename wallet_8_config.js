@@ -1,1 +1,1 @@
-var mnemonic = "maid naive champion stick damp hint fragile drink maze task cotton okay";
+var mnemonic = "ordinary domain blast seat anger inform rule minor ancient nest skate dismiss";

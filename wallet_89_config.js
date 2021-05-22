@@ -1,1 +1,1 @@
-var mnemonic = "doctor penalty east amateur decide heart skull moral fence parade unveil eager";
+var mnemonic = "scatter about flat ring lecture print control gate easy weather fruit anger";

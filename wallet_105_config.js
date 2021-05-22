@@ -1,1 +1,1 @@
-var mnemonic = "social firm pipe choose trigger answer clutch offer truck blast breeze spike";
+var mnemonic = "fossil kiwi adjust random food dream proud veteran wasp mom slam crane";

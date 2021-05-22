@@ -1,1 +1,1 @@
-var mnemonic = "credit globe hole brave alley control fan guide little morning tiger unfold";
+var mnemonic = "sun update fatal tunnel text sweet wave quit anchor scene attract chaos";

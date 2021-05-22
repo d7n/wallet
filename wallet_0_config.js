@@ -1,1 +1,1 @@
-var mnemonic = "school quick salmon reflect beef hospital session behind talk bring series exchange";
+var mnemonic = "add heart write often laptop coast tilt cat pair live twenty cushion";

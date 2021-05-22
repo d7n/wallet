@@ -1,1 +1,1 @@
-var mnemonic = "saddle judge escape seat rose mind clown coast sound regret oppose frost";
+var mnemonic = "link ankle jaguar boat company banner glance agent wine abuse eight trigger";

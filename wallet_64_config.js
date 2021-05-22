@@ -1,1 +1,1 @@
-var mnemonic = "crisp error dad escape either invite trade soft puzzle alone frown romance";
+var mnemonic = "situate purchase quality novel remember liar correct staff divert baby six message";

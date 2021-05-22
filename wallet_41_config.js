@@ -1,1 +1,1 @@
-var mnemonic = "mean panda super globe discover acid coffee theme help catalog bitter ankle";
+var mnemonic = "garden tonight wrist replace stumble message key cover dry hundred truly can";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony vague van elite blouse hand maid help bid cherry write piece";
+var mnemonic = "glove cloth fan soup exist next rib provide swallow brush mule happy";

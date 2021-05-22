@@ -1,1 +1,1 @@
-var mnemonic = "march enter eager punch negative junk diamond evolve try indoor stock asset";
+var mnemonic = "nurse chief car weasel win shiver payment pair identify drift hurt cupboard";

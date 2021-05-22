@@ -1,1 +1,1 @@
-var mnemonic = "garbage prosper repeat column animal salad gorilla catalog begin pig ritual trim";
+var mnemonic = "license people mix cost upgrade trouble poverty false hold window mercy message";

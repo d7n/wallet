@@ -1,1 +1,1 @@
-var mnemonic = "wave hotel art science save bracket column spatial anger bitter nut cushion";
+var mnemonic = "receive toward window grow panda explain friend hurt fish solution sunset control";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster head knock thrive onion happy mixed defense net artwork caught oyster";
+var mnemonic = "slow once have basic income assist margin school october rich client quarter";

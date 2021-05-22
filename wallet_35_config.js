@@ -1,1 +1,1 @@
-var mnemonic = "disagree history walnut dad sentence car already wolf knock october ask outdoor";
+var mnemonic = "mule evidence multiply ship salt shuffle shoe ritual elevator oblige rule beach";
