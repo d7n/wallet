@@ -1,1 +1,1 @@
-var mnemonic = "delay soon forest defy echo access lunch strong park salmon voice cousin";
+var mnemonic = "private green welcome rocket nose outdoor book ripple bridge hat claw long";

@@ -1,1 +1,1 @@
-var mnemonic = "demand lunar relief retire trial culture rely oak bus common enroll chaos";
+var mnemonic = "cloth mix half hand margin green panther easy noise chat check column";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate dynamic actress flat neck skate toward idle rude water walk adult";
+var mnemonic = "embrace during accident same until online skirt attitude fever south interest pact";

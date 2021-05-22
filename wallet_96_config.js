@@ -1,1 +1,1 @@
-var mnemonic = "shift suggest ranch trick region skull gap still find various hawk barrel";
+var mnemonic = "wage major glare dawn lyrics viable stem twist cheap window wine turn";

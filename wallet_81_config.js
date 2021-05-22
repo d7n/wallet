@@ -1,1 +1,1 @@
-var mnemonic = "phrase photo allow enjoy cram erode van tonight panic apple obey knife";
+var mnemonic = "trick wasp survey first tell vault depend shrimp swarm tongue hollow east";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil kiwi adjust random food dream proud veteran wasp mom slam crane";
+var mnemonic = "art rug law clap outside boat wedding occur badge olympic bag december";

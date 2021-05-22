@@ -1,1 +1,1 @@
-var mnemonic = "affair machine entry mango gossip luggage verify actual denial drop exile cheese";
+var mnemonic = "illegal blush ship sudden alley camp guilt calm addict trade chase note";

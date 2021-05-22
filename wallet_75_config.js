@@ -1,1 +1,1 @@
-var mnemonic = "trial blue wear chuckle exhaust exchange side crumble name drill edge kingdom";
+var mnemonic = "raise hazard mix south fever position film tumble bachelor zero fiber range";

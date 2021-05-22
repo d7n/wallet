@@ -1,1 +1,1 @@
-var mnemonic = "miracle word cabbage grocery month glad helmet that hazard photo setup wild";
+var mnemonic = "flash scatter plastic nest warm desk ramp pilot arrive grant imitate vacant";

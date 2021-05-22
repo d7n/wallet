@@ -1,1 +1,1 @@
-var mnemonic = "garage peasant asthma orchard clown liquid attract hint worry leisure canal science";
+var mnemonic = "glance ghost rent blanket animal umbrella cannon smile they remove citizen climb";

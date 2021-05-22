@@ -1,1 +1,1 @@
-var mnemonic = "custom ethics orange duck jaguar brisk mango cushion leg antique slot rude";
+var mnemonic = "story toddler vicious admit vast garment raw mountain rescue globe such balance";

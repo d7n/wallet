@@ -1,1 +1,1 @@
-var mnemonic = "assault vast oxygen since distance believe frown embark theory prepare ozone offer";
+var mnemonic = "risk town neck lucky discover accident glory super appear uniform village sister";

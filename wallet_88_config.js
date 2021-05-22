@@ -1,1 +1,1 @@
-var mnemonic = "luggage pride month escape duck grow advance chair sand vapor fee chuckle";
+var mnemonic = "where salt satoshi useless sleep sting dog toss sketch frozen sudden payment";

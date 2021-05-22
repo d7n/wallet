@@ -1,1 +1,1 @@
-var mnemonic = "riot exotic finger garbage victory place panda involve sock foam fiction brand";
+var mnemonic = "little stay merge save tuna conduct anchor output effort banana trade wedding";

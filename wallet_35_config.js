@@ -1,1 +1,1 @@
-var mnemonic = "mule evidence multiply ship salt shuffle shoe ritual elevator oblige rule beach";
+var mnemonic = "oblige leopard oblige bright turn island update discover riot plunge final shaft";

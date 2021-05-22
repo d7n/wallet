@@ -1,1 +1,1 @@
-var mnemonic = "mention bleak hero victory loop govern grow scheme drastic offer scheme miss";
+var mnemonic = "hole awful acoustic tomorrow crash shine opinion glide olive flip catalog action";

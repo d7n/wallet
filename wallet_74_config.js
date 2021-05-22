@@ -1,1 +1,1 @@
-var mnemonic = "gadget social connect slender alley garden nut crane fury barely noodle athlete";
+var mnemonic = "discover pride network tuition pigeon expire good document farm congress valid sea";

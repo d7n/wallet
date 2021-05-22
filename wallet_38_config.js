@@ -1,1 +1,1 @@
-var mnemonic = "opinion roof token dove hollow stadium trouble busy frown senior either exhaust";
+var mnemonic = "vacant success come clinic retire tell country baby mansion artwork media feed";

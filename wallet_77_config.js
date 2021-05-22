@@ -1,1 +1,1 @@
-var mnemonic = "heart convince upon version erupt suggest mansion wealth put cry behave stand";
+var mnemonic = "volume educate taxi radio doctor impact joy aware sight crazy uniform floor";

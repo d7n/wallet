@@ -1,1 +1,1 @@
-var mnemonic = "evolve cool vehicle valid urban spring develop issue arctic about effort brown";
+var mnemonic = "poverty noodle slim kit forget arrow sentence shoot option swarm series nuclear";

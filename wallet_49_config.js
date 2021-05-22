@@ -1,1 +1,1 @@
-var mnemonic = "fatigue curious enlist paddle advance glimpse guard metal solar solve trip trim";
+var mnemonic = "cause promote north again bus intact base deal inspire rain eternal orange";

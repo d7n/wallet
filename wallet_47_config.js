@@ -1,1 +1,1 @@
-var mnemonic = "fit violin panel three parent orchard segment ski material catalog rigid always";
+var mnemonic = "avoid kingdom fresh emerge now guitar situate trial catalog final body sand";

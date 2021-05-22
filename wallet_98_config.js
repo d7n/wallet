@@ -1,1 +1,1 @@
-var mnemonic = "decline connect marble circle comfort comfort quarter replace summer into search amused";
+var mnemonic = "nothing toe harsh execute entire improve basket certain place asset electric argue";

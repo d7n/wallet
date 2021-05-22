@@ -1,1 +1,1 @@
-var mnemonic = "naive bundle attack tank inmate concert aspect impact ice immune unique tunnel";
+var mnemonic = "deal thumb primary razor garbage van violin floor canal answer glide gesture";

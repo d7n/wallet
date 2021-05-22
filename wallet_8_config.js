@@ -1,1 +1,1 @@
-var mnemonic = "ordinary domain blast seat anger inform rule minor ancient nest skate dismiss";
+var mnemonic = "vast you call sheriff unveil juice latin satisfy post ancient mercy mutual";

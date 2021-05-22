@@ -1,1 +1,1 @@
-var mnemonic = "calm gain invite treat iron sunny about advice learn brick catch describe";
+var mnemonic = "taste slender feature gospel magic lizard shoot hope surround excite woman outside";

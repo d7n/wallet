@@ -1,1 +1,1 @@
-var mnemonic = "cause bus surround extra ripple attract inside relief kiwi excuse fury coffee";
+var mnemonic = "system robot marble surround region chest spin trust place blame amateur purse";

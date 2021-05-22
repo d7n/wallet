@@ -1,1 +1,1 @@
-var mnemonic = "upon return dentist symptom neither pulp antique minor weapon social airport exact";
+var mnemonic = "cradle vicious tonight brother brave dizzy save exercise absurd country toss run";

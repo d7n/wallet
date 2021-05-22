@@ -1,1 +1,1 @@
-var mnemonic = "ranch flavor easy clerk glance label father just physical also focus spider";
+var mnemonic = "olive alley smart police bonus foster index erode drum wasp security hand";

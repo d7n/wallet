@@ -1,1 +1,1 @@
-var mnemonic = "local flavor flee neglect disagree torch sand door finish service word help";
+var mnemonic = "amused carbon indoor wing bitter stock stadium comic spring stereo entry explain";

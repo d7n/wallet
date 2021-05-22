@@ -1,1 +1,1 @@
-var mnemonic = "enter fade abandon own monster arctic ask visa artefact grant merit loop";
+var mnemonic = "wise start curtain injury huge comic identify evidence pond trend moon punch";

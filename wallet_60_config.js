@@ -1,1 +1,1 @@
-var mnemonic = "guard armor endorse senior stem grid fatal mosquito leave survey turn crew";
+var mnemonic = "digital rain blossom frog identify diagram arrow source drink puppy guide couple";

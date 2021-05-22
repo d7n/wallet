@@ -1,1 +1,1 @@
-var mnemonic = "sorry now squirrel canoe venture bicycle easily garbage divert hotel mountain fluid";
+var mnemonic = "spread theory hybrid bamboo fox shoulder field rebel convince tiger mushroom will";

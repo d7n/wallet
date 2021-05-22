@@ -1,1 +1,1 @@
-var mnemonic = "road awesome work above control machine poverty swing exchange impose snake found";
+var mnemonic = "ghost sunny remain tongue across layer pencil other steel struggle flower supreme";

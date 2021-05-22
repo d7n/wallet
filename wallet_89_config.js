@@ -1,1 +1,1 @@
-var mnemonic = "scatter about flat ring lecture print control gate easy weather fruit anger";
+var mnemonic = "toilet book choose question notice fold eight correct cram buddy lake velvet";

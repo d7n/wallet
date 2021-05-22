@@ -1,1 +1,1 @@
-var mnemonic = "glove cloth fan soup exist next rib provide swallow brush mule happy";
+var mnemonic = "sock scheme happy cereal test cabin swear robust vacant okay smooth sponsor";

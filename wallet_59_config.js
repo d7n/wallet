@@ -1,1 +1,1 @@
-var mnemonic = "derive elephant supply twenty fiction maid cushion cloth hood wing mountain hole";
+var mnemonic = "wreck wrist crazy rebel start income point rigid point crop ring someone";

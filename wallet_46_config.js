@@ -1,1 +1,1 @@
-var mnemonic = "lend secret wing fitness parade glance verb project journey anchor knock chicken";
+var mnemonic = "rescue absent deputy surge broken device pact denial rich nurse genius dove";

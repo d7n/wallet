@@ -1,1 +1,1 @@
-var mnemonic = "until logic romance fly sell sausage library stool december winner raise team";
+var mnemonic = "staff emotion gap cement volume grass satisfy jazz matter blast stay exchange";

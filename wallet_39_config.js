@@ -1,1 +1,1 @@
-var mnemonic = "elite hamster able will execute blue museum bronze math shoe huge alone";
+var mnemonic = "remember history cabbage arrest stairs mistake sample cheap foot supply street buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote custom produce twin pact say title bar rack rival abuse wall";
+var mnemonic = "virus pistol kite arch stamp anger level vocal silly slush estate theme";

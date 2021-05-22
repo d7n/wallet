@@ -1,1 +1,1 @@
-var mnemonic = "situate purchase quality novel remember liar correct staff divert baby six message";
+var mnemonic = "vintage reveal cradle mixed shell measure motor modify peasant danger idle stable";

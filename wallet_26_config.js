@@ -1,1 +1,1 @@
-var mnemonic = "connect old ginger near pig rack curious wheel dragon story brass verify";
+var mnemonic = "rival improve prosper gasp hybrid embody trophy plastic common diamond way ritual";

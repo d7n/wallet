@@ -1,1 +1,1 @@
-var mnemonic = "same danger husband blue danger devote whale clarify month primary cloth flower";
+var mnemonic = "novel cluster course glance punch exclude neither grunt solid soft calm work";

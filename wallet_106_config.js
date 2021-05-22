@@ -1,1 +1,1 @@
-var mnemonic = "license people mix cost upgrade trouble poverty false hold window mercy message";
+var mnemonic = "pear bulk video thing ethics pretty monster island waste since spring jar";

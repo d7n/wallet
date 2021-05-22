@@ -1,1 +1,1 @@
-var mnemonic = "wire disease rather taxi price link extend point dish pottery whip clown";
+var mnemonic = "harsh piece survey poet current chapter mistake steak drop fury sheriff utility";

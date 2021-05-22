@@ -1,1 +1,1 @@
-var mnemonic = "west novel reward obey satisfy cause occur hole trumpet tell enforce garbage";
+var mnemonic = "all bless follow draft bronze cause thank quarter caught case assault acoustic";

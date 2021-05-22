@@ -1,1 +1,1 @@
-var mnemonic = "nurse chief car weasel win shiver payment pair identify drift hurt cupboard";
+var mnemonic = "various boss budget pistol stuff now inject payment mass core learn push";

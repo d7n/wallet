@@ -1,1 +1,1 @@
-var mnemonic = "leisure inmate mandate ancient parrot taste beef ketchup frost certain wrong globe";
+var mnemonic = "around muffin poem hotel snow mom repeat punch age salute hollow warrior";

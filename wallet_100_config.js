@@ -1,1 +1,1 @@
-var mnemonic = "boy mixed pretty north erupt mesh debris success throw hold road stable";
+var mnemonic = "release slam bounce void inherit neck aerobic verb marine asthma crucial pride";

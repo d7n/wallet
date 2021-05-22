@@ -1,1 +1,1 @@
-var mnemonic = "filter garage there wisdom reduce salon curve top visa flash cause off";
+var mnemonic = "memory whip blast unable behind yard sleep expire engage dinosaur panic repeat";

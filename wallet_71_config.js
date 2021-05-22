@@ -1,1 +1,1 @@
-var mnemonic = "tube team limit avoid spare toddler observe video few use cabin sort";
+var mnemonic = "wave flip hand spy depth cousin celery junior beauty father apart ability";

@@ -1,1 +1,1 @@
-var mnemonic = "clog drift never impose color category repeat buyer best cabin acquire cook";
+var mnemonic = "table crash swear mad hedgehog burst odor theory rose scrap loan amused";

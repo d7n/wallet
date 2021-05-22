@@ -1,1 +1,1 @@
-var mnemonic = "fashion chalk moon fee opinion parent genre try clock gown love faith";
+var mnemonic = "shove camera clay unfair demand table rigid moon sea dress vote kitchen";

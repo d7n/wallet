@@ -1,1 +1,1 @@
-var mnemonic = "slow once have basic income assist margin school october rich client quarter";
+var mnemonic = "aerobic curtain cute move consider shine settle height milk person nothing flush";

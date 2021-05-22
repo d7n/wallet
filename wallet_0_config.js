@@ -1,1 +1,1 @@
-var mnemonic = "add heart write often laptop coast tilt cat pair live twenty cushion";
+var mnemonic = "edit burden soda put relax target witness water frown palm suffer alarm";

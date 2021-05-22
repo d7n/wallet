@@ -1,1 +1,1 @@
-var mnemonic = "enjoy correct vast hungry common away salt junior shoe little dynamic between";
+var mnemonic = "valid bomb proof scorpion narrow champion tip capital tonight boil wish still";

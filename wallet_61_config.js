@@ -1,1 +1,1 @@
-var mnemonic = "ugly usage slim sadness possible saddle foot dial fish absurd raise shed";
+var mnemonic = "valid merge math flash lecture embrace strong boost wish obey example boring";

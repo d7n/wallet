@@ -1,1 +1,1 @@
-var mnemonic = "topic window door entry voyage pride clerk inner slim ripple believe brand";
+var mnemonic = "health snake response quantum cigar announce purse strong choose only exhibit engine";

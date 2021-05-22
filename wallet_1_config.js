@@ -1,1 +1,1 @@
-var mnemonic = "title hello replace uphold donate raise frozen stumble raccoon cable fit weird";
+var mnemonic = "safe over ball oven front code hand salt little uncover calm disagree";

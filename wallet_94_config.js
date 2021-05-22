@@ -1,1 +1,1 @@
-var mnemonic = "remove welcome project air deposit cricket hawk blame mammal noble spray success";
+var mnemonic = "balcony flush quality soccer argue tilt smile auto cube syrup question excuse";

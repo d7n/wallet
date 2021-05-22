@@ -1,1 +1,1 @@
-var mnemonic = "domain trophy team trash slot ancient regret know infant avoid satoshi lamp";
+var mnemonic = "blanket drum faith bomb bone twelve demand exhibit outdoor modify lunch target";

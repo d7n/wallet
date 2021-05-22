@@ -1,1 +1,1 @@
-var mnemonic = "sun update fatal tunnel text sweet wave quit anchor scene attract chaos";
+var mnemonic = "empower vault quality chaos raise hurdle forest rib ghost interest excuse juice";

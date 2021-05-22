@@ -1,1 +1,1 @@
-var mnemonic = "receive toward window grow panda explain friend hurt fish solution sunset control";
+var mnemonic = "away unveil diary repair display crane dune marriage truth fall upgrade laugh";

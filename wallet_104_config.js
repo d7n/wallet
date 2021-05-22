@@ -1,1 +1,1 @@
-var mnemonic = "behind insect chaos ask dial inside view oven mutual early swallow property";
+var mnemonic = "public ecology hockey amateur corn eternal spider simple iron siege arrest sail";

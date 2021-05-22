@@ -1,1 +1,1 @@
-var mnemonic = "wrap gentle spell pill razor allow ten daring front large medal stock";
+var mnemonic = "display doll accident discover nuclear family renew define excuse obvious rural whale";

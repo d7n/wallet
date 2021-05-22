@@ -1,1 +1,1 @@
-var mnemonic = "cabin manual rate stumble basket cube sort rescue gate dawn actor puzzle";
+var mnemonic = "cool yard embark will rocket inflict benefit sweet surround west guide dry";

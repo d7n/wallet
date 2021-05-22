@@ -1,1 +1,1 @@
-var mnemonic = "drill onion round federal panic limb develop cabbage want option object ladder";
+var mnemonic = "lawsuit raise charge level fan industry celery twenty travel fish fitness fork";

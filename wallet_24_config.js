@@ -1,1 +1,1 @@
-var mnemonic = "circle lottery flip gold mushroom pony shield eternal broccoli cup drama power";
+var mnemonic = "write minute check face impact pilot dry lawn syrup silent ten gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "piano armor plug gift siren perfect toilet good copper sleep royal inmate";
+var mnemonic = "liar such balcony solve devote welcome artefact divide skill lyrics cousin leisure";

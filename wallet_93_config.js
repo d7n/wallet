@@ -1,1 +1,1 @@
-var mnemonic = "garden fabric surprise lamp elite link earn worry love area exchange cage";
+var mnemonic = "brick keep frame upgrade chuckle between woman settle opinion kick during deal";

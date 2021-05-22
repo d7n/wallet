@@ -1,1 +1,1 @@
-var mnemonic = "service eagle unaware keen meadow amateur one cat voice charge phrase valve";
+var mnemonic = "welcome mandate word swift oval cricket nominee obtain umbrella consider burger icon";

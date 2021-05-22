@@ -1,1 +1,1 @@
-var mnemonic = "season usual jaguar result snake nasty suit eternal write net pear welcome";
+var mnemonic = "salute rebuild drop awesome core salute island ocean soup belt narrow empower";

@@ -1,1 +1,1 @@
-var mnemonic = "cost tenant govern pumpkin promote icon virtual enough lunar aspect there click";
+var mnemonic = "front lizard loop robust warm draft equip slush cousin demise cruise pink";

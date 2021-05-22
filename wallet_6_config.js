@@ -1,1 +1,1 @@
-var mnemonic = "valley prevent sword leg loyal goat ride capital start razor throw brown";
+var mnemonic = "bench auto inside valley strategy hazard okay blue foot left neglect between";

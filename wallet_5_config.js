@@ -1,1 +1,1 @@
-var mnemonic = "collect tide wish fat peace crucial barely sand cup shaft era movie";
+var mnemonic = "winter tube rocket pave hammer vacuum book churn toy palm intact potato";

@@ -1,1 +1,1 @@
-var mnemonic = "allow insane fantasy genuine cage receive flush uncle panel bunker energy flee";
+var mnemonic = "satisfy feed puppy aisle tilt dentist slide walk share federal pizza vehicle";

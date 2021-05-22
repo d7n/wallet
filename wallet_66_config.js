@@ -1,1 +1,1 @@
-var mnemonic = "parade ordinary zero cargo rhythm sample intact add rail minor dad mandate";
+var mnemonic = "test height tenant slice polar banner ugly glad lumber dismiss expose blast";

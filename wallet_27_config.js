@@ -1,1 +1,1 @@
-var mnemonic = "gadget episode worth actor tray soccer carbon cup cement gold into retreat";
+var mnemonic = "risk cancel party word account goose donate nothing goddess party bargain burden";

@@ -1,1 +1,1 @@
-var mnemonic = "garden tonight wrist replace stumble message key cover dry hundred truly can";
+var mnemonic = "energy boil cube dentist journey outer piece meadow finish annual matter brisk";

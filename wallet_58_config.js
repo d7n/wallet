@@ -1,1 +1,1 @@
-var mnemonic = "woman female biology phrase furnace cupboard seminar tuna remain stamp dish alter";
+var mnemonic = "enforce answer praise blind mind impact sausage debris rescue heart lion sight";

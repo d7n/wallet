@@ -1,1 +1,1 @@
-var mnemonic = "main short finger inch cat tissue album leave sustain creek icon split";
+var mnemonic = "pizza fossil disorder pottery region art believe emotion under electric brain derive";

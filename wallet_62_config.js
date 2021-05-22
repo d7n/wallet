@@ -1,1 +1,1 @@
-var mnemonic = "reward net prefer celery drink dizzy urge below trumpet daring gate addict";
+var mnemonic = "clinic maze owner casual bleak tragic anchor remember detect maid safe strategy";

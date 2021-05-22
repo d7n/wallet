@@ -1,1 +1,1 @@
-var mnemonic = "flip favorite photo amused garlic donate dove vague surprise measure replace loop";
+var mnemonic = "galaxy fury sausage engine bachelor crowd reason dinner table oyster physical vast";

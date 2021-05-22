@@ -1,1 +1,1 @@
-var mnemonic = "kick ketchup apology throw debate goose ready account fossil suit raven merit";
+var mnemonic = "error sure grocery twenty lend uncle peanut method satisfy volume mixed priority";

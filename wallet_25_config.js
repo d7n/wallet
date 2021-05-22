@@ -1,1 +1,1 @@
-var mnemonic = "loop purse urge tower bleak estate long sail silly machine cream cricket";
+var mnemonic = "blood damage bomb orange stamp blast october rice stamp surprise pear erupt";

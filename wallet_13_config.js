@@ -1,1 +1,1 @@
-var mnemonic = "whisper love patient snow into more radar maze include resource hawk account";
+var mnemonic = "essay salute thrive cycle ancient load response diesel detect mention path attitude";

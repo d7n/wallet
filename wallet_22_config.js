@@ -1,1 +1,1 @@
-var mnemonic = "pulp matter alone image minimum excess uncle like limb bacon squeeze beach";
+var mnemonic = "tennis hunt wheat quantum cover wave fuel shield adapt cupboard decrease glass";

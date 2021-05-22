@@ -1,1 +1,1 @@
-var mnemonic = "friend imitate meat pig mystery job crazy afraid prepare dynamic crystal forward";
+var mnemonic = "cabbage floor spin earn satoshi cause weekend brain royal tortoise stock appear";

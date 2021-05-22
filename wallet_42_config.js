@@ -1,1 +1,1 @@
-var mnemonic = "menu session audit comic text bread pencil better speak frozen around mutual";
+var mnemonic = "useful salt main adult label goose lonely depth will human oak language";

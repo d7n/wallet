@@ -1,1 +1,1 @@
-var mnemonic = "link ankle jaguar boat company banner glance agent wine abuse eight trigger";
+var mnemonic = "idle pulse cage holiday soda taxi purity cost blade vendor filter skirt";

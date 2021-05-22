@@ -1,1 +1,1 @@
-var mnemonic = "crash month scan jelly motion peace solid discover mercy shed episode winter";
+var mnemonic = "jewel february frozen exclude globe habit height inch kitten asset island million";

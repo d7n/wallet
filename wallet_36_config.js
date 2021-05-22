@@ -1,1 +1,1 @@
-var mnemonic = "toss stock regular journey glow torch adjust high fault rug noise biology";
+var mnemonic = "stay twin cricket despair property trust caution forest abuse cage swap stay";

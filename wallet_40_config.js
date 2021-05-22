@@ -1,1 +1,1 @@
-var mnemonic = "toy coconut spike fit kite gorilla thunder dignity valley nest despair virtual";
+var mnemonic = "image private shoe enhance wool film depth devote ridge gadget essay hat";
