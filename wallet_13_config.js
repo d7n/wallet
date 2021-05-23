@@ -1,1 +1,1 @@
-var mnemonic = "sorry type student must hen own silver item barely kitchen whip debris";
+var mnemonic = "become dose major follow mobile claim print parrot maid law ride tag";

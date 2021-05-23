@@ -1,1 +1,1 @@
-var mnemonic = "robust onion rain hope move train deputy toilet web ticket book slide";
+var mnemonic = "shy dice consider cloth twelve small firm bamboo ecology tip electric frost";

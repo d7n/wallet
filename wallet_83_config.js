@@ -1,1 +1,1 @@
-var mnemonic = "asthma now visual source enroll viable bacon raven pole sing around soap";
+var mnemonic = "settle thunder opera water hockey luggage water destroy grief light blame social";

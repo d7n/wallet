@@ -1,1 +1,1 @@
-var mnemonic = "brown plate fire join worry planet mixture spy hint estate tissue flower";
+var mnemonic = "accuse canoe rapid abandon fragile assault antique royal economy tonight check theme";

@@ -1,1 +1,1 @@
-var mnemonic = "food fade crystal gown frog long guitar hurt margin fever dance mango";
+var mnemonic = "home dirt curious science maximum bacon penalty broom oppose drop vocal muscle";

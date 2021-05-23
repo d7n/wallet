@@ -1,1 +1,1 @@
-var mnemonic = "glimpse half debate goat spawn route recipe pioneer enlist owner proud punch";
+var mnemonic = "unlock paddle want rocket leaf still pony ridge quick inspire oven life";

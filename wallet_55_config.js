@@ -1,1 +1,1 @@
-var mnemonic = "embody close profit ready rough celery dwarf mystery tomorrow cinnamon price device";
+var mnemonic = "kiss buzz verify fitness citizen climb alarm neglect foot fetch inspire business";

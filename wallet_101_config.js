@@ -1,1 +1,1 @@
-var mnemonic = "domain crime shoulder license jungle barely choice sure carry skull involve topic";
+var mnemonic = "shoulder pipe melody summer detect leader bridge melt journey leg sense link";

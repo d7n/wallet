@@ -1,1 +1,1 @@
-var mnemonic = "tip predict lyrics tail foil keep slide boil below wreck supply motor";
+var mnemonic = "step clog cattle theme horse just gap turtle clown federal hair giraffe";

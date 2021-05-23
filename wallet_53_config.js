@@ -1,1 +1,1 @@
-var mnemonic = "bring boil spoon aerobic salon vanish select unknown exhaust marble calm cool";
+var mnemonic = "junk dial smooth nephew illegal month impulse faith picnic snap pole roast";

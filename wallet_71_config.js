@@ -1,1 +1,1 @@
-var mnemonic = "mechanic boy fork loop bundle defense bamboo velvet say over reason doctor";
+var mnemonic = "diamond like bring mistake priority pudding pause bottom hope guide olive syrup";

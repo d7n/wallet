@@ -1,1 +1,1 @@
-var mnemonic = "jelly chest van bind useful bundle frame picnic solid mobile try tail";
+var mnemonic = "jeans youth then brisk picture mammal pond gasp client monitor battle family";

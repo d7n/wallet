@@ -1,1 +1,1 @@
-var mnemonic = "text country team amazing wool satisfy opera range mammal record lottery snow";
+var mnemonic = "honey relief slogan diagram hurt exercise metal tree stove giggle similar ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "idea spell episode tourist south hollow empty market secret gain injury bitter";
+var mnemonic = "device skirt curtain fever genius dumb silk light adjust disease crystal balance";

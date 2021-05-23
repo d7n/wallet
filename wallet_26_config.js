@@ -1,1 +1,1 @@
-var mnemonic = "modify foam obtain fetch idea person allow enroll foster rice cabbage rigid";
+var mnemonic = "ensure message patrol copper salt mad afraid pepper alert rifle token diesel";

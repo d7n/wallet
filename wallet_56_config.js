@@ -1,1 +1,1 @@
-var mnemonic = "olive odor rather work correct piece clock curtain spider wheel flat attract";
+var mnemonic = "swift card person find onion impact echo budget scout family spider boost";

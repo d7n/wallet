@@ -1,1 +1,1 @@
-var mnemonic = "negative text tool biology say wolf supreme accuse coast list review castle";
+var mnemonic = "enjoy refuse inflict chest olympic fresh believe broken among maple bunker lonely";

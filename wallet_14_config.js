@@ -1,1 +1,1 @@
-var mnemonic = "fat allow limb wealth stem faith poverty cost next mix audit ignore";
+var mnemonic = "rally chimney antique lounge special budget pair spring motion modify size rhythm";

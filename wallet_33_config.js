@@ -1,1 +1,1 @@
-var mnemonic = "gorilla amused today title direct task diamond lift scare quote oblige estate";
+var mnemonic = "slush worry category robust orange monster fox deer tiger garlic mother relief";

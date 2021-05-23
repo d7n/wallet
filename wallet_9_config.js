@@ -1,1 +1,1 @@
-var mnemonic = "fish finish catalog gather chuckle pony crew faith grace input cruise level";
+var mnemonic = "topple soldier conduct chicken mix stairs ready amazing science type avocado balance";

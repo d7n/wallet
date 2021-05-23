@@ -1,1 +1,1 @@
-var mnemonic = "sister pact work hollow outside prison cook useful chuckle bone gospel remember";
+var mnemonic = "goose twice burst catch kid winter april until comic ghost elbow hold";

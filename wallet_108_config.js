@@ -1,1 +1,1 @@
-var mnemonic = "appear lunch valley home round apology dignity body liquid dilemma come combine";
+var mnemonic = "above caught silver dignity output tree hotel fatal possible pledge garage number";

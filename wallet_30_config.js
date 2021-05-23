@@ -1,1 +1,1 @@
-var mnemonic = "soap shy want volcano false urban casino error impact spy august trap";
+var mnemonic = "green quick sniff enemy please labor answer tortoise reduce reunion few giggle";

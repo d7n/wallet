@@ -1,1 +1,1 @@
-var mnemonic = "jelly same cancel cry border huge erosion pass oval injury program remove";
+var mnemonic = "either digital bullet pigeon skill orchard try subject right virtual wolf anger";

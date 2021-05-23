@@ -1,1 +1,1 @@
-var mnemonic = "circle load stairs ancient neglect party clinic neck profit farm treat lonely";
+var mnemonic = "accuse pole rack tiger link valid lecture spray learn image ketchup wink";

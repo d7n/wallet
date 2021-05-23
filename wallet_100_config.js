@@ -1,1 +1,1 @@
-var mnemonic = "return they evolve opera income gate abuse trim skate medal involve lecture";
+var mnemonic = "robot flag victory rich expire client boss smile round split bicycle property";

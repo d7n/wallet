@@ -1,1 +1,1 @@
-var mnemonic = "pipe design sniff any goose test future column refuse garment calm metal";
+var mnemonic = "swap gain left quiz bridge step cannon expire news unit alone best";

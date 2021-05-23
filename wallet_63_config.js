@@ -1,1 +1,1 @@
-var mnemonic = "elephant raw venture right spend slam fresh change mobile palm coral envelope";
+var mnemonic = "system citizen joke feed smoke smooth patient index team upset memory render";

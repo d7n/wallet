@@ -1,1 +1,1 @@
-var mnemonic = "nurse cushion cook over flavor renew traffic monitor spell gauge call next";
+var mnemonic = "eager cherry dash talk battle update exchange merit mask loud humble shoulder";

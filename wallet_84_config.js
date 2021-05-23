@@ -1,1 +1,1 @@
-var mnemonic = "wise shoulder butter metal rocket remove pyramid country cupboard rival animal soldier";
+var mnemonic = "left office van report change deal tongue tourist drastic remember please future";

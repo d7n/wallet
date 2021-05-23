@@ -1,1 +1,1 @@
-var mnemonic = "give moment bench recall bean company cupboard bulb excuse start spring gate";
+var mnemonic = "net parent various juice clinic rescue easy toddler during diamond coil fluid";

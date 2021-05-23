@@ -1,1 +1,1 @@
-var mnemonic = "lizard rate police cool truck sure hill entire minimum miss hero angry";
+var mnemonic = "minor bomb inform figure six document general review nut guilt forum purpose";

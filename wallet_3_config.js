@@ -1,1 +1,1 @@
-var mnemonic = "coil crawl flat save praise mutual laundry unable roof quarter explain retreat";
+var mnemonic = "lunar behind fence fashion order cash lounge liar quality present tape sudden";

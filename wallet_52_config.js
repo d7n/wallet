@@ -1,1 +1,1 @@
-var mnemonic = "sudden combine other hand diagram simple work make shoe color milk initial";
+var mnemonic = "usage fruit hip dumb cream tuition retire suffer regret because lemon alter";

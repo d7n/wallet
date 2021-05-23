@@ -1,1 +1,1 @@
-var mnemonic = "solid family timber siege order east guess they crush speed scatter crime";
+var mnemonic = "novel second amateur give leisure sketch ostrich spirit panda moment train film";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket ugly rice topple merry radio begin bid carpet fetch unaware yard";
+var mnemonic = "spend young menu cat moral senior please issue pause cable general crime";

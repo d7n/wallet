@@ -1,1 +1,1 @@
-var mnemonic = "oblige prepare arm melody chest employ wage puzzle evidence okay fee soccer";
+var mnemonic = "aware canoe marriage decorate rocket bulk picnic category ugly cave spray miracle";

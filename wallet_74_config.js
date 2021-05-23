@@ -1,1 +1,1 @@
-var mnemonic = "enforce churn holiday vault another effort fancy oyster language life monster bicycle";
+var mnemonic = "jungle control vapor payment blossom first kiwi bubble bus thought young bronze";

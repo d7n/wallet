@@ -1,1 +1,1 @@
-var mnemonic = "fold noise wide token polar absurd onion neither force text soul during";
+var mnemonic = "valid ignore dutch sing olympic rotate kitten core angry carpet way van";

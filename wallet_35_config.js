@@ -1,1 +1,1 @@
-var mnemonic = "cash avoid danger regret mandate inner nose raccoon palace pudding bubble blouse";
+var mnemonic = "cancel remain rather flower era judge high execute liar title garment clinic";

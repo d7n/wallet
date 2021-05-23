@@ -1,1 +1,1 @@
-var mnemonic = "skill cruel glass quality inflict erosion general eternal letter hub owner trigger";
+var mnemonic = "verb useful guitar rose struggle zone day chest road simple garment upset";

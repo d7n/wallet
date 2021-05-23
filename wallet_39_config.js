@@ -1,1 +1,1 @@
-var mnemonic = "hamster must joke upgrade rice borrow faint text language general reflect zebra";
+var mnemonic = "slide eagle tobacco farm leg resist outdoor finish toss young recipe finish";

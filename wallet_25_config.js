@@ -1,1 +1,1 @@
-var mnemonic = "grass return sad suggest clerk friend huge conduct lawsuit jazz soldier large";
+var mnemonic = "alarm bitter bacon resemble system system hockey husband match novel economy scrub";

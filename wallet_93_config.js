@@ -1,1 +1,1 @@
-var mnemonic = "nothing emerge visit toilet burger truth coach raven loyal scatter upper before";
+var mnemonic = "day crew expose dilemma venture all bike adjust cluster kite dizzy unfold";

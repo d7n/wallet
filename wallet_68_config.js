@@ -1,1 +1,1 @@
-var mnemonic = "fatigue claim mandate mistake nation wine daughter caught jar gaze indicate pilot";
+var mnemonic = "else milk rival govern celery traffic margin pumpkin casual tomato robust toe";

@@ -1,1 +1,1 @@
-var mnemonic = "casino need immense firm drill hire close poem over fossil affair panda";
+var mnemonic = "alter oil siege canyon grunt kangaroo alarm unusual gaze design hat model";

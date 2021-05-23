@@ -1,1 +1,1 @@
-var mnemonic = "note despair entry gym swallow fancy mask marriage mother envelope gossip corn";
+var mnemonic = "truck abandon nut more width river load document muffin merge observe usual";

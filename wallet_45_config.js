@@ -1,1 +1,1 @@
-var mnemonic = "endless shuffle inside grain upgrade owner author bundle trouble vacuum race close";
+var mnemonic = "tray balance service silent fetch inject cradle average eager elder tower uniform";

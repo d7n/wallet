@@ -1,1 +1,1 @@
-var mnemonic = "regret theory excuse acquire orange next rude ozone nice negative shed expect";
+var mnemonic = "report beyond melody cool model mammal toe tree collect coconut moral apology";

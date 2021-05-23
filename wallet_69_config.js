@@ -1,1 +1,1 @@
-var mnemonic = "dance time online alarm glove among desk endorse speak whisper limit long";
+var mnemonic = "fame ankle normal elegant disagree spy voice hurry luxury object silent never";

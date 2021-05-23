@@ -1,1 +1,1 @@
-var mnemonic = "clown tube friend mule scrap romance pink someone chunk clock island forum";
+var mnemonic = "vivid demise obscure theory latin cry lounge crane yellow minimum hole figure";

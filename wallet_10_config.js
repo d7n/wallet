@@ -1,1 +1,1 @@
-var mnemonic = "glimpse olympic seed kidney logic toward maximum warrior prize stock jazz unit";
+var mnemonic = "proof purpose extend bean believe swamp manage estate clerk all organ scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy exchange fancy hold letter injury benefit spirit body scheme garlic equip";
+var mnemonic = "royal print skin warrior motion dawn switch flush crystal fragile chalk alley";

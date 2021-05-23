@@ -1,1 +1,1 @@
-var mnemonic = "chaos camp lounge attack thrive unit elephant pulp moon beach already wrong";
+var mnemonic = "decade loop labor student team rival clay surge advance need acquire deal";

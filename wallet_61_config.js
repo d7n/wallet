@@ -1,1 +1,1 @@
-var mnemonic = "ice affair uncover wrap account rain job pyramid item roof author whisper";
+var mnemonic = "library scare merge result bitter coin dignity shy holiday hello charge kitten";

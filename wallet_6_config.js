@@ -1,1 +1,1 @@
-var mnemonic = "glory piece clerk possible blush interest special spider fiscal brisk keen dial";
+var mnemonic = "column moral soda cup tree question height excuse tomato avocado skill wage";

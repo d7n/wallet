@@ -1,1 +1,1 @@
-var mnemonic = "door flavor catalog power pepper smile bonus law elbow ladder slot bind";
+var mnemonic = "spirit funny miracle private wise boring range glue plate fiber swim barrel";

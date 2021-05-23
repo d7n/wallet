@@ -1,1 +1,1 @@
-var mnemonic = "bachelor animal funny urban fancy scrap design method attract pride noise stadium";
+var mnemonic = "mobile moment matrix junk solar similar symptom correct anchor suit oil reunion";

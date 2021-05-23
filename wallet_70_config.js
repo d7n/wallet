@@ -1,1 +1,1 @@
-var mnemonic = "harvest buffalo common humble trick reward lizard marble inhale dwarf host shield";
+var mnemonic = "bag lunch engage aspect top type destroy sadness imitate swing travel entry";

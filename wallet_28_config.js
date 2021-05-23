@@ -1,1 +1,1 @@
-var mnemonic = "twenty sick quit comfort apple false acoustic ship prevent asset drink forest";
+var mnemonic = "bench verify actual forest trouble siren rescue prize frown laundry wash energy";

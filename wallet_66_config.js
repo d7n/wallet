@@ -1,1 +1,1 @@
-var mnemonic = "donate toe mercy cute peace affair above sniff ticket legal add verb";
+var mnemonic = "tourist object differ truly blush force family pretty rich recycle inner ritual";

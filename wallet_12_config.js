@@ -1,1 +1,1 @@
-var mnemonic = "gauge junior woman auction vague dry repeat admit draw disorder spike jaguar";
+var mnemonic = "right sense vibrant input used crouch insane manual coyote yellow attitude scrub";

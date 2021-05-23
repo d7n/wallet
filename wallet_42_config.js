@@ -1,1 +1,1 @@
-var mnemonic = "remember shiver beach shadow deputy inch drip long glue access tired flower";
+var mnemonic = "spin purse waste toddler where kitchen pool approve marriage food material gentle";

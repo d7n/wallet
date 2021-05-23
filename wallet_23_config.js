@@ -1,1 +1,1 @@
-var mnemonic = "have young youth box crop hawk enable laundry tiny grid unaware violin";
+var mnemonic = "sun cactus bronze equip custom identify joy develop shoulder wash column address";

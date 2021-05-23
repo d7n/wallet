@@ -1,1 +1,1 @@
-var mnemonic = "fortune limb real mechanic labor produce unusual gasp regular hill chuckle kidney";
+var mnemonic = "apology method angry thrive when hurt rug ranch earth review execute year";

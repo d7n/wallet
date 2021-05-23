@@ -1,1 +1,1 @@
-var mnemonic = "subway century duty bubble release solar manual noodle mouse napkin spray chapter";
+var mnemonic = "shrug want pioneer primary thumb foot educate athlete payment eight run rude";

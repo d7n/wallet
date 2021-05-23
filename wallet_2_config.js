@@ -1,1 +1,1 @@
-var mnemonic = "shiver twin essence parent rack pulp priority inject chef drink swamp admit";
+var mnemonic = "leave plug captain pupil clean another void used shift never enrich survey";

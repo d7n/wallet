@@ -1,1 +1,1 @@
-var mnemonic = "actress stumble tooth face very base globe advance draw asthma any size";
+var mnemonic = "wheat near garden group crater brain quarter add opinion loyal what oil";

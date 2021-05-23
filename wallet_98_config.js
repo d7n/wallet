@@ -1,1 +1,1 @@
-var mnemonic = "gold excess imitate fresh soon brave frost intact eight wool negative ritual";
+var mnemonic = "yellow consider merry only renew valid celery denial now phrase vocal security";

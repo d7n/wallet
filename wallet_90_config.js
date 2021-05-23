@@ -1,1 +1,1 @@
-var mnemonic = "extend flash brief web decline render venue bread begin destroy control sugar";
+var mnemonic = "birth cotton leaf sketch feel smile humor fiber before side horror limit";

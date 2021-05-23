@@ -1,1 +1,1 @@
-var mnemonic = "noodle antenna color village unique pilot impose fetch bar useless dawn side";
+var mnemonic = "shine sell hobby suit census solid name badge dice together visit color";

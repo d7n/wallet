@@ -1,1 +1,1 @@
-var mnemonic = "useful uncover undo moral hub symbol horn sea certain minor idle genius";
+var mnemonic = "fault tray fluid carry swing pigeon slim hammer word inflict frost clown";

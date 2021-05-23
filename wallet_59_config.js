@@ -1,1 +1,1 @@
-var mnemonic = "make spatial inch news execute oil boss search hidden hen real gossip";
+var mnemonic = "raw practice describe oxygen reduce sting culture virtual tiger step van ethics";

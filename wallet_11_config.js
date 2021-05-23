@@ -1,1 +1,1 @@
-var mnemonic = "clock collect kidney crane wire embody word chuckle gym soul brick garden";
+var mnemonic = "parrot pig lift acquire shiver humble wrist divide ankle grace believe engage";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish layer state mad nurse dress job stool hobby swamp excuse present";
+var mnemonic = "nothing vacuum tree write merry nothing ancient frequent later reward venue basic";

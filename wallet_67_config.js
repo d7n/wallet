@@ -1,1 +1,1 @@
-var mnemonic = "success cloud patient silent arm pear distance width fluid elite coconut risk";
+var mnemonic = "account gather play lucky seven silent child wrong naive oyster happy erase";

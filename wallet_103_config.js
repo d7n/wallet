@@ -1,1 +1,1 @@
-var mnemonic = "tortoise laptop reduce spirit shallow clutch narrow brush debris chronic sunset bottom";
+var mnemonic = "hamster rough option napkin earn cinnamon diet panic discover raise spot tornado";

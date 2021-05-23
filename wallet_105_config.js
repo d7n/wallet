@@ -1,1 +1,1 @@
-var mnemonic = "dilemma settle number drum opera shrimp increase artist language panda okay polar";
+var mnemonic = "path feed pink orient cliff glide cry human cluster author thought pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "certain hair bunker trophy baby mention nothing outside parrot beauty announce degree";
+var mnemonic = "body nominee meadow news true arrow post shrimp already minimum crime online";

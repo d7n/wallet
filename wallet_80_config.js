@@ -1,1 +1,1 @@
-var mnemonic = "bicycle hollow balcony access december entry doctor another hat unable hint vessel";
+var mnemonic = "worth album vacuum tide polar effort organ spoon curtain comic funny lawn";

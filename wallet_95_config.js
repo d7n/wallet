@@ -1,1 +1,1 @@
-var mnemonic = "brush syrup double vote rent into desk risk hire enact sentence lab";
+var mnemonic = "churn assist tongue spread neck bus parent skull stamp domain water pact";

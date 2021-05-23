@@ -1,1 +1,1 @@
-var mnemonic = "quality hour perfect until fresh account comfort bar treat amount remove charge";
+var mnemonic = "garden sure obscure vicious derive recall renew soap life patrol loan barely";

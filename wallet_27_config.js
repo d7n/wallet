@@ -1,1 +1,1 @@
-var mnemonic = "siren vessel mean wall regret gallery spirit scare opera detect public fun";
+var mnemonic = "program share peanut outside adjust swarm busy cloth hint allow artist present";

@@ -1,1 +1,1 @@
-var mnemonic = "output pole lottery day between program confirm empower head wink minimum blue";
+var mnemonic = "used again inner boost wall guitar glory weird correct split beyond sound";

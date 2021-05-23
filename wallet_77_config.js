@@ -1,1 +1,1 @@
-var mnemonic = "bulk else duck scissors parrot comfort problem head you unlock vote govern";
+var mnemonic = "entry broccoli welcome hybrid only tackle destroy skate empty ethics wonder situate";

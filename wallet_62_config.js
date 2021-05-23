@@ -1,1 +1,1 @@
-var mnemonic = "yard island race innocent exotic absent lady poet endorse blind slot chalk";
+var mnemonic = "solve accuse benefit analyst lobster organ together alpha card urge island inject";

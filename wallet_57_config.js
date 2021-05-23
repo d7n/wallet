@@ -1,1 +1,1 @@
-var mnemonic = "ski shed example hunt control maple brother cube evoke spray mosquito put";
+var mnemonic = "knee gauge news frozen raise own clip gift scout boring silly snap";

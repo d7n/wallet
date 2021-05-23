@@ -1,1 +1,1 @@
-var mnemonic = "energy unusual mask avocado ridge matrix usual diet garage margin spot spawn";
+var mnemonic = "stay hood expect other plug actual vague tourist reject stomach surprise prison";

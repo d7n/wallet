@@ -1,1 +1,1 @@
-var mnemonic = "balance shoulder document spy bike delay spell save behave rug elevator pigeon";
+var mnemonic = "funny autumn journey brand steel gate symbol slender seminar again flavor nasty";

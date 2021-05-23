@@ -1,1 +1,1 @@
-var mnemonic = "entire law traffic orient when wine brand small dose swarm found curious";
+var mnemonic = "wet health atom patch tonight unknown crash crash glow garage balcony empty";

@@ -1,1 +1,1 @@
-var mnemonic = "awake topic slogan replace produce profit friend erupt cousin ceiling dinner vast";
+var mnemonic = "abuse jacket banner people wasp episode rather dragon blush tape truck nut";

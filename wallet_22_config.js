@@ -1,1 +1,1 @@
-var mnemonic = "rich pear game spider repeat clown acid swift mouse very gauge giraffe";
+var mnemonic = "toward sword again grief fit share decide lens spread pigeon mistake record";
