@@ -1,1 +1,1 @@
-var mnemonic = "oblige wash panther mansion empty obtain reveal ecology stomach sure firm festival";
+var mnemonic = "attend mutual awesome assault anchor thought taxi second report supreme transfer enforce";

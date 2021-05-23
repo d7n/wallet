@@ -1,1 +1,1 @@
-var mnemonic = "edit term conduct wait humor cherry crouch audit atom pigeon sponsor term";
+var mnemonic = "lift come cluster bronze extra notice execute doll decide crowd social rail";

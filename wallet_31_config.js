@@ -1,1 +1,1 @@
-var mnemonic = "uncle target capital defense host olive coyote flock pride orphan promote ask";
+var mnemonic = "strike author mystery august argue explain farm virtual glove multiply emerge stand";

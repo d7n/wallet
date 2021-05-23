@@ -1,1 +1,1 @@
-var mnemonic = "company prosper pyramid dream audit shrimp history spoil entry drastic true skate";
+var mnemonic = "universe soccer quick rack treat turkey cram dirt actress nurse top clarify";

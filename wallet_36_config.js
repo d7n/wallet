@@ -1,1 +1,1 @@
-var mnemonic = "urge bounce olive myth wild output expect outdoor chronic pulse bunker soccer";
+var mnemonic = "ensure other credit choose choose comic gadget snake enhance garlic budget spot";

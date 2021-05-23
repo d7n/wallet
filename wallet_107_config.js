@@ -1,1 +1,1 @@
-var mnemonic = "never lady answer guide prevent auto fitness acquire arrange voyage curious accuse";
+var mnemonic = "crumble casino desk kangaroo recycle name coconut purchase empower apology quality pepper";

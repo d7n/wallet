@@ -1,1 +1,1 @@
-var mnemonic = "enhance author despair found bring online foam tribe sniff invest leaf owner";
+var mnemonic = "shy result powder hello become unable album gas viable brain awkward river";

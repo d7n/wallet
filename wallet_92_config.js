@@ -1,1 +1,1 @@
-var mnemonic = "remember coin action index people nature fog mask pluck nest flush industry";
+var mnemonic = "kangaroo kitchen tray decide cactus chest inherit purpose squirrel wife toy style";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth scatter liar electric input early dress foot clip bicycle essay actual";
+var mnemonic = "census impose team win electric fat clog rally whisper recall practice bar";

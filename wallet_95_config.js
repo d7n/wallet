@@ -1,1 +1,1 @@
-var mnemonic = "deposit ranch matrix because season return shoot sphere scan year inflict master";
+var mnemonic = "giant soup quote recall object pull supply gather distance turkey together about";

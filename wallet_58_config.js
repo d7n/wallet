@@ -1,1 +1,1 @@
-var mnemonic = "police also despair display business history immense aisle pet pipe comic cash";
+var mnemonic = "day agent that leave lunch sponsor misery hill medal poverty slam employ";

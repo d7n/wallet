@@ -1,1 +1,1 @@
-var mnemonic = "wonder episode elite involve often pledge honey enable educate interest lady execute";
+var mnemonic = "tomato foster front grant pipe scheme stuff neither argue daughter address share";

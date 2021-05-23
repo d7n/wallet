@@ -1,1 +1,1 @@
-var mnemonic = "pelican human hello warrior humble art border cause maple top express truck";
+var mnemonic = "speed humor middle initial clap omit know front quote sign sniff stone";

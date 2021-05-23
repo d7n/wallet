@@ -1,1 +1,1 @@
-var mnemonic = "tell property alpha express craft soda tired dynamic inflict welcome emerge recycle";
+var mnemonic = "hub stereo mix shop pyramid fabric column dry jacket anchor shield walnut";

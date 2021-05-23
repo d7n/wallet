@@ -1,1 +1,1 @@
-var mnemonic = "what remind grab rigid soccer wise enforce hungry anchor lucky inmate victory";
+var mnemonic = "provide enough merge price off dish few stove wonder head speed cable";

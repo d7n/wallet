@@ -1,1 +1,1 @@
-var mnemonic = "estate toy fold army excite absent capable bless detect visa text world";
+var mnemonic = "gift torch inject antenna desk ripple razor laptop stamp ticket metal control";

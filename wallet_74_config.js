@@ -1,1 +1,1 @@
-var mnemonic = "face rabbit plug vote track damp test vanish quantum orange spread focus";
+var mnemonic = "dad globe cycle remind amused castle include you fatal despair flame strong";

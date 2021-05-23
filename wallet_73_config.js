@@ -1,1 +1,1 @@
-var mnemonic = "chat latin rely reflect nothing dinosaur elite fabric frozen game tree tent";
+var mnemonic = "shoot theme world autumn disorder sting index traffic skull diary ethics mandate";

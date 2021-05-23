@@ -1,1 +1,1 @@
-var mnemonic = "task bind year spy wisdom used trap acid captain steel maid warfare";
+var mnemonic = "token mutual uncover eternal visa near antique oval uncle unit nut mobile";

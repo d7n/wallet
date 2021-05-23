@@ -1,1 +1,1 @@
-var mnemonic = "modify region music that eight mesh depart valley small help boss zoo";
+var mnemonic = "admit spray scan setup update surprise alien treat junk credit eager february";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk yard foster brisk concert rather west curious drip edit exotic scan";
+var mnemonic = "drop volcano palm mercy tissue admit wash march utility wrist globe job";

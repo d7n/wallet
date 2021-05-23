@@ -1,1 +1,1 @@
-var mnemonic = "swap depend people layer castle crunch flat board rescue drive timber sphere";
+var mnemonic = "funny divert boost field pretty obey risk divide pass rigid mixed scene";

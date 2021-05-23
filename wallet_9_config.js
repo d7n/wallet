@@ -1,1 +1,1 @@
-var mnemonic = "donor evoke gift talent ripple section message fabric december swift rubber capital";
+var mnemonic = "anger blade unusual lesson crew defy direct library trust thought tenant concert";

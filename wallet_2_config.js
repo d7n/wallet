@@ -1,1 +1,1 @@
-var mnemonic = "protect kid spawn lottery gaze sentence road glory style delay layer sauce";
+var mnemonic = "lazy indoor gasp flip suspect cupboard asset cause rapid dynamic glad talk";

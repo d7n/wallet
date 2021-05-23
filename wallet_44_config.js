@@ -1,1 +1,1 @@
-var mnemonic = "regret honey rally rather consider end around charge scan hen lion marriage";
+var mnemonic = "adjust wise dice blue verb pill small item squirrel goose certain idle";

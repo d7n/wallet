@@ -1,1 +1,1 @@
-var mnemonic = "balance win false save delay stereo together human this lawn segment loyal";
+var mnemonic = "else answer thank weird order dilemma fashion science seek ill history rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "glide bacon later shop fix notable milk gasp boy prosper soup clog";
+var mnemonic = "cushion ahead nut damp figure height come chuckle water shop farm permit";

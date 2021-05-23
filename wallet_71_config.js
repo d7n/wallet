@@ -1,1 +1,1 @@
-var mnemonic = "pipe train plunge click home input announce high scheme hungry pulse myself";
+var mnemonic = "heart dwarf pony orbit media debris hour tiny relief error theme meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "provide ramp day craft wrong elevator double obscure indoor valid horn fade";
+var mnemonic = "recipe wedding thing cake story february firm eager parent review suffer mask";

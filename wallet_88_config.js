@@ -1,1 +1,1 @@
-var mnemonic = "retreat usage spatial bacon chunk reason jelly slot armed chaos hamster this";
+var mnemonic = "into mechanic sugar palm coach trap moon trick leg female lemon business";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday humor april trash wrist dry weather dragon hobby pilot junior start";
+var mnemonic = "actual stomach smooth forest acoustic opera behind snack nice fame page core";

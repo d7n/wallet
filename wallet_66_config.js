@@ -1,1 +1,1 @@
-var mnemonic = "burden clap slice dynamic orchard perfect rail silent repeat crystal raccoon gauge";
+var mnemonic = "fun anxiety possible letter bundle boss secret lizard either rural box net";

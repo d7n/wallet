@@ -1,1 +1,1 @@
-var mnemonic = "purity random man ceiling bonus pull orphan clip seek such anxiety boring";
+var mnemonic = "swear stick knife crater avoid define grace coconut planet music flip oblige";

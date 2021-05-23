@@ -1,1 +1,1 @@
-var mnemonic = "cat misery swap drastic frozen ring syrup better scene divorce kit scorpion";
+var mnemonic = "weekend sister raw awesome bone gather unveil liberty muffin open sound attend";

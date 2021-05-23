@@ -1,1 +1,1 @@
-var mnemonic = "reason betray warrior obscure fury maze horse give tent october reason unable";
+var mnemonic = "bottom confirm silent leisure nurse host patrol final surround wolf urban together";

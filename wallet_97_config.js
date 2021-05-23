@@ -1,1 +1,1 @@
-var mnemonic = "purchase pioneer dress deposit suggest setup cover radio obscure general slab popular";
+var mnemonic = "winter guilt share brother blossom glimpse surge glad spray sketch boring admit";

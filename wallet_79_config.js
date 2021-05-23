@@ -1,1 +1,1 @@
-var mnemonic = "drop toe decrease arm drum grass safe raven weapon spy carbon inhale";
+var mnemonic = "soul sausage letter plate sunny cousin infant fix hedgehog layer prosper rough";

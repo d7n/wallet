@@ -1,1 +1,1 @@
-var mnemonic = "inch century confirm pear three happy usual head federal suit tribe trend";
+var mnemonic = "gold depart hub talent alcohol stable beef corn glory creek smart fiction";

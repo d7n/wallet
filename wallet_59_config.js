@@ -1,1 +1,1 @@
-var mnemonic = "pluck logic become misery athlete kangaroo muffin puzzle little top quality category";
+var mnemonic = "spirit oxygen escape police monitor spread lawsuit claw degree game neck giant";

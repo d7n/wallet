@@ -1,1 +1,1 @@
-var mnemonic = "circle view arm fuel exhibit ivory force accident sick eyebrow save train";
+var mnemonic = "marriage recall describe bomb car oval live oxygen kingdom clog uncover turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow cushion true snack kind pudding magic aunt dinosaur captain quote situate";
+var mnemonic = "right print bomb pulse time time memory control amazing twist card reopen";

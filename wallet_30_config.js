@@ -1,1 +1,1 @@
-var mnemonic = "remind snack small sock avoid job chicken capable suit glare drum rebel";
+var mnemonic = "fragile grape police weird connect trade fog advice parent myself gain consider";

@@ -1,1 +1,1 @@
-var mnemonic = "echo six trip they promote census bonus bleak educate cash among video";
+var mnemonic = "sauce fade kidney liberty food detail route vendor afraid repair glory client";

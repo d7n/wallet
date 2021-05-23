@@ -1,1 +1,1 @@
-var mnemonic = "frost art want stomach concert adjust dawn chapter artist aim volcano pipe";
+var mnemonic = "rival major slender strategy menu rifle unveil quarter gas demand radio hero";

@@ -1,1 +1,1 @@
-var mnemonic = "result museum clap uphold unhappy obtain shiver fortune original leader lift trend";
+var mnemonic = "cover great strategy image produce weasel naive style various erosion ugly trim";

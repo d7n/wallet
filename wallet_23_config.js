@@ -1,1 +1,1 @@
-var mnemonic = "scrub broom custom where group foot shoulder typical replace mechanic broom correct";
+var mnemonic = "cross keep zoo canvas evil success huge learn monkey receive prosper radio";

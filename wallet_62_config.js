@@ -1,1 +1,1 @@
-var mnemonic = "beef mixture runway couple accident donate choose myth tail drive action wealth";
+var mnemonic = "vague hungry race cushion betray force feed you measure uniform catch resemble";

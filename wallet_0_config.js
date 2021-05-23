@@ -1,1 +1,1 @@
-var mnemonic = "unique program water spoon trial attend success off arrest south skill dilemma";
+var mnemonic = "dove razor asset body become vault riot echo jewel priority cute element";

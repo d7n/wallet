@@ -1,1 +1,1 @@
-var mnemonic = "rug apology strategy worth insane output occur any ginger umbrella awesome gain";
+var mnemonic = "vapor couch sponsor camp saddle path drink bronze find another kingdom culture";

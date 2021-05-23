@@ -1,1 +1,1 @@
-var mnemonic = "fall flat ecology news text hero chimney glue series account crane cheap";
+var mnemonic = "sponsor will wild improve sort rate sadness high bring catch lens fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "network just fresh area sleep recall earth frown upset clean wish usual";
+var mnemonic = "media share reveal debate dinner version risk already funny theory virus bind";

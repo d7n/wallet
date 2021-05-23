@@ -1,1 +1,1 @@
-var mnemonic = "office acid advance fly connect bid decide alert tattoo goose hub coyote";
+var mnemonic = "monitor lens dynamic trip dumb index conduct until model funny retreat length";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey brain eternal marine stadium mercy frown gossip portion stuff correct injury";
+var mnemonic = "normal immune gadget gentle discover casual portion faculty regular skin armor canal";

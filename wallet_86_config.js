@@ -1,1 +1,1 @@
-var mnemonic = "chef humble display absurd planet hunt piece visa damp flame install plug";
+var mnemonic = "there rescue crunch crew market recycle ordinary between goose better fatal minor";

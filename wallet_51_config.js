@@ -1,1 +1,1 @@
-var mnemonic = "grab energy scout feature valid blue total country link power leg scare";
+var mnemonic = "call popular crowd gift onion ask humor wheat ankle bunker stay moon";

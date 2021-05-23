@@ -1,1 +1,1 @@
-var mnemonic = "arrive okay bulb hub pyramid old believe trial kind ice salon staff";
+var mnemonic = "inhale change brand addict swim aisle fiscal mirror tunnel company cattle actress";

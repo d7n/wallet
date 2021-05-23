@@ -1,1 +1,1 @@
-var mnemonic = "hidden pudding ten matrix tackle note enough task april beyond blade orange";
+var mnemonic = "fruit better exercise stand photo letter chimney area then add tourist estate";

@@ -1,1 +1,1 @@
-var mnemonic = "style apple uncle judge attack hotel flush leaf please forest copy absorb";
+var mnemonic = "write dilemma belt capable mistake rib lobster drama world sport else special";

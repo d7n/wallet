@@ -1,1 +1,1 @@
-var mnemonic = "that voyage tilt giggle fall october employ syrup never acid rug equip";
+var mnemonic = "day occur before stick tuna furnace age upgrade flat enough fringe senior";

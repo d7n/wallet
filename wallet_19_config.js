@@ -1,1 +1,1 @@
-var mnemonic = "purse welcome road throw umbrella apology crunch upon crisp time adjust wood";
+var mnemonic = "ceiling twist main neutral inflict exit funny nerve ability riot exhaust answer";

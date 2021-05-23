@@ -1,1 +1,1 @@
-var mnemonic = "force pencil actual forum impose ugly asthma domain glide nut peanut glow";
+var mnemonic = "review wild zoo produce spell symbol crop parade damp meat beef lecture";

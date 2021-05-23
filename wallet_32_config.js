@@ -1,1 +1,1 @@
-var mnemonic = "turn real license shed west chair slide proof pigeon gown jelly absorb";
+var mnemonic = "young recall loop salon move gospel keep girl ice people cotton elephant";

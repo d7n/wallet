@@ -1,1 +1,1 @@
-var mnemonic = "chat cactus kidney east winter coral antenna eight divert gauge alarm raccoon";
+var mnemonic = "ticket nest bicycle debate unaware insect bleak ranch leg equal culture toe";

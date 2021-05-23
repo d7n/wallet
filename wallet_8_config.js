@@ -1,1 +1,1 @@
-var mnemonic = "harsh top lab typical bronze horror convince cluster draw other cricket danger";
+var mnemonic = "embody cushion topic across rival myth trophy normal diagram vehicle fork gravity";

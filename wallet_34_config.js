@@ -1,1 +1,1 @@
-var mnemonic = "music favorite shine clarify decade win educate electric grain ask script control";
+var mnemonic = "steel across age warm ensure exercise identify local noodle salute inform stamp";

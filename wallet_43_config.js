@@ -1,1 +1,1 @@
-var mnemonic = "transfer divorce dinner random erupt quiz wool ordinary staff expose similar scare";
+var mnemonic = "they spare sick cram nominee advice banner coffee kingdom become way light";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb noise solar this student lecture switch bicycle evil liar food bar";
+var mnemonic = "always equip surge unfold turkey canal cost make total tunnel vacant term";

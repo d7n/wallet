@@ -1,1 +1,1 @@
-var mnemonic = "huge harbor leader foot zone proud dismiss whisper witness must quiz car";
+var mnemonic = "curious rather paper lyrics hair glove gasp color tank eyebrow happy journey";

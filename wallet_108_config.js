@@ -1,1 +1,1 @@
-var mnemonic = "media cloud also poet abuse ensure such cat furnace copy tackle obtain";
+var mnemonic = "lamp wish answer erode arrow rhythm mixture brown milk snack common detail";

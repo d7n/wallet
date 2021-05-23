@@ -1,1 +1,1 @@
-var mnemonic = "gentle enlist nut tag curious hotel timber frame primary wash job speed";
+var mnemonic = "century rough fruit club response soldier camp sort zero glue library hurry";

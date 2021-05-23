@@ -1,1 +1,1 @@
-var mnemonic = "bamboo erase dial cave manage cannon target mean wasp fly dentist candy";
+var mnemonic = "hole rib soft over hair tip leisure limb tube twelve park shift";

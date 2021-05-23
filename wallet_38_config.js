@@ -1,1 +1,1 @@
-var mnemonic = "layer maximum expose creek spike permit meat shell piano public age write";
+var mnemonic = "choice decide enforce theme category company detect solid inner people symbol sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect pony beyond gossip foot now decorate ice address fashion endorse occur";
+var mnemonic = "demise pride about anger involve person secret foster surprise afford resource label";

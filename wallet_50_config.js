@@ -1,1 +1,1 @@
-var mnemonic = "tank harsh fog federal canal surface depth envelope idle thunder try verb";
+var mnemonic = "solve wrestle lyrics enlist cargo leisure faculty upon hybrid museum huge thank";

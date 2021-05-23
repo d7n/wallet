@@ -1,1 +1,1 @@
-var mnemonic = "option evidence praise better stick birth hundred slot hurdle nerve matrix physical";
+var mnemonic = "claw general cat crystal over cousin crystal slogan verify weird rookie guilt";

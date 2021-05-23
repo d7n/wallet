@@ -1,1 +1,1 @@
-var mnemonic = "problem inherit update stadium glimpse sight zone destroy risk engage inquiry bullet";
+var mnemonic = "cabbage cherry load inner smoke carbon lobster kick myself open buddy elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor before turn camp rigid quote arch human lazy goose velvet stereo";
+var mnemonic = "argue voice treat noise raccoon melt earn dish end guitar intact scare";

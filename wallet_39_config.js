@@ -1,1 +1,1 @@
-var mnemonic = "mansion cool awful square light fall permit tunnel piano amazing obscure mobile";
+var mnemonic = "side text manual news smart museum timber twice cannon rotate wall float";

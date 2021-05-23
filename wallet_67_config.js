@@ -1,1 +1,1 @@
-var mnemonic = "globe right metal baby since source swing exotic depth grow elegant eye";
+var mnemonic = "mimic call ramp object dove there bind jewel lecture stool affair appear";

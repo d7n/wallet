@@ -1,1 +1,1 @@
-var mnemonic = "hood hunt polar oyster giant table bronze tornado april penalty prepare resource";
+var mnemonic = "special spoon skin chapter salt student outer fly tuna choice arrest bone";

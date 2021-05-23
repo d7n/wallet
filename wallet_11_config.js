@@ -1,1 +1,1 @@
-var mnemonic = "forum sister know cheap zone input october perfect fan oxygen bronze harsh";
+var mnemonic = "coffee chicken always chase loan young admit cousin royal purchase scout prosper";

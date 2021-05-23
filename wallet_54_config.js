@@ -1,1 +1,1 @@
-var mnemonic = "life skate visa extend sign dance swift bring casual kid neutral flip";
+var mnemonic = "regret essence secret wreck tissue charge shop mean paper enable suit dinner";

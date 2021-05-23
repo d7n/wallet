@@ -1,1 +1,1 @@
-var mnemonic = "nature wish raven banner flush clean coyote inform member velvet grain squeeze";
+var mnemonic = "antenna ceiling wide gate sleep toss decade useless buyer panda brush job";

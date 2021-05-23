@@ -1,1 +1,1 @@
-var mnemonic = "column peasant like hole civil west raven napkin father syrup play veteran";
+var mnemonic = "depend multiply gold jazz drill age have moon speak concert banana cute";

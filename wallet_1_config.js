@@ -1,1 +1,1 @@
-var mnemonic = "dawn search penalty tornado shell exact column bird drip furnace enlist first";
+var mnemonic = "stay mistake cradle pizza tiny mirror allow profit filter broccoli festival key";

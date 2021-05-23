@@ -1,1 +1,1 @@
-var mnemonic = "shrug edge high antique bike crash addict access mountain chief frog deputy";
+var mnemonic = "magnet unlock dynamic flat shock hobby dirt hole yellow luxury gesture gallery";

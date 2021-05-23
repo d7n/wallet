@@ -1,1 +1,1 @@
-var mnemonic = "fiber cost library fold embody monster inform damp essence feed deliver possible";
+var mnemonic = "fork paper olive usual solve ketchup inherit impact bounce witness sorry volume";

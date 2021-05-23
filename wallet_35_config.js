@@ -1,1 +1,1 @@
-var mnemonic = "cabbage sun zone slam later wrist soon act exit law property salmon";
+var mnemonic = "trick quit visual recycle mind stadium stem buzz conduct verify alpha rival";

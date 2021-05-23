@@ -1,1 +1,1 @@
-var mnemonic = "powder oppose wrist artefact help destroy matrix actress aspect hint live champion";
+var mnemonic = "finger crowd question wild direct embark minimum local snow legend mixed delay";
