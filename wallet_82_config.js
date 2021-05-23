@@ -1,1 +1,1 @@
-var mnemonic = "photo skill gossip fabric margin never target royal fix stamp save churn";
+var mnemonic = "crumble wreck visa hire crime test hat junior runway patch sense edge";

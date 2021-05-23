@@ -1,1 +1,1 @@
-var mnemonic = "earn clever clean ancient prefer capital street shadow distance sponsor shock toddler";
+var mnemonic = "robust grab capital goose episode movie student siege capital banner neck wear";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase broom upper tired laundry call festival vague egg now patient clutch";
+var mnemonic = "behind crater develop scrub moon economy alone pipe fatal beef good gain";

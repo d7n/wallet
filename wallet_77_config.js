@@ -1,1 +1,1 @@
-var mnemonic = "ketchup stadium spring purity buyer owner strike current laugh express chief price";
+var mnemonic = "shed umbrella evolve sheriff elite cricket whale reduce toward release year satisfy";

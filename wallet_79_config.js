@@ -1,1 +1,1 @@
-var mnemonic = "grant slight dream enemy curtain tone coach alcohol proud term cargo notice";
+var mnemonic = "half embark apart buffalo false edit cup odor visa ripple blouse imitate";

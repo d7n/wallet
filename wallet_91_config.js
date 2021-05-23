@@ -1,1 +1,1 @@
-var mnemonic = "letter hospital donkey day bless bench borrow embark come vessel moment stadium";
+var mnemonic = "top photo soccer accident grid citizen banner bunker urge later system balance";

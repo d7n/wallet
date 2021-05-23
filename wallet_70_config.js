@@ -1,1 +1,1 @@
-var mnemonic = "civil rack build phone pole chief elevator flavor still wisdom member express";
+var mnemonic = "affair link into test maximum range primary unfair sail theory find bulk";

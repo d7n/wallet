@@ -1,1 +1,1 @@
-var mnemonic = "february sand puzzle gas source chapter jar urge barrel donkey flame power";
+var mnemonic = "crisp front bar attitude flight faith ten oyster bone record sure energy";

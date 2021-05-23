@@ -1,1 +1,1 @@
-var mnemonic = "twice mosquito safe chair farm series alley poverty marriage orange service guard";
+var mnemonic = "smooth sell bicycle side chair fiscal master jeans concert vapor service trigger";

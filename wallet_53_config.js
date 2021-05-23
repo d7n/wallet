@@ -1,1 +1,1 @@
-var mnemonic = "soldier park bulb meadow orient entry lion paper crime jewel cattle speed";
+var mnemonic = "bubble frog author doll wolf cupboard verb audit valid badge minor narrow";

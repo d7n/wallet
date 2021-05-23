@@ -1,1 +1,1 @@
-var mnemonic = "ability guard repeat hungry pair obey whisper arm tell three club point";
+var mnemonic = "proof fan broccoli trophy fever reduce van glad document because vacuum enjoy";

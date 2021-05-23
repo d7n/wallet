@@ -1,1 +1,1 @@
-var mnemonic = "any weekend vapor web spray switch top advice rural urban prepare onion";
+var mnemonic = "squirrel famous when great pilot ozone crack inspire alarm car banner reduce";

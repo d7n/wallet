@@ -1,1 +1,1 @@
-var mnemonic = "cool good mirror turn barely acoustic lounge web distance crunch winner celery";
+var mnemonic = "barely master glow found eight apology hand true hockey vital verify thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "entire today struggle oval purse waste exchange snack alter chronic little federal";
+var mnemonic = "kingdom attitude identify damage rack dawn seek pioneer where able identify put";

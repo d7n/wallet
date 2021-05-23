@@ -1,1 +1,1 @@
-var mnemonic = "pony border outdoor reject source stay father proof obey crystal tribe develop";
+var mnemonic = "rubber media level charge ethics outer fee rely equal slim multiply sea";

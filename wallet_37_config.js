@@ -1,1 +1,1 @@
-var mnemonic = "file evil air human double profit indoor sick magnet torch indicate floor";
+var mnemonic = "harbor often december diagram divide old upgrade bacon prepare include angry bone";

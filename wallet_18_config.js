@@ -1,1 +1,1 @@
-var mnemonic = "curtain essence female action job short mercy card device panda leaf account";
+var mnemonic = "table faculty defy legal retire jar bring machine ocean diagram wrist rare";

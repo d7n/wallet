@@ -1,1 +1,1 @@
-var mnemonic = "network reduce sentence current cabin record involve uphold polar man ball animal";
+var mnemonic = "express slogan tree bacon welcome heavy depart side acoustic monkey gossip disorder";

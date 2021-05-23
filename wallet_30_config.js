@@ -1,1 +1,1 @@
-var mnemonic = "prefer gown crop over design viable chalk gym night stay surge struggle";
+var mnemonic = "blast increase organ raise orient fault better device mechanic deer lesson farm";

@@ -1,1 +1,1 @@
-var mnemonic = "damp battle pledge garage segment custom ramp tone drop three elevator oxygen";
+var mnemonic = "robot alley rude dress million write wine guitar essence scatter paddle clean";

@@ -1,1 +1,1 @@
-var mnemonic = "van blast spider sword once cabin step rely wealth fringe tunnel scare";
+var mnemonic = "pet advice debris honey mention shell easily latin wisdom cattle miss lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier leg soon enlist faith episode spice already erupt planet memory marble";
+var mnemonic = "slow dolphin about child spell opera expect drastic year enough moral jacket";

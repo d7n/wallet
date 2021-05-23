@@ -1,1 +1,1 @@
-var mnemonic = "dumb motor daughter hint weapon antique play upgrade focus animal toy ritual";
+var mnemonic = "valid sadness voice climb lesson sound label someone hint slide auto great";

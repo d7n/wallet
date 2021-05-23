@@ -1,1 +1,1 @@
-var mnemonic = "round salmon faculty ticket bread blind analyst churn saddle slender blue obey";
+var mnemonic = "identify copy account route feature adjust isolate shrug provide ostrich hungry kiwi";

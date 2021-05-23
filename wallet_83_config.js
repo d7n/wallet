@@ -1,1 +1,1 @@
-var mnemonic = "labor fragile adult cabbage cradle wink judge fresh salad sign radar eternal";
+var mnemonic = "immune fish sun win item raccoon assault obscure cool marriage injury gloom";

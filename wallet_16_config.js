@@ -1,1 +1,1 @@
-var mnemonic = "poem belt found valid slot safe attract cruel guitar orchard among clock";
+var mnemonic = "pulse great vanish minor camera half adult pipe inner veteran history hold";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty doll lounge invite please collect supreme copper labor mosquito price clarify";
+var mnemonic = "outside memory buyer adult matter afraid stereo person abstract airport stable gravity";

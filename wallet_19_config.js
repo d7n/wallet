@@ -1,1 +1,1 @@
-var mnemonic = "stadium run absorb mercy miss record confirm village airport punch bring trend";
+var mnemonic = "margin what author boost wedding blast mention quantum liquid runway hollow other";

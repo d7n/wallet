@@ -1,1 +1,1 @@
-var mnemonic = "mercy actual muffin model phone refuse tip chicken science club shoe print";
+var mnemonic = "define decade monitor matrix valley expect execute beach fence general apology success";

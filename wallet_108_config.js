@@ -1,1 +1,1 @@
-var mnemonic = "radio repair awesome sign scrub panda photo usual board strike upper true";
+var mnemonic = "latin seminar submit awesome dentist play help practice bright awesome flavor excess";

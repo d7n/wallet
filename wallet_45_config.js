@@ -1,1 +1,1 @@
-var mnemonic = "shrimp three screen cliff antique eight swear recall gorilla cinnamon primary audit";
+var mnemonic = "connect leave bracket hedgehog public ready hamster army hedgehog reform suffer armed";

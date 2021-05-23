@@ -1,1 +1,1 @@
-var mnemonic = "never brass only fragile need quantum motion act assault device resist village";
+var mnemonic = "fox mutual fossil file opera treat topic body retire radar culture steel";

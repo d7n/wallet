@@ -1,1 +1,1 @@
-var mnemonic = "spoil visual elder someone alter start catch begin scrub nest moon caught";
+var mnemonic = "expect asthma curve ocean attract sign pumpkin doctor client identify rent ivory";

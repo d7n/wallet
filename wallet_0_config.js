@@ -1,1 +1,1 @@
-var mnemonic = "absorb rib awesome attitude visual interest radar intact cruise caught laundry latin";
+var mnemonic = "police draft nut other dose gesture leaf bone lock install flight rule";

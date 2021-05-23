@@ -1,1 +1,1 @@
-var mnemonic = "dream escape over talent layer novel inch timber liquid barrel spawn scatter";
+var mnemonic = "invite donate season soldier egg magnet retreat fuel way very beach trial";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud tank oxygen vehicle belt access junior alien couple remind idea aware";
+var mnemonic = "bullet tenant isolate antenna combine clever midnight remove photo artefact magnet cream";

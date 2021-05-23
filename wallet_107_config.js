@@ -1,1 +1,1 @@
-var mnemonic = "cause marble pistol canyon spawn word regret between destroy fame exact lyrics";
+var mnemonic = "floor hat salmon vendor weird pave cat sphere sausage fruit believe crystal";

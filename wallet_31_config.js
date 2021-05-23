@@ -1,1 +1,1 @@
-var mnemonic = "old help gorilla deny frozen release rescue song duck arrest defy subject";
+var mnemonic = "sell mechanic bulk cheap divorce crucial slab mobile maximum chimney uncover void";

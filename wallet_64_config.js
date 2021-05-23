@@ -1,1 +1,1 @@
-var mnemonic = "into situate refuse result awful clever monster fringe sponsor describe hat victory";
+var mnemonic = "cloth name pioneer indicate aerobic loan law that subject math describe desk";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny trip quarter album tuna inherit already catch rent lion just vacuum";
+var mnemonic = "bamboo behave nice attract hill pretty style bone fee absorb typical card";

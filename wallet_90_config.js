@@ -1,1 +1,1 @@
-var mnemonic = "crash twice eternal book win solid heavy echo famous holiday sibling unveil";
+var mnemonic = "cactus ranch custom stage deer walk trial raven whisper rally text antenna";

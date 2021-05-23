@@ -1,1 +1,1 @@
-var mnemonic = "whale fitness swear result ankle child robot trust hobby fit satisfy album";
+var mnemonic = "twenty type target school forest valid rather damp undo ahead option black";

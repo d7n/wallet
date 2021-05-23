@@ -1,1 +1,1 @@
-var mnemonic = "horse myself opinion caution service real guilt lawn chalk achieve wet tail";
+var mnemonic = "sudden scatter middle sheriff shoe canoe seven crucial arm cargo purpose gather";

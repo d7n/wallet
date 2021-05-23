@@ -1,1 +1,1 @@
-var mnemonic = "issue dash reduce glad magnet high strike track glass entire globe obtain";
+var mnemonic = "mistake virtual cotton learn pony head artist verb across odor require ball";

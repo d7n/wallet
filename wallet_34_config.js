@@ -1,1 +1,1 @@
-var mnemonic = "captain erupt mesh donkey tone adult faith home engine coast mail author";
+var mnemonic = "loyal annual believe pretty romance decide okay annual steak exchange garden feed";

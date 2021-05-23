@@ -1,1 +1,1 @@
-var mnemonic = "avocado genius raise chief there ecology away sibling badge item hamster dish";
+var mnemonic = "imitate usage post what age tomato stadium strike exile maple brand pill";

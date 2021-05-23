@@ -1,1 +1,1 @@
-var mnemonic = "inspire mercy pilot reopen two report develop course scrub elbow brain lady";
+var mnemonic = "elephant cattle prepare sight mom moral endless any economy industry acquire owner";

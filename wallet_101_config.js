@@ -1,1 +1,1 @@
-var mnemonic = "cactus marine aisle session office swear foam remind enhance trip fossil way";
+var mnemonic = "come capable aisle august donor coach visual will float quote mobile episode";

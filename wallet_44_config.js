@@ -1,1 +1,1 @@
-var mnemonic = "february blouse please addict total language shiver doctor rich hospital rose melody";
+var mnemonic = "dad bachelor cliff clock column any army now buffalo inherit fatal fuel";

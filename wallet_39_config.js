@@ -1,1 +1,1 @@
-var mnemonic = "help police foil rapid stereo pink endless push room accident claim fold";
+var mnemonic = "vapor inquiry middle shoe rhythm round way zoo hurt bracket make impact";

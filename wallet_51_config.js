@@ -1,1 +1,1 @@
-var mnemonic = "used joy stairs involve school season swear trend grit gold brief pattern";
+var mnemonic = "october gesture aware inch cricket cute arrive taste ordinary fence area absent";

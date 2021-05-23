@@ -1,1 +1,1 @@
-var mnemonic = "rescue top nothing fee fame mansion local impose aware lobster city broken";
+var mnemonic = "shoot intact unable oak shop little pear usage fiction staff mammal remind";

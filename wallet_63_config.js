@@ -1,1 +1,1 @@
-var mnemonic = "vault nurse result error aspect describe give power sister picnic squirrel series";
+var mnemonic = "vessel resist clip sponsor divert toddler aware frown inquiry subway butter mail";

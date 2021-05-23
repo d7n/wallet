@@ -1,1 +1,1 @@
-var mnemonic = "orchard safe rabbit pluck dinosaur knife plate divide soul good suffer legend";
+var mnemonic = "august what detail sound eight snake such attract dash radio town error";

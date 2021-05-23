@@ -1,1 +1,1 @@
-var mnemonic = "outdoor patient leaf cycle ball whale umbrella news decline master visa world";
+var mnemonic = "regret cinnamon candy cereal earn twenty decide oak frame alter vote truck";

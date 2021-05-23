@@ -1,1 +1,1 @@
-var mnemonic = "become crack use crush siege fine start when lizard acquire month wedding";
+var mnemonic = "regular churn erase earth pulse point flower knife moment awful wash arena";

@@ -1,1 +1,1 @@
-var mnemonic = "unable auction snow receive castle relief retire receive salmon crisp system ghost";
+var mnemonic = "slender refuse pistol crane hollow ski faith member man below goose fruit";

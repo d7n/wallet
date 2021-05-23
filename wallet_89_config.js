@@ -1,1 +1,1 @@
-var mnemonic = "brass conduct scheme kangaroo salon wedding call silent task actress rural duty";
+var mnemonic = "describe car kind refuse client museum sustain car practice pact another giggle";

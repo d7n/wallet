@@ -1,1 +1,1 @@
-var mnemonic = "puzzle buyer moon relax recipe twist prefer length curtain screen great link";
+var mnemonic = "private impact vacuum spend daughter surge glove divide project name finish cycle";

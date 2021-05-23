@@ -1,1 +1,1 @@
-var mnemonic = "similar advance fashion night float early machine slogan loyal verify moon pretty";
+var mnemonic = "hair liquid file plug skin genuine festival oil chat icon super injury";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase tomorrow copy surface cereal wedding opinion host iron visual excite cargo";
+var mnemonic = "undo era number element off olive arm tree enough fork never receive";

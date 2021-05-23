@@ -1,1 +1,1 @@
-var mnemonic = "hidden version girl decorate clap kick soap obvious crumble program multiply bid";
+var mnemonic = "zebra enemy belt unaware zero immense person custom dream jeans oven net";

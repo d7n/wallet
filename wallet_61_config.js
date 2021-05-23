@@ -1,1 +1,1 @@
-var mnemonic = "grow deny occur donor where priority march humble wave open this venture";
+var mnemonic = "want cinnamon gospel whale cousin equal castle eye clean wink damp base";

@@ -1,1 +1,1 @@
-var mnemonic = "color rotate slice zoo afraid castle goose duck shaft attitude unfair monitor";
+var mnemonic = "index win wife derive attack cake soft garlic limb just plastic aspect";

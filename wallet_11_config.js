@@ -1,1 +1,1 @@
-var mnemonic = "staff about exile year prefer zero paper life setup suit syrup oxygen";
+var mnemonic = "honey aim rely taste still gasp neither wage blossom brisk say orphan";

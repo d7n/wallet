@@ -1,1 +1,1 @@
-var mnemonic = "fancy month toast table stomach pottery rain police leaf trophy lazy tomorrow";
+var mnemonic = "end move glare uncover dutch thunder cabin wink govern hazard sunset lady";

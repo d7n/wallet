@@ -1,1 +1,1 @@
-var mnemonic = "sword all explain primary uphold saddle misery depth fly park warrior window";
+var mnemonic = "dress daughter scout great unusual grit robust donkey blind ability breeze fetch";

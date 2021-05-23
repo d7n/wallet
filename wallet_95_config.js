@@ -1,1 +1,1 @@
-var mnemonic = "soup awful tennis patient more chair refuse mixed hold poverty friend happy";
+var mnemonic = "sphere winner trend party punch wine tool same split original draw amused";

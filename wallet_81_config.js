@@ -1,1 +1,1 @@
-var mnemonic = "dose pizza cruise ordinary firm network trumpet screen dial over puppy fault";
+var mnemonic = "emerge pool era fame cat segment pulp exotic middle column beef baby";

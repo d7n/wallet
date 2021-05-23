@@ -1,1 +1,1 @@
-var mnemonic = "change want inmate junk tell capital tonight erosion solve spike list rent";
+var mnemonic = "solve draw again salt primary utility eternal track provide girl mention today";

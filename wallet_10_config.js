@@ -1,1 +1,1 @@
-var mnemonic = "solar minimum nothing edge rival fiscal cliff slogan crime health small uncover";
+var mnemonic = "hello list venue junior execute job ask sail alien loud interest eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "document garden distance tourist smart elephant guard soft twist magic legal glove";
+var mnemonic = "peace artwork mad ostrich path oval increase lock rescue cook poet benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "long mom police spice eager mushroom choice bracket scorpion hover pig claw";
+var mnemonic = "palm legal hobby fever corn tiny mind grunt win bulb table album";

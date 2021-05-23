@@ -1,1 +1,1 @@
-var mnemonic = "focus medal truck opinion sauce gesture cluster stairs segment hotel express gate";
+var mnemonic = "address marriage media shell bamboo zebra again guilt plunge spin three okay";

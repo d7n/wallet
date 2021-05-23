@@ -1,1 +1,1 @@
-var mnemonic = "voice lamp fabric parade answer grit fatal street arm candy casino hour";
+var mnemonic = "expose venue absurd true bless plastic coral coral claim mesh alert woman";

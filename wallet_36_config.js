@@ -1,1 +1,1 @@
-var mnemonic = "fringe step cruise cabbage movie daughter airport push trust together tool scrub";
+var mnemonic = "raven ten minor machine budget echo predict modify spread cross vacuum tank";

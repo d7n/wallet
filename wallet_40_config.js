@@ -1,1 +1,1 @@
-var mnemonic = "lock ask match traffic lottery genius problem save congress sleep snow barrel";
+var mnemonic = "inflict poem rain pattern join test naive room fish valve panic annual";

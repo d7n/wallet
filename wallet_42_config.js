@@ -1,1 +1,1 @@
-var mnemonic = "people engine always siege favorite concert dove window early spring supreme option";
+var mnemonic = "surround wing empower input festival stage jacket cram copper shock blast odor";

@@ -1,1 +1,1 @@
-var mnemonic = "corn caught mass side erode damage harvest swamp return maximum inmate goat";
+var mnemonic = "marriage flavor tape hamster walnut unusual mention detail lava often dignity clock";

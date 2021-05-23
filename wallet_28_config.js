@@ -1,1 +1,1 @@
-var mnemonic = "pole sustain frog expose label verb hobby thing vanish slim oil host";
+var mnemonic = "daughter diamond ritual board village secret engine weather vanish tray miracle cushion";

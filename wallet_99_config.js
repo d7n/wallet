@@ -1,1 +1,1 @@
-var mnemonic = "junior swift general trust lonely file island elder seminar yard tourist digital";
+var mnemonic = "forum chaos loop modify mix viable slush sense dress grief uphold strategy";

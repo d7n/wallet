@@ -1,1 +1,1 @@
-var mnemonic = "rhythm nurse dry tunnel coffee brand melt stomach object prepare girl aware";
+var mnemonic = "churn wish chaos supreme dish arm reveal few exclude police liberty syrup";

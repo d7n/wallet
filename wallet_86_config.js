@@ -1,1 +1,1 @@
-var mnemonic = "chicken carbon pool celery topple combine very thumb prepare pause wood alien";
+var mnemonic = "man clever expose ghost ready betray strong episode enforce husband innocent enlist";

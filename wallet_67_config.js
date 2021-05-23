@@ -1,1 +1,1 @@
-var mnemonic = "unaware rifle kidney tissue mouse huge romance almost approve museum flower invest";
+var mnemonic = "stock brand bone parrot judge nominee rule barrel survey bike afford refuse";

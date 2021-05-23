@@ -1,1 +1,1 @@
-var mnemonic = "danger spice hurt oval cool ugly thumb resemble view blush digital gossip";
+var mnemonic = "clog develop attend sister fringe book kitten foil fence garbage hundred amused";

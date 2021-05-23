@@ -1,1 +1,1 @@
-var mnemonic = "wisdom liquid vanish local relief nest gloom scan surround lecture already profit";
+var mnemonic = "sauce prosper later knife goddess empty hundred electric hockey mean window employ";

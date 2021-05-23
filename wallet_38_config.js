@@ -1,1 +1,1 @@
-var mnemonic = "ghost party choice ready metal carpet camera envelope version frost erase distance";
+var mnemonic = "wrong rule off movie term fall walnut girl bacon noodle fringe advice";

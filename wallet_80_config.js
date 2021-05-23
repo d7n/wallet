@@ -1,1 +1,1 @@
-var mnemonic = "prepare grit panther march acquire steak secret thought tower tank cannon churn";
+var mnemonic = "embody tennis ahead unfair mistake proud lyrics quarter salad barrel extra okay";
