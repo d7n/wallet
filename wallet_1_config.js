@@ -1,1 +1,1 @@
-var mnemonic = "wagon gorilla reopen settle omit spy giant frozen near mistake observe gesture";
+var mnemonic = "square coil faint shrimp worth glove rather resource umbrella cloth ranch hard";

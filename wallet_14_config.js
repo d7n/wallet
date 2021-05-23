@@ -1,1 +1,1 @@
-var mnemonic = "army miss warrior fit this blind legal deliver rhythm clinic brand rural";
+var mnemonic = "pyramid verb capital add valley anxiety doll recipe short stable donor duty";

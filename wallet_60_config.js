@@ -1,1 +1,1 @@
-var mnemonic = "drama raccoon fiction assume dress return race hunt casino hamster puzzle member";
+var mnemonic = "zone stuff image other magnet leader boil fix little actress grain pitch";

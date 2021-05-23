@@ -1,1 +1,1 @@
-var mnemonic = "thought negative wing riot cigar cause volcano soon wall increase pioneer young";
+var mnemonic = "busy tent picnic tail gospel three dust parade cancel feel edit spoon";

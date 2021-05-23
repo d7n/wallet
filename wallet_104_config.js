@@ -1,1 +1,1 @@
-var mnemonic = "card tape unknown exercise cruel exotic wedding hover wink walk suggest wonder";
+var mnemonic = "pioneer food maze region neutral purchase come fork match dignity twist now";

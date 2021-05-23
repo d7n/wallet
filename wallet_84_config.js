@@ -1,1 +1,1 @@
-var mnemonic = "current brass squeeze defense timber spoil rebuild write marriage jar bottom cereal";
+var mnemonic = "rack tent section good fabric into chief liquid wet unveil useful ranch";

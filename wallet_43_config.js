@@ -1,1 +1,1 @@
-var mnemonic = "tuition refuse noise tonight pool play interest accuse embark educate flee loan";
+var mnemonic = "jazz crop census forward stereo boost rule dish angry hover stuff alley";

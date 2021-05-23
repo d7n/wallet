@@ -1,1 +1,1 @@
-var mnemonic = "sunset remember disease cute dad ball envelope gospel silly stuff feel fatal";
+var mnemonic = "spot hedgehog detect glow divide glimpse rib such six focus area across";

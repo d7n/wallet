@@ -1,1 +1,1 @@
-var mnemonic = "list train original alpha clown ketchup genius vacuum short concert brother pretty";
+var mnemonic = "various laugh grid second rebel worry trouble range dose napkin weird wool";

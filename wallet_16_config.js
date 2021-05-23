@@ -1,1 +1,1 @@
-var mnemonic = "unfold muscle humor depart senior gadget minute luxury occur calm foam enroll";
+var mnemonic = "once north excuse juice earn easy scrub dog radar draft cancel orient";

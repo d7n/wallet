@@ -1,1 +1,1 @@
-var mnemonic = "shift average wire able ordinary mule moment mango awesome when leaf gravity";
+var mnemonic = "vocal town clown dust faint solar turtle canal ticket three average rely";

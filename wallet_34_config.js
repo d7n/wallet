@@ -1,1 +1,1 @@
-var mnemonic = "habit street ensure major someone mistake wise weasel comic spike fork gauge";
+var mnemonic = "side crucial chef decline omit industry public helmet oak release surface spike";

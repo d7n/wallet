@@ -1,1 +1,1 @@
-var mnemonic = "grow planet office own century stem swift enemy pill valve coffee window";
+var mnemonic = "garment skirt ramp easily lend impose finger tornado cool sample much oyster";

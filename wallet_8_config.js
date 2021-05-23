@@ -1,1 +1,1 @@
-var mnemonic = "tool paper clown judge jelly romance bicycle today field pass issue economy";
+var mnemonic = "foil spirit aware tattoo goddess crazy behave link tomato pumpkin kitten upper";

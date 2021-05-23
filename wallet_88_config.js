@@ -1,1 +1,1 @@
-var mnemonic = "snake legal cost kit lady absorb behave material wear food broom cable";
+var mnemonic = "trend siege floor evidence expire wing pipe gorilla ridge risk option neither";

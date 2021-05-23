@@ -1,1 +1,1 @@
-var mnemonic = "seat cluster script elder apology hill swear moment wonder daring hurt puzzle";
+var mnemonic = "width labor stumble guess lawn wild broccoli surface before silent board detail";

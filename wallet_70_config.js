@@ -1,1 +1,1 @@
-var mnemonic = "credit shop coin original nephew tobacco pitch stock door twist crawl help";
+var mnemonic = "ignore fresh praise remind insane swamp mobile kiwi they smooth question brain";

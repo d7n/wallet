@@ -1,1 +1,1 @@
-var mnemonic = "model crater fork fatigue repair expose unusual zero estate outside tackle opinion";
+var mnemonic = "lady mixture apology drama come annual program employ ghost armed push liberty";

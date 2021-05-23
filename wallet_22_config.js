@@ -1,1 +1,1 @@
-var mnemonic = "unhappy vault pizza sun paper put crawl manage soul floor already creek";
+var mnemonic = "vacuum access minute head piano expect eternal walnut busy tomato tourist control";

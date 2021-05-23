@@ -1,1 +1,1 @@
-var mnemonic = "hip sphere current milk asset double regret video canal boat shuffle dust";
+var mnemonic = "regular ginger neither shine original wrist radar demand thrive buzz pilot rough";

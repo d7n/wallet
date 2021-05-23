@@ -1,1 +1,1 @@
-var mnemonic = "venture gasp slice clog embody prize horse leaf almost boost require canvas";
+var mnemonic = "dash toward thrive hover beach produce fog motor team canal silly drill";

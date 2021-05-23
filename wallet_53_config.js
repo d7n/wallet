@@ -1,1 +1,1 @@
-var mnemonic = "index lemon leg snow sock filter connect drama initial hope design valid";
+var mnemonic = "mystery coyote ball flame minimum smooth pause chaos chunk toward shadow winner";

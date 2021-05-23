@@ -1,1 +1,1 @@
-var mnemonic = "paddle rug quiz burden width excite medal clown shift sing auction kind";
+var mnemonic = "clown leisure scan evidence inflict strike rhythm hedgehog exercise total chapter online";

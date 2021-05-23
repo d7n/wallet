@@ -1,1 +1,1 @@
-var mnemonic = "runway arrange morning bamboo orphan mechanic gravity rain focus secret motion trial";
+var mnemonic = "duty century acquire general legal half drop moon plunge hockey later chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "million toilet team rebel electric humor leader better depend glue isolate baby";
+var mnemonic = "figure direct slide force whale truth moral unfair twelve tool flight region";

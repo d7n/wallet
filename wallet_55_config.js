@@ -1,1 +1,1 @@
-var mnemonic = "punch flip animal quit tortoise soccer anger sick gentle rely mouse wolf";
+var mnemonic = "office image gentle rain penalty iron elite describe net youth month cage";

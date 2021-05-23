@@ -1,1 +1,1 @@
-var mnemonic = "away alien shift repeat sponsor circle metal soccer review kid volcano defense";
+var mnemonic = "soap dumb creek monster tiny perfect melt burden rigid identify prison express";

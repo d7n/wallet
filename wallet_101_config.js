@@ -1,1 +1,1 @@
-var mnemonic = "fresh mesh popular type garage utility trade sadness approve tank excuse hidden";
+var mnemonic = "play length apology better task reward flame bitter razor theory hint guitar";

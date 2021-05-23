@@ -1,1 +1,1 @@
-var mnemonic = "leave blade asset pretty absent embrace ten idea clock vapor auto farm";
+var mnemonic = "anger couch shoe hand network play agree tonight ocean silk maid achieve";

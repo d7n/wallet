@@ -1,1 +1,1 @@
-var mnemonic = "gap split seek use vessel april team film cat will will badge";
+var mnemonic = "outdoor cereal evidence fall element cigar child skate render turtle awkward pond";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt unhappy will belt thumb labor guess essence become poverty cricket mule";
+var mnemonic = "permit glow sphere romance romance guilt rent mask boss snow equal change";

@@ -1,1 +1,1 @@
-var mnemonic = "typical maze donkey angry crunch science swallow come crane segment hill enter";
+var mnemonic = "degree benefit sample under song vault evolve leave snake repeat minimum poem";

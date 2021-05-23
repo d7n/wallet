@@ -1,1 +1,1 @@
-var mnemonic = "resource detail beyond gym recall meadow frost cruel transfer sunset opinion muffin";
+var mnemonic = "today sweet patch cycle battle cereal time modify seminar drop town final";

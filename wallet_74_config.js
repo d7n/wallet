@@ -1,1 +1,1 @@
-var mnemonic = "urban pave satisfy voyage thumb unfair soft kangaroo gas repair captain cancel";
+var mnemonic = "ugly bleak soup abstract when travel claw lab media miss attack inspire";

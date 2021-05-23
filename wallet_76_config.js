@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cloud invest diamond trim security expire advice matrix trim cricket nothing";
+var mnemonic = "prefer twenty grid shrug sting mercy kiwi upon require today ankle sphere";

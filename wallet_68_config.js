@@ -1,1 +1,1 @@
-var mnemonic = "ramp post tilt trial home make recipe basic position appear knee control";
+var mnemonic = "index object pitch carry equal define veteran pupil text put dynamic spray";

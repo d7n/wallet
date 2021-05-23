@@ -1,1 +1,1 @@
-var mnemonic = "give fly kiss crystal you foam gesture hunt radio curious mushroom ring";
+var mnemonic = "oppose pledge solution curve image about erupt like soldier vintage gaze catalog";

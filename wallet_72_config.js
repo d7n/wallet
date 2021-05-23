@@ -1,1 +1,1 @@
-var mnemonic = "quarter wing truth demand hunt dolphin peanut fire release road pond exclude";
+var mnemonic = "two retire curtain duty rule memory mutual topic cart twice potato wet";

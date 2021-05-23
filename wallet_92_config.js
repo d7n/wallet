@@ -1,1 +1,1 @@
-var mnemonic = "lady jelly peasant laugh change short tourist mistake bind hello main leisure";
+var mnemonic = "inject safe trick shadow display meadow gravity verify twenty dumb law artist";

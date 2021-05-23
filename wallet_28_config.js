@@ -1,1 +1,1 @@
-var mnemonic = "annual zone autumn find response memory list canyon bottom couch execute double";
+var mnemonic = "exotic stay join merge bird strategy basket vicious figure quick tree man";

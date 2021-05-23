@@ -1,1 +1,1 @@
-var mnemonic = "annual mesh claim collect average west talk napkin identify frozen initial gun";
+var mnemonic = "garage supply spend display surge obscure child laptop rival lonely bargain fix";

@@ -1,1 +1,1 @@
-var mnemonic = "practice pumpkin awake photo sentence news tobacco wire arrow wreck imitate wild";
+var mnemonic = "cover inside jaguar relax ticket submit setup change cute about skate raw";

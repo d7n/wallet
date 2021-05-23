@@ -1,1 +1,1 @@
-var mnemonic = "favorite release sleep never flat nice shell host sad cube undo bounce";
+var mnemonic = "outdoor evoke swim remove rebuild file hundred chat type real enlist year";

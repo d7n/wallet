@@ -1,1 +1,1 @@
-var mnemonic = "chaos short spare scene maid weekend attract detect worry nice loan involve";
+var mnemonic = "gym will student chaos once minimum worth crime electric capable split identify";

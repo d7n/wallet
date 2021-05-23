@@ -1,1 +1,1 @@
-var mnemonic = "situate gauge loud winter normal impose evil wave strong thing bus suit";
+var mnemonic = "weasel favorite mother daring razor runway bright ribbon tennis input labor butter";

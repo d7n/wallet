@@ -1,1 +1,1 @@
-var mnemonic = "quantum uncover calm clarify ghost purity punch north come alert snack bonus";
+var mnemonic = "bulk kiss dinner race mask legal bicycle pigeon ribbon picnic bicycle health";

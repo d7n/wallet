@@ -1,1 +1,1 @@
-var mnemonic = "shadow cycle sail achieve plate unfold option book fish oil space crash";
+var mnemonic = "nation search output system order tortoise write caution neglect cabbage fossil credit";

@@ -1,1 +1,1 @@
-var mnemonic = "stone sweet sing spread total pistol crew medal type join slim garment";
+var mnemonic = "bulk word easy slim laundry ugly tray horror daring praise divide banana";

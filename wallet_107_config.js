@@ -1,1 +1,1 @@
-var mnemonic = "unknown mercy hood comic lizard consider host hood farm legal ripple autumn";
+var mnemonic = "goose engage cluster range action wage enjoy tribe tiger charge siren human";

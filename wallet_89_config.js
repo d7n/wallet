@@ -1,1 +1,1 @@
-var mnemonic = "point reflect quantum priority keen token impose song gadget case upper latin";
+var mnemonic = "album kitten canvas general bind april night loyal route palm deny flower";

@@ -1,1 +1,1 @@
-var mnemonic = "link celery canyon popular valve struggle eagle avoid decorate seek just teach";
+var mnemonic = "upon noble syrup inherit upgrade miss danger catch analyst cry mix unfold";

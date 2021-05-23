@@ -1,1 +1,1 @@
-var mnemonic = "wife cheese find alley master coin steak cricket main menu guide judge";
+var mnemonic = "sunset street guide eager garage exercise differ best vapor ancient solid check";

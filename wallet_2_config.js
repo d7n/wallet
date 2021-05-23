@@ -1,1 +1,1 @@
-var mnemonic = "else panther host verb about fee flip pelican elegant put purpose curious";
+var mnemonic = "police boss trim immune butter rebuild retire hawk remove lamp scout museum";

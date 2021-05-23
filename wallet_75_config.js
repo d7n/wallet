@@ -1,1 +1,1 @@
-var mnemonic = "direct pumpkin laundry panic region elbow bronze worry finish august dune group";
+var mnemonic = "half slam interest cereal finish ticket taste express beyond travel glance drip";

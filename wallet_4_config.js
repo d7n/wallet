@@ -1,1 +1,1 @@
-var mnemonic = "kingdom century seek vicious pig card bright legend fetch brisk pigeon traffic";
+var mnemonic = "couple skirt mammal neck company enlist where lumber nature way shed badge";

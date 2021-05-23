@@ -1,1 +1,1 @@
-var mnemonic = "detect beauty hungry latin deny fine abandon crazy endorse couch ahead autumn";
+var mnemonic = "when loyal when swim barrel slow nation artist shadow test buyer vessel";

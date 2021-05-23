@@ -1,1 +1,1 @@
-var mnemonic = "bracket pony nation creek session rabbit champion cool laptop vehicle tone obscure";
+var mnemonic = "dismiss sister predict course carry idea crunch risk rescue change make faith";

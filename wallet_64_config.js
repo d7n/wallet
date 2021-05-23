@@ -1,1 +1,1 @@
-var mnemonic = "aware agent deliver denial day riot diagram broken bright hammer ozone cute";
+var mnemonic = "pigeon then canyon brief hello air impose erosion manual great drop glance";

@@ -1,1 +1,1 @@
-var mnemonic = "arm neglect member labor scheme put prison tissue make desert flag alter";
+var mnemonic = "window neither nice kingdom top skill vapor tube donate top heart delay";

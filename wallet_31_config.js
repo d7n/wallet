@@ -1,1 +1,1 @@
-var mnemonic = "army shoot peace cabbage happy rookie roast cliff still menu joy actual";
+var mnemonic = "unfair frost great call shove inherit luxury swap armor eager sort unveil";

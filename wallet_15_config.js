@@ -1,1 +1,1 @@
-var mnemonic = "hazard carpet attack sibling pause life hero noise canal merit silk require";
+var mnemonic = "kit eagle oval clean photo elegant monkey culture antique forward hat seven";

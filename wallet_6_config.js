@@ -1,1 +1,1 @@
-var mnemonic = "broken onion lyrics celery pass hour decrease source emotion denial weird peanut";
+var mnemonic = "spirit movie curious nerve monitor citizen voice enhance avoid imitate keen assist";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow canvas paper orient tattoo change purity chaos room market obvious post";
+var mnemonic = "shadow meat explain penalty soon hint dismiss grain fun push suit tag";

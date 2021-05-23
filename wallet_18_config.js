@@ -1,1 +1,1 @@
-var mnemonic = "chronic escape pave awkward rhythm feature excess cigar surround tornado begin vivid";
+var mnemonic = "raccoon hair love spray snack during gate often monkey rotate hub undo";

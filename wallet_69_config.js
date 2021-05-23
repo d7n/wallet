@@ -1,1 +1,1 @@
-var mnemonic = "toss gap anger dilemma wreck parrot cook picnic diet language pull crew";
+var mnemonic = "unknown label glove enroll burden fantasy hello cover false settle method sunset";

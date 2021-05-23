@@ -1,1 +1,1 @@
-var mnemonic = "sense yard chicken whip just unaware virus flavor afford valve erosion awkward";
+var mnemonic = "trip quantum entry decade dragon energy artefact fabric recycle rice visual face";

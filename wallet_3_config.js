@@ -1,1 +1,1 @@
-var mnemonic = "kind vocal boss eagle forward choice follow move system code toddler mandate";
+var mnemonic = "zebra butter dignity sign offer dizzy dwarf secret quit scatter next trick";

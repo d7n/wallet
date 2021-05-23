@@ -1,1 +1,1 @@
-var mnemonic = "violin axis extra staff employ churn example engage that apology forum call";
+var mnemonic = "play pass eight collect liquid effort crane drum glad pass scare cargo";

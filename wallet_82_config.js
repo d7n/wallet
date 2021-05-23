@@ -1,1 +1,1 @@
-var mnemonic = "cloth earn click multiply desert clay private license modify simple cover more";
+var mnemonic = "strong corn narrow pelican great peanut turn access orbit buffalo vessel multiply";

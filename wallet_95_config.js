@@ -1,1 +1,1 @@
-var mnemonic = "camera cycle purity once person affair dirt gather toddler romance scissors possible";
+var mnemonic = "tomato danger plastic fiber female bargain select guilt proof viable torch south";

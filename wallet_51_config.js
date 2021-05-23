@@ -1,1 +1,1 @@
-var mnemonic = "forum genuine unusual boy polar weekend thought minor awkward chat play private";
+var mnemonic = "narrow paper vendor off foil manual capable interest jungle rebuild pill palace";

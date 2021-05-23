@@ -1,1 +1,1 @@
-var mnemonic = "lonely runway okay observe truck cruel equip ordinary october story collect peasant";
+var mnemonic = "anger limit hobby join middle pet law witness camp unit grass drama";

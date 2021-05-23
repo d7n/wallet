@@ -1,1 +1,1 @@
-var mnemonic = "siege name sight defy material original original sample wealth surprise alien address";
+var mnemonic = "wall actor spoon wait congress carry purity screen code account way void";

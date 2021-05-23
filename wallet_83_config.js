@@ -1,1 +1,1 @@
-var mnemonic = "net oppose bind only real announce tiny fancy whisper view place beach";
+var mnemonic = "tooth glad foot liberty project detail swim mobile mandate reopen pause ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "mother much law doctor sunny coin cabin monster idle tennis find cherry";
+var mnemonic = "script peasant nurse hollow current maximum much claim vendor penalty state oval";

@@ -1,1 +1,1 @@
-var mnemonic = "diet assist attend plunge adult way ripple promote select worry future rough";
+var mnemonic = "crack raccoon scare stumble blouse crazy orient peanut patrol sing amount bronze";

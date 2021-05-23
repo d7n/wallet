@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo sea rapid become season deputy stadium window dirt neutral reduce today";
+var mnemonic = "garbage movie supreme volcano captain wait lamp say poem diesel primary expand";

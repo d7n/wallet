@@ -1,1 +1,1 @@
-var mnemonic = "elbow gaze scare twelve search sister spray ball radio blossom material fatal";
+var mnemonic = "mom nation extend island oppose smart fragile pretty quality clean segment surprise";

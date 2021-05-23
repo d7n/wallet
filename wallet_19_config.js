@@ -1,1 +1,1 @@
-var mnemonic = "proof protect guilt cheese miss palace blouse mystery monitor diary adapt dream";
+var mnemonic = "cup fabric deny direct shove vacant invite behave want merry topic net";

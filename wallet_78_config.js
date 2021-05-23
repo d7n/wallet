@@ -1,1 +1,1 @@
-var mnemonic = "play danger kind game grunt spy hair use bleak love furnace card";
+var mnemonic = "bullet satisfy obey tragic dentist alert silk salad banner gasp cliff mind";

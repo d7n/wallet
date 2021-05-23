@@ -1,1 +1,1 @@
-var mnemonic = "next usual useful eagle aunt bike amount file label kick brisk feel";
+var mnemonic = "dignity junior cherry clean clutch check treat paper struggle cabin stumble rough";

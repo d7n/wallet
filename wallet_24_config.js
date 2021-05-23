@@ -1,1 +1,1 @@
-var mnemonic = "wing clean front bind ceiling result lecture neither welcome calm farm chest";
+var mnemonic = "uphold version bronze project floor trim prepare multiply tobacco sure loud blossom";

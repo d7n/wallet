@@ -1,1 +1,1 @@
-var mnemonic = "repeat response castle exclude cattle pyramid obscure oyster faculty polar deny produce";
+var mnemonic = "salmon seven edge corn elephant plug arm lamp lizard chapter run trend";

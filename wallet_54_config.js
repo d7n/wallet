@@ -1,1 +1,1 @@
-var mnemonic = "valid olive tissue neither myself mango access enjoy wheel army earn alone";
+var mnemonic = "hurry fold keep multiply glory soccer sport plate stock hero rely foam";

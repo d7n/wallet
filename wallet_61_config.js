@@ -1,1 +1,1 @@
-var mnemonic = "exile dog diagram pottery vacant critic average make key chaos enlist couple";
+var mnemonic = "guilt stable inmate lift million fruit diet sentence fetch tomorrow file picnic";

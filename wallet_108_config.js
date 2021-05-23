@@ -1,1 +1,1 @@
-var mnemonic = "blast lawn camp furnace kiss food census final space evolve stable grace";
+var mnemonic = "update heart mistake code ill dumb hour key few steel ring please";

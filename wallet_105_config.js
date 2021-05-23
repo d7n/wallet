@@ -1,1 +1,1 @@
-var mnemonic = "aware trim mixture pitch surround soft teach forget seek photo session delay";
+var mnemonic = "amazing cousin want side parent spell follow grid pass female dismiss toy";

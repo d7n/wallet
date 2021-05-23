@@ -1,1 +1,1 @@
-var mnemonic = "onion once post make pulse cruel suffer theory retire that angry make";
+var mnemonic = "skill brief nasty funny scatter motion album economy silent sibling pattern bundle";
