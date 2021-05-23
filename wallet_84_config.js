@@ -1,1 +1,1 @@
-var mnemonic = "saddle asthma figure there avoid chalk bright rocket since sting credit special";
+var mnemonic = "pumpkin neutral replace six obtain donkey fruit kid slam topple adult hurdle";

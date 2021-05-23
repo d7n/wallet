@@ -1,1 +1,1 @@
-var mnemonic = "choose riot alter eye aim addict armor energy able violin mix hamster";
+var mnemonic = "outdoor fuel wheel gravity path east pole major certain warrior fat script";

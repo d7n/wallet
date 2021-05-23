@@ -1,1 +1,1 @@
-var mnemonic = "sea solve prepare follow price panel float shaft coast spawn boring shine";
+var mnemonic = "child pledge merry ski ripple decade world fragile weekend where wild situate";

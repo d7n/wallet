@@ -1,1 +1,1 @@
-var mnemonic = "also exchange wine repair race fence police appear bounce team father device";
+var mnemonic = "ask market clump tired cousin garlic today clarify flame prefer myth pudding";

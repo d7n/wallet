@@ -1,1 +1,1 @@
-var mnemonic = "humor lamp wall cause armor sweet grocery design can social puzzle obvious";
+var mnemonic = "skirt people wrap exhaust fiscal latin message track call invest clip marble";

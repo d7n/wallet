@@ -1,1 +1,1 @@
-var mnemonic = "elephant ugly snake oil zone plunge document return desk risk neutral unaware";
+var mnemonic = "drift cherry genuine steel coral moment rare traffic license merry tornado sea";

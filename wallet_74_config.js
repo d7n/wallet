@@ -1,1 +1,1 @@
-var mnemonic = "travel pill father blue lobster cup change borrow bacon transfer tortoise little";
+var mnemonic = "erode vanish input ready pear spider lock nothing initial hobby february feature";

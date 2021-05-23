@@ -1,1 +1,1 @@
-var mnemonic = "stool mule sing spatial risk aunt menu desk neglect dismiss disorder just";
+var mnemonic = "blush amused solid ready nose web jelly subject salad field flash error";

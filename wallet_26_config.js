@@ -1,1 +1,1 @@
-var mnemonic = "try change monitor bonus arena army jeans auction vendor dice era undo";
+var mnemonic = "vacant effort scale inquiry acquire mystery pistol angry smoke all neither twin";

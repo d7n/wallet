@@ -1,1 +1,1 @@
-var mnemonic = "north swap human social dutch track fiscal below toast bid sadness later";
+var mnemonic = "that used fragile prison mention million return slow plastic around render tragic";

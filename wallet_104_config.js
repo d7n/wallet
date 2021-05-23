@@ -1,1 +1,1 @@
-var mnemonic = "message few draw dust october skill boost umbrella topic life evoke bomb";
+var mnemonic = "august outdoor street inspire salad alone supply neglect public shock moment concert";

@@ -1,1 +1,1 @@
-var mnemonic = "mule rate october unveil can reflect thought they excuse broken horn minute";
+var mnemonic = "gauge trophy churn text angry stereo wave genius boring together coyote orange";

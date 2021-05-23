@@ -1,1 +1,1 @@
-var mnemonic = "sign green blanket discover invite smooth long medal pave shoot debate problem";
+var mnemonic = "scorpion stadium world document axis easily net skirt salmon frost beach sheriff";

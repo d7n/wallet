@@ -1,1 +1,1 @@
-var mnemonic = "neglect write sauce found chapter tank critic picture paddle finish record neck";
+var mnemonic = "embrace exist width side marriage hedgehog symbol sand glimpse invite useless unfold";

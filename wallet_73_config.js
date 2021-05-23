@@ -1,1 +1,1 @@
-var mnemonic = "burst cycle doll captain alert holiday dish idea pottery sound swap asset";
+var mnemonic = "differ drama toilet crew diamond banana maid question trumpet mixture used frown";

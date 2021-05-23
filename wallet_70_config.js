@@ -1,1 +1,1 @@
-var mnemonic = "assume tank network waste snake awake moment elite culture hurt please key";
+var mnemonic = "hazard rural reward wrestle blood position prize cage output fever pole bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "light harvest sight gloom seven captain tennis hole scan hello uncover false";
+var mnemonic = "perfect can anger under human boat happy account borrow minimum among wrong";

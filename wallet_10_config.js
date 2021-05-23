@@ -1,1 +1,1 @@
-var mnemonic = "lift spy off front aspect brand advice edit kingdom run finish gym";
+var mnemonic = "sponsor ranch expand deal clog express creek history mechanic eyebrow cake feed";

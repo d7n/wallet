@@ -1,1 +1,1 @@
-var mnemonic = "famous truly base rifle limb beach poet until tape assist stove evoke";
+var mnemonic = "domain depend album sunset short bring key tool south cash page unhappy";

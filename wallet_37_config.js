@@ -1,1 +1,1 @@
-var mnemonic = "favorite pole wait click cover slender sustain scene innocent cook slush path";
+var mnemonic = "caught twin canyon tired seat moment upon toy inhale cream animal wagon";

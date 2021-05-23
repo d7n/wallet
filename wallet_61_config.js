@@ -1,1 +1,1 @@
-var mnemonic = "fix member poem negative arrive easily kangaroo crop time amused bus dynamic";
+var mnemonic = "toward couple figure such pink alone hurdle shine demand find tornado blast";

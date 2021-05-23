@@ -1,1 +1,1 @@
-var mnemonic = "stay theory copy consider visa poet glad run sad imitate antique soft";
+var mnemonic = "camp horror course evolve hen delay judge salad multiply habit banana teach";

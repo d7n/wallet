@@ -1,1 +1,1 @@
-var mnemonic = "mixed minimum trial theme fog borrow chaos pill city welcome ten where";
+var mnemonic = "end rebuild timber gorilla tomato group install raw margin elbow raccoon stool";

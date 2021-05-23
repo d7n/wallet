@@ -1,1 +1,1 @@
-var mnemonic = "agent shy math asthma output dynamic kiss kite welcome fragile spread warrior";
+var mnemonic = "ritual satoshi liquid base motion then rubber good amazing banner drop desk";

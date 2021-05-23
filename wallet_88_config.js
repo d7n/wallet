@@ -1,1 +1,1 @@
-var mnemonic = "calm noise endless seek practice opinion claim become slot curtain spice avoid";
+var mnemonic = "allow couple argue empty best frame rhythm quit disorder credit daughter feature";

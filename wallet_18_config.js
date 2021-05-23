@@ -1,1 +1,1 @@
-var mnemonic = "fitness cube scrub please black youth moon exit humble person height notable";
+var mnemonic = "dream potato lottery siege floor cost grit where fluid skull trade trigger";

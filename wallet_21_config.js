@@ -1,1 +1,1 @@
-var mnemonic = "escape scrap mean frog kiss frame portion wolf radar merge thank uniform";
+var mnemonic = "slow east drama another grant way zone evil all smooth join organ";

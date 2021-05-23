@@ -1,1 +1,1 @@
-var mnemonic = "raise sign spirit point matter detail wreck sample notice stairs satoshi essay";
+var mnemonic = "head buyer grow equal cactus flower mango path tenant seek material layer";

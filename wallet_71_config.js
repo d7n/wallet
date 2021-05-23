@@ -1,1 +1,1 @@
-var mnemonic = "ice social erosion lunch eagle ribbon mercy dinosaur melody kite father must";
+var mnemonic = "actress fire enlist reveal come dose token knee dragon rely remove stage";

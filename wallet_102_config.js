@@ -1,1 +1,1 @@
-var mnemonic = "genuine number spend ticket uncle response whale sport float whip muffin ritual";
+var mnemonic = "talk liquid inflict aunt help follow burden escape vocal canal book crew";

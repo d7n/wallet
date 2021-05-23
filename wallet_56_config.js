@@ -1,1 +1,1 @@
-var mnemonic = "false claim truck glue employ wire inmate next sunset inch install fault";
+var mnemonic = "reopen also balcony flash huge siege opinion cram vivid wheel health satisfy";

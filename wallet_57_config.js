@@ -1,1 +1,1 @@
-var mnemonic = "turkey cattle recycle install luxury elbow pepper attract bronze vehicle cable gravity";
+var mnemonic = "frame tortoise into vacant inner job barely cabin fragile habit derive popular";

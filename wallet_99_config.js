@@ -1,1 +1,1 @@
-var mnemonic = "chase devote omit purpose anxiety typical final paper minute there unfair elite";
+var mnemonic = "ancient safe credit obvious van reflect solve sea copy denial miss unfold";

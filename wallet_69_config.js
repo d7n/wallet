@@ -1,1 +1,1 @@
-var mnemonic = "move hawk tonight payment glimpse bench trial black reveal ship fossil melt";
+var mnemonic = "pepper transfer slice cabbage bright they song make cost brief better mesh";

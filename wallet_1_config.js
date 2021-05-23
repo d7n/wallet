@@ -1,1 +1,1 @@
-var mnemonic = "sausage degree cream emotion error praise broccoli project blame hope flat elder";
+var mnemonic = "taxi stuff glue stable alien priority protect prize soup forget reform mule";

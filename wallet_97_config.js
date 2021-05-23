@@ -1,1 +1,1 @@
-var mnemonic = "power label cover police outdoor twice float dwarf joke extra ten nose";
+var mnemonic = "tag federal find sudden genuine unveil gauge ignore pigeon toilet gravity spider";

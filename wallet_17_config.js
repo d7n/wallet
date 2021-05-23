@@ -1,1 +1,1 @@
-var mnemonic = "clip improve asset olympic truly budget federal imitate proof word diamond execute";
+var mnemonic = "float account vote wolf bean category clip skin sunny domain pair submit";

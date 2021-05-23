@@ -1,1 +1,1 @@
-var mnemonic = "there click unaware toddler worry fuel suit excess sniff index rubber worry";
+var mnemonic = "wear suspect transfer apology village addict finish slow sketch genre fatigue fossil";

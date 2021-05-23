@@ -1,1 +1,1 @@
-var mnemonic = "knock opera protect task wild wealth garage humor improve float math faint";
+var mnemonic = "giant chapter lumber wrist someone sell control pear hill hour two tooth";

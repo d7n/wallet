@@ -1,1 +1,1 @@
-var mnemonic = "steel nest polar wonder oxygen wink truth deputy unit tribe item fault";
+var mnemonic = "assault capable minimum oyster smile collect faith burst hurdle tower rocket pull";

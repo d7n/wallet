@@ -1,1 +1,1 @@
-var mnemonic = "insect cupboard until mother push together priority achieve alone rain loan scatter";
+var mnemonic = "mix case clever exotic salt enhance unknown pass curious grow reason spoon";

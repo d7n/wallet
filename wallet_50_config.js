@@ -1,1 +1,1 @@
-var mnemonic = "they cost hedgehog expire loan crowd ten cloth viable ancient short bid";
+var mnemonic = "despair letter lab employ document space transfer belt grocery bind recycle venture";

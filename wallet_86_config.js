@@ -1,1 +1,1 @@
-var mnemonic = "among almost clever action seven various online choose certain patient exchange deputy";
+var mnemonic = "weekend name maze ill kick maple beach course reunion double have wolf";

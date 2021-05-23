@@ -1,1 +1,1 @@
-var mnemonic = "odor decide joke pottery demand outdoor office estate public receive sauce room";
+var mnemonic = "section spare knee tuna noodle heavy tribe boil account bless crash forum";

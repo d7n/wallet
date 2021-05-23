@@ -1,1 +1,1 @@
-var mnemonic = "admit sting blur clean orphan reopen virtual buyer one indicate pass effort";
+var mnemonic = "tuna slow oblige estate dish style couch absurd inflict rally menu myth";

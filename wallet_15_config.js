@@ -1,1 +1,1 @@
-var mnemonic = "enact piece rely when claim strong sausage hurdle aerobic west chaos system";
+var mnemonic = "foster tortoise radio moral seven mansion today climb cattle crouch avocado energy";

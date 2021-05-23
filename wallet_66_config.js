@@ -1,1 +1,1 @@
-var mnemonic = "jeans sweet guard chair alien cloth finish state pride inquiry iron ensure";
+var mnemonic = "floor crush rival pulp artist ignore view despair grace dance biology public";

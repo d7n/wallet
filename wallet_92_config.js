@@ -1,1 +1,1 @@
-var mnemonic = "pill goddess draft movie demise rabbit island maze boring choose april hurt";
+var mnemonic = "jealous regular lemon effort curve air brand guitar village science action train";

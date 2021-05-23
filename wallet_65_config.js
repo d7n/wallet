@@ -1,1 +1,1 @@
-var mnemonic = "upon tenant coral spend chimney earn hamster enroll decorate addict hungry skin";
+var mnemonic = "blind fatigue reform garbage disorder clarify accuse country tag dove problem artist";

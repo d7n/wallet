@@ -1,1 +1,1 @@
-var mnemonic = "absent green elite describe venture bracket book flee response prevent spin pear";
+var mnemonic = "exit model child swarm foster liar become original inspire curve club virus";

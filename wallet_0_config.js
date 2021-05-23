@@ -1,1 +1,1 @@
-var mnemonic = "stem holiday quiz verify sauce perfect poverty transfer orbit pudding begin ozone";
+var mnemonic = "again predict panic orchard inmate pond material owner match acoustic habit crime";

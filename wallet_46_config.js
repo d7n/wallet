@@ -1,1 +1,1 @@
-var mnemonic = "lunar easy disease document boss swear ugly guard soup old height keen";
+var mnemonic = "suffer potato whisper square giant vacuum public behind nest imitate blouse habit";

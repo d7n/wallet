@@ -1,1 +1,1 @@
-var mnemonic = "people zone please artist live home start pen what maze business clump";
+var mnemonic = "off cliff junk ensure bronze tuition name rug entry method hold lazy";

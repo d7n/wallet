@@ -1,1 +1,1 @@
-var mnemonic = "abstract hero borrow sudden wear chronic pattern leisure menu economy output stone";
+var mnemonic = "bike height original jacket boss obtain mimic sunset solar tooth taste hello";

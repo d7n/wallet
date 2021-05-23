@@ -1,1 +1,1 @@
-var mnemonic = "life vibrant quarter aerobic near earth effort glow paddle notice emotion consider";
+var mnemonic = "radar box uphold essay slot snack shift myth rifle life moral among";

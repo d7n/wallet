@@ -1,1 +1,1 @@
-var mnemonic = "program traffic lend limit wash rhythm case consider version more guilt fruit";
+var mnemonic = "army advice mandate adapt verb antenna summer churn rigid base detect document";

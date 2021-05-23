@@ -1,1 +1,1 @@
-var mnemonic = "still memory state pass suggest curve chuckle fork laugh cover ostrich draw";
+var mnemonic = "another diagram diamond learn marine fancy pitch edge mammal wreck athlete cram";

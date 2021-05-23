@@ -1,1 +1,1 @@
-var mnemonic = "print edge joy van battle gentle joy kit reduce fence present guitar";
+var mnemonic = "amount wreck climb mind exotic glory mammal dry hat analyst mutual bachelor";

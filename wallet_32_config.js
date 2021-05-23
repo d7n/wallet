@@ -1,1 +1,1 @@
-var mnemonic = "warfare cost chest addict dirt oppose assist hen tree into lucky pelican";
+var mnemonic = "average guard crucial noodle ladder march aspect pupil hair never fashion antique";

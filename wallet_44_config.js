@@ -1,1 +1,1 @@
-var mnemonic = "advance pave swamp stomach scare ten beauty eyebrow limit fringe allow giant";
+var mnemonic = "pepper ivory congress casual monster main bleak swing syrup cloth love paddle";

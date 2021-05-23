@@ -1,1 +1,1 @@
-var mnemonic = "attract cement exchange history flush close essay possible question into viable cake";
+var mnemonic = "assist alien puppy mango design error melt parrot divide next creek mom";

@@ -1,1 +1,1 @@
-var mnemonic = "stable forum rocket gather what category pig wedding roof force trend cave";
+var mnemonic = "next roof help object artist surprise front gown electric alone life napkin";

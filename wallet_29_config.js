@@ -1,1 +1,1 @@
-var mnemonic = "canvas trial ready category tower female garment suit visa garbage unit utility";
+var mnemonic = "tail typical garment grab favorite prefer satoshi put orange leopard direct intact";

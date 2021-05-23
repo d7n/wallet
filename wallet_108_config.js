@@ -1,1 +1,1 @@
-var mnemonic = "sense sail unaware drill number can thunder reason twelve lonely record pizza";
+var mnemonic = "castle enroll more runway equip mirror fun cloud enlist tag split brick";

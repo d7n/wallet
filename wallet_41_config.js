@@ -1,1 +1,1 @@
-var mnemonic = "main dumb six make option hospital exchange enough glance annual option toast";
+var mnemonic = "museum drum surface tube manage method jazz general blush citizen duty mango";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse stand rain goose culture found patch story kick reward gallery park";
+var mnemonic = "insect shop flash brush hair crane april capable muscle sad borrow segment";

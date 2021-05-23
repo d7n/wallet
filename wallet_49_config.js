@@ -1,1 +1,1 @@
-var mnemonic = "actress denial current voice garlic pledge habit model invest broccoli summer swim";
+var mnemonic = "leisure best occur mad together buffalo peasant grain day bunker black stock";

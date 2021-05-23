@@ -1,1 +1,1 @@
-var mnemonic = "flat consider pepper doll void tennis royal ranch magnet fire short bar";
+var mnemonic = "elbow dwarf canoe rule similar slush grief work inhale reason peasant link";

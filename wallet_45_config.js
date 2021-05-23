@@ -1,1 +1,1 @@
-var mnemonic = "library invite avoid spirit better much plunge keen glad element disagree hand";
+var mnemonic = "raven critic funny copy bean supply wise copper anchor virtual icon eagle";

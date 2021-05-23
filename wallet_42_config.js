@@ -1,1 +1,1 @@
-var mnemonic = "own author rare toss clarify off spend accident sport replace caution basic";
+var mnemonic = "fiber inmate leave jaguar inhale response hire road dentist magnet side evoke";

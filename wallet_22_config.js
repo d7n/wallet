@@ -1,1 +1,1 @@
-var mnemonic = "help bird explain curtain gesture scheme hope advance rich quality provide identify";
+var mnemonic = "humor analyst feature swift gloom violin depend double attract bus food click";

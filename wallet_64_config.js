@@ -1,1 +1,1 @@
-var mnemonic = "add loud debate reflect burst leisure endless else act bar envelope enable";
+var mnemonic = "thought split frost bullet close give token stove call radar scissors cart";

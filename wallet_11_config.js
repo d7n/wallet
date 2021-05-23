@@ -1,1 +1,1 @@
-var mnemonic = "word isolate multiply require coil shield loan type boat physical board pear";
+var mnemonic = "cruise rail other expand leopard purity action script all surge return seat";

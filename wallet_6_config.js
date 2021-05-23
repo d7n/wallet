@@ -1,1 +1,1 @@
-var mnemonic = "rude boil strong story sort city alcohol honey sudden place replace coast";
+var mnemonic = "service scissors test inch basic boy elephant phone bleak robust sense service";

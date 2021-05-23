@@ -1,1 +1,1 @@
-var mnemonic = "endorse wage mixture cruel tomato nation vacuum hand angry rough section hero";
+var mnemonic = "gown help until cluster west lift enhance find letter brass bid scheme";

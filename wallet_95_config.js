@@ -1,1 +1,1 @@
-var mnemonic = "humor language pool unaware physical tent metal recycle arrow avocado feed fade";
+var mnemonic = "special expand holiday rally ankle hedgehog buddy provide file potato ability category";

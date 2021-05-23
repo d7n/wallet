@@ -1,1 +1,1 @@
-var mnemonic = "roast boring space wink position crack cereal rug unaware sick spice bubble";
+var mnemonic = "milk patient achieve flat absent blur couch super hurt adjust measure odor";

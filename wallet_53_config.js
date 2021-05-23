@@ -1,1 +1,1 @@
-var mnemonic = "excuse snow insect firm strong cable soda blouse bachelor saddle embrace position";
+var mnemonic = "friend sudden oxygen off mixture steak bonus elephant distance impulse tenant sweet";

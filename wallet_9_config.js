@@ -1,1 +1,1 @@
-var mnemonic = "seek admit initial mountain baby bounce gain analyst size fish tank core";
+var mnemonic = "glue idea travel peanut bitter clay assault expect slight orange yard pistol";

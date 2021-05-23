@@ -1,1 +1,1 @@
-var mnemonic = "water observe alone cat foam slab busy strategy portion resource grocery fabric";
+var mnemonic = "velvet ivory immune door flight team offer they wealth refuse oil bird";

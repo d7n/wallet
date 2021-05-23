@@ -1,1 +1,1 @@
-var mnemonic = "aim rude proof insect gap title chaos disagree scale sustain chest way";
+var mnemonic = "fee use insane special fruit country once tortoise clay brand swamp base";

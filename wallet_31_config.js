@@ -1,1 +1,1 @@
-var mnemonic = "laundry elegant puppy prevent boil normal any beach drill remind file master";
+var mnemonic = "excite whisper ridge airport pill crisp replace tilt brick shrug battle liquid";

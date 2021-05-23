@@ -1,1 +1,1 @@
-var mnemonic = "cushion offer okay oxygen dawn until tape parrot theory frame decline dizzy";
+var mnemonic = "wrestle rough city quarter immune merge civil bomb rotate dinosaur concert submit";

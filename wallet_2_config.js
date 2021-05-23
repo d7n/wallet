@@ -1,1 +1,1 @@
-var mnemonic = "wrestle muscle orphan market hazard scissors such thing buffalo south waste oak";
+var mnemonic = "slide bubble coil basic element exhaust able enjoy festival marine situate ecology";

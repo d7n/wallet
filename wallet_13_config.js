@@ -1,1 +1,1 @@
-var mnemonic = "chapter element wild cry popular miss twelve awesome just feed scan patient";
+var mnemonic = "type marriage news august marine describe brother minimum shallow science naive slush";

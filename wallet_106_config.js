@@ -1,1 +1,1 @@
-var mnemonic = "quit door pudding edge switch major actor sell account pass include subject";
+var mnemonic = "wonder average save large verb jar crop stamp reflect runway autumn cupboard";

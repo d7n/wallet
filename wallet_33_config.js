@@ -1,1 +1,1 @@
-var mnemonic = "anger defy toward inquiry armor cool evidence youth slab assume hill embark";
+var mnemonic = "day exhibit final fog amazing coast paper mammal fiber weather connect nut";

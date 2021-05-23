@@ -1,1 +1,1 @@
-var mnemonic = "sign artefact announce filter focus annual raw drink shed eager act era";
+var mnemonic = "point any miracle cactus that shield like tape range roast elder again";

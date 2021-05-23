@@ -1,1 +1,1 @@
-var mnemonic = "differ voice initial dynamic victory raw clarify like avocado eternal raw doctor";
+var mnemonic = "exit super tomato comfort grass solid evidence dinosaur trust elephant fancy have";

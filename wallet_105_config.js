@@ -1,1 +1,1 @@
-var mnemonic = "cake profit cactus feed light inject cruise hair style mom provide zoo";
+var mnemonic = "potato section skull tube uncover broom suffer hundred desert evidence coffee grape";

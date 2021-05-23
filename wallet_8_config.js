@@ -1,1 +1,1 @@
-var mnemonic = "bamboo blood mention sort dizzy mansion diagram expand kite liar scorpion buddy";
+var mnemonic = "melody leader surface steel chapter dolphin monster boost siege man stone raise";
