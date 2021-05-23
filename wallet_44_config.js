@@ -1,1 +1,1 @@
-var mnemonic = "antenna aspect mask donkey shop negative build traffic spider pride satoshi detail";
+var mnemonic = "witness orange vapor brother physical wrestle palace govern pumpkin visa twice put";

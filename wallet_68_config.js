@@ -1,1 +1,1 @@
-var mnemonic = "whisper lab sound excite easily yard cause ketchup palm price glad invite";
+var mnemonic = "dynamic dish shop art ticket roof wish cradle fabric artwork daughter visit";

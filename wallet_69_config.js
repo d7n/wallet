@@ -1,1 +1,1 @@
-var mnemonic = "matter arch input miss valid dinner menu admit museum gloom trap voyage";
+var mnemonic = "nominee apology stove wife zoo brand crater shop beef deer dream leisure";

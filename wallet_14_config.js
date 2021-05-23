@@ -1,1 +1,1 @@
-var mnemonic = "glide tennis mom grant under element frost lady dust piece neglect nuclear";
+var mnemonic = "squirrel tobacco element actress daughter arrange wash certain cushion airport total save";

@@ -1,1 +1,1 @@
-var mnemonic = "weather slender clip trumpet stove fault hybrid author whisper estate agree patient";
+var mnemonic = "broken awful lounge connect what health crisp innocent lecture chapter grit glass";

@@ -1,1 +1,1 @@
-var mnemonic = "nest patch move infant define lazy math theme very unable more fix";
+var mnemonic = "finish human april crack cook gossip pigeon birth tip mention flock below";

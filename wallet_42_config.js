@@ -1,1 +1,1 @@
-var mnemonic = "moment dumb remind absurd crane travel develop aim unknown bundle ill gather";
+var mnemonic = "actor frown lens crop supreme island reveal cheap suffer across buzz border";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage twelve dinner lock bike entire dumb field song network donate gossip";
+var mnemonic = "thrive neither genius eyebrow bottom stairs crash lesson still found time bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs vessel position tomato offer rail there latin erupt audit hedgehog voyage";
+var mnemonic = "tell seminar pupil virtual space update open expect erase occur kit mention";

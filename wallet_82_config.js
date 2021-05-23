@@ -1,1 +1,1 @@
-var mnemonic = "menu comic year noise paper nurse such engine gown modify ten rally";
+var mnemonic = "chapter best spike power uncover document gossip mesh tail point arctic brush";

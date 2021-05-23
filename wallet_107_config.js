@@ -1,1 +1,1 @@
-var mnemonic = "limb cherry crack pulp dawn round deny tray punch exchange alone when";
+var mnemonic = "pink embark pause deal behave elite rifle antenna start clump chunk shuffle";

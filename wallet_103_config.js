@@ -1,1 +1,1 @@
-var mnemonic = "typical enough tennis track narrow visit tooth hope door upper curtain strike";
+var mnemonic = "close blanket critic cause smile decade meadow hello start bachelor angry soldier";

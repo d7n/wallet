@@ -1,1 +1,1 @@
-var mnemonic = "ghost jealous magnet champion giggle ignore pass asthma ocean ignore federal topple";
+var mnemonic = "worry letter account antenna frequent forest valid shrimp alter attend way answer";

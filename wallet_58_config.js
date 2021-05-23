@@ -1,1 +1,1 @@
-var mnemonic = "act faint kid child cross auction gaze hen common tray symbol edge";
+var mnemonic = "day chest lake skin series blood culture cry aerobic toss detect limb";

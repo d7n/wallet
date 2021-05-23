@@ -1,1 +1,1 @@
-var mnemonic = "clarify onion cabbage powder pudding raccoon sand confirm jelly diet favorite eight";
+var mnemonic = "word theme pottery butter cream pepper bless crouch praise verb satoshi puppy";

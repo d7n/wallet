@@ -1,1 +1,1 @@
-var mnemonic = "embody unable scissors jazz whisper chicken spatial simple chair judge response nut";
+var mnemonic = "correct soldier merge noble harbor matrix orbit winner brick hope acquire iron";

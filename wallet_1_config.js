@@ -1,1 +1,1 @@
-var mnemonic = "life fetch rib emerge tumble lucky client improve junk grit inmate monkey";
+var mnemonic = "later twice carbon mom city sell grunt party receive junk robot jacket";

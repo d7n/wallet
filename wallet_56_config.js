@@ -1,1 +1,1 @@
-var mnemonic = "garment state exhibit power powder bacon crime inject size badge learn someone";
+var mnemonic = "point grant mosquito disease agree draw zone theme notable wink glare camp";

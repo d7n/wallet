@@ -1,1 +1,1 @@
-var mnemonic = "increase ten rich that green monster damage general post excuse response dial";
+var mnemonic = "sponsor dignity gravity differ razor input phrase any save evoke inherit boring";

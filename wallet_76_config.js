@@ -1,1 +1,1 @@
-var mnemonic = "cruel yard that only mother burden famous index minute cabbage prevent acoustic";
+var mnemonic = "cinnamon doctor range scrub glove suit science spend hover beyond pig kitchen";

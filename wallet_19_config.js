@@ -1,1 +1,1 @@
-var mnemonic = "approve document reopen hundred boy beach dry educate brick scatter butter unknown";
+var mnemonic = "leaf rail crystal figure flavor differ steel brain gorilla always security little";

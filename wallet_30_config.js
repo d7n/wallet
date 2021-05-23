@@ -1,1 +1,1 @@
-var mnemonic = "history will ring path year glance bacon miracle post ensure ladder course";
+var mnemonic = "tool real matrix nothing embrace divorce panther name witness civil eager spirit";

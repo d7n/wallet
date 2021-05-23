@@ -1,1 +1,1 @@
-var mnemonic = "balcony pet liberty organ drop luxury panther pill travel scatter mountain runway";
+var mnemonic = "badge daughter frown original art tent crack gold panther sphere curtain write";

@@ -1,1 +1,1 @@
-var mnemonic = "increase dry canoe entire average pause tuna pave letter empty dose owner";
+var mnemonic = "elbow ride lab market damage obscure figure fluid angle defy bread wage";

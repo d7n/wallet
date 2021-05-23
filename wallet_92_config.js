@@ -1,1 +1,1 @@
-var mnemonic = "chimney craft album because chalk pact order dose crush tissue add name";
+var mnemonic = "vacuum grace rebuild piano region merge access garment silent allow cement logic";

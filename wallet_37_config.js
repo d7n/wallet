@@ -1,1 +1,1 @@
-var mnemonic = "cube nice two salon movie practice need deliver exile season alien indicate";
+var mnemonic = "source thunder rack bonus change hungry stone clock valve menu adjust unique";

@@ -1,1 +1,1 @@
-var mnemonic = "trade lawn local crumble phone tuition common vivid poem click spatial priority";
+var mnemonic = "icon step lawn spring fatigue rich tent convince squirrel mirror survey north";

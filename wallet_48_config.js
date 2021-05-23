@@ -1,1 +1,1 @@
-var mnemonic = "taxi balance section solar announce speak entry faint below float inform addict";
+var mnemonic = "sock gather drill erase chat assist physical inspire emotion toy across sign";

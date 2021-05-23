@@ -1,1 +1,1 @@
-var mnemonic = "grocery heart vast asthma invite report enrich sweet dose street open uncle";
+var mnemonic = "salad mobile judge three fork today primary silly vital scale area various";

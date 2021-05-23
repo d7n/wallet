@@ -1,1 +1,1 @@
-var mnemonic = "eager infant test group benefit cheese soap ugly address layer more pink";
+var mnemonic = "topic income cherry bind soap apology pioneer gasp awesome enable limb catalog";

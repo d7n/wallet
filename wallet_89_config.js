@@ -1,1 +1,1 @@
-var mnemonic = "speed street rubber sight above panic skill oval atom elbow letter one";
+var mnemonic = "claw arctic tired gravity margin wet wait road dynamic vicious dolphin fever";

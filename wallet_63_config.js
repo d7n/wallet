@@ -1,1 +1,1 @@
-var mnemonic = "gate soon thought repeat fiber soccer tattoo achieve own spoon eye resist";
+var mnemonic = "acid fluid install team call debris broken number solid melt range explain";

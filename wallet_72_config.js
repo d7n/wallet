@@ -1,1 +1,1 @@
-var mnemonic = "own lawn notable forget material cave elite boil point negative client warm";
+var mnemonic = "coast churn system diesel spider artist trash one faith tank surround fun";

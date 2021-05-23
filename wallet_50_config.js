@@ -1,1 +1,1 @@
-var mnemonic = "exit injury soul bind park animal such vacant desk flash ceiling bundle";
+var mnemonic = "menu tissue lecture kitten pen know deliver fever forum minor odor air";

@@ -1,1 +1,1 @@
-var mnemonic = "impose between jungle capital scare marble holiday orbit what liberty ketchup token";
+var mnemonic = "segment walnut mind seminar flag hen hair outer essay mesh science cereal";

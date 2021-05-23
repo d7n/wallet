@@ -1,1 +1,1 @@
-var mnemonic = "defy sibling advice profit record payment moment garden shove ring stock canal";
+var mnemonic = "connect advice pear valid doll shock chaos pair theory awake buddy sight";

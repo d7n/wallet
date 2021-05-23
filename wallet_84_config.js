@@ -1,1 +1,1 @@
-var mnemonic = "dirt run settle unlock cargo vapor library cause length elder pluck box";
+var mnemonic = "dinner job control drastic kiss envelope depend salute pupil regret ginger beach";

@@ -1,1 +1,1 @@
-var mnemonic = "forget brain try broken recipe vague virtual disease surface sick liberty route";
+var mnemonic = "version shift fish transfer mention aunt tuition clutch apart ostrich void drive";

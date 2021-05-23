@@ -1,1 +1,1 @@
-var mnemonic = "disease swing invest arch peanut audit large gas inherit mind gallery demand";
+var mnemonic = "size round fragile usage chase neutral absurd silly piece super follow warfare";

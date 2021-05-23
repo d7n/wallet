@@ -1,1 +1,1 @@
-var mnemonic = "film catalog learn erase innocent harbor grant unfold extend midnight chest rookie";
+var mnemonic = "slam wasp spring swear crazy citizen pigeon brain ripple monster protect smoke";

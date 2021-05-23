@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sound tumble version skull list smooth grace alcohol stereo verb number";
+var mnemonic = "skirt endless caught chaos lock come year lamp robot trap goddess ladder";

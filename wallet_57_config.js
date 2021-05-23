@@ -1,1 +1,1 @@
-var mnemonic = "usage trouble goat powder shallow must oil color behave file time just";
+var mnemonic = "wish decide only crazy hockey twice honey start suggest steak kite ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "best creek employ vast basket ready guide tray video giant tank hope";
+var mnemonic = "script jacket slender present spare kind around fiction cradle ceiling glory hidden";

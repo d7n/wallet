@@ -1,1 +1,1 @@
-var mnemonic = "option village faith chronic dose bird corn discover split adult build enact";
+var mnemonic = "fashion brave wedding razor vote regret gun goddess time cycle need river";

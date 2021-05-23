@@ -1,1 +1,1 @@
-var mnemonic = "squirrel august clever enough lamp spare dune wealth forest fish wood soon";
+var mnemonic = "budget diet error divorce pave lottery middle armor balcony soda tower hockey";

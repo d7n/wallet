@@ -1,1 +1,1 @@
-var mnemonic = "pull bean filter post vintage social coffee chapter dirt begin quote fix";
+var mnemonic = "mind foster memory ripple robot ivory regular unusual infant barrel suit gorilla";

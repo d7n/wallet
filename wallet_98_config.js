@@ -1,1 +1,1 @@
-var mnemonic = "traffic make warm blue jacket fun immune crew dwarf label seed approve";
+var mnemonic = "legend surge sell valve spike vacant slice shine fuel decade deposit false";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle audit ridge proof tragic ecology width rich junk switch road tackle";
+var mnemonic = "bitter change execute spider maple vibrant blossom party memory just zone unfair";

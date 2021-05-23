@@ -1,1 +1,1 @@
-var mnemonic = "betray mirror super teach hybrid town obtain wheel exile trash future episode";
+var mnemonic = "random inherit symptom atom unfold often humor gossip symbol myth differ must";

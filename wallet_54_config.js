@@ -1,1 +1,1 @@
-var mnemonic = "guard replace card call pact rocket tennis zoo rate pioneer similar brass";
+var mnemonic = "maximum salute already harsh rally people visit trash will ready hotel robust";

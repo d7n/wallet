@@ -1,1 +1,1 @@
-var mnemonic = "rookie certain mixture artefact palm blue lake angle predict student banana sister";
+var mnemonic = "valve cargo drift soft tiger judge ride wine squeeze refuse capital soccer";

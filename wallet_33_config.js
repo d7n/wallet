@@ -1,1 +1,1 @@
-var mnemonic = "double spot trial poet garden dash reveal please annual view van stable";
+var mnemonic = "dynamic vicious wagon kangaroo task planet holiday output session hungry betray boat";

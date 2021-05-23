@@ -1,1 +1,1 @@
-var mnemonic = "mandate hire tiger cage kind alcohol grunt tone dose slender exhibit settle";
+var mnemonic = "change spirit soccer excuse broccoli nuclear dash path horse guilt warm wisdom";

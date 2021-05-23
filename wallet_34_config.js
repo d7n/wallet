@@ -1,1 +1,1 @@
-var mnemonic = "legal best woman either trap lazy pill curious shadow soon remove poem";
+var mnemonic = "feel grit soft pave measure tiger increase guide puzzle jewel asthma regret";

@@ -1,1 +1,1 @@
-var mnemonic = "piece put once system autumn poverty banana above essay bottom front waste";
+var mnemonic = "section advice elephant divide sheriff usage enlist grief human chapter glance enrich";

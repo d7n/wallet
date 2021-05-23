@@ -1,1 +1,1 @@
-var mnemonic = "art term primary again love ceiling oxygen bundle poverty repair road negative";
+var mnemonic = "blouse glove volume service envelope move industry crunch glass hover minimum trap";

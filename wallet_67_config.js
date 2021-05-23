@@ -1,1 +1,1 @@
-var mnemonic = "canyon mimic hobby matrix buzz guess wreck bike rice depart gym stem";
+var mnemonic = "rotate frost fruit genius edit depart jar nephew quit trade link useful";

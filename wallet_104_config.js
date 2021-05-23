@@ -1,1 +1,1 @@
-var mnemonic = "frequent ritual modify eager cupboard twin casual hurt army mountain minimum laptop";
+var mnemonic = "already bright put lobster month mosquito dizzy ticket youth modify aware urban";

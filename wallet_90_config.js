@@ -1,1 +1,1 @@
-var mnemonic = "riot leopard mom couple oak toddler code aspect twenty more syrup deputy";
+var mnemonic = "film license tonight skate powder despair scene bread rice engine kiss social";

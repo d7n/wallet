@@ -1,1 +1,1 @@
-var mnemonic = "calm grow protect castle abuse abandon barely galaxy say pattern height end";
+var mnemonic = "issue shove distance plastic harsh face swallow gentle enlist price claim depart";

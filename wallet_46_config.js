@@ -1,1 +1,1 @@
-var mnemonic = "dad black twelve muscle wild enact return faith sense enable series eternal";
+var mnemonic = "ecology casino sun wealth memory nephew limb liquid trash orphan snake april";

@@ -1,1 +1,1 @@
-var mnemonic = "category wet school original pride comfort spatial pluck engine strong ginger cloth";
+var mnemonic = "orchard evolve soft goat retreat blame muscle wrap planet ozone similar spring";

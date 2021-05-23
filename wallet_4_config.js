@@ -1,1 +1,1 @@
-var mnemonic = "blur ski craft way royal expire tray cigar laugh season unfair tool";
+var mnemonic = "fame mystery unhappy height churn leisure wild disorder identify fish brand hollow";

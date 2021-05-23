@@ -1,1 +1,1 @@
-var mnemonic = "open monitor toilet nothing miss theme history flat gentle loud stove popular";
+var mnemonic = "video pumpkin stumble enact hero crazy melt boring excess man twin sort";

@@ -1,1 +1,1 @@
-var mnemonic = "impose scatter type name link include melody journey trend oil exotic galaxy";
+var mnemonic = "priority attend jump teach barely shoot champion essay design interest peace forest";

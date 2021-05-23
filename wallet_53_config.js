@@ -1,1 +1,1 @@
-var mnemonic = "caught cinnamon argue board ocean title aspect today keep kit cart bamboo";
+var mnemonic = "hill version bullet absurd novel crater erupt crumble float dutch purpose vehicle";

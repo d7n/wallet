@@ -1,1 +1,1 @@
-var mnemonic = "develop vital guard chair crazy exit admit major absurd circle time spike";
+var mnemonic = "narrow powder confirm switch avocado parade blush purse mistake resemble disorder bone";

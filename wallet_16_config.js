@@ -1,1 +1,1 @@
-var mnemonic = "pottery museum actor puzzle pact spoon combine novel limb senior balcony under";
+var mnemonic = "exact filter company mouse also document sentence chase admit width dolphin soup";

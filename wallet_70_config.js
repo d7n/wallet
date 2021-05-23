@@ -1,1 +1,1 @@
-var mnemonic = "thought cover junk enter exact grow august wash make mechanic secret roof";
+var mnemonic = "scissors multiply brush powder silly grant demand release marriage situate assist napkin";

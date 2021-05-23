@@ -1,1 +1,1 @@
-var mnemonic = "actor erosion photo figure group mesh guide memory program radio call royal";
+var mnemonic = "hammer exercise razor demand dog tragic become catch draw flip slight potato";

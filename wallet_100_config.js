@@ -1,1 +1,1 @@
-var mnemonic = "wide cushion elder method midnight force success sketch chef fiction offer awkward";
+var mnemonic = "betray hip goose volume champion miracle lend amount auto situate vibrant mouse";

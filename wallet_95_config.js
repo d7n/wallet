@@ -1,1 +1,1 @@
-var mnemonic = "multiply harsh audit flock now apart guitar sister under tide rich blush";
+var mnemonic = "state episode reopen critic pencil banner gloom toilet accuse erode sun goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "hello enforce circle slide expand divert idle swing melody cube nation expand";
+var mnemonic = "potato clean fit buffalo anxiety write input crouch this banner cost end";

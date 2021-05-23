@@ -1,1 +1,1 @@
-var mnemonic = "rose lady offer water dilemma honey sun dove volume capable employ hold";
+var mnemonic = "found twenty grunt indoor mushroom village scout fragile slam daring bachelor coconut";

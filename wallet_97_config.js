@@ -1,1 +1,1 @@
-var mnemonic = "deputy toast angle soul park ribbon spy option panic ice hub pitch";
+var mnemonic = "hill elder mercy hope regret outside chimney snake arrow voyage crystal disagree";

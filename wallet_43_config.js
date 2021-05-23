@@ -1,1 +1,1 @@
-var mnemonic = "unfold busy vanish empower door flip access frog broken dynamic industry wrist";
+var mnemonic = "shoot sniff ensure auto flower crack fossil move verb inquiry practice robot";

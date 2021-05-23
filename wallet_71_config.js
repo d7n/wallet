@@ -1,1 +1,1 @@
-var mnemonic = "shuffle hope amused ketchup size barely scan real funny trophy zone spare";
+var mnemonic = "grab claw wise own close marriage replace absurd dust ensure merge write";

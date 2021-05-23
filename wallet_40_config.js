@@ -1,1 +1,1 @@
-var mnemonic = "clerk spray permit canvas physical tiger express empower basket pipe tide web";
+var mnemonic = "dutch wonder narrow scissors soda dwarf sunset fall dentist snap rocket setup";

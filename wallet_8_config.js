@@ -1,1 +1,1 @@
-var mnemonic = "they match ozone tomorrow stamp jazz glue awake yellow enforce color transfer";
+var mnemonic = "word execute broom radio label silly double one boil apple puppy ignore";

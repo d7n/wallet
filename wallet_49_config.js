@@ -1,1 +1,1 @@
-var mnemonic = "between tortoise kite industry reduce bind physical anchor increase chest vendor canal";
+var mnemonic = "emerge round couch relax laptop athlete copy zero green ordinary decade melody";

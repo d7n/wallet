@@ -1,1 +1,1 @@
-var mnemonic = "vague slight embark space assume happy other fan trash stove grid essence";
+var mnemonic = "moral stove tool coach settle divide path menu wheel scrub animal rifle";

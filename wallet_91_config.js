@@ -1,1 +1,1 @@
-var mnemonic = "crystal assist mesh ketchup tiny island dinner siren fold polar cannon alpha";
+var mnemonic = "allow reform quarter before adapt pole crater phone approve famous warfare tiny";

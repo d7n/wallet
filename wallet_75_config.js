@@ -1,1 +1,1 @@
-var mnemonic = "grant accuse people grain anxiety perfect front return jump common gather target";
+var mnemonic = "eager barely oppose woman much often pelican praise glare unable flag convince";

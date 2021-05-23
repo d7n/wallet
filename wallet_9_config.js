@@ -1,1 +1,1 @@
-var mnemonic = "trust arctic then address source toast reward normal icon bulb trick hold";
+var mnemonic = "anchor clutch swear journey echo enough hero food whisper genius salad degree";

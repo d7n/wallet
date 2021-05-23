@@ -1,1 +1,1 @@
-var mnemonic = "exclude antique sun basket cash pond wisdom rough divert dad park ripple";
+var mnemonic = "square among total alter board zero mixed stick knife latin kit onion";

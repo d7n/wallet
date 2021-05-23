@@ -1,1 +1,1 @@
-var mnemonic = "shallow around october forget inhale warfare genuine tail lend theme merit slush";
+var mnemonic = "topic decide kind mansion tribe skirt pig cricket rib jelly gaze visit";

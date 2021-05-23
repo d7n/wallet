@@ -1,1 +1,1 @@
-var mnemonic = "diet ecology collect often ship token foam super mouse immense link uniform";
+var mnemonic = "energy pulse palace humble modify fat hint force relax civil dirt lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "trim aisle panic color park upon consider differ physical theme slice garment";
+var mnemonic = "flat deal pistol spend machine whale broom empty industry question drip brother";

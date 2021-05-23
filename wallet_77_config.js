@@ -1,1 +1,1 @@
-var mnemonic = "topic note swear parent green other comic royal broom forest tornado trade";
+var mnemonic = "demise rescue prize submit weird nature cream clutch sense idea age jungle";

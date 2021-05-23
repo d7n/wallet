@@ -1,1 +1,1 @@
-var mnemonic = "cloth office pink donkey scare little limit tunnel slot tomato symptom garbage";
+var mnemonic = "sight person sign dust raw match lizard coin prize phone fog recycle";

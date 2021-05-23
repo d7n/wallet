@@ -1,1 +1,1 @@
-var mnemonic = "arch believe rotate skull cruel bird oppose symptom usual indicate manual fluid";
+var mnemonic = "olympic cram empower stone scout library behind crew egg forum person say";
