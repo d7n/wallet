@@ -1,1 +1,1 @@
-var mnemonic = "around elite hundred kid local brand social glare explain resemble behave input";
+var mnemonic = "sword high half pigeon thrive sorry unique cupboard favorite economy essence cart";

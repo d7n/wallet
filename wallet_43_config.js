@@ -1,1 +1,1 @@
-var mnemonic = "defense famous verify delay unlock endorse critic refuse moment solve little file";
+var mnemonic = "run combine quality man betray act social tilt vessel music blanket cook";

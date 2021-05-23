@@ -1,1 +1,1 @@
-var mnemonic = "dress high ginger destroy uncle danger sight coast suggest lock disease few";
+var mnemonic = "outside blouse animal daring public daughter trophy wine canyon unique era earth";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow soldier matter crystal slot water paddle suspect scene humor unable myself";
+var mnemonic = "caught clap special another best broken card sign today weasel tilt daring";

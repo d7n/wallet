@@ -1,1 +1,1 @@
-var mnemonic = "pen cluster immune ketchup motor tissue awkward short fiber biology apart toilet";
+var mnemonic = "axis switch marriage lumber auto toy virtual uniform list bullet medal athlete";

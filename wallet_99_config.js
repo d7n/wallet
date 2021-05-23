@@ -1,1 +1,1 @@
-var mnemonic = "crowd roast toss cost make asthma caught danger measure tuna trial truth";
+var mnemonic = "weasel race globe volume harvest cave pistol monitor popular quantum slogan honey";

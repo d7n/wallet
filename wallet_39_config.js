@@ -1,1 +1,1 @@
-var mnemonic = "service oblige leg orange dry tenant engine skull twist dune impose twelve";
+var mnemonic = "noise shallow nephew crater hope lottery manage gather bless pudding quick demise";

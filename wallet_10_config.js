@@ -1,1 +1,1 @@
-var mnemonic = "brand chase raven obvious soup bid veteran hat enter toward quote school";
+var mnemonic = "cause resource vital forward young decrease fault basket acid flip umbrella beauty";

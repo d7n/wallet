@@ -1,1 +1,1 @@
-var mnemonic = "hazard air fever crunch arrest release walk deny any want measure plate";
+var mnemonic = "tired strong busy come van scrub salute fix drama glove fresh rib";

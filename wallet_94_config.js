@@ -1,1 +1,1 @@
-var mnemonic = "raccoon coconut panic salute grief first escape zero enlist inquiry supreme faculty";
+var mnemonic = "pigeon silly one health double brother park vote upgrade lyrics job crucial";

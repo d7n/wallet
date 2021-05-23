@@ -1,1 +1,1 @@
-var mnemonic = "digital maze jewel ketchup lift write gather lion judge post before betray";
+var mnemonic = "trial account royal pistol side stairs undo can joy window merry inflict";

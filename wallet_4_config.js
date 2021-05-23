@@ -1,1 +1,1 @@
-var mnemonic = "warrior warrior dolphin garage echo oppose dynamic test smile flame drive genuine";
+var mnemonic = "winter before topple fury short filter trend pluck winner defense diet ill";

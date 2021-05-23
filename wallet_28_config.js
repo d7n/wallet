@@ -1,1 +1,1 @@
-var mnemonic = "awkward lady damp describe child seat moral sure similar panel nurse broken";
+var mnemonic = "scheme chapter salute pen lawsuit twin lava treat bracket jungle cliff own";

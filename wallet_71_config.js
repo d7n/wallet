@@ -1,1 +1,1 @@
-var mnemonic = "inherit motion check able moral frame clock scrub slot spend isolate midnight";
+var mnemonic = "arm myself morning bench start slide service subject erase answer circle spoon";

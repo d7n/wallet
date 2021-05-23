@@ -1,1 +1,1 @@
-var mnemonic = "glue match arm upon else harvest slam sausage loop express broccoli settle";
+var mnemonic = "modify outside banana system bonus inquiry boil concert ancient history blouse skate";

@@ -1,1 +1,1 @@
-var mnemonic = "misery flower field bright more husband protect room tortoise orange ivory relax";
+var mnemonic = "toss stage destroy high maze visa strike drill acquire artist ivory scheme";

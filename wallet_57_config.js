@@ -1,1 +1,1 @@
-var mnemonic = "wide kiss calm current thumb uncover absorb cash junior absurd leaf wife";
+var mnemonic = "tag decade suggest solid ski prize bamboo angle donate virtual drop infant";

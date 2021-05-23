@@ -1,1 +1,1 @@
-var mnemonic = "appear square cargo shuffle paddle debate danger egg fitness oil skin argue";
+var mnemonic = "smooth switch ability filter upon ship inch inch sea more polar tank";

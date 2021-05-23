@@ -1,1 +1,1 @@
-var mnemonic = "all test mask luxury impact sibling piano lesson uphold barrel earth lesson";
+var mnemonic = "chest pond limit radio risk turn toddler pause water bring web supply";

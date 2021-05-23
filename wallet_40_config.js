@@ -1,1 +1,1 @@
-var mnemonic = "winter alley clog essence rural convince genuine dress tackle hazard abandon chronic";
+var mnemonic = "leg couple style ice screen eternal poet fault believe age come edit";

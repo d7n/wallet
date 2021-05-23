@@ -1,1 +1,1 @@
-var mnemonic = "denial parade safe clip oyster olympic enough caught blouse suggest poet post";
+var mnemonic = "program page innocent couple awesome include rack spoil enroll asthma history board";

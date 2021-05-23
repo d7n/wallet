@@ -1,1 +1,1 @@
-var mnemonic = "lobster steel track claw scan brush bread dumb hold wage number stick";
+var mnemonic = "cotton lamp earth during capital change record gas number salmon camp fix";

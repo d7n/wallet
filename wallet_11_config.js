@@ -1,1 +1,1 @@
-var mnemonic = "abuse point squirrel scatter unique sense private neglect click retire essay radar";
+var mnemonic = "mesh soldier logic tube festival mansion kidney word merge lens coin into";

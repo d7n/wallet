@@ -1,1 +1,1 @@
-var mnemonic = "monster humor avoid verify omit follow long shadow card canyon base vintage";
+var mnemonic = "afford trick clean room treat swarm chuckle bicycle obey toy ancient nurse";

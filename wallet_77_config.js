@@ -1,1 +1,1 @@
-var mnemonic = "talk fiber boost connect arrive despair tip inform final indicate over ramp";
+var mnemonic = "sadness spatial gospel clarify answer sell program winter final rib carbon tunnel";

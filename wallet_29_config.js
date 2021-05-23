@@ -1,1 +1,1 @@
-var mnemonic = "frozen skate actor license paper deny truck client daring outer visa fruit";
+var mnemonic = "thank clean climb else access pizza slender piano broccoli join depend detail";

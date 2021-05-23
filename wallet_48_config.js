@@ -1,1 +1,1 @@
-var mnemonic = "angle relief ahead extend hawk salad possible monkey sign laundry call genius";
+var mnemonic = "enroll unique fog elite radar swallow depth grit advice rapid level shallow";

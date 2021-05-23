@@ -1,1 +1,1 @@
-var mnemonic = "wonder trouble auction print misery snake jaguar service capable wet keen frown";
+var mnemonic = "kitchen file wrap blossom vault adapt domain random guilt cool satisfy fuel";

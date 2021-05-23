@@ -1,1 +1,1 @@
-var mnemonic = "electric project intact arm half around jealous more slush boss close main";
+var mnemonic = "iron season valley notice truly finish oak call woman because student spy";

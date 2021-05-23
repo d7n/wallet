@@ -1,1 +1,1 @@
-var mnemonic = "spice chapter stock welcome smart climb region wealth stock remind inside elegant";
+var mnemonic = "tunnel curve turtle document because denial ocean echo noise people goat daring";

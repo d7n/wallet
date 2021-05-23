@@ -1,1 +1,1 @@
-var mnemonic = "evil energy final soup novel because siren coyote vacuum armed club library";
+var mnemonic = "tissue limb family tower tooth almost young toilet like want acid suffer";

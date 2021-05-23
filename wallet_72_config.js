@@ -1,1 +1,1 @@
-var mnemonic = "pudding room school find shield woman lake fury enable goose enlist pistol";
+var mnemonic = "purchase salon together couch vague dynamic orbit street limit salt hen during";

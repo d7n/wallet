@@ -1,1 +1,1 @@
-var mnemonic = "prepare write february aware happy giggle example vendor flame dove mushroom cushion";
+var mnemonic = "orphan ranch biology milk soap diamond talk world disease endless obtain almost";

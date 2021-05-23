@@ -1,1 +1,1 @@
-var mnemonic = "exhaust planet occur fun result cup draw sea say just various fly";
+var mnemonic = "cradle juice property convince world unit sunny dose antenna farm oblige weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "silly either broom violin suggest clump gasp robust drive thought tortoise monkey";
+var mnemonic = "dust limit nurse question spray luggage ghost patrol bundle find trumpet powder";

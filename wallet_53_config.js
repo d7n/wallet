@@ -1,1 +1,1 @@
-var mnemonic = "grow corn ripple puppy belt diet start pluck online decorate enact alter";
+var mnemonic = "enact crash grant reject course pilot worry universe easily upset angry youth";

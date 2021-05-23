@@ -1,1 +1,1 @@
-var mnemonic = "timber kingdom sleep lake limb window spot castle cabbage depart where length";
+var mnemonic = "mirror hybrid wreck observe clap miracle valve soldier alpha census response observe";

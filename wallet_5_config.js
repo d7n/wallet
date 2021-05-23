@@ -1,1 +1,1 @@
-var mnemonic = "sorry winner alcohol urban transfer pattern night manual arena praise narrow identify";
+var mnemonic = "silent flash again nominee skin holiday bubble employ glide measure boat club";

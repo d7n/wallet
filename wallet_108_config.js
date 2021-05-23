@@ -1,1 +1,1 @@
-var mnemonic = "dance elephant omit drift grief detail decide escape awake bus glare message";
+var mnemonic = "shallow manual vehicle wasp whisper system pause release inform book base secret";

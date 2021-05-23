@@ -1,1 +1,1 @@
-var mnemonic = "blossom witness barrel away liquid cage bamboo rookie crack market else mix";
+var mnemonic = "general grid sugar unable rival divert flush coast unlock license sudden pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "sand gadget vague average mystery garden rural moment mountain quote imitate use";
+var mnemonic = "ecology blade flash october rich random journey helmet service vast assume thumb";

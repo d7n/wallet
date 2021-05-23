@@ -1,1 +1,1 @@
-var mnemonic = "pride call pole knife stairs across document ball poverty water field muffin";
+var mnemonic = "firm sponsor wave depend hurdle kite stadium flame can powder embark crater";

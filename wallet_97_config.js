@@ -1,1 +1,1 @@
-var mnemonic = "summer draw quiz hope payment vendor interest various toilet inherit wheel enlist";
+var mnemonic = "limit maze snow speak cannon payment topic hurry pony damage paddle scan";

@@ -1,1 +1,1 @@
-var mnemonic = "under price major note erupt steel syrup purpose catch exhibit position orphan";
+var mnemonic = "august concert room rhythm image common prepare typical element ugly attack token";

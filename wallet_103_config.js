@@ -1,1 +1,1 @@
-var mnemonic = "rain idea divide slush question cupboard wealth actress birth sniff ensure kind";
+var mnemonic = "heavy change gap wise spatial lend pudding pitch south melody craft motion";

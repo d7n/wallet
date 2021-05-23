@@ -1,1 +1,1 @@
-var mnemonic = "suffer know real sibling series sign body wreck drill female base vendor";
+var mnemonic = "flag chunk lens nose arrest spare chase cheap please noodle fire prefer";

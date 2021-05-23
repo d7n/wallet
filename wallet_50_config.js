@@ -1,1 +1,1 @@
-var mnemonic = "opinion evil excuse twelve apart upper buffalo start zebra render biology damp";
+var mnemonic = "glow reform skirt govern diet bottom prepare private wear general hole permit";

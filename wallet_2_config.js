@@ -1,1 +1,1 @@
-var mnemonic = "rate skull bid cliff language wasp jewel regular jelly ribbon mammal win";
+var mnemonic = "waste metal city armed crazy satoshi cruise between cruel close hidden possible";

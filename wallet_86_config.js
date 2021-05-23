@@ -1,1 +1,1 @@
-var mnemonic = "estate jump wrist pole melody digital trust goat ask reward safe loyal";
+var mnemonic = "duck awake history require liquid item kangaroo dog february neutral despair reduce";

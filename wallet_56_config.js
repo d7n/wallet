@@ -1,1 +1,1 @@
-var mnemonic = "weapon miracle utility woman siege student dizzy seed caution wide equal toward";
+var mnemonic = "dilemma toy spider alarm angry lumber material tackle trap pole zero confirm";

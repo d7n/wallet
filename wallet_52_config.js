@@ -1,1 +1,1 @@
-var mnemonic = "sausage fruit ready child tattoo plunge job please trend despair blood rent";
+var mnemonic = "quit pigeon slush outer good galaxy whip galaxy box antique expire script";

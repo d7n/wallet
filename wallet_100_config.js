@@ -1,1 +1,1 @@
-var mnemonic = "unique sweet perfect youth student festival rude solid host song such prize";
+var mnemonic = "cotton dilemma tenant celery sense border type claw exotic noble neither scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "body vintage tiger please cloud donate gentle upset sibling achieve sword autumn";
+var mnemonic = "person frozen fire dizzy draft tennis delay clinic jealous sample great dry";

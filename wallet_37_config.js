@@ -1,1 +1,1 @@
-var mnemonic = "copper refuse metal monitor program ocean business keen you pigeon monkey can";
+var mnemonic = "service marriage alley spice defy rotate call shaft talent siege oak spy";

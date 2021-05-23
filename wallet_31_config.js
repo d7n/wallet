@@ -1,1 +1,1 @@
-var mnemonic = "move food diagram notice smart napkin cannon rule one lady board entire";
+var mnemonic = "absurd room coil festival pair marble broccoli harbor sauce subject fall tooth";

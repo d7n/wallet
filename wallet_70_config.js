@@ -1,1 +1,1 @@
-var mnemonic = "dismiss plastic crew eternal confirm alone useless fever viable oven close boy";
+var mnemonic = "cattle half almost kind client theme turkey hover topic noble inch soft";

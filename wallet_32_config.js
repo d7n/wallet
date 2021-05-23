@@ -1,1 +1,1 @@
-var mnemonic = "divide metal uphold gossip lake flip charge alone ask alpha talent kick";
+var mnemonic = "session staff drip gloom spy gain uncover lamp okay addict dolphin more";

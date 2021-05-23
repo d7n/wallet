@@ -1,1 +1,1 @@
-var mnemonic = "rubber urge gesture enough budget burst quarter chaos zebra night surround dad";
+var mnemonic = "apology front unit uncover bar dove barrel only jealous chuckle movie hawk";

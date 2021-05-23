@@ -1,1 +1,1 @@
-var mnemonic = "flash entry success speak swim craft coast february flat employ nothing hill";
+var mnemonic = "little raise decline trust couch beyond nothing noodle erosion material love youth";

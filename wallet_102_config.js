@@ -1,1 +1,1 @@
-var mnemonic = "decline aware song spread adult always fame about sport phone ribbon impact";
+var mnemonic = "weasel spike element visual jar badge broccoli utility borrow pig until seed";

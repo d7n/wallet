@@ -1,1 +1,1 @@
-var mnemonic = "banner payment link gallery lift come exile toast repair ignore bike mean";
+var mnemonic = "lunch layer picnic biology coin gospel catalog kitten royal toddler water hollow";

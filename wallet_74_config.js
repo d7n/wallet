@@ -1,1 +1,1 @@
-var mnemonic = "eagle warm embrace tragic wreck rigid tomorrow carpet trash basket lucky resource";
+var mnemonic = "soda hamster child reunion about bunker uphold monster hidden balance disorder client";

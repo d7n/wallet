@@ -1,1 +1,1 @@
-var mnemonic = "rule joy slide already protect way scrub more violin stable bring engine";
+var mnemonic = "twice spend flock inquiry child bread eyebrow athlete peanut lens struggle setup";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin mosquito much history file buzz pistol bracket always panda online crunch";
+var mnemonic = "teach antenna asset dog hen eight alone buyer table satoshi assault wide";

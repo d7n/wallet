@@ -1,1 +1,1 @@
-var mnemonic = "mule repeat shallow mouse strong palm render leaf robot occur man say";
+var mnemonic = "tree course prosper else butter urge bachelor taste biology zoo urge copy";

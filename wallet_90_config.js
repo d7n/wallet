@@ -1,1 +1,1 @@
-var mnemonic = "envelope ritual weekend collect twist spatial thing clutch special april zero crisp";
+var mnemonic = "express amateur athlete often ball regret inform thought summer flush virus initial";

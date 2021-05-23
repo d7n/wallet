@@ -1,1 +1,1 @@
-var mnemonic = "snap tell spell minute dentist nurse lounge shell tomorrow crawl clip coffee";
+var mnemonic = "noble system violin equip mammal live celery safe equip street winter canal";

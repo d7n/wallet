@@ -1,1 +1,1 @@
-var mnemonic = "hundred thank beach social shift cluster crumble trip evoke height note trick";
+var mnemonic = "syrup laundry feel kite coin oven approve vicious birth curve office arrange";

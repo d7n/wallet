@@ -1,1 +1,1 @@
-var mnemonic = "stable basket second aim december rebel since labor shock month kit solid";
+var mnemonic = "again viable captain cave enhance rail verify practice twist swallow mystery mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "shield grain glance check miracle spare scorpion merry daring wrist rabbit frozen";
+var mnemonic = "human slim mule refuse runway tone wave method same task huge pet";

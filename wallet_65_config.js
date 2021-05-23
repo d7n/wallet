@@ -1,1 +1,1 @@
-var mnemonic = "whip foam budget busy critic arctic gesture session reflect ankle limb base";
+var mnemonic = "sausage rack walk license heart theory same act note scan artwork decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "double satoshi flavor such trim dove busy area race physical west tenant";
+var mnemonic = "vacuum cattle require world choice solution iron camera cigar flush forest wood";

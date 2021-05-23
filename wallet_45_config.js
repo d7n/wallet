@@ -1,1 +1,1 @@
-var mnemonic = "panic side bronze fire beach lumber swarm frequent audit kick couch fork";
+var mnemonic = "nuclear deliver alpha tonight trade address major describe tattoo design rotate usage";

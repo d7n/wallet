@@ -1,1 +1,1 @@
-var mnemonic = "become alley they board heavy mule cruise song soup rocket brand save";
+var mnemonic = "length word denial cube lesson asset caught opinion spirit physical brown jazz";

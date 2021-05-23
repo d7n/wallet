@@ -1,1 +1,1 @@
-var mnemonic = "project duty feed armor rose above layer blouse liar print beyond lobster";
+var mnemonic = "army enact normal dad dilemma shell inform scrub action report dream general";

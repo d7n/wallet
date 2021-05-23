@@ -1,1 +1,1 @@
-var mnemonic = "success badge service output adapt symptom march chest wreck april cement slow";
+var mnemonic = "dash bind brisk below wave enough degree file wisdom basket immense treat";

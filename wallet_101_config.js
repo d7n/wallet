@@ -1,1 +1,1 @@
-var mnemonic = "reveal secret gain suggest oyster kidney muffin dutch card early prepare report";
+var mnemonic = "ice cattle garbage over bless warrior bar series reward athlete woman kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "child hat end cannon original fortune recipe fossil exile raw suit network";
+var mnemonic = "rare electric spoil limb erode april comic help prevent breeze zebra sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "permit vault bachelor session bone state depth talent noise mutual drink hurdle";
+var mnemonic = "large cherry crack airport switch drift ball project start express retire select";

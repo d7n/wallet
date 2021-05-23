@@ -1,1 +1,1 @@
-var mnemonic = "wonder extend artefact detect budget property image chef fork enter bread bird";
+var mnemonic = "fantasy trouble crater when cage simple bronze mother moment lunch tongue bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "admit caught believe turn love empower early where purse simple retreat gossip";
+var mnemonic = "tower public aunt vague faculty egg popular know solution busy silent lunch";

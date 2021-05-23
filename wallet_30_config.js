@@ -1,1 +1,1 @@
-var mnemonic = "refuse atom shed scatter assault shuffle witness picture coach quality opera maximum";
+var mnemonic = "tackle garment lyrics shiver rocket apple actress fashion age diagram smile uncover";

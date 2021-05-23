@@ -1,1 +1,1 @@
-var mnemonic = "this core wish wedding absorb trophy lift curtain slight begin divert sugar";
+var mnemonic = "orchard tomato sleep label stage mix report present ten decrease layer powder";

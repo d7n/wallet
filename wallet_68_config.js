@@ -1,1 +1,1 @@
-var mnemonic = "season noise evoke begin agent husband anxiety resemble speed defense hurry woman";
+var mnemonic = "acoustic artist hen account flower feed moment ocean turkey joke solve leader";

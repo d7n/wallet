@@ -1,1 +1,1 @@
-var mnemonic = "forest purchase fragile dial blood holiday enrich gentle become hello phrase rocket";
+var mnemonic = "purchase alone love easy blind order canyon hip negative medal zebra dune";

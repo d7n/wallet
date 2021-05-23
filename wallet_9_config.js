@@ -1,1 +1,1 @@
-var mnemonic = "express tell scorpion physical alcohol repair sadness struggle tail second cruise choose";
+var mnemonic = "favorite alcohol naive juice depend wood twenty surge teach syrup favorite pet";
