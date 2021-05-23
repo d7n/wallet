@@ -1,1 +1,1 @@
-var mnemonic = "alone jaguar evoke clog wealth say normal fabric below romance will come";
+var mnemonic = "deputy staff cereal pride then laundry save bright lend rabbit leopard ensure";

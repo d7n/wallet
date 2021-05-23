@@ -1,1 +1,1 @@
-var mnemonic = "roast addict bamboo hood badge pony train lazy chest rely absorb army";
+var mnemonic = "series wear upgrade mystery camera hamster error sort among laundry apart delay";

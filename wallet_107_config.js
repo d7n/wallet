@@ -1,1 +1,1 @@
-var mnemonic = "visual comfort spoon jaguar canal region emotion priority fame kingdom neck blue";
+var mnemonic = "little flower enough run security actor beach envelope math foil favorite bone";

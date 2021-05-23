@@ -1,1 +1,1 @@
-var mnemonic = "federal mass cheese change oak size armed model planet mind lumber bottom";
+var mnemonic = "grant myself timber antenna enforce miracle where spot coach target mule voice";

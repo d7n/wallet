@@ -1,1 +1,1 @@
-var mnemonic = "raise amazing destroy moon amateur pause ahead ensure differ shiver vault flower";
+var mnemonic = "tobacco end arrow state cruise can alter donor clever urge case shop";

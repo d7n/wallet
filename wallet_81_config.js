@@ -1,1 +1,1 @@
-var mnemonic = "cup rifle wash glove payment upon music vapor afford farm strategy divide";
+var mnemonic = "mystery item green faint envelope boy idea rhythm airport leg save bunker";

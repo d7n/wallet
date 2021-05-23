@@ -1,1 +1,1 @@
-var mnemonic = "urban trust explain anxiety person camera evidence banana labor street belt fold";
+var mnemonic = "mango enact grant flag nothing horn robot grab drum sock clinic uncover";

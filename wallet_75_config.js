@@ -1,1 +1,1 @@
-var mnemonic = "velvet actual coast wood thrive tissue awful parrot bounce city frequent tomato";
+var mnemonic = "hungry combine calm winter enable matter text agree crumble taxi fan maze";

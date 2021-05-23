@@ -1,1 +1,1 @@
-var mnemonic = "rich artwork pony ripple actor riot obtain chaos sibling cabbage change debris";
+var mnemonic = "prevent primary lens rent clay repeat gap tag empty asthma riot arena";

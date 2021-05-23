@@ -1,1 +1,1 @@
-var mnemonic = "crisp flavor asthma price head volcano hurry kit brush trust parrot viable";
+var mnemonic = "fog shuffle reduce current maid tortoise breeze moral butter neutral rapid teach";

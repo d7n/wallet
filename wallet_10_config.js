@@ -1,1 +1,1 @@
-var mnemonic = "melody cloud vacuum swear luggage frog twenty muscle nest crucial decade sight";
+var mnemonic = "copper twin minute pen home across lawsuit firm endorse deal program orange";

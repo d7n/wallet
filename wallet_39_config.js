@@ -1,1 +1,1 @@
-var mnemonic = "entry prosper weasel powder raccoon ecology large bargain more ginger stumble federal";
+var mnemonic = "disorder spawn quick visual boy cradle dizzy eagle worry monkey height empower";

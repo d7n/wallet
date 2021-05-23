@@ -1,1 +1,1 @@
-var mnemonic = "truck recipe toddler grow bind sponsor wet lawsuit unit since kiss atom";
+var mnemonic = "lady torch now bounce tonight swallow bright castle neglect income exit modify";

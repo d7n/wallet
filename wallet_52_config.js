@@ -1,1 +1,1 @@
-var mnemonic = "there zoo tuition blossom impulse staff neglect receive equip symptom flee control";
+var mnemonic = "leisure solid casual favorite crisp lion swallow method local cigar agree chase";

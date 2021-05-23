@@ -1,1 +1,1 @@
-var mnemonic = "match resource laugh pudding amateur cost antique soul real hello fire engage";
+var mnemonic = "win vibrant okay monkey busy wink other purse team deal oak infant";

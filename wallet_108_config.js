@@ -1,1 +1,1 @@
-var mnemonic = "bar kitten before bag twist urge defense damp glare mobile bracket fruit";
+var mnemonic = "cook glare human above inside vault fox side horror phone unique uncover";

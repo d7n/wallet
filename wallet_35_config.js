@@ -1,1 +1,1 @@
-var mnemonic = "nominee whisper rescue life damp eager toddler spirit amazing delay random fitness";
+var mnemonic = "pony segment pistol liquid minimum sugar lion gentle feature alarm duty rigid";

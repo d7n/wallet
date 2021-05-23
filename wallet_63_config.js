@@ -1,1 +1,1 @@
-var mnemonic = "pitch review sorry doll sorry stamp please earn youth truck achieve image";
+var mnemonic = "hat crane insect kick tumble party evolve margin fork vibrant unlock invest";

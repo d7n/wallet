@@ -1,1 +1,1 @@
-var mnemonic = "airport sauce put aisle spatial six kite ozone october excuse hawk false";
+var mnemonic = "impose echo glad raccoon gain holiday arch spray fashion love midnight question";

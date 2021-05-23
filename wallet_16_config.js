@@ -1,1 +1,1 @@
-var mnemonic = "aware define catch sunset mouse glare solid lab guide pilot special elephant";
+var mnemonic = "flight sponsor chalk clay secret mutual just ship cable slab trap gauge";

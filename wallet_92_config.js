@@ -1,1 +1,1 @@
-var mnemonic = "sad film remove snake guard main switch impose way team wink civil";
+var mnemonic = "violin creek flee piano wing salad echo logic assault mouse daring exercise";

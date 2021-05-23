@@ -1,1 +1,1 @@
-var mnemonic = "flavor client fog lyrics save false nut load layer tribe later canyon";
+var mnemonic = "live material write match inmate local knife coyote fruit draft primary coil";

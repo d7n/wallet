@@ -1,1 +1,1 @@
-var mnemonic = "flip excuse grant rubber soccer abuse stomach doctor field document anchor diary";
+var mnemonic = "aerobic sign rally lady metal fatal wreck produce gaze execute auction lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "local call critic rough risk wisdom install knife tongue junior afraid tray";
+var mnemonic = "answer add tuna coconut slim cloth toast theme shoulder fly radio rail";

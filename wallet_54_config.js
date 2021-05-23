@@ -1,1 +1,1 @@
-var mnemonic = "major where dutch camp pretty vote special educate enroll hollow brick card";
+var mnemonic = "adult negative connect render unaware season census pulp spike match million surround";

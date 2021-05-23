@@ -1,1 +1,1 @@
-var mnemonic = "stock cotton stairs amount liberty potato knee bounce plastic tonight arrest bone";
+var mnemonic = "mistake venue effort ladder gravity album ill crew shove pilot topple isolate";

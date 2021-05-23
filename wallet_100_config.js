@@ -1,1 +1,1 @@
-var mnemonic = "plate state mix square know happy wrestle bone bargain future keep display";
+var mnemonic = "nut notable identify oak auction whip sing hard marine hill few sun";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital spice arrest moral vote board near exhaust hair disease surprise strategy";
+var mnemonic = "subway always item sing awkward hard boss winner symptom ugly runway first";

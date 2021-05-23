@@ -1,1 +1,1 @@
-var mnemonic = "lucky spray crystal cherry sword oppose spread use festival theory bean genius";
+var mnemonic = "lab three funny wool camp able rent mother employ scale guitar vital";

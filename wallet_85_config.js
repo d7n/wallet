@@ -1,1 +1,1 @@
-var mnemonic = "elbow dog lemon noble reject make hub popular sadness diamond memory share";
+var mnemonic = "cupboard february action frog birth edge idea half swap captain skill glory";

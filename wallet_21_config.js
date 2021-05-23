@@ -1,1 +1,1 @@
-var mnemonic = "enroll liberty captain remind gadget vacant also waste family romance tooth round";
+var mnemonic = "route panda want total crowd rough middle resemble frost attract denial food";

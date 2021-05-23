@@ -1,1 +1,1 @@
-var mnemonic = "talent debris never ritual happy boring toe industry dilemma job snap pizza";
+var mnemonic = "order catch valve marble kite moral elite remove grab uniform weekend robot";

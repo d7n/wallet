@@ -1,1 +1,1 @@
-var mnemonic = "ability wave dolphin salon dune repair fire reunion joy reduce sponsor glare";
+var mnemonic = "fantasy great crazy skirt express chuckle supply reflect hedgehog middle agree jewel";

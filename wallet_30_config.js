@@ -1,1 +1,1 @@
-var mnemonic = "call bleak beach lunch project denial come such shaft cram animal observe";
+var mnemonic = "gauge rocket bicycle neutral lonely panel flock pig stove medal daring marble";

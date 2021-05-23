@@ -1,1 +1,1 @@
-var mnemonic = "sample enrich digital copy ski will shop spider magic rail inspire skill";
+var mnemonic = "history dress human guess leisure dove prevent sense rigid enact pottery struggle";

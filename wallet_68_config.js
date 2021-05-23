@@ -1,1 +1,1 @@
-var mnemonic = "stuff insect girl matrix voice worth frame extend sad cream flash portion";
+var mnemonic = "drama raccoon arrow gate whisper drink mushroom lazy among tooth gather scout";

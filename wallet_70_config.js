@@ -1,1 +1,1 @@
-var mnemonic = "rule orchard ostrich race frown brave blossom gas canoe rapid present lounge";
+var mnemonic = "goddess ignore indoor sketch idle element fabric wage any return flee fresh";

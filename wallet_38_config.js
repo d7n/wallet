@@ -1,1 +1,1 @@
-var mnemonic = "timber behave best popular brain regret wrap little collect ancient intact require";
+var mnemonic = "bid acoustic amateur quiz ill normal message series tag smooth slogan jar";

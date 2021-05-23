@@ -1,1 +1,1 @@
-var mnemonic = "imitate gallery reveal impose road culture harsh fix expect salad obey letter";
+var mnemonic = "fame parrot rain castle impulse calm gain quantum noble people dance visual";

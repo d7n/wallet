@@ -1,1 +1,1 @@
-var mnemonic = "old they join average polar skull very video nothing shoulder fabric pull";
+var mnemonic = "dial hurt never eternal juice swallow lens odor level attend focus inner";

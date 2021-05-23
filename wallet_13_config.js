@@ -1,1 +1,1 @@
-var mnemonic = "observe have still citizen boring infant state wine style early power update";
+var mnemonic = "razor crumble insane salad focus interest target assault tobacco palm valley tiny";

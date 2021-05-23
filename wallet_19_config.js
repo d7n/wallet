@@ -1,1 +1,1 @@
-var mnemonic = "ankle mosquito biology raw pear duck cage insect glad toilet lecture panther";
+var mnemonic = "ring floor pilot borrow public clinic scene guess pink tuition rookie eyebrow";

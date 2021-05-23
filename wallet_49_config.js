@@ -1,1 +1,1 @@
-var mnemonic = "together web evolve eager theory artwork page exotic prize world snap trap";
+var mnemonic = "umbrella alcohol donkey craft method pen present quarter much brisk victory afraid";

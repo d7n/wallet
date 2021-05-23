@@ -1,1 +1,1 @@
-var mnemonic = "arrange rice unknown tonight above end enact easy group glass silver diagram";
+var mnemonic = "way try desk dinner wrestle field crater lend citizen damp laugh east";

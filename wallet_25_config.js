@@ -1,1 +1,1 @@
-var mnemonic = "eight this feature twin unable arrange space cost spin struggle crazy betray";
+var mnemonic = "aim client hint jazz upset reform abstract salt return oak poem never";

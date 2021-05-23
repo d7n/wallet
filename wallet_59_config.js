@@ -1,1 +1,1 @@
-var mnemonic = "velvet wrap jungle velvet photo ostrich dish vital train place permit number";
+var mnemonic = "skin option flock celery when zero diagram virtual hero thunder success vacant";

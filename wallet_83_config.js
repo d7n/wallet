@@ -1,1 +1,1 @@
-var mnemonic = "apple thing emerge skirt crunch few funny guard toss extend space have";
+var mnemonic = "crawl often brother champion rebel axis pioneer analyst tonight type paddle dynamic";

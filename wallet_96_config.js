@@ -1,1 +1,1 @@
-var mnemonic = "collect divide dog fitness acoustic disorder above gap someone nation upper bleak";
+var mnemonic = "salmon october swap secret stereo vanish cherry comfort glass empower mechanic orchard";

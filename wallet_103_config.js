@@ -1,1 +1,1 @@
-var mnemonic = "wrist basic grid raccoon shoe rose large enrich bulb inquiry payment lizard";
+var mnemonic = "road day island salute basic tower wall pepper rifle deliver region siege";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch ketchup mountain noise science erode setup unfold educate merry orange harbor";
+var mnemonic = "cactus liar miss circle thunder half grid slender color shuffle vacant globe";

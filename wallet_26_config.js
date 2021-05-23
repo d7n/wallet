@@ -1,1 +1,1 @@
-var mnemonic = "siren you cattle soap tourist capital hire milk foster session spy pencil";
+var mnemonic = "napkin pact hunt jungle mass essence fog script mad tourist celery foil";

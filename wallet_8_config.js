@@ -1,1 +1,1 @@
-var mnemonic = "basket elder join voyage latin curious burden believe someone empower thunder boy";
+var mnemonic = "era label desert replace turtle pave tennis control despair nurse sadness popular";

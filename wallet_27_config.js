@@ -1,1 +1,1 @@
-var mnemonic = "silly flavor brave narrow supreme bachelor climb avoid avoid employ mammal govern";
+var mnemonic = "window mesh run basic boss twist candy grain forum club twenty pole";

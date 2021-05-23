@@ -1,1 +1,1 @@
-var mnemonic = "uncover mouse primary miracle manual mesh abuse sudden frozen uniform rather small";
+var mnemonic = "waste suspect prevent retreat spare between satoshi mystery lunch chicken cricket shy";

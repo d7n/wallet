@@ -1,1 +1,1 @@
-var mnemonic = "picture input success build coast best history prize kangaroo universe suffer text";
+var mnemonic = "diesel advance erosion dish actress emerge hub reform confirm capital giraffe noodle";

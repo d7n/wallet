@@ -1,1 +1,1 @@
-var mnemonic = "when thing equip impulse proof refuse glove combine poem burden female wear";
+var mnemonic = "broccoli economy daring sketch only artefact artist own naive recall whale notice";

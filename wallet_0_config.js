@@ -1,1 +1,1 @@
-var mnemonic = "toy chuckle split other rate initial box security cupboard process crater wrestle";
+var mnemonic = "city cancel rude camera pass ritual nuclear worry pencil odor achieve bronze";

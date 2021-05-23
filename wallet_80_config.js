@@ -1,1 +1,1 @@
-var mnemonic = "year defense breeze crucial vapor crumble grow note club code because mutual";
+var mnemonic = "amazing jewel feel hour awful lawsuit history snap lounge finish limit crystal";

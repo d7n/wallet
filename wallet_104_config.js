@@ -1,1 +1,1 @@
-var mnemonic = "mesh fuel bulb garage curve vote demise punch build fetch funny basket";
+var mnemonic = "sunny youth index curve carry bracket symbol uncover logic shove seminar effort";

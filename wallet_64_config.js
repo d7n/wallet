@@ -1,1 +1,1 @@
-var mnemonic = "legend next sail night village flash proud ring material wreck rice glue";
+var mnemonic = "sort again dream month moral burden lazy various devote umbrella inflict blame";

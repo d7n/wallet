@@ -1,1 +1,1 @@
-var mnemonic = "coach possible salute shove ripple banana catalog flash narrow wise better stone";
+var mnemonic = "tonight surge supply address identify taxi cup legend airport hand weather dish";

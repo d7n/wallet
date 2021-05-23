@@ -1,1 +1,1 @@
-var mnemonic = "pass jar wedding horn praise cute man artefact afraid word lesson quote";
+var mnemonic = "guess amused couch quality romance accuse shift dune clean pair sense claim";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder cause motion brass fame sea fresh weapon situate useless few check";
+var mnemonic = "chalk health action dash canoe question venture final hope there dog document";

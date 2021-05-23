@@ -1,1 +1,1 @@
-var mnemonic = "refuse dinosaur stumble giggle ensure buffalo tired matrix donor warm group warfare";
+var mnemonic = "annual peasant series hover scout throw diamond seed reveal dice hospital bring";

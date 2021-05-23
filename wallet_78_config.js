@@ -1,1 +1,1 @@
-var mnemonic = "limb town milk start wide sight verify rate behave census echo suit";
+var mnemonic = "strategy tobacco sister remove index usage puzzle party napkin scale elephant animal";

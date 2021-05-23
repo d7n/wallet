@@ -1,1 +1,1 @@
-var mnemonic = "sunset pluck kit spawn razor clarify forum belt will drastic cube alert";
+var mnemonic = "battle arch field hold object version frog hand luxury fancy build around";

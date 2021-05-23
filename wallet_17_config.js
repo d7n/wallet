@@ -1,1 +1,1 @@
-var mnemonic = "summer loyal tent relief tilt spring mule amateur mass autumn damp portion";
+var mnemonic = "heavy cheap clarify drama undo skin carbon coral slush clean unaware hurdle";

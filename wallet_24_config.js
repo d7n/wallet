@@ -1,1 +1,1 @@
-var mnemonic = "orchard evidence pulse snake history casual happy sense nation believe protect tape";
+var mnemonic = "cram there bundle hammer noise silk depth wink prosper try visual vague";

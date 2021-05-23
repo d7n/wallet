@@ -1,1 +1,1 @@
-var mnemonic = "finger protect trim gadget organ tomato oppose other off daring skate employ";
+var mnemonic = "drastic pony cross suggest into garden surprise frequent orphan panel wide choose";

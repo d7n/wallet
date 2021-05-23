@@ -1,1 +1,1 @@
-var mnemonic = "energy museum grit agent bargain drink discover dinner alter soft come hobby";
+var mnemonic = "purse rhythm sight chuckle behind stem toe smooth develop crop metal pluck";

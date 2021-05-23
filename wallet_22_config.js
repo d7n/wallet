@@ -1,1 +1,1 @@
-var mnemonic = "identify summer liquid mango throw kitchen tuition amazing umbrella remove size piece";
+var mnemonic = "same silly disease brave grain settle catalog hollow ask base profit electric";

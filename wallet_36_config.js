@@ -1,1 +1,1 @@
-var mnemonic = "shift engine clinic when cabin file leg guitar wasp capable sister slender";
+var mnemonic = "below coffee exchange spell else gym sentence wing orchard minute hazard lawn";

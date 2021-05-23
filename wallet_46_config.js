@@ -1,1 +1,1 @@
-var mnemonic = "dolphin sense tuna dry develop embark people charge top they tiger gadget";
+var mnemonic = "castle road inside acoustic latin abandon fox struggle fruit chimney pass inherit";

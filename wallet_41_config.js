@@ -1,1 +1,1 @@
-var mnemonic = "festival disorder glide rifle art crunch forum various laptop situate cover tribe";
+var mnemonic = "wear ill audit guess whip student deliver discover crawl clarify negative sponsor";

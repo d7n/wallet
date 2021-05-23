@@ -1,1 +1,1 @@
-var mnemonic = "eight hybrid source shuffle ramp people unit sure force awake feel under";
+var mnemonic = "swap slow token key check tumble sample mountain couple seat clutch bar";

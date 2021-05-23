@@ -1,1 +1,1 @@
-var mnemonic = "sell hill inhale capital nation orbit dress verify virus tomorrow obey flag";
+var mnemonic = "enroll afraid damage carbon satisfy frozen skin shallow weasel success toilet misery";

@@ -1,1 +1,1 @@
-var mnemonic = "throw helmet best barely snack city under gentle urge wild soul buffalo";
+var mnemonic = "anchor shield oyster task fantasy because tattoo equal pigeon panel fancy actress";

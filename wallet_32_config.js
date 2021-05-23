@@ -1,1 +1,1 @@
-var mnemonic = "salad exotic near usage mango world traffic gloom want crew history chimney";
+var mnemonic = "auto hybrid there quick marble frown strong leopard churn play pilot near";

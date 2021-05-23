@@ -1,1 +1,1 @@
-var mnemonic = "glad marine cannon another file remember enter note lucky strike medal pistol";
+var mnemonic = "scissors pistol subway raw peasant taste gain awkward bubble toast game allow";

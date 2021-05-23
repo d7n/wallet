@@ -1,1 +1,1 @@
-var mnemonic = "bless aunt hybrid make high mesh hip loyal actual ostrich rose ladder";
+var mnemonic = "cactus chest avocado chunk stool cabin anger april crisp tape arctic toward";

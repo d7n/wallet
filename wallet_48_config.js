@@ -1,1 +1,1 @@
-var mnemonic = "caution calm leisure gentle live video erosion play this scene athlete photo";
+var mnemonic = "any blossom ladder next champion misery metal enemy drive judge cave light";

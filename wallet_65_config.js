@@ -1,1 +1,1 @@
-var mnemonic = "crop ridge omit aunt aim law awful expose all glow since dog";
+var mnemonic = "mixture ritual jump enact shop valley vital cheese female huge switch public";

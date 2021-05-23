@@ -1,1 +1,1 @@
-var mnemonic = "wool round neutral awake leader install mansion lunar ensure name uniform fatal";
+var mnemonic = "crater world cluster alarm hungry artefact manual town sell banner blush moral";

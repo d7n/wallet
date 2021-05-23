@@ -1,1 +1,1 @@
-var mnemonic = "tissue opinion cry six oak hero lawsuit stomach park wagon round vintage";
+var mnemonic = "novel invite razor stem ranch clip border image south rack blanket vendor";

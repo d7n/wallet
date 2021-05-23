@@ -1,1 +1,1 @@
-var mnemonic = "bubble year pyramid sustain fly six select reform hope hill snap kidney";
+var mnemonic = "sell lounge hen spell cousin exact cry secret mention canyon purity park";

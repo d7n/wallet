@@ -1,1 +1,1 @@
-var mnemonic = "kid grief cake pause puzzle dynamic hybrid borrow void come shoulder syrup";
+var mnemonic = "bachelor bless business sick industry someone axis stuff swap immune echo chair";

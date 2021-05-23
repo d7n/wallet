@@ -1,1 +1,1 @@
-var mnemonic = "chimney rubber congress monkey option approve tiny rate volcano never clip rug";
+var mnemonic = "goose brick guide judge dose never orphan run carry original frequent miss";

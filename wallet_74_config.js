@@ -1,1 +1,1 @@
-var mnemonic = "gospel polar mushroom man ski dad slow usual good gather turn island";
+var mnemonic = "horror young ten like twelve entry armed deposit sure usage dog trend";

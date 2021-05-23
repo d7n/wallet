@@ -1,1 +1,1 @@
-var mnemonic = "never name rather fire liberty win profit menu drift spin course sentence";
+var mnemonic = "visual exact unfair false lava relax annual abstract pipe blade gallery dinosaur";

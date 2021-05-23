@@ -1,1 +1,1 @@
-var mnemonic = "horror flock rely daring tent airport mechanic accuse timber argue palace book";
+var mnemonic = "skin smoke soldier wear celery lesson unlock draft split vote zero select";
