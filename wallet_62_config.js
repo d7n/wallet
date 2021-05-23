@@ -1,1 +1,1 @@
-var mnemonic = "curious pill save window journey twin economy slight green cradle else tank";
+var mnemonic = "nut empower heart gasp budget crew agree travel dance runway client gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "mom broken clap indicate auction cycle ten very trick fix radar tortoise";
+var mnemonic = "machine yellow science century lazy mystery race field frog leopard decade tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "glove either volcano brave photo raccoon puppy clinic giant picnic autumn above";
+var mnemonic = "riot picture chest curious faith marble mixed enable promote ginger audit execute";

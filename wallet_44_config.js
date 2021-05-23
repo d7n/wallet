@@ -1,1 +1,1 @@
-var mnemonic = "benefit dolphin dream globe design cigar beach city match home peasant exile";
+var mnemonic = "control chimney carpet spring offer indoor inch magic script echo school mountain";

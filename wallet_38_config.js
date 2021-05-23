@@ -1,1 +1,1 @@
-var mnemonic = "what prosper brick tag lobster daughter fault coyote cousin access post kitten";
+var mnemonic = "slush cheap involve vocal cruise picnic offer mammal luxury decide ginger teach";

@@ -1,1 +1,1 @@
-var mnemonic = "pig language brain glove chase infant extend boy gadget hockey under six";
+var mnemonic = "daughter surge raw toast despair village rug ice account pyramid adult dolphin";

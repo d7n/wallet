@@ -1,1 +1,1 @@
-var mnemonic = "rent anchor annual neglect human dress quit possible exclude blur tackle front";
+var mnemonic = "poem wet sword mass ostrich eagle april oxygen alley joke risk stick";

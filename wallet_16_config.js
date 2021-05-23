@@ -1,1 +1,1 @@
-var mnemonic = "gadget mosquito mimic patch good region smile awesome autumn iron outer brisk";
+var mnemonic = "uniform old ankle tuition spirit member riot rapid pistol exhibit survey basic";

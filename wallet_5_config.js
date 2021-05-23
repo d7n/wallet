@@ -1,1 +1,1 @@
-var mnemonic = "other tell bird conduct argue fiscal kite estate melody ice sword surge";
+var mnemonic = "scene limb patch urban turn huge frame club monkey cherry runway jazz";

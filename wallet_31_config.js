@@ -1,1 +1,1 @@
-var mnemonic = "cook dice company village kitten mind increase bike gate lawn poverty odor";
+var mnemonic = "dust behave buyer industry inherit prepare note jar path glove dress hawk";

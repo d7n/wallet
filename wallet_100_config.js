@@ -1,1 +1,1 @@
-var mnemonic = "daring arena resemble fork junior prize dawn during zoo apart pet around";
+var mnemonic = "seminar claim nothing nut type trouble turkey spray airport magnet cruise caught";

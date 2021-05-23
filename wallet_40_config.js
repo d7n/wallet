@@ -1,1 +1,1 @@
-var mnemonic = "frost image mix success door hat cousin surface flash deposit index record";
+var mnemonic = "enrich rug table digital long result empower ridge world candy rude runway";

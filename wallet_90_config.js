@@ -1,1 +1,1 @@
-var mnemonic = "crystal coral farm runway critic breeze swear marine rocket toss there misery";
+var mnemonic = "celery focus liquid public upgrade pool safe short burden lock bridge spray";

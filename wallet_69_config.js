@@ -1,1 +1,1 @@
-var mnemonic = "forest horse citizen galaxy level ticket document talk oxygen soldier document garbage";
+var mnemonic = "income flock scale clerk fade marble dirt list logic brass page loud";

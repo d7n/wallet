@@ -1,1 +1,1 @@
-var mnemonic = "absorb stadium foot belt excite cage safe lady energy style note burden";
+var mnemonic = "swarm tape immune shop slice warm panda dirt grunt churn noble arrive";

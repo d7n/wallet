@@ -1,1 +1,1 @@
-var mnemonic = "walnut boil ivory cement metal give option youth produce near north detail";
+var mnemonic = "benefit joy finish pyramid sustain penalty access math deer put extend main";

@@ -1,1 +1,1 @@
-var mnemonic = "despair supply afraid leisure fall essence vehicle draw orange custom curious brain";
+var mnemonic = "elbow wine have mandate double segment green oil struggle another ball talent";

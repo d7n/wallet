@@ -1,1 +1,1 @@
-var mnemonic = "zero follow slide length venture blanket pink bright agent document cage unfold";
+var mnemonic = "mention punch worry april satisfy harsh agent unfair october silk allow insane";

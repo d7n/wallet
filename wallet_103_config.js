@@ -1,1 +1,1 @@
-var mnemonic = "crystal disagree chunk seminar engine slogan jelly connect ozone ceiling original evolve";
+var mnemonic = "juice insane uphold knife pond father home river grass voyage bicycle lens";

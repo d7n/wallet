@@ -1,1 +1,1 @@
-var mnemonic = "submit link skin intact caught raise shiver relax rice combine hat fantasy";
+var mnemonic = "plug slab shoot home phone dynamic caution glance marble shoe senior cloud";

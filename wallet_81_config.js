@@ -1,1 +1,1 @@
-var mnemonic = "impact shoe general oppose employ clump trip notice piece equal iron device";
+var mnemonic = "valid pole cupboard forget iron rare unlock require wrist develop before shrimp";

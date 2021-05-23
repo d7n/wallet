@@ -1,1 +1,1 @@
-var mnemonic = "move anger million ski suggest luggage runway outside pause fetch radar water";
+var mnemonic = "drastic tilt clump smooth picnic theory winter gravity matter catalog tower learn";

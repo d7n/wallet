@@ -1,1 +1,1 @@
-var mnemonic = "summer mass include muscle monkey give trade party shell defy crew empty";
+var mnemonic = "patient sword shove video dignity goat gorilla camera bridge educate access fury";

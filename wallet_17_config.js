@@ -1,1 +1,1 @@
-var mnemonic = "air section funny elegant pizza grass portion present news float cousin recipe";
+var mnemonic = "more wreck west scout outdoor cake buddy discover daughter magnet when bacon";

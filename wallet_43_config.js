@@ -1,1 +1,1 @@
-var mnemonic = "obvious truth hurdle bargain toe wasp announce above ignore border six acquire";
+var mnemonic = "firm hurdle noodle stumble width book quick slender attitude brush plate multiply";

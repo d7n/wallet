@@ -1,1 +1,1 @@
-var mnemonic = "polar reunion sun basic surround erase between elder holiday camera indoor barrel";
+var mnemonic = "sample profit music physical nest benefit nest brief fruit result police someone";

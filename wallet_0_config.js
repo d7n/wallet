@@ -1,1 +1,1 @@
-var mnemonic = "dose loyal winter paddle cruise cruise emotion satisfy laundry vague grow denial";
+var mnemonic = "resource net harbor gown copy notice used infant margin taste thought pool";

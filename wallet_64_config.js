@@ -1,1 +1,1 @@
-var mnemonic = "asset palace gloom force unknown dog approve buffalo horn enemy float about";
+var mnemonic = "chapter zero december force fashion asthma cloud donkey hundred afford solution fruit";

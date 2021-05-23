@@ -1,1 +1,1 @@
-var mnemonic = "liar tip long year narrow exist proof bind trust increase gather work";
+var mnemonic = "enter find salute patch convince fantasy lucky winter wink town loan deal";

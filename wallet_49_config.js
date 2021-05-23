@@ -1,1 +1,1 @@
-var mnemonic = "miracle remember fuel verb cushion narrow upon gossip someone waste visual spend";
+var mnemonic = "decade cool beyond identify ghost miss gauge three poet inner gold country";

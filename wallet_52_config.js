@@ -1,1 +1,1 @@
-var mnemonic = "artist drip clog course million stick leave tissue physical patient space calm";
+var mnemonic = "tiger govern father circle animal soap stone van beauty satisfy zero science";

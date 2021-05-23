@@ -1,1 +1,1 @@
-var mnemonic = "history wasp parade crater penalty rain warrior identify entire country shiver habit";
+var mnemonic = "movie mango token bean stem lift bright furnace recipe spawn glance exhibit";

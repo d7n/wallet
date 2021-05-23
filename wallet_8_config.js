@@ -1,1 +1,1 @@
-var mnemonic = "endless fiscal quality ill turn call pilot beauty reject board cargo table";
+var mnemonic = "strategy increase income aspect news velvet coin prison top also ball disease";

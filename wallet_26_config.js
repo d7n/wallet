@@ -1,1 +1,1 @@
-var mnemonic = "cute negative bind volume fantasy cluster strategy focus whip tenant plunge father";
+var mnemonic = "domain dilemma cry sentence diet tell fit behind monster invest enlist sense";

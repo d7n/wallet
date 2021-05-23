@@ -1,1 +1,1 @@
-var mnemonic = "eternal rich frozen adjust artist cost bean vacant burst thank wealth space";
+var mnemonic = "drum pyramid ghost execute afraid oxygen slush rigid emerge mirror dutch neck";

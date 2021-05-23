@@ -1,1 +1,1 @@
-var mnemonic = "pet equip renew world into life uncover team mammal already regular flat";
+var mnemonic = "present climb flush visit post network acid appear abstract various mushroom range";

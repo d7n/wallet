@@ -1,1 +1,1 @@
-var mnemonic = "whale glue spot arrive attack gentle vicious rabbit recall duck east sting";
+var mnemonic = "roof ten window tribe high piece narrow frequent wrong valley crawl head";

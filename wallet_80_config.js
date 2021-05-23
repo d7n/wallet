@@ -1,1 +1,1 @@
-var mnemonic = "faint develop issue define summer winner humor wisdom jar egg day toddler";
+var mnemonic = "blush earth toilet bomb plug ball broom mean tuna clown guilt govern";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget copper argue traffic album phrase congress coyote enemy advice summer special";
+var mnemonic = "cherry room devote tennis amazing black teach error rough extend hammer hold";

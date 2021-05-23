@@ -1,1 +1,1 @@
-var mnemonic = "note zoo great rally social frown flight bachelor shift north matrix major";
+var mnemonic = "lonely regret chair meat glow broccoli exist kitten deputy top airport walnut";

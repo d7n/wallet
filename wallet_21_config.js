@@ -1,1 +1,1 @@
-var mnemonic = "volume laundry alpha ridge fat cycle canvas word snow day dismiss grace";
+var mnemonic = "soda annual hidden image pigeon ready public nature settle plate entry coffee";

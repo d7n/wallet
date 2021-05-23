@@ -1,1 +1,1 @@
-var mnemonic = "fragile oil reform wagon section admit scene truth quarter mixed nut frozen";
+var mnemonic = "turtle duty unfold novel display skin amazing kangaroo stage swallow fan provide";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle canyon icon humor fringe service miracle hamster gold craft bright trip";
+var mnemonic = "slot token pink need style boost bench useless liberty half talent glass";

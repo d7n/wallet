@@ -1,1 +1,1 @@
-var mnemonic = "round smart drift tone cheap demise beach wagon young soul fold bleak";
+var mnemonic = "letter garage way voyage mutual bus dune gift machine problem struggle supreme";

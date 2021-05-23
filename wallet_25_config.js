@@ -1,1 +1,1 @@
-var mnemonic = "very street delay correct ramp pepper tip clock laptop maximum soccer enroll";
+var mnemonic = "patrol basket kangaroo anxiety puzzle input tissue diary stay quick answer position";

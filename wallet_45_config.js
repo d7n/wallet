@@ -1,1 +1,1 @@
-var mnemonic = "around super shaft shrug virtual delay story deliver search step riot husband";
+var mnemonic = "smoke solve put blade poverty little boss soon session venue injury road";

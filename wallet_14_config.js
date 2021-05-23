@@ -1,1 +1,1 @@
-var mnemonic = "melt enrich profit neglect system shiver dinosaur auto sweet floor zebra divide";
+var mnemonic = "cherry slender convince budget beyond fiscal visit great bulk solar transfer rebuild";

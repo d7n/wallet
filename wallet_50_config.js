@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo mother trim steak dilemma example supreme aim lazy invite inject piece";
+var mnemonic = "tool wagon erupt drastic unaware february damage maid mad truck argue spy";

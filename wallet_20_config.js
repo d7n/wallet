@@ -1,1 +1,1 @@
-var mnemonic = "shock evoke come phrase cry ignore milk couch drill bacon define chaos";
+var mnemonic = "laundry two coin cargo comfort clown catch churn mutual metal miss vanish";

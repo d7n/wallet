@@ -1,1 +1,1 @@
-var mnemonic = "decade peanut assist demand plastic tent skin volcano expect boring accuse embody";
+var mnemonic = "beyond artefact fatal enroll banner mutual shine loud ahead true among correct";

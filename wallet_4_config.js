@@ -1,1 +1,1 @@
-var mnemonic = "mule grain lecture rain laundry nothing balance focus alert birth timber pink";
+var mnemonic = "canoe razor decrease benefit foster gospel upon mixture return fiscal cook flee";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop scrap unique jaguar globe beauty young thought blind garage cable crawl";
+var mnemonic = "cupboard ghost army pudding whale raven broken sketch nothing ten spray caught";

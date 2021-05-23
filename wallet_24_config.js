@@ -1,1 +1,1 @@
-var mnemonic = "velvet stereo finger teach phrase slice nice scrap hip either second party";
+var mnemonic = "crisp inch cabin memory during print noodle outside turtle access garbage village";

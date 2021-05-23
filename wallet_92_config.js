@@ -1,1 +1,1 @@
-var mnemonic = "such obvious remind wing torch funny daughter kangaroo journey visual just crash";
+var mnemonic = "photo similar frequent frog culture afraid divert april junior engage vast pulp";

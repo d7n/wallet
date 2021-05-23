@@ -1,1 +1,1 @@
-var mnemonic = "guide grow leopard smoke artwork bar all club face decline grit canyon";
+var mnemonic = "comfort usage upper nasty unhappy art tired bright stone goat robust decide";

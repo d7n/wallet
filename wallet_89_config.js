@@ -1,1 +1,1 @@
-var mnemonic = "symbol piece arena reform suggest smart canvas park giant tomorrow rather visit";
+var mnemonic = "canyon throw artefact control hat above prize unfair science lawsuit mountain aspect";

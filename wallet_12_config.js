@@ -1,1 +1,1 @@
-var mnemonic = "delay potato drastic afraid gospel grid vanish phone enact blouse decrease drama";
+var mnemonic = "note prosper medal draw genius galaxy autumn minor stamp prison table main";

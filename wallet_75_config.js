@@ -1,1 +1,1 @@
-var mnemonic = "step alpha nuclear butter churn fox actual grow ball example move shift";
+var mnemonic = "gather outer diagram speed hire meat grocery sting divide cushion dismiss net";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin sort damp cable penalty insect merge service bitter add hundred april";
+var mnemonic = "normal volume robot found cliff rib hotel brisk trick day festival federal";

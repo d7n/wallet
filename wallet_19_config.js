@@ -1,1 +1,1 @@
-var mnemonic = "cook cactus wrist carry congress speed crack rate glimpse bless neglect easy";
+var mnemonic = "faint scorpion must ocean hazard toe urban original glow uncle ozone aerobic";

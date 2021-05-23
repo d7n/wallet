@@ -1,1 +1,1 @@
-var mnemonic = "garlic bike bless guilt biology scatter call vendor tent vanish library excite";
+var mnemonic = "wrist donor cotton sell scout vintage hurdle damage chat pig outer success";

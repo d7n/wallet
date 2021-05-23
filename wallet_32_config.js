@@ -1,1 +1,1 @@
-var mnemonic = "same salmon actress weapon thank initial trophy minute limit rebuild say earn";
+var mnemonic = "bamboo adapt organ stuff library night skirt plate auction call coil option";

@@ -1,1 +1,1 @@
-var mnemonic = "high burger else orphan vehicle tip present wife client subway soap thunder";
+var mnemonic = "muffin renew pilot boy volcano isolate keep hollow utility ticket siren crowd";

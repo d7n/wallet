@@ -1,1 +1,1 @@
-var mnemonic = "upon laugh all exhaust beyond people quantum cream ridge relief castle letter";
+var mnemonic = "high drink there pilot dumb core build penalty barrel fame fade bind";

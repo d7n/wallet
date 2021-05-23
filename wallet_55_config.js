@@ -1,1 +1,1 @@
-var mnemonic = "just primary rain caution legend relax crime rally trap swear oak coin";
+var mnemonic = "very begin paper dawn picture such large surround claim access detect neutral";

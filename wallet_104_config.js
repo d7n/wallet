@@ -1,1 +1,1 @@
-var mnemonic = "stable mercy element hope spare usage slide cream inside note horse fish";
+var mnemonic = "inhale admit oppose merge police film correct street balance twenty unveil struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "rather dice grid senior marble film bind gadget arrange express renew walk";
+var mnemonic = "hour slow require acid frame discover defy large orchard public system cloud";

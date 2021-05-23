@@ -1,1 +1,1 @@
-var mnemonic = "tornado lesson focus oxygen employ witness elite earth lottery initial tobacco bulk";
+var mnemonic = "lady month keen siege divorce coach cabbage history glide certain dentist supply";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze chicken exclude please sweet decorate chaos civil inmate skate suit check";
+var mnemonic = "corn razor frog lamp fork result turtle vendor another inflict wall dial";

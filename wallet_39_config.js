@@ -1,1 +1,1 @@
-var mnemonic = "hospital version phrase able runway warm daring lion credit beach canvas correct";
+var mnemonic = "offer express plastic future kitchen repeat escape sport cloud shove curious danger";

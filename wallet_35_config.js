@@ -1,1 +1,1 @@
-var mnemonic = "idle outdoor napkin wrist economy observe term army belt moment thumb delay";
+var mnemonic = "trend magnet program rather spoon layer image fancy dog girl assault matter";

@@ -1,1 +1,1 @@
-var mnemonic = "hair chase agent puppy job garden spot hungry solar also raccoon amused";
+var mnemonic = "know panic ladder basket tiger decide mesh harbor clerk limit exit mystery";

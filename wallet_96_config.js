@@ -1,1 +1,1 @@
-var mnemonic = "fantasy earth trend merit answer guilt rent rebuild above panda hockey nasty";
+var mnemonic = "material issue flag blade toe network pelican much one runway version shed";

@@ -1,1 +1,1 @@
-var mnemonic = "post prison absurd ramp system asset subway village grid stamp token donate";
+var mnemonic = "arena pencil ten bubble combine trigger jeans ring virus used estate kick";

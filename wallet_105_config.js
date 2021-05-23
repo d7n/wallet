@@ -1,1 +1,1 @@
-var mnemonic = "holiday soul wage tonight snack blouse sail town route spoil risk inherit";
+var mnemonic = "sample acquire asset girl access tape blame bread balcony busy when differ";

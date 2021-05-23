@@ -1,1 +1,1 @@
-var mnemonic = "hybrid spoon tomato draft private present depart fuel text sponsor lesson diesel";
+var mnemonic = "stone nest kite decide harvest pyramid turn differ guide trip fuel analyst";

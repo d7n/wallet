@@ -1,1 +1,1 @@
-var mnemonic = "hero satisfy student best carbon maple skirt cradle soldier nut work family";
+var mnemonic = "dilemma page maze capable guide crane noodle hurdle spray exotic garment cradle";

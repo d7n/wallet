@@ -1,1 +1,1 @@
-var mnemonic = "boss humor caution chuckle search main bleak trade sorry school fat blood";
+var mnemonic = "wear pull merry choice sick forget hollow riot feature warm spy wheel";

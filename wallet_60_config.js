@@ -1,1 +1,1 @@
-var mnemonic = "brief bulb rent wise orchard act fringe shaft keen artwork decade engage";
+var mnemonic = "fresh hunt genius rib door field cliff vintage table soul poet fiscal";

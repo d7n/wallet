@@ -1,1 +1,1 @@
-var mnemonic = "october lock mixed average run syrup income dry battle bicycle divert circle";
+var mnemonic = "replace spell coach inquiry upon best corn win net soap stool habit";

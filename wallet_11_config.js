@@ -1,1 +1,1 @@
-var mnemonic = "grunt episode blanket guitar tortoise riot control feed real bronze loan void";
+var mnemonic = "sting mobile when flash radar syrup educate sentence sing will sniff scatter";

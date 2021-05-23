@@ -1,1 +1,1 @@
-var mnemonic = "social around beach castle girl rookie sick about hole borrow suit clean";
+var mnemonic = "slight fox wet satoshi meat knife hire check fish drama travel flavor";

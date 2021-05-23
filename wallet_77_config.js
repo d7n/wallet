@@ -1,1 +1,1 @@
-var mnemonic = "adult parent manage direct open cake trophy move aisle awful calm deer";
+var mnemonic = "promote bamboo music rare vehicle zoo shoot scare science smooth hockey female";

@@ -1,1 +1,1 @@
-var mnemonic = "current what foil gap retreat nation merit knife indoor swarm pond hour";
+var mnemonic = "barrel engage bus refuse bless fancy toss text uphold winter width act";

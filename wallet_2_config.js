@@ -1,1 +1,1 @@
-var mnemonic = "funny forum labor accident excite path slender summer jazz amount cash same";
+var mnemonic = "forget coach trap advice ritual battle enjoy canal layer aerobic long arch";
