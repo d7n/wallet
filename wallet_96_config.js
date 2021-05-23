@@ -1,1 +1,1 @@
-var mnemonic = "faculty when moment wave ribbon drama clerk admit holiday govern estate apology";
+var mnemonic = "drill kitten leader milk control cash immense laptop famous debris brother screen";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar crash notice scene blush robot habit horn wasp hope document margin";
+var mnemonic = "eagle pull machine grit write find sphere harvest report unveil harsh rule";

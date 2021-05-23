@@ -1,1 +1,1 @@
-var mnemonic = "style laugh guess learn mass glory impact impose inhale wreck scheme cancel";
+var mnemonic = "lava nut bubble quiz weekend tiny cause man deposit select genre tent";

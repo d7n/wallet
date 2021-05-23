@@ -1,1 +1,1 @@
-var mnemonic = "junk possible churn put upon humor main wood engine envelope pig object";
+var mnemonic = "wear donor skill blouse clown place gravity half rich snap purity club";

@@ -1,1 +1,1 @@
-var mnemonic = "crush kid culture brain sorry easily erase violin junior convince unique vendor";
+var mnemonic = "draft pride sphere biology velvet dry math embody false chest fun evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "nose alien future shoot disease glory cattle trumpet normal sell bean destroy";
+var mnemonic = "curve credit farm sun depend trumpet food educate trick vault tone fever";

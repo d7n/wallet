@@ -1,1 +1,1 @@
-var mnemonic = "pioneer ridge duck camera spirit range hundred destroy banana pigeon illegal apology";
+var mnemonic = "broccoli immune side search abuse zero cabin fox rocket depend pole just";

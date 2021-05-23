@@ -1,1 +1,1 @@
-var mnemonic = "ball inch engage valley advance response bracket shell zebra feed clown century";
+var mnemonic = "siege slab lunch marine mimic tower lamp whisper grape script wild forget";

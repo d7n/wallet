@@ -1,1 +1,1 @@
-var mnemonic = "limit again fox reopen scrap physical autumn window light search view work";
+var mnemonic = "hold hair nephew fatal evidence crowd merry enemy ripple almost good stick";

@@ -1,1 +1,1 @@
-var mnemonic = "theme document mystery couch symbol fluid weather deny amount minor eight slow";
+var mnemonic = "curve easy fitness foster disorder train dress parent faint loan series good";

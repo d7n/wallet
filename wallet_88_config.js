@@ -1,1 +1,1 @@
-var mnemonic = "believe empty place garlic grape genius future twin cross certain forward predict";
+var mnemonic = "test margin winter adapt photo economy smart broken side large execute use";

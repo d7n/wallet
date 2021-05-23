@@ -1,1 +1,1 @@
-var mnemonic = "axis aisle galaxy knock soccer gauge royal raven story tower dad nice";
+var mnemonic = "demise survey picnic pill deal empower address town divide armed clarify churn";

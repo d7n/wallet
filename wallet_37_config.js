@@ -1,1 +1,1 @@
-var mnemonic = "atom brass garment expose ignore cry vault purpose radio find fault daughter";
+var mnemonic = "trip business capable loop orphan arrow retreat horror oven machine cricket amount";

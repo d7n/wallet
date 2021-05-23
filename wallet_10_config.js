@@ -1,1 +1,1 @@
-var mnemonic = "ancient salt dinner track strike length soda jaguar busy veteran lobster swap";
+var mnemonic = "predict pool narrow perfect harvest velvet help random labor coast globe spawn";

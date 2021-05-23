@@ -1,1 +1,1 @@
-var mnemonic = "radar gaze gallery dream argue picture level pool hill scatter banner rhythm";
+var mnemonic = "canyon worth ghost stage cram output trash cigar boat pretty soul access";

@@ -1,1 +1,1 @@
-var mnemonic = "giant knee spider cruise enemy relax nut monster fox enact reveal enroll";
+var mnemonic = "type comic coffee deputy season omit mask purse veteran crowd fun together";

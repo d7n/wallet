@@ -1,1 +1,1 @@
-var mnemonic = "police shine tennis shell erode version sign swift rate behind moral parade";
+var mnemonic = "faith step casual sphere transfer february little turkey aerobic favorite left erase";

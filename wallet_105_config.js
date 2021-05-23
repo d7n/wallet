@@ -1,1 +1,1 @@
-var mnemonic = "trip rice equip expose bomb shuffle author time energy favorite diagram box";
+var mnemonic = "pelican frame voyage flash cupboard stool wide expose blind tray steel ginger";

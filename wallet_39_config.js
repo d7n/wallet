@@ -1,1 +1,1 @@
-var mnemonic = "spend monitor sadness demise genius journey destroy thunder ensure general canal rent";
+var mnemonic = "panther under honey nephew toddler trade human lunar where wool ketchup mule";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant govern stage human balcony dawn river estate sustain web disagree hour";
+var mnemonic = "sample sure enough unveil assault portion child own inner bitter fee flash";

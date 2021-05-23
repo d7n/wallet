@@ -1,1 +1,1 @@
-var mnemonic = "festival biology hover merge acid forward alcohol cute sunny luggage admit express";
+var mnemonic = "daughter daughter mosquito advice they danger veteran turtle repair upset slot they";

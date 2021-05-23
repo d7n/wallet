@@ -1,1 +1,1 @@
-var mnemonic = "drama eyebrow two client blouse worth roast sponsor spirit copy fury sting";
+var mnemonic = "either bread story victory fringe leisure often recycle slice lemon taxi echo";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil van item civil illegal mercy rural engage keep mean trash layer";
+var mnemonic = "recall that deputy pause person east hill void true parade shoe time";

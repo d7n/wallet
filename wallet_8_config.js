@@ -1,1 +1,1 @@
-var mnemonic = "hotel okay arrest mother torch duck space donor mutual slice uniform bridge";
+var mnemonic = "oven lens avoid direct tomorrow ten rabbit salmon onion raven impulse sugar";

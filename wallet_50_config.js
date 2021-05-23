@@ -1,1 +1,1 @@
-var mnemonic = "will book bleak surge duck mansion light found planet shy crazy reduce";
+var mnemonic = "script moral rescue shoe pool twin treat great add glass pitch canvas";

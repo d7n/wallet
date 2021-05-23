@@ -1,1 +1,1 @@
-var mnemonic = "survey obey essence tortoise album angle grant spare meat view person dance";
+var mnemonic = "other magnet mail glory cause flat glove diet pig sustain expect dirt";

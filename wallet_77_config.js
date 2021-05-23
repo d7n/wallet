@@ -1,1 +1,1 @@
-var mnemonic = "dignity team series beef verb scan warm other notice increase segment weekend";
+var mnemonic = "betray flame possible wash pause work liquid perfect flag circle join dose";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew riot sign pigeon gate curtain cycle shadow pumpkin service baby tiny";
+var mnemonic = "drama picnic gap sudden crop grape bone dismiss hard fury hybrid stumble";

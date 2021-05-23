@@ -1,1 +1,1 @@
-var mnemonic = "illegal stool cat tongue box boring alert pencil clutch bridge grass olympic";
+var mnemonic = "snow fat ketchup narrow pigeon west swap uncle egg clay share arrow";

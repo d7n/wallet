@@ -1,1 +1,1 @@
-var mnemonic = "summer curtain cream sniff insane leave picnic snow behind fame wait panic";
+var mnemonic = "naive frost trouble enforce accident casino social promote pulp sick captain digital";

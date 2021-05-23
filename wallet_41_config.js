@@ -1,1 +1,1 @@
-var mnemonic = "easy paper coast brass interest promote enroll best work auction prosper plate";
+var mnemonic = "sadness half front old oak nature city balance fiction fossil improve monster";

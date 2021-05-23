@@ -1,1 +1,1 @@
-var mnemonic = "old armor depth inherit bless arrange wheat evoke mule round open guilt";
+var mnemonic = "warfare wheat list that cluster relief rain reunion seminar input cradle ginger";

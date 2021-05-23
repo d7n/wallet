@@ -1,1 +1,1 @@
-var mnemonic = "power cube choice cause reward ignore head object crime conduct cargo approve";
+var mnemonic = "rabbit under turn wisdom dutch amount area morning repair actor stuff vintage";

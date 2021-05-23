@@ -1,1 +1,1 @@
-var mnemonic = "draft correct sell layer little urban ostrich play beyond recall tiger happy";
+var mnemonic = "clean target immense unaware churn arena odor gravity depart lawsuit disagree destroy";

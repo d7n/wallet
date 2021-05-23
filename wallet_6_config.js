@@ -1,1 +1,1 @@
-var mnemonic = "attract topic odor receive bring mesh brush tower radar vanish normal dawn";
+var mnemonic = "walnut rigid lesson bench office spread destroy coast balance galaxy sibling series";

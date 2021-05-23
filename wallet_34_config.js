@@ -1,1 +1,1 @@
-var mnemonic = "piano trial gauge duck law unique earn host manage domain punch accident";
+var mnemonic = "middle pair lens army foot cup neck eternal stomach book script occur";

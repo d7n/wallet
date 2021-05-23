@@ -1,1 +1,1 @@
-var mnemonic = "energy weapon ten error air knock light bracket major duck tribe height";
+var mnemonic = "one ostrich sing girl circle visa profit require tell danger picture later";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory feature silly elite napkin grain fossil gospel cancel prepare lazy cheese";
+var mnemonic = "chimney list blush acquire online frown design pluck pledge donate reunion flight";

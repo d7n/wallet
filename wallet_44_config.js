@@ -1,1 +1,1 @@
-var mnemonic = "economy brass current stuff action opera three bonus language turtle chase else";
+var mnemonic = "language topic drill fine primary indicate flip chunk cash citizen olive armor";

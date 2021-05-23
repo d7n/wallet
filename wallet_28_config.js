@@ -1,1 +1,1 @@
-var mnemonic = "biology soon weapon crazy gauge vicious beach confirm asthma sister tragic bench";
+var mnemonic = "regular wealth sister kangaroo aim will biology vault service stomach yard never";

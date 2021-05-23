@@ -1,1 +1,1 @@
-var mnemonic = "satisfy winner fury sunny crash three venture extra blush lottery print view";
+var mnemonic = "improve explain boring destroy script eight planet wasp typical actual wolf settle";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion detect legal post gain neck settle multiply gossip virtual crime lunch";
+var mnemonic = "okay scrub room clog proud gossip idea bleak suit way two file";

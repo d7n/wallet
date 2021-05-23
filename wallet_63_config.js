@@ -1,1 +1,1 @@
-var mnemonic = "sun forget second guess great demise genre muscle crystal hire crucial dose";
+var mnemonic = "tattoo brisk truck egg you merry copper rescue daring indicate march erase";

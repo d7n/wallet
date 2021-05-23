@@ -1,1 +1,1 @@
-var mnemonic = "fitness gasp soda phone find couch point fiction around buzz fat apology";
+var mnemonic = "conduct affair lock sing humble hire key bunker scene tone pioneer crater";

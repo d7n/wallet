@@ -1,1 +1,1 @@
-var mnemonic = "project list favorite enough rib common mercy high turn cotton control renew";
+var mnemonic = "civil chunk beef trick loan another afford abstract limit you husband air";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid symptom squeeze dress mixture basket fee vessel memory divide stairs correct";
+var mnemonic = "amazing grunt fever stairs book gravity awake audit dust tube goat noble";

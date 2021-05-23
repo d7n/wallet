@@ -1,1 +1,1 @@
-var mnemonic = "diamond emerge earn motor midnight topple absent sea fossil bread urge kitchen";
+var mnemonic = "rifle reveal health admit arrest general bar clerk ancient bachelor lady initial";

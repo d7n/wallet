@@ -1,1 +1,1 @@
-var mnemonic = "hold census naive fork reunion slam woman book install index way hawk";
+var mnemonic = "sport play around lecture hockey impact capable orbit wet volume cram whale";

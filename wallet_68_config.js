@@ -1,1 +1,1 @@
-var mnemonic = "attitude age balance orphan craft shadow seek pottery fancy spice chicken school";
+var mnemonic = "hospital title swamp fog poverty patrol burden solid stay lonely gadget machine";

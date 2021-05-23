@@ -1,1 +1,1 @@
-var mnemonic = "satoshi play judge more virtual caution green know giant camera capable adapt";
+var mnemonic = "river climb lock velvet refuse park seed regular father bachelor devote trumpet";

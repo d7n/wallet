@@ -1,1 +1,1 @@
-var mnemonic = "rug image orbit enhance neck try history million flower trim exercise culture";
+var mnemonic = "summer area hurt skull enable reveal exile top blouse twist crunch quality";

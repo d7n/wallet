@@ -1,1 +1,1 @@
-var mnemonic = "omit embrace casual nothing evoke west health erupt skate bean question track";
+var mnemonic = "grant blouse upgrade blue cigar hazard local they sea home put accident";

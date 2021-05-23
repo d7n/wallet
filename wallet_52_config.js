@@ -1,1 +1,1 @@
-var mnemonic = "duck confirm cradle noodle damage empty decade steel space unfair frown figure";
+var mnemonic = "daring sight gentle doll maple hair lock code dish final river west";

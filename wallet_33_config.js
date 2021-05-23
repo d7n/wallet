@@ -1,1 +1,1 @@
-var mnemonic = "style art manage cliff rough celery heavy furnace poet wool portion doll";
+var mnemonic = "arrow present language common cage romance tissue manual capable display stock glance";

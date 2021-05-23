@@ -1,1 +1,1 @@
-var mnemonic = "endorse upset midnight potato bar east attend such chest vanish grant gloom";
+var mnemonic = "trip online nest burst glory guitar shoot toast fantasy olympic bachelor curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "behind miracle special alter together produce quiz artwork circle peace husband maple";
+var mnemonic = "grass spell abuse weather vanish escape exercise owner expand mouse fork milk";

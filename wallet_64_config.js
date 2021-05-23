@@ -1,1 +1,1 @@
-var mnemonic = "hunt obscure radio color cannon trip aspect staff cube shuffle tone drum";
+var mnemonic = "retreat notice loop sister clown turtle car clarify essay fancy hour trigger";

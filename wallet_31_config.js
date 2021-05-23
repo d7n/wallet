@@ -1,1 +1,1 @@
-var mnemonic = "vacuum favorite height dinner few rookie indicate cheese junior pistol bronze that";
+var mnemonic = "render zebra fuel pull brother record first message phrase oxygen between soccer";

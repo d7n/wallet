@@ -1,1 +1,1 @@
-var mnemonic = "lady symbol adjust gun praise place online upon stable arm solve major";
+var mnemonic = "first fortune boss cat air bulk stamp strong warrior clinic repair coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "sister coyote clarify wasp enact marriage twenty myth fat wedding receive obtain";
+var mnemonic = "fix junk alert silk jelly stand sample across smoke path pledge juice";

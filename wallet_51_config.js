@@ -1,1 +1,1 @@
-var mnemonic = "enable music rocket plastic wire present beauty bright stage reject gun boy";
+var mnemonic = "evolve abandon phone march industry group stove poet story disease open client";

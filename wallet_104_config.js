@@ -1,1 +1,1 @@
-var mnemonic = "pistol charge mad relief quantum dismiss ugly ripple fix hole cradle gasp";
+var mnemonic = "curtain tumble garage will cart uniform energy safe target stick mimic home";

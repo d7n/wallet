@@ -1,1 +1,1 @@
-var mnemonic = "sponsor wool surge swift cage mention life cement canoe corn news normal";
+var mnemonic = "venue spider street draft swing fragile loud frequent town render air shallow";

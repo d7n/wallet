@@ -1,1 +1,1 @@
-var mnemonic = "brand thank welcome can lend route clog pass solar visual pact valid";
+var mnemonic = "flash boring punch memory artist danger master distance wrist range add roof";

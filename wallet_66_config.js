@@ -1,1 +1,1 @@
-var mnemonic = "smooth choice jaguar rubber worth length dentist immune vapor inhale slight thumb";
+var mnemonic = "world text space relief sudden average dwarf moral mystery text drive upset";

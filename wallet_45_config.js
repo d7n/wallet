@@ -1,1 +1,1 @@
-var mnemonic = "chest banana left fire private giraffe quarter jaguar source tent essay ensure";
+var mnemonic = "artwork lamp say lunch crater canal tent energy key month siren vast";

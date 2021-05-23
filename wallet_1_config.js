@@ -1,1 +1,1 @@
-var mnemonic = "erupt civil swamp accident slogan print hard insane menu find rough panic";
+var mnemonic = "unhappy nothing doll fence cream eyebrow top bag police alarm lab lemon";

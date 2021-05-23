@@ -1,1 +1,1 @@
-var mnemonic = "garlic frown family candy outside turn inspire zone episode grief dizzy image";
+var mnemonic = "execute verify sorry point east guide suit slice picnic course scheme museum";

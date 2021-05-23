@@ -1,1 +1,1 @@
-var mnemonic = "current spirit term film motor baby lawsuit fashion reflect enact armed acoustic";
+var mnemonic = "cruel report mistake olympic glue offer outdoor enlist easily narrow image lemon";

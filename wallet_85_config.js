@@ -1,1 +1,1 @@
-var mnemonic = "slow jealous supreme marble trouble club pretty stage rely sister rough indoor";
+var mnemonic = "medal tide approve where advance kitten gadget bean arrive tornado document album";

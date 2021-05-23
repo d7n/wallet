@@ -1,1 +1,1 @@
-var mnemonic = "vapor perfect magic scan crowd front fly scene orbit crater almost kidney";
+var mnemonic = "behind false between milk bargain clog vessel clown grit pilot run pride";

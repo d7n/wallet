@@ -1,1 +1,1 @@
-var mnemonic = "sadness version auto wear grass guilt tenant flash project dragon short cousin";
+var mnemonic = "bicycle silver anger program fiber slow maximum click income million century case";

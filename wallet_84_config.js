@@ -1,1 +1,1 @@
-var mnemonic = "kitten effort vessel cart napkin atom all worth second spoon boring liberty";
+var mnemonic = "west tourist clerk museum spoil arm desert flame title corn wedding simple";

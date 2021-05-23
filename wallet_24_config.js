@@ -1,1 +1,1 @@
-var mnemonic = "combine health bronze arch issue asset maid talent clinic differ truck engine";
+var mnemonic = "quote because humor soldier mimic mystery lunar gallery inflict noise view rhythm";

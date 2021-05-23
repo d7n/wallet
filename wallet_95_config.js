@@ -1,1 +1,1 @@
-var mnemonic = "yard almost dragon nut elbow myself hat panic mobile finger turn cushion";
+var mnemonic = "emotion disease silver grief entry slight spike pluck ride code brown main";

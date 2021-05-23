@@ -1,1 +1,1 @@
-var mnemonic = "insect clump muffin pool blame orange never grain control home bundle ride";
+var mnemonic = "roast kick raven powder insane mean fiction survey file lunar safe road";

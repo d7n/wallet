@@ -1,1 +1,1 @@
-var mnemonic = "describe old trophy theme balance exist pig bubble wild silly solution embark";
+var mnemonic = "sick fence there topple sentence car renew stumble escape denial reflect onion";

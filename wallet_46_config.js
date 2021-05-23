@@ -1,1 +1,1 @@
-var mnemonic = "keep scare sense guitar pull gun bind civil cluster panda ten raccoon";
+var mnemonic = "stand large library sponsor save repeat autumn fox public plate bomb isolate";

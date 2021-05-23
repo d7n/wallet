@@ -1,1 +1,1 @@
-var mnemonic = "tag among ancient organ fossil resemble lottery scrap draft wealth magnet crucial";
+var mnemonic = "edit knee ice because hand love popular eagle strategy tennis exile clean";

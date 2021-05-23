@@ -1,1 +1,1 @@
-var mnemonic = "cabbage action swap betray slow what wild decrease try exchange follow display";
+var mnemonic = "cabin cotton bid shoe floor purse fiction kingdom oven puppy gossip wheel";

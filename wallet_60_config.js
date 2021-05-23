@@ -1,1 +1,1 @@
-var mnemonic = "smoke found betray acquire hurdle oyster puppy poet excite eager mimic caught";
+var mnemonic = "vintage gentle parent occur clay prefer better alcohol sugar pulse blue input";

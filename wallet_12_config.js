@@ -1,1 +1,1 @@
-var mnemonic = "large choose dutch unveil bundle middle absent effort soft shoulder need figure";
+var mnemonic = "motor mercy uncle battle width swap material rude sheriff forest little clutch";

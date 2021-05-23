@@ -1,1 +1,1 @@
-var mnemonic = "budget recycle elegant ecology vendor carpet will apple way mountain lounge vapor";
+var mnemonic = "reopen else citizen solution spoon very hip cancel false pepper profit skate";

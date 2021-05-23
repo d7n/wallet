@@ -1,1 +1,1 @@
-var mnemonic = "often survey once learn bottom critic camera exile fee snack boss indicate";
+var mnemonic = "task carpet office hurry bubble devote debris present prosper noise few wood";

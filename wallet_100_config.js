@@ -1,1 +1,1 @@
-var mnemonic = "cricket young dose reopen model approve detect protect ordinary gain know execute";
+var mnemonic = "nation stock company heavy cat surge remain earth female lucky course gown";

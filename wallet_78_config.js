@@ -1,1 +1,1 @@
-var mnemonic = "merit stock end ill inside cluster water fringe wreck spot book miracle";
+var mnemonic = "speed slogan gorilla outer when wild loud move into rent destroy flower";

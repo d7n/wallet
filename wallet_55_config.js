@@ -1,1 +1,1 @@
-var mnemonic = "food empower allow require column inner antique brown ivory tragic bless skull";
+var mnemonic = "dolphin evolve junk fork dune rural infant attend roast six thing robot";

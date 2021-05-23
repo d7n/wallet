@@ -1,1 +1,1 @@
-var mnemonic = "embrace glue orchard nose alien pulp park craft arrow mushroom summer negative";
+var mnemonic = "test yard derive prepare decorate jaguar mother truly unveil parade barely word";

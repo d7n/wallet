@@ -1,1 +1,1 @@
-var mnemonic = "advance today engage enough radio decorate egg round trade assume cross seminar";
+var mnemonic = "analyst problem scrub elevator mule six liar holiday pet maximum gentle oil";

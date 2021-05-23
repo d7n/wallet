@@ -1,1 +1,1 @@
-var mnemonic = "term congress original miracle champion movie crash hidden like isolate mad unit";
+var mnemonic = "exist february certain increase reopen panther magnet lake puppy zone bitter segment";
