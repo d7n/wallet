@@ -1,1 +1,1 @@
-var mnemonic = "dog auction miracle panel girl public bicycle chest scale turkey acquire rural";
+var mnemonic = "life misery cool bicycle shoulder shove bamboo squirrel will duck spread this";

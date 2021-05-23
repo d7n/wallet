@@ -1,1 +1,1 @@
-var mnemonic = "legend quality daring twenty certain zebra unhappy orphan merge fancy gesture machine";
+var mnemonic = "truly okay prefer large next rocket over hunt retreat cabin ridge cat";

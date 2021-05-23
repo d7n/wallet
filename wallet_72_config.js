@@ -1,1 +1,1 @@
-var mnemonic = "butter used hamster illness gather cash tortoise cricket fabric image either veteran";
+var mnemonic = "large hunt summer victory primary mule palace feed hand subway figure erupt";

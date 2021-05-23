@@ -1,1 +1,1 @@
-var mnemonic = "lottery fashion pyramid later jar where cloth kit canvas waste victory distance";
+var mnemonic = "globe solve add broom check great abstract spatial need pepper toward denial";

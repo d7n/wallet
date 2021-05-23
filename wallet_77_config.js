@@ -1,1 +1,1 @@
-var mnemonic = "then word duty coin cricket mushroom stable buddy air song protect two";
+var mnemonic = "cinnamon melody shrimp carpet cruel cream moment fabric lady pear artist glue";

@@ -1,1 +1,1 @@
-var mnemonic = "kite divorce uphold avoid gown mushroom cage cherry short coach strategy medal";
+var mnemonic = "until dad room advance recipe possible skill diet ocean other original swamp";

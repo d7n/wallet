@@ -1,1 +1,1 @@
-var mnemonic = "thank shed kangaroo sample pumpkin tail distance butter dizzy profit design turkey";
+var mnemonic = "tiny surprise elegant yard best harvest skirt loyal practice scrap umbrella young";

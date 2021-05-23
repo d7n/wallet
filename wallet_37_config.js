@@ -1,1 +1,1 @@
-var mnemonic = "tooth demand one legend mean cradle penalty tooth bicycle wire bacon thrive";
+var mnemonic = "seed violin bird blood quit curtain patient assault album top hollow parade";

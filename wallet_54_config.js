@@ -1,1 +1,1 @@
-var mnemonic = "stick doctor soccer barely super relax floor ask glimpse victory scan teach";
+var mnemonic = "trigger vocal change nation pyramid walk rose humble large cement robust purse";

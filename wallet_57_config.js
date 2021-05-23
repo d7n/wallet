@@ -1,1 +1,1 @@
-var mnemonic = "spirit camera almost lake banana vicious original indicate garage carbon drastic banner";
+var mnemonic = "demand dwarf frozen crash purity tail liquid maple exotic evolve deny region";

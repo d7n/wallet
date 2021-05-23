@@ -1,1 +1,1 @@
-var mnemonic = "few laundry demise amused erosion meadow boost juice evoke ski possible field";
+var mnemonic = "nest strong unlock raven stereo view glad elite where nice wine flame";

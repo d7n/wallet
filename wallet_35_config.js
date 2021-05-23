@@ -1,1 +1,1 @@
-var mnemonic = "museum dream stock filter solution stuff juice position awake layer flag exist";
+var mnemonic = "liquid rain lion record december syrup tooth jelly chalk control one wet";

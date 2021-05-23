@@ -1,1 +1,1 @@
-var mnemonic = "soul comfort fashion chair broom skill around private fork snack prefer sun";
+var mnemonic = "resource razor then anger twenty chuckle between beach scare under law pact";

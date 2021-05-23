@@ -1,1 +1,1 @@
-var mnemonic = "nurse mushroom square object apology task borrow sight mean puzzle hand embrace";
+var mnemonic = "ginger indicate question imitate any relief swing shift offer noodle language maid";

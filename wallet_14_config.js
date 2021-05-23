@@ -1,1 +1,1 @@
-var mnemonic = "payment sail eternal cup million amateur tomorrow sweet stumble all math divide";
+var mnemonic = "brass lunch silver island december walnut artwork panther iron angry group security";

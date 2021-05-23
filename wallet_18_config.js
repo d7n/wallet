@@ -1,1 +1,1 @@
-var mnemonic = "collect blossom lottery exercise talk enhance valley depend panel velvet shrimp forum";
+var mnemonic = "cotton usage evolve human face twin spin catalog sample usual ready monitor";

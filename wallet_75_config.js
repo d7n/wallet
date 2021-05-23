@@ -1,1 +1,1 @@
-var mnemonic = "voice goat goddess universe flavor warfare visual kick enough pulse front borrow";
+var mnemonic = "odor drift burst gospel capital midnight valley orient social promote develop exile";

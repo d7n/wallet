@@ -1,1 +1,1 @@
-var mnemonic = "panel winter please spring craft broccoli glance hospital purchase visual slam gap";
+var mnemonic = "recycle fat burst vanish body bring mask old render dinner syrup scorpion";

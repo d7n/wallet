@@ -1,1 +1,1 @@
-var mnemonic = "borrow replace mistake fresh fish online vacant duck guide patch nuclear coil";
+var mnemonic = "depth accuse goose myself plunge boy child rival figure opinion almost win";

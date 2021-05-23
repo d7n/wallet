@@ -1,1 +1,1 @@
-var mnemonic = "punch crawl memory minute cross state pioneer slam upset away poem glimpse";
+var mnemonic = "scissors fiber can urban detail candy input parrot dumb jungle arrive deny";

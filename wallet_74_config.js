@@ -1,1 +1,1 @@
-var mnemonic = "pipe burger hood strike punch artist agent spirit magic weapon cage soldier";
+var mnemonic = "pioneer naive liar leader captain order help canyon surprise obscure possible emotion";

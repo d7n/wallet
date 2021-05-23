@@ -1,1 +1,1 @@
-var mnemonic = "cloth surprise judge method long fox isolate unknown banana amazing indoor six";
+var mnemonic = "figure drill tiny always soup flock enemy gravity gadget paper captain acquire";

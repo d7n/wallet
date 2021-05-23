@@ -1,1 +1,1 @@
-var mnemonic = "luggage odor globe language castle fury unhappy fox way birth burst sadness";
+var mnemonic = "become okay canvas time layer phone course junior fire onion birth short";

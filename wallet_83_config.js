@@ -1,1 +1,1 @@
-var mnemonic = "shift eyebrow play cherry steel foam earth proud aunt rule pigeon asthma";
+var mnemonic = "october squeeze junior depart lamp taste prize theme merry fetch shy rubber";

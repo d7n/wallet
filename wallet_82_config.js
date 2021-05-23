@@ -1,1 +1,1 @@
-var mnemonic = "again foam bean run hope exclude arena jungle chronic menu fame rude";
+var mnemonic = "that squirrel dance gym arrest lyrics trial rescue script forward giraffe pupil";

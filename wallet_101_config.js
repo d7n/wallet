@@ -1,1 +1,1 @@
-var mnemonic = "artwork add early hedgehog narrow narrow visa mobile tilt turkey credit permit";
+var mnemonic = "share clap material unfold bid often globe arch olive odor switch awesome";

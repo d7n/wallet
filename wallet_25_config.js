@@ -1,1 +1,1 @@
-var mnemonic = "monster boost fit junk response ugly grief sustain apart what light critic";
+var mnemonic = "hurt symptom subject connect horn good ice dentist enable usual match outside";

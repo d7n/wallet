@@ -1,1 +1,1 @@
-var mnemonic = "deposit purchase pulp atom can omit hawk owner exile summer absurd member";
+var mnemonic = "nothing tornado before off almost burst noodle shift vote derive regular confirm";

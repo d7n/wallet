@@ -1,1 +1,1 @@
-var mnemonic = "tattoo air radio open teach phone milk divert orient hand east silent";
+var mnemonic = "vital lunar silk desert shell aware festival tone fault usual surprise spawn";

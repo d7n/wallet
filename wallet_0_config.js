@@ -1,1 +1,1 @@
-var mnemonic = "evoke curve crunch feature sister ring inquiry acid erode alert embrace cry";
+var mnemonic = "ensure inmate path guard settle jazz wing arrive install injury chair clock";

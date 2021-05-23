@@ -1,1 +1,1 @@
-var mnemonic = "tiny beach gorilla kite slot try air curve gloom source stick explain";
+var mnemonic = "sudden quick ticket almost man hat riot abstract cinnamon gold inherit coast";

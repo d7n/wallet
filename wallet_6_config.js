@@ -1,1 +1,1 @@
-var mnemonic = "reward lazy dirt often group retreat siren toy tiny unfair laugh slender";
+var mnemonic = "couch scare pyramid artist theory record solar prison rule mail height accident";

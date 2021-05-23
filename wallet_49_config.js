@@ -1,1 +1,1 @@
-var mnemonic = "sense fetch winner media enforce hint curve online bundle flight expire party";
+var mnemonic = "iron language warrior object cinnamon hammer stamp raccoon radar auction wheel meat";

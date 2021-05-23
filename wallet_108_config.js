@@ -1,1 +1,1 @@
-var mnemonic = "heart dress swap tonight avocado intact citizen real observe champion bag deliver";
+var mnemonic = "latin caution scheme clog uniform skirt thank jaguar old anger smooth royal";

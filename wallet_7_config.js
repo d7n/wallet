@@ -1,1 +1,1 @@
-var mnemonic = "sting dizzy kit divorce scare banana glass cheap vacant potato tilt fold";
+var mnemonic = "shoulder defense basic document issue island any garden orphan glove stock obscure";

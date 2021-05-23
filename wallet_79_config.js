@@ -1,1 +1,1 @@
-var mnemonic = "random pledge inherit wheat sign inquiry clutch title illegal surround only corn";
+var mnemonic = "eyebrow frost struggle ahead bachelor genius catalog crystal defy cheese nose average";

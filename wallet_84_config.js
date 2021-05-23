@@ -1,1 +1,1 @@
-var mnemonic = "visa mixed moment music cluster snack bachelor conduct print toss funny giant";
+var mnemonic = "away outdoor stereo describe magic brisk private flip figure assault powder summer";

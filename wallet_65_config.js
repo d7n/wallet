@@ -1,1 +1,1 @@
-var mnemonic = "room vocal flee avoid smile bind fade arena fringe skull company enter";
+var mnemonic = "trim amount crunch cereal erupt nature rain kitchen festival episode kiss adult";

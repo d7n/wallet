@@ -1,1 +1,1 @@
-var mnemonic = "unit pepper ribbon act cable nation affair neither divorce junk sleep loud";
+var mnemonic = "discover gather acid recipe nuclear swear tourist spider soon middle lab pepper";

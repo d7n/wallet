@@ -1,1 +1,1 @@
-var mnemonic = "salon debris remain enough settle crawl actor box gown erupt ride youth";
+var mnemonic = "news kind vapor home prepare purchase phrase awake control sock club voyage";

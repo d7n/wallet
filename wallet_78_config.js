@@ -1,1 +1,1 @@
-var mnemonic = "stick ribbon drive thought denial viable usage wrestle pass record bless brain";
+var mnemonic = "fox wall carbon page volume twin season else state weasel winner idle";

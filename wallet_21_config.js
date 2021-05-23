@@ -1,1 +1,1 @@
-var mnemonic = "sauce over judge asset trigger portion plate finish share ability wagon volume";
+var mnemonic = "coconut satisfy family boost someone salmon buddy better hurdle egg when license";

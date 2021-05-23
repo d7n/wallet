@@ -1,1 +1,1 @@
-var mnemonic = "pause tribe live wagon kingdom buddy ahead thing gain index rough sorry";
+var mnemonic = "three soda panda canoe this liar doctor galaxy bonus sketch logic amused";

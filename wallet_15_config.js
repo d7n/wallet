@@ -1,1 +1,1 @@
-var mnemonic = "client walk buyer hungry cool whale burger smile raven tree tape border";
+var mnemonic = "message mystery better else record dinner subway satisfy acquire scale museum math";

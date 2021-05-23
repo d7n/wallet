@@ -1,1 +1,1 @@
-var mnemonic = "enter few interest olive rude whisper zebra dawn depend eternal addict silver";
+var mnemonic = "pigeon clean hint side country rally media elevator link vote stadium frown";

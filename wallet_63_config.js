@@ -1,1 +1,1 @@
-var mnemonic = "cherry orbit change chapter cycle wolf fold left snack want boss oil";
+var mnemonic = "three secret wheat trust code floor rebuild degree spawn project about remain";

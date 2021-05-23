@@ -1,1 +1,1 @@
-var mnemonic = "pony genre good noble noise minimum pact echo sail spell basket carbon";
+var mnemonic = "convince upon scout until obey kingdom head come west tree final cover";

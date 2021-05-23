@@ -1,1 +1,1 @@
-var mnemonic = "impose order slide fiscal deposit lonely control super silly sauce ivory immense";
+var mnemonic = "brick balcony alert crack away snake amount wheat place eye enforce element";

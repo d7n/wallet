@@ -1,1 +1,1 @@
-var mnemonic = "firm sniff diary frog apology network enforce float auction wise husband unique";
+var mnemonic = "slab riot neutral pause exotic gate maid exhaust silly hamster reunion hat";

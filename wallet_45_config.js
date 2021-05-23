@@ -1,1 +1,1 @@
-var mnemonic = "north useful tuna vault ranch faint away joke must junior uphold alpha";
+var mnemonic = "clip resource post able tent practice only state repair equip behave people";

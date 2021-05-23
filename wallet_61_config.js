@@ -1,1 +1,1 @@
-var mnemonic = "silent sock dinosaur play always receive own lawn trick juice prison pass";
+var mnemonic = "pledge limit dignity brick subject lion panic often local tackle student luggage";

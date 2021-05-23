@@ -1,1 +1,1 @@
-var mnemonic = "infant opera assume toast dumb cook deputy canvas rural frown hawk blush";
+var mnemonic = "tone donate region next dust express subject shoulder orbit potato knock prize";

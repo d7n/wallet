@@ -1,1 +1,1 @@
-var mnemonic = "master tattoo satisfy outer worth sauce upper often agree smooth simple dragon";
+var mnemonic = "accident sea raw crunch helmet feel blade draw athlete slight job public";

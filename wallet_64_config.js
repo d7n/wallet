@@ -1,1 +1,1 @@
-var mnemonic = "powder lake idea inhale hamster rural word track mushroom amateur spirit frame";
+var mnemonic = "heavy gallery increase vessel scout artefact rebel garment kiwi dinner wool couch";

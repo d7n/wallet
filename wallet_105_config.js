@@ -1,1 +1,1 @@
-var mnemonic = "grunt raccoon plug also under equip journey prosper farm child pull aerobic";
+var mnemonic = "issue romance list nuclear bar draw movie cigar neglect hunt scout girl";

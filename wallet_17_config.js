@@ -1,1 +1,1 @@
-var mnemonic = "say piece rabbit card achieve harbor squeeze valley gossip elephant thrive relief";
+var mnemonic = "safe purity congress album lemon target conduct guilt rebuild metal hip velvet";

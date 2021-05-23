@@ -1,1 +1,1 @@
-var mnemonic = "nominee whale sketch click trip only talent slab water fat athlete orient";
+var mnemonic = "silly ethics invite teach easily upgrade foster walk peasant title token brain";

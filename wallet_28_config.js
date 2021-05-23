@@ -1,1 +1,1 @@
-var mnemonic = "number royal warfare turtle glimpse portion small brick panther behind urge camera";
+var mnemonic = "swap concert alter chimney skirt sick door impact zero upset iron you";

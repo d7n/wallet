@@ -1,1 +1,1 @@
-var mnemonic = "bubble alien orbit confirm hotel satoshi gloom orient rubber bag virus tennis";
+var mnemonic = "era nature situate foster buddy refuse strategy parrot advice siren gap wait";

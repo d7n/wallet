@@ -1,1 +1,1 @@
-var mnemonic = "student couple phrase credit increase bubble cloth atom oyster puzzle baby bird";
+var mnemonic = "soup female sample harvest guilt able soon involve noise robot sad various";

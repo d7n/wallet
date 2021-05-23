@@ -1,1 +1,1 @@
-var mnemonic = "gown panic ask again anchor movie awake hand found relax slim panel";
+var mnemonic = "easily mimic brush rubber scene consider enlist ask canvas thrive tent hybrid";

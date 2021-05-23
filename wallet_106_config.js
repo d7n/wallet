@@ -1,1 +1,1 @@
-var mnemonic = "mom spy crystal copy reject fame process garden soon must wrestle bean";
+var mnemonic = "measure know step clever short party oxygen hill thumb defy tourist lab";

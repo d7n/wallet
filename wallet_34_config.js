@@ -1,1 +1,1 @@
-var mnemonic = "flat latin crop bid parrot access margin auto slam fish bean doll";
+var mnemonic = "ride this first pet between stomach mix verb learn reflect emerge sad";

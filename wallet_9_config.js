@@ -1,1 +1,1 @@
-var mnemonic = "answer casino stomach snow rack empower alarm donkey three impulse file scout";
+var mnemonic = "misery hurt museum ordinary nurse disagree impulse cake phone drive duty rug";

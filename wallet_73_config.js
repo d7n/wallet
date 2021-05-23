@@ -1,1 +1,1 @@
-var mnemonic = "alley team install brief side swap tourist random fall pelican rare move";
+var mnemonic = "song elbow ridge around faith taxi city wolf regular stool manage need";

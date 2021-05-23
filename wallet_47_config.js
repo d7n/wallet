@@ -1,1 +1,1 @@
-var mnemonic = "family blue rotate what hood amused build fever subject wait steel rigid";
+var mnemonic = "phrase faith treat rack manual face city math rain armed choice salad";

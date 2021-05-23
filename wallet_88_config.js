@@ -1,1 +1,1 @@
-var mnemonic = "crumble ball mansion december arrest climb fire maze repair very tissue prevent";
+var mnemonic = "defense endorse sweet grocery rapid license outer nation trick old quote hungry";

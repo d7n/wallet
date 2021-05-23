@@ -1,1 +1,1 @@
-var mnemonic = "mom toe universe tuition walk skull wing gaze balcony heavy oil river";
+var mnemonic = "chase inject glow cement timber alert dress rally beef rebel hub episode";

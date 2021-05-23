@@ -1,1 +1,1 @@
-var mnemonic = "sketch trend true bomb steel rain mirror soldier expose street erosion wisdom";
+var mnemonic = "dance plate gold joke rate torch hover bitter rebel burden cereal rather";

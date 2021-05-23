@@ -1,1 +1,1 @@
-var mnemonic = "shadow olympic refuse night derive ribbon door elevator inhale fortune model fame";
+var mnemonic = "punch audit catch way where search twelve only bulb popular front nephew";

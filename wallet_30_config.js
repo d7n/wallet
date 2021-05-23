@@ -1,1 +1,1 @@
-var mnemonic = "hold danger dinosaur cost wealth obey maple indicate unhappy kite history phone";
+var mnemonic = "cinnamon enact hunt virus guide column stage whale select fan assault alter";

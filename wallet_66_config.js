@@ -1,1 +1,1 @@
-var mnemonic = "bright sweet ramp gate roof seed airport shoulder fossil wet live lumber";
+var mnemonic = "practice stick kiss glue dawn fabric twelve wish fold purpose toward picture";

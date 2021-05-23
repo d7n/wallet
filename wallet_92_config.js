@@ -1,1 +1,1 @@
-var mnemonic = "flip message arch frozen entire income fever truck bleak paddle crucial portion";
+var mnemonic = "credit fabric now result oven milk prison reform patient gauge return donate";

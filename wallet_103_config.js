@@ -1,1 +1,1 @@
-var mnemonic = "scrap flavor midnight equip boy logic nasty pull ugly seven move hello";
+var mnemonic = "erase chef spend core jewel fashion awake ship trend try amused spoil";

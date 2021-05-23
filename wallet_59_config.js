@@ -1,1 +1,1 @@
-var mnemonic = "sweet input beyond title equal child forest century that smooth siren mouse";
+var mnemonic = "silver essay jazz estate film cereal cattle giant slender defy amount rebuild";

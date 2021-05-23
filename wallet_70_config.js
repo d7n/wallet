@@ -1,1 +1,1 @@
-var mnemonic = "cactus carbon success load decade surface insect rather vault wolf snap awkward";
+var mnemonic = "sand rapid return high night tuition space absurd secret unusual magic argue";

@@ -1,1 +1,1 @@
-var mnemonic = "letter dust elder dial answer disorder health august engine sick regular rose";
+var mnemonic = "pattern skull lake original giggle local grant rug crouch shoulder avocado crouch";

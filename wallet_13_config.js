@@ -1,1 +1,1 @@
-var mnemonic = "wood happy super high habit business fine hire bleak harsh reduce reunion";
+var mnemonic = "thing jewel crystal girl save filter move engage furnace depend celery option";

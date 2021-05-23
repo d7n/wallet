@@ -1,1 +1,1 @@
-var mnemonic = "judge hawk crunch grace abandon outside dance spray flush dawn leaf general";
+var mnemonic = "supreme borrow autumn proof lunar bind limb execute owner only envelope lunch";

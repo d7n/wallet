@@ -1,1 +1,1 @@
-var mnemonic = "crush people barrel media velvet sustain orange slow will kind side story";
+var mnemonic = "kiss sun please thrive creek athlete crop expect rookie version whale route";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow vacant runway urge bitter evidence lion hand coyote swift test annual";
+var mnemonic = "erupt double trick basket animal argue neither humble law dynamic winter adapt";

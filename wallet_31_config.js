@@ -1,1 +1,1 @@
-var mnemonic = "action illness donate jaguar smoke never scrap fatigue square gap depend silent";
+var mnemonic = "chronic great sunset useless achieve clever mansion prison behind express giant rifle";

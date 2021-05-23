@@ -1,1 +1,1 @@
-var mnemonic = "tent ask supreme vault baby actor camera total other cigar wood dish";
+var mnemonic = "fit father clerk sunny people lab bridge mimic very announce soup wife";

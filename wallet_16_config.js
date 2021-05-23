@@ -1,1 +1,1 @@
-var mnemonic = "finish fee impact fox sugar night people protect civil sugar real flush";
+var mnemonic = "common worth until leave hen measure puppy circle duty wait sustain final";

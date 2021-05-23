@@ -1,1 +1,1 @@
-var mnemonic = "company build ability swim fury february letter royal film torch afford shallow";
+var mnemonic = "about rather kidney large police vapor seek stool amateur differ useful leopard";

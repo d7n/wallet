@@ -1,1 +1,1 @@
-var mnemonic = "cloth rent effort spoon liar tray chair physical aisle supply museum power";
+var mnemonic = "they awesome giraffe artwork clarify vessel december race jeans truth paper lawsuit";

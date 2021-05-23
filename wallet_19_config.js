@@ -1,1 +1,1 @@
-var mnemonic = "bundle margin toy boy sun blast crop plunge mandate hedgehog wasp valid";
+var mnemonic = "secret benefit text outside violin december loud banana creek sense found tired";

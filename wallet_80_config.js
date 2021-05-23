@@ -1,1 +1,1 @@
-var mnemonic = "hawk achieve album soap clap potato gate wrist pause broken comfort evidence";
+var mnemonic = "pair violin cargo good account thing stick just couple chaos husband whisper";

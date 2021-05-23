@@ -1,1 +1,1 @@
-var mnemonic = "hope thing village october tip sibling test april original return news error";
+var mnemonic = "penalty drum abandon various sponsor insect opera sound bronze item they hard";

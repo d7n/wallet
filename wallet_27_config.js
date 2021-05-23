@@ -1,1 +1,1 @@
-var mnemonic = "paddle hawk scan tragic kick timber mix welcome ten range runway tower";
+var mnemonic = "fluid napkin mom add gold salute couch melody need mystery later market";

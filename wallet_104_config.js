@@ -1,1 +1,1 @@
-var mnemonic = "replace coil idle stage cat voice slab unfold oyster glory science detail";
+var mnemonic = "absurd space rebuild hidden fold identify main shoot modify output tell rural";

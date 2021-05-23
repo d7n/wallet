@@ -1,1 +1,1 @@
-var mnemonic = "sound reunion double large enemy extra useless middle pink praise come fragile";
+var mnemonic = "truth earth author mimic steel blur valve thrive odor ivory amazing budget";

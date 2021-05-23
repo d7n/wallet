@@ -1,1 +1,1 @@
-var mnemonic = "mother turtle worry organ invest split jeans drip apology water drum extra";
+var mnemonic = "route open eager cake bone left friend match into border garage better";
