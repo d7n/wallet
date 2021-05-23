@@ -1,1 +1,1 @@
-var mnemonic = "shallow hint right carry people drastic helmet tongue injury rotate gas october";
+var mnemonic = "net oppose bind only real announce tiny fancy whisper view place beach";

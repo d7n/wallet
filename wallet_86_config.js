@@ -1,1 +1,1 @@
-var mnemonic = "broken joke large welcome under attitude wheel heart thrive assume exclude assault";
+var mnemonic = "arm neglect member labor scheme put prison tissue make desert flag alter";

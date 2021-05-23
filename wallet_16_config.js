@@ -1,1 +1,1 @@
-var mnemonic = "bring donate protect crack lucky milk rival spy decade drill share focus";
+var mnemonic = "unfold muscle humor depart senior gadget minute luxury occur calm foam enroll";

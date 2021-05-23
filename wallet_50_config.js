@@ -1,1 +1,1 @@
-var mnemonic = "fancy erode mother robot verb green clever pudding denial cluster decorate riot";
+var mnemonic = "mother much law doctor sunny coin cabin monster idle tennis find cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "real topple fly abuse angle color sad excuse valve giggle chuckle taste";
+var mnemonic = "gap split seek use vessel april team film cat will will badge";

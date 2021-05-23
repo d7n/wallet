@@ -1,1 +1,1 @@
-var mnemonic = "earn skull spread ball good slab exchange forward engine fuel west hill";
+var mnemonic = "urban pave satisfy voyage thumb unfair soft kangaroo gas repair captain cancel";

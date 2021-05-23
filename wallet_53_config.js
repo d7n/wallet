@@ -1,1 +1,1 @@
-var mnemonic = "title more arctic mouse tuition axis dinosaur warm crowd raccoon false nation";
+var mnemonic = "index lemon leg snow sock filter connect drama initial hope design valid";

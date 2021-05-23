@@ -1,1 +1,1 @@
-var mnemonic = "purity two fever vague virtual basic surge drum square diagram nation cinnamon";
+var mnemonic = "repeat response castle exclude cattle pyramid obscure oyster faculty polar deny produce";

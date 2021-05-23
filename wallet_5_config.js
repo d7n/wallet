@@ -1,1 +1,1 @@
-var mnemonic = "onion group actor youth reward dream trash lumber ability black surge tornado";
+var mnemonic = "drastic inner tumble equip tuna multiply six arch aerobic thrive casino exhaust";

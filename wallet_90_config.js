@@ -1,1 +1,1 @@
-var mnemonic = "grant circle salon firm chronic address frequent vault ten clarify master such";
+var mnemonic = "siege name sight defy material original original sample wealth surprise alien address";

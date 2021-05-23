@@ -1,1 +1,1 @@
-var mnemonic = "face satoshi kitchen cancel enrich bid shell venue grow hood coyote aisle";
+var mnemonic = "card tape unknown exercise cruel exotic wedding hover wink walk suggest wonder";

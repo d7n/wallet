@@ -1,1 +1,1 @@
-var mnemonic = "gas exhaust anchor admit crash eternal room return winter venue siren mosquito";
+var mnemonic = "chaos short spare scene maid weekend attract detect worry nice loan involve";

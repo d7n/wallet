@@ -1,1 +1,1 @@
-var mnemonic = "weapon swing innocent member horse entire fold expect error awesome repair chase";
+var mnemonic = "cloth earn click multiply desert clay private license modify simple cover more";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus uniform human dynamic fix predict believe stable margin ask toe useless";
+var mnemonic = "credit shop coin original nephew tobacco pitch stock door twist crawl help";

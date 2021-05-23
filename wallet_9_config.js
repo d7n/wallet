@@ -1,1 +1,1 @@
-var mnemonic = "grit gaze century rotate item own number shove staff monster nose leopard";
+var mnemonic = "elbow gaze scare twelve search sister spray ball radio blossom material fatal";

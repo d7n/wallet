@@ -1,1 +1,1 @@
-var mnemonic = "color fun anchor cruel you dentist success blur fever drum valve cloth";
+var mnemonic = "leave blade asset pretty absent embrace ten idea clock vapor auto farm";

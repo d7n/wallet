@@ -1,1 +1,1 @@
-var mnemonic = "pet uncle intact grace pole blame owner endorse one average damp caught";
+var mnemonic = "toss gap anger dilemma wreck parrot cook picnic diet language pull crew";

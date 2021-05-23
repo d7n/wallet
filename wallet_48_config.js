@@ -1,1 +1,1 @@
-var mnemonic = "happy poem into clutch belt chief style dash case demand whip help";
+var mnemonic = "practice pumpkin awake photo sentence news tobacco wire arrow wreck imitate wild";

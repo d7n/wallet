@@ -1,1 +1,1 @@
-var mnemonic = "stove canal tattoo shell alcohol ahead cabin desk divide skate hint frown";
+var mnemonic = "army engine defy fossil bunker asthma trim protect moon addict ostrich snake";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction movie social solar brave dose whale vapor unfold couch skin melt";
+var mnemonic = "unknown mercy hood comic lizard consider host hood farm legal ripple autumn";

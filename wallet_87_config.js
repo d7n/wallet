@@ -1,1 +1,1 @@
-var mnemonic = "spawn gift utility innocent trial drop hunt close sample field absent hunt";
+var mnemonic = "grow planet office own century stem swift enemy pill valve coffee window";

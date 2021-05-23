@@ -1,1 +1,1 @@
-var mnemonic = "record reflect number wreck kick edge motion van soda typical enemy virtual";
+var mnemonic = "parade amount alarm embody wreck kitten enter add supply sting unveil bullet";

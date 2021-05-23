@@ -1,1 +1,1 @@
-var mnemonic = "evidence cycle bitter survey tiny release exotic garden ladder shrug category syrup";
+var mnemonic = "away alien shift repeat sponsor circle metal soccer review kid volcano defense";

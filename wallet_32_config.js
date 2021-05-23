@@ -1,1 +1,1 @@
-var mnemonic = "chat offer fancy latin wild kite prefer clog scout supply garage truly";
+var mnemonic = "link celery canyon popular valve struggle eagle avoid decorate seek just teach";

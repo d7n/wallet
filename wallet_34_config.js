@@ -1,1 +1,1 @@
-var mnemonic = "desk rifle sadness actress office post rhythm hurdle click heavy draft capital";
+var mnemonic = "habit street ensure major someone mistake wise weasel comic spike fork gauge";

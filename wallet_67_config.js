@@ -1,1 +1,1 @@
-var mnemonic = "absorb chase basket trick mail evolve despair motor lamp catch sleep famous";
+var mnemonic = "world fringe print sweet pony enforce artefact ship retreat shield test work";

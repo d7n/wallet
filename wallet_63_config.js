@@ -1,1 +1,1 @@
-var mnemonic = "tissue doll horror gloom kangaroo filter loop present sister cruise infant exercise";
+var mnemonic = "bracket pony nation creek session rabbit champion cool laptop vehicle tone obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "glance can liquid disagree account awake record you jacket debate biology text";
+var mnemonic = "shadow cycle sail achieve plate unfold option book fish oil space crash";

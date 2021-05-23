@@ -1,1 +1,1 @@
-var mnemonic = "picture job patch stumble toilet shadow squirrel quiz jewel bulk venue title";
+var mnemonic = "seat cluster script elder apology hill swear moment wonder daring hurt puzzle";

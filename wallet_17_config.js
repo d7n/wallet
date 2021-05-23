@@ -1,1 +1,1 @@
-var mnemonic = "transfer asset click brisk insane speak bench come practice seek crunch grant";
+var mnemonic = "ball ready fabric time staff jungle monitor eyebrow venture tree blind grace";

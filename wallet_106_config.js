@@ -1,1 +1,1 @@
-var mnemonic = "fine simple sniff again useful art friend drip carbon horror live helmet";
+var mnemonic = "wife cheese find alley master coin steak cricket main menu guide judge";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare region dust resource gather struggle panda thrive hold become double critic";
+var mnemonic = "sunset remember disease cute dad ball envelope gospel silly stuff feel fatal";

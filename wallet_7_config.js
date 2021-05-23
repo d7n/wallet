@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit divert assume gather side stem biology trophy start defense measure slow";
+var mnemonic = "broccoli nuclear buddy choice post impact snap accident state toward provide goose";

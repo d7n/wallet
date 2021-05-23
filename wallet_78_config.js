@@ -1,1 +1,1 @@
-var mnemonic = "render swamp cliff ahead olympic doll segment mass vault escape cabbage flame";
+var mnemonic = "play danger kind game grunt spy hair use bleak love furnace card";

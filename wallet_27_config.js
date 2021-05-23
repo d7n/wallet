@@ -1,1 +1,1 @@
-var mnemonic = "erode error trial boring solution wrong patient dolphin orange viable remain envelope";
+var mnemonic = "model crater fork fatigue repair expose unusual zero estate outside tackle opinion";

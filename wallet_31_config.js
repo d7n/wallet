@@ -1,1 +1,1 @@
-var mnemonic = "decide seven palace road scale require oppose diamond flush harbor level diamond";
+var mnemonic = "army shoot peace cabbage happy rookie roast cliff still menu joy actual";

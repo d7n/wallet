@@ -1,1 +1,1 @@
-var mnemonic = "amateur resemble jar layer ball space series wonder bid saddle fence section";
+var mnemonic = "lonely runway okay observe truck cruel equip ordinary october story collect peasant";

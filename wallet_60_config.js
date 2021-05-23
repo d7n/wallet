@@ -1,1 +1,1 @@
-var mnemonic = "tortoise plunge false cause suffer art jealous vast pen write movie sauce";
+var mnemonic = "drama raccoon fiction assume dress return race hunt casino hamster puzzle member";

@@ -1,1 +1,1 @@
-var mnemonic = "castle mobile rural lobster fun noodle field twice fatigue cage wood trial";
+var mnemonic = "lady jelly peasant laugh change short tourist mistake bind hello main leisure";

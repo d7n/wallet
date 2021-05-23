@@ -1,1 +1,1 @@
-var mnemonic = "install office design wisdom valid space canvas horse surge erupt item horn";
+var mnemonic = "annual zone autumn find response memory list canyon bottom couch execute double";

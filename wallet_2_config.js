@@ -1,1 +1,1 @@
-var mnemonic = "board cave room term giant dose future evil material gentle dash scheme";
+var mnemonic = "else panther host verb about fee flip pelican elegant put purpose curious";

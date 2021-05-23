@@ -1,1 +1,1 @@
-var mnemonic = "cheese cash shell buyer false print material defy daring notable idle solid";
+var mnemonic = "protect title napkin spread report salmon spirit fresh layer pull afford fuel";

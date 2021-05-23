@@ -1,1 +1,1 @@
-var mnemonic = "gasp index distance claw surprise lucky senior body beyond poem peace shell";
+var mnemonic = "blast lawn camp furnace kiss food census final space evolve stable grace";

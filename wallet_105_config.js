@@ -1,1 +1,1 @@
-var mnemonic = "proud seminar panda quantum various spare forget act valve stable cement trip";
+var mnemonic = "aware trim mixture pitch surround soft teach forget seek photo session delay";

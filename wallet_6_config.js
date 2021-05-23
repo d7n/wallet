@@ -1,1 +1,1 @@
-var mnemonic = "high want fiber long profit narrow bid pottery cruel fold name boat";
+var mnemonic = "broken onion lyrics celery pass hour decrease source emotion denial weird peanut";

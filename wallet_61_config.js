@@ -1,1 +1,1 @@
-var mnemonic = "casino radio tent world canvas junk bounce genre news craft exercise huge";
+var mnemonic = "exile dog diagram pottery vacant critic average make key chaos enlist couple";

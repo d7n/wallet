@@ -1,1 +1,1 @@
-var mnemonic = "hundred picture issue glimpse display whale blur choose dad sentence duty custom";
+var mnemonic = "used bronze resemble above black egg civil laugh wide twin giggle extend";

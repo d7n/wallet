@@ -1,1 +1,1 @@
-var mnemonic = "immense panel file juice cliff armor satoshi garlic ginger dwarf august punch";
+var mnemonic = "engage banner ship hub planet tribe success flat vital taxi rely anchor";

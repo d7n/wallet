@@ -1,1 +1,1 @@
-var mnemonic = "shrimp cycle century retreat smile spawn oppose dwarf express bless lab effort";
+var mnemonic = "virtual eyebrow chaos possible fall chef prize dinner olympic treat course boring";

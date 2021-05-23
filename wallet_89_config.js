@@ -1,1 +1,1 @@
-var mnemonic = "session heart recycle decade pilot attend disorder dad victory cycle risk note";
+var mnemonic = "point reflect quantum priority keen token impose song gadget case upper latin";

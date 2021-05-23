@@ -1,1 +1,1 @@
-var mnemonic = "immune bind observe tornado behave someone giraffe gun emotion nation before frog";
+var mnemonic = "situate gauge loud winter normal impose evil wave strong thing bus suit";

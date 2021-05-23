@@ -1,1 +1,1 @@
-var mnemonic = "crater brass route message recall dream consider nothing eagle major you idea";
+var mnemonic = "dirt unhappy will belt thumb labor guess essence become poverty cricket mule";

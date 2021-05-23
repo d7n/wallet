@@ -1,1 +1,1 @@
-var mnemonic = "stamp crisp erupt deny focus else follow relief forest giggle sick pen";
+var mnemonic = "quarter wing truth demand hunt dolphin peanut fire release road pond exclude";

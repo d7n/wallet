@@ -1,1 +1,1 @@
-var mnemonic = "color slot seminar helmet trend various endless juice echo educate piano loop";
+var mnemonic = "diet assist attend plunge adult way ripple promote select worry future rough";

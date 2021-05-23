@@ -1,1 +1,1 @@
-var mnemonic = "silent base river bring swarm squirrel spoil champion divert snack metal devote";
+var mnemonic = "valid olive tissue neither myself mango access enjoy wheel army earn alone";

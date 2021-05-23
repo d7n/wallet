@@ -1,1 +1,1 @@
-var mnemonic = "filter afraid mad ginger bread purpose only custom general cattle pledge crush";
+var mnemonic = "kind vocal boss eagle forward choice follow move system code toddler mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "permit super february relax thank palace hammer warrior bunker royal worry turn";
+var mnemonic = "unhappy vault pizza sun paper put crawl manage soul floor already creek";

@@ -1,1 +1,1 @@
-var mnemonic = "twist grow confirm royal wrestle about opinion weather magic brave found pulse";
+var mnemonic = "current brass squeeze defense timber spoil rebuild write marriage jar bottom cereal";

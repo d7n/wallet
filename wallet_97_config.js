@@ -1,1 +1,1 @@
-var mnemonic = "genius ethics emerge vault dismiss ripple biology fluid eternal salon deny advance";
+var mnemonic = "spike rotate disorder among language extra tent rail sock enter valve wall";

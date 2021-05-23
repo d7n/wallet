@@ -1,1 +1,1 @@
-var mnemonic = "piano year cram indicate custom mansion scrub snack antique tent usual tail";
+var mnemonic = "forum genuine unusual boy polar weekend thought minor awkward chat play private";

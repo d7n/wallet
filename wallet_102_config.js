@@ -1,1 +1,1 @@
-var mnemonic = "lunar inmate process fatal kiwi piano notice fence pigeon school demise omit";
+var mnemonic = "resource detail beyond gym recall meadow frost cruel transfer sunset opinion muffin";

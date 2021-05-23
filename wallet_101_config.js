@@ -1,1 +1,1 @@
-var mnemonic = "salad worry paper total energy olympic believe old tray modify ginger discover";
+var mnemonic = "fresh mesh popular type garage utility trade sadness approve tank excuse hidden";

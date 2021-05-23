@@ -1,1 +1,1 @@
-var mnemonic = "skill snap because now chunk romance case tank labor blood sausage struggle";
+var mnemonic = "patrol gasp steak adapt cruel siege rate armed body candy dragon series";

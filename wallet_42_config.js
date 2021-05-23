@@ -1,1 +1,1 @@
-var mnemonic = "sentence broccoli shield borrow crawl must rhythm pink floor million goose pony";
+var mnemonic = "tornado matter express hover arm dizzy pencil voyage slight annual brief return";

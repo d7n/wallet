@@ -1,1 +1,1 @@
-var mnemonic = "bleak wash ghost column seat north govern staff wrist fabric girl vintage";
+var mnemonic = "wing clean front bind ceiling result lecture neither welcome calm farm chest";

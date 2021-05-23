@@ -1,1 +1,1 @@
-var mnemonic = "zero curve feature build damage cheap begin dish nominee famous nut another";
+var mnemonic = "venture gasp slice clog embody prize horse leaf almost boost require canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "desk weird curtain dolphin discover scare monster pet bachelor remind chef oven";
+var mnemonic = "wagon gorilla reopen settle omit spy giant frozen near mistake observe gesture";

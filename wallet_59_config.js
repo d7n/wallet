@@ -1,1 +1,1 @@
-var mnemonic = "dolphin fun humble pair divert abstract adjust kitchen rabbit dish blue trap";
+var mnemonic = "give fly kiss crystal you foam gesture hunt radio curious mushroom ring";

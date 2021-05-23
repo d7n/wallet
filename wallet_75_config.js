@@ -1,1 +1,1 @@
-var mnemonic = "grace mobile curve tenant father broccoli sell lecture device boss true narrow";
+var mnemonic = "direct pumpkin laundry panic region elbow bronze worry finish august dune group";

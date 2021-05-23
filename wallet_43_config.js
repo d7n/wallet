@@ -1,1 +1,1 @@
-var mnemonic = "tuition mesh announce mutual prison satisfy guide caught winter easy blade walnut";
+var mnemonic = "tuition refuse noise tonight pool play interest accuse embark educate flee loan";

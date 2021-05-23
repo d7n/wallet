@@ -1,1 +1,1 @@
-var mnemonic = "jar mixed ten alley donate slice client pottery will mixed drastic skill";
+var mnemonic = "warm repair scout attend inhale polar carbon extend cook job dust entry";

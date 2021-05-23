@@ -1,1 +1,1 @@
-var mnemonic = "crazy fun double brief stumble auto lottery general awesome autumn joy solid";
+var mnemonic = "custom voyage boring poet useless cute labor print sample busy gravity often";

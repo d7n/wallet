@@ -1,1 +1,1 @@
-var mnemonic = "just mesh achieve home offer aware faith body mimic struggle lend club";
+var mnemonic = "quantum uncover calm clarify ghost purity punch north come alert snack bonus";

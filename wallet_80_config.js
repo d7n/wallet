@@ -1,1 +1,1 @@
-var mnemonic = "shop used rent grief agent hawk renew master balance key youth obtain";
+var mnemonic = "onion once post make pulse cruel suffer theory retire that angry make";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss nasty reduce poet margin excess pluck omit effort soft machine grass";
+var mnemonic = "list train original alpha clown ketchup genius vacuum short concert brother pretty";

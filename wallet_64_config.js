@@ -1,1 +1,1 @@
-var mnemonic = "miss hazard remain deputy never nominee beyond throw unfold magic topic chat";
+var mnemonic = "aware agent deliver denial day riot diagram broken bright hammer ozone cute";

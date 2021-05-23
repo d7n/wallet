@@ -1,1 +1,1 @@
-var mnemonic = "great anchor blast end degree lake solve paddle crowd utility cheap tragic";
+var mnemonic = "elbow canvas paper orient tattoo change purity chaos room market obvious post";

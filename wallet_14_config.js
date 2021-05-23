@@ -1,1 +1,1 @@
-var mnemonic = "effort detail tube fashion leave sand another intact jungle practice item zero";
+var mnemonic = "army miss warrior fit this blind legal deliver rhythm clinic brand rural";

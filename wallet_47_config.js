@@ -1,1 +1,1 @@
-var mnemonic = "lend live top oblige labor once tuna clump bike kit govern label";
+var mnemonic = "million toilet team rebel electric humor leader better depend glue isolate baby";

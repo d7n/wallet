@@ -1,1 +1,1 @@
-var mnemonic = "convince ribbon asset glance memory kind sound ripple hollow absent source meat";
+var mnemonic = "runway arrange morning bamboo orphan mechanic gravity rain focus secret motion trial";

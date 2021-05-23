@@ -1,1 +1,1 @@
-var mnemonic = "shoulder patient fox sweet near ghost spoon vacuum fault devote brief imitate";
+var mnemonic = "call network gun sick unknown trick embrace sun daughter run craft before";

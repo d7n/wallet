@@ -1,1 +1,1 @@
-var mnemonic = "post youth game demand buyer cabin fantasy recipe belt height figure fortune";
+var mnemonic = "snake legal cost kit lady absorb behave material wear food broom cable";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish trash comfort write profit honey apple afford shell series rail topple";
+var mnemonic = "camera cycle purity once person affair dirt gather toddler romance scissors possible";

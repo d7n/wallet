@@ -1,1 +1,1 @@
-var mnemonic = "bundle render slogan umbrella stay ketchup make debate fit fantasy convince stereo";
+var mnemonic = "trend wood sphere state solid gate oven ill adult science casino dish";
