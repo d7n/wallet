@@ -1,1 +1,1 @@
-var mnemonic = "fluid napkin mom add gold salute couch melody need mystery later market";
+var mnemonic = "tomato pudding double symptom burger payment churn review hurry sign senior entry";

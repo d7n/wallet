@@ -1,1 +1,1 @@
-var mnemonic = "fox wall carbon page volume twin season else state weasel winner idle";
+var mnemonic = "future meadow acid fog inmate dust slot bullet attend hybrid resist scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme borrow autumn proof lunar bind limb execute owner only envelope lunch";
+var mnemonic = "pave zero bachelor father alter carbon culture warfare squirrel route diesel hurt";

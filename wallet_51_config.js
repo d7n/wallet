@@ -1,1 +1,1 @@
-var mnemonic = "until dad room advance recipe possible skill diet ocean other original swamp";
+var mnemonic = "call aware cash produce drastic label grow ranch valve copper adapt patient";

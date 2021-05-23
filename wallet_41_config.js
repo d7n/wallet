@@ -1,1 +1,1 @@
-var mnemonic = "manual panda opera actor chicken please vital setup dove elegant balance section";
+var mnemonic = "pattern push trend cost occur venue lemon grow expire wave chef feel";

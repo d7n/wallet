@@ -1,1 +1,1 @@
-var mnemonic = "sudden quick ticket almost man hat riot abstract cinnamon gold inherit coast";
+var mnemonic = "whip sort umbrella shield horse art gun lunar flavor betray more company";

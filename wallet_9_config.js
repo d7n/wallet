@@ -1,1 +1,1 @@
-var mnemonic = "misery hurt museum ordinary nurse disagree impulse cake phone drive duty rug";
+var mnemonic = "figure cousin pretty strike obvious prepare space trap uncover april wreck hour";

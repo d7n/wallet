@@ -1,1 +1,1 @@
-var mnemonic = "sibling inject key input resource pioneer also update thank reflect soon file";
+var mnemonic = "team crouch oblige cook afraid cross ethics obtain toward hurry exercise noodle";

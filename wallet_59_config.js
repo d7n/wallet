@@ -1,1 +1,1 @@
-var mnemonic = "silver essay jazz estate film cereal cattle giant slender defy amount rebuild";
+var mnemonic = "fetch emerge mind suit three carbon hat remind type price antique morning";

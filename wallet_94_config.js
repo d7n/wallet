@@ -1,1 +1,1 @@
-var mnemonic = "truly okay prefer large next rocket over hunt retreat cabin ridge cat";
+var mnemonic = "bunker palm cluster immense erase rival hazard dwarf toilet wagon comfort drastic";

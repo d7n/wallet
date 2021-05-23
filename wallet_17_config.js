@@ -1,1 +1,1 @@
-var mnemonic = "safe purity congress album lemon target conduct guilt rebuild metal hip velvet";
+var mnemonic = "hen hidden employ clump awesome stock task improve crane neck human oyster";

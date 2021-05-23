@@ -1,1 +1,1 @@
-var mnemonic = "drive marble shield winner snack buffalo brush comfort toy harvest spatial you";
+var mnemonic = "small stick season garbage neutral burden cage govern park barrel agent subway";

@@ -1,1 +1,1 @@
-var mnemonic = "leg clown measure can romance light sniff manual slice window monkey dirt";
+var mnemonic = "aware artefact spring pluck advance board panther project baby series police harsh";

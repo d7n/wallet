@@ -1,1 +1,1 @@
-var mnemonic = "magnet teach vital catch danger boring brass scrap student surprise nose carbon";
+var mnemonic = "future permit plate cart latin twist arctic force slender ice trade ill";

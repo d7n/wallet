@@ -1,1 +1,1 @@
-var mnemonic = "discover gather acid recipe nuclear swear tourist spider soon middle lab pepper";
+var mnemonic = "floor town innocent test kangaroo palace inhale knee destroy law shoe exist";

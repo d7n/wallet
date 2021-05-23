@@ -1,1 +1,1 @@
-var mnemonic = "cruel club matrix purse cute blouse annual morning picture habit kidney dinosaur";
+var mnemonic = "glance tuna price voyage vault view two pink sentence essence boost tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt symptom subject connect horn good ice dentist enable usual match outside";
+var mnemonic = "permit help domain local act asset mind lunar confirm coconut supply flag";

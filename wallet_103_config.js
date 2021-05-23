@@ -1,1 +1,1 @@
-var mnemonic = "erase chef spend core jewel fashion awake ship trend try amused spoil";
+var mnemonic = "vivid twenty combine type portion helmet smart daughter disorder panel erode rival";

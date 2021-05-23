@@ -1,1 +1,1 @@
-var mnemonic = "globe solve add broom check great abstract spatial need pepper toward denial";
+var mnemonic = "can gauge joy express rally mango credit viable universe until debris steak";

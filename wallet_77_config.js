@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon melody shrimp carpet cruel cream moment fabric lady pear artist glue";
+var mnemonic = "cake badge empower clap add nasty mammal exchange cabbage come miss plate";

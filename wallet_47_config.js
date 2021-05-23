@@ -1,1 +1,1 @@
-var mnemonic = "phrase faith treat rack manual face city math rain armed choice salad";
+var mnemonic = "error practice sell garage require cheap venue rail drink hope shrimp coach";

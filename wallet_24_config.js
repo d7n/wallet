@@ -1,1 +1,1 @@
-var mnemonic = "depth accuse goose myself plunge boy child rival figure opinion almost win";
+var mnemonic = "position saddle habit never point above silent final scatter ride fancy fly";

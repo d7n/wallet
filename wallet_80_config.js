@@ -1,1 +1,1 @@
-var mnemonic = "pair violin cargo good account thing stick just couple chaos husband whisper";
+var mnemonic = "immense term fiber earn great video blanket unit hundred patrol load ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "nest strong unlock raven stereo view glad elite where nice wine flame";
+var mnemonic = "broccoli lens better dust shine umbrella jewel monkey cluster swap kite allow";

@@ -1,1 +1,1 @@
-var mnemonic = "era nature situate foster buddy refuse strategy parrot advice siren gap wait";
+var mnemonic = "label return rhythm drum expire steel mixture grief top border pave image";

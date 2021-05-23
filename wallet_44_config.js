@@ -1,1 +1,1 @@
-var mnemonic = "about rather kidney large police vapor seek stool amateur differ useful leopard";
+var mnemonic = "dismiss board destroy clean can letter outside meadow avocado favorite pulse turkey";

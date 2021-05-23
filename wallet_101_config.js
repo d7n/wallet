@@ -1,1 +1,1 @@
-var mnemonic = "share clap material unfold bid often globe arch olive odor switch awesome";
+var mnemonic = "volcano cancel lesson casino imitate parrot agent neglect goose fever nephew air";

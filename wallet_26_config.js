@@ -1,1 +1,1 @@
-var mnemonic = "glow pluck electric outdoor illness place layer expect eye metal annual youth";
+var mnemonic = "neutral patch else legal bullet gown morning deputy cheese beauty bean lamp";

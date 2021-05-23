@@ -1,1 +1,1 @@
-var mnemonic = "deliver pistol ride apology eagle rule vicious know armor hospital spoon favorite";
+var mnemonic = "wolf stamp segment inherit rocket gold logic museum matter thing romance token";

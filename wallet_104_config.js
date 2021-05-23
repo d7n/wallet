@@ -1,1 +1,1 @@
-var mnemonic = "absurd space rebuild hidden fold identify main shoot modify output tell rural";
+var mnemonic = "agent snake inherit output mechanic before trick afford pond matter skate tennis";

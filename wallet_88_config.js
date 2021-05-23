@@ -1,1 +1,1 @@
-var mnemonic = "defense endorse sweet grocery rapid license outer nation trick old quote hungry";
+var mnemonic = "goose hold velvet can broom sister lift retreat globe upgrade culture ozone";

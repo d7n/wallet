@@ -1,1 +1,1 @@
-var mnemonic = "pigeon clean hint side country rally media elevator link vote stadium frown";
+var mnemonic = "ocean provide pass quiz matter spoon soda above bicycle magic range blame";

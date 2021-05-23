@@ -1,1 +1,1 @@
-var mnemonic = "recycle fat burst vanish body bring mask old render dinner syrup scorpion";
+var mnemonic = "atom siege surface industry age educate false inquiry consider where toast mom";

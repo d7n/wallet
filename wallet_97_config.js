@@ -1,1 +1,1 @@
-var mnemonic = "life misery cool bicycle shoulder shove bamboo squirrel will duck spread this";
+var mnemonic = "phrase safe universe street digital safe gallery group siege door bullet wash";

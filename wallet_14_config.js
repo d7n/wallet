@@ -1,1 +1,1 @@
-var mnemonic = "brass lunch silver island december walnut artwork panther iron angry group security";
+var mnemonic = "banner add bubble power slight project auto client purity illness scorpion offer";

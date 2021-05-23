@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow frost struggle ahead bachelor genius catalog crystal defy cheese nose average";
+var mnemonic = "gap suit stable inner relax combine arch science layer sudden sudden corn";

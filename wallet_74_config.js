@@ -1,1 +1,1 @@
-var mnemonic = "pioneer naive liar leader captain order help canyon surprise obscure possible emotion";
+var mnemonic = "fuel soon below blade guilt soft control bulb shine produce poverty cake";

@@ -1,1 +1,1 @@
-var mnemonic = "scout ozone cereal tongue gasp fork absorb night stage taste toilet hobby";
+var mnemonic = "muffin hope picture sheriff beef escape lift verify helmet muffin immune write";

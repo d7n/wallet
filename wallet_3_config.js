@@ -1,1 +1,1 @@
-var mnemonic = "accident sea raw crunch helmet feel blade draw athlete slight job public";
+var mnemonic = "denial level globe explain erosion symptom erase grocery cycle crane crawl risk";

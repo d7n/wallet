@@ -1,1 +1,1 @@
-var mnemonic = "punch audit catch way where search twelve only bulb popular front nephew";
+var mnemonic = "seed orbit butter merit reward error own vehicle blade found access frog";

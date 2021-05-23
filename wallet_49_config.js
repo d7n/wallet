@@ -1,1 +1,1 @@
-var mnemonic = "iron language warrior object cinnamon hammer stamp raccoon radar auction wheel meat";
+var mnemonic = "boss boy rotate ocean meat vault visa giggle blind furnace gorilla banner";

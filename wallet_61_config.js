@@ -1,1 +1,1 @@
-var mnemonic = "pledge limit dignity brick subject lion panic often local tackle student luggage";
+var mnemonic = "pitch gadget manage sting live series flat feel shield spell blouse elbow";

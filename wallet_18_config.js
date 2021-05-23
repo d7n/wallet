@@ -1,1 +1,1 @@
-var mnemonic = "cotton usage evolve human face twin spin catalog sample usual ready monitor";
+var mnemonic = "over gaze aware brother verify there globe kick habit kitchen ancient trend";

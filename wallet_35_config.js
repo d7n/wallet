@@ -1,1 +1,1 @@
-var mnemonic = "liquid rain lion record december syrup tooth jelly chalk control one wet";
+var mnemonic = "candy hour crash journey live damage slogan dragon add digital denial panic";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny surprise elegant yard best harvest skirt loyal practice scrap umbrella young";
+var mnemonic = "depend cherry bid usual three century put peanut toddler mother inject forest";

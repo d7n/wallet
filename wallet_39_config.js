@@ -1,1 +1,1 @@
-var mnemonic = "chase inject glow cement timber alert dress rally beef rebel hub episode";
+var mnemonic = "title system impose art topic trophy find edge zebra gadget ostrich hawk";

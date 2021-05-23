@@ -1,1 +1,1 @@
-var mnemonic = "they awesome giraffe artwork clarify vessel december race jeans truth paper lawsuit";
+var mnemonic = "shoot object sight include switch sadness win chief sauce humble clap mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy gallery increase vessel scout artefact rebel garment kiwi dinner wool couch";
+var mnemonic = "special clever space april alley first win trash carbon donor buddy promote";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut satisfy family boost someone salmon buddy better hurdle egg when license";
+var mnemonic = "sting maze attract wheat scene found lady universe glance hedgehog file elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "practice stick kiss glue dawn fabric twelve wish fold purpose toward picture";
+var mnemonic = "glide hold pond laundry almost decide boring alcohol train gate between skate";

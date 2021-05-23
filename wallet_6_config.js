@@ -1,1 +1,1 @@
-var mnemonic = "couch scare pyramid artist theory record solar prison rule mail height accident";
+var mnemonic = "gauge gauge human fuel make divide tail hamster fatal glow sort bulk";

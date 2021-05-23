@@ -1,1 +1,1 @@
-var mnemonic = "resource razor then anger twenty chuckle between beach scare under law pact";
+var mnemonic = "omit wink polar source lobster purchase meat ticket increase dumb piece evidence";

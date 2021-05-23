@@ -1,1 +1,1 @@
-var mnemonic = "trigger vocal change nation pyramid walk rose humble large cement robust purse";
+var mnemonic = "muffin lazy odor airport obvious knee tourist kidney indicate seat suit happy";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors fiber can urban detail candy input parrot dumb jungle arrive deny";
+var mnemonic = "gossip velvet lunch glimpse bulk session gaze elevator carry flight shed question";

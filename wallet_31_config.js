@@ -1,1 +1,1 @@
-var mnemonic = "chronic great sunset useless achieve clever mansion prison behind express giant rifle";
+var mnemonic = "final eyebrow file bubble rural shift peace turtle abuse oil lonely also";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty drum abandon various sponsor insect opera sound bronze item they hard";
+var mnemonic = "weasel spider bachelor lonely name post provide there copy carry response correct";

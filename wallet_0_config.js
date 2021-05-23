@@ -1,1 +1,1 @@
-var mnemonic = "ensure inmate path guard settle jazz wing arrive install injury chair clock";
+var mnemonic = "retire volcano engine endorse rent rent feature bus fat agree couple crop";

@@ -1,1 +1,1 @@
-var mnemonic = "easily mimic brush rubber scene consider enlist ask canvas thrive tent hybrid";
+var mnemonic = "pave top tube lucky security repair clown push month mask lottery middle";

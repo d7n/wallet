@@ -1,1 +1,1 @@
-var mnemonic = "away outdoor stereo describe magic brisk private flip figure assault powder summer";
+var mnemonic = "until page crumble laugh dirt liar clump scare orient unfair notice ribbon";

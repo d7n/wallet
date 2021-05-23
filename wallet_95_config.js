@@ -1,1 +1,1 @@
-var mnemonic = "ginger indicate question imitate any relief swing shift offer noodle language maid";
+var mnemonic = "mask upset humor slush gate vessel autumn discover skin sting marine prison";

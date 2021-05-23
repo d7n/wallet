@@ -1,1 +1,1 @@
-var mnemonic = "figure drill tiny always soup flock enemy gravity gadget paper captain acquire";
+var mnemonic = "history eagle interest bulb sketch apart topic local view author light cram";

@@ -1,1 +1,1 @@
-var mnemonic = "tone donate region next dust express subject shoulder orbit potato knock prize";
+var mnemonic = "match bubble cigar you asset can hybrid bus priority faint depth chaos";

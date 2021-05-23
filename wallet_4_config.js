@@ -1,1 +1,1 @@
-var mnemonic = "slab riot neutral pause exotic gate maid exhaust silly hamster reunion hat";
+var mnemonic = "human armor assume fun boil wisdom enact volcano august depart puppy dial";

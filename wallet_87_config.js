@@ -1,1 +1,1 @@
-var mnemonic = "toward skull second manual write shoot acid wire lake gym acoustic benefit";
+var mnemonic = "salon sudden clip index toward habit roof birth alarm ski girl reopen";

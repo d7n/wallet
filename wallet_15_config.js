@@ -1,1 +1,1 @@
-var mnemonic = "message mystery better else record dinner subway satisfy acquire scale museum math";
+var mnemonic = "twelve globe reveal net leopard bus chase alcohol hamster benefit pig train";

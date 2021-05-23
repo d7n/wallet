@@ -1,1 +1,1 @@
-var mnemonic = "three soda panda canoe this liar doctor galaxy bonus sketch logic amused";
+var mnemonic = "entry adjust aim win crunch safe job boss giggle husband soap orange";

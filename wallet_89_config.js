@@ -1,1 +1,1 @@
-var mnemonic = "giraffe response million animal isolate shed alcohol supply brush weasel vast hurdle";
+var mnemonic = "crumble innocent rural shock sleep engine nothing gossip pave gadget envelope hurry";

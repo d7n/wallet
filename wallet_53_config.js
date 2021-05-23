@@ -1,1 +1,1 @@
-var mnemonic = "betray worry amused snap party exact fee process intact essay initial loop";
+var mnemonic = "black check ensure hammer alert copper remind laundry become remain rebel analyst";

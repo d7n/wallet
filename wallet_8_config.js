@@ -1,1 +1,1 @@
-var mnemonic = "become okay canvas time layer phone course junior fire onion birth short";
+var mnemonic = "skull question repair real response pitch poverty wave odor metal stem calm";

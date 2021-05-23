@@ -1,1 +1,1 @@
-var mnemonic = "bargain limb artwork oil differ stock together behave miss innocent oven pioneer";
+var mnemonic = "blush fatal cinnamon disease sibling pull tree size moral screen clog runway";

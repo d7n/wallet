@@ -1,1 +1,1 @@
-var mnemonic = "vital lunar silk desert shell aware festival tone fault usual surprise spawn";
+var mnemonic = "cabin sad shed weasel easy art whip flag miss giraffe total garlic";

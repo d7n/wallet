@@ -1,1 +1,1 @@
-var mnemonic = "october squeeze junior depart lamp taste prize theme merry fetch shy rubber";
+var mnemonic = "moral record frozen coffee hood salmon good regret alter sadness surprise double";

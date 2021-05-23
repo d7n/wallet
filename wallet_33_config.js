@@ -1,1 +1,1 @@
-var mnemonic = "truth earth author mimic steel blur valve thrive odor ivory amazing budget";
+var mnemonic = "print gap hotel toe plastic anger economy edit ski fix organ jaguar";

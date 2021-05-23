@@ -1,1 +1,1 @@
-var mnemonic = "dance plate gold joke rate torch hover bitter rebel burden cereal rather";
+var mnemonic = "tattoo broken grape garbage celery rain teach blush region globe green ill";

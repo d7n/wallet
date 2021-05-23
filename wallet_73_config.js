@@ -1,1 +1,1 @@
-var mnemonic = "song elbow ridge around faith taxi city wolf regular stool manage need";
+var mnemonic = "eternal mammal spread coast move food adult gown budget monster rule interest";

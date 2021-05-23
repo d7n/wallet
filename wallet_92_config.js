@@ -1,1 +1,1 @@
-var mnemonic = "credit fabric now result oven milk prison reform patient gauge return donate";
+var mnemonic = "high title brisk front stay citizen second joy fee leisure enrich diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing tornado before off almost burst noodle shift vote derive regular confirm";
+var mnemonic = "sauce orphan crater venture tissue oil fall alone huge sunset seven retreat";

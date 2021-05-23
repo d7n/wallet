@@ -1,1 +1,1 @@
-var mnemonic = "thing jewel crystal girl save filter move engage furnace depend celery option";
+var mnemonic = "slab valid case fish raven wall near rebuild buddy voice grit episode";

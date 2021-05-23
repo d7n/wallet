@@ -1,1 +1,1 @@
-var mnemonic = "three secret wheat trust code floor rebuild degree spawn project about remain";
+var mnemonic = "disorder shed table trigger scan trigger fly rose grace twist gravity bulb";

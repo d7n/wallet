@@ -1,1 +1,1 @@
-var mnemonic = "news kind vapor home prepare purchase phrase awake control sock club voyage";
+var mnemonic = "man rifle lemon edit point wolf fever robust swim ancient knock subway";

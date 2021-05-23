@@ -1,1 +1,1 @@
-var mnemonic = "erupt double trick basket animal argue neither humble law dynamic winter adapt";
+var mnemonic = "giggle ring dirt lunar chase roof mountain carpet safe story guilt quit";

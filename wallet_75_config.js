@@ -1,1 +1,1 @@
-var mnemonic = "odor drift burst gospel capital midnight valley orient social promote develop exile";
+var mnemonic = "antique slight link happy timber eternal deputy scan emotion awful chat dolphin";

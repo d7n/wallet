@@ -1,1 +1,1 @@
-var mnemonic = "swap concert alter chimney skirt sick door impact zero upset iron you";
+var mnemonic = "whisper eagle wire upgrade pact arrive token erase tent grief coil beauty";

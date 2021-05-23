@@ -1,1 +1,1 @@
-var mnemonic = "pattern skull lake original giggle local grant rug crouch shoulder avocado crouch";
+var mnemonic = "fiction milk dwarf embrace smoke boat child where symbol sheriff offer weapon";

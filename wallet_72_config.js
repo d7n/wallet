@@ -1,1 +1,1 @@
-var mnemonic = "large hunt summer victory primary mule palace feed hand subway figure erupt";
+var mnemonic = "danger shrug word click wool share dust cereal opera fox inch arrow";
