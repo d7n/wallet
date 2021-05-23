@@ -1,1 +1,1 @@
-var mnemonic = "absent slice purse fetch please manual ghost airport oval athlete eager inform";
+var mnemonic = "churn vehicle ceiling jump cream bamboo age mail winner write wreck prosper";

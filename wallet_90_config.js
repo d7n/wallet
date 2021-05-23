@@ -1,1 +1,1 @@
-var mnemonic = "sunny gift swamp away margin portion crane inhale bronze door general novel";
+var mnemonic = "age board dwarf move tackle ginger almost breeze sketch vote keen moon";

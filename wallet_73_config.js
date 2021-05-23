@@ -1,1 +1,1 @@
-var mnemonic = "thought loyal gun inside level float clip grace acoustic sell two dinner";
+var mnemonic = "six universe vote visual prosper emotion scan romance monitor finger quote story";

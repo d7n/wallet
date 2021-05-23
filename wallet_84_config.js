@@ -1,1 +1,1 @@
-var mnemonic = "visa rubber blur clinic quote jump van pluck silk bus cry fabric";
+var mnemonic = "junior notice shoe waste obscure praise paper olympic steel mistake moment true";

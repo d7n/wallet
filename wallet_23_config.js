@@ -1,1 +1,1 @@
-var mnemonic = "arrive jealous vocal visit length nature blur organ bracket produce segment play";
+var mnemonic = "inspire situate home whip between tiny purpose embark actual pyramid neglect day";

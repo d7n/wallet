@@ -1,1 +1,1 @@
-var mnemonic = "air three cable verify repeat pen velvet luxury excite blur scale around";
+var mnemonic = "sure anxiety soda aware discover buddy since achieve dignity expose jaguar check";

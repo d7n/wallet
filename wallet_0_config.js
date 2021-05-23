@@ -1,1 +1,1 @@
-var mnemonic = "staff volcano argue spirit renew blanket good retire zoo nation crash motor";
+var mnemonic = "beach mad once alley network trap have blouse slight shrimp room service";

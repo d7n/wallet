@@ -1,1 +1,1 @@
-var mnemonic = "fox siege table knife strong increase marriage shoulder glare unhappy venture comfort";
+var mnemonic = "fish erode rule cause lab load snow sunny bitter direct sustain grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "major inch cup kind mammal cancel patch body else canvas yellow mosquito";
+var mnemonic = "swallow cannon fix tank pony network guard behind door train curve girl";

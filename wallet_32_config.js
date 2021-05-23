@@ -1,1 +1,1 @@
-var mnemonic = "inform useless proud hard spy fox panda globe talk position valid wet";
+var mnemonic = "stove control finish field wait blind wide bicycle join merge will learn";

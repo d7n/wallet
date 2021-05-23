@@ -1,1 +1,1 @@
-var mnemonic = "cram lecture initial popular forest life amateur camera ceiling meat forget area";
+var mnemonic = "enroll only pottery knife disagree asset pill hen sphere sauce mercy amateur";

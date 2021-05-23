@@ -1,1 +1,1 @@
-var mnemonic = "vehicle dry waste public segment december snap razor immense scatter farm dignity";
+var mnemonic = "barrel case bid cause syrup sting hair same nasty infant open like";

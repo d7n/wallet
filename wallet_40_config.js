@@ -1,1 +1,1 @@
-var mnemonic = "pride spirit purse awkward another chat moment absurd apart board knife explain";
+var mnemonic = "try cause machine frame egg fix agree dial blood cliff tobacco injury";

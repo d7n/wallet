@@ -1,1 +1,1 @@
-var mnemonic = "parrot winter dog solution view proud mesh noble arrive wedding course between";
+var mnemonic = "buyer explain achieve absurd moral unaware hat trick until mouse food crawl";

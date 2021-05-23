@@ -1,1 +1,1 @@
-var mnemonic = "license hire bracket parrot gun dry width camera whip giant metal pact";
+var mnemonic = "thing elephant swift always wave innocent half private grace asset eager slim";

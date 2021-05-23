@@ -1,1 +1,1 @@
-var mnemonic = "mention world plastic flight chapter cry minute decorate critic voice sausage yellow";
+var mnemonic = "gallery first voice best nothing humble thunder melt labor hour edge biology";

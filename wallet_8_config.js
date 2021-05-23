@@ -1,1 +1,1 @@
-var mnemonic = "wife orange now grass ahead because palm cancel slab indoor force core";
+var mnemonic = "exit army harsh scheme buddy misery shuffle chief useless casual alter reduce";

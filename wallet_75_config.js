@@ -1,1 +1,1 @@
-var mnemonic = "group attend mistake fame betray master select angry decade action pilot love";
+var mnemonic = "argue inform aerobic monkey danger clerk require fog home apology cliff ice";

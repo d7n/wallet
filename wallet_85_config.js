@@ -1,1 +1,1 @@
-var mnemonic = "always decide grace food huge sphere drive road meadow siren jungle behind";
+var mnemonic = "pattern cinnamon twist buyer scout offer lawn double arena school enter express";

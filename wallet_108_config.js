@@ -1,1 +1,1 @@
-var mnemonic = "leg hundred thing inherit height episode donate afraid merge bike aspect chair";
+var mnemonic = "crater average depend shell barely barely wheel decide ginger best diary decline";

@@ -1,1 +1,1 @@
-var mnemonic = "impact direct diamond civil powder apart viable once mandate aware snow setup";
+var mnemonic = "keen round vessel cousin rookie famous glory multiply endless wall shoulder ill";

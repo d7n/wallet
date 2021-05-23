@@ -1,1 +1,1 @@
-var mnemonic = "raise wagon other favorite picnic bargain proof speed journey rabbit canvas easy";
+var mnemonic = "violin museum need cave mango loop galaxy coffee company helmet endless split";

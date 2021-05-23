@@ -1,1 +1,1 @@
-var mnemonic = "second bubble believe debate recall arrow valley meat cliff panic today shock";
+var mnemonic = "miss buyer secret another practice reject violin print sheriff faith retire nothing";

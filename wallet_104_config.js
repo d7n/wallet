@@ -1,1 +1,1 @@
-var mnemonic = "they scene tool shiver maple jacket skate happy wood deer waste shoulder";
+var mnemonic = "ask visual lobster purchase visual front lift change argue anchor betray candy";

@@ -1,1 +1,1 @@
-var mnemonic = "spot tilt sun chalk spin dash loop crane prevent ecology exist thing";
+var mnemonic = "topple cousin right velvet feed machine kid very gasp rebuild lunar pipe";

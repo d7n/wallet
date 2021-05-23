@@ -1,1 +1,1 @@
-var mnemonic = "pact door fringe foot help badge find foster ahead human stay traffic";
+var mnemonic = "avocado royal bag comic fancy black trial slush omit stem shell memory";

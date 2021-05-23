@@ -1,1 +1,1 @@
-var mnemonic = "ostrich theme razor lab omit version reduce sand robot borrow clock move";
+var mnemonic = "minute denial glass security trade light quality faint climb lend couch merry";

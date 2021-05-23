@@ -1,1 +1,1 @@
-var mnemonic = "supreme protect base country room occur retire pulp trip differ frozen soda";
+var mnemonic = "consider pottery wire view bacon bring throw badge discover name fix oven";

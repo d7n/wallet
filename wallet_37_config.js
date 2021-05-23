@@ -1,1 +1,1 @@
-var mnemonic = "quantum cluster shiver soul cause door stable attract empower stairs head bounce";
+var mnemonic = "music barely arrow spell power poem evolve industry civil play public still";

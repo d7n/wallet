@@ -1,1 +1,1 @@
-var mnemonic = "target goddess weapon wage motor cluster cinnamon orange home leave slide baby";
+var mnemonic = "buyer taste rice uphold lady cost scheme tide trim jewel minor gun";

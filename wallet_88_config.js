@@ -1,1 +1,1 @@
-var mnemonic = "program chat response stem black twist fuel shrug acid pluck improve stool";
+var mnemonic = "alpha comic panther smile cat undo radio rack bitter round lonely carpet";

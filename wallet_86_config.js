@@ -1,1 +1,1 @@
-var mnemonic = "shock grid limit that manage spike control cabin fortune unit project absorb";
+var mnemonic = "lonely exercise abstract foot spawn shine when frame leisure guess panda record";

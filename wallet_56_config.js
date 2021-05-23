@@ -1,1 +1,1 @@
-var mnemonic = "permit country fetch message above victory later tell mother forget zoo emotion";
+var mnemonic = "faculty effort budget skull night glance wide chalk exotic enter lottery noise";

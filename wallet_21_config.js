@@ -1,1 +1,1 @@
-var mnemonic = "patient turn engine gorilla lamp raw pony ecology hard wine canal office";
+var mnemonic = "voice history pave token public license spend pave spice whisper face earth";

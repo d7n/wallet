@@ -1,1 +1,1 @@
-var mnemonic = "inform tent today deny brother tree original surprise blade infant team frequent";
+var mnemonic = "note sting area purity antenna name web assist tobacco climb axis program";

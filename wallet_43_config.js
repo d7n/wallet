@@ -1,1 +1,1 @@
-var mnemonic = "media split very link oyster fossil have six boring input indoor tomato";
+var mnemonic = "spray differ walnut rapid key sand tattoo episode chronic deposit position conduct";

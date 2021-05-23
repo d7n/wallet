@@ -1,1 +1,1 @@
-var mnemonic = "milk skirt track desk icon embody squirrel sock planet someone produce bag";
+var mnemonic = "habit wet else shuffle property essay shock quarter hotel peace inform spice";

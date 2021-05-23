@@ -1,1 +1,1 @@
-var mnemonic = "media chest fire patch village weapon hat ceiling earth lawsuit happy grace";
+var mnemonic = "spin famous where tackle oak ability real scheme alert breeze indoor better";

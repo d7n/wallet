@@ -1,1 +1,1 @@
-var mnemonic = "trip bundle truly chaos zone patient bronze cook oyster replace sock minute";
+var mnemonic = "disorder math addict light imitate swing draft joke alpha flash inner supreme";

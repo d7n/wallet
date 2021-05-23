@@ -1,1 +1,1 @@
-var mnemonic = "year supreme oxygen else staff eye adapt unveil field match model banner";
+var mnemonic = "unusual card any artist great region shadow wink picture kidney replace dry";

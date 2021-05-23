@@ -1,1 +1,1 @@
-var mnemonic = "decrease drip affair tiny awkward couch barrel priority token hip spoil barrel";
+var mnemonic = "fun scrub insect enable device belt lesson embody digital cave account veteran";

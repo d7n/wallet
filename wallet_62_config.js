@@ -1,1 +1,1 @@
-var mnemonic = "lunar shine intact then stone curious maximum aerobic love member blush devote";
+var mnemonic = "drill common now toilet finish govern flip winter other pencil hurt harsh";

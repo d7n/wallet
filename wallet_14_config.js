@@ -1,1 +1,1 @@
-var mnemonic = "travel solve unable pink dinner angle enlist juice seven board acid wild";
+var mnemonic = "ostrich problem merge royal purse artist future face bronze curtain tool fringe";

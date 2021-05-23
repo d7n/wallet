@@ -1,1 +1,1 @@
-var mnemonic = "beef upset deputy peasant label retreat ticket action stomach assault chunk purpose";
+var mnemonic = "since pudding blind arch ostrich into grace shield evolve inmate physical west";

@@ -1,1 +1,1 @@
-var mnemonic = "badge view polar now oppose voyage affair radar sad foil smoke wish";
+var mnemonic = "rescue reflect relief arm divide type weapon deputy soldier drink dance blossom";

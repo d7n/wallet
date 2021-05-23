@@ -1,1 +1,1 @@
-var mnemonic = "water perfect present riot lawn close random crystal drive jazz stay alone";
+var mnemonic = "potato unfold misery system absurd rice shallow whisper over vivid desert involve";

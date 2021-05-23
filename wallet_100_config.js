@@ -1,1 +1,1 @@
-var mnemonic = "slide cousin oven wink media lazy else trip town dinosaur luxury return";
+var mnemonic = "harsh zebra manage suffer sample enrich effort addict odor hen prefer dinosaur";

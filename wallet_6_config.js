@@ -1,1 +1,1 @@
-var mnemonic = "floor dust assault tower balance ketchup unlock cabin rookie carbon cushion polar";
+var mnemonic = "ordinary practice lunar need begin lion grace light fault avoid across describe";

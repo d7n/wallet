@@ -1,1 +1,1 @@
-var mnemonic = "churn teach awful winter exotic often rare acoustic enlist spoil design theory";
+var mnemonic = "garlic mom flip state hope liberty unaware shed angle trip swarm inspire";

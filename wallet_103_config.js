@@ -1,1 +1,1 @@
-var mnemonic = "helmet act gold demise rail ticket random jungle rate prefer trouble gap";
+var mnemonic = "border drama hard march dance mimic view chaos normal angle flower load";

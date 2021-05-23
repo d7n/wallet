@@ -1,1 +1,1 @@
-var mnemonic = "wall caution age hole fish multiply atom mammal slice prevent opinion ramp";
+var mnemonic = "range adjust coconut cage caught flavor resource copy shuffle disagree polar cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote clip expect immune behave vessel wonder arch security around heavy coffee";
+var mnemonic = "rib father delay pen heavy hurry wheel provide blossom youth member earn";

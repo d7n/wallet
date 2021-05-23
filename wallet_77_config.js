@@ -1,1 +1,1 @@
-var mnemonic = "deer remove laugh hawk author similar cream lazy brisk invest inherit giggle";
+var mnemonic = "egg tortoise stomach spider practice simple before bread number erode between garage";

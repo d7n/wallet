@@ -1,1 +1,1 @@
-var mnemonic = "ostrich world claim soap rival select color bind rigid load wine join";
+var mnemonic = "tiger above icon eagle tank bounce portion suit firm dignity chuckle enlist";

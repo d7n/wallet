@@ -1,1 +1,1 @@
-var mnemonic = "other private artwork same couch tuition music gift story know hungry lizard";
+var mnemonic = "toddler obey false divert close lawsuit grunt cry capital ice edit umbrella";

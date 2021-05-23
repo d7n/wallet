@@ -1,1 +1,1 @@
-var mnemonic = "tell keep autumn segment future sausage indicate junior keen body expect wish";
+var mnemonic = "print provide layer that unit monitor crop garlic ask catch exotic common";

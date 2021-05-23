@@ -1,1 +1,1 @@
-var mnemonic = "enemy small tumble now burger stadium win profit fee scissors swamp sheriff";
+var mnemonic = "year bracket fiber whip mind true crowd demand regular pudding foam aunt";

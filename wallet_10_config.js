@@ -1,1 +1,1 @@
-var mnemonic = "spider purity steak spot crumble analyst winner access cluster athlete soup october";
+var mnemonic = "sort index magic buzz law middle evoke net embody oblige floor knee";

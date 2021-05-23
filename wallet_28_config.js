@@ -1,1 +1,1 @@
-var mnemonic = "leave lumber december hire property crazy transfer burden public loop vocal spare";
+var mnemonic = "card giggle drum ring match return cable flower dynamic select desert kid";

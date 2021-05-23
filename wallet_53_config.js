@@ -1,1 +1,1 @@
-var mnemonic = "clock have very giraffe video either security impulse jelly pull spider exile";
+var mnemonic = "pill punch crisp cherry sight whip simple hold never ugly six forum";

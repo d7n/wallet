@@ -1,1 +1,1 @@
-var mnemonic = "meadow gym eagle sing valve nominee hamster lottery always silk arrow insect";
+var mnemonic = "series smile arctic siege shaft license gossip corn siren prosper deliver engine";

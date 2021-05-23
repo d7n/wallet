@@ -1,1 +1,1 @@
-var mnemonic = "innocent cannon book profit table health slush climb deal phone awesome army";
+var mnemonic = "boil globe champion swap opinion snake rotate rate quit apart layer vital";

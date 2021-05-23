@@ -1,1 +1,1 @@
-var mnemonic = "argue alter pond track come sun average image exhaust decade burst diagram";
+var mnemonic = "title walnut cake demise volcano unhappy spatial glass bless gym tank vessel";

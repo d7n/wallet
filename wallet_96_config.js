@@ -1,1 +1,1 @@
-var mnemonic = "upgrade mansion elevator pumpkin gas govern point rigid junior sword dad frown";
+var mnemonic = "hamster connect village want kiwi olympic wild love soap vivid light suggest";

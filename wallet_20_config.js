@@ -1,1 +1,1 @@
-var mnemonic = "feature armed unable oil oven later ocean come flush curious evidence year";
+var mnemonic = "stairs viable token gown session cannon tobacco midnight circle salt fade cruise";

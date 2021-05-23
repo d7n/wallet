@@ -1,1 +1,1 @@
-var mnemonic = "woman decide diet soap few frequent tiger oak budget nice special bargain";
+var mnemonic = "joy tank muscle flower power eager glide range rhythm alien bunker begin";

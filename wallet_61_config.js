@@ -1,1 +1,1 @@
-var mnemonic = "vibrant scorpion heart phrase access elephant phrase cousin forest fresh nose clog";
+var mnemonic = "blue siege razor hero nominee flat exit team someone coyote truck stomach";

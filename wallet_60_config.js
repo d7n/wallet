@@ -1,1 +1,1 @@
-var mnemonic = "volcano acquire digital one group keen prize one argue best aim nut";
+var mnemonic = "bread say artefact short onion design peanut vacant inflict book second material";

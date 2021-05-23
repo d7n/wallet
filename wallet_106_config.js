@@ -1,1 +1,1 @@
-var mnemonic = "barely voice naive future later they give immune biology diet cream expand";
+var mnemonic = "radio wage fly hair brisk neglect ski weekend income mix gospel more";

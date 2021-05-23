@@ -1,1 +1,1 @@
-var mnemonic = "cross catalog double glance deer extra polar group child chase garlic citizen";
+var mnemonic = "desert bulk feel sorry ankle swing coast play resist arctic lens ski";

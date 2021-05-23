@@ -1,1 +1,1 @@
-var mnemonic = "bird napkin lunch tank young swap cabin found hidden gas answer impact";
+var mnemonic = "convince quality figure grocery love word faint motion slot expect wreck topic";

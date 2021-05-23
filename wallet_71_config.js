@@ -1,1 +1,1 @@
-var mnemonic = "income truly crowd someone sun pony river category drip mushroom must produce";
+var mnemonic = "stereo jeans pretty bench tenant desk foil upon convince limit crew inside";

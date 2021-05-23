@@ -1,1 +1,1 @@
-var mnemonic = "crunch number idea monitor pact vintage special rocket certain shift truth crater";
+var mnemonic = "winner hub hollow return clump bulk hello drive slender warm suspect sister";

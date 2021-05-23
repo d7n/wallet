@@ -1,1 +1,1 @@
-var mnemonic = "fat laugh rich recall aunt blood anchor spin whale steel gorilla tornado";
+var mnemonic = "van ship charge ladder page photo during alone dumb double puzzle neutral";

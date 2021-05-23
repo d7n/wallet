@@ -1,1 +1,1 @@
-var mnemonic = "hawk cricket blur quarter orbit abstract electric vault light tortoise garage ticket";
+var mnemonic = "dignity dog intact tell rule shadow transfer dwarf barely leaf scan sail";

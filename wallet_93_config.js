@@ -1,1 +1,1 @@
-var mnemonic = "under spice unknown help runway dumb vicious poet smoke minute glare blue";
+var mnemonic = "furnace window push type fresh like forest sadness pig broom horror marine";

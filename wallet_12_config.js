@@ -1,1 +1,1 @@
-var mnemonic = "remember occur staff survey elite model spoil post scissors shoot second pet";
+var mnemonic = "sugar dinner silent inhale fiscal reduce reason verify stadium crater bunker ignore";

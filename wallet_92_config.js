@@ -1,1 +1,1 @@
-var mnemonic = "figure hundred catalog seek reject laundry rival piece jungle play gown road";
+var mnemonic = "ozone away stock divorce collect effort alpha sail mushroom spot cute hospital";

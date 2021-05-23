@@ -1,1 +1,1 @@
-var mnemonic = "palace resemble gorilla flame palace motion inject thunder easy fantasy eternal excess";
+var mnemonic = "unique monkey health inner husband strong affair maximum rack open into bonus";

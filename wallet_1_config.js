@@ -1,1 +1,1 @@
-var mnemonic = "arrange oval sadness squirrel birth enhance check electric maid truth dress mask";
+var mnemonic = "awful crawl reject forget lawn surround impose away play nephew walk birth";

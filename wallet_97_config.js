@@ -1,1 +1,1 @@
-var mnemonic = "scrub outdoor parent coast suggest now position border enhance style high taxi";
+var mnemonic = "arrest taste excess brother hour output cherry pigeon type gain harbor sniff";

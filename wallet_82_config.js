@@ -1,1 +1,1 @@
-var mnemonic = "crash text stand cloth island special mandate athlete orient during ghost puppy";
+var mnemonic = "derive among solve know note trade grit shove sphere ocean race public";

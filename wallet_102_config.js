@@ -1,1 +1,1 @@
-var mnemonic = "melt boring steel circle pizza game emerge fat suggest already guitar grace";
+var mnemonic = "candy wait step color humor trial female color apple twelve genius reopen";

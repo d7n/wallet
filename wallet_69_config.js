@@ -1,1 +1,1 @@
-var mnemonic = "kit famous tent network angry kidney initial rebel jealous remove practice wish";
+var mnemonic = "very dove wet sense pool area flock fade target quarter second asset";

@@ -1,1 +1,1 @@
-var mnemonic = "image achieve initial glue fabric payment pupil connect useful bottom giggle sail";
+var mnemonic = "wire dentist boost office deer parent symbol fence case plunge super enough";

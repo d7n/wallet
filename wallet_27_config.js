@@ -1,1 +1,1 @@
-var mnemonic = "problem force where address silver indoor circle baby twelve unable blush imitate";
+var mnemonic = "short brisk liquid bacon again patrol agent dizzy impose side evil orient";
