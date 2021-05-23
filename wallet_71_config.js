@@ -1,1 +1,1 @@
-var mnemonic = "heart dwarf pony orbit media debris hour tiny relief error theme meadow";
+var mnemonic = "satisfy winner fury sunny crash three venture extra blush lottery print view";

@@ -1,1 +1,1 @@
-var mnemonic = "side text manual news smart museum timber twice cannon rotate wall float";
+var mnemonic = "spend monitor sadness demise genius journey destroy thunder ensure general canal rent";

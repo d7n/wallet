@@ -1,1 +1,1 @@
-var mnemonic = "peace mystery feature advice hill fall bonus food keep accuse thrive like";
+var mnemonic = "atom brass garment expose ignore cry vault purpose radio find fault daughter";

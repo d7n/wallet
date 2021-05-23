@@ -1,1 +1,1 @@
-var mnemonic = "argue voice treat noise raccoon melt earn dish end guitar intact scare";
+var mnemonic = "energy weapon ten error air knock light bracket major duck tribe height";

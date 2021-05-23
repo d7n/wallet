@@ -1,1 +1,1 @@
-var mnemonic = "write dilemma belt capable mistake rib lobster drama world sport else special";
+var mnemonic = "giant knee spider cruise enemy relax nut monster fox enact reveal enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness bone clutch dumb barrel muffin pitch minor second unit taste oyster";
+var mnemonic = "attitude age balance orphan craft shadow seek pottery fancy spice chicken school";

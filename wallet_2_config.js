@@ -1,1 +1,1 @@
-var mnemonic = "lazy indoor gasp flip suspect cupboard asset cause rapid dynamic glad talk";
+var mnemonic = "sponsor wool surge swift cage mention life cement canoe corn news normal";

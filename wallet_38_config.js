@@ -1,1 +1,1 @@
-var mnemonic = "choice decide enforce theme category company detect solid inner people symbol sauce";
+var mnemonic = "era text memory gorilla legend episode essay beach armed manage flock balance";

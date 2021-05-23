@@ -1,1 +1,1 @@
-var mnemonic = "hub stereo mix shop pyramid fabric column dry jacket anchor shield walnut";
+var mnemonic = "season keen topic nut tower rhythm leg clump gorilla witness gaze hope";

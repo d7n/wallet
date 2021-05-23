@@ -1,1 +1,1 @@
-var mnemonic = "like burger veteran waste source glad over liquid coin lyrics pool pottery";
+var mnemonic = "old armor depth inherit bless arrange wheat evoke mule round open guilt";

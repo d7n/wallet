@@ -1,1 +1,1 @@
-var mnemonic = "today behave immune define fruit rib favorite slow story glare spoon skin";
+var mnemonic = "smoke found betray acquire hurdle oyster puppy poet excite eager mimic caught";

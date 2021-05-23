@@ -1,1 +1,1 @@
-var mnemonic = "neutral liberty economy finger width pause blue oven aunt giggle wave auto";
+var mnemonic = "style art manage cliff rough celery heavy furnace poet wool portion doll";

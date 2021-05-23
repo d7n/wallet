@@ -1,1 +1,1 @@
-var mnemonic = "gift torch inject antenna desk ripple razor laptop stamp ticket metal control";
+var mnemonic = "ivory feature silly elite napkin grain fossil gospel cancel prepare lazy cheese";

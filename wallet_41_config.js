@@ -1,1 +1,1 @@
-var mnemonic = "chalk run dinner short favorite zero tenant waste border process hill radar";
+var mnemonic = "easy paper coast brass interest promote enroll best work auction prosper plate";

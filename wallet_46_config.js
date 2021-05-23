@@ -1,1 +1,1 @@
-var mnemonic = "monitor lens dynamic trip dumb index conduct until model funny retreat length";
+var mnemonic = "keep scare sense guitar pull gun bind civil cluster panda ten raccoon";

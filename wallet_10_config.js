@@ -1,1 +1,1 @@
-var mnemonic = "happy stumble caught enjoy chapter churn judge harsh maximum bamboo corn welcome";
+var mnemonic = "ancient salt dinner track strike length soda jaguar busy veteran lobster swap";

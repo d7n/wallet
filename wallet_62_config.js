@@ -1,1 +1,1 @@
-var mnemonic = "vague hungry race cushion betray force feed you measure uniform catch resemble";
+var mnemonic = "omit embrace casual nothing evoke west health erupt skate bean question track";

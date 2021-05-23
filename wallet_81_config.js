@@ -1,1 +1,1 @@
-var mnemonic = "hole rib soft over hair tip leisure limb tube twelve park shift";
+var mnemonic = "advance today engage enough radio decorate egg round trade assume cross seminar";

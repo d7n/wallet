@@ -1,1 +1,1 @@
-var mnemonic = "demise pride about anger involve person secret foster surprise afford resource label";
+var mnemonic = "junk possible churn put upon humor main wood engine envelope pig object";

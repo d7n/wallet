@@ -1,1 +1,1 @@
-var mnemonic = "admit spray scan setup update surprise alien treat junk credit eager february";
+var mnemonic = "merit stock end ill inside cluster water fringe wreck spot book miracle";

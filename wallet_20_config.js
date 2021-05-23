@@ -1,1 +1,1 @@
-var mnemonic = "cover great strategy image produce weasel naive style various erosion ugly trim";
+var mnemonic = "garlic frown family candy outside turn inspire zone episode grief dizzy image";

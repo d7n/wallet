@@ -1,1 +1,1 @@
-var mnemonic = "always equip surge unfold turkey canal cost make total tunnel vacant term";
+var mnemonic = "dignity team series beef verb scan warm other notice increase segment weekend";

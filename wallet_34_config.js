@@ -1,1 +1,1 @@
-var mnemonic = "steel across age warm ensure exercise identify local noodle salute inform stamp";
+var mnemonic = "piano trial gauge duck law unique earn host manage domain punch accident";

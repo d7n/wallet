@@ -1,1 +1,1 @@
-var mnemonic = "universe soccer quick rack treat turkey cram dirt actress nurse top clarify";
+var mnemonic = "large choose dutch unveil bundle middle absent effort soft shoulder need figure";

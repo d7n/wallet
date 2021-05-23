@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo kitchen tray decide cactus chest inherit purpose squirrel wife toy style";
+var mnemonic = "style laugh guess learn mass glory impact impose inhale wreck scheme cancel";

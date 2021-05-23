@@ -1,1 +1,1 @@
-var mnemonic = "embody cushion topic across rival myth trophy normal diagram vehicle fork gravity";
+var mnemonic = "hotel okay arrest mother torch duck space donor mutual slice uniform bridge";

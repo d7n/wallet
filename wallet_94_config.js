@@ -1,1 +1,1 @@
-var mnemonic = "inhale change brand addict swim aisle fiscal mirror tunnel company cattle actress";
+var mnemonic = "term explain bone radio cereal wrong access blossom riot eight ride jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "stay mistake cradle pizza tiny mirror allow profit filter broccoli festival key";
+var mnemonic = "erupt civil swamp accident slogan print hard insane menu find rough panic";

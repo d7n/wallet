@@ -1,1 +1,1 @@
-var mnemonic = "cushion ahead nut damp figure height come chuckle water shop farm permit";
+var mnemonic = "labor filter bike wrong leave wise aerobic home april library old sleep";

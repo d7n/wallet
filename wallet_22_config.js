@@ -1,1 +1,1 @@
-var mnemonic = "sleep reward maze sustain harvest leaf kitchen select curtain slogan snake gas";
+var mnemonic = "fossil van item civil illegal mercy rural engage keep mean trash layer";

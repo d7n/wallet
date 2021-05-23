@@ -1,1 +1,1 @@
-var mnemonic = "regret essence secret wreck tissue charge shop mean paper enable suit dinner";
+var mnemonic = "hold census naive fork reunion slam woman book install index way hawk";

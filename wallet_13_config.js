@@ -1,1 +1,1 @@
-var mnemonic = "attend mutual awesome assault anchor thought taxi second report supreme transfer enforce";
+var mnemonic = "describe old trophy theme balance exist pig bubble wild silly solution embark";

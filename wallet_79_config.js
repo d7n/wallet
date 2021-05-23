@@ -1,1 +1,1 @@
-var mnemonic = "soul sausage letter plate sunny cousin infant fix hedgehog layer prosper rough";
+var mnemonic = "hunt foot trim unique whale fiscal wage fortune define magic slush ready";

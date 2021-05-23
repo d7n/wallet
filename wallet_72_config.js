@@ -1,1 +1,1 @@
-var mnemonic = "fruit better exercise stand photo letter chimney area then add tourist estate";
+var mnemonic = "together uphold answer mammal rail guilt jaguar crisp report tip guilt scale";

@@ -1,1 +1,1 @@
-var mnemonic = "child cry animal absorb upset critic certain alien dwarf help soldier resist";
+var mnemonic = "pioneer ridge duck camera spirit range hundred destroy banana pigeon illegal apology";

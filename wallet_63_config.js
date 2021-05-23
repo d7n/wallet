@@ -1,1 +1,1 @@
-var mnemonic = "marriage recall describe bomb car oval live oxygen kingdom clog uncover turtle";
+var mnemonic = "sun forget second guess great demise genre muscle crystal hire crucial dose";

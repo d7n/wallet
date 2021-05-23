@@ -1,1 +1,1 @@
-var mnemonic = "finger crowd question wild direct embark minimum local snow legend mixed delay";
+var mnemonic = "tag among ancient organ fossil resemble lottery scrap draft wealth magnet crucial";

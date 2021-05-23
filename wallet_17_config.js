@@ -1,1 +1,1 @@
-var mnemonic = "era tray category alarm wild decide grace despair express together update tackle";
+var mnemonic = "festival biology hover merge acid forward alcohol cute sunny luggage admit express";

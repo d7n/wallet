@@ -1,1 +1,1 @@
-var mnemonic = "lift come cluster bronze extra notice execute doll decide crowd social rail";
+var mnemonic = "sadness version auto wear grass guilt tenant flash project dragon short cousin";

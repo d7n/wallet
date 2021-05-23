@@ -1,1 +1,1 @@
-var mnemonic = "curious rather paper lyrics hair glove gasp color tank eyebrow happy journey";
+var mnemonic = "vivid symptom squeeze dress mixture basket fee vessel memory divide stairs correct";

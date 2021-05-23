@@ -1,1 +1,1 @@
-var mnemonic = "address train baby pitch flame fine taste common cloth bar decorate fossil";
+var mnemonic = "diamond emerge earn motor midnight topple absent sea fossil bread urge kitchen";

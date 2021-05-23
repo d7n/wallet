@@ -1,1 +1,1 @@
-var mnemonic = "magnet unlock dynamic flat shock hobby dirt hole yellow luxury gesture gallery";
+var mnemonic = "hold provide grain outside minimum rib entry law stairs virtual rate elder";

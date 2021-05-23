@@ -1,1 +1,1 @@
-var mnemonic = "into mechanic sugar palm coach trap moon trick leg female lemon business";
+var mnemonic = "believe empty place garlic grape genius future twin cross certain forward predict";

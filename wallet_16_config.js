@@ -1,1 +1,1 @@
-var mnemonic = "review wild zoo produce spell symbol crop parade damp meat beef lecture";
+var mnemonic = "fitness gasp soda phone find couch point fiction around buzz fat apology";

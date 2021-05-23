@@ -1,1 +1,1 @@
-var mnemonic = "provide enough merge price off dish few stove wonder head speed cable";
+var mnemonic = "police shine tennis shell erode version sign swift rate behind moral parade";

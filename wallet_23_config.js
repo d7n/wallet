@@ -1,1 +1,1 @@
-var mnemonic = "cross keep zoo canvas evil success huge learn monkey receive prosper radio";
+var mnemonic = "summer curtain cream sniff insane leave picnic snow behind fame wait panic";

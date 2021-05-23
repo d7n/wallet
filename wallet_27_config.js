@@ -1,1 +1,1 @@
-var mnemonic = "danger warfare wink nephew meat enact gaze broken wall cruise have cruise";
+var mnemonic = "minor dizzy comic extend fortune course patrol exile space garage talent lesson";

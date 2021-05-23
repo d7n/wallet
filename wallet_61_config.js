@@ -1,1 +1,1 @@
-var mnemonic = "century rough fruit club response soldier camp sort zero glue library hurry";
+var mnemonic = "traffic beyond mad drama sunny dwarf uniform cloth plunge mammal angle order";

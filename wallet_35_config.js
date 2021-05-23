@@ -1,1 +1,1 @@
-var mnemonic = "trick quit visual recycle mind stadium stem buzz conduct verify alpha rival";
+var mnemonic = "ritual pigeon sheriff shine apology almost twelve fuel depart plastic plate tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cherry load inner smoke carbon lobster kick myself open buddy elbow";
+var mnemonic = "scorpion detect legal post gain neck settle multiply gossip virtual crime lunch";

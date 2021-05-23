@@ -1,1 +1,1 @@
-var mnemonic = "actual stomach smooth forest acoustic opera behind snack nice fame page core";
+var mnemonic = "raccoon combine country much circle fold fresh galaxy increase sure pact wine";

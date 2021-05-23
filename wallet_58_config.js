@@ -1,1 +1,1 @@
-var mnemonic = "day agent that leave lunch sponsor misery hill medal poverty slam employ";
+var mnemonic = "current spirit term film motor baby lawsuit fashion reflect enact armed acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce fade kidney liberty food detail route vendor afraid repair glory client";
+var mnemonic = "survey obey essence tortoise album angle grant spare meat view person dance";

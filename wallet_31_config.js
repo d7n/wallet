@@ -1,1 +1,1 @@
-var mnemonic = "strike author mystery august argue explain farm virtual glove multiply emerge stand";
+var mnemonic = "vacuum favorite height dinner few rookie indicate cheese junior pistol bronze that";

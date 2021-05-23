@@ -1,1 +1,1 @@
-var mnemonic = "adjust wise dice blue verb pill small item squirrel goose certain idle";
+var mnemonic = "economy brass current stuff action opera three bonus language turtle chase else";

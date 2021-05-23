@@ -1,1 +1,1 @@
-var mnemonic = "dad globe cycle remind amused castle include you fatal despair flame strong";
+var mnemonic = "term congress original miracle champion movie crash hidden like isolate mad unit";

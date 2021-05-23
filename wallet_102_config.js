@@ -1,1 +1,1 @@
-var mnemonic = "speed humor middle initial clap omit know front quote sign sniff stone";
+var mnemonic = "crush kid culture brain sorry easily erase violin junior convince unique vendor";

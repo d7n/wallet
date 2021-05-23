@@ -1,1 +1,1 @@
-var mnemonic = "winter guilt share brother blossom glimpse surge glad spray sketch boring admit";
+var mnemonic = "axis aisle galaxy knock soccer gauge royal raven story tower dad nice";

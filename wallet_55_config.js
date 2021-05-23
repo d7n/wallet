@@ -1,1 +1,1 @@
-var mnemonic = "regret capable tunnel shock push fetch purchase wait enable neutral stereo surround";
+var mnemonic = "food empower allow require column inner antique brown ivory tragic bless skull";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket nest bicycle debate unaware insect bleak ranch leg equal culture toe";
+var mnemonic = "trip rice equip expose bomb shuffle author time energy favorite diagram box";

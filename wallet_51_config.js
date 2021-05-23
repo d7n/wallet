@@ -1,1 +1,1 @@
-var mnemonic = "call popular crowd gift onion ask humor wheat ankle bunker stay moon";
+var mnemonic = "enable music rocket plastic wire present beauty bright stage reject gun boy";

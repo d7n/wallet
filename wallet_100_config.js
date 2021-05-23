@@ -1,1 +1,1 @@
-var mnemonic = "excess afraid drop food chase catalog afraid patient relief avocado afraid process";
+var mnemonic = "cricket young dose reopen model approve detect protect ordinary gain know execute";

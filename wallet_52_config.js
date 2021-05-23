@@ -1,1 +1,1 @@
-var mnemonic = "fork paper olive usual solve ketchup inherit impact bounce witness sorry volume";
+var mnemonic = "duck confirm cradle noodle damage empty decade steel space unfair frown figure";

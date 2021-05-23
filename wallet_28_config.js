@@ -1,1 +1,1 @@
-var mnemonic = "gold depart hub talent alcohol stable beef corn glory creek smart fiction";
+var mnemonic = "biology soon weapon crazy gauge vicious beach confirm asthma sister tragic bench";

@@ -1,1 +1,1 @@
-var mnemonic = "funny divert boost field pretty obey risk divide pass rigid mixed scene";
+var mnemonic = "sister coyote clarify wasp enact marriage twenty myth fat wedding receive obtain";

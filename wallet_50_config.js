@@ -1,1 +1,1 @@
-var mnemonic = "solve wrestle lyrics enlist cargo leisure faculty upon hybrid museum huge thank";
+var mnemonic = "will book bleak surge duck mansion light found planet shy crazy reduce";

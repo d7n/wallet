@@ -1,1 +1,1 @@
-var mnemonic = "fragile grape police weird connect trade fog advice parent myself gain consider";
+var mnemonic = "cabbage action swap betray slow what wild decrease try exchange follow display";

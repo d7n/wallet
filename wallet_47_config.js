@@ -1,1 +1,1 @@
-var mnemonic = "tomato foster front grant pipe scheme stuff neither argue daughter address share";
+var mnemonic = "nose alien future shoot disease glory cattle trumpet normal sell bean destroy";

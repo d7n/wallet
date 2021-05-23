@@ -1,1 +1,1 @@
-var mnemonic = "mimic call ramp object dove there bind jewel lecture stool affair appear";
+var mnemonic = "stone open when resist enhance promote water cinnamon three control either announce";

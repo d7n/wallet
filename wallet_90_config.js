@@ -1,1 +1,1 @@
-var mnemonic = "vapor couch sponsor camp saddle path drink bronze find another kingdom culture";
+var mnemonic = "embrace glue orchard nose alien pulp park craft arrow mushroom summer negative";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend sister raw awesome bone gather unveil liberty muffin open sound attend";
+var mnemonic = "pistol charge mad relief quantum dismiss ugly ripple fix hole cradle gasp";

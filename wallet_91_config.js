@@ -1,1 +1,1 @@
-var mnemonic = "rival major slender strategy menu rifle unveil quarter gas demand radio hero";
+var mnemonic = "motion oblige cook pigeon original reveal chest pattern whale excess police caught";

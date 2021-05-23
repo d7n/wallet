@@ -1,1 +1,1 @@
-var mnemonic = "bottom confirm silent leisure nurse host patrol final surround wolf urban together";
+var mnemonic = "faculty when moment wave ribbon drama clerk admit holiday govern estate apology";

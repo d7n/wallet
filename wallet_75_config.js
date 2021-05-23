@@ -1,1 +1,1 @@
-var mnemonic = "flat theory genius sunset recycle rubber payment grab student globe jazz renew";
+var mnemonic = "vapor perfect magic scan crowd front fly scene orbit crater almost kidney";

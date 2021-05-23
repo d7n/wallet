@@ -1,1 +1,1 @@
-var mnemonic = "ensure other credit choose choose comic gadget snake enhance garlic budget spot";
+var mnemonic = "budget recycle elegant ecology vendor carpet will apple way mountain lounge vapor";

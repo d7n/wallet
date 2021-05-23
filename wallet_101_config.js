@@ -1,1 +1,1 @@
-var mnemonic = "else answer thank weird order dilemma fashion science seek ill history rocket";
+var mnemonic = "satoshi play judge more virtual caution green know giant camera capable adapt";

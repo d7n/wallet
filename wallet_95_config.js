@@ -1,1 +1,1 @@
-var mnemonic = "giant soup quote recall object pull supply gather distance turkey together about";
+var mnemonic = "yard almost dragon nut elbow myself hat panic mobile finger turn cushion";

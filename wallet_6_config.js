@@ -1,1 +1,1 @@
-var mnemonic = "recipe wedding thing cake story february firm eager parent review suffer mask";
+var mnemonic = "attract topic odor receive bring mesh brush tower radar vanish normal dawn";

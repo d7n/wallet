@@ -1,1 +1,1 @@
-var mnemonic = "day occur before stick tuna furnace age upgrade flat enough fringe senior";
+var mnemonic = "often survey once learn bottom critic camera exile fee snack boss indicate";

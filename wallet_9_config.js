@@ -1,1 +1,1 @@
-var mnemonic = "anger blade unusual lesson crew defy direct library trust thought tenant concert";
+var mnemonic = "theme document mystery couch symbol fluid weather deny amount minor eight slow";

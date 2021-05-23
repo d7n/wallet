@@ -1,1 +1,1 @@
-var mnemonic = "drop volcano palm mercy tissue admit wash march utility wrist globe job";
+var mnemonic = "ball inch engage valley advance response bracket shell zebra feed clown century";

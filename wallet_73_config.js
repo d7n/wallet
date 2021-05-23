@@ -1,1 +1,1 @@
-var mnemonic = "shoot theme world autumn disorder sting index traffic skull diary ethics mandate";
+var mnemonic = "hold pepper bubble input reflect basic uphold paddle input before pluck govern";

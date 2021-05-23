@@ -1,1 +1,1 @@
-var mnemonic = "they spare sick cram nominee advice banner coffee kingdom become way light";
+var mnemonic = "rug image orbit enhance neck try history million flower trim exercise culture";

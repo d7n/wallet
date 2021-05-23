@@ -1,1 +1,1 @@
-var mnemonic = "fluid torch almost thunder income globe faint stay tumble museum federal confirm";
+var mnemonic = "power cube choice cause reward ignore head object crime conduct cargo approve";

@@ -1,1 +1,1 @@
-var mnemonic = "fan strong toy talk quick sunset alarm primary degree nice dial diesel";
+var mnemonic = "project list favorite enough rib common mercy high turn cotton control renew";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp wish answer erode arrow rhythm mixture brown milk snack common detail";
+var mnemonic = "nuclear quiz broccoli ring swing innocent trap weapon easily equal fuel pistol";

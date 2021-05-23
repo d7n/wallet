@@ -1,1 +1,1 @@
-var mnemonic = "letter two aerobic undo receive divert assume plate juice stuff cereal device";
+var mnemonic = "radar gaze gallery dream argue picture level pool hill scatter banner rhythm";

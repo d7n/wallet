@@ -1,1 +1,1 @@
-var mnemonic = "ceiling twist main neutral inflict exit funny nerve ability riot exhaust answer";
+var mnemonic = "this blood play valid puzzle borrow swallow salmon inner legal fence convince";

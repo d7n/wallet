@@ -1,1 +1,1 @@
-var mnemonic = "depend multiply gold jazz drill age have moon speak concert banana cute";
+var mnemonic = "draft correct sell layer little urban ostrich play beyond recall tiger happy";

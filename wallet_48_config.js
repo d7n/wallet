@@ -1,1 +1,1 @@
-var mnemonic = "right print bomb pulse time time memory control amazing twist card reopen";
+var mnemonic = "illegal stool cat tongue box boring alert pencil clutch bridge grass olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "young recall loop salon move gospel keep girl ice people cotton elephant";
+var mnemonic = "seminar crash notice scene blush robot habit horn wasp hope document margin";
