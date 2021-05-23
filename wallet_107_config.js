@@ -1,1 +1,1 @@
-var mnemonic = "retreat script wrap hole child giraffe absent jealous patient couch display actor";
+var mnemonic = "same alarm stumble scorpion garage outdoor offer pelican easy make permit million";

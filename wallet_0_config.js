@@ -1,1 +1,1 @@
-var mnemonic = "flat offer review jealous online spray enrich side affair ancient pulp shrimp";
+var mnemonic = "athlete foam soft oxygen true negative album good advice marine fog soup";

@@ -1,1 +1,1 @@
-var mnemonic = "rural near gentle frog rail unable position onion squirrel icon test main";
+var mnemonic = "weasel switch beef aware copper sail travel vast great assist scrub truth";

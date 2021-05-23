@@ -1,1 +1,1 @@
-var mnemonic = "copy heavy bomb truth object music response gravity relax alley detect sight";
+var mnemonic = "open surround can carbon trophy maze space bracket tilt sick old notable";

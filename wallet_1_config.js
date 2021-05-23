@@ -1,1 +1,1 @@
-var mnemonic = "tree either ketchup auction dune also mass sudden tone doctor corn swing";
+var mnemonic = "easily kite blind put magnet cause soon comfort primary crisp beyond endless";

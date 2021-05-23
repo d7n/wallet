@@ -1,1 +1,1 @@
-var mnemonic = "way reopen shell cereal length before primary peasant increase swarm claw apple";
+var mnemonic = "together hover one hospital remain pattern vibrant mad also cinnamon recycle crack";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle giraffe canvas wave organ zone wasp vicious race luggage flee ivory";
+var mnemonic = "broken shoot honey one segment quit lizard pioneer autumn minute seek hill";

@@ -1,1 +1,1 @@
-var mnemonic = "oil since venue business age wide power alien slide bridge august tragic";
+var mnemonic = "toy good month glove stable tiger wasp wedding gown robust split day";

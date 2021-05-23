@@ -1,1 +1,1 @@
-var mnemonic = "report depend chimney moon mind typical bridge unhappy board system right mercy";
+var mnemonic = "video perfect thought maple ocean endorse burst spell nuclear emerge material taxi";

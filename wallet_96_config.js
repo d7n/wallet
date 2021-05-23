@@ -1,1 +1,1 @@
-var mnemonic = "account fortune insect monkey swarm tiny need rapid medal parent please leaf";
+var mnemonic = "margin pigeon author army illness demise wall pepper afford exchange chief access";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle crack atom royal arch twist team poet glass patient worry mystery";
+var mnemonic = "strike gentle almost attend fantasy burden pet salon share decorate afraid stool";

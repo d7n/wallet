@@ -1,1 +1,1 @@
-var mnemonic = "spice forward tattoo hollow tired valley planet document pledge pride innocent sting";
+var mnemonic = "tree thought bean hunt crop close lens face stumble fade life client";

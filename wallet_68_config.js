@@ -1,1 +1,1 @@
-var mnemonic = "snake kiss frequent time wheel fancy cotton box window filter online zoo";
+var mnemonic = "office pride spatial rich reopen supreme jazz sleep news mask sleep lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain tragic please property hour lock message face churn must result axis";
+var mnemonic = "bargain ghost arrange talent half mix jeans venue daughter mass pepper amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado resource solve enforce joy acoustic pull lock pull river bleak soft";
+var mnemonic = "clog world ghost lens spin output wire ozone camp unlock crucial home";

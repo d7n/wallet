@@ -1,1 +1,1 @@
-var mnemonic = "butter exchange renew clarify drive erosion enrich velvet style rotate lock quantum";
+var mnemonic = "injury title exile nasty weasel favorite credit catch critic monster size rather";

@@ -1,1 +1,1 @@
-var mnemonic = "van grief loop entire spawn imitate unit oven actress spoon silent that";
+var mnemonic = "slogan theme orbit nose laundry above nephew kiwi flower attract pause cupboard";

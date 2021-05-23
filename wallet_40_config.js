@@ -1,1 +1,1 @@
-var mnemonic = "forum real double exhibit galaxy grunt about physical level reflect subject weather";
+var mnemonic = "peace purpose metal catalog record situate concert cattle polar parrot mystery robust";

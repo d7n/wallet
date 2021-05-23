@@ -1,1 +1,1 @@
-var mnemonic = "conduct release push accuse lens stand snake sing physical buyer bread nice";
+var mnemonic = "clerk burden level chapter upset discover useful squirrel steel media next random";

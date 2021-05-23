@@ -1,1 +1,1 @@
-var mnemonic = "valid subway major humor celery struggle shift buffalo drip sadness boil wrestle";
+var mnemonic = "repeat eye awful elder disease add struggle romance avoid spawn process moon";

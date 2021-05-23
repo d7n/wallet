@@ -1,1 +1,1 @@
-var mnemonic = "damp pupil load scheme green device adjust plate baby cake moon inspire";
+var mnemonic = "gossip battle able punch negative write below number cute pipe region muffin";

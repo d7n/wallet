@@ -1,1 +1,1 @@
-var mnemonic = "spawn left actor mesh miss cave knock wealth soft color peasant wheel";
+var mnemonic = "radar brick item universe situate draw clarify elite strike motion stamp caution";

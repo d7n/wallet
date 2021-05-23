@@ -1,1 +1,1 @@
-var mnemonic = "route apart meadow pear kingdom scorpion egg second door spot fold rain";
+var mnemonic = "coast sword resemble garbage easy erupt invite topic notice wheel album mention";

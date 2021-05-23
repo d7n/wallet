@@ -1,1 +1,1 @@
-var mnemonic = "easily win pyramid table during degree loyal radio member human mule tape";
+var mnemonic = "shift gloom execute arrange divorce south snow wise same naive brass voyage";

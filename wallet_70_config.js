@@ -1,1 +1,1 @@
-var mnemonic = "hen seed engage buyer attack kid sight shoot motor food usual infant";
+var mnemonic = "truth young anxiety outdoor air steak fat loop misery split silver web";

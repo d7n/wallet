@@ -1,1 +1,1 @@
-var mnemonic = "fit bleak dash flush cube dress diet eyebrow wash buyer economy neither";
+var mnemonic = "sail potato chair neutral possible elbow guard pride actor energy save memory";

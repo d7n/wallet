@@ -1,1 +1,1 @@
-var mnemonic = "lady actor stairs coach target erosion question pipe rapid donate dance glad";
+var mnemonic = "door transfer perfect upper face beauty lottery firm garment atom noble hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "eye attitude oblige final hair buzz thumb shop focus siege sea boss";
+var mnemonic = "coral flip boat same proof ramp since length slam glove bounce bunker";

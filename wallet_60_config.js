@@ -1,1 +1,1 @@
-var mnemonic = "advance garden away tragic immense situate test alpha athlete sorry office problem";
+var mnemonic = "now fire cave adapt actor humor flip rough level clarify poem ketchup";

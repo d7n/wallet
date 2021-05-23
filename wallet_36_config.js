@@ -1,1 +1,1 @@
-var mnemonic = "bonus critic cost innocent pass slot under quick denial december used clarify";
+var mnemonic = "require anxiety oak frame maple broccoli suggest gesture nephew hammer shield turn";

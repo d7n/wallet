@@ -1,1 +1,1 @@
-var mnemonic = "evil front lemon erupt build express kiss swift boy ahead fury style";
+var mnemonic = "engine brisk sentence defense switch point rose crater crisp entry tomato economy";

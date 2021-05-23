@@ -1,1 +1,1 @@
-var mnemonic = "document virtual increase medal immune duck armor myself seven swap budget high";
+var mnemonic = "biology supply jungle bargain inside easily spin sugar ritual enhance wasp garlic";

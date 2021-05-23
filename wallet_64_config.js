@@ -1,1 +1,1 @@
-var mnemonic = "repair live lion inhale cheap cloth clean way verify left since swallow";
+var mnemonic = "badge resist depth oval coyote escape boat moon arctic meadow ski can";

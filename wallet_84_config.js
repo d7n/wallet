@@ -1,1 +1,1 @@
-var mnemonic = "regret blue mechanic width harbor denial collect napkin naive bar robot evoke";
+var mnemonic = "candy resist funny win surprise tent cabbage ceiling gossip certain holiday bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "gold burger nominee race bullet practice wave road nerve home long cover";
+var mnemonic = "myself spray inject clutch sand grit pumpkin cement knock radar chalk afraid";

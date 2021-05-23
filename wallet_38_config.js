@@ -1,1 +1,1 @@
-var mnemonic = "arena hurdle modify lab badge jelly hobby segment poverty bag margin cherry";
+var mnemonic = "tilt episode nest supply alien pelican raccoon welcome clay unfold scissors quit";

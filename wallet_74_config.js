@@ -1,1 +1,1 @@
-var mnemonic = "exit pattern disorder stay spring century destroy wing captain apart connect moon";
+var mnemonic = "retire sense impulse column company donkey sunny trade cabin vapor west across";

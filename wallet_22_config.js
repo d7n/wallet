@@ -1,1 +1,1 @@
-var mnemonic = "chapter dry stove profit vote ring club act immense buffalo endless warm";
+var mnemonic = "start quantum ensure flight super ceiling strike fine nurse style armor sorry";

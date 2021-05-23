@@ -1,1 +1,1 @@
-var mnemonic = "timber crazy anxiety client fade enough essence employ nerve elite enroll current";
+var mnemonic = "bid paper marine betray type pitch apology mobile style final flavor confirm";

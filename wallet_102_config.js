@@ -1,1 +1,1 @@
-var mnemonic = "flavor bike flight property behave village spread strike deliver choose dad immune";
+var mnemonic = "quarter joy metal sense gap puzzle round run shed pitch science expose";

@@ -1,1 +1,1 @@
-var mnemonic = "pride resemble middle dumb surprise island weasel flip upper outer tortoise earn";
+var mnemonic = "vessel display that impose walk firm diary hammer giant mango virus grass";

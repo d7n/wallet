@@ -1,1 +1,1 @@
-var mnemonic = "kid taxi special special scout decorate quit hamster cube fitness artist flight";
+var mnemonic = "replace embark elite resource canvas inflict expose second digital grocery mail reunion";

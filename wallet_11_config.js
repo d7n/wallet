@@ -1,1 +1,1 @@
-var mnemonic = "slow absorb forest shallow child select toilet useful engage boat gather cargo";
+var mnemonic = "bargain illegal gate super fiscal goat finger host vote hurt steak actual";

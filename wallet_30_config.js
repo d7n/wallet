@@ -1,1 +1,1 @@
-var mnemonic = "initial dad scare phone chaos urge immune distance top taxi exchange wish";
+var mnemonic = "paddle simple wreck swamp rookie chest mad maximum shuffle chest trust reward";

@@ -1,1 +1,1 @@
-var mnemonic = "member shrimp exhaust payment like stick connect blind either noodle woman stairs";
+var mnemonic = "bunker inch matrix result stable sense account knee satisfy uniform move east";

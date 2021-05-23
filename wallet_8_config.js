@@ -1,1 +1,1 @@
-var mnemonic = "display truth subject shallow census result total toe chaos grocery laptop innocent";
+var mnemonic = "gate daughter spawn million farm always child better glue refuse attack jewel";

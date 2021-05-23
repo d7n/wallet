@@ -1,1 +1,1 @@
-var mnemonic = "forest bicycle liar resemble cable huge penalty ice artefact fluid question middle";
+var mnemonic = "midnight excuse flat cabin tell foam milk aspect best filter cargo uncover";

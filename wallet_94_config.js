@@ -1,1 +1,1 @@
-var mnemonic = "artwork across patient assist artist dream cheese ketchup blush decrease boss social";
+var mnemonic = "machine excite oil unhappy outdoor toe pair combine jump olive glove quote";

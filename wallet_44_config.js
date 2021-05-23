@@ -1,1 +1,1 @@
-var mnemonic = "dignity civil moon ancient whip sock devote hamster above solar tragic plug";
+var mnemonic = "record nature approve sting bitter make chronic cactus grain library clump exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "very pupil link iron equip antenna draw interest custom update two day";
+var mnemonic = "verify fall attract protect produce bitter clump speed vast junior dilemma stem";

@@ -1,1 +1,1 @@
-var mnemonic = "school observe fame chimney intact vast kitten diamond machine length weird heavy";
+var mnemonic = "replace lab prize hollow today ability legend nature describe matrix man repair";

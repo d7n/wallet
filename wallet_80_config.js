@@ -1,1 +1,1 @@
-var mnemonic = "media arctic size couch already tilt marriage clutch vibrant basic good priority";
+var mnemonic = "celery narrow luggage art cannon trick curtain extend blouse violin grow six";

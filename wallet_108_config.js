@@ -1,1 +1,1 @@
-var mnemonic = "naive couple tuition idle hint cry hungry output mango load awful layer";
+var mnemonic = "cereal bind actor dad ridge total fitness broken session degree giraffe device";

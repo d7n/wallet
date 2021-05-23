@@ -1,1 +1,1 @@
-var mnemonic = "north actor engine acid ocean loyal neither buzz yard lift area leader";
+var mnemonic = "void employ news begin obey worth release gain coconut recall park crush";

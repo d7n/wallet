@@ -1,1 +1,1 @@
-var mnemonic = "actual royal gym all summer song spy bounce cactus lion foot rebuild";
+var mnemonic = "adapt glove season empty attend vivid circle unique negative plastic that era";

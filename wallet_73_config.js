@@ -1,1 +1,1 @@
-var mnemonic = "rotate whisper deposit ready more meat coast empower advance arena evil leopard";
+var mnemonic = "dentist sadness stove donate kiwi crazy youth predict oval pencil tenant quantum";

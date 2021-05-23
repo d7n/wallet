@@ -1,1 +1,1 @@
-var mnemonic = "business body canyon frost auto else demand ripple tiger metal cheese layer";
+var mnemonic = "spike page pole dream turtle must ignore awake item spare strike aware";

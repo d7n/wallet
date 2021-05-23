@@ -1,1 +1,1 @@
-var mnemonic = "gap tackle space item neutral toilet kingdom kid fresh game prevent cotton";
+var mnemonic = "denial fancy rail second wheel addict throw fit smart awful manage name";

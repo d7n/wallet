@@ -1,1 +1,1 @@
-var mnemonic = "reopen jealous elevator stage author silent speed lamp assist album mom advice";
+var mnemonic = "rhythm embrace horn scrub film network below increase kick panther game glide";

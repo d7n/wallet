@@ -1,1 +1,1 @@
-var mnemonic = "decide spy advance tank mandate indicate copy switch fringe churn resemble slice";
+var mnemonic = "rebel walnut grocery route chair guess beef soda enable inspire mercy comfort";

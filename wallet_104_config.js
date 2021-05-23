@@ -1,1 +1,1 @@
-var mnemonic = "key become void element void cat fitness injury capital energy obscure afford";
+var mnemonic = "cover name snake sword simple fan jelly riot palm like day fatigue";

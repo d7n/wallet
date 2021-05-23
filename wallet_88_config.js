@@ -1,1 +1,1 @@
-var mnemonic = "quote portion office slot best another toilet scene begin charge allow zone";
+var mnemonic = "phone initial calm tube code whip proud embody abuse palace mix post";

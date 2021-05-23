@@ -1,1 +1,1 @@
-var mnemonic = "sure direct satisfy pause weapon sport bundle myself help day bulb glare";
+var mnemonic = "west oven asset section sweet fuel submit actor jar rent excite pass";

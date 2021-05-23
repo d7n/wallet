@@ -1,1 +1,1 @@
-var mnemonic = "hip method estate yard hidden taste stumble grain diary journey art poem";
+var mnemonic = "multiply donkey defy render nerve visa scorpion logic mask taste rate pear";

@@ -1,1 +1,1 @@
-var mnemonic = "honey vibrant train omit rare friend loop vessel drip stable tent hat";
+var mnemonic = "dress cream bracket gold tragic game unfair twice detail cinnamon real error";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent person invest patrol harsh ankle level seven sense swap layer latin";
+var mnemonic = "initial spy lumber balcony online fringe test tide chalk equal vibrant grain";

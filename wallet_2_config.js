@@ -1,1 +1,1 @@
-var mnemonic = "local dice pilot calm fold exile fine net aisle nerve crunch laptop";
+var mnemonic = "invite assume blade toddler coach vintage velvet crater squirrel domain enforce useless";

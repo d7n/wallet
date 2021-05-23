@@ -1,1 +1,1 @@
-var mnemonic = "cook happy opinion garlic little away glad hen walnut rookie country much";
+var mnemonic = "whisper now poem cherry winter raccoon two fortune develop casual mercy world";

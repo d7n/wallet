@@ -1,1 +1,1 @@
-var mnemonic = "team wire size fine ability oak art sport present token fresh link";
+var mnemonic = "sight rib fortune release avoid size flush burst beach erupt install clay";

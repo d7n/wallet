@@ -1,1 +1,1 @@
-var mnemonic = "fun note sponsor resemble such pig what high that bronze before glory";
+var mnemonic = "title enroll stereo guess seek fetch salute decide option winner fortune boy";

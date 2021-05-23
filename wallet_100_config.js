@@ -1,1 +1,1 @@
-var mnemonic = "result inform enroll try coach pill ankle usual student inject perfect fringe";
+var mnemonic = "social borrow garment mention acoustic myself just accuse butter shock pupil absurd";

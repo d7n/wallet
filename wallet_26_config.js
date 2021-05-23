@@ -1,1 +1,1 @@
-var mnemonic = "miss phone road pause drip scorpion tape weapon skull guilt urge eagle";
+var mnemonic = "balance fix kitchen chuckle range lava use business garden remove find clap";

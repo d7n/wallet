@@ -1,1 +1,1 @@
-var mnemonic = "march length pause glimpse hundred dad prize evolve neck toss blossom lens";
+var mnemonic = "away rate bus explain reunion squirrel example physical taxi witness vocal trick";

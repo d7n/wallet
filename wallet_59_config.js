@@ -1,1 +1,1 @@
-var mnemonic = "donor practice emerge crucial account sick wall midnight tumble broken climb city";
+var mnemonic = "insect shoe share swallow hybrid garden custom pledge alien area follow already";

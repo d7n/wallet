@@ -1,1 +1,1 @@
-var mnemonic = "gym later wish cruel wet fuel orphan prosper before depend advance earth";
+var mnemonic = "wreck essay bamboo arrest visual extend hand erode fox strategy excite frog";

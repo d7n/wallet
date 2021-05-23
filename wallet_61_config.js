@@ -1,1 +1,1 @@
-var mnemonic = "habit practice unable reflect cereal sniff topple chair brain sample acquire hello";
+var mnemonic = "govern lunch cushion tape pulp worry desk armed notable unique margin you";

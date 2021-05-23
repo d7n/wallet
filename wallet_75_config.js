@@ -1,1 +1,1 @@
-var mnemonic = "rose subject cigar muscle tornado mesh enemy kid person marble wet valve";
+var mnemonic = "coffee leisure surround skin item head fancy pony nut blouse dream ketchup";

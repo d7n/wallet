@@ -1,1 +1,1 @@
-var mnemonic = "trophy reflect iron denial thrive pizza tilt language pass wash exchange modify";
+var mnemonic = "question equal wear spatial axis ritual cliff use edit cheese cruise fork";

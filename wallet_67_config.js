@@ -1,1 +1,1 @@
-var mnemonic = "laptop discover front grass gather better settle tongue certain latin casino few";
+var mnemonic = "before shrug real bless spawn glare candy quit comic predict spike heavy";

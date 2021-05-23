@@ -1,1 +1,1 @@
-var mnemonic = "month pattern business develop novel side piano wet coconut owner craft sting";
+var mnemonic = "scorpion stick route lonely point escape output connect build unusual violin argue";

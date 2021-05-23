@@ -1,1 +1,1 @@
-var mnemonic = "differ absent spy acoustic holiday excuse defense weird gas buyer fix enrich";
+var mnemonic = "wage absorb tooth ramp aisle cook fossil dolphin license equip test hill";

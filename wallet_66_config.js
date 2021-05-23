@@ -1,1 +1,1 @@
-var mnemonic = "final timber grunt hybrid city hire easy burden solar amateur illness apology";
+var mnemonic = "tiny tunnel carbon motor caught axis kite weapon arch wet lucky orient";

@@ -1,1 +1,1 @@
-var mnemonic = "daring wage system future goose nose sick chuckle huge skirt crash bless";
+var mnemonic = "stock furnace refuse plate quick weird dream test wine alien panel cloth";

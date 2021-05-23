@@ -1,1 +1,1 @@
-var mnemonic = "matrix satoshi artefact thrive asthma report owner valid weekend beef crystal spell";
+var mnemonic = "quick salmon bike green popular just reason curious mosquito income error deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "pave immune spike bag define monster knee family jar enact pole crack";
+var mnemonic = "pull hard pitch crew length injury wish build trick quote cost steel";

@@ -1,1 +1,1 @@
-var mnemonic = "feed fork banana erosion wisdom potato share filter nice rather worth happy";
+var mnemonic = "luxury visa jacket kiwi swift bounce crucial dragon orchard ivory soon tent";

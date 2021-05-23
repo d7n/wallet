@@ -1,1 +1,1 @@
-var mnemonic = "jelly abstract cruise month cry sort depart humble solar bar various lake";
+var mnemonic = "lobster film rebuild punch acid head calm logic grit exhaust gallery river";

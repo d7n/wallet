@@ -1,1 +1,1 @@
-var mnemonic = "donor party actor black web fruit shine uphold glimpse edit appear wrestle";
+var mnemonic = "detail turtle afraid clerk beach father host nose marble hotel core jar";

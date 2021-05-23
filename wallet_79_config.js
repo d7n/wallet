@@ -1,1 +1,1 @@
-var mnemonic = "exit donate ranch between allow box crop tiny develop lab omit address";
+var mnemonic = "sudden task slender office green twin dog ship devote glove couple frown";

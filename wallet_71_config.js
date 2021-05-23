@@ -1,1 +1,1 @@
-var mnemonic = "voice illness bunker method afford result come path farm gadget leaf announce";
+var mnemonic = "leopard claw final dawn hint drift ask melt peanut resource lift slush";

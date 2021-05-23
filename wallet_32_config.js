@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur friend arctic angle rare father rule around into garment play prefer";
+var mnemonic = "gallery seek snack side theory feed miracle mail spoil crime library street";

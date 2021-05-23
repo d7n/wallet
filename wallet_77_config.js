@@ -1,1 +1,1 @@
-var mnemonic = "square clutch opinion reopen trumpet view home stairs sun alcohol federal silk";
+var mnemonic = "rapid estate teach ethics animal false furnace deny mixed version call shine";
