@@ -1,1 +1,1 @@
-var mnemonic = "veteran unhappy clump position mom staff coach danger recipe captain text ladder";
+var mnemonic = "lab way family arrow minimum eagle tomato student tree faint polar since";

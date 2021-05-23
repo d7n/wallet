@@ -1,1 +1,1 @@
-var mnemonic = "stable lounge twice action category kiwi token alien palace alcohol cargo engage";
+var mnemonic = "arena love turtle answer wagon elder excite rule nose arrange vague gadget";

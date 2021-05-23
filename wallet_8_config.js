@@ -1,1 +1,1 @@
-var mnemonic = "man one want rookie include net position salmon health blind green angle";
+var mnemonic = "sniff mansion vapor forum swing cable rich foil enable ski current drastic";

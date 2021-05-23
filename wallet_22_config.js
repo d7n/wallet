@@ -1,1 +1,1 @@
-var mnemonic = "system trash put exhibit tissue destroy setup victory agree bounce pitch ensure";
+var mnemonic = "into traffic reject warfare core assist recipe jar pen wild faculty timber";

@@ -1,1 +1,1 @@
-var mnemonic = "load pattern fragile color balcony because cause broken orange mother usage cattle";
+var mnemonic = "crime carbon sleep rich shallow convince monster pony satisfy story domain apology";

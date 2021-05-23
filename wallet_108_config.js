@@ -1,1 +1,1 @@
-var mnemonic = "inquiry rival grab wall crouch solution nut monkey convince reflect dose sad";
+var mnemonic = "faith cradle fatigue speed clarify tennis base middle title mansion prevent reason";

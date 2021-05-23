@@ -1,1 +1,1 @@
-var mnemonic = "hockey deny cover couch easy manage survey balance dignity cram truly impulse";
+var mnemonic = "scissors until table woman reward solid churn flee impulse tooth slide jacket";

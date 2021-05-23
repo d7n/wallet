@@ -1,1 +1,1 @@
-var mnemonic = "jacket bless warrior swarm detect bicycle deal ceiling meat equip rival parade";
+var mnemonic = "judge crumble soup tomato siren much saddle derive dad clown drip leaf";

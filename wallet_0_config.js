@@ -1,1 +1,1 @@
-var mnemonic = "grace live lounge mandate boil artwork fresh finger feed shield early rotate";
+var mnemonic = "soap egg recycle mule music forum remain early tribe this attend energy";

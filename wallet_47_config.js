@@ -1,1 +1,1 @@
-var mnemonic = "lumber badge kiss excuse culture patrol cheap clinic phone jar clog hero";
+var mnemonic = "interest penalty creek farm unknown drama pudding remain legend again allow spoil";

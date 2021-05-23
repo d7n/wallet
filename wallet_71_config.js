@@ -1,1 +1,1 @@
-var mnemonic = "travel quote shine charge rib inform skirt stick zebra want dawn spare";
+var mnemonic = "person journey border spice tuition injury theory print system arm ancient mule";

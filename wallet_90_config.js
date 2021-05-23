@@ -1,1 +1,1 @@
-var mnemonic = "engine wrap high film gas kit refuse bus until mutual speed voyage";
+var mnemonic = "rocket siege more body twist retreat lion rotate pen rabbit parrot cave";

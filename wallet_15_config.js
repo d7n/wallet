@@ -1,1 +1,1 @@
-var mnemonic = "venture false clutch couch table solar include across drum parade strike harbor";
+var mnemonic = "crane track cost major receive fun true someone flat clutch lion nose";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy slender carpet gloom twenty eye mother swallow decide table mule gown";
+var mnemonic = "joy alert circle bracket few guitar cash forum pause beyond auction tape";

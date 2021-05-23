@@ -1,1 +1,1 @@
-var mnemonic = "visa talk jacket example jealous easy border smoke punch short gun assault";
+var mnemonic = "absurd uphold party recycle heavy forget wheat shoulder squirrel token absent lazy";

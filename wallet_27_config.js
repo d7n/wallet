@@ -1,1 +1,1 @@
-var mnemonic = "parrot riot grocery enlist visit ankle robust execute onion try crew kitchen";
+var mnemonic = "history novel retire carbon doll decade evil title february candy tilt bless";

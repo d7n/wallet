@@ -1,1 +1,1 @@
-var mnemonic = "seat torch wrestle ball fall often surround clever top enforce feel option";
+var mnemonic = "bring once kitchen raise transfer icon march hint month midnight expire jungle";

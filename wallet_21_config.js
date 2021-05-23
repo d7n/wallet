@@ -1,1 +1,1 @@
-var mnemonic = "sample envelope border bicycle grit trap mix impose salad clay trouble punch";
+var mnemonic = "hair link shoot young volume detect concert maximum witness category board service";

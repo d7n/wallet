@@ -1,1 +1,1 @@
-var mnemonic = "wear present proof clump wage oil pudding exhaust accuse system bread try";
+var mnemonic = "river suffer candy baby october gentle slot alarm flag canyon mouse capital";

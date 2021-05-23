@@ -1,1 +1,1 @@
-var mnemonic = "gun riot sorry jar main pulp smile olive rhythm buzz hub phone";
+var mnemonic = "cook live pencil any theme muffin sheriff hold arrest lucky fiscal pen";

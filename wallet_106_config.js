@@ -1,1 +1,1 @@
-var mnemonic = "edit grow chalk wedding science sweet sudden admit rigid portion glimpse help";
+var mnemonic = "earth police have dilemma usual surface tennis impose that believe bring morning";

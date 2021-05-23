@@ -1,1 +1,1 @@
-var mnemonic = "junior nominee blood cluster give exercise upgrade scale help town during drastic";
+var mnemonic = "flavor major wife addict birth pigeon aspect river lunch secret chest kingdom";

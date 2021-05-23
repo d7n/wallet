@@ -1,1 +1,1 @@
-var mnemonic = "cotton tower era point stand fine describe torch ill ancient useful away";
+var mnemonic = "stem winner develop wrist wagon method soda parade acquire convince valley space";

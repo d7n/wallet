@@ -1,1 +1,1 @@
-var mnemonic = "theme hen diary abandon double bring body delay waste local bottom elder";
+var mnemonic = "fitness stay cargo claw way below message ill loan expand purchase clay";

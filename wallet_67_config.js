@@ -1,1 +1,1 @@
-var mnemonic = "poverty treat panda mystery roof setup faith spawn hour uniform fan average";
+var mnemonic = "move behave scale inside motion kidney wild range attitude tooth barely helmet";

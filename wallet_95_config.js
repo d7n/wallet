@@ -1,1 +1,1 @@
-var mnemonic = "lunch festival remember cry kit carry soccer squirrel picture vast evil cover";
+var mnemonic = "ritual fold seat hat surround mercy useful sauce hat faculty ensure employ";

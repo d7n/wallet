@@ -1,1 +1,1 @@
-var mnemonic = "term vapor engage stomach soup virtual tube question problem isolate ugly illegal";
+var mnemonic = "tribe list wreck acid inmate section toddler slam ring vendor pistol city";

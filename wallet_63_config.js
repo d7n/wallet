@@ -1,1 +1,1 @@
-var mnemonic = "raw door truck satoshi total stable chef crunch risk habit crash phrase";
+var mnemonic = "frost drip divert joke organ neglect sure hybrid horn swift reopen fiscal";

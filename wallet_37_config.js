@@ -1,1 +1,1 @@
-var mnemonic = "mail hire health vicious valid ready hood correct favorite three combine draft";
+var mnemonic = "clump repair reject garbage group abandon race scrub rapid lava meat ceiling";

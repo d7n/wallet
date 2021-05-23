@@ -1,1 +1,1 @@
-var mnemonic = "glass jealous census defy timber kiss inspire cannon embody notice inform garbage";
+var mnemonic = "bird economy power outer inmate fury rebel hobby mushroom true light legend";

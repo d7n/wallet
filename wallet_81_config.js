@@ -1,1 +1,1 @@
-var mnemonic = "double miss inside rather acid sketch inflict loud ostrich inner hidden oppose";
+var mnemonic = "casual embrace sword quantum black flip diary wire disagree patient beyond slight";

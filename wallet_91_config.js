@@ -1,1 +1,1 @@
-var mnemonic = "exhaust any honey glow first valve stumble leader assist slab faith shaft";
+var mnemonic = "since there ancient sample anchor phone anchor harbor pepper audit next ship";

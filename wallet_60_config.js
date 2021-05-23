@@ -1,1 +1,1 @@
-var mnemonic = "vital trust bread brass abandon never they negative way wealth cable provide";
+var mnemonic = "notable keep people audit verify velvet purse action two chunk problem copper";

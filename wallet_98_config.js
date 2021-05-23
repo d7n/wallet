@@ -1,1 +1,1 @@
-var mnemonic = "camp wave monitor squeeze change call doll example subway salt sleep common";
+var mnemonic = "during dream negative tired stable work grab panda ribbon crucial panic black";

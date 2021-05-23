@@ -1,1 +1,1 @@
-var mnemonic = "equal shoot share mandate vacuum much long rude blouse artist shy calm";
+var mnemonic = "always above twist spare require claw antique puppy okay spider copy what";

@@ -1,1 +1,1 @@
-var mnemonic = "exit way gospel pledge embody cereal loop barely forget admit life fan";
+var mnemonic = "army world credit main vague suspect feel donor cliff exclude mom fringe";

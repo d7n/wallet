@@ -1,1 +1,1 @@
-var mnemonic = "correct credit chief remember actual metal culture raise direct rib cement recipe";
+var mnemonic = "diamond zone allow cigar journey tent invest into captain direct sort practice";

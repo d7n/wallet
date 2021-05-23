@@ -1,1 +1,1 @@
-var mnemonic = "range depth icon budget robust mountain illegal carpet toss champion wood tiny";
+var mnemonic = "jealous wise twin private subway hip top cart cricket hour isolate process";

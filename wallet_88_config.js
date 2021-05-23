@@ -1,1 +1,1 @@
-var mnemonic = "top simple shop wing scissors barely situate choice shop message mass place";
+var mnemonic = "taxi farm fossil become timber identify tail duck beauty fitness crawl slogan";

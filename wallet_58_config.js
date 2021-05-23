@@ -1,1 +1,1 @@
-var mnemonic = "educate space roof another suit zoo sunset between afraid december manage nut";
+var mnemonic = "dragon select wet ride crunch yard february job dizzy soon fee camp";

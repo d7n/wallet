@@ -1,1 +1,1 @@
-var mnemonic = "heavy core pluck acid shield must current wall glow tattoo spray enable";
+var mnemonic = "buzz wheat tumble unhappy path unusual genre animal pizza almost satisfy increase";

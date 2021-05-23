@@ -1,1 +1,1 @@
-var mnemonic = "pioneer cry profit velvet bird alien envelope guilt maple marriage alone trap";
+var mnemonic = "visa notice price donkey outside predict skate parade until coffee icon super";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow cruise iron enhance jelly cousin barrel cattle earth mother paddle city";
+var mnemonic = "cook romance near copy basket point doctor cupboard gentle fresh food desert";

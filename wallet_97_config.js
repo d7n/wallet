@@ -1,1 +1,1 @@
-var mnemonic = "two ramp piece depart result vintage want damp used fancy owner neither";
+var mnemonic = "trash message dune bargain park traffic fresh east reason yellow fortune lounge";

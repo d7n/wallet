@@ -1,1 +1,1 @@
-var mnemonic = "ill edit want open amazing rain alpha eyebrow gift push topic estate";
+var mnemonic = "grab cancel disagree shrimp erode copy polar debate forum solution shoe suffer";

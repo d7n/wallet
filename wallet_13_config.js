@@ -1,1 +1,1 @@
-var mnemonic = "pretty space pyramid toe regular window divorce parrot live chapter bring scene";
+var mnemonic = "grow know call tent merge meadow rather video hair soft hard slot";

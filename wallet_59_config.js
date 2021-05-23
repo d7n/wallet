@@ -1,1 +1,1 @@
-var mnemonic = "damage urban wedding arrive minimum super castle purse small frozen toddler blue";
+var mnemonic = "mercy much able music bachelor wall grass narrow toe twice embark bargain";

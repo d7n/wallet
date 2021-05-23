@@ -1,1 +1,1 @@
-var mnemonic = "daughter drink require trade unlock beach maximum runway ride clay grape report";
+var mnemonic = "outdoor divorce bid asset sudden inhale unfold law calm barrel strong sponsor";

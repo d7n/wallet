@@ -1,1 +1,1 @@
-var mnemonic = "ecology filter crime federal blind ivory lizard ramp track invest almost engage";
+var mnemonic = "tattoo strike wrap attack number text kidney lady liquid traffic dish allow";

@@ -1,1 +1,1 @@
-var mnemonic = "feel cram goose piano broccoli hello inside flame tongue shield advance cross";
+var mnemonic = "call lady slush fever slam siege monster defy seminar major fiscal spray";

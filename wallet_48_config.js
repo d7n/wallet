@@ -1,1 +1,1 @@
-var mnemonic = "fox left kid right jazz that noble jealous jar wave card useless";
+var mnemonic = "next baby similar cake address allow vacant input calm seek mail jazz";

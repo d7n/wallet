@@ -1,1 +1,1 @@
-var mnemonic = "reduce dignity dinosaur section voice grit sign clever velvet boost depend fury";
+var mnemonic = "trap ethics doll vendor liar produce then banana window novel lounge slow";

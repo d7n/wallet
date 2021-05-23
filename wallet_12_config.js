@@ -1,1 +1,1 @@
-var mnemonic = "ignore bottom coach beach total device blast amazing aisle fuel document suspect";
+var mnemonic = "snap mean hedgehog ivory pave tooth learn theory wink fan famous ancient";

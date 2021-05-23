@@ -1,1 +1,1 @@
-var mnemonic = "unique update squirrel simple almost stumble robust album clay skirt question potato";
+var mnemonic = "annual win gas impose universe mercy expose unable thrive include much ocean";

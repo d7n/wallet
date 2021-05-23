@@ -1,1 +1,1 @@
-var mnemonic = "vote answer erode friend injury clump boy guilt produce spell ability diagram";
+var mnemonic = "route rigid fall fringe tooth nominee embark organ aunt frozen turkey tone";

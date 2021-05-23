@@ -1,1 +1,1 @@
-var mnemonic = "dynamic vivid fossil galaxy vehicle weekend salute believe sell number faculty buffalo";
+var mnemonic = "connect essence toilet scout buyer dynamic merit mule rice luggage sample swift";

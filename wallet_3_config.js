@@ -1,1 +1,1 @@
-var mnemonic = "goddess identify story feature unit long furnace mushroom outer toe camera gold";
+var mnemonic = "penalty shed spawn nothing fuel throw reform decline drastic flag expire stock";

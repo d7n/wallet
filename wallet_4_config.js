@@ -1,1 +1,1 @@
-var mnemonic = "any sunny stamp possible lobster yellow cost distance tiny naive senior fever";
+var mnemonic = "nasty valley cross edit way polar ignore alert oblige horror acid garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "spy gossip popular elbow phrase deliver very position thunder own control excess";
+var mnemonic = "lens way crush fiscal scout butter neck girl crystal brick toe fetch";

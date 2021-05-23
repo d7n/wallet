@@ -1,1 +1,1 @@
-var mnemonic = "december pretty harvest drip useless kitchen surprise behave roof divorce kid wood";
+var mnemonic = "skull faculty donor market bless slam other mention inquiry suggest hill patch";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp rifle vacuum wood prefer remove addict wheat crouch fork clinic expect";
+var mnemonic = "shop wide sausage ticket insect pass claim swift evolve stumble indoor jewel";

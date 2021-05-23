@@ -1,1 +1,1 @@
-var mnemonic = "horn battle pink crunch chaos retreat tuition resemble water cream sustain fog";
+var mnemonic = "genius matter rely that spider pizza evidence secret refuse chase legend pact";

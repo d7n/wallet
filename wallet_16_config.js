@@ -1,1 +1,1 @@
-var mnemonic = "wise trial whip deal milk image online custom online monitor dune ride";
+var mnemonic = "cinnamon impulse replace hip behind torch forum soda dress pulse elite field";

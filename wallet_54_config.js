@@ -1,1 +1,1 @@
-var mnemonic = "mention word arctic circle private pretty impose apple noble orient win fee";
+var mnemonic = "true relief sand left crisp bring divide false truth wink convince dwarf";

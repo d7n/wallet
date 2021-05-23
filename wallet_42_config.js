@@ -1,1 +1,1 @@
-var mnemonic = "blind hair hope pulse latin dad expand pistol kid two ring hole";
+var mnemonic = "alpha slot lazy dynamic excite poem submit tooth catch thunder energy merge";

@@ -1,1 +1,1 @@
-var mnemonic = "educate stock warfare poet between dismiss pride joy damage legal skull clay";
+var mnemonic = "rather put ripple syrup luxury foil dinner little salt fade finger position";

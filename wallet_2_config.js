@@ -1,1 +1,1 @@
-var mnemonic = "tip until rebel edit never desert royal dress use water garbage truly";
+var mnemonic = "soul soon weird favorite bracket can rely sea mass trick latin avoid";

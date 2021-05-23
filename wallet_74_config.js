@@ -1,1 +1,1 @@
-var mnemonic = "wasp nose alpha grain sponsor shallow stove never pottery flower matrix december";
+var mnemonic = "absent top hover hold slab urban utility few wagon lion dust tube";

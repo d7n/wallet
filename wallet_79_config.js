@@ -1,1 +1,1 @@
-var mnemonic = "private obvious turkey letter valve match hair ritual cloud across punch hood";
+var mnemonic = "feature ribbon shine print poet romance era style unhappy learn initial palm";

@@ -1,1 +1,1 @@
-var mnemonic = "dance tooth symbol visa tone under orchard winter father uniform hammer rice";
+var mnemonic = "simple elegant trigger soap day permit purchase dice globe decline urban eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "bread length quick process gallery velvet relax thumb degree magic entry romance";
+var mnemonic = "cream another hope dust toe fade govern steak topple trick test moon";

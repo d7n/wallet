@@ -1,1 +1,1 @@
-var mnemonic = "couch law admit empower captain burden inform exile sand nerve injury voyage";
+var mnemonic = "jewel feed accident goat crucial bid turtle rapid dumb rally cost piece";

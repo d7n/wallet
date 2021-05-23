@@ -1,1 +1,1 @@
-var mnemonic = "arch program host mention safe shed crane hidden mule ugly aisle sheriff";
+var mnemonic = "able general armed cover net exotic chest tiny economy glory soap elegant";

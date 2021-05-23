@@ -1,1 +1,1 @@
-var mnemonic = "number tunnel patch lend stairs speed mixture solar detect alcohol ability topic";
+var mnemonic = "symptom speak normal either aerobic upper hidden flip copper noodle sausage crazy";

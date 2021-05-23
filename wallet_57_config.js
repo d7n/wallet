@@ -1,1 +1,1 @@
-var mnemonic = "awesome fly off stable heavy various private start admit pelican sight believe";
+var mnemonic = "banner control sadness labor suspect chief husband army dry method horn all";

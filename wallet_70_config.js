@@ -1,1 +1,1 @@
-var mnemonic = "quality thrive flock warrior asset arrest monkey animal material wire enrich wealth";
+var mnemonic = "ill reform peanut when account visual prize broom kick entire clump answer";

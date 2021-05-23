@@ -1,1 +1,1 @@
-var mnemonic = "judge impulse hospital lobster tuna tissue material across isolate art cabin trash";
+var mnemonic = "park shove that mercy indoor stairs nut avoid mind grid citizen sorry";

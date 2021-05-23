@@ -1,1 +1,1 @@
-var mnemonic = "soft brain load heart ostrich will ugly yellow fold detail become initial";
+var mnemonic = "unable hood castle patch tool bean laptop method human slender casino gate";

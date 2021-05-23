@@ -1,1 +1,1 @@
-var mnemonic = "tail combine surge awake kit bar lock resemble install typical mercy shed";
+var mnemonic = "level round social deny casual motor sight alcohol spoil pioneer write goose";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward wash cram remove buyer exist you drama volume stable visit clap";
+var mnemonic = "enforce crumble season police renew crane one memory void deliver recipe monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "light math present dune thought artist render melt uphold blind tube cigar";
+var mnemonic = "public gap clarify credit identify traffic swarm mail defy weather write fatal";

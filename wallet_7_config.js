@@ -1,1 +1,1 @@
-var mnemonic = "cat goose sentence fish toddler supreme arm blade business base save hobby";
+var mnemonic = "wise long side manage reveal giant chuckle sauce crawl night boy elite";

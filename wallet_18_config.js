@@ -1,1 +1,1 @@
-var mnemonic = "radar rice sun random green oblige outdoor strategy path spice best travel";
+var mnemonic = "acquire stand future name direct guide hurt surge swing special property critic";

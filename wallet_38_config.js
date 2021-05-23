@@ -1,1 +1,1 @@
-var mnemonic = "merit legal master identify relax cram lab uniform pulp cave palace outside";
+var mnemonic = "breeze virtual comic jealous case scatter fan spoil thrive domain maple apart";

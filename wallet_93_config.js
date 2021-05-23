@@ -1,1 +1,1 @@
-var mnemonic = "gorilla dial believe fish ocean purity spray soon fuel cost museum you";
+var mnemonic = "dolphin pupil cute turtle health thank salute neglect mixture recipe slab dolphin";

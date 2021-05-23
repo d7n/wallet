@@ -1,1 +1,1 @@
-var mnemonic = "license valid razor outside wheel language alarm squirrel slab false digital oil";
+var mnemonic = "quick income fringe taste spirit tunnel head permit resist mask ginger ordinary";

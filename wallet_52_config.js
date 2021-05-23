@@ -1,1 +1,1 @@
-var mnemonic = "degree news coil soul rude coast mother lecture bless impact detect spare";
+var mnemonic = "digital orange benefit end puzzle mimic cancel hero already more couch meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "trial spider consider wear gold evoke entry dismiss kitten crumble aunt outer";
+var mnemonic = "actual figure bring key omit amazing hello joke drill license hurdle cage";

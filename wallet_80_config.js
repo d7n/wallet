@@ -1,1 +1,1 @@
-var mnemonic = "shift govern push stairs jewel humble issue safe follow jungle latin broccoli";
+var mnemonic = "shrug aisle hospital family ahead skull ozone deposit muscle color load idea";

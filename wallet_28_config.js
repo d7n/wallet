@@ -1,1 +1,1 @@
-var mnemonic = "melody project prevent casual like topple pulp side sustain vast unusual leader";
+var mnemonic = "three quiz exact hand cricket three genuine figure neither three witness zone";

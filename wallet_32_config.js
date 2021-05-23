@@ -1,1 +1,1 @@
-var mnemonic = "gap label midnight tiny then oval host child dinner edge income raw";
+var mnemonic = "service summer pull vault illness luggage attract provide gather nephew width drift";

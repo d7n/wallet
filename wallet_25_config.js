@@ -1,1 +1,1 @@
-var mnemonic = "account special beach convince finger month stadium embark defense element equal miss";
+var mnemonic = "dune amateur bicycle price thumb stadium outside ethics rain same menu region";

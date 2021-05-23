@@ -1,1 +1,1 @@
-var mnemonic = "narrow dance marine stumble ripple basic wedding fine crew page test join";
+var mnemonic = "drop solar supply then alter peace current nut course ticket sense bronze";
