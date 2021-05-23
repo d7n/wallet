@@ -1,1 +1,1 @@
-var mnemonic = "lens way crush fiscal scout butter neck girl crystal brick toe fetch";
+var mnemonic = "forum sister know cheap zone input october perfect fan oxygen bronze harsh";

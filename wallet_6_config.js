@@ -1,1 +1,1 @@
-var mnemonic = "muffin obtain remain cricket blade omit phrase during glove angry boy clerk";
+var mnemonic = "provide ramp day craft wrong elevator double obscure indoor valid horn fade";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha slot lazy dynamic excite poem submit tooth catch thunder energy merge";
+var mnemonic = "network just fresh area sleep recall earth frown upset clean wish usual";

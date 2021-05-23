@@ -1,1 +1,1 @@
-var mnemonic = "next baby similar cake address allow vacant input calm seek mail jazz";
+var mnemonic = "elbow cushion true snack kind pudding magic aunt dinosaur captain quote situate";

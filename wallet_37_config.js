@@ -1,1 +1,1 @@
-var mnemonic = "clump repair reject garbage group abandon race scrub rapid lava meat ceiling";
+var mnemonic = "sight budget you salad industry forest park patrol issue dignity trash icon";

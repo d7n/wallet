@@ -1,1 +1,1 @@
-var mnemonic = "breeze virtual comic jealous case scatter fan spoil thrive domain maple apart";
+var mnemonic = "layer maximum expose creek spike permit meat shell piano public age write";

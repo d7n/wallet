@@ -1,1 +1,1 @@
-var mnemonic = "jewel feed accident goat crucial bid turtle rapid dumb rally cost piece";
+var mnemonic = "moral slim boil spawn crouch girl estate innocent trend gown please talk";

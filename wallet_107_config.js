@@ -1,1 +1,1 @@
-var mnemonic = "enforce crumble season police renew crane one memory void deliver recipe monitor";
+var mnemonic = "never lady answer guide prevent auto fitness acquire arrange voyage curious accuse";

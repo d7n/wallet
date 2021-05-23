@@ -1,1 +1,1 @@
-var mnemonic = "rocket siege more body twist retreat lion rotate pen rabbit parrot cave";
+var mnemonic = "rug apology strategy worth insane output occur any ginger umbrella awesome gain";

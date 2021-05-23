@@ -1,1 +1,1 @@
-var mnemonic = "pelican pony portion pencil spring cushion analyst almost mechanic twice tree found";
+var mnemonic = "vehicle door glove carbon diet funny pitch smoke push opinion mule pony";

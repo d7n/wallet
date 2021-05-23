@@ -1,1 +1,1 @@
-var mnemonic = "super such crystal pen enrich wet aspect bind pool conduct moment auction";
+var mnemonic = "mansion cool awful square light fall permit tunnel piano amazing obscure mobile";

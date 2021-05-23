@@ -1,1 +1,1 @@
-var mnemonic = "bring once kitchen raise transfer icon march hint month midnight expire jungle";
+var mnemonic = "thumb noise solar this student lecture switch bicycle evil liar food bar";

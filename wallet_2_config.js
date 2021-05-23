@@ -1,1 +1,1 @@
-var mnemonic = "soul soon weird favorite bracket can rely sea mass trick latin avoid";
+var mnemonic = "protect kid spawn lottery gaze sentence road glory style delay layer sauce";

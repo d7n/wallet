@@ -1,1 +1,1 @@
-var mnemonic = "feature ribbon shine print poet romance era style unhappy learn initial palm";
+var mnemonic = "drop toe decrease arm drum grass safe raven weapon spy carbon inhale";

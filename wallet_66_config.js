@@ -1,1 +1,1 @@
-var mnemonic = "bird economy power outer inmate fury rebel hobby mushroom true light legend";
+var mnemonic = "burden clap slice dynamic orchard perfect rail silent repeat crystal raccoon gauge";

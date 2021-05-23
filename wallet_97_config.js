@@ -1,1 +1,1 @@
-var mnemonic = "trash message dune bargain park traffic fresh east reason yellow fortune lounge";
+var mnemonic = "purchase pioneer dress deposit suggest setup cover radio obscure general slab popular";

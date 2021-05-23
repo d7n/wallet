@@ -1,1 +1,1 @@
-var mnemonic = "always above twist spare require claw antique puppy okay spider copy what";
+var mnemonic = "hockey brain eternal marine stadium mercy frown gossip portion stuff correct injury";

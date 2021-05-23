@@ -1,1 +1,1 @@
-var mnemonic = "notable keep people audit verify velvet purse action two chunk problem copper";
+var mnemonic = "season dizzy snake hidden midnight spice injury photo oil sell eager decide";

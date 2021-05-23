@@ -1,1 +1,1 @@
-var mnemonic = "cook romance near copy basket point doctor cupboard gentle fresh food desert";
+var mnemonic = "capable elephant mother garment wasp blush tourist rice cheese alien legal marble";

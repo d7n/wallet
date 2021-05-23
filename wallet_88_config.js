@@ -1,1 +1,1 @@
-var mnemonic = "taxi farm fossil become timber identify tail duck beauty fitness crawl slogan";
+var mnemonic = "retreat usage spatial bacon chunk reason jelly slot armed chaos hamster this";

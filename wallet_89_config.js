@@ -1,1 +1,1 @@
-var mnemonic = "diamond zone allow cigar journey tent invest into captain direct sort practice";
+var mnemonic = "powder oppose wrist artefact help destroy matrix actress aspect hint live champion";

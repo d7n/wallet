@@ -1,1 +1,1 @@
-var mnemonic = "army world credit main vague suspect feel donor cliff exclude mom fringe";
+var mnemonic = "office acid advance fly connect bid decide alert tattoo goose hub coyote";

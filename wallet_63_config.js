@@ -1,1 +1,1 @@
-var mnemonic = "frost drip divert joke organ neglect sure hybrid horn swift reopen fiscal";
+var mnemonic = "circle view arm fuel exhibit ivory force accident sick eyebrow save train";

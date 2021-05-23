@@ -1,1 +1,1 @@
-var mnemonic = "level round social deny casual motor sight alcohol spoil pioneer write goose";
+var mnemonic = "balance win false save delay stereo together human this lawn segment loyal";

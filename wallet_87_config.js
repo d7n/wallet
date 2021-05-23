@@ -1,1 +1,1 @@
-var mnemonic = "genius matter rely that spider pizza evidence secret refuse chase legend pact";
+var mnemonic = "huge harbor leader foot zone proud dismiss whisper witness must quiz car";

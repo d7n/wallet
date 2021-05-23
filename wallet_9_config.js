@@ -1,1 +1,1 @@
-var mnemonic = "outdoor divorce bid asset sudden inhale unfold law calm barrel strong sponsor";
+var mnemonic = "donor evoke gift talent ripple section message fabric december swift rubber capital";

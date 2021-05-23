@@ -1,1 +1,1 @@
-var mnemonic = "dune amateur bicycle price thumb stadium outside ethics rain same menu region";
+var mnemonic = "behave egg easily word wet dilemma rubber misery bright output seven motion";

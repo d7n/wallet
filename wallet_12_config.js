@@ -1,1 +1,1 @@
-var mnemonic = "snap mean hedgehog ivory pave tooth learn theory wink fan famous ancient";
+var mnemonic = "company prosper pyramid dream audit shrimp history spoil entry drastic true skate";

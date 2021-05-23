@@ -1,1 +1,1 @@
-var mnemonic = "faith cradle fatigue speed clarify tennis base middle title mansion prevent reason";
+var mnemonic = "media cloud also poet abuse ensure such cat furnace copy tackle obtain";

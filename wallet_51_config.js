@@ -1,1 +1,1 @@
-var mnemonic = "quick income fringe taste spirit tunnel head permit resist mask ginger ordinary";
+var mnemonic = "grab energy scout feature valid blue total country link power leg scare";

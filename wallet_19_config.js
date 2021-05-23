@@ -1,1 +1,1 @@
-var mnemonic = "cream another hope dust toe fade govern steak topple trick test moon";
+var mnemonic = "purse welcome road throw umbrella apology crunch upon crisp time adjust wood";

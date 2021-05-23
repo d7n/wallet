@@ -1,1 +1,1 @@
-var mnemonic = "annual win gas impose universe mercy expose unable thrive include much ocean";
+var mnemonic = "style apple uncle judge attack hotel flush leaf please forest copy absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "during dream negative tired stable work grab panda ribbon crucial panic black";
+var mnemonic = "nature wish raven banner flush clean coyote inform member velvet grain squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor major wife addict birth pigeon aspect river lunch secret chest kingdom";
+var mnemonic = "result museum clap uphold unhappy obtain shiver fortune original leader lift trend";

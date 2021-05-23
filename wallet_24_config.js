@@ -1,1 +1,1 @@
-var mnemonic = "simple elegant trigger soap day permit purchase dice globe decline urban eternal";
+var mnemonic = "fall flat ecology news text hero chimney glue series account crane cheap";

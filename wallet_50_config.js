@@ -1,1 +1,1 @@
-var mnemonic = "absurd uphold party recycle heavy forget wheat shoulder squirrel token absent lazy";
+var mnemonic = "tank harsh fog federal canal surface depth envelope idle thunder try verb";

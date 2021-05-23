@@ -1,1 +1,1 @@
-var mnemonic = "fitness stay cargo claw way below message ill loan expand purchase clay";
+var mnemonic = "remember coin action index people nature fog mask pluck nest flush industry";

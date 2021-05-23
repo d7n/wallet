@@ -1,1 +1,1 @@
-var mnemonic = "vivid remain upon pistol labor seven harbor across symptom slender marine camp";
+var mnemonic = "problem inherit update stadium glimpse sight zone destroy risk engage inquiry bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "call lady slush fever slam siege monster defy seminar major fiscal spray";
+var mnemonic = "modify region music that eight mesh depart valley small help boss zoo";

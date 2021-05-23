@@ -1,1 +1,1 @@
-var mnemonic = "grow know call tent merge meadow rather video hair soft hard slot";
+var mnemonic = "oblige wash panther mansion empty obtain reveal ecology stomach sure firm festival";

@@ -1,1 +1,1 @@
-var mnemonic = "segment relax chaos refuse spend soft appear drop december volume oblige speak";
+var mnemonic = "buyer ripple outside any tissue decline team defense ski invest crouch glow";

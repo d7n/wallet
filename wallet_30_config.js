@@ -1,1 +1,1 @@
-var mnemonic = "park shove that mercy indoor stairs nut avoid mind grid citizen sorry";
+var mnemonic = "remind snack small sock avoid job chicken capable suit glare drum rebel";

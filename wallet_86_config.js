@@ -1,1 +1,1 @@
-var mnemonic = "trap ethics doll vendor liar produce then banana window novel lounge slow";
+var mnemonic = "chef humble display absurd planet hunt piece visa damp flame install plug";

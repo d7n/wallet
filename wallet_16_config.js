@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon impulse replace hip behind torch forum soda dress pulse elite field";
+var mnemonic = "force pencil actual forum impose ugly asthma domain glide nut peanut glow";

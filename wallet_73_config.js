@@ -1,1 +1,1 @@
-var mnemonic = "visa notice price donkey outside predict skate parade until coffee icon super";
+var mnemonic = "chat latin rely reflect nothing dinosaur elite fabric frozen game tree tent";

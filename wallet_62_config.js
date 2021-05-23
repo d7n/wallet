@@ -1,1 +1,1 @@
-var mnemonic = "stem winner develop wrist wagon method soda parade acquire convince valley space";
+var mnemonic = "beef mixture runway couple accident donate choose myth tail drive action wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "true relief sand left crisp bring divide false truth wink convince dwarf";
+var mnemonic = "life skate visa extend sign dance swift bring casual kid neutral flip";

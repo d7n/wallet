@@ -1,1 +1,1 @@
-var mnemonic = "move behave scale inside motion kidney wild range attitude tooth barely helmet";
+var mnemonic = "globe right metal baby since source swing exotic depth grow elegant eye";

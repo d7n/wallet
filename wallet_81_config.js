@@ -1,1 +1,1 @@
-var mnemonic = "casual embrace sword quantum black flip diary wire disagree patient beyond slight";
+var mnemonic = "bamboo erase dial cave manage cannon target mean wasp fly dentist candy";

@@ -1,1 +1,1 @@
-var mnemonic = "into traffic reject warfare core assist recipe jar pen wild faculty timber";
+var mnemonic = "journey animal cute element soul improve cactus phone chimney bus apart clock";

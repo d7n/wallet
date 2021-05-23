@@ -1,1 +1,1 @@
-var mnemonic = "shrug aisle hospital family ahead skull ozone deposit muscle color load idea";
+var mnemonic = "gorilla cereal damage butter rural either holiday render timber thrive winner vintage";

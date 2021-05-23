@@ -1,1 +1,1 @@
-var mnemonic = "play inflict address hotel food pilot detail genre purity island grow ritual";
+var mnemonic = "hood hunt polar oyster giant table bronze tornado april penalty prepare resource";

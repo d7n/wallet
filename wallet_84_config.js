@@ -1,1 +1,1 @@
-var mnemonic = "evoke mountain trick often muscle violin member height inject rare race endless";
+var mnemonic = "enhance author despair found bring online foam tribe sniff invest leaf owner";

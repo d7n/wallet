@@ -1,1 +1,1 @@
-var mnemonic = "actual figure bring key omit amazing hello joke drill license hurdle cage";
+var mnemonic = "uncle target capital defense host olive coyote flock pride orphan promote ask";

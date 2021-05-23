@@ -1,1 +1,1 @@
-var mnemonic = "tribe list wreck acid inmate section toddler slam ring vendor pistol city";
+var mnemonic = "enjoy system salmon mass garment frozen album drill choose fly model alter";

@@ -1,1 +1,1 @@
-var mnemonic = "city smile marine pride easily carpet vague joy unique setup upon mom";
+var mnemonic = "scrub broom custom where group foot shoulder typical replace mechanic broom correct";

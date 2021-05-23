@@ -1,1 +1,1 @@
-var mnemonic = "history novel retire carbon doll decade evil title february candy tilt bless";
+var mnemonic = "pink absent during twelve camp clown outer tent stereo dwarf round hen";

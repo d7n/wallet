@@ -1,1 +1,1 @@
-var mnemonic = "lab way family arrow minimum eagle tomato student tree faint polar since";
+var mnemonic = "chat cactus kidney east winter coral antenna eight divert gauge alarm raccoon";

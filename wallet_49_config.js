@@ -1,1 +1,1 @@
-var mnemonic = "joy alert circle bracket few guitar cash forum pause beyond auction tape";
+var mnemonic = "what remind grab rigid soccer wise enforce hungry anchor lucky inmate victory";

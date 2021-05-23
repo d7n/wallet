@@ -1,1 +1,1 @@
-var mnemonic = "hair link shoot young volume detect concert maximum witness category board service";
+var mnemonic = "state piano knife banana leopard merge rice wrist hurt very season return";

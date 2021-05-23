@@ -1,1 +1,1 @@
-var mnemonic = "vanish plug forget tribe solar soccer grief connect loud hollow trigger meat";
+var mnemonic = "that voyage tilt giggle fall october employ syrup never acid rug equip";

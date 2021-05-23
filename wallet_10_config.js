@@ -1,1 +1,1 @@
-var mnemonic = "girl inner praise favorite meat idea age satoshi wave miracle goddess magic";
+var mnemonic = "scrap remember fun humble erode deal similar lazy curve convince camp burst";

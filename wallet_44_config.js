@@ -1,1 +1,1 @@
-var mnemonic = "manual iron pizza ring taste rescue speak away blast blush blood where";
+var mnemonic = "regret honey rally rather consider end around charge scan hen lion marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "drop solar supply then alter peace current nut course ticket sense bronze";
+var mnemonic = "gentle enlist nut tag curious hotel timber frame primary wash job speed";

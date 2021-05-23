@@ -1,1 +1,1 @@
-var mnemonic = "buzz wheat tumble unhappy path unusual genre animal pizza almost satisfy increase";
+var mnemonic = "holiday humor april trash wrist dry weather dragon hobby pilot junior start";

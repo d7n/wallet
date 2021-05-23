@@ -1,1 +1,1 @@
-var mnemonic = "ill reform peanut when account visual prize broom kick entire clump answer";
+var mnemonic = "strong follow sleep reform arrange process humor elegant height blue alter december";

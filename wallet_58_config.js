@@ -1,1 +1,1 @@
-var mnemonic = "dragon select wet ride crunch yard february job dizzy soon fee camp";
+var mnemonic = "police also despair display business history immense aisle pet pipe comic cash";

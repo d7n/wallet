@@ -1,1 +1,1 @@
-var mnemonic = "banner control sadness labor suspect chief husband army dry method horn all";
+var mnemonic = "estate toy fold army excite absent capable bless detect visa text world";

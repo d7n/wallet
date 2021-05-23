@@ -1,1 +1,1 @@
-var mnemonic = "since there ancient sample anchor phone anchor harbor pepper audit next ship";
+var mnemonic = "frost art want stomach concert adjust dawn chapter artist aim volcano pipe";

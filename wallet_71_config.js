@@ -1,1 +1,1 @@
-var mnemonic = "person journey border spice tuition injury theory print system arm ancient mule";
+var mnemonic = "pipe train plunge click home input announce high scheme hungry pulse myself";

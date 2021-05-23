@@ -1,1 +1,1 @@
-var mnemonic = "soap egg recycle mule music forum remain early tribe this attend energy";
+var mnemonic = "unique program water spoon trial attend success off arrest south skill dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce inform year seven ranch remove concert exchange coyote involve word damage";
+var mnemonic = "wealth scatter liar electric input early dress foot clip bicycle essay actual";

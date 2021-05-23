@@ -1,1 +1,1 @@
-var mnemonic = "acquire stand future name direct guide hurt surge swing special property critic";
+var mnemonic = "option evidence praise better stick birth hundred slot hurdle nerve matrix physical";

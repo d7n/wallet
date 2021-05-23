@@ -1,1 +1,1 @@
-var mnemonic = "river suffer candy baby october gentle slot alarm flag canyon mouse capital";
+var mnemonic = "visual short urge legal sugar same cannon grocery reduce car exact weird";

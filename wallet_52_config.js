@@ -1,1 +1,1 @@
-var mnemonic = "digital orange benefit end puzzle mimic cancel hero already more couch meadow";
+var mnemonic = "fiber cost library fold embody monster inform damp essence feed deliver possible";

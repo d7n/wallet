@@ -1,1 +1,1 @@
-var mnemonic = "skull faculty donor market bless slam other mention inquiry suggest hill patch";
+var mnemonic = "pelican human hello warrior humble art border cause maple top express truck";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin pupil cute turtle health thank salute neglect mixture recipe slab dolphin";
+var mnemonic = "riot boy worry ring april alpha feed fashion hard brother decline plug";

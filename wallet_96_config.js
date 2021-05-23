@@ -1,1 +1,1 @@
-var mnemonic = "grab cancel disagree shrimp erode copy polar debate forum solution shoe suffer";
+var mnemonic = "reason betray warrior obscure fury maze horse give tent october reason unable";

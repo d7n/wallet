@@ -1,1 +1,1 @@
-var mnemonic = "ritual fold seat hat surround mercy useful sauce hat faculty ensure employ";
+var mnemonic = "deposit ranch matrix because season return shoot sphere scan year inflict master";

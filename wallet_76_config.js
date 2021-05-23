@@ -1,1 +1,1 @@
-var mnemonic = "oyster panic tribe island install swamp wonder pride hard tree problem frequent";
+var mnemonic = "edit term conduct wait humor cherry crouch audit atom pigeon sponsor term";

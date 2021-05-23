@@ -1,1 +1,1 @@
-var mnemonic = "rather put ripple syrup luxury foil dinner little salt fade finger position";
+var mnemonic = "hospital sing bring together utility dash upset desert subject maze price slush";

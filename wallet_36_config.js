@@ -1,1 +1,1 @@
-var mnemonic = "jealous wise twin private subway hip top cart cricket hour isolate process";
+var mnemonic = "urge bounce olive myth wild output expect outdoor chronic pulse bunker soccer";

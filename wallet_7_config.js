@@ -1,1 +1,1 @@
-var mnemonic = "wise long side manage reveal giant chuckle sauce crawl night boy elite";
+var mnemonic = "month metal aspect genre tonight various honey depth sister retreat body unveil";

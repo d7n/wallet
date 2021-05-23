@@ -1,1 +1,1 @@
-var mnemonic = "crime carbon sleep rich shallow convince monster pony satisfy story domain apology";
+var mnemonic = "task bind year spy wisdom used trap acid captain steel maid warfare";

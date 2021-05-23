@@ -1,1 +1,1 @@
-var mnemonic = "connect essence toilet scout buyer dynamic merit mule rice luggage sample swift";
+var mnemonic = "clerk yard foster brisk concert rather west curious drip edit exotic scan";

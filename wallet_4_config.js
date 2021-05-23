@@ -1,1 +1,1 @@
-var mnemonic = "nasty valley cross edit way polar ignore alert oblige horror acid garlic";
+var mnemonic = "expect fish blouse chase day gadget radar gadget amateur light muffin cherry";

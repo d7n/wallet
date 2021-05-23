@@ -1,1 +1,1 @@
-var mnemonic = "judge crumble soup tomato siren much saddle derive dad clown drip leaf";
+var mnemonic = "cabbage sun zone slam later wrist soon act exit law property salmon";

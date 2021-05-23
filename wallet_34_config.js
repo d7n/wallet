@@ -1,1 +1,1 @@
-var mnemonic = "unable hood castle patch tool bean laptop method human slender casino gate";
+var mnemonic = "music favorite shine clarify decade win educate electric grain ask script control";

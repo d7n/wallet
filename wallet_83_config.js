@@ -1,1 +1,1 @@
-var mnemonic = "enact column candy distance hour wire wish forum demand raise labor laptop";
+var mnemonic = "sponsor before turn camp rigid quote arch human lazy goose velvet stereo";

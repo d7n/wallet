@@ -1,1 +1,1 @@
-var mnemonic = "penalty shed spawn nothing fuel throw reform decline drastic flag expire stock";
+var mnemonic = "swap depend people layer castle crunch flat board rescue drive timber sphere";

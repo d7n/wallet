@@ -1,1 +1,1 @@
-var mnemonic = "sniff mansion vapor forum swing cable rich foil enable ski current drastic";
+var mnemonic = "harsh top lab typical bronze horror convince cluster draw other cricket danger";
