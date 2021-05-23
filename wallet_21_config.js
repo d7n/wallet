@@ -1,1 +1,1 @@
-var mnemonic = "north pudding aware east common sword aisle mercy recipe depend hybrid unhappy";
+var mnemonic = "act vocal butter fame ask unit ancient luggage blind coffee tobacco combine";

@@ -1,1 +1,1 @@
-var mnemonic = "choice during wrist frozen borrow runway curve label ski auction ankle today";
+var mnemonic = "canyon mimic hobby matrix buzz guess wreck bike rice depart gym stem";

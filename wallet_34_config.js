@@ -1,1 +1,1 @@
-var mnemonic = "mandate core pitch aspect balance album pelican artist aim power island sadness";
+var mnemonic = "legal best woman either trap lazy pill curious shadow soon remove poem";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin method rule royal update pitch fox until hill patch library beauty";
+var mnemonic = "act faint kid child cross auction gaze hen common tray symbol edge";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor keen snow into puzzle year deposit catalog silk bacon grass humor";
+var mnemonic = "exclude antique sun basket cash pond wisdom rough divert dad park ripple";

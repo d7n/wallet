@@ -1,1 +1,1 @@
-var mnemonic = "scissors drum current weekend able alarm comfort apart story flush must absurd";
+var mnemonic = "film catalog learn erase innocent harbor grant unfold extend midnight chest rookie";

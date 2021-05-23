@@ -1,1 +1,1 @@
-var mnemonic = "brush leave replace prison october spatial wear ketchup inch render input age";
+var mnemonic = "limb cherry crack pulp dawn round deny tray punch exchange alone when";

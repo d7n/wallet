@@ -1,1 +1,1 @@
-var mnemonic = "attitude razor nerve food cat shift birth salon chef vault reunion waste";
+var mnemonic = "develop vital guard chair crazy exit admit major absurd circle time spike";

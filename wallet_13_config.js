@@ -1,1 +1,1 @@
-var mnemonic = "bacon champion category between know grab spot large energy century valley donkey";
+var mnemonic = "fee corn know stay dumb wonder yellow expect daring domain mobile hard";

@@ -1,1 +1,1 @@
-var mnemonic = "author language ugly body scorpion evidence dutch love harvest memory over change";
+var mnemonic = "float twenty scrub clap tribe tired cousin same spawn treat average away";

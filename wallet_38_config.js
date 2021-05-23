@@ -1,1 +1,1 @@
-var mnemonic = "teach surround genuine egg frame payment cactus brown unique cupboard achieve crane";
+var mnemonic = "art term primary again love ceiling oxygen bundle poverty repair road negative";

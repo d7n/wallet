@@ -1,1 +1,1 @@
-var mnemonic = "steel original what loop mixed response acoustic seat story nominee fancy utility";
+var mnemonic = "thought cover junk enter exact grow august wash make mechanic secret roof";

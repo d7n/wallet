@@ -1,1 +1,1 @@
-var mnemonic = "ill page dutch wide velvet walnut drama tourist cave brain cattle fragile";
+var mnemonic = "pull bean filter post vintage social coffee chapter dirt begin quote fix";

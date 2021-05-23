@@ -1,1 +1,1 @@
-var mnemonic = "clump orphan render online barrel hill deposit charge door mobile scatter caution";
+var mnemonic = "visit jeans erosion gun oblige fever bike slush dirt test hurt decrease";

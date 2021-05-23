@@ -1,1 +1,1 @@
-var mnemonic = "survey blue tilt about cup public limit olympic giraffe hobby sausage inspire";
+var mnemonic = "garment state exhibit power powder bacon crime inject size badge learn someone";

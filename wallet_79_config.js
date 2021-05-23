@@ -1,1 +1,1 @@
-var mnemonic = "mail tourist castle hill palace seed grief fiber donkey isolate busy rare";
+var mnemonic = "guitar donor morning lamp defense food plastic coyote cool follow imitate canyon";

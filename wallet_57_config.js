@@ -1,1 +1,1 @@
-var mnemonic = "rely kidney jungle attitude bubble radar change basic cage wood tissue broken";
+var mnemonic = "usage trouble goat powder shallow must oil color behave file time just";

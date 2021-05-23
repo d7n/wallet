@@ -1,1 +1,1 @@
-var mnemonic = "man fossil rebuild phone gym coyote brick trial inspire bind bench juice";
+var mnemonic = "trust arctic then address source toast reward normal icon bulb trick hold";

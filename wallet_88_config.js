@@ -1,1 +1,1 @@
-var mnemonic = "oblige turn kitchen machine pitch staff card pass fall monitor cook wreck";
+var mnemonic = "impose between jungle capital scare marble holiday orbit what liberty ketchup token";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme swing clever clump hen side satisfy wolf cherry smart hockey hour";
+var mnemonic = "actor erosion photo figure group mesh guide memory program radio call royal";

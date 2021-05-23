@@ -1,1 +1,1 @@
-var mnemonic = "bomb release table dish rubber mail fit wrestle forum auction amateur drop";
+var mnemonic = "eager infant test group benefit cheese soap ugly address layer more pink";

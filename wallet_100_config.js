@@ -1,1 +1,1 @@
-var mnemonic = "castle torch rigid print knock girl kidney chase slush light behave panic";
+var mnemonic = "wide cushion elder method midnight force success sketch chef fiction offer awkward";

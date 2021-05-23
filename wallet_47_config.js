@@ -1,1 +1,1 @@
-var mnemonic = "mimic lava dawn enter mercy such stadium discover broken once rose walnut";
+var mnemonic = "mandate hire tiger cage kind alcohol grunt tone dose slender exhibit settle";

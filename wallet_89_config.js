@@ -1,1 +1,1 @@
-var mnemonic = "car ability kite slender shell please vote poet evolve mail sound shadow";
+var mnemonic = "speed street rubber sight above panic skill oval atom elbow letter one";

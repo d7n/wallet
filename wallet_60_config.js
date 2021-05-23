@@ -1,1 +1,1 @@
-var mnemonic = "lyrics essence spare artist music achieve prize mind jazz begin bless bridge";
+var mnemonic = "board grant luggage sport join tuna hybrid silk offer lesson manage obtain";

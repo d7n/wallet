@@ -1,1 +1,1 @@
-var mnemonic = "express eight door alley virus rhythm salt silk north student pledge stone";
+var mnemonic = "piece boy true giant friend defy notable inside fit service blossom annual";

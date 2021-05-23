@@ -1,1 +1,1 @@
-var mnemonic = "bar already boil quick stool flat weekend whisper flee jelly vocal decade";
+var mnemonic = "betray mirror super teach hybrid town obtain wheel exile trash future episode";

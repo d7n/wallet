@@ -1,1 +1,1 @@
-var mnemonic = "castle arm direct strong foot fade water student erase zoo baby doctor";
+var mnemonic = "napkin yellow crew omit trick address item warm mercy emotion deer eye";

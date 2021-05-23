@@ -1,1 +1,1 @@
-var mnemonic = "violin reopen obvious much mule shaft convince guitar helmet gravity spider surprise";
+var mnemonic = "ritual demise floor teach swallow luggage element fire country gold remove dash";

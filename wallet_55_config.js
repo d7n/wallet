@@ -1,1 +1,1 @@
-var mnemonic = "clip pear country final donkey fly any hard assist scorpion crawl render";
+var mnemonic = "squirrel august clever enough lamp spare dune wealth forest fish wood soon";

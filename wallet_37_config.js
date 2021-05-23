@@ -1,1 +1,1 @@
-var mnemonic = "lecture surface eternal planet sniff disease bracket ramp width chief tower bar";
+var mnemonic = "cube nice two salon movie practice need deliver exile season alien indicate";

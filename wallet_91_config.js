@@ -1,1 +1,1 @@
-var mnemonic = "age valley visit near tip kite divide light void window oven liberty";
+var mnemonic = "crystal assist mesh ketchup tiny island dinner siren fold polar cannon alpha";

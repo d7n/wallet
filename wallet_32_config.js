@@ -1,1 +1,1 @@
-var mnemonic = "field excite tube warfare bundle begin desert mail heart solution bind reveal";
+var mnemonic = "nest patch move infant define lazy math theme very unable more fix";

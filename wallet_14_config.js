@@ -1,1 +1,1 @@
-var mnemonic = "blast want cushion reunion face door claw clap divert glass lounge memory";
+var mnemonic = "glide tennis mom grant under element frost lady dust piece neglect nuclear";

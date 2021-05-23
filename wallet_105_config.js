@@ -1,1 +1,1 @@
-var mnemonic = "clap puzzle helmet profit zone middle ketchup lens frozen worth orbit tenant";
+var mnemonic = "category wet school original pride comfort spatial pluck engine strong ginger cloth";

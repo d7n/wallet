@@ -1,1 +1,1 @@
-var mnemonic = "history effort ride safe work danger wise dial jealous office total true";
+var mnemonic = "diet ecology collect often ship token foam super mouse immense link uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "alien hungry seminar suffer roast wing prevent begin inherit food taste merit";
+var mnemonic = "open monitor toilet nothing miss theme history flat gentle loud stove popular";

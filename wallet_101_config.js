@@ -1,1 +1,1 @@
-var mnemonic = "pet load oyster inside castle laundry together stage text dad flat giraffe";
+var mnemonic = "rival tray stool remember retreat beyond spin wash rebel execute art solid";

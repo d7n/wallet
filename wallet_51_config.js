@@ -1,1 +1,1 @@
-var mnemonic = "radio identify resemble drama afford census define trial century grit brain stamp";
+var mnemonic = "voyage twelve dinner lock bike entire dumb field song network donate gossip";

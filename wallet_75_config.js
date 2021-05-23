@@ -1,1 +1,1 @@
-var mnemonic = "valve kid couple half nature matter inquiry cage toward check animal excuse";
+var mnemonic = "grant accuse people grain anxiety perfect front return jump common gather target";

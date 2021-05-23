@@ -1,1 +1,1 @@
-var mnemonic = "garage pluck team depth limit scout earth frozen club marriage old waste";
+var mnemonic = "vague slight embark space assume happy other fan trash stove grid essence";

@@ -1,1 +1,1 @@
-var mnemonic = "lens inform bitter pave lounge thank filter suspect lottery oak drum evil";
+var mnemonic = "hello enforce circle slide expand divert idle swing melody cube nation expand";

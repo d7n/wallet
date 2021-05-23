@@ -1,1 +1,1 @@
-var mnemonic = "maze van sorry online wild earn breeze nerve cancel tag smart butter";
+var mnemonic = "auto express old oak radio slot dust kidney series problem uncover cattle";

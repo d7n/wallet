@@ -1,1 +1,1 @@
-var mnemonic = "lumber oblige slogan obscure potato excuse wear purchase aim pipe fold shallow";
+var mnemonic = "guard replace card call pact rocket tennis zoo rate pioneer similar brass";

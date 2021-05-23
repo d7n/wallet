@@ -1,1 +1,1 @@
-var mnemonic = "vintage roof skirt bomb cherry path eyebrow modify vote because vanish sadness";
+var mnemonic = "shallow around october forget inhale warfare genuine tail lend theme merit slush";

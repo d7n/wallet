@@ -1,1 +1,1 @@
-var mnemonic = "master weapon stage any neglect hand argue win unfair aisle collect vacuum";
+var mnemonic = "trim aisle panic color park upon consider differ physical theme slice garment";

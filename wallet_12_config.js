@@ -1,1 +1,1 @@
-var mnemonic = "blast genius brave return midnight hollow usual donate left scan main nose";
+var mnemonic = "forget brain try broken recipe vague virtual disease surface sick liberty route";

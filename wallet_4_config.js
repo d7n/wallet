@@ -1,1 +1,1 @@
-var mnemonic = "organ maid swing curtain type hint snake endorse debris egg congress movie";
+var mnemonic = "blur ski craft way royal expire tray cigar laugh season unfair tool";

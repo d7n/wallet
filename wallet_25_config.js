@@ -1,1 +1,1 @@
-var mnemonic = "glass curious adjust talent eye abuse pull crumble neck virus roof away";
+var mnemonic = "raccoon sound tumble version skull list smooth grace alcohol stereo verb number";

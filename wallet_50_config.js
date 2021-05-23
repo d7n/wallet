@@ -1,1 +1,1 @@
-var mnemonic = "satoshi travel bunker concert swing cram connect stick cruise learn test mountain";
+var mnemonic = "exit injury soul bind park animal such vacant desk flash ceiling bundle";

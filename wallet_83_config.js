@@ -1,1 +1,1 @@
-var mnemonic = "baby skate height garbage uniform arctic jump vote chair park soul fox";
+var mnemonic = "trade lawn local crumble phone tuition common vivid poem click spatial priority";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget blast typical engine axis clump never split loyal rapid arrange split";
+var mnemonic = "increase ten rich that green monster damage general post excuse response dial";

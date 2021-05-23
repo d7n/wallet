@@ -1,1 +1,1 @@
-var mnemonic = "shove hurt profit thank defense almost put dinosaur clerk shift exchange cute";
+var mnemonic = "rookie certain mixture artefact palm blue lake angle predict student banana sister";

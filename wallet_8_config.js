@@ -1,1 +1,1 @@
-var mnemonic = "marriage horror detect combine excite income depart anchor mammal person zebra twist";
+var mnemonic = "they match ozone tomorrow stamp jazz glue awake yellow enforce color transfer";

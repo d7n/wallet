@@ -1,1 +1,1 @@
-var mnemonic = "elite prize prison shield where uncle budget property length festival satisfy auction";
+var mnemonic = "cloth office pink donkey scare little limit tunnel slot tomato symptom garbage";

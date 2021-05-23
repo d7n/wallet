@@ -1,1 +1,1 @@
-var mnemonic = "cliff find mom wrap drop blanket brief feel alone boil double side";
+var mnemonic = "gate soon thought repeat fiber soccer tattoo achieve own spoon eye resist";

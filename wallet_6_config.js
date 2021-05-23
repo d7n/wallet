@@ -1,1 +1,1 @@
-var mnemonic = "blush script into skill object relief confirm cliff make reopen bonus humor";
+var mnemonic = "calm grow protect castle abuse abandon barely galaxy say pattern height end";

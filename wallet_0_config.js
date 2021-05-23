@@ -1,1 +1,1 @@
-var mnemonic = "blame inside install vendor debris reward furnace ketchup powder fringe capable tongue";
+var mnemonic = "clarify onion cabbage powder pudding raccoon sand confirm jelly diet favorite eight";

@@ -1,1 +1,1 @@
-var mnemonic = "alter wheel electric pink mad glance cruel latin ladder label car curious";
+var mnemonic = "pottery museum actor puzzle pact spoon combine novel limb senior balcony under";

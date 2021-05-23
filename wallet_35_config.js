@@ -1,1 +1,1 @@
-var mnemonic = "hand urge loud stove that silent denial amateur base mushroom twin vast";
+var mnemonic = "outer cover title smooth penalty train life sign six bone music auction";

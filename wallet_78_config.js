@@ -1,1 +1,1 @@
-var mnemonic = "cram swap link syrup brisk spice machine catch lab latin pact soccer";
+var mnemonic = "disease swing invest arch peanut audit large gas inherit mind gallery demand";

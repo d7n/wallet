@@ -1,1 +1,1 @@
-var mnemonic = "best unaware brisk adult bulb attract volcano mesh step gorilla sorry dwarf";
+var mnemonic = "balcony pet liberty organ drop luxury panther pill travel scatter mountain runway";

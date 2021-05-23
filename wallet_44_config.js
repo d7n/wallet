@@ -1,1 +1,1 @@
-var mnemonic = "hub scare add copy beyond panda celery exile friend lawsuit ghost universe";
+var mnemonic = "antenna aspect mask donkey shop negative build traffic spider pride satoshi detail";

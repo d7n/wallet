@@ -1,1 +1,1 @@
-var mnemonic = "wire slice slide library flavor cycle distance light cargo that rug earn";
+var mnemonic = "whisper lab sound excite easily yard cause ketchup palm price glad invite";

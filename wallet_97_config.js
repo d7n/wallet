@@ -1,1 +1,1 @@
-var mnemonic = "truly fury gospel useful misery slam clump lemon blast motor vibrant pepper";
+var mnemonic = "deputy toast angle soul park ribbon spy option panic ice hub pitch";

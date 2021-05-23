@@ -1,1 +1,1 @@
-var mnemonic = "pull umbrella myself eagle display whisper river crouch protect torch trend twenty";
+var mnemonic = "best creek employ vast basket ready guide tray video giant tank hope";

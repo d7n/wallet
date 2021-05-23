@@ -1,1 +1,1 @@
-var mnemonic = "network rate size raccoon arrive airport surround grocery purse toe swift emotion";
+var mnemonic = "guard limit hotel tennis perfect immune club point scene sail brand hobby";

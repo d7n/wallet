@@ -1,1 +1,1 @@
-var mnemonic = "cheese boat acquire blind flush grit lake quarter bonus subject access renew";
+var mnemonic = "topic note swear parent green other comic royal broom forest tornado trade";

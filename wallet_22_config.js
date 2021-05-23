@@ -1,1 +1,1 @@
-var mnemonic = "cliff churn hurt reform kiss accident course yellow topple where sign guilt";
+var mnemonic = "increase dry canoe entire average pause tuna pave letter empty dose owner";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy escape upset trial buddy reject suit vague gospel cruel angry ring";
+var mnemonic = "double spot trial poet garden dash reveal please annual view van stable";

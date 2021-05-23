@@ -1,1 +1,1 @@
-var mnemonic = "view enough tongue dynamic faculty service aspect paper pattern jaguar perfect mother";
+var mnemonic = "arch believe rotate skull cruel bird oppose symptom usual indicate manual fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "master reject goat slice razor approve emerge supreme fringe crack session town";
+var mnemonic = "project magic thunder rural disease river explain all blue night use rib";

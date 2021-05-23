@@ -1,1 +1,1 @@
-var mnemonic = "level soul admit direct access give disagree today pigeon rate dance only";
+var mnemonic = "snap bundle three heart mask twice venture hammer young piece fetch hat";

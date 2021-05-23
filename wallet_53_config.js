@@ -1,1 +1,1 @@
-var mnemonic = "blur various purchase resemble clerk yard skate opera prevent post link skull";
+var mnemonic = "caught cinnamon argue board ocean title aspect today keep kit cart bamboo";

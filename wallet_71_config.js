@@ -1,1 +1,1 @@
-var mnemonic = "few tragic trip neither open reason ignore ride april cream odor artefact";
+var mnemonic = "shuffle hope amused ketchup size barely scan real funny trophy zone spare";

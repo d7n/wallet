@@ -1,1 +1,1 @@
-var mnemonic = "tiger crumble unveil region beach middle clap dizzy toward response segment twice";
+var mnemonic = "embody unable scissors jazz whisper chicken spatial simple chair judge response nut";

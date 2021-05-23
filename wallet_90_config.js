@@ -1,1 +1,1 @@
-var mnemonic = "fun glow dust axis comfort lawn must pool cause hole orbit pear";
+var mnemonic = "riot leopard mom couple oak toddler code aspect twenty more syrup deputy";

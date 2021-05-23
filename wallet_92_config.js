@@ -1,1 +1,1 @@
-var mnemonic = "source suggest awake typical toe blood shine virtual pottery upgrade floor brother";
+var mnemonic = "chimney craft album because chalk pact order dose crush tissue add name";

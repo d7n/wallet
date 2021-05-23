@@ -1,1 +1,1 @@
-var mnemonic = "bulb inflict write fame faculty deposit notable zebra stumble pelican intact grace";
+var mnemonic = "ghost jealous magnet champion giggle ignore pass asthma ocean ignore federal topple";

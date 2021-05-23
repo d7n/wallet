@@ -1,1 +1,1 @@
-var mnemonic = "magic kind couple regret fiction kid remain cloth direct manage first seek";
+var mnemonic = "between tortoise kite industry reduce bind physical anchor increase chest vendor canal";

@@ -1,1 +1,1 @@
-var mnemonic = "paper toss critic update mammal bread tube meat gospel left raven spin";
+var mnemonic = "option village faith chronic dose bird corn discover split adult build enact";

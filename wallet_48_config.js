@@ -1,1 +1,1 @@
-var mnemonic = "warfare toddler visit what slot level nephew burger spice biology govern lawn";
+var mnemonic = "taxi balance section solar announce speak entry faint below float inform addict";

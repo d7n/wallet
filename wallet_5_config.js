@@ -1,1 +1,1 @@
-var mnemonic = "bomb collect nest midnight laugh firm private scheme elephant rabbit fantasy shift";
+var mnemonic = "grocery heart vast asthma invite report enrich sweet dose street open uncle";

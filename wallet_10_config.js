@@ -1,1 +1,1 @@
-var mnemonic = "pitch sand monkey skull company wear apart ranch satisfy health decide pet";
+var mnemonic = "cherry leader gospel galaxy law gossip silver hood pear behind laugh west";

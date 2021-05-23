@@ -1,1 +1,1 @@
-var mnemonic = "onion antique beef trick visa fee camp oval identify reward gallery crawl";
+var mnemonic = "traffic make warm blue jacket fun immune crew dwarf label seed approve";

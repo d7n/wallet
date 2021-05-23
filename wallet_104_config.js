@@ -1,1 +1,1 @@
-var mnemonic = "dune van alien corn thrive message stuff dirt offer hotel happy rebel";
+var mnemonic = "frequent ritual modify eager cupboard twin casual hurt army mountain minimum laptop";

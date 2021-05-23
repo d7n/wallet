@@ -1,1 +1,1 @@
-var mnemonic = "gate grit hundred hollow decline neutral jar wolf rally uphold develop style";
+var mnemonic = "catch essence lamp theory lady april ancient soup blur nest episode noble";

@@ -1,1 +1,1 @@
-var mnemonic = "define scale skin warfare joy road switch buzz twice alert company want";
+var mnemonic = "defy sibling advice profit record payment moment garden shove ring stock canal";

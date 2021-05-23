@@ -1,1 +1,1 @@
-var mnemonic = "loud vintage bulk team clump ridge camp chair peace open liquid task";
+var mnemonic = "dirt run settle unlock cargo vapor library cause length elder pluck box";
