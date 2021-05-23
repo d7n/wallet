@@ -1,1 +1,1 @@
-var mnemonic = "alert crouch daring wage face slam dice valid smart knife win obtain";
+var mnemonic = "letter cruise desert blast library bottom master unusual buddy increase flame burst";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder mail reunion burger tourist cruise fantasy beauty ridge forward initial candy";
+var mnemonic = "target exhaust grant camera warrior current coyote cool type tumble option front";

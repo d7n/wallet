@@ -1,1 +1,1 @@
-var mnemonic = "bleak adult cinnamon clog road gentle system bunker undo half match robust";
+var mnemonic = "nest whip walk nest build category shy auto stamp initial pave tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "sport camp film exile marble logic uncover famous lava reject hold funny";
+var mnemonic = "cash disorder history simple ability web appear dirt orbit battle pass shine";

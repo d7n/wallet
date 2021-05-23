@@ -1,1 +1,1 @@
-var mnemonic = "bundle mimic common lizard taste quality stage annual online actor gold salmon";
+var mnemonic = "venue try hazard pink barrel endless taste slender cash vanish lift toward";

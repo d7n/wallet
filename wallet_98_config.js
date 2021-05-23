@@ -1,1 +1,1 @@
-var mnemonic = "deliver have argue possible envelope action stand transfer equip cheese grain stool";
+var mnemonic = "enrich modify valley turn vibrant pupil mad alarm saddle foster cliff push";

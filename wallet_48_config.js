@@ -1,1 +1,1 @@
-var mnemonic = "deliver heavy earn wave charge luxury walnut comic various dilemma cheese label";
+var mnemonic = "young sheriff audit little jealous cute coral layer possible ordinary spoon alpha";

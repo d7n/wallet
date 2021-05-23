@@ -1,1 +1,1 @@
-var mnemonic = "want merry kid lumber speed matrix noise hire glad fetch object panther";
+var mnemonic = "attend educate celery square swing gate match gap boss proof risk wood";

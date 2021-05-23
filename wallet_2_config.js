@@ -1,1 +1,1 @@
-var mnemonic = "toddler begin card grow mistake galaxy wine submit taste garment fatal neck";
+var mnemonic = "wine theory dinner smooth cricket rural action small jewel amazing bargain eight";

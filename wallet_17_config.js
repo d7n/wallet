@@ -1,1 +1,1 @@
-var mnemonic = "about used topple inhale term company disease mixture mutual myself electric ankle";
+var mnemonic = "knock pair cute please brush curtain stage address castle canvas rain mean";

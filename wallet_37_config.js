@@ -1,1 +1,1 @@
-var mnemonic = "grief wheat supply abandon series that payment uphold achieve clip quote you";
+var mnemonic = "improve mad gap link reject distance accident buffalo bracket universe equip spike";

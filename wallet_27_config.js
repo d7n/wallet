@@ -1,1 +1,1 @@
-var mnemonic = "service cake where twenty strong wire mixed adjust rather army stay cruel";
+var mnemonic = "abstract female panic relief mail rebel valley neck tortoise siege pool enrich";

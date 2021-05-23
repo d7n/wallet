@@ -1,1 +1,1 @@
-var mnemonic = "object jelly away silk topic hover height sick lend rally magnet present";
+var mnemonic = "surge tent exact hurry exhaust expose car alley salmon forward veteran sketch";

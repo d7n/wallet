@@ -1,1 +1,1 @@
-var mnemonic = "explain credit analyst iron hold boat merit define toilet mandate direct sting";
+var mnemonic = "income squeeze fit canyon gift novel luxury photo trade fan pave thank";

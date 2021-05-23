@@ -1,1 +1,1 @@
-var mnemonic = "bachelor program category shell regular feel bounce mammal teach mule intact hawk";
+var mnemonic = "post sphere glad resource effort rebel miracle recipe swarm very spoil liberty";

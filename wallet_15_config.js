@@ -1,1 +1,1 @@
-var mnemonic = "city render oak taxi siege tray goat cash buffalo jeans slogan breeze";
+var mnemonic = "erode spider hybrid pistol spatial student visit give put razor rotate color";

@@ -1,1 +1,1 @@
-var mnemonic = "below prosper love soon glance excess planet dilemma spider crack primary taste";
+var mnemonic = "resist feature camera imitate shoe alcohol tattoo grab choice pupil blossom keep";

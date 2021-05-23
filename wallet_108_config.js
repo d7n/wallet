@@ -1,1 +1,1 @@
-var mnemonic = "alert range sword fault online vibrant siren latin oven slam weapon quality";
+var mnemonic = "dizzy manual spend devote frog hat betray rather future lumber wet regular";

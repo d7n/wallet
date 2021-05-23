@@ -1,1 +1,1 @@
-var mnemonic = "glance photo ignore urge sketch blossom dilemma trim produce conduct liar ginger";
+var mnemonic = "twice enforce slush empower march eye cinnamon cattle wear auto unusual bread";

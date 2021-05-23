@@ -1,1 +1,1 @@
-var mnemonic = "put praise decline know main small tube kind cost random truck wool";
+var mnemonic = "female sell soccer giant video frozen violin spare kick like upper version";

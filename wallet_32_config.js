@@ -1,1 +1,1 @@
-var mnemonic = "genre usage motor spatial vintage pair cruise rhythm chapter large dove sleep";
+var mnemonic = "become mask elephant report ethics duty census skull six oil treat code";

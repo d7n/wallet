@@ -1,1 +1,1 @@
-var mnemonic = "matrix grocery inquiry track source proof nose nut valid insane street rib";
+var mnemonic = "peace cactus lounge recipe rabbit gap input alley refuse leopard pool outer";

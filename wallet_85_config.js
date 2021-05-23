@@ -1,1 +1,1 @@
-var mnemonic = "fan cover fetch acoustic wait silent primary element curtain tube gospel flock";
+var mnemonic = "expect resource idle defense cup roast giggle waste adjust neck eternal casino";

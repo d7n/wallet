@@ -1,1 +1,1 @@
-var mnemonic = "spoon crop sister brown speak duty ready secret between define license annual";
+var mnemonic = "cute phone want away peace art slogan alpha check ivory rain certain";

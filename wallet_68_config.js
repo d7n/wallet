@@ -1,1 +1,1 @@
-var mnemonic = "sing kitten below person traffic clarify shock topple month hazard ancient coconut";
+var mnemonic = "must custom tornado surprise chicken avoid horror ahead green craft street crunch";

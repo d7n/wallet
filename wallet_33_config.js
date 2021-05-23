@@ -1,1 +1,1 @@
-var mnemonic = "pizza learn voyage uphold finger give shiver tenant assist glove sphere voice";
+var mnemonic = "margin obscure stone gift way note become laptop quiz journey section earth";

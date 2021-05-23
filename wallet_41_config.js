@@ -1,1 +1,1 @@
-var mnemonic = "flight pair ocean sock copper allow wear lawsuit person craft laundry calm";
+var mnemonic = "lend quarter fortune inject quantum copper point symptom dad step music trouble";

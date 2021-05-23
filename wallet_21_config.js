@@ -1,1 +1,1 @@
-var mnemonic = "senior short birth loud mammal scrap depart stem convince tiger mistake project";
+var mnemonic = "cup banana poem crater web giant bleak element scatter dwarf soft sphere";

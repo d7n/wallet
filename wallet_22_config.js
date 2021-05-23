@@ -1,1 +1,1 @@
-var mnemonic = "acoustic width leisure innocent fantasy urban history squirrel zebra become mercy raven";
+var mnemonic = "narrow remain civil example flock resource match require hamster minor guess night";

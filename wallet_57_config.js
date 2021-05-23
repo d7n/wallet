@@ -1,1 +1,1 @@
-var mnemonic = "shy adapt almost trigger essence snow blanket daring trumpet surprise repeat citizen";
+var mnemonic = "mystery umbrella easy script diagram garage topple settle obtain own future people";

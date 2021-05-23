@@ -1,1 +1,1 @@
-var mnemonic = "maid surface cabin coin badge upgrade flee announce confirm echo voyage fossil";
+var mnemonic = "mean alley food door cover rib fuel embark harsh crouch solid rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel choose world forget cricket effort skin base notable oyster radar aisle";
+var mnemonic = "thing spoon audit protect few laundry super circle vicious path attack once";

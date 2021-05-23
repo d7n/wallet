@@ -1,1 +1,1 @@
-var mnemonic = "tower code clip good often desk donate loyal never punch kingdom van";
+var mnemonic = "own exercise input turn transfer key park shove flower door enhance carpet";

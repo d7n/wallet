@@ -1,1 +1,1 @@
-var mnemonic = "flip hundred copy avocado thumb drift spirit census october finger thumb machine";
+var mnemonic = "crumble liberty rookie fix century mesh ability roof ecology green chief cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "magic round demise guard gaze follow detail green length pole elder keep";
+var mnemonic = "industry kitten festival country brief desert push car leisure weekend impose genius";

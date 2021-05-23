@@ -1,1 +1,1 @@
-var mnemonic = "hunt wave street devote raven color crop purse depend butter direct offer";
+var mnemonic = "cheap anger pass march call orchard actress occur meadow depth wash genius";

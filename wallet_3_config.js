@@ -1,1 +1,1 @@
-var mnemonic = "snap comic rain mother hint tornado dinosaur chaos goose vacant pond setup";
+var mnemonic = "feel vessel boost occur supreme relief source cheese legal choose pipe shine";

@@ -1,1 +1,1 @@
-var mnemonic = "icon power blast mind huge shuffle alter vessel quit forget pencil like";
+var mnemonic = "ladder wait zero plunge tray milk chuckle myself comic speed flush vacuum";

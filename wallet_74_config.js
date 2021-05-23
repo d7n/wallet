@@ -1,1 +1,1 @@
-var mnemonic = "pair where dance roast random snow between air tired column build similar";
+var mnemonic = "luggage rule volume blade erosion wing search critic cover casual measure easy";

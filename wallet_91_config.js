@@ -1,1 +1,1 @@
-var mnemonic = "liquid chicken eternal select noble marble alcohol climb fiction thank gate lawsuit";
+var mnemonic = "usual comic depend frown senior donor olympic maximum scene surround neither baby";

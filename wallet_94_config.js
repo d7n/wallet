@@ -1,1 +1,1 @@
-var mnemonic = "run task size host brand toilet bread whale remove mule churn pear";
+var mnemonic = "raccoon load pistol great proud magic lamp near ripple chunk radio couch";

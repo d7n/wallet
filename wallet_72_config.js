@@ -1,1 +1,1 @@
-var mnemonic = "shell want memory vacant chapter lizard accuse label lady fish verify traffic";
+var mnemonic = "left office venture vibrant off snake inside neglect unhappy increase pass mountain";

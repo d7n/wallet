@@ -1,1 +1,1 @@
-var mnemonic = "prepare stand artefact inform pony sing pottery camp weather target travel electric";
+var mnemonic = "turn chair hurry alarm gallery dawn vocal glass seven affair program midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "access exercise affair weird click dance jungle review increase cereal actor track";
+var mnemonic = "bounce antique develop catalog buyer word unlock web skull cabin leopard then";

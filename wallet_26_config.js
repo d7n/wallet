@@ -1,1 +1,1 @@
-var mnemonic = "latin resource myth honey uniform behave notice royal dash exit strike aware";
+var mnemonic = "what involve tragic cabin another either opinion want carry decide story very";

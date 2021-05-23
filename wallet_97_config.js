@@ -1,1 +1,1 @@
-var mnemonic = "canal gallery wasp useless multiply topic square crumble night toward host oven";
+var mnemonic = "joy summer grid despair choice cat thing supreme glimpse nominee suffer comic";

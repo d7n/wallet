@@ -1,1 +1,1 @@
-var mnemonic = "way comfort tree clinic struggle marriage glow report convince candy upper palace";
+var mnemonic = "chest that afford defy member blade purchase verify category cook pepper sound";

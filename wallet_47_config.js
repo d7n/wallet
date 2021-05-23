@@ -1,1 +1,1 @@
-var mnemonic = "lemon lonely stable real key apology valley labor team web distance fresh";
+var mnemonic = "jeans opera liberty winner able lawsuit spirit visa report message rich follow";

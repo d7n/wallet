@@ -1,1 +1,1 @@
-var mnemonic = "raw bottom again limit belt exhaust talent bid sail leaf robust lab";
+var mnemonic = "profit rotate possible strong palm marble sail flee search swift pupil base";

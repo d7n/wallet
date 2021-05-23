@@ -1,1 +1,1 @@
-var mnemonic = "upon purity mean opinion run suffer frost task puzzle assist donor pencil";
+var mnemonic = "metal flag road one virus imitate lobster dirt leave crystal apple carpet";

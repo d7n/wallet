@@ -1,1 +1,1 @@
-var mnemonic = "host decrease syrup sorry object dinner bean flush bacon heart virus aware";
+var mnemonic = "nest today square push doll drop stamp tomato priority output peasant fade";

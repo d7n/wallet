@@ -1,1 +1,1 @@
-var mnemonic = "roast gift market meat apart please right wrong scrub fiber envelope mirror";
+var mnemonic = "toy remain sand flash holiday manual pluck fine topic happy destroy siren";

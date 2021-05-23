@@ -1,1 +1,1 @@
-var mnemonic = "load oval arrow rubber control affair ginger insane outer aim eternal cool";
+var mnemonic = "puzzle insane imitate exercise story eye bulk prefer swallow reveal tree law";

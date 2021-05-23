@@ -1,1 +1,1 @@
-var mnemonic = "ladder shaft obtain fashion primary coil way twist genius word excuse liberty";
+var mnemonic = "upper tilt horse notice enrich minor theory foam forget roof umbrella vanish";

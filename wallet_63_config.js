@@ -1,1 +1,1 @@
-var mnemonic = "goddess early laundry unit wheel prepare lady word inhale assume rate sense";
+var mnemonic = "amazing ordinary fabric genius sausage grocery climb point finish special cargo casino";

@@ -1,1 +1,1 @@
-var mnemonic = "axis degree glow maid element flee impulse fruit social soap polar volume";
+var mnemonic = "hill exclude predict resource legend tonight sentence gap grab wire thought kind";

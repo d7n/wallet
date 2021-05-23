@@ -1,1 +1,1 @@
-var mnemonic = "famous reason drastic wagon illness decorate nuclear tent steel rain rude cement";
+var mnemonic = "art iron direct canyon boss retire special ocean spice attack stick genre";

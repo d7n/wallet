@@ -1,1 +1,1 @@
-var mnemonic = "heavy mixture target vessel usage arena sell analyst dawn potato west balance";
+var mnemonic = "fish return easily section help since cry session type rally used include";

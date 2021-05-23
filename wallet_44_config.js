@@ -1,1 +1,1 @@
-var mnemonic = "rotate soccer fence universe width sugar favorite accident spoil toe link museum";
+var mnemonic = "seek just rug stuff endless depart ripple roof eagle rhythm conduct athlete";

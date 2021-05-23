@@ -1,1 +1,1 @@
-var mnemonic = "push sauce mixed book gauge secret jelly father unhappy nephew behind what";
+var mnemonic = "primary waste duck that foam organ margin enable build mention reason front";

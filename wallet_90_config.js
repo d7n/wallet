@@ -1,1 +1,1 @@
-var mnemonic = "black scan flash fault smile bus shine kick love edit will win";
+var mnemonic = "frown immune flee napkin still armed more access local lock oven skull";

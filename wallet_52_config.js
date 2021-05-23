@@ -1,1 +1,1 @@
-var mnemonic = "clock vague shine hurdle behave close guilt cruise pottery minimum ribbon page";
+var mnemonic = "surface skill stool famous picture road congress afford enemy scatter seat ripple";

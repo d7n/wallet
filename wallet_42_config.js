@@ -1,1 +1,1 @@
-var mnemonic = "slot expire lunar pioneer bamboo width accuse fatal sick valley expose enjoy";
+var mnemonic = "wrong come parrot click visit sad audit tide success inherit brief field";

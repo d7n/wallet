@@ -1,1 +1,1 @@
-var mnemonic = "wide hip quiz unique ozone elevator rigid sample travel cable govern script";
+var mnemonic = "tone fever satoshi rent patrol slight ten ocean scene hunt margin odor";

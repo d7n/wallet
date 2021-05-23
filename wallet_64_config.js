@@ -1,1 +1,1 @@
-var mnemonic = "process travel enact hammer steak west toy february biology glass relief mixed";
+var mnemonic = "spring problem girl journey voice also essence refuse cook giraffe diagram cover";

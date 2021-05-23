@@ -1,1 +1,1 @@
-var mnemonic = "order exchange maid sting best forum gauge lava merry stomach vacant tiny";
+var mnemonic = "swamp nature nominee layer girl panda resemble current dirt quick fury blur";

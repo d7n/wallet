@@ -1,1 +1,1 @@
-var mnemonic = "laptop hamster patch pyramid saddle tape topic coffee mean dad flat obtain";
+var mnemonic = "stuff neutral elevator moment retire diet control jump arrest kiss fat drama";

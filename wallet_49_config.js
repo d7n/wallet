@@ -1,1 +1,1 @@
-var mnemonic = "tank arctic subway scene poverty pull glance embrace track fever rebel blossom";
+var mnemonic = "sight minimum pigeon extra photo cable start invest stock grocery hub dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict club student lamp canyon fat shop normal witness invest salute donkey";
+var mnemonic = "chunk piece label absent trumpet bulk spatial inject divorce extra inflict winter";

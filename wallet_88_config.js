@@ -1,1 +1,1 @@
-var mnemonic = "sister walnut balcony hungry harbor stand chest skate screen price whip tennis";
+var mnemonic = "pitch thank bachelor rescue great victory humble swap before afford sleep ignore";

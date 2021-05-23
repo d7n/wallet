@@ -1,1 +1,1 @@
-var mnemonic = "actual yellow pig describe any jewel behind one behind seek link wide";
+var mnemonic = "same wing victory kind injury donkey sphere grit express harvest hockey uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "again dumb sugar camera raccoon exhibit spray beyond pulse edit monitor blur";
+var mnemonic = "execute flag perfect prevent settle flush never pelican avocado soda another danger";

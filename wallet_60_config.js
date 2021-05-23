@@ -1,1 +1,1 @@
-var mnemonic = "material grab orient thing total tennis top library truth burden jungle math";
+var mnemonic = "quarter minimum foam mom cup vanish miracle start suggest slice ostrich arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict hedgehog assist shuffle result romance master able awful scare order torch";
+var mnemonic = "exit crumble rough more miss frost health absurd valve antenna wool solution";

@@ -1,1 +1,1 @@
-var mnemonic = "stem vague mutual husband amount type swim enough lizard farm artwork dilemma";
+var mnemonic = "home spawn any ready champion apart believe sweet order promote retire lecture";

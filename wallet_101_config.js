@@ -1,1 +1,1 @@
-var mnemonic = "distance inner region inform dinner dinner tide forum prepare shy share accuse";
+var mnemonic = "depend broccoli since crumble eye artefact avoid cause warm bronze neutral target";

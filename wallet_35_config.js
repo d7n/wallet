@@ -1,1 +1,1 @@
-var mnemonic = "depend seed net chest mushroom fork render soldier asthma ladder cash verify";
+var mnemonic = "globe below few reform region grunt huge field armed write club draw";

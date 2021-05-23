@@ -1,1 +1,1 @@
-var mnemonic = "you switch insane accident knife welcome cup inherit arch catch meadow orphan";
+var mnemonic = "bamboo any such fix hospital city giggle faith receive outdoor label crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "glass myself uncover crazy erase era spend farm security fabric inch erosion";
+var mnemonic = "wealth shine damp property evil stone quantum will seven pave client robust";

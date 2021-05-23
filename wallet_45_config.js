@@ -1,1 +1,1 @@
-var mnemonic = "document animal absent piece situate enrich veteran myth adjust engage true acquire";
+var mnemonic = "sad loop diet cube inhale useless account humble fish marine armed marriage";

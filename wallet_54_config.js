@@ -1,1 +1,1 @@
-var mnemonic = "member grass donkey quarter win congress dash coil youth credit rude flight";
+var mnemonic = "payment arch rotate ask spray pulp lab resist stable east know comfort";

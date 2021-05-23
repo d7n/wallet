@@ -1,1 +1,1 @@
-var mnemonic = "effort pair coconut peace liquid gesture finger average local market office unit";
+var mnemonic = "army grape crunch try arctic ritual merge motor dismiss stairs idle two";

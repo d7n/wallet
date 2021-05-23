@@ -1,1 +1,1 @@
-var mnemonic = "empower rookie pigeon hungry owner document gloom pull tent knee slogan disease";
+var mnemonic = "issue amused tiger affair hammer crash fetch slush asthma guitar shove name";

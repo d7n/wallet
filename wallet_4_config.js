@@ -1,1 +1,1 @@
-var mnemonic = "fever shy stage cloth faith happy waste oil manual mean unit pigeon";
+var mnemonic = "trouble soldier column source loud confirm picture crush later trade renew favorite";

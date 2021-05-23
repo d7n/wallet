@@ -1,1 +1,1 @@
-var mnemonic = "unable uncle hotel ostrich energy scare canvas logic entry grocery cart turkey";
+var mnemonic = "legend wet guess wide kit object lab banana despair mountain phrase lion";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter tool addict theory confirm inform ski custom art tobacco hip nest";
+var mnemonic = "habit inner candy apart acquire fiber strike flush brief eager speak auction";

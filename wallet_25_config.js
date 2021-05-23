@@ -1,1 +1,1 @@
-var mnemonic = "jewel venture summer scale prefer offer myth economy spider flat explain drip";
+var mnemonic = "else orbit effort cover degree develop clarify below expand ordinary mask leader";

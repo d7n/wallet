@@ -1,1 +1,1 @@
-var mnemonic = "emerge sign purchase mirror matter joy butter tooth enemy radio around satoshi";
+var mnemonic = "trip inhale material catalog steak future dice call rather life income step";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic music devote myth rule delay inspire jeans pride taxi next local";
+var mnemonic = "phone name anxiety transfer segment become hub prevent police mimic spot glare";

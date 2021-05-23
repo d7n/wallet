@@ -1,1 +1,1 @@
-var mnemonic = "world tape movie assault security habit yard spatial trade exhaust light bean";
+var mnemonic = "distance father belt ceiling require harbor immense brush panic plate surprise sort";

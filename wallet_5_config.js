@@ -1,1 +1,1 @@
-var mnemonic = "lounge observe news confirm casino valid typical crane weather ocean gloom hold";
+var mnemonic = "visa eight purchase crowd weekend stomach page fortune install flat remain crew";
