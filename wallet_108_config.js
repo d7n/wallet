@@ -1,1 +1,1 @@
-var mnemonic = "latin seminar submit awesome dentist play help practice bright awesome flavor excess";
+var mnemonic = "bar kitten before bag twist urge defense damp glare mobile bracket fruit";

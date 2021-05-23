@@ -1,1 +1,1 @@
-var mnemonic = "sauce prosper later knife goddess empty hundred electric hockey mean window employ";
+var mnemonic = "knife feature truck merit rose right exist brush island twenty purchase zone";

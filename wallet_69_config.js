@@ -1,1 +1,1 @@
-var mnemonic = "outside memory buyer adult matter afraid stereo person abstract airport stable gravity";
+var mnemonic = "energy museum grit agent bargain drink discover dinner alter soft come hobby";

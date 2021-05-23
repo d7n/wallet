@@ -1,1 +1,1 @@
-var mnemonic = "want cinnamon gospel whale cousin equal castle eye clean wink damp base";
+var mnemonic = "pass jar wedding horn praise cute man artefact afraid word lesson quote";

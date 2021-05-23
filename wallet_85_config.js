@@ -1,1 +1,1 @@
-var mnemonic = "valid sadness voice climb lesson sound label someone hint slide auto great";
+var mnemonic = "elbow dog lemon noble reject make hub popular sadness diamond memory share";

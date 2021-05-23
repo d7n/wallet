@@ -1,1 +1,1 @@
-var mnemonic = "affair link into test maximum range primary unfair sail theory find bulk";
+var mnemonic = "rule orchard ostrich race frown brave blossom gas canoe rapid present lounge";

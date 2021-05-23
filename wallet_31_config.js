@@ -1,1 +1,1 @@
-var mnemonic = "sell mechanic bulk cheap divorce crucial slab mobile maximum chimney uncover void";
+var mnemonic = "local call critic rough risk wisdom install knife tongue junior afraid tray";

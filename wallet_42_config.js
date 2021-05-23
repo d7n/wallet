@@ -1,1 +1,1 @@
-var mnemonic = "surround wing empower input festival stage jacket cram copper shock blast odor";
+var mnemonic = "lucky spray crystal cherry sword oppose spread use festival theory bean genius";

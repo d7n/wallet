@@ -1,1 +1,1 @@
-var mnemonic = "come capable aisle august donor coach visual will float quote mobile episode";
+var mnemonic = "office genuine van victory wild ramp addict strike seven maple negative forget";

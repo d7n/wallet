@@ -1,1 +1,1 @@
-var mnemonic = "sphere winner trend party punch wine tool same split original draw amused";
+var mnemonic = "when thing equip impulse proof refuse glove combine poem burden female wear";

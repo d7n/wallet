@@ -1,1 +1,1 @@
-var mnemonic = "vapor inquiry middle shoe rhythm round way zoo hurt bracket make impact";
+var mnemonic = "entry prosper weasel powder raccoon ecology large bargain more ginger stumble federal";

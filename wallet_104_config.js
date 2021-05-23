@@ -1,1 +1,1 @@
-var mnemonic = "marriage flavor tape hamster walnut unusual mention detail lava often dignity clock";
+var mnemonic = "mesh fuel bulb garage curve vote demise punch build fetch funny basket";

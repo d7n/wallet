@@ -1,1 +1,1 @@
-var mnemonic = "multiply matter element fence pig teach deposit wheel patrol frost radar alpha";
+var mnemonic = "video convince win match require photo puppy write tongue stay solid bulk";

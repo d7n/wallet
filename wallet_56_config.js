@@ -1,1 +1,1 @@
-var mnemonic = "zebra enemy belt unaware zero immense person custom dream jeans oven net";
+var mnemonic = "wool round neutral awake leader install mansion lunar ensure name uniform fatal";

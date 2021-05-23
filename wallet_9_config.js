@@ -1,1 +1,1 @@
-var mnemonic = "rubber media level charge ethics outer fee rely equal slim multiply sea";
+var mnemonic = "finger protect trim gadget organ tomato oppose other off daring skate employ";

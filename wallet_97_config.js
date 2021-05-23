@@ -1,1 +1,1 @@
-var mnemonic = "pet advice debris honey mention shell easily latin wisdom cattle miss lounge";
+var mnemonic = "sell hill inhale capital nation orbit dress verify virus tomorrow obey flag";

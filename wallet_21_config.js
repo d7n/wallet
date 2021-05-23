@@ -1,1 +1,1 @@
-var mnemonic = "squirrel famous when great pilot ozone crack inspire alarm car banner reduce";
+var mnemonic = "enroll liberty captain remind gadget vacant also waste family romance tooth round";

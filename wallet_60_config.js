@@ -1,1 +1,1 @@
-var mnemonic = "proof fan broccoli trophy fever reduce van glad document because vacuum enjoy";
+var mnemonic = "raise amazing destroy moon amateur pause ahead ensure differ shiver vault flower";

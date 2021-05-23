@@ -1,1 +1,1 @@
-var mnemonic = "mistake virtual cotton learn pony head artist verb across odor require ball";
+var mnemonic = "doctor creek vital fitness powder virtual hazard manual obey sausage thank buzz";

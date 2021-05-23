@@ -1,1 +1,1 @@
-var mnemonic = "expect asthma curve ocean attract sign pumpkin doctor client identify rent ivory";
+var mnemonic = "man wagon motion turtle priority scorpion muffin vibrant elephant lake yard between";

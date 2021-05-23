@@ -1,1 +1,1 @@
-var mnemonic = "walk sock analyst cricket sword isolate tilt arm visual tail vessel brass";
+var mnemonic = "stuff insect girl matrix voice worth frame extend sad cream flash portion";

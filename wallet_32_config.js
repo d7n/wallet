@@ -1,1 +1,1 @@
-var mnemonic = "smooth sell bicycle side chair fiscal master jeans concert vapor service trigger";
+var mnemonic = "salad exotic near usage mango world traffic gloom want crew history chimney";

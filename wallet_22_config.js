@@ -1,1 +1,1 @@
-var mnemonic = "regular churn erase earth pulse point flower knife moment awful wash arena";
+var mnemonic = "identify summer liquid mango throw kitchen tuition amazing umbrella remove size piece";

@@ -1,1 +1,1 @@
-var mnemonic = "fox mutual fossil file opera treat topic body retire radar culture steel";
+var mnemonic = "crop ridge omit aunt aim law awful expose all glow since dog";

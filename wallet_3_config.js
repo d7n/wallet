@@ -1,1 +1,1 @@
-var mnemonic = "minimum black domain woman predict bunker group purse reform inspire fit duty";
+var mnemonic = "topic daughter powder monitor pistol remember trigger smooth fever ill follow gift";

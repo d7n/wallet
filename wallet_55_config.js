@@ -1,1 +1,1 @@
-var mnemonic = "sudden scatter middle sheriff shoe canoe seven crucial arm cargo purpose gather";
+var mnemonic = "federal mass cheese change oak size armed model planet mind lumber bottom";

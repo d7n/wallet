@@ -1,1 +1,1 @@
-var mnemonic = "floor hat salmon vendor weird pave cat sphere sausage fruit believe crystal";
+var mnemonic = "visual comfort spoon jaguar canal region emotion priority fame kingdom neck blue";

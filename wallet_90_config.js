@@ -1,1 +1,1 @@
-var mnemonic = "cactus ranch custom stage deer walk trial raven whisper rally text antenna";
+var mnemonic = "slow board clutch dry flash legal bike flash rail stage daring agree";

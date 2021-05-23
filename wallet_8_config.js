@@ -1,1 +1,1 @@
-var mnemonic = "afford spawn edge salon cost pond latin human drink enough shaft edit";
+var mnemonic = "basket elder join voyage latin curious burden believe someone empower thunder boy";

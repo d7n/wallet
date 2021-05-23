@@ -1,1 +1,1 @@
-var mnemonic = "define decade monitor matrix valley expect execute beach fence general apology success";
+var mnemonic = "orchard evidence pulse snake history casual happy sense nation believe protect tape";

@@ -1,1 +1,1 @@
-var mnemonic = "dress daughter scout great unusual grit robust donkey blind ability breeze fetch";
+var mnemonic = "velvet actual coast wood thrive tissue awful parrot bounce city frequent tomato";

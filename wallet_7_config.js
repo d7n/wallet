@@ -1,1 +1,1 @@
-var mnemonic = "twenty type target school forest valid rather damp undo ahead option black";
+var mnemonic = "sudden craft fall arrange slow lamp size crush appear chef pear judge";

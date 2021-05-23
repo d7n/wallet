@@ -1,1 +1,1 @@
-var mnemonic = "undo era number element off olive arm tree enough fork never receive";
+var mnemonic = "eight this feature twin unable arrange space cost spin struggle crazy betray";

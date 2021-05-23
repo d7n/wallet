@@ -1,1 +1,1 @@
-var mnemonic = "october gesture aware inch cricket cute arrive taste ordinary fence area absent";
+var mnemonic = "sunset pluck kit spawn razor clarify forum belt will drastic cube alert";

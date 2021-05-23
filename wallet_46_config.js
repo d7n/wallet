@@ -1,1 +1,1 @@
-var mnemonic = "trap journey before hawk later injury shadow athlete upon timber fever trend";
+var mnemonic = "dolphin sense tuna dry develop embark people charge top they tiger gadget";

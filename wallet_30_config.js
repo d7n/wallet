@@ -1,1 +1,1 @@
-var mnemonic = "blast increase organ raise orient fault better device mechanic deer lesson farm";
+var mnemonic = "call bleak beach lunch project denial come such shaft cram animal observe";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble frog author doll wolf cupboard verb audit valid badge minor narrow";
+var mnemonic = "flip excuse grant rubber soccer abuse stomach doctor field document anchor diary";

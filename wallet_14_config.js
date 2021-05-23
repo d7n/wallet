@@ -1,1 +1,1 @@
-var mnemonic = "visit swing neutral oak drill design orient match assault gown type twelve";
+var mnemonic = "chimney rubber congress monkey option approve tiny rate volcano never clip rug";

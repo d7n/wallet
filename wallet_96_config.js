@@ -1,1 +1,1 @@
-var mnemonic = "end move glare uncover dutch thunder cabin wink govern hazard sunset lady";
+var mnemonic = "collect divide dog fitness acoustic disorder above gap someone nation upper bleak";

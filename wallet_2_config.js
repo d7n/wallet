@@ -1,1 +1,1 @@
-var mnemonic = "august what detail sound eight snake such attract dash radio town error";
+var mnemonic = "bubble year pyramid sustain fly six select reform hope hill snap kidney";

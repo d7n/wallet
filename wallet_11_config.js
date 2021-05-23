@@ -1,1 +1,1 @@
-var mnemonic = "honey aim rely taste still gasp neither wage blossom brisk say orphan";
+var mnemonic = "imitate gallery reveal impose road culture harsh fix expect salad obey letter";

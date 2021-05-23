@@ -1,1 +1,1 @@
-var mnemonic = "raven ten minor machine budget echo predict modify spread cross vacuum tank";
+var mnemonic = "shift engine clinic when cabin file leg guitar wasp capable sister slender";

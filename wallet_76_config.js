@@ -1,1 +1,1 @@
-var mnemonic = "entire jelly rude sheriff index omit powder soon scrap screen matter season";
+var mnemonic = "horror flock rely daring tent airport mechanic accuse timber argue palace book";

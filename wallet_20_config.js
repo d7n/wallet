@@ -1,1 +1,1 @@
-var mnemonic = "identify copy account route feature adjust isolate shrug provide ostrich hungry kiwi";
+var mnemonic = "arrange rice unknown tonight above end enact easy group glass silver diagram";

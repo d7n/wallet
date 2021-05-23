@@ -1,1 +1,1 @@
-var mnemonic = "robot alley rude dress million write wine guitar essence scatter paddle clean";
+var mnemonic = "velvet wrap jungle velvet photo ostrich dish vital train place permit number";

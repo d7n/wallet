@@ -1,1 +1,1 @@
-var mnemonic = "private impact vacuum spend daughter surge glove divide project name finish cycle";
+var mnemonic = "throw helmet best barely snack city under gentle urge wild soul buffalo";

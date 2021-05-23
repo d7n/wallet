@@ -1,1 +1,1 @@
-var mnemonic = "table faculty defy legal retire jar bring machine ocean diagram wrist rare";
+var mnemonic = "eight hybrid source shuffle ramp people unit sure force awake feel under";

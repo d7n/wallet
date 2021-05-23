@@ -1,1 +1,1 @@
-var mnemonic = "embody tennis ahead unfair mistake proud lyrics quarter salad barrel extra okay";
+var mnemonic = "year defense breeze crucial vapor crumble grow note club code because mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "myth thing rather fun elder tuition club word grow truly antique enlist";
+var mnemonic = "siren you cattle soap tourist capital hire milk foster session spy pencil";

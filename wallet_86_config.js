@@ -1,1 +1,1 @@
-var mnemonic = "man clever expose ghost ready betray strong episode enforce husband innocent enlist";
+var mnemonic = "sample enrich digital copy ski will shop spider magic rail inspire skill";

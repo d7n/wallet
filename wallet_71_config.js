@@ -1,1 +1,1 @@
-var mnemonic = "expose venue absurd true bless plastic coral coral claim mesh alert woman";
+var mnemonic = "helmet quit sentence good valley earth nut leopard cash push physical patient";

@@ -1,1 +1,1 @@
-var mnemonic = "action guilt seven provide mind utility remind near inspire vessel merge unable";
+var mnemonic = "grass boy ethics design speak valve elder oblige rabbit hole strategy genre";

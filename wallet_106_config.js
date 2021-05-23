@@ -1,1 +1,1 @@
-var mnemonic = "imitate usage post what age tomato stadium strike exile maple brand pill";
+var mnemonic = "flavor client fog lyrics save false nut load layer tribe later canyon";

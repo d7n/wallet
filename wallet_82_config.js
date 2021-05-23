@@ -1,1 +1,1 @@
-var mnemonic = "crumble wreck visa hire crime test hat junior runway patch sense edge";
+var mnemonic = "fetch ketchup mountain noise science erode setup unfold educate merry orange harbor";

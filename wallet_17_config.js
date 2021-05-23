@@ -1,1 +1,1 @@
-var mnemonic = "regret cinnamon candy cereal earn twenty decide oak frame alter vote truck";
+var mnemonic = "summer loyal tent relief tilt spring mule amateur mass autumn damp portion";

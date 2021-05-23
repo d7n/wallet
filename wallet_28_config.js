@@ -1,1 +1,1 @@
-var mnemonic = "daughter diamond ritual board village secret engine weather vanish tray miracle cushion";
+var mnemonic = "picture input success build coast best history prize kangaroo universe suffer text";

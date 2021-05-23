@@ -1,1 +1,1 @@
-var mnemonic = "also village city merge bind leopard essay south couple race rely wrong";
+var mnemonic = "silly flavor brave narrow supreme bachelor climb avoid avoid employ mammal govern";

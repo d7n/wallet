@@ -1,1 +1,1 @@
-var mnemonic = "order expect ivory glass mind fire stadium nephew patient tumble hold cradle";
+var mnemonic = "airport sauce put aisle spatial six kite ozone october excuse hawk false";

@@ -1,1 +1,1 @@
-var mnemonic = "barely master glow found eight apology hand true hockey vital verify thunder";
+var mnemonic = "truck recipe toddler grow bind sponsor wet lawsuit unit since kiss atom";

@@ -1,1 +1,1 @@
-var mnemonic = "clog develop attend sister fringe book kitten foil fence garbage hundred amused";
+var mnemonic = "there zoo tuition blossom impulse staff neglect receive equip symptom flee control";

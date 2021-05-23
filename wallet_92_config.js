@@ -1,1 +1,1 @@
-var mnemonic = "bullet tenant isolate antenna combine clever midnight remove photo artefact magnet cream";
+var mnemonic = "sad film remove snake guard main switch impose way team wink civil";

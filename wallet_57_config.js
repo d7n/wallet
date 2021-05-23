@@ -1,1 +1,1 @@
-var mnemonic = "regular beach mobile high blast sunny immune coconut lumber online claim wage";
+var mnemonic = "tissue opinion cry six oak hero lawsuit stomach park wagon round vintage";

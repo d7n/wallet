@@ -1,1 +1,1 @@
-var mnemonic = "inflict poem rain pattern join test naive room fish valve panic annual";
+var mnemonic = "casino oyster inherit drop ball case control finger awesome garment once outdoor";

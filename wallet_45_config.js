@@ -1,1 +1,1 @@
-var mnemonic = "connect leave bracket hedgehog public ready hamster army hedgehog reform suffer armed";
+var mnemonic = "slide magic arena salmon raise media head loud wealth stable language humor";

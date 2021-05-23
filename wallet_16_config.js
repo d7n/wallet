@@ -1,1 +1,1 @@
-var mnemonic = "pulse great vanish minor camera half adult pipe inner veteran history hold";
+var mnemonic = "aware define catch sunset mouse glare solid lab guide pilot special elephant";

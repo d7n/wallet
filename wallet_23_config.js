@@ -1,1 +1,1 @@
-var mnemonic = "lock clump upper human view silent broom hip base erode plug wink";
+var mnemonic = "menu business upset beauty caught south squeeze tape organ bone acid ancient";

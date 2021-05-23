@@ -1,1 +1,1 @@
-var mnemonic = "loyal annual believe pretty romance decide okay annual steak exchange garden feed";
+var mnemonic = "uncover mouse primary miracle manual mesh abuse sudden frozen uniform rather small";

@@ -1,1 +1,1 @@
-var mnemonic = "stock brand bone parrot judge nominee rule barrel survey bike afford refuse";
+var mnemonic = "crisp flavor asthma price head volcano hurry kit brush trust parrot viable";

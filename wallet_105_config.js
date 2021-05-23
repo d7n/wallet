@@ -1,1 +1,1 @@
-var mnemonic = "piano exit ahead flash witness retire property alter state myself cream across";
+var mnemonic = "bless aunt hybrid make high mesh hip loyal actual ostrich rose ladder";

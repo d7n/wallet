@@ -1,1 +1,1 @@
-var mnemonic = "slow dolphin about child spell opera expect drastic year enough moral jacket";
+var mnemonic = "disorder cause motion brass fame sea fresh weapon situate useless few check";

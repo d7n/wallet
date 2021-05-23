@@ -1,1 +1,1 @@
-var mnemonic = "margin what author boost wedding blast mention quantum liquid runway hollow other";
+var mnemonic = "ankle mosquito biology raw pear duck cage insect glad toilet lecture panther";

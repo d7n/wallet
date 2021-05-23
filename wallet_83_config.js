@@ -1,1 +1,1 @@
-var mnemonic = "immune fish sun win item raccoon assault obscure cool marriage injury gloom";
+var mnemonic = "apple thing emerge skirt crunch few funny guard toss extend space have";

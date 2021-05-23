@@ -1,1 +1,1 @@
-var mnemonic = "police draft nut other dose gesture leaf bone lock install flight rule";
+var mnemonic = "toy chuckle split other rate initial box security cupboard process crater wrestle";

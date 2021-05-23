@@ -1,1 +1,1 @@
-var mnemonic = "express slogan tree bacon welcome heavy depart side acoustic monkey gossip disorder";
+var mnemonic = "match resource laugh pudding amateur cost antique soul real hello fire engage";

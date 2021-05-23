@@ -1,1 +1,1 @@
-var mnemonic = "hair liquid file plug skin genuine festival oil chat icon super injury";
+var mnemonic = "together web evolve eager theory artwork page exotic prize world snap trap";

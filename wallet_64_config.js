@@ -1,1 +1,1 @@
-var mnemonic = "cloth name pioneer indicate aerobic loan law that subject math describe desk";
+var mnemonic = "legend next sail night village flash proud ring material wreck rice glue";

@@ -1,1 +1,1 @@
-var mnemonic = "display damp until tomorrow spot afraid canyon pelican fiction text drip vendor";
+var mnemonic = "hospital spice arrest moral vote board near exhaust hair disease surprise strategy";

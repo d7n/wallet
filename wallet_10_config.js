@@ -1,1 +1,1 @@
-var mnemonic = "hello list venue junior execute job ask sail alien loud interest eyebrow";
+var mnemonic = "melody cloud vacuum swear luggage frog twenty muscle nest crucial decade sight";

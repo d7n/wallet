@@ -1,1 +1,1 @@
-var mnemonic = "behind crater develop scrub moon economy alone pipe fatal beef good gain";
+var mnemonic = "manual sure beach dismiss inspire pizza water timber dad drama aim verify";

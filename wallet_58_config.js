@@ -1,1 +1,1 @@
-var mnemonic = "shoot intact unable oak shop little pear usage fiction staff mammal remind";
+var mnemonic = "urban trust explain anxiety person camera evidence banana labor street belt fold";

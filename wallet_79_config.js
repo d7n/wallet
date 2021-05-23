@@ -1,1 +1,1 @@
-var mnemonic = "half embark apart buffalo false edit cup odor visa ripple blouse imitate";
+var mnemonic = "stock cotton stairs amount liberty potato knee bounce plastic tonight arrest bone";

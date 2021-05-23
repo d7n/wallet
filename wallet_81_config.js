@@ -1,1 +1,1 @@
-var mnemonic = "emerge pool era fame cat segment pulp exotic middle column beef baby";
+var mnemonic = "cup rifle wash glove payment upon music vapor afford farm strategy divide";

@@ -1,1 +1,1 @@
-var mnemonic = "describe car kind refuse client museum sustain car practice pact another giggle";
+var mnemonic = "coach possible salute shove ripple banana catalog flash narrow wise better stone";

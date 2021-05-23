@@ -1,1 +1,1 @@
-var mnemonic = "slender refuse pistol crane hollow ski faith member man below goose fruit";
+var mnemonic = "glad marine cannon another file remember enter note lucky strike medal pistol";

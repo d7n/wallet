@@ -1,1 +1,1 @@
-var mnemonic = "harbor often december diagram divide old upgrade bacon prepare include angry bone";
+var mnemonic = "never name rather fire liberty win profit menu drift spin course sentence";

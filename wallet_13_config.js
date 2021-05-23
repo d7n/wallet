@@ -1,1 +1,1 @@
-var mnemonic = "peace artwork mad ostrich path oval increase lock rescue cook poet benefit";
+var mnemonic = "observe have still citizen boring infant state wine style early power update";
