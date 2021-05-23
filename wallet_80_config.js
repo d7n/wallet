@@ -1,1 +1,1 @@
-var mnemonic = "habit turtle double laptop green modify service talk face top security oblige";
+var mnemonic = "quick pulp social actual expect cabbage hope frost barrel bird armed heart";

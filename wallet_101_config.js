@@ -1,1 +1,1 @@
-var mnemonic = "powder park tilt motor orchard renew merit fiscal industry wool state swap";
+var mnemonic = "tonight laundry warfare clown one basic improve quiz fetch dawn crowd estate";

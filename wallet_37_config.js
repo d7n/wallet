@@ -1,1 +1,1 @@
-var mnemonic = "tip manage snow sense zoo fork clock arctic half fever car gun";
+var mnemonic = "taste extend chuckle slender process auction bubble mutual nest visit aspect birth";

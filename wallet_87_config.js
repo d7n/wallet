@@ -1,1 +1,1 @@
-var mnemonic = "rib biology kiwi quote balcony exist unique embrace shove welcome double surface";
+var mnemonic = "coffee they fury glimpse visa drink impulse paddle theory lab zoo target";

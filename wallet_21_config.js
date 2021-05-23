@@ -1,1 +1,1 @@
-var mnemonic = "derive immune length swift profit bone truly demand belt honey chase gain";
+var mnemonic = "correct twenty budget upset program swap during order slam local frozen sister";

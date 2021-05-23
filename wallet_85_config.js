@@ -1,1 +1,1 @@
-var mnemonic = "fiscal top citizen always quantum asset pave faint clown glide fan loyal";
+var mnemonic = "garage mountain alley wrong spare skull narrow cargo creek way unaware turn";

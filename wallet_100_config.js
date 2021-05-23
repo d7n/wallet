@@ -1,1 +1,1 @@
-var mnemonic = "broom pool dinosaur destroy traffic body soccer amount elbow forget demand follow";
+var mnemonic = "vital video change purse assist denial spider area faith mango grit awful";

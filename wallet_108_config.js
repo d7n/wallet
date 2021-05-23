@@ -1,1 +1,1 @@
-var mnemonic = "smooth actual damp sustain tobacco guess orbit prefer chunk resemble finger hybrid";
+var mnemonic = "move damage case leg nuclear cruel school scale zebra amount bunker uniform";

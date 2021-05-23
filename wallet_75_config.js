@@ -1,1 +1,1 @@
-var mnemonic = "zoo car someone feature drip just limb brave hub bicycle yellow fire";
+var mnemonic = "uniform limit never piano plunge glove bulk page clerk plunge artefact evoke";

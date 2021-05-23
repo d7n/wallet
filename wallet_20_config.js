@@ -1,1 +1,1 @@
-var mnemonic = "way monkey drink hazard donate antenna client filter prevent winter under rule";
+var mnemonic = "fall desk adjust please usual high calm milk sting poem present side";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb turn quiz brand patient organ left filter cart chat grit butter";
+var mnemonic = "parrot identify horror army select boring stable cluster person faint mind hedgehog";

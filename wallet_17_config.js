@@ -1,1 +1,1 @@
-var mnemonic = "pepper hockey valley enable shock banana tone page maid impact island seven";
+var mnemonic = "retire potato flock mind mad comfort main hidden pony page okay rival";

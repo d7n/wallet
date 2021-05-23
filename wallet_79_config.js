@@ -1,1 +1,1 @@
-var mnemonic = "version you trick pride train blue tonight state point together measure solution";
+var mnemonic = "frozen host police credit glance galaxy elevator donor winter vast lake coast";

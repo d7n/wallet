@@ -1,1 +1,1 @@
-var mnemonic = "develop lawn pelican diesel yard unveil grit clinic purity addict outside torch";
+var mnemonic = "way east oil close match across survey raven joy crucial piece multiply";

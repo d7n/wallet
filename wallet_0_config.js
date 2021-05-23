@@ -1,1 +1,1 @@
-var mnemonic = "fiction cheese cube flower relief public antenna enrich attract gesture come vivid";
+var mnemonic = "grab melt burst aspect supply feed truly pencil team pink gate win";

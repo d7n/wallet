@@ -1,1 +1,1 @@
-var mnemonic = "leaf cross decade bronze camp party left buzz theory wait island still";
+var mnemonic = "crunch shove glass digital erupt borrow apology vital hover uniform custom depth";

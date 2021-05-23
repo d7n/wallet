@@ -1,1 +1,1 @@
-var mnemonic = "toward unknown top rack spread vacuum reform decline horn cigar ridge mobile";
+var mnemonic = "find fringe below pepper unique message disagree announce radio siege kick glove";

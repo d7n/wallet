@@ -1,1 +1,1 @@
-var mnemonic = "forest float spoon rigid hair devote minute glow exile pave author today";
+var mnemonic = "reunion december arctic charge pledge tackle gift liberty ready cinnamon runway rifle";

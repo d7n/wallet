@@ -1,1 +1,1 @@
-var mnemonic = "aim income armor shallow stamp fiber intact input online keep parrot believe";
+var mnemonic = "recycle cube shock involve barely rate manage palace next book nest smoke";

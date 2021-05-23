@@ -1,1 +1,1 @@
-var mnemonic = "obscure uniform estate slot blush find stamp sun antenna lion field rude";
+var mnemonic = "try citizen social hurry draft unit shock truly object lottery crowd cruel";

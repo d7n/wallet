@@ -1,1 +1,1 @@
-var mnemonic = "ethics sustain immense spy gloom voyage kiss salmon scan despair wrong taxi";
+var mnemonic = "dinosaur resemble vivid venue crack mushroom mixed hazard morning wagon false under";

@@ -1,1 +1,1 @@
-var mnemonic = "execute magic polar six retreat tell image fork knife power pull inflict";
+var mnemonic = "lion member film destroy nothing shaft velvet destroy pave claim brief notable";

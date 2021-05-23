@@ -1,1 +1,1 @@
-var mnemonic = "shoot jealous mirror lens labor utility obscure alien stumble edit walnut boring";
+var mnemonic = "mouse camera suspect truth air practice dance thunder girl silly claw main";

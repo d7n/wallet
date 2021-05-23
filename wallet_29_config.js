@@ -1,1 +1,1 @@
-var mnemonic = "prize comic basic water method pave bus hood swap spawn mad web";
+var mnemonic = "yard stove local pool write random palace quit giant grocery tiny output";

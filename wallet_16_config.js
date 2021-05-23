@@ -1,1 +1,1 @@
-var mnemonic = "patch engine pizza miracle clock truck present tunnel gasp trash truck awkward";
+var mnemonic = "slot group museum travel attitude trip job unveil uncover lion real grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin joke close raven off method sweet magic judge actual host debate";
+var mnemonic = "sort top taste normal soup marriage burger robot oblige express bamboo company";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol vendor very genuine company muscle pipe pave diary upset fatal book";
+var mnemonic = "potato kit glad maximum debris session early logic soda please inquiry kid";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid amount voyage coil client setup damage lyrics innocent genre fluid chuckle";
+var mnemonic = "brush mango interest egg poem alien tumble carpet power arrow park survey";

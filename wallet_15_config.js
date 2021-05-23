@@ -1,1 +1,1 @@
-var mnemonic = "honey actual person distance labor peace goat pair level program else sport";
+var mnemonic = "six rack sort fence rough fashion thank fee celery focus quantum hollow";

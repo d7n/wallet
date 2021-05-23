@@ -1,1 +1,1 @@
-var mnemonic = "over text jaguar arctic festival unveil you orchard pause joke hospital soccer";
+var mnemonic = "mind theme drop kingdom have alley immune vague present base laptop wait";

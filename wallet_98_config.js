@@ -1,1 +1,1 @@
-var mnemonic = "moment dose bleak attitude mobile drill add recycle beef surround myself square";
+var mnemonic = "exchange minute parrot trophy current trust lottery suggest animal deposit bar result";

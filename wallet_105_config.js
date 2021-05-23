@@ -1,1 +1,1 @@
-var mnemonic = "city upgrade cute guitar unhappy train day charge hybrid couch absent near";
+var mnemonic = "virtual there news boil execute left mom spider scrub kidney salmon fancy";

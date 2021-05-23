@@ -1,1 +1,1 @@
-var mnemonic = "close dance drum build hotel pulp divert garden start crack alley range";
+var mnemonic = "predict current myth eyebrow spare kitchen draft tape appear major shaft rigid";

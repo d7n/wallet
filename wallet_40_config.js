@@ -1,1 +1,1 @@
-var mnemonic = "before guilt never mule fade steel victory jazz plastic tooth pudding tide";
+var mnemonic = "member indoor mention success sense crouch chronic notice license cabin hurdle lift";

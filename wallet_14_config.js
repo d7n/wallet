@@ -1,1 +1,1 @@
-var mnemonic = "stumble trend discover shrug carbon prison dolphin copy raven claw jar culture";
+var mnemonic = "north blame pizza arrive juice combine oxygen west owner tiny regret inch";

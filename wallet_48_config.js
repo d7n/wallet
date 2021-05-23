@@ -1,1 +1,1 @@
-var mnemonic = "floor cupboard merge second ball brother arrest network muffin sort useful future";
+var mnemonic = "casual glad eternal correct airport cloud enroll alley leisure where coast depart";

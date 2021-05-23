@@ -1,1 +1,1 @@
-var mnemonic = "dizzy movie frown picture process talk raw pepper clump draft alarm final";
+var mnemonic = "tissue cruel normal maple arrive chaos regular high avoid noble injury toddler";

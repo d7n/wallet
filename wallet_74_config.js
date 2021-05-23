@@ -1,1 +1,1 @@
-var mnemonic = "dove direct later million mosquito large common future someone sadness fossil day";
+var mnemonic = "want huge sweet hero purity gas organ obscure cousin about season skin";

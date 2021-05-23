@@ -1,1 +1,1 @@
-var mnemonic = "chase female gaze donkey pudding crater party despair item salad canal marine";
+var mnemonic = "guitar model sea spend front loud away nephew ribbon caught absorb shrug";

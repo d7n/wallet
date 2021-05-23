@@ -1,1 +1,1 @@
-var mnemonic = "airport fade arctic lucky stairs bike small gym web play repair tattoo";
+var mnemonic = "smile face secret fence track clinic front elephant divorce brush ill mountain";

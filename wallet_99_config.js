@@ -1,1 +1,1 @@
-var mnemonic = "sibling you rent hold saddle replace rally grid farm skin valve kitten";
+var mnemonic = "tackle response sheriff mango spare black hurt bicycle sausage office harvest report";

@@ -1,1 +1,1 @@
-var mnemonic = "alone zone annual feel upon glow rookie gasp prison physical copper elephant";
+var mnemonic = "fruit label clump desert title brand describe measure metal fan alpha easy";

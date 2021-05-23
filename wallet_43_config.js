@@ -1,1 +1,1 @@
-var mnemonic = "enrich client barely move ball guard actual magic blush emerge fine catch";
+var mnemonic = "wheat cram hotel risk assist deputy eager dumb before blur neither rely";

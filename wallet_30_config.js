@@ -1,1 +1,1 @@
-var mnemonic = "sustain raw task affair aspect truck bike remind rough puppy weird sand";
+var mnemonic = "labor sadness physical tuna announce try engine cabin middle keep one speak";

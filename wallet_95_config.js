@@ -1,1 +1,1 @@
-var mnemonic = "cool split sauce situate bulk enact exchange two useless snake symptom dumb";
+var mnemonic = "shallow outside kiwi huge people cry slow energy interest album virtual please";

@@ -1,1 +1,1 @@
-var mnemonic = "decade unveil naive parrot bid perfect appear regular fix under educate combine";
+var mnemonic = "summer mule mimic force student matrix muffin gather fix clutch vehicle visual";

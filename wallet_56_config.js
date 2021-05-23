@@ -1,1 +1,1 @@
-var mnemonic = "plastic oblige dismiss piece forest mad surface myth fancy merry pumpkin evolve";
+var mnemonic = "satisfy clever spot side curve cruise sport chimney cage boost correct color";

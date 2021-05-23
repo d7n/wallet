@@ -1,1 +1,1 @@
-var mnemonic = "usual nation gym pelican loan resist moon credit bag total scrap gadget";
+var mnemonic = "skirt seek wear arm hospital olive confirm fox piano cannon when climb";

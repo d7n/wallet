@@ -1,1 +1,1 @@
-var mnemonic = "sunset sorry sugar top goddess music true phone travel oak glue climb";
+var mnemonic = "duck buddy engage identify balcony west table sorry tornado clown giraffe join";

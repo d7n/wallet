@@ -1,1 +1,1 @@
-var mnemonic = "wage divide eternal approve core rabbit system during near gas police proud";
+var mnemonic = "screen happy olympic sunny valley rude afford husband fiscal coconut snow exit";

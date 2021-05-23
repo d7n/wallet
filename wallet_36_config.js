@@ -1,1 +1,1 @@
-var mnemonic = "cheese horn ivory differ crisp settle exist marble acoustic gas few between";
+var mnemonic = "together rough blouse flock genius negative vicious bonus vendor lyrics sphere bind";

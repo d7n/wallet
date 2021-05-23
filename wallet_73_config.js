@@ -1,1 +1,1 @@
-var mnemonic = "upper pitch sniff sand jacket phrase debris angry use vehicle loud sphere";
+var mnemonic = "genius magnet usage ladder surprise symbol two olympic quit manual cable column";

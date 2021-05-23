@@ -1,1 +1,1 @@
-var mnemonic = "next man scatter radio glass suffer guitar chief electric page common stay";
+var mnemonic = "scrub hungry object budget glow clog rookie surface mom defy card cry";

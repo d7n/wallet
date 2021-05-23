@@ -1,1 +1,1 @@
-var mnemonic = "crane tired task oyster seed will gift allow awake busy blast casual";
+var mnemonic = "rocket engage cat unique envelope slide shoot ignore this tag film ostrich";

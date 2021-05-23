@@ -1,1 +1,1 @@
-var mnemonic = "piece reduce found broken screen scheme metal cost best social salad eternal";
+var mnemonic = "display envelope seminar race brain dune claim garage pulp combine sponsor dentist";

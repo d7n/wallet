@@ -1,1 +1,1 @@
-var mnemonic = "burger amused bench skill crack shell narrow shoulder degree able travel suit";
+var mnemonic = "test august input topic tent hotel hood problem seek two manage gesture";

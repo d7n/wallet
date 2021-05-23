@@ -1,1 +1,1 @@
-var mnemonic = "bone damp salmon fever scrap vehicle tenant concert tank staff woman voyage";
+var mnemonic = "resemble short cliff surge tortoise coast rate fan great admit baby feed";

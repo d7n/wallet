@@ -1,1 +1,1 @@
-var mnemonic = "afford burden render glide travel angle ripple since estate require basket day";
+var mnemonic = "reduce pride spell swamp oil enemy volcano sustain claim air entire harbor";

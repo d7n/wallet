@@ -1,1 +1,1 @@
-var mnemonic = "odor property impulse clip believe retreat gravity slide coast brave eight wife";
+var mnemonic = "hotel point fortune student airport able brain play float pitch sibling forward";

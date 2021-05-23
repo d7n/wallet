@@ -1,1 +1,1 @@
-var mnemonic = "cave car aisle style flag tooth rate arrange quiz wrap liberty member";
+var mnemonic = "cupboard level across cube parade quiz cart net sheriff aim vanish alpha";

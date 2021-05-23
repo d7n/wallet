@@ -1,1 +1,1 @@
-var mnemonic = "lobster crop have wheat acquire net execute wheel vital keep light split";
+var mnemonic = "such fashion reunion mobile reform vicious decorate profit kidney race tenant base";

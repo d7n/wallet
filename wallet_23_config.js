@@ -1,1 +1,1 @@
-var mnemonic = "later decorate direct post pioneer major field clown region trick close icon";
+var mnemonic = "fragile between wheel ladder lava crucial blossom run inside end churn balcony";

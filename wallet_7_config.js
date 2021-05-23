@@ -1,1 +1,1 @@
-var mnemonic = "fork engage tape trick usage remain lamp cliff visit salmon breeze cat";
+var mnemonic = "skull music decrease rebuild original convince donor pluck rice mass used accuse";

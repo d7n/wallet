@@ -1,1 +1,1 @@
-var mnemonic = "awake hazard bronze number donkey emotion february century clap tortoise explain orchard";
+var mnemonic = "october fire chimney brother zebra sail miss insect method flame impulse start";

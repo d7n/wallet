@@ -1,1 +1,1 @@
-var mnemonic = "captain possible like ride dune minor ritual fortune bitter trash mango sing";
+var mnemonic = "plate shed detail foot sting civil nominee bamboo coin loop burst panther";

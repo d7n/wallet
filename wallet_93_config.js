@@ -1,1 +1,1 @@
-var mnemonic = "ancient vapor detail stand top either buffalo bag stick large blossom water";
+var mnemonic = "thought figure wink enter resemble scene donate bridge situate draw flat symptom";

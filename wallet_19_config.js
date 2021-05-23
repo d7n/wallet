@@ -1,1 +1,1 @@
-var mnemonic = "brave daring program split sword wine laugh vague diary bar just glimpse";
+var mnemonic = "inner trumpet smoke embark receive flavor post record boil carbon dose keen";

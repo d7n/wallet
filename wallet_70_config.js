@@ -1,1 +1,1 @@
-var mnemonic = "fossil cost sphere miracle arrest refuse pave voyage meadow sadness cool pill";
+var mnemonic = "joy trash ensure update page spawn stay expand double choose crazy mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "raven youth attract meadow jelly delay rain spider this fat open able";
+var mnemonic = "table core credit upper anger grain neutral surge same border violin spell";

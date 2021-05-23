@@ -1,1 +1,1 @@
-var mnemonic = "buzz seek spend stuff write random keen siege hat other clog cushion";
+var mnemonic = "hen involve media donate grocery bounce door dolphin swamp solution mystery funny";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor whale inhale please wedding require drive slender smoke grit surround piano";
+var mnemonic = "carry riot tower fee age cabin green trade library arch matrix snack";

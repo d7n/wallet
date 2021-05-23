@@ -1,1 +1,1 @@
-var mnemonic = "flash exile arrow example clown wing kite giggle talk draft leg blame";
+var mnemonic = "same eye sword orient define latin seed unfair fine twelve carpet promote";

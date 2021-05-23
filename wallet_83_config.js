@@ -1,1 +1,1 @@
-var mnemonic = "state public find alone voice humble hint library favorite chat allow skull";
+var mnemonic = "fence rocket moon penalty lizard rib place picture exile turn tube ladder";

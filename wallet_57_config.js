@@ -1,1 +1,1 @@
-var mnemonic = "include secret chest connect right leave again lucky fruit exotic want effort";
+var mnemonic = "fan city unveil monkey pattern excess goddess select volcano apart hundred food";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi hour twelve crater smoke alcohol capital cave lottery soda seat skate";
+var mnemonic = "cube squirrel cross employ deputy twice hunt hunt gaze mean tattoo base";

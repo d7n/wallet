@@ -1,1 +1,1 @@
-var mnemonic = "provide faculty thrive strong process struggle horse print into hedgehog rare allow";
+var mnemonic = "fat engine warm stove increase keen gather dream ladder depart sun tongue";

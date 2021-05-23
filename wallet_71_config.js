@@ -1,1 +1,1 @@
-var mnemonic = "drink rule girl wish recall jewel ridge eagle buzz plastic page gap";
+var mnemonic = "exchange open before gorilla add delay rich dance refuse inspire inherit clay";

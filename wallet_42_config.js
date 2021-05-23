@@ -1,1 +1,1 @@
-var mnemonic = "echo profit exit danger flavor foot imitate lonely brief scorpion plate kangaroo";
+var mnemonic = "junior license furnace error list away help language figure glare swallow leopard";

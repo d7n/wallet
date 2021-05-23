@@ -1,1 +1,1 @@
-var mnemonic = "orchard metal twelve poem frown funny weapon already still same coil van";
+var mnemonic = "note alone loud drum boy embody whisper mushroom laptop equip kidney tape";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit flame argue shove trust eight they option purchase capital found brisk";
+var mnemonic = "sell fly pipe twice donate fatal lemon verify mobile convince rescue accident";

@@ -1,1 +1,1 @@
-var mnemonic = "language pulse subject eight example palm blush flip mansion satoshi idea cereal";
+var mnemonic = "quick exclude leaf much left club anger rule submit weasel solution fault";

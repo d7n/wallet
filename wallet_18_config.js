@@ -1,1 +1,1 @@
-var mnemonic = "creek since detect venture clinic awesome lesson apology wide much enlist toward";
+var mnemonic = "dumb quote correct liar quality tonight slam trigger disease mom grow fresh";

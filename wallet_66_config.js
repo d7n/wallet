@@ -1,1 +1,1 @@
-var mnemonic = "obscure property anger service antique warrior zero impact ball confirm then pistol";
+var mnemonic = "cat blood floor supply curve original aisle home capable sick bicycle auction";

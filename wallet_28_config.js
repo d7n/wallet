@@ -1,1 +1,1 @@
-var mnemonic = "practice winter cotton limb ready jazz example wagon either man problem kangaroo";
+var mnemonic = "gadget sugar discover uniform six sense tuition patient measure open income young";

@@ -1,1 +1,1 @@
-var mnemonic = "birth alarm actress visual daughter job capable plastic half square hold police";
+var mnemonic = "romance group column plug exotic minute coach cabbage trouble grocery include grab";

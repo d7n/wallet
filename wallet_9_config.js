@@ -1,1 +1,1 @@
-var mnemonic = "knock asset opinion else subway food electric phrase siege receive onion powder";
+var mnemonic = "provide agent wish venture trade parrot item general security giraffe foster oak";

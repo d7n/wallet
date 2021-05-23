@@ -1,1 +1,1 @@
-var mnemonic = "jungle range repair admit system admit iron coach awake true height bike";
+var mnemonic = "peanut buzz math pumpkin coil rocket safe table gap neglect sound palm";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse milk original square repeat tongue lens interest milk capital utility ordinary";
+var mnemonic = "hair train hour fossil face magnet estate liberty interest ridge anger grain";
