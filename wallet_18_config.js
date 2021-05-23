@@ -1,1 +1,1 @@
-var mnemonic = "crawl fan mix club property grass series police million gather say observe";
+var mnemonic = "access exercise affair weird click dance jungle review increase cereal actor track";

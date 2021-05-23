@@ -1,1 +1,1 @@
-var mnemonic = "whale spirit view below chef candy gallery topple bind labor sport problem";
+var mnemonic = "put praise decline know main small tube kind cost random truck wool";

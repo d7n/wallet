@@ -1,1 +1,1 @@
-var mnemonic = "better enhance entire bundle virus album autumn staff there sphere labor analyst";
+var mnemonic = "genre usage motor spatial vintage pair cruise rhythm chapter large dove sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden planet fall arrest extend cry bench float abstract rhythm find forum";
+var mnemonic = "unable uncle hotel ostrich energy scare canvas logic entry grocery cart turkey";

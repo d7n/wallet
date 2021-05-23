@@ -1,1 +1,1 @@
-var mnemonic = "suggest biology screen soft barrel snow absurd shaft idle follow hope soon";
+var mnemonic = "deliver heavy earn wave charge luxury walnut comic various dilemma cheese label";

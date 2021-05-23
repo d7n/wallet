@@ -1,1 +1,1 @@
-var mnemonic = "record volume cereal over need divide twice aerobic iron box file expand";
+var mnemonic = "snap comic rain mother hint tornado dinosaur chaos goose vacant pond setup";

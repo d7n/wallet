@@ -1,1 +1,1 @@
-var mnemonic = "tuition bean tray able valve inch lawn tag face clutch plug wealth";
+var mnemonic = "alert crouch daring wage face slam dice valid smart knife win obtain";

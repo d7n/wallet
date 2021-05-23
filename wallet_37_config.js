@@ -1,1 +1,1 @@
-var mnemonic = "roast car evoke swap flee grape paddle old wealth ready enough flush";
+var mnemonic = "grief wheat supply abandon series that payment uphold achieve clip quote you";

@@ -1,1 +1,1 @@
-var mnemonic = "promote divorce yard differ exist boost entry drift panel space reward above";
+var mnemonic = "pizza learn voyage uphold finger give shiver tenant assist glove sphere voice";

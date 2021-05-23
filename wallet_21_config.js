@@ -1,1 +1,1 @@
-var mnemonic = "feed animal casino gadget sing relax bean garbage ribbon miracle stairs illness";
+var mnemonic = "senior short birth loud mammal scrap depart stem convince tiger mistake project";

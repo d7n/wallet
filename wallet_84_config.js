@@ -1,1 +1,1 @@
-var mnemonic = "loop segment genuine innocent certain biology above salute lunar bunker famous bitter";
+var mnemonic = "matrix grocery inquiry track source proof nose nut valid insane street rib";

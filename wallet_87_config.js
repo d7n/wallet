@@ -1,1 +1,1 @@
-var mnemonic = "shy prepare garment admit model sadness spawn slide puppy border hip weekend";
+var mnemonic = "glass myself uncover crazy erase era spend farm security fabric inch erosion";

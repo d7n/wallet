@@ -1,1 +1,1 @@
-var mnemonic = "youth stay tape blind push perfect fantasy width scrap flock subway era";
+var mnemonic = "shy adapt almost trigger essence snow blanket daring trumpet surprise repeat citizen";

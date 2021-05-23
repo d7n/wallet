@@ -1,1 +1,1 @@
-var mnemonic = "refuse artwork design pudding page design ranch avoid patch confirm naive produce";
+var mnemonic = "roast gift market meat apart please right wrong scrub fiber envelope mirror";

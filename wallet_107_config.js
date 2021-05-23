@@ -1,1 +1,1 @@
-var mnemonic = "know tiger aisle tooth gun health bean one stool point resist slight";
+var mnemonic = "entry suspect mask human cup notable trend zebra nuclear injury melt average";

@@ -1,1 +1,1 @@
-var mnemonic = "supply oak actor upgrade cousin laugh also bean tornado hint street equal";
+var mnemonic = "sport camp film exile marble logic uncover famous lava reject hold funny";

@@ -1,1 +1,1 @@
-var mnemonic = "property math blur moral among bulb gravity vintage author anxiety answer elevator";
+var mnemonic = "black scan flash fault smile bus shine kick love edit will win";

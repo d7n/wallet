@@ -1,1 +1,1 @@
-var mnemonic = "cable hungry copper gospel attack link height stool spice canoe nut month";
+var mnemonic = "order exchange maid sting best forum gauge lava merry stomach vacant tiny";

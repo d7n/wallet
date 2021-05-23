@@ -1,1 +1,1 @@
-var mnemonic = "canoe donor measure sheriff hunt eight bring small price sunset draft fence";
+var mnemonic = "shell want memory vacant chapter lizard accuse label lady fish verify traffic";

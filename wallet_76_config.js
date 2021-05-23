@@ -1,1 +1,1 @@
-var mnemonic = "oil burger student mimic scrap weather vendor inspire dream stay today need";
+var mnemonic = "inflict hedgehog assist shuffle result romance master able awful scare order torch";

@@ -1,1 +1,1 @@
-var mnemonic = "couple distance gas ticket tent elite island bronze file above word enforce";
+var mnemonic = "genius boost cave mushroom library huge wool board ability horn hood body";

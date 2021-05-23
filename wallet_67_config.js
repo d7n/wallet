@@ -1,1 +1,1 @@
-var mnemonic = "skill firm useful velvet pig wage wool soft future electric wife else";
+var mnemonic = "service wage office staff circle morning earth human uncover lens blouse network";

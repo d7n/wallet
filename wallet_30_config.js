@@ -1,1 +1,1 @@
-var mnemonic = "economy swamp bring soap code venture grant vicious coil debris army year";
+var mnemonic = "you switch insane accident knife welcome cup inherit arch catch meadow orphan";

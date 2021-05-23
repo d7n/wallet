@@ -1,1 +1,1 @@
-var mnemonic = "until sign draw space unable hotel tissue cattle auction fresh lock afraid";
+var mnemonic = "bachelor program category shell regular feel bounce mammal teach mule intact hawk";

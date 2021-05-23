@@ -1,1 +1,1 @@
-var mnemonic = "verify topic mobile explain kingdom imitate holiday dolphin page gift measure opera";
+var mnemonic = "deliver have argue possible envelope action stand transfer equip cheese grain stool";

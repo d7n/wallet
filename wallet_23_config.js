@@ -1,1 +1,1 @@
-var mnemonic = "choose elevator chat borrow spawn display family negative measure panda evolve thumb";
+var mnemonic = "rebel choose world forget cricket effort skin base notable oyster radar aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "moon audit guilt define mandate famous find text cushion urge fluid alpha";
+var mnemonic = "run task size host brand toilet bread whale remove mule churn pear";

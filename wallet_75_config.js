@@ -1,1 +1,1 @@
-var mnemonic = "need winner fantasy runway combine evidence toward stumble exile favorite nothing nut";
+var mnemonic = "axis degree glow maid element flee impulse fruit social soap polar volume";

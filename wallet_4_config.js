@@ -1,1 +1,1 @@
-var mnemonic = "room floor marble isolate rabbit manage length learn bone window brush candy";
+var mnemonic = "fever shy stage cloth faith happy waste oil manual mean unit pigeon";

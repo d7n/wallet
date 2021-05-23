@@ -1,1 +1,1 @@
-var mnemonic = "eagle journey calm maple ocean enrich aerobic west involve power champion struggle";
+var mnemonic = "flight pair ocean sock copper allow wear lawsuit person craft laundry calm";

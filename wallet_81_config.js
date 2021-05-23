@@ -1,1 +1,1 @@
-var mnemonic = "sting region veteran resist fence ordinary tent clutch ignore pause census search";
+var mnemonic = "ill smooth alien direct asthma plunge leader humble hamster student gown august";

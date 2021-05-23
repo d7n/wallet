@@ -1,1 +1,1 @@
-var mnemonic = "off honey panther accuse element thrive fly peanut match bullet enlist hip";
+var mnemonic = "harsh dash cup reopen cake kite salmon gather repair remember enter tube";

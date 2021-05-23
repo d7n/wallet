@@ -1,1 +1,1 @@
-var mnemonic = "purchase floor merit lunar advice finger nut kid physical bleak talent crane";
+var mnemonic = "member grass donkey quarter win congress dash coil youth credit rude flight";

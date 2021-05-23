@@ -1,1 +1,1 @@
-var mnemonic = "final child pizza like neck follow ugly horn solid unit fantasy during";
+var mnemonic = "move energy asthma runway gauge forward door gaze magic toy stool desk";

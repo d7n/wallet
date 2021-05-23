@@ -1,1 +1,1 @@
-var mnemonic = "suffer angry drill empty gain execute circle reveal apology route inmate ankle";
+var mnemonic = "lounge observe news confirm casino valid typical crane weather ocean gloom hold";

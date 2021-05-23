@@ -1,1 +1,1 @@
-var mnemonic = "bunker exist winner gasp doll soul stand call era canoe merry sense";
+var mnemonic = "bleak adult cinnamon clog road gentle system bunker undo half match robust";

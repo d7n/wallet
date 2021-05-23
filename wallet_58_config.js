@@ -1,1 +1,1 @@
-var mnemonic = "keep sweet nation mixture such north common power tooth dismiss fix phrase";
+var mnemonic = "push sauce mixed book gauge secret jelly father unhappy nephew behind what";

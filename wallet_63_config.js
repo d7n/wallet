@@ -1,1 +1,1 @@
-var mnemonic = "van fitness canyon slush favorite sorry window family power sausage voyage moment";
+var mnemonic = "goddess early laundry unit wheel prepare lady word inhale assume rate sense";

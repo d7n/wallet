@@ -1,1 +1,1 @@
-var mnemonic = "nation skirt laundry myself trophy shop pole cake autumn foil captain cigar";
+var mnemonic = "actual yellow pig describe any jewel behind one behind seek link wide";

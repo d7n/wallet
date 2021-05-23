@@ -1,1 +1,1 @@
-var mnemonic = "board carbon soup dentist observe improve actual hamster stem help ice stock";
+var mnemonic = "rotate soccer fence universe width sugar favorite accident spoil toe link museum";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel area bonus practice decide will inhale upgrade egg coffee oxygen baby";
+var mnemonic = "clock vague shine hurdle behave close guilt cruise pottery minimum ribbon page";

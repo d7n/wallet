@@ -1,1 +1,1 @@
-var mnemonic = "push churn name tonight cushion memory credit birth avocado fatal uncle like";
+var mnemonic = "print cube alert lawn try wet eagle glass genre agent impose happy";

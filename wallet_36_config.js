@@ -1,1 +1,1 @@
-var mnemonic = "broccoli icon volume spell rigid wrestle plate ladder curtain donate army calm";
+var mnemonic = "empower rookie pigeon hungry owner document gloom pull tent knee slogan disease";

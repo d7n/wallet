@@ -1,1 +1,1 @@
-var mnemonic = "ensure work mail soul robust wonder basket aware under toward genuine child";
+var mnemonic = "reveal amateur bid project cover mammal brave chat already equip annual canyon";

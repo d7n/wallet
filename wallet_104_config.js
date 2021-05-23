@@ -1,1 +1,1 @@
-var mnemonic = "air laugh pioneer raccoon grocery beyond symptom scene execute speak intact what";
+var mnemonic = "inflict club student lamp canyon fat shop normal witness invest salute donkey";

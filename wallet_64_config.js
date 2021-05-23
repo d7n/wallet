@@ -1,1 +1,1 @@
-var mnemonic = "portion ordinary short elegant bubble used opinion target possible piano project slow";
+var mnemonic = "process travel enact hammer steak west toy february biology glass relief mixed";

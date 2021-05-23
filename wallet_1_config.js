@@ -1,1 +1,1 @@
-var mnemonic = "scout spring trap famous transfer faint slide oil medal duty loud nurse";
+var mnemonic = "prepare stand artefact inform pony sing pottery camp weather target travel electric";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter innocent visit museum fortune call awkward real august napkin label action";
+var mnemonic = "pupil section blue muscle soup crime lady praise evolve fall silk bounce";

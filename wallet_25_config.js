@@ -1,1 +1,1 @@
-var mnemonic = "imitate refuse average identify cloud length rather measure hunt country inflict garlic";
+var mnemonic = "jewel venture summer scale prefer offer myth economy spider flat explain drip";

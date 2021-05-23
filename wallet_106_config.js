@@ -1,1 +1,1 @@
-var mnemonic = "gas know student city skull lesson person state idle fossil upset stock";
+var mnemonic = "maid surface cabin coin badge upgrade flee announce confirm echo voyage fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "usual advice office link execute digital crunch direct ask dwarf empty rigid";
+var mnemonic = "tank arctic subway scene poverty pull glance embrace track fever rebel blossom";

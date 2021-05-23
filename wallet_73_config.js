@@ -1,1 +1,1 @@
-var mnemonic = "endorse glove jaguar vicious peanut wonder turkey corn stool elder another assault";
+var mnemonic = "emerge sign purchase mirror matter joy butter tooth enemy radio around satoshi";

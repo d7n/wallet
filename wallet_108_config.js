@@ -1,1 +1,1 @@
-var mnemonic = "section hero lumber web erase strong lab network chair lounge field pulp";
+var mnemonic = "alert range sword fault online vibrant siren latin oven slam weapon quality";

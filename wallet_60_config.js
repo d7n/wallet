@@ -1,1 +1,1 @@
-var mnemonic = "aisle faint amazing depart field miss crumble erase bicycle soon drastic athlete";
+var mnemonic = "material grab orient thing total tennis top library truth burden jungle math";

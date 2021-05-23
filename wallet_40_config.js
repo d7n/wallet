@@ -1,1 +1,1 @@
-var mnemonic = "reform involve episode obscure term midnight lazy heavy couch man dial bean";
+var mnemonic = "upon laundry soccer circle habit cross lamp element cute kick beach finish";

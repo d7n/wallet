@@ -1,1 +1,1 @@
-var mnemonic = "nerve avoid twice portion climb federal actress market neglect that couch urban";
+var mnemonic = "heavy mixture target vessel usage arena sell analyst dawn potato west balance";

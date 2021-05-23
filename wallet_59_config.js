@@ -1,1 +1,1 @@
-var mnemonic = "left major acquire legend pact denial wish stamp opera cup soldier member";
+var mnemonic = "finish toy absurd pause group charge lady trust common moment hub hip";

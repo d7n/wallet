@@ -1,1 +1,1 @@
-var mnemonic = "capital report keep afford panther increase wage impose fortune floor slogan limb";
+var mnemonic = "distance inner region inform dinner dinner tide forum prepare shy share accuse";

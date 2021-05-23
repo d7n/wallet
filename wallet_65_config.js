@@ -1,1 +1,1 @@
-var mnemonic = "happy grape lens square huge junior cherry treat clown ripple siren rifle";
+var mnemonic = "amazing credit noise never cheese very elder audit tent stamp casino brain";

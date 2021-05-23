@@ -1,1 +1,1 @@
-var mnemonic = "fault edge churn card toast truth file area source elder volcano safe";
+var mnemonic = "sister walnut balcony hungry harbor stand chest skate screen price whip tennis";

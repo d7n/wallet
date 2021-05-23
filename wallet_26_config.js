@@ -1,1 +1,1 @@
-var mnemonic = "inflict imitate visual rescue episode answer fame close design slight churn board";
+var mnemonic = "latin resource myth honey uniform behave notice royal dash exit strike aware";

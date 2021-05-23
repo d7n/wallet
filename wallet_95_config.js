@@ -1,1 +1,1 @@
-var mnemonic = "maple few twice purse crouch oppose piano account reject dad neutral human";
+var mnemonic = "quarter tool addict theory confirm inform ski custom art tobacco hip nest";

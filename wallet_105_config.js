@@ -1,1 +1,1 @@
-var mnemonic = "execute spell round enact digital awake scout save flock noble buyer pioneer";
+var mnemonic = "bundle mimic common lizard taste quality stage annual online actor gold salmon";

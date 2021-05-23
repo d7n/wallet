@@ -1,1 +1,1 @@
-var mnemonic = "enemy radio glad vault predict pulp true south voyage scatter awful hurt";
+var mnemonic = "hunt wave street devote raven color crop purse depend butter direct offer";

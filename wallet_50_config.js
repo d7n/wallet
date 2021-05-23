@@ -1,1 +1,1 @@
-var mnemonic = "cost combine meat museum sea dwarf solution column govern pass they ritual";
+var mnemonic = "again dumb sugar camera raccoon exhibit spray beyond pulse edit monitor blur";

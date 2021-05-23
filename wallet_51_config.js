@@ -1,1 +1,1 @@
-var mnemonic = "bulb vacuum vault noodle equip install eager course ankle stove accuse wet";
+var mnemonic = "glance photo ignore urge sketch blossom dilemma trim produce conduct liar ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "primary busy table jar rifle agent exercise crouch program rail below proud";
+var mnemonic = "icon power blast mind huge shuffle alter vessel quit forget pencil like";

@@ -1,1 +1,1 @@
-var mnemonic = "change have cinnamon fog busy device install correct infant analyst modify thank";
+var mnemonic = "below prosper love soon glance excess planet dilemma spider crack primary taste";

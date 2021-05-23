@@ -1,1 +1,1 @@
-var mnemonic = "debate extra silly news fragile remove latin fork wonder bacon enforce surface";
+var mnemonic = "laptop hamster patch pyramid saddle tape topic coffee mean dad flat obtain";

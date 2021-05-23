@@ -1,1 +1,1 @@
-var mnemonic = "reflect phone drama search drive lobster blossom humble shock inspire direct large";
+var mnemonic = "world tape movie assault security habit yard spatial trade exhaust light bean";

@@ -1,1 +1,1 @@
-var mnemonic = "goat shallow wrong price retreat title dove actress cannon knee tide talent";
+var mnemonic = "effort pair coconut peace liquid gesture finger average local market office unit";

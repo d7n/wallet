@@ -1,1 +1,1 @@
-var mnemonic = "ghost ginger able switch goat topple popular final wire cigar income emotion";
+var mnemonic = "acoustic music devote myth rule delay inspire jeans pride taxi next local";

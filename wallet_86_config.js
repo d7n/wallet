@@ -1,1 +1,1 @@
-var mnemonic = "maple voice burst youth bundle snack model cage health stay odor hour";
+var mnemonic = "famous reason drastic wagon illness decorate nuclear tent steel rain rude cement";

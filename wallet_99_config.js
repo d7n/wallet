@@ -1,1 +1,1 @@
-var mnemonic = "excess denial zone collect oil ramp mask tattoo husband own lizard couple";
+var mnemonic = "explain credit analyst iron hold boat merit define toilet mandate direct sting";

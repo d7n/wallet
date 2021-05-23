@@ -1,1 +1,1 @@
-var mnemonic = "shuffle hip window wink cover material nice engage pyramid elephant witness emotion";
+var mnemonic = "weather blast parent hundred patient asthma cost found silk clerk garlic hammer";

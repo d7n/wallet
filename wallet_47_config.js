@@ -1,1 +1,1 @@
-var mnemonic = "siren pole sudden copy weekend affair flee calm scrap mercy garlic kite";
+var mnemonic = "lemon lonely stable real key apology valley labor team web distance fresh";

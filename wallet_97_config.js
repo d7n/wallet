@@ -1,1 +1,1 @@
-var mnemonic = "become board antenna art excess borrow oven skull tonight power unit verify";
+var mnemonic = "canal gallery wasp useless multiply topic square crumble night toward host oven";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy unable island sight pact twist cart thank follow blur usual dentist";
+var mnemonic = "fan cover fetch acoustic wait silent primary element curtain tube gospel flock";

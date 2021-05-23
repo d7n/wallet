@@ -1,1 +1,1 @@
-var mnemonic = "blue nose evidence donkey caution card cart focus burden oak health kick";
+var mnemonic = "flip hundred copy avocado thumb drift spirit census october finger thumb machine";

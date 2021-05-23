@@ -1,1 +1,1 @@
-var mnemonic = "success vault essence suggest spot provide female diagram toast paper advance awake";
+var mnemonic = "ladder shaft obtain fashion primary coil way twist genius word excuse liberty";

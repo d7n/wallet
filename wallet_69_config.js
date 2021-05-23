@@ -1,1 +1,1 @@
-var mnemonic = "expire tent better drop extra mix hire later approve clever gallery behave";
+var mnemonic = "corn flock swear supreme mammal novel diesel minor symbol garden sport august";

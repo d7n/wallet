@@ -1,1 +1,1 @@
-var mnemonic = "outer expire today smart helmet cabin family raccoon poem fatal broom gadget";
+var mnemonic = "spoon crop sister brown speak duty ready secret between define license annual";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort federal jewel size fancy lonely envelope loyal sadness fall youth chat";
+var mnemonic = "stem vague mutual husband amount type swim enough lizard farm artwork dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "soul traffic simple matrix foster piece inner diagram goddess online weird fade";
+var mnemonic = "raw bottom again limit belt exhaust talent bid sail leaf robust lab";

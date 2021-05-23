@@ -1,1 +1,1 @@
-var mnemonic = "pave illness stumble output tortoise ocean entry brown spoil recall flush afford";
+var mnemonic = "load oval arrow rubber control affair ginger insane outer aim eternal cool";

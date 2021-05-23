@@ -1,1 +1,1 @@
-var mnemonic = "hungry trim drama wolf couch alone boring abstract kiwi sponsor veteran depend";
+var mnemonic = "slot expire lunar pioneer bamboo width accuse fatal sick valley expose enjoy";

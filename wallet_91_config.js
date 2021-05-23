@@ -1,1 +1,1 @@
-var mnemonic = "brand regular joy occur mosquito isolate solar wise special cushion illegal phone";
+var mnemonic = "liquid chicken eternal select noble marble alcohol climb fiction thank gate lawsuit";
