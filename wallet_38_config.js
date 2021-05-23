@@ -1,1 +1,1 @@
-var mnemonic = "gauge trophy churn text angry stereo wave genius boring together coyote orange";
+var mnemonic = "arena hurdle modify lab badge jelly hobby segment poverty bag margin cherry";

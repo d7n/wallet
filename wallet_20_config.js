@@ -1,1 +1,1 @@
-var mnemonic = "assist alien puppy mango design error melt parrot divide next creek mom";
+var mnemonic = "alien canal proof seven reward bottom uncle silk service reopen giant aerobic";

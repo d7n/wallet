@@ -1,1 +1,1 @@
-var mnemonic = "wear suspect transfer apology village addict finish slow sketch genre fatigue fossil";
+var mnemonic = "media arctic size couch already tilt marriage clutch vibrant basic good priority";

@@ -1,1 +1,1 @@
-var mnemonic = "insect shop flash brush hair crane april capable muscle sad borrow segment";
+var mnemonic = "saddle cage legal elephant feature cradle soap shaft start actual drum family";

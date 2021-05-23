@@ -1,1 +1,1 @@
-var mnemonic = "slide bubble coil basic element exhaust able enjoy festival marine situate ecology";
+var mnemonic = "local dice pilot calm fold exile fine net aisle nerve crunch laptop";

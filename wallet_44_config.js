@@ -1,1 +1,1 @@
-var mnemonic = "pepper ivory congress casual monster main bleak swing syrup cloth love paddle";
+var mnemonic = "dignity civil moon ancient whip sock devote hamster above solar tragic plug";

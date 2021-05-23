@@ -1,1 +1,1 @@
-var mnemonic = "off cliff junk ensure bronze tuition name rug entry method hold lazy";
+var mnemonic = "donor party actor black web fruit shine uphold glimpse edit appear wrestle";

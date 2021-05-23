@@ -1,1 +1,1 @@
-var mnemonic = "weekend name maze ill kick maple beach course reunion double have wolf";
+var mnemonic = "stumble wrap entry sausage avoid embody ready exchange slam dice else custom";

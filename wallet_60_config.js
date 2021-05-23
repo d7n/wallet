@@ -1,1 +1,1 @@
-var mnemonic = "burden visit focus avoid million brand skirt hurry camera unknown ask west";
+var mnemonic = "advance garden away tragic immense situate test alpha athlete sorry office problem";

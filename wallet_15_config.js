@@ -1,1 +1,1 @@
-var mnemonic = "foster tortoise radio moral seven mansion today climb cattle crouch avocado energy";
+var mnemonic = "school observe fame chimney intact vast kitten diamond machine length weird heavy";

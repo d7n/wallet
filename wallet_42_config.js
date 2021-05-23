@@ -1,1 +1,1 @@
-var mnemonic = "fiber inmate leave jaguar inhale response hire road dentist magnet side evoke";
+var mnemonic = "van grief loop entire spawn imitate unit oven actress spoon silent that";

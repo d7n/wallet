@@ -1,1 +1,1 @@
-var mnemonic = "scorpion stadium world document axis easily net skirt salmon frost beach sheriff";
+var mnemonic = "team wire size fine ability oak art sport present token fresh link";

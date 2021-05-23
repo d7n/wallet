@@ -1,1 +1,1 @@
-var mnemonic = "service scissors test inch basic boy elephant phone bleak robust sense service";
+var mnemonic = "jelly abstract cruise month cry sort depart humble solar bar various lake";

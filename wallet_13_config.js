@@ -1,1 +1,1 @@
-var mnemonic = "type marriage news august marine describe brother minimum shallow science naive slush";
+var mnemonic = "daring wage system future goose nose sick chuckle huge skirt crash bless";

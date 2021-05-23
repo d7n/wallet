@@ -1,1 +1,1 @@
-var mnemonic = "suffer potato whisper square giant vacuum public behind nest imitate blouse habit";
+var mnemonic = "differ absent spy acoustic holiday excuse defense weird gas buyer fix enrich";

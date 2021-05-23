@@ -1,1 +1,1 @@
-var mnemonic = "museum drum surface tube manage method jazz general blush citizen duty mango";
+var mnemonic = "gym later wish cruel wet fuel orphan prosper before depend advance earth";

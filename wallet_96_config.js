@@ -1,1 +1,1 @@
-var mnemonic = "visit advance stick broken erosion boil potato remind bachelor balcony modify wise";
+var mnemonic = "account fortune insect monkey swarm tiny need rapid medal parent please leaf";

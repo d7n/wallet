@@ -1,1 +1,1 @@
-var mnemonic = "average guard crucial noodle ladder march aspect pupil hair never fashion antique";
+var mnemonic = "dinosaur friend arctic angle rare father rule around into garment play prefer";

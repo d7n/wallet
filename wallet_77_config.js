@@ -1,1 +1,1 @@
-var mnemonic = "wrestle rough city quarter immune merge civil bomb rotate dinosaur concert submit";
+var mnemonic = "square clutch opinion reopen trumpet view home stairs sun alcohol federal silk";

@@ -1,1 +1,1 @@
-var mnemonic = "fee use insane special fruit country once tortoise clay brand swamp base";
+var mnemonic = "spice forward tattoo hollow tired valley planet document pledge pride innocent sting";

@@ -1,1 +1,1 @@
-var mnemonic = "purse flush sport inner enough method kidney worth clown discover skirt kidney";
+var mnemonic = "way reopen shell cereal length before primary peasant increase swarm claw apple";

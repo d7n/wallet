@@ -1,1 +1,1 @@
-var mnemonic = "thought split frost bullet close give token stove call radar scissors cart";
+var mnemonic = "repair live lion inhale cheap cloth clean way verify left since swallow";

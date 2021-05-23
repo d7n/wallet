@@ -1,1 +1,1 @@
-var mnemonic = "friend sudden oxygen off mixture steak bonus elephant distance impulse tenant sweet";
+var mnemonic = "forest bicycle liar resemble cable huge penalty ice artefact fluid question middle";

@@ -1,1 +1,1 @@
-var mnemonic = "mix case clever exotic salt enhance unknown pass curious grow reason spoon";
+var mnemonic = "rural near gentle frog rail unable position onion squirrel icon test main";

@@ -1,1 +1,1 @@
-var mnemonic = "tail typical garment grab favorite prefer satoshi put orange leopard direct intact";
+var mnemonic = "feed fork banana erosion wisdom potato share filter nice rather worth happy";

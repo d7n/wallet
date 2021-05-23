@@ -1,1 +1,1 @@
-var mnemonic = "raven critic funny copy bean supply wise copper anchor virtual icon eagle";
+var mnemonic = "reopen jealous elevator stage author silent speed lamp assist album mom advice";

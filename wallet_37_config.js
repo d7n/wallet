@@ -1,1 +1,1 @@
-var mnemonic = "caught twin canyon tired seat moment upon toy inhale cream animal wagon";
+var mnemonic = "option debris hockey gas choice cushion cave pole pupil detail team limit";

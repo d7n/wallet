@@ -1,1 +1,1 @@
-var mnemonic = "amount wreck climb mind exotic glory mammal dry hat analyst mutual bachelor";
+var mnemonic = "avocado resource solve enforce joy acoustic pull lock pull river bleak soft";

@@ -1,1 +1,1 @@
-var mnemonic = "humor analyst feature swift gloom violin depend double attract bus food click";
+var mnemonic = "chapter dry stove profit vote ring club act immense buffalo endless warm";

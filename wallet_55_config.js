@@ -1,1 +1,1 @@
-var mnemonic = "milk patient achieve flat absent blur couch super hurt adjust measure odor";
+var mnemonic = "robust entry tennis share slim turn wrap air month electric pretty budget";

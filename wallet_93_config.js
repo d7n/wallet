@@ -1,1 +1,1 @@
-var mnemonic = "army advice mandate adapt verb antenna summer churn rigid base detect document";
+var mnemonic = "timber crazy anxiety client fade enough essence employ nerve elite enroll current";

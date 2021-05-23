@@ -1,1 +1,1 @@
-var mnemonic = "exit super tomato comfort grass solid evidence dinosaur trust elephant fancy have";
+var mnemonic = "hip method estate yard hidden taste stumble grain diary journey art poem";

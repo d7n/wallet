@@ -1,1 +1,1 @@
-var mnemonic = "drift cherry genuine steel coral moment rare traffic license merry tornado sea";
+var mnemonic = "sure direct satisfy pause weapon sport bundle myself help day bulb glare";

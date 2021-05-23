@@ -1,1 +1,1 @@
-var mnemonic = "sponsor ranch expand deal clog express creek history mechanic eyebrow cake feed";
+var mnemonic = "rifle crack atom royal arch twist team poet glass patient worry mystery";

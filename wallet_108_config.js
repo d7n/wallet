@@ -1,1 +1,1 @@
-var mnemonic = "castle enroll more runway equip mirror fun cloud enlist tag split brick";
+var mnemonic = "naive couple tuition idle hint cry hungry output mango load awful layer";

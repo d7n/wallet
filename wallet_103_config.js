@@ -1,1 +1,1 @@
-var mnemonic = "blush amused solid ready nose web jelly subject salad field flash error";
+var mnemonic = "march length pause glimpse hundred dad prize evolve neck toss blossom lens";

@@ -1,1 +1,1 @@
-var mnemonic = "head buyer grow equal cactus flower mango path tenant seek material layer";
+var mnemonic = "fun note sponsor resemble such pig what high that bronze before glory";

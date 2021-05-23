@@ -1,1 +1,1 @@
-var mnemonic = "tag federal find sudden genuine unveil gauge ignore pigeon toilet gravity spider";
+var mnemonic = "matrix satoshi artefact thrive asthma report owner valid weekend beef crystal spell";

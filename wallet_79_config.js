@@ -1,1 +1,1 @@
-var mnemonic = "end rebuild timber gorilla tomato group install raw margin elbow raccoon stool";
+var mnemonic = "exit donate ranch between allow box crop tiny develop lab omit address";

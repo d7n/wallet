@@ -1,1 +1,1 @@
-var mnemonic = "buyer cricket display banner edit dignity rhythm they lucky custom anger wall";
+var mnemonic = "artwork across patient assist artist dream cheese ketchup blush decrease boss social";

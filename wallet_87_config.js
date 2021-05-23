@@ -1,1 +1,1 @@
-var mnemonic = "weather tilt movie october meadow delay ozone outdoor else input about fish";
+var mnemonic = "obtain tragic please property hour lock message face churn must result axis";

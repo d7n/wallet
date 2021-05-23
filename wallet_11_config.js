@@ -1,1 +1,1 @@
-var mnemonic = "cruise rail other expand leopard purity action script all surge return seat";
+var mnemonic = "slow absorb forest shallow child select toilet useful engage boat gather cargo";

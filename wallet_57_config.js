@@ -1,1 +1,1 @@
-var mnemonic = "frame tortoise into vacant inner job barely cabin fragile habit derive popular";
+var mnemonic = "honey vibrant train omit rare friend loop vessel drip stable tent hat";

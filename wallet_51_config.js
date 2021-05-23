@@ -1,1 +1,1 @@
-var mnemonic = "assault capable minimum oyster smile collect faith burst hurdle tower rocket pull";
+var mnemonic = "pave immune spike bag define monster knee family jar enact pole crack";

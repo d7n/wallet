@@ -1,1 +1,1 @@
-var mnemonic = "actress fire enlist reveal come dose token knee dragon rely remove stage";
+var mnemonic = "voice illness bunker method afford result come path farm gadget leaf announce";

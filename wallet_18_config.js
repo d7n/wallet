@@ -1,1 +1,1 @@
-var mnemonic = "dream potato lottery siege floor cost grit where fluid skull trade trigger";
+var mnemonic = "very pupil link iron equip antenna draw interest custom update two day";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace exist width side marriage hedgehog symbol sand glimpse invite useless unfold";
+var mnemonic = "flight canoe leave crisp state dial travel pair pool charge clean force";

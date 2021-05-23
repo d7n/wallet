@@ -1,1 +1,1 @@
-var mnemonic = "leisure best occur mad together buffalo peasant grain day bunker black stock";
+var mnemonic = "scheme cupboard slow false walk must vanish lyrics dwarf skull label display";

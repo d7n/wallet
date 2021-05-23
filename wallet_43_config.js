@@ -1,1 +1,1 @@
-var mnemonic = "giant chapter lumber wrist someone sell control pear hill hour two tooth";
+var mnemonic = "decide spy advance tank mandate indicate copy switch fringe churn resemble slice";

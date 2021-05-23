@@ -1,1 +1,1 @@
-var mnemonic = "jealous regular lemon effort curve air brand guitar village science action train";
+var mnemonic = "fit bleak dash flush cube dress diet eyebrow wash buyer economy neither";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt people wrap exhaust fiscal latin message track call invest clip marble";
+var mnemonic = "lady actor stairs coach target erosion question pipe rapid donate dance glad";

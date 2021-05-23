@@ -1,1 +1,1 @@
-var mnemonic = "copy oak cage patrol fatigue carbon fatigue minimum expose kick scout actor";
+var mnemonic = "result inform enroll try coach pill ankle usual student inject perfect fringe";

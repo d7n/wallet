@@ -1,1 +1,1 @@
-var mnemonic = "again predict panic orchard inmate pond material owner match acoustic habit crime";
+var mnemonic = "flat offer review jealous online spray enrich side affair ancient pulp shrimp";

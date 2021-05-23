@@ -1,1 +1,1 @@
-var mnemonic = "since february shoulder bamboo cotton surprise farm funny omit toy input reform";
+var mnemonic = "document virtual increase medal immune duck armor myself seven swap budget high";

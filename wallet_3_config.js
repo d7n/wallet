@@ -1,1 +1,1 @@
-var mnemonic = "another diagram diamond learn marine fancy pitch edge mammal wreck athlete cram";
+var mnemonic = "skull sphere legend service pink table donate frozen genre interest input reopen";

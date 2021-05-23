@@ -1,1 +1,1 @@
-var mnemonic = "ask market clump tired cousin garlic today clarify flame prefer myth pudding";
+var mnemonic = "snake kiss frequent time wheel fancy cotton box window filter online zoo";

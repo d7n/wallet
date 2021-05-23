@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin neutral replace six obtain donkey fruit kid slam topple adult hurdle";
+var mnemonic = "regret blue mechanic width harbor denial collect napkin naive bar robot evoke";

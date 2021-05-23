@@ -1,1 +1,1 @@
-var mnemonic = "pepper transfer slice cabbage bright they song make cost brief better mesh";
+var mnemonic = "valid subway major humor celery struggle shift buffalo drip sadness boil wrestle";

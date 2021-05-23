@@ -1,1 +1,1 @@
-var mnemonic = "domain depend album sunset short bring key tool south cash page unhappy";
+var mnemonic = "butter exchange renew clarify drive erosion enrich velvet style rotate lock quantum";

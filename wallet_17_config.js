@@ -1,1 +1,1 @@
-var mnemonic = "float account vote wolf bean category clip skin sunny domain pair submit";
+var mnemonic = "pride resemble middle dumb surprise island weasel flip upper outer tortoise earn";

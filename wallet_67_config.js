@@ -1,1 +1,1 @@
-var mnemonic = "tuna slow oblige estate dish style couch absurd inflict rally menu myth";
+var mnemonic = "laptop discover front grass gather better settle tongue certain latin casino few";

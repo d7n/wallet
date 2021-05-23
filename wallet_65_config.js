@@ -1,1 +1,1 @@
-var mnemonic = "blind fatigue reform garbage disorder clarify accuse country tag dove problem artist";
+var mnemonic = "gap tackle space item neutral toilet kingdom kid fresh game prevent cotton";

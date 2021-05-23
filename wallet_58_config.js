@@ -1,1 +1,1 @@
-var mnemonic = "bike height original jacket boss obtain mimic sunset solar tooth taste hello";
+var mnemonic = "route apart meadow pear kingdom scorpion egg second door spot fold rain";

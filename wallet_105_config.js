@@ -1,1 +1,1 @@
-var mnemonic = "potato section skull tube uncover broom suffer hundred desert evidence coffee grape";
+var mnemonic = "giraffe enrich true belt bronze surface inject edge firm retreat oil appear";

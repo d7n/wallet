@@ -1,1 +1,1 @@
-var mnemonic = "taxi stuff glue stable alien priority protect prize soup forget reform mule";
+var mnemonic = "tree either ketchup auction dune also mass sudden tone doctor corn swing";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard rural reward wrestle blood position prize cage output fever pole bonus";
+var mnemonic = "hen seed engage buyer attack kid sight shoot motor food usual infant";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor fuel wheel gravity path east pole major certain warrior fat script";
+var mnemonic = "eye attitude oblige final hair buzz thumb shop focus siege sea boss";

@@ -1,1 +1,1 @@
-var mnemonic = "such awesome peanut universe sibling capable mad truth equip have mango sad";
+var mnemonic = "bubble proof blouse harbor hover crawl aim flat device monster shrug lava";

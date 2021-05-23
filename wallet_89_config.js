@@ -1,1 +1,1 @@
-var mnemonic = "exit model child swarm foster liar become original inspire curve club virus";
+var mnemonic = "evil front lemon erupt build express kiss swift boy ahead fury style";

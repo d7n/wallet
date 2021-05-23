@@ -1,1 +1,1 @@
-var mnemonic = "release crystal logic embrace alone space gloom check word machine cost relief";
+var mnemonic = "business body canyon frost auto else demand ripple tiger metal cheese layer";

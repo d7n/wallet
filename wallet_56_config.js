@@ -1,1 +1,1 @@
-var mnemonic = "reopen also balcony flash huge siege opinion cram vivid wheel health satisfy";
+var mnemonic = "forward engage upper basic pilot banana print slush cost property second tide";

@@ -1,1 +1,1 @@
-var mnemonic = "excite whisper ridge airport pill crisp replace tilt brick shrug battle liquid";
+var mnemonic = "gentle giraffe canvas wave organ zone wasp vicious race luggage flee ivory";

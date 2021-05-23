@@ -1,1 +1,1 @@
-var mnemonic = "radar box uphold essay slot snack shift myth rifle life moral among";
+var mnemonic = "copy heavy bomb truth object music response gravity relax alley detect sight";

@@ -1,1 +1,1 @@
-var mnemonic = "salon recycle verb velvet giraffe sphere credit capital canyon corn innocent poet";
+var mnemonic = "actual royal gym all summer song spy bounce cactus lion foot rebuild";

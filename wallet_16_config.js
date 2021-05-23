@@ -1,1 +1,1 @@
-var mnemonic = "next roof help object artist surprise front gown electric alone life napkin";
+var mnemonic = "oil since venue business age wide power alien slide bridge august tragic";

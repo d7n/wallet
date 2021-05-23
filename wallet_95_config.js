@@ -1,1 +1,1 @@
-var mnemonic = "special expand holiday rally ankle hedgehog buddy provide file potato ability category";
+var mnemonic = "damp pupil load scheme green device adjust plate baby cake moon inspire";

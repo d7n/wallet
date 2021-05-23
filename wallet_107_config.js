@@ -1,1 +1,1 @@
-var mnemonic = "mirror poem vibrant moon agree ugly subject clip diary business hollow similar";
+var mnemonic = "retreat script wrap hole child giraffe absent jealous patient couch display actor";

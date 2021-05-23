@@ -1,1 +1,1 @@
-var mnemonic = "velvet ivory immune door flight team offer they wealth refuse oil bird";
+var mnemonic = "trophy reflect iron denial thrive pizza tilt language pass wash exchange modify";

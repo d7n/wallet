@@ -1,1 +1,1 @@
-var mnemonic = "that used fragile prison mention million return slow plastic around render tragic";
+var mnemonic = "bonus critic cost innocent pass slot under quick denial december used clarify";

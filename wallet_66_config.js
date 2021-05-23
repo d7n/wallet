@@ -1,1 +1,1 @@
-var mnemonic = "floor crush rival pulp artist ignore view despair grace dance biology public";
+var mnemonic = "final timber grunt hybrid city hire easy burden solar amateur illness apology";

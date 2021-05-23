@@ -1,1 +1,1 @@
-var mnemonic = "gown help until cluster west lift enhance find letter brass bid scheme";
+var mnemonic = "conduct release push accuse lens stand snake sing physical buyer bread nice";

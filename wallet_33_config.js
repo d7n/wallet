@@ -1,1 +1,1 @@
-var mnemonic = "day exhibit final fog amazing coast paper mammal fiber weather connect nut";
+var mnemonic = "report depend chimney moon mind typical bridge unhappy board system right mercy";

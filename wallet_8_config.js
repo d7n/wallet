@@ -1,1 +1,1 @@
-var mnemonic = "melody leader surface steel chapter dolphin monster boost siege man stone raise";
+var mnemonic = "display truth subject shallow census result total toe chaos grocery laptop innocent";

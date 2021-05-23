@@ -1,1 +1,1 @@
-var mnemonic = "ritual satoshi liquid base motion then rubber good amazing banner drop desk";
+var mnemonic = "gold burger nominee race bullet practice wave road nerve home long cover";

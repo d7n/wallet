@@ -1,1 +1,1 @@
-var mnemonic = "child pledge merry ski ripple decade world fragile weekend where wild situate";
+var mnemonic = "cook happy opinion garlic little away glad hen walnut rookie country much";

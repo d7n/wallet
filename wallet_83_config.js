@@ -1,1 +1,1 @@
-var mnemonic = "leader sphere arrange clutch fashion shop hundred burst dad lounge romance swing";
+var mnemonic = "easily win pyramid table during degree loyal radio member human mule tape";

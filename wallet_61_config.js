@@ -1,1 +1,1 @@
-var mnemonic = "toward couple figure such pink alone hurdle shine demand find tornado blast";
+var mnemonic = "habit practice unable reflect cereal sniff topple chair brain sample acquire hello";

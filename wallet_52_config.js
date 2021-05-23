@@ -1,1 +1,1 @@
-var mnemonic = "air session cube gauge world fiber giggle episode grid evidence tackle venue";
+var mnemonic = "frequent person invest patrol harsh ankle level seven sense swap layer latin";

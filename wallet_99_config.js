@@ -1,1 +1,1 @@
-var mnemonic = "ancient safe credit obvious van reflect solve sea copy denial miss unfold";
+var mnemonic = "finish comic logic summer smart ice tray basic please certain donkey rib";

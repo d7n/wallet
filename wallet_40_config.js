@@ -1,1 +1,1 @@
-var mnemonic = "danger roast crazy document crater chuckle process hockey inspire adapt frown wire";
+var mnemonic = "forum real double exhibit galaxy grunt about physical level reflect subject weather";
