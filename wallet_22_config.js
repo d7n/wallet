@@ -1,1 +1,1 @@
-var mnemonic = "vacuum access minute head piano expect eternal walnut busy tomato tourist control";
+var mnemonic = "hold cycle stand whale language volume vibrant dial frequent absent good mandate";

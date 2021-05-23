@@ -1,1 +1,1 @@
-var mnemonic = "salmon seven edge corn elephant plug arm lamp lizard chapter run trend";
+var mnemonic = "butter blind rough card victory act title upgrade orchard way omit mother";

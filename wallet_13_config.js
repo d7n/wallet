@@ -1,1 +1,1 @@
-var mnemonic = "outdoor evoke swim remove rebuild file hundred chat type real enlist year";
+var mnemonic = "situate barely saddle news where punch anxiety diary void keep sudden affair";

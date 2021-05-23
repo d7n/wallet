@@ -1,1 +1,1 @@
-var mnemonic = "trip quantum entry decade dragon energy artefact fabric recycle rice visual face";
+var mnemonic = "enforce magnet install merge pottery theory excess sadness escape wisdom march upon";

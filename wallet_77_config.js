@@ -1,1 +1,1 @@
-var mnemonic = "dash toward thrive hover beach produce fog motor team canal silly drill";
+var mnemonic = "about right disorder razor main kit indicate endless inhale bitter segment behind";

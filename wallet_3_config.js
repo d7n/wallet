@@ -1,1 +1,1 @@
-var mnemonic = "zebra butter dignity sign offer dizzy dwarf secret quit scatter next trick";
+var mnemonic = "someone pact tooth moral impose unhappy super drama buddy couple pumpkin drift";

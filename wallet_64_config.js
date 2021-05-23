@@ -1,1 +1,1 @@
-var mnemonic = "pigeon then canyon brief hello air impose erosion manual great drop glance";
+var mnemonic = "chronic skin ramp pull holiday bundle language couple work shoulder sting bone";

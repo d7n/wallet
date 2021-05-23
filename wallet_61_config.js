@@ -1,1 +1,1 @@
-var mnemonic = "guilt stable inmate lift million fruit diet sentence fetch tomorrow file picnic";
+var mnemonic = "beauty squeeze hotel giant paper inmate truly quarter lemon ranch promote twelve";

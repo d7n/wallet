@@ -1,1 +1,1 @@
-var mnemonic = "sunset street guide eager garage exercise differ best vapor ancient solid check";
+var mnemonic = "buddy blade execute decline glue risk silent fade fine barely mistake forget";

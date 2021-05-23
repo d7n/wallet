@@ -1,1 +1,1 @@
-var mnemonic = "trend siege floor evidence expire wing pipe gorilla ridge risk option neither";
+var mnemonic = "example obey track canvas cause fence second paddle wreck kiss lucky copy";

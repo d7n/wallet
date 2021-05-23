@@ -1,1 +1,1 @@
-var mnemonic = "side crucial chef decline omit industry public helmet oak release surface spike";
+var mnemonic = "fire strategy shell allow upset friend enact faculty trend arch ceiling theory";

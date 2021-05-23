@@ -1,1 +1,1 @@
-var mnemonic = "suspect record dash shed quiz space focus sponsor ghost label barely tunnel";
+var mnemonic = "gas ask digital tag design easy vanish elevator apple alpha street gift";

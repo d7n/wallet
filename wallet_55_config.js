@@ -1,1 +1,1 @@
-var mnemonic = "office image gentle rain penalty iron elite describe net youth month cage";
+var mnemonic = "trust enrich strategy distance liar urban sustain lesson curve bunker submit talent";

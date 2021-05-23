@@ -1,1 +1,1 @@
-var mnemonic = "narrow paper vendor off foil manual capable interest jungle rebuild pill palace";
+var mnemonic = "butter ignore trust sign hour gasp length fetch winner timber grid crouch";

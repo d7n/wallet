@@ -1,1 +1,1 @@
-var mnemonic = "soon path movie nerve gap taxi parade state enact pony voyage choice";
+var mnemonic = "comfort nose trick chat cricket race valid they chase cute more educate";

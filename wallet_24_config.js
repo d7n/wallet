@@ -1,1 +1,1 @@
-var mnemonic = "uphold version bronze project floor trim prepare multiply tobacco sure loud blossom";
+var mnemonic = "brief increase fog sponsor evidence inside ecology sheriff tiny loan jeans proof";

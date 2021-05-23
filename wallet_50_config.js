@@ -1,1 +1,1 @@
-var mnemonic = "script peasant nurse hollow current maximum much claim vendor penalty state oval";
+var mnemonic = "trial pipe steak story theme inner wreck review lazy dress drip celery";

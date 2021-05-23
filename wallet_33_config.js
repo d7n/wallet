@@ -1,1 +1,1 @@
-var mnemonic = "various laugh grid second rebel worry trouble range dose napkin weird wool";
+var mnemonic = "behave help addict powder enable remain snack mixed pizza inform call peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "rack tent section good fabric into chief liquid wet unveil useful ranch";
+var mnemonic = "staff fit luxury wrestle warrior canal great cruel stadium people critic thumb";

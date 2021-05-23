@@ -1,1 +1,1 @@
-var mnemonic = "tooth glad foot liberty project detail swim mobile mandate reopen pause ahead";
+var mnemonic = "wall guide trap message wish broccoli bird train arctic drive unusual shrimp";

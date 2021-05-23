@@ -1,1 +1,1 @@
-var mnemonic = "shadow meat explain penalty soon hint dismiss grain fun push suit tag";
+var mnemonic = "imitate tumble lizard defy town critic night morning find goddess once alien";

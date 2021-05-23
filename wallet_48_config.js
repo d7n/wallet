@@ -1,1 +1,1 @@
-var mnemonic = "cover inside jaguar relax ticket submit setup change cute about skate raw";
+var mnemonic = "awake rescue lottery catch nothing used hungry canvas message wreck report give";

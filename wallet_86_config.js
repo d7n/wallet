@@ -1,1 +1,1 @@
-var mnemonic = "window neither nice kingdom top skill vapor tube donate top heart delay";
+var mnemonic = "owner upper cushion churn layer foot monitor atom milk gesture very flock";

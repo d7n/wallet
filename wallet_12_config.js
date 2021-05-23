@@ -1,1 +1,1 @@
-var mnemonic = "vocal town clown dust faint solar turtle canal ticket three average rely";
+var mnemonic = "record cattle depart begin leave cruise like question joke zoo net mango";

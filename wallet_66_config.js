@@ -1,1 +1,1 @@
-var mnemonic = "crack raccoon scare stumble blouse crazy orient peanut patrol sing amount bronze";
+var mnemonic = "appear finger dice maze tank fix office funny sentence stage test sock";

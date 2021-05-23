@@ -1,1 +1,1 @@
-var mnemonic = "estate erase bid mutual coil escape awesome grit hub author book dragon";
+var mnemonic = "fortune hold obey runway early pistol avocado argue aerobic toddler once season";

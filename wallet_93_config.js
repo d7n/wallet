@@ -1,1 +1,1 @@
-var mnemonic = "flee test sister merry flat where nest master paddle october secret cause";
+var mnemonic = "account ginger slender exercise moral ski domain piano turn kite remember erupt";

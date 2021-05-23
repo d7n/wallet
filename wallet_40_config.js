@@ -1,1 +1,1 @@
-var mnemonic = "degree benefit sample under song vault evolve leave snake repeat minimum poem";
+var mnemonic = "piano chicken beef power famous jazz script disorder route olympic puzzle grow";

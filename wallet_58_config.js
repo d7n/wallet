@@ -1,1 +1,1 @@
-var mnemonic = "during struggle sword angle height label since total creek dune then brisk";
+var mnemonic = "ride brief profit pulse alley luxury erupt current wheel adapt great thunder";

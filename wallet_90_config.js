@@ -1,1 +1,1 @@
-var mnemonic = "wall actor spoon wait congress carry purity screen code account way void";
+var mnemonic = "bitter pepper bread eternal middle hammer rocket fit flock very embrace slab";

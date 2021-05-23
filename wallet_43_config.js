@@ -1,1 +1,1 @@
-var mnemonic = "jazz crop census forward stereo boost rule dish angry hover stuff alley";
+var mnemonic = "patch smart light bitter simple photo vacuum leaf wine original critic fantasy";

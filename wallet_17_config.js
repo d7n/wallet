@@ -1,1 +1,1 @@
-var mnemonic = "almost danger goose ozone genre grab dish inject easy scare treat pelican";
+var mnemonic = "notice fox element screen prevent helmet ankle nominee deny chair twelve identify";

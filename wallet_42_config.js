@@ -1,1 +1,1 @@
-var mnemonic = "female giant pepper razor evil doll foster canvas festival shell crater teach";
+var mnemonic = "pledge wife august style assist reveal again screen pause round head filter";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet satisfy obey tragic dentist alert silk salad banner gasp cliff mind";
+var mnemonic = "suggest calm scale soft table flower link garbage destroy scrap poem able";

@@ -1,1 +1,1 @@
-var mnemonic = "today sweet patch cycle battle cereal time modify seminar drop town final";
+var mnemonic = "pull clarify forward between olive cave offer attack crew antique gown student";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel favorite mother daring razor runway bright ribbon tennis input labor butter";
+var mnemonic = "bubble lonely street crush faint address diary end cart garment hazard inner";

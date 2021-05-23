@@ -1,1 +1,1 @@
-var mnemonic = "tomato danger plastic fiber female bargain select guilt proof viable torch south";
+var mnemonic = "onion remain divert spirit aisle public raven scorpion address pumpkin glory mass";

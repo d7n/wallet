@@ -1,1 +1,1 @@
-var mnemonic = "dignity junior cherry clean clutch check treat paper struggle cabin stumble rough";
+var mnemonic = "clap current tortoise shed venue true jar virtual lens turtle excess meat";

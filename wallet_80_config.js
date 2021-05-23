@@ -1,1 +1,1 @@
-var mnemonic = "skill brief nasty funny scatter motion album economy silent sibling pattern bundle";
+var mnemonic = "leisure duck there artefact thumb betray pigeon taxi young expire close crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "regular ginger neither shine original wrist radar demand thrive buzz pilot rough";
+var mnemonic = "absurd sell first wage mouse jewel fork filter unfair winter exhibit argue";

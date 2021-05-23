@@ -1,1 +1,1 @@
-var mnemonic = "when loyal when swim barrel slow nation artist shadow test buyer vessel";
+var mnemonic = "summer burst shrimp laundry decide balance ghost collect carbon ball wrap tumble";

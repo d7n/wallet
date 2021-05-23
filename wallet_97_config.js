@@ -1,1 +1,1 @@
-var mnemonic = "inquiry lion mammal twenty horror mobile stem near body fringe receive twelve";
+var mnemonic = "wish pottery theory traffic trade cricket gun judge primary panic erase relax";

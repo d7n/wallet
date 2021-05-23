@@ -1,1 +1,1 @@
-var mnemonic = "immense famous cluster avoid way labor gauge announce there leg fresh gasp";
+var mnemonic = "grunt emotion marriage glide ignore upper involve predict media happy drip utility";

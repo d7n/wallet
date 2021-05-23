@@ -1,1 +1,1 @@
-var mnemonic = "figure direct slide force whale truth moral unfair twelve tool flight region";
+var mnemonic = "okay attack promote sketch drift bus aspect ketchup march alpha deputy audit";

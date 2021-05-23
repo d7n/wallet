@@ -1,1 +1,1 @@
-var mnemonic = "rifle save charge vendor candy reason faith weapon escape soft crater dad";
+var mnemonic = "twist unveil absorb fitness sick twenty fluid course turtle argue raw all";

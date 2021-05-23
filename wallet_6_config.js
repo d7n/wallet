@@ -1,1 +1,1 @@
-var mnemonic = "spirit movie curious nerve monitor citizen voice enhance avoid imitate keen assist";
+var mnemonic = "blur timber owner rebuild town uncle liar crouch essay best want receive";

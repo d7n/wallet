@@ -1,1 +1,1 @@
-var mnemonic = "upon noble syrup inherit upgrade miss danger catch analyst cry mix unfold";
+var mnemonic = "adult daring wisdom dune blame immense chimney rapid balance jazz voyage antique";

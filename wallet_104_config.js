@@ -1,1 +1,1 @@
-var mnemonic = "pioneer food maze region neutral purchase come fork match dignity twist now";
+var mnemonic = "stick top better much fever borrow seven flat loyal essence motor slam";

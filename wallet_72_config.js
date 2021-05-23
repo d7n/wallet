@@ -1,1 +1,1 @@
-var mnemonic = "two retire curtain duty rule memory mutual topic cart twice potato wet";
+var mnemonic = "vault bleak gown burger capable peanut then tourist style govern ship warrior";

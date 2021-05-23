@@ -1,1 +1,1 @@
-var mnemonic = "satoshi elite pattern quality chicken hamster wheat work soda correct drive bottom";
+var mnemonic = "swear evidence fossil muscle fancy access track planet faint upset option library";

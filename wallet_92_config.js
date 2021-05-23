@@ -1,1 +1,1 @@
-var mnemonic = "inject safe trick shadow display meadow gravity verify twenty dumb law artist";
+var mnemonic = "object nephew verb body thunder spoon bind sight wide village chunk crash";

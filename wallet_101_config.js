@@ -1,1 +1,1 @@
-var mnemonic = "play length apology better task reward flame bitter razor theory hint guitar";
+var mnemonic = "nice junk science divide pumpkin moment margin comfort black cash host grant";

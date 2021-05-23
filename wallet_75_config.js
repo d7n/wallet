@@ -1,1 +1,1 @@
-var mnemonic = "half slam interest cereal finish ticket taste express beyond travel glance drip";
+var mnemonic = "script prefer luxury demand awful slogan often dentist differ inhale target excite";

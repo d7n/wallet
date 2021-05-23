@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sister predict course carry idea crunch risk rescue change make faith";
+var mnemonic = "exile flock hair tone vibrant crazy reject vague noise legend illegal uncover";

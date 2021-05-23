@@ -1,1 +1,1 @@
-var mnemonic = "garbage movie supreme volcano captain wait lamp say poem diesel primary expand";
+var mnemonic = "jaguar discover jar sugar kiss tobacco voyage indicate false age merit lab";

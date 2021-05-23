@@ -1,1 +1,1 @@
-var mnemonic = "anger limit hobby join middle pet law witness camp unit grass drama";
+var mnemonic = "hidden organ subway shoot convince extra fatigue video traffic year forum twin";

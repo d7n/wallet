@@ -1,1 +1,1 @@
-var mnemonic = "unfair frost great call shove inherit luxury swap armor eager sort unveil";
+var mnemonic = "list silly team employ pool suit exhibit brick velvet project mix view";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown label glove enroll burden fantasy hello cover false settle method sunset";
+var mnemonic = "code strong help infant road unveil blind apple position program brave jaguar";

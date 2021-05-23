@@ -1,1 +1,1 @@
-var mnemonic = "hurry fold keep multiply glory soccer sport plate stock hero rely foam";
+var mnemonic = "rib sunset cactus story merry guide infant toilet turkey pupil require depart";

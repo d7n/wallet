@@ -1,1 +1,1 @@
-var mnemonic = "raccoon hair love spray snack during gate often monkey rotate hub undo";
+var mnemonic = "drink drama modify such volume upset eyebrow stuff rare ceiling planet primary";

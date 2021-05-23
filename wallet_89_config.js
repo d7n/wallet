@@ -1,1 +1,1 @@
-var mnemonic = "album kitten canvas general bind april night loyal route palm deny flower";
+var mnemonic = "float claim prosper certain tomato abandon artefact obscure excite hockey rack lawn";

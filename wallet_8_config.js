@@ -1,1 +1,1 @@
-var mnemonic = "foil spirit aware tattoo goddess crazy behave link tomato pumpkin kitten upper";
+var mnemonic = "ramp popular dog wonder unknown nose ranch buyer electric kitchen this again";

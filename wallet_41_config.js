@@ -1,1 +1,1 @@
-var mnemonic = "anger couch shoe hand network play agree tonight ocean silk maid achieve";
+var mnemonic = "slice banner correct ability wrong hover text unlock round decrease web mountain";

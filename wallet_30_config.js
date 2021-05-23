@@ -1,1 +1,1 @@
-var mnemonic = "gym will student chaos once minimum worth crime electric capable split identify";
+var mnemonic = "pluck better region problem speed salon library sick narrow organ visit student";

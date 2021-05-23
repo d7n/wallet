@@ -1,1 +1,1 @@
-var mnemonic = "permit glow sphere romance romance guilt rent mask boss snow equal change";
+var mnemonic = "flavor isolate that auto witness ranch virus bomb torch duty blouse hold";

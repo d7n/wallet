@@ -1,1 +1,1 @@
-var mnemonic = "pyramid verb capital add valley anxiety doll recipe short stable donor duty";
+var mnemonic = "window various traffic owner science little horror resource staff grant dose coconut";

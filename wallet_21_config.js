@@ -1,1 +1,1 @@
-var mnemonic = "play pass eight collect liquid effort crane drum glad pass scare cargo";
+var mnemonic = "kangaroo heart mandate transfer sniff mechanic cute page remind net vendor tourist";

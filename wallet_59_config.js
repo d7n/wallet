@@ -1,1 +1,1 @@
-var mnemonic = "oppose pledge solution curve image about erupt like soldier vintage gaze catalog";
+var mnemonic = "hope tag puppy bleak endless shine hope mansion climb twelve vehicle great";

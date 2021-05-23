@@ -1,1 +1,1 @@
-var mnemonic = "update heart mistake code ill dumb hour key few steel ring please";
+var mnemonic = "thrive endless thought business wrestle man nation elevator off hurt ski demise";

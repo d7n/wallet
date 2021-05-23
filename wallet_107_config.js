@@ -1,1 +1,1 @@
-var mnemonic = "goose engage cluster range action wage enjoy tribe tiger charge siren human";
+var mnemonic = "pair display dice drastic relax cannon pull spot month wrist tumble work";

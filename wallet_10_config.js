@@ -1,1 +1,1 @@
-var mnemonic = "village skill neglect sleep cram blue hub wagon solve cable creek hurt";
+var mnemonic = "space glow bicycle wash title gym wreck expose tuition tongue lecture replace";

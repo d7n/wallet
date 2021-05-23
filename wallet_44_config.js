@@ -1,1 +1,1 @@
-var mnemonic = "exclude famous defense elegant tube few drop acoustic hollow error unfair gossip";
+var mnemonic = "wash exotic rabbit fringe fault quick saddle click clutch release taste universe";

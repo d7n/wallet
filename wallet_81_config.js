@@ -1,1 +1,1 @@
-var mnemonic = "soap dumb creek monster tiny perfect melt burden rigid identify prison express";
+var mnemonic = "thumb prosper rhythm else arch weasel ready moment vehicle chunk skull camp";

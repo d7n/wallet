@@ -1,1 +1,1 @@
-var mnemonic = "mom nation extend island oppose smart fragile pretty quality clean segment surprise";
+var mnemonic = "bid language hard boss wet father replace want express prison brain arm";

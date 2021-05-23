@@ -1,1 +1,1 @@
-var mnemonic = "receive bleak tobacco shrug basic become lunch rough all swarm lazy elegant";
+var mnemonic = "example whip enemy onion decorate awesome ticket chef innocent destroy acquire novel";

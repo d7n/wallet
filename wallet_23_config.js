@@ -1,1 +1,1 @@
-var mnemonic = "bulk kiss dinner race mask legal bicycle pigeon ribbon picnic bicycle health";
+var mnemonic = "list pair square mixture note party venture team stay rapid puzzle fit";

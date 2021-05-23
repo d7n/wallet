@@ -1,1 +1,1 @@
-var mnemonic = "once north excuse juice earn easy scrub dog radar draft cancel orient";
+var mnemonic = "exclude sadness wife chronic enough fashion oval better neither sense endless better";

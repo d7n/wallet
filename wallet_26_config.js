@@ -1,1 +1,1 @@
-var mnemonic = "nation search output system order tortoise write caution neglect cabbage fossil credit";
+var mnemonic = "dismiss keen fee excess educate call crucial engage future lunch harvest trend";

@@ -1,1 +1,1 @@
-var mnemonic = "focus foster prosper prepare trumpet system surround planet forget scatter stadium penalty";
+var mnemonic = "solar camp envelope venture drum express when oppose tiger inspire frame eternal";

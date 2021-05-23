@@ -1,1 +1,1 @@
-var mnemonic = "exotic stay join merge bird strategy basket vicious figure quick tree man";
+var mnemonic = "robust truly elephant journey lyrics final ability impact alien west artwork fade";

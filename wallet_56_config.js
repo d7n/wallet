@@ -1,1 +1,1 @@
-var mnemonic = "garage supply spend display surge obscure child laptop rival lonely bargain fix";
+var mnemonic = "monster fade wide primary bracket century casino shell science coach vote inquiry";

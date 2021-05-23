@@ -1,1 +1,1 @@
-var mnemonic = "width labor stumble guess lawn wild broccoli surface before silent board detail";
+var mnemonic = "enable twice check mixed cheap mistake pioneer rebel govern fury moral shrimp";

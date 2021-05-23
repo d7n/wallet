@@ -1,1 +1,1 @@
-var mnemonic = "ugly bleak soup abstract when travel claw lab media miss attack inspire";
+var mnemonic = "letter table syrup budget spring lucky tribe web crush forget kidney nominee";

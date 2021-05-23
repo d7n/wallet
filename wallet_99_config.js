@@ -1,1 +1,1 @@
-var mnemonic = "memory edit captain federal pet perfect brief kangaroo depart chronic problem engage";
+var mnemonic = "unveil soft flavor shoe fame symbol dignity soup trick cannon coffee risk";

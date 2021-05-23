@@ -1,1 +1,1 @@
-var mnemonic = "allow unveil floor old reunion edge fun gap pistol only sister firm";
+var mnemonic = "require undo cement neck stadium butter favorite climb crazy come hub edge";
