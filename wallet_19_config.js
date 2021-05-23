@@ -1,1 +1,1 @@
-var mnemonic = "this symbol uncover shaft document shoulder talent hunt stand garment confirm muscle";
+var mnemonic = "fame control lawn zoo movie give expect cook crater virus blanket story";

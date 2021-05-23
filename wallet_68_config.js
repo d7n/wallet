@@ -1,1 +1,1 @@
-var mnemonic = "depend cherry bid usual three century put peanut toddler mother inject forest";
+var mnemonic = "also exchange wine repair race fence police appear bounce team father device";

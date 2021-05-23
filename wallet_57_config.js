@@ -1,1 +1,1 @@
-var mnemonic = "please token govern stadium brief fashion ecology surge fresh much income economy";
+var mnemonic = "turkey cattle recycle install luxury elbow pepper attract bronze vehicle cable gravity";

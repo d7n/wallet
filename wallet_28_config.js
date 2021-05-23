@@ -1,1 +1,1 @@
-var mnemonic = "whisper eagle wire upgrade pact arrive token erase tent grief coil beauty";
+var mnemonic = "stay theory copy consider visa poet glad run sad imitate antique soft";

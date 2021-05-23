@@ -1,1 +1,1 @@
-var mnemonic = "dismiss board destroy clean can letter outside meadow avocado favorite pulse turkey";
+var mnemonic = "advance pave swamp stomach scare ten beauty eyebrow limit fringe allow giant";

@@ -1,1 +1,1 @@
-var mnemonic = "want catalog giant front column rice all wire power oak faith marriage";
+var mnemonic = "help bird explain curtain gesture scheme hope advance rich quality provide identify";

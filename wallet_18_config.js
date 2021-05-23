@@ -1,1 +1,1 @@
-var mnemonic = "over gaze aware brother verify there globe kick habit kitchen ancient trend";
+var mnemonic = "fitness cube scrub please black youth moon exit humble person height notable";

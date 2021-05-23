@@ -1,1 +1,1 @@
-var mnemonic = "hen hidden employ clump awesome stock task improve crane neck human oyster";
+var mnemonic = "clip improve asset olympic truly budget federal imitate proof word diamond execute";

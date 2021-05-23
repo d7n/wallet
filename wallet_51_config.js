@@ -1,1 +1,1 @@
-var mnemonic = "call aware cash produce drastic label grow ranch valve copper adapt patient";
+var mnemonic = "steel nest polar wonder oxygen wink truth deputy unit tribe item fault";

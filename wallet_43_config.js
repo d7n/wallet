@@ -1,1 +1,1 @@
-var mnemonic = "maple inform blur carbon luxury whip crime path raccoon puppy spoil walnut";
+var mnemonic = "knock opera protect task wild wealth garage humor improve float math faint";

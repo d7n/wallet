@@ -1,1 +1,1 @@
-var mnemonic = "pattern push trend cost occur venue lemon grow expire wave chef feel";
+var mnemonic = "main dumb six make option hospital exchange enough glance annual option toast";

@@ -1,1 +1,1 @@
-var mnemonic = "future meadow acid fog inmate dust slot bullet attend hybrid resist scissors";
+var mnemonic = "famous truly base rifle limb beach poet until tape assist stove evoke";

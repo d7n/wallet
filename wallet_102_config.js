@@ -1,1 +1,1 @@
-var mnemonic = "wolf stamp segment inherit rocket gold logic museum matter thing romance token";
+var mnemonic = "genuine number spend ticket uncle response whale sport float whip muffin ritual";

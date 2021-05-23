@@ -1,1 +1,1 @@
-var mnemonic = "notable dragon empower hub radio emerge ritual wonder frown sting antique stumble";
+var mnemonic = "echo position immune survey pupil cake forum undo honey destroy battle melt";

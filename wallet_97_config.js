@@ -1,1 +1,1 @@
-var mnemonic = "phrase safe universe street digital safe gallery group siege door bullet wash";
+var mnemonic = "power label cover police outdoor twice float dwarf joke extra ten nose";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin lazy odor airport obvious knee tourist kidney indicate seat suit happy";
+var mnemonic = "life vibrant quarter aerobic near earth effort glow paddle notice emotion consider";

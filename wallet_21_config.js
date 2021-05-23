@@ -1,1 +1,1 @@
-var mnemonic = "sting maze attract wheat scene found lady universe glance hedgehog file elbow";
+var mnemonic = "escape scrap mean frog kiss frame portion wolf radar merge thank uniform";

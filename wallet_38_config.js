@@ -1,1 +1,1 @@
-var mnemonic = "ocean provide pass quiz matter spoon soda above bicycle magic range blame";
+var mnemonic = "mule rate october unveil can reflect thought they excuse broken horn minute";

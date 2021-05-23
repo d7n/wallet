@@ -1,1 +1,1 @@
-var mnemonic = "damage cradle extend awkward tooth column letter fiscal basket stay neglect into";
+var mnemonic = "roast boring space wink position crack cereal rug unaware sick spice bubble";

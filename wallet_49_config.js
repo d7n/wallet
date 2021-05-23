@@ -1,1 +1,1 @@
-var mnemonic = "boss boy rotate ocean meat vault visa giggle blind furnace gorilla banner";
+var mnemonic = "actress denial current voice garlic pledge habit model invest broccoli summer swim";

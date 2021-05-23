@@ -1,1 +1,1 @@
-var mnemonic = "history eagle interest bulb sketch apart topic local view author light cram";
+var mnemonic = "attract cement exchange history flush close essay possible question into viable cake";

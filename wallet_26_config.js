@@ -1,1 +1,1 @@
-var mnemonic = "neutral patch else legal bullet gown morning deputy cheese beauty bean lamp";
+var mnemonic = "try change monitor bonus arena army jeans auction vendor dice era undo";

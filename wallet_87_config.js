@@ -1,1 +1,1 @@
-var mnemonic = "salon sudden clip index toward habit roof birth alarm ski girl reopen";
+var mnemonic = "naive abuse race vendor awful gather must decide mechanic spatial beef trial";

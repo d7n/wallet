@@ -1,1 +1,1 @@
-var mnemonic = "retire volcano engine endorse rent rent feature bus fat agree couple crop";
+var mnemonic = "stem holiday quiz verify sauce perfect poverty transfer orbit pudding begin ozone";

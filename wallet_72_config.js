@@ -1,1 +1,1 @@
-var mnemonic = "danger shrug word click wool share dust cereal opera fox inch arrow";
+var mnemonic = "aim rude proof insect gap title chaos disagree scale sustain chest way";

@@ -1,1 +1,1 @@
-var mnemonic = "genre broom grit badge fork ritual luggage baby surge used smoke good";
+var mnemonic = "print edge joy van battle gentle joy kit reduce fence present guitar";

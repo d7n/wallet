@@ -1,1 +1,1 @@
-var mnemonic = "cabin sad shed weasel easy art whip flag miss giraffe total garlic";
+var mnemonic = "own author rare toss clarify off spend accident sport replace caution basic";

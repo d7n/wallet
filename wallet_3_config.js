@@ -1,1 +1,1 @@
-var mnemonic = "denial level globe explain erosion symptom erase grocery cycle crane crawl risk";
+var mnemonic = "still memory state pass suggest curve chuckle fork laugh cover ostrich draw";

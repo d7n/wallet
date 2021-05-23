@@ -1,1 +1,1 @@
-var mnemonic = "rose typical monster basic hurdle sample furnace cart enforce venue shrug crunch";
+var mnemonic = "quit door pudding edge switch major actor sell account pass include subject";

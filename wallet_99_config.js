@@ -1,1 +1,1 @@
-var mnemonic = "whip sort umbrella shield horse art gun lunar flavor betray more company";
+var mnemonic = "chase devote omit purpose anxiety typical final paper minute there unfair elite";

@@ -1,1 +1,1 @@
-var mnemonic = "atom siege surface industry age educate false inquiry consider where toast mom";
+var mnemonic = "program traffic lend limit wash rhythm case consider version more guilt fruit";

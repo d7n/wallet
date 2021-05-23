@@ -1,1 +1,1 @@
-var mnemonic = "gossip velvet lunch glimpse bulk session gaze elevator carry flight shed question";
+var mnemonic = "raise sign spirit point matter detail wreck sample notice stairs satoshi essay";

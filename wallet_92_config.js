@@ -1,1 +1,1 @@
-var mnemonic = "high title brisk front stay citizen second joy fee leisure enrich diamond";
+var mnemonic = "pill goddess draft movie demise rabbit island maze boring choose april hurt";

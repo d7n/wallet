@@ -1,1 +1,1 @@
-var mnemonic = "candy hour crash journey live damage slogan dragon add digital denial panic";
+var mnemonic = "sea solve prepare follow price panel float shaft coast spawn boring shine";

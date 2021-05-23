@@ -1,1 +1,1 @@
-var mnemonic = "broccoli lens better dust shine umbrella jewel monkey cluster swap kite allow";
+var mnemonic = "jazz sugar lesson diary surround bitter vault letter siren spread oak connect";

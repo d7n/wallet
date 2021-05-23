@@ -1,1 +1,1 @@
-var mnemonic = "moral record frozen coffee hood salmon good regret alter sadness surprise double";
+var mnemonic = "grant nation youth hawk artist arrange rifle cable north furnace episode like";

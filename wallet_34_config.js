@@ -1,1 +1,1 @@
-var mnemonic = "prepare forest you office proud amazing script sure toilet output rotate unique";
+var mnemonic = "sign artefact announce filter focus annual raw drink shed eager act era";

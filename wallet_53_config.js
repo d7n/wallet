@@ -1,1 +1,1 @@
-var mnemonic = "black check ensure hammer alert copper remind laundry become remain rebel analyst";
+var mnemonic = "excuse snow insect firm strong cable soda blouse bachelor saddle embrace position";

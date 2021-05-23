@@ -1,1 +1,1 @@
-var mnemonic = "glide hold pond laundry almost decide boring alcohol train gate between skate";
+var mnemonic = "jeans sweet guard chair alien cloth finish state pride inquiry iron ensure";

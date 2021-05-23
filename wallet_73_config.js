@@ -1,1 +1,1 @@
-var mnemonic = "eternal mammal spread coast move food adult gown budget monster rule interest";
+var mnemonic = "burst cycle doll captain alert holiday dish idea pottery sound swap asset";

@@ -1,1 +1,1 @@
-var mnemonic = "aware artefact spring pluck advance board panther project baby series police harsh";
+var mnemonic = "wrestle muscle orphan market hazard scissors such thing buffalo south waste oak";

@@ -1,1 +1,1 @@
-var mnemonic = "skull question repair real response pitch poverty wave odor metal stem calm";
+var mnemonic = "bamboo blood mention sort dizzy mansion diagram expand kite liar scorpion buddy";

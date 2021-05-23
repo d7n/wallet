@@ -1,1 +1,1 @@
-var mnemonic = "special clever space april alley first win trash carbon donor buddy promote";
+var mnemonic = "add loud debate reflect burst leisure endless else act bar envelope enable";

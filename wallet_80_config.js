@@ -1,1 +1,1 @@
-var mnemonic = "immense term fiber earn great video blanket unit hundred patrol load ethics";
+var mnemonic = "there click unaware toddler worry fuel suit excess sniff index rubber worry";

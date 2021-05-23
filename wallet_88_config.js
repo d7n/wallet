@@ -1,1 +1,1 @@
-var mnemonic = "goose hold velvet can broom sister lift retreat globe upgrade culture ozone";
+var mnemonic = "calm noise endless seek practice opinion claim become slot curtain spice avoid";

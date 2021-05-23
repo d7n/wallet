@@ -1,1 +1,1 @@
-var mnemonic = "seed orbit butter merit reward error own vehicle blade found access frog";
+var mnemonic = "piece one select exchange list nasty eternal lunch license young dismiss mango";

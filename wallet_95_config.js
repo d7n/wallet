@@ -1,1 +1,1 @@
-var mnemonic = "mask upset humor slush gate vessel autumn discover skin sting marine prison";
+var mnemonic = "humor language pool unaware physical tent metal recycle arrow avocado feed fade";

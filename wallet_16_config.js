@@ -1,1 +1,1 @@
-var mnemonic = "announce love banner gossip dance museum smoke couch noble grid other rack";
+var mnemonic = "stable forum rocket gather what category pig wedding roof force trend cave";

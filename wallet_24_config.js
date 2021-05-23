@@ -1,1 +1,1 @@
-var mnemonic = "position saddle habit never point above silent final scatter ride fancy fly";
+var mnemonic = "endorse wage mixture cruel tomato nation vacuum hand angry rough section hero";

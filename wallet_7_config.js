@@ -1,1 +1,1 @@
-var mnemonic = "arm citizen spread myth gadget edge kid have art cinnamon loan ritual";
+var mnemonic = "sign green blanket discover invite smooth long medal pave shoot debate problem";

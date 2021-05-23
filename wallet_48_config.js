@@ -1,1 +1,1 @@
-var mnemonic = "pave zero bachelor father alter carbon culture warfare squirrel route diesel hurt";
+var mnemonic = "elephant ugly snake oil zone plunge document return desk risk neutral unaware";

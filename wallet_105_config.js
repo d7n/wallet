@@ -1,1 +1,1 @@
-var mnemonic = "adult vicious script warfare page pupil shoulder strategy wheel wasp egg slab";
+var mnemonic = "cake profit cactus feed light inject cruise hair style mom provide zoo";

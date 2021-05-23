@@ -1,1 +1,1 @@
-var mnemonic = "tattoo broken grape garbage celery rain teach blush region globe green ill";
+var mnemonic = "copy width company also together plastic hour swarm potato blanket rich pen";

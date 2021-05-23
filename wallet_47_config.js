@@ -1,1 +1,1 @@
-var mnemonic = "error practice sell garage require cheap venue rail drink hope shrimp coach";
+var mnemonic = "agent shy math asthma output dynamic kiss kite welcome fragile spread warrior";

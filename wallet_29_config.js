@@ -1,1 +1,1 @@
-var mnemonic = "omit wink polar source lobster purchase meat ticket increase dumb piece evidence";
+var mnemonic = "canvas trial ready category tower female garment suit visa garbage unit utility";

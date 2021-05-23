@@ -1,1 +1,1 @@
-var mnemonic = "can gauge joy express rally mango credit viable universe until debris steak";
+var mnemonic = "inside two buyer disease announce ugly engine vendor like inquiry grace cave";

@@ -1,1 +1,1 @@
-var mnemonic = "relief shaft poet poverty morning purity weird toy cricket seminar divorce collect";
+var mnemonic = "humor lamp wall cause armor sweet grocery design can social puzzle obvious";

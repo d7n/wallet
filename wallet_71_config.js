@@ -1,1 +1,1 @@
-var mnemonic = "fatigue lemon kangaroo spoil build obey web piano aisle loop arrive health";
+var mnemonic = "ice social erosion lunch eagle ribbon mercy dinosaur melody kite father must";

@@ -1,1 +1,1 @@
-var mnemonic = "final eyebrow file bubble rural shift peace turtle abuse oil lonely also";
+var mnemonic = "laundry elegant puppy prevent boil normal any beach drill remind file master";

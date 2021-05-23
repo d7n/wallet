@@ -1,1 +1,1 @@
-var mnemonic = "agent snake inherit output mechanic before trick afford pond matter skate tennis";
+var mnemonic = "message few draw dust october skill boost umbrella topic life evoke bomb";

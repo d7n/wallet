@@ -1,1 +1,1 @@
-var mnemonic = "pudding twenty duty depend rapid stereo dutch piano celery letter ceiling grid";
+var mnemonic = "favorite pole wait click cover slender sustain scene innocent cook slush path";

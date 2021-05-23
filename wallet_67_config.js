@@ -1,1 +1,1 @@
-var mnemonic = "blush fatal cinnamon disease sibling pull tree size moral screen clog runway";
+var mnemonic = "admit sting blur clean orphan reopen virtual buyer one indicate pass effort";

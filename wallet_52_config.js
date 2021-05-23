@@ -1,1 +1,1 @@
-var mnemonic = "label return rhythm drum expire steel mixture grief top border pave image";
+var mnemonic = "match spray fatigue vast earn prison alley target observe strategy grit blade";

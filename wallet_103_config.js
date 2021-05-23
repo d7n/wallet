@@ -1,1 +1,1 @@
-var mnemonic = "vivid twenty combine type portion helmet smart daughter disorder panel erode rival";
+var mnemonic = "stool mule sing spatial risk aunt menu desk neglect dismiss disorder just";

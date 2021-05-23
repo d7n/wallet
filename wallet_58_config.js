@@ -1,1 +1,1 @@
-var mnemonic = "man rifle lemon edit point wolf fever robust swim ancient knock subway";
+var mnemonic = "abstract hero borrow sudden wear chronic pattern leisure menu economy output stone";

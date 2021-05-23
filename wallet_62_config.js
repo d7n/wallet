@@ -1,1 +1,1 @@
-var mnemonic = "sauce orphan crater venture tissue oil fall alone huge sunset seven retreat";
+var mnemonic = "rib tag lecture police pencil they neither rack riot finger wash omit";

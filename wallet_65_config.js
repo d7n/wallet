@@ -1,1 +1,1 @@
-var mnemonic = "want divert hat urban joy file stairs circle canvas audit squirrel mercy";
+var mnemonic = "upon tenant coral spend chimney earn hamster enroll decorate addict hungry skin";

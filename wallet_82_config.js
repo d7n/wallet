@@ -1,1 +1,1 @@
-var mnemonic = "shoulder slogan catalog tobacco arena view nut oak eyebrow calm barely false";
+var mnemonic = "flat consider pepper doll void tennis royal ranch magnet fire short bar";

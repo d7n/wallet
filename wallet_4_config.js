@@ -1,1 +1,1 @@
-var mnemonic = "human armor assume fun boil wisdom enact volcano august depart puppy dial";
+var mnemonic = "domain catch index toast true habit split render fish rebel space penalty";

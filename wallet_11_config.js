@@ -1,1 +1,1 @@
-var mnemonic = "match bubble cigar you asset can hybrid bus priority faint depth chaos";
+var mnemonic = "word isolate multiply require coil shield loan type boat physical board pear";

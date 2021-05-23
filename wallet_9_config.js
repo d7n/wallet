@@ -1,1 +1,1 @@
-var mnemonic = "figure cousin pretty strike obvious prepare space trap uncover april wreck hour";
+var mnemonic = "seek admit initial mountain baby bounce gain analyst size fish tank core";

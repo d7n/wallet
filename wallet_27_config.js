@@ -1,1 +1,1 @@
-var mnemonic = "tomato pudding double symptom burger payment churn review hurry sign senior entry";
+var mnemonic = "erupt end cabbage avoid wheel intact raven black either system transfer deposit";

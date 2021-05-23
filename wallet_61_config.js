@@ -1,1 +1,1 @@
-var mnemonic = "pitch gadget manage sting live series flat feel shield spell blouse elbow";
+var mnemonic = "fix member poem negative arrive easily kangaroo crop time amused bus dynamic";

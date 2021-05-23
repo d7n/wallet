@@ -1,1 +1,1 @@
-var mnemonic = "crumble innocent rural shock sleep engine nothing gossip pave gadget envelope hurry";
+var mnemonic = "absent green elite describe venture bracket book flee response prevent spin pear";

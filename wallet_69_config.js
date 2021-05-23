@@ -1,1 +1,1 @@
-var mnemonic = "path royal capable sleep language input silk tell oxygen fix half odor";
+var mnemonic = "move hawk tonight payment glimpse bench trial black reveal ship fossil melt";

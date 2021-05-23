@@ -1,1 +1,1 @@
-var mnemonic = "shell wrap board leopard door size blade tower slow valid unfair trust";
+var mnemonic = "differ voice initial dynamic victory raw clarify like avocado eternal raw doctor";

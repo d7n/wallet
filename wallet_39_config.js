@@ -1,1 +1,1 @@
-var mnemonic = "title system impose art topic trophy find edge zebra gadget ostrich hawk";
+var mnemonic = "choose riot alter eye aim addict armor energy able violin mix hamster";

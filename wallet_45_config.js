@@ -1,1 +1,1 @@
-var mnemonic = "repeat couch assume coast brand borrow uniform scissors demise dirt hard rival";
+var mnemonic = "library invite avoid spirit better much plunge keen glad element disagree hand";

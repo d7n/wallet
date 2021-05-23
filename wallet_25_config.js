@@ -1,1 +1,1 @@
-var mnemonic = "permit help domain local act asset mind lunar confirm coconut supply flag";
+var mnemonic = "slice identify jelly drill north dignity palace thrive skin fine leaf quick";

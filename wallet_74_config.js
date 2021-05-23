@@ -1,1 +1,1 @@
-var mnemonic = "fuel soon below blade guilt soft control bulb shine produce poverty cake";
+var mnemonic = "travel pill father blue lobster cup change borrow bacon transfer tortoise little";

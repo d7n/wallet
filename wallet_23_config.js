@@ -1,1 +1,1 @@
-var mnemonic = "team crouch oblige cook afraid cross ethics obtain toward hurry exercise noodle";
+var mnemonic = "neglect write sauce found chapter tank critic picture paddle finish record neck";

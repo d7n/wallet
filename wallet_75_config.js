@@ -1,1 +1,1 @@
-var mnemonic = "antique slight link happy timber eternal deputy scan emotion awful chat dolphin";
+var mnemonic = "odor decide joke pottery demand outdoor office estate public receive sauce room";

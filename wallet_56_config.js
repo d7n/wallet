@@ -1,1 +1,1 @@
-var mnemonic = "pave top tube lucky security repair clown push month mask lottery middle";
+var mnemonic = "false claim truck glue employ wire inmate next sunset inch install fault";

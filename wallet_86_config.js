@@ -1,1 +1,1 @@
-var mnemonic = "future permit plate cart latin twist arctic force slender ice trade ill";
+var mnemonic = "among almost clever action seven various online choose certain patient exchange deputy";

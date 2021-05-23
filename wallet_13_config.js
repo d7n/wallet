@@ -1,1 +1,1 @@
-var mnemonic = "slab valid case fish raven wall near rebuild buddy voice grit episode";
+var mnemonic = "chapter element wild cry popular miss twelve awesome just feed scan patient";

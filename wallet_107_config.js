@@ -1,1 +1,1 @@
-var mnemonic = "giggle ring dirt lunar chase roof mountain carpet safe story guilt quit";
+var mnemonic = "elite escape material rude noise wide laundry level second shock fiction cigar";

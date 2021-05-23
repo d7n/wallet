@@ -1,1 +1,1 @@
-var mnemonic = "job program amazing cloth concert stamp mention yard crumble embrace vault tiger";
+var mnemonic = "water observe alone cat foam slab busy strategy portion resource grocery fabric";

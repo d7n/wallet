@@ -1,1 +1,1 @@
-var mnemonic = "fiction milk dwarf embrace smoke boat child where symbol sheriff offer weapon";
+var mnemonic = "north swap human social dutch track fiscal below toast bid sadness later";

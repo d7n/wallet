@@ -1,1 +1,1 @@
-var mnemonic = "twelve globe reveal net leopard bus chase alcohol hamster benefit pig train";
+var mnemonic = "enact piece rely when claim strong sausage hurdle aerobic west chaos system";
