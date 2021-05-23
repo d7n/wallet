@@ -1,1 +1,1 @@
-var mnemonic = "fashion brave wedding razor vote regret gun goddess time cycle need river";
+var mnemonic = "identify neck fork march skin escape tell alter pool salt wedding boat";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow powder confirm switch avocado parade blush purse mistake resemble disorder bone";
+var mnemonic = "bleak thing dose hawk keen acoustic glance predict arrow toward kitchen simple";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf rail crystal figure flavor differ steel brain gorilla always security little";
+var mnemonic = "pride call pole knife stairs across document ball poverty water field muffin";

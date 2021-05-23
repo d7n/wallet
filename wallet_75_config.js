@@ -1,1 +1,1 @@
-var mnemonic = "eager barely oppose woman much often pelican praise glare unable flag convince";
+var mnemonic = "appear square cargo shuffle paddle debate danger egg fitness oil skin argue";

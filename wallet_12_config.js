@@ -1,1 +1,1 @@
-var mnemonic = "version shift fish transfer mention aunt tuition clutch apart ostrich void drive";
+var mnemonic = "mule repeat shallow mouse strong palm render leaf robot occur man say";

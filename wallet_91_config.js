@@ -1,1 +1,1 @@
-var mnemonic = "allow reform quarter before adapt pole crater phone approve famous warfare tiny";
+var mnemonic = "rubber urge gesture enough budget burst quarter chaos zebra night surround dad";

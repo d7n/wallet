@@ -1,1 +1,1 @@
-var mnemonic = "betray hip goose volume champion miracle lend amount auto situate vibrant mouse";
+var mnemonic = "unique sweet perfect youth student festival rude solid host song such prize";

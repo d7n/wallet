@@ -1,1 +1,1 @@
-var mnemonic = "sight person sign dust raw match lizard coin prize phone fog recycle";
+var mnemonic = "rate skull bid cliff language wasp jewel regular jelly ribbon mammal win";

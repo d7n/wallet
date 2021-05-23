@@ -1,1 +1,1 @@
-var mnemonic = "nominee apology stove wife zoo brand crater shop beef deer dream leisure";
+var mnemonic = "exhaust planet occur fun result cup draw sea say just various fly";

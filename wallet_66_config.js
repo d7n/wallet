@@ -1,1 +1,1 @@
-var mnemonic = "leisure nothing liar peanut casino order guess security chapter lock explain misery";
+var mnemonic = "next girl teach typical bulk silent pass slab sea onion cinnamon someone";

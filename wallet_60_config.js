@@ -1,1 +1,1 @@
-var mnemonic = "drum brisk human spy clean trouble submit puzzle delay table vacuum nurse";
+var mnemonic = "under price major note erupt steel syrup purpose catch exhibit position orphan";

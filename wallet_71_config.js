@@ -1,1 +1,1 @@
-var mnemonic = "grab claw wise own close marriage replace absurd dust ensure merge write";
+var mnemonic = "inherit motion check able moral frame clock scrub slot spend isolate midnight";

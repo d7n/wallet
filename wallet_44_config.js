@@ -1,1 +1,1 @@
-var mnemonic = "witness orange vapor brother physical wrestle palace govern pumpkin visa twice put";
+var mnemonic = "fiction stand east guess vacuum tired viable crane season purpose unable credit";

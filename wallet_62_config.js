@@ -1,1 +1,1 @@
-var mnemonic = "urge jar potato very keep warfare seed ordinary short volume scissors camera";
+var mnemonic = "trim twelve use segment foot shuffle afraid thumb allow possible mail clerk";

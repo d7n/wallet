@@ -1,1 +1,1 @@
-var mnemonic = "bonus walk return album kid very possible sell warrior rib tag athlete";
+var mnemonic = "abuse point squirrel scatter unique sense private neglect click retire essay radar";

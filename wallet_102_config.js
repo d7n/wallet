@@ -1,1 +1,1 @@
-var mnemonic = "connect advice pear valid doll shock chaos pair theory awake buddy sight";
+var mnemonic = "decline aware song spread adult always fame about sport phone ribbon impact";

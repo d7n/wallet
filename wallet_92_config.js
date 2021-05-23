@@ -1,1 +1,1 @@
-var mnemonic = "vacuum grace rebuild piano region merge access garment silent allow cement logic";
+var mnemonic = "double satoshi flavor such trim dove busy area race physical west tenant";

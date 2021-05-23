@@ -1,1 +1,1 @@
-var mnemonic = "sock gather drill erase chat assist physical inspire emotion toy across sign";
+var mnemonic = "angle relief ahead extend hawk salad possible monkey sign laundry call genius";

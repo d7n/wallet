@@ -1,1 +1,1 @@
-var mnemonic = "chapter best spike power uncover document gossip mesh tail point arctic brush";
+var mnemonic = "traffic element cattle because fatigue debris also arrow solution search omit another";

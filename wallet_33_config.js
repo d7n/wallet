@@ -1,1 +1,1 @@
-var mnemonic = "dynamic vicious wagon kangaroo task planet holiday output session hungry betray boat";
+var mnemonic = "hazard air fever crunch arrest release walk deny any want measure plate";

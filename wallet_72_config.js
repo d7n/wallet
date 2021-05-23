@@ -1,1 +1,1 @@
-var mnemonic = "coast churn system diesel spider artist trash one faith tank surround fun";
+var mnemonic = "pudding room school find shield woman lake fury enable goose enlist pistol";

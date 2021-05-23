@@ -1,1 +1,1 @@
-var mnemonic = "close blanket critic cause smile decade meadow hello start bachelor angry soldier";
+var mnemonic = "rain idea divide slush question cupboard wealth actress birth sniff ensure kind";

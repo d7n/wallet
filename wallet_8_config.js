@@ -1,1 +1,1 @@
-var mnemonic = "word execute broom radio label silly double one boil apple puppy ignore";
+var mnemonic = "banner payment link gallery lift come exile toast repair ignore bike mean";

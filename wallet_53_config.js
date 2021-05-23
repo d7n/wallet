@@ -1,1 +1,1 @@
-var mnemonic = "hill version bullet absurd novel crater erupt crumble float dutch purpose vehicle";
+var mnemonic = "grow corn ripple puppy belt diet start pluck online decorate enact alter";

@@ -1,1 +1,1 @@
-var mnemonic = "tell seminar pupil virtual space update open expect erase occur kit mention";
+var mnemonic = "evil energy final soup novel because siren coyote vacuum armed club library";

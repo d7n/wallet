@@ -1,1 +1,1 @@
-var mnemonic = "broken awful lounge connect what health crisp innocent lecture chapter grit glass";
+var mnemonic = "timber kingdom sleep lake limb window spot castle cabbage depart where length";

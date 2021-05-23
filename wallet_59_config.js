@@ -1,1 +1,1 @@
-var mnemonic = "worry letter account antenna frequent forest valid shrimp alter attend way answer";
+var mnemonic = "mushroom elder hotel reduce rapid sauce bird tissue walk rich flip pilot";

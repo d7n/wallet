@@ -1,1 +1,1 @@
-var mnemonic = "change spirit soccer excuse broccoli nuclear dash path horse guilt warm wisdom";
+var mnemonic = "agent great source march parent keep resemble sibling movie arm below snow";

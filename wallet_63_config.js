@@ -1,1 +1,1 @@
-var mnemonic = "acid fluid install team call debris broken number solid melt range explain";
+var mnemonic = "pen cluster immune ketchup motor tissue awkward short fiber biology apart toilet";

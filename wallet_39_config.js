@@ -1,1 +1,1 @@
-var mnemonic = "trip success glow category deer record faculty boost analyst today develop much";
+var mnemonic = "service oblige leg orange dry tenant engine skull twist dune impose twelve";

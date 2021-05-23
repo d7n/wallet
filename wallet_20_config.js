@@ -1,1 +1,1 @@
-var mnemonic = "topic decide kind mansion tribe skirt pig cricket rib jelly gaze visit";
+var mnemonic = "wonder extend artefact detect budget property image chef fork enter bread bird";

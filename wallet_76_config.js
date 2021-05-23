@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon doctor range scrub glove suit science spend hover beyond pig kitchen";
+var mnemonic = "shadow soldier matter crystal slot water paddle suspect scene humor unable myself";

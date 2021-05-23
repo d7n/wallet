@@ -1,1 +1,1 @@
-var mnemonic = "budget diet error divorce pave lottery middle armor balcony soda tower hockey";
+var mnemonic = "sand gadget vague average mystery garden rural moment mountain quote imitate use";

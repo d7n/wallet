@@ -1,1 +1,1 @@
-var mnemonic = "feel grit soft pave measure tiger increase guide puzzle jewel asthma regret";
+var mnemonic = "this core wish wedding absorb trophy lift curtain slight begin divert sugar";

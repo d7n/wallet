@@ -1,1 +1,1 @@
-var mnemonic = "sponsor dignity gravity differ razor input phrase any save evoke inherit boring";
+var mnemonic = "monster humor avoid verify omit follow long shadow card canyon base vintage";

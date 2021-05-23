@@ -1,1 +1,1 @@
-var mnemonic = "menu tissue lecture kitten pen know deliver fever forum minor odor air";
+var mnemonic = "opinion evil excuse twelve apart upper buffalo start zebra render biology damp";

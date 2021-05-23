@@ -1,1 +1,1 @@
-var mnemonic = "word theme pottery butter cream pepper bless crouch praise verb satoshi puppy";
+var mnemonic = "bulk music heavy school size broccoli village scorpion ball unusual smart miracle";

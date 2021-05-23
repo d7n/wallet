@@ -1,1 +1,1 @@
-var mnemonic = "slam wasp spring swear crazy citizen pigeon brain ripple monster protect smoke";
+var mnemonic = "awkward lady damp describe child seat moral sure similar panel nurse broken";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch wonder narrow scissors soda dwarf sunset fall dentist snap rocket setup";
+var mnemonic = "winter alley clog essence rural convince genuine dress tackle hazard abandon chronic";

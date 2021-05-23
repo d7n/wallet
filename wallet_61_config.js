@@ -1,1 +1,1 @@
-var mnemonic = "potato clean fit buffalo anxiety write input crouch this banner cost end";
+var mnemonic = "forest purchase fragile dial blood holiday enrich gentle become hello phrase rocket";

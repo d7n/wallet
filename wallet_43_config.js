@@ -1,1 +1,1 @@
-var mnemonic = "shoot sniff ensure auto flower crack fossil move verb inquiry practice robot";
+var mnemonic = "defense famous verify delay unlock endorse critic refuse moment solve little file";

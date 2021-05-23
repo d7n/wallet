@@ -1,1 +1,1 @@
-var mnemonic = "priority attend jump teach barely shoot champion essay design interest peace forest";
+var mnemonic = "dance elephant omit drift grief detail decide escape awake bus glare message";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard evolve soft goat retreat blame muscle wrap planet ozone similar spring";
+var mnemonic = "stable basket second aim december rebel since labor shock month kit solid";

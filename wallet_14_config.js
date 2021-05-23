@@ -1,1 +1,1 @@
-var mnemonic = "squirrel tobacco element actress daughter arrange wash certain cushion airport total save";
+var mnemonic = "dress high ginger destroy uncle danger sight coast suggest lock disease few";

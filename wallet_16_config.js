@@ -1,1 +1,1 @@
-var mnemonic = "exact filter company mouse also document sentence chase admit width dolphin soup";
+var mnemonic = "suffer know real sibling series sign body wreck drill female base vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "icon step lawn spring fatigue rich tent convince squirrel mirror survey north";
+var mnemonic = "shield grain glance check miracle spare scorpion merry daring wrist rabbit frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "day chest lake skin series blood culture cry aerobic toss detect limb";
+var mnemonic = "project duty feed armor rose above layer blouse liar print beyond lobster";

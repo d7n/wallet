@@ -1,1 +1,1 @@
-var mnemonic = "voice deliver uphold sense arrive entry please color clock analyst clap acoustic";
+var mnemonic = "snap tell spell minute dentist nurse lounge shell tomorrow crawl clip coffee";

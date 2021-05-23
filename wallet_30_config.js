@@ -1,1 +1,1 @@
-var mnemonic = "tool real matrix nothing embrace divorce panther name witness civil eager spirit";
+var mnemonic = "refuse atom shed scatter assault shuffle witness picture coach quality opera maximum";

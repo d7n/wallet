@@ -1,1 +1,1 @@
-var mnemonic = "already bright put lobster month mosquito dizzy ticket youth modify aware urban";
+var mnemonic = "prepare write february aware happy giggle example vendor flame dove mushroom cushion";

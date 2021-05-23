@@ -1,1 +1,1 @@
-var mnemonic = "size round fragile usage chase neutral absurd silly piece super follow warfare";
+var mnemonic = "all test mask luxury impact sibling piano lesson uphold barrel earth lesson";

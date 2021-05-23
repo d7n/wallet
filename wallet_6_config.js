@@ -1,1 +1,1 @@
-var mnemonic = "issue shove distance plastic harsh face swallow gentle enlist price claim depart";
+var mnemonic = "orient program cereal learn grief whale grief license argue exhibit treat endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "script jacket slender present spare kind around fiction cradle ceiling glory hidden";
+var mnemonic = "raccoon coconut panic salute grief first escape zero enlist inquiry supreme faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "source thunder rack bonus change hungry stone clock valve menu adjust unique";
+var mnemonic = "copper refuse metal monitor program ocean business keen you pigeon monkey can";

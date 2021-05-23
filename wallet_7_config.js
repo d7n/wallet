@@ -1,1 +1,1 @@
-var mnemonic = "square among total alter board zero mixed stick knife latin kit onion";
+var mnemonic = "output legal bench final elder giggle kidney push key breeze garbage surround";

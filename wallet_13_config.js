@@ -1,1 +1,1 @@
-var mnemonic = "afford sweet acid typical soccer minute daring spring settle help oval elbow";
+var mnemonic = "around elite hundred kid local brand social glare explain resemble behave input";

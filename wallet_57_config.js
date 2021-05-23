@@ -1,1 +1,1 @@
-var mnemonic = "wish decide only crazy hockey twice honey start suggest steak kite ladder";
+var mnemonic = "wide kiss calm current thumb uncover absorb cash junior absurd leaf wife";

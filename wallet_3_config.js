@@ -1,1 +1,1 @@
-var mnemonic = "grant lizard home much desk rocket spy arena riot camera stay seek";
+var mnemonic = "hundred thank beach social shift cluster crumble trip evoke height note trick";

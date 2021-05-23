@@ -1,1 +1,1 @@
-var mnemonic = "hammer exercise razor demand dog tragic become catch draw flip slight potato";
+var mnemonic = "bread joke magic margin outside corn certain tower session envelope arctic merge";

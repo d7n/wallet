@@ -1,1 +1,1 @@
-var mnemonic = "film license tonight skate powder despair scene bread rice engine kiss social";
+var mnemonic = "envelope ritual weekend collect twist spatial thing clutch special april zero crisp";

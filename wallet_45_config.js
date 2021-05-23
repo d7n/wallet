@@ -1,1 +1,1 @@
-var mnemonic = "brave bonus ahead reject pass reduce stay demand spawn wide conduct blast";
+var mnemonic = "panic side bronze fire beach lumber swarm frequent audit kick couch fork";

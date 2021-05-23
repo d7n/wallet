@@ -1,1 +1,1 @@
-var mnemonic = "actor frown lens crop supreme island reveal cheap suffer across buzz border";
+var mnemonic = "dentist aunt inform inner pave brand museum accident decide sell bean aerobic";

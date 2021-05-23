@@ -1,1 +1,1 @@
-var mnemonic = "blouse glove volume service envelope move industry crunch glass hover minimum trap";
+var mnemonic = "wonder trouble auction print misery snake jaguar service capable wet keen frown";

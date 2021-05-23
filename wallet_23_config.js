@@ -1,1 +1,1 @@
-var mnemonic = "energy pulse palace humble modify fat hint force relax civil dirt lumber";
+var mnemonic = "electric project intact arm half around jealous more slush boss close main";

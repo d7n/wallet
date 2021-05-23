@@ -1,1 +1,1 @@
-var mnemonic = "sure stereo write harbor flame wedding radio student angry armor clay churn";
+var mnemonic = "blossom witness barrel away liquid cage bamboo rookie crack market else mix";

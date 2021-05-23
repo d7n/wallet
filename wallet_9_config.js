@@ -1,1 +1,1 @@
-var mnemonic = "anchor clutch swear journey echo enough hero food whisper genius salad degree";
+var mnemonic = "express tell scorpion physical alcohol repair sadness struggle tail second cruise choose";

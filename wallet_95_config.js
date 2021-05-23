@@ -1,1 +1,1 @@
-var mnemonic = "state episode reopen critic pencil banner gloom toilet accuse erode sun goddess";
+var mnemonic = "child hat end cannon original fortune recipe fossil exile raw suit network";

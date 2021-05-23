@@ -1,1 +1,1 @@
-var mnemonic = "hill elder mercy hope regret outside chimney snake arrow voyage crystal disagree";
+var mnemonic = "summer draw quiz hope payment vendor interest various toilet inherit wheel enlist";

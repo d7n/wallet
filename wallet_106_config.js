@@ -1,1 +1,1 @@
-var mnemonic = "correct soldier merge noble harbor matrix orbit winner brick hope acquire iron";
+var mnemonic = "rule joy slide already protect way scrub more violin stable bring engine";

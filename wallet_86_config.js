@@ -1,1 +1,1 @@
-var mnemonic = "bitter change execute spider maple vibrant blossom party memory just zone unfair";
+var mnemonic = "estate jump wrist pole melody digital trust goat ask reward safe loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate increase cry when pumpkin frame witness cliff limit turn arrest expire";
+var mnemonic = "pioneer negative reason estate tobacco flee one merit wage resource ranch size";

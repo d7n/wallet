@@ -1,1 +1,1 @@
-var mnemonic = "question pink hybrid police spider subway oven cram nothing chase wait year";
+var mnemonic = "success badge service output adapt symptom march chest wreck april cement slow";

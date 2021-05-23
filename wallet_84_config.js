@@ -1,1 +1,1 @@
-var mnemonic = "dinner job control drastic kiss envelope depend salute pupil regret ginger beach";
+var mnemonic = "cable mass absent happy derive shove soccer turtle battle brick unusual parade";

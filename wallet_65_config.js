@@ -1,1 +1,1 @@
-var mnemonic = "car lemon behave message inquiry pony planet under grow seat pupil ordinary";
+var mnemonic = "whip foam budget busy critic arctic gesture session reflect ankle limb base";

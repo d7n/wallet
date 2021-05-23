@@ -1,1 +1,1 @@
-var mnemonic = "demise rescue prize submit weird nature cream clutch sense idea age jungle";
+var mnemonic = "talk fiber boost connect arrive despair tip inform final indicate over ramp";

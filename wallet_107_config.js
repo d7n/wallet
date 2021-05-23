@@ -1,1 +1,1 @@
-var mnemonic = "pink embark pause deal behave elite rifle antenna start clump chunk shuffle";
+var mnemonic = "author notice excuse result rug unlock always castle pact door answer method";

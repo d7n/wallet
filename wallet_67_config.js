@@ -1,1 +1,1 @@
-var mnemonic = "rotate frost fruit genius edit depart jar nephew quit trade link useful";
+var mnemonic = "permit vault bachelor session bone state depth talent noise mutual drink hurdle";

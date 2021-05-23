@@ -1,1 +1,1 @@
-var mnemonic = "point grant mosquito disease agree draw zone theme notable wink glare camp";
+var mnemonic = "weapon miracle utility woman siege student dizzy seed caution wide equal toward";

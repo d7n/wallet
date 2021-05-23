@@ -1,1 +1,1 @@
-var mnemonic = "legend surge sell valve spike vacant slice shine fuel decade deposit false";
+var mnemonic = "cloth tired deal engine disorder brown pause average obvious dawn horror news";

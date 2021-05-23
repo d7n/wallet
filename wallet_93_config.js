@@ -1,1 +1,1 @@
-var mnemonic = "flat deal pistol spend machine whale broom empty industry question drip brother";
+var mnemonic = "lobster steel track claw scan brush bread dumb hold wage number stick";

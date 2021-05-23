@@ -1,1 +1,1 @@
-var mnemonic = "maximum salute already harsh rally people visit trash will ready hotel robust";
+var mnemonic = "glue match arm upon else harvest slam sausage loop express broccoli settle";

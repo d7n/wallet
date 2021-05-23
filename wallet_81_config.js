@@ -1,1 +1,1 @@
-var mnemonic = "moral stove tool coach settle divide path menu wheel scrub animal rifle";
+var mnemonic = "muffin mosquito much history file buzz pistol bracket always panda online crunch";

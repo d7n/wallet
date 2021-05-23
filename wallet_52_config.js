@@ -1,1 +1,1 @@
-var mnemonic = "found twenty grunt indoor mushroom village scout fragile slam daring bachelor coconut";
+var mnemonic = "sausage fruit ready child tattoo plunge job please trend despair blood rent";

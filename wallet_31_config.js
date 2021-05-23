@@ -1,1 +1,1 @@
-var mnemonic = "mind foster memory ripple robot ivory regular unusual infant barrel suit gorilla";
+var mnemonic = "move food diagram notice smart napkin cannon rule one lady board entire";

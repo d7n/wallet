@@ -1,1 +1,1 @@
-var mnemonic = "giggle evil adapt company balcony polar torch subway ask empty stuff exotic";
+var mnemonic = "maximum virtual trigger wood pudding slide team cat wood test neutral height";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge round couch relax laptop athlete copy zero green ordinary decade melody";
+var mnemonic = "silly either broom violin suggest clump gasp robust drive thought tortoise monkey";

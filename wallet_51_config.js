@@ -1,1 +1,1 @@
-var mnemonic = "thrive neither genius eyebrow bottom stairs crash lesson still found time bullet";
+var mnemonic = "flash entry success speak swim craft coast february flat employ nothing hill";

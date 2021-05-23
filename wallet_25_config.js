@@ -1,1 +1,1 @@
-var mnemonic = "skirt endless caught chaos lock come year lamp robot trap goddess ladder";
+var mnemonic = "body vintage tiger please cloud donate gentle upset sibling achieve sword autumn";

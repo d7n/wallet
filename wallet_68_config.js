@@ -1,1 +1,1 @@
-var mnemonic = "dynamic dish shop art ticket roof wish cradle fabric artwork daughter visit";
+var mnemonic = "season noise evoke begin agent husband anxiety resemble speed defense hurry woman";

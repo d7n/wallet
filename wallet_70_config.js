@@ -1,1 +1,1 @@
-var mnemonic = "scissors multiply brush powder silly grant demand release marriage situate assist napkin";
+var mnemonic = "dismiss plastic crew eternal confirm alone useless fever viable oven close boy";

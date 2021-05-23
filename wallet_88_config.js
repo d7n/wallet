@@ -1,1 +1,1 @@
-var mnemonic = "segment walnut mind seminar flag hen hair outer essay mesh science cereal";
+var mnemonic = "misery flower field bright more husband protect room tortoise orange ivory relax";

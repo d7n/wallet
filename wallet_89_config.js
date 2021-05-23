@@ -1,1 +1,1 @@
-var mnemonic = "claw arctic tired gravity margin wet wait road dynamic vicious dolphin fever";
+var mnemonic = "spice chapter stock welcome smart climb region wealth stock remind inside elegant";
