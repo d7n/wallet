@@ -1,1 +1,1 @@
-var mnemonic = "idea wide brick bring reduce dilemma double humble harbor ocean wheel cool";
+var mnemonic = "oil burger student mimic scrap weather vendor inspire dream stay today need";

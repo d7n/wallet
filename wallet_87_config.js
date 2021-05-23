@@ -1,1 +1,1 @@
-var mnemonic = "genuine same knock cabbage divorce refuse depth feed social certain split devote";
+var mnemonic = "shy prepare garment admit model sadness spawn slide puppy border hip weekend";

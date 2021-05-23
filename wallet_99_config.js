@@ -1,1 +1,1 @@
-var mnemonic = "uncover moment weasel nature outside meat slot poet float column recall tattoo";
+var mnemonic = "excess denial zone collect oil ramp mask tattoo husband own lizard couple";

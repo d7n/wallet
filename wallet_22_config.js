@@ -1,1 +1,1 @@
-var mnemonic = "ostrich wing danger distance cover balance alert setup dish glad damage fish";
+var mnemonic = "equip ill move firm disease run demand amateur nest purpose obvious mixed";

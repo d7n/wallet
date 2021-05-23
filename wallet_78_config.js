@@ -1,1 +1,1 @@
-var mnemonic = "dog glad sibling pony lunar dragon aim alarm wide flag body prefer";
+var mnemonic = "evolve priority muffin march name scissors cousin orange laugh tent grace float";

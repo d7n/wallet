@@ -1,1 +1,1 @@
-var mnemonic = "actual core achieve squirrel advice hybrid spawn chair quantum either unable table";
+var mnemonic = "section hero lumber web erase strong lab network chair lounge field pulp";

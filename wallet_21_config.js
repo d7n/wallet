@@ -1,1 +1,1 @@
-var mnemonic = "comic evoke access ceiling pave country use immense wear indoor wrist extend";
+var mnemonic = "feed animal casino gadget sing relax bean garbage ribbon miracle stairs illness";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb palace bacon roast rich idle admit fortune stone length clay dinosaur";
+var mnemonic = "board carbon soup dentist observe improve actual hamster stem help ice stock";

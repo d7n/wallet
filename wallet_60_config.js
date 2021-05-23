@@ -1,1 +1,1 @@
-var mnemonic = "life shock tuition minute candy outer rich virtual pilot palm solution twice";
+var mnemonic = "aisle faint amazing depart field miss crumble erase bicycle soon drastic athlete";

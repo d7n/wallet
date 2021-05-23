@@ -1,1 +1,1 @@
-var mnemonic = "desert aisle nerve rare between title silver gossip civil chunk best end";
+var mnemonic = "mimic vote practice exit cereal dash drink fancy curtain disagree range card";

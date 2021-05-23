@@ -1,1 +1,1 @@
-var mnemonic = "brave season manual mention cruise find rather clock garment what join cycle";
+var mnemonic = "orient fix scare zebra blouse trick search avocado topple major oil outside";

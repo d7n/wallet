@@ -1,1 +1,1 @@
-var mnemonic = "scare olive security swear stand leave frown payment congress help myself grid";
+var mnemonic = "swamp speak easy benefit legal tree quality chicken stock peace expire negative";

@@ -1,1 +1,1 @@
-var mnemonic = "suit twelve taste dress also require embark slow kick limit tank amount";
+var mnemonic = "refuse artwork design pudding page design ranch avoid patch confirm naive produce";

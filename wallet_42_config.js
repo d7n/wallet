@@ -1,1 +1,1 @@
-var mnemonic = "elegant page drive elbow bring hole situate cheap property icon duck nasty";
+var mnemonic = "hungry trim drama wolf couch alone boring abstract kiwi sponsor veteran depend";

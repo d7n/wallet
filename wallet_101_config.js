@@ -1,1 +1,1 @@
-var mnemonic = "swing park obvious oil vessel shallow gallery sustain guess chuckle enjoy board";
+var mnemonic = "capital report keep afford panther increase wage impose fortune floor slogan limb";

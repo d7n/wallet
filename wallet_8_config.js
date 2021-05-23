@@ -1,1 +1,1 @@
-var mnemonic = "have tape year away turkey suggest audit gown nothing spice power swing";
+var mnemonic = "fresh pelican state author draft item swallow kitten infant mom gauge flush";

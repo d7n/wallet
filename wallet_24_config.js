@@ -1,1 +1,1 @@
-var mnemonic = "sunny dune culture unique clever boil page corn kind acquire spoil deliver";
+var mnemonic = "debate extra silly news fragile remove latin fork wonder bacon enforce surface";

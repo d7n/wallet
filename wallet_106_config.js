@@ -1,1 +1,1 @@
-var mnemonic = "flip spike body nation crowd soccer certain common kit buddy dash armed";
+var mnemonic = "gas know student city skull lesson person state idle fossil upset stock";

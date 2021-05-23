@@ -1,1 +1,1 @@
-var mnemonic = "pelican orange coyote truck dinosaur melt snap night raven scheme deputy diamond";
+var mnemonic = "skill firm useful velvet pig wage wool soft future electric wife else";

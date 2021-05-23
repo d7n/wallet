@@ -1,1 +1,1 @@
-var mnemonic = "option length alert soup bonus confirm drip blush someone address weekend thing";
+var mnemonic = "become board antenna art excess borrow oven skull tonight power unit verify";

@@ -1,1 +1,1 @@
-var mnemonic = "address mask sheriff fine busy gentle book badge involve exhibit blade borrow";
+var mnemonic = "couple distance gas ticket tent elite island bronze file above word enforce";

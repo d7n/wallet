@@ -1,1 +1,1 @@
-var mnemonic = "menu caution milk tail jaguar search hamster thrive special shield flip dinosaur";
+var mnemonic = "execute spell round enact digital awake scout save flock noble buyer pioneer";

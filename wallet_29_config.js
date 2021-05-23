@@ -1,1 +1,1 @@
-var mnemonic = "cargo erosion swallow window supreme polar foil beauty donkey hotel antique bachelor";
+var mnemonic = "whale spirit view below chef candy gallery topple bind labor sport problem";

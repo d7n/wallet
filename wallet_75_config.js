@@ -1,1 +1,1 @@
-var mnemonic = "typical turkey hidden head panther lunar wedding dumb myself baby price grain";
+var mnemonic = "need winner fantasy runway combine evidence toward stumble exile favorite nothing nut";

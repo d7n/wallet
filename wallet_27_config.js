@@ -1,1 +1,1 @@
-var mnemonic = "dentist cram decrease alley thrive security belt sketch ankle hunt bronze fabric";
+var mnemonic = "fashion curtain palm easy powder insect october enact tag vapor boss crew";

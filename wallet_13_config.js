@@ -1,1 +1,1 @@
-var mnemonic = "inherit minute fresh false turkey apple brown cage rotate feature doctor yard";
+var mnemonic = "soul traffic simple matrix foster piece inner diagram goddess online weird fade";

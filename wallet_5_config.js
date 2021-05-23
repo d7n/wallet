@@ -1,1 +1,1 @@
-var mnemonic = "ivory actor noodle sell lyrics vague corn unfair trouble finish pear music";
+var mnemonic = "suffer angry drill empty gain execute circle reveal apology route inmate ankle";

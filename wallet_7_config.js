@@ -1,1 +1,1 @@
-var mnemonic = "series fabric vague cheese ridge fetch spy chaos kid bag taste garlic";
+var mnemonic = "comfort federal jewel size fancy lonely envelope loyal sadness fall youth chat";

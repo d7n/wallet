@@ -1,1 +1,1 @@
-var mnemonic = "access kitchen social route fish kick gospel nerve decade plastic minor panther";
+var mnemonic = "sting region veteran resist fence ordinary tent clutch ignore pause census search";

@@ -1,1 +1,1 @@
-var mnemonic = "tree start multiply wild track escape flavor hover raccoon estate face settle";
+var mnemonic = "maple voice burst youth bundle snack model cage health stay odor hour";

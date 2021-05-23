@@ -1,1 +1,1 @@
-var mnemonic = "census version decorate bullet pyramid evidence amused patch iron tank lottery utility";
+var mnemonic = "reform involve episode obscure term midnight lazy heavy couch man dial bean";

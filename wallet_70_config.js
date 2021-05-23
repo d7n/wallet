@@ -1,1 +1,1 @@
-var mnemonic = "zoo cannon burst fat truth dish dust purity tribe priority news ethics";
+var mnemonic = "primary busy table jar rifle agent exercise crouch program rail below proud";

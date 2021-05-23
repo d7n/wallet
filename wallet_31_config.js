@@ -1,1 +1,1 @@
-var mnemonic = "grant twenty gift tortoise ostrich acid attend genre find attend option welcome";
+var mnemonic = "vocal enjoy wash gallery judge security guide coconut fade demand fire ill";

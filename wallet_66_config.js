@@ -1,1 +1,1 @@
-var mnemonic = "curtain life chimney tired grab vacant goat potato like beauty east fold";
+var mnemonic = "ghost ginger able switch goat topple popular final wire cigar income emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ticket sure drink popular barely coyote survey fade puppy grain enrich";
+var mnemonic = "nation skirt laundry myself trophy shop pole cake autumn foil captain cigar";

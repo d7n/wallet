@@ -1,1 +1,1 @@
-var mnemonic = "rich reopen equip spot original beach surge grab margin initial pumpkin flame";
+var mnemonic = "metal truth group process mystery decorate two witness inhale zero acoustic outer";

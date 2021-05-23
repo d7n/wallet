@@ -1,1 +1,1 @@
-var mnemonic = "whip civil violin zone ghost select moon mammal climb great tongue enough";
+var mnemonic = "maple few twice purse crouch oppose piano account reject dad neutral human";

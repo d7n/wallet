@@ -1,1 +1,1 @@
-var mnemonic = "lizard glance cat winter dizzy estate infant frame embody pool capital eager";
+var mnemonic = "alter decade expect inform where thing birth loud chicken toy evolve subject";

@@ -1,1 +1,1 @@
-var mnemonic = "hire flat sustain indoor large arrive erosion advance wide woman material exercise";
+var mnemonic = "verify topic mobile explain kingdom imitate holiday dolphin page gift measure opera";

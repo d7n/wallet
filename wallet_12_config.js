@@ -1,1 +1,1 @@
-var mnemonic = "powder release exhibit gallery garden honey come melody tree forward inmate mail";
+var mnemonic = "success vault essence suggest spot provide female diagram toast paper advance awake";

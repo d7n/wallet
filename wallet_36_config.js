@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin curious slide live deny success spoil sad punch siege joy crunch";
+var mnemonic = "broccoli icon volume spell rigid wrestle plate ladder curtain donate army calm";

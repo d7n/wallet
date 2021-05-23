@@ -1,1 +1,1 @@
-var mnemonic = "humble diet aware enhance salt cause swallow nuclear guard net near lion";
+var mnemonic = "slide dutch basket art cat narrow wild train master where effort cover";

@@ -1,1 +1,1 @@
-var mnemonic = "box resemble park fault antique liquid rib any cloth village number diary";
+var mnemonic = "happy grape lens square huge junior cherry treat clown ripple siren rifle";

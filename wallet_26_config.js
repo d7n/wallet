@@ -1,1 +1,1 @@
-var mnemonic = "face space zero guide pizza suffer blouse tenant message case twenty fabric";
+var mnemonic = "inflict imitate visual rescue episode answer fame close design slight churn board";

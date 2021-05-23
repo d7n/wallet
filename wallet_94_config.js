@@ -1,1 +1,1 @@
-var mnemonic = "cat rail educate fog surround secret furnace wine art hill social else";
+var mnemonic = "moon audit guilt define mandate famous find text cushion urge fluid alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme bounce digital picture sugar sad average ill because great local renew";
+var mnemonic = "supply oak actor upgrade cousin laugh also bean tornado hint street equal";

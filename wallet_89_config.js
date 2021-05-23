@@ -1,1 +1,1 @@
-var mnemonic = "cabin perfect rural dawn ability track blouse crop melody secret popular drop";
+var mnemonic = "until sign draw space unable hotel tissue cattle auction fresh lock afraid";

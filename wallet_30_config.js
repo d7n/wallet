@@ -1,1 +1,1 @@
-var mnemonic = "science eye verify sunset pink keep parade into crisp exclude juice unique";
+var mnemonic = "economy swamp bring soap code venture grant vicious coil debris army year";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp divert zebra fan prize excess tiger side power damage click wrong";
+var mnemonic = "keep sweet nation mixture such north common power tooth dismiss fix phrase";

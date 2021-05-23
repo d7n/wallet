@@ -1,1 +1,1 @@
-var mnemonic = "theory odor beach next settle cream knock couple pink shine history twenty";
+var mnemonic = "usual advice office link execute digital crunch direct ask dwarf empty rigid";

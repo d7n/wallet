@@ -1,1 +1,1 @@
-var mnemonic = "run hub install enter insane know surprise stove tray enrich again live";
+var mnemonic = "crawl fan mix club property grass series police million gather say observe";

@@ -1,1 +1,1 @@
-var mnemonic = "steel owner regret walnut license duty swing warrior nothing antenna alarm cliff";
+var mnemonic = "endorse glove jaguar vicious peanut wonder turkey corn stool elder another assault";

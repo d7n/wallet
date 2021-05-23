@@ -1,1 +1,1 @@
-var mnemonic = "wing fatigue live liquid gate invite ball voyage square canal book rude";
+var mnemonic = "eagle journey calm maple ocean enrich aerobic west involve power champion struggle";

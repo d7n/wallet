@@ -1,1 +1,1 @@
-var mnemonic = "farm swallow estate bar acoustic bleak skill twin little entire release gasp";
+var mnemonic = "loop segment genuine innocent certain biology above salute lunar bunker famous bitter";

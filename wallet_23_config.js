@@ -1,1 +1,1 @@
-var mnemonic = "ahead slight lounge final mammal suggest can cube stamp favorite board cart";
+var mnemonic = "choose elevator chat borrow spawn display family negative measure panda evolve thumb";

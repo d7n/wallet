@@ -1,1 +1,1 @@
-var mnemonic = "soup genius siren health charge frost lift skin anchor job pupil run";
+var mnemonic = "push churn name tonight cushion memory credit birth avocado fatal uncle like";

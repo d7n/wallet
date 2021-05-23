@@ -1,1 +1,1 @@
-var mnemonic = "cream follow balcony bonus confirm core cake motor negative recall sport educate";
+var mnemonic = "goat shallow wrong price retreat title dove actress cannon knee tide talent";

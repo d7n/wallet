@@ -1,1 +1,1 @@
-var mnemonic = "clay hill seminar buffalo wise attack age aunt ship tone setup genre";
+var mnemonic = "tuition bean tray able valve inch lawn tag face clutch plug wealth";

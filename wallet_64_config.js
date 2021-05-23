@@ -1,1 +1,1 @@
-var mnemonic = "grain party crush wife light casual correct jacket receive rubber follow fun";
+var mnemonic = "portion ordinary short elegant bubble used opinion target possible piano project slow";

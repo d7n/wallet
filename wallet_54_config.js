@@ -1,1 +1,1 @@
-var mnemonic = "edit surprise bag clock finger ability surface palace nice response mobile phrase";
+var mnemonic = "purchase floor merit lunar advice finger nut kid physical bleak talent crane";

@@ -1,1 +1,1 @@
-var mnemonic = "pause mask kite bean neither alone agree guide sentence income keen tower";
+var mnemonic = "ensure work mail soul robust wonder basket aware under toward genuine child";

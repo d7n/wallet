@@ -1,1 +1,1 @@
-var mnemonic = "dad pizza badge mix battle honey fly reduce grass silent average worth";
+var mnemonic = "blue nose evidence donkey caution card cart focus burden oak health kick";

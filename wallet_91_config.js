@@ -1,1 +1,1 @@
-var mnemonic = "power profit circle term shaft what morning fringe exit certain foot suggest";
+var mnemonic = "brand regular joy occur mosquito isolate solar wise special cushion illegal phone";

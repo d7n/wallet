@@ -1,1 +1,1 @@
-var mnemonic = "vocal forward olympic laptop throw cake peace silent swarm laptop expand begin";
+var mnemonic = "promote divorce yard differ exist boost entry drift panel space reward above";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond liberty park replace dance machine knife hundred example paddle capital movie";
+var mnemonic = "left major acquire legend pact denial wish stamp opera cup soldier member";

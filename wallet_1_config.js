@@ -1,1 +1,1 @@
-var mnemonic = "nuclear desert door corn wire similar draft again outside lecture state world";
+var mnemonic = "scout spring trap famous transfer faint slide oil medal duty loud nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "minute away story moral biology public half wash weasel possible diary weekend";
+var mnemonic = "enemy radio glad vault predict pulp true south voyage scatter awful hurt";

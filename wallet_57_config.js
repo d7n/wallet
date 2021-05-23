@@ -1,1 +1,1 @@
-var mnemonic = "feature peace parent sadness joke glare approve what tragic blush market clump";
+var mnemonic = "youth stay tape blind push perfect fantasy width scrap flock subway era";

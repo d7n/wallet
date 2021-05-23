@@ -1,1 +1,1 @@
-var mnemonic = "ocean fox calm sister tent occur occur raw risk situate clock course";
+var mnemonic = "record volume cereal over need divide twice aerobic iron box file expand";

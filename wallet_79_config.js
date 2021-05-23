@@ -1,1 +1,1 @@
-var mnemonic = "play certain wine throw another bubble degree document rally title mail village";
+var mnemonic = "shuffle hip window wink cover material nice engage pyramid elephant witness emotion";

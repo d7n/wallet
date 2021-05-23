@@ -1,1 +1,1 @@
-var mnemonic = "episode have rose amount ordinary bless grant tissue horror impact lens useless";
+var mnemonic = "roast car evoke swap flee grape paddle old wealth ready enough flush";

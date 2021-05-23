@@ -1,1 +1,1 @@
-var mnemonic = "raise guilt climb head occur initial issue save unhappy someone crane web";
+var mnemonic = "better enhance entire bundle virus album autumn staff there sphere labor analyst";

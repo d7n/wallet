@@ -1,1 +1,1 @@
-var mnemonic = "wing spatial short town long relief knock walk dash enemy cook balcony";
+var mnemonic = "canoe donor measure sheriff hunt eight bring small price sunset draft fence";

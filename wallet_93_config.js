@@ -1,1 +1,1 @@
-var mnemonic = "scan end detect weird opera tray cargo twist enough cliff canal cancel";
+var mnemonic = "outer expire today smart helmet cabin family raccoon poem fatal broom gadget";

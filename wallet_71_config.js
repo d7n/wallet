@@ -1,1 +1,1 @@
-var mnemonic = "list false object clutch job chair sponsor boy december hidden dust forward";
+var mnemonic = "bomb major tiny leaf best slush reunion observe mirror custom nut end";

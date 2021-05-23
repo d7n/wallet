@@ -1,1 +1,1 @@
-var mnemonic = "occur flag farm detail boy test turn safe throw alter guess wisdom";
+var mnemonic = "cable hungry copper gospel attack link height stool spice canoe nut month";

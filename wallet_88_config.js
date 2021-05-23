@@ -1,1 +1,1 @@
-var mnemonic = "gas donkey stereo south session column host pretty prepare enough belt subway";
+var mnemonic = "fault edge churn card toast truth file area source elder volcano safe";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss neglect want load differ three umbrella knife unveil awful home cricket";
+var mnemonic = "tunnel goose orchard wasp purpose evidence napkin display neutral kiss fashion garbage";

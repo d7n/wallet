@@ -1,1 +1,1 @@
-var mnemonic = "defense question situate fall master effort refuse left blame lonely maximum banana";
+var mnemonic = "property math blur moral among bulb gravity vintage author anxiety answer elevator";

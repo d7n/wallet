@@ -1,1 +1,1 @@
-var mnemonic = "curve balance twist race fox manual oak safe relief twelve alter season";
+var mnemonic = "reward pluck pen field naive robust prepare only crouch cotton film extend";

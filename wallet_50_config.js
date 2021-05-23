@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin siege please flower glue other shoe away stick aim hill nephew";
+var mnemonic = "cost combine meat museum sea dwarf solution column govern pass they ritual";

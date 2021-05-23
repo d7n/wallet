@@ -1,1 +1,1 @@
-var mnemonic = "daring yard neutral napkin undo hub fall tomato found glimpse outer eight";
+var mnemonic = "lazy staff broom fine reduce wedding never resist pencil chair size onion";

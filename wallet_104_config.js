@@ -1,1 +1,1 @@
-var mnemonic = "sea cousin drip story visual buyer away tourist athlete truck smooth panther";
+var mnemonic = "air laugh pioneer raccoon grocery beyond symptom scene execute speak intact what";

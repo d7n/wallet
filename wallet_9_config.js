@@ -1,1 +1,1 @@
-var mnemonic = "time what gain address jelly able gospel throw only suit include benefit";
+var mnemonic = "random latin music bike wrist fog parade agree right antique cheese gym";

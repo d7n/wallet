@@ -1,1 +1,1 @@
-var mnemonic = "calm shaft hold visit wool forward planet reduce proud hero often script";
+var mnemonic = "recipe toss deliver spray artist where cake glare quick waste among indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin subway vague draw orient snap oxygen domain park stem fancy minor";
+var mnemonic = "scatter innocent visit museum fortune call awkward real august napkin label action";

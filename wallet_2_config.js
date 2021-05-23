@@ -1,1 +1,1 @@
-var mnemonic = "share metal gloom luggage daring ball fresh sand swim print toilet gloom";
+var mnemonic = "winner sand jaguar athlete tobacco balcony topic bronze bullet empty skin pen";

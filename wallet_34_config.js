@@ -1,1 +1,1 @@
-var mnemonic = "wash desert drink devote sister note favorite nature horse solve mule illness";
+var mnemonic = "pony shed repeat course rescue arrest domain olive talent half faint drink";
