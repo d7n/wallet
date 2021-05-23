@@ -1,1 +1,1 @@
-var mnemonic = "team frequent grit couple certain slot dirt crater stable cement quote able";
+var mnemonic = "knock asset opinion else subway food electric phrase siege receive onion powder";

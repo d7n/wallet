@@ -1,1 +1,1 @@
-var mnemonic = "rhythm cake close amused vintage demand pizza office tag judge high shrug";
+var mnemonic = "include secret chest connect right leave again lucky fruit exotic want effort";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget ability domain april impact layer small neither network tobacco recipe river";
+var mnemonic = "bind train antique cross plunge pass vintage cruise craft exit acid human";

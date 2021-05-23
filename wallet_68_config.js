@@ -1,1 +1,1 @@
-var mnemonic = "design track talk crowd supply capital appear jazz valve cabin need model";
+var mnemonic = "cave car aisle style flag tooth rate arrange quiz wrap liberty member";

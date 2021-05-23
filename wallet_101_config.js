@@ -1,1 +1,1 @@
-var mnemonic = "vivid exotic either broom green wedding borrow someone upper fiction inmate rebuild";
+var mnemonic = "powder park tilt motor orchard renew merit fiscal industry wool state swap";

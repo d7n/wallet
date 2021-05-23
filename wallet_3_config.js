@@ -1,1 +1,1 @@
-var mnemonic = "help vocal during extra keen accident badge lumber economy guess flavor whisper";
+var mnemonic = "toward unknown top rack spread vacuum reform decline horn cigar ridge mobile";

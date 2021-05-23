@@ -1,1 +1,1 @@
-var mnemonic = "vintage brisk area barely ketchup vapor domain apology soldier enjoy marine come";
+var mnemonic = "moment dose bleak attitude mobile drill add recycle beef surround myself square";

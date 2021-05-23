@@ -1,1 +1,1 @@
-var mnemonic = "marine abstract disease remember behave topic public fresh citizen neither alarm click";
+var mnemonic = "fiscal top citizen always quantum asset pave faint clown glide fan loyal";

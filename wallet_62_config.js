@@ -1,1 +1,1 @@
-var mnemonic = "donate fruit tumble rude enough yard oval mind leaf lift fuel bring";
+var mnemonic = "satoshi hour twelve crater smoke alcohol capital cave lottery soda seat skate";

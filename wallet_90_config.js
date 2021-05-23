@@ -1,1 +1,1 @@
-var mnemonic = "good step load wage sign person dragon resist acoustic nice ten sausage";
+var mnemonic = "truth fringe guide moon syrup truck fetch limb soup peace wine include";

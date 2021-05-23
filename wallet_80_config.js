@@ -1,1 +1,1 @@
-var mnemonic = "tray live way bunker mean spread yard gorilla muffin benefit clock reduce";
+var mnemonic = "habit turtle double laptop green modify service talk face top security oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "manual process account foam cement whale setup rocket option calm narrow army";
+var mnemonic = "harsh young tomorrow vital bone recipe submit school rule dove eyebrow crew";

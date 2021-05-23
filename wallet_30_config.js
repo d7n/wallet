@@ -1,1 +1,1 @@
-var mnemonic = "tortoise era repeat admit hip mouse trap near horse spare baby predict";
+var mnemonic = "sustain raw task affair aspect truck bike remind rough puppy weird sand";

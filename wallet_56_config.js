@@ -1,1 +1,1 @@
-var mnemonic = "acoustic pitch naive cherry friend dice lobster error super vendor vast remind";
+var mnemonic = "plastic oblige dismiss piece forest mad surface myth fancy merry pumpkin evolve";

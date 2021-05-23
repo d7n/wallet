@@ -1,1 +1,1 @@
-var mnemonic = "real bless tank walnut gentle congress dizzy inquiry food anger empty laundry";
+var mnemonic = "later decorate direct post pioneer major field clown region trick close icon";

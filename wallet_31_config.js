@@ -1,1 +1,1 @@
-var mnemonic = "lava vintage then habit sight mention reason title collect earn door dream";
+var mnemonic = "limb book three reveal wink undo scrap anchor major someone truck marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy possible oak opinion wool dawn soap essence fork sunny struggle bundle";
+var mnemonic = "patch engine pizza miracle clock truck present tunnel gasp trash truck awkward";

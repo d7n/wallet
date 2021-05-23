@@ -1,1 +1,1 @@
-var mnemonic = "wing credit neither label deer vintage spring wrap ocean admit organ comfort";
+var mnemonic = "version you trick pride train blue tonight state point together measure solution";

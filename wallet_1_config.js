@@ -1,1 +1,1 @@
-var mnemonic = "abstract lawsuit rack hope reform valley scheme cup emerge wise crunch damage";
+var mnemonic = "shrimp pepper process roast kingdom collect slender proof shock bread violin trouble";

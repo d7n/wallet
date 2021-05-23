@@ -1,1 +1,1 @@
-var mnemonic = "deputy robot pill shove peanut payment risk lyrics spoon noise this hint";
+var mnemonic = "birth alarm actress visual daughter job capable plastic half square hold police";

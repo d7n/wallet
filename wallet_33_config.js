@@ -1,1 +1,1 @@
-var mnemonic = "drop great lunar noble dignity pull fire close monkey imitate frozen pact";
+var mnemonic = "attitude divide hybrid that position skull cabin scene sister survey base anger";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon demise same engine axis interest thought kitchen mad consider arrive park";
+var mnemonic = "rigid amount voyage coil client setup damage lyrics innocent genre fluid chuckle";

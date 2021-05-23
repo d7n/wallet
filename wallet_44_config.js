@@ -1,1 +1,1 @@
-var mnemonic = "fashion turn drink liar derive evidence sail romance round pepper warfare lock";
+var mnemonic = "rabbit flame argue shove trust eight they option purchase capital found brisk";

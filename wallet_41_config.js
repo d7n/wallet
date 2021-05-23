@@ -1,1 +1,1 @@
-var mnemonic = "comic ten usual exact ahead differ quarter flat rapid hire virtual foil";
+var mnemonic = "pretty pause limit cannon reveal awkward surround little rebuild decade shrug write";

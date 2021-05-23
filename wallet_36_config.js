@@ -1,1 +1,1 @@
-var mnemonic = "work blue evoke glue move axis jungle brush session blouse novel token";
+var mnemonic = "cheese horn ivory differ crisp settle exist marble acoustic gas few between";

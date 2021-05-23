@@ -1,1 +1,1 @@
-var mnemonic = "banner round gather humble supply lock drive unaware wheel cross solar obey";
+var mnemonic = "next man scatter radio glass suffer guitar chief electric page common stay";

@@ -1,1 +1,1 @@
-var mnemonic = "horse rigid timber hedgehog rural monitor air where capable pelican base air";
+var mnemonic = "ancient vapor detail stand top either buffalo bag stick large blossom water";

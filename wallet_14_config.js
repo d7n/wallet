@@ -1,1 +1,1 @@
-var mnemonic = "key wool album wreck season snake tiger all teach blur noise window";
+var mnemonic = "stumble trend discover shrug carbon prison dolphin copy raven claw jar culture";

@@ -1,1 +1,1 @@
-var mnemonic = "empower health dry problem plunge multiply innocent follow drift find bundle knock";
+var mnemonic = "skin kid ecology rubber snake husband west sketch pool skate tower wave";

@@ -1,1 +1,1 @@
-var mnemonic = "foam forward lottery denial system crawl fringe milk pioneer similar desert main";
+var mnemonic = "congress apple gather inject nothing leaf cover cereal nature actress place air";

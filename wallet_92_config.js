@@ -1,1 +1,1 @@
-var mnemonic = "egg clean lemon assist curtain rack cruel approve eight salmon drift dry";
+var mnemonic = "jungle range repair admit system admit iron coach awake true height bike";

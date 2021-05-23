@@ -1,1 +1,1 @@
-var mnemonic = "science atom exhaust occur dad pluck holiday warfare arm whale stage identify";
+var mnemonic = "tip manage snow sense zoo fork clock arctic half fever car gun";

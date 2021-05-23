@@ -1,1 +1,1 @@
-var mnemonic = "ocean shadow camp board genre behave hedgehog vintage all drift home carry";
+var mnemonic = "creek since detect venture clinic awesome lesson apology wide much enlist toward";

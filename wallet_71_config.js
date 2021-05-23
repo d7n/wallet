@@ -1,1 +1,1 @@
-var mnemonic = "forget economy thumb approve later seed prevent moment cloud honey slot reform";
+var mnemonic = "drink rule girl wish recall jewel ridge eagle buzz plastic page gap";

@@ -1,1 +1,1 @@
-var mnemonic = "page observe liar balance planet diamond aisle bulb main exercise trash grain";
+var mnemonic = "before guilt never mule fade steel victory jazz plastic tooth pudding tide";

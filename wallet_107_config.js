@@ -1,1 +1,1 @@
-var mnemonic = "option love music token build angry hour post level record fresh clinic";
+var mnemonic = "piece reduce found broken screen scheme metal cost best social salad eternal";

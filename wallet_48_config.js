@@ -1,1 +1,1 @@
-var mnemonic = "reward dawn raise public gift axis maximum month neglect author theory run";
+var mnemonic = "floor cupboard merge second ball brother arrest network muffin sort useful future";

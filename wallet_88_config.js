@@ -1,1 +1,1 @@
-var mnemonic = "route artist toe caution skate genius real frog file smile riot ketchup";
+var mnemonic = "develop lawn pelican diesel yard unveil grit clinic purity addict outside torch";

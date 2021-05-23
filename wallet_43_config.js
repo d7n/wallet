@@ -1,1 +1,1 @@
-var mnemonic = "regular economy chunk floor trumpet relief ginger find milk harbor bless broken";
+var mnemonic = "enrich client barely move ball guard actual magic blush emerge fine catch";

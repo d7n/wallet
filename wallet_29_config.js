@@ -1,1 +1,1 @@
-var mnemonic = "enemy improve please switch predict rapid practice drink summer pyramid often volcano";
+var mnemonic = "prize comic basic water method pave bus hood swap spawn mad web";

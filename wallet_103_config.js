@@ -1,1 +1,1 @@
-var mnemonic = "usual buyer erosion unfair invite host camera unknown labor cabbage grass mask";
+var mnemonic = "tag aim abuse connect ecology blush exchange aerobic welcome jazz legend tobacco";

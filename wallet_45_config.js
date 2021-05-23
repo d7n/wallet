@@ -1,1 +1,1 @@
-var mnemonic = "shoulder warrior harbor primary display giggle accident average brave impulse laptop grant";
+var mnemonic = "shoot jealous mirror lens labor utility obscure alien stumble edit walnut boring";

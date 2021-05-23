@@ -1,1 +1,1 @@
-var mnemonic = "derive prevent record mutual tide blur fox method museum giggle board midnight";
+var mnemonic = "orchard metal twelve poem frown funny weapon already still same coil van";

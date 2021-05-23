@@ -1,1 +1,1 @@
-var mnemonic = "assist ancient label will ginger uncle anger room icon ten into heart";
+var mnemonic = "usual nation gym pelican loan resist moon credit bag total scrap gadget";

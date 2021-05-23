@@ -1,1 +1,1 @@
-var mnemonic = "slam book gap cool buddy above company boring price rifle snap unusual";
+var mnemonic = "broom pool dinosaur destroy traffic body soccer amount elbow forget demand follow";

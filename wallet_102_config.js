@@ -1,1 +1,1 @@
-var mnemonic = "bread layer fence quote sorry bring future goose cruel border puppy token";
+var mnemonic = "cactus scrub merit enemy kite jeans shine oil yard remain figure burger";

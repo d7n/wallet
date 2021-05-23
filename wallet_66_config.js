@@ -1,1 +1,1 @@
-var mnemonic = "pill egg owner april present polar twist own left stumble shock endorse";
+var mnemonic = "obscure property anger service antique warrior zero impact ball confirm then pistol";

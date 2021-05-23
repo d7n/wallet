@@ -1,1 +1,1 @@
-var mnemonic = "leave ankle apology news clump little fame space magnet mail project distance";
+var mnemonic = "lobster crop have wheat acquire net execute wheel vital keep light split";

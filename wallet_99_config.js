@@ -1,1 +1,1 @@
-var mnemonic = "muffin dilemma ethics gloom afford jar sick project essay moment science resource";
+var mnemonic = "sibling you rent hold saddle replace rally grid farm skin valve kitten";

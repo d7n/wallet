@@ -1,1 +1,1 @@
-var mnemonic = "acquire clip exit mom candy govern among planet moral paper vendor result";
+var mnemonic = "ethics sustain immense spy gloom voyage kiss salmon scan despair wrong taxi";

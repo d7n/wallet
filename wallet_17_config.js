@@ -1,1 +1,1 @@
-var mnemonic = "soup reunion next famous recycle crucial field concert property describe beyond dawn";
+var mnemonic = "pepper hockey valley enable shock banana tone page maid impact island seven";

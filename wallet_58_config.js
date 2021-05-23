@@ -1,1 +1,1 @@
-var mnemonic = "rib stock half exit arrange patrol kite above ribbon debate woman mechanic";
+var mnemonic = "thumb turn quiz brand patient organ left filter cart chat grit butter";

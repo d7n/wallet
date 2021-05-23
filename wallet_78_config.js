@@ -1,1 +1,1 @@
-var mnemonic = "bomb either cannon whale budget marine kitten glimpse rail maze anchor suspect";
+var mnemonic = "prison easily armed ranch travel second ensure snap disease speed include fault";

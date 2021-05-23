@@ -1,1 +1,1 @@
-var mnemonic = "twenty raw day city volume multiply zero scrap transfer reward shift curtain";
+var mnemonic = "leaf cross decade bronze camp party left buzz theory wait island still";

@@ -1,1 +1,1 @@
-var mnemonic = "assist card nuclear morning theory volume charge bonus over uncover coin disease";
+var mnemonic = "odor property impulse clip believe retreat gravity slide coast brave eight wife";

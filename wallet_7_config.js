@@ -1,1 +1,1 @@
-var mnemonic = "awesome oblige vendor velvet genre pyramid grape coffee spirit lake rare apple";
+var mnemonic = "fork engage tape trick usage remain lamp cliff visit salmon breeze cat";

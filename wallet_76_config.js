@@ -1,1 +1,1 @@
-var mnemonic = "helmet awesome kite letter topic strike glide swift carbon rapid hope mosquito";
+var mnemonic = "afford burden render glide travel angle ripple since estate require basket day";

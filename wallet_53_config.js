@@ -1,1 +1,1 @@
-var mnemonic = "grid whip flock armor wasp loud reduce coin pulse clinic kick nephew";
+var mnemonic = "genius fever mansion tell robot pet art prefer shoulder work item ski";

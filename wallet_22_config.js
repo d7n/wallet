@@ -1,1 +1,1 @@
-var mnemonic = "lion kick black myth glow marine luggage age awkward glove index patient";
+var mnemonic = "glimpse milk original square repeat tongue lens interest milk capital utility ordinary";

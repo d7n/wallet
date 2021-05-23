@@ -1,1 +1,1 @@
-var mnemonic = "sadness pill wave post water purity explain column giggle olympic exit admit";
+var mnemonic = "unable hobby camp middle proud wear lock truth spider blame maid avocado";

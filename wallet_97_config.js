@@ -1,1 +1,1 @@
-var mnemonic = "nothing panda deny horn arrest garden must cluster glory health woman only";
+var mnemonic = "team tape short whip power crouch occur truth hotel siren picture body";

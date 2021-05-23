@@ -1,1 +1,1 @@
-var mnemonic = "soon two case flash right mosquito giraffe odor judge ignore symbol castle";
+var mnemonic = "dove direct later million mosquito large common future someone sadness fossil day";

@@ -1,1 +1,1 @@
-var mnemonic = "street civil large tip goose crater heavy rare song galaxy review envelope";
+var mnemonic = "way monkey drink hazard donate antenna client filter prevent winter under rule";

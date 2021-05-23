@@ -1,1 +1,1 @@
-var mnemonic = "used pelican spring figure empty best three extra world maximum draft because";
+var mnemonic = "rib biology kiwi quote balcony exist unique embrace shove welcome double surface";

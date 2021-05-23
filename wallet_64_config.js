@@ -1,1 +1,1 @@
-var mnemonic = "tired manage royal curtain correct thunder twenty over jungle olive secret purchase";
+var mnemonic = "language pulse subject eight example palm blush flip mansion satoshi idea cereal";

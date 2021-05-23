@@ -1,1 +1,1 @@
-var mnemonic = "team inch tiger bleak tent lucky increase army title way light music";
+var mnemonic = "provide faculty thrive strong process struggle horse print into hedgehog rare allow";

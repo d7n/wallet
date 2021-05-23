@@ -1,1 +1,1 @@
-var mnemonic = "rate maze acquire jewel one comfort foster royal taxi disagree excess better";
+var mnemonic = "flash exile arrow example clown wing kite giggle talk draft leg blame";

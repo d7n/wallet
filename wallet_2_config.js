@@ -1,1 +1,1 @@
-var mnemonic = "path voyage finger legend imitate charge anchor blossom strategy summer orchard police";
+var mnemonic = "glance dragon meadow census gather uniform cram assume other laptop latin wonder";

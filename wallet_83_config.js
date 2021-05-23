@@ -1,1 +1,1 @@
-var mnemonic = "finish audit fix exact medal enjoy capable kick body medal pole mixture";
+var mnemonic = "state public find alone voice humble hint library favorite chat allow skull";

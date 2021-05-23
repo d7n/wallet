@@ -1,1 +1,1 @@
-var mnemonic = "agent trophy fabric law orbit antique people sail evil identify bird north";
+var mnemonic = "crane tired task oyster seed will gift allow awake busy blast casual";

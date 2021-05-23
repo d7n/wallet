@@ -1,1 +1,1 @@
-var mnemonic = "blame robust goddess shed artist adapt festival wealth horse result raise cancel";
+var mnemonic = "zoo car someone feature drip just limb brave hub bicycle yellow fire";

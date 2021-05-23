@@ -1,1 +1,1 @@
-var mnemonic = "slide then edit tumble sing fuel quality manage major spray emerge airport";
+var mnemonic = "brave daring program split sword wine laugh vague diary bar just glimpse";

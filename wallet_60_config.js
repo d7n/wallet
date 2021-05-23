@@ -1,1 +1,1 @@
-var mnemonic = "course tunnel fork rain unaware right sheriff poet despair oven north lady";
+var mnemonic = "empty rent produce state cabbage shell excuse prefer escape nose mosquito home";

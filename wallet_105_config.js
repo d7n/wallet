@@ -1,1 +1,1 @@
-var mnemonic = "police mercy trouble cup panel exhaust cram siege crime decorate risk stable";
+var mnemonic = "city upgrade cute guitar unhappy train day charge hybrid couch absent near";

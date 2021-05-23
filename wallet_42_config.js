@@ -1,1 +1,1 @@
-var mnemonic = "obtain oil elegant crack sadness tuna general number toss flower hollow inmate";
+var mnemonic = "echo profit exit danger flavor foot imitate lonely brief scorpion plate kangaroo";

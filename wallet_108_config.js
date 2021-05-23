@@ -1,1 +1,1 @@
-var mnemonic = "wreck shop visa person indicate exist script crush priority blind puzzle wheel";
+var mnemonic = "smooth actual damp sustain tobacco guess orbit prefer chunk resemble finger hybrid";

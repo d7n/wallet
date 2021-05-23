@@ -1,1 +1,1 @@
-var mnemonic = "switch outdoor box still donate between urban maid achieve opinion raw law";
+var mnemonic = "decade unveil naive parrot bid perfect appear regular fix under educate combine";

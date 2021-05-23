@@ -1,1 +1,1 @@
-var mnemonic = "alarm pulp venue vault provide coffee kiss puzzle truck play diagram north";
+var mnemonic = "execute magic polar six retreat tell image fork knife power pull inflict";

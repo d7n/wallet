@@ -1,1 +1,1 @@
-var mnemonic = "wrap choice cricket memory horse year approve bounce wide sail judge design";
+var mnemonic = "airport fade arctic lucky stairs bike small gym web play repair tattoo";

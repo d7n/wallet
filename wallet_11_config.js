@@ -1,1 +1,1 @@
-var mnemonic = "sting hole useful wink hazard educate aerobic arm tilt change hill regret";
+var mnemonic = "over text jaguar arctic festival unveil you orchard pause joke hospital soccer";

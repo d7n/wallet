@@ -1,1 +1,1 @@
-var mnemonic = "forward name husband attitude broken inject tuna come depart stove people parent";
+var mnemonic = "loud own dumb envelope drum river lawsuit ladder loud sausage ceiling high";

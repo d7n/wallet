@@ -1,1 +1,1 @@
-var mnemonic = "evolve quiz average happy give grass squeeze permit shy next boost mandate";
+var mnemonic = "tank pledge allow like delay ensure virtual coach canvas patrol chat umbrella";

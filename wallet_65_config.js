@@ -1,1 +1,1 @@
-var mnemonic = "page insane ladder quiz latin estate nasty release helmet immune second security";
+var mnemonic = "napkin joke close raven off method sweet magic judge actual host debate";

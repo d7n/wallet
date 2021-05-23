@@ -1,1 +1,1 @@
-var mnemonic = "seminar paddle cactus job later kangaroo monkey office hundred whisper arrange helmet";
+var mnemonic = "practice winter cotton limb ready jazz example wagon either man problem kangaroo";

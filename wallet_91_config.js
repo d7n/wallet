@@ -1,1 +1,1 @@
-var mnemonic = "bounce carpet banner immense crime develop climb ask woman husband excuse person";
+var mnemonic = "aim income armor shallow stamp fiber intact input online keep parrot believe";

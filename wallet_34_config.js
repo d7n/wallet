@@ -1,1 +1,1 @@
-var mnemonic = "divide wisdom broken since enable process anger island lumber either oblige question";
+var mnemonic = "pistol vendor very genuine company muscle pipe pave diary upset fatal book";
