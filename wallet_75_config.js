@@ -1,1 +1,1 @@
-var mnemonic = "uniform limit never piano plunge glove bulk page clerk plunge artefact evoke";
+var mnemonic = "gadget spy dose analyst lumber middle gather body green review wonder hunt";

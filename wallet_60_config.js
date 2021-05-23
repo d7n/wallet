@@ -1,1 +1,1 @@
-var mnemonic = "enlist bread airport dutch pride rather lumber identify bone slice voice language";
+var mnemonic = "author mail help waste excuse cube wolf opera hollow smile rude tape";

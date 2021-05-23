@@ -1,1 +1,1 @@
-var mnemonic = "resemble short cliff surge tortoise coast rate fan great admit baby feed";
+var mnemonic = "sudden combine other hand diagram simple work make shoe color milk initial";

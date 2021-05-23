@@ -1,1 +1,1 @@
-var mnemonic = "swing fat protect gain image seven decline raccoon infant spell circle prefer";
+var mnemonic = "satisfy remove deer swarm chase true ship focus lizard flip favorite sweet";

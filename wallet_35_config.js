@@ -1,1 +1,1 @@
-var mnemonic = "tissue cruel normal maple arrive chaos regular high avoid noble injury toddler";
+var mnemonic = "cash avoid danger regret mandate inner nose raccoon palace pudding bubble blouse";

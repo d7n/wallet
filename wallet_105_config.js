@@ -1,1 +1,1 @@
-var mnemonic = "virtual there news boil execute left mom spider scrub kidney salmon fancy";
+var mnemonic = "dilemma settle number drum opera shrimp increase artist language panda okay polar";

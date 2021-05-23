@@ -1,1 +1,1 @@
-var mnemonic = "test august input topic tent hotel hood problem seek two manage gesture";
+var mnemonic = "siren vessel mean wall regret gallery spirit scare opera detect public fun";

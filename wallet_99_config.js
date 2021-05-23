@@ -1,1 +1,1 @@
-var mnemonic = "tackle response sheriff mango spare black hurt bicycle sausage office harvest report";
+var mnemonic = "actress stumble tooth face very base globe advance draw asthma any size";

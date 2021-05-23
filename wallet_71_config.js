@@ -1,1 +1,1 @@
-var mnemonic = "exchange open before gorilla add delay rich dance refuse inspire inherit clay";
+var mnemonic = "mechanic boy fork loop bundle defense bamboo velvet say over reason doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "forward shock level true census divert bomb snack juice flip trumpet summer";
+var mnemonic = "give moment bench recall bean company cupboard bulb excuse start spring gate";

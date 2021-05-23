@@ -1,1 +1,1 @@
-var mnemonic = "yard stove local pool write random palace quit giant grocery tiny output";
+var mnemonic = "certain hair bunker trophy baby mention nothing outside parrot beauty announce degree";

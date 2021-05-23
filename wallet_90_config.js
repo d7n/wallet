@@ -1,1 +1,1 @@
-var mnemonic = "abuse assault hold visit decrease duty dance once hire shell toe wealth";
+var mnemonic = "extend flash brief web decline render venue bread begin destroy control sugar";

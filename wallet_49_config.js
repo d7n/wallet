@@ -1,1 +1,1 @@
-var mnemonic = "duck buddy engage identify balcony west table sorry tornado clown giraffe join";
+var mnemonic = "balance shoulder document spy bike delay spell save behave rug elevator pigeon";

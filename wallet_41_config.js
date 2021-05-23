@@ -1,1 +1,1 @@
-var mnemonic = "employ lava carpet perfect vintage proud staff useless mushroom convince they silent";
+var mnemonic = "jelly chest van bind useful bundle frame picnic solid mobile try tail";

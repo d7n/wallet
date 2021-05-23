@@ -1,1 +1,1 @@
-var mnemonic = "sight lottery script squeeze stumble awesome fade project rigid civil stairs fantasy";
+var mnemonic = "tortoise laptop reduce spirit shallow clutch narrow brush debris chronic sunset bottom";

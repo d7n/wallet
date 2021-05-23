@@ -1,1 +1,1 @@
-var mnemonic = "fan city unveil monkey pattern excess goddess select volcano apart hundred food";
+var mnemonic = "ski shed example hunt control maple brother cube evoke spray mosquito put";

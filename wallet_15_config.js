@@ -1,1 +1,1 @@
-var mnemonic = "six rack sort fence rough fashion thank fee celery focus quantum hollow";
+var mnemonic = "casino need immense firm drill hire close poem over fossil affair panda";

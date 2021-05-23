@@ -1,1 +1,1 @@
-var mnemonic = "romance group column plug exotic minute coach cabbage trouble grocery include grab";
+var mnemonic = "negative text tool biology say wolf supreme accuse coast list review castle";

@@ -1,1 +1,1 @@
-var mnemonic = "way east oil close match across survey raven joy crucial piece multiply";
+var mnemonic = "lizard rate police cool truck sure hill entire minimum miss hero angry";

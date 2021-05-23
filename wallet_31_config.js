@@ -1,1 +1,1 @@
-var mnemonic = "spirit wish butter argue solar enforce ritual left swift throw loyal emotion";
+var mnemonic = "solid family timber siege order east guess they crush speed scatter crime";

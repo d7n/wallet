@@ -1,1 +1,1 @@
-var mnemonic = "mind theme drop kingdom have alley immune vague present base laptop wait";
+var mnemonic = "clock collect kidney crane wire embody word chuckle gym soul brick garden";

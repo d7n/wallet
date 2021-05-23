@@ -1,1 +1,1 @@
-var mnemonic = "awake pond night feel fault kite side pact end spin blast cruise";
+var mnemonic = "bring boil spoon aerobic salon vanish select unknown exhaust marble calm cool";

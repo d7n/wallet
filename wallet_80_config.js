@@ -1,1 +1,1 @@
-var mnemonic = "quick pulp social actual expect cabbage hope frost barrel bird armed heart";
+var mnemonic = "bicycle hollow balcony access december entry doctor another hat unable hint vessel";

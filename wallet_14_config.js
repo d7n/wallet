@@ -1,1 +1,1 @@
-var mnemonic = "north blame pizza arrive juice combine oxygen west owner tiny regret inch";
+var mnemonic = "fat allow limb wealth stem faith poverty cost next mix audit ignore";

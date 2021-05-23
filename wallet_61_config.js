@@ -1,1 +1,1 @@
-var mnemonic = "same eye sword orient define latin seed unfair fine twelve carpet promote";
+var mnemonic = "ice affair uncover wrap account rain job pyramid item roof author whisper";

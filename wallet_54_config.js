@@ -1,1 +1,1 @@
-var mnemonic = "fruit label clump desert title brand describe measure metal fan alpha easy";
+var mnemonic = "true vast prize zebra begin birth swing supply funny much camp neck";

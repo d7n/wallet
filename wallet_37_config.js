@@ -1,1 +1,1 @@
-var mnemonic = "taste extend chuckle slender process auction bubble mutual nest visit aspect birth";
+var mnemonic = "fortune limb real mechanic labor produce unusual gasp regular hill chuckle kidney";

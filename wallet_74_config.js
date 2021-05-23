@@ -1,1 +1,1 @@
-var mnemonic = "want huge sweet hero purity gas organ obscure cousin about season skin";
+var mnemonic = "enforce churn holiday vault another effort fancy oyster language life monster bicycle";

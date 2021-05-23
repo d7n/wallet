@@ -1,1 +1,1 @@
-var mnemonic = "table core credit upper anger grain neutral surge same border violin spell";
+var mnemonic = "text country team amazing wool satisfy opera range mammal record lottery snow";

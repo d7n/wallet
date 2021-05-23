@@ -1,1 +1,1 @@
-var mnemonic = "vital video change purse assist denial spider area faith mango grit awful";
+var mnemonic = "return they evolve opera income gate abuse trim skate medal involve lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "potato kit glad maximum debris session early logic soda please inquiry kid";
+var mnemonic = "virtual dust skin loyal copy paper acoustic execute seat spread speak inside";

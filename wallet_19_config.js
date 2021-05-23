@@ -1,1 +1,1 @@
-var mnemonic = "inner trumpet smoke embark receive flavor post record boil carbon dose keen";
+var mnemonic = "clown tube friend mule scrap romance pink someone chunk clock island forum";

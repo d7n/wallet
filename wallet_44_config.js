@@ -1,1 +1,1 @@
-var mnemonic = "sell fly pipe twice donate fatal lemon verify mobile convince rescue accident";
+var mnemonic = "vanish layer state mad nurse dress job stool hobby swamp excuse present";

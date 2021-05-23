@@ -1,1 +1,1 @@
-var mnemonic = "wheat cram hotel risk assist deputy eager dumb before blur neither rely";
+var mnemonic = "nurse cushion cook over flavor renew traffic monitor spell gauge call next";

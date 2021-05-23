@@ -1,1 +1,1 @@
-var mnemonic = "exchange minute parrot trophy current trust lottery suggest animal deposit bar result";
+var mnemonic = "gold excess imitate fresh soon brave frost intact eight wool negative ritual";

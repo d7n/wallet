@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur resemble vivid venue crack mushroom mixed hazard morning wagon false under";
+var mnemonic = "like gun only element divert beyond hybrid endorse search slide tumble piano";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb quote correct liar quality tonight slam trigger disease mom grow fresh";
+var mnemonic = "blanket ugly rice topple merry radio begin bid carpet fetch unaware yard";

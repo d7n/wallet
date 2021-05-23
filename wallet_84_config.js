@@ -1,1 +1,1 @@
-var mnemonic = "carry riot tower fee age cabin green trade library arch matrix snack";
+var mnemonic = "wise shoulder butter metal rocket remove pyramid country cupboard rival animal soldier";

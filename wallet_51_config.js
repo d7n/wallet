@@ -1,1 +1,1 @@
-var mnemonic = "october fire chimney brother zebra sail miss insect method flame impulse start";
+var mnemonic = "achieve metal inch author promote daughter orient ivory galaxy round sign rail";

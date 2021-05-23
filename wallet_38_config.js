@@ -1,1 +1,1 @@
-var mnemonic = "predict current myth eyebrow spare kitchen draft tape appear major shaft rigid";
+var mnemonic = "door flavor catalog power pepper smile bonus law elbow ladder slot bind";

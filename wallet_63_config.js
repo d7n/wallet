@@ -1,1 +1,1 @@
-var mnemonic = "crunch garment control food length globe imitate vivid true cover adjust math";
+var mnemonic = "elephant raw venture right spend slam fresh change mobile palm coral envelope";

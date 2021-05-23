@@ -1,1 +1,1 @@
-var mnemonic = "junior license furnace error list away help language figure glare swallow leopard";
+var mnemonic = "remember shiver beach shadow deputy inch drip long glue access tired flower";

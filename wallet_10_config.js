@@ -1,1 +1,1 @@
-var mnemonic = "hen involve media donate grocery bounce door dolphin swamp solution mystery funny";
+var mnemonic = "glimpse olympic seed kidney logic toward maximum warrior prize stock jazz unit";

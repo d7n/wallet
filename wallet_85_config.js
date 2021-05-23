@@ -1,1 +1,1 @@
-var mnemonic = "garage mountain alley wrong spare skull narrow cargo creek way unaware turn";
+var mnemonic = "destroy exchange fancy hold letter injury benefit spirit body scheme garlic equip";

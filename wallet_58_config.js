@@ -1,1 +1,1 @@
-var mnemonic = "parrot identify horror army select boring stable cluster person faint mind hedgehog";
+var mnemonic = "note despair entry gym swallow fancy mask marriage mother envelope gossip corn";

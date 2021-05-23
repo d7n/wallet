@@ -1,1 +1,1 @@
-var mnemonic = "coffee they fury glimpse visa drink impulse paddle theory lab zoo target";
+var mnemonic = "tip predict lyrics tail foil keep slide boil below wreck supply motor";

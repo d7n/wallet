@@ -1,1 +1,1 @@
-var mnemonic = "genius magnet usage ladder surprise symbol two olympic quit manual cable column";
+var mnemonic = "robust onion rain hope move train deputy toilet web ticket book slide";

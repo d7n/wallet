@@ -1,1 +1,1 @@
-var mnemonic = "mouse camera suspect truth air practice dance thunder girl silly claw main";
+var mnemonic = "endless shuffle inside grain upgrade owner author bundle trouble vacuum race close";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden spice face reward more uphold news orbit seek core medal kit";
+var mnemonic = "shoe mesh picture faith galaxy wrestle act fortune orange zone suffer shadow";

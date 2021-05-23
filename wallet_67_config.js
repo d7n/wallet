@@ -1,1 +1,1 @@
-var mnemonic = "note alone loud drum boy embody whisper mushroom laptop equip kidney tape";
+var mnemonic = "success cloud patient silent arm pear distance width fluid elite coconut risk";

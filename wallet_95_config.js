@@ -1,1 +1,1 @@
-var mnemonic = "shallow outside kiwi huge people cry slow energy interest album virtual please";
+var mnemonic = "brush syrup double vote rent into desk risk hire enact sentence lab";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm razor upper program high sight soon never price about portion wide";
+var mnemonic = "food fade crystal gown frog long guitar hurt margin fever dance mango";

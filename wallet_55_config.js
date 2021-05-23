@@ -1,1 +1,1 @@
-var mnemonic = "fat engine warm stove increase keen gather dream ladder depart sun tongue";
+var mnemonic = "embody close profit ready rough celery dwarf mystery tomorrow cinnamon price device";

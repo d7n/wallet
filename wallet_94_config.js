@@ -1,1 +1,1 @@
-var mnemonic = "plate shed detail foot sting civil nominee bamboo coin loop burst panther";
+var mnemonic = "awake topic slogan replace produce profit friend erupt cousin ceiling dinner vast";

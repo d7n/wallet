@@ -1,1 +1,1 @@
-var mnemonic = "recycle cube shock involve barely rate manage palace next book nest smoke";
+var mnemonic = "fold noise wide token polar absurd onion neither force text soul during";

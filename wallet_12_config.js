@@ -1,1 +1,1 @@
-var mnemonic = "rocket engage cat unique envelope slide shoot ignore this tag film ostrich";
+var mnemonic = "gauge junior woman auction vague dry repeat admit draw disorder spike jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "gate woman merry mammal ripple much apart inhale shock brand scissors tray";
+var mnemonic = "idea spell episode tourist south hollow empty market secret gain injury bitter";

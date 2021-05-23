@@ -1,1 +1,1 @@
-var mnemonic = "slot group museum travel attitude trip job unveil uncover lion real grunt";
+var mnemonic = "output pole lottery day between program confirm empower head wink minimum blue";

@@ -1,1 +1,1 @@
-var mnemonic = "provide agent wish venture trade parrot item general security giraffe foster oak";
+var mnemonic = "fish finish catalog gather chuckle pony crew faith grace input cruise level";

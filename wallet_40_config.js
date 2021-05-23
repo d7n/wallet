@@ -1,1 +1,1 @@
-var mnemonic = "member indoor mention success sense crouch chronic notice license cabin hurdle lift";
+var mnemonic = "glimpse half debate goat spawn route recipe pioneer enlist owner proud punch";

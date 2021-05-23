@@ -1,1 +1,1 @@
-var mnemonic = "lion member film destroy nothing shaft velvet destroy pave claim brief notable";
+var mnemonic = "subway century duty bubble release solar manual noodle mouse napkin spray chapter";

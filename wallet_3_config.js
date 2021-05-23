@@ -1,1 +1,1 @@
-var mnemonic = "find fringe below pepper unique message disagree announce radio siege kick glove";
+var mnemonic = "coil crawl flat save praise mutual laundry unable roof quarter explain retreat";

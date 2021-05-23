@@ -1,1 +1,1 @@
-var mnemonic = "cube squirrel cross employ deputy twice hunt hunt gaze mean tattoo base";
+var mnemonic = "yard island race innocent exotic absent lady poet endorse blind slot chalk";

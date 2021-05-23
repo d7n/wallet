@@ -1,1 +1,1 @@
-var mnemonic = "skull music decrease rebuild original convince donor pluck rice mass used accuse";
+var mnemonic = "chaos camp lounge attack thrive unit elephant pulp moon beach already wrong";

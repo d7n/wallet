@@ -1,1 +1,1 @@
-var mnemonic = "tonight laundry warfare clown one basic improve quiz fetch dawn crowd estate";
+var mnemonic = "domain crime shoulder license jungle barely choice sure carry skull involve topic";

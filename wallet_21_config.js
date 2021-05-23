@@ -1,1 +1,1 @@
-var mnemonic = "correct twenty budget upset program swap during order slam local frozen sister";
+var mnemonic = "skill cruel glass quality inflict erosion general eternal letter hub owner trigger";

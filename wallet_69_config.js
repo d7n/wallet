@@ -1,1 +1,1 @@
-var mnemonic = "obey review silver domain sad special grocery hill round spoon report judge";
+var mnemonic = "dance time online alarm glove among desk endorse speak whisper limit long";

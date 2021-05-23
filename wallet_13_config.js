@@ -1,1 +1,1 @@
-var mnemonic = "present daring comfort behind accuse there insect explain omit point cook purse";
+var mnemonic = "sorry type student must hen own silver item barely kitchen whip debris";

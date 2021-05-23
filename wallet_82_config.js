@@ -1,1 +1,1 @@
-var mnemonic = "reunion december arctic charge pledge tackle gift liberty ready cinnamon runway rifle";
+var mnemonic = "useful uncover undo moral hub symbol horn sea certain minor idle genius";

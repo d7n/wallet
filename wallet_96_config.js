@@ -1,1 +1,1 @@
-var mnemonic = "summer mule mimic force student matrix muffin gather fix clutch vehicle visual";
+var mnemonic = "noodle antenna color village unique pilot impose fetch bar useless dawn side";

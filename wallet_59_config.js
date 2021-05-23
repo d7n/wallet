@@ -1,1 +1,1 @@
-var mnemonic = "such fashion reunion mobile reform vicious decorate profit kidney race tenant base";
+var mnemonic = "make spatial inch news execute oil boss search hidden hen real gossip";

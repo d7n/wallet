@@ -1,1 +1,1 @@
-var mnemonic = "labor sadness physical tuna announce try engine cabin middle keep one speak";
+var mnemonic = "soap shy want volcano false urban casino error impact spy august trap";

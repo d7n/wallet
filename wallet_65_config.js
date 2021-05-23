@@ -1,1 +1,1 @@
-var mnemonic = "sort top taste normal soup marriage burger robot oblige express bamboo company";
+var mnemonic = "brown plate fire join worry planet mixture spy hint estate tissue flower";

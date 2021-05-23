@@ -1,1 +1,1 @@
-var mnemonic = "scrub hungry object budget glow clog rookie surface mom defy card cry";
+var mnemonic = "entire law traffic orient when wine brand small dose swarm found curious";

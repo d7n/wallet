@@ -1,1 +1,1 @@
-var mnemonic = "fence rocket moon penalty lizard rib place picture exile turn tube ladder";
+var mnemonic = "asthma now visual source enroll viable bacon raven pole sing around soap";

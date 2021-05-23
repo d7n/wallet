@@ -1,1 +1,1 @@
-var mnemonic = "brush mango interest egg poem alien tumble carpet power arrow park survey";
+var mnemonic = "pipe design sniff any goose test future column refuse garment calm metal";

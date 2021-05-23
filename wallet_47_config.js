@@ -1,1 +1,1 @@
-var mnemonic = "skirt seek wear arm hospital olive confirm fox piano cannon when climb";
+var mnemonic = "general note zero remember sock sunset shaft rally warrior nut defy hospital";

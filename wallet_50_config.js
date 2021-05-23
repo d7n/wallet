@@ -1,1 +1,1 @@
-var mnemonic = "crunch shove glass digital erupt borrow apology vital hover uniform custom depth";
+var mnemonic = "bachelor animal funny urban fancy scrap design method attract pride noise stadium";

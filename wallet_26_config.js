@@ -1,1 +1,1 @@
-var mnemonic = "screen happy olympic sunny valley rude afford husband fiscal coconut snow exit";
+var mnemonic = "modify foam obtain fetch idea person allow enroll foster rice cabbage rigid";

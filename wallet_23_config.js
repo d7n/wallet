@@ -1,1 +1,1 @@
-var mnemonic = "fragile between wheel ladder lava crucial blossom run inside end churn balcony";
+var mnemonic = "have young youth box crop hawk enable laundry tiny grid unaware violin";

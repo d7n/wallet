@@ -1,1 +1,1 @@
-var mnemonic = "liberty phrase citizen buyer once harsh swift napkin into rabbit aware much";
+var mnemonic = "fruit cannon window ill long lion play any verify coast angry awkward";

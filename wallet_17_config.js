@@ -1,1 +1,1 @@
-var mnemonic = "retire potato flock mind mad comfort main hidden pony page okay rival";
+var mnemonic = "circle load stairs ancient neglect party clinic neck profit farm treat lonely";

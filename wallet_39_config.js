@@ -1,1 +1,1 @@
-var mnemonic = "blood twenty call thing castle any produce same liar front reunion picnic";
+var mnemonic = "hamster must joke upgrade rice borrow faint text language general reflect zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "thought figure wink enter resemble scene donate bridge situate draw flat symptom";
+var mnemonic = "nothing emerge visit toilet burger truth coach raven loyal scatter upper before";

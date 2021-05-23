@@ -1,1 +1,1 @@
-var mnemonic = "insane saddle paper firm dinner body elite acoustic travel junk undo spray";
+var mnemonic = "energy unusual mask avocado ridge matrix usual diet garage margin spot spawn";

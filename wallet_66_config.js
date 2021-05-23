@@ -1,1 +1,1 @@
-var mnemonic = "cat blood floor supply curve original aisle home capable sick bicycle auction";
+var mnemonic = "donate toe mercy cute peace affair above sniff ticket legal add verb";

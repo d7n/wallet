@@ -1,1 +1,1 @@
-var mnemonic = "cupboard level across cube parade quiz cart net sheriff aim vanish alpha";
+var mnemonic = "fatigue claim mandate mistake nation wine daughter caught jar gaze indicate pilot";

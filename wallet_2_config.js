@@ -1,1 +1,1 @@
-var mnemonic = "coil cover alcohol pottery birth this raw despair imitate frost cage copy";
+var mnemonic = "shiver twin essence parent rack pulp priority inject chef drink swamp admit";

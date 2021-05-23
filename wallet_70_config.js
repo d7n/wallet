@@ -1,1 +1,1 @@
-var mnemonic = "joy trash ensure update page spawn stay expand double choose crazy mandate";
+var mnemonic = "harvest buffalo common humble trick reward lizard marble inhale dwarf host shield";

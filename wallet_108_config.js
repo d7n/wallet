@@ -1,1 +1,1 @@
-var mnemonic = "move damage case leg nuclear cruel school scale zebra amount bunker uniform";
+var mnemonic = "appear lunch valley home round apology dignity body liquid dilemma come combine";

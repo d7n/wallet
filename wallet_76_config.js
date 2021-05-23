@@ -1,1 +1,1 @@
-var mnemonic = "reduce pride spell swamp oil enemy volcano sustain claim air entire harbor";
+var mnemonic = "file deliver baby step apple mouse faith meat radio coin bless stem";

@@ -1,1 +1,1 @@
-var mnemonic = "smile face secret fence track clinic front elephant divorce brush ill mountain";
+var mnemonic = "grass return sad suggest clerk friend huge conduct lawsuit jazz soldier large";

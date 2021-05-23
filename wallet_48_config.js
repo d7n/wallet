@@ -1,1 +1,1 @@
-var mnemonic = "casual glad eternal correct airport cloud enroll alley leisure where coast depart";
+var mnemonic = "sister pact work hollow outside prison cook useful chuckle bone gospel remember";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy clever spot side curve cruise sport chimney cage boost correct color";
+var mnemonic = "olive odor rather work correct piece clock curtain spider wheel flat attract";
