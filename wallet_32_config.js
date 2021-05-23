@@ -1,1 +1,1 @@
-var mnemonic = "stove control finish field wait blind wide bicycle join merge will learn";
+var mnemonic = "once swallow bike ahead immense cost pull lab trouble inject chair stand";

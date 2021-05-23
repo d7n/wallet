@@ -1,1 +1,1 @@
-var mnemonic = "year bracket fiber whip mind true crowd demand regular pudding foam aunt";
+var mnemonic = "under sure today special best say sheriff key boring balcony laundry book";

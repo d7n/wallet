@@ -1,1 +1,1 @@
-var mnemonic = "garlic mom flip state hope liberty unaware shed angle trip swarm inspire";
+var mnemonic = "senior tenant tomorrow sunny enact bag industry stand disagree stage appear feed";

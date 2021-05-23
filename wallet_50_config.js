@@ -1,1 +1,1 @@
-var mnemonic = "series smile arctic siege shaft license gossip corn siren prosper deliver engine";
+var mnemonic = "sister source return join limit erosion select win win exchange hidden toast";

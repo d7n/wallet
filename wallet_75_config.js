@@ -1,1 +1,1 @@
-var mnemonic = "argue inform aerobic monkey danger clerk require fog home apology cliff ice";
+var mnemonic = "fresh also medal clay napkin damp fox mass only shy seven yard";

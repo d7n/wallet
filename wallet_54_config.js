@@ -1,1 +1,1 @@
-var mnemonic = "enroll only pottery knife disagree asset pill hen sphere sauce mercy amateur";
+var mnemonic = "noodle dismiss sting borrow cat punch reflect ugly outer cereal pupil net";

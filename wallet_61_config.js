@@ -1,1 +1,1 @@
-var mnemonic = "blue siege razor hero nominee flat exit team someone coyote truck stomach";
+var mnemonic = "laptop pledge coffee actual cube property fortune enforce boat shine marriage sweet";

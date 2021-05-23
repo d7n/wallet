@@ -1,1 +1,1 @@
-var mnemonic = "potato unfold misery system absurd rice shallow whisper over vivid desert involve";
+var mnemonic = "unusual draw artist have attract discover trophy subway omit awake office worry";

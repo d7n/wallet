@@ -1,1 +1,1 @@
-var mnemonic = "candy wait step color humor trial female color apple twelve genius reopen";
+var mnemonic = "math board palace brain mixture bargain magnet net other art project base";

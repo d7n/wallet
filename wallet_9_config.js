@@ -1,1 +1,1 @@
-var mnemonic = "ticket liar answer vacuum spoil below finish attitude maple donate bid copy";
+var mnemonic = "lunar text useful sauce car ivory mercy sorry option cactus social jewel";

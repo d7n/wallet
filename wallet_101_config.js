@@ -1,1 +1,1 @@
-var mnemonic = "party roast shadow initial capital napkin husband air imitate fringe wrist broken";
+var mnemonic = "glove tackle fiscal energy top cube state much spoil butter orphan champion";

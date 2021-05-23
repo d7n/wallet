@@ -1,1 +1,1 @@
-var mnemonic = "cost nation rent regret fence brief still ritual deliver pumpkin rival smoke";
+var mnemonic = "tube moment soap consider gadget result episode kit prize three stairs glass";

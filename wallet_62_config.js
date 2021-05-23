@@ -1,1 +1,1 @@
-var mnemonic = "drill common now toilet finish govern flip winter other pencil hurt harsh";
+var mnemonic = "neck announce segment engage offer goat combine unfair reward acid forget recycle";

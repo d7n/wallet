@@ -1,1 +1,1 @@
-var mnemonic = "boil globe champion swap opinion snake rotate rate quit apart layer vital";
+var mnemonic = "current luggage action shrimp sense merry horse give include ketchup clog gold";

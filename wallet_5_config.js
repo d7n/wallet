@@ -1,1 +1,1 @@
-var mnemonic = "either chair asset abstract laugh asset skate clock bench pave wrist olympic";
+var mnemonic = "rocket axis mask buffalo world mandate order wrestle jump cluster aisle leader";

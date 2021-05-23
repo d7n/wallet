@@ -1,1 +1,1 @@
-var mnemonic = "sort index magic buzz law middle evoke net embody oblige floor knee";
+var mnemonic = "symbol truly pill soccer tourist time amazing donkey income spell dawn buddy";

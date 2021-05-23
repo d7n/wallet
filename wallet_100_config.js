@@ -1,1 +1,1 @@
-var mnemonic = "harsh zebra manage suffer sample enrich effort addict odor hen prefer dinosaur";
+var mnemonic = "anchor embark found inject extra record crop advance coral donate tattoo only";

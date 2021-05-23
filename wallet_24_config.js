@@ -1,1 +1,1 @@
-var mnemonic = "rib father delay pen heavy hurry wheel provide blossom youth member earn";
+var mnemonic = "cheap credit monster effort memory garment reform heart such puppy rain race";

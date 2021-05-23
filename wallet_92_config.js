@@ -1,1 +1,1 @@
-var mnemonic = "ozone away stock divorce collect effort alpha sail mushroom spot cute hospital";
+var mnemonic = "elder consider drift never pact print believe priority shiver target ostrich rent";

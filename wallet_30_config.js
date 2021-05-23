@@ -1,1 +1,1 @@
-var mnemonic = "van ship charge ladder page photo during alone dumb double puzzle neutral";
+var mnemonic = "frequent economy icon onion diary portion coyote remove tobacco figure school dragon";

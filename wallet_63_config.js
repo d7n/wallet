@@ -1,1 +1,1 @@
-var mnemonic = "unable know diet garbage cereal empty box foster across name hub chimney";
+var mnemonic = "twice suggest bomb level runway remain chief hair lizard east kid away";

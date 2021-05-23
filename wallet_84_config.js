@@ -1,1 +1,1 @@
-var mnemonic = "junior notice shoe waste obscure praise paper olympic steel mistake moment true";
+var mnemonic = "item sauce cable motor scale exist gap buyer rookie casino erosion amused";

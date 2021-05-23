@@ -1,1 +1,1 @@
-var mnemonic = "buyer taste rice uphold lady cost scheme tide trim jewel minor gun";
+var mnemonic = "safe various absurd paddle sudden trouble correct miracle angle truly hurdle rice";

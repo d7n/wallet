@@ -1,1 +1,1 @@
-var mnemonic = "stairs viable token gown session cannon tobacco midnight circle salt fade cruise";
+var mnemonic = "kingdom opera emotion grid tragic myself fuel sting pioneer image spare catalog";

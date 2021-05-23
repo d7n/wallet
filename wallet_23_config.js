@@ -1,1 +1,1 @@
-var mnemonic = "inspire situate home whip between tiny purpose embark actual pyramid neglect day";
+var mnemonic = "infant square wing old tenant light seminar exist antenna town glance abandon";

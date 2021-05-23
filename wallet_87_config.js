@@ -1,1 +1,1 @@
-var mnemonic = "detail text slice gesture strike actual spice human feel panic vital lizard";
+var mnemonic = "dinner fuel flavor stem nation taxi tattoo spy taxi they bullet mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "topple cousin right velvet feed machine kid very gasp rebuild lunar pipe";
+var mnemonic = "strong heavy banner capable find ladder reunion ski divert knock more unknown";

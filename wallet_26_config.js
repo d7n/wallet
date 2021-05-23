@@ -1,1 +1,1 @@
-var mnemonic = "dignity dog intact tell rule shadow transfer dwarf barely leaf scan sail";
+var mnemonic = "symptom entire security lawn tired raccoon blame height sting gallery ensure weekend";

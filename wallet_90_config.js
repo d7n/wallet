@@ -1,1 +1,1 @@
-var mnemonic = "age board dwarf move tackle ginger almost breeze sketch vote keen moon";
+var mnemonic = "acid scrub service lucky close void twin bag kidney prosper nephew drip";

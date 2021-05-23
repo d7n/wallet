@@ -1,1 +1,1 @@
-var mnemonic = "violin museum need cave mango loop galaxy coffee company helmet endless split";
+var mnemonic = "execute scorpion follow various clutch impulse sentence sugar sing among top mix";

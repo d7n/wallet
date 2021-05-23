@@ -1,1 +1,1 @@
-var mnemonic = "convince quality figure grocery love word faint motion slot expect wreck topic";
+var mnemonic = "rule frame truly despair oxygen gain earn victory assist remember bean silk";

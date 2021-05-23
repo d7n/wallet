@@ -1,1 +1,1 @@
-var mnemonic = "habit wet else shuffle property essay shock quarter hotel peace inform spice";
+var mnemonic = "kiwi carbon skate world grunt steel super below skin tooth curve caught";

@@ -1,1 +1,1 @@
-var mnemonic = "unique monkey health inner husband strong affair maximum rack open into bonus";
+var mnemonic = "swim differ want kingdom expect citizen extend unveil sister fork slice disease";

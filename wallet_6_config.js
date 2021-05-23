@@ -1,1 +1,1 @@
-var mnemonic = "ordinary practice lunar need begin lion grace light fault avoid across describe";
+var mnemonic = "caught dinosaur art brand object curious battle unusual myself solve bounce volcano";

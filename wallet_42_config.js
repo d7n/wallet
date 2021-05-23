@@ -1,1 +1,1 @@
-var mnemonic = "magnet lady scrub else admit taste adjust goddess glove fun keep stem";
+var mnemonic = "decide gift rescue agree ensure guide pudding plug orange river rich chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "beach mad once alley network trap have blouse slight shrimp room service";
+var mnemonic = "main spoil you under layer hint tumble sting visa scrap kitchen oyster";

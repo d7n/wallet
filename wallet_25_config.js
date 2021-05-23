@@ -1,1 +1,1 @@
-var mnemonic = "disorder math addict light imitate swing draft joke alpha flash inner supreme";
+var mnemonic = "divorce merit waste indicate render spawn minor canoe animal debris helmet sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "voice history pave token public license spend pave spice whisper face earth";
+var mnemonic = "gaze actress excuse together menu absorb where off slush violin myth main";

@@ -1,1 +1,1 @@
-var mnemonic = "radio wage fly hair brisk neglect ski weekend income mix gospel more";
+var mnemonic = "pencil adult canvas exhibit salon cherry weapon filter flight regret arrange trap";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue reflect relief arm divide type weapon deputy soldier drink dance blossom";
+var mnemonic = "flush hire goddess rival grain water bind rubber zone assume copy speed";

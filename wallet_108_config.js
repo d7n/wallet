@@ -1,1 +1,1 @@
-var mnemonic = "crater average depend shell barely barely wheel decide ginger best diary decline";
+var mnemonic = "more gospel skate confirm absurd always front alter sea horse slot youth";

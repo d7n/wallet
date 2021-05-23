@@ -1,1 +1,1 @@
-var mnemonic = "barrel case bid cause syrup sting hair same nasty infant open like";
+var mnemonic = "afford ramp anxiety talk wool toy token palace element fly gold deer";

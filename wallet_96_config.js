@@ -1,1 +1,1 @@
-var mnemonic = "hamster connect village want kiwi olympic wild love soap vivid light suggest";
+var mnemonic = "uphold silent exile zero video rich vanish churn innocent color patient drift";

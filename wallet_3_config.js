@@ -1,1 +1,1 @@
-var mnemonic = "miss buyer secret another practice reject violin print sheriff faith retire nothing";
+var mnemonic = "water praise clerk search shallow gas whale wife enemy old able jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur alert column burst heavy trumpet follow simple wheel fringe cook lava";
+var mnemonic = "junior funny nurse artist shield endless cheese ribbon disorder unusual shallow venue";

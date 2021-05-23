@@ -1,1 +1,1 @@
-var mnemonic = "develop shop ensure civil cloth retreat glue sock empty love output mass";
+var mnemonic = "kidney express wedding work mammal strong afraid mistake rabbit seek dial twelve";

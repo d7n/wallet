@@ -1,1 +1,1 @@
-var mnemonic = "stereo jeans pretty bench tenant desk foil upon convince limit crew inside";
+var mnemonic = "pole easy sample vacant ten fun bounce stock cube domain pigeon century";

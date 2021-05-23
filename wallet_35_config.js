@@ -1,1 +1,1 @@
-var mnemonic = "vibrant glad near lounge record marine when blade icon flower call extra";
+var mnemonic = "shaft battle figure wide add banner clever chief travel hill immune moment";

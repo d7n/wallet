@@ -1,1 +1,1 @@
-var mnemonic = "tiger above icon eagle tank bounce portion suit firm dignity chuckle enlist";
+var mnemonic = "mushroom below attack dance word neutral twelve merry frequent expose tide wash";

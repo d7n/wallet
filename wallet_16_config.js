@@ -1,1 +1,1 @@
-var mnemonic = "bracket layer claim release hope flush bargain strong fault enable slogan brand";
+var mnemonic = "book catalog business jewel twist cram ketchup decade grain jacket offer target";

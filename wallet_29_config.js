@@ -1,1 +1,1 @@
-var mnemonic = "fun scrub insect enable device belt lesson embody digital cave account veteran";
+var mnemonic = "assist purity dilemma glance control hole hood bike pond soft oyster destroy";

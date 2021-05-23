@@ -1,1 +1,1 @@
-var mnemonic = "fish erode rule cause lab load snow sunny bitter direct sustain grunt";
+var mnemonic = "fresh random win ship pottery menu harbor cliff fossil lunch supply stage";

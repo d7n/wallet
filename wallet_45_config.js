@@ -1,1 +1,1 @@
-var mnemonic = "swallow cannon fix tank pony network guard behind door train curve girl";
+var mnemonic = "area card region toss edge kangaroo arrest prepare sorry worth torch warrior";

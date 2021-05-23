@@ -1,1 +1,1 @@
-var mnemonic = "awful crawl reject forget lawn surround impose away play nephew walk birth";
+var mnemonic = "anchor tiger moon sibling dumb abuse move stool castle enter year goddess";

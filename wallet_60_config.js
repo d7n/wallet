@@ -1,1 +1,1 @@
-var mnemonic = "bread say artefact short onion design peanut vacant inflict book second material";
+var mnemonic = "bachelor corn east air wheel output elegant ivory truth snap ball plug";

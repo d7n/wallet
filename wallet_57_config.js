@@ -1,1 +1,1 @@
-var mnemonic = "minute denial glass security trade light quality faint climb lend couch merry";
+var mnemonic = "puppy priority wolf harvest comfort joke seek border split lottery install repair";

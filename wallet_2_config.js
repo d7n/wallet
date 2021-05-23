@@ -1,1 +1,1 @@
-var mnemonic = "consider pottery wire view bacon bring throw badge discover name fix oven";
+var mnemonic = "post total example unusual dirt outer dumb tail crystal smooth senior border";

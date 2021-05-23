@@ -1,1 +1,1 @@
-var mnemonic = "six universe vote visual prosper emotion scan romance monitor finger quote story";
+var mnemonic = "prefer guess autumn universe similar swap like pride result student stereo okay";

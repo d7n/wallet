@@ -1,1 +1,1 @@
-var mnemonic = "try cause machine frame egg fix agree dial blood cliff tobacco injury";
+var mnemonic = "shell achieve solve alone patch humble rocket device destroy verify share entire";

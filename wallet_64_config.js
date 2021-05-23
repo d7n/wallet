@@ -1,1 +1,1 @@
-var mnemonic = "range adjust coconut cage caught flavor resource copy shuffle disagree polar cupboard";
+var mnemonic = "patient cost warm age pluck race have hold input pudding rhythm balcony";

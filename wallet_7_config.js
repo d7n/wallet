@@ -1,1 +1,1 @@
-var mnemonic = "toddler obey false divert close lawsuit grunt cry capital ice edit umbrella";
+var mnemonic = "paddle act rack total castle leisure board young chest work inhale blast";

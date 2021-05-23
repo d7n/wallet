@@ -1,1 +1,1 @@
-var mnemonic = "exit army harsh scheme buddy misery shuffle chief useless casual alter reduce";
+var mnemonic = "way gym vibrant aspect goat daughter black slice ostrich bright cook struggle";

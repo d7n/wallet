@@ -1,1 +1,1 @@
-var mnemonic = "print provide layer that unit monitor crop garlic ask catch exotic common";
+var mnemonic = "direct supply renew latin sorry general hollow satoshi air search myself senior";

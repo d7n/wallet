@@ -1,1 +1,1 @@
-var mnemonic = "cloud loud fan hospital great steak barrel alley whale twist tiger muscle";
+var mnemonic = "wrap history another tobacco exhibit tobacco runway this second outer debate menu";

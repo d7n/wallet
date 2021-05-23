@@ -1,1 +1,1 @@
-var mnemonic = "noodle jacket diamond guide island battle nothing attract age blood quarter enable";
+var mnemonic = "wet palm print attitude region weather innocent gate shove already image spatial";

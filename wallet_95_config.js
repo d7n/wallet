@@ -1,1 +1,1 @@
-var mnemonic = "bonus okay earn object deal slow follow blur cruise buzz above point";
+var mnemonic = "gossip enlist kiss infant dad unveil priority buyer dose filter almost bless";

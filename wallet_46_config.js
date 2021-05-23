@@ -1,1 +1,1 @@
-var mnemonic = "title walnut cake demise volcano unhappy spatial glass bless gym tank vessel";
+var mnemonic = "region solution race symptom service pelican detect field bar wish diagram tortoise";

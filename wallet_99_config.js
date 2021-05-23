@@ -1,1 +1,1 @@
-var mnemonic = "squirrel ritual amateur begin emerge protect opinion cricket arrow friend humble reject";
+var mnemonic = "place ill square clerk churn tuna mad enemy wedding blue baby airport";

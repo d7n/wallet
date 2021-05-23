@@ -1,1 +1,1 @@
-var mnemonic = "winner hub hollow return clump bulk hello drive slender warm suspect sister";
+var mnemonic = "trim book woman address immense discover lobster crack casual cost misery oxygen";

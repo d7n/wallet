@@ -1,1 +1,1 @@
-var mnemonic = "burger style black client idle crack game side clean taxi mention remind";
+var mnemonic = "doll fire put odor paper raven meat model click expect easy fancy";

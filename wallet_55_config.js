@@ -1,1 +1,1 @@
-var mnemonic = "avocado royal bag comic fancy black trial slush omit stem shell memory";
+var mnemonic = "dove immune vast across tent shield genuine train subway trash defense enter";

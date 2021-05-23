@@ -1,1 +1,1 @@
-var mnemonic = "pill punch crisp cherry sight whip simple hold never ugly six forum";
+var mnemonic = "type arrest blind tip test pill sauce filter decline silver actual save";

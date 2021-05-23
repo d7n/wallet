@@ -1,1 +1,1 @@
-var mnemonic = "spray differ walnut rapid key sand tattoo episode chronic deposit position conduct";
+var mnemonic = "web valid deny dizzy voyage grief coffee brass ask rice snake mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "note sting area purity antenna name web assist tobacco climb axis program";
+var mnemonic = "photo foil make human kitten silver save route blade axis dinosaur identify";

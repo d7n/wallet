@@ -1,1 +1,1 @@
-var mnemonic = "churn vehicle ceiling jump cream bamboo age mail winner write wreck prosper";
+var mnemonic = "castle decline cradle shoot cancel gadget weapon sleep stereo bronze dish fly";

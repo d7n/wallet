@@ -1,1 +1,1 @@
-var mnemonic = "arrest taste excess brother hour output cherry pigeon type gain harbor sniff";
+var mnemonic = "actress canyon fiber slam dumb cluster park stand guide fossil catch satisfy";

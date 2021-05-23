@@ -1,1 +1,1 @@
-var mnemonic = "payment fringe clever room fee inhale enemy quiz banner vehicle nest reflect";
+var mnemonic = "car deposit heart sniff jealous youth answer deny depart add bone level";

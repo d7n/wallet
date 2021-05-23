@@ -1,1 +1,1 @@
-var mnemonic = "spin famous where tackle oak ability real scheme alert breeze indoor better";
+var mnemonic = "behind mansion attitude law piece volume dynamic lecture room old crunch faith";

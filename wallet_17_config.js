@@ -1,1 +1,1 @@
-var mnemonic = "imitate damp bird almost view scare phone tortoise history legend ordinary evoke";
+var mnemonic = "merit bike tunnel thunder pattern absurd gauge emerge axis hollow door wisdom";

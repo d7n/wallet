@@ -1,1 +1,1 @@
-var mnemonic = "faculty effort budget skull night glance wide chalk exotic enter lottery noise";
+var mnemonic = "solve mechanic someone glow eight decline dash axis frost loop kick easily";

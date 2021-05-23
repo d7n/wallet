@@ -1,1 +1,1 @@
-var mnemonic = "pattern cinnamon twist buyer scout offer lawn double arena school enter express";
+var mnemonic = "all surprise lens penalty wrong cycle random guide way olive maid trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer explain achieve absurd moral unaware hat trick until mouse food crawl";
+var mnemonic = "super impose legend give knock puppy peace regular swamp member holiday mom";

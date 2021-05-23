@@ -1,1 +1,1 @@
-var mnemonic = "short brisk liquid bacon again patrol agent dizzy impose side evil orient";
+var mnemonic = "armed fuel fall original write gasp erosion topic decorate process tiny reduce";

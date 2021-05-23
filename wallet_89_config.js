@@ -1,1 +1,1 @@
-var mnemonic = "unusual card any artist great region shadow wink picture kidney replace dry";
+var mnemonic = "nose twenty pool aerobic stable second rookie pen casino color legal skate";

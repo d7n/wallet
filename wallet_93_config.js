@@ -1,1 +1,1 @@
-var mnemonic = "furnace window push type fresh like forest sadness pig broom horror marine";
+var mnemonic = "fly this hollow sail school practice quarter current lens blame poet barrel";

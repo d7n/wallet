@@ -1,1 +1,1 @@
-var mnemonic = "jeans hybrid ready drama say favorite gossip valve virtual all motion mouse";
+var mnemonic = "fly staff tortoise boy bind below time pupil file category mistake item";

@@ -1,1 +1,1 @@
-var mnemonic = "thing elephant swift always wave innocent half private grace asset eager slim";
+var mnemonic = "name suspect radar merry dolphin immune hire kick final twice hip genre";

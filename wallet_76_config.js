@@ -1,1 +1,1 @@
-var mnemonic = "joy tank muscle flower power eager glide range rhythm alien bunker begin";
+var mnemonic = "law stage soccer cause skill hint network pelican fossil pioneer wrestle garage";

@@ -1,1 +1,1 @@
-var mnemonic = "sure anxiety soda aware discover buddy since achieve dignity expose jaguar check";
+var mnemonic = "athlete galaxy chunk total cheese south giggle wild order adapt museum shoulder";

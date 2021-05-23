@@ -1,1 +1,1 @@
-var mnemonic = "drastic wrong fluid melt junior kid prepare media ahead setup damage drama";
+var mnemonic = "discover arrange true rude source piano lava panda mean scheme fatal crime";
