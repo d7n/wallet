@@ -1,1 +1,1 @@
-var mnemonic = "duty stumble deer yard session ignore merry item furnace bitter paper panda";
+var mnemonic = "digital razor tomorrow blur mass shallow toe siren meadow goat future tip";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer tortoise runway duty main board adjust garbage actress million month skill";
+var mnemonic = "whale hair awful quarter pool dance lake disease evolve van side audit";

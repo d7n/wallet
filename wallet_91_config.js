@@ -1,1 +1,1 @@
-var mnemonic = "eight weather order lecture vehicle trumpet riot bring harvest shrimp friend local";
+var mnemonic = "anger pact oppose climb powder force grant busy ensure giant tiny shaft";

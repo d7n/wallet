@@ -1,1 +1,1 @@
-var mnemonic = "raven relax candy private elite bacon author engage random divorce bulb blanket";
+var mnemonic = "harsh truly decide sketch noodle cereal jelly urban shoot olympic flower field";

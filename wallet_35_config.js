@@ -1,1 +1,1 @@
-var mnemonic = "tennis utility pencil boil mountain climb surge refuse merit fortune stable volcano";
+var mnemonic = "just exercise job result deposit disagree wood half nose similar brief marine";

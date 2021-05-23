@@ -1,1 +1,1 @@
-var mnemonic = "heavy century rotate base tired pool bronze chief limb junior foster parent";
+var mnemonic = "speak caught mad skate filter chase bridge tooth palm rocket north swear";

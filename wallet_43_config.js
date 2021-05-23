@@ -1,1 +1,1 @@
-var mnemonic = "uncle today profit worth coil grape raw crazy spoil nature divide diet";
+var mnemonic = "swift couple couch document rocket prevent illness ramp cave gauge adjust beauty";

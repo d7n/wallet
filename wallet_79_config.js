@@ -1,1 +1,1 @@
-var mnemonic = "width path quote quick twice hurt paper gauge pizza sorry excite lamp";
+var mnemonic = "sister harbor stadium friend price quick shop problem kitchen awesome dismiss isolate";

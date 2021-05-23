@@ -1,1 +1,1 @@
-var mnemonic = "survey cradle stem antique hip link object canal long term blanket that";
+var mnemonic = "juice bar express alien family shed flag wreck assist upset blame expire";

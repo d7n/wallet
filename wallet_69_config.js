@@ -1,1 +1,1 @@
-var mnemonic = "surprise time income jealous few embark ability joke chat fury arctic height";
+var mnemonic = "duck tower loud title token isolate cash best success riot fitness elbow";

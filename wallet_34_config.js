@@ -1,1 +1,1 @@
-var mnemonic = "apology lesson monkey quantum melt feed manual sausage antenna woman segment banner";
+var mnemonic = "orchard summer such piano general pepper simple hammer awake salmon witness hole";

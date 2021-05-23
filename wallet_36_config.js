@@ -1,1 +1,1 @@
-var mnemonic = "between artefact denial print jacket capital valid echo mention above evolve drive";
+var mnemonic = "marine wife trade forum object gesture review despair nice cluster crawl rain";

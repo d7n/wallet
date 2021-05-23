@@ -1,1 +1,1 @@
-var mnemonic = "arrow urban few large chapter trust crater decrease morning toss vacant zone";
+var mnemonic = "mass globe dune estate wedding patient piece chunk address delay medal distance";

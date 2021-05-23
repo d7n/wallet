@@ -1,1 +1,1 @@
-var mnemonic = "gossip human pass power rib cheap boss later nurse zoo kitchen smooth";
+var mnemonic = "phone believe enable calm zebra chuckle wine survey spray what alone arm";

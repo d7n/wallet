@@ -1,1 +1,1 @@
-var mnemonic = "sun indoor anxiety edit trumpet deliver inject budget bleak success aim exhaust";
+var mnemonic = "quick jazz wrong guitar miracle remind hood cute close struggle daughter stage";

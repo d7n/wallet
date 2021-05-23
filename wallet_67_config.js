@@ -1,1 +1,1 @@
-var mnemonic = "report doctor code resist unknown accuse humble convince gossip scale solar agree";
+var mnemonic = "regular ignore forget thing science candy axis toilet shy sibling display canyon";

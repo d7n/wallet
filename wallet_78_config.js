@@ -1,1 +1,1 @@
-var mnemonic = "process news board exchange smoke poem raven destroy gossip misery ranch hip";
+var mnemonic = "hamster rifle object win decline joy bounce enable chef buyer basket blanket";

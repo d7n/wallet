@@ -1,1 +1,1 @@
-var mnemonic = "dwarf raccoon front guard wine protect comfort critic small robust huge detect";
+var mnemonic = "forget depend wall tone forest edit metal cool subway weird average parrot";

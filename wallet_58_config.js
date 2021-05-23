@@ -1,1 +1,1 @@
-var mnemonic = "space ginger never flock gossip age crack mother forest extend stumble target";
+var mnemonic = "spread truly collect glimpse simple early search color enact ribbon eight heavy";

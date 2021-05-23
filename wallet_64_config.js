@@ -1,1 +1,1 @@
-var mnemonic = "strike member enlist skin rather reflect dune seek quantum crouch reveal pledge";
+var mnemonic = "gossip hen grocery recall judge riot case live soccer upset phrase vote";

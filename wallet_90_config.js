@@ -1,1 +1,1 @@
-var mnemonic = "uncle giant sort often two solution rubber roof face avoid cradle demand";
+var mnemonic = "north mother orbit inform name vivid quarter sentence system lawsuit glare slender";

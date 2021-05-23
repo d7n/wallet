@@ -1,1 +1,1 @@
-var mnemonic = "twice check inmate ball under pause know valley giggle equip acoustic ranch";
+var mnemonic = "alter game skull sibling liberty better success slender element brain rocket goat";

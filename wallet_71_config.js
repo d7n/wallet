@@ -1,1 +1,1 @@
-var mnemonic = "sudden math when quality found cabin gun royal oval key axis card";
+var mnemonic = "guard lava type sunny birth garden expand enemy height stool like hurt";

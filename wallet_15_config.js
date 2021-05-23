@@ -1,1 +1,1 @@
-var mnemonic = "reform cement naive future song reward vocal floor kingdom nose resource unusual";
+var mnemonic = "lawn there duty edit this unaware tip fold today mechanic hurt movie";

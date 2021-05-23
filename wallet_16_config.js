@@ -1,1 +1,1 @@
-var mnemonic = "option pudding world thrive science move humor corn benefit slab coin jump";
+var mnemonic = "census develop hour rack ivory effort worry brother calm oxygen wife goddess";

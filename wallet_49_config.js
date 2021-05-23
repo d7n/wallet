@@ -1,1 +1,1 @@
-var mnemonic = "gorilla quiz economy fish screen reward violin believe glide kidney spot video";
+var mnemonic = "city always jealous valid connect husband engine antique member dinner raven must";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney cereal current alarm magnet fortune decide dignity arrow lawsuit episode size";
+var mnemonic = "produce jar level payment notice reveal submit journey result orange butter toward";

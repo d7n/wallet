@@ -1,1 +1,1 @@
-var mnemonic = "short hazard fringe urban brush daughter cousin clean brand build rate mixture";
+var mnemonic = "climb audit world crop suit twin duck liar hour december radar duck";

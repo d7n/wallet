@@ -1,1 +1,1 @@
-var mnemonic = "cycle apple skate shiver program hope siege animal jaguar despair sniff chapter";
+var mnemonic = "section garlic ladder habit argue spin topple crowd dice couple unit ice";

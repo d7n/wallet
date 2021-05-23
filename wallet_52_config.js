@@ -1,1 +1,1 @@
-var mnemonic = "fly afford ship brave unknown sample sample belt key check depend stomach";
+var mnemonic = "duck wing method inject drift public group regret swim giraffe fiber tray";

@@ -1,1 +1,1 @@
-var mnemonic = "fine try approve ranch garbage choice submit snake net favorite elder traffic";
+var mnemonic = "describe retreat hole dog between they elbow cereal girl city mushroom library";

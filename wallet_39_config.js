@@ -1,1 +1,1 @@
-var mnemonic = "enforce love blush twist foster wide exist type expect destroy moment clap";
+var mnemonic = "floor old job extend acid strike random hobby slot bubble prefer error";

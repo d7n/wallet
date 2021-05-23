@@ -1,1 +1,1 @@
-var mnemonic = "chronic cactus opera subject flat explain female major office buffalo order allow";
+var mnemonic = "volcano person universe kiss stamp glove scale jump ticket giant juice give";

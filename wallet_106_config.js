@@ -1,1 +1,1 @@
-var mnemonic = "solve below six sniff often wear insect trap swing mention later filter";
+var mnemonic = "open monitor grit glow design fame copy often assist soap wise act";

@@ -1,1 +1,1 @@
-var mnemonic = "giant impact define miracle border comfort order erupt okay alarm again spin";
+var mnemonic = "whale atom ride chase unfold never bottom fortune bridge stool uniform hole";

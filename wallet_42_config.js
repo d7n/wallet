@@ -1,1 +1,1 @@
-var mnemonic = "eager deliver kitchen cart victory burden exclude warm warrior exclude foot seek";
+var mnemonic = "tank advice mother virtual globe load case eager mad captain payment cereal";

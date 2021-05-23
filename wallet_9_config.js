@@ -1,1 +1,1 @@
-var mnemonic = "zebra tenant humble palace such energy potato milk tuition economy innocent window";
+var mnemonic = "mask nothing banana zero code bachelor tenant twin layer awesome gaze frown";

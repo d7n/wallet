@@ -1,1 +1,1 @@
-var mnemonic = "space artwork timber bid benefit toy cheap proof suggest hill loyal pole";
+var mnemonic = "prefer donkey license core hundred judge brass neck visit local sausage river";

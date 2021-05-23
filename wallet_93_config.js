@@ -1,1 +1,1 @@
-var mnemonic = "first avoid tail december armor six sight shoot arrive quality ordinary roast";
+var mnemonic = "hungry twenty taxi genuine habit patrol horror spawn critic month actual announce";

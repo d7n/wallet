@@ -1,1 +1,1 @@
-var mnemonic = "soup scissors science smart phrase also kick short report circle heavy surprise";
+var mnemonic = "cruel planet depth hair relax hazard spoon pear start false hybrid silent";

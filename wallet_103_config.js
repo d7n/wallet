@@ -1,1 +1,1 @@
-var mnemonic = "firm spell reveal scheme onion adult enact cheap genius crack away behave";
+var mnemonic = "upgrade blame person hospital nuclear soccer text address other ancient ginger purchase";

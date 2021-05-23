@@ -1,1 +1,1 @@
-var mnemonic = "kiss feed cable inform universe tennis season leave tank avocado ketchup figure";
+var mnemonic = "assist manage salute burger scrap thumb humor struggle toward exhibit planet boring";

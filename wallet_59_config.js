@@ -1,1 +1,1 @@
-var mnemonic = "youth shed disorder shrimp float oven evolve enjoy muscle brand breeze soccer";
+var mnemonic = "enter discover tower riot lawn sauce planet tail employ squirrel toy lunar";

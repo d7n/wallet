@@ -1,1 +1,1 @@
-var mnemonic = "predict light glow dish drip hope develop inflict expect kick fade lake";
+var mnemonic = "unfair vivid either pitch tomorrow front prefer regret deliver choice seek silk";

@@ -1,1 +1,1 @@
-var mnemonic = "timber twist august camp clutch team attitude strong salute bitter gym cereal";
+var mnemonic = "aspect donkey quality culture vacuum feature wing myth illness settle steel coconut";

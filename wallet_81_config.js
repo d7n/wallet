@@ -1,1 +1,1 @@
-var mnemonic = "bag physical deer time sail parade bike giggle pulse capable stamp couple";
+var mnemonic = "used logic wild broccoli zone pond autumn dawn debris trip food float";

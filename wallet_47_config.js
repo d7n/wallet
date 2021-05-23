@@ -1,1 +1,1 @@
-var mnemonic = "brush into east because valley exercise turkey engine bless wood cloth scrap";
+var mnemonic = "ability weather wheat eyebrow tomorrow ankle upset excuse mushroom people find aspect";

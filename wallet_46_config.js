@@ -1,1 +1,1 @@
-var mnemonic = "noise chimney brave merit title gym document grass bar sample joy income";
+var mnemonic = "notice middle hero hurdle ball island inch edge tiny walnut buzz talent";

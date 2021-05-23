@@ -1,1 +1,1 @@
-var mnemonic = "achieve friend culture broccoli common daughter riot idle genius orange believe sausage";
+var mnemonic = "curious salute want door saddle point vibrant easily hire ugly fan bottom";

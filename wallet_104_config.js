@@ -1,1 +1,1 @@
-var mnemonic = "accuse rich stage belt flat galaxy chimney sniff auction snack expect engage";
+var mnemonic = "income crowd coin asset riot melt scout angle mountain reason vacuum midnight";

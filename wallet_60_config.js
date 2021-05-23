@@ -1,1 +1,1 @@
-var mnemonic = "bless surface august tumble special same art state slice exclude enable remain";
+var mnemonic = "tube health skin used latin exact moment music clarify candy run job";

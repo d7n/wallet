@@ -1,1 +1,1 @@
-var mnemonic = "brain bean better dutch embark message clean atom pattern coral acid wonder";
+var mnemonic = "business exit argue injury uniform awake habit brother mention oppose session skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito smile left expose guide onion wine uncover effort ostrich clump hammer";
+var mnemonic = "copper round tennis album scene desert air toast vessel palm uncle capital";

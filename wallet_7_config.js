@@ -1,1 +1,1 @@
-var mnemonic = "weird electric size minor excess nuclear air rubber degree focus reveal six";
+var mnemonic = "laugh cotton long heavy pulp drift rule cable rabbit muffin talk pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "salon much accident timber paddle layer senior fluid spread gospel camp humor";
+var mnemonic = "rich shell visit patient off usual link puppy office river monster slab";

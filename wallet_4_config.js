@@ -1,1 +1,1 @@
-var mnemonic = "title nose tube finger valve leg sun gentle relief fall dry palm";
+var mnemonic = "aware mail parent penalty vital analyst language series valve planet strong height";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal body forget bag spray domain order soft beauty machine race trophy";
+var mnemonic = "mansion firm pigeon stumble allow custom treat nurse raise stem jacket equip";

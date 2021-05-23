@@ -1,1 +1,1 @@
-var mnemonic = "extend fat crisp trust fortune access history dumb solar spoil spice spawn";
+var mnemonic = "uniform saddle example soldier student release trim soon picnic object night crime";

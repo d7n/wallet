@@ -1,1 +1,1 @@
-var mnemonic = "isolate huge wrap prepare congress chat nose churn good appear game mammal";
+var mnemonic = "across under rally solar spot edge action manage thunder rack bacon onion";

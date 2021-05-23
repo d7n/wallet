@@ -1,1 +1,1 @@
-var mnemonic = "age umbrella market lunar girl prison arena board merit half tube early";
+var mnemonic = "surprise resource legend violin tackle hunt spray choice cricket clinic clump twin";

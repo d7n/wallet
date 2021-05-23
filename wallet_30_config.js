@@ -1,1 +1,1 @@
-var mnemonic = "basic winter meadow peasant spring bench onion analyst team ring lady west";
+var mnemonic = "ethics ordinary harbor trade describe diary finger govern slush excite water tiny";

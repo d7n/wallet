@@ -1,1 +1,1 @@
-var mnemonic = "feel verb spider file flame churn conduct weekend flame table enact quote";
+var mnemonic = "river wool nominee acid double turn risk glimpse path artwork auto airport";

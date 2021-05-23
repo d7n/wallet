@@ -1,1 +1,1 @@
-var mnemonic = "push dove skill jazz peasant local prepare capital purchase excite climb cannon";
+var mnemonic = "festival gain best grape stem update dismiss away name east resemble vendor";

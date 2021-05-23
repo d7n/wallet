@@ -1,1 +1,1 @@
-var mnemonic = "street torch suspect slush detect fuel grape gentle drip share glance match";
+var mnemonic = "burst right until muscle across anxiety lucky dial parent use mean limb";

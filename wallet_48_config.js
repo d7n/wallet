@@ -1,1 +1,1 @@
-var mnemonic = "inspire turn bike pencil winner sand work key outdoor arena uphold easily";
+var mnemonic = "video miss test feed sphere address coast mango brother error pitch wool";

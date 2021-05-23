@@ -1,1 +1,1 @@
-var mnemonic = "north jewel art advance alone trade radio invest vault theory this found";
+var mnemonic = "couch auto comic prosper distance have jungle omit service rebuild peace tape";

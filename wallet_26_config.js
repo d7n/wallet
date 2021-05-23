@@ -1,1 +1,1 @@
-var mnemonic = "payment wink river giant innocent chaos monkey health canoe farm consider join";
+var mnemonic = "grant when pigeon occur cradle thank emerge confirm lady pattern earn tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "country trust grit hurry popular early away liar wonder cruise stereo enact";
+var mnemonic = "just genuine toilet derive evil guess cute priority tunnel sight crisp knee";

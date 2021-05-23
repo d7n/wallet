@@ -1,1 +1,1 @@
-var mnemonic = "jazz bone father employ frame later enroll stumble stage decrease milk arctic";
+var mnemonic = "order gym betray accuse sleep tube hundred moral country fall arrive magnet";

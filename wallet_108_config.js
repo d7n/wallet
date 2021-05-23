@@ -1,1 +1,1 @@
-var mnemonic = "battle siren service gospel smart spatial fiber cross nest forum offer donkey";
+var mnemonic = "rival rail focus enemy innocent tip across want student holiday promote arrange";

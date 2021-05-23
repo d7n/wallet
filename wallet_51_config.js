@@ -1,1 +1,1 @@
-var mnemonic = "cook load motor fault video squirrel soul buyer sport garden business enjoy";
+var mnemonic = "vintage unusual lift allow early improve eternal trigger crunch vibrant napkin exhaust";

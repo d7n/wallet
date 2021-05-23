@@ -1,1 +1,1 @@
-var mnemonic = "room ticket miracle clever knee icon safe raw indicate proud donate nice";
+var mnemonic = "often endless skate trade lottery scrap appear base spy antique shoulder increase";

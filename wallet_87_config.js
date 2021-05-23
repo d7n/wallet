@@ -1,1 +1,1 @@
-var mnemonic = "enlist limit coyote pudding report quantum month arrest usage noise upper six";
+var mnemonic = "supply plug round electric deer jump famous design rule resemble vital grape";

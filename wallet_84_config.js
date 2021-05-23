@@ -1,1 +1,1 @@
-var mnemonic = "say ignore use echo denial wage scare clever deliver hour rabbit ocean";
+var mnemonic = "time noodle armed boss desk false echo transfer coin indicate plate top";

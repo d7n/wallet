@@ -1,1 +1,1 @@
-var mnemonic = "arrest raccoon rubber ugly bitter whale rich once wink pet coach siren";
+var mnemonic = "twelve damp year mansion crunch atom lake rack ugly laptop forum age";

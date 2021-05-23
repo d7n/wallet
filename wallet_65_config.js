@@ -1,1 +1,1 @@
-var mnemonic = "furnace snake rent boil kitchen price brother pill mixture profit student mass";
+var mnemonic = "beyond among flame voyage cruel steak life olive retreat crime crowd wine";

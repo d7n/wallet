@@ -1,1 +1,1 @@
-var mnemonic = "letter era rhythm bread mansion maple gym keep bulk soldier raccoon tone";
+var mnemonic = "immune umbrella vocal shuffle tennis dry photo example order snake arrest gain";

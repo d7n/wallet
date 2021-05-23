@@ -1,1 +1,1 @@
-var mnemonic = "essence gloom van blind denial busy gorilla guilt injury eyebrow laundry nerve";
+var mnemonic = "gap fabric inflict another shaft supply mix anxiety vessel swift civil salon";

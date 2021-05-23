@@ -1,1 +1,1 @@
-var mnemonic = "render member rally miss exile boring pill major sting maple vintage swear";
+var mnemonic = "cement cycle glide adapt cement ensure amused proof unlock solve worry sausage";

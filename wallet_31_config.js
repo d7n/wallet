@@ -1,1 +1,1 @@
-var mnemonic = "level object enough melt across virtual wire glare spot primary race climb";
+var mnemonic = "work jaguar tortoise bulb type globe entire wealth table icon erosion antenna";

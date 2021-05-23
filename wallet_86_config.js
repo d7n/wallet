@@ -1,1 +1,1 @@
-var mnemonic = "gap powder biology run attitude obvious boss raw elder upper library wrist";
+var mnemonic = "bid please into sun cause author verb shoot fly elder sweet kiss";

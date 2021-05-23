@@ -1,1 +1,1 @@
-var mnemonic = "cherry satisfy escape food drastic fault anger depend smoke arch retreat bird";
+var mnemonic = "target fault jaguar prepare regret tilt drum profit parent rely upset render";

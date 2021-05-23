@@ -1,1 +1,1 @@
-var mnemonic = "minute holiday network dry skull speak mistake family delay vehicle shuffle provide";
+var mnemonic = "regular steel furnace badge paddle minor misery forest journey awful movie foster";

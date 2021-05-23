@@ -1,1 +1,1 @@
-var mnemonic = "attract course drum canyon toast position diagram wool toe deposit magic rookie";
+var mnemonic = "float cruel basket vacuum scan unaware elevator rhythm pond name concert seminar";

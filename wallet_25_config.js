@@ -1,1 +1,1 @@
-var mnemonic = "glide blouse guard kite direct news follow exercise empty venue return flower";
+var mnemonic = "fish zoo sunny steel diet plunge clog rack major horror praise fuel";

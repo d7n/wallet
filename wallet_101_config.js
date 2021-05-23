@@ -1,1 +1,1 @@
-var mnemonic = "congress latin main video ticket combine velvet flavor candy sound village valley";
+var mnemonic = "horror song lake junior jelly exact spray outdoor town rocket bean lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp clock nerve disagree poem relief bulk sauce strike live confirm plastic";
+var mnemonic = "dumb brick uphold verify match polar piano federal afford bulk high spell";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow struggle design come family clown calm interest mass elite hope lift";
+var mnemonic = "print night margin they birth prison fee exclude initial frozen key strike";

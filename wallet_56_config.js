@@ -1,1 +1,1 @@
-var mnemonic = "panic warrior lock quality tortoise harbor glance child bid false token coffee";
+var mnemonic = "ignore year peace begin oil fish insane shallow swallow achieve police flag";

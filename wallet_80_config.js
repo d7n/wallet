@@ -1,1 +1,1 @@
-var mnemonic = "home remind treat crawl shiver loop verify outdoor test cigar hazard news";
+var mnemonic = "bottom draft grow there dad basic test switch pond frog battle truck";

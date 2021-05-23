@@ -1,1 +1,1 @@
-var mnemonic = "interest lunar mushroom capable fox critic column elevator inflict allow load casual";
+var mnemonic = "utility salon whip flight lemon tribe problem clean raw bitter same permit";

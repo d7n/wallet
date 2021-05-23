@@ -1,1 +1,1 @@
-var mnemonic = "twin element gadget sample talent moon birth initial inside you poet lift";
+var mnemonic = "wage crane mixed brother crop hip effort quantum lake rabbit phone element";

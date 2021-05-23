@@ -1,1 +1,1 @@
-var mnemonic = "indicate put purchase service cruise torch diamond giraffe flavor quit slow rule";
+var mnemonic = "oblige engine naive extend corn cabin cancel apart one fame pig garlic";
