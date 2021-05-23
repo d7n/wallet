@@ -1,1 +1,1 @@
-var mnemonic = "bargain exhibit nerve nothing submit dizzy stairs ignore opera stairs ring kiss";
+var mnemonic = "people engine always siege favorite concert dove window early spring supreme option";

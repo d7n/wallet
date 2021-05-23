@@ -1,1 +1,1 @@
-var mnemonic = "gain focus frame soon inhale skin own gather coast force delay sword";
+var mnemonic = "ghost party choice ready metal carpet camera envelope version frost erase distance";

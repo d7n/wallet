@@ -1,1 +1,1 @@
-var mnemonic = "category rescue boil flower payment melody tone junior crowd obtain wisdom cactus";
+var mnemonic = "similar advance fashion night float early machine slogan loyal verify moon pretty";

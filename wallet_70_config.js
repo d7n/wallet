@@ -1,1 +1,1 @@
-var mnemonic = "fringe immune hollow orange doctor portion finger fiber bomb glow various symbol";
+var mnemonic = "civil rack build phone pole chief elevator flavor still wisdom member express";

@@ -1,1 +1,1 @@
-var mnemonic = "evil rate wink top machine cruise asset property depend vital few dolphin";
+var mnemonic = "pony border outdoor reject source stay father proof obey crystal tribe develop";

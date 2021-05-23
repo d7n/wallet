@@ -1,1 +1,1 @@
-var mnemonic = "bargain end dove bone they predict pear network bunker armor similar vibrant";
+var mnemonic = "prefer gown crop over design viable chalk gym night stay surge struggle";

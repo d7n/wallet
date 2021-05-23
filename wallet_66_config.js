@@ -1,1 +1,1 @@
-var mnemonic = "expire hollow ramp energy exchange analyst scrap move virtual rely modify quality";
+var mnemonic = "puzzle buyer moon relax recipe twist prefer length curtain screen great link";

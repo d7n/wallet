@@ -1,1 +1,1 @@
-var mnemonic = "calm crop easily human keep entry vanish absent assume remain spring wave";
+var mnemonic = "chicken carbon pool celery topple combine very thumb prepare pause wood alien";

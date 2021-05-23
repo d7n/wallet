@@ -1,1 +1,1 @@
-var mnemonic = "nasty fantasy weather dolphin faculty avoid clever rebuild access earn nurse slab";
+var mnemonic = "document garden distance tourist smart elephant guard soft twist magic legal glove";

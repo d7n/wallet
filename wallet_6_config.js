@@ -1,1 +1,1 @@
-var mnemonic = "custom angle venue maid enter review effort cattle hungry burst weather trial";
+var mnemonic = "glide stem grass area ostrich purpose stay entry rich rich zone bean";

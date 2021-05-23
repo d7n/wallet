@@ -1,1 +1,1 @@
-var mnemonic = "upset extra monitor waste pyramid merge want onion indicate tissue axis thank";
+var mnemonic = "purchase broom upper tired laundry call festival vague egg now patient clutch";

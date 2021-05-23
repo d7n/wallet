@@ -1,1 +1,1 @@
-var mnemonic = "sheriff best inmate defense wide dinosaur math toddler couch intact spring hill";
+var mnemonic = "horse myself opinion caution service real guilt lawn chalk achieve wet tail";

@@ -1,1 +1,1 @@
-var mnemonic = "discover brisk bread when demand april faith slender evil camp husband clerk";
+var mnemonic = "rescue top nothing fee fame mansion local impose aware lobster city broken";

@@ -1,1 +1,1 @@
-var mnemonic = "pave crumble upon clarify shiver ranch heavy vague lonely twenty illegal ring";
+var mnemonic = "junior swift general trust lonely file island elder seminar yard tourist digital";

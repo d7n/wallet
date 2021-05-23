@@ -1,1 +1,1 @@
-var mnemonic = "master art word muffin venture veteran toast opera rival remind kite motor";
+var mnemonic = "unable auction snow receive castle relief retire receive salmon crisp system ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "service large bag praise math bottom wrestle crater cabbage gossip neutral obtain";
+var mnemonic = "cabbage wise net defense lawn gown dawn stable party memory blind fiscal";

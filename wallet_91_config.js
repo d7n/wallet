@@ -1,1 +1,1 @@
-var mnemonic = "mask tiny cliff canyon oxygen north tumble love fury suspect error endorse";
+var mnemonic = "letter hospital donkey day bless bench borrow embark come vessel moment stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "visit virus pulse range copper still farm regret face bright quick wire";
+var mnemonic = "pretty doll lounge invite please collect supreme copper labor mosquito price clarify";

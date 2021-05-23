@@ -1,1 +1,1 @@
-var mnemonic = "sell remember stuff favorite flower laugh vault noble title barrel tide success";
+var mnemonic = "soup awful tennis patient more chair refuse mixed hold poverty friend happy";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter pen quiz elevator boy absent twenty picture execute seminar road orbit";
+var mnemonic = "tumble organ sleep helmet liar benefit group noble correct ask wisdom attack";

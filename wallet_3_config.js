@@ -1,1 +1,1 @@
-var mnemonic = "tent pattern alley limb clever popular matter trouble race ball essence arrest";
+var mnemonic = "uniform cherry butter begin custom deposit jealous ripple paper school crush resemble";

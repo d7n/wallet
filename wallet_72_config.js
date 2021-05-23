@@ -1,1 +1,1 @@
-var mnemonic = "spirit dumb bird secret mercy home economy rebel nephew spell quiz priority";
+var mnemonic = "february sand puzzle gas source chapter jar urge barrel donkey flame power";

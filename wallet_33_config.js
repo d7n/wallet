@@ -1,1 +1,1 @@
-var mnemonic = "twelve payment merge bleak ivory loop furnace track estate rose casual kite";
+var mnemonic = "cool good mirror turn barely acoustic lounge web distance crunch winner celery";

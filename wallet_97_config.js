@@ -1,1 +1,1 @@
-var mnemonic = "cotton curious host process ability truck useless hospital educate view faint battle";
+var mnemonic = "van blast spider sword once cabin step rely wealth fringe tunnel scare";

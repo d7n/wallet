@@ -1,1 +1,1 @@
-var mnemonic = "magnet polar panel before tooth air amazing detect mansion turn bomb improve";
+var mnemonic = "spoil visual elder someone alter start catch begin scrub nest moon caught";

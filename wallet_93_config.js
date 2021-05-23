@@ -1,1 +1,1 @@
-var mnemonic = "layer cancel scheme clean sudden page stuff violin snack used fashion garden";
+var mnemonic = "change want inmate junk tell capital tonight erosion solve spike list rent";

@@ -1,1 +1,1 @@
-var mnemonic = "fly flush protect cat tiger blanket wonder reform actor conduct series dream";
+var mnemonic = "voice lamp fabric parade answer grit fatal street arm candy casino hour";

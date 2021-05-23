@@ -1,1 +1,1 @@
-var mnemonic = "nest shift piece print clump myself maid frown slush napkin hire brother";
+var mnemonic = "stamp face hood course shuffle universe strategy inside siren middle feed parade";

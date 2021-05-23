@@ -1,1 +1,1 @@
-var mnemonic = "project dismiss gorilla permit cliff utility stock drive roast search fantasy inquiry";
+var mnemonic = "stadium run absorb mercy miss record confirm village airport punch bring trend";

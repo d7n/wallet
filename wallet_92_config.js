@@ -1,1 +1,1 @@
-var mnemonic = "lobster mountain talk bomb pond because lobster sun ramp blame frame foam";
+var mnemonic = "cloud tank oxygen vehicle belt access junior alien couple remind idea aware";

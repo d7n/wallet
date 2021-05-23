@@ -1,1 +1,1 @@
-var mnemonic = "kidney young lucky online loyal inherit urban bind domain melt crew lion";
+var mnemonic = "absorb rib awesome attitude visual interest radar intact cruise caught laundry latin";

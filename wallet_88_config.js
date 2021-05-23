@@ -1,1 +1,1 @@
-var mnemonic = "balance business movie pull leisure primary urban hurdle beauty area harbor cry";
+var mnemonic = "entire today struggle oval purse waste exchange snack alter chronic little federal";

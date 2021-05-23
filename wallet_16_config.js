@@ -1,1 +1,1 @@
-var mnemonic = "flat feed onion prepare stable minor sick avoid typical brave couple culture";
+var mnemonic = "poem belt found valid slot safe attract cruel guitar orchard among clock";

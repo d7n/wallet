@@ -1,1 +1,1 @@
-var mnemonic = "capable helmet claw news sail fury exotic effort crack spring horn reject";
+var mnemonic = "dose pizza cruise ordinary firm network trumpet screen dial over puppy fault";

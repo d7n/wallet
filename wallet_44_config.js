@@ -1,1 +1,1 @@
-var mnemonic = "dismiss defense alarm method mixed whale chronic depend crash view arrest reject";
+var mnemonic = "february blouse please addict total language shiver doctor rich hospital rose melody";

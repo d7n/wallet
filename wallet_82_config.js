@@ -1,1 +1,1 @@
-var mnemonic = "wash ordinary best crouch cat hair garment surprise betray problem middle depth";
+var mnemonic = "photo skill gossip fabric margin never target royal fix stamp save churn";

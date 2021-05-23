@@ -1,1 +1,1 @@
-var mnemonic = "bind peanut ankle guilt asset shop now define layer legal ridge armed";
+var mnemonic = "radio repair awesome sign scrub panda photo usual board strike upper true";

@@ -1,1 +1,1 @@
-var mnemonic = "hole private crumble zone learn frame van advice brother mercy kangaroo outside";
+var mnemonic = "captain erupt mesh donkey tone adult faith home engine coast mail author";

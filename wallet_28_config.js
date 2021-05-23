@@ -1,1 +1,1 @@
-var mnemonic = "elite shoe sheriff park zone oxygen negative style syrup adapt fish rely";
+var mnemonic = "pole sustain frog expose label verb hobby thing vanish slim oil host";

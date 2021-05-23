@@ -1,1 +1,1 @@
-var mnemonic = "merge okay crush load rough affair horse foot crowd ranch glory solve";
+var mnemonic = "orchard safe rabbit pluck dinosaur knife plate divide soul good suffer legend";

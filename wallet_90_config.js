@@ -1,1 +1,1 @@
-var mnemonic = "motion flavor gas shoulder theme bus put text veteran devote traffic return";
+var mnemonic = "crash twice eternal book win solid heavy echo famous holiday sibling unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "staff flag ribbon despair truly able proud utility isolate include snow camp";
+var mnemonic = "color rotate slice zoo afraid castle goose duck shaft attitude unfair monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "mad chat shadow border shuffle hawk endorse warfare brother room robust doll";
+var mnemonic = "hen destroy demand weasel mimic clip disagree gorilla dignity position sudden stuff";

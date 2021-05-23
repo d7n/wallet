@@ -1,1 +1,1 @@
-var mnemonic = "witness panel together immense mango grocery pistol whip tank actual cable dust";
+var mnemonic = "dish device rural raven arrest spray name people health nerve favorite food";

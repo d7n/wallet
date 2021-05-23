@@ -1,1 +1,1 @@
-var mnemonic = "flame clap rare box ill sphere small idea absorb plunge devote weasel";
+var mnemonic = "grant slight dream enemy curtain tone coach alcohol proud term cargo notice";

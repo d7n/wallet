@@ -1,1 +1,1 @@
-var mnemonic = "knife silver point arctic rib credit carry educate silk ethics crazy decline";
+var mnemonic = "curtain essence female action job short mercy card device panda leaf account";

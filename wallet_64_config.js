@@ -1,1 +1,1 @@
-var mnemonic = "demise crop social aspect snow super skull tag anxiety record virus rebuild";
+var mnemonic = "into situate refuse result awful clever monster fringe sponsor describe hat victory";

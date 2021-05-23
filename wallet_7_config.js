@@ -1,1 +1,1 @@
-var mnemonic = "treat image sugar close dance parent rather vibrant combine better nasty stem";
+var mnemonic = "whale fitness swear result ankle child robot trust hobby fit satisfy album";

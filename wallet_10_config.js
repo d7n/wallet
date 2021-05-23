@@ -1,1 +1,1 @@
-var mnemonic = "snack slow absorb recipe castle leader topic stool private festival parade sustain";
+var mnemonic = "solar minimum nothing edge rival fiscal cliff slogan crime health small uncover";

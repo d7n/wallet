@@ -1,1 +1,1 @@
-var mnemonic = "million increase shell mercy uncle guilt frequent debris rubber once drama general";
+var mnemonic = "avocado genius raise chief there ecology away sibling badge item hamster dish";

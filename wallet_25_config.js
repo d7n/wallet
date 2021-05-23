@@ -1,1 +1,1 @@
-var mnemonic = "source remove nominee volcano release blush onion normal sock elite ancient creek";
+var mnemonic = "phrase tomorrow copy surface cereal wedding opinion host iron visual excite cargo";

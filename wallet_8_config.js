@@ -1,1 +1,1 @@
-var mnemonic = "useless muscle grid silent assist cabin dignity donor lift crane whale cat";
+var mnemonic = "hawk goddess tree butter toy praise involve dwarf crystal gun under master";

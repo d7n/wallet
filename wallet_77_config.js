@@ -1,1 +1,1 @@
-var mnemonic = "enact zoo possible young brief loyal tomorrow fault galaxy throw tiger still";
+var mnemonic = "ketchup stadium spring purity buyer owner strike current laugh express chief price";

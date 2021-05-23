@@ -1,1 +1,1 @@
-var mnemonic = "pet erupt elder sudden scan weekend slender rally access prize any sugar";
+var mnemonic = "shrimp three screen cliff antique eight swear recall gorilla cinnamon primary audit";

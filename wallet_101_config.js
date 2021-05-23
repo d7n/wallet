@@ -1,1 +1,1 @@
-var mnemonic = "cradle million rebuild sail orient trash fog style sea situate romance myself";
+var mnemonic = "cactus marine aisle session office swear foam remind enhance trip fossil way";

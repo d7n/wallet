@@ -1,1 +1,1 @@
-var mnemonic = "body jealous bless horse consider used tomato palm admit point pet universe";
+var mnemonic = "puppy unique soul music cram sound rookie dutch prevent next basket fuel";

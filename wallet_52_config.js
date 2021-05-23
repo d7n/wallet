@@ -1,1 +1,1 @@
-var mnemonic = "chunk tail vocal rib rose tag road giant inhale kitten add engine";
+var mnemonic = "danger spice hurt oval cool ugly thumb resemble view blush digital gossip";

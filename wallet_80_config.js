@@ -1,1 +1,1 @@
-var mnemonic = "chimney boring ready manual kiss crystal comfort cream door tomato define tip";
+var mnemonic = "prepare grit panther march acquire steak secret thought tower tank cannon churn";

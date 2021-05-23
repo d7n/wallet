@@ -1,1 +1,1 @@
-var mnemonic = "story insane nation devote digital spatial stool hover inherit bicycle hover side";
+var mnemonic = "romance illness address heart resemble host solar fun code grass broccoli giggle";

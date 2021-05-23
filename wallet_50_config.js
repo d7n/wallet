@@ -1,1 +1,1 @@
-var mnemonic = "extra forget figure monster icon physical logic pull tip work friend rug";
+var mnemonic = "network reduce sentence current cabin record involve uphold polar man ball animal";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse upset hawk horn river say stuff topple grief museum amused place";
+var mnemonic = "rhythm nurse dry tunnel coffee brand melt stomach object prepare girl aware";

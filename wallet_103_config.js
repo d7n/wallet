@@ -1,1 +1,1 @@
-var mnemonic = "tonight mean still demise world arctic silent volume genuine increase leopard push";
+var mnemonic = "peasant raise symptom lesson awful color hedgehog fame empower render card pair";

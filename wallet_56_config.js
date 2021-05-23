@@ -1,1 +1,1 @@
-var mnemonic = "tube vanish army spring taste banner this okay afford border regular throw";
+var mnemonic = "hidden version girl decorate clap kick soap obvious crumble program multiply bid";

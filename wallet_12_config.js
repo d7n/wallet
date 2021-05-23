@@ -1,1 +1,1 @@
-var mnemonic = "segment burger silver battle opera spice venture stove shaft woman scare lock";
+var mnemonic = "focus medal truck opinion sauce gesture cluster stairs segment hotel express gate";

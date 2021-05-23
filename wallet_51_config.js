@@ -1,1 +1,1 @@
-var mnemonic = "hen gather off elbow turn copy leg nothing warm dune nominee volume";
+var mnemonic = "used joy stairs involve school season swear trend grit gold brief pattern";

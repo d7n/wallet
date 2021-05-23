@@ -1,1 +1,1 @@
-var mnemonic = "odor green exile jungle focus rescue symbol clarify vanish ankle notice undo";
+var mnemonic = "inspire mercy pilot reopen two report develop course scrub elbow brain lady";

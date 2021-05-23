@@ -1,1 +1,1 @@
-var mnemonic = "goat wreck cube junior magnet slice polar lock tissue banner motor blur";
+var mnemonic = "twice mosquito safe chair farm series alley poverty marriage orange service guard";

@@ -1,1 +1,1 @@
-var mnemonic = "theme act image nature elegant garlic such card city celery school hunt";
+var mnemonic = "corn caught mass side erode damage harvest swamp return maximum inmate goat";

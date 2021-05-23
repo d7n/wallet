@@ -1,1 +1,1 @@
-var mnemonic = "plunge hard price express tackle fantasy any define chest raven ring champion";
+var mnemonic = "issue dash reduce glad magnet high strike track glass entire globe obtain";

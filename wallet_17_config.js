@@ -1,1 +1,1 @@
-var mnemonic = "embody tired glad prison chunk wire piano current crumble mad quantum hidden";
+var mnemonic = "outdoor patient leaf cycle ball whale umbrella news decline master visa world";

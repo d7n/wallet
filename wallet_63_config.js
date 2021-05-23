@@ -1,1 +1,1 @@
-var mnemonic = "film miss lens cruel because embody amount alien scale embrace relief weather";
+var mnemonic = "vault nurse result error aspect describe give power sister picnic squirrel series";

@@ -1,1 +1,1 @@
-var mnemonic = "twice lunch addict sure always notable extend there woman effort search scale";
+var mnemonic = "old help gorilla deny frozen release rescue song duck arrest defy subject";

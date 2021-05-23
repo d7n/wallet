@@ -1,1 +1,1 @@
-var mnemonic = "wide worry shrimp sing electric pupil only sort version attack caution tackle";
+var mnemonic = "help police foil rapid stereo pink endless push room accident claim fold";

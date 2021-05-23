@@ -1,1 +1,1 @@
-var mnemonic = "fun clip chase comfort cave blouse rent shock ripple camera pottery final";
+var mnemonic = "fancy month toast table stomach pottery rain police leaf trophy lazy tomorrow";

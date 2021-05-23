@@ -1,1 +1,1 @@
-var mnemonic = "shoot blossom afford basic aunt pony viable undo anchor disagree route perfect";
+var mnemonic = "any weekend vapor web spray switch top advice rural urban prepare onion";

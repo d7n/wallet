@@ -1,1 +1,1 @@
-var mnemonic = "deal photo theme blind charge pigeon bean letter shell crane wreck deny";
+var mnemonic = "round salmon faculty ticket bread blind analyst churn saddle slender blue obey";

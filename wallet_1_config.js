@@ -1,1 +1,1 @@
-var mnemonic = "blouse actual bulk trial sun slow gym chest dignity capital urge address";
+var mnemonic = "soldier leg soon enlist faith episode spice already erupt planet memory marble";

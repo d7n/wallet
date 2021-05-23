@@ -1,1 +1,1 @@
-var mnemonic = "oil thing hobby denial palm sketch fall leopard beach enlist proud erupt";
+var mnemonic = "whale scrap whisper cinnamon sword hidden spare hamster valid test give meat";

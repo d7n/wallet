@@ -1,1 +1,1 @@
-var mnemonic = "fatal lamp right lumber run foil fatigue enact element tattoo bachelor cricket";
+var mnemonic = "never brass only fragile need quantum motion act assault device resist village";

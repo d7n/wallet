@@ -1,1 +1,1 @@
-var mnemonic = "error again peace act reason divert ghost stadium scrap equal curtain turn";
+var mnemonic = "lock ask match traffic lottery genius problem save congress sleep snow barrel";

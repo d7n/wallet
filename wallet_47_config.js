@@ -1,1 +1,1 @@
-var mnemonic = "another pipe bench mansion home salmon worth erode room library work erosion";
+var mnemonic = "sunny trip quarter album tuna inherit already catch rent lion just vacuum";

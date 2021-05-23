@@ -1,1 +1,1 @@
-var mnemonic = "phone edge snow shrug invite immense aim pave lecture smile size uniform";
+var mnemonic = "become crack use crush siege fine start when lizard acquire month wedding";

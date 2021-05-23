@@ -1,1 +1,1 @@
-var mnemonic = "loop word auction hole pave grain tuna pottery express pioneer sustain cost";
+var mnemonic = "copper mad alone craft blush cousin survey deal once modify tattoo supreme";

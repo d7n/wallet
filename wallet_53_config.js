@@ -1,1 +1,1 @@
-var mnemonic = "squirrel seed want barrel vivid thank input exclude base journey faith rifle";
+var mnemonic = "soldier park bulb meadow orient entry lion paper crime jewel cattle speed";

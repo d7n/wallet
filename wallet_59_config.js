@@ -1,1 +1,1 @@
-var mnemonic = "abuse shallow game put wrestle zone century turtle matrix divorce mechanic pole";
+var mnemonic = "damp battle pledge garage segment custom ramp tone drop three elevator oxygen";

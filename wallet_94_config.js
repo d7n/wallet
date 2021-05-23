@@ -1,1 +1,1 @@
-var mnemonic = "cloud robust dune age orange ill van angry rate fabric junk broccoli";
+var mnemonic = "wisdom liquid vanish local relief nest gloom scan surround lecture already profit";

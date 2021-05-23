@@ -1,1 +1,1 @@
-var mnemonic = "extend wedding rhythm wage sword sorry check bridge era recycle legend wrap";
+var mnemonic = "labor fragile adult cabbage cradle wink judge fresh salad sign radar eternal";

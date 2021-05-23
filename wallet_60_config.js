@@ -1,1 +1,1 @@
-var mnemonic = "travel general pony dry educate hello utility heart fiber afraid gun wreck";
+var mnemonic = "ability guard repeat hungry pair obey whisper arm tell three club point";

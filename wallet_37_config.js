@@ -1,1 +1,1 @@
-var mnemonic = "carry flash enable long duck arrest draw spike flat process bulk test";
+var mnemonic = "file evil air human double profit indoor sick magnet torch indicate floor";

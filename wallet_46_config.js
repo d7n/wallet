@@ -1,1 +1,1 @@
-var mnemonic = "double law release dumb nation army orphan accident motor legend ostrich fitness";
+var mnemonic = "base cake lobster blossom antique horror salon use small genuine raven kangaroo";

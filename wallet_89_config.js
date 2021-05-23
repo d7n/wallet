@@ -1,1 +1,1 @@
-var mnemonic = "arrest crater few defense gaze ride scan quality reopen ask jacket lady";
+var mnemonic = "brass conduct scheme kangaroo salon wedding call silent task actress rural duty";

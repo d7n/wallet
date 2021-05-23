@@ -1,1 +1,1 @@
-var mnemonic = "major pride room shrimp arrive pulse exercise finish welcome ugly focus coral";
+var mnemonic = "dumb motor daughter hint weapon antique play upgrade focus animal toy ritual";

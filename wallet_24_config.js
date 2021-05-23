@@ -1,1 +1,1 @@
-var mnemonic = "output bless install fuel february bounce deal alarm canyon dawn girl bomb";
+var mnemonic = "mercy actual muffin model phone refuse tip chicken science club shoe print";

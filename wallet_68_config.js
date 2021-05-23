@@ -1,1 +1,1 @@
-var mnemonic = "sister later clutch initial job earth hello album minimum tourist fortune home";
+var mnemonic = "coast denial assume opinion pledge tape custom bounce tunnel board behind subway";

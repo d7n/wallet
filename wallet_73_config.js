@@ -1,1 +1,1 @@
-var mnemonic = "choose misery pen thrive bind guess garden salon cable favorite expand stage";
+var mnemonic = "split luxury muffin firm provide narrow suggest walk strategy champion label process";
