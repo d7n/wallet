@@ -1,1 +1,1 @@
-var mnemonic = "project educate walk praise human inject antenna woman arrest source bread cram";
+var mnemonic = "uncle today profit worth coil grape raw crazy spoil nature divide diet";

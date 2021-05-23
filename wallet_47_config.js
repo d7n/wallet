@@ -1,1 +1,1 @@
-var mnemonic = "paper peanut crisp glance hospital hip chicken twice squirrel turtle bulk alone";
+var mnemonic = "brush into east because valley exercise turkey engine bless wood cloth scrap";

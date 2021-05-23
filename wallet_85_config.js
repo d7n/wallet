@@ -1,1 +1,1 @@
-var mnemonic = "salon silent veteran frog argue salad start lady tilt large fruit pulse";
+var mnemonic = "connect river purpose action nuclear leave detect donate decorate banner chuckle inherit";

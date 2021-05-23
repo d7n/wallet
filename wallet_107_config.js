@@ -1,1 +1,1 @@
-var mnemonic = "profit device equal door weather ready accident excuse stamp rent mercy common";
+var mnemonic = "kiss feed cable inform universe tennis season leave tank avocado ketchup figure";

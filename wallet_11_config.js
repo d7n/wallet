@@ -1,1 +1,1 @@
-var mnemonic = "number license atom aunt shock home vote issue process box pepper giant";
+var mnemonic = "age umbrella market lunar girl prison arena board merit half tube early";

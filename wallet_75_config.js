@@ -1,1 +1,1 @@
-var mnemonic = "thank enact core glimpse legend achieve floor tank cube liquid popular stairs";
+var mnemonic = "celery vivid receive panther paddle before fashion blade prevent leaf funny twice";

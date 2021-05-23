@@ -1,1 +1,1 @@
-var mnemonic = "wood refuse elder pottery wide tobacco reopen quarter bonus few segment hour";
+var mnemonic = "enlist limit coyote pudding report quantum month arrest usage noise upper six";

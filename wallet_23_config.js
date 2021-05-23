@@ -1,1 +1,1 @@
-var mnemonic = "fly warfare fruit body armed jazz neutral coil torch order mirror ankle";
+var mnemonic = "predict light glow dish drip hope develop inflict expect kick fade lake";

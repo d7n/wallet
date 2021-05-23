@@ -1,1 +1,1 @@
-var mnemonic = "thrive great fatigue romance gain unusual fitness impose wheat special wheat ship";
+var mnemonic = "matrix census play weasel soon latin copy copy right danger awake blood";

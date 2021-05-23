@@ -1,1 +1,1 @@
-var mnemonic = "fitness more follow then recall oil degree control matter trick write carbon";
+var mnemonic = "reveal body forget bag spray domain order soft beauty machine race trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "express gospel happy tattoo height bachelor lonely fashion foam minor isolate impulse";
+var mnemonic = "prefer tortoise runway duty main board adjust garbage actress million month skill";

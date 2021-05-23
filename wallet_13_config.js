@@ -1,1 +1,1 @@
-var mnemonic = "modify cover ozone monkey valve nose tuition issue average salad fat engage";
+var mnemonic = "twice check inmate ball under pause know valley giggle equip acoustic ranch";

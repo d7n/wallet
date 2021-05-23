@@ -1,1 +1,1 @@
-var mnemonic = "cloth panther sea arrow coconut envelope rocket essence aspect bulk fog blind";
+var mnemonic = "youth shed disorder shrimp float oven evolve enjoy muscle brand breeze soccer";

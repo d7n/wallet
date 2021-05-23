@@ -1,1 +1,1 @@
-var mnemonic = "test convince example foster ordinary ramp cool either smile latin security reject";
+var mnemonic = "salon much accident timber paddle layer senior fluid spread gospel camp humor";

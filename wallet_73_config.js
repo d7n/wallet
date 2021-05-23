@@ -1,1 +1,1 @@
-var mnemonic = "few damp uncover super collect next umbrella west skill stick print canyon";
+var mnemonic = "dirt cluster hood arctic swap link music sort wonder transfer setup edge";

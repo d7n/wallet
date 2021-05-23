@@ -1,1 +1,1 @@
-var mnemonic = "planet purpose differ produce oval salad buzz kitten unveil law monkey wealth";
+var mnemonic = "feel verb spider file flame churn conduct weekend flame table enact quote";

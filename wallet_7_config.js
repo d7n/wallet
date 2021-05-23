@@ -1,1 +1,1 @@
-var mnemonic = "where female course direct ball gravity crumble canyon rebel giant adapt hollow";
+var mnemonic = "weird electric size minor excess nuclear air rubber degree focus reveal six";

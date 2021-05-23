@@ -1,1 +1,1 @@
-var mnemonic = "west force tissue enlist face victory eyebrow keen frog action adapt civil";
+var mnemonic = "duty stumble deer yard session ignore merry item furnace bitter paper panda";

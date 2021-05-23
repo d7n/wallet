@@ -1,1 +1,1 @@
-var mnemonic = "symptom work aisle legal alley leisure review trust grace grief law jeans";
+var mnemonic = "interest lunar mushroom capable fox critic column elevator inflict allow load casual";

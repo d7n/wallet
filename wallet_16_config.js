@@ -1,1 +1,1 @@
-var mnemonic = "bounce clap fork uncover swap during welcome agree online mass weasel field";
+var mnemonic = "option pudding world thrive science move humor corn benefit slab coin jump";

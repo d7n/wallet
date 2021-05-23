@@ -1,1 +1,1 @@
-var mnemonic = "web injury repair man drum hub minor boss junk wasp diary solution";
+var mnemonic = "basic winter meadow peasant spring bench onion analyst team ring lady west";

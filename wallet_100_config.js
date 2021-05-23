@@ -1,1 +1,1 @@
-var mnemonic = "moon destroy major zebra hungry ensure cricket cheese total lemon tunnel air";
+var mnemonic = "street torch suspect slush detect fuel grape gentle drip share glance match";

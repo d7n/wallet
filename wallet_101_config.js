@@ -1,1 +1,1 @@
-var mnemonic = "pudding lens crazy siren that emotion strategy trick intact nature pass settle";
+var mnemonic = "congress latin main video ticket combine velvet flavor candy sound village valley";

@@ -1,1 +1,1 @@
-var mnemonic = "during various easily abuse pet lemon aspect ketchup panther indicate rude source";
+var mnemonic = "dwarf raccoon front guard wine protect comfort critic small robust huge detect";

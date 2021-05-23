@@ -1,1 +1,1 @@
-var mnemonic = "slam fetch glory category warfare brown fuel correct retire crowd medal lonely";
+var mnemonic = "room ticket miracle clever knee icon safe raw indicate proud donate nice";

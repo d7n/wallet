@@ -1,1 +1,1 @@
-var mnemonic = "federal refuse weekend eager echo patch logic tortoise mom truth rib what";
+var mnemonic = "isolate huge wrap prepare congress chat nose churn good appear game mammal";

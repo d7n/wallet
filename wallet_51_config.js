@@ -1,1 +1,1 @@
-var mnemonic = "cousin pumpkin arrest side twist sentence prison suspect side correct upset fish";
+var mnemonic = "cook load motor fault video squirrel soul buyer sport garden business enjoy";

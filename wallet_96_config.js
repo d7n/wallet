@@ -1,1 +1,1 @@
-var mnemonic = "grocery family easily mother like slide outdoor skate juice gaze engage wheel";
+var mnemonic = "achieve friend culture broccoli common daughter riot idle genius orange believe sausage";

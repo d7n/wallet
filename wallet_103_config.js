@@ -1,1 +1,1 @@
-var mnemonic = "left index cotton play grit noodle place treat girl river duty crunch";
+var mnemonic = "firm spell reveal scheme onion adult enact cheap genius crack away behave";

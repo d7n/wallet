@@ -1,1 +1,1 @@
-var mnemonic = "axis course solve pink require trend twice notable control month nerve connect";
+var mnemonic = "home remind treat crawl shiver loop verify outdoor test cigar hazard news";

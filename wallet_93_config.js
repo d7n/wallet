@@ -1,1 +1,1 @@
-var mnemonic = "nut olympic bike claw van upgrade safe pioneer include gather uphold tennis";
+var mnemonic = "first avoid tail december armor six sight shoot arrive quality ordinary roast";

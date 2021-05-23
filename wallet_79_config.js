@@ -1,1 +1,1 @@
-var mnemonic = "day fashion sight floor fossil task squeeze between upon inside hedgehog meat";
+var mnemonic = "width path quote quick twice hurt paper gauge pizza sorry excite lamp";

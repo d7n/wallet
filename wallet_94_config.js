@@ -1,1 +1,1 @@
-var mnemonic = "cage plunge toe social combine relief ribbon fade emotion upgrade plate similar";
+var mnemonic = "brief any delay furnace feed clay volcano tonight jealous aunt oil raise";

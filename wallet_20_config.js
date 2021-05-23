@@ -1,1 +1,1 @@
-var mnemonic = "early sting virtual range world category chief donkey appear coin wet slot";
+var mnemonic = "heavy century rotate base tired pool bronze chief limb junior foster parent";

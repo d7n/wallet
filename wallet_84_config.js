@@ -1,1 +1,1 @@
-var mnemonic = "step trial cabin twin hope desert old hazard demise all exist virtual";
+var mnemonic = "say ignore use echo denial wage scare clever deliver hour rabbit ocean";

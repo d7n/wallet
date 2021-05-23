@@ -1,1 +1,1 @@
-var mnemonic = "double tape reject cliff emotion boil hint raven donate force story stool";
+var mnemonic = "process news board exchange smoke poem raven destroy gossip misery ranch hip";

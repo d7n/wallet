@@ -1,1 +1,1 @@
-var mnemonic = "poem rice message topic antique gather burst garbage enact absent use bacon";
+var mnemonic = "attract course drum canyon toast position diagram wool toe deposit magic rookie";

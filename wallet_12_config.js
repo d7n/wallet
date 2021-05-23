@@ -1,1 +1,1 @@
-var mnemonic = "harvest letter scatter once humble muffin tell middle panic section federal reform";
+var mnemonic = "pigeon relax practice convince drift claim valve absurd text bracket brown around";

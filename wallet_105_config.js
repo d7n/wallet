@@ -1,1 +1,1 @@
-var mnemonic = "observe fruit trigger weather burden prize quote ceiling animal cage nice scare";
+var mnemonic = "country trust grit hurry popular early away liar wonder cruise stereo enact";

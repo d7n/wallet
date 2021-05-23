@@ -1,1 +1,1 @@
-var mnemonic = "edit small such oblige doctor attract jealous era moral voyage collect rookie";
+var mnemonic = "yellow struggle design come family clown calm interest mass elite hope lift";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow stick bachelor prevent cage conduct reform erupt suggest genre river rural";
+var mnemonic = "space artwork timber bid benefit toy cheap proof suggest hill loyal pole";

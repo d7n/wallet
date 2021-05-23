@@ -1,1 +1,1 @@
-var mnemonic = "husband giraffe brand upper inspire run hidden aisle decline neither danger garlic";
+var mnemonic = "bag physical deer time sail parade bike giggle pulse capable stamp couple";

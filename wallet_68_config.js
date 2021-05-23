@@ -1,1 +1,1 @@
-var mnemonic = "sock zone nurse spawn category fabric hat attitude vendor resist dog blue";
+var mnemonic = "arrow urban few large chapter trust crater decrease morning toss vacant zone";

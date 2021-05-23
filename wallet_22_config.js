@@ -1,1 +1,1 @@
-var mnemonic = "wrap crawl eager laundry exercise give year liberty mutual initial old donkey";
+var mnemonic = "giant impact define miracle border comfort order erupt okay alarm again spin";

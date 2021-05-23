@@ -1,1 +1,1 @@
-var mnemonic = "behave lottery immense kiss term senior ahead cement kidney spare notice harsh";
+var mnemonic = "render member rally miss exile boring pill major sting maple vintage swear";

@@ -1,1 +1,1 @@
-var mnemonic = "digital engine curtain refuse salon seven clip inherit fantasy accident online ship";
+var mnemonic = "cable slab eye olympic plug shallow seven bunker play afraid range claim";

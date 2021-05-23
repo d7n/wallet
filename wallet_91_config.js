@@ -1,1 +1,1 @@
-var mnemonic = "budget neck among over chapter anger apology curtain alcohol ecology promote word";
+var mnemonic = "eight weather order lecture vehicle trumpet riot bring harvest shrimp friend local";

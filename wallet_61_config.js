@@ -1,1 +1,1 @@
-var mnemonic = "top axis avoid mobile design tooth hand moon remind measure math inform";
+var mnemonic = "lemon faculty height shield upgrade modify pill elevator relief dawn smooth forum";

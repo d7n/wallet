@@ -1,1 +1,1 @@
-var mnemonic = "stereo jewel song stuff nest east abstract butter ski adapt have antenna";
+var mnemonic = "survey cradle stem antique hip link object canal long term blanket that";

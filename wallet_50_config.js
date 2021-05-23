@@ -1,1 +1,1 @@
-var mnemonic = "settle uniform repair tourist brave leopard image affair border ball century hurry";
+var mnemonic = "chronic cactus opera subject flat explain female major office buffalo order allow";

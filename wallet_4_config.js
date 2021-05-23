@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow tell hard fatal output leopard scare muscle glass artist army pitch";
+var mnemonic = "title nose tube finger valve leg sun gentle relief fall dry palm";

@@ -1,1 +1,1 @@
-var mnemonic = "need flee ketchup town inherit april resemble drama pledge cube music casual";
+var mnemonic = "cycle apple skate shiver program hope siege animal jaguar despair sniff chapter";

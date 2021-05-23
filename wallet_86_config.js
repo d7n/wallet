@@ -1,1 +1,1 @@
-var mnemonic = "skate pond boost pioneer notice around dirt glance satisfy corn demand sleep";
+var mnemonic = "gap powder biology run attitude obvious boss raw elder upper library wrist";

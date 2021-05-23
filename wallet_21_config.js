@@ -1,1 +1,1 @@
-var mnemonic = "govern pass ship actress thought ability bridge oven try asthma actress prize";
+var mnemonic = "chimney cereal current alarm magnet fortune decide dignity arrow lawsuit episode size";

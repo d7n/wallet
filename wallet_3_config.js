@@ -1,1 +1,1 @@
-var mnemonic = "zoo text tuition dress stumble surge fancy model carpet very chunk ordinary";
+var mnemonic = "farm purse stick erosion pluck edit sign taste burst fall fitness blame";

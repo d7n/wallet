@@ -1,1 +1,1 @@
-var mnemonic = "couch woman duty glue eye base invite test filter october blood lounge";
+var mnemonic = "zebra tenant humble palace such energy potato milk tuition economy innocent window";

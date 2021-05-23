@@ -1,1 +1,1 @@
-var mnemonic = "veteran rib certain few vital estate planet innocent garden raccoon expand practice";
+var mnemonic = "space ginger never flock gossip age crack mother forest extend stumble target";

@@ -1,1 +1,1 @@
-var mnemonic = "second pottery slam section control side nature pepper shy check effort shallow";
+var mnemonic = "gun deliver vapor agree invite tide supreme thrive update twice moral genuine";

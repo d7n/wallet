@@ -1,1 +1,1 @@
-var mnemonic = "nut lens brain frown about spray net demise day embark divorce bitter";
+var mnemonic = "extend fat crisp trust fortune access history dumb solar spoil spice spawn";

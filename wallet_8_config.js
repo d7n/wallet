@@ -1,1 +1,1 @@
-var mnemonic = "turn flash raw message fortune daughter visit route assist engine trial minimum";
+var mnemonic = "brain bean better dutch embark message clean atom pattern coral acid wonder";

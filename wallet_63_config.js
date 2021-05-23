@@ -1,1 +1,1 @@
-var mnemonic = "zone knife purse hunt keep oppose utility wisdom loan dutch table plate";
+var mnemonic = "mosquito smile left expose guide onion wine uncover effort ostrich clump hammer";

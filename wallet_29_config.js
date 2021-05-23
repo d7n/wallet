@@ -1,1 +1,1 @@
-var mnemonic = "knee strong vicious ceiling ecology tiger tiny update gauge critic rule trumpet";
+var mnemonic = "cherry satisfy escape food drastic fault anger depend smoke arch retreat bird";

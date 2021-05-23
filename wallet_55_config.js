@@ -1,1 +1,1 @@
-var mnemonic = "true person orange rebuild risk one bargain badge fee payment repeat kiwi";
+var mnemonic = "jazz bone father employ frame later enroll stumble stage decrease milk arctic";

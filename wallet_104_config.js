@@ -1,1 +1,1 @@
-var mnemonic = "want ugly alarm night asset trumpet film define zoo myself fiber twin";
+var mnemonic = "accuse rich stage belt flat galaxy chimney sniff auction snack expect engage";

@@ -1,1 +1,1 @@
-var mnemonic = "paper shaft teach sheriff monkey lab lobster bicycle soul sing win series";
+var mnemonic = "sudden math when quality found cabin gun royal oval key axis card";

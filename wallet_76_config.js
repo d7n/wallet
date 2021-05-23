@@ -1,1 +1,1 @@
-var mnemonic = "liberty bounce blouse sugar shock dove come popular speak fuel glance typical";
+var mnemonic = "harvest bless glide skate normal kiss spell book speed open antenna demand";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle step two stem myth expose wash trophy tiny essence electric tent";
+var mnemonic = "arrest raccoon rubber ugly bitter whale rich once wink pet coach siren";

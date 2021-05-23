@@ -1,1 +1,1 @@
-var mnemonic = "wisdom spare tongue banana smoke state van ahead shop basic shield saddle";
+var mnemonic = "gossip human pass power rib cheap boss later nurse zoo kitchen smooth";

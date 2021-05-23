@@ -1,1 +1,1 @@
-var mnemonic = "embark parent remind demise pilot arm soldier laugh name gym model bracket";
+var mnemonic = "timber twist august camp clutch team attitude strong salute bitter gym cereal";

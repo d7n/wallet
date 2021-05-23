@@ -1,1 +1,1 @@
-var mnemonic = "someone calm shoe arena nose bike donkey blossom layer width author mushroom";
+var mnemonic = "reform cement naive future song reward vocal floor kingdom nose resource unusual";

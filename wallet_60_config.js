@@ -1,1 +1,1 @@
-var mnemonic = "taxi great current merit basic catch clever kingdom exercise sunny gloom poem";
+var mnemonic = "bless surface august tumble special same art state slice exclude enable remain";

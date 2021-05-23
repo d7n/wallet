@@ -1,1 +1,1 @@
-var mnemonic = "exit great over story crane leopard bless absurd foster limit soccer fiction";
+var mnemonic = "twin element gadget sample talent moon birth initial inside you poet lift";

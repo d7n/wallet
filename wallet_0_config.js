@@ -1,1 +1,1 @@
-var mnemonic = "jump work verb trick use online attitude tray they panel parent casino";
+var mnemonic = "hurry boil stay flee token glass cover pipe junk pitch salmon seminar";

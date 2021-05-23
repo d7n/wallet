@@ -1,1 +1,1 @@
-var mnemonic = "category shoot bid spice turkey sleep cry garbage case reform purse quit";
+var mnemonic = "indicate put purchase service cruise torch diamond giraffe flavor quit slow rule";

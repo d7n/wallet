@@ -1,1 +1,1 @@
-var mnemonic = "settle accuse wild daring taxi quarter silent balance vivid trumpet cereal stay";
+var mnemonic = "tennis utility pencil boil mountain climb surge refuse merit fortune stable volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "border around immune fragile page juice vapor slab math blur bind struggle";
+var mnemonic = "payment wink river giant innocent chaos monkey health canoe farm consider join";

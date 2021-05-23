@@ -1,1 +1,1 @@
-var mnemonic = "boost gain clerk sand jelly ridge bar nothing inspire panel brave improve";
+var mnemonic = "glide blouse guard kite direct news follow exercise empty venue return flower";

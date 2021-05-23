@@ -1,1 +1,1 @@
-var mnemonic = "noble strong mouse surprise news jump thank token century erase ensure brick";
+var mnemonic = "level object enough melt across virtual wire glare spot primary race climb";

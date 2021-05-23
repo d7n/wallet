@@ -1,1 +1,1 @@
-var mnemonic = "sentence level daughter lawn universe carbon fog thank explain claw warm angry";
+var mnemonic = "strike member enlist skin rather reflect dune seek quantum crouch reveal pledge";

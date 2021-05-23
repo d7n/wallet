@@ -1,1 +1,1 @@
-var mnemonic = "add afraid double car donate final legal polar often quality pet belt";
+var mnemonic = "solve below six sniff often wear insect trap swing mention later filter";

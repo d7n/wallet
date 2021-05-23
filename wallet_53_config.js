@@ -1,1 +1,1 @@
-var mnemonic = "kite exotic stick family found grain much input curtain foot funny govern";
+var mnemonic = "fine try approve ranch garbage choice submit snake net favorite elder traffic";

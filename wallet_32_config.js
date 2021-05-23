@@ -1,1 +1,1 @@
-var mnemonic = "negative control shed globe duck face marine tenant turn pottery coyote effort";
+var mnemonic = "north jewel art advance alone trade radio invest vault theory this found";

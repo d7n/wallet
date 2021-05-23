@@ -1,1 +1,1 @@
-var mnemonic = "duck liquid breeze call grant play gas tackle coffee rally blanket fatigue";
+var mnemonic = "reduce lumber rib enroll employ oven scan extend report route one wine";

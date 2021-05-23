@@ -1,1 +1,1 @@
-var mnemonic = "hero then sun shock grab hybrid swamp crash drop symbol modify wage";
+var mnemonic = "surprise time income jealous few embark ability joke chat fury arctic height";

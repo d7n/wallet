@@ -1,1 +1,1 @@
-var mnemonic = "educate crawl stumble describe bid physical leg source luxury bench update skill";
+var mnemonic = "furnace snake rent boil kitchen price brother pill mixture profit student mass";

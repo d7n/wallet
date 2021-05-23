@@ -1,1 +1,1 @@
-var mnemonic = "sadness label mesh spell outer awesome believe moral off margin drift sort";
+var mnemonic = "inspire turn bike pencil winner sand work key outdoor arena uphold easily";

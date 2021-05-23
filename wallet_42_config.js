@@ -1,1 +1,1 @@
-var mnemonic = "festival parade fantasy peasant poem pulp cheap slim sketch minor valve tackle";
+var mnemonic = "eager deliver kitchen cart victory burden exclude warm warrior exclude foot seek";

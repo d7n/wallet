@@ -1,1 +1,1 @@
-var mnemonic = "aisle visit jeans happy great upset kiwi wasp element renew text carbon";
+var mnemonic = "pulp clock nerve disagree poem relief bulk sauce strike live confirm plastic";

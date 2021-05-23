@@ -1,1 +1,1 @@
-var mnemonic = "project puzzle daughter measure pulse stumble tower short scissors august since luggage";
+var mnemonic = "gorilla quiz economy fish screen reward violin believe glide kidney spot video";

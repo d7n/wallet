@@ -1,1 +1,1 @@
-var mnemonic = "amateur jump try file gasp awful practice clump delay boss west raccoon";
+var mnemonic = "push dove skill jazz peasant local prepare capital purchase excite climb cannon";
