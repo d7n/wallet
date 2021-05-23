@@ -1,1 +1,1 @@
-var mnemonic = "relax grass treat carpet link hip float leg quantum glare heart swear";
+var mnemonic = "copy episode door bomb fuel ask season alpha when iron evil great";

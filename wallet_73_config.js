@@ -1,1 +1,1 @@
-var mnemonic = "duty believe soccer pole ribbon interest frog equal void police audit board";
+var mnemonic = "trade fancy meat upset legal funny jealous vicious antenna seat option marriage";

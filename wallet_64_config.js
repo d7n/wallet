@@ -1,1 +1,1 @@
-var mnemonic = "lion impulse century program around rail gloom bird stereo acoustic town unique";
+var mnemonic = "glad female tip truck album seminar hawk scrap senior suggest auto strong";

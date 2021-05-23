@@ -1,1 +1,1 @@
-var mnemonic = "face boost panic oyster destroy like comic bring super glance hill lend";
+var mnemonic = "wheel paddle maximum length favorite sound cotton erupt defense seat what maid";

@@ -1,1 +1,1 @@
-var mnemonic = "smart expose clip magnet afraid slush cube grid jungle cabbage spot finger";
+var mnemonic = "army share ugly correct gasp interest surround broccoli crisp settle because scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet dish skate also zone pull language daughter concert jump sphere civil";
+var mnemonic = "captain foil roof sense latin simple summer water twelve festival neck prefer";

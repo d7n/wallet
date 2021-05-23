@@ -1,1 +1,1 @@
-var mnemonic = "sleep zero palm book provide toward afraid expire giggle second balcony honey";
+var mnemonic = "youth faint quick large luxury horse bus journey scout prosper record action";

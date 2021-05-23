@@ -1,1 +1,1 @@
-var mnemonic = "brush jewel august divert total clock provide cage tenant price into own";
+var mnemonic = "first silly carry satoshi aware duck foot indicate improve milk sadness tail";

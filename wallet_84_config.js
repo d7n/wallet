@@ -1,1 +1,1 @@
-var mnemonic = "punch orange gorilla another axis foster toss crisp flip fatigue pilot mixture";
+var mnemonic = "build divert spatial ivory sand equip slice meat vast install slab cigar";

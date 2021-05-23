@@ -1,1 +1,1 @@
-var mnemonic = "fashion over erupt pudding aware gas mechanic accuse exit song retire toilet";
+var mnemonic = "use entire abandon page cousin breeze decide buddy cupboard industry conduct antenna";

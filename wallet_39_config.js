@@ -1,1 +1,1 @@
-var mnemonic = "exotic quiz engage solve dad develop fashion come warm tomorrow summer earn";
+var mnemonic = "trust govern vacuum body connect clutch timber zone portion exist shock oak";

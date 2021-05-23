@@ -1,1 +1,1 @@
-var mnemonic = "feel tell multiply desert bamboo silver donkey cradle increase horror category hint";
+var mnemonic = "quiz lumber tired sell category oyster sunset flight other endless evolve slice";

@@ -1,1 +1,1 @@
-var mnemonic = "palace inmate outer style curious ensure car wide ranch tumble heavy artefact";
+var mnemonic = "ribbon maid nuclear health trap eager armor city any slim window strong";

@@ -1,1 +1,1 @@
-var mnemonic = "own finger wisdom fashion title silly popular payment evidence inhale mountain forward";
+var mnemonic = "library guitar answer honey aerobic feature lift regret abstract right curious casual";

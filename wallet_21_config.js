@@ -1,1 +1,1 @@
-var mnemonic = "spike birth foam debate dose lazy paddle deal supply canvas wolf candy";
+var mnemonic = "matter creek derive relax art will tent note element hurry rocket brave";

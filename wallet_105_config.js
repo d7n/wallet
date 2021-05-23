@@ -1,1 +1,1 @@
-var mnemonic = "eye burden fossil jaguar obvious pattern main umbrella near pen spider price";
+var mnemonic = "thank segment shallow possible east next length cousin fine crater notable canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "dove front suit stick eight grief canvas more order dream cliff athlete";
+var mnemonic = "antenna mirror image duty bulb mandate deposit twenty immune arm stay appear";

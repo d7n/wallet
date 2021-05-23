@@ -1,1 +1,1 @@
-var mnemonic = "lemon snow crash hand globe runway planet lunar rough polar display appear";
+var mnemonic = "advice version rescue squirrel latin bridge hungry excess almost dog talent outdoor";

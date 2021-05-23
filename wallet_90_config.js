@@ -1,1 +1,1 @@
-var mnemonic = "talent pudding cereal guard travel midnight piece inflict round canvas print nut";
+var mnemonic = "ten peasant jungle crumble chest cousin candy sphere strategy black amount gospel";

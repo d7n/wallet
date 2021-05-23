@@ -1,1 +1,1 @@
-var mnemonic = "shop faculty squirrel safe provide swim unfair level river dust intact seek";
+var mnemonic = "evidence trigger rude between habit blush draft switch kingdom length beyond describe";

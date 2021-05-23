@@ -1,1 +1,1 @@
-var mnemonic = "hundred check nurse relief transfer inquiry usage later master cruise infant section";
+var mnemonic = "involve begin need volcano silver move cute hazard barely crawl spare recall";

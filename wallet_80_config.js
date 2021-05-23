@@ -1,1 +1,1 @@
-var mnemonic = "fuel warrior enact street journey arm sun lizard vivid tattoo relax picture";
+var mnemonic = "shove drum sense trick across thunder give spoon kick marine erosion avocado";

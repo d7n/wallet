@@ -1,1 +1,1 @@
-var mnemonic = "echo erupt force warrior girl mixture sense tape victory impose exist miracle";
+var mnemonic = "brown truly trim section fit resource very tragic learn nose agent fantasy";

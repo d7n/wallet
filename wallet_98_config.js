@@ -1,1 +1,1 @@
-var mnemonic = "letter genre lift song must enforce crawl cable double odor glow foil";
+var mnemonic = "plate section rival patient pupil unit stomach sphere nominee shrimp monitor lift";

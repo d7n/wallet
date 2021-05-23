@@ -1,1 +1,1 @@
-var mnemonic = "miracle smoke fuel calm stereo light enemy runway short spice cry board";
+var mnemonic = "grab enforce jungle country chicken patch bus reveal outside remind pretty food";

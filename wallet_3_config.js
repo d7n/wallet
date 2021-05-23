@@ -1,1 +1,1 @@
-var mnemonic = "damp solar illness circle ketchup exercise kick author roof clinic margin bonus";
+var mnemonic = "accident upper obvious reward legal budget squirrel leopard smile toss proof angry";

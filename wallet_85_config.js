@@ -1,1 +1,1 @@
-var mnemonic = "venture force canoe include panic involve together twist control pilot october world";
+var mnemonic = "hurry bone tomorrow when coyote salad dune orphan gun cannon sound chuckle";

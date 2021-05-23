@@ -1,1 +1,1 @@
-var mnemonic = "physical room swamp piano panther lab used peanut pig engage brand twin";
+var mnemonic = "farm turkey zebra consider waste achieve stand fish island few blast airport";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple culture chicken guard swallow wide armed bacon cheese shiver forum quarter";
+var mnemonic = "book swarm trial aerobic cruise juice sand never hockey quantum toward pave";

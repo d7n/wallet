@@ -1,1 +1,1 @@
-var mnemonic = "monster carbon valid head wage tower combine tomato walnut nominee build title";
+var mnemonic = "shift heavy episode glass space rival phrase cart believe cost horror fee";

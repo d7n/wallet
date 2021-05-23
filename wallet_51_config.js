@@ -1,1 +1,1 @@
-var mnemonic = "foot unaware involve funny barrel crater return lunar minor recall party crowd";
+var mnemonic = "trade enact input bless magic lawn stable member giraffe bridge update trophy";

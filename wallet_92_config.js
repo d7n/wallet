@@ -1,1 +1,1 @@
-var mnemonic = "film brief disorder three waste deposit smoke violin sure income close danger";
+var mnemonic = "fee stable palm easily eyebrow measure keep bronze bottom business cousin potato";

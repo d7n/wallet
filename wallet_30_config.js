@@ -1,1 +1,1 @@
-var mnemonic = "trap suspect siren inner disorder sample inject demise weekend script color spy";
+var mnemonic = "tumble lens infant satisfy result hotel hawk hood water mixture thunder muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "like betray rose crazy multiply allow wet drama sunny purchase tone album";
+var mnemonic = "cigar final uncover tank rug science hood wing pattern machine number rebuild";

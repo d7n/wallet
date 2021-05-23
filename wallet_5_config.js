@@ -1,1 +1,1 @@
-var mnemonic = "leg alert team east fetch pond pair home rifle case aisle chimney";
+var mnemonic = "economy decade rubber capable chest warfare hamster belt devote auto rhythm size";

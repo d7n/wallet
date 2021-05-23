@@ -1,1 +1,1 @@
-var mnemonic = "crime number brisk buddy ask calm flight common firm drastic camera mom";
+var mnemonic = "soft virus raise update you runway drop mimic rapid menu rabbit where";

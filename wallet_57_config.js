@@ -1,1 +1,1 @@
-var mnemonic = "abandon rifle differ social time vast random feed metal hurt sand item";
+var mnemonic = "immense divert possible cement inside photo rookie crater code chronic rebel camera";

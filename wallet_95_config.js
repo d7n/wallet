@@ -1,1 +1,1 @@
-var mnemonic = "exact gym host critic eager reveal victory buzz exact trend dynamic confirm";
+var mnemonic = "ghost tray pupil notice boss appear split delay drink casual blush salad";

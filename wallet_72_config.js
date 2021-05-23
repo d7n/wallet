@@ -1,1 +1,1 @@
-var mnemonic = "water pause sure airport moral best end food destroy orphan nominee royal";
+var mnemonic = "series assist eyebrow volume glory price heart admit tiny genius vivid fade";

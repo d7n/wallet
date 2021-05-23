@@ -1,1 +1,1 @@
-var mnemonic = "chimney become close become seat art apology sock devote wrestle wisdom lyrics";
+var mnemonic = "van lava fence cannon prize hammer glide travel champion tired inherit pencil";

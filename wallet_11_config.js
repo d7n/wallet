@@ -1,1 +1,1 @@
-var mnemonic = "net lounge below run text caution tumble click comfort symptom opera way";
+var mnemonic = "cabin eyebrow merge into range sorry enhance daughter solve misery moon hidden";

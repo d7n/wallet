@@ -1,1 +1,1 @@
-var mnemonic = "large figure kidney typical resource about title manual use excite deliver spice";
+var mnemonic = "wood clerk equal blast twist bench stove crash provide that rapid brick";

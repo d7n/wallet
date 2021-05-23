@@ -1,1 +1,1 @@
-var mnemonic = "question sun nasty process fatigue decline dawn night winner basket bird example";
+var mnemonic = "script pumpkin network poet accident walnut lazy afraid muscle loop aim infant";

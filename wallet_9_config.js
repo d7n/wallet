@@ -1,1 +1,1 @@
-var mnemonic = "journey pluck athlete allow remove cousin dolphin arch stock vivid crop hub";
+var mnemonic = "rebel switch jelly host eight bridge vehicle just portion flock code bullet";

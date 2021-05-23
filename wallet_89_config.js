@@ -1,1 +1,1 @@
-var mnemonic = "ginger abstract detect chicken donate enjoy skirt pear trash soup castle practice";
+var mnemonic = "fitness project fiber moral advice dinosaur illness craft judge mutual video hat";

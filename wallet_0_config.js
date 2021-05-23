@@ -1,1 +1,1 @@
-var mnemonic = "rotate word have buddy talk fruit odor beyond mutual social slab credit";
+var mnemonic = "clap resist debris prize quick uncle perfect hamster survey one nephew blur";

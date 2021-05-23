@@ -1,1 +1,1 @@
-var mnemonic = "license warrior bind gym echo gentle job enact circle trophy mad list";
+var mnemonic = "address absent mystery rude case violin couch sand regret replace crouch physical";

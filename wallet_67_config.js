@@ -1,1 +1,1 @@
-var mnemonic = "amused number element uniform absorb festival life mechanic work jeans donkey chef";
+var mnemonic = "slide focus syrup brush inform section aim damp click uniform magnet rabbit";

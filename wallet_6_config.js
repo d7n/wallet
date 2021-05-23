@@ -1,1 +1,1 @@
-var mnemonic = "survey fun diesel real relax nephew broken ceiling simple gadget bid behave";
+var mnemonic = "faint distance village rely famous timber glad wolf thank when draw junior";

@@ -1,1 +1,1 @@
-var mnemonic = "budget fit nominee resist invest wide disease rare jealous setup liar dove";
+var mnemonic = "emerge kiwi evidence faith dolphin kiwi among rebel mistake slide grab pulse";

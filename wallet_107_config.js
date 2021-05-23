@@ -1,1 +1,1 @@
-var mnemonic = "solution write scheme anxiety remember gasp garment render health lawsuit name plastic";
+var mnemonic = "jacket army banner power space where giggle favorite obscure reunion empower often";

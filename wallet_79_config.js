@@ -1,1 +1,1 @@
-var mnemonic = "much bike velvet medal vacant suit luggage illegal brisk short save before";
+var mnemonic = "art off civil coral reflect vintage police glide captain female phrase call";

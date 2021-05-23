@@ -1,1 +1,1 @@
-var mnemonic = "now quote pencil name meadow street royal achieve symbol catalog cause rate";
+var mnemonic = "bus print squirrel minimum saddle novel crane wrestle world kit own fog";

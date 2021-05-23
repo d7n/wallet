@@ -1,1 +1,1 @@
-var mnemonic = "vast audit vault top ship action dove leave armor office health portion";
+var mnemonic = "exclude cement merge road slice rocket churn impact knock combine autumn duck";

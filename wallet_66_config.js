@@ -1,1 +1,1 @@
-var mnemonic = "priority little frequent cotton gate gossip flower vehicle sing sight bomb dinosaur";
+var mnemonic = "upgrade other frozen spawn cradle cream alter video list remain embody dignity";

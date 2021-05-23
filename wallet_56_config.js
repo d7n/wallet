@@ -1,1 +1,1 @@
-var mnemonic = "estate excite gospel spirit west dumb corn endorse require net business forum";
+var mnemonic = "festival ring lemon move rhythm meat age dish memory shock rebuild sunny";

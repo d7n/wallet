@@ -1,1 +1,1 @@
-var mnemonic = "tattoo process vault mansion child jewel chat echo stem hen account tissue";
+var mnemonic = "shock lecture audit boost they section surface bar flip cube town mandate";

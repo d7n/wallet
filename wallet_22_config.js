@@ -1,1 +1,1 @@
-var mnemonic = "force alone excuse harbor quiz viable dust enroll tomorrow merge wash curve";
+var mnemonic = "demand country physical unaware club tell explain stick abuse galaxy paper mistake";

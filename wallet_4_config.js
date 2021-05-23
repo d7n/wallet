@@ -1,1 +1,1 @@
-var mnemonic = "pill despair demise outside relief wage asset cliff nasty base copper this";
+var mnemonic = "female mercy rib sleep problem gold collect vault vintage toss scout parrot";

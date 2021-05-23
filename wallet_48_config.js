@@ -1,1 +1,1 @@
-var mnemonic = "amateur addict hole predict lion taxi museum secret method fuel scene describe";
+var mnemonic = "mushroom noise useless deputy much kick ladder perfect noodle inform husband nose";

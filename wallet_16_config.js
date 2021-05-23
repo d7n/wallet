@@ -1,1 +1,1 @@
-var mnemonic = "dragon region hurt super quote crisp local quit blanket snake sample merge";
+var mnemonic = "say strike hunt guilt sustain trouble fire jealous force aspect letter hurdle";

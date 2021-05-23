@@ -1,1 +1,1 @@
-var mnemonic = "useful shrug fancy planet distance route ivory erupt regret fresh subject axis";
+var mnemonic = "upon extra intact work ordinary minute such page budget million prosper pottery";

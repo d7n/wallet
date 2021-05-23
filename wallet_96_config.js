@@ -1,1 +1,1 @@
-var mnemonic = "humor tomorrow provide steel tackle two cereal wash boss thrive age quit";
+var mnemonic = "crew stadium runway video gravity rebel hire enjoy chair wave stay yard";

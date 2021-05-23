@@ -1,1 +1,1 @@
-var mnemonic = "minimum oil rhythm drop main process real muffin feel used coral awesome";
+var mnemonic = "amused success donate subway siege practice convince pepper black champion moon finger";

@@ -1,1 +1,1 @@
-var mnemonic = "defense dawn upper wrist rule slab grow remain range matrix wolf nose";
+var mnemonic = "inch gown syrup air fatal vessel manual scissors maze juice era kiss";

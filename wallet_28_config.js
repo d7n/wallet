@@ -1,1 +1,1 @@
-var mnemonic = "midnight long vanish negative card morning chief estate vacuum now distance cycle";
+var mnemonic = "cattle impact north decide depth flock minute habit section surround debate seminar";

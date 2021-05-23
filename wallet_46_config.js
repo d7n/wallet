@@ -1,1 +1,1 @@
-var mnemonic = "napkin pipe frost defy wolf critic say bright steel ignore job welcome";
+var mnemonic = "roof plate payment history olive plug wink join wish exhibit limit tube";

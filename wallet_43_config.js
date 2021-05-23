@@ -1,1 +1,1 @@
-var mnemonic = "such fossil evil scatter infant diary episode stay toddler innocent maid news";
+var mnemonic = "crash inform elephant usual save throw follow filter drama lunar sketch account";

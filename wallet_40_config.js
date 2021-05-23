@@ -1,1 +1,1 @@
-var mnemonic = "history rotate lunch sound verify scale diagram open truly spy table device";
+var mnemonic = "alley fiber ugly relax remember burst hamster cook network brief bar truth";

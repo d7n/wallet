@@ -1,1 +1,1 @@
-var mnemonic = "business lamp dentist output audit gate grunt wreck cluster chuckle health hood";
+var mnemonic = "suspect below raven awful joy broccoli curve amused voice vapor quality ketchup";

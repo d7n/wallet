@@ -1,1 +1,1 @@
-var mnemonic = "heavy wave hand guess harbor shuffle wrist faint attack zoo remind sleep";
+var mnemonic = "crouch trigger uniform giant second surround alien planet section control ignore beach";

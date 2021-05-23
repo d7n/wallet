@@ -1,1 +1,1 @@
-var mnemonic = "evolve fitness absorb moon address husband taxi garage lift clap snow trumpet";
+var mnemonic = "square token much tilt boil analyst leader element amateur blade defense high";

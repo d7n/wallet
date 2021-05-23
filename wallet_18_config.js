@@ -1,1 +1,1 @@
-var mnemonic = "blanket detect property design village insane vapor sniff act party novel catalog";
+var mnemonic = "click number position jungle wolf jelly catch clinic reduce dinosaur bag law";

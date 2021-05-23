@@ -1,1 +1,1 @@
-var mnemonic = "upgrade unusual chronic before program fruit save renew age produce captain frown";
+var mnemonic = "unlock merry glimpse anchor bicycle price spin push enough rival sauce other";

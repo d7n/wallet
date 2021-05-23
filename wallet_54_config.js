@@ -1,1 +1,1 @@
-var mnemonic = "else lamp soup annual absent life rude radio cube add mask salad";
+var mnemonic = "still actor network soldier insane kidney empower drive wealth abstract coconut lyrics";

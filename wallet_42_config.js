@@ -1,1 +1,1 @@
-var mnemonic = "army theme muffin dutch jelly age mansion quit wedding utility hover high";
+var mnemonic = "original farm find mind token smoke recycle thought grief yellow begin hello";

@@ -1,1 +1,1 @@
-var mnemonic = "young often media ask vapor stable web scout crawl recycle guess spy";
+var mnemonic = "throw manual sad note educate machine shrimp forward age legend flush also";

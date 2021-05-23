@@ -1,1 +1,1 @@
-var mnemonic = "edit interest metal sting squeeze cave bleak kit april ensure decrease useful";
+var mnemonic = "nothing analyst stomach high mechanic magic spot sign predict party asthma truly";

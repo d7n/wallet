@@ -1,1 +1,1 @@
-var mnemonic = "elegant share term corn crystal inhale bleak lunch fog web garlic broom";
+var mnemonic = "credit party bullet stumble circle bulk resource blood endless vital olympic estate";

@@ -1,1 +1,1 @@
-var mnemonic = "comic engage answer neither panel spawn harsh split wear tobacco digital brain";
+var mnemonic = "bench doll rifle weasel mention vintage labor zone smile fitness when novel";

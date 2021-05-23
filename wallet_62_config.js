@@ -1,1 +1,1 @@
-var mnemonic = "bench response blast fantasy inherit lemon bottom limit vendor print witness oil";
+var mnemonic = "enjoy casual toss mad expect organ tennis remove priority uncover legend brisk";

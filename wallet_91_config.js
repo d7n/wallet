@@ -1,1 +1,1 @@
-var mnemonic = "ball crumble friend ostrich snack alone cup capital chair click another unveil";
+var mnemonic = "early evolve cloth speak polar romance idea imitate wrap palm bar runway";

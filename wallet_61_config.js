@@ -1,1 +1,1 @@
-var mnemonic = "spin govern wrist educate rail guess before client genius bacon glimpse visual";
+var mnemonic = "anchor chest curtain sword valley six tragic ghost blue crystal act uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "silver output marble orphan excuse evoke aim dose bracket drill melt gift";
+var mnemonic = "mechanic bulk reunion enable grace where defense level north praise area kingdom";

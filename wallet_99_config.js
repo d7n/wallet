@@ -1,1 +1,1 @@
-var mnemonic = "skull tomorrow brush power pole gym bounce affair scissors school scout brisk";
+var mnemonic = "upgrade rich stove truly danger renew sort radio country huge someone dismiss";

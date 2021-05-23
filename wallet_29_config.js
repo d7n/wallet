@@ -1,1 +1,1 @@
-var mnemonic = "dust clip pretty exclude universe turkey wool valley notice must crazy indicate";
+var mnemonic = "caution bird pink soccer knock cat recipe jelly roast keep strong fly";

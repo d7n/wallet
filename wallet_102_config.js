@@ -1,1 +1,1 @@
-var mnemonic = "sister holiday nominee utility crawl family slide page gaze tooth place crop";
+var mnemonic = "neither rival undo clarify upgrade practice dinner dial film photo regret stock";

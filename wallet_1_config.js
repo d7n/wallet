@@ -1,1 +1,1 @@
-var mnemonic = "bacon owner void cat hidden like capable vital popular collect dinosaur ecology";
+var mnemonic = "vast guitar fabric raise vote toddler know amount organ door cook celery";

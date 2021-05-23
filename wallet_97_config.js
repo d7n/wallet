@@ -1,1 +1,1 @@
-var mnemonic = "art mechanic story deer jewel destroy table prepare gift copy logic switch";
+var mnemonic = "teach rough image unique sweet average electric final equal rude thrive any";

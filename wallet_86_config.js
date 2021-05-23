@@ -1,1 +1,1 @@
-var mnemonic = "child void country wide step parent treat require rice town feel razor";
+var mnemonic = "candy impose cattle symptom trip cupboard curve beauty warm lecture buddy mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp educate section can crash bike shoe roast future occur whip nose";
+var mnemonic = "spy unable girl chef proud rabbit forward ecology apart churn slab delay";

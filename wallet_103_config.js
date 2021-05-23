@@ -1,1 +1,1 @@
-var mnemonic = "again shove fatigue state hill panic identify network undo mushroom modify invite";
+var mnemonic = "device defense able idle hat grief train wealth sustain lunar sand angry";

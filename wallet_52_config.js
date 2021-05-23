@@ -1,1 +1,1 @@
-var mnemonic = "era party casual vapor gorilla interest huge absent wall sad fiber noise";
+var mnemonic = "before acoustic power oppose chief cruise nerve noise output hospital vicious tank";

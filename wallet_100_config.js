@@ -1,1 +1,1 @@
-var mnemonic = "guess luggage vocal buyer civil joy pudding kiwi bench film speed leg";
+var mnemonic = "shield tray reduce trim list frozen ski galaxy brown skin review exclude";

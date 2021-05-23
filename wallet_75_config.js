@@ -1,1 +1,1 @@
-var mnemonic = "salt penalty exercise chaos six fire absurd embrace scorpion deal little tortoise";
+var mnemonic = "before federal tail unlock loop morning chalk math hen belt window excess";

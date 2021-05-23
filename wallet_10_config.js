@@ -1,1 +1,1 @@
-var mnemonic = "meat usual ask silver cake excuse clever wide join private spray gain";
+var mnemonic = "poverty shoe bless later census eye figure measure glory bulk bundle midnight";
