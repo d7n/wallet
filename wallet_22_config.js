@@ -1,1 +1,1 @@
-var mnemonic = "toward sword again grief fit share decide lens spread pigeon mistake record";
+var mnemonic = "admit remember excite segment broom sort cement tobacco sad accident tattoo margin";

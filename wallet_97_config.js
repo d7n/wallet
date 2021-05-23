@@ -1,1 +1,1 @@
-var mnemonic = "home dirt curious science maximum bacon penalty broom oppose drop vocal muscle";
+var mnemonic = "foil protect detect liquid latin business design dad rally refuse transfer where";

@@ -1,1 +1,1 @@
-var mnemonic = "funny autumn journey brand steel gate symbol slender seminar again flavor nasty";
+var mnemonic = "tired abuse skate language hospital mixed garbage found write genius banner blame";

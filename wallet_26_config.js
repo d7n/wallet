@@ -1,1 +1,1 @@
-var mnemonic = "ensure message patrol copper salt mad afraid pepper alert rifle token diesel";
+var mnemonic = "similar inject obey fork dynamic bag canyon joke carpet smooth frost vast";

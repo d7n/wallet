@@ -1,1 +1,1 @@
-var mnemonic = "swift card person find onion impact echo budget scout family spider boost";
+var mnemonic = "detect trouble skirt depend stumble force galaxy kitchen radio ask dress stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "honey relief slogan diagram hurt exercise metal tree stove giggle similar ignore";
+var mnemonic = "sustain bracket fire security detect total tiny solar suggest march aware rough";

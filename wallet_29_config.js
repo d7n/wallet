@@ -1,1 +1,1 @@
-var mnemonic = "body nominee meadow news true arrow post shrimp already minimum crime online";
+var mnemonic = "pond start paper urban exhibit material disorder subject frame comfort pattern settle";

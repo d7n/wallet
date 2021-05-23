@@ -1,1 +1,1 @@
-var mnemonic = "day crew expose dilemma venture all bike adjust cluster kite dizzy unfold";
+var mnemonic = "perfect kidney shy first basic input robot zone secret kind amazing acid";

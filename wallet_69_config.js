@@ -1,1 +1,1 @@
-var mnemonic = "fame ankle normal elegant disagree spy voice hurry luxury object silent never";
+var mnemonic = "image lobster trouble put remind baby knife embrace kite ordinary bronze middle";

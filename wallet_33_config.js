@@ -1,1 +1,1 @@
-var mnemonic = "slush worry category robust orange monster fox deer tiger garlic mother relief";
+var mnemonic = "ship minute accident sweet powder cradle account alley clarify foil buffalo clap";

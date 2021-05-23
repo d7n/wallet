@@ -1,1 +1,1 @@
-var mnemonic = "alter oil siege canyon grunt kangaroo alarm unusual gaze design hat model";
+var mnemonic = "cabbage floor globe cat cousin nasty reopen glow echo grow annual tail";

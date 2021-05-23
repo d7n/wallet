@@ -1,1 +1,1 @@
-var mnemonic = "worth album vacuum tide polar effort organ spoon curtain comic funny lawn";
+var mnemonic = "funny audit topple vast alley edit valid dove issue eager village extend";

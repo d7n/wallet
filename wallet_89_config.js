@@ -1,1 +1,1 @@
-var mnemonic = "swap gain left quiz bridge step cannon expire news unit alone best";
+var mnemonic = "struggle trial leader path urban gaze exclude clarify timber oven cluster alone";

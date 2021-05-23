@@ -1,1 +1,1 @@
-var mnemonic = "diamond like bring mistake priority pudding pause bottom hope guide olive syrup";
+var mnemonic = "island wise adapt river hat menu mountain knock parade alpha leader plug";

@@ -1,1 +1,1 @@
-var mnemonic = "account gather play lucky seven silent child wrong naive oyster happy erase";
+var mnemonic = "object merit potato casino eternal space theme round mass denial basic thought";

@@ -1,1 +1,1 @@
-var mnemonic = "system citizen joke feed smoke smooth patient index team upset memory render";
+var mnemonic = "minor wash evil buffalo shrug wish file edge project mystery yellow planet";

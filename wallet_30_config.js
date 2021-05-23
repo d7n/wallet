@@ -1,1 +1,1 @@
-var mnemonic = "green quick sniff enemy please labor answer tortoise reduce reunion few giggle";
+var mnemonic = "roof pulse weapon journey remind february fit lab grit soap trigger coast";

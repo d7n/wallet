@@ -1,1 +1,1 @@
-var mnemonic = "slide eagle tobacco farm leg resist outdoor finish toss young recipe finish";
+var mnemonic = "afford hint public term wrap sing fashion video clerk brush raccoon puppy";

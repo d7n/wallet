@@ -1,1 +1,1 @@
-var mnemonic = "accuse pole rack tiger link valid lecture spray learn image ketchup wink";
+var mnemonic = "anchor giraffe panel same bachelor erupt act tail empty mutual puzzle gun";

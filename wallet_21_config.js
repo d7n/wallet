@@ -1,1 +1,1 @@
-var mnemonic = "verb useful guitar rose struggle zone day chest road simple garment upset";
+var mnemonic = "act habit opera mutual fun now advance film hedgehog iron excite clog";

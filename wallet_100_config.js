@@ -1,1 +1,1 @@
-var mnemonic = "robot flag victory rich expire client boss smile round split bicycle property";
+var mnemonic = "scare goose fade grocery odor very turkey pencil tilt detect lottery luggage";

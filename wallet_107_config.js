@@ -1,1 +1,1 @@
-var mnemonic = "garden sure obscure vicious derive recall renew soap life patrol loan barely";
+var mnemonic = "issue asset trade sword good around auto novel correct turtle concert awful";

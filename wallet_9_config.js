@@ -1,1 +1,1 @@
-var mnemonic = "topple soldier conduct chicken mix stairs ready amazing science type avocado balance";
+var mnemonic = "wagon nuclear animal foster sport next lyrics narrow obey midnight unusual clever";

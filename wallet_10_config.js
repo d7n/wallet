@@ -1,1 +1,1 @@
-var mnemonic = "proof purpose extend bean believe swamp manage estate clerk all organ scatter";
+var mnemonic = "assume token estate display mean weasel shadow vacuum save thing spice advance";

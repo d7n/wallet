@@ -1,1 +1,1 @@
-var mnemonic = "report beyond melody cool model mammal toe tree collect coconut moral apology";
+var mnemonic = "organ enhance muffin trophy emotion muscle notice run together explain mass limit";

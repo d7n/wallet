@@ -1,1 +1,1 @@
-var mnemonic = "struggle garlic upper job prison open decrease bomb raw arrange hobby sorry";
+var mnemonic = "very valve rug between six magic kid street peanut salad maximum pretty";

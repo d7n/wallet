@@ -1,1 +1,1 @@
-var mnemonic = "fault tray fluid carry swing pigeon slim hammer word inflict frost clown";
+var mnemonic = "vacant shrimp room glory candy legend bridge holiday mammal quarter gain dice";

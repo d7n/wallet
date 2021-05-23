@@ -1,1 +1,1 @@
-var mnemonic = "solve accuse benefit analyst lobster organ together alpha card urge island inject";
+var mnemonic = "embark tornado rapid purchase cook math invest zero develop crystal throw barely";

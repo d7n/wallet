@@ -1,1 +1,1 @@
-var mnemonic = "valid ignore dutch sing olympic rotate kitten core angry carpet way van";
+var mnemonic = "small mirror awful blanket flush install blanket custom decline ginger cheap ceiling";

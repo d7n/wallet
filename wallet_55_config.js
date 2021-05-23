@@ -1,1 +1,1 @@
-var mnemonic = "kiss buzz verify fitness citizen climb alarm neglect foot fetch inspire business";
+var mnemonic = "apology purchase wait scatter metal click receive effort brother jump zebra write";

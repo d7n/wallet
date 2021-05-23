@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pipe melody summer detect leader bridge melt journey leg sense link";
+var mnemonic = "friend shiver estate shop trick alpha cabin rely vibrant above frost infant";

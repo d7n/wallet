@@ -1,1 +1,1 @@
-var mnemonic = "bench verify actual forest trouble siren rescue prize frown laundry wash energy";
+var mnemonic = "throw work prize suspect library say usage soap six globe opera hawk";

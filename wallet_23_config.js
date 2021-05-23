@@ -1,1 +1,1 @@
-var mnemonic = "sun cactus bronze equip custom identify joy develop shoulder wash column address";
+var mnemonic = "light leaf tumble utility latin canvas visa cross large horse bless behind";

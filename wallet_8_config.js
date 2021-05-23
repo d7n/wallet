@@ -1,1 +1,1 @@
-var mnemonic = "wet health atom patch tonight unknown crash crash glow garage balcony empty";
+var mnemonic = "index bar beyond toilet zoo wall pumpkin word must table coast blast";

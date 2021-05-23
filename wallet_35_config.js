@@ -1,1 +1,1 @@
-var mnemonic = "cancel remain rather flower era judge high execute liar title garment clinic";
+var mnemonic = "mom pudding anger lunch prefer opera tennis knee valve witness fragile twist";

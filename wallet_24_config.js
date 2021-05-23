@@ -1,1 +1,1 @@
-var mnemonic = "stay hood expect other plug actual vague tourist reject stomach surprise prison";
+var mnemonic = "moment urge embody eyebrow because label torch misery symptom junior truck letter";

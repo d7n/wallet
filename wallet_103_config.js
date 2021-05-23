@@ -1,1 +1,1 @@
-var mnemonic = "hamster rough option napkin earn cinnamon diet panic discover raise spot tornado";
+var mnemonic = "pause urge air kind police spin install grit violin relax menu chronic";

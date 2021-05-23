@@ -1,1 +1,1 @@
-var mnemonic = "shine sell hobby suit census solid name badge dice together visit color";
+var mnemonic = "resemble purse library earn vocal place outside away mandate world nice minimum";

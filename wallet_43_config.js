@@ -1,1 +1,1 @@
-var mnemonic = "eager cherry dash talk battle update exchange merit mask loud humble shoulder";
+var mnemonic = "display whip admit brisk ignore coyote divert cloth timber easy burger pony";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar behind fence fashion order cash lounge liar quality present tape sudden";
+var mnemonic = "brush game twin ethics shadow citizen gun february poet surprise nephew thunder";

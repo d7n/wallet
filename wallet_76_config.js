@@ -1,1 +1,1 @@
-var mnemonic = "mirror pupil basket kid cost bring lyrics erupt stone fat bus spider";
+var mnemonic = "marine put guard electric mandate success hood medal mutual raise grant merit";

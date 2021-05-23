@@ -1,1 +1,1 @@
-var mnemonic = "develop assume future laugh napkin rhythm spin only join economy wet tackle";
+var mnemonic = "tattoo glory salad oven wrap mosquito expire novel want tent expire faculty";

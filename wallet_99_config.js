@@ -1,1 +1,1 @@
-var mnemonic = "wheat near garden group crater brain quarter add opinion loyal what oil";
+var mnemonic = "ability alley program mammal kick hungry devote rate palace cave obscure expose";

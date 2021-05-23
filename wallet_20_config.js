@@ -1,1 +1,1 @@
-var mnemonic = "cute total pigeon umbrella subway super peace live author safe crunch crack";
+var mnemonic = "awesome kit become arch style option idea large casual kite credit erode";

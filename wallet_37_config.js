@@ -1,1 +1,1 @@
-var mnemonic = "apology method angry thrive when hurt rug ranch earth review execute year";
+var mnemonic = "fog isolate embody chaos ugly violin giant insect mirror charge popular scout";

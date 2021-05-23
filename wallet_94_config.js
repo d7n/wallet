@@ -1,1 +1,1 @@
-var mnemonic = "abuse jacket banner people wasp episode rather dragon blush tape truck nut";
+var mnemonic = "cloth upgrade purse observe eternal remove february reunion rocket kitten supply afford";

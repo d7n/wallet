@@ -1,1 +1,1 @@
-var mnemonic = "device skirt curtain fever genius dumb silk light adjust disease crystal balance";
+var mnemonic = "head polar million artefact woman fuel clinic shy iron picnic few slight";

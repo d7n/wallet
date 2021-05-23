@@ -1,1 +1,1 @@
-var mnemonic = "decade loop labor student team rival clay surge advance need acquire deal";
+var mnemonic = "much vapor balance power suit mixture day entire devote shoe gossip team";

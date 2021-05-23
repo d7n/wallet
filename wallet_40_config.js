@@ -1,1 +1,1 @@
-var mnemonic = "unlock paddle want rocket leaf still pony ridge quick inspire oven life";
+var mnemonic = "trick one melody topic response toddler weather defy easily film ketchup vapor";

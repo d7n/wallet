@@ -1,1 +1,1 @@
-var mnemonic = "right sense vibrant input used crouch insane manual coyote yellow attitude scrub";
+var mnemonic = "grocery theory country keep canal sport film solution album fortune eye sausage";

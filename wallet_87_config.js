@@ -1,1 +1,1 @@
-var mnemonic = "step clog cattle theme horse just gap turtle clown federal hair giraffe";
+var mnemonic = "pretty behave arctic spring exchange frog inject roof slice question blame caught";

@@ -1,1 +1,1 @@
-var mnemonic = "tower flip adult end relief wet lawsuit heavy inch owner fitness dismiss";
+var mnemonic = "word sphere expand original tortoise crop system sand social brass feed vague";

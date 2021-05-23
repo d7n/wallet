@@ -1,1 +1,1 @@
-var mnemonic = "act apple marble champion firm virus salmon prepare crystal rifle either forget";
+var mnemonic = "crucial rabbit above blade special jealous lab oven avocado conduct shock bracket";

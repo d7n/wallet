@@ -1,1 +1,1 @@
-var mnemonic = "shrug want pioneer primary thumb foot educate athlete payment eight run rude";
+var mnemonic = "pink check measure enlist meat click wild hurdle blanket develop public soft";

@@ -1,1 +1,1 @@
-var mnemonic = "novel second amateur give leisure sketch ostrich spirit panda moment train film";
+var mnemonic = "pledge actress nose learn detect auto amused dune memory include toy pattern";

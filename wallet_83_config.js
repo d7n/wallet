@@ -1,1 +1,1 @@
-var mnemonic = "settle thunder opera water hockey luggage water destroy grief light blame social";
+var mnemonic = "boring require helmet maid lottery drift rookie ring wing eternal worry virus";

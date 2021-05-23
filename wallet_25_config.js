@@ -1,1 +1,1 @@
-var mnemonic = "alarm bitter bacon resemble system system hockey husband match novel economy scrub";
+var mnemonic = "fiber ribbon deer capital crater color senior subject throw into fix enroll";

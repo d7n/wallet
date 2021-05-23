@@ -1,1 +1,1 @@
-var mnemonic = "consider tiger march farm rhythm foster inherit media omit kingdom cupboard wage";
+var mnemonic = "angle hand diary lounge horse survey slide trouble spring clever mystery easy";

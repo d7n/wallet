@@ -1,1 +1,1 @@
-var mnemonic = "usage fruit hip dumb cream tuition retire suffer regret because lemon alter";
+var mnemonic = "bridge success grief across describe net mosquito symbol paddle release label puzzle";

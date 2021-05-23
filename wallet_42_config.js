@@ -1,1 +1,1 @@
-var mnemonic = "spin purse waste toddler where kitchen pool approve marriage food material gentle";
+var mnemonic = "bamboo number give swear zebra build country cargo buddy express often narrow";

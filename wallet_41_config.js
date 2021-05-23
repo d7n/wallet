@@ -1,1 +1,1 @@
-var mnemonic = "jeans youth then brisk picture mammal pond gasp client monitor battle family";
+var mnemonic = "special all note square song mask neglect hunt unlock mother magic surge";

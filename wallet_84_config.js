@@ -1,1 +1,1 @@
-var mnemonic = "left office van report change deal tongue tourist drastic remember please future";
+var mnemonic = "robust cause town panda reward friend episode olympic flat total bright sauce";

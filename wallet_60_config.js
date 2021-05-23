@@ -1,1 +1,1 @@
-var mnemonic = "glimpse object wish page addict sport kit slot barely faith ride glove";
+var mnemonic = "topic during attitude veteran strategy crisp sibling galaxy shell plug purse typical";

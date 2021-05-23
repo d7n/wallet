@@ -1,1 +1,1 @@
-var mnemonic = "merit judge mom salon vital spring solar thank annual velvet isolate float";
+var mnemonic = "wire cruise decide expect honey hole iron summer kidney skate sense regret";

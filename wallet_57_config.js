@@ -1,1 +1,1 @@
-var mnemonic = "knee gauge news frozen raise own clip gift scout boring silly snap";
+var mnemonic = "life festival loud rotate asthma vault faint brain leopard consider tongue spike";

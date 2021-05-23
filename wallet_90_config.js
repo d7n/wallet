@@ -1,1 +1,1 @@
-var mnemonic = "birth cotton leaf sketch feel smile humor fiber before side horror limit";
+var mnemonic = "jump display repair flush outside copper flame broken depend festival never remove";

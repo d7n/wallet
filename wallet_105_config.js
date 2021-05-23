@@ -1,1 +1,1 @@
-var mnemonic = "path feed pink orient cliff glide cry human cluster author thought pyramid";
+var mnemonic = "express engage green fever document speak receive history absent episode rhythm initial";

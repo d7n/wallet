@@ -1,1 +1,1 @@
-var mnemonic = "churn assist tongue spread neck bus parent skull stamp domain water pact";
+var mnemonic = "action annual kick tourist quick already pen cute join gap destroy differ";

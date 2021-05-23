@@ -1,1 +1,1 @@
-var mnemonic = "parrot pig lift acquire shiver humble wrist divide ankle grace believe engage";
+var mnemonic = "either sibling actual load two coffee find grace tired execute raccoon truth";

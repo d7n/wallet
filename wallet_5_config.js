@@ -1,1 +1,1 @@
-var mnemonic = "enjoy refuse inflict chest olympic fresh believe broken among maple bunker lonely";
+var mnemonic = "census sea journey cause tenant install globe alert guess angle fatal high";

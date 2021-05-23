@@ -1,1 +1,1 @@
-var mnemonic = "mobile moment matrix junk solar similar symptom correct anchor suit oil reunion";
+var mnemonic = "whip pencil follow boat control water spirit orphan skate addict involve pulse";

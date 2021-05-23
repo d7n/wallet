@@ -1,1 +1,1 @@
-var mnemonic = "curtain runway balcony abandon dune bean solution danger mechanic drive regret front";
+var mnemonic = "change east target ritual obey awesome wrestle basic mimic high air caught";

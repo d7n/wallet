@@ -1,1 +1,1 @@
-var mnemonic = "subway wait crash feature tumble grace camera cloth diary phone canoe sponsor";
+var mnemonic = "organ logic lawn artist bleak stadium mom wish ethics rival better magic";

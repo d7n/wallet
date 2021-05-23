@@ -1,1 +1,1 @@
-var mnemonic = "leave plug captain pupil clean another void used shift never enrich survey";
+var mnemonic = "truly employ chicken online cave tool spin face unique disorder fresh donor";

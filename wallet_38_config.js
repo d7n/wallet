@@ -1,1 +1,1 @@
-var mnemonic = "spirit funny miracle private wise boring range glue plate fiber swim barrel";
+var mnemonic = "absurd supply life board buzz loyal vessel argue language apple spatial diet";

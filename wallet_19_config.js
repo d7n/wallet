@@ -1,1 +1,1 @@
-var mnemonic = "vivid demise obscure theory latin cry lounge crane yellow minimum hole figure";
+var mnemonic = "payment middle lizard exile thank rebuild fragile cave citizen magic choose tiger";

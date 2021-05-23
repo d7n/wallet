@@ -1,1 +1,1 @@
-var mnemonic = "become dose major follow mobile claim print parrot maid law ride tag";
+var mnemonic = "dish bulk three multiply cancel despair rigid quality column advice legend tiny";

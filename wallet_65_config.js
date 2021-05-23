@@ -1,1 +1,1 @@
-var mnemonic = "accuse canoe rapid abandon fragile assault antique royal economy tonight check theme";
+var mnemonic = "glow wide marriage midnight panda advice famous taxi impose various frozen river";

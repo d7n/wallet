@@ -1,1 +1,1 @@
-var mnemonic = "program share peanut outside adjust swarm busy cloth hint allow artist present";
+var mnemonic = "razor mandate misery twist buddy run erode mixture ivory vicious pole next";

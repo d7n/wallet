@@ -1,1 +1,1 @@
-var mnemonic = "goose twice burst catch kid winter april until comic ghost elbow hold";
+var mnemonic = "please cloth cactus upgrade donor inmate aim mystery squirrel news ability volcano";

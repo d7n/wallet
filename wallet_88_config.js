@@ -1,1 +1,1 @@
-var mnemonic = "minor bomb inform figure six document general review nut guilt forum purpose";
+var mnemonic = "chest measure fringe daughter humor spike mountain knee pyramid achieve scrub fish";

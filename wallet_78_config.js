@@ -1,1 +1,1 @@
-var mnemonic = "net parent various juice clinic rescue easy toddler during diamond coil fluid";
+var mnemonic = "cup violin appear style saddle derive mercy ability gift keen present rate";

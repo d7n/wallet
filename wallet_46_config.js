@@ -1,1 +1,1 @@
-var mnemonic = "suggest quiz jewel zone still gloom move tape exclude cup negative kangaroo";
+var mnemonic = "drink neutral address leave ignore slab ring over slogan critic split theme";

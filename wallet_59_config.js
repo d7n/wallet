@@ -1,1 +1,1 @@
-var mnemonic = "raw practice describe oxygen reduce sting culture virtual tiger step van ethics";
+var mnemonic = "bag mechanic know tone strategy cargo cupboard car puppy beef autumn fitness";

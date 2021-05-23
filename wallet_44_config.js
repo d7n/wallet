@@ -1,1 +1,1 @@
-var mnemonic = "nothing vacuum tree write merry nothing ancient frequent later reward venue basic";
+var mnemonic = "consider ankle latin pony dilemma fabric feed bracket seed assault laugh hunt";

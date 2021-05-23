@@ -1,1 +1,1 @@
-var mnemonic = "either digital bullet pigeon skill orchard try subject right virtual wolf anger";
+var mnemonic = "script duty sphere iron glimpse rocket present kingdom resemble dawn cushion version";

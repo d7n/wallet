@@ -1,1 +1,1 @@
-var mnemonic = "produce aisle plunge unlock ozone casino gain charge kite this syrup impulse";
+var mnemonic = "crumble elegant husband hand reunion advice cream digital unhappy easy virtual emotion";

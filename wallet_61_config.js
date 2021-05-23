@@ -1,1 +1,1 @@
-var mnemonic = "library scare merge result bitter coin dignity shy holiday hello charge kitten";
+var mnemonic = "mixed trash flat van word media scrap found basket miracle pause budget";

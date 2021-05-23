@@ -1,1 +1,1 @@
-var mnemonic = "yellow consider merry only renew valid celery denial now phrase vocal security";
+var mnemonic = "solid office adapt kick solve polar leopard suspect hello news oppose sibling";

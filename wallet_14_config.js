@@ -1,1 +1,1 @@
-var mnemonic = "rally chimney antique lounge special budget pair spring motion modify size rhythm";
+var mnemonic = "dilemma shoulder skirt woman sausage milk air offer plug pretty donkey fresh";

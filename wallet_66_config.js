@@ -1,1 +1,1 @@
-var mnemonic = "tourist object differ truly blush force family pretty rich recycle inner ritual";
+var mnemonic = "thrive call member praise stadium thumb grow cricket push february track crack";

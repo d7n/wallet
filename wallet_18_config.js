@@ -1,1 +1,1 @@
-var mnemonic = "spend young menu cat moral senior please issue pause cable general crime";
+var mnemonic = "era smart flavor silver year foil runway immune brave despair fabric actress";

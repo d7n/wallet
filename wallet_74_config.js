@@ -1,1 +1,1 @@
-var mnemonic = "jungle control vapor payment blossom first kiwi bubble bus thought young bronze";
+var mnemonic = "increase square bamboo answer start amazing water video math sign olive rubber";

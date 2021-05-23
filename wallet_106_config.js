@@ -1,1 +1,1 @@
-var mnemonic = "tobacco moral say ketchup punch junk bronze animal aim dial deny smoke";
+var mnemonic = "offer upgrade two shine finish jazz shiver seek cluster captain style odor";

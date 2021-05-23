@@ -1,1 +1,1 @@
-var mnemonic = "truck abandon nut more width river load document muffin merge observe usual";
+var mnemonic = "exit ski twelve patch have render science journey tissue axis six finger";

@@ -1,1 +1,1 @@
-var mnemonic = "above caught silver dignity output tree hotel fatal possible pledge garage number";
+var mnemonic = "work weapon crazy coral acquire ball shock nasty thing guess bone cage";
