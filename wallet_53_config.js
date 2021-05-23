@@ -1,1 +1,1 @@
-var mnemonic = "million twenty sock arctic arch scan impose mango theme gesture off elite";
+var mnemonic = "light raccoon run gravity disagree album path march message genius estate guard";

@@ -1,1 +1,1 @@
-var mnemonic = "sick fence there topple sentence car renew stumble escape denial reflect onion";
+var mnemonic = "follow priority erupt juice move prosper spatial auction shove mirror swarm piano";

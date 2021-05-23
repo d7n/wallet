@@ -1,1 +1,1 @@
-var mnemonic = "start bitter label cousin orange rookie arm mobile beef pioneer club crack";
+var mnemonic = "oyster addict smile silent romance author piano hurdle volume shell enhance believe";

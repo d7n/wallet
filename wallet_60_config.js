@@ -1,1 +1,1 @@
-var mnemonic = "vintage gentle parent occur clay prefer better alcohol sugar pulse blue input";
+var mnemonic = "assist wreck question mouse toe water tomorrow confirm palm then grape sudden";

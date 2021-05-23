@@ -1,1 +1,1 @@
-var mnemonic = "drama picnic gap sudden crop grape bone dismiss hard fury hybrid stumble";
+var mnemonic = "company shield ginger imitate crazy happy close learn side amused warm pear";

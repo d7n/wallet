@@ -1,1 +1,1 @@
-var mnemonic = "emotion disease silver grief entry slight spike pluck ride code brown main";
+var mnemonic = "assume ivory eager opinion pitch fence drum anchor little universe try deer";

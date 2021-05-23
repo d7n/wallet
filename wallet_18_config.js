@@ -1,1 +1,1 @@
-var mnemonic = "jungle mansion acoustic unaware own sword pool shop media chuckle dwarf exhaust";
+var mnemonic = "hint embrace lizard ankle dilemma demand slab infant inmate river win sing";

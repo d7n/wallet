@@ -1,1 +1,1 @@
-var mnemonic = "tattoo brisk truck egg you merry copper rescue daring indicate march erase";
+var mnemonic = "often member often crisp fluid travel jacket anxiety pupil despair flower vanish";

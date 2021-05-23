@@ -1,1 +1,1 @@
-var mnemonic = "artwork lamp say lunch crater canal tent energy key month siren vast";
+var mnemonic = "approve machine gain barrel fat arctic theory online sleep patrol hire female";

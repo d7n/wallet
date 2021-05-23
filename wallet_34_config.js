@@ -1,1 +1,1 @@
-var mnemonic = "middle pair lens army foot cup neck eternal stomach book script occur";
+var mnemonic = "column camp twin bike fatal protect else lottery private under situate imitate";

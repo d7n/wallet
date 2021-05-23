@@ -1,1 +1,1 @@
-var mnemonic = "early blood assault faint foster circle provide praise kick soft stage entry";
+var mnemonic = "lucky stomach aisle pill visit define situate hollow soap place crowd panda";

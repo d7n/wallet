@@ -1,1 +1,1 @@
-var mnemonic = "faith step casual sphere transfer february little turkey aerobic favorite left erase";
+var mnemonic = "ladder muffin bubble gain evidence spike legal fiber hand gate edge enforce";

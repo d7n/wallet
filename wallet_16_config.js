@@ -1,1 +1,1 @@
-var mnemonic = "conduct affair lock sing humble hire key bunker scene tone pioneer crater";
+var mnemonic = "color stand border wine cube spend element aspect phrase build talk royal";

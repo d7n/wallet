@@ -1,1 +1,1 @@
-var mnemonic = "unhappy nothing doll fence cream eyebrow top bag police alarm lab lemon";
+var mnemonic = "school table champion drink already shell crane clarify mixed prepare sense chicken";

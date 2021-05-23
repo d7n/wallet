@@ -1,1 +1,1 @@
-var mnemonic = "medal tide approve where advance kitten gadget bean arrive tornado document album";
+var mnemonic = "nature logic verify average job expand fatigue pear gift snake donate old";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin cotton bid shoe floor purse fiction kingdom oven puppy gossip wheel";
+var mnemonic = "village bless metal black art doctor ankle people vessel maple pluck south";

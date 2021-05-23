@@ -1,1 +1,1 @@
-var mnemonic = "sample sure enough unveil assault portion child own inner bitter fee flash";
+var mnemonic = "stadium shy pause session item shrug neck marble witness stock enforce tip";

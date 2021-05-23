@@ -1,1 +1,1 @@
-var mnemonic = "walnut rigid lesson bench office spread destroy coast balance galaxy sibling series";
+var mnemonic = "together gown fault coil drum climb actual solar simple color debate patient";

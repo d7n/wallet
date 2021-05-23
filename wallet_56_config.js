@@ -1,1 +1,1 @@
-var mnemonic = "okay scrub room clog proud gossip idea bleak suit way two file";
+var mnemonic = "garbage dignity shop deny affair digital steak aim once world sword erode";

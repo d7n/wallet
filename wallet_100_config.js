@@ -1,1 +1,1 @@
-var mnemonic = "nation stock company heavy cat surge remain earth female lucky course gown";
+var mnemonic = "nut punch system diet upon lawsuit chief lock soup mutual warm citizen";

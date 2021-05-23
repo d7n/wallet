@@ -1,1 +1,1 @@
-var mnemonic = "regular wealth sister kangaroo aim will biology vault service stomach yard never";
+var mnemonic = "fade climb bleak proof amount interest accident inside check rocket conduct salute";

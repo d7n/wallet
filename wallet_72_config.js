@@ -1,1 +1,1 @@
-var mnemonic = "soul obvious photo chuckle hub skill timber analyst plug life error base";
+var mnemonic = "unknown volume vanish combine ocean seven enact actual guard arrow connect clump";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve illegal spread animal response almost exclude impose tonight couch matrix summer";
+var mnemonic = "humble enemy slot frog sponsor ribbon notable arrive three praise engage kit";

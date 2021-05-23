@@ -1,1 +1,1 @@
-var mnemonic = "truck door twin absorb police honey hope brisk nice random echo jazz";
+var mnemonic = "orange execute window debris cart picture when task engine vault two travel";

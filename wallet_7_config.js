@@ -1,1 +1,1 @@
-var mnemonic = "first fortune boss cat air bulk stamp strong warrior clinic repair coffee";
+var mnemonic = "tail mother update canal tray like admit faculty fatigue fame unlock carbon";

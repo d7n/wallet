@@ -1,1 +1,1 @@
-var mnemonic = "recall that deputy pause person east hill void true parade shoe time";
+var mnemonic = "fault odor antenna police bridge suggest junior bachelor abuse reform frost admit";

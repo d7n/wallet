@@ -1,1 +1,1 @@
-var mnemonic = "daughter daughter mosquito advice they danger veteran turtle repair upset slot they";
+var mnemonic = "quick camp aunt express cabin bench ritual discover orchard level boost ozone";

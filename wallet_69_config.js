@@ -1,1 +1,1 @@
-var mnemonic = "roast kick raven powder insane mean fiction survey file lunar safe road";
+var mnemonic = "focus split visa gentle label result reopen unusual spirit hip mail race";

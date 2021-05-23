@@ -1,1 +1,1 @@
-var mnemonic = "naive frost trouble enforce accident casino social promote pulp sick captain digital";
+var mnemonic = "sign steel attitude demise story exhaust able tissue sense trumpet faculty never";

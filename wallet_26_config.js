@@ -1,1 +1,1 @@
-var mnemonic = "other magnet mail glory cause flat glove diet pig sustain expect dirt";
+var mnemonic = "auto deliver speed social awkward flat index fiction keep brand robust segment";

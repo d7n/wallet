@@ -1,1 +1,1 @@
-var mnemonic = "canyon worth ghost stage cram output trash cigar boat pretty soul access";
+var mnemonic = "actress hidden system fault drive thumb simple valve pool card maple puzzle";

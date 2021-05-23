@@ -1,1 +1,1 @@
-var mnemonic = "hospital title swamp fog poverty patrol burden solid stay lonely gadget machine";
+var mnemonic = "bid govern fabric adult thunder visit nurse never fit photo merit frequent";

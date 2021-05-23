@@ -1,1 +1,1 @@
-var mnemonic = "panther under honey nephew toddler trade human lunar where wool ketchup mule";
+var mnemonic = "trophy way zero vibrant feel boil essay soul drip cotton net rebuild";

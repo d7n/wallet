@@ -1,1 +1,1 @@
-var mnemonic = "curve easy fitness foster disorder train dress parent faint loan series good";
+var mnemonic = "case unveil airport broccoli relief tongue enact stumble fat piano calm note";

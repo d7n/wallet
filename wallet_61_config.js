@@ -1,1 +1,1 @@
-var mnemonic = "chest move crunch burden relax labor solar regular air recall room carbon";
+var mnemonic = "accuse bronze foil season unaware cry wash pepper loud protect depth mimic";

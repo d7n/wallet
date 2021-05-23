@@ -1,1 +1,1 @@
-var mnemonic = "grass spell abuse weather vanish escape exercise owner expand mouse fork milk";
+var mnemonic = "wait hello breeze insane entry diary useful tackle average explain gym live";

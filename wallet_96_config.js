@@ -1,1 +1,1 @@
-var mnemonic = "drill kitten leader milk control cash immense laptop famous debris brother screen";
+var mnemonic = "describe huge once horse lounge emerge detail visual attend inflict pull soap";

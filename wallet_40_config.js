@@ -1,1 +1,1 @@
-var mnemonic = "type comic coffee deputy season omit mask purse veteran crowd fun together";
+var mnemonic = "urban whip unfold embark gym sign pioneer view short obtain moon grab";

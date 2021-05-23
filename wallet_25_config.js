@@ -1,1 +1,1 @@
-var mnemonic = "civil chunk beef trick loan another afford abstract limit you husband air";
+var mnemonic = "reason update casual ranch column sure once clay one solar catalog year";

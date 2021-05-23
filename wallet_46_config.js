@@ -1,1 +1,1 @@
-var mnemonic = "stand large library sponsor save repeat autumn fox public plate bomb isolate";
+var mnemonic = "wage spread type adapt best car picnic swarm pattern property verify dismiss";

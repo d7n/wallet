@@ -1,1 +1,1 @@
-var mnemonic = "daring sight gentle doll maple hair lock code dish final river west";
+var mnemonic = "fatal hold later oblige obscure final dust chaos satisfy pattern furnace detect";

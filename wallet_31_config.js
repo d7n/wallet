@@ -1,1 +1,1 @@
-var mnemonic = "render zebra fuel pull brother record first message phrase oxygen between soccer";
+var mnemonic = "either bright fox bind because entire tank fitness general quiz slice dust";

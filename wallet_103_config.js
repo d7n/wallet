@@ -1,1 +1,1 @@
-var mnemonic = "awesome tonight obvious action cloth sight custom wedding under ensure pull increase";
+var mnemonic = "they elder result pelican misery opinion axis talk exile access pulp frame";

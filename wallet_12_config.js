@@ -1,1 +1,1 @@
-var mnemonic = "motor mercy uncle battle width swap material rude sheriff forest little clutch";
+var mnemonic = "valley cable shoulder network sort pilot plunge soap hat cliff era mystery";

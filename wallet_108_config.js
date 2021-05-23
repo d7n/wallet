@@ -1,1 +1,1 @@
-var mnemonic = "rapid rocket assist morning crisp eight organ powder member game speed grief";
+var mnemonic = "current inhale rate dial syrup cargo there spend debate sort east animal";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve abandon phone march industry group stove poet story disease open client";
+var mnemonic = "satisfy vacant plug quality license harbor screen list atom social regular meat";

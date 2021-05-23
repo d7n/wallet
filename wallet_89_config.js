@@ -1,1 +1,1 @@
-var mnemonic = "edit knee ice because hand love popular eagle strategy tennis exile clean";
+var mnemonic = "copper physical edit kite swamp actress cliff auto produce travel olive burst";

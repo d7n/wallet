@@ -1,1 +1,1 @@
-var mnemonic = "razor exile labor lemon ceiling photo fiction core endorse snake together nut";
+var mnemonic = "code arm benefit obvious hero end sword push modify attend fly audit";

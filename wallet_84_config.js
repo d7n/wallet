@@ -1,1 +1,1 @@
-var mnemonic = "west tourist clerk museum spoil arm desert flame title corn wedding simple";
+var mnemonic = "offer finger buddy dynamic forest object crush torch height winter net hero";

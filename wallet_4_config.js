@@ -1,1 +1,1 @@
-var mnemonic = "warfare wheat list that cluster relief rain reunion seminar input cradle ginger";
+var mnemonic = "update expose cancel hurt oven visual already chapter goddess domain discover kiss";

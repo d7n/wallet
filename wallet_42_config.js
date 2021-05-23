@@ -1,1 +1,1 @@
-var mnemonic = "trip online nest burst glory guitar shoot toast fantasy olympic bachelor curtain";
+var mnemonic = "manage pool solve switch high armed stamp viable paddle glass outside loan";

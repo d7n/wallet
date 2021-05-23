@@ -1,1 +1,1 @@
-var mnemonic = "essay feature winner rare exhaust runway reopen tell allow ivory cement ask";
+var mnemonic = "illness fiscal make diary relief card sign discover favorite tray village adult";

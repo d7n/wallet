@@ -1,1 +1,1 @@
-var mnemonic = "betray flame possible wash pause work liquid perfect flag circle join dose";
+var mnemonic = "mushroom notable select medal walnut door barrel method game destroy chest team";

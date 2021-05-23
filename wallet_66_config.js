@@ -1,1 +1,1 @@
-var mnemonic = "world text space relief sudden average dwarf moral mystery text drive upset";
+var mnemonic = "danger good tube anxiety plug expand palm author slot pig saddle make";

@@ -1,1 +1,1 @@
-var mnemonic = "task carpet office hurry bubble devote debris present prosper noise few wood";
+var mnemonic = "earn dolphin distance quarter brave satoshi lawn globe oval purpose smooth skill";

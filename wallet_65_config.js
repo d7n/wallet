@@ -1,1 +1,1 @@
-var mnemonic = "truth artefact trend dose kitten diet erase twin indicate elbow confirm sign";
+var mnemonic = "dignity side cupboard click stumble drive auction gauge dune trust hybrid galaxy";

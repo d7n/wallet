@@ -1,1 +1,1 @@
-var mnemonic = "venue spider street draft swing fragile loud frequent town render air shallow";
+var mnemonic = "current city torch monkey raccoon gaze fortune coast giant idea vote fossil";

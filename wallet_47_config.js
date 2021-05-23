@@ -1,1 +1,1 @@
-var mnemonic = "curve credit farm sun depend trumpet food educate trick vault tone fever";
+var mnemonic = "afford upon weapon emotion trap select oven convince vendor accident excuse define";

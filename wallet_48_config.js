@@ -1,1 +1,1 @@
-var mnemonic = "snow fat ketchup narrow pigeon west swap uncle egg clay share arrow";
+var mnemonic = "sample nose drill vicious tuna fox item myself language cash daring about";

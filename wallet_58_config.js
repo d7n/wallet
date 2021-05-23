@@ -1,1 +1,1 @@
-var mnemonic = "cruel report mistake olympic glue offer outdoor enlist easily narrow image lemon";
+var mnemonic = "honey banana document dust kind regular timber face wrist blue vacuum snow";

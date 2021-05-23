@@ -1,1 +1,1 @@
-var mnemonic = "lava nut bubble quiz weekend tiny cause man deposit select genre tent";
+var mnemonic = "happy quiz electric puppy thought achieve anxiety when actor suit lake devote";

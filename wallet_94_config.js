@@ -1,1 +1,1 @@
-var mnemonic = "fine toward grief gym seven vanish cup arrest fiction soft hen term";
+var mnemonic = "hope hill leave glare bracket glow win other escape lottery unknown rally";

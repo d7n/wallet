@@ -1,1 +1,1 @@
-var mnemonic = "exist february certain increase reopen panther magnet lake puppy zone bitter segment";
+var mnemonic = "hollow section talk feature garden shy rack ski undo rocket duck pony";

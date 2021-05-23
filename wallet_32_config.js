@@ -1,1 +1,1 @@
-var mnemonic = "eagle pull machine grit write find sphere harvest report unveil harsh rule";
+var mnemonic = "silver base robot banner unusual fame voice lawn stage lawn kit patient";

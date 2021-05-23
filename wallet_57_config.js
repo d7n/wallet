@@ -1,1 +1,1 @@
-var mnemonic = "chimney list blush acquire online frown design pluck pledge donate reunion flight";
+var mnemonic = "wolf gap like this toilet veteran soap public minute paper recipe arrive";

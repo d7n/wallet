@@ -1,1 +1,1 @@
-var mnemonic = "sadness half front old oak nature city balance fiction fossil improve monster";
+var mnemonic = "liquid mesh cigar rescue acoustic loop protect donate impact truck sail robust";

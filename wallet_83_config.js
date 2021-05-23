@@ -1,1 +1,1 @@
-var mnemonic = "one ostrich sing girl circle visa profit require tell danger picture later";
+var mnemonic = "tray humor train cat toast board lucky extra sleep churn pepper feature";

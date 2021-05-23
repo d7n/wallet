@@ -1,1 +1,1 @@
-var mnemonic = "demise survey picnic pill deal empower address town divide armed clarify churn";
+var mnemonic = "grain page drum size cream fruit soup maple love trip critic amount";

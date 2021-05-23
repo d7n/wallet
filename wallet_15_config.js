@@ -1,1 +1,1 @@
-var mnemonic = "wear donor skill blouse clown place gravity half rich snap purity club";
+var mnemonic = "deny dismiss either crouch hub mistake vanish churn buffalo silent monster height";

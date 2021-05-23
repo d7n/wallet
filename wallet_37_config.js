@@ -1,1 +1,1 @@
-var mnemonic = "trip business capable loop orphan arrow retreat horror oven machine cricket amount";
+var mnemonic = "throw marine method ball disagree toast turkey impact agent junior deer stuff";

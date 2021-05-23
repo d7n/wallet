@@ -1,1 +1,1 @@
-var mnemonic = "curtain tumble garage will cart uniform energy safe target stick mimic home";
+var mnemonic = "toy under hungry survey have absorb pretty ancient card sentence foam ivory";

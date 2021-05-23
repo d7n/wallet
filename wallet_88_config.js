@@ -1,1 +1,1 @@
-var mnemonic = "test margin winter adapt photo economy smart broken side large execute use";
+var mnemonic = "caught mother slice farm finger find glide oven woman fade polar stay";

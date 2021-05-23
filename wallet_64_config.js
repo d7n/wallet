@@ -1,1 +1,1 @@
-var mnemonic = "retreat notice loop sister clown turtle car clarify essay fancy hour trigger";
+var mnemonic = "gown car creek small junk tuna ivory dolphin north cinnamon replace wave";

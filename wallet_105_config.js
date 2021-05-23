@@ -1,1 +1,1 @@
-var mnemonic = "pelican frame voyage flash cupboard stool wide expose blind tray steel ginger";
+var mnemonic = "first seek avoid own shiver dry coyote accident size expand step theme";

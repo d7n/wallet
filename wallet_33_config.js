@@ -1,1 +1,1 @@
-var mnemonic = "arrow present language common cage romance tissue manual capable display stock glance";
+var mnemonic = "town gun used oblige pull credit vapor pill evidence friend youth frame";

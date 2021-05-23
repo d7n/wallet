@@ -1,1 +1,1 @@
-var mnemonic = "test yard derive prepare decorate jaguar mother truly unveil parade barely word";
+var mnemonic = "artwork hire cement grid tube trim blame liquid cushion creek stick drop";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle reveal health admit arrest general bar clerk ancient bachelor lady initial";
+var mnemonic = "cool inner legal laundry close silk kingdom one same connect stock document";

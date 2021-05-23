@@ -1,1 +1,1 @@
-var mnemonic = "either bread story victory fringe leisure often recycle slice lemon taxi echo";
+var mnemonic = "theory raise author chapter rapid fringe faculty blur train zone off palm";

@@ -1,1 +1,1 @@
-var mnemonic = "sport play around lecture hockey impact capable orbit wet volume cram whale";
+var mnemonic = "neck warm water total clog end obscure bring gym bitter actor cute";

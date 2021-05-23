@@ -1,1 +1,1 @@
-var mnemonic = "quote because humor soldier mimic mystery lunar gallery inflict noise view rhythm";
+var mnemonic = "aerobic dose arrow subject destroy symbol tuition person dwarf scorpion actual under";

@@ -1,1 +1,1 @@
-var mnemonic = "summer area hurt skull enable reveal exile top blouse twist crunch quality";
+var mnemonic = "east sweet easily tiny custom excite develop install biology twin senior face";

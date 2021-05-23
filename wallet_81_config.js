@@ -1,1 +1,1 @@
-var mnemonic = "analyst problem scrub elevator mule six liar holiday pet maximum gentle oil";
+var mnemonic = "chunk crisp phrase hood airport broken curve question day off laptop ice";

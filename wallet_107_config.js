@@ -1,1 +1,1 @@
-var mnemonic = "hold hair nephew fatal evidence crowd merry enemy ripple almost good stick";
+var mnemonic = "neutral elbow slight talk protect valve minimum dove consider treat final core";

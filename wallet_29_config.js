@@ -1,1 +1,1 @@
-var mnemonic = "siege slab lunch marine mimic tower lamp whisper grape script wild forget";
+var mnemonic = "fox quantum pulp hill ice once rate brisk voyage patient crowd injury";

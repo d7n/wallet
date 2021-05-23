@@ -1,1 +1,1 @@
-var mnemonic = "reopen else citizen solution spoon very hip cancel false pepper profit skate";
+var mnemonic = "vacant disorder cost soft column milk address draw sea quality hour predict";

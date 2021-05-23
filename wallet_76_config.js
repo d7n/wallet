@@ -1,1 +1,1 @@
-var mnemonic = "bicycle silver anger program fiber slow maximum click income million century case";
+var mnemonic = "number reduce link harbor neglect snake trick rose same broken column photo";

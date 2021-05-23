@@ -1,1 +1,1 @@
-var mnemonic = "language topic drill fine primary indicate flip chunk cash citizen olive armor";
+var mnemonic = "novel silver oval push crush effort grain fossil urge female raccoon mouse";
