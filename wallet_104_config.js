@@ -1,1 +1,1 @@
-var mnemonic = "toy under hungry survey have absorb pretty ancient card sentence foam ivory";
+var mnemonic = "want ugly alarm night asset trumpet film define zoo myself fiber twin";

@@ -1,1 +1,1 @@
-var mnemonic = "urban whip unfold embark gym sign pioneer view short obtain moon grab";
+var mnemonic = "digital engine curtain refuse salon seven clip inherit fantasy accident online ship";

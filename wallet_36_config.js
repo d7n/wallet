@@ -1,1 +1,1 @@
-var mnemonic = "vacant disorder cost soft column milk address draw sea quality hour predict";
+var mnemonic = "people bachelor cream bargain fresh aware donkey whisper suspect visa stem expose";

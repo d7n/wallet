@@ -1,1 +1,1 @@
-var mnemonic = "assist wreck question mouse toe water tomorrow confirm palm then grape sudden";
+var mnemonic = "taxi great current merit basic catch clever kingdom exercise sunny gloom poem";

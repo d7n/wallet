@@ -1,1 +1,1 @@
-var mnemonic = "oyster addict smile silent romance author piano hurdle volume shell enhance believe";
+var mnemonic = "cloth panther sea arrow coconut envelope rocket essence aspect bulk fog blind";

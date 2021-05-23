@@ -1,1 +1,1 @@
-var mnemonic = "sign steel attitude demise story exhaust able tissue sense trumpet faculty never";
+var mnemonic = "fly warfare fruit body armed jazz neutral coil torch order mirror ankle";

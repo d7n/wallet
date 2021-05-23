@@ -1,1 +1,1 @@
-var mnemonic = "win execute number novel strike echo tribe loan fiber antenna dose joke";
+var mnemonic = "need flee ketchup town inherit april resemble drama pledge cube music casual";

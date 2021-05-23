@@ -1,1 +1,1 @@
-var mnemonic = "nature logic verify average job expand fatigue pear gift snake donate old";
+var mnemonic = "salon silent veteran frog argue salad start lady tilt large fruit pulse";

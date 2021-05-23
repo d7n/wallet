@@ -1,1 +1,1 @@
-var mnemonic = "village bless metal black art doctor ankle people vessel maple pluck south";
+var mnemonic = "web injury repair man drum hub minor boss junk wasp diary solution";

@@ -1,1 +1,1 @@
-var mnemonic = "wait hello breeze insane entry diary useful tackle average explain gym live";
+var mnemonic = "skate pond boost pioneer notice around dirt glance satisfy corn demand sleep";

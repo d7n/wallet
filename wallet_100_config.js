@@ -1,1 +1,1 @@
-var mnemonic = "nut punch system diet upon lawsuit chief lock soup mutual warm citizen";
+var mnemonic = "moon destroy major zebra hungry ensure cricket cheese total lemon tunnel air";

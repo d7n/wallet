@@ -1,1 +1,1 @@
-var mnemonic = "humble enemy slot frog sponsor ribbon notable arrive three praise engage kit";
+var mnemonic = "tumble deer edit gallery kick adjust husband spatial deputy mask cliff bean";

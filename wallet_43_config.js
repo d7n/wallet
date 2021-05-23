@@ -1,1 +1,1 @@
-var mnemonic = "east sweet easily tiny custom excite develop install biology twin senior face";
+var mnemonic = "project educate walk praise human inject antenna woman arrest source bread cram";

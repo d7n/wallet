@@ -1,1 +1,1 @@
-var mnemonic = "hollow section talk feature garden shy rack ski undo rocket duck pony";
+var mnemonic = "federal refuse weekend eager echo patch logic tortoise mom truth rib what";

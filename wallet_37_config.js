@@ -1,1 +1,1 @@
-var mnemonic = "throw marine method ball disagree toast turkey impact agent junior deer stuff";
+var mnemonic = "express gospel happy tattoo height bachelor lonely fashion foam minor isolate impulse";

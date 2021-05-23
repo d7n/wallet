@@ -1,1 +1,1 @@
-var mnemonic = "adjust logic envelope below diamond funny domain tiger post absent fee focus";
+var mnemonic = "axis course solve pink require trend twice notable control month nerve connect";

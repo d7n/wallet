@@ -1,1 +1,1 @@
-var mnemonic = "current city torch monkey raccoon gaze fortune coast giant idea vote fossil";
+var mnemonic = "rack pact vote wet estate merit field sustain manual fragile badge change";

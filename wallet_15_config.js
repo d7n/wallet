@@ -1,1 +1,1 @@
-var mnemonic = "deny dismiss either crouch hub mistake vanish churn buffalo silent monster height";
+var mnemonic = "someone calm shoe arena nose bike donkey blossom layer width author mushroom";

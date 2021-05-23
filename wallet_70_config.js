@@ -1,1 +1,1 @@
-var mnemonic = "actress hidden system fault drive thumb simple valve pool card maple puzzle";
+var mnemonic = "poem rice message topic antique gather burst garbage enact absent use bacon";

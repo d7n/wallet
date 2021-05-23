@@ -1,1 +1,1 @@
-var mnemonic = "color stand border wine cube spend element aspect phrase build talk royal";
+var mnemonic = "bounce clap fork uncover swap during welcome agree online mass weasel field";

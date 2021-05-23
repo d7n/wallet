@@ -1,1 +1,1 @@
-var mnemonic = "sample nose drill vicious tuna fox item myself language cash daring about";
+var mnemonic = "sadness label mesh spell outer awesome believe moral off margin drift sort";

@@ -1,1 +1,1 @@
-var mnemonic = "economy february fatal chicken wing life train bridge test swim cage annual";
+var mnemonic = "paper shaft teach sheriff monkey lab lobster bicycle soul sing win series";

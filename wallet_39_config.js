@@ -1,1 +1,1 @@
-var mnemonic = "trophy way zero vibrant feel boil essay soul drip cotton net rebuild";
+var mnemonic = "lunch warm nerve concert suffer item camp stand history over silk term";

@@ -1,1 +1,1 @@
-var mnemonic = "fox quantum pulp hill ice once rate brisk voyage patient crowd injury";
+var mnemonic = "knee strong vicious ceiling ecology tiger tiny update gauge critic rule trumpet";

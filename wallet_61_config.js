@@ -1,1 +1,1 @@
-var mnemonic = "accuse bronze foil season unaware cry wash pepper loud protect depth mimic";
+var mnemonic = "top axis avoid mobile design tooth hand moon remind measure math inform";

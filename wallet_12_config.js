@@ -1,1 +1,1 @@
-var mnemonic = "valley cable shoulder network sort pilot plunge soap hat cliff era mystery";
+var mnemonic = "harvest letter scatter once humble muffin tell middle panic section federal reform";

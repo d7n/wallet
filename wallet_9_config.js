@@ -1,1 +1,1 @@
-var mnemonic = "case unveil airport broccoli relief tongue enact stumble fat piano calm note";
+var mnemonic = "couch woman duty glue eye base invite test filter october blood lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "gown car creek small junk tuna ivory dolphin north cinnamon replace wave";
+var mnemonic = "sentence level daughter lawn universe carbon fog thank explain claw warm angry";

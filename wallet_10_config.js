@@ -1,1 +1,1 @@
-var mnemonic = "outer sort timber paper autumn entire fossil width machine decorate funny olive";
+var mnemonic = "attitude blood sea train buddy ethics limb vehicle input oblige sea shine";

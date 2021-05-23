@@ -1,1 +1,1 @@
-var mnemonic = "town gun used oblige pull credit vapor pill evidence friend youth frame";
+var mnemonic = "wreck balcony sure today grab expire upper marine pride endorse scrub soldier";

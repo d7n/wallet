@@ -1,1 +1,1 @@
-var mnemonic = "mushroom notable select medal walnut door barrel method game destroy chest team";
+var mnemonic = "thrive great fatigue romance gain unusual fitness impose wheat special wheat ship";

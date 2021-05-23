@@ -1,1 +1,1 @@
-var mnemonic = "satisfy vacant plug quality license harbor screen list atom social regular meat";
+var mnemonic = "cousin pumpkin arrest side twist sentence prison suspect side correct upset fish";

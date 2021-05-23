@@ -1,1 +1,1 @@
-var mnemonic = "often member often crisp fluid travel jacket anxiety pupil despair flower vanish";
+var mnemonic = "zone knife purse hunt keep oppose utility wisdom loan dutch table plate";

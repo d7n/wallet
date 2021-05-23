@@ -1,1 +1,1 @@
-var mnemonic = "danger good tube anxiety plug expand palm author slot pig saddle make";
+var mnemonic = "noodle step two stem myth expose wash trophy tiny essence electric tent";

@@ -1,1 +1,1 @@
-var mnemonic = "follow priority erupt juice move prosper spatial auction shove mirror swarm piano";
+var mnemonic = "modify cover ozone monkey valve nose tuition issue average salad fat engage";

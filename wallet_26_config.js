@@ -1,1 +1,1 @@
-var mnemonic = "auto deliver speed social awkward flat index fiction keep brand robust segment";
+var mnemonic = "border around immune fragile page juice vapor slab math blur bind struggle";

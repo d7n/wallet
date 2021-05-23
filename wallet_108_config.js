@@ -1,1 +1,1 @@
-var mnemonic = "current inhale rate dial syrup cargo there spend debate sort east animal";
+var mnemonic = "screen recipe eight voice lecture protect abandon drama embark biology warrior evolve";

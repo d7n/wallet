@@ -1,1 +1,1 @@
-var mnemonic = "dignity side cupboard click stumble drive auction gauge dune trust hybrid galaxy";
+var mnemonic = "educate crawl stumble describe bid physical leg source luxury bench update skill";

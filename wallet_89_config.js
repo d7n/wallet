@@ -1,1 +1,1 @@
-var mnemonic = "copper physical edit kite swamp actress cliff auto produce travel olive burst";
+var mnemonic = "stereo jewel song stuff nest east abstract butter ski adapt have antenna";

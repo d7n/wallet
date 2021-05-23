@@ -1,1 +1,1 @@
-var mnemonic = "light raccoon run gravity disagree album path march message genius estate guard";
+var mnemonic = "kite exotic stick family found grain much input curtain foot funny govern";

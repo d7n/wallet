@@ -1,1 +1,1 @@
-var mnemonic = "describe huge once horse lounge emerge detail visual attend inflict pull soap";
+var mnemonic = "grocery family easily mother like slide outdoor skate juice gaze engage wheel";

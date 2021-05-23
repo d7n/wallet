@@ -1,1 +1,1 @@
-var mnemonic = "chunk crisp phrase hood airport broken curve question day off laptop ice";
+var mnemonic = "husband giraffe brand upper inspire run hidden aisle decline neither danger garlic";

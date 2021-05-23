@@ -1,1 +1,1 @@
-var mnemonic = "wage spread type adapt best car picnic swarm pattern property verify dismiss";
+var mnemonic = "bar either solar dumb vendor army bottom myth brush nation gather patch";

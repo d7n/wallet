@@ -1,1 +1,1 @@
-var mnemonic = "wear submit paper minute escape smile hazard prison flag cube document twenty";
+var mnemonic = "true person orange rebuild risk one bargain badge fee payment repeat kiwi";

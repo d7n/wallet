@@ -1,1 +1,1 @@
-var mnemonic = "name popular harbor recall wild demise please expire artwork video lounge raise";
+var mnemonic = "early sting virtual range world category chief donkey appear coin wet slot";

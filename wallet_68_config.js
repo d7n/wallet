@@ -1,1 +1,1 @@
-var mnemonic = "bid govern fabric adult thunder visit nurse never fit photo merit frequent";
+var mnemonic = "sock zone nurse spawn category fabric hat attitude vendor resist dog blue";

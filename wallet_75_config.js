@@ -1,1 +1,1 @@
-var mnemonic = "reward glare grant misery polar image amount fix fabric artefact regular card";
+var mnemonic = "thank enact core glimpse legend achieve floor tank cube liquid popular stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork hire cement grid tube trim blame liquid cushion creek stick drop";
+var mnemonic = "daring garment sell cloth problem nasty chunk wear hood visit someone limit";

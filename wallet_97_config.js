@@ -1,1 +1,1 @@
-var mnemonic = "grain page drum size cream fruit soup maple love trip critic amount";
+var mnemonic = "fitness more follow then recall oil degree control matter trick write carbon";

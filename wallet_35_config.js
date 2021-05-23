@@ -1,1 +1,1 @@
-var mnemonic = "raise possible nest ignore six excuse roast ski hybrid dawn keep need";
+var mnemonic = "settle accuse wild daring taxi quarter silent balance vivid trumpet cereal stay";

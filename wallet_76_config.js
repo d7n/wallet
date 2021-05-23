@@ -1,1 +1,1 @@
-var mnemonic = "number reduce link harbor neglect snake trick rose same broken column photo";
+var mnemonic = "liberty bounce blouse sugar shock dove come popular speak fuel glance typical";

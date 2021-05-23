@@ -1,1 +1,1 @@
-var mnemonic = "garbage dignity shop deny affair digital steak aim once world sword erode";
+var mnemonic = "riot quantum use salt festival teach group mutual spoil immune document birth";

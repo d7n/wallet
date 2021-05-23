@@ -1,1 +1,1 @@
-var mnemonic = "ridge journey cloud song beach flavor awful angry stomach detail birth elephant";
+var mnemonic = "beyond squirrel strike chronic design heavy tape great addict sudden swift draw";

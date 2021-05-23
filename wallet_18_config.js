@@ -1,1 +1,1 @@
-var mnemonic = "hint embrace lizard ankle dilemma demand slab infant inmate river win sing";
+var mnemonic = "pony glance lamp asset double hobby horror dress receive shell afford hospital";

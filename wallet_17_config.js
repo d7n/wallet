@@ -1,1 +1,1 @@
-var mnemonic = "quick camp aunt express cabin bench ritual discover orchard level boost ozone";
+var mnemonic = "aisle visit jeans happy great upset kiwi wasp element renew text carbon";

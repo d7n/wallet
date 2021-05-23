@@ -1,1 +1,1 @@
-var mnemonic = "hope hill leave glare bracket glow win other escape lottery unknown rally";
+var mnemonic = "cage plunge toe social combine relief ribbon fade emotion upgrade plate similar";

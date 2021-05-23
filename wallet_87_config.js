@@ -1,1 +1,1 @@
-var mnemonic = "emerge fragile ask album relax stable wage crane hope lizard couch exact";
+var mnemonic = "wood refuse elder pottery wide tobacco reopen quarter bonus few segment hour";

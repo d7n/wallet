@@ -1,1 +1,1 @@
-var mnemonic = "together gown fault coil drum climb actual solar simple color debate patient";
+var mnemonic = "planet purpose differ produce oval salad buzz kitten unveil law monkey wealth";

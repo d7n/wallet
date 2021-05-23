@@ -1,1 +1,1 @@
-var mnemonic = "bike knock menu decade impact quality erase ghost access obscure island fall";
+var mnemonic = "symptom work aisle legal alley leisure review trust grace grief law jeans";

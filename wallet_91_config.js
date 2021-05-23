@@ -1,1 +1,1 @@
-var mnemonic = "lucky stomach aisle pill visit define situate hollow soap place crowd panda";
+var mnemonic = "budget neck among over chapter anger apology curtain alcohol ecology promote word";

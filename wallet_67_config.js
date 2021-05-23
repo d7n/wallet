@@ -1,1 +1,1 @@
-var mnemonic = "rich snack device dirt flavor remember bench creek gym salt public faith";
+var mnemonic = "team jelly episode valley veteran toe level bind pass pudding guitar chest";

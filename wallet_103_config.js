@@ -1,1 +1,1 @@
-var mnemonic = "they elder result pelican misery opinion axis talk exile access pulp frame";
+var mnemonic = "left index cotton play grit noodle place treat girl river duty crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid mesh cigar rescue acoustic loop protect donate impact truck sail robust";
+var mnemonic = "art dune iron service teach town absent oppose permit match insect yellow";

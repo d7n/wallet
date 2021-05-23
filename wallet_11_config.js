@@ -1,1 +1,1 @@
-var mnemonic = "illness fiscal make diary relief card sign discover favorite tray village adult";
+var mnemonic = "number license atom aunt shock home vote issue process box pepper giant";

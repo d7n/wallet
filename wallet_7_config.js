@@ -1,1 +1,1 @@
-var mnemonic = "tail mother update canal tray like admit faculty fatigue fame unlock carbon";
+var mnemonic = "where female course direct ball gravity crumble canyon rebel giant adapt hollow";

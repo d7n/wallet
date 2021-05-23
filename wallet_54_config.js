@@ -1,1 +1,1 @@
-var mnemonic = "neck warm water total clog end obscure bring gym bitter actor cute";
+var mnemonic = "embark parent remind demise pilot arm soldier laugh name gym model bracket";

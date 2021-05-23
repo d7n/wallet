@@ -1,1 +1,1 @@
-var mnemonic = "fatal hold later oblige obscure final dust chaos satisfy pattern furnace detect";
+var mnemonic = "used barrel palm oppose ostrich smile social miracle team then hurry picture";

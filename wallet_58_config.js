@@ -1,1 +1,1 @@
-var mnemonic = "honey banana document dust kind regular timber face wrist blue vacuum snow";
+var mnemonic = "veteran rib certain few vital estate planet innocent garden raccoon expand practice";

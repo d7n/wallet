@@ -1,1 +1,1 @@
-var mnemonic = "length reveal abuse axis today unaware play elder unveil advance must hedgehog";
+var mnemonic = "turn flash raw message fortune daughter visit route assist engine trial minimum";

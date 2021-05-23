@@ -1,1 +1,1 @@
-var mnemonic = "fade climb bleak proof amount interest accident inside check rocket conduct salute";
+var mnemonic = "front illegal better egg opera hunt bike afraid genius bonus inquiry rain";

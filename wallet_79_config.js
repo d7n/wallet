@@ -1,1 +1,1 @@
-var mnemonic = "code arm benefit obvious hero end sword push modify attend fly audit";
+var mnemonic = "day fashion sight floor fossil task squeeze between upon inside hedgehog meat";

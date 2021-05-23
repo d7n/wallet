@@ -1,1 +1,1 @@
-var mnemonic = "update expose cancel hurt oven visual already chapter goddess domain discover kiss";
+var mnemonic = "eyebrow tell hard fatal output leopard scare muscle glass artist army pitch";

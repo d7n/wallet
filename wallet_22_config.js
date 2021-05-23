@@ -1,1 +1,1 @@
-var mnemonic = "fault odor antenna police bridge suggest junior bachelor abuse reform frost admit";
+var mnemonic = "wrap crawl eager laundry exercise give year liberty mutual initial old donkey";

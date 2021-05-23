@@ -1,1 +1,1 @@
-var mnemonic = "brave shrimp farm funny elite olympic wrestle earth mirror sheriff letter truck";
+var mnemonic = "duck liquid breeze call grant play gas tackle coffee rally blanket fatigue";

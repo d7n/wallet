@@ -1,1 +1,1 @@
-var mnemonic = "manage pool solve switch high armed stamp viable paddle glass outside loan";
+var mnemonic = "festival parade fantasy peasant poem pulp cheap slim sketch minor valve tackle";

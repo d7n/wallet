@@ -1,1 +1,1 @@
-var mnemonic = "school table champion drink already shell crane clarify mixed prepare sense chicken";
+var mnemonic = "nut lens brain frown about spray net demise day embark divorce bitter";

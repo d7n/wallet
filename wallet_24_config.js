@@ -1,1 +1,1 @@
-var mnemonic = "aerobic dose arrow subject destroy symbol tuition person dwarf scorpion actual under";
+var mnemonic = "second pottery slam section control side nature pepper shy check effort shallow";

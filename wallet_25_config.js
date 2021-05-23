@@ -1,1 +1,1 @@
-var mnemonic = "reason update casual ranch column sure once clay one solar catalog year";
+var mnemonic = "boost gain clerk sand jelly ridge bar nothing inspire panel brave improve";

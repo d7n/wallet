@@ -1,1 +1,1 @@
-var mnemonic = "focus split visa gentle label result reopen unusual spirit hip mail race";
+var mnemonic = "hero then sun shock grab hybrid swamp crash drop symbol modify wage";

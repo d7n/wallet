@@ -1,1 +1,1 @@
-var mnemonic = "first seek avoid own shiver dry coyote accident size expand step theme";
+var mnemonic = "observe fruit trigger weather burden prize quote ceiling animal cage nice scare";

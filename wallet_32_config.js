@@ -1,1 +1,1 @@
-var mnemonic = "silver base robot banner unusual fame voice lawn stage lawn kit patient";
+var mnemonic = "negative control shed globe duck face marine tenant turn pottery coyote effort";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip pulp near retire identify heart follow engine beef flower thought coyote";
+var mnemonic = "add afraid double car donate final legal polar often quality pet belt";

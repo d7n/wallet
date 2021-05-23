@@ -1,1 +1,1 @@
-var mnemonic = "there bridge door retire rabbit water divorce office valve casual young put";
+var mnemonic = "settle uniform repair tourist brave leopard image affair border ball century hurry";

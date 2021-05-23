@@ -1,1 +1,1 @@
-var mnemonic = "stadium shy pause session item shrug neck marble witness stock enforce tip";
+var mnemonic = "jump work verb trick use online attitude tray they panel parent casino";

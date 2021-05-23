@@ -1,1 +1,1 @@
-var mnemonic = "either bright fox bind because entire tank fitness general quiz slice dust";
+var mnemonic = "noble strong mouse surprise news jump thank token century erase ensure brick";

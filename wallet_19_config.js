@@ -1,1 +1,1 @@
-var mnemonic = "lecture vintage royal issue sick iron pave ribbon impact step diesel vacuum";
+var mnemonic = "exit great over story crane leopard bless absurd foster limit soccer fiction";

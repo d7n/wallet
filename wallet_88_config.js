@@ -1,1 +1,1 @@
-var mnemonic = "caught mother slice farm finger find glide oven woman fade polar stay";
+var mnemonic = "behave lottery immense kiss term senior ahead cement kidney spare notice harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "earn dolphin distance quarter brave satoshi lawn globe oval purpose smooth skill";
+var mnemonic = "amateur jump try file gasp awful practice clump delay boss west raccoon";

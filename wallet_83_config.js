@@ -1,1 +1,1 @@
-var mnemonic = "tray humor train cat toast board lucky extra sleep churn pepper feature";
+var mnemonic = "west force tissue enlist face victory eyebrow keen frog action adapt civil";

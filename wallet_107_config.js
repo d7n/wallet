@@ -1,1 +1,1 @@
-var mnemonic = "neutral elbow slight talk protect valve minimum dove consider treat final core";
+var mnemonic = "profit device equal door weather ready accident excuse stamp rent mercy common";
