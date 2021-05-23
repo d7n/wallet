@@ -1,1 +1,1 @@
-var mnemonic = "slot token pink need style boost bench useless liberty half talent glass";
+var mnemonic = "tired fence enemy such must heart spider analyst salmon judge entire ring";

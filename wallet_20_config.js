@@ -1,1 +1,1 @@
-var mnemonic = "laundry two coin cargo comfort clown catch churn mutual metal miss vanish";
+var mnemonic = "vintage roof skirt bomb cherry path eyebrow modify vote because vanish sadness";

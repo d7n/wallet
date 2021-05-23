@@ -1,1 +1,1 @@
-var mnemonic = "mango fine gauge earth crane obscure neck turtle unit hire flower cry";
+var mnemonic = "lens inform bitter pave lounge thank filter suspect lottery oak drum evil";

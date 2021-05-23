@@ -1,1 +1,1 @@
-var mnemonic = "sample acquire asset girl access tape blame bread balcony busy when differ";
+var mnemonic = "clap puzzle helmet profit zone middle ketchup lens frozen worth orbit tenant";

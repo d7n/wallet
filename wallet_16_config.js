@@ -1,1 +1,1 @@
-var mnemonic = "uniform old ankle tuition spirit member riot rapid pistol exhibit survey basic";
+var mnemonic = "alter wheel electric pink mad glance cruel latin ladder label car curious";

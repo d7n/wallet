@@ -1,1 +1,1 @@
-var mnemonic = "blush earth toilet bomb plug ball broom mean tuna clown guilt govern";
+var mnemonic = "shove hurt profit thank defense almost put dinosaur clerk shift exchange cute";

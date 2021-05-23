@@ -1,1 +1,1 @@
-var mnemonic = "bar regular game cool gravity blind feed float chest brother raccoon cradle";
+var mnemonic = "that there fashion borrow between fancy one recipe casino license glance audit";

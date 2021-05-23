@@ -1,1 +1,1 @@
-var mnemonic = "manual amused plate push faculty tiger burden radar car desert stool waste";
+var mnemonic = "few tragic trip neither open reason ignore ride april cream odor artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry slender convince budget beyond fiscal visit great bulk solar transfer rebuild";
+var mnemonic = "blast want cushion reunion face door claw clap divert glass lounge memory";

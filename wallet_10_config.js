@@ -1,1 +1,1 @@
-var mnemonic = "elder leisure tribe solid symbol library bicycle prepare primary degree village diamond";
+var mnemonic = "pitch sand monkey skull company wear apart ranch satisfy health decide pet";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy length bean kiwi peace rather reward globe water rescue valve orient";
+var mnemonic = "scissors drum current weekend able alarm comfort apart story flush must absurd";

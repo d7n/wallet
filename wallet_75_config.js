@@ -1,1 +1,1 @@
-var mnemonic = "gather outer diagram speed hire meat grocery sting divide cushion dismiss net";
+var mnemonic = "valve kid couple half nature matter inquiry cage toward check animal excuse";

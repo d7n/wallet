@@ -1,1 +1,1 @@
-var mnemonic = "patient sword shove video dignity goat gorilla camera bridge educate access fury";
+var mnemonic = "blush script into skill object relief confirm cliff make reopen bonus humor";

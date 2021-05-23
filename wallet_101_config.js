@@ -1,1 +1,1 @@
-var mnemonic = "normal volume robot found cliff rib hotel brisk trick day festival federal";
+var mnemonic = "pet load oyster inside castle laundry together stage text dad flat giraffe";

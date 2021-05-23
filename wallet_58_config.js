@@ -1,1 +1,1 @@
-var mnemonic = "muffin renew pilot boy volcano isolate keep hollow utility ticket siren crowd";
+var mnemonic = "cousin method rule royal update pitch fox until hill patch library beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar claim nothing nut type trouble turkey spray airport magnet cruise caught";
+var mnemonic = "castle torch rigid print knock girl kidney chase slush light behave panic";

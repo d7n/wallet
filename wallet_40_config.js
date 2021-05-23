@@ -1,1 +1,1 @@
-var mnemonic = "enrich rug table digital long result empower ridge world candy rude runway";
+var mnemonic = "large seed cupboard apple border reject cousin swap best kiwi whip street";

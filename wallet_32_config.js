@@ -1,1 +1,1 @@
-var mnemonic = "bamboo adapt organ stuff library night skirt plate auction call coil option";
+var mnemonic = "field excite tube warfare bundle begin desert mail heart solution bind reveal";

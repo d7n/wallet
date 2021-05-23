@@ -1,1 +1,1 @@
-var mnemonic = "trend magnet program rather spoon layer image fancy dog girl assault matter";
+var mnemonic = "hand urge loud stove that silent denial amateur base mushroom twin vast";

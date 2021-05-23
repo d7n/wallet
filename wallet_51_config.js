@@ -1,1 +1,1 @@
-var mnemonic = "slight fox wet satoshi meat knife hire check fish drama travel flavor";
+var mnemonic = "radio identify resemble drama afford census define trial century grit brain stamp";

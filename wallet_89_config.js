@@ -1,1 +1,1 @@
-var mnemonic = "canyon throw artefact control hat above prize unfair science lawsuit mountain aspect";
+var mnemonic = "car ability kite slender shell please vote poet evolve mail sound shadow";

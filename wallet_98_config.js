@@ -1,1 +1,1 @@
-var mnemonic = "trade whisper scheme bacon chef claim just twin join appear pupil sadness";
+var mnemonic = "onion antique beef trick visa fee camp oval identify reward gallery crawl";

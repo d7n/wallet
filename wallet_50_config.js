@@ -1,1 +1,1 @@
-var mnemonic = "tool wagon erupt drastic unaware february damage maid mad truck argue spy";
+var mnemonic = "satoshi travel bunker concert swing cram connect stick cruise learn test mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner ball report dentist impulse child fall crater voyage video play taxi";
+var mnemonic = "truly fury gospel useful misery slam clump lemon blast motor vibrant pepper";

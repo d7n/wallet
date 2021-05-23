@@ -1,1 +1,1 @@
-var mnemonic = "stone nest kite decide harvest pyramid turn differ guide trip fuel analyst";
+var mnemonic = "wide confirm drip chase west dutch ring trick horse ostrich blame piece";

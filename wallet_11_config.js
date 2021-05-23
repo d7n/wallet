@@ -1,1 +1,1 @@
-var mnemonic = "sting mobile when flash radar syrup educate sentence sing will sniff scatter";
+var mnemonic = "maze van sorry online wild earn breeze nerve cancel tag smart butter";

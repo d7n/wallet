@@ -1,1 +1,1 @@
-var mnemonic = "fresh hunt genius rib door field cliff vintage table soul poet fiscal";
+var mnemonic = "lyrics essence spare artist music achieve prize mind jazz begin bless bridge";

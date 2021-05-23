@@ -1,1 +1,1 @@
-var mnemonic = "material issue flag blade toe network pelican much one runway version shed";
+var mnemonic = "attitude razor nerve food cat shift birth salon chef vault reunion waste";

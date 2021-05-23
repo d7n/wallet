@@ -1,1 +1,1 @@
-var mnemonic = "inhale admit oppose merge police film correct street balance twenty unveil struggle";
+var mnemonic = "dune van alien corn thrive message stuff dirt offer hotel happy rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "more wreck west scout outdoor cake buddy discover daughter magnet when bacon";
+var mnemonic = "paper toss critic update mammal bread tube meat gospel left raven spin";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict lock bar slide such direct dream dose exclude practice rifle purpose";
+var mnemonic = "steel original what loop mixed response acoustic seat story nominee fancy utility";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch problem expose tank chef other depend position tent vast patient fly";
+var mnemonic = "history effort ride safe work danger wise dial jealous office total true";

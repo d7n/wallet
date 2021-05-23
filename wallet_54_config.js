@@ -1,1 +1,1 @@
-var mnemonic = "present climb flush visit post network acid appear abstract various mushroom range";
+var mnemonic = "lumber oblige slogan obscure potato excuse wear purchase aim pipe fold shallow";

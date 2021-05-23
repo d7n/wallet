@@ -1,1 +1,1 @@
-var mnemonic = "resource net harbor gown copy notice used infant margin taste thought pool";
+var mnemonic = "blame inside install vendor debris reward furnace ketchup powder fringe capable tongue";

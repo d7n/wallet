@@ -1,1 +1,1 @@
-var mnemonic = "movie mango token bean stem lift bright furnace recipe spawn glance exhibit";
+var mnemonic = "monitor ridge bind solve witness possible mention flight office ecology cabbage try";

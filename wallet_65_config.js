@@ -1,1 +1,1 @@
-var mnemonic = "drastic tilt clump smooth picnic theory winter gravity matter catalog tower learn";
+var mnemonic = "violin reopen obvious much mule shaft convince guitar helmet gravity spider surprise";

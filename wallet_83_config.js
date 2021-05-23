@@ -1,1 +1,1 @@
-var mnemonic = "owner stand talk infant display security cricket bottom brief cattle dinosaur crawl";
+var mnemonic = "baby skate height garbage uniform arctic jump vote chair park soul fox";

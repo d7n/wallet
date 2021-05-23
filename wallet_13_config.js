@@ -1,1 +1,1 @@
-var mnemonic = "sample profit music physical nest benefit nest brief fruit result police someone";
+var mnemonic = "bacon champion category between know grab spot large energy century valley donkey";

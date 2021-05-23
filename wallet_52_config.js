@@ -1,1 +1,1 @@
-var mnemonic = "tiger govern father circle animal soap stone van beauty satisfy zero science";
+var mnemonic = "priority camp kick endorse disorder west clip debate marriage release despair tell";

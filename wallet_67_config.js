@@ -1,1 +1,1 @@
-var mnemonic = "cupboard ghost army pudding whale raven broken sketch nothing ten spray caught";
+var mnemonic = "choice during wrist frozen borrow runway curve label ski auction ankle today";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow wine have mandate double segment green oil struggle another ball talent";
+var mnemonic = "clump orphan render online barrel hill deposit charge door mobile scatter caution";

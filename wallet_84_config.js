@@ -1,1 +1,1 @@
-var mnemonic = "barrel engage bus refuse bless fancy toss text uphold winter width act";
+var mnemonic = "loud vintage bulk team clump ridge camp chair peace open liquid task";

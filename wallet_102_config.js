@@ -1,1 +1,1 @@
-var mnemonic = "replace spell coach inquiry upon best corn win net soap stool habit";
+var mnemonic = "define scale skin warfare joy road switch buzz twice alert company want";

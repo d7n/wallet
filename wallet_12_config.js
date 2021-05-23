@@ -1,1 +1,1 @@
-var mnemonic = "note prosper medal draw genius galaxy autumn minor stamp prison table main";
+var mnemonic = "blast genius brave return midnight hollow usual donate left scan main nose";

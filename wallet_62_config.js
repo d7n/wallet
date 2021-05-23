@@ -1,1 +1,1 @@
-var mnemonic = "nut empower heart gasp budget crew agree travel dance runway client gallery";
+var mnemonic = "network rate size raccoon arrive airport surround grocery purse toe swift emotion";

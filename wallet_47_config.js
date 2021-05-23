@@ -1,1 +1,1 @@
-var mnemonic = "enter find salute patch convince fantasy lucky winter wink town loan deal";
+var mnemonic = "mimic lava dawn enter mercy such stadium discover broken once rose walnut";

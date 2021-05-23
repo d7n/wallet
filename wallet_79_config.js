@@ -1,1 +1,1 @@
-var mnemonic = "cake prevent raccoon cement venture explain foil odor defense middle coach visual";
+var mnemonic = "mail tourist castle hill palace seed grief fiber donkey isolate busy rare";

@@ -1,1 +1,1 @@
-var mnemonic = "very begin paper dawn picture such large surround claim access detect neutral";
+var mnemonic = "clip pear country final donkey fly any hard assist scorpion crawl render";

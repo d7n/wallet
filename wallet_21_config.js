@@ -1,1 +1,1 @@
-var mnemonic = "soda annual hidden image pigeon ready public nature settle plate entry coffee";
+var mnemonic = "north pudding aware east common sword aisle mercy recipe depend hybrid unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma page maze capable guide crane noodle hurdle spray exotic garment cradle";
+var mnemonic = "cliff churn hurt reform kiss accident course yellow topple where sign guilt";

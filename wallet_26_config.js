@@ -1,1 +1,1 @@
-var mnemonic = "domain dilemma cry sentence diet tell fit behind monster invest enlist sense";
+var mnemonic = "base tired when educate strong present cash option organ water buyer runway";

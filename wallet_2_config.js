@@ -1,1 +1,1 @@
-var mnemonic = "forget coach trap advice ritual battle enjoy canal layer aerobic long arch";
+var mnemonic = "elite prize prison shield where uncle budget property length festival satisfy auction";

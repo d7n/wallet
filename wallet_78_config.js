@@ -1,1 +1,1 @@
-var mnemonic = "machine yellow science century lazy mystery race field frog leopard decade tattoo";
+var mnemonic = "cram swap link syrup brisk spice machine catch lab latin pact soccer";

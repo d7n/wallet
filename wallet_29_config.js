@@ -1,1 +1,1 @@
-var mnemonic = "guilt ostrich disagree penalty reduce fantasy next choose adult van enemy squeeze";
+var mnemonic = "alien hungry seminar suffer roast wing prevent begin inherit food taste merit";

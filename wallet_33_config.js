@@ -1,1 +1,1 @@
-var mnemonic = "orange capital december brief grace electric review harsh exist cry pair unable";
+var mnemonic = "enjoy escape upset trial buddy reject suit vague gospel cruel angry ring";

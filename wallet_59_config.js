@@ -1,1 +1,1 @@
-var mnemonic = "roof ten window tribe high piece narrow frequent wrong valley crawl head";
+var mnemonic = "bulb inflict write fame faculty deposit notable zebra stumble pelican intact grace";

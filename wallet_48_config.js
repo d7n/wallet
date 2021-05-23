@@ -1,1 +1,1 @@
-var mnemonic = "mention punch worry april satisfy harsh agent unfair october silk allow insane";
+var mnemonic = "warfare toddler visit what slot level nephew burger spice biology govern lawn";

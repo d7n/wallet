@@ -1,1 +1,1 @@
-var mnemonic = "share hundred number ostrich carbon anchor update easy zoo loop tip field";
+var mnemonic = "ecology tilt such arena audit biology relief chunk snake add left aerobic";

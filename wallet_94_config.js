@@ -1,1 +1,1 @@
-var mnemonic = "arena pencil ten bubble combine trigger jeans ring virus used estate kick";
+var mnemonic = "pull umbrella myself eagle display whisper river crouch protect torch trend twenty";

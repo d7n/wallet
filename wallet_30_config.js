@@ -1,1 +1,1 @@
-var mnemonic = "poem wet sword mass ostrich eagle april oxygen alley joke risk stick";
+var mnemonic = "delay transfer save mango major eyebrow garbage wisdom lucky coyote ball you";

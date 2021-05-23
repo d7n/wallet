@@ -1,1 +1,1 @@
-var mnemonic = "mention era make maid bench air mesh slice air swamp stamp elegant";
+var mnemonic = "opinion vapor next toss toilet fat absorb spoil hint used pitch arctic";

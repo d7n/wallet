@@ -1,1 +1,1 @@
-var mnemonic = "tiger volume assist isolate joke hover double supply supply buddy feel ill";
+var mnemonic = "express eight door alley virus rhythm salt silk north student pledge stone";

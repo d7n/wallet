@@ -1,1 +1,1 @@
-var mnemonic = "riot picture chest curious faith marble mixed enable promote ginger audit execute";
+var mnemonic = "survey blue tilt about cup public limit olympic giraffe hobby sausage inspire";

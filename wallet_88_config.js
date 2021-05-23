@@ -1,1 +1,1 @@
-var mnemonic = "comfort usage upper nasty unhappy art tired bright stone goat robust decide";
+var mnemonic = "oblige turn kitchen machine pitch staff card pass fall monitor cook wreck";

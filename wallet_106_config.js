@@ -1,1 +1,1 @@
-var mnemonic = "beyond artefact fatal enroll banner mutual shine loud ahead true among correct";
+var mnemonic = "tiger crumble unveil region beach middle clap dizzy toward response segment twice";

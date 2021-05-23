@@ -1,1 +1,1 @@
-var mnemonic = "offer express plastic future kitchen repeat escape sport cloud shove curious danger";
+var mnemonic = "master reject goat slice razor approve emerge supreme fringe crack session town";

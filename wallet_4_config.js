@@ -1,1 +1,1 @@
-var mnemonic = "canoe razor decrease benefit foster gospel upon mixture return fiscal cook flee";
+var mnemonic = "organ maid swing curtain type hint snake endorse debris egg congress movie";

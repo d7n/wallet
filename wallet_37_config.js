@@ -1,1 +1,1 @@
-var mnemonic = "lonely regret chair meat glow broccoli exist kitten deputy top airport walnut";
+var mnemonic = "lecture surface eternal planet sniff disease bracket ramp width chief tower bar";

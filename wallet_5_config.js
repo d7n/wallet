@@ -1,1 +1,1 @@
-var mnemonic = "scene limb patch urban turn huge frame club monkey cherry runway jazz";
+var mnemonic = "bomb collect nest midnight laugh firm private scheme elephant rabbit fantasy shift";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist donor cotton sell scout vintage hurdle damage chat pig outer success";
+var mnemonic = "gate grit hundred hollow decline neutral jar wolf rally uphold develop style";

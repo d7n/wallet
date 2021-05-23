@@ -1,1 +1,1 @@
-var mnemonic = "patrol basket kangaroo anxiety puzzle input tissue diary stay quick answer position";
+var mnemonic = "glass curious adjust talent eye abuse pull crumble neck virus roof away";

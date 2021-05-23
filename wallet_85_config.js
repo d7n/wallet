@@ -1,1 +1,1 @@
-var mnemonic = "injury hamster usual example priority result congress daughter wife inspire ship august";
+var mnemonic = "bomb release table dish rubber mail fit wrestle forum auction amateur drop";

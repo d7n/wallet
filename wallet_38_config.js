@@ -1,1 +1,1 @@
-var mnemonic = "slush cheap involve vocal cruise picnic offer mammal luxury decide ginger teach";
+var mnemonic = "teach surround genuine egg frame payment cactus brown unique cupboard achieve crane";

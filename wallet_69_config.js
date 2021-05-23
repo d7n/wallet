@@ -1,1 +1,1 @@
-var mnemonic = "income flock scale clerk fade marble dirt list logic brass page loud";
+var mnemonic = "fit force raccoon laugh perfect cram vote excuse leisure boil glow expose";

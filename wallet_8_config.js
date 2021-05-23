@@ -1,1 +1,1 @@
-var mnemonic = "strategy increase income aspect news velvet coin prison top also ball disease";
+var mnemonic = "marriage horror detect combine excite income depart anchor mammal person zebra twist";

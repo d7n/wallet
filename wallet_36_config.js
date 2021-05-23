@@ -1,1 +1,1 @@
-var mnemonic = "swarm tape immune shop slice warm panda dirt grunt churn noble arrive";
+var mnemonic = "bar already boil quick stool flat weekend whisper flee jelly vocal decade";

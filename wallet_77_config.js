@@ -1,1 +1,1 @@
-var mnemonic = "promote bamboo music rare vehicle zoo shoot scare science smooth hockey female";
+var mnemonic = "cheese boat acquire blind flush grit lake quarter bonus subject access renew";

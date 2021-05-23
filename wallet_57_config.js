@@ -1,1 +1,1 @@
-var mnemonic = "high drink there pilot dumb core build penalty barrel fame fade bind";
+var mnemonic = "rely kidney jungle attitude bubble radar change basic cage wood tissue broken";

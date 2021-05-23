@@ -1,1 +1,1 @@
-var mnemonic = "firm hurdle noodle stumble width book quick slender attitude brush plate multiply";
+var mnemonic = "border olive accident soft kid hero chaos stove drill burger empty spend";

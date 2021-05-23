@@ -1,1 +1,1 @@
-var mnemonic = "over chicken present unfair primary charge broccoli fancy machine twice ethics flame";
+var mnemonic = "best unaware brisk adult bulb attract volcano mesh step gorilla sorry dwarf";

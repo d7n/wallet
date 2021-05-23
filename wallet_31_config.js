@@ -1,1 +1,1 @@
-var mnemonic = "dust behave buyer industry inherit prepare note jar path glove dress hawk";
+var mnemonic = "ill page dutch wide velvet walnut drama tourist cave brain cattle fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "control chimney carpet spring offer indoor inch magic script echo school mountain";
+var mnemonic = "hub scare add copy beyond panda celery exile friend lawsuit ghost universe";

@@ -1,1 +1,1 @@
-var mnemonic = "plug slab shoot home phone dynamic caution glance marble shoe senior cloud";
+var mnemonic = "brush leave replace prison october spatial wear ketchup inch render input age";

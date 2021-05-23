@@ -1,1 +1,1 @@
-var mnemonic = "shell output toward goose cereal valid crunch squeeze apart volume hazard title";
+var mnemonic = "wire slice slide library flavor cycle distance light cargo that rug earn";

@@ -1,1 +1,1 @@
-var mnemonic = "faint scorpion must ocean hazard toe urban original glow uncle ozone aerobic";
+var mnemonic = "easy mesh garden eyebrow aspect cruise lawn sister travel document wire innocent";

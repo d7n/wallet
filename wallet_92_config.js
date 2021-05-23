@@ -1,1 +1,1 @@
-var mnemonic = "photo similar frequent frog culture afraid divert april junior engage vast pulp";
+var mnemonic = "source suggest awake typical toe blood shine virtual pottery upgrade floor brother";

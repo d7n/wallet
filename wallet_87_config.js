@@ -1,1 +1,1 @@
-var mnemonic = "benefit joy finish pyramid sustain penalty access math deer put extend main";
+var mnemonic = "level soul admit direct access give disagree today pigeon rate dance only";

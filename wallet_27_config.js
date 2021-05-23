@@ -1,1 +1,1 @@
-var mnemonic = "know panic ladder basket tiger decide mesh harbor clerk limit exit mystery";
+var mnemonic = "habit fun guess void fuel century vacant claim size resource actor repair";

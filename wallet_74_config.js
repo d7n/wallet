@@ -1,1 +1,1 @@
-var mnemonic = "wear pull merry choice sick forget hollow riot feature warm spy wheel";
+var mnemonic = "view enough tongue dynamic faculty service aspect paper pattern jaguar perfect mother";

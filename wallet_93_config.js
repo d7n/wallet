@@ -1,1 +1,1 @@
-var mnemonic = "corn razor frog lamp fork result turtle vendor another inflict wall dial";
+var mnemonic = "master weapon stage any neglect hand argue win unfair aisle collect vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "road change travel agree annual choose column squirrel atom clever cover dutch";
+var mnemonic = "view indicate welcome razor glue inhale design edge fold copper dove depend";

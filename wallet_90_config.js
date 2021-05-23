@@ -1,1 +1,1 @@
-var mnemonic = "celery focus liquid public upgrade pool safe short burden lock bridge spray";
+var mnemonic = "fun glow dust axis comfort lawn must pool cause hole orbit pear";

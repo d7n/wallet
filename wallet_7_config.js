@@ -1,1 +1,1 @@
-var mnemonic = "letter garage way voyage mutual bus dune gift machine problem struggle supreme";
+var mnemonic = "anchor keen snow into puzzle year deposit catalog silk bacon grass humor";
