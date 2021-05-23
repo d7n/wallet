@@ -1,1 +1,1 @@
-var mnemonic = "scare goose fade grocery odor very turkey pencil tilt detect lottery luggage";
+var mnemonic = "search school awful suffer mix mercy switch symbol shield swing speak river";

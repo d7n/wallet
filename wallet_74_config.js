@@ -1,1 +1,1 @@
-var mnemonic = "increase square bamboo answer start amazing water video math sign olive rubber";
+var mnemonic = "multiply relax rotate say omit camera engine crew timber plastic life brush";

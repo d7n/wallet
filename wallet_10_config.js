@@ -1,1 +1,1 @@
-var mnemonic = "assume token estate display mean weasel shadow vacuum save thing spice advance";
+var mnemonic = "service fog assault digital nephew purchase side afford absent nominee turn damage";

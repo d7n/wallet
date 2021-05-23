@@ -1,1 +1,1 @@
-var mnemonic = "similar inject obey fork dynamic bag canyon joke carpet smooth frost vast";
+var mnemonic = "water object transfer swim remember parent caught physical venture crime face elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "chest measure fringe daughter humor spike mountain knee pyramid achieve scrub fish";
+var mnemonic = "mercy ripple front angle mask glance lunch that smart bamboo joy pyramid";

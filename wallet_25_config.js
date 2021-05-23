@@ -1,1 +1,1 @@
-var mnemonic = "fiber ribbon deer capital crater color senior subject throw into fix enroll";
+var mnemonic = "true supply opera crush soccer fatigue below scrap stuff palace universe stem";

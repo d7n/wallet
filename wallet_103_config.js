@@ -1,1 +1,1 @@
-var mnemonic = "pause urge air kind police spin install grit violin relax menu chronic";
+var mnemonic = "over frown enable cave snow favorite library impact subject truth blanket ladder";

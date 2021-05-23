@@ -1,1 +1,1 @@
-var mnemonic = "awesome kit become arch style option idea large casual kite credit erode";
+var mnemonic = "open lens skate maid legal jealous cover tunnel harvest process liquid dismiss";

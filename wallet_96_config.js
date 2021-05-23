@@ -1,1 +1,1 @@
-var mnemonic = "resemble purse library earn vocal place outside away mandate world nice minimum";
+var mnemonic = "tone trumpet main dove slogan vocal garage glory hero rabbit ring exist";

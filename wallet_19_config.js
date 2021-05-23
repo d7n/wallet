@@ -1,1 +1,1 @@
-var mnemonic = "payment middle lizard exile thank rebuild fragile cave citizen magic choose tiger";
+var mnemonic = "shaft bacon thumb switch display festival enemy smoke brisk spare food gossip";

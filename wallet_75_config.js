@@ -1,1 +1,1 @@
-var mnemonic = "word sphere expand original tortoise crop system sand social brass feed vague";
+var mnemonic = "ancient close action harbor only today soul only room canyon enjoy enact";

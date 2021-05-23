@@ -1,1 +1,1 @@
-var mnemonic = "absurd supply life board buzz loyal vessel argue language apple spatial diet";
+var mnemonic = "talent latin clog coast fall found chronic nephew lemon toast escape various";

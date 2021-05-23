@@ -1,1 +1,1 @@
-var mnemonic = "endless merit uniform fiscal notable open lunch velvet mansion lawsuit inspire open";
+var mnemonic = "symptom glimpse behave light taste wage profit buffalo fork laundry behind client";

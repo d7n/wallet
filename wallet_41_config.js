@@ -1,1 +1,1 @@
-var mnemonic = "special all note square song mask neglect hunt unlock mother magic surge";
+var mnemonic = "primary win income whale expire unlock collect banner nasty craft velvet huge";

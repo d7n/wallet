@@ -1,1 +1,1 @@
-var mnemonic = "bid add dilemma misery april donkey man discover milk essence avoid want";
+var mnemonic = "bracket million equal easy boss smart broom chalk hospital true axis office";

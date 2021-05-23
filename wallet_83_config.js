@@ -1,1 +1,1 @@
-var mnemonic = "boring require helmet maid lottery drift rookie ring wing eternal worry virus";
+var mnemonic = "remind piece come push ribbon bunker drift argue napkin asset wasp review";

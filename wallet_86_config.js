@@ -1,1 +1,1 @@
-var mnemonic = "angle hand diary lounge horse survey slide trouble spring clever mystery easy";
+var mnemonic = "task baby hip town educate shrimp grass speed miracle grape sword kick";

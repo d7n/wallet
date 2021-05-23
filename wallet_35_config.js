@@ -1,1 +1,1 @@
-var mnemonic = "mom pudding anger lunch prefer opera tennis knee valve witness fragile twist";
+var mnemonic = "nothing deposit lab main measure inquiry hill hurdle setup banana child concert";

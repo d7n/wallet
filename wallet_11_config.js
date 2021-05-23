@@ -1,1 +1,1 @@
-var mnemonic = "either sibling actual load two coffee find grace tired execute raccoon truth";
+var mnemonic = "photo report mistake picnic swift mutual bird audit yard horn sock scare";

@@ -1,1 +1,1 @@
-var mnemonic = "bag mechanic know tone strategy cargo cupboard car puppy beef autumn fitness";
+var mnemonic = "bacon say flip galaxy humble horror citizen series suit dry discover caught";

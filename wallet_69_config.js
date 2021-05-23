@@ -1,1 +1,1 @@
-var mnemonic = "image lobster trouble put remind baby knife embrace kite ordinary bronze middle";
+var mnemonic = "course survey fruit symptom street scare need theme refuse fury camera rapid";

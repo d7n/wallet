@@ -1,1 +1,1 @@
-var mnemonic = "organ enhance muffin trophy emotion muscle notice run together explain mass limit";
+var mnemonic = "embrace patrol banana blind ghost bleak jazz renew buzz paper wheat dream";

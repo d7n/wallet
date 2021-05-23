@@ -1,1 +1,1 @@
-var mnemonic = "admit remember excite segment broom sort cement tobacco sad accident tattoo margin";
+var mnemonic = "follow pig vapor ramp wonder december relief lobster arrange turn during usual";

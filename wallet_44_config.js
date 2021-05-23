@@ -1,1 +1,1 @@
-var mnemonic = "consider ankle latin pony dilemma fabric feed bracket seed assault laugh hunt";
+var mnemonic = "winter crowd used spider attack siren candy couch hub gold dragon achieve";

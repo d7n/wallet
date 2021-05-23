@@ -1,1 +1,1 @@
-var mnemonic = "work weapon crazy coral acquire ball shock nasty thing guess bone cage";
+var mnemonic = "blast ankle timber dutch equip genre armed recall web embark album fatal";

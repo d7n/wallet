@@ -1,1 +1,1 @@
-var mnemonic = "funny audit topple vast alley edit valid dove issue eager village extend";
+var mnemonic = "south sure flat vital eye unfair predict assume wave jaguar curtain leg";

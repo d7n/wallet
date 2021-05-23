@@ -1,1 +1,1 @@
-var mnemonic = "era smart flavor silver year foil runway immune brave despair fabric actress";
+var mnemonic = "expect weather battle lucky mandate ladder budget balance treat sport approve embody";

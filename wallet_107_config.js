@@ -1,1 +1,1 @@
-var mnemonic = "issue asset trade sword good around auto novel correct turtle concert awful";
+var mnemonic = "noise pupil treat blouse world few obscure pig cloud system pen palm";

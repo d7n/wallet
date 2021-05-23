@@ -1,1 +1,1 @@
-var mnemonic = "print ladder twist seat glare jelly rich impact warm solar trust kidney";
+var mnemonic = "stadium bitter dice arena cradle casual fold resemble doctor limit width mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle trial leader path urban gaze exclude clarify timber oven cluster alone";
+var mnemonic = "clever soldier armed wink infant water dismiss oyster whip wood patch fresh";

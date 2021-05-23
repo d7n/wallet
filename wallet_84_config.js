@@ -1,1 +1,1 @@
-var mnemonic = "robust cause town panda reward friend episode olympic flat total bright sauce";
+var mnemonic = "turn stairs exotic during hungry word buffalo tissue angry enough size response";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery theory country keep canal sport film solution album fortune eye sausage";
+var mnemonic = "butter merry asthma remain field moon glue buyer pass analyst gossip harvest";

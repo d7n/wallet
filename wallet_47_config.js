@@ -1,1 +1,1 @@
-var mnemonic = "wire cruise decide expect honey hole iron summer kidney skate sense regret";
+var mnemonic = "anchor squirrel alley alarm merge alpha cricket dash chicken lobster genuine music";

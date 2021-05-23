@@ -1,1 +1,1 @@
-var mnemonic = "ship minute accident sweet powder cradle account alley clarify foil buffalo clap";
+var mnemonic = "hidden guide region night garbage ring decide glue all upon concert tide";

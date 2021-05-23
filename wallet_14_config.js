@@ -1,1 +1,1 @@
-var mnemonic = "dilemma shoulder skirt woman sausage milk air offer plug pretty donkey fresh";
+var mnemonic = "bonus orient front craft turtle lawsuit ensure film nest promote boy style";

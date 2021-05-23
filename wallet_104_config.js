@@ -1,1 +1,1 @@
-var mnemonic = "sustain bracket fire security detect total tiny solar suggest march aware rough";
+var mnemonic = "lounge energy provide raise scan dwarf trap purchase cycle scissors already sign";

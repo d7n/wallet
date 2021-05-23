@@ -1,1 +1,1 @@
-var mnemonic = "glow wide marriage midnight panda advice famous taxi impose various frozen river";
+var mnemonic = "perfect jacket toddler arm pistol disagree shove law silly follow actor aim";

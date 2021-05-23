@@ -1,1 +1,1 @@
-var mnemonic = "roof pulse weapon journey remind february fit lab grit soap trigger coast";
+var mnemonic = "puppy castle bitter never garment depend swear path fatal admit desert trial";

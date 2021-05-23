@@ -1,1 +1,1 @@
-var mnemonic = "minor wash evil buffalo shrug wish file edge project mystery yellow planet";
+var mnemonic = "negative purse riot abandon panda grace half hip public inch orient wagon";

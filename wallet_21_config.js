@@ -1,1 +1,1 @@
-var mnemonic = "act habit opera mutual fun now advance film hedgehog iron excite clog";
+var mnemonic = "fatal coach tape such derive mimic avoid island capable clean slender capable";

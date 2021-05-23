@@ -1,1 +1,1 @@
-var mnemonic = "express engage green fever document speak receive history absent episode rhythm initial";
+var mnemonic = "gasp fame alcohol bar output attract more head jealous message drastic gauge";

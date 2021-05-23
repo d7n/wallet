@@ -1,1 +1,1 @@
-var mnemonic = "project month ocean rug tube dish boy next right reflect uncle chunk";
+var mnemonic = "front romance clap artist vital pledge luggage vast hint corn relief cost";

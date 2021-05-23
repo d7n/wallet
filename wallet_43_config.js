@@ -1,1 +1,1 @@
-var mnemonic = "display whip admit brisk ignore coyote divert cloth timber easy burger pony";
+var mnemonic = "cancel asthma boat swift cradle normal debris promote practice water fatal hurry";

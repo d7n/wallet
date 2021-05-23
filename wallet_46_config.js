@@ -1,1 +1,1 @@
-var mnemonic = "drink neutral address leave ignore slab ring over slogan critic split theme";
+var mnemonic = "left eternal category warrior stereo tomorrow fly staff sense addict gadget knock";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo glory salad oven wrap mosquito expire novel want tent expire faculty";
+var mnemonic = "loud rifle vapor cinnamon twelve knock lazy good design acoustic rookie cover";

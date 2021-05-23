@@ -1,1 +1,1 @@
-var mnemonic = "crucial rabbit above blade special jealous lab oven avocado conduct shock bracket";
+var mnemonic = "rigid cake mirror spy slender robust tomorrow sound obvious work glory across";

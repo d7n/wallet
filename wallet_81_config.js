@@ -1,1 +1,1 @@
-var mnemonic = "pink check measure enlist meat click wild hurdle blanket develop public soft";
+var mnemonic = "define evidence hair list human famous smart erode future dress proof merit";

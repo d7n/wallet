@@ -1,1 +1,1 @@
-var mnemonic = "bridge success grief across describe net mosquito symbol paddle release label puzzle";
+var mnemonic = "give seed wine sleep local rib gravity possible ill cover pepper asthma";

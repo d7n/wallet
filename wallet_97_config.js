@@ -1,1 +1,1 @@
-var mnemonic = "foil protect detect liquid latin business design dad rally refuse transfer where";
+var mnemonic = "void one convince win country stone camp ridge maid injury reopen sea";

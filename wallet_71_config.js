@@ -1,1 +1,1 @@
-var mnemonic = "island wise adapt river hat menu mountain knock parade alpha leader plug";
+var mnemonic = "history foil flavor perfect eyebrow design bread bridge bulb staff attend own";

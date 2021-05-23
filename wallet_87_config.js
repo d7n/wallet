@@ -1,1 +1,1 @@
-var mnemonic = "pretty behave arctic spring exchange frog inject roof slice question blame caught";
+var mnemonic = "vault diamond lesson pluck recipe order wedding obey year hello crazy play";

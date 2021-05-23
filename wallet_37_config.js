@@ -1,1 +1,1 @@
-var mnemonic = "fog isolate embody chaos ugly violin giant insect mirror charge popular scout";
+var mnemonic = "lonely sketch praise logic possible hour tip catalog dwarf wash oyster donor";

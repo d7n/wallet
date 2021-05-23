@@ -1,1 +1,1 @@
-var mnemonic = "please cloth cactus upgrade donor inmate aim mystery squirrel news ability volcano";
+var mnemonic = "brother such maze dolphin reject key model pattern girl jar arm seminar";

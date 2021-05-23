@@ -1,1 +1,1 @@
-var mnemonic = "tired abuse skate language hospital mixed garbage found write genius banner blame";
+var mnemonic = "artwork notice sail fresh crop you curve trust giant auto wink iron";

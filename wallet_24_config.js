@@ -1,1 +1,1 @@
-var mnemonic = "moment urge embody eyebrow because label torch misery symptom junior truck letter";
+var mnemonic = "keen right mountain soldier thrive gaze enroll canoe ignore prepare quote smart";

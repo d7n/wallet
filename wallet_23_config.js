@@ -1,1 +1,1 @@
-var mnemonic = "light leaf tumble utility latin canvas visa cross large horse bless behind";
+var mnemonic = "injury about slush glide jealous easily indoor price mirror term rent truly";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant shrimp room glory candy legend bridge holiday mammal quarter gain dice";
+var mnemonic = "gauge asthma vendor budget amount since test appear close glare sauce napkin";

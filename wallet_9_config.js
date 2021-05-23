@@ -1,1 +1,1 @@
-var mnemonic = "wagon nuclear animal foster sport next lyrics narrow obey midnight unusual clever";
+var mnemonic = "forum carpet one ketchup inherit boss whisper exhaust service silk suspect brand";

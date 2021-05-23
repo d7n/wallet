@@ -1,1 +1,1 @@
-var mnemonic = "anchor giraffe panel same bachelor erupt act tail empty mutual puzzle gun";
+var mnemonic = "task cram world umbrella make bike pudding drink today wash injury talk";

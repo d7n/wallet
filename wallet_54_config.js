@@ -1,1 +1,1 @@
-var mnemonic = "easily orphan favorite correct napkin benefit that promote when file horror empower";
+var mnemonic = "poem snow magic popular glare road pretty bright ghost casino develop news";

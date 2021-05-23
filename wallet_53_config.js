@@ -1,1 +1,1 @@
-var mnemonic = "noise brave figure fetch hover border silent exhibit doctor rather company angle";
+var mnemonic = "orbit civil frequent trigger attitude wheat legend ivory easily dry become abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive call member praise stadium thumb grow cricket push february track crack";
+var mnemonic = "oak danger child initial brief hazard source employ ten turn prefer obvious";

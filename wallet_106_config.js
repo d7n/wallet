@@ -1,1 +1,1 @@
-var mnemonic = "offer upgrade two shine finish jazz shiver seek cluster captain style odor";
+var mnemonic = "fancy prize shed weird ugly assault emerge romance peasant effort involve cube";

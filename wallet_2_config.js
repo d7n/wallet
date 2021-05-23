@@ -1,1 +1,1 @@
-var mnemonic = "truly employ chicken online cave tool spin face unique disorder fresh donor";
+var mnemonic = "flush speed shine level upgrade once miracle link cream course leader witness";

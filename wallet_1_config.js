@@ -1,1 +1,1 @@
-var mnemonic = "organ logic lawn artist bleak stadium mom wish ethics rival better magic";
+var mnemonic = "east live inmate weasel evolve gown accuse crisp island merit noodle person";

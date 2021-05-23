@@ -1,1 +1,1 @@
-var mnemonic = "jump display repair flush outside copper flame broken depend festival never remove";
+var mnemonic = "bachelor salt fruit accident nature mesh trial earth december worth blur acoustic";

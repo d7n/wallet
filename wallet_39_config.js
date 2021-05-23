@@ -1,1 +1,1 @@
-var mnemonic = "afford hint public term wrap sing fashion video clerk brush raccoon puppy";
+var mnemonic = "radar maple picture donate eternal speed forest vocal spatial diesel pulp nation";

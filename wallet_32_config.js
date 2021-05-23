@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog course sunny try rabbit shadow moon book mango drum similar tunnel";
+var mnemonic = "rifle short volume entry above snap reflect knee media engage electric hotel";

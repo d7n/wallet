@@ -1,1 +1,1 @@
-var mnemonic = "oblige struggle void cluster attack cheap tribe exotic banana zoo today oak";
+var mnemonic = "life street raw rebuild movie inject faint prosper salmon invite charge soda";

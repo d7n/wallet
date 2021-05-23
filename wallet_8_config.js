@@ -1,1 +1,1 @@
-var mnemonic = "index bar beyond toilet zoo wall pumpkin word must table coast blast";
+var mnemonic = "deliver dad worth museum loud guide organ wool again scale rough fiber";

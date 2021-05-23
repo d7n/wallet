@@ -1,1 +1,1 @@
-var mnemonic = "whip pencil follow boat control water spirit orphan skate addict involve pulse";
+var mnemonic = "unique vessel fabric foster antenna dust bitter curve ill bread lawn present";

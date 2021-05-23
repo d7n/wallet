@@ -1,1 +1,1 @@
-var mnemonic = "cup violin appear style saddle derive mercy ability gift keen present rate";
+var mnemonic = "legal box spell equip toddler cram box donkey blouse luggage kitchen loyal";

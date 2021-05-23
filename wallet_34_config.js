@@ -1,1 +1,1 @@
-var mnemonic = "purchase want exist analyst across category lens shiver thunder seat frost ribbon";
+var mnemonic = "fatigue voyage cash oyster glimpse mushroom dial suit shuffle repeat perfect adjust";

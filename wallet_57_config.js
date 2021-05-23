@@ -1,1 +1,1 @@
-var mnemonic = "life festival loud rotate asthma vault faint brain leopard consider tongue spike";
+var mnemonic = "sponsor razor virus beach decrease hundred detect galaxy safe slide nasty omit";

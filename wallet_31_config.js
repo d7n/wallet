@@ -1,1 +1,1 @@
-var mnemonic = "pledge actress nose learn detect auto amused dune memory include toy pattern";
+var mnemonic = "city album afraid ginger priority human transfer ten multiply dad civil panel";

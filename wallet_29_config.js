@@ -1,1 +1,1 @@
-var mnemonic = "pond start paper urban exhibit material disorder subject frame comfort pattern settle";
+var mnemonic = "network agree young onion reduce winter business live chunk amused antique glove";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth upgrade purse observe eternal remove february reunion rocket kitten supply afford";
+var mnemonic = "inmate banana gift match job planet virtual noise under region cry north";

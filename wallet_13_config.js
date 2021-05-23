@@ -1,1 +1,1 @@
-var mnemonic = "dish bulk three multiply cancel despair rigid quality column advice legend tiny";
+var mnemonic = "sort paper gift stem struggle problem enough motion mixed dinosaur canoe melody";

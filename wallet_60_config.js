@@ -1,1 +1,1 @@
-var mnemonic = "topic during attitude veteran strategy crisp sibling galaxy shell plug purse typical";
+var mnemonic = "method hood solid twice outdoor swift artwork inhale pepper grape pill below";

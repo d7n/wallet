@@ -1,1 +1,1 @@
-var mnemonic = "friend shiver estate shop trick alpha cabin rely vibrant above frost infant";
+var mnemonic = "meadow gospel inflict bench frog gorilla message tray tomato unusual kid pizza";

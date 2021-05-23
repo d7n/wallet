@@ -1,1 +1,1 @@
-var mnemonic = "small mirror awful blanket flush install blanket custom decline ginger cheap ceiling";
+var mnemonic = "rival install sniff season drip shy burden skirt enable agent force hedgehog";

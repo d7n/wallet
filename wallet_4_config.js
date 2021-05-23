@@ -1,1 +1,1 @@
-var mnemonic = "change east target ritual obey awesome wrestle basic mimic high air caught";
+var mnemonic = "field weird bulk blame give hobby foot chunk stage abandon soon arm";

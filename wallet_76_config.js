@@ -1,1 +1,1 @@
-var mnemonic = "marine put guard electric mandate success hood medal mutual raise grant merit";
+var mnemonic = "fade toward hurt antique auto island special table poet street symbol warrior";

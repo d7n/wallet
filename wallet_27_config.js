@@ -1,1 +1,1 @@
-var mnemonic = "razor mandate misery twist buddy run erode mixture ivory vicious pole next";
+var mnemonic = "speak winter snap panel sea feed position silent vocal fruit ring shoe";

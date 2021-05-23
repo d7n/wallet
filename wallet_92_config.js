@@ -1,1 +1,1 @@
-var mnemonic = "script duty sphere iron glimpse rocket present kingdom resemble dawn cushion version";
+var mnemonic = "smart inform sail else jewel envelope abuse knee attract discover author comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "trick one melody topic response toddler weather defy easily film ketchup vapor";
+var mnemonic = "wise disagree brass note forget august turtle shiver name island meat cousin";

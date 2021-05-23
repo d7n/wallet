@@ -1,1 +1,1 @@
-var mnemonic = "exit ski twelve patch have render science journey tissue axis six finger";
+var mnemonic = "combine accident truly blame fury coach foam parade glad canyon save biology";

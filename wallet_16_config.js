@@ -1,1 +1,1 @@
-var mnemonic = "odor vendor sock country post forward second assist seek announce inquiry push";
+var mnemonic = "agent pencil swarm lumber burst embody danger cloud alcohol review slice quality";

@@ -1,1 +1,1 @@
-var mnemonic = "action annual kick tourist quick already pen cute join gap destroy differ";
+var mnemonic = "injury option south decrease detail heavy series injury stadium ring winner limb";

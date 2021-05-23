@@ -1,1 +1,1 @@
-var mnemonic = "quit gate blind reward direct enemy engine festival siren gauge cruise steak";
+var mnemonic = "believe credit inject explain curve company donkey taste snack second agent confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect kidney shy first basic input robot zone secret kind amazing acid";
+var mnemonic = "ranch worth rain cruise plate two scout jump pledge art approve step";

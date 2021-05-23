@@ -1,1 +1,1 @@
-var mnemonic = "apology purchase wait scatter metal click receive effort brother jump zebra write";
+var mnemonic = "alarm swarm victory sheriff loud special shuffle cupboard say federal hundred invite";

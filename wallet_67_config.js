@@ -1,1 +1,1 @@
-var mnemonic = "object merit potato casino eternal space theme round mass denial basic thought";
+var mnemonic = "pilot sauce paddle train goddess tomorrow ring letter security celery boring ladder";

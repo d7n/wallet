@@ -1,1 +1,1 @@
-var mnemonic = "much vapor balance power suit mixture day entire devote shoe gossip team";
+var mnemonic = "street slab chuckle measure regret grief gossip hold drop vital eagle poet";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger loop meat dinosaur ladder ladder strategy sing inform potato flight slush";
+var mnemonic = "pact shrug old curve swap green cake cluster share original stone olive";

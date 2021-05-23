@@ -1,1 +1,1 @@
-var mnemonic = "census sea journey cause tenant install globe alert guess angle fatal high";
+var mnemonic = "expect soap fringe giraffe poet assume improve clip arena lazy hidden matter";

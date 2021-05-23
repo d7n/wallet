@@ -1,1 +1,1 @@
-var mnemonic = "head polar million artefact woman fuel clinic shy iron picnic few slight";
+var mnemonic = "horn shine behind song east crunch judge lens clap kind garage capital";

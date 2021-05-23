@@ -1,1 +1,1 @@
-var mnemonic = "mixed trash flat van word media scrap found basket miracle pause budget";
+var mnemonic = "goose rent clerk tape inherit ball hip output crowd manage omit phone";
