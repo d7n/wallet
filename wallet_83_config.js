@@ -1,1 +1,1 @@
-var mnemonic = "wall guide trap message wish broccoli bird train arctic drive unusual shrimp";
+var mnemonic = "grant pass riot duty strike paper process olympic enough rebel great dance";

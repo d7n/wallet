@@ -1,1 +1,1 @@
-var mnemonic = "devote pole unknown between bone blanket crisp whip great hotel wood panda";
+var mnemonic = "round smart drift tone cheap demise beach wagon young soul fold bleak";

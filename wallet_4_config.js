@@ -1,1 +1,1 @@
-var mnemonic = "three slim easy worry capable cushion public doll spell left blush nut";
+var mnemonic = "mule grain lecture rain laundry nothing balance focus alert birth timber pink";

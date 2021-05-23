@@ -1,1 +1,1 @@
-var mnemonic = "hidden organ subway shoot convince extra fatigue video traffic year forum twin";
+var mnemonic = "note zoo great rally social frown flight bachelor shift north matrix major";

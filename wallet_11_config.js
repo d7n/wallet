@@ -1,1 +1,1 @@
-var mnemonic = "assist unusual extra country uncover observe symbol blouse october open what credit";
+var mnemonic = "grunt episode blanket guitar tortoise riot control feed real bronze loan void";

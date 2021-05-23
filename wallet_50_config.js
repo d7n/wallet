@@ -1,1 +1,1 @@
-var mnemonic = "trial pipe steak story theme inner wreck review lazy dress drip celery";
+var mnemonic = "kangaroo mother trim steak dilemma example supreme aim lazy invite inject piece";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp popular dog wonder unknown nose ranch buyer electric kitchen this again";
+var mnemonic = "endless fiscal quality ill turn call pilot beauty reject board cargo table";

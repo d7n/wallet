@@ -1,1 +1,1 @@
-var mnemonic = "enable twice check mixed cheap mistake pioneer rebel govern fury moral shrimp";
+var mnemonic = "upon laugh all exhaust beyond people quantum cream ridge relief castle letter";

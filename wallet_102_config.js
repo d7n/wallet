@@ -1,1 +1,1 @@
-var mnemonic = "pull clarify forward between olive cave offer attack crew antique gown student";
+var mnemonic = "october lock mixed average run syrup income dry battle bicycle divert circle";

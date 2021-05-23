@@ -1,1 +1,1 @@
-var mnemonic = "slice banner correct ability wrong hover text unlock round decrease web mountain";
+var mnemonic = "sphere sponsor wink rabbit vessel time vicious topple gather wrist guide slot";

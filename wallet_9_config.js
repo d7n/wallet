@@ -1,1 +1,1 @@
-var mnemonic = "bid language hard boss wet father replace want express prison brain arm";
+var mnemonic = "tornado lesson focus oxygen employ witness elite earth lottery initial tobacco bulk";

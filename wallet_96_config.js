@@ -1,1 +1,1 @@
-var mnemonic = "clap current tortoise shed venue true jar virtual lens turtle excess meat";
+var mnemonic = "fantasy earth trend merit answer guilt rent rebuild above panda hockey nasty";

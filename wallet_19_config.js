@@ -1,1 +1,1 @@
-var mnemonic = "journey forward cargo amazing exotic seed daughter nasty shallow install frame bring";
+var mnemonic = "cook cactus wrist carry congress speed crack rate glimpse bless neglect easy";

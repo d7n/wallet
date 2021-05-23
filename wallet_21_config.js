@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo heart mandate transfer sniff mechanic cute page remind net vendor tourist";
+var mnemonic = "volume laundry alpha ridge fat cycle canvas word snow day dismiss grace";

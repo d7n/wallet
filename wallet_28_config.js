@@ -1,1 +1,1 @@
-var mnemonic = "robust truly elephant journey lyrics final ability impact alien west artwork fade";
+var mnemonic = "enough desk dose time rug olive heavy naive tree climb they napkin";

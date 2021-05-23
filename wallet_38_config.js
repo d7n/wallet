@@ -1,1 +1,1 @@
-var mnemonic = "flavor isolate that auto witness ranch virus bomb torch duty blouse hold";
+var mnemonic = "what prosper brick tag lobster daughter fault coyote cousin access post kitten";

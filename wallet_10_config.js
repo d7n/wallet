@@ -1,1 +1,1 @@
-var mnemonic = "space glow bicycle wash title gym wreck expose tuition tongue lecture replace";
+var mnemonic = "steak traffic april author volcano shift census friend slide estate scatter ridge";

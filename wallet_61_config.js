@@ -1,1 +1,1 @@
-var mnemonic = "beauty squeeze hotel giant paper inmate truly quarter lemon ranch promote twelve";
+var mnemonic = "divert limb size early canal stove hip slam share detect glance return";

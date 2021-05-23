@@ -1,1 +1,1 @@
-var mnemonic = "unveil soft flavor shoe fame symbol dignity soup trick cannon coffee risk";
+var mnemonic = "better angry alien hen make duty air arrest tortoise hospital quality matrix";

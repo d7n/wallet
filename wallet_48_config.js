@@ -1,1 +1,1 @@
-var mnemonic = "awake rescue lottery catch nothing used hungry canvas message wreck report give";
+var mnemonic = "zero follow slide length venture blanket pink bright agent document cage unfold";

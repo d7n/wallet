@@ -1,1 +1,1 @@
-var mnemonic = "twist unveil absorb fitness sick twenty fluid course turtle argue raw all";
+var mnemonic = "company shove slender soap trigger extend security tissue unlock say strong stadium";

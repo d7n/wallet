@@ -1,1 +1,1 @@
-var mnemonic = "butter blind rough card victory act title upgrade orchard way omit mother";
+var mnemonic = "hospital version phrase able runway warm daring lion credit beach canvas correct";

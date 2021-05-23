@@ -1,1 +1,1 @@
-var mnemonic = "three three club someone dose record long owner dirt law net eyebrow";
+var mnemonic = "walnut boil ivory cement metal give option youth produce near north detail";

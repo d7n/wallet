@@ -1,1 +1,1 @@
-var mnemonic = "adult daring wisdom dune blame immense chimney rapid balance jazz voyage antique";
+var mnemonic = "same salmon actress weapon thank initial trophy minute limit rebuild say earn";

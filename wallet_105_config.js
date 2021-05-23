@@ -1,1 +1,1 @@
-var mnemonic = "cotton secret piece number clap catch domain file siege repair rabbit vault";
+var mnemonic = "holiday soul wage tonight snack blouse sail town route spoil risk inherit";

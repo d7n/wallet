@@ -1,1 +1,1 @@
-var mnemonic = "about right disorder razor main kit indicate endless inhale bitter segment behind";
+var mnemonic = "adult parent manage direct open cake trophy move aisle awful calm deer";

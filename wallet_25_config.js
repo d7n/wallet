@@ -1,1 +1,1 @@
-var mnemonic = "engage accident outer actor hard siren slight doctor diary relax amused zebra";
+var mnemonic = "very street delay correct ramp pepper tip clock laptop maximum soccer enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "list pair square mixture note party venture team stay rapid puzzle fit";
+var mnemonic = "social violin float pen among boss engage regular unit mushroom sugar myself";

@@ -1,1 +1,1 @@
-var mnemonic = "piano chicken beef power famous jazz script disorder route olympic puzzle grow";
+var mnemonic = "frost image mix success door hat cousin surface flash deposit index record";

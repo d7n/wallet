@@ -1,1 +1,1 @@
-var mnemonic = "hope tag puppy bleak endless shine hope mansion climb twelve vehicle great";
+var mnemonic = "whale glue spot arrive attack gentle vicious rabbit recall duck east sting";

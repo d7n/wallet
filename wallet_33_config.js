@@ -1,1 +1,1 @@
-var mnemonic = "behave help addict powder enable remain snack mixed pizza inform call peasant";
+var mnemonic = "birth airport behind wise science spatial scorpion about error dune tip embody";

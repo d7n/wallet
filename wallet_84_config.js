@@ -1,1 +1,1 @@
-var mnemonic = "staff fit luxury wrestle warrior canal great cruel stadium people critic thumb";
+var mnemonic = "current what foil gap retreat nation merit knife indoor swarm pond hour";

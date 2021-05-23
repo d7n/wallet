@@ -1,1 +1,1 @@
-var mnemonic = "gas ask digital tag design easy vanish elevator apple alpha street gift";
+var mnemonic = "despair supply afraid leisure fall essence vehicle draw orange custom curious brain";

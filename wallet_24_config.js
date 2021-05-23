@@ -1,1 +1,1 @@
-var mnemonic = "brief increase fog sponsor evidence inside ecology sheriff tiny loan jeans proof";
+var mnemonic = "velvet stereo finger teach phrase slice nice scrap hip either second party";

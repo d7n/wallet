@@ -1,1 +1,1 @@
-var mnemonic = "pair display dice drastic relax cannon pull spot month wrist tumble work";
+var mnemonic = "submit link skin intact caught raise shiver relax rice combine hat fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd sell first wage mouse jewel fork filter unfair winter exhibit argue";
+var mnemonic = "around super shaft shrug virtual delay story deliver search step riot husband";

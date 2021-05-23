@@ -1,1 +1,1 @@
-var mnemonic = "wish pottery theory traffic trade cricket gun judge primary panic erase relax";
+var mnemonic = "huge photo music rare human mirror sunset they process hawk laugh furnace";

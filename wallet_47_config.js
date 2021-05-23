@@ -1,1 +1,1 @@
-var mnemonic = "okay attack promote sketch drift bus aspect ketchup march alpha deputy audit";
+var mnemonic = "liar tip long year narrow exist proof bind trust increase gather work";

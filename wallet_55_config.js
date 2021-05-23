@@ -1,1 +1,1 @@
-var mnemonic = "trust enrich strategy distance liar urban sustain lesson curve bunker submit talent";
+var mnemonic = "just primary rain caution legend relax crime rally trap swear oak coin";

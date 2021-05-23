@@ -1,1 +1,1 @@
-var mnemonic = "wash exotic rabbit fringe fault quick saddle click clutch release taste universe";
+var mnemonic = "benefit dolphin dream globe design cigar beach city match home peasant exile";

@@ -1,1 +1,1 @@
-var mnemonic = "example whip enemy onion decorate awesome ticket chef innocent destroy acquire novel";
+var mnemonic = "daring arena resemble fork junior prize dawn during zoo apart pet around";

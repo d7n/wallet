@@ -1,1 +1,1 @@
-var mnemonic = "bubble lonely street crush faint address diary end cart garment hazard inner";
+var mnemonic = "post prison absurd ramp system asset subway village grid stamp token donate";

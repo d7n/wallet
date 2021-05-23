@@ -1,1 +1,1 @@
-var mnemonic = "sock decide spare light scissors wet they nose violin display margin soda";
+var mnemonic = "pig language brain glove chase infant extend boy gadget hockey under six";

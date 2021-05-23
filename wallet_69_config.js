@@ -1,1 +1,1 @@
-var mnemonic = "code strong help infant road unveil blind apple position program brave jaguar";
+var mnemonic = "forest horse citizen galaxy level ticket document talk oxygen soldier document garbage";

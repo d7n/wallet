@@ -1,1 +1,1 @@
-var mnemonic = "situate barely saddle news where punch anxiety diary void keep sudden affair";
+var mnemonic = "polar reunion sun basic surround erase between elder holiday camera indoor barrel";

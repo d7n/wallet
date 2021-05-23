@@ -1,1 +1,1 @@
-var mnemonic = "laptop travel matrix rookie muffin inform shy couch arrive receive diary liar";
+var mnemonic = "genius stage cigar champion cave practice proof photo mammal squirrel pass august";

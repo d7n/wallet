@@ -1,1 +1,1 @@
-var mnemonic = "script prefer luxury demand awful slogan often dentist differ inhale target excite";
+var mnemonic = "step alpha nuclear butter churn fox actual grow ball example move shift";

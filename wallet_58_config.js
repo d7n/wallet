@@ -1,1 +1,1 @@
-var mnemonic = "ride brief profit pulse alley luxury erupt current wheel adapt great thunder";
+var mnemonic = "high burger else orphan vehicle tip present wife client subway soap thunder";

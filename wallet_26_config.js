@@ -1,1 +1,1 @@
-var mnemonic = "dismiss keen fee excess educate call crucial engage future lunch harvest trend";
+var mnemonic = "cute negative bind volume fantasy cluster strategy focus whip tenant plunge father";

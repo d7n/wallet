@@ -1,1 +1,1 @@
-var mnemonic = "thumb prosper rhythm else arch weasel ready moment vehicle chunk skull camp";
+var mnemonic = "impact shoe general oppose employ clump trip notice piece equal iron device";

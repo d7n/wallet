@@ -1,1 +1,1 @@
-var mnemonic = "list silly team employ pool suit exhibit brick velvet project mix view";
+var mnemonic = "cook dice company village kitten mind increase bike gate lawn poverty odor";

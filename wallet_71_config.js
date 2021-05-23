@@ -1,1 +1,1 @@
-var mnemonic = "jaguar discover jar sugar kiss tobacco voyage indicate false age merit lab";
+var mnemonic = "glass enter collect hard train near exact nothing music initial grain language";

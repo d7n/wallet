@@ -1,1 +1,1 @@
-var mnemonic = "leisure duck there artefact thumb betray pigeon taxi young expire close crucial";
+var mnemonic = "faint develop issue define summer winner humor wisdom jar egg day toddler";

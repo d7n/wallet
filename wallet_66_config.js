@@ -1,1 +1,1 @@
-var mnemonic = "appear finger dice maze tank fix office funny sentence stage test sock";
+var mnemonic = "impulse antenna walnut balcony sell december must chat truly slow drink ski";

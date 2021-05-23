@@ -1,1 +1,1 @@
-var mnemonic = "patch smart light bitter simple photo vacuum leaf wine original critic fantasy";
+var mnemonic = "obvious truth hurdle bargain toe wasp announce above ignore border six acquire";

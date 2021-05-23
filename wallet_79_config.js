@@ -1,1 +1,1 @@
-var mnemonic = "require undo cement neck stadium butter favorite climb crazy come hub edge";
+var mnemonic = "quantum before report subject afford pond field erupt bulk juice anxiety canyon";

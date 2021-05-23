@@ -1,1 +1,1 @@
-var mnemonic = "chronic skin ramp pull holiday bundle language couple work shoulder sting bone";
+var mnemonic = "asset palace gloom force unknown dog approve buffalo horn enemy float about";

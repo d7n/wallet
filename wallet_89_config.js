@@ -1,1 +1,1 @@
-var mnemonic = "float claim prosper certain tomato abandon artefact obscure excite hockey rack lawn";
+var mnemonic = "symbol piece arena reform suggest smart canvas park giant tomorrow rather visit";

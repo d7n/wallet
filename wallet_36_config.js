@@ -1,1 +1,1 @@
-var mnemonic = "grunt emotion marriage glide ignore upper involve predict media happy drip utility";
+var mnemonic = "absorb stadium foot belt excite cage safe lady energy style note burden";

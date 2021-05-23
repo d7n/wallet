@@ -1,1 +1,1 @@
-var mnemonic = "noise smoke camp atom trade mercy fun soft shaft bid link sad";
+var mnemonic = "move anger million ski suggest luggage runway outside pause fetch radar water";

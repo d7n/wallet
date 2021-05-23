@@ -1,1 +1,1 @@
-var mnemonic = "someone pact tooth moral impose unhappy super drama buddy couple pumpkin drift";
+var mnemonic = "garlic bike bless guilt biology scatter call vendor tent vanish library excite";

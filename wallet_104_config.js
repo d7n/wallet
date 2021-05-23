@@ -1,1 +1,1 @@
-var mnemonic = "stick top better much fever borrow seven flat loyal essence motor slam";
+var mnemonic = "stable mercy element hope spare usage slide cream inside note horse fish";

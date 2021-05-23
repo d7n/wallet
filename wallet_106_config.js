@@ -1,1 +1,1 @@
-var mnemonic = "buddy blade execute decline glue risk silent fade fine barely mistake forget";
+var mnemonic = "decade peanut assist demand plastic tent skin volcano expect boring accuse embody";

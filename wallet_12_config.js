@@ -1,1 +1,1 @@
-var mnemonic = "record cattle depart begin leave cruise like question joke zoo net mango";
+var mnemonic = "delay potato drastic afraid gospel grid vanish phone enact blouse decrease drama";

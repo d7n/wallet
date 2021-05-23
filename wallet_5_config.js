@@ -1,1 +1,1 @@
-var mnemonic = "comfort nose trick chat cricket race valid they chase cute more educate";
+var mnemonic = "other tell bird conduct argue fiscal kite estate melody ice sword surge";

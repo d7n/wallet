@@ -1,1 +1,1 @@
-var mnemonic = "rib sunset cactus story merry guide infant toilet turkey pupil require depart";
+var mnemonic = "pet equip renew world into life uncover team mammal already regular flat";

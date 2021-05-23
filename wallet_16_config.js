@@ -1,1 +1,1 @@
-var mnemonic = "exclude sadness wife chronic enough fashion oval better neither sense endless better";
+var mnemonic = "gadget mosquito mimic patch good region smile awesome autumn iron outer brisk";

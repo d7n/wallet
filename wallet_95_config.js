@@ -1,1 +1,1 @@
-var mnemonic = "onion remain divert spirit aisle public raven scorpion address pumpkin glory mass";
+var mnemonic = "clarify omit rubber argue have bread unable assume stomach face item then";

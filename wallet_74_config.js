@@ -1,1 +1,1 @@
-var mnemonic = "letter table syrup budget spring lucky tribe web crush forget kidney nominee";
+var mnemonic = "boss humor caution chuckle search main bleak trade sorry school fat blood";

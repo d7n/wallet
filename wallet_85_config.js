@@ -1,1 +1,1 @@
-var mnemonic = "fortune hold obey runway early pistol avocado argue aerobic toddler once season";
+var mnemonic = "element april inner flag draft inform proud loud ritual web carry void";

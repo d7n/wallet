@@ -1,1 +1,1 @@
-var mnemonic = "lab minute width void danger later shoot female equal hazard beauty arena";
+var mnemonic = "brief bulb rent wise orchard act fringe shaft keen artwork decade engage";

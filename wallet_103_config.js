@@ -1,1 +1,1 @@
-var mnemonic = "swear wisdom person solid general switch garlic entry tunnel damage possible strategy";
+var mnemonic = "crystal disagree chunk seminar engine slogan jelly connect ozone ceiling original evolve";

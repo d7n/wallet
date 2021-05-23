@@ -1,1 +1,1 @@
-var mnemonic = "object nephew verb body thunder spoon bind sight wide village chunk crash";
+var mnemonic = "such obvious remind wing torch funny daughter kangaroo journey visual just crash";

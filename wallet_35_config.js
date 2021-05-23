@@ -1,1 +1,1 @@
-var mnemonic = "dizzy wisdom toe surprise nut undo heavy put elbow voyage panther pen";
+var mnemonic = "idle outdoor napkin wrist economy observe term army belt moment thumb delay";

@@ -1,1 +1,1 @@
-var mnemonic = "fire strategy shell allow upset friend enact faculty trend arch ceiling theory";
+var mnemonic = "rather dice grid senior marble film bind gadget arrange express renew walk";

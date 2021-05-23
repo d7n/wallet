@@ -1,1 +1,1 @@
-var mnemonic = "hair round cupboard minimum special change tide cool wise exhibit mystery grunt";
+var mnemonic = "funny forum labor accident excite path slender summer jazz amount cash same";

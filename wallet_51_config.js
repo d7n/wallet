@@ -1,1 +1,1 @@
-var mnemonic = "butter ignore trust sign hour gasp length fetch winner timber grid crouch";
+var mnemonic = "social around beach castle girl rookie sick about hole borrow suit clean";

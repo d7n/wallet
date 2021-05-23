@@ -1,1 +1,1 @@
-var mnemonic = "owner upper cushion churn layer foot monitor atom milk gesture very flock";
+var mnemonic = "hybrid spoon tomato draft private present depart fuel text sponsor lesson diesel";

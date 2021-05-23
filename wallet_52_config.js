@@ -1,1 +1,1 @@
-var mnemonic = "enforce magnet install merge pottery theory excess sadness escape wisdom march upon";
+var mnemonic = "artist drip clog course million stick leave tissue physical patient space calm";

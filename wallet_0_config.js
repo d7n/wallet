@@ -1,1 +1,1 @@
-var mnemonic = "trap suspect garage tube orphan wire loop hire learn below share scatter";
+var mnemonic = "dose loyal winter paddle cruise cruise emotion satisfy laundry vague grow denial";

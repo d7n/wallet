@@ -1,1 +1,1 @@
-var mnemonic = "summer burst shrimp laundry decide balance ghost collect carbon ball wrap tumble";
+var mnemonic = "air neglect enact prize box small layer crane gentle yard oblige alter";

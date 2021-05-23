@@ -1,1 +1,1 @@
-var mnemonic = "nice junk science divide pumpkin moment margin comfort black cash host grant";
+var mnemonic = "pumpkin sort damp cable penalty insect merge service bitter add hundred april";

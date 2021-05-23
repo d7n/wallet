@@ -1,1 +1,1 @@
-var mnemonic = "account ginger slender exercise moral ski domain piano turn kite remember erupt";
+var mnemonic = "gaze chicken exclude please sweet decorate chaos civil inmate skate suit check";

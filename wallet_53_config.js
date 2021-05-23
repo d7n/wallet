@@ -1,1 +1,1 @@
-var mnemonic = "ship blame talk lucky globe dolphin farm link tomato mule length bulb";
+var mnemonic = "gadget copper argue traffic album phrase congress coyote enemy advice summer special";

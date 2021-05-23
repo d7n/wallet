@@ -1,1 +1,1 @@
-var mnemonic = "imitate tumble lizard defy town critic night morning find goddess once alien";
+var mnemonic = "entry gate drum legend renew primary depth marble ankle scrub leg sketch";

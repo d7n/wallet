@@ -1,1 +1,1 @@
-var mnemonic = "vault bleak gown burger capable peanut then tourist style govern ship warrior";
+var mnemonic = "improve spend bird turn tongue what remind leg monitor syrup floor phone";

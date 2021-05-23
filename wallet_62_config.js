@@ -1,1 +1,1 @@
-var mnemonic = "mail peanut sad club say salad kitchen spray super anger bench lizard";
+var mnemonic = "curious pill save window journey twin economy slight green cradle else tank";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter pepper bread eternal middle hammer rocket fit flock very embrace slab";
+var mnemonic = "crystal coral farm runway critic breeze swear marine rocket toss there misery";

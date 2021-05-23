@@ -1,1 +1,1 @@
-var mnemonic = "swear evidence fossil muscle fancy access track planet faint upset option library";
+var mnemonic = "laptop scrap unique jaguar globe beauty young thought blind garage cable crawl";

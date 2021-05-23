@@ -1,1 +1,1 @@
-var mnemonic = "suggest calm scale soft table flower link garbage destroy scrap poem able";
+var mnemonic = "mom broken clap indicate auction cycle ten very trick fix radar tortoise";

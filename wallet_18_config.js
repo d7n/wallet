@@ -1,1 +1,1 @@
-var mnemonic = "drink drama modify such volume upset eyebrow stuff rare ceiling planet primary";
+var mnemonic = "practice trick sell water camp small zone horror fold orphan decrease number";

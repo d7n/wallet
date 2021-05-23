@@ -1,1 +1,1 @@
-var mnemonic = "window various traffic owner science little horror resource staff grant dose coconut";
+var mnemonic = "melt enrich profit neglect system shiver dinosaur auto sweet floor zebra divide";

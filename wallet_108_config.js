@@ -1,1 +1,1 @@
-var mnemonic = "thrive endless thought business wrestle man nation elevator off hurt ski demise";
+var mnemonic = "fragile oil reform wagon section admit scene truth quarter mixed nut frozen";
