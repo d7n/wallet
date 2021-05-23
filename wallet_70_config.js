@@ -1,1 +1,1 @@
-var mnemonic = "symptom glimpse behave light taste wage profit buffalo fork laundry behind client";
+var mnemonic = "zoo cannon burst fat truth dish dust purity tribe priority news ethics";

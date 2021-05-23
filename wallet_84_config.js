@@ -1,1 +1,1 @@
-var mnemonic = "turn stairs exotic during hungry word buffalo tissue angry enough size response";
+var mnemonic = "farm swallow estate bar acoustic bleak skill twin little entire release gasp";

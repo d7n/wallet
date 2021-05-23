@@ -1,1 +1,1 @@
-var mnemonic = "wise disagree brass note forget august turtle shiver name island meat cousin";
+var mnemonic = "census version decorate bullet pyramid evidence amused patch iron tank lottery utility";

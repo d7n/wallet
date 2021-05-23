@@ -1,1 +1,1 @@
-var mnemonic = "fancy prize shed weird ugly assault emerge romance peasant effort involve cube";
+var mnemonic = "flip spike body nation crowd soccer certain common kit buddy dash armed";

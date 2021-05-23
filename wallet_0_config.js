@@ -1,1 +1,1 @@
-var mnemonic = "verify bicycle rookie friend boring lens apple pulse one pistol phrase bring";
+var mnemonic = "broccoli ticket sure drink popular barely coyote survey fade puppy grain enrich";

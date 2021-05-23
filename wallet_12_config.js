@@ -1,1 +1,1 @@
-var mnemonic = "butter merry asthma remain field moon glue buyer pass analyst gossip harvest";
+var mnemonic = "powder release exhibit gallery garden honey come melody tree forward inmate mail";

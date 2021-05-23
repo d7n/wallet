@@ -1,1 +1,1 @@
-var mnemonic = "embrace patrol banana blind ghost bleak jazz renew buzz paper wheat dream";
+var mnemonic = "grain party crush wife light casual correct jacket receive rubber follow fun";

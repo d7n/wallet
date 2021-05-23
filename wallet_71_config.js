@@ -1,1 +1,1 @@
-var mnemonic = "history foil flavor perfect eyebrow design bread bridge bulb staff attend own";
+var mnemonic = "list false object clutch job chair sponsor boy december hidden dust forward";

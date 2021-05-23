@@ -1,1 +1,1 @@
-var mnemonic = "lounge energy provide raise scan dwarf trap purchase cycle scissors already sign";
+var mnemonic = "sea cousin drip story visual buyer away tourist athlete truck smooth panther";

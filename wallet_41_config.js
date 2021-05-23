@@ -1,1 +1,1 @@
-var mnemonic = "primary win income whale expire unlock collect banner nasty craft velvet huge";
+var mnemonic = "wing fatigue live liquid gate invite ball voyage square canal book rude";

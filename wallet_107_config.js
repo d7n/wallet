@@ -1,1 +1,1 @@
-var mnemonic = "noise pupil treat blouse world few obscure pig cloud system pen palm";
+var mnemonic = "image artwork prison rather hand limb rocket glide you brand double artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm swarm victory sheriff loud special shuffle cupboard say federal hundred invite";
+var mnemonic = "warfare planet affair script assist lab stool task approve bachelor task embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue voyage cash oyster glimpse mushroom dial suit shuffle repeat perfect adjust";
+var mnemonic = "wash desert drink devote sister note favorite nature horse solve mule illness";

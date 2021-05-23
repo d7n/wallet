@@ -1,1 +1,1 @@
-var mnemonic = "pact shrug old curve swap green cake cluster share original stone olive";
+var mnemonic = "priority people agent guide enable mad coil hen stable fiction desert error";

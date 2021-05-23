@@ -1,1 +1,1 @@
-var mnemonic = "spend gym taxi leaf shop ancient food smile joke awake zero black";
+var mnemonic = "hire flat sustain indoor large arrive erosion advance wide woman material exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp fame alcohol bar output attract more head jealous message drastic gauge";
+var mnemonic = "menu caution milk tail jaguar search hamster thrive special shield flip dinosaur";

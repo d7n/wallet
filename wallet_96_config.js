@@ -1,1 +1,1 @@
-var mnemonic = "tone trumpet main dove slogan vocal garage glory hero rabbit ring exist";
+var mnemonic = "desert aisle nerve rare between title silver gossip civil chunk best end";

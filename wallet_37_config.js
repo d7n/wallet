@@ -1,1 +1,1 @@
-var mnemonic = "lonely sketch praise logic possible hour tip catalog dwarf wash oyster donor";
+var mnemonic = "episode have rose amount ordinary bless grant tissue horror impact lens useless";

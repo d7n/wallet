@@ -1,1 +1,1 @@
-var mnemonic = "life street raw rebuild movie inject faint prosper salmon invite charge soda";
+var mnemonic = "scare olive security swear stand leave frown payment congress help myself grid";

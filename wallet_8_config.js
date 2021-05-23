@@ -1,1 +1,1 @@
-var mnemonic = "deliver dad worth museum loud guide organ wool again scale rough fiber";
+var mnemonic = "have tape year away turkey suggest audit gown nothing spice power swing";

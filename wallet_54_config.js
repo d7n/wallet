@@ -1,1 +1,1 @@
-var mnemonic = "poem snow magic popular glare road pretty bright ghost casino develop news";
+var mnemonic = "edit surprise bag clock finger ability surface palace nice response mobile phrase";

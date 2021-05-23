@@ -1,1 +1,1 @@
-var mnemonic = "define evidence hair list human famous smart erode future dress proof merit";
+var mnemonic = "access kitchen social route fish kick gospel nerve decade plastic minor panther";

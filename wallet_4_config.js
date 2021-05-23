@@ -1,1 +1,1 @@
-var mnemonic = "field weird bulk blame give hobby foot chunk stage abandon soon arm";
+var mnemonic = "fiction crowd light shoulder tuition nation situate ginger other mercy good turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "unique vessel fabric foster antenna dust bitter curve ill bread lawn present";
+var mnemonic = "pumpkin siege please flower glue other shoe away stick aim hill nephew";

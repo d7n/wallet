@@ -1,1 +1,1 @@
-var mnemonic = "nothing deposit lab main measure inquiry hill hurdle setup banana child concert";
+var mnemonic = "habit nurse midnight hen predict water rapid ticket jeans space write member";

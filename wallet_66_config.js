@@ -1,1 +1,1 @@
-var mnemonic = "oak danger child initial brief hazard source employ ten turn prefer obvious";
+var mnemonic = "curtain life chimney tired grab vacant goat potato like beauty east fold";

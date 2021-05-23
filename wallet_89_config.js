@@ -1,1 +1,1 @@
-var mnemonic = "clever soldier armed wink infant water dismiss oyster whip wood patch fresh";
+var mnemonic = "cabin perfect rural dawn ability track blouse crop melody secret popular drop";

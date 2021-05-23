@@ -1,1 +1,1 @@
-var mnemonic = "give seed wine sleep local rib gravity possible ill cover pepper asthma";
+var mnemonic = "party kitten canvas pattern begin draft steel hand rate spoon expect multiply";

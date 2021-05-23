@@ -1,1 +1,1 @@
-var mnemonic = "photo report mistake picnic swift mutual bird audit yard horn sock scare";
+var mnemonic = "address mask sheriff fine busy gentle book badge involve exhibit blade borrow";

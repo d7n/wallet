@@ -1,1 +1,1 @@
-var mnemonic = "ranch worth rain cruise plate two scout jump pledge art approve step";
+var mnemonic = "scan end detect weird opera tray cargo twist enough cliff canal cancel";

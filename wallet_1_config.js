@@ -1,1 +1,1 @@
-var mnemonic = "east live inmate weasel evolve gown accuse crisp island merit noodle person";
+var mnemonic = "nuclear desert door corn wire similar draft again outside lecture state world";

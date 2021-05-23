@@ -1,1 +1,1 @@
-var mnemonic = "pilot sauce paddle train goddess tomorrow ring letter security celery boring ladder";
+var mnemonic = "pelican orange coyote truck dinosaur melt snap night raven scheme deputy diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "goose rent clerk tape inherit ball hip output crowd manage omit phone";
+var mnemonic = "minute away story moral biology public half wash weasel possible diary weekend";

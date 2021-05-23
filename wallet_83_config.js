@@ -1,1 +1,1 @@
-var mnemonic = "remind piece come push ribbon bunker drift argue napkin asset wasp review";
+var mnemonic = "suit twelve taste dress also require embark slow kick limit tank amount";

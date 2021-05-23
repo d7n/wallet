@@ -1,1 +1,1 @@
-var mnemonic = "loud rifle vapor cinnamon twelve knock lazy good design acoustic rookie cover";
+var mnemonic = "wing spatial short town long relief knock walk dash enemy cook balcony";

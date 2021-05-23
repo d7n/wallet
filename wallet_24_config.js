@@ -1,1 +1,1 @@
-var mnemonic = "keen right mountain soldier thrive gaze enroll canoe ignore prepare quote smart";
+var mnemonic = "sunny dune culture unique clever boil page corn kind acquire spoil deliver";

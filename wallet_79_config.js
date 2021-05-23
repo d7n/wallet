@@ -1,1 +1,1 @@
-var mnemonic = "day peanut mesh erase design paper pony bargain cluster bring physical turkey";
+var mnemonic = "play certain wine throw another bubble degree document rally title mail village";

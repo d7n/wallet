@@ -1,1 +1,1 @@
-var mnemonic = "believe credit inject explain curve company donkey taste snack second agent confirm";
+var mnemonic = "curve balance twist race fox manual oak safe relief twelve alter season";

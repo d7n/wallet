@@ -1,1 +1,1 @@
-var mnemonic = "search school awful suffer mix mercy switch symbol shield swing speak river";
+var mnemonic = "occur flag farm detail boy test turn safe throw alter guess wisdom";

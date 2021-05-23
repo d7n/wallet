@@ -1,1 +1,1 @@
-var mnemonic = "mercy ripple front angle mask glance lunch that smart bamboo joy pyramid";
+var mnemonic = "gas donkey stereo south session column host pretty prepare enough belt subway";

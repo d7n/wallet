@@ -1,1 +1,1 @@
-var mnemonic = "bacon say flip galaxy humble horror citizen series suit dry discover caught";
+var mnemonic = "beyond liberty park replace dance machine knife hundred example paddle capital movie";

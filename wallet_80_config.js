@@ -1,1 +1,1 @@
-var mnemonic = "south sure flat vital eye unfair predict assume wave jaguar curtain leg";
+var mnemonic = "place dignity shoulder firm pepper buddy pizza mix sick since when legend";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor squirrel alley alarm merge alpha cricket dash chicken lobster genuine music";
+var mnemonic = "alcohol honey coach minimum shock sketch exile bamboo blanket catalog drum embrace";

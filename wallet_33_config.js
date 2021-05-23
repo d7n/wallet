@@ -1,1 +1,1 @@
-var mnemonic = "hidden guide region night garbage ring decide glue all upon concert tide";
+var mnemonic = "vocal forward olympic laptop throw cake peace silent swarm laptop expand begin";

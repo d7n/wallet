@@ -1,1 +1,1 @@
-var mnemonic = "method hood solid twice outdoor swift artwork inhale pepper grape pill below";
+var mnemonic = "life shock tuition minute candy outer rich virtual pilot palm solution twice";

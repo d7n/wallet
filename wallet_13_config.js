@@ -1,1 +1,1 @@
-var mnemonic = "sort paper gift stem struggle problem enough motion mixed dinosaur canoe melody";
+var mnemonic = "inherit minute fresh false turkey apple brown cage rotate feature doctor yard";

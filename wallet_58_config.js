@@ -1,1 +1,1 @@
-var mnemonic = "combine accident truly blame fury coach foam parade glad canyon save biology";
+var mnemonic = "gasp divert zebra fan prize excess tiger side power damage click wrong";

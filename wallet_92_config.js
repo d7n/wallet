@@ -1,1 +1,1 @@
-var mnemonic = "smart inform sail else jewel envelope abuse knee attract discover author comfort";
+var mnemonic = "clay hill seminar buffalo wise attack age aunt ship tone setup genre";

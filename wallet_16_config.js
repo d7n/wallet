@@ -1,1 +1,1 @@
-var mnemonic = "agent pencil swarm lumber burst embody danger cloud alcohol review slice quality";
+var mnemonic = "century ancient truly leopard tourist metal grid fluid universe elite skill reflect";

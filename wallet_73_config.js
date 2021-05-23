@@ -1,1 +1,1 @@
-var mnemonic = "front romance clap artist vital pledge luggage vast hint corn relief cost";
+var mnemonic = "steel owner regret walnut license duty swing warrior nothing antenna alarm cliff";

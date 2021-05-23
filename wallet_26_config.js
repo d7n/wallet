@@ -1,1 +1,1 @@
-var mnemonic = "water object transfer swim remember parent caught physical venture crime face elephant";
+var mnemonic = "face space zero guide pizza suffer blouse tenant message case twenty fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "universe tank prison bring elegant deny inject arrow grass december void ribbon";
+var mnemonic = "elegant page drive elbow bring hole situate cheap property icon duck nasty";

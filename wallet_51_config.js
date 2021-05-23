@@ -1,1 +1,1 @@
-var mnemonic = "rigid cake mirror spy slender robust tomorrow sound obvious work glory across";
+var mnemonic = "isolate maid fade mesh average pull equal expose okay rifle tool soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "example insane scrap bracket fan lake cube gauge december myth soda lunch";
+var mnemonic = "uncover moment weasel nature outside meat slot poet float column recall tattoo";

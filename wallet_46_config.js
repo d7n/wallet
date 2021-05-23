@@ -1,1 +1,1 @@
-var mnemonic = "left eternal category warrior stereo tomorrow fly staff sense addict gadget knock";
+var mnemonic = "snap elevator million disagree race nose lawsuit clarify faculty slight green call";

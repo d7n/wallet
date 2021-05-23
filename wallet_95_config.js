@@ -1,1 +1,1 @@
-var mnemonic = "injury option south decrease detail heavy series injury stadium ring winner limb";
+var mnemonic = "whip civil violin zone ghost select moon mammal climb great tongue enough";

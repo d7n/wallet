@@ -1,1 +1,1 @@
-var mnemonic = "orbit civil frequent trigger attitude wheat legend ivory easily dry become abuse";
+var mnemonic = "quiz switch monkey retire tragic rather rebel stumble exotic age apology surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "true supply opera crush soccer fatigue below scrap stuff palace universe stem";
+var mnemonic = "jazz genius vehicle budget crane alone riot announce illness screen dry birth";

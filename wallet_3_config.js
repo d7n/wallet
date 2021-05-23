@@ -1,1 +1,1 @@
-var mnemonic = "ozone job grocery age blue hood minute gain gorilla fee fatal salmon";
+var mnemonic = "ocean fox calm sister tent occur occur raw risk situate clock course";

@@ -1,1 +1,1 @@
-var mnemonic = "city album afraid ginger priority human transfer ten multiply dad civil panel";
+var mnemonic = "grant twenty gift tortoise ostrich acid attend genre find attend option welcome";

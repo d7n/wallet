@@ -1,1 +1,1 @@
-var mnemonic = "flush speed shine level upgrade once miracle link cream course leader witness";
+var mnemonic = "share metal gloom luggage daring ball fresh sand swim print toilet gloom";

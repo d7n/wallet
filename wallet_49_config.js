@@ -1,1 +1,1 @@
-var mnemonic = "artwork notice sail fresh crop you curve trust giant auto wink iron";
+var mnemonic = "theory odor beach next settle cream knock couple pink shine history twenty";

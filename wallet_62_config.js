@@ -1,1 +1,1 @@
-var mnemonic = "thought rally image sauce board caught fit convince gap card hurry absent";
+var mnemonic = "scheme bounce digital picture sugar sad average ill because great local renew";

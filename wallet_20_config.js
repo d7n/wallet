@@ -1,1 +1,1 @@
-var mnemonic = "open lens skate maid legal jealous cover tunnel harvest process liquid dismiss";
+var mnemonic = "muffin subway vague draw orient snap oxygen domain park stem fancy minor";

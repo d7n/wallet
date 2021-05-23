@@ -1,1 +1,1 @@
-var mnemonic = "puppy castle bitter never garment depend swear path fatal admit desert trial";
+var mnemonic = "science eye verify sunset pink keep parade into crisp exclude juice unique";

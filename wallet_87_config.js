@@ -1,1 +1,1 @@
-var mnemonic = "vault diamond lesson pluck recipe order wedding obey year hello crazy play";
+var mnemonic = "genuine same knock cabbage divorce refuse depth feed social certain split devote";

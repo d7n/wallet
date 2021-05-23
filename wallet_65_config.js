@@ -1,1 +1,1 @@
-var mnemonic = "perfect jacket toddler arm pistol disagree shove law silly follow actor aim";
+var mnemonic = "box resemble park fault antique liquid rib any cloth village number diary";

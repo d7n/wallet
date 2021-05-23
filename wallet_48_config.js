@@ -1,1 +1,1 @@
-var mnemonic = "brother such maze dolphin reject key model pattern girl jar arm seminar";
+var mnemonic = "town fluid choose typical thank time glad purchase junk direct verb owner";

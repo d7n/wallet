@@ -1,1 +1,1 @@
-var mnemonic = "bachelor salt fruit accident nature mesh trial earth december worth blur acoustic";
+var mnemonic = "defense question situate fall master effort refuse left blame lonely maximum banana";

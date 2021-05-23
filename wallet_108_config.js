@@ -1,1 +1,1 @@
-var mnemonic = "blast ankle timber dutch equip genre armed recall web embark album fatal";
+var mnemonic = "actual core achieve squirrel advice hybrid spawn chair quantum either unable table";

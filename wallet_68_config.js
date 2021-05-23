@@ -1,1 +1,1 @@
-var mnemonic = "stadium bitter dice arena cradle casual fold resemble doctor limit width mimic";
+var mnemonic = "brave season manual mention cruise find rather clock garment what join cycle";

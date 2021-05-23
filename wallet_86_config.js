@@ -1,1 +1,1 @@
-var mnemonic = "task baby hip town educate shrimp grass speed miracle grape sword kick";
+var mnemonic = "tree start multiply wild track escape flavor hover raccoon estate face settle";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut title stone car cart remind calm deal run crucial another immune";
+var mnemonic = "leopard now card crane sheriff climb avoid quality combine employ miss spatial";

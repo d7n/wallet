@@ -1,1 +1,1 @@
-var mnemonic = "void one convince win country stone camp ridge maid injury reopen sea";
+var mnemonic = "option length alert soup bonus confirm drip blush someone address weekend thing";

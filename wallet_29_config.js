@@ -1,1 +1,1 @@
-var mnemonic = "network agree young onion reduce winter business live chunk amused antique glove";
+var mnemonic = "cargo erosion swallow window supreme polar foil beauty donkey hotel antique bachelor";

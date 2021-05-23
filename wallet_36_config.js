@@ -1,1 +1,1 @@
-var mnemonic = "bracket million equal easy boss smart broom chalk hospital true axis office";
+var mnemonic = "pumpkin curious slide live deny success spoil sad punch siege joy crunch";

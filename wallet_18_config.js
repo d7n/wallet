@@ -1,1 +1,1 @@
-var mnemonic = "expect weather battle lucky mandate ladder budget balance treat sport approve embody";
+var mnemonic = "run hub install enter insane know surprise stove tray enrich again live";

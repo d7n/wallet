@@ -1,1 +1,1 @@
-var mnemonic = "fatal coach tape such derive mimic avoid island capable clean slender capable";
+var mnemonic = "comic evoke access ceiling pave country use immense wear indoor wrist extend";

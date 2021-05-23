@@ -1,1 +1,1 @@
-var mnemonic = "legal box spell equip toddler cram box donkey blouse luggage kitchen loyal";
+var mnemonic = "dog glad sibling pony lunar dragon aim alarm wide flag body prefer";

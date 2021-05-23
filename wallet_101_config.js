@@ -1,1 +1,1 @@
-var mnemonic = "meadow gospel inflict bench frog gorilla message tray tomato unusual kid pizza";
+var mnemonic = "swing park obvious oil vessel shallow gallery sustain guess chuckle enjoy board";

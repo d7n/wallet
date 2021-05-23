@@ -1,1 +1,1 @@
-var mnemonic = "rifle short volume entry above snap reflect knee media engage electric hotel";
+var mnemonic = "raise guilt climb head occur initial issue save unhappy someone crane web";

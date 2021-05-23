@@ -1,1 +1,1 @@
-var mnemonic = "follow pig vapor ramp wonder december relief lobster arrange turn during usual";
+var mnemonic = "ostrich wing danger distance cover balance alert setup dish glad damage fish";

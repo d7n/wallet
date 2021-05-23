@@ -1,1 +1,1 @@
-var mnemonic = "horn shine behind song east crunch judge lens clap kind garage capital";
+var mnemonic = "forest sunny bachelor own motion across saddle oyster faculty neglect sponsor bachelor";

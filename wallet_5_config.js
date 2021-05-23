@@ -1,1 +1,1 @@
-var mnemonic = "expect soap fringe giraffe poet assume improve clip arena lazy hidden matter";
+var mnemonic = "ivory actor noodle sell lyrics vague corn unfair trouble finish pear music";

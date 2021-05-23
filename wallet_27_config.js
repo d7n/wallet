@@ -1,1 +1,1 @@
-var mnemonic = "speak winter snap panel sea feed position silent vocal fruit ring shoe";
+var mnemonic = "dentist cram decrease alley thrive security belt sketch ankle hunt bronze fabric";

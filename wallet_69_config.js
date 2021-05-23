@@ -1,1 +1,1 @@
-var mnemonic = "course survey fruit symptom street scare need theme refuse fury camera rapid";
+var mnemonic = "bounce frost immune pull manual vast rebuild milk luxury huge tail whale";

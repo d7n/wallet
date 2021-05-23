@@ -1,1 +1,1 @@
-var mnemonic = "street slab chuckle measure regret grief gossip hold drop vital eagle poet";
+var mnemonic = "series fabric vague cheese ridge fetch spy chaos kid bag taste garlic";

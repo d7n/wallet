@@ -1,1 +1,1 @@
-var mnemonic = "abstract degree news copy enter potato close people scare insect inject grief";
+var mnemonic = "pause mask kite bean neither alone agree guide sentence income keen tower";

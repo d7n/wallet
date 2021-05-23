@@ -1,1 +1,1 @@
-var mnemonic = "radar maple picture donate eternal speed forest vocal spatial diesel pulp nation";
+var mnemonic = "spider spatial suit spawn strategy sting social pride bring suffer please visual";

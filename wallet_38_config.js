@@ -1,1 +1,1 @@
-var mnemonic = "talent latin clog coast fall found chronic nephew lemon toast escape various";
+var mnemonic = "cream follow balcony bonus confirm core cake motor negative recall sport educate";

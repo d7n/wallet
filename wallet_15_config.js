@@ -1,1 +1,1 @@
-var mnemonic = "today science tomato connect soda clutch hunt sweet grow fan traffic stumble";
+var mnemonic = "calm shaft hold visit wool forward planet reduce proud hero often script";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge asthma vendor budget amount since test appear close glare sauce napkin";
+var mnemonic = "dad pizza badge mix battle honey fly reduce grass silent average worth";

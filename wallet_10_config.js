@@ -1,1 +1,1 @@
-var mnemonic = "service fog assault digital nephew purchase side afford absent nominee turn damage";
+var mnemonic = "bachelor gym urge example color arrow engine sketch auction physical benefit twelve";

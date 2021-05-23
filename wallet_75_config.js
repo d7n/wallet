@@ -1,1 +1,1 @@
-var mnemonic = "ancient close action harbor only today soul only room canyon enjoy enact";
+var mnemonic = "typical turkey hidden head panther lunar wedding dumb myself baby price grain";

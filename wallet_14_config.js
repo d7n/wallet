@@ -1,1 +1,1 @@
-var mnemonic = "bonus orient front craft turtle lawsuit ensure film nest promote boy style";
+var mnemonic = "soup genius siren health charge frost lift skin anchor job pupil run";

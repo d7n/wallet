@@ -1,1 +1,1 @@
-var mnemonic = "negative purse riot abandon panda grace half hip public inch orient wagon";
+var mnemonic = "sick estate ordinary useful skill apart elegant melt scout odor cruel lumber";

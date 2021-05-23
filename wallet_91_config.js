@@ -1,1 +1,1 @@
-var mnemonic = "rival install sniff season drip shy burden skirt enable agent force hedgehog";
+var mnemonic = "power profit circle term shaft what morning fringe exit certain foot suggest";
