@@ -1,1 +1,1 @@
-var mnemonic = "napkin sweet ocean bamboo ocean record swap border useful abuse book impact";
+var mnemonic = "service large bag praise math bottom wrestle crater cabbage gossip neutral obtain";

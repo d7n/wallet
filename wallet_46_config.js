@@ -1,1 +1,1 @@
-var mnemonic = "region solution race symptom service pelican detect field bar wish diagram tortoise";
+var mnemonic = "double law release dumb nation army orphan accident motor legend ostrich fitness";

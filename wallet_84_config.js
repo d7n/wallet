@@ -1,1 +1,1 @@
-var mnemonic = "item sauce cable motor scale exist gap buyer rookie casino erosion amused";
+var mnemonic = "buffalo delay slide laundry heavy just okay energy behind burden sign palace";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney express wedding work mammal strong afraid mistake rabbit seek dial twelve";
+var mnemonic = "sister later clutch initial job earth hello album minimum tourist fortune home";

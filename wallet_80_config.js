@@ -1,1 +1,1 @@
-var mnemonic = "current luggage action shrimp sense merry horse give include ketchup clog gold";
+var mnemonic = "chimney boring ready manual kiss crystal comfort cream door tomato define tip";

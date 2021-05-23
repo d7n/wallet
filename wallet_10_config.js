@@ -1,1 +1,1 @@
-var mnemonic = "symbol truly pill soccer tourist time amazing donkey income spell dawn buddy";
+var mnemonic = "snack slow absorb recipe castle leader topic stool private festival parade sustain";

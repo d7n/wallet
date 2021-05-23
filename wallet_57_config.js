@@ -1,1 +1,1 @@
-var mnemonic = "puppy priority wolf harvest comfort joke seek border split lottery install repair";
+var mnemonic = "body jealous bless horse consider used tomato palm admit point pet universe";

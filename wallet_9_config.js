@@ -1,1 +1,1 @@
-var mnemonic = "lunar text useful sauce car ivory mercy sorry option cactus social jewel";
+var mnemonic = "evil rate wink top machine cruise asset property depend vital few dolphin";

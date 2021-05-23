@@ -1,1 +1,1 @@
-var mnemonic = "jump machine foot clerk crowd model pause beach faint cycle wisdom service";
+var mnemonic = "carry flash enable long duck arrest draw spike flat process bulk test";

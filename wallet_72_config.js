@@ -1,1 +1,1 @@
-var mnemonic = "wrap history another tobacco exhibit tobacco runway this second outer debate menu";
+var mnemonic = "spirit dumb bird secret mercy home economy rebel nephew spell quiz priority";

@@ -1,1 +1,1 @@
-var mnemonic = "merit bike tunnel thunder pattern absurd gauge emerge axis hollow door wisdom";
+var mnemonic = "embody tired glad prison chunk wire piano current crumble mad quantum hidden";

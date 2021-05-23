@@ -1,1 +1,1 @@
-var mnemonic = "all surprise lens penalty wrong cycle random guide way olive maid trouble";
+var mnemonic = "major pride room shrimp arrive pulse exercise finish welcome ugly focus coral";

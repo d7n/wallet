@@ -1,1 +1,1 @@
-var mnemonic = "flush hire goddess rival grain water bind rubber zone assume copy speed";
+var mnemonic = "twelve payment merge bleak ivory loop furnace track estate rose casual kite";

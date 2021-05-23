@@ -1,1 +1,1 @@
-var mnemonic = "fresh also medal clay napkin damp fox mass only shy seven yard";
+var mnemonic = "banana allow gym fragile pitch hip jelly cheese dog bring surge twin";

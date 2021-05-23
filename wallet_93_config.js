@@ -1,1 +1,1 @@
-var mnemonic = "fly this hollow sail school practice quarter current lens blame poet barrel";
+var mnemonic = "layer cancel scheme clean sudden page stuff violin snack used fashion garden";

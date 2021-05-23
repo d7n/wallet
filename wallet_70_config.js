@@ -1,1 +1,1 @@
-var mnemonic = "design oblige warrior glimpse clog broken auction wave kidney program joke page";
+var mnemonic = "fringe immune hollow orange doctor portion finger fiber bomb glow various symbol";

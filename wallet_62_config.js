@@ -1,1 +1,1 @@
-var mnemonic = "neck announce segment engage offer goat combine unfair reward acid forget recycle";
+var mnemonic = "magnet polar panel before tooth air amazing detect mansion turn bomb improve";

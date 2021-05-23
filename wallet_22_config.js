@@ -1,1 +1,1 @@
-var mnemonic = "under sure today special best say sheriff key boring balcony laundry book";
+var mnemonic = "phone edge snow shrug invite immense aim pave lecture smile size uniform";

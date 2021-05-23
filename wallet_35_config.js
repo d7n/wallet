@@ -1,1 +1,1 @@
-var mnemonic = "shaft battle figure wide add banner clever chief travel hill immune moment";
+var mnemonic = "staff flag ribbon despair truly able proud utility isolate include snow camp";

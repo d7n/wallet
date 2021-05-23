@@ -1,1 +1,1 @@
-var mnemonic = "pulse client student fragile model special thought section cousin ready penalty wrist";
+var mnemonic = "enact zoo possible young brief loyal tomorrow fault galaxy throw tiger still";

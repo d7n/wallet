@@ -1,1 +1,1 @@
-var mnemonic = "uphold silent exile zero video rich vanish churn innocent color patient drift";
+var mnemonic = "fun clip chase comfort cave blouse rent shock ripple camera pottery final";

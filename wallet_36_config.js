@@ -1,1 +1,1 @@
-var mnemonic = "direct supply renew latin sorry general hollow satoshi air search myself senior";
+var mnemonic = "skull puzzle asset report pioneer execute injury arena stuff law curious switch";

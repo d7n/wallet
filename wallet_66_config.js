@@ -1,1 +1,1 @@
-var mnemonic = "run borrow vacant fresh host submit phrase keen unknown physical flame blush";
+var mnemonic = "expire hollow ramp energy exchange analyst scrap move virtual rely modify quality";

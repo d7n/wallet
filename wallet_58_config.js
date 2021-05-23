@@ -1,1 +1,1 @@
-var mnemonic = "safe various absurd paddle sudden trouble correct miracle angle truly hurdle rice";
+var mnemonic = "discover brisk bread when demand april faith slender evil camp husband clerk";

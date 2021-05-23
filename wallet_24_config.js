@@ -1,1 +1,1 @@
-var mnemonic = "cheap credit monster effort memory garment reform heart such puppy rain race";
+var mnemonic = "output bless install fuel february bounce deal alarm canyon dawn girl bomb";

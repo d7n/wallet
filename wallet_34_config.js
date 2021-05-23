@@ -1,1 +1,1 @@
-var mnemonic = "behind mansion attitude law piece volume dynamic lecture room old crunch faith";
+var mnemonic = "hole private crumble zone learn frame van advice brother mercy kangaroo outside";

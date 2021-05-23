@@ -1,1 +1,1 @@
-var mnemonic = "dinner fuel flavor stem nation taxi tattoo spy taxi they bullet mixed";
+var mnemonic = "master art word muffin venture veteran toast opera rival remind kite motor";

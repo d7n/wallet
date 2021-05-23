@@ -1,1 +1,1 @@
-var mnemonic = "book catalog business jewel twist cram ketchup decade grain jacket offer target";
+var mnemonic = "flat feed onion prepare stable minor sick avoid typical brave couple culture";

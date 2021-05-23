@@ -1,1 +1,1 @@
-var mnemonic = "frequent economy icon onion diary portion coyote remove tobacco figure school dragon";
+var mnemonic = "bargain end dove bone they predict pear network bunker armor similar vibrant";

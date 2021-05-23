@@ -1,1 +1,1 @@
-var mnemonic = "involve army avoid fence emerge candy shadow business impose harvest midnight error";
+var mnemonic = "tonight mean still demise world arctic silent volume genuine increase leopard push";

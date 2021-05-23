@@ -1,1 +1,1 @@
-var mnemonic = "strong heavy banner capable find ladder reunion ski divert knock more unknown";
+var mnemonic = "quantum fever pluck bag skirt private attend today wood timber update income";

@@ -1,1 +1,1 @@
-var mnemonic = "glove tackle fiscal energy top cube state much spoil butter orphan champion";
+var mnemonic = "cradle million rebuild sail orient trash fog style sea situate romance myself";

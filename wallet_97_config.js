@@ -1,1 +1,1 @@
-var mnemonic = "actress canyon fiber slam dumb cluster park stand guide fossil catch satisfy";
+var mnemonic = "cotton curious host process ability truck useless hospital educate view faint battle";

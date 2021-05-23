@@ -1,1 +1,1 @@
-var mnemonic = "rocket axis mask buffalo world mandate order wrestle jump cluster aisle leader";
+var mnemonic = "plunge hard price express tackle fantasy any define chest raven ring champion";

@@ -1,1 +1,1 @@
-var mnemonic = "payment result soft trend diary hospital yellow office gospel acid exit exhaust";
+var mnemonic = "extend wedding rhythm wage sword sorry check bridge era recycle legend wrap";

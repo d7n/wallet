@@ -1,1 +1,1 @@
-var mnemonic = "next route crazy age roof tuna you saddle learn library belt flag";
+var mnemonic = "chapter pen quiz elevator boy absent twenty picture execute seminar road orbit";

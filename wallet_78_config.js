@@ -1,1 +1,1 @@
-var mnemonic = "doll fire put odor paper raven meat model click expect easy fancy";
+var mnemonic = "mad chat shadow border shuffle hawk endorse warfare brother room robust doll";

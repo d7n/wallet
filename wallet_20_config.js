@@ -1,1 +1,1 @@
-var mnemonic = "kingdom opera emotion grid tragic myself fuel sting pioneer image spare catalog";
+var mnemonic = "deal photo theme blind charge pigeon bean letter shell crane wreck deny";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy pause notice harbor night robot scrap feel half segment genre gown";
+var mnemonic = "segment burger silver battle opera spice venture stove shaft woman scare lock";

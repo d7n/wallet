@@ -1,1 +1,1 @@
-var mnemonic = "shell achieve solve alone patch humble rocket device destroy verify share entire";
+var mnemonic = "error again peace act reason divert ghost stadium scrap equal curtain turn";

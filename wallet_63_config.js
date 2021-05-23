@@ -1,1 +1,1 @@
-var mnemonic = "twice suggest bomb level runway remain chief hair lizard east kid away";
+var mnemonic = "film miss lens cruel because embody amount alien scale embrace relief weather";

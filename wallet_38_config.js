@@ -1,1 +1,1 @@
-var mnemonic = "senior tenant tomorrow sunny enact bag industry stand disagree stage appear feed";
+var mnemonic = "gain focus frame soon inhale skin own gather coast force delay sword";

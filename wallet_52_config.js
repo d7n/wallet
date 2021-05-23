@@ -1,1 +1,1 @@
-var mnemonic = "name suspect radar merry dolphin immune hire kick final twice hip genre";
+var mnemonic = "chunk tail vocal rib rose tag road giant inhale kitten add engine";

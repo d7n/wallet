@@ -1,1 +1,1 @@
-var mnemonic = "decide gift rescue agree ensure guide pudding plug orange river rich chronic";
+var mnemonic = "bargain exhibit nerve nothing submit dizzy stairs ignore opera stairs ring kiss";

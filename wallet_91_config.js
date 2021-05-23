@@ -1,1 +1,1 @@
-var mnemonic = "execute scorpion follow various clutch impulse sentence sugar sing among top mix";
+var mnemonic = "mask tiny cliff canyon oxygen north tumble love fury suspect error endorse";

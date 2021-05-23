@@ -1,1 +1,1 @@
-var mnemonic = "sea spread jungle craft ankle kiwi bubble mistake under behave repair deliver";
+var mnemonic = "another pipe bench mansion home salmon worth erode room library work erosion";

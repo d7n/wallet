@@ -1,1 +1,1 @@
-var mnemonic = "rhythm pole carry song snow glove jelly universe swim round weird dutch";
+var mnemonic = "visit virus pulse range copper still farm regret face bright quick wire";

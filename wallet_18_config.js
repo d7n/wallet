@@ -1,1 +1,1 @@
-var mnemonic = "swim differ want kingdom expect citizen extend unveil sister fork slice disease";
+var mnemonic = "knife silver point arctic rib credit carry educate silk ethics crazy decline";

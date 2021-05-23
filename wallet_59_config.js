@@ -1,1 +1,1 @@
-var mnemonic = "afford ramp anxiety talk wool toy token palace element fly gold deer";
+var mnemonic = "abuse shallow game put wrestle zone century turtle matrix divorce mechanic pole";

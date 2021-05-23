@@ -1,1 +1,1 @@
-var mnemonic = "discover arrange true rude source piano lava panda mean scheme fatal crime";
+var mnemonic = "advice fork stumble lazy dolphin various book empty feed brave gasp license";

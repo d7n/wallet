@@ -1,1 +1,1 @@
-var mnemonic = "anchor embark found inject extra record crop advance coral donate tattoo only";
+var mnemonic = "mean ship vendor cable maid cricket latin company letter disease warfare oil";

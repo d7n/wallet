@@ -1,1 +1,1 @@
-var mnemonic = "way gym vibrant aspect goat daughter black slice ostrich bright cook struggle";
+var mnemonic = "useless muscle grid silent assist cabin dignity donor lift crane whale cat";

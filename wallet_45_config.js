@@ -1,1 +1,1 @@
-var mnemonic = "area card region toss edge kangaroo arrest prepare sorry worth torch warrior";
+var mnemonic = "pet erupt elder sudden scan weekend slender rally access prize any sugar";

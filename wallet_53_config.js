@@ -1,1 +1,1 @@
-var mnemonic = "type arrest blind tip test pill sauce filter decline silver actual save";
+var mnemonic = "squirrel seed want barrel vivid thank input exclude base journey faith rifle";

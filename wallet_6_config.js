@@ -1,1 +1,1 @@
-var mnemonic = "caught dinosaur art brand object curious battle unusual myself solve bounce volcano";
+var mnemonic = "custom angle venue maid enter review effort cattle hungry burst weather trial";

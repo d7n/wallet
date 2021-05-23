@@ -1,1 +1,1 @@
-var mnemonic = "law stage soccer cause skill hint network pelican fossil pioneer wrestle garage";
+var mnemonic = "story insane nation devote digital spatial stool hover inherit bicycle hover side";

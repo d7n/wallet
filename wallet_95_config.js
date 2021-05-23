@@ -1,1 +1,1 @@
-var mnemonic = "gossip enlist kiss infant dad unveil priority buyer dose filter almost bless";
+var mnemonic = "sell remember stuff favorite flower laugh vault noble title barrel tide success";

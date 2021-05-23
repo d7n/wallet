@@ -1,1 +1,1 @@
-var mnemonic = "fresh random win ship pottery menu harbor cliff fossil lunch supply stage";
+var mnemonic = "category rescue boil flower payment melody tone junior crowd obtain wisdom cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "assist purity dilemma glance control hole hood bike pond soft oyster destroy";
+var mnemonic = "upset extra monitor waste pyramid merge want onion indicate tissue axis thank";

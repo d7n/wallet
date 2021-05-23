@@ -1,1 +1,1 @@
-var mnemonic = "web valid deny dizzy voyage grief coffee brass ask rice snake mansion";
+var mnemonic = "unfair salon recall first floor thank sting valid plunge sister shuffle candy";

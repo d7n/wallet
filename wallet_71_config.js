@@ -1,1 +1,1 @@
-var mnemonic = "pole easy sample vacant ten fun bounce stock cube domain pigeon century";
+var mnemonic = "fly flush protect cat tiger blanket wonder reform actor conduct series dream";

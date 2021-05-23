@@ -1,1 +1,1 @@
-var mnemonic = "trim book woman address immense discover lobster crack casual cost misery oxygen";
+var mnemonic = "hen gather off elbow turn copy leg nothing warm dune nominee volume";

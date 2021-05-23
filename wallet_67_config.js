@@ -1,1 +1,1 @@
-var mnemonic = "word scatter peace lens reopen private fish excess crisp mystery side attitude";
+var mnemonic = "provide okay hamster immune nothing nature depart dutch volume soup amateur flip";

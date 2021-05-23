@@ -1,1 +1,1 @@
-var mnemonic = "nose twenty pool aerobic stable second rookie pen casino color legal skate";
+var mnemonic = "arrest crater few defense gaze ride scan quality reopen ask jacket lady";

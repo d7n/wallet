@@ -1,1 +1,1 @@
-var mnemonic = "mushroom below attack dance word neutral twelve merry frequent expose tide wash";
+var mnemonic = "wide worry shrimp sing electric pupil only sort version attack caution tackle";

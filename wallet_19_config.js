@@ -1,1 +1,1 @@
-var mnemonic = "photo foil make human kitten silver save route blade axis dinosaur identify";
+var mnemonic = "project dismiss gorilla permit cliff utility stock drive roast search fantasy inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual draw artist have attract discover trophy subway omit awake office worry";
+var mnemonic = "witness panel together immense mango grocery pistol whip tank actual cable dust";

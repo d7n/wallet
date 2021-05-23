@@ -1,1 +1,1 @@
-var mnemonic = "bachelor corn east air wheel output elegant ivory truth snap ball plug";
+var mnemonic = "travel general pony dry educate hello utility heart fiber afraid gun wreck";

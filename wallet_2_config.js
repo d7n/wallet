@@ -1,1 +1,1 @@
-var mnemonic = "post total example unusual dirt outer dumb tail crystal smooth senior border";
+var mnemonic = "merge okay crush load rough affair horse foot crowd ranch glory solve";

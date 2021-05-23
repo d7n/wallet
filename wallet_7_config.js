@@ -1,1 +1,1 @@
-var mnemonic = "paddle act rack total castle leisure board young chest work inhale blast";
+var mnemonic = "treat image sugar close dance parent rather vibrant combine better nasty stem";

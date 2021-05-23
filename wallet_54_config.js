@@ -1,1 +1,1 @@
-var mnemonic = "noodle dismiss sting borrow cat punch reflect ugly outer cereal pupil net";
+var mnemonic = "odor green exile jungle focus rescue symbol clarify vanish ankle notice undo";

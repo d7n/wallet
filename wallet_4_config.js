@@ -1,1 +1,1 @@
-var mnemonic = "kiwi carbon skate world grunt steel super below skin tooth curve caught";
+var mnemonic = "huge casino dawn you burger echo lesson chunk enrich subject used narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "rack bird unit bracket glory position oyster silver wall range crack lift";
+var mnemonic = "calm crop easily human keep entry vanish absent assume remain spring wave";

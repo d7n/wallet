@@ -1,1 +1,1 @@
-var mnemonic = "decide core tell siren cloud pattern few rhythm potato pool ill sausage";
+var mnemonic = "theme act image nature elegant garlic such card city celery school hunt";

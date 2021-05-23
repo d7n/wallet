@@ -1,1 +1,1 @@
-var mnemonic = "junior funny nurse artist shield endless cheese ribbon disorder unusual shallow venue";
+var mnemonic = "twice lunch addict sure always notable extend there woman effort search scale";

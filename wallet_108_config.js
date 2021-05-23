@@ -1,1 +1,1 @@
-var mnemonic = "more gospel skate confirm absurd always front alter sea horse slot youth";
+var mnemonic = "bind peanut ankle guilt asset shop now define layer legal ridge armed";

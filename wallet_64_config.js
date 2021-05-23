@@ -1,1 +1,1 @@
-var mnemonic = "patient cost warm age pluck race have hold input pudding rhythm balcony";
+var mnemonic = "demise crop social aspect snow super skull tag anxiety record virus rebuild";

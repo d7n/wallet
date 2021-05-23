@@ -1,1 +1,1 @@
-var mnemonic = "anchor tiger moon sibling dumb abuse move stool castle enter year goddess";
+var mnemonic = "blouse actual bulk trial sun slow gym chest dignity capital urge address";

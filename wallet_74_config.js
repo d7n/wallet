@@ -1,1 +1,1 @@
-var mnemonic = "castle decline cradle shoot cancel gadget weapon sleep stereo bronze dish fly";
+var mnemonic = "unknown amateur banner stay grain taxi later nothing round awkward vibrant cactus";

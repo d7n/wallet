@@ -1,1 +1,1 @@
-var mnemonic = "wet palm print attitude region weather innocent gate shove already image spatial";
+var mnemonic = "dismiss defense alarm method mixed whale chronic depend crash view arrest reject";

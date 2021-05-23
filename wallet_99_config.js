@@ -1,1 +1,1 @@
-var mnemonic = "place ill square clerk churn tuna mad enemy wedding blue baby airport";
+var mnemonic = "pave crumble upon clarify shiver ranch heavy vague lonely twenty illegal ring";

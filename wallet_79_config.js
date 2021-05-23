@@ -1,1 +1,1 @@
-var mnemonic = "super impose legend give knock puppy peace regular swamp member holiday mom";
+var mnemonic = "flame clap rare box ill sphere small idea absorb plunge devote weasel";

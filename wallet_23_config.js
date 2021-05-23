@@ -1,1 +1,1 @@
-var mnemonic = "infant square wing old tenant light seminar exist antenna town glance abandon";
+var mnemonic = "oil thing hobby denial palm sketch fall leopard beach enlist proud erupt";

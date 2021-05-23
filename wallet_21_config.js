@@ -1,1 +1,1 @@
-var mnemonic = "gaze actress excuse together menu absorb where off slush violin myth main";
+var mnemonic = "shoot blossom afford basic aunt pony viable undo anchor disagree route perfect";

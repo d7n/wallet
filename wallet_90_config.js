@@ -1,1 +1,1 @@
-var mnemonic = "acid scrub service lucky close void twin bag kidney prosper nephew drip";
+var mnemonic = "motion flavor gas shoulder theme bus put text veteran devote traffic return";

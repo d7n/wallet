@@ -1,1 +1,1 @@
-var mnemonic = "car deposit heart sniff jealous youth answer deny depart add bone level";
+var mnemonic = "tomato view carry vendor analyst term fine cereal pulse resemble catalog stove";

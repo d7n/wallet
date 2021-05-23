@@ -1,1 +1,1 @@
-var mnemonic = "elder consider drift never pact print believe priority shiver target ostrich rent";
+var mnemonic = "lobster mountain talk bomb pond because lobster sun ramp blame frame foam";

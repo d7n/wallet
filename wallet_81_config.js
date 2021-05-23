@@ -1,1 +1,1 @@
-var mnemonic = "fly staff tortoise boy bind below time pupil file category mistake item";
+var mnemonic = "capable helmet claw news sail fury exotic effort crack spring horn reject";

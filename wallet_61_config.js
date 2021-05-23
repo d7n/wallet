@@ -1,1 +1,1 @@
-var mnemonic = "laptop pledge coffee actual cube property fortune enforce boat shine marriage sweet";
+var mnemonic = "sadness across rare spray blouse plunge habit foil envelope cycle crush best";

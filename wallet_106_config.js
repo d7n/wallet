@@ -1,1 +1,1 @@
-var mnemonic = "pencil adult canvas exhibit salon cherry weapon filter flight regret arrange trap";
+var mnemonic = "million increase shell mercy uncle guilt frequent debris rubber once drama general";

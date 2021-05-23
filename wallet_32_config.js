@@ -1,1 +1,1 @@
-var mnemonic = "once swallow bike ahead immense cost pull lab trouble inject chair stand";
+var mnemonic = "goat wreck cube junior magnet slice polar lock tissue banner motor blur";
