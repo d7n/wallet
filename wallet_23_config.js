@@ -1,1 +1,1 @@
-var mnemonic = "iron season valley notice truly finish oak call woman because student spy";
+var mnemonic = "quantum tornado rice gym elite machine combine middle sight resource violin fortune";

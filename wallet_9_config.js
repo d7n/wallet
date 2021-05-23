@@ -1,1 +1,1 @@
-var mnemonic = "favorite alcohol naive juice depend wood twenty surge teach syrup favorite pet";
+var mnemonic = "answer casino stomach snow rack empower alarm donkey three impulse file scout";

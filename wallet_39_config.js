@@ -1,1 +1,1 @@
-var mnemonic = "noise shallow nephew crater hope lottery manage gather bless pudding quick demise";
+var mnemonic = "mom toe universe tuition walk skull wing gaze balcony heavy oil river";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe imitate margin tuition egg whale lion crack abuse speed turkey skull";
+var mnemonic = "shallow vacant runway urge bitter evidence lion hand coyote swift test annual";

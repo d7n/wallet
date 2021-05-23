@@ -1,1 +1,1 @@
-var mnemonic = "bachelor slab bargain fringe outer know flock gather range suit rapid picnic";
+var mnemonic = "sting dizzy kit divorce scare banana glass cheap vacant potato tilt fold";

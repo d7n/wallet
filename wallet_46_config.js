@@ -1,1 +1,1 @@
-var mnemonic = "crowd foil indicate fiber adjust chair strong eyebrow cube supreme warm fold";
+var mnemonic = "ring key donor gown defy faith adjust timber brother brown sadness spatial";

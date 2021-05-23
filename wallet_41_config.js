@@ -1,1 +1,1 @@
-var mnemonic = "mirror hybrid wreck observe clap miracle valve soldier alpha census response observe";
+var mnemonic = "neck gold swim mechanic donkey affair peace pulse fame time laptop fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum cattle require world choice solution iron camera cigar flush forest wood";
+var mnemonic = "flip message arch frozen entire income fever truck bleak paddle crucial portion";

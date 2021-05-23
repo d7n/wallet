@@ -1,1 +1,1 @@
-var mnemonic = "trophy wheel eye weird cattle novel organ truly kite spy boss sense";
+var mnemonic = "impose order slide fiscal deposit lonely control super silly sauce ivory immense";

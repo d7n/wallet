@@ -1,1 +1,1 @@
-var mnemonic = "orphan ranch biology milk soap diamond talk world disease endless obtain almost";
+var mnemonic = "replace coil idle stage cat voice slab unfold oyster glory science detail";

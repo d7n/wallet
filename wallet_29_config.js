@@ -1,1 +1,1 @@
-var mnemonic = "thank clean climb else access pizza slender piano broccoli join depend detail";
+var mnemonic = "soul comfort fashion chair broom skill around private fork snack prefer sun";

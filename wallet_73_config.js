@@ -1,1 +1,1 @@
-var mnemonic = "noble system violin equip mammal live celery safe equip street winter canal";
+var mnemonic = "alley team install brief side swap tourist random fall pelican rare move";

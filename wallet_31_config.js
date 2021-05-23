@@ -1,1 +1,1 @@
-var mnemonic = "absurd room coil festival pair marble broccoli harbor sauce subject fall tooth";
+var mnemonic = "action illness donate jaguar smoke never scrap fatigue square gap depend silent";

@@ -1,1 +1,1 @@
-var mnemonic = "firm sponsor wave depend hurdle kite stadium flame can powder embark crater";
+var mnemonic = "bundle margin toy boy sun blast crop plunge mandate hedgehog wasp valid";

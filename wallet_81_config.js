@@ -1,1 +1,1 @@
-var mnemonic = "teach antenna asset dog hen eight alone buyer table satoshi assault wide";
+var mnemonic = "punch crawl memory minute cross state pioneer slam upset away poem glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "journey fiscal invite sword column waste concert sight height rug nominee seminar";
+var mnemonic = "deposit purchase pulp atom can omit hawk owner exile summer absurd member";

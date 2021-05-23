@@ -1,1 +1,1 @@
-var mnemonic = "youth state cup panic fold sail will biology sibling eyebrow skull sure";
+var mnemonic = "company build ability swim fury february letter royal film torch afford shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon silly one health double brother park vote upgrade lyrics job crucial";
+var mnemonic = "legend quality daring twenty certain zebra unhappy orphan merge fancy gesture machine";

@@ -1,1 +1,1 @@
-var mnemonic = "just chicken south name enhance excuse oxygen gym tissue wrestle volcano student";
+var mnemonic = "tennis also ridge lion lawn length bleak enough repeat glove hobby script";

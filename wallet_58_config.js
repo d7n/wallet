@@ -1,1 +1,1 @@
-var mnemonic = "army enact normal dad dilemma shell inform scrub action report dream general";
+var mnemonic = "salon debris remain enough settle crawl actor box gown erupt ride youth";

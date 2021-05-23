@@ -1,1 +1,1 @@
-var mnemonic = "tag decade suggest solid ski prize bamboo angle donate virtual drop infant";
+var mnemonic = "spirit camera almost lake banana vicious original indicate garage carbon drastic banner";

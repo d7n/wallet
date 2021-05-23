@@ -1,1 +1,1 @@
-var mnemonic = "service marriage alley spice defy rotate call shaft talent siege oak spy";
+var mnemonic = "tooth demand one legend mean cradle penalty tooth bicycle wire bacon thrive";

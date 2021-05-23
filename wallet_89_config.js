@@ -1,1 +1,1 @@
-var mnemonic = "tunnel curve turtle document because denial ocean echo noise people goat daring";
+var mnemonic = "neither divorce plastic inject current festival barely milk spider mammal mother cup";

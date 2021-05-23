@@ -1,1 +1,1 @@
-var mnemonic = "scheme chapter salute pen lawsuit twin lava treat bracket jungle cliff own";
+var mnemonic = "number royal warfare turtle glimpse portion small brick panther behind urge camera";

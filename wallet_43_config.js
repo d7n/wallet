@@ -1,1 +1,1 @@
-var mnemonic = "run combine quality man betray act social tilt vessel music blanket cook";
+var mnemonic = "artwork lecture before indicate involve female season myth square holiday explain boil";

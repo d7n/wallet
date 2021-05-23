@@ -1,1 +1,1 @@
-var mnemonic = "again viable captain cave enhance rail verify practice twist swallow mystery mystery";
+var mnemonic = "grunt raccoon plug also under equip journey prosper farm child pull aerobic";

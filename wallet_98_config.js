@@ -1,1 +1,1 @@
-var mnemonic = "awful please naive print fault industry brave zoo sock movie feature blast";
+var mnemonic = "violin blood erupt alley sadness nasty sniff trade vital syrup envelope gospel";

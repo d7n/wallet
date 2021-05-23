@@ -1,1 +1,1 @@
-var mnemonic = "cotton dilemma tenant celery sense border type claw exotic noble neither scheme";
+var mnemonic = "few laundry demise amused erosion meadow boost juice evoke ski possible field";

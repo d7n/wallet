@@ -1,1 +1,1 @@
-var mnemonic = "heavy change gap wise spatial lend pudding pitch south melody craft motion";
+var mnemonic = "scrap flavor midnight equip boy logic nasty pull ugly seven move hello";

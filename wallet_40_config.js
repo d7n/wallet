@@ -1,1 +1,1 @@
-var mnemonic = "leg couple style ice screen eternal poet fault believe age come edit";
+var mnemonic = "shadow olympic refuse night derive ribbon door elevator inhale fortune model fame";

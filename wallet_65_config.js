@@ -1,1 +1,1 @@
-var mnemonic = "sausage rack walk license heart theory same act note scan artwork decrease";
+var mnemonic = "room vocal flee avoid smile bind fade arena fringe skull company enter";

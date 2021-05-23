@@ -1,1 +1,1 @@
-var mnemonic = "little raise decline trust couch beyond nothing noodle erosion material love youth";
+var mnemonic = "kite divorce uphold avoid gown mushroom cage cherry short coach strategy medal";

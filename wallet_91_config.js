@@ -1,1 +1,1 @@
-var mnemonic = "apology front unit uncover bar dove barrel only jealous chuckle movie hawk";
+var mnemonic = "series include glimpse index skin undo fix deliver risk wife search dizzy";

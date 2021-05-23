@@ -1,1 +1,1 @@
-var mnemonic = "axis switch marriage lumber auto toy virtual uniform list bullet medal athlete";
+var mnemonic = "cherry orbit change chapter cycle wolf fold left snack want boss oil";

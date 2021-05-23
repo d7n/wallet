@@ -1,1 +1,1 @@
-var mnemonic = "merge wool dragon harvest circle absurd below search wet strategy uncle ball";
+var mnemonic = "collect blossom lottery exercise talk enhance valley depend panel velvet shrimp forum";

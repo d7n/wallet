@@ -1,1 +1,1 @@
-var mnemonic = "entire flavor toy jazz unlock worth innocent velvet bone attract rely fashion";
+var mnemonic = "bright sweet ramp gate roof seed airport shoulder fossil wet live lumber";

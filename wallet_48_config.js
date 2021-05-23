@@ -1,1 +1,1 @@
-var mnemonic = "enroll unique fog elite radar swallow depth grit advice rapid level shallow";
+var mnemonic = "judge hawk crunch grace abandon outside dance spray flush dawn leaf general";

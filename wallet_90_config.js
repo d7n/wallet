@@ -1,1 +1,1 @@
-var mnemonic = "express amateur athlete often ball regret inform thought summer flush virus initial";
+var mnemonic = "pony genre good noble noise minimum pact echo sail spell basket carbon";

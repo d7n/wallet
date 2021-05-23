@@ -1,1 +1,1 @@
-var mnemonic = "soda hamster child reunion about bunker uphold monster hidden balance disorder client";
+var mnemonic = "pipe burger hood strike punch artist agent spirit magic weapon cage soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "glow reform skirt govern diet bottom prepare private wear general hole permit";
+var mnemonic = "hope thing village october tip sibling test april original return news error";

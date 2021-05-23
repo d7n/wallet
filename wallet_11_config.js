@@ -1,1 +1,1 @@
-var mnemonic = "mesh soldier logic tube festival mansion kidney word merge lens coin into";
+var mnemonic = "infant opera assume toast dumb cook deputy canvas rural frown hawk blush";

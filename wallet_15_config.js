@@ -1,1 +1,1 @@
-var mnemonic = "afford trick clean room treat swarm chuckle bicycle obey toy ancient nurse";
+var mnemonic = "client walk buyer hungry cool whale burger smile raven tree tape border";

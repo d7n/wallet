@@ -1,1 +1,1 @@
-var mnemonic = "syrup laundry feel kite coin oven approve vicious birth curve office arrange";
+var mnemonic = "master tattoo satisfy outer worth sauce upper often agree smooth simple dragon";

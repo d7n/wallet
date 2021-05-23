@@ -1,1 +1,1 @@
-var mnemonic = "caught clap special another best broken card sign today weasel tilt daring";
+var mnemonic = "cloth rent effort spoon liar tray chair physical aisle supply museum power";

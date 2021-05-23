@@ -1,1 +1,1 @@
-var mnemonic = "flag chunk lens nose arrest spare chase cheap please noodle fire prefer";
+var mnemonic = "finish fee impact fox sugar night people protect civil sugar real flush";

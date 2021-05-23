@@ -1,1 +1,1 @@
-var mnemonic = "cattle half almost kind client theme turkey hover topic noble inch soft";
+var mnemonic = "cactus carbon success load decade surface insect rather vault wolf snap awkward";

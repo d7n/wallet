@@ -1,1 +1,1 @@
-var mnemonic = "limit maze snow speak cannon payment topic hurry pony damage paddle scan";
+var mnemonic = "dog auction miracle panel girl public bicycle chest scale turkey acquire rural";

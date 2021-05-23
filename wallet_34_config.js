@@ -1,1 +1,1 @@
-var mnemonic = "orchard tomato sleep label stage mix report present ten decrease layer powder";
+var mnemonic = "flat latin crop bid parrot access margin auto slam fish bean doll";

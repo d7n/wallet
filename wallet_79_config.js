@@ -1,1 +1,1 @@
-var mnemonic = "length word denial cube lesson asset caught opinion spirit physical brown jazz";
+var mnemonic = "random pledge inherit wheat sign inquiry clutch title illegal surround only corn";

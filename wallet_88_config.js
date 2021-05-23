@@ -1,1 +1,1 @@
-var mnemonic = "toss stage destroy high maze visa strike drill acquire artist ivory scheme";
+var mnemonic = "crumble ball mansion december arrest climb fire maze repair very tissue prevent";

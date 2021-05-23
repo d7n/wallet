@@ -1,1 +1,1 @@
-var mnemonic = "elder giant appear gloom appear priority shop cover effort erupt hen recycle";
+var mnemonic = "letter dust elder dial answer disorder health august engine sick regular rose";

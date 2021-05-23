@@ -1,1 +1,1 @@
-var mnemonic = "large cherry crack airport switch drift ball project start express retire select";
+var mnemonic = "cotton flower voyage candy father onion keep pistol effort item country tonight";

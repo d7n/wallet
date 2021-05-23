@@ -1,1 +1,1 @@
-var mnemonic = "today topic share panic shed wet chimney possible magic curtain remain jeans";
+var mnemonic = "family blue rotate what hood amused build fever subject wait steel rigid";

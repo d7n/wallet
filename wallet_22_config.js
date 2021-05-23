@@ -1,1 +1,1 @@
-var mnemonic = "program page innocent couple awesome include rack spoil enroll asthma history board";
+var mnemonic = "student couple phrase credit increase bubble cloth atom oyster puzzle baby bird";

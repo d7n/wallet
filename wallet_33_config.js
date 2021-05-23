@@ -1,1 +1,1 @@
-var mnemonic = "tired strong busy come van scrub salute fix drama glove fresh rib";
+var mnemonic = "sound reunion double large enemy extra useless middle pink praise come fragile";

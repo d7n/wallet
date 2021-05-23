@@ -1,1 +1,1 @@
-var mnemonic = "general grid sugar unable rival divert flush coast unlock license sudden pulp";
+var mnemonic = "powder lake idea inhale hamster rural word track mushroom amateur spirit frame";

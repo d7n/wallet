@@ -1,1 +1,1 @@
-var mnemonic = "acoustic artist hen account flower feed moment ocean turkey joke solve leader";
+var mnemonic = "thank shed kangaroo sample pumpkin tail distance butter dizzy profit design turkey";

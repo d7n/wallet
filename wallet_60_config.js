@@ -1,1 +1,1 @@
-var mnemonic = "august concert room rhythm image common prepare typical element ugly attack token";
+var mnemonic = "sketch trend true bomb steel rain mirror soldier expose street erosion wisdom";

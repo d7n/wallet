@@ -1,1 +1,1 @@
-var mnemonic = "cotton lamp earth during capital change record gas number salmon camp fix";
+var mnemonic = "panel winter please spring craft broccoli glance hospital purchase visual slam gap";

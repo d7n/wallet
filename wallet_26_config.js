@@ -1,1 +1,1 @@
-var mnemonic = "tissue limb family tower tooth almost young toilet like want acid suffer";
+var mnemonic = "carpet basket arena list alley trial network depart ancient unable ability finish";

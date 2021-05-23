@@ -1,1 +1,1 @@
-var mnemonic = "glove wreck shrug early cute vacuum party proof work giraffe genius erode";
+var mnemonic = "borrow replace mistake fresh fish online vacant duck guide patch nuclear coil";

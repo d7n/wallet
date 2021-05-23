@@ -1,1 +1,1 @@
-var mnemonic = "ice cattle garbage over bless warrior bar series reward athlete woman kiwi";
+var mnemonic = "artwork add early hedgehog narrow narrow visa mobile tilt turkey credit permit";

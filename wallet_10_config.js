@@ -1,1 +1,1 @@
-var mnemonic = "cause resource vital forward young decrease fault basket acid flip umbrella beauty";
+var mnemonic = "tent ask supreme vault baby actor camera total other cigar wood dish";

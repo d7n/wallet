@@ -1,1 +1,1 @@
-var mnemonic = "purchase salon together couch vague dynamic orbit street limit salt hen during";
+var mnemonic = "butter used hamster illness gather cash tortoise cricket fabric image either veteran";

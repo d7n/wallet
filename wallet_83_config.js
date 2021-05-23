@@ -1,1 +1,1 @@
-var mnemonic = "human slim mule refuse runway tone wave method same task huge pet";
+var mnemonic = "shift eyebrow play cherry steel foam earth proud aunt rule pigeon asthma";

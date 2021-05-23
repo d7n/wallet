@@ -1,1 +1,1 @@
-var mnemonic = "modify outside banana system bonus inquiry boil concert ancient history blouse skate";
+var mnemonic = "stick doctor soccer barely super relax floor ask glimpse victory scan teach";

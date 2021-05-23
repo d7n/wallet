@@ -1,1 +1,1 @@
-var mnemonic = "emerge paper arrive happy upgrade antique humor claw sure radio wear dilemma";
+var mnemonic = "sweet input beyond title equal child forest century that smooth siren mouse";

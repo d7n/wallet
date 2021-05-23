@@ -1,1 +1,1 @@
-var mnemonic = "weasel spike element visual jar badge broccoli utility borrow pig until seed";
+var mnemonic = "cage exile strategy injury round accuse nuclear cancel shiver room purity gospel";

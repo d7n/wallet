@@ -1,1 +1,1 @@
-var mnemonic = "ugly loan little bamboo aspect car amazing boil typical order pencil common";
+var mnemonic = "say piece rabbit card achieve harbor squeeze valley gossip elephant thrive relief";

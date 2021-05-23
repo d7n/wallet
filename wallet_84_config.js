@@ -1,1 +1,1 @@
-var mnemonic = "coyote brown drama venue speak ginger dose one donor deputy clown park";
+var mnemonic = "visa mixed moment music cluster snack bachelor conduct print toss funny giant";

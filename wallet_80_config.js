@@ -1,1 +1,1 @@
-var mnemonic = "trial account royal pistol side stairs undo can joy window merry inflict";
+var mnemonic = "hawk achieve album soap clap potato gate wrist pause broken comfort evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "arm myself morning bench start slide service subject erase answer circle spoon";
+var mnemonic = "crush people barrel media velvet sustain orange slow will kind side story";

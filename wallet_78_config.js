@@ -1,1 +1,1 @@
-var mnemonic = "chest pond limit radio risk turn toddler pause water bring web supply";
+var mnemonic = "stick ribbon drive thought denial viable usage wrestle pass record bless brain";

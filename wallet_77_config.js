@@ -1,1 +1,1 @@
-var mnemonic = "sadness spatial gospel clarify answer sell program winter final rib carbon tunnel";
+var mnemonic = "then word duty coin cricket mushroom stable buddy air song protect two";

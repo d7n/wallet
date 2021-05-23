@@ -1,1 +1,1 @@
-var mnemonic = "come slender genuine trap cake sibling whisper erase square pony welcome mention";
+var mnemonic = "again foam bean run hope exclude arena jungle chronic menu fame rude";

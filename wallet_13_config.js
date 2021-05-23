@@ -1,1 +1,1 @@
-var mnemonic = "sword high half pigeon thrive sorry unique cupboard favorite economy essence cart";
+var mnemonic = "wood happy super high habit business fine hire bleak harsh reduce reunion";

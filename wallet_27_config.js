@@ -1,1 +1,1 @@
-var mnemonic = "jewel divorce lunar deal guilt gasp leaf nerve update record home assume";
+var mnemonic = "paddle hawk scan tragic kick timber mix welcome ten range runway tower";

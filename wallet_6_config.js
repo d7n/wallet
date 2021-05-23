@@ -1,1 +1,1 @@
-var mnemonic = "swamp stay valley butter art nut circle permit hour nest undo start";
+var mnemonic = "reward lazy dirt often group retreat siren toy tiny unfair laugh slender";

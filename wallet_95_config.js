@@ -1,1 +1,1 @@
-var mnemonic = "rare electric spoil limb erode april comic help prevent breeze zebra sheriff";
+var mnemonic = "nurse mushroom square object apology task borrow sight mean puzzle hand embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "tower public aunt vague faculty egg popular know solution busy silent lunch";
+var mnemonic = "sauce over judge asset trigger portion plate finish share ability wagon volume";

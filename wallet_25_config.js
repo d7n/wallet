@@ -1,1 +1,1 @@
-var mnemonic = "person frozen fire dizzy draft tennis delay clinic jealous sample great dry";
+var mnemonic = "monster boost fit junk response ugly grief sustain apart what light critic";

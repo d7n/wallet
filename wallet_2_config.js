@@ -1,1 +1,1 @@
-var mnemonic = "waste metal city armed crazy satoshi cruise between cruel close hidden possible";
+var mnemonic = "slab symbol adult decorate crane embark wagon taste deposit excuse cloud brass";

@@ -1,1 +1,1 @@
-var mnemonic = "dust limit nurse question spray luggage ghost patrol bundle find trumpet powder";
+var mnemonic = "sense fetch winner media enforce hint curve online bundle flight expire party";

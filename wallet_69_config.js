@@ -1,1 +1,1 @@
-var mnemonic = "cradle juice property convince world unit sunny dose antenna farm oblige weekend";
+var mnemonic = "mother turtle worry organ invest split jeans drip apology water drum extra";

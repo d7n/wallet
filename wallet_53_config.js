@@ -1,1 +1,1 @@
-var mnemonic = "enact crash grant reject course pilot worry universe easily upset angry youth";
+var mnemonic = "energy post vapor sail jelly canoe theme fury stairs infant merge rookie";

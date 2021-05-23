@@ -1,1 +1,1 @@
-var mnemonic = "notable junk custom clever month hotel solid jewel subway castle six speak";
+var mnemonic = "tattoo air radio open teach phone milk divert orient hand east silent";

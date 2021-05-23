@@ -1,1 +1,1 @@
-var mnemonic = "shallow manual vehicle wasp whisper system pause release inform book base secret";
+var mnemonic = "heart dress swap tonight avocado intact citizen real observe champion bag deliver";

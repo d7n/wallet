@@ -1,1 +1,1 @@
-var mnemonic = "purchase alone love easy blind order canyon hip negative medal zebra dune";
+var mnemonic = "silent sock dinosaur play always receive own lawn trick juice prison pass";

@@ -1,1 +1,1 @@
-var mnemonic = "tree course prosper else butter urge bachelor taste biology zoo urge copy";
+var mnemonic = "nominee whale sketch click trip only talent slab water fat athlete orient";

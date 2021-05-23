@@ -1,1 +1,1 @@
-var mnemonic = "winter before topple fury short filter trend pluck winner defense diet ill";
+var mnemonic = "firm sniff diary frog apology network enforce float auction wise husband unique";

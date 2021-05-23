@@ -1,1 +1,1 @@
-var mnemonic = "lunch layer picnic biology coin gospel catalog kitten royal toddler water hollow";
+var mnemonic = "luggage odor globe language castle fury unhappy fox way birth burst sadness";

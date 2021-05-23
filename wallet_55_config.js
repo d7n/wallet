@@ -1,1 +1,1 @@
-var mnemonic = "ecology blade flash october rich random journey helmet service vast assume thumb";
+var mnemonic = "monkey panther royal exile pill play shy bronze satisfy improve end steak";
