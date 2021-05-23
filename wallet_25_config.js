@@ -1,1 +1,1 @@
-var mnemonic = "else orbit effort cover degree develop clarify below expand ordinary mask leader";
+var mnemonic = "trip bundle truly chaos zone patient bronze cook oyster replace sock minute";

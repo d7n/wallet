@@ -1,1 +1,1 @@
-var mnemonic = "what involve tragic cabin another either opinion want carry decide story very";
+var mnemonic = "hawk cricket blur quarter orbit abstract electric vault light tortoise garage ticket";

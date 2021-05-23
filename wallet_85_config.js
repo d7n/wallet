@@ -1,1 +1,1 @@
-var mnemonic = "expect resource idle defense cup roast giggle waste adjust neck eternal casino";
+var mnemonic = "always decide grace food huge sphere drive road meadow siren jungle behind";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich party bar fun peace crumble protect sister height floor shrug kitchen";
+var mnemonic = "travel solve unable pink dinner angle enlist juice seven board acid wild";

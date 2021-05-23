@@ -1,1 +1,1 @@
-var mnemonic = "chest that afford defy member blade purchase verify category cook pepper sound";
+var mnemonic = "clock have very giraffe video either security impulse jelly pull spider exile";

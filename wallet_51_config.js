@@ -1,1 +1,1 @@
-var mnemonic = "twice enforce slush empower march eye cinnamon cattle wear auto unusual bread";
+var mnemonic = "crunch number idea monitor pact vintage special rocket certain shift truth crater";

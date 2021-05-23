@@ -1,1 +1,1 @@
-var mnemonic = "tone fever satoshi rent patrol slight ten ocean scene hunt margin odor";
+var mnemonic = "helmet act gold demise rail ticket random jungle rate prefer trouble gap";

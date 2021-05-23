@@ -1,1 +1,1 @@
-var mnemonic = "art iron direct canyon boss retire special ocean spice attack stick genre";
+var mnemonic = "shock grid limit that manage spike control cabin fortune unit project absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "primary waste duck that foam organ margin enable build mention reason front";
+var mnemonic = "target goddess weapon wage motor cluster cinnamon orange home leave slide baby";

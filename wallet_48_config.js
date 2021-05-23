@@ -1,1 +1,1 @@
-var mnemonic = "young sheriff audit little jealous cute coral layer possible ordinary spoon alpha";
+var mnemonic = "mention world plastic flight chapter cry minute decorate critic voice sausage yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "habit inner candy apart acquire fiber strike flush brief eager speak auction";
+var mnemonic = "open mechanic pen year half shadow guide twist chase message insect mixed";

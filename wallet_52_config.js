@@ -1,1 +1,1 @@
-var mnemonic = "surface skill stool famous picture road congress afford enemy scatter seat ripple";
+var mnemonic = "license hire bracket parrot gun dry width camera whip giant metal pact";

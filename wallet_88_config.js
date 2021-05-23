@@ -1,1 +1,1 @@
-var mnemonic = "pitch thank bachelor rescue great victory humble swap before afford sleep ignore";
+var mnemonic = "program chat response stem black twist fuel shrug acid pluck improve stool";

@@ -1,1 +1,1 @@
-var mnemonic = "female sell soccer giant video frozen violin spare kick like upper version";
+var mnemonic = "decrease drip affair tiny awkward couch barrel priority token hip spoil barrel";

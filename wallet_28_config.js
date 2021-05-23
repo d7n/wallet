@@ -1,1 +1,1 @@
-var mnemonic = "remain access unfold jar ethics scare game extend put left limit drastic";
+var mnemonic = "leave lumber december hire property crazy transfer burden public loop vocal spare";

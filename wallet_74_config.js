@@ -1,1 +1,1 @@
-var mnemonic = "luggage rule volume blade erosion wing search critic cover casual measure easy";
+var mnemonic = "absent slice purse fetch please manual ghost airport oval athlete eager inform";

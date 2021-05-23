@@ -1,1 +1,1 @@
-var mnemonic = "legend wet guess wide kit object lab banana despair mountain phrase lion";
+var mnemonic = "spider purity steak spot crumble analyst winner access cluster athlete soup october";

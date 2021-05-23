@@ -1,1 +1,1 @@
-var mnemonic = "chunk piece label absent trumpet bulk spatial inject divorce extra inflict winter";
+var mnemonic = "they scene tool shiver maple jacket skate happy wood deer waste shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth shine damp property evil stone quantum will seven pave client robust";
+var mnemonic = "spawn romance already million victory rich write maximum sentence just rotate obtain";

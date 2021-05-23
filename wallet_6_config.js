@@ -1,1 +1,1 @@
-var mnemonic = "nest today square push doll drop stamp tomato priority output peasant fade";
+var mnemonic = "floor dust assault tower balance ketchup unlock cabin rookie carbon cushion polar";

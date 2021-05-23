@@ -1,1 +1,1 @@
-var mnemonic = "cool relax brown point lamp already sugar seed secret fashion south vanish";
+var mnemonic = "cross catalog double glance deer extra polar group child chase garlic citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "grow section laugh pig pear cage scheme argue curious best blanket myself";
+var mnemonic = "pride spirit purse awkward another chat moment absurd apart board knife explain";

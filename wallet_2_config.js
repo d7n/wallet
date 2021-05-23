@@ -1,1 +1,1 @@
-var mnemonic = "wine theory dinner smooth cricket rural action small jewel amazing bargain eight";
+var mnemonic = "supreme protect base country room occur retire pulp trip differ frozen soda";

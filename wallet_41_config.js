@@ -1,1 +1,1 @@
-var mnemonic = "lend quarter fortune inject quantum copper point symptom dad step music trouble";
+var mnemonic = "spot tilt sun chalk spin dash loop crane prevent ecology exist thing";

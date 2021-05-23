@@ -1,1 +1,1 @@
-var mnemonic = "hill exclude predict resource legend tonight sentence gap grab wire thought kind";
+var mnemonic = "group attend mistake fame betray master select angry decade action pilot love";

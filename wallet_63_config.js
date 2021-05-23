@@ -1,1 +1,1 @@
-var mnemonic = "amazing ordinary fabric genius sausage grocery climb point finish special cargo casino";
+var mnemonic = "segment own find satoshi alcohol dance ordinary spare teach civil method click";

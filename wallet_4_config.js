@@ -1,1 +1,1 @@
-var mnemonic = "trouble soldier column source loud confirm picture crush later trade renew favorite";
+var mnemonic = "milk skirt track desk icon embody squirrel sock planet someone produce bag";

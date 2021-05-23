@@ -1,1 +1,1 @@
-var mnemonic = "thing spoon audit protect few laundry super circle vicious path attack once";
+var mnemonic = "arrive jealous vocal visit length nature blur organ bracket produce segment play";

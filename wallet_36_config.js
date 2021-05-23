@@ -1,1 +1,1 @@
-var mnemonic = "issue amused tiger affair hammer crash fetch slush asthma guitar shove name";
+var mnemonic = "tell keep autumn segment future sausage indicate junior keen body expect wish";

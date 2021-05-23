@@ -1,1 +1,1 @@
-var mnemonic = "world monkey mushroom champion story welcome convince round bounce achieve illness must";
+var mnemonic = "kit famous tent network angry kidney initial rebel jealous remove practice wish";

@@ -1,1 +1,1 @@
-var mnemonic = "peace cactus lounge recipe rabbit gap input alley refuse leopard pool outer";
+var mnemonic = "visa rubber blur clinic quote jump van pluck silk bus cry fabric";

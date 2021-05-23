@@ -1,1 +1,1 @@
-var mnemonic = "globe below few reform region grunt huge field armed write club draw";
+var mnemonic = "globe morning prepare riot symptom stereo judge about pause used element cinnamon";

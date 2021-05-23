@@ -1,1 +1,1 @@
-var mnemonic = "frown immune flee napkin still armed more access local lock oven skull";
+var mnemonic = "sunny gift swamp away margin portion crane inhale bronze door general novel";

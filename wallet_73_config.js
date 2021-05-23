@@ -1,1 +1,1 @@
-var mnemonic = "trip inhale material catalog steak future dice call rather life income step";
+var mnemonic = "thought loyal gun inside level float clip grace acoustic sell two dinner";

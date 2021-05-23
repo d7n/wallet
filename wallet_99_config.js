@@ -1,1 +1,1 @@
-var mnemonic = "income squeeze fit canyon gift novel luxury photo trade fan pave thank";
+var mnemonic = "mail senior practice belt tired mask notice stone hawk tribe flat settle";

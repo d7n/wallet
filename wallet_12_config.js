@@ -1,1 +1,1 @@
-var mnemonic = "upper tilt horse notice enrich minor theory foam forget roof umbrella vanish";
+var mnemonic = "remember occur staff survey elite model spoil post scissors shoot second pet";

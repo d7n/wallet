@@ -1,1 +1,1 @@
-var mnemonic = "ladder wait zero plunge tray milk chuckle myself comic speed flush vacuum";
+var mnemonic = "beef upset deputy peasant label retreat ticket action stomach assault chunk purpose";

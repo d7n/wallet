@@ -1,1 +1,1 @@
-var mnemonic = "same wing victory kind injury donkey sphere grit express harvest hockey uniform";
+var mnemonic = "staff volcano argue spirit renew blanket good retire zoo nation crash motor";

@@ -1,1 +1,1 @@
-var mnemonic = "phone name anxiety transfer segment become hub prevent police mimic spot glare";
+var mnemonic = "image achieve initial glue fabric payment pupil connect useful bottom giggle sail";

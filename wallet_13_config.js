@@ -1,1 +1,1 @@
-var mnemonic = "profit rotate possible strong palm marble sail flee search swift pupil base";
+var mnemonic = "fire thumb fruit clarify jar scan casino pet clip fossil bread art";

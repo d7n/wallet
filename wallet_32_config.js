@@ -1,1 +1,1 @@
-var mnemonic = "become mask elephant report ethics duty census skull six oil treat code";
+var mnemonic = "inform useless proud hard spy fox panda globe talk position valid wet";

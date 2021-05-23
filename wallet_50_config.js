@@ -1,1 +1,1 @@
-var mnemonic = "execute flag perfect prevent settle flush never pelican avocado soda another danger";
+var mnemonic = "meadow gym eagle sing valve nominee hamster lottery always silk arrow insect";

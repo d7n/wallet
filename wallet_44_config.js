@@ -1,1 +1,1 @@
-var mnemonic = "seek just rug stuff endless depart ripple roof eagle rhythm conduct athlete";
+var mnemonic = "month long maximum make miss divide robust rebel occur doctor elder pledge";

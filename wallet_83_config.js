@@ -1,1 +1,1 @@
-var mnemonic = "toy remain sand flash holiday manual pluck fine topic happy destroy siren";
+var mnemonic = "core item grit diagram sustain rough topple shock pledge evidence genius mansion";

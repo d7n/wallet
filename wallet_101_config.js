@@ -1,1 +1,1 @@
-var mnemonic = "depend broccoli since crumble eye artefact avoid cause warm bronze neutral target";
+var mnemonic = "shuffle physical night luggage cigar floor cradle middle credit tuition into eight";

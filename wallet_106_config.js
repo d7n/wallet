@@ -1,1 +1,1 @@
-var mnemonic = "mean alley food door cover rib fuel embark harsh crouch solid rabbit";
+var mnemonic = "barely voice naive future later they give immune biology diet cream expand";

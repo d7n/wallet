@@ -1,1 +1,1 @@
-var mnemonic = "own exercise input turn transfer key park shove flower door enhance carpet";
+var mnemonic = "certain stool myth charge they history topic luxury apart detail crowd surge";

@@ -1,1 +1,1 @@
-var mnemonic = "sad loop diet cube inhale useless account humble fish marine armed marriage";
+var mnemonic = "major inch cup kind mammal cancel patch body else canvas yellow mosquito";

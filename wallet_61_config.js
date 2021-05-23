@@ -1,1 +1,1 @@
-var mnemonic = "cheap anger pass march call orchard actress occur meadow depth wash genius";
+var mnemonic = "vibrant scorpion heart phrase access elephant phrase cousin forest fresh nose clog";

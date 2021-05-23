@@ -1,1 +1,1 @@
-var mnemonic = "jeans opera liberty winner able lawsuit spirit visa report message rich follow";
+var mnemonic = "act cluster shell tree december video slice target easy manual predict twelve";

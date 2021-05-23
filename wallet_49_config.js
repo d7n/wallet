@@ -1,1 +1,1 @@
-var mnemonic = "sight minimum pigeon extra photo cable start invest stock grocery hub dwarf";
+var mnemonic = "fox siege table knife strong increase marriage shoulder glare unhappy venture comfort";

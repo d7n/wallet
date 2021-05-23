@@ -1,1 +1,1 @@
-var mnemonic = "giraffe thing barely fun promote artefact small lady weather sister aware genuine";
+var mnemonic = "feature armed unable oil oven later ocean come flush curious evidence year";

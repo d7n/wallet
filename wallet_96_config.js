@@ -1,1 +1,1 @@
-var mnemonic = "surge tent exact hurry exhaust expose car alley salmon forward veteran sketch";
+var mnemonic = "upgrade mansion elevator pumpkin gas govern point rigid junior sword dad frown";

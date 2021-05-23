@@ -1,1 +1,1 @@
-var mnemonic = "left office venture vibrant off snake inside neglect unhappy increase pass mountain";
+var mnemonic = "smart minimum base stay latin edit hood toy soccer ahead identify battle";

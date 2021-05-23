@@ -1,1 +1,1 @@
-var mnemonic = "month art rescue draw few secret goat obtain source abandon laugh fog";
+var mnemonic = "infant goddess travel marriage dice clerk youth labor work find deposit jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "cute phone want away peace art slogan alpha check ivory rain certain";
+var mnemonic = "under spice unknown help runway dumb vicious poet smoke minute glare blue";

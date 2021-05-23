@@ -1,1 +1,1 @@
-var mnemonic = "nest whip walk nest build category shy auto stamp initial pave tortoise";
+var mnemonic = "innocent cannon book profit table health slush climb deal phone awesome army";

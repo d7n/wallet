@@ -1,1 +1,1 @@
-var mnemonic = "spring problem girl journey voice also essence refuse cook giraffe diagram cover";
+var mnemonic = "wall caution age hole fish multiply atom mammal slice prevent opinion ramp";

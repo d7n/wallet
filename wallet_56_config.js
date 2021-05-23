@@ -1,1 +1,1 @@
-var mnemonic = "hazard joke blood march ship erupt recall pony update pair dinner round";
+var mnemonic = "permit country fetch message above victory later tell mother forget zoo emotion";

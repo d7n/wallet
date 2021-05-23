@@ -1,1 +1,1 @@
-var mnemonic = "visa eight purchase crowd weekend stomach page fortune install flat remain crew";
+var mnemonic = "feed film hazard yard song settle warfare empower panda click walnut ghost";

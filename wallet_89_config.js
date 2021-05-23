@@ -1,1 +1,1 @@
-var mnemonic = "post sphere glad resource effort rebel miracle recipe swarm very spoil liberty";
+var mnemonic = "year supreme oxygen else staff eye adapt unveil field match model banner";

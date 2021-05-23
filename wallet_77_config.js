@@ -1,1 +1,1 @@
-var mnemonic = "metal flag road one virus imitate lobster dirt leave crystal apple carpet";
+var mnemonic = "deer remove laugh hawk author similar cream lazy brisk invest inherit giggle";

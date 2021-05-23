@@ -1,1 +1,1 @@
-var mnemonic = "exit crumble rough more miss frost health absurd valve antenna wool solution";
+var mnemonic = "woman decide diet soap few frequent tiger oak budget nice special bargain";

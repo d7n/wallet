@@ -1,1 +1,1 @@
-var mnemonic = "cash disorder history simple ability web appear dirt orbit battle pass shine";
+var mnemonic = "lunar shine intact then stone curious maximum aerobic love member blush devote";

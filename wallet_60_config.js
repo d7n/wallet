@@ -1,1 +1,1 @@
-var mnemonic = "quarter minimum foam mom cup vanish miracle start suggest slice ostrich arrive";
+var mnemonic = "volcano acquire digital one group keen prize one argue best aim nut";

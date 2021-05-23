@@ -1,1 +1,1 @@
-var mnemonic = "fish return easily section help since cry session type rally used include";
+var mnemonic = "argue alter pond track come sun average image exhaust decade burst diagram";

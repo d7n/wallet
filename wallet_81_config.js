@@ -1,1 +1,1 @@
-var mnemonic = "actress uncle pet grunt balance farm wear mango century crew abstract expire";
+var mnemonic = "hollow lucky relax dog oil tragic height curve spike canoe machine element";

@@ -1,1 +1,1 @@
-var mnemonic = "improve mad gap link reject distance accident buffalo bracket universe equip spike";
+var mnemonic = "quantum cluster shiver soul cause door stable attract empower stairs head bounce";

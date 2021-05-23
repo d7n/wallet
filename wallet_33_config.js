@@ -1,1 +1,1 @@
-var mnemonic = "margin obscure stone gift way note become laptop quiz journey section earth";
+var mnemonic = "badge view polar now oppose voyage affair radar sad foil smoke wish";

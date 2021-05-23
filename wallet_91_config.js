@@ -1,1 +1,1 @@
-var mnemonic = "usual comic depend frown senior donor olympic maximum scene surround neither baby";
+var mnemonic = "raise wagon other favorite picnic bargain proof speed journey rabbit canvas easy";

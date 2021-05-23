@@ -1,1 +1,1 @@
-var mnemonic = "payment arch rotate ask spray pulp lab resist stable east know comfort";
+var mnemonic = "cram lecture initial popular forest life amateur camera ceiling meat forget area";

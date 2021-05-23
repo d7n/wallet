@@ -1,1 +1,1 @@
-var mnemonic = "wrong come parrot click visit sad audit tide success inherit brief field";
+var mnemonic = "blame enable impact differ family spike armed write design visual define verb";

@@ -1,1 +1,1 @@
-var mnemonic = "distance father belt ceiling require harbor immense brush panic plate surprise sort";
+var mnemonic = "inflict poet exhibit chat awake math slow library panel napkin claw inner";

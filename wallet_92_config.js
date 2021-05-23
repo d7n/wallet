@@ -1,1 +1,1 @@
-var mnemonic = "letter cruise desert blast library bottom master unusual buddy increase flame burst";
+var mnemonic = "figure hundred catalog seek reject laundry rival piece jungle play gown road";

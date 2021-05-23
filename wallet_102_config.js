@@ -1,1 +1,1 @@
-var mnemonic = "puzzle insane imitate exercise story eye bulk prefer swallow reveal tree law";
+var mnemonic = "melt boring steel circle pizza game emerge fat suggest already guitar grace";

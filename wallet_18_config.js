@@ -1,1 +1,1 @@
-var mnemonic = "bounce antique develop catalog buyer word unlock web skull cabin leopard then";
+var mnemonic = "palace resemble gorilla flame palace motion inject thunder easy fantasy eternal excess";

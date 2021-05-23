@@ -1,1 +1,1 @@
-var mnemonic = "narrow remain civil example flock resource match require hamster minor guess night";
+var mnemonic = "enemy small tumble now burger stadium win profit fee scissors swamp sheriff";

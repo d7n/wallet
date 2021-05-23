@@ -1,1 +1,1 @@
-var mnemonic = "attend educate celery square swing gate match gap boss proof risk wood";
+var mnemonic = "ostrich world claim soap rival select color bind rigid load wine join";

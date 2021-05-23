@@ -1,1 +1,1 @@
-var mnemonic = "mystery umbrella easy script diagram garage topple settle obtain own future people";
+var mnemonic = "ostrich theme razor lab omit version reduce sand robot borrow clock move";

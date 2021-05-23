@@ -1,1 +1,1 @@
-var mnemonic = "tilt fancy jewel estate favorite clip dial biology borrow blossom sister rice";
+var mnemonic = "media split very link oyster fossil have six boring input indoor tomato";

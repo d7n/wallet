@@ -1,1 +1,1 @@
-var mnemonic = "receive design traffic box system uncle thought blur yard dilemma common amused";
+var mnemonic = "inform tent today deny brother tree original surprise blade infant team frequent";

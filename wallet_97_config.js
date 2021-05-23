@@ -1,1 +1,1 @@
-var mnemonic = "joy summer grid despair choice cat thing supreme glimpse nominee suffer comic";
+var mnemonic = "scrub outdoor parent coast suggest now position border enhance style high taxi";

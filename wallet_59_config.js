@@ -1,1 +1,1 @@
-var mnemonic = "hungry welcome shoe spirit armed head onion derive ill claw snow wear";
+var mnemonic = "vehicle dry waste public segment december snap razor immense scatter farm dignity";

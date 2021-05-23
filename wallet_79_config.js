@@ -1,1 +1,1 @@
-var mnemonic = "sketch feed wheel skill weekend market maple main ivory text special hold";
+var mnemonic = "parrot winter dog solution view proud mesh noble arrive wedding course between";

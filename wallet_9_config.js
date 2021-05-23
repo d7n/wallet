@@ -1,1 +1,1 @@
-var mnemonic = "finger speed option keen trim tiny derive labor because quick artefact click";
+var mnemonic = "boat joy world firm diary over iron dog desert service since sleep";

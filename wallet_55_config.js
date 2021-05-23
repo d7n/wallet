@@ -1,1 +1,1 @@
-var mnemonic = "resist feature camera imitate shoe alcohol tattoo grab choice pupil blossom keep";
+var mnemonic = "pact door fringe foot help badge find foster ahead human stay traffic";

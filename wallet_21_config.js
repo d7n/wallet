@@ -1,1 +1,1 @@
-var mnemonic = "cup banana poem crater web giant bleak element scatter dwarf soft sphere";
+var mnemonic = "patient turn engine gorilla lamp raw pony ecology hard wine canal office";

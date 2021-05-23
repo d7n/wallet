@@ -1,1 +1,1 @@
-var mnemonic = "item clarify brass cook electric hint curious upset love grass survey huge";
+var mnemonic = "bird napkin lunch tank young swap cabin found hidden gas answer impact";
