@@ -1,1 +1,1 @@
-var mnemonic = "shift gloom execute arrange divorce south snow wise same naive brass voyage";
+var mnemonic = "vast audit vault top ship action dove leave armor office health portion";

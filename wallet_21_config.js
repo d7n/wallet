@@ -1,1 +1,1 @@
-var mnemonic = "fly kid pizza doctor toast faith tiny sketch scatter speak consider news";
+var mnemonic = "spike birth foam debate dose lazy paddle deal supply canvas wolf candy";

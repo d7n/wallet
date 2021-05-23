@@ -1,1 +1,1 @@
-var mnemonic = "weasel switch beef aware copper sail travel vast great assist scrub truth";
+var mnemonic = "like betray rose crazy multiply allow wet drama sunny purchase tone album";

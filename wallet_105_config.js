@@ -1,1 +1,1 @@
-var mnemonic = "tone hip boil private wise dawn supply fragile cargo retreat start close";
+var mnemonic = "eye burden fossil jaguar obvious pattern main umbrella near pen spider price";

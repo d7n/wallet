@@ -1,1 +1,1 @@
-var mnemonic = "leopard claw final dawn hint drift ask melt peanut resource lift slush";
+var mnemonic = "fashion over erupt pudding aware gas mechanic accuse exit song retire toilet";

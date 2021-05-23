@@ -1,1 +1,1 @@
-var mnemonic = "question equal wear spatial axis ritual cliff use edit cheese cruise fork";
+var mnemonic = "donate popular scene engine ostrich lens mad imitate enough material exist hello";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk burden level chapter upset discover useful squirrel steel media next random";
+var mnemonic = "hundred check nurse relief transfer inquiry usage later master cruise infant section";

@@ -1,1 +1,1 @@
-var mnemonic = "initial spy lumber balcony online fringe test tide chalk equal vibrant grain";
+var mnemonic = "era party casual vapor gorilla interest huge absent wall sad fiber noise";

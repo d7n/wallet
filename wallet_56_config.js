@@ -1,1 +1,1 @@
-var mnemonic = "stay put torch donkey bullet milk universe gather mimic correct catch ahead";
+var mnemonic = "estate excite gospel spirit west dumb corn endorse require net business forum";

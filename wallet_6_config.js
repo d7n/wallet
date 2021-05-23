@@ -1,1 +1,1 @@
-var mnemonic = "lobster film rebuild punch acid head calm logic grit exhaust gallery river";
+var mnemonic = "survey fun diesel real relax nephew broken ceiling simple gadget bid behave";

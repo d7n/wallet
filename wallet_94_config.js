@@ -1,1 +1,1 @@
-var mnemonic = "machine excite oil unhappy outdoor toe pair combine jump olive glove quote";
+var mnemonic = "physical room swamp piano panther lab used peanut pig engage brand twin";

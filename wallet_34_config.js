@@ -1,1 +1,1 @@
-var mnemonic = "camera mouse small vibrant video melody pitch banner abstract label since dutch";
+var mnemonic = "below nuclear again canyon praise wheel opinion surface carpet sausage segment fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "truth young anxiety outdoor air steak fat loop misery split silver web";
+var mnemonic = "repair close museum ecology across poem woman return cloth style purchase blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "sight rib fortune release avoid size flush burst beach erupt install clay";
+var mnemonic = "comic engage answer neither panel spawn harsh split wear tobacco digital brain";

@@ -1,1 +1,1 @@
-var mnemonic = "insect shoe share swallow hybrid garden custom pledge alien area follow already";
+var mnemonic = "useful shrug fancy planet distance route ivory erupt regret fresh subject axis";

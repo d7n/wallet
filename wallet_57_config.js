@@ -1,1 +1,1 @@
-var mnemonic = "dress cream bracket gold tragic game unfair twice detail cinnamon real error";
+var mnemonic = "abandon rifle differ social time vast random feed metal hurt sand item";

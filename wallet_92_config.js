@@ -1,1 +1,1 @@
-var mnemonic = "sail potato chair neutral possible elbow guard pride actor energy save memory";
+var mnemonic = "film brief disorder three waste deposit smoke violin sure income close danger";

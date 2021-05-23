@@ -1,1 +1,1 @@
-var mnemonic = "phone initial calm tube code whip proud embody abuse palace mix post";
+var mnemonic = "crime number brisk buddy ask calm flight common firm drastic camera mom";

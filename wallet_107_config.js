@@ -1,1 +1,1 @@
-var mnemonic = "same alarm stumble scorpion garage outdoor offer pelican easy make permit million";
+var mnemonic = "solution write scheme anxiety remember gasp garment render health lawsuit name plastic";

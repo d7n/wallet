@@ -1,1 +1,1 @@
-var mnemonic = "mango minimum degree brand ship next limb detail shop abuse news welcome";
+var mnemonic = "ball crumble friend ostrich snack alone cup capital chair click another unveil";

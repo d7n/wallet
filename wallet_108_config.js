@@ -1,1 +1,1 @@
-var mnemonic = "cereal bind actor dad ridge total fitness broken session degree giraffe device";
+var mnemonic = "license warrior bind gym echo gentle job enact circle trophy mad list";

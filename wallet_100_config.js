@@ -1,1 +1,1 @@
-var mnemonic = "social borrow garment mention acoustic myself just accuse butter shock pupil absurd";
+var mnemonic = "guess luggage vocal buyer civil joy pudding kiwi bench film speed leg";

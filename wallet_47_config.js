@@ -1,1 +1,1 @@
-var mnemonic = "myself spray inject clutch sand grit pumpkin cement knock radar chalk afraid";
+var mnemonic = "feel tell multiply desert bamboo silver donkey cradle increase horror category hint";

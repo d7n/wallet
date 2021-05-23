@@ -1,1 +1,1 @@
-var mnemonic = "midnight excuse flat cabin tell foam milk aspect best filter cargo uncover";
+var mnemonic = "budget fit nominee resist invest wide disease rare jealous setup liar dove";

@@ -1,1 +1,1 @@
-var mnemonic = "replace lab prize hollow today ability legend nature describe matrix man repair";
+var mnemonic = "chimney become close become seat art apology sock devote wrestle wisdom lyrics";

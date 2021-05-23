@@ -1,1 +1,1 @@
-var mnemonic = "cover name snake sword simple fan jelly riot palm like day fatigue";
+var mnemonic = "heavy wave hand guess harbor shuffle wrist faint attack zoo remind sleep";

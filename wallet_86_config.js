@@ -1,1 +1,1 @@
-var mnemonic = "unaware cabbage motion slide trouble mutual scatter impact rib globe predict kingdom";
+var mnemonic = "child void country wide step parent treat require rice town feel razor";

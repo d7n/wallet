@@ -1,1 +1,1 @@
-var mnemonic = "margin pigeon author army illness demise wall pepper afford exchange chief access";
+var mnemonic = "humor tomorrow provide steel tackle two cereal wash boss thrive age quit";

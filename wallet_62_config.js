@@ -1,1 +1,1 @@
-var mnemonic = "output noble sudden expire broom when clump catalog best ride plug fold";
+var mnemonic = "bench response blast fantasy inherit lemon bottom limit vendor print witness oil";

@@ -1,1 +1,1 @@
-var mnemonic = "badge resist depth oval coyote escape boat moon arctic meadow ski can";
+var mnemonic = "lion impulse century program around rail gloom bird stereo acoustic town unique";

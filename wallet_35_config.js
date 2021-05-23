@@ -1,1 +1,1 @@
-var mnemonic = "whisper now poem cherry winter raccoon two fortune develop casual mercy world";
+var mnemonic = "run thing drive dinosaur word patient top tell wool trend crunch kick";

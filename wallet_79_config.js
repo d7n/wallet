@@ -1,1 +1,1 @@
-var mnemonic = "sudden task slender office green twin dog ship devote glove couple frown";
+var mnemonic = "much bike velvet medal vacant suit luggage illegal brisk short save before";

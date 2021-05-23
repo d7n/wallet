@@ -1,1 +1,1 @@
-var mnemonic = "detail turtle afraid clerk beach father host nose marble hotel core jar";
+var mnemonic = "shop faculty squirrel safe provide swim unfair level river dust intact seek";

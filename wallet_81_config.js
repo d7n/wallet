@@ -1,1 +1,1 @@
-var mnemonic = "title enroll stereo guess seek fetch salute decide option winner fortune boy";
+var mnemonic = "stumble noodle impose mercy will fix chest senior setup embody symptom render";

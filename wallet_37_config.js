@@ -1,1 +1,1 @@
-var mnemonic = "oven panel machine cry exact limit afford flush stick furnace response click";
+var mnemonic = "palace inmate outer style curious ensure car wide ranch tumble heavy artefact";

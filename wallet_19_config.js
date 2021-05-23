@@ -1,1 +1,1 @@
-var mnemonic = "spike page pole dream turtle must ignore awake item spare strike aware";
+var mnemonic = "pulp educate section can crash bike shoe roast future occur whip nose";

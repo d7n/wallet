@@ -1,1 +1,1 @@
-var mnemonic = "rhythm embrace horn scrub film network below increase kick panther game glide";
+var mnemonic = "upgrade unusual chronic before program fruit save renew age produce captain frown";

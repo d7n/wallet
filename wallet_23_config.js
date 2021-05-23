@@ -1,1 +1,1 @@
-var mnemonic = "garden session laugh aware aerobic spoil action air lobster task message agree";
+var mnemonic = "saddle orchard bunker round bird crawl list say legend snack relax visit";

@@ -1,1 +1,1 @@
-var mnemonic = "door transfer perfect upper face beauty lottery firm garment atom noble hidden";
+var mnemonic = "talent pudding cereal guard travel midnight piece inflict round canvas print nut";

@@ -1,1 +1,1 @@
-var mnemonic = "essence rate spoon layer organ feature depart coast bird pencil math seven";
+var mnemonic = "mother leave try tape wool unhappy leave laptop wheel survey arrange great";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan theme orbit nose laundry above nephew kiwi flower attract pause cupboard";
+var mnemonic = "army theme muffin dutch jelly age mansion quit wedding utility hover high";

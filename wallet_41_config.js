@@ -1,1 +1,1 @@
-var mnemonic = "wreck essay bamboo arrest visual extend hand erode fox strategy excite frog";
+var mnemonic = "relax grass treat carpet link hip float leg quantum glare heart swear";

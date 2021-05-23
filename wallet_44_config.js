@@ -1,1 +1,1 @@
-var mnemonic = "record nature approve sting bitter make chronic cactus grain library clump exhibit";
+var mnemonic = "edit interest metal sting squeeze cave bleak kit april ensure decrease useful";

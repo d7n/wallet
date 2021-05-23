@@ -1,1 +1,1 @@
-var mnemonic = "candy resist funny win surprise tent cabbage ceiling gossip certain holiday bulk";
+var mnemonic = "punch orange gorilla another axis foster toss crisp flip fatigue pilot mixture";

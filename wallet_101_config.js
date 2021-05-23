@@ -1,1 +1,1 @@
-var mnemonic = "together hover one hospital remain pattern vibrant mad also cinnamon recycle crack";
+var mnemonic = "question sun nasty process fatigue decline dawn night winner basket bird example";

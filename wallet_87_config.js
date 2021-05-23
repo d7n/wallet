@@ -1,1 +1,1 @@
-var mnemonic = "bargain ghost arrange talent half mix jeans venue daughter mass pepper amateur";
+var mnemonic = "truth tower scrap waste before defy ready just wear upper outer expand";

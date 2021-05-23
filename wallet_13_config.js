@@ -1,1 +1,1 @@
-var mnemonic = "stock furnace refuse plate quick weird dream test wine alien panel cloth";
+var mnemonic = "echo erupt force warrior girl mixture sense tape victory impose exist miracle";

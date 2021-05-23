@@ -1,1 +1,1 @@
-var mnemonic = "balance fix kitchen chuckle range lava use business garden remove find clap";
+var mnemonic = "lemon snow crash hand globe runway planet lunar rough polar display appear";

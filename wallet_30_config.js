@@ -1,1 +1,1 @@
-var mnemonic = "paddle simple wreck swamp rookie chest mad maximum shuffle chest trust reward";
+var mnemonic = "trap suspect siren inner disorder sample inject demise weekend script color spy";

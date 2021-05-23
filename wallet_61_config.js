@@ -1,1 +1,1 @@
-var mnemonic = "govern lunch cushion tape pulp worry desk armed notable unique margin you";
+var mnemonic = "spin govern wrist educate rail guess before client genius bacon glimpse visual";

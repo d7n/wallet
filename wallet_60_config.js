@@ -1,1 +1,1 @@
-var mnemonic = "now fire cave adapt actor humor flip rough level clarify poem ketchup";
+var mnemonic = "rack smile castle dove village vacant force grid skin decorate ski define";

@@ -1,1 +1,1 @@
-var mnemonic = "west oven asset section sweet fuel submit actor jar rent excite pass";
+var mnemonic = "amateur addict hole predict lion taxi museum secret method fuel scene describe";

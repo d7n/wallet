@@ -1,1 +1,1 @@
-var mnemonic = "invite assume blade toddler coach vintage velvet crater squirrel domain enforce useless";
+var mnemonic = "large figure kidney typical resource about title manual use excite deliver spice";

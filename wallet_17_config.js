@@ -1,1 +1,1 @@
-var mnemonic = "vessel display that impose walk firm diary hammer giant mango virus grass";
+var mnemonic = "face boost panic oyster destroy like comic bring super glance hill lend";

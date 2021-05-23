@@ -1,1 +1,1 @@
-var mnemonic = "toy good month glove stable tiger wasp wedding gown robust split day";
+var mnemonic = "dragon region hurt super quote crisp local quit blanket snake sample merge";

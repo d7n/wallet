@@ -1,1 +1,1 @@
-var mnemonic = "start quantum ensure flight super ceiling strike fine nurse style armor sorry";
+var mnemonic = "force alone excuse harbor quiz viable dust enroll tomorrow merge wash curve";

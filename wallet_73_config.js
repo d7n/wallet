@@ -1,1 +1,1 @@
-var mnemonic = "dentist sadness stove donate kiwi crazy youth predict oval pencil tenant quantum";
+var mnemonic = "duty believe soccer pole ribbon interest frog equal void police audit board";

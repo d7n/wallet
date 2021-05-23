@@ -1,1 +1,1 @@
-var mnemonic = "replace embark elite resource canvas inflict expose second digital grocery mail reunion";
+var mnemonic = "now quote pencil name meadow street royal achieve symbol catalog cause rate";

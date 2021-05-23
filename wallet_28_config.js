@@ -1,1 +1,1 @@
-var mnemonic = "void employ news begin obey worth release gain coconut recall park crush";
+var mnemonic = "midnight long vanish negative card morning chief estate vacuum now distance cycle";

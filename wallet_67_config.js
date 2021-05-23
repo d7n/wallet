@@ -1,1 +1,1 @@
-var mnemonic = "before shrug real bless spawn glare candy quit comic predict spike heavy";
+var mnemonic = "amused number element uniform absorb festival life mechanic work jeans donkey chef";

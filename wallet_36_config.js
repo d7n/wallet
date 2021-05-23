@@ -1,1 +1,1 @@
-var mnemonic = "require anxiety oak frame maple broccoli suggest gesture nephew hammer shield turn";
+var mnemonic = "breeze math myth option wolf aisle tool sleep spare coral ladder key";

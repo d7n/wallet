@@ -1,1 +1,1 @@
-var mnemonic = "quick salmon bike green popular just reason curious mosquito income error deposit";
+var mnemonic = "art mechanic story deer jewel destroy table prepare gift copy logic switch";

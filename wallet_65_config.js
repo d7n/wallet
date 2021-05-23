@@ -1,1 +1,1 @@
-var mnemonic = "denial fancy rail second wheel addict throw fit smart awful manage name";
+var mnemonic = "ripple culture chicken guard swallow wide armed bacon cheese shiver forum quarter";

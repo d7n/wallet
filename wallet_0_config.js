@@ -1,1 +1,1 @@
-var mnemonic = "athlete foam soft oxygen true negative album good advice marine fog soup";
+var mnemonic = "rotate word have buddy talk fruit odor beyond mutual social slab credit";

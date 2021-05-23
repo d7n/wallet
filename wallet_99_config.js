@@ -1,1 +1,1 @@
-var mnemonic = "cheap hollow hello post curve intact forget occur butter veteran thunder cruel";
+var mnemonic = "skull tomorrow brush power pole gym bounce affair scissors school scout brisk";

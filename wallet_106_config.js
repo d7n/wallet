@@ -1,1 +1,1 @@
-var mnemonic = "cliff train glare talk sibling parrot exist pave risk fruit vanish north";
+var mnemonic = "evolve fitness absorb moon address husband taxi garage lift clap snow trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "broken shoot honey one segment quit lizard pioneer autumn minute seek hill";
+var mnemonic = "sleep zero palm book provide toward afraid expire giggle second balcony honey";

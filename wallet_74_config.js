@@ -1,1 +1,1 @@
-var mnemonic = "retire sense impulse column company donkey sunny trade cabin vapor west across";
+var mnemonic = "monster carbon valid head wage tower combine tomato walnut nominee build title";

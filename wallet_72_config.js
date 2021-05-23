@@ -1,1 +1,1 @@
-var mnemonic = "tree thought bean hunt crop close lens face stumble fade life client";
+var mnemonic = "water pause sure airport moral best end food destroy orphan nominee royal";

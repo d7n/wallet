@@ -1,1 +1,1 @@
-var mnemonic = "open surround can carbon trophy maze space bracket tilt sick old notable";
+var mnemonic = "else lamp soup annual absent life rude radio cube add mask salad";

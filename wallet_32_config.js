@@ -1,1 +1,1 @@
-var mnemonic = "gallery seek snack side theory feed miracle mail spoil crime library street";
+var mnemonic = "defense dawn upper wrist rule slab grow remain range matrix wolf nose";

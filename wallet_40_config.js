@@ -1,1 +1,1 @@
-var mnemonic = "peace purpose metal catalog record situate concert cattle polar parrot mystery robust";
+var mnemonic = "history rotate lunch sound verify scale diagram open truly spy table device";

@@ -1,1 +1,1 @@
-var mnemonic = "away rate bus explain reunion squirrel example physical taxi witness vocal trick";
+var mnemonic = "again shove fatigue state hill panic identify network undo mushroom modify invite";

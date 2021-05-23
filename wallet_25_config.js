@@ -1,1 +1,1 @@
-var mnemonic = "radar brick item universe situate draw clarify elite strike motion stamp caution";
+var mnemonic = "own finger wisdom fashion title silly popular payment evidence inhale mountain forward";

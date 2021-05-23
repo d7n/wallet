@@ -1,1 +1,1 @@
-var mnemonic = "tilt episode nest supply alien pelican raccoon welcome clay unfold scissors quit";
+var mnemonic = "boost mom eternal argue engage chef derive right crew pig mule obtain";

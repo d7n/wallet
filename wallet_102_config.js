@@ -1,1 +1,1 @@
-var mnemonic = "quarter joy metal sense gap puzzle round run shed pitch science expose";
+var mnemonic = "sister holiday nominee utility crawl family slide page gaze tooth place crop";

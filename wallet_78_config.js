@@ -1,1 +1,1 @@
-var mnemonic = "injury title exile nasty weasel favorite credit catch critic monster size rather";
+var mnemonic = "sweet dish skate also zone pull language daughter concert jump sphere civil";

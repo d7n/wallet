@@ -1,1 +1,1 @@
-var mnemonic = "bid paper marine betray type pitch apology mobile style final flavor confirm";
+var mnemonic = "minimum oil rhythm drop main process real muffin feel used coral awesome";

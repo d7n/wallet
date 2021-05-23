@@ -1,1 +1,1 @@
-var mnemonic = "bunker inch matrix result stable sense account knee satisfy uniform move east";
+var mnemonic = "journey pluck athlete allow remove cousin dolphin arch stock vivid crop hub";

@@ -1,1 +1,1 @@
-var mnemonic = "office pride spatial rich reopen supreme jazz sleep news mask sleep lyrics";
+var mnemonic = "young often media ask vapor stable web scout crawl recycle guess spy";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat eye awful elder disease add struggle romance avoid spawn process moon";
+var mnemonic = "smart expose clip magnet afraid slush cube grid jungle cabbage spot finger";

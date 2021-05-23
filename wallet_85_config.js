@@ -1,1 +1,1 @@
-var mnemonic = "clog world ghost lens spin output wire ozone camp unlock crucial home";
+var mnemonic = "venture force canoe include panic involve together twist control pilot october world";

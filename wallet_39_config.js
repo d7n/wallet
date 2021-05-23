@@ -1,1 +1,1 @@
-var mnemonic = "coral flip boat same proof ramp since length slam glove bounce bunker";
+var mnemonic = "exotic quiz engage solve dad develop fashion come warm tomorrow summer earn";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion stick route lonely point escape output connect build unusual violin argue";
+var mnemonic = "pill despair demise outside relief wage asset cliff nasty base copper this";

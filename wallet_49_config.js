@@ -1,1 +1,1 @@
-var mnemonic = "ribbon near uphold outside decade cruel castle medal present quiz park crawl";
+var mnemonic = "business lamp dentist output audit gate grunt wreck cluster chuckle health hood";

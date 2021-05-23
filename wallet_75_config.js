@@ -1,1 +1,1 @@
-var mnemonic = "coffee leisure surround skin item head fancy pony nut blouse dream ketchup";
+var mnemonic = "salt penalty exercise chaos six fire absurd embrace scorpion deal little tortoise";

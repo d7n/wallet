@@ -1,1 +1,1 @@
-var mnemonic = "coast sword resemble garbage easy erupt invite topic notice wheel album mention";
+var mnemonic = "elegant share term corn crystal inhale bleak lunch fog web garlic broom";

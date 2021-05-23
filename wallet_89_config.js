@@ -1,1 +1,1 @@
-var mnemonic = "engine brisk sentence defense switch point rose crater crisp entry tomato economy";
+var mnemonic = "ginger abstract detect chicken donate enjoy skirt pear trash soup castle practice";
