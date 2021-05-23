@@ -1,1 +1,1 @@
-var mnemonic = "ribbon maid nuclear health trap eager armor city any slim window strong";
+var mnemonic = "mail hire health vicious valid ready hood correct favorite three combine draft";

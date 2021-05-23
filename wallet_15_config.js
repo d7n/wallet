@@ -1,1 +1,1 @@
-var mnemonic = "van lava fence cannon prize hammer glide travel champion tired inherit pencil";
+var mnemonic = "venture false clutch couch table solar include across drum parade strike harbor";

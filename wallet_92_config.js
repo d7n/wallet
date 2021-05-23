@@ -1,1 +1,1 @@
-var mnemonic = "fee stable palm easily eyebrow measure keep bronze bottom business cousin potato";
+var mnemonic = "theme hen diary abandon double bring body delay waste local bottom elder";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade rich stove truly danger renew sort radio country huge someone dismiss";
+var mnemonic = "spread inflict cable aunt potato minimum fit analyst light sample blush twist";

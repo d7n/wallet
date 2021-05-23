@@ -1,1 +1,1 @@
-var mnemonic = "upgrade other frozen spawn cradle cream alter video list remain embody dignity";
+var mnemonic = "glass jealous census defy timber kiss inspire cannon embody notice inform garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "craft soldier danger argue two poem dry sudden catalog tissue elbow sustain";
+var mnemonic = "horn battle pink crunch chaos retreat tuition resemble water cream sustain fog";

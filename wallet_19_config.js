@@ -1,1 +1,1 @@
-var mnemonic = "spy unable girl chef proud rabbit forward ecology apart churn slab delay";
+var mnemonic = "bread length quick process gallery velvet relax thumb degree magic entry romance";

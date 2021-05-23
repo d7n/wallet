@@ -1,1 +1,1 @@
-var mnemonic = "luxury brave rural situate talent squirrel fluid bird boat alpha parent tell";
+var mnemonic = "junior nominee blood cluster give exercise upgrade scale help town during drastic";

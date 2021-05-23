@@ -1,1 +1,1 @@
-var mnemonic = "candy impose cattle symptom trip cupboard curve beauty warm lecture buddy mistake";
+var mnemonic = "reduce dignity dinosaur section voice grit sign clever velvet boost depend fury";

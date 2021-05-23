@@ -1,1 +1,1 @@
-var mnemonic = "before federal tail unlock loop morning chalk math hen belt window excess";
+var mnemonic = "elbow cruise iron enhance jelly cousin barrel cattle earth mother paddle city";

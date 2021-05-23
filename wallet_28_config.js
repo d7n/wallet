@@ -1,1 +1,1 @@
-var mnemonic = "cattle impact north decide depth flock minute habit section surround debate seminar";
+var mnemonic = "melody project prevent casual like topple pulp side sustain vast unusual leader";

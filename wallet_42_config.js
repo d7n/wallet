@@ -1,1 +1,1 @@
-var mnemonic = "original farm find mind token smoke recycle thought grief yellow begin hello";
+var mnemonic = "blind hair hope pulse latin dad expand pistol kid two ring hole";

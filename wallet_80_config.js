@@ -1,1 +1,1 @@
-var mnemonic = "shove drum sense trick across thunder give spoon kick marine erosion avocado";
+var mnemonic = "shift govern push stairs jewel humble issue safe follow jungle latin broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "trade fancy meat upset legal funny jealous vicious antenna seat option marriage";
+var mnemonic = "pioneer cry profit velvet bird alien envelope guilt maple marriage alone trap";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble coral wagon embody crucial ankle captain palm grace brown cannon indicate";
+var mnemonic = "merit legal master identify relax cram lab uniform pulp cave palace outside";

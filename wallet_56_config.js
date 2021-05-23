@@ -1,1 +1,1 @@
-var mnemonic = "festival ring lemon move rhythm meat age dish memory shock rebuild sunny";
+var mnemonic = "buffalo diamond repair wood tool potato already peasant limit earth march invest";

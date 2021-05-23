@@ -1,1 +1,1 @@
-var mnemonic = "female mercy rib sleep problem gold collect vault vintage toss scout parrot";
+var mnemonic = "any sunny stamp possible lobster yellow cost distance tiny naive senior fever";

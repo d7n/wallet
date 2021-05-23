@@ -1,1 +1,1 @@
-var mnemonic = "unlock merry glimpse anchor bicycle price spin push enough rival sauce other";
+var mnemonic = "protect vibrant ball stone level fame budget shiver balcony burden approve thank";

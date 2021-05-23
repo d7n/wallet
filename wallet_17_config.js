@@ -1,1 +1,1 @@
-var mnemonic = "wheel paddle maximum length favorite sound cotton erupt defense seat what maid";
+var mnemonic = "adult language grid tomato fire armor element deliver whale three glass kingdom";

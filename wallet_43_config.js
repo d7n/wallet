@@ -1,1 +1,1 @@
-var mnemonic = "crash inform elephant usual save throw follow filter drama lunar sketch account";
+var mnemonic = "hockey deny cover couch easy manage survey balance dignity cram truly impulse";

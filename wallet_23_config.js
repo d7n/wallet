@@ -1,1 +1,1 @@
-var mnemonic = "private heart unknown client picnic arrange pizza senior icon wait system client";
+var mnemonic = "venture word eight clap modify melody dismiss museum gaze owner chase police";

@@ -1,1 +1,1 @@
-var mnemonic = "advance hair obey wheel promote rude tonight outside inner fix ski nut";
+var mnemonic = "couch law admit empower captain burden inform exile sand nerve injury voyage";

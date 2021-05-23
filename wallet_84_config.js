@@ -1,1 +1,1 @@
-var mnemonic = "build divert spatial ivory sand equip slice meat vast install slab cigar";
+var mnemonic = "stage debate blame magic dismiss fresh delay powder alter drift master warrior";

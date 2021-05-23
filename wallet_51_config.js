@@ -1,1 +1,1 @@
-var mnemonic = "trade enact input bless magic lawn stable member giraffe bridge update trophy";
+var mnemonic = "license valid razor outside wheel language alarm squirrel slab false digital oil";

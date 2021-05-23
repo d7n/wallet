@@ -1,1 +1,1 @@
-var mnemonic = "mushroom noise useless deputy much kick ladder perfect noodle inform husband nose";
+var mnemonic = "fox left kid right jazz that noble jealous jar wave card useless";

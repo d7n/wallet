@@ -1,1 +1,1 @@
-var mnemonic = "poverty shoe bless later census eye figure measure glory bulk bundle midnight";
+var mnemonic = "equal anxiety flight version practice settle toy congress tourist fat salmon intact";

@@ -1,1 +1,1 @@
-var mnemonic = "caution bird pink soccer knock cat recipe jelly roast keep strong fly";
+var mnemonic = "dynamic vivid fossil galaxy vehicle weekend salute believe sell number faculty buffalo";

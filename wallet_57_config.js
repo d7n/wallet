@@ -1,1 +1,1 @@
-var mnemonic = "immense divert possible cement inside photo rookie crater code chronic rebel camera";
+var mnemonic = "awesome fly off stable heavy various private start admit pelican sight believe";

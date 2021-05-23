@@ -1,1 +1,1 @@
-var mnemonic = "vast guitar fabric raise vote toddler know amount organ door cook celery";
+var mnemonic = "ecology filter crime federal blind ivory lizard ramp track invest almost engage";

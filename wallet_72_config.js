@@ -1,1 +1,1 @@
-var mnemonic = "series assist eyebrow volume glory price heart admit tiny genius vivid fade";
+var mnemonic = "number tunnel patch lend stairs speed mixture solar detect alcohol ability topic";

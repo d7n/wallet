@@ -1,1 +1,1 @@
-var mnemonic = "ghost tray pupil notice boss appear split delay drink casual blush salad";
+var mnemonic = "lunch festival remember cry kit carry soccer squirrel picture vast evil cover";

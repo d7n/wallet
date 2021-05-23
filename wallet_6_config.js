@@ -1,1 +1,1 @@
-var mnemonic = "faint distance village rely famous timber glad wolf thank when draw junior";
+var mnemonic = "ghost pyramid middle cabbage now city typical sadness hire harsh bleak south";

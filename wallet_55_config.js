@@ -1,1 +1,1 @@
-var mnemonic = "shock lecture audit boost they section surface bar flip cube town mandate";
+var mnemonic = "educate stock warfare poet between dismiss pride joy damage legal skull clay";

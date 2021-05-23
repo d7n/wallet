@@ -1,1 +1,1 @@
-var mnemonic = "library guitar answer honey aerobic feature lift regret abstract right curious casual";
+var mnemonic = "account special beach convince finger month stadium embark defense element equal miss";

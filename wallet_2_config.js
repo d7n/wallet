@@ -1,1 +1,1 @@
-var mnemonic = "wood clerk equal blast twist bench stove crash provide that rapid brick";
+var mnemonic = "tip until rebel edit never desert royal dress use water garbage truly";

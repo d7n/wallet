@@ -1,1 +1,1 @@
-var mnemonic = "neither rival undo clarify upgrade practice dinner dial film photo regret stock";
+var mnemonic = "december pretty harvest drip useless kitchen surprise behave roof divorce kid wood";

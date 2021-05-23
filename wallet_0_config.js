@@ -1,1 +1,1 @@
-var mnemonic = "clap resist debris prize quick uncle perfect hamster survey one nephew blur";
+var mnemonic = "grace live lounge mandate boil artwork fresh finger feed shield early rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness project fiber moral advice dinosaur illness craft judge mutual video hat";
+var mnemonic = "correct credit chief remember actual metal culture raise direct rib cement recipe";

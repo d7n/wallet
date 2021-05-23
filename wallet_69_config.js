@@ -1,1 +1,1 @@
-var mnemonic = "army share ugly correct gasp interest surround broccoli crisp settle because scissors";
+var mnemonic = "series ranch onion know fault relief enhance note brave emerge crisp lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "brown truly trim section fit resource very tragic learn nose agent fantasy";
+var mnemonic = "pretty space pyramid toe regular window divorce parrot live chapter bring scene";

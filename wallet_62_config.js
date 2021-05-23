@@ -1,1 +1,1 @@
-var mnemonic = "enjoy casual toss mad expect organ tennis remove priority uncover legend brisk";
+var mnemonic = "cotton tower era point stand fine describe torch ill ancient useful away";

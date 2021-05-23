@@ -1,1 +1,1 @@
-var mnemonic = "grab enforce jungle country chicken patch bus reveal outside remind pretty food";
+var mnemonic = "seat torch wrestle ball fall often surround clever top enforce feel option";

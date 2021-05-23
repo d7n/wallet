@@ -1,1 +1,1 @@
-var mnemonic = "thank segment shallow possible east next length cousin fine crater notable canoe";
+var mnemonic = "veteran unhappy clump position mom staff coach danger recipe captain text ladder";

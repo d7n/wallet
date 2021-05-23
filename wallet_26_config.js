@@ -1,1 +1,1 @@
-var mnemonic = "advice version rescue squirrel latin bridge hungry excess almost dog talent outdoor";
+var mnemonic = "arch program host mention safe shed crane hidden mule ugly aisle sheriff";

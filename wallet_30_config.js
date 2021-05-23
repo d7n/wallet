@@ -1,1 +1,1 @@
-var mnemonic = "tumble lens infant satisfy result hotel hawk hood water mixture thunder muffin";
+var mnemonic = "judge impulse hospital lobster tuna tissue material across isolate art cabin trash";

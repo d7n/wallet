@@ -1,1 +1,1 @@
-var mnemonic = "before acoustic power oppose chief cruise nerve noise output hospital vicious tank";
+var mnemonic = "degree news coil soul rude coast mother lecture bless impact detect spare";

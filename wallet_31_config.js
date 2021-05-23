@@ -1,1 +1,1 @@
-var mnemonic = "youth faint quick large luxury horse bus journey scout prosper record action";
+var mnemonic = "trial spider consider wear gold evoke entry dismiss kitten crumble aunt outer";

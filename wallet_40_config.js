@@ -1,1 +1,1 @@
-var mnemonic = "alley fiber ugly relax remember burst hamster cook network brief bar truth";
+var mnemonic = "unique update squirrel simple almost stumble robust album clay skirt question potato";

@@ -1,1 +1,1 @@
-var mnemonic = "script pumpkin network poet accident walnut lazy afraid muscle loop aim infant";
+var mnemonic = "tail combine surge awake kit bar lock resemble install typical mercy shed";

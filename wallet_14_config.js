@@ -1,1 +1,1 @@
-var mnemonic = "cigar final uncover tank rug science hood wing pattern machine number rebuild";
+var mnemonic = "load pattern fragile color balcony because cause broken orange mother usage cattle";

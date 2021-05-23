@@ -1,1 +1,1 @@
-var mnemonic = "wall animal aspect holiday guilt educate chalk normal upon napkin debris enhance";
+var mnemonic = "soft brain load heart ostrich will ugly yellow fold detail become initial";

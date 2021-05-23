@@ -1,1 +1,1 @@
-var mnemonic = "use entire abandon page cousin breeze decide buddy cupboard industry conduct antenna";
+var mnemonic = "travel quote shine charge rib inform skirt stick zebra want dawn spare";

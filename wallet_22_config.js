@@ -1,1 +1,1 @@
-var mnemonic = "demand country physical unaware club tell explain stick abuse galaxy paper mistake";
+var mnemonic = "system trash put exhibit tissue destroy setup victory agree bounce pitch ensure";

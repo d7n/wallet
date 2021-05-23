@@ -1,1 +1,1 @@
-var mnemonic = "plate section rival patient pupil unit stomach sphere nominee shrimp monitor lift";
+var mnemonic = "camp wave monitor squeeze change call doll example subway salt sleep common";

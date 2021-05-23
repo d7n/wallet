@@ -1,1 +1,1 @@
-var mnemonic = "glad female tip truck album seminar hawk scrap senior suggest auto strong";
+var mnemonic = "injury laptop cherry road attack bind sustain tribe proud dish razor regret";

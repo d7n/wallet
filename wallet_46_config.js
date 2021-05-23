@@ -1,1 +1,1 @@
-var mnemonic = "roof plate payment history olive plug wink join wish exhibit limit tube";
+var mnemonic = "exit way gospel pledge embody cereal loop barely forget admit life fan";

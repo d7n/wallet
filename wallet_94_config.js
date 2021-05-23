@@ -1,1 +1,1 @@
-var mnemonic = "farm turkey zebra consider waste achieve stand fish island few blast airport";
+var mnemonic = "cable point sail figure deer obey seat powder pull major tent bar";

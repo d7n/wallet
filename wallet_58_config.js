@@ -1,1 +1,1 @@
-var mnemonic = "credit party bullet stumble circle bulk resource blood endless vital olympic estate";
+var mnemonic = "educate space roof another suit zoo sunset between afraid december manage nut";

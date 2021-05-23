@@ -1,1 +1,1 @@
-var mnemonic = "unlock bid hen essence cloud salmon edge mass gorilla tennis token scout";
+var mnemonic = "quality thrive flock warrior asset arrest monkey animal material wire enrich wealth";

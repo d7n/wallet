@@ -1,1 +1,1 @@
-var mnemonic = "evidence trigger rude between habit blush draft switch kingdom length beyond describe";
+var mnemonic = "gather tail boat remind vague voice eyebrow route author again infant style";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect below raven awful joy broccoli curve amused voice vapor quality ketchup";
+var mnemonic = "strategy slender carpet gloom twenty eye mother swallow decide table mule gown";

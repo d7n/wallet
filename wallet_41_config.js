@@ -1,1 +1,1 @@
-var mnemonic = "copy episode door bomb fuel ask season alpha when iron evil great";
+var mnemonic = "usual differ hazard foot art orbit doctor food more accuse jewel grocery";

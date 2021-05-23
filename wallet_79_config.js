@@ -1,1 +1,1 @@
-var mnemonic = "art off civil coral reflect vintage police glide captain female phrase call";
+var mnemonic = "private obvious turkey letter valve match hair ritual cloud across punch hood";

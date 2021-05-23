@@ -1,1 +1,1 @@
-var mnemonic = "first silly carry satoshi aware duck foot indicate improve milk sadness tail";
+var mnemonic = "raw door truck satoshi total stable chef crunch risk habit crash phrase";

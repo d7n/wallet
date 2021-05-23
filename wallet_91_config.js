@@ -1,1 +1,1 @@
-var mnemonic = "early evolve cloth speak polar romance idea imitate wrap palm bar runway";
+var mnemonic = "exhaust any honey glow first valve stumble leader assist slab faith shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "device defense able idle hat grief train wealth sustain lunar sand angry";
+var mnemonic = "vote answer erode friend injury clump boy guilt produce spell ability diagram";

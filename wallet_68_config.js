@@ -1,1 +1,1 @@
-var mnemonic = "throw manual sad note educate machine shrimp forward age legend flush also";
+var mnemonic = "wear present proof clump wage oil pudding exhaust accuse system bread try";

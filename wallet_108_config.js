@@ -1,1 +1,1 @@
-var mnemonic = "address absent mystery rude case violin couch sand regret replace crouch physical";
+var mnemonic = "inquiry rival grab wall crouch solution nut monkey convince reflect dose sad";

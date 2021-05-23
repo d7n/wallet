@@ -1,1 +1,1 @@
-var mnemonic = "click number position jungle wolf jelly catch clinic reduce dinosaur bag law";
+var mnemonic = "radar rice sun random green oblige outdoor strategy path spice best travel";

@@ -1,1 +1,1 @@
-var mnemonic = "economy decade rubber capable chest warfare hamster belt devote auto rhythm size";
+var mnemonic = "equal shoot share mandate vacuum much long rude blouse artist shy calm";

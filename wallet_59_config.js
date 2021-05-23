@@ -1,1 +1,1 @@
-var mnemonic = "upon extra intact work ordinary minute such page budget million prosper pottery";
+var mnemonic = "damage urban wedding arrive minimum super castle purse small frozen toddler blue";

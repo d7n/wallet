@@ -1,1 +1,1 @@
-var mnemonic = "say strike hunt guilt sustain trouble fire jealous force aspect letter hurdle";
+var mnemonic = "wise trial whip deal milk image online custom online monitor dune ride";

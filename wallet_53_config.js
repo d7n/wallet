@@ -1,1 +1,1 @@
-var mnemonic = "emerge kiwi evidence faith dolphin kiwi among rebel mistake slide grab pulse";
+var mnemonic = "heavy core pluck acid shield must current wall glow tattoo spray enable";

@@ -1,1 +1,1 @@
-var mnemonic = "amused success donate subway siege practice convince pepper black champion moon finger";
+var mnemonic = "gorilla dial believe fish ocean purity spray soon fuel cost museum you";

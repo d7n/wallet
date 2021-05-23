@@ -1,1 +1,1 @@
-var mnemonic = "inch gown syrup air fatal vessel manual scissors maze juice era kiss";
+var mnemonic = "gap label midnight tiny then oval host child dinner edge income raw";

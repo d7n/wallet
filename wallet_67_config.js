@@ -1,1 +1,1 @@
-var mnemonic = "slide focus syrup brush inform section aim damp click uniform magnet rabbit";
+var mnemonic = "poverty treat panda mystery roof setup faith spawn hour uniform fan average";

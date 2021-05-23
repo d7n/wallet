@@ -1,1 +1,1 @@
-var mnemonic = "square token much tilt boil analyst leader element amateur blade defense high";
+var mnemonic = "edit grow chalk wedding science sweet sudden admit rigid portion glimpse help";

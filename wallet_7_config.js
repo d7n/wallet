@@ -1,1 +1,1 @@
-var mnemonic = "bench doll rifle weasel mention vintage labor zone smile fitness when novel";
+var mnemonic = "cat goose sentence fish toddler supreme arm blade business base save hobby";

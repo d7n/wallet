@@ -1,1 +1,1 @@
-var mnemonic = "elevator dust process someone dismiss vacuum arch arrive can defense visual galaxy";
+var mnemonic = "jacket bless warrior swarm detect bicycle deal ceiling meat equip rival parade";

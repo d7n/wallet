@@ -1,1 +1,1 @@
-var mnemonic = "shield tray reduce trim list frozen ski galaxy brown skin review exclude";
+var mnemonic = "term vapor engage stomach soup virtual tube question problem isolate ugly illegal";

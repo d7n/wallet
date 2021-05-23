@@ -1,1 +1,1 @@
-var mnemonic = "hurry bone tomorrow when coyote salad dune orphan gun cannon sound chuckle";
+var mnemonic = "gun riot sorry jar main pulp smile olive rhythm buzz hub phone";

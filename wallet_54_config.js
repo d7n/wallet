@@ -1,1 +1,1 @@
-var mnemonic = "still actor network soldier insane kidney empower drive wealth abstract coconut lyrics";
+var mnemonic = "mention word arctic circle private pretty impose apple noble orient win fee";

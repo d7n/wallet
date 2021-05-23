@@ -1,1 +1,1 @@
-var mnemonic = "book swarm trial aerobic cruise juice sand never hockey quantum toward pave";
+var mnemonic = "light math present dune thought artist render melt uphold blind tube cigar";

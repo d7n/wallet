@@ -1,1 +1,1 @@
-var mnemonic = "jacket army banner power space where giggle favorite obscure reunion empower often";
+var mnemonic = "awkward wash cram remove buyer exist you drama volume stable visit clap";

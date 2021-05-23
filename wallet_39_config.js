@@ -1,1 +1,1 @@
-var mnemonic = "trust govern vacuum body connect clutch timber zone portion exist shock oak";
+var mnemonic = "exact express focus empty mushroom inflict observe home fire verb decline tennis";

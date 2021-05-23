@@ -1,1 +1,1 @@
-var mnemonic = "shift heavy episode glass space rival phrase cart believe cost horror fee";
+var mnemonic = "wasp nose alpha grain sponsor shallow stove never pottery flower matrix december";

@@ -1,1 +1,1 @@
-var mnemonic = "estate own word long utility wheel cloth kitten material merge whale renew";
+var mnemonic = "visa talk jacket example jealous easy border smoke punch short gun assault";

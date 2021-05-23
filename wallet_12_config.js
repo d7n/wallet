@@ -1,1 +1,1 @@
-var mnemonic = "width ordinary burden industry sadness novel siren thing lesson ahead mystery upon";
+var mnemonic = "ignore bottom coach beach total device blast amazing aisle fuel document suspect";

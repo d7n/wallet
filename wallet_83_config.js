@@ -1,1 +1,1 @@
-var mnemonic = "exclude cement merge road slice rocket churn impact knock combine autumn duck";
+var mnemonic = "time kit brain labor decorate broccoli option manage mobile orphan wear enroll";

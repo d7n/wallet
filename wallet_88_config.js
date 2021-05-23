@@ -1,1 +1,1 @@
-var mnemonic = "soft virus raise update you runway drop mimic rapid menu rabbit where";
+var mnemonic = "top simple shop wing scissors barely situate choice shop message mass place";

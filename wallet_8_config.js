@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bulk reunion enable grace where defense level north praise area kingdom";
+var mnemonic = "man one want rookie include net position salmon health blind green angle";

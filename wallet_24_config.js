@@ -1,1 +1,1 @@
-var mnemonic = "involve begin need volcano silver move cute hazard barely crawl spare recall";
+var mnemonic = "dance tooth symbol visa tone under orchard winter father uniform hammer rice";

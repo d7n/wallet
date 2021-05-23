@@ -1,1 +1,1 @@
-var mnemonic = "bus print squirrel minimum saddle novel crane wrestle world kit own fog";
+var mnemonic = "stable lounge twice action category kiwi token alien palace alcohol cargo engage";

@@ -1,1 +1,1 @@
-var mnemonic = "teach rough image unique sweet average electric final equal rude thrive any";
+var mnemonic = "two ramp piece depart result vintage want damp used fancy owner neither";
