@@ -1,1 +1,1 @@
-var mnemonic = "horror young ten like twelve entry armed deposit sure usage dog trend";
+var mnemonic = "earn skull spread ball good slab exchange forward engine fuel west hill";

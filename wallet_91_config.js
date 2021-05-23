@@ -1,1 +1,1 @@
-var mnemonic = "front chat diamond spoil squirrel victory you fly ghost wire creek electric";
+var mnemonic = "great anchor blast end degree lake solve paddle crowd utility cheap tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny youth index curve carry bracket symbol uncover logic shove seminar effort";
+var mnemonic = "face satoshi kitchen cancel enrich bid shell venue grow hood coyote aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "powder find kingdom roof casual act bracket brick usual steak manual indoor";
+var mnemonic = "high want fiber long profit narrow bid pottery cruel fold name boat";

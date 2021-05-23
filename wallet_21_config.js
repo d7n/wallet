@@ -1,1 +1,1 @@
-var mnemonic = "route panda want total crowd rough middle resemble frost attract denial food";
+var mnemonic = "mail winner creek project suspect law office drill absent caught circle hollow";

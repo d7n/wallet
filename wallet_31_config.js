@@ -1,1 +1,1 @@
-var mnemonic = "answer add tuna coconut slim cloth toast theme shoulder fly radio rail";
+var mnemonic = "decide seven palace road scale require oppose diamond flush harbor level diamond";

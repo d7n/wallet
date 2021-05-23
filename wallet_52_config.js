@@ -1,1 +1,1 @@
-var mnemonic = "leisure solid casual favorite crisp lion swallow method local cigar agree chase";
+var mnemonic = "empty life dog across pledge kingdom aim gauge clever orbit zebra strike";

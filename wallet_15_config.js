@@ -1,1 +1,1 @@
-var mnemonic = "invest code smooth abuse chicken grant erode section today brass bicycle cart";
+var mnemonic = "volcano trophy congress spend tonight badge dragon liquid thumb lunch always orphan";

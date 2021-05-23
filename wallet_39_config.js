@@ -1,1 +1,1 @@
-var mnemonic = "disorder spawn quick visual boy cradle dizzy eagle worry monkey height empower";
+var mnemonic = "purity two fever vague virtual basic surge drum square diagram nation cinnamon";

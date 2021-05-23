@@ -1,1 +1,1 @@
-var mnemonic = "skin option flock celery when zero diagram virtual hero thunder success vacant";
+var mnemonic = "dolphin fun humble pair divert abstract adjust kitchen rabbit dish blue trap";

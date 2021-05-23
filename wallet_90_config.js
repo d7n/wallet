@@ -1,1 +1,1 @@
-var mnemonic = "alone already arrow apple ocean deputy humor senior fade other twice lawsuit";
+var mnemonic = "grant circle salon firm chronic address frequent vault ten clarify master such";

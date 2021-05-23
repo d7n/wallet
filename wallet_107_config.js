@@ -1,1 +1,1 @@
-var mnemonic = "little flower enough run security actor beach envelope math foil favorite bone";
+var mnemonic = "fiction movie social solar brave dose whale vapor unfold couch skin melt";

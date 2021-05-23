@@ -1,1 +1,1 @@
-var mnemonic = "school insane camera label wrist consider tank liar wine circle tired among";
+var mnemonic = "kit amused mask hill below party south mad gravity loan wrap order";

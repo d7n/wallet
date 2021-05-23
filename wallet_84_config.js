@@ -1,1 +1,1 @@
-var mnemonic = "impose echo glad raccoon gain holiday arch spray fashion love midnight question";
+var mnemonic = "twist grow confirm royal wrestle about opinion weather magic brave found pulse";

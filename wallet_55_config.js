@@ -1,1 +1,1 @@
-var mnemonic = "grant myself timber antenna enforce miracle where spot coach target mule voice";
+var mnemonic = "before squirrel question core orchard wheat cycle erode river vintage zero barely";

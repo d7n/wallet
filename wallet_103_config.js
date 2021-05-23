@@ -1,1 +1,1 @@
-var mnemonic = "road day island salute basic tower wall pepper rifle deliver region siege";
+var mnemonic = "laugh love stay hand art hood flash praise replace meat point forward";

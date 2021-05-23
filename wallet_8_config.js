@@ -1,1 +1,1 @@
-var mnemonic = "era label desert replace turtle pave tennis control despair nurse sadness popular";
+var mnemonic = "size guilt detect sail accident genre museum day local record public yard";

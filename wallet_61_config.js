@@ -1,1 +1,1 @@
-var mnemonic = "guess amused couch quality romance accuse shift dune clean pair sense claim";
+var mnemonic = "casino radio tent world canvas junk bounce genre news craft exercise huge";

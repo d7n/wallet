@@ -1,1 +1,1 @@
-var mnemonic = "salmon october swap secret stereo vanish cherry comfort glass empower mechanic orchard";
+var mnemonic = "predict such harvest merry fossil poem write unveil escape fork south invest";

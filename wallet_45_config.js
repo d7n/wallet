@@ -1,1 +1,1 @@
-var mnemonic = "pen kit bleak castle trend shield obscure lyrics piece razor snake mention";
+var mnemonic = "wage math legal purse dish hazard soldier country night aspect pistol fringe";

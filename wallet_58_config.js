@@ -1,1 +1,1 @@
-var mnemonic = "mango enact grant flag nothing horn robot grab drum sock clinic uncover";
+var mnemonic = "hundred picture issue glimpse display whale blur choose dad sentence duty custom";

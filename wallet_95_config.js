@@ -1,1 +1,1 @@
-var mnemonic = "broccoli economy daring sketch only artefact artist own naive recall whale notice";
+var mnemonic = "vanish trash comfort write profit honey apple afford shell series rail topple";

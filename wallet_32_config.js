@@ -1,1 +1,1 @@
-var mnemonic = "auto hybrid there quick marble frown strong leopard churn play pilot near";
+var mnemonic = "chat offer fancy latin wild kite prefer clog scout supply garage truly";

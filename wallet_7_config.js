@@ -1,1 +1,1 @@
-var mnemonic = "card slim stick output eternal rather bubble sauce primary crouch leg grid";
+var mnemonic = "lawsuit divert assume gather side stem biology trophy start defense measure slow";

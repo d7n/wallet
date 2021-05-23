@@ -1,1 +1,1 @@
-var mnemonic = "diesel advance erosion dish actress emerge hub reform confirm capital giraffe noodle";
+var mnemonic = "install office design wisdom valid space canvas horse surge erupt item horn";

@@ -1,1 +1,1 @@
-var mnemonic = "way try desk dinner wrestle field crater lend citizen damp laugh east";
+var mnemonic = "remind puzzle fall simple cupboard six leopard swing copper melt long fury";

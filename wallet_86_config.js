@@ -1,1 +1,1 @@
-var mnemonic = "history dress human guess leisure dove prevent sense rigid enact pottery struggle";
+var mnemonic = "broken joke large welcome under attitude wheel heart thrive assume exclude assault";

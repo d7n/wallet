@@ -1,1 +1,1 @@
-var mnemonic = "spring sad tray ladder good camera trick quality phone music search edit";
+var mnemonic = "crazy fun double brief stumble auto lottery general awesome autumn joy solid";

@@ -1,1 +1,1 @@
-var mnemonic = "adult negative connect render unaware season census pulp spike match million surround";
+var mnemonic = "silent base river bring swarm squirrel spoil champion divert snack metal devote";

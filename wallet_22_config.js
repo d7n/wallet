@@ -1,1 +1,1 @@
-var mnemonic = "same silly disease brave grain settle catalog hollow ask base profit electric";
+var mnemonic = "permit super february relax thank palace hammer warrior bunker royal worry turn";

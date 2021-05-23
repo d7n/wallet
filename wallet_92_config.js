@@ -1,1 +1,1 @@
-var mnemonic = "violin creek flee piano wing salad echo logic assault mouse daring exercise";
+var mnemonic = "castle mobile rural lobster fun noodle field twice fatigue cage wood trial";

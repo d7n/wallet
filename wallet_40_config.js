@@ -1,1 +1,1 @@
-var mnemonic = "wish advance mean claim broom have robust vote federal nuclear grab choose";
+var mnemonic = "easily regret skate public notable action frame comic diet frog sniff addict";

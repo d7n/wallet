@@ -1,1 +1,1 @@
-var mnemonic = "aim client hint jazz upset reform abstract salt return oak poem never";
+var mnemonic = "real topple fly abuse angle color sad excuse valve giggle chuckle taste";

@@ -1,1 +1,1 @@
-var mnemonic = "castle road inside acoustic latin abandon fox struggle fruit chimney pass inherit";
+var mnemonic = "dream paper rose enter bacon surprise next ignore ahead push skin jacket";

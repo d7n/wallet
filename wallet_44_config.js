@@ -1,1 +1,1 @@
-var mnemonic = "deputy staff cereal pride then laundry save bright lend rabbit leopard ensure";
+var mnemonic = "skill snap because now chunk romance case tank labor blood sausage struggle";

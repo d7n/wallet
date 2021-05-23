@@ -1,1 +1,1 @@
-var mnemonic = "antique gain whip quiz race alarm soldier comic ensure trim hollow differ";
+var mnemonic = "warfare region dust resource gather struggle panda thrive hold become double critic";

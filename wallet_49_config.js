@@ -1,1 +1,1 @@
-var mnemonic = "umbrella alcohol donkey craft method pen present quarter much brisk victory afraid";
+var mnemonic = "bundle render slogan umbrella stay ketchup make debate fit fantasy convince stereo";

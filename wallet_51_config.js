@@ -1,1 +1,1 @@
-var mnemonic = "battle arch field hold object version frog hand luxury fancy build around";
+var mnemonic = "piano year cram indicate custom mansion scrub snack antique tent usual tail";

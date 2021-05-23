@@ -1,1 +1,1 @@
-var mnemonic = "flight sponsor chalk clay secret mutual just ship cable slab trap gauge";
+var mnemonic = "bring donate protect crack lucky milk rival spy decade drill share focus";

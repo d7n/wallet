@@ -1,1 +1,1 @@
-var mnemonic = "crater world cluster alarm hungry artefact manual town sell banner blush moral";
+var mnemonic = "mixed usage six attend foster live vault sugar alpha fringe club excite";

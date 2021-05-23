@@ -1,1 +1,1 @@
-var mnemonic = "crawl often brother champion rebel axis pioneer analyst tonight type paddle dynamic";
+var mnemonic = "shallow hint right carry people drastic helmet tongue injury rotate gas october";

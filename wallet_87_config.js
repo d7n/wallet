@@ -1,1 +1,1 @@
-var mnemonic = "scissors pistol subway raw peasant taste gain awkward bubble toast game allow";
+var mnemonic = "spawn gift utility innocent trial drop hunt close sample field absent hunt";

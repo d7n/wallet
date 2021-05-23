@@ -1,1 +1,1 @@
-var mnemonic = "cactus liar miss circle thunder half grid slender color shuffle vacant globe";
+var mnemonic = "weapon swing innocent member horse entire fold expect error awesome repair chase";

@@ -1,1 +1,1 @@
-var mnemonic = "skin smoke soldier wear celery lesson unlock draft split vote zero select";
+var mnemonic = "gossip bundle rhythm unknown ring interest find nose evil giggle stamp room";

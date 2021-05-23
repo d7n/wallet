@@ -1,1 +1,1 @@
-var mnemonic = "voice daring hood curious someone figure theory mobile ancient fine enter labor";
+var mnemonic = "stamp crisp erupt deny focus else follow relief forest giggle sick pen";

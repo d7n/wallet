@@ -1,1 +1,1 @@
-var mnemonic = "goddess ignore indoor sketch idle element fabric wage any return flee fresh";
+var mnemonic = "cactus uniform human dynamic fix predict believe stable margin ask toe useless";

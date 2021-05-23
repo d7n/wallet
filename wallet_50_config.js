@@ -1,1 +1,1 @@
-var mnemonic = "win vibrant okay monkey busy wink other purse team deal oak infant";
+var mnemonic = "fancy erode mother robot verb green clever pudding denial cluster decorate riot";

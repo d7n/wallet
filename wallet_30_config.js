@@ -1,1 +1,1 @@
-var mnemonic = "gauge rocket bicycle neutral lonely panel flock pig stove medal daring marble";
+var mnemonic = "gas exhaust anchor admit crash eternal room return winter venue siren mosquito";

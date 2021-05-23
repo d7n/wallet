@@ -1,1 +1,1 @@
-var mnemonic = "sell lounge hen spell cousin exact cry secret mention canyon purity park";
+var mnemonic = "board cave room term giant dose future evil material gentle dash scheme";

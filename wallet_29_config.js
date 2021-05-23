@@ -1,1 +1,1 @@
-var mnemonic = "climb potato switch paper cave tackle world sweet icon supreme drink cement";
+var mnemonic = "shrimp cycle century retreat smile spawn oppose dwarf express bless lab effort";

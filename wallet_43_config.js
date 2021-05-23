@@ -1,1 +1,1 @@
-var mnemonic = "fantasy great crazy skirt express chuckle supply reflect hedgehog middle agree jewel";
+var mnemonic = "tuition mesh announce mutual prison satisfy guide caught winter easy blade walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "razor crumble insane salad focus interest target assault tobacco palm valley tiny";
+var mnemonic = "beach creek youth awkward unknown sword cover victory topple sustain major wall";

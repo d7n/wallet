@@ -1,1 +1,1 @@
-var mnemonic = "another wool they beach gain donate leopard aware jar rocket crumble pull";
+var mnemonic = "immune bind observe tornado behave someone giraffe gun emotion nation before frog";

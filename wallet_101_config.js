@@ -1,1 +1,1 @@
-var mnemonic = "stem spider saddle catch moral still goat slush custom daring swarm student";
+var mnemonic = "salad worry paper total energy olympic believe old tray modify ginger discover";

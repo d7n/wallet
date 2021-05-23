@@ -1,1 +1,1 @@
-var mnemonic = "lab three funny wool camp able rent mother employ scale guitar vital";
+var mnemonic = "sentence broccoli shield borrow crawl must rhythm pink floor million goose pony";

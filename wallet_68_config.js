@@ -1,1 +1,1 @@
-var mnemonic = "drama raccoon arrow gate whisper drink mushroom lazy among tooth gather scout";
+var mnemonic = "pumpkin immune famous smooth mixed liquid ginger crawl luxury believe fit hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "wear ill audit guess whip student deliver discover crawl clarify negative sponsor";
+var mnemonic = "color fun anchor cruel you dentist success blur fever drum valve cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy tobacco sister remove index usage puzzle party napkin scale elephant animal";
+var mnemonic = "render swamp cliff ahead olympic doll segment mass vault escape cabbage flame";

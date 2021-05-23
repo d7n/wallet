@@ -1,1 +1,1 @@
-var mnemonic = "swap slow token key check tumble sample mountain couple seat clutch bar";
+var mnemonic = "resist hidden toast crop vast angle shoe issue vague net demand fetch";

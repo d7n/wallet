@@ -1,1 +1,1 @@
-var mnemonic = "nut notable identify oak auction whip sing hard marine hill few sun";
+var mnemonic = "shoulder patient fox sweet near ghost spoon vacuum fault devote brief imitate";

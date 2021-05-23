@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bless business sick industry someone axis stuff swap immune echo chair";
+var mnemonic = "zero curve feature build damage cheap begin dish nominee famous nut another";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard february action frog birth edge idea half swap captain skill glory";
+var mnemonic = "immense panel file juice cliff armor satoshi garlic ginger dwarf august punch";

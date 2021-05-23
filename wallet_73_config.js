@@ -1,1 +1,1 @@
-var mnemonic = "whale fork merge option cart powder badge bring oppose lift alarm water";
+var mnemonic = "cheese cash shell buyer false print material defy daring notable idle solid";

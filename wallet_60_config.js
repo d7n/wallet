@@ -1,1 +1,1 @@
-var mnemonic = "tobacco end arrow state cruise can alter donor clever urge case shop";
+var mnemonic = "tortoise plunge false cause suffer art jealous vast pen write movie sauce";

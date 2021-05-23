@@ -1,1 +1,1 @@
-var mnemonic = "goose brick guide judge dose never orphan run carry original frequent miss";
+var mnemonic = "effort detail tube fashion leave sand another intact jungle practice item zero";

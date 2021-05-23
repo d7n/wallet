@@ -1,1 +1,1 @@
-var mnemonic = "into alarm baby together saddle scare velvet high board neither hard trash";
+var mnemonic = "filter afraid mad ginger bread purpose only custom general cattle pledge crush";

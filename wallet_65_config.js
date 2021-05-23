@@ -1,1 +1,1 @@
-var mnemonic = "mixture ritual jump enact shop valley vital cheese female huge switch public";
+var mnemonic = "stove canal tattoo shell alcohol ahead cabin desk divide skate hint frown";

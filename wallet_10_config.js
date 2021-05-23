@@ -1,1 +1,1 @@
-var mnemonic = "copper twin minute pen home across lawsuit firm endorse deal program orange";
+var mnemonic = "rate breeze prison sight giggle agent pause ability cash noise artefact core";

@@ -1,1 +1,1 @@
-var mnemonic = "window mesh run basic boss twist candy grain forum club twenty pole";
+var mnemonic = "erode error trial boring solution wrong patient dolphin orange viable remain envelope";

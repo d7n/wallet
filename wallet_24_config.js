@@ -1,1 +1,1 @@
-var mnemonic = "cram there bundle hammer noise silk depth wink prosper try visual vague";
+var mnemonic = "bleak wash ghost column seat north govern staff wrist fabric girl vintage";

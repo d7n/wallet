@@ -1,1 +1,1 @@
-var mnemonic = "detect either involve buzz skate convince cup type usual twist lazy weasel";
+var mnemonic = "just mesh achieve home offer aware faith body mimic struggle lend club";

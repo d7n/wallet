@@ -1,1 +1,1 @@
-var mnemonic = "napkin pact hunt jungle mass essence fog script mad tourist celery foil";
+var mnemonic = "glance can liquid disagree account awake record you jacket debate biology text";

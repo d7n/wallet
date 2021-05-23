@@ -1,1 +1,1 @@
-var mnemonic = "mystery item green faint envelope boy idea rhythm airport leg save bunker";
+var mnemonic = "evidence cycle bitter survey tiny release exotic garden ladder shrug category syrup";

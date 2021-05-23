@@ -1,1 +1,1 @@
-var mnemonic = "ring floor pilot borrow public clinic scene guess pink tuition rookie eyebrow";
+var mnemonic = "patrol bread empty suspect worry zoo library put alpha reunion wreck scheme";

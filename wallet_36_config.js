@@ -1,1 +1,1 @@
-var mnemonic = "below coffee exchange spell else gym sentence wing orchard minute hazard lawn";
+var mnemonic = "record reflect number wreck kick edge motion van soda typical enemy virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "novel invite razor stem ranch clip border image south rack blanket vendor";
+var mnemonic = "picture job patch stumble toilet shadow squirrel quiz jewel bulk venue title";

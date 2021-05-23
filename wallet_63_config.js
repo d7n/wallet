@@ -1,1 +1,1 @@
-var mnemonic = "hat crane insect kick tumble party evolve margin fork vibrant unlock invest";
+var mnemonic = "tissue doll horror gloom kangaroo filter loop present sister cruise infant exercise";

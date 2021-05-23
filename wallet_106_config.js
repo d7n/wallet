@@ -1,1 +1,1 @@
-var mnemonic = "live material write match inmate local knife coyote fruit draft primary coil";
+var mnemonic = "fine simple sniff again useful art friend drip carbon horror live helmet";

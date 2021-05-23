@@ -1,1 +1,1 @@
-var mnemonic = "heavy cheap clarify drama undo skin carbon coral slush clean unaware hurdle";
+var mnemonic = "transfer asset click brisk insane speak bench come practice seek crunch grant";

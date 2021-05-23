@@ -1,1 +1,1 @@
-var mnemonic = "cactus chest avocado chunk stool cabin anger april crisp tape arctic toward";
+var mnemonic = "proud seminar panda quantum various spare forget act valve stable cement trip";

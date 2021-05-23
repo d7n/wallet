@@ -1,1 +1,1 @@
-var mnemonic = "prevent primary lens rent clay repeat gap tag empty asthma riot arena";
+var mnemonic = "lend live top oblige labor once tuna clump bike kit govern label";

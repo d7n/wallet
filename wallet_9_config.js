@@ -1,1 +1,1 @@
-var mnemonic = "drastic pony cross suggest into garden surprise frequent orphan panel wide choose";
+var mnemonic = "grit gaze century rotate item own number shove staff monster nose leopard";

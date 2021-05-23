@@ -1,1 +1,1 @@
-var mnemonic = "amazing jewel feel hour awful lawsuit history snap lounge finish limit crystal";
+var mnemonic = "shop used rent grief agent hawk renew master balance key youth obtain";

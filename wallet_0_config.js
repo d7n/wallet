@@ -1,1 +1,1 @@
-var mnemonic = "city cancel rude camera pass ritual nuclear worry pencil odor achieve bronze";
+var mnemonic = "candy act zero dad country ramp step rely muscle winter reopen enjoy";

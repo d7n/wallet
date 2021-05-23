@@ -1,1 +1,1 @@
-var mnemonic = "any blossom ladder next champion misery metal enemy drive judge cave light";
+var mnemonic = "happy poem into clutch belt chief style dash case demand whip help";

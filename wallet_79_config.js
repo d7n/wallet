@@ -1,1 +1,1 @@
-var mnemonic = "mistake venue effort ladder gravity album ill crew shove pilot topple isolate";
+var mnemonic = "jar mixed ten alley donate slice client pottery will mixed drastic skill";

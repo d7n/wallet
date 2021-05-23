@@ -1,1 +1,1 @@
-var mnemonic = "annual peasant series hover scout throw diamond seed reveal dice hospital bring";
+var mnemonic = "lunar inmate process fatal kiwi piano notice fence pigeon school demise omit";

@@ -1,1 +1,1 @@
-var mnemonic = "subway always item sing awkward hard boss winner symptom ugly runway first";
+var mnemonic = "just wheel stomach scare keen fortune orphan spatial goddess cloud leisure effort";

@@ -1,1 +1,1 @@
-var mnemonic = "purse rhythm sight chuckle behind stem toe smooth develop crop metal pluck";
+var mnemonic = "pet uncle intact grace pole blame owner endorse one average damp caught";

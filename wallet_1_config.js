@@ -1,1 +1,1 @@
-var mnemonic = "chalk health action dash canoe question venture final hope there dog document";
+var mnemonic = "desk weird curtain dolphin discover scare monster pet bachelor remind chef oven";

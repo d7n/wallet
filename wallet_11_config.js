@@ -1,1 +1,1 @@
-var mnemonic = "fame parrot rain castle impulse calm gain quantum noble people dance visual";
+var mnemonic = "tooth expect bullet put depth high creek cart assault card vanish series";

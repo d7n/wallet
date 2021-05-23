@@ -1,1 +1,1 @@
-var mnemonic = "aerobic sign rally lady metal fatal wreck produce gaze execute auction lawn";
+var mnemonic = "title more arctic mouse tuition axis dinosaur warm crowd raccoon false nation";
