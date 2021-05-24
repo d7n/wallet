@@ -1,1 +1,1 @@
-var mnemonic = "suffer ski empower undo such syrup faculty level habit cable venue steel";
+var mnemonic = "obtain there throw pony error minute engage assault list purity rival notable";

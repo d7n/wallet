@@ -1,1 +1,1 @@
-var mnemonic = "swarm assume enter size air future trigger close hamster ball improve assume";
+var mnemonic = "age buffalo scare pass hundred step oak menu tissue salon across wolf";

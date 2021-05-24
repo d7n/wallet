@@ -1,1 +1,1 @@
-var mnemonic = "rain perfect develop purchase dice merit insect scan then ancient carbon cover";
+var mnemonic = "bean anxiety panel wheat sustain parrot clip slide above heart addict antique";

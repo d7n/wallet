@@ -1,1 +1,1 @@
-var mnemonic = "top light dry hybrid couch dinner hammer now daring sad decorate patient";
+var mnemonic = "corn proud interest broken buyer lend pencil fine baby short change local";

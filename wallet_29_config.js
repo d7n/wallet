@@ -1,1 +1,1 @@
-var mnemonic = "bicycle stone ship carpet select coast whisper cherry stairs screen payment school";
+var mnemonic = "sign legal over hint soft review proud midnight utility account already attract";

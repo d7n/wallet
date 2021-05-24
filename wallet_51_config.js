@@ -1,1 +1,1 @@
-var mnemonic = "month smile yellow quality extend candy already jungle flee eagle gain clutch";
+var mnemonic = "farm april never bid energy boost shuffle type success ill letter purity";

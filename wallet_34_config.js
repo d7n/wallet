@@ -1,1 +1,1 @@
-var mnemonic = "around hammer machine silent public denial fuel system enrich hammer buffalo like";
+var mnemonic = "hazard debate certain citizen next slide huge trouble weasel scrub apart sick";

@@ -1,1 +1,1 @@
-var mnemonic = "major worth pelican wife august maze praise blanket yard caution gasp ladder";
+var mnemonic = "art slam excuse shoe diesel crack lecture announce airport bounce purity eternal";

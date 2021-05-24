@@ -1,1 +1,1 @@
-var mnemonic = "electric door portion wash million bounce seek pizza twenty balcony very toss";
+var mnemonic = "ritual video hundred tenant fine piano surface catalog wear skull knife knock";

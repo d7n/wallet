@@ -1,1 +1,1 @@
-var mnemonic = "destroy when scrap total wet during rotate frown snap stereo glory method";
+var mnemonic = "music ill ring volcano series exist game ticket blanket animal position unhappy";

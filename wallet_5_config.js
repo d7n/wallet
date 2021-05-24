@@ -1,1 +1,1 @@
-var mnemonic = "wash jelly brand prosper ask prevent gaze giant remove much stumble magnet";
+var mnemonic = "zebra skate staff concert fiction labor churn mistake solar boy lyrics guard";

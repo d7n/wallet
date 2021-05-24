@@ -1,1 +1,1 @@
-var mnemonic = "card fever icon dream crack agree antique armor marriage pretty fetch field";
+var mnemonic = "gown fence save clutch admit wrist era until cover castle theory girl";

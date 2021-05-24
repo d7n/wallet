@@ -1,1 +1,1 @@
-var mnemonic = "morning outdoor tooth switch network rubber claw muffin promote child various leaf";
+var mnemonic = "pistol myth speed strategy episode badge success kangaroo level merry error real";

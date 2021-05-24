@@ -1,1 +1,1 @@
-var mnemonic = "melt sign sign there theory acid possible update ramp foil helmet cabbage";
+var mnemonic = "initial notable coach enhance nation forest add order increase ability label fame";

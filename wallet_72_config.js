@@ -1,1 +1,1 @@
-var mnemonic = "hurdle awful misery general reform dose shy carpet leopard remain merge grunt";
+var mnemonic = "ski caution left sure open scene foot sudden steel zebra muscle saddle";

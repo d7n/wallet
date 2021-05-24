@@ -1,1 +1,1 @@
-var mnemonic = "dish faith hazard prison pill future mistake solar modify chase hollow venue";
+var mnemonic = "brand describe wire castle kick tumble neither pool inject certain pony solar";

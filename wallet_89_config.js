@@ -1,1 +1,1 @@
-var mnemonic = "amount ecology edit multiply wire tank result lens galaxy property canvas gym";
+var mnemonic = "cluster busy detail airport ability income cattle minimum physical half narrow front";

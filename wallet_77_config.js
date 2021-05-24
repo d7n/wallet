@@ -1,1 +1,1 @@
-var mnemonic = "people shrimp can level outdoor leader fantasy stadium drop silly zebra fringe";
+var mnemonic = "quick area bring grape frequent chronic session happy shed rude brief video";

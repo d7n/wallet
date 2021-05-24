@@ -1,1 +1,1 @@
-var mnemonic = "hint shy concert apart involve meadow breeze infant wrong stadium baby wash";
+var mnemonic = "rice enemy huge announce cactus burst tuition immune where siren hobby orange";

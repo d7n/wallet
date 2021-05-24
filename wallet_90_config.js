@@ -1,1 +1,1 @@
-var mnemonic = "dismiss uncover soup cloth mouse exercise seat zoo believe anchor unknown meadow";
+var mnemonic = "siren illness elephant gift deny victory rate sunny cherry brave yellow foot";

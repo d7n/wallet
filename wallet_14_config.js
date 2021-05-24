@@ -1,1 +1,1 @@
-var mnemonic = "whip despair lock toy skate fury change jealous recipe network top shrug";
+var mnemonic = "ridge submit clown erode wheel notable dawn solution flip slide release okay";

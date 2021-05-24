@@ -1,1 +1,1 @@
-var mnemonic = "broom elevator dumb sell throw enter arm eager cube practice claw figure";
+var mnemonic = "civil borrow net safe rally banana grab lesson enhance heavy yellow practice";

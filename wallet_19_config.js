@@ -1,1 +1,1 @@
-var mnemonic = "peace whip damp claw coin jeans shy device attract happy chaos metal";
+var mnemonic = "salt rude dynamic smart govern team supply discover witness feature broken junk";

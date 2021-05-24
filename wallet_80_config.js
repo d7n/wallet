@@ -1,1 +1,1 @@
-var mnemonic = "curious hunt catch number deal lion drama rude elite talk kid speed";
+var mnemonic = "pupil tower bunker defy lemon order pyramid copper member gorilla call quarter";

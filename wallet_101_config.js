@@ -1,1 +1,1 @@
-var mnemonic = "chest push judge forum coffee clog skull rail bless aerobic injury reveal";
+var mnemonic = "roof tornado smoke stick spirit vivid citizen loan case spray bridge ring";

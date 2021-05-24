@@ -1,1 +1,1 @@
-var mnemonic = "ghost pave tumble just debate old multiply used bracket angry muscle practice";
+var mnemonic = "volcano orange ride exist estate industry library pull session total verb syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "bird mimic shell strong electric swear episode bomb pumpkin return huge garbage";
+var mnemonic = "tunnel work page wheat fork proof rifle lab category kidney roast one";

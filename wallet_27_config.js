@@ -1,1 +1,1 @@
-var mnemonic = "trial actress scare oblige hood shed van pool grant disagree citizen celery";
+var mnemonic = "uniform screen cruise nation hint alert intact cook safe able glad adapt";

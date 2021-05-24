@@ -1,1 +1,1 @@
-var mnemonic = "asthma deputy emotion include inner afford provide federal tool employ energy mixture";
+var mnemonic = "patrol begin art umbrella minimum universe shaft draft balcony convince cliff retire";

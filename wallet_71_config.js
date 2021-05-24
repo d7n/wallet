@@ -1,1 +1,1 @@
-var mnemonic = "fame save piano coffee call wood fog avoid ready myth able cradle";
+var mnemonic = "fire quarter armed real soccer cancel scan negative dentist nature certain image";

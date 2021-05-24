@@ -1,1 +1,1 @@
-var mnemonic = "famous swarm forest combine company fancy marine dutch toy voyage leave visual";
+var mnemonic = "domain dismiss nephew field seed ozone art sport health guide dolphin another";

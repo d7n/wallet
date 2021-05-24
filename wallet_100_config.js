@@ -1,1 +1,1 @@
-var mnemonic = "regular edit great syrup amused dove slide forum stone impact can theme";
+var mnemonic = "live comfort awful express result resemble save fee about pink often ignore";

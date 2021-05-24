@@ -1,1 +1,1 @@
-var mnemonic = "border various gadget ozone vehicle surge vital hub silent clump save shove";
+var mnemonic = "benefit example pet fire hair dizzy gym use giant blush job tomato";

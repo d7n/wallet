@@ -1,1 +1,1 @@
-var mnemonic = "foot erase shuffle bacon sand year carry pole tenant cute sniff travel";
+var mnemonic = "furnace citizen crucial print scatter diary swamp loyal phone share february budget";

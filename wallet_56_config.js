@@ -1,1 +1,1 @@
-var mnemonic = "wink attack obey tone zero powder toast near degree fun fancy success";
+var mnemonic = "crater pass logic make lottery enable venture shock improve party kiwi mistake";

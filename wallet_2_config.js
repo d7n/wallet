@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin radar royal giraffe oblige width subway install list pole stock tuition";
+var mnemonic = "quarter sheriff interest shift close spawn end lion search science high moral";

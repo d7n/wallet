@@ -1,1 +1,1 @@
-var mnemonic = "owner glance color rural famous awful release provide parent arrest tunnel thing";
+var mnemonic = "flag rose engine hello supreme other modify chicken unaware angry omit attitude";

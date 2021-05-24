@@ -1,1 +1,1 @@
-var mnemonic = "bicycle foil slush humor crunch sudden sorry oak initial height hat tray";
+var mnemonic = "mixed carbon guess large wall social short unfold area lesson goat peanut";

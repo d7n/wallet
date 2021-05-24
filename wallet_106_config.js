@@ -1,1 +1,1 @@
-var mnemonic = "relax piece giggle secret problem gold provide valve random fade reward rabbit";
+var mnemonic = "cargo work capable same control exchange pencil raw agree monitor inhale expand";

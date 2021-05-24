@@ -1,1 +1,1 @@
-var mnemonic = "error claw kidney mutual raven carbon inject talent slide verify rookie liberty";
+var mnemonic = "other journey brother common card evidence voyage broccoli blush verb invite office";

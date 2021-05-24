@@ -1,1 +1,1 @@
-var mnemonic = "dawn juice bean tape change tent moment reunion pyramid escape various rely";
+var mnemonic = "cave route mimic jungle thumb exclude boost pitch deer taste will gentle";

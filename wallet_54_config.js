@@ -1,1 +1,1 @@
-var mnemonic = "uniform general trigger major tongue flat cart umbrella detect family response toss";
+var mnemonic = "rice stage rapid guide tip tomorrow net fish stone select smart income";

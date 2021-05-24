@@ -1,1 +1,1 @@
-var mnemonic = "badge jacket loan stamp mention excess donate fantasy melt wish output legend";
+var mnemonic = "way hammer helmet enter journey sustain camera dial cloth deputy true reveal";

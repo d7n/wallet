@@ -1,1 +1,1 @@
-var mnemonic = "dentist alley onion multiply shock orbit grain senior sugar section belt slush";
+var mnemonic = "choose coach frame account rain planet doctor small essence typical puzzle peanut";

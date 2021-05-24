@@ -1,1 +1,1 @@
-var mnemonic = "boy muffin tennis fan song parade base mouse over badge absorb artefact";
+var mnemonic = "city cable kiss rate work park certain juice electric wrestle human silly";

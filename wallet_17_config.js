@@ -1,1 +1,1 @@
-var mnemonic = "code know pole bamboo march lawn initial page image oblige square loud";
+var mnemonic = "cabbage weird hurry country climb horse radio soft cycle bench beef fit";

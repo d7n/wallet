@@ -1,1 +1,1 @@
-var mnemonic = "bottom enact bar jewel snake door first net music alpha benefit beyond";
+var mnemonic = "train deposit actual shell own casual feel suffer someone risk hundred street";

@@ -1,1 +1,1 @@
-var mnemonic = "milk next expand monster aunt wall morning call dragon angry stool planet";
+var mnemonic = "pole enough major grow rent general twelve any purity assault heart scare";

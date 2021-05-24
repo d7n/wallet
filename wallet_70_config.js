@@ -1,1 +1,1 @@
-var mnemonic = "they sibling dumb tank legal dumb mountain whale aspect charge giant price";
+var mnemonic = "surprise hire alien now egg notice addict gate item food detect canyon";

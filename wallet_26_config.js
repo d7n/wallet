@@ -1,1 +1,1 @@
-var mnemonic = "brush vote hard wheel modify process nothing total surge wife kitchen blanket";
+var mnemonic = "knife frame joke song general panther fly high escape guard online hamster";

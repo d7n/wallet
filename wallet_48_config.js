@@ -1,1 +1,1 @@
-var mnemonic = "empower chaos please deputy grab erupt envelope soul desert patch alcohol vocal";
+var mnemonic = "crash wise piece art lizard have loan below manual page confirm promote";

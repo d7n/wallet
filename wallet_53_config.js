@@ -1,1 +1,1 @@
-var mnemonic = "mistake exchange attract coin plunge paddle army future brother oyster trouble pelican";
+var mnemonic = "drive describe raise mesh next copper draft cliff multiply blood local catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "fork sibling climb dinosaur venture drift canvas pizza slogan weird drive universe";
+var mnemonic = "general enroll atom slice valve price mushroom lottery dream lawn crush income";

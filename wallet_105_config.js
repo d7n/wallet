@@ -1,1 +1,1 @@
-var mnemonic = "reduce hundred carbon vacuum trade subway lock calm mutual idea typical trumpet";
+var mnemonic = "stuff steel either adapt romance goddess nut argue sample jacket diary define";

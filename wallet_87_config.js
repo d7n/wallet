@@ -1,1 +1,1 @@
-var mnemonic = "region access finger organ can inch song claw chase lava slam route";
+var mnemonic = "cost assume field guard power model say lobster fork quick cake bird";

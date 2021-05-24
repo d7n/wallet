@@ -1,1 +1,1 @@
-var mnemonic = "flame fashion glove usual monitor sketch pyramid unhappy ghost tide twist ethics";
+var mnemonic = "autumn energy jar acquire either desert practice lava venture blame original sentence";

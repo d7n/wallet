@@ -1,1 +1,1 @@
-var mnemonic = "virtual owner sort bomb man truly virus mimic orchard song idle nurse";
+var mnemonic = "shell ginger salon wet response detail echo clump morning fatal evolve lyrics";

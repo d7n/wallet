@@ -1,1 +1,1 @@
-var mnemonic = "choose fly shoot jazz excite correct fun punch sleep return pulse web";
+var mnemonic = "romance involve social fall taste garlic actor draw ranch shaft enter silly";

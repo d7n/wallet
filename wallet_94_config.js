@@ -1,1 +1,1 @@
-var mnemonic = "obey trash system innocent window curtain trip kit home bounce cactus trap";
+var mnemonic = "jump later sugar open canyon else quality noble rigid prosper loud noise";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella creek drink program crane shuffle gap sail avoid negative garment ball";
+var mnemonic = "curve delay hill gather razor chalk title false desk eye mouse lamp";

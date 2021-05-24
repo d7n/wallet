@@ -1,1 +1,1 @@
-var mnemonic = "meat ocean issue virtual stuff among agent agree connect clown stumble umbrella";
+var mnemonic = "caution vessel replace effort naive quit mandate breeze good luggage stay run";

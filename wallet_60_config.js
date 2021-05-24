@@ -1,1 +1,1 @@
-var mnemonic = "spider tower color skill coil hobby ritual stable inhale lyrics render gap";
+var mnemonic = "target home diagram slice odor sort raven gather orbit depth fury pulse";

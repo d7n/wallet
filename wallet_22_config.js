@@ -1,1 +1,1 @@
-var mnemonic = "moral curtain loyal chapter extra silk spoil bundle loud orient cigar interest";
+var mnemonic = "double unit drive hope cluster century artwork youth size hire assault result";

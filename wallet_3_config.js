@@ -1,1 +1,1 @@
-var mnemonic = "popular choice artist keep social sad despair pair base ordinary remember wolf";
+var mnemonic = "chair gorilla awesome water gasp clown level stove bring patch cruel draft";

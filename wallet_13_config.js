@@ -1,1 +1,1 @@
-var mnemonic = "cart coil frozen mimic vibrant clay tired young provide hero swallow verify";
+var mnemonic = "observe dwarf student negative ridge bottom install share record magnet sad bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant amount visit record street script holiday hood cover book swamp blood";
+var mnemonic = "access fancy example pulse refuse essence fabric wheat six manage clutch prefer";

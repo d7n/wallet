@@ -1,1 +1,1 @@
-var mnemonic = "reunion banner cable equip anger wedding adult step arrange galaxy blue gold";
+var mnemonic = "divert actual payment habit ranch pen crop arrest have under project announce";

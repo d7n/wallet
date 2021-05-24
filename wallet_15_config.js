@@ -1,1 +1,1 @@
-var mnemonic = "broken order barrel sight gun false pig recall decline feel captain coconut";
+var mnemonic = "salute scan pond pyramid mule wire comic harsh shoe indicate venue away";

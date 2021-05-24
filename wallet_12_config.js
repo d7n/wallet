@@ -1,1 +1,1 @@
-var mnemonic = "meat cycle loan banner level canal genre lemon claw join surface paper";
+var mnemonic = "congress rifle suit jacket assault machine deliver sausage rather arm cloud symptom";

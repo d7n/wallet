@@ -1,1 +1,1 @@
-var mnemonic = "diagram lawsuit coral glare solution leaf recipe fashion empower wheat fruit toward";
+var mnemonic = "movie fox safe monkey athlete delay border mansion crater pistol enemy tone";

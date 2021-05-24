@@ -1,1 +1,1 @@
-var mnemonic = "aisle high fade sight year side split couple alien tape jaguar attitude";
+var mnemonic = "million apology pulse soon main total plastic skill top floor afford also";

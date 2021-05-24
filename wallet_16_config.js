@@ -1,1 +1,1 @@
-var mnemonic = "yard angle visit amazing liar also sell turtle noodle wait thrive defy";
+var mnemonic = "plug toe ticket milk alone purpose fade knife common logic dumb oven";

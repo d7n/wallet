@@ -1,1 +1,1 @@
-var mnemonic = "disorder dress arm switch solve doctor egg evolve expose senior issue will";
+var mnemonic = "beauty verify surround delay bottom drama emerge smoke avocado main legend wise";

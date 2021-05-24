@@ -1,1 +1,1 @@
-var mnemonic = "planet dilemma bulb enjoy alcohol hundred letter stamp bounce cruel runway donate";
+var mnemonic = "travel empower helmet inject shoulder tomato leisure pulse face pudding detect excuse";

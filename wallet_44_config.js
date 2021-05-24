@@ -1,1 +1,1 @@
-var mnemonic = "chronic rare indoor bargain often disagree swear syrup promote case cart win";
+var mnemonic = "hidden drum kid human window spice fish zebra spatial just repeat mammal";

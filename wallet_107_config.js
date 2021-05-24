@@ -1,1 +1,1 @@
-var mnemonic = "expose party phone valley aware brick boss vague weasel element flip dance";
+var mnemonic = "wink witness van motion quote wave chimney match quantum pear depart year";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal frame garden journey age regular share peace festival report decade cancel";
+var mnemonic = "follow rocket test jaguar unusual elephant process ready critic dog kiwi laundry";

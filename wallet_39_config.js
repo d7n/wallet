@@ -1,1 +1,1 @@
-var mnemonic = "relief sand sea near jealous canoe pepper excuse group cruise digital stay";
+var mnemonic = "color other wagon garage melody enjoy shoulder trim boring glory gate naive";

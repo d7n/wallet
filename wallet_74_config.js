@@ -1,1 +1,1 @@
-var mnemonic = "jewel machine cricket quality tilt weekend zebra total brain zero junior cream";
+var mnemonic = "unveil submit debate unlock hungry one pigeon syrup kiss fire hold swarm";

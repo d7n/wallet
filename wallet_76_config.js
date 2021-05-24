@@ -1,1 +1,1 @@
-var mnemonic = "dentist smooth element hospital hazard pepper split eyebrow peanut web exhibit winner";
+var mnemonic = "rapid left manual embark burst cushion digital girl spawn version alarm mass";

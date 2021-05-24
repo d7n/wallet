@@ -1,1 +1,1 @@
-var mnemonic = "solution paddle inquiry asthma snake lottery network flower recycle river option rapid";
+var mnemonic = "mesh render unhappy stock planet have erase cement million already destroy bamboo";

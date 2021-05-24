@@ -1,1 +1,1 @@
-var mnemonic = "remember eager draw satisfy manual beauty bracket trip hurry cook despair gate";
+var mnemonic = "impulse fire mix mansion upgrade kind grief ecology wonder pink web spray";

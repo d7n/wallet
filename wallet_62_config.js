@@ -1,1 +1,1 @@
-var mnemonic = "approve joy napkin comfort battle danger edge mother inject food work impact";
+var mnemonic = "scrub stone inform range select tone rate bounce engage stumble must because";

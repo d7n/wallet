@@ -1,1 +1,1 @@
-var mnemonic = "asthma input develop can sweet agree mystery old outside divorce word network";
+var mnemonic = "canoe choose blood old right bridge excite miss usage item tank immense";
