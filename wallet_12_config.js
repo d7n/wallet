@@ -1,1 +1,1 @@
-var mnemonic = "east leave motor combine velvet also method final oil olympic extra vehicle";
+var mnemonic = "twin drama burst alone renew attitude multiply draw charge bless skin average";

@@ -1,1 +1,1 @@
-var mnemonic = "pact tilt dose void spy beach always install wrist peasant wet over";
+var mnemonic = "disorder nuclear around million flip until erupt danger element engage regret popular";

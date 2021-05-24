@@ -1,1 +1,1 @@
-var mnemonic = "blue junk oppose click laptop fix around imitate fork bitter green grace";
+var mnemonic = "soap corn blast weapon beauty evoke stem fan escape bronze few nest";

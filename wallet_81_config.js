@@ -1,1 +1,1 @@
-var mnemonic = "hawk heart lunch comfort crazy apology predict square gallery view actor uncle";
+var mnemonic = "scale result drama oblige excuse spin scrap pulp april border effort enable";

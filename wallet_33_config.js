@@ -1,1 +1,1 @@
-var mnemonic = "source lend antique kiwi vintage cereal remove replace gather off stage tip";
+var mnemonic = "south raise enemy upgrade taxi magnet kangaroo carpet remove library document purpose";

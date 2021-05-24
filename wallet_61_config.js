@@ -1,1 +1,1 @@
-var mnemonic = "power island winner fruit actor soap gadget write museum actor history run";
+var mnemonic = "rapid welcome shop inspire bag timber shadow mango mango chunk demand latin";

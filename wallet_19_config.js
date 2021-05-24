@@ -1,1 +1,1 @@
-var mnemonic = "shuffle mandate short chronic brass ketchup empty flower staff soldier radio shaft";
+var mnemonic = "basic diet office minor fashion poet trend bachelor doctor desert believe loop";

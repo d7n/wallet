@@ -1,1 +1,1 @@
-var mnemonic = "strike shove crush purity what hawk film boat repeat chair imitate dad";
+var mnemonic = "roof million there museum drum setup extend small inspire dismiss salmon also";

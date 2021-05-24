@@ -1,1 +1,1 @@
-var mnemonic = "sphere okay helmet sunny slow shoot update thrive double onion seed wise";
+var mnemonic = "claim wasp wonder elbow manage interest man orbit pill degree test fabric";

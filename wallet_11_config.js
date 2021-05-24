@@ -1,1 +1,1 @@
-var mnemonic = "text message just work tell mention enjoy clip poet injury attract expect";
+var mnemonic = "canal gospel knee margin sauce wait pair joy truly van scrap animal";

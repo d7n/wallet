@@ -1,1 +1,1 @@
-var mnemonic = "drive trigger orange rice wing search weird half daring member cave cart";
+var mnemonic = "rack lend weekend tobacco candy awesome grape lucky issue pen ceiling clay";

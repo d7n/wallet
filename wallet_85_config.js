@@ -1,1 +1,1 @@
-var mnemonic = "account face enlist raccoon truck pave card dust mercy beyond search fatal";
+var mnemonic = "color machine huge blossom discover skin poverty hip state clever valve dress";

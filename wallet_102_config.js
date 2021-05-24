@@ -1,1 +1,1 @@
-var mnemonic = "pepper action super castle hidden victory print boil sketch festival cruel side";
+var mnemonic = "chuckle globe rich wish neglect subway margin excess duty assist peace double";

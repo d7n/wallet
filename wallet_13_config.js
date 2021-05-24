@@ -1,1 +1,1 @@
-var mnemonic = "box sister just dwarf adjust pudding side planet attitude mammal title ketchup";
+var mnemonic = "fine soap federal pen crawl easy donate into desert jewel rocket suggest";

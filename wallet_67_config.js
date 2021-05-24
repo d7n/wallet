@@ -1,1 +1,1 @@
-var mnemonic = "denial sudden home answer slender bleak bomb conduct dirt opera loud nothing";
+var mnemonic = "quarter must jelly license discover west genuine thing utility two salute breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid wise give dirt hotel avocado speak april bottom alter predict wish";
+var mnemonic = "effort say grape elegant frequent recall asset aware knife horror immense umbrella";

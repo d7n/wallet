@@ -1,1 +1,1 @@
-var mnemonic = "shield about identify panda turn laugh mistake warfare advice excite cereal plunge";
+var mnemonic = "accident boss crane glow assume ginger rifle name inquiry setup blast guide";

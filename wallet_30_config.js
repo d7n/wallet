@@ -1,1 +1,1 @@
-var mnemonic = "bean arm napkin breeze shaft subject small lucky urban fee ivory letter";
+var mnemonic = "meat belt nothing pumpkin fade radio name solar arrive identify minute useful";

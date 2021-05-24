@@ -1,1 +1,1 @@
-var mnemonic = "nothing dumb fly mountain wear nominee announce lawn dog negative worry sword";
+var mnemonic = "uniform supply lunar paper prize mouse reject churn cradle category nature myself";

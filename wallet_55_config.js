@@ -1,1 +1,1 @@
-var mnemonic = "turkey toilet climb celery hawk shuffle chronic sketch victory legend jaguar slim";
+var mnemonic = "idle nature odor exhibit auto scorpion lucky basket alley exile crash limit";

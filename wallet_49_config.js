@@ -1,1 +1,1 @@
-var mnemonic = "trigger sand purse this color divorce infant bulk fence poet resist initial";
+var mnemonic = "critic dash cattle invest beauty dwarf spoil gold near slow smoke egg";

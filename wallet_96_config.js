@@ -1,1 +1,1 @@
-var mnemonic = "hurry attack symbol female very skull analyst problem unknown spoil convince cable";
+var mnemonic = "shrimp dwarf catch disorder ceiling isolate depart coil wisdom visual buyer family";

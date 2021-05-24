@@ -1,1 +1,1 @@
-var mnemonic = "drink bean december mirror ensure actress impulse ethics run jazz dutch gentle";
+var mnemonic = "crisp dentist draw bubble air robust measure interest brain focus runway off";

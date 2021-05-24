@@ -1,1 +1,1 @@
-var mnemonic = "reduce skill vast endorse add abstract ocean check budget install snap gate";
+var mnemonic = "subway doll occur purse subject blush save portion large uncle satisfy shove";

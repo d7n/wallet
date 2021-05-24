@@ -1,1 +1,1 @@
-var mnemonic = "taxi tenant monitor loud another chief cover vivid allow nerve curtain myth";
+var mnemonic = "employ symbol radar spot cable adult clay lemon copper bone vendor theory";

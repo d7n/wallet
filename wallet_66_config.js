@@ -1,1 +1,1 @@
-var mnemonic = "decrease situate excess core infant account type creek pave jungle nature iron";
+var mnemonic = "nut robust metal reunion easily crane veteran tuition race exhibit loop robot";

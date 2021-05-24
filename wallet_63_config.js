@@ -1,1 +1,1 @@
-var mnemonic = "ghost rapid fee north speed shallow wage swamp wish hospital bulb cannon";
+var mnemonic = "dilemma wash exit boring patch remember people left song combine cruel carbon";

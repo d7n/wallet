@@ -1,1 +1,1 @@
-var mnemonic = "great craft humble ski noble leaf abuse over nut mosquito click rotate";
+var mnemonic = "real donor convince winter ridge photo code curve total fame aim shy";

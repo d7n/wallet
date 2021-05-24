@@ -1,1 +1,1 @@
-var mnemonic = "cool pill stamp hero address crunch winner spoon scare case toe front";
+var mnemonic = "jacket jungle success gym matrix minute save army alien region write load";

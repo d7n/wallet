@@ -1,1 +1,1 @@
-var mnemonic = "grace shadow replace miss tenant embark vague cage love melody play help";
+var mnemonic = "hospital snow song phrase corn trial play below comic apology economy thunder";

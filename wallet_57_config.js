@@ -1,1 +1,1 @@
-var mnemonic = "slush engage inmate steel north helmet sibling retire series camera ocean alpha";
+var mnemonic = "midnight illness indicate mass ozone debris toast resemble color spare ethics focus";

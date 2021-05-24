@@ -1,1 +1,1 @@
-var mnemonic = "grain chicken brown zebra shadow permit dinner nose under knee reveal dose";
+var mnemonic = "afraid method topple pig apple dizzy announce better ranch biology finish divide";

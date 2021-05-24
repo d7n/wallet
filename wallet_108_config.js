@@ -1,1 +1,1 @@
-var mnemonic = "fabric copper gospel only favorite execute hope stone shaft gift armed age";
+var mnemonic = "hybrid index grid direct jacket toilet ride physical naive delay fantasy uncover";

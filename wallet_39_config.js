@@ -1,1 +1,1 @@
-var mnemonic = "giraffe enlist strike leisure lake yellow fluid protect domain peace grief mixed";
+var mnemonic = "actress invest pony output broken liar plastic oyster deputy demand extend alarm";

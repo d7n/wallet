@@ -1,1 +1,1 @@
-var mnemonic = "punch weather author kangaroo thing blame figure fabric tonight horn can gown";
+var mnemonic = "knife arena frown magic merit pretty ugly radio pond lunch tissue sense";

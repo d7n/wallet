@@ -1,1 +1,1 @@
-var mnemonic = "concert bulb make unhappy connect beyond easy dinner super silly height fun";
+var mnemonic = "farm nature bracket layer crawl maximum describe kiss glide melody apart exhibit";

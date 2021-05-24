@@ -1,1 +1,1 @@
-var mnemonic = "since book supply wagon jungle shadow olympic inherit round program electric artefact";
+var mnemonic = "resist wrist control space pepper lecture glove exact fix behave whisper clinic";

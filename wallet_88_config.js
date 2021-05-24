@@ -1,1 +1,1 @@
-var mnemonic = "thumb still outer people resist few voice episode error soda desert draw";
+var mnemonic = "fade perfect hint recycle essay runway again between mountain behave summer horn";

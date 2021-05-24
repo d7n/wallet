@@ -1,1 +1,1 @@
-var mnemonic = "time view trip purpose dilemma slide document dwarf symbol frame organ spray";
+var mnemonic = "online lift dove flavor talk hobby know group smoke that profit boss";

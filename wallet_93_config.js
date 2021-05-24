@@ -1,1 +1,1 @@
-var mnemonic = "town connect sphere rural drift soldier mixed green two ripple deal aware";
+var mnemonic = "earn pill dash coast daring insect use brass order alert monster narrow";

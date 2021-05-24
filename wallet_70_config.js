@@ -1,1 +1,1 @@
-var mnemonic = "member nuclear capable area liberty antique flip oblige phone above review tip";
+var mnemonic = "apart swear twelve muffin cruise nephew fetch host wealth comfort weekend midnight";

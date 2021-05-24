@@ -1,1 +1,1 @@
-var mnemonic = "marine impact tomorrow hero impose stumble garment ivory demand capable error clinic";
+var mnemonic = "infant bar sibling obscure orient glow attract nation cup build police limb";

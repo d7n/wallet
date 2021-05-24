@@ -1,1 +1,1 @@
-var mnemonic = "pelican bacon sponsor maple blush this leader budget exchange acid initial leisure";
+var mnemonic = "shrimp rule praise make toddler come outdoor old tail sea thought genius";

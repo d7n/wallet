@@ -1,1 +1,1 @@
-var mnemonic = "alone explain close valve friend misery badge comfort opera jar reunion thing";
+var mnemonic = "train misery salmon ability myth copper expect lottery lens tattoo broken cruise";

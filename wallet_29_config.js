@@ -1,1 +1,1 @@
-var mnemonic = "luggage equip cloud advice minute neglect extra cricket gate box home age";
+var mnemonic = "cannon bubble rebel aunt leader similar spatial hybrid slim month violin immense";

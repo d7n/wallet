@@ -1,1 +1,1 @@
-var mnemonic = "rookie name doctor call gentle sudden alert stem giraffe diesel innocent choose";
+var mnemonic = "just dice spirit river device this garage stairs either brand raw frown";

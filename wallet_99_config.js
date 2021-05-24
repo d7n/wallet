@@ -1,1 +1,1 @@
-var mnemonic = "achieve tunnel you gallery balance indicate tent meat wedding fun tobacco hat";
+var mnemonic = "milk stuff fossil syrup solar vapor ten inquiry wire eagle judge prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "banana fossil grid sound bomb memory vapor health bitter meat borrow dragon";
+var mnemonic = "meadow female shallow source energy almost unfold when sail history image cable";

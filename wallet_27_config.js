@@ -1,1 +1,1 @@
-var mnemonic = "satisfy equal equal easy atom beef luxury deal satoshi write sausage suffer";
+var mnemonic = "violin begin worry tape problem woman mule quarter turn strong render penalty";

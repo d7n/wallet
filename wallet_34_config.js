@@ -1,1 +1,1 @@
-var mnemonic = "punch cattle mushroom ridge cloud age brave double wrong flat charge rocket";
+var mnemonic = "matter address knock produce giant rather bless remind call awake leg city";

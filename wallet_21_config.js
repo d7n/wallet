@@ -1,1 +1,1 @@
-var mnemonic = "vote inspire drop razor reveal fade forest quarter update document alone trend";
+var mnemonic = "credit claim consider kingdom aspect goat orchard foil blast awful office trigger";

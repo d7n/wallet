@@ -1,1 +1,1 @@
-var mnemonic = "dirt rescue bunker diary erosion grab draft damp peanut sheriff into sustain";
+var mnemonic = "egg best impose mean dutch pyramid hollow flock noise buffalo execute exit";

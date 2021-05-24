@@ -1,1 +1,1 @@
-var mnemonic = "random age relax border sign rice twice actor track awful beach science";
+var mnemonic = "coast cluster clerk umbrella swift stool alter champion engage vivid method disease";

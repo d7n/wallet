@@ -1,1 +1,1 @@
-var mnemonic = "like inside expose rail special kind mechanic stick inflict response novel dragon";
+var mnemonic = "burden bulb multiply true light army butter depth bundle sauce calm inner";

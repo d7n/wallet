@@ -1,1 +1,1 @@
-var mnemonic = "spider myself loop gate pony cargo mother spice river only memory large";
+var mnemonic = "around good genius catalog media opinion bird help educate punch cry slot";

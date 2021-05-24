@@ -1,1 +1,1 @@
-var mnemonic = "digital alert open burst grocery become path nominee economy monster priority edit";
+var mnemonic = "parrot space achieve session never swift mushroom impose naive crawl snap snow";

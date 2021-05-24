@@ -1,1 +1,1 @@
-var mnemonic = "wealth dose monkey icon calm basket solar tail ethics argue banana energy";
+var mnemonic = "two tree present envelope verify rib boat attract chunk correct album there";

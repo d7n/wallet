@@ -1,1 +1,1 @@
-var mnemonic = "hurt input excuse neck ivory innocent race turkey inner couple summer salt";
+var mnemonic = "nerve unusual party famous indicate mail scrap act aerobic teach few lucky";

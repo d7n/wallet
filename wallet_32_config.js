@@ -1,1 +1,1 @@
-var mnemonic = "auto add acoustic rule public cage magnet demise error floor client love";
+var mnemonic = "polar prefer crash wrong room cram raw debris truth upon fantasy inform";

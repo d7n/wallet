@@ -1,1 +1,1 @@
-var mnemonic = "deliver before wet cruel bullet unfold card lumber blanket okay midnight edit";
+var mnemonic = "tongue student law virtual bachelor eager grid trouble nest monkey success kit";

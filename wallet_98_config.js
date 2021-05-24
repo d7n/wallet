@@ -1,1 +1,1 @@
-var mnemonic = "dress despair hover cat citizen acid public meat behave garment debris divide";
+var mnemonic = "soft custom pulp negative scare film rare gorilla exercise creek shed member";

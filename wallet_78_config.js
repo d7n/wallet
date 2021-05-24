@@ -1,1 +1,1 @@
-var mnemonic = "yellow glue spider kite ginger damp artefact soup garlic faith noodle possible";
+var mnemonic = "reduce paper close entire initial category push green also plate educate trip";

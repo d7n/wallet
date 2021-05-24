@@ -1,1 +1,1 @@
-var mnemonic = "exchange regret erupt arrow price damage comfort two beauty liberty parent work";
+var mnemonic = "vivid police welcome federal neutral hand permit upset pyramid belt volume captain";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos canoe fatigue patrol satisfy doll ancient retire improve situate divide appear";
+var mnemonic = "side high crew priority never sign unique confirm humble dilemma slim egg";

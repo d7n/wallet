@@ -1,1 +1,1 @@
-var mnemonic = "mask harbor liberty vapor silly edit ring legal stumble tip boy success";
+var mnemonic = "infant erase leader error wrap blast thank quarter coast remain reason pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "express forward error oxygen spike slush ecology traffic catch ready surge top";
+var mnemonic = "marriage motor animal depend mother also tape sleep someone field chuckle another";

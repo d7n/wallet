@@ -1,1 +1,1 @@
-var mnemonic = "trophy shine harsh mixture step eagle identify welcome tomato today execute gauge";
+var mnemonic = "edit bunker calm split embrace hour satisfy island differ worry drink there";

@@ -1,1 +1,1 @@
-var mnemonic = "chef hub toss giant speed kit ignore cannon impact world learn embody";
+var mnemonic = "board umbrella electric indoor gap cheese guitar walk wink unfair allow envelope";

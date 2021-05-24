@@ -1,1 +1,1 @@
-var mnemonic = "heart fabric spider inmate pink icon peanut elevator sniff normal blossom give";
+var mnemonic = "mystery like hood summer add mixed kite few youth hire toward hood";

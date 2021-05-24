@@ -1,1 +1,1 @@
-var mnemonic = "stick shock bicycle enjoy leg believe tenant check clump onion true upon";
+var mnemonic = "head custom expect common recycle prosper travel more luggage start corn tray";

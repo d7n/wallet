@@ -1,1 +1,1 @@
-var mnemonic = "pelican fresh elbow robot lamp better donkey sadness inhale talk thing dinosaur";
+var mnemonic = "item chef end blind candy small artefact rigid brush load never skull";

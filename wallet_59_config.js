@@ -1,1 +1,1 @@
-var mnemonic = "remove always olympic arena intact promote bubble chicken type leader dismiss model";
+var mnemonic = "enough draw spot exhibit sister rib fury surround wasp bottom twice talent";

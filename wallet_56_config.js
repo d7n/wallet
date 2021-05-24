@@ -1,1 +1,1 @@
-var mnemonic = "blanket danger cube price dinner gossip wasp maze gift egg alcohol gadget";
+var mnemonic = "frame car brown doll grab wash term hood slow heavy water weekend";

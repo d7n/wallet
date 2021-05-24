@@ -1,1 +1,1 @@
-var mnemonic = "cross enough volume clarify blast cart chimney success tackle floor wet stadium";
+var mnemonic = "seven wisdom label small amount recipe dirt general critic theory utility local";

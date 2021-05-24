@@ -1,1 +1,1 @@
-var mnemonic = "payment first wrist tonight bright siege verify fiber phone control concert chuckle";
+var mnemonic = "mansion kiss arch aunt black human pigeon final motion brother pepper job";

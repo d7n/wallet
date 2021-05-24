@@ -1,1 +1,1 @@
-var mnemonic = "column into chest wreck ensure intact rebel erupt strong sleep journey opera";
+var mnemonic = "blast cloud expire menu poem effort swarm supply bacon wrong stove head";

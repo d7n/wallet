@@ -1,1 +1,1 @@
-var mnemonic = "home isolate august gossip bench promote pigeon panic small output link gentle";
+var mnemonic = "clerk select text erode fluid that turtle remove this brother crater basket";

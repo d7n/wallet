@@ -1,1 +1,1 @@
-var mnemonic = "sense monkey eye swift scatter during giant zero goose spoon digital gadget";
+var mnemonic = "help hammer all order tent path cruel another brain invite hat illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "link already utility galaxy thunder soap car pepper future close prize border";
+var mnemonic = "casual noodle voice dilemma humble process text canal cute border normal better";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit broom patch fatigue harbor become multiply praise bless main pelican nice";
+var mnemonic = "plunge burger biology woman salt pledge sail squirrel dry uncle memory purchase";

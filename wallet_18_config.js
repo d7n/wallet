@@ -1,1 +1,1 @@
-var mnemonic = "burden repeat firm public produce wish tilt brain shuffle whip crowd runway";
+var mnemonic = "dizzy medal prepare green giggle bicycle claim resemble narrow father vocal adult";

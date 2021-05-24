@@ -1,1 +1,1 @@
-var mnemonic = "olive social list road gallery bonus slender idea drift dinosaur snack valid";
+var mnemonic = "zero analyst answer need lab maximum patch tobacco happy gadget able blush";

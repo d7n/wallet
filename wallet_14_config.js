@@ -1,1 +1,1 @@
-var mnemonic = "before sorry much write also afraid afford slim zero permit involve salon";
+var mnemonic = "describe ranch capable wire link loud unit pumpkin domain tortoise mammal impose";

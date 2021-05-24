@@ -1,1 +1,1 @@
-var mnemonic = "balance high return hollow silk casual long negative nerve dismiss merit rubber";
+var mnemonic = "steel tent protect ethics blade property cousin cargo benefit kiss uphold inch";

@@ -1,1 +1,1 @@
-var mnemonic = "else blue usual latin ridge discover trap cost flight economy sample above";
+var mnemonic = "ladder parent risk opinion capable give glass glory canvas execute fitness square";

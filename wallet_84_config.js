@@ -1,1 +1,1 @@
-var mnemonic = "strategy crawl tunnel later exercise else elbow umbrella artwork swim river flag";
+var mnemonic = "body tiny poet limit grass wash memory deliver firm mad sun apple";

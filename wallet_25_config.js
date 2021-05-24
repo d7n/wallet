@@ -1,1 +1,1 @@
-var mnemonic = "also inform multiply glue canoe pitch much air near that soldier milk";
+var mnemonic = "mask rubber acid heart absent walnut around general bronze wrap rent hard";

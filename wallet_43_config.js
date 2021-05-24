@@ -1,1 +1,1 @@
-var mnemonic = "point inject goose team wage region rough ball edge knock catch bag";
+var mnemonic = "ritual quote pass baby deer laundry margin maze upset soul dentist hood";

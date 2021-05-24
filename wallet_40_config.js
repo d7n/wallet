@@ -1,1 +1,1 @@
-var mnemonic = "layer apology remember sugar shoot busy cross bullet twelve ahead walk emerge";
+var mnemonic = "damage fresh sure chunk age recipe alter curve rival reform coral cactus";

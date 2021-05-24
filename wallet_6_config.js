@@ -1,1 +1,1 @@
-var mnemonic = "theme road main text shy carry raise fluid oyster sponsor today smooth";
+var mnemonic = "direct then old medal train truck web dance lunar pulse bag card";

@@ -1,1 +1,1 @@
-var mnemonic = "scan trash crew rigid initial royal result potato loyal ticket unknown pool";
+var mnemonic = "outside rule accident luggage bargain powder focus wife mosquito kingdom exclude cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "swift equal ginger stool twenty melody turkey head misery diary age click";
+var mnemonic = "bus detect pond health later hat exchange half pole benefit load stone";

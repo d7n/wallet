@@ -1,1 +1,1 @@
-var mnemonic = "salad divide weapon quote hip lens alter regret cannon crop run exact";
+var mnemonic = "couple alert fee liberty corn select congress tent slim three negative canal";

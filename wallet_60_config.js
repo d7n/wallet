@@ -1,1 +1,1 @@
-var mnemonic = "crawl ball noodle provide auto traffic slide grain cry sausage enact cigar";
+var mnemonic = "arrange admit night pistol trumpet taxi defense guitar element flee click diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "donor survey used autumn flight live panda little improve start trial attack";
+var mnemonic = "bottom stereo weapon seed dumb fitness pen voyage strong sing wish tornado";
