@@ -1,1 +1,1 @@
-var mnemonic = "cloud fashion just debate eternal sail slush flag trouble divorce true exclude";
+var mnemonic = "onion shove dizzy quality move buyer oblige before auto stem lava despair";

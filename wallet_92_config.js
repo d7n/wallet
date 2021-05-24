@@ -1,1 +1,1 @@
-var mnemonic = "friend always fit rookie diagram dumb visa inch require pilot oven reason";
+var mnemonic = "below helmet subject usage mixed filter blood verb shadow burden index holiday";

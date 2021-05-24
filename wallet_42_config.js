@@ -1,1 +1,1 @@
-var mnemonic = "where extend until nerve goose twice cabin force prize essence accident song";
+var mnemonic = "crush cement picnic oven orbit universe purchase notice corn round genius review";

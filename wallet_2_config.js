@@ -1,1 +1,1 @@
-var mnemonic = "major affair anchor demand siege detail soap voyage rebuild nut good agent";
+var mnemonic = "twin false can bundle garage test drop jaguar cat merry segment solar";

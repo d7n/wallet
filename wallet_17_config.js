@@ -1,1 +1,1 @@
-var mnemonic = "lucky spice hawk vital acquire pitch item keen require adapt manual better";
+var mnemonic = "mother uniform super stamp police suit price pear cigar head leaf seat";

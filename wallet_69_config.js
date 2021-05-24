@@ -1,1 +1,1 @@
-var mnemonic = "speak hen border curious treat nasty buddy crash weekend symptom sail rookie";
+var mnemonic = "alert omit sort ski youth people absent wage budget inspire inner quantum";

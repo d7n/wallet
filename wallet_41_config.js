@@ -1,1 +1,1 @@
-var mnemonic = "travel hobby ginger initial buzz elevator devote trim dial wish normal second";
+var mnemonic = "crush thing must topple tray hawk liquid toss guitar casual limit detect";

@@ -1,1 +1,1 @@
-var mnemonic = "govern olive system sand cook raw brick peace bright ordinary where useful";
+var mnemonic = "common gesture below advice much iron robust once flame dad angry doll";

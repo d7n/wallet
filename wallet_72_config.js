@@ -1,1 +1,1 @@
-var mnemonic = "manage slow joy dwarf wasp hybrid harsh myth estate alcohol song square";
+var mnemonic = "machine unaware volume engage cry spare art brother total play again one";

@@ -1,1 +1,1 @@
-var mnemonic = "trim replace same bind rubber hub sick mistake float icon lake town";
+var mnemonic = "atom spirit diamond never tongue tiger lizard dinner service result when rapid";

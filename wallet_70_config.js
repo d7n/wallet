@@ -1,1 +1,1 @@
-var mnemonic = "member potato logic energy noodle share craft furnace exercise romance core voyage";
+var mnemonic = "museum junk floor acquire federal math client pause income broom wealth finish";

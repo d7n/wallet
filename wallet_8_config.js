@@ -1,1 +1,1 @@
-var mnemonic = "carpet belt library envelope warrior busy jar mask foam media wisdom fade";
+var mnemonic = "shed scrap advice hidden spend animal travel abstract hold actual front sunny";

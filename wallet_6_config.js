@@ -1,1 +1,1 @@
-var mnemonic = "zero royal they source creek ginger antique usual fiber visit eyebrow dove";
+var mnemonic = "cigar old cherry lizard pink diamond valid curtain improve dragon axis document";

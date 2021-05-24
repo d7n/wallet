@@ -1,1 +1,1 @@
-var mnemonic = "task avoid travel camp circle rice glow keep hole accuse nation lamp";
+var mnemonic = "item another random weapon dumb surge various few oyster blood early mechanic";

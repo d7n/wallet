@@ -1,1 +1,1 @@
-var mnemonic = "pair digital tool insect galaxy staff walk valve fog arrest divide report";
+var mnemonic = "fox slogan book kick wool believe enough favorite wait harsh mercy sun";

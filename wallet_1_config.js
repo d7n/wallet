@@ -1,1 +1,1 @@
-var mnemonic = "attack grid current mom detail pink exit solve zebra good glimpse dress";
+var mnemonic = "ship derive foster gun blame solar nerve balcony clean inform object rubber";

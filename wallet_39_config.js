@@ -1,1 +1,1 @@
-var mnemonic = "pottery mystery awkward buddy capital purchase meadow walnut jump range spray joke";
+var mnemonic = "regular echo amazing wire agree awake spice age green spider private nuclear";

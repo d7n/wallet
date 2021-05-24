@@ -1,1 +1,1 @@
-var mnemonic = "front inquiry first exist alcohol cousin rival grunt talk myth add divide";
+var mnemonic = "bonus wrap zero method flag long toe seek desert sudden city forward";

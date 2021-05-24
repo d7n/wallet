@@ -1,1 +1,1 @@
-var mnemonic = "material goddess fury canoe almost innocent bus behind memory together lock popular";
+var mnemonic = "involve curtain boat rich city play mix eagle attack agree minor claim";

@@ -1,1 +1,1 @@
-var mnemonic = "tip curtain leopard top rice sword blanket endorse clump soap unfold abstract";
+var mnemonic = "throw blanket mobile salt hidden sketch infant rough abstract sleep velvet adjust";

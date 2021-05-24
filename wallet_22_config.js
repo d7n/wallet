@@ -1,1 +1,1 @@
-var mnemonic = "produce jazz yellow faint anchor borrow exhibit bounce infant together park loud";
+var mnemonic = "worry ridge barrel file limit garden icon museum topic endorse risk advance";

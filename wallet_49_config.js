@@ -1,1 +1,1 @@
-var mnemonic = "tube select cliff blossom seven ecology nation sea reveal pitch birth absorb";
+var mnemonic = "decline check mistake intact crop alley pizza book quit disagree future elite";

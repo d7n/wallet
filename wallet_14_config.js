@@ -1,1 +1,1 @@
-var mnemonic = "struggle invest crouch child fiber cliff program iron life menu luggage worth";
+var mnemonic = "guilt test witness library crawl clay oven result page evoke fiction hip";

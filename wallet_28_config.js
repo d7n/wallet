@@ -1,1 +1,1 @@
-var mnemonic = "drama neck follow yellow flee gold story object misery toy subway ring";
+var mnemonic = "useful horse catch punch slogan business finger amused sock shoot injury paper";

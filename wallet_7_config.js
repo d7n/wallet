@@ -1,1 +1,1 @@
-var mnemonic = "real aspect gasp race shrug illness village supply pistol joy thrive process";
+var mnemonic = "celery mind olive worry awesome excess develop olive parent arrive month name";

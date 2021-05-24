@@ -1,1 +1,1 @@
-var mnemonic = "jump shrimp want bracket team online kid shrimp penalty young approve pole";
+var mnemonic = "cash pelican light fragile guess will anger impact habit basket bean vault";

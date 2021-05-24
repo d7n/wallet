@@ -1,1 +1,1 @@
-var mnemonic = "okay wheat fan year smoke spice identify wing skull amused unlock result";
+var mnemonic = "buffalo noodle waste mammal midnight churn chapter sorry dash various satoshi legend";

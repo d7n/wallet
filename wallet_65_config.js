@@ -1,1 +1,1 @@
-var mnemonic = "develop unaware purse glue device dry mail neither orient rhythm shoot bus";
+var mnemonic = "announce ability fancy protect artist make animal stumble miss frog disease extra";

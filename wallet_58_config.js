@@ -1,1 +1,1 @@
-var mnemonic = "timber west thunder tortoise uphold various once knee zone hybrid miss theory";
+var mnemonic = "crisp mango slogan size cram wolf gain word odor attitude swear razor";

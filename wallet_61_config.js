@@ -1,1 +1,1 @@
-var mnemonic = "other agent celery senior surge ignore pioneer saddle toss resist dragon library";
+var mnemonic = "thumb access pioneer ability feature pill glove impact piano mesh help youth";

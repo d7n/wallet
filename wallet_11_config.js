@@ -1,1 +1,1 @@
-var mnemonic = "glass century purse wire remind simple aunt impulse autumn indoor violin ghost";
+var mnemonic = "bounce vibrant know random dune urge damage adult grass one cool mammal";

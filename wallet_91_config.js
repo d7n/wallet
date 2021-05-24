@@ -1,1 +1,1 @@
-var mnemonic = "bicycle advance elegant report run mansion forward ten easily weasel trim hat";
+var mnemonic = "luggage occur valid warm wage enhance bonus royal vehicle focus orient once";

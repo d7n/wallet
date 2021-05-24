@@ -1,1 +1,1 @@
-var mnemonic = "spoon area promote atom sadness welcome hold move bench crumble fancy setup";
+var mnemonic = "account arch fix tennis cabin universe orchard casino reveal neck secret drum";

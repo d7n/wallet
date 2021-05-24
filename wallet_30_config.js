@@ -1,1 +1,1 @@
-var mnemonic = "mango nation kiwi mystery genius believe ketchup steel noodle tourist quick verify";
+var mnemonic = "artefact because betray hundred solution miss ask vivid wealth view decline tumble";

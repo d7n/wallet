@@ -1,1 +1,1 @@
-var mnemonic = "cheap athlete decade until youth chair unhappy eyebrow brother moral marble grab";
+var mnemonic = "shiver scale below oil eager please eternal phrase grape employ universe odor";

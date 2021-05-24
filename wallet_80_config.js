@@ -1,1 +1,1 @@
-var mnemonic = "reform charge evolve come fragile quality reflect grief matter glimpse behave dose";
+var mnemonic = "dose advance evil suit invite member leader myself success desert vibrant cinnamon";

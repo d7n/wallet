@@ -1,1 +1,1 @@
-var mnemonic = "waste ketchup bomb shallow hazard short shiver legend tiger fame thought economy";
+var mnemonic = "loop mention emerge always mean plunge top patient wire evil furnace story";

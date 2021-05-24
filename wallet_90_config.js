@@ -1,1 +1,1 @@
-var mnemonic = "click wonder choose supply poet error wool process regular unknown skull seat";
+var mnemonic = "veteran orange scissors tackle shell notice enrich dismiss street chaos gesture forum";

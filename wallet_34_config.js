@@ -1,1 +1,1 @@
-var mnemonic = "board dilemma expose thought belt kidney solution load alcohol wage soccer guilt";
+var mnemonic = "wife praise network wife earth service balcony absurd enable wealth trim either";

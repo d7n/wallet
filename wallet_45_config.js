@@ -1,1 +1,1 @@
-var mnemonic = "subway maple essence bracket code brick define spider depend old pony will";
+var mnemonic = "cash charge acoustic path atom diet okay shove giggle saddle grit transfer";

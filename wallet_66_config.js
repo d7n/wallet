@@ -1,1 +1,1 @@
-var mnemonic = "point amount enroll west slam fence accident limb police audit april hip";
+var mnemonic = "glimpse enforce muffin marble hotel reward total melody visual exit minor arch";

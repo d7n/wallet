@@ -1,1 +1,1 @@
-var mnemonic = "plug track chat beauty flight reason autumn warm turkey matrix garlic quiz";
+var mnemonic = "merit kitten fog board elbow loop foster pact length bottom dwarf climb";

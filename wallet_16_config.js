@@ -1,1 +1,1 @@
-var mnemonic = "deal gas illness sign mistake river vault mountain wasp kangaroo thank airport";
+var mnemonic = "admit gap rain parent hockey hurry pilot castle term tomato decide arrive";

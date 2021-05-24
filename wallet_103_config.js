@@ -1,1 +1,1 @@
-var mnemonic = "enjoy immune item cherry friend twist view castle sheriff stable hill prefer";
+var mnemonic = "squirrel early jazz share client spare build drink return question bean consider";

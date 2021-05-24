@@ -1,1 +1,1 @@
-var mnemonic = "innocent symptom charge image predict win again hurry spell tray penalty certain";
+var mnemonic = "image galaxy gate rival flame glow ancient garlic device child club cycle";

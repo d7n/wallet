@@ -1,1 +1,1 @@
-var mnemonic = "enroll stuff box midnight unit hen cannon fame imitate can december marriage";
+var mnemonic = "head naive casual cement alter motion picture audit orphan chalk about educate";

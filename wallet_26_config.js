@@ -1,1 +1,1 @@
-var mnemonic = "dog prepare retire hole night bright coast liar kiwi eternal talent typical";
+var mnemonic = "trouble prepare shed equip evil debris rural wheat balance utility depart cricket";

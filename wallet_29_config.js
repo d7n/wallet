@@ -1,1 +1,1 @@
-var mnemonic = "theory arrive edit belt together cinnamon country since february judge wrist meat";
+var mnemonic = "consider eagle puppy can tenant capital solve enrich amateur aerobic winter vapor";

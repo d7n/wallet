@@ -1,1 +1,1 @@
-var mnemonic = "category again grief kiss ball menu detect forward sweet bachelor entire daring";
+var mnemonic = "marine tonight comfort atom senior invite caught two slam image index pattern";

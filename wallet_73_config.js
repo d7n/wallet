@@ -1,1 +1,1 @@
-var mnemonic = "royal sock deliver pattern already rude great weasel moral taste leopard duck";
+var mnemonic = "glance betray summer until boss bounce oblige kitchen dawn plate manage airport";

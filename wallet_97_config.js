@@ -1,1 +1,1 @@
-var mnemonic = "pattern denial forum remain family soda ignore keen idea husband stone one";
+var mnemonic = "anger bus coyote soccer bubble inquiry child increase reward home multiply real";

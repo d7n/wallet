@@ -1,1 +1,1 @@
-var mnemonic = "test patrol recipe quit grit differ chair shop flower kingdom hole neglect";
+var mnemonic = "inspire teach price guilt immense barely sponsor luxury scene minor man fuel";

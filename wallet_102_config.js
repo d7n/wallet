@@ -1,1 +1,1 @@
-var mnemonic = "walnut globe nephew wrong supreme ridge strike hollow size emotion sudden dolphin";
+var mnemonic = "pool frequent that gloom horror donate salmon idea cost satisfy then lucky";

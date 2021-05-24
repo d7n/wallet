@@ -1,1 +1,1 @@
-var mnemonic = "fire local school obvious derive memory coffee outside blind merge library blame";
+var mnemonic = "orphan town rule dynamic glad virtual pull game about analyst patch hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "blur remind fit dumb order honey combine prevent bridge flock shoot glass";
+var mnemonic = "fury family cereal situate crawl inspire speed add spike arena worry cloth";

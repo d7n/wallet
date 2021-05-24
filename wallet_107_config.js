@@ -1,1 +1,1 @@
-var mnemonic = "solve year sight addict say setup turkey cattle tomato vibrant abstract ripple";
+var mnemonic = "shop angle scrap leisure cement chat hip crater fee valid turn census";

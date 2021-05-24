@@ -1,1 +1,1 @@
-var mnemonic = "maze hunt net veteran jaguar brick enforce forget impose elephant dutch helmet";
+var mnemonic = "toe dust virus erase spatial pattern width angle best tape small vanish";

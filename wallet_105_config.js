@@ -1,1 +1,1 @@
-var mnemonic = "crumble destroy distance library tuna field ribbon arrow country cry pumpkin mirror";
+var mnemonic = "direct uniform ladder border teach century fix page space swear open armor";

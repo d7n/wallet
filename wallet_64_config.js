@@ -1,1 +1,1 @@
-var mnemonic = "heavy cotton front aisle rapid honey sport dwarf coast anxiety scorpion weather";
+var mnemonic = "nerve common recall wool cover gentle effort grain flame sting hope pigeon";

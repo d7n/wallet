@@ -1,1 +1,1 @@
-var mnemonic = "undo step increase crucial planet hair maid path joke actor ancient wife";
+var mnemonic = "shallow chronic donor ivory secret enemy blade ship glow high frown bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "setup auto grocery half trophy innocent film derive envelope grow found own";
+var mnemonic = "rally involve claim lamp adult name brown milk identify worry pizza air";

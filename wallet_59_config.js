@@ -1,1 +1,1 @@
-var mnemonic = "identify spoon dynamic guide town whisper walnut swing blossom firm art sudden";
+var mnemonic = "thing priority weird unaware annual pole resource keen borrow brave auction mobile";

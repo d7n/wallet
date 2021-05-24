@@ -1,1 +1,1 @@
-var mnemonic = "cover deal note doll slogan palace deposit have jealous pride slim salmon";
+var mnemonic = "hawk visa peanut confirm come crane tobacco illegal void able usage spray";

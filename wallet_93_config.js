@@ -1,1 +1,1 @@
-var mnemonic = "toy large cheese napkin tornado journey scout slender burger analyst area screen";
+var mnemonic = "test movie relief barely tree friend swamp obvious year inch sphere earn";

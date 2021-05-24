@@ -1,1 +1,1 @@
-var mnemonic = "meat light then card agree prevent virus verb very observe jealous program";
+var mnemonic = "able zone erase fiber situate save write leopard reward patrol tool gaze";

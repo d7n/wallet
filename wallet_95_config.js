@@ -1,1 +1,1 @@
-var mnemonic = "empty fetch story crouch casino decade smoke bone enter field caught uncover";
+var mnemonic = "robust antique maximum build buzz sister candy clap chuckle weird transfer thrive";

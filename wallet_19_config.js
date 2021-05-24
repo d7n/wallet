@@ -1,1 +1,1 @@
-var mnemonic = "alcohol iron law fee venture picture ignore zoo path curious marriage harvest";
+var mnemonic = "slush cinnamon scissors assist fade obey march butter welcome measure sock crystal";

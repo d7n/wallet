@@ -1,1 +1,1 @@
-var mnemonic = "lock letter sand swing wheel clown wide pistol village morning close void";
+var mnemonic = "kiss budget mirror height sport mind disorder vapor wealth weasel poverty industry";

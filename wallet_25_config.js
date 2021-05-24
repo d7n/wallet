@@ -1,1 +1,1 @@
-var mnemonic = "wrestle degree banana warm alien rabbit jelly antique rescue brass insane ten";
+var mnemonic = "hedgehog siege tell recipe grace tortoise plug umbrella bus deposit paddle tool";

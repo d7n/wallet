@@ -1,1 +1,1 @@
-var mnemonic = "crawl more churn harbor velvet dinner gas surprise champion van crumble glad";
+var mnemonic = "disagree shed outside domain veteran brown blanket fiber brick obscure alarm plunge";

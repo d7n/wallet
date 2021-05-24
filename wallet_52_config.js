@@ -1,1 +1,1 @@
-var mnemonic = "excite kite raccoon deliver mention virus panel income circle bridge pipe hybrid";
+var mnemonic = "oblige clump craft dolphin luxury trophy genuine style other glance beef debris";

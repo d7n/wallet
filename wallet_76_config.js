@@ -1,1 +1,1 @@
-var mnemonic = "property unaware belt trap kitchen tree kitchen deer undo bargain expose lumber";
+var mnemonic = "dignity syrup shell wagon pole recipe love divert dove tooth slice bunker";

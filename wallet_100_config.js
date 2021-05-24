@@ -1,1 +1,1 @@
-var mnemonic = "always column crucial into high gasp armor caught lottery hungry drum easily";
+var mnemonic = "gather mirror order nurse hero myself people system main order boy feel";

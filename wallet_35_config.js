@@ -1,1 +1,1 @@
-var mnemonic = "between super pluck heart weird medal unveil capable area theme estate festival";
+var mnemonic = "light toe exclude sleep evoke chase exile file gesture convince cup sketch";

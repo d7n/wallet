@@ -1,1 +1,1 @@
-var mnemonic = "select vicious right long daring evidence hungry indicate cause myself mass thumb";
+var mnemonic = "badge faint tattoo more youth quote story fossil small clarify segment fence";

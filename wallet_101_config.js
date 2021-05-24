@@ -1,1 +1,1 @@
-var mnemonic = "danger inflict boost any guess become token globe latin among join keen";
+var mnemonic = "coach primary wild pottery second toe genius biology bag wall fun misery";

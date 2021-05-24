@@ -1,1 +1,1 @@
-var mnemonic = "mixed often upgrade pool goose indicate myself gentle way donor coyote traffic";
+var mnemonic = "cruel radio off grab illegal pledge else require doctor pipe aspect ski";

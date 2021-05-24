@@ -1,1 +1,1 @@
-var mnemonic = "laundry hello story milk blood forum mammal arctic nasty brown seed dish";
+var mnemonic = "humor update high soldier parent tattoo raccoon phone young distance bulk tilt";

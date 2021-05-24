@@ -1,1 +1,1 @@
-var mnemonic = "artefact measure joy runway path purity craft settle save puppy airport arrive";
+var mnemonic = "year job fiber fly hour market ride impose portion tired clutch coil";

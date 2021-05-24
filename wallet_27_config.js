@@ -1,1 +1,1 @@
-var mnemonic = "crouch cotton vocal crack surge bus upset reveal approve nest biology twice";
+var mnemonic = "spawn rare forward useful grunt spread gown prefer wild surface salt grass";

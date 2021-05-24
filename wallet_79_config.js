@@ -1,1 +1,1 @@
-var mnemonic = "filter toss anxiety outer soft bike honey stable thing appear legal fetch";
+var mnemonic = "ring grunt until little dust echo law giant chaos execute mystery local";

@@ -1,1 +1,1 @@
-var mnemonic = "various result action novel skirt woman myth picnic hammer satisfy joy visit";
+var mnemonic = "table play blue swing scout ten announce wear resist alarm forest essence";

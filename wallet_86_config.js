@@ -1,1 +1,1 @@
-var mnemonic = "feel annual vicious paper recipe tilt wasp apple sponsor alpha owner choose";
+var mnemonic = "salute cry chief cushion neutral fun naive close space reward cause napkin";

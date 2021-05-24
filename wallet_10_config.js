@@ -1,1 +1,1 @@
-var mnemonic = "member story genius box anxiety ecology ozone olive buffalo notice rather like";
+var mnemonic = "suffer crowd total wrap remove crouch burden green voyage pyramid hold surprise";

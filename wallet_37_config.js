@@ -1,1 +1,1 @@
-var mnemonic = "trash crop unaware odor accident list renew quiz keep absurd expand cause";
+var mnemonic = "giant rhythm danger volcano twist flat boost bar visa enter sail oxygen";

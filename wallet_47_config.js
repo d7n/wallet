@@ -1,1 +1,1 @@
-var mnemonic = "dove edge mutual kind rude entire stool index dash alley nominee matrix";
+var mnemonic = "toy impose twin weather notable gap horse bachelor rely trust royal wait";

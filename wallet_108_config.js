@@ -1,1 +1,1 @@
-var mnemonic = "basket defense margin frequent road earth strategy dinosaur mass brave two wine";
+var mnemonic = "always swallow series machine spray insect code moment jump term example twenty";

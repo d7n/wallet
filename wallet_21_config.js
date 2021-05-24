@@ -1,1 +1,1 @@
-var mnemonic = "patrol junior innocent indoor arrow climb great script post story around blush";
+var mnemonic = "frog capital dove cave turtle fresh body loan buffalo next oxygen embark";

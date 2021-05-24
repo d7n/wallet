@@ -1,1 +1,1 @@
-var mnemonic = "payment weird author double blame record destroy recipe ceiling response magic swim";
+var mnemonic = "blush bleak pitch coyote witness need twice couch rent giraffe inhale kind";

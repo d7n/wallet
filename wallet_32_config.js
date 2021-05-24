@@ -1,1 +1,1 @@
-var mnemonic = "marine seek crumble frog journey dwarf barrel sister ten isolate eye timber";
+var mnemonic = "repair trip fox empower discover ask prison galaxy burden prize antenna wedding";
