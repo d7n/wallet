@@ -1,1 +1,1 @@
-var mnemonic = "train misery salmon ability myth copper expect lottery lens tattoo broken cruise";
+var mnemonic = "right wet hamster double fix insect boring flush vibrant forward check believe";

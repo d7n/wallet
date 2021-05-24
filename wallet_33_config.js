@@ -1,1 +1,1 @@
-var mnemonic = "south raise enemy upgrade taxi magnet kangaroo carpet remove library document purpose";
+var mnemonic = "engine calm expect doctor helmet cave stuff marine damp crisp tank humble";

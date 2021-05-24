@@ -1,1 +1,1 @@
-var mnemonic = "outside rule accident luggage bargain powder focus wife mosquito kingdom exclude cheese";
+var mnemonic = "topple away live throw huge reopen beyond okay menu fork cousin legal";

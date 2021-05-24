@@ -1,1 +1,1 @@
-var mnemonic = "midnight illness indicate mass ozone debris toast resemble color spare ethics focus";
+var mnemonic = "ostrich dice slush reform cushion tower daughter junior rotate kid obtain dose";

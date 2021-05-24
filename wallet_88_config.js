@@ -1,1 +1,1 @@
-var mnemonic = "fade perfect hint recycle essay runway again between mountain behave summer horn";
+var mnemonic = "street expose spoil panda provide foot race cinnamon spin thing cactus wreck";

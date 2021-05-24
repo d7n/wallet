@@ -1,1 +1,1 @@
-var mnemonic = "uniform supply lunar paper prize mouse reject churn cradle category nature myself";
+var mnemonic = "fat stay finish another salad river double atom ranch evolve rural bachelor";

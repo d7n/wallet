@@ -1,1 +1,1 @@
-var mnemonic = "around good genius catalog media opinion bird help educate punch cry slot";
+var mnemonic = "tiny click stomach admit stomach surround foam believe random double portion typical";

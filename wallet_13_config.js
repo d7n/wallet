@@ -1,1 +1,1 @@
-var mnemonic = "fine soap federal pen crawl easy donate into desert jewel rocket suggest";
+var mnemonic = "speak before deliver cigar menu waste lion together fresh fold violin update";

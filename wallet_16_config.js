@@ -1,1 +1,1 @@
-var mnemonic = "couple autumn spell palace loan hundred genre quiz spin remind brass carry";
+var mnemonic = "bonus once drop client vibrant insane seed swift trick text stem round";

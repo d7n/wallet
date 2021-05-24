@@ -1,1 +1,1 @@
-var mnemonic = "accident boss crane glow assume ginger rifle name inquiry setup blast guide";
+var mnemonic = "permit obvious raise label tool garlic act orchard flame cross raccoon document";

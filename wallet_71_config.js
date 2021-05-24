@@ -1,1 +1,1 @@
-var mnemonic = "crisp dentist draw bubble air robust measure interest brain focus runway off";
+var mnemonic = "south horse view forum core erosion ozone under expand ignore talk bunker";

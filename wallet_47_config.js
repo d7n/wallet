@@ -1,1 +1,1 @@
-var mnemonic = "solution innocent desk energy awful have hammer chuckle clay clown remind little";
+var mnemonic = "unfold dragon famous bleak private anxiety toss okay limb quit prosper parrot";

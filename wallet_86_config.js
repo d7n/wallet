@@ -1,1 +1,1 @@
-var mnemonic = "claim wasp wonder elbow manage interest man orbit pill degree test fabric";
+var mnemonic = "mom mind ceiling fee plunge myth release palace quarter proof choice animal";

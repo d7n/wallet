@@ -1,1 +1,1 @@
-var mnemonic = "resist wrist control space pepper lecture glove exact fix behave whisper clinic";
+var mnemonic = "pass candy oblige loan license equip repeat envelope popular dismiss soap opera";

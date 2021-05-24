@@ -1,1 +1,1 @@
-var mnemonic = "help hammer all order tent path cruel another brain invite hat illegal";
+var mnemonic = "skin floor organ heavy decide ecology way blame problem call later future";

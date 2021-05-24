@@ -1,1 +1,1 @@
-var mnemonic = "apart swear twelve muffin cruise nephew fetch host wealth comfort weekend midnight";
+var mnemonic = "hat alter surface exist can excess inch month miss gravity engage report";

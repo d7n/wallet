@@ -1,1 +1,1 @@
-var mnemonic = "infant erase leader error wrap blast thank quarter coast remain reason pulp";
+var mnemonic = "good guess craft discover master crumble room arrange hint surge disagree west";

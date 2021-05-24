@@ -1,1 +1,1 @@
-var mnemonic = "milk stuff fossil syrup solar vapor ten inquiry wire eagle judge prosper";
+var mnemonic = "luggage network moral foam oil icon donate worth diesel brief wreck section";

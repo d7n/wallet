@@ -1,1 +1,1 @@
-var mnemonic = "burden bulb multiply true light army butter depth bundle sauce calm inner";
+var mnemonic = "west recipe proof swarm antique concert celery deposit total wish soap odor";

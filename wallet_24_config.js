@@ -1,1 +1,1 @@
-var mnemonic = "edit bunker calm split embrace hour satisfy island differ worry drink there";
+var mnemonic = "burger weekend outer impose gospel high hundred runway alarm few miracle acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "enough draw spot exhibit sister rib fury surround wasp bottom twice talent";
+var mnemonic = "guard yellow spatial flag garbage electric private kiss uniform embrace double safe";

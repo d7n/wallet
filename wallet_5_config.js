@@ -1,1 +1,1 @@
-var mnemonic = "mystery like hood summer add mixed kite few youth hire toward hood";
+var mnemonic = "rare march eager core ring success volume cradle jewel attack slender assault";

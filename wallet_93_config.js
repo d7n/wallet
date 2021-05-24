@@ -1,1 +1,1 @@
-var mnemonic = "earn pill dash coast daring insect use brass order alert monster narrow";
+var mnemonic = "giant payment extend bread now proof cradle above quote autumn present lava";

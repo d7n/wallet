@@ -1,1 +1,1 @@
-var mnemonic = "board umbrella electric indoor gap cheese guitar walk wink unfair allow envelope";
+var mnemonic = "raw echo ahead either seed moral sweet purse below slim entry rookie";

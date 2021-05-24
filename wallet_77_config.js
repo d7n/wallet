@@ -1,1 +1,1 @@
-var mnemonic = "doll bracket side deal discover firm fire pizza dolphin napkin brave subway";
+var mnemonic = "west truly laundry student question east almost poverty rib poverty enough crime";

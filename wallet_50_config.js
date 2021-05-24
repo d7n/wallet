@@ -1,1 +1,1 @@
-var mnemonic = "seven wisdom label small amount recipe dirt general critic theory utility local";
+var mnemonic = "neutral mesh elbow begin protect happy bubble action toss retire monkey label";

@@ -1,1 +1,1 @@
-var mnemonic = "zero analyst answer need lab maximum patch tobacco happy gadget able blush";
+var mnemonic = "remember lion cake achieve sort pigeon purity pass obscure jelly result lyrics";

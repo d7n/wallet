@@ -1,1 +1,1 @@
-var mnemonic = "real donor convince winter ridge photo code curve total fame aim shy";
+var mnemonic = "nephew trigger pet explain poverty chimney express pact canyon hunt room buffalo";

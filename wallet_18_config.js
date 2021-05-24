@@ -1,1 +1,1 @@
-var mnemonic = "dizzy medal prepare green giggle bicycle claim resemble narrow father vocal adult";
+var mnemonic = "theme horn salon enough carry obtain fuel mixed device panic conduct brick";

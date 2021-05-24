@@ -1,1 +1,1 @@
-var mnemonic = "knife arena frown magic merit pretty ugly radio pond lunch tissue sense";
+var mnemonic = "student tongue pattern hip oil such pink birth pepper fox destroy vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "two tree present envelope verify rib boat attract chunk correct album there";
+var mnemonic = "alley awkward dawn trade away right absent always about conduct soul pizza";

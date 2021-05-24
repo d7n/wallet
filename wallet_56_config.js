@@ -1,1 +1,1 @@
-var mnemonic = "frame car brown doll grab wash term hood slow heavy water weekend";
+var mnemonic = "focus bottom letter crew merit hollow essay mouse cruise unit dune goat";

@@ -1,1 +1,1 @@
-var mnemonic = "employ symbol radar spot cable adult clay lemon copper bone vendor theory";
+var mnemonic = "fan unique wet divide vivid raise glue tenant piece gloom mass hire";

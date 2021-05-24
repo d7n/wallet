@@ -1,1 +1,1 @@
-var mnemonic = "glass supply scan pizza novel wood select wood style hungry spice flush";
+var mnemonic = "picture dinosaur refuse gauge drill coconut layer garage assume capable jacket medal";

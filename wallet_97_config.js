@@ -1,1 +1,1 @@
-var mnemonic = "soap corn blast weapon beauty evoke stem fan escape bronze few nest";
+var mnemonic = "spawn client remain run wheel slim theory tornado clean doctor collect next";

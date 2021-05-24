@@ -1,1 +1,1 @@
-var mnemonic = "scale result drama oblige excuse spin scrap pulp april border effort enable";
+var mnemonic = "kitten rally popular scatter voyage rule oven legend analyst spatial mosquito senior";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve unusual party famous indicate mail scrap act aerobic teach few lucky";
+var mnemonic = "venture enough coconut client few father venue trust panic citizen goat fantasy";

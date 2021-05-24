@@ -1,1 +1,1 @@
-var mnemonic = "rapid welcome shop inspire bag timber shadow mango mango chunk demand latin";
+var mnemonic = "antique bind diamond banana entire actual deer aerobic various ancient about weapon";

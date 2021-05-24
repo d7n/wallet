@@ -1,1 +1,1 @@
-var mnemonic = "matter address knock produce giant rather bless remind call awake leg city";
+var mnemonic = "matter company lonely offer sponsor mask appear click imitate pepper vault pluck";

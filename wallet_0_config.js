@@ -1,1 +1,1 @@
-var mnemonic = "egg best impose mean dutch pyramid hollow flock noise buffalo execute exit";
+var mnemonic = "antenna brown shiver bus baby grid shoot tuition demand draw absorb liar";

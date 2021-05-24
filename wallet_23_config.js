@@ -1,1 +1,1 @@
-var mnemonic = "side high crew priority never sign unique confirm humble dilemma slim egg";
+var mnemonic = "ask any alter regular inch small guitar illness brush busy travel ordinary";

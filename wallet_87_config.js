@@ -1,1 +1,1 @@
-var mnemonic = "vivid police welcome federal neutral hand permit upset pyramid belt volume captain";
+var mnemonic = "toddler film gaze course right real often text subway antique ordinary brief";

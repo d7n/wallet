@@ -1,1 +1,1 @@
-var mnemonic = "soft custom pulp negative scare film rare gorilla exercise creek shed member";
+var mnemonic = "renew insect index good group tackle swim keep pact lens woman verb";

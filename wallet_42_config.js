@@ -1,1 +1,1 @@
-var mnemonic = "effort say grape elegant frequent recall asset aware knife horror immense umbrella";
+var mnemonic = "much unit jazz admit judge grocery gauge consider surprise coffee media jelly";

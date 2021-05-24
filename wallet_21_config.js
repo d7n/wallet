@@ -1,1 +1,1 @@
-var mnemonic = "credit claim consider kingdom aspect goat orchard foil blast awful office trigger";
+var mnemonic = "payment buyer nasty host unknown tourist tiger imitate fiscal harvest bone degree";

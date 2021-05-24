@@ -1,1 +1,1 @@
-var mnemonic = "subway doll occur purse subject blush save portion large uncle satisfy shove";
+var mnemonic = "blouse sound group enroll vintage match project pink luggage pear social bacon";

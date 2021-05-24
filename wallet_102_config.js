@@ -1,1 +1,1 @@
-var mnemonic = "chuckle globe rich wish neglect subway margin excess duty assist peace double";
+var mnemonic = "release pear vague size east obscure ceiling deal faith pottery stereo connect";

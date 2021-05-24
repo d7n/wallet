@@ -1,1 +1,1 @@
-var mnemonic = "critic dash cattle invest beauty dwarf spoil gold near slow smoke egg";
+var mnemonic = "bunker quarter loop engage armed food myth furnace ceiling area course mutual";

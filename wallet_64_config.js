@@ -1,1 +1,1 @@
-var mnemonic = "head custom expect common recycle prosper travel more luggage start corn tray";
+var mnemonic = "risk lunch victory any addict kiwi scene foil topic refuse slight good";

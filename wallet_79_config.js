@@ -1,1 +1,1 @@
-var mnemonic = "clerk select text erode fluid that turtle remove this brother crater basket";
+var mnemonic = "dirt mobile cushion proof clever asthma like kidney amount suit broom dizzy";

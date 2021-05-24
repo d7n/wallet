@@ -1,1 +1,1 @@
-var mnemonic = "grunt symbol orchard spare happy remove vehicle ugly carpet exile video upon";
+var mnemonic = "army result giggle rival frost shoot strike capable allow tide owner junior";

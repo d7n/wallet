@@ -1,1 +1,1 @@
-var mnemonic = "idle nature odor exhibit auto scorpion lucky basket alley exile crash limit";
+var mnemonic = "column summer general position beach team pattern end fish skull rival poet";

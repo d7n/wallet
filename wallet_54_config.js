@@ -1,1 +1,1 @@
-var mnemonic = "afraid method topple pig apple dizzy announce better ranch biology finish divide";
+var mnemonic = "impose decide awful leader basket person dentist autumn female cargo medal cousin";

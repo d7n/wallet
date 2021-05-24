@@ -1,1 +1,1 @@
-var mnemonic = "casual noodle voice dilemma humble process text canal cute border normal better";
+var mnemonic = "crouch juice life essence wasp crater flower access switch pumpkin lounge smooth";

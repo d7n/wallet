@@ -1,1 +1,1 @@
-var mnemonic = "twin drama burst alone renew attitude multiply draw charge bless skin average";
+var mnemonic = "master typical stereo panther click poem mirror dream brain aspect choice inspire";

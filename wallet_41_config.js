@@ -1,1 +1,1 @@
-var mnemonic = "nation galaxy heart slush rich virus thumb fat mercy solve avocado chat";
+var mnemonic = "ripple ribbon harbor grant appear bunker bring gospel crime proof enable cover";

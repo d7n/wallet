@@ -1,1 +1,1 @@
-var mnemonic = "reduce paper close entire initial category push green also plate educate trip";
+var mnemonic = "mule crystal nasty damage borrow metal collect wrap forget escape spare legend";

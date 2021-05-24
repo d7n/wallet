@@ -1,1 +1,1 @@
-var mnemonic = "quarter must jelly license discover west genuine thing utility two salute breeze";
+var mnemonic = "drum critic repeat maid labor throw wrist dune birth opera glimpse twin";

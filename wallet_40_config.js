@@ -1,1 +1,1 @@
-var mnemonic = "damage fresh sure chunk age recipe alter curve rival reform coral cactus";
+var mnemonic = "city game during excite success media symptom walnut fabric steak people curve";

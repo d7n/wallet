@@ -1,1 +1,1 @@
-var mnemonic = "mask rubber acid heart absent walnut around general bronze wrap rent hard";
+var mnemonic = "year romance educate narrow assault proof cage move cream army reunion initial";

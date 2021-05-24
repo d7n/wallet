@@ -1,1 +1,1 @@
-var mnemonic = "scrap face license quick virus gospel clarify plug best soft cattle teach";
+var mnemonic = "pitch prefer beauty garment acid charge absurd vessel spray evidence tenant regret";

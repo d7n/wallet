@@ -1,1 +1,1 @@
-var mnemonic = "just dice spirit river device this garage stairs either brand raw frown";
+var mnemonic = "ensure song chalk path hundred annual hospital tiger mail tonight message reunion";

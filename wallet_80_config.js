@@ -1,1 +1,1 @@
-var mnemonic = "coast cluster clerk umbrella swift stool alter champion engage vivid method disease";
+var mnemonic = "regular ethics neither abandon skirt echo trip hub pilot verify manage october";

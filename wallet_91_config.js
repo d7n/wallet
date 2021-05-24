@@ -1,1 +1,1 @@
-var mnemonic = "marriage motor animal depend mother also tape sleep someone field chuckle another";
+var mnemonic = "mouse term clog trouble lens risk praise ranch air pulse ramp catalog";

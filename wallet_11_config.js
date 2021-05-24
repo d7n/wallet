@@ -1,1 +1,1 @@
-var mnemonic = "canal gospel knee margin sauce wait pair joy truly van scrap animal";
+var mnemonic = "myself bone love defense frame cat bright pulp fall garlic oyster slogan";

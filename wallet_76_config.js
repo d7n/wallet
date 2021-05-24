@@ -1,1 +1,1 @@
-var mnemonic = "robust venture tired vapor oven feel actor slot risk frequent firm round";
+var mnemonic = "ribbon clutch mother remove surface thought pencil certain bag cruel mom useful";

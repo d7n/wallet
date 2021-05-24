@@ -1,1 +1,1 @@
-var mnemonic = "body tiny poet limit grass wash memory deliver firm mad sun apple";
+var mnemonic = "candy insane museum measure help misery lobster photo journey rival neck common";

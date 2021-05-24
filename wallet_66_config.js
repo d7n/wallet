@@ -1,1 +1,1 @@
-var mnemonic = "nut robust metal reunion easily crane veteran tuition race exhibit loop robot";
+var mnemonic = "egg photo replace spend avoid damp illegal bid orchard rule caught office";

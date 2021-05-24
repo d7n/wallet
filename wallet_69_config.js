@@ -1,1 +1,1 @@
-var mnemonic = "blast cloud expire menu poem effort swarm supply bacon wrong stove head";
+var mnemonic = "any calm cost language home loud tobacco mimic grid style exile measure";

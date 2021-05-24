@@ -1,1 +1,1 @@
-var mnemonic = "concert damp roof option intact cheese verify wrong churn dwarf ancient witness";
+var mnemonic = "talk drop trigger chapter warrior rural latin cliff leaf grow fit nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket jungle success gym matrix minute save army alien region write load";
+var mnemonic = "action eye quarter crunch maid wife tired parade cruel assume knife reveal";

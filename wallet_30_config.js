@@ -1,1 +1,1 @@
-var mnemonic = "meat belt nothing pumpkin fade radio name solar arrive identify minute useful";
+var mnemonic = "tone fine race panel author lunch lawsuit city fire wreck stem brisk";

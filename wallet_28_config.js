@@ -1,1 +1,1 @@
-var mnemonic = "pitch trade frost hour such until bounce remember cable slot puppy notable";
+var mnemonic = "corn length present evil energy satisfy broom immune economy spell own despair";

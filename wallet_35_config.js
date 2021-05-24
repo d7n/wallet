@@ -1,1 +1,1 @@
-var mnemonic = "online lift dove flavor talk hobby know group smoke that profit boss";
+var mnemonic = "enough crowd buzz giraffe song swift audit labor pizza occur enemy length";

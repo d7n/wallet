@@ -1,1 +1,1 @@
-var mnemonic = "ladder parent risk opinion capable give glass glory canvas execute fitness square";
+var mnemonic = "guilt curious magic spring toe skin shadow fruit wedding brief similar between";

@@ -1,1 +1,1 @@
-var mnemonic = "couple alert fee liberty corn select congress tent slim three negative canal";
+var mnemonic = "royal aspect vast describe wet gold receive labor maximum mule exhaust upon";

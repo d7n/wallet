@@ -1,1 +1,1 @@
-var mnemonic = "infant bar sibling obscure orient glow attract nation cup build police limb";
+var mnemonic = "season derive flat brave hurt garment range learn pattern remind math educate";

@@ -1,1 +1,1 @@
-var mnemonic = "steel tent protect ethics blade property cousin cargo benefit kiss uphold inch";
+var mnemonic = "drill story slender lake rotate train scatter spawn castle oppose ozone clip";

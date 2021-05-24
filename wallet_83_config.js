@@ -1,1 +1,1 @@
-var mnemonic = "impulse enroll pair mushroom provide ranch follow grace panic forget alter mandate";
+var mnemonic = "noise stock upset royal raw stadium fiscal frost layer dizzy eyebrow wedding";

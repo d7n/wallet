@@ -1,1 +1,1 @@
-var mnemonic = "violin begin worry tape problem woman mule quarter turn strong render penalty";
+var mnemonic = "ten panda penalty rather enhance supreme taxi unusual equal present case crouch";

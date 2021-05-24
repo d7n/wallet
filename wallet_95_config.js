@@ -1,1 +1,1 @@
-var mnemonic = "tongue student law virtual bachelor eager grid trouble nest monkey success kit";
+var mnemonic = "denial tone badge suffer enter napkin pause pause tree essence motor refuse";

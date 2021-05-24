@@ -1,1 +1,1 @@
-var mnemonic = "shrimp rule praise make toddler come outdoor old tail sea thought genius";
+var mnemonic = "wedding velvet degree spray famous wire exit provide frequent balance only possible";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange admit night pistol trumpet taxi defense guitar element flee click diagram";
+var mnemonic = "cabbage phone doctor funny polar desert ceiling subject radio resource noodle fold";

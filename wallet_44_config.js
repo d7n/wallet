@@ -1,1 +1,1 @@
-var mnemonic = "roof million there museum drum setup extend small inspire dismiss salmon also";
+var mnemonic = "bless sense shell pact badge away bonus receive engage season senior ivory";

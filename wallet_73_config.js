@@ -1,1 +1,1 @@
-var mnemonic = "stool monkey choose section rhythm curtain curtain bottom stage zebra tone fat";
+var mnemonic = "promote core business turtle axis orange average toilet wrong elevator chef huge";

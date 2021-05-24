@@ -1,1 +1,1 @@
-var mnemonic = "meadow female shallow source energy almost unfold when sail history image cable";
+var mnemonic = "win film wealth engage leader material pepper lunch urban more aerobic enable";

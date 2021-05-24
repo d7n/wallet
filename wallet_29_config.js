@@ -1,1 +1,1 @@
-var mnemonic = "cannon bubble rebel aunt leader similar spatial hybrid slim month violin immense";
+var mnemonic = "clarify whip define fold erupt convince explain swallow miss follow unknown toddler";

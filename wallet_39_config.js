@@ -1,1 +1,1 @@
-var mnemonic = "actress invest pony output broken liar plastic oyster deputy demand extend alarm";
+var mnemonic = "merit destroy goat coyote milk luxury trophy brand bullet mechanic mixed april";

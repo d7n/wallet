@@ -1,1 +1,1 @@
-var mnemonic = "item chef end blind candy small artefact rigid brush load never skull";
+var mnemonic = "alarm blue screen gown vehicle host cotton crane number survey abstract unaware";
