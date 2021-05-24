@@ -1,1 +1,1 @@
-var mnemonic = "effort sail seek angle fitness slow winter pig waste extra member draft";
+var mnemonic = "milk unit rice defense lizard task govern blast hover number category sketch";

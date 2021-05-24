@@ -1,1 +1,1 @@
-var mnemonic = "scene chair talent alpha cushion wedding funny arm confirm sick athlete avocado";
+var mnemonic = "cube east remain puzzle destroy satisfy utility canyon rug primary creek special";

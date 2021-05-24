@@ -1,1 +1,1 @@
-var mnemonic = "message supreme artefact spy position author appear brother fiscal control legal cupboard";
+var mnemonic = "fade puppy athlete drama drum copy solution beyond quality oxygen program sorry";

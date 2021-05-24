@@ -1,1 +1,1 @@
-var mnemonic = "strategy okay outer rotate walk skirt element butter sing gossip resist voice";
+var mnemonic = "music sorry rival vague chief deny purity scatter eager ball library parent";

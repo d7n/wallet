@@ -1,1 +1,1 @@
-var mnemonic = "dragon similar foot staff legal sunny render pull audit search copper protect";
+var mnemonic = "fade sketch delay thunder baby bench dragon tube swing bar clog skill";

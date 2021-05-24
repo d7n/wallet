@@ -1,1 +1,1 @@
-var mnemonic = "heavy panther yellow bicycle effort that hunt huge copper laundry snap traffic";
+var mnemonic = "wet answer soft spirit away regular chunk toss matrix unknown cram auction";

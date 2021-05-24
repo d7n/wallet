@@ -1,1 +1,1 @@
-var mnemonic = "width risk chunk skin under pencil kit cradle crash neutral evil drink";
+var mnemonic = "large erosion item topic lizard real ethics pause avoid glimpse distance food";

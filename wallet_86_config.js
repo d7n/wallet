@@ -1,1 +1,1 @@
-var mnemonic = "pill analyst roast pear brass exact safe carbon sword february silent era";
+var mnemonic = "near network sustain crater there place impulse valve benefit when torch involve";

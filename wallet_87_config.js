@@ -1,1 +1,1 @@
-var mnemonic = "sketch brush soldier sadness filter wet fork plug hotel anxiety april crush";
+var mnemonic = "ignore wedding matter know puzzle science planet hard diet swamp jealous twice";

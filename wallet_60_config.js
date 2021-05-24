@@ -1,1 +1,1 @@
-var mnemonic = "excess observe order filter cost cross front penalty dash bring lecture reflect";
+var mnemonic = "bounce peanut quantum sphere timber very soda speak grain hospital outside camp";

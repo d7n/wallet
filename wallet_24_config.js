@@ -1,1 +1,1 @@
-var mnemonic = "copy donkey father expand mammal park present kidney reopen iron blood suffer";
+var mnemonic = "liberty merge firm liberty goat future thumb stuff tackle enrich cry hybrid";

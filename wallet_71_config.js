@@ -1,1 +1,1 @@
-var mnemonic = "hole grain sheriff put horn celery arena advance beef clump tissue lazy";
+var mnemonic = "imitate identify reject airport awful popular loud clean half frozen chicken style";

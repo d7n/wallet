@@ -1,1 +1,1 @@
-var mnemonic = "essence liberty kidney all system lawsuit combine layer beyond amused dawn brisk";
+var mnemonic = "waste prison honey home supreme youth flash arch blanket auction tube east";

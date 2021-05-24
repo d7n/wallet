@@ -1,1 +1,1 @@
-var mnemonic = "gaze bag bulb minor ginger flip empty city mutual hope follow pudding";
+var mnemonic = "illness grow equal leg sister replace buyer smile sound shaft alarm palace";

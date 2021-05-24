@@ -1,1 +1,1 @@
-var mnemonic = "proof inflict health dream gospel expand short garden hamster guilt prosper report";
+var mnemonic = "lady envelope siren question dry health common common force humble bracket glare";

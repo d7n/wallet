@@ -1,1 +1,1 @@
-var mnemonic = "mind proud weasel butter polar music exhibit tree taxi base camera humor";
+var mnemonic = "shrug convince attitude hamster soft final ripple april frost grocery retreat jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "team tool tell huge next invite view quote anchor move person ill";
+var mnemonic = "require myself kidney mom sting sport public cart suit drip interest story";

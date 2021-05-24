@@ -1,1 +1,1 @@
-var mnemonic = "monitor always source transfer turtle plunge cabbage table impose second entry problem";
+var mnemonic = "gift glide original exchange airport yard beauty faith spread treat best picnic";

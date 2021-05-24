@@ -1,1 +1,1 @@
-var mnemonic = "chuckle segment rookie execute horse meat ticket dream document gown repair spirit";
+var mnemonic = "venture true portion antique crucial another ticket save tide prize hybrid element";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle gun mistake seed kick route cradle immense debate silk dad pig";
+var mnemonic = "crunch country three people spell trial news useless aunt multiply then lyrics";

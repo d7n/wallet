@@ -1,1 +1,1 @@
-var mnemonic = "immense kitten card crew ski laugh cook solid bleak upon system chunk";
+var mnemonic = "oak chaos pact caution drip chalk snack disorder crawl mutual forget warm";

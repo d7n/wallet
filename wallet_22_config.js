@@ -1,1 +1,1 @@
-var mnemonic = "fragile half toward knife space shell client garbage nominee message radio aspect";
+var mnemonic = "glare aspect artist wealth merit flavor wreck boost keen bunker pig stand";

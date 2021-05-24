@@ -1,1 +1,1 @@
-var mnemonic = "glory recall boil mountain tag fancy region script clump risk equal plunge";
+var mnemonic = "elephant empower law find pencil verify spray expand bachelor cost kiwi lunch";

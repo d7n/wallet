@@ -1,1 +1,1 @@
-var mnemonic = "coral census fee avocado stool illegal enlist merry clog oil salad keep";
+var mnemonic = "faint wheel shallow gather load coil daring rescue dignity there follow shield";

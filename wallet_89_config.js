@@ -1,1 +1,1 @@
-var mnemonic = "apart random catch whale kingdom pretty disagree join sea sand misery relief";
+var mnemonic = "offer clay trend ring turtle piano essence word east slim cluster exhaust";

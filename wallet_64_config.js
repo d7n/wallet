@@ -1,1 +1,1 @@
-var mnemonic = "another pact raccoon safe polar unveil muscle immense teach adjust audit diagram";
+var mnemonic = "swarm melody usage feed film need lens weekend thumb survey uniform riot";

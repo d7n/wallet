@@ -1,1 +1,1 @@
-var mnemonic = "tenant fringe course mammal spy fault swift woman panic sign album ozone";
+var mnemonic = "around act elbow fog option wrestle stereo speed book present tube update";

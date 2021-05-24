@@ -1,1 +1,1 @@
-var mnemonic = "draft amused tide depart pioneer empty add coconut cancel waste you leisure";
+var mnemonic = "easily vibrant excite industry hill guilt manage wreck next country rescue birth";

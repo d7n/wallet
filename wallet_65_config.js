@@ -1,1 +1,1 @@
-var mnemonic = "degree build wait document evidence mouse keen debris game endless flavor olive";
+var mnemonic = "ecology glance wide someone amount worry bike call stamp visit spider pill";

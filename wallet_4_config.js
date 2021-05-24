@@ -1,1 +1,1 @@
-var mnemonic = "turtle slow rich stumble there icon action goose scrub thumb ship keep";
+var mnemonic = "fashion heavy rug manage supreme almost level stool amateur advice glory fiscal";

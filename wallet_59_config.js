@@ -1,1 +1,1 @@
-var mnemonic = "planet penalty naive picture despair crucial time appear swear hurdle radio palm";
+var mnemonic = "annual impulse require expire west damp law liberty million below horse video";

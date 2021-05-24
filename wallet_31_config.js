@@ -1,1 +1,1 @@
-var mnemonic = "weird quiz relief lottery puzzle jeans example soldier ill damage boost select";
+var mnemonic = "differ clean fiction skull blade tenant pretty crucial lend scare aspect thrive";

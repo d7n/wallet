@@ -1,1 +1,1 @@
-var mnemonic = "office coffee zone crowd remain radar museum swallow trial tail loop dream";
+var mnemonic = "spray charge segment blast direct inhale unfold bridge input dutch again easily";

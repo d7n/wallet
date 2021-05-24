@@ -1,1 +1,1 @@
-var mnemonic = "example absorb claw price vintage town dove tattoo park bunker shy region";
+var mnemonic = "street enough salmon type drastic ostrich mistake tuition pluck universe holiday smoke";

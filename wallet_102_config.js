@@ -1,1 +1,1 @@
-var mnemonic = "energy when reunion blush proud crater bike miss outdoor cruel amazing risk";
+var mnemonic = "cost model lucky rescue puppy album enter ripple copy prosper better essence";

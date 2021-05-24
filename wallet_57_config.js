@@ -1,1 +1,1 @@
-var mnemonic = "urban enrich sudden list benefit fatal animal convince limit route puzzle tomorrow";
+var mnemonic = "noise judge popular double wire woman mom cube real carbon scan tissue";

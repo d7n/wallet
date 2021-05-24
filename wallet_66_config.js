@@ -1,1 +1,1 @@
-var mnemonic = "citizen athlete ladder poem fiction forward vivid february hire slide south surround";
+var mnemonic = "panther dry screen inspire magic brother squirrel wide impulse void empty book";

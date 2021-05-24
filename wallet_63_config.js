@@ -1,1 +1,1 @@
-var mnemonic = "pupil pilot idea twelve arrest slam hill vintage combine vacuum forum feed";
+var mnemonic = "initial excite mom drama fossil leg blossom cement better upper canal analyst";

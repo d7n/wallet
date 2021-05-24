@@ -1,1 +1,1 @@
-var mnemonic = "debris must basic crack shoot polar noodle essay love jewel relax volume";
+var mnemonic = "leader credit ridge near all health giggle garment diamond interest cost dish";

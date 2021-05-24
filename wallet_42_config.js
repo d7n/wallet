@@ -1,1 +1,1 @@
-var mnemonic = "inside away library proof fresh action comfort robot lumber bread exotic approve";
+var mnemonic = "vacant actual daring wrestle sniff voyage cigar cement often bleak adult direct";

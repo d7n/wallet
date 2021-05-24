@@ -1,1 +1,1 @@
-var mnemonic = "alarm snack apple ceiling elegant inquiry misery clap meat virus december travel";
+var mnemonic = "usage section rebel describe amateur bachelor tourist kid sheriff path clever fork";

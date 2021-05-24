@@ -1,1 +1,1 @@
-var mnemonic = "various tooth layer safe trim city dance column consider street brother arrive";
+var mnemonic = "spread chase oxygen derive obscure daughter category trial garden sorry tent bleak";

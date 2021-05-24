@@ -1,1 +1,1 @@
-var mnemonic = "beyond nice blanket result connect thrive gospel leopard have analyst first grocery";
+var mnemonic = "endless young agree bicycle digital certain morning slide nothing parent squirrel quit";

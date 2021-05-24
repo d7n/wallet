@@ -1,1 +1,1 @@
-var mnemonic = "social twist fish estate scrap fade poet drive august knife century must";
+var mnemonic = "hurry crumble resource volcano giant client muffin regret rice gentle fatal sample";

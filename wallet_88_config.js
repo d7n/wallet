@@ -1,1 +1,1 @@
-var mnemonic = "innocent abstract ugly rival afraid sail goose outer credit essay flight hill";
+var mnemonic = "harsh segment stumble pair employ weekend document fossil material fiber indoor face";

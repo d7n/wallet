@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow lens echo away turkey offer soccer utility help exile figure excuse";
+var mnemonic = "board diary supreme someone kind train shy shell replace first profit whale";

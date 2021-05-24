@@ -1,1 +1,1 @@
-var mnemonic = "merry stick sad youth gospel then speak clinic sad harsh thought ivory";
+var mnemonic = "upon left escape fringe oppose own embark admit stumble group tragic salon";

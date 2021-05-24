@@ -1,1 +1,1 @@
-var mnemonic = "unaware assist heavy absorb dignity exclude blind actual drift suspect survey fun";
+var mnemonic = "crouch travel merry plug trust put parrot mouse win connect remove bridge";

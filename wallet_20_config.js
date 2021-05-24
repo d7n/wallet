@@ -1,1 +1,1 @@
-var mnemonic = "insane initial life when wink top rival world swamp brand auction polar";
+var mnemonic = "pride sauce spirit soup pull goat decline insane dinner combine shop caution";

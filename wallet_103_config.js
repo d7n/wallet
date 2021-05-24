@@ -1,1 +1,1 @@
-var mnemonic = "clump old injury blossom quality slide sketch speak october devote valley bring";
+var mnemonic = "shaft decide bitter kangaroo video exchange inform anchor nuclear wink glad mass";

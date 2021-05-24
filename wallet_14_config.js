@@ -1,1 +1,1 @@
-var mnemonic = "festival slight fire cave peanut often camera demand hundred sister basket coffee";
+var mnemonic = "era hurdle pizza desk embrace poverty mean nature zone drive crawl animal";

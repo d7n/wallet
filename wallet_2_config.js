@@ -1,1 +1,1 @@
-var mnemonic = "city exchange chicken sunset ahead claim denial gentle rabbit room fluid raise";
+var mnemonic = "blossom increase coffee organ census awake purse brain place card fashion zone";

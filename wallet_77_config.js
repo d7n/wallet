@@ -1,1 +1,1 @@
-var mnemonic = "record that exotic vehicle hungry negative quiz sadness wagon unfair strategy gaze";
+var mnemonic = "odor silent snake believe frog wire library heart crazy history suit goose";

@@ -1,1 +1,1 @@
-var mnemonic = "consider display discover pulse assume way topple swallow chuckle horror milk fetch";
+var mnemonic = "man person coffee tool wear rescue comic viable fiber hub gloom wet";

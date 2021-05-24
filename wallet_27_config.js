@@ -1,1 +1,1 @@
-var mnemonic = "trophy play trash glance embrace humble door horse they amateur nature agree";
+var mnemonic = "seminar shuffle coconut myth area mind host crop tuna cash dog foot";

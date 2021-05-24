@@ -1,1 +1,1 @@
-var mnemonic = "critic task guard pizza just corn immense month sort license among knife";
+var mnemonic = "assist imitate celery possible hedgehog donate claw copper gaze hockey diesel human";

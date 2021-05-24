@@ -1,1 +1,1 @@
-var mnemonic = "lava luggage quiz area ghost desert jungle follow scare short smoke that";
+var mnemonic = "october minimum guilt patch brass bubble coffee double napkin sun spice distance";

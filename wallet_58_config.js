@@ -1,1 +1,1 @@
-var mnemonic = "ski inject warm ancient card awful tuition exhaust police high very assault";
+var mnemonic = "bid badge shop swap trash modify barely street grit gorilla address pledge";

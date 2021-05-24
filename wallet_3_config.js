@@ -1,1 +1,1 @@
-var mnemonic = "flavor ice name term wild walnut usage current agent cinnamon stumble depart";
+var mnemonic = "produce dignity cereal add delay weasel material fat door squirrel just dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze artefact load comfort spirit usage oval head model liquid laptop thank";
+var mnemonic = "cricket error fatigue carbon elephant comfort mandate noise easily daring crystal version";

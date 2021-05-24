@@ -1,1 +1,1 @@
-var mnemonic = "pioneer cube leopard weasel lend script cloud athlete shrimp human outer spell";
+var mnemonic = "stand can infant film impulse frog swallow dice order isolate square nice";

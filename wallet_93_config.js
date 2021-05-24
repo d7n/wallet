@@ -1,1 +1,1 @@
-var mnemonic = "proof void shop strike emotion smoke whip borrow pupil child prosper voice";
+var mnemonic = "keen area mushroom injury whale wedding ugly planet hurry appear switch burst";

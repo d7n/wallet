@@ -1,1 +1,1 @@
-var mnemonic = "hunt hundred eyebrow shoot pioneer cost milk post seed aerobic quick state";
+var mnemonic = "kite squeeze snack hat right prize wave once student loud danger ancient";

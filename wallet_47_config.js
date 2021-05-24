@@ -1,1 +1,1 @@
-var mnemonic = "dinner grain mind garden size announce fossil electric industry morning strike rate";
+var mnemonic = "cruise detect conduct plastic session lesson palm there master tent cover host";

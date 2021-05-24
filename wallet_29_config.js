@@ -1,1 +1,1 @@
-var mnemonic = "prosper height scrap sword unaware size test ancient govern avocado valley net";
+var mnemonic = "student canal emotion logic lawn rate minimum utility gasp excuse immune lobster";

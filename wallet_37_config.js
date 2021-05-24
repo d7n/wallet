@@ -1,1 +1,1 @@
-var mnemonic = "catch announce melody wasp pulp imitate donor kit winner kid shield erase";
+var mnemonic = "screen already during explain cannon trophy lady type damp resource glass old";

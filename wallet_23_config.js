@@ -1,1 +1,1 @@
-var mnemonic = "summer room brave copper green little weekend witness sting possible turkey end";
+var mnemonic = "frequent danger fog coach avoid immune demise aspect inform veteran credit vicious";

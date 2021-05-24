@@ -1,1 +1,1 @@
-var mnemonic = "gloom bind solid swift cloth bamboo banner question shoe display oyster elder";
+var mnemonic = "use person until jazz jacket high useful juice hover strong silly suspect";

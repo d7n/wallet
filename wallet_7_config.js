@@ -1,1 +1,1 @@
-var mnemonic = "muscle cheese endless robot example weekend gas guilt beauty fly bacon approve";
+var mnemonic = "effort recall caution ugly meadow high absurd divide asset viable throw upset";

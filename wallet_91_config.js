@@ -1,1 +1,1 @@
-var mnemonic = "build edge ask predict report three sniff rifle next museum shrimp ahead";
+var mnemonic = "vast erosion shuffle win month produce toilet mouse notable frown sketch disagree";

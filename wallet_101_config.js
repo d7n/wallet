@@ -1,1 +1,1 @@
-var mnemonic = "rug proud moon wheel huge strategy start install deer young entire brave";
+var mnemonic = "field weapon design buffalo olive since panic will quality border pen burst";

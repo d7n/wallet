@@ -1,1 +1,1 @@
-var mnemonic = "grief uphold cost kick pattern move solve shy west exclude stove canyon";
+var mnemonic = "dial home oil injury deny success sniff bleak inform undo hunt fresh";

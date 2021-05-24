@@ -1,1 +1,1 @@
-var mnemonic = "abstract orchard column thank bounce tool cheap uncle lucky glass message crater";
+var mnemonic = "loan cool hidden assault speak shift ring glove siege height enact regret";

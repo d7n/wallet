@@ -1,1 +1,1 @@
-var mnemonic = "north embark piano circle business burst march circle sibling purse insect odor";
+var mnemonic = "exhibit noise mixed moon weather margin sunset suggest surge middle athlete life";

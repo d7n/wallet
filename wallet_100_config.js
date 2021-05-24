@@ -1,1 +1,1 @@
-var mnemonic = "insect captain shoulder mother menu busy circle ripple magnet exclude visit reason";
+var mnemonic = "silk arrow pass arrive involve example female reward federal swamp kind fly";

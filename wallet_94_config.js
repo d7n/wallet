@@ -1,1 +1,1 @@
-var mnemonic = "awful pupil atom flame range fatigue margin chicken umbrella enforce shiver found";
+var mnemonic = "garment artwork banana soda unit regret recycle giant lazy lounge another equal";

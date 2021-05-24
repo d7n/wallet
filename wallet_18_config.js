@@ -1,1 +1,1 @@
-var mnemonic = "tobacco since great way arrest imitate bundle solution insect stool helmet forum";
+var mnemonic = "gadget churn problem lyrics enter lunar feel despair casino wisdom shift area";

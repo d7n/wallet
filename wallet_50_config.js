@@ -1,1 +1,1 @@
-var mnemonic = "praise safe sell palace father room lazy item park sweet wool sorry";
+var mnemonic = "near anchor clog episode lend ticket spend steel material enroll wash broccoli";

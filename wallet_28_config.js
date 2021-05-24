@@ -1,1 +1,1 @@
-var mnemonic = "dragon priority town trouble cradle pride love twist true prepare outdoor city";
+var mnemonic = "tree doctor scatter duty piano divert stuff print license end reject select";

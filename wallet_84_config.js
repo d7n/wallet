@@ -1,1 +1,1 @@
-var mnemonic = "sound skin tomato squirrel gorilla check remain frequent dolphin hair mirror olive";
+var mnemonic = "reunion distance slight alert muffin crouch infant million idle scare clinic force";

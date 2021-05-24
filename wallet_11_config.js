@@ -1,1 +1,1 @@
-var mnemonic = "universe wealth alter ugly minute smile skull hold index river luxury they";
+var mnemonic = "swarm behind copper canvas crowd snake prize raven tag season mercy volcano";

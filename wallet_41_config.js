@@ -1,1 +1,1 @@
-var mnemonic = "creek country veteran dinner warrior can wire dress describe valley broom isolate";
+var mnemonic = "level master runway stereo output tell vast radar category drama mystery observe";

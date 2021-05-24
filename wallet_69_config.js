@@ -1,1 +1,1 @@
-var mnemonic = "olive right expand cable loan rug attend treat conduct raccoon expire run";
+var mnemonic = "gentle again slab educate neutral mammal box burger desk coil peanut glance";

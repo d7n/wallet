@@ -1,1 +1,1 @@
-var mnemonic = "smile piano man shuffle sleep diesel veteran radio awesome woman title speak";
+var mnemonic = "alone defy quiz leg salt genre approve cloth cousin tell laptop produce";

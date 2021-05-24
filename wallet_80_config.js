@@ -1,1 +1,1 @@
-var mnemonic = "approve cliff supreme shed sorry husband decade normal hockey square image captain";
+var mnemonic = "left history brass twice voice holiday soda injury health royal laptop height";
