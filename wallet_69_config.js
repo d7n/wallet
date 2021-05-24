@@ -1,1 +1,1 @@
-var mnemonic = "diagram rally celery water dance jealous olive blame click caution era river";
+var mnemonic = "news peace cherry cushion hour route chuckle text banana team juice cereal";

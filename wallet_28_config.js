@@ -1,1 +1,1 @@
-var mnemonic = "panda era fatal valley shuffle once solar sick rescue claw dial hold";
+var mnemonic = "warm system dutch among like stumble ice thing chunk juice copy glory";

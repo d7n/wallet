@@ -1,1 +1,1 @@
-var mnemonic = "flip pretty dwarf topple shift burger actual version curious purse ecology tired";
+var mnemonic = "learn parrot kind staff spare confirm vessel sport riot drink sell melt";

@@ -1,1 +1,1 @@
-var mnemonic = "honey fall manage prize either elevator edit excite cube response olympic ecology";
+var mnemonic = "way unique license lyrics dress castle piece degree misery develop price crack";

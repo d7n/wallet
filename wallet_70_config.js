@@ -1,1 +1,1 @@
-var mnemonic = "oven immune come comfort air tragic weapon way later acid hour fault";
+var mnemonic = "alley race narrow candy you oil bean stage mercy hello chapter exhaust";

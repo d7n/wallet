@@ -1,1 +1,1 @@
-var mnemonic = "company stairs depend nest ridge taxi hospital electric token express matter chat";
+var mnemonic = "equal kit actual guess organ reveal engine wear target clay cinnamon bird";

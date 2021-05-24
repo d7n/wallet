@@ -1,1 +1,1 @@
-var mnemonic = "nurse sentence soccer resemble page mention proud fog pumpkin sunny blossom license";
+var mnemonic = "unusual age fabric nature flame okay mimic exercise unaware siege student tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "stone venture tooth element aim anxiety idea number pelican alien throw fence";
+var mnemonic = "real pet update clip chunk amused vote stay current target dawn pact";

@@ -1,1 +1,1 @@
-var mnemonic = "loan sponsor better cram session police expect tumble comic solve gravity patient";
+var mnemonic = "goat pumpkin practice proud anger enjoy sport pistol youth badge spy fury";

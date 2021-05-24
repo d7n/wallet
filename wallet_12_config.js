@@ -1,1 +1,1 @@
-var mnemonic = "crucial walk sick often inner purse peanut forest physical round bacon match";
+var mnemonic = "project father view dolphin critic analyst crumble dawn mom input dream chase";

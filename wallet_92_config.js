@@ -1,1 +1,1 @@
-var mnemonic = "sure refuse horse trim enjoy pink trophy wash purchase goat raven crop";
+var mnemonic = "mean coast state alcohol skin winner scan result episode naive sheriff corn";

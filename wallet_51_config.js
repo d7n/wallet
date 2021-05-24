@@ -1,1 +1,1 @@
-var mnemonic = "budget once shaft logic chapter south produce speed owner lumber arctic ozone";
+var mnemonic = "depart power together leave route earn search spider poverty appear squirrel moment";

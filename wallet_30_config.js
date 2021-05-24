@@ -1,1 +1,1 @@
-var mnemonic = "target lady decide fork card crisp twin kite destroy increase predict mobile";
+var mnemonic = "elbow ramp control stable keen neck miss basic trigger unveil proof beach";

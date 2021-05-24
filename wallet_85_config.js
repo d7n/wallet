@@ -1,1 +1,1 @@
-var mnemonic = "crush core order test topple meadow scare film open weasel exhaust forum";
+var mnemonic = "equip whale display between memory youth advance critic figure subway bean loud";

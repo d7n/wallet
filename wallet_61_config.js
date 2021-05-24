@@ -1,1 +1,1 @@
-var mnemonic = "must fan window faint voyage country oval until forest behind style cannon";
+var mnemonic = "news people media solar party hole excess victory ethics correct way cash";

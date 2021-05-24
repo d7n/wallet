@@ -1,1 +1,1 @@
-var mnemonic = "issue swallow venture word enhance lonely beyond once pet poverty web gallery";
+var mnemonic = "permit grunt pear seven recycle aspect neither split soup deal fury escape";

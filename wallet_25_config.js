@@ -1,1 +1,1 @@
-var mnemonic = "various attitude truth announce local raven scout ridge wrap guitar eternal farm";
+var mnemonic = "left frost fly peanut room govern bone aunt lunar burst sniff ordinary";

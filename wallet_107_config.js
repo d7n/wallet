@@ -1,1 +1,1 @@
-var mnemonic = "mesh blush peanut treat flash plastic decorate sting damp share latin pony";
+var mnemonic = "spot mass clinic stable turkey patrol clock quarter benefit diesel cream cluster";

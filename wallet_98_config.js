@@ -1,1 +1,1 @@
-var mnemonic = "kitchen dawn again rescue annual squeeze deliver marriage choose dove path soccer";
+var mnemonic = "crouch throw curtain sweet cause foam planet present great banner hundred step";

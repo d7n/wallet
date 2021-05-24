@@ -1,1 +1,1 @@
-var mnemonic = "matter spatial divide offer parent situate laptop wagon unhappy average abandon unveil";
+var mnemonic = "horn forget crystal company insane robust lizard tackle dog cattle unknown lazy";

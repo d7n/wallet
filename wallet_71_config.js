@@ -1,1 +1,1 @@
-var mnemonic = "size outdoor afford reveal code happy spatial cannon found service melody theory";
+var mnemonic = "symptom useful alert tennis crash arctic style trip bird human solve quit";

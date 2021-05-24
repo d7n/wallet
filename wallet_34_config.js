@@ -1,1 +1,1 @@
-var mnemonic = "pottery scissors general ensure meadow travel napkin power mule fatal hurdle scrap";
+var mnemonic = "gorilla chapter neglect joy coconut noble surprise dune eye library prize gasp";

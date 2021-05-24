@@ -1,1 +1,1 @@
-var mnemonic = "canvas expect piece merry account cruel trouble hill tennis tilt expand shoe";
+var mnemonic = "worry globe say hill huge injury debate material minimum tackle finish ceiling";

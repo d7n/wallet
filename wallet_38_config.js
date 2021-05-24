@@ -1,1 +1,1 @@
-var mnemonic = "father conduct tennis render utility adult rookie release vehicle absurd bundle exile";
+var mnemonic = "zebra pave abandon like solution tray slim exact blush siren glide jazz";

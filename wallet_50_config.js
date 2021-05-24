@@ -1,1 +1,1 @@
-var mnemonic = "draw degree gather fix material bulb potato toy behind hunt degree place";
+var mnemonic = "pig wool sail swamp brain apart equal liquid hotel all twin exit";

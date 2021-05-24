@@ -1,1 +1,1 @@
-var mnemonic = "street police nasty remind sand again two occur lake region sheriff wrong";
+var mnemonic = "replace monitor trap ozone title robust flock laundry sugar charge slogan excess";

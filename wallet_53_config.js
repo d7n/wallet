@@ -1,1 +1,1 @@
-var mnemonic = "farm anxiety glass end harvest around song aunt grocery advice siege void";
+var mnemonic = "offer crowd speak train light bean utility hold special shoot cricket acid";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran invite orphan tissue used fiber nature fox ribbon forget cloud syrup";
+var mnemonic = "start wagon copy cotton various gloom idea boil basket stumble jazz edge";

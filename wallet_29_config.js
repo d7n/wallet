@@ -1,1 +1,1 @@
-var mnemonic = "deliver one shove spoon section sentence update practice angry shadow fetch donate";
+var mnemonic = "oblige shed box mechanic glue dumb hero discover faculty gain review ankle";

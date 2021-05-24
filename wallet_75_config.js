@@ -1,1 +1,1 @@
-var mnemonic = "effort circle chunk gun unveil hammer clown license afraid card reunion fury";
+var mnemonic = "reunion annual vapor solar merge catalog clerk grow demise issue please quiz";

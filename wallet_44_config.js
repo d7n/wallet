@@ -1,1 +1,1 @@
-var mnemonic = "caught ginger able parrot blush jacket lake face puzzle sentence twin pioneer";
+var mnemonic = "message slim dolphin stable chuckle sound bargain crash lens rhythm salad limb";

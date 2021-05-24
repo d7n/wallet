@@ -1,1 +1,1 @@
-var mnemonic = "color retire wear bid excite market bronze below glass treat snap neck";
+var mnemonic = "shiver promote muscle atom violin erase aspect unhappy april airport ocean code";

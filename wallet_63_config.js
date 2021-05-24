@@ -1,1 +1,1 @@
-var mnemonic = "silver best motor naive size remind canvas else cargo carpet stand indoor";
+var mnemonic = "card approve loop thing enact exhibit elegant outer acid husband curious kidney";

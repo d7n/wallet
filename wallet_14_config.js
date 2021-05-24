@@ -1,1 +1,1 @@
-var mnemonic = "elevator panic noodle alley gas earn talent caught net cereal robot salon";
+var mnemonic = "dragon direct spend give entry vacuum supreme vicious weather boat recycle reward";

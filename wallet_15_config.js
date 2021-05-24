@@ -1,1 +1,1 @@
-var mnemonic = "focus split cricket student winter receive settle labor defy easy symptom remove";
+var mnemonic = "decade elbow material glad loyal fiber island addict forward razor name wine";

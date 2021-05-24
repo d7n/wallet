@@ -1,1 +1,1 @@
-var mnemonic = "armed fun silk faint erosion bulk pistol trim suggest topple slot boat";
+var mnemonic = "vehicle praise waste garment wolf correct girl fetch cube bleak layer pull";

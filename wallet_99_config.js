@@ -1,1 +1,1 @@
-var mnemonic = "cute able urban silver hobby goddess address like cool buffalo leopard choose";
+var mnemonic = "squirrel run bar fox display fetch burger chimney tiny drop decade effort";

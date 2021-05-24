@@ -1,1 +1,1 @@
-var mnemonic = "morning width post engine fiber owner crime memory gate mobile trip bike";
+var mnemonic = "toward brief anger city side predict palace purchase together adapt reason table";

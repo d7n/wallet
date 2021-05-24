@@ -1,1 +1,1 @@
-var mnemonic = "fire rain viable verify warrior smart friend bonus furnace hat impact exotic";
+var mnemonic = "desert tree exile black loyal strong attract timber novel purse envelope rapid";

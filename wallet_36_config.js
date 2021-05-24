@@ -1,1 +1,1 @@
-var mnemonic = "train top purpose solar sound document trend assist weapon fitness renew also";
+var mnemonic = "sunset uncle lava secret peanut acquire join main latin lumber harbor lake";

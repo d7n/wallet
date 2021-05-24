@@ -1,1 +1,1 @@
-var mnemonic = "sentence near pottery muscle token possible syrup media quiz sausage shiver rug";
+var mnemonic = "outdoor stem place raven vanish royal catalog spray hat gadget offer pill";

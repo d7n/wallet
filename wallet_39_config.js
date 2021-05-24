@@ -1,1 +1,1 @@
-var mnemonic = "humble indoor parade outside social brisk inform prefer shallow stone current erosion";
+var mnemonic = "december lion broken friend west jelly pulp leave forest limit asthma asthma";

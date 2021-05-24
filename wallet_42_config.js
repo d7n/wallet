@@ -1,1 +1,1 @@
-var mnemonic = "winner dynamic list cash fetch elegant wear desk purchase give stuff admit";
+var mnemonic = "unable quarter game jeans silver expand orchard zebra build taxi cable glue";

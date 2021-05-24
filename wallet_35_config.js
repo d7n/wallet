@@ -1,1 +1,1 @@
-var mnemonic = "squeeze amount expect all state else crash badge napkin tuition worry visual";
+var mnemonic = "already surge lyrics cluster fan anger benefit reunion start crew tennis canal";

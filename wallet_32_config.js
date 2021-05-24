@@ -1,1 +1,1 @@
-var mnemonic = "differ vocal crawl loyal enforce exact mansion sustain length year trend miracle";
+var mnemonic = "game dust entire spirit lumber struggle avocado season twin pole leader ugly";

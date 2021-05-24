@@ -1,1 +1,1 @@
-var mnemonic = "length left drip have hamster push total pair wait crouch quit kick";
+var mnemonic = "turn shaft apology enhance sword visit crazy bacon wreck check drama spy";

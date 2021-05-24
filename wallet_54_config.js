@@ -1,1 +1,1 @@
-var mnemonic = "luggage clutch matrix bomb shadow addict inner dilemma tumble area pig dwarf";
+var mnemonic = "inspire area spawn raven exhibit bracket say deny common blade price tent";

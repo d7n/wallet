@@ -1,1 +1,1 @@
-var mnemonic = "quote manual final balcony mail open echo egg budget minimum photo fence";
+var mnemonic = "verb mushroom tunnel actress taxi include stomach table say boil aspect pause";

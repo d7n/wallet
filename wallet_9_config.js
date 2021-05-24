@@ -1,1 +1,1 @@
-var mnemonic = "feature safe leopard circle dinosaur can zebra grow film apart fossil educate";
+var mnemonic = "lab harsh fiscal domain kingdom trust torch roast extend crouch primary ski";

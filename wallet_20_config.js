@@ -1,1 +1,1 @@
-var mnemonic = "shield learn reward dial swallow shrimp elder become tongue filter place plastic";
+var mnemonic = "pear private chase best auto raise tunnel involve magic tray obtain woman";

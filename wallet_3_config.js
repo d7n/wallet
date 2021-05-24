@@ -1,1 +1,1 @@
-var mnemonic = "camera throw fiber unable seek cabin artwork way bone club oil hawk";
+var mnemonic = "follow cheese shy fringe flower never hill portion skin taxi rocket zebra";

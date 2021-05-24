@@ -1,1 +1,1 @@
-var mnemonic = "puzzle smart obvious pave creek clutch mixed result employ mad noodle direct";
+var mnemonic = "bench orphan winter donate order tonight mind earn rebuild boss burst brain";

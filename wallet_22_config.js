@@ -1,1 +1,1 @@
-var mnemonic = "second trap decorate push start winner undo general relax problem park delay";
+var mnemonic = "crisp grass arrest scale bridge can spread increase vague this check weasel";

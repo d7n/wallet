@@ -1,1 +1,1 @@
-var mnemonic = "parent trial first there symbol total wisdom local normal skin employ plastic";
+var mnemonic = "aerobic toss oak chest acid speak alien abandon manual you proof warfare";

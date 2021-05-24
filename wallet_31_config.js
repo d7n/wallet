@@ -1,1 +1,1 @@
-var mnemonic = "success mail clump check cigar priority flat dune pilot govern once sun";
+var mnemonic = "silver toe ability bomb review insane reveal unveil steel usual manage police";

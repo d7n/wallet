@@ -1,1 +1,1 @@
-var mnemonic = "reopen angry cradle news myth shove mother sun floor lion ridge chef";
+var mnemonic = "spider come glide tortoise violin mom always quarter salon bulk upon hard";

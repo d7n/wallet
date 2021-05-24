@@ -1,1 +1,1 @@
-var mnemonic = "antique member warrior claw little scene vault educate maid change inspire search";
+var mnemonic = "garbage stuff nuclear chest congress tornado depth base news wreck photo jelly";

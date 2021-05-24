@@ -1,1 +1,1 @@
-var mnemonic = "stem venue seat turkey skate offer dance lucky advance memory adjust engage";
+var mnemonic = "vacant talk month increase return badge trip inhale tray similar ask royal";

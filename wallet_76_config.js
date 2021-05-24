@@ -1,1 +1,1 @@
-var mnemonic = "actual peace front alien electric ozone narrow merit speak decorate vote tennis";
+var mnemonic = "spare basic allow find good search tail promote pen dice notable valid";

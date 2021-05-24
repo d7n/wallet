@@ -1,1 +1,1 @@
-var mnemonic = "opinion slot say guilt vicious spare tongue success shock priority mouse motor";
+var mnemonic = "moral conduct make together decrease wash visa engage assault ask table boat";

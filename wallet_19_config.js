@@ -1,1 +1,1 @@
-var mnemonic = "coffee dial crumble congress kiss topic stairs polar doctor squirrel often tackle";
+var mnemonic = "biology tower profit myself spatial wild grain carry call aspect horse cabbage";

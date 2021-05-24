@@ -1,1 +1,1 @@
-var mnemonic = "party recipe force hub dentist beach civil moment zebra wave already boss";
+var mnemonic = "industry shield evoke zebra fresh brass coyote welcome jealous spot draft hurry";

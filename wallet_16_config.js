@@ -1,1 +1,1 @@
-var mnemonic = "enjoy live asset orchard lady supply elephant arch energy street leaf interest";
+var mnemonic = "exchange glide blame hawk bone dance major vague divide scissors dial primary";

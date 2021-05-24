@@ -1,1 +1,1 @@
-var mnemonic = "indoor palm supreme below spare else trust cattle strong wine cement love";
+var mnemonic = "catalog invite rely wage caught science either dove stick mimic impact reopen";

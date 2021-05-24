@@ -1,1 +1,1 @@
-var mnemonic = "sell middle unlock napkin test harsh today coconut resist yellow tumble brain";
+var mnemonic = "capital rice liberty text grass brush answer primary trend welcome ring wage";

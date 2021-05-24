@@ -1,1 +1,1 @@
-var mnemonic = "energy trend plastic virtual crane table impose confirm they grape chapter radar";
+var mnemonic = "all tomato stadium kidney sign thumb cabbage shock cycle champion nerve grow";

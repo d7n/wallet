@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin call target seed muffin bid coin trial view black vicious jungle";
+var mnemonic = "foot industry jaguar account innocent boring radio very father catalog venue wrap";

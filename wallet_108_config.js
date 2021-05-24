@@ -1,1 +1,1 @@
-var mnemonic = "cereal lake frame sand local boat magic climb result bench evidence waste";
+var mnemonic = "hat bread edit beyond thumb burden equal famous west flash disease stomach";

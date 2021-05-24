@@ -1,1 +1,1 @@
-var mnemonic = "radar knock between someone lens lemon fold faculty oak almost boost olympic";
+var mnemonic = "extra gift raw electric potato ball bachelor umbrella float silly try stage";

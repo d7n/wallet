@@ -1,1 +1,1 @@
-var mnemonic = "portion pepper middle license term old chunk tongue edge bunker predict wood";
+var mnemonic = "loan reduce behind under glove cry interest corn solve clump tired hair";

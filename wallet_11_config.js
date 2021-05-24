@@ -1,1 +1,1 @@
-var mnemonic = "toe other pizza budget naive sustain shaft enemy bone uniform industry gain";
+var mnemonic = "bus body type radio mimic gap twin physical debate parade parade squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "media share need toward security guide lottery wealth half hungry sugar lunar";
+var mnemonic = "keen nature shadow hero salon jar valley gather resource lonely input cousin";

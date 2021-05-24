@@ -1,1 +1,1 @@
-var mnemonic = "draft unfair father ready afford senior purchase banner shift donor elbow left";
+var mnemonic = "file gentle proof shine echo prepare egg school flee waste humor hungry";

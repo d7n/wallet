@@ -1,1 +1,1 @@
-var mnemonic = "purchase crime swim shove battle frame just indicate top begin onion soap";
+var mnemonic = "grow window ridge approve march quit deal strong defense female copper width";

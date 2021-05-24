@@ -1,1 +1,1 @@
-var mnemonic = "annual bread cherry session sail chalk edge vast hover category meat enable";
+var mnemonic = "stomach design coyote rescue laptop general domain valid replace chef candy excite";

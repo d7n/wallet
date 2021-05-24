@@ -1,1 +1,1 @@
-var mnemonic = "raven chase drop mixed rib split pumpkin pride expand stem above mammal";
+var mnemonic = "cloud nature book system creek art above produce erosion deal height cabbage";

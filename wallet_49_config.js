@@ -1,1 +1,1 @@
-var mnemonic = "solve lawsuit trumpet add later armed fork broccoli bright recycle peanut spare";
+var mnemonic = "chase club view win caught add nominee vendor barrel economy evil account";

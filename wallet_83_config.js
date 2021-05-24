@@ -1,1 +1,1 @@
-var mnemonic = "just desert web gesture belt version text mean hazard basic story sunset";
+var mnemonic = "shoot turtle snack what satoshi pyramid rate toss marble people swift pizza";

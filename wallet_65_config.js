@@ -1,1 +1,1 @@
-var mnemonic = "employ salad normal regular brother opinion rally similar aunt demise pluck mind";
+var mnemonic = "night large deer business oxygen antenna tent human pet warrior tooth roof";

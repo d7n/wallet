@@ -1,1 +1,1 @@
-var mnemonic = "inform buyer artwork train spawn hungry roof gossip argue peasant winter excess";
+var mnemonic = "loop clean rocket scheme case crash donor mammal limit mixture monitor cancel";

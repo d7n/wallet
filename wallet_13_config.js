@@ -1,1 +1,1 @@
-var mnemonic = "faculty sad certain glove loan mutual cry tourist list bronze whisper secret";
+var mnemonic = "fluid squirrel trade merge fit flag direct eight zero inherit noodle side";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction enter retreat alpha suspect deer manage scout cherry custom sweet live";
+var mnemonic = "urban near trip heavy grace glue beef phrase trust town latin gym";

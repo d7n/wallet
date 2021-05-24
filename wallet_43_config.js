@@ -1,1 +1,1 @@
-var mnemonic = "boost next reward income chapter hundred rookie unfair print glory arch fiction";
+var mnemonic = "olive love runway zebra gift endorse explain mesh solve ring segment dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "mass sea holiday tenant fish gold mutual view ocean empty dinner worth";
+var mnemonic = "cute museum trial riot urban wine account nuclear shallow ranch present elbow";
