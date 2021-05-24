@@ -1,1 +1,1 @@
-var mnemonic = "frequent clinic toddler host goat gym steel custom youth future sad document";
+var mnemonic = "easy calm bottom ready huge soup fade fatal able scheme gorilla good";

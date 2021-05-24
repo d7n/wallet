@@ -1,1 +1,1 @@
-var mnemonic = "grid grow rubber immune crouch wave lunch dry hotel meadow cupboard gesture";
+var mnemonic = "civil among cake sister west object ghost web note member churn stove";

@@ -1,1 +1,1 @@
-var mnemonic = "begin rotate usage nice youth pistol biology child depend foot bundle dust";
+var mnemonic = "stumble manage orange salt badge produce fringe top duck slim draft resemble";

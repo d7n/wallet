@@ -1,1 +1,1 @@
-var mnemonic = "bunker raise proof time ability magnet wish ramp exact letter cabbage boil";
+var mnemonic = "beauty exotic that curious allow pledge sense carry track edit pretty dress";

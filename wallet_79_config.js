@@ -1,1 +1,1 @@
-var mnemonic = "goat liar spike poem mobile always project grain series kiwi caution medal";
+var mnemonic = "wheat resource festival animal tuna dove protect tape core remember act unlock";

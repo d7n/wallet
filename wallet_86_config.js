@@ -1,1 +1,1 @@
-var mnemonic = "invest dirt number canoe fine reopen month enforce famous keep tobacco witness";
+var mnemonic = "total cheap flip horse dawn crowd friend pledge engage ugly scheme inquiry";

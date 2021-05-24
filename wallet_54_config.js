@@ -1,1 +1,1 @@
-var mnemonic = "cheese roof outside fossil soccer army melt oak abstract boy rural chuckle";
+var mnemonic = "solution track display stereo fury future error violin umbrella eternal raccoon indicate";

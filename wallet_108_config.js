@@ -1,1 +1,1 @@
-var mnemonic = "crisp monster carpet scrub raven bike enforce finish clock first figure explain";
+var mnemonic = "edge victory base own audit lecture domain dance enter arena trade thumb";

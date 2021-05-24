@@ -1,1 +1,1 @@
-var mnemonic = "alcohol flip zone brass mechanic world chapter bonus usual asthma badge snake";
+var mnemonic = "grab lab bright onion tree write unhappy lunch viable cross normal injury";

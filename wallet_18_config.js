@@ -1,1 +1,1 @@
-var mnemonic = "wonder local surge tornado hole adjust check exile problem tag isolate toddler";
+var mnemonic = "measure shrimp suit number tiny tomato quick squeeze ahead syrup blush better";

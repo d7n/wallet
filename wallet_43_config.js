@@ -1,1 +1,1 @@
-var mnemonic = "lab spin two plate exit hint pool garage spend fly obscure reject";
+var mnemonic = "kid pave quote tobacco scrap antique coil blind teach shiver around organ";

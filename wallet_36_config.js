@@ -1,1 +1,1 @@
-var mnemonic = "purity rhythm rubber side popular ribbon adapt property teach same replace orchard";
+var mnemonic = "dust fog page labor ceiling world impact drama forget solar service bamboo";

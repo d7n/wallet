@@ -1,1 +1,1 @@
-var mnemonic = "social twelve extend found nothing conduct grit empty cash modify metal kite";
+var mnemonic = "resource split cupboard coast force world capital drop powder catch adjust abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "desert material buzz change mouse jewel scissors level robot infant actress fence";
+var mnemonic = "symptom south idea coral seven naive champion disorder motor flush cargo pond";

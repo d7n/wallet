@@ -1,1 +1,1 @@
-var mnemonic = "auction audit loyal romance try spin can devote recipe boat immense time";
+var mnemonic = "scene suspect enlist kingdom satoshi year mountain census foam bacon beef armed";

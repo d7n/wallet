@@ -1,1 +1,1 @@
-var mnemonic = "since muscle laptop hunt edge element sheriff radar path follow just song";
+var mnemonic = "ice engage control midnight boy spring gain text truly close token traffic";

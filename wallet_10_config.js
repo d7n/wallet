@@ -1,1 +1,1 @@
-var mnemonic = "enable switch lucky offer wedding other invest story drum stairs level devote";
+var mnemonic = "gap arm sudden menu forget film other slide reduce brain wisdom calm";

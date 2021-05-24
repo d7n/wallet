@@ -1,1 +1,1 @@
-var mnemonic = "labor manage satoshi mule tone inject merry produce flavor mistake target soup";
+var mnemonic = "gloom frequent trend equip example idea recipe swamp bulk arm reject bicycle";

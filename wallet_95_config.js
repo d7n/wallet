@@ -1,1 +1,1 @@
-var mnemonic = "length virus sudden proud install educate common mirror gym budget ethics drive";
+var mnemonic = "harvest ceiling hidden view output liar rice exchange warfare donkey hair census";

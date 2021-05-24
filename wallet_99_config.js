@@ -1,1 +1,1 @@
-var mnemonic = "rate crunch crowd alpha indoor same jazz script enable strike shrug cream";
+var mnemonic = "art two special cushion bullet siren dream century swamp early giraffe adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard garbage pear annual renew best borrow tape please below kind answer";
+var mnemonic = "debris sudden cool garage oppose must bind humble accuse marriage spider cost";

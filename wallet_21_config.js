@@ -1,1 +1,1 @@
-var mnemonic = "write business wife okay pencil behind castle pattern visit code put shoot";
+var mnemonic = "around town double hawk squirrel derive approve truly fold craft shoe grass";

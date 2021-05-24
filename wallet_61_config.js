@@ -1,1 +1,1 @@
-var mnemonic = "sustain dwarf typical proof still fortune liar bus sense address current also";
+var mnemonic = "jaguar spawn youth evidence shoulder page dune shift humble coconut stone post";

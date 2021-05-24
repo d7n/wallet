@@ -1,1 +1,1 @@
-var mnemonic = "mother video thought maximum shoot pelican mobile surround rain angry pass violin";
+var mnemonic = "risk kiwi dad amazing benefit frame coffee derive crater dial response false";

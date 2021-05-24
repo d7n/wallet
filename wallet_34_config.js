@@ -1,1 +1,1 @@
-var mnemonic = "draft vehicle amused expire spare rail cushion chalk tent fame still tattoo";
+var mnemonic = "tongue scare popular reveal utility result victory nuclear square try job permit";

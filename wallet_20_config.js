@@ -1,1 +1,1 @@
-var mnemonic = "staff sadness online team urban clerk delay axis offer chicken chat glimpse";
+var mnemonic = "nurse autumn educate claim fog elbow hamster horror soda business saddle tiny";

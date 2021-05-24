@@ -1,1 +1,1 @@
-var mnemonic = "chief seek plate plastic behave bounce shoe sister damp right waste brain";
+var mnemonic = "clog differ hero eyebrow napkin tissue topic timber bag record cruise pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "document acid topple ridge various aerobic hunt hotel code phone symbol very";
+var mnemonic = "arctic answer garlic fetch blade uniform science glimpse faith access advice fatigue";

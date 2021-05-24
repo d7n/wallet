@@ -1,1 +1,1 @@
-var mnemonic = "remind crisp wrestle rather neutral staff paddle diet art multiply general improve";
+var mnemonic = "empower ginger cross practice craft apology ozone observe swarm hat doctor ranch";

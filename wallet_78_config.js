@@ -1,1 +1,1 @@
-var mnemonic = "glue assist sunny blind city thumb saddle climb arch barrel danger nature";
+var mnemonic = "sword crater fame lobster payment unusual trend honey service detail awkward describe";

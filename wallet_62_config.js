@@ -1,1 +1,1 @@
-var mnemonic = "galaxy country capital second tray arch sure entry paper fog slow stamp";
+var mnemonic = "merit mix captain squeeze sunset mixture wink episode guide lend puppy okay";

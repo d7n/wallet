@@ -1,1 +1,1 @@
-var mnemonic = "coffee toy couple gap close split position assume tomorrow minor legal bench";
+var mnemonic = "update drill sausage inspire tower kit critic acoustic stable afraid better laundry";

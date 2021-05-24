@@ -1,1 +1,1 @@
-var mnemonic = "ready eternal fluid coffee boring tank recall affair thought six draw couple";
+var mnemonic = "mirror stage switch visual pattern gym profit federal meadow amount host because";

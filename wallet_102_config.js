@@ -1,1 +1,1 @@
-var mnemonic = "juice tumble submit royal trend farm own boost gravity report describe seminar";
+var mnemonic = "gather point liberty alien soap broccoli rule uphold any glove scene intact";

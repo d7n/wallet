@@ -1,1 +1,1 @@
-var mnemonic = "phone lake label reveal sound spot awake pony trigger noble average ticket";
+var mnemonic = "grab luxury energy original front essence body fault slam arctic board amateur";

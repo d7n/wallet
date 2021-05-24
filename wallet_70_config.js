@@ -1,1 +1,1 @@
-var mnemonic = "employ immense identify convince lens reveal rough owner above mass ugly expand";
+var mnemonic = "toddler mimic diary trophy zoo cricket leg olympic snap attend mouse other";

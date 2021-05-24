@@ -1,1 +1,1 @@
-var mnemonic = "orbit fire voice mind plate amused run track glove casual critic state";
+var mnemonic = "label agent scare limb shy leisure strong meat market liar grant issue";

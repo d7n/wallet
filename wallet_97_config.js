@@ -1,1 +1,1 @@
-var mnemonic = "burger melt soft horn true youth boy ceiling bleak mouse marriage initial";
+var mnemonic = "oil describe cruise enrich zoo wasp control book lazy fabric awful airport";

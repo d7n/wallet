@@ -1,1 +1,1 @@
-var mnemonic = "glory clap rebuild squeeze shove among bunker fade panic tissue option shiver";
+var mnemonic = "wall embody trim apart pig derive hole stadium away whisper vote tobacco";

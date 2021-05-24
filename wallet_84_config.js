@@ -1,1 +1,1 @@
-var mnemonic = "alpha unique barrel photo year lesson total also uncover oval same elegant";
+var mnemonic = "symptom engage push bid bring tomato say denial jaguar coin leopard cigar";

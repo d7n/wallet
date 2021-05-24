@@ -1,1 +1,1 @@
-var mnemonic = "dolphin kingdom report ankle save whip lottery lesson strike mandate project pioneer";
+var mnemonic = "waste artefact case isolate tooth bundle state agree option oak plug pave";

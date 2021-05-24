@@ -1,1 +1,1 @@
-var mnemonic = "system shoulder ecology search crystal drill black silver unfair brave another poverty";
+var mnemonic = "tennis lady shoe wood cluster cheap sound pen wide smooth random nature";

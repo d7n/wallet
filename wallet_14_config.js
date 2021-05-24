@@ -1,1 +1,1 @@
-var mnemonic = "general junior layer replace bean fresh away start very great conduct teach";
+var mnemonic = "ahead team jeans draft copper peasant earn human absorb nation vibrant cloud";

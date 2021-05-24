@@ -1,1 +1,1 @@
-var mnemonic = "ice order area salad permit drive faith garage unaware tobacco battle unique";
+var mnemonic = "section lunar lobster audit awake edge isolate catch want slice better ladder";

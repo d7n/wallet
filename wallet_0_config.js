@@ -1,1 +1,1 @@
-var mnemonic = "copy list better involve mimic trophy tackle zero bench donkey asthma output";
+var mnemonic = "shove wash step sunny tongue angry frozen salon buddy cannon clean cabin";

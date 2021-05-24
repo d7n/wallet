@@ -1,1 +1,1 @@
-var mnemonic = "mule pupil juice visa atom nerve resource rigid height give try current";
+var mnemonic = "spin illegal disease social adapt waste copy april idle reason topic crowd";

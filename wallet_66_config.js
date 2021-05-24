@@ -1,1 +1,1 @@
-var mnemonic = "aerobic safe inject athlete special crew mom venture drum boil smart copy";
+var mnemonic = "surround coyote utility material wine daring promote bean uncover foam area improve";

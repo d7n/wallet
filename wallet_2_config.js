@@ -1,1 +1,1 @@
-var mnemonic = "trigger meadow push chef rescue glass laundry soldier defense clever wife minimum";
+var mnemonic = "just hope cousin general diet skull icon scale stem steel mix craft";

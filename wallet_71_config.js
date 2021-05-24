@@ -1,1 +1,1 @@
-var mnemonic = "magic word diary media actress small marriage original matter radar symbol park";
+var mnemonic = "car subject mechanic portion twenty total weapon pioneer time autumn gossip valve";

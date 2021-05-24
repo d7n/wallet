@@ -1,1 +1,1 @@
-var mnemonic = "pulse retire minor pizza aware capital satisfy tiger clerk reject road tonight";
+var mnemonic = "advance hard resist cinnamon toilet smoke sand cannon wall leopard energy nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "alter pizza slow young dentist similar exchange deer quarter quit only sock";
+var mnemonic = "vast cover concert hair sugar crouch steak pipe right twist until clinic";

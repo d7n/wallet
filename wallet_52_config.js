@@ -1,1 +1,1 @@
-var mnemonic = "bulk drink picnic sure either slender describe tennis sponsor magic cement total";
+var mnemonic = "pilot ramp cheese motor trigger pond defy physical better excuse route boost";

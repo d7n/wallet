@@ -1,1 +1,1 @@
-var mnemonic = "flat bargain finger soldier govern few swallow tomorrow machine treat major region";
+var mnemonic = "armed little agent leaf crater tortoise equal tape goddess silly segment illness";

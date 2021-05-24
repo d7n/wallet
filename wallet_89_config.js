@@ -1,1 +1,1 @@
-var mnemonic = "caution vacuum price clip uncle genuine sketch blossom afford like myth alcohol";
+var mnemonic = "minute pair maze illegal surface jelly real alone pet liquid nerve knee";

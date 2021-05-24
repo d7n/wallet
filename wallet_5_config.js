@@ -1,1 +1,1 @@
-var mnemonic = "flame engage nothing tank anxiety unit avoid debris crucial pistol place kidney";
+var mnemonic = "cheese permit live involve obvious half gallery roof farm stage economy evolve";

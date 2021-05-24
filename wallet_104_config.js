@@ -1,1 +1,1 @@
-var mnemonic = "upgrade mouse coach south drift zero benefit kiss figure song timber client";
+var mnemonic = "tonight chief dismiss beach ride maze kick visit trumpet comic since priority";

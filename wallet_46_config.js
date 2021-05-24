@@ -1,1 +1,1 @@
-var mnemonic = "shove mule jacket donate eight else dawn bridge timber margin artwork erosion";
+var mnemonic = "vehicle cover rude off stumble ancient document once gift pen scorpion drastic";

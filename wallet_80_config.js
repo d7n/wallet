@@ -1,1 +1,1 @@
-var mnemonic = "become fan island park inhale mosquito timber they day picnic garlic school";
+var mnemonic = "please person crazy grocery tower abuse wasp provide often blush response exit";

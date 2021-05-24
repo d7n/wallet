@@ -1,1 +1,1 @@
-var mnemonic = "find prize great reunion decorate hard lizard seminar manual again orphan demand";
+var mnemonic = "business engage hammer space dress elegant train void trial pond violin mass";

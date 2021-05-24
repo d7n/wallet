@@ -1,1 +1,1 @@
-var mnemonic = "awkward average uncover legal cannon mobile taxi shop stock attack dutch talk";
+var mnemonic = "satisfy easily fold devote end equip believe fury hunt athlete floor stem";

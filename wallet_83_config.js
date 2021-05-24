@@ -1,1 +1,1 @@
-var mnemonic = "tuition nation snake airport thrive sausage hood ignore image disorder decorate pizza";
+var mnemonic = "rain raise essence tongue trust guilt video space corn twenty smart resource";

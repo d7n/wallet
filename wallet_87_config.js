@@ -1,1 +1,1 @@
-var mnemonic = "absurd demand glow coffee coin reflect bread dad tower birth reflect round";
+var mnemonic = "assume comfort outdoor umbrella need want inflict cabin key flame similar crumble";

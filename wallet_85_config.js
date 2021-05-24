@@ -1,1 +1,1 @@
-var mnemonic = "rural above farm stomach elbow gravity silver slide decide dawn glide merge";
+var mnemonic = "life insect huge soap route romance argue section scheme curious laptop what";

@@ -1,1 +1,1 @@
-var mnemonic = "spare ski trend response east destroy sing flavor school fame dawn quality";
+var mnemonic = "sign tomorrow outside message cook staff rotate insect human virtual love grocery";

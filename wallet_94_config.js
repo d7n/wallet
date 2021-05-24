@@ -1,1 +1,1 @@
-var mnemonic = "text room lumber foster scorpion summer whip undo south pig zone desert";
+var mnemonic = "cigar peace print wheat jeans orient horse bonus floor state shaft night";

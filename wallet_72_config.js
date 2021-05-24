@@ -1,1 +1,1 @@
-var mnemonic = "wood enjoy nerve cool ridge little body void upper scrub stool capital";
+var mnemonic = "purpose pen manual sunny solar affair permit aspect public wear job fork";

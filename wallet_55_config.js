@@ -1,1 +1,1 @@
-var mnemonic = "south lunar sunset case frozen village token rescue pulse notice federal normal";
+var mnemonic = "coach final mercy desert point resemble tomorrow coast multiply paper jealous idea";

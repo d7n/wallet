@@ -1,1 +1,1 @@
-var mnemonic = "lecture peace wide budget juice finger genuine settle barrel frown wreck engage";
+var mnemonic = "vendor piece prevent orchard hospital extend six vicious catch close private cool";

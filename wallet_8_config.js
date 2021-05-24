@@ -1,1 +1,1 @@
-var mnemonic = "tag grocery fetch tragic little cry remain laugh gravity lonely wagon front";
+var mnemonic = "wall general bag all feature find sister accuse final toward general shoot";

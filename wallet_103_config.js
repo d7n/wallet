@@ -1,1 +1,1 @@
-var mnemonic = "lottery type bargain unique belt document tomato plastic wild vocal foster joy";
+var mnemonic = "sign below derive puzzle athlete twice rapid grow endorse member spider run";

@@ -1,1 +1,1 @@
-var mnemonic = "check sheriff toast hen coral venue meat banner fat mad theory drink";
+var mnemonic = "quality century plug thunder shell juice rail wool enact maid gossip ostrich";

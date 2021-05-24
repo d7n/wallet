@@ -1,1 +1,1 @@
-var mnemonic = "gift hole advice street region survey era improve cement youth wear genius";
+var mnemonic = "scout door isolate bomb about oven amazing month school tank eight motion";

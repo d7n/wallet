@@ -1,1 +1,1 @@
-var mnemonic = "pulp science crowd panther circle ice year multiply guide either near dose";
+var mnemonic = "coin area enough hero census worth scale lock prison bless hope chair";

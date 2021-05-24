@@ -1,1 +1,1 @@
-var mnemonic = "envelope property dragon laugh surge outer connect pipe leader behave float assist";
+var mnemonic = "tumble shoulder cry sound one shoot chalk avocado glide trial lobster pattern";

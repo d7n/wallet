@@ -1,1 +1,1 @@
-var mnemonic = "armor other journey tag humor voyage web tag program pottery cube hurry";
+var mnemonic = "stairs issue pitch scorpion intact dilemma need shoulder dirt lyrics antenna game";

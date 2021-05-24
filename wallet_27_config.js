@@ -1,1 +1,1 @@
-var mnemonic = "unveil print mail youth chunk front stool ecology issue supreme strategy tongue";
+var mnemonic = "blossom useful volcano danger pool federal gaze modify stomach truly shed bread";

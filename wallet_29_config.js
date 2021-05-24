@@ -1,1 +1,1 @@
-var mnemonic = "valid valve truly mirror loyal open sponsor genre million decrease muscle pig";
+var mnemonic = "seat acoustic junior film ability love loop tourist priority music pull bridge";

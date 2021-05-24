@@ -1,1 +1,1 @@
-var mnemonic = "warfare pilot inherit movie busy train clutch spy able diagram father start";
+var mnemonic = "wrist equal expand crater coral tattoo sick maze click bridge joy van";

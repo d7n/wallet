@@ -1,1 +1,1 @@
-var mnemonic = "inherit bronze release require differ opera clay input girl increase idle arm";
+var mnemonic = "broken manage someone bleak behind apart wasp major height wide diet pulp";

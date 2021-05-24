@@ -1,1 +1,1 @@
-var mnemonic = "poverty tube athlete cement danger hover spin rubber mail walk elite elder";
+var mnemonic = "usual refuse mule card pulp boil flush peasant sweet verify detect produce";

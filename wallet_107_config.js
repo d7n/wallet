@@ -1,1 +1,1 @@
-var mnemonic = "tourist swim orbit drill over error segment drift heart mom grunt company";
+var mnemonic = "man win among sorry oak hair upper can major holiday mercy mimic";

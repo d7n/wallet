@@ -1,1 +1,1 @@
-var mnemonic = "skill miracle tooth infant happy soldier ethics wool urge circle body unfold";
+var mnemonic = "mind napkin during champion miracle advice often carpet bench weasel teach choose";

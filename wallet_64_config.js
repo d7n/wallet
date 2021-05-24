@@ -1,1 +1,1 @@
-var mnemonic = "whisper client wink fame gallery afford cram seed chaos nephew often when";
+var mnemonic = "invest hobby cute home decorate ahead route annual trouble crouch super scissors";

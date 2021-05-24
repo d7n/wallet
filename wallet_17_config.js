@@ -1,1 +1,1 @@
-var mnemonic = "much jazz garlic tissue scale media blur any pepper glide exotic lawsuit";
+var mnemonic = "armor sphere family reform mandate book large arch matrix weird barely doctor";

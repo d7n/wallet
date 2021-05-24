@@ -1,1 +1,1 @@
-var mnemonic = "shed gown morning van suggest average myself office urban undo potato vehicle";
+var mnemonic = "enlist tennis warm brief ten fatigue robot veteran fun short traffic guard";

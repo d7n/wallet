@@ -1,1 +1,1 @@
-var mnemonic = "quiz hurry couch day indoor lend brisk primary flee mouse garden clutch";
+var mnemonic = "truth monitor cheap file grunt speed detect warrior absurd salmon heavy elite";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss short diary lady price master belt slush timber piece about cotton";
+var mnemonic = "knife congress inherit ecology bubble clarify thought next just advance squeeze spring";

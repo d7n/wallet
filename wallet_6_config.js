@@ -1,1 +1,1 @@
-var mnemonic = "cigar reject soldier sample thunder quality feature hope hurt hundred runway slice";
+var mnemonic = "green shallow come asthma zebra team bounce bullet paper online icon cattle";

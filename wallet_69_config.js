@@ -1,1 +1,1 @@
-var mnemonic = "fame cradle uphold install color chase balcony purpose shock accident sister potato";
+var mnemonic = "among seat post wage ill concert also sibling first debate bar vocal";

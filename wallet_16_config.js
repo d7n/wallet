@@ -1,1 +1,1 @@
-var mnemonic = "reward decide come script awesome cover display sphere digital cattle trust provide";
+var mnemonic = "page sibling increase convince era hat uncover hen defy immune wolf layer";

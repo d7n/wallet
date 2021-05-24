@@ -1,1 +1,1 @@
-var mnemonic = "aspect reunion resist almost crime canoe cart meat hen joy bamboo unlock";
+var mnemonic = "actual have caught mask slight hip dinner dice allow make resource release";
