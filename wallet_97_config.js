@@ -1,1 +1,1 @@
-var mnemonic = "velvet noodle payment swap toe fetch print cargo true brief knee gentle";
+var mnemonic = "lunch between off grape time board man mutual trade shiver parrot course";

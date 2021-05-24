@@ -1,1 +1,1 @@
-var mnemonic = "pause approve mosquito tennis team fall cigar slab bicycle surface indicate leopard";
+var mnemonic = "truck today mad vehicle surface employ equal hundred only pumpkin team ketchup";

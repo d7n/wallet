@@ -1,1 +1,1 @@
-var mnemonic = "muffin core expose spike proof interest emotion elite minimum grid absent latin";
+var mnemonic = "boring describe trim lesson predict kitchen clinic toward love beach clown dish";

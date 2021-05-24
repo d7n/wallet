@@ -1,1 +1,1 @@
-var mnemonic = "truck used rescue have buffalo matter olive dwarf sugar now deposit master";
+var mnemonic = "plug rich tribe pluck dentist oil cinnamon humor marriage can romance predict";

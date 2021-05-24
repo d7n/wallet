@@ -1,1 +1,1 @@
-var mnemonic = "business radar among fetch romance left swamp razor joy volcano caught interest";
+var mnemonic = "salon scene motion song badge silent frog angry polar result advice throw";

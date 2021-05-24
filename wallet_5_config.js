@@ -1,1 +1,1 @@
-var mnemonic = "helmet parent donkey cram decline scare note belt swallow tent estate predict";
+var mnemonic = "author shallow furnace annual social fabric embark verify vanish clinic suggest random";

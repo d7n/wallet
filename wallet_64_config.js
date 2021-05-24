@@ -1,1 +1,1 @@
-var mnemonic = "rotate borrow approve congress dirt excess nephew private flee address run timber";
+var mnemonic = "wisdom tongue away true hair fog tunnel forum discover loud detect ocean";

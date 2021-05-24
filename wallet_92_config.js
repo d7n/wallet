@@ -1,1 +1,1 @@
-var mnemonic = "pelican winner interest boy merit present friend ankle garment glow curious palm";
+var mnemonic = "hamster salmon inquiry into robust follow head unusual amount twin nice hole";

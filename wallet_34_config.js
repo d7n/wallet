@@ -1,1 +1,1 @@
-var mnemonic = "audit enhance sauce hip century forest tiny coral obtain battle lab differ";
+var mnemonic = "call blush decorate margin heart case change trim food undo inch piece";

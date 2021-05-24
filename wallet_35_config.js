@@ -1,1 +1,1 @@
-var mnemonic = "salad fragile give region dutch seat bubble wealth between amount sweet winner";
+var mnemonic = "reveal slot diary tower combine under under dignity story inmate endless evoke";

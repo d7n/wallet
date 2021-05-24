@@ -1,1 +1,1 @@
-var mnemonic = "brown fringe price jeans paddle game despair lizard alpha culture cause can";
+var mnemonic = "accident piano hip spoon nature bulk carpet pilot mask seminar cream throw";

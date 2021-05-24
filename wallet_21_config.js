@@ -1,1 +1,1 @@
-var mnemonic = "juice item skin report island smile dish one gauge talk sponsor gym";
+var mnemonic = "orbit skill chat trap company hybrid during purity scout soft cause dose";

@@ -1,1 +1,1 @@
-var mnemonic = "poet squirrel any field change faint differ garden slide frown absent island";
+var mnemonic = "sing garage behave edge citizen alien between fatal bid echo loyal inside";

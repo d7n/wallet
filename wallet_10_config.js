@@ -1,1 +1,1 @@
-var mnemonic = "pistol fluid water wasp spare slogan impose comic table stone song innocent";
+var mnemonic = "bounce shuffle shy wood trial history copper combine miracle oppose health brown";

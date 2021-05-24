@@ -1,1 +1,1 @@
-var mnemonic = "rival sponsor huge inform moment skull announce credit report element equip uncle";
+var mnemonic = "glide dice mansion stone satoshi bring survey about economy bargain cover smoke";

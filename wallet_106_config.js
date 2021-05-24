@@ -1,1 +1,1 @@
-var mnemonic = "potato sugar robust empty grief can wealth slam afraid journey camera egg";
+var mnemonic = "dismiss during you three ketchup gesture penalty earn quantum craft upper tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify cupboard secret tomato wrap auto borrow kick release avoid title settle";
+var mnemonic = "volcano any knife divert pumpkin crane air approve brown bronze surface blame";

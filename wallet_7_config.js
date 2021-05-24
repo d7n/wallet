@@ -1,1 +1,1 @@
-var mnemonic = "banner cattle glad tortoise various glue enrich sort verb guilt sun giant";
+var mnemonic = "civil supply gravity increase stereo trial proof enroll speed income flat cage";

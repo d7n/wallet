@@ -1,1 +1,1 @@
-var mnemonic = "smooth sight select impose prevent fault window normal funny idle frozen jaguar";
+var mnemonic = "satisfy reward lumber frog sheriff mother angle narrow excuse void rally way";

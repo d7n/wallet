@@ -1,1 +1,1 @@
-var mnemonic = "payment regular come banner grid dignity cereal sun lens sail crumble mention";
+var mnemonic = "fog door liberty talk gossip then parade blur brief exhaust slogan million";

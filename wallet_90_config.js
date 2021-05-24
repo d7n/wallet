@@ -1,1 +1,1 @@
-var mnemonic = "marine purpose wrestle clerk warrior castle craft attract direct burst series shoulder";
+var mnemonic = "panel alarm dragon corn provide spot earn drip rose modify cover foam";

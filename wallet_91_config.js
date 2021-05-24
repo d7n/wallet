@@ -1,1 +1,1 @@
-var mnemonic = "future boat rebel remain enroll drop donate cruise hope law decorate destroy";
+var mnemonic = "ramp enjoy debate people attitude angle habit bike forum quit elbow empower";

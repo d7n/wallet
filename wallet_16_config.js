@@ -1,1 +1,1 @@
-var mnemonic = "ocean ask owner obtain improve time sadness picture moral genre major height";
+var mnemonic = "fee glow heart museum figure build pole beauty barely regular auto silent";

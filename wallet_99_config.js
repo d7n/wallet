@@ -1,1 +1,1 @@
-var mnemonic = "physical distance autumn moral trade awake surface give wheat put clump wave";
+var mnemonic = "gun monkey retreat song cotton swear guess arrange now bag infant possible";

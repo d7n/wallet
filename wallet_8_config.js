@@ -1,1 +1,1 @@
-var mnemonic = "rebuild funny dose audit roast laundry rookie dignity labor grit shed gas";
+var mnemonic = "snack fault plunge float marine ceiling glide label result keen rally hand";

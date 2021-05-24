@@ -1,1 +1,1 @@
-var mnemonic = "because burst green deposit rude exhaust salmon upon exhaust stairs innocent able";
+var mnemonic = "shed accuse mistake unaware tired submit sleep portion romance visit urge fold";

@@ -1,1 +1,1 @@
-var mnemonic = "music miracle owner fall sport front cactus swamp penalty mercy fragile tower";
+var mnemonic = "village utility total donkey network farm gravity radio move shop hospital drip";

@@ -1,1 +1,1 @@
-var mnemonic = "act online stock blossom clerk comic door gain cry seminar purse random";
+var mnemonic = "bargain purchase liar voice rack rival giant make huge work deputy trumpet";

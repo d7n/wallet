@@ -1,1 +1,1 @@
-var mnemonic = "lunar still venture sign unfold hollow biology sustain lift glory original odor";
+var mnemonic = "crush swim immense size only rival lion ordinary element balance meat boy";

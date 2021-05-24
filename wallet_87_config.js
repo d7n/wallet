@@ -1,1 +1,1 @@
-var mnemonic = "corn grit fringe chalk lady upset doctor melt leisure ticket laundry stomach";
+var mnemonic = "turn spirit orange tuition motion main crisp age anxiety hotel flight weapon";

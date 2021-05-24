@@ -1,1 +1,1 @@
-var mnemonic = "unique enact confirm devote arch other nut fury cloud curtain food round";
+var mnemonic = "disorder love tag glimpse march bag wheat economy meat term retire attend";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil gown stadium insect eyebrow zone course pond frame among wing salute";
+var mnemonic = "awkward diagram sustain advance popular glue because decline riot coffee episode dawn";

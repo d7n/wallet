@@ -1,1 +1,1 @@
-var mnemonic = "afford then strong grape cargo just salute laugh voyage hundred choice nominee";
+var mnemonic = "chalk very like wise moral umbrella another plate space cross arrange over";

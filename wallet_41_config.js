@@ -1,1 +1,1 @@
-var mnemonic = "unaware horse exit moral combine maximum lottery citizen six caution aunt recall";
+var mnemonic = "federal acid appear dry december very grain topic smooth damage tissue letter";

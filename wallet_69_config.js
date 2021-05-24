@@ -1,1 +1,1 @@
-var mnemonic = "sock crucial romance price gaze index vital gauge sock animal inner task";
+var mnemonic = "culture trip breeze squeeze share alter spot assume maple sound gentle survey";

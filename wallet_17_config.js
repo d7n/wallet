@@ -1,1 +1,1 @@
-var mnemonic = "pulse tired give save riot mistake clutch yellow atom glove purpose pony";
+var mnemonic = "novel cabbage thank amateur filter desert exile proof good decide squeeze blame";

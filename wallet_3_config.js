@@ -1,1 +1,1 @@
-var mnemonic = "alcohol city language cancel holiday casino phone never grain dirt chunk ten";
+var mnemonic = "cabin wheel borrow inside swift flash ticket quiz strike screen plug enjoy";

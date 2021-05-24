@@ -1,1 +1,1 @@
-var mnemonic = "slide bronze pupil budget canal duck despair cable tennis monster pigeon capital";
+var mnemonic = "disease skill apart sting shop price exchange glove sound daring nation cool";

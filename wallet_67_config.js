@@ -1,1 +1,1 @@
-var mnemonic = "tortoise sort leisure inject cinnamon lawn metal little crop pottery royal select";
+var mnemonic = "select discover point employ essence giggle gorilla dizzy fame mask mistake foot";

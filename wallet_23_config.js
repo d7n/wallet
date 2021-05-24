@@ -1,1 +1,1 @@
-var mnemonic = "kit indicate model casino length famous alarm scale drum squirrel crew burden";
+var mnemonic = "advance act tower leopard clerk agree color history imitate unusual tortoise credit";

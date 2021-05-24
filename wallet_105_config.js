@@ -1,1 +1,1 @@
-var mnemonic = "suspect prosper story protect cluster milk flush nation genius sight toward student";
+var mnemonic = "base pool control swear census slice weekend exercise whale ordinary galaxy manage";

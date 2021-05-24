@@ -1,1 +1,1 @@
-var mnemonic = "resemble misery unable have bullet use carbon genius mind vote sport jump";
+var mnemonic = "barely state hammer antique life magnet art oblige suspect reveal casino absent";

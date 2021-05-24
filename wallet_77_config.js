@@ -1,1 +1,1 @@
-var mnemonic = "guard duck opinion teach century diamond half erode body sting wave one";
+var mnemonic = "jewel saddle offer aerobic property once spirit heavy hungry humble dynamic rhythm";

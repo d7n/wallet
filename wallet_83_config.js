@@ -1,1 +1,1 @@
-var mnemonic = "text motor child waste myth ignore want point lucky immune coach broken";
+var mnemonic = "mushroom hidden envelope excess size treat animal harbor earth release wreck shine";

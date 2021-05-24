@@ -1,1 +1,1 @@
-var mnemonic = "pledge blossom unaware eternal quick grain choice turtle weird host become present";
+var mnemonic = "cash draft grow parade state wheel license jelly update pledge buffalo link";

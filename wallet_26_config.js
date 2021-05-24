@@ -1,1 +1,1 @@
-var mnemonic = "wheel merit net agree settle frequent tape lunch click recipe consider bulk";
+var mnemonic = "seven steak suit stool column title term balance invest wagon question crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "strong become damp morning repair stage busy praise feed occur holiday leave";
+var mnemonic = "cycle else review color answer whale garbage sausage portion tank blanket blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain sunset jump trust length panda display nature abandon abandon truck document";
+var mnemonic = "cheese dynamic shy boring obvious almost student hazard valid crack solar reform";

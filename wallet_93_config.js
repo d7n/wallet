@@ -1,1 +1,1 @@
-var mnemonic = "floor still will quick promote tortoise box lounge shock attack audit timber";
+var mnemonic = "stadium error sausage cloth universe venture before custom bus hunt can violin";

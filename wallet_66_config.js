@@ -1,1 +1,1 @@
-var mnemonic = "denial mystery segment danger orchard strong review disagree winner gaze nest once";
+var mnemonic = "miss upper upgrade acoustic raccoon solid churn hedgehog cream cool wrist excess";

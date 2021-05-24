@@ -1,1 +1,1 @@
-var mnemonic = "stand require able casino fossil century exact mix tone chalk erosion since";
+var mnemonic = "delay orbit degree glove base satisfy update celery interest select case alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "salute chapter begin city scale marriage kind hood emotion swim fork usual";
+var mnemonic = "fetch grocery diagram jacket sing female volume pink nephew yard shuffle hazard";

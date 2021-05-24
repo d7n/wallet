@@ -1,1 +1,1 @@
-var mnemonic = "secret blind treat ocean surface hundred amount super rabbit lazy area fiction";
+var mnemonic = "submit talk sign decade learn hire donor report increase van citizen jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "sting since drum stick peasant swamp problem matrix west price tone beauty";
+var mnemonic = "physical canal retreat ethics emerge mail dwarf recall own hunt dice zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "thought fresh aerobic raccoon mechanic interest urge give boost noise illness master";
+var mnemonic = "lemon lizard town truly strategy jeans wood current flock minute aware secret";

@@ -1,1 +1,1 @@
-var mnemonic = "south panel funny juice this midnight skull cake purse giant fuel install";
+var mnemonic = "liquid slogan include knife pull clump beauty decline record avoid size long";

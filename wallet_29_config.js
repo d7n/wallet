@@ -1,1 +1,1 @@
-var mnemonic = "leader soul fish disease yellow angry exchange fade rough double pigeon begin";
+var mnemonic = "ball base atom claim absorb trick recipe unknown fetch sad cause beyond";

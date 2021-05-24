@@ -1,1 +1,1 @@
-var mnemonic = "fury scheme clap miss observe flock any huge attend angle toilet armed";
+var mnemonic = "regular clog help okay state pave smart betray unlock ritual energy kitten";

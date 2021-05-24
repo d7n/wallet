@@ -1,1 +1,1 @@
-var mnemonic = "rigid equal please search cupboard latin ancient bullet slice source proof dose";
+var mnemonic = "clown junk follow fury earth casino quit later syrup direct permit envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "loud agree require sea audit angle horse mixed grit conduct robot hotel";
+var mnemonic = "balance emerge key unveil initial syrup tornado water age tattoo relief path";

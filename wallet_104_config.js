@@ -1,1 +1,1 @@
-var mnemonic = "cattle suggest access theory deer page solid action sing party ostrich next";
+var mnemonic = "ball either answer pencil economy warm air brush caution wisdom fence possible";

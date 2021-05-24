@@ -1,1 +1,1 @@
-var mnemonic = "scissors typical any virtual text hammer minor entry permit quality service sell";
+var mnemonic = "forest guilt position private above shaft cherry pear jacket blur cupboard whip";

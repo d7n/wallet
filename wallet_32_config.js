@@ -1,1 +1,1 @@
-var mnemonic = "file you foot country slush around mushroom detect move notice nephew ready";
+var mnemonic = "stick frequent good lock sweet oxygen board clean predict win second other";

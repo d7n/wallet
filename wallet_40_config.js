@@ -1,1 +1,1 @@
-var mnemonic = "punch borrow caution high feature wrestle coffee census spray snap make delay";
+var mnemonic = "behave pass modify debris melody gallery toward title cute shaft army few";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch eternal army true detail remain midnight strong comic harbor option random";
+var mnemonic = "around fresh where fit reason penalty twin candy enlist prison analyst zoo";

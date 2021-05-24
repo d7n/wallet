@@ -1,1 +1,1 @@
-var mnemonic = "dolphin alcohol pretty scatter crisp use laundry tape tool journey neck emotion";
+var mnemonic = "wear wheel enter solve yard join buyer siren rule voyage crop ceiling";

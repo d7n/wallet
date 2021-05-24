@@ -1,1 +1,1 @@
-var mnemonic = "ring excite find doll agent access travel draw boil laundry journey program";
+var mnemonic = "nation seminar rescue hotel margin trial taxi oil shadow ice intact lecture";

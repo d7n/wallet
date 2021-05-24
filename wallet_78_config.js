@@ -1,1 +1,1 @@
-var mnemonic = "injury ski aisle rice captain cargo shield oppose chef since mutual size";
+var mnemonic = "exit kidney perfect session maximum wasp dash answer marine bargain cupboard cheap";

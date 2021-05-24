@@ -1,1 +1,1 @@
-var mnemonic = "chair diet click panic know recycle ridge scare coffee machine sunset over";
+var mnemonic = "push hat crew siege unfold swing erosion head tuition square absurd client";

@@ -1,1 +1,1 @@
-var mnemonic = "rude unusual enable dice permit cover produce derive capable make true ostrich";
+var mnemonic = "clock before regret peasant system income enough sample cabin parade purse fashion";

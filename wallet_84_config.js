@@ -1,1 +1,1 @@
-var mnemonic = "steel west build because brick feature logic evoke coyote square sock rib";
+var mnemonic = "hub pool wire ocean chase strategy anchor vague lottery electric benefit exile";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle mass fall hill viable video leave merry over then mesh bring";
+var mnemonic = "outdoor devote horse garden dry wage leopard gossip gesture stable lucky inside";

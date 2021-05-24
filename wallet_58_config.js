@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow shine pretty any license chronic corn apple palace muffin leader inhale";
+var mnemonic = "offer square laugh mercy garment fever man type awkward foil rotate little";

@@ -1,1 +1,1 @@
-var mnemonic = "belt gather two option gas delay increase about control make network minimum";
+var mnemonic = "robust shallow fever weekend report trash same gather online valley maze imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "bread drill adjust gorilla machine planet manual lion february time search dance";
+var mnemonic = "predict merit reflect addict shy tilt hunt trick lend orient honey digital";

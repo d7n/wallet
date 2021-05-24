@@ -1,1 +1,1 @@
-var mnemonic = "radio deny utility office right price panther pet popular trap moment error";
+var mnemonic = "lift view stumble balcony infant run frequent swim focus friend skin oxygen";

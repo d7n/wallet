@@ -1,1 +1,1 @@
-var mnemonic = "sunny series matrix north foster snap monitor system poet two alley donate";
+var mnemonic = "fetch forest boring antique put room pig visual clean spatial save wagon";

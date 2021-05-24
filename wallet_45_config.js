@@ -1,1 +1,1 @@
-var mnemonic = "husband slow tide horse pumpkin pass pepper grunt offer cargo physical capital";
+var mnemonic = "cushion vote citizen shaft useful dice ability method afraid pet peanut poem";

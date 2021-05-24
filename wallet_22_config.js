@@ -1,1 +1,1 @@
-var mnemonic = "shed judge daring enjoy reform vendor old fork banner still before park";
+var mnemonic = "include chronic brand dilemma drive sheriff enjoy aunt quantum sniff behave task";

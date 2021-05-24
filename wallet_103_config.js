@@ -1,1 +1,1 @@
-var mnemonic = "system neglect shock eyebrow obtain wrist economy approve essence nut lunar empower";
+var mnemonic = "dismiss spatial female chicken true require initial dawn party oven they quote";

@@ -1,1 +1,1 @@
-var mnemonic = "pink pair derive ramp culture scene prefer surface hybrid assist put fever";
+var mnemonic = "shy isolate lady client regular paddle cricket trick river keen search voice";

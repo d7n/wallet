@@ -1,1 +1,1 @@
-var mnemonic = "decade quit mistake large wasp box alone gravity under require decade uphold";
+var mnemonic = "fury outside document income torch that flock shove innocent scale cry cover";

@@ -1,1 +1,1 @@
-var mnemonic = "farm paper consider glimpse category enrich slim birth pilot double wave picture";
+var mnemonic = "quick poverty brisk hero camera exact umbrella crowd trust nation vacuum flat";

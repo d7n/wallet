@@ -1,1 +1,1 @@
-var mnemonic = "burger pink fortune cannon shrug divorce recipe twenty fossil butter cube utility";
+var mnemonic = "round client demand license rapid faint hundred negative auction crack virtual amused";

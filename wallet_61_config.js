@@ -1,1 +1,1 @@
-var mnemonic = "razor tower frozen victory ready cup when since candy physical rely gown";
+var mnemonic = "begin math skill mouse original bone frown sample economy picnic major grass";

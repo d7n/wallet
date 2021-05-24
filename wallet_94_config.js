@@ -1,1 +1,1 @@
-var mnemonic = "tribe juice report remain soon check inflict office civil response volume force";
+var mnemonic = "shove bronze car sponsor code cloth feature poverty injury supply salon uncover";

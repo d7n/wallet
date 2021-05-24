@@ -1,1 +1,1 @@
-var mnemonic = "frozen theory review drama deputy dutch doctor provide diesel loop token manual";
+var mnemonic = "table situate grace fresh diary sunset police inherit gun bench town organ";
