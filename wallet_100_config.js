@@ -1,1 +1,1 @@
-var mnemonic = "play wife alarm flame age pen inquiry follow crush jealous hurry venue";
+var mnemonic = "error relief chest extra cherry call myth rebuild badge car muffin tomorrow";

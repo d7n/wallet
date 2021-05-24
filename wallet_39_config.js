@@ -1,1 +1,1 @@
-var mnemonic = "card patch muscle enable mail crowd marine broccoli sweet group furnace exclude";
+var mnemonic = "carpet patch cup lunar moon village junk wave adapt segment wedding oven";

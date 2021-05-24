@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow demand change exchange onion report hold best solid bike search fault";
+var mnemonic = "bubble estate frog thumb system alarm weasel chef robust throw travel gravity";

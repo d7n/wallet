@@ -1,1 +1,1 @@
-var mnemonic = "leave drink keen stomach picnic city reopen moon honey bullet climb enter";
+var mnemonic = "display region business winner borrow evoke dove wrong sunset sugar token crime";

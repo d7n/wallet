@@ -1,1 +1,1 @@
-var mnemonic = "tip pattern rival inject once omit movie chronic divorce shallow identify track";
+var mnemonic = "clinic faith clarify camp april fringe rent barely oyster scan across begin";

@@ -1,1 +1,1 @@
-var mnemonic = "idle unlock female liquid feed witness pride float lottery trap chief wreck";
+var mnemonic = "film soup alley enough fit door record entry veteran please answer opera";

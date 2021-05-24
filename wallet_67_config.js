@@ -1,1 +1,1 @@
-var mnemonic = "leopard must ranch whale nation glory fly tooth rose clever disorder enter";
+var mnemonic = "elephant season draw among wire angry blossom naive pride drill mushroom spring";

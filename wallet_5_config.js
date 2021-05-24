@@ -1,1 +1,1 @@
-var mnemonic = "parent oblige wrap like turn depend shoe slot upset crazy alley impact";
+var mnemonic = "attitude oxygen inch bulk idle flip struggle avoid wasp patient decrease express";

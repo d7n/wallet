@@ -1,1 +1,1 @@
-var mnemonic = "happy river mushroom tube firm leisure mule gospel cruise admit vanish timber";
+var mnemonic = "cargo any feature diet code valid clay heart anchor saddle often auto";

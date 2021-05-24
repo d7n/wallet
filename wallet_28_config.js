@@ -1,1 +1,1 @@
-var mnemonic = "leisure chuckle dignity click hawk hope invest energy robot tongue gravity crumble";
+var mnemonic = "deposit lecture crack north sunny beauty shy slush uncover jump swap cactus";

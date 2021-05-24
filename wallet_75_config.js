@@ -1,1 +1,1 @@
-var mnemonic = "pet fault forum cost ahead hard token theme fiber allow welcome few";
+var mnemonic = "deal reflect swarm fatal onion image nasty army gadget relief hope area";

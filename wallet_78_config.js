@@ -1,1 +1,1 @@
-var mnemonic = "process chunk treat depart engine relax scrap try slim recycle robot door";
+var mnemonic = "maid clog problem lizard valid cable enroll rhythm repeat coffee drum scrub";

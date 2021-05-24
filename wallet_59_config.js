@@ -1,1 +1,1 @@
-var mnemonic = "mushroom member cup hire side vital describe kick system home arm range";
+var mnemonic = "anxiety nose giggle mouse devote actual canal dose shrug dog winter vacant";

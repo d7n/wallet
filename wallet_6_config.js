@@ -1,1 +1,1 @@
-var mnemonic = "there flower finish mother depend elite topple vibrant ask meat gain wife";
+var mnemonic = "remember banner nuclear cost island dice whip pumpkin antique buyer acquire hospital";

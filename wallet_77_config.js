@@ -1,1 +1,1 @@
-var mnemonic = "beef rebuild minor maze situate exile worry palm clip find trip earth";
+var mnemonic = "history elephant pepper salad slide badge wink power power mushroom punch cause";

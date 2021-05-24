@@ -1,1 +1,1 @@
-var mnemonic = "digital rich general marriage accident supply runway wine summer click village cruel";
+var mnemonic = "sausage zoo jeans capital gain inherit shock photo wrestle odor item old";

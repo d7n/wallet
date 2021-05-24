@@ -1,1 +1,1 @@
-var mnemonic = "duty hill since decide evil play supply real method cereal pact artwork";
+var mnemonic = "paper episode gloom blouse oven arena hunt melt ship message exclude situate";

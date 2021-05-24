@@ -1,1 +1,1 @@
-var mnemonic = "mango note angry crumble hamster tissue rhythm wheel kit hair spoon robot";
+var mnemonic = "bind autumn input scale friend make ocean old patch bamboo patch catch";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant force improve depend energy hen castle check monster weekend fit tip";
+var mnemonic = "domain edit squeeze nut crucial smoke place talent review board submit bomb";

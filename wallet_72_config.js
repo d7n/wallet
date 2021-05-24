@@ -1,1 +1,1 @@
-var mnemonic = "enable setup job legal used kit scrub symbol window hub oxygen display";
+var mnemonic = "crash list spray isolate wheel swift bunker nuclear ball oven crumble kit";

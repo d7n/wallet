@@ -1,1 +1,1 @@
-var mnemonic = "grass offer cram pride style embody young fragile effort volume couple country";
+var mnemonic = "stock almost decade unknown lunar achieve loyal play isolate welcome salmon elegant";

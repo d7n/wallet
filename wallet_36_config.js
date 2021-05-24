@@ -1,1 +1,1 @@
-var mnemonic = "clinic anxiety crop soda sport clean candy guess galaxy warm expect myth";
+var mnemonic = "unusual cable beyond picture enlist rain random high ridge float duck swarm";

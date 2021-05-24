@@ -1,1 +1,1 @@
-var mnemonic = "crawl riot bleak such song gaze enact blind mirror turkey become runway";
+var mnemonic = "soccer situate situate monster curtain patrol sorry hen indoor traffic point crowd";

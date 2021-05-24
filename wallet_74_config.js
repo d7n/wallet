@@ -1,1 +1,1 @@
-var mnemonic = "shift echo volcano ramp conduct normal expect release lake bind amazing fiscal";
+var mnemonic = "limb unknown apology fork suggest document chair insane large cousin mesh nuclear";

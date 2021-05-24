@@ -1,1 +1,1 @@
-var mnemonic = "rare tonight robot tongue vehicle during good ladder clinic scare symptom raccoon";
+var mnemonic = "impact execute swarm guilt blouse found kidney sea nasty typical barrel dentist";

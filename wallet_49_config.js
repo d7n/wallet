@@ -1,1 +1,1 @@
-var mnemonic = "shield tiny concert satisfy enact repeat primary wear bike crystal wisdom solution";
+var mnemonic = "weasel leg snow cube young rookie sick family brief sadness hurdle hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "good raw legal gun civil half apart gallery fatal tissue urban another";
+var mnemonic = "canvas mixture huge want supreme yard mention tower bag custom transfer differ";

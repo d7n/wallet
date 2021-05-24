@@ -1,1 +1,1 @@
-var mnemonic = "broom nuclear absent dream cheap robot spoil egg live kite cannon unhappy";
+var mnemonic = "series elbow either museum speak omit lobster example dance melody arm reveal";

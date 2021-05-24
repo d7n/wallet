@@ -1,1 +1,1 @@
-var mnemonic = "mesh another phrase stove hidden buyer trial sorry degree ketchup few assault";
+var mnemonic = "fetch expose trigger fly tomato lumber luxury view brick behave hill toward";

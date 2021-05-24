@@ -1,1 +1,1 @@
-var mnemonic = "feed warfare intact raccoon aunt say vivid wedding still state amused photo";
+var mnemonic = "brush salute cheap rookie hood stove elevator uncle crop smooth laugh submit";

@@ -1,1 +1,1 @@
-var mnemonic = "asset host one crowd shallow weapon season wedding rifle session cause apple";
+var mnemonic = "text toss enrich night undo practice lamp athlete resist hello pottery essence";

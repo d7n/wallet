@@ -1,1 +1,1 @@
-var mnemonic = "sing art crouch pride crunch mosquito story evolve citizen neutral gap sunset";
+var mnemonic = "hazard volume silk smile mutual tomato found prevent wheel march gather session";

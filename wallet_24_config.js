@@ -1,1 +1,1 @@
-var mnemonic = "attend subway knee tube crater attend cattle truly employ celery accident lesson";
+var mnemonic = "trophy will brass exercise tube slight taxi cable above lyrics sorry border";

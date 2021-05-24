@@ -1,1 +1,1 @@
-var mnemonic = "vocal grief client mesh category barrel regret display pepper smile pioneer smart";
+var mnemonic = "despair ginger reveal spice list lawn head gift fuel draft bean month";

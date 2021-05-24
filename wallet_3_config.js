@@ -1,1 +1,1 @@
-var mnemonic = "napkin expose bleak stock fame athlete course afraid wagon fiscal among search";
+var mnemonic = "motor yard marriage gentle charge toast comfort donkey leader air deposit left";

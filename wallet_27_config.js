@@ -1,1 +1,1 @@
-var mnemonic = "vacuum poverty census giggle buffalo tooth worry barrel coil window sponsor point";
+var mnemonic = "sudden type front inside unveil brush pepper olympic thing very almost come";

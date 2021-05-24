@@ -1,1 +1,1 @@
-var mnemonic = "girl jeans picnic prepare tumble argue latin impose kiss remove raw act";
+var mnemonic = "arm season scare chunk myself buzz truly clock solid excuse tortoise sadness";

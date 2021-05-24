@@ -1,1 +1,1 @@
-var mnemonic = "junk decline twelve west total turkey bracket enrich shoot sponsor identify donkey";
+var mnemonic = "equip need street person cushion turkey cross circle rubber orchard meat bitter";

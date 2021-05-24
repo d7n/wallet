@@ -1,1 +1,1 @@
-var mnemonic = "replace carry suspect genuine wire hire metal flavor spend choice spoon shoe";
+var mnemonic = "fatal fade shell vital milk fetch mixed fish earn gloom cupboard jeans";

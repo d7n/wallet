@@ -1,1 +1,1 @@
-var mnemonic = "advance spawn firm bunker often either verb useful bacon brand stadium fluid";
+var mnemonic = "gun tell pear section fiscal random travel doctor vital ignore guitar slab";

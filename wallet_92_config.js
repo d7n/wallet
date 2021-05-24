@@ -1,1 +1,1 @@
-var mnemonic = "moon simple bag movie pumpkin mouse benefit green home tree teach rain";
+var mnemonic = "rib address enter talk cross seminar describe tent blur valid tissue moral";

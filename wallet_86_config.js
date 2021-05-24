@@ -1,1 +1,1 @@
-var mnemonic = "cushion envelope scale comic define place buffalo transfer zone fossil source rail";
+var mnemonic = "gasp able vital adult suspect card puzzle rally soldier jump boy size";

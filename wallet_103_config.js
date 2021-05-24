@@ -1,1 +1,1 @@
-var mnemonic = "lava jump turtle present demand wrestle arctic accident trust elite luxury sea";
+var mnemonic = "tackle good life riot dry toilet romance bind host clarify depart autumn";

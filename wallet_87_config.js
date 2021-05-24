@@ -1,1 +1,1 @@
-var mnemonic = "isolate aim file ticket artwork tooth spare slot oyster what tortoise curve";
+var mnemonic = "usage husband rich budget goose soon thumb capital twelve shock inform bubble";

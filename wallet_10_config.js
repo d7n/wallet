@@ -1,1 +1,1 @@
-var mnemonic = "shop barely side build equip advance year film olympic finish cave about";
+var mnemonic = "enroll better guide spray advance endless tank scrub element dial faculty merge";

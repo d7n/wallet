@@ -1,1 +1,1 @@
-var mnemonic = "update key calm novel pudding elephant mean distance rare vendor across secret";
+var mnemonic = "company income capital style manual high violin gas job color magnet grab";

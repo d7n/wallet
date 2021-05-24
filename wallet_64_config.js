@@ -1,1 +1,1 @@
-var mnemonic = "sausage soul notable sorry exercise idle fat shaft door guitar this basket";
+var mnemonic = "slender ghost misery world jar stay sugar salad mosquito boss have tonight";

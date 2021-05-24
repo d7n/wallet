@@ -1,1 +1,1 @@
-var mnemonic = "topic match lava intact month runway soda series shiver shop metal rebel";
+var mnemonic = "angry endorse betray tribe hotel neutral alpha version object apple scrap bus";

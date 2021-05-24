@@ -1,1 +1,1 @@
-var mnemonic = "color gallery pigeon glow meat item slide dentist danger leg budget scene";
+var mnemonic = "account whip blush tumble unusual aisle type finish country simple scene spatial";

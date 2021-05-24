@@ -1,1 +1,1 @@
-var mnemonic = "wine report lamp cereal direct friend child later cradle soldier again tumble";
+var mnemonic = "fringe lend dad net bar crack panel hint shoot wine quick remain";

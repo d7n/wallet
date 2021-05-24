@@ -1,1 +1,1 @@
-var mnemonic = "hurry space rare sure deliver sting legend top matrix before fish thing";
+var mnemonic = "transfer lumber brand bullet siege boost space random glory tobacco world dry";

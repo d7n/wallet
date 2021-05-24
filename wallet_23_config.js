@@ -1,1 +1,1 @@
-var mnemonic = "power destroy mango remove jaguar before during evoke flush brain lumber front";
+var mnemonic = "narrow rice label globe chase roof air body vibrant bring question picnic";

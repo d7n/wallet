@@ -1,1 +1,1 @@
-var mnemonic = "ecology slow olympic find bird coach odor grit slush smile square twin";
+var mnemonic = "trim secret symptom stand certain lunar limit spare noble vessel grace angry";

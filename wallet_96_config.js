@@ -1,1 +1,1 @@
-var mnemonic = "giggle luxury comic meat hub degree swim twenty clever renew cup wrap";
+var mnemonic = "again diesel cloud scheme curve hurry laundry present grief casual argue cattle";

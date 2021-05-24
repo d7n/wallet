@@ -1,1 +1,1 @@
-var mnemonic = "expand resemble round slogan crack make february swift field icon athlete wing";
+var mnemonic = "fat where leader hundred develop weather void nasty jar tired sort secret";

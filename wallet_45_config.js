@@ -1,1 +1,1 @@
-var mnemonic = "imitate future easily casino all script trust away dwarf hood bonus riot";
+var mnemonic = "swap craft emerge vanish ski lizard tooth carpet service pluck mention allow";

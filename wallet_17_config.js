@@ -1,1 +1,1 @@
-var mnemonic = "alley tackle check slot doctor foster when friend mammal year this hidden";
+var mnemonic = "summer comfort warm raise message over sound bright member soccer cheap minimum";

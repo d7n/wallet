@@ -1,1 +1,1 @@
-var mnemonic = "glad detect tuition pencil range regular protect ranch garden group mesh palm";
+var mnemonic = "mule recipe dune shed since indicate genuine flee yard outer typical middle";

@@ -1,1 +1,1 @@
-var mnemonic = "debate stove orbit enhance question window card dumb lesson profit theory vote";
+var mnemonic = "copper glove raise sunset inmate science once gas spy gather next easy";

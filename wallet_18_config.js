@@ -1,1 +1,1 @@
-var mnemonic = "boss loan excite board denial whip possible beach iron pottery vanish fork";
+var mnemonic = "meadow property magnet share lend burden useless fine such skull sudden join";

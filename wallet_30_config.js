@@ -1,1 +1,1 @@
-var mnemonic = "sort lemon sea relief hood tonight brain because bounce brass fantasy soap";
+var mnemonic = "bench wrong diesel emotion suspect source panda exchange drip nurse adapt clump";

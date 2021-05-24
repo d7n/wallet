@@ -1,1 +1,1 @@
-var mnemonic = "aim rent rule lemon word type crouch ripple rebuild lounge correct bar";
+var mnemonic = "age trip moment rally field skill pyramid assume wisdom seat fury roast";

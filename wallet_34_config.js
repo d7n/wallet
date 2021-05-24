@@ -1,1 +1,1 @@
-var mnemonic = "brass bicycle quote rough afford amateur thought purchase police search skull citizen";
+var mnemonic = "notice situate noise history trap onion health year hospital myth doll riot";

@@ -1,1 +1,1 @@
-var mnemonic = "word cricket decide avocado favorite current ten theory noodle they vacuum guilt";
+var mnemonic = "powder birth erupt shield broccoli remove provide warfare exhibit view chalk segment";

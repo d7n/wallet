@@ -1,1 +1,1 @@
-var mnemonic = "theory twist lobster rifle tackle cheap cover company flight share accident appear";
+var mnemonic = "rigid mirror tonight obtain october van clock link fiscal scare jealous vivid";

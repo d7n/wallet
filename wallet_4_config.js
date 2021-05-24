@@ -1,1 +1,1 @@
-var mnemonic = "core evoke tragic bulk smooth dry response flee stone wonder world paper";
+var mnemonic = "relax front tongue sea hand pear scrub olive stone ghost rude fan";

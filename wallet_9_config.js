@@ -1,1 +1,1 @@
-var mnemonic = "deny lamp apology size salute best island always retreat ready rail vacuum";
+var mnemonic = "horse ensure crew resource dirt giant fruit barely puppy pony number tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "spot bone used prevent fever release local crack require change enhance alien";
+var mnemonic = "galaxy mirror grace blade admit stadium recycle two leg nephew fee spy";

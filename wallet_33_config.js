@@ -1,1 +1,1 @@
-var mnemonic = "extend blouse finish toe odor ladder vicious shine hollow decrease renew episode";
+var mnemonic = "try runway danger slight move flavor first kite opinion leg replace where";

@@ -1,1 +1,1 @@
-var mnemonic = "energy violin middle unique nice auction art joke olive pottery giggle silent";
+var mnemonic = "intact ethics shrug salute defense fat toilet cluster clay tape hold where";

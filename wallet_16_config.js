@@ -1,1 +1,1 @@
-var mnemonic = "error myself gold immune mule term coast farm oblige double sure attitude";
+var mnemonic = "apology dry cycle act beach oil other damage climb note stairs pass";

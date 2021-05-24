@@ -1,1 +1,1 @@
-var mnemonic = "fury parrot wood enable transfer illness toward lumber damp parent auction claim";
+var mnemonic = "title gym edge minute clinic exercise honey raccoon era prosper donkey naive";

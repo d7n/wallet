@@ -1,1 +1,1 @@
-var mnemonic = "coffee sweet topple recall segment include open ramp avoid put pencil fatal";
+var mnemonic = "suspect pass coyote galaxy napkin enrich panic item flavor differ flower group";

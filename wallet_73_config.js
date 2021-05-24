@@ -1,1 +1,1 @@
-var mnemonic = "siege desk moment certain cliff tuition book behave area answer kangaroo cabbage";
+var mnemonic = "vacuum one depend deal hollow unhappy meadow usual turn rural mimic mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow perfect picture expand sail machine museum ribbon sheriff grunt level fit";
+var mnemonic = "elbow furnace fade hip empty author control blast venue clerk update correct";

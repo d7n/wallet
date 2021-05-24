@@ -1,1 +1,1 @@
-var mnemonic = "item mixture bulb mango artwork atom cart card village uncle pencil cost";
+var mnemonic = "outer canvas village scissors teach diet cover worth pigeon casino athlete dress";

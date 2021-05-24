@@ -1,1 +1,1 @@
-var mnemonic = "gold stereo all winter manual genius axis able dawn imitate quiz skate";
+var mnemonic = "define pony smoke adult join skin start seminar wool three arrow duck";

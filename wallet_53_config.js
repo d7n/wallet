@@ -1,1 +1,1 @@
-var mnemonic = "climb pelican deposit casual clump choice detail veteran suffer fat regular pioneer";
+var mnemonic = "skill include legend fantasy space tunnel mimic mountain oxygen earth exchange beyond";

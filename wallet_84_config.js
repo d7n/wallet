@@ -1,1 +1,1 @@
-var mnemonic = "crucial notice helmet case powder glue glove fire split physical poverty evoke";
+var mnemonic = "prison volcano subject good bomb north announce casino moon album vital fee";

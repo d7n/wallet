@@ -1,1 +1,1 @@
-var mnemonic = "aspect since sphere accident rotate current leave update meadow quality gallery post";
+var mnemonic = "stereo rocket empower top blind quote exercise gift human salute combine mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "feature share razor balcony manual case agent filter rice depth fine glad";
+var mnemonic = "borrow ankle write level one stay cute tuna evoke switch original throw";

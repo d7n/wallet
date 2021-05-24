@@ -1,1 +1,1 @@
-var mnemonic = "dance record recycle dice avocado helmet wear oval paddle endless joke addict";
+var mnemonic = "menu lift blind exact recall youth bulk sponsor purpose breeze crop attract";

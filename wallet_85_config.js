@@ -1,1 +1,1 @@
-var mnemonic = "boring stamp hole embark explain wreck alert romance federal pepper lion skull";
+var mnemonic = "gallery chest govern leave pretty horror organ saddle blossom grunt near pilot";

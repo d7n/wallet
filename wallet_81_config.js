@@ -1,1 +1,1 @@
-var mnemonic = "bring butter vivid drive trick tragic document divorce snake desert basket gravity";
+var mnemonic = "fold rose credit proud inject power moment shrug rebel curtain supreme lottery";

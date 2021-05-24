@@ -1,1 +1,1 @@
-var mnemonic = "lend mirror water cook wing music olympic plate wash service thrive size";
+var mnemonic = "rotate symptom bridge subway size fancy knee involve chunk cup couch raccoon";

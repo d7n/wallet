@@ -1,1 +1,1 @@
-var mnemonic = "gold hobby easy arrest twenty emerge pretty enjoy cook scare learn mercy";
+var mnemonic = "laugh hover smile tape degree moon broom balance bag drip torch snap";
