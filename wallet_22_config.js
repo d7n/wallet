@@ -1,1 +1,1 @@
-var mnemonic = "ice idea unlock couch dismiss two cruise maximum help garden sight olive";
+var mnemonic = "control foam under congress old library kitchen aspect cruise tiny dish slush";

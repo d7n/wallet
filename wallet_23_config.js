@@ -1,1 +1,1 @@
-var mnemonic = "become cream wheel cook damp trigger label venue fork gather hand youth";
+var mnemonic = "try burger alley hello theory belt onion uniform canyon brother mandate better";

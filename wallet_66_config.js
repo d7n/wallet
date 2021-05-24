@@ -1,1 +1,1 @@
-var mnemonic = "december auction square object powder holiday either swallow analyst scissors dose gift";
+var mnemonic = "strike fortune magnet grape inject mercy patch hole sure camp gate notable";

@@ -1,1 +1,1 @@
-var mnemonic = "reason wrap cancel spirit unusual destroy seek purse seed exile acquire simple";
+var mnemonic = "toddler liberty broccoli afraid august core habit intact agree rigid fade attack";

@@ -1,1 +1,1 @@
-var mnemonic = "edit maid student either any escape wool test once tragic fall same";
+var mnemonic = "fuel typical poem embody add talk panda anchor impact enrich split doll";

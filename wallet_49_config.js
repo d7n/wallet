@@ -1,1 +1,1 @@
-var mnemonic = "blanket comfort leopard concert scatter fat walnut coffee execute earn urge depend";
+var mnemonic = "connect knee bench deputy clay space cake fury hour hire silent olive";

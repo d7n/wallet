@@ -1,1 +1,1 @@
-var mnemonic = "defense hurt vast diamond crew result rib rocket avoid engage equal lock";
+var mnemonic = "february spirit nuclear relief civil rifle side liberty system update depend conduct";

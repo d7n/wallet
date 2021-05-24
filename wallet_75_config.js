@@ -1,1 +1,1 @@
-var mnemonic = "speed way pig matter ensure drop slide twin option parrot tonight scatter";
+var mnemonic = "clap abandon keen zone stick calm rude riot cart mule moment armed";

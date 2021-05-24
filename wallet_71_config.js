@@ -1,1 +1,1 @@
-var mnemonic = "erase sure feature maze rapid welcome hold gaze occur athlete board home";
+var mnemonic = "bullet language rhythm alter acquire climb chunk call pumpkin buffalo alpha bunker";

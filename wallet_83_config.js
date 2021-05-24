@@ -1,1 +1,1 @@
-var mnemonic = "strong ill record train inject dentist suffer silly step also resource eyebrow";
+var mnemonic = "hood coral arm dust demise cruise pair capital never clip pepper mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "burden slot column fantasy author margin entire deliver worry payment middle keep";
+var mnemonic = "brush gown brisk stairs divert valve ball wear tumble fit tip make";

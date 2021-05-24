@@ -1,1 +1,1 @@
-var mnemonic = "acid dice icon eager grunt enable ankle rare comic exhibit advice pause";
+var mnemonic = "soup prison approve marine above van opinion insect blur genius debate divorce";

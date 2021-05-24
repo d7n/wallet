@@ -1,1 +1,1 @@
-var mnemonic = "inch inside tobacco economy feed nest episode sad before quick frame antenna";
+var mnemonic = "giraffe snake world forward super report denial mother inside theme recall pond";

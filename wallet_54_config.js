@@ -1,1 +1,1 @@
-var mnemonic = "true citizen admit bomb coin exhibit bitter pluck hour powder sell seminar";
+var mnemonic = "allow time guard entry census famous lava dress better town business child";

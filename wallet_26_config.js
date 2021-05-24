@@ -1,1 +1,1 @@
-var mnemonic = "style few retire fold warfare token swap wrong arena number fiscal damage";
+var mnemonic = "edge evil humble moon erase link muffin dog hire cabin service camp";

@@ -1,1 +1,1 @@
-var mnemonic = "summer verb track cable tragic letter train again voyage floor arch interest";
+var mnemonic = "mouse muffin portion cart excess lion group maximum wagon setup voyage situate";

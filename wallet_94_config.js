@@ -1,1 +1,1 @@
-var mnemonic = "require pluck conduct walk gold ensure spike junior farm candy brick hobby";
+var mnemonic = "end spot abandon dumb unlock forward bundle west mixed project raccoon blur";

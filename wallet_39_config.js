@@ -1,1 +1,1 @@
-var mnemonic = "worry tube uncle label black slide clinic buzz hungry awkward shield deny";
+var mnemonic = "absorb twin test thought blind later cheese music cost stone innocent twice";

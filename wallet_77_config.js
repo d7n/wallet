@@ -1,1 +1,1 @@
-var mnemonic = "stage visual answer reveal country bulk fringe casual dismiss rude camera imitate";
+var mnemonic = "dose virus glare smoke example sword warm melt mimic bargain suspect license";

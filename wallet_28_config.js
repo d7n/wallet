@@ -1,1 +1,1 @@
-var mnemonic = "small float chronic lens angry annual reform reveal hurry matrix burden option";
+var mnemonic = "lift absurd hidden lava hand usage twice night oppose enable glare left";

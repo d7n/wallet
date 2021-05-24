@@ -1,1 +1,1 @@
-var mnemonic = "close demise helmet seed satisfy fan demise access pretty east lawsuit faint";
+var mnemonic = "clap accident next napkin upon fog fly mosquito away novel grow trigger";

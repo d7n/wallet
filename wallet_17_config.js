@@ -1,1 +1,1 @@
-var mnemonic = "hood tray grid favorite fat bring amateur south name together peasant month";
+var mnemonic = "feature easily exclude supply ketchup census slush warm robust horror decline indoor";

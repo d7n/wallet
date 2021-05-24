@@ -1,1 +1,1 @@
-var mnemonic = "buddy monitor edit shield horror live face reunion tray breeze pear ensure";
+var mnemonic = "hybrid transfer dumb mixture tiny obvious avocado nuclear effort mail project spread";

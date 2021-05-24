@@ -1,1 +1,1 @@
-var mnemonic = "ordinary lobster learn action arrest clap glide cover fox famous student brown";
+var mnemonic = "asthma soldier clean happy trumpet custom short october present coffee exact harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "what delay fortune antenna interest lava decade ship once pioneer lonely bulb";
+var mnemonic = "else grit try awful add treat strategy copper garment glow annual aim";

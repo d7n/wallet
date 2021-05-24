@@ -1,1 +1,1 @@
-var mnemonic = "drama click leader around clown crop betray stage lawsuit core cricket sick";
+var mnemonic = "dust about suffer insect fortune oppose mask anchor uniform sun crop wet";

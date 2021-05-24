@@ -1,1 +1,1 @@
-var mnemonic = "effort enlist escape kick claim unknown stage elbow until lounge inspire summer";
+var mnemonic = "tornado want scare dust keen vocal space tank achieve romance prefer slight";

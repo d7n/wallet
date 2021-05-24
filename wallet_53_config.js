@@ -1,1 +1,1 @@
-var mnemonic = "film urge dust paddle slot match hip office giant blanket bench emotion";
+var mnemonic = "announce disorder coconut frown bamboo proud sell beach pelican figure property mushroom";

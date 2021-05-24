@@ -1,1 +1,1 @@
-var mnemonic = "lumber sail pet street reopen assist peasant museum escape assault tree junk";
+var mnemonic = "enrich leave manual fault where mango taste master dismiss search garden tone";

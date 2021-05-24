@@ -1,1 +1,1 @@
-var mnemonic = "tip apple twelve inflict economy ivory desert sword spare elevator gold argue";
+var mnemonic = "harsh involve patch cannon harvest relax brother cabin shy differ design view";

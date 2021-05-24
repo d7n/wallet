@@ -1,1 +1,1 @@
-var mnemonic = "frost drop unit slogan client wood decade robot among aisle add nothing";
+var mnemonic = "bus city grocery memory call mechanic drift senior bright access canyon view";

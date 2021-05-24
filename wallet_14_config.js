@@ -1,1 +1,1 @@
-var mnemonic = "vibrant color similar scrap copper forward bean drift distance unaware become flat";
+var mnemonic = "hurry suffer vintage sound silly pact lunar cloud bundle carbon agree canoe";

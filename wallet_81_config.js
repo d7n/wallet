@@ -1,1 +1,1 @@
-var mnemonic = "spirit play chef clutch piece harvest crawl slot stove evidence coral wave";
+var mnemonic = "guilt brand erupt bar club typical wish educate giant ripple test dog";

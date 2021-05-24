@@ -1,1 +1,1 @@
-var mnemonic = "fan lawsuit dust exact lawn another nerve know spawn panic height tide";
+var mnemonic = "assist problem accident rely legend flock solve fresh cheese glory give render";

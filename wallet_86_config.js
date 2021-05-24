@@ -1,1 +1,1 @@
-var mnemonic = "menu endorse cat extra equip circle mouse loud tank arrive damage dance";
+var mnemonic = "insect morning truly echo project supply employ erode increase carry warrior satisfy";

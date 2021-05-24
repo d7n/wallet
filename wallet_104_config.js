@@ -1,1 +1,1 @@
-var mnemonic = "oven bike dad auto define fire elbow dwarf real avocado mule wink";
+var mnemonic = "honey fold swamp cat abuse lobster hard artefact tiger hobby extend south";

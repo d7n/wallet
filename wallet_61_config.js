@@ -1,1 +1,1 @@
-var mnemonic = "plate laptop give swarm wheel ramp dumb hello polar mix sponsor swing";
+var mnemonic = "ripple plug phone cherry spot marine diesel solution setup sniff drum reward";

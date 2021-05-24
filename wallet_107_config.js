@@ -1,1 +1,1 @@
-var mnemonic = "reason core tell into text amazing crouch faint army unique industry milk";
+var mnemonic = "scissors ankle loop elite pride asset crucial choice pride swear spatial defense";

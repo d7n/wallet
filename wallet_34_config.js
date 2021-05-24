@@ -1,1 +1,1 @@
-var mnemonic = "forward banner ugly combine inside tube manual area final frost source corn";
+var mnemonic = "diamond item hip battle brief vanish opera swear situate remove plastic bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "remove index tattoo shock syrup decide decide length equip only time antenna";
+var mnemonic = "turkey cannon garment critic already domain media wait inspire layer hospital area";

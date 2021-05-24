@@ -1,1 +1,1 @@
-var mnemonic = "age luggage fade extra achieve erode pencil rough guitar movie news web";
+var mnemonic = "rent cake analyst grass coyote music lawn save jacket arm immune bright";

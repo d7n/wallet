@@ -1,1 +1,1 @@
-var mnemonic = "volume pave wrestle youth emotion bubble coast document marriage thunder cluster select";
+var mnemonic = "panda suspect mule cheese genre elegant inhale flower sentence turkey hold property";

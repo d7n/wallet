@@ -1,1 +1,1 @@
-var mnemonic = "erupt client distance video attitude laugh gravity trial onion bus whip garbage";
+var mnemonic = "diary useful damage awful observe twenty trash audit atom guilt marriage pride";

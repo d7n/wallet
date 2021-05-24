@@ -1,1 +1,1 @@
-var mnemonic = "ankle dolphin sail simple shadow bridge twenty purchase group start vacuum logic";
+var mnemonic = "soldier describe brother theme large they develop iron cup hole patrol goose";

@@ -1,1 +1,1 @@
-var mnemonic = "easy wise demand nerve never turkey twice shrug absent wheel tenant wedding";
+var mnemonic = "erupt speak flee joy kidney peasant aspect canal brush life brass conduct";

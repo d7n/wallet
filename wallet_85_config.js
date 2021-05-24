@@ -1,1 +1,1 @@
-var mnemonic = "bag boost pill prison report upon lawn rally fiction arctic popular warfare";
+var mnemonic = "skin online weekend coral dynamic refuse hamster violin better inspire bracket point";

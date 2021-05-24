@@ -1,1 +1,1 @@
-var mnemonic = "borrow elbow over come pottery ticket dust avocado awake advice promote gap";
+var mnemonic = "panther squeeze soul clown kitten total toe maple put draft clutch subject";

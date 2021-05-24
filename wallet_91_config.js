@@ -1,1 +1,1 @@
-var mnemonic = "comfort salad tree clown renew moral total orange what stick knee stem";
+var mnemonic = "crash debate head fit talk civil cluster crystal gauge garage tornado bless";

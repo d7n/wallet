@@ -1,1 +1,1 @@
-var mnemonic = "average old bone eyebrow churn field rally normal grant note agree legal";
+var mnemonic = "learn now soul upgrade bronze sleep brain tape song price cat degree";

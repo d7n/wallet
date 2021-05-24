@@ -1,1 +1,1 @@
-var mnemonic = "space hobby harvest start ozone tooth once federal appear truly tomato taxi";
+var mnemonic = "future solid evil man sock audit cute miss dirt truly bullet easy";

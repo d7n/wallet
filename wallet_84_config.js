@@ -1,1 +1,1 @@
-var mnemonic = "skate peace already draft hover catch health involve toddler virtual napkin naive";
+var mnemonic = "enable village bridge winner play office mushroom number crop razor minor deny";

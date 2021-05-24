@@ -1,1 +1,1 @@
-var mnemonic = "model behind please arch quarter noble poem enhance column loan plug corn";
+var mnemonic = "during describe picnic else group chuckle maximum fit filter rather observe around";

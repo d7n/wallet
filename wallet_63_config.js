@@ -1,1 +1,1 @@
-var mnemonic = "mesh check clever tent letter melody human brisk scare bulb surface proof";
+var mnemonic = "theory steak eager spot quality amateur deer sleep garbage world quiz motor";

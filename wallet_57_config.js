@@ -1,1 +1,1 @@
-var mnemonic = "wing priority soft novel laugh solar stem crazy nephew sell test lazy";
+var mnemonic = "child transfer eye pizza violin thunder hour expect bitter butter eyebrow appear";

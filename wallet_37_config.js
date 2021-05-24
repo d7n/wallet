@@ -1,1 +1,1 @@
-var mnemonic = "raven promote update expire predict metal friend pistol limit roof crash ice";
+var mnemonic = "kingdom network siren alter knee vivid view wing prevent clump float recycle";

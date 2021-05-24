@@ -1,1 +1,1 @@
-var mnemonic = "finish sauce gown cycle fluid famous palace owner teach blade biology exit";
+var mnemonic = "castle lens infant friend walk ring track return gather try age perfect";

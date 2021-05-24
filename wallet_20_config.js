@@ -1,1 +1,1 @@
-var mnemonic = "black inform runway light input demise vicious blur hole any scorpion scissors";
+var mnemonic = "fit come blood spirit game board napkin food extend whip unlock cry";

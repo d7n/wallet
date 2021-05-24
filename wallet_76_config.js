@@ -1,1 +1,1 @@
-var mnemonic = "demise digital ride civil hat before isolate broccoli neutral main all farm";
+var mnemonic = "spray vacant sentence dignity admit planet setup model beach jazz notice another";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz credit bike combine fetch wheel model link tilt repeat gold orphan";
+var mnemonic = "october brush company double stock winter monkey spirit style tribe legend cement";

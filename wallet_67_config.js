@@ -1,1 +1,1 @@
-var mnemonic = "surprise welcome retire steak want gold deposit furnace episode vacuum shallow husband";
+var mnemonic = "awake indoor city hammer float bounce live banana honey tuition youth silent";

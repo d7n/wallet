@@ -1,1 +1,1 @@
-var mnemonic = "bundle okay diet version shallow fashion brief sport cricket call sound excite";
+var mnemonic = "inhale grant label book alter giggle song raise satisfy soft sweet maximum";

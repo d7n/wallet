@@ -1,1 +1,1 @@
-var mnemonic = "predict brand group giggle bronze initial toy enact rose bike cricket person";
+var mnemonic = "fun arrive spell auto season combine train day motor soup tunnel satisfy";

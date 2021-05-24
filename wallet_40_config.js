@@ -1,1 +1,1 @@
-var mnemonic = "exhaust moment second crisp hybrid frame high insect width heart gloom kidney";
+var mnemonic = "grunt earth acquire expose tell book trick genuine kit uncle regular ghost";

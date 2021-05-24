@@ -1,1 +1,1 @@
-var mnemonic = "right paper dignity author visual credit can cabin forest rib oil nut";
+var mnemonic = "license taxi furnace almost duck script menu theory eye access acoustic angry";

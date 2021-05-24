@@ -1,1 +1,1 @@
-var mnemonic = "vocal thumb coil once jeans evoke bargain enable now portion more hood";
+var mnemonic = "ticket entry candy song odor fly hen plate mushroom steel airport coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "piece device great midnight cigar sting camp stick pluck raw lend jungle";
+var mnemonic = "chicken crane math very amused adjust job blame will gadget pilot impact";

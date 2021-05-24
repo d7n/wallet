@@ -1,1 +1,1 @@
-var mnemonic = "oval crop what deputy smooth island snow differ document proud meadow direct";
+var mnemonic = "tuition misery embrace tribe valley nominee siren arrow poem capital wide glass";

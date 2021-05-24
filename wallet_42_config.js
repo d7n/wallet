@@ -1,1 +1,1 @@
-var mnemonic = "cook bone maid destroy galaxy certain monster shine hazard urban giraffe age";
+var mnemonic = "play element hockey right ball spell cabbage child company churn bubble act";

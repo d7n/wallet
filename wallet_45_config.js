@@ -1,1 +1,1 @@
-var mnemonic = "shuffle rose goose museum tourist auction peace grunt idea conduct gain burger";
+var mnemonic = "year desert supreme super peace cover rule apple play casino true foster";

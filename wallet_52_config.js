@@ -1,1 +1,1 @@
-var mnemonic = "camera guard weasel effort cycle horror year review fruit perfect secret pipe";
+var mnemonic = "program flash innocent beef cart year emerge tomorrow flavor denial brown brick";

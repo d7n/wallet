@@ -1,1 +1,1 @@
-var mnemonic = "spare enter grain gloom stone cheese gasp rabbit kitchen diesel forum palace";
+var mnemonic = "shiver decide inch diesel family hedgehog bronze tomorrow modify comic sun include";

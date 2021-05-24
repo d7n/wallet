@@ -1,1 +1,1 @@
-var mnemonic = "pond rotate solar sorry crazy win soccer theory surround rebuild announce check";
+var mnemonic = "easily inner piece identify evoke odor joke message idle century audit because";

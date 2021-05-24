@@ -1,1 +1,1 @@
-var mnemonic = "pelican credit diet settle afford chase shield during biology hybrid purse tomorrow";
+var mnemonic = "lounge dinosaur plunge scout heart certain split medal design amused sorry canvas";

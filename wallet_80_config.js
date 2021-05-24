@@ -1,1 +1,1 @@
-var mnemonic = "error equip sight cabin dinner baby sausage snake garden laugh grant illness";
+var mnemonic = "misery board have orphan combine learn unfair shiver wrong anger scrub coil";

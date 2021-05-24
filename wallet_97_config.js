@@ -1,1 +1,1 @@
-var mnemonic = "flash coyote penalty desert process valid inject goose crucial twice army repair";
+var mnemonic = "argue leader mind river animal clip attend trust portion globe busy afraid";

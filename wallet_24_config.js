@@ -1,1 +1,1 @@
-var mnemonic = "rural toddler spend inflict ethics palace garage noodle art hurdle rapid allow";
+var mnemonic = "diary valid orphan apology grow laugh capital filter fall wide shield punch";

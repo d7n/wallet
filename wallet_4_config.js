@@ -1,1 +1,1 @@
-var mnemonic = "repeat chef unknown employ sell inhale minor draft box security limit never";
+var mnemonic = "mention horn core all cloud video begin wave base shrimp gift used";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce october just praise divide fatal grab bicycle together bone typical decline";
+var mnemonic = "confirm easy consider that must celery sunny syrup decrease asset embody space";

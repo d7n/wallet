@@ -1,1 +1,1 @@
-var mnemonic = "warfare square thank tray drop pelican long life frozen box horse nuclear";
+var mnemonic = "luggage saddle glory inhale nature beef young simple royal meat emotion bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "melody puppy garbage assume tortoise crunch net wool frozen small jacket clip";
+var mnemonic = "guitar useful idea stay walnut spell stem strong length elevator boy glow";

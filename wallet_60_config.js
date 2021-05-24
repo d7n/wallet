@@ -1,1 +1,1 @@
-var mnemonic = "when wave one crime inmate ocean confirm enemy clap fun inch pepper";
+var mnemonic = "spend horn garbage era catalog art action nominee kind action toward bitter";

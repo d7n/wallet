@@ -1,1 +1,1 @@
-var mnemonic = "train consider lamp grain shed moon client flavor brick emerge puzzle truth";
+var mnemonic = "response van cheese trash mammal man category settle hammer miss humor museum";

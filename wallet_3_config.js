@@ -1,1 +1,1 @@
-var mnemonic = "original anger wish lift pluck night coconut kid bread season fame prosper";
+var mnemonic = "tired retire tuition person genius limit forget rescue poverty creek pave stuff";

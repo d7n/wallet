@@ -1,1 +1,1 @@
-var mnemonic = "buzz runway welcome wage surround accident lonely carpet kangaroo shuffle mutual social";
+var mnemonic = "long whip lion power gather ankle hen say leg obtain bring clay";

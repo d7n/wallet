@@ -1,1 +1,1 @@
-var mnemonic = "brand web upper raven column acquire family oblige chef imitate peanut slot";
+var mnemonic = "strong logic fiber eagle melody life dentist involve urge damage finish spot";

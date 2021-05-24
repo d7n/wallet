@@ -1,1 +1,1 @@
-var mnemonic = "cigar type century yellow frown enroll wash normal tiger garden work skin";
+var mnemonic = "team ticket alley rather music dynamic smart jar flower view pair diet";

@@ -1,1 +1,1 @@
-var mnemonic = "size jungle client primary jar float since divert scrub found ahead couch";
+var mnemonic = "arrow reject satisfy result flee void pause route boost tornado mystery return";

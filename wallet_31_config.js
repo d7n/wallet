@@ -1,1 +1,1 @@
-var mnemonic = "toilet disease enemy mystery video jewel matrix special have shrug attack ensure";
+var mnemonic = "park endless drink chaos happy select spray exercise tilt rhythm purse easy";
