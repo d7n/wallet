@@ -1,1 +1,1 @@
-var mnemonic = "scrap require message venue expect pyramid pluck cash skull disorder fantasy already";
+var mnemonic = "tortoise shoe control force daring turn visit exact wheat pig disagree drip";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond idle undo toe gather retreat pluck stay lamp man bike bounce";
+var mnemonic = "reform dash evoke life neck sick snake crucial stove inform antique maze";

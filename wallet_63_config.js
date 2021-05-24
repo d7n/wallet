@@ -1,1 +1,1 @@
-var mnemonic = "soap weather cause fix outer pony picnic outside damp sound squirrel bounce";
+var mnemonic = "path slim maid about wide story foster settle pill turn middle begin";

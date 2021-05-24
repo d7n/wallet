@@ -1,1 +1,1 @@
-var mnemonic = "problem tongue noise upper mean gentle radar invest liquid quit awesome dish";
+var mnemonic = "stable spoon million entry income patrol recycle barrel olympic average coyote artwork";

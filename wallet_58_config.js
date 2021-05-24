@@ -1,1 +1,1 @@
-var mnemonic = "scout business hero wood script upper trigger toilet panda worry method chronic";
+var mnemonic = "panel sniff dwarf chuckle region layer tennis rough fish crime invest pluck";

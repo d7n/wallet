@@ -1,1 +1,1 @@
-var mnemonic = "wrist frown mango actual exercise tube worth fox lock drama ridge diary";
+var mnemonic = "must chimney march hungry mask dune parade bind feed help potato creek";

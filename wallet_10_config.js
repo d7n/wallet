@@ -1,1 +1,1 @@
-var mnemonic = "soap auction frost another alpha winter matrix wine write chase enforce glare";
+var mnemonic = "cheese lemon skin toward chapter infant mammal paper certain december stomach insane";

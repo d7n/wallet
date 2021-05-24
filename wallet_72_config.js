@@ -1,1 +1,1 @@
-var mnemonic = "custom thank before penalty matter opera trade tattoo pause help record fork";
+var mnemonic = "vivid ugly ensure lumber entry tip swift ivory disorder high gun need";

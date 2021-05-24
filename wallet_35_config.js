@@ -1,1 +1,1 @@
-var mnemonic = "ozone coin frog trumpet similar tail bone glass surge pill blind barrel";
+var mnemonic = "goose remind exclude ready left they pitch scorpion act thrive slab gesture";

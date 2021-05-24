@@ -1,1 +1,1 @@
-var mnemonic = "rail uniform goat thunder wedding hour modify initial creek crucial intact enter";
+var mnemonic = "embody retreat mosquito rookie pill holiday huge grocery narrow poverty step tuition";

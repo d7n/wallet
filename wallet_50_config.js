@@ -1,1 +1,1 @@
-var mnemonic = "trick anger lunch awkward assume valley artist assume metal knee strategy fabric";
+var mnemonic = "broom door stage slender age shock indicate tail middle suggest donate famous";

@@ -1,1 +1,1 @@
-var mnemonic = "army arrest party major inside either man drip mimic spray inform execute";
+var mnemonic = "taxi gap aunt coast purchase exit stand scout basket govern timber hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix bread arrow way steak jacket soap grocery sauce virus program ginger";
+var mnemonic = "next spatial rhythm then amount outdoor view frame clutch myth orbit rack";

@@ -1,1 +1,1 @@
-var mnemonic = "rack neither behind scatter grape tumble faint ramp dress stamp warrior fox";
+var mnemonic = "expand buddy peace exhaust divert gather pave trumpet best raven horn drum";

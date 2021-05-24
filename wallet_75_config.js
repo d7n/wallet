@@ -1,1 +1,1 @@
-var mnemonic = "soul valve release question sort crime mushroom mosquito drastic angry rally sock";
+var mnemonic = "venture soul embrace illness harbor divorce behind cry since gym actress object";

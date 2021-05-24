@@ -1,1 +1,1 @@
-var mnemonic = "screen bunker stove clump then talent aerobic dune memory latin supreme title";
+var mnemonic = "where fabric empower scout reflect control isolate aim stomach giant kitten equal";

@@ -1,1 +1,1 @@
-var mnemonic = "absent exclude universe famous core give diesel much promote doll strike seek";
+var mnemonic = "father craft require subject laptop bachelor bitter since coffee learn ecology ride";

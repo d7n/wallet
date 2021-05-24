@@ -1,1 +1,1 @@
-var mnemonic = "neutral model pear abandon squirrel ice live stove obey table wheel miss";
+var mnemonic = "cigar hurt eternal avoid mask pact dog health simple raccoon draw spirit";

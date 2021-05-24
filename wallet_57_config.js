@@ -1,1 +1,1 @@
-var mnemonic = "initial because nose senior come album group vicious good indicate imitate blush";
+var mnemonic = "raven sunset vault visual such speed jazz goddess intact sun kind beauty";

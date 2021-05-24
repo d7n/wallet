@@ -1,1 +1,1 @@
-var mnemonic = "glare scissors repair century enjoy dance fatigue slogan trial satoshi black piece";
+var mnemonic = "because two tuition female iron solution bottom dolphin bacon arm keep ranch";

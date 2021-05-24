@@ -1,1 +1,1 @@
-var mnemonic = "grass hour cute electric arctic own work beef hat slush weapon candy";
+var mnemonic = "distance clay hat cross cruise label dance side run jacket job wolf";

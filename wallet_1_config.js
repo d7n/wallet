@@ -1,1 +1,1 @@
-var mnemonic = "lottery rotate knee tone latin radio wise car sketch foot family talk";
+var mnemonic = "guard essay fortune beyond save grass stand atom oven survey until stuff";

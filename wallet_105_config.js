@@ -1,1 +1,1 @@
-var mnemonic = "leader answer stomach stove wrestle unhappy spring pumpkin gadget drive urge business";
+var mnemonic = "scan float shoe plug busy educate ramp advice celery indicate robust tuna";

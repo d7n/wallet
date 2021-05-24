@@ -1,1 +1,1 @@
-var mnemonic = "race project hammer amused frequent rebuild citizen fatal cannon fee march betray";
+var mnemonic = "digital choose tortoise tuition have crop ranch clip brother trim emotion prepare";

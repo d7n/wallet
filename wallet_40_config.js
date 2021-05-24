@@ -1,1 +1,1 @@
-var mnemonic = "south split rabbit merge brush route fitness member code mom grit shield";
+var mnemonic = "outside lion magnet relief deny impulse switch convince end analyst tooth flavor";

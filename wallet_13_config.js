@@ -1,1 +1,1 @@
-var mnemonic = "battle border lion shadow family embody give nominee unaware close victory energy";
+var mnemonic = "tattoo gentle crowd flock topic drive runway park must unknown august remember";

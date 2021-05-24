@@ -1,1 +1,1 @@
-var mnemonic = "fine wink absorb bulb critic taste term spoon nest delay brave banner";
+var mnemonic = "jump timber ice embark rival clock stereo infant cook mixed second return";

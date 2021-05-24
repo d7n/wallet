@@ -1,1 +1,1 @@
-var mnemonic = "average nerve dash oyster repeat child vacant warfare view noise loop dish";
+var mnemonic = "health february digital unaware stand profit play dry kick vacant word corn";

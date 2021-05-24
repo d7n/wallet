@@ -1,1 +1,1 @@
-var mnemonic = "build ankle disease grunt urge market phrase bullet detect dream ten picture";
+var mnemonic = "attack aisle vocal rate dinner chair submit nerve pact pizza bench swarm";

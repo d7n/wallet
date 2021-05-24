@@ -1,1 +1,1 @@
-var mnemonic = "leave keep anchor city diesel baby naive because price tragic couple pelican";
+var mnemonic = "bullet neutral icon where cereal crash void educate club inner wish conduct";

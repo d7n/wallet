@@ -1,1 +1,1 @@
-var mnemonic = "spike mother ship ladder proud nest goddess resource castle carpet order useful";
+var mnemonic = "space shy zebra increase wood educate chat mom spray valid cupboard island";

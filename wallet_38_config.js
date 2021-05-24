@@ -1,1 +1,1 @@
-var mnemonic = "wood auction hand holiday quit job remind empower tool patient ripple cotton";
+var mnemonic = "large grab speed gadget soccer fresh minimum prefer shock liquid draft trouble";

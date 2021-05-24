@@ -1,1 +1,1 @@
-var mnemonic = "early pact model exotic lake roast tiny able tomato bridge rebel symbol";
+var mnemonic = "mercy reveal increase desert kingdom favorite curious rare essay hint discover borrow";

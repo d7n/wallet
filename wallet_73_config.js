@@ -1,1 +1,1 @@
-var mnemonic = "humble ability despair jump segment calm snake kite auto indoor cupboard frozen";
+var mnemonic = "flag drive squeeze siege height wire order absurd pulp resource throw virus";

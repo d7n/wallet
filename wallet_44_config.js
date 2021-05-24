@@ -1,1 +1,1 @@
-var mnemonic = "oblige verb owner fatal beef ankle tomorrow auto keep lawsuit pilot tobacco";
+var mnemonic = "either offer knife provide soul price eyebrow innocent spring science drift caution";

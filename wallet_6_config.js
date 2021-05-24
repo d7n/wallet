@@ -1,1 +1,1 @@
-var mnemonic = "month radio cream system click lizard drill lab mansion slot used avocado";
+var mnemonic = "inspire exile bicycle cave defense tumble bind earth own injury visual ten";

@@ -1,1 +1,1 @@
-var mnemonic = "tide finish behind just denial use hope cheese appear envelope nuclear airport";
+var mnemonic = "travel script crazy coast glory vendor next uncover owner doll quiz company";

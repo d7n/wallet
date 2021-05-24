@@ -1,1 +1,1 @@
-var mnemonic = "hockey flash twist steak glue danger canvas gown quarter paddle prosper shift";
+var mnemonic = "prison shed cricket fold motion smoke predict alert vote sport opinion front";

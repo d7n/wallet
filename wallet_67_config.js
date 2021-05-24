@@ -1,1 +1,1 @@
-var mnemonic = "chapter place ladder any concert today because oyster perfect fly horn soldier";
+var mnemonic = "throw country loan street drill title holiday tourist dove arrive merry season";

@@ -1,1 +1,1 @@
-var mnemonic = "mango beyond hundred twist sorry diamond knock switch battle peace panther tomato";
+var mnemonic = "impulse abstract envelope swallow sell virtual globe parade eight fetch throw fall";

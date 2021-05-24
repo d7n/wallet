@@ -1,1 +1,1 @@
-var mnemonic = "vicious peasant sad guess debate fortune ranch predict uncover candy treat cash";
+var mnemonic = "diamond fame great wealth portion notable ozone prefer uncle priority female stairs";

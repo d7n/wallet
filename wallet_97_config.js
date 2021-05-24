@@ -1,1 +1,1 @@
-var mnemonic = "detail finger reject host speak fantasy wrestle trumpet crouch sweet win suit";
+var mnemonic = "chicken wrap gown lobster genre crumble before avoid cigar egg jewel vendor";

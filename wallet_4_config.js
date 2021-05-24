@@ -1,1 +1,1 @@
-var mnemonic = "twenty barely umbrella scorpion rebel six drill thumb interest gaze gesture rich";
+var mnemonic = "cancel roof fame mango warfare crime season snack horse nation scrub patient";

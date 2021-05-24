@@ -1,1 +1,1 @@
-var mnemonic = "person length arrest convince arch runway matter neither step shove fork live";
+var mnemonic = "educate rhythm lizard build balance skin odor once funny taste label column";

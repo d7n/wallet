@@ -1,1 +1,1 @@
-var mnemonic = "spider merge garage pilot world among metal negative ice hundred cry way";
+var mnemonic = "enjoy tongue ketchup round address grid bonus vocal essay myself mass genuine";

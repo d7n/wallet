@@ -1,1 +1,1 @@
-var mnemonic = "misery hungry legend domain enlist private sign junk pull letter load inch";
+var mnemonic = "boss rent paper pulse inch fork cart will solution blanket slogan menu";

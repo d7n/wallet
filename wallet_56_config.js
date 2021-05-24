@@ -1,1 +1,1 @@
-var mnemonic = "uncover chat install cage mercy oven blade antenna oyster host mistake void";
+var mnemonic = "glimpse debris bench conduct doctor slow equal raven bright observe maple typical";

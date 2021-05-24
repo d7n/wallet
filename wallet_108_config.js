@@ -1,1 +1,1 @@
-var mnemonic = "exotic adjust creek employ opera visa educate pledge sunny liberty zone limit";
+var mnemonic = "chief grid catch rose rain salute coconut rifle robot ritual island sunny";

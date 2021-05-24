@@ -1,1 +1,1 @@
-var mnemonic = "kidney security large knee vapor ladder remind offer baby base survey garbage";
+var mnemonic = "mule again snake project hunt spider ahead general immense gallery first diet";

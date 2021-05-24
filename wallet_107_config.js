@@ -1,1 +1,1 @@
-var mnemonic = "rocket also just high office real oak resist oyster dance sting venue";
+var mnemonic = "crisp roast fatigue arrange harbor endorse toe icon just drill lobster vendor";

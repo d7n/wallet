@@ -1,1 +1,1 @@
-var mnemonic = "okay leaf visit panda absorb doll salmon summer burst congress quantum water";
+var mnemonic = "abuse stick cricket assume lonely decrease execute arctic stand labor pipe hat";

@@ -1,1 +1,1 @@
-var mnemonic = "bright file entire tooth blind raw hard message control blue sketch law";
+var mnemonic = "afford museum flame silk chalk syrup elbow belt slide donor soccer argue";

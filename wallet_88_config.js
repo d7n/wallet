@@ -1,1 +1,1 @@
-var mnemonic = "cup gasp menu develop elevator secret seminar festival certain spoil alarm enlist";
+var mnemonic = "depart report neglect hero season slender wolf swim upgrade mistake burst common";

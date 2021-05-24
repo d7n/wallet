@@ -1,1 +1,1 @@
-var mnemonic = "clerk shock cluster liar eye desk horn math scatter very egg horse";
+var mnemonic = "reform ridge certain noise adjust comfort engine mind interest destroy poet sound";

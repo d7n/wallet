@@ -1,1 +1,1 @@
-var mnemonic = "survey account crucial glance exile august snack future stool weekend nuclear silent";
+var mnemonic = "comic camera length govern churn salad clap way intact life profit only";

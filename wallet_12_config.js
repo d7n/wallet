@@ -1,1 +1,1 @@
-var mnemonic = "initial round other despair dragon mammal bird fan inspire recipe used list";
+var mnemonic = "noise almost fury lonely coach nurse senior pond half depart eye clown";

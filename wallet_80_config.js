@@ -1,1 +1,1 @@
-var mnemonic = "ridge smart pretty thought ancient tortoise snake tourist chat disorder weekend salute";
+var mnemonic = "clutch cruise guard ignore kid tackle pitch diagram prize nice wasp owner";

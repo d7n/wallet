@@ -1,1 +1,1 @@
-var mnemonic = "panel puppy bitter among movie must shrimp mix prevent physical allow decide";
+var mnemonic = "roof opera treat accident word stomach dumb picture palm casino jeans toss";

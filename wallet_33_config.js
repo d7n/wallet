@@ -1,1 +1,1 @@
-var mnemonic = "ball agent satisfy merry toe broccoli name benefit virtual candy original visit";
+var mnemonic = "merry text toss snow quantum metal proof lyrics knock unusual board must";

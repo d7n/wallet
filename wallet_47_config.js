@@ -1,1 +1,1 @@
-var mnemonic = "either brown faint cannon rally soap anxiety rude arena weekend fault kit";
+var mnemonic = "surround rubber orient asset brass into section neutral gown jacket position crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly pause frost flat what erase aim fiber ladder roof despair fresh";
+var mnemonic = "area inspire rigid addict drama legal omit guilt elevator parade praise guilt";

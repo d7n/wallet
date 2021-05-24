@@ -1,1 +1,1 @@
-var mnemonic = "pull culture happy jacket couch green cat company firm foot orange vivid";
+var mnemonic = "stairs please stone favorite outside client access they apart note notable mirror";

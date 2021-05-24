@@ -1,1 +1,1 @@
-var mnemonic = "couple network drift drive patient grid work number target engage throw loan";
+var mnemonic = "mango fortune much cigar three library taxi shoe evolve taxi stool hybrid";

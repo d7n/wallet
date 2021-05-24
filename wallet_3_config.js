@@ -1,1 +1,1 @@
-var mnemonic = "long powder artist present soon size symbol kitchen inherit artwork slow rifle";
+var mnemonic = "oval shift elite fiber tooth figure limb club emotion truck range gesture";

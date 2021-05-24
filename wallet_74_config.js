@@ -1,1 +1,1 @@
-var mnemonic = "style text dial stool best mistake length mouse prevent curious virtual about";
+var mnemonic = "ramp learn squirrel work grape snake cute skin tide boring tongue matrix";

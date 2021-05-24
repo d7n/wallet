@@ -1,1 +1,1 @@
-var mnemonic = "drip claw nominee food minute huge salute album shoe local punch deliver";
+var mnemonic = "surface kiss clock tree fiction style chef speak oil flash wrestle balance";

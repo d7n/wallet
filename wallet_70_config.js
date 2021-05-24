@@ -1,1 +1,1 @@
-var mnemonic = "arrive twist century sponsor work arm ridge guitar rapid dentist foam turn";
+var mnemonic = "permit select anchor glove cupboard fall milk vintage trumpet celery history police";

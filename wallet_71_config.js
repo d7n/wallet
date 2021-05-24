@@ -1,1 +1,1 @@
-var mnemonic = "reunion garage strong toddler bulk radio note leg blossom present spawn exact";
+var mnemonic = "grocery reason dismiss laptop parent brass donate next table company fork state";

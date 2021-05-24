@@ -1,1 +1,1 @@
-var mnemonic = "floor episode run mercy garage task famous level shrug lyrics clever caution";
+var mnemonic = "warm save inner ranch ordinary offer melody system cruise icon expose light";

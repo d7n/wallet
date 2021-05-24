@@ -1,1 +1,1 @@
-var mnemonic = "job early board limb solution coast nation iron account subject life blame";
+var mnemonic = "combine apology clever clerk reward couch tree awesome witness salt fetch vote";

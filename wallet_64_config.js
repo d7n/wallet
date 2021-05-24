@@ -1,1 +1,1 @@
-var mnemonic = "slow quality similar aware stem siren dice fantasy when expand deliver roast";
+var mnemonic = "like cotton pair album auto town bacon swarm grief rubber vague kid";

@@ -1,1 +1,1 @@
-var mnemonic = "crop wink kite code employ force off parent enjoy hero message mother";
+var mnemonic = "argue truly depth cancel shift empty sun clump much trick cheap holiday";

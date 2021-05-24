@@ -1,1 +1,1 @@
-var mnemonic = "price pilot voyage universe nasty display furnace auction capital umbrella nut base";
+var mnemonic = "tag erosion deal income universe post wing theme ripple normal window steel";

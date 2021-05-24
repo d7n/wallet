@@ -1,1 +1,1 @@
-var mnemonic = "february inside point north clever seminar gentle disagree butter castle grain cupboard";
+var mnemonic = "young rely ramp gather library firm bronze exhibit place rib idea lava";

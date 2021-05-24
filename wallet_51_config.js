@@ -1,1 +1,1 @@
-var mnemonic = "sketch middle silk judge drama visa mango spike narrow deliver bring knee";
+var mnemonic = "drink pill immune snack you topic you kitchen quantum beach strategy digital";

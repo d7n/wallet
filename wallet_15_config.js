@@ -1,1 +1,1 @@
-var mnemonic = "cart recipe table common potato tenant pole acid marriage banana submit mad";
+var mnemonic = "style trigger clever mushroom horror syrup page decade cute oil attend empower";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle humor glow junk put swim decline utility buffalo tower meadow guess";
+var mnemonic = "album rough party wasp joy depart dawn phrase ethics quiz hurdle rather";

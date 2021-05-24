@@ -1,1 +1,1 @@
-var mnemonic = "trial since post bench wage soccer then absorb cousin chicken hip shed";
+var mnemonic = "age anchor antique rack easily between step minute era job parrot music";

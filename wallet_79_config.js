@@ -1,1 +1,1 @@
-var mnemonic = "quarter clarify method inhale scheme shop attend educate wheat reflect tongue champion";
+var mnemonic = "fox industry flight culture chest local submit tissue welcome solid scissors ethics";

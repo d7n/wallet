@@ -1,1 +1,1 @@
-var mnemonic = "cup next civil rain lens hazard float pill airport raccoon super note";
+var mnemonic = "wine swear dolphin auto copy limit october peasant later payment face tonight";

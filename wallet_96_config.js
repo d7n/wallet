@@ -1,1 +1,1 @@
-var mnemonic = "truck beyond travel sure ordinary zone buzz popular stairs pepper pencil giant";
+var mnemonic = "evidence save asthma staff cabbage acid shine monster dice swallow buffalo vacuum";

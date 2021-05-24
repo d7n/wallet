@@ -1,1 +1,1 @@
-var mnemonic = "roof toy cruise scrap toilet rookie there increase engage current rare model";
+var mnemonic = "circle ceiling behind worth odor mushroom tired unknown smile access seat garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "tray effort crime moon sign input riot hint verify discover book enough";
+var mnemonic = "wrestle leaf bike fatigue flip book science zoo drift puzzle soup symptom";

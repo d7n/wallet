@@ -1,1 +1,1 @@
-var mnemonic = "until erode eye auction borrow find stage clay ensure merit window hundred";
+var mnemonic = "cradle retreat borrow hole call crumble scene silly crisp fuel advance hobby";

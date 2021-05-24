@@ -1,1 +1,1 @@
-var mnemonic = "risk net kick glare position gloom valid federal slot disease wild sugar";
+var mnemonic = "bag arctic deposit unhappy gallery cherry forum fox often surround suspect story";

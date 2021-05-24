@@ -1,1 +1,1 @@
-var mnemonic = "century panda insect young cover water august until dry twin equip stool";
+var mnemonic = "garment shallow various nature book time broken addict gesture easy lizard property";

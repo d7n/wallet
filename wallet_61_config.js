@@ -1,1 +1,1 @@
-var mnemonic = "fat scheme drama ticket frog lake sand foam follow connect farm olympic";
+var mnemonic = "shoe market cave urge involve ranch mother concert dinner fluid loud breeze";

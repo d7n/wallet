@@ -1,1 +1,1 @@
-var mnemonic = "concert zone pistol message garment that slush federal area caution vital crumble";
+var mnemonic = "ranch shy conduct palm right atom pudding wrestle drill bicycle sell spare";

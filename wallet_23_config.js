@@ -1,1 +1,1 @@
-var mnemonic = "bleak latin wing leopard token when hospital same turn occur luggage return";
+var mnemonic = "mountain grid fluid cabbage describe give picnic firm solve age trophy act";

@@ -1,1 +1,1 @@
-var mnemonic = "surge local settle deliver loyal flat margin when amused lend lock false";
+var mnemonic = "ripple junior program six impact siege what trip mixed opinion rude panel";

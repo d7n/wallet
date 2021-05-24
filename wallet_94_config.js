@@ -1,1 +1,1 @@
-var mnemonic = "route neither patrol carbon cheap endless into filter junior rib congress already";
+var mnemonic = "grief rifle reason illegal demise speak cable super arctic tennis despair crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "more thunder another crash thought east abuse library laundry youth excuse abuse";
+var mnemonic = "champion material retreat force loud similar hold flash place legend ball south";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin build where orphan hover tray gift hover author hurt drop dice";
+var mnemonic = "bless hope balcony glass water auto race display sport rebuild enter sense";
