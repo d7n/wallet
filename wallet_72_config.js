@@ -1,1 +1,1 @@
-var mnemonic = "vivid ugly ensure lumber entry tip swift ivory disorder high gun need";
+var mnemonic = "enable setup job legal used kit scrub symbol window hub oxygen display";

@@ -1,1 +1,1 @@
-var mnemonic = "outside lion magnet relief deny impulse switch convince end analyst tooth flavor";
+var mnemonic = "abstract square zone fancy toy float panther dismiss light spy ignore tennis";

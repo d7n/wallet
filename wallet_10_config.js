@@ -1,1 +1,1 @@
-var mnemonic = "cheese lemon skin toward chapter infant mammal paper certain december stomach insane";
+var mnemonic = "shop barely side build equip advance year film olympic finish cave about";

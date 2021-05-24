@@ -1,1 +1,1 @@
-var mnemonic = "tag erosion deal income universe post wing theme ripple normal window steel";
+var mnemonic = "happy river mushroom tube firm leisure mule gospel cruise admit vanish timber";

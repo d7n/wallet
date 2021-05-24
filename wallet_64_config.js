@@ -1,1 +1,1 @@
-var mnemonic = "like cotton pair album auto town bacon swarm grief rubber vague kid";
+var mnemonic = "sausage soul notable sorry exercise idle fat shaft door guitar this basket";

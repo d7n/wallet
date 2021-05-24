@@ -1,1 +1,1 @@
-var mnemonic = "lawn dust gap nice possible ready umbrella draft foam night coil mad";
+var mnemonic = "error myself gold immune mule term coast farm oblige double sure attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "fox industry flight culture chest local submit tissue welcome solid scissors ethics";
+var mnemonic = "glad detect tuition pencil range regular protect ranch garden group mesh palm";

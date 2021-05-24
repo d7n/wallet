@@ -1,1 +1,1 @@
-var mnemonic = "ramp learn squirrel work grape snake cute skin tide boring tongue matrix";
+var mnemonic = "shift echo volcano ramp conduct normal expect release lake bind amazing fiscal";

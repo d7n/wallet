@@ -1,1 +1,1 @@
-var mnemonic = "cigar hurt eternal avoid mask pact dog health simple raccoon draw spirit";
+var mnemonic = "isolate aim file ticket artwork tooth spare slot oyster what tortoise curve";

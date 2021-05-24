@@ -1,1 +1,1 @@
-var mnemonic = "distance clay hat cross cruise label dance side run jacket job wolf";
+var mnemonic = "crawl riot bleak such song gaze enact blind mirror turkey become runway";

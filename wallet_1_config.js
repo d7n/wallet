@@ -1,1 +1,1 @@
-var mnemonic = "guard essay fortune beyond save grass stand atom oven survey until stuff";
+var mnemonic = "good raw legal gun civil half apart gallery fatal tissue urban another";

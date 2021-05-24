@@ -1,1 +1,1 @@
-var mnemonic = "educate rhythm lizard build balance skin odor once funny taste label column";
+var mnemonic = "clinic anxiety crop soda sport clean candy guess galaxy warm expect myth";

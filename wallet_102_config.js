@@ -1,1 +1,1 @@
-var mnemonic = "sample observe have erode useless broom theme aunt thing supply hobby gate";
+var mnemonic = "digital rich general marriage accident supply runway wine summer click village cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "wine swear dolphin auto copy limit october peasant later payment face tonight";
+var mnemonic = "boss loan excite board denial whip possible beach iron pottery vanish fork";

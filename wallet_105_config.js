@@ -1,1 +1,1 @@
-var mnemonic = "scan float shoe plug busy educate ramp advice celery indicate robust tuna";
+var mnemonic = "broom nuclear absent dream cheap robot spoil egg live kite cannon unhappy";

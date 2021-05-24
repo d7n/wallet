@@ -1,1 +1,1 @@
-var mnemonic = "argue truly depth cancel shift empty sun clump much trick cheap holiday";
+var mnemonic = "play wife alarm flame age pen inquiry follow crush jealous hurry venue";

@@ -1,1 +1,1 @@
-var mnemonic = "reform dash evoke life neck sick snake crucial stove inform antique maze";
+var mnemonic = "gold stereo all winter manual genius axis able dawn imitate quiz skate";

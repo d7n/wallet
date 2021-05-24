@@ -1,1 +1,1 @@
-var mnemonic = "click drink town purse master film mistake mixed scan hollow stick boat";
+var mnemonic = "glory help curious card able ozone regular drastic blossom umbrella novel satisfy";

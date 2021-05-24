@@ -1,1 +1,1 @@
-var mnemonic = "taxi gap aunt coast purchase exit stand scout basket govern timber hockey";
+var mnemonic = "merry impulse boat cereal labor coast genuine sunny tilt luxury miss around";

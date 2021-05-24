@@ -1,1 +1,1 @@
-var mnemonic = "cradle retreat borrow hole call crumble scene silly crisp fuel advance hobby";
+var mnemonic = "feature share razor balcony manual case agent filter rice depth fine glad";

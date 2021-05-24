@@ -1,1 +1,1 @@
-var mnemonic = "raven sunset vault visual such speed jazz goddess intact sun kind beauty";
+var mnemonic = "rare tonight robot tongue vehicle during good ladder clinic scare symptom raccoon";

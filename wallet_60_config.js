@@ -1,1 +1,1 @@
-var mnemonic = "bullet neutral icon where cereal crash void educate club inner wish conduct";
+var mnemonic = "beach super blade admit leader razor magic legend crush snow high veteran";

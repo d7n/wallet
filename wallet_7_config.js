@@ -1,1 +1,1 @@
-var mnemonic = "where fabric empower scout reflect control isolate aim stomach giant kitten equal";
+var mnemonic = "coffee sweet topple recall segment include open ramp avoid put pencil fatal";

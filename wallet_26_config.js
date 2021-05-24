@@ -1,1 +1,1 @@
-var mnemonic = "orphan year affair supreme display degree when pause age obey pulse attract";
+var mnemonic = "aim rent rule lemon word type crouch ripple rebuild lounge correct bar";

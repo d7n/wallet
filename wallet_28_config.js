@@ -1,1 +1,1 @@
-var mnemonic = "tortoise shoe control force daring turn visit exact wheat pig disagree drip";
+var mnemonic = "leisure chuckle dignity click hawk hope invest energy robot tongue gravity crumble";

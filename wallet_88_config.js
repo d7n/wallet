@@ -1,1 +1,1 @@
-var mnemonic = "depart report neglect hero season slender wolf swim upgrade mistake burst common";
+var mnemonic = "adjust cement paddle claw assault left return real eyebrow cactus dad priority";

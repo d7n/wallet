@@ -1,1 +1,1 @@
-var mnemonic = "circle ceiling behind worth odor mushroom tired unknown smile access seat garbage";
+var mnemonic = "sauce squeeze warm fork entry enable face salon appear atom laundry april";

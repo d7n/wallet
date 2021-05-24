@@ -1,1 +1,1 @@
-var mnemonic = "boss rent paper pulse inch fork cart will solution blanket slogan menu";
+var mnemonic = "attend subway knee tube crater attend cattle truly employ celery accident lesson";

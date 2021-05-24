@@ -1,1 +1,1 @@
-var mnemonic = "tray elbow caught hire wisdom acquire shop actress slender success undo radio";
+var mnemonic = "total cage bonus duck inch faith pony task shed orphan fold fog";

@@ -1,1 +1,1 @@
-var mnemonic = "father craft require subject laptop bachelor bitter since coffee learn ecology ride";
+var mnemonic = "eyebrow demand change exchange onion report hold best solid bike search fault";

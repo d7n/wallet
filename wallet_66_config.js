@@ -1,1 +1,1 @@
-var mnemonic = "embody retreat mosquito rookie pill holiday huge grocery narrow poverty step tuition";
+var mnemonic = "aspect since sphere accident rotate current leave update meadow quality gallery post";

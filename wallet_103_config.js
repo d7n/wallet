@@ -1,1 +1,1 @@
-var mnemonic = "travel script crazy coast glory vendor next uncover owner doll quiz company";
+var mnemonic = "lava jump turtle present demand wrestle arctic accident trust elite luxury sea";

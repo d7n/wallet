@@ -1,1 +1,1 @@
-var mnemonic = "grief rifle reason illegal demise speak cable super arctic tennis despair crisp";
+var mnemonic = "ecology slow olympic find bird coach odor grit slush smile square twin";

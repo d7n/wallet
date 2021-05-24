@@ -1,1 +1,1 @@
-var mnemonic = "reform ridge certain noise adjust comfort engine mind interest destroy poet sound";
+var mnemonic = "vacuum poverty census giggle buffalo tooth worry barrel coil window sponsor point";

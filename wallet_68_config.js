@@ -1,1 +1,1 @@
-var mnemonic = "health february digital unaware stand profit play dry kick vacant word corn";
+var mnemonic = "divorce awful blood robust garbage seek knife gift combine nerve calm gadget";

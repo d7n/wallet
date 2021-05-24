@@ -1,1 +1,1 @@
-var mnemonic = "champion material retreat force loud similar hold flash place legend ball south";
+var mnemonic = "feed warfare intact raccoon aunt say vivid wedding still state amused photo";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy reveal increase desert kingdom favorite curious rare essay hint discover borrow";
+var mnemonic = "cushion envelope scale comic define place buffalo transfer zone fossil source rail";

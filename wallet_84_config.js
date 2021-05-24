@@ -1,1 +1,1 @@
-var mnemonic = "hair stay reject cushion lion illegal grunt embark tone jazz grant grab";
+var mnemonic = "crucial notice helmet case powder glue glove fire split physical poverty evoke";

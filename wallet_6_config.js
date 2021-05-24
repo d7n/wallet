@@ -1,1 +1,1 @@
-var mnemonic = "inspire exile bicycle cave defense tumble bind earth own injury visual ten";
+var mnemonic = "there flower finish mother depend elite topple vibrant ask meat gain wife";

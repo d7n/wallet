@@ -1,1 +1,1 @@
-var mnemonic = "space shy zebra increase wood educate chat mom spray valid cupboard island";
+var mnemonic = "item mixture bulb mango artwork atom cart card village uncle pencil cost";

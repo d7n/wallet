@@ -1,1 +1,1 @@
-var mnemonic = "warm save inner ranch ordinary offer melody system cruise icon expose light";
+var mnemonic = "bring butter vivid drive trick tragic document divorce snake desert basket gravity";

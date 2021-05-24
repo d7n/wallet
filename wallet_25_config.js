@@ -1,1 +1,1 @@
-var mnemonic = "accuse twist link wealth frozen grief trumpet easy whip quit tone anxiety";
+var mnemonic = "globe winner person spring youth switch tomato hole twist hunt grow coffee";

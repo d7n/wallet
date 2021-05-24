@@ -1,1 +1,1 @@
-var mnemonic = "clarify cruise figure mercy front actual fatigue space prefer hammer member permit";
+var mnemonic = "leave drink keen stomach picnic city reopen moon honey bullet climb enter";

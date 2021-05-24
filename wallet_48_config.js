@@ -1,1 +1,1 @@
-var mnemonic = "young rely ramp gather library firm bronze exhibit place rib idea lava";
+var mnemonic = "girl jeans picnic prepare tumble argue latin impose kiss remove raw act";

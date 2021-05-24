@@ -1,1 +1,1 @@
-var mnemonic = "next spatial rhythm then amount outdoor view frame clutch myth orbit rack";
+var mnemonic = "mushroom member cup hire side vital describe kick system home arm range";

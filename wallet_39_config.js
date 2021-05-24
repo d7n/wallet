@@ -1,1 +1,1 @@
-var mnemonic = "mango fortune much cigar three library taxi shoe evolve taxi stool hybrid";
+var mnemonic = "card patch muscle enable mail crowd marine broccoli sweet group furnace exclude";

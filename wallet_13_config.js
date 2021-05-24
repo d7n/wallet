@@ -1,1 +1,1 @@
-var mnemonic = "tattoo gentle crowd flock topic drive runway park must unknown august remember";
+var mnemonic = "tip pattern rival inject once omit movie chronic divorce shallow identify track";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse stick cricket assume lonely decrease execute arctic stand labor pipe hat";
+var mnemonic = "mesh another phrase stove hidden buyer trial sorry degree ketchup few assault";

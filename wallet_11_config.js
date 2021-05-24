@@ -1,1 +1,1 @@
-var mnemonic = "ranch shy conduct palm right atom pudding wrestle drill bicycle sell spare";
+var mnemonic = "grass offer cram pride style embody young fragile effort volume couple country";

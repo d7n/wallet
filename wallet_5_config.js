@@ -1,1 +1,1 @@
-var mnemonic = "digital choose tortoise tuition have crop ranch clip brother trim emotion prepare";
+var mnemonic = "parent oblige wrap like turn depend shoe slot upset crazy alley impact";

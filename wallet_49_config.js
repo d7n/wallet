@@ -1,1 +1,1 @@
-var mnemonic = "age anchor antique rack easily between step minute era job parrot music";
+var mnemonic = "shield tiny concert satisfy enact repeat primary wear bike crystal wisdom solution";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle leaf bike fatigue flip book science zoo drift puzzle soup symptom";
+var mnemonic = "brass bicycle quote rough afford amateur thought purchase police search skull citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "chief grid catch rose rain salute coconut rifle robot ritual island sunny";
+var mnemonic = "elephant force improve depend energy hen castle check monster weekend fit tip";

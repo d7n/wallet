@@ -1,1 +1,1 @@
-var mnemonic = "evidence save asthma staff cabbage acid shine monster dice swallow buffalo vacuum";
+var mnemonic = "giggle luxury comic meat hub degree swim twenty clever renew cup wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "venture soul embrace illness harbor divorce behind cry since gym actress object";
+var mnemonic = "pet fault forum cost ahead hard token theme fiber allow welcome few";

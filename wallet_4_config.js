@@ -1,1 +1,1 @@
-var mnemonic = "cancel roof fame mango warfare crime season snack horse nation scrub patient";
+var mnemonic = "core evoke tragic bulk smooth dry response flee stone wonder world paper";

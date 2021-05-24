@@ -1,1 +1,1 @@
-var mnemonic = "diamond fame great wealth portion notable ozone prefer uncle priority female stairs";
+var mnemonic = "energy violin middle unique nice auction art joke olive pottery giggle silent";

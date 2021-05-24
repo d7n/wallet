@@ -1,1 +1,1 @@
-var mnemonic = "mountain grid fluid cabbage describe give picnic firm solve age trophy act";
+var mnemonic = "power destroy mango remove jaguar before during evoke flush brain lumber front";

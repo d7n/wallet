@@ -1,1 +1,1 @@
-var mnemonic = "must chimney march hungry mask dune parade bind feed help potato creek";
+var mnemonic = "process chunk treat depart engine relax scrap try slim recycle robot door";

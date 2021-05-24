@@ -1,1 +1,1 @@
-var mnemonic = "throw country loan street drill title holiday tourist dove arrive merry season";
+var mnemonic = "leopard must ranch whale nation glory fly tooth rose clever disorder enter";

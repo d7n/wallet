@@ -1,1 +1,1 @@
-var mnemonic = "clutch cruise guard ignore kid tackle pitch diagram prize nice wasp owner";
+var mnemonic = "advance spawn firm bunker often either verb useful bacon brand stadium fluid";

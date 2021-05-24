@@ -1,1 +1,1 @@
-var mnemonic = "produce defense hard engage avoid west relax moral inhale crew chapter resource";
+var mnemonic = "rabbit reopen output inmate ahead expose cover ridge bird educate alone fun";

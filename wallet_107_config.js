@@ -1,1 +1,1 @@
-var mnemonic = "crisp roast fatigue arrange harbor endorse toe icon just drill lobster vendor";
+var mnemonic = "gather broom alpha margin profit neither card monkey practice puzzle entry clip";

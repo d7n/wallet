@@ -1,1 +1,1 @@
-var mnemonic = "style trigger clever mushroom horror syrup page decade cute oil attend empower";
+var mnemonic = "clutch glove ability kitten tuna sea truth remove emerge excess enroll explain";

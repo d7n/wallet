@@ -1,1 +1,1 @@
-var mnemonic = "cycle also view feel initial brave aunt inhale pause squeeze circle among";
+var mnemonic = "idle unlock female liquid feed witness pride float lottery trap chief wreck";

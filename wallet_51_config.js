@@ -1,1 +1,1 @@
-var mnemonic = "drink pill immune snack you topic you kitchen quantum beach strategy digital";
+var mnemonic = "dance record recycle dice avocado helmet wear oval paddle endless joke addict";

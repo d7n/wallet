@@ -1,1 +1,1 @@
-var mnemonic = "goose remind exclude ready left they pitch scorpion act thrive slab gesture";
+var mnemonic = "mango note angry crumble hamster tissue rhythm wheel kit hair spoon robot";

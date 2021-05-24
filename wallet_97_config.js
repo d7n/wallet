@@ -1,1 +1,1 @@
-var mnemonic = "chicken wrap gown lobster genre crumble before avoid cigar egg jewel vendor";
+var mnemonic = "expand resemble round slogan crack make february swift field icon athlete wing";

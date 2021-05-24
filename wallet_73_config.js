@@ -1,1 +1,1 @@
-var mnemonic = "flag drive squeeze siege height wire order absurd pulp resource throw virus";
+var mnemonic = "siege desk moment certain cliff tuition book behave area answer kangaroo cabbage";

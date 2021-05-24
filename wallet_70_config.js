@@ -1,1 +1,1 @@
-var mnemonic = "permit select anchor glove cupboard fall milk vintage trumpet celery history police";
+var mnemonic = "sing art crouch pride crunch mosquito story evolve citizen neutral gap sunset";

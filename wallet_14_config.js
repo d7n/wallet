@@ -1,1 +1,1 @@
-var mnemonic = "combine apology clever clerk reward couch tree awesome witness salt fetch vote";
+var mnemonic = "vocal grief client mesh category barrel regret display pepper smile pioneer smart";

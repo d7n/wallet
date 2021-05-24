@@ -1,1 +1,1 @@
-var mnemonic = "area inspire rigid addict drama legal omit guilt elevator parade praise guilt";
+var mnemonic = "grass collect dog edge couple size polar reopen exhaust scale injury stamp";

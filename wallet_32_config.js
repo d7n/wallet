@@ -1,1 +1,1 @@
-var mnemonic = "comic camera length govern churn salad clap way intact life profit only";
+var mnemonic = "okay excite crash error fiber peanut subway hurdle exact close ritual general";

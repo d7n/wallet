@@ -1,1 +1,1 @@
-var mnemonic = "version refuse hockey pistol feel glimpse orange typical deal design option group";
+var mnemonic = "climb pelican deposit casual clump choice detail veteran suffer fat regular pioneer";

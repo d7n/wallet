@@ -1,1 +1,1 @@
-var mnemonic = "shoe market cave urge involve ranch mother concert dinner fluid loud breeze";
+var mnemonic = "spot bone used prevent fever release local crack require change enhance alien";

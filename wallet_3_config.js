@@ -1,1 +1,1 @@
-var mnemonic = "oval shift elite fiber tooth figure limb club emotion truck range gesture";
+var mnemonic = "napkin expose bleak stock fame athlete course afraid wagon fiscal among search";

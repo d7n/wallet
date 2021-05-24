@@ -1,1 +1,1 @@
-var mnemonic = "impulse abstract envelope swallow sell virtual globe parade eight fetch throw fall";
+var mnemonic = "wine report lamp cereal direct friend child later cradle soldier again tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "surround rubber orient asset brass into section neutral gown jacket position crowd";
+var mnemonic = "replace carry suspect genuine wire hire metal flavor spend choice spoon shoe";

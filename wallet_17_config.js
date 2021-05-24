@@ -1,1 +1,1 @@
-var mnemonic = "stairs please stone favorite outside client access they apart note notable mirror";
+var mnemonic = "alley tackle check slot doctor foster when friend mammal year this hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "because two tuition female iron solution bottom dolphin bacon arm keep ranch";
+var mnemonic = "situate jelly asthma diary price uniform bracket goddess tomorrow bonus size drift";

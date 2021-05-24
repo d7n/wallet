@@ -1,1 +1,1 @@
-var mnemonic = "album rough party wasp joy depart dawn phrase ethics quiz hurdle rather";
+var mnemonic = "gold hobby easy arrest twenty emerge pretty enjoy cook scare learn mercy";

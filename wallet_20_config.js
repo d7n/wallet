@@ -1,1 +1,1 @@
-var mnemonic = "prison shed cricket fold motion smoke predict alert vote sport opinion front";
+var mnemonic = "scatter cost amount mercy mix crumble hat toilet symbol control real drama";

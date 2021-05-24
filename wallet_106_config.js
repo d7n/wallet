@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tongue ketchup round address grid bonus vocal essay myself mass genuine";
+var mnemonic = "maid sense wonder bind evolve oil utility today genuine clump glimpse job";

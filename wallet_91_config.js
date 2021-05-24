@@ -1,1 +1,1 @@
-var mnemonic = "ripple junior program six impact siege what trip mixed opinion rude panel";
+var mnemonic = "error team screen lab hen report certain ancient coconut stay curious bitter";

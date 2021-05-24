@@ -1,1 +1,1 @@
-var mnemonic = "galaxy car coach any just innocent toilet wonder blood symptom ugly power";
+var mnemonic = "asset host one crowd shallow weapon season wedding rifle session cause apple";

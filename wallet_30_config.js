@@ -1,1 +1,1 @@
-var mnemonic = "attack aisle vocal rate dinner chair submit nerve pact pizza bench swarm";
+var mnemonic = "sort lemon sea relief hood tonight brain because bounce brass fantasy soap";

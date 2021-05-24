@@ -1,1 +1,1 @@
-var mnemonic = "surface kiss clock tree fiction style chef speak oil flash wrestle balance";
+var mnemonic = "word cricket decide avocado favorite current ten theory noodle they vacuum guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "afford museum flame silk chalk syrup elbow belt slide donor soccer argue";
+var mnemonic = "update key calm novel pudding elephant mean distance rare vendor across secret";

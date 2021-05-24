@@ -1,1 +1,1 @@
-var mnemonic = "panel sniff dwarf chuckle region layer tennis rough fish crime invest pluck";
+var mnemonic = "outdoor position blood account snack make embody juice income wolf taste thought";

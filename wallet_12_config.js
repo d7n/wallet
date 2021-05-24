@@ -1,1 +1,1 @@
-var mnemonic = "noise almost fury lonely coach nurse senior pond half depart eye clown";
+var mnemonic = "junk decline twelve west total turkey bracket enrich shoot sponsor identify donkey";

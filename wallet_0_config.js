@@ -1,1 +1,1 @@
-var mnemonic = "jump timber ice embark rival clock stereo infant cook mixed second return";
+var mnemonic = "theory twist lobster rifle tackle cheap cover company flight share accident appear";

@@ -1,1 +1,1 @@
-var mnemonic = "merry text toss snow quantum metal proof lyrics knock unusual board must";
+var mnemonic = "extend blouse finish toe odor ladder vicious shine hollow decrease renew episode";

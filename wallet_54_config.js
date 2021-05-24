@@ -1,1 +1,1 @@
-var mnemonic = "expand buddy peace exhaust divert gather pave trumpet best raven horn drum";
+var mnemonic = "narrow perfect picture expand sail machine museum ribbon sheriff grunt level fit";

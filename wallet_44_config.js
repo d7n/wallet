@@ -1,1 +1,1 @@
-var mnemonic = "either offer knife provide soul price eyebrow innocent spring science drift caution";
+var mnemonic = "venture off axis also shoe violin tackle cricket grit law insane edit";

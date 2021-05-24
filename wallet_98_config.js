@@ -1,1 +1,1 @@
-var mnemonic = "roof opera treat accident word stomach dumb picture palm casino jeans toss";
+var mnemonic = "brush reveal merit car ready advice help junk duty giant castle drip";

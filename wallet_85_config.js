@@ -1,1 +1,1 @@
-var mnemonic = "garment shallow various nature book time broken addict gesture easy lizard property";
+var mnemonic = "boring stamp hole embark explain wreck alert romance federal pepper lion skull";

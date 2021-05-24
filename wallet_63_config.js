@@ -1,1 +1,1 @@
-var mnemonic = "path slim maid about wide story foster settle pill turn middle begin";
+var mnemonic = "color gallery pigeon glow meat item slide dentist danger leg budget scene";
