@@ -1,1 +1,1 @@
-var mnemonic = "rack bus track people inform element pistol coin pole exhaust coil sleep";
+var mnemonic = "medal trend cover carry teach reunion garment refuse clean execute harsh final";

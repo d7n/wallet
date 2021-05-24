@@ -1,1 +1,1 @@
-var mnemonic = "gain detect love swap dune capital coast holiday reopen frown food economy";
+var mnemonic = "goat all repair fragile lyrics cruise west quote scrub detail impulse pause";

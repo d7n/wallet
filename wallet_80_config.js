@@ -1,1 +1,1 @@
-var mnemonic = "lift escape little joke split gentle debate glass marine situate skill member";
+var mnemonic = "sight hamster limit tube battle edge rose swim inspire love review essence";

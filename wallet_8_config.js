@@ -1,1 +1,1 @@
-var mnemonic = "real august chat solve all quarter crush divide online lab worth correct";
+var mnemonic = "tragic real transfer push potato fragile reject path recall object dream motor";

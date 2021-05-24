@@ -1,1 +1,1 @@
-var mnemonic = "ketchup merit theory thank media version pride sick swim advance parade resemble";
+var mnemonic = "tortoise source capital chuckle energy capable squeeze eagle hole mule lady surge";

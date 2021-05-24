@@ -1,1 +1,1 @@
-var mnemonic = "ten guard fossil donor creek glad chaos donate renew gas marine glimpse";
+var mnemonic = "ill plastic awkward draw again year sound meadow liar travel exist moral";

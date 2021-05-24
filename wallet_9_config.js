@@ -1,1 +1,1 @@
-var mnemonic = "hip toast latin nasty slim icon expand process amazing credit property layer";
+var mnemonic = "bind ecology moral inhale fox reject rent assume small shop range pen";

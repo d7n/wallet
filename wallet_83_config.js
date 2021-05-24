@@ -1,1 +1,1 @@
-var mnemonic = "capital pole place filter reopen scene sniff direct chuckle disorder agent slot";
+var mnemonic = "matter square elephant opinion alley doctor puppy pact toddler discover trash make";

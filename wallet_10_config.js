@@ -1,1 +1,1 @@
-var mnemonic = "tribe patrol grid sound rose sing key arrow load zero deer absorb";
+var mnemonic = "market goose frequent meadow mosquito balance all loyal kiwi gentle dog title";

@@ -1,1 +1,1 @@
-var mnemonic = "rain teach day auto kite calm round fuel month pause unusual betray";
+var mnemonic = "merry easy joke cruise income pepper cushion gift custom sister load quick";

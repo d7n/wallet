@@ -1,1 +1,1 @@
-var mnemonic = "shift morning angle end cheese ugly deal gym beyond adapt tail shiver";
+var mnemonic = "mind album maze identify negative opinion area draft envelope fly bid armor";

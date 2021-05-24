@@ -1,1 +1,1 @@
-var mnemonic = "glow prison puppy review giant burger bubble apart engine slide elder buffalo";
+var mnemonic = "pigeon mention chaos glance comic cat ridge mention steel daughter spot brief";

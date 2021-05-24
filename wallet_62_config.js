@@ -1,1 +1,1 @@
-var mnemonic = "empty gloom easily corn verify express join account pull coach when reopen";
+var mnemonic = "gold unusual labor maple verify glow merit salad foot birth key evidence";

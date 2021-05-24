@@ -1,1 +1,1 @@
-var mnemonic = "reason guide nation wood aerobic woman burden limb olive roast happy negative";
+var mnemonic = "celery boss runway sock carpet below entry federal dawn second badge prevent";

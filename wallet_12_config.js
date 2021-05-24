@@ -1,1 +1,1 @@
-var mnemonic = "tiny skirt cactus neutral often raven type dress spoon neglect buzz bind";
+var mnemonic = "forward that combine aunt also wedding oppose churn hockey chief rubber device";

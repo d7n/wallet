@@ -1,1 +1,1 @@
-var mnemonic = "level arch mutual conduct screen squirrel obtain brick agree mistake manage crumble";
+var mnemonic = "swarm near teach round solar swap husband pigeon someone sense lucky country";

@@ -1,1 +1,1 @@
-var mnemonic = "draw flee riot process decrease palm enhance garden stage monster grow smart";
+var mnemonic = "taste powder apart muscle result grocery girl wheel wood repeat find initial";

@@ -1,1 +1,1 @@
-var mnemonic = "barely cake waste wing sunny clump squeeze deny wrist reflect name rare";
+var mnemonic = "tool uphold horror place together goddess forget smooth shaft swift neglect amused";

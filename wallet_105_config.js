@@ -1,1 +1,1 @@
-var mnemonic = "refuse talk father grief law powder budget boring license margin source decade";
+var mnemonic = "slush panda garment blossom robot minute cannon reveal pact extend soldier twice";

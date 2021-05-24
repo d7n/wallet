@@ -1,1 +1,1 @@
-var mnemonic = "useless beyond tree wrong piano charge agent expose amused test afford will";
+var mnemonic = "useful pencil use horn beach other jacket round various used fine timber";

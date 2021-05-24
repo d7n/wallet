@@ -1,1 +1,1 @@
-var mnemonic = "promote call oxygen room view regular path weird elevator service inherit crater";
+var mnemonic = "ability water prevent lobster pilot opinion engage book hover answer crime rebel";

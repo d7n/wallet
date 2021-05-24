@@ -1,1 +1,1 @@
-var mnemonic = "unaware outer art affair cash fold guard chunk label ginger keep dress";
+var mnemonic = "property debate sample grant method orphan obvious skin side volcano that acquire";

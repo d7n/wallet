@@ -1,1 +1,1 @@
-var mnemonic = "cost electric torch decide quality brain material viable end advance pride zoo";
+var mnemonic = "old happy orchard stable regular pear glove more harsh staff name goat";

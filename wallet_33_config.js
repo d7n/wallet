@@ -1,1 +1,1 @@
-var mnemonic = "perfect zero dragon affair decline flip credit atom ladder final angle immense";
+var mnemonic = "hockey dwarf park layer struggle venue adapt half observe disease luggage reopen";

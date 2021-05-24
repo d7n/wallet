@@ -1,1 +1,1 @@
-var mnemonic = "chronic prosper legend antenna portion truth cruel spend curtain immense space north";
+var mnemonic = "rare fit child jazz hurry cry afford sunset book enjoy ready music";

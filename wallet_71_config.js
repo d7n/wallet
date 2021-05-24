@@ -1,1 +1,1 @@
-var mnemonic = "detail seven powder dove upgrade object sister crop arch nothing churn wisdom";
+var mnemonic = "betray tape inhale hole marine waste chase mobile eyebrow exhaust pilot egg";

@@ -1,1 +1,1 @@
-var mnemonic = "run kingdom hurt orbit during goddess onion obtain cattle divorce position ramp";
+var mnemonic = "sample liberty lizard wrap life immune surprise moment boring ticket tomorrow doll";

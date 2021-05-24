@@ -1,1 +1,1 @@
-var mnemonic = "okay canyon concert crop turkey size cloth sorry love weird excuse oppose";
+var mnemonic = "athlete grow never question angle fence strategy vital brown fly know wave";

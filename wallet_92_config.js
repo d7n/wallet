@@ -1,1 +1,1 @@
-var mnemonic = "frown mercy another grunt unfair face crystal rate gravity obtain hour air";
+var mnemonic = "window arrive curious staff twin solid medal scatter coach neutral engine cram";

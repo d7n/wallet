@@ -1,1 +1,1 @@
-var mnemonic = "already salad search shift raw shoe notice air radio harvest spread north";
+var mnemonic = "enter little extra drip oyster lava alone garbage museum fury stomach employ";

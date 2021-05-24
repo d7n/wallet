@@ -1,1 +1,1 @@
-var mnemonic = "mention million misery harvest beyond feed brass odor diagram agree glimpse help";
+var mnemonic = "often expose capital practice appear web federal apology junior enlist evil blind";

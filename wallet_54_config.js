@@ -1,1 +1,1 @@
-var mnemonic = "taxi between mouse tiny purse tent trial feel crush tornado fitness sketch";
+var mnemonic = "budget subway need pattern spy second sudden tackle volume clutch weather absurd";

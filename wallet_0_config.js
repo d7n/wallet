@@ -1,1 +1,1 @@
-var mnemonic = "security belt lend main essence later verify zero file judge cake tree";
+var mnemonic = "sadness gift come enroll rely milk phone wood square shove manage update";

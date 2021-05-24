@@ -1,1 +1,1 @@
-var mnemonic = "rent fruit gasp strong artist decide chase palm unfold coil minor guard";
+var mnemonic = "anger maze analyst surge liquid cram thank weird bean fashion trap other";

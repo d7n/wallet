@@ -1,1 +1,1 @@
-var mnemonic = "attend talent what law local february scare snake trick equip awake absurd";
+var mnemonic = "just swing excite raise hawk way wisdom fitness rib spell furnace today";

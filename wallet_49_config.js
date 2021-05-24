@@ -1,1 +1,1 @@
-var mnemonic = "festival chuckle doll cheap trumpet lab omit toward visa divorce trick rude";
+var mnemonic = "payment method cry price train cheap damp crash lecture cupboard smooth grab";

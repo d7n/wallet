@@ -1,1 +1,1 @@
-var mnemonic = "one route charge useful wing fatigue nuclear material believe mail october history";
+var mnemonic = "noodle shove rail lake stuff check weapon armor exact boy slush scissors";

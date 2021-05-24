@@ -1,1 +1,1 @@
-var mnemonic = "primary minute antenna pair quiz trash tell primary warfare guide open prepare";
+var mnemonic = "just chase hope sell weird invite surface toe dove hat empty never";

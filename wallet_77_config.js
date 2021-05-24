@@ -1,1 +1,1 @@
-var mnemonic = "rather chronic draft effort runway warm urge smart voyage crumble transfer again";
+var mnemonic = "evidence hotel divert judge drink gain matrix sound episode success divert valve";

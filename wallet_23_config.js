@@ -1,1 +1,1 @@
-var mnemonic = "craft solution amateur bag dirt hair hospital soldier miracle baby brother wrestle";
+var mnemonic = "minute pizza lazy jewel program uniform tip exotic inject total shoe horse";

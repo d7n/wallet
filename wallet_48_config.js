@@ -1,1 +1,1 @@
-var mnemonic = "corn welcome upgrade phone ginger share another divorce unfold fun pill borrow";
+var mnemonic = "anchor pluck elbow recall hood float discover kit tank limb wolf install";

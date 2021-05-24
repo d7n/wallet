@@ -1,1 +1,1 @@
-var mnemonic = "forget relief across brush choose nasty nation coil busy ketchup search soldier";
+var mnemonic = "welcome people draft february paddle behave repair sentence gate coach sing shuffle";

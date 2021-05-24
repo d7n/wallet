@@ -1,1 +1,1 @@
-var mnemonic = "token embody time clarify animal glimpse pair foil post west typical rival";
+var mnemonic = "prefer stuff language piano true word bar hunt subject cabin trust evoke";

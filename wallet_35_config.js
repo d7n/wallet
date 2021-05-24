@@ -1,1 +1,1 @@
-var mnemonic = "song arena pluck prize bicycle shuffle fatal thing coconut exclude major more";
+var mnemonic = "jaguar need then nice wrestle robust express capital unaware swarm property proud";

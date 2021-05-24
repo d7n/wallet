@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog tenant close peasant load trick alter walnut plate swap soft coffee";
+var mnemonic = "thunder entry cat front frozen draft ladder step radar favorite will shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest leader shiver click hill critic energy custom dragon embrace deputy knee";
+var mnemonic = "afford giant legal depart future dad siren suspect just frown three network";

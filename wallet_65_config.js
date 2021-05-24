@@ -1,1 +1,1 @@
-var mnemonic = "jump scout large dog cheese slide alpha proud hunt great loop around";
+var mnemonic = "leave visa depend clip position habit dog jacket canvas blood elegant unaware";

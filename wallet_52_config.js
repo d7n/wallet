@@ -1,1 +1,1 @@
-var mnemonic = "gown ethics supreme broccoli label excite chaos decide order clarify tornado bean";
+var mnemonic = "hen crush wealth remind gate produce school name float urban opinion about";

@@ -1,1 +1,1 @@
-var mnemonic = "web toddler solve prefer shuffle milk lake shiver cheap moon peanut price";
+var mnemonic = "winter visit food supply toast tell kitten crisp venture charge net sorry";

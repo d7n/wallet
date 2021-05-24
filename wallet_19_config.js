@@ -1,1 +1,1 @@
-var mnemonic = "scout purse actual orchard stadium mesh betray forget tobacco bomb stay goose";
+var mnemonic = "dune wonder require video fashion kite enemy height lunch stumble client above";

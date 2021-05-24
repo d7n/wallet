@@ -1,1 +1,1 @@
-var mnemonic = "wedding update reveal parrot excite endorse accident arch dash protect urban strategy";
+var mnemonic = "response unveil tape chest sponsor web learn misery opinion know plunge year";

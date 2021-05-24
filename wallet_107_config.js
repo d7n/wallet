@@ -1,1 +1,1 @@
-var mnemonic = "such menu visit recycle gauge bench cloud puzzle tell brand flat wait";
+var mnemonic = "gather shoot sponsor produce grid step pistol brass honey phone trial hint";

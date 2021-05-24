@@ -1,1 +1,1 @@
-var mnemonic = "foam wing security episode blood worth hurry antique meadow ridge swamp wild";
+var mnemonic = "merit acid denial just column area bind zoo lizard record kitchen divert";

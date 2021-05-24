@@ -1,1 +1,1 @@
-var mnemonic = "nominee isolate sunny noodle stuff mix cement decade window fly broom electric";
+var mnemonic = "kidney hair author bracket logic zoo february wrist start energy dentist ivory";

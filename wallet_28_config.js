@@ -1,1 +1,1 @@
-var mnemonic = "laptop lazy butter choice pulp car release bunker equal disorder speed alley";
+var mnemonic = "eight orient mass vivid dad dress people fog palace extend plastic maid";

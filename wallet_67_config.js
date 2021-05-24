@@ -1,1 +1,1 @@
-var mnemonic = "season document steak gentle excite consider cover era laundry rice hill appear";
+var mnemonic = "order park make stumble tennis naive hard topic hour solar update sentence";

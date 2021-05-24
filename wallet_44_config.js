@@ -1,1 +1,1 @@
-var mnemonic = "soul settle era pond bright useless tree lucky parade guess engine ring";
+var mnemonic = "flush space index plunge inhale blade rhythm project quit stool junior rose";

@@ -1,1 +1,1 @@
-var mnemonic = "sand course hunt east unfair garment dawn shoot tree scissors leopard used";
+var mnemonic = "raven glare bid garage business dragon episode invite uncle reason reflect must";

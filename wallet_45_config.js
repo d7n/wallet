@@ -1,1 +1,1 @@
-var mnemonic = "cup carry cash replace tell talent stomach smart better spatial embark refuse";
+var mnemonic = "power fine super guess favorite bonus quit crater south alley snake attend";

@@ -1,1 +1,1 @@
-var mnemonic = "hello rhythm absorb parent basket fence segment plate matter foot spirit equip";
+var mnemonic = "game virtual thank retreat pool chest soon accident glow depth orbit another";

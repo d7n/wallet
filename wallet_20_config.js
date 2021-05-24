@@ -1,1 +1,1 @@
-var mnemonic = "drift episode twin upon want script wheel trim crumble cat obvious weekend";
+var mnemonic = "grant since fetch lawsuit joke find combine party fever ramp grow carry";

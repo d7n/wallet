@@ -1,1 +1,1 @@
-var mnemonic = "pulse fluid honey kiss member law trust radio resist elite amazing wear";
+var mnemonic = "hope kidney canoe vanish knife fury entry use jump need sword cricket";

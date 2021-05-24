@@ -1,1 +1,1 @@
-var mnemonic = "buyer churn crawl claw glue tuna gun cram joke action enlist cross";
+var mnemonic = "toilet use empty mention canvas pause middle voyage mandate border spider purpose";

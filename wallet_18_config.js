@@ -1,1 +1,1 @@
-var mnemonic = "make rebuild anger safe anger humble body strong rose sweet few render";
+var mnemonic = "derive bridge churn unveil point devote auto ill solve doll drill rose";

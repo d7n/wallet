@@ -1,1 +1,1 @@
-var mnemonic = "sense clarify real volume adjust fatigue toss tumble midnight length clean fame";
+var mnemonic = "menu dutch mixture inch spin law bike gap move system suggest surprise";

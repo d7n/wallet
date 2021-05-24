@@ -1,1 +1,1 @@
-var mnemonic = "guide twenty refuse shop priority brain axis castle dentist shoot level ripple";
+var mnemonic = "great shop devote copper option thought learn leisure border choice night car";

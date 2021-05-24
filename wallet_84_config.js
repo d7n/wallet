@@ -1,1 +1,1 @@
-var mnemonic = "lady nurse random fine hunt remove camera spray mail federal head asthma";
+var mnemonic = "escape scheme outside knee few usual risk hold mobile risk initial eyebrow";

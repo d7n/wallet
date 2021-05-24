@@ -1,1 +1,1 @@
-var mnemonic = "budget match sight used situate october upset shallow catalog cabbage feature demise";
+var mnemonic = "victory turn gas cool record lecture veteran crucial repair profit future mansion";

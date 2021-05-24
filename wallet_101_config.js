@@ -1,1 +1,1 @@
-var mnemonic = "purity pottery sustain february rely horror tattoo bean income trap someone install";
+var mnemonic = "ski waste cream pride used twist idea approve bulk wink wait museum";

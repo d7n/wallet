@@ -1,1 +1,1 @@
-var mnemonic = "shy buddy few garage orphan ecology wise prepare subway congress witness space";
+var mnemonic = "happy that merge wheat bulk toast boost ecology muffin embrace increase april";

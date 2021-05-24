@@ -1,1 +1,1 @@
-var mnemonic = "share update home desert liberty range load suspect labor wine arrest repair";
+var mnemonic = "vehicle east lunar toilet build minimum exist lunch praise gallery chronic ugly";

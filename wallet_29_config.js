@@ -1,1 +1,1 @@
-var mnemonic = "peasant filter pencil trash tobacco silk floor first harsh more age wire";
+var mnemonic = "machine enhance initial decline caution boost mention lucky love cube crunch drive";

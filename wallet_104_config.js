@@ -1,1 +1,1 @@
-var mnemonic = "vacuum camera tooth wait unaware flash profit horn dash direct chase army";
+var mnemonic = "series warfare artwork over clarify zero term aspect height business enrich cotton";

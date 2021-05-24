@@ -1,1 +1,1 @@
-var mnemonic = "claw egg spirit tuition rely hurry asthma address message rocket assume clog";
+var mnemonic = "matrix insect demand victory endorse mutual chest puzzle motor powder phrase member";

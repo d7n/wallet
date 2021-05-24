@@ -1,1 +1,1 @@
-var mnemonic = "cigar approve tonight evidence quick rough ice soul dune leg short reunion";
+var mnemonic = "social garage chimney hockey awful bulk wear recycle seat minimum melody message";

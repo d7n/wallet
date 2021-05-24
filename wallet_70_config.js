@@ -1,1 +1,1 @@
-var mnemonic = "ritual cattle camera survey woman draw fabric tower purity wool cycle volume";
+var mnemonic = "swift royal frequent uncle silent dragon call success trend season dress injury";

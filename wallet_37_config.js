@@ -1,1 +1,1 @@
-var mnemonic = "broom blush blur smart second affair spoon shove bird pulp foster apology";
+var mnemonic = "derive mass trust choose edge pull day advance provide now organ cake";

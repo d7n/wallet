@@ -1,1 +1,1 @@
-var mnemonic = "ankle sail mango tattoo goddess deny account type bus venue typical join";
+var mnemonic = "observe rent coin firm web blame rich sentence frost planet ride earth";

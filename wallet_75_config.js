@@ -1,1 +1,1 @@
-var mnemonic = "best wet luxury panic acoustic lift retire rebuild gospel law clarify grid";
+var mnemonic = "penalty lend jacket smart forum include feel spirit miss enroll trash vapor";

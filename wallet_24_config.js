@@ -1,1 +1,1 @@
-var mnemonic = "unable silly advance rack allow else clap draft toddler song okay retire";
+var mnemonic = "rose toe primary stand stadium cloth actor weird tongue elephant drastic loop";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff tilt soft soccer shadow program skin stool marble rhythm pudding dirt";
+var mnemonic = "wasp deliver tennis never coach search develop muscle wrong harsh pet audit";

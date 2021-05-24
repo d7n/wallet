@@ -1,1 +1,1 @@
-var mnemonic = "arch range stem slight door apart together resemble spin elephant side thrive";
+var mnemonic = "goose slight donkey identify sun depend twist impose middle hole draft ill";

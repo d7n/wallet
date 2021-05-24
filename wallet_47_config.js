@@ -1,1 +1,1 @@
-var mnemonic = "plunge claw anxiety act thumb idea latin dog salmon tragic omit start";
+var mnemonic = "source involve slot okay disagree kitchen little quote mandate decorate grocery panel";

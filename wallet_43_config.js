@@ -1,1 +1,1 @@
-var mnemonic = "stand fiction actor panther easy fresh lunar fancy absorb until oppose disagree";
+var mnemonic = "trouble journey approve unhappy kind sure response guide verb lunar pride library";

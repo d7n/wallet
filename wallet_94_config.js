@@ -1,1 +1,1 @@
-var mnemonic = "never feed boring inside baby afford lesson among soldier young leaf congress";
+var mnemonic = "absurd alter ghost tide fragile silver tumble guitar thrive cancel arrange ill";

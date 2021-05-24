@@ -1,1 +1,1 @@
-var mnemonic = "someone stick spin film donate swear rough gentle ring odor bread episode";
+var mnemonic = "penalty top affair void scrap smooth panel deer total start pencil detect";

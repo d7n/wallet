@@ -1,1 +1,1 @@
-var mnemonic = "shop beach spin blind current absent wall cool remember acoustic game jar";
+var mnemonic = "roof turtle exhaust tube cabin invest alpha aspect install type label always";
