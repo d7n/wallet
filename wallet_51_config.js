@@ -1,1 +1,1 @@
-var mnemonic = "early surround myself argue swim evidence combine theory mammal float blame paper";
+var mnemonic = "senior firm voyage trash canal weapon hungry actress hope crystal ship issue";

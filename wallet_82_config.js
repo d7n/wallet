@@ -1,1 +1,1 @@
-var mnemonic = "sheriff rare village female wet rely word owner purse soccer raccoon custom";
+var mnemonic = "super credit practice goose skate appear buffalo prison shoulder reform simple olympic";

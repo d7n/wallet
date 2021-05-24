@@ -1,1 +1,1 @@
-var mnemonic = "grit dwarf fiscal basic number trial torch delay trap spin illegal because";
+var mnemonic = "ride crouch fitness light hawk dumb float coil thing enough hybrid pluck";

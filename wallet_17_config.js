@@ -1,1 +1,1 @@
-var mnemonic = "move tank oil combine lion pipe moral near lesson three can balance";
+var mnemonic = "oil adjust modify crucial extend cricket lens myself opera attract include beef";

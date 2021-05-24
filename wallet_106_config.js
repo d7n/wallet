@@ -1,1 +1,1 @@
-var mnemonic = "diary room critic thumb robust under crater fiber blood frost matrix boat";
+var mnemonic = "rhythm rule pluck cupboard blind finish lava ball strike mistake crash fashion";

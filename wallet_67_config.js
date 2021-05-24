@@ -1,1 +1,1 @@
-var mnemonic = "nut test follow behind rabbit someone point doll chef pitch wonder version";
+var mnemonic = "expose weasel north grace rain entry above fault pulse garment assault much";

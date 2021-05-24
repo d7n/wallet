@@ -1,1 +1,1 @@
-var mnemonic = "away plastic panel result payment convince gas fish deal winner imitate drama";
+var mnemonic = "harvest fatal glue ivory salmon horn length choice charge derive merit permit";

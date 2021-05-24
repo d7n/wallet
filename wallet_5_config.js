@@ -1,1 +1,1 @@
-var mnemonic = "kite prepare abuse tenant thumb outdoor blossom annual token own near know";
+var mnemonic = "balcony funny random expand warfare finish friend truck exhibit accuse help middle";

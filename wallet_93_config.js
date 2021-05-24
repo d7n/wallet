@@ -1,1 +1,1 @@
-var mnemonic = "rigid armor budget position else owner taxi warfare enhance fine horror caution";
+var mnemonic = "grit wear hotel resist powder name voyage ask direct middle wet large";

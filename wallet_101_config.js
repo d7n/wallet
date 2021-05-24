@@ -1,1 +1,1 @@
-var mnemonic = "blood twist hurdle spray destroy cancel whip juice monkey admit include cactus";
+var mnemonic = "source bicycle give judge tell dice annual cool review lottery canvas poem";

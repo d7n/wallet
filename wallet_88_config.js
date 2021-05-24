@@ -1,1 +1,1 @@
-var mnemonic = "light afford ski detail shiver monster setup obvious lab garment sight anchor";
+var mnemonic = "scout absorb scissors ready absorb output horn record bronze thank slogan april";

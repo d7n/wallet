@@ -1,1 +1,1 @@
-var mnemonic = "cook plastic village elegant enhance enhance alone forum job trumpet sunset clean";
+var mnemonic = "chapter render differ visa skill media job bring crane glide conduct sure";

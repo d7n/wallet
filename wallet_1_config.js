@@ -1,1 +1,1 @@
-var mnemonic = "stem shrug hip gown ski fence dirt quality cabbage dice property together";
+var mnemonic = "grow party fringe spawn wide essay must travel banana box iron goose";

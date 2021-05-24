@@ -1,1 +1,1 @@
-var mnemonic = "identify year retreat leopard must blur smart chunk gun lake merge quote";
+var mnemonic = "busy caught high artist proof pattern dilemma plunge old sell coach spin";

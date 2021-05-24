@@ -1,1 +1,1 @@
-var mnemonic = "pet theory seminar tonight round couple please wet inject gorilla impose robust";
+var mnemonic = "interest sugar bike brand outdoor creek fix grocery weekend mango random space";

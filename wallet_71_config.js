@@ -1,1 +1,1 @@
-var mnemonic = "brain cream auction crystal fever hero broom boy stove shaft original excite";
+var mnemonic = "spot minor husband symptom pretty sponsor apart mobile insect color auction floor";

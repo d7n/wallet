@@ -1,1 +1,1 @@
-var mnemonic = "boy curious already mosquito basic tenant screen submit armor coffee engage verb";
+var mnemonic = "seek struggle crawl promote long panic tell senior laptop hammer ritual regret";

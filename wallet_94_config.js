@@ -1,1 +1,1 @@
-var mnemonic = "brush range live fly ancient era palm govern tonight bleak harvest stand";
+var mnemonic = "weapon maximum cushion enroll orchard clump mechanic purity return human repeat abandon";

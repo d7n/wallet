@@ -1,1 +1,1 @@
-var mnemonic = "kite pave boy indicate arm chunk short science hundred bind anxiety fever";
+var mnemonic = "amused elder coast link length notice hurt apple door clap learn outdoor";

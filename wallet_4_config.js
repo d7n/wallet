@@ -1,1 +1,1 @@
-var mnemonic = "magnet mammal blush bronze tiger era poem puzzle trouble tongue galaxy join";
+var mnemonic = "stone alert honey album chunk nephew cupboard soul laugh aim nothing plunge";

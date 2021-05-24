@@ -1,1 +1,1 @@
-var mnemonic = "tool symbol tilt average endless such stadium faint palm knife almost vacant";
+var mnemonic = "mean potato approve music return april alter trigger scout rate hill lock";

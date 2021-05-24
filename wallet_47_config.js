@@ -1,1 +1,1 @@
-var mnemonic = "happy wine art fabric finger receive beyond local junk time arch mountain";
+var mnemonic = "horse lion slide embark upper detect fiction vanish explain furnace power priority";

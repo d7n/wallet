@@ -1,1 +1,1 @@
-var mnemonic = "august general utility grass soccer vibrant denial balcony exchange scrub bounce split";
+var mnemonic = "food scatter supreme case easily asthma blanket gym measure inflict spice mercy";

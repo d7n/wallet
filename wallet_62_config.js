@@ -1,1 +1,1 @@
-var mnemonic = "disorder alone dust torch upgrade off matter giraffe noise faith crystal crater";
+var mnemonic = "boat predict sleep silver idea boring pitch pool spare border disagree draw";

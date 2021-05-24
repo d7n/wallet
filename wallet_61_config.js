@@ -1,1 +1,1 @@
-var mnemonic = "figure discover finish task comfort rent mechanic chimney also build ten ivory";
+var mnemonic = "indicate dish affair uniform match surge hollow credit assist express install cargo";

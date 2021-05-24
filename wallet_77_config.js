@@ -1,1 +1,1 @@
-var mnemonic = "spare teach lend poet summer use ozone claim click eyebrow animal immense";
+var mnemonic = "wisdom adjust humor item beach lyrics inspire street major pulse brother gown";

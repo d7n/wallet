@@ -1,1 +1,1 @@
-var mnemonic = "brush thank drill save midnight crouch rather item crater damage eyebrow smile";
+var mnemonic = "reopen deer toss thank alley blue next mushroom image demand base phrase";

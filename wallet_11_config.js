@@ -1,1 +1,1 @@
-var mnemonic = "cattle battle dizzy inject crucial arctic large urge festival zero tip husband";
+var mnemonic = "umbrella axis wrestle list miss spot panther crater defy access ticket video";

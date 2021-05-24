@@ -1,1 +1,1 @@
-var mnemonic = "jelly dwarf bachelor hundred refuse afraid carbon bottom secret work flush stone";
+var mnemonic = "manual legend muffin grit pear twelve destroy roast pact nasty rebel record";

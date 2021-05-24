@@ -1,1 +1,1 @@
-var mnemonic = "about always slide arrow abstract text valley twist invite quarter topple hawk";
+var mnemonic = "treat heart soft ripple auction dove leave found top wise tilt risk";

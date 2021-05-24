@@ -1,1 +1,1 @@
-var mnemonic = "click recall clarify witness expand peasant various coach expire man october front";
+var mnemonic = "danger scorpion sudden grant duck under audit because rich fresh learn fade";

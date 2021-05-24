@@ -1,1 +1,1 @@
-var mnemonic = "recall mimic awake choice crush carbon vanish spatial invite sword smooth process";
+var mnemonic = "salute return prosper figure ready dish aerobic over panel bacon lab jewel";

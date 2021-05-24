@@ -1,1 +1,1 @@
-var mnemonic = "network ask auction air point cat truck today code give usual cram";
+var mnemonic = "odor feature lunch evil estate hobby monitor mistake emerge whale cheese version";

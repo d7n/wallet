@@ -1,1 +1,1 @@
-var mnemonic = "cake peace virtual response orient trim nephew joke reform oxygen tip zebra";
+var mnemonic = "tomato logic bring wise fade boy barely runway better pear letter bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "always cute program snap lady law gaze clown coconut rail venture jar";
+var mnemonic = "sadness soccer card imitate normal draft floor rude dry domain produce eyebrow";

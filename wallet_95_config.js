@@ -1,1 +1,1 @@
-var mnemonic = "poem flush multiply survey frame decorate vanish iron direct file quarter lend";
+var mnemonic = "kidney proof abandon coast office else video shoulder salon green buzz trade";

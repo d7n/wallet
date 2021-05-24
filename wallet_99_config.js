@@ -1,1 +1,1 @@
-var mnemonic = "wife layer deposit leaf exotic curious dismiss cotton jacket find chuckle window";
+var mnemonic = "brother barely inform jump gap glow poem bottom human shine crash witness";

@@ -1,1 +1,1 @@
-var mnemonic = "pool novel maple sadness random frog live hat bike midnight just retire";
+var mnemonic = "pulse primary fee chuckle trumpet current illegal riot alpha grass inspire pottery";

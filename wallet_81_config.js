@@ -1,1 +1,1 @@
-var mnemonic = "learn rapid music jump game avoid vital laptop talent faint army merge";
+var mnemonic = "dignity tool bus advance access exclude stomach swim duck aim miss give";

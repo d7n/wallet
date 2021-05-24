@@ -1,1 +1,1 @@
-var mnemonic = "patch mobile exist erase save mixture flag absorb hurt sure then castle";
+var mnemonic = "hurry exile gossip castle wasp high provide wise always deposit cherry ivory";

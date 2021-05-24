@@ -1,1 +1,1 @@
-var mnemonic = "indoor average run goddess transfer album mule keep upon alert salmon elite";
+var mnemonic = "battle fossil escape subject attend together owner injury athlete adjust genius shrimp";

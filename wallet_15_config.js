@@ -1,1 +1,1 @@
-var mnemonic = "egg true figure magnet idea amused fashion rich present mind tattoo hybrid";
+var mnemonic = "student spy heart click help scan champion valid walk siren veteran duty";

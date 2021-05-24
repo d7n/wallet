@@ -1,1 +1,1 @@
-var mnemonic = "abstract please ribbon beauty apology alarm move swift cute weather exact valve";
+var mnemonic = "perfect salute dizzy south goose expire light lunch scrap laugh juice lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "detect alter tiny gloom ten good false web response sound knife catalog";
+var mnemonic = "dirt print buyer ivory also cram attack cricket recall index case develop";

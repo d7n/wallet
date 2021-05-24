@@ -1,1 +1,1 @@
-var mnemonic = "evidence fatigue salad extra tuna vivid jar jewel distance chronic pistol puppy";
+var mnemonic = "present label vacant mammal cargo dose slide code hedgehog evidence hair camp";

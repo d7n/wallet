@@ -1,1 +1,1 @@
-var mnemonic = "spell release crew equal spatial govern repeat imitate aisle enter force fault";
+var mnemonic = "void junk anxiety mistake basket fee dose find suffer sorry valid suspect";

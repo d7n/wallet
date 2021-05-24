@@ -1,1 +1,1 @@
-var mnemonic = "mosquito never fee quarter deer galaxy buffalo buddy mosquito donor pool term";
+var mnemonic = "border fossil nature electric eyebrow rhythm belt artefact garbage noodle giraffe arctic";

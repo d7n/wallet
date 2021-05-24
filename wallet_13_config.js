@@ -1,1 +1,1 @@
-var mnemonic = "strategy inner notable bridge tide trumpet exercise discover submit knock soup knock";
+var mnemonic = "label oxygen nerve staff caution onion replace target excuse sorry strong impulse";

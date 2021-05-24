@@ -1,1 +1,1 @@
-var mnemonic = "all gather oblige spot reflect basic bargain worth public garlic home wealth";
+var mnemonic = "achieve enter remain board focus shoot october witness cruise vast coin unique";

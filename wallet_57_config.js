@@ -1,1 +1,1 @@
-var mnemonic = "length size ecology cruel eagle hotel obey pyramid cheap also arctic wage";
+var mnemonic = "note steel language ostrich achieve later room mandate deputy tank door spring";

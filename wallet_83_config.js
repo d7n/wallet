@@ -1,1 +1,1 @@
-var mnemonic = "scare shell mushroom fun rookie primary desk damp burst soon awake super";
+var mnemonic = "oxygen rack rotate label unveil sing armor more expect kiss print ripple";

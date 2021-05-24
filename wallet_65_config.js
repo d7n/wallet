@@ -1,1 +1,1 @@
-var mnemonic = "edge milk buzz pause visa appear track pair puppy push spot level";
+var mnemonic = "order dance garden dial height bless earn door feature grow rookie wasp";

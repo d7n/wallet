@@ -1,1 +1,1 @@
-var mnemonic = "divorce typical farm sponsor method fatigue neutral silent december awesome earth unable";
+var mnemonic = "vote wing manual clap open grow refuse decide conduct figure galaxy topic";

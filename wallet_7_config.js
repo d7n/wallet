@@ -1,1 +1,1 @@
-var mnemonic = "change shallow waste explain negative crystal runway armor behind submit frozen ethics";
+var mnemonic = "mixture stereo tail meadow parrot fall useless steak loyal coast surprise prosper";

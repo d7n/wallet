@@ -1,1 +1,1 @@
-var mnemonic = "scan start float ask buffalo chair embrace office void column disorder winner";
+var mnemonic = "tobacco illegal expand shrug bike then spring enough duty picnic humor negative";

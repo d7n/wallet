@@ -1,1 +1,1 @@
-var mnemonic = "category oyster gaze habit gather special upset fiction drink cereal domain shy";
+var mnemonic = "erosion snap vacuum prize leg cousin human north begin trial diary panther";

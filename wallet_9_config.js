@@ -1,1 +1,1 @@
-var mnemonic = "drill vote front horror accuse benefit exile page pizza movie grape tuna";
+var mnemonic = "bacon law divert dog shrug car universe vocal among region jealous bacon";

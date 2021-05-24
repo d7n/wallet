@@ -1,1 +1,1 @@
-var mnemonic = "expand poet oak camp couple fun adjust reform urban drift bullet bundle";
+var mnemonic = "question question test squirrel useless level shield indicate often improve frost cage";

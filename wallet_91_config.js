@@ -1,1 +1,1 @@
-var mnemonic = "enjoy mix snake average digital topic desert barrel congress verb trade flat";
+var mnemonic = "unhappy speak material knee admit arctic marine nest solar shove purchase tenant";

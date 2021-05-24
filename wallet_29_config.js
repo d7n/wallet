@@ -1,1 +1,1 @@
-var mnemonic = "lonely infant dust bring evidence estate ship matter crouch tuition this drill";
+var mnemonic = "stay idle radar inner accuse sister proof talk muscle fabric churn bulk";

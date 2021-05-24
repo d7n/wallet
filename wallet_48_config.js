@@ -1,1 +1,1 @@
-var mnemonic = "remind term march chat convince father later find degree park cricket repeat";
+var mnemonic = "oval orient two lumber student umbrella melody venture level prevent chuckle deputy";

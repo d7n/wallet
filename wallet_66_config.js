@@ -1,1 +1,1 @@
-var mnemonic = "run model amused wing fit accuse actual kite just wrist clerk fit";
+var mnemonic = "practice giggle pair pigeon bicycle smile purity agree royal inform gesture castle";

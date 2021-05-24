@@ -1,1 +1,1 @@
-var mnemonic = "glove involve pitch minor attend claim pyramid mixed force aspect knock shaft";
+var mnemonic = "faculty sorry trade alpha one situate luggage mountain display name cart grant";

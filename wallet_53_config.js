@@ -1,1 +1,1 @@
-var mnemonic = "wool define dad web modify typical predict card planet position minor nation";
+var mnemonic = "mango face else food grain blue erase multiply bleak similar awkward tail";

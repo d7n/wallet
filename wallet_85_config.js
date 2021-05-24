@@ -1,1 +1,1 @@
-var mnemonic = "shaft audit steak say fall crew pipe great leopard else obtain apple";
+var mnemonic = "photo kiss embark verify degree quarter cube young there account awful during";

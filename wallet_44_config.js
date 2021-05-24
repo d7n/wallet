@@ -1,1 +1,1 @@
-var mnemonic = "supreme one arrange solution glue recycle inject galaxy parade off garment record";
+var mnemonic = "unknown ghost ritual firm transfer tilt message effort judge tool love soccer";

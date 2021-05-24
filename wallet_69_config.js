@@ -1,1 +1,1 @@
-var mnemonic = "sea alert label famous siren remind sad steak cool father exclude day";
+var mnemonic = "pelican bargain advance shock insane mail today benefit scan reform tool flush";

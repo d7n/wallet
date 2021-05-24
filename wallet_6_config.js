@@ -1,1 +1,1 @@
-var mnemonic = "scan clever fresh label cash friend lab upon boat penalty tired critic";
+var mnemonic = "rotate assault patient vital balance modify stay tonight steel hen zero tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "truck mirror kidney media health flee holiday caution hazard useful warrior subject";
+var mnemonic = "jazz master loyal royal rebuild chicken kiss object number blind hope possible";

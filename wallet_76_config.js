@@ -1,1 +1,1 @@
-var mnemonic = "valid drastic smart laptop risk smoke lab easily joy loop tissue winner";
+var mnemonic = "crop forest poet logic ozone grape snack various stadium river segment cinnamon";

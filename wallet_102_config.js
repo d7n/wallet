@@ -1,1 +1,1 @@
-var mnemonic = "display early pelican stamp problem camera short few spring innocent regular other";
+var mnemonic = "ill hour fit make avoid enrich fault helmet execute tiger network fog";

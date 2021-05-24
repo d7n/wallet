@@ -1,1 +1,1 @@
-var mnemonic = "month absent ahead curve journey egg arch sheriff kit street soap dune";
+var mnemonic = "cheap essay elder frost divorce drink recycle betray desk snow license video";

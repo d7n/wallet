@@ -1,1 +1,1 @@
-var mnemonic = "budget garlic craft crop vapor donor budget scare document equip genre flash";
+var mnemonic = "bread inmate ripple slice fitness cotton waste swallow gaze icon marble renew";

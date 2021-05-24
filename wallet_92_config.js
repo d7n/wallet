@@ -1,1 +1,1 @@
-var mnemonic = "lazy harbor syrup habit noise tone erase aisle sphere misery utility interest";
+var mnemonic = "village title various catch cube dilemma label sibling journey earn manual mystery";

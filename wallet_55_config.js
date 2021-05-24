@@ -1,1 +1,1 @@
-var mnemonic = "select angry dash deal antique cart outer task alley trash impact illness";
+var mnemonic = "reduce girl play rookie pioneer must divorce wasp mango chaos elder expose";

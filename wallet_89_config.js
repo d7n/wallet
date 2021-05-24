@@ -1,1 +1,1 @@
-var mnemonic = "bless across hollow mix awkward organ vivid say table chase guess adjust";
+var mnemonic = "carpet obscure gaze adult pride leader exile flock book breeze vehicle cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "staff ecology size rough cruel whale flame bridge predict unaware denial charge";
+var mnemonic = "life slogan question issue forward office judge front trap science odor spice";

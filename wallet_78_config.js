@@ -1,1 +1,1 @@
-var mnemonic = "keep insane fruit expire fire symbol eye swift grass indoor carry quote";
+var mnemonic = "drive hidden vote now immune exercise spread junior double lucky spin pause";

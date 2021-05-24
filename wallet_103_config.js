@@ -1,1 +1,1 @@
-var mnemonic = "celery rail find waste bike nominee nurse decide brave mom visa uphold";
+var mnemonic = "repeat beef cabbage across item wine south sure large road quantum sniff";

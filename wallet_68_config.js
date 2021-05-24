@@ -1,1 +1,1 @@
-var mnemonic = "crazy lens love joy library pottery burden retire color notice battle sphere";
+var mnemonic = "street latin melt offer oblige sunset mule field zebra around horse pair";

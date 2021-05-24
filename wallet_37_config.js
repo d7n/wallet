@@ -1,1 +1,1 @@
-var mnemonic = "satoshi fuel observe section mixed surge actor frog puzzle concert cube resemble";
+var mnemonic = "green boring van long pledge duck resource toss fashion issue token hurry";

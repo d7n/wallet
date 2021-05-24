@@ -1,1 +1,1 @@
-var mnemonic = "matter search fortune trick index achieve tired potato float penalty label cross";
+var mnemonic = "select solution cheap key fork truck olympic monster lobster barely cabbage unknown";

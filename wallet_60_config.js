@@ -1,1 +1,1 @@
-var mnemonic = "quit arrest feed accuse debris polar winner lesson citizen oxygen miss system";
+var mnemonic = "derive dignity mobile laundry nice antique manual federal gold join correct common";

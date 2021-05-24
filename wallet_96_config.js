@@ -1,1 +1,1 @@
-var mnemonic = "inmate arm earn attitude gorilla scale program essence elevator series bronze fashion";
+var mnemonic = "only below phrase human trophy escape toast pact delay wrong time census";

@@ -1,1 +1,1 @@
-var mnemonic = "corn remind arrange suffer soul problem window path shadow milk fortune square";
+var mnemonic = "type trigger daughter culture differ nut orbit liquid turn mask forward emerge";

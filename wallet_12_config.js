@@ -1,1 +1,1 @@
-var mnemonic = "wash delay fortune color bid surprise pledge elbow essay gas hobby item";
+var mnemonic = "exit loan devote party age asset device foster guide region then off";

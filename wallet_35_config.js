@@ -1,1 +1,1 @@
-var mnemonic = "quiz ginger census rug federal sudden faculty shoot cheese pizza flush swap";
+var mnemonic = "vast spin panel ski credit lemon moon economy oyster correct oil because";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket conduct mix social glad lonely floor melt plastic poverty wall solar";
+var mnemonic = "mirror enact sugar alcohol cost velvet present place buyer short post model";

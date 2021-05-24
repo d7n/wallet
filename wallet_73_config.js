@@ -1,1 +1,1 @@
-var mnemonic = "host wheat any scrap captain family weird buzz detect plunge dream rely";
+var mnemonic = "grid curve torch orange draft arch easy action pluck lounge lawsuit shove";

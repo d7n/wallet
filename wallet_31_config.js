@@ -1,1 +1,1 @@
-var mnemonic = "capable gun coral leg siege feature blue fabric design today tree thunder";
+var mnemonic = "ghost gas alter burden assault acid protect erosion during elegant warfare moment";

@@ -1,1 +1,1 @@
-var mnemonic = "kind cattle mercy solve shove opinion lend tomorrow bird animal bracket defense";
+var mnemonic = "copper occur manage family tiger exhibit fan cabin blush erupt airport pill";

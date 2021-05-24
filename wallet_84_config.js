@@ -1,1 +1,1 @@
-var mnemonic = "ocean pipe bitter method scout fury east before artefact myth genius image";
+var mnemonic = "winner glance east fringe october example timber mass time deposit retreat slow";

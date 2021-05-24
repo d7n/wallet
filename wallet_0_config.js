@@ -1,1 +1,1 @@
-var mnemonic = "elite possible much parent treat album camera nation drama south forum creek";
+var mnemonic = "airport fashion glove entire canvas program climb morning allow bless bonus orient";
