@@ -1,1 +1,1 @@
-var mnemonic = "follow cheese shy fringe flower never hill portion skin taxi rocket zebra";
+var mnemonic = "taxi tenant monitor loud another chief cover vivid allow nerve curtain myth";

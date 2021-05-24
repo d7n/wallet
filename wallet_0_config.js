@@ -1,1 +1,1 @@
-var mnemonic = "couple absorb taxi pilot naive cannon blouse oblige spy level embrace help";
+var mnemonic = "dirt rescue bunker diary erosion grab draft damp peanut sheriff into sustain";

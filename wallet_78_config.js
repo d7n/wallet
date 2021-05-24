@@ -1,1 +1,1 @@
-var mnemonic = "scout prize address cup pledge this jelly depend aware nephew fit fetch";
+var mnemonic = "yellow glue spider kite ginger damp artefact soup garlic faith noodle possible";

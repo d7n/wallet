@@ -1,1 +1,1 @@
-var mnemonic = "vehicle praise waste garment wolf correct girl fetch cube bleak layer pull";
+var mnemonic = "agree gravity knife narrow subway exist loan episode cancel sketch want supply";

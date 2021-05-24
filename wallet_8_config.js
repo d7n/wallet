@@ -1,1 +1,1 @@
-var mnemonic = "forward witness rug ladder key question lady orient battle person chaos couple";
+var mnemonic = "rookie name doctor call gentle sudden alert stem giraffe diesel innocent choose";

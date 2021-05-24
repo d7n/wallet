@@ -1,1 +1,1 @@
-var mnemonic = "cruise spirit witness sustain era chuckle juice develop vessel wrap outer hedgehog";
+var mnemonic = "slush engage inmate steel north helmet sibling retire series camera ocean alpha";

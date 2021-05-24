@@ -1,1 +1,1 @@
-var mnemonic = "hybrid you club junior venture just soft subject permit art book luxury";
+var mnemonic = "source lend antique kiwi vintage cereal remove replace gather off stage tip";

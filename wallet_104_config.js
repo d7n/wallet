@@ -1,1 +1,1 @@
-var mnemonic = "company enhance minor penalty card soul lucky lens market require horn extend";
+var mnemonic = "chef hub toss giant speed kit ignore cannon impact world learn embody";

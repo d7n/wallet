@@ -1,1 +1,1 @@
-var mnemonic = "whisper exile way across zebra vicious draw fiscal wire success flip hen";
+var mnemonic = "town connect sphere rural drift soldier mixed green two ripple deal aware";

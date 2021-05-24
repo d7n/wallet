@@ -1,1 +1,1 @@
-var mnemonic = "dance void recipe install during detect uncover tilt squeeze earth bread orbit";
+var mnemonic = "sleep one match embrace slow lens negative afraid gold strike rescue ivory";

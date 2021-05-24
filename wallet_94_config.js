@@ -1,1 +1,1 @@
-var mnemonic = "firm stand example concert patch certain ecology will educate club burden dove";
+var mnemonic = "else blue usual latin ridge discover trap cost flight economy sample above";

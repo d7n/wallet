@@ -1,1 +1,1 @@
-var mnemonic = "depart power together leave route earn search spider poverty appear squirrel moment";
+var mnemonic = "spider myself loop gate pony cargo mother spice river only memory large";

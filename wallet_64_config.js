@@ -1,1 +1,1 @@
-var mnemonic = "moral conduct make together decrease wash visa engage assault ask table boat";
+var mnemonic = "stick shock bicycle enjoy leg believe tenant check clump onion true upon";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant talk month increase return badge trip inhale tray similar ask royal";
+var mnemonic = "burden repeat firm public produce wish tilt brain shuffle whip crowd runway";

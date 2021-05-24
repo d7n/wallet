@@ -1,1 +1,1 @@
-var mnemonic = "sunset uncle lava secret peanut acquire join main latin lumber harbor lake";
+var mnemonic = "benefit broom patch fatigue harbor become multiply praise bless main pelican nice";

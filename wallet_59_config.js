@@ -1,1 +1,1 @@
-var mnemonic = "start wagon copy cotton various gloom idea boil basket stumble jazz edge";
+var mnemonic = "remove always olympic arena intact promote bubble chicken type leader dismiss model";

@@ -1,1 +1,1 @@
-var mnemonic = "warm system dutch among like stumble ice thing chunk juice copy glory";
+var mnemonic = "install night peace domain border dutch staff paddle topic tiny rail page";

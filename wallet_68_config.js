@@ -1,1 +1,1 @@
-var mnemonic = "learn parrot kind staff spare confirm vessel sport riot drink sell melt";
+var mnemonic = "enhance issue army plunge lizard crater trick embark frequent fetch attack shoot";

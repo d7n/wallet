@@ -1,1 +1,1 @@
-var mnemonic = "way unique license lyrics dress castle piece degree misery develop price crack";
+var mnemonic = "thumb still outer people resist few voice episode error soda desert draw";

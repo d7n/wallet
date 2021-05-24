@@ -1,1 +1,1 @@
-var mnemonic = "game dust entire spirit lumber struggle avocado season twin pole leader ugly";
+var mnemonic = "auto add acoustic rule public cage magnet demise error floor client love";

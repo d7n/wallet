@@ -1,1 +1,1 @@
-var mnemonic = "verb mushroom tunnel actress taxi include stomach table say boil aspect pause";
+var mnemonic = "layer apology remember sugar shoot busy cross bullet twelve ahead walk emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "left frost fly peanut room govern bone aunt lunar burst sniff ordinary";
+var mnemonic = "also inform multiply glue canoe pitch much air near that soldier milk";

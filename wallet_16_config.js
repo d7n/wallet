@@ -1,1 +1,1 @@
-var mnemonic = "exchange glide blame hawk bone dance major vague divide scissors dial primary";
+var mnemonic = "mom equip bonus excuse noodle lava brand sound video visit small possible";

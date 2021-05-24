@@ -1,1 +1,1 @@
-var mnemonic = "squirrel run bar fox display fetch burger chimney tiny drop decade effort";
+var mnemonic = "achieve tunnel you gallery balance indicate tent meat wedding fun tobacco hat";

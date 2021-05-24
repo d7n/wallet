@@ -1,1 +1,1 @@
-var mnemonic = "silver toe ability bomb review insane reveal unveil steel usual manage police";
+var mnemonic = "mask harbor liberty vapor silly edit ring legal stumble tip boy success";

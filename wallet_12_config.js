@@ -1,1 +1,1 @@
-var mnemonic = "project father view dolphin critic analyst crumble dawn mom input dream chase";
+var mnemonic = "east leave motor combine velvet also method final oil olympic extra vehicle";

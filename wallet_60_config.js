@@ -1,1 +1,1 @@
-var mnemonic = "toward brief anger city side predict palace purchase together adapt reason table";
+var mnemonic = "crawl ball noodle provide auto traffic slide grain cry sausage enact cigar";

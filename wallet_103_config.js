@@ -1,1 +1,1 @@
-var mnemonic = "urban near trip heavy grace glue beef phrase trust town latin gym";
+var mnemonic = "olive social list road gallery bonus slender idea drift dinosaur snack valid";

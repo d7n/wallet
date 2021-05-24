@@ -1,1 +1,1 @@
-var mnemonic = "elbow ramp control stable keen neck miss basic trigger unveil proof beach";
+var mnemonic = "bean arm napkin breeze shaft subject small lucky urban fee ivory letter";

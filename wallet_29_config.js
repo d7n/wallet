@@ -1,1 +1,1 @@
-var mnemonic = "oblige shed box mechanic glue dumb hero discover faculty gain review ankle";
+var mnemonic = "luggage equip cloud advice minute neglect extra cricket gate box home age";

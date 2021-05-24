@@ -1,1 +1,1 @@
-var mnemonic = "offer crowd speak train light bean utility hold special shoot cricket acid";
+var mnemonic = "since book supply wagon jungle shadow olympic inherit round program electric artefact";

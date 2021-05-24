@@ -1,1 +1,1 @@
-var mnemonic = "bench orphan winter donate order tonight mind earn rebuild boss burst brain";
+var mnemonic = "like inside expose rail special kind mechanic stick inflict response novel dragon";

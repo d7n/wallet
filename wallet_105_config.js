@@ -1,1 +1,1 @@
-var mnemonic = "worry globe say hill huge injury debate material minimum tackle finish ceiling";
+var mnemonic = "question success police false obscure panther labor search mango route source fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "replace monitor trap ozone title robust flock laundry sugar charge slogan excess";
+var mnemonic = "punch weather author kangaroo thing blame figure fabric tonight horn can gown";

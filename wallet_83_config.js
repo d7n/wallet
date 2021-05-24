@@ -1,1 +1,1 @@
-var mnemonic = "shoot turtle snack what satoshi pyramid rate toss marble people swift pizza";
+var mnemonic = "rural pluck vicious task hour decorate home decline eternal eye major another";

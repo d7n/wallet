@@ -1,1 +1,1 @@
-var mnemonic = "foot industry jaguar account innocent boring radio very father catalog venue wrap";
+var mnemonic = "balance high return hollow silk casual long negative nerve dismiss merit rubber";

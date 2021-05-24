@@ -1,1 +1,1 @@
-var mnemonic = "night large deer business oxygen antenna tent human pet warrior tooth roof";
+var mnemonic = "artist huge mystery jungle afraid pretty myself radar gloom fancy album october";

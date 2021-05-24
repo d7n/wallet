@@ -1,1 +1,1 @@
-var mnemonic = "outdoor stem place raven vanish royal catalog spray hat gadget offer pill";
+var mnemonic = "exchange regret erupt arrow price damage comfort two beauty liberty parent work";

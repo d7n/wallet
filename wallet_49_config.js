@@ -1,1 +1,1 @@
-var mnemonic = "chase club view win caught add nominee vendor barrel economy evil account";
+var mnemonic = "trigger sand purse this color divorce infant bulk fence poet resist initial";

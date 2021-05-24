@@ -1,1 +1,1 @@
-var mnemonic = "dial hazard feature cook alarm output proof monster index kick hover luxury";
+var mnemonic = "shield about identify panda turn laugh mistake warfare advice excite cereal plunge";

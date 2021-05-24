@@ -1,1 +1,1 @@
-var mnemonic = "invest main media feed possible shaft damage pave series margin smart rib";
+var mnemonic = "donor survey used autumn flight live panda little improve start trial attack";

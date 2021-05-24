@@ -1,1 +1,1 @@
-var mnemonic = "strong vault cheese pond unveil supply arrange replace keep layer desk weapon";
+var mnemonic = "random age relax border sign rice twice actor track awful beach science";

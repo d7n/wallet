@@ -1,1 +1,1 @@
-var mnemonic = "spring jazz loud gravity quote clap floor slender owner crack anger alcohol";
+var mnemonic = "can aunt sword admit caution parent error forum trash unfair domain tooth";

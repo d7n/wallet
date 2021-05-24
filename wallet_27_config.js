@@ -1,1 +1,1 @@
-var mnemonic = "all tomato stadium kidney sign thumb cabbage shock cycle champion nerve grow";
+var mnemonic = "satisfy equal equal easy atom beef luxury deal satoshi write sausage suffer";

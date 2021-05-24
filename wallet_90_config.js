@@ -1,1 +1,1 @@
-var mnemonic = "filter act ripple novel ostrich hello nuclear music spatial naive soup critic";
+var mnemonic = "banana fossil grid sound bomb memory vapor health bitter meat borrow dragon";

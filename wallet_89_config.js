@@ -1,1 +1,1 @@
-var mnemonic = "desert tree exile black loyal strong attract timber novel purse envelope rapid";
+var mnemonic = "pact tilt dose void spy beach always install wrist peasant wet over";

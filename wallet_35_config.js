@@ -1,1 +1,1 @@
-var mnemonic = "already surge lyrics cluster fan anger benefit reunion start crew tennis canal";
+var mnemonic = "time view trip purpose dilemma slide document dwarf symbol frame organ spray";

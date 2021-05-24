@@ -1,1 +1,1 @@
-var mnemonic = "equal kit actual guess organ reveal engine wear target clay cinnamon bird";
+var mnemonic = "blue junk oppose click laptop fix around imitate fork bitter green grace";

@@ -1,1 +1,1 @@
-var mnemonic = "hat bread edit beyond thumb burden equal famous west flash disease stomach";
+var mnemonic = "fabric copper gospel only favorite execute hope stone shaft gift armed age";

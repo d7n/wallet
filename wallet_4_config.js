@@ -1,1 +1,1 @@
-var mnemonic = "spider come glide tortoise violin mom always quarter salon bulk upon hard";
+var mnemonic = "nothing dumb fly mountain wear nominee announce lawn dog negative worry sword";

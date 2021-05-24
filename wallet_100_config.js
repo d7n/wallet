@@ -1,1 +1,1 @@
-var mnemonic = "stomach design coyote rescue laptop general domain valid replace chef candy excite";
+var mnemonic = "hurt input excuse neck ivory innocent race turkey inner couple summer salt";

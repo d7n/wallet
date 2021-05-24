@@ -1,1 +1,1 @@
-var mnemonic = "catalog invite rely wage caught science either dove stick mimic impact reopen";
+var mnemonic = "strategy crawl tunnel later exercise else elbow umbrella artwork swim river flag";

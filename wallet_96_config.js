@@ -1,1 +1,1 @@
-var mnemonic = "tumble just glass dad glue theme become laptop agent gravity casual disease";
+var mnemonic = "hurry attack symbol female very skull analyst problem unknown spoil convince cable";

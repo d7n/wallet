@@ -1,1 +1,1 @@
-var mnemonic = "squeeze exist aunt mind fame ceiling supreme lobster hour favorite neither amount";
+var mnemonic = "decrease situate excess core infant account type creek pave jungle nature iron";

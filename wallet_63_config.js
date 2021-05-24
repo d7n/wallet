@@ -1,1 +1,1 @@
-var mnemonic = "card approve loop thing enact exhibit elegant outer acid husband curious kidney";
+var mnemonic = "ghost rapid fee north speed shallow wage swamp wish hospital bulb cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire area spawn raven exhibit bracket say deny common blade price tent";
+var mnemonic = "grain chicken brown zebra shadow permit dinner nose under knee reveal dose";

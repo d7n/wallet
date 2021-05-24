@@ -1,1 +1,1 @@
-var mnemonic = "crouch throw curtain sweet cause foam planet present great banner hundred step";
+var mnemonic = "dress despair hover cat citizen acid public meat behave garment debris divide";

@@ -1,1 +1,1 @@
-var mnemonic = "biology tower profit myself spatial wild grain carry call aspect horse cabbage";
+var mnemonic = "shuffle mandate short chronic brass ketchup empty flower staff soldier radio shaft";

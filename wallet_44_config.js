@@ -1,1 +1,1 @@
-var mnemonic = "message slim dolphin stable chuckle sound bargain crash lens rhythm salad limb";
+var mnemonic = "strike shove crush purity what hawk film boat repeat chair imitate dad";

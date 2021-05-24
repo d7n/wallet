@@ -1,1 +1,1 @@
-var mnemonic = "unusual age fabric nature flame okay mimic exercise unaware siege student tortoise";
+var mnemonic = "home isolate august gossip bench promote pigeon panic small output link gentle";

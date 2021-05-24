@@ -1,1 +1,1 @@
-var mnemonic = "cross guilt federal pepper limit genre mechanic casual ritual seek minimum sting";
+var mnemonic = "swift equal ginger stool twenty melody turkey head misery diary age click";

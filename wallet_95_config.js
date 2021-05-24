@@ -1,1 +1,1 @@
-var mnemonic = "loan reduce behind under glove cry interest corn solve clump tired hair";
+var mnemonic = "deliver before wet cruel bullet unfold card lumber blanket okay midnight edit";

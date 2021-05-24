@@ -1,1 +1,1 @@
-var mnemonic = "grow window ridge approve march quit deal strong defense female copper width";
+var mnemonic = "scan trash crew rigid initial royal result potato loyal ticket unknown pool";

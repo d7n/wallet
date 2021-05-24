@@ -1,1 +1,1 @@
-var mnemonic = "reunion annual vapor solar merge catalog clerk grow demise issue please quiz";
+var mnemonic = "pelican bacon sponsor maple blush this leader budget exchange acid initial leisure";

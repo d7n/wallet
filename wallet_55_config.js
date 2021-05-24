@@ -1,1 +1,1 @@
-var mnemonic = "industry shield evoke zebra fresh brass coyote welcome jealous spot draft hurry";
+var mnemonic = "turkey toilet climb celery hawk shuffle chronic sketch victory legend jaguar slim";

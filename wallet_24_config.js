@@ -1,1 +1,1 @@
-var mnemonic = "garbage stuff nuclear chest congress tornado depth base news wreck photo jelly";
+var mnemonic = "trophy shine harsh mixture step eagle identify welcome tomato today execute gauge";

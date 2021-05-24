@@ -1,1 +1,1 @@
-var mnemonic = "capital rice liberty text grass brush answer primary trend welcome ring wage";
+var mnemonic = "express forward error oxygen spike slush ecology traffic catch ready surge top";

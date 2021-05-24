@@ -1,1 +1,1 @@
-var mnemonic = "exercise hover practice armed prevent token answer afford grass lab spy online";
+var mnemonic = "link already utility galaxy thunder soap car pepper future close prize border";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla chapter neglect joy coconut noble surprise dune eye library prize gasp";
+var mnemonic = "punch cattle mushroom ridge cloud age brave double wrong flat charge rocket";

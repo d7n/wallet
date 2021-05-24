@@ -1,1 +1,1 @@
-var mnemonic = "unable quarter game jeans silver expand orchard zebra build taxi cable glue";
+var mnemonic = "afraid wise give dirt hotel avocado speak april bottom alter predict wish";

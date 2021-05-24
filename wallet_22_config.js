@@ -1,1 +1,1 @@
-var mnemonic = "crisp grass arrest scale bridge can spread increase vague this check weasel";
+var mnemonic = "easy film coyote close floor planet dirt wise rare bachelor eternal alien";

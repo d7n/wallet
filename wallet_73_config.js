@@ -1,1 +1,1 @@
-var mnemonic = "aerobic toss oak chest acid speak alien abandon manual you proof warfare";
+var mnemonic = "ensure chuckle arrest quit notable end stone elevator crawl actual always victory";

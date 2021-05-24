@@ -1,1 +1,1 @@
-var mnemonic = "dragon direct spend give entry vacuum supreme vicious weather boat recycle reward";
+var mnemonic = "before sorry much write also afraid afford slim zero permit involve salon";

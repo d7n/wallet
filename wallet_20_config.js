@@ -1,1 +1,1 @@
-var mnemonic = "pear private chase best auto raise tunnel involve magic tray obtain woman";
+var mnemonic = "grace shadow replace miss tenant embark vague cage love melody play help";

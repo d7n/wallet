@@ -1,1 +1,1 @@
-var mnemonic = "mean coast state alcohol skin winner scan result episode naive sheriff corn";
+var mnemonic = "payment first wrist tonight bright siege verify fiber phone control concert chuckle";

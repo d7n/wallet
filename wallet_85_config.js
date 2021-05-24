@@ -1,1 +1,1 @@
-var mnemonic = "equip whale display between memory youth advance critic figure subway bean loud";
+var mnemonic = "account face enlist raccoon truck pave card dust mercy beyond search fatal";

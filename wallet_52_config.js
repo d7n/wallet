@@ -1,1 +1,1 @@
-var mnemonic = "cute museum trial riot urban wine account nuclear shallow ranch present elbow";
+var mnemonic = "trust stage uncle soldier dragon traffic vacuum cave cabin load family just";

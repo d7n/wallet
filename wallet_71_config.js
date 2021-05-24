@@ -1,1 +1,1 @@
-var mnemonic = "symptom useful alert tennis crash arctic style trip bird human solve quit";
+var mnemonic = "drink bean december mirror ensure actress impulse ethics run jazz dutch gentle";

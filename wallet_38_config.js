@@ -1,1 +1,1 @@
-var mnemonic = "zebra pave abandon like solution tray slim exact blush siren glide jazz";
+var mnemonic = "digital alert open burst grocery become path nominee economy monster priority edit";

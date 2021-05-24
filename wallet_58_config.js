@@ -1,1 +1,1 @@
-var mnemonic = "keen nature shadow hero salon jar valley gather resource lonely input cousin";
+var mnemonic = "sense monkey eye swift scatter during giant zero goose spoon digital gadget";

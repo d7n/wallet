@@ -1,1 +1,1 @@
-var mnemonic = "spot mass clinic stable turkey patrol clock quarter benefit diesel cream cluster";
+var mnemonic = "alone explain close valve friend misery badge comfort opera jar reunion thing";

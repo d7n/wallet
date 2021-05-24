@@ -1,1 +1,1 @@
-var mnemonic = "monkey anger scrap august chapter crunch perfect fever tail want churn alley";
+var mnemonic = "salad divide weapon quote hip lens alter regret cannon crop run exact";

@@ -1,1 +1,1 @@
-var mnemonic = "permit grunt pear seven recycle aspect neither split soup deal fury escape";
+var mnemonic = "reduce skill vast endorse add abstract ocean check budget install snap gate";

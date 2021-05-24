@@ -1,1 +1,1 @@
-var mnemonic = "shiver promote muscle atom violin erase aspect unhappy april airport ocean code";
+var mnemonic = "chaos canoe fatigue patrol satisfy doll ancient retire improve situate divide appear";

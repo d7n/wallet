@@ -1,1 +1,1 @@
-var mnemonic = "cloud nature book system creek art above produce erosion deal height cabbage";
+var mnemonic = "hawk heart lunch comfort crazy apology predict square gallery view actor uncle";

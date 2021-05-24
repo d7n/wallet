@@ -1,1 +1,1 @@
-var mnemonic = "real pet update clip chunk amused vote stay current target dawn pact";
+var mnemonic = "sphere okay helmet sunny slow shoot update thrive double onion seed wise";

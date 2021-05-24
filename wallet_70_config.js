@@ -1,1 +1,1 @@
-var mnemonic = "alley race narrow candy you oil bean stage mercy hello chapter exhaust";
+var mnemonic = "member nuclear capable area liberty antique flip oblige phone above review tip";

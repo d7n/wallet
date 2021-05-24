@@ -1,1 +1,1 @@
-var mnemonic = "bus body type radio mimic gap twin physical debate parade parade squeeze";
+var mnemonic = "text message just work tell mention enjoy clip poet injury attract expect";
