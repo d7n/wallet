@@ -1,1 +1,1 @@
-var mnemonic = "produce jar level payment notice reveal submit journey result orange butter toward";
+var mnemonic = "sibling cement animal fragile blouse can topic brother cost poverty identify pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "marine wife trade forum object gesture review despair nice cluster crawl rain";
+var mnemonic = "craft satisfy lawn maximum fossil raise never test slim path casino wasp";

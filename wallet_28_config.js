@@ -1,1 +1,1 @@
-var mnemonic = "harsh truly decide sketch noodle cereal jelly urban shoot olympic flower field";
+var mnemonic = "index theory already elevator swim tragic magic stay frog cube cost nose";

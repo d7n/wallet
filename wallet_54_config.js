@@ -1,1 +1,1 @@
-var mnemonic = "aspect donkey quality culture vacuum feature wing myth illness settle steel coconut";
+var mnemonic = "symbol love romance fiber door garlic wage print actress speak sketch destroy";

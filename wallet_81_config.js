@@ -1,1 +1,1 @@
-var mnemonic = "used logic wild broccoli zone pond autumn dawn debris trip food float";
+var mnemonic = "injury fresh front scissors sister brisk jacket anchor cup weapon oppose history";

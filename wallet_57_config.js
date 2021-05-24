@@ -1,1 +1,1 @@
-var mnemonic = "phone believe enable calm zebra chuckle wine survey spray what alone arm";
+var mnemonic = "jar once square bind visit cactus diesel glare humor river focus kidney";

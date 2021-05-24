@@ -1,1 +1,1 @@
-var mnemonic = "float cruel basket vacuum scan unaware elevator rhythm pond name concert seminar";
+var mnemonic = "champion mutual beef deer inspire nurse cement then noble lobster deny prize";

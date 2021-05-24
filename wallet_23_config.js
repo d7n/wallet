@@ -1,1 +1,1 @@
-var mnemonic = "unfair vivid either pitch tomorrow front prefer regret deliver choice seek silk";
+var mnemonic = "hope unfair armed observe force point want minimum sail wheel monster echo";

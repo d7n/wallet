@@ -1,1 +1,1 @@
-var mnemonic = "later blame boss wool home random gossip quiz glass stand march valley";
+var mnemonic = "river exchange suggest theme maximum enjoy slot ostrich car people sustain minute";

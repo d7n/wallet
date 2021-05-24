@@ -1,1 +1,1 @@
-var mnemonic = "laugh cotton long heavy pulp drift rule cable rabbit muffin talk pretty";
+var mnemonic = "point sting upper program weather wood barely joke clock perfect endless cute";

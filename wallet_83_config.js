@@ -1,1 +1,1 @@
-var mnemonic = "digital razor tomorrow blur mass shallow toe siren meadow goat future tip";
+var mnemonic = "belt used lift damp can toe artist skill there august million culture";

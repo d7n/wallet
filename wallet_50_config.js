@@ -1,1 +1,1 @@
-var mnemonic = "volcano person universe kiss stamp glove scale jump ticket giant juice give";
+var mnemonic = "limit task federal outdoor citizen boost outside goose length current legal begin";

@@ -1,1 +1,1 @@
-var mnemonic = "swift couple couch document rocket prevent illness ramp cave gauge adjust beauty";
+var mnemonic = "spirit glide winner denial already ancient require bitter athlete scan exile deer";

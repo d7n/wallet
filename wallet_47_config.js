@@ -1,1 +1,1 @@
-var mnemonic = "ability weather wheat eyebrow tomorrow ankle upset excuse mushroom people find aspect";
+var mnemonic = "energy diamond bike echo crack ship blanket relief clown box chicken parade";

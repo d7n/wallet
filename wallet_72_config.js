@@ -1,1 +1,1 @@
-var mnemonic = "butter canoe faculty yellow sudden clinic such dwarf ship wheat brush release";
+var mnemonic = "empower crater sight key project cart receive scout tornado wisdom assault absorb";

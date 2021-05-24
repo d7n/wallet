@@ -1,1 +1,1 @@
-var mnemonic = "print night margin they birth prison fee exclude initial frozen key strike";
+var mnemonic = "innocent crazy cool walnut oval fork motor away tide unique around fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "gap fabric inflict another shaft supply mix anxiety vessel swift civil salon";
+var mnemonic = "victory memory edit deny mouse two vault badge yellow private trend spin";

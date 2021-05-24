@@ -1,1 +1,1 @@
-var mnemonic = "utility salon whip flight lemon tribe problem clean raw bitter same permit";
+var mnemonic = "resist lounge dust lawn slight obvious tomato plug wasp west fringe super";

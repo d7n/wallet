@@ -1,1 +1,1 @@
-var mnemonic = "target fault jaguar prepare regret tilt drum profit parent rely upset render";
+var mnemonic = "actual area vivid shed shield bamboo hungry endless ring artefact uncover become";

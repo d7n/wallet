@@ -1,1 +1,1 @@
-var mnemonic = "time noodle armed boss desk false echo transfer coin indicate plate top";
+var mnemonic = "desert glimpse wealth emotion under believe lemon solve clerk gas sick liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "film issue debris earn abstract quote obvious rug panic catalog fortune guess";
+var mnemonic = "horror where cluster trap ocean unable bulk smile merit pole child there";

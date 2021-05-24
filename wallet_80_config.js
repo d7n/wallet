@@ -1,1 +1,1 @@
-var mnemonic = "bottom draft grow there dad basic test switch pond frog battle truck";
+var mnemonic = "sister interest crop diet solid skill ice ceiling armor there throw defense";

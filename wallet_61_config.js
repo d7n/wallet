@@ -1,1 +1,1 @@
-var mnemonic = "cat east mask before snap into guide churn tennis nasty suspect pitch";
+var mnemonic = "say coconut viable wisdom cram humble monster sunset improve snow stand sick";

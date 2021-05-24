@@ -1,1 +1,1 @@
-var mnemonic = "duck wing method inject drift public group regret swim giraffe fiber tray";
+var mnemonic = "attitude fantasy visa sheriff document hazard boat fetch edge announce omit fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics ordinary harbor trade describe diary finger govern slush excite water tiny";
+var mnemonic = "pencil reform buzz skin path index depend chimney opera boat priority face";

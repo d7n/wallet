@@ -1,1 +1,1 @@
-var mnemonic = "mass globe dune estate wedding patient piece chunk address delay medal distance";
+var mnemonic = "blue mutual region sleep grant sand column caught trash matter type swift";

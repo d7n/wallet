@@ -1,1 +1,1 @@
-var mnemonic = "wage crane mixed brother crop hip effort quantum lake rabbit phone element";
+var mnemonic = "elephant royal depth seek secret tell negative novel coral empty merge practice";

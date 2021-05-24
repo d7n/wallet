@@ -1,1 +1,1 @@
-var mnemonic = "burst right until muscle across anxiety lucky dial parent use mean limb";
+var mnemonic = "waste key sister common other rebel afraid fog sport head kid trip";

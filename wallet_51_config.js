@@ -1,1 +1,1 @@
-var mnemonic = "vintage unusual lift allow early improve eternal trigger crunch vibrant napkin exhaust";
+var mnemonic = "spread gravity season sad thank burden proof critic parade humor dance globe";

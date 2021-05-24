@@ -1,1 +1,1 @@
-var mnemonic = "alter game skull sibling liberty better success slender element brain rocket goat";
+var mnemonic = "grow screen giant sister crisp mistake debate dune ivory speak balcony finger";

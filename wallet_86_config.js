@@ -1,1 +1,1 @@
-var mnemonic = "bid please into sun cause author verb shoot fly elder sweet kiss";
+var mnemonic = "wide advance juice base happy net armor abuse chief defy sorry differ";

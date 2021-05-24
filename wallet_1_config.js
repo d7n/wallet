@@ -1,1 +1,1 @@
-var mnemonic = "uniform saddle example soldier student release trim soon picnic object night crime";
+var mnemonic = "disagree need below half recipe motor simple search enemy enact more utility";

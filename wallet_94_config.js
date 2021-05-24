@@ -1,1 +1,1 @@
-var mnemonic = "flight meadow rib cable lock trade roof judge coin digital ice gossip";
+var mnemonic = "flight empty divert hidden water fragile office fringe cereal similar ignore hotel";

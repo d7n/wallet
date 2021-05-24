@@ -1,1 +1,1 @@
-var mnemonic = "hamster rifle object win decline joy bounce enable chef buyer basket blanket";
+var mnemonic = "pear craft clap group accuse soccer good craft sound love master circle";

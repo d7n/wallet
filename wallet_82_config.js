@@ -1,1 +1,1 @@
-var mnemonic = "help melt truly metal present enrich sauce omit frost ketchup fresh stove";
+var mnemonic = "reunion toss chicken tape divert planet lab toward luxury famous noise direct";

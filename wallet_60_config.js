@@ -1,1 +1,1 @@
-var mnemonic = "tube health skin used latin exact moment music clarify candy run job";
+var mnemonic = "tuition educate medal scrap swing notice never long torch degree proud gossip";

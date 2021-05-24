@@ -1,1 +1,1 @@
-var mnemonic = "tank advice mother virtual globe load case eager mad captain payment cereal";
+var mnemonic = "foil guide reflect husband quarter bounce case gauge media devote begin cactus";

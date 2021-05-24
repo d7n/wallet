@@ -1,1 +1,1 @@
-var mnemonic = "couch auto comic prosper distance have jungle omit service rebuild peace tape";
+var mnemonic = "invite vapor hockey album vague speak find elephant amount immense yard seek";

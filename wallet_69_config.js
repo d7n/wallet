@@ -1,1 +1,1 @@
-var mnemonic = "duck tower loud title token isolate cash best success riot fitness elbow";
+var mnemonic = "echo sting dice draw blanket seven cream fuel young void book filter";

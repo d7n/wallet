@@ -1,1 +1,1 @@
-var mnemonic = "curious salute want door saddle point vibrant easily hire ugly fan bottom";
+var mnemonic = "give hello robot scene symbol blade wet rural analyst funny calm online";

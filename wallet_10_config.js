@@ -1,1 +1,1 @@
-var mnemonic = "quick jazz wrong guitar miracle remind hood cute close struggle daughter stage";
+var mnemonic = "oven extra palm jeans hello glare frown crew shine decide diagram behave";

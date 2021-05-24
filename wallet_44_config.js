@@ -1,1 +1,1 @@
-var mnemonic = "prefer donkey license core hundred judge brass neck visit local sausage river";
+var mnemonic = "daring sound era cycle print online execute run banner shaft square discover";

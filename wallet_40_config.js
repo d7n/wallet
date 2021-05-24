@@ -1,1 +1,1 @@
-var mnemonic = "hamster deputy friend trouble fly mouse print rotate onion force exchange pyramid";
+var mnemonic = "hundred merry unfair rule visa obvious service refuse globe arrive tail canoe";

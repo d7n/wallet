@@ -1,1 +1,1 @@
-var mnemonic = "video miss test feed sphere address coast mango brother error pitch wool";
+var mnemonic = "grow master light under plate teach choose wet black profit innocent illness";

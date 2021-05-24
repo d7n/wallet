@@ -1,1 +1,1 @@
-var mnemonic = "soda since fun oval priority neither enhance boring globe neutral rubber ability";
+var mnemonic = "sketch pepper brain enough rich olive city tired hole tray access seed";

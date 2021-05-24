@@ -1,1 +1,1 @@
-var mnemonic = "regular steel furnace badge paddle minor misery forest journey awful movie foster";
+var mnemonic = "sweet salt cricket frost common nuclear fuel swallow soccer remove effort milk";

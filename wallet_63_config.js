@@ -1,1 +1,1 @@
-var mnemonic = "copper round tennis album scene desert air toast vessel palm uncle capital";
+var mnemonic = "found input eagle false general tongue enter buffalo country code guide pistol";

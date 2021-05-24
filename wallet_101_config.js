@@ -1,1 +1,1 @@
-var mnemonic = "horror song lake junior jelly exact spray outdoor town rocket bean lazy";
+var mnemonic = "chat blood legal teach yard banana return typical solve stomach rain frozen";

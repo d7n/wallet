@@ -1,1 +1,1 @@
-var mnemonic = "climb audit world crop suit twin duck liar hour december radar duck";
+var mnemonic = "noise depend fragile tattoo fine survey lift speak dial problem bench mouse";

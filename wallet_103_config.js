@@ -1,1 +1,1 @@
-var mnemonic = "upgrade blame person hospital nuclear soccer text address other ancient ginger purchase";
+var mnemonic = "rebel two help maze weather orient inquiry narrow ensure romance dog soldier";

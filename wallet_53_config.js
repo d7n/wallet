@@ -1,1 +1,1 @@
-var mnemonic = "describe retreat hole dog between they elbow cereal girl city mushroom library";
+var mnemonic = "olympic village cheap slab consider injury canvas rifle bridge umbrella bronze brisk";

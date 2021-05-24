@@ -1,1 +1,1 @@
-var mnemonic = "census develop hour rack ivory effort worry brother calm oxygen wife goddess";
+var mnemonic = "share client speak click gap bracket squirrel enroll paddle become weekend sight";

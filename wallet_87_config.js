@@ -1,1 +1,1 @@
-var mnemonic = "supply plug round electric deer jump famous design rule resemble vital grape";
+var mnemonic = "latin then control globe tennis net crop control toward poverty pluck between";

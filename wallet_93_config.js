@@ -1,1 +1,1 @@
-var mnemonic = "hungry twenty taxi genuine habit patrol horror spawn critic month actual announce";
+var mnemonic = "total breeze donate curve feature journey spend swift neck worth radio put";

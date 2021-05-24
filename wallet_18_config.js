@@ -1,1 +1,1 @@
-var mnemonic = "duck doctor major broken humor clarify allow ivory relax inherit enhance find";
+var mnemonic = "output shy text awesome ring please disagree drip ivory odor clog current";

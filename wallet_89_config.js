@@ -1,1 +1,1 @@
-var mnemonic = "juice bar express alien family shed flag wreck assist upset blame expire";
+var mnemonic = "arena tomorrow fossil across there border motor front team retire sock token";

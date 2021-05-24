@@ -1,1 +1,1 @@
-var mnemonic = "whale hair awful quarter pool dance lake disease evolve van side audit";
+var mnemonic = "situate hire velvet jeans wife panther tourist trial crowd veteran lecture keen";

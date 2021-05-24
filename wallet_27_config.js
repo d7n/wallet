@@ -1,1 +1,1 @@
-var mnemonic = "section garlic ladder habit argue spin topple crowd dice couple unit ice";
+var mnemonic = "echo boy frequent boost debate business excite zone sunset basic garlic upset";

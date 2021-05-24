@@ -1,1 +1,1 @@
-var mnemonic = "immune umbrella vocal shuffle tennis dry photo example order snake arrest gain";
+var mnemonic = "copper useless struggle pulse miracle ability vintage hidden ancient champion female sand";

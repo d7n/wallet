@@ -1,1 +1,1 @@
-var mnemonic = "enter discover tower riot lawn sauce planet tail employ squirrel toy lunar";
+var mnemonic = "dolphin jungle mystery oblige cactus pencil suffer delay trumpet repair track famous";

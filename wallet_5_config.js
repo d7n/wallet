@@ -1,1 +1,1 @@
-var mnemonic = "forget depend wall tone forest edit metal cool subway weird average parrot";
+var mnemonic = "unlock chunk thought post side noodle tourist lend credit input shoe space";

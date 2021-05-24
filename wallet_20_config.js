@@ -1,1 +1,1 @@
-var mnemonic = "speak caught mad skate filter chase bridge tooth palm rocket north swear";
+var mnemonic = "clog auto junk tide modify creek october aisle account suit ill heavy";

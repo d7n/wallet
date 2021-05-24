@@ -1,1 +1,1 @@
-var mnemonic = "regular ignore forget thing science candy axis toilet shy sibling display canyon";
+var mnemonic = "pipe zero oblige gain once cup claim fury over candy dust venture";

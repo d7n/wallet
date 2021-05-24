@@ -1,1 +1,1 @@
-var mnemonic = "order gym betray accuse sleep tube hundred moral country fall arrive magnet";
+var mnemonic = "reunion gallery captain uncle rookie effort inmate survey joy apology latin capable";

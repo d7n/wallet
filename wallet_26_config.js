@@ -1,1 +1,1 @@
-var mnemonic = "grant when pigeon occur cradle thank emerge confirm lady pattern earn tortoise";
+var mnemonic = "catch pistol exotic cash quote acquire detail shrimp figure era addict chat";

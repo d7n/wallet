@@ -1,1 +1,1 @@
-var mnemonic = "rival rail focus enemy innocent tip across want student holiday promote arrange";
+var mnemonic = "crater chuckle behave trust magnet door battle dumb pass style ancient auto";

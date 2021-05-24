@@ -1,1 +1,1 @@
-var mnemonic = "mask nothing banana zero code bachelor tenant twin layer awesome gaze frown";
+var mnemonic = "offer sketch record wear pig shed ready heart segment help tuna will";

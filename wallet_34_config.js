@@ -1,1 +1,1 @@
-var mnemonic = "orchard summer such piano general pepper simple hammer awake salmon witness hole";
+var mnemonic = "gate below front auction chase damp fire midnight wrap spoon kiwi fun";

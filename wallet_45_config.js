@@ -1,1 +1,1 @@
-var mnemonic = "rich shell visit patient off usual link puppy office river monster slab";
+var mnemonic = "praise master spawn deposit sing thing penalty pony metal organ brief film";

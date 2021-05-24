@@ -1,1 +1,1 @@
-var mnemonic = "city always jealous valid connect husband engine antique member dinner raven must";
+var mnemonic = "popular fragile case wheat doctor endorse cause umbrella oxygen truth pulse essence";

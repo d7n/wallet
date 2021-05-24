@@ -1,1 +1,1 @@
-var mnemonic = "anger pact oppose climb powder force grant busy ensure giant tiny shaft";
+var mnemonic = "ripple fuel curve mistake salmon fly predict position praise shaft retire someone";

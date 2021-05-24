@@ -1,1 +1,1 @@
-var mnemonic = "dumb brick uphold verify match polar piano federal afford bulk high spell";
+var mnemonic = "wood taxi planet motor swear resemble glow forum size grape flower original";

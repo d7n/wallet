@@ -1,1 +1,1 @@
-var mnemonic = "fish zoo sunny steel diet plunge clog rack major horror praise fuel";
+var mnemonic = "immense sorry winner column desk call daring middle act tourist give lawsuit";

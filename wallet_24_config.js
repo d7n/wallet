@@ -1,1 +1,1 @@
-var mnemonic = "bargain session scrub drip blind grit give since salad hundred draw come";
+var mnemonic = "door total photo still orphan bargain balance cattle rather exchange jelly spice";

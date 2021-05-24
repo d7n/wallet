@@ -1,1 +1,1 @@
-var mnemonic = "twelve damp year mansion crunch atom lake rack ugly laptop forum age";
+var mnemonic = "reason drama sport fancy social cannon plug noodle cross bird brown depart";

@@ -1,1 +1,1 @@
-var mnemonic = "whale atom ride chase unfold never bottom fortune bridge stool uniform hole";
+var mnemonic = "pig delay flee depart gym powder social code two labor divide fox";

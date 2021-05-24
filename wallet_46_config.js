@@ -1,1 +1,1 @@
-var mnemonic = "notice middle hero hurdle ball island inch edge tiny walnut buzz talent";
+var mnemonic = "market shop lazy once wide junior custom learn inquiry vapor resist gap";

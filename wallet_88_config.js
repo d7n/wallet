@@ -1,1 +1,1 @@
-var mnemonic = "cement cycle glide adapt cement ensure amused proof unlock solve worry sausage";
+var mnemonic = "spoon earth disagree warfare merge final tray sample grunt turn cash source";

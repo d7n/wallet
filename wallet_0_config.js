@@ -1,1 +1,1 @@
-var mnemonic = "scatter auto guilt clock snake black carbon gauge creek powder wish talent";
+var mnemonic = "trust arena fine clean fitness flip embrace cradle cause this panther desk";

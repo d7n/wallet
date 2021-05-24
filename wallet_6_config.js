@@ -1,1 +1,1 @@
-var mnemonic = "river wool nominee acid double turn risk glimpse path artwork auto airport";
+var mnemonic = "sell remain urban joke donate matrix awake proof hero area volume rookie";

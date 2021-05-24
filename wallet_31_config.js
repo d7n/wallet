@@ -1,1 +1,1 @@
-var mnemonic = "work jaguar tortoise bulb type globe entire wealth table icon erosion antenna";
+var mnemonic = "enlist describe clerk filter there about shoe brisk razor connect write message";

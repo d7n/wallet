@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow piano fold arrest betray prepare bullet find special proof capital submit";
+var mnemonic = "daring drama chuckle news squeeze learn tray decade awesome pink bag copper";

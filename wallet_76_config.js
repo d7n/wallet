@@ -1,1 +1,1 @@
-var mnemonic = "note stage fork shy minor honey disagree stove insane often tonight popular";
+var mnemonic = "artist try prevent raccoon sniff derive art cactus gentle glove roast suspect";

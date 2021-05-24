@@ -1,1 +1,1 @@
-var mnemonic = "sister harbor stadium friend price quick shop problem kitchen awesome dismiss isolate";
+var mnemonic = "brand need another stick tent trend velvet gallery mimic toddler citizen swarm";

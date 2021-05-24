@@ -1,1 +1,1 @@
-var mnemonic = "lawn there duty edit this unaware tip fold today mechanic hurt movie";
+var mnemonic = "venture add cruise nuclear frog clerk noise alcohol final staff climb view";

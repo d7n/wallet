@@ -1,1 +1,1 @@
-var mnemonic = "north mother orbit inform name vivid quarter sentence system lawsuit glare slender";
+var mnemonic = "charge spoon laugh route sound main great virtual grass ten cash slide";

@@ -1,1 +1,1 @@
-var mnemonic = "just exercise job result deposit disagree wood half nose similar brief marine";
+var mnemonic = "waste prize height file capital betray just effort property actor tragic smooth";

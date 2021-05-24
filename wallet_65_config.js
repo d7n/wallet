@@ -1,1 +1,1 @@
-var mnemonic = "beyond among flame voyage cruel steak life olive retreat crime crowd wine";
+var mnemonic = "bean dinner plastic inspire meadow useful effort keep brain daughter blue fix";

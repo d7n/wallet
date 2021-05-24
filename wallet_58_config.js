@@ -1,1 +1,1 @@
-var mnemonic = "spread truly collect glimpse simple early search color enact ribbon eight heavy";
+var mnemonic = "position just cram eagle person conduct gesture blast mean car gasp wage";

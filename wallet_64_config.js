@@ -1,1 +1,1 @@
-var mnemonic = "gossip hen grocery recall judge riot case live soccer upset phrase vote";
+var mnemonic = "alarm flat casual public hover depend describe use fan loop term street";
