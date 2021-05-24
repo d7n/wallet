@@ -1,1 +1,1 @@
-var mnemonic = "spare shop cloud pupil feature more ridge fossil tenant neglect space salt";
+var mnemonic = "remove index tattoo shock syrup decide decide length equip only time antenna";

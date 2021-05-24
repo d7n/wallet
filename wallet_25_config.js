@@ -1,1 +1,1 @@
-var mnemonic = "found humble child post blur piece twist clutch vivid bean pill symbol";
+var mnemonic = "slam offer dinosaur ugly crystal this sauce start toddler smile gospel ten";

@@ -1,1 +1,1 @@
-var mnemonic = "round exact symptom area banner abandon dove craft local wire raccoon seven";
+var mnemonic = "toilet disease enemy mystery video jewel matrix special have shrug attack ensure";

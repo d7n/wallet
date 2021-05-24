@@ -1,1 +1,1 @@
-var mnemonic = "reduce source isolate stamp unknown stove key rifle beauty curve cake radar";
+var mnemonic = "warfare square thank tray drop pelican long life frozen box horse nuclear";

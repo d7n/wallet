@@ -1,1 +1,1 @@
-var mnemonic = "approve soft embody trial become pet proud trumpet horn bag lunch copy";
+var mnemonic = "vocal thumb coil once jeans evoke bargain enable now portion more hood";

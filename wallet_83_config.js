@@ -1,1 +1,1 @@
-var mnemonic = "square thought cave stereo aisle push antique weasel rich middle seminar song";
+var mnemonic = "strong ill record train inject dentist suffer silly step also resource eyebrow";

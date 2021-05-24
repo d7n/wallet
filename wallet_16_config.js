@@ -1,1 +1,1 @@
-var mnemonic = "license blade sausage humor harvest run foster able nerve finger clean run";
+var mnemonic = "lunar above wet lumber auto romance alone shove neither echo banner obscure";

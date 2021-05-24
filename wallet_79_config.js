@@ -1,1 +1,1 @@
-var mnemonic = "wisdom plug shallow target unlock bubble trust family awesome age affair begin";
+var mnemonic = "yard broken indicate forest never educate buddy approve flag genuine royal ribbon";

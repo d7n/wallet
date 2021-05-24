@@ -1,1 +1,1 @@
-var mnemonic = "awful mule reject average razor devote remain monkey require certain woman grid";
+var mnemonic = "close demise helmet seed satisfy fan demise access pretty east lawsuit faint";

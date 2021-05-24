@@ -1,1 +1,1 @@
-var mnemonic = "churn journey health ability fringe ill response capable step river coin fever";
+var mnemonic = "stage visual answer reveal country bulk fringe casual dismiss rude camera imitate";

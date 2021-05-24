@@ -1,1 +1,1 @@
-var mnemonic = "theory riot excess note between spare medal flash umbrella can pull tenant";
+var mnemonic = "size jungle client primary jar float since divert scrub found ahead couch";

@@ -1,1 +1,1 @@
-var mnemonic = "light dutch want ready foil never latin warm myself child nose patient";
+var mnemonic = "ordinary lobster learn action arrest clap glide cover fox famous student brown";

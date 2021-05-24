@@ -1,1 +1,1 @@
-var mnemonic = "two junior metal today pattern harsh false prevent convince culture assist decrease";
+var mnemonic = "speed way pig matter ensure drop slide twin option parrot tonight scatter";

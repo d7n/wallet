@@ -1,1 +1,1 @@
-var mnemonic = "clown toy select portion tiger van please reduce chuckle reopen winter coin";
+var mnemonic = "easy voyage jeans predict essay accuse correct quote bundle hand pledge adapt";

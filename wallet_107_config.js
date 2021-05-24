@@ -1,1 +1,1 @@
-var mnemonic = "identify tone captain chimney echo various correct purpose response rack news iron";
+var mnemonic = "reason core tell into text amazing crouch faint army unique industry milk";

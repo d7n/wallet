@@ -1,1 +1,1 @@
-var mnemonic = "monkey wrong lobster amazing liquid blur write mosquito elder eye correct retreat";
+var mnemonic = "demise digital ride civil hat before isolate broccoli neutral main all farm";

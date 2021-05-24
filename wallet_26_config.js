@@ -1,1 +1,1 @@
-var mnemonic = "problem forget wet grunt deposit erosion layer blouse donkey tank wall elite";
+var mnemonic = "style few retire fold warfare token swap wrong arena number fiscal damage";

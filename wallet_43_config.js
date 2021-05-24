@@ -1,1 +1,1 @@
-var mnemonic = "orbit visa mansion appear choice alone crouch spoil galaxy runway badge carpet";
+var mnemonic = "buzz runway welcome wage surround accident lonely carpet kangaroo shuffle mutual social";

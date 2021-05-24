@@ -1,1 +1,1 @@
-var mnemonic = "six tomato keen maze nuclear drastic orchard husband lounge dragon polar start";
+var mnemonic = "cook bone maid destroy galaxy certain monster shine hazard urban giraffe age";

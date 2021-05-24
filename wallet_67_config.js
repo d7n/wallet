@@ -1,1 +1,1 @@
-var mnemonic = "february edge atom fame dawn deer anger copy dish expire length myself";
+var mnemonic = "surprise welcome retire steak want gold deposit furnace episode vacuum shallow husband";

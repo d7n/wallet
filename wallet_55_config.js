@@ -1,1 +1,1 @@
-var mnemonic = "erase denial panic bus mercy write convince citizen office busy romance ribbon";
+var mnemonic = "lumber sail pet street reopen assist peasant museum escape assault tree junk";

@@ -1,1 +1,1 @@
-var mnemonic = "announce leader magic come system science casual script swing famous village maple";
+var mnemonic = "narrow sting crisp brisk stairs clerk urge cycle blur tube illness match";

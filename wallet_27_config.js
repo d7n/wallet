@@ -1,1 +1,1 @@
-var mnemonic = "cactus supply happy gentle trade stay during document any physical frame try";
+var mnemonic = "pond rotate solar sorry crazy win soccer theory surround rebuild announce check";

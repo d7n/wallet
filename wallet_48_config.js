@@ -1,1 +1,1 @@
-var mnemonic = "blind olive wave wreck turtle math concert cause mad major style puppy";
+var mnemonic = "crack suit flame state throw wet crystal deal leave aim program goat";

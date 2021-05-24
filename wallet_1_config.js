@@ -1,1 +1,1 @@
-var mnemonic = "elephant draw oyster enable spice argue craft select reform submit face dinner";
+var mnemonic = "melody puppy garbage assume tortoise crunch net wool frozen small jacket clip";

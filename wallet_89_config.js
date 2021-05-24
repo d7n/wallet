@@ -1,1 +1,1 @@
-var mnemonic = "praise canoe report merge squirrel used biology federal that drift hammer calm";
+var mnemonic = "noise turn midnight arena cheese try mutual embody easily pizza lawn moment";

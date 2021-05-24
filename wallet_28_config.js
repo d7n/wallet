@@ -1,1 +1,1 @@
-var mnemonic = "guide jewel drum skirt orchard ski head stool stick ticket hurry salon";
+var mnemonic = "small float chronic lens angry annual reform reveal hurry matrix burden option";

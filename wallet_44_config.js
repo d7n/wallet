@@ -1,1 +1,1 @@
-var mnemonic = "fall glue seed sight slush wreck peanut rib supply double crane glare";
+var mnemonic = "effort enlist escape kick claim unknown stage elbow until lounge inspire summer";

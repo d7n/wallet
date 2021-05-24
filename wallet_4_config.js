@@ -1,1 +1,1 @@
-var mnemonic = "off average abandon output pumpkin camp rabbit travel sustain clock device symbol";
+var mnemonic = "repeat chef unknown employ sell inhale minor draft box security limit never";

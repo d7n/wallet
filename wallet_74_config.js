@@ -1,1 +1,1 @@
-var mnemonic = "monster hunt gym cruise will divide resist useless neglect item attend armed";
+var mnemonic = "right paper dignity author visual credit can cabin forest rib oil nut";

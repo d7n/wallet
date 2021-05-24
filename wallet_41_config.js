@@ -1,1 +1,1 @@
-var mnemonic = "rely impact bring urge goddess damp drink monster debate opera damage shed";
+var mnemonic = "edit maid student either any escape wool test once tragic fall same";

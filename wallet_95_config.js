@@ -1,1 +1,1 @@
-var mnemonic = "life into enforce youth nature domain cube hold pony fall blossom glide";
+var mnemonic = "bundle okay diet version shallow fashion brief sport cricket call sound excite";

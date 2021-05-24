@@ -1,1 +1,1 @@
-var mnemonic = "sick maple sketch dust sample prize giraffe uncle metal crush silk enter";
+var mnemonic = "exhaust moment second crisp hybrid frame high insect width heart gloom kidney";

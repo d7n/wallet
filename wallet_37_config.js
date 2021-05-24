@@ -1,1 +1,1 @@
-var mnemonic = "grit coast duty detail emerge box ladder object visit indicate explain avoid";
+var mnemonic = "raven promote update expire predict metal friend pistol limit roof crash ice";

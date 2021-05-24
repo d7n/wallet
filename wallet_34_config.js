@@ -1,1 +1,1 @@
-var mnemonic = "grace pet cash tree devote oppose mule angle render favorite truth fringe";
+var mnemonic = "forward banner ugly combine inside tube manual area final frost source corn";

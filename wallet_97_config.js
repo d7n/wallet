@@ -1,1 +1,1 @@
-var mnemonic = "wait book rice sleep tuna traffic print vapor slam tuition exotic plug";
+var mnemonic = "flash coyote penalty desert process valid inject goose crucial twice army repair";

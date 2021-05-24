@@ -1,1 +1,1 @@
-var mnemonic = "fragile impose train ancient skate suspect gadget food village usage raise clay";
+var mnemonic = "borrow elbow over come pottery ticket dust avocado awake advice promote gap";

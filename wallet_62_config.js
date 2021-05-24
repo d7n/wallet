@@ -1,1 +1,1 @@
-var mnemonic = "reduce citizen man trophy denial nose armed alcohol chef jar lunar cheap";
+var mnemonic = "pelican credit diet settle afford chase shield during biology hybrid purse tomorrow";

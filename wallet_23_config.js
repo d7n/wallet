@@ -1,1 +1,1 @@
-var mnemonic = "sing return minimum flavor rent slogan rate virus wolf east frame hungry";
+var mnemonic = "become cream wheel cook damp trigger label venue fork gather hand youth";

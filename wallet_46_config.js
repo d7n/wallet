@@ -1,1 +1,1 @@
-var mnemonic = "lawn obscure cushion spawn size sorry invest pig hobby shine duck nice";
+var mnemonic = "train consider lamp grain shed moon client flavor brick emerge puzzle truth";

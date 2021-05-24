@@ -1,1 +1,1 @@
-var mnemonic = "woman tribe priority again angle perfect animal local stairs picnic cry exhibit";
+var mnemonic = "burden slot column fantasy author margin entire deliver worry payment middle keep";

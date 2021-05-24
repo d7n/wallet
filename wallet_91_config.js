@@ -1,1 +1,1 @@
-var mnemonic = "joy lend pen polar clay snack useless world vocal supreme pelican business";
+var mnemonic = "comfort salad tree clown renew moral total orange what stick knee stem";

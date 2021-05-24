@@ -1,1 +1,1 @@
-var mnemonic = "amazing dentist tree journey surge stick champion mimic hole rabbit reason young";
+var mnemonic = "oven bike dad auto define fire elbow dwarf real avocado mule wink";

@@ -1,1 +1,1 @@
-var mnemonic = "equal connect aisle rebuild minimum trick permit violin tell love excite pull";
+var mnemonic = "cigar type century yellow frown enroll wash normal tiger garden work skin";

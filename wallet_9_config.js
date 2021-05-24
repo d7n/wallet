@@ -1,1 +1,1 @@
-var mnemonic = "fit stumble ugly surprise weather oyster relief exact exchange wool ritual rule";
+var mnemonic = "frost drop unit slogan client wood decade robot among aisle add nothing";

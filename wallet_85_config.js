@@ -1,1 +1,1 @@
-var mnemonic = "welcome avocado april draft casino fluid brush swallow oblige result sleep silent";
+var mnemonic = "bag boost pill prison report upon lawn rally fiction arctic popular warfare";

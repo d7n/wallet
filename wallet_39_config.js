@@ -1,1 +1,1 @@
-var mnemonic = "size drink setup essence refuse observe edit clay wrong peace satisfy dish";
+var mnemonic = "worry tube uncle label black slide clinic buzz hungry awkward shield deny";

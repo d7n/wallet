@@ -1,1 +1,1 @@
-var mnemonic = "ski demand pilot cliff decline leg party ridge spell praise mushroom spice";
+var mnemonic = "piece device great midnight cigar sting camp stick pluck raw lend jungle";

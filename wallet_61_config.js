@@ -1,1 +1,1 @@
-var mnemonic = "behave hundred wonder attract spoil shove route exhaust expose half chronic entry";
+var mnemonic = "plate laptop give swarm wheel ramp dumb hello polar mix sponsor swing";

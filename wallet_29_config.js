@@ -1,1 +1,1 @@
-var mnemonic = "globe gesture hunt afford picture always flock found analyst turkey they one";
+var mnemonic = "what delay fortune antenna interest lava decade ship once pioneer lonely bulb";

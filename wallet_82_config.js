@@ -1,1 +1,1 @@
-var mnemonic = "use vivid absurd orbit inner orbit finger discover hip place flip wave";
+var mnemonic = "race tenant face ancient safe unique answer crane absurd stem lesson enrich";

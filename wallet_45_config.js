@@ -1,1 +1,1 @@
-var mnemonic = "grief sleep nerve quit type smile stone program true rifle entry faith";
+var mnemonic = "shuffle rose goose museum tourist auction peace grunt idea conduct gain burger";

@@ -1,1 +1,1 @@
-var mnemonic = "rib legal stock seminar absorb case stuff solve embody stone pretty tone";
+var mnemonic = "tool custom swallow drastic oblige stumble what feed mammal kiss guilt rookie";

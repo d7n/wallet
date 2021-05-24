@@ -1,1 +1,1 @@
-var mnemonic = "author prepare main card manage egg voyage gold nasty gasp farm admit";
+var mnemonic = "peanut bar enemy bronze adjust strategy tank position luxury devote try vocal";

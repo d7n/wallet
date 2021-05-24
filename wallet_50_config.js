@@ -1,1 +1,1 @@
-var mnemonic = "jaguar black subway eager prevent seminar run become tiny rack tissue hungry";
+var mnemonic = "reason wrap cancel spirit unusual destroy seek purse seed exile acquire simple";

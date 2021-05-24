@@ -1,1 +1,1 @@
-var mnemonic = "surge jelly raven method focus acquire tail grocery mansion entire office trap";
+var mnemonic = "easy wise demand nerve never turkey twice shrug absent wheel tenant wedding";

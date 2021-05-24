@@ -1,1 +1,1 @@
-var mnemonic = "thing gym giraffe cheese three bench planet file across build dash settle";
+var mnemonic = "require pluck conduct walk gold ensure spike junior farm candy brick hobby";

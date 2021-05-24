@@ -1,1 +1,1 @@
-var mnemonic = "firm swamp screen expand absurd lens box gasp blur range satoshi adult";
+var mnemonic = "cancel chair stay come clump champion kite scene rebuild stadium flight vintage";

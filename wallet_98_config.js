@@ -1,1 +1,1 @@
-var mnemonic = "tornado clap split dash field suggest curious drive present champion moral dutch";
+var mnemonic = "ankle dolphin sail simple shadow bridge twenty purchase group start vacuum logic";

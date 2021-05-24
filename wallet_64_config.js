@@ -1,1 +1,1 @@
-var mnemonic = "brisk include eight flame lawn dust vault horn uniform sustain pole pet";
+var mnemonic = "erupt client distance video attitude laugh gravity trial onion bus whip garbage";

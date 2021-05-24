@@ -1,1 +1,1 @@
-var mnemonic = "twin cliff say snap aware measure soon learn discover side cattle wreck";
+var mnemonic = "bundle floor vehicle fold mandate glide pistol still spoon much chief limit";

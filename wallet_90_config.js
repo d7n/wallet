@@ -1,1 +1,1 @@
-var mnemonic = "sugar rubber tissue risk discover boy hour grunt bracket brief walnut fossil";
+var mnemonic = "summer verb track cable tragic letter train again voyage floor arch interest";

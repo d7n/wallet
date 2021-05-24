@@ -1,1 +1,1 @@
-var mnemonic = "mule cup wrestle siren frog vibrant twin farm assault job long alcohol";
+var mnemonic = "oval crop what deputy smooth island snow differ document proud meadow direct";

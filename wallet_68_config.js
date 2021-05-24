@@ -1,1 +1,1 @@
-var mnemonic = "smoke problem clock ignore solar deposit tackle scatter grace insane tunnel very";
+var mnemonic = "slide culture item relief inmate brain rail height sugar venture august pledge";

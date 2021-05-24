@@ -1,1 +1,1 @@
-var mnemonic = "cigar practice peanut share accuse sell impulse bread push now peasant night";
+var mnemonic = "volume pave wrestle youth emotion bubble coast document marriage thunder cluster select";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato behind whale coffee bleak spawn web cruel water brush someone health";
+var mnemonic = "tip apple twelve inflict economy ivory desert sword spare elevator gold argue";

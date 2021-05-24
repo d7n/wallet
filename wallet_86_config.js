@@ -1,1 +1,1 @@
-var mnemonic = "trash alter hollow pigeon receive city gaze uniform sight donate retire trial";
+var mnemonic = "menu endorse cat extra equip circle mouse loud tank arrive damage dance";

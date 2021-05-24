@@ -1,1 +1,1 @@
-var mnemonic = "rare display someone latin post prefer patient pupil logic shop demand early";
+var mnemonic = "drama click leader around clown crop betray stage lawsuit core cricket sick";

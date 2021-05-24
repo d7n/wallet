@@ -1,1 +1,1 @@
-var mnemonic = "decline minimum mammal canoe achieve custom dizzy merge stock ignore mixture reason";
+var mnemonic = "hood tray grid favorite fat bring amateur south name together peasant month";

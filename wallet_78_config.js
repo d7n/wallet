@@ -1,1 +1,1 @@
-var mnemonic = "bench mix silent toast beauty undo situate neutral gospel invest team legal";
+var mnemonic = "shrimp leaf salmon garbage jeans seat topic chunk high wet artefact inmate";

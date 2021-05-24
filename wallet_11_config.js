@@ -1,1 +1,1 @@
-var mnemonic = "ancient pledge left screen bamboo stool canvas until analyst donkey index wet";
+var mnemonic = "buzz credit bike combine fetch wheel model link tilt repeat gold orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk mention juice decline figure menu then issue rely depart civil combine";
+var mnemonic = "december auction square object powder holiday either swallow analyst scissors dose gift";

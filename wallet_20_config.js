@@ -1,1 +1,1 @@
-var mnemonic = "want skull lawsuit crew night call clap champion clap chunk uncle select";
+var mnemonic = "black inform runway light input demise vicious blur hole any scorpion scissors";

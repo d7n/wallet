@@ -1,1 +1,1 @@
-var mnemonic = "valve vital upset harbor alien penalty flush design today unusual reopen current";
+var mnemonic = "rural toddler spend inflict ethics palace garage noodle art hurdle rapid allow";

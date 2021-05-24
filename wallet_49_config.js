@@ -1,1 +1,1 @@
-var mnemonic = "whip spawn delay curve inner purity fault holiday mother column flash adjust";
+var mnemonic = "blanket comfort leopard concert scatter fat walnut coffee execute earn urge depend";

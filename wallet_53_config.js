@@ -1,1 +1,1 @@
-var mnemonic = "bulb grunt announce betray rough relief theory together depart hire column path";
+var mnemonic = "film urge dust paddle slot match hip office giant blanket bench emotion";

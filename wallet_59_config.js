@@ -1,1 +1,1 @@
-var mnemonic = "hip problem shrug improve thunder elbow crop inherit sorry story uncle below";
+var mnemonic = "divorce october just praise divide fatal grab bicycle together bone typical decline";

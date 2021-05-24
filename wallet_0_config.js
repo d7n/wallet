@@ -1,1 +1,1 @@
-var mnemonic = "forest wheel intact wrestle kind panther drastic inform devote drip guard arrow";
+var mnemonic = "average old bone eyebrow churn field rally normal grant note agree legal";

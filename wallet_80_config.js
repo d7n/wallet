@@ -1,1 +1,1 @@
-var mnemonic = "color perfect misery wrist sail borrow fence sample hollow scorpion screen shoot";
+var mnemonic = "error equip sight cabin dinner baby sausage snake garden laugh grant illness";

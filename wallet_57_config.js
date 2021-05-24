@@ -1,1 +1,1 @@
-var mnemonic = "album erupt few maze claim link educate insect congress upon shrimp put";
+var mnemonic = "wing priority soft novel laugh solar stem crazy nephew sell test lazy";

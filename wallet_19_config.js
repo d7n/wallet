@@ -1,1 +1,1 @@
-var mnemonic = "exit odor fashion orchard alarm want rich rocket supply trend tail wonder";
+var mnemonic = "chapter crash typical portion general flip abuse pulp cluster course vapor grape";

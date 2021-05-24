@@ -1,1 +1,1 @@
-var mnemonic = "size argue glance ten fashion flame vast peanut learn pave choice enhance";
+var mnemonic = "cash word claim burst actor rabbit boost kingdom defy raccoon price skull";

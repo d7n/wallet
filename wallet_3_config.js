@@ -1,1 +1,1 @@
-var mnemonic = "blind else mad goose eye one put come wish purse estate winter";
+var mnemonic = "original anger wish lift pluck night coconut kid bread season fame prosper";

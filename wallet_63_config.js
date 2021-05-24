@@ -1,1 +1,1 @@
-var mnemonic = "rack tent where injury slab achieve october vanish speed picture stable eternal";
+var mnemonic = "mesh check clever tent letter melody human brisk scare bulb surface proof";

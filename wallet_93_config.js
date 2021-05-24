@@ -1,1 +1,1 @@
-var mnemonic = "hour brother peasant cherry zone guide afraid bunker outdoor column wood cook";
+var mnemonic = "unfold peace federal scale wash thrive illness local clog address pigeon nurse";

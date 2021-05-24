@@ -1,1 +1,1 @@
-var mnemonic = "floor skull match disorder journey lawsuit jungle setup faith grocery foster kite";
+var mnemonic = "ice idea unlock couch dismiss two cruise maximum help garden sight olive";

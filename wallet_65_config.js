@@ -1,1 +1,1 @@
-var mnemonic = "caught fruit bid stadium urge enter wrestle spawn stone gasp idea able";
+var mnemonic = "stay chuckle weird bring case seek garbage much knee minor miracle pottery";

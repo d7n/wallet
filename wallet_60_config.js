@@ -1,1 +1,1 @@
-var mnemonic = "world culture maple source hover flavor swift album kiwi sense scorpion media";
+var mnemonic = "when wave one crime inmate ocean confirm enemy clap fun inch pepper";

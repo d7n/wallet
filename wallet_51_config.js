@@ -1,1 +1,1 @@
-var mnemonic = "effort figure tribe wrestle wish just convince gate exercise town soda supreme";
+var mnemonic = "buddy monitor edit shield horror live face reunion tray breeze pear ensure";

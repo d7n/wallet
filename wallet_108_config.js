@@ -1,1 +1,1 @@
-var mnemonic = "misery finish slot safe almost void butter barrel ten cram sibling push";
+var mnemonic = "space hobby harvest start ozone tooth once federal appear truly tomato taxi";

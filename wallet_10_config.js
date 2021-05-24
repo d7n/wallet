@@ -1,1 +1,1 @@
-var mnemonic = "motor minimum jeans zoo broom globe repair sun way unknown pluck tide";
+var mnemonic = "fan lawsuit dust exact lawn another nerve know spawn panic height tide";

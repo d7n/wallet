@@ -1,1 +1,1 @@
-var mnemonic = "exhaust must april scan candy butter early slush rival grant law arrive";
+var mnemonic = "pride smile believe dial allow ozone embody involve delay divide crush debris";

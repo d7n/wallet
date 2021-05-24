@@ -1,1 +1,1 @@
-var mnemonic = "modify immune arena update solution bicycle maximum horror curious concert fog polar";
+var mnemonic = "brand web upper raven column acquire family oblige chef imitate peanut slot";

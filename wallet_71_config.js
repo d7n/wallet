@@ -1,1 +1,1 @@
-var mnemonic = "initial wire three despair pelican month milk middle dress three glide diary";
+var mnemonic = "erase sure feature maze rapid welcome hold gaze occur athlete board home";
