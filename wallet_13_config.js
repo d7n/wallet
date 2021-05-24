@@ -1,1 +1,1 @@
-var mnemonic = "drama canal board this cube welcome gold black rate illegal educate gospel";
+var mnemonic = "lock chronic miracle old aunt bar senior start century cargo eagle miracle";

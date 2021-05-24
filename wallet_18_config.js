@@ -1,1 +1,1 @@
-var mnemonic = "office seed subject shrug federal loyal slide unable mercy olive rude parrot";
+var mnemonic = "achieve clay build utility novel assault elbow mercy romance push room finger";

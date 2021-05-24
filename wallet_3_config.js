@@ -1,1 +1,1 @@
-var mnemonic = "journey globe gloom battle palm ability imitate topic acoustic boost solar display";
+var mnemonic = "stem frost dawn primary reward insect spice jaguar remove order trigger task";

@@ -1,1 +1,1 @@
-var mnemonic = "win vessel soft idea crane caught globe abuse march piano olive cigar";
+var mnemonic = "vote crisp tuna giraffe about settle dizzy quarter doctor exact melody random";

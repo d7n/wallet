@@ -1,1 +1,1 @@
-var mnemonic = "gown grocery festival mountain picture student thunder monitor insane rule asthma advance";
+var mnemonic = "shrimp print receive pulse drill hotel thrive embrace resemble toddler century dismiss";

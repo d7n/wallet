@@ -1,1 +1,1 @@
-var mnemonic = "tent spell shoulder tool expire render green ahead mask buzz lock file";
+var mnemonic = "spare memory all priority whisper rescue monitor ancient ankle salad various reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate again humor blur jelly faculty coffee list mobile water father ivory";
+var mnemonic = "burden strong cliff help such balance coyote trophy fix pupil behind cruise";

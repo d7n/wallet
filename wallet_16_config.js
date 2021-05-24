@@ -1,1 +1,1 @@
-var mnemonic = "derive scale smoke strong special trash mobile panther impulse brick wage excite";
+var mnemonic = "claim wall talent ability nature yard slight electric kiwi ankle history auto";

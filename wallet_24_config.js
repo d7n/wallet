@@ -1,1 +1,1 @@
-var mnemonic = "observe truth frame laundry album insect armed believe divorce purpose now injury";
+var mnemonic = "veteran coconut math bike radar okay sudden squirrel topic destroy estate purse";

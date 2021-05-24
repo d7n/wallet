@@ -1,1 +1,1 @@
-var mnemonic = "panther child file milk collect parent woman point brown fatigue recall monkey";
+var mnemonic = "alarm firm limb ankle you maximum caution demise tooth unusual rail pink";

@@ -1,1 +1,1 @@
-var mnemonic = "roast dry ozone detail fragile virus resist almost grief field south visit";
+var mnemonic = "screen music void arrive round shield embark panic quality viable love vote";

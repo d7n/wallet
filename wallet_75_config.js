@@ -1,1 +1,1 @@
-var mnemonic = "room robot reunion hour blast asthma slab paddle enact live wide goat";
+var mnemonic = "federal twelve mask earth cable puppy erase armor harbor someone beyond exhaust";

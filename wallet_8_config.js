@@ -1,1 +1,1 @@
-var mnemonic = "exhibit nominee north original spider hat soul monkey cup gold festival drop";
+var mnemonic = "three oppose nephew galaxy six park reduce wife culture source melody tongue";

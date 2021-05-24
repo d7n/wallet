@@ -1,1 +1,1 @@
-var mnemonic = "require liberty tenant plate exist borrow typical school uphold try direct secret";
+var mnemonic = "omit brain moon chronic sugar deposit carbon traffic limb quote fitness crumble";

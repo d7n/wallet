@@ -1,1 +1,1 @@
-var mnemonic = "try fog carpet stereo shadow west story desert renew tackle symbol primary";
+var mnemonic = "oxygen attitude speak obvious toddler cattle unusual stomach soul crawl lawsuit frequent";

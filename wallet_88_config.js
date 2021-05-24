@@ -1,1 +1,1 @@
-var mnemonic = "piano party shoe board cash wrap edge lumber echo coconut excess quit";
+var mnemonic = "phone dial body matrix modify second jealous guilt length around what fatigue";

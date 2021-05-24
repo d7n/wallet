@@ -1,1 +1,1 @@
-var mnemonic = "kitchen hire camp develop maple task retire army priority neither stone hockey";
+var mnemonic = "coral paddle prison lyrics opinion plastic flip sail hero subway license wall";

@@ -1,1 +1,1 @@
-var mnemonic = "radio dentist concert people kiwi zebra crunch gospel moral setup eyebrow spend";
+var mnemonic = "junior excess dog salmon adult trophy juice october film woman warrior artist";

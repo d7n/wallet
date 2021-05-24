@@ -1,1 +1,1 @@
-var mnemonic = "viable hunt buyer heart unaware ship bronze blade panel fly dance ride";
+var mnemonic = "visual smoke burden orange alien rifle amateur crater hair field vibrant globe";

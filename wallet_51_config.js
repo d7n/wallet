@@ -1,1 +1,1 @@
-var mnemonic = "reflect candy river travel upgrade hero any resemble quick toss solve album";
+var mnemonic = "allow punch toss someone elder select direct hip unveil left cradle bronze";

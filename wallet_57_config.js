@@ -1,1 +1,1 @@
-var mnemonic = "know velvet chest prison castle once air silly multiply bread rain wedding";
+var mnemonic = "phrase perfect click thank grocery village nation note joke reveal river empty";

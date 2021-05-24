@@ -1,1 +1,1 @@
-var mnemonic = "draw install calm vote gallery nominee canyon antenna draft unable brain dumb";
+var mnemonic = "south elite nature farm fat bread crop oyster tip utility sister twin";

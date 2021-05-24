@@ -1,1 +1,1 @@
-var mnemonic = "blast camp helmet impulse make label gold fox tag switch submit logic";
+var mnemonic = "flower inform right observe scorpion exercise machine siren spice demand scorpion coffee";

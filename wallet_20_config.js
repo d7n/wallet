@@ -1,1 +1,1 @@
-var mnemonic = "raven pledge glow sword current story index gasp win busy pumpkin admit";
+var mnemonic = "awesome pitch curious series lumber youth humor install knife holiday claim use";

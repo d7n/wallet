@@ -1,1 +1,1 @@
-var mnemonic = "spider route void start peasant crush child bless olympic quit wide actual";
+var mnemonic = "wish blast sign anger crisp verify aisle title advance endless draft actual";

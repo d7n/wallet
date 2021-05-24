@@ -1,1 +1,1 @@
-var mnemonic = "song rebuild vote title arrange merit bullet card there about switch patrol";
+var mnemonic = "boil gravity slab print album feature announce toward shallow voyage hood lend";

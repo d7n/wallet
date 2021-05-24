@@ -1,1 +1,1 @@
-var mnemonic = "click insane muscle flag zebra style baby owner wave easily father parrot";
+var mnemonic = "captain legal brand rather roof gadget walnut ensure turtle resemble step arrange";

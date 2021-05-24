@@ -1,1 +1,1 @@
-var mnemonic = "bottom local script source seek seed myth total pill grain access window";
+var mnemonic = "hero banner miss inmate sunset regret various dwarf blanket wild mention private";

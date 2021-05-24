@@ -1,1 +1,1 @@
-var mnemonic = "unable benefit notable away such decade number random organ typical forget finger";
+var mnemonic = "boost dignity excite what awkward couple lesson seed mango axis badge book";

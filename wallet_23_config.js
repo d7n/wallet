@@ -1,1 +1,1 @@
-var mnemonic = "royal bunker image before chief that common pave enrich audit ranch slab";
+var mnemonic = "pet title hawk equip stool slogan keen cabin hidden kiwi during taxi";

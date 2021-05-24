@@ -1,1 +1,1 @@
-var mnemonic = "final fossil voice bamboo mom quarter genre window ranch habit indicate false";
+var mnemonic = "recycle economy fancy change area bread swear across drive live cat buyer";

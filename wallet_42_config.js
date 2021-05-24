@@ -1,1 +1,1 @@
-var mnemonic = "empower inmate cricket cake edge deputy square immune guard vital actress okay";
+var mnemonic = "recipe risk time base person coach rice grant nation globe spoon antenna";

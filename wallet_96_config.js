@@ -1,1 +1,1 @@
-var mnemonic = "crush turn shrug quick ask delay grant embrace chronic foil quantum furnace";
+var mnemonic = "orphan gravity immune spin method riot print ocean hammer board patrol wrist";

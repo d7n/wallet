@@ -1,1 +1,1 @@
-var mnemonic = "unit solid olive food thunder dolphin behind garbage flee soldier fatigue lonely";
+var mnemonic = "tiger dad electric camp cart maple orphan cupboard purpose range enrich nothing";

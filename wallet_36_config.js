@@ -1,1 +1,1 @@
-var mnemonic = "duty couple nation truck clip grab armed tool recipe tip solid use";
+var mnemonic = "math author luggage coyote drift indicate winner side dune donate hard eagle";

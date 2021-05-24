@@ -1,1 +1,1 @@
-var mnemonic = "nice state swear spawn obtain cat axis nothing cousin meat isolate sunset";
+var mnemonic = "initial physical refuse battle sea mutual save evidence endorse laptop salt hollow";

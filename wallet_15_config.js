@@ -1,1 +1,1 @@
-var mnemonic = "time endless they denial tray ring vintage filter real arrow strike scan";
+var mnemonic = "cable protect matrix road ball review wedding lumber mom excess biology escape";

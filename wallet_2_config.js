@@ -1,1 +1,1 @@
-var mnemonic = "memory private blur bring armor fame roast manual blossom enforce cigar rude";
+var mnemonic = "under acoustic expand cousin document opinion labor response own mirror report sample";

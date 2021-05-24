@@ -1,1 +1,1 @@
-var mnemonic = "remain brief security nasty wish wear miracle repeat strategy unhappy nation moon";
+var mnemonic = "snake dutch category connect traffic brain kick fix plug knife place draw";

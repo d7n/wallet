@@ -1,1 +1,1 @@
-var mnemonic = "make kangaroo doctor doll beyond scrub habit fun find luggage secret enough";
+var mnemonic = "credit pen divorce warrior debris bonus mass siege wrist auto exotic wagon";

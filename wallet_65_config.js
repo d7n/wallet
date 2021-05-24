@@ -1,1 +1,1 @@
-var mnemonic = "lucky extend neither yellow sunny glory knock verify celery bundle effort cushion";
+var mnemonic = "jump save cash disagree cart power humor call famous target primary pause";

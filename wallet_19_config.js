@@ -1,1 +1,1 @@
-var mnemonic = "air child tumble satisfy bracket rebuild enhance copy horror exact drift double";
+var mnemonic = "forum dynamic judge junior disorder syrup clerk split mushroom daring priority congress";

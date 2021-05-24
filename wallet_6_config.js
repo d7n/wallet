@@ -1,1 +1,1 @@
-var mnemonic = "vault duty steel catch trap broken elder crystal joy walk inspire fame";
+var mnemonic = "energy screen tree dwarf brown coin agree scrub critic employ ugly material";

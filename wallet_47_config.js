@@ -1,1 +1,1 @@
-var mnemonic = "enemy expand pact ugly clay panel trip inner museum violin calm trip";
+var mnemonic = "rabbit arrive bundle lock host margin rely umbrella strike antenna raise metal";

@@ -1,1 +1,1 @@
-var mnemonic = "chef gap chaos gasp light brain quantum hip salad obtain monitor pizza";
+var mnemonic = "poverty chicken charge armed window ocean artwork escape panda attitude peanut direct";

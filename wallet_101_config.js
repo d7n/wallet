@@ -1,1 +1,1 @@
-var mnemonic = "solve upper lady swear bike surge virtual pass history claim code mass";
+var mnemonic = "nominee program asset salt tornado illegal absent tenant fetch deny addict summer";

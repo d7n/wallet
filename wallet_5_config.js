@@ -1,1 +1,1 @@
-var mnemonic = "vault glance solution scare dinner swamp minute ability level close mobile middle";
+var mnemonic = "switch inherit brand vehicle mix census uniform solution vicious identify kid clarify";

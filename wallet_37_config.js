@@ -1,1 +1,1 @@
-var mnemonic = "amused milk bachelor theory airport vibrant input clarify anchor biology syrup cover";
+var mnemonic = "train trim head holiday history over cage strike raise fashion ticket escape";

@@ -1,1 +1,1 @@
-var mnemonic = "know impact slender industry catalog meadow kind evidence awful element legal require";
+var mnemonic = "slow horse good busy wine first caution catalog noodle group memory later";

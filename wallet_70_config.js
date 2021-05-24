@@ -1,1 +1,1 @@
-var mnemonic = "nose upgrade ketchup flee north govern laugh differ network such traffic paddle";
+var mnemonic = "open diamond depend ceiling asthma firm increase note maze laundry lunch sorry";

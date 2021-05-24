@@ -1,1 +1,1 @@
-var mnemonic = "success pelican jazz fringe dilemma reform foam tunnel mushroom sentence spoil fee";
+var mnemonic = "solid dance portion supreme trigger rely loyal history still cat inject detail";

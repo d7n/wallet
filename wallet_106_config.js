@@ -1,1 +1,1 @@
-var mnemonic = "coyote deposit guilt rack badge zoo type minor pulse shuffle wise soon";
+var mnemonic = "nothing lake erosion clog piano aerobic scare utility loop fly silent pride";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect best online execute orange crowd clean clog prepare north mail evoke";
+var mnemonic = "clarify hair mechanic crime loan duck ability defense south furnace close street";

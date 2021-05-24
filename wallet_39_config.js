@@ -1,1 +1,1 @@
-var mnemonic = "story jelly park fruit symptom grace extend cabbage short peace rice awkward";
+var mnemonic = "wish news hundred focus immune rice stay rescue obvious level gate choose";

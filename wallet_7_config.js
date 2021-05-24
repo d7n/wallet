@@ -1,1 +1,1 @@
-var mnemonic = "wrestle comfort civil buffalo people donor episode where spider wood item sauce";
+var mnemonic = "baby order rug cradle fault senior dawn cushion misery whisper quarter pluck";

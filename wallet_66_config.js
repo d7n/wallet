@@ -1,1 +1,1 @@
-var mnemonic = "laundry toss dust flash language rally debris alley monitor talent imitate scout";
+var mnemonic = "coil baby cause buddy faint feed section beach salon rack submit cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew gate order slight empower lend alpha mule street anger outer ball";
+var mnemonic = "embark ramp barrel muffin better hope fancy same absent various spike attract";

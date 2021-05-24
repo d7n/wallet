@@ -1,1 +1,1 @@
-var mnemonic = "fade exhibit skin team lunch chat victory hamster donate auction purpose another";
+var mnemonic = "curious badge decline bind peace excuse naive lady cheese prize cube before";

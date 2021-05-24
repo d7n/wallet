@@ -1,1 +1,1 @@
-var mnemonic = "surprise fever office alert stand antique lunch glass duck minimum biology truck";
+var mnemonic = "uphold age broccoli impact bitter essence start side uniform kid student ask";

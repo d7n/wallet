@@ -1,1 +1,1 @@
-var mnemonic = "wrong wage feed spring eager pyramid area valid consider game level rally";
+var mnemonic = "twice warrior solid glory arrow brick trouble electric monkey slam caution trash";

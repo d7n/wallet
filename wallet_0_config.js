@@ -1,1 +1,1 @@
-var mnemonic = "obscure govern bean garbage accident sunset cake way glance notable lazy raise";
+var mnemonic = "always hard negative will upgrade forum student funny seat try disagree damp";

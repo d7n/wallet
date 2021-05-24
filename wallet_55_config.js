@@ -1,1 +1,1 @@
-var mnemonic = "sleep clay hood weasel oblige kingdom rough write dilemma upper current kidney";
+var mnemonic = "chief beach fuel person bind shell that fee desert faculty key thumb";

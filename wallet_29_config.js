@@ -1,1 +1,1 @@
-var mnemonic = "crop story survey wage dragon execute heavy pudding asset unit ostrich spin";
+var mnemonic = "spoon tourist tourist coast brief chimney paddle impact other orbit confirm stick";

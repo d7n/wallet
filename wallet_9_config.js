@@ -1,1 +1,1 @@
-var mnemonic = "reunion excess spread say invite shallow cannon erode student napkin ocean below";
+var mnemonic = "salute quality box sound work disorder topic protect grain cricket position funny";

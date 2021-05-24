@@ -1,1 +1,1 @@
-var mnemonic = "pull primary maid hole world fantasy pluck omit comic useful sound taste";
+var mnemonic = "invite dismiss castle element actress tortoise drip cousin path engine nurse chunk";

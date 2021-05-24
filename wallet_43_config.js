@@ -1,1 +1,1 @@
-var mnemonic = "credit grace brave photo traffic notice hour tunnel evolve address hazard morning";
+var mnemonic = "burden usual put crumble cheap entry urban begin gallery napkin judge stand";

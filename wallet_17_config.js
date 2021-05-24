@@ -1,1 +1,1 @@
-var mnemonic = "chair enemy regret august beef rule dash flower jump few accuse frost";
+var mnemonic = "near chunk kitten alarm obey reopen zero slot eyebrow must canvas butter";

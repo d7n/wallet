@@ -1,1 +1,1 @@
-var mnemonic = "bunker relax climb still spy also because win rabbit latin barely club";
+var mnemonic = "deliver truly extra buffalo job faint renew salon track energy solar honey";

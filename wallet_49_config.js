@@ -1,1 +1,1 @@
-var mnemonic = "bronze believe choose announce erupt siege wing crunch wrestle enter then hamster";
+var mnemonic = "place spoon omit photo unknown plate amazing believe soon range pet chat";

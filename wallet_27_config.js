@@ -1,1 +1,1 @@
-var mnemonic = "gentle furnace original face coyote above board public enlist unknown coach swift";
+var mnemonic = "steel dynamic early plunge flush debris pill forum hair brand pyramid cherry";

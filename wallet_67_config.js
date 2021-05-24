@@ -1,1 +1,1 @@
-var mnemonic = "hen future abandon length about frequent extra jelly pass air purchase shy";
+var mnemonic = "disagree plastic goddess pulp sand peace coin kid original member blue average";

@@ -1,1 +1,1 @@
-var mnemonic = "palm amateur fury afraid labor asthma solution deal permit unveil creek burger";
+var mnemonic = "brown involve sight promote paper cabin access mercy hotel achieve when annual";

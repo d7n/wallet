@@ -1,1 +1,1 @@
-var mnemonic = "warrior episode ghost hospital destroy reunion vapor ring trial pen dash calm";
+var mnemonic = "execute wedding buzz left season hood pretty piece force when cube spread";

@@ -1,1 +1,1 @@
-var mnemonic = "keep pottery harbor volcano cause bridge property short lunch truly bunker error";
+var mnemonic = "eyebrow wheel urban mistake shine simple produce engine choose salute april coast";

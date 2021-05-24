@@ -1,1 +1,1 @@
-var mnemonic = "fetch hour salt mercy quiz kind fantasy pupil cigar basket unfair text";
+var mnemonic = "sausage case walk grunt worry pioneer autumn gossip travel shove protect light";

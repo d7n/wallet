@@ -1,1 +1,1 @@
-var mnemonic = "person glide phrase sing pioneer cancel plastic surround tiny muscle coyote educate";
+var mnemonic = "arrest drift chronic pilot robot explain slim permit ahead lift include silk";

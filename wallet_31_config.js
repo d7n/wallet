@@ -1,1 +1,1 @@
-var mnemonic = "grit rich question coast follow move cherry finish jazz dizzy palm buyer";
+var mnemonic = "habit simple slam sun maple age express old inside never camp remove";

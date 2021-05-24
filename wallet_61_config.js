@@ -1,1 +1,1 @@
-var mnemonic = "symptom pattern glue inflict fit dizzy defy lens tool middle iron toy";
+var mnemonic = "nut elegant wine scan palm useless scrub ecology direct reward subject motion";

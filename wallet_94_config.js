@@ -1,1 +1,1 @@
-var mnemonic = "athlete rely mushroom matrix girl weapon venue eternal patient false swarm modify";
+var mnemonic = "boat push review build pizza hidden dynamic slot knee apart fiction that";

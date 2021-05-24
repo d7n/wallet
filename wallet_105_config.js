@@ -1,1 +1,1 @@
-var mnemonic = "gospel insane recall network rocket wish title cry jaguar ozone lab clarify";
+var mnemonic = "sunny dial marriage elephant frozen ship apology include shed extra any mind";

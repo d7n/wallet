@@ -1,1 +1,1 @@
-var mnemonic = "elbow pudding cabin trigger dentist assist chimney expand home token fee tired";
+var mnemonic = "quality maze trick stage achieve vintage common brother duty cluster pulse remove";

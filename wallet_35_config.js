@@ -1,1 +1,1 @@
-var mnemonic = "home thunder total barrel pudding increase general remind observe edit host chest";
+var mnemonic = "mobile average humble hurdle guess duty aunt permit bid explain actual love";

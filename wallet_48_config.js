@@ -1,1 +1,1 @@
-var mnemonic = "nation anxiety hybrid candy zone private rack already shop clock strong quantum";
+var mnemonic = "snake lunch wrestle discover arm miss news scale smooth casino okay health";

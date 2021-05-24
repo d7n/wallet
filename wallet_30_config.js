@@ -1,1 +1,1 @@
-var mnemonic = "eager chair language trigger alcohol better female latin wine airport clump child";
+var mnemonic = "vivid arena employ certain actual tumble appear reason betray mutual nasty step";

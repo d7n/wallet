@@ -1,1 +1,1 @@
-var mnemonic = "sand jelly dilemma chalk daring payment rocket hole total pupil suspect horn";
+var mnemonic = "produce present snake display mixture cart unknown satisfy reopen forward express unknown";

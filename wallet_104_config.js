@@ -1,1 +1,1 @@
-var mnemonic = "scan tide rubber swamp planet apart wire seven intact depth sadness vanish";
+var mnemonic = "universe slow dress next scout flee exile mention pudding gym dentist copy";
