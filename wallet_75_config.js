@@ -1,1 +1,1 @@
-var mnemonic = "junk mixed genuine gauge lens little square board tray february include few";
+var mnemonic = "limit identify leg blur blouse science vote surface brief tattoo gun leader";

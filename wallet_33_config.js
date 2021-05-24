@@ -1,1 +1,1 @@
-var mnemonic = "march medal bachelor swap syrup attitude eyebrow address rude situate grid sure";
+var mnemonic = "mosquito robust wave another ancient uphold isolate inch glad spoil candy yellow";

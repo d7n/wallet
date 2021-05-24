@@ -1,1 +1,1 @@
-var mnemonic = "jaguar twin neck close juice idea verify exchange unhappy jeans pig camp";
+var mnemonic = "chair stay august toast equip detail annual lonely suggest unlock invite hard";

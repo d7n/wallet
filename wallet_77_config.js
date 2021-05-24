@@ -1,1 +1,1 @@
-var mnemonic = "false swamp assist reject give reopen size transfer snack spoon judge device";
+var mnemonic = "clay dynamic visual million cabbage motor purchase put meadow option enact client";

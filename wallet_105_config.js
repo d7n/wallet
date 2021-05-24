@@ -1,1 +1,1 @@
-var mnemonic = "begin globe party way bounce rude paddle amused route point route someone";
+var mnemonic = "that place cruise surface swing expand pitch salad adapt floor resist coconut";

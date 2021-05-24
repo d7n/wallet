@@ -1,1 +1,1 @@
-var mnemonic = "sick slow produce trophy remember twenty march bean awake noise decorate throw";
+var mnemonic = "tail wife baby salute ball label glove mad spot front true topic";

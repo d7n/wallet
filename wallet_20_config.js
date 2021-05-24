@@ -1,1 +1,1 @@
-var mnemonic = "list flip adult actress slot treat access long matter early fix topic";
+var mnemonic = "asset tape rib opinion speak banana visual maple review nuclear glimpse organ";

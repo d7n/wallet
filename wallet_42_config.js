@@ -1,1 +1,1 @@
-var mnemonic = "beyond soft surface joy depend genuine such cloth mercy pledge essay uphold";
+var mnemonic = "coach toward what brick dream deliver first notable gate alpha sunset mansion";

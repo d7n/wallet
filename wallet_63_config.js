@@ -1,1 +1,1 @@
-var mnemonic = "company illness horror educate reopen timber today canyon history admit rural zone";
+var mnemonic = "monitor bundle prize slush fly echo tail cinnamon zoo pause gather scheme";

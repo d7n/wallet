@@ -1,1 +1,1 @@
-var mnemonic = "welcome subway insane lottery online refuse eye weasel leisure beyond impulse swift";
+var mnemonic = "grass zone eternal amazing fine rice blade law grant theory layer seminar";

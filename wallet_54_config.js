@@ -1,1 +1,1 @@
-var mnemonic = "host punch patch capable story blood crumble rent empty cinnamon ugly margin";
+var mnemonic = "knock claim text load prevent license orchard balance bundle enhance measure analyst";

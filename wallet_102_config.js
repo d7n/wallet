@@ -1,1 +1,1 @@
-var mnemonic = "sunset talent faculty omit goddess auction federal brick egg slow voyage tomato";
+var mnemonic = "erase grant right uncle ugly scatter urge exchange carbon tail speed true";

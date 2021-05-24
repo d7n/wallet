@@ -1,1 +1,1 @@
-var mnemonic = "rain auction online bunker police title bread grid arctic trade impose federal";
+var mnemonic = "mean senior ostrich then winter tattoo drive stone rebuild call noodle drink";

@@ -1,1 +1,1 @@
-var mnemonic = "scan purpose indoor urban cigar valve confirm page guard budget soccer coffee";
+var mnemonic = "dance quiz upgrade journey fringe pause deposit front army ginger crumble stone";

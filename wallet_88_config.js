@@ -1,1 +1,1 @@
-var mnemonic = "moment math lesson person resist deny casino clock pull pretty survey unlock";
+var mnemonic = "hurt borrow novel clarify social august gallery topic tree pink time wrap";

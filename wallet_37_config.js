@@ -1,1 +1,1 @@
-var mnemonic = "please fossil gown torch hour satoshi then dumb deliver deposit involve mixture";
+var mnemonic = "monster clump steel ritual shy enter eternal echo skill reopen shoot mixture";

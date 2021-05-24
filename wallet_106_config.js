@@ -1,1 +1,1 @@
-var mnemonic = "balance minor culture marriage cream congress remind dirt uncle deposit adult deny";
+var mnemonic = "swim across bicycle clump nest mansion again sock unhappy scheme initial thumb";

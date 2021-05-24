@@ -1,1 +1,1 @@
-var mnemonic = "loop radio teach nominee oval enough twist cat force improve hazard knife";
+var mnemonic = "diagram begin law net weather payment injury simple online crazy wet six";

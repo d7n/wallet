@@ -1,1 +1,1 @@
-var mnemonic = "science train silver use critic fame oblige ginger bright panic cruel allow";
+var mnemonic = "syrup glass net canoe swarm hub poet head traffic wash lady ask";

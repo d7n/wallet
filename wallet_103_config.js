@@ -1,1 +1,1 @@
-var mnemonic = "dust dignity cart gold dynamic hand parent argue cruise season loyal mail";
+var mnemonic = "twist bring track unusual pink divorce attend mandate cannon scatter zoo drama";

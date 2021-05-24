@@ -1,1 +1,1 @@
-var mnemonic = "soap obtain hip boring protect bless bamboo pond essay ski success cost";
+var mnemonic = "demise stem owner follow fall orchard social vicious process vocal name physical";

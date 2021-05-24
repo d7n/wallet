@@ -1,1 +1,1 @@
-var mnemonic = "brief boil evoke loop forest endless degree album point return offer evolve";
+var mnemonic = "lyrics treat file tent stove army suit neutral home file copy aware";

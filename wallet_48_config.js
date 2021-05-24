@@ -1,1 +1,1 @@
-var mnemonic = "police weasel usual away sting pact mirror inquiry rose divorce jacket vintage";
+var mnemonic = "merit goose sugar episode dismiss confirm speed party gadget start build tilt";

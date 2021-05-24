@@ -1,1 +1,1 @@
-var mnemonic = "armed steel proud talk kangaroo dress board tackle beauty release pretty room";
+var mnemonic = "misery arctic grape smart crowd random spoon evolve spider brother busy rich";

@@ -1,1 +1,1 @@
-var mnemonic = "impose hold adjust sea ribbon shock slush jealous whisper fame put torch";
+var mnemonic = "egg multiply repair hole list fan verb country second solve waste remain";

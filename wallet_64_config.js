@@ -1,1 +1,1 @@
-var mnemonic = "require invest zero harsh exist certain spin emerge antenna wage olive pool";
+var mnemonic = "decorate pond visa extend local pelican local face toddler smoke grid journey";

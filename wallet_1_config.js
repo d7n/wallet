@@ -1,1 +1,1 @@
-var mnemonic = "illegal across mule company edit into boring learn hobby economy genuine allow";
+var mnemonic = "history private type frost indicate donor claw crew denial assume muffin come";

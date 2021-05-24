@@ -1,1 +1,1 @@
-var mnemonic = "verb shoot slice bracket settle extend hazard ability bulk spider summer melody";
+var mnemonic = "order boring adapt decline account churn all flight heavy ostrich address mosquito";

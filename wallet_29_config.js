@@ -1,1 +1,1 @@
-var mnemonic = "miracle only stick truly junk medal knock goose cousin plug palace swallow";
+var mnemonic = "install history left need recall false then cost skull join sorry solution";

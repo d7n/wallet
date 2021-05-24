@@ -1,1 +1,1 @@
-var mnemonic = "cube prize bike panel jacket neither shed trend ramp ask actress flip";
+var mnemonic = "casual silver shaft exchange rose debris potato tomato brand black mesh tennis";

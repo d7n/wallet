@@ -1,1 +1,1 @@
-var mnemonic = "swing job ripple solve pause hard captain picnic cycle kiwi tooth update";
+var mnemonic = "grass behave maze impose chimney scan notable sheriff sail recipe laugh pill";

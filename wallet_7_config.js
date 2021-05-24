@@ -1,1 +1,1 @@
-var mnemonic = "run water kid apology era muffin reject mass behave mandate sibling neglect";
+var mnemonic = "arctic cable sound load awkward track balcony gesture human modify lend negative";

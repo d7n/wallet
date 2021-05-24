@@ -1,1 +1,1 @@
-var mnemonic = "tell service sausage cherry circle result lawn vague file blush witness giant";
+var mnemonic = "dish govern curious host radar icon private unusual claw rule figure soda";

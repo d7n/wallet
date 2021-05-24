@@ -1,1 +1,1 @@
-var mnemonic = "actual merry found bacon achieve teach birth brown rotate paper start during";
+var mnemonic = "faith gate monkey ticket offer jump spirit anger obtain antenna improve tobacco";

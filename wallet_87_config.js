@@ -1,1 +1,1 @@
-var mnemonic = "online milk stable blast satoshi spike exist teach oppose machine execute damage";
+var mnemonic = "treat doll embrace visual tunnel million genius peanut coast humble decade weird";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse brain camp wife school face radar taxi prison pony brisk lobster";
+var mnemonic = "picture utility planet horn nose depend aspect fog credit gift away give";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics because face youth battle genius result cart visit limb force swarm";
+var mnemonic = "cement royal lunar area dish stairs upon example recipe near caution twelve";

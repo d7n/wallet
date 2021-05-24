@@ -1,1 +1,1 @@
-var mnemonic = "layer trial outside empower churn ripple runway kiwi crew boy lend alarm";
+var mnemonic = "pony caution just field air trip valley ask bounce rice increase broom";

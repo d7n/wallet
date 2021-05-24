@@ -1,1 +1,1 @@
-var mnemonic = "history either calm method maximum trust tray forest celery scrub anxiety sad";
+var mnemonic = "group woman poverty dinner corn accuse critic gentle hour obvious cook avocado";

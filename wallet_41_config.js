@@ -1,1 +1,1 @@
-var mnemonic = "half soldier marriage pear erosion soap lawn decade sleep evolve stamp nice";
+var mnemonic = "amateur season ladder one milk proof charge shoe gesture humor theme drop";

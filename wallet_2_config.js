@@ -1,1 +1,1 @@
-var mnemonic = "please range leaf grief bar story tourist upset kidney differ wheel ordinary";
+var mnemonic = "trap spot empower deer exhaust town sun foil wasp pink dish slight";

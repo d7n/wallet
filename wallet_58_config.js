@@ -1,1 +1,1 @@
-var mnemonic = "nephew vital add raven primary afford mind replace guilt shy shaft maple";
+var mnemonic = "gas danger round mouse scan bus deer joy category table earth engine";

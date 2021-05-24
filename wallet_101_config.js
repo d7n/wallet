@@ -1,1 +1,1 @@
-var mnemonic = "capital memory cause shallow hat soon bean burst movie best member critic";
+var mnemonic = "virtual relief spike okay ask cost hood eager sudden stereo phone supreme";

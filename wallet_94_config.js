@@ -1,1 +1,1 @@
-var mnemonic = "actor asset column car work tuition devote address onion stuff fun ranch";
+var mnemonic = "garbage behave over club alter place settle search school empty alarm recycle";

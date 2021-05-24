@@ -1,1 +1,1 @@
-var mnemonic = "few sentence mandate client economy corn bubble give pluck panic west imitate";
+var mnemonic = "brief because toward hazard choice now tattoo strategy hat liquid chimney empower";

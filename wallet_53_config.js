@@ -1,1 +1,1 @@
-var mnemonic = "plug inside resist seed check method scheme worry future phone depart health";
+var mnemonic = "bachelor dizzy toss abandon boring ball bird spend sock quote switch praise";

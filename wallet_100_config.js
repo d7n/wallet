@@ -1,1 +1,1 @@
-var mnemonic = "solution depth lobster moral citizen flock wife economy august chest frozen obscure";
+var mnemonic = "stamp blur cement defy lounge refuse online abstract move gain unfair dog";

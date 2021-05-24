@@ -1,1 +1,1 @@
-var mnemonic = "document obey dose day crouch cheese whisper grass quarter ribbon toddler hobby";
+var mnemonic = "humor live notice because local banner black interest feel damage napkin average";

@@ -1,1 +1,1 @@
-var mnemonic = "network opinion dance harbor razor disorder erase eye teach hammer morning civil";
+var mnemonic = "spike nothing voyage body climb chase merge situate people setup seven dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "copy pattern artwork inmate loud apple task forum call found swamp mother";
+var mnemonic = "pipe animal can bag pottery devote fork sword pilot tomorrow useful pudding";

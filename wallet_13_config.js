@@ -1,1 +1,1 @@
-var mnemonic = "render naive strike demand view fish tent shrug critic almost near become";
+var mnemonic = "depend radio brand scale feed behave pretty charge bridge report song stumble";

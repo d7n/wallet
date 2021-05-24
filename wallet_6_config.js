@@ -1,1 +1,1 @@
-var mnemonic = "patch around border business duty wrist wall math vast fetch kitchen barrel";
+var mnemonic = "crack oil muscle sense peace bottom few paper lottery wing melt note";

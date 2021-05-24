@@ -1,1 +1,1 @@
-var mnemonic = "possible confirm glue toilet orbit strong embody onion have bless tube foot";
+var mnemonic = "rich scrap figure month water produce hold snack lawsuit frequent earn patient";

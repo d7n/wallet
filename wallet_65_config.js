@@ -1,1 +1,1 @@
-var mnemonic = "industry pudding attack busy office senior physical wife enemy moral resemble wheel";
+var mnemonic = "unique identify ghost army head spike prison business banner recipe mass half";

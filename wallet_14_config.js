@@ -1,1 +1,1 @@
-var mnemonic = "future perfect pool example armor sight pottery amateur matter ahead gun unique";
+var mnemonic = "eagle trophy return index mix noodle endless claim clip rigid raw prevent";

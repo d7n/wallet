@@ -1,1 +1,1 @@
-var mnemonic = "cat deposit donate loop edit train miss access trap boring candy parent";
+var mnemonic = "frost review cry move dish possible cute attitude nut ice tube human";

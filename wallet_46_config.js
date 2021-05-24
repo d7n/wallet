@@ -1,1 +1,1 @@
-var mnemonic = "car beef confirm crisp ill disagree grace debate barrel organ toast spin";
+var mnemonic = "cream long barrel math reform uncle hockey keen task execute traffic chapter";

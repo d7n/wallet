@@ -1,1 +1,1 @@
-var mnemonic = "pulse mesh merry charge way execute inhale select you depth wonder nephew";
+var mnemonic = "shoulder fancy fan uniform wool window debate eye track once region script";

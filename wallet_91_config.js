@@ -1,1 +1,1 @@
-var mnemonic = "collect rebel mammal adapt coast light beyond leisure drive uncover sign produce";
+var mnemonic = "shove physical remember prize cream useful useful park void face fossil analyst";

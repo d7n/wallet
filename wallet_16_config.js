@@ -1,1 +1,1 @@
-var mnemonic = "phone blanket quarter clog try tool luggage they bid meat pledge video";
+var mnemonic = "hamster monitor access vital quick twenty borrow knife balance fatigue amazing outer";

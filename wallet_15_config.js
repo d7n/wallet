@@ -1,1 +1,1 @@
-var mnemonic = "combine business person vehicle double twist digital vote pizza legal shield six";
+var mnemonic = "soap stamp damp stand table senior crystal fiber blind tonight speed fish";

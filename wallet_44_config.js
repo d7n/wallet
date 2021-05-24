@@ -1,1 +1,1 @@
-var mnemonic = "better glass raw razor bike summer sleep dumb system offer you canyon";
+var mnemonic = "blame arm pond hidden clip same remain potato siren draft climb olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "notice idle together gossip betray differ math fortune nurse bronze phrase bread";
+var mnemonic = "cigar battle panther dove fish fault ridge rubber quality perfect slice promote";

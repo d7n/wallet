@@ -1,1 +1,1 @@
-var mnemonic = "advice health can ride type uphold meadow cherry waste resource glass hidden";
+var mnemonic = "fringe strike lawn keep banner jacket shell chronic draft disagree until swear";

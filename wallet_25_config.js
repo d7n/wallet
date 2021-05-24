@@ -1,1 +1,1 @@
-var mnemonic = "brown basic practice fatal drip total dog cry daughter wife pave return";
+var mnemonic = "level shed banana cherry truck stock hunt clay flip close again cross";

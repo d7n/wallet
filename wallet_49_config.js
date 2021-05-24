@@ -1,1 +1,1 @@
-var mnemonic = "river beach patrol chimney remember chalk forward domain prepare hen calm convince";
+var mnemonic = "fatigue danger cloud latin curtain sense planet leaf citizen fancy begin track";

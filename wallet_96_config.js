@@ -1,1 +1,1 @@
-var mnemonic = "pyramid opera patch noise fury hobby winter cable destroy dolphin uncover analyst";
+var mnemonic = "inject couple business glance play awful reopen punch open paddle keep oppose";

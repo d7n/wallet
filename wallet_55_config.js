@@ -1,1 +1,1 @@
-var mnemonic = "mind ghost chicken guess divorce vote state energy hint dry ranch nose";
+var mnemonic = "spawn insect wealth powder quarter orchard brisk two found soldier expose unit";

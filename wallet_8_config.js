@@ -1,1 +1,1 @@
-var mnemonic = "theory share coast predict coyote offer insect crack now bread vault symptom";
+var mnemonic = "album brief lava mango famous burden problem sword tragic earth team picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "hire minimum picture universe grape annual occur thrive egg also interest knock";
+var mnemonic = "victory salad shift ginger radar error client unhappy bag affair effort sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "sort upgrade scrub layer want stadium table balcony recipe deputy glimpse armor";
+var mnemonic = "crumble lemon method surface model market ripple secret stay boring earth tennis";

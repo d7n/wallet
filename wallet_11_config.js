@@ -1,1 +1,1 @@
-var mnemonic = "pave sport note funny rural sustain clown quantum fat shiver rally predict";
+var mnemonic = "supreme alcohol earth area arrange ostrich crop govern person canoe estate door";

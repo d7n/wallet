@@ -1,1 +1,1 @@
-var mnemonic = "ski night hour capital deer camera wrap drastic elbow over type immune";
+var mnemonic = "blood book cause mansion system crunch dog series hollow sail toe auction";

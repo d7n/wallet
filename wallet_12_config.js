@@ -1,1 +1,1 @@
-var mnemonic = "bacon short filter scale wear soul ramp brown method equal shallow pill";
+var mnemonic = "ridge bag attack depend bind hub speak flock decade punch attract unfold";

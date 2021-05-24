@@ -1,1 +1,1 @@
-var mnemonic = "mobile inherit still short cradle response attack alley price water electric update";
+var mnemonic = "distance box scheme trial area size feature quiz theory derive gesture absorb";

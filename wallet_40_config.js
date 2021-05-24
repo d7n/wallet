@@ -1,1 +1,1 @@
-var mnemonic = "chunk hint carbon carry veteran hold rhythm eternal garlic robot monster pottery";
+var mnemonic = "mixed inflict milk fault evil helmet better spirit rally uphold judge address";

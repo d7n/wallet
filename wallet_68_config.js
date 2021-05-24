@@ -1,1 +1,1 @@
-var mnemonic = "party write focus rebel joy loyal silk spice help click crunch smile";
+var mnemonic = "series melody senior wreck ask size fine state speak circle relief better";

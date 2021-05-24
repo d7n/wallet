@@ -1,1 +1,1 @@
-var mnemonic = "hybrid gold blossom maximum sword disagree eager visa cheese awesome plunge grass";
+var mnemonic = "first sand quote fence alter rice gallery use theory cause vital moment";

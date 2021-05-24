@@ -1,1 +1,1 @@
-var mnemonic = "file common sauce shoot shop account vacuum file stumble scissors modify pluck";
+var mnemonic = "found globe tissue myth civil crucial lonely year access image theory curious";

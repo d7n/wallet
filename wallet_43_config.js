@@ -1,1 +1,1 @@
-var mnemonic = "law oblige paper pupil table layer bonus garbage nice club coffee spy";
+var mnemonic = "modify curtain dawn lizard subway frown ecology estate leave wolf entry ticket";

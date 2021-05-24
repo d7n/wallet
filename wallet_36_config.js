@@ -1,1 +1,1 @@
-var mnemonic = "slab rate theory square tag lift rigid shell jacket tornado seek kick";
+var mnemonic = "quote fold know logic movie assault math parade dawn emotion exchange trophy";

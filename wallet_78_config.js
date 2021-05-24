@@ -1,1 +1,1 @@
-var mnemonic = "ceiling gospel medal source minimum forget light ticket guard bounce milk web";
+var mnemonic = "envelope mind guard element this black chunk lock best mutual lend ensure";

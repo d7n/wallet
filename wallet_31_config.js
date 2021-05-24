@@ -1,1 +1,1 @@
-var mnemonic = "result confirm tail goose shuffle salad ensure fever praise scrap perfect cement";
+var mnemonic = "woman matter lamp hidden science awesome absorb ship estate brand wonder elegant";

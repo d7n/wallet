@@ -1,1 +1,1 @@
-var mnemonic = "slogan time say tackle team fashion moon mail immense spell assume possible";
+var mnemonic = "divert junk churn kite usage reflect enroll velvet slice swap smoke monster";

@@ -1,1 +1,1 @@
-var mnemonic = "face rain arrow impose equal attend garden exile type truly slice cattle";
+var mnemonic = "tiger chunk minimum silent diesel practice tennis picture audit peace tribe illegal";

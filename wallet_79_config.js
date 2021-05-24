@@ -1,1 +1,1 @@
-var mnemonic = "pause river pipe kidney join trick seven offer solid maze animal abstract";
+var mnemonic = "crouch inhale smoke endorse loan coast armor weird milk armed quote pizza";

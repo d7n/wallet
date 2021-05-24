@@ -1,1 +1,1 @@
-var mnemonic = "sport own tissue exhaust program width luggage wealth drill novel top decide";
+var mnemonic = "pitch siege truck final bird balcony glance erase chest thing advice erosion";

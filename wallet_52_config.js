@@ -1,1 +1,1 @@
-var mnemonic = "wish misery embody dose brush task defy mention hour fish home only";
+var mnemonic = "coil file faint stick clog undo infant stand jazz rigid good someone";

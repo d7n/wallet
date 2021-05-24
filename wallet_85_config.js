@@ -1,1 +1,1 @@
-var mnemonic = "deal depend type build cigar then turn pencil swift keep mouse inch";
+var mnemonic = "dad suspect scissors visa dilemma wonder debris wrap ramp badge lyrics kit";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel seminar flight squirrel call dad movie when belt riot maze lock";
+var mnemonic = "hockey stumble gasp coyote use donor sport domain mosquito enable addict scale";

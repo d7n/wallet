@@ -1,1 +1,1 @@
-var mnemonic = "all waste rescue elder blue forest mosquito attract table lobster table major";
+var mnemonic = "potato runway salt kiwi silver across steak stool cool spy iron forward";

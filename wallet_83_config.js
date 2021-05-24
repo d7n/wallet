@@ -1,1 +1,1 @@
-var mnemonic = "elevator hobby detect wear grunt broken misery enforce bag razor sea include";
+var mnemonic = "mandate exile toy tennis embrace boy improve fence payment tiny desk upper";

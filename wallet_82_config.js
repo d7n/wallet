@@ -1,1 +1,1 @@
-var mnemonic = "fortune tennis violin weapon tiger drift dwarf salad upper lizard claw measure";
+var mnemonic = "wheel have blouse foster bench work purse truck rich captain hen pigeon";

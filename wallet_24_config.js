@@ -1,1 +1,1 @@
-var mnemonic = "cactus rally finger unfold climb about sketch eye outer learn system infant";
+var mnemonic = "remind spare simple soccer glue cushion maid cruel defy witness entry caught";
