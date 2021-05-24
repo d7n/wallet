@@ -1,1 +1,1 @@
-var mnemonic = "pipe animal can bag pottery devote fork sword pilot tomorrow useful pudding";
+var mnemonic = "mesh unable stereo trash corn space happy person quarter butter comic joy";

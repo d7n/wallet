@@ -1,1 +1,1 @@
-var mnemonic = "fringe strike lawn keep banner jacket shell chronic draft disagree until swear";
+var mnemonic = "wisdom dad high food more glass dwarf dentist oil exotic arctic buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "merit goose sugar episode dismiss confirm speed party gadget start build tilt";
+var mnemonic = "begin buddy blossom vessel mutual trim rich trust idle cement alone utility";

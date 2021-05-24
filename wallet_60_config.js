@@ -1,1 +1,1 @@
-var mnemonic = "brief because toward hazard choice now tattoo strategy hat liquid chimney empower";
+var mnemonic = "rifle sport leg hire jaguar trumpet imitate please goat private industry target";

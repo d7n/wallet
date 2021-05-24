@@ -1,1 +1,1 @@
-var mnemonic = "purchase ridge catch half vacant supply left weekend belt isolate purchase traffic";
+var mnemonic = "dice permit expire syrup twice shiver correct picnic make nuclear rely unknown";

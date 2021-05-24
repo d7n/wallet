@@ -1,1 +1,1 @@
-var mnemonic = "album brief lava mango famous burden problem sword tragic earth team picnic";
+var mnemonic = "circle adjust manage join quick state bargain barrel visual pluck punch hen";

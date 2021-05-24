@@ -1,1 +1,1 @@
-var mnemonic = "egg multiply repair hole list fan verb country second solve waste remain";
+var mnemonic = "lift snake clarify minute mistake popular infant sniff cupboard have way word";

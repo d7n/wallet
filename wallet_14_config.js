@@ -1,1 +1,1 @@
-var mnemonic = "eagle trophy return index mix noodle endless claim clip rigid raw prevent";
+var mnemonic = "thought crane point hair fluid viable planet index bright mercy cherry sting";

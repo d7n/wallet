@@ -1,1 +1,1 @@
-var mnemonic = "frost review cry move dish possible cute attitude nut ice tube human";
+var mnemonic = "genre cotton home stable violin cluster blanket crystal direct shadow magnet language";

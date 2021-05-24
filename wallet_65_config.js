@@ -1,1 +1,1 @@
-var mnemonic = "unique identify ghost army head spike prison business banner recipe mass half";
+var mnemonic = "congress sadness convince love art such eye conduct soccer buyer lyrics foster";

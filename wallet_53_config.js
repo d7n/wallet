@@ -1,1 +1,1 @@
-var mnemonic = "bachelor dizzy toss abandon boring ball bird spend sock quote switch praise";
+var mnemonic = "shell nest theme belt elephant winner penalty peanut exact barrel crowd mesh";

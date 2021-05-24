@@ -1,1 +1,1 @@
-var mnemonic = "dish govern curious host radar icon private unusual claw rule figure soda";
+var mnemonic = "silent main outdoor estate mechanic price pull trend jar provide candy royal";

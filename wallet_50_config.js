@@ -1,1 +1,1 @@
-var mnemonic = "design state armor leisure build salt miss pepper swamp acid person pupil";
+var mnemonic = "quick radio method sibling lawn catch never truth tongue cram weird attend";

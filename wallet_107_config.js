@@ -1,1 +1,1 @@
-var mnemonic = "grass behave maze impose chimney scan notable sheriff sail recipe laugh pill";
+var mnemonic = "during fabric perfect obscure artist spy envelope swap announce slight vault athlete";

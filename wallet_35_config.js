@@ -1,1 +1,1 @@
-var mnemonic = "crumble lemon method surface model market ripple secret stay boring earth tennis";
+var mnemonic = "cash swamp panda pull gather blue allow custom legal adjust card verify";

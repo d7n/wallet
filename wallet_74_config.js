@@ -1,1 +1,1 @@
-var mnemonic = "order omit sock display pipe primary penalty goddess fan attend track away";
+var mnemonic = "brick giraffe wish chronic broccoli onion struggle ostrich penalty buyer surge patient";

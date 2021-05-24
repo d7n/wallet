@@ -1,1 +1,1 @@
-var mnemonic = "tail wife baby salute ball label glove mad spot front true topic";
+var mnemonic = "mind donor bamboo develop amateur sting globe trick believe movie combine drift";

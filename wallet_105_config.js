@@ -1,1 +1,1 @@
-var mnemonic = "that place cruise surface swing expand pitch salad adapt floor resist coconut";
+var mnemonic = "ecology flight hungry theme narrow goat turkey illegal torch fold athlete palace";

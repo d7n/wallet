@@ -1,1 +1,1 @@
-var mnemonic = "install history left need recall false then cost skull join sorry solution";
+var mnemonic = "fatigue wolf wheat often agree receive digital garment steel guide globe economy";

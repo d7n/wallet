@@ -1,1 +1,1 @@
-var mnemonic = "pony caution just field air trip valley ask bounce rice increase broom";
+var mnemonic = "rain text medal add filter drama grocery dune other tray split hope";

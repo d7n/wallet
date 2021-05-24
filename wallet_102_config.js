@@ -1,1 +1,1 @@
-var mnemonic = "erase grant right uncle ugly scatter urge exchange carbon tail speed true";
+var mnemonic = "idea dizzy interest convince silly absurd access ugly discover run trap citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage behave over club alter place settle search school empty alarm recycle";
+var mnemonic = "champion right crane dawn clap poem rifle trust name diamond bitter banana";

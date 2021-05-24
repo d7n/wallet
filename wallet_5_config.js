@@ -1,1 +1,1 @@
-var mnemonic = "group woman poverty dinner corn accuse critic gentle hour obvious cook avocado";
+var mnemonic = "valid figure wood unlock coconut fox smoke burden enact history valid exchange";

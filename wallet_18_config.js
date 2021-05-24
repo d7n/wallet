@@ -1,1 +1,1 @@
-var mnemonic = "organ immense extra creek solve sugar plug retire always easily base someone";
+var mnemonic = "fence favorite hen wish duck place method squirrel cradle early affair slot";

@@ -1,1 +1,1 @@
-var mnemonic = "coach toward what brick dream deliver first notable gate alpha sunset mansion";
+var mnemonic = "rabbit wrong auction huge school produce hotel where width deal wheel naive";

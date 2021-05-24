@@ -1,1 +1,1 @@
-var mnemonic = "potato runway salt kiwi silver across steak stool cool spy iron forward";
+var mnemonic = "avocado just river dial uphold laugh spot material drum claw rack minor";

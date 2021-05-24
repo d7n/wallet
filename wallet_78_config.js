@@ -1,1 +1,1 @@
-var mnemonic = "envelope mind guard element this black chunk lock best mutual lend ensure";
+var mnemonic = "merry bar possible impose public dentist swing real client general brush manual";

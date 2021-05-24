@@ -1,1 +1,1 @@
-var mnemonic = "sister view puppy indicate ankle reject defy civil patch fall lamp square";
+var mnemonic = "clutch near original gesture isolate bid peanut poverty arrest stairs alarm member";

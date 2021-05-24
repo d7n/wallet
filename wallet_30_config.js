@@ -1,1 +1,1 @@
-var mnemonic = "tiger chunk minimum silent diesel practice tennis picture audit peace tribe illegal";
+var mnemonic = "catch shoe pride march cute use picture buyer impulse airport ecology people";

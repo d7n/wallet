@@ -1,1 +1,1 @@
-var mnemonic = "stamp blur cement defy lounge refuse online abstract move gain unfair dog";
+var mnemonic = "estate nothing noise slide hospital choice already adult alarm behind damage improve";

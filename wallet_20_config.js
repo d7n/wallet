@@ -1,1 +1,1 @@
-var mnemonic = "asset tape rib opinion speak banana visual maple review nuclear glimpse organ";
+var mnemonic = "large ensure produce wife draft solution wasp rebel earn mention plunge grocery";

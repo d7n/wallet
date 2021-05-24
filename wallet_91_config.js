@@ -1,1 +1,1 @@
-var mnemonic = "shove physical remember prize cream useful useful park void face fossil analyst";
+var mnemonic = "absurd expose ecology economy hold employ breeze trash enforce decline doctor race";

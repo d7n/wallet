@@ -1,1 +1,1 @@
-var mnemonic = "blood book cause mansion system crunch dog series hollow sail toe auction";
+var mnemonic = "vacant people involve finger able rather feed exchange walk scene equip trouble";

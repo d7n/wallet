@@ -1,1 +1,1 @@
-var mnemonic = "remind spare simple soccer glue cushion maid cruel defy witness entry caught";
+var mnemonic = "symbol tuna antenna indicate own nerve focus sleep web purse trend doll";

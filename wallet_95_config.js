@@ -1,1 +1,1 @@
-var mnemonic = "frown chronic believe black today during pitch adult bamboo gorilla cheap trade";
+var mnemonic = "world trophy slow donkey token run manual roast spell raw extra crater";

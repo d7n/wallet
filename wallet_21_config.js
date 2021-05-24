@@ -1,1 +1,1 @@
-var mnemonic = "casual silver shaft exchange rose debris potato tomato brand black mesh tennis";
+var mnemonic = "purpose zone click elder olympic labor eyebrow critic model rotate report hold";

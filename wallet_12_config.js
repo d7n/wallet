@@ -1,1 +1,1 @@
-var mnemonic = "ridge bag attack depend bind hub speak flock decade punch attract unfold";
+var mnemonic = "action thing end paddle gaze polar quantum obey relief comic nephew yard";

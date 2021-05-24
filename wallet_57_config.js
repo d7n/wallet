@@ -1,1 +1,1 @@
-var mnemonic = "distance box scheme trial area size feature quiz theory derive gesture absorb";
+var mnemonic = "measure powder brave couple zoo glad unable cute media project cage prosper";

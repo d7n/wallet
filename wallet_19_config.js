@@ -1,1 +1,1 @@
-var mnemonic = "humor live notice because local banner black interest feel damage napkin average";
+var mnemonic = "actual enforce enter slab horn manage drip boat wife rebuild story grace";

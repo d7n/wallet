@@ -1,1 +1,1 @@
-var mnemonic = "spike nothing voyage body climb chase merge situate people setup seven dismiss";
+var mnemonic = "audit space cousin pony bomb phone uphold leopard valve artwork bird expose";

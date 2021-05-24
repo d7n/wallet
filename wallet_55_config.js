@@ -1,1 +1,1 @@
-var mnemonic = "spawn insect wealth powder quarter orchard brisk two found soldier expose unit";
+var mnemonic = "ceiling road arrest this dream invest brick jelly lunar taxi nephew city";

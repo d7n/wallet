@@ -1,1 +1,1 @@
-var mnemonic = "cement royal lunar area dish stairs upon example recipe near caution twelve";
+var mnemonic = "business method student ramp deal fiscal second able moon turn approve mule";

@@ -1,1 +1,1 @@
-var mnemonic = "gas danger round mouse scan bus deer joy category table earth engine";
+var mnemonic = "trial ghost run still test casino shallow lumber more power sense unfair";

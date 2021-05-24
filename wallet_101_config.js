@@ -1,1 +1,1 @@
-var mnemonic = "virtual relief spike okay ask cost hood eager sudden stereo phone supreme";
+var mnemonic = "remain genuine enough half outdoor theme dumb anchor west process beauty wise";

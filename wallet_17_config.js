@@ -1,1 +1,1 @@
-var mnemonic = "pitch siege truck final bird balcony glance erase chest thing advice erosion";
+var mnemonic = "rescue roof inner employ lawn cereal army multiply adjust observe prevent canal";

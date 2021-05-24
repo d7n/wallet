@@ -1,1 +1,1 @@
-var mnemonic = "coil file faint stick clog undo infant stand jazz rigid good someone";
+var mnemonic = "ignore learn length tooth mouse wheat tortoise river globe marble cover kick";

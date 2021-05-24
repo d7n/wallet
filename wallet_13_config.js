@@ -1,1 +1,1 @@
-var mnemonic = "depend radio brand scale feed behave pretty charge bridge report song stumble";
+var mnemonic = "green south aspect evolve wreck grunt hurry october awake route gaze leisure";

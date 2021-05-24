@@ -1,1 +1,1 @@
-var mnemonic = "mean senior ostrich then winter tattoo drive stone rebuild call noodle drink";
+var mnemonic = "start service please property liberty crime crime beach razor vital wrong ocean";

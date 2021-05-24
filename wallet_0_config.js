@@ -1,1 +1,1 @@
-var mnemonic = "stuff pact pitch include people gap pioneer leader dune sock there squeeze";
+var mnemonic = "cactus zoo master dinner monitor orient sunny tell south near uncover cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "found globe tissue myth civil crucial lonely year access image theory curious";
+var mnemonic = "hour hair differ any always bike cricket plastic extra bag album visual";

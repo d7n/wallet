@@ -1,1 +1,1 @@
-var mnemonic = "hamster monitor access vital quick twenty borrow knife balance fatigue amazing outer";
+var mnemonic = "shuffle identify real guess dust tenant candy zebra concert spring wool receive";

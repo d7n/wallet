@@ -1,1 +1,1 @@
-var mnemonic = "monster clump steel ritual shy enter eternal echo skill reopen shoot mixture";
+var mnemonic = "library skate couple cushion host guide weapon finish stock mosquito hub neglect";

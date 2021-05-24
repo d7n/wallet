@@ -1,1 +1,1 @@
-var mnemonic = "twin symptom glad giant dose bean rate pattern tide genius digital become";
+var mnemonic = "spend unable fish device decide blade scare train naive hidden surround fruit";

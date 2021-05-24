@@ -1,1 +1,1 @@
-var mnemonic = "woman matter lamp hidden science awesome absorb ship estate brand wonder elegant";
+var mnemonic = "couple depth grow fatal nest foil ugly differ final check whale uncover";

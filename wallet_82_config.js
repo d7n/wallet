@@ -1,1 +1,1 @@
-var mnemonic = "wheel have blouse foster bench work purse truck rich captain hen pigeon";
+var mnemonic = "sibling sadness give husband hope alone energy oven horse grocery raw faith";

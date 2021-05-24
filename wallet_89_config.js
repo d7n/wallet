@@ -1,1 +1,1 @@
-var mnemonic = "grass zone eternal amazing fine rice blade law grant theory layer seminar";
+var mnemonic = "rent broken cruise raise stuff correct pact next neglect ask rabbit typical";

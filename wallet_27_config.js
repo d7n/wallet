@@ -1,1 +1,1 @@
-var mnemonic = "shoulder fancy fan uniform wool window debate eye track once region script";
+var mnemonic = "payment fabric token bounce emerge enough spare oil shoe speed blue control";

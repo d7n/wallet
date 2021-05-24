@@ -1,1 +1,1 @@
-var mnemonic = "order boring adapt decline account churn all flight heavy ostrich address mosquito";
+var mnemonic = "soon wagon execute carry gasp puppy loud milk rely apple sniff music";

@@ -1,1 +1,1 @@
-var mnemonic = "first sand quote fence alter rice gallery use theory cause vital moment";
+var mnemonic = "sister art vault gate oven want early diesel fruit velvet silver struggle";

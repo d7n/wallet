@@ -1,1 +1,1 @@
-var mnemonic = "series melody senior wreck ask size fine state speak circle relief better";
+var mnemonic = "lend rigid excuse opinion upon win wrist bid quote session prosper master";

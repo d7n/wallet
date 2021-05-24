@@ -1,1 +1,1 @@
-var mnemonic = "fatigue danger cloud latin curtain sense planet leaf citizen fancy begin track";
+var mnemonic = "delay govern brother spring idea spring rough leader aerobic exist kid discover";

@@ -1,1 +1,1 @@
-var mnemonic = "trap spot empower deer exhaust town sun foil wasp pink dish slight";
+var mnemonic = "ozone learn debris vacant scorpion original short blush give name casual bread";

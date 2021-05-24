@@ -1,1 +1,1 @@
-var mnemonic = "mosquito robust wave another ancient uphold isolate inch glad spoil candy yellow";
+var mnemonic = "wage only motion above cousin brand mango concert device crumble rebuild harbor";

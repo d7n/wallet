@@ -1,1 +1,1 @@
-var mnemonic = "victory salad shift ginger radar error client unhappy bag affair effort sentence";
+var mnemonic = "mosquito vapor upper cover dress zoo embody muffin inner radar area promote";

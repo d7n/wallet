@@ -1,1 +1,1 @@
-var mnemonic = "cream long barrel math reform uncle hockey keen task execute traffic chapter";
+var mnemonic = "ticket crystal fortune concert memory define tide grass outer sphere exit cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate exile toy tennis embrace boy improve fence payment tiny desk upper";
+var mnemonic = "sight walnut type huge eternal custom enact ceiling staff merry illegal cable";

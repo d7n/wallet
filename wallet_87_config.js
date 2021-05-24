@@ -1,1 +1,1 @@
-var mnemonic = "treat doll embrace visual tunnel million genius peanut coast humble decade weird";
+var mnemonic = "category student appear sunny lamp stick lab shoe deal off guess lunch";

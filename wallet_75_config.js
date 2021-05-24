@@ -1,1 +1,1 @@
-var mnemonic = "limit identify leg blur blouse science vote surface brief tattoo gun leader";
+var mnemonic = "joy document dwarf blossom banner capable carry point hope wrap notice elegant";

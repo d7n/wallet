@@ -1,1 +1,1 @@
-var mnemonic = "supreme alcohol earth area arrange ostrich crop govern person canoe estate door";
+var mnemonic = "opera oil humor indoor exhaust sudden category robot salon fly cross gym";

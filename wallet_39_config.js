@@ -1,1 +1,1 @@
-var mnemonic = "divert junk churn kite usage reflect enroll velvet slice swap smoke monster";
+var mnemonic = "million key feed clay toast bag protect swear baby cute daughter faint";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar battle panther dove fish fault ridge rubber quality perfect slice promote";
+var mnemonic = "gospel raccoon improve leisure innocent aware chest better obscure sunny retire vintage";

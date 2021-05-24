@@ -1,1 +1,1 @@
-var mnemonic = "book emotion evil daring right benefit mesh proof release chapter language slush";
+var mnemonic = "media grief plate goose play field proud exchange defense topic scan sleep";

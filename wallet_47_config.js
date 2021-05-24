@@ -1,1 +1,1 @@
-var mnemonic = "dance quiz upgrade journey fringe pause deposit front army ginger crumble stone";
+var mnemonic = "topple grit remove now rural total put before raccoon cry system hotel";

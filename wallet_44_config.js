@@ -1,1 +1,1 @@
-var mnemonic = "blame arm pond hidden clip same remain potato siren draft climb olympic";
+var mnemonic = "farm leader release powder invite token strong unable share world urban machine";

@@ -1,1 +1,1 @@
-var mnemonic = "adult april popular answer middle movie ghost furnace creek staff airport tattoo";
+var mnemonic = "achieve across custom cradle ahead sword option obscure sell vacuum cook arrange";

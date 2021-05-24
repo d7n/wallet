@@ -1,1 +1,1 @@
-var mnemonic = "amateur season ladder one milk proof charge shoe gesture humor theme drop";
+var mnemonic = "stadium own slot broccoli heavy valve cigar festival broccoli farm marine shine";

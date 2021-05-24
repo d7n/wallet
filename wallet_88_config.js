@@ -1,1 +1,1 @@
-var mnemonic = "hurt borrow novel clarify social august gallery topic tree pink time wrap";
+var mnemonic = "mask live spare caution since plastic damp client spoil lion atom chapter";

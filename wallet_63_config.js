@@ -1,1 +1,1 @@
-var mnemonic = "monitor bundle prize slush fly echo tail cinnamon zoo pause gather scheme";
+var mnemonic = "blind evidence spice kick success enrich follow letter range neutral expect social";

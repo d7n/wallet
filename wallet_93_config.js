@@ -1,1 +1,1 @@
-var mnemonic = "demise stem owner follow fall orchard social vicious process vocal name physical";
+var mnemonic = "ecology into focus gun swap indoor reflect protect delay hour alien solid";

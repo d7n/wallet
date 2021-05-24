@@ -1,1 +1,1 @@
-var mnemonic = "air govern rabbit symbol swear merge wing narrow scrap panel drastic rabbit";
+var mnemonic = "fatal race egg equip impact carry double across view afford kiwi victory";

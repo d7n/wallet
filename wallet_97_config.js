@@ -1,1 +1,1 @@
-var mnemonic = "faith gate monkey ticket offer jump spirit anger obtain antenna improve tobacco";
+var mnemonic = "city leader bacon sport tattoo lawn tray magnet hazard method aerobic galaxy";

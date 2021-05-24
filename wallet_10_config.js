@@ -1,1 +1,1 @@
-var mnemonic = "portion deny luxury ride deputy naive hero kidney bag dog label easily";
+var mnemonic = "agree pilot giant hospital resist eagle family coach blast rib result crew";

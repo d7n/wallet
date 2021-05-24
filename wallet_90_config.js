@@ -1,1 +1,1 @@
-var mnemonic = "diagram begin law net weather payment injury simple online crazy wet six";
+var mnemonic = "silent gasp silk milk glass certain subway furnace fringe mad intact write";

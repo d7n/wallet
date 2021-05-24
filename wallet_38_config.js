@@ -1,1 +1,1 @@
-var mnemonic = "picture utility planet horn nose depend aspect fog credit gift away give";
+var mnemonic = "much will bundle client green present raven page permit undo lecture bitter";

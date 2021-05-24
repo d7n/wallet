@@ -1,1 +1,1 @@
-var mnemonic = "clay dynamic visual million cabbage motor purchase put meadow option enact client";
+var mnemonic = "trap simple hazard device amazing plunge romance excite want butter drill major";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics treat file tent stove army suit neutral home file copy aware";
+var mnemonic = "random open staff need tank club fly genius fitness right photo alter";

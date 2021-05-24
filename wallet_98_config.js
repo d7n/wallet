@@ -1,1 +1,1 @@
-var mnemonic = "tired rent laugh swamp gold net kangaroo train puppy mixture have shoe";
+var mnemonic = "chest explain educate true axis floor address melody gift stable nature double";

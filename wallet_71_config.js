@@ -1,1 +1,1 @@
-var mnemonic = "chair stay august toast equip detail annual lonely suggest unlock invite hard";
+var mnemonic = "this shuffle shrug civil warm tobacco usual mammal labor gravity rain vocal";

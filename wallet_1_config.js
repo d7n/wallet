@@ -1,1 +1,1 @@
-var mnemonic = "history private type frost indicate donor claw crew denial assume muffin come";
+var mnemonic = "crane chunk rose loud limb future hundred hub yellow setup hybrid agree";
