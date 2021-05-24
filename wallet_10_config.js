@@ -1,1 +1,1 @@
-var mnemonic = "assist problem accident rely legend flock solve fresh cheese glory give render";
+var mnemonic = "interest tourist hurry banana wonder ostrich fragile comfort zoo song south drastic";

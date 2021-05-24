@@ -1,1 +1,1 @@
-var mnemonic = "crunch suit switch harvest engage fish burden liquid urge nuclear flip gym";
+var mnemonic = "document flavor spike gentle gap tone ski slim useless search law stairs";

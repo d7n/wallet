@@ -1,1 +1,1 @@
-var mnemonic = "honey fold swamp cat abuse lobster hard artefact tiger hobby extend south";
+var mnemonic = "metal ask camp screen slab indoor tilt else circle bean oblige mirror";

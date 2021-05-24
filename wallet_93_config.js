@@ -1,1 +1,1 @@
-var mnemonic = "nature useful message dad cactus cave trophy property wife timber because buddy";
+var mnemonic = "before section corn trophy aware save thunder vital village stem miss advance";

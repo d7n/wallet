@@ -1,1 +1,1 @@
-var mnemonic = "dust about suffer insect fortune oppose mask anchor uniform sun crop wet";
+var mnemonic = "fit pink lion goose pilot learn menu depth fade motor grit decade";

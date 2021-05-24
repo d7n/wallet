@@ -1,1 +1,1 @@
-var mnemonic = "kingdom network siren alter knee vivid view wing prevent clump float recycle";
+var mnemonic = "own miss cigar blouse add globe network tiny muffin goddess tilt frame";

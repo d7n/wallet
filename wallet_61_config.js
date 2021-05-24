@@ -1,1 +1,1 @@
-var mnemonic = "ripple plug phone cherry spot marine diesel solution setup sniff drum reward";
+var mnemonic = "bronze six crush giraffe mutual artwork goddess devote switch bind piece taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "child transfer eye pizza violin thunder hour expect bitter butter eyebrow appear";
+var mnemonic = "brass critic desk maple decrease obtain electric boil risk among oblige beyond";

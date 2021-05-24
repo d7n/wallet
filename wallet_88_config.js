@@ -1,1 +1,1 @@
-var mnemonic = "erupt speak flee joy kidney peasant aspect canal brush life brass conduct";
+var mnemonic = "ordinary primary page bright carry display fortune pave sense iron drive valve";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond item hip battle brief vanish opera swear situate remove plastic bonus";
+var mnemonic = "arch real agent point tonight brick turn conduct foot same turkey return";

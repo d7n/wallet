@@ -1,1 +1,1 @@
-var mnemonic = "absorb twin test thought blind later cheese music cost stone innocent twice";
+var mnemonic = "field solution secret half tennis rule amazing drink ladder debris surround object";

@@ -1,1 +1,1 @@
-var mnemonic = "crash debate head fit talk civil cluster crystal gauge garage tornado bless";
+var mnemonic = "glass black island disorder squirrel ladder motion cart expose fun sauce nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "soup prison approve marine above van opinion insect blur genius debate divorce";
+var mnemonic = "addict convince mask fade original transfer gadget meat loud again love tourist";

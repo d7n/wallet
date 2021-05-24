@@ -1,1 +1,1 @@
-var mnemonic = "scrap actor entry strategy start damage parent capable pulse achieve goat fox";
+var mnemonic = "valve vote globe dial student beef knife deputy toy put illegal mixture";

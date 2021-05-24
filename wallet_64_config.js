@@ -1,1 +1,1 @@
-var mnemonic = "diary useful damage awful observe twenty trash audit atom guilt marriage pride";
+var mnemonic = "juice dash glad shuffle grid true aware canvas toy vintage put trash";

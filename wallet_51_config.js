@@ -1,1 +1,1 @@
-var mnemonic = "hybrid transfer dumb mixture tiny obvious avocado nuclear effort mail project spread";
+var mnemonic = "layer panel engage tuna attract feed voice thumb dolphin head april picture";

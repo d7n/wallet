@@ -1,1 +1,1 @@
-var mnemonic = "feature easily exclude supply ketchup census slush warm robust horror decline indoor";
+var mnemonic = "capable child canyon library describe runway crucial decrease shove error almost child";

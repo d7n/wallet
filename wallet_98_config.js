@@ -1,1 +1,1 @@
-var mnemonic = "soldier describe brother theme large they develop iron cup hole patrol goose";
+var mnemonic = "holiday regular amount defense celery exhaust glimpse bunker bulk olive connect side";

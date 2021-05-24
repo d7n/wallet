@@ -1,1 +1,1 @@
-var mnemonic = "arrow reject satisfy result flee void pause route boost tornado mystery return";
+var mnemonic = "sister weapon train tray endless scene embrace latin grid unusual say amount";

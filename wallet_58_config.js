@@ -1,1 +1,1 @@
-var mnemonic = "evoke shrimp tube sound dice absorb news tunnel cage renew voyage rough";
+var mnemonic = "solid alone candy electric erase hour kid cover normal ticket rude bus";

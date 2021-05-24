@@ -1,1 +1,1 @@
-var mnemonic = "kingdom option burst often oak snow lens increase need hello aim glad";
+var mnemonic = "bargain drill tell burst small promote flower acoustic chapter erosion disagree volume";

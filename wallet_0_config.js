@@ -1,1 +1,1 @@
-var mnemonic = "learn now soul upgrade bronze sleep brain tape song price cat degree";
+var mnemonic = "embark morning vibrant cricket boil scrap bacon sample direct use zoo labor";

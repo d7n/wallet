@@ -1,1 +1,1 @@
-var mnemonic = "confirm easy consider that must celery sunny syrup decrease asset embody space";
+var mnemonic = "risk tongue loan fatigue tool sword barely release remember fox notable noodle";

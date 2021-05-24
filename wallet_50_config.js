@@ -1,1 +1,1 @@
-var mnemonic = "toddler liberty broccoli afraid august core habit intact agree rigid fade attack";
+var mnemonic = "grief grid service people garden goddess emotion wrap wear chat mansion shaft";

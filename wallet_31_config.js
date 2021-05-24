@@ -1,1 +1,1 @@
-var mnemonic = "park endless drink chaos happy select spray exercise tilt rhythm purse easy";
+var mnemonic = "claim tobacco flat tide prosper harbor parrot mad exact squirrel drip print";

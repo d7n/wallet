@@ -1,1 +1,1 @@
-var mnemonic = "strike fortune magnet grape inject mercy patch hole sure camp gate notable";
+var mnemonic = "bronze gauge garden judge pear robust tree slender cinnamon confirm antique seat";

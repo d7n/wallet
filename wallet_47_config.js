@@ -1,1 +1,1 @@
-var mnemonic = "during describe picnic else group chuckle maximum fit filter rather observe around";
+var mnemonic = "path main zone bench proud police unusual vocal mad exist border page";

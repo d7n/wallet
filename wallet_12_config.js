@@ -1,1 +1,1 @@
-var mnemonic = "asthma soldier clean happy trumpet custom short october present coffee exact harsh";
+var mnemonic = "slender purpose proof parade output offer horn patient fossil ill tragic hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "clap accident next napkin upon fog fly mosquito away novel grow trigger";
+var mnemonic = "budget drama earth often section rail sibling wave poem away vacant vintage";

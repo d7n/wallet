@@ -1,1 +1,1 @@
-var mnemonic = "try burger alley hello theory belt onion uniform canyon brother mandate better";
+var mnemonic = "balcony month tape dilemma fix earth middle tennis rather peace buffalo essence";

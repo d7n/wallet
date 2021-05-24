@@ -1,1 +1,1 @@
-var mnemonic = "easily inner piece identify evoke odor joke message idle century audit because";
+var mnemonic = "modify girl rack cargo lecture reason ecology receive mutual bunker travel doll";

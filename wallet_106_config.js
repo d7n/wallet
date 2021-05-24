@@ -1,1 +1,1 @@
-var mnemonic = "rent cake analyst grass coyote music lawn save jacket arm immune bright";
+var mnemonic = "myself blind click into erosion puppy deal maple canal equip course toy";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt earth acquire expose tell book trick genuine kit uncle regular ghost";
+var mnemonic = "pelican resemble road give unhappy urge gun aspect tragic venue able cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "awake indoor city hammer float bounce live banana honey tuition youth silent";
+var mnemonic = "cage flee inform stuff trap brush minimum settle token blast sustain side";

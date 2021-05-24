@@ -1,1 +1,1 @@
-var mnemonic = "bullet language rhythm alter acquire climb chunk call pumpkin buffalo alpha bunker";
+var mnemonic = "fence pizza trumpet wage chaos toddler discover novel uncover unusual dad hole";

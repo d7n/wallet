@@ -1,1 +1,1 @@
-var mnemonic = "mouse muffin portion cart excess lion group maximum wagon setup voyage situate";
+var mnemonic = "credit script tornado okay bless narrow rhythm leopard muffin point tribe recall";

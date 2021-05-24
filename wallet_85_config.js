@@ -1,1 +1,1 @@
-var mnemonic = "skin online weekend coral dynamic refuse hamster violin better inspire bracket point";
+var mnemonic = "piano clog lucky rate screen beef relax runway tiny mesh disagree impose";

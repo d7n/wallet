@@ -1,1 +1,1 @@
-var mnemonic = "insect morning truly echo project supply employ erode increase carry warrior satisfy";
+var mnemonic = "toilet patch bird cheap become gold absurd clever share wage swing lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition misery embrace tribe valley nominee siren arrow poem capital wide glass";
+var mnemonic = "clog kite cabin donkey radar flight earth panther skate fiber turn gold";

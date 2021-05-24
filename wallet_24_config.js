@@ -1,1 +1,1 @@
-var mnemonic = "diary valid orphan apology grow laugh capital filter fall wide shield punch";
+var mnemonic = "sample pulp remove slight fresh erosion girl float document abandon penalty remind";

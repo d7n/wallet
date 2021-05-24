@@ -1,1 +1,1 @@
-var mnemonic = "control foam under congress old library kitchen aspect cruise tiny dish slush";
+var mnemonic = "security wink infant evil sock merit safe chair mirror artefact hobby goat";

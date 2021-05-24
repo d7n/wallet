@@ -1,1 +1,1 @@
-var mnemonic = "argue leader mind river animal clip attend trust portion globe busy afraid";
+var mnemonic = "narrow wrap raven coyote engine million option rhythm corn autumn celery affair";

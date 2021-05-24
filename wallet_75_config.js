@@ -1,1 +1,1 @@
-var mnemonic = "clap abandon keen zone stick calm rude riot cart mule moment armed";
+var mnemonic = "indoor misery better siege month veteran bind lounge party legend idle become";

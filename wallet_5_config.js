@@ -1,1 +1,1 @@
-var mnemonic = "turkey cannon garment critic already domain media wait inspire layer hospital area";
+var mnemonic = "mention sudden display cry cactus annual wash honey now ship brown wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "future solid evil man sock audit cute miss dirt truly bullet easy";
+var mnemonic = "motor doll romance trouble drastic inch initial employ bird estate emerge pink";

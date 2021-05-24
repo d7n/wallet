@@ -1,1 +1,1 @@
-var mnemonic = "chicken crane math very amused adjust job blame will gadget pilot impact";
+var mnemonic = "test debate siege case chapter sleep arrow core planet direct crumble horse";

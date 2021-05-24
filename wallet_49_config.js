@@ -1,1 +1,1 @@
-var mnemonic = "connect knee bench deputy clay space cake fury hour hire silent olive";
+var mnemonic = "satisfy east direct gasp kangaroo borrow level treat romance reduce pelican dish";

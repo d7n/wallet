@@ -1,1 +1,1 @@
-var mnemonic = "team ticket alley rather music dynamic smart jar flower view pair diet";
+var mnemonic = "maid doll swift special cotton cross clock siege pulse melt disorder blast";

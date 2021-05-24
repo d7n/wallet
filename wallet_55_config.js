@@ -1,1 +1,1 @@
-var mnemonic = "enrich leave manual fault where mango taste master dismiss search garden tone";
+var mnemonic = "organ shoulder art one surface grunt super public involve sentence account treat";

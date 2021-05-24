@@ -1,1 +1,1 @@
-var mnemonic = "stem runway stable stairs novel unlock damage grape someone fantasy chuckle spice";
+var mnemonic = "stomach book round notable nose oven mad inmate that equip connect angry";

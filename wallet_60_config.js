@@ -1,1 +1,1 @@
-var mnemonic = "spend horn garbage era catalog art action nominee kind action toward bitter";
+var mnemonic = "click ship large dolphin lawn fire portion come jeans man bicycle risk";

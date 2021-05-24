@@ -1,1 +1,1 @@
-var mnemonic = "play element hockey right ball spell cabbage child company churn bubble act";
+var mnemonic = "shadow tobacco limb manual weasel ghost relief material stone dry slot pig";

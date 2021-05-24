@@ -1,1 +1,1 @@
-var mnemonic = "eagle empty deny bronze snake legend bitter wave glory trumpet shield dice";
+var mnemonic = "arrive timber behave magnet tennis true find voyage bargain hobby lazy save";

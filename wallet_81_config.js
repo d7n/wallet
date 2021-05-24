@@ -1,1 +1,1 @@
-var mnemonic = "guilt brand erupt bar club typical wish educate giant ripple test dog";
+var mnemonic = "satoshi cat curtain snake shock devote note trend gospel dial enroll adjust";

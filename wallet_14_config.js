@@ -1,1 +1,1 @@
-var mnemonic = "hurry suffer vintage sound silly pact lunar cloud bundle carbon agree canoe";
+var mnemonic = "lesson angry arrest patch journey mosquito coyote dust appear riot public salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "theory steak eager spot quality amateur deer sleep garbage world quiz motor";
+var mnemonic = "smile feature excuse eyebrow reopen educate north square lawn together carbon hero";

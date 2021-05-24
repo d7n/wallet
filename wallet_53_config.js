@@ -1,1 +1,1 @@
-var mnemonic = "announce disorder coconut frown bamboo proud sell beach pelican figure property mushroom";
+var mnemonic = "tongue brass install cave model raven broom juice want old stamp reveal";

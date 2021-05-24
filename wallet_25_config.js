@@ -1,1 +1,1 @@
-var mnemonic = "display sick credit earn budget tornado slender alpha weather camera current suggest";
+var mnemonic = "relief again juice double breeze distance glue exact second monitor current spare";

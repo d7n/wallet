@@ -1,1 +1,1 @@
-var mnemonic = "end spot abandon dumb unlock forward bundle west mixed project raccoon blur";
+var mnemonic = "unusual melt couple panel little sand estate finger that differ hope dish";

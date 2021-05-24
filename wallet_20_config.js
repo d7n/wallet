@@ -1,1 +1,1 @@
-var mnemonic = "fit come blood spirit game board napkin food extend whip unlock cry";
+var mnemonic = "parent lens what betray night embody conduct pull yellow submit cream panic";

@@ -1,1 +1,1 @@
-var mnemonic = "dose virus glare smoke example sword warm melt mimic bargain suspect license";
+var mnemonic = "zone lawn fancy fall insect awake issue fatal home steak vibrant sound";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge dinosaur plunge scout heart certain split medal design amused sorry canvas";
+var mnemonic = "toy tourist speak real cat swing pioneer holiday fly shiver firm warrior";

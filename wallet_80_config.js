@@ -1,1 +1,1 @@
-var mnemonic = "misery board have orphan combine learn unfair shiver wrong anger scrub coil";
+var mnemonic = "year myself nose chimney soup street favorite novel lamp island saddle task";

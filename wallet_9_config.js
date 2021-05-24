@@ -1,1 +1,1 @@
-var mnemonic = "bus city grocery memory call mechanic drift senior bright access canyon view";
+var mnemonic = "flush loyal autumn boss ocean cannon purse inform define guess cry live";

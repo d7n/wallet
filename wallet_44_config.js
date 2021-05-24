@@ -1,1 +1,1 @@
-var mnemonic = "tornado want scare dust keen vocal space tank achieve romance prefer slight";
+var mnemonic = "pass entry avoid stock truck kick cave business clock ketchup reward fork";

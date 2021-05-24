@@ -1,1 +1,1 @@
-var mnemonic = "response van cheese trash mammal man category settle hammer miss humor museum";
+var mnemonic = "behave crack reunion huge reunion exact saddle forward armed birth mix acoustic";

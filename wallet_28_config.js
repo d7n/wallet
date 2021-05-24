@@ -1,1 +1,1 @@
-var mnemonic = "lift absurd hidden lava hand usage twice night oppose enable glare left";
+var mnemonic = "include expire stool lizard letter diary receive mixture enroll insane cherry honey";

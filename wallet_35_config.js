@@ -1,1 +1,1 @@
-var mnemonic = "harsh involve patch cannon harvest relax brother cabin shy differ design view";
+var mnemonic = "device debate method season add chuckle tooth breeze marriage life cigar state";

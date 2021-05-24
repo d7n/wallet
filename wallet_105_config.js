@@ -1,1 +1,1 @@
-var mnemonic = "obscure pupil garage puzzle multiply vital face antique they sun subject pet";
+var mnemonic = "climb suspect token alert energy sign depend almost decrease mirror merry area";

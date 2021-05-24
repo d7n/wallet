@@ -1,1 +1,1 @@
-var mnemonic = "year desert supreme super peace cover rule apple play casino true foster";
+var mnemonic = "consider forward seminar repair language light lounge way act depth cage fork";

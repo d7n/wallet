@@ -1,1 +1,1 @@
-var mnemonic = "ticket entry candy song odor fly hen plate mushroom steel airport coffee";
+var mnemonic = "shaft better fish thank tooth follow mail country custom point market answer";

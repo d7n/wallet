@@ -1,1 +1,1 @@
-var mnemonic = "program flash innocent beef cart year emerge tomorrow flavor denial brown brick";
+var mnemonic = "expire ignore differ glory portion ribbon fringe food benefit people choice trial";

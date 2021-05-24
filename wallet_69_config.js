@@ -1,1 +1,1 @@
-var mnemonic = "panda suspect mule cheese genre elegant inhale flower sentence turkey hold property";
+var mnemonic = "found mutual glove debate space gold voice balcony raccoon dignity pattern speed";

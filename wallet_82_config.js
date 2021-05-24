@@ -1,1 +1,1 @@
-var mnemonic = "universe base crime under woman assault north special syrup wheel dignity satoshi";
+var mnemonic = "execute lift laptop dismiss teach illegal knee cloth recall half actor other";

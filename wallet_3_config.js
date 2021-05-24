@@ -1,1 +1,1 @@
-var mnemonic = "tired retire tuition person genius limit forget rescue poverty creek pave stuff";
+var mnemonic = "unhappy vault kiss bring problem summer jump path oppose thunder promote motor";

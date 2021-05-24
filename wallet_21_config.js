@@ -1,1 +1,1 @@
-var mnemonic = "february spirit nuclear relief civil rifle side liberty system update depend conduct";
+var mnemonic = "affair mom salon list invest model worry april section motor law bulb";

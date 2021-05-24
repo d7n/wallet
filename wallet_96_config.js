@@ -1,1 +1,1 @@
-var mnemonic = "strong logic fiber eagle melody life dentist involve urge damage finish spot";
+var mnemonic = "coach near apart beauty allow chalk pear gate glare cram frame novel";

@@ -1,1 +1,1 @@
-var mnemonic = "else grit try awful add treat strategy copper garment glow annual aim";
+var mnemonic = "misery reduce vivid ask ranch prosper romance pepper mirror length basket happy";

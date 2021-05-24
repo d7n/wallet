@@ -1,1 +1,1 @@
-var mnemonic = "enable village bridge winner play office mushroom number crop razor minor deny";
+var mnemonic = "blade habit symptom cluster attend juice feature step load drink flush secret";

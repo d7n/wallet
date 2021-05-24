@@ -1,1 +1,1 @@
-var mnemonic = "spray vacant sentence dignity admit planet setup model beach jazz notice another";
+var mnemonic = "collect home garden gas regular pact symbol nasty vehicle antenna beauty ritual";

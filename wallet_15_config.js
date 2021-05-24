@@ -1,1 +1,1 @@
-var mnemonic = "fun arrive spell auto season combine train day motor soup tunnel satisfy";
+var mnemonic = "state circle olive loud tribe label trumpet proof lobster wasp spread crash";

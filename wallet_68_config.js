@@ -1,1 +1,1 @@
-var mnemonic = "female carpet donor hamster wood must attack law street trigger family practice";
+var mnemonic = "midnight option subway gold such chuckle rabbit fantasy layer step path squirrel";

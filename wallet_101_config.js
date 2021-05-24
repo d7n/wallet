@@ -1,1 +1,1 @@
-var mnemonic = "shiver decide inch diesel family hedgehog bronze tomorrow modify comic sun include";
+var mnemonic = "object reason future armed wash relief truck fiber enroll winner adapt answer";

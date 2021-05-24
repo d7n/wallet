@@ -1,1 +1,1 @@
-var mnemonic = "brush gown brisk stairs divert valve ball wear tumble fit tip make";
+var mnemonic = "increase ice exotic vocal genius erase salad patient inner frame reveal habit";

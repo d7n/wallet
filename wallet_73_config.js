@@ -1,1 +1,1 @@
-var mnemonic = "paper region envelope cage sea critic fringe nerve level chef tumble shiver";
+var mnemonic = "auto sick tomorrow slab asthma few library jungle knock approve occur grant";

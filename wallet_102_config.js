@@ -1,1 +1,1 @@
-var mnemonic = "panther squeeze soul clown kitten total toe maple put draft clutch subject";
+var mnemonic = "climb laundry behind grocery cart replace bargain when acquire demand degree ecology";

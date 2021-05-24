@@ -1,1 +1,1 @@
-var mnemonic = "ginger office hedgehog woman chief this ketchup slide shallow interest label august";
+var mnemonic = "stadium secret castle fortune solar beyond perfect child lens waste ticket claim";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic change auction depend nut grocery taxi latin repair wild moral develop";
+var mnemonic = "invest cherry dutch cereal earn grape once nasty pulse talent message number";

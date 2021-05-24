@@ -1,1 +1,1 @@
-var mnemonic = "giraffe snake world forward super report denial mother inside theme recall pond";
+var mnemonic = "long jeans bronze defense glance casino pistol super detect light scissors oven";

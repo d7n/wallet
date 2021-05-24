@@ -1,1 +1,1 @@
-var mnemonic = "inflict nature solution pig differ mobile silver similar awake teach foam idea";
+var mnemonic = "obey oxygen museum marriage tree embody world album film cat shaft air";
