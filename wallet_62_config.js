@@ -1,1 +1,1 @@
-var mnemonic = "trade auto knife bridge bind canoe olive minimum velvet worry aspect zero";
+var mnemonic = "stereo sudden cool glance crime enough extend bamboo jar diary breeze furnace";

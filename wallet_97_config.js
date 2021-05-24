@@ -1,1 +1,1 @@
-var mnemonic = "inspire gas announce unlock select crucial define north shift text zone muffin";
+var mnemonic = "various expect six emotion spend worth bachelor ski good tragic caught season";

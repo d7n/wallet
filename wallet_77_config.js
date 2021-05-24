@@ -1,1 +1,1 @@
-var mnemonic = "wall glimpse cargo curve maze source desert injury lizard special train furnace";
+var mnemonic = "radar hybrid print raccoon carbon salad simple wasp test pulse arrange fetch";

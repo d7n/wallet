@@ -1,1 +1,1 @@
-var mnemonic = "just similar science alarm tag vibrant kitchen bench machine mother apple unveil";
+var mnemonic = "fabric ramp series month assault love own spin coin exist mammal message";

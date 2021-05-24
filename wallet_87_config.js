@@ -1,1 +1,1 @@
-var mnemonic = "boat section mother indoor bitter team want bullet hard start guitar edit";
+var mnemonic = "jacket warm picnic gown crouch foam isolate remind evolve spy setup object";

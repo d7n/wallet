@@ -1,1 +1,1 @@
-var mnemonic = "oak twin fiber impact witness spell patrol goddess churn drastic joy uphold";
+var mnemonic = "slide struggle forward mix glory erode carbon favorite parade record language dog";

@@ -1,1 +1,1 @@
-var mnemonic = "denial secret toast kidney carbon sad bid wall dice laptop sure keen";
+var mnemonic = "enhance drastic dolphin title slender absurd sketch pigeon rule mean pole project";

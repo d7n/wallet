@@ -1,1 +1,1 @@
-var mnemonic = "occur young trouble knock olive enter swap physical garbage style purity push";
+var mnemonic = "jaguar mention net unknown shoe prison answer close clip renew vanish play";

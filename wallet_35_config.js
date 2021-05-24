@@ -1,1 +1,1 @@
-var mnemonic = "device attitude manual practice ethics debris federal crucial priority strike royal crumble";
+var mnemonic = "exile century work shed already raccoon oil stick attack outside radio nest";

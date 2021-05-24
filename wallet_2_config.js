@@ -1,1 +1,1 @@
-var mnemonic = "box antique ramp grant age abstract open denial swamp permit fabric cruise";
+var mnemonic = "sure sail orient nasty whip recall budget catalog camera divorce argue galaxy";

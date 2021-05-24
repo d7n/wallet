@@ -1,1 +1,1 @@
-var mnemonic = "cupboard project pretty raw pause region web beef wall salute paddle umbrella";
+var mnemonic = "engage record flash later purchase inspire good horse stock hybrid quit mouse";

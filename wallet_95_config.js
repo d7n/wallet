@@ -1,1 +1,1 @@
-var mnemonic = "scout nest family body subway final unfold suit fantasy sad market luxury";
+var mnemonic = "gesture six just claw peanut pass law useless process shoe dream brave";

@@ -1,1 +1,1 @@
-var mnemonic = "about tenant recall citizen winter breeze fever world stove obey mimic health";
+var mnemonic = "melt outside will skirt bench bus grab holiday pledge position rough once";

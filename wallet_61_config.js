@@ -1,1 +1,1 @@
-var mnemonic = "poem fiscal donate baby split spin neither abuse buffalo divide only cousin";
+var mnemonic = "orchard client pluck door famous void swamp limit stove nephew duty coral";

@@ -1,1 +1,1 @@
-var mnemonic = "consider belt survey caution wide monster prosper echo evoke castle ring fine";
+var mnemonic = "throw flavor solar exhaust desk survey cannon image garlic novel insane job";

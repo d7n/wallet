@@ -1,1 +1,1 @@
-var mnemonic = "similar solution expect ice soccer hurry critic figure happy assume winter cruel";
+var mnemonic = "domain person scrap trade jewel element prefer drill razor snap vintage round";

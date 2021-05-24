@@ -1,1 +1,1 @@
-var mnemonic = "swap congress journey tooth traffic expose tongue axis pair rule dawn sketch";
+var mnemonic = "thought rather vendor food calm coconut coconut ecology monster all spatial armor";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf space solution scene involve piece screen filter gold enforce math also";
+var mnemonic = "patch rule ring gravity around group please ghost lecture cupboard quarter daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "sort canyon breeze deposit over attack brother crash nothing dinosaur rent gym";
+var mnemonic = "bike female meadow green wasp eight truth design label erupt urge lecture";

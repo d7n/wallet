@@ -1,1 +1,1 @@
-var mnemonic = "phone era smart blind brave thought dirt cushion scheme around amused sport";
+var mnemonic = "collect small endless talent crane increase note school effort subject slush adjust";

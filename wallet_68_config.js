@@ -1,1 +1,1 @@
-var mnemonic = "barely permit blossom car find boss peanut auto oil device cage else";
+var mnemonic = "nasty sense trick gauge gallery mandate inform nut sick cause giant welcome";

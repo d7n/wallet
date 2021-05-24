@@ -1,1 +1,1 @@
-var mnemonic = "budget ignore squeeze gasp sound best panther confirm dwarf soup noodle pulp";
+var mnemonic = "view view arch chronic someone hole rule inner scan render ramp kiwi";

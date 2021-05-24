@@ -1,1 +1,1 @@
-var mnemonic = "hamster dream scrub expect drink wheel vacant require swallow ocean cinnamon hurry";
+var mnemonic = "champion captain company raw sad denial alcohol glove excite faith debate rabbit";

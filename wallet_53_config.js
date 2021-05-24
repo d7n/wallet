@@ -1,1 +1,1 @@
-var mnemonic = "spirit music major control note track buzz oak extend globe cart absorb";
+var mnemonic = "crush fiber tonight confirm work entire window surprise skill tiny supreme bring";

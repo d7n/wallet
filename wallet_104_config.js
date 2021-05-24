@@ -1,1 +1,1 @@
-var mnemonic = "lend phone pistol raw view sea penalty ginger circle rice robot ozone";
+var mnemonic = "chest caution egg episode hour million indoor come menu suit arch equip";

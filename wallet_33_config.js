@@ -1,1 +1,1 @@
-var mnemonic = "mean goddess trap carbon ring endorse escape nuclear digital media isolate mixture";
+var mnemonic = "trophy debris edge struggle dignity weekend balance morning abuse before pupil identify";

@@ -1,1 +1,1 @@
-var mnemonic = "twice card mandate oak room donor cover give mixture expose addict artefact";
+var mnemonic = "food direct day tourist dust arrange photo state cup wine kitten reunion";

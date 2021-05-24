@@ -1,1 +1,1 @@
-var mnemonic = "merge same often tray boss rich fiction woman alert light hospital social";
+var mnemonic = "deny inhale slot snake clump topic purity snow sheriff carpet anchor carbon";

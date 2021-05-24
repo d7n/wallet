@@ -1,1 +1,1 @@
-var mnemonic = "teach legal cloud banana fetch motion cheese practice chuckle crowd fashion shrug";
+var mnemonic = "rabbit obey movie intact brand faith chapter girl board depth expire immense";

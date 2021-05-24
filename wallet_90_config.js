@@ -1,1 +1,1 @@
-var mnemonic = "execute safe duck fall raven vendor truck camp cart cradle thing refuse";
+var mnemonic = "spot faith believe pride amount quit open diesel rail exile fragile sport";

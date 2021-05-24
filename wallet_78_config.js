@@ -1,1 +1,1 @@
-var mnemonic = "fix uncover nature cloud solution slice disorder grid gentle maid faith rail";
+var mnemonic = "cactus artefact once install abstract avoid novel lens gift crouch wet narrow";

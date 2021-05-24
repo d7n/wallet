@@ -1,1 +1,1 @@
-var mnemonic = "reform harbor cement slim act blame exchange warrior body enjoy logic above";
+var mnemonic = "excess caught wisdom guess seminar web blame skill purity kick remove achieve";

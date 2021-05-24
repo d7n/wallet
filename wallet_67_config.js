@@ -1,1 +1,1 @@
-var mnemonic = "mosquito cause miracle eight occur relax ahead vault drift patch fork tenant";
+var mnemonic = "scatter brother material team angle distance mansion fame infant churn sound exact";

@@ -1,1 +1,1 @@
-var mnemonic = "once ring engine oak eternal invite toward squeeze input hybrid fruit sound";
+var mnemonic = "talent repair gold depth adjust lake boost romance praise claim sign razor";

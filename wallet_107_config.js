@@ -1,1 +1,1 @@
-var mnemonic = "number trust budget observe sister slice author group labor slam thank garbage";
+var mnemonic = "misery aspect already history drama pumpkin worry address text toast virus super";

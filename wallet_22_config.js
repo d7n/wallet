@@ -1,1 +1,1 @@
-var mnemonic = "park myself tourist sing silly nose clever lizard alone lizard afraid response";
+var mnemonic = "index organ drift month sweet park wage donate wall true detect vote";

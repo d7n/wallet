@@ -1,1 +1,1 @@
-var mnemonic = "live glove river boat cave frost pass now hobby yard must bicycle";
+var mnemonic = "loan short wood artefact hat able tiny sponsor hard rocket leisure employ";

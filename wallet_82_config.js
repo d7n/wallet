@@ -1,1 +1,1 @@
-var mnemonic = "chunk kick provide milk gallery suggest empower empower panic atom volcano apart";
+var mnemonic = "roast sudden ship glare tuition cushion sea jump theme creek floor soon";

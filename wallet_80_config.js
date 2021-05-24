@@ -1,1 +1,1 @@
-var mnemonic = "phrase rug loan worth story giant addict disorder deer banana hello word";
+var mnemonic = "grow door gadget plastic strong page renew cheese brave butter cry spread";

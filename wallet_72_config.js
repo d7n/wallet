@@ -1,1 +1,1 @@
-var mnemonic = "price increase strategy toe used bundle path rich wonder report forget pretty";
+var mnemonic = "oyster black license travel add cushion beauty trash donkey print offer city";

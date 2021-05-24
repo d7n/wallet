@@ -1,1 +1,1 @@
-var mnemonic = "lazy autumn arm govern discover beach follow moment brain position rally infant";
+var mnemonic = "hurry innocent case buddy taste misery uncle coyote toward mention olive dial";

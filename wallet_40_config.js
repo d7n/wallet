@@ -1,1 +1,1 @@
-var mnemonic = "strong supply occur anger raise fantasy zebra meadow deposit brand sphere bitter";
+var mnemonic = "magic juice either between coral swim elevator knife neither rent obtain belt";

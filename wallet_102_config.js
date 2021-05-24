@@ -1,1 +1,1 @@
-var mnemonic = "flight across silly riot february avoid hold amused dog history height when";
+var mnemonic = "zone again nature tooth two globe edge since fan disorder broom wise";

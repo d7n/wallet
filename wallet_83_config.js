@@ -1,1 +1,1 @@
-var mnemonic = "category puppy disorder scorpion muscle power anxiety junior capital whisper history layer";
+var mnemonic = "salute episode shift also measure dutch minute trigger nephew laugh depth essay";

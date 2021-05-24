@@ -1,1 +1,1 @@
-var mnemonic = "analyst trade idle birth that claw axis health ask fitness measure demise";
+var mnemonic = "spread upset fan million fashion unusual excuse car suffer poet lady endless";

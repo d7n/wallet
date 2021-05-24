@@ -1,1 +1,1 @@
-var mnemonic = "wagon humor author agree attack exist charge sentence foster nice close travel";
+var mnemonic = "wish august fuel anxiety version bitter salad envelope pistol amused cave dry";

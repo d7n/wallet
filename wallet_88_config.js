@@ -1,1 +1,1 @@
-var mnemonic = "food garden pave warm search process tornado wave upset lamp window head";
+var mnemonic = "draft cradle bench garage brown check dune duck bottom amazing cool indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "horn world lobster before pact exile swallow begin alcohol lobster junior unaware";
+var mnemonic = "height piano struggle intact fiction oyster problem student heart screen isolate alley";

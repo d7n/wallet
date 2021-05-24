@@ -1,1 +1,1 @@
-var mnemonic = "sing praise shiver tooth enable night balance bottom devote jelly wheel all";
+var mnemonic = "say typical cook faith bicycle refuse grain canoe series rich shell oyster";

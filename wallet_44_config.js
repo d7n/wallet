@@ -1,1 +1,1 @@
-var mnemonic = "estate spray knock anxiety genuine thought notable nurse assume tattoo evil auto";
+var mnemonic = "arrange ski turtle silent mouse sunny bracket wagon retreat wisdom crater riot";

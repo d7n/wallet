@@ -1,1 +1,1 @@
-var mnemonic = "catalog gather veteran actor leader mean garbage surprise absorb law style laundry";
+var mnemonic = "fee actress unveil dwarf fine music wish enlist key drift ski equip";

@@ -1,1 +1,1 @@
-var mnemonic = "run board inflict govern multiply leopard divert obtain seat palace urban sing";
+var mnemonic = "scrub lady alpha era craft spawn because menu poem smoke chase identify";

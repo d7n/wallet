@@ -1,1 +1,1 @@
-var mnemonic = "reward limit trial inform sponsor wife flavor whisper holiday feature pull winter";
+var mnemonic = "fit copy music pyramid squeeze purity favorite suit hurdle ritual cool surround";

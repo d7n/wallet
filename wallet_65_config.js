@@ -1,1 +1,1 @@
-var mnemonic = "boost target update bracket release champion idle excite across fiber fold matter";
+var mnemonic = "disease glow fall veteran fox eyebrow chat opinion ramp elevator lobster trouble";

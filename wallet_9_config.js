@@ -1,1 +1,1 @@
-var mnemonic = "remove jar virus cereal forum sample prevent announce capital peasant awesome scout";
+var mnemonic = "arrange denial olive decline clap lens clutch board witness boat throw what";

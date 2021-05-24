@@ -1,1 +1,1 @@
-var mnemonic = "adapt mercy twenty stick renew exit enlist bicycle evil auto plug neutral";
+var mnemonic = "lazy sad photo solar harvest tomato upset era water miss opera exist";

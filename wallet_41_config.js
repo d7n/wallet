@@ -1,1 +1,1 @@
-var mnemonic = "spawn library close soda rapid strike clinic slogan aisle anger mass valid";
+var mnemonic = "drop agree happy snow goddess sure hour robust hurt army stairs alter";

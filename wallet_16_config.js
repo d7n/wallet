@@ -1,1 +1,1 @@
-var mnemonic = "then increase gasp series animal hybrid announce engage effort magic month throw";
+var mnemonic = "sport census room tell grit improve retire scrap series stone foster float";

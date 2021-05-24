@@ -1,1 +1,1 @@
-var mnemonic = "dismiss present bleak damp betray inquiry they rain cupboard spin trend regret";
+var mnemonic = "cloud ability north bunker nest proof awesome grab catch execute nation pet";

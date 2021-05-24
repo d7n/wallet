@@ -1,1 +1,1 @@
-var mnemonic = "umbrella plunge dance only elephant over taste dream stairs issue argue august";
+var mnemonic = "region gift always ancient cliff real submit object inch street nephew web";

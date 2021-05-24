@@ -1,1 +1,1 @@
-var mnemonic = "also february rough sponsor dream fence helmet mouse now engine canal high";
+var mnemonic = "buffalo afford behave illegal index gift ordinary master fox scorpion travel multiply";

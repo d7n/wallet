@@ -1,1 +1,1 @@
-var mnemonic = "surge symbol tone tornado boat unknown daring glory omit spatial diary release";
+var mnemonic = "orchard height glad autumn carbon book regular issue school pretty chuckle visual";

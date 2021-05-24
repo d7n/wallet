@@ -1,1 +1,1 @@
-var mnemonic = "top amazing aerobic robot story jewel medal plunge coach grab wine letter";
+var mnemonic = "glide elephant either worry extend traffic ability boring lamp fringe mass viable";

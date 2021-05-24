@@ -1,1 +1,1 @@
-var mnemonic = "soap hair frozen spy elite cart curtain fire credit glass spice path";
+var mnemonic = "gain planet nominee rug lock humor slab next kiwi divert wagon happy";

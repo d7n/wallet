@@ -1,1 +1,1 @@
-var mnemonic = "purchase window defy reflect way scheme earn box lava invest bullet shiver";
+var mnemonic = "ski seek usage depend walnut keep corn believe achieve host lounge diary";

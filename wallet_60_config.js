@@ -1,1 +1,1 @@
-var mnemonic = "doll photo moment access video regular flee slogan witness fiber chef crystal";
+var mnemonic = "either stomach wrestle truth silver wing height layer audit extra differ burst";

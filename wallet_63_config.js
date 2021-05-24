@@ -1,1 +1,1 @@
-var mnemonic = "often young renew drum skin tuition fault hand slice razor habit shed";
+var mnemonic = "vehicle tunnel wonder tired ski boil paddle hobby disease lamp forum fancy";

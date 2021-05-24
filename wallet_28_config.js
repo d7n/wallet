@@ -1,1 +1,1 @@
-var mnemonic = "wear squirrel enter light since sauce major surround cream stomach tool vote";
+var mnemonic = "wheel crumble merry steak hope need clarify usual soda dust blame easily";

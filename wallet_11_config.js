@@ -1,1 +1,1 @@
-var mnemonic = "mention cheap eternal kit furnace acid salmon yard vivid cycle half acquire";
+var mnemonic = "menu error oxygen split loan hover van rug segment arctic cousin sense";

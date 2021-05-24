@@ -1,1 +1,1 @@
-var mnemonic = "ridge scrub bubble bean glad until price dragon message goose post spice";
+var mnemonic = "photo exile diet news current culture rally evoke derive reopen universe soup";

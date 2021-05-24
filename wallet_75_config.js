@@ -1,1 +1,1 @@
-var mnemonic = "prevent second column fruit rather west morning absorb swamp paddle palm twelve";
+var mnemonic = "obey sting couple green inmate voice moral crowd slam light trust laugh";

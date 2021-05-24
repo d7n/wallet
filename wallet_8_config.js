@@ -1,1 +1,1 @@
-var mnemonic = "seminar sauce army shield wrap glass chief infant world mule orchard gun";
+var mnemonic = "deny bike believe uncover either hockey common tuna glimpse park coil decorate";

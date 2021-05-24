@@ -1,1 +1,1 @@
-var mnemonic = "loan demise cradle spy crater jacket fire material coyote slogan author coyote";
+var mnemonic = "load bus solar gold cash mango anchor sign cash false bus correct";

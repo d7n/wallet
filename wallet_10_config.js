@@ -1,1 +1,1 @@
-var mnemonic = "custom chase little mushroom gospel title rail thought also artwork own example";
+var mnemonic = "habit crane equip tribe usual behind junior blame friend claim trick together";

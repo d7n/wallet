@@ -1,1 +1,1 @@
-var mnemonic = "field luggage defy lumber impulse mosquito tattoo settle nasty sock eager region";
+var mnemonic = "ship tiger main sound champion rotate absent net enforce crash inch light";

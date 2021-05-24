@@ -1,1 +1,1 @@
-var mnemonic = "motion clay dizzy winter resist dose creek abstract rich velvet surprise balcony";
+var mnemonic = "claw decade dwarf wagon poet sea harvest text crop nothing neck insane";

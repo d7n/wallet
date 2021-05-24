@@ -1,1 +1,1 @@
-var mnemonic = "curtain bind soldier bid burger useless anger typical lion cushion skin trim";
+var mnemonic = "now what rocket romance lobster wonder change adult useless dignity grace bag";

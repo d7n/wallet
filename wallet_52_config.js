@@ -1,1 +1,1 @@
-var mnemonic = "surge system employ brick crop clarify vital between three orchard audit candy";
+var mnemonic = "know trash keep neglect term detect desert atom lobster bone scout cannon";

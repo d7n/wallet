@@ -1,1 +1,1 @@
-var mnemonic = "clock donor basket fan quiz appear olympic sadness maple tank pattern mom";
+var mnemonic = "trap unfair decorate please style loan glass nasty easy round above afraid";

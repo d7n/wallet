@@ -1,1 +1,1 @@
-var mnemonic = "north brisk van three pigeon inform leopard defense rally vague sunny beach";
+var mnemonic = "wood please laundry gravity wheat suffer joke smile color fine film pudding";

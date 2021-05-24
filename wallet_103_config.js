@@ -1,1 +1,1 @@
-var mnemonic = "box guide debate elite over song reason announce casual garment critic decorate";
+var mnemonic = "enlist sick wage lumber start admit old drip raccoon lizard copper goddess";
