@@ -1,1 +1,1 @@
-var mnemonic = "design dynamic material rhythm army ramp sick forward farm video plunge thunder";
+var mnemonic = "purchase window defy reflect way scheme earn box lava invest bullet shiver";

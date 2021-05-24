@@ -1,1 +1,1 @@
-var mnemonic = "fame view place cricket arrow tag power switch seminar mom desk enact";
+var mnemonic = "motion clay dizzy winter resist dose creek abstract rich velvet surprise balcony";

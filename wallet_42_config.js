@@ -1,1 +1,1 @@
-var mnemonic = "climb illness abandon broccoli stereo source nation face twice leaf crunch comic";
+var mnemonic = "ridge scrub bubble bean glad until price dragon message goose post spice";

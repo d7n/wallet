@@ -1,1 +1,1 @@
-var mnemonic = "minute wave cement lunar broccoli advance sentence pattern insane silk door stadium";
+var mnemonic = "boost target update bracket release champion idle excite across fiber fold matter";

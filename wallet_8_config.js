@@ -1,1 +1,1 @@
-var mnemonic = "double multiply angry powder destroy awkward actress float will found car movie";
+var mnemonic = "seminar sauce army shield wrap glass chief infant world mule orchard gun";

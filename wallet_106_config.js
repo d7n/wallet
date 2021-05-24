@@ -1,1 +1,1 @@
-var mnemonic = "salt festival help merry melt cattle myself until legal atom hockey fun";
+var mnemonic = "soap hair frozen spy elite cart curtain fire credit glass spice path";

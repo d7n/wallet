@@ -1,1 +1,1 @@
-var mnemonic = "office garment minute cross maple unique trust tip spell parent undo puppy";
+var mnemonic = "just similar science alarm tag vibrant kitchen bench machine mother apple unveil";

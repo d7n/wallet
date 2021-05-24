@@ -1,1 +1,1 @@
-var mnemonic = "yellow south oyster impulse deer census oval zoo way tent proud urge";
+var mnemonic = "also february rough sponsor dream fence helmet mouse now engine canal high";

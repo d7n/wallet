@@ -1,1 +1,1 @@
-var mnemonic = "hidden fuel gallery present jaguar digital grunt finish syrup bus ramp start";
+var mnemonic = "thing few uncover sword fat tenant drip cover fantasy help era similar";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture benefit slide manual private ranch educate ridge exhaust regret witness drift";
+var mnemonic = "mosquito cause miracle eight occur relax ahead vault drift patch fork tenant";

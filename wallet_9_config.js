@@ -1,1 +1,1 @@
-var mnemonic = "among detail enroll lonely grace mule fashion master dinner pioneer utility kit";
+var mnemonic = "remove jar virus cereal forum sample prevent announce capital peasant awesome scout";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel tissue until remember can cage silly load forward arrive sunset skate";
+var mnemonic = "food garden pave warm search process tornado wave upset lamp window head";

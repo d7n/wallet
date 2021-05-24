@@ -1,1 +1,1 @@
-var mnemonic = "legal usual release letter wheel weather actor paddle trust another shy ozone";
+var mnemonic = "execute safe duck fall raven vendor truck camp cart cradle thing refuse";

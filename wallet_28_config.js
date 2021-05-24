@@ -1,1 +1,1 @@
-var mnemonic = "fossil thumb true rescue end pumpkin used cotton chef organ visa demise";
+var mnemonic = "wear squirrel enter light since sauce major surround cream stomach tool vote";

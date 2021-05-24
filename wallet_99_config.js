@@ -1,1 +1,1 @@
-var mnemonic = "citizen pluck future valley fee topic offer attack clarify anxiety cost card";
+var mnemonic = "olive vocal umbrella region scheme latin safe fashion talk goose fever month";

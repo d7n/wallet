@@ -1,1 +1,1 @@
-var mnemonic = "erupt connect please toy swamp gold stock language nut speed myth man";
+var mnemonic = "then increase gasp series animal hybrid announce engage effort magic month throw";

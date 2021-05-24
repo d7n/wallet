@@ -1,1 +1,1 @@
-var mnemonic = "buyer boat answer sword corn glow champion speak family fitness elephant wisdom";
+var mnemonic = "sort canyon breeze deposit over attack brother crash nothing dinosaur rent gym";

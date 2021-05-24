@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cost tackle stone mirror sauce light chaos ivory orient planet pistol";
+var mnemonic = "hamster dream scrub expect drink wheel vacant require swallow ocean cinnamon hurry";

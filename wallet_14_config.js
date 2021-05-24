@@ -1,1 +1,1 @@
-var mnemonic = "vague flash detect another hip traffic girl before area ugly erode wasp";
+var mnemonic = "bone sausage special choice provide mosquito image faint delay will idea pear";

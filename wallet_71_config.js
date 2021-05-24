@@ -1,1 +1,1 @@
-var mnemonic = "velvet volcano neither morning gift shoe monkey maid path liquid tuna zebra";
+var mnemonic = "twice card mandate oak room donor cover give mixture expose addict artefact";

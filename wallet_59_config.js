@@ -1,1 +1,1 @@
-var mnemonic = "sock useful document bulb grit chapter solution merit decline fabric sister ordinary";
+var mnemonic = "curtain bind soldier bid burger useless anger typical lion cushion skin trim";

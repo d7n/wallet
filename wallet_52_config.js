@@ -1,1 +1,1 @@
-var mnemonic = "reduce pony mystery slush doll first struggle hurt scatter slice slender degree";
+var mnemonic = "surge system employ brick crop clarify vital between three orchard audit candy";

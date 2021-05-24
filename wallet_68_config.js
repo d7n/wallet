@@ -1,1 +1,1 @@
-var mnemonic = "robot quick tenant exotic define code cereal gold wheat tribe scan foster";
+var mnemonic = "barely permit blossom car find boss peanut auto oil device cage else";

@@ -1,1 +1,1 @@
-var mnemonic = "equip gasp slight habit acoustic rug throw police column decrease pencil another";
+var mnemonic = "often young renew drum skin tuition fault hand slice razor habit shed";

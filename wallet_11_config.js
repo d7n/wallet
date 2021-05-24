@@ -1,1 +1,1 @@
-var mnemonic = "crime control goose faint suffer draw leaf raise such badge funny stable";
+var mnemonic = "mention cheap eternal kit furnace acid salmon yard vivid cycle half acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "clay extend rent frog coffee leader secret crater there zero bronze extra";
+var mnemonic = "number trust budget observe sister slice author group labor slam thank garbage";

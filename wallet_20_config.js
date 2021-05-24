@@ -1,1 +1,1 @@
-var mnemonic = "eight fee web critic artist become hamster enough leaf sponsor slim inside";
+var mnemonic = "brick begin ethics foot place eagle pupil depth legend stereo very skull";

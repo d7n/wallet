@@ -1,1 +1,1 @@
-var mnemonic = "ignore buzz field butter abandon sibling amused scale view romance resource grid";
+var mnemonic = "palm occur leopard minimum mention kidney coil decline eager lecture awesome chapter";

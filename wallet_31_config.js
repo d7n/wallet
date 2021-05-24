@@ -1,1 +1,1 @@
-var mnemonic = "practice lumber speed sniff blur shy deposit stool forest picnic reflect figure";
+var mnemonic = "lazy autumn arm govern discover beach follow moment brain position rally infant";

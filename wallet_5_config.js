@@ -1,1 +1,1 @@
-var mnemonic = "ridge parrot defense cause garlic blur cheap isolate decrease other hungry clinic";
+var mnemonic = "trim dinner fitness lobster dress afraid category glory sense make drum injury";

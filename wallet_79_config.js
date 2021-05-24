@@ -1,1 +1,1 @@
-var mnemonic = "roast zebra nature jeans opera remove ignore another lava glass fresh pig";
+var mnemonic = "reward limit trial inform sponsor wife flavor whisper holiday feature pull winter";

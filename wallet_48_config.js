@@ -1,1 +1,1 @@
-var mnemonic = "chronic certain know else relief beach you slam lens outside dress sick";
+var mnemonic = "denial secret toast kidney carbon sad bid wall dice laptop sure keen";

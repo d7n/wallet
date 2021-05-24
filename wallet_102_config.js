@@ -1,1 +1,1 @@
-var mnemonic = "forward license machine theme side flip worth crystal gaze alarm lumber runway";
+var mnemonic = "flight across silly riot february avoid hold amused dog history height when";

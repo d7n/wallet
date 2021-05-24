@@ -1,1 +1,1 @@
-var mnemonic = "rookie minimum soul sound network venture crash accuse arrest dice act example";
+var mnemonic = "near history theory way used market bomb heart hurt tilt age exchange";

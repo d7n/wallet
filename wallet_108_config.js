@@ -1,1 +1,1 @@
-var mnemonic = "bachelor amused success fit mountain wish crunch charge soda write stove correct";
+var mnemonic = "need merge adjust before clock butter average owner solar hold matter alert";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber stem merge beef enter wink shuffle another father wait point oak";
+var mnemonic = "capital scan rapid stomach grace plug diet type salt man seven warfare";

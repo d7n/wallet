@@ -1,1 +1,1 @@
-var mnemonic = "web bullet bargain grunt elbow below profit ketchup there wonder mouse deliver";
+var mnemonic = "chunk kick provide milk gallery suggest empower empower panic atom volcano apart";

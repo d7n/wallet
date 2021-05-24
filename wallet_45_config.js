@@ -1,1 +1,1 @@
-var mnemonic = "develop rescue section train robot suit material rent offer village trigger owner";
+var mnemonic = "dismiss present bleak damp betray inquiry they rain cupboard spin trend regret";

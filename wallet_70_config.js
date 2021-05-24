@@ -1,1 +1,1 @@
-var mnemonic = "forward embody length improve grape hole order panel neither cave harsh dial";
+var mnemonic = "purity someone arm rookie equip travel turtle winter goddess unit pulse before";

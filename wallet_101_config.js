@@ -1,1 +1,1 @@
-var mnemonic = "gallery shaft swamp inquiry place warrior clip tenant measure nose brand regular";
+var mnemonic = "fossil betray any divert prosper under obscure supply access dizzy much faith";

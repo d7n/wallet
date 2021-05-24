@@ -1,1 +1,1 @@
-var mnemonic = "evil mad birth game dirt drift shoulder boil judge hat soda develop";
+var mnemonic = "top amazing aerobic robot story jewel medal plunge coach grab wine letter";

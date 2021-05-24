@@ -1,1 +1,1 @@
-var mnemonic = "joy stumble furnace act method order offer track family work mesh sentence";
+var mnemonic = "keen trap element envelope middle what general energy bird razor sun gain";

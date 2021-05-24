@@ -1,1 +1,1 @@
-var mnemonic = "stool law ancient baby foam video depth diary talent museum beyond simple";
+var mnemonic = "dwarf space solution scene involve piece screen filter gold enforce math also";

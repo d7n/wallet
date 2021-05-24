@@ -1,1 +1,1 @@
-var mnemonic = "pride bread tower culture method shrimp word talent enemy distance zero virtual";
+var mnemonic = "enjoy face soup disagree cement afraid noise donkey proof august service receive";

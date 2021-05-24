@@ -1,1 +1,1 @@
-var mnemonic = "brown shock lend faith uncover arch sweet stumble stove eight liquid disagree";
+var mnemonic = "custom chase little mushroom gospel title rail thought also artwork own example";

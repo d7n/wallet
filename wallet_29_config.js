@@ -1,1 +1,1 @@
-var mnemonic = "illegal muscle inspire canyon alter olympic fiber cushion spoon rent like castle";
+var mnemonic = "adapt mercy twenty stick renew exit enlist bicycle evil auto plug neutral";

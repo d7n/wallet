@@ -1,1 +1,1 @@
-var mnemonic = "wool loyal dance volcano worth quick plastic december floor fresh february siren";
+var mnemonic = "north brisk van three pigeon inform leopard defense rally vague sunny beach";

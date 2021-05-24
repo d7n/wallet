@@ -1,1 +1,1 @@
-var mnemonic = "hover fantasy swing escape bench prepare twist you venture marine raccoon fun";
+var mnemonic = "about tenant recall citizen winter breeze fever world stove obey mimic health";

@@ -1,1 +1,1 @@
-var mnemonic = "cook angry peasant silly split eyebrow enter project opinion current scheme cabin";
+var mnemonic = "sing praise shiver tooth enable night balance bottom devote jelly wheel all";

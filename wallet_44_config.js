@@ -1,1 +1,1 @@
-var mnemonic = "letter educate drive fun human crack assume earth frequent consider under anger";
+var mnemonic = "estate spray knock anxiety genuine thought notable nurse assume tattoo evil auto";

@@ -1,1 +1,1 @@
-var mnemonic = "version right choice glow aim shiver order destroy afraid need cable evoke";
+var mnemonic = "surge symbol tone tornado boat unknown daring glory omit spatial diary release";

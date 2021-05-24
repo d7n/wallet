@@ -1,1 +1,1 @@
-var mnemonic = "century camp word drift work blast slight winter unfair exercise burger crack";
+var mnemonic = "artefact desk ice fame trouble recipe fitness ghost riot fossil cheese opera";

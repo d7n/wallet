@@ -1,1 +1,1 @@
-var mnemonic = "naive obscure decorate narrow uphold brisk lend dirt clump lava sustain misery";
+var mnemonic = "field luggage defy lumber impulse mosquito tattoo settle nasty sock eager region";

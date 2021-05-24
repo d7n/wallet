@@ -1,1 +1,1 @@
-var mnemonic = "antique trouble click plate employ paper manual cool pair oblige general owner";
+var mnemonic = "pair minor load disorder frequent hen deal dress party desk sketch doctor";

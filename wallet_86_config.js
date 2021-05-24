@@ -1,1 +1,1 @@
-var mnemonic = "food mammal evil fortune snap govern spike trust balcony crew digital dutch";
+var mnemonic = "edge ankle detail diesel body dream over twice level doctor gesture project";

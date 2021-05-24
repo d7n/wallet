@@ -1,1 +1,1 @@
-var mnemonic = "lyrics naive carpet use flock select know snake pave address general crash";
+var mnemonic = "mask stomach column crime omit nature achieve deliver menu east hunt trick";

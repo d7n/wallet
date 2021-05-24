@@ -1,1 +1,1 @@
-var mnemonic = "hair gas lumber same legend category attack general dice bachelor enact fold";
+var mnemonic = "box guide debate elite over song reason announce casual garment critic decorate";

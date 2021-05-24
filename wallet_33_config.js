@@ -1,1 +1,1 @@
-var mnemonic = "clerk couch eternal supreme excuse fabric warfare able camera camera humble uniform";
+var mnemonic = "mean goddess trap carbon ring endorse escape nuclear digital media isolate mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "calm occur short clarify candy live wedding click exclude delay account unknown";
+var mnemonic = "boat section mother indoor bitter team want bullet hard start guitar edit";

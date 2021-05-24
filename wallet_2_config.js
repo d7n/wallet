@@ -1,1 +1,1 @@
-var mnemonic = "mail obtain horror wheat lava alter start cost stable train tilt hip";
+var mnemonic = "box antique ramp grant age abstract open denial swamp permit fabric cruise";

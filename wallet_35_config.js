@@ -1,1 +1,1 @@
-var mnemonic = "assist current divert record nephew marriage sport shy solution absent head pattern";
+var mnemonic = "device attitude manual practice ethics debris federal crucial priority strike royal crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce ceiling figure dance stamp coach uniform custom naive stone buzz radio";
+var mnemonic = "phone era smart blind brave thought dirt cushion scheme around amused sport";

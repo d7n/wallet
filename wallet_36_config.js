@@ -1,1 +1,1 @@
-var mnemonic = "upon sunny traffic valley beach drama glass other travel spike link mushroom";
+var mnemonic = "wagon humor author agree attack exist charge sentence foster nice close travel";

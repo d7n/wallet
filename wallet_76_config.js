@@ -1,1 +1,1 @@
-var mnemonic = "cat refuse anchor seed case supreme tent shop bind wood admit stone";
+var mnemonic = "reform harbor cement slim act blame exchange warrior body enjoy logic above";

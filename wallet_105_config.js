@@ -1,1 +1,1 @@
-var mnemonic = "nuclear hurry orange coral jaguar royal belt connect liar second bulb shed";
+var mnemonic = "cheese invest gain increase exhaust wrestle wish execute journey universe feed episode";

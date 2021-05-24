@@ -1,1 +1,1 @@
-var mnemonic = "window try slogan cruise seat army arena relax indicate disorder sport kiss";
+var mnemonic = "stool body dentist misery scale jungle sun cook coral coconut avocado now";

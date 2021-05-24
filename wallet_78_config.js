@@ -1,1 +1,1 @@
-var mnemonic = "vibrant embody senior unit relief end maid snake key purse vendor off";
+var mnemonic = "fix uncover nature cloud solution slice disorder grid gentle maid faith rail";

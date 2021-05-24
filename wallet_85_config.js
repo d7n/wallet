@@ -1,1 +1,1 @@
-var mnemonic = "day small reveal fresh receive barrel place squeeze extra grass mammal flee";
+var mnemonic = "teach legal cloud banana fetch motion cheese practice chuckle crowd fashion shrug";

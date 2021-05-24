@@ -1,1 +1,1 @@
-var mnemonic = "settle arrange snake employ year awesome laugh brass fantasy upset kitchen push";
+var mnemonic = "horn world lobster before pact exile swallow begin alcohol lobster junior unaware";

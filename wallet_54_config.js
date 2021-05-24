@@ -1,1 +1,1 @@
-var mnemonic = "favorite slide remain history crunch olympic rocket crowd lunar lesson inch hurdle";
+var mnemonic = "merge same often tray boss rich fiction woman alert light hospital social";

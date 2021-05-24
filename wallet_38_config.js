@@ -1,1 +1,1 @@
-var mnemonic = "execute ghost dream evoke believe only box essence female toe torch exit";
+var mnemonic = "oak twin fiber impact witness spell patrol goddess churn drastic joy uphold";

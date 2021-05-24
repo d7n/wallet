@@ -1,1 +1,1 @@
-var mnemonic = "jewel skirt among ethics tonight kiss salt govern payment state dress tumble";
+var mnemonic = "clock donor basket fan quiz appear olympic sadness maple tank pattern mom";

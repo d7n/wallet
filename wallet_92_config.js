@@ -1,1 +1,1 @@
-var mnemonic = "clinic abuse relax bag marine obtain course attack misery pen category okay";
+var mnemonic = "rich sock shell express loan theory quit bleak copper dismiss blind raven";

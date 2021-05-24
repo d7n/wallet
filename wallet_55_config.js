@@ -1,1 +1,1 @@
-var mnemonic = "energy ski split fossil middle slight risk affair cargo taste shrug evil";
+var mnemonic = "cage math stem main debris flag pottery ginger element palace answer blood";

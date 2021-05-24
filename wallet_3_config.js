@@ -1,1 +1,1 @@
-var mnemonic = "other now unveil boat surface security armed sing rain task state noodle";
+var mnemonic = "catalog gather veteran actor leader mean garbage surprise absorb law style laundry";

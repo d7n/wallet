@@ -1,1 +1,1 @@
-var mnemonic = "assault kit rural sweet spin young pattern penalty dice field barely cream";
+var mnemonic = "inspire gas announce unlock select crucial define north shift text zone muffin";

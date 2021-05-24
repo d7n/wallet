@@ -1,1 +1,1 @@
-var mnemonic = "neutral midnight prosper spare glove version kangaroo access pepper open purity edge";
+var mnemonic = "cupboard project pretty raw pause region web beef wall salute paddle umbrella";

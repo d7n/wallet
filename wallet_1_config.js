@@ -1,1 +1,1 @@
-var mnemonic = "forest frequent mule roast because humble crucial palace escape ridge step cross";
+var mnemonic = "analyst trade idle birth that claw axis health ask fitness measure demise";

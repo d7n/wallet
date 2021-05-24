@@ -1,1 +1,1 @@
-var mnemonic = "alpha music silver spring ozone enroll unfair loop obvious bright nut toilet";
+var mnemonic = "live glove river boat cave frost pass now hobby yard must bicycle";

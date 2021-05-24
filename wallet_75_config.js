@@ -1,1 +1,1 @@
-var mnemonic = "bird jazz asset enough flat siege bird fox rude give digital future";
+var mnemonic = "prevent second column fruit rather west morning absorb swamp paddle palm twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon basic boat remain broccoli cream rally soccer federal vault wall lunch";
+var mnemonic = "category puppy disorder scorpion muscle power anxiety junior capital whisper history layer";

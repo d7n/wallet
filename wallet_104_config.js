@@ -1,1 +1,1 @@
-var mnemonic = "nephew become more boss table code glad category intact rare ranch fruit";
+var mnemonic = "lend phone pistol raw view sea penalty ginger circle rice robot ozone";

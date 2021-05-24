@@ -1,1 +1,1 @@
-var mnemonic = "public document rain cream wedding fix gossip pause outside annual two paddle";
+var mnemonic = "elder jar ozone daring sunset grit pen boost trouble network chief roof";

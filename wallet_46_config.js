@@ -1,1 +1,1 @@
-var mnemonic = "group item mad ball drama turkey matter barely upper require cousin popular";
+var mnemonic = "run board inflict govern multiply leopard divert obtain seat palace urban sing";

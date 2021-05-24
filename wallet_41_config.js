@@ -1,1 +1,1 @@
-var mnemonic = "item depend other pool assault vapor rib pass neither regular dragon rather";
+var mnemonic = "spawn library close soda rapid strike clinic slogan aisle anger mass valid";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid argue satoshi dose west head rate demand mixture luggage delay sphere";
+var mnemonic = "scout nest family body subway final unfold suit fantasy sad market luxury";

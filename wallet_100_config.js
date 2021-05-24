@@ -1,1 +1,1 @@
-var mnemonic = "seven mixture fiber arctic palace purpose receive true give argue marine also";
+var mnemonic = "moral sphere enter ridge animal gather never find attend battle weather rate";

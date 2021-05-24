@@ -1,1 +1,1 @@
-var mnemonic = "field give actor palm gossip cheese put say stand cash know bring";
+var mnemonic = "flush cook huge top ball weekend art prison this live park warrior";

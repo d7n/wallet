@@ -1,1 +1,1 @@
-var mnemonic = "judge jelly mouse renew clean clap balance seed stool practice will family";
+var mnemonic = "umbrella plunge dance only elephant over taste dream stairs issue argue august";

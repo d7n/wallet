@@ -1,1 +1,1 @@
-var mnemonic = "that enrich odor still maid sunny program rebuild offer another elegant blame";
+var mnemonic = "swap congress journey tooth traffic expose tongue axis pair rule dawn sketch";

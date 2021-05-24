@@ -1,1 +1,1 @@
-var mnemonic = "gift game other weapon gas start help mention clever journey defy aerobic";
+var mnemonic = "inflict narrow tragic ghost clap hamster jaguar torch tube minor ghost check";

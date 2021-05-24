@@ -1,1 +1,1 @@
-var mnemonic = "elder raw pigeon comic coral that reunion cloud unfair ridge memory warm";
+var mnemonic = "phrase rug loan worth story giant addict disorder deer banana hello word";

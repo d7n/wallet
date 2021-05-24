@@ -1,1 +1,1 @@
-var mnemonic = "bargain erase debris risk glad hurt other bullet say copy green scissors";
+var mnemonic = "once ring engine oak eternal invite toward squeeze input hybrid fruit sound";

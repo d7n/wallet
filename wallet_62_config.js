@@ -1,1 +1,1 @@
-var mnemonic = "seminar organ crush kit fog crew parent brief dismiss remove word tomorrow";
+var mnemonic = "trade auto knife bridge bind canoe olive minimum velvet worry aspect zero";
