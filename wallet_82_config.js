@@ -1,1 +1,1 @@
-var mnemonic = "submit talk sign decade learn hire donor report increase van citizen jewel";
+var mnemonic = "sheriff rare village female wet rely word owner purse soccer raccoon custom";

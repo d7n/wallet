@@ -1,1 +1,1 @@
-var mnemonic = "hamster salmon inquiry into robust follow head unusual amount twin nice hole";
+var mnemonic = "lazy harbor syrup habit noise tone erase aisle sphere misery utility interest";

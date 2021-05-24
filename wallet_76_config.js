@@ -1,1 +1,1 @@
-var mnemonic = "push hat crew siege unfold swing erosion head tuition square absurd client";
+var mnemonic = "valid drastic smart laptop risk smoke lab easily joy loop tissue winner";

@@ -1,1 +1,1 @@
-var mnemonic = "disease skill apart sting shop price exchange glove sound daring nation cool";
+var mnemonic = "forum chapter process tray better slush earth child off magnet upset casual";

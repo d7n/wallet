@@ -1,1 +1,1 @@
-var mnemonic = "woman damage term junior boss retreat aerobic hero shock mesh rely approve";
+var mnemonic = "capable gun coral leg siege feature blue fabric design today tree thunder";

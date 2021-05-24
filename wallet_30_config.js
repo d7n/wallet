@@ -1,1 +1,1 @@
-var mnemonic = "awkward diagram sustain advance popular glue because decline riot coffee episode dawn";
+var mnemonic = "mosquito never fee quarter deer galaxy buffalo buddy mosquito donor pool term";

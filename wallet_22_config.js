@@ -1,1 +1,1 @@
-var mnemonic = "include chronic brand dilemma drive sheriff enjoy aunt quantum sniff behave task";
+var mnemonic = "patch mobile exist erase save mixture flag absorb hurt sure then castle";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom hidden envelope excess size treat animal harbor earth release wreck shine";
+var mnemonic = "scare shell mushroom fun rookie primary desk damp burst soon awake super";

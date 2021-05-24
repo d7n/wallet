@@ -1,1 +1,1 @@
-var mnemonic = "tuna basic merge point giraffe million athlete load also tell cat mistake";
+var mnemonic = "abstract please ribbon beauty apology alarm move swift cute weather exact valve";

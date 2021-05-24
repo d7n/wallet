@@ -1,1 +1,1 @@
-var mnemonic = "shed accuse mistake unaware tired submit sleep portion romance visit urge fold";
+var mnemonic = "away plastic panel result payment convince gas fish deal winner imitate drama";

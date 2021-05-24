@@ -1,1 +1,1 @@
-var mnemonic = "advance act tower leopard clerk agree color history imitate unusual tortoise credit";
+var mnemonic = "budget garlic craft crop vapor donor budget scare document equip genre flash";

@@ -1,1 +1,1 @@
-var mnemonic = "ball base atom claim absorb trick recipe unknown fetch sad cause beyond";
+var mnemonic = "lonely infant dust bring evidence estate ship matter crouch tuition this drill";

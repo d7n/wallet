@@ -1,1 +1,1 @@
-var mnemonic = "bargain purchase liar voice rack rival giant make huge work deputy trumpet";
+var mnemonic = "tool symbol tilt average endless such stadium faint palm knife almost vacant";

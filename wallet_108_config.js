@@ -1,1 +1,1 @@
-var mnemonic = "dice noise submit canal crack cross wrap talent joy title ignore silver";
+var mnemonic = "poverty segment spare stock pen apart stairs favorite tiny glory lock frost";

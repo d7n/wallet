@@ -1,1 +1,1 @@
-var mnemonic = "satisfy reward lumber frog sheriff mother angle narrow excuse void rally way";
+var mnemonic = "category oyster gaze habit gather special upset fiction drink cereal domain shy";

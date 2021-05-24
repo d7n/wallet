@@ -1,1 +1,1 @@
-var mnemonic = "ball either answer pencil economy warm air brush caution wisdom fence possible";
+var mnemonic = "jelly dwarf bachelor hundred refuse afraid carbon bottom secret work flush stone";

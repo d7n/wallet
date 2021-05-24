@@ -1,1 +1,1 @@
-var mnemonic = "panel alarm dragon corn provide spot earn drip rose modify cover foam";
+var mnemonic = "spell release crew equal spatial govern repeat imitate aisle enter force fault";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle else review color answer whale garbage sausage portion tank blanket blouse";
+var mnemonic = "strategy inner notable bridge tide trumpet exercise discover submit knock soup knock";

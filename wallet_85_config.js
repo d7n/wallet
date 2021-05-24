@@ -1,1 +1,1 @@
-var mnemonic = "forest guilt position private above shaft cherry pear jacket blur cupboard whip";
+var mnemonic = "shaft audit steak say fall crew pipe great leopard else obtain apple";

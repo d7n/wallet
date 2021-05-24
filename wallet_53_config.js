@@ -1,1 +1,1 @@
-var mnemonic = "village utility total donkey network farm gravity radio move shop hospital drip";
+var mnemonic = "wool define dad web modify typical predict card planet position minor nation";

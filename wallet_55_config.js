@@ -1,1 +1,1 @@
-var mnemonic = "clock before regret peasant system income enough sample cabin parade purse fashion";
+var mnemonic = "select angry dash deal antique cart outer task alley trash impact illness";

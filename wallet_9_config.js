@@ -1,1 +1,1 @@
-var mnemonic = "truck today mad vehicle surface employ equal hundred only pumpkin team ketchup";
+var mnemonic = "drill vote front horror accuse benefit exile page pizza movie grape tuna";

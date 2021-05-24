@@ -1,1 +1,1 @@
-var mnemonic = "civil supply gravity increase stereo trial proof enroll speed income flat cage";
+var mnemonic = "change shallow waste explain negative crystal runway armor behind submit frozen ethics";

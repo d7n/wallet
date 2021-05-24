@@ -1,1 +1,1 @@
-var mnemonic = "cash draft grow parade state wheel license jelly update pledge buffalo link";
+var mnemonic = "egg true figure magnet idea amused fashion rich present mind tattoo hybrid";

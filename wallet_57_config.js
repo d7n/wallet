@@ -1,1 +1,1 @@
-var mnemonic = "lemon lizard town truly strategy jeans wood current flock minute aware secret";
+var mnemonic = "length size ecology cruel eagle hotel obey pyramid cheap also arctic wage";

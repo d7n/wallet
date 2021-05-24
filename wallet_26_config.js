@@ -1,1 +1,1 @@
-var mnemonic = "seven steak suit stool column title term balance invest wagon question crowd";
+var mnemonic = "defy fantasy have copy universe earth border trash almost relief fade relax";

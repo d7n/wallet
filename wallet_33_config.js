@@ -1,1 +1,1 @@
-var mnemonic = "rough food acid artwork sorry prevent hobby cute toilet abandon loud exile";
+var mnemonic = "divorce typical farm sponsor method fatigue neutral silent december awesome earth unable";

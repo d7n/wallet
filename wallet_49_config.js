@@ -1,1 +1,1 @@
-var mnemonic = "evidence fiscal cheese click slender obscure say mirror candy consider symptom enable";
+var mnemonic = "recall mimic awake choice crush carbon vanish spatial invite sword smooth process";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli tank away seed mixed proof forward renew agree excess parent token";
+var mnemonic = "magnet mammal blush bronze tiger era poem puzzle trouble tongue galaxy join";

@@ -1,1 +1,1 @@
-var mnemonic = "balance emerge key unveil initial syrup tornado water age tattoo relief path";
+var mnemonic = "matter search fortune trick index achieve tired potato float penalty label cross";

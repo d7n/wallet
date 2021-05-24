@@ -1,1 +1,1 @@
-var mnemonic = "clown junk follow fury earth casino quit later syrup direct permit envelope";
+var mnemonic = "quit arrest feed accuse debris polar winner lesson citizen oxygen miss system";

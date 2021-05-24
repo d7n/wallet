@@ -1,1 +1,1 @@
-var mnemonic = "outdoor devote horse garden dry wage leopard gossip gesture stable lucky inside";
+var mnemonic = "kind cattle mercy solve shove opinion lend tomorrow bird animal bracket defense";

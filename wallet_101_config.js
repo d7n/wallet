@@ -1,1 +1,1 @@
-var mnemonic = "fog door liberty talk gossip then parade blur brief exhaust slogan million";
+var mnemonic = "blood twist hurdle spray destroy cancel whip juice monkey admit include cactus";

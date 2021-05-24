@@ -1,1 +1,1 @@
-var mnemonic = "sustain mom company spoil sugar exclude mask agree eternal banana wreck mixture";
+var mnemonic = "early surround myself argue swim evidence combine theory mammal float blame paper";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel saddle offer aerobic property once spirit heavy hungry humble dynamic rhythm";
+var mnemonic = "spare teach lend poet summer use ozone claim click eyebrow animal immense";

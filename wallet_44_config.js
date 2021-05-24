@@ -1,1 +1,1 @@
-var mnemonic = "idle charge crime upper wool inch because garden taxi mirror appear silver";
+var mnemonic = "supreme one arrange solution glue recycle inject galaxy parade off garment record";

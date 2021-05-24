@@ -1,1 +1,1 @@
-var mnemonic = "regular clog help okay state pave smart betray unlock ritual energy kitten";
+var mnemonic = "cattle battle dizzy inject crucial arctic large urge festival zero tip husband";

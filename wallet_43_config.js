@@ -1,1 +1,1 @@
-var mnemonic = "round client demand license rapid faint hundred negative auction crack virtual amused";
+var mnemonic = "month absent ahead curve journey egg arch sheriff kit street soap dune";

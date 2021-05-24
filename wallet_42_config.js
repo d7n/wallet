@@ -1,1 +1,1 @@
-var mnemonic = "table situate grace fresh diary sunset police inherit gun bench town organ";
+var mnemonic = "neither chunk measure asset debris enough crunch april start rely magnet stumble";

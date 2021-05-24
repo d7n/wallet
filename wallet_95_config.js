@@ -1,1 +1,1 @@
-var mnemonic = "fetch forest boring antique put room pig visual clean spatial save wagon";
+var mnemonic = "poem flush multiply survey frame decorate vanish iron direct file quarter lend";

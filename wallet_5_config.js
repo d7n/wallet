@@ -1,1 +1,1 @@
-var mnemonic = "author shallow furnace annual social fabric embark verify vanish clinic suggest random";
+var mnemonic = "kite prepare abuse tenant thumb outdoor blossom annual token own near know";

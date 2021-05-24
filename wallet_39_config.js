@@ -1,1 +1,1 @@
-var mnemonic = "liquid slogan include knife pull clump beauty decline record avoid size long";
+var mnemonic = "click recall clarify witness expand peasant various coach expire man october front";

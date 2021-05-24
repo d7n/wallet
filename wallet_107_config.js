@@ -1,1 +1,1 @@
-var mnemonic = "shy isolate lady client regular paddle cricket trick river keen search voice";
+var mnemonic = "vague news start ostrich vacant neither source cancel pill review hill when";

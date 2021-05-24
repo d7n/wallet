@@ -1,1 +1,1 @@
-var mnemonic = "east sword proof antenna melt edit clarify celery snake know monitor recipe";
+var mnemonic = "learn rapid music jump game avoid vital laptop talent faint army merge";

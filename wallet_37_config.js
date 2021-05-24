@@ -1,1 +1,1 @@
-var mnemonic = "turtle spawn citizen long skill cream column adapt awesome version echo reunion";
+var mnemonic = "satoshi fuel observe section mixed surge actor frog puzzle concert cube resemble";

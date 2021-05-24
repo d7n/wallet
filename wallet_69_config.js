@@ -1,1 +1,1 @@
-var mnemonic = "culture trip breeze squeeze share alter spot assume maple sound gentle survey";
+var mnemonic = "sea alert label famous siren remind sad steak cool father exclude day";

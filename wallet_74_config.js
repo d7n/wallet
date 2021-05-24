@@ -1,1 +1,1 @@
-var mnemonic = "destroy excuse arrive slice glow pool enemy hobby front theme lift gallery";
+var mnemonic = "cook plastic village elegant enhance enhance alone forum job trumpet sunset clean";

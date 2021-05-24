@@ -1,1 +1,1 @@
-var mnemonic = "select discover point employ essence giggle gorilla dizzy fame mask mistake foot";
+var mnemonic = "nut test follow behind rabbit someone point doll chef pitch wonder version";

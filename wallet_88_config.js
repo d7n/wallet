@@ -1,1 +1,1 @@
-var mnemonic = "hockey hat reflect coil arrow badge festival visa core news junk happy";
+var mnemonic = "light afford ski detail shiver monster setup obvious lab garment sight anchor";

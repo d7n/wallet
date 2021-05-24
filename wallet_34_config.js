@@ -1,1 +1,1 @@
-var mnemonic = "call blush decorate margin heart case change trim food undo inch piece";
+var mnemonic = "network ask auction air point cat truck today code give usual cram";

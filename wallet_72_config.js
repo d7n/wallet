@@ -1,1 +1,1 @@
-var mnemonic = "bubble emotion just journey possible maximum stamp blossom laugh sleep spike reject";
+var mnemonic = "truck mirror kidney media health flee holiday caution hazard useful warrior subject";

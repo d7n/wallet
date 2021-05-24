@@ -1,1 +1,1 @@
-var mnemonic = "nation seminar rescue hotel margin trial taxi oil shadow ice intact lecture";
+var mnemonic = "minimum eight pond broom knock buddy slender popular flock help entry shallow";

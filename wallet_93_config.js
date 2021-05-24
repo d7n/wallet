@@ -1,1 +1,1 @@
-var mnemonic = "stadium error sausage cloth universe venture before custom bus hunt can violin";
+var mnemonic = "rigid armor budget position else owner taxi warfare enhance fine horror caution";

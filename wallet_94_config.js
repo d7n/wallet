@@ -1,1 +1,1 @@
-var mnemonic = "shove bronze car sponsor code cloth feature poverty injury supply salon uncover";
+var mnemonic = "brush range live fly ancient era palm govern tonight bleak harvest stand";

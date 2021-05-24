@@ -1,1 +1,1 @@
-var mnemonic = "hub pool wire ocean chase strategy anchor vague lottery electric benefit exile";
+var mnemonic = "ocean pipe bitter method scout fury east before artefact myth genius image";

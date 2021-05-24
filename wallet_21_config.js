@@ -1,1 +1,1 @@
-var mnemonic = "orbit skill chat trap company hybrid during purity scout soft cause dose";
+var mnemonic = "scan start float ask buffalo chair embrace office void column disorder winner";

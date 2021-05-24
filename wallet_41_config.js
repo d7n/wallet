@@ -1,1 +1,1 @@
-var mnemonic = "federal acid appear dry december very grain topic smooth damage tissue letter";
+var mnemonic = "bracket conduct mix social glad lonely floor melt plastic poverty wall solar";

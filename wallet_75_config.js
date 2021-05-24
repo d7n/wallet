@@ -1,1 +1,1 @@
-var mnemonic = "robust shallow fever weekend report trash same gather online valley maze imitate";
+var mnemonic = "method result model athlete recycle whip radar avoid student laugh flight fiscal";

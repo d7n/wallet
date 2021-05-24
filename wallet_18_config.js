@@ -1,1 +1,1 @@
-var mnemonic = "delay orbit degree glove base satisfy update celery interest select case alcohol";
+var mnemonic = "glove involve pitch minor attend claim pyramid mixed force aspect knock shaft";

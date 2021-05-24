@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tongue away true hair fog tunnel forum discover loud detect ocean";
+var mnemonic = "castle joy chat meat relax soul corn click vault early six genius";

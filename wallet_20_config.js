@@ -1,1 +1,1 @@
-var mnemonic = "deny solar unfair depend excess lunar mass pig project enable east usual";
+var mnemonic = "always cute program snap lady law gaze clown coconut rail venture jar";

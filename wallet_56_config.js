@@ -1,1 +1,1 @@
-var mnemonic = "fury outside document income torch that flock shove innocent scale cry cover";
+var mnemonic = "very decade praise demand duty use miss snack suit give habit bargain";

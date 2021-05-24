@@ -1,1 +1,1 @@
-var mnemonic = "ramp enjoy debate people attitude angle habit bike forum quit elbow empower";
+var mnemonic = "enjoy mix snake average digital topic desert barrel congress verb trade flat";

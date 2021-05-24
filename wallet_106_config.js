@@ -1,1 +1,1 @@
-var mnemonic = "dismiss during you three ketchup gesture penalty earn quantum craft upper tragic";
+var mnemonic = "diary room critic thumb robust under crater fiber blood frost matrix boat";

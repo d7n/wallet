@@ -1,1 +1,1 @@
-var mnemonic = "disorder love tag glimpse march bag wheat economy meat term retire attend";
+var mnemonic = "identify year retreat leopard must blur smart chunk gun lake merge quote";

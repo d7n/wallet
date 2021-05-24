@@ -1,1 +1,1 @@
-var mnemonic = "wear wheel enter solve yard join buyer siren rule voyage crop ceiling";
+var mnemonic = "elite possible much parent treat album camera nation drama south forum creek";

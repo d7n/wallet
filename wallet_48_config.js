@@ -1,1 +1,1 @@
-var mnemonic = "perfect paddle defy iron order later sorry saddle wide initial admit hurry";
+var mnemonic = "remind term march chat convince father later find degree park cricket repeat";

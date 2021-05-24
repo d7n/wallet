@@ -1,1 +1,1 @@
-var mnemonic = "lift view stumble balcony infant run frequent swim focus friend skin oxygen";
+var mnemonic = "display early pelican stamp problem camera short few spring innocent regular other";

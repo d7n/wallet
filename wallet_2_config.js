@@ -1,1 +1,1 @@
-var mnemonic = "easy fit mistake column fiscal pioneer swim drive undo trim harbor million";
+var mnemonic = "joy excess win guard note render head bounce undo field spare ethics";

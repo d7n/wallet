@@ -1,1 +1,1 @@
-var mnemonic = "behave pass modify debris melody gallery toward title cute shaft army few";
+var mnemonic = "property interest game neglect improve crystal squirrel hurry outdoor stumble galaxy inside";

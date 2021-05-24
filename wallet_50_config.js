@@ -1,1 +1,1 @@
-var mnemonic = "plug rich tribe pluck dentist oil cinnamon humor marriage can romance predict";
+var mnemonic = "axis exhaust review sad announce gallery shine another force wreck choice little";

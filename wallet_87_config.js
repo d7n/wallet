@@ -1,1 +1,1 @@
-var mnemonic = "turn spirit orange tuition motion main crisp age anxiety hotel flight weapon";
+var mnemonic = "evidence fatigue salad extra tuna vivid jar jewel distance chronic pistol puppy";

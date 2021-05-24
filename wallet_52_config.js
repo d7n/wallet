@@ -1,1 +1,1 @@
-var mnemonic = "barely state hammer antique life magnet art oblige suspect reveal casino absent";
+var mnemonic = "indoor average run goddess transfer album mule keep upon alert salmon elite";

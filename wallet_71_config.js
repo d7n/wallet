@@ -1,1 +1,1 @@
-var mnemonic = "fetch grocery diagram jacket sing female volume pink nephew yard shuffle hazard";
+var mnemonic = "brain cream auction crystal fever hero broom boy stove shaft original excite";

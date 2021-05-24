@@ -1,1 +1,1 @@
-var mnemonic = "physical canal retreat ethics emerge mail dwarf recall own hunt dice zebra";
+var mnemonic = "about always slide arrow abstract text valley twist invite quarter topple hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "salon scene motion song badge silent frog angry polar result advice throw";
+var mnemonic = "inmate arm earn attitude gorilla scale program essence elevator series bronze fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom audit furnace razor melt olympic mind recycle emerge cover truly mushroom";
+var mnemonic = "brush thank drill save midnight crouch rather item crater damage eyebrow smile";

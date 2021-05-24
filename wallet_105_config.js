@@ -1,1 +1,1 @@
-var mnemonic = "base pool control swear census slice weekend exercise whale ordinary galaxy manage";
+var mnemonic = "boy curious already mosquito basic tenant screen submit armor coffee engage verb";

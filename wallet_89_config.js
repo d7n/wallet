@@ -1,1 +1,1 @@
-var mnemonic = "chalk very like wise moral umbrella another plate space cross arrange over";
+var mnemonic = "bless across hollow mix awkward organ vivid say table chase guess adjust";

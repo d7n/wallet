@@ -1,1 +1,1 @@
-var mnemonic = "fee glow heart museum figure build pole beauty barely regular auto silent";
+var mnemonic = "pool novel maple sadness random frog live hat bike midnight just retire";

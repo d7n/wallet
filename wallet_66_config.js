@@ -1,1 +1,1 @@
-var mnemonic = "miss upper upgrade acoustic raccoon solid churn hedgehog cream cool wrist excess";
+var mnemonic = "run model amused wing fit accuse actual kite just wrist clerk fit";

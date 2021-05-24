@@ -1,1 +1,1 @@
-var mnemonic = "boring describe trim lesson predict kitchen clinic toward love beach clown dish";
+var mnemonic = "edge milk buzz pause visa appear track pair puppy push spot level";

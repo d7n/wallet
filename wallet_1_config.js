@@ -1,1 +1,1 @@
-var mnemonic = "crush swim immense size only rival lion ordinary element balance meat boy";
+var mnemonic = "stem shrug hip gown ski fence dirt quality cabbage dice property together";

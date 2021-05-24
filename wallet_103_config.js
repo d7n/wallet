@@ -1,1 +1,1 @@
-var mnemonic = "dismiss spatial female chicken true require initial dawn party oven they quote";
+var mnemonic = "celery rail find waste bike nominee nurse decide brave mom visa uphold";

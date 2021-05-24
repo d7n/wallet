@@ -1,1 +1,1 @@
-var mnemonic = "lunch between off grape time board man mutual trade shiver parrot course";
+var mnemonic = "all gather oblige spot reflect basic bargain worth public garlic home wealth";

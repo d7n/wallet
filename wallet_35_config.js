@@ -1,1 +1,1 @@
-var mnemonic = "reveal slot diary tower combine under under dignity story inmate endless evoke";
+var mnemonic = "quiz ginger census rug federal sudden faculty shoot cheese pizza flush swap";

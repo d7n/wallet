@@ -1,1 +1,1 @@
-var mnemonic = "glide dice mansion stone satoshi bring survey about economy bargain cover smoke";
+var mnemonic = "wash delay fortune color bid surprise pledge elbow essay gas hobby item";

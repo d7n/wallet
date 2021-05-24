@@ -1,1 +1,1 @@
-var mnemonic = "shed imitate battle satoshi priority comfort crush cricket market birth glory concert";
+var mnemonic = "phone seed donkey episode reject cat blind nerve intact champion wool theme";

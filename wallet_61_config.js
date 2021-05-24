@@ -1,1 +1,1 @@
-var mnemonic = "begin math skill mouse original bone frown sample economy picnic major grass";
+var mnemonic = "figure discover finish task comfort rent mechanic chimney also build ten ivory";

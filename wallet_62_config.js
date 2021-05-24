@@ -1,1 +1,1 @@
-var mnemonic = "predict merit reflect addict shy tilt hunt trick lend orient honey digital";
+var mnemonic = "disorder alone dust torch upgrade off matter giraffe noise faith crystal crater";

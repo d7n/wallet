@@ -1,1 +1,1 @@
-var mnemonic = "exit kidney perfect session maximum wasp dash answer marine bargain cupboard cheap";
+var mnemonic = "keep insane fruit expire fire symbol eye swift grass indoor carry quote";

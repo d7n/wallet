@@ -1,1 +1,1 @@
-var mnemonic = "twelve kind blue primary blossom surface survey dragon raise escape pelican uncover";
+var mnemonic = "cake peace virtual response orient trim nephew joke reform oxygen tip zebra";

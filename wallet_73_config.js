@@ -1,1 +1,1 @@
-var mnemonic = "fatigue polar comic process science fix cannon aspect sock lunch clog can";
+var mnemonic = "host wheat any scrap captain family weird buzz detect plunge dream rely";

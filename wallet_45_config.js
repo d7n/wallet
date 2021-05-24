@@ -1,1 +1,1 @@
-var mnemonic = "cushion vote citizen shaft useful dice ability method afraid pet peanut poem";
+var mnemonic = "august general utility grass soccer vibrant denial balcony exchange scrub bounce split";

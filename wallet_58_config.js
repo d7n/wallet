@@ -1,1 +1,1 @@
-var mnemonic = "offer square laugh mercy garment fever man type awkward foil rotate little";
+var mnemonic = "detect alter tiny gloom ten good false web response sound knife catalog";

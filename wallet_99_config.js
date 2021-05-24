@@ -1,1 +1,1 @@
-var mnemonic = "gun monkey retreat song cotton swear guess arrange now bag infant possible";
+var mnemonic = "wife layer deposit leaf exotic curious dismiss cotton jacket find chuckle window";

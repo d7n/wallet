@@ -1,1 +1,1 @@
-var mnemonic = "snack fault plunge float marine ceiling glide label result keen rally hand";
+var mnemonic = "lemon account suspect balcony scrub scorpion such upset wink state snap asthma";

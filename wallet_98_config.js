@@ -1,1 +1,1 @@
-var mnemonic = "accident piano hip spoon nature bulk carpet pilot mask seminar cream throw";
+var mnemonic = "staff ecology size rough cruel whale flame bridge predict unaware denial charge";
