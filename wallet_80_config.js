@@ -1,1 +1,1 @@
-var mnemonic = "grow door gadget plastic strong page renew cheese brave butter cry spread";
+var mnemonic = "shaft mimic action payment toss dance person silver trial range genuine leave";

@@ -1,1 +1,1 @@
-var mnemonic = "domain person scrap trade jewel element prefer drill razor snap vintage round";
+var mnemonic = "good diesel pear hollow upgrade allow desk rug bean moon moon kit";

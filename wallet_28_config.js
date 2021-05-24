@@ -1,1 +1,1 @@
-var mnemonic = "wheel crumble merry steak hope need clarify usual soda dust blame easily";
+var mnemonic = "cat deposit donate loop edit train miss access trap boring candy parent";

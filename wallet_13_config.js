@@ -1,1 +1,1 @@
-var mnemonic = "height piano struggle intact fiction oyster problem student heart screen isolate alley";
+var mnemonic = "render naive strike demand view fish tent shrug critic almost near become";

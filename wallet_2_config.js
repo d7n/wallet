@@ -1,1 +1,1 @@
-var mnemonic = "sure sail orient nasty whip recall budget catalog camera divorce argue galaxy";
+var mnemonic = "please range leaf grief bar story tourist upset kidney differ wheel ordinary";

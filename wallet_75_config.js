@@ -1,1 +1,1 @@
-var mnemonic = "obey sting couple green inmate voice moral crowd slam light trust laugh";
+var mnemonic = "junk mixed genuine gauge lens little square board tray february include few";

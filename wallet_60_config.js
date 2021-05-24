@@ -1,1 +1,1 @@
-var mnemonic = "either stomach wrestle truth silver wing height layer audit extra differ burst";
+var mnemonic = "few sentence mandate client economy corn bubble give pluck panic west imitate";

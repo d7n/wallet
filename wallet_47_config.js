@@ -1,1 +1,1 @@
-var mnemonic = "property foot bike canoe chat inherit slogan umbrella window extra capital trip";
+var mnemonic = "scan purpose indoor urban cigar valve confirm page guard budget soccer coffee";

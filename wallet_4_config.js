@@ -1,1 +1,1 @@
-var mnemonic = "ship tiger main sound champion rotate absent net enforce crash inch light";
+var mnemonic = "ski night hour capital deer camera wrap drastic elbow over type immune";

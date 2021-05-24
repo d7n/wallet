@@ -1,1 +1,1 @@
-var mnemonic = "arrange ski turtle silent mouse sunny bracket wagon retreat wisdom crater riot";
+var mnemonic = "better glass raw razor bike summer sleep dumb system offer you canyon";

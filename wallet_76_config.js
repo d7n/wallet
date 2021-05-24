@@ -1,1 +1,1 @@
-var mnemonic = "excess caught wisdom guess seminar web blame skill purity kick remove achieve";
+var mnemonic = "rain auction online bunker police title bread grid arctic trade impose federal";

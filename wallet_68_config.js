@@ -1,1 +1,1 @@
-var mnemonic = "nasty sense trick gauge gallery mandate inform nut sick cause giant welcome";
+var mnemonic = "party write focus rebel joy loyal silk spice help click crunch smile";

@@ -1,1 +1,1 @@
-var mnemonic = "engage record flash later purchase inspire good horse stock hybrid quit mouse";
+var mnemonic = "cube prize bike panel jacket neither shed trend ramp ask actress flip";

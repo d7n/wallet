@@ -1,1 +1,1 @@
-var mnemonic = "hurry innocent case buddy taste misery uncle coyote toward mention olive dial";
+var mnemonic = "result confirm tail goose shuffle salad ensure fever praise scrap perfect cement";

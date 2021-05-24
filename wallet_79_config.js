@@ -1,1 +1,1 @@
-var mnemonic = "fit copy music pyramid squeeze purity favorite suit hurdle ritual cool surround";
+var mnemonic = "pause river pipe kidney join trick seven offer solid maze animal abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "roast sudden ship glare tuition cushion sea jump theme creek floor soon";
+var mnemonic = "fortune tennis violin weapon tiger drift dwarf salad upper lizard claw measure";

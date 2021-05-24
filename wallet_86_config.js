@@ -1,1 +1,1 @@
-var mnemonic = "violin recipe enemy order eye stuff mail cash cigar side size asset";
+var mnemonic = "hire minimum picture universe grape annual occur thrive egg also interest knock";

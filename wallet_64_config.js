@@ -1,1 +1,1 @@
-var mnemonic = "glow ticket toward curve palace finish dwarf science lyrics scene beyond actor";
+var mnemonic = "require invest zero harsh exist certain spin emerge antenna wage olive pool";

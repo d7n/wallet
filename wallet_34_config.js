@@ -1,1 +1,1 @@
-var mnemonic = "slender cigar access boring summer hunt very current sunset chronic sad assault";
+var mnemonic = "notice idle together gossip betray differ math fortune nurse bronze phrase bread";

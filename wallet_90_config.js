@@ -1,1 +1,1 @@
-var mnemonic = "spot faith believe pride amount quit open diesel rail exile fragile sport";
+var mnemonic = "loop radio teach nominee oval enough twist cat force improve hazard knife";

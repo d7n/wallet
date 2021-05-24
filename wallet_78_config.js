@@ -1,1 +1,1 @@
-var mnemonic = "cactus artefact once install abstract avoid novel lens gift crouch wet narrow";
+var mnemonic = "ceiling gospel medal source minimum forget light ticket guard bounce milk web";

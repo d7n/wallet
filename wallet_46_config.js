@@ -1,1 +1,1 @@
-var mnemonic = "scrub lady alpha era craft spawn because menu poem smoke chase identify";
+var mnemonic = "car beef confirm crisp ill disagree grace debate barrel organ toast spin";

@@ -1,1 +1,1 @@
-var mnemonic = "fee actress unveil dwarf fine music wish enlist key drift ski equip";
+var mnemonic = "network opinion dance harbor razor disorder erase eye teach hammer morning civil";

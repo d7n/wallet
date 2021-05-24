@@ -1,1 +1,1 @@
-var mnemonic = "major match liar practice track skirt surprise account coil charge rocket dumb";
+var mnemonic = "river beach patrol chimney remember chalk forward domain prepare hen calm convince";

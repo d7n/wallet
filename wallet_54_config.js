@@ -1,1 +1,1 @@
-var mnemonic = "deny inhale slot snake clump topic purity snow sheriff carpet anchor carbon";
+var mnemonic = "host punch patch capable story blood crumble rent empty cinnamon ugly margin";

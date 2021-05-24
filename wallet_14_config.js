@@ -1,1 +1,1 @@
-var mnemonic = "stairs wrong finger carbon parade heavy praise rubber scout unaware such isolate";
+var mnemonic = "future perfect pool example armor sight pottery amateur matter ahead gun unique";

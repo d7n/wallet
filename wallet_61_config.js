@@ -1,1 +1,1 @@
-var mnemonic = "orchard client pluck door famous void swamp limit stove nephew duty coral";
+var mnemonic = "layer trial outside empower churn ripple runway kiwi crew boy lend alarm";

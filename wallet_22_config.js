@@ -1,1 +1,1 @@
-var mnemonic = "index organ drift month sweet park wage donate wall true detect vote";
+var mnemonic = "impose hold adjust sea ribbon shock slush jealous whisper fame put torch";

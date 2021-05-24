@@ -1,1 +1,1 @@
-var mnemonic = "brick inner combine sadness squeeze excite axis level flight truly cook master";
+var mnemonic = "romance cliff laptop image acquire fish pause control butter ivory twist attend";

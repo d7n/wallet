@@ -1,1 +1,1 @@
-var mnemonic = "load bus solar gold cash mango anchor sign cash false bus correct";
+var mnemonic = "run water kid apology era muffin reject mass behave mandate sibling neglect";

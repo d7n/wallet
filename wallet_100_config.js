@@ -1,1 +1,1 @@
-var mnemonic = "bracket fantasy peanut march resist onion oppose heart orient era valve cattle";
+var mnemonic = "solution depth lobster moral citizen flock wife economy august chest frozen obscure";

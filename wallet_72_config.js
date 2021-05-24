@@ -1,1 +1,1 @@
-var mnemonic = "oyster black license travel add cushion beauty trash donkey print offer city";
+var mnemonic = "dynamic design blush tag derive olive tortoise drink apple chuckle crawl convince";

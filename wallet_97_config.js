@@ -1,1 +1,1 @@
-var mnemonic = "various expect six emotion spend worth bachelor ski good tragic caught season";
+var mnemonic = "actual merry found bacon achieve teach birth brown rotate paper start during";

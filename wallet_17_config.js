@@ -1,1 +1,1 @@
-var mnemonic = "wine surprise wisdom potato raw leaf tornado minor avocado fit panther lock";
+var mnemonic = "sport own tissue exhaust program width luggage wealth drill novel top decide";

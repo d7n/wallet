@@ -1,1 +1,1 @@
-var mnemonic = "claw decade dwarf wagon poet sea harvest text crop nothing neck insane";
+var mnemonic = "honey wall history useful jazz unit various similar ceiling portion fun mean";

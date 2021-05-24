@@ -1,1 +1,1 @@
-var mnemonic = "cloud ability north bunker nest proof awesome grab catch execute nation pet";
+var mnemonic = "possible confirm glue toilet orbit strong embody onion have bless tube foot";

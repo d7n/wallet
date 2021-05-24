@@ -1,1 +1,1 @@
-var mnemonic = "thought rather vendor food calm coconut coconut ecology monster all spatial armor";
+var mnemonic = "weasel seminar flight squirrel call dad movie when belt riot maze lock";

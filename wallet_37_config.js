@@ -1,1 +1,1 @@
-var mnemonic = "sleep emerge chimney pull high predict sign jelly cram fox magnet foot";
+var mnemonic = "please fossil gown torch hour satoshi then dumb deliver deposit involve mixture";

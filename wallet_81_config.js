@@ -1,1 +1,1 @@
-var mnemonic = "region gift always ancient cliff real submit object inch street nephew web";
+var mnemonic = "armed steel proud talk kangaroo dress board tackle beauty release pretty room";

@@ -1,1 +1,1 @@
-var mnemonic = "reform test major round sudden waste float duty discover pepper police amount";
+var mnemonic = "all waste rescue elder blue forest mosquito attract table lobster table major";

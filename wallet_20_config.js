@@ -1,1 +1,1 @@
-var mnemonic = "push height identify that shop shell police ribbon add fold liberty list";
+var mnemonic = "list flip adult actress slot treat access long matter early fix topic";

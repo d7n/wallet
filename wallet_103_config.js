@@ -1,1 +1,1 @@
-var mnemonic = "enlist sick wage lumber start admit old drip raccoon lizard copper goddess";
+var mnemonic = "dust dignity cart gold dynamic hand parent argue cruise season loyal mail";

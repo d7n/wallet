@@ -1,1 +1,1 @@
-var mnemonic = "stereo sudden cool glance crime enough extend bamboo jar diary breeze furnace";
+var mnemonic = "file common sauce shoot shop account vacuum file stumble scissors modify pluck";

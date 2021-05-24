@@ -1,1 +1,1 @@
-var mnemonic = "spread upset fan million fashion unusual excuse car suffer poet lady endless";
+var mnemonic = "illegal across mule company edit into boring learn hobby economy genuine allow";

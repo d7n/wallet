@@ -1,1 +1,1 @@
-var mnemonic = "curious fury disease pyramid lottery frog zoo code open enhance goddess bubble";
+var mnemonic = "begin globe party way bounce rude paddle amused route point route someone";

@@ -1,1 +1,1 @@
-var mnemonic = "exile century work shed already raccoon oil stick attack outside radio nest";
+var mnemonic = "sort upgrade scrub layer want stadium table balcony recipe deputy glimpse armor";

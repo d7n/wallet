@@ -1,1 +1,1 @@
-var mnemonic = "food direct day tourist dust arrange photo state cup wine kitten reunion";
+var mnemonic = "jaguar twin neck close juice idea verify exchange unhappy jeans pig camp";

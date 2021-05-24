@@ -1,1 +1,1 @@
-var mnemonic = "disease glow fall veteran fox eyebrow chat opinion ramp elevator lobster trouble";
+var mnemonic = "industry pudding attack busy office senior physical wife enemy moral resemble wheel";

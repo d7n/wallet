@@ -1,1 +1,1 @@
-var mnemonic = "drop agree happy snow goddess sure hour robust hurt army stairs alter";
+var mnemonic = "half soldier marriage pear erosion soap lawn decade sleep evolve stamp nice";

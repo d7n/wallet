@@ -1,1 +1,1 @@
-var mnemonic = "credit bring nothing present push jaguar zero economy tiny wash term assault";
+var mnemonic = "history either calm method maximum trust tray forest celery scrub anxiety sad";

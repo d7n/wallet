@@ -1,1 +1,1 @@
-var mnemonic = "eight impact card tell rough sail glue twist jelly mimic blade tongue";
+var mnemonic = "face rain arrow impose equal attend garden exile type truly slice cattle";

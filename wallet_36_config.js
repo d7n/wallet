@@ -1,1 +1,1 @@
-var mnemonic = "wish august fuel anxiety version bitter salad envelope pistol amused cave dry";
+var mnemonic = "slab rate theory square tag lift rigid shell jacket tornado seek kick";

@@ -1,1 +1,1 @@
-var mnemonic = "wood please laundry gravity wheat suffer joke smile color fine film pudding";
+var mnemonic = "nephew vital add raven primary afford mind replace guilt shy shaft maple";

@@ -1,1 +1,1 @@
-var mnemonic = "good buyer switch eyebrow recycle rain fork swallow lucky toy green orbit";
+var mnemonic = "tell service sausage cherry circle result lawn vague file blush witness giant";

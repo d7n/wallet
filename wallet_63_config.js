@@ -1,1 +1,1 @@
-var mnemonic = "vehicle tunnel wonder tired ski boil paddle hobby disease lamp forum fancy";
+var mnemonic = "company illness horror educate reopen timber today canyon history admit rural zone";

@@ -1,1 +1,1 @@
-var mnemonic = "menu error oxygen split loan hover van rug segment arctic cousin sense";
+var mnemonic = "pave sport note funny rural sustain clown quantum fat shiver rally predict";

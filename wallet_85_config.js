@@ -1,1 +1,1 @@
-var mnemonic = "rabbit obey movie intact brand faith chapter girl board depth expire immense";
+var mnemonic = "deal depend type build cigar then turn pencil swift keep mouse inch";

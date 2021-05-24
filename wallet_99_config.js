@@ -1,1 +1,1 @@
-var mnemonic = "noise sleep obey gather joke escape expand slim panda join six spring";
+var mnemonic = "flip smooth tell excuse federal attend climb night fragile link print velvet";

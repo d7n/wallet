@@ -1,1 +1,1 @@
-var mnemonic = "salute episode shift also measure dutch minute trigger nephew laugh depth essay";
+var mnemonic = "elevator hobby detect wear grunt broken misery enforce bag razor sea include";

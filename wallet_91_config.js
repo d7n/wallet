@@ -1,1 +1,1 @@
-var mnemonic = "glide elephant either worry extend traffic ability boring lamp fringe mass viable";
+var mnemonic = "collect rebel mammal adapt coast light beyond leisure drive uncover sign produce";

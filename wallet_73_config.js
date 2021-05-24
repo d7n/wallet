@@ -1,1 +1,1 @@
-var mnemonic = "fabric ramp series month assault love own spin coin exist mammal message";
+var mnemonic = "over affair lawn express crazy police extra cheap net lesson cushion elder";

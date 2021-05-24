@@ -1,1 +1,1 @@
-var mnemonic = "you build engine loop offer decrease first armed stand cover design endorse";
+var mnemonic = "capital memory cause shallow hat soon bean burst movie best member critic";

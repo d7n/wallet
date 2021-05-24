@@ -1,1 +1,1 @@
-var mnemonic = "chest caution egg episode hour million indoor come menu suit arch equip";
+var mnemonic = "violin truth chuckle century dynamic arch wide flip awful scare label radar";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance drastic dolphin title slender absurd sketch pigeon rule mean pole project";
+var mnemonic = "police weasel usual away sting pact mirror inquiry rose divorce jacket vintage";

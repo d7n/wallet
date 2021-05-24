@@ -1,1 +1,1 @@
-var mnemonic = "view view arch chronic someone hole rule inner scan render ramp kiwi";
+var mnemonic = "pyramid opera patch noise fury hobby winter cable destroy dolphin uncover analyst";

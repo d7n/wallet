@@ -1,1 +1,1 @@
-var mnemonic = "photo way country exile device gasp marriage silk cement level month iron";
+var mnemonic = "combine business person vehicle double twist digital vote pizza legal shield six";

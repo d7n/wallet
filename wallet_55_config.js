@@ -1,1 +1,1 @@
-var mnemonic = "bread buddy frost wheel husband control tent midnight pudding brass pause expire";
+var mnemonic = "mind ghost chicken guess divorce vote state energy hint dry ranch nose";

@@ -1,1 +1,1 @@
-var mnemonic = "throw flavor solar exhaust desk survey cannon image garlic novel insane job";
+var mnemonic = "mobile inherit still short cradle response attack alley price water electric update";

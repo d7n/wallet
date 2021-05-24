@@ -1,1 +1,1 @@
-var mnemonic = "photo exile diet news current culture rally evoke derive reopen universe soup";
+var mnemonic = "beyond soft surface joy depend genuine such cloth mercy pledge essay uphold";

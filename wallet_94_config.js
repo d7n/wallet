@@ -1,1 +1,1 @@
-var mnemonic = "buffalo afford behave illegal index gift ordinary master fox scorpion travel multiply";
+var mnemonic = "actor asset column car work tuition devote address onion stuff fun ranch";

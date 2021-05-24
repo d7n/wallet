@@ -1,1 +1,1 @@
-var mnemonic = "champion captain company raw sad denial alcohol glove excite faith debate rabbit";
+var mnemonic = "pulse mesh merry charge way execute inhale select you depth wonder nephew";

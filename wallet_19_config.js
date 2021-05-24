@@ -1,1 +1,1 @@
-var mnemonic = "say typical cook faith bicycle refuse grain canoe series rich shell oyster";
+var mnemonic = "document obey dose day crouch cheese whisper grass quarter ribbon toddler hobby";

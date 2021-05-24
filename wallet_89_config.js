@@ -1,1 +1,1 @@
-var mnemonic = "trap unfair decorate please style loan glass nasty easy round above afraid";
+var mnemonic = "welcome subway insane lottery online refuse eye weasel leisure beyond impulse swift";

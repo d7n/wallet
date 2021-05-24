@@ -1,1 +1,1 @@
-var mnemonic = "bike female meadow green wasp eight truth design label erupt urge lecture";
+var mnemonic = "science train silver use critic fame oblige ginger bright panic cruel allow";

@@ -1,1 +1,1 @@
-var mnemonic = "collect small endless talent crane increase note school effort subject slush adjust";
+var mnemonic = "brown basic practice fatal drip total dog cry daughter wife pave return";

@@ -1,1 +1,1 @@
-var mnemonic = "poem seed menu allow noise enforce exchange refuse begin rough club citizen";
+var mnemonic = "bacon short filter scale wear soul ramp brown method equal shallow pill";

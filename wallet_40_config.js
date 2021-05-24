@@ -1,1 +1,1 @@
-var mnemonic = "magic juice either between coral swim elevator knife neither rent obtain belt";
+var mnemonic = "chunk hint carbon carry veteran hold rhythm eternal garlic robot monster pottery";

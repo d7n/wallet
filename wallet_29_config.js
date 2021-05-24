@@ -1,1 +1,1 @@
-var mnemonic = "lazy sad photo solar harvest tomato upset era water miss opera exist";
+var mnemonic = "miracle only stick truly junk medal knock goose cousin plug palace swallow";

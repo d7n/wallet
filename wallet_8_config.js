@@ -1,1 +1,1 @@
-var mnemonic = "deny bike believe uncover either hockey common tuna glimpse park coil decorate";
+var mnemonic = "theory share coast predict coyote offer insect crack now bread vault symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "crush fiber tonight confirm work entire window surprise skill tiny supreme bring";
+var mnemonic = "plug inside resist seed check method scheme worry future phone depart health";

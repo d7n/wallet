@@ -1,1 +1,1 @@
-var mnemonic = "wrap acquire below mirror thank all fatigue chat muscle genre way swim";
+var mnemonic = "sick slow produce trophy remember twenty march bean awake noise decorate throw";

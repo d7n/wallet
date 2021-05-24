@@ -1,1 +1,1 @@
-var mnemonic = "slide struggle forward mix glory erode carbon favorite parade record language dog";
+var mnemonic = "nurse brain camp wife school face radar taxi prison pony brisk lobster";

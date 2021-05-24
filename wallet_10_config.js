@@ -1,1 +1,1 @@
-var mnemonic = "habit crane equip tribe usual behind junior blame friend claim trick together";
+var mnemonic = "fossil below good tennis gift fetch leader price artwork what enemy jewel";

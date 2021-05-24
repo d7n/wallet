@@ -1,1 +1,1 @@
-var mnemonic = "talent repair gold depth adjust lake boost romance praise claim sign razor";
+var mnemonic = "copy pattern artwork inmate loud apple task forum call found swamp mother";

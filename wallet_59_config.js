@@ -1,1 +1,1 @@
-var mnemonic = "now what rocket romance lobster wonder change adult useless dignity grace bag";
+var mnemonic = "advice health can ride type uphold meadow cherry waste resource glass hidden";

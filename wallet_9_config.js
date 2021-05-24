@@ -1,1 +1,1 @@
-var mnemonic = "arrange denial olive decline clap lens clutch board witness boat throw what";
+var mnemonic = "hybrid gold blossom maximum sword disagree eager visa cheese awesome plunge grass";

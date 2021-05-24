@@ -1,1 +1,1 @@
-var mnemonic = "melt outside will skirt bench bus grab holiday pledge position rough once";
+var mnemonic = "brief boil evoke loop forest endless degree album point return offer evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy debris edge struggle dignity weekend balance morning abuse before pupil identify";
+var mnemonic = "march medal bachelor swap syrup attitude eyebrow address rude situate grid sure";

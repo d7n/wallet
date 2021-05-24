@@ -1,1 +1,1 @@
-var mnemonic = "draft cradle bench garage brown check dune duck bottom amazing cool indoor";
+var mnemonic = "moment math lesson person resist deny casino clock pull pretty survey unlock";

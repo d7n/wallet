@@ -1,1 +1,1 @@
-var mnemonic = "pond right uphold code spatial doll vague eight opinion demise insect sell";
+var mnemonic = "verb shoot slice bracket settle extend hazard ability bulk spider summer melody";

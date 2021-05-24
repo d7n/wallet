@@ -1,1 +1,1 @@
-var mnemonic = "zone again nature tooth two globe edge since fan disorder broom wise";
+var mnemonic = "sunset talent faculty omit goddess auction federal brick egg slow voyage tomato";
