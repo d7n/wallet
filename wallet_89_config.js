@@ -1,1 +1,1 @@
-var mnemonic = "awkward noble come balance salmon urge aspect sketch space hover nuclear valve";
+var mnemonic = "lecture digital seat rail weasel ride version sustain sad canvas work resist";

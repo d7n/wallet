@@ -1,1 +1,1 @@
-var mnemonic = "bicycle farm moment fancy sweet black spider pony water family cause cargo";
+var mnemonic = "close rent broccoli syrup glare rebuild calm perfect head monkey actress gallery";

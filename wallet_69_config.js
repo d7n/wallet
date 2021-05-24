@@ -1,1 +1,1 @@
-var mnemonic = "found mutual glove debate space gold voice balcony raccoon dignity pattern speed";
+var mnemonic = "regret bone render globe skirt tribe people donate life upgrade chunk toy";

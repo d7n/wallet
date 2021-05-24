@@ -1,1 +1,1 @@
-var mnemonic = "mention sudden display cry cactus annual wash honey now ship brown wrist";
+var mnemonic = "album slight girl ticket december focus clinic canvas among attract evil club";

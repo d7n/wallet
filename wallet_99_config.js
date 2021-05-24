@@ -1,1 +1,1 @@
-var mnemonic = "valve vote globe dial student beef knife deputy toy put illegal mixture";
+var mnemonic = "text rural fiscal bacon body charge tomato erosion aisle receive certain disagree";

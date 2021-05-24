@@ -1,1 +1,1 @@
-var mnemonic = "blade habit symptom cluster attend juice feature step load drink flush secret";
+var mnemonic = "slam trumpet marine jar cliff depend oblige truly proud home accident park";

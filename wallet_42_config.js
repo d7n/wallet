@@ -1,1 +1,1 @@
-var mnemonic = "shadow tobacco limb manual weasel ghost relief material stone dry slot pig";
+var mnemonic = "worry raise kidney unit science tube hope orchard material violin rare tongue";

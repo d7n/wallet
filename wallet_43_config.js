@@ -1,1 +1,1 @@
-var mnemonic = "warfare corn accuse kiss slogan nothing aware cargo segment decline isolate remove";
+var mnemonic = "junior album lesson claw snake popular extend silver tortoise ahead picnic jeans";

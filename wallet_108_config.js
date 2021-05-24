@@ -1,1 +1,1 @@
-var mnemonic = "motor doll romance trouble drastic inch initial employ bird estate emerge pink";
+var mnemonic = "marine relax zoo return panel tide tumble retire name home orange notice";

@@ -1,1 +1,1 @@
-var mnemonic = "myself blind click into erosion puppy deal maple canal equip course toy";
+var mnemonic = "feel marble ill fragile kitchen topic impact year flat mystery enable tonight";

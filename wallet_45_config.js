@@ -1,1 +1,1 @@
-var mnemonic = "consider forward seminar repair language light lounge way act depth cage fork";
+var mnemonic = "wonder grief chase same cube have fatal half rare carbon lesson cactus";

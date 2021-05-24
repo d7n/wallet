@@ -1,1 +1,1 @@
-var mnemonic = "coach near apart beauty allow chalk pear gate glare cram frame novel";
+var mnemonic = "forget purse cousin fire snack puzzle negative outside awake bonus oil give";

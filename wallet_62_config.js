@@ -1,1 +1,1 @@
-var mnemonic = "toy tourist speak real cat swing pioneer holiday fly shiver firm warrior";
+var mnemonic = "spray huge orient seed evidence portion collect junior proud brief cross slow";

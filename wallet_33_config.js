@@ -1,1 +1,1 @@
-var mnemonic = "whale kingdom behind basket web job roast track pupil rich claw spoil";
+var mnemonic = "nature gun topic wet joke fitness check girl mass traffic habit bacon";

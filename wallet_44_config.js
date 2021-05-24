@@ -1,1 +1,1 @@
-var mnemonic = "pass entry avoid stock truck kick cave business clock ketchup reward fork";
+var mnemonic = "teach disorder edit indicate mechanic output razor enlist embark merit bridge kick";

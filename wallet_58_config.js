@@ -1,1 +1,1 @@
-var mnemonic = "solid alone candy electric erase hour kid cover normal ticket rude bus";
+var mnemonic = "sell switch diagram wear engine lounge abandon sword leg cradle cotton moon";

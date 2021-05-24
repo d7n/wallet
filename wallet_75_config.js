@@ -1,1 +1,1 @@
-var mnemonic = "indoor misery better siege month veteran bind lounge party legend idle become";
+var mnemonic = "sibling use submit tone abuse latin debris leave seek spot catch happy";

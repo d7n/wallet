@@ -1,1 +1,1 @@
-var mnemonic = "stomach book round notable nose oven mad inmate that equip connect angry";
+var mnemonic = "combine gorilla can success spread lesson neglect fiscal exist total drastic odor";

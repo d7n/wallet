@@ -1,1 +1,1 @@
-var mnemonic = "bronze six crush giraffe mutual artwork goddess devote switch bind piece taxi";
+var mnemonic = "ski edge parrot spell under view ceiling morning nature sausage life balance";

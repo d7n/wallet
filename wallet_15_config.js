@@ -1,1 +1,1 @@
-var mnemonic = "state circle olive loud tribe label trumpet proof lobster wasp spread crash";
+var mnemonic = "motion course job ten oven spot midnight term egg history figure screen";

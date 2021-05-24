@@ -1,1 +1,1 @@
-var mnemonic = "shaft better fish thank tooth follow mail country custom point market answer";
+var mnemonic = "remain van tool consider merge radar prepare iron vote grape hen adult";

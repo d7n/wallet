@@ -1,1 +1,1 @@
-var mnemonic = "bargain drill tell burst small promote flower acoustic chapter erosion disagree volume";
+var mnemonic = "fiber twice shed language ivory angry axis horror negative assist cluster song";

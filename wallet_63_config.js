@@ -1,1 +1,1 @@
-var mnemonic = "smile feature excuse eyebrow reopen educate north square lawn together carbon hero";
+var mnemonic = "evolve quantum finger harsh immune assault alone slab chunk elevator attack neutral";

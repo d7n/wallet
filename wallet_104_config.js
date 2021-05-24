@@ -1,1 +1,1 @@
-var mnemonic = "metal ask camp screen slab indoor tilt else circle bean oblige mirror";
+var mnemonic = "finish wait again voice year fence fury dad tiger pizza pride nothing";

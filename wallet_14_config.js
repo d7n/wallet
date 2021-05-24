@@ -1,1 +1,1 @@
-var mnemonic = "lesson angry arrest patch journey mosquito coyote dust appear riot public salmon";
+var mnemonic = "later cycle setup gasp erosion sentence armed wall jealous auction typical marble";

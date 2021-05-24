@@ -1,1 +1,1 @@
-var mnemonic = "wasp quiz tent fix manage lunch fiscal organ volcano room demise sugar";
+var mnemonic = "arrest horror pride doll car element able oblige wood quick govern begin";

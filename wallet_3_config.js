@@ -1,1 +1,1 @@
-var mnemonic = "unhappy vault kiss bring problem summer jump path oppose thunder promote motor";
+var mnemonic = "alarm cancel buzz rifle mad spirit timber type hen elbow leg heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "glass black island disorder squirrel ladder motion cart expose fun sauce nuclear";
+var mnemonic = "answer dash shell more blue oxygen response shy bottom tiny section radar";

@@ -1,1 +1,1 @@
-var mnemonic = "zone lawn fancy fall insect awake issue fatal home steak vibrant sound";
+var mnemonic = "flavor library wolf party faith amateur divert aunt ocean sadness village margin";

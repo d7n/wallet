@@ -1,1 +1,1 @@
-var mnemonic = "auto sick tomorrow slab asthma few library jungle knock approve occur grant";
+var mnemonic = "share jacket plastic arrive wealth setup twin fly airport amateur cupboard holiday";

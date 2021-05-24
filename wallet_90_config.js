@@ -1,1 +1,1 @@
-var mnemonic = "credit script tornado okay bless narrow rhythm leopard muffin point tribe recall";
+var mnemonic = "cupboard same vanish they draw upper bridge traffic neutral plastic excess hen";

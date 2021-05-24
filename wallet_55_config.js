@@ -1,1 +1,1 @@
-var mnemonic = "organ shoulder art one surface grunt super public involve sentence account treat";
+var mnemonic = "gravity bounce ridge rough bleak history vacuum gold piano media fire arrange";

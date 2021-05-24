@@ -1,1 +1,1 @@
-var mnemonic = "tribe over curtain false enlist climb indoor cargo mutual myth skull soda";
+var mnemonic = "scene valve walnut true expire valve void yard fork thought easily fence";

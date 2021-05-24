@@ -1,1 +1,1 @@
-var mnemonic = "execute lift laptop dismiss teach illegal knee cloth recall half actor other";
+var mnemonic = "vehicle year cement rude ethics two save arch tip foam gesture faint";

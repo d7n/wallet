@@ -1,1 +1,1 @@
-var mnemonic = "toilet patch bird cheap become gold absurd clever share wage swing lyrics";
+var mnemonic = "blind task flip concert tourist demise pipe occur vanish angle kangaroo motor";

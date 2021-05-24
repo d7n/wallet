@@ -1,1 +1,1 @@
-var mnemonic = "ocean alpha region link theory beauty journey vocal topic achieve stove yellow";
+var mnemonic = "monkey spy flash noodle laptop rich turn asthma subway wide cloth gaze";

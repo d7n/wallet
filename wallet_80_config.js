@@ -1,1 +1,1 @@
-var mnemonic = "year myself nose chimney soup street favorite novel lamp island saddle task";
+var mnemonic = "genre across coil hen dress harbor loyal occur source label flush autumn";

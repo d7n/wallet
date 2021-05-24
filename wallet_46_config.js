@@ -1,1 +1,1 @@
-var mnemonic = "behave crack reunion huge reunion exact saddle forward armed birth mix acoustic";
+var mnemonic = "sphere dream flame gaze uncover witness various nature equal rose dismiss focus";

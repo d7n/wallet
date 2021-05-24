@@ -1,1 +1,1 @@
-var mnemonic = "field solution secret half tennis rule amazing drink ladder debris surround object";
+var mnemonic = "negative similar elite census refuse announce nerve hurry brother treat large hint";

@@ -1,1 +1,1 @@
-var mnemonic = "document flavor spike gentle gap tone ski slim useless search law stairs";
+var mnemonic = "approve shrimp true casino term scrub road relax opera invite nominee hip";

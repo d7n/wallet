@@ -1,1 +1,1 @@
-var mnemonic = "juice dash glad shuffle grid true aware canvas toy vintage put trash";
+var mnemonic = "mind hurry spawn combine there hat sad tribe harbor sad crater deer";

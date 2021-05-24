@@ -1,1 +1,1 @@
-var mnemonic = "balcony month tape dilemma fix earth middle tennis rather peace buffalo essence";
+var mnemonic = "soft hand ability report evolve soccer upper list drive tell burden bar";

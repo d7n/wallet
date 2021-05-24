@@ -1,1 +1,1 @@
-var mnemonic = "issue carpet journey cement peanut point before valley spare claw neglect strong";
+var mnemonic = "best maze glare adapt stand abstract cigar wonder junk spy inquiry gym";

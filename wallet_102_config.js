@@ -1,1 +1,1 @@
-var mnemonic = "climb laundry behind grocery cart replace bargain when acquire demand degree ecology";
+var mnemonic = "equip ill immense barrel manual immune door person other embark odor glory";

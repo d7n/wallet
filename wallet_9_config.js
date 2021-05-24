@@ -1,1 +1,1 @@
-var mnemonic = "flush loyal autumn boss ocean cannon purse inform define guess cry live";
+var mnemonic = "amazing cactus leopard coin flip bundle recycle debate entry desk pumpkin client";

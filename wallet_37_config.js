@@ -1,1 +1,1 @@
-var mnemonic = "own miss cigar blouse add globe network tiny muffin goddess tilt frame";
+var mnemonic = "parent audit cluster embrace ivory stay upgrade whip floor become oyster fade";

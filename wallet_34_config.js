@@ -1,1 +1,1 @@
-var mnemonic = "arch real agent point tonight brick turn conduct foot same turkey return";
+var mnemonic = "field guilt kingdom negative they lucky about polar weather inform grid era";

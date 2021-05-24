@@ -1,1 +1,1 @@
-var mnemonic = "parent lens what betray night embody conduct pull yellow submit cream panic";
+var mnemonic = "lock cement neck guitar spin sample juice give miss airport index impulse";

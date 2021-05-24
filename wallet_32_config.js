@@ -1,1 +1,1 @@
-var mnemonic = "supply near salad call kid comfort sauce loan dove alone chief rebel";
+var mnemonic = "hobby soda hybrid task border gaze true blouse tank theory emotion jacket";

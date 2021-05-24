@@ -1,1 +1,1 @@
-var mnemonic = "maid doll swift special cotton cross clock siege pulse melt disorder blast";
+var mnemonic = "debris spice festival dilemma demise wet same police truly tower close brick";

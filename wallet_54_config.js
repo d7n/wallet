@@ -1,1 +1,1 @@
-var mnemonic = "battle shrimp time middle what mutual grant steel program cliff news smoke";
+var mnemonic = "street symptom fiscal review reveal rely primary whip address velvet trumpet achieve";

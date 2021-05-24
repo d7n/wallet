@@ -1,1 +1,1 @@
-var mnemonic = "average seek unit cargo dry zero army this chase try spider limit";
+var mnemonic = "soldier win spirit rescue unique universe nephew mercy pen act toe diet";

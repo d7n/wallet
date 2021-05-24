@@ -1,1 +1,1 @@
-var mnemonic = "interest tourist hurry banana wonder ostrich fragile comfort zoo song south drastic";
+var mnemonic = "quick pencil isolate entire example engine rhythm salad siege cycle very figure";

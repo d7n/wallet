@@ -1,1 +1,1 @@
-var mnemonic = "ordinary primary page bright carry display fortune pave sense iron drive valve";
+var mnemonic = "photo still air employ debate limit assault shed update income sniff black";

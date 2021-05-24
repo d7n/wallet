@@ -1,1 +1,1 @@
-var mnemonic = "object reason future armed wash relief truck fiber enroll winner adapt answer";
+var mnemonic = "thought climb exist fat average truck ribbon doll depth pluck clarify borrow";

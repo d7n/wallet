@@ -1,1 +1,1 @@
-var mnemonic = "sister weapon train tray endless scene embrace latin grid unusual say amount";
+var mnemonic = "knock grant nerve echo sign economy soon valid close crazy degree decade";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow wrap raven coyote engine million option rhythm corn autumn celery affair";
+var mnemonic = "birth father cream wisdom north puzzle insect hero disorder nurse shine uniform";

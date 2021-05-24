@@ -1,1 +1,1 @@
-var mnemonic = "long jeans bronze defense glance casino pistol super detect light scissors oven";
+var mnemonic = "captain leg damp describe balance satoshi tower seat famous document idle scheme";

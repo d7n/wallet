@@ -1,1 +1,1 @@
-var mnemonic = "pride auto inquiry gown creek program heavy describe series asset execute little";
+var mnemonic = "panther account citizen two choice hover memory motor issue twice task busy";

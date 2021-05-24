@@ -1,1 +1,1 @@
-var mnemonic = "layer panel engage tuna attract feed voice thumb dolphin head april picture";
+var mnemonic = "sense warm away have educate crush kitten accuse almost bonus nominee wheel";

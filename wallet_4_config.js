@@ -1,1 +1,1 @@
-var mnemonic = "sniff then night fat eight wrong focus treat magnet diesel ensure shrimp";
+var mnemonic = "seven opera muscle segment time unable sorry dirt wealth plunge state must";

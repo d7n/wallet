@@ -1,1 +1,1 @@
-var mnemonic = "pelican resemble road give unhappy urge gun aspect tragic venue able cherry";
+var mnemonic = "clog base miss chunk spike achieve festival affair law farm walk review";

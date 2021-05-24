@@ -1,1 +1,1 @@
-var mnemonic = "switch call dirt render expect glass supreme sphere reason head health velvet";
+var mnemonic = "what pipe autumn high evolve fan knock fold finish foot boost slice";

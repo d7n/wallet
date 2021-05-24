@@ -1,1 +1,1 @@
-var mnemonic = "cage flee inform stuff trap brush minimum settle token blast sustain side";
+var mnemonic = "embody shoe grape cost skin ring ceiling amused decrease sell rate flash";

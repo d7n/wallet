@@ -1,1 +1,1 @@
-var mnemonic = "slender purpose proof parade output offer horn patient fossil ill tragic hurry";
+var mnemonic = "use account together disagree very radio clock churn day hat key entry";

@@ -1,1 +1,1 @@
-var mnemonic = "piano clog lucky rate screen beef relax runway tiny mesh disagree impose";
+var mnemonic = "impose wage spare raw rhythm erase fitness balance tank traffic next parrot";

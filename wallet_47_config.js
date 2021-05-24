@@ -1,1 +1,1 @@
-var mnemonic = "path main zone bench proud police unusual vocal mad exist border page";
+var mnemonic = "future spice neutral soccer emotion draw town scout inner iron worth steel";

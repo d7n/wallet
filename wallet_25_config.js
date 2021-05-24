@@ -1,1 +1,1 @@
-var mnemonic = "relief again juice double breeze distance glue exact second monitor current spare";
+var mnemonic = "close pottery explain analyst cause nominee bargain suffer salute school vacuum amount";

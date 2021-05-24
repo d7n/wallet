@@ -1,1 +1,1 @@
-var mnemonic = "budget drama earth often section rail sibling wave poem away vacant vintage";
+var mnemonic = "fine symbol inmate attract lady leaf census flush hat anger increase indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "expire ignore differ glory portion ribbon fringe food benefit people choice trial";
+var mnemonic = "mixed fee when like chat you labor scare innocent reflect stable inch";

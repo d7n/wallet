@@ -1,1 +1,1 @@
-var mnemonic = "test debate siege case chapter sleep arrow core planet direct crumble horse";
+var mnemonic = "mercy soft control hand immense sentence victory chief brown bonus supreme uphold";

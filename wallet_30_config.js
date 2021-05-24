@@ -1,1 +1,1 @@
-var mnemonic = "clog kite cabin donkey radar flight earth panther skate fiber turn gold";
+var mnemonic = "budget tomato wash course dance attract best rookie essence equal home anger";

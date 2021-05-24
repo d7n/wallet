@@ -1,1 +1,1 @@
-var mnemonic = "brass critic desk maple decrease obtain electric boil risk among oblige beyond";
+var mnemonic = "one joy describe wrap surprise ensure hawk game promote joy lazy entire";

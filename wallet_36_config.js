@@ -1,1 +1,1 @@
-var mnemonic = "fit pink lion goose pilot learn menu depth fade motor grit decade";
+var mnemonic = "decrease cherry session treat process hero echo fee true sick weekend hope";

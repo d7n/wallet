@@ -1,1 +1,1 @@
-var mnemonic = "security wink infant evil sock merit safe chair mirror artefact hobby goat";
+var mnemonic = "speed chair dutch hunt next mail thing slide wrestle attack response crucial";

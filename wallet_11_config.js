@@ -1,1 +1,1 @@
-var mnemonic = "layer safe absorb organ aisle tent ball claw famous valley domain walnut";
+var mnemonic = "bitter steel rocket consider tooth peace false cup donate tragic lunch person";

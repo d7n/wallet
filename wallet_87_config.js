@@ -1,1 +1,1 @@
-var mnemonic = "increase ice exotic vocal genius erase salad patient inner frame reveal habit";
+var mnemonic = "resist crack industry wing ribbon kit carbon salon actress render staff perfect";

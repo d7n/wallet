@@ -1,1 +1,1 @@
-var mnemonic = "capable child canyon library describe runway crucial decrease shove error almost child";
+var mnemonic = "museum print sleep snap chapter pyramid degree tide option more route sea";

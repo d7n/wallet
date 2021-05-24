@@ -1,1 +1,1 @@
-var mnemonic = "device debate method season add chuckle tooth breeze marriage life cigar state";
+var mnemonic = "load evolve dumb absent seminar filter talk dry breeze clean wash civil";

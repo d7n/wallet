@@ -1,1 +1,1 @@
-var mnemonic = "stadium secret castle fortune solar beyond perfect child lens waste ticket claim";
+var mnemonic = "core symbol fan figure march pelican river drop design frown spirit bullet";

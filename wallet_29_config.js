@@ -1,1 +1,1 @@
-var mnemonic = "misery reduce vivid ask ranch prosper romance pepper mirror length basket happy";
+var mnemonic = "weather act stereo outside diary jewel inspire rug egg almost size girl";

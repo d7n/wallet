@@ -1,1 +1,1 @@
-var mnemonic = "excuse detail kid adjust begin present image bread boss bless bomb tourist";
+var mnemonic = "accuse notice divert obvious crime cave abuse gadget message health mechanic crisp";
