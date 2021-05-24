@@ -1,1 +1,1 @@
-var mnemonic = "jungle turkey merit patch lake margin brush spell scorpion shallow review stairs";
+var mnemonic = "already salad search shift raw shoe notice air radio harvest spread north";

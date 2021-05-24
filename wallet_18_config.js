@@ -1,1 +1,1 @@
-var mnemonic = "install moral stadium repeat blade match crucial spare fit draft ripple whisper";
+var mnemonic = "make rebuild anger safe anger humble body strong rose sweet few render";

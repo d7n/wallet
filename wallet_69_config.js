@@ -1,1 +1,1 @@
-var mnemonic = "evolve target injury manual liberty mystery judge magic glare promote prosper whip";
+var mnemonic = "advance possible heavy way visa flock thank job dad cave mystery end";

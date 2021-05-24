@@ -1,1 +1,1 @@
-var mnemonic = "error popular chest erode casino rib draw bottom among mosquito journey amazing";
+var mnemonic = "someone stick spin film donate swear rough gentle ring odor bread episode";

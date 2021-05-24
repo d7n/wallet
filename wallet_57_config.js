@@ -1,1 +1,1 @@
-var mnemonic = "dance type garlic gun faculty neglect better autumn length ordinary fix man";
+var mnemonic = "glow prison puppy review giant burger bubble apart engine slide elder buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust valley blouse analyst start punch educate when space response frozen wrap";
+var mnemonic = "jar nuclear nephew silly farm limb loyal strong friend rigid gesture sleep";

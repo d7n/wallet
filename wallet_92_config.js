@@ -1,1 +1,1 @@
-var mnemonic = "mosquito agree humble spawn between bubble yellow denial blast various nuclear mail";
+var mnemonic = "frown mercy another grunt unfair face crystal rate gravity obtain hour air";

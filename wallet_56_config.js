@@ -1,1 +1,1 @@
-var mnemonic = "audit amount poet ensure major minimum logic have laugh rural black sugar";
+var mnemonic = "unaware outer art affair cash fold guard chunk label ginger keep dress";

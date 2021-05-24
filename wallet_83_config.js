@@ -1,1 +1,1 @@
-var mnemonic = "subject what funny wife verb love dragon aerobic toddler flash smile brass";
+var mnemonic = "capital pole place filter reopen scene sniff direct chuckle disorder agent slot";

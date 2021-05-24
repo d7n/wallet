@@ -1,1 +1,1 @@
-var mnemonic = "truck indicate region lottery okay praise knock trash cruise account prize access";
+var mnemonic = "perfect zero dragon affair decline flip credit atom ladder final angle immense";

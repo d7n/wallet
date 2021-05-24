@@ -1,1 +1,1 @@
-var mnemonic = "crazy when copy impose hope snack tide metal catch style embody custom";
+var mnemonic = "wedding update reveal parrot excite endorse accident arch dash protect urban strategy";

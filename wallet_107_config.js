@@ -1,1 +1,1 @@
-var mnemonic = "game pistol fragile alter robot frozen choice monkey early hello wool leisure";
+var mnemonic = "such menu visit recycle gauge bench cloud puzzle tell brand flat wait";

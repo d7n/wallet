@@ -1,1 +1,1 @@
-var mnemonic = "live slow unaware lunch since combine focus ecology unaware early property cancel";
+var mnemonic = "sheriff tilt soft soccer shadow program skin stool marble rhythm pudding dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "salad acid charge uphold awake paddle sorry catalog produce wonder alter decline";
+var mnemonic = "empty gloom easily corn verify express join account pull coach when reopen";

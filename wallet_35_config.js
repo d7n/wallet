@@ -1,1 +1,1 @@
-var mnemonic = "menu rabbit security mother arch rival copy mix mandate spell noble view";
+var mnemonic = "song arena pluck prize bicycle shuffle fatal thing coconut exclude major more";

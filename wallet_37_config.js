@@ -1,1 +1,1 @@
-var mnemonic = "tell nature protect enlist few celery blame before mad raw left original";
+var mnemonic = "broom blush blur smart second affair spoon shove bird pulp foster apology";

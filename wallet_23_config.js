@@ -1,1 +1,1 @@
-var mnemonic = "north confirm now vibrant cargo garbage reveal excite shadow turn eternal mesh";
+var mnemonic = "craft solution amateur bag dirt hair hospital soldier miracle baby brother wrestle";

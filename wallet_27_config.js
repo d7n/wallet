@@ -1,1 +1,1 @@
-var mnemonic = "cost initial repair build aspect basic adapt hello remain impact tiger novel";
+var mnemonic = "knee ask sport fashion cable machine sauce major fruit doctor spoil taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor similar pair visa document grab like crane steak trigger clay mirror";
+var mnemonic = "rack bus track people inform element pistol coin pole exhaust coil sleep";

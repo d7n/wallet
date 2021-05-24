@@ -1,1 +1,1 @@
-var mnemonic = "record vault athlete sport grace casino change alpha winner debris gown identify";
+var mnemonic = "choice hero vendor measure fantasy abuse flavor main vault please length nasty";

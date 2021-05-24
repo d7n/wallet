@@ -1,1 +1,1 @@
-var mnemonic = "unaware predict ribbon hat sudden parrot doll hard vivid fence accident tenant";
+var mnemonic = "pulse fluid honey kiss member law trust radio resist elite amazing wear";

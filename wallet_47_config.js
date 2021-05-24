@@ -1,1 +1,1 @@
-var mnemonic = "mandate cigar shove grant oblige kiwi spoil below young village rabbit attract";
+var mnemonic = "plunge claw anxiety act thumb idea latin dog salmon tragic omit start";

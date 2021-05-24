@@ -1,1 +1,1 @@
-var mnemonic = "notice truck truck furnace couch skin initial need garage seminar tail jewel";
+var mnemonic = "cigar approve tonight evidence quick rough ice soul dune leg short reunion";

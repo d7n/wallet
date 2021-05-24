@@ -1,1 +1,1 @@
-var mnemonic = "fix negative black body hospital coyote solid coral banana wage twist cash";
+var mnemonic = "corn welcome upgrade phone ginger share another divorce unfold fun pill borrow";

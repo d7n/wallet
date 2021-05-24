@@ -1,1 +1,1 @@
-var mnemonic = "ski cook orbit orient already poet wall nut elegant tent word quarter";
+var mnemonic = "one route charge useful wing fatigue nuclear material believe mail october history";

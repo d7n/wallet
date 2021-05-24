@@ -1,1 +1,1 @@
-var mnemonic = "blue income exchange inspire text hope spike dumb armor belt lumber never";
+var mnemonic = "run kingdom hurt orbit during goddess onion obtain cattle divorce position ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "olive library core course twice kite danger weather arctic above flash demise";
+var mnemonic = "arrest leader shiver click hill critic energy custom dragon embrace deputy knee";

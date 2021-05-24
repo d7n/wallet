@@ -1,1 +1,1 @@
-var mnemonic = "borrow also cricket mind jewel apology offer rocket egg logic climb round";
+var mnemonic = "web toddler solve prefer shuffle milk lake shiver cheap moon peanut price";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture fragile twist cake dolphin myself marriage cup era crisp chronic fee";
+var mnemonic = "never feed boring inside baby afford lesson among soldier young leaf congress";

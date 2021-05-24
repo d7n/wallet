@@ -1,1 +1,1 @@
-var mnemonic = "dash adjust mandate jump dress outdoor sail copper nurse capable ahead best";
+var mnemonic = "sense clarify real volume adjust fatigue toss tumble midnight length clean fame";

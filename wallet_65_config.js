@@ -1,1 +1,1 @@
-var mnemonic = "topic unable crane forward bargain knife marine century crystal unusual give muscle";
+var mnemonic = "jump scout large dog cheese slide alpha proud hunt great loop around";

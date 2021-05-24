@@ -1,1 +1,1 @@
-var mnemonic = "mask brave rude pudding orange because piano cram leave dentist where urge";
+var mnemonic = "purity pottery sustain february rely horror tattoo bean income trap someone install";

@@ -1,1 +1,1 @@
-var mnemonic = "regular spray noodle negative morning melt similar country donor vendor injury banner";
+var mnemonic = "shy buddy few garage orphan ecology wise prepare subway congress witness space";

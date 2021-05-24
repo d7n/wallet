@@ -1,1 +1,1 @@
-var mnemonic = "veteran voyage book salmon swamp always usage auto that foil deer year";
+var mnemonic = "useless beyond tree wrong piano charge agent expose amused test afford will";

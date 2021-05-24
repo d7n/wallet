@@ -1,1 +1,1 @@
-var mnemonic = "any medal trend embrace empower agent because erupt veteran lounge spoon throw";
+var mnemonic = "refuse talk father grief law powder budget boring license margin source decade";

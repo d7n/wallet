@@ -1,1 +1,1 @@
-var mnemonic = "captain cigar talent rookie ship april sense dolphin industry trim gravity flame";
+var mnemonic = "scout purse actual orchard stadium mesh betray forget tobacco bomb stay goose";

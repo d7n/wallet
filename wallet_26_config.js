@@ -1,1 +1,1 @@
-var mnemonic = "around front drift spot plastic frame lens soccer fly guitar film biology";
+var mnemonic = "draw undo spread price chief machine render cupboard jealous flee income mad";

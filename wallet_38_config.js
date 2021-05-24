@@ -1,1 +1,1 @@
-var mnemonic = "traffic stock snow answer access despair loop void tongue second worry accuse";
+var mnemonic = "title crack pull off term taste promote two escape game denial convince";

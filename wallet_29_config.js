@@ -1,1 +1,1 @@
-var mnemonic = "muscle renew napkin kidney pulse elbow neck venture iron sentence nasty spring";
+var mnemonic = "peasant filter pencil trash tobacco silk floor first harsh more age wire";

@@ -1,1 +1,1 @@
-var mnemonic = "spray orange govern matter fiction antique relief attend submit rescue apple dinner";
+var mnemonic = "delay switch oyster cheese slide canal medal swim auction width turn robot";

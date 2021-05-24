@@ -1,1 +1,1 @@
-var mnemonic = "since other satoshi dial dove target connect brief frog goat range problem";
+var mnemonic = "gain detect love swap dune capital coast holiday reopen frown food economy";

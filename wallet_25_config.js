@@ -1,1 +1,1 @@
-var mnemonic = "club borrow glory tragic lawsuit chief buzz dove small gun spatial feel";
+var mnemonic = "home sun arctic wheel knife salute unveil employ civil seminar type worry";

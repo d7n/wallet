@@ -1,1 +1,1 @@
-var mnemonic = "tissue dinner black sample fever gospel actual buyer steak citizen hotel crowd";
+var mnemonic = "cost electric torch decide quality brain material viable end advance pride zoo";

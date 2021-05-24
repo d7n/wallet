@@ -1,1 +1,1 @@
-var mnemonic = "cost royal holiday bean doll tomato kid wave tortoise smile child winner";
+var mnemonic = "lens bulk differ unveil follow smart trim excess vivid sniff master bird";

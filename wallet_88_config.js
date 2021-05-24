@@ -1,1 +1,1 @@
-var mnemonic = "fee toast quit include punch draft strong face taxi canvas veteran patient";
+var mnemonic = "tired amused heavy craft game turtle produce erupt title round drill glare";

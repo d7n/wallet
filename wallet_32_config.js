@@ -1,1 +1,1 @@
-var mnemonic = "glad save opera behind leave broccoli casino senior liberty disease aspect fork";
+var mnemonic = "snow neglect mixed cancel artefact floor shove analyst rough indoor inmate inject";

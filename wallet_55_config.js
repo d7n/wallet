@@ -1,1 +1,1 @@
-var mnemonic = "gesture huge vehicle cave iron lecture profit turkey cabbage dynamic wreck reduce";
+var mnemonic = "level arch mutual conduct screen squirrel obtain brick agree mistake manage crumble";

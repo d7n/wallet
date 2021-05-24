@@ -1,1 +1,1 @@
-var mnemonic = "horn seven poverty tree question before together foil decline jacket enjoy salmon";
+var mnemonic = "ankle sail mango tattoo goddess deny account type bus venue typical join";

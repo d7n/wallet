@@ -1,1 +1,1 @@
-var mnemonic = "follow side buzz clarify clay snack vintage girl notice drip truth dose";
+var mnemonic = "draw flee riot process decrease palm enhance garden stage monster grow smart";

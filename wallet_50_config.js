@@ -1,1 +1,1 @@
-var mnemonic = "pony panda buddy couch invest badge clinic initial salt island frost cargo";
+var mnemonic = "ten guard fossil donor creek glad chaos donate renew gas marine glimpse";

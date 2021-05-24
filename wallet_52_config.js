@@ -1,1 +1,1 @@
-var mnemonic = "prefer stumble stem acid load manual solution talk thought trim brain acquire";
+var mnemonic = "gown ethics supreme broccoli label excite chaos decide order clarify tornado bean";

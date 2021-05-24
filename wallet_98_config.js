@@ -1,1 +1,1 @@
-var mnemonic = "genre cradle turkey wood very wave broom window proof manual aware venue";
+var mnemonic = "chronic prosper legend antenna portion truth cruel spend curtain immense space north";

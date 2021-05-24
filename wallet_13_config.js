@@ -1,1 +1,1 @@
-var mnemonic = "annual work brain arrest smart empower step essay say solution chair taxi";
+var mnemonic = "yard bullet soul hand buddy indicate season alert sick depart sort other";

@@ -1,1 +1,1 @@
-var mnemonic = "merit employ cream foil cloud joke cage throw flash orange floor quiz";
+var mnemonic = "security belt lend main essence later verify zero file judge cake tree";

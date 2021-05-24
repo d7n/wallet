@@ -1,1 +1,1 @@
-var mnemonic = "tool canoe deal deny cup sudden pig bleak brand word lunar prefer";
+var mnemonic = "claw egg spirit tuition rely hurry asthma address message rocket assume clog";

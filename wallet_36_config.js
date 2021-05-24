@@ -1,1 +1,1 @@
-var mnemonic = "boil disease chimney security museum spray stumble drill clap plastic crawl admit";
+var mnemonic = "guide twenty refuse shop priority brain axis castle dentist shoot level ripple";

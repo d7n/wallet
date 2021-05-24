@@ -1,1 +1,1 @@
-var mnemonic = "sniff system believe uniform follow flush caught slush slot test pass angle";
+var mnemonic = "sand course hunt east unfair garment dawn shoot tree scissors leopard used";

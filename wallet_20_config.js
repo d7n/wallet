@@ -1,1 +1,1 @@
-var mnemonic = "mixture exchange undo direct nature assume tip split man aspect size office";
+var mnemonic = "drift episode twin upon want script wheel trim crumble cat obvious weekend";

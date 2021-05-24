@@ -1,1 +1,1 @@
-var mnemonic = "loud habit smile afford crash practice dish great omit exercise marriage correct";
+var mnemonic = "share update home desert liberty range load suspect labor wine arrest repair";

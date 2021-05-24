@@ -1,1 +1,1 @@
-var mnemonic = "network practice buyer various process member coffee few vacuum denial fragile blouse";
+var mnemonic = "foam wing security episode blood worth hurry antique meadow ridge swamp wild";

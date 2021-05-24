@@ -1,1 +1,1 @@
-var mnemonic = "draft undo summer conduct stable father marble life march rural couch enrich";
+var mnemonic = "rain teach day auto kite calm round fuel month pause unusual betray";

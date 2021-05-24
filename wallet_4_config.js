@@ -1,1 +1,1 @@
-var mnemonic = "age invite dismiss pumpkin solution daring foster twice pigeon critic frog intact";
+var mnemonic = "primary minute antenna pair quiz trash tell primary warfare guide open prepare";

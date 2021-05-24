@@ -1,1 +1,1 @@
-var mnemonic = "grass crouch remind leader repair note vintage pet kitchen kitten reward globe";
+var mnemonic = "forget relief across brush choose nasty nation coil busy ketchup search soldier";

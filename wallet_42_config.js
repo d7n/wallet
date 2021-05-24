@@ -1,1 +1,1 @@
-var mnemonic = "prepare congress tissue peasant often sail skill salon anger strategy regular know";
+var mnemonic = "junior stand general deliver paper girl enjoy attitude gentle scene borrow isolate";

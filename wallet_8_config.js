@@ -1,1 +1,1 @@
-var mnemonic = "wet fury mass turkey rigid real swallow priority cute output blood clinic";
+var mnemonic = "real august chat solve all quarter crush divide online lab worth correct";

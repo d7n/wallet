@@ -1,1 +1,1 @@
-var mnemonic = "coil debate chronic miracle sing equip torch frown wait safe twelve grab";
+var mnemonic = "jealous garlic brisk gorilla mammal explain rare cheap limb cliff truth raise";

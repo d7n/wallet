@@ -1,1 +1,1 @@
-var mnemonic = "lunar various enhance bless action suspect say finger dream wave plastic sample";
+var mnemonic = "season document steak gentle excite consider cover era laundry rice hill appear";

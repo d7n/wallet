@@ -1,1 +1,1 @@
-var mnemonic = "brass crane daughter result cross purchase race wonder require tilt struggle turkey";
+var mnemonic = "laptop lazy butter choice pulp car release bunker equal disorder speed alley";

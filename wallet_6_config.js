@@ -1,1 +1,1 @@
-var mnemonic = "system illness oblige useless group unfold hotel oxygen primary correct drama spice";
+var mnemonic = "rent fruit gasp strong artist decide chase palm unfold coil minor guard";

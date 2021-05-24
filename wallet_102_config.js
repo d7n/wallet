@@ -1,1 +1,1 @@
-var mnemonic = "comic stick equal cement fee flight goose swap atom twin crystal debris";
+var mnemonic = "buyer churn crawl claw glue tuna gun cram joke action enlist cross";

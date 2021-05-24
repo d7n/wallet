@@ -1,1 +1,1 @@
-var mnemonic = "tourist bike camp sudden anchor vital index exclude hollow scale private anger";
+var mnemonic = "festival chuckle doll cheap trumpet lab omit toward visa divorce trick rude";

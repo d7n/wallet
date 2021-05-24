@@ -1,1 +1,1 @@
-var mnemonic = "middle dolphin skill drift venue quarter shoulder silent oval ticket stone noodle";
+var mnemonic = "best wet luxury panic acoustic lift retire rebuild gospel law clarify grid";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk over shoulder there luxury lawn ocean toddler abandon real emotion sing";
+var mnemonic = "repeat physical switch pride split poverty doctor produce quiz thunder camera bless";

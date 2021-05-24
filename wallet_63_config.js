@@ -1,1 +1,1 @@
-var mnemonic = "layer play weapon jeans flush jealous suit when area panther desk gaze";
+var mnemonic = "bullet door lock begin parent abstract rotate glance fossil escape street vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "hero candy awesome shop critic chunk essence ugly grid coast situate echo";
+var mnemonic = "barely cake waste wing sunny clump squeeze deny wrist reflect name rare";

@@ -1,1 +1,1 @@
-var mnemonic = "birth book omit frozen roast indoor first siege axis among design youth";
+var mnemonic = "ice umbrella gossip detect anxiety spell pill main alone else silly jar";

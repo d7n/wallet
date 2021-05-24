@@ -1,1 +1,1 @@
-var mnemonic = "hurdle view daughter evoke castle tide price list now slogan cupboard arch";
+var mnemonic = "nominee isolate sunny noodle stuff mix cement decade window fly broom electric";

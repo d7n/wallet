@@ -1,1 +1,1 @@
-var mnemonic = "bird essay merit lift army expose below must carry plate gold select";
+var mnemonic = "chalk afford captain gadget blame federal bulk blast case bounce embrace final";

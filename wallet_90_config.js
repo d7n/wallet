@@ -1,1 +1,1 @@
-var mnemonic = "oak benefit tank quarter wonder retreat dumb shiver glue taxi turtle theme";
+var mnemonic = "void foot move soon business inner report news huge fantasy govern myth";

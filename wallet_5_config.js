@@ -1,1 +1,1 @@
-var mnemonic = "celery enact cereal fuel route filter cloud powder story base auto raw";
+var mnemonic = "minimum rule luxury kidney recall float toddler gather resemble diet poem legend";

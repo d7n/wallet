@@ -1,1 +1,1 @@
-var mnemonic = "violin donor cook siren round churn negative leisure bind minimum drop regret";
+var mnemonic = "leg scare unable fine robot plastic tooth security bottom december oxygen swarm";

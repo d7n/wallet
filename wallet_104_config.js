@@ -1,1 +1,1 @@
-var mnemonic = "squeeze joy orient option swarm like awake sketch produce copy pet sheriff";
+var mnemonic = "vacuum camera tooth wait unaware flash profit horn dash direct chase army";

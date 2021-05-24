@@ -1,1 +1,1 @@
-var mnemonic = "airport acid tenant issue jacket tortoise love soccer wrap siren tattoo south";
+var mnemonic = "attend talent what law local february scare snake trick equip awake absurd";

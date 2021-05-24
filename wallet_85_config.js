@@ -1,1 +1,1 @@
-var mnemonic = "arm cinnamon brief scrap math kangaroo census sword fan fatal notice then";
+var mnemonic = "budget match sight used situate october upset shallow catalog cabbage feature demise";

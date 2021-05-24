@@ -1,1 +1,1 @@
-var mnemonic = "web wet unique wet ankle scatter party plunge manage furnace skill lottery";
+var mnemonic = "cup carry cash replace tell talent stomach smart better spatial embark refuse";

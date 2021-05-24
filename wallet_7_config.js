@@ -1,1 +1,1 @@
-var mnemonic = "rotate almost roof donor toast leisure sound sleep juice boring cruel uphold";
+var mnemonic = "reason guide nation wood aerobic woman burden limb olive roast happy negative";

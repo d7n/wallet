@@ -1,1 +1,1 @@
-var mnemonic = "have just wagon adapt venue breeze indicate mixture party grass hotel blade";
+var mnemonic = "ketchup merit theory thank media version pride sick swim advance parade resemble";

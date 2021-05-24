@@ -1,1 +1,1 @@
-var mnemonic = "speak rule mixture gain simple broom naive cook song wreck artefact useful";
+var mnemonic = "rice happy aerobic sunny world access point drastic insect canoe theory air";

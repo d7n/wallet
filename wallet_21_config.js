@@ -1,1 +1,1 @@
-var mnemonic = "long brave soon true crawl tragic other trust among gold cake surprise";
+var mnemonic = "hello rhythm absorb parent basket fence segment plate matter foot spirit equip";

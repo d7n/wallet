@@ -1,1 +1,1 @@
-var mnemonic = "neck board burger brave shy repeat spoon cloth bottom mule trial minor";
+var mnemonic = "shop beach spin blind current absent wall cool remember acoustic game jar";
