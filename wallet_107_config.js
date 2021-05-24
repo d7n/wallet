@@ -1,1 +1,1 @@
-var mnemonic = "tiger dad electric camp cart maple orphan cupboard purpose range enrich nothing";
+var mnemonic = "pink pair derive ramp culture scene prefer surface hybrid assist put fever";

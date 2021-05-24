@@ -1,1 +1,1 @@
-var mnemonic = "goddess abstract imitate express sing drip fee arrow comfort scare seed eternal";
+var mnemonic = "loud agree require sea audit angle horse mixed grit conduct robot hotel";

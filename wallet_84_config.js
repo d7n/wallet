@@ -1,1 +1,1 @@
-var mnemonic = "shallow wait uncover until capital please random rate click radio absurd fish";
+var mnemonic = "steel west build because brick feature logic evoke coyote square sock rib";

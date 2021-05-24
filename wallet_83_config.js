@@ -1,1 +1,1 @@
-var mnemonic = "execute wedding buzz left season hood pretty piece force when cube spread";
+var mnemonic = "text motor child waste myth ignore want point lucky immune coach broken";

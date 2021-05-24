@@ -1,1 +1,1 @@
-var mnemonic = "orphan gravity immune spin method riot print ocean hammer board patrol wrist";
+var mnemonic = "business radar among fetch romance left swamp razor joy volcano caught interest";

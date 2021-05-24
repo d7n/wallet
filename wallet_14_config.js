@@ -1,1 +1,1 @@
-var mnemonic = "credit pen divorce warrior debris bonus mass siege wrist auto exotic wagon";
+var mnemonic = "dolphin topple kid canvas over indoor shoulder urge resource biology student saddle";

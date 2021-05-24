@@ -1,1 +1,1 @@
-var mnemonic = "always hard negative will upgrade forum student funny seat try disagree damp";
+var mnemonic = "dolphin alcohol pretty scatter crisp use laundry tape tool journey neck emotion";

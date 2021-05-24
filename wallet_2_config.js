@@ -1,1 +1,1 @@
-var mnemonic = "under acoustic expand cousin document opinion labor response own mirror report sample";
+var mnemonic = "author employ veteran mom test battle camp jeans thrive length ship abstract";

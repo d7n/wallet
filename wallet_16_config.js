@@ -1,1 +1,1 @@
-var mnemonic = "claim wall talent ability nature yard slight electric kiwi ankle history auto";
+var mnemonic = "ocean ask owner obtain improve time sadness picture moral genre major height";

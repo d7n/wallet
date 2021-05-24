@@ -1,1 +1,1 @@
-var mnemonic = "drop month wrap ceiling cliff country course boost kingdom reason goat tenant";
+var mnemonic = "radio deny utility office right price panther pet popular trap moment error";

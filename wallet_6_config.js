@@ -1,1 +1,1 @@
-var mnemonic = "energy screen tree dwarf brown coin agree scrub critic employ ugly material";
+var mnemonic = "sustain sunset jump trust length panda display nature abandon abandon truck document";

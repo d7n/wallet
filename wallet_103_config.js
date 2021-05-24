@@ -1,1 +1,1 @@
-var mnemonic = "boil gravity slab print album feature announce toward shallow voyage hood lend";
+var mnemonic = "system neglect shock eyebrow obtain wrist economy approve essence nut lunar empower";

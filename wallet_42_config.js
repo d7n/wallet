@@ -1,1 +1,1 @@
-var mnemonic = "recipe risk time base person coach rice grant nation globe spoon antenna";
+var mnemonic = "frozen theory review drama deputy dutch doctor provide diesel loop token manual";

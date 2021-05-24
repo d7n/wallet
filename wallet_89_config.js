@@ -1,1 +1,1 @@
-var mnemonic = "yard affair treat ridge joke buffalo destroy resist since actress man industry";
+var mnemonic = "afford then strong grape cargo just salute laugh voyage hundred choice nominee";

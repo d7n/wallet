@@ -1,1 +1,1 @@
-var mnemonic = "unaware valley mushroom topic enrich transfer turkey require media crucial rookie yard";
+var mnemonic = "slide bronze pupil budget canal duck despair cable tennis monster pigeon capital";

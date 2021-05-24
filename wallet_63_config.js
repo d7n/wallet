@@ -1,1 +1,1 @@
-var mnemonic = "curious badge decline bind peace excuse naive lady cheese prize cube before";
+var mnemonic = "poet squirrel any field change faint differ garden slide frown absent island";

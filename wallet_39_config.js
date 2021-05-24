@@ -1,1 +1,1 @@
-var mnemonic = "wish news hundred focus immune rice stay rescue obvious level gate choose";
+var mnemonic = "south panel funny juice this midnight skull cake purse giant fuel install";

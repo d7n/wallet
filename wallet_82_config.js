@@ -1,1 +1,1 @@
-var mnemonic = "flower inform right observe scorpion exercise machine siren spice demand scorpion coffee";
+var mnemonic = "secret blind treat ocean surface hundred amount super rabbit lazy area fiction";

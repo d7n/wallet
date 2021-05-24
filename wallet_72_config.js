@@ -1,1 +1,1 @@
-var mnemonic = "uphold age broccoli impact bitter essence start side uniform kid student ask";
+var mnemonic = "improve unfair bring fantasy retire appear room drift stuff below point olympic";

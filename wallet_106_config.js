@@ -1,1 +1,1 @@
-var mnemonic = "nothing lake erosion clog piano aerobic scare utility loop fly silent pride";
+var mnemonic = "potato sugar robust empty grief can wealth slam afraid journey camera egg";

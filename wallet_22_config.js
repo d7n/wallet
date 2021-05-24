@@ -1,1 +1,1 @@
-var mnemonic = "prevent move series sugar suffer park clog month pass surge athlete vacant";
+var mnemonic = "shed judge daring enjoy reform vendor old fork banner still before park";

@@ -1,1 +1,1 @@
-var mnemonic = "nice baby slogan impose input strong iron jaguar biology category dog afraid";
+var mnemonic = "eyebrow shine pretty any license chronic corn apple palace muffin leader inhale";

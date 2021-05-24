@@ -1,1 +1,1 @@
-var mnemonic = "gossip ribbon stand repair tobacco actor subway mad wife echo helmet glare";
+var mnemonic = "sting since drum stick peasant swamp problem matrix west price tone beauty";

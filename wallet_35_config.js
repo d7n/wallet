@@ -1,1 +1,1 @@
-var mnemonic = "mobile average humble hurdle guess duty aunt permit bid explain actual love";
+var mnemonic = "salad fragile give region dutch seat bubble wealth between amount sweet winner";

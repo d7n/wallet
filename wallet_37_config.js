@@ -1,1 +1,1 @@
-var mnemonic = "train trim head holiday history over cage strike raise fashion ticket escape";
+var mnemonic = "that cloth say tooth detect silent blood witness clean photo law target";

@@ -1,1 +1,1 @@
-var mnemonic = "snake lunch wrestle discover arm miss news scale smooth casino okay health";
+var mnemonic = "year question slight trigger garden lecture tip salt hen globe aim bronze";

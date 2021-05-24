@@ -1,1 +1,1 @@
-var mnemonic = "nominee program asset salt tornado illegal absent tenant fetch deny addict summer";
+var mnemonic = "payment regular come banner grid dignity cereal sun lens sail crumble mention";

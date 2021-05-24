@@ -1,1 +1,1 @@
-var mnemonic = "produce present snake display mixture cart unknown satisfy reopen forward express unknown";
+var mnemonic = "file you foot country slush around mushroom detect move notice nephew ready";

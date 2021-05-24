@@ -1,1 +1,1 @@
-var mnemonic = "south elite nature farm fat bread crop oyster tip utility sister twin";
+var mnemonic = "husband slow tide horse pumpkin pass pepper grunt offer cargo physical capital";

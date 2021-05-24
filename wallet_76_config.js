@@ -1,1 +1,1 @@
-var mnemonic = "spare memory all priority whisper rescue monitor ancient ankle salad various reveal";
+var mnemonic = "chair diet click panic know recycle ridge scare coffee machine sunset over";

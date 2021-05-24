@@ -1,1 +1,1 @@
-var mnemonic = "abuse ivory acoustic lava child expire amazing arena method word spray draft";
+var mnemonic = "decade quit mistake large wasp box alone gravity under require decade uphold";

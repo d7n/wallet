@@ -1,1 +1,1 @@
-var mnemonic = "initial physical refuse battle sea mutual save evidence endorse laptop salt hollow";
+var mnemonic = "ocean reveal coral celery prevent man ozone inflict drop blouse foster organ";

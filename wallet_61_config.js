@@ -1,1 +1,1 @@
-var mnemonic = "nut elegant wine scan palm useless scrub ecology direct reward subject motion";
+var mnemonic = "razor tower frozen victory ready cup when since candy physical rely gown";

@@ -1,1 +1,1 @@
-var mnemonic = "baby order rug cradle fault senior dawn cushion misery whisper quarter pluck";
+var mnemonic = "banner cattle glad tortoise various glue enrich sort verb guilt sun giant";

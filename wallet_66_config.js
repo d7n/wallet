@@ -1,1 +1,1 @@
-var mnemonic = "coil baby cause buddy faint feed section beach salon rack submit cliff";
+var mnemonic = "denial mystery segment danger orchard strong review disagree winner gaze nest once";

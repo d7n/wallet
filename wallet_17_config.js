@@ -1,1 +1,1 @@
-var mnemonic = "near chunk kitten alarm obey reopen zero slot eyebrow must canvas butter";
+var mnemonic = "pulse tired give save riot mistake clutch yellow atom glove purpose pony";

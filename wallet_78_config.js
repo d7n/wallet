@@ -1,1 +1,1 @@
-var mnemonic = "device cart brand enable shield ice clown spawn must gadget poet output";
+var mnemonic = "injury ski aisle rice captain cargo shield oppose chef since mutual size";

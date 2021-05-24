@@ -1,1 +1,1 @@
-var mnemonic = "keen hair tip code goose knee couple endorse canoe narrow throw dose";
+var mnemonic = "scissors typical any virtual text hammer minor entry permit quality service sell";

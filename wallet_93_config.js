@@ -1,1 +1,1 @@
-var mnemonic = "poverty chicken charge armed window ocean artwork escape panda attitude peanut direct";
+var mnemonic = "floor still will quick promote tortoise box lounge shock attack audit timber";

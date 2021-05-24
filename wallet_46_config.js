@@ -1,1 +1,1 @@
-var mnemonic = "visual smoke burden orange alien rifle amateur crater hair field vibrant globe";
+var mnemonic = "rapid energy common purchase clutch amused bracket equip crowd basket ride fruit";

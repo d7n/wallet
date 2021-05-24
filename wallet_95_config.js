@@ -1,1 +1,1 @@
-var mnemonic = "arrest drift chronic pilot robot explain slim permit ahead lift include silk";
+var mnemonic = "sunny series matrix north foster snap monitor system poet two alley donate";

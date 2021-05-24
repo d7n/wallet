@@ -1,1 +1,1 @@
-var mnemonic = "strike cruise venture mean acoustic chair world vote salmon puzzle moon ghost";
+var mnemonic = "pistol fluid water wasp spare slogan impose comic table stone song innocent";

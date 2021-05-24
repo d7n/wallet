@@ -1,1 +1,1 @@
-var mnemonic = "sunny dial marriage elephant frozen ship apology include shed extra any mind";
+var mnemonic = "suspect prosper story protect cluster milk flush nation genius sight toward student";

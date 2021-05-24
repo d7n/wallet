@@ -1,1 +1,1 @@
-var mnemonic = "slow horse good busy wine first caution catalog noodle group memory later";
+var mnemonic = "physical distance autumn moral trade awake surface give wheat put clump wave";

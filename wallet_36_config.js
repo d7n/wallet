@@ -1,1 +1,1 @@
-var mnemonic = "math author luggage coyote drift indicate winner side dune donate hard eagle";
+var mnemonic = "because burst green deposit rude exhaust salmon upon exhaust stairs innocent able";

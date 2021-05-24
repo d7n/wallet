@@ -1,1 +1,1 @@
-var mnemonic = "chief beach fuel person bind shell that fee desert faculty key thumb";
+var mnemonic = "rude unusual enable dice permit cover produce derive capable make true ostrich";

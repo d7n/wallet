@@ -1,1 +1,1 @@
-var mnemonic = "vivid arena employ certain actual tumble appear reason betray mutual nasty step";
+var mnemonic = "spoil gown stadium insect eyebrow zone course pond frame among wing salute";

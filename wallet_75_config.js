@@ -1,1 +1,1 @@
-var mnemonic = "federal twelve mask earth cable puppy erase armor harbor someone beyond exhaust";
+var mnemonic = "belt gather two option gas delay increase about control make network minimum";

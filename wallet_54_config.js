@@ -1,1 +1,1 @@
-var mnemonic = "party solution fade virtual stereo mixed family more seek siege snow reject";
+var mnemonic = "unique enact confirm devote arch other nut fury cloud curtain food round";

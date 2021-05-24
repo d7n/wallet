@@ -1,1 +1,1 @@
-var mnemonic = "sausage case walk grunt worry pioneer autumn gossip travel shove protect light";
+var mnemonic = "gentle mass fall hill viable video leave merry over then mesh bring";

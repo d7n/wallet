@@ -1,1 +1,1 @@
-var mnemonic = "recycle economy fancy change area bread swear across drive live cat buyer";
+var mnemonic = "lunar still venture sign unfold hollow biology sustain lift glory original odor";

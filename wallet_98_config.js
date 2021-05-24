@@ -1,1 +1,1 @@
-var mnemonic = "hero banner miss inmate sunset regret various dwarf blanket wild mention private";
+var mnemonic = "brown fringe price jeans paddle game despair lizard alpha culture cause can";

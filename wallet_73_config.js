@@ -1,1 +1,1 @@
-var mnemonic = "quality maze trick stage achieve vintage common brother duty cluster pulse remove";
+var mnemonic = "because end friend disagree fabric onion reward suit cruel since local coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "snake dutch category connect traffic brain kick fix plug knife place draw";
+var mnemonic = "rigid equal please search cupboard latin ancient bullet slice source proof dose";

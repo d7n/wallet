@@ -1,1 +1,1 @@
-var mnemonic = "forum dynamic judge junior disorder syrup clerk split mushroom daring priority congress";
+var mnemonic = "smooth sight select impose prevent fault window normal funny idle frozen jaguar";

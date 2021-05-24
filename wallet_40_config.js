@@ -1,1 +1,1 @@
-var mnemonic = "cup laptop leg congress force fame guitar stand age alpha news truth";
+var mnemonic = "punch borrow caution high feature wrestle coffee census spray snap make delay";

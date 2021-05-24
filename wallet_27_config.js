@@ -1,1 +1,1 @@
-var mnemonic = "steel dynamic early plunge flush debris pill forum hair brand pyramid cherry";
+var mnemonic = "act online stock blossom clerk comic door gain cry seminar purse random";

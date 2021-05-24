@@ -1,1 +1,1 @@
-var mnemonic = "cable protect matrix road ball review wedding lumber mom excess biology escape";
+var mnemonic = "pledge blossom unaware eternal quick grain choice turtle weird host become present";

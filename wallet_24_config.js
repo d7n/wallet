@@ -1,1 +1,1 @@
-var mnemonic = "veteran coconut math bike radar okay sudden squirrel topic destroy estate purse";
+var mnemonic = "select sail senior stay damage merge convince enable company cause various feel";

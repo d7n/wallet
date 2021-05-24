@@ -1,1 +1,1 @@
-var mnemonic = "place spoon omit photo unknown plate amazing believe soon range pet chat";
+var mnemonic = "reason soap teach labor rib mom advice song display infant wrist disease";

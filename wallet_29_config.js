@@ -1,1 +1,1 @@
-var mnemonic = "spoon tourist tourist coast brief chimney paddle impact other orbit confirm stick";
+var mnemonic = "leader soul fish disease yellow angry exchange fade rough double pigeon begin";

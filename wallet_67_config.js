@@ -1,1 +1,1 @@
-var mnemonic = "disagree plastic goddess pulp sand peace coin kid original member blue average";
+var mnemonic = "tortoise sort leisure inject cinnamon lawn metal little crop pottery royal select";

@@ -1,1 +1,1 @@
-var mnemonic = "coral paddle prison lyrics opinion plastic flip sail hero subway license wall";
+var mnemonic = "velvet noodle payment swap toe fetch print cargo true brief knee gentle";

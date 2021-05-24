@@ -1,1 +1,1 @@
-var mnemonic = "invite dismiss castle element actress tortoise drip cousin path engine nurse chunk";
+var mnemonic = "bread drill adjust gorilla machine planet manual lion february time search dance";

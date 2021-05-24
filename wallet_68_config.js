@@ -1,1 +1,1 @@
-var mnemonic = "omit brain moon chronic sugar deposit carbon traffic limb quote fitness crumble";
+var mnemonic = "clarify cupboard secret tomato wrap auto borrow kick release avoid title settle";

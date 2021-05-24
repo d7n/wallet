@@ -1,1 +1,1 @@
-var mnemonic = "vote crisp tuna giraffe about settle dizzy quarter doctor exact melody random";
+var mnemonic = "corn grit fringe chalk lady upset doctor melt leisure ticket laundry stomach";

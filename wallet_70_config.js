@@ -1,1 +1,1 @@
-var mnemonic = "open diamond depend ceiling asthma firm increase note maze laundry lunch sorry";
+var mnemonic = "ring excite find doll agent access travel draw boil laundry journey program";

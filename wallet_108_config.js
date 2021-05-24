@@ -1,1 +1,1 @@
-var mnemonic = "laundry leader depart budget prosper stage exchange multiply nose note execute cattle";
+var mnemonic = "actor dwarf repeat public hole merry brain pilot typical bid destroy crop";

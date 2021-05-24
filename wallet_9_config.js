@@ -1,1 +1,1 @@
-var mnemonic = "salute quality box sound work disorder topic protect grain cricket position funny";
+var mnemonic = "pause approve mosquito tennis team fall cigar slab bicycle surface indicate leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "lock chronic miracle old aunt bar senior start century cargo eagle miracle";
+var mnemonic = "strong become damp morning repair stage busy praise feed occur holiday leave";

@@ -1,1 +1,1 @@
-var mnemonic = "burden usual put crumble cheap entry urban begin gallery napkin judge stand";
+var mnemonic = "burger pink fortune cannon shrug divorce recipe twenty fossil butter cube utility";

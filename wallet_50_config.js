@@ -1,1 +1,1 @@
-var mnemonic = "wish blast sign anger crisp verify aisle title advance endless draft actual";
+var mnemonic = "truck used rescue have buffalo matter olive dwarf sugar now deposit master";

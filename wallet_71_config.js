@@ -1,1 +1,1 @@
-var mnemonic = "case cabin horse trend muscle blossom marriage open coin illness fringe abandon";
+var mnemonic = "salute chapter begin city scale marriage kind hood emotion swim fork usual";

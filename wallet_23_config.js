@@ -1,1 +1,1 @@
-var mnemonic = "pet title hawk equip stool slogan keen cabin hidden kiwi during taxi";
+var mnemonic = "kit indicate model casino length famous alarm scale drum squirrel crew burden";

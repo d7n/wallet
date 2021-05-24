@@ -1,1 +1,1 @@
-var mnemonic = "phrase perfect click thank grocery village nation note joke reveal river empty";
+var mnemonic = "thought fresh aerobic raccoon mechanic interest urge give boost noise illness master";

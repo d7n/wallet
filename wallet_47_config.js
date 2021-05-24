@@ -1,1 +1,1 @@
-var mnemonic = "rabbit arrive bundle lock host margin rely umbrella strike antenna raise metal";
+var mnemonic = "dutch eternal army true detail remain midnight strong comic harbor option random";

@@ -1,1 +1,1 @@
-var mnemonic = "captain legal brand rather roof gadget walnut ensure turtle resemble step arrange";
+var mnemonic = "pelican winner interest boy merit present friend ankle garment glow curious palm";

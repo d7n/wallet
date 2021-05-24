@@ -1,1 +1,1 @@
-var mnemonic = "twice warrior solid glory arrow brick trouble electric monkey slam caution trash";
+var mnemonic = "hen motion mango high pizza hurry capital usage indicate talent electric twin";

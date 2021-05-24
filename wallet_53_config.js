@@ -1,1 +1,1 @@
-var mnemonic = "burden strong cliff help such balance coyote trophy fix pupil behind cruise";
+var mnemonic = "music miracle owner fall sport front cactus swamp penalty mercy fragile tower";

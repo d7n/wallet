@@ -1,1 +1,1 @@
-var mnemonic = "screen music void arrive round shield embark panic quality viable love vote";
+var mnemonic = "garlic nuclear time number version food monkey tourist robust snap stadium three";

@@ -1,1 +1,1 @@
-var mnemonic = "pet near churn wrist moral remain defy old floor million hungry hub";
+var mnemonic = "sock crucial romance price gaze index vital gauge sock animal inner task";

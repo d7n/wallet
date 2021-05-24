@@ -1,1 +1,1 @@
-var mnemonic = "absorb hotel swear fruit dish door digital cool ceiling region black doll";
+var mnemonic = "juice item skin report island smile dish one gauge talk sponsor gym";

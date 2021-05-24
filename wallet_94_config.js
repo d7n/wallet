@@ -1,1 +1,1 @@
-var mnemonic = "boat push review build pizza hidden dynamic slot knee apart fiction that";
+var mnemonic = "tribe juice report remain soon check inflict office civil response volume force";

@@ -1,1 +1,1 @@
-var mnemonic = "allow punch toss someone elder select direct hip unveil left cradle bronze";
+var mnemonic = "gospel afford general brand drink net someone exact color brown affair year";

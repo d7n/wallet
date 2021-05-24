@@ -1,1 +1,1 @@
-var mnemonic = "deliver truly extra buffalo job faint renew salon track energy solar honey";
+var mnemonic = "oppose mom over glory divide cube family mosquito consider visa way air";

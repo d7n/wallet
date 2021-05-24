@@ -1,1 +1,1 @@
-var mnemonic = "dragon season lottery manual resist brother tattoo planet paper knock punch grit";
+var mnemonic = "marine purpose wrestle clerk warrior castle craft attract direct burst series shoulder";

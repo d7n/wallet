@@ -1,1 +1,1 @@
-var mnemonic = "whip fish fiscal select blue sad faint theory text clinic chicken observe";
+var mnemonic = "audit enhance sauce hip century forest tiny coral obtain battle lab differ";

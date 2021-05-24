@@ -1,1 +1,1 @@
-var mnemonic = "habit simple slam sun maple age express old inside never camp remove";
+var mnemonic = "news post enhance grief poem onion matrix garment urban salute shrug aware";

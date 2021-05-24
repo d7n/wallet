@@ -1,1 +1,1 @@
-var mnemonic = "embark ramp barrel muffin better hope fancy same absent various spike attract";
+var mnemonic = "farm paper consider glimpse category enrich slim birth pilot double wave picture";

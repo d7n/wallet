@@ -1,1 +1,1 @@
-var mnemonic = "universe slow dress next scout flee exile mention pudding gym dentist copy";
+var mnemonic = "cattle suggest access theory deer page solid action sing party ostrich next";

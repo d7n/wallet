@@ -1,1 +1,1 @@
-var mnemonic = "boost dignity excite what awkward couple lesson seed mango axis badge book";
+var mnemonic = "daughter senior farm aim unable patient turtle tray gaze aim notable gesture";
