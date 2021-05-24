@@ -1,1 +1,1 @@
-var mnemonic = "assist imitate celery possible hedgehog donate claw copper gaze hockey diesel human";
+var mnemonic = "blast camp helmet impulse make label gold fox tag switch submit logic";

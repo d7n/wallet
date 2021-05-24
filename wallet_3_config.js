@@ -1,1 +1,1 @@
-var mnemonic = "produce dignity cereal add delay weasel material fat door squirrel just dawn";
+var mnemonic = "journey globe gloom battle palm ability imitate topic acoustic boost solar display";

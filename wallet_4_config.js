@@ -1,1 +1,1 @@
-var mnemonic = "fashion heavy rug manage supreme almost level stool amateur advice glory fiscal";
+var mnemonic = "nice state swear spawn obtain cat axis nothing cousin meat isolate sunset";

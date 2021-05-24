@@ -1,1 +1,1 @@
-var mnemonic = "bid badge shop swap trash modify barely street grit gorilla address pledge";
+var mnemonic = "first strong guilt more fan nature undo fork possible over another asset";

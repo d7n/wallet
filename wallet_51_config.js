@@ -1,1 +1,1 @@
-var mnemonic = "cube east remain puzzle destroy satisfy utility canyon rug primary creek special";
+var mnemonic = "reflect candy river travel upgrade hero any resemble quick toss solve album";

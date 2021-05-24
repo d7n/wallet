@@ -1,1 +1,1 @@
-var mnemonic = "october minimum guilt patch brass bubble coffee double napkin sun spice distance";
+var mnemonic = "symptom pattern glue inflict fit dizzy defy lens tool middle iron toy";

@@ -1,1 +1,1 @@
-var mnemonic = "initial excite mom drama fossil leg blossom cement better upper canal analyst";
+var mnemonic = "fade exhibit skin team lunch chat victory hamster donate auction purpose another";

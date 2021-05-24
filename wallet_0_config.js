@@ -1,1 +1,1 @@
-var mnemonic = "penalty sibling joy hour stamp clip clump earth analyst bitter silver earth";
+var mnemonic = "obscure govern bean garbage accident sunset cake way glance notable lazy raise";

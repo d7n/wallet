@@ -1,1 +1,1 @@
-var mnemonic = "primary rally east delay unit illness absurd shoulder place electric mask pave";
+var mnemonic = "soup raven trend census situate cash secret jacket antique detail spare suggest";

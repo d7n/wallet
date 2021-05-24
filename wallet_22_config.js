@@ -1,1 +1,1 @@
-var mnemonic = "glare aspect artist wealth merit flavor wreck boost keen bunker pig stand";
+var mnemonic = "thank very there lamp depend fuel spot gap project rice innocent winter";

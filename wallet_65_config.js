@@ -1,1 +1,1 @@
-var mnemonic = "ecology glance wide someone amount worry bike call stamp visit spider pill";
+var mnemonic = "lucky extend neither yellow sunny glory knock verify celery bundle effort cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "keen area mushroom injury whale wedding ugly planet hurry appear switch burst";
+var mnemonic = "chef gap chaos gasp light brain quantum hip salad obtain monitor pizza";

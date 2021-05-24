@@ -1,1 +1,1 @@
-var mnemonic = "road sister lunch rent mosquito decide motion goat original scene grunt gap";
+var mnemonic = "scan tide rubber swamp planet apart wire seven intact depth sadness vanish";

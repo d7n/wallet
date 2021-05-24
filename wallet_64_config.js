@@ -1,1 +1,1 @@
-var mnemonic = "swarm melody usage feed film need lens weekend thumb survey uniform riot";
+var mnemonic = "neglect best online execute orange crowd clean clog prepare north mail evoke";

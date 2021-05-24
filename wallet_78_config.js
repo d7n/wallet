@@ -1,1 +1,1 @@
-var mnemonic = "usage section rebel describe amateur bachelor tourist kid sheriff path clever fork";
+var mnemonic = "solution bacon bar print ranch shove switch awkward illness infant garage clay";

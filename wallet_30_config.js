@@ -1,1 +1,1 @@
-var mnemonic = "exhibit noise mixed moon weather margin sunset suggest surge middle athlete life";
+var mnemonic = "eager chair language trigger alcohol better female latin wine airport clump child";

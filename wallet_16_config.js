@@ -1,1 +1,1 @@
-var mnemonic = "alone defy quiz leg salt genre approve cloth cousin tell laptop produce";
+var mnemonic = "derive scale smoke strong special trash mobile panther impulse brick wage excite";

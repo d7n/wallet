@@ -1,1 +1,1 @@
-var mnemonic = "large erosion item topic lizard real ethics pause avoid glimpse distance food";
+var mnemonic = "outdoor pottery artist satisfy wife error exchange venue fence flat entry shrug";

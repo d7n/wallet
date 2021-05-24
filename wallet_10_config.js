@@ -1,1 +1,1 @@
-var mnemonic = "escape program start gauge crater often short crystal then invite pole develop";
+var mnemonic = "obscure theme weasel theory cave unit lava company suit balcony wisdom sand";

@@ -1,1 +1,1 @@
-var mnemonic = "effort recall caution ugly meadow high absurd divide asset viable throw upset";
+var mnemonic = "wrestle comfort civil buffalo people donor episode where spider wood item sauce";

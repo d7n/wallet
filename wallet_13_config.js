@@ -1,1 +1,1 @@
-var mnemonic = "park machine jump wild jazz raccoon sight have harsh memory evidence bunker";
+var mnemonic = "drama canal board this cube welcome gold black rate illegal educate gospel";

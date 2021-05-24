@@ -1,1 +1,1 @@
-var mnemonic = "butter save nasty lizard genius enable sock unfair unfold pen motion fiber";
+var mnemonic = "denial kit rice wink sketch solid box rebel price execute surface pyramid";

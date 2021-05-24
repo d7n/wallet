@@ -1,1 +1,1 @@
-var mnemonic = "silk arrow pass arrive involve example female reward federal swamp kind fly";
+var mnemonic = "nephew gate order slight empower lend alpha mule street anger outer ball";

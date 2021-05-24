@@ -1,1 +1,1 @@
-var mnemonic = "spray charge segment blast direct inhale unfold bridge input dutch again easily";
+var mnemonic = "reunion excess spread say invite shallow cannon erode student napkin ocean below";

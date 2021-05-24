@@ -1,1 +1,1 @@
-var mnemonic = "bracket actual flag swim flower slim butter cargo setup couple quote age";
+var mnemonic = "sand jelly dilemma chalk daring payment rocket hole total pupil suspect horn";

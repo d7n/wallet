@@ -1,1 +1,1 @@
-var mnemonic = "lady envelope siren question dry health common common force humble bracket glare";
+var mnemonic = "elbow pudding cabin trigger dentist assist chimney expand home token fee tired";

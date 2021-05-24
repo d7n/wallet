@@ -1,1 +1,1 @@
-var mnemonic = "glow response faint mix noise month physical rib anchor lab ice snake";
+var mnemonic = "bronze believe choose announce erupt siege wing crunch wrestle enter then hamster";

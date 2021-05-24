@@ -1,1 +1,1 @@
-var mnemonic = "awkward cabin solution produce element rally crucial zero emotion tourist seek health";
+var mnemonic = "try fog carpet stereo shadow west story desert renew tackle symbol primary";

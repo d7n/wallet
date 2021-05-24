@@ -1,1 +1,1 @@
-var mnemonic = "viable chaos believe clean december amazing office fragile rotate loan omit door";
+var mnemonic = "kitchen hire camp develop maple task retire army priority neither stone hockey";

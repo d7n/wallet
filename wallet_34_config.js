@@ -1,1 +1,1 @@
-var mnemonic = "man person coffee tool wear rescue comic viable fiber hub gloom wet";
+var mnemonic = "entry fog true grab purpose another apple volume van candy nasty egg";

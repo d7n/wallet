@@ -1,1 +1,1 @@
-var mnemonic = "kite squeeze snack hat right prize wave once student loud danger ancient";
+var mnemonic = "duty couple nation truck clip grab armed tool recipe tip solid use";

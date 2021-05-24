@@ -1,1 +1,1 @@
-var mnemonic = "elephant empower law find pencil verify spray expand bachelor cost kiwi lunch";
+var mnemonic = "surprise fever office alert stand antique lunch glass duck minimum biology truck";

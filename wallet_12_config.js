@@ -1,1 +1,1 @@
-var mnemonic = "crunch country three people spell trial news useless aunt multiply then lyrics";
+var mnemonic = "palm amateur fury afraid labor asthma solution deal permit unveil creek burger";

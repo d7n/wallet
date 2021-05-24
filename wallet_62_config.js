@@ -1,1 +1,1 @@
-var mnemonic = "apple fitness lunar dinosaur speed north odor busy strike bring repeat physical";
+var mnemonic = "pull primary maid hole world fantasy pluck omit comic useful sound taste";

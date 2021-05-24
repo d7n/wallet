@@ -1,1 +1,1 @@
-var mnemonic = "odor silent snake believe frog wire library heart crazy history suit goose";
+var mnemonic = "sense share fine stock labor crouch sure hen novel ugly penalty already";

@@ -1,1 +1,1 @@
-var mnemonic = "leader credit ridge near all health giggle garment diamond interest cost dish";
+var mnemonic = "story jelly park fruit symptom grace extend cabbage short peace rice awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "noise judge popular double wire woman mom cube real carbon scan tissue";
+var mnemonic = "know velvet chest prison castle once air silly multiply bread rain wedding";

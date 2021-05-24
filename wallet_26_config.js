@@ -1,1 +1,1 @@
-var mnemonic = "faint wheel shallow gather load coil daring rescue dignity there follow shield";
+var mnemonic = "coyote wrong labor sail track assist inch flip square list chicken behave";

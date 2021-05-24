@@ -1,1 +1,1 @@
-var mnemonic = "victory boss media trash grocery gauge father host unlock phone sport jazz";
+var mnemonic = "warrior episode ghost hospital destroy reunion vapor ring trial pen dash calm";

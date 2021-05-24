@@ -1,1 +1,1 @@
-var mnemonic = "around act elbow fog option wrestle stereo speed book present tube update";
+var mnemonic = "sleep clay hood weasel oblige kingdom rough write dilemma upper current kidney";

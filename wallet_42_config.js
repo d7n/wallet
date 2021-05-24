@@ -1,1 +1,1 @@
-var mnemonic = "vacant actual daring wrestle sniff voyage cigar cement often bleak adult direct";
+var mnemonic = "empower inmate cricket cake edge deputy square immune guard vital actress okay";

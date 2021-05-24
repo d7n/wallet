@@ -1,1 +1,1 @@
-var mnemonic = "swarm behind copper canvas crowd snake prize raven tag season mercy volcano";
+var mnemonic = "gown grocery festival mountain picture student thunder monitor insane rule asthma advance";

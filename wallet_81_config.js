@@ -1,1 +1,1 @@
-var mnemonic = "dial home oil injury deny success sniff bleak inform undo hunt fresh";
+var mnemonic = "success pelican jazz fringe dilemma reform foam tunnel mushroom sentence spoil fee";

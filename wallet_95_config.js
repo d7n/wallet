@@ -1,1 +1,1 @@
-var mnemonic = "easily aunt cement comfort sweet blush achieve april clerk humble rural envelope";
+var mnemonic = "person glide phrase sing pioneer cancel plastic surround tiny muscle coyote educate";

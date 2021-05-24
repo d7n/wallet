@@ -1,1 +1,1 @@
-var mnemonic = "board diary supreme someone kind train shy shell replace first profit whale";
+var mnemonic = "final fossil voice bamboo mom quarter genre window ranch habit indicate false";

@@ -1,1 +1,1 @@
-var mnemonic = "panther dry screen inspire magic brother squirrel wide impulse void empty book";
+var mnemonic = "laundry toss dust flash language rally debris alley monitor talent imitate scout";

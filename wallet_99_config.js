@@ -1,1 +1,1 @@
-var mnemonic = "street enough salmon type drastic ostrich mistake tuition pluck universe holiday smoke";
+var mnemonic = "know impact slender industry catalog meadow kind evidence awful element legal require";

@@ -1,1 +1,1 @@
-var mnemonic = "waste prison honey home supreme youth flash arch blanket auction tube east";
+var mnemonic = "inmate again humor blur jelly faculty coffee list mobile water father ivory";

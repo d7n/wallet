@@ -1,1 +1,1 @@
-var mnemonic = "cricket error fatigue carbon elephant comfort mandate noise easily daring crystal version";
+var mnemonic = "room robot reunion hour blast asthma slab paddle enact live wide goat";

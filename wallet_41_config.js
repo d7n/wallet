@@ -1,1 +1,1 @@
-var mnemonic = "level master runway stereo output tell vast radar category drama mystery observe";
+var mnemonic = "keep pottery harbor volcano cause bridge property short lunch truly bunker error";

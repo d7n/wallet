@@ -1,1 +1,1 @@
-var mnemonic = "ketchup include piano life run few affair work reveal grape identify wisdom";
+var mnemonic = "desk bronze option bitter frog patrol cancel egg hammer tribe bridge dentist";

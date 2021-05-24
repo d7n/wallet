@@ -1,1 +1,1 @@
-var mnemonic = "illness grow equal leg sister replace buyer smile sound shaft alarm palace";
+var mnemonic = "hen future abandon length about frequent extra jelly pass air purchase shy";

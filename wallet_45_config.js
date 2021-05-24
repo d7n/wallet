@@ -1,1 +1,1 @@
-var mnemonic = "cousin dwarf neck weekend tortoise input catch ginger risk mesh visual canyon";
+var mnemonic = "draw install calm vote gallery nominee canyon antenna draft unable brain dumb";

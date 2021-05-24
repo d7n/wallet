@@ -1,1 +1,1 @@
-var mnemonic = "wet answer soft spirit away regular chunk toss matrix unknown cram auction";
+var mnemonic = "require liberty tenant plate exist borrow typical school uphold try direct secret";

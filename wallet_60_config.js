@@ -1,1 +1,1 @@
-var mnemonic = "bounce peanut quantum sphere timber very soda speak grain hospital outside camp";
+var mnemonic = "remain brief security nasty wish wear miracle repeat strategy unhappy nation moon";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise detect conduct plastic session lesson palm there master tent cover host";
+var mnemonic = "enemy expand pact ugly clay panel trip inner museum violin calm trip";

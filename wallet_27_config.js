@@ -1,1 +1,1 @@
-var mnemonic = "seminar shuffle coconut myth area mind host crop tuna cash dog foot";
+var mnemonic = "gentle furnace original face coyote above board public enlist unknown coach swift";

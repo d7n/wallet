@@ -1,1 +1,1 @@
-var mnemonic = "purity wool balcony use boy castle island polar december trash coyote bamboo";
+var mnemonic = "coyote deposit guilt rack badge zoo type minor pulse shuffle wise soon";

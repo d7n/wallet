@@ -1,1 +1,1 @@
-var mnemonic = "music sorry rival vague chief deny purity scatter eager ball library parent";
+var mnemonic = "time endless they denial tray ring vintage filter real arrow strike scan";

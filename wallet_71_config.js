@@ -1,1 +1,1 @@
-var mnemonic = "imitate identify reject airport awful popular loud clean half frozen chicken style";
+var mnemonic = "envelope critic lens ordinary provide section tornado picnic dolphin lecture lazy rival";

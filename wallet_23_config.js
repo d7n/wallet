@@ -1,1 +1,1 @@
-var mnemonic = "frequent danger fog coach avoid immune demise aspect inform veteran credit vicious";
+var mnemonic = "royal bunker image before chief that common pave enrich audit ranch slab";

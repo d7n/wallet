@@ -1,1 +1,1 @@
-var mnemonic = "era hurdle pizza desk embrace poverty mean nature zone drive crawl animal";
+var mnemonic = "make kangaroo doctor doll beyond scrub habit fun find luggage secret enough";

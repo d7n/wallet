@@ -1,1 +1,1 @@
-var mnemonic = "student canal emotion logic lawn rate minimum utility gasp excuse immune lobster";
+var mnemonic = "crop story survey wage dragon execute heavy pudding asset unit ostrich spin";

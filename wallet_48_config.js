@@ -1,1 +1,1 @@
-var mnemonic = "load ancient unfold behind ski shoe avoid emotion arctic fancy level butter";
+var mnemonic = "nation anxiety hybrid candy zone private rack already shop clock strong quantum";

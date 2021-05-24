@@ -1,1 +1,1 @@
-var mnemonic = "offer clay trend ring turtle piano essence word east slim cluster exhaust";
+var mnemonic = "sauce grab sea zebra cluster keen void verify giant still deposit mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "upon left escape fringe oppose own embark admit stumble group tragic salon";
+var mnemonic = "vault glance solution scare dinner swamp minute ability level close mobile middle";

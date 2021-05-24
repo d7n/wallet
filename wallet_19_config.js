@@ -1,1 +1,1 @@
-var mnemonic = "fade sketch delay thunder baby bench dragon tube swing bar clog skill";
+var mnemonic = "air child tumble satisfy bracket rebuild enhance copy horror exact drift double";

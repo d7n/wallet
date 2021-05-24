@@ -1,1 +1,1 @@
-var mnemonic = "gift glide original exchange airport yard beauty faith spread treat best picnic";
+var mnemonic = "home thunder total barrel pudding increase general remind observe edit host chest";

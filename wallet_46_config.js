@@ -1,1 +1,1 @@
-var mnemonic = "spread chase oxygen derive obscure daughter category trial garden sorry tent bleak";
+var mnemonic = "viable hunt buyer heart unaware ship bronze blade panel fly dance ride";

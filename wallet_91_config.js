@@ -1,1 +1,1 @@
-var mnemonic = "vast erosion shuffle win month produce toilet mouse notable frown sketch disagree";
+var mnemonic = "crazy warrior merry multiply face olive problem abuse grunt ten casual limb";

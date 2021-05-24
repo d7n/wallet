@@ -1,1 +1,1 @@
-var mnemonic = "left history brass twice voice holiday soda injury health royal laptop height";
+var mnemonic = "unable benefit notable away such decade number random organ typical forget finger";

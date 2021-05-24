@@ -1,1 +1,1 @@
-var mnemonic = "loan cool hidden assault speak shift ring glove siege height enact regret";
+var mnemonic = "panther child file milk collect parent woman point brown fatigue recall monkey";

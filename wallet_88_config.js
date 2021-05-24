@@ -1,1 +1,1 @@
-var mnemonic = "harsh segment stumble pair employ weekend document fossil material fiber indoor face";
+var mnemonic = "piano party shoe board cash wrap edge lumber echo coconut excess quit";

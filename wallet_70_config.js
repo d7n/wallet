@@ -1,1 +1,1 @@
-var mnemonic = "fade puppy athlete drama drum copy solution beyond quality oxygen program sorry";
+var mnemonic = "nose upgrade ketchup flee north govern laugh differ network such traffic paddle";

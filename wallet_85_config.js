@@ -1,1 +1,1 @@
-var mnemonic = "lamp verb guitar dial saddle claw river mammal seek screen enlist vendor";
+var mnemonic = "guess edge hazard hat axis degree educate all uphold level office second";

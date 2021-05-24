@@ -1,1 +1,1 @@
-var mnemonic = "garment artwork banana soda unit regret recycle giant lazy lounge another equal";
+var mnemonic = "athlete rely mushroom matrix girl weapon venue eternal patient false swarm modify";

@@ -1,1 +1,1 @@
-var mnemonic = "venture true portion antique crucial another ticket save tide prize hybrid element";
+var mnemonic = "trigger isolate same fish small drill fossil shoe sign clean always outside";

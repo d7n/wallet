@@ -1,1 +1,1 @@
-var mnemonic = "project clock hawk captain super way violin piano segment donor buddy record";
+var mnemonic = "task enable mimic drop lyrics plate truck burst taste inject push clinic";

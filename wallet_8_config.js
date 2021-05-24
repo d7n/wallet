@@ -1,1 +1,1 @@
-var mnemonic = "shrug convince attitude hamster soft final ripple april frost grocery retreat jeans";
+var mnemonic = "exhibit nominee north original spider hat soul monkey cup gold festival drop";

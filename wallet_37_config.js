@@ -1,1 +1,1 @@
-var mnemonic = "screen already during explain cannon trophy lady type damp resource glass old";
+var mnemonic = "amused milk bachelor theory airport vibrant input clarify anchor biology syrup cover";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft decide bitter kangaroo video exchange inform anchor nuclear wink glad mass";
+var mnemonic = "song rebuild vote title arrange merit bullet card there about switch patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper next window learn bean move now exist play quick pattern unable";
+var mnemonic = "crush turn shrug quick ask delay grant embrace chronic foil quantum furnace";

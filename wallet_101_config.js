@@ -1,1 +1,1 @@
-var mnemonic = "field weapon design buffalo olive since panic will quality border pen burst";
+var mnemonic = "solve upper lady swear bike surge virtual pass history claim code mass";

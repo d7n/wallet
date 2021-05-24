@@ -1,1 +1,1 @@
-var mnemonic = "tree doctor scatter duty piano divert stuff print license end reject select";
+var mnemonic = "wrong wage feed spring eager pyramid area valid consider game level rally";

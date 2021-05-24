@@ -1,1 +1,1 @@
-var mnemonic = "near network sustain crater there place impulse valve benefit when torch involve";
+var mnemonic = "radio dentist concert people kiwi zebra crunch gospel moral setup eyebrow spend";

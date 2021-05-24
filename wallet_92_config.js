@@ -1,1 +1,1 @@
-var mnemonic = "crouch travel merry plug trust put parrot mouse win connect remove bridge";
+var mnemonic = "click insane muscle flag zebra style baby owner wave easily father parrot";

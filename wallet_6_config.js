@@ -1,1 +1,1 @@
-var mnemonic = "use person until jazz jacket high useful juice hover strong silly suspect";
+var mnemonic = "vault duty steel catch trap broken elder crystal joy walk inspire fame";

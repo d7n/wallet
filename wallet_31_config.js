@@ -1,1 +1,1 @@
-var mnemonic = "differ clean fiction skull blade tenant pretty crucial lend scare aspect thrive";
+var mnemonic = "grit rich question coast follow move cherry finish jazz dizzy palm buyer";
