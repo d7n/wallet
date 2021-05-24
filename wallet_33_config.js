@@ -1,1 +1,1 @@
-var mnemonic = "hockey dwarf park layer struggle venue adapt half observe disease luggage reopen";
+var mnemonic = "beauty december twin clutch thought delay rare just sick weapon chalk fire";

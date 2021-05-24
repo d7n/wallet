@@ -1,1 +1,1 @@
-var mnemonic = "dune wonder require video fashion kite enemy height lunch stumble client above";
+var mnemonic = "lecture base quality exercise apology cruise aim imitate chunk spike venue tackle";

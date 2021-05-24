@@ -1,1 +1,1 @@
-var mnemonic = "grow banner gauge scale sudden dirt ensure cost document rival cabbage any";
+var mnemonic = "ring spot manage entire gold render sing broccoli great runway impulse project";

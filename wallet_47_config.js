@@ -1,1 +1,1 @@
-var mnemonic = "source involve slot okay disagree kitchen little quote mandate decorate grocery panel";
+var mnemonic = "school believe twist crowd off desert hood tomorrow view sword six seed";

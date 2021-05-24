@@ -1,1 +1,1 @@
-var mnemonic = "jaguar need then nice wrestle robust express capital unaware swarm property proud";
+var mnemonic = "flock true bind defense convince trumpet color tooth best sight chef weird";

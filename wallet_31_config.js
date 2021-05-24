@@ -1,1 +1,1 @@
-var mnemonic = "menu dutch mixture inch spin law bike gap move system suggest surprise";
+var mnemonic = "language tuition dial hole turtle fossil damp radar ancient soft protect advance";

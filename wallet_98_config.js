@@ -1,1 +1,1 @@
-var mnemonic = "rare fit child jazz hurry cry afford sunset book enjoy ready music";
+var mnemonic = "awake pass axis square silly float rose winner search suffer cinnamon cricket";

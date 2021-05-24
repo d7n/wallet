@@ -1,1 +1,1 @@
-var mnemonic = "just swing excite raise hawk way wisdom fitness rib spell furnace today";
+var mnemonic = "kiss faith cactus pepper fix glimpse private ketchup list meat theory bomb";

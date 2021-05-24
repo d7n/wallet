@@ -1,1 +1,1 @@
-var mnemonic = "mean harsh tide clinic design script search vague exotic fuel mix planet";
+var mnemonic = "adapt copper claw estate hidden busy south history debate clerk design exercise";

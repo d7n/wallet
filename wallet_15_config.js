@@ -1,1 +1,1 @@
-var mnemonic = "winter visit food supply toast tell kitten crisp venture charge net sorry";
+var mnemonic = "deputy pause spare volume still spin rack melt dwarf genre census popular";

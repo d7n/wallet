@@ -1,1 +1,1 @@
-var mnemonic = "matrix insect demand victory endorse mutual chest puzzle motor powder phrase member";
+var mnemonic = "innocent chest mule marble gesture cruise stove cruise early ripple decade head";

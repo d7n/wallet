@@ -1,1 +1,1 @@
-var mnemonic = "lobster when impulse feature ivory warm cave plunge slow violin climb uniform";
+var mnemonic = "friend crater leisure evoke seven now raise adapt jungle quit discover sea";

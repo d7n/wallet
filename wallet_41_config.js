@@ -1,1 +1,1 @@
-var mnemonic = "thunder entry cat front frozen draft ladder step radar favorite will shrimp";
+var mnemonic = "purse knife market theory box window logic hood raven orphan observe couple";

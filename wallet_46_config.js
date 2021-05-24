@@ -1,1 +1,1 @@
-var mnemonic = "noodle shove rail lake stuff check weapon armor exact boy slush scissors";
+var mnemonic = "typical result already hat author win float easy excite bullet stairs host";

@@ -1,1 +1,1 @@
-var mnemonic = "leave visa depend clip position habit dog jacket canvas blood elegant unaware";
+var mnemonic = "cool bomb fever cover onion emotion egg hunt tiger reward offer wisdom";

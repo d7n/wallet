@@ -1,1 +1,1 @@
-var mnemonic = "observe rent coin firm web blame rich sentence frost planet ride earth";
+var mnemonic = "mind super ladder peace fresh taste blue snap foam token refuse awake";

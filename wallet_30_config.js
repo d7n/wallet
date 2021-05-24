@@ -1,1 +1,1 @@
-var mnemonic = "raven glare bid garage business dragon episode invite uncle reason reflect must";
+var mnemonic = "wish awkward dentist method online dutch view clay elder badge high naive";

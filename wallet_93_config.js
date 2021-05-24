@@ -1,1 +1,1 @@
-var mnemonic = "mountain provide soda labor pistol exhaust mule cupboard dirt industry express health";
+var mnemonic = "since under theme ribbon fall disorder clap bulb endorse waste lady wrap";

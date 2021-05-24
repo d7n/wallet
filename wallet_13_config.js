@@ -1,1 +1,1 @@
-var mnemonic = "drop office flash shed giraffe crystal smoke fancy destroy marble view tumble";
+var mnemonic = "column volcano vault equip jelly boy clinic warfare general clump normal direct";

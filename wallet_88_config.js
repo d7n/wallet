@@ -1,1 +1,1 @@
-var mnemonic = "large buyer lecture train clap lizard flat enable match crater slot online";
+var mnemonic = "seek inherit survey aspect today box eager rescue scheme iron guess sense";

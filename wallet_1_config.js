@@ -1,1 +1,1 @@
-var mnemonic = "afford giant legal depart future dad siren suspect just frown three network";
+var mnemonic = "sleep egg twist artefact fatal more problem canal night sense bullet report";

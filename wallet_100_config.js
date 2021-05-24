@@ -1,1 +1,1 @@
-var mnemonic = "vehicle east lunar toilet build minimum exist lunch praise gallery chronic ugly";
+var mnemonic = "easily connect ring pupil crane ability barely grief wonder wife affair praise";

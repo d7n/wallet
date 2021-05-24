@@ -1,1 +1,1 @@
-var mnemonic = "welcome people draft february paddle behave repair sentence gate coach sing shuffle";
+var mnemonic = "burden salmon obtain jewel enjoy riot kite bitter grow bike goddess critic";

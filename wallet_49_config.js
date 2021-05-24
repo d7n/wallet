@@ -1,1 +1,1 @@
-var mnemonic = "payment method cry price train cheap damp crash lecture cupboard smooth grab";
+var mnemonic = "property trade security parrot appear path leg sure stone start cycle angry";

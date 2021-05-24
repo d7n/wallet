@@ -1,1 +1,1 @@
-var mnemonic = "master copper oven curtain way share engage sugar globe decrease fatigue goat";
+var mnemonic = "catalog donor firm again snack monkey half chest noodle educate scare water";

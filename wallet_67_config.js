@@ -1,1 +1,1 @@
-var mnemonic = "order park make stumble tennis naive hard topic hour solar update sentence";
+var mnemonic = "worry universe journey famous casino claw learn agent hedgehog laptop danger filter";

@@ -1,1 +1,1 @@
-var mnemonic = "mind album maze identify negative opinion area draft envelope fly bid armor";
+var mnemonic = "solid asset unlock custom narrow atom wood tired script drop media pull";

@@ -1,1 +1,1 @@
-var mnemonic = "ski waste cream pride used twist idea approve bulk wink wait museum";
+var mnemonic = "vehicle attract turn select arrive never live empower scatter can afford soccer";

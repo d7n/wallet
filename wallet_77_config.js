@@ -1,1 +1,1 @@
-var mnemonic = "evidence hotel divert judge drink gain matrix sound episode success divert valve";
+var mnemonic = "very title man sauce symptom control inner peanut apple leg glory patient";

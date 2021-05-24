@@ -1,1 +1,1 @@
-var mnemonic = "great shop devote copper option thought learn leisure border choice night car";
+var mnemonic = "brother praise insane wise isolate edge impact trophy era enough defense turkey";

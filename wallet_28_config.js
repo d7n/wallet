@@ -1,1 +1,1 @@
-var mnemonic = "eight orient mass vivid dad dress people fog palace extend plastic maid";
+var mnemonic = "enlist promote stumble equal member upon suggest shadow brush note cash merge";

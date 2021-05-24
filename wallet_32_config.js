@@ -1,1 +1,1 @@
-var mnemonic = "room remove verb seminar school exotic expand blood curve hungry defense learn";
+var mnemonic = "cargo maid camera text way segment various adult task token dash apology";

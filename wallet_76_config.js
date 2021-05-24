@@ -1,1 +1,1 @@
-var mnemonic = "pet barely task keen depth sock myth jeans infant waste brick excite";
+var mnemonic = "proof enemy donate critic april crucial armed error flower name obey phone";

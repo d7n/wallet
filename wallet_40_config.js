@@ -1,1 +1,1 @@
-var mnemonic = "parent unfold embrace arrange green admit sail matter outside divide balcony width";
+var mnemonic = "patient tennis final donkey special better pink glove catch luxury supply gift";

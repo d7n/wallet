@@ -1,1 +1,1 @@
-var mnemonic = "derive bridge churn unveil point devote auto ill solve doll drill rose";
+var mnemonic = "endless dad wish join aspect celery delay predict village damp civil glory";

@@ -1,1 +1,1 @@
-var mnemonic = "victory turn gas cool record lecture veteran crucial repair profit future mansion";
+var mnemonic = "stay crane month spy pull pen improve prison weapon town double squirrel";

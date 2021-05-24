@@ -1,1 +1,1 @@
-var mnemonic = "slush panda garment blossom robot minute cannon reveal pact extend soldier twice";
+var mnemonic = "peanut myth room engage cabin unhappy grid coin jazz juice absent parrot";

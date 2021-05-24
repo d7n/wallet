@@ -1,1 +1,1 @@
-var mnemonic = "penalty lend jacket smart forum include feel spirit miss enroll trash vapor";
+var mnemonic = "cement negative typical infant room february orient ghost hub daughter appear hybrid";

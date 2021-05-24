@@ -1,1 +1,1 @@
-var mnemonic = "often expose capital practice appear web federal apology junior enlist evil blind";
+var mnemonic = "embark future harvest relief under output hedgehog effort afraid magnet raise naive";

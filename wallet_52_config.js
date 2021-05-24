@@ -1,1 +1,1 @@
-var mnemonic = "hen crush wealth remind gate produce school name float urban opinion about";
+var mnemonic = "hollow nuclear dog wage arena come behind obvious rocket crystal spring pen";

@@ -1,1 +1,1 @@
-var mnemonic = "grant since fetch lawsuit joke find combine party fever ramp grow carry";
+var mnemonic = "kite desk estate unaware grass silent health cargo worry ramp banner there";

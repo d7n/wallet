@@ -1,1 +1,1 @@
-var mnemonic = "merry easy joke cruise income pepper cushion gift custom sister load quick";
+var mnemonic = "pottery dose jar task nose universe hobby coconut country trade invite fragile";

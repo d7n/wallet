@@ -1,1 +1,1 @@
-var mnemonic = "roof turtle exhaust tube cabin invest alpha aspect install type label always";
+var mnemonic = "popular antenna vehicle pumpkin juice boat repeat excite turn address mention chest";

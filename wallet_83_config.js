@@ -1,1 +1,1 @@
-var mnemonic = "matter square elephant opinion alley doctor puppy pact toddler discover trash make";
+var mnemonic = "neck column disorder zero witness bar fluid sun shell idle evoke select";

@@ -1,1 +1,1 @@
-var mnemonic = "derive mass trust choose edge pull day advance provide now organ cake";
+var mnemonic = "flight rich chalk wheat quick better section day good stock episode such";

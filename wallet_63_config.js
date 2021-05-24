@@ -1,1 +1,1 @@
-var mnemonic = "child arrest pioneer portion fire wire flight urge moment salon seat afford";
+var mnemonic = "scene thought sadness clutch quick kitchen jump holiday behave lumber finish blind";

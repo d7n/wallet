@@ -1,1 +1,1 @@
-var mnemonic = "labor reflect coyote wealth wait gain quick foot joy mouse flash exhibit";
+var mnemonic = "practice will fence news episode glue wreck other siren spirit retreat fork";

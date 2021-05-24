@@ -1,1 +1,1 @@
-var mnemonic = "absurd alter ghost tide fragile silver tumble guitar thrive cancel arrange ill";
+var mnemonic = "under remain hawk carpet screen explain powder amateur swarm repair aunt scan";

@@ -1,1 +1,1 @@
-var mnemonic = "celery boss runway sock carpet below entry federal dawn second badge prevent";
+var mnemonic = "wheat inflict chicken run claw public age sketch trip kangaroo gift disease";

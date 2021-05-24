@@ -1,1 +1,1 @@
-var mnemonic = "angry mystery arctic turkey renew film rural satisfy switch dune sphere define";
+var mnemonic = "pyramid guitar goat hip vague multiply stable december donate shock disagree fancy";

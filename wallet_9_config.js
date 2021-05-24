@@ -1,1 +1,1 @@
-var mnemonic = "bind ecology moral inhale fox reject rent assume small shop range pen";
+var mnemonic = "message diary glide village project odor true other deposit asset alley wheat";

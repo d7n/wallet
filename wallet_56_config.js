@@ -1,1 +1,1 @@
-var mnemonic = "property debate sample grant method orphan obvious skin side volcano that acquire";
+var mnemonic = "moral view nurse fly retire abandon enemy latin resist math fiscal walnut";

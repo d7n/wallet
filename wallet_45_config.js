@@ -1,1 +1,1 @@
-var mnemonic = "power fine super guess favorite bonus quit crater south alley snake attend";
+var mnemonic = "unfold view initial alert cupboard mango cheese sound orient angry medal void";

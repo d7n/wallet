@@ -1,1 +1,1 @@
-var mnemonic = "window arrive curious staff twin solid medal scatter coach neutral engine cram";
+var mnemonic = "such senior toward absorb drop paper vehicle nose comfort coyote pave unique";

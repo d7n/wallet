@@ -1,1 +1,1 @@
-var mnemonic = "trouble journey approve unhappy kind sure response guide verb lunar pride library";
+var mnemonic = "tattoo brass utility salt carbon marble cement olive orbit naive indoor sort";

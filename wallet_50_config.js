@@ -1,1 +1,1 @@
-var mnemonic = "ill plastic awkward draw again year sound meadow liar travel exist moral";
+var mnemonic = "surround true mixture fabric change among atom stove core present pride digital";

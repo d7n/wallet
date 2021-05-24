@@ -1,1 +1,1 @@
-var mnemonic = "prefer stuff language piano true word bar hunt subject cabin trust evoke";
+var mnemonic = "slice lawn small act conduct party episode ahead robot assault adapt win";

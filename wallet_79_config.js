@@ -1,1 +1,1 @@
-var mnemonic = "merit acid denial just column area bind zoo lizard record kitchen divert";
+var mnemonic = "reflect since judge major service stage network before napkin remain grace blood";

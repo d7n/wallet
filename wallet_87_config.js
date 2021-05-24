@@ -1,1 +1,1 @@
-var mnemonic = "useful pencil use horn beach other jacket round various used fine timber";
+var mnemonic = "ketchup divert exhibit field always denial buyer clean gap elder inflict token";

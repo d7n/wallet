@@ -1,1 +1,1 @@
-var mnemonic = "just chase hope sell weird invite surface toe dove hat empty never";
+var mnemonic = "sponsor tide sentence science van jewel clinic then pelican salute drop lesson";

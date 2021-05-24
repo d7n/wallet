@@ -1,1 +1,1 @@
-var mnemonic = "budget subway need pattern spy second sudden tackle volume clutch weather absurd";
+var mnemonic = "raven ecology jump able pet ensure type spike begin manage daughter scorpion";

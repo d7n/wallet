@@ -1,1 +1,1 @@
-var mnemonic = "goat all repair fragile lyrics cruise west quote scrub detail impulse pause";
+var mnemonic = "donor leaf flush patrol erosion exhaust axis arch ordinary burden divide world";

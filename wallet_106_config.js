@@ -1,1 +1,1 @@
-var mnemonic = "medal trend cover carry teach reunion garment refuse clean execute harsh final";
+var mnemonic = "author acid defense field area shallow era easy swift diagram cereal subway";

@@ -1,1 +1,1 @@
-var mnemonic = "battle evidence method issue mass park subject unique clinic infant sock shiver";
+var mnemonic = "chef apart mercy lazy smile twice caution blue fun resemble wrong license";

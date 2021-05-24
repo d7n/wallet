@@ -1,1 +1,1 @@
-var mnemonic = "gold unusual labor maple verify glow merit salad foot birth key evidence";
+var mnemonic = "outer student offer whip album exact build force trash cable report alone";

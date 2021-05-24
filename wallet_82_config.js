@@ -1,1 +1,1 @@
-var mnemonic = "penalty top affair void scrap smooth panel deer total start pencil detect";
+var mnemonic = "charge spoon liberty pigeon drum law balcony real minimum throw jump sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "swift royal frequent uncle silent dragon call success trend season dress injury";
+var mnemonic = "cushion loan outdoor seed cover pistol horn old crew symptom flight machine";

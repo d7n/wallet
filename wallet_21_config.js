@@ -1,1 +1,1 @@
-var mnemonic = "game virtual thank retreat pool chest soon accident glow depth orbit another";
+var mnemonic = "mean april actual door debate divert main adjust flavor ranch family chest";

@@ -1,1 +1,1 @@
-var mnemonic = "forward that combine aunt also wedding oppose churn hockey chief rubber device";
+var mnemonic = "because degree resist crucial expand abandon space credit during evidence erupt link";

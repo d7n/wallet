@@ -1,1 +1,1 @@
-var mnemonic = "version rate panda wreck pave ball kitten heart about quality banner twin";
+var mnemonic = "panda dawn wasp word thought faint odor major acid decade parrot hood";

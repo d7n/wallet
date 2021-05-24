@@ -1,1 +1,1 @@
-var mnemonic = "ability water prevent lobster pilot opinion engage book hover answer crime rebel";
+var mnemonic = "correct cradle analyst view pigeon canal ten walk mutual dynamic marble ivory";

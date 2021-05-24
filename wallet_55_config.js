@@ -1,1 +1,1 @@
-var mnemonic = "swarm near teach round solar swap husband pigeon someone sense lucky country";
+var mnemonic = "blanket category verb salmon lava earth bread canyon concert receive birth bleak";

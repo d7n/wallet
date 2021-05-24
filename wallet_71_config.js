@@ -1,1 +1,1 @@
-var mnemonic = "betray tape inhale hole marine waste chase mobile eyebrow exhaust pilot egg";
+var mnemonic = "edge zebra mirror chase thunder side position soldier poverty maple fan early";

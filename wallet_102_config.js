@@ -1,1 +1,1 @@
-var mnemonic = "toilet use empty mention canvas pause middle voyage mandate border spider purpose";
+var mnemonic = "snack attract excite globe dentist jar knee quick exotic mail install able";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor pluck elbow recall hood float discover kit tank limb wolf install";
+var mnemonic = "captain visual leopard clock power coast loyal tide visa visit brick pupil";

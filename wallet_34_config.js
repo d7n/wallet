@@ -1,1 +1,1 @@
-var mnemonic = "sample liberty lizard wrap life immune surprise moment boring ticket tomorrow doll";
+var mnemonic = "target soda replace draw life actual jump excess scheme decrease plate brain";

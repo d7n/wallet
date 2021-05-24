@@ -1,1 +1,1 @@
-var mnemonic = "athlete grow never question angle fence strategy vital brown fly know wave";
+var mnemonic = "pepper age benefit gown ready globe exact position apart object cream enemy";

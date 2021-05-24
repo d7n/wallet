@@ -1,1 +1,1 @@
-var mnemonic = "goose slight donkey identify sun depend twist impose middle hole draft ill";
+var mnemonic = "work meat seek old aware edit omit lady degree true razor tiger";

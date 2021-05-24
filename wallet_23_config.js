@@ -1,1 +1,1 @@
-var mnemonic = "minute pizza lazy jewel program uniform tip exotic inject total shoe horse";
+var mnemonic = "cave direct inquiry deny insect online rebuild wrist mind select coast agent";

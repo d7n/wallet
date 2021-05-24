@@ -1,1 +1,1 @@
-var mnemonic = "flush space index plunge inhale blade rhythm project quit stool junior rose";
+var mnemonic = "skirt topic shock tissue reveal sport into delay lady season tree toddler";

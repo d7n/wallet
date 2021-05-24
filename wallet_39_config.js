@@ -1,1 +1,1 @@
-var mnemonic = "attack sort radar marble moment current mesh grit diagram answer mention way";
+var mnemonic = "flat rural tongue spice melody price lawn flat surge million ripple spider";

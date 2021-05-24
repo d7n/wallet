@@ -1,1 +1,1 @@
-var mnemonic = "coral corn actual vendor side tree bunker few define meat hover whisper";
+var mnemonic = "harbor brisk pride viable conduct blur crawl property ripple flower punch drama";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness gift come enroll rely milk phone wood square shove manage update";
+var mnemonic = "sample burst science wash town debris joy excess cave joy noodle era";

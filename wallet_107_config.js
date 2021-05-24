@@ -1,1 +1,1 @@
-var mnemonic = "gather shoot sponsor produce grid step pistol brass honey phone trial hint";
+var mnemonic = "agent barely leisure narrow apology gym uniform february nothing hollow husband expire";

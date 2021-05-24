@@ -1,1 +1,1 @@
-var mnemonic = "kidney hair author bracket logic zoo february wrist start energy dentist ivory";
+var mnemonic = "assault float neglect glory elegant pole dice ticket course judge normal test";

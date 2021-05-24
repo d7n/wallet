@@ -1,1 +1,1 @@
-var mnemonic = "include menu cannon input strategy own shed bean brave cinnamon snow rent";
+var mnemonic = "cook grid neither spin peasant pistol waste know spoil beef wedding rather";

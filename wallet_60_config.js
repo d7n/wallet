@@ -1,1 +1,1 @@
-var mnemonic = "social garage chimney hockey awful bulk wear recycle seat minimum melody message";
+var mnemonic = "junior hospital involve merge heart coin rib raven trophy cart catalog mansion";

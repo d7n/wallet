@@ -1,1 +1,1 @@
-var mnemonic = "ocean noise viable foster spare cement chalk guitar pave course shaft win";
+var mnemonic = "confirm success nation run ivory phrase screen gospel medal defy ice total";

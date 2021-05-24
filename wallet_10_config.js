@@ -1,1 +1,1 @@
-var mnemonic = "market goose frequent meadow mosquito balance all loyal kiwi gentle dog title";
+var mnemonic = "void advice tenant purse advice theme gadget antique thrive hill illness iron";

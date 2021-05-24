@@ -1,1 +1,1 @@
-var mnemonic = "taste powder apart muscle result grocery girl wheel wood repeat find initial";
+var mnemonic = "method expect carbon walk radio amazing grow able loyal plastic icon west";

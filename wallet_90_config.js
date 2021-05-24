@@ -1,1 +1,1 @@
-var mnemonic = "staff tragic wagon awesome bonus coconut brass skull mean crash effort chaos";
+var mnemonic = "mean grow magnet country juice renew pond peanut half achieve kidney guard";
