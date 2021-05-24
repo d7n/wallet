@@ -1,1 +1,1 @@
-var mnemonic = "under enforce fresh pig above daring diamond artwork shift exhaust success spare";
+var mnemonic = "cabbage just ritual cement learn that april citizen blood fix spot flavor";

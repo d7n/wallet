@@ -1,1 +1,1 @@
-var mnemonic = "theory pigeon pony decline sense laptop fame purpose seminar crash slot segment";
+var mnemonic = "hover fantasy swing escape bench prepare twist you venture marine raccoon fun";

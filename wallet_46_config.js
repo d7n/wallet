@@ -1,1 +1,1 @@
-var mnemonic = "hour sheriff wave worry flock aunt brief skate glow pause daring impact";
+var mnemonic = "group item mad ball drama turkey matter barely upper require cousin popular";

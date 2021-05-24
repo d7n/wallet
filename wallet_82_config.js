@@ -1,1 +1,1 @@
-var mnemonic = "subject erode lounge quit alcohol worry come bag base relief donate echo";
+var mnemonic = "web bullet bargain grunt elbow below profit ketchup there wonder mouse deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid middle reopen behind punch shy pudding invest liar series skill pepper";
+var mnemonic = "crime control goose faint suffer draw leaf raise such badge funny stable";

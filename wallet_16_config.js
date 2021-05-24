@@ -1,1 +1,1 @@
-var mnemonic = "screen labor shrimp answer ski truly exclude flight during imitate green expect";
+var mnemonic = "erupt connect please toy swamp gold stock language nut speed myth man";

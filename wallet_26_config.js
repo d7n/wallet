@@ -1,1 +1,1 @@
-var mnemonic = "family auto young enact typical waste nurse cloud crisp scrub length arrest";
+var mnemonic = "share fatigue devote unaware stool six cinnamon run wet hockey cherry tube";

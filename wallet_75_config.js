@@ -1,1 +1,1 @@
-var mnemonic = "garden issue march maid case season angry palm address year key involve";
+var mnemonic = "bird jazz asset enough flat siege bird fox rude give digital future";

@@ -1,1 +1,1 @@
-var mnemonic = "airport laundry broccoli sure beef slot pizza maple pair struggle rack powder";
+var mnemonic = "assault kit rural sweet spin young pattern penalty dice field barely cream";

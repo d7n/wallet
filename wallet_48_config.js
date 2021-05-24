@@ -1,1 +1,1 @@
-var mnemonic = "defense crane fade ill again sure sniff slide thank wink mechanic salt";
+var mnemonic = "chronic certain know else relief beach you slam lens outside dress sick";

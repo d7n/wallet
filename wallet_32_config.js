@@ -1,1 +1,1 @@
-var mnemonic = "paddle supreme wreck truck analyst depend fork observe time stay sniff country";
+var mnemonic = "add body case fence carpet this play census biology detect almost later";

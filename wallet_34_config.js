@@ -1,1 +1,1 @@
-var mnemonic = "avocado drift modify amount pause model resource fluid column middle diet vast";
+var mnemonic = "fee turn frame spray elegant donkey search friend shrug obtain warfare expect";

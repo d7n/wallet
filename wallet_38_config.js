@@ -1,1 +1,1 @@
-var mnemonic = "outdoor impulse soft ramp fortune climb link first tip sample addict calm";
+var mnemonic = "execute ghost dream evoke believe only box essence female toe torch exit";

@@ -1,1 +1,1 @@
-var mnemonic = "chair tenant excuse high decrease legend try heart observe tomato surprise embody";
+var mnemonic = "reduce pony mystery slush doll first struggle hurt scatter slice slender degree";

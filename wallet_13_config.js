@@ -1,1 +1,1 @@
-var mnemonic = "issue spawn distance feed sponsor choose prefer solve stairs topple vast holiday";
+var mnemonic = "settle arrange snake employ year awesome laugh brass fantasy upset kitchen push";

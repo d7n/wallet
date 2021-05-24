@@ -1,1 +1,1 @@
-var mnemonic = "fish nothing brain noodle sleep amateur swing cargo crane music crop replace";
+var mnemonic = "clinic abuse relax bag marine obtain course attack misery pen category okay";

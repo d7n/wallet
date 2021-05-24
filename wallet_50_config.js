@@ -1,1 +1,1 @@
-var mnemonic = "armed armor roof fatal ocean stereo snap ostrich pilot wear ship little";
+var mnemonic = "joy stumble furnace act method order offer track family work mesh sentence";

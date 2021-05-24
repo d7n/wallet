@@ -1,1 +1,1 @@
-var mnemonic = "soccer advance prefer hip lecture head document leaf rule rich blast cross";
+var mnemonic = "robot quick tenant exotic define code cereal gold wheat tribe scan foster";

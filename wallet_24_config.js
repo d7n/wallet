@@ -1,1 +1,1 @@
-var mnemonic = "burden install rely lava envelope say scorpion lava culture item clown girl";
+var mnemonic = "stool law ancient baby foam video depth diary talent museum beyond simple";

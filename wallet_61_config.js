@@ -1,1 +1,1 @@
-var mnemonic = "industry correct flat adjust desk pizza rhythm spatial category token sense across";
+var mnemonic = "federal account alien ski tiger play point bring like soup chest carpet";

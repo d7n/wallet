@@ -1,1 +1,1 @@
-var mnemonic = "patient burst artefact agree search swarm absorb ship gorilla skill vivid imitate";
+var mnemonic = "evil mad birth game dirt drift shoulder boil judge hat soda develop";

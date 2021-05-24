@@ -1,1 +1,1 @@
-var mnemonic = "danger virtual second accident capable cattle roast wish silly letter response assume";
+var mnemonic = "design dynamic material rhythm army ramp sick forward farm video plunge thunder";

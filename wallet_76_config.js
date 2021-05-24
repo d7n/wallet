@@ -1,1 +1,1 @@
-var mnemonic = "west mind hawk syrup report alert private cup solve property sheriff shrimp";
+var mnemonic = "cat refuse anchor seed case supreme tent shop bind wood admit stone";

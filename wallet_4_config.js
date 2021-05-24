@@ -1,1 +1,1 @@
-var mnemonic = "open rude nose bid leaf dune citizen unknown cliff deputy candy degree";
+var mnemonic = "naive obscure decorate narrow uphold brisk lend dirt clump lava sustain misery";

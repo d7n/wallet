@@ -1,1 +1,1 @@
-var mnemonic = "rain taxi pass idle dizzy space labor nation slab coast situate maple";
+var mnemonic = "nuclear hurry orange coral jaguar royal belt connect liar second bulb shed";

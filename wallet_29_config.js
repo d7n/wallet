@@ -1,1 +1,1 @@
-var mnemonic = "oak coffee laptop excuse salad glad window urge notable attend noodle better";
+var mnemonic = "illegal muscle inspire canyon alter olympic fiber cushion spoon rent like castle";

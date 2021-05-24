@@ -1,1 +1,1 @@
-var mnemonic = "style high height fiscal sketch fade very daughter aspect jeans gym make";
+var mnemonic = "wheel tissue until remember can cage silly load forward arrive sunset skate";

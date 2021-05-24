@@ -1,1 +1,1 @@
-var mnemonic = "join smoke crisp armor middle angle boy soft scout crash ball sniff";
+var mnemonic = "sail window number term dentist budget repeat fiscal dragon pass annual remain";

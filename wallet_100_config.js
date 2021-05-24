@@ -1,1 +1,1 @@
-var mnemonic = "candy soccer dilemma romance crouch alien coach drama slam repeat clog canoe";
+var mnemonic = "seven mixture fiber arctic palace purpose receive true give argue marine also";

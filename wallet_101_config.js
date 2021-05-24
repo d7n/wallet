@@ -1,1 +1,1 @@
-var mnemonic = "orange radio vital shove sign spirit pair nerve tape cheese soda dolphin";
+var mnemonic = "gallery shaft swamp inquiry place warrior clip tenant measure nose brand regular";

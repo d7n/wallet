@@ -1,1 +1,1 @@
-var mnemonic = "parrot visit pond payment blame twist state vapor outside text twelve satisfy";
+var mnemonic = "forward embody length improve grape hole order panel neither cave harsh dial";

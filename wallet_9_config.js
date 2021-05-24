@@ -1,1 +1,1 @@
-var mnemonic = "army depend empower olympic anchor captain sign hammer beef dirt crawl route";
+var mnemonic = "among detail enroll lonely grace mule fashion master dinner pioneer utility kit";

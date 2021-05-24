@@ -1,1 +1,1 @@
-var mnemonic = "label expect ball fever trip quiz fan honey giraffe acoustic clump charge";
+var mnemonic = "treat pony medal member inherit vanish please laugh draw wood stove hollow";

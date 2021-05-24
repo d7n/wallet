@@ -1,1 +1,1 @@
-var mnemonic = "into alarm snap other balance heart celery elephant portion always egg horror";
+var mnemonic = "panic armed consider canyon tackle such prefer rigid dismiss spell miracle moment";

@@ -1,1 +1,1 @@
-var mnemonic = "fever sauce sail enjoy cradle drop rhythm infant parade cake ball hand";
+var mnemonic = "tuition silent crowd beach waste risk pole note despair swim gesture melt";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom clap federal alone clay exotic entry door taste wrap door science";
+var mnemonic = "raven boy fortune woman custom rely blade ceiling north sphere family key";

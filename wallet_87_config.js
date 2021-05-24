@@ -1,1 +1,1 @@
-var mnemonic = "quiz alarm banner lens cherry garage employ must rookie slice antenna long";
+var mnemonic = "calm occur short clarify candy live wedding click exclude delay account unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic few clown regret double canal actual silly own system close thought";
+var mnemonic = "ridge parrot defense cause garlic blur cheap isolate decrease other hungry clinic";

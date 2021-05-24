@@ -1,1 +1,1 @@
-var mnemonic = "dance arm cinnamon zone stadium coin giggle catch local point range wisdom";
+var mnemonic = "nephew become more boss table code glad category intact rare ranch fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "friend cruise chuckle net paper raccoon limit panther critic agent outer sibling";
+var mnemonic = "sock useful document bulb grit chapter solution merit decline fabric sister ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "list oak rocket mixed tongue remember pair humble fork parent bring elevator";
+var mnemonic = "brown shock lend faith uncover arch sweet stumble stove eight liquid disagree";

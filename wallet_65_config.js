@@ -1,1 +1,1 @@
-var mnemonic = "letter october palace chief ginger liquid cycle sight theme hole anxiety luxury";
+var mnemonic = "minute wave cement lunar broccoli advance sentence pattern insane silk door stadium";

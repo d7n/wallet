@@ -1,1 +1,1 @@
-var mnemonic = "craft boil potato deer candy collect stool essence obtain wrist stove clean";
+var mnemonic = "salmon basic boat remain broccoli cream rally soccer federal vault wall lunch";

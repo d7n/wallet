@@ -1,1 +1,1 @@
-var mnemonic = "betray metal extend prefer add little leave debate secret custom evidence purity";
+var mnemonic = "ignore buzz field butter abandon sibling amused scale view romance resource grid";

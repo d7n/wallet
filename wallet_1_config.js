@@ -1,1 +1,1 @@
-var mnemonic = "police style deposit kiss brush orchard cargo clock provide awkward shoulder monitor";
+var mnemonic = "forest frequent mule roast because humble crucial palace escape ridge step cross";

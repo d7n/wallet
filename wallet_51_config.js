@@ -1,1 +1,1 @@
-var mnemonic = "slice december cram yard name true acid coach unlock memory interest nut";
+var mnemonic = "rookie minimum soul sound network venture crash accuse arrest dice act example";

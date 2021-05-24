@@ -1,1 +1,1 @@
-var mnemonic = "gravity leopard swap favorite weather relief negative heart dismiss sudden exercise olive";
+var mnemonic = "develop rescue section train robot suit material rent offer village trigger owner";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado allow unable lava core matrix echo vast anxiety senior kid athlete";
+var mnemonic = "eight fee web critic artist become hamster enough leaf sponsor slim inside";

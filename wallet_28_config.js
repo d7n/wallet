@@ -1,1 +1,1 @@
-var mnemonic = "verify check pool saddle train kiss civil leg logic govern tornado carbon";
+var mnemonic = "fossil thumb true rescue end pumpkin used cotton chef organ visa demise";

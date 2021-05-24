@@ -1,1 +1,1 @@
-var mnemonic = "humor sibling adjust fatigue aspect hospital adjust auto eyebrow large trouble planet";
+var mnemonic = "neutral midnight prosper spare glove version kangaroo access pepper open purity edge";

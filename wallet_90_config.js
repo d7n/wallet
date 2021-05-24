@@ -1,1 +1,1 @@
-var mnemonic = "improve sense auto right dirt rubber vault pet hair naive panic school";
+var mnemonic = "legal usual release letter wheel weather actor paddle trust another shy ozone";

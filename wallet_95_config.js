@@ -1,1 +1,1 @@
-var mnemonic = "wrestle clever curtain solution spot element close test raise bicycle weasel rack";
+var mnemonic = "afraid argue satoshi dose west head rate demand mixture luggage delay sphere";

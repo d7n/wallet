@@ -1,1 +1,1 @@
-var mnemonic = "scatter glass horn clown great funny magic tumble toward neither later sun";
+var mnemonic = "hidden fuel gallery present jaguar digital grunt finish syrup bus ramp start";

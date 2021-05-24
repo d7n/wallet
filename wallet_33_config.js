@@ -1,1 +1,1 @@
-var mnemonic = "give start general rhythm cook grunt giant rally cry sad stereo summer";
+var mnemonic = "clerk couch eternal supreme excuse fabric warfare able camera camera humble uniform";

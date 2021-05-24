@@ -1,1 +1,1 @@
-var mnemonic = "skate bird wish consider develop cannon little detail tribe cause group wheat";
+var mnemonic = "alpha music silver spring ozone enroll unfair loop obvious bright nut toilet";

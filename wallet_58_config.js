@@ -1,1 +1,1 @@
-var mnemonic = "orchard column insect coyote random tide borrow comfort patch impulse fitness fiction";
+var mnemonic = "wool loyal dance volcano worth quick plastic december floor fresh february siren";

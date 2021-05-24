@@ -1,1 +1,1 @@
-var mnemonic = "nut venue radio habit claw account train card sibling much blanket derive";
+var mnemonic = "vague flash detect another hip traffic girl before area ugly erode wasp";

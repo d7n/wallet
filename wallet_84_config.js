@@ -1,1 +1,1 @@
-var mnemonic = "empty nation perfect gift amateur basket spare borrow leaf method label glide";
+var mnemonic = "that enrich odor still maid sunny program rebuild offer another elegant blame";

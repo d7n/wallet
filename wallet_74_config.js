@@ -1,1 +1,1 @@
-var mnemonic = "such raven autumn drastic this toy define outdoor box fame daring unhappy";
+var mnemonic = "rubber stem merge beef enter wink shuffle another father wait point oak";

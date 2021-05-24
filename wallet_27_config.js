@@ -1,1 +1,1 @@
-var mnemonic = "miss news lumber december blind hazard food flip payment alter ice sun";
+var mnemonic = "broccoli cost tackle stone mirror sauce light chaos ivory orient planet pistol";

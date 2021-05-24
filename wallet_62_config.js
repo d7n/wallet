@@ -1,1 +1,1 @@
-var mnemonic = "nurse picnic radar salt chimney miracle hurt ocean opera busy shy dice";
+var mnemonic = "seminar organ crush kit fog crew parent brief dismiss remove word tomorrow";

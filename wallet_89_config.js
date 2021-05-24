@@ -1,1 +1,1 @@
-var mnemonic = "donkey cute volume cricket ill edge reflect talk question onion cabin tower";
+var mnemonic = "jewel skirt among ethics tonight kiss salt govern payment state dress tumble";

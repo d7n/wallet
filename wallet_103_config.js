@@ -1,1 +1,1 @@
-var mnemonic = "measure duty bronze good canyon drive slide ring enact creek inhale poverty";
+var mnemonic = "hair gas lumber same legend category attack general dice bachelor enact fold";

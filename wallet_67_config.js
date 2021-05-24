@@ -1,1 +1,1 @@
-var mnemonic = "neglect spawn bottom air title write chair fence spin answer liquid maximum";
+var mnemonic = "lecture benefit slide manual private ranch educate ridge exhaust regret witness drift";

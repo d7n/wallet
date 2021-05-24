@@ -1,1 +1,1 @@
-var mnemonic = "nature black pretty bus alarm apple bag search pyramid duck script result";
+var mnemonic = "roast zebra nature jeans opera remove ignore another lava glass fresh pig";

@@ -1,1 +1,1 @@
-var mnemonic = "cable diet erosion wave zero advance guard black injury rescue cactus timber";
+var mnemonic = "climb illness abandon broccoli stereo source nation face twice leaf crunch comic";

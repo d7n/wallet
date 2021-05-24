@@ -1,1 +1,1 @@
-var mnemonic = "magnet plunge athlete payment volcano tunnel fan cigar doll cement laundry tonight";
+var mnemonic = "energy ski split fossil middle slight risk affair cargo taste shrug evil";

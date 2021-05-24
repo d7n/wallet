@@ -1,1 +1,1 @@
-var mnemonic = "brief asset scan east illegal hero parade conduct sorry tumble design wet";
+var mnemonic = "judge jelly mouse renew clean clap balance seed stool practice will family";

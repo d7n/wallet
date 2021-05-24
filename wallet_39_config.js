@@ -1,1 +1,1 @@
-var mnemonic = "resource vacant blade attack hen notice print inspire announce struggle custom valve";
+var mnemonic = "field give actor palm gossip cheese put say stand cash know bring";

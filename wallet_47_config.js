@@ -1,1 +1,1 @@
-var mnemonic = "runway actor online boy quit sight bonus royal nation cliff sudden high";
+var mnemonic = "window try slogan cruise seat army arena relax indicate disorder sport kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "insane common piano please genius retreat have air canvas range magic super";
+var mnemonic = "public document rain cream wedding fix gossip pause outside annual two paddle";

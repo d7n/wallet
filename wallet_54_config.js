@@ -1,1 +1,1 @@
-var mnemonic = "silly loop wine warrior lizard hedgehog want execute trend crack defy brave";
+var mnemonic = "favorite slide remain history crunch olympic rocket crowd lunar lesson inch hurdle";

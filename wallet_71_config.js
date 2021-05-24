@@ -1,1 +1,1 @@
-var mnemonic = "water fatigue seven blood huge hard attend saddle amount smart kitten tray";
+var mnemonic = "velvet volcano neither morning gift shoe monkey maid path liquid tuna zebra";

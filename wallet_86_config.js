@@ -1,1 +1,1 @@
-var mnemonic = "drop raven observe update police material present scissors broccoli fall add traffic";
+var mnemonic = "food mammal evil fortune snap govern spike trust balcony crew digital dutch";

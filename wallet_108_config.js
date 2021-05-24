@@ -1,1 +1,1 @@
-var mnemonic = "term slogan rapid cave define borrow nominee behave duty science violin naive";
+var mnemonic = "bachelor amused success fit mountain wish crunch charge soda write stove correct";

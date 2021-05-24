@@ -1,1 +1,1 @@
-var mnemonic = "simple turn orbit bubble lens trend cake punch toward limb cigar pride";
+var mnemonic = "version right choice glow aim shiver order destroy afraid need cable evoke";

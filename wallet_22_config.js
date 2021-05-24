@@ -1,1 +1,1 @@
-var mnemonic = "chase erode total local draw meat tobacco like slush resist airport kingdom";
+var mnemonic = "erase drum swear garment cricket view laundry short then pigeon hood hedgehog";

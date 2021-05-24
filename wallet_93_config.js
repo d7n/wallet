@@ -1,1 +1,1 @@
-var mnemonic = "meadow curtain remain pluck gloom borrow dwarf omit brown story kick snack";
+var mnemonic = "gift game other weapon gas start help mention clever journey defy aerobic";

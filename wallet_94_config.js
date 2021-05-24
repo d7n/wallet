@@ -1,1 +1,1 @@
-var mnemonic = "equal pause win leave spawn corn mouse odor rather notable umbrella clap";
+var mnemonic = "yellow south oyster impulse deer census oval zoo way tent proud urge";

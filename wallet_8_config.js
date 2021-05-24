@@ -1,1 +1,1 @@
-var mnemonic = "riot liquid page boss all enemy climb puppy weasel february arm protect";
+var mnemonic = "double multiply angry powder destroy awkward actress float will found car movie";

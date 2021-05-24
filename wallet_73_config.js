@@ -1,1 +1,1 @@
-var mnemonic = "tower zebra measure bean camera street travel clown search leisure false month";
+var mnemonic = "office garment minute cross maple unique trust tip spell parent undo puppy";

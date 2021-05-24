@@ -1,1 +1,1 @@
-var mnemonic = "oak found spirit square excuse offer upper panda physical arena pledge found";
+var mnemonic = "salt festival help merry melt cattle myself until legal atom hockey fun";

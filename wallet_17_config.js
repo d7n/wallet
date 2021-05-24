@@ -1,1 +1,1 @@
-var mnemonic = "route pact grace champion crunch rose embrace comfort book decorate memory echo";
+var mnemonic = "antique trouble click plate employ paper manual cool pair oblige general owner";

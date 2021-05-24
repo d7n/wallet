@@ -1,1 +1,1 @@
-var mnemonic = "coral scheme abuse milk minute mule split amazing city segment two illness";
+var mnemonic = "citizen pluck future valley fee topic offer attack clarify anxiety cost card";

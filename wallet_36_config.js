@@ -1,1 +1,1 @@
-var mnemonic = "balcony knock piece able lucky bus syrup logic close such coin parent";
+var mnemonic = "upon sunny traffic valley beach drama glass other travel spike link mushroom";

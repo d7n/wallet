@@ -1,1 +1,1 @@
-var mnemonic = "scare swift diesel scare taste garden during sugar crew okay child illegal";
+var mnemonic = "cook angry peasant silly split eyebrow enter project opinion current scheme cabin";

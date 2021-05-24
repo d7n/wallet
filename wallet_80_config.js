@@ -1,1 +1,1 @@
-var mnemonic = "satoshi scrub harvest glance bracket dance seed awful donkey pink wild define";
+var mnemonic = "elder raw pigeon comic coral that reunion cloud unfair ridge memory warm";

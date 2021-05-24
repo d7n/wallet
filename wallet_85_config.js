@@ -1,1 +1,1 @@
-var mnemonic = "place convince tent green decorate pink decide hidden parrot effort champion typical";
+var mnemonic = "day small reveal fresh receive barrel place squeeze extra grass mammal flee";
