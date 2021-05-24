@@ -1,1 +1,1 @@
-var mnemonic = "faculty sorry trade alpha one situate luggage mountain display name cart grant";
+var mnemonic = "sick hobby dice abstract excess symbol ring fence claw evolve adapt matter";

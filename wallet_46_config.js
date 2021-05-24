@@ -1,1 +1,1 @@
-var mnemonic = "tomato logic bring wise fade boy barely runway better pear letter bargain";
+var mnemonic = "basic odor armor height boat knee web relax people own census lecture";

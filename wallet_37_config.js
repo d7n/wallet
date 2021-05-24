@@ -1,1 +1,1 @@
-var mnemonic = "green boring van long pledge duck resource toss fashion issue token hurry";
+var mnemonic = "print blur rare taxi luggage unhappy cotton evolve dash twice head breeze";

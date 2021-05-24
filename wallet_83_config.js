@@ -1,1 +1,1 @@
-var mnemonic = "oxygen rack rotate label unveil sing armor more expect kiss print ripple";
+var mnemonic = "gate iron join maze metal entire aim fish scheme lottery between neglect";

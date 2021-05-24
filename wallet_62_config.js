@@ -1,1 +1,1 @@
-var mnemonic = "boat predict sleep silver idea boring pitch pool spare border disagree draw";
+var mnemonic = "desert mandate shop awesome fee police lady nest chief entire aunt rubber";

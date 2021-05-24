@@ -1,1 +1,1 @@
-var mnemonic = "chapter render differ visa skill media job bring crane glide conduct sure";
+var mnemonic = "panda people swing top kit rocket sing orbit vault raw bacon liar";

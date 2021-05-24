@@ -1,1 +1,1 @@
-var mnemonic = "ordinary wealth safe normal junior outer aunt dog school good goat skull";
+var mnemonic = "upper half yard cattle door caution wage grunt palm still seek secret";

@@ -1,1 +1,1 @@
-var mnemonic = "stone alert honey album chunk nephew cupboard soul laugh aim nothing plunge";
+var mnemonic = "tuna speak round length maximum scrap foot body try choose kid estate";

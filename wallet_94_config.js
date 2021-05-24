@@ -1,1 +1,1 @@
-var mnemonic = "weapon maximum cushion enroll orchard clump mechanic purity return human repeat abandon";
+var mnemonic = "arrive over canvas pencil column case system tourist clown hold blanket element";

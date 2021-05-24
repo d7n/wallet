@@ -1,1 +1,1 @@
-var mnemonic = "derive dignity mobile laundry nice antique manual federal gold join correct common";
+var mnemonic = "crew spray wheel exclude myself document receive person language order lamp trip";

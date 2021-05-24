@@ -1,1 +1,1 @@
-var mnemonic = "select solution cheap key fork truck olympic monster lobster barely cabbage unknown";
+var mnemonic = "hen page quick credit hybrid drum lobster galaxy enjoy earn major twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "attract latin rack flame sister bread soldier glimpse ancient travel carbon artist";
+var mnemonic = "mammal sail mutual dog august diary awkward hollow manual achieve omit cash";

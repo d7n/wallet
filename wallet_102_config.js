@@ -1,1 +1,1 @@
-var mnemonic = "ill hour fit make avoid enrich fault helmet execute tiger network fog";
+var mnemonic = "doll scare excuse describe friend before trash already sort isolate cattle rotate";

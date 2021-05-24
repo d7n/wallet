@@ -1,1 +1,1 @@
-var mnemonic = "harvest fatal glue ivory salmon horn length choice charge derive merit permit";
+var mnemonic = "symbol deer female retire trick decorate merit three inhale because rough buzz";

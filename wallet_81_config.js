@@ -1,1 +1,1 @@
-var mnemonic = "dignity tool bus advance access exclude stomach swim duck aim miss give";
+var mnemonic = "churn library regular electric bubble canyon payment false concert copy wire cliff";

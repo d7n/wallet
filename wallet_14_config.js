@@ -1,1 +1,1 @@
-var mnemonic = "ride crouch fitness light hawk dumb float coil thing enough hybrid pluck";
+var mnemonic = "silver beef robust skull pelican tomorrow guess load envelope control farm say";

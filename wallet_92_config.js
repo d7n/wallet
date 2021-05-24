@@ -1,1 +1,1 @@
-var mnemonic = "village title various catch cube dilemma label sibling journey earn manual mystery";
+var mnemonic = "caught spend injury lake right gossip again carry dice sibling bring major";

@@ -1,1 +1,1 @@
-var mnemonic = "type trigger daughter culture differ nut orbit liquid turn mask forward emerge";
+var mnemonic = "spawn unaware mystery dismiss mention scheme analyst level edge bright question when";

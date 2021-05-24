@@ -1,1 +1,1 @@
-var mnemonic = "manual legend muffin grit pear twelve destroy roast pact nasty rebel record";
+var mnemonic = "industry mango fury sick unaware pistol uncover pond thank success toward lens";

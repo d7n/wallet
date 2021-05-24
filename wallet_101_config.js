@@ -1,1 +1,1 @@
-var mnemonic = "source bicycle give judge tell dice annual cool review lottery canvas poem";
+var mnemonic = "ask dizzy pulse exact seminar frequent share blanket destroy afraid place wagon";

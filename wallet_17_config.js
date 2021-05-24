@@ -1,1 +1,1 @@
-var mnemonic = "oil adjust modify crucial extend cricket lens myself opera attract include beef";
+var mnemonic = "above response jungle wide owner chapter group agree fall adjust purpose siren";

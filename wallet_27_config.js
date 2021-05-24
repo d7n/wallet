@@ -1,1 +1,1 @@
-var mnemonic = "mean potato approve music return april alter trigger scout rate hill lock";
+var mnemonic = "around film drop video column flash grass curious sketch include echo attack";

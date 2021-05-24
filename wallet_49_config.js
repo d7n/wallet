@@ -1,1 +1,1 @@
-var mnemonic = "salute return prosper figure ready dish aerobic over panel bacon lab jewel";
+var mnemonic = "better core sponsor when consider armor credit injury height cause else air";

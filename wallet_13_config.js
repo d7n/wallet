@@ -1,1 +1,1 @@
-var mnemonic = "label oxygen nerve staff caution onion replace target excuse sorry strong impulse";
+var mnemonic = "now scheme add vacuum unique ahead call always small system seed door";

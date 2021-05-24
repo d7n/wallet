@@ -1,1 +1,1 @@
-var mnemonic = "expose weasel north grace rain entry above fault pulse garment assault much";
+var mnemonic = "oval deny unique uniform make aerobic awful umbrella fly zero rigid steak";

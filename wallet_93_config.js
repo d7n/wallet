@@ -1,1 +1,1 @@
-var mnemonic = "grit wear hotel resist powder name voyage ask direct middle wet large";
+var mnemonic = "vibrant depth sleep script fashion dirt onion aim draft thought animal ripple";

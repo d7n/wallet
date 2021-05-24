@@ -1,1 +1,1 @@
-var mnemonic = "swap inch leopard deer forward various unfair youth say teach debate fitness";
+var mnemonic = "enroll ride repeat arch raise news drum fuel forget alert crack prefer";

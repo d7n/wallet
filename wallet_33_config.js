@@ -1,1 +1,1 @@
-var mnemonic = "vote wing manual clap open grow refuse decide conduct figure galaxy topic";
+var mnemonic = "walk debris gain hollow also erupt digital praise hollow divide sugar idle";

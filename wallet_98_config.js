@@ -1,1 +1,1 @@
-var mnemonic = "life slogan question issue forward office judge front trap science odor spice";
+var mnemonic = "walk rug program purpose indicate negative code prison cup time pact inspire";

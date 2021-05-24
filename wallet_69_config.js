@@ -1,1 +1,1 @@
-var mnemonic = "pelican bargain advance shock insane mail today benefit scan reform tool flush";
+var mnemonic = "utility smooth obvious include jungle core mammal army color mercy few famous";

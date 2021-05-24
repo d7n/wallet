@@ -1,1 +1,1 @@
-var mnemonic = "achieve enter remain board focus shoot october witness cruise vast coin unique";
+var mnemonic = "sunset quantum catch onion bubble stool birth divert wet toast elegant city";

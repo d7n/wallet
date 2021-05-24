@@ -1,1 +1,1 @@
-var mnemonic = "winner glance east fringe october example timber mass time deposit retreat slow";
+var mnemonic = "opinion north ritual virus zero rough nephew net bleak code search evidence";

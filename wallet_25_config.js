@@ -1,1 +1,1 @@
-var mnemonic = "become come win because kiwi shell tattoo orange act birth awful sick";
+var mnemonic = "duck stuff delay journey insect intact pledge jazz demand wrong erosion split";

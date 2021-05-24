@@ -1,1 +1,1 @@
-var mnemonic = "kidney proof abandon coast office else video shoulder salon green buzz trade";
+var mnemonic = "tag avoid universe misery slender above record simple there stairs inhale require";

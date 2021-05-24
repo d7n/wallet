@@ -1,1 +1,1 @@
-var mnemonic = "dirt print buyer ivory also cram attack cricket recall index case develop";
+var mnemonic = "tennis tool teach swear joke sustain decrease leave upon same hollow sausage";

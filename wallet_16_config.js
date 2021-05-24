@@ -1,1 +1,1 @@
-var mnemonic = "pulse primary fee chuckle trumpet current illegal riot alpha grass inspire pottery";
+var mnemonic = "lend program rain cloth pledge hundred piano deputy twenty drum neglect cabin";

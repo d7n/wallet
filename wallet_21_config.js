@@ -1,1 +1,1 @@
-var mnemonic = "tobacco illegal expand shrug bike then spring enough duty picnic humor negative";
+var mnemonic = "fiction garlic roast worry pen dizzy above panther employ title oven small";

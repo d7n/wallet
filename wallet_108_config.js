@@ -1,1 +1,1 @@
-var mnemonic = "reveal light monkey random imitate arm unlock match firm describe question humble";
+var mnemonic = "more breeze topple orbit record ice hurdle stand slam blanket endorse pencil";

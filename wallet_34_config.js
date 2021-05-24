@@ -1,1 +1,1 @@
-var mnemonic = "odor feature lunch evil estate hobby monitor mistake emerge whale cheese version";
+var mnemonic = "scout jewel fish purpose august cactus oval pen credit inhale wrist afford";

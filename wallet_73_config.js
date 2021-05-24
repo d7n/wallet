@@ -1,1 +1,1 @@
-var mnemonic = "grid curve torch orange draft arch easy action pluck lounge lawsuit shove";
+var mnemonic = "snap unique wonder skull unlock powder evolve uncle cherry minor three weasel";

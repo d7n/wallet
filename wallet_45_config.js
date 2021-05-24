@@ -1,1 +1,1 @@
-var mnemonic = "food scatter supreme case easily asthma blanket gym measure inflict spice mercy";
+var mnemonic = "legend guilt pair blame fantasy illegal stable donate ball parade lucky pear";

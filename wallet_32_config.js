@@ -1,1 +1,1 @@
-var mnemonic = "amused elder coast link length notice hurt apple door clap learn outdoor";
+var mnemonic = "practice coach ugly what inner width foster shrimp peace act fit layer";

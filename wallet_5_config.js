@@ -1,1 +1,1 @@
-var mnemonic = "balcony funny random expand warfare finish friend truck exhibit accuse help middle";
+var mnemonic = "talent vessel blanket hub often action hand dry give interest kit casual";

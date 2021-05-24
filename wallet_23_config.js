@@ -1,1 +1,1 @@
-var mnemonic = "bread inmate ripple slice fitness cotton waste swallow gaze icon marble renew";
+var mnemonic = "term ten submit hint oak skin time physical sample other second need";

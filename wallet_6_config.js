@@ -1,1 +1,1 @@
-var mnemonic = "rotate assault patient vital balance modify stay tonight steel hen zero tribe";
+var mnemonic = "decrease trap pull device venue raven best cliff security favorite mechanic video";

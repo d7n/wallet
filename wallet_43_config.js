@@ -1,1 +1,1 @@
-var mnemonic = "cheap essay elder frost divorce drink recycle betray desk snow license video";
+var mnemonic = "bus region sort hawk major flag indicate like skin hidden response wonder";

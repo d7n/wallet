@@ -1,1 +1,1 @@
-var mnemonic = "where black observe patch weird miracle today tail cream oxygen cat stadium";
+var mnemonic = "transfer gesture toward nephew eager hawk rich control fish observe cycle carbon";

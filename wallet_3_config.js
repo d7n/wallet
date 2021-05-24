@@ -1,1 +1,1 @@
-var mnemonic = "interest sugar bike brand outdoor creek fix grocery weekend mango random space";
+var mnemonic = "strong paper candy nest hard either mean mask purity toe lesson tongue";

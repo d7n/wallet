@@ -1,1 +1,1 @@
-var mnemonic = "super credit practice goose skate appear buffalo prison shoulder reform simple olympic";
+var mnemonic = "virtual sun adapt chef sweet plunge zebra squeeze lumber sausage jeans evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown ghost ritual firm transfer tilt message effort judge tool love soccer";
+var mnemonic = "cram dutch morning myth cabbage usage forest protect country inch warm candy";

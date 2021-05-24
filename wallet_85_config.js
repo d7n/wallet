@@ -1,1 +1,1 @@
-var mnemonic = "photo kiss embark verify degree quarter cube young there account awful during";
+var mnemonic = "degree boy cool merit diary midnight husband lemon honey where crunch latin";

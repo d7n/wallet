@@ -1,1 +1,1 @@
-var mnemonic = "practice giggle pair pigeon bicycle smile purity agree royal inform gesture castle";
+var mnemonic = "remain glimpse chalk tuition panel also return antenna document seek race minimum";

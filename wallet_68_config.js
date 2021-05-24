@@ -1,1 +1,1 @@
-var mnemonic = "street latin melt offer oblige sunset mule field zebra around horse pair";
+var mnemonic = "juice spoon ocean fault subject truly junior imitate mirror ethics glove laundry";

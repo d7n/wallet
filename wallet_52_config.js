@@ -1,1 +1,1 @@
-var mnemonic = "battle fossil escape subject attend together owner injury athlete adjust genius shrimp";
+var mnemonic = "divide street warrior gown tonight spring orphan twice fever paper enable achieve";

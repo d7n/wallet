@@ -1,1 +1,1 @@
-var mnemonic = "crop forest poet logic ozone grape snack various stadium river segment cinnamon";
+var mnemonic = "noble hammer educate aerobic rebuild sadness banana salt victory canvas scheme shallow";

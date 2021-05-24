@@ -1,1 +1,1 @@
-var mnemonic = "void junk anxiety mistake basket fee dose find suffer sorry valid suspect";
+var mnemonic = "act play clay invite prison meat thrive wealth check acquire benefit acid";

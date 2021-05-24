@@ -1,1 +1,1 @@
-var mnemonic = "sadness soccer card imitate normal draft floor rude dry domain produce eyebrow";
+var mnemonic = "inspire practice local gossip reduce goddess sadness frown ten coconut height memory";

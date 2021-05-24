@@ -1,1 +1,1 @@
-var mnemonic = "hurry exile gossip castle wasp high provide wise always deposit cherry ivory";
+var mnemonic = "clinic shy crisp left luggage crucial avocado search announce valid squirrel father";

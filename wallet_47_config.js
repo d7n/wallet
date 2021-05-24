@@ -1,1 +1,1 @@
-var mnemonic = "horse lion slide embark upper detect fiction vanish explain furnace power priority";
+var mnemonic = "leopard hungry truck fever shoulder return oblige other word route season three";

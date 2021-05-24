@@ -1,1 +1,1 @@
-var mnemonic = "oval orient two lumber student umbrella melody venture level prevent chuckle deputy";
+var mnemonic = "frame author poverty boring eternal arrange unknown client box material vague egg";

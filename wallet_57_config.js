@@ -1,1 +1,1 @@
-var mnemonic = "note steel language ostrich achieve later room mandate deputy tank door spring";
+var mnemonic = "very three mind away mountain ecology cattle observe grape expose smart place";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen deer toss thank alley blue next mushroom image demand base phrase";
+var mnemonic = "coffee priority glow piano tree huge cause life visit uncle indicate beef";

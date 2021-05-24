@@ -1,1 +1,1 @@
-var mnemonic = "busy caught high artist proof pattern dilemma plunge old sell coach spin";
+var mnemonic = "path neither fatigue cry sheriff task observe roast toe mistake vintage mad";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella axis wrestle list miss spot panther crater defy access ticket video";
+var mnemonic = "screen aunt blade dad option category angry gap drift pond legal bachelor";

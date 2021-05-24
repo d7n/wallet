@@ -1,1 +1,1 @@
-var mnemonic = "border fossil nature electric eyebrow rhythm belt artefact garbage noodle giraffe arctic";
+var mnemonic = "glimpse rude like tree beef lock poem click gauge slot trend gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost gas alter burden assault acid protect erosion during elegant warfare moment";
+var mnemonic = "kind cage spice soap hood bitter physical manual basic trade quiz brown";

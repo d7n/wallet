@@ -1,1 +1,1 @@
-var mnemonic = "unhappy speak material knee admit arctic marine nest solar shove purchase tenant";
+var mnemonic = "cradle kangaroo decline author cruel gloom scene weapon cart nerve satoshi casual";

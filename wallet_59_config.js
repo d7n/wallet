@@ -1,1 +1,1 @@
-var mnemonic = "copper occur manage family tiger exhibit fan cabin blush erupt airport pill";
+var mnemonic = "custom prepare kiss universe thought happy vacant wrestle air industry talent cruel";

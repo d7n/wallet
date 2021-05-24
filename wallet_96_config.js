@@ -1,1 +1,1 @@
-var mnemonic = "only below phrase human trophy escape toast pact delay wrong time census";
+var mnemonic = "slender inmate avoid enroll join visual dignity sleep reunion number silver work";

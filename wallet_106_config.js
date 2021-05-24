@@ -1,1 +1,1 @@
-var mnemonic = "rhythm rule pluck cupboard blind finish lava ball strike mistake crash fashion";
+var mnemonic = "kiwi dumb large cart lift salt slow turkey space symptom drop journey";

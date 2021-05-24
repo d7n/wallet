@@ -1,1 +1,1 @@
-var mnemonic = "carpet obscure gaze adult pride leader exile flock book breeze vehicle cherry";
+var mnemonic = "group badge rifle barely delay foot strike tenant expand crazy gas aunt";

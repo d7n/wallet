@@ -1,1 +1,1 @@
-var mnemonic = "text deal unlock mass lizard act fantasy latin scatter rain dress lesson";
+var mnemonic = "pipe fiction antique theme expand cotton top honey twenty business master nuclear";

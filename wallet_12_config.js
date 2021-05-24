@@ -1,1 +1,1 @@
-var mnemonic = "exit loan devote party age asset device foster guide region then off";
+var mnemonic = "amateur spy hood first dry rifle liar excess mix extra cross method";

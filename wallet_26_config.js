@@ -1,1 +1,1 @@
-var mnemonic = "swear gauge super sign double rail teach hazard tide cricket love hole";
+var mnemonic = "blame dad keen enhance student fatal clock actress throw company measure this";

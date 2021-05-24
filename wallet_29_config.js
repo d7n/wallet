@@ -1,1 +1,1 @@
-var mnemonic = "stay idle radar inner accuse sister proof talk muscle fabric churn bulk";
+var mnemonic = "elephant open dinosaur easily grape need gospel fold exist abuse aware woman";

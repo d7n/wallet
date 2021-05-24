@@ -1,1 +1,1 @@
-var mnemonic = "angry attack cupboard donate spot yard aim spray caution spoil ring lunch";
+var mnemonic = "amateur reunion cake viable either catalog pretty nest divide erode educate visual";

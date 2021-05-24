@@ -1,1 +1,1 @@
-var mnemonic = "scout absorb scissors ready absorb output horn record bronze thank slogan april";
+var mnemonic = "prefer track brick much scene program industry hungry flag patrol garlic burger";

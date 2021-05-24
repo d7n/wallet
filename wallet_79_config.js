@@ -1,1 +1,1 @@
-var mnemonic = "treat heart soft ripple auction dove leave found top wise tilt risk";
+var mnemonic = "crouch lunch observe armor outside mind blame bone castle leopard mouse typical";

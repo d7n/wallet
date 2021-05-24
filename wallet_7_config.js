@@ -1,1 +1,1 @@
-var mnemonic = "mixture stereo tail meadow parrot fall useless steak loyal coast surprise prosper";
+var mnemonic = "ice wagon ten hybrid abstract audit differ sketch jungle drastic neglect shock";

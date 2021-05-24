@@ -1,1 +1,1 @@
-var mnemonic = "student spy heart click help scan champion valid walk siren veteran duty";
+var mnemonic = "have extend student field virtual diet royal immense salute purity silly piano";

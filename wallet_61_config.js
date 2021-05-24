@@ -1,1 +1,1 @@
-var mnemonic = "indicate dish affair uniform match surge hollow credit assist express install cargo";
+var mnemonic = "sugar version orient mesh nephew hat exist vibrant jelly mouse throw elegant";

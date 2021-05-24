@@ -1,1 +1,1 @@
-var mnemonic = "vast spin panel ski credit lemon moon economy oyster correct oil because";
+var mnemonic = "image juice float opera floor gallery ship deputy hard hope learn raccoon";

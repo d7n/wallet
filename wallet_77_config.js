@@ -1,1 +1,1 @@
-var mnemonic = "wisdom adjust humor item beach lyrics inspire street major pulse brother gown";
+var mnemonic = "flash gloom valley permit mad reveal nest oblige drip rely dust feed";

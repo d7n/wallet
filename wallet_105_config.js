@@ -1,1 +1,1 @@
-var mnemonic = "seek struggle crawl promote long panic tell senior laptop hammer ritual regret";
+var mnemonic = "buddy possible flash rule crush cart garlic hint fine suffer express adult";

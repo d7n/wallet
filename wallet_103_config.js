@@ -1,1 +1,1 @@
-var mnemonic = "repeat beef cabbage across item wine south sure large road quantum sniff";
+var mnemonic = "wide session rice trend useless public youth indoor oblige pass fiscal woman";

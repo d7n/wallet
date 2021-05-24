@@ -1,1 +1,1 @@
-var mnemonic = "erosion snap vacuum prize leg cousin human north begin trial diary panther";
+var mnemonic = "height simple hire scale session knee brief target gentle announce invest fruit";

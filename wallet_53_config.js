@@ -1,1 +1,1 @@
-var mnemonic = "mango face else food grain blue erase multiply bleak similar awkward tail";
+var mnemonic = "victory zone canvas wedding coach error autumn raise control cricket noise cart";

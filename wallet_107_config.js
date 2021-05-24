@@ -1,1 +1,1 @@
-var mnemonic = "tube dice august august spawn thunder mind easily quantum brief potato once";
+var mnemonic = "huge liar oblige trash draw input bachelor coil toward pool whip emotion";
