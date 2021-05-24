@@ -1,1 +1,1 @@
-var mnemonic = "elbow furnace fade hip empty author control blast venue clerk update correct";
+var mnemonic = "effort sail seek angle fitness slow winter pig waste extra member draft";

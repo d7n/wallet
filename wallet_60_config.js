@@ -1,1 +1,1 @@
-var mnemonic = "rent journey useful trick wine mirror sing evil fossil advance bind drill";
+var mnemonic = "excess observe order filter cost cross front penalty dash bring lecture reflect";

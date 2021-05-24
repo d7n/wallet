@@ -1,1 +1,1 @@
-var mnemonic = "maid clog problem lizard valid cable enroll rhythm repeat coffee drum scrub";
+var mnemonic = "alarm snack apple ceiling elegant inquiry misery clap meat virus december travel";

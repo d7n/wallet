@@ -1,1 +1,1 @@
-var mnemonic = "scatter treat grab decrease rich hero sock such position royal there cactus";
+var mnemonic = "trick volcano index weather pudding potato orphan provide popular hockey drum actual";

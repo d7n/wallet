@@ -1,1 +1,1 @@
-var mnemonic = "attitude oxygen inch bulk idle flip struggle avoid wasp patient decrease express";
+var mnemonic = "merry stick sad youth gospel then speak clinic sad harsh thought ivory";

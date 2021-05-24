@@ -1,1 +1,1 @@
-var mnemonic = "stock almost decade unknown lunar achieve loyal play isolate welcome salmon elegant";
+var mnemonic = "universe wealth alter ugly minute smile skull hold index river luxury they";

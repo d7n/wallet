@@ -1,1 +1,1 @@
-var mnemonic = "title gym edge minute clinic exercise honey raccoon era prosper donkey naive";
+var mnemonic = "chuckle segment rookie execute horse meat ticket dream document gown repair spirit";

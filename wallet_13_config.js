@@ -1,1 +1,1 @@
-var mnemonic = "clinic faith clarify camp april fringe rent barely oyster scan across begin";
+var mnemonic = "next strategy erase cactus call genuine gift tattoo buyer magnet wool flip";

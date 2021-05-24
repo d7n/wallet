@@ -1,1 +1,1 @@
-var mnemonic = "muscle immense lecture two captain submit ensure family three end allow fix";
+var mnemonic = "width risk chunk skin under pencil kit cradle crash neutral evil drink";

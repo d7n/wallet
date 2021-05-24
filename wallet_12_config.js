@@ -1,1 +1,1 @@
-var mnemonic = "equip need street person cushion turkey cross circle rubber orchard meat bitter";
+var mnemonic = "miracle gun mistake seed kick route cradle immense debate silk dad pig";

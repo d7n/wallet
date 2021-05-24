@@ -1,1 +1,1 @@
-var mnemonic = "deposit lecture crack north sunny beauty shy slush uncover jump swap cactus";
+var mnemonic = "dragon priority town trouble cradle pride love twist true prepare outdoor city";

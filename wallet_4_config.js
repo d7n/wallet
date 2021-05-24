@@ -1,1 +1,1 @@
-var mnemonic = "relax front tongue sea hand pear scrub olive stone ghost rude fan";
+var mnemonic = "turtle slow rich stumble there icon action goose scrub thumb ship keep";

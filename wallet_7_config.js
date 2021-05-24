@@ -1,1 +1,1 @@
-var mnemonic = "suspect pass coyote galaxy napkin enrich panic item flavor differ flower group";
+var mnemonic = "muscle cheese endless robot example weekend gas guilt beauty fly bacon approve";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow property magnet share lend burden useless fine such skull sudden join";
+var mnemonic = "tobacco since great way arrest imitate bundle solution insect stool helmet forum";

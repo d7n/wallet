@@ -1,1 +1,1 @@
-var mnemonic = "usage husband rich budget goose soon thumb capital twelve shock inform bubble";
+var mnemonic = "sketch brush soldier sadness filter wet fork plug hotel anxiety april crush";

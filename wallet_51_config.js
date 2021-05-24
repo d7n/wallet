@@ -1,1 +1,1 @@
-var mnemonic = "menu lift blind exact recall youth bulk sponsor purpose breeze crop attract";
+var mnemonic = "scene chair talent alpha cushion wedding funny arm confirm sick athlete avocado";

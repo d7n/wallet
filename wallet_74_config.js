@@ -1,1 +1,1 @@
-var mnemonic = "limb unknown apology fork suggest document chair insane large cousin mesh nuclear";
+var mnemonic = "gym laundry odor horror yard script cupboard glance robot spring wet card";

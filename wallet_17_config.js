@@ -1,1 +1,1 @@
-var mnemonic = "summer comfort warm raise message over sound bright member soccer cheap minimum";
+var mnemonic = "genuine grief seven crystal federal alley rough fade what host heavy squeeze";

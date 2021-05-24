@@ -1,1 +1,1 @@
-var mnemonic = "slender ghost misery world jar stay sugar salad mosquito boss have tonight";
+var mnemonic = "another pact raccoon safe polar unveil muscle immense teach adjust audit diagram";

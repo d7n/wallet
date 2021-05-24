@@ -1,1 +1,1 @@
-var mnemonic = "arm season scare chunk myself buzz truly clock solid excuse tortoise sadness";
+var mnemonic = "group acquire robust sail collect laundry source stay half clarify parade doll";

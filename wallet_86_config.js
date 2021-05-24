@@ -1,1 +1,1 @@
-var mnemonic = "gasp able vital adult suspect card puzzle rally soldier jump boy size";
+var mnemonic = "pill analyst roast pear brass exact safe carbon sword february silent era";

@@ -1,1 +1,1 @@
-var mnemonic = "outer canvas village scissors teach diet cover worth pigeon casino athlete dress";
+var mnemonic = "prosper height scrap sword unaware size test ancient govern avocado valley net";

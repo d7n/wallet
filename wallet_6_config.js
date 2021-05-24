@@ -1,1 +1,1 @@
-var mnemonic = "remember banner nuclear cost island dice whip pumpkin antique buyer acquire hospital";
+var mnemonic = "gloom bind solid swift cloth bamboo banner question shoe display oyster elder";

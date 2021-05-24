@@ -1,1 +1,1 @@
-var mnemonic = "clay hollow master version green rice bunker dust twice indoor relief meat";
+var mnemonic = "now carry harbor pill bone confirm noise ordinary nerve work bonus today";

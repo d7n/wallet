@@ -1,1 +1,1 @@
-var mnemonic = "age trip moment rally field skill pyramid assume wisdom seat fury roast";
+var mnemonic = "coral census fee avocado stool illegal enlist merry clog oil salad keep";

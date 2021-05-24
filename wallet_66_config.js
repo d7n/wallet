@@ -1,1 +1,1 @@
-var mnemonic = "stereo rocket empower top blind quote exercise gift human salute combine mechanic";
+var mnemonic = "citizen athlete ladder poem fiction forward vivid february hire slide south surround";

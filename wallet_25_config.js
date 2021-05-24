@@ -1,1 +1,1 @@
-var mnemonic = "giggle raw notice morning today soft ignore hire laugh powder slide scan";
+var mnemonic = "pioneer cube leopard weasel lend script cloud athlete shrimp human outer spell";

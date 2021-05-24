@@ -1,1 +1,1 @@
-var mnemonic = "borrow ankle write level one stay cute tuna evoke switch original throw";
+var mnemonic = "inside away library proof fresh action comfort robot lumber bread exotic approve";

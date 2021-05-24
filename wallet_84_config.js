@@ -1,1 +1,1 @@
-var mnemonic = "prison volcano subject good bomb north announce casino moon album vital fee";
+var mnemonic = "sound skin tomato squirrel gorilla check remain frequent dolphin hair mirror olive";

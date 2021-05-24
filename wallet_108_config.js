@@ -1,1 +1,1 @@
-var mnemonic = "domain edit squeeze nut crucial smoke place talent review board submit bomb";
+var mnemonic = "dizzy curious blame market lemon aunt minor label bird crash aware foot";

@@ -1,1 +1,1 @@
-var mnemonic = "bench wrong diesel emotion suspect source panda exchange drip nurse adapt clump";
+var mnemonic = "north embark piano circle business burst march circle sibling purse insect odor";

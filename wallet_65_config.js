@@ -1,1 +1,1 @@
-var mnemonic = "indicate fitness brief huge eager size room erupt ten duty find pledge";
+var mnemonic = "degree build wait document evidence mouse keen debris game endless flavor olive";

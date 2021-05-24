@@ -1,1 +1,1 @@
-var mnemonic = "grief spider super valley pluck august measure response mercy fuel nothing health";
+var mnemonic = "draft amused tide depart pioneer empty add coconut cancel waste you leisure";

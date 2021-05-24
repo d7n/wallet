@@ -1,1 +1,1 @@
-var mnemonic = "powder birth erupt shield broccoli remove provide warfare exhibit view chalk segment";
+var mnemonic = "various tooth layer safe trim city dance column consider street brother arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite leader phone title slogan forum cradle kick execute mirror crater collect";
+var mnemonic = "creek country veteran dinner warrior can wire dress describe valley broom isolate";

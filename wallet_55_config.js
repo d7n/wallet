@@ -1,1 +1,1 @@
-var mnemonic = "mass bonus liar soldier riot reward receive crunch jewel dream bright chef";
+var mnemonic = "tenant fringe course mammal spy fault swift woman panic sign album ozone";

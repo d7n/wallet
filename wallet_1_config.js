@@ -1,1 +1,1 @@
-var mnemonic = "canvas mixture huge want supreme yard mention tower bag custom transfer differ";
+var mnemonic = "tomorrow lens echo away turkey offer soccer utility help exile figure excuse";

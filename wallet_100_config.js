@@ -1,1 +1,1 @@
-var mnemonic = "error relief chest extra cherry call myth rebuild badge car muffin tomorrow";
+var mnemonic = "insect captain shoulder mother menu busy circle ripple magnet exclude visit reason";

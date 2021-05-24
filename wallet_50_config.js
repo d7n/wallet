@@ -1,1 +1,1 @@
-var mnemonic = "angry endorse betray tribe hotel neutral alpha version object apple scrap bus";
+var mnemonic = "praise safe sell palace father room lazy item park sweet wool sorry";

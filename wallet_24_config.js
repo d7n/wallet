@@ -1,1 +1,1 @@
-var mnemonic = "trophy will brass exercise tube slight taxi cable above lyrics sorry border";
+var mnemonic = "copy donkey father expand mammal park present kidney reopen iron blood suffer";

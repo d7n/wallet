@@ -1,1 +1,1 @@
-var mnemonic = "weasel leg snow cube young rookie sick family brief sadness hurdle hammer";
+var mnemonic = "duck market weird category another mansion wet double neck excess coffee lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "display region business winner borrow evoke dove wrong sunset sugar token crime";
+var mnemonic = "aisle surprise local beach boss render focus immune exhaust arctic describe divide";

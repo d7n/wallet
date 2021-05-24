@@ -1,1 +1,1 @@
-var mnemonic = "hazard volume silk smile mutual tomato found prevent wheel march gather session";
+var mnemonic = "message supreme artefact spy position author appear brother fiscal control legal cupboard";

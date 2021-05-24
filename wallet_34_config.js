@@ -1,1 +1,1 @@
-var mnemonic = "notice situate noise history trap onion health year hospital myth doll riot";
+var mnemonic = "consider display discover pulse assume way topple swallow chuckle horror milk fetch";

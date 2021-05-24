@@ -1,1 +1,1 @@
-var mnemonic = "fatal fade shell vital milk fetch mixed fish earn gloom cupboard jeans";
+var mnemonic = "dinner grain mind garden size announce fossil electric industry morning strike rate";

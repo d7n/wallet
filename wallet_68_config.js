@@ -1,1 +1,1 @@
-var mnemonic = "blur oak drum bargain sign time plastic suit often appear author raccoon";
+var mnemonic = "heavy panther yellow bicycle effort that hunt huge copper laundry snap traffic";

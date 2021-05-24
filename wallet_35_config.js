@@ -1,1 +1,1 @@
-var mnemonic = "bind autumn input scale friend make ocean old patch bamboo patch catch";
+var mnemonic = "monitor always source transfer turtle plunge cabbage table impose second entry problem";

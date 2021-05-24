@@ -1,1 +1,1 @@
-var mnemonic = "transfer lumber brand bullet siege boost space random glory tobacco world dry";
+var mnemonic = "hole grain sheriff put horn celery arena advance beef clump tissue lazy";

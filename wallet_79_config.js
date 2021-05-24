@@ -1,1 +1,1 @@
-var mnemonic = "mule recipe dune shed since indicate genuine flee yard outer typical middle";
+var mnemonic = "foster reflect slam pole accuse mountain stuff phone time sample frequent please";

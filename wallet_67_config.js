@@ -1,1 +1,1 @@
-var mnemonic = "elephant season draw among wire angry blossom naive pride drill mushroom spring";
+var mnemonic = "gaze bag bulb minor ginger flip empty city mutual hope follow pudding";

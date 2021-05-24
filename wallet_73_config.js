@@ -1,1 +1,1 @@
-var mnemonic = "vacuum one depend deal hollow unhappy meadow usual turn rural mimic mammal";
+var mnemonic = "proof inflict health dream gospel expand short garden hamster guilt prosper report";

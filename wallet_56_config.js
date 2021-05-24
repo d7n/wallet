@@ -1,1 +1,1 @@
-var mnemonic = "paper episode gloom blouse oven arena hunt melt ship message exclude situate";
+var mnemonic = "powder today load jump essence guide ugly identify amateur coffee brick rubber";

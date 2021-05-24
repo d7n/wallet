@@ -1,1 +1,1 @@
-var mnemonic = "swap craft emerge vanish ski lizard tooth carpet service pluck mention allow";
+var mnemonic = "rent chat glide super issue wine small help ticket tide trouble exist";

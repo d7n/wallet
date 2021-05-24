@@ -1,1 +1,1 @@
-var mnemonic = "biology flash twin accident struggle circle permit wash defense inquiry fall rescue";
+var mnemonic = "ordinary use flock oval token spare relief deliver spot shed job sausage";

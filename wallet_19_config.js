@@ -1,1 +1,1 @@
-var mnemonic = "soccer situate situate monster curtain patrol sorry hen indoor traffic point crowd";
+var mnemonic = "dragon similar foot staff legal sunny render pull audit search copper protect";

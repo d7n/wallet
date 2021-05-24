@@ -1,1 +1,1 @@
-var mnemonic = "crash list spray isolate wheel swift bunker nuclear ball oven crumble kit";
+var mnemonic = "glory recall boil mountain tag fancy region script clump risk equal plunge";

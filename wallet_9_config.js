@@ -1,1 +1,1 @@
-var mnemonic = "horse ensure crew resource dirt giant fruit barely puppy pony number tilt";
+var mnemonic = "office coffee zone crowd remain radar museum swallow trial tail loop dream";

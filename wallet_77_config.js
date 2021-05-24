@@ -1,1 +1,1 @@
-var mnemonic = "history elephant pepper salad slide badge wink power power mushroom punch cause";
+var mnemonic = "record that exotic vehicle hungry negative quiz sadness wagon unfair strategy gaze";

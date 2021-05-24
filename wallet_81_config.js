@@ -1,1 +1,1 @@
-var mnemonic = "fold rose credit proud inject power moment shrug rebel curtain supreme lottery";
+var mnemonic = "grief uphold cost kick pattern move solve shy west exclude stove canyon";

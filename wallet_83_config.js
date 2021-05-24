@@ -1,1 +1,1 @@
-var mnemonic = "brush salute cheap rookie hood stove elevator uncle crop smooth laugh submit";
+var mnemonic = "pink hidden economy either quit normal salute warfare brave account arena sponsor";

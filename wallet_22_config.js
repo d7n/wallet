@@ -1,1 +1,1 @@
-var mnemonic = "intact ethics shrug salute defense fat toilet cluster clay tape hold where";
+var mnemonic = "fragile half toward knife space shell client garbage nominee message radio aspect";

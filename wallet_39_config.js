@@ -1,1 +1,1 @@
-var mnemonic = "carpet patch cup lunar moon village junk wave adapt segment wedding oven";
+var mnemonic = "debris must basic crack shoot polar noodle essay love jewel relax volume";

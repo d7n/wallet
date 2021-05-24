@@ -1,1 +1,1 @@
-var mnemonic = "myth smooth museum item slight maple frozen pyramid eagle actress used denial";
+var mnemonic = "strategy okay outer rotate walk skirt element butter sing gossip resist voice";

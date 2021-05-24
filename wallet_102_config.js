@@ -1,1 +1,1 @@
-var mnemonic = "sausage zoo jeans capital gain inherit shock photo wrestle odor item old";
+var mnemonic = "energy when reunion blush proud crater bike miss outdoor cruel amazing risk";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery chest govern leave pretty horror organ saddle blossom grunt near pilot";
+var mnemonic = "oval access phone recall ugly six trend happy cupboard tube share exile";

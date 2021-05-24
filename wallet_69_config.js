@@ -1,1 +1,1 @@
-var mnemonic = "bubble estate frog thumb system alarm weasel chef robust throw travel gravity";
+var mnemonic = "olive right expand cable loan rug attend treat conduct raccoon expire run";

@@ -1,1 +1,1 @@
-var mnemonic = "copper glove raise sunset inmate science once gas spy gather next easy";
+var mnemonic = "city exchange chicken sunset ahead claim denial gentle rabbit room fluid raise";

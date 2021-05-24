@@ -1,1 +1,1 @@
-var mnemonic = "define pony smoke adult join skin start seminar wool three arrow duck";
+var mnemonic = "abstract orchard column thank bounce tool cheap uncle lucky glass message crater";

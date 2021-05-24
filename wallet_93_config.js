@@ -1,1 +1,1 @@
-var mnemonic = "cargo any feature diet code valid clay heart anchor saddle often auto";
+var mnemonic = "proof void shop strike emotion smoke whip borrow pupil child prosper voice";

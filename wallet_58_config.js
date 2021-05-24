@@ -1,1 +1,1 @@
-var mnemonic = "loop arrow hood choice buzz destroy join exact angry labor ridge cream";
+var mnemonic = "ski inject warm ancient card awful tuition exhaust police high very assault";

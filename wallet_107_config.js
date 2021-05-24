@@ -1,1 +1,1 @@
-var mnemonic = "zero excite tuition half intact matrix heavy sniff supply describe camp impact";
+var mnemonic = "immense kitten card crew ski laugh cook solid bleak upon system chunk";

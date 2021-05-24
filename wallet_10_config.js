@@ -1,1 +1,1 @@
-var mnemonic = "enroll better guide spray advance endless tank scrub element dial faculty merge";
+var mnemonic = "tomorrow kiwi athlete wise own leave end come expect sing tattoo quiz";

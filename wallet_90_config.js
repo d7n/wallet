@@ -1,1 +1,1 @@
-var mnemonic = "fringe lend dad net bar crack panel hint shoot wine quick remain";
+var mnemonic = "work bind salt room mercy helmet trap fall brief drift alley clown";

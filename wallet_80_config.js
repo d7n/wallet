@@ -1,1 +1,1 @@
-var mnemonic = "gun tell pear section fiscal random travel doctor vital ignore guitar slab";
+var mnemonic = "approve cliff supreme shed sorry husband decade normal hockey square image captain";

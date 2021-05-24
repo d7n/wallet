@@ -1,1 +1,1 @@
-var mnemonic = "film soup alley enough fit door record entry veteran please answer opera";
+var mnemonic = "catch announce melody wasp pulp imitate donor kit winner kid shield erase";

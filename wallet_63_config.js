@@ -1,1 +1,1 @@
-var mnemonic = "account whip blush tumble unusual aisle type finish country simple scene spatial";
+var mnemonic = "pupil pilot idea twelve arrest slam hill vintage combine vacuum forum feed";

@@ -1,1 +1,1 @@
-var mnemonic = "motor yard marriage gentle charge toast comfort donkey leader air deposit left";
+var mnemonic = "flavor ice name term wild walnut usage current agent cinnamon stumble depart";

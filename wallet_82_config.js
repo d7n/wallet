@@ -1,1 +1,1 @@
-var mnemonic = "company income capital style manual high violin gas job color magnet grab";
+var mnemonic = "critic task guard pizza just corn immense month sort license among knife";

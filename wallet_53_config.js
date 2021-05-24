@@ -1,1 +1,1 @@
-var mnemonic = "skill include legend fantasy space tunnel mimic mountain oxygen earth exchange beyond";
+var mnemonic = "essence liberty kidney all system lawsuit combine layer beyond amused dawn brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse between member spoil cupboard reveal arrow scout steel such tip front";
+var mnemonic = "damage admit corn escape monster butter wonder elbow trip rifle bread gorilla";

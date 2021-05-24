@@ -1,1 +1,1 @@
-var mnemonic = "rib address enter talk cross seminar describe tent blur valid tissue moral";
+var mnemonic = "unaware assist heavy absorb dignity exclude blind actual drift suspect survey fun";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy mirror grace blade admit stadium recycle two leg nephew fee spy";
+var mnemonic = "lava luggage quiz area ghost desert jungle follow scare short smoke that";

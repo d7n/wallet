@@ -1,1 +1,1 @@
-var mnemonic = "series elbow either museum speak omit lobster example dance melody arm reveal";
+var mnemonic = "beyond nice blanket result connect thrive gospel leopard have analyst first grocery";

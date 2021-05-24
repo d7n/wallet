@@ -1,1 +1,1 @@
-var mnemonic = "laugh hover smile tape degree moon broom balance bag drip torch snap";
+var mnemonic = "mind proud weasel butter polar music exhibit tree taxi base camera humor";

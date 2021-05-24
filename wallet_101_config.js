@@ -1,1 +1,1 @@
-var mnemonic = "father aisle torch canyon meadow orbit square filter rare away chase topic";
+var mnemonic = "rug proud moon wheel huge strategy start install deer young entire brave";

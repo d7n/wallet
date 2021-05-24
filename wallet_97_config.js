@@ -1,1 +1,1 @@
-var mnemonic = "fat where leader hundred develop weather void nasty jar tired sort secret";
+var mnemonic = "repair avocado tissue verb access blind cigar oak blast window glance remember";

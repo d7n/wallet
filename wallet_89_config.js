@@ -1,1 +1,1 @@
-var mnemonic = "vocal ask rate giraffe sock assault bounce cloth there fetch enter bind";
+var mnemonic = "apart random catch whale kingdom pretty disagree join sea sand misery relief";

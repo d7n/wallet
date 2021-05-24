@@ -1,1 +1,1 @@
-var mnemonic = "apology dry cycle act beach oil other damage climb note stairs pass";
+var mnemonic = "smile piano man shuffle sleep diesel veteran radio awesome woman title speak";

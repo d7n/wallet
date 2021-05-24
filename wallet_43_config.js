@@ -1,1 +1,1 @@
-var mnemonic = "emotion report unable wrist primary jacket steak sibling trend run version judge";
+var mnemonic = "social twist fish estate scrap fade poet drive august knife century must";

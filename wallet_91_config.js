@@ -1,1 +1,1 @@
-var mnemonic = "kiwi unfair pyramid vessel symptom panic disagree arrange pulse fold please flash";
+var mnemonic = "build edge ask predict report three sniff rifle next museum shrimp ahead";

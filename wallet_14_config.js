@@ -1,1 +1,1 @@
-var mnemonic = "despair ginger reveal spice list lawn head gift fuel draft bean month";
+var mnemonic = "festival slight fire cave peanut often camera demand hundred sister basket coffee";

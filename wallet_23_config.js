@@ -1,1 +1,1 @@
-var mnemonic = "narrow rice label globe chase roof air body vibrant bring question picnic";
+var mnemonic = "summer room brave copper green little weekend witness sting possible turkey end";

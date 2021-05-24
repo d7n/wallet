@@ -1,1 +1,1 @@
-var mnemonic = "unusual cable beyond picture enlist rain random high ridge float duck swarm";
+var mnemonic = "hunt hundred eyebrow shoot pioneer cost milk post seed aerobic quick state";

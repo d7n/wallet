@@ -1,1 +1,1 @@
-var mnemonic = "deal reflect swarm fatal onion image nasty army gadget relief hope area";
+var mnemonic = "gaze artefact load comfort spirit usage oval head model liquid laptop thank";

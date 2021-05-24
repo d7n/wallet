@@ -1,1 +1,1 @@
-var mnemonic = "exist permit inhale flat soul unknown fog run harbor zoo fragile lion";
+var mnemonic = "insane initial life when wink top rival world swamp brand auction polar";
