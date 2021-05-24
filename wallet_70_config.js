@@ -1,1 +1,1 @@
-var mnemonic = "judge catalog boil now usual erosion fantasy middle furnace subject float observe";
+var mnemonic = "parrot visit pond payment blame twist state vapor outside text twelve satisfy";

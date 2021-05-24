@@ -1,1 +1,1 @@
-var mnemonic = "horn prison short review foil exact tackle like road shrug refuse guitar";
+var mnemonic = "nature sister below glad picture region flame pave inject laptop solution effort";

@@ -1,1 +1,1 @@
-var mnemonic = "drift around rich pink boost pitch tape unlock broom energy art city";
+var mnemonic = "paddle supreme wreck truck analyst depend fork observe time stay sniff country";

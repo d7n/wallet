@@ -1,1 +1,1 @@
-var mnemonic = "melody once health raccoon happy adjust solve asset pig ripple buzz summer";
+var mnemonic = "industry correct flat adjust desk pizza rhythm spatial category token sense across";

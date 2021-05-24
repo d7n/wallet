@@ -1,1 +1,1 @@
-var mnemonic = "romance arrive puppy surge despair knife test pink loop modify lady foot";
+var mnemonic = "screen labor shrimp answer ski truly exclude flight during imitate green expect";

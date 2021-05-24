@@ -1,1 +1,1 @@
-var mnemonic = "spatial spoon sponsor rare sniff profit layer supreme genuine gospel fetch sting";
+var mnemonic = "fish nothing brain noodle sleep amateur swing cargo crane music crop replace";

@@ -1,1 +1,1 @@
-var mnemonic = "know fever tool fabric engine travel shuffle pipe easily together fortune carbon";
+var mnemonic = "scan siege hold pass enact auction soul guess venture affair risk turtle";

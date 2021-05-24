@@ -1,1 +1,1 @@
-var mnemonic = "motor enrich just dress dune alley enrich ill liar credit youth inner";
+var mnemonic = "donkey cute volume cricket ill edge reflect talk question onion cabin tower";

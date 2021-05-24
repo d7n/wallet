@@ -1,1 +1,1 @@
-var mnemonic = "consider later width version cement uncle target vote soldier rose history sustain";
+var mnemonic = "orange radio vital shove sign spirit pair nerve tape cheese soda dolphin";

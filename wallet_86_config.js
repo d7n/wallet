@@ -1,1 +1,1 @@
-var mnemonic = "bench mushroom grow file keep vivid return hybrid where merge cliff swift";
+var mnemonic = "drop raven observe update police material present scissors broccoli fall add traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal network cancel tribe advice sauce rally stamp subject neglect gesture burden";
+var mnemonic = "burden install rely lava envelope say scorpion lava culture item clown girl";

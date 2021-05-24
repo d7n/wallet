@@ -1,1 +1,1 @@
-var mnemonic = "daring hunt cook mixture manage nephew cloth endorse isolate now inner wood";
+var mnemonic = "nature black pretty bus alarm apple bag search pyramid duck script result";

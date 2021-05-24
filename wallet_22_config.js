@@ -1,1 +1,1 @@
-var mnemonic = "hair grit shadow jazz vessel near intact speak glory artefact season nurse";
+var mnemonic = "chase erode total local draw meat tobacco like slush resist airport kingdom";

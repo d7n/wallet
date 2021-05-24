@@ -1,1 +1,1 @@
-var mnemonic = "cry grunt protect rice announce purpose gas truth exhibit fox various slot";
+var mnemonic = "skate bird wish consider develop cannon little detail tribe cause group wheat";

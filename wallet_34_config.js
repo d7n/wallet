@@ -1,1 +1,1 @@
-var mnemonic = "extra mixture dentist hope chief squirrel rival cycle box peanut bread leave";
+var mnemonic = "avocado drift modify amount pause model resource fluid column middle diet vast";

@@ -1,1 +1,1 @@
-var mnemonic = "receive pen analyst veteran wrestle cup school panel stable beach tuna hungry";
+var mnemonic = "wrestle clever curtain solution spot element close test raise bicycle weasel rack";

@@ -1,1 +1,1 @@
-var mnemonic = "dose bulb review retire wrist soda bike trim false patrol ability rebuild";
+var mnemonic = "marble donor erosion speak wage floor glide nasty reason like craft blush";

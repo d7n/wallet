@@ -1,1 +1,1 @@
-var mnemonic = "elevator night segment bamboo version endorse frost shuffle clip piano receive paddle";
+var mnemonic = "vivid middle reopen behind punch shy pudding invest liar series skill pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "economy lesson slight mechanic rather banana say eagle arch maze scatter plate";
+var mnemonic = "improve sense auto right dirt rubber vault pet hair naive panic school";

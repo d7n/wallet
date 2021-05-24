@@ -1,1 +1,1 @@
-var mnemonic = "canyon banana blame swear another limit abstract turtle acoustic ketchup cricket athlete";
+var mnemonic = "noise master endorse arrow industry discover miss festival february color exist hurry";

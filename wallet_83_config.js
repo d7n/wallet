@@ -1,1 +1,1 @@
-var mnemonic = "silver timber enter wedding remind genre negative surface pottery loop other name";
+var mnemonic = "craft boil potato deer candy collect stool essence obtain wrist stove clean";

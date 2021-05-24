@@ -1,1 +1,1 @@
-var mnemonic = "canyon sniff sure float six prize blue vibrant habit heart media enact";
+var mnemonic = "satoshi scrub harvest glance bracket dance seed awful donkey pink wild define";

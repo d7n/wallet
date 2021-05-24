@@ -1,1 +1,1 @@
-var mnemonic = "exit crystal run million fly quit absurd illegal town ahead brisk car";
+var mnemonic = "slice december cram yard name true acid coach unlock memory interest nut";

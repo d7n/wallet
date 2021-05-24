@@ -1,1 +1,1 @@
-var mnemonic = "employ wheat token two spin fix okay balcony damage hawk traffic absent";
+var mnemonic = "hour sheriff wave worry flock aunt brief skate glow pause daring impact";

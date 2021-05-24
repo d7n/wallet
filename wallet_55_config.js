@@ -1,1 +1,1 @@
-var mnemonic = "immense hole danger hurry also effort type deer upon dash list illness";
+var mnemonic = "magnet plunge athlete payment volcano tunnel fan cigar doll cement laundry tonight";

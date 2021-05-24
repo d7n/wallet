@@ -1,1 +1,1 @@
-var mnemonic = "action era charge render swallow blue fiber snake spawn chest alien bubble";
+var mnemonic = "cheese figure subway define design dumb stadium adjust hobby donate gadget jelly";

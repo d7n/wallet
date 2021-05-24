@@ -1,1 +1,1 @@
-var mnemonic = "buzz orphan trim leisure under review legal hint oven ritual exist exercise";
+var mnemonic = "army depend empower olympic anchor captain sign hammer beef dirt crawl route";

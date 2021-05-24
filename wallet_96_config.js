@@ -1,1 +1,1 @@
-var mnemonic = "wise raise loud wood coral picture curtain goose echo image fence seek";
+var mnemonic = "into alarm snap other balance heart celery elephant portion always egg horror";

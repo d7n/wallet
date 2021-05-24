@@ -1,1 +1,1 @@
-var mnemonic = "wish column decorate valley shop rich wrap flash sweet fat cigar east";
+var mnemonic = "issue spawn distance feed sponsor choose prefer solve stairs topple vast holiday";

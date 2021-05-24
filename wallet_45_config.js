@@ -1,1 +1,1 @@
-var mnemonic = "prison endless original ring keen invite voyage runway nuclear amused anger want";
+var mnemonic = "gravity leopard swap favorite weather relief negative heart dismiss sudden exercise olive";

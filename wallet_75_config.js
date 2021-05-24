@@ -1,1 +1,1 @@
-var mnemonic = "thumb oil symbol pink alone clerk original twin despair brass room climb";
+var mnemonic = "garden issue march maid case season angry palm address year key involve";

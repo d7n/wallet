@@ -1,1 +1,1 @@
-var mnemonic = "cereal umbrella gun now sort cement case thought rate social place name";
+var mnemonic = "police style deposit kiss brush orchard cargo clock provide awkward shoulder monitor";

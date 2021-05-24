@@ -1,1 +1,1 @@
-var mnemonic = "small alter dignity iron six guide dance tornado food icon hurt genre";
+var mnemonic = "twelve slice punch embrace insect bundle office awesome slice bachelor parade tide";

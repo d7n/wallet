@@ -1,1 +1,1 @@
-var mnemonic = "inside kingdom spirit follow rice wrap excess discover garden violin caution install";
+var mnemonic = "silly loop wine warrior lizard hedgehog want execute trend crack defy brave";

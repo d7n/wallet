@@ -1,1 +1,1 @@
-var mnemonic = "claim fix flame twist adult chat assault output trick almost vital despair";
+var mnemonic = "planet humor urban body captain canoe release drama consider inquiry day bamboo";

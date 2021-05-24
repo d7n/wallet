@@ -1,1 +1,1 @@
-var mnemonic = "situate regular glow siren already stool swing mouse post memory embody poet";
+var mnemonic = "scatter glass horn clown great funny magic tumble toward neither later sun";

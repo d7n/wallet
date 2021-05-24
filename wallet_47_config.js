@@ -1,1 +1,1 @@
-var mnemonic = "drip coach scout ring pledge board romance donkey impose rival shoe walk";
+var mnemonic = "runway actor online boy quit sight bonus royal nation cliff sudden high";

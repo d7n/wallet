@@ -1,1 +1,1 @@
-var mnemonic = "love flame funny violin little romance season snow thought work night almost";
+var mnemonic = "friend cruise chuckle net paper raccoon limit panther critic agent outer sibling";

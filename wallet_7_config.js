@@ -1,1 +1,1 @@
-var mnemonic = "right smart space flock they tip copy problem path sustain intact gas";
+var mnemonic = "label expect ball fever trip quiz fan honey giraffe acoustic clump charge";

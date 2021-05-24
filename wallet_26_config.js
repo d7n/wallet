@@ -1,1 +1,1 @@
-var mnemonic = "typical garment organ shrimp chat neither combine pride athlete dentist soon trouble";
+var mnemonic = "family auto young enact typical waste nurse cloud crisp scrub length arrest";

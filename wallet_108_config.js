@@ -1,1 +1,1 @@
-var mnemonic = "victory equip ensure coin casino obtain drop candy vague milk dinosaur gravity";
+var mnemonic = "term slogan rapid cave define borrow nominee behave duty science violin naive";

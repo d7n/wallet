@@ -1,1 +1,1 @@
-var mnemonic = "frown rapid inmate foster cabin comfort mom peanut audit because afraid equip";
+var mnemonic = "route pact grace champion crunch rose embrace comfort book decorate memory echo";

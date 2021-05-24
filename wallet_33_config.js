@@ -1,1 +1,1 @@
-var mnemonic = "pipe quote artwork disease around bring tiger nature ancient egg hub three";
+var mnemonic = "give start general rhythm cook grunt giant rally cry sad stereo summer";

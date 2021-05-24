@@ -1,1 +1,1 @@
-var mnemonic = "train creek yellow steak bridge exhibit saddle chicken diet web false owner";
+var mnemonic = "betray metal extend prefer add little leave debate secret custom evidence purity";

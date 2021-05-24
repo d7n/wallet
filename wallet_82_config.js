@@ -1,1 +1,1 @@
-var mnemonic = "glance captain debris include disorder sphere square loyal honey runway swallow crazy";
+var mnemonic = "subject erode lounge quit alcohol worry come bag base relief donate echo";

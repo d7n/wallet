@@ -1,1 +1,1 @@
-var mnemonic = "junior catch must unfair pass radio carpet citizen viable tip glove sister";
+var mnemonic = "meadow curtain remain pluck gloom borrow dwarf omit brown story kick snack";

@@ -1,1 +1,1 @@
-var mnemonic = "setup trade ritual mean price effort electric will deposit awake forest book";
+var mnemonic = "candy range drip able aware waste sauce index catch wet heavy tourist";

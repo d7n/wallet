@@ -1,1 +1,1 @@
-var mnemonic = "legend slow female author foster penalty alarm relax attack toilet romance girl";
+var mnemonic = "airport laundry broccoli sure beef slot pizza maple pair struggle rack powder";

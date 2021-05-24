@@ -1,1 +1,1 @@
-var mnemonic = "piece estate join piece explain wasp clerk feed bread turtle diet brother";
+var mnemonic = "dance arm cinnamon zone stadium coin giggle catch local point range wisdom";

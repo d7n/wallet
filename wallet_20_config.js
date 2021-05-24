@@ -1,1 +1,1 @@
-var mnemonic = "tribe cute exact that elephant grain weather smooth secret caught victory fish";
+var mnemonic = "avocado allow unable lava core matrix echo vast anxiety senior kid athlete";

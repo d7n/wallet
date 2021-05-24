@@ -1,1 +1,1 @@
-var mnemonic = "mother arena category menu caught tennis choose avocado able soft fiction someone";
+var mnemonic = "water fatigue seven blood huge hard attend saddle amount smart kitten tray";

@@ -1,1 +1,1 @@
-var mnemonic = "water tide physical main heavy prison tip fault february situate voice security";
+var mnemonic = "letter october palace chief ginger liquid cycle sight theme hole anxiety luxury";

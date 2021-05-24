@@ -1,1 +1,1 @@
-var mnemonic = "prevent zoo warm dragon inner visa man unhappy this mother chest reveal";
+var mnemonic = "soccer advance prefer hip lecture head document leaf rule rich blast cross";

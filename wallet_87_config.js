@@ -1,1 +1,1 @@
-var mnemonic = "law iron feed pave else bargain issue maze document milk ball feel";
+var mnemonic = "quiz alarm banner lens cherry garage employ must rookie slice antenna long";

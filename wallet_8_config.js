@@ -1,1 +1,1 @@
-var mnemonic = "apology sing pelican inspire wrap city equal eight save peanut potato between";
+var mnemonic = "riot liquid page boss all enemy climb puppy weasel february arm protect";

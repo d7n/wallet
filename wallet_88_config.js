@@ -1,1 +1,1 @@
-var mnemonic = "panel early drift bind spawn vital divorce build beyond entire window year";
+var mnemonic = "style high height fiscal sketch fade very daughter aspect jeans gym make";

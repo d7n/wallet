@@ -1,1 +1,1 @@
-var mnemonic = "system icon develop common lab gesture tourist dirt dish eyebrow edge fine";
+var mnemonic = "simple liar mistake come trash thrive execute foster left guitar mass gravity";

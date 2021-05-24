@@ -1,1 +1,1 @@
-var mnemonic = "retire carpet oak orphan oil pink pet try memory baby rebuild fiscal";
+var mnemonic = "laptop security phrase rival news bid club matter olive motor spell pond";

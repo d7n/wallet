@@ -1,1 +1,1 @@
-var mnemonic = "liquid bottom harsh garden narrow educate diagram jaguar voyage short civil enforce";
+var mnemonic = "danger virtual second accident capable cattle roast wish silly letter response assume";

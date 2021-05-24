@@ -1,1 +1,1 @@
-var mnemonic = "book flag tomorrow consider assume axis decline dismiss fashion wide pelican quality";
+var mnemonic = "frog when slam helmet guess grab satisfy skirt stay hip behind gym";

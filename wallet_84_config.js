@@ -1,1 +1,1 @@
-var mnemonic = "craft embody orphan point theory throw secret track cage praise funny panda";
+var mnemonic = "empty nation perfect gift amateur basket spare borrow leaf method label glide";

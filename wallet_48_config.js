@@ -1,1 +1,1 @@
-var mnemonic = "hospital cherry climb bone athlete original salute afraid clean convince sad minute";
+var mnemonic = "defense crane fade ill again sure sniff slide thank wink mechanic salt";

@@ -1,1 +1,1 @@
-var mnemonic = "capable unlock fury music broccoli pair era earth castle love south intact";
+var mnemonic = "miss news lumber december blind hazard food flip payment alter ice sun";

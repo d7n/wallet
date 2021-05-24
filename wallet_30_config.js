@@ -1,1 +1,1 @@
-var mnemonic = "valid legend subject differ obey beauty pumpkin humor web salad fetch risk";
+var mnemonic = "south blue sibling heart ethics flavor shoe adapt affair table walnut cluster";

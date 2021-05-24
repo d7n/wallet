@@ -1,1 +1,1 @@
-var mnemonic = "present august ivory jaguar peasant engage choice top retreat betray tilt camp";
+var mnemonic = "mushroom clap federal alone clay exotic entry door taste wrap door science";

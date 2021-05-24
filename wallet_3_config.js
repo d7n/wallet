@@ -1,1 +1,1 @@
-var mnemonic = "wall clean subway nuclear vicious car judge mandate memory always actual snack";
+var mnemonic = "kiss group detail neither fatal struggle post lake very vast inflict resemble";

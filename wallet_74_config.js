@@ -1,1 +1,1 @@
-var mnemonic = "world spirit veteran mask seminar document bomb cruel news sadness brisk shuffle";
+var mnemonic = "such raven autumn drastic this toy define outdoor box fame daring unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "crack coconut baby verify barely pear wrap put leaf zoo flight announce";
+var mnemonic = "oak found spirit square excuse offer upper panda physical arena pledge found";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold rotate eyebrow apple slight boil tell dynamic style tip idea edit";
+var mnemonic = "west mind hawk syrup report alert private cup solve property sheriff shrimp";

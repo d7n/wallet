@@ -1,1 +1,1 @@
-var mnemonic = "inject below giant spy short skirt battle uncle range kit jungle dream";
+var mnemonic = "resource vacant blade attack hen notice print inspire announce struggle custom valve";

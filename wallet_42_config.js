@@ -1,1 +1,1 @@
-var mnemonic = "moment skill guilt mixture travel puppy limb online top unveil heavy timber";
+var mnemonic = "cable diet erosion wave zero advance guard black injury rescue cactus timber";

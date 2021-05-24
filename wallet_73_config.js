@@ -1,1 +1,1 @@
-var mnemonic = "language edit trust quarter guide melt holiday lesson version change economy forget";
+var mnemonic = "tower zebra measure bean camera street travel clown search leisure false month";

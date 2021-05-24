@@ -1,1 +1,1 @@
-var mnemonic = "patrol start target visa visit twenty bread chimney celery earth nurse curious";
+var mnemonic = "theory pigeon pony decline sense laptop fame purpose seminar crash slot segment";

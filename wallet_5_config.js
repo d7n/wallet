@@ -1,1 +1,1 @@
-var mnemonic = "bubble unit marine million prize senior entry soon neck lady rack ketchup";
+var mnemonic = "picnic few clown regret double canal actual silly own system close thought";

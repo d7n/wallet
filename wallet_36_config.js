@@ -1,1 +1,1 @@
-var mnemonic = "earth scorpion put misery cash slide charge measure document below reform door";
+var mnemonic = "balcony knock piece able lucky bus syrup logic close such coin parent";

@@ -1,1 +1,1 @@
-var mnemonic = "involve enhance sound sheriff acquire evoke family car solid mouse shell paper";
+var mnemonic = "scare swift diesel scare taste garden during sugar crew okay child illegal";

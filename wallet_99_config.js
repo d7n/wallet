@@ -1,1 +1,1 @@
-var mnemonic = "shove erase cereal globe velvet retire vote orbit eternal trial text outdoor";
+var mnemonic = "coral scheme abuse milk minute mule split amazing city segment two illness";

@@ -1,1 +1,1 @@
-var mnemonic = "move liar hammer bracket now shadow ill cool unveil dignity staff husband";
+var mnemonic = "timber length prison meadow surround absent bike dentist emerge ethics february spring";

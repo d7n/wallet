@@ -1,1 +1,1 @@
-var mnemonic = "output remind rally mouse riot time goose debris flag debate lucky horror";
+var mnemonic = "oak coffee laptop excuse salad glad window urge notable attend noodle better";

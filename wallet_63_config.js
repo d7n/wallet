@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog buddy brief cluster idle stamp tiny antique arrow pond verb unfair";
+var mnemonic = "velvet shift service copy dry ghost erupt cruise solar over melt reject";

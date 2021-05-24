@@ -1,1 +1,1 @@
-var mnemonic = "lonely arena insane inform program rely wrong image faint curve involve welcome";
+var mnemonic = "open rude nose bid leaf dune citizen unknown cliff deputy candy degree";

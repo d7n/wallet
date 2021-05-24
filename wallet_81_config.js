@@ -1,1 +1,1 @@
-var mnemonic = "used address universe radar roof ivory spike absent mountain kitten burst solution";
+var mnemonic = "brief asset scan east illegal hero parade conduct sorry tumble design wet";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe tag great car acquire citizen list avoid excuse effort install trend";
+var mnemonic = "join smoke crisp armor middle angle boy soft scout crash ball sniff";

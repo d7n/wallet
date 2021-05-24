@@ -1,1 +1,1 @@
-var mnemonic = "thumb job ranch network stand weather today enhance decrease gym away advice";
+var mnemonic = "render medal latin ankle peace broom enforce clutch write head program thunder";

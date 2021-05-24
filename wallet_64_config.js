@@ -1,1 +1,1 @@
-var mnemonic = "champion elite erupt project energy angle true scrub spend parent goat cushion";
+var mnemonic = "need weather side awful reward extra inch twenty response expand phrase that";

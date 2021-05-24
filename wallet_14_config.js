@@ -1,1 +1,1 @@
-var mnemonic = "decide sustain craft wheel grunt search mule chapter toddler fiscal bleak tuition";
+var mnemonic = "nut venue radio habit claw account train card sibling much blanket derive";

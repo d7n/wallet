@@ -1,1 +1,1 @@
-var mnemonic = "twice margin favorite cushion cricket kick execute helmet minor away female hover";
+var mnemonic = "list oak rocket mixed tongue remember pair humble fork parent bring elevator";

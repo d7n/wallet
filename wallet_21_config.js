@@ -1,1 +1,1 @@
-var mnemonic = "actress nut mango casino measure develop bar sudden inner thunder gap only";
+var mnemonic = "humor sibling adjust fatigue aspect hospital adjust auto eyebrow large trouble planet";

@@ -1,1 +1,1 @@
-var mnemonic = "include hub version bench position creek move canoe lazy green nephew impose";
+var mnemonic = "insane common piano please genius retreat have air canvas range magic super";
