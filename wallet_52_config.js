@@ -1,1 +1,1 @@
-var mnemonic = "access fancy example pulse refuse essence fabric wheat six manage clutch prefer";
+var mnemonic = "excite kite raccoon deliver mention virus panel income circle bridge pipe hybrid";

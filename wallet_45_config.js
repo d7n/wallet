@@ -1,1 +1,1 @@
-var mnemonic = "civil borrow net safe rally banana grab lesson enhance heavy yellow practice";
+var mnemonic = "subway maple essence bracket code brick define spider depend old pony will";

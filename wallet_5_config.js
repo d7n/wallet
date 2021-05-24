@@ -1,1 +1,1 @@
-var mnemonic = "zebra skate staff concert fiction labor churn mistake solar boy lyrics guard";
+var mnemonic = "cat recipe balance trend initial grid early nut ordinary divide abandon hawk";

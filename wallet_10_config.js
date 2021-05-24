@@ -1,1 +1,1 @@
-var mnemonic = "general october scare rescue gospel idle gallery when access awkward fade reveal";
+var mnemonic = "member story genius box anxiety ecology ozone olive buffalo notice rather like";

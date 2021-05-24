@@ -1,1 +1,1 @@
-var mnemonic = "congress rifle suit jacket assault machine deliver sausage rather arm cloud symptom";
+var mnemonic = "trim replace same bind rubber hub sick mistake float icon lake town";

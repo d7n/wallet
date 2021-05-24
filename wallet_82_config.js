@@ -1,1 +1,1 @@
-var mnemonic = "river vehicle blur stick ritual upset hover slab undo negative quick process";
+var mnemonic = "critic echo shadow decline park ticket come fall aspect excess film fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform screen cruise nation hint alert intact cook safe able glad adapt";
+var mnemonic = "crouch cotton vocal crack surge bus upset reveal approve nest biology twice";

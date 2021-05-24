@@ -1,1 +1,1 @@
-var mnemonic = "canoe choose blood old right bridge excite miss usage item tank immense";
+var mnemonic = "royal sock deliver pattern already rude great weasel moral taste leopard duck";

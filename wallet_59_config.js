@@ -1,1 +1,1 @@
-var mnemonic = "flag rose engine hello supreme other modify chicken unaware angry omit attitude";
+var mnemonic = "identify spoon dynamic guide town whisper walnut swing blossom firm art sudden";

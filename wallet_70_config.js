@@ -1,1 +1,1 @@
-var mnemonic = "surprise hire alien now egg notice addict gate item food detect canyon";
+var mnemonic = "member potato logic energy noodle share craft furnace exercise romance core voyage";

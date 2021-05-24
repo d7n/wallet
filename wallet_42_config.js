@@ -1,1 +1,1 @@
-var mnemonic = "lake trip spin smart nasty volume turkey kind swamp cram empower lady";
+var mnemonic = "where extend until nerve goose twice cabin force prize essence accident song";

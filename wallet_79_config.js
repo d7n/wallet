@@ -1,1 +1,1 @@
-var mnemonic = "pact forest pitch tumble stamp board clay moon canyon noodle eye antique";
+var mnemonic = "filter toss anxiety outer soft bike honey stable thing appear legal fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed carbon guess large wall social short unfold area lesson goat peanut";
+var mnemonic = "heavy cotton front aisle rapid honey sport dwarf coast anxiety scorpion weather";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge submit clown erode wheel notable dawn solution flip slide release okay";
+var mnemonic = "struggle invest crouch child fiber cliff program iron life menu luggage worth";

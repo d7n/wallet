@@ -1,1 +1,1 @@
-var mnemonic = "figure domain canoe round venture tongue figure cat say orphan raise bundle";
+var mnemonic = "drama neck follow yellow flee gold story object misery toy subway ring";

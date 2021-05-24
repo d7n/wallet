@@ -1,1 +1,1 @@
-var mnemonic = "pistol myth speed strategy episode badge success kangaroo level merry error real";
+var mnemonic = "song wolf supreme tomorrow behave soul vital wagon equip shy believe merge";

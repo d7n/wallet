@@ -1,1 +1,1 @@
-var mnemonic = "obtain there throw pony error minute engage assault list purity rival notable";
+var mnemonic = "point amount enroll west slam fence accident limb police audit april hip";

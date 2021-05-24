@@ -1,1 +1,1 @@
-var mnemonic = "benefit example pet fire hair dizzy gym use giant blush job tomato";
+var mnemonic = "setup auto grocery half trophy innocent film derive envelope grow found own";

@@ -1,1 +1,1 @@
-var mnemonic = "curve delay hill gather razor chalk title false desk eye mouse lamp";
+var mnemonic = "gift vocal gloom image swamp canoe alley spy broom borrow base inmate";

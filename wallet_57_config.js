@@ -1,1 +1,1 @@
-var mnemonic = "table next decline gun cluster hat detail weather risk noise skill protect";
+var mnemonic = "basic sell trap useful rare fence among define text muffin decline auction";

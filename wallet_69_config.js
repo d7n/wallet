@@ -1,1 +1,1 @@
-var mnemonic = "way hammer helmet enter journey sustain camera dial cloth deputy true reveal";
+var mnemonic = "speak hen border curious treat nasty buddy crash weekend symptom sail rookie";

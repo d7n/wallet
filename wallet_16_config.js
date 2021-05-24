@@ -1,1 +1,1 @@
-var mnemonic = "plug toe ticket milk alone purpose fade knife common logic dumb oven";
+var mnemonic = "deal gas illness sign mistake river vault mountain wasp kangaroo thank airport";

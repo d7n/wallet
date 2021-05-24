@@ -1,1 +1,1 @@
-var mnemonic = "daring depart debate shiver water crane usage sun siege hollow buffalo hockey";
+var mnemonic = "enjoy immune item cherry friend twist view castle sheriff stable hill prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "general enroll atom slice valve price mushroom lottery dream lawn crush income";
+var mnemonic = "real aspect gasp race shrug illness village supply pistol joy thrive process";

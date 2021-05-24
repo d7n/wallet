@@ -1,1 +1,1 @@
-var mnemonic = "gown fence save clutch admit wrist era until cover castle theory girl";
+var mnemonic = "deliver rough income permit grape battle front insect derive young beyond umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "cave route mimic jungle thumb exclude boost pitch deer taste will gentle";
+var mnemonic = "artefact measure joy runway path purity craft settle save puppy airport arrive";

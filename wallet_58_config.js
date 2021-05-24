@@ -1,1 +1,1 @@
-var mnemonic = "autumn energy jar acquire either desert practice lava venture blame original sentence";
+var mnemonic = "timber west thunder tortoise uphold various once knee zone hybrid miss theory";

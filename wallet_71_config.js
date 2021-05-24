@@ -1,1 +1,1 @@
-var mnemonic = "fire quarter armed real soccer cancel scan negative dentist nature certain image";
+var mnemonic = "oil income defense kingdom verb deposit harbor skate clip oil hour corn";

@@ -1,1 +1,1 @@
-var mnemonic = "top mountain disorder thing inject silent paper infant brand science tragic vendor";
+var mnemonic = "pattern denial forum remain family soda ignore keen idea husband stone one";

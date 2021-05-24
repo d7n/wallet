@@ -1,1 +1,1 @@
-var mnemonic = "ritual video hundred tenant fine piano surface catalog wear skull knife knock";
+var mnemonic = "job curtain come laundry shiver pretty allow stable pool vocal stove toddler";

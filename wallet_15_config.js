@@ -1,1 +1,1 @@
-var mnemonic = "salute scan pond pyramid mule wire comic harsh shoe indicate venue away";
+var mnemonic = "select vicious right long daring evidence hungry indicate cause myself mass thumb";

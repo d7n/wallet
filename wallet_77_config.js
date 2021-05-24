@@ -1,1 +1,1 @@
-var mnemonic = "quick area bring grape frequent chronic session happy shed rude brief video";
+var mnemonic = "jump shrimp want bracket team online kid shrimp penalty young approve pole";

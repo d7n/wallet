@@ -1,1 +1,1 @@
-var mnemonic = "art slam excuse shoe diesel crack lecture announce airport bounce purity eternal";
+var mnemonic = "wrestle degree banana warm alien rabbit jelly antique rescue brass insane ten";

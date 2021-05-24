@@ -1,1 +1,1 @@
-var mnemonic = "color other wagon garage melody enjoy shoulder trim boring glory gate naive";
+var mnemonic = "pottery mystery awkward buddy capital purchase meadow walnut jump range spray joke";

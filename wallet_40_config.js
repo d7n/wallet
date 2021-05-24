@@ -1,1 +1,1 @@
-var mnemonic = "bounce network they cloud gate claim glass food slush dove ugly usual";
+var mnemonic = "marine truly camera genre main energy police they avoid merge say custom";

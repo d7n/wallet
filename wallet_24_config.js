@@ -1,1 +1,1 @@
-var mnemonic = "travel empower helmet inject shoulder tomato leisure pulse face pudding detect excuse";
+var mnemonic = "border caught foot setup rebel vacant trouble fee walnut elevator banner turn";

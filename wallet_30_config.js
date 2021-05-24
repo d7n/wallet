@@ -1,1 +1,1 @@
-var mnemonic = "office surface trial dad jazz uncle female forest child menu phone remember";
+var mnemonic = "mango nation kiwi mystery genius believe ketchup steel noodle tourist quick verify";

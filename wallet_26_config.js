@@ -1,1 +1,1 @@
-var mnemonic = "knife frame joke song general panther fly high escape guard online hamster";
+var mnemonic = "dog prepare retire hole night bright coast liar kiwi eternal talent typical";

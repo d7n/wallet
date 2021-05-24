@@ -1,1 +1,1 @@
-var mnemonic = "crater pass logic make lottery enable venture shock improve party kiwi mistake";
+var mnemonic = "crawl more churn harbor velvet dinner gas surprise champion van crumble glad";

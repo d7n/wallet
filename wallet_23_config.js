@@ -1,1 +1,1 @@
-var mnemonic = "domain dismiss nephew field seed ozone art sport health guide dolphin another";
+var mnemonic = "innocent symptom charge image predict win again hurry spell tray penalty certain";

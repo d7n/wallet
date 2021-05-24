@@ -1,1 +1,1 @@
-var mnemonic = "beauty verify surround delay bottom drama emerge smoke avocado main legend wise";
+var mnemonic = "rural permit frost quantum satisfy bag fade six mirror palace dentist jacket";

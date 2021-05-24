@@ -1,1 +1,1 @@
-var mnemonic = "million apology pulse soon main total plastic skill top floor afford also";
+var mnemonic = "feel annual vicious paper recipe tilt wasp apple sponsor alpha owner choose";

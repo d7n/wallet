@@ -1,1 +1,1 @@
-var mnemonic = "jump later sugar open canyon else quality noble rigid prosper loud noise";
+var mnemonic = "blur remind fit dumb order honey combine prevent bridge flock shoot glass";

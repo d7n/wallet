@@ -1,1 +1,1 @@
-var mnemonic = "dish slam play animal crucial trust silent magnet wheat load artwork predict";
+var mnemonic = "travel hobby ginger initial buzz elevator devote trim dial wish normal second";

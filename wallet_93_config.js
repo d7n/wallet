@@ -1,1 +1,1 @@
-var mnemonic = "age buffalo scare pass hundred step oak menu tissue salon across wolf";
+var mnemonic = "toy large cheese napkin tornado journey scout slender burger analyst area screen";

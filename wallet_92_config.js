@@ -1,1 +1,1 @@
-var mnemonic = "impulse fire mix mansion upgrade kind grief ecology wonder pink web spray";
+var mnemonic = "friend always fit rookie diagram dumb visa inch require pilot oven reason";

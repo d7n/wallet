@@ -1,1 +1,1 @@
-var mnemonic = "live comfort awful express result resemble save fee about pink often ignore";
+var mnemonic = "always column crucial into high gasp armor caught lottery hungry drum easily";

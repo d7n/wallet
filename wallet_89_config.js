@@ -1,1 +1,1 @@
-var mnemonic = "cluster busy detail airport ability income cattle minimum physical half narrow front";
+var mnemonic = "category again grief kiss ball menu detect forward sweet bachelor entire daring";

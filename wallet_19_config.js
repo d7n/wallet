@@ -1,1 +1,1 @@
-var mnemonic = "salt rude dynamic smart govern team supply discover witness feature broken junk";
+var mnemonic = "alcohol iron law fee venture picture ignore zoo path curious marriage harvest";

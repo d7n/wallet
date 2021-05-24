@@ -1,1 +1,1 @@
-var mnemonic = "team crowd bachelor assault snow can talk reveal baby once outdoor near";
+var mnemonic = "waste ketchup bomb shallow hazard short shiver legend tiger fame thought economy";

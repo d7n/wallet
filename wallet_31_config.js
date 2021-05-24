@@ -1,1 +1,1 @@
-var mnemonic = "volcano orange ride exist estate industry library pull session total verb syrup";
+var mnemonic = "test patrol recipe quit grit differ chair shop flower kingdom hole neglect";

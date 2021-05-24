@@ -1,1 +1,1 @@
-var mnemonic = "wink witness van motion quote wave chimney match quantum pear depart year";
+var mnemonic = "solve year sight addict say setup turkey cattle tomato vibrant abstract ripple";

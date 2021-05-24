@@ -1,1 +1,1 @@
-var mnemonic = "business kidney keep lecture system ceiling cube rent eagle squirrel swim ketchup";
+var mnemonic = "between super pluck heart weird medal unveil capable area theme estate festival";

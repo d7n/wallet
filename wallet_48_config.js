@@ -1,1 +1,1 @@
-var mnemonic = "crash wise piece art lizard have loan below manual page confirm promote";
+var mnemonic = "cover deal note doll slogan palace deposit have jealous pride slim salmon";

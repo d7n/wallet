@@ -1,1 +1,1 @@
-var mnemonic = "garage nominee panel scissors more slight use farm rib hair leisure vivid";
+var mnemonic = "payment weird author double blame record destroy recipe ceiling response magic swim";

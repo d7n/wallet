@@ -1,1 +1,1 @@
-var mnemonic = "cabbage weird hurry country climb horse radio soft cycle bench beef fit";
+var mnemonic = "lucky spice hawk vital acquire pitch item keen require adapt manual better";

@@ -1,1 +1,1 @@
-var mnemonic = "drive describe raise mesh next copper draft cliff multiply blood local catalog";
+var mnemonic = "lock letter sand swing wheel clown wide pistol village morning close void";

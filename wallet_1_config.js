@@ -1,1 +1,1 @@
-var mnemonic = "caution vessel replace effort naive quit mandate breeze good luggage stay run";
+var mnemonic = "attack grid current mom detail pink exit solve zebra good glimpse dress";

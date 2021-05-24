@@ -1,1 +1,1 @@
-var mnemonic = "roof tornado smoke stick spirit vivid citizen loan case spray bridge ring";
+var mnemonic = "danger inflict boost any guess become token globe latin among join keen";

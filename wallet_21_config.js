@@ -1,1 +1,1 @@
-var mnemonic = "inform upon lazy flower arrest whisper motion fabric boring weekend jazz march";
+var mnemonic = "patrol junior innocent indoor arrow climb great script post story around blush";

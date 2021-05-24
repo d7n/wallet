@@ -1,1 +1,1 @@
-var mnemonic = "often wet oak silk still trouble empty shoe metal sock style coconut";
+var mnemonic = "valid easy success annual vibrant purse brand achieve circle fine jump horn";

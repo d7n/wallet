@@ -1,1 +1,1 @@
-var mnemonic = "quarter sheriff interest shift close spawn end lion search science high moral";
+var mnemonic = "major affair anchor demand siege detail soap voyage rebuild nut good agent";

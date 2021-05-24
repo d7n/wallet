@@ -1,1 +1,1 @@
-var mnemonic = "rice enemy huge announce cactus burst tuition immune where siren hobby orange";
+var mnemonic = "carpet belt library envelope warrior busy jar mask foam media wisdom fade";

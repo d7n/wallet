@@ -1,1 +1,1 @@
-var mnemonic = "stuff steel either adapt romance goddess nut argue sample jacket diary define";
+var mnemonic = "crumble destroy distance library tuna field ribbon arrow country cry pumpkin mirror";

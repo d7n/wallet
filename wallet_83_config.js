@@ -1,1 +1,1 @@
-var mnemonic = "dolphin drama web security refuse tiny gasp kiwi volume before upper when";
+var mnemonic = "safe muscle swing bind eight kangaroo impulse farm shallow hotel ankle seek";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle spread dismiss merry boat dry mystery zebra trumpet promote hard glow";
+var mnemonic = "foam rotate chase spare friend voyage famous talk hammer route system short";

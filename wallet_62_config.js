@@ -1,1 +1,1 @@
-var mnemonic = "scrub stone inform range select tone rate bounce engage stumble must because";
+var mnemonic = "pair digital tool insect galaxy staff walk valve fog arrest divide report";

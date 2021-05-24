@@ -1,1 +1,1 @@
-var mnemonic = "hidden drum kid human window spice fish zebra spatial just repeat mammal";
+var mnemonic = "spoon area promote atom sadness welcome hold move bench crumble fancy setup";

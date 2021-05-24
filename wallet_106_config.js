@@ -1,1 +1,1 @@
-var mnemonic = "cargo work capable same control exchange pencil raw agree monitor inhale expand";
+var mnemonic = "debris eagle day sphere impose position deliver raise master service seat napkin";

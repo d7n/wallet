@@ -1,1 +1,1 @@
-var mnemonic = "patrol begin art umbrella minimum universe shaft draft balcony convince cliff retire";
+var mnemonic = "meat light then card agree prevent virus verb very observe jealous program";

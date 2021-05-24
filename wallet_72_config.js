@@ -1,1 +1,1 @@
-var mnemonic = "ski caution left sure open scene foot sudden steel zebra muscle saddle";
+var mnemonic = "manage slow joy dwarf wasp hybrid harsh myth estate alcohol song square";

@@ -1,1 +1,1 @@
-var mnemonic = "music ill ring volcano series exist game ticket blanket animal position unhappy";
+var mnemonic = "bicycle advance elegant report run mansion forward ten easily weasel trim hat";

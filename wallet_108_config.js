@@ -1,1 +1,1 @@
-var mnemonic = "train deposit actual shell own casual feel suffer someone risk hundred street";
+var mnemonic = "basket defense margin frequent road earth strategy dinosaur mass brave two wine";

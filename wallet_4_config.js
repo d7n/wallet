@@ -1,1 +1,1 @@
-var mnemonic = "follow rocket test jaguar unusual elephant process ready critic dog kiwi laundry";
+var mnemonic = "column desk tunnel loan snap spoon slender blind farm page elite elder";

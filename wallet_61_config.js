@@ -1,1 +1,1 @@
-var mnemonic = "corn proud interest broken buyer lend pencil fine baby short change local";
+var mnemonic = "other agent celery senior surge ignore pioneer saddle toss resist dragon library";

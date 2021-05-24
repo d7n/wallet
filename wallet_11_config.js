@@ -1,1 +1,1 @@
-var mnemonic = "purpose discover wing kind human latin tank pizza fury crack regular firm";
+var mnemonic = "glass century purse wire remind simple aunt impulse autumn indoor violin ghost";

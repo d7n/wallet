@@ -1,1 +1,1 @@
-var mnemonic = "pupil tower bunker defy lemon order pyramid copper member gorilla call quarter";
+var mnemonic = "reform charge evolve come fragile quality reflect grief matter glimpse behave dose";

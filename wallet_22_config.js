@@ -1,1 +1,1 @@
-var mnemonic = "double unit drive hope cluster century artwork youth size hire assault result";
+var mnemonic = "produce jazz yellow faint anchor borrow exhibit bounce infant together park loud";

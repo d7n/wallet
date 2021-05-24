@@ -1,1 +1,1 @@
-var mnemonic = "siren illness elephant gift deny victory rate sunny cherry brave yellow foot";
+var mnemonic = "click wonder choose supply poet error wool process regular unknown skull seat";

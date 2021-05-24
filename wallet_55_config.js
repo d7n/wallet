@@ -1,1 +1,1 @@
-var mnemonic = "live lava silver faint come round wink dwarf mention mixed cable census";
+var mnemonic = "mixed often upgrade pool goose indicate myself gentle way donor coyote traffic";

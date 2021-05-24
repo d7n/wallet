@@ -1,1 +1,1 @@
-var mnemonic = "movie fox safe monkey athlete delay border mansion crater pistol enemy tone";
+var mnemonic = "okay wheat fan year smoke spice identify wing skull amused unlock result";

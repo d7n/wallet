@@ -1,1 +1,1 @@
-var mnemonic = "furnace citizen crucial print scatter diary swamp loyal phone share february budget";
+var mnemonic = "material goddess fury canoe almost innocent bus behind memory together lock popular";

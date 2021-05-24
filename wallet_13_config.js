@@ -1,1 +1,1 @@
-var mnemonic = "observe dwarf student negative ridge bottom install share record magnet sad bronze";
+var mnemonic = "tip curtain leopard top rice sword blanket endorse clump soap unfold abstract";

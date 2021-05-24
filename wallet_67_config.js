@@ -1,1 +1,1 @@
-var mnemonic = "romance involve social fall taste garlic actor draw ranch shaft enter silly";
+var mnemonic = "front inquiry first exist alcohol cousin rival grunt talk myth add divide";

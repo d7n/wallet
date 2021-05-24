@@ -1,1 +1,1 @@
-var mnemonic = "tunnel work page wheat fork proof rifle lab category kidney roast one";
+var mnemonic = "trash crop unaware odor accident list renew quiz keep absurd expand cause";

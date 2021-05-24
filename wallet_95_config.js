@@ -1,1 +1,1 @@
-var mnemonic = "initial notable coach enhance nation forest add order increase ability label fame";
+var mnemonic = "empty fetch story crouch casino decade smoke bone enter field caught uncover";

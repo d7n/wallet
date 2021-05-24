@@ -1,1 +1,1 @@
-var mnemonic = "choose coach frame account rain planet doctor small essence typical puzzle peanut";
+var mnemonic = "marine seek crumble frog journey dwarf barrel sister ten isolate eye timber";
