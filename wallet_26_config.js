@@ -1,1 +1,1 @@
-var mnemonic = "aware catch you adult vibrant flavor baby humor hamster layer zero inch";
+var mnemonic = "cabin deliver change world space cool sugar barely original debate garment hurdle";

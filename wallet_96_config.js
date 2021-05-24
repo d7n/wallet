@@ -1,1 +1,1 @@
-var mnemonic = "fashion decide loud easy amateur aisle phone air push what scatter maid";
+var mnemonic = "actual hood wish divide width ecology buffalo dizzy arrest keen series cherry";

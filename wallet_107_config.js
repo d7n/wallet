@@ -1,1 +1,1 @@
-var mnemonic = "cute card alien cricket share maid forum chair radar midnight almost firm";
+var mnemonic = "crush wing defense foil crime occur vanish affair tribe cycle love boring";

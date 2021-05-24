@@ -1,1 +1,1 @@
-var mnemonic = "task busy monitor latin hover gaze eager torch idea grant pigeon call";
+var mnemonic = "brother couple stay yellow cream sad extend life swamp food cycle force";

@@ -1,1 +1,1 @@
-var mnemonic = "tube boy praise body they cruel board law panic motor column about";
+var mnemonic = "wagon later someone tree shed prosper help scrub rail portion fever forward";

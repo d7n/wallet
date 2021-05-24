@@ -1,1 +1,1 @@
-var mnemonic = "achieve amateur analyst dinner whisper guess kitchen chicken view disorder twin feed";
+var mnemonic = "prison regret old fresh build curtain panic current mountain anxiety erosion decline";

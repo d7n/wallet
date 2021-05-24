@@ -1,1 +1,1 @@
-var mnemonic = "park guide pause deny sight floor fix impulse between whale unknown pool";
+var mnemonic = "gold slogan ethics powder sadness solution donor vague vocal great dentist song";

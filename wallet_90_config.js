@@ -1,1 +1,1 @@
-var mnemonic = "suit vessel salmon hour angle hire age used online rotate silk kit";
+var mnemonic = "old fancy toilet body hub private arena tell curious arrive swift battle";

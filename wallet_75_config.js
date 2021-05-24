@@ -1,1 +1,1 @@
-var mnemonic = "wisdom airport foil main glory library matrix heavy cliff cave mad alter";
+var mnemonic = "tattoo lucky once quantum lazy where stick symbol notice loyal mercy coffee";

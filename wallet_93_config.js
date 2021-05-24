@@ -1,1 +1,1 @@
-var mnemonic = "noble illness bulk tomato floor weapon science gaze betray angle law appear";
+var mnemonic = "floor measure autumn prefer again slow twice hero sketch caught student crop";

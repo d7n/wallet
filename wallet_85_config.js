@@ -1,1 +1,1 @@
-var mnemonic = "sphere whip favorite oblige help mammal effort hotel donkey perfect spirit believe";
+var mnemonic = "mix thought merry buddy ridge tomorrow apart ankle rocket auto blossom ready";

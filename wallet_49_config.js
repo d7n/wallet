@@ -1,1 +1,1 @@
-var mnemonic = "can toast evoke entire together inner exile slam roast erase ridge crowd";
+var mnemonic = "learn chat dignity planet nuclear goat road garage bring plug help prize";

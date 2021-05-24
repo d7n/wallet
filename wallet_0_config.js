@@ -1,1 +1,1 @@
-var mnemonic = "segment announce shiver strategy rack antenna affair lazy dry sniff switch you";
+var mnemonic = "knock corn expose slender equal globe among bomb board nation clarify shoulder";

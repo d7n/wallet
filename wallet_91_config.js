@@ -1,1 +1,1 @@
-var mnemonic = "long symbol document merry thrive weird history plunge hybrid someone swarm recycle";
+var mnemonic = "crop nature shine window switch kite vehicle athlete label shuffle claim strong";

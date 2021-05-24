@@ -1,1 +1,1 @@
-var mnemonic = "cluster february limit slow hawk inside unusual turkey devote any miss art";
+var mnemonic = "drastic unaware august grace depend electric brass shaft eagle clog raccoon physical";

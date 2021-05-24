@@ -1,1 +1,1 @@
-var mnemonic = "join boil cram bean split robot bus rather decrease almost argue exit";
+var mnemonic = "wait alcohol inch metal guide hill behave chalk collect vivid peace daring";

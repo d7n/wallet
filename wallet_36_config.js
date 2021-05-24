@@ -1,1 +1,1 @@
-var mnemonic = "paper dog plastic action truck valid stone draw grief target tone shield";
+var mnemonic = "label wisdom kite farm traffic review bulk situate assist process immune alcohol";

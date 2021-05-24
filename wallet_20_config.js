@@ -1,1 +1,1 @@
-var mnemonic = "alpha lunar horror topple used youth illegal scissors area oyster cheap exhaust";
+var mnemonic = "virtual tackle slow grass relief powder gold narrow goat figure shoe congress";

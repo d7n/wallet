@@ -1,1 +1,1 @@
-var mnemonic = "excite found angle add curve menu earn beyond gasp swing tell divorce";
+var mnemonic = "injury idle labor clump prevent process tired boy manage fury song virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow estate view share hill region stem shuffle limit layer anger praise";
+var mnemonic = "light six bus desk metal swap donate galaxy stick scare theme slush";

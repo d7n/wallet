@@ -1,1 +1,1 @@
-var mnemonic = "filter question moral reflect fiction edge divide rigid spice jelly chest roof";
+var mnemonic = "you melt search property amazing miss harbor april spirit robust comfort topple";

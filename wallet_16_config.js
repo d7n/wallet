@@ -1,1 +1,1 @@
-var mnemonic = "salon ozone boy asset catalog master outside input first room outdoor rack";
+var mnemonic = "warfare gauge acid rely gain source ribbon toward file quality analyst narrow";

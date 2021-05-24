@@ -1,1 +1,1 @@
-var mnemonic = "tree mean boss horror venue enough today doll uniform include trap trick";
+var mnemonic = "diesel document camp frequent nuclear night social place lecture section swim tumble";

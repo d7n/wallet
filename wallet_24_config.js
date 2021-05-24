@@ -1,1 +1,1 @@
-var mnemonic = "wine amazing allow social arrange nice luxury certain typical immune laundry chunk";
+var mnemonic = "select fall climb develop always urge label armed vault dutch globe matter";

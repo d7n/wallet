@@ -1,1 +1,1 @@
-var mnemonic = "tumble luxury joy phone curve twin area traffic hockey shoot spell tray";
+var mnemonic = "emotion dry capital vivid venue breeze flavor purse twist under area have";

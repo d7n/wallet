@@ -1,1 +1,1 @@
-var mnemonic = "skill cloud orbit already ride pyramid praise absorb identify patrol rain seed";
+var mnemonic = "announce robot illness crazy arctic property immense system vivid soccer veteran ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "polar devote truck palm prize lucky potato van shrimp mix excess aware";
+var mnemonic = "charge siege hollow anchor crater inside pistol harvest panic drastic near wait";

@@ -1,1 +1,1 @@
-var mnemonic = "energy orange square special wrestle clinic pitch damp churn blind cargo indoor";
+var mnemonic = "busy ocean pulp lunar notable fee spread prosper poet evidence wagon subway";

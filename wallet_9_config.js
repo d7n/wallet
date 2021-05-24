@@ -1,1 +1,1 @@
-var mnemonic = "gaze share cream move friend bronze desert lawn give donkey choose siege";
+var mnemonic = "hammer invest garage sing thank carbon curtain reveal estate guitar mother orbit";

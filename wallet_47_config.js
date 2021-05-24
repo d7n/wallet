@@ -1,1 +1,1 @@
-var mnemonic = "play dance clinic city twice review boost equal flat violin crack gasp";
+var mnemonic = "awesome immune dutch obey result hen another notable butter camp angle ten";

@@ -1,1 +1,1 @@
-var mnemonic = "task fade funny number envelope rich column hood blood middle unfair rare";
+var mnemonic = "crack silk say mention pride discover gym enforce north mind lottery cart";

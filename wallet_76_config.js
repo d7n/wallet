@@ -1,1 +1,1 @@
-var mnemonic = "rent below grape subway solve enrich thunder thank wide tiny utility marble";
+var mnemonic = "turtle menu whale position mesh slide loan burden citizen fuel acquire cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "auction neutral harsh relax spin coffee genuine rate winner rookie annual pilot";
+var mnemonic = "rabbit faith eternal barely host choice produce change dinosaur comfort leader note";

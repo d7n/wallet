@@ -1,1 +1,1 @@
-var mnemonic = "enact machine shoot begin into february vanish will volume loop shop real";
+var mnemonic = "chalk differ burger retire power art frame honey amateur youth often bronze";

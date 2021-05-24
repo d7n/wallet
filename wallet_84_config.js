@@ -1,1 +1,1 @@
-var mnemonic = "trim easy pulp grain bus city old purse episode figure kind lawn";
+var mnemonic = "patrol dawn fitness snake gift cushion disease seek target dizzy receive rule";

@@ -1,1 +1,1 @@
-var mnemonic = "rally demise evolve tone decade wood north isolate alone eager entire payment";
+var mnemonic = "lemon clutch noise foam humor sail struggle very infant best timber useless";

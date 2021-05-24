@@ -1,1 +1,1 @@
-var mnemonic = "public west pink useless comic tomato top pause milk what harbor aim";
+var mnemonic = "salad enact return crew twenty guitar learn dizzy angle donate breeze piano";

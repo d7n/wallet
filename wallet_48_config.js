@@ -1,1 +1,1 @@
-var mnemonic = "car envelope bone manage neither exhibit erode disorder myself aspect supreme spatial";
+var mnemonic = "barely squeeze ketchup black indicate vanish fabric exclude feel near runway lend";

@@ -1,1 +1,1 @@
-var mnemonic = "swear broken minute future flat offer rib approve armed often among cotton";
+var mnemonic = "they injury cloud rhythm derive fashion crucial farm final pledge wet avoid";

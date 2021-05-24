@@ -1,1 +1,1 @@
-var mnemonic = "nurse tiger kitten cream month decline chronic drama verify address drink away";
+var mnemonic = "frost slot mix adjust hero clown merry debris spoon rescue pond miracle";

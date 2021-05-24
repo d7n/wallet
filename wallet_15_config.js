@@ -1,1 +1,1 @@
-var mnemonic = "album oyster physical fiber present sure fun apart sniff miss wonder move";
+var mnemonic = "legend twin forum oxygen world evoke segment clap lady local feature machine";

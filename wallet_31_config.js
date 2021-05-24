@@ -1,1 +1,1 @@
-var mnemonic = "thought pistol asset salute order voyage rich unique sort pizza banner upon";
+var mnemonic = "banana hospital mansion panel letter orbit gossip fun youth adult swear wisdom";

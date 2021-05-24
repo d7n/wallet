@@ -1,1 +1,1 @@
-var mnemonic = "tip evil pave fade surface endless ignore advice like trouble gadget width";
+var mnemonic = "clap strong legal pond junk dice kiwi jump leave much clock nurse";

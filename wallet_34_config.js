@@ -1,1 +1,1 @@
-var mnemonic = "woman left poem captain favorite fade inflict dash again fork universe sad";
+var mnemonic = "reflect sound tiger hero caught road hub wife never promote update jelly";

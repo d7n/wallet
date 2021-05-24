@@ -1,1 +1,1 @@
-var mnemonic = "typical draft hire decade rotate cereal need decide reveal atom leave tiny";
+var mnemonic = "shiver island motion talent address warm dash evidence movie win enlist impulse";

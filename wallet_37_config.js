@@ -1,1 +1,1 @@
-var mnemonic = "cable cinnamon ceiling gun retreat pave because trophy dream type emotion alone";
+var mnemonic = "accuse differ actor tail such beauty salt type mountain output piece involve";

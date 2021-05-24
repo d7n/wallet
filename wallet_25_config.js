@@ -1,1 +1,1 @@
-var mnemonic = "wage chief vote regular mercy travel sad derive card around renew farm";
+var mnemonic = "orange athlete game miracle video boy deer slush melt asthma lounge advance";

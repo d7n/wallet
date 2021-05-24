@@ -1,1 +1,1 @@
-var mnemonic = "imitate demise area awesome student brown cupboard resource guard vendor grace nasty";
+var mnemonic = "liar soap ride snap castle sniff mystery ladder luxury inflict hub claw";

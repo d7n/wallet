@@ -1,1 +1,1 @@
-var mnemonic = "coil doll argue toward chief put air soup local frame foster gauge";
+var mnemonic = "small eyebrow track thrive jump heavy recall pact quality exotic friend process";

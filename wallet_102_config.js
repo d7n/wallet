@@ -1,1 +1,1 @@
-var mnemonic = "fun train issue dawn turkey shadow record toe damp atom angry else";
+var mnemonic = "auto mention safe foil bundle october donkey wheat burden simple bird outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "pond exit weekend install decorate timber want pill occur brass two ankle";
+var mnemonic = "owner wagon emerge video keen fitness soap truth strategy differ favorite current";

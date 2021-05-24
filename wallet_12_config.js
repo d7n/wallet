@@ -1,1 +1,1 @@
-var mnemonic = "orphan average nest album combine curious loud stove ensure satoshi fee dad";
+var mnemonic = "main lunch agent tail pottery unknown noise engine exotic junk answer slush";

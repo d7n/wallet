@@ -1,1 +1,1 @@
-var mnemonic = "flee grain aerobic high fruit vehicle naive stadium virus solve model sleep";
+var mnemonic = "rough vacant palace cruel economy eternal ten hurt congress chronic artwork buyer";

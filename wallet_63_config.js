@@ -1,1 +1,1 @@
-var mnemonic = "fatigue piece improve hospital talent worry snap ill glimpse scare august whisper";
+var mnemonic = "world hello open warrior rhythm actor visual title lawsuit panther hockey original";

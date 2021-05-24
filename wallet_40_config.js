@@ -1,1 +1,1 @@
-var mnemonic = "major deputy exist juice forget inch bulk kitchen credit trap fire punch";
+var mnemonic = "term ride soap noble bulb social scrap monkey coast pink loud industry";

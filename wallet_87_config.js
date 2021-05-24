@@ -1,1 +1,1 @@
-var mnemonic = "maple machine tomorrow cool cereal honey example left lounge badge movie series";
+var mnemonic = "taxi cabin wasp cattle loyal trade thank obtain page multiply feel major";

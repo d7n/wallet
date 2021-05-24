@@ -1,1 +1,1 @@
-var mnemonic = "olive together air raven claw involve magnet siren protect birth hand square";
+var mnemonic = "garment shove follow soda mom limb dove link champion panda stage town";

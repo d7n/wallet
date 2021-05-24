@@ -1,1 +1,1 @@
-var mnemonic = "toast lonely basic exchange term guitar farm wealth bring brush scrap fiction";
+var mnemonic = "sting usage second lemon want true tail mention float vanish spy ignore";

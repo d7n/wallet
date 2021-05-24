@@ -1,1 +1,1 @@
-var mnemonic = "reunion oyster dish ceiling dwarf noise suit fix egg witness dish fame";
+var mnemonic = "business tuition pudding puppy erosion path quiz mountain update scrap evoke perfect";

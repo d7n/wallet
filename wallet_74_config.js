@@ -1,1 +1,1 @@
-var mnemonic = "carbon liar beef idea meadow spoil clump wine enact table course blame";
+var mnemonic = "gate acid excess lottery wire sheriff pause pizza marine rocket permit mule";

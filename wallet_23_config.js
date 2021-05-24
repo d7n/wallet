@@ -1,1 +1,1 @@
-var mnemonic = "raccoon useless random taxi orphan health replace spoon now moon below peace";
+var mnemonic = "decline divorce message swing spoil comfort legal garbage fever scan merry judge";

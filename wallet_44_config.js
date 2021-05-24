@@ -1,1 +1,1 @@
-var mnemonic = "scare pill engage obvious sheriff risk blur leaf wonder mean sibling six";
+var mnemonic = "lemon key later stuff tip hen glad army anxiety earth beef essay";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic version mutual gift vacuum length coach decrease program forest choice script";
+var mnemonic = "near legend young weasel february weapon dilemma puppy crucial unfold cute away";

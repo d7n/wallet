@@ -1,1 +1,1 @@
-var mnemonic = "water sing write smoke hundred bid bind prize quiz quality path alcohol";
+var mnemonic = "topple owner tattoo illegal awesome settle game ignore earn seek cry camera";

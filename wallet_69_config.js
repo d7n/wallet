@@ -1,1 +1,1 @@
-var mnemonic = "cargo broccoli cabin cliff payment between apology buyer stamp country pretty piece";
+var mnemonic = "begin talk million endless asset stamp exchange walk response road view praise";

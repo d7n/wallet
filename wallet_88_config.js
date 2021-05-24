@@ -1,1 +1,1 @@
-var mnemonic = "much identify ozone bulk social business brown near attitude right family forum";
+var mnemonic = "imitate soda skill stand wedding during again carpet analyst jeans twenty range";

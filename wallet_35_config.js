@@ -1,1 +1,1 @@
-var mnemonic = "staff badge april normal mind diagram rich diet cook sweet marble pulp";
+var mnemonic = "false dutch east nominee eyebrow physical glove joy cargo wage rug vessel";

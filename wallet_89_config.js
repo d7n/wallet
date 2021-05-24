@@ -1,1 +1,1 @@
-var mnemonic = "furnace trumpet cheese broom forward glance chat ramp media roast quick blur";
+var mnemonic = "daughter spell dwarf news wonder dune olympic evolve park sure stem kiss";

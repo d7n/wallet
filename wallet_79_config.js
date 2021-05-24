@@ -1,1 +1,1 @@
-var mnemonic = "olive arrive wear shy kiss then wink slot bamboo leader cool undo";
+var mnemonic = "valley wheel share tonight response stumble banana celery flee nice toward soft";

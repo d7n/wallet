@@ -1,1 +1,1 @@
-var mnemonic = "repeat truck enable avocado little large lizard popular lift black page basic";
+var mnemonic = "crime artefact nature eyebrow saddle brush doll point decorate village oyster case";

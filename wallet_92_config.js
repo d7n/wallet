@@ -1,1 +1,1 @@
-var mnemonic = "awesome fine final aerobic silent gossip broom kiss accuse license uniform spin";
+var mnemonic = "cook cloud dice adapt steak unveil upset truth obey execute tube utility";

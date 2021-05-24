@@ -1,1 +1,1 @@
-var mnemonic = "crunch burger easy permit lend sunset demise domain obvious danger battle turtle";
+var mnemonic = "learn warrior book supply yard manual gloom vocal twist way coil story";

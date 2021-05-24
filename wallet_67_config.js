@@ -1,1 +1,1 @@
-var mnemonic = "right apart tilt coast turtle spider sauce wood tank peasant aim funny";
+var mnemonic = "else dilemma ankle access ahead drip paper chief under federal another midnight";

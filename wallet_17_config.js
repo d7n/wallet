@@ -1,1 +1,1 @@
-var mnemonic = "guilt treat simple firm radar design violin goddess broccoli tumble table industry";
+var mnemonic = "club table certain fork skate senior cousin want ride road hand cancel";

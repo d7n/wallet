@@ -1,1 +1,1 @@
-var mnemonic = "disorder dumb step embrace city north credit soul toward soda term van";
+var mnemonic = "stomach plug couch dash august average fee crop help insane clerk cube";

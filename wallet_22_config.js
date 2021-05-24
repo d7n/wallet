@@ -1,1 +1,1 @@
-var mnemonic = "tissue box liar define shoulder document summer floor wrist cube husband curious";
+var mnemonic = "speak toast depart humor west depend thumb fan pill normal couch party";

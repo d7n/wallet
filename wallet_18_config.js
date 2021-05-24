@@ -1,1 +1,1 @@
-var mnemonic = "snake keen ostrich west razor shield deer because grain region together tackle";
+var mnemonic = "wolf devote clap chief castle age because rude roof enjoy illness despair";

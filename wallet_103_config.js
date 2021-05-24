@@ -1,1 +1,1 @@
-var mnemonic = "depth maximum cause setup panel off hero enroll find win grape lava";
+var mnemonic = "trigger divert popular glide accident speed carpet rug rival reopen mosquito need";

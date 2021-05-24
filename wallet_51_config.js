@@ -1,1 +1,1 @@
-var mnemonic = "long truth menu brisk proof series deputy pact green tilt split chaos";
+var mnemonic = "toilet garlic orient awful pen deal depart olympic language together certain mistake";

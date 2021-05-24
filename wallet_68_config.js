@@ -1,1 +1,1 @@
-var mnemonic = "little tomorrow dress snack mouse merry vacuum write drastic embrace soul abandon";
+var mnemonic = "canvas clap total unusual trust make dream sorry flush chicken harsh group";

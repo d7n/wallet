@@ -1,1 +1,1 @@
-var mnemonic = "until brush urban what seven forum exhaust marble canvas usual grunt logic";
+var mnemonic = "absurd child practice scheme again sunset dog blame cherry allow farm abstract";

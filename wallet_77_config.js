@@ -1,1 +1,1 @@
-var mnemonic = "erosion juice faith blast era client rigid banner art month traffic rent";
+var mnemonic = "knife owner myth spell vehicle scissors clip hurry depart second volume wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "donor injury disagree boy entire sock stool train kitchen noise clay wise";
+var mnemonic = "husband blouse enforce theory amount armor smart excite stuff sight wide pelican";

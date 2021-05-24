@@ -1,1 +1,1 @@
-var mnemonic = "hurry pluck benefit struggle marine genre smooth park forum document hen thought";
+var mnemonic = "airport breeze float please warm car dolphin curve body first track van";

@@ -1,1 +1,1 @@
-var mnemonic = "stem nasty pulse goat wrist praise guess have off screen grain explain";
+var mnemonic = "dentist discover now patch month diary match feature buzz just myth chapter";

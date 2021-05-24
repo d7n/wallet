@@ -1,1 +1,1 @@
-var mnemonic = "ski debris such learn pilot reunion purchase curtain hidden couch fancy surround";
+var mnemonic = "very food detail retreat broken gold exotic kit curtain divert glad frost";

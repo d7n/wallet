@@ -1,1 +1,1 @@
-var mnemonic = "unable enable lounge gesture simple dawn motion simple board exchange crater sight";
+var mnemonic = "abuse index choose elevator omit tiny dignity foam unusual abstract trophy trade";

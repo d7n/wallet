@@ -1,1 +1,1 @@
-var mnemonic = "meadow neither color benefit omit private dragon gossip brother pledge tribe laptop";
+var mnemonic = "lounge voyage ginger parade resource history enable fish nephew base flame legal";

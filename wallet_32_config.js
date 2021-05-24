@@ -1,1 +1,1 @@
-var mnemonic = "sibling return educate submit what grass toward razor turkey resemble romance cage";
+var mnemonic = "seed uphold desk script mom squeeze despair picture tornado sock appear often";
