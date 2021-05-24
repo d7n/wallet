@@ -1,1 +1,1 @@
-var mnemonic = "blush bleak pitch coyote witness need twice couch rent giraffe inhale kind";
+var mnemonic = "spare ski trend response east destroy sing flavor school fame dawn quality";

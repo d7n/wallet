@@ -1,1 +1,1 @@
-var mnemonic = "kiss budget mirror height sport mind disorder vapor wealth weasel poverty industry";
+var mnemonic = "lumber any unknown magic immune describe team vast carpet regret boring orange";

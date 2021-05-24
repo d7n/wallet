@@ -1,1 +1,1 @@
-var mnemonic = "worry ridge barrel file limit garden icon museum topic endorse risk advance";
+var mnemonic = "student master abandon check recycle hedgehog tree unlock skin typical snap elder";

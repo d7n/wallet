@@ -1,1 +1,1 @@
-var mnemonic = "machine unaware volume engage cry spare art brother total play again one";
+var mnemonic = "wood enjoy nerve cool ridge little body void upper scrub stool capital";

@@ -1,1 +1,1 @@
-var mnemonic = "fox slogan book kick wool believe enough favorite wait harsh mercy sun";
+var mnemonic = "galaxy country capital second tray arch sure entry paper fog slow stamp";

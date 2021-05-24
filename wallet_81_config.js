@@ -1,1 +1,1 @@
-var mnemonic = "toe dust virus erase spatial pattern width angle best tape small vanish";
+var mnemonic = "desert material buzz change mouse jewel scissors level robot infant actress fence";

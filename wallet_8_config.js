@@ -1,1 +1,1 @@
-var mnemonic = "shed scrap advice hidden spend animal travel abstract hold actual front sunny";
+var mnemonic = "tag grocery fetch tragic little cry remain laugh gravity lonely wagon front";

@@ -1,1 +1,1 @@
-var mnemonic = "twin false can bundle garage test drop jaguar cat merry segment solar";
+var mnemonic = "trigger meadow push chef rescue glass laundry soldier defense clever wife minimum";

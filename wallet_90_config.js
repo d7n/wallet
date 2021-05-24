@@ -1,1 +1,1 @@
-var mnemonic = "veteran orange scissors tackle shell notice enrich dismiss street chaos gesture forum";
+var mnemonic = "alcohol flip zone brass mechanic world chapter bonus usual asthma badge snake";

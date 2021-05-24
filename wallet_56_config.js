@@ -1,1 +1,1 @@
-var mnemonic = "disagree shed outside domain veteran brown blanket fiber brick obscure alarm plunge";
+var mnemonic = "pulse retire minor pizza aware capital satisfy tiger clerk reject road tonight";

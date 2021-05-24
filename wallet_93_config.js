@@ -1,1 +1,1 @@
-var mnemonic = "test movie relief barely tree friend swamp obvious year inch sphere earn";
+var mnemonic = "warfare pilot inherit movie busy train clutch spy able diagram father start";

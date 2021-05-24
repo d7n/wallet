@@ -1,1 +1,1 @@
-var mnemonic = "oblige clump craft dolphin luxury trophy genuine style other glance beef debris";
+var mnemonic = "bulk drink picnic sure either slender describe tennis sponsor magic cement total";

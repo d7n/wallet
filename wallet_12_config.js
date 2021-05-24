@@ -1,1 +1,1 @@
-var mnemonic = "atom spirit diamond never tongue tiger lizard dinner service result when rapid";
+var mnemonic = "august naive rival future loud token wisdom figure prize base loop elder";

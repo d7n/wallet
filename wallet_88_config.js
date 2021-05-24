@@ -1,1 +1,1 @@
-var mnemonic = "humor update high soldier parent tattoo raccoon phone young distance bulk tilt";
+var mnemonic = "quiz hurry couch day indoor lend brisk primary flee mouse garden clutch";

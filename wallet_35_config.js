@@ -1,1 +1,1 @@
-var mnemonic = "light toe exclude sleep evoke chase exile file gesture convince cup sketch";
+var mnemonic = "system shoulder ecology search crystal drill black silver unfair brave another poverty";

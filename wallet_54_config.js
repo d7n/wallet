@@ -1,1 +1,1 @@
-var mnemonic = "head naive casual cement alter motion picture audit orphan chalk about educate";
+var mnemonic = "cheese roof outside fossil soccer army melt oak abstract boy rural chuckle";

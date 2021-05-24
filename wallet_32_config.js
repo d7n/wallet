@@ -1,1 +1,1 @@
-var mnemonic = "repair trip fox empower discover ask prison galaxy burden prize antenna wedding";
+var mnemonic = "kick ancient impact detail security resist basket monitor immense wagon palm arrange";

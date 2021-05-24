@@ -1,1 +1,1 @@
-var mnemonic = "below helmet subject usage mixed filter blood verb shadow burden index holiday";
+var mnemonic = "inherit bronze release require differ opera clay input girl increase idle arm";

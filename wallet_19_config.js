@@ -1,1 +1,1 @@
-var mnemonic = "slush cinnamon scissors assist fade obey march butter welcome measure sock crystal";
+var mnemonic = "phone lake label reveal sound spot awake pony trigger noble average ticket";

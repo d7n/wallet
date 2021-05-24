@@ -1,1 +1,1 @@
-var mnemonic = "table play blue swing scout ten announce wear resist alarm forest essence";
+var mnemonic = "aspect reunion resist almost crime canoe cart meat hen joy bamboo unlock";

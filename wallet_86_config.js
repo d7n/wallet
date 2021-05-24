@@ -1,1 +1,1 @@
-var mnemonic = "salute cry chief cushion neutral fun naive close space reward cause napkin";
+var mnemonic = "invest dirt number canoe fine reopen month enforce famous keep tobacco witness";

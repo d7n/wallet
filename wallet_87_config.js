@@ -1,1 +1,1 @@
-var mnemonic = "bone jar sketch huge employ define churn match knock speed canvas seek";
+var mnemonic = "absurd demand glow coffee coin reflect bread dad tower birth reflect round";

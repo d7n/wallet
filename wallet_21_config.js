@@ -1,1 +1,1 @@
-var mnemonic = "frog capital dove cave turtle fresh body loan buffalo next oxygen embark";
+var mnemonic = "write business wife okay pencil behind castle pattern visit code put shoot";

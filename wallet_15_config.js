@@ -1,1 +1,1 @@
-var mnemonic = "badge faint tattoo more youth quote story fossil small clarify segment fence";
+var mnemonic = "orchard garbage pear annual renew best borrow tape please below kind answer";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk visa peanut confirm come crane tobacco illegal void able usage spray";
+var mnemonic = "frequent clinic toddler host goat gym steel custom youth future sad document";

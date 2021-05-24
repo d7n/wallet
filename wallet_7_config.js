@@ -1,1 +1,1 @@
-var mnemonic = "celery mind olive worry awesome excess develop olive parent arrive month name";
+var mnemonic = "gift hole advice street region survey era improve cement youth wear genius";

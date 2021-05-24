@@ -1,1 +1,1 @@
-var mnemonic = "giant rhythm danger volcano twist flat boost bar visa enter sail oxygen";
+var mnemonic = "flat bargain finger soldier govern few swallow tomorrow machine treat major region";

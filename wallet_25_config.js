@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog siege tell recipe grace tortoise plug umbrella bus deposit paddle tool";
+var mnemonic = "awkward average uncover legal cannon mobile taxi shop stock attack dutch talk";

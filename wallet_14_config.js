@@ -1,1 +1,1 @@
-var mnemonic = "guilt test witness library crawl clay oven result page evoke fiction hip";
+var mnemonic = "general junior layer replace bean fresh away start very great conduct teach";

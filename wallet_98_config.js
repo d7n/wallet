@@ -1,1 +1,1 @@
-var mnemonic = "lava sport leave future success prison expand unlock enlist special topple payment";
+var mnemonic = "chief seek plate plastic behave bounce shoe sister damp right waste brain";

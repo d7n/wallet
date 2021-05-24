@@ -1,1 +1,1 @@
-var mnemonic = "luggage occur valid warm wage enhance bonus royal vehicle focus orient once";
+var mnemonic = "ice order area salad permit drive faith garage unaware tobacco battle unique";

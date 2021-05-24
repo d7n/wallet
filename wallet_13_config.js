@@ -1,1 +1,1 @@
-var mnemonic = "throw blanket mobile salt hidden sketch infant rough abstract sleep velvet adjust";
+var mnemonic = "speed spoil rose heart stereo walnut turn success dolphin spy head hill";

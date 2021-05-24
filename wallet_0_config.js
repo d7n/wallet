@@ -1,1 +1,1 @@
-var mnemonic = "sea mule tomato net symbol aim become fade rose split draft lava";
+var mnemonic = "copy list better involve mimic trophy tackle zero bench donkey asthma output";

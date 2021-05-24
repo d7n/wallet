@@ -1,1 +1,1 @@
-var mnemonic = "sister elevator rabbit broccoli chimney dream grief perfect layer harvest march dolphin";
+var mnemonic = "purity rhythm rubber side popular ribbon adapt property teach same replace orchard";

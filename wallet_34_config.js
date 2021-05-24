@@ -1,1 +1,1 @@
-var mnemonic = "wife praise network wife earth service balcony absurd enable wealth trim either";
+var mnemonic = "draft vehicle amused expire spare rail cushion chalk tent fame still tattoo";

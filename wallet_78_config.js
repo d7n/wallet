@@ -1,1 +1,1 @@
-var mnemonic = "rally involve claim lamp adult name brown milk identify worry pizza air";
+var mnemonic = "glue assist sunny blind city thumb saddle climb arch barrel danger nature";

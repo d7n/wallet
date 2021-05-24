@@ -1,1 +1,1 @@
-var mnemonic = "ship derive foster gun blame solar nerve balcony clean inform object rubber";
+var mnemonic = "labor manage satoshi mule tone inject merry produce flavor mistake target soup";

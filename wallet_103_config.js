@@ -1,1 +1,1 @@
-var mnemonic = "squirrel early jazz share client spare build drink return question bean consider";
+var mnemonic = "lottery type bargain unique belt document tomato plastic wild vocal foster joy";

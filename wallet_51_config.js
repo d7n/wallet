@@ -1,1 +1,1 @@
-var mnemonic = "shallow chronic donor ivory secret enemy blade ship glow high frown bamboo";
+var mnemonic = "dolphin kingdom report ankle save whip lottery lesson strike mandate project pioneer";

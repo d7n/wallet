@@ -1,1 +1,1 @@
-var mnemonic = "direct uniform ladder border teach century fix page space swear open armor";
+var mnemonic = "faint earth jealous noodle idea young team athlete peanut banner choice aware";

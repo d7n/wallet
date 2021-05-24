@@ -1,1 +1,1 @@
-var mnemonic = "pool frequent that gloom horror donate salmon idea cost satisfy then lucky";
+var mnemonic = "juice tumble submit royal trend farm own boost gravity report describe seminar";

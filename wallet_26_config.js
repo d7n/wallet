@@ -1,1 +1,1 @@
-var mnemonic = "trouble prepare shed equip evil debris rural wheat balance utility depart cricket";
+var mnemonic = "coffee toy couple gap close split position assume tomorrow minor legal bench";

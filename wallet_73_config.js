@@ -1,1 +1,1 @@
-var mnemonic = "glance betray summer until boss bounce oblige kitchen dawn plate manage airport";
+var mnemonic = "social twelve extend found nothing conduct grit empty cash modify metal kite";

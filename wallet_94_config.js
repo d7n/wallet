@@ -1,1 +1,1 @@
-var mnemonic = "fury family cereal situate crawl inspire speed add spike arena worry cloth";
+var mnemonic = "text room lumber foster scorpion summer whip undo south pig zone desert";

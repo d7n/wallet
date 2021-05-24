@@ -1,1 +1,1 @@
-var mnemonic = "museum junk floor acquire federal math client pause income broom wealth finish";
+var mnemonic = "employ immense identify convince lens reveal rough owner above mass ugly expand";

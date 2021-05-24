@@ -1,1 +1,1 @@
-var mnemonic = "regular echo amazing wire agree awake spice age green spider private nuclear";
+var mnemonic = "dove blast vanish popular device slow room erupt share gadget slogan forward";

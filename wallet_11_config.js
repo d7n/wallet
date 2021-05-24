@@ -1,1 +1,1 @@
-var mnemonic = "bounce vibrant know random dune urge damage adult grass one cool mammal";
+var mnemonic = "find prize great reunion decorate hard lizard seminar manual again orphan demand";

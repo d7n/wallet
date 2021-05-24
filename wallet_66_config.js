@@ -1,1 +1,1 @@
-var mnemonic = "glimpse enforce muffin marble hotel reward total melody visual exit minor arch";
+var mnemonic = "aerobic safe inject athlete special crew mom venture drum boil smart copy";

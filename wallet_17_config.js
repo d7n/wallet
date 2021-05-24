@@ -1,1 +1,1 @@
-var mnemonic = "mother uniform super stamp police suit price pear cigar head leaf seat";
+var mnemonic = "much jazz garlic tissue scale media blur any pepper glide exotic lawsuit";

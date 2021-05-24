@@ -1,1 +1,1 @@
-var mnemonic = "loan fiscal food school abuse master clump tonight sketch athlete color wagon";
+var mnemonic = "rural above farm stomach elbow gravity silver slide decide dawn glide merge";

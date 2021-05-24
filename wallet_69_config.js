@@ -1,1 +1,1 @@
-var mnemonic = "alert omit sort ski youth people absent wage budget inspire inner quantum";
+var mnemonic = "fame cradle uphold install color chase balcony purpose shock accident sister potato";

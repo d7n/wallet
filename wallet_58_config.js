@@ -1,1 +1,1 @@
-var mnemonic = "crisp mango slogan size cram wolf gain word odor attitude swear razor";
+var mnemonic = "ketchup horse tomorrow asset hotel lock nose swear snap wrap brass coast";

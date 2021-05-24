@@ -1,1 +1,1 @@
-var mnemonic = "consider eagle puppy can tenant capital solve enrich amateur aerobic winter vapor";
+var mnemonic = "valid valve truly mirror loyal open sponsor genre million decrease muscle pig";

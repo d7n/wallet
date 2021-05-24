@@ -1,1 +1,1 @@
-var mnemonic = "year job fiber fly hour market ride impose portion tired clutch coil";
+var mnemonic = "shed gown morning van suggest average myself office urban undo potato vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus wrap zero method flag long toe seek desert sudden city forward";
+var mnemonic = "mule pupil juice visa atom nerve resource rigid height give try current";

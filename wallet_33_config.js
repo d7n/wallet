@@ -1,1 +1,1 @@
-var mnemonic = "minimum amateur file label session book lock wonder donor satoshi rich chicken";
+var mnemonic = "bunker raise proof time ability magnet wish ramp exact letter cabbage boil";

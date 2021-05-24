@@ -1,1 +1,1 @@
-var mnemonic = "item another random weapon dumb surge various few oyster blood early mechanic";
+var mnemonic = "glory clap rebuild squeeze shove among bunker fade panic tissue option shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "legal learn tell world feed hospital blur ranch grunt pipe shrug leave";
+var mnemonic = "flame engage nothing tank anxiety unit avoid debris crucial pistol place kidney";

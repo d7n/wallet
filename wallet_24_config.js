@@ -1,1 +1,1 @@
-var mnemonic = "claim embrace leader tomato suspect venue ranch taste celery sort teach admit";
+var mnemonic = "armor other journey tag humor voyage web tag program pottery cube hurry";

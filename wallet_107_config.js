@@ -1,1 +1,1 @@
-var mnemonic = "shop angle scrap leisure cement chat hip crater fee valid turn census";
+var mnemonic = "tourist swim orbit drill over error segment drift heart mom grunt company";

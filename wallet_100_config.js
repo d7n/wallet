@@ -1,1 +1,1 @@
-var mnemonic = "gather mirror order nurse hero myself people system main order boy feel";
+var mnemonic = "envelope property dragon laugh surge outer connect pipe leader behave float assist";

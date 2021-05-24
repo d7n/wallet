@@ -1,1 +1,1 @@
-var mnemonic = "able zone erase fiber situate save write leopard reward patrol tool gaze";
+var mnemonic = "since muscle laptop hunt edge element sheriff radar path follow just song";

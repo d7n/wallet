@@ -1,1 +1,1 @@
-var mnemonic = "thing priority weird unaware annual pole resource keen borrow brave auction mobile";
+var mnemonic = "plate ignore west floor uncle kiwi ocean shield song focus machine visit";

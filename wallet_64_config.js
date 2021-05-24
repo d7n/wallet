@@ -1,1 +1,1 @@
-var mnemonic = "nerve common recall wool cover gentle effort grain flame sting hope pigeon";
+var mnemonic = "whisper client wink fame gallery afford cram seed chaos nephew often when";

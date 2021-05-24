@@ -1,1 +1,1 @@
-var mnemonic = "thumb access pioneer ability feature pill glove impact piano mesh help youth";
+var mnemonic = "sustain dwarf typical proof still fortune liar bus sense address current also";

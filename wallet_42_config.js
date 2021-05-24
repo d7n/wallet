@@ -1,1 +1,1 @@
-var mnemonic = "crush cement picnic oven orbit universe purchase notice corn round genius review";
+var mnemonic = "kiss short diary lady price master belt slush timber piece about cotton";

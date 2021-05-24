@@ -1,1 +1,1 @@
-var mnemonic = "account arch fix tennis cabin universe orchard casino reveal neck secret drum";
+var mnemonic = "check sheriff toast hen coral venue meat banner fat mad theory drink";

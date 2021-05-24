@@ -1,1 +1,1 @@
-var mnemonic = "initial code youth element wood style olympic dry cactus nephew story lunch";
+var mnemonic = "rate crunch crowd alpha indoor same jazz script enable strike shrug cream";

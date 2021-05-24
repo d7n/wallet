@@ -1,1 +1,1 @@
-var mnemonic = "cash charge acoustic path atom diet okay shove giggle saddle grit transfer";
+var mnemonic = "auction audit loyal romance try spin can devote recipe boat immense time";

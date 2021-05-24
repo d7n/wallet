@@ -1,1 +1,1 @@
-var mnemonic = "announce ability fancy protect artist make animal stumble miss frog disease extra";
+var mnemonic = "exclude road they yard live rival shock sleep defy prefer attitude ocean";

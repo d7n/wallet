@@ -1,1 +1,1 @@
-var mnemonic = "coach primary wild pottery second toe genius biology bag wall fun misery";
+var mnemonic = "lecture peace wide budget juice finger genuine settle barrel frown wreck engage";

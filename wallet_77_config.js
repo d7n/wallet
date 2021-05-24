@@ -1,1 +1,1 @@
-var mnemonic = "cash pelican light fragile guess will anger impact habit basket bean vault";
+var mnemonic = "skill miracle tooth infant happy soldier ethics wool urge circle body unfold";

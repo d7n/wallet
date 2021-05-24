@@ -1,1 +1,1 @@
-var mnemonic = "edge trick shock bargain royal final can next actress sea canvas tomorrow";
+var mnemonic = "document acid topple ridge various aerobic hunt hotel code phone symbol very";

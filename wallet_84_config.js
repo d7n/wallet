@@ -1,1 +1,1 @@
-var mnemonic = "shiver scale below oil eager please eternal phrase grape employ universe odor";
+var mnemonic = "alpha unique barrel photo year lesson total also uncover oval same elegant";

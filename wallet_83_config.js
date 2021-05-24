@@ -1,1 +1,1 @@
-var mnemonic = "soft involve sunset fog torch ivory grab pink delay wear palace toy";
+var mnemonic = "tuition nation snake airport thrive sausage hood ignore image disorder decorate pizza";

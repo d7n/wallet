@@ -1,1 +1,1 @@
-var mnemonic = "cruel radio off grab illegal pledge else require doctor pipe aspect ski";
+var mnemonic = "south lunar sunset case frozen village token rescue pulse notice federal normal";

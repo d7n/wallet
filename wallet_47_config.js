@@ -1,1 +1,1 @@
-var mnemonic = "toy impose twin weather notable gap horse bachelor rely trust royal wait";
+var mnemonic = "alter pizza slow young dentist similar exchange deer quarter quit only sock";

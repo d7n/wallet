@@ -1,1 +1,1 @@
-var mnemonic = "inspire teach price guilt immense barely sponsor luxury scene minor man fuel";
+var mnemonic = "lucky manage rack service useful now frog exercise vehicle note collect stool";

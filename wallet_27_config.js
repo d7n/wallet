@@ -1,1 +1,1 @@
-var mnemonic = "spawn rare forward useful grunt spread gown prefer wild surface salt grass";
+var mnemonic = "unveil print mail youth chunk front stool ecology issue supreme strategy tongue";

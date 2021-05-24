@@ -1,1 +1,1 @@
-var mnemonic = "suffer crowd total wrap remove crouch burden green voyage pyramid hold surprise";
+var mnemonic = "enable switch lucky offer wedding other invest story drum stairs level devote";

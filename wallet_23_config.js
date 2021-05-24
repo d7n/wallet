@@ -1,1 +1,1 @@
-var mnemonic = "image galaxy gate rival flame glow ancient garlic device child club cycle";
+var mnemonic = "walnut notice infant bread trend zone dignity diet retire crack version final";

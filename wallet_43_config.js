@@ -1,1 +1,1 @@
-var mnemonic = "charge dog upper umbrella tortoise memory mix taste vintage scout enroll smooth";
+var mnemonic = "lab spin two plate exit hint pool garage spend fly obscure reject";

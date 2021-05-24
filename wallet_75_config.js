@@ -1,1 +1,1 @@
-var mnemonic = "onion shove dizzy quality move buyer oblige before auto stem lava despair";
+var mnemonic = "cigar behind wave maid celery assume price share tone object lock give";

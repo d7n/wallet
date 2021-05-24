@@ -1,1 +1,1 @@
-var mnemonic = "barely typical marble please key butter table emerge humor mobile upper joy";
+var mnemonic = "begin rotate usage nice youth pistol biology child depend foot bundle dust";

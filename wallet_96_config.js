@@ -1,1 +1,1 @@
-var mnemonic = "merit kitten fog board elbow loop foster pact length bottom dwarf climb";
+var mnemonic = "topple pizza token window embrace beef argue menu cheap shoe divert domain";

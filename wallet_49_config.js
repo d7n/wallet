@@ -1,1 +1,1 @@
-var mnemonic = "decline check mistake intact crop alley pizza book quit disagree future elite";
+var mnemonic = "pulp science crowd panther circle ice year multiply guide either near dose";

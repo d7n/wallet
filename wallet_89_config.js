@@ -1,1 +1,1 @@
-var mnemonic = "marine tonight comfort atom senior invite caught two slam image index pattern";
+var mnemonic = "caution vacuum price clip uncle genuine sketch blossom afford like myth alcohol";

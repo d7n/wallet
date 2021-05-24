@@ -1,1 +1,1 @@
-var mnemonic = "extra seven property knock taste explain peace bless sun price asset garbage";
+var mnemonic = "grid grow rubber immune crouch wave lunch dry hotel meadow cupboard gesture";

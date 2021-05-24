@@ -1,1 +1,1 @@
-var mnemonic = "truth ticket guess stay adapt team desk mountain present tell inmate nose";
+var mnemonic = "apple travel asthma escape seminar acoustic inspire unknown unable media comic jungle";

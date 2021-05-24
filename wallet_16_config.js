@@ -1,1 +1,1 @@
-var mnemonic = "admit gap rain parent hockey hurry pilot castle term tomato decide arrive";
+var mnemonic = "reward decide come script awesome cover display sphere digital cattle trust provide";

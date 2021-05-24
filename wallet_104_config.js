@@ -1,1 +1,1 @@
-var mnemonic = "involve curtain boat rich city play mix eagle attack agree minor claim";
+var mnemonic = "upgrade mouse coach south drift zero benefit kiss figure song timber client";

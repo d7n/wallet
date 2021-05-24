@@ -1,1 +1,1 @@
-var mnemonic = "buffalo noodle waste mammal midnight churn chapter sorry dash various satoshi legend";
+var mnemonic = "wonder local surge tornado hole adjust check exile problem tag isolate toddler";

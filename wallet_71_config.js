@@ -1,1 +1,1 @@
-var mnemonic = "pull sauce despair hobby inflict guide answer salad loan coil involve talk";
+var mnemonic = "magic word diary media actress small marriage original matter radar symbol park";
