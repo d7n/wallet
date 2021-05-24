@@ -1,1 +1,1 @@
-var mnemonic = "lend rigid excuse opinion upon win wrist bid quote session prosper master";
+var mnemonic = "average nerve dash oyster repeat child vacant warfare view noise loop dish";

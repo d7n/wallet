@@ -1,1 +1,1 @@
-var mnemonic = "gospel raccoon improve leisure innocent aware chest better obscure sunny retire vintage";
+var mnemonic = "tray effort crime moon sign input riot hint verify discover book enough";

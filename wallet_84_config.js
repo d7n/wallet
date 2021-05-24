@@ -1,1 +1,1 @@
-var mnemonic = "vote valve lamp duty observe mystery fame ozone spoon happy tobacco swift";
+var mnemonic = "post speed toddler save price engine century sign swift ostrich wrist harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "measure powder brave couple zoo glad unable cute media project cage prosper";
+var mnemonic = "initial because nose senior come album group vicious good indicate imitate blush";

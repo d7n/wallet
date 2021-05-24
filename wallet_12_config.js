@@ -1,1 +1,1 @@
-var mnemonic = "action thing end paddle gaze polar quantum obey relief comic nephew yard";
+var mnemonic = "initial round other despair dragon mammal bird fan inspire recipe used list";

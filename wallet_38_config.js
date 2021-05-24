@@ -1,1 +1,1 @@
-var mnemonic = "much will bundle client green present raven page permit undo lecture bitter";
+var mnemonic = "wood auction hand holiday quit job remind empower tool patient ripple cotton";

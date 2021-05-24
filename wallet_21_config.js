@@ -1,1 +1,1 @@
-var mnemonic = "purpose zone click elder olympic labor eyebrow critic model rotate report hold";
+var mnemonic = "clay main sense wear essay surround fever tunnel west satoshi hurt penalty";

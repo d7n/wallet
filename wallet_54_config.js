@@ -1,1 +1,1 @@
-var mnemonic = "curious rain tuna toddler diagram mixed entire forget purse six timber eyebrow";
+var mnemonic = "rack neither behind scatter grape tumble faint ramp dress stamp warrior fox";

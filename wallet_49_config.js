@@ -1,1 +1,1 @@
-var mnemonic = "delay govern brother spring idea spring rough leader aerobic exist kid discover";
+var mnemonic = "trial since post bench wage soccer then absorb cousin chicken hip shed";

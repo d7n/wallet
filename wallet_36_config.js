@@ -1,1 +1,1 @@
-var mnemonic = "bulk surprise shrimp barely loan mention edge correct helmet poem bargain upset";
+var mnemonic = "person length arrest convince arch runway matter neither step shove fork live";

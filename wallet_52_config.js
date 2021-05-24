@@ -1,1 +1,1 @@
-var mnemonic = "ignore learn length tooth mouse wheat tortoise river globe marble cover kick";
+var mnemonic = "diamond idle undo toe gather retreat pluck stay lamp man bike bounce";

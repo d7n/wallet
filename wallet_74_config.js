@@ -1,1 +1,1 @@
-var mnemonic = "brick giraffe wish chronic broccoli onion struggle ostrich penalty buyer surge patient";
+var mnemonic = "style text dial stool best mistake length mouse prevent curious virtual about";

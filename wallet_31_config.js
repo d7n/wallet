@@ -1,1 +1,1 @@
-var mnemonic = "couple depth grow fatal nest foil ugly differ final check whale uncover";
+var mnemonic = "super hello zone powder suit lunch diet churn saddle human adult damp";

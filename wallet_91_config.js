@@ -1,1 +1,1 @@
-var mnemonic = "absurd expose ecology economy hold employ breeze trash enforce decline doctor race";
+var mnemonic = "surge local settle deliver loyal flat margin when amused lend lock false";

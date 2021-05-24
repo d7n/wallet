@@ -1,1 +1,1 @@
-var mnemonic = "party rice remain brass face allow flat test tourist wage moral coral";
+var mnemonic = "garden script decrease syrup chest special polar obey lottery ready steak upset";

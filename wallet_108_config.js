@@ -1,1 +1,1 @@
-var mnemonic = "mind donor bamboo develop amateur sting globe trick believe movie combine drift";
+var mnemonic = "exotic adjust creek employ opera visa educate pledge sunny liberty zone limit";

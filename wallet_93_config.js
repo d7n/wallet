@@ -1,1 +1,1 @@
-var mnemonic = "ecology into focus gun swap indoor reflect protect delay hour alien solid";
+var mnemonic = "price pilot voyage universe nasty display furnace auction capital umbrella nut base";

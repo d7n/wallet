@@ -1,1 +1,1 @@
-var mnemonic = "achieve across custom cradle ahead sword option obscure sell vacuum cook arrange";
+var mnemonic = "glare scissors repair century enjoy dance fatigue slogan trial satoshi black piece";

@@ -1,1 +1,1 @@
-var mnemonic = "library skate couple cushion host guide weapon finish stock mosquito hub neglect";
+var mnemonic = "cancel toe owner ride struggle differ liar tired describe east alarm broken";

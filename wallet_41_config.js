@@ -1,1 +1,1 @@
-var mnemonic = "stadium own slot broccoli heavy valve cigar festival broccoli farm marine shine";
+var mnemonic = "traffic earn owner powder forward canvas clock double pulse noise camp absurd";

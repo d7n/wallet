@@ -1,1 +1,1 @@
-var mnemonic = "payment fabric token bounce emerge enough spare oil shoe speed blue control";
+var mnemonic = "clerk shock cluster liar eye desk horn math scatter very egg horse";

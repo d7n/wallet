@@ -1,1 +1,1 @@
-var mnemonic = "wage only motion above cousin brand mango concert device crumble rebuild harbor";
+var mnemonic = "ball agent satisfy merry toe broccoli name benefit virtual candy original visit";

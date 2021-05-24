@@ -1,1 +1,1 @@
-var mnemonic = "cover clock unfair oval half hero menu gossip live left easy shaft";
+var mnemonic = "risk net kick glare position gloom valid federal slot disease wild sugar";

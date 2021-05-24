@@ -1,1 +1,1 @@
-var mnemonic = "carry exit vessel okay subway major friend famous daughter tenant ginger nut";
+var mnemonic = "south split rabbit merge brush route fitness member code mom grit shield";

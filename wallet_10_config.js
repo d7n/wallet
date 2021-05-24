@@ -1,1 +1,1 @@
-var mnemonic = "agree pilot giant hospital resist eagle family coach blast rib result crew";
+var mnemonic = "soap auction frost another alpha winter matrix wine write chase enforce glare";

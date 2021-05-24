@@ -1,1 +1,1 @@
-var mnemonic = "estate nothing noise slide hospital choice already adult alarm behind damage improve";
+var mnemonic = "crop wink kite code employ force off parent enjoy hero message mother";

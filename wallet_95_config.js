@@ -1,1 +1,1 @@
-var mnemonic = "world trophy slow donkey token run manual roast spell raw extra crater";
+var mnemonic = "copy ramp measure army buffalo hero capable exist hope enjoy fury raw";

@@ -1,1 +1,1 @@
-var mnemonic = "circle adjust manage join quick state bargain barrel visual pluck punch hen";
+var mnemonic = "bicycle humor glow junk put swim decline utility buffalo tower meadow guess";

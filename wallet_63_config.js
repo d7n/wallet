@@ -1,1 +1,1 @@
-var mnemonic = "blind evidence spice kick success enrich follow letter range neutral expect social";
+var mnemonic = "soap weather cause fix outer pony picnic outside damp sound squirrel bounce";

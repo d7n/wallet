@@ -1,1 +1,1 @@
-var mnemonic = "ribbon odor edit blur patch verb tent script caution stuff piece glimpse";
+var mnemonic = "kidney security large knee vapor ladder remind offer baby base survey garbage";

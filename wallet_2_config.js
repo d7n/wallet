@@ -1,1 +1,1 @@
-var mnemonic = "ozone learn debris vacant scorpion original short blush give name casual bread";
+var mnemonic = "help also secret song divorce broom naive pitch gravity lawsuit rural dose";

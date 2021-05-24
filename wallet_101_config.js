@@ -1,1 +1,1 @@
-var mnemonic = "remain genuine enough half outdoor theme dumb anchor west process beauty wise";
+var mnemonic = "much ethics journey chalk castle blind fire cruise canal bonus knock awake";

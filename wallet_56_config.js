@@ -1,1 +1,1 @@
-var mnemonic = "emerge copper raise purity scan raccoon music lottery draft obvious much cluster";
+var mnemonic = "uncover chat install cage mercy oven blade antenna oyster host mistake void";

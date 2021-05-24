@@ -1,1 +1,1 @@
-var mnemonic = "cash swamp panda pull gather blue allow custom legal adjust card verify";
+var mnemonic = "ozone coin frog trumpet similar tail bone glass surge pill blind barrel";

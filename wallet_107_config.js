@@ -1,1 +1,1 @@
-var mnemonic = "during fabric perfect obscure artist spy envelope swap announce slight vault athlete";
+var mnemonic = "rocket also just high office real oak resist oyster dance sting venue";

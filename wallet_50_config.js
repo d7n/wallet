@@ -1,1 +1,1 @@
-var mnemonic = "quick radio method sibling lawn catch never truth tongue cram weird attend";
+var mnemonic = "trick anger lunch awkward assume valley artist assume metal knee strategy fabric";

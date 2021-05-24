@@ -1,1 +1,1 @@
-var mnemonic = "hour hair differ any always bike cricket plastic extra bag album visual";
+var mnemonic = "problem tongue noise upper mean gentle radar invest liquid quit awesome dish";

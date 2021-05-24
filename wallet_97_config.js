@@ -1,1 +1,1 @@
-var mnemonic = "city leader bacon sport tattoo lawn tray magnet hazard method aerobic galaxy";
+var mnemonic = "detail finger reject host speak fantasy wrestle trumpet crouch sweet win suit";

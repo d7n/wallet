@@ -1,1 +1,1 @@
-var mnemonic = "mesh unable stereo trash corn space happy person quarter butter comic joy";
+var mnemonic = "bleak latin wing leopard token when hospital same turn occur luggage return";

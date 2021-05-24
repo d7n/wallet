@@ -1,1 +1,1 @@
-var mnemonic = "ticket crystal fortune concert memory define tide grass outer sphere exit cabbage";
+var mnemonic = "drip claw nominee food minute huge salute album shoe local punch deliver";

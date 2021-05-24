@@ -1,1 +1,1 @@
-var mnemonic = "category student appear sunny lamp stick lab shoe deal off guess lunch";
+var mnemonic = "neutral model pear abandon squirrel ice live stove obey table wheel miss";

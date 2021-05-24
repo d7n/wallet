@@ -1,1 +1,1 @@
-var mnemonic = "soon wagon execute carry gasp puppy loud milk rely apple sniff music";
+var mnemonic = "cousin build where orphan hover tray gift hover author hurt drop dice";

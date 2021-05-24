@@ -1,1 +1,1 @@
-var mnemonic = "spend unable fish device decide blade scare train naive hidden surround fruit";
+var mnemonic = "okay leaf visit panda absorb doll salmon summer burst congress quantum water";

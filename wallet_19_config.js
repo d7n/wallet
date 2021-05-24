@@ -1,1 +1,1 @@
-var mnemonic = "actual enforce enter slab horn manage drip boat wife rebuild story grace";
+var mnemonic = "grass hour cute electric arctic own work beef hat slush weapon candy";

@@ -1,1 +1,1 @@
-var mnemonic = "budget gown arctic pill deposit barely pigeon produce mule cousin talent exact";
+var mnemonic = "ridge smart pretty thought ancient tortoise snake tourist chat disorder weekend salute";

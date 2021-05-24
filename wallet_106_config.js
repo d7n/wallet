@@ -1,1 +1,1 @@
-var mnemonic = "dentist blood sniff awful soap broccoli rate task segment elder kingdom august";
+var mnemonic = "spider merge garage pilot world among metal negative ice hundred cry way";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito vapor upper cover dress zoo embody muffin inner radar area promote";
+var mnemonic = "early pact model exotic lake roast tiny able tomato bridge rebel symbol";

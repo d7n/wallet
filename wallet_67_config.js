@@ -1,1 +1,1 @@
-var mnemonic = "business method student ramp deal fiscal second able moon turn approve mule";
+var mnemonic = "chapter place ladder any concert today because oyster perfect fly horn soldier";

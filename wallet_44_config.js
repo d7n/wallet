@@ -1,1 +1,1 @@
-var mnemonic = "farm leader release powder invite token strong unable share world urban machine";
+var mnemonic = "oblige verb owner fatal beef ankle tomorrow auto keep lawsuit pilot tobacco";

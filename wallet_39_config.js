@@ -1,1 +1,1 @@
-var mnemonic = "million key feed clay toast bag protect swear baby cute daughter faint";
+var mnemonic = "couple network drift drive patient grid work number target engage throw loan";

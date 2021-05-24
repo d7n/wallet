@@ -1,1 +1,1 @@
-var mnemonic = "fatal race egg equip impact carry double across view afford kiwi victory";
+var mnemonic = "custom thank before penalty matter opera trade tattoo pause help record fork";

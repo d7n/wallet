@@ -1,1 +1,1 @@
-var mnemonic = "rifle sport leg hire jaguar trumpet imitate please goat private industry target";
+var mnemonic = "leave keep anchor city diesel baby naive because price tragic couple pelican";

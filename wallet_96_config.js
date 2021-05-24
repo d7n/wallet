@@ -1,1 +1,1 @@
-var mnemonic = "clutch radio switch palace mention panic fashion wife exclude urban rely thank";
+var mnemonic = "truck beyond travel sure ordinary zone buzz popular stairs pepper pencil giant";

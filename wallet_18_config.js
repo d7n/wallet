@@ -1,1 +1,1 @@
-var mnemonic = "fence favorite hen wish duck place method squirrel cradle early affair slot";
+var mnemonic = "cup next civil rain lens hazard float pill airport raccoon super note";

@@ -1,1 +1,1 @@
-var mnemonic = "trap simple hazard device amazing plunge romance excite want butter drill major";
+var mnemonic = "sunny issue tortoise illegal squirrel outdoor rail idea frame copy filter broken";

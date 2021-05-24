@@ -1,1 +1,1 @@
-var mnemonic = "avocado just river dial uphold laugh spot material drum claw rack minor";
+var mnemonic = "arrive twist century sponsor work arm ridge guitar rapid dentist foam turn";

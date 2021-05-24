@@ -1,1 +1,1 @@
-var mnemonic = "sister art vault gate oven want early diesel fruit velvet silver struggle";
+var mnemonic = "unable favorite salmon sponsor faint hurry damage grape trend chief bullet moment";

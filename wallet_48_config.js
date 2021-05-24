@@ -1,1 +1,1 @@
-var mnemonic = "begin buddy blossom vessel mutual trim rich trust idle cement alone utility";
+var mnemonic = "february inside point north clever seminar gentle disagree butter castle grain cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "topple grit remove now rural total put before raccoon cry system hotel";
+var mnemonic = "either brown faint cannon rally soap anxiety rude arena weekend fault kit";

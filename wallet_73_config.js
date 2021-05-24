@@ -1,1 +1,1 @@
-var mnemonic = "clutch near original gesture isolate bid peanut poverty arrest stairs alarm member";
+var mnemonic = "humble ability despair jump segment calm snake kite auto indoor cupboard frozen";

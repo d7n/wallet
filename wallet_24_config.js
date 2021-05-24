@@ -1,1 +1,1 @@
-var mnemonic = "symbol tuna antenna indicate own nerve focus sleep web purse trend doll";
+var mnemonic = "misery hungry legend domain enlist private sign junk pull letter load inch";

@@ -1,1 +1,1 @@
-var mnemonic = "catch shoe pride march cute use picture buyer impulse airport ecology people";
+var mnemonic = "build ankle disease grunt urge market phrase bullet detect dream ten picture";

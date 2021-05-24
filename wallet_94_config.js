@@ -1,1 +1,1 @@
-var mnemonic = "champion right crane dawn clap poem rifle trust name diamond bitter banana";
+var mnemonic = "route neither patrol carbon cheap endless into filter junior rib congress already";

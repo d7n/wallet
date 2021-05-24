@@ -1,1 +1,1 @@
-var mnemonic = "opera oil humor indoor exhaust sudden category robot salon fly cross gym";
+var mnemonic = "concert zone pistol message garment that slush federal area caution vital crumble";

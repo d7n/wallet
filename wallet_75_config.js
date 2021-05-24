@@ -1,1 +1,1 @@
-var mnemonic = "joy document dwarf blossom banner capable carry point hope wrap notice elegant";
+var mnemonic = "soul valve release question sort crime mushroom mosquito drastic angry rally sock";

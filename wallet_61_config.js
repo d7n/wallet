@@ -1,1 +1,1 @@
-var mnemonic = "rain text medal add filter drama grocery dune other tray split hope";
+var mnemonic = "fat scheme drama ticket frog lake sand foam follow connect farm olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "business brand leave again wolf list differ garlic miracle bomb seed fatal";
+var mnemonic = "month radio cream system click lizard drill lab mansion slot used avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "valid figure wood unlock coconut fox smoke burden enact history valid exchange";
+var mnemonic = "race project hammer amused frequent rebuild citizen fatal cannon fee march betray";

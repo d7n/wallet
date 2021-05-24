@@ -1,1 +1,1 @@
-var mnemonic = "shell nest theme belt elephant winner penalty peanut exact barrel crowd mesh";
+var mnemonic = "virus busy receive tornado exotic steel page deer pink van used friend";

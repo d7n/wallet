@@ -1,1 +1,1 @@
-var mnemonic = "audit space cousin pony bomb phone uphold leopard valve artwork bird expose";
+var mnemonic = "long powder artist present soon size symbol kitchen inherit artwork slow rifle";

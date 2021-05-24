@@ -1,1 +1,1 @@
-var mnemonic = "vacant people involve finger able rather feed exchange walk scene equip trouble";
+var mnemonic = "twenty barely umbrella scorpion rebel six drill thumb interest gaze gesture rich";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus zoo master dinner monitor orient sunny tell south near uncover cattle";
+var mnemonic = "fine wink absorb bulb critic taste term spoon nest delay brave banner";

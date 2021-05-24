@@ -1,1 +1,1 @@
-var mnemonic = "soccer feed bird recipe live quiz soup sing length identify rebel thumb";
+var mnemonic = "quarter clarify method inhale scheme shop attend educate wheat reflect tongue champion";

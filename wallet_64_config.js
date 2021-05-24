@@ -1,1 +1,1 @@
-var mnemonic = "parrot use stay wheat tuna soda essay proof celery rate market differ";
+var mnemonic = "slow quality similar aware stem siren dice fantasy when expand deliver roast";

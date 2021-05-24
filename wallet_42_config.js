@@ -1,1 +1,1 @@
-var mnemonic = "rabbit wrong auction huge school produce hotel where width deal wheel naive";
+var mnemonic = "until erode eye auction borrow find stage clay ensure merit window hundred";

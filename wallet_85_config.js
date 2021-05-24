@@ -1,1 +1,1 @@
-var mnemonic = "pave faith gorilla boss crunch february learn motion infant foot miracle ball";
+var mnemonic = "century panda insect young cover water august until dry twin equip stool";

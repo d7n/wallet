@@ -1,1 +1,1 @@
-var mnemonic = "mask live spare caution since plastic damp client spoil lion atom chapter";
+var mnemonic = "cup gasp menu develop elevator secret seminar festival certain spoil alarm enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle identify real guess dust tenant candy zebra concert spring wool receive";
+var mnemonic = "tail entry inquiry day hunt typical agree inhale sniff reward banana garage";

@@ -1,1 +1,1 @@
-var mnemonic = "genre cotton home stable violin cluster blanket crystal direct shadow magnet language";
+var mnemonic = "scrap require message venue expect pyramid pluck cash skull disorder fantasy already";

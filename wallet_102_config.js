@@ -1,1 +1,1 @@
-var mnemonic = "idea dizzy interest convince silly absurd access ugly discover run trap citizen";
+var mnemonic = "clean safe tell category hire kick exchange wrap require kitten glove sick";

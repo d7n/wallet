@@ -1,1 +1,1 @@
-var mnemonic = "thought crane point hair fluid viable planet index bright mercy cherry sting";
+var mnemonic = "job early board limb solution coast nation iron account subject life blame";

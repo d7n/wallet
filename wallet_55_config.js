@@ -1,1 +1,1 @@
-var mnemonic = "ceiling road arrest this dream invest brick jelly lunar taxi nephew city";
+var mnemonic = "army arrest party major inside either man drip mimic spray inform execute";

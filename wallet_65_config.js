@@ -1,1 +1,1 @@
-var mnemonic = "congress sadness convince love art such eye conduct soccer buyer lyrics foster";
+var mnemonic = "assist destroy online carpet margin damp pig zero chef unfold base time";

@@ -1,1 +1,1 @@
-var mnemonic = "merry bar possible impose public dentist swing real client general brush manual";
+var mnemonic = "wrist frown mango actual exercise tube worth fox lock drama ridge diary";

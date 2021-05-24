@@ -1,1 +1,1 @@
-var mnemonic = "horror panda art width tell trouble spring guide airport fantasy squirrel document";
+var mnemonic = "screen bunker stove clump then talent aerobic dune memory latin supreme title";

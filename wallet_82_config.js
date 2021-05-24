@@ -1,1 +1,1 @@
-var mnemonic = "sibling sadness give husband hope alone energy oven horse grocery raw faith";
+var mnemonic = "bright file entire tooth blind raw hard message control blue sketch law";

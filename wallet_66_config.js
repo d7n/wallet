@@ -1,1 +1,1 @@
-var mnemonic = "gain sense novel heavy photo lyrics pen oval hip country practice snake";
+var mnemonic = "rail uniform goat thunder wedding hour modify initial creek crucial intact enter";

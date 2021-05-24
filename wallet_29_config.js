@@ -1,1 +1,1 @@
-var mnemonic = "fatigue wolf wheat often agree receive digital garment steel guide globe economy";
+var mnemonic = "spike mother ship ladder proud nest goddess resource castle carpet order useful";

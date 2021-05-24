@@ -1,1 +1,1 @@
-var mnemonic = "green south aspect evolve wreck grunt hurry october awake route gaze leisure";
+var mnemonic = "battle border lion shadow family embody give nominee unaware close victory energy";

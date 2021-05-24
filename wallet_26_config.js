@@ -1,1 +1,1 @@
-var mnemonic = "media grief plate goose play field proud exchange defense topic scan sleep";
+var mnemonic = "gorilla egg funny brown example neither rally approve connect claw glass entire";

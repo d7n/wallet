@@ -1,1 +1,1 @@
-var mnemonic = "rescue roof inner employ lawn cereal army multiply adjust observe prevent canal";
+var mnemonic = "pull culture happy jacket couch green cat company firm foot orange vivid";

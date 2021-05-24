@@ -1,1 +1,1 @@
-var mnemonic = "usual wine inform brief nasty final black lake local rhythm physical decide";
+var mnemonic = "tide finish behind just denial use hope cheese appear envelope nuclear airport";

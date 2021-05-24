@@ -1,1 +1,1 @@
-var mnemonic = "start service please property liberty crime crime beach razor vital wrong ocean";
+var mnemonic = "roof toy cruise scrap toilet rookie there increase engage current rare model";

@@ -1,1 +1,1 @@
-var mnemonic = "crane chunk rose loud limb future hundred hub yellow setup hybrid agree";
+var mnemonic = "lottery rotate knee tone latin radio wise car sketch foot family talk";
