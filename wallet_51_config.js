@@ -1,1 +1,1 @@
-var mnemonic = "toilet garlic orient awful pen deal depart olympic language together certain mistake";
+var mnemonic = "tissue dinner black sample fever gospel actual buyer steak citizen hotel crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic unaware august grace depend electric brass shaft eagle clog raccoon physical";
+var mnemonic = "unaware predict ribbon hat sudden parrot doll hard vivid fence accident tenant";

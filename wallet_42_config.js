@@ -1,1 +1,1 @@
-var mnemonic = "garment shove follow soda mom limb dove link champion panda stage town";
+var mnemonic = "prepare congress tissue peasant often sail skill salon anger strategy regular know";

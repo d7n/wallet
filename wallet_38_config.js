@@ -1,1 +1,1 @@
-var mnemonic = "ship stay output knee exchange debris topic clump find maximum ten rural";
+var mnemonic = "traffic stock snow answer access despair loop void tongue second worry accuse";

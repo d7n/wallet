@@ -1,1 +1,1 @@
-var mnemonic = "lemon key later stuff tip hen glad army anxiety earth beef essay";
+var mnemonic = "submit balcony soup possible figure urge mirror august violin hood win problem";

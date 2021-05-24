@@ -1,1 +1,1 @@
-var mnemonic = "warfare gauge acid rely gain source ribbon toward file quality analyst narrow";
+var mnemonic = "draft undo summer conduct stable father marble life march rural couch enrich";

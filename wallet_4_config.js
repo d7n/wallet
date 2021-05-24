@@ -1,1 +1,1 @@
-var mnemonic = "woman oyster wrong rubber offer build boy near fatigue dizzy impose finger";
+var mnemonic = "age invite dismiss pumpkin solution daring foster twice pigeon critic frog intact";

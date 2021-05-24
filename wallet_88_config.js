@@ -1,1 +1,1 @@
-var mnemonic = "imitate soda skill stand wedding during again carpet analyst jeans twenty range";
+var mnemonic = "fee toast quit include punch draft strong face taxi canvas veteran patient";

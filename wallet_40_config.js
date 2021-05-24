@@ -1,1 +1,1 @@
-var mnemonic = "term ride soap noble bulb social scrap monkey coast pink loud industry";
+var mnemonic = "violin donor cook siren round churn negative leisure bind minimum drop regret";

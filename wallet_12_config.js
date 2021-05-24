@@ -1,1 +1,1 @@
-var mnemonic = "main lunch agent tail pottery unknown noise engine exotic junk answer slush";
+var mnemonic = "agent leave dolphin elbow urban craft bus can reveal rebuild trick tumble";

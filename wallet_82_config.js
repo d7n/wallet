@@ -1,1 +1,1 @@
-var mnemonic = "equal blade denial file token arrow same ahead weasel erase category seven";
+var mnemonic = "error popular chest erode casino rib draw bottom among mosquito journey amazing";

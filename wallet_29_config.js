@@ -1,1 +1,1 @@
-var mnemonic = "park book craft erase cereal domain spray miss wall hammer imitate prize";
+var mnemonic = "muscle renew napkin kidney pulse elbow neck venture iron sentence nasty spring";

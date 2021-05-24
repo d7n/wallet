@@ -1,1 +1,1 @@
-var mnemonic = "guilt wrong grain black pact corn sword park valid around chase welcome";
+var mnemonic = "gesture fragile twist cake dolphin myself marriage cup era crisp chronic fee";

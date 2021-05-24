@@ -1,1 +1,1 @@
-var mnemonic = "seed uphold desk script mom squeeze despair picture tornado sock appear often";
+var mnemonic = "glad save opera behind leave broccoli casino senior liberty disease aspect fork";

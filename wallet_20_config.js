@@ -1,1 +1,1 @@
-var mnemonic = "virtual tackle slow grass relief powder gold narrow goat figure shoe congress";
+var mnemonic = "mixture exchange undo direct nature assume tip split man aspect size office";

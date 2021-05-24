@@ -1,1 +1,1 @@
-var mnemonic = "crush wing defense foil crime occur vanish affair tribe cycle love boring";
+var mnemonic = "game pistol fragile alter robot frozen choice monkey early hello wool leisure";

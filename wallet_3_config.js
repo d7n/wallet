@@ -1,1 +1,1 @@
-var mnemonic = "bulk hole easily hunt sight wire shove install food admit abandon gentle";
+var mnemonic = "hero candy awesome shop critic chunk essence ugly grid coast situate echo";

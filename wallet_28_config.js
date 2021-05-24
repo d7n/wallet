@@ -1,1 +1,1 @@
-var mnemonic = "wagon later someone tree shed prosper help scrub rail portion fever forward";
+var mnemonic = "brass crane daughter result cross purchase race wonder require tilt struggle turkey";

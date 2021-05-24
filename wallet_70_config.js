@@ -1,1 +1,1 @@
-var mnemonic = "prison regret old fresh build curtain panic current mountain anxiety erosion decline";
+var mnemonic = "vivid olive gasp true balcony column extend lumber witness online eagle act";

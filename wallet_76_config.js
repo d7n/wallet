@@ -1,1 +1,1 @@
-var mnemonic = "turtle menu whale position mesh slide loan burden citizen fuel acquire cheap";
+var mnemonic = "coil debate chronic miracle sing equip torch frown wait safe twelve grab";

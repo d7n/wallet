@@ -1,1 +1,1 @@
-var mnemonic = "very food detail retreat broken gold exotic kit curtain divert glad frost";
+var mnemonic = "inject wait elder list warfare aware nest robot pottery bar lemon click";

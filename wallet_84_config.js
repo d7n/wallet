@@ -1,1 +1,1 @@
-var mnemonic = "patrol dawn fitness snake gift cushion disease seek target dizzy receive rule";
+var mnemonic = "acoustic car lunar follow leisure ozone pyramid walk undo token disorder swap";

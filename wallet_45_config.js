@@ -1,1 +1,1 @@
-var mnemonic = "shiver island motion talent address warm dash evidence movie win enlist impulse";
+var mnemonic = "web wet unique wet ankle scatter party plunge manage furnace skill lottery";

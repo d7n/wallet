@@ -1,1 +1,1 @@
-var mnemonic = "awesome immune dutch obey result hen another notable butter camp angle ten";
+var mnemonic = "mandate cigar shove grant oblige kiwi spoil below young village rabbit attract";

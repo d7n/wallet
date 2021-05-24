@@ -1,1 +1,1 @@
-var mnemonic = "frost slot mix adjust hero clown merry debris spoon rescue pond miracle";
+var mnemonic = "gesture huge vehicle cave iron lecture profit turkey cabbage dynamic wreck reduce";

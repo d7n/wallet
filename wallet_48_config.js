@@ -1,1 +1,1 @@
-var mnemonic = "barely squeeze ketchup black indicate vanish fabric exclude feel near runway lend";
+var mnemonic = "fix negative black body hospital coyote solid coral banana wage twist cash";

@@ -1,1 +1,1 @@
-var mnemonic = "they injury cloud rhythm derive fashion crucial farm final pledge wet avoid";
+var mnemonic = "olive library core course twice kite danger weather arctic above flash demise";

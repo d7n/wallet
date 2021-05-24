@@ -1,1 +1,1 @@
-var mnemonic = "begin talk million endless asset stamp exchange walk response road view praise";
+var mnemonic = "evolve target injury manual liberty mystery judge magic glare promote prosper whip";

@@ -1,1 +1,1 @@
-var mnemonic = "false dutch east nominee eyebrow physical glove joy cargo wage rug vessel";
+var mnemonic = "menu rabbit security mother arch rival copy mix mandate spell noble view";

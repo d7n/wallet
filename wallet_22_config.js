@@ -1,1 +1,1 @@
-var mnemonic = "speak toast depart humor west depend thumb fan pill normal couch party";
+var mnemonic = "live slow unaware lunch since combine focus ecology unaware early property cancel";

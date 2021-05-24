@@ -1,1 +1,1 @@
-var mnemonic = "floor measure autumn prefer again slow twice hero sketch caught student crop";
+var mnemonic = "bird essay merit lift army expose below must carry plate gold select";

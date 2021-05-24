@@ -1,1 +1,1 @@
-var mnemonic = "clap strong legal pond junk dice kiwi jump leave much clock nurse";
+var mnemonic = "spray orange govern matter fiction antique relief attend submit rescue apple dinner";

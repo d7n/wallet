@@ -1,1 +1,1 @@
-var mnemonic = "country blood test tomato shadow place laundry panic weapon scan length exchange";
+var mnemonic = "rotate almost roof donor toast leisure sound sleep juice boring cruel uphold";

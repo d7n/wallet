@@ -1,1 +1,1 @@
-var mnemonic = "snow siege document extend grocery rug afraid include remove enforce park prison";
+var mnemonic = "audit amount poet ensure major minimum logic have laugh rural black sugar";

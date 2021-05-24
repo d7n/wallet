@@ -1,1 +1,1 @@
-var mnemonic = "select fall climb develop always urge label armed vault dutch globe matter";
+var mnemonic = "hand flag ritual chase human asthma tortoise valley table net vast elevator";

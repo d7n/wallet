@@ -1,1 +1,1 @@
-var mnemonic = "taxi cabin wasp cattle loyal trade thank obtain page multiply feel major";
+var mnemonic = "veteran voyage book salmon swamp always usage auto that foil deer year";

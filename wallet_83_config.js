@@ -1,1 +1,1 @@
-var mnemonic = "injury idle labor clump prevent process tired boy manage fury song virtual";
+var mnemonic = "subject what funny wife verb love dragon aerobic toddler flash smile brass";

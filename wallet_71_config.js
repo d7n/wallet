@@ -1,1 +1,1 @@
-var mnemonic = "stomach plug couch dash august average fee crop help insane clerk cube";
+var mnemonic = "buyer input helmet whip view recall lawn legend october balance subway equip";

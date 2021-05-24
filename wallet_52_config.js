@@ -1,1 +1,1 @@
-var mnemonic = "lemon clutch noise foam humor sail struggle very infant best timber useless";
+var mnemonic = "prefer stumble stem acid load manual solution talk thought trim brain acquire";

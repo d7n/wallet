@@ -1,1 +1,1 @@
-var mnemonic = "airport breeze float please warm car dolphin curve body first track van";
+var mnemonic = "any medal trend embrace empower agent because erupt veteran lounge spoon throw";

@@ -1,1 +1,1 @@
-var mnemonic = "banana hospital mansion panel letter orbit gossip fun youth adult swear wisdom";
+var mnemonic = "dash adjust mandate jump dress outdoor sail copper nurse capable ahead best";

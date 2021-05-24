@@ -1,1 +1,1 @@
-var mnemonic = "else dilemma ankle access ahead drip paper chief under federal another midnight";
+var mnemonic = "lunar various enhance bless action suspect say finger dream wave plastic sample";

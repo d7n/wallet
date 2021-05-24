@@ -1,1 +1,1 @@
-var mnemonic = "gospel vibrant excess until chuckle side leaf sword toast alter choose bracket";
+var mnemonic = "adjust valley blouse analyst start punch educate when space response frozen wrap";

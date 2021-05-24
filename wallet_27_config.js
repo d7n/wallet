@@ -1,1 +1,1 @@
-var mnemonic = "dentist discover now patch month diary match feature buzz just myth chapter";
+var mnemonic = "cost initial repair build aspect basic adapt hello remain impact tiger novel";

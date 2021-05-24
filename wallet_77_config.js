@@ -1,1 +1,1 @@
-var mnemonic = "knife owner myth spell vehicle scissors clip hurry depart second volume wreck";
+var mnemonic = "beach warm visit vibrant evil state fire pledge travel poem pony zone";

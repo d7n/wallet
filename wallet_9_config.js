@@ -1,1 +1,1 @@
-var mnemonic = "hammer invest garage sing thank carbon curtain reveal estate guitar mother orbit";
+var mnemonic = "unfair coffee book exclude social label such end ancient swim trouble pill";

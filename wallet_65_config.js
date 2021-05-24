@@ -1,1 +1,1 @@
-var mnemonic = "topple owner tattoo illegal awesome settle game ignore earn seek cry camera";
+var mnemonic = "topic unable crane forward bargain knife marine century crystal unusual give muscle";

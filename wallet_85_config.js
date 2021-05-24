@@ -1,1 +1,1 @@
-var mnemonic = "mix thought merry buddy ridge tomorrow apart ankle rocket auto blossom ready";
+var mnemonic = "arm cinnamon brief scrap math kangaroo census sword fan fatal notice then";

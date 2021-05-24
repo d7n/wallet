@@ -1,1 +1,1 @@
-var mnemonic = "world hello open warrior rhythm actor visual title lawsuit panther hockey original";
+var mnemonic = "layer play weapon jeans flush jealous suit when area panther desk gaze";

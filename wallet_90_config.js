@@ -1,1 +1,1 @@
-var mnemonic = "old fancy toilet body hub private arena tell curious arrive swift battle";
+var mnemonic = "oak benefit tank quarter wonder retreat dumb shiver glue taxi turtle theme";

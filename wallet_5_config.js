@@ -1,1 +1,1 @@
-var mnemonic = "lounge voyage ginger parade resource history enable fish nephew base flame legal";
+var mnemonic = "celery enact cereal fuel route filter cloud powder story base auto raw";

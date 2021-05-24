@@ -1,1 +1,1 @@
-var mnemonic = "charge siege hollow anchor crater inside pistol harvest panic drastic near wait";
+var mnemonic = "cost royal holiday bean doll tomato kid wave tortoise smile child winner";

@@ -1,1 +1,1 @@
-var mnemonic = "cook cloud dice adapt steak unveil upset truth obey execute tube utility";
+var mnemonic = "mosquito agree humble spawn between bubble yellow denial blast various nuclear mail";

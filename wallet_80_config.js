@@ -1,1 +1,1 @@
-var mnemonic = "husband blouse enforce theory amount armor smart excite stuff sight wide pelican";
+var mnemonic = "sugar aunt elephant real include sample abandon emotion cave shove top present";

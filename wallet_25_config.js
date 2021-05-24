@@ -1,1 +1,1 @@
-var mnemonic = "orange athlete game miracle video boy deer slush melt asthma lounge advance";
+var mnemonic = "club borrow glory tragic lawsuit chief buzz dove small gun spatial feel";

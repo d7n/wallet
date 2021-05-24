@@ -1,1 +1,1 @@
-var mnemonic = "reflect sound tiger hero caught road hub wife never promote update jelly";
+var mnemonic = "blue income exchange inspire text hope spike dumb armor belt lumber never";

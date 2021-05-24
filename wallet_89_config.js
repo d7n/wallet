@@ -1,1 +1,1 @@
-var mnemonic = "daughter spell dwarf news wonder dune olympic evolve park sure stem kiss";
+var mnemonic = "crazy when copy impose hope snack tide metal catch style embody custom";

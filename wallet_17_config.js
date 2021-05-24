@@ -1,1 +1,1 @@
-var mnemonic = "club table certain fork skate senior cousin want ride road hand cancel";
+var mnemonic = "have just wagon adapt venue breeze indicate mixture party grass hotel blade";

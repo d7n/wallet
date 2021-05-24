@@ -1,1 +1,1 @@
-var mnemonic = "bike solution surface coach eager earth adjust that vivid funny sauce pistol";
+var mnemonic = "long brave soon true crawl tragic other trust among gold cake surprise";

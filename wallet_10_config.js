@@ -1,1 +1,1 @@
-var mnemonic = "begin profit habit thing gather forest seat jewel light gather blind fence";
+var mnemonic = "child leg badge range tree until caution athlete improve grow cluster gospel";

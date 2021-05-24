@@ -1,1 +1,1 @@
-var mnemonic = "actual hood wish divide width ecology buffalo dizzy arrest keen series cherry";
+var mnemonic = "birth book omit frozen roast indoor first siege axis among design youth";

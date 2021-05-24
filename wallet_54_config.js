@@ -1,1 +1,1 @@
-var mnemonic = "sea bubble hill kingdom play predict quick ozone erase grow dizzy rescue";
+var mnemonic = "awful wedding kid ribbon index alter drift immune hand soap magnet purpose";

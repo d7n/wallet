@@ -1,1 +1,1 @@
-var mnemonic = "dinner ankle beauty income phrase way dance team story vehicle pupil quit";
+var mnemonic = "vapor similar pair visa document grab like crane steak trigger clay mirror";

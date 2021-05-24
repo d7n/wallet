@@ -1,1 +1,1 @@
-var mnemonic = "accuse differ actor tail such beauty salt type mountain output piece involve";
+var mnemonic = "tell nature protect enlist few celery blame before mad raw left original";

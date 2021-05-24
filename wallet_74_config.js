@@ -1,1 +1,1 @@
-var mnemonic = "gate acid excess lottery wire sheriff pause pizza marine rocket permit mule";
+var mnemonic = "around adjust sheriff alone kit favorite snap cost vehicle cart attack update";

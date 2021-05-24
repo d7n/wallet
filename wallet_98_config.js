@@ -1,1 +1,1 @@
-var mnemonic = "small eyebrow track thrive jump heavy recall pact quality exotic friend process";
+var mnemonic = "genre cradle turkey wood very wave broom window proof manual aware venue";

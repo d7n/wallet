@@ -1,1 +1,1 @@
-var mnemonic = "auto mention safe foil bundle october donkey wheat burden simple bird outdoor";
+var mnemonic = "comic stick equal cement fee flight goose swap atom twin crystal debris";

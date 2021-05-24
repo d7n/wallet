@@ -1,1 +1,1 @@
-var mnemonic = "bread history erode advice path annual month engine claim crowd slide work";
+var mnemonic = "loud habit smile afford crash practice dish great omit exercise marriage correct";

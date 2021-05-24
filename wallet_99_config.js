@@ -1,1 +1,1 @@
-var mnemonic = "crack silk say mention pride discover gym enforce north mind lottery cart";
+var mnemonic = "duty panther lake curve famous end flash satisfy mind rose plug crack";

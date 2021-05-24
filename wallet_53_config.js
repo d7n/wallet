@@ -1,1 +1,1 @@
-var mnemonic = "learn warrior book supply yard manual gloom vocal twist way coil story";
+var mnemonic = "pulp unfair team project close cube mask labor keen usage busy album";

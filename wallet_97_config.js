@@ -1,1 +1,1 @@
-var mnemonic = "announce robot illness crazy arctic property immense system vivid soccer veteran ritual";
+var mnemonic = "follow side buzz clarify clay snack vintage girl notice drip truth dose";

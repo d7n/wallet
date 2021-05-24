@@ -1,1 +1,1 @@
-var mnemonic = "you melt search property amazing miss harbor april spirit robust comfort topple";
+var mnemonic = "squeeze joy orient option swarm like awake sketch produce copy pet sheriff";

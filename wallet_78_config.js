@@ -1,1 +1,1 @@
-var mnemonic = "diesel document camp frequent nuclear night social place lecture section swim tumble";
+var mnemonic = "speak rule mixture gain simple broom naive cook song wreck artefact useful";

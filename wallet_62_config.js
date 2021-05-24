@@ -1,1 +1,1 @@
-var mnemonic = "arrow stone shoot wide muscle someone lunar type engine three next crew";
+var mnemonic = "salad acid charge uphold awake paddle sorry catalog produce wonder alter decline";

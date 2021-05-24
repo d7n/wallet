@@ -1,1 +1,1 @@
-var mnemonic = "valley wheel share tonight response stumble banana celery flee nice toward soft";
+var mnemonic = "network practice buyer various process member coffee few vacuum denial fragile blouse";

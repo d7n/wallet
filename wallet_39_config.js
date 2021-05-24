@@ -1,1 +1,1 @@
-var mnemonic = "wheel peasant extend crowd first afford predict logic addict pepper stuff control";
+var mnemonic = "brisk over shoulder there luxury lawn ocean toddler abandon real emotion sing";

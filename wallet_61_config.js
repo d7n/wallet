@@ -1,1 +1,1 @@
-var mnemonic = "rough vacant palace cruel economy eternal ten hurt congress chronic artwork buyer";
+var mnemonic = "airport acid tenant issue jacket tortoise love soccer wrap siren tattoo south";

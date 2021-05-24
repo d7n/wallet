@@ -1,1 +1,1 @@
-var mnemonic = "business tuition pudding puppy erosion path quiz mountain update scrap evoke perfect";
+var mnemonic = "truck indicate region lottery okay praise knock trash cruise account prize access";

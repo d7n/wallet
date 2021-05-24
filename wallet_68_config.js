@@ -1,1 +1,1 @@
-var mnemonic = "canvas clap total unusual trust make dream sorry flush chicken harsh group";
+var mnemonic = "hurdle view daughter evoke castle tide price list now slogan cupboard arch";

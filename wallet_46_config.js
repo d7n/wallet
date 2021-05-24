@@ -1,1 +1,1 @@
-var mnemonic = "trade wet hand guide asset cross exact climb vault section subway harvest";
+var mnemonic = "ski cook orbit orient already poet wall nut elegant tent word quarter";

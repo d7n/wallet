@@ -1,1 +1,1 @@
-var mnemonic = "gold slogan ethics powder sadness solution donor vague vocal great dentist song";
+var mnemonic = "since other satoshi dial dove target connect brief frog goat range problem";

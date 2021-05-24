@@ -1,1 +1,1 @@
-var mnemonic = "wait alcohol inch metal guide hill behave chalk collect vivid peace daring";
+var mnemonic = "notice truck truck furnace couch skin initial need garage seminar tail jewel";

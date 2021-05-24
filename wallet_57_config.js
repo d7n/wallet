@@ -1,1 +1,1 @@
-var mnemonic = "emotion dry capital vivid venue breeze flavor purse twist under area have";
+var mnemonic = "dance type garlic gun faculty neglect better autumn length ordinary fix man";

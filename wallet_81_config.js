@@ -1,1 +1,1 @@
-var mnemonic = "pet jazz cable humble there wire mention nurse brain blast ten document";
+var mnemonic = "record vault athlete sport grace casino change alpha winner debris gown identify";

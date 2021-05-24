@@ -1,1 +1,1 @@
-var mnemonic = "tattoo lucky once quantum lazy where stick symbol notice loyal mercy coffee";
+var mnemonic = "middle dolphin skill drift venue quarter shoulder silent oval ticket stone noodle";

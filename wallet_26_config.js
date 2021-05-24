@@ -1,1 +1,1 @@
-var mnemonic = "cabin deliver change world space cool sugar barely original debate garment hurdle";
+var mnemonic = "around front drift spot plastic frame lens soccer fly guitar film biology";

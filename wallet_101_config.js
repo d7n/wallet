@@ -1,1 +1,1 @@
-var mnemonic = "near legend young weasel february weapon dilemma puppy crucial unfold cute away";
+var mnemonic = "mask brave rude pudding orange because piano cram leave dentist where urge";

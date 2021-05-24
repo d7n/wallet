@@ -1,1 +1,1 @@
-var mnemonic = "rabbit faith eternal barely host choice produce change dinosaur comfort leader note";
+var mnemonic = "sniff system believe uniform follow flush caught slush slot test pass angle";

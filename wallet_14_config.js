@@ -1,1 +1,1 @@
-var mnemonic = "liar soap ride snap castle sniff mystery ladder luxury inflict hub claw";
+var mnemonic = "december muffin unknown just shuffle jacket clog dune vault goose cotton glide";

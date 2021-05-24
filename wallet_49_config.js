@@ -1,1 +1,1 @@
-var mnemonic = "learn chat dignity planet nuclear goat road garage bring plug help prize";
+var mnemonic = "tourist bike camp sudden anchor vital index exclude hollow scale private anger";

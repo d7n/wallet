@@ -1,1 +1,1 @@
-var mnemonic = "owner wagon emerge video keen fitness soap truth strategy differ favorite current";
+var mnemonic = "jungle turkey merit patch lake margin brush spell scorpion shallow review stairs";

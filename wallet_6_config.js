@@ -1,1 +1,1 @@
-var mnemonic = "sting usage second lemon want true tail mention float vanish spy ignore";
+var mnemonic = "system illness oblige useless group unfold hotel oxygen primary correct drama spice";

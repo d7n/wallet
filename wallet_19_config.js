@@ -1,1 +1,1 @@
-var mnemonic = "busy ocean pulp lunar notable fee spread prosper poet evidence wagon subway";
+var mnemonic = "captain cigar talent rookie ship april sense dolphin industry trim gravity flame";

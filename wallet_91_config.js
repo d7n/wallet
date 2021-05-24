@@ -1,1 +1,1 @@
-var mnemonic = "crop nature shine window switch kite vehicle athlete label shuffle claim strong";
+var mnemonic = "grass crouch remind leader repair note vintage pet kitchen kitten reward globe";
