@@ -1,1 +1,1 @@
-var mnemonic = "cargo maid camera text way segment various adult task token dash apology";
+var mnemonic = "rubber cause true sword item mercy fetch dwarf ripple exit sign trigger";

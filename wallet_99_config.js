@@ -1,1 +1,1 @@
-var mnemonic = "solid asset unlock custom narrow atom wood tired script drop media pull";
+var mnemonic = "brick online salmon logic manage mobile myth dash east butter easily course";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist promote stumble equal member upon suggest shadow brush note cash merge";
+var mnemonic = "clean illegal open flee reunion tube weird bean setup mean anger answer";

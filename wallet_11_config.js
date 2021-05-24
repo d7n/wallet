@@ -1,1 +1,1 @@
-var mnemonic = "pepper age benefit gown ready globe exact position apart object cream enemy";
+var mnemonic = "express layer retire render cloud guard thank cute hollow such invest rally";

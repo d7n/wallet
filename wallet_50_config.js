@@ -1,1 +1,1 @@
-var mnemonic = "surround true mixture fabric change among atom stove core present pride digital";
+var mnemonic = "velvet slender ancient crash police misery evoke update dash vivid coil ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "cool bomb fever cover onion emotion egg hunt tiger reward offer wisdom";
+var mnemonic = "major run belt body chronic pill insect manual daring enough biology emotion";

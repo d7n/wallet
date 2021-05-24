@@ -1,1 +1,1 @@
-var mnemonic = "online move shallow brain alley absorb borrow deal wave moon sick since";
+var mnemonic = "sleep cloud lab bread add error gossip cattle fiscal orient power develop";

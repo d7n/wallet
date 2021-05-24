@@ -1,1 +1,1 @@
-var mnemonic = "lens ill fade snack stadium multiply brass tell aisle evoke dog canyon";
+var mnemonic = "coffee any inject age market soul street dust caught below night bronze";

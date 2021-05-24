@@ -1,1 +1,1 @@
-var mnemonic = "seek warrior trend screen response shaft trumpet host drink occur gym gasp";
+var mnemonic = "civil unaware divert elite portion clerk middle over donate tree divert try";

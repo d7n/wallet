@@ -1,1 +1,1 @@
-var mnemonic = "proof enemy donate critic april crucial armed error flower name obey phone";
+var mnemonic = "velvet melt exist wet salute hard obey perfect say tragic summer season";

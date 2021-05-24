@@ -1,1 +1,1 @@
-var mnemonic = "purse knife market theory box window logic hood raven orphan observe couple";
+var mnemonic = "lobster rain bounce glimpse invest female domain meadow verify emotion horse spirit";

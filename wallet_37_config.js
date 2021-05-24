@@ -1,1 +1,1 @@
-var mnemonic = "flight rich chalk wheat quick better section day good stock episode such";
+var mnemonic = "mistake profit climb opinion company stone keep report false oppose course twin";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut myth room engage cabin unhappy grid coin jazz juice absent parrot";
+var mnemonic = "post knife clinic senior pony shed uniform section civil note fatal hire";

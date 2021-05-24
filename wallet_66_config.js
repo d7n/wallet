@@ -1,1 +1,1 @@
-var mnemonic = "fade there pet syrup cloth sustain bleak hobby source also runway coffee";
+var mnemonic = "reduce neck novel raccoon tent fault decline test gaze repair correct bomb";

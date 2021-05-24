@@ -1,1 +1,1 @@
-var mnemonic = "awake pass axis square silly float rose winner search suffer cinnamon cricket";
+var mnemonic = "lunar scout frost relax ocean expand mango force mixed afford treat unit";

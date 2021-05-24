@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tide sentence science van jewel clinic then pelican salute drop lesson";
+var mnemonic = "nuclear palm track face husband found aunt ivory jacket wheat bachelor prefer";

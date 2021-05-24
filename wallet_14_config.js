@@ -1,1 +1,1 @@
-var mnemonic = "slice lawn small act conduct party episode ahead robot assault adapt win";
+var mnemonic = "right sniff grass shrimp water smart license mushroom object other unlock ivory";

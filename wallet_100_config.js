@@ -1,1 +1,1 @@
-var mnemonic = "easily connect ring pupil crane ability barely grief wonder wife affair praise";
+var mnemonic = "produce body yellow renew glass swallow gossip little rare super stage first";

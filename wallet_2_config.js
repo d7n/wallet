@@ -1,1 +1,1 @@
-var mnemonic = "ring spot manage entire gold render sing broccoli great runway impulse project";
+var mnemonic = "will vague adapt code disease plunge bring crazy tone million alcohol diet";

@@ -1,1 +1,1 @@
-var mnemonic = "flat rural tongue spice melody price lawn flat surge million ripple spider";
+var mnemonic = "dynamic payment jazz unable spare tribe pupil boil fun verb bleak name";

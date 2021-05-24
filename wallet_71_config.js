@@ -1,1 +1,1 @@
-var mnemonic = "edge zebra mirror chase thunder side position soldier poverty maple fan early";
+var mnemonic = "appear favorite group raw can velvet remind little innocent smooth trial trap";

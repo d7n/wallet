@@ -1,1 +1,1 @@
-var mnemonic = "tattoo brass utility salt carbon marble cement olive orbit naive indoor sort";
+var mnemonic = "equal canoe invest net shallow honey faculty invite toe pipe word antenna";

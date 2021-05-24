@@ -1,1 +1,1 @@
-var mnemonic = "practice will fence news episode glue wreck other siren spirit retreat fork";
+var mnemonic = "live shift young amateur inch soon survey glow favorite sugar under together";

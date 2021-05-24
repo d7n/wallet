@@ -1,1 +1,1 @@
-var mnemonic = "worry universe journey famous casino claw learn agent hedgehog laptop danger filter";
+var mnemonic = "woman glide citizen toe boss crime eager uncle flavor dirt kick tool";

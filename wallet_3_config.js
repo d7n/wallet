@@ -1,1 +1,1 @@
-var mnemonic = "sure list lesson north sock walnut hurt between solid dumb tortoise venture";
+var mnemonic = "thumb just maid retire reason beyond labor fog injury birth modify lunch";

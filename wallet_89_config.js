@@ -1,1 +1,1 @@
-var mnemonic = "feel extend east urge van oppose aunt elegant gown arch accident surface";
+var mnemonic = "thing confirm key sell enjoy please charge glory alpha prevent please pistol";

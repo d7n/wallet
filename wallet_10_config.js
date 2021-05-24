@@ -1,1 +1,1 @@
-var mnemonic = "void advice tenant purse advice theme gadget antique thrive hill illness iron";
+var mnemonic = "blast traffic wasp horn wool where effort gather just subway rate episode";

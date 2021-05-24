@@ -1,1 +1,1 @@
-var mnemonic = "outer student offer whip album exact build force trash cable report alone";
+var mnemonic = "cruise subway swallow dove achieve screen ripple bus top mom turn grab";

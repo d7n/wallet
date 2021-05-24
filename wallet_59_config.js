@@ -1,1 +1,1 @@
-var mnemonic = "innocent chest mule marble gesture cruise stove cruise early ripple decade head";
+var mnemonic = "head edge sword lake myself wealth talk leg version strategy submit puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "cook grid neither spin peasant pistol waste know spoil beef wedding rather";
+var mnemonic = "legend school express angle lunch simple divide comic extend abandon example virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "language tuition dial hole turtle fossil damp radar ancient soft protect advance";
+var mnemonic = "glue street uniform bounce rate shaft away explain lift entry stock shift";

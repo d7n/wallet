@@ -1,1 +1,1 @@
-var mnemonic = "mind super ladder peace fresh taste blue snap foam token refuse awake";
+var mnemonic = "friend exchange shield leader depart strategy hire daughter nest flock north isolate";

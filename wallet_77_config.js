@@ -1,1 +1,1 @@
-var mnemonic = "very title man sauce symptom control inner peanut apple leg glory patient";
+var mnemonic = "raise acid faint left nasty menu cheese remind learn audit jungle unfold";

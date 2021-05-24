@@ -1,1 +1,1 @@
-var mnemonic = "such convince kind sentence country topple fork immune exhibit follow deliver radar";
+var mnemonic = "half next pair tape exchange cabin want over oval top keep unable";

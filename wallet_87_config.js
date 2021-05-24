@@ -1,1 +1,1 @@
-var mnemonic = "ketchup divert exhibit field always denial buyer clean gap elder inflict token";
+var mnemonic = "sound income discover scale review anxiety robot post lens frown donor document";

@@ -1,1 +1,1 @@
-var mnemonic = "charge spoon liberty pigeon drum law balcony real minimum throw jump sunny";
+var mnemonic = "floor slice letter negative invest pattern problem scrap disease peanut blast thrive";

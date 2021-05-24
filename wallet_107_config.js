@@ -1,1 +1,1 @@
-var mnemonic = "agent barely leisure narrow apology gym uniform february nothing hollow husband expire";
+var mnemonic = "employ helmet foam heart access annual radar prosper rack idle onion version";

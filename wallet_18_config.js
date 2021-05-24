@@ -1,1 +1,1 @@
-var mnemonic = "endless dad wish join aspect celery delay predict village damp civil glory";
+var mnemonic = "bulk riot indicate charge nerve attend sell glad neither ceiling buffalo mountain";

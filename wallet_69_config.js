@@ -1,1 +1,1 @@
-var mnemonic = "adapt copper claw estate hidden busy south history debate clerk design exercise";
+var mnemonic = "pudding federal cliff shop meadow despair audit detect sauce else blush elbow";

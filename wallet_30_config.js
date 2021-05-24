@@ -1,1 +1,1 @@
-var mnemonic = "wish awkward dentist method online dutch view clay elder badge high naive";
+var mnemonic = "claim mom liquid razor library super there rubber autumn alpha lava teach";

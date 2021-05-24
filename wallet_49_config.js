@@ -1,1 +1,1 @@
-var mnemonic = "property trade security parrot appear path leg sure stone start cycle angry";
+var mnemonic = "million coin invest boy powder poem detect never federal width echo dry";

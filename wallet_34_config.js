@@ -1,1 +1,1 @@
-var mnemonic = "target soda replace draw life actual jump excess scheme decrease plate brain";
+var mnemonic = "choose brush plunge elevator hospital choose quote betray artwork wire bamboo fabric";

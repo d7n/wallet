@@ -1,1 +1,1 @@
-var mnemonic = "such senior toward absorb drop paper vehicle nose comfort coyote pave unique";
+var mnemonic = "black typical shoot taste alien million summer process poet hollow fiber pact";

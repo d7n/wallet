@@ -1,1 +1,1 @@
-var mnemonic = "because degree resist crucial expand abandon space credit during evidence erupt link";
+var mnemonic = "mention illness loud legal genuine choose pretty art family stable tank dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss faith cactus pepper fix glimpse private ketchup list meat theory bomb";
+var mnemonic = "soul attack indoor inform betray clock clutch holiday dutch crowd immense poverty";

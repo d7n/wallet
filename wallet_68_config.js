@@ -1,1 +1,1 @@
-var mnemonic = "assault float neglect glory elegant pole dice ticket course judge normal test";
+var mnemonic = "glass anger blood debate myself sphere gate legal reflect author bread actual";

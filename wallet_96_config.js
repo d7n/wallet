@@ -1,1 +1,1 @@
-var mnemonic = "friend crater leisure evoke seven now raise adapt jungle quit discover sea";
+var mnemonic = "open moral violin obtain rain eager exhaust garlic game gold present tip";

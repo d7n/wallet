@@ -1,1 +1,1 @@
-var mnemonic = "beauty december twin clutch thought delay rare just sick weapon chalk fire";
+var mnemonic = "recycle visit renew leave master blouse course illegal atom tag fatigue eagle";

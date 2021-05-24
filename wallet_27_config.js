@@ -1,1 +1,1 @@
-var mnemonic = "chef apart mercy lazy smile twice caution blue fun resemble wrong license";
+var mnemonic = "grain stock ceiling turtle release mandate outside pear wish civil entry stock";

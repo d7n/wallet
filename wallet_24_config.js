@@ -1,1 +1,1 @@
-var mnemonic = "eight dilemma just vocal exit play tube walk course virtual soldier humble";
+var mnemonic = "wrap mass ordinary accuse tourist elegant heart goose advice alcohol refuse slim";

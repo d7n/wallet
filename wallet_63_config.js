@@ -1,1 +1,1 @@
-var mnemonic = "scene thought sadness clutch quick kitchen jump holiday behave lumber finish blind";
+var mnemonic = "razor switch tissue volume dish orphan genuine assume bind kitchen high actress";

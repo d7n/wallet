@@ -1,1 +1,1 @@
-var mnemonic = "unfold view initial alert cupboard mango cheese sound orient angry medal void";
+var mnemonic = "remove romance merit open gap edge innocent pistol notable kiwi merry river";

@@ -1,1 +1,1 @@
-var mnemonic = "under remain hawk carpet screen explain powder amateur swarm repair aunt scan";
+var mnemonic = "stick judge trash cruel alert join cage disagree receive ceiling eye lawsuit";

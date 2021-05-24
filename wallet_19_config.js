@@ -1,1 +1,1 @@
-var mnemonic = "lecture base quality exercise apology cruise aim imitate chunk spike venue tackle";
+var mnemonic = "lemon angle million silent stable decade venue power comfort license crisp ship";

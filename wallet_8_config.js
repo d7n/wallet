@@ -1,1 +1,1 @@
-var mnemonic = "gadget guilt impulse curve slender path summer uniform misery oven fluid manage";
+var mnemonic = "clean pudding across series rude basket fix afford clarify wine veteran transfer";

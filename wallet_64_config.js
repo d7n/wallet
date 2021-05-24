@@ -1,1 +1,1 @@
-var mnemonic = "add fork hair forward nut trust sample city ceiling camera produce play";
+var mnemonic = "believe repeat check slot prize throw puppy pepper endorse hat letter news";

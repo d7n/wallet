@@ -1,1 +1,1 @@
-var mnemonic = "school believe twist crowd off desert hood tomorrow view sword six seed";
+var mnemonic = "excess gap fluid stadium gadget cat climb power picture grow absurd off";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson era rude rent property diary lonely menu include ozone early vacuum";
+var mnemonic = "regret fringe destroy crane fury home scrap sort valve salon wish bulb";

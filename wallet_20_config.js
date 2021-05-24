@@ -1,1 +1,1 @@
-var mnemonic = "kite desk estate unaware grass silent health cargo worry ramp banner there";
+var mnemonic = "order style secret isolate small mandate north furnace pigeon spare school two";

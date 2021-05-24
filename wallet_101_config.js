@@ -1,1 +1,1 @@
-var mnemonic = "vehicle attract turn select arrive never live empower scatter can afford soccer";
+var mnemonic = "enforce sea drum found trophy smooth dragon address boil venture wine detect";

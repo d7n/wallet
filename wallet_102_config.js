@@ -1,1 +1,1 @@
-var mnemonic = "snack attract excite globe dentist jar knee quick exotic mail install able";
+var mnemonic = "point thank empower arrive multiply home bonus morning item stick quiz yellow";

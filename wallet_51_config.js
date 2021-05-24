@@ -1,1 +1,1 @@
-var mnemonic = "dream unlock horse prevent salad toy ready shoe climb school bench belt";
+var mnemonic = "garden kitchen relax marine door term seminar differ dumb tackle wear own";

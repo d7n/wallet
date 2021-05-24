@@ -1,1 +1,1 @@
-var mnemonic = "blanket category verb salmon lava earth bread canyon concert receive birth bleak";
+var mnemonic = "skull tape glue daughter easy cheese twice disease rocket sketch cup glide";

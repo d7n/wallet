@@ -1,1 +1,1 @@
-var mnemonic = "popular antenna vehicle pumpkin juice boat repeat excite turn address mention chest";
+var mnemonic = "sound shield aware ability click leisure extra already riot symptom lava slim";

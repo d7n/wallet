@@ -1,1 +1,1 @@
-var mnemonic = "flock true bind defense convince trumpet color tooth best sight chef weird";
+var mnemonic = "sunny inside spend decorate whip meat silly direct blade speak base rocket";

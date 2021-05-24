@@ -1,1 +1,1 @@
-var mnemonic = "able prepare bus mutual brother number jump run accuse doctor little garbage";
+var mnemonic = "same disagree hand proud soda ivory coil index point diesel laundry left";

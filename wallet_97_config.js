@@ -1,1 +1,1 @@
-var mnemonic = "method expect carbon walk radio amazing grow able loyal plastic icon west";
+var mnemonic = "ostrich basket owner envelope train business scatter story guitar gauge fatigue student";

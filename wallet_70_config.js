@@ -1,1 +1,1 @@
-var mnemonic = "cushion loan outdoor seed cover pistol horn old crew symptom flight machine";
+var mnemonic = "idle math nominee middle cart please rack nasty arch memory ready focus";

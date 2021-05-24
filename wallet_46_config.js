@@ -1,1 +1,1 @@
-var mnemonic = "typical result already hat author win float easy excite bullet stairs host";
+var mnemonic = "buffalo dust unfold route cradle spatial actress pen tooth direct alert smart";

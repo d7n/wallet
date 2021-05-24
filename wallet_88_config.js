@@ -1,1 +1,1 @@
-var mnemonic = "seek inherit survey aspect today box eager rescue scheme iron guess sense";
+var mnemonic = "hard build frequent truck satisfy snow soft spend animal ahead cake simple";

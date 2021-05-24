@@ -1,1 +1,1 @@
-var mnemonic = "burden salmon obtain jewel enjoy riot kite bitter grow bike goddess critic";
+var mnemonic = "issue drip leader animal hero inhale knife metal year green olive shell";

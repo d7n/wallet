@@ -1,1 +1,1 @@
-var mnemonic = "stay crane month spy pull pen improve prison weapon town double squirrel";
+var mnemonic = "stairs caution attack embody finish wonder capital poem state useless lady quit";

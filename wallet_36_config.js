@@ -1,1 +1,1 @@
-var mnemonic = "brother praise insane wise isolate edge impact trophy era enough defense turkey";
+var mnemonic = "gorilla spoil kitten cereal hospital electric clerk frog north gasp lawsuit coast";

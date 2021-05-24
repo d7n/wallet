@@ -1,1 +1,1 @@
-var mnemonic = "duty build genius term comic face slow promote apology torch cloud item";
+var mnemonic = "power survey math toss appear napkin list keen squeeze grass hurt unhappy";

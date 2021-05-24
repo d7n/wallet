@@ -1,1 +1,1 @@
-var mnemonic = "embark future harvest relief under output hedgehog effort afraid magnet raise naive";
+var mnemonic = "funny during ski cluster include whip tobacco bamboo smoke hidden gold armed";

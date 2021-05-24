@@ -1,1 +1,1 @@
-var mnemonic = "moral view nurse fly retire abandon enemy latin resist math fiscal walnut";
+var mnemonic = "private auction east infant arm provide step orphan actual analyst this permit";

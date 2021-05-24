@@ -1,1 +1,1 @@
-var mnemonic = "work meat seek old aware edit omit lady degree true razor tiger";
+var mnemonic = "salt diary hammer ignore squeeze mystery trash stick author ship torch alley";

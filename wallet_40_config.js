@@ -1,1 +1,1 @@
-var mnemonic = "patient tennis final donkey special better pink glove catch luxury supply gift";
+var mnemonic = "grit inflict ancient online truck sunny spike kit boy flame tornado claw";

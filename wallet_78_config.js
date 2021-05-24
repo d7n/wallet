@@ -1,1 +1,1 @@
-var mnemonic = "pyramid guitar goat hip vague multiply stable december donate shock disagree fancy";
+var mnemonic = "unable leader foot rare song defy matrix senior toast pelican rather supply";

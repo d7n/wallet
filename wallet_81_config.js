@@ -1,1 +1,1 @@
-var mnemonic = "panda dawn wasp word thought faint odor major acid decade parrot hood";
+var mnemonic = "ski license small science dignity media waste cushion tortoise fragile cotton length";

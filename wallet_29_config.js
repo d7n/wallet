@@ -1,1 +1,1 @@
-var mnemonic = "satisfy notice slam blame regular hint project pact loan cousin bomb evolve";
+var mnemonic = "traffic vivid achieve super tired fancy melody maid lava illness surface soft";

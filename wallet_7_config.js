@@ -1,1 +1,1 @@
-var mnemonic = "wheat inflict chicken run claw public age sketch trip kangaroo gift disease";
+var mnemonic = "puppy negative image pond inside card build shield spike mention measure color";

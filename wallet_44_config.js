@@ -1,1 +1,1 @@
-var mnemonic = "skirt topic shock tissue reveal sport into delay lady season tree toddler";
+var mnemonic = "mobile drum grace deputy minor flame hotel enforce food two involve dove";

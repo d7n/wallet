@@ -1,1 +1,1 @@
-var mnemonic = "harbor brisk pride viable conduct blur crawl property ripple flower punch drama";
+var mnemonic = "dragon soul comic cave spike immune gentle post stumble six crater pretty";

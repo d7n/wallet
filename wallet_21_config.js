@@ -1,1 +1,1 @@
-var mnemonic = "mean april actual door debate divert main adjust flavor ranch family chest";
+var mnemonic = "feel happy agree rely material loud famous pumpkin expose sponsor tuna extra";

@@ -1,1 +1,1 @@
-var mnemonic = "march shield dinner essence note minute vanish fiscal core eagle eagle sunset";
+var mnemonic = "method yellow fringe offer beyond stand confirm embody pizza broccoli label alone";

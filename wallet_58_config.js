@@ -1,1 +1,1 @@
-var mnemonic = "confirm success nation run ivory phrase screen gospel medal defy ice total";
+var mnemonic = "fluid olympic doctor skin modify mail winter can enforce powder such account";

@@ -1,1 +1,1 @@
-var mnemonic = "cave direct inquiry deny insect online rebuild wrist mind select coast agent";
+var mnemonic = "crouch cinnamon have coyote shoot person develop diet wait embrace squeeze equal";

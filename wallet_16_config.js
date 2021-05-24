@@ -1,1 +1,1 @@
-var mnemonic = "pottery dose jar task nose universe hobby coconut country trade invite fragile";
+var mnemonic = "ranch stool help wonder enforce tell course illegal float letter deliver daughter";

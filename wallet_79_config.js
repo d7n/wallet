@@ -1,1 +1,1 @@
-var mnemonic = "reflect since judge major service stage network before napkin remain grace blood";
+var mnemonic = "envelope future win online lunch pluck hollow empty frame food diamond exhibit";
