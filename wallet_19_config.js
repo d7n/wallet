@@ -1,1 +1,1 @@
-var mnemonic = "prepare cactus target lawn year hold finger nest feed oxygen whip maid";
+var mnemonic = "coffee dial crumble congress kiss topic stairs polar doctor squirrel often tackle";

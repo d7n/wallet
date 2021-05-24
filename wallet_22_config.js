@@ -1,1 +1,1 @@
-var mnemonic = "movie vital upgrade hen survey grant cereal head online illegal luggage bounce";
+var mnemonic = "second trap decorate push start winner undo general relax problem park delay";

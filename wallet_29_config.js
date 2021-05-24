@@ -1,1 +1,1 @@
-var mnemonic = "chuckle certain fruit lazy canoe shoot behave mind promote suit profit universe";
+var mnemonic = "deliver one shove spoon section sentence update practice angry shadow fetch donate";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty wolf ill fluid fade enhance provide early island inject net original";
+var mnemonic = "film spice rather beef merge between celery rely all hobby neither minor";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder jazz ghost weekend sleep fiber result submit bike mandate thank turtle";
+var mnemonic = "clinic mouse protect gorilla space canoe before arrive inside double shine wood";

@@ -1,1 +1,1 @@
-var mnemonic = "initial cargo museum smoke mystery spoil gentle pulp sunset essay wave endless";
+var mnemonic = "click bachelor report beef apology dress opinion build kid badge capital bitter";

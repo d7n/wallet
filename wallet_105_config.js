@@ -1,1 +1,1 @@
-var mnemonic = "afford question wage door cool punch blanket level glory cry entire sight";
+var mnemonic = "canvas expect piece merry account cruel trouble hill tennis tilt expand shoe";

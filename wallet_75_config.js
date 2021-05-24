@@ -1,1 +1,1 @@
-var mnemonic = "shock tooth fitness figure wild motion wrap assist chef undo mean filter";
+var mnemonic = "effort circle chunk gun unveil hammer clown license afraid card reunion fury";

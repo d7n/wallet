@@ -1,1 +1,1 @@
-var mnemonic = "fiber appear enemy mother habit cotton enlist flame amount nation grit forget";
+var mnemonic = "stone venture tooth element aim anxiety idea number pelican alien throw fence";

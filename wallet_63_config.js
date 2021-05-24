@@ -1,1 +1,1 @@
-var mnemonic = "pudding tennis input feature sister civil slow vibrant slogan armed journey silly";
+var mnemonic = "silver best motor naive size remind canvas else cargo carpet stand indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "equip sea prepare like stuff head pony company slow defense learn refuse";
+var mnemonic = "solve lawsuit trumpet add later armed fork broccoli bright recycle peanut spare";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit sausage annual initial derive swift trip session unique immune habit rude";
+var mnemonic = "pottery scissors general ensure meadow travel napkin power mule fatal hurdle scrap";

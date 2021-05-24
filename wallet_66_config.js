@@ -1,1 +1,1 @@
-var mnemonic = "tornado dolphin area wasp hip become report inhale lab small jealous wine";
+var mnemonic = "early forest fiscal cereal escape trumpet settle seat random shy laugh drink";

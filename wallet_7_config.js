@@ -1,1 +1,1 @@
-var mnemonic = "sad ring student code explain number door tiny tissue gown physical umbrella";
+var mnemonic = "issue swallow venture word enhance lonely beyond once pet poverty web gallery";

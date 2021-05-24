@@ -1,1 +1,1 @@
-var mnemonic = "discover twice promote enlist acoustic joy prison inject solid caution harsh brisk";
+var mnemonic = "mesh blush peanut treat flash plastic decorate sting damp share latin pony";

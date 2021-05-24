@@ -1,1 +1,1 @@
-var mnemonic = "pole tortoise clap exhibit frown unable lens manual second urban retreat chase";
+var mnemonic = "diagram rally celery water dance jealous olive blame click caution era river";

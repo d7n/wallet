@@ -1,1 +1,1 @@
-var mnemonic = "banner famous spike case evolve invite weapon success cargo siege feature nose";
+var mnemonic = "panda era fatal valley shuffle once solar sick rescue claw dial hold";

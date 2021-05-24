@@ -1,1 +1,1 @@
-var mnemonic = "vanish city man stuff small legal note eye mix drink speak scrap";
+var mnemonic = "just desert web gesture belt version text mean hazard basic story sunset";

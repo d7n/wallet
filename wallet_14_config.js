@@ -1,1 +1,1 @@
-var mnemonic = "dismiss census valve enemy plastic gadget enable struggle glove system one yellow";
+var mnemonic = "elevator panic noodle alley gas earn talent caught net cereal robot salon";

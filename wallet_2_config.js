@@ -1,1 +1,1 @@
-var mnemonic = "shiver creek bird shrimp keen kite blame walnut grow lawn alcohol capable";
+var mnemonic = "story second fashion idea over gym loyal art front sure repeat cinnamon";

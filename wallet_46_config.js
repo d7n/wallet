@@ -1,1 +1,1 @@
-var mnemonic = "follow globe tooth april pupil ice toy major text sauce chuckle ill";
+var mnemonic = "orchard finish harvest diet obtain primary boss erupt relief card reason acid";

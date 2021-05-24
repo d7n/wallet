@@ -1,1 +1,1 @@
-var mnemonic = "situate come shaft gossip cram violin vibrant energy mesh sail volcano garment";
+var mnemonic = "media share need toward security guide lottery wealth half hungry sugar lunar";

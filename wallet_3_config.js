@@ -1,1 +1,1 @@
-var mnemonic = "guard loop usage labor spot census tomato candy robust festival opinion math";
+var mnemonic = "camera throw fiber unable seek cabin artwork way bone club oil hawk";

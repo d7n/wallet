@@ -1,1 +1,1 @@
-var mnemonic = "unable this loud kangaroo drum other wink alpha shoe sudden conduct stadium";
+var mnemonic = "caught ginger able parrot blush jacket lake face puzzle sentence twin pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "element parade oxygen analyst million ability quit electric transfer perfect myth purity";
+var mnemonic = "crush core order test topple meadow scare film open weasel exhaust forum";

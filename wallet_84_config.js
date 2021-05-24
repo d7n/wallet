@@ -1,1 +1,1 @@
-var mnemonic = "theme neglect deer summer club moral help slice essence tuna column business";
+var mnemonic = "indoor palm supreme below spare else trust cattle strong wine cement love";

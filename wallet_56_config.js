@@ -1,1 +1,1 @@
-var mnemonic = "liar debris oyster dutch boost until wire click eager nephew puzzle dentist";
+var mnemonic = "length left drip have hamster push total pair wait crouch quit kick";

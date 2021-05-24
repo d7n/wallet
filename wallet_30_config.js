@@ -1,1 +1,1 @@
-var mnemonic = "tunnel lab trash minute amount motion private domain clinic atom result true";
+var mnemonic = "target lady decide fork card crisp twin kite destroy increase predict mobile";

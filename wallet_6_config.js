@@ -1,1 +1,1 @@
-var mnemonic = "visual ritual gift jar birth ranch kiss diamond hold cram relax cup";
+var mnemonic = "matter spatial divide offer parent situate laptop wagon unhappy average abandon unveil";

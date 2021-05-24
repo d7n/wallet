@@ -1,1 +1,1 @@
-var mnemonic = "casual concert exile element fan gas agent voice silly jelly burger message";
+var mnemonic = "border pipe oppose math various monitor electric humble cloud urban symptom envelope";

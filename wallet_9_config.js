@@ -1,1 +1,1 @@
-var mnemonic = "cause wall dirt frozen beauty wink horn interest key rabbit coin select";
+var mnemonic = "feature safe leopard circle dinosaur can zebra grow film apart fossil educate";

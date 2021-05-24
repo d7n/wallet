@@ -1,1 +1,1 @@
-var mnemonic = "boss despair west erosion pull marble creek victory silly thunder frown obscure";
+var mnemonic = "employ salad normal regular brother opinion rally similar aunt demise pluck mind";

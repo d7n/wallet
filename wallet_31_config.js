@@ -1,1 +1,1 @@
-var mnemonic = "badge great check clean lawsuit chase area below reject box mean river";
+var mnemonic = "success mail clump check cigar priority flat dune pilot govern once sun";

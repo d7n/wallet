@@ -1,1 +1,1 @@
-var mnemonic = "antenna virtual casual mean moon patrol tragic repair fire spoil mouse alien";
+var mnemonic = "focus split cricket student winter receive settle labor defy easy symptom remove";

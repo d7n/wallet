@@ -1,1 +1,1 @@
-var mnemonic = "history oblige undo danger bone inner donkey peace noble pair net raven";
+var mnemonic = "budget once shaft logic chapter south produce speed owner lumber arctic ozone";

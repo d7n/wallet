@@ -1,1 +1,1 @@
-var mnemonic = "force airport color fan theory sport vibrant box push before stumble live";
+var mnemonic = "color retire wear bid excite market bronze below glass treat snap neck";

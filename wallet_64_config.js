@@ -1,1 +1,1 @@
-var mnemonic = "around nothing cradle runway piano brown joy warm announce garlic stairs spatial";
+var mnemonic = "opinion slot say guilt vicious spare tongue success shock priority mouse motor";

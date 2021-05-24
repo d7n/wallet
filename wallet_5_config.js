@@ -1,1 +1,1 @@
-var mnemonic = "slogan orphan nasty eager position giraffe into frozen rug elite casual damage";
+var mnemonic = "draft unfair father ready afford senior purchase banner shift donor elbow left";

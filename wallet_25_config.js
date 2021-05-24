@@ -1,1 +1,1 @@
-var mnemonic = "goose giraffe pet crawl entire flash light beyond ball banana eagle history";
+var mnemonic = "various attitude truth announce local raven scout ridge wrap guitar eternal farm";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger inquiry replace sunset mosquito damage focus alert carbon salute identify toilet";
+var mnemonic = "annual online left cherry pet finger neck swing envelope boost moon fish";

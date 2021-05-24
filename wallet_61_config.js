@@ -1,1 +1,1 @@
-var mnemonic = "weird priority wait already cupboard liquid tongue where depth artefact announce focus";
+var mnemonic = "must fan window faint voyage country oval until forest behind style cannon";

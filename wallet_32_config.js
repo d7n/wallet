@@ -1,1 +1,1 @@
-var mnemonic = "ugly cigar lesson say coffee novel genius suggest illness sunny type grocery";
+var mnemonic = "differ vocal crawl loyal enforce exact mansion sustain length year trend miracle";

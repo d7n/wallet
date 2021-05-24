@@ -1,1 +1,1 @@
-var mnemonic = "blanket act fiscal trouble play disease wing legal fetch gallery syrup fresh";
+var mnemonic = "candy soon relief dress blast jazz pattern town erosion brain all certain";

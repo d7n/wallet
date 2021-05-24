@@ -1,1 +1,1 @@
-var mnemonic = "school grow fiber gasp base sell gold govern version border useful bachelor";
+var mnemonic = "street police nasty remind sand again two occur lake region sheriff wrong";

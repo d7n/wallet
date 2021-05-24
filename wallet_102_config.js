@@ -1,1 +1,1 @@
-var mnemonic = "frown bread talent six canoe earn wage require penalty grid abuse excite";
+var mnemonic = "loan sponsor better cram session police expect tumble comic solve gravity patient";

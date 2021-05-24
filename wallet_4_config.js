@@ -1,1 +1,1 @@
-var mnemonic = "school wink vital obey party bless message glass puppy area sell cable";
+var mnemonic = "reopen angry cradle news myth shove mother sun floor lion ridge chef";

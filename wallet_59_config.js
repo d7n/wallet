@@ -1,1 +1,1 @@
-var mnemonic = "expire memory duty obtain lock wet girl easily control lucky thrive creek";
+var mnemonic = "veteran invite orphan tissue used fiber nature fox ribbon forget cloud syrup";

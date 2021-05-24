@@ -1,1 +1,1 @@
-var mnemonic = "ribbon wagon acquire scrap ability device solar journey ridge coil fox source";
+var mnemonic = "random long swap caught umbrella series solar bid remove horse yellow need";

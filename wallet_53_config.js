@@ -1,1 +1,1 @@
-var mnemonic = "winner claim embark yellow spice cute material critic visual coffee scorpion purchase";
+var mnemonic = "farm anxiety glass end harvest around song aunt grocery advice siege void";

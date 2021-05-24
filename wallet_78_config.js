@@ -1,1 +1,1 @@
-var mnemonic = "wage today nest apology torch tree lobster ozone select bridge brown exhaust";
+var mnemonic = "educate extend quick avocado rhythm certain milk fade crazy deny depart guide";

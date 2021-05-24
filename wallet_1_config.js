@@ -1,1 +1,1 @@
-var mnemonic = "wool average team fatigue error tooth auto raven bar trouble pioneer attitude";
+var mnemonic = "wonder arch gentle embody atom measure cement now strategy juice alley ten";

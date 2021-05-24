@@ -1,1 +1,1 @@
-var mnemonic = "helmet artist south table bottom reunion come month knee repair canoe opinion";
+var mnemonic = "trend save almost next knee buyer december globe describe minute frozen shrug";

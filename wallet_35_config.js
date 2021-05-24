@@ -1,1 +1,1 @@
-var mnemonic = "aspect useful person vapor suggest stumble abandon boy squeeze melody wet typical";
+var mnemonic = "squeeze amount expect all state else crash badge napkin tuition worry visual";

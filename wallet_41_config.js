@@ -1,1 +1,1 @@
-var mnemonic = "length clarify truth leopard grain robot tissue over ostrich hub elite swear";
+var mnemonic = "moment toilet animal orphan fabric that ugly thing soup hair analyst army";

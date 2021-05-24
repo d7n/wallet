@@ -1,1 +1,1 @@
-var mnemonic = "call measure derive false present caught alcohol pause pave length story impact";
+var mnemonic = "fiction enter retreat alpha suspect deer manage scout cherry custom sweet live";

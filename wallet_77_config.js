@@ -1,1 +1,1 @@
-var mnemonic = "army broken exclude master decide grain else brick neither dilemma bridge odor";
+var mnemonic = "unaware student tower now cruise peace destroy wrestle spike fish glass pear";

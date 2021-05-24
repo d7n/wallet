@@ -1,1 +1,1 @@
-var mnemonic = "clog wage current hurt track giggle body wrestle onion second tide dance";
+var mnemonic = "nurse sentence soccer resemble page mention proud fog pumpkin sunny blossom license";

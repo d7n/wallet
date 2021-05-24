@@ -1,1 +1,1 @@
-var mnemonic = "drop control all credit rocket above ordinary arrest debris disagree famous remain";
+var mnemonic = "morning width post engine fiber owner crime memory gate mobile trip bike";

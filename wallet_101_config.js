@@ -1,1 +1,1 @@
-var mnemonic = "elite horn fun explain enhance drip ramp music march secret start trigger";
+var mnemonic = "taste alone brand foot sign mirror during assault employ crop mass because";

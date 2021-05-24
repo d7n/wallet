@@ -1,1 +1,1 @@
-var mnemonic = "exotic option flip arrow approve round venue initial ball grid kingdom move";
+var mnemonic = "annual bread cherry session sail chalk edge vast hover category meat enable";

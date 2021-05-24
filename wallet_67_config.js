@@ -1,1 +1,1 @@
-var mnemonic = "cost reflect kit credit cheese intact extend will peace keen online hope";
+var mnemonic = "vivid sport fiction output victory champion jaguar wear increase turn issue ecology";

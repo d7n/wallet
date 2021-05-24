@@ -1,1 +1,1 @@
-var mnemonic = "unaware maple earn dolphin picnic raven issue another grow vessel carpet mesh";
+var mnemonic = "father conduct tennis render utility adult rookie release vehicle absurd bundle exile";

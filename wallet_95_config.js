@@ -1,1 +1,1 @@
-var mnemonic = "rule bubble topple exhibit when erosion alcohol blouse slide affair like bamboo";
+var mnemonic = "portion pepper middle license term old chunk tongue edge bunker predict wood";

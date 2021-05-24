@@ -1,1 +1,1 @@
-var mnemonic = "object child bean follow forward need silly easily month list sunny final";
+var mnemonic = "raven chase drop mixed rib split pumpkin pride expand stem above mammal";

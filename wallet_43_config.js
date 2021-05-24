@@ -1,1 +1,1 @@
-var mnemonic = "income recall motor title beach file argue category twelve foster next under";
+var mnemonic = "boost next reward income chapter hundred rookie unfair print glory arch fiction";

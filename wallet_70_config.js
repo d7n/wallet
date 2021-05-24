@@ -1,1 +1,1 @@
-var mnemonic = "save enemy warrior estate manual salad weather shrimp rose seven divert void";
+var mnemonic = "oven immune come comfort air tragic weapon way later acid hour fault";

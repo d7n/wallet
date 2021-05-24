@@ -1,1 +1,1 @@
-var mnemonic = "mention essay scale snow business movie diesel lemon whip pitch slide muscle";
+var mnemonic = "winner dynamic list cash fetch elegant wear desk purchase give stuff admit";

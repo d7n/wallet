@@ -1,1 +1,1 @@
-var mnemonic = "middle fox smooth divide version boss year web depth answer market easy";
+var mnemonic = "sentence near pottery muscle token possible syrup media quiz sausage shiver rug";

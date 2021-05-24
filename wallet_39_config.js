@@ -1,1 +1,1 @@
-var mnemonic = "medal skill dutch ill sponsor pull cost coil canyon host citizen abuse";
+var mnemonic = "humble indoor parade outside social brisk inform prefer shallow stone current erosion";

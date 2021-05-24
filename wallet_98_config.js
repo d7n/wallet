@@ -1,1 +1,1 @@
-var mnemonic = "behave woman pull proof lawsuit royal cloth chapter chief lumber empower goddess";
+var mnemonic = "kitchen dawn again rescue annual squeeze deliver marriage choose dove path soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "frown filter trial motor raccoon hip all arena upper swing rocket core";
+var mnemonic = "true erase clip you else permit sustain pelican advice address story curious";

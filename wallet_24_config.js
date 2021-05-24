@@ -1,1 +1,1 @@
-var mnemonic = "book forest hollow pause stumble orange canoe script beauty brand bread man";
+var mnemonic = "antique member warrior claw little scene vault educate maid change inspire search";

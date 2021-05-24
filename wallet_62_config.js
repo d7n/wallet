@@ -1,1 +1,1 @@
-var mnemonic = "upset device rate stove drink grant double similar together lift leisure recall";
+var mnemonic = "inform buyer artwork train spawn hungry roof gossip argue peasant winter excess";

@@ -1,1 +1,1 @@
-var mnemonic = "iron laugh tail direct dynamic cluster sphere ticket human promote potato shrug";
+var mnemonic = "company stairs depend nest ridge taxi hospital electric token express matter chat";

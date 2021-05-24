@@ -1,1 +1,1 @@
-var mnemonic = "curtain dove pilot mechanic garbage method check hello census city gadget scheme";
+var mnemonic = "quote manual final balcony mail open echo egg budget minimum photo fence";

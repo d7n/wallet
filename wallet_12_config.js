@@ -1,1 +1,1 @@
-var mnemonic = "dignity view announce foot medal leopard where blur undo lake scrap remember";
+var mnemonic = "crucial walk sick often inner purse peanut forest physical round bacon match";

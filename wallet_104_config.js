@@ -1,1 +1,1 @@
-var mnemonic = "keep achieve first immune glue brand dinner library genius logic nut knife";
+var mnemonic = "short attend myself fox piece among canoe clutch dream edit nerve dry";

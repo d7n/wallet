@@ -1,1 +1,1 @@
-var mnemonic = "submit cause poem february answer infant spare undo input captain stock level";
+var mnemonic = "flip pretty dwarf topple shift burger actual version curious purse ecology tired";

@@ -1,1 +1,1 @@
-var mnemonic = "wise will gossip diet snow gate pond lawsuit february leisure swallow assist";
+var mnemonic = "cereal lake frame sand local boat magic climb result bench evidence waste";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply town hip parrot pony health jar orbit client search loop above";
+var mnemonic = "armed fun silk faint erosion bulk pistol trim suggest topple slot boat";

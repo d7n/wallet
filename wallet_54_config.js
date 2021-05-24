@@ -1,1 +1,1 @@
-var mnemonic = "expire defense swap harbor rocket wolf general siege segment nurse pelican replace";
+var mnemonic = "luggage clutch matrix bomb shadow addict inner dilemma tumble area pig dwarf";

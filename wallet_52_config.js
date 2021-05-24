@@ -1,1 +1,1 @@
-var mnemonic = "galaxy dog thunder play speak trial miracle wash dress multiply fabric enhance";
+var mnemonic = "mass sea holiday tenant fish gold mutual view ocean empty dinner worth";

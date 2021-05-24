@@ -1,1 +1,1 @@
-var mnemonic = "nation pink axis person mass tuna friend solution scrap mass ethics quit";
+var mnemonic = "sell middle unlock napkin test harsh today coconut resist yellow tumble brain";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito addict vacant mimic gloom damage garden barely female spot syrup toddler";
+var mnemonic = "cute able urban silver hobby goddess address like cool buffalo leopard choose";

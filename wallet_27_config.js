@@ -1,1 +1,1 @@
-var mnemonic = "lamp half imitate evidence worry another farm because alley endorse snake cute";
+var mnemonic = "energy trend plastic virtual crane table impose confirm they grape chapter radar";

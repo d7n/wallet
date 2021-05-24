@@ -1,1 +1,1 @@
-var mnemonic = "ostrich canal anxiety swallow impose hollow permit year tool pudding lecture fine";
+var mnemonic = "hair ability innocent orphan point shiver excess tragic mountain fetch scatter already";

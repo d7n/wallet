@@ -1,1 +1,1 @@
-var mnemonic = "afford have club talent manage pelican doll monster shed congress mix judge";
+var mnemonic = "enjoy live asset orchard lady supply elephant arch energy street leaf interest";
