@@ -1,1 +1,1 @@
-var mnemonic = "slight health moral dinosaur team script recall face bar sing peace shiver";
+var mnemonic = "globe gesture hunt afford picture always flock found analyst turkey they one";

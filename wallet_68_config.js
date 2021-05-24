@@ -1,1 +1,1 @@
-var mnemonic = "curve common vivid hour furnace improve release senior hint force order cloth";
+var mnemonic = "smoke problem clock ignore solar deposit tackle scatter grace insane tunnel very";

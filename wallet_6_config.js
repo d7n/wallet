@@ -1,1 +1,1 @@
-var mnemonic = "above average utility helmet party believe prepare master rather gaze orphan rent";
+var mnemonic = "firm swamp screen expand absurd lens box gasp blur range satoshi adult";

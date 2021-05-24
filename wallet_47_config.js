@@ -1,1 +1,1 @@
-var mnemonic = "brand profit south jeans glance gorilla other fringe bargain code water price";
+var mnemonic = "maid similar taxi sort humble about thrive always parade neutral awful trim";

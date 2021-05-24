@@ -1,1 +1,1 @@
-var mnemonic = "opinion safe lawsuit midnight tattoo lazy cinnamon hedgehog captain top accuse battle";
+var mnemonic = "spare shop cloud pupil feature more ridge fossil tenant neglect space salt";

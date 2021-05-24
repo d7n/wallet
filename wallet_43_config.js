@@ -1,1 +1,1 @@
-var mnemonic = "resist special wild small celery regret art orient retire season skin crumble";
+var mnemonic = "orbit visa mansion appear choice alone crouch spoil galaxy runway badge carpet";

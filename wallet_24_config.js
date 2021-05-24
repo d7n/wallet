@@ -1,1 +1,1 @@
-var mnemonic = "faculty provide neglect receive rotate ride kid clever resource credit nature plate";
+var mnemonic = "valve vital upset harbor alien penalty flush design today unusual reopen current";

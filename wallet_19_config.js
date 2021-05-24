@@ -1,1 +1,1 @@
-var mnemonic = "letter torch lobster perfect electric monitor salad hello screen keen resemble elite";
+var mnemonic = "exit odor fashion orchard alarm want rich rocket supply trend tail wonder";

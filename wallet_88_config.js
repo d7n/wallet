@@ -1,1 +1,1 @@
-var mnemonic = "ball trophy fabric acid citizen save judge combine patch victory under enroll";
+var mnemonic = "surge jelly raven method focus acquire tail grocery mansion entire office trap";

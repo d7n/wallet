@@ -1,1 +1,1 @@
-var mnemonic = "churn loop junior derive miracle ramp grid drama flower flavor choose opera";
+var mnemonic = "rely impact bring urge goddess damp drink monster debate opera damage shed";

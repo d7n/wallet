@@ -1,1 +1,1 @@
-var mnemonic = "believe clap curtain square open rain gospel almost tone shrimp skate luxury";
+var mnemonic = "forest wheel intact wrestle kind panther drastic inform devote drip guard arrow";

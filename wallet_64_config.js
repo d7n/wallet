@@ -1,1 +1,1 @@
-var mnemonic = "napkin voice calm pulse alter curious surge autumn genuine shoulder property dry";
+var mnemonic = "brisk include eight flame lawn dust vault horn uniform sustain pole pet";

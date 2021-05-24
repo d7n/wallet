@@ -1,1 +1,1 @@
-var mnemonic = "fat above angle snow crime giant rhythm rough rule cash drop uniform";
+var mnemonic = "round exact symptom area banner abandon dove craft local wire raccoon seven";

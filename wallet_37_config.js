@@ -1,1 +1,1 @@
-var mnemonic = "badge piano certain timber bean include chief fame grace large target surge";
+var mnemonic = "grit coast duty detail emerge box ladder object visit indicate explain avoid";

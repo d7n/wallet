@@ -1,1 +1,1 @@
-var mnemonic = "swear forward such melt vote cheap demand aerobic enter acoustic tribe tongue";
+var mnemonic = "square thought cave stereo aisle push antique weasel rich middle seminar song";

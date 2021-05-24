@@ -1,1 +1,1 @@
-var mnemonic = "weasel right silver sugar grace globe judge hold innocent alert catalog spare";
+var mnemonic = "master gasp innocent quick theme stick rocket smooth escape cotton picture impulse";

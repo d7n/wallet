@@ -1,1 +1,1 @@
-var mnemonic = "alarm very engine journey glass bubble cash olympic echo luxury depth adult";
+var mnemonic = "twin cliff say snap aware measure soon learn discover side cattle wreck";

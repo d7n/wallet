@@ -1,1 +1,1 @@
-var mnemonic = "tiny skin romance hurt unit frost walnut sentence desert slam bomb lounge";
+var mnemonic = "soon trigger marine drop rally wasp nice immune betray sea pear knee";

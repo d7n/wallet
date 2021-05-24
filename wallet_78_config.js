@@ -1,1 +1,1 @@
-var mnemonic = "boss unveil across tuna alley taste soft alley elephant suffer oven fix";
+var mnemonic = "bench mix silent toast beauty undo situate neutral gospel invest team legal";

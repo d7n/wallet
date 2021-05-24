@@ -1,1 +1,1 @@
-var mnemonic = "order fiction sick another glue oxygen anger try soft olive various original";
+var mnemonic = "cigar practice peanut share accuse sell impulse bread push now peasant night";

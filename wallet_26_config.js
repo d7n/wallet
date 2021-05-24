@@ -1,1 +1,1 @@
-var mnemonic = "crowd wealth sibling trim wrap sting cricket creek cherry know cool car";
+var mnemonic = "problem forget wet grunt deposit erosion layer blouse donkey tank wall elite";

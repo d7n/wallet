@@ -1,1 +1,1 @@
-var mnemonic = "indoor identify copy detect turn column airport fish reveal arrest choice design";
+var mnemonic = "color perfect misery wrist sail borrow fence sample hollow scorpion screen shoot";

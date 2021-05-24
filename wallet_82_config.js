@@ -1,1 +1,1 @@
-var mnemonic = "hunt october cross human omit loop finish crush soda swarm such endorse";
+var mnemonic = "use vivid absurd orbit inner orbit finger discover hip place flip wave";

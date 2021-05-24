@@ -1,1 +1,1 @@
-var mnemonic = "cotton icon lesson enemy twice lumber fee recipe decade scout smooth charge";
+var mnemonic = "eager vault quality crowd machine maze scene limit bridge dinner uniform misery";

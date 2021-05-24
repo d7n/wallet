@@ -1,1 +1,1 @@
-var mnemonic = "broccoli siren minor gas deputy copy journey car chapter dose devote shield";
+var mnemonic = "monkey wrong lobster amazing liquid blur write mosquito elder eye correct retreat";

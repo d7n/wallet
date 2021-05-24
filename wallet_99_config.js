@@ -1,1 +1,1 @@
-var mnemonic = "whale busy protect mansion easily tower purse gap suit turtle pelican uncover";
+var mnemonic = "author prepare main card manage egg voyage gold nasty gasp farm admit";

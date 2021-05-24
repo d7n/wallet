@@ -1,1 +1,1 @@
-var mnemonic = "fix bird mansion put thing wet copper legend woman move excuse cannon";
+var mnemonic = "praise canoe report merge squirrel used biology federal that drift hammer calm";

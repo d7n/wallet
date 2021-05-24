@@ -1,1 +1,1 @@
-var mnemonic = "paper demand occur biology health bicycle addict govern loan interest crystal cross";
+var mnemonic = "blind else mad goose eye one put come wish purse estate winter";

@@ -1,1 +1,1 @@
-var mnemonic = "list possible trumpet pet hood hill cluster sausage surface oxygen tape shrimp";
+var mnemonic = "trash alter hollow pigeon receive city gaze uniform sight donate retire trial";

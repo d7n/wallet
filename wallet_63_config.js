@@ -1,1 +1,1 @@
-var mnemonic = "security section mystery biology borrow force depend arrive inflict pistol upon arrow";
+var mnemonic = "rack tent where injury slab achieve october vanish speed picture stable eternal";

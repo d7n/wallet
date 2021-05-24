@@ -1,1 +1,1 @@
-var mnemonic = "retreat razor duck diary lawsuit view hungry end winner begin cloud fetch";
+var mnemonic = "world culture maple source hover flavor swift album kiwi sense scorpion media";

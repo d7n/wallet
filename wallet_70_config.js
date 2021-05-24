@@ -1,1 +1,1 @@
-var mnemonic = "hurry neutral typical long soldier gain height account army expect giggle midnight";
+var mnemonic = "approve soft embody trial become pet proud trumpet horn bag lunch copy";

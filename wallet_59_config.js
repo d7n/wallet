@@ -1,1 +1,1 @@
-var mnemonic = "lucky deal various weapon ribbon book cart draw foster cream tenant inform";
+var mnemonic = "hip problem shrug improve thunder elbow crop inherit sorry story uncle below";

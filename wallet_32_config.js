@@ -1,1 +1,1 @@
-var mnemonic = "next upgrade private icon glory rhythm various update enrich transfer tennis open";
+var mnemonic = "reduce source isolate stamp unknown stove key rifle beauty curve cake radar";

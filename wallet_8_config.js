@@ -1,1 +1,1 @@
-var mnemonic = "double clip outer excite screen mutual gentle vocal era arrange flat disagree";
+var mnemonic = "actual check choose table carpet decline then actor turkey leave again kitten";

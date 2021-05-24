@@ -1,1 +1,1 @@
-var mnemonic = "fruit mix suggest dinosaur celery liquid alley taste peanut aware kangaroo approve";
+var mnemonic = "license blade sausage humor harvest run foster able nerve finger clean run";

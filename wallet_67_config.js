@@ -1,1 +1,1 @@
-var mnemonic = "window resist drastic anxiety icon luxury medal squeeze sail pottery marble miracle";
+var mnemonic = "february edge atom fame dawn deer anger copy dish expire length myself";

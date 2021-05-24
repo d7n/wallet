@@ -1,1 +1,1 @@
-var mnemonic = "leave concert globe beach book barely copy business bachelor alpha green pepper";
+var mnemonic = "equal connect aisle rebuild minimum trick permit violin tell love excite pull";

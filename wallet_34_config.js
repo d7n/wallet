@@ -1,1 +1,1 @@
-var mnemonic = "apart leisure chat talk viable husband wash coconut ritual dad hobby monkey";
+var mnemonic = "grace pet cash tree devote oppose mule angle render favorite truth fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor memory olive raw bring summer casual member buddy couple rubber muscle";
+var mnemonic = "amazing dentist tree journey surge stick champion mimic hole rabbit reason young";

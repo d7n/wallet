@@ -1,1 +1,1 @@
-var mnemonic = "diamond rich buddy resource inform thank reason box property script bike spot";
+var mnemonic = "rare display someone latin post prefer patient pupil logic shop demand early";

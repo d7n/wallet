@@ -1,1 +1,1 @@
-var mnemonic = "filter entry betray seven snack hat coyote swamp cool birth ivory dune";
+var mnemonic = "six tomato keen maze nuclear drastic orchard husband lounge dragon polar start";

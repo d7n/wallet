@@ -1,1 +1,1 @@
-var mnemonic = "unusual air thrive found service dynamic carpet dutch ozone faint system enhance";
+var mnemonic = "gorilla glove conduct trouble fatal nut agree grab knock clever major diet";

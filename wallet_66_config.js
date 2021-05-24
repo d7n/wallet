@@ -1,1 +1,1 @@
-var mnemonic = "harvest program split range uphold chronic chef slight soldier vicious trade negative";
+var mnemonic = "chalk mention juice decline figure menu then issue rely depart civil combine";

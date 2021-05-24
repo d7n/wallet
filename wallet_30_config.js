@@ -1,1 +1,1 @@
-var mnemonic = "kind evidence mixture page decade toss sister stomach honey alley deny mandate";
+var mnemonic = "mule cup wrestle siren frog vibrant twin farm assault job long alcohol";

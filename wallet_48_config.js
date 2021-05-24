@@ -1,1 +1,1 @@
-var mnemonic = "scatter soldier lecture river town misery rough shock list loud vibrant annual";
+var mnemonic = "blind olive wave wreck turtle math concert cause mad major style puppy";

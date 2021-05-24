@@ -1,1 +1,1 @@
-var mnemonic = "toddler nominee toast train fade else decrease evolve pill grape country hurry";
+var mnemonic = "target moon march immense goose wise occur interest pupil mass legal frown";

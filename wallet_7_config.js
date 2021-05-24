@@ -1,1 +1,1 @@
-var mnemonic = "aisle burst vacuum practice episode spin quit typical flee among south swallow";
+var mnemonic = "clown toy select portion tiger van please reduce chuckle reopen winter coin";

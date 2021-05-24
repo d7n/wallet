@@ -1,1 +1,1 @@
-var mnemonic = "giant toilet cook pulp space cube degree crucial own limit tree zero";
+var mnemonic = "lawn obscure cushion spawn size sorry invest pig hobby shine duck nice";

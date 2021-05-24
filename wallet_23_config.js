@@ -1,1 +1,1 @@
-var mnemonic = "ready nephew glance license rally clown public cry area gasp green gravity";
+var mnemonic = "sing return minimum flavor rent slogan rate virus wolf east frame hungry";

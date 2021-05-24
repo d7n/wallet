@@ -1,1 +1,1 @@
-var mnemonic = "awake ahead more expire census brick orange awful hub bike media antique";
+var mnemonic = "awful mule reject average razor devote remain monkey require certain woman grid";

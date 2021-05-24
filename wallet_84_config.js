@@ -1,1 +1,1 @@
-var mnemonic = "gossip image thumb enhance false devote income rather rare skull journey never";
+var mnemonic = "secret logic ramp citizen absent theme crop foot aim sponsor tortoise armed";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor typical control clarify allow theme casual hole mix main urge tilt";
+var mnemonic = "size argue glance ten fashion flame vast peanut learn pave choice enhance";

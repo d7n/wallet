@@ -1,1 +1,1 @@
-var mnemonic = "damp smart wheat also pottery century match oil fault exercise rule bulb";
+var mnemonic = "help reflect suffer outside gorilla rare day sustain crouch ten vendor kiwi";

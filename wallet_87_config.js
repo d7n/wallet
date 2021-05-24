@@ -1,1 +1,1 @@
-var mnemonic = "bid alcohol scout stomach echo fan real chef uncover excite health common";
+var mnemonic = "woman tribe priority again angle perfect animal local stairs picnic cry exhibit";

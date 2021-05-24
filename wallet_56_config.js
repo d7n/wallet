@@ -1,1 +1,1 @@
-var mnemonic = "scene blouse process rib myth right cart vanish eight position female west";
+var mnemonic = "rib legal stock seminar absorb case stuff solve embody stone pretty tone";

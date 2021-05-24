@@ -1,1 +1,1 @@
-var mnemonic = "jewel laundry viable hidden mention shiver palace spider amateur woman lava neither";
+var mnemonic = "fall glue seed sight slush wreck peanut rib supply double crane glare";

@@ -1,1 +1,1 @@
-var mnemonic = "more extend accident shiver strike pipe fatigue huge door beach capable paper";
+var mnemonic = "effort figure tribe wrestle wish just convince gate exercise town soda supreme";

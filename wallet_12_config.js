@@ -1,1 +1,1 @@
-var mnemonic = "blade laugh voice manage anger say fine about pattern desert year orbit";
+var mnemonic = "light dutch want ready foil never latin warm myself child nose patient";

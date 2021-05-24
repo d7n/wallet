@@ -1,1 +1,1 @@
-var mnemonic = "major depart lawsuit game card awful afraid vocal sunny nut task consider";
+var mnemonic = "off average abandon output pumpkin camp rabbit travel sustain clock device symbol";

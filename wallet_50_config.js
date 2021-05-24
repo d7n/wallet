@@ -1,1 +1,1 @@
-var mnemonic = "vicious camp leaf unit close short dad annual relief slender flip margin";
+var mnemonic = "jaguar black subway eager prevent seminar run become tiny rack tissue hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "next pave planet draw cave laugh clock clap alcohol spot word clay";
+var mnemonic = "joy lend pen polar clay snack useless world vocal supreme pelican business";

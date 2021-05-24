@@ -1,1 +1,1 @@
-var mnemonic = "fine twelve olympic female consider athlete what strike artefact practice kind express";
+var mnemonic = "modify immune arena update solution bicycle maximum horror curious concert fog polar";

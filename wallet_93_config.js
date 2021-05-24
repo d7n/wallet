@@ -1,1 +1,1 @@
-var mnemonic = "chalk dust chief thank sausage exclude jungle educate urban holiday violin jewel";
+var mnemonic = "hour brother peasant cherry zone guide afraid bunker outdoor column wood cook";

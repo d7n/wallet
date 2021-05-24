@@ -1,1 +1,1 @@
-var mnemonic = "shrug dutch donate awesome visa grocery diamond border digital ripple giggle poem";
+var mnemonic = "garlic never box hunt food myth buddy hawk mutual inch dish miracle";

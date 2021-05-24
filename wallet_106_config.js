@@ -1,1 +1,1 @@
-var mnemonic = "bar bacon wear ensure prosper crowd aspect shift occur future jacket toilet";
+var mnemonic = "submit funny tennis section fringe pair fabric cement flower spot pool culture";

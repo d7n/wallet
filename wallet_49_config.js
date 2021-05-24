@@ -1,1 +1,1 @@
-var mnemonic = "catalog weather curtain guitar copper arch sand rather reflect model dance pause";
+var mnemonic = "whip spawn delay curve inner purity fault holiday mother column flash adjust";

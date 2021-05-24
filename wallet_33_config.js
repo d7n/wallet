@@ -1,1 +1,1 @@
-var mnemonic = "step adult three answer winner easy prevent penalty father drop interest pause";
+var mnemonic = "humble swear witness history regret real novel dove lend spider measure enlist";

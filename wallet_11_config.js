@@ -1,1 +1,1 @@
-var mnemonic = "trigger rich ordinary cement doll arrange belt between mention wife rocket weapon";
+var mnemonic = "ancient pledge left screen bamboo stool canvas until analyst donkey index wet";

@@ -1,1 +1,1 @@
-var mnemonic = "pill trial attack assault fragile injury essence napkin shove wood topple illness";
+var mnemonic = "basket ostrich buddy thumb soul curious pulp second clay solar alpha rather";

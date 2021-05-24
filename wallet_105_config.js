@@ -1,1 +1,1 @@
-var mnemonic = "mean add ring end dismiss blade quote axis clip verb blast bean";
+var mnemonic = "announce leader magic come system science casual script swing famous village maple";

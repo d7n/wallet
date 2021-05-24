@@ -1,1 +1,1 @@
-var mnemonic = "decline clutch actor first lawn stumble caught now outer creek venue boil";
+var mnemonic = "initial wire three despair pelican month milk middle dress three glide diary";

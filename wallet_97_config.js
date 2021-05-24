@@ -1,1 +1,1 @@
-var mnemonic = "behind ginger property diet select talk vacant lawsuit subway skate cushion pride";
+var mnemonic = "wait book rice sleep tuna traffic print vapor slam tuition exotic plug";

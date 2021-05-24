@@ -1,1 +1,1 @@
-var mnemonic = "antenna swallow bronze thumb inch any wagon young enrich link develop rude";
+var mnemonic = "found humble child post blur piece twist clutch vivid bean pill symbol";

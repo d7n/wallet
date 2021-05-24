@@ -1,1 +1,1 @@
-var mnemonic = "popular age degree ten panda daring fancy dutch burden throw deliver lamp";
+var mnemonic = "paper mutual job hurry ignore describe judge outdoor three belt oppose suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt actor plate artwork harvest lemon alcohol universe sun quarter pulse gun";
+var mnemonic = "churn journey health ability fringe ill response capable step river coin fever";

@@ -1,1 +1,1 @@
-var mnemonic = "member almost boy gas garbage diary violin fiction athlete strategy oval jacket";
+var mnemonic = "exhaust must april scan candy butter early slush rival grant law arrive";

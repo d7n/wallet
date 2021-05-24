@@ -1,1 +1,1 @@
-var mnemonic = "volume drum bottom crew try safe power phone brain glow dial erase";
+var mnemonic = "fragile impose train ancient skate suspect gadget food village usage raise clay";

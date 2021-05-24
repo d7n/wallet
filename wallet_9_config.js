@@ -1,1 +1,1 @@
-var mnemonic = "wheel truly play season artefact sting kick spot alert excuse notice addict";
+var mnemonic = "fit stumble ugly surprise weather oyster relief exact exchange wool ritual rule";

@@ -1,1 +1,1 @@
-var mnemonic = "panic decade tail witness rigid physical suit basic convince normal promote repair";
+var mnemonic = "elephant draw oyster enable spice argue craft select reform submit face dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "blue echo patch above jeans stock gap aim vapor vague skin city";
+var mnemonic = "grief sleep nerve quit type smile stone program true rifle entry faith";

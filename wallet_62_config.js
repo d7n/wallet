@@ -1,1 +1,1 @@
-var mnemonic = "then whisper picture hood sight rhythm mesh excuse edit coconut usual muscle";
+var mnemonic = "reduce citizen man trophy denial nose armed alcohol chef jar lunar cheap";

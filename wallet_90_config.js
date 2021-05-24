@@ -1,1 +1,1 @@
-var mnemonic = "version cube hybrid onion must razor lazy cotton virus young dizzy kite";
+var mnemonic = "sugar rubber tissue risk discover boy hour grunt bracket brief walnut fossil";

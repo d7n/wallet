@@ -1,1 +1,1 @@
-var mnemonic = "language spice butter column absorb odor can trouble lawsuit butter suggest morning";
+var mnemonic = "behave hundred wonder attract spoil shove route exhaust expose half chronic entry";
