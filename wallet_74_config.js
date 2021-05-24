@@ -1,1 +1,1 @@
-var mnemonic = "acid corn portion example cram manual mesh security quit hybrid poet enrich";
+var mnemonic = "carbon liar beef idea meadow spoil clump wine enact table course blame";

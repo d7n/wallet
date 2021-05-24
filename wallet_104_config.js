@@ -1,1 +1,1 @@
-var mnemonic = "happy true monkey hill diamond feed cricket indicate response castle potato know";
+var mnemonic = "filter question moral reflect fiction edge divide rigid spice jelly chest roof";

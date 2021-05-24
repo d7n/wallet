@@ -1,1 +1,1 @@
-var mnemonic = "side dust tribe combine garment banana tourist warrior cart wall chunk collect";
+var mnemonic = "ski debris such learn pilot reunion purchase curtain hidden couch fancy surround";

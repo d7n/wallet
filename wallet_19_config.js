@@ -1,1 +1,1 @@
-var mnemonic = "grow spike ensure gain habit outer woman spike identify cheap blind exit";
+var mnemonic = "energy orange square special wrestle clinic pitch damp churn blind cargo indoor";

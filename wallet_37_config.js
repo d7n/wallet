@@ -1,1 +1,1 @@
-var mnemonic = "bottom magic drastic hello animal arrange pole nature food wash confirm grunt";
+var mnemonic = "cable cinnamon ceiling gun retreat pave because trophy dream type emotion alone";

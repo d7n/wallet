@@ -1,1 +1,1 @@
-var mnemonic = "possible wild water cram invite canal young congress length kitchen habit song";
+var mnemonic = "tonight term bunker shift kit joy you paper walk worry timber wine";

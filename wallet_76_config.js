@@ -1,1 +1,1 @@
-var mnemonic = "swift math online boring salt muffin violin soda teach boring budget aspect";
+var mnemonic = "rent below grape subway solve enrich thunder thank wide tiny utility marble";

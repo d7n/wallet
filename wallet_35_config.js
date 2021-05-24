@@ -1,1 +1,1 @@
-var mnemonic = "work tennis case deal asthma receive medal joy catch narrow round floor";
+var mnemonic = "staff badge april normal mind diagram rich diet cook sweet marble pulp";

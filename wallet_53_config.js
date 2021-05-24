@@ -1,1 +1,1 @@
-var mnemonic = "gadget squeeze creek among fat novel midnight wing cheese gallery only behind";
+var mnemonic = "crunch burger easy permit lend sunset demise domain obvious danger battle turtle";

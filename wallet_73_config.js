@@ -1,1 +1,1 @@
-var mnemonic = "fade shadow august ten chief silent weather little tribe clerk recipe seed";
+var mnemonic = "cluster february limit slow hawk inside unusual turkey devote any miss art";

@@ -1,1 +1,1 @@
-var mnemonic = "truck enemy disagree super green remove gift test leg coast museum cash";
+var mnemonic = "long truth menu brisk proof series deputy pact green tilt split chaos";

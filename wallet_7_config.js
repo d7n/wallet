@@ -1,1 +1,1 @@
-var mnemonic = "case torch ski transfer try raise spike goddess nurse sign noodle virtual";
+var mnemonic = "level grant gossip camp garment whip aspect bag frozen chat tower bonus";

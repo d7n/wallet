@@ -1,1 +1,1 @@
-var mnemonic = "host moment beef apple boil arch surround test sword tobacco myself miracle";
+var mnemonic = "sibling return educate submit what grass toward razor turkey resemble romance cage";

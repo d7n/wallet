@@ -1,1 +1,1 @@
-var mnemonic = "fox ticket battle humor meadow swallow inch evil vital forest tired film";
+var mnemonic = "snake keen ostrich west razor shield deer because grain region together tackle";

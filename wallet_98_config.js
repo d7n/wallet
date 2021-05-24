@@ -1,1 +1,1 @@
-var mnemonic = "wedding stable outdoor unusual erosion foot document address present embark decrease relax";
+var mnemonic = "coil doll argue toward chief put air soup local frame foster gauge";

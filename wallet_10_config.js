@@ -1,1 +1,1 @@
-var mnemonic = "night drastic claw paddle soon primary buddy acid pupil bronze mango uncle";
+var mnemonic = "unlock kit olympic protect reduce slow defense truly donor point render fabric";

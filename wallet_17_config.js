@@ -1,1 +1,1 @@
-var mnemonic = "engine celery ridge network father gravity between pottery poem venture start van";
+var mnemonic = "guilt treat simple firm radar design violin goddess broccoli tumble table industry";

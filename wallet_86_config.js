@@ -1,1 +1,1 @@
-var mnemonic = "rocket refuse ivory error great disorder flee report swallow student crawl knee";
+var mnemonic = "elbow estate view share hill region stem shuffle limit layer anger praise";

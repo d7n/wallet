@@ -1,1 +1,1 @@
-var mnemonic = "nature kiss various space casino middle inside narrow behind nuclear analyst canal";
+var mnemonic = "sport milk engage pioneer save harvest learn bicycle family final castle market";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid prosper clump enlist turkey female obvious seek decide next face basket";
+var mnemonic = "wisdom airport foil main glory library matrix heavy cliff cave mad alter";

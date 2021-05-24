@@ -1,1 +1,1 @@
-var mnemonic = "pull trust cigar kidney attend volume apart rescue mountain lunar typical segment";
+var mnemonic = "tube boy praise body they cruel board law panic motor column about";

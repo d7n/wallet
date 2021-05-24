@@ -1,1 +1,1 @@
-var mnemonic = "donate already color never appear language core laugh art child ecology exotic";
+var mnemonic = "excite found angle add curve menu earn beyond gasp swing tell divorce";

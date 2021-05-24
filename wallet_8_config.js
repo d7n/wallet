@@ -1,1 +1,1 @@
-var mnemonic = "elevator slice sheriff injury young drip snack nothing match uncover upper enroll";
+var mnemonic = "task busy monitor latin hover gaze eager torch idea grant pigeon call";

@@ -1,1 +1,1 @@
-var mnemonic = "art ten exotic hedgehog panda arctic movie artist uniform zone sniff clay";
+var mnemonic = "public west pink useless comic tomato top pause milk what harbor aim";

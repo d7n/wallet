@@ -1,1 +1,1 @@
-var mnemonic = "rocket boost inside swing mandate dial tiger neutral sweet month possible shoe";
+var mnemonic = "meadow neither color benefit omit private dragon gossip brother pledge tribe laptop";

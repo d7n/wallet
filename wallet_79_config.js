@@ -1,1 +1,1 @@
-var mnemonic = "oven envelope tattoo enact glory nut possible put exhaust guess left stable";
+var mnemonic = "olive arrive wear shy kiss then wink slot bamboo leader cool undo";

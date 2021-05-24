@@ -1,1 +1,1 @@
-var mnemonic = "harbor avocado there setup verb knee mandate uniform vault satisfy total use";
+var mnemonic = "cute card alien cricket share maid forum chair radar midnight almost firm";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket section spatial solve fish punch cram toy field name proud board";
+var mnemonic = "tree mean boss horror venue enough today doll uniform include trap trick";

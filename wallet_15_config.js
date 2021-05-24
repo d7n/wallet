@@ -1,1 +1,1 @@
-var mnemonic = "limb apology anger insect plunge next refuse tomato myth aisle shield index";
+var mnemonic = "album oyster physical fiber present sure fun apart sniff miss wonder move";

@@ -1,1 +1,1 @@
-var mnemonic = "onion bid hero illegal leaf gas agree renew ask hour seed wonder";
+var mnemonic = "donor injury disagree boy entire sock stool train kitchen noise clay wise";

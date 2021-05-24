@@ -1,1 +1,1 @@
-var mnemonic = "bundle save feel vocal enforce uncle laptop trust wolf vehicle laundry toast";
+var mnemonic = "fashion decide loud easy amateur aisle phone air push what scatter maid";

@@ -1,1 +1,1 @@
-var mnemonic = "sting timber casino oak leisure action express tower width monitor what brown";
+var mnemonic = "bulk globe rally physical smile kind evoke express mean pole couch monitor";

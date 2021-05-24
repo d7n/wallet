@@ -1,1 +1,1 @@
-var mnemonic = "garage region spare roof spend choose pulp shuffle twin offer just egg";
+var mnemonic = "scare pill engage obvious sheriff risk blur leaf wonder mean sibling six";

@@ -1,1 +1,1 @@
-var mnemonic = "describe window border skill tiny faculty pool kitchen cliff obey bullet impose";
+var mnemonic = "imitate demise area awesome student brown cupboard resource guard vendor grace nasty";

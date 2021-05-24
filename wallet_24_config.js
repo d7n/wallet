@@ -1,1 +1,1 @@
-var mnemonic = "inquiry horror album syrup warfare rotate kitten device pencil holiday example modify";
+var mnemonic = "wine amazing allow social arrange nice luxury certain typical immune laundry chunk";

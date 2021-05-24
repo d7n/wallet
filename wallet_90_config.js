@@ -1,1 +1,1 @@
-var mnemonic = "okay veteran service eye wagon nature first stick dizzy blast funny seminar";
+var mnemonic = "suit vessel salmon hour angle hire age used online rotate silk kit";

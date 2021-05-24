@@ -1,1 +1,1 @@
-var mnemonic = "enroll brother december grid lab salon original mosquito shuffle zero ginger trouble";
+var mnemonic = "toast lonely basic exchange term guitar farm wealth bring brush scrap fiction";

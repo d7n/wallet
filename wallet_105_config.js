@@ -1,1 +1,1 @@
-var mnemonic = "glow utility huge cloud feature equal pizza trend little level arm plastic";
+var mnemonic = "hurry pluck benefit struggle marine genre smooth park forum document hen thought";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics absent razor gather spin green seat acoustic dust round spice green";
+var mnemonic = "promote volume found hurdle observe wrong organ laptop property work shoot where";

@@ -1,1 +1,1 @@
-var mnemonic = "car teach pizza embrace wedding box lawn green decrease lion salad laptop";
+var mnemonic = "tissue box liar define shoulder document summer floor wrist cube husband curious";

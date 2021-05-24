@@ -1,1 +1,1 @@
-var mnemonic = "give hand indicate dish island ripple render furnace note caution hint weasel";
+var mnemonic = "unable enable lounge gesture simple dawn motion simple board exchange crater sight";

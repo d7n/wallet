@@ -1,1 +1,1 @@
-var mnemonic = "alarm latin luggage run leisure icon embrace bag cement awful about blanket";
+var mnemonic = "segment announce shiver strategy rack antenna affair lazy dry sniff switch you";

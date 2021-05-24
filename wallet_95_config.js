@@ -1,1 +1,1 @@
-var mnemonic = "cream female icon rabbit neck cage random equal mention space black reject";
+var mnemonic = "park guide pause deny sight floor fix impulse between whale unknown pool";

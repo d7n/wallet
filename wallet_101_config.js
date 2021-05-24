@@ -1,1 +1,1 @@
-var mnemonic = "gentle pact valve illegal move attract enforce napkin road teach goddess quality";
+var mnemonic = "dynamic version mutual gift vacuum length coach decrease program forest choice script";

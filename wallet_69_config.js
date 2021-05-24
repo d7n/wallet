@@ -1,1 +1,1 @@
-var mnemonic = "wrong learn shell blouse very rescue army razor silver airport drive grow";
+var mnemonic = "cargo broccoli cabin cliff payment between apology buyer stamp country pretty piece";

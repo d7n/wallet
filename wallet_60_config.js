@@ -1,1 +1,1 @@
-var mnemonic = "purse response follow language notice human salute wide begin sign merit sorry";
+var mnemonic = "join boil cram bean split robot bus rather decrease almost argue exit";

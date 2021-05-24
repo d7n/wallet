@@ -1,1 +1,1 @@
-var mnemonic = "rather mountain mother mixture skate loud enact must nasty fitness defense heart";
+var mnemonic = "water sing write smoke hundred bid bind prize quiz quality path alcohol";

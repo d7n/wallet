@@ -1,1 +1,1 @@
-var mnemonic = "stool cereal ahead mimic birth jewel pattern peace follow annual screen ridge";
+var mnemonic = "orphan average nest album combine curious loud stove ensure satoshi fee dad";

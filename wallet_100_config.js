@@ -1,1 +1,1 @@
-var mnemonic = "coconut correct bleak school rebel firm aspect manage summer gossip unique dolphin";
+var mnemonic = "day twice cluster fatigue shallow position club girl return solve absorb tackle";

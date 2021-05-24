@@ -1,1 +1,1 @@
-var mnemonic = "lend boy muscle lemon torch ostrich almost object window laugh soul solid";
+var mnemonic = "rally demise evolve tone decade wood north isolate alone eager entire payment";

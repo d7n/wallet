@@ -1,1 +1,1 @@
-var mnemonic = "gloom dry tone party rebuild neither execute miracle flip picnic remind outside";
+var mnemonic = "token glare joke cousin life midnight motor copper weapon endorse talent rotate";

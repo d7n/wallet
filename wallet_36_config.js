@@ -1,1 +1,1 @@
-var mnemonic = "monitor angry razor uncle secret green rather stand rescue pumpkin prison tennis";
+var mnemonic = "paper dog plastic action truck valid stone draw grief target tone shield";

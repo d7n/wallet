@@ -1,1 +1,1 @@
-var mnemonic = "judge already inquiry noble student bomb wide neither bomb veteran deny coconut";
+var mnemonic = "impulse ice ignore win must used video drink loop quick rally artefact";

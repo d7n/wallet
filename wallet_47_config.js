@@ -1,1 +1,1 @@
-var mnemonic = "slot fossil work decide lottery divorce flock adult badge humor busy confirm";
+var mnemonic = "play dance clinic city twice review boost equal flat violin crack gasp";

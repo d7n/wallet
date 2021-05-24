@@ -1,1 +1,1 @@
-var mnemonic = "drip suit bottom sphere museum universe secret valley radar file lonely wage";
+var mnemonic = "little tomorrow dress snack mouse merry vacuum write drastic embrace soul abandon";

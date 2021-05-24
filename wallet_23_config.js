@@ -1,1 +1,1 @@
-var mnemonic = "chief access vicious process ugly spider census milk chalk relax marriage little";
+var mnemonic = "raccoon useless random taxi orphan health replace spoon now moon below peace";

@@ -1,1 +1,1 @@
-var mnemonic = "dose service coffee isolate bomb piano attack protect attract document increase syrup";
+var mnemonic = "auction neutral harsh relax spin coffee genuine rate winner rookie annual pilot";

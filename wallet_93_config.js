@@ -1,1 +1,1 @@
-var mnemonic = "rescue denial velvet cotton regret local give habit spike gather oil walk";
+var mnemonic = "noble illness bulk tomato floor weapon science gaze betray angle law appear";

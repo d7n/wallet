@@ -1,1 +1,1 @@
-var mnemonic = "mandate mystery balance end peanut chef warfare silk emerge profit burden artist";
+var mnemonic = "awesome fine final aerobic silent gossip broom kiss accuse license uniform spin";

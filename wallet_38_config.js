@@ -1,1 +1,1 @@
-var mnemonic = "quick afraid sauce kite price fade bag multiply will thumb order fine";
+var mnemonic = "occur clinic credit exhibit trap text student wood frequent village barely hidden";

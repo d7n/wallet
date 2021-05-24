@@ -1,1 +1,1 @@
-var mnemonic = "bitter tribe fall solution give learn resist truck safe verb cost jaguar";
+var mnemonic = "task fade funny number envelope rich column hood blood middle unfair rare";

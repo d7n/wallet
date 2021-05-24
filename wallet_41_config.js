@@ -1,1 +1,1 @@
-var mnemonic = "enable mother match sugar almost boat cupboard limb this fluid art cotton";
+var mnemonic = "until brush urban what seven forum exhaust marble canvas usual grunt logic";

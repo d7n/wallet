@@ -1,1 +1,1 @@
-var mnemonic = "excite prison ostrich guilt settle goose result corn gallery useful angry spatial";
+var mnemonic = "polar devote truck palm prize lucky potato van shrimp mix excess aware";

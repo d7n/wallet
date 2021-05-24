@@ -1,1 +1,1 @@
-var mnemonic = "tenant pulse album inquiry swing knife pepper outer drama vault secret space";
+var mnemonic = "disorder dirt select welcome word sad globe kit entry repair acoustic fetch";

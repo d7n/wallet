@@ -1,1 +1,1 @@
-var mnemonic = "planet lady away allow wash puzzle wing filter day cause present mushroom";
+var mnemonic = "swear broken minute future flat offer rib approve armed often among cotton";

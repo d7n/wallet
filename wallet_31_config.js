@@ -1,1 +1,1 @@
-var mnemonic = "risk brisk dish doctor tortoise surface crowd reject exchange brand cart cushion";
+var mnemonic = "thought pistol asset salute order voyage rich unique sort pizza banner upon";

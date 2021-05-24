@@ -1,1 +1,1 @@
-var mnemonic = "margin pet fatigue holiday bulb suffer word swarm away image bracket close";
+var mnemonic = "can toast evoke entire together inner exile slam roast erase ridge crowd";

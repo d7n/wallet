@@ -1,1 +1,1 @@
-var mnemonic = "kitten credit apple trumpet scale report dentist whisper close bind alcohol first";
+var mnemonic = "repeat truck enable avocado little large lizard popular lift black page basic";

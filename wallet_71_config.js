@@ -1,1 +1,1 @@
-var mnemonic = "hurry then glide upset crucial unknown grow main globe skirt hour private";
+var mnemonic = "disorder dumb step embrace city north credit soul toward soda term van";

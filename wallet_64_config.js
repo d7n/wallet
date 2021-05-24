@@ -1,1 +1,1 @@
-var mnemonic = "finger hen junior cargo excess sweet impose merge shoulder action dad lottery";
+var mnemonic = "pond exit weekend install decorate timber want pill occur brass two ankle";

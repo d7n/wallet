@@ -1,1 +1,1 @@
-var mnemonic = "mention giggle grant alpha husband chair eternal insane huge display jeans cereal";
+var mnemonic = "video dust goose thrive apart icon food reduce suffer acoustic imitate video";

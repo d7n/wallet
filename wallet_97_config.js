@@ -1,1 +1,1 @@
-var mnemonic = "regular theme guitar table drink summer velvet primary elegant follow boring ecology";
+var mnemonic = "skill cloud orbit already ride pyramid praise absorb identify patrol rain seed";

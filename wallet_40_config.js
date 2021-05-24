@@ -1,1 +1,1 @@
-var mnemonic = "dignity art must trim soccer muscle wrestle noble detect thumb accident arena";
+var mnemonic = "major deputy exist juice forget inch bulk kitchen credit trap fire punch";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal dynamic inside donkey stuff hold omit bike salmon fix cruel decide";
+var mnemonic = "badge marriage gas produce weird organ wink west odor immense doll coral";

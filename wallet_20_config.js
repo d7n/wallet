@@ -1,1 +1,1 @@
-var mnemonic = "cage page motor mom more mail banner polar law glory sell truly";
+var mnemonic = "alpha lunar horror topple used youth illegal scissors area oyster cheap exhaust";

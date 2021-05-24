@@ -1,1 +1,1 @@
-var mnemonic = "fossil quick clutch crazy pudding derive beach anger tissue imitate neutral ivory";
+var mnemonic = "price grid fish symbol tag hurry vault vault box level desk guitar";

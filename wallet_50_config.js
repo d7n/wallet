@@ -1,1 +1,1 @@
-var mnemonic = "pupil ahead hair scan rent brisk afraid wide crater rabbit lounge host";
+var mnemonic = "enact machine shoot begin into february vanish will volume loop shop real";

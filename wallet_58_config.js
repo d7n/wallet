@@ -1,1 +1,1 @@
-var mnemonic = "either always rebel like dumb cram alien vocal account remind glue void";
+var mnemonic = "tip evil pave fade surface endless ignore advice like trouble gadget width";

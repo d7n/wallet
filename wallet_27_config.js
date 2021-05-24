@@ -1,1 +1,1 @@
-var mnemonic = "moon april garage around mother october clump solution lesson provide muscle despair";
+var mnemonic = "stem nasty pulse goat wrist praise guess have off screen grain explain";

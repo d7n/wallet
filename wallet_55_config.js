@@ -1,1 +1,1 @@
-var mnemonic = "embody evoke retire fork fit raise joy village void youth water holiday";
+var mnemonic = "nurse tiger kitten cream month decline chronic drama verify address drink away";

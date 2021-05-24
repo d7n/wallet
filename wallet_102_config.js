@@ -1,1 +1,1 @@
-var mnemonic = "track river either gun hammer note gesture recycle between else virtual remove";
+var mnemonic = "fun train issue dawn turkey shadow record toe damp atom angry else";

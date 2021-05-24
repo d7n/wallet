@@ -1,1 +1,1 @@
-var mnemonic = "jealous uncover airport cable assault sphere grit rapid shine toward shock disorder";
+var mnemonic = "system unfold fine exhaust milk season robust cancel whisper tool address menu";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble acoustic melt material kick chicken grid dilemma attitude soul blur poem";
+var mnemonic = "gospel ripple range birth barrel canoe marble black palm mass once equip";

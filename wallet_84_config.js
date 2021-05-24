@@ -1,1 +1,1 @@
-var mnemonic = "salmon zoo legal treat action almost sadness faculty knee proof chunk person";
+var mnemonic = "trim easy pulp grain bus city old purse episode figure kind lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "account jelly wire sponsor owner rubber cradle denial hidden tape solid until";
+var mnemonic = "danger alone file country mom gospel effort cement near engage thank soon";

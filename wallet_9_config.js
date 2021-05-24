@@ -1,1 +1,1 @@
-var mnemonic = "cigar cross cost episode brush measure feed primary void transfer chicken gasp";
+var mnemonic = "gaze share cream move friend bronze desert lawn give donkey choose siege";

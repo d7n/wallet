@@ -1,1 +1,1 @@
-var mnemonic = "weapon okay bring source spell drive title trim sword gun rate derive";
+var mnemonic = "erosion juice faith blast era client rigid banner art month traffic rent";
