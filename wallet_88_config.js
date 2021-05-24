@@ -1,1 +1,1 @@
-var mnemonic = "hard build frequent truck satisfy snow soft spend animal ahead cake simple";
+var mnemonic = "ball trophy fabric acid citizen save judge combine patch victory under enroll";

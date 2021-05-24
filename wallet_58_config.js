@@ -1,1 +1,1 @@
-var mnemonic = "fluid olympic doctor skin modify mail winter can enforce powder such account";
+var mnemonic = "bachelor typical control clarify allow theme casual hole mix main urge tilt";

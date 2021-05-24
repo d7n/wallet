@@ -1,1 +1,1 @@
-var mnemonic = "employ helmet foam heart access annual radar prosper rack idle onion version";
+var mnemonic = "sudden home like announce build return sword insane long canal they dumb";

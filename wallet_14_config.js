@@ -1,1 +1,1 @@
-var mnemonic = "right sniff grass shrimp water smart license mushroom object other unlock ivory";
+var mnemonic = "unusual air thrive found service dynamic carpet dutch ozone faint system enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber cause true sword item mercy fetch dwarf ripple exit sign trigger";
+var mnemonic = "next upgrade private icon glory rhythm various update enrich transfer tennis open";

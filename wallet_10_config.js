@@ -1,1 +1,1 @@
-var mnemonic = "blast traffic wasp horn wool where effort gather just subway rate episode";
+var mnemonic = "cousin outdoor army immune mango wagon describe high raise opinion bulb pill";

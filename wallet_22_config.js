@@ -1,1 +1,1 @@
-var mnemonic = "borrow humble cool file core wrap discover wood mango crane lizard agree";
+var mnemonic = "rail reveal main sunny peanut agent update capital limit print garbage holiday";

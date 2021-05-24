@@ -1,1 +1,1 @@
-var mnemonic = "buffalo dust unfold route cradle spatial actress pen tooth direct alert smart";
+var mnemonic = "giant toilet cook pulp space cube degree crucial own limit tree zero";

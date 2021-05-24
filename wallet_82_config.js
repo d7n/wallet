@@ -1,1 +1,1 @@
-var mnemonic = "floor slice letter negative invest pattern problem scrap disease peanut blast thrive";
+var mnemonic = "hunt october cross human omit loop finish crush soda swarm such endorse";

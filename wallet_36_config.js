@@ -1,1 +1,1 @@
-var mnemonic = "gorilla spoil kitten cereal hospital electric clerk frog north gasp lawsuit coast";
+var mnemonic = "diamond rich buddy resource inform thank reason box property script bike spot";

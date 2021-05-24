@@ -1,1 +1,1 @@
-var mnemonic = "bulk riot indicate charge nerve attend sell glad neither ceiling buffalo mountain";
+var mnemonic = "credit first bitter above shiver talent robust dice gold venture owner repair";

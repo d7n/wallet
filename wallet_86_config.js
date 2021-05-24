@@ -1,1 +1,1 @@
-var mnemonic = "friend exchange shield leader depart strategy hire daughter nest flock north isolate";
+var mnemonic = "list possible trumpet pet hood hill cluster sausage surface oxygen tape shrimp";

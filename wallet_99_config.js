@@ -1,1 +1,1 @@
-var mnemonic = "brick online salmon logic manage mobile myth dash east butter easily course";
+var mnemonic = "whale busy protect mansion easily tower purse gap suit turtle pelican uncover";

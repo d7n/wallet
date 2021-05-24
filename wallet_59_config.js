@@ -1,1 +1,1 @@
-var mnemonic = "head edge sword lake myself wealth talk leg version strategy submit puzzle";
+var mnemonic = "lucky deal various weapon ribbon book cart draw foster cream tenant inform";

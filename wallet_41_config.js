@@ -1,1 +1,1 @@
-var mnemonic = "lobster rain bounce glimpse invest female domain meadow verify emotion horse spirit";
+var mnemonic = "churn loop junior derive miracle ramp grid drama flower flavor choose opera";

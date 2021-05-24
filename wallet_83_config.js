@@ -1,1 +1,1 @@
-var mnemonic = "subway skull patch prosper amazing relief pause win rival inquiry slow gown";
+var mnemonic = "swear forward such melt vote cheap demand aerobic enter acoustic tribe tongue";

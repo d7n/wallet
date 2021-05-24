@@ -1,1 +1,1 @@
-var mnemonic = "grain stock ceiling turtle release mandate outside pear wish civil entry stock";
+var mnemonic = "shy must fiction recycle woman wink wife sure pet pact benefit bean";

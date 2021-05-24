@@ -1,1 +1,1 @@
-var mnemonic = "glow adjust lazy metal slab explain lizard slab advice impulse route nation";
+var mnemonic = "panic decade tail witness rigid physical suit basic convince normal promote repair";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake profit climb opinion company stone keep report false oppose course twin";
+var mnemonic = "badge piano certain timber bean include chief fame grace large target surge";

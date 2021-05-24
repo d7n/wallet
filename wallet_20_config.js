@@ -1,1 +1,1 @@
-var mnemonic = "order style secret isolate small mandate north furnace pigeon spare school two";
+var mnemonic = "gift occur slogan spatial sign crop stage latin melt issue very strong";

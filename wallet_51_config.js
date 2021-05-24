@@ -1,1 +1,1 @@
-var mnemonic = "garden kitchen relax marine door term seminar differ dumb tackle wear own";
+var mnemonic = "more extend accident shiver strike pipe fatigue huge door beach capable paper";

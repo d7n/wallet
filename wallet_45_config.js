@@ -1,1 +1,1 @@
-var mnemonic = "remove romance merit open gap edge innocent pistol notable kiwi merry river";
+var mnemonic = "blue echo patch above jeans stock gap aim vapor vague skin city";

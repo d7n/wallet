@@ -1,1 +1,1 @@
-var mnemonic = "accident fault brain current brush chaos tired pass piece left vicious deny";
+var mnemonic = "pill trial attack assault fragile injury essence napkin shove wood topple illness";

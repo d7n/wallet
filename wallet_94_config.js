@@ -1,1 +1,1 @@
-var mnemonic = "stick judge trash cruel alert join cage disagree receive ceiling eye lawsuit";
+var mnemonic = "head once skate lizard stable office open school deal supply square choose";

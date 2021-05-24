@@ -1,1 +1,1 @@
-var mnemonic = "stairs caution attack embody finish wonder capital poem state useless lady quit";
+var mnemonic = "solid until ankle clutch early forest cook swift game keep panel roof";

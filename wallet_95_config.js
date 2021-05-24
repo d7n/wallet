@@ -1,1 +1,1 @@
-var mnemonic = "boring bulb aunt shy mixed scare pigeon hire reason credit timber isolate";
+var mnemonic = "indicate remind man hockey awake angle beach long multiply twelve easy basic";

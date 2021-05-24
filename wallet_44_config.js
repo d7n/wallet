@@ -1,1 +1,1 @@
-var mnemonic = "mobile drum grace deputy minor flame hotel enforce food two involve dove";
+var mnemonic = "jewel laundry viable hidden mention shiver palace spider amateur woman lava neither";

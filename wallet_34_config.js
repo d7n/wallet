@@ -1,1 +1,1 @@
-var mnemonic = "choose brush plunge elevator hospital choose quote betray artwork wire bamboo fabric";
+var mnemonic = "apart leisure chat talk viable husband wash coconut ritual dad hobby monkey";

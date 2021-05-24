@@ -1,1 +1,1 @@
-var mnemonic = "sound income discover scale review anxiety robot post lens frown donor document";
+var mnemonic = "bid alcohol scout stomach echo fan real chef uncover excite health common";

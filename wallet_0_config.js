@@ -1,1 +1,1 @@
-var mnemonic = "someone skull direct cram economy tomorrow sting rotate flight knock crack save";
+var mnemonic = "believe clap curtain square open rain gospel almost tone shrimp skate luxury";

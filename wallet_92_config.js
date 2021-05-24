@@ -1,1 +1,1 @@
-var mnemonic = "black typical shoot taste alien million summer process poet hollow fiber pact";
+var mnemonic = "master enrich library egg tortoise reduce later feed off exotic eight local";

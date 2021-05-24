@@ -1,1 +1,1 @@
-var mnemonic = "dragon soul comic cave spike immune gentle post stumble six crater pretty";
+var mnemonic = "opinion safe lawsuit midnight tattoo lazy cinnamon hedgehog captain top accuse battle";

@@ -1,1 +1,1 @@
-var mnemonic = "skull tape glue daughter easy cheese twice disease rocket sketch cup glide";
+var mnemonic = "length clever ready wedding train tail digital enlist pear hazard slow process";

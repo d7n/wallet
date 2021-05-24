@@ -1,1 +1,1 @@
-var mnemonic = "wrap mass ordinary accuse tourist elegant heart goose advice alcohol refuse slim";
+var mnemonic = "faculty provide neglect receive rotate ride kid clever resource credit nature plate";

@@ -1,1 +1,1 @@
-var mnemonic = "define universe ozone second dirt reason unveil worry secret metal language exact";
+var mnemonic = "bar bacon wear ensure prosper crowd aspect shift occur future jacket toilet";

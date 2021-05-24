@@ -1,1 +1,1 @@
-var mnemonic = "express layer retire render cloud guard thank cute hollow such invest rally";
+var mnemonic = "trigger rich ordinary cement doll arrange belt between mention wife rocket weapon";

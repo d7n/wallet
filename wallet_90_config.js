@@ -1,1 +1,1 @@
-var mnemonic = "swim verify erode file emotion pyramid club auto silly diary cloud rhythm";
+var mnemonic = "version cube hybrid onion must razor lazy cotton virus young dizzy kite";

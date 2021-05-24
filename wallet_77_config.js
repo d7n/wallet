@@ -1,1 +1,1 @@
-var mnemonic = "raise acid faint left nasty menu cheese remind learn audit jungle unfold";
+var mnemonic = "erupt actor plate artwork harvest lemon alcohol universe sun quarter pulse gun";

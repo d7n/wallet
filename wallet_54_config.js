@@ -1,1 +1,1 @@
-var mnemonic = "throw arena van whip squirrel tube core year merit catalog stadium canvas";
+var mnemonic = "popular age degree ten panda daring fancy dutch burden throw deliver lamp";

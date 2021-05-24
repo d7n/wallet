@@ -1,1 +1,1 @@
-var mnemonic = "nuclear palm track face husband found aunt ivory jacket wheat bachelor prefer";
+var mnemonic = "major depart lawsuit game card awful afraid vocal sunny nut task consider";

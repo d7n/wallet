@@ -1,1 +1,1 @@
-var mnemonic = "fork group traffic home foster indoor spike found bacon office cash hamster";
+var mnemonic = "chalk dust chief thank sausage exclude jungle educate urban holiday violin jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty skull receive detail aim poem cabbage grief lesson hunt fish diagram";
+var mnemonic = "rapid circle carry option swarm dinosaur dinosaur describe barely demise adult trap";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope future win online lunch pluck hollow empty frame food diamond exhibit";
+var mnemonic = "outer giant ritual control wild shield dash leopard marriage dress fog enact";

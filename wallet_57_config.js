@@ -1,1 +1,1 @@
-var mnemonic = "half next pair tape exchange cabin want over oval top keep unable";
+var mnemonic = "pupil flush essence forum bottom furnace episode frequent tongue harbor cargo engine";

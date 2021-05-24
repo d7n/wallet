@@ -1,1 +1,1 @@
-var mnemonic = "sleep cloud lab bread add error gossip cattle fiscal orient power develop";
+var mnemonic = "above average utility helmet party believe prepare master rather gaze orphan rent";

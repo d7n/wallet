@@ -1,1 +1,1 @@
-var mnemonic = "ostrich basket owner envelope train business scatter story guitar gauge fatigue student";
+var mnemonic = "behind ginger property diet select talk vacant lawsuit subway skate cushion pride";

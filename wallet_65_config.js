@@ -1,1 +1,1 @@
-var mnemonic = "major run belt body chronic pill insect manual daring enough biology emotion";
+var mnemonic = "detail learn beach long copper alien taste false joy trash swift alcohol";

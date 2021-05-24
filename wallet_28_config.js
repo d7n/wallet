@@ -1,1 +1,1 @@
-var mnemonic = "clean illegal open flee reunion tube weird bean setup mean anger answer";
+var mnemonic = "cradle forest pluck case tide attitude tortoise occur over unknown pulp size";

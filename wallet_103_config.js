@@ -1,1 +1,1 @@
-var mnemonic = "salt diary hammer ignore squeeze mystery trash stick author ship torch alley";
+var mnemonic = "piano law stomach little found concert aisle matter virtual hurt hedgehog super";

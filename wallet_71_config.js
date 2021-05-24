@@ -1,1 +1,1 @@
-var mnemonic = "appear favorite group raw can velvet remind little innocent smooth trial trap";
+var mnemonic = "decline clutch actor first lawn stumble caught now outer creek venue boil";

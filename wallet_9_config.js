@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow paper hotel donor silk sugar negative move sad exotic decide dumb";
+var mnemonic = "wheel truly play season artefact sting kick spot alert excuse notice addict";

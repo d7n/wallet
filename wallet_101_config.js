@@ -1,1 +1,1 @@
-var mnemonic = "enforce sea drum found trophy smooth dragon address boil venture wine detect";
+var mnemonic = "toddler nominee toast train fade else decrease evolve pill grape country hurry";

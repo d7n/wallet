@@ -1,1 +1,1 @@
-var mnemonic = "reduce neck novel raccoon tent fault decline test gaze repair correct bomb";
+var mnemonic = "harvest program split range uphold chronic chef slight soldier vicious trade negative";

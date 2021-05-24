@@ -1,1 +1,1 @@
-var mnemonic = "excess gap fluid stadium gadget cat climb power picture grow absurd off";
+var mnemonic = "brand profit south jeans glance gorilla other fringe bargain code water price";

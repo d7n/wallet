@@ -1,1 +1,1 @@
-var mnemonic = "equal canoe invest net shallow honey faculty invite toe pipe word antenna";
+var mnemonic = "resist special wild small celery regret art orient retire season skin crumble";

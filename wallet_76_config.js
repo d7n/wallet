@@ -1,1 +1,1 @@
-var mnemonic = "velvet melt exist wet salute hard obey perfect say tragic summer season";
+var mnemonic = "broccoli siren minor gas deputy copy journey car chapter dose devote shield";

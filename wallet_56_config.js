@@ -1,1 +1,1 @@
-var mnemonic = "private auction east infant arm provide step orphan actual analyst this permit";
+var mnemonic = "scene blouse process rib myth right cart vanish eight position female west";

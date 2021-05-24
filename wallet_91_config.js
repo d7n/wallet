@@ -1,1 +1,1 @@
-var mnemonic = "issue drip leader animal hero inhale knife metal year green olive shell";
+var mnemonic = "next pave planet draw cave laugh clock clap alcohol spot word clay";

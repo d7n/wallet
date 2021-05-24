@@ -1,1 +1,1 @@
-var mnemonic = "thumb just maid retire reason beyond labor fog injury birth modify lunch";
+var mnemonic = "paper demand occur biology health bicycle addict govern loan interest crystal cross";

@@ -1,1 +1,1 @@
-var mnemonic = "believe repeat check slot prize throw puppy pepper endorse hat letter news";
+var mnemonic = "napkin voice calm pulse alter curious surge autumn genuine shoulder property dry";

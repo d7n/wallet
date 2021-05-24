@@ -1,1 +1,1 @@
-var mnemonic = "lemon angle million silent stable decade venue power comfort license crisp ship";
+var mnemonic = "letter torch lobster perfect electric monitor salad hello screen keen resemble elite";

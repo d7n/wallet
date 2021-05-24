@@ -1,1 +1,1 @@
-var mnemonic = "idle math nominee middle cart please rack nasty arch memory ready focus";
+var mnemonic = "hurry neutral typical long soldier gain height account army expect giggle midnight";

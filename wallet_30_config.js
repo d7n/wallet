@@ -1,1 +1,1 @@
-var mnemonic = "claim mom liquid razor library super there rubber autumn alpha lava teach";
+var mnemonic = "kind evidence mixture page decade toss sister stomach honey alley deny mandate";

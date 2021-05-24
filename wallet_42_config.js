@@ -1,1 +1,1 @@
-var mnemonic = "legend school express angle lunch simple divide comic extend abandon example virtual";
+var mnemonic = "filter entry betray seven snack hat coyote swamp cool birth ivory dune";

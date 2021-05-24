@@ -1,1 +1,1 @@
-var mnemonic = "thing confirm key sell enjoy please charge glory alpha prevent please pistol";
+var mnemonic = "fix bird mansion put thing wet copper legend woman move excuse cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "razor switch tissue volume dish orphan genuine assume bind kitchen high actress";
+var mnemonic = "security section mystery biology borrow force depend arrive inflict pistol upon arrow";

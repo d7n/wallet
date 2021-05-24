@@ -1,1 +1,1 @@
-var mnemonic = "sunny inside spend decorate whip meat silly direct blade speak base rocket";
+var mnemonic = "law casual thunder awful salad initial correct across race stamp midnight absurd";

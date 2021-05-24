@@ -1,1 +1,1 @@
-var mnemonic = "disorder flame skirt blossom poet mistake party wolf ring trip laundry boost";
+var mnemonic = "indoor identify copy detect turn column airport fish reveal arrest choice design";

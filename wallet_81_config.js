@@ -1,1 +1,1 @@
-var mnemonic = "ski license small science dignity media waste cushion tortoise fragile cotton length";
+var mnemonic = "weasel right silver sugar grace globe judge hold innocent alert catalog spare";

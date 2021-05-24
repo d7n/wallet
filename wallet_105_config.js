@@ -1,1 +1,1 @@
-var mnemonic = "post knife clinic senior pony shed uniform section civil note fatal hire";
+var mnemonic = "mean add ring end dismiss blade quote axis clip verb blast bean";

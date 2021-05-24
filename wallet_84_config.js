@@ -1,1 +1,1 @@
-var mnemonic = "method yellow fringe offer beyond stand confirm embody pizza broccoli label alone";
+var mnemonic = "gossip image thumb enhance false devote income rather rare skull journey never";

@@ -1,1 +1,1 @@
-var mnemonic = "snack trap wear nasty toast sponsor basic abstract artist recipe know dinner";
+var mnemonic = "tiny skin romance hurt unit frost walnut sentence desert slam bomb lounge";

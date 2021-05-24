@@ -1,1 +1,1 @@
-var mnemonic = "pudding federal cliff shop meadow despair audit detect sauce else blush elbow";
+var mnemonic = "order fiction sick another glue oxygen anger try soft olive various original";

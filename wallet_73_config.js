@@ -1,1 +1,1 @@
-var mnemonic = "same disagree hand proud soda ivory coil index point diesel laundry left";
+var mnemonic = "alarm very engine journey glass bubble cash olympic echo luxury depth adult";

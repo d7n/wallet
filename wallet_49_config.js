@@ -1,1 +1,1 @@
-var mnemonic = "million coin invest boy powder poem detect never federal width echo dry";
+var mnemonic = "catalog weather curtain guitar copper arch sand rather reflect model dance pause";

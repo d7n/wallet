@@ -1,1 +1,1 @@
-var mnemonic = "mention illness loud legal genuine choose pretty art family stable tank dinosaur";
+var mnemonic = "blade laugh voice manage anger say fine about pattern desert year orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar scout frost relax ocean expand mango force mixed afford treat unit";
+var mnemonic = "surround hammer stick minimum ribbon always wait firm stomach lottery wear clean";

@@ -1,1 +1,1 @@
-var mnemonic = "will vague adapt code disease plunge bring crazy tone million alcohol diet";
+var mnemonic = "shrug dutch donate awesome visa grocery diamond border digital ripple giggle poem";

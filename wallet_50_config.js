@@ -1,1 +1,1 @@
-var mnemonic = "velvet slender ancient crash police misery evoke update dash vivid coil ahead";
+var mnemonic = "vicious camp leaf unit close short dad annual relief slender flip margin";

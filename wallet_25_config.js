@@ -1,1 +1,1 @@
-var mnemonic = "live shift young amateur inch soon survey glow favorite sugar under together";
+var mnemonic = "antenna swallow bronze thumb inch any wagon young enrich link develop rude";

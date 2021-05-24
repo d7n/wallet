@@ -1,1 +1,1 @@
-var mnemonic = "glue street uniform bounce rate shaft away explain lift entry stock shift";
+var mnemonic = "fat above angle snow crime giant rhythm rough rule cash drop uniform";

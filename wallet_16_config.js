@@ -1,1 +1,1 @@
-var mnemonic = "ranch stool help wonder enforce tell course illegal float letter deliver daughter";
+var mnemonic = "fruit mix suggest dinosaur celery liquid alley taste peanut aware kangaroo approve";

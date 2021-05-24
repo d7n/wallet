@@ -1,1 +1,1 @@
-var mnemonic = "point thank empower arrive multiply home bonus morning item stick quiz yellow";
+var mnemonic = "volume drum bottom crew try safe power phone brain glow dial erase";

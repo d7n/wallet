@@ -1,1 +1,1 @@
-var mnemonic = "glass anger blood debate myself sphere gate legal reflect author bread actual";
+var mnemonic = "curve common vivid hour furnace improve release senior hint force order cloth";

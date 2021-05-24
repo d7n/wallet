@@ -1,1 +1,1 @@
-var mnemonic = "regret fringe destroy crane fury home scrap sort valve salon wish bulb";
+var mnemonic = "sponsor memory olive raw bring summer casual member buddy couple rubber muscle";
