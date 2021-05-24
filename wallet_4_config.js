@@ -1,1 +1,1 @@
-var mnemonic = "what riot notice merit ritual disease sure provide interest crop trouble order";
+var mnemonic = "vocal frame garden journey age regular share peace festival report decade cancel";

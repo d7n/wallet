@@ -1,1 +1,1 @@
-var mnemonic = "victory memory edit deny mouse two vault badge yellow private trend spin";
+var mnemonic = "pumpkin radar royal giraffe oblige width subway install list pole stock tuition";

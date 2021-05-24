@@ -1,1 +1,1 @@
-var mnemonic = "dolphin jungle mystery oblige cactus pencil suffer delay trumpet repair track famous";
+var mnemonic = "owner glance color rural famous awful release provide parent arrest tunnel thing";

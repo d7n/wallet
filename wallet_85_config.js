@@ -1,1 +1,1 @@
-var mnemonic = "river exchange suggest theme maximum enjoy slot ostrich car people sustain minute";
+var mnemonic = "solution paddle inquiry asthma snake lottery network flower recycle river option rapid";

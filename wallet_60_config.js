@@ -1,1 +1,1 @@
-var mnemonic = "tuition educate medal scrap swing notice never long torch degree proud gossip";
+var mnemonic = "spider tower color skill coil hobby ritual stable inhale lyrics render gap";

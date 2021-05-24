@@ -1,1 +1,1 @@
-var mnemonic = "pencil reform buzz skin path index depend chimney opera boat priority face";
+var mnemonic = "noodle lift south weird muscle view smoke allow affair deposit exist phone";

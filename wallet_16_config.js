@@ -1,1 +1,1 @@
-var mnemonic = "share client speak click gap bracket squirrel enroll paddle become weekend sight";
+var mnemonic = "yard angle visit amazing liar also sell turtle noodle wait thrive defy";

@@ -1,1 +1,1 @@
-var mnemonic = "horror where cluster trap ocean unable bulk smile merit pole child there";
+var mnemonic = "people shrimp can level outdoor leader fantasy stadium drop silly zebra fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "catch pistol exotic cash quote acquire detail shrimp figure era addict chat";
+var mnemonic = "brush vote hard wheel modify process nothing total surge wife kitchen blanket";

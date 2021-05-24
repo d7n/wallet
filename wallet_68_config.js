@@ -1,1 +1,1 @@
-var mnemonic = "blue mutual region sleep grant sand column caught trash matter type swift";
+var mnemonic = "disorder dress arm switch solve doctor egg evolve expose senior issue will";

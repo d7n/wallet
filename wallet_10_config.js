@@ -1,1 +1,1 @@
-var mnemonic = "oven extra palm jeans hello glare frown crew shine decide diagram behave";
+var mnemonic = "nominee slush twenty fiscal neutral dizzy fury boat ignore future kitten heavy";

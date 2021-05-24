@@ -1,1 +1,1 @@
-var mnemonic = "sister interest crop diet solid skill ice ceiling armor there throw defense";
+var mnemonic = "curious hunt catch number deal lion drama rude elite talk kid speed";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol love romance fiber door garlic wage print actress speak sketch destroy";
+var mnemonic = "uniform general trigger major tongue flat cart umbrella detect family response toss";

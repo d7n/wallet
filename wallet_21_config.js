@@ -1,1 +1,1 @@
-var mnemonic = "sibling cement animal fragile blouse can topic brother cost poverty identify pizza";
+var mnemonic = "will over negative front daring input path jealous embark waste course pioneer";

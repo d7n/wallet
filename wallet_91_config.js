@@ -1,1 +1,1 @@
-var mnemonic = "ripple fuel curve mistake salmon fly predict position praise shaft retire someone";
+var mnemonic = "destroy when scrap total wet during rotate frown snap stereo glory method";

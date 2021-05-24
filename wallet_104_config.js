@@ -1,1 +1,1 @@
-var mnemonic = "gravity enter ginger crop grape inspire foam remind pink member pelican fork";
+var mnemonic = "foot erase shuffle bacon sand year carry pole tenant cute sniff travel";

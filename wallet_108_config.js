@@ -1,1 +1,1 @@
-var mnemonic = "crater chuckle behave trust magnet door battle dumb pass style ancient auto";
+var mnemonic = "bottom enact bar jewel snake door first net music alpha benefit beyond";

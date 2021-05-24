@@ -1,1 +1,1 @@
-var mnemonic = "attitude fantasy visa sheriff document hazard boat fetch edge announce omit fossil";
+var mnemonic = "vibrant amount visit record street script holiday hood cover book swamp blood";

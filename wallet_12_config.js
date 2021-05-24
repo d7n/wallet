@@ -1,1 +1,1 @@
-var mnemonic = "daring drama chuckle news squeeze learn tray decade awesome pink bag copper";
+var mnemonic = "meat cycle loan banner level canal genre lemon claw join surface paper";

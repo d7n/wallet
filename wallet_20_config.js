@@ -1,1 +1,1 @@
-var mnemonic = "clog auto junk tide modify creek october aisle account suit ill heavy";
+var mnemonic = "differ mask skill artwork federal modify airport kite problem remember orphan over";

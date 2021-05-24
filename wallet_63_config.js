@@ -1,1 +1,1 @@
-var mnemonic = "found input eagle false general tongue enter buffalo country code guide pistol";
+var mnemonic = "electric door portion wash million bounce seek pizza twenty balcony very toss";

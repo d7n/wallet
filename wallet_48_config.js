@@ -1,1 +1,1 @@
-var mnemonic = "grow master light under plate teach choose wet black profit innocent illness";
+var mnemonic = "empower chaos please deputy grab erupt envelope soul desert patch alcohol vocal";

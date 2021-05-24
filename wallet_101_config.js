@@ -1,1 +1,1 @@
-var mnemonic = "chat blood legal teach yard banana return typical solve stomach rain frozen";
+var mnemonic = "chest push judge forum coffee clog skull rail bless aerobic injury reveal";

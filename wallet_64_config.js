@@ -1,1 +1,1 @@
-var mnemonic = "alarm flat casual public hover depend describe use fan loop term street";
+var mnemonic = "bicycle foil slush humor crunch sudden sorry oak initial height hat tray";

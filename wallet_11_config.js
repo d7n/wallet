@@ -1,1 +1,1 @@
-var mnemonic = "crystal correct nose pencil stem fan bachelor replace nephew horn erupt comfort";
+var mnemonic = "spread scan tray subject dilemma cash drip limit flash travel mammal below";

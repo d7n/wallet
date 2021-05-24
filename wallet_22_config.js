@@ -1,1 +1,1 @@
-var mnemonic = "pig delay flee depart gym powder social code two labor divide fox";
+var mnemonic = "moral curtain loyal chapter extra silk spoil bundle loud orient cigar interest";

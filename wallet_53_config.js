@@ -1,1 +1,1 @@
-var mnemonic = "olympic village cheap slab consider injury canvas rifle bridge umbrella bronze brisk";
+var mnemonic = "mistake exchange attract coin plunge paddle army future brother oyster trouble pelican";

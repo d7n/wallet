@@ -1,1 +1,1 @@
-var mnemonic = "case honey oblige trophy napkin list parent settle dumb february grief flight";
+var mnemonic = "salad deer orange mad remember detail robust prize bread blossom present flavor";

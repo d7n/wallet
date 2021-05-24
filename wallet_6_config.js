@@ -1,1 +1,1 @@
-var mnemonic = "sell remain urban joke donate matrix awake proof hero area volume rookie";
+var mnemonic = "twelve swap wave setup danger cargo near project people mountain mosquito dirt";

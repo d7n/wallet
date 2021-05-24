@@ -1,1 +1,1 @@
-var mnemonic = "output shy text awesome ring please disagree drip ivory odor clog current";
+var mnemonic = "diagram lawsuit coral glare solution leaf recipe fashion empower wheat fruit toward";

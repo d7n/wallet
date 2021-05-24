@@ -1,1 +1,1 @@
-var mnemonic = "type fury fresh total plastic various shed taxi judge mammal know equip";
+var mnemonic = "reduce hundred carbon vacuum trade subway lock calm mutual idea typical trumpet";

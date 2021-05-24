@@ -1,1 +1,1 @@
-var mnemonic = "spoon earth disagree warfare merge final tray sample grunt turn cash source";
+var mnemonic = "boy muffin tennis fan song parade base mouse over badge absorb artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "fault foot bike remember extend promote float prison summer topic spice piece";
+var mnemonic = "window office loop acoustic salon climb net diagram year unit analyst fury";

@@ -1,1 +1,1 @@
-var mnemonic = "waste prize height file capital betray just effort property actor tragic smooth";
+var mnemonic = "tackle breeze gap upper brick pumpkin boost cigar pill suffer nice biology";

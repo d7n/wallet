@@ -1,1 +1,1 @@
-var mnemonic = "say coconut viable wisdom cram humble monster sunset improve snow stand sick";
+var mnemonic = "top light dry hybrid couch dinner hammer now daring sad decorate patient";

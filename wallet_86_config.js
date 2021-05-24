@@ -1,1 +1,1 @@
-var mnemonic = "wide advance juice base happy net armor abuse chief defy sorry differ";
+var mnemonic = "aisle high fade sight year side split couple alien tape jaguar attitude";

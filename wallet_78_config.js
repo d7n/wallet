@@ -1,1 +1,1 @@
-var mnemonic = "pear craft clap group accuse soccer good craft sound love master circle";
+var mnemonic = "border various gadget ozone vehicle surge vital hub silent clump save shove";

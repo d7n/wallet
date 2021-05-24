@@ -1,1 +1,1 @@
-var mnemonic = "daring sound era cycle print online execute run banner shaft square discover";
+var mnemonic = "chronic rare indoor bargain often disagree swear syrup promote case cart win";

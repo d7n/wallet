@@ -1,1 +1,1 @@
-var mnemonic = "wood taxi planet motor swear resemble glow forum size grape flower original";
+var mnemonic = "code know pole bamboo march lawn initial page image oblige square loud";

@@ -1,1 +1,1 @@
-var mnemonic = "energy diamond bike echo crack ship blanket relief clown box chicken parade";
+var mnemonic = "milk next expand monster aunt wall morning call dragon angry stool planet";

@@ -1,1 +1,1 @@
-var mnemonic = "point sting upper program weather wood barely joke clock perfect endless cute";
+var mnemonic = "fork sibling climb dinosaur venture drift canvas pizza slogan weird drive universe";

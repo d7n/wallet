@@ -1,1 +1,1 @@
-var mnemonic = "noise depend fragile tattoo fine survey lift speak dial problem bench mouse";
+var mnemonic = "asthma deputy emotion include inner afford provide federal tool employ energy mixture";

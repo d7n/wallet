@@ -1,1 +1,1 @@
-var mnemonic = "bean dinner plastic inspire meadow useful effort keep brain daughter blue fix";
+var mnemonic = "rain perfect develop purchase dice merit insect scan then ancient carbon cover";

@@ -1,1 +1,1 @@
-var mnemonic = "charge spoon laugh route sound main great virtual grass ten cash slide";
+var mnemonic = "dismiss uncover soup cloth mouse exercise seat zoo believe anchor unknown meadow";

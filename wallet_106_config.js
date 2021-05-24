@@ -1,1 +1,1 @@
-var mnemonic = "kiss post trial toilet hotel taxi adapt swing differ goddess explain away";
+var mnemonic = "relax piece giggle secret problem gold provide valve random fade reward rabbit";

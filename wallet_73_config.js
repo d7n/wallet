@@ -1,1 +1,1 @@
-var mnemonic = "gauge grace little code slice original can key canoe exit anger degree";
+var mnemonic = "asthma input develop can sweet agree mystery old outside divorce word network";

@@ -1,1 +1,1 @@
-var mnemonic = "door total photo still orphan bargain balance cattle rather exchange jelly spice";
+var mnemonic = "planet dilemma bulb enjoy alcohol hundred letter stamp bounce cruel runway donate";

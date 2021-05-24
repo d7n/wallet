@@ -1,1 +1,1 @@
-var mnemonic = "reason drama sport fancy social cannon plug noodle cross bird brown depart";
+var mnemonic = "suffer ski empower undo such syrup faculty level habit cable venue steel";

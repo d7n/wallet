@@ -1,1 +1,1 @@
-var mnemonic = "resist lounge dust lawn slight obvious tomato plug wasp west fringe super";
+var mnemonic = "pigeon account consider illness hazard skate illness type stick minor various spoon";

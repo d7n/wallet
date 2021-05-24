@@ -1,1 +1,1 @@
-var mnemonic = "innocent crazy cool walnut oval fork motor away tide unique around fatigue";
+var mnemonic = "melt sign sign there theory acid possible update ramp foil helmet cabbage";

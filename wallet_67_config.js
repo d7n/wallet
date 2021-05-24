@@ -1,1 +1,1 @@
-var mnemonic = "pipe zero oblige gain once cup claim fury over candy dust venture";
+var mnemonic = "choose fly shoot jazz excite correct fun punch sleep return pulse web";

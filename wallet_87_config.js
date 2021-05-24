@@ -1,1 +1,1 @@
-var mnemonic = "latin then control globe tennis net crop control toward poverty pluck between";
+var mnemonic = "region access finger organ can inch song claw chase lava slam route";

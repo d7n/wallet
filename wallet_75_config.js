@@ -1,1 +1,1 @@
-var mnemonic = "glory runway gain sadness royal amazing novel buddy company mercy noise crawl";
+var mnemonic = "dish faith hazard prison pill future mistake solar modify chase hollow venue";

@@ -1,1 +1,1 @@
-var mnemonic = "stool love comic father update idle attend exhaust mystery horror peanut salmon";
+var mnemonic = "fame save piano coffee call wood fog avoid ready myth able cradle";

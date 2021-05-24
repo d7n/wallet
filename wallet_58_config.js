@@ -1,1 +1,1 @@
-var mnemonic = "position just cram eagle person conduct gesture blast mean car gasp wage";
+var mnemonic = "flame fashion glove usual monitor sketch pyramid unhappy ghost tide twist ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant royal depth seek secret tell negative novel coral empty merge practice";
+var mnemonic = "peace whip damp claw coin jeans shy device attract happy chaos metal";

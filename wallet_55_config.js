@@ -1,1 +1,1 @@
-var mnemonic = "reunion gallery captain uncle rookie effort inmate survey joy apology latin capable";
+var mnemonic = "focus silver outer knock marble planet boy buffalo limit source nut keep";

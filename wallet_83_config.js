@@ -1,1 +1,1 @@
-var mnemonic = "belt used lift damp can toe artist skill there august million culture";
+var mnemonic = "army need today fire solve tiger hawk maximum cliff fluid neither grace";

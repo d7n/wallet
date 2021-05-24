@@ -1,1 +1,1 @@
-var mnemonic = "reunion toss chicken tape divert planet lab toward luxury famous noise direct";
+var mnemonic = "toward shine clarify change bargain hybrid deal exclude cave plate way radar";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel two help maze weather orient inquiry narrow ensure romance dog soldier";
+var mnemonic = "used stomach casual pulp champion monkey tag concert latin intact forget stable";

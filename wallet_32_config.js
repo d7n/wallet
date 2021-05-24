@@ -1,1 +1,1 @@
-var mnemonic = "invite vapor hockey album vague speak find elephant amount immense yard seek";
+var mnemonic = "dentist alley onion multiply shock orbit grain senior sugar section belt slush";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch pepper brain enough rich olive city tired hole tray access seed";
+var mnemonic = "neither extend filter gallery angry husband pudding believe oven shell offer still";

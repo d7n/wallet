@@ -1,1 +1,1 @@
-var mnemonic = "copper useless struggle pulse miracle ability vintage hidden ancient champion female sand";
+var mnemonic = "license artist claim sight advice hard learn fame main reunion sad learn";

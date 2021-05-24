@@ -1,1 +1,1 @@
-var mnemonic = "impose firm cement midnight cage north injury tail orchard witness trip vicious";
+var mnemonic = "umbrella creek drink program crane shuffle gap sail avoid negative garment ball";

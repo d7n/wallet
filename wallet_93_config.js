@@ -1,1 +1,1 @@
-var mnemonic = "total breeze donate curve feature journey spend swift neck worth radio put";
+var mnemonic = "swarm assume enter size air future trigger close hamster ball improve assume";

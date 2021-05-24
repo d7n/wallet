@@ -1,1 +1,1 @@
-var mnemonic = "echo strike bullet pistol dash half cruel nuclear dinner make differ monster";
+var mnemonic = "popular choice artist keep social sad despair pair base ordinary remember wolf";

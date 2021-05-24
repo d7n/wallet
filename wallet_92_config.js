@@ -1,1 +1,1 @@
-var mnemonic = "oven shuffle purse they jealous forward awkward scale bulk unhappy own sketch";
+var mnemonic = "remember eager draw satisfy manual beauty bracket trip hurry cook despair gate";

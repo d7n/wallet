@@ -1,1 +1,1 @@
-var mnemonic = "venture add cruise nuclear frog clerk noise alcohol final staff climb view";
+var mnemonic = "broken order barrel sight gun false pig recall decline feel captain coconut";

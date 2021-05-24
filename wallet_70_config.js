@@ -1,1 +1,1 @@
-var mnemonic = "champion mutual beef deer inspire nurse cement then noble lobster deny prize";
+var mnemonic = "they sibling dumb tank legal dumb mountain whale aspect charge giant price";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet salt cricket frost common nuclear fuel swallow soccer remove effort milk";
+var mnemonic = "approve joy napkin comfort battle danger edge mother inject food work impact";

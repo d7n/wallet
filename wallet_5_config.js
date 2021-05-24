@@ -1,1 +1,1 @@
-var mnemonic = "unlock chunk thought post side noodle tourist lend credit input shoe space";
+var mnemonic = "wash jelly brand prosper ask prevent gaze giant remove much stumble magnet";

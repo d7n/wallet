@@ -1,1 +1,1 @@
-var mnemonic = "gate below front auction chase damp fire midnight wrap spoon kiwi fun";
+var mnemonic = "around hammer machine silent public denial fuel system enrich hammer buffalo like";

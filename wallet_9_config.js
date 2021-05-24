@@ -1,1 +1,1 @@
-var mnemonic = "offer sketch record wear pig shed ready heart segment help tuna will";
+var mnemonic = "pizza refuse bomb bargain tooth jealous blur orphan exit glow clever beach";

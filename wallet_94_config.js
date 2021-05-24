@@ -1,1 +1,1 @@
-var mnemonic = "flight empty divert hidden water fragile office fringe cereal similar ignore hotel";
+var mnemonic = "obey trash system innocent window curtain trip kit home bounce cactus trap";

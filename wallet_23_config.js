@@ -1,1 +1,1 @@
-var mnemonic = "hope unfair armed observe force point want minimum sail wheel monster echo";
+var mnemonic = "famous swarm forest combine company fancy marine dutch toy voyage leave visual";

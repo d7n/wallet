@@ -1,1 +1,1 @@
-var mnemonic = "give hello robot scene symbol blade wet rural analyst funny calm online";
+var mnemonic = "error claw kidney mutual raven carbon inject talent slide verify rookie liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "waste key sister common other rebel afraid fog sport head kid trip";
+var mnemonic = "regular edit great syrup amused dove slide forum stone impact can theme";

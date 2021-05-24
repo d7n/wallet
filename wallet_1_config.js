@@ -1,1 +1,1 @@
-var mnemonic = "disagree need below half recipe motor simple search enemy enact more utility";
+var mnemonic = "meat ocean issue virtual stuff among agent agree connect clown stumble umbrella";

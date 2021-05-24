@@ -1,1 +1,1 @@
-var mnemonic = "indicate claw vast spoil swap helmet guitar firm now result thrive flavor";
+var mnemonic = "wink attack obey tone zero powder toast near degree fun fancy success";

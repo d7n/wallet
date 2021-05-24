@@ -1,1 +1,1 @@
-var mnemonic = "desert glimpse wealth emotion under believe lemon solve clerk gas sick liquid";
+var mnemonic = "elite credit novel amateur pass present velvet check shove fury stumble embody";

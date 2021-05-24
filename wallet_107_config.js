@@ -1,1 +1,1 @@
-var mnemonic = "pulp dust scale attend census antenna resemble situate trash cabbage wash glare";
+var mnemonic = "expose party phone valley aware brick boss vague weasel element flip dance";

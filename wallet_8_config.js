@@ -1,1 +1,1 @@
-var mnemonic = "coast already enact syrup father wage bind gas feed pause wealth trial";
+var mnemonic = "hint shy concert apart involve meadow breeze infant wrong stadium baby wash";

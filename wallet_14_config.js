@@ -1,1 +1,1 @@
-var mnemonic = "buffalo expire brush road crumble melt neither bachelor dice focus hand roof";
+var mnemonic = "whip despair lock toy skate fury change jealous recipe network top shrug";

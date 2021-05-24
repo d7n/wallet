@@ -1,1 +1,1 @@
-var mnemonic = "actual area vivid shed shield bamboo hungry endless ring artefact uncover become";
+var mnemonic = "bicycle stone ship carpet select coast whisper cherry stairs screen payment school";

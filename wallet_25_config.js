@@ -1,1 +1,1 @@
-var mnemonic = "immense sorry winner column desk call daring middle act tourist give lawsuit";
+var mnemonic = "major worth pelican wife august maze praise blanket yard caution gasp ladder";

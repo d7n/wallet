@@ -1,1 +1,1 @@
-var mnemonic = "trust arena fine clean fitness flip embrace cradle cause this panther desk";
+var mnemonic = "card fever icon dream crack agree antique armor marriage pretty fetch field";

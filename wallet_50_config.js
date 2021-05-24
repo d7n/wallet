@@ -1,1 +1,1 @@
-var mnemonic = "limit task federal outdoor citizen boost outside goose length current legal begin";
+var mnemonic = "dawn juice bean tape change tent moment reunion pyramid escape various rely";

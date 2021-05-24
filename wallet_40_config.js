@@ -1,1 +1,1 @@
-var mnemonic = "hundred merry unfair rule visa obvious service refuse globe arrive tail canoe";
+var mnemonic = "inner area sword slab push exile concert need cost decade cabbage test";

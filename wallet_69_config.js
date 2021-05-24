@@ -1,1 +1,1 @@
-var mnemonic = "echo sting dice draw blanket seven cream fuel young void book filter";
+var mnemonic = "badge jacket loan stamp mention excess donate fantasy melt wish output legend";

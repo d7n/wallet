@@ -1,1 +1,1 @@
-var mnemonic = "arena tomorrow fossil across there border motor front team retire sock token";
+var mnemonic = "amount ecology edit multiply wire tank result lens galaxy property canvas gym";

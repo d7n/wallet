@@ -1,1 +1,1 @@
-var mnemonic = "market shop lazy once wide junior custom learn inquiry vapor resist gap";
+var mnemonic = "better north fortune under vast dinner spot nice assist item dinner famous";

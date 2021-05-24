@@ -1,1 +1,1 @@
-var mnemonic = "popular fragile case wheat doctor endorse cause umbrella oxygen truth pulse essence";
+var mnemonic = "virtual owner sort bomb man truly virus mimic orchard song idle nurse";

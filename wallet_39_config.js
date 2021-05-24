@@ -1,1 +1,1 @@
-var mnemonic = "resist alert north inspire allow excess conduct deer heavy gospel antenna pig";
+var mnemonic = "relief sand sea near jealous canoe pepper excuse group cruise digital stay";

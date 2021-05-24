@@ -1,1 +1,1 @@
-var mnemonic = "situate hire velvet jeans wife panther tourist trial crowd veteran lecture keen";
+var mnemonic = "bird mimic shell strong electric swear episode bomb pumpkin return huge garbage";
