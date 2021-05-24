@@ -1,1 +1,1 @@
-var mnemonic = "supply wish welcome useless gate disagree orbit narrow barely scorpion series hat";
+var mnemonic = "disorder jazz ghost weekend sleep fiber result submit bike mandate thank turtle";

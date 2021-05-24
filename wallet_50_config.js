@@ -1,1 +1,1 @@
-var mnemonic = "ten sunny royal lizard humor web salon leader suffer rally exhibit galaxy";
+var mnemonic = "kingdom peanut situate usage evil put journey yellow sauce search vivid broom";

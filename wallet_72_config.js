@@ -1,1 +1,1 @@
-var mnemonic = "combine gorilla can success spread lesson neglect fiscal exist total drastic odor";
+var mnemonic = "know estate olive noble intact fix casual system buyer helmet country bargain";

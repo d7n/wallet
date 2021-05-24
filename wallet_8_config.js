@@ -1,1 +1,1 @@
-var mnemonic = "interest actual asthma guide thunder scene naive kit envelope myself length milk";
+var mnemonic = "thumb wisdom pear acquire pole rice before rule wrong sustain high vintage";

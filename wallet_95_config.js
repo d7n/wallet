@@ -1,1 +1,1 @@
-var mnemonic = "monkey spy flash noodle laptop rich turn asthma subway wide cloth gaze";
+var mnemonic = "rule bubble topple exhibit when erosion alcohol blouse slide affair like bamboo";

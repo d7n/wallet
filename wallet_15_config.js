@@ -1,1 +1,1 @@
-var mnemonic = "motion course job ten oven spot midnight term egg history figure screen";
+var mnemonic = "antenna virtual casual mean moon patrol tragic repair fire spoil mouse alien";

@@ -1,1 +1,1 @@
-var mnemonic = "one joy describe wrap surprise ensure hawk game promote joy lazy entire";
+var mnemonic = "initial cargo museum smoke mystery spoil gentle pulp sunset essay wave endless";

@@ -1,1 +1,1 @@
-var mnemonic = "best maze glare adapt stand abstract cigar wonder junk spy inquiry gym";
+var mnemonic = "vanish city man stuff small legal note eye mix drink speak scrap";

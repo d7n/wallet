@@ -1,1 +1,1 @@
-var mnemonic = "speed chair dutch hunt next mail thing slide wrestle attack response crucial";
+var mnemonic = "movie vital upgrade hen survey grant cereal head online illegal luggage bounce";

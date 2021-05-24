@@ -1,1 +1,1 @@
-var mnemonic = "start book ozone miracle oil bread tube kid midnight actress voyage seminar";
+var mnemonic = "gather huge wrist run solar stick submit timber portion dose family forum";

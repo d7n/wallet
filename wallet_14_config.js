@@ -1,1 +1,1 @@
-var mnemonic = "later cycle setup gasp erosion sentence armed wall jealous auction typical marble";
+var mnemonic = "dismiss census valve enemy plastic gadget enable struggle glove system one yellow";

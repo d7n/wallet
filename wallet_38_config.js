@@ -1,1 +1,1 @@
-var mnemonic = "fine symbol inmate attract lady leaf census flush hat anger increase indoor";
+var mnemonic = "unaware maple earn dolphin picnic raven issue another grow vessel carpet mesh";

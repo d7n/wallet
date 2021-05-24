@@ -1,1 +1,1 @@
-var mnemonic = "road avoid canyon follow room iron real motor antenna iron emerge tree";
+var mnemonic = "banner famous spike case evolve invite weapon success cargo siege feature nose";

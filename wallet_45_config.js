@@ -1,1 +1,1 @@
-var mnemonic = "wonder grief chase same cube have fatal half rare carbon lesson cactus";
+var mnemonic = "toilet ride brave offer goose injury hero empower alcohol cute wrestle void";

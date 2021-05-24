@@ -1,1 +1,1 @@
-var mnemonic = "mercy soft control hand immense sentence victory chief brown bonus supreme uphold";
+var mnemonic = "blue garage once robot blush chair hockey mango team economy depth wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "budget tomato wash course dance attract best rookie essence equal home anger";
+var mnemonic = "tunnel lab trash minute amount motion private domain clinic atom result true";

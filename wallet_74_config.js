@@ -1,1 +1,1 @@
-var mnemonic = "rigid federal labor prevent sun broom arctic auto budget business shiver fix";
+var mnemonic = "ginger inquiry replace sunset mosquito damage focus alert carbon salute identify toilet";

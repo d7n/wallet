@@ -1,1 +1,1 @@
-var mnemonic = "weather act stereo outside diary jewel inspire rug egg almost size girl";
+var mnemonic = "chuckle certain fruit lazy canoe shoot behave mind promote suit profit universe";

@@ -1,1 +1,1 @@
-var mnemonic = "spray huge orient seed evidence portion collect junior proud brief cross slow";
+var mnemonic = "upset device rate stove drink grant double similar together lift leisure recall";

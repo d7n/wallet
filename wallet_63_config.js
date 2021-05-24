@@ -1,1 +1,1 @@
-var mnemonic = "evolve quantum finger harsh immune assault alone slab chunk elevator attack neutral";
+var mnemonic = "pudding tennis input feature sister civil slow vibrant slogan armed journey silly";

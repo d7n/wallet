@@ -1,1 +1,1 @@
-var mnemonic = "brief rent during company artefact february caution bone patient neutral remember middle";
+var mnemonic = "sad ring student code explain number door tiny tissue gown physical umbrella";

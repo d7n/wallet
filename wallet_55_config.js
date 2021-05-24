@@ -1,1 +1,1 @@
-var mnemonic = "gravity bounce ridge rough bleak history vacuum gold piano media fire arrange";
+var mnemonic = "idea whip deer dress final cat skin give slot panel welcome clump";

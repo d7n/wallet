@@ -1,1 +1,1 @@
-var mnemonic = "feel marble ill fragile kitchen topic impact year flat mystery enable tonight";
+var mnemonic = "eight senior interest float approve certain street blur pupil catalog glass sun";

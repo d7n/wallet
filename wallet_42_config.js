@@ -1,1 +1,1 @@
-var mnemonic = "worry raise kidney unit science tube hope orchard material violin rare tongue";
+var mnemonic = "mention essay scale snow business movie diesel lemon whip pitch slide muscle";

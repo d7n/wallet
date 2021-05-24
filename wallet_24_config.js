@@ -1,1 +1,1 @@
-var mnemonic = "sibling apart mention cause fruit book west reunion firm illegal finger quality";
+var mnemonic = "book forest hollow pause stumble orange canoe script beauty brand bread man";

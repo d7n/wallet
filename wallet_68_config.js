@@ -1,1 +1,1 @@
-var mnemonic = "unfair crowd useless fence current panel loyal sphere wall evidence right estate";
+var mnemonic = "submit cause poem february answer infant spare undo input captain stock level";

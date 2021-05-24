@@ -1,1 +1,1 @@
-var mnemonic = "clog base miss chunk spike achieve festival affair law farm walk review";
+var mnemonic = "curtain dove pilot mechanic garbage method check hello census city gadget scheme";

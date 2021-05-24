@@ -1,1 +1,1 @@
-var mnemonic = "junior album lesson claw snake popular extend silver tortoise ahead picnic jeans";
+var mnemonic = "income recall motor title beach file argue category twelve foster next under";

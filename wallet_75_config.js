@@ -1,1 +1,1 @@
-var mnemonic = "sibling use submit tone abuse latin debris leave seek spot catch happy";
+var mnemonic = "shock tooth fitness figure wild motion wrap assist chef undo mean filter";

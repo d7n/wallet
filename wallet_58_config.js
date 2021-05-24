@@ -1,1 +1,1 @@
-var mnemonic = "sell switch diagram wear engine lounge abandon sword leg cradle cotton moon";
+var mnemonic = "situate come shaft gossip cram violin vibrant energy mesh sail volcano garment";

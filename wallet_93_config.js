@@ -1,1 +1,1 @@
-var mnemonic = "amazing sausage aim canvas fold walk upon random glove square sell language";
+var mnemonic = "glove parent cup reward lecture hill marine idle shoulder pyramid inflict push";

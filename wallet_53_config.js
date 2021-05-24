@@ -1,1 +1,1 @@
-var mnemonic = "spawn outdoor neglect smoke outer pizza age sign render reject stable video";
+var mnemonic = "winner claim embark yellow spice cute material critic visual coffee scorpion purchase";

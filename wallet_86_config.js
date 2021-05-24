@@ -1,1 +1,1 @@
-var mnemonic = "blind task flip concert tourist demise pipe occur vanish angle kangaroo motor";
+var mnemonic = "fiber appear enemy mother habit cotton enlist flame amount nation grit forget";

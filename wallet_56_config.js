@@ -1,1 +1,1 @@
-var mnemonic = "arrest horror pride doll car element able oblige wood quick govern begin";
+var mnemonic = "liar debris oyster dutch boost until wire click eager nephew puzzle dentist";

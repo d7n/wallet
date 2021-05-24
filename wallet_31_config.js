@@ -1,1 +1,1 @@
-var mnemonic = "black enjoy dwarf text draw address merry edge cancel hamster chapter ocean";
+var mnemonic = "badge great check clean lawsuit chase area below reject box mean river";

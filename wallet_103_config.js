@@ -1,1 +1,1 @@
-var mnemonic = "knock grant nerve echo sign economy soon valid close crazy degree decade";
+var mnemonic = "call measure derive false present caught alcohol pause pave length story impact";

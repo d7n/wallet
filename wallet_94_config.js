@@ -1,1 +1,1 @@
-var mnemonic = "grunt trash seat roof wear truck come kiss veteran still all paper";
+var mnemonic = "ribbon wagon acquire scrap ability device solar journey ridge coil fox source";

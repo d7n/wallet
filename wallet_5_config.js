@@ -1,1 +1,1 @@
-var mnemonic = "album slight girl ticket december focus clinic canvas among attract evil club";
+var mnemonic = "slogan orphan nasty eager position giraffe into frozen rug elite casual damage";

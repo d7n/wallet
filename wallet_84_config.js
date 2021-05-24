@@ -1,1 +1,1 @@
-var mnemonic = "slam trumpet marine jar cliff depend oblige truly proud home accident park";
+var mnemonic = "theme neglect deer summer club moral help slice essence tuna column business";

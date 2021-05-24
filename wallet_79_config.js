@@ -1,1 +1,1 @@
-var mnemonic = "approve shrimp true casino term scrub road relax opera invite nominee hip";
+var mnemonic = "clog wage current hurt track giggle body wrestle onion second tide dance";

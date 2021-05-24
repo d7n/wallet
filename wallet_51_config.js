@@ -1,1 +1,1 @@
-var mnemonic = "sense warm away have educate crush kitten accuse almost bonus nominee wheel";
+var mnemonic = "history oblige undo danger bone inner donkey peace noble pair net raven";

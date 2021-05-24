@@ -1,1 +1,1 @@
-var mnemonic = "when side sign expire retreat initial mammal much return noble quantum atom";
+var mnemonic = "afford have club talent manage pelican doll monster shed congress mix judge";

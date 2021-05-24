@@ -1,1 +1,1 @@
-var mnemonic = "tone because arctic elite federal same repair system jar hybrid major rubber";
+var mnemonic = "federal scrub puppy letter south output expire betray universe hero rug affair";

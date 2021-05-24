@@ -1,1 +1,1 @@
-var mnemonic = "remain van tool consider merge radar prepare iron vote grape hen adult";
+var mnemonic = "save enemy warrior estate manual salad weather shrimp rose seven divert void";

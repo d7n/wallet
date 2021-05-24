@@ -1,1 +1,1 @@
-var mnemonic = "field guilt kingdom negative they lucky about polar weather inform grid era";
+var mnemonic = "fruit sausage annual initial derive swift trip session unique immune habit rude";

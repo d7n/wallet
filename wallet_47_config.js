@@ -1,1 +1,1 @@
-var mnemonic = "future spice neutral soccer emotion draw town scout inner iron worth steel";
+var mnemonic = "multiply town hip parrot pony health jar orbit client search loop above";

@@ -1,1 +1,1 @@
-var mnemonic = "photo still air employ debate limit assault shed update income sniff black";
+var mnemonic = "amazing layer pattern record sweet maximum illegal parade river fiber ribbon reason";

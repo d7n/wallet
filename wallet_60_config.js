@@ -1,1 +1,1 @@
-var mnemonic = "void allow satisfy list primary rifle torch water solution lesson once decide";
+var mnemonic = "drop control all credit rocket above ordinary arrest debris disagree famous remain";

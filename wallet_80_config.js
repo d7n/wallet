@@ -1,1 +1,1 @@
-var mnemonic = "genre across coil hen dress harbor loyal occur source label flush autumn";
+var mnemonic = "frown filter trial motor raccoon hip all arena upper swing rocket core";

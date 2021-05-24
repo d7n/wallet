@@ -1,1 +1,1 @@
-var mnemonic = "mixed fee when like chat you labor scare innocent reflect stable inch";
+var mnemonic = "galaxy dog thunder play speak trial miracle wash dress multiply fabric enhance";

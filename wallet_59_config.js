@@ -1,1 +1,1 @@
-var mnemonic = "peace width dragon before jelly kingdom feed dwarf present bag element borrow";
+var mnemonic = "expire memory duty obtain lock wet girl easily control lucky thrive creek";

@@ -1,1 +1,1 @@
-var mnemonic = "forget purse cousin fire snack puzzle negative outside awake bonus oil give";
+var mnemonic = "pretty wolf ill fluid fade enhance provide early island inject net original";

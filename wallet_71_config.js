@@ -1,1 +1,1 @@
-var mnemonic = "profit payment horn key crouch coin stereo tank razor toe illness split";
+var mnemonic = "sort heavy giraffe rely orbit minor federal reduce abstract term learn clutch";

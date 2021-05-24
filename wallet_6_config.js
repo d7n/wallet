@@ -1,1 +1,1 @@
-var mnemonic = "fiber twice shed language ivory angry axis horror negative assist cluster song";
+var mnemonic = "visual ritual gift jar birth ranch kiss diamond hold cram relax cup";

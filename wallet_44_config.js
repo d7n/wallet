@@ -1,1 +1,1 @@
-var mnemonic = "teach disorder edit indicate mechanic output razor enlist embark merit bridge kick";
+var mnemonic = "unable this loud kangaroo drum other wink alpha shoe sudden conduct stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture digital seat rail weasel ride version sustain sad canvas work resist";
+var mnemonic = "crush citizen uphold slide feature burden gospel comfort fence use very comfort";

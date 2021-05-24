@@ -1,1 +1,1 @@
-var mnemonic = "online grab hire system rebel cheap episode hard design tower soccer fury";
+var mnemonic = "afford question wage door cool punch blanket level glory cry entire sight";

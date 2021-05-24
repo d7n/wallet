@@ -1,1 +1,1 @@
-var mnemonic = "birth father cream wisdom north puzzle insect hero disorder nurse shine uniform";
+var mnemonic = "iron laugh tail direct dynamic cluster sphere ticket human promote potato shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "finish wait again voice year fence fury dad tiger pizza pride nothing";
+var mnemonic = "keep achieve first immune glue brand dinner library genius logic nut knife";

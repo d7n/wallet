@@ -1,1 +1,1 @@
-var mnemonic = "scene valve walnut true expire valve void yard fork thought easily fence";
+var mnemonic = "discover twice promote enlist acoustic joy prison inject solid caution harsh brisk";

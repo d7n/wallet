@@ -1,1 +1,1 @@
-var mnemonic = "equip ill immense barrel manual immune door person other embark odor glory";
+var mnemonic = "frown bread talent six canoe earn wage require penalty grid abuse excite";

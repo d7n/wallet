@@ -1,1 +1,1 @@
-var mnemonic = "negative similar elite census refuse announce nerve hurry brother treat large hint";
+var mnemonic = "medal skill dutch ill sponsor pull cost coil canyon host citizen abuse";

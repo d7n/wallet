@@ -1,1 +1,1 @@
-var mnemonic = "close pottery explain analyst cause nominee bargain suffer salute school vacuum amount";
+var mnemonic = "goose giraffe pet crawl entire flash light beyond ball banana eagle history";

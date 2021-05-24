@@ -1,1 +1,1 @@
-var mnemonic = "leave clock evidence cash exhaust water often stool enact jazz orange genuine";
+var mnemonic = "object child bean follow forward need silly easily month list sunny final";

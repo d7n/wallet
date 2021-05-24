@@ -1,1 +1,1 @@
-var mnemonic = "marine relax zoo return panel tide tumble retire name home orange notice";
+var mnemonic = "wise will gossip diet snow gate pond lawsuit february leisure swallow assist";

@@ -1,1 +1,1 @@
-var mnemonic = "text rural fiscal bacon body charge tomato erosion aisle receive certain disagree";
+var mnemonic = "mosquito addict vacant mimic gloom damage garden barely female spot syrup toddler";

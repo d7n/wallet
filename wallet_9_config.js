@@ -1,1 +1,1 @@
-var mnemonic = "amazing cactus leopard coin flip bundle recycle debate entry desk pumpkin client";
+var mnemonic = "cause wall dirt frozen beauty wink horn interest key rabbit coin select";

@@ -1,1 +1,1 @@
-var mnemonic = "use account together disagree very radio clock churn day hat key entry";
+var mnemonic = "dignity view announce foot medal leopard where blur undo lake scrap remember";

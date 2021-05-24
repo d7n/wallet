@@ -1,1 +1,1 @@
-var mnemonic = "hobby soda hybrid task border gaze true blouse tank theory emotion jacket";
+var mnemonic = "ugly cigar lesson say coffee novel genius suggest illness sunny type grocery";

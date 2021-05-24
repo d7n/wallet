@@ -1,1 +1,1 @@
-var mnemonic = "pluck pear weird erode misery potato artist trophy sing pipe thing gift";
+var mnemonic = "stay van owner leader hazard concert plunge monkey uphold copy dolphin wife";

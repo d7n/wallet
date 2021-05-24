@@ -1,1 +1,1 @@
-var mnemonic = "quick pencil isolate entire example engine rhythm salad siege cycle very figure";
+var mnemonic = "blanket act fiscal trouble play disease wing legal fetch gallery syrup fresh";

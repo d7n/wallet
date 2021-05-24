@@ -1,1 +1,1 @@
-var mnemonic = "nature gun topic wet joke fitness check girl mass traffic habit bacon";
+var mnemonic = "path spy laptop return brass hero capital cake uphold movie rigid average";

@@ -1,1 +1,1 @@
-var mnemonic = "street symptom fiscal review reveal rely primary whip address velvet trumpet achieve";
+var mnemonic = "expire defense swap harbor rocket wolf general siege segment nurse pelican replace";

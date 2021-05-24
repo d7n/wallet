@@ -1,1 +1,1 @@
-var mnemonic = "seven opera muscle segment time unable sorry dirt wealth plunge state must";
+var mnemonic = "school wink vital obey party bless message glass puppy area sell cable";

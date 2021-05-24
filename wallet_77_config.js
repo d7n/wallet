@@ -1,1 +1,1 @@
-var mnemonic = "flavor library wolf party faith amateur divert aunt ocean sadness village margin";
+var mnemonic = "army broken exclude master decide grain else brick neither dilemma bridge odor";

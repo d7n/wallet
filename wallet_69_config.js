@@ -1,1 +1,1 @@
-var mnemonic = "regret bone render globe skirt tribe people donate life upgrade chunk toy";
+var mnemonic = "pole tortoise clap exhibit frown unable lens manual second urban retreat chase";

@@ -1,1 +1,1 @@
-var mnemonic = "museum print sleep snap chapter pyramid degree tide option more route sea";
+var mnemonic = "helmet artist south table bottom reunion come month knee repair canoe opinion";

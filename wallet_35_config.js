@@ -1,1 +1,1 @@
-var mnemonic = "load evolve dumb absent seminar filter talk dry breeze clean wash civil";
+var mnemonic = "aspect useful person vapor suggest stumble abandon boy squeeze melody wet typical";

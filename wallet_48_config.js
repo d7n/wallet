@@ -1,1 +1,1 @@
-var mnemonic = "core symbol fan figure march pelican river drop design frown spirit bullet";
+var mnemonic = "school grow fiber gasp base sell gold govern version border useful bachelor";

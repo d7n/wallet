@@ -1,1 +1,1 @@
-var mnemonic = "resist crack industry wing ribbon kit carbon salon actress render staff perfect";
+var mnemonic = "middle fox smooth divide version boss year web depth answer market easy";

@@ -1,1 +1,1 @@
-var mnemonic = "soft hand ability report evolve soccer upper list drive tell burden bar";
+var mnemonic = "force airport color fan theory sport vibrant box push before stumble live";

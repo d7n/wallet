@@ -1,1 +1,1 @@
-var mnemonic = "thought climb exist fat average truck ribbon doll depth pluck clarify borrow";
+var mnemonic = "elite horn fun explain enhance drip ramp music march secret start trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "close rent broccoli syrup glare rebuild calm perfect head monkey actress gallery";
+var mnemonic = "wool average team fatigue error tooth auto raven bar trouble pioneer attitude";
