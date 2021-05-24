@@ -1,1 +1,1 @@
-var mnemonic = "burger weekend outer impose gospel high hundred runway alarm few miracle acquire";
+var mnemonic = "eternal network cancel tribe advice sauce rally stamp subject neglect gesture burden";

@@ -1,1 +1,1 @@
-var mnemonic = "enough crowd buzz giraffe song swift audit labor pizza occur enemy length";
+var mnemonic = "move liar hammer bracket now shadow ill cool unveil dignity staff husband";

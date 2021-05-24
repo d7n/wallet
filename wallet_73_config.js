@@ -1,1 +1,1 @@
-var mnemonic = "promote core business turtle axis orange average toilet wrong elevator chef huge";
+var mnemonic = "language edit trust quarter guide melt holiday lesson version change economy forget";

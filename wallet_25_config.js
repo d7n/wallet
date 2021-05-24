@@ -1,1 +1,1 @@
-var mnemonic = "year romance educate narrow assault proof cage move cream army reunion initial";
+var mnemonic = "husband fix recipe jaguar observe dirt milk fence hello thing alarm patient";

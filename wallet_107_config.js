@@ -1,1 +1,1 @@
-var mnemonic = "right wet hamster double fix insect boring flush vibrant forward check believe";
+var mnemonic = "add glad swear capable broom banner leader effort enact emotion refuse gentle";

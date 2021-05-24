@@ -1,1 +1,1 @@
-var mnemonic = "rare march eager core ring success volume cradle jewel attack slender assault";
+var mnemonic = "bubble unit marine million prize senior entry soon neck lady rack ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "just turkey exercise spread program skate defense crowd exclude body icon upper";
+var mnemonic = "earth scorpion put misery cash slide charge measure document below reform door";

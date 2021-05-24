@@ -1,1 +1,1 @@
-var mnemonic = "topple away live throw huge reopen beyond okay menu fork cousin legal";
+var mnemonic = "prison endless original ring keen invite voyage runway nuclear amused anger want";

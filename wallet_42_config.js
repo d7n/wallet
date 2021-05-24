@@ -1,1 +1,1 @@
-var mnemonic = "much unit jazz admit judge grocery gauge consider surprise coffee media jelly";
+var mnemonic = "moment skill guilt mixture travel puppy limb online top unveil heavy timber";

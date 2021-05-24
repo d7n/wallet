@@ -1,1 +1,1 @@
-var mnemonic = "luggage network moral foam oil icon donate worth diesel brief wreck section";
+var mnemonic = "shove erase cereal globe velvet retire vote orbit eternal trial text outdoor";

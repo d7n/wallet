@@ -1,1 +1,1 @@
-var mnemonic = "clarify whip define fold erupt convince explain swallow miss follow unknown toddler";
+var mnemonic = "output remind rally mouse riot time goose debris flag debate lucky horror";

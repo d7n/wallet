@@ -1,1 +1,1 @@
-var mnemonic = "regular ethics neither abandon skirt echo trip hub pilot verify manage october";
+var mnemonic = "canyon sniff sure float six prize blue vibrant habit heart media enact";

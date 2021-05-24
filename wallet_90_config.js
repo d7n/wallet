@@ -1,1 +1,1 @@
-var mnemonic = "win film wealth engage leader material pepper lunch urban more aerobic enable";
+var mnemonic = "economy lesson slight mechanic rather banana say eagle arch maze scatter plate";

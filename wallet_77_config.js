@@ -1,1 +1,1 @@
-var mnemonic = "west truly laundry student question east almost poverty rib poverty enough crime";
+var mnemonic = "horn prison short review foil exact tackle like road shrug refuse guitar";

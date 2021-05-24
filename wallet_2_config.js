@@ -1,1 +1,1 @@
-var mnemonic = "casual abuse keen canvas veteran oblige satisfy erupt raise they hammer catch";
+var mnemonic = "thumb job ranch network stand weather today enhance decrease gym away advice";

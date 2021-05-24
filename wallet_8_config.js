@@ -1,1 +1,1 @@
-var mnemonic = "ensure song chalk path hundred annual hospital tiger mail tonight message reunion";
+var mnemonic = "apology sing pelican inspire wrap city equal eight save peanut potato between";

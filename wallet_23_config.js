@@ -1,1 +1,1 @@
-var mnemonic = "ask any alter regular inch small guitar illness brush busy travel ordinary";
+var mnemonic = "retire carpet oak orphan oil pink pet try memory baby rebuild fiscal";

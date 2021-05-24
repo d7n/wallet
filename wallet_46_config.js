@@ -1,1 +1,1 @@
-var mnemonic = "file dumb hour try farm edit voyage win throw enact hurdle orphan";
+var mnemonic = "employ wheat token two spin fix okay balcony damage hawk traffic absent";

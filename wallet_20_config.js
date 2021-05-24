@@ -1,1 +1,1 @@
-var mnemonic = "orchard reform enough lunch math various join chat jewel word foam token";
+var mnemonic = "tribe cute exact that elephant grain weather smooth secret caught victory fish";

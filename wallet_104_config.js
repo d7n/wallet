@@ -1,1 +1,1 @@
-var mnemonic = "raw echo ahead either seed moral sweet purse below slim entry rookie";
+var mnemonic = "piece estate join piece explain wasp clerk feed bread turtle diet brother";

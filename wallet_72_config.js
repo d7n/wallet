@@ -1,1 +1,1 @@
-var mnemonic = "west recipe proof swarm antique concert celery deposit total wish soap odor";
+var mnemonic = "glare base success smoke embrace furnace urban learn zebra quote just kid";

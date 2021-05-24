@@ -1,1 +1,1 @@
-var mnemonic = "permit obvious raise label tool garlic act orchard flame cross raccoon document";
+var mnemonic = "glance captain debris include disorder sphere square loyal honey runway swallow crazy";

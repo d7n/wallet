@@ -1,1 +1,1 @@
-var mnemonic = "pass candy oblige loan license equip repeat envelope popular dismiss soap opera";
+var mnemonic = "present august ivory jaguar peasant engage choice top retreat betray tilt camp";

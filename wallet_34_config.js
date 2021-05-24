@@ -1,1 +1,1 @@
-var mnemonic = "matter company lonely offer sponsor mask appear click imitate pepper vault pluck";
+var mnemonic = "extra mixture dentist hope chief squirrel rival cycle box peanut bread leave";

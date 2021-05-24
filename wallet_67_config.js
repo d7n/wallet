@@ -1,1 +1,1 @@
-var mnemonic = "drum critic repeat maid labor throw wrist dune birth opera glimpse twin";
+var mnemonic = "smile firm divide almost junk until february noise visa certain nice crater";

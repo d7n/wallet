@@ -1,1 +1,1 @@
-var mnemonic = "army result giggle rival frost shoot strike capable allow tide owner junior";
+var mnemonic = "hair grit shadow jazz vessel near intact speak glory artefact season nurse";

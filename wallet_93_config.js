@@ -1,1 +1,1 @@
-var mnemonic = "giant payment extend bread now proof cradle above quote autumn present lava";
+var mnemonic = "junior catch must unfair pass radio carpet citizen viable tip glove sister";

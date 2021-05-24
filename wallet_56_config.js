@@ -1,1 +1,1 @@
-var mnemonic = "focus bottom letter crew merit hollow essay mouse cruise unit dune goat";
+var mnemonic = "bullet bubble regret scan hurdle push outdoor quit milk rude arch horse";

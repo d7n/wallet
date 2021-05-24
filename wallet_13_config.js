@@ -1,1 +1,1 @@
-var mnemonic = "speak before deliver cigar menu waste lion together fresh fold violin update";
+var mnemonic = "wish column decorate valley shop rich wrap flash sweet fat cigar east";

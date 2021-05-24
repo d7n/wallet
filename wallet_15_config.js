@@ -1,1 +1,1 @@
-var mnemonic = "alley awkward dawn trade away right absent always about conduct soul pizza";
+var mnemonic = "include hub version bench position creek move canoe lazy green nephew impose";

@@ -1,1 +1,1 @@
-var mnemonic = "picture dinosaur refuse gauge drill coconut layer garage assume capable jacket medal";
+var mnemonic = "what brand skin cave toddler fault elite limit only advance tunnel awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "panda toward bracket small skull record stove pull weasel ride double work";
+var mnemonic = "train creek yellow steak bridge exhibit saddle chicken diet web false owner";

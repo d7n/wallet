@@ -1,1 +1,1 @@
-var mnemonic = "city game during excite success media symptom walnut fabric steak people curve";
+var mnemonic = "deposit upper trigger pumpkin circle else prison fruit dream bronze thrive flower";

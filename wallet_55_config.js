@@ -1,1 +1,1 @@
-var mnemonic = "column summer general position beach team pattern end fish skull rival poet";
+var mnemonic = "immense hole danger hurry also effort type deer upon dash list illness";

@@ -1,1 +1,1 @@
-var mnemonic = "release pear vague size east obscure ceiling deal faith pottery stereo connect";
+var mnemonic = "claim fix flame twist adult chat assault output trick almost vital despair";

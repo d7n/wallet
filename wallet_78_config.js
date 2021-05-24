@@ -1,1 +1,1 @@
-var mnemonic = "mule crystal nasty damage borrow metal collect wrap forget escape spare legend";
+var mnemonic = "dose bulb review retire wrist soda bike trim false patrol ability rebuild";

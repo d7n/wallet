@@ -1,1 +1,1 @@
-var mnemonic = "nephew trigger pet explain poverty chimney express pact canyon hunt room buffalo";
+var mnemonic = "action era charge render swallow blue fiber snake spawn chest alien bubble";

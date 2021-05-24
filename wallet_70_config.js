@@ -1,1 +1,1 @@
-var mnemonic = "hat alter surface exist can excess inch month miss gravity engage report";
+var mnemonic = "judge catalog boil now usual erosion fantasy middle furnace subject float observe";

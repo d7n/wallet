@@ -1,1 +1,1 @@
-var mnemonic = "noise stock upset royal raw stadium fiscal frost layer dizzy eyebrow wedding";
+var mnemonic = "silver timber enter wedding remind genre negative surface pottery loop other name";

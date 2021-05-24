@@ -1,1 +1,1 @@
-var mnemonic = "corn length present evil energy satisfy broom immune economy spell own despair";
+var mnemonic = "noodle shield august used saddle resemble since relief grow rail type infant";

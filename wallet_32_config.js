@@ -1,1 +1,1 @@
-var mnemonic = "memory immune arrange taste project erode father pink notice card chief word";
+var mnemonic = "drift around rich pink boost pitch tape unlock broom energy art city";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna brown shiver bus baby grid shoot tuition demand draw absorb liar";
+var mnemonic = "ill quit thrive regular license pulse lucky neither perfect prefer grow response";

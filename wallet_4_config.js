@@ -1,1 +1,1 @@
-var mnemonic = "fat stay finish another salad river double atom ranch evolve rural bachelor";
+var mnemonic = "lonely arena insane inform program rely wrong image faint curve involve welcome";

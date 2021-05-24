@@ -1,1 +1,1 @@
-var mnemonic = "royal aspect vast describe wet gold receive labor maximum mule exhaust upon";
+var mnemonic = "typical garment organ shrimp chat neither combine pride athlete dentist soon trouble";

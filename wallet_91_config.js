@@ -1,1 +1,1 @@
-var mnemonic = "mouse term clog trouble lens risk praise ranch air pulse ramp catalog";
+var mnemonic = "cost interest session morning film fantasy left oak where fault budget flame";

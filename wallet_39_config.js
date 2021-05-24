@@ -1,1 +1,1 @@
-var mnemonic = "merit destroy goat coyote milk luxury trophy brand bullet mechanic mixed april";
+var mnemonic = "inject below giant spy short skirt battle uncle range kit jungle dream";

@@ -1,1 +1,1 @@
-var mnemonic = "guard yellow spatial flag garbage electric private kiss uniform embrace double safe";
+var mnemonic = "love flame funny violin little romance season snow thought work night almost";

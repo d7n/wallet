@@ -1,1 +1,1 @@
-var mnemonic = "labor afraid obey distance please success food frost soldier chair bonus immune";
+var mnemonic = "dirt predict goose inject scheme genre stomach room ginger novel gallery purchase";

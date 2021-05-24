@@ -1,1 +1,1 @@
-var mnemonic = "unfold dragon famous bleak private anxiety toss okay limb quit prosper parrot";
+var mnemonic = "drip coach scout ring pledge board romance donkey impose rival shoe walk";

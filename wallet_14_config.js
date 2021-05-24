@@ -1,1 +1,1 @@
-var mnemonic = "story person surge hat try tool enlist thank outside wall brain scorpion";
+var mnemonic = "decide sustain craft wheel grunt search mule chapter toddler fiscal bleak tuition";

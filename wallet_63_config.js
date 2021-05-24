@@ -1,1 +1,1 @@
-var mnemonic = "satoshi fat wait just entry catch alpha federal lazy easy orient siege";
+var mnemonic = "hedgehog buddy brief cluster idle stamp tiny antique arrow pond verb unfair";

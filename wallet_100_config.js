@@ -1,1 +1,1 @@
-var mnemonic = "venture enough coconut client few father venue trust panic citizen goat fantasy";
+var mnemonic = "glass vintage smooth move west enrich afford range violin holiday bundle reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "risk lunch victory any addict kiwi scene foil topic refuse slight good";
+var mnemonic = "champion elite erupt project energy angle true scrub spend parent goat cushion";

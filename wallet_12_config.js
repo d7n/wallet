@@ -1,1 +1,1 @@
-var mnemonic = "master typical stereo panther click poem mirror dream brain aspect choice inspire";
+var mnemonic = "situate regular glow siren already stool swing mouse post memory embody poet";

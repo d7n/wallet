@@ -1,1 +1,1 @@
-var mnemonic = "south horse view forum core erosion ozone under expand ignore talk bunker";
+var mnemonic = "mother arena category menu caught tennis choose avocado able soft fiction someone";

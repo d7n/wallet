@@ -1,1 +1,1 @@
-var mnemonic = "blouse sound group enroll vintage match project pink luggage pear social bacon";
+var mnemonic = "right smart space flock they tip copy problem path sustain intact gas";

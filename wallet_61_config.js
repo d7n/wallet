@@ -1,1 +1,1 @@
-var mnemonic = "antique bind diamond banana entire actual deer aerobic various ancient about weapon";
+var mnemonic = "melody once health raccoon happy adjust solve asset pig ripple buzz summer";

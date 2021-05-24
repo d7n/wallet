@@ -1,1 +1,1 @@
-var mnemonic = "student tongue pattern hip oil such pink birth pepper fox destroy vanish";
+var mnemonic = "hospital cherry climb bone athlete original salute afraid clean convince sad minute";

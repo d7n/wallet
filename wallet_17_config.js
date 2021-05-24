@@ -1,1 +1,1 @@
-var mnemonic = "pitch prefer beauty garment acid charge absurd vessel spray evidence tenant regret";
+var mnemonic = "frown rapid inmate foster cabin comfort mom peanut audit because afraid equip";

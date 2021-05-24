@@ -1,1 +1,1 @@
-var mnemonic = "talk drop trigger chapter warrior rural latin cliff leaf grow fit nurse";
+var mnemonic = "water tide physical main heavy prison tip fault february situate voice security";

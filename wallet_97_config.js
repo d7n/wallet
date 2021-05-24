@@ -1,1 +1,1 @@
-var mnemonic = "spawn client remain run wheel slim theory tornado clean doctor collect next";
+var mnemonic = "legend slow female author foster penalty alarm relax attack toilet romance girl";

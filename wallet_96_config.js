@@ -1,1 +1,1 @@
-var mnemonic = "medal fiscal indoor monitor renew seek need retire lesson brave father hello";
+var mnemonic = "wise raise loud wood coral picture curtain goose echo image fence seek";

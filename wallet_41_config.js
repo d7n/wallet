@@ -1,1 +1,1 @@
-var mnemonic = "ripple ribbon harbor grant appear bunker bring gospel crime proof enable cover";
+var mnemonic = "setup trade ritual mean price effort electric will deposit awake forest book";

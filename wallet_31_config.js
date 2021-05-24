@@ -1,1 +1,1 @@
-var mnemonic = "good guess craft discover master crumble room arrange hint surge disagree west";
+var mnemonic = "book flag tomorrow consider assume axis decline dismiss fashion wide pelican quality";

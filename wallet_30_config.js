@@ -1,1 +1,1 @@
-var mnemonic = "tone fine race panel author lunch lawsuit city fire wreck stem brisk";
+var mnemonic = "valid legend subject differ obey beauty pumpkin humor web salad fetch risk";

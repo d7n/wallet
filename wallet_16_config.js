@@ -1,1 +1,1 @@
-var mnemonic = "bonus once drop client vibrant insane seed swift trick text stem round";
+var mnemonic = "romance arrive puppy surge despair knife test pink loop modify lady foot";

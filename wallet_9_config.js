@@ -1,1 +1,1 @@
-var mnemonic = "finger anger deputy mosquito symbol illness hour melt share trick settle brain";
+var mnemonic = "buzz orphan trim leisure under review legal hint oven ritual exist exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "skin floor organ heavy decide ecology way blame problem call later future";
+var mnemonic = "another finger journey universe frost travel track pull multiply tragic biology tortoise";

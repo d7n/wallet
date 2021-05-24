@@ -1,1 +1,1 @@
-var mnemonic = "mom mind ceiling fee plunge myth release palace quarter proof choice animal";
+var mnemonic = "bench mushroom grow file keep vivid return hybrid where merge cliff swift";

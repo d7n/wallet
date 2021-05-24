@@ -1,1 +1,1 @@
-var mnemonic = "action eye quarter crunch maid wife tired parade cruel assume knife reveal";
+var mnemonic = "consider later width version cement uncle target vote soldier rose history sustain";

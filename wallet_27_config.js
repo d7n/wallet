@@ -1,1 +1,1 @@
-var mnemonic = "ten panda penalty rather enhance supreme taxi unusual equal present case crouch";
+var mnemonic = "capable unlock fury music broccoli pair era earth castle love south intact";

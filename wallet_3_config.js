@@ -1,1 +1,1 @@
-var mnemonic = "fan unique wet divide vivid raise glue tenant piece gloom mass hire";
+var mnemonic = "wall clean subway nuclear vicious car judge mandate memory always actual snack";

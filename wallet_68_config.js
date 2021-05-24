@@ -1,1 +1,1 @@
-var mnemonic = "wait stem south friend visa portion practice scrub silver waste trip toast";
+var mnemonic = "prevent zoo warm dragon inner visa man unhappy this mother chest reveal";

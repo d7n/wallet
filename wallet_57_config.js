@@ -1,1 +1,1 @@
-var mnemonic = "ostrich dice slush reform cushion tower daughter junior rotate kid obtain dose";
+var mnemonic = "fringe tag great car acquire citizen list avoid excuse effort install trend";

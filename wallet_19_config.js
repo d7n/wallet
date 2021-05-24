@@ -1,1 +1,1 @@
-var mnemonic = "height taste december excite wonder wait donkey under dose echo spell cheese";
+var mnemonic = "involve enhance sound sheriff acquire evoke family car solid mouse shell paper";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten rally popular scatter voyage rule oven legend analyst spatial mosquito senior";
+var mnemonic = "used address universe radar roof ivory spike absent mountain kitten burst solution";

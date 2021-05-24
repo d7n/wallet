@@ -1,1 +1,1 @@
-var mnemonic = "tiny click stomach admit stomach surround foam believe random double portion typical";
+var mnemonic = "exit crystal run million fly quit absurd illegal town ahead brisk car";

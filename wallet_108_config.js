@@ -1,1 +1,1 @@
-var mnemonic = "earn exotic urban network bulk parrot stamp inhale grid liquid caught scorpion";
+var mnemonic = "victory equip ensure coin casino obtain drop candy vague milk dinosaur gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist cushion draft swap nothing raccoon glow brown woman pencil chaos rural";
+var mnemonic = "spatial spoon sponsor rare sniff profit layer supreme genuine gospel fetch sting";

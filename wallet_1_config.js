@@ -1,1 +1,1 @@
-var mnemonic = "season derive flat brave hurt garment range learn pattern remind math educate";
+var mnemonic = "cereal umbrella gun now sort cement case thought rate social place name";

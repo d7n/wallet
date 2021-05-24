@@ -1,1 +1,1 @@
-var mnemonic = "ribbon clutch mother remove surface thought pencil certain bag cruel mom useful";
+var mnemonic = "unfold rotate eyebrow apple slight boil tell dynamic style tip idea edit";

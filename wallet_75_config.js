@@ -1,1 +1,1 @@
-var mnemonic = "wedding velvet degree spray famous wire exit provide frequent balance only possible";
+var mnemonic = "thumb oil symbol pink alone clerk original twin despair brass room climb";

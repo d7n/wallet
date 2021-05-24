@@ -1,1 +1,1 @@
-var mnemonic = "guilt curious magic spring toe skin shadow fruit wedding brief similar between";
+var mnemonic = "slam tip light year govern between mobile hobby physical cactus virtual steak";

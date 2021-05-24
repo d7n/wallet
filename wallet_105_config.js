@@ -1,1 +1,1 @@
-var mnemonic = "height security gravity click action sand giant goddess ginger exhaust oxygen wheel";
+var mnemonic = "foster tower miss tenant normal program cloth drastic unaware upon warfare stick";

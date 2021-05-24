@@ -1,1 +1,1 @@
-var mnemonic = "egg photo replace spend avoid damp illegal bid orchard rule caught office";
+var mnemonic = "cry grunt protect rice announce purpose gas truth exhibit fox various slot";

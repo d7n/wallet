@@ -1,1 +1,1 @@
-var mnemonic = "neutral mesh elbow begin protect happy bubble action toss retire monkey label";
+var mnemonic = "museum language jeans medal sign chase flower there inhale soccer concert follow";

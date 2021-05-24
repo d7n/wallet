@@ -1,1 +1,1 @@
-var mnemonic = "toddler film gaze course right real often text subway antique ordinary brief";
+var mnemonic = "law iron feed pave else bargain issue maze document milk ball feel";

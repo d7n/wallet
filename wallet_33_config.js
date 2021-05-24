@@ -1,1 +1,1 @@
-var mnemonic = "engine calm expect doctor helmet cave stuff marine damp crisp tank humble";
+var mnemonic = "pipe quote artwork disease around bring tiger nature ancient egg hub three";
