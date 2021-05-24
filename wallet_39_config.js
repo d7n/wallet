@@ -1,1 +1,1 @@
-var mnemonic = "salute victory settle rapid cruel leave property any camera vote bleak tattoo";
+var mnemonic = "slight news account pudding argue live wood head maple echo castle decrease";

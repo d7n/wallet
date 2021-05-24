@@ -1,1 +1,1 @@
-var mnemonic = "shove wash step sunny tongue angry frozen salon buddy cannon clean cabin";
+var mnemonic = "alarm latin luggage run leisure icon embrace bag cement awful about blanket";

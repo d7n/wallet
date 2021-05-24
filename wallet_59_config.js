@@ -1,1 +1,1 @@
-var mnemonic = "moon myself trash mercy tuna rifle science hundred aunt bonus skate elbow";
+var mnemonic = "art ten exotic hedgehog panda arctic movie artist uniform zone sniff clay";

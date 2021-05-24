@@ -1,1 +1,1 @@
-var mnemonic = "rain raise essence tongue trust guilt video space corn twenty smart resource";
+var mnemonic = "donate already color never appear language core laugh art child ecology exotic";

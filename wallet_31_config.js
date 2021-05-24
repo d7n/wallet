@@ -1,1 +1,1 @@
-var mnemonic = "lesson inherit donkey hunt stick tongue coil invest pledge increase hood wrong";
+var mnemonic = "risk brisk dish doctor tortoise surface crowd reject exchange brand cart cushion";

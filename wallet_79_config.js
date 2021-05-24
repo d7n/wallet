@@ -1,1 +1,1 @@
-var mnemonic = "wheat resource festival animal tuna dove protect tape core remember act unlock";
+var mnemonic = "oven envelope tattoo enact glory nut possible put exhaust guess left stable";

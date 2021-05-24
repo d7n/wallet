@@ -1,1 +1,1 @@
-var mnemonic = "quality century plug thunder shell juice rail wool enact maid gossip ostrich";
+var mnemonic = "garage region spare roof spend choose pulp shuffle twin offer just egg";

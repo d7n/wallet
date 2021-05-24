@@ -1,1 +1,1 @@
-var mnemonic = "label agent scare limb shy leisure strong meat market liar grant issue";
+var mnemonic = "mail drop device property canvas corn fatigue bench horn solid thank install";

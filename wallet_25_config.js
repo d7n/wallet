@@ -1,1 +1,1 @@
-var mnemonic = "satisfy easily fold devote end equip believe fury hunt athlete floor stem";
+var mnemonic = "arm squeeze food among spin album fan supply apology school valve treat";

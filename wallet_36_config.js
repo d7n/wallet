@@ -1,1 +1,1 @@
-var mnemonic = "dust fog page labor ceiling world impact drama forget solar service bamboo";
+var mnemonic = "monitor angry razor uncle secret green rather stand rescue pumpkin prison tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "armed little agent leaf crater tortoise equal tape goddess silly segment illness";
+var mnemonic = "bottom magic drastic hello animal arrange pole nature food wash confirm grunt";

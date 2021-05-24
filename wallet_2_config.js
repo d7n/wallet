@@ -1,1 +1,1 @@
-var mnemonic = "just hope cousin general diet skull icon scale stem steel mix craft";
+var mnemonic = "mention giggle grant alpha husband chair eternal insane huge display jeans cereal";

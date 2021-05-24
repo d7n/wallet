@@ -1,1 +1,1 @@
-var mnemonic = "section lunar lobster audit awake edge isolate catch want slice better ladder";
+var mnemonic = "dinosaur kitchen typical scatter social bomb picnic decrease basket ritual dignity argue";

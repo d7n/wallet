@@ -1,1 +1,1 @@
-var mnemonic = "page sibling increase convince era hat uncover hen defy immune wolf layer";
+var mnemonic = "elegant attitude section portion minimum drum tonight assume lyrics frog almost figure";

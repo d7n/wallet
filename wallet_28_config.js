@@ -1,1 +1,1 @@
-var mnemonic = "economy cat foil auction dilemma topple bulk board story knee decline follow";
+var mnemonic = "pull trust cigar kidney attend volume apart rescue mountain lunar typical segment";

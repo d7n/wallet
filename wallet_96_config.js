@@ -1,1 +1,1 @@
-var mnemonic = "fit annual squeeze evidence during measure broom puppy unaware broom stereo slow";
+var mnemonic = "bundle save feel vocal enforce uncle laptop trust wolf vehicle laundry toast";

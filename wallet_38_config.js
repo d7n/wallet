@@ -1,1 +1,1 @@
-var mnemonic = "ice engage control midnight boy spring gain text truly close token traffic";
+var mnemonic = "quick afraid sauce kite price fade bag multiply will thumb order fine";

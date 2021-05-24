@@ -1,1 +1,1 @@
-var mnemonic = "stairs issue pitch scorpion intact dilemma need shoulder dirt lyrics antenna game";
+var mnemonic = "inquiry horror album syrup warfare rotate kitten device pencil holiday example modify";

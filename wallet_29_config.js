@@ -1,1 +1,1 @@
-var mnemonic = "seat acoustic junior film ability love loop tourist priority music pull bridge";
+var mnemonic = "account jelly wire sponsor owner rubber cradle denial hidden tape solid until";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha silk stove ribbon debate embody mother short brave pill deposit pelican";
+var mnemonic = "vivid prosper clump enlist turkey female obvious seek decide next face basket";

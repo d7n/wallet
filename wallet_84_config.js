@@ -1,1 +1,1 @@
-var mnemonic = "symptom engage push bid bring tomato say denial jaguar coin leopard cigar";
+var mnemonic = "salmon zoo legal treat action almost sadness faculty knee proof chunk person";

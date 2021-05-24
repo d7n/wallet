@@ -1,1 +1,1 @@
-var mnemonic = "around town double hawk squirrel derive approve truly fold craft shoe grass";
+var mnemonic = "ethics absent razor gather spin green seat acoustic dust round spice green";

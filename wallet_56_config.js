@@ -1,1 +1,1 @@
-var mnemonic = "advance hard resist cinnamon toilet smoke sand cannon wall leopard energy nominee";
+var mnemonic = "nature kiss various space casino middle inside narrow behind nuclear analyst canal";

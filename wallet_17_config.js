@@ -1,1 +1,1 @@
-var mnemonic = "armor sphere family reform mandate book large arch matrix weird barely doctor";
+var mnemonic = "engine celery ridge network father gravity between pottery poem venture start van";

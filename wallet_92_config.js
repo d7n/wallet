@@ -1,1 +1,1 @@
-var mnemonic = "broken manage someone bleak behind apart wasp major height wide diet pulp";
+var mnemonic = "mandate mystery balance end peanut chef warfare silk emerge profit burden artist";

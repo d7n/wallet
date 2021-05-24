@@ -1,1 +1,1 @@
-var mnemonic = "car subject mechanic portion twenty total weapon pioneer time autumn gossip valve";
+var mnemonic = "hurry then glide upset crucial unknown grow main globe skirt hour private";

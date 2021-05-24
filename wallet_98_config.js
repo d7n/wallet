@@ -1,1 +1,1 @@
-var mnemonic = "clog differ hero eyebrow napkin tissue topic timber bag record cruise pyramid";
+var mnemonic = "wedding stable outdoor unusual erosion foot document address present embark decrease relax";

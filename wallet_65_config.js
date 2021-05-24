@@ -1,1 +1,1 @@
-var mnemonic = "attend eyebrow increase spirit loop forget prosper match sport armed increase churn";
+var mnemonic = "rather mountain mother mixture skate loud enact must nasty fitness defense heart";

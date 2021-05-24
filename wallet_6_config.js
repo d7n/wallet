@@ -1,1 +1,1 @@
-var mnemonic = "green shallow come asthma zebra team bounce bullet paper online icon cattle";
+var mnemonic = "enroll brother december grid lab salon original mosquito shuffle zero ginger trouble";

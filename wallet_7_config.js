@@ -1,1 +1,1 @@
-var mnemonic = "scout door isolate bomb about oven amazing month school tank eight motion";
+var mnemonic = "case torch ski transfer try raise spike goddess nurse sign noodle virtual";

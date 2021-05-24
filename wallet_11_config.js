@@ -1,1 +1,1 @@
-var mnemonic = "business engage hammer space dress elegant train void trial pond violin mass";
+var mnemonic = "side dust tribe combine garment banana tourist warrior cart wall chunk collect";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis lady shoe wood cluster cheap sound pen wide smooth random nature";
+var mnemonic = "work tennis case deal asthma receive medal joy catch narrow round floor";

@@ -1,1 +1,1 @@
-var mnemonic = "oven antenna motor story actress smoke universe olympic during summer vintage ball";
+var mnemonic = "host moment beef apple boil arch surround test sword tobacco myself miracle";

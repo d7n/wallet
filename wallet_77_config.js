@@ -1,1 +1,1 @@
-var mnemonic = "mind napkin during champion miracle advice often carpet bench weasel teach choose";
+var mnemonic = "weapon okay bring source spell drive title trim sword gun rate derive";

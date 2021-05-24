@@ -1,1 +1,1 @@
-var mnemonic = "nurse autumn educate claim fog elbow hamster horror soda business saddle tiny";
+var mnemonic = "cage page motor mom more mail banner polar law glory sell truly";

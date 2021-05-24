@@ -1,1 +1,1 @@
-var mnemonic = "attend diesel neck summer frozen myth wave exchange pyramid rule vacant drive";
+var mnemonic = "glow utility huge cloud feature equal pizza trend little level arm plastic";

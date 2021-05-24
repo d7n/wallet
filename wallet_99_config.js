@@ -1,1 +1,1 @@
-var mnemonic = "art two special cushion bullet siren dream century swamp early giraffe adapt";
+var mnemonic = "bitter tribe fall solution give learn resist truck safe verb cost jaguar";

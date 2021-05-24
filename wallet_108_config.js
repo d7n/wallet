@@ -1,1 +1,1 @@
-var mnemonic = "edge victory base own audit lecture domain dance enter arena trade thumb";
+var mnemonic = "kitten credit apple trumpet scale report dentist whisper close bind alcohol first";

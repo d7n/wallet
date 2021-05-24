@@ -1,1 +1,1 @@
-var mnemonic = "coach final mercy desert point resemble tomorrow coast multiply paper jealous idea";
+var mnemonic = "embody evoke retire fork fit raise joy village void youth water holiday";

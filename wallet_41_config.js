@@ -1,1 +1,1 @@
-var mnemonic = "mirror stage switch visual pattern gym profit federal meadow amount host because";
+var mnemonic = "enable mother match sugar almost boat cupboard limb this fluid art cotton";

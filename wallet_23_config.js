@@ -1,1 +1,1 @@
-var mnemonic = "rubber prefer idea maple one upset real square garage lab host trade";
+var mnemonic = "chief access vicious process ugly spider census milk chalk relax marriage little";

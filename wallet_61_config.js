@@ -1,1 +1,1 @@
-var mnemonic = "jaguar spawn youth evidence shoulder page dune shift humble coconut stone post";
+var mnemonic = "wood trash anxiety dismiss swamp economy praise trade warm math sunset gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "grab lab bright onion tree write unhappy lunch viable cross normal injury";
+var mnemonic = "okay veteran service eye wagon nature first stick dizzy blast funny seminar";

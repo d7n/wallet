@@ -1,1 +1,1 @@
-var mnemonic = "civil among cake sister west object ghost web note member churn stove";
+var mnemonic = "possible wild water cram invite canal young congress length kitchen habit song";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle cover rude off stumble ancient document once gift pen scorpion drastic";
+var mnemonic = "judge already inquiry noble student bomb wide neither bomb veteran deny coconut";

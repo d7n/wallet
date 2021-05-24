@@ -1,1 +1,1 @@
-var mnemonic = "surround coyote utility material wine daring promote bean uncover foam area improve";
+var mnemonic = "fossil quick clutch crazy pudding derive beach anger tissue imitate neutral ivory";

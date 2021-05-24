@@ -1,1 +1,1 @@
-var mnemonic = "wall embody trim apart pig derive hole stadium away whisper vote tobacco";
+var mnemonic = "acid corn portion example cram manual mesh security quit hybrid poet enrich";

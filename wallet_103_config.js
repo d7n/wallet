@@ -1,1 +1,1 @@
-var mnemonic = "sign below derive puzzle athlete twice rapid grow endorse member spider run";
+var mnemonic = "vivid fan column desk harvest daring escape flush cinnamon scissors hello invest";

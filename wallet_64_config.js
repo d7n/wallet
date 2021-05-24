@@ -1,1 +1,1 @@
-var mnemonic = "invest hobby cute home decorate ahead route annual trouble crouch super scissors";
+var mnemonic = "finger hen junior cargo excess sweet impose merge shoulder action dad lottery";

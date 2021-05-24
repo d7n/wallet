@@ -1,1 +1,1 @@
-var mnemonic = "gather point liberty alien soap broccoli rule uphold any glove scene intact";
+var mnemonic = "track river either gun hammer note gesture recycle between else virtual remove";

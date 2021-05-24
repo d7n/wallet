@@ -1,1 +1,1 @@
-var mnemonic = "update drill sausage inspire tower kit critic acoustic stable afraid better laundry";
+var mnemonic = "allow across possible exchange lock strike mixed sand deliver clinic junk gap";

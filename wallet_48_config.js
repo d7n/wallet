@@ -1,1 +1,1 @@
-var mnemonic = "easy calm bottom ready huge soup fade fatal able scheme gorilla good";
+var mnemonic = "antenna bachelor cable price bench scheme spot remember ancient keen goat merit";

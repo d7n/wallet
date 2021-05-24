@@ -1,1 +1,1 @@
-var mnemonic = "beauty exotic that curious allow pledge sense carry track edit pretty dress";
+var mnemonic = "boring hour dumb phrase style cotton vague gadget sing farm toddler pink";

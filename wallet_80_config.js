@@ -1,1 +1,1 @@
-var mnemonic = "please person crazy grocery tower abuse wasp provide often blush response exit";
+var mnemonic = "onion bid hero illegal leaf gas agree renew ask hour seed wonder";

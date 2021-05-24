@@ -1,1 +1,1 @@
-var mnemonic = "resource split cupboard coast force world capital drop powder catch adjust abstract";
+var mnemonic = "fade shadow august ten chief silent weather little tribe clerk recipe seed";

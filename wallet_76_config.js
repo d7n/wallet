@@ -1,1 +1,1 @@
-var mnemonic = "shuffle topic business protect average arrow pact much used rebel share drum";
+var mnemonic = "swift math online boring salt muffin violin soda teach boring budget aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "man win among sorry oak hair upper can major holiday mercy mimic";
+var mnemonic = "harbor avocado there setup verb knee mandate uniform vault satisfy total use";

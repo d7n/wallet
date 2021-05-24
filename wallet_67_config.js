@@ -1,1 +1,1 @@
-var mnemonic = "spin illegal disease social adapt waste copy april idle reason topic crowd";
+var mnemonic = "advice spider cigar cabbage door remember tree fit peanut two suggest weird";

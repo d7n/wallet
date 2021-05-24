@@ -1,1 +1,1 @@
-var mnemonic = "usual refuse mule card pulp boil flush peasant sweet verify detect produce";
+var mnemonic = "cheap safe input adjust excess solar erosion steel voyage almost heavy check";

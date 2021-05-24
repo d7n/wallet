@@ -1,1 +1,1 @@
-var mnemonic = "gloom frequent trend equip example idea recipe swamp bulk arm reject bicycle";
+var mnemonic = "planet lady away allow wash puzzle wing filter day cause present mushroom";

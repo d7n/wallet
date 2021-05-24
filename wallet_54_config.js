@@ -1,1 +1,1 @@
-var mnemonic = "solution track display stereo fury future error violin umbrella eternal raccoon indicate";
+var mnemonic = "mammal dynamic inside donkey stuff hold omit bike salmon fix cruel decide";

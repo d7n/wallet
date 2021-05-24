@@ -1,1 +1,1 @@
-var mnemonic = "web fatal reflect crouch glue range peasant sell permit nut impose unfold";
+var mnemonic = "either always rebel like dumb cram alien vocal account remind glue void";

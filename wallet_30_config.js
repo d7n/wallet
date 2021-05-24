@@ -1,1 +1,1 @@
-var mnemonic = "risk kiwi dad amazing benefit frame coffee derive crater dial response false";
+var mnemonic = "dose service coffee isolate bomb piano attack protect attract document increase syrup";

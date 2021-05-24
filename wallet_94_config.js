@@ -1,1 +1,1 @@
-var mnemonic = "cigar peace print wheat jeans orient horse bonus floor state shaft night";
+var mnemonic = "tenant pulse album inquiry swing knife pepper outer drama vault secret space";

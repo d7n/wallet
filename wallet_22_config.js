@@ -1,1 +1,1 @@
-var mnemonic = "motor agent shove puzzle fringe country nephew select hurry monkey dance step";
+var mnemonic = "car teach pizza embrace wedding box lawn green decrease lion salad laptop";

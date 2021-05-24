@@ -1,1 +1,1 @@
-var mnemonic = "knife congress inherit ecology bubble clarify thought next just advance squeeze spring";
+var mnemonic = "dismiss early hybrid depart prison nose mandate lyrics talent hire smooth renew";

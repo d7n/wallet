@@ -1,1 +1,1 @@
-var mnemonic = "coin area enough hero census worth scale lock prison bless hope chair";
+var mnemonic = "margin pet fatigue holiday bulb suffer word swarm away image bracket close";

@@ -1,1 +1,1 @@
-var mnemonic = "measure shrimp suit number tiny tomato quick squeeze ahead syrup blush better";
+var mnemonic = "fox ticket battle humor meadow swallow inch evil vital forest tired film";

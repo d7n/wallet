@@ -1,1 +1,1 @@
-var mnemonic = "cheese permit live involve obvious half gallery roof farm stage economy evolve";
+var mnemonic = "rocket boost inside swing mandate dial tiger neutral sweet month possible shoe";

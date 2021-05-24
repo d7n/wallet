@@ -1,1 +1,1 @@
-var mnemonic = "grab luxury energy original front essence body fault slam arctic board amateur";
+var mnemonic = "grow spike ensure gain habit outer woman spike identify cheap blind exit";

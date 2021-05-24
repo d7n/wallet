@@ -1,1 +1,1 @@
-var mnemonic = "gap arm sudden menu forget film other slide reduce brain wisdom calm";
+var mnemonic = "night drastic claw paddle soon primary buddy acid pupil bronze mango uncle";

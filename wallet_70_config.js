@@ -1,1 +1,1 @@
-var mnemonic = "toddler mimic diary trophy zoo cricket leg olympic snap attend mouse other";
+var mnemonic = "absorb drink rose desk have road scout accident panic check toilet mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "oil describe cruise enrich zoo wasp control book lazy fabric awful airport";
+var mnemonic = "regular theme guitar table drink summer velvet primary elegant follow boring ecology";

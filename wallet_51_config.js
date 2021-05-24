@@ -1,1 +1,1 @@
-var mnemonic = "waste artefact case isolate tooth bundle state agree option oak plug pave";
+var mnemonic = "truck enemy disagree super green remove gift test leg coast museum cash";

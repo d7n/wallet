@@ -1,1 +1,1 @@
-var mnemonic = "wrist equal expand crater coral tattoo sick maze click bridge joy van";
+var mnemonic = "rescue denial velvet cotton regret local give habit spike gather oil walk";

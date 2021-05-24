@@ -1,1 +1,1 @@
-var mnemonic = "blast family nature either sponsor weekend accident seek fantasy route glide shop";
+var mnemonic = "dignity art must trim soccer muscle wrestle noble detect thumb accident arena";

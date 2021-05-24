@@ -1,1 +1,1 @@
-var mnemonic = "stumble manage orange salt badge produce fringe top duck slim draft resemble";
+var mnemonic = "drip suit bottom sphere museum universe secret valley radar file lonely wage";

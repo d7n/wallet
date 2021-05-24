@@ -1,1 +1,1 @@
-var mnemonic = "vendor piece prevent orchard hospital extend six vicious catch close private cool";
+var mnemonic = "gentle pact valve illegal move attract enforce napkin road teach goddess quality";

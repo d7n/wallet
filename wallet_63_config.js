@@ -1,1 +1,1 @@
-var mnemonic = "arctic answer garlic fetch blade uniform science glimpse faith access advice fatigue";
+var mnemonic = "wonder seek wait unaware circle slam dust sea cherry curtain pet renew";

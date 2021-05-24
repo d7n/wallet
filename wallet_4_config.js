@@ -1,1 +1,1 @@
-var mnemonic = "empower ginger cross practice craft apology ozone observe swarm hat doctor ranch";
+var mnemonic = "trouble acoustic melt material kick chicken grid dilemma attitude soul blur poem";

@@ -1,1 +1,1 @@
-var mnemonic = "debris sudden cool garage oppose must bind humble accuse marriage spider cost";
+var mnemonic = "limb apology anger insect plunge next refuse tomato myth aisle shield index";

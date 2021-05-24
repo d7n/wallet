@@ -1,1 +1,1 @@
-var mnemonic = "umbrella follow wild bacon art rule mixed idea snap jar disease merry";
+var mnemonic = "give hand indicate dish island ripple render furnace note caution hint weasel";

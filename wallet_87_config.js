@@ -1,1 +1,1 @@
-var mnemonic = "assume comfort outdoor umbrella need want inflict cabin key flame similar crumble";
+var mnemonic = "this horse wasp tennis chat dilemma high negative snow skate outer casual";

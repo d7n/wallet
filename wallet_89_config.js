@@ -1,1 +1,1 @@
-var mnemonic = "minute pair maze illegal surface jelly real alone pet liquid nerve knee";
+var mnemonic = "myself fabric wear convince build false business muscle endless alley april hurry";

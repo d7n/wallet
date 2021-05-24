@@ -1,1 +1,1 @@
-var mnemonic = "tongue scare popular reveal utility result victory nuclear square try job permit";
+var mnemonic = "quality matrix praise midnight pool super voice round oxygen repair benefit left";

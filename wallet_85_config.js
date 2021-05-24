@@ -1,1 +1,1 @@
-var mnemonic = "life insect huge soap route romance argue section scheme curious laptop what";
+var mnemonic = "female learn upper thing tennis whale all loan proud roof favorite ordinary";

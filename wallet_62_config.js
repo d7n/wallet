@@ -1,1 +1,1 @@
-var mnemonic = "merit mix captain squeeze sunset mixture wink episode guide lend puppy okay";
+var mnemonic = "spike water dice bomb please token elite ivory engine hedgehog country push";

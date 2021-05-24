@@ -1,1 +1,1 @@
-var mnemonic = "timber appear tooth bless friend kite fiber bridge devote advance rookie crater";
+var mnemonic = "purse response follow language notice human salute wide begin sign merit sorry";

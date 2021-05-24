@@ -1,1 +1,1 @@
-var mnemonic = "tonight chief dismiss beach ride maze kick visit trumpet comic since priority";
+var mnemonic = "happy true monkey hill diamond feed cricket indicate response castle potato know";

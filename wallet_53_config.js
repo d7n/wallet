@@ -1,1 +1,1 @@
-var mnemonic = "engine system skin always woman prize already female clown window often clip";
+var mnemonic = "gadget squeeze creek among fat novel midnight wing cheese gallery only behind";

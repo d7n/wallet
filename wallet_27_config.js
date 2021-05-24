@@ -1,1 +1,1 @@
-var mnemonic = "blossom useful volcano danger pool federal gaze modify stomach truly shed bread";
+var mnemonic = "moon april garage around mother october clump solution lesson provide muscle despair";
