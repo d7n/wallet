@@ -1,1 +1,1 @@
-var mnemonic = "grow cliff broom three three electric apology blossom wrist proof penalty spring";
+var mnemonic = "imitate claw net moment ostrich nuclear shield tiny feel burst throw follow";

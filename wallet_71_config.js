@@ -1,1 +1,1 @@
-var mnemonic = "silent skill strike display snake wear before fish pool involve plunge able";
+var mnemonic = "mechanic army stool note search sure appear inch secret diary vital original";

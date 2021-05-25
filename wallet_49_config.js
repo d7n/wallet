@@ -1,1 +1,1 @@
-var mnemonic = "onion goddess junk end shoot angle hobby true jeans faint barrel melody";
+var mnemonic = "material message electric tobacco fix sand check afraid mixture domain donor hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "speak rather suspect conduct usage such cigar disease legal child adjust zero";
+var mnemonic = "help catalog turn option result dismiss bounce man sheriff future video fury";

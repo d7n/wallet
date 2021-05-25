@@ -1,1 +1,1 @@
-var mnemonic = "believe task rely cook sound choice extend diesel position time kit cousin";
+var mnemonic = "ugly supply head giraffe glow filter apology safe muscle alpha seminar round";

@@ -1,1 +1,1 @@
-var mnemonic = "extend salon mask tobacco fish sad mix parrot pause squeeze pilot belt";
+var mnemonic = "animal maze actor gun slow boost color charge visa avocado monkey chest";

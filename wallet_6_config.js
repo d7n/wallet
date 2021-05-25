@@ -1,1 +1,1 @@
-var mnemonic = "light own quick bargain ability give royal hazard reject aerobic flight guide";
+var mnemonic = "dragon old arrange length barely organ disease satoshi horse keep rally wear";

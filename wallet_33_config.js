@@ -1,1 +1,1 @@
-var mnemonic = "body stuff arrange wet damage link ring shove much educate rebuild turtle";
+var mnemonic = "very neglect awesome depend blur tilt unusual van filter squirrel emerge prefer";

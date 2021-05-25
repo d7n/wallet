@@ -1,1 +1,1 @@
-var mnemonic = "enforce prison pepper business nasty buzz mandate exercise era laptop question twenty";
+var mnemonic = "atom frown crowd rebel muscle traffic engine farm consider asset library tree";

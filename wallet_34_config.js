@@ -1,1 +1,1 @@
-var mnemonic = "ramp despair flip seven tent draw liquid teach monitor record copy cable";
+var mnemonic = "orange tragic husband assume add random obvious stomach device twenty almost scale";

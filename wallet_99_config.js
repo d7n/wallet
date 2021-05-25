@@ -1,1 +1,1 @@
-var mnemonic = "catch hello sick midnight morning dawn under outdoor nut glass receive clerk";
+var mnemonic = "ask face water marriage marriage leopard term casino foster praise walnut morning";

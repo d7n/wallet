@@ -1,1 +1,1 @@
-var mnemonic = "property frame wonder doll lottery human legal comfort gossip grape torch popular";
+var mnemonic = "rocket broom trap happy camp upon fiction pepper moon vocal tuna fault";

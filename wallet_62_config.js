@@ -1,1 +1,1 @@
-var mnemonic = "sport want gate tone idle perfect angry violin soul horse swap artefact";
+var mnemonic = "spin forward again dentist distance clinic pupil stone future unveil donkey steak";

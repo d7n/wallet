@@ -1,1 +1,1 @@
-var mnemonic = "reform vague burst together service cradle knock cigar depend neck donkey grid";
+var mnemonic = "annual accuse away ghost first movie fat leaf bachelor curtain today lock";

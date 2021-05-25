@@ -1,1 +1,1 @@
-var mnemonic = "rocket basket owner wear two future earn march shrimp library stay novel";
+var mnemonic = "smart grunt subway feed biology prefer quarter banner test potato betray grit";

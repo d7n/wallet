@@ -1,1 +1,1 @@
-var mnemonic = "vast step damage smooth fever tortoise dial denial episode napkin universe liar";
+var mnemonic = "predict domain tool work switch add leopard sniff either knife add crew";

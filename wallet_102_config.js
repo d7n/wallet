@@ -1,1 +1,1 @@
-var mnemonic = "short bread fall toilet scrub ability brisk carbon empower asthma tattoo myself";
+var mnemonic = "client leader tree vibrant cloth exact hole snap subject flavor corn mistake";

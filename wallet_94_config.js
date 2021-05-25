@@ -1,1 +1,1 @@
-var mnemonic = "arctic special minor card plug tiger daughter magnet stamp sketch burst nasty";
+var mnemonic = "dove brass fever fuel antique before uncle glory depart oppose planet clog";

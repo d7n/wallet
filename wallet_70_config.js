@@ -1,1 +1,1 @@
-var mnemonic = "humble ostrich sight satisfy okay vendor rib item deer occur retreat slush";
+var mnemonic = "area seat vacuum replace range easy bundle snap collect pipe fabric donor";

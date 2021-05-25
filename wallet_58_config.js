@@ -1,1 +1,1 @@
-var mnemonic = "toward south urge ensure fit smoke wedding wild hover fire actor effort";
+var mnemonic = "oval brisk swarm earth detect keep fantasy scrub museum sword artist turtle";

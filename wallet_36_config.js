@@ -1,1 +1,1 @@
-var mnemonic = "index toddler vocal amount supreme annual among capital next okay unfold leave";
+var mnemonic = "fortune umbrella roast promote supply critic hair jacket artwork review kid saddle";

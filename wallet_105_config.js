@@ -1,1 +1,1 @@
-var mnemonic = "crumble father brother biology aim advance minor swift traffic pudding memory sand";
+var mnemonic = "you firm language shed morning bunker october donate innocent broom tumble deputy";

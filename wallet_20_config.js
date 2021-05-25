@@ -1,1 +1,1 @@
-var mnemonic = "nation review expose balcony upon dignity chalk hotel creek kind marriage dilemma";
+var mnemonic = "cute horror inmate brief atom worry multiply field render nature slab whip";

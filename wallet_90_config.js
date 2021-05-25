@@ -1,1 +1,1 @@
-var mnemonic = "couple lumber crime truth uncover wrestle very pave leaf produce insane keep";
+var mnemonic = "order indicate orchard where glimpse curious track oak orchard buffalo gorilla purity";

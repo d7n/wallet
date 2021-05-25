@@ -1,1 +1,1 @@
-var mnemonic = "defy mask embark staff kite coil fade mystery snow ghost pledge bundle";
+var mnemonic = "divert price social rose shed mention earth model north tissue trick identify";

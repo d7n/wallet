@@ -1,1 +1,1 @@
-var mnemonic = "evoke stable blade island deal boy kitchen end photo pause list force";
+var mnemonic = "glow horror puppy hedgehog innocent display move chuckle sing ice entire marriage";

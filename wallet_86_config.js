@@ -1,1 +1,1 @@
-var mnemonic = "system monster chronic toast legend receive planet setup correct coconut acquire apple";
+var mnemonic = "wheel behave bind home enrich lamp cover immune fortune cloth leader vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "logic comfort century grocery entire man cruel erode know idea hint pole";
+var mnemonic = "phrase nut reduce virus travel address increase kick bomb lottery own network";

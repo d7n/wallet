@@ -1,1 +1,1 @@
-var mnemonic = "vivid expect farm pupil control pact family feed tobacco remember allow peace";
+var mnemonic = "useful logic accident crazy consider surround inhale sketch vapor fold stuff field";

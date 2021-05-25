@@ -1,1 +1,1 @@
-var mnemonic = "load maze clarify lumber coral ugly later fee stay rug crouch inside";
+var mnemonic = "bind stand comfort dynamic tail soccer now idle win barrel hire picnic";

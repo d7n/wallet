@@ -1,1 +1,1 @@
-var mnemonic = "pride buzz that pulse rabbit interest hen defy glove shoot wink chief";
+var mnemonic = "radar brief miss fish glide gift cart infant adjust tide fit cushion";

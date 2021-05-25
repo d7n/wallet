@@ -1,1 +1,1 @@
-var mnemonic = "easy purse end left cotton harvest today eye time act thank job";
+var mnemonic = "mercy auto oval hero grain modify display train season virus lemon stove";

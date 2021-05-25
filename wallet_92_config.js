@@ -1,1 +1,1 @@
-var mnemonic = "congress mushroom regular absent swallow cook seed budget measure trade rose pigeon";
+var mnemonic = "engage pause blame glimpse flavor square crack neck dish all mail maze";

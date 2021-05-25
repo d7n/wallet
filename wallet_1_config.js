@@ -1,1 +1,1 @@
-var mnemonic = "parent faint lesson sheriff occur spice neither gadget need caution inflict rotate";
+var mnemonic = "loud crouch artwork ship stumble oppose cloud pear file cradle jeans olive";

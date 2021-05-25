@@ -1,1 +1,1 @@
-var mnemonic = "salt scale neck twin pride blur ghost labor eyebrow snow script erode";
+var mnemonic = "favorite donor control gold scatter effort source stable mesh victory wire noble";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor another kiwi vehicle soda garlic picnic priority butter upgrade raise void";
+var mnemonic = "stove expire parade music height garbage wreck pudding verify maid ancient average";

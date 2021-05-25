@@ -1,1 +1,1 @@
-var mnemonic = "patch always frog vendor kingdom syrup swift shaft biology raw story work";
+var mnemonic = "gift picture meat april admit plug buddy grace today region extra toy";

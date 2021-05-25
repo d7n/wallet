@@ -1,1 +1,1 @@
-var mnemonic = "strike void various shaft paddle uphold brass verify envelope sausage reopen rail";
+var mnemonic = "much year turtle trouble disagree mountain sketch often error opera pumpkin hat";

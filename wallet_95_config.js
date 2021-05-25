@@ -1,1 +1,1 @@
-var mnemonic = "evidence above gain crack penalty wild lobster cactus resemble wheat dynamic allow";
+var mnemonic = "chief when exercise network post affair amateur jacket wrist aunt drive color";

@@ -1,1 +1,1 @@
-var mnemonic = "shop random cement design agree oxygen vault hybrid burst expand begin argue";
+var mnemonic = "three apple mean goose indoor memory lens leader wagon volcano lake confirm";

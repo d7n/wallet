@@ -1,1 +1,1 @@
-var mnemonic = "damp shove pig dinner arrest small wreck olympic grace stable salmon sing";
+var mnemonic = "absent desert trouble defy funny enlist flush mansion stay crawl term knee";

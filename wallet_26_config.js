@@ -1,1 +1,1 @@
-var mnemonic = "cabbage setup clap salute fiscal damage crater increase expect city another need";
+var mnemonic = "virus length exhibit trim lecture ensure balance omit siege festival quarter sad";

@@ -1,1 +1,1 @@
-var mnemonic = "foil off lottery almost truth ritual flight tragic bike champion strong vehicle";
+var mnemonic = "frog quick undo spare citizen pledge fever spoil reveal dove violin swear";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion camp spoil giggle kitchen copy major crater inflict royal key ask";
+var mnemonic = "destroy gasp giant below wise quantum drip fall shadow priority cable ramp";

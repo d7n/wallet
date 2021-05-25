@@ -1,1 +1,1 @@
-var mnemonic = "arena shoulder goat woman tired salmon glow idle twenty miracle holiday bulb";
+var mnemonic = "another clerk napkin home gesture kangaroo lend check dwarf celery path unhappy";

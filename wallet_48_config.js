@@ -1,1 +1,1 @@
-var mnemonic = "dice cable dignity oil ice mammal rose embody cook praise outer casual";
+var mnemonic = "reward early goat relax quick trial sorry session tackle vacuum meat cook";

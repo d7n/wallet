@@ -1,1 +1,1 @@
-var mnemonic = "idle muscle apple use truth bike curious fetch sister require armed fix";
+var mnemonic = "gossip glare salad present idle match actual bleak clever vacant beach radio";

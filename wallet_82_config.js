@@ -1,1 +1,1 @@
-var mnemonic = "dismiss element cute mushroom evolve twist grab fringe cause item shop strategy";
+var mnemonic = "motion mule aisle inside solid until fitness together phrase stable sort sad";

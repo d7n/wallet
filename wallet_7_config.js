@@ -1,1 +1,1 @@
-var mnemonic = "iron smoke pen trip adult glue jelly cliff insect pair breeze differ";
+var mnemonic = "either method arm cram cheese insect topic brain good useful game gate";

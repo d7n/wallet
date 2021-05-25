@@ -1,1 +1,1 @@
-var mnemonic = "utility breeze kit impulse begin elbow hedgehog october emerge square keep suffer";
+var mnemonic = "lamp priority upon adjust dinosaur beauty minimum crash cat recipe fringe maple";

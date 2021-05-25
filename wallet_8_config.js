@@ -1,1 +1,1 @@
-var mnemonic = "liquid shrug force bright grit rail venture brother obtain wave repair private";
+var mnemonic = "wreck wait alert damp tiger spatial equip cactus rural boy liberty cost";

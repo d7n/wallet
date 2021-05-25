@@ -1,1 +1,1 @@
-var mnemonic = "position hope gain glance inform north dignity pulp portion cattle quarter erosion";
+var mnemonic = "rail shiver prize favorite gap equip arrest very gun fashion witness chef";

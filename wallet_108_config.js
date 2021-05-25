@@ -1,1 +1,1 @@
-var mnemonic = "ball again dwarf find crunch panic method sport urge okay innocent forum";
+var mnemonic = "uphold position race unusual ensure demise service shoot two mention outdoor develop";

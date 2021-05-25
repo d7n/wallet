@@ -1,1 +1,1 @@
-var mnemonic = "follow hedgehog drink west genuine oyster saddle habit earn kitten gallery bird";
+var mnemonic = "put syrup nominee amazing indicate apart time enable effort position issue globe";

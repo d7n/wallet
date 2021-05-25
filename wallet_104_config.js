@@ -1,1 +1,1 @@
-var mnemonic = "doll van chair stool hundred behave silk beef unknown drastic bachelor fringe";
+var mnemonic = "chapter march present heart depth indicate inmate game congress pluck vanish pond";

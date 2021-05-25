@@ -1,1 +1,1 @@
-var mnemonic = "potato defense joke purity term paddle limit quality symbol hurt antique sentence";
+var mnemonic = "fury usage time rib adult garment will detail great daring six reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual husband yard net cube floor light mutual rack badge tourist retreat";
+var mnemonic = "vivid mean wave photo host purpose dignity bunker excite please chase army";

@@ -1,1 +1,1 @@
-var mnemonic = "resist panda spin exit shallow camera lazy stool vicious crack seminar kid";
+var mnemonic = "shoulder bread bomb much tissue card plate famous next indicate write boring";

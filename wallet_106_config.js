@@ -1,1 +1,1 @@
-var mnemonic = "smoke weather song bronze prosper busy observe option arrive evolve curtain uncle";
+var mnemonic = "dawn catalog kid hurry toilet accuse gospel episode sorry exit glare unable";

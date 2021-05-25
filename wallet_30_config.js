@@ -1,1 +1,1 @@
-var mnemonic = "ill reopen erosion turtle pool transfer law limit wine describe segment agent";
+var mnemonic = "mass twenty dust loop fetch thing wolf priority shield crime visual abandon";

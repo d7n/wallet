@@ -1,1 +1,1 @@
-var mnemonic = "horse market alter click barely elder phone private online velvet leaf average";
+var mnemonic = "piano pizza inside tenant bounce buffalo voyage ghost banner quarter gravity often";

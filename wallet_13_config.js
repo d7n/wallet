@@ -1,1 +1,1 @@
-var mnemonic = "ice cost lake claw royal person valve perfect tissue crumble measure exotic";
+var mnemonic = "orient ginger olive rice stable tube tunnel table hundred fly ancient room";

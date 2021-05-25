@@ -1,1 +1,1 @@
-var mnemonic = "push bar endless fame shield seven cool wolf shiver void prize wild";
+var mnemonic = "mobile nice earth modify oven clown betray illegal vast sketch kick artist";

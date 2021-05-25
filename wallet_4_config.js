@@ -1,1 +1,1 @@
-var mnemonic = "tobacco shove acquire group noise unlock apology truck traffic material when bread";
+var mnemonic = "seminar need shock flame also accident hand scheme alpha inspire mule junk";

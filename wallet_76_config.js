@@ -1,1 +1,1 @@
-var mnemonic = "will leaf olive prepare vault provide rug dance multiply upgrade churn display";
+var mnemonic = "nerve allow faint pull wheel museum actor order large suffer gauge unit";

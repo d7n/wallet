@@ -1,1 +1,1 @@
-var mnemonic = "grit antique finish people result merit combine album diagram nation remember fog";
+var mnemonic = "monkey fruit solid crime domain open puppy visit bless merge bag inspire";

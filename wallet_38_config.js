@@ -1,1 +1,1 @@
-var mnemonic = "anxiety melt bean jacket because uphold salt diamond left climb must expire";
+var mnemonic = "sword force pact wealth unable crane soup night sock ozone salon theme";

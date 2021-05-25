@@ -1,1 +1,1 @@
-var mnemonic = "harvest embody patient kitchen ride simple upset pony also monkey pool kitten";
+var mnemonic = "room confirm seat once concert bench rocket sketch junior apple easily ladder";

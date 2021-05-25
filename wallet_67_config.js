@@ -1,1 +1,1 @@
-var mnemonic = "remind two inspire shoulder style toddler hybrid obscure tent museum cash impulse";
+var mnemonic = "now always dash health call denial rose spoil abstract foot cargo move";

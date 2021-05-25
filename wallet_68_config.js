@@ -1,1 +1,1 @@
-var mnemonic = "key situate update brown symptom chimney book verb about square sight unaware";
+var mnemonic = "obey ribbon balance dawn object open scare garage banner ready above join";

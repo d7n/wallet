@@ -1,1 +1,1 @@
-var mnemonic = "peanut fury warm need illegal wear ten pet exit border notable you";
+var mnemonic = "ensure lazy science notable lion bird satisfy monitor loyal spread shield runway";

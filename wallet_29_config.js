@@ -1,1 +1,1 @@
-var mnemonic = "reject skill ensure exercise grocery car deliver symbol green rich grass reform";
+var mnemonic = "regular differ pet gift prevent cushion able escape guilt about magic because";

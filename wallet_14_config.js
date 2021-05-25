@@ -1,1 +1,1 @@
-var mnemonic = "frown mushroom gun random together boost arch search middle expect mirror evil";
+var mnemonic = "spoon idea deputy bless feature dish between exit latin grunt wink senior";

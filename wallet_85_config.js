@@ -1,1 +1,1 @@
-var mnemonic = "divert grief traffic eight giraffe place drill worry marriage question artwork cupboard";
+var mnemonic = "sport flame rely mixture custom cake teach repair smooth tuna oval dignity";

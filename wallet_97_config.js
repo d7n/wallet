@@ -1,1 +1,1 @@
-var mnemonic = "vault often private echo cook young total excite field chalk hospital cross";
+var mnemonic = "deliver wait time radio robust lizard differ average power march farm nothing";

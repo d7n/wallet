@@ -1,1 +1,1 @@
-var mnemonic = "purpose move security digital riot auto hill already dry fun forget luggage";
+var mnemonic = "thrive unusual police order source situate large dawn uncover dynamic crazy fall";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery shoe call behave planet genius affair weather amazing manual victory nephew";
+var mnemonic = "moment elephant connect obscure escape mammal goose dish trap test siege depth";

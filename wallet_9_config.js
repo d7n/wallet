@@ -1,1 +1,1 @@
-var mnemonic = "east pencil tumble sting body exhaust kiwi oval weapon zoo jelly cupboard";
+var mnemonic = "bird caught small coast office tool nerve potato ordinary hobby budget detail";

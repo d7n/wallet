@@ -1,1 +1,1 @@
-var mnemonic = "card order above alley feature coral visit exotic century garbage any repair";
+var mnemonic = "wedding raise garden obtain pond diesel middle junior stamp blind rose banana";

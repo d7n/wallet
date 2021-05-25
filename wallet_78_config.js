@@ -1,1 +1,1 @@
-var mnemonic = "answer flight ahead maze noble suffer warrior keep start please bicycle depth";
+var mnemonic = "kingdom uncover simple lamp bar dress order pair harvest december valid volcano";

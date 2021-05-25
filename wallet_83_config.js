@@ -1,1 +1,1 @@
-var mnemonic = "frost prosper foot poverty powder acid skirt pull maximum palm anger unfold";
+var mnemonic = "fat devote food aunt jump copper because solar city manual muscle subway";

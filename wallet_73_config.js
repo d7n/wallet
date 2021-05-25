@@ -1,1 +1,1 @@
-var mnemonic = "hospital team chimney control legend miracle orient top cream infant rebel face";
+var mnemonic = "again autumn ball avoid aunt robust flight actress scrub cash roof thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf absorb general sibling tent clog dial budget hero asset upgrade virus";
+var mnemonic = "good cotton bag adjust public candy furnace sausage garage clown mention lumber";

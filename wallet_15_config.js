@@ -1,1 +1,1 @@
-var mnemonic = "issue comic crime again bleak cinnamon draw solar marble zoo method assist";
+var mnemonic = "chest medal flat amount music elite own primary effort cinnamon top key";

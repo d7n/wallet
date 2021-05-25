@@ -1,1 +1,1 @@
-var mnemonic = "bundle rack fiction mesh fan aunt equip fit aim siege half slender";
+var mnemonic = "guard concert report chuckle helmet rug few ahead sunset color brisk expect";
