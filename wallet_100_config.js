@@ -1,1 +1,1 @@
-var mnemonic = "citizen fruit young pride cradle satoshi celery topple mountain believe climb nature";
+var mnemonic = "observe wife capital shop manual resist hungry ice pause ten liquid student";

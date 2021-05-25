@@ -1,1 +1,1 @@
-var mnemonic = "term hammer sign dune canoe attend benefit robot snake across fantasy swallow";
+var mnemonic = "tiny estate cycle pistol egg angry random impact ostrich buyer harsh amazing";

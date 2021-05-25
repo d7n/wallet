@@ -1,1 +1,1 @@
-var mnemonic = "cry junk panther tilt then sort trigger aisle vintage garage remember extend";
+var mnemonic = "client globe hero desert tag police essence gloom dynamic alarm afford fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant fly worth future scrap joke alone prepare shaft rather emotion universe";
+var mnemonic = "popular manual slogan hello jelly layer illness cereal main occur frozen harbor";

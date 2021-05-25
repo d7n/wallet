@@ -1,1 +1,1 @@
-var mnemonic = "evolve point year naive famous security hold peanut expose cloud wool bid";
+var mnemonic = "forum fat basic desk network erosion refuse put asthma apology water add";

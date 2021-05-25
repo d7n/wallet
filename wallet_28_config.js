@@ -1,1 +1,1 @@
-var mnemonic = "myself stick finger element submit eagle dwarf color picture connect sight ankle";
+var mnemonic = "worry act clinic imitate whisper brief razor love assume charge burst dust";

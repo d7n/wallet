@@ -1,1 +1,1 @@
-var mnemonic = "uncover cruise vocal ticket tail width struggle people stone inherit unlock toe";
+var mnemonic = "enlist antique chapter protect sad mind return crawl spring poem select table";

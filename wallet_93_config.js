@@ -1,1 +1,1 @@
-var mnemonic = "vessel wing flag length hub enrich family during gym eight spawn best";
+var mnemonic = "provide door excuse fragile clog rookie salute item disorder luxury afford trash";

@@ -1,1 +1,1 @@
-var mnemonic = "state safe sea merge pen upset few beauty abandon lava such cigar";
+var mnemonic = "glare grow inspire unknown grunt adapt enhance hawk enroll settle spoon three";

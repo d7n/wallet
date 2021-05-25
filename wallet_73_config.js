@@ -1,1 +1,1 @@
-var mnemonic = "true find story enhance nominee hurry carry gold joke prepare donkey october";
+var mnemonic = "marine police fiscal next leg soon ahead today jelly move blood use";

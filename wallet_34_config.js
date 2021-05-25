@@ -1,1 +1,1 @@
-var mnemonic = "diesel broccoli segment bread still such velvet tide lizard penalty check run";
+var mnemonic = "word border antenna apology jump april tumble citizen tennis gate unfold olive";

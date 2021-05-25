@@ -1,1 +1,1 @@
-var mnemonic = "boat area goddess suffer mixed label hand tuition smart ocean amazing belt";
+var mnemonic = "soccer offer leg title labor degree scare cabin resist emerge cart equip";

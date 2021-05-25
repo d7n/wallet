@@ -1,1 +1,1 @@
-var mnemonic = "empower ship nurse space curve cup supreme pledge pyramid toss cradle lobster";
+var mnemonic = "matter garden december flash doctor index adjust monkey tuna guard siren horn";

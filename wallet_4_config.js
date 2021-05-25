@@ -1,1 +1,1 @@
-var mnemonic = "lady onion assault involve twenty rail rally net network right maze coffee";
+var mnemonic = "address chase female allow clean indoor humor disagree small chapter comfort exact";

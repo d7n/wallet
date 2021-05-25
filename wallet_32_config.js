@@ -1,1 +1,1 @@
-var mnemonic = "fiction thunder dice lizard still culture exist absurd must spike hammer dumb";
+var mnemonic = "barrel taste field guess hungry oil apart twelve dinner illness nerve rare";

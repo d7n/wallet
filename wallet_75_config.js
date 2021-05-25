@@ -1,1 +1,1 @@
-var mnemonic = "leg century tray blossom budget bamboo impose aerobic source feed today frequent";
+var mnemonic = "toe pet build brown blast phrase come fire group remain mean inquiry";

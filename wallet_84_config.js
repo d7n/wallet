@@ -1,1 +1,1 @@
-var mnemonic = "symbol usage eight club glimpse kid chest away banana settle nurse profit";
+var mnemonic = "genuine clutch abuse nominee hurdle arena witness current orient quote aware maid";

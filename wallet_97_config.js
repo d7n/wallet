@@ -1,1 +1,1 @@
-var mnemonic = "route trophy cycle vocal goddess purse emerge oxygen crisp vanish collect jump";
+var mnemonic = "sting kiss pupil comfort faculty school unique attract rare magic cross choice";

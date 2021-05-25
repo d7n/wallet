@@ -1,1 +1,1 @@
-var mnemonic = "abstract village loop protect blanket when bubble path enjoy faith room intact";
+var mnemonic = "plunge antique state gossip skirt current table angle icon crane lens divide";

@@ -1,1 +1,1 @@
-var mnemonic = "story athlete recipe refuse loyal dignity pond clip vapor dilemma glass oblige";
+var mnemonic = "regular there tobacco choice start wave warfare basic marine game proud blue";

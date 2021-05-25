@@ -1,1 +1,1 @@
-var mnemonic = "faith label opera void balcony rotate pizza spin another client puppy goddess";
+var mnemonic = "nephew endless ribbon raccoon evil amateur tag label balcony destroy dolphin century";

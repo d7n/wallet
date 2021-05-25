@@ -1,1 +1,1 @@
-var mnemonic = "above pave clump lend upgrade tuition drama cotton zone talk west boost";
+var mnemonic = "edit naive sister rare hair result more course bike liberty large visa";

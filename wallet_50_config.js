@@ -1,1 +1,1 @@
-var mnemonic = "ride design trumpet prize aim tail glare energy infant reflect film virtual";
+var mnemonic = "battle erase people tenant donkey parent spread output toward interest margin keep";

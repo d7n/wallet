@@ -1,1 +1,1 @@
-var mnemonic = "ivory obey excess street mistake primary olympic vacant fit thought ghost awesome";
+var mnemonic = "cricket wisdom distance tape hobby misery dizzy defense grid spray almost empty";

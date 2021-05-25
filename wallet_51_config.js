@@ -1,1 +1,1 @@
-var mnemonic = "renew mirror myth unlock future rally eyebrow prosper card drastic switch discover";
+var mnemonic = "because latin loop middle mule metal town valid begin original affair bulk";

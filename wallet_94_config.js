@@ -1,1 +1,1 @@
-var mnemonic = "predict crumble chalk escape sleep current describe call place breeze fresh grunt";
+var mnemonic = "hospital index lunch vapor lyrics monster giraffe disease similar zone consider error";

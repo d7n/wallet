@@ -1,1 +1,1 @@
-var mnemonic = "design asset crouch endorse cousin wool jeans march portion want critic rude";
+var mnemonic = "fix truck problem sail hip hybrid wish spot twist swear regular shallow";

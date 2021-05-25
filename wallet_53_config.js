@@ -1,1 +1,1 @@
-var mnemonic = "chat soldier sand melody swim portion above song enlist term library all";
+var mnemonic = "canvas type label slight olympic craft film pet fade icon donkey miracle";

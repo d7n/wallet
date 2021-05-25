@@ -1,1 +1,1 @@
-var mnemonic = "parrot square soap start network today view hidden kid letter afford acoustic";
+var mnemonic = "toilet tribe age cradle grace inquiry february page couch scan fish depart";

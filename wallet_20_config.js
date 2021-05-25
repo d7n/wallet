@@ -1,1 +1,1 @@
-var mnemonic = "noise thought lake raven piece start holiday woman keep shine potato force";
+var mnemonic = "sight pulse castle trip insane mistake genre clip state ring minute shrug";

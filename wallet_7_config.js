@@ -1,1 +1,1 @@
-var mnemonic = "drip wolf common despair lake erode cool citizen sudden accident gift repeat";
+var mnemonic = "lottery action vague beach castle dash game wide finish lava say rather";

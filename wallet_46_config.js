@@ -1,1 +1,1 @@
-var mnemonic = "rural glad junior chunk chest sketch spread rely monster armor develop sister";
+var mnemonic = "approve pet file give spoon crawl sure bless tower output confirm rebel";

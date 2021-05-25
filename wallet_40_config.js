@@ -1,1 +1,1 @@
-var mnemonic = "prize corn salt ordinary tide fortune armor visa essence viable clinic cruise";
+var mnemonic = "magnet milk honey squeeze become govern venture pulp work height orange educate";

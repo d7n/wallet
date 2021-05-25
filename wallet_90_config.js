@@ -1,1 +1,1 @@
-var mnemonic = "broccoli recycle will wood correct rookie gap assume shaft school fragile twin";
+var mnemonic = "reopen foil abuse axis polar very social awful soft cross they merit";

@@ -1,1 +1,1 @@
-var mnemonic = "edit tower also reopen weird cannon daughter place empower broccoli aerobic unusual";
+var mnemonic = "rally version faculty express early journey crack crop today thunder rebel innocent";

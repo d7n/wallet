@@ -1,1 +1,1 @@
-var mnemonic = "liquid goddess cart scan boost balance cereal away solve humble equip assume";
+var mnemonic = "eyebrow notice nerve fantasy toast scene enough then crater scare plug dolphin";

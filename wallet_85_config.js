@@ -1,1 +1,1 @@
-var mnemonic = "fatal report vacuum seven moon head potato zone summer steel mention attack";
+var mnemonic = "else vacuum genuine denial key step inherit sun coach funny prize sustain";

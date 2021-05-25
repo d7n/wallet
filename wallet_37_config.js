@@ -1,1 +1,1 @@
-var mnemonic = "expand diamond nephew call era wall paper label pencil design grunt industry";
+var mnemonic = "object penalty biology snack clip drive frog raise hunt wrap change kind";

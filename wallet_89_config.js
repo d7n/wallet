@@ -1,1 +1,1 @@
-var mnemonic = "replace arctic youth erode left achieve tragic tattoo update play increase such";
+var mnemonic = "blush observe solve seek season tattoo hero zoo light rural huge trouble";

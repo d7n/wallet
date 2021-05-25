@@ -1,1 +1,1 @@
-var mnemonic = "brisk drill kite flush switch inform certain throw polar jaguar key over";
+var mnemonic = "warfare police mesh type large kiss deliver lecture bottom fun donate lazy";

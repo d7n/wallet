@@ -1,1 +1,1 @@
-var mnemonic = "drift symbol relief offer liar love walk pipe muscle speak staff fix";
+var mnemonic = "phrase rocket fork monitor faculty hint ring drill pull clay lawn squirrel";

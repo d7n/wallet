@@ -1,1 +1,1 @@
-var mnemonic = "retire pause alcohol reason write midnight olive begin hamster fade holiday picture";
+var mnemonic = "desk issue rebel auto defy giggle glove source fitness want expire gesture";

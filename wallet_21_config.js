@@ -1,1 +1,1 @@
-var mnemonic = "venue endless steak tent reason charge tongue kiwi snow maid cargo solution";
+var mnemonic = "solid journey shock key category code goose address cigar repeat injury venture";

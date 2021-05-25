@@ -1,1 +1,1 @@
-var mnemonic = "panel gown certain barrel sport cement clay vacuum curve stem true explain";
+var mnemonic = "process abuse sadness anger develop ten use employ tortoise autumn imitate change";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo say candy human pony pigeon income fiscal agent buffalo digital black";
+var mnemonic = "whisper bone umbrella economy broom fever involve release super extend trade convince";

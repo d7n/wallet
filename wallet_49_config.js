@@ -1,1 +1,1 @@
-var mnemonic = "supply ocean canal unlock spike index curve air horse list filter acid";
+var mnemonic = "symptom expand position month turtle satoshi heavy profit host adult obtain output";

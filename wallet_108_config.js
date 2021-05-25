@@ -1,1 +1,1 @@
-var mnemonic = "screen mango bundle math stool crouch enemy smile mention wonder elbow walk";
+var mnemonic = "secret luxury name opinion inside home yard much dragon child pistol remember";

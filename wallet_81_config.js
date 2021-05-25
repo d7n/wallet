@@ -1,1 +1,1 @@
-var mnemonic = "first arm chat jump enforce agree flash approve joke year thumb prize";
+var mnemonic = "leopard track faculty case perfect head chimney print begin shuffle dawn nation";

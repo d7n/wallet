@@ -1,1 +1,1 @@
-var mnemonic = "habit coin cloud dice price moral way citizen arm impose unit detail";
+var mnemonic = "tomato swallow inhale faint suggest surround copy team lazy impose feel frequent";

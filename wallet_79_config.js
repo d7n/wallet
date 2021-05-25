@@ -1,1 +1,1 @@
-var mnemonic = "divorce image attend honey power army wedding cluster dice gravity corn leg";
+var mnemonic = "matrix assume toddler car one embody still cry visit army about element";

@@ -1,1 +1,1 @@
-var mnemonic = "butter spoon angry middle kiwi item actress torch guilt private comfort neither";
+var mnemonic = "leopard off bike bleak olive oak tooth gallery attend lonely burden dolphin";

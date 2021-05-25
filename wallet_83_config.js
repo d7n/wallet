@@ -1,1 +1,1 @@
-var mnemonic = "glance fiscal ketchup trim gown true gesture boil process voice royal enemy";
+var mnemonic = "lucky shoot base electric depth omit hero unit broom fitness lady toward";

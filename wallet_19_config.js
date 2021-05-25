@@ -1,1 +1,1 @@
-var mnemonic = "board normal tree inherit glass butter manual muffin define exit double type";
+var mnemonic = "swallow grocery trend until dismiss leisure concert exit range silly include elder";

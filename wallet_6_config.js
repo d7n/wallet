@@ -1,1 +1,1 @@
-var mnemonic = "swing lemon green blade name ribbon lunar ritual parade song uncover become";
+var mnemonic = "barrel blast rapid battle ensure hip envelope rhythm boost novel unable cactus";

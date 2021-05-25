@@ -1,1 +1,1 @@
-var mnemonic = "camera cup debris disagree entry extend furnace total weasel frame anxiety month";
+var mnemonic = "vanish govern shield fiber limit fly update little render toe arctic winner";

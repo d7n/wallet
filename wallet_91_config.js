@@ -1,1 +1,1 @@
-var mnemonic = "angle ignore patrol suggest tobacco laundry panda buzz turkey alone west fun";
+var mnemonic = "point black gravity december weather first motion parrot online zone arrange page";

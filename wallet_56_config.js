@@ -1,1 +1,1 @@
-var mnemonic = "happy announce cabbage trouble dry frequent index carbon puppy test tag novel";
+var mnemonic = "crunch crane simple fault trade addict nut mobile other rabbit raccoon canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge display clean weasel health bike mixture gap unveil animal throw powder";
+var mnemonic = "defense surprise sound grocery leisure atom price congress attract divorce sweet author";

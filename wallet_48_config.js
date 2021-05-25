@@ -1,1 +1,1 @@
-var mnemonic = "key sibling field brick shy park master network join fall rack announce";
+var mnemonic = "curious holiday what random ostrich pepper mechanic web electric laundry manual shallow";

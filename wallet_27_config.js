@@ -1,1 +1,1 @@
-var mnemonic = "jump pass plunge impulse camp absurd course sport person aisle mixture plastic";
+var mnemonic = "marriage peace unfair visa roast obvious already equal surround zone jar treat";

@@ -1,1 +1,1 @@
-var mnemonic = "wash elite exclude excite dad engine fatal finish knock web dial dad";
+var mnemonic = "choose zero bitter sport silver limit february fancy small account child thunder";

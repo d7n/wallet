@@ -1,1 +1,1 @@
-var mnemonic = "bid leg enforce funny live crime credit clown elevator vanish guilt garment";
+var mnemonic = "egg build amount forget jazz bean execute swarm umbrella fortune divorce stadium";

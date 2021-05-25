@@ -1,1 +1,1 @@
-var mnemonic = "tribe water retreat attend solution will dumb salmon dust aware patient surface";
+var mnemonic = "jungle under develop place want sorry ostrich icon impact limb among blue";

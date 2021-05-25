@@ -1,1 +1,1 @@
-var mnemonic = "domain trouble wife sell cloud merry vicious benefit visa wife about that";
+var mnemonic = "parent vapor dutch furnace cute burger tomorrow wool gas brave medal call";

@@ -1,1 +1,1 @@
-var mnemonic = "armed fan iron cluster utility toast energy author example access fee arrive";
+var mnemonic = "essay buzz asthma claw ancient sauce canyon sustain answer isolate betray tennis";

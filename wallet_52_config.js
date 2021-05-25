@@ -1,1 +1,1 @@
-var mnemonic = "crumble few category busy wife nut illness lottery elbow faint moon hold";
+var mnemonic = "embrace demand mom judge eyebrow predict air gravity chaos relief bench dog";

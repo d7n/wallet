@@ -1,1 +1,1 @@
-var mnemonic = "wise royal snack another bounce blue mistake around defense powder acoustic eight";
+var mnemonic = "junior save glue catalog reform slab member afraid tomato jealous friend bus";

@@ -1,1 +1,1 @@
-var mnemonic = "slot october design clarify average force kit frown across skin crouch crane";
+var mnemonic = "crowd ritual reason insane island install flat aspect reveal feed tilt material";

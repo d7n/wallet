@@ -1,1 +1,1 @@
-var mnemonic = "mercy discover record real aisle romance blame mixed pigeon tool bone subject";
+var mnemonic = "model govern laptop outside erode learn erupt increase lobster mention pet peasant";

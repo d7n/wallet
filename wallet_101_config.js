@@ -1,1 +1,1 @@
-var mnemonic = "unaware crime conduct people fine dress net pair foam away excess dynamic";
+var mnemonic = "pear mammal normal panic relief female match gospel install belt stereo super";

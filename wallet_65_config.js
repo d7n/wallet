@@ -1,1 +1,1 @@
-var mnemonic = "asset penalty siege entry pilot planet glide jazz utility regret section dune";
+var mnemonic = "pigeon island sleep peace ring decorate place deposit when tomorrow lend music";

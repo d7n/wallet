@@ -1,1 +1,1 @@
-var mnemonic = "glide duck mean popular soul method brother victory voice receive sell saddle";
+var mnemonic = "silver person harbor delay fish phrase bitter cricket trigger hockey fresh velvet";

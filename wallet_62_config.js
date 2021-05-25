@@ -1,1 +1,1 @@
-var mnemonic = "fetch egg chicken olive where forget mobile claw hour gun attitude ignore";
+var mnemonic = "mule pyramid behave floor riot blush clip meat immune illness win expire";

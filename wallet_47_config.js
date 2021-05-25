@@ -1,1 +1,1 @@
-var mnemonic = "rally dynamic fine quick coin entry enact punch seminar decide above morning";
+var mnemonic = "ethics flee inform gravity stove away pigeon rude fetch tower scare post";

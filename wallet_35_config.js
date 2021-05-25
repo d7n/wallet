@@ -1,1 +1,1 @@
-var mnemonic = "approve crush shrug field vote crazy diet point verify bag west october";
+var mnemonic = "mean patrol joy render silent error sponsor swear person lounge honey steak";

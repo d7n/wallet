@@ -1,1 +1,1 @@
-var mnemonic = "wise lounge text clutch gorilla doll waste attend speak confirm torch burden";
+var mnemonic = "furnace lens wild monster sugar grow flavor taste business salmon salad task";

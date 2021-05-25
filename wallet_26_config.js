@@ -1,1 +1,1 @@
-var mnemonic = "scheme regular about slab security cereal embark jazz unit village wink rare";
+var mnemonic = "fish next insect tobacco monitor brown purse feed venue mirror hazard coach";

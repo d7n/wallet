@@ -1,1 +1,1 @@
-var mnemonic = "drop sail nest hole domain antenna safe reveal glare bargain step include";
+var mnemonic = "bridge copper favorite concert ladder oil scene card opinion enter label affair";

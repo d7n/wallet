@@ -1,1 +1,1 @@
-var mnemonic = "taste arena gauge abuse stuff card bar couch bullet slight hobby simple";
+var mnemonic = "section eight task color proof milk average artist confirm gate square present";

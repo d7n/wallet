@@ -1,1 +1,1 @@
-var mnemonic = "opera gift nerve try motor toy sugar pulp vote want fault wrap";
+var mnemonic = "pool inhale mention practice entire owner hope skin cart put human way";

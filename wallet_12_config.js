@@ -1,1 +1,1 @@
-var mnemonic = "hint dilemma future light truth slight emotion right boat kid fringe cabbage";
+var mnemonic = "tank gun urge saddle power enable animal spoil universe fun october drama";

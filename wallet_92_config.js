@@ -1,1 +1,1 @@
-var mnemonic = "glance chef seven poverty stem ahead marble reflect thunder ten strong pipe";
+var mnemonic = "frog dinner intact danger frequent pyramid nephew admit brand history arena voice";

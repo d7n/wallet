@@ -1,1 +1,1 @@
-var mnemonic = "tornado broom eager alert despair old material empty rabbit dog spare inquiry";
+var mnemonic = "valid evoke setup gentle bless theory zebra consider office enable kitchen much";

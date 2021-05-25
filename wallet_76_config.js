@@ -1,1 +1,1 @@
-var mnemonic = "flush carry mandate symptom urge next slim select text repeat monster alien";
+var mnemonic = "silk acquire spike correct outdoor jungle solid dignity ship abuse caught rival";

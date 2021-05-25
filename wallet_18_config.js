@@ -1,1 +1,1 @@
-var mnemonic = "club disease flat sauce force shadow helmet spray mosquito story property excite";
+var mnemonic = "easily you reflect what upper news era capital offer click analyst egg";

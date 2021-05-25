@@ -1,1 +1,1 @@
-var mnemonic = "young bomb fancy loop treat choice cancel access shadow narrow poem point";
+var mnemonic = "envelope key cushion zero since powder ensure basket sister novel usage shift";

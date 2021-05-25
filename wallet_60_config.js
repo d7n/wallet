@@ -1,1 +1,1 @@
-var mnemonic = "swamp goat ski shop soccer tiny ramp dash dash wing expect bracket";
+var mnemonic = "sort alpha wrist close hero come loud strike pulse syrup debate emotion";

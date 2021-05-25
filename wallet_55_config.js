@@ -1,1 +1,1 @@
-var mnemonic = "paddle weird radar cook elbow clever tongue popular pride exhaust couple six";
+var mnemonic = "second insane usage jungle blur demise athlete poverty live tent inside another";

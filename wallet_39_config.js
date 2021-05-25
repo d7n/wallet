@@ -1,1 +1,1 @@
-var mnemonic = "napkin cave pass dash document adjust wrestle eye mixed eternal express venue";
+var mnemonic = "point energy fee alcohol garage bag sick ladder base island fold side";

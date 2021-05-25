@@ -1,1 +1,1 @@
-var mnemonic = "ball episode slide ten cupboard name flip palace toward glory stable upper";
+var mnemonic = "unusual brand vintage book salt half pride crawl spider annual island pledge";

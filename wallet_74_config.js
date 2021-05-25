@@ -1,1 +1,1 @@
-var mnemonic = "village group patrol soon fatigue museum together select airport salt tube famous";
+var mnemonic = "limb people better timber grant creek crawl carry army fury blame tunnel";
