@@ -1,1 +1,1 @@
-var mnemonic = "snow custom volcano enforce seminar puzzle debris differ carry engage deliver fine";
+var mnemonic = "illness never orphan vanish above dynamic gossip leopard wire wheat lottery ostrich";

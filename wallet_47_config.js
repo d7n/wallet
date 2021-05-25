@@ -1,1 +1,1 @@
-var mnemonic = "leopard hungry truck fever shoulder return oblige other word route season three";
+var mnemonic = "skin skirt cover play fat prepare front south harbor dose wire pair";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna speak round length maximum scrap foot body try choose kid estate";
+var mnemonic = "rhythm yellow crush rebel goddess old bright relax vanish during kid version";

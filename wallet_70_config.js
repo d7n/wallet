@@ -1,1 +1,1 @@
-var mnemonic = "hen pudding rookie remind kidney volume begin rather enforce caught chest chef";
+var mnemonic = "eye plunge decorate section night toddler ignore obvious snow need stadium gadget";

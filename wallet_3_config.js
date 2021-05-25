@@ -1,1 +1,1 @@
-var mnemonic = "strong paper candy nest hard either mean mask purity toe lesson tongue";
+var mnemonic = "bicycle cluster concert scatter stage tribe maple assault cushion wine grab very";

@@ -1,1 +1,1 @@
-var mnemonic = "blame dad keen enhance student fatal clock actress throw company measure this";
+var mnemonic = "split time fringe afraid step obvious void stairs lion ramp list light";

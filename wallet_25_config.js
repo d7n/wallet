@@ -1,1 +1,1 @@
-var mnemonic = "duck stuff delay journey insect intact pledge jazz demand wrong erosion split";
+var mnemonic = "visit narrow first warfare copper truly vivid web cruise traffic crystal token";

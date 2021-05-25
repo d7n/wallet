@@ -1,1 +1,1 @@
-var mnemonic = "degree boy cool merit diary midnight husband lemon honey where crunch latin";
+var mnemonic = "eye surge reduce female bounce awesome soda correct menu evidence lecture stairs";

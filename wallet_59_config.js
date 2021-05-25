@@ -1,1 +1,1 @@
-var mnemonic = "custom prepare kiss universe thought happy vacant wrestle air industry talent cruel";
+var mnemonic = "couple giraffe fashion luxury trust pond catch swamp bitter gym aisle essay";

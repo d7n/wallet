@@ -1,1 +1,1 @@
-var mnemonic = "kind cage spice soap hood bitter physical manual basic trade quiz brown";
+var mnemonic = "wall pistol trim journey warm stairs brave perfect busy drill code long";

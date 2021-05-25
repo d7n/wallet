@@ -1,1 +1,1 @@
-var mnemonic = "mammal sail mutual dog august diary awkward hollow manual achieve omit cash";
+var mnemonic = "love elegant minute parrot choose loan armed apart olympic inspire tongue badge";

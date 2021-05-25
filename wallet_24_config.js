@@ -1,1 +1,1 @@
-var mnemonic = "auction frost biology solar middle language jaguar gown enough bleak cinnamon sport";
+var mnemonic = "bottom coil series lunar cotton tattoo practice melody glide liberty resist daring";

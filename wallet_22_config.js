@@ -1,1 +1,1 @@
-var mnemonic = "clinic shy crisp left luggage crucial avocado search announce valid squirrel father";
+var mnemonic = "leg hill absurd senior aim twist wing razor core book column display";

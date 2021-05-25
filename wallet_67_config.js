@@ -1,1 +1,1 @@
-var mnemonic = "oval deny unique uniform make aerobic awful umbrella fly zero rigid steak";
+var mnemonic = "siege enlist joy behave ride fade vacuum bridge banner lecture add column";

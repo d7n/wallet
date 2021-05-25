@@ -1,1 +1,1 @@
-var mnemonic = "pipe fiction antique theme expand cotton top honey twenty business master nuclear";
+var mnemonic = "turtle color opinion neither slide sauce spring draw cat first sentence critic";

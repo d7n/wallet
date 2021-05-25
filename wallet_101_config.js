@@ -1,1 +1,1 @@
-var mnemonic = "ask dizzy pulse exact seminar frequent share blanket destroy afraid place wagon";
+var mnemonic = "network conduct front tired clerk boy common bamboo coffee skill tube skull";

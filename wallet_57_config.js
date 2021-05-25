@@ -1,1 +1,1 @@
-var mnemonic = "very three mind away mountain ecology cattle observe grape expose smart place";
+var mnemonic = "legend poem miracle place thrive defy wife area upgrade sudden fetch code";

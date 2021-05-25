@@ -1,1 +1,1 @@
-var mnemonic = "remain glimpse chalk tuition panel also return antenna document seek race minimum";
+var mnemonic = "daughter design piece notice torch faith turtle tragic question horn trap throw";

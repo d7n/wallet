@@ -1,1 +1,1 @@
-var mnemonic = "height simple hire scale session knee brief target gentle announce invest fruit";
+var mnemonic = "above salute chronic indoor name aunt monitor library concert soft alcohol swarm";

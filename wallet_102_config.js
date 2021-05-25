@@ -1,1 +1,1 @@
-var mnemonic = "doll scare excuse describe friend before trash already sort isolate cattle rotate";
+var mnemonic = "use cannon island nerve bullet degree impose theme elite minimum elbow glass";

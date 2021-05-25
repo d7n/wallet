@@ -1,1 +1,1 @@
-var mnemonic = "empower ball example project poem feel rotate remove ketchup minimum half myth";
+var mnemonic = "whip tuition round edit current above taste bamboo matrix very almost uncover";

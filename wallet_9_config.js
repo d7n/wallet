@@ -1,1 +1,1 @@
-var mnemonic = "burst element finish story leaf purity outer isolate dumb lab erupt school";
+var mnemonic = "stock civil absent retire whip tray universe pen damp great main twice";

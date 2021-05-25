@@ -1,1 +1,1 @@
-var mnemonic = "bus region sort hawk major flag indicate like skin hidden response wonder";
+var mnemonic = "bounce plug trap reflect giant absent kiwi render tower spend floor left";

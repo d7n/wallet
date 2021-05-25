@@ -1,1 +1,1 @@
-var mnemonic = "silver beef robust skull pelican tomorrow guess load envelope control farm say";
+var mnemonic = "like census engage rare chief slot meat nothing recipe useful radio crew";

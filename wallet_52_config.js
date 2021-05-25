@@ -1,1 +1,1 @@
-var mnemonic = "divide street warrior gown tonight spring orphan twice fever paper enable achieve";
+var mnemonic = "alien chair rural candy balcony arch suspect scan social pencil couch team";

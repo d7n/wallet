@@ -1,1 +1,1 @@
-var mnemonic = "more breeze topple orbit record ice hurdle stand slam blanket endorse pencil";
+var mnemonic = "expire wisdom marine monkey abstract ugly nut harsh icon romance team save";

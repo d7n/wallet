@@ -1,1 +1,1 @@
-var mnemonic = "transfer gesture toward nephew eager hawk rich control fish observe cycle carbon";
+var mnemonic = "rely govern where shop auto indoor firm real only ocean grit paddle";

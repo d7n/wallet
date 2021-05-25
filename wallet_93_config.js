@@ -1,1 +1,1 @@
-var mnemonic = "vibrant depth sleep script fashion dirt onion aim draft thought animal ripple";
+var mnemonic = "three bitter level mom regular cat solid steak behave amazing order aspect";

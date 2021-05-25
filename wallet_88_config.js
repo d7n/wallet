@@ -1,1 +1,1 @@
-var mnemonic = "prefer track brick much scene program industry hungry flag patrol garlic burger";
+var mnemonic = "street salmon dial rhythm banana size jelly hawk argue badge caught opinion";

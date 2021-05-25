@@ -1,1 +1,1 @@
-var mnemonic = "spy coin question lonely valve come service hat drum spice lake champion";
+var mnemonic = "around fever nature someone then horn chapter room stable example sad between";

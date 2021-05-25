@@ -1,1 +1,1 @@
-var mnemonic = "frame author poverty boring eternal arrange unknown client box material vague egg";
+var mnemonic = "alter mansion engine sniff render bacon gloom venue fragile jazz agent spread";

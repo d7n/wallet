@@ -1,1 +1,1 @@
-var mnemonic = "industry mango fury sick unaware pistol uncover pond thank success toward lens";
+var mnemonic = "culture concert napkin hood able nuclear immune bonus dynamic warfare dawn utility";

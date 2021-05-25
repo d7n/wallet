@@ -1,1 +1,1 @@
-var mnemonic = "enroll ride repeat arch raise news drum fuel forget alert crack prefer";
+var mnemonic = "rack budget jazz tool link club govern vague draft cricket ozone slim";

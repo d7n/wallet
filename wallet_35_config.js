@@ -1,1 +1,1 @@
-var mnemonic = "image juice float opera floor gallery ship deputy hard hope learn raccoon";
+var mnemonic = "issue affair gaze sad impose become three isolate pistol evidence isolate return";

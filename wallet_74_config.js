@@ -1,1 +1,1 @@
-var mnemonic = "panda people swing top kit rocket sing orbit vault raw bacon liar";
+var mnemonic = "define middle inform join method mixture fresh retreat cause fan orchard slim";

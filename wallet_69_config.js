@@ -1,1 +1,1 @@
-var mnemonic = "utility smooth obvious include jungle core mammal army color mercy few famous";
+var mnemonic = "tragic pool school nut alone boil hire route believe night magnet unlock";

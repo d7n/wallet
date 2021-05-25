@@ -1,1 +1,1 @@
-var mnemonic = "have extend student field virtual diet royal immense salute purity silly piano";
+var mnemonic = "world magic vast manage urge still siege paddle choose neutral board gym";

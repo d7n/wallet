@@ -1,1 +1,1 @@
-var mnemonic = "virtual sun adapt chef sweet plunge zebra squeeze lumber sausage jeans evoke";
+var mnemonic = "arctic easily shiver lens embrace sunny float join skin special olive weekend";

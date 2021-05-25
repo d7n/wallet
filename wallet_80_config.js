@@ -1,1 +1,1 @@
-var mnemonic = "spirit body uniform allow sibling lizard razor obscure valley guilt famous absorb";
+var mnemonic = "culture market verb legend life guitar field flame clock critic order mushroom";

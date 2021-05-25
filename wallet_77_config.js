@@ -1,1 +1,1 @@
-var mnemonic = "flash gloom valley permit mad reveal nest oblige drip rely dust feed";
+var mnemonic = "city goddess length fan harbor logic jewel sudden suspect across circle year";

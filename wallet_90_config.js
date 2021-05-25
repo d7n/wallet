@@ -1,1 +1,1 @@
-var mnemonic = "act play clay invite prison meat thrive wealth check acquire benefit acid";
+var mnemonic = "hybrid picture swim army artist grid force error season flip water hold";

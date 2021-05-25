@@ -1,1 +1,1 @@
-var mnemonic = "around film drop video column flash grass curious sketch include echo attack";
+var mnemonic = "wave broom payment only recipe legal ostrich enough scrub gold ranch learn";

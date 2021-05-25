@@ -1,1 +1,1 @@
-var mnemonic = "huge liar oblige trash draw input bachelor coil toward pool whip emotion";
+var mnemonic = "hamster divide march arctic swarm such erase card pole believe wall laundry";

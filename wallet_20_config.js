@@ -1,1 +1,1 @@
-var mnemonic = "inspire practice local gossip reduce goddess sadness frown ten coconut height memory";
+var mnemonic = "salon help blind broom wine light weasel doctor exchange ritual giant crash";

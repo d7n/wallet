@@ -1,1 +1,1 @@
-var mnemonic = "sick hobby dice abstract excess symbol ring fence claw evolve adapt matter";
+var mnemonic = "fog flavor elephant sense fork mesh sword absent doctor copy onion hundred";

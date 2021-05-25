@@ -1,1 +1,1 @@
-var mnemonic = "day drop pony boy sail feed casual order erupt deal rose acoustic";
+var mnemonic = "effort sting myself aerobic crumble finish pact they goat essay whip wild";

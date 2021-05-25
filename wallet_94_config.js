@@ -1,1 +1,1 @@
-var mnemonic = "arrive over canvas pencil column case system tourist clown hold blanket element";
+var mnemonic = "bone rack oppose rotate senior finger ready unaware license swing dizzy cupboard";

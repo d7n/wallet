@@ -1,1 +1,1 @@
-var mnemonic = "basic odor armor height boat knee web relax people own census lecture";
+var mnemonic = "tomorrow salmon wear radio army recycle suffer keep organ ghost sick sight";

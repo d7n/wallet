@@ -1,1 +1,1 @@
-var mnemonic = "term ten submit hint oak skin time physical sample other second need";
+var mnemonic = "steak barely urban online rocket purchase dumb promote swing best mixed give";

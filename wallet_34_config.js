@@ -1,1 +1,1 @@
-var mnemonic = "scout jewel fish purpose august cactus oval pen credit inhale wrist afford";
+var mnemonic = "rack twenty toy fury olympic item mushroom inquiry casual library inmate just";

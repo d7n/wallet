@@ -1,1 +1,1 @@
-var mnemonic = "cradle kangaroo decline author cruel gloom scene weapon cart nerve satoshi casual";
+var mnemonic = "leopard any city candy wave eagle antique swing insect fit dirt grass";

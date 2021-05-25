@@ -1,1 +1,1 @@
-var mnemonic = "caught spend injury lake right gossip again carry dice sibling bring major";
+var mnemonic = "infant twist sudden easily then pyramid blush belt mail lumber marine marble";

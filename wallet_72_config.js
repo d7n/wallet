@@ -1,1 +1,1 @@
-var mnemonic = "cousin army monitor debate castle layer suffer welcome detect blind improve upset";
+var mnemonic = "jacket they skin target sure mad nerve prevent rule tired strike only";

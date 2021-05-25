@@ -1,1 +1,1 @@
-var mnemonic = "decrease trap pull device venue raven best cliff security favorite mechanic video";
+var mnemonic = "artist prize bless seminar end argue report belt length census faint hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "wide session rice trend useless public youth indoor oblige pass fiscal woman";
+var mnemonic = "dawn smooth squirrel bubble base wife reason hungry result gesture spy finger";

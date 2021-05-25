@@ -1,1 +1,1 @@
-var mnemonic = "churn library regular electric bubble canyon payment false concert copy wire cliff";
+var mnemonic = "color disorder update habit garden valve fame coral speak two team congress";

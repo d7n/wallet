@@ -1,1 +1,1 @@
-var mnemonic = "borrow foam hundred erupt lawn soon post bounce trip coast usage napkin";
+var mnemonic = "sauce virtual someone pelican royal erase catch silk raw unable town gentle";

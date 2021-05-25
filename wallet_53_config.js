@@ -1,1 +1,1 @@
-var mnemonic = "victory zone canvas wedding coach error autumn raise control cricket noise cart";
+var mnemonic = "picnic fringe negative asthma today swallow danger test cram pudding toilet cook";

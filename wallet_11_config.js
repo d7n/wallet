@@ -1,1 +1,1 @@
-var mnemonic = "screen aunt blade dad option category angry gap drift pond legal bachelor";
+var mnemonic = "furnace reveal remind gentle food wonder monster stone place oppose time front";

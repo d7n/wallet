@@ -1,1 +1,1 @@
-var mnemonic = "path neither fatigue cry sheriff task observe roast toe mistake vintage mad";
+var mnemonic = "pride deputy degree scorpion weasel impulse unlock fetch vocal disorder immense foam";

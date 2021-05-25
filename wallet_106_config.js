@@ -1,1 +1,1 @@
-var mnemonic = "kiwi dumb large cart lift salt slow turkey space symptom drop journey";
+var mnemonic = "lottery ozone bean title finger replace blur state glad accident tissue connect";

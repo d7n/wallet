@@ -1,1 +1,1 @@
-var mnemonic = "group badge rifle barely delay foot strike tenant expand crazy gas aunt";
+var mnemonic = "service kind mercy analyst test quote tomorrow unusual napkin silk glass time";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn unaware mystery dismiss mention scheme analyst level edge bright question when";
+var mnemonic = "latin fever purse base mammal clutch grit tomorrow cotton damage devote grit";

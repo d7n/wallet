@@ -1,1 +1,1 @@
-var mnemonic = "buddy possible flash rule crush cart garlic hint fine suffer express adult";
+var mnemonic = "length clay alcohol distance session bread velvet describe rebel hurry room main";

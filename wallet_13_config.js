@@ -1,1 +1,1 @@
-var mnemonic = "now scheme add vacuum unique ahead call always small system seed door";
+var mnemonic = "pave prison deposit hobby scale hair mean reunion imitate stone loyal peace";

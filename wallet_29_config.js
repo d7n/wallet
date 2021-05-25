@@ -1,1 +1,1 @@
-var mnemonic = "elephant open dinosaur easily grape need gospel fold exist abuse aware woman";
+var mnemonic = "cushion furnace together frog tide sadness donate siren pool shell knife express";

@@ -1,1 +1,1 @@
-var mnemonic = "above response jungle wide owner chapter group agree fall adjust purpose siren";
+var mnemonic = "crane crumble voice clown salute fame doctor idle host champion rotate guard";

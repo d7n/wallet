@@ -1,1 +1,1 @@
-var mnemonic = "opinion north ritual virus zero rough nephew net bleak code search evidence";
+var mnemonic = "into light mule rebel cave equal piano text glass attend finger fluid";

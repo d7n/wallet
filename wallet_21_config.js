@@ -1,1 +1,1 @@
-var mnemonic = "fiction garlic roast worry pen dizzy above panther employ title oven small";
+var mnemonic = "foster crisp pride lumber jeans despair flock force kick garlic left dress";

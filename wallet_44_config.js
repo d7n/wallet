@@ -1,1 +1,1 @@
-var mnemonic = "cram dutch morning myth cabbage usage forest protect country inch warm candy";
+var mnemonic = "salt page bubble energy spread coffee sword neither hood soccer bless grid";

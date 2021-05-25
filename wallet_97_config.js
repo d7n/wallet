@@ -1,1 +1,1 @@
-var mnemonic = "sunset quantum catch onion bubble stool birth divert wet toast elegant city";
+var mnemonic = "orbit federal merge street control draw learn office gossip analyst depart sad";

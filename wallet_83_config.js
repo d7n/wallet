@@ -1,1 +1,1 @@
-var mnemonic = "gate iron join maze metal entire aim fish scheme lottery between neglect";
+var mnemonic = "family inform hockey bunker lobster area fly nothing student erode animal caught";

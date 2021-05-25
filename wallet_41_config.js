@@ -1,1 +1,1 @@
-var mnemonic = "crowd book warfare odor culture feed ball thrive chuckle expose beef prize";
+var mnemonic = "innocent pony submit sunset buddy sport letter minute trophy bench emotion major";

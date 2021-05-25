@@ -1,1 +1,1 @@
-var mnemonic = "amateur spy hood first dry rifle liar excess mix extra cross method";
+var mnemonic = "athlete nominee middle oxygen coral include gap thing olive job tackle maximum";

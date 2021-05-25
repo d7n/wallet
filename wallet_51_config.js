@@ -1,1 +1,1 @@
-var mnemonic = "play hollow oval bottom thought stand earn jewel clutch syrup ball enrich";
+var mnemonic = "virtual daring differ push surface sound broom symbol book okay always stick";

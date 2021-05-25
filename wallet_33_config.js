@@ -1,1 +1,1 @@
-var mnemonic = "walk debris gain hollow also erupt digital praise hollow divide sugar idle";
+var mnemonic = "nuclear sure lunar exercise cereal truly motion body crop woman rare amateur";

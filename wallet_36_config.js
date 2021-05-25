@@ -1,1 +1,1 @@
-var mnemonic = "symbol deer female retire trick decorate merit three inhale because rough buzz";
+var mnemonic = "barely shrimp spider sketch script shed vehicle hurt item resource tired seminar";

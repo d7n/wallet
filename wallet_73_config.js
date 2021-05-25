@@ -1,1 +1,1 @@
-var mnemonic = "snap unique wonder skull unlock powder evolve uncle cherry minor three weasel";
+var mnemonic = "shadow powder thumb squeeze team that security uncle owner pattern appear hawk";

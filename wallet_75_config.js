@@ -1,1 +1,1 @@
-var mnemonic = "pizza island repeat ahead resource jazz casual already drink alcohol clean canoe";
+var mnemonic = "box accident winner income swap cable raccoon two edge salute shield tongue";

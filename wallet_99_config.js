@@ -1,1 +1,1 @@
-var mnemonic = "begin elbow what lady cereal collect ski post month merit arrest radio";
+var mnemonic = "march lake title lecture use avocado body diary off nominee biology script";

@@ -1,1 +1,1 @@
-var mnemonic = "practice coach ugly what inner width foster shrimp peace act fit layer";
+var mnemonic = "lawn liar reject ozone inspire share tunnel quality gift injury fish extra";

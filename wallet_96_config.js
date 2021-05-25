@@ -1,1 +1,1 @@
-var mnemonic = "slender inmate avoid enroll join visual dignity sleep reunion number silver work";
+var mnemonic = "armor illness demand fire coast garlic polar bomb estate maple soup situate";

@@ -1,1 +1,1 @@
-var mnemonic = "boring social labor page coil front cherry minute popular error chapter toward";
+var mnemonic = "absurd credit core metal armed spread unfold avoid castle embrace alert scheme";

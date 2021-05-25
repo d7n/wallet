@@ -1,1 +1,1 @@
-var mnemonic = "walk rug program purpose indicate negative code prison cup time pact inspire";
+var mnemonic = "initial cream decrease curious capable forget prepare gold pulse profit illness follow";

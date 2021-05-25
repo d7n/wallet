@@ -1,1 +1,1 @@
-var mnemonic = "desert mandate shop awesome fee police lady nest chief entire aunt rubber";
+var mnemonic = "best pulse evil dynamic gravity absorb auction spice young carry hungry ordinary";

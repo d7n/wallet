@@ -1,1 +1,1 @@
-var mnemonic = "lend program rain cloth pledge hundred piano deputy twenty drum neglect cabin";
+var mnemonic = "speed local effort dirt ritual adult surround crane current alcohol resist intact";
