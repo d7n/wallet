@@ -1,1 +1,1 @@
-var mnemonic = "obvious virtual chimney old taxi insect rhythm when net nothing icon chest";
+var mnemonic = "flock matter sudden spring arrest salad chuckle rotate street party snow rose";

@@ -1,1 +1,1 @@
-var mnemonic = "earth twenty sudden either consider tunnel valid bonus steel connect salute face";
+var mnemonic = "home stool battle daring oyster gasp flame drastic engage artefact receive crowd";

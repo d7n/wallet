@@ -1,1 +1,1 @@
-var mnemonic = "inherit holiday math enhance friend club toss veteran awake erupt answer lend";
+var mnemonic = "city amused silver either market citizen success inner tray type know grass";

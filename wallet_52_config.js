@@ -1,1 +1,1 @@
-var mnemonic = "manual bulk atom spell federal copy barely tiny step trim slot deal";
+var mnemonic = "control rubber moon kiwi correct exhibit pumpkin spring shadow mother custom able";

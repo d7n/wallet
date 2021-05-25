@@ -1,1 +1,1 @@
-var mnemonic = "private bid east crawl deliver accuse test miracle practice describe rain lamp";
+var mnemonic = "unique napkin section spoon cloud exact canoe bottom nominee detect plunge wolf";

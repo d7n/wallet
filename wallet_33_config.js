@@ -1,1 +1,1 @@
-var mnemonic = "absent giant donate wet fade prison install solid exercise borrow capital promote";
+var mnemonic = "argue cruise idea access license liar inner chuckle turtle gloom mind diary";

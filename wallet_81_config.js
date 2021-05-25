@@ -1,1 +1,1 @@
-var mnemonic = "bag cost pair boy body network zoo sadness unable fantasy country diet";
+var mnemonic = "isolate key art know tail pact thank never tumble minimum say decide";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt display monster require slow kiwi renew whale ocean gift license swim";
+var mnemonic = "vicious help already success diagram brand gain olive flash depart another human";

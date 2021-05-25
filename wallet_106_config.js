@@ -1,1 +1,1 @@
-var mnemonic = "input matrix clock volcano wing cheese knife swamp always point solar budget";
+var mnemonic = "essence vital split idle build timber what blood nominee tomorrow rubber major";

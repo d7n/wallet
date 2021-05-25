@@ -1,1 +1,1 @@
-var mnemonic = "arrange zone reopen crane dwarf alone pluck skate fat keep define island";
+var mnemonic = "enough cradle advance afraid bird bread switch cycle caution blame beach soda";

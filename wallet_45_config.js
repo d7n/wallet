@@ -1,1 +1,1 @@
-var mnemonic = "dune ceiling payment gesture simple legal eyebrow earn hero win brush else";
+var mnemonic = "monkey lyrics menu use panel price despair flush boy planet sustain field";

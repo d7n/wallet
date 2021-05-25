@@ -1,1 +1,1 @@
-var mnemonic = "evoke try chief hub jazz veteran broccoli federal usual harvest point fury";
+var mnemonic = "firm erase prevent quality expand exact execute when quit drastic consider solid";

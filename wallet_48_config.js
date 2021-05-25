@@ -1,1 +1,1 @@
-var mnemonic = "buyer patient normal cruise lend pill regret pupil ginger youth gap magnet";
+var mnemonic = "banana seminar reason strategy alarm uncover home increase over sausage invest chat";

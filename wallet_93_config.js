@@ -1,1 +1,1 @@
-var mnemonic = "usage pudding bulb silver egg become social bomb sick satoshi pause calm";
+var mnemonic = "together nut destroy daring lyrics bronze owner peace juice way frost neglect";

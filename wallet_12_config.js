@@ -1,1 +1,1 @@
-var mnemonic = "gasp journey actress globe swim pattern wink display boat iron april law";
+var mnemonic = "mix type shoe hunt angle please gallery high teach brother derive travel";

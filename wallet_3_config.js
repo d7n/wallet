@@ -1,1 +1,1 @@
-var mnemonic = "vague enact enlist stem panther trigger monkey obvious dice nation pluck fuel";
+var mnemonic = "pass sauce duck special kick nature anger shoot merry strike party belt";

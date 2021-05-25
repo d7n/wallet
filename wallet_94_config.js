@@ -1,1 +1,1 @@
-var mnemonic = "tonight horn mule treat impact ankle interest era guess right close output";
+var mnemonic = "unable decrease lab effort vessel travel crazy project risk gain rare please";

@@ -1,1 +1,1 @@
-var mnemonic = "trip receive stove blood weapon biology city target depend dumb fault side";
+var mnemonic = "grow process various hurt small claw forest hobby what visit shop captain";

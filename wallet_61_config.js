@@ -1,1 +1,1 @@
-var mnemonic = "dial vicious hello grid daring recycle cave pig faculty announce draft enter";
+var mnemonic = "spray rely tuition rapid choice meat decade post clap ignore loyal warrior";

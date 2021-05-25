@@ -1,1 +1,1 @@
-var mnemonic = "collect demand net amount filter sunny kid dilemma blanket display breeze want";
+var mnemonic = "ethics glare require lamp stick hundred treat target ticket toy kid reason";

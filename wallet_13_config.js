@@ -1,1 +1,1 @@
-var mnemonic = "fiber chronic valve fame length original palm illness outer sand reward glare";
+var mnemonic = "length plastic become dentist winter wide remember found pepper runway model warrior";

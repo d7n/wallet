@@ -1,1 +1,1 @@
-var mnemonic = "nominee diesel identify peanut loud assist saddle regret wealth endorse act result";
+var mnemonic = "polar uniform stone delay antique secret layer body brand knee thumb draw";

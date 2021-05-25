@@ -1,1 +1,1 @@
-var mnemonic = "define upset convince seven wedding essay win echo alarm confirm cupboard tail";
+var mnemonic = "multiply margin mushroom ticket copy twice notable height laugh canal afraid artist";

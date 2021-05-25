@@ -1,1 +1,1 @@
-var mnemonic = "slab keen verb live employ dose damage move opera today swallow siege";
+var mnemonic = "knock joke hover hope only onion must bomb quantum jump fragile actress";

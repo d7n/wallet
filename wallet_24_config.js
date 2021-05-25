@@ -1,1 +1,1 @@
-var mnemonic = "blame robust flip simple fiction label vendor until reward palm miracle dial";
+var mnemonic = "hat obvious glow menu favorite spoil victory stable glue ceiling sadness voyage";

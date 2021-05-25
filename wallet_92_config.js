@@ -1,1 +1,1 @@
-var mnemonic = "name seminar ripple mail yard curve load cook riot supply plastic skull";
+var mnemonic = "fat lock neck diamond guitar lizard lounge tilt hidden shove private rely";

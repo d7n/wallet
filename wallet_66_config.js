@@ -1,1 +1,1 @@
-var mnemonic = "chase zebra raccoon glass post you option window raise hello garlic action";
+var mnemonic = "prize reform you slab reject urge mother welcome hire trigger meat month";

@@ -1,1 +1,1 @@
-var mnemonic = "soda mass fossil delay inside upon grant unfold light enemy celery piece";
+var mnemonic = "rifle digital blast attend scrap what oyster chapter balcony hurry volume bring";

@@ -1,1 +1,1 @@
-var mnemonic = "save iron favorite spread focus marine solar title cycle bike merge siege";
+var mnemonic = "garlic snack lens fossil clarify sustain cruel husband attend again novel voyage";

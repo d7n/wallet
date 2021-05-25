@@ -1,1 +1,1 @@
-var mnemonic = "large crowd sibling bronze canvas globe together detect planet crater power magic";
+var mnemonic = "pretty salt sound broom concert ghost unaware fox cram favorite catalog glad";

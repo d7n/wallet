@@ -1,1 +1,1 @@
-var mnemonic = "nephew chronic tomato choose purpose elite borrow idle plate rigid manual pencil";
+var mnemonic = "patrol solar marriage duty earn six duck destroy front join mountain symptom";

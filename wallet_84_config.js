@@ -1,1 +1,1 @@
-var mnemonic = "fatal army pelican regular drive type address blue horror cruel theory claim";
+var mnemonic = "false immune lizard shallow derive powder meadow mandate exotic garment caught neglect";

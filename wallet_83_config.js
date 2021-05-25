@@ -1,1 +1,1 @@
-var mnemonic = "drastic carbon reform guess nature vibrant target welcome story wrestle flush recall";
+var mnemonic = "always call shine outdoor fade cattle gasp they hedgehog pig clinic cradle";

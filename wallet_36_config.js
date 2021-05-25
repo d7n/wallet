@@ -1,1 +1,1 @@
-var mnemonic = "rack final term surprise about label leader enjoy genre idea anxiety milk";
+var mnemonic = "follow security armor rule devote veteran shed figure double soccer vapor fabric";

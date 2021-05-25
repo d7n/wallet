@@ -1,1 +1,1 @@
-var mnemonic = "faith nerve pass satoshi brisk monitor alien happy bless vague panther next";
+var mnemonic = "vibrant detail fragile stable flower pave cloud bubble crack fold cry weird";

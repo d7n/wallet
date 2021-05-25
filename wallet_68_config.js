@@ -1,1 +1,1 @@
-var mnemonic = "spring silly dirt involve gravity clock solar exercise rebuild use ritual toast";
+var mnemonic = "female abuse urban build rain glow bag offer sample brand then expand";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony weapon tuna giant mixed document naive chat puzzle quick illness best";
+var mnemonic = "sphere peace super there minimum wood oxygen liberty wool fluid alarm volcano";

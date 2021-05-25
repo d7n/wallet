@@ -1,1 +1,1 @@
-var mnemonic = "steak joy aerobic current kitten alley purchase fancy match side grass portion";
+var mnemonic = "load carry siren satoshi marriage damp antique wrist involve boy piano shadow";

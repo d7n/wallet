@@ -1,1 +1,1 @@
-var mnemonic = "coin ski super fabric hedgehog puzzle danger artwork destroy captain consider company";
+var mnemonic = "number mutual unfair album chest general rookie flee cross dish forum fit";

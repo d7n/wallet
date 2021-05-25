@@ -1,1 +1,1 @@
-var mnemonic = "gadget melt rocket shoulder lottery hazard tag toss spring swarm glad front";
+var mnemonic = "rich foot shop neglect trick keep shoulder say base lazy apart forget";

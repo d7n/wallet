@@ -1,1 +1,1 @@
-var mnemonic = "more adult hat boss bone goose oppose attract token wood bullet patch";
+var mnemonic = "enforce equal normal glare elegant change happy local stable cloud into network";

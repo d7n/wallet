@@ -1,1 +1,1 @@
-var mnemonic = "ride gauge worth quarter mix original initial frame depth mango grocery dash";
+var mnemonic = "congress flock silk enjoy cable curtain island salute anxiety sausage bus loan";

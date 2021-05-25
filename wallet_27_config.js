@@ -1,1 +1,1 @@
-var mnemonic = "castle gun into fringe remove buzz forest coffee flee toast split wrist";
+var mnemonic = "sudden myself around lock dry seminar tackle write model struggle banner damp";

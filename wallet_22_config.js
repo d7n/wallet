@@ -1,1 +1,1 @@
-var mnemonic = "moon dinner calm west fun depart scheme must eagle message slide salon";
+var mnemonic = "crisp find town taste law alert empty corn surface valve gossip cabin";

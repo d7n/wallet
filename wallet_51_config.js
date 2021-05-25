@@ -1,1 +1,1 @@
-var mnemonic = "clap tone virus palm exotic piano cherry heart logic never glad core";
+var mnemonic = "rebuild lemon wrist exotic ball raw smile movie crew mixed license canal";

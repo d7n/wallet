@@ -1,1 +1,1 @@
-var mnemonic = "alien pair bike barrel pudding cool exhibit master error brush spray apart";
+var mnemonic = "frog tribe arena erode orient venue final settle mirror age bag entry";

@@ -1,1 +1,1 @@
-var mnemonic = "pet family perfect attack champion arena wonder blind trade tell slice beauty";
+var mnemonic = "summer spawn wheat tank sure pear fortune story swap original issue hip";

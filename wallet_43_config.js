@@ -1,1 +1,1 @@
-var mnemonic = "chair result tuition exile random quiz burden hand dog fire boil blue";
+var mnemonic = "absent school mosquito amount permit vote must reason maple copper town vicious";

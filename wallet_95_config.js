@@ -1,1 +1,1 @@
-var mnemonic = "fortune hub tennis supreme forward agree window scare depend elbow knife artefact";
+var mnemonic = "army lava thrive ten announce paper unknown faith trial yard juice scissors";

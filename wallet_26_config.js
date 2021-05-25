@@ -1,1 +1,1 @@
-var mnemonic = "correct involve dad catch divorce velvet inhale heavy volume lesson brave unit";
+var mnemonic = "they adjust rely gloom joke replace cart check grape erase twelve input";

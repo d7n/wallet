@@ -1,1 +1,1 @@
-var mnemonic = "mule axis jacket father scare forest blood inside relax early wrist wish";
+var mnemonic = "junk lonely gossip opera fashion stool horn mouse social multiply gun sheriff";

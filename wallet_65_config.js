@@ -1,1 +1,1 @@
-var mnemonic = "clarify dog season cake income crack improve laugh detail quote address trophy";
+var mnemonic = "best position journey pottery awkward coconut dash that canvas throw emerge radar";

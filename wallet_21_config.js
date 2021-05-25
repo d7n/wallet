@@ -1,1 +1,1 @@
-var mnemonic = "gesture window fossil panel replace purse usual version giraffe crew vibrant nut";
+var mnemonic = "churn easy ribbon mimic rather tiger cactus tackle clutch public direct replace";

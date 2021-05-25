@@ -1,1 +1,1 @@
-var mnemonic = "ethics uphold maximum pony initial ridge enact lamp snack predict average property";
+var mnemonic = "devote legal agree forest foil annual hub crew curtain peanut brass promote";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus swarm fee afraid almost keen exhibit cave tell despair pipe short";
+var mnemonic = "bone prize river flat confirm shoe course taxi speed onion chalk giant";

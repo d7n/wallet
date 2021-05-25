@@ -1,1 +1,1 @@
-var mnemonic = "speak flush pond leopard rebuild review judge add sphere way drop twenty";
+var mnemonic = "cake world nose patient foot vessel neutral runway staff image soul fever";

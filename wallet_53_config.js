@@ -1,1 +1,1 @@
-var mnemonic = "brain fox glory current same gain blue syrup kind meadow clock vicious";
+var mnemonic = "early surface fox noise retreat essay giraffe harvest window farm core balance";

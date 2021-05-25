@@ -1,1 +1,1 @@
-var mnemonic = "polar lemon audit swamp equip attend cotton dress close ostrich sing orient";
+var mnemonic = "hello outdoor tongue betray jazz remove flight enemy hidden feature absent story";

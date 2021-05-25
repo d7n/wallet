@@ -1,1 +1,1 @@
-var mnemonic = "summer anger thunder unhappy outside abstract circle exile emerge veteran shoot smart";
+var mnemonic = "raise practice title mom blade crumble punch puppy pumpkin math absent soup";

@@ -1,1 +1,1 @@
-var mnemonic = "time void perfect toast avocado fragile sure useful equip cricket mule cook";
+var mnemonic = "acid economy butter oak hello rib olive prepare anger unusual enjoy mask";

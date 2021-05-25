@@ -1,1 +1,1 @@
-var mnemonic = "common family carbon clay pulp weasel hazard cherry tobacco cruise arrest cigar";
+var mnemonic = "cable math enter book raccoon glove energy bring immune crush obvious grow";

@@ -1,1 +1,1 @@
-var mnemonic = "boil gallery marble tuna scissors wide exist fire stem hire garage special";
+var mnemonic = "earn brick already win predict hospital dinosaur consider panther praise wet oxygen";

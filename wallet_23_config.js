@@ -1,1 +1,1 @@
-var mnemonic = "own degree torch hedgehog raven square obscure doll unique purpose index gas";
+var mnemonic = "guide faith stool fruit recall fit ring canvas garage wedding analyst genuine";

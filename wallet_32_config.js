@@ -1,1 +1,1 @@
-var mnemonic = "blast advice wedding vendor sand album quiz giraffe reopen eyebrow bridge exhaust";
+var mnemonic = "turkey concert submit text master gravity pet party decrease bundle cable october";

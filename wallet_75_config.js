@@ -1,1 +1,1 @@
-var mnemonic = "alpha expire eye vacuum dawn slim abandon humor elegant shed winter rifle";
+var mnemonic = "glimpse game tank boost post vessel example coach kit cart shiver anger";

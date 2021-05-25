@@ -1,1 +1,1 @@
-var mnemonic = "fix depend earth shiver alcohol bulk matter entire forget canyon weekend voice";
+var mnemonic = "feed creek soft joy kit cargo congress announce leaf multiply dress educate";

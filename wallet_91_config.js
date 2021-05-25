@@ -1,1 +1,1 @@
-var mnemonic = "faculty fuel device you vintage ice rain local goose chase sound attract";
+var mnemonic = "knee limit excess student text body cash forward power egg neither absent";

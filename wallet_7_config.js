@@ -1,1 +1,1 @@
-var mnemonic = "fall design shop pencil frozen organ sauce can disagree subway voyage help";
+var mnemonic = "trouble you dentist heart clap predict romance home lens grape evolve horror";

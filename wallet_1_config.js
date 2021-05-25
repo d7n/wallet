@@ -1,1 +1,1 @@
-var mnemonic = "crew turkey also ankle clarify attack silly frozen way comfort wild idle";
+var mnemonic = "tragic beyond loud purity sniff load gun strike accuse envelope spike element";

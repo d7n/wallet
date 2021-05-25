@@ -1,1 +1,1 @@
-var mnemonic = "limb genre cruel roof steak document sphere chalk exercise speak taxi journey";
+var mnemonic = "weather collect burger evolve find adjust hidden blue stand hammer flip nice";

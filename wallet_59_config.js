@@ -1,1 +1,1 @@
-var mnemonic = "stove brave favorite lab clap machine roof airport couple border size gift";
+var mnemonic = "measure client emotion pilot swallow clay blossom kiwi hero system drill casino";

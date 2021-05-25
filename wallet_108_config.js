@@ -1,1 +1,1 @@
-var mnemonic = "tent online elegant elite rare blossom result other duck rubber monkey produce";
+var mnemonic = "cute spy immune ankle amused duck cousin deliver father island mule good";

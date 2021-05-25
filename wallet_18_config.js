@@ -1,1 +1,1 @@
-var mnemonic = "afraid grain spoil decrease cushion raise random balcony civil wet wall resist";
+var mnemonic = "pretty oven reduce calm snow ostrich volume real define obscure motor math";

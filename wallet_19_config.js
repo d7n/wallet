@@ -1,1 +1,1 @@
-var mnemonic = "reform pelican ridge clump remove nerve trade visa cart coach scare odor";
+var mnemonic = "symbol tortoise elbow gorilla warm mobile flavor model index fossil banner wrist";

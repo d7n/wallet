@@ -1,1 +1,1 @@
-var mnemonic = "elite virtual daring utility inside solar feel unable hollow club pact sun";
+var mnemonic = "hammer north knife fiber upon hurdle field speed uncle disease tomato boat";

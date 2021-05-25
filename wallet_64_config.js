@@ -1,1 +1,1 @@
-var mnemonic = "milk skirt laundry come aisle merit master under marble define gallery letter";
+var mnemonic = "sell shove interest over maximum drip pole swing long broccoli split vacant";

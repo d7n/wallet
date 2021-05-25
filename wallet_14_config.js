@@ -1,1 +1,1 @@
-var mnemonic = "tourist tent health slight inquiry stadium network flower animal child insane cherry";
+var mnemonic = "frown fruit bean laptop march table rhythm disagree leaf decade stand promote";

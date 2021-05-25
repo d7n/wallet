@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog cart oxygen dove inherit turtle suit secret fossil parent wet oil";
+var mnemonic = "nothing year snake apart argue essence dwarf dune satoshi pass ignore remove";

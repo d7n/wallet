@@ -1,1 +1,1 @@
-var mnemonic = "vault nothing trouble know excuse tiger face mother disease defense share cart";
+var mnemonic = "clinic unaware error caution ripple buyer session gentle crime dial bulb resist";

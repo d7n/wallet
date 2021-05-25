@@ -1,1 +1,1 @@
-var mnemonic = "network duty wrong muffin slide digital sugar trap devote cat poet neutral";
+var mnemonic = "silk trial negative gasp analyst impact autumn summer risk nose weird pipe";

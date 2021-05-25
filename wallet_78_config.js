@@ -1,1 +1,1 @@
-var mnemonic = "path drip undo course crush smoke choose file unusual width gym alien";
+var mnemonic = "rate awake thing unlock charge person script sad razor quality garment lyrics";

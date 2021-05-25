@@ -1,1 +1,1 @@
-var mnemonic = "absorb guilt citizen grant half deposit icon legend wine rabbit ball size";
+var mnemonic = "small write ivory forward cave praise diamond ginger addict crush mutual dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "report latin lizard fan answer misery clutch chunk fetch industry crime useful";
+var mnemonic = "fetch poem destroy acquire purpose stay glide critic size coffee talent current";

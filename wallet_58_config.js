@@ -1,1 +1,1 @@
-var mnemonic = "load surround tip label ginger equip cage current mesh cause vanish warrior";
+var mnemonic = "adapt tray fortune mind culture wrestle dumb limb sting brief asthma liar";

@@ -1,1 +1,1 @@
-var mnemonic = "off violin funny amazing impose brass blood symbol moment village elbow rack";
+var mnemonic = "fiscal cup drum village abandon nation kind mango admit neutral verb salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle innocent pride pair clarify glide loan taxi flag hello consider quote";
+var mnemonic = "know decrease mobile ordinary reunion business asset rhythm setup fall squeeze trumpet";

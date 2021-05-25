@@ -1,1 +1,1 @@
-var mnemonic = "clutch mimic setup welcome anchor cage begin unit grape volume cake fame";
+var mnemonic = "initial top total blush disease suffer acoustic slush market note treat swarm";

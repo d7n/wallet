@@ -1,1 +1,1 @@
-var mnemonic = "mixture noble goose frequent lucky speak solve swamp offer humor evoke exhibit";
+var mnemonic = "winter gloom require wool clay frozen tell actual enter tide program visual";

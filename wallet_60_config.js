@@ -1,1 +1,1 @@
-var mnemonic = "enforce wasp tiny nature unhappy wave annual truth now voyage mango unlock";
+var mnemonic = "tornado person target buyer between pony sponsor stage exhaust kitten acoustic original";

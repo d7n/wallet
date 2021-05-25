@@ -1,1 +1,1 @@
-var mnemonic = "snap ice visit path civil mirror task bleak lounge maid access rookie";
+var mnemonic = "dutch exhaust rose split various smile surface proof umbrella erode still toe";

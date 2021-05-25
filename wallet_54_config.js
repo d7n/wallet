@@ -1,1 +1,1 @@
-var mnemonic = "oppose afraid day salt nuclear blast govern bind mule seminar rapid foam";
+var mnemonic = "cycle sea left slice sketch unfair insane slight near sing sorry various";

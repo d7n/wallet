@@ -1,1 +1,1 @@
-var mnemonic = "pink cereal mushroom marble surround deposit blanket inflict liberty phrase man lesson";
+var mnemonic = "gentle pig town moral enrich differ dress dose planet pause subject solution";

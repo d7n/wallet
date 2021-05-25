@@ -1,1 +1,1 @@
-var mnemonic = "diesel monkey spin grit become ancient sell pipe occur language runway chimney";
+var mnemonic = "dinner infant real citizen remind bronze stove solve fantasy camp state embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "category market clay march logic engage tobacco tragic music bike mosquito fence";
+var mnemonic = "group transfer dolphin attract insane marble album utility pink pig winner draw";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter action rabbit sure column exhaust analyst dynamic utility film obscure detect";
+var mnemonic = "organ typical town beauty path culture flock print trick organ squirrel jump";

@@ -1,1 +1,1 @@
-var mnemonic = "crime network party replace mango run lamp spray myth estate push useless";
+var mnemonic = "nerve winter olive radio insect satisfy pair carbon mechanic interest border guilt";

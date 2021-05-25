@@ -1,1 +1,1 @@
-var mnemonic = "wisdom there museum notice omit dwarf thunder lend entire ride cheese derive";
+var mnemonic = "harsh buyer derive town gate profit symptom odor genre giant burger employ";
