@@ -1,1 +1,1 @@
-var mnemonic = "scene benefit green offer figure message such topple fish venue shiver toy";
+var mnemonic = "occur measure lab list vital excite group advice away toward garbage tired";

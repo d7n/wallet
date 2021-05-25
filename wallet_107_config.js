@@ -1,1 +1,1 @@
-var mnemonic = "dry drip nothing home claw carpet west awkward vanish tribe alone accuse";
+var mnemonic = "energy blanket velvet slight rib style alcohol wash joke purity leisure bar";

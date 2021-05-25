@@ -1,1 +1,1 @@
-var mnemonic = "wrist prefer baby foil behave relax trip merge put leaf pelican cement";
+var mnemonic = "ecology office clinic unique drum soda grunt era magnet outer tray change";

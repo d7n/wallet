@@ -1,1 +1,1 @@
-var mnemonic = "catch yellow margin okay ribbon bacon armed delay equip derive kiwi title";
+var mnemonic = "copper spider leave giggle dish diesel whip zoo arrest affair valve next";

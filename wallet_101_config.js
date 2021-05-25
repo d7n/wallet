@@ -1,1 +1,1 @@
-var mnemonic = "whisper six bridge shy initial chat spoon next forget glue bone print";
+var mnemonic = "faint speak property pact account goddess illness sell produce pool lonely flower";

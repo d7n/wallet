@@ -1,1 +1,1 @@
-var mnemonic = "always pride shoulder key that breeze any educate clean rabbit acoustic also";
+var mnemonic = "rug infant garage bring what picture rough spell upon multiply promote tide";

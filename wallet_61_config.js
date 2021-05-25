@@ -1,1 +1,1 @@
-var mnemonic = "solution hat clog injury member feature body public license bid exhaust evolve";
+var mnemonic = "symptom acid clown aunt october fuel original vocal chuckle remember floor any";

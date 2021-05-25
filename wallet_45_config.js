@@ -1,1 +1,1 @@
-var mnemonic = "border fox use observe slogan bullet blush modify arch enrich wide end";
+var mnemonic = "awful busy soap seven kid mouse tube fruit oyster purse bulk child";

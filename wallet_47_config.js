@@ -1,1 +1,1 @@
-var mnemonic = "voice jazz erase garbage narrow together believe common bright flock rare garage";
+var mnemonic = "culture gym sorry chimney city rally rely once crime spend rack capital";

@@ -1,1 +1,1 @@
-var mnemonic = "young title maximum file puppy pepper inner assist shock silver sister valid";
+var mnemonic = "burst evoke hair vocal jacket cup lawn brass jump omit spoil blossom";

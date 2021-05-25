@@ -1,1 +1,1 @@
-var mnemonic = "profit trap hamster scan gasp friend usage punch method lazy change hello";
+var mnemonic = "stairs kick narrow chicken tomorrow awful woman equip drop assume album interest";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty grid pill notice torch design draw cart must garbage strategy when";
+var mnemonic = "pumpkin near cattle enroll hen diet boring sample pulp another retire team";

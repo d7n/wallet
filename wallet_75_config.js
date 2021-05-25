@@ -1,1 +1,1 @@
-var mnemonic = "enforce nuclear stick double burst hidden vessel organ similar forget initial ripple";
+var mnemonic = "rubber ahead easy million depend slide summer age vault staff damage connect";

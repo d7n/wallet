@@ -1,1 +1,1 @@
-var mnemonic = "cost trial episode jazz spare merit retire rotate please pigeon crystal all";
+var mnemonic = "label decade artefact stand replace unusual smart boost accident picnic casual fade";

@@ -1,1 +1,1 @@
-var mnemonic = "govern humble loan fuel opera matrix elbow sauce alien can history apple";
+var mnemonic = "behave hill love joy when garden lesson defy merry pause swallow height";

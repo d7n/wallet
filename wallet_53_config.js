@@ -1,1 +1,1 @@
-var mnemonic = "case lecture payment govern marine need hope sphere foam upgrade mosquito surge";
+var mnemonic = "nominee collect sword ski disease festival before option pulse exhaust mansion diamond";

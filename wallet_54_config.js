@@ -1,1 +1,1 @@
-var mnemonic = "spirit polar devote cabbage plastic elegant rabbit satoshi rich debate secret print";
+var mnemonic = "region dream tennis century grain badge tortoise jar level ship crater expose";

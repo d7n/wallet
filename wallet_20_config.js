@@ -1,1 +1,1 @@
-var mnemonic = "convince sight core cliff kick supreme desk broom jelly flip room lift";
+var mnemonic = "traffic illness confirm uncover little industry because ready neither staff rifle hand";

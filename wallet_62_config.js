@@ -1,1 +1,1 @@
-var mnemonic = "idle treat garbage live mail give burst carpet spin portion gallery stadium";
+var mnemonic = "city globe piece maple leisure tag movie risk laugh abuse panther pave";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy grunt matrix enable draft globe bean skin office fragile combine heavy";
+var mnemonic = "pledge catch dove symptom lumber display flame dial pride pen attack major";

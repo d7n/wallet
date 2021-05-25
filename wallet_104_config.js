@@ -1,1 +1,1 @@
-var mnemonic = "flee universe bid dawn mushroom evolve metal spread trumpet regret hawk half";
+var mnemonic = "edit bleak square ritual school kitten diary harvest normal spend author train";

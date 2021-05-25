@@ -1,1 +1,1 @@
-var mnemonic = "please wreck pledge inch balcony one immune crash enrich powder mom coyote";
+var mnemonic = "toward stamp drop blur sauce charge waste method moon pen mule grief";

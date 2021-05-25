@@ -1,1 +1,1 @@
-var mnemonic = "access emotion rough cement uncle alarm measure author churn oven empower romance";
+var mnemonic = "good usage goose fiber appear hub buzz edit area coral tiger sibling";

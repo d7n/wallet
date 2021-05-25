@@ -1,1 +1,1 @@
-var mnemonic = "benefit boil ocean margin kitten legal put humor close deliver page wonder";
+var mnemonic = "flavor beach bachelor only tag amused type drive safe place hazard rescue";

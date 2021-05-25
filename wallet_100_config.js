@@ -1,1 +1,1 @@
-var mnemonic = "strong federal open journey shrimp slight bench spread fork elder floor tribe";
+var mnemonic = "come shoulder snow salmon fluid crane trumpet celery direct write lobster flush";

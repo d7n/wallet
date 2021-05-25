@@ -1,1 +1,1 @@
-var mnemonic = "kit brother ramp retreat hello history custom time cup dawn bridge main";
+var mnemonic = "true inner neither anxiety novel recall half crouch wash actress kitten orphan";

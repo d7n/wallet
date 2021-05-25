@@ -1,1 +1,1 @@
-var mnemonic = "radio wet series entire absurd since unknown dance bomb manage sort gloom";
+var mnemonic = "enjoy rely guess else unknown hip reopen approve swift need surge original";

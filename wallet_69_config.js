@@ -1,1 +1,1 @@
-var mnemonic = "prevent hint east fever patient love view just actor satisfy hurry legal";
+var mnemonic = "yellow tooth term pill raccoon monster rebel purse brown foster few grocery";

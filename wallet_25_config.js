@@ -1,1 +1,1 @@
-var mnemonic = "path select bleak simple pool bless secret addict gym entire cupboard option";
+var mnemonic = "observe column knee knock trip outer begin divert match chat choose penalty";

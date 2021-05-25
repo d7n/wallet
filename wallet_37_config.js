@@ -1,1 +1,1 @@
-var mnemonic = "hurdle wall enter cherry magnet spend planet luggage syrup turkey license rare";
+var mnemonic = "guess clutch social current object service program entire model cement inhale produce";

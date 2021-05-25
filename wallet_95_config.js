@@ -1,1 +1,1 @@
-var mnemonic = "blossom vital spend favorite real mail rough rice what direct hamster reduce";
+var mnemonic = "please method arm dumb outdoor view kingdom antenna affair jazz patch annual";

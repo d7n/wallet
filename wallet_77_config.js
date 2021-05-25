@@ -1,1 +1,1 @@
-var mnemonic = "route history tree various happy jump sadness sadness mobile water auction oak";
+var mnemonic = "shove intact advance clump window warrior shift quit author horse narrow tail";

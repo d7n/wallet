@@ -1,1 +1,1 @@
-var mnemonic = "captain chunk cage public hotel into beach rookie okay choose core actress";
+var mnemonic = "soon sock bomb awkward disorder metal riot also twice churn tonight sort";

@@ -1,1 +1,1 @@
-var mnemonic = "need typical custom keen holiday visit duck trend jewel base dry elbow";
+var mnemonic = "few during easily fantasy wealth thrive must nothing burger alcohol demand lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "enable proud diamond simple surge rescue ugly prize penalty venue pattern wheat";
+var mnemonic = "shrimp path cave people photo ugly stairs kid panda garage metal excuse";

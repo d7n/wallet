@@ -1,1 +1,1 @@
-var mnemonic = "win ticket deposit multiply youth addict alter grace shock panic alcohol equal";
+var mnemonic = "correct what boost suit expect reward cost deposit antique stairs acoustic dismiss";

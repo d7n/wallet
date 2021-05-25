@@ -1,1 +1,1 @@
-var mnemonic = "narrow bean divert poverty first spot gaze visual language filter pact power";
+var mnemonic = "sorry modify match roof another payment notable vibrant home view mixture forum";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle parrot airport example spider hair tragic vacant reject grape funny marine";
+var mnemonic = "sure raccoon stock meat between improve crunch range fitness purity outside stable";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin road trick liquid gravity gym woman nasty phrase puppy stadium pretty";
+var mnemonic = "truth height rail what slow credit elder glory drive casual together equip";

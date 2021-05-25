@@ -1,1 +1,1 @@
-var mnemonic = "hurry six note delay morning gasp lunch prize pride stick dress evil";
+var mnemonic = "hire shadow coin critic sample hill tuition morning use potato dune rather";

@@ -1,1 +1,1 @@
-var mnemonic = "one keep cook link absorb verb crouch donkey pill resource curve trophy";
+var mnemonic = "attend round nest parrot clog fever parrot rice gravity genre maximum soup";

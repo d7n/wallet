@@ -1,1 +1,1 @@
-var mnemonic = "puppy special bamboo twelve help lucky debate bargain object knife secret rubber";
+var mnemonic = "sign utility property liquid quarter throw copper educate tape shoulder easily walk";

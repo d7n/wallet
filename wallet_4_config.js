@@ -1,1 +1,1 @@
-var mnemonic = "ask essence envelope cabbage miss gravity want cat honey social omit economy";
+var mnemonic = "club trophy barrel scheme follow glove wild decade claim tree library visual";

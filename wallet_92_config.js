@@ -1,1 +1,1 @@
-var mnemonic = "people trial annual clutch royal emerge zone parade lift fame suggest column";
+var mnemonic = "humor bird grid plastic winter evil noise remove inject pizza rigid cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "pen dash foil pull tourist that forest aerobic wait member among boost";
+var mnemonic = "danger word artefact cage balcony subject fitness cactus ankle glue fire nasty";

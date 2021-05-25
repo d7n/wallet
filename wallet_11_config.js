@@ -1,1 +1,1 @@
-var mnemonic = "tissue fresh assist this pen old seven disagree segment shield borrow evidence";
+var mnemonic = "raccoon ready brave twice pond end morning pass moment music inflict artefact";

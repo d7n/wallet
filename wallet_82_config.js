@@ -1,1 +1,1 @@
-var mnemonic = "special middle power speak broom company close stone stem damp before pride";
+var mnemonic = "monkey great grape chest muscle cannon earth quarter laptop lyrics donor chief";

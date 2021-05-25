@@ -1,1 +1,1 @@
-var mnemonic = "enjoy satisfy clean indoor seat service canal diesel ugly fancy motion trash";
+var mnemonic = "nut relief gospel patch canvas delay weasel any laugh afraid donkey pride";

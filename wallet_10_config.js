@@ -1,1 +1,1 @@
-var mnemonic = "salad popular select gift between find squirrel foster carbon ecology color better";
+var mnemonic = "member train jeans coral lend sound sadness eternal because question dignity negative";

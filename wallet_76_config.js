@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit allow pudding until garbage quick guitar glue sibling odor hint mail";
+var mnemonic = "cabin fancy indoor orient scrap tooth dilemma exhibit focus light place seek";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle surprise humble phone inmate pool hedgehog remind duty width still ghost";
+var mnemonic = "illness patch vocal effort add pistol defy can quiz whip mouse nothing";

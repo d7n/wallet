@@ -1,1 +1,1 @@
-var mnemonic = "apology nuclear end panda clog oak sick image fancy cruel bonus dismiss";
+var mnemonic = "organ blanket surround core farm allow quit joke situate boil escape movie";

@@ -1,1 +1,1 @@
-var mnemonic = "curve stay poet hen deer good slow myth tonight wolf midnight galaxy";
+var mnemonic = "purpose marble spend alter gallery pink tuition ankle trial surge habit spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent price ice cave property drive broccoli buddy aisle medal result evolve";
+var mnemonic = "medal kiss father alcohol excite dish must south neck monster nominee wife";

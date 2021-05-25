@@ -1,1 +1,1 @@
-var mnemonic = "fork subject discover style frown knife extra fit cement inspire winter imitate";
+var mnemonic = "grape slush bridge impact remove zone arrow feature visa hub admit whip";

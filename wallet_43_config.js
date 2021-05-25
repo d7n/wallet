@@ -1,1 +1,1 @@
-var mnemonic = "success outside height tray rough coral soldier sustain push slab giraffe audit";
+var mnemonic = "setup erosion coconut prison smart year try title entire bubble idea vessel";

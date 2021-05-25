@@ -1,1 +1,1 @@
-var mnemonic = "close never game essence foam endorse have crucial silver select approve judge";
+var mnemonic = "split able poverty click salt focus silly away plate stay bullet spread";

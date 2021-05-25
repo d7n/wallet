@@ -1,1 +1,1 @@
-var mnemonic = "film advance hold dynamic account critic better resource dynamic cinnamon miss nuclear";
+var mnemonic = "result recall pelican pattern eager people attend orphan frown glove flower feature";

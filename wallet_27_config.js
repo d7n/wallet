@@ -1,1 +1,1 @@
-var mnemonic = "goose inside seven phone into neutral kitten crew old vocal goat inform";
+var mnemonic = "approve believe slot split organ veteran world donor cliff increase scissors captain";

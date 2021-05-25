@@ -1,1 +1,1 @@
-var mnemonic = "perfect lava music echo mansion clown power ocean rich crisp crane market";
+var mnemonic = "bar grape library fault nerve work quick flame describe grief dune priority";

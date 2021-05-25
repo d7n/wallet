@@ -1,1 +1,1 @@
-var mnemonic = "outer paddle fatigue curious again empower token gossip daughter verify stadium gather";
+var mnemonic = "pilot seat barrel region patrol denial various trap angry differ multiply garden";

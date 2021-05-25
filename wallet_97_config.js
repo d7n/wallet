@@ -1,1 +1,1 @@
-var mnemonic = "reject burst gloom dial stomach goat doctor coral silly box liberty mule";
+var mnemonic = "damp push candy timber lizard able glad author web imitate fitness expand";

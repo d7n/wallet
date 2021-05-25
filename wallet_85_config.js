@@ -1,1 +1,1 @@
-var mnemonic = "tornado fan brand cheese material erase manage piano laptop educate reason boost";
+var mnemonic = "devote soda large finger copy decorate canoe club sister dizzy alpha mushroom";

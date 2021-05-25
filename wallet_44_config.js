@@ -1,1 +1,1 @@
-var mnemonic = "knife donkey ancient thought lemon kiwi hollow badge mechanic antique welcome elbow";
+var mnemonic = "luxury dynamic erase minimum bunker surprise action quote survey during fetch card";

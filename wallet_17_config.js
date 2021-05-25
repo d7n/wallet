@@ -1,1 +1,1 @@
-var mnemonic = "avocado seminar math gas roast rifle own scissors drift height fork above";
+var mnemonic = "inflict much accident puzzle top soap travel gasp fatigue media drink hover";

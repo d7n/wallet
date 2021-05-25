@@ -1,1 +1,1 @@
-var mnemonic = "dad exact furnace margin exit cause more cram draft degree ethics angle";
+var mnemonic = "hotel canoe all fashion monkey three scare recycle cherry memory toss left";

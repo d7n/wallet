@@ -1,1 +1,1 @@
-var mnemonic = "observe force liar patient page farm issue twist sniff dog crater bundle";
+var mnemonic = "output duck basic today rhythm shrug old squirrel pass jaguar middle slam";

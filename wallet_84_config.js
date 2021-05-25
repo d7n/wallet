@@ -1,1 +1,1 @@
-var mnemonic = "bottom river jazz crumble razor short split nothing inject peace label nature";
+var mnemonic = "dish verify pill source prize organ mind wire hedgehog admit fatigue mule";

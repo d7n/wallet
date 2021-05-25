@@ -1,1 +1,1 @@
-var mnemonic = "sketch toast alpha medal quiz fashion nominee equip chest yard crack tornado";
+var mnemonic = "vague achieve first moral neglect patch genius write resource pull silver primary";

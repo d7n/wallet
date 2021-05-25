@@ -1,1 +1,1 @@
-var mnemonic = "friend slogan into slam innocent ivory void ring actual trip help vocal";
+var mnemonic = "about moon betray slot diamond sleep river absent robust enact tent uniform";

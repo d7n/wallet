@@ -1,1 +1,1 @@
-var mnemonic = "critic little bulk gather better credit spot rack term bone fantasy rail";
+var mnemonic = "orphan addict giraffe express daring spread margin mechanic guide door question monkey";

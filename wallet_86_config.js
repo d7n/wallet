@@ -1,1 +1,1 @@
-var mnemonic = "donkey talk punch detail still multiply vocal laptop remain health sand bullet";
+var mnemonic = "net actual oyster cheap slush satoshi hill virtual blast conduct broken upgrade";

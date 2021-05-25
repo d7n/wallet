@@ -1,1 +1,1 @@
-var mnemonic = "worth sibling replace dance welcome wise satisfy rude copper media flee another";
+var mnemonic = "jacket diamond abandon turn silk spread midnight canal chair glimpse dizzy dinosaur";

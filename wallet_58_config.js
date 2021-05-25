@@ -1,1 +1,1 @@
-var mnemonic = "video habit know happy segment seminar act spice position verb reward extend";
+var mnemonic = "case primary play until require nest three waste sunset useless drill raccoon";

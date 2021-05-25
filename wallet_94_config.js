@@ -1,1 +1,1 @@
-var mnemonic = "refuse lucky sadness unit rabbit romance bridge thumb man shiver remember town";
+var mnemonic = "couple keen glance initial company inform fruit enjoy first error soup excess";

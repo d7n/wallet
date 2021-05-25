@@ -1,1 +1,1 @@
-var mnemonic = "lend garden unit simple myself vivid win resist acid emotion test grunt";
+var mnemonic = "around cigar throw bean brown clock reveal nut drift interest reflect horse";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder escape moment ecology catalog brisk fortune jazz height solid beef skate";
+var mnemonic = "girl city magic cry hotel flame mushroom motor bean vocal amount edge";

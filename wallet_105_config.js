@@ -1,1 +1,1 @@
-var mnemonic = "recipe punch swim switch regret relax trash park ladder north earth muscle";
+var mnemonic = "alien term want avocado delay clap ability demand decrease offer load emotion";

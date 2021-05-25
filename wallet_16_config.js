@@ -1,1 +1,1 @@
-var mnemonic = "rose filter demand change clap merry raw almost confirm connect move duck";
+var mnemonic = "enroll feature summer range force grace hard artist before filter tuition olive";

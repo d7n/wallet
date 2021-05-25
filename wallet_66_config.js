@@ -1,1 +1,1 @@
-var mnemonic = "inflict ice cigar gentle accuse false maximum derive best essence deal crazy";
+var mnemonic = "invest retreat stable become slim silly club impose decline vibrant fee pride";

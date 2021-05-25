@@ -1,1 +1,1 @@
-var mnemonic = "output torch speak cloth virtual license eyebrow cinnamon table fashion burden lecture";
+var mnemonic = "bring poem purity media people asset retreat abstract whale fuel divert debate";

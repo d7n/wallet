@@ -1,1 +1,1 @@
-var mnemonic = "symbol stage grunt owner flat party nephew century print fix cat huge";
+var mnemonic = "chaos icon spider delay fit either drama govern hospital enact gown basic";

@@ -1,1 +1,1 @@
-var mnemonic = "village average glide hub rebuild urge zoo various permit fetch message puppy";
+var mnemonic = "talk poem access okay decrease number better isolate grocery palm what real";

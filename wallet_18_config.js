@@ -1,1 +1,1 @@
-var mnemonic = "panda practice twenty faint flip snap afford boil open hurdle pretty ritual";
+var mnemonic = "hub shoulder rigid adjust unlock board wise plate program churn begin chest";

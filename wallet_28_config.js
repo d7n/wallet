@@ -1,1 +1,1 @@
-var mnemonic = "produce type parent congress erode text wrap ranch mix pink genre lady";
+var mnemonic = "inmate table member where beyond donor umbrella wreck travel almost void course";

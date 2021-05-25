@@ -1,1 +1,1 @@
-var mnemonic = "timber virtual exist dance cause alone pulp cable mushroom depend effort wife";
+var mnemonic = "open affair audit tiger shed acquire wasp oak prison online youth advice";

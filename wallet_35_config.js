@@ -1,1 +1,1 @@
-var mnemonic = "force found impulse flash much advance oppose trial filter one marriage bomb";
+var mnemonic = "must trust fix tree pink shuffle magnet during group smooth leave security";

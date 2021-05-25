@@ -1,1 +1,1 @@
-var mnemonic = "devote ticket repeat jump syrup feel dolphin pear reunion essence doctor stove";
+var mnemonic = "mask sand tissue wine immune buffalo armor help bread video boss motor";

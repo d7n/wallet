@@ -1,1 +1,1 @@
-var mnemonic = "smooth inner hello mixture foot bar payment bless quote drop beef receive";
+var mnemonic = "today goddess escape drop anxiety drastic illegal range kitten follow upset drop";

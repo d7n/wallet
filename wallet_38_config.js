@@ -1,1 +1,1 @@
-var mnemonic = "setup kind undo evoke genius panda ship delay cover veteran cabbage noble";
+var mnemonic = "wrist upon clap nothing amazing side end milk right quit bread congress";

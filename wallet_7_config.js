@@ -1,1 +1,1 @@
-var mnemonic = "glass shallow say certain pipe super winner uncover fragile vanish method evidence";
+var mnemonic = "attract rely spike normal because exchange uniform talk permit reduce weird viable";

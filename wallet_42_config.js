@@ -1,1 +1,1 @@
-var mnemonic = "oppose jungle vocal safe legal indicate city what tomorrow safe fetch curve";
+var mnemonic = "nut bundle elite enforce decrease atom scrub invite rescue dose edit nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd hawk crew burden champion another clean before capable chicken mobile bar";
+var mnemonic = "educate history tomato small crunch flag certain wing muffin above best citizen";

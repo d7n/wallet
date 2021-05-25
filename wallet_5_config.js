@@ -1,1 +1,1 @@
-var mnemonic = "total kick town simple bread bounce drift east lock black reunion brass";
+var mnemonic = "inspire promote parade wage double butter input excess artwork ramp rhythm soap";

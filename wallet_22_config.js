@@ -1,1 +1,1 @@
-var mnemonic = "army general rapid twin behind pottery female human habit afraid cause safe";
+var mnemonic = "width jar south mention uniform another antenna item popular payment parent supply";

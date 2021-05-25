@@ -1,1 +1,1 @@
-var mnemonic = "force input tooth skill custom wreck cup brave local hope fee punch";
+var mnemonic = "click produce license quote transfer hungry chase version primary brother resemble float";
