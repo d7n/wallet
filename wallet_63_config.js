@@ -1,1 +1,1 @@
-var mnemonic = "around fever nature someone then horn chapter room stable example sad between";
+var mnemonic = "service hollow wool moment total kit wisdom surface kiwi lawsuit obtain kiss";

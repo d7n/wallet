@@ -1,1 +1,1 @@
-var mnemonic = "fog flavor elephant sense fork mesh sword absent doctor copy onion hundred";
+var mnemonic = "sword orange document upgrade forum inside mass rival host twice room slim";

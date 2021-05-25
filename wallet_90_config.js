@@ -1,1 +1,1 @@
-var mnemonic = "hybrid picture swim army artist grid force error season flip water hold";
+var mnemonic = "noodle quiz path harsh sentence ivory seed defy figure wife abandon wait";

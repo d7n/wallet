@@ -1,1 +1,1 @@
-var mnemonic = "crazy decorate problem fringe thank talk pyramid muffin enrich culture display lava";
+var mnemonic = "echo describe chronic owner spoon skin rifle armed brush aware subject receive";

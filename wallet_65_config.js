@@ -1,1 +1,1 @@
-var mnemonic = "slight metal drive recall utility modify belt able female avocado bronze bar";
+var mnemonic = "romance tide dash upgrade salmon eagle lyrics edit crush object penalty another";

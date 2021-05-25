@@ -1,1 +1,1 @@
-var mnemonic = "couple giraffe fashion luxury trust pond catch swamp bitter gym aisle essay";
+var mnemonic = "reveal diesel huge menu head grid fall ability order car blue dish";

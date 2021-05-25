@@ -1,1 +1,1 @@
-var mnemonic = "other onion enact hair siren life protect nominee caught spin outer license";
+var mnemonic = "glance metal sibling oppose flat couch pig copy praise card usual jump";

@@ -1,1 +1,1 @@
-var mnemonic = "wall pistol trim journey warm stairs brave perfect busy drill code long";
+var mnemonic = "foam result quiz brown expect novel fruit obscure ladder hold inquiry voyage";

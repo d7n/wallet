@@ -1,1 +1,1 @@
-var mnemonic = "alter mansion engine sniff render bacon gloom venue fragile jazz agent spread";
+var mnemonic = "fiber black coral gossip strong betray vanish gaze business enhance phrase festival";

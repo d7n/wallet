@@ -1,1 +1,1 @@
-var mnemonic = "furnace reveal remind gentle food wonder monster stone place oppose time front";
+var mnemonic = "kiss hockey wash vague soda mistake talent bus click hotel vanish six";

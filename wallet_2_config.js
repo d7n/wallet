@@ -1,1 +1,1 @@
-var mnemonic = "metal globe exile filter resource payment blood other silk wagon report bid";
+var mnemonic = "kangaroo delay believe nest doctor jealous culture dutch join wood over quality";

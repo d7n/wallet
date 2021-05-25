@@ -1,1 +1,1 @@
-var mnemonic = "potato best under pizza midnight snake obtain just visa select sponsor cinnamon";
+var mnemonic = "huge denial valve funny brick anxiety unfold hole rib across sugar clerk";

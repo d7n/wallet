@@ -1,1 +1,1 @@
-var mnemonic = "rely govern where shop auto indoor firm real only ocean grit paddle";
+var mnemonic = "antique vessel glow tourist dizzy scare fan riot approve asthma bitter venture";

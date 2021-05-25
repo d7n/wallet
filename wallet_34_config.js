@@ -1,1 +1,1 @@
-var mnemonic = "rack twenty toy fury olympic item mushroom inquiry casual library inmate just";
+var mnemonic = "short sight educate curtain vapor minute act layer drip point verify sail";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle describe angle begin only budget woman call pave slight proud citizen";
+var mnemonic = "gentle pair sniff solution fit situate cave citizen saddle mistake tag strike";

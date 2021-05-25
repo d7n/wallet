@@ -1,1 +1,1 @@
-var mnemonic = "name chicken ankle bicycle mind cactus broom island spot utility uncle sport";
+var mnemonic = "payment purse quantum copy fragile elephant ensure nominee oyster text industry divert";

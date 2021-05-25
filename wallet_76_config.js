@@ -1,1 +1,1 @@
-var mnemonic = "ivory napkin heart unaware atom together token soul hundred silent report retire";
+var mnemonic = "squirrel kid fee drill rigid bless pyramid clarify industry keen excite gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "effort sting myself aerobic crumble finish pact they goat essay whip wild";
+var mnemonic = "toe ignore error dinner midnight conduct globe humble kingdom pet say arrive";

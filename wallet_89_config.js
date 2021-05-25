@@ -1,1 +1,1 @@
-var mnemonic = "service kind mercy analyst test quote tomorrow unusual napkin silk glass time";
+var mnemonic = "media aisle try alone custom phrase canvas bubble wisdom flag night lottery";

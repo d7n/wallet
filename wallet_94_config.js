@@ -1,1 +1,1 @@
-var mnemonic = "bone rack oppose rotate senior finger ready unaware license swing dizzy cupboard";
+var mnemonic = "alpha blind humor few nation push basic buddy gown april swing appear";

@@ -1,1 +1,1 @@
-var mnemonic = "visit narrow first warfare copper truly vivid web cruise traffic crystal token";
+var mnemonic = "loan amateur alpha want answer cause awake brain pitch kiwi dream ripple";

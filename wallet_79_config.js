@@ -1,1 +1,1 @@
-var mnemonic = "speed grant roast best debate real stumble galaxy sock song primary trick";
+var mnemonic = "spider bottom salad orbit trend burger hair awful early venue cousin pyramid";

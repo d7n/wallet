@@ -1,1 +1,1 @@
-var mnemonic = "range almost keep agree settle economy timber enemy flash media auto bottom";
+var mnemonic = "arrest excuse kangaroo pitch riot mansion into man december concert canoe boss";

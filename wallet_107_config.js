@@ -1,1 +1,1 @@
-var mnemonic = "hamster divide march arctic swarm such erase card pole believe wall laundry";
+var mnemonic = "emerge paddle reject tuition steak exclude income agent hire point rocket surge";

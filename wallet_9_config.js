@@ -1,1 +1,1 @@
-var mnemonic = "stock civil absent retire whip tray universe pen damp great main twice";
+var mnemonic = "nothing almost march betray guitar bullet you mistake okay smile april weapon";

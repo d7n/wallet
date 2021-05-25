@@ -1,1 +1,1 @@
-var mnemonic = "speed local effort dirt ritual adult surround crane current alcohol resist intact";
+var mnemonic = "company dream ivory resemble adjust hybrid long decorate tomato van family join";

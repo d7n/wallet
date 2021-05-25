@@ -1,1 +1,1 @@
-var mnemonic = "lawn liar reject ozone inspire share tunnel quality gift injury fish extra";
+var mnemonic = "neck actress immense smart knock ability such easily sock celery layer equal";

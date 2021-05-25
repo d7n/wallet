@@ -1,1 +1,1 @@
-var mnemonic = "rhythm yellow crush rebel goddess old bright relax vanish during kid version";
+var mnemonic = "innocent obscure limit worry noodle diet junk pink silent bonus oyster obtain";

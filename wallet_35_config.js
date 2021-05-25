@@ -1,1 +1,1 @@
-var mnemonic = "issue affair gaze sad impose become three isolate pistol evidence isolate return";
+var mnemonic = "client journey moment length stool hamster peanut hotel rhythm area remind bronze";

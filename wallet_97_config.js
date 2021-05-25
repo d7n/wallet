@@ -1,1 +1,1 @@
-var mnemonic = "orbit federal merge street control draw learn office gossip analyst depart sad";
+var mnemonic = "will energy lawn diet accident crazy surface duck damage similar pipe trouble";

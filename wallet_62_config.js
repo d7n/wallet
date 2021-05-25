@@ -1,1 +1,1 @@
-var mnemonic = "best pulse evil dynamic gravity absorb auction spice young carry hungry ordinary";
+var mnemonic = "crawl culture enhance animal resist essence evoke tool party any dance payment";

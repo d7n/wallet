@@ -1,1 +1,1 @@
-var mnemonic = "shadow powder thumb squeeze team that security uncle owner pattern appear hawk";
+var mnemonic = "shove sweet donkey aspect fog label cat during weasel resource sting pledge";

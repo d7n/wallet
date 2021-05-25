@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow salmon wear radio army recycle suffer keep organ ghost sick sight";
+var mnemonic = "weasel initial tennis wish amazing best gravity sight width copy carbon unique";

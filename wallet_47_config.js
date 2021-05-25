@@ -1,1 +1,1 @@
-var mnemonic = "skin skirt cover play fat prepare front south harbor dose wire pair";
+var mnemonic = "bounce slim furnace kingdom hidden sort march dumb omit sand check speed";

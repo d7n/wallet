@@ -1,1 +1,1 @@
-var mnemonic = "bounce plug trap reflect giant absent kiwi render tower spend floor left";
+var mnemonic = "debris diamond solar duty extra demise dismiss knock slice mixture text doctor";

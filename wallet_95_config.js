@@ -1,1 +1,1 @@
-var mnemonic = "amateur bunker harvest tortoise endorse finger pause portion work drop follow fly";
+var mnemonic = "ill onion surround prosper author steak under measure december frown uniform garage";

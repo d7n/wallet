@@ -1,1 +1,1 @@
-var mnemonic = "define middle inform join method mixture fresh retreat cause fan orchard slim";
+var mnemonic = "slogan display dial worry acoustic buyer random quiz cart mountain fat festival";

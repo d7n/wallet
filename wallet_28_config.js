@@ -1,1 +1,1 @@
-var mnemonic = "whip tuition round edit current above taste bamboo matrix very almost uncover";
+var mnemonic = "pair walk evolve loop illegal firm wave model fossil trim cinnamon immense";

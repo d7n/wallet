@@ -1,1 +1,1 @@
-var mnemonic = "bleak anger forget miracle empty stuff involve return ring genuine clerk harbor";
+var mnemonic = "gold mandate view assault toilet oak fork slow emotion mirror weird permit";

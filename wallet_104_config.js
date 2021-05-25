@@ -1,1 +1,1 @@
-var mnemonic = "culture concert napkin hood able nuclear immune bonus dynamic warfare dawn utility";
+var mnemonic = "warrior anger believe adult repair sense hurdle vote rhythm minute basic online";

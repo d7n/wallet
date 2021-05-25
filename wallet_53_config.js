@@ -1,1 +1,1 @@
-var mnemonic = "picnic fringe negative asthma today swallow danger test cram pudding toilet cook";
+var mnemonic = "over control ability fan actress welcome speak raw lounge envelope absorb swift";

@@ -1,1 +1,1 @@
-var mnemonic = "infant twist sudden easily then pyramid blush belt mail lumber marine marble";
+var mnemonic = "still ill sudden hurt network easily banner dove sad hat evoke sure";

@@ -1,1 +1,1 @@
-var mnemonic = "salt page bubble energy spread coffee sword neither hood soccer bless grid";
+var mnemonic = "dinosaur frame raise canyon garage shoe empty stomach wife love people oblige";

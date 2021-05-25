@@ -1,1 +1,1 @@
-var mnemonic = "jacket they skin target sure mad nerve prevent rule tired strike only";
+var mnemonic = "nothing tuition cushion issue involve donkey embrace wrestle argue utility kingdom habit";

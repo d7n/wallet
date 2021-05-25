@@ -1,1 +1,1 @@
-var mnemonic = "cushion furnace together frog tide sadness donate siren pool shell knife express";
+var mnemonic = "hard coach harsh choose require leisure patch perfect card warm include illegal";

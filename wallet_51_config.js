@@ -1,1 +1,1 @@
-var mnemonic = "virtual daring differ push surface sound broom symbol book okay always stick";
+var mnemonic = "false session border music elephant large spell bread unusual noodle tilt gaze";

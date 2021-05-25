@@ -1,1 +1,1 @@
-var mnemonic = "fee purchase aunt crazy wreck height culture property wood erupt hospital gentle";
+var mnemonic = "few shield blade never lawn wedding bread vital butter can asset three";

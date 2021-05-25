@@ -1,1 +1,1 @@
-var mnemonic = "dawn smooth squirrel bubble base wife reason hungry result gesture spy finger";
+var mnemonic = "hurdle broom warrior good famous verb hazard muscle gun blind end siege";

@@ -1,1 +1,1 @@
-var mnemonic = "eye plunge decorate section night toddler ignore obvious snow need stadium gadget";
+var mnemonic = "legal need turn thing old receive inform spoon adult anxiety inhale deal";

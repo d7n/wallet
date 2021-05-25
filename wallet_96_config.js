@@ -1,1 +1,1 @@
-var mnemonic = "armor illness demand fire coast garlic polar bomb estate maple soup situate";
+var mnemonic = "pool again earn black gaze pulp box month unfair agent garden middle";

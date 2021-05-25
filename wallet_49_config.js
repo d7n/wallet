@@ -1,1 +1,1 @@
-var mnemonic = "squeeze border heavy time mystery reunion screen gaze payment ignore unaware infant";
+var mnemonic = "relax lock urban squirrel ice surprise motion learn affair frog drift demand";

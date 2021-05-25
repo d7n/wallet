@@ -1,1 +1,1 @@
-var mnemonic = "into light mule rebel cave equal piano text glass attend finger fluid";
+var mnemonic = "assume sketch bubble smooth reopen tent enter attitude endless ensure cement real";

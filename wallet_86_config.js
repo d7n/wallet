@@ -1,1 +1,1 @@
-var mnemonic = "wash vague bounce axis donor stumble minor fix room joke enemy borrow";
+var mnemonic = "desk unit call pluck hello smoke bird admit people media scorpion stay";

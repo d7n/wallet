@@ -1,1 +1,1 @@
-var mnemonic = "like census engage rare chief slot meat nothing recipe useful radio crew";
+var mnemonic = "shaft pistol scorpion sentence fall banana penalty tornado usual crush wife minor";

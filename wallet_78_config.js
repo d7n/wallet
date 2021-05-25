@@ -1,1 +1,1 @@
-var mnemonic = "sauce virtual someone pelican royal erase catch silk raw unable town gentle";
+var mnemonic = "middle unaware coast prize aware border royal acid spell peanut security fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "march lake title lecture use avocado body diary off nominee biology script";
+var mnemonic = "powder spy inch smile buzz second mansion provide absorb east biology castle";

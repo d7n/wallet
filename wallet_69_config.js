@@ -1,1 +1,1 @@
-var mnemonic = "tragic pool school nut alone boil hire route believe night magnet unlock";
+var mnemonic = "chimney office tomorrow blade image travel add alone code whale label survey";

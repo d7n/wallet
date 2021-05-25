@@ -1,1 +1,1 @@
-var mnemonic = "leopard any city candy wave eagle antique swing insect fit dirt grass";
+var mnemonic = "coconut turtle finger small glory fantasy verb mention chuckle gate fun nest";

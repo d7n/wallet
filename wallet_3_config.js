@@ -1,1 +1,1 @@
-var mnemonic = "bicycle cluster concert scatter stage tribe maple assault cushion wine grab very";
+var mnemonic = "pioneer below skate metal civil minor bridge jacket duty moral neither exercise";

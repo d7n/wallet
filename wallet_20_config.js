@@ -1,1 +1,1 @@
-var mnemonic = "salon help blind broom wine light weasel doctor exchange ritual giant crash";
+var mnemonic = "update oven screen pony cloth spoon ritual hidden relief hold spider runway";

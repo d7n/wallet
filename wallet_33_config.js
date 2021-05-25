@@ -1,1 +1,1 @@
-var mnemonic = "nuclear sure lunar exercise cereal truly motion body crop woman rare amateur";
+var mnemonic = "eye usual torch coffee actual salmon giant model pond struggle enact shiver";

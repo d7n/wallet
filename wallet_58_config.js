@@ -1,1 +1,1 @@
-var mnemonic = "mail undo zebra twelve move pelican maid holiday crush spend often bronze";
+var mnemonic = "day lazy alpha diet tragic trade female monkey summer pyramid acid shed";

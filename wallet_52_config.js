@@ -1,1 +1,1 @@
-var mnemonic = "alien chair rural candy balcony arch suspect scan social pencil couch team";
+var mnemonic = "spread random juice swing ripple hunt car inch moon equal cram unable";

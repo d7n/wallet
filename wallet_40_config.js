@@ -1,1 +1,1 @@
-var mnemonic = "love elegant minute parrot choose loan armed apart olympic inspire tongue badge";
+var mnemonic = "stand wrong edit milk duty enable next pave bean when differ ship";

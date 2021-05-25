@@ -1,1 +1,1 @@
-var mnemonic = "rack budget jazz tool link club govern vague draft cricket ozone slim";
+var mnemonic = "embrace afraid chef blue snow jacket duty advice ostrich draft average layer";

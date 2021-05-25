@@ -1,1 +1,1 @@
-var mnemonic = "bottom coil series lunar cotton tattoo practice melody glide liberty resist daring";
+var mnemonic = "grain edit proud plastic bracket transfer slush ugly salt cat broken before";

@@ -1,1 +1,1 @@
-var mnemonic = "siege enlist joy behave ride fade vacuum bridge banner lecture add column";
+var mnemonic = "inch jungle kingdom staff small surge eager lava arch surround three myself";

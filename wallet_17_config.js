@@ -1,1 +1,1 @@
-var mnemonic = "crane crumble voice clown salute fame doctor idle host champion rotate guard";
+var mnemonic = "casino wrong afraid wage easily found limit unlock yard rebel aware owner";

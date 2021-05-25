@@ -1,1 +1,1 @@
-var mnemonic = "culture market verb legend life guitar field flame clock critic order mushroom";
+var mnemonic = "capital letter garden account husband soldier kitchen relief gadget thank swallow engine";

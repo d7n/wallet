@@ -1,1 +1,1 @@
-var mnemonic = "use cannon island nerve bullet degree impose theme elite minimum elbow glass";
+var mnemonic = "hill give atom option gravity photo eye flock wild seven envelope edge";

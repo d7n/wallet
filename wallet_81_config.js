@@ -1,1 +1,1 @@
-var mnemonic = "color disorder update habit garden valve fame coral speak two team congress";
+var mnemonic = "stereo shrug iron flash fiction tourist glare delay hover marine nose mammal";

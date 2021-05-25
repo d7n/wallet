@@ -1,1 +1,1 @@
-var mnemonic = "oblige sunset crystal claw path six involve life advice fish person escape";
+var mnemonic = "fresh lobster example route century such spy bullet nut basic soon artist";

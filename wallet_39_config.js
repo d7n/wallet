@@ -1,1 +1,1 @@
-var mnemonic = "illness never orphan vanish above dynamic gossip leopard wire wheat lottery ostrich";
+var mnemonic = "regular rate leopard report pilot rhythm coach ozone universe divide raise boss";

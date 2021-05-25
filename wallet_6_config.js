@@ -1,1 +1,1 @@
-var mnemonic = "artist prize bless seminar end argue report belt length census faint hundred";
+var mnemonic = "spoon tilt shoulder rural pride endorse dish impact virtual message error police";

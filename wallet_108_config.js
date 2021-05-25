@@ -1,1 +1,1 @@
-var mnemonic = "expire wisdom marine monkey abstract ugly nut harsh icon romance team save";
+var mnemonic = "badge build penalty exact science erupt cannon board scrub voyage bounce fix";

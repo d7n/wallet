@@ -1,1 +1,1 @@
-var mnemonic = "steak barely urban online rocket purchase dumb promote swing best mixed give";
+var mnemonic = "electric arrive guilt anger win twin predict humor orphan pair diamond output";

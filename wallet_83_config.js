@@ -1,1 +1,1 @@
-var mnemonic = "family inform hockey bunker lobster area fly nothing student erode animal caught";
+var mnemonic = "air inquiry fit fiction illegal release company rate exact toy vendor blossom";

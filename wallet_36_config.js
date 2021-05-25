@@ -1,1 +1,1 @@
-var mnemonic = "barely shrimp spider sketch script shed vehicle hurt item resource tired seminar";
+var mnemonic = "rack common reopen reunion position good devote plate dance spray excess slab";

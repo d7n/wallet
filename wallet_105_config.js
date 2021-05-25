@@ -1,1 +1,1 @@
-var mnemonic = "length clay alcohol distance session bread velvet describe rebel hurry room main";
+var mnemonic = "bright modify still auto borrow coyote become gloom modify omit cliff multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "pave prison deposit hobby scale hair mean reunion imitate stone loyal peace";
+var mnemonic = "group diesel home produce reduce fuel split able wage inspire much special";

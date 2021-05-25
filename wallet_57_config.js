@@ -1,1 +1,1 @@
-var mnemonic = "legend poem miracle place thrive defy wife area upgrade sudden fetch code";
+var mnemonic = "cotton kit undo prison arctic mask glow develop satisfy punch again kind";

@@ -1,1 +1,1 @@
-var mnemonic = "three bitter level mom regular cat solid steak behave amazing order aspect";
+var mnemonic = "craft zone cargo blanket spray pony goat salad sound double cement decline";

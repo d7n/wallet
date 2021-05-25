@@ -1,1 +1,1 @@
-var mnemonic = "box accident winner income swap cable raccoon two edge salute shield tongue";
+var mnemonic = "cotton fish vault polar dress fitness rose capital cricket blade plunge squirrel";

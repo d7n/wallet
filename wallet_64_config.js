@@ -1,1 +1,1 @@
-var mnemonic = "position rebuild opera lawsuit person script venture stuff fortune custom please hood";
+var mnemonic = "drastic grab ancient forget penalty account coral arrest pet legend film staff";

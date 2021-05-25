@@ -1,1 +1,1 @@
-var mnemonic = "world magic vast manage urge still siege paddle choose neutral board gym";
+var mnemonic = "voyage bargain wood draw champion move blush theory weasel lucky peanut flower";

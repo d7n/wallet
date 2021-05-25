@@ -1,1 +1,1 @@
-var mnemonic = "athlete nominee middle oxygen coral include gap thing olive job tackle maximum";
+var mnemonic = "spider medal lounge exclude ordinary circle lady deny artist title mutual wasp";

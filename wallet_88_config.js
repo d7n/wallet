@@ -1,1 +1,1 @@
-var mnemonic = "street salmon dial rhythm banana size jelly hawk argue badge caught opinion";
+var mnemonic = "there quit deny piano govern cake echo cereal welcome mean galaxy category";

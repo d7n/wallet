@@ -1,1 +1,1 @@
-var mnemonic = "leg hill absurd senior aim twist wing razor core book column display";
+var mnemonic = "liquid globe kidney rhythm ladder rail pole topple gaze favorite crazy thank";

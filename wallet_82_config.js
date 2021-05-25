@@ -1,1 +1,1 @@
-var mnemonic = "arctic easily shiver lens embrace sunny float join skin special olive weekend";
+var mnemonic = "sugar pulse follow grant slogan dragon base ordinary project cruise nest figure";

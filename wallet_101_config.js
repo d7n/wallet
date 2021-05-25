@@ -1,1 +1,1 @@
-var mnemonic = "network conduct front tired clerk boy common bamboo coffee skill tube skull";
+var mnemonic = "clean labor dress fresh away gun patch country lazy huge control hood";

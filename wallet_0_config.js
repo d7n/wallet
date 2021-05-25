@@ -1,1 +1,1 @@
-var mnemonic = "lobster hybrid thumb catalog flavor zebra high buddy multiply category easily cruise";
+var mnemonic = "valley interest action wrestle exhibit pony grocery coffee rubber remove sorry outdoor";

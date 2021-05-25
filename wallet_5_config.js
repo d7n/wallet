@@ -1,1 +1,1 @@
-var mnemonic = "fish ignore noble fashion original blind duck term item innocent buzz fortune";
+var mnemonic = "magnet trial census frame over since brown trash eternal frog item ball";
