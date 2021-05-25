@@ -1,1 +1,1 @@
-var mnemonic = "seat feature suggest maid shadow trap belt various daring prize wine refuse";
+var mnemonic = "acid scale clay occur depth worry barrel wonder barely faculty sphere fee";

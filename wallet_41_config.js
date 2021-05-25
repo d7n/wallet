@@ -1,1 +1,1 @@
-var mnemonic = "pledge better piano inform barrel fragile close legal dirt squeeze pencil antenna";
+var mnemonic = "column sadness mushroom wedding mixed hint solve please harbor leopard magic lobster";

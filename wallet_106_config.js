@@ -1,1 +1,1 @@
-var mnemonic = "already soft decide service card engine cargo announce improve flat day shift";
+var mnemonic = "pelican hobby clarify finish naive great ordinary dinner victory reflect combine dose";

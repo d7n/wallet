@@ -1,1 +1,1 @@
-var mnemonic = "flip annual maze rapid scatter chronic mind apple kiss brief edge radio";
+var mnemonic = "dial hair glad west april attend fruit degree size shoot discover cream";

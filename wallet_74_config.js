@@ -1,1 +1,1 @@
-var mnemonic = "minimum deal muffin tail neither swim gasp comfort potato spice meat occur";
+var mnemonic = "dutch tenant quick sunny seven wise tank swallow eyebrow odor present fiber";

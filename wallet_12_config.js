@@ -1,1 +1,1 @@
-var mnemonic = "license blur wreck route bulk now consider rally half neck sight cargo";
+var mnemonic = "swift embody pool age hawk shine shell noise nose autumn fantasy clay";

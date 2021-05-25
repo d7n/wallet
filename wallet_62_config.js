@@ -1,1 +1,1 @@
-var mnemonic = "skill rotate valve trim modify point special medal ticket cover common oxygen";
+var mnemonic = "neutral office surprise tape blind quarter expose wagon march vault remain receive";

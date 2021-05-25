@@ -1,1 +1,1 @@
-var mnemonic = "brave print prevent sheriff wheel learn bread glass furnace pill spare proof";
+var mnemonic = "rhythm height soft fork tomorrow mixed famous witness depth waste onion relief";

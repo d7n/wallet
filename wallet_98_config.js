@@ -1,1 +1,1 @@
-var mnemonic = "mention involve trust offer tiny tent injury device dragon sight insane soldier";
+var mnemonic = "ripple beef legal mercy short robust shiver trade pizza fire crazy hamster";

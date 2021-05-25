@@ -1,1 +1,1 @@
-var mnemonic = "alcohol task blanket winter wasp math demand injury layer catalog various love";
+var mnemonic = "trade type barely palace region fever glue change door snow world sand";

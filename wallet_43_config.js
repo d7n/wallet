@@ -1,1 +1,1 @@
-var mnemonic = "shock denial happy whale text excite lobster mask raise lock license advance";
+var mnemonic = "hotel pave destroy much keen reject admit junk leaf moon square system";

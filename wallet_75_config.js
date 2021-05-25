@@ -1,1 +1,1 @@
-var mnemonic = "mimic unable joke pear resist slim vessel palace table mail purpose shoe";
+var mnemonic = "boat drive fitness cause kitten frozen erupt bounce raise inject onion tiger";

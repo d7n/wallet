@@ -1,1 +1,1 @@
-var mnemonic = "knife bulk amateur friend fuel slide prefer actress fruit globe wealth lizard";
+var mnemonic = "pioneer question present parrot unit ensure ignore column rookie throw pledge wine";

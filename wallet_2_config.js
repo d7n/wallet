@@ -1,1 +1,1 @@
-var mnemonic = "scheme report ride reduce carbon slot ten dumb ring swamp scare change";
+var mnemonic = "split initial used forest feel west script parade culture throw torch immense";

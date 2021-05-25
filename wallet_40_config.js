@@ -1,1 +1,1 @@
-var mnemonic = "luggage actor estate what gain fish runway foot twenty energy wide fall";
+var mnemonic = "range ensure silk this cancel wisdom buffalo buyer jazz night call owner";

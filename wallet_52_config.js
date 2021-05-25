@@ -1,1 +1,1 @@
-var mnemonic = "table jar thrive grant fruit distance derive burst blue usual glow display";
+var mnemonic = "hub trial airport float fluid pig practice enact team fold second crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "parade envelope shop kiss chest wash right snake armor filter plunge patient";
+var mnemonic = "common load post hammer candy tuition catch comfort monster around session west";

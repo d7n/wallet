@@ -1,1 +1,1 @@
-var mnemonic = "supply diary soon boil recall change olympic swamp spray autumn onion faint";
+var mnemonic = "glide forward twice coral version filter brief distance color gate live miracle";

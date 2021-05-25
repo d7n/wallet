@@ -1,1 +1,1 @@
-var mnemonic = "wrist someone leaf denial object warfare doll brain prosper romance erosion park";
+var mnemonic = "lab trim reunion mom snow security burger creek review frown tragic bind";

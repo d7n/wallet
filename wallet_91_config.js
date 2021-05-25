@@ -1,1 +1,1 @@
-var mnemonic = "spy confirm airport left mango survey access heavy service tourist sick awful";
+var mnemonic = "canal foot emotion obtain lazy ready dwarf victory blur inflict ribbon stereo";

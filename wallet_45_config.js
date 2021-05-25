@@ -1,1 +1,1 @@
-var mnemonic = "party blossom adult doctor jacket student airport devote apart crystal ordinary pelican";
+var mnemonic = "orphan truck sail whisper biology install unit mechanic visual when ball story";

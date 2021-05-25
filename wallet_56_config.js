@@ -1,1 +1,1 @@
-var mnemonic = "then mimic cabbage wheel deer miss egg nice sun couple steak shift";
+var mnemonic = "tonight eyebrow pupil misery jar pass rubber debris now shrug silver lottery";

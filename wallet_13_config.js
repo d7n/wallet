@@ -1,1 +1,1 @@
-var mnemonic = "fun bottom tobacco mutual bulk over purpose judge educate false soul verb";
+var mnemonic = "crater alert cart warfare word equip retire invest sun sort object evoke";

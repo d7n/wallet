@@ -1,1 +1,1 @@
-var mnemonic = "clever potato sentence genuine outer combine rebel perfect across brass behind split";
+var mnemonic = "state lesson shed dawn sail faith online among beauty gap post monitor";

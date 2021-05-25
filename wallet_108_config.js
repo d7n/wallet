@@ -1,1 +1,1 @@
-var mnemonic = "panther liquid assume wood peace expire funny legend sock elder flag cereal";
+var mnemonic = "inject this slim hurdle main similar steel drive rely wood robot warrior";

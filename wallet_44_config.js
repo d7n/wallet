@@ -1,1 +1,1 @@
-var mnemonic = "manual lyrics auto local price merge around fatal recycle slim spot negative";
+var mnemonic = "face fish crunch hip seat pony man error force punch fire fitness";

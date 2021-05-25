@@ -1,1 +1,1 @@
-var mnemonic = "embody pyramid pull invest else acoustic vehicle oppose level polar jungle answer";
+var mnemonic = "work fabric absorb jar monkey rude game electric brick bind minute immense";

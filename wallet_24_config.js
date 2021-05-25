@@ -1,1 +1,1 @@
-var mnemonic = "close walnut defy alpha pole warm devote hope quality body woman miracle";
+var mnemonic = "shed skate agree always adapt aisle van east suit bonus match magic";

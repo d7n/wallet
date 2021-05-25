@@ -1,1 +1,1 @@
-var mnemonic = "stereo whip huge nation ranch kiwi rely you drift tackle crisp steel";
+var mnemonic = "diagram renew cage rigid analyst trophy century exclude illness avoid curve afford";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle bid balance fish grace dose author nose music front infant soccer";
+var mnemonic = "still inmate crop height panel carry valid nest frozen artefact carbon rescue";

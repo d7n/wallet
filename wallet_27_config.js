@@ -1,1 +1,1 @@
-var mnemonic = "produce finger mobile clown wedding soon vast matter inside park soccer decorate";
+var mnemonic = "wool angry error cake useless tumble crater urge purchase ignore story bargain";

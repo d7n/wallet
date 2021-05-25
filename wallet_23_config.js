@@ -1,1 +1,1 @@
-var mnemonic = "behind matter camera mammal local acoustic near prepare mosquito deny post cradle";
+var mnemonic = "ignore sleep left dynamic print field moral laptop fruit lecture will pair";

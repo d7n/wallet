@@ -1,1 +1,1 @@
-var mnemonic = "choice amateur satoshi circle flush column damp mimic coconut sister sand poet";
+var mnemonic = "predict ice eternal ginger absorb movie clump miracle play denial eagle light";

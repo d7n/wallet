@@ -1,1 +1,1 @@
-var mnemonic = "lock pitch enroll mechanic expand inform before coast solid detect impact reveal";
+var mnemonic = "cliff glimpse health broken make jealous twist luxury alley kiss avocado response";

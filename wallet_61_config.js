@@ -1,1 +1,1 @@
-var mnemonic = "knee smile east myth never twenty world garlic ozone lemon destroy enjoy";
+var mnemonic = "rail tonight happy puzzle hammer enough vital sock behave kick sadness vehicle";

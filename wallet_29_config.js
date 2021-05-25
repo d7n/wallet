@@ -1,1 +1,1 @@
-var mnemonic = "olive tortoise vocal knee range example accuse hat ice rather soon fiscal";
+var mnemonic = "neutral summer fantasy fiber rude fortune couple observe exit rose renew noise";

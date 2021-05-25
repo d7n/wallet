@@ -1,1 +1,1 @@
-var mnemonic = "wink affair jaguar rice trap decide tired priority range logic develop measure";
+var mnemonic = "ethics apart guide liberty target useful project leopard female sense crane fox";

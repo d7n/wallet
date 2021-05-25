@@ -1,1 +1,1 @@
-var mnemonic = "dial warm joke trip any tone wood caught around anchor sniff nose";
+var mnemonic = "twice narrow welcome tone gallery veteran wire globe wide embrace equip stereo";

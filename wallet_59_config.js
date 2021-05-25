@@ -1,1 +1,1 @@
-var mnemonic = "team firm long vehicle vendor black brave wing matter help shop impose";
+var mnemonic = "nurse toy vapor upset crawl receive now run museum edge gaze churn";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon prefer armed light elite hair attend private risk mention syrup advice";
+var mnemonic = "property garlic recipe axis bread cloud spot arrow stuff also wedding depart";

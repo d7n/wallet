@@ -1,1 +1,1 @@
-var mnemonic = "fiscal turn scrap trigger forward pizza spin token when panel toy waste";
+var mnemonic = "game fury physical light plate author jewel method resemble scrub stuff scare";

@@ -1,1 +1,1 @@
-var mnemonic = "effort damage coach dust jaguar submit middle truck dose sustain chunk power";
+var mnemonic = "very dust lake hospital where paddle very embrace century panda promote club";

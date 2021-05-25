@@ -1,1 +1,1 @@
-var mnemonic = "salmon wheel shock cloth piano denial wealth tiger general extend assume caution";
+var mnemonic = "shallow arrive task answer quote solve brick dilemma visual waste guitar kangaroo";

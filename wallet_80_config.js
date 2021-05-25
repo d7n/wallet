@@ -1,1 +1,1 @@
-var mnemonic = "honey prosper envelope feel differ metal crane brain brother record nut problem";
+var mnemonic = "suffer bleak flush athlete fall chat front vague giraffe bubble attack unit";

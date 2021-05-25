@@ -1,1 +1,1 @@
-var mnemonic = "advice property wagon toy model rose toe solve pull jelly about relax";
+var mnemonic = "upset odor turn cherry life pledge antique return snap rubber fantasy final";

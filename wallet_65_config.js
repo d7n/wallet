@@ -1,1 +1,1 @@
-var mnemonic = "fresh inhale zoo lizard destroy carbon cricket improve tool attract minute install";
+var mnemonic = "act hill eager language august maximum picture illness patient purpose husband tiger";

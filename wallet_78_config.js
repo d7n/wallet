@@ -1,1 +1,1 @@
-var mnemonic = "language exchange pink reason quick common broccoli brisk shield segment poem ritual";
+var mnemonic = "fatigue fashion dragon arm lunch liquid essence popular steel tower beach citizen";

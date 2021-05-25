@@ -1,1 +1,1 @@
-var mnemonic = "defense guide curve ivory cattle dust exercise acoustic forum nose coffee season";
+var mnemonic = "isolate cave unknown language timber atom flat spy work butter train slight";

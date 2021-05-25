@@ -1,1 +1,1 @@
-var mnemonic = "crush unknown mass steel diagram prefer appear barely chimney man fun fine";
+var mnemonic = "catalog since twist royal dress cereal together game page brain gauge upon";

@@ -1,1 +1,1 @@
-var mnemonic = "churn width upgrade surface curtain hard demise march mandate response grass metal";
+var mnemonic = "pattern cover squeeze tourist helmet tobacco shuffle female skull style robust blame";

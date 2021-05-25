@@ -1,1 +1,1 @@
-var mnemonic = "crater text despair family staff meadow menu dirt awake absorb embark wrap";
+var mnemonic = "letter nurse forget purchase badge vast arch march wreck bridge unable sick";

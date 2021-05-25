@@ -1,1 +1,1 @@
-var mnemonic = "blood key pattern evoke airport dilemma emerge hurt public ready topic raccoon";
+var mnemonic = "steel impose goat company donate language blood ask next bamboo mansion flavor";

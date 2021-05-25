@@ -1,1 +1,1 @@
-var mnemonic = "dilemma half puppy stage faculty imitate rail drastic poem buffalo draft miracle";
+var mnemonic = "craft random pyramid term junk winter secret pitch derive limit balance trash";

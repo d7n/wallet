@@ -1,1 +1,1 @@
-var mnemonic = "remember social planet crawl need ahead pill asthma hire private home dinner";
+var mnemonic = "exotic off ancient alpha screen spread jacket moon blouse suffer exact property";

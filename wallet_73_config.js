@@ -1,1 +1,1 @@
-var mnemonic = "super onion poem primary sea settle stick royal shrimp group resist laugh";
+var mnemonic = "join above shell price kidney climb chair century unfold harbor despair clever";

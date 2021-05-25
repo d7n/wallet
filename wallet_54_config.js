@@ -1,1 +1,1 @@
-var mnemonic = "all sad switch shrimp legal excite song brush network purchase ski any";
+var mnemonic = "couple all define power fall mimic during foster fatal cover hair ski";

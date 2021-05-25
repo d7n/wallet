@@ -1,1 +1,1 @@
-var mnemonic = "van sister ship draft lounge surface smart series evidence escape acquire brush";
+var mnemonic = "coast punch shoe rubber loyal stadium deputy pipe amount voyage sound burden";

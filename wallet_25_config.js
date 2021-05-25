@@ -1,1 +1,1 @@
-var mnemonic = "club elite start appear simple session reject film report verify system almost";
+var mnemonic = "sick brisk position artist ring tiny loud hat solid jelly near size";

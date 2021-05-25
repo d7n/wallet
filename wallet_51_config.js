@@ -1,1 +1,1 @@
-var mnemonic = "brisk example small theme snake fabric elbow mistake corn find consider search";
+var mnemonic = "drift calm domain catalog wait pencil insect magnet payment ring attack over";

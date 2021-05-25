@@ -1,1 +1,1 @@
-var mnemonic = "embody mansion visual march assault pitch giant empty middle grass swift shine";
+var mnemonic = "home recall curtain envelope capable vibrant tiny pulp original brother fruit robust";

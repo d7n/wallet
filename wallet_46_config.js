@@ -1,1 +1,1 @@
-var mnemonic = "grid scare indicate lava chaos desk sort april drip airport ramp target";
+var mnemonic = "car stock curious daughter current name devote eternal nurse vibrant token wink";

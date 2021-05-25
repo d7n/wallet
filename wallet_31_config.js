@@ -1,1 +1,1 @@
-var mnemonic = "cherry tomato quantum lesson piano below cabin torch exchange sport entry grant";
+var mnemonic = "company burst system enroll angle prosper hurdle ticket sentence lion all shine";

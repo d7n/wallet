@@ -1,1 +1,1 @@
-var mnemonic = "west scale brass idle cabbage around injury couple orchard use gospel science";
+var mnemonic = "plunge silly video scrap brother uncover famous wash view congress wool aware";

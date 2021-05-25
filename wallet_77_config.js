@@ -1,1 +1,1 @@
-var mnemonic = "option motion gaze moon supply victory burst skill birth stool reject rain";
+var mnemonic = "nest usual disagree average drop chat equal recipe inch medal until genre";

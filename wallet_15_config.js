@@ -1,1 +1,1 @@
-var mnemonic = "basket inflict donate hurdle garbage vanish mansion uncle already priority tip census";
+var mnemonic = "ill innocent summer lady parent industry short one erupt curve anger rib";

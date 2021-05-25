@@ -1,1 +1,1 @@
-var mnemonic = "seminar between tennis gym month course occur oxygen rose asset casual law";
+var mnemonic = "escape fall seven cannon trim soda gospel sphere protect exhibit media zoo";

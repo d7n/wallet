@@ -1,1 +1,1 @@
-var mnemonic = "critic ribbon purse garage lonely chief grid slush hood uncover steak stone";
+var mnemonic = "lonely enrich youth time frog assume lens glare gather diary trip tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "sand also foil easy worth race later very vital menu fine basic";
+var mnemonic = "chief size all surge world great process december ready beef protect artefact";

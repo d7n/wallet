@@ -1,1 +1,1 @@
-var mnemonic = "upset ramp horror law magnet deny galaxy law report giant elegant inspire";
+var mnemonic = "brand net thought vintage army uniform model absorb service twenty claim feel";

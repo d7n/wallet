@@ -1,1 +1,1 @@
-var mnemonic = "exhibit car energy sail shell champion flee response police kite moon glance";
+var mnemonic = "catalog parent slogan differ fly assault fish wish drum rose genuine finish";

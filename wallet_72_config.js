@@ -1,1 +1,1 @@
-var mnemonic = "grass now later guitar field train adult borrow plate voice odor knock";
+var mnemonic = "style bundle section wise repair educate second toast ancient august snap cart";

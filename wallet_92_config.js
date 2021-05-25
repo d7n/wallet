@@ -1,1 +1,1 @@
-var mnemonic = "dumb swim become route shrimp vault knee render room food clump antenna";
+var mnemonic = "trust uncle rifle rail measure delay issue bargain caution glance spring yellow";

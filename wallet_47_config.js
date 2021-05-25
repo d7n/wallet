@@ -1,1 +1,1 @@
-var mnemonic = "action meat hidden supreme job together enroll stage solution public family surge";
+var mnemonic = "join keen hair people peanut fruit wisdom relief great slot similar spell";

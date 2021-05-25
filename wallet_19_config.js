@@ -1,1 +1,1 @@
-var mnemonic = "misery raw chat diesel dinosaur tumble dance inherit february web improve bounce";
+var mnemonic = "arch coach blush person regular hurdle search riot chronic author run denial";

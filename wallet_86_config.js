@@ -1,1 +1,1 @@
-var mnemonic = "sadness grant curve proud select upset gallery spread this great trigger friend";
+var mnemonic = "walnut obtain come man nephew vendor joy dash glide memory extend push";

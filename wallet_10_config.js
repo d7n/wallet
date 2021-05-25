@@ -1,1 +1,1 @@
-var mnemonic = "guess artwork sleep mom strong opera together hen ritual coyote movie breeze";
+var mnemonic = "rough bronze govern quiz together deer ostrich globe immense dice worth mystery";

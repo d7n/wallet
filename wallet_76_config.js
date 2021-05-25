@@ -1,1 +1,1 @@
-var mnemonic = "hundred dilemma cream strike sort unusual sister endorse please roast affair move";
+var mnemonic = "glow festival churn bicycle alone kitchen course neglect worry marine fun cradle";

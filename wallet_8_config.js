@@ -1,1 +1,1 @@
-var mnemonic = "loud lizard matter neither thrive message involve walk seven oak camp smile";
+var mnemonic = "iron enter fall section orphan gentle sting item dry tomato desk shadow";

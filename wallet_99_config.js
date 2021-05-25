@@ -1,1 +1,1 @@
-var mnemonic = "receive rough pulp nasty acid sound captain delay protect net memory write";
+var mnemonic = "profit miss need hello swim want bless sick hotel glue floor clock";

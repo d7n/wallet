@@ -1,1 +1,1 @@
-var mnemonic = "tray cricket size furnace sustain coconut parent boat quantum neither above unlock";
+var mnemonic = "gas laundry exact human goat hawk wash million system practice swear often";

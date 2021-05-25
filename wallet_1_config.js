@@ -1,1 +1,1 @@
-var mnemonic = "face cage pulse cushion into spy hat real rely act poverty tell";
+var mnemonic = "cash fragile solution regret inject mouse fame grant dance corn east ripple";

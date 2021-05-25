@@ -1,1 +1,1 @@
-var mnemonic = "pledge happy embark client birth true jewel dish fold spell unique uphold";
+var mnemonic = "swallow must exile excuse purse combine gloom blanket fade naive gloom quote";

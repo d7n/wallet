@@ -1,1 +1,1 @@
-var mnemonic = "rigid pet moon capital team fabric modify general income glove border attack";
+var mnemonic = "clinic provide defy paddle border evoke menu pave goat visit cream curious";

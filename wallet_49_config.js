@@ -1,1 +1,1 @@
-var mnemonic = "bread universe unaware pluck knock galaxy increase rookie bomb manual click govern";
+var mnemonic = "river gasp print retire border behind have field antenna practice moon change";

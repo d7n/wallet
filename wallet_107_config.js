@@ -1,1 +1,1 @@
-var mnemonic = "giraffe option orphan forum inhale teach page vessel hockey device expand utility";
+var mnemonic = "barrel draw answer steel wrestle kidney divorce picnic broccoli water penalty cash";

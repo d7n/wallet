@@ -1,1 +1,1 @@
-var mnemonic = "rifle anchor chase kid repair pass wish script rookie tunnel appear strategy";
+var mnemonic = "various news topic caught start curious mail venture odor ability canyon artist";

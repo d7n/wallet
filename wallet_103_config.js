@@ -1,1 +1,1 @@
-var mnemonic = "fun doctor cushion crumble liberty athlete art solution impact inform tourist fuel";
+var mnemonic = "pumpkin detail miracle rival dinosaur avocado scale render lizard inspire panther transfer";

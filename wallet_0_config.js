@@ -1,1 +1,1 @@
-var mnemonic = "mobile slender north broom balance tumble nominee nut print tattoo task flee";
+var mnemonic = "cart oyster shift delay clean strategy cargo speed ketchup donkey gym ceiling";

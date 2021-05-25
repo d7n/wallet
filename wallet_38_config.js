@@ -1,1 +1,1 @@
-var mnemonic = "antenna trash pistol drip cool public asthma trick disagree brush lounge kingdom";
+var mnemonic = "gaze now rain lottery genius okay buffalo funny economy dish crash service";
