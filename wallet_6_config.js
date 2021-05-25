@@ -1,1 +1,1 @@
-var mnemonic = "slot piano time animal above swap predict easily host cereal accuse quick";
+var mnemonic = "main render into embark above green lucky antenna frog nuclear surface cluster";

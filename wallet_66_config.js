@@ -1,1 +1,1 @@
-var mnemonic = "frame text stock birth text grace truly trash radar cart work empower";
+var mnemonic = "social engage gas present still mail knife meat rival never belt chef";

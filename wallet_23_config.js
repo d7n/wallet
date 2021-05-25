@@ -1,1 +1,1 @@
-var mnemonic = "thumb medal maximum alter tag average point tobacco category minor soul symbol";
+var mnemonic = "foil viable mass flight object chunk tumble gain cabbage cheap ticket clean";

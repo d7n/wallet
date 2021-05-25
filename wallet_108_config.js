@@ -1,1 +1,1 @@
-var mnemonic = "cactus annual glide beyond shine unique ankle skill maximum song hover appear";
+var mnemonic = "garage away behind actual february noodle remain close tide prison road country";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff tomato situate tennis mirror slab enter culture eyebrow ugly organ lens";
+var mnemonic = "night render stairs orphan table army forward kitchen stove unhappy analyst rescue";

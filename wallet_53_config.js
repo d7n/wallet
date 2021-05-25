@@ -1,1 +1,1 @@
-var mnemonic = "couch tourist because flash erupt issue armor physical smoke danger stool audit";
+var mnemonic = "either loop matrix loyal kangaroo message segment supply enroll doll cry evoke";

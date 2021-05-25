@@ -1,1 +1,1 @@
-var mnemonic = "color kingdom spawn giraffe minimum fade soul employ swap business vanish wave";
+var mnemonic = "door else mammal fold spatial degree piece spare couch stage inhale garment";

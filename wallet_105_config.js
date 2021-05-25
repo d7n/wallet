@@ -1,1 +1,1 @@
-var mnemonic = "carpet panel alert weasel hover galaxy piece trouble reward output december tail";
+var mnemonic = "ethics slice blur assist draft trouble found hello need glad turkey sport";

@@ -1,1 +1,1 @@
-var mnemonic = "green second reveal palace remember shoulder will swift goddess hero trial lumber";
+var mnemonic = "radar walnut prevent fish enemy crime october beach can music glory fruit";

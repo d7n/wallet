@@ -1,1 +1,1 @@
-var mnemonic = "board reopen subway ski knife cat mention swing horror pretty maple remain";
+var mnemonic = "predict sail member seminar tooth erupt tiny guess explain animal pave real";

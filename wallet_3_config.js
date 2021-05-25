@@ -1,1 +1,1 @@
-var mnemonic = "settle order lounge nature master work slogan myth potato submit team hero";
+var mnemonic = "video session banana select solar spike disagree icon kingdom minimum decrease economy";

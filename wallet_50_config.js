@@ -1,1 +1,1 @@
-var mnemonic = "recipe above mechanic leaf point future parade wasp cake jealous search fiscal";
+var mnemonic = "valid purse soon satisfy hamster advance coyote topic alcohol kiwi obvious sail";

@@ -1,1 +1,1 @@
-var mnemonic = "electric main fabric duty cover shiver valley prison gift page delay act";
+var mnemonic = "limit cheese scale warm tiny wagon rhythm hand misery bulk silk treat";

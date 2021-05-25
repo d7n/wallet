@@ -1,1 +1,1 @@
-var mnemonic = "film express raise weird divorce seminar foster input thumb curve abandon couple";
+var mnemonic = "glue energy junk bounce peasant shoulder prefer tonight drama special detect debris";

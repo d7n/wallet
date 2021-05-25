@@ -1,1 +1,1 @@
-var mnemonic = "bird diary bargain egg city rubber forward funny giant identify main mom";
+var mnemonic = "begin quantum brand kitchen argue attend stem address can become tongue garden";

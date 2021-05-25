@@ -1,1 +1,1 @@
-var mnemonic = "message noodle chuckle core mosquito gym west act crush favorite slender busy";
+var mnemonic = "surround extend truck surprise shift heavy heavy wrap property quick few rural";

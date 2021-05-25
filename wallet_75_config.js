@@ -1,1 +1,1 @@
-var mnemonic = "club steel panda material cricket long wide error tunnel submit raccoon guilt";
+var mnemonic = "shine zoo uncle fragile east problem scan burger equip powder combine poet";

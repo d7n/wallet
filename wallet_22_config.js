@@ -1,1 +1,1 @@
-var mnemonic = "true require hero panel pulse ship again loop horror rail desert hurt";
+var mnemonic = "pilot aware youth glass stairs diesel capital nerve arrive near device title";

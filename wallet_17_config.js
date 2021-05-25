@@ -1,1 +1,1 @@
-var mnemonic = "lumber summer parade fashion reopen vibrant execute fiscal maid vault dose local";
+var mnemonic = "zebra people obscure birth behind arrive push broken apart legend tunnel border";

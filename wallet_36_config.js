@@ -1,1 +1,1 @@
-var mnemonic = "taste agree boat chuckle boss depth arctic neck hood auto donkey flush";
+var mnemonic = "improve leisure journey envelope feed wheat near couple pretty middle pulse season";

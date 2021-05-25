@@ -1,1 +1,1 @@
-var mnemonic = "scale bomb defy ladder blossom discover fade ecology panda spray island divorce";
+var mnemonic = "jungle stool cluster razor device weasel upgrade trade humble limit mouse proof";

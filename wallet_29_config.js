@@ -1,1 +1,1 @@
-var mnemonic = "craft sad dutch knife swing theme address cup impulse hand hurry vendor";
+var mnemonic = "achieve arrange fame leopard fashion interest bracket question amateur kick tooth resist";

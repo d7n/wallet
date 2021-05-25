@@ -1,1 +1,1 @@
-var mnemonic = "crunch vendor penalty clerk accuse march daughter hobby hill happy food unique";
+var mnemonic = "arena attitude toe gate ridge juice assist woman kiss uncover loop awake";

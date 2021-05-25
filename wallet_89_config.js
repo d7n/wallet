@@ -1,1 +1,1 @@
-var mnemonic = "version pumpkin dove ankle spin cotton finish program sun resemble gym profit";
+var mnemonic = "once mobile toy clean weapon hollow occur tobacco ask coil supply fine";

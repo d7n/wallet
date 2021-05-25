@@ -1,1 +1,1 @@
-var mnemonic = "focus armed appear kidney repair light ahead foil edit describe garment own";
+var mnemonic = "ripple just convince region future subject depart ginger setup pause census have";

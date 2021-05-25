@@ -1,1 +1,1 @@
-var mnemonic = "dilemma small siege lake talk lab cute raven enforce victory assault road";
+var mnemonic = "enrich provide hollow blossom below window turn spare range chuckle season potato";

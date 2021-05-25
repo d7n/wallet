@@ -1,1 +1,1 @@
-var mnemonic = "battle indoor problem smart loyal advance essence expand mercy receive still fence";
+var mnemonic = "velvet flame enable choose wild until code half open tattoo unknown cloud";

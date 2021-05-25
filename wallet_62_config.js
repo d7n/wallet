@@ -1,1 +1,1 @@
-var mnemonic = "august scheme spin mask rain flight hello table fan boil can quick";
+var mnemonic = "fury urge twelve wine can tilt view inner token perfect language state";

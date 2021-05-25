@@ -1,1 +1,1 @@
-var mnemonic = "meat inform horror dash usage number drop axis hollow dirt soap beyond";
+var mnemonic = "pitch display tackle bring purse drop ribbon voice cruise engine useful until";

@@ -1,1 +1,1 @@
-var mnemonic = "false fire peace shaft dice program toast gloom envelope embark favorite hockey";
+var mnemonic = "range pledge soft own approve rotate address fuel palace meadow acquire six";

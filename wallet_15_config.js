@@ -1,1 +1,1 @@
-var mnemonic = "cabin pass steak purchase favorite youth wire favorite bullet oyster plate corn";
+var mnemonic = "short ceiling easy coin fault absurd tide raccoon solution rain stand rule";

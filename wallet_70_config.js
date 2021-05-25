@@ -1,1 +1,1 @@
-var mnemonic = "tragic always sister bamboo senior dumb goddess maximum defy vivid omit insect";
+var mnemonic = "mix spawn mechanic rabbit lunch rescue gas goose thing beef crumble happy";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle window grid dumb neither trash supply original cricket upon program rocket";
+var mnemonic = "enable board cream exclude tissue magnet govern elite degree feature february bright";

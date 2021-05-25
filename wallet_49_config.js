@@ -1,1 +1,1 @@
-var mnemonic = "nose trap drum cigar industry another west clip slight genuine actor undo";
+var mnemonic = "lab place school hero brush young slab crush urge culture concert another";

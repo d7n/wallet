@@ -1,1 +1,1 @@
-var mnemonic = "once machine mule laptop series kiss extend climb envelope diary address pelican";
+var mnemonic = "rain fine arrange bubble genre heavy void winter end moon liberty adapt";

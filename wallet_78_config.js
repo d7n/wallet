@@ -1,1 +1,1 @@
-var mnemonic = "asset must advice all poem unfold sketch palm usual cool issue marine";
+var mnemonic = "bargain fog trade famous grief tip suffer marriage shed labor doll nose";

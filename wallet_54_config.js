@@ -1,1 +1,1 @@
-var mnemonic = "manual boring fire venture female beauty bachelor brother street urban banner noodle";
+var mnemonic = "tube spread will champion attack tired dash fat manage search desert assault";

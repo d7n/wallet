@@ -1,1 +1,1 @@
-var mnemonic = "vacant calm fence renew segment art orbit kidney help sentence indoor aim";
+var mnemonic = "thank armed play rocket grow cheese mother borrow tiny success type evidence";

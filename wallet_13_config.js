@@ -1,1 +1,1 @@
-var mnemonic = "proud empty spirit cruise mind swift winter game insect glue appear rifle";
+var mnemonic = "tip kite long daughter legal soldier marble chunk void shy kit morning";

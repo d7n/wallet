@@ -1,1 +1,1 @@
-var mnemonic = "south vintage reject lab giant robust supreme around impact dance below ocean";
+var mnemonic = "cake modify enemy link erupt talent enact junk friend unfair spatial awesome";

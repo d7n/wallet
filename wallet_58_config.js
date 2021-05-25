@@ -1,1 +1,1 @@
-var mnemonic = "helmet zebra people staff rival oval rural crew process pig glimpse rug";
+var mnemonic = "verb artist behind autumn join cabin intact galaxy brush thought junior sibling";

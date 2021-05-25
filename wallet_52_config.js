@@ -1,1 +1,1 @@
-var mnemonic = "suit lamp rural slogan please number ankle beauty over law another dove";
+var mnemonic = "tragic mother oxygen kiwi supply wire hard debate member green parade afford";

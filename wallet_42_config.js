@@ -1,1 +1,1 @@
-var mnemonic = "sausage best come salon abstract remain inject midnight gravity miracle owner room";
+var mnemonic = "gesture obscure visual load pink pottery clay inspire hair tenant core aisle";

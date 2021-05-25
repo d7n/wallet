@@ -1,1 +1,1 @@
-var mnemonic = "palace jelly control cheese alter gold father grab inmate camp bundle age";
+var mnemonic = "pole toast midnight eagle bracket sing sure jacket swim rely file hair";

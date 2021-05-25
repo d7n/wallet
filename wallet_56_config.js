@@ -1,1 +1,1 @@
-var mnemonic = "feed blind sign still guard electric limit clump garage exist okay deal";
+var mnemonic = "cool extend top quality wagon topic urban total head satoshi snow room";

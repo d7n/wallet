@@ -1,1 +1,1 @@
-var mnemonic = "winter adult enjoy cheese arrow lonely chest ten life say scene fringe";
+var mnemonic = "noise armed around panic discover unique before transfer bag giant hub orchard";

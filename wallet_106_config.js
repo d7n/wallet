@@ -1,1 +1,1 @@
-var mnemonic = "weasel crash wear dilemma apple drive almost alcohol this layer diary retire";
+var mnemonic = "carpet talent balcony jewel trophy trade frequent vault hazard brother accident rib";

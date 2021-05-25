@@ -1,1 +1,1 @@
-var mnemonic = "duck diamond dragon capable coast antenna slight world begin help pipe pudding";
+var mnemonic = "three alert domain artist tide mom fitness atom magic fragile cigar doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "grant input panic net walk melody garden patrol intact cabbage train arm";
+var mnemonic = "job fetch defy bitter quick fee shiver key spirit spring ugly hole";

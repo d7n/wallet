@@ -1,1 +1,1 @@
-var mnemonic = "wrap mom apology often clip forward glance devote barrel require great sorry";
+var mnemonic = "faith creek execute cloth behave reduce mosquito potato time narrow welcome gate";

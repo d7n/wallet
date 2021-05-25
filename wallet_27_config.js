@@ -1,1 +1,1 @@
-var mnemonic = "normal muscle supply second unusual orphan same because embrace wrist picture battle";
+var mnemonic = "receive name crisp creek salad office during online obscure argue minor fiction";

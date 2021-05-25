@@ -1,1 +1,1 @@
-var mnemonic = "demise tuna image sister mention umbrella wide vapor display upon title cushion";
+var mnemonic = "acquire reduce exhibit aspect fruit shop winner phone feed antique ten ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber frozen ribbon crucial weapon rule near blush unfold divert suggest medal";
+var mnemonic = "differ suggest juice filter program frequent focus subway wall drop auction ship";

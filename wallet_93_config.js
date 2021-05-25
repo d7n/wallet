@@ -1,1 +1,1 @@
-var mnemonic = "unfold bid common impose resist reward april light ask excuse render suit";
+var mnemonic = "crush short member chase always wait green buddy afraid amateur master image";

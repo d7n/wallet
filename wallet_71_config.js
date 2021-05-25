@@ -1,1 +1,1 @@
-var mnemonic = "rail brother able helmet bright erupt hood tribe distance describe kiss auto";
+var mnemonic = "below predict fix hedgehog bullet can fiber phone between cliff sweet man";

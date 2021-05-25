@@ -1,1 +1,1 @@
-var mnemonic = "boy divorce when know rural sketch receive depend fragile stomach ignore believe";
+var mnemonic = "sport try large dentist thank inch tree lawn portion elbow order taste";

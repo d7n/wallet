@@ -1,1 +1,1 @@
-var mnemonic = "gossip fat relief kit nothing file space coil body measure elegant bright";
+var mnemonic = "patrol echo author chicken heart sister sad million distance opera forest flavor";

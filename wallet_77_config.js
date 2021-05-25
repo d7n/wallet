@@ -1,1 +1,1 @@
-var mnemonic = "claim plastic smoke enable swim stick cliff member already social speak office";
+var mnemonic = "dad antique fly resist enemy canoe coyote farm course end winner resist";

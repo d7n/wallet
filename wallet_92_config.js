@@ -1,1 +1,1 @@
-var mnemonic = "journey pet young outer local adult merry scout check exist used equal";
+var mnemonic = "light table bid fabric level want hope multiply bronze vote step disorder";

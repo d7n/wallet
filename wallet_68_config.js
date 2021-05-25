@@ -1,1 +1,1 @@
-var mnemonic = "trophy gentle top mention infant square genuine program easily bulb hill castle";
+var mnemonic = "friend scorpion reform prefer busy clerk trick rate cheese crucial caution borrow";

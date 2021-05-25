@@ -1,1 +1,1 @@
-var mnemonic = "joke barely pony plastic north task auction congress fan slice goat surge";
+var mnemonic = "edge mosquito law hundred sand napkin sudden trim what give barrel almost";

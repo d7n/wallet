@@ -1,1 +1,1 @@
-var mnemonic = "idle filter hour drum reopen primary century suspect fault violin farm addict";
+var mnemonic = "debate doctor hospital cattle success feature extend text clump chest coast say";

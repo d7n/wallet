@@ -1,1 +1,1 @@
-var mnemonic = "deposit lake goose fashion basic tissue report group focus person garlic actual";
+var mnemonic = "patient swift antenna buyer smile bitter bridge valid goose lab risk topic";

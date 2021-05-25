@@ -1,1 +1,1 @@
-var mnemonic = "oven drive pizza royal grass burst toss enable jaguar machine fog issue";
+var mnemonic = "nice logic poet region loop riot turn stadium slot unknown ketchup alien";

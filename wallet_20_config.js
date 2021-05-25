@@ -1,1 +1,1 @@
-var mnemonic = "wool public bird volcano canvas hint monkey stock horn travel stem sport";
+var mnemonic = "cave census tail there circle catch crouch arrow type material limb flag";

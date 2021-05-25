@@ -1,1 +1,1 @@
-var mnemonic = "jaguar soap coast account festival caught expire quiz poem reward view region";
+var mnemonic = "gloom door theory oxygen differ forget correct flower ancient shuffle sniff oppose";

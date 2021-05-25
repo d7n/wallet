@@ -1,1 +1,1 @@
-var mnemonic = "artist multiply stamp fetch stamp short elegant best mutual sentence practice witness";
+var mnemonic = "crazy surge ten provide art select valve unknown veteran kangaroo anxiety average";

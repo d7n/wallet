@@ -1,1 +1,1 @@
-var mnemonic = "shove jewel obscure fan horror melody where busy course viable cloud inhale";
+var mnemonic = "either reward cousin bubble win rotate sweet edit list wheel hill dumb";

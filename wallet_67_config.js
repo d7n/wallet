@@ -1,1 +1,1 @@
-var mnemonic = "round cram tissue hole actor ghost swallow used level during zone rose";
+var mnemonic = "weather web record letter permit jeans target father slice timber close accident";

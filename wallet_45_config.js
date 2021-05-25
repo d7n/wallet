@@ -1,1 +1,1 @@
-var mnemonic = "stuff cart prize orchard erosion arrive hard spread fluid famous canvas rebel";
+var mnemonic = "flee devote wood device slam rich negative evoke wage shallow fault draft";

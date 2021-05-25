@@ -1,1 +1,1 @@
-var mnemonic = "blue caught keen dolphin banner rigid above such dawn strike multiply daughter";
+var mnemonic = "thrive spend rhythm wear mixture display cat sorry tank alert invite lunar";

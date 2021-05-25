@@ -1,1 +1,1 @@
-var mnemonic = "add source custom category all disorder okay immense grit spend cost spend";
+var mnemonic = "impose until decade crush dove pitch tornado swarm twin menu skill cloud";

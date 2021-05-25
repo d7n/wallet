@@ -1,1 +1,1 @@
-var mnemonic = "clump pattern invest hip regular beef hover age slogan arrange liquid elephant";
+var mnemonic = "reunion coach capable one aisle satoshi fly bullet athlete various race key";

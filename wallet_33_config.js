@@ -1,1 +1,1 @@
-var mnemonic = "width neither twenty pulse leg leisure robust father grace purpose swear like";
+var mnemonic = "grain midnight birth want patrol prevent fiber other valve rose dirt six";

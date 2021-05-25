@@ -1,1 +1,1 @@
-var mnemonic = "honey pig mushroom world rookie census crack pitch glide panel forest opera";
+var mnemonic = "ten cinnamon cat chef hospital skate flame write cat skill banana potato";

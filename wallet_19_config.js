@@ -1,1 +1,1 @@
-var mnemonic = "wall daughter feature joy index mammal boring fade dignity end impose camp";
+var mnemonic = "decline insane fringe control vessel meat cloud term mistake just rib wise";

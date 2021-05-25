@@ -1,1 +1,1 @@
-var mnemonic = "interest monkey celery need discover top fly soldier miss cheap attack absorb";
+var mnemonic = "segment game invite actual butter athlete trust capable whale walnut summer hollow";

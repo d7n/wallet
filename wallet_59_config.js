@@ -1,1 +1,1 @@
-var mnemonic = "sense shy liberty retreat unusual enemy arch slush bind proud void wife";
+var mnemonic = "pink author project craft athlete grunt corn slender old trap glide rubber";

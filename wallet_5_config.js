@@ -1,1 +1,1 @@
-var mnemonic = "hole pond alter next dutch light soap domain ranch real ice stock";
+var mnemonic = "choice rapid horror bunker ten truck grief tomorrow start eight laptop sting";

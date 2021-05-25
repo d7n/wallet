@@ -1,1 +1,1 @@
-var mnemonic = "venue left walnut receive plug decrease combine scale palace genius timber hood";
+var mnemonic = "arrange control priority pause april two borrow whisper lawsuit error harbor cricket";

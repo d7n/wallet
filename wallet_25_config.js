@@ -1,1 +1,1 @@
-var mnemonic = "produce survey crash error barrel trend object limit dust video utility duck";
+var mnemonic = "peace kid deny push run clog nose taste gate before brief fatigue";

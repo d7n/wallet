@@ -1,1 +1,1 @@
-var mnemonic = "surge hello nurse jewel still message industry fame jeans act napkin yard";
+var mnemonic = "broccoli forest blade river cart cloth apple spike wide parade weekend garage";

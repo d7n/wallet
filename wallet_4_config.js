@@ -1,1 +1,1 @@
-var mnemonic = "noodle object small voice shy vast zoo depend any arm skirt jewel";
+var mnemonic = "disease addict elbow penalty view convince elevator sound fine wheel door age";

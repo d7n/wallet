@@ -1,1 +1,1 @@
-var mnemonic = "collect primary bracket inspire anxiety company warm must vicious media add allow";
+var mnemonic = "relax must engage legend where foam federal light speed smooth talk gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "surface husband economy race bird deposit nasty market mixed bright cash resemble";
+var mnemonic = "pupil ready spin soap trumpet vintage evoke bomb final major raccoon decide";

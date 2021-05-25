@@ -1,1 +1,1 @@
-var mnemonic = "surround match silent spoil steak suggest venture dog toward benefit muscle night";
+var mnemonic = "toss friend sight buffalo train pelican wall because state super child rough";

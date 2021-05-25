@@ -1,1 +1,1 @@
-var mnemonic = "cost tail antique follow torch crisp entire bomb assume combine border scrub";
+var mnemonic = "dumb source throw mesh alpha rib paper effort shoot object pumpkin frame";

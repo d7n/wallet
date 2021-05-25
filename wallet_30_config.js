@@ -1,1 +1,1 @@
-var mnemonic = "cargo digital rabbit syrup agree gate amount receive chronic vote people air";
+var mnemonic = "shell bulk fatal onion dream grunt inhale sight success inmate parrot enroll";

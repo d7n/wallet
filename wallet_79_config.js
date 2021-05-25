@@ -1,1 +1,1 @@
-var mnemonic = "chef mercy corn monkey force culture enlist gesture just mom gap require";
+var mnemonic = "captain evoke pencil snow finish good that bridge detect debate mix lady";

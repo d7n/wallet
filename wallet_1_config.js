@@ -1,1 +1,1 @@
-var mnemonic = "measure glue raw left uncle repair scale obscure merit sphere settle harsh";
+var mnemonic = "rose verify slab tongue social own firm genre accident coast sort soon";

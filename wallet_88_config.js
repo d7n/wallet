@@ -1,1 +1,1 @@
-var mnemonic = "bonus trade hover eternal hand pool ride cross machine hamster under face";
+var mnemonic = "question define exile dash hub project shine casual impulse educate develop scorpion";

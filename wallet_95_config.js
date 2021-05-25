@@ -1,1 +1,1 @@
-var mnemonic = "hawk misery chest column tiny snap gadget zone master audit faith busy";
+var mnemonic = "october burden rather coffee pear reflect fiber exit remind horn tissue when";

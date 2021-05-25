@@ -1,1 +1,1 @@
-var mnemonic = "adult slice immense test group unaware sunny eyebrow piano promote pen lens";
+var mnemonic = "wise match example ritual dry river mouse mosquito permit penalty rifle solution";

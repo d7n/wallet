@@ -1,1 +1,1 @@
-var mnemonic = "random goat tent fault ladder science romance middle swallow click enhance globe";
+var mnemonic = "enemy series basket rare high kingdom kidney brother vapor black access hub";
