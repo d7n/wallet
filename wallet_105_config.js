@@ -1,1 +1,1 @@
-var mnemonic = "poet weapon wait fatigue soon main detail world flock pumpkin illness lift";
+var mnemonic = "mesh slab auction spring false pottery plug choose acquire glory rather ancient";

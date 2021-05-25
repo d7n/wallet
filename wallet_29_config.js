@@ -1,1 +1,1 @@
-var mnemonic = "neutral summer fantasy fiber rude fortune couple observe exit rose renew noise";
+var mnemonic = "unique divert frame weekend tell forward grow bright dutch squeeze advance yard";

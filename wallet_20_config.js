@@ -1,1 +1,1 @@
-var mnemonic = "still inmate crop height panel carry valid nest frozen artefact carbon rescue";
+var mnemonic = "lock inch zebra round favorite vote damage unknown coyote make minor wish";

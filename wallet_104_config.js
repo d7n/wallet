@@ -1,1 +1,1 @@
-var mnemonic = "dial hair glad west april attend fruit degree size shoot discover cream";
+var mnemonic = "absurd raise lucky enhance type chicken occur hope spike mail auto edge";

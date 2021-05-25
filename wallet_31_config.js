@@ -1,1 +1,1 @@
-var mnemonic = "company burst system enroll angle prosper hurdle ticket sentence lion all shine";
+var mnemonic = "elbow clarify clever bachelor desert resist pond moment medal moral cradle initial";

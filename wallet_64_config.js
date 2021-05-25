@@ -1,1 +1,1 @@
-var mnemonic = "cliff glimpse health broken make jealous twist luxury alley kiss avocado response";
+var mnemonic = "danger tide sword plastic interest wood axis anchor sea donor script exchange";

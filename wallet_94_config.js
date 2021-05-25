@@ -1,1 +1,1 @@
-var mnemonic = "shallow arrive task answer quote solve brick dilemma visual waste guitar kangaroo";
+var mnemonic = "glue unaware siren lake occur jealous initial alley symbol panther renew half";

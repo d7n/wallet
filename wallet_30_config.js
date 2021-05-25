@@ -1,1 +1,1 @@
-var mnemonic = "clown crunch soon public tumble illegal dish fox dismiss bring duck calm";
+var mnemonic = "glide library agree old act eye planet rebuild proud tank brand prison";

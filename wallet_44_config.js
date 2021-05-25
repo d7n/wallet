@@ -1,1 +1,1 @@
-var mnemonic = "face fish crunch hip seat pony man error force punch fire fitness";
+var mnemonic = "twelve matter hurdle cloth sign fan nurse gas apple census cruel leopard";

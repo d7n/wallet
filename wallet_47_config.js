@@ -1,1 +1,1 @@
-var mnemonic = "join keen hair people peanut fruit wisdom relief great slot similar spell";
+var mnemonic = "bench analyst afford address away child dirt exit express similar doctor warfare";

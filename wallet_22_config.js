@@ -1,1 +1,1 @@
-var mnemonic = "diagram renew cage rigid analyst trophy century exclude illness avoid curve afford";
+var mnemonic = "forget barely make sport laundry cloud matrix innocent eye income response glance";

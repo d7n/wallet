@@ -1,1 +1,1 @@
-var mnemonic = "fun rough mango able coin arrive achieve south hint easily subject pull";
+var mnemonic = "various dwarf potato off visa address enable rain feature patrol minute fade";

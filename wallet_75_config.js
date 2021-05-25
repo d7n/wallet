@@ -1,1 +1,1 @@
-var mnemonic = "boat drive fitness cause kitten frozen erupt bounce raise inject onion tiger";
+var mnemonic = "key entire rough trend enact hood crisp pioneer snake diagram just choose";

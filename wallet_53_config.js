@@ -1,1 +1,1 @@
-var mnemonic = "virus route million undo uncover settle network useless small gloom job space";
+var mnemonic = "wisdom scale rule consider cannon change teach cabbage arm caught peanut mixture";

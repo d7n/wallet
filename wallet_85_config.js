@@ -1,1 +1,1 @@
-var mnemonic = "steel impose goat company donate language blood ask next bamboo mansion flavor";
+var mnemonic = "robot reflect sad situate throw pony shaft student surface direct teach write";

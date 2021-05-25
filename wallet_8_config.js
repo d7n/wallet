@@ -1,1 +1,1 @@
-var mnemonic = "iron enter fall section orphan gentle sting item dry tomato desk shadow";
+var mnemonic = "slight office rail heavy club search cancel dizzy lazy matter pet mom";

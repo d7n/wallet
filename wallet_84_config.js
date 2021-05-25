@@ -1,1 +1,1 @@
-var mnemonic = "silver hybrid scare alert arena produce display ready trip pledge portion poem";
+var mnemonic = "screen person strike trophy left monster capable laugh twenty crouch draft slow";

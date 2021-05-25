@@ -1,1 +1,1 @@
-var mnemonic = "addict office tent three input uphold mixed bulb dumb body canyon daughter";
+var mnemonic = "hint tackle lottery confirm easily defense push seed ticket peace spend aware";

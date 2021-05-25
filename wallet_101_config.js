@@ -1,1 +1,1 @@
-var mnemonic = "brand net thought vintage army uniform model absorb service twenty claim feel";
+var mnemonic = "eager height buffalo capital report farm sugar fame tone sad achieve girl";

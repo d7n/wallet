@@ -1,1 +1,1 @@
-var mnemonic = "barrel draw answer steel wrestle kidney divorce picnic broccoli water penalty cash";
+var mnemonic = "olive wish gain share demand ceiling prize grunt expire sand improve coffee";

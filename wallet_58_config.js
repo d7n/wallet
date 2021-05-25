@@ -1,1 +1,1 @@
-var mnemonic = "escape fall seven cannon trim soda gospel sphere protect exhibit media zoo";
+var mnemonic = "marble brave negative raccoon arrange cake spray chunk melody spike bracket lonely";

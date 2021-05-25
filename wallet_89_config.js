@@ -1,1 +1,1 @@
-var mnemonic = "coast punch shoe rubber loyal stadium deputy pipe amount voyage sound burden";
+var mnemonic = "lecture coil check cloud audit quiz medal hybrid retire dutch rail twice";

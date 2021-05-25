@@ -1,1 +1,1 @@
-var mnemonic = "couple all define power fall mimic during foster fatal cover hair ski";
+var mnemonic = "nose inch local burger slam sniff absurd pig boring hungry vote salad";

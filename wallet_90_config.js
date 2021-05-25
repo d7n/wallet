@@ -1,1 +1,1 @@
-var mnemonic = "catalog parent slogan differ fly assault fish wish drum rose genuine finish";
+var mnemonic = "butter record picture erupt mix blue leopard bunker sight among cushion slogan";

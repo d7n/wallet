@@ -1,1 +1,1 @@
-var mnemonic = "craft random pyramid term junk winter secret pitch derive limit balance trash";
+var mnemonic = "tourist people unknown meat hundred average input slot marriage salute burger logic";

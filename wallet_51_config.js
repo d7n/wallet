@@ -1,1 +1,1 @@
-var mnemonic = "drift calm domain catalog wait pencil insect magnet payment ring attack over";
+var mnemonic = "suit captain friend buzz web bonus basic include answer surround time trouble";

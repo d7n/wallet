@@ -1,1 +1,1 @@
-var mnemonic = "join above shell price kidney climb chair century unfold harbor despair clever";
+var mnemonic = "unfair umbrella such electric tragic flash alter exchange anxiety renew near more";

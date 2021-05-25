@@ -1,1 +1,1 @@
-var mnemonic = "clinic provide defy paddle border evoke menu pave goat visit cream curious";
+var mnemonic = "imitate oblige weird math forward fire dirt avocado oyster have minor power";

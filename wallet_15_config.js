@@ -1,1 +1,1 @@
-var mnemonic = "ill innocent summer lady parent industry short one erupt curve anger rib";
+var mnemonic = "feed capital fence hat review actual merit fantasy system vacuum must giggle";

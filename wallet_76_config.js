@@ -1,1 +1,1 @@
-var mnemonic = "glow festival churn bicycle alone kitchen course neglect worry marine fun cradle";
+var mnemonic = "shy oblige farm bus sign eyebrow enemy head face vote trip chief";

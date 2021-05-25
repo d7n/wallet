@@ -1,1 +1,1 @@
-var mnemonic = "upset odor turn cherry life pledge antique return snap rubber fantasy final";
+var mnemonic = "bubble emerge goddess evolve certain cancel heavy tail great apple often bleak";

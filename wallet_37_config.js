@@ -1,1 +1,1 @@
-var mnemonic = "pioneer question present parrot unit ensure ignore column rookie throw pledge wine";
+var mnemonic = "tobacco amazing gain cover federal awake census cherry congress beyond wing glue";

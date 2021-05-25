@@ -1,1 +1,1 @@
-var mnemonic = "exotic off ancient alpha screen spread jacket moon blouse suffer exact property";
+var mnemonic = "excuse chronic luxury cost click monkey bar panel hamster adjust clarify review";

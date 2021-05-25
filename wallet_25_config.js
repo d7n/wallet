@@ -1,1 +1,1 @@
-var mnemonic = "sick brisk position artist ring tiny loud hat solid jelly near size";
+var mnemonic = "kiss assist spoil clock please point umbrella mixed decrease vague write produce";

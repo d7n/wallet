@@ -1,1 +1,1 @@
-var mnemonic = "misery real rookie wheel nest track execute garlic belt poet thank tribe";
+var mnemonic = "humor behave cloud arrow verify roof pony index rabbit fox zebra also";

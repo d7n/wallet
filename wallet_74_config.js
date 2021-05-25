@@ -1,1 +1,1 @@
-var mnemonic = "dutch tenant quick sunny seven wise tank swallow eyebrow odor present fiber";
+var mnemonic = "long jar caught diagram rug table judge spirit option plate furnace hobby";

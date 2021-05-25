@@ -1,1 +1,1 @@
-var mnemonic = "isolate cave unknown language timber atom flat spy work butter train slight";
+var mnemonic = "movie grass friend afford beach nephew edge wasp dirt soul address remain";

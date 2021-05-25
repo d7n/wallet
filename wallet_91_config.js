@@ -1,1 +1,1 @@
-var mnemonic = "canal foot emotion obtain lazy ready dwarf victory blur inflict ribbon stereo";
+var mnemonic = "cram volcano couch wrong bulk slice purity flock rookie engage mixture setup";

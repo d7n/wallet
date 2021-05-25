@@ -1,1 +1,1 @@
-var mnemonic = "twice narrow welcome tone gallery veteran wire globe wide embrace equip stereo";
+var mnemonic = "version lizard air village whale pink spice pelican ride half crowd question";

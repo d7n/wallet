@@ -1,1 +1,1 @@
-var mnemonic = "arch coach blush person regular hurdle search riot chronic author run denial";
+var mnemonic = "hospital wave exhaust debris garage cheap price lunar rabbit bag drink gauge";

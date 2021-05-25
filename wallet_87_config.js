@@ -1,1 +1,1 @@
-var mnemonic = "hard scene clip cousin carpet entire topple over night used chimney cereal";
+var mnemonic = "amount because device hazard skate hobby game urge diamond summer burden crystal";

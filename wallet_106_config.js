@@ -1,1 +1,1 @@
-var mnemonic = "pelican hobby clarify finish naive great ordinary dinner victory reflect combine dose";
+var mnemonic = "absurd quick profit traffic style match conduct remember spatial captain proud auto";

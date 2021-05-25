@@ -1,1 +1,1 @@
-var mnemonic = "rail tonight happy puzzle hammer enough vital sock behave kick sadness vehicle";
+var mnemonic = "waste face buffalo bid banner employ best atom struggle craft demise other";

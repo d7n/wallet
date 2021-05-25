@@ -1,1 +1,1 @@
-var mnemonic = "property garlic recipe axis bread cloud spot arrow stuff also wedding depart";
+var mnemonic = "category february suspect find easily force install this marine original uphold mixed";

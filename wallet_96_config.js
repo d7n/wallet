@@ -1,1 +1,1 @@
-var mnemonic = "select spike agent again absurd sentence want chicken cannon wave into leg";
+var mnemonic = "sadness replace fantasy fresh spoon manage fabric age already fix syrup split";

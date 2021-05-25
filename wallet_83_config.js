@@ -1,1 +1,1 @@
-var mnemonic = "game fury physical light plate author jewel method resemble scrub stuff scare";
+var mnemonic = "boat marine ticket half boat sweet useful note stage pretty extra aerobic";

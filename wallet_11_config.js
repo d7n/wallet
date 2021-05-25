@@ -1,1 +1,1 @@
-var mnemonic = "outdoor tragic crack buffalo stool rib zoo shop dance obey nose marble";
+var mnemonic = "menu extend wrong deliver bus book finish grunt check prosper crouch decide";

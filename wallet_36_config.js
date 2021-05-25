@@ -1,1 +1,1 @@
-var mnemonic = "glide forward twice coral version filter brief distance color gate live miracle";
+var mnemonic = "gossip unable guide tone memory royal educate later zero wonder moral chuckle";

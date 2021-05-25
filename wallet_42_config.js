@@ -1,1 +1,1 @@
-var mnemonic = "letter nurse forget purchase badge vast arch march wreck bridge unable sick";
+var mnemonic = "absent brave pear chimney guide left panda market patient pencil gun stool";

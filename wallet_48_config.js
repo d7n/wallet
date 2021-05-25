@@ -1,1 +1,1 @@
-var mnemonic = "very dust lake hospital where paddle very embrace century panda promote club";
+var mnemonic = "acquire pistol crew tank spatial crisp spin art armor gather amused giraffe";

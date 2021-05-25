@@ -1,1 +1,1 @@
-var mnemonic = "river gasp print retire border behind have field antenna practice moon change";
+var mnemonic = "enjoy more captain bulk hand thank glimpse chapter trial brief alcohol indicate";

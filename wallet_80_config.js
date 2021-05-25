@@ -1,1 +1,1 @@
-var mnemonic = "suffer bleak flush athlete fall chat front vague giraffe bubble attack unit";
+var mnemonic = "amused legal cable moment online crawl fish kangaroo sort arctic coconut nut";

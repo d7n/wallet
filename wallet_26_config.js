@@ -1,1 +1,1 @@
-var mnemonic = "common load post hammer candy tuition catch comfort monster around session west";
+var mnemonic = "flee fork sick million text bacon render movie marriage payment rough spray";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight eyebrow pupil misery jar pass rubber debris now shrug silver lottery";
+var mnemonic = "excess omit brother credit oval enjoy frog tank film view top foot";

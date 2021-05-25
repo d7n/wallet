@@ -1,1 +1,1 @@
-var mnemonic = "nest usual disagree average drop chat equal recipe inch medal until genre";
+var mnemonic = "evil power elder two duty deposit decade kit cross suggest region sun";

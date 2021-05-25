@@ -1,1 +1,1 @@
-var mnemonic = "home recall curtain envelope capable vibrant tiny pulp original brother fruit robust";
+var mnemonic = "work result luxury theme survey soccer person illegal van undo minor retreat";

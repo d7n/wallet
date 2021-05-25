@@ -1,1 +1,1 @@
-var mnemonic = "rough bronze govern quiz together deer ostrich globe immense dice worth mystery";
+var mnemonic = "rely sell maze magic spin glance stomach snack moral empty climb glare";

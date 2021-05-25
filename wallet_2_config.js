@@ -1,1 +1,1 @@
-var mnemonic = "split initial used forest feel west script parade culture throw torch immense";
+var mnemonic = "moment among retreat radio scout december crunch hunt equal quiz tenant morning";

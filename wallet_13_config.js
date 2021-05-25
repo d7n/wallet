@@ -1,1 +1,1 @@
-var mnemonic = "crater alert cart warfare word equip retire invest sun sort object evoke";
+var mnemonic = "faculty dinner you okay problem share tenant catalog idea earn allow simple";

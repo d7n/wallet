@@ -1,1 +1,1 @@
-var mnemonic = "lonely enrich youth time frog assume lens glare gather diary trip tonight";
+var mnemonic = "spoon very swear pepper pull recall depend pupil knife begin middle banner";

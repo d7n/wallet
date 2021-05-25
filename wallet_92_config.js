@@ -1,1 +1,1 @@
-var mnemonic = "trust uncle rifle rail measure delay issue bargain caution glance spring yellow";
+var mnemonic = "regular vacuum surface harsh because estate dust awesome fetch scrub sniff repeat";

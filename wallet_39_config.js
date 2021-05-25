@@ -1,1 +1,1 @@
-var mnemonic = "rhythm height soft fork tomorrow mixed famous witness depth waste onion relief";
+var mnemonic = "sister gallery theme walnut couch rotate obtain deposit sweet penalty flame summer";

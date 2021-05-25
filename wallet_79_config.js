@@ -1,1 +1,1 @@
-var mnemonic = "acid scale clay occur depth worry barrel wonder barely faculty sphere fee";
+var mnemonic = "amazing large purchase now enter boring follow turkey surprise velvet exotic absent";

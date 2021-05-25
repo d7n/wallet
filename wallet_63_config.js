@@ -1,1 +1,1 @@
-var mnemonic = "final visa casino elegant off salon annual behave cherry later document avoid";
+var mnemonic = "captain close resource teach observe carry brush protect again duty picture hat";

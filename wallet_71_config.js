@@ -1,1 +1,1 @@
-var mnemonic = "danger address note crash force liberty camp confirm range juice village report";
+var mnemonic = "smile six over adult angry picnic couch burst solid must flame ceiling";

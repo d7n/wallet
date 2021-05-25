@@ -1,1 +1,1 @@
-var mnemonic = "ignore sleep left dynamic print field moral laptop fruit lecture will pair";
+var mnemonic = "wheat regret peanut prison foam eagle present oak bone install impact issue";

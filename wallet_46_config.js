@@ -1,1 +1,1 @@
-var mnemonic = "car stock curious daughter current name devote eternal nurse vibrant token wink";
+var mnemonic = "stuff cinnamon embrace symbol soup assault slush path muffin mass athlete celery";

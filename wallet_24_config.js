@@ -1,1 +1,1 @@
-var mnemonic = "shed skate agree always adapt aisle van east suit bonus match magic";
+var mnemonic = "donor judge erase avocado tag maid local measure strong double only orchard";

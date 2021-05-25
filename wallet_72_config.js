@@ -1,1 +1,1 @@
-var mnemonic = "style bundle section wise repair educate second toast ancient august snap cart";
+var mnemonic = "market tired main shop skill gadget target oven priority utility confirm rookie";

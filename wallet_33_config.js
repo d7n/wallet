@@ -1,1 +1,1 @@
-var mnemonic = "trade type barely palace region fever glue change door snow world sand";
+var mnemonic = "velvet jewel pony until junk prefer circle mention decorate flee oven illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "range ensure silk this cancel wisdom buffalo buyer jazz night call owner";
+var mnemonic = "razor pistol hood gun worry diagram muffin key apple proof soon myth";

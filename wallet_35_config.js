@@ -1,1 +1,1 @@
-var mnemonic = "ethics apart guide liberty target useful project leopard female sense crane fox";
+var mnemonic = "vendor punch april digital fire exotic expect clown trap elegant net client";

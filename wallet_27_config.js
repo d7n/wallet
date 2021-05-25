@@ -1,1 +1,1 @@
-var mnemonic = "wool angry error cake useless tumble crater urge purchase ignore story bargain";
+var mnemonic = "sponsor panda interest marriage whisper era federal rival rain tape taxi negative";

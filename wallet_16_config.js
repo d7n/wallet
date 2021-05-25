@@ -1,1 +1,1 @@
-var mnemonic = "myself weasel help soccer voice fiction ranch whip jar busy volume language";
+var mnemonic = "delay host great hand churn tank install elephant universe vocal child luggage";

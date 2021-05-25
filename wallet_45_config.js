@@ -1,1 +1,1 @@
-var mnemonic = "orphan truck sail whisper biology install unit mechanic visual when ball story";
+var mnemonic = "tissue real crater brush trigger sphere atom evolve result grow rail spider";

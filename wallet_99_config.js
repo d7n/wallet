@@ -1,1 +1,1 @@
-var mnemonic = "profit miss need hello swim want bless sick hotel glue floor clock";
+var mnemonic = "village vibrant please pair depend pig soft pen guess target mystery lecture";

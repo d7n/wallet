@@ -1,1 +1,1 @@
-var mnemonic = "various news topic caught start curious mail venture odor ability canyon artist";
+var mnemonic = "chunk sea road honey shoe balance salmon sudden curtain material scorpion beauty";

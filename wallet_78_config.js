@@ -1,1 +1,1 @@
-var mnemonic = "fatigue fashion dragon arm lunch liquid essence popular steel tower beach citizen";
+var mnemonic = "mobile gospel found shield napkin program mirror pair lucky announce trumpet innocent";

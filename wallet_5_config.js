@@ -1,1 +1,1 @@
-var mnemonic = "meadow target curve hurry spike oval predict seminar gasp fuel movie throw";
+var mnemonic = "amateur pause flip spend caught guide fury mixture sad village oblige honey";

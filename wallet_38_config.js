@@ -1,1 +1,1 @@
-var mnemonic = "gaze now rain lottery genius okay buffalo funny economy dish crash service";
+var mnemonic = "marine furnace jazz radio trade width tilt income exchange senior wide shed";

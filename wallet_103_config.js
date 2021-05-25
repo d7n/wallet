@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin detail miracle rival dinosaur avocado scale render lizard inspire panther transfer";
+var mnemonic = "check middle rebel carry govern motion scout cover zero vocal hazard language";

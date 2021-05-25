@@ -1,1 +1,1 @@
-var mnemonic = "predict ice eternal ginger absorb movie clump miracle play denial eagle light";
+var mnemonic = "candy dance broken suit jungle since rival patient tiger group solution evoke";

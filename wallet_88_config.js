@@ -1,1 +1,1 @@
-var mnemonic = "gas laundry exact human goat hawk wash million system practice swear often";
+var mnemonic = "fly moment describe news same napkin tenant detail donor any enable tomato";

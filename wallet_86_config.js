@@ -1,1 +1,1 @@
-var mnemonic = "walnut obtain come man nephew vendor joy dash glide memory extend push";
+var mnemonic = "arrange tell auction globe similar super honey tumble tuna asthma slush essence";

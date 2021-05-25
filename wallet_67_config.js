@@ -1,1 +1,1 @@
-var mnemonic = "snow extra run kidney velvet alter small element funny run frequent company";
+var mnemonic = "abandon border theme atom venue harvest random burst cream shuffle royal other";

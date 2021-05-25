@@ -1,1 +1,1 @@
-var mnemonic = "work fabric absorb jar monkey rude game electric brick bind minute immense";
+var mnemonic = "symptom autumn powder load can retreat solve modify main purse glide fish";

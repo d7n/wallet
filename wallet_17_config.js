@@ -1,1 +1,1 @@
-var mnemonic = "pattern cover squeeze tourist helmet tobacco shuffle female skull style robust blame";
+var mnemonic = "whisper exhibit attract rent when charge keen fruit return cute spoil host";

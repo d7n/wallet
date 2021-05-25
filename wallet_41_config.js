@@ -1,1 +1,1 @@
-var mnemonic = "column sadness mushroom wedding mixed hint solve please harbor leopard magic lobster";
+var mnemonic = "cube drill cycle notable history summer crane push entire live prepare aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "hub trial airport float fluid pig practice enact team fold second crazy";
+var mnemonic = "black cake rubber must century garment balance ski aisle day smooth rely";
