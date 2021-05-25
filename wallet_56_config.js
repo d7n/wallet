@@ -1,1 +1,1 @@
-var mnemonic = "industry draft impulse network expand gym bundle faint measure outer wheat rival";
+var mnemonic = "point bacon kitten suit pulp execute foil witness fluid coach outdoor deputy";

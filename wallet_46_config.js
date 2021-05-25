@@ -1,1 +1,1 @@
-var mnemonic = "vast search rapid solid ankle wing amused marine enjoy bonus swing vivid";
+var mnemonic = "yard load mercy liar sort output hurry grid tornado category copy alcohol";

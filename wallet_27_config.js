@@ -1,1 +1,1 @@
-var mnemonic = "goat drum heart enroll shallow double between woman hospital panda error rent";
+var mnemonic = "oval jealous crawl web motor flat priority boring achieve normal test advice";

@@ -1,1 +1,1 @@
-var mnemonic = "verify idea major copper frequent attitude era hover average poet pond code";
+var mnemonic = "siege decade ensure matter body during answer cricket theory announce later pass";

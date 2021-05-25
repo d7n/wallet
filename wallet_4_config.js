@@ -1,1 +1,1 @@
-var mnemonic = "gauge pumpkin analyst food wear evolve enact memory execute limit kind double";
+var mnemonic = "sausage sing muscle point pumpkin crisp frown tissue vendor whale speak place";

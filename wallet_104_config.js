@@ -1,1 +1,1 @@
-var mnemonic = "soup lemon acid ramp club home gauge radio athlete wrong life flip";
+var mnemonic = "gravity party friend risk credit twelve cycle mixture curtain fame lend farm";

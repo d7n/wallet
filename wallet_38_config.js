@@ -1,1 +1,1 @@
-var mnemonic = "parent sure dress banner forum reward category quarter still arena rely peace";
+var mnemonic = "surface palm dismiss hospital sudden diagram spend era true loop solar impact";

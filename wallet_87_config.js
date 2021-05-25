@@ -1,1 +1,1 @@
-var mnemonic = "penalty spot license pull depth entire burger jewel master dignity whisper rookie";
+var mnemonic = "okay common nominee online exchange make chair crush guess stereo utility state";

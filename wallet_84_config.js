@@ -1,1 +1,1 @@
-var mnemonic = "planet romance gain address nurse atom rather evil satoshi pattern grass timber";
+var mnemonic = "romance burden radar sunset forward logic budget cable own yard wrong online";

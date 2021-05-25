@@ -1,1 +1,1 @@
-var mnemonic = "grant design roast delay tobacco girl winner innocent govern fit among candy";
+var mnemonic = "crane birth neglect wise leisure manual autumn bone smart sell grape bitter";

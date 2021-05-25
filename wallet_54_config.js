@@ -1,1 +1,1 @@
-var mnemonic = "camp skirt upset mom few delay cause veteran fever swallow begin near";
+var mnemonic = "column nasty crash surround wave life spot spoil tortoise judge fortune vintage";

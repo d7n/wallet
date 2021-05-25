@@ -1,1 +1,1 @@
-var mnemonic = "farm water shield feel away gas general parade omit denial thunder dismiss";
+var mnemonic = "elevator confirm evidence script puzzle license push priority lab fabric exit spin";

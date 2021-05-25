@@ -1,1 +1,1 @@
-var mnemonic = "please health into federal enable become deal typical army device hamster mirror";
+var mnemonic = "excuse mango caution clarify glow shuffle brief glass pyramid news wild strike";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas height praise slam episode decrease cute erode inform update palm gospel";
+var mnemonic = "secret dog dress zoo estate space humor dry viable mango fetch cannon";

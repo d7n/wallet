@@ -1,1 +1,1 @@
-var mnemonic = "swamp outer bicycle deal feed clown remain arrest divide gap salute pact";
+var mnemonic = "master outer link brush aisle picnic fever scan skin impulse team glare";

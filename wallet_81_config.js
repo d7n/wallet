@@ -1,1 +1,1 @@
-var mnemonic = "lonely grit liquid asthma autumn amount actress false tonight apple series test";
+var mnemonic = "west veteran apple agree raven invest loud unhappy mechanic wreck shallow hill";

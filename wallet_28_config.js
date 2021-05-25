@@ -1,1 +1,1 @@
-var mnemonic = "have daring wall possible range resemble type never front endless sing husband";
+var mnemonic = "elephant drum actor prosper borrow burden eye torch thunder bicycle enable shaft";

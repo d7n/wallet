@@ -1,1 +1,1 @@
-var mnemonic = "struggle garden march cancel inhale myth forget state floor candy jacket treat";
+var mnemonic = "steak night raise point pelican duty gospel legend similar original boss garlic";

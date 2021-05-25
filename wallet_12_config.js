@@ -1,1 +1,1 @@
-var mnemonic = "crucial fence father drastic west slot pipe all series beyond tail view";
+var mnemonic = "safe fly demise shine double draft reopen select myth wife stove onion";

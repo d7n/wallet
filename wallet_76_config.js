@@ -1,1 +1,1 @@
-var mnemonic = "evoke dice analyst also final secret inside critic grocery desk hidden limb";
+var mnemonic = "glare wink payment rescue choice yard stove credit off element fitness crew";

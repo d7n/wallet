@@ -1,1 +1,1 @@
-var mnemonic = "bomb diamond issue anchor like member eight husband loud later razor figure";
+var mnemonic = "page tone kiwi govern turkey unusual already bleak year velvet scale surge";

@@ -1,1 +1,1 @@
-var mnemonic = "slam margin lobster toss table evidence dignity juice tuna pledge side script";
+var mnemonic = "surprise exclude giraffe camera second deny couch glide depth crew admit stable";

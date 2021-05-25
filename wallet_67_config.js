@@ -1,1 +1,1 @@
-var mnemonic = "miss title talk bean reject brush skull one dance october gas curious";
+var mnemonic = "leg worth clay asset strategy scene health salad someone address toy opinion";

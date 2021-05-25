@@ -1,1 +1,1 @@
-var mnemonic = "focus impulse ladder stage pioneer airport balance dream between motor monkey clever";
+var mnemonic = "olive almost patch fabric bulk circle pulse satisfy gauge time ring history";

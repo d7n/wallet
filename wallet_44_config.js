@@ -1,1 +1,1 @@
-var mnemonic = "hour win mistake robust address holiday tell evolve rack member auto topple";
+var mnemonic = "air divert chef rotate wear honey scissors cream assume benefit indicate brand";

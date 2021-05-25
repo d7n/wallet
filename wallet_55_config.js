@@ -1,1 +1,1 @@
-var mnemonic = "lion asset hedgehog twin become goddess shallow dawn knife wire walnut axis";
+var mnemonic = "mail chef turtle valid globe genius defy smile chef attack share dirt";

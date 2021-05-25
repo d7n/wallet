@@ -1,1 +1,1 @@
-var mnemonic = "fabric dove assault sponsor burst birth bonus hub viable face mad evidence";
+var mnemonic = "two raise obscure black bring debate cram draw grant element metal senior";

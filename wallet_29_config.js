@@ -1,1 +1,1 @@
-var mnemonic = "coyote spare repeat coil student smile swim join region lizard hollow hold";
+var mnemonic = "olive banner dog increase throw trash deal test brush protect base neither";

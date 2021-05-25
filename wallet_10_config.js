@@ -1,1 +1,1 @@
-var mnemonic = "media wage rival engine diagram still perfect loud joy road distance dust";
+var mnemonic = "inflict sick ski kitchen ghost awful rhythm submit puppy cotton ginger guess";

@@ -1,1 +1,1 @@
-var mnemonic = "depth wink two lunar mix ladder near crater laundry genuine frown mandate";
+var mnemonic = "cycle faith sunny despair host journey purpose simple result release pass beauty";

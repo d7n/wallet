@@ -1,1 +1,1 @@
-var mnemonic = "little goat profit home vast quick veteran drop ranch cry ocean common";
+var mnemonic = "link will bench surprise action artist index refuse lab mail tumble cement";

@@ -1,1 +1,1 @@
-var mnemonic = "degree kite hire thumb cushion six high naive genuine omit loan tortoise";
+var mnemonic = "practice silly giggle sight umbrella seek fiscal travel ceiling tomato spring depart";

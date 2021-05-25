@@ -1,1 +1,1 @@
-var mnemonic = "nuclear balance toe what verify awake fault foil garment include poem fatal";
+var mnemonic = "soccer effort damp social taxi test address arrow theme mouse enough joy";

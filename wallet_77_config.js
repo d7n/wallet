@@ -1,1 +1,1 @@
-var mnemonic = "chaos black balcony wise resist aware assist genius lizard crater park olive";
+var mnemonic = "hedgehog boost fatigue casual garbage elephant dance body segment genuine defy title";

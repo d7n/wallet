@@ -1,1 +1,1 @@
-var mnemonic = "onion item tattoo diamond stereo cube race word any special equip short";
+var mnemonic = "ritual slush average immune joy glass green two pattern picnic super giant";

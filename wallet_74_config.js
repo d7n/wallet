@@ -1,1 +1,1 @@
-var mnemonic = "beef define panda inspire divorce lobster recycle duck autumn spring hockey build";
+var mnemonic = "roast world kiss mixture poverty mosquito affair match battle rough venue liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "visual enable holiday voyage aisle limb decrease avocado harbor wild ride immense";
+var mnemonic = "common learn trigger neutral bitter donate thunder timber phone judge elder calm";

@@ -1,1 +1,1 @@
-var mnemonic = "start raccoon harbor upset relax twin march man corn resemble high brush";
+var mnemonic = "company exit detect gospel method awkward museum food belt enter bread enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "job provide shuffle wool health only nose exotic ring chalk blood life";
+var mnemonic = "payment enable spirit hockey involve wealth board curve seven genuine reform impact";

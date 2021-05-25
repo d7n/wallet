@@ -1,1 +1,1 @@
-var mnemonic = "swing letter manage absurd broken cushion indicate torch error coast weasel hard";
+var mnemonic = "life access witness rent tail mixture blast comic behave timber tide ripple";

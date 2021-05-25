@@ -1,1 +1,1 @@
-var mnemonic = "fortune balcony item hood elegant bomb present eye slab build clean logic";
+var mnemonic = "afford shadow cabin place choose snack welcome stick duck kiwi stuff boil";

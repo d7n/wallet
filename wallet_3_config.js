@@ -1,1 +1,1 @@
-var mnemonic = "sister people teach grid pigeon invest shrimp mandate skirt viable moment nut";
+var mnemonic = "toddler enemy affair drop attitude scale silent wedding exile second whip total";

@@ -1,1 +1,1 @@
-var mnemonic = "pull argue anchor dust define half wagon pull peanut dignity syrup point";
+var mnemonic = "alley skull setup live myself letter target calm visit soon hedgehog thought";

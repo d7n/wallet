@@ -1,1 +1,1 @@
-var mnemonic = "bracket future edit hero cousin insane predict history change unique idea kite";
+var mnemonic = "stable fly plate already ripple siren rule limit food method dinner civil";

@@ -1,1 +1,1 @@
-var mnemonic = "talk night mail love alpha dust myself trouble again beyond tiger favorite";
+var mnemonic = "dolphin crime maze father farm pupil cry slide guitar taxi chef finger";

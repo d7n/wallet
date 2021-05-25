@@ -1,1 +1,1 @@
-var mnemonic = "farm chicken summer current stomach design announce dismiss legal hammer scout foam";
+var mnemonic = "veteran cost sniff silver rose remember gun crew face estate stand mechanic";

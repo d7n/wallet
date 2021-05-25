@@ -1,1 +1,1 @@
-var mnemonic = "buzz either hurry armor rookie struggle enter warm athlete tribe bus book";
+var mnemonic = "document agree decrease grape hour general okay digital ill climb race text";

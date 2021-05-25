@@ -1,1 +1,1 @@
-var mnemonic = "cement field novel vapor lemon fabric immune paper figure robot slot latin";
+var mnemonic = "reason theory rare boss actual crop slogan bless pelican vast bag digital";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver safe visit stove razor lunch detail maze mammal earth caution south";
+var mnemonic = "twelve bench note midnight clump patient thank relax include soldier novel sell";

@@ -1,1 +1,1 @@
-var mnemonic = "click clock rescue trend extra door post helmet bacon skate material miss";
+var mnemonic = "pole movie grit edge team hurry cupboard mention enemy jelly soon blouse";

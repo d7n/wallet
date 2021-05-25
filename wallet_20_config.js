@@ -1,1 +1,1 @@
-var mnemonic = "kidney candy dynamic code bracket begin luxury stick audit grocery clump nominee";
+var mnemonic = "quantum fire clarify solid brother warfare kit danger team school talent girl";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz sport armed buffalo logic once diamond eager corn camera social marble";
+var mnemonic = "inside manual fly accuse state art enemy loyal elder sunset clean craft";

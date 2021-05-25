@@ -1,1 +1,1 @@
-var mnemonic = "siege sleep pen body feed acid bridge box area crash join decrease";
+var mnemonic = "identify busy organ auto correct host picture cloth solid satoshi cruel master";

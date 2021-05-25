@@ -1,1 +1,1 @@
-var mnemonic = "because abuse maple congress initial wise sting make hello judge ticket fish";
+var mnemonic = "cross carpet depart candy waste lounge aspect country license federal blue original";

@@ -1,1 +1,1 @@
-var mnemonic = "talent alter sunny message angry tackle earn dust glory spoil trim neither";
+var mnemonic = "police faith rich embody mechanic library hawk faith stage excess bird side";

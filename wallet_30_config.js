@@ -1,1 +1,1 @@
-var mnemonic = "hill never staff monster state dismiss north pizza bind oval place dirt";
+var mnemonic = "cloth demise raise very mad tortoise autumn sail speak soup castle female";

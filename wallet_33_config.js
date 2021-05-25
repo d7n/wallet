@@ -1,1 +1,1 @@
-var mnemonic = "normal give leader age shield model expose car better eternal kitten wage";
+var mnemonic = "radio situate debris spider obey trade west electric entry fantasy exercise annual";

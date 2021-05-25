@@ -1,1 +1,1 @@
-var mnemonic = "cheap tackle reflect heavy super stomach degree develop list sphere merit cheap";
+var mnemonic = "clown ride option speed inner elevator fruit bind gate assist until speak";

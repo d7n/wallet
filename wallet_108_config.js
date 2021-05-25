@@ -1,1 +1,1 @@
-var mnemonic = "early unaware dolphin cause already heavy stool illegal same tunnel wonder total";
+var mnemonic = "excuse unknown cliff cargo report crucial arrive truth tobacco boost garage menu";

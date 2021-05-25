@@ -1,1 +1,1 @@
-var mnemonic = "pole trumpet direct stumble deny nest left page ahead fall cheese welcome";
+var mnemonic = "because ring leisure offer rich grace mixed fever limit angry mother bread";

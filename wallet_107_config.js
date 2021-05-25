@@ -1,1 +1,1 @@
-var mnemonic = "general very forum special clay all abandon sausage skull flee because butter";
+var mnemonic = "remember fitness group wheat acoustic decorate recipe swear palace violin disagree danger";

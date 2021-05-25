@@ -1,1 +1,1 @@
-var mnemonic = "giggle antique drive swamp deny shoulder away include van labor claim crystal";
+var mnemonic = "excess floor copy pilot rib toward bubble inform van trouble leg another";

@@ -1,1 +1,1 @@
-var mnemonic = "educate lyrics subway shop capital foil future emotion visa family mom moment";
+var mnemonic = "volcano zero choice arrange magic original misery cable disagree must weather course";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror monitor silk sibling police gather brick purity nut daughter spike possible";
+var mnemonic = "element climb fatal equal isolate syrup machine flash run cheese catalog gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "change frost good neglect possible pudding grape gospel spend giraffe bargain exile";
+var mnemonic = "grain practice tent rice humble edit sweet punch address author scissors dance";

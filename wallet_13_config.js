@@ -1,1 +1,1 @@
-var mnemonic = "enjoy unit tip police bring spend door antenna prefer virus calm thank";
+var mnemonic = "pretty model lion radio measure actress snack blind ritual resemble upgrade sort";

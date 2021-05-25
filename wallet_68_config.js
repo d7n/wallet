@@ -1,1 +1,1 @@
-var mnemonic = "swallow solid dream secret deer purity planet copper concert refuse flush country";
+var mnemonic = "cable broken lounge type discover route legal tumble surprise across scale skull";

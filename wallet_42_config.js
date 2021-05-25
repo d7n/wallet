@@ -1,1 +1,1 @@
-var mnemonic = "document metal guard great fan public resemble hair aunt family consider orient";
+var mnemonic = "truck program page coral payment such ramp before life wish biology canyon";

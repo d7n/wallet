@@ -1,1 +1,1 @@
-var mnemonic = "clog brisk exile bind squeeze spring truly match cliff column old caught";
+var mnemonic = "notice road federal motor unable ripple chuckle theory warfare twice orphan warrior";

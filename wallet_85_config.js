@@ -1,1 +1,1 @@
-var mnemonic = "cover canyon loan lizard forget fuel crawl pink avoid roast will predict";
+var mnemonic = "soon trip safe firm army tiger there fury away good stem toss";

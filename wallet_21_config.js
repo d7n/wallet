@@ -1,1 +1,1 @@
-var mnemonic = "illegal snake defense gather actress force solid purchase present chunk glimpse unfold";
+var mnemonic = "caution actual cluster clog donkey fury timber surprise lemon puppy barrel clinic";

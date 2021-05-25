@@ -1,1 +1,1 @@
-var mnemonic = "blur legal pulse monitor quarter spoil play mechanic leopard enemy fat grab";
+var mnemonic = "spoon shock pledge frog bamboo fatigue fence budget immense token combine parade";

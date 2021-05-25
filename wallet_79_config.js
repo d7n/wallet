@@ -1,1 +1,1 @@
-var mnemonic = "solution orphan tail exact extend double dragon tumble project merge price airport";
+var mnemonic = "company sure heart ten annual first bamboo cabin update guard fox option";

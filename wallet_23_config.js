@@ -1,1 +1,1 @@
-var mnemonic = "jazz dirt awake myth face owner peace draw salt tissue festival switch";
+var mnemonic = "company frequent blanket lyrics salmon distance modify seat donate story salute cradle";

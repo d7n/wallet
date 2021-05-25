@@ -1,1 +1,1 @@
-var mnemonic = "party vast typical elegant vivid thrive toss upon caught agent hobby screen";
+var mnemonic = "hybrid alien silent crucial chef zone whisper post swarm idea illness common";

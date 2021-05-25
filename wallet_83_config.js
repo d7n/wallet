@@ -1,1 +1,1 @@
-var mnemonic = "orient zebra draft battle allow exchange elevator tube fresh hand exit loan";
+var mnemonic = "combine borrow two firm conduct adjust mobile salt kit twice frog inspire";

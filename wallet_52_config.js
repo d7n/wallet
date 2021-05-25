@@ -1,1 +1,1 @@
-var mnemonic = "fury hover letter wise subway language easy veteran typical burden merit churn";
+var mnemonic = "reduce diagram ritual miracle drop mountain inch know glass chapter village embrace";

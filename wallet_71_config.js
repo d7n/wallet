@@ -1,1 +1,1 @@
-var mnemonic = "cool father creek angle help target aim right captain cook hurt gasp";
+var mnemonic = "rifle sweet panda clock early feel illegal spring length blue rapid offer";

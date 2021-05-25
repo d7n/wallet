@@ -1,1 +1,1 @@
-var mnemonic = "forget uphold junk segment must faith harsh change belt robot annual mind";
+var mnemonic = "stool patrol wonder peace regular twelve service river emotion penalty rent cry";
