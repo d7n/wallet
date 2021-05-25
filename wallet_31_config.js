@@ -1,1 +1,1 @@
-var mnemonic = "clog deliver derive error enough prosper despair fossil pass bridge park item";
+var mnemonic = "month tenant upon blouse admit detail pause job execute dilemma celery ripple";

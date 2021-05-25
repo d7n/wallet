@@ -1,1 +1,1 @@
-var mnemonic = "meat easy armor recipe other shadow faculty script word network gown orange";
+var mnemonic = "much ball dirt curtain vicious then know dust reveal concert pistol ghost";

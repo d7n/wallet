@@ -1,1 +1,1 @@
-var mnemonic = "weekend chair donkey safe fabric suit cluster divert category ritual buzz special";
+var mnemonic = "accuse rib direct wash live stomach right media theory start elbow later";

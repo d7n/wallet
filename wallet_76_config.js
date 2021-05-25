@@ -1,1 +1,1 @@
-var mnemonic = "people asset wealth total tide you kite fashion bridge december awake survey";
+var mnemonic = "diesel sand frog wealth vacuum below employ belt build near toward large";

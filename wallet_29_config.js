@@ -1,1 +1,1 @@
-var mnemonic = "appear shop garage peace ice claw hawk sure heavy walk trophy injury";
+var mnemonic = "unaware bleak flight assist exhaust man tent open buffalo kidney radio domain";

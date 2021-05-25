@@ -1,1 +1,1 @@
-var mnemonic = "can install twice exhibit mail fine blush include park saddle tongue all";
+var mnemonic = "lock balcony glue plug replace flip display high hobby arrow visa right";

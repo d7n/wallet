@@ -1,1 +1,1 @@
-var mnemonic = "hazard scene until quick tunnel coffee recipe belt spatial pilot group ahead";
+var mnemonic = "silver topic expect zone vocal hire flee phone exercise danger youth divide";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery math lady cycle main kick vibrant allow taxi session buffalo peanut";
+var mnemonic = "uphold enter remember easy weapon piece brick picture initial suffer social prevent";

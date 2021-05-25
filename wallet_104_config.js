@@ -1,1 +1,1 @@
-var mnemonic = "clown orchard shiver tide chronic profit stable page lion youth behave home";
+var mnemonic = "squirrel decline tell card tomorrow guide police theme waste blast guitar cereal";

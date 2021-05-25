@@ -1,1 +1,1 @@
-var mnemonic = "special frozen bachelor usual clutch barrel dish injury increase okay jelly pistol";
+var mnemonic = "idea public auto concert stairs machine ill sheriff error permit warm shiver";

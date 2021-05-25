@@ -1,1 +1,1 @@
-var mnemonic = "stock swift govern price afraid combine oil milk join siege earn rescue";
+var mnemonic = "dwarf pistol october mass tongue weather creek bulk mobile legend effort void";

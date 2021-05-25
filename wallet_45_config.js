@@ -1,1 +1,1 @@
-var mnemonic = "vocal film enable duck hidden say congress lift deliver banner cattle lounge";
+var mnemonic = "educate mosquito hawk food badge motor image wreck network whip wood assume";

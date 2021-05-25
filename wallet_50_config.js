@@ -1,1 +1,1 @@
-var mnemonic = "battle tiny clerk talent glove diet universe tiger machine antique tornado eyebrow";
+var mnemonic = "recycle replace toss exclude turtle angle draw tube end across inch dawn";

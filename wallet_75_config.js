@@ -1,1 +1,1 @@
-var mnemonic = "make galaxy soldier code dress need side grid modify balance deputy license";
+var mnemonic = "trigger outside copper defense gentle lecture measure left rare jealous split ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "tree divide medal cradle reject ghost faculty hamster edge ball measure clinic";
+var mnemonic = "tape lab flock limb neutral cloth gravity convince friend client teach myth";

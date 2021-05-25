@@ -1,1 +1,1 @@
-var mnemonic = "bunker script canyon helmet chair rough author worth lake addict recipe snack";
+var mnemonic = "bubble legend other jelly wheel among mouse whale stool vapor march weird";

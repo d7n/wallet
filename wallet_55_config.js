@@ -1,1 +1,1 @@
-var mnemonic = "runway say promote lunch pulp early crane donor kit output spell shrug";
+var mnemonic = "dress federal mutual evolve cute crew ladder view bag monitor soda winter";

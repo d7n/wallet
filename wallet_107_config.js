@@ -1,1 +1,1 @@
-var mnemonic = "few hub kitchen dove hurry suffer spring output upgrade stem cover pull";
+var mnemonic = "brief aerobic smart awesome aunt radio person barrel donkey hundred eight mouse";

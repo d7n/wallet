@@ -1,1 +1,1 @@
-var mnemonic = "ritual people sure bubble patrol satoshi unhappy chef miss vacant paddle glow";
+var mnemonic = "bike gym spring vast awesome boring cart tray brisk frog void furnace";

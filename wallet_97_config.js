@@ -1,1 +1,1 @@
-var mnemonic = "negative alter biology crane hard verify page unknown awful parrot fat solve";
+var mnemonic = "expand sketch crowd start include mouse fade round crunch kingdom repair debate";

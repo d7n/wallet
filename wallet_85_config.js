@@ -1,1 +1,1 @@
-var mnemonic = "parent boy what forum pulp cloud patrol talent stand trap rough lumber";
+var mnemonic = "expect easy height verify foam fee rally seek prize lonely collect blush";

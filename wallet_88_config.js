@@ -1,1 +1,1 @@
-var mnemonic = "assume vacuum bar fluid they vacuum brain stairs dish stove own obscure";
+var mnemonic = "dynamic flag visual digital runway scan spoil victory wheel ripple debris enough";

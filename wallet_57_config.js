@@ -1,1 +1,1 @@
-var mnemonic = "conduct firm element path analyst hard next address use joy proof can";
+var mnemonic = "picture start thumb omit water because best afford blanket kitten price genuine";

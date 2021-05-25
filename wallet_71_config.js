@@ -1,1 +1,1 @@
-var mnemonic = "vibrant never tail expand ugly unaware smile normal swap used wasp boil";
+var mnemonic = "chicken act awkward episode sauce butter quiz pupil gloom donate wire burst";

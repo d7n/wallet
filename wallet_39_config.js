@@ -1,1 +1,1 @@
-var mnemonic = "fat trap frequent shallow else cool rude water page awful sort proof";
+var mnemonic = "impulse decline soup shiver drop pumpkin tissue seed mosquito quarter fence pulse";

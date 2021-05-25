@@ -1,1 +1,1 @@
-var mnemonic = "glove banner menu toilet bone ankle patient dragon merit garden tube vessel";
+var mnemonic = "pig alert whale festival result lizard waste grass will sell pretty express";

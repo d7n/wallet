@@ -1,1 +1,1 @@
-var mnemonic = "powder surface solve angle nasty airport cost round float spider tragic catch";
+var mnemonic = "please forum body wealth piece unveil term limb noodle amazing gather soon";

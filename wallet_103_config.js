@@ -1,1 +1,1 @@
-var mnemonic = "surface hungry word wrap vicious smart nation coyote armed chimney tank own";
+var mnemonic = "shop faculty opera curve volcano believe cheese pet supply until accuse evoke";

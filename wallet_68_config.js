@@ -1,1 +1,1 @@
-var mnemonic = "twist blast illness repeat defense apart impact tomorrow priority option loyal taxi";
+var mnemonic = "virus avocado mosquito decade today page afraid depend music between width surface";

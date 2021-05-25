@@ -1,1 +1,1 @@
-var mnemonic = "eye alcohol future dream six tape olive mouse tail vacant reform essence";
+var mnemonic = "social dumb inspire screen educate chase excuse begin loud donate toast pizza";

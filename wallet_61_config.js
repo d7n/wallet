@@ -1,1 +1,1 @@
-var mnemonic = "dirt cactus nothing humor slow pigeon thought onion wait power gather series";
+var mnemonic = "body audit lumber silk fruit force shed tobacco spice because position rude";

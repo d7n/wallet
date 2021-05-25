@@ -1,1 +1,1 @@
-var mnemonic = "fragile anxiety letter fold rose frown caught size mechanic venture able permit";
+var mnemonic = "slogan away tooth remove balance program risk pencil bronze camp valve exotic";

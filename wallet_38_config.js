@@ -1,1 +1,1 @@
-var mnemonic = "oyster flat lake crew cabin own certain dumb bench scale fence busy";
+var mnemonic = "cave drama borrow eyebrow gravity spike slender horse album slim ostrich universe";

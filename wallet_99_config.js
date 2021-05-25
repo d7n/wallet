@@ -1,1 +1,1 @@
-var mnemonic = "moment soldier caught blame captain lawsuit side junk sniff unusual expire uncle";
+var mnemonic = "water cat romance sight spice style embark grab retire drift spoil first";

@@ -1,1 +1,1 @@
-var mnemonic = "frown say pull mad sugar gun ranch express antique disagree damage cake";
+var mnemonic = "rare rather that wait frown gadget mammal strategy special sunset circle camera";

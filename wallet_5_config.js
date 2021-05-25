@@ -1,1 +1,1 @@
-var mnemonic = "nurse nice razor muffin gun woman labor output evil property universe manual";
+var mnemonic = "scare maple grief typical tired dignity recipe improve destroy vintage object jacket";

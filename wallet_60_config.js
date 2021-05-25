@@ -1,1 +1,1 @@
-var mnemonic = "indoor rack broken proof trade fragile rubber snake food furnace urban million";
+var mnemonic = "route initial wink labor credit pact shock student cabin flower sudden music";

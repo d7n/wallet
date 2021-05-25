@@ -1,1 +1,1 @@
-var mnemonic = "legal alpha horn pear transfer gold inmate own text define copper fold";
+var mnemonic = "winner marriage mountain ivory panda master pond sword wealth kidney devote mention";

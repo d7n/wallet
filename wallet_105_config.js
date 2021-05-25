@@ -1,1 +1,1 @@
-var mnemonic = "arm test common list steel stuff bottom industry retreat quarter crane sure";
+var mnemonic = "wash venture fix chat jelly year tower trim sample soldier job home";

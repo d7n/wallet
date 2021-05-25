@@ -1,1 +1,1 @@
-var mnemonic = "route excuse notice win piano plate suspect stamp version invite gate scene";
+var mnemonic = "during army angry ship daughter fruit cigar random glue legal cancel anxiety";

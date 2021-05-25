@@ -1,1 +1,1 @@
-var mnemonic = "song eagle scan message jewel cactus dream carpet tent icon spice initial";
+var mnemonic = "marine husband human table rural amazing ready beauty stick canoe rocket same";

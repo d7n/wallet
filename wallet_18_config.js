@@ -1,1 +1,1 @@
-var mnemonic = "define oak dream mystery sniff artefact hotel clean liquid bind ride hint";
+var mnemonic = "media frost harvest horn phrase hood snap fox blanket monitor push tragic";

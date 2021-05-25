@@ -1,1 +1,1 @@
-var mnemonic = "radio buyer topic lemon ocean goat right lift nut world ahead pond";
+var mnemonic = "pride surprise quality ritual lucky suggest wreck burden profit fever come nurse";

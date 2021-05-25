@@ -1,1 +1,1 @@
-var mnemonic = "apart right evoke dry fit year absurd crowd indoor treat fork gorilla";
+var mnemonic = "loop absent toilet abuse move sentence gorilla warm bicycle puppy mention subject";

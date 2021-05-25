@@ -1,1 +1,1 @@
-var mnemonic = "dolphin travel year outer fancy leg lemon funny crawl smart produce prepare";
+var mnemonic = "prepare crash climb tilt wrap turkey thunder smooth manage genre sort insane";

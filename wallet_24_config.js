@@ -1,1 +1,1 @@
-var mnemonic = "sure ladder yellow brisk swarm antenna lunch frost cricket permit duty drink";
+var mnemonic = "industry point three cherry quantum drift enforce arctic hover drum key rifle";

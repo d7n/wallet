@@ -1,1 +1,1 @@
-var mnemonic = "safe slender special rifle purity thing any require badge city turkey buzz";
+var mnemonic = "cradle silver husband swing champion viable city turn world among sunny virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "wall portion pilot rural bullet invest dose code enact snack chaos fetch";
+var mnemonic = "repair drop science south consider army umbrella net local profit fatal vacant";

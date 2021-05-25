@@ -1,1 +1,1 @@
-var mnemonic = "best machine olive close settle during garbage tone dose alarm remind song";
+var mnemonic = "client item office fatigue famous inch gaze settle wonder profit lyrics word";

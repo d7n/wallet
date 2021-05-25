@@ -1,1 +1,1 @@
-var mnemonic = "member flag frost kingdom mystery day bench agent feed suffer zone bubble";
+var mnemonic = "circle soul require rival rabbit range cradle awake magnet antenna rigid grace";

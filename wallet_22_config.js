@@ -1,1 +1,1 @@
-var mnemonic = "blush roof teach model fragile tail forget what guess throw monitor cave";
+var mnemonic = "organ guide parrot promote below yard prefer volume tiger veteran inject unique";

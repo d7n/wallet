@@ -1,1 +1,1 @@
-var mnemonic = "carpet alley job glare oak flush chase change engine limit juice camera";
+var mnemonic = "silver drama clump consider holiday lazy few rain fury face merit wing";

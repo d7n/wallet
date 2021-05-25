@@ -1,1 +1,1 @@
-var mnemonic = "cargo mandate height pudding hub sing either emerge train portion sea process";
+var mnemonic = "measure pass observe powder absurd blue cage three bicycle useful gas train";

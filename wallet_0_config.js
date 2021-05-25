@@ -1,1 +1,1 @@
-var mnemonic = "art aware dilemma echo now shock health obey lunar wage auction mesh";
+var mnemonic = "marine kitten wonder cigar repair busy knee host roof social tooth domain";

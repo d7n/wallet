@@ -1,1 +1,1 @@
-var mnemonic = "bomb question okay polar inflict faint loud just lift mother refuse squirrel";
+var mnemonic = "man word move tooth pitch voice journey soldier thought recycle process solve";

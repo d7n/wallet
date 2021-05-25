@@ -1,1 +1,1 @@
-var mnemonic = "bench hurdle term pledge replace avocado purity number vapor method blur labor";
+var mnemonic = "seed stable spin glare category neglect drip slam embark motion hood fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate possible develop attack crystal trial echo mixture cancel require shift gather";
+var mnemonic = "pepper wild page credit volcano solve disagree library wool claw mercy math";

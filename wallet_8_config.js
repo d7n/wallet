@@ -1,1 +1,1 @@
-var mnemonic = "ball labor banana update tumble relax art check emotion under budget mercy";
+var mnemonic = "hospital artist sausage mass vote dolphin attend certain garden dry animal hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "race traffic priority kiwi split genuine pumpkin tower waste move aunt veteran";
+var mnemonic = "tuna term ability travel tone romance base scrub resource enrich exit tonight";

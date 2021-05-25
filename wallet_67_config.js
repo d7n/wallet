@@ -1,1 +1,1 @@
-var mnemonic = "level mask all public follow receive obtain vicious creek special enjoy custom";
+var mnemonic = "ship soul buffalo stove price envelope smart begin luxury suffer misery inflict";

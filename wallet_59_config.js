@@ -1,1 +1,1 @@
-var mnemonic = "monitor year fetch moment empty swift laptop banner steel cart expose person";
+var mnemonic = "virtual life ball giant pupil comic oven pottery oak solution rapid attitude";

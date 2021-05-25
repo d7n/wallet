@@ -1,1 +1,1 @@
-var mnemonic = "bounce maple melody learn scout change flock champion hold party seat easily";
+var mnemonic = "cry ten burst wasp dragon cereal vessel main diet dad thunder worth";

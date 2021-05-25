@@ -1,1 +1,1 @@
-var mnemonic = "track crack fix rug arrow dinner plate spot glance enact music twelve";
+var mnemonic = "nephew sample various topple dinner october dog option pepper hammer pitch drift";

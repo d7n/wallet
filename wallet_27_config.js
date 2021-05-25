@@ -1,1 +1,1 @@
-var mnemonic = "present update sweet together grass auction sad course dirt aisle enable spell";
+var mnemonic = "model ozone wreck isolate dolphin ahead pave inner picnic clump heavy pencil";

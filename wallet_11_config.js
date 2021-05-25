@@ -1,1 +1,1 @@
-var mnemonic = "advice basket sword promote tortoise lunar lift explain file farm top escape";
+var mnemonic = "taxi ball certain leave machine plate twist side analyst clerk asset thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "educate nothing then company student attract permit party already call absent mobile";
+var mnemonic = "silly palm fox traffic argue cement rival grief awkward cook combine unusual";

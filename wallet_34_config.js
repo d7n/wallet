@@ -1,1 +1,1 @@
-var mnemonic = "prize sport away family unknown reject swim clinic trophy ginger version leisure";
+var mnemonic = "cross truly trumpet nation merry accident math ignore orchard gloom poverty south";

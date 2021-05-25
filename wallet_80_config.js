@@ -1,1 +1,1 @@
-var mnemonic = "top ability exchange amused youth border better style clog evolve scissors pipe";
+var mnemonic = "spread board rare cheese distance sign erosion appear actress picnic solar inhale";

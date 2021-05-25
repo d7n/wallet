@@ -1,1 +1,1 @@
-var mnemonic = "danger cement spawn volume better derive bench around pizza identify humble sleep";
+var mnemonic = "burger risk clog always cake milk outside left shock sadness diamond evil";

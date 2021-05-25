@@ -1,1 +1,1 @@
-var mnemonic = "inside toddler melody lucky clutch domain exist palm cycle piano wrong army";
+var mnemonic = "issue token mobile pumpkin upon face select extra pattern vanish enter fork";

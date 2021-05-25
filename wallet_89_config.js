@@ -1,1 +1,1 @@
-var mnemonic = "arrive envelope noble security glide remove blast neither trend super mixed minimum";
+var mnemonic = "quiz cousin fancy permit weasel rural naive level scrap sunny dress emotion";

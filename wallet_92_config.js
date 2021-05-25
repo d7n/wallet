@@ -1,1 +1,1 @@
-var mnemonic = "box lazy private fetch crisp push wear exotic whip inside banner actual";
+var mnemonic = "stomach food demise idea zero old lens smile cup proud plug light";

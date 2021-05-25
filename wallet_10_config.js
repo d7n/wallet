@@ -1,1 +1,1 @@
-var mnemonic = "hello become pact length crystal direct lunch roof share increase regret hat";
+var mnemonic = "cause capital ice license wood property mosquito moment thrive sibling comfort size";

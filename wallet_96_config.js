@@ -1,1 +1,1 @@
-var mnemonic = "shed spatial same today can rice foot strategy entry opera boil inside";
+var mnemonic = "amazing oak tool focus insane return bind session field tongue blast ball";

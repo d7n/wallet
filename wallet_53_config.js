@@ -1,1 +1,1 @@
-var mnemonic = "afford luggage fruit reason decide anger fix enable rebuild taxi envelope zone";
+var mnemonic = "dog panda cool truly enough maple clay carpet camp auction snap baby";

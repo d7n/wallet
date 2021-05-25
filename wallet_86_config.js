@@ -1,1 +1,1 @@
-var mnemonic = "orchard robot visual concert series goose year rigid shoulder zero firm reunion";
+var mnemonic = "blast all dwarf wheel peace effort pyramid gauge assist satisfy daughter ridge";

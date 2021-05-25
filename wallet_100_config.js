@@ -1,1 +1,1 @@
-var mnemonic = "assault cattle bone faculty obvious exit asthma enough rhythm someone verb filter";
+var mnemonic = "once border expand river name fold surround boost core write disorder entry";

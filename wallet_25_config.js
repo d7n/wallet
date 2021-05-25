@@ -1,1 +1,1 @@
-var mnemonic = "enroll moon inquiry thunder another fish virus leisure key armor view trophy";
+var mnemonic = "inflict portion sing mass first category stage cage feed subway text violin";

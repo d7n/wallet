@@ -1,1 +1,1 @@
-var mnemonic = "foil shoulder icon census bounce buffalo industry mechanic treat erase burst oppose";
+var mnemonic = "mandate alert razor person sport faculty banner motion chair danger soon plate";

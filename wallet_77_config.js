@@ -1,1 +1,1 @@
-var mnemonic = "dignity round small blade gloom island pull deputy grunt moon relief approve";
+var mnemonic = "fix sea feature bring kick trophy robust bitter blouse legend elder health";

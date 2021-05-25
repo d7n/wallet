@@ -1,1 +1,1 @@
-var mnemonic = "method muffin snow fitness pet expire kiss velvet crime coin catalog runway";
+var mnemonic = "pattern bunker food bone model slim reject visa blade various pony caught";

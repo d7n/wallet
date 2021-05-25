@@ -1,1 +1,1 @@
-var mnemonic = "public viable repair busy forget oyster firm bleak certain judge museum marble";
+var mnemonic = "visual object duty void cloud federal win layer gadget seven nurse math";

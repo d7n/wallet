@@ -1,1 +1,1 @@
-var mnemonic = "evoke retire mixed bulk cat pistol caution tray busy jacket dolphin build";
+var mnemonic = "situate impulse wedding tone lake gain october crazy spike file crane cattle";

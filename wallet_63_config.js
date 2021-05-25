@@ -1,1 +1,1 @@
-var mnemonic = "access bone caught video vessel truly desert sweet fragile subway brain truth";
+var mnemonic = "loud error taste misery carry time scheme program body toddler inhale autumn";

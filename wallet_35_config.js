@@ -1,1 +1,1 @@
-var mnemonic = "drama humor news crime cargo social same defy accuse road ten glue";
+var mnemonic = "shove metal certain fantasy foot gesture enlist differ interest bronze slide dress";

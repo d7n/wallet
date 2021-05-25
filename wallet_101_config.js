@@ -1,1 +1,1 @@
-var mnemonic = "enough void dismiss into leaf pioneer twin reward spatial abandon nurse bounce";
+var mnemonic = "public maze blind brisk chaos amateur gold void brave output chat flame";

@@ -1,1 +1,1 @@
-var mnemonic = "impact arctic hedgehog siren better genius elephant rapid praise tribe plastic belt";
+var mnemonic = "record sting luggage cruise train range dream pretty good rebel cabbage price";

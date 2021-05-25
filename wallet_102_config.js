@@ -1,1 +1,1 @@
-var mnemonic = "approve relief giraffe praise silk holiday pupil coffee rail quick bundle know";
+var mnemonic = "blame offer title jealous goddess essence seek spare example useless abuse illegal";

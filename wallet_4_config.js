@@ -1,1 +1,1 @@
-var mnemonic = "brush salute reveal dismiss cupboard reject pole lucky top fit nominee donate";
+var mnemonic = "satoshi december cousin bunker film quick divorce task divert betray coach long";
