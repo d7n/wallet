@@ -1,1 +1,1 @@
-var mnemonic = "news remain assist sentence fun amount problem process chuckle swim multiply supply";
+var mnemonic = "gown smart about improve labor before mention planet mistake unhappy bike ten";

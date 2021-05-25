@@ -1,1 +1,1 @@
-var mnemonic = "silver person harbor delay fish phrase bitter cricket trigger hockey fresh velvet";
+var mnemonic = "property select sentence kidney valid eager hat scatter fence interest able miss";

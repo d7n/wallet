@@ -1,1 +1,1 @@
-var mnemonic = "rally version faculty express early journey crack crop today thunder rebel innocent";
+var mnemonic = "cart festival license casino tree shoulder forward dinner defy coffee wet escape";

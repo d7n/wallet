@@ -1,1 +1,1 @@
-var mnemonic = "bridge copper favorite concert ladder oil scene card opinion enter label affair";
+var mnemonic = "scout laugh riot unhappy wet paper head dash spread flock orange chapter";

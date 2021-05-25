@@ -1,1 +1,1 @@
-var mnemonic = "point black gravity december weather first motion parrot online zone arrange page";
+var mnemonic = "state alert access machine sauce input deputy ceiling twice praise solve dinner";

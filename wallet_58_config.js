@@ -1,1 +1,1 @@
-var mnemonic = "popular manual slogan hello jelly layer illness cereal main occur frozen harbor";
+var mnemonic = "deny horror poverty loyal hint elegant flavor across amateur bachelor dynamic dune";

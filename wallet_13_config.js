@@ -1,1 +1,1 @@
-var mnemonic = "junior save glue catalog reform slab member afraid tomato jealous friend bus";
+var mnemonic = "equip fee notice sure prefer spring often guide crush giant flee tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "matter garden december flash doctor index adjust monkey tuna guard siren horn";
+var mnemonic = "unknown shine rotate spell obey file promote daughter gadget unique badge nerve";

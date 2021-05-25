@@ -1,1 +1,1 @@
-var mnemonic = "phrase rocket fork monitor faculty hint ring drill pull clay lawn squirrel";
+var mnemonic = "until reveal six phone sell utility cat bar surround vivid curtain develop";

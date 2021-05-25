@@ -1,1 +1,1 @@
-var mnemonic = "furnace lens wild monster sugar grow flavor taste business salmon salad task";
+var mnemonic = "draw setup vault analyst normal cover venture van report opinion mechanic elbow";

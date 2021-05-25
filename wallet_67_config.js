@@ -1,1 +1,1 @@
-var mnemonic = "lens stay wreck wonder breeze duty ball soft round nothing century wrong";
+var mnemonic = "luggage beef dignity art luggage oppose radio slogan hurdle remind popular hazard";

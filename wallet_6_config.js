@@ -1,1 +1,1 @@
-var mnemonic = "barrel blast rapid battle ensure hip envelope rhythm boost novel unable cactus";
+var mnemonic = "trigger raise convince mask crunch reopen barely dress fringe total outdoor eternal";

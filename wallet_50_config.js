@@ -1,1 +1,1 @@
-var mnemonic = "battle erase people tenant donkey parent spread output toward interest margin keep";
+var mnemonic = "duty midnight tray transfer visa access giant fold jaguar rail run bracket";

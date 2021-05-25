@@ -1,1 +1,1 @@
-var mnemonic = "secret luxury name opinion inside home yard much dragon child pistol remember";
+var mnemonic = "venue pitch arch timber brand aisle bid debate skate detect noise clarify";

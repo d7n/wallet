@@ -1,1 +1,1 @@
-var mnemonic = "frog dinner intact danger frequent pyramid nephew admit brand history arena voice";
+var mnemonic = "chapter evidence all question culture minute certain absurd banner ozone napkin devote";

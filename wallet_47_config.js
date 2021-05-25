@@ -1,1 +1,1 @@
-var mnemonic = "ethics flee inform gravity stove away pigeon rude fetch tower scare post";
+var mnemonic = "long rail derive describe swim manage visit sister start couple year evil";

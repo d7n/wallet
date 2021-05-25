@@ -1,1 +1,1 @@
-var mnemonic = "matrix assume toddler car one embody still cry visit army about element";
+var mnemonic = "middle drill hurdle nice thrive execute rookie law talent pole plunge coast";

@@ -1,1 +1,1 @@
-var mnemonic = "marine police fiscal next leg soon ahead today jelly move blood use";
+var mnemonic = "fiction release fetch walk require announce price pepper save custom rally elbow";

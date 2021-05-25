@@ -1,1 +1,1 @@
-var mnemonic = "cluster quarter cheese box hybrid prepare summer artefact blouse legend female song";
+var mnemonic = "exhaust recall festival endorse camera mansion three crystal about joke leader main";

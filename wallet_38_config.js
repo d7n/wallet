@@ -1,1 +1,1 @@
-var mnemonic = "egg build amount forget jazz bean execute swarm umbrella fortune divorce stadium";
+var mnemonic = "junk useful tackle crazy abuse suffer control vintage city enhance shrug essay";

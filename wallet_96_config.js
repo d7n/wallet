@@ -1,1 +1,1 @@
-var mnemonic = "grid already walnut spoil crop order coin bounce rate planet empty shadow";
+var mnemonic = "someone mammal bacon moral steel limit cliff trim survey rocket blouse submit";

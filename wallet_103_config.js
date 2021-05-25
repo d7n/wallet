@@ -1,1 +1,1 @@
-var mnemonic = "process abuse sadness anger develop ten use employ tortoise autumn imitate change";
+var mnemonic = "word valve page chief book funny hazard canvas plastic twist type hammer";

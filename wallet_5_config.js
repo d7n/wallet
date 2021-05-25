@@ -1,1 +1,1 @@
-var mnemonic = "model govern laptop outside erode learn erupt increase lobster mention pet peasant";
+var mnemonic = "zoo squeeze palace violin flee moral again credit control lyrics tool shock";

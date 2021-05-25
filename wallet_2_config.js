@@ -1,1 +1,1 @@
-var mnemonic = "forum fat basic desk network erosion refuse put asthma apology water add";
+var mnemonic = "order place virus flat library total quote joke yellow region two swift";

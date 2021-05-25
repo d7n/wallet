@@ -1,1 +1,1 @@
-var mnemonic = "regular there tobacco choice start wave warfare basic marine game proud blue";
+var mnemonic = "close diary junior peanut wash age match paddle twist south enemy sauce";

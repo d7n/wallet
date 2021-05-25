@@ -1,1 +1,1 @@
-var mnemonic = "point energy fee alcohol garage bag sick ladder base island fold side";
+var mnemonic = "six estate screen prevent tower indicate either copy lava coast country confirm";

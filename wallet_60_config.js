@@ -1,1 +1,1 @@
-var mnemonic = "sort alpha wrist close hero come loud strike pulse syrup debate emotion";
+var mnemonic = "near pioneer grief roast rug portion reform depart hat script access artefact";

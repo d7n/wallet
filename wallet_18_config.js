@@ -1,1 +1,1 @@
-var mnemonic = "easily you reflect what upper news era capital offer click analyst egg";
+var mnemonic = "suggest chest skate obvious plunge fold lake horn coyote weather wood pizza";

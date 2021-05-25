@@ -1,1 +1,1 @@
-var mnemonic = "tornado moral cable barely deer track toast stool spread glide margin dress";
+var mnemonic = "gloom gate capital nice anchor write foster address civil tattoo ability avocado";

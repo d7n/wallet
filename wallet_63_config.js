@@ -1,1 +1,1 @@
-var mnemonic = "soccer offer leg title labor degree scare cabin resist emerge cart equip";
+var mnemonic = "gadget wage recycle rookie excite motion antique gallery future wing bright climb";

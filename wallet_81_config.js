@@ -1,1 +1,1 @@
-var mnemonic = "leopard track faculty case perfect head chimney print begin shuffle dawn nation";
+var mnemonic = "slot write street local garbage unlock zebra tide giraffe update industry bounce";

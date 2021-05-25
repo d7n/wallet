@@ -1,1 +1,1 @@
-var mnemonic = "tomato swallow inhale faint suggest surround copy team lazy impose feel frequent";
+var mnemonic = "acid grid pact orbit afford indicate major journey spawn lens fruit mutual";

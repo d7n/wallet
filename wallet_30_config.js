@@ -1,1 +1,1 @@
-var mnemonic = "crowd ritual reason insane island install flat aspect reveal feed tilt material";
+var mnemonic = "elephant speak snow resist rack inject drop leopard race settle finish income";

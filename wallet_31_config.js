@@ -1,1 +1,1 @@
-var mnemonic = "innocent dolphin ghost clap scrap guilt funny boss shock life vehicle champion";
+var mnemonic = "muscle stem key forest crunch duck frame cat final picture squirrel fancy";

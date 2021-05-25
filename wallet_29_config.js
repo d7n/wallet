@@ -1,1 +1,1 @@
-var mnemonic = "envelope key cushion zero since powder ensure basket sister novel usage shift";
+var mnemonic = "reform permit net twenty phone bike canvas stock prosper again mouse slender";

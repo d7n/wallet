@@ -1,1 +1,1 @@
-var mnemonic = "worry act clinic imitate whisper brief razor love assume charge burst dust";
+var mnemonic = "affair basket silver pepper ramp useless wreck run mother spring program such";

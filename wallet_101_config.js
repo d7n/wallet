@@ -1,1 +1,1 @@
-var mnemonic = "pear mammal normal panic relief female match gospel install belt stereo super";
+var mnemonic = "undo drip tray alley steak trust table mail right letter chalk emotion";

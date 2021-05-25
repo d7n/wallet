@@ -1,1 +1,1 @@
-var mnemonic = "magnet milk honey squeeze become govern venture pulp work height orange educate";
+var mnemonic = "mom fat marine relax twin obtain say weird wine frown oil avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "female tag more slight zero place crawl thank put jungle table soon";
+var mnemonic = "quantum album brush recycle kit input misery stool horror make tenant legal";

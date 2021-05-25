@@ -1,1 +1,1 @@
-var mnemonic = "tank gun urge saddle power enable animal spoil universe fun october drama";
+var mnemonic = "tower way shift shallow twin sound security portion end team thunder taxi";

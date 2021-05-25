@@ -1,1 +1,1 @@
-var mnemonic = "toilet tribe age cradle grace inquiry february page couch scan fish depart";
+var mnemonic = "warfare enlist topic together solar amount review indoor maple save crush magic";

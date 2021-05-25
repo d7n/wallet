@@ -1,1 +1,1 @@
-var mnemonic = "crunch crane simple fault trade addict nut mobile other rabbit raccoon canyon";
+var mnemonic = "humble trim skill sail slide royal electric hat rib flag earth tiny";

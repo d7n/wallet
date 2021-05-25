@@ -1,1 +1,1 @@
-var mnemonic = "cricket wisdom distance tape hobby misery dizzy defense grid spray almost empty";
+var mnemonic = "cupboard oppose matter logic bread cancel emerge minor yard pretty flag govern";

@@ -1,1 +1,1 @@
-var mnemonic = "glare grow inspire unknown grunt adapt enhance hawk enroll settle spoon three";
+var mnemonic = "kidney ocean skull onion crash gate merge weekend layer sample ribbon pave";

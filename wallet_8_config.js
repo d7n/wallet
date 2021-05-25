@@ -1,1 +1,1 @@
-var mnemonic = "add satisfy chief ridge boat they fire ring make local obscure turkey";
+var mnemonic = "praise office produce story exotic valley guide decline file chair double hollow";

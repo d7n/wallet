@@ -1,1 +1,1 @@
-var mnemonic = "jungle under develop place want sorry ostrich icon impact limb among blue";
+var mnemonic = "symptom stool panther blanket just rookie rely depart mimic glass badge repair";

@@ -1,1 +1,1 @@
-var mnemonic = "fix truck problem sail hip hybrid wish spot twist swear regular shallow";
+var mnemonic = "crouch express alien zoo release remind scan vintage follow leader combine tower";

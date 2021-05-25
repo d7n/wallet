@@ -1,1 +1,1 @@
-var mnemonic = "whisper bone umbrella economy broom fever involve release super extend trade convince";
+var mnemonic = "dizzy acoustic leisure giggle minute cricket rifle protect capital swim strike round";

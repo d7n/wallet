@@ -1,1 +1,1 @@
-var mnemonic = "essay buzz asthma claw ancient sauce canyon sustain answer isolate betray tennis";
+var mnemonic = "dry abuse cycle margin ghost romance uniform dinner embrace sail isolate fine";

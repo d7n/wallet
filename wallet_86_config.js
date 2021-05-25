@@ -1,1 +1,1 @@
-var mnemonic = "pony tobacco advice drop angle decrease fuel must flock forward ghost antique";
+var mnemonic = "famous put liar valid issue retreat fury mean proof jacket fantasy brand";

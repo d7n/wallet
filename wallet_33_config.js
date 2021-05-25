@@ -1,1 +1,1 @@
-var mnemonic = "crunch dress advance inmate badge abuse embrace swim detect code book session";
+var mnemonic = "put motor cricket head session patch couple huge riot ask hamster security";

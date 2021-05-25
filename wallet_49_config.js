@@ -1,1 +1,1 @@
-var mnemonic = "symptom expand position month turtle satoshi heavy profit host adult obtain output";
+var mnemonic = "open debate entire board medal slogan base tell fever panda couple kiss";

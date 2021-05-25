@@ -1,1 +1,1 @@
-var mnemonic = "observe wife capital shop manual resist hungry ice pause ten liquid student";
+var mnemonic = "awkward undo method daughter despair income before chapter expand silly accuse economy";

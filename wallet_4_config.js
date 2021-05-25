@@ -1,1 +1,1 @@
-var mnemonic = "address chase female allow clean indoor humor disagree small chapter comfort exact";
+var mnemonic = "vocal barrel social blanket affair pear give lyrics city trim fatal coin";

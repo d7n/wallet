@@ -1,1 +1,1 @@
-var mnemonic = "unusual brand vintage book salt half pride crawl spider annual island pledge";
+var mnemonic = "shine skill limit system double install bachelor imitate nominee pond immense industry";

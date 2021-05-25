@@ -1,1 +1,1 @@
-var mnemonic = "canvas type label slight olympic craft film pet fade icon donkey miracle";
+var mnemonic = "secret hour okay doctor impact nation motor panel trouble debate jungle member";

@@ -1,1 +1,1 @@
-var mnemonic = "curious holiday what random ostrich pepper mechanic web electric laundry manual shallow";
+var mnemonic = "connect orbit idea trap hold scrap history filter ten machine casino example";

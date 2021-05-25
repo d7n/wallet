@@ -1,1 +1,1 @@
-var mnemonic = "desk issue rebel auto defy giggle glove source fitness want expire gesture";
+var mnemonic = "despair monitor frequent person test rain pink zone year exit hockey worth";

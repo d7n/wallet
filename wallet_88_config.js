@@ -1,1 +1,1 @@
-var mnemonic = "cave share sign canal someone genuine tube pistol wreck crop shrug venue";
+var mnemonic = "rate alley crime nation pumpkin work traffic slab place sphere trash domain";

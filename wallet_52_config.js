@@ -1,1 +1,1 @@
-var mnemonic = "embrace demand mom judge eyebrow predict air gravity chaos relief bench dog";
+var mnemonic = "cute release offer swarm grocery immense sword veteran dice unit team volume";

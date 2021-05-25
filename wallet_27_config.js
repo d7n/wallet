@@ -1,1 +1,1 @@
-var mnemonic = "marriage peace unfair visa roast obvious already equal surround zone jar treat";
+var mnemonic = "build bright dentist coach exact recall token forward sand portion cream night";

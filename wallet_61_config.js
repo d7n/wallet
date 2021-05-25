@@ -1,1 +1,1 @@
-var mnemonic = "absorb company monster jar crouch coconut bunker teach attack render ability tonight";
+var mnemonic = "village absorb wire rebuild genre humor mansion burden foster inquiry raise wild";

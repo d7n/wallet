@@ -1,1 +1,1 @@
-var mnemonic = "parent vapor dutch furnace cute burger tomorrow wool gas brave medal call";
+var mnemonic = "when rent near argue pumpkin suffer random wash master tragic nerve promote";

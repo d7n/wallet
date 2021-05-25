@@ -1,1 +1,1 @@
-var mnemonic = "fish next insect tobacco monitor brown purse feed venue mirror hazard coach";
+var mnemonic = "foam orphan fish burst giant amateur napkin merge pear power slam extend";

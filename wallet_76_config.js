@@ -1,1 +1,1 @@
-var mnemonic = "silk acquire spike correct outdoor jungle solid dignity ship abuse caught rival";
+var mnemonic = "amazing repeat gauge shed silk load cactus learn conduct leaf vibrant replace";

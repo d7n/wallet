@@ -1,1 +1,1 @@
-var mnemonic = "solid journey shock key category code goose address cigar repeat injury venture";
+var mnemonic = "bright know video total goose valid erosion useful bottom feel tongue voyage";

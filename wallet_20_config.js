@@ -1,1 +1,1 @@
-var mnemonic = "sight pulse castle trip insane mistake genre clip state ring minute shrug";
+var mnemonic = "clown correct vacant drink speed angry pizza hold enemy priority team garden";

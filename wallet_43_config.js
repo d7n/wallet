@@ -1,1 +1,1 @@
-var mnemonic = "gauge picture lion ball ribbon rescue cabbage toe bounce trap flush pudding";
+var mnemonic = "shuffle code page citizen swift visa lawn cage cup fortune remove wagon";

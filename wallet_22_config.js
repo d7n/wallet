@@ -1,1 +1,1 @@
-var mnemonic = "choose zero bitter sport silver limit february fancy small account child thunder";
+var mnemonic = "machine noise rude sight scare rapid street auction leaf funny liquid social";

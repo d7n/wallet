@@ -1,1 +1,1 @@
-var mnemonic = "section eight task color proof milk average artist confirm gate square present";
+var mnemonic = "cabbage explain game cage black public toilet trap crouch depend close glance";

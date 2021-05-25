@@ -1,1 +1,1 @@
-var mnemonic = "truck maid limb disagree humor cluster doctor raccoon ability alarm degree eyebrow";
+var mnemonic = "book play six use save produce fabric nothing news awful dress color";

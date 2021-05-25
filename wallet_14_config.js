@@ -1,1 +1,1 @@
-var mnemonic = "edit naive sister rare hair result more course bike liberty large visa";
+var mnemonic = "effort truth raw engage cave theme radio pudding gain pony awake orphan";

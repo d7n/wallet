@@ -1,1 +1,1 @@
-var mnemonic = "hospital index lunch vapor lyrics monster giraffe disease similar zone consider error";
+var mnemonic = "chief release surprise office cup hollow park orbit rely unfair name divide";

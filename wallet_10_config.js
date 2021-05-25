@@ -1,1 +1,1 @@
-var mnemonic = "leopard off bike bleak olive oak tooth gallery attend lonely burden dolphin";
+var mnemonic = "outer polar surge wonder pelican laugh into pupil write way strong limb";

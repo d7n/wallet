@@ -1,1 +1,1 @@
-var mnemonic = "enlist antique chapter protect sad mind return crawl spring poem select table";
+var mnemonic = "milk flip female friend doctor weekend pave crowd theory clip empower reject";

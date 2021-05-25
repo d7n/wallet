@@ -1,1 +1,1 @@
-var mnemonic = "second insane usage jungle blur demise athlete poverty live tent inside another";
+var mnemonic = "elephant grief use gloom where shed sponsor simple bargain spirit outdoor recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen foil abuse axis polar very social awful soft cross they merit";
+var mnemonic = "target water scout husband sea east destroy chalk squirrel trick review imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon island sleep peace ring decorate place deposit when tomorrow lend music";
+var mnemonic = "glance have home super grit amount decide head grow also mother load";

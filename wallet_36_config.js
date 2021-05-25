@@ -1,1 +1,1 @@
-var mnemonic = "warfare police mesh type large kiss deliver lecture bottom fun donate lazy";
+var mnemonic = "soap zero air curious ginger cloud start category wonder staff pen stand";

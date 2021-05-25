@@ -1,1 +1,1 @@
-var mnemonic = "word border antenna apology jump april tumble citizen tennis gate unfold olive";
+var mnemonic = "edge dice impulse blood coral coconut wild few farm pumpkin name arrow";

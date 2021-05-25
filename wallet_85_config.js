@@ -1,1 +1,1 @@
-var mnemonic = "else vacuum genuine denial key step inherit sun coach funny prize sustain";
+var mnemonic = "focus walnut lawsuit fuel need control strategy arrow garage nasty main scene";
