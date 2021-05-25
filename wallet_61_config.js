@@ -1,1 +1,1 @@
-var mnemonic = "village brisk tobacco fun apology actor bean cover afford carbon home actress";
+var mnemonic = "boost table around stamp coin stumble tissue cost hedgehog mother stuff random";

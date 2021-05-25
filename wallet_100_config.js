@@ -1,1 +1,1 @@
-var mnemonic = "chest night child describe profit dilemma key nature space gasp parade nose";
+var mnemonic = "quantum galaxy nest reform mad interest chief around ribbon cram jelly orient";

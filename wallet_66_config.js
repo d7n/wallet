@@ -1,1 +1,1 @@
-var mnemonic = "virtual fossil quote enemy kitchen answer gasp lazy refuse reflect main swallow";
+var mnemonic = "plastic target craft ivory wolf fix luggage tip kitten reduce wide estate";

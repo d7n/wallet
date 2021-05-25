@@ -1,1 +1,1 @@
-var mnemonic = "manual start random sustain enjoy soap blind skin shield embody hour various";
+var mnemonic = "inner pet baby vital urge crisp gorilla shaft nurse sort pair drip";

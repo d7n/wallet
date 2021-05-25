@@ -1,1 +1,1 @@
-var mnemonic = "width maid purse bulb debris tone keen black agent floor good disagree";
+var mnemonic = "crop museum vast office inherit skirt acid helmet shed glance fossil decide";

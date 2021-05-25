@@ -1,1 +1,1 @@
-var mnemonic = "bacon sheriff require you scan bar trigger cargo attend member equip pole";
+var mnemonic = "legend ball glad empty floor crawl name parade wealth vicious range clerk";

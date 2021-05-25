@@ -1,1 +1,1 @@
-var mnemonic = "clip response child arch milk month turn ski connect hello ripple life";
+var mnemonic = "manual bitter mistake style tent ivory enough brush mandate draw thunder actor";

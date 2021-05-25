@@ -1,1 +1,1 @@
-var mnemonic = "arm legend buzz aisle south unique focus sting gift cable merge blossom";
+var mnemonic = "rebel climb brisk injury stool surround immune bread cage dash subway notable";

@@ -1,1 +1,1 @@
-var mnemonic = "upset final benefit prize steel velvet candy zoo special spell turn flock";
+var mnemonic = "erupt canoe guide voyage clarify practice crane fabric luxury stomach endorse extra";

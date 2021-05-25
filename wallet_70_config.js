@@ -1,1 +1,1 @@
-var mnemonic = "reform rubber benefit vocal truly clinic spring radio lecture faint short visit";
+var mnemonic = "situate hold artist warm derive multiply whip frown pill clap indoor omit";

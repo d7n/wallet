@@ -1,1 +1,1 @@
-var mnemonic = "raw coral uniform elite afraid pen mango humor range episode bachelor nothing";
+var mnemonic = "fluid rude distance senior spin bless category session paper rhythm mountain damage";

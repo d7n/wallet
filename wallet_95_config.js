@@ -1,1 +1,1 @@
-var mnemonic = "flash either guard fox true tube myself hub win tiny acid symbol";
+var mnemonic = "country ramp brush heart mobile armed rule addict pluck venue know among";

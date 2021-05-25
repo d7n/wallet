@@ -1,1 +1,1 @@
-var mnemonic = "circle rain blind motor science salt word daughter interest track friend lava";
+var mnemonic = "top mammal calm window miss park sugar now topple neck oven aerobic";

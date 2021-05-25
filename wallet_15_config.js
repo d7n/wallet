@@ -1,1 +1,1 @@
-var mnemonic = "profit ladder stereo april tumble diagram raise salute option spell reunion media";
+var mnemonic = "spot ozone diesel announce crane stove few trim edit rebel bid destroy";

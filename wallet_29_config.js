@@ -1,1 +1,1 @@
-var mnemonic = "bleak elder off salad million clever leave melt industry rival apart visual";
+var mnemonic = "marble rare force wide hat suspect once memory nephew phrase can crop";

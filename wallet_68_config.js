@@ -1,1 +1,1 @@
-var mnemonic = "route tilt never earn track rice other poem win early trend improve";
+var mnemonic = "summer garden light ship match first march pitch song spider dolphin youth";

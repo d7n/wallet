@@ -1,1 +1,1 @@
-var mnemonic = "satisfy glory rally true magnet click remember corn hint deposit buffalo proof";
+var mnemonic = "error wish rookie settle diary soon stamp knock hire either welcome sock";

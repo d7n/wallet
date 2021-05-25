@@ -1,1 +1,1 @@
-var mnemonic = "project ten grace cliff genius member sibling first naive upset lion use";
+var mnemonic = "cost aware expire clerk chair memory film confirm naive august embark situate";

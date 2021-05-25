@@ -1,1 +1,1 @@
-var mnemonic = "flee run grace suggest faint host easily rude glove leader craft two";
+var mnemonic = "inside later curious crazy cycle better scatter exercise equal farm observe pride";

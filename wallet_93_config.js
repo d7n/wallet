@@ -1,1 +1,1 @@
-var mnemonic = "fuel act web curve move robust wrestle depth lens march innocent seminar";
+var mnemonic = "tribe quarter cart estate cheese aunt tuition inner embody derive pyramid husband";

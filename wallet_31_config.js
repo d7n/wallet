@@ -1,1 +1,1 @@
-var mnemonic = "enforce omit warm you tail assume basic tone cave estate faint short";
+var mnemonic = "belt suggest sauce initial rally debris gorilla embody little security laugh moon";

@@ -1,1 +1,1 @@
-var mnemonic = "dice clip adjust slogan borrow dune snack people exclude vast twin buddy";
+var mnemonic = "cloth crawl resource idle pole prevent utility talent assume lyrics rain fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding educate manage siege fitness vote finger devote ancient remember spell math";
+var mnemonic = "salmon program minimum joy fault palace seat uniform diet merge glass survey";

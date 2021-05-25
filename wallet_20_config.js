@@ -1,1 +1,1 @@
-var mnemonic = "top suit mountain tape assault example mind rack mesh athlete clinic record";
+var mnemonic = "buffalo input box forward work bacon sock opinion scout exercise next enable";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow old forward pitch flight kitchen stomach gentle echo pudding unfold grab";
+var mnemonic = "basic horse all giggle frown unique crisp convince frozen clerk credit job";

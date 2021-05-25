@@ -1,1 +1,1 @@
-var mnemonic = "attitude index thumb connect increase nation smooth teach firm fossil solar critic";
+var mnemonic = "crush spirit travel undo general nominee atom economy auto state parrot cheap";

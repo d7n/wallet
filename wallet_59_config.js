@@ -1,1 +1,1 @@
-var mnemonic = "guard time clerk tray dune chase define park chase good atom bean";
+var mnemonic = "trend resource wood arrest shaft razor crumble turn muffin ill power penalty";

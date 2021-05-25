@@ -1,1 +1,1 @@
-var mnemonic = "profit jewel forum drip media brisk rely arrange reward tooth ribbon fall";
+var mnemonic = "grid never denial black first involve dutch quarter innocent shoe moral jaguar";

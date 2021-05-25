@@ -1,1 +1,1 @@
-var mnemonic = "woman bullet pattern obtain license stuff hurt pledge swear garage nest minimum";
+var mnemonic = "race raccoon mango shoulder bamboo quote spin flavor program daring car sunny";

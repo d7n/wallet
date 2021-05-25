@@ -1,1 +1,1 @@
-var mnemonic = "scheme artist immune carbon chunk model practice game sphere embody yellow jazz";
+var mnemonic = "apart enact opinion fine aim neutral setup fresh throw prosper together february";

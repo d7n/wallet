@@ -1,1 +1,1 @@
-var mnemonic = "fury sheriff hammer gaze bacon blue oval taste sugar gesture travel rain";
+var mnemonic = "scrap close hobby fame outer sunny sound sugar brisk baby extend rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "once borrow spoon profit spray luxury similar gun include panic between spot";
+var mnemonic = "camera fitness topple found add charge sea reveal other custom theory crazy";

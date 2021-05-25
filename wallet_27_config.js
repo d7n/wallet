@@ -1,1 +1,1 @@
-var mnemonic = "soap admit penalty nest nation charge rib butter alter exit sister absorb";
+var mnemonic = "annual pepper draft capital purchase absent useful ski win demise east long";

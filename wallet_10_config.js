@@ -1,1 +1,1 @@
-var mnemonic = "focus coast marble example interest empower describe jaguar spare pupil end excess";
+var mnemonic = "misery all exercise reopen over conduct select smoke creek base wage salute";

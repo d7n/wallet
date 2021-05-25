@@ -1,1 +1,1 @@
-var mnemonic = "water color anger shine wave staff mass want select steak behind riot";
+var mnemonic = "tiger man motor bullet bring town demand return motion begin dumb motor";

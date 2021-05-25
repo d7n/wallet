@@ -1,1 +1,1 @@
-var mnemonic = "until honey grunt leopard session layer receive axis empower wait forward level";
+var mnemonic = "paper pluck squeeze around wrist luggage lens drill clump address wealth spare";

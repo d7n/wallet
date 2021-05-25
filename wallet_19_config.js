@@ -1,1 +1,1 @@
-var mnemonic = "tail infant plug coral lesson steak crew intact fade immense there illegal";
+var mnemonic = "trouble battle board share tell breeze group harbor fly belt when razor";

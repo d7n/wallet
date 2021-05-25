@@ -1,1 +1,1 @@
-var mnemonic = "upper stereo number fatal hour actor major improve brand flight swamp stone";
+var mnemonic = "car can system inherit this banana alien lab two cancel opera sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "area team deputy innocent swamp vicious change lobster street pride acoustic plunge";
+var mnemonic = "upset move magic immense normal gaze echo unable tell shaft place lecture";

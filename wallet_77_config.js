@@ -1,1 +1,1 @@
-var mnemonic = "change box pave faith sketch patch praise together gravity tattoo room giggle";
+var mnemonic = "nasty banana wisdom axis fuel victory amazing rural okay hint fatal frequent";

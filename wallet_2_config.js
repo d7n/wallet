@@ -1,1 +1,1 @@
-var mnemonic = "tissue fade nasty color bus hint trigger rude side crazy finger engage";
+var mnemonic = "chronic piece exotic minor mom kiss hello erosion lava label program moment";

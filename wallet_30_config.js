@@ -1,1 +1,1 @@
-var mnemonic = "produce topic danger unaware inside remain uncover episode will grass machine one";
+var mnemonic = "guess need bike index deputy welcome access trend chicken barely subject place";

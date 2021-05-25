@@ -1,1 +1,1 @@
-var mnemonic = "shrimp unfair destroy cube cinnamon muscle spend return visa promote ripple begin";
+var mnemonic = "chaos poem loyal drama oblige target village mutual away wonder roof van";

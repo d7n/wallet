@@ -1,1 +1,1 @@
-var mnemonic = "mushroom update daring dragon surround clip destroy retire antique fox oven cute";
+var mnemonic = "pepper glimpse forward measure few forget enjoy gym fatal vague rival inspire";

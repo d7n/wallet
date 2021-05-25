@@ -1,1 +1,1 @@
-var mnemonic = "kitchen chase blossom obey napkin essence want media blossom photo garage broom";
+var mnemonic = "taste column asset hollow subway coach chronic cotton wave tell animal bitter";

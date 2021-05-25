@@ -1,1 +1,1 @@
-var mnemonic = "waste ritual dress stereo brother soap essence busy wood stem plastic curve";
+var mnemonic = "toast matter priority hospital insane cheap sunset guilt make jaguar scrap swear";

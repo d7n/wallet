@@ -1,1 +1,1 @@
-var mnemonic = "fan system utility eternal addict pitch twenty inform mass edge immune taste";
+var mnemonic = "worth gloom eager law meat theory bright pole oval rich crunch foam";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace owner employ clever life cabbage party aim curious engine atom bacon";
+var mnemonic = "bracket anger shed delay panic olympic push spoon group token club control";

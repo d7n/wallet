@@ -1,1 +1,1 @@
-var mnemonic = "name cable type pear giggle worth child cream search idea melody magnet";
+var mnemonic = "rotate shove net spawn spy measure essence tiny current enable slide piece";

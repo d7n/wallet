@@ -1,1 +1,1 @@
-var mnemonic = "soap enable away invest marine delay pudding owner resist talk diagram dismiss";
+var mnemonic = "easy amazing clip hollow gym fitness roof seat fix finger glove damp";

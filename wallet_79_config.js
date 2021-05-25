@@ -1,1 +1,1 @@
-var mnemonic = "tilt corn tide slam gym annual foil venue laptop east myself amateur";
+var mnemonic = "usage border undo air pulse access mean brave isolate front glue amount";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff diesel eagle peanut bonus solution lava spot dice stool flip banner";
+var mnemonic = "film twelve chase top absorb end bread sugar firm staff public fence";

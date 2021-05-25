@@ -1,1 +1,1 @@
-var mnemonic = "convince idle rubber concert small busy gloom raccoon crystal neck flame blast";
+var mnemonic = "garment mercy maid alter creek code robust soon cruel example climb daughter";

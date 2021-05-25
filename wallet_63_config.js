@@ -1,1 +1,1 @@
-var mnemonic = "solid motor motion swap tribe rent index elephant dentist update turn maze";
+var mnemonic = "choice napkin switch outdoor wonder come mouse nominee desert upper monitor boil";

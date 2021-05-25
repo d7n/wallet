@@ -1,1 +1,1 @@
-var mnemonic = "cherry reflect welcome shrimp embark owner chat vicious village antique sausage door";
+var mnemonic = "harvest office garage zoo convince roof undo second unlock empty lottery bid";

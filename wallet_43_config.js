@@ -1,1 +1,1 @@
-var mnemonic = "common today stool window retreat dutch interest under absorb unaware river lady";
+var mnemonic = "blame spy embrace oppose head donkey tip pond open globe glad seat";

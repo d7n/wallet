@@ -1,1 +1,1 @@
-var mnemonic = "describe become ribbon certain jeans wedding diagram start doll sniff include scrap";
+var mnemonic = "buddy frequent mercy few skirt talent abstract project text ship latin strong";

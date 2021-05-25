@@ -1,1 +1,1 @@
-var mnemonic = "adapt siren now zebra tattoo middle cargo upgrade faculty final transfer gospel";
+var mnemonic = "penalty hurry lawn huge sense match derive wine twist hawk enroll hill";

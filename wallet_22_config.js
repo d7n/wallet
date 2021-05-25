@@ -1,1 +1,1 @@
-var mnemonic = "lesson frog raven ticket glory moment issue pumpkin must limit wedding grit";
+var mnemonic = "sauce check matrix canvas garment piece velvet bread local divorce dizzy world";

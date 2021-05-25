@@ -1,1 +1,1 @@
-var mnemonic = "hope crouch bind battle barely quote wide dose illness junk execute addict";
+var mnemonic = "leave sentence bird exercise goddess carry fat happy soon trip clerk stem";

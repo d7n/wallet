@@ -1,1 +1,1 @@
-var mnemonic = "choice regret garbage camp celery electric gather video puzzle rule height join";
+var mnemonic = "crouch demand able exercise potato project order shine round law moment harbor";

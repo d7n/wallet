@@ -1,1 +1,1 @@
-var mnemonic = "genuine awesome defy okay upgrade magic dragon barrel yard rain card pumpkin";
+var mnemonic = "mosquito aim brown drift cattle atom faith picture oblige outdoor daring achieve";

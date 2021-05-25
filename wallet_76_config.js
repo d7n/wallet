@@ -1,1 +1,1 @@
-var mnemonic = "lava prison initial hand position grain walk capital hope blast glory spatial";
+var mnemonic = "town snack keep imitate solar census vacant bar intact base liberty vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "photo palace sniff escape aisle parrot proof message hurdle click old brush";
+var mnemonic = "spatial special easily riot update safe huge enlist remember senior critic attend";

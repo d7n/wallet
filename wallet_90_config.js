@@ -1,1 +1,1 @@
-var mnemonic = "sail file sock cash repeat huge excess this observe route imitate flavor";
+var mnemonic = "canoe number hub cool filter lizard body retreat glide ceiling crumble polar";

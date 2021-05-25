@@ -1,1 +1,1 @@
-var mnemonic = "share spike urban lift grid awesome envelope gold demand bag play ripple";
+var mnemonic = "endless mixed person slow media say miss wife must capable cargo vocal";

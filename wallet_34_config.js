@@ -1,1 +1,1 @@
-var mnemonic = "distance ability practice penalty mother option word melody equip diary lumber decorate";
+var mnemonic = "decade core scare limb execute cliff vital fun render fox correct ball";

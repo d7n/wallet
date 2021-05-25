@@ -1,1 +1,1 @@
-var mnemonic = "ice slogan august tuition shine okay program case auto coin price film";
+var mnemonic = "truck element skin express never laugh knock mountain state want usage saddle";

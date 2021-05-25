@@ -1,1 +1,1 @@
-var mnemonic = "salad broccoli luggage alone theory thought swap dove pet volume outer machine";
+var mnemonic = "flavor remind stay forest blur review kingdom lens vocal enjoy wheat unable";

@@ -1,1 +1,1 @@
-var mnemonic = "bread pistol fix boring buddy drive camp allow fiction cycle skirt vapor";
+var mnemonic = "situate vessel embrace scissors index cradle true fox puzzle amazing fuel drift";

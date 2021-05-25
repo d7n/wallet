@@ -1,1 +1,1 @@
-var mnemonic = "auction tell state album boy escape turkey explain wisdom mouse deposit plug";
+var mnemonic = "cruel high husband subway lunar sauce consider maid develop film recycle away";

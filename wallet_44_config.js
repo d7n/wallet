@@ -1,1 +1,1 @@
-var mnemonic = "gas section hazard prevent exhibit kiss benefit pink surround choose regular only";
+var mnemonic = "clever try cabin round soft renew budget deliver answer size behave unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "armor favorite wagon logic aspect next under various wedding slogan utility submit";
+var mnemonic = "frequent gloom marine lake sad rocket amateur wrong lend genre ankle mercy";

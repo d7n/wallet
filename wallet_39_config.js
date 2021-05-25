@@ -1,1 +1,1 @@
-var mnemonic = "bread pudding lock first place test basic job response venue clock galaxy";
+var mnemonic = "tilt surprise tortoise brisk donkey jaguar brass decrease planet donor exotic donkey";

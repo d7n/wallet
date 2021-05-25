@@ -1,1 +1,1 @@
-var mnemonic = "cost dry lesson nerve focus apart tip consider satisfy loan apple find";
+var mnemonic = "cram crucial duty cup first fragile pottery chase math surround syrup weird";

@@ -1,1 +1,1 @@
-var mnemonic = "pride start journey execute general neglect tennis host insect turkey stove virus";
+var mnemonic = "liar scene tide cart unique bubble end mom net warm current melody";

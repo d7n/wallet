@@ -1,1 +1,1 @@
-var mnemonic = "winner name vault depart move word crater couch rifle fluid artist pipe";
+var mnemonic = "marine attract brisk east nasty lobster glide awake acquire change verify toilet";

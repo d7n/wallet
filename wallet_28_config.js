@@ -1,1 +1,1 @@
-var mnemonic = "trade that weasel current spread ranch seat unaware divide collect expand salt";
+var mnemonic = "bacon law oval crash charge horror protect system gadget tone opera slab";

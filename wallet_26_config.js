@@ -1,1 +1,1 @@
-var mnemonic = "okay neither kiss shadow rotate oblige snow analyst enact price movie supply";
+var mnemonic = "rhythm layer normal session laptop upgrade fancy remember season burst organ reveal";

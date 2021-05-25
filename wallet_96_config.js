@@ -1,1 +1,1 @@
-var mnemonic = "state cement adult private laptop series sugar evoke average sunset wise ethics";
+var mnemonic = "art become verify cinnamon half ceiling choice stage sand poverty unusual nose";

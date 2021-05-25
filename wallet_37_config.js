@@ -1,1 +1,1 @@
-var mnemonic = "room rare cart then alien indicate three expect neither card display club";
+var mnemonic = "produce female market will payment orbit proud cruise inch supreme please worry";

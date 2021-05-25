@@ -1,1 +1,1 @@
-var mnemonic = "mountain where engage bunker crystal absent festival load wrong usual river idle";
+var mnemonic = "exercise alarm clip security grace carry music flight horror assist among stage";

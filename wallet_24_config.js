@@ -1,1 +1,1 @@
-var mnemonic = "adapt shield helmet matter hover future truly when neutral police they illness";
+var mnemonic = "become toss burden cargo chicken dog net mobile affair screen fish baby";

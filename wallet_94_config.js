@@ -1,1 +1,1 @@
-var mnemonic = "august foil long accuse album fatal size whale cousin copper gentle bike";
+var mnemonic = "dust merge once hawk pride noodle try patient predict mansion husband giggle";

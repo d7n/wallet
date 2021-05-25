@@ -1,1 +1,1 @@
-var mnemonic = "rough pet increase october amazing smart medal predict convince subject capable stick";
+var mnemonic = "scare stairs lunar clinic rabbit hire ketchup jar strong century again culture";

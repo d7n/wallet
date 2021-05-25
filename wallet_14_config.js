@@ -1,1 +1,1 @@
-var mnemonic = "era hold body limb treat filter clinic history spoon ice midnight access";
+var mnemonic = "dismiss history artist exchange bullet movie permit pave airport glare gorilla bunker";

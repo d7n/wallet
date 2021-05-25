@@ -1,1 +1,1 @@
-var mnemonic = "decorate stable edge noble debris thrive column accident core engage license foam";
+var mnemonic = "update cute inflict circle have news dry bike hill luggage seed style";

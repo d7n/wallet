@@ -1,1 +1,1 @@
-var mnemonic = "tragic bulb brush nurse left monster rifle tree future time census sorry";
+var mnemonic = "student slogan equal surround degree hazard foil steak current force alter help";

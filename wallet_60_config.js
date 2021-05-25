@@ -1,1 +1,1 @@
-var mnemonic = "casino knife cry this state window bonus town fortune permit brick truly";
+var mnemonic = "champion wisdom upper wheat door toss tilt first inmate afford define marble";

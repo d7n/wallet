@@ -1,1 +1,1 @@
-var mnemonic = "develop collect major install coffee add clown ball elder crumble wife portion";
+var mnemonic = "purse step spice tide solve bicycle insect base waste ocean husband actress";

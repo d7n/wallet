@@ -1,1 +1,1 @@
-var mnemonic = "lock cruel ability swarm spatial tent phrase number spike oven path spin";
+var mnemonic = "tribe whip fish thrive ethics empty still cycle dance little genuine crew";

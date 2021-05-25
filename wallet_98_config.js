@@ -1,1 +1,1 @@
-var mnemonic = "find absent swallow resource core budget author knock rain prefer hour pair";
+var mnemonic = "bargain squeeze merge puppy relief solar grab improve surge blind random salon";

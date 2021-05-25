@@ -1,1 +1,1 @@
-var mnemonic = "stick alcohol copper brand manual twenty fatal enhance moral happy lemon seminar";
+var mnemonic = "record strategy choice noble arrange else swamp aunt dinner inquiry want climb";

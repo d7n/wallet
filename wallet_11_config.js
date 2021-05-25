@@ -1,1 +1,1 @@
-var mnemonic = "holiday crowd recall spawn science error trumpet damp disorder private matrix annual";
+var mnemonic = "egg unaware attitude join course shy sock crunch siren rather job busy";
