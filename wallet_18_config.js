@@ -1,1 +1,1 @@
-var mnemonic = "current photo curve pattern puppy intact jeans follow differ army chronic tree";
+var mnemonic = "assault rebuild actor roast monster hamster pill cigar error firm neglect fashion";

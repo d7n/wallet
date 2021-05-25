@@ -1,1 +1,1 @@
-var mnemonic = "pet pride capable pair include pink tip renew coach tape pen eagle";
+var mnemonic = "cover fossil kite risk celery tourist arm render vivid cram buzz virtual";

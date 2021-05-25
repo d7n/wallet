@@ -1,1 +1,1 @@
-var mnemonic = "key prevent diet rice loan melt entry change unfair traffic dad staff";
+var mnemonic = "joke sugar fiction robot print develop joy man finger tomorrow hollow hobby";

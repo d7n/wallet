@@ -1,1 +1,1 @@
-var mnemonic = "diet derive tuna leg chapter maximum pass sound prepare vote list decline";
+var mnemonic = "faint once zero game menu fault captain try hill garment unhappy sand";

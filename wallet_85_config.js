@@ -1,1 +1,1 @@
-var mnemonic = "analyst top upper curtain zero curious vibrant either rhythm rally west point";
+var mnemonic = "wet lemon never rate object source inquiry report sauce wrestle pony achieve";

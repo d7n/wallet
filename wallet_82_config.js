@@ -1,1 +1,1 @@
-var mnemonic = "proof program cruise chief misery opera retire screen trust pottery place stuff";
+var mnemonic = "elegant admit term buyer scatter few solar similar bread actress search calm";

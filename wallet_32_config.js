@@ -1,1 +1,1 @@
-var mnemonic = "core index rib plunge badge foil shove weather wrong leg glad record";
+var mnemonic = "ghost intact property marble truth hedgehog stamp park surround sudden mixed hint";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie yard laugh sea business thumb impose top labor spin galaxy burden";
+var mnemonic = "usage faith upset treat rally faith often goose apart mountain apple sort";

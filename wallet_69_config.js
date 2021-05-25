@@ -1,1 +1,1 @@
-var mnemonic = "defense above shine educate north warfare session dash more search sword never";
+var mnemonic = "tiny congress zone treat area buddy pony royal venture honey youth island";

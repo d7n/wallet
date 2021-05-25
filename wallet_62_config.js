@@ -1,1 +1,1 @@
-var mnemonic = "genuine suggest this void chief project clinic famous slab pitch estate goat";
+var mnemonic = "arrange drill select shoulder power chalk dice kangaroo net expect lesson wrong";

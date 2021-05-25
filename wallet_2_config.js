@@ -1,1 +1,1 @@
-var mnemonic = "offer fossil anger clip raven very rebel taxi hold gloom still another";
+var mnemonic = "gasp aware siege urge frozen wrist ring depend turkey inmate raccoon mistake";

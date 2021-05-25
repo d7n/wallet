@@ -1,1 +1,1 @@
-var mnemonic = "skin twin marriage mountain simple sauce example drip symbol infant always able";
+var mnemonic = "journey banana dentist gasp skate knock trouble expand neglect scheme defy outer";

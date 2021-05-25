@@ -1,1 +1,1 @@
-var mnemonic = "fabric casino fly drive raven actual shoulder isolate clarify infant strong hotel";
+var mnemonic = "genuine ivory icon lab beef funny surprise include slam seed situate digital";

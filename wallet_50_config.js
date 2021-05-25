@@ -1,1 +1,1 @@
-var mnemonic = "dust ivory weasel head trade eyebrow pluck pave silk disease exit use";
+var mnemonic = "session cricket often latin limb rule crush relief number vivid check goddess";

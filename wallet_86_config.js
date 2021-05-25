@@ -1,1 +1,1 @@
-var mnemonic = "coconut cherry few pause crew park anxiety about dog drama awful rural";
+var mnemonic = "spike rally exile perfect economy funny angry abstract blast dance evoke security";

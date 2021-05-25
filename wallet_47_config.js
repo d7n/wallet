@@ -1,1 +1,1 @@
-var mnemonic = "defy suffer shallow grape mango special possible pill few have extra giant";
+var mnemonic = "sunset grocery primary artefact harsh grid family effort pudding profit stool claim";

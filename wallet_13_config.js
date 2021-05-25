@@ -1,1 +1,1 @@
-var mnemonic = "body lonely witness surprise river dust material double sense dismiss hire wedding";
+var mnemonic = "very tonight slogan champion judge always match ivory hobby frame stumble loud";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel total prefer once symbol claim stamp town multiply visit alien candy";
+var mnemonic = "defense they twelve half boss feed moment raccoon observe federal initial visit";

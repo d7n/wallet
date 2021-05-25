@@ -1,1 +1,1 @@
-var mnemonic = "flight track spoon middle endorse believe elbow mule later pet inject smart";
+var mnemonic = "force luggage connect climb tumble inside beauty discover velvet skirt host stick";

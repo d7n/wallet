@@ -1,1 +1,1 @@
-var mnemonic = "syrup elbow rain glimpse armed segment absurd state result where drill subject";
+var mnemonic = "phrase example oil final inhale bitter theme click misery cotton private surprise";

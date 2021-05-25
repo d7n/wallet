@@ -1,1 +1,1 @@
-var mnemonic = "physical hire auto wish later upset cube loop dial good runway adult";
+var mnemonic = "gap drip rotate short input glad hammer dial version electric leisure level";

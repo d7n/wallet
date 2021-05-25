@@ -1,1 +1,1 @@
-var mnemonic = "chair violin sting champion exile weather rude seed pitch domain submit dust";
+var mnemonic = "liberty tribe decide gloom cluster solid century reason history alpha book fitness";

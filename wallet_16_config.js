@@ -1,1 +1,1 @@
-var mnemonic = "riot detail wire session present mom palace uniform bring because blanket taste";
+var mnemonic = "volume debate able arrive lunar style bench parade before burger unusual gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "message anxiety amazing melody fragile city dragon lawsuit copper grow level apart";
+var mnemonic = "doctor west cereal industry fade ginger march muscle stairs useless present era";

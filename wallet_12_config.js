@@ -1,1 +1,1 @@
-var mnemonic = "print diary wagon noodle other rural smart syrup pumpkin curious catalog two";
+var mnemonic = "year lounge crunch spoil broom cycle matter quantum penalty junk glass unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "joke mushroom hold credit defense disease humble police guilt portion police height";
+var mnemonic = "garlic remind eternal regular work tooth cover script draw shoe body priority";

@@ -1,1 +1,1 @@
-var mnemonic = "adult tiny fine submit drastic observe hedgehog sheriff rare enter steel uncle";
+var mnemonic = "eyebrow label recall alcohol case hundred tuition nerve whisper picture surround head";

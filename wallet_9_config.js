@@ -1,1 +1,1 @@
-var mnemonic = "hill entire debate kitten hire engage short measure idea tell resemble enhance";
+var mnemonic = "idea market where ancient enhance keen there muscle genre mandate rapid car";

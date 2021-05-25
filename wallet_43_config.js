@@ -1,1 +1,1 @@
-var mnemonic = "raven captain elegant outdoor melody effort canvas stand mimic library skull swallow";
+var mnemonic = "sudden wisdom column galaxy arrange mail stick turtle cinnamon upper radio owner";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent alone initial urge arrow rabbit pause tortoise resemble sure deny oak";
+var mnemonic = "minute ship dog hello route price blouse isolate hollow profit paddle sand";

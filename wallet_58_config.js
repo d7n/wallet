@@ -1,1 +1,1 @@
-var mnemonic = "radio aware ramp time theory imitate punch cushion basic mix right grid";
+var mnemonic = "assault unable acquire arrange swallow kidney pitch illness above goddess taxi decline";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler figure topple agree flush digital dumb wear apple clay differ proof";
+var mnemonic = "river bird phrase hair isolate clog absurd prize napkin glove feel sad";

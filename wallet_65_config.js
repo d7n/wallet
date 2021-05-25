@@ -1,1 +1,1 @@
-var mnemonic = "obvious host say delay myself apology lake start beauty wrong notice high";
+var mnemonic = "paddle acquire chair photo six fat start autumn ranch blouse type upgrade";

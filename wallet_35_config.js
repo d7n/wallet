@@ -1,1 +1,1 @@
-var mnemonic = "narrow switch profit crop tray boat wool level gallery oppose vault forget";
+var mnemonic = "across ranch curious robot option beef olive thumb verb absent elbow position";

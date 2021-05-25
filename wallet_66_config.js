@@ -1,1 +1,1 @@
-var mnemonic = "rain minute cactus frequent yard glory hybrid spin accident consider gym prepare";
+var mnemonic = "roast sure more shy artwork napkin will opera coffee essence canoe time";

@@ -1,1 +1,1 @@
-var mnemonic = "sea object reason wheat need bunker salmon dinosaur eye pulse story basic";
+var mnemonic = "stick amateur outdoor twelve connect property park vessel blur idea lock seat";

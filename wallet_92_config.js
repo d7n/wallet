@@ -1,1 +1,1 @@
-var mnemonic = "cheap shadow pyramid early maid lend model ticket mind office seven often";
+var mnemonic = "food random huge net twelve twist shadow dumb hedgehog alcohol gift hip";

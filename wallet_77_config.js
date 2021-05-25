@@ -1,1 +1,1 @@
-var mnemonic = "true match claim trap gown empower cart close tag night demise wave";
+var mnemonic = "explain write erode electric dog spell power student cousin expand claim pigeon";

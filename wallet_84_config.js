@@ -1,1 +1,1 @@
-var mnemonic = "roof pink patient list peace aware train cousin naive stuff come illegal";
+var mnemonic = "before expect scrap able feed letter capital diet book accident upon picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy badge chaos tourist dizzy matter post mass frequent marine subject suit";
+var mnemonic = "hundred humor under monster alpha author affair jealous test giraffe miracle taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty hobby fiction seminar index horse illegal creek blue swing review tomato";
+var mnemonic = "away snap public bind world grain mansion notice account joy lava drive";

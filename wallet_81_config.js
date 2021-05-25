@@ -1,1 +1,1 @@
-var mnemonic = "february faint actual only jungle boss animal include patient little slab subway";
+var mnemonic = "nation crop tooth excite coil hedgehog rotate delay general erosion parrot kingdom";

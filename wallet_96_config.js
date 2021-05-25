@@ -1,1 +1,1 @@
-var mnemonic = "claw alarm fuel smooth slender reunion gather stage alter matrix breeze velvet";
+var mnemonic = "hunt project symptom tunnel pigeon ridge avoid job hidden view butter saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "filter gown pear fitness rule talk resource never fury shy arrow sea";
+var mnemonic = "avoid act waste divorce outer breeze select cotton soda coach coconut valley";

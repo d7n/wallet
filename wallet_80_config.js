@@ -1,1 +1,1 @@
-var mnemonic = "drip member biology gallery thank earn flash sadness universe shadow height trial";
+var mnemonic = "uncover have fringe must month rebuild fuel carry glow bottom they real";

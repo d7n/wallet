@@ -1,1 +1,1 @@
-var mnemonic = "defy armor agent still merry record add phone slab witness crawl gravity";
+var mnemonic = "bunker morning jelly interest chest beach certain glass moon feel social recall";

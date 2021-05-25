@@ -1,1 +1,1 @@
-var mnemonic = "later loud expire squirrel cliff satoshi sheriff candy video dirt girl glass";
+var mnemonic = "obscure frequent spend brush tag region message festival worry crack excess pet";

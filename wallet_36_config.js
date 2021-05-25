@@ -1,1 +1,1 @@
-var mnemonic = "yard idea fit coconut kingdom addict where rich service ensure reveal bamboo";
+var mnemonic = "input twice seek assume bright bean fringe enough hospital wood fashion lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "great future salt opera toast example surge comfort problem brass pony mean";
+var mnemonic = "butter danger toast humor rescue focus forward flock lawsuit banner play iron";

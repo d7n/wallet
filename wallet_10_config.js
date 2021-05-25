@@ -1,1 +1,1 @@
-var mnemonic = "force resist pistol latin eternal emotion mobile manage fancy penalty update divert";
+var mnemonic = "latin second ship donor library distance ginger manage topple interest logic smooth";

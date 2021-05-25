@@ -1,1 +1,1 @@
-var mnemonic = "scout tumble brown funny dizzy holiday gesture section bomb guilt medal gown";
+var mnemonic = "treat purse output expand goddess artist midnight snack witness law anger eagle";

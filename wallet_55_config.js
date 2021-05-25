@@ -1,1 +1,1 @@
-var mnemonic = "mail exist vault garage farm defy afraid lawn scrub split fitness suffer";
+var mnemonic = "buddy trust castle spot woman moon mad rebel churn nerve flight helmet";

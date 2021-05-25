@@ -1,1 +1,1 @@
-var mnemonic = "ladder escape love say ensure child doll pill earth brother wonder crater";
+var mnemonic = "hat capital surround original receive suspect vintage title pear attract attract habit";

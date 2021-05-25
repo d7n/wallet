@@ -1,1 +1,1 @@
-var mnemonic = "proof clean symptom winter project raccoon rescue chimney infant excuse knife below";
+var mnemonic = "feed praise choose involve view arrange noise balcony one shed pudding slim";

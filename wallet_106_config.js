@@ -1,1 +1,1 @@
-var mnemonic = "negative keen soul evolve treat crop online cradle use truly illegal lens";
+var mnemonic = "scene filter course drive engage tray laugh require famous panda foster weird";

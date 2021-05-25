@@ -1,1 +1,1 @@
-var mnemonic = "knee joy slogan beef brief mule inside hint drama wink case kitchen";
+var mnemonic = "radar reward welcome expose rigid scrap rare action stomach wing maze trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "faint toss concert rabbit hover piano heavy lunar village shock liquid banana";
+var mnemonic = "unfold acquire diesel crawl diesel wall annual aspect kit poet history portion";

@@ -1,1 +1,1 @@
-var mnemonic = "denial announce lock process endorse merit near remind mix feed bomb blind";
+var mnemonic = "around magnet casual put useful faint outer panic job pass script paper";

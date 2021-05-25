@@ -1,1 +1,1 @@
-var mnemonic = "hood chaos limb slight gauge attend endorse horse such arctic language unhappy";
+var mnemonic = "roof fault usage glance axis mask pear just whisper razor bag now";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze pumpkin until happy pepper decline plunge odor bunker coyote album family";
+var mnemonic = "raw cream one twenty door tourist orphan youth lava conduct source today";

@@ -1,1 +1,1 @@
-var mnemonic = "magic dove clean fever dream search group nerve purse hat correct flock";
+var mnemonic = "leave select unfold tuna clog cricket claim furnace erupt uncle rule trade";

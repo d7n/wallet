@@ -1,1 +1,1 @@
-var mnemonic = "rotate amateur erase cook foster plunge produce tail flee explain hen depend";
+var mnemonic = "chat river abstract trumpet because digital other cluster script way success three";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper actual tonight ensure upgrade note term square column flip aunt unaware";
+var mnemonic = "ramp check work travel social reward marble social jar dignity prize neglect";

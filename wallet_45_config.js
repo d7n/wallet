@@ -1,1 +1,1 @@
-var mnemonic = "winner upset orbit spell one evil suffer impulse total ring urge echo";
+var mnemonic = "high artist host fish plug select explain leopard recipe girl current lend";

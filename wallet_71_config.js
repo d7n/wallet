@@ -1,1 +1,1 @@
-var mnemonic = "gentle hawk trap sorry today month oval drastic intact crumble swamp about";
+var mnemonic = "bacon sail scout axis enter during smile please absent weapon debris syrup";

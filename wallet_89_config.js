@@ -1,1 +1,1 @@
-var mnemonic = "assault holiday long fade hand merge trade unable educate daring trophy valid";
+var mnemonic = "enhance vintage blue submit improve frog prize magnet truly shy blind uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "other cube note spread shine fatigue opera bundle novel split distance adult";
+var mnemonic = "actor mother absurd spot mass unhappy thought garment intact wait spider shrug";

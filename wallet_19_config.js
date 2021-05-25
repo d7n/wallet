@@ -1,1 +1,1 @@
-var mnemonic = "believe close area series spend evil angle cheap unveil amount minimum pattern";
+var mnemonic = "security giggle tip monster hockey oyster own outside salmon thought earth isolate";

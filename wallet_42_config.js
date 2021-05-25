@@ -1,1 +1,1 @@
-var mnemonic = "range report sausage boy forum helmet caution identify neglect sure thrive harbor";
+var mnemonic = "trial say amateur pair shoe ahead matrix market saddle view cage endless";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry else fly photo spy liar pulse board list hawk endless actor";
+var mnemonic = "total rival usual cancel goat vast peanut surprise act main idea sick";

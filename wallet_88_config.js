@@ -1,1 +1,1 @@
-var mnemonic = "lamp hole will dream october concert feature melt birth build fringe between";
+var mnemonic = "improve virtual damage exist perfect essence tower drip dish tent follow dance";

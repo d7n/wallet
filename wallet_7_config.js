@@ -1,1 +1,1 @@
-var mnemonic = "maple banana mix wood crane practice mosquito horn focus scare neck mushroom";
+var mnemonic = "caution receive update clay casino dizzy enhance side beyond dizzy thrive art";

@@ -1,1 +1,1 @@
-var mnemonic = "tray mix cook soap clerk prevent review doctor file goat situate vast";
+var mnemonic = "hint subject wasp task salon put enact case tag labor pudding when";

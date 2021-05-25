@@ -1,1 +1,1 @@
-var mnemonic = "hurdle hurry rocket nothing attitude oblige remember waste powder feature promote tray";
+var mnemonic = "extend clerk bulb income fatal obvious divert artist dash super robot impose";

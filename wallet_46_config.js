@@ -1,1 +1,1 @@
-var mnemonic = "reason dentist select float fame vanish venue method announce vibrant city power";
+var mnemonic = "evil honey oval thought mom slim make celery urge artwork captain silent";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver help garage cool hotel rack morning student midnight win useful destroy";
+var mnemonic = "occur real salad gospel wisdom dinner truly donkey bundle short term put";

@@ -1,1 +1,1 @@
-var mnemonic = "banner talk praise chuckle flag sponsor genre panel huge lottery iron brisk";
+var mnemonic = "voyage trust script ankle ribbon trash track lucky follow chef crater among";

@@ -1,1 +1,1 @@
-var mnemonic = "hair old robust second phrase rack truly actor crawl elder effort cage";
+var mnemonic = "jewel way tribe service audit tooth banner legend mention kingdom fury gown";

@@ -1,1 +1,1 @@
-var mnemonic = "math coil lion quantum soul choose debris good harsh treat vibrant direct";
+var mnemonic = "skirt tail enlist gown skate argue estate drive cupboard swear pumpkin wish";

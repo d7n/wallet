@@ -1,1 +1,1 @@
-var mnemonic = "fame rose liar century orchard violin renew load actress trick tuition marine";
+var mnemonic = "parrot wire limb canal romance cover basket misery tomato episode boring theme";

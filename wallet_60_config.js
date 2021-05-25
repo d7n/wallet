@@ -1,1 +1,1 @@
-var mnemonic = "reason critic initial tag price trend helmet kiwi stay among caught shield";
+var mnemonic = "myth vehicle actress scheme shuffle birth field confirm disease patient key gasp";

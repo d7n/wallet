@@ -1,1 +1,1 @@
-var mnemonic = "toe music seek apology sand spy damage host illness rule way cube";
+var mnemonic = "question reduce trap fee heart wheat exile plate language accident fit video";
