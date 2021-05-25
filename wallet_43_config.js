@@ -1,1 +1,1 @@
-var mnemonic = "bridge swamp bean clever swing cycle old bunker tiger begin lottery oxygen";
+var mnemonic = "once tomato ceiling absent neutral relief swallow chair square assume have sort";

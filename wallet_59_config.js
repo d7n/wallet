@@ -1,1 +1,1 @@
-var mnemonic = "weird parade bicycle topple flock gadget portion above abstract success total wall";
+var mnemonic = "taxi reunion this choose entry guilt endorse erupt giant cheese frame brass";

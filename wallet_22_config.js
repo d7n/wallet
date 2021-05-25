@@ -1,1 +1,1 @@
-var mnemonic = "spot town witness film often cushion also happy use finish angry group";
+var mnemonic = "replace ask pioneer tank learn turn smoke notice snap mechanic indoor slender";

@@ -1,1 +1,1 @@
-var mnemonic = "seat rural grief water waste rigid picture truth color quality cushion start";
+var mnemonic = "buffalo fitness loud mystery again anchor shop huge tuna quarter gentle manual";

@@ -1,1 +1,1 @@
-var mnemonic = "crane forest accuse dumb flight small cash admit rebel long tissue neglect";
+var mnemonic = "priority fantasy blast decrease squeeze gloom bulb okay round exhaust insect harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "strong lecture bubble nature brave item conduct spawn flower vicious quantum amount";
+var mnemonic = "scheme gauge alcohol depend idea reflect stairs polar jealous core seminar sheriff";

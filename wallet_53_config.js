@@ -1,1 +1,1 @@
-var mnemonic = "surge denial hover axis multiply female model bus pitch force initial junior";
+var mnemonic = "merry animal friend enemy swamp box twist blue disorder brief blind soda";

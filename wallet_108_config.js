@@ -1,1 +1,1 @@
-var mnemonic = "force abandon already waste flight slam away road ramp water earth person";
+var mnemonic = "jaguar thing engine dove run icon right leg problem panda shoulder comic";

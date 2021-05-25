@@ -1,1 +1,1 @@
-var mnemonic = "crowd dragon battle prepare correct vague uniform fit canyon liberty move tomato";
+var mnemonic = "eternal lawsuit life trap habit convince present safe wisdom tape flag despair";

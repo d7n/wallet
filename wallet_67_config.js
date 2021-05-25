@@ -1,1 +1,1 @@
-var mnemonic = "image angle target movie aunt parade job visit figure pride satisfy pause";
+var mnemonic = "equip dry scout brain gown during faint fatal health again poem decade";

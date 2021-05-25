@@ -1,1 +1,1 @@
-var mnemonic = "often loud gold trust sail race syrup slam inherit hedgehog arena ceiling";
+var mnemonic = "tongue tiny travel spoon mouse diesel nurse inhale bulk boss symptom finish";

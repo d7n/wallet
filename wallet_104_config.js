@@ -1,1 +1,1 @@
-var mnemonic = "insane delay genius aim focus link moon media crisp donor ridge solid";
+var mnemonic = "tissue seek course glide entire come crime dog strong subject voice share";

@@ -1,1 +1,1 @@
-var mnemonic = "museum mix sight pony interest ankle calm tower junk pattern interest time";
+var mnemonic = "system detail apart dial render organ actress lonely mother forest close family";

@@ -1,1 +1,1 @@
-var mnemonic = "soft eager reopen deal wife pulp daughter remember unaware furnace detail satoshi";
+var mnemonic = "suggest suspect section trash dinosaur faint junior envelope toe bitter wait melody";

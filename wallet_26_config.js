@@ -1,1 +1,1 @@
-var mnemonic = "stadium mention law tooth culture poet emotion defense work border season mind";
+var mnemonic = "until wife insane destroy fix gap flash lounge useful express random cost";

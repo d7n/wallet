@@ -1,1 +1,1 @@
-var mnemonic = "vendor mosquito ketchup effort celery system armor bundle march razor zoo final";
+var mnemonic = "cradle pepper vacant ask puzzle silent various east recipe equip laugh sugar";

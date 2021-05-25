@@ -1,1 +1,1 @@
-var mnemonic = "any action sleep dream liquid current pudding fall pave calm weather design";
+var mnemonic = "tell enrich frog slam horn trouble wave expect peace evil caught holiday";

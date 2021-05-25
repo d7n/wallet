@@ -1,1 +1,1 @@
-var mnemonic = "nurse point moment kangaroo furnace vessel hen arrest include inquiry screen sister";
+var mnemonic = "drink october orbit lemon female title suggest apart acquire then orchard diet";

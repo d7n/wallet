@@ -1,1 +1,1 @@
-var mnemonic = "alert talent behave obvious clever edge inflict remove joy smart collect vehicle";
+var mnemonic = "movie sing crowd glass enhance prefer dove obscure possible pond mammal call";

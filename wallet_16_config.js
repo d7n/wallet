@@ -1,1 +1,1 @@
-var mnemonic = "evil hurt barely wreck chicken better address stuff exhibit traffic tumble fluid";
+var mnemonic = "sure cat marble situate sport page matrix moral table paper mother joke";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch patient movie double nation light drift follow skate rail burst crazy";
+var mnemonic = "jazz oven anxiety giant steak zero equal inmate clarify then shoot add";

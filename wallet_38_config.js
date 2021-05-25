@@ -1,1 +1,1 @@
-var mnemonic = "various creek boss quick original upset glare trial junior party gravity start";
+var mnemonic = "crop talk spy physical music slot awake bike grit else method alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "review chat diary kiwi zero pluck box income dumb turn portion capital";
+var mnemonic = "hand boat ahead crazy rely spray list rude destroy try medal easily";

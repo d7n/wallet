@@ -1,1 +1,1 @@
-var mnemonic = "vote sniff brass stay middle inject alter zone attract young decide actual";
+var mnemonic = "guitar very reject torch notable tray soldier language poem unaware supreme walnut";

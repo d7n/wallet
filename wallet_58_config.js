@@ -1,1 +1,1 @@
-var mnemonic = "salon hope chuckle ball inside enact gap gorilla spell scrap pave approve";
+var mnemonic = "treat crazy almost win swap wise dance help view gather elegant cage";

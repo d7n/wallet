@@ -1,1 +1,1 @@
-var mnemonic = "menu escape bitter soft color credit outdoor tell cloud purchase meadow solution";
+var mnemonic = "siege expose ocean balance damp buffalo alert fluid hour enable nation pink";

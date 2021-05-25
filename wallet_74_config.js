@@ -1,1 +1,1 @@
-var mnemonic = "mountain castle deny suffer flash sibling same suit pumpkin hard couch flavor";
+var mnemonic = "cable region input awful desert festival broccoli share couple announce style autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "marble fatigue expire subject crisp zero suit atom gloom kitten step absurd";
+var mnemonic = "shed weekend sphere original chronic layer butter label slab story among blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "fame figure tornado cattle excuse camp ivory diesel open voyage speak parrot";
+var mnemonic = "cube day hard pact mind notable state bid sing gadget art sleep";

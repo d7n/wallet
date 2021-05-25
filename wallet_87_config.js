@@ -1,1 +1,1 @@
-var mnemonic = "various debris scissors ethics arena magnet muffin fantasy immune furnace sick cause";
+var mnemonic = "smooth access bitter comfort motion sketch doll welcome hope safe omit negative";

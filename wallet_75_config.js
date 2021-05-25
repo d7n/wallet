@@ -1,1 +1,1 @@
-var mnemonic = "wolf word ramp enlist current dice design diary quit frame syrup trick";
+var mnemonic = "enter nephew cereal flower music ghost slam mask smooth small rain moral";

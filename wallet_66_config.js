@@ -1,1 +1,1 @@
-var mnemonic = "hill express write earn empower kangaroo above jewel cactus inflict owner lobster";
+var mnemonic = "resist hero crazy you near attitude before invest suspect athlete dawn custom";

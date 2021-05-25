@@ -1,1 +1,1 @@
-var mnemonic = "just oppose please view add harsh ethics witness common charge robust quick";
+var mnemonic = "lazy lounge deny major metal wise brother eyebrow exhaust volume rough know";

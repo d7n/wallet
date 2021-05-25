@@ -1,1 +1,1 @@
-var mnemonic = "fork scare tooth obtain fork pair erosion glass modify jeans now certain";
+var mnemonic = "grow viable address gesture length mirror whisper alpha cash potato penalty pilot";

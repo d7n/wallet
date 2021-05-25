@@ -1,1 +1,1 @@
-var mnemonic = "rally struggle answer cactus garage humor curtain jealous visit truly census convince";
+var mnemonic = "arrest voyage amazing sausage post movie bomb town wrap exact ring flip";

@@ -1,1 +1,1 @@
-var mnemonic = "gold lesson cargo decide almost mesh monkey decline scrap breeze put evolve";
+var mnemonic = "ghost drop marble main jaguar hill boring army return robust door deliver";

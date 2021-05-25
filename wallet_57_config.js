@@ -1,1 +1,1 @@
-var mnemonic = "flag home bundle concert side hard ankle attitude neglect puppy equip column";
+var mnemonic = "gorilla castle put emotion gown humor deposit call general find embark spirit";

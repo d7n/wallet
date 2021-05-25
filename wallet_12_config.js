@@ -1,1 +1,1 @@
-var mnemonic = "expire picture address company panther boost jaguar vapor zebra correct boost assist";
+var mnemonic = "illegal emotion thought theme owner timber stereo elegant asthma grow hospital oval";

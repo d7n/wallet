@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow region involve swim deer deny noodle blast table since opinion detail";
+var mnemonic = "seek fault virus turn eyebrow rose chalk captain twin eagle base actor";

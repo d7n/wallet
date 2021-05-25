@@ -1,1 +1,1 @@
-var mnemonic = "silent net consider airport scout where ivory detail purpose brown tourist worth";
+var mnemonic = "unit around kit bench buyer refuse calm ramp grass outdoor broom weather";

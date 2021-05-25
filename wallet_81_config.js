@@ -1,1 +1,1 @@
-var mnemonic = "quick awkward faint purity border forward conduct radio correct exhibit hip spoil";
+var mnemonic = "stuff regular feel orchard owner emotion spatial drill local regular copy address";

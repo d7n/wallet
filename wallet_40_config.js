@@ -1,1 +1,1 @@
-var mnemonic = "document spin kingdom helmet blade garden heavy position mind twin absorb loyal";
+var mnemonic = "mutual friend school glad benefit labor day used say shell vanish shield";

@@ -1,1 +1,1 @@
-var mnemonic = "advance faint regret razor lunar enough practice gift recipe vocal call creek";
+var mnemonic = "half length govern model orient aim remind gain question plunge old guess";

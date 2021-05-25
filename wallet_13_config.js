@@ -1,1 +1,1 @@
-var mnemonic = "want buzz enroll mystery usage give rib hole story cement dice account";
+var mnemonic = "stone token guard together pave false will twenty song hidden ship clerk";

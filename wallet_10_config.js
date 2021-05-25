@@ -1,1 +1,1 @@
-var mnemonic = "joke evolve ski camera try vote recall dignity pilot area exclude result";
+var mnemonic = "opinion senior spoil ten wish usage bullet general smooth romance april key";

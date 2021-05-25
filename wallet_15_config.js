@@ -1,1 +1,1 @@
-var mnemonic = "luxury decline agent album loop parrot topple host shed secret rocket embody";
+var mnemonic = "bottom weasel govern person wall nut boat purity either creek tide expect";

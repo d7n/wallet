@@ -1,1 +1,1 @@
-var mnemonic = "exist thing direct pepper brass glass across jealous forum near lamp enter";
+var mnemonic = "immense vacuum invite educate adapt curve panda mind excite unique lobster join";

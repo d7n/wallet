@@ -1,1 +1,1 @@
-var mnemonic = "glimpse oak knock protect conduct steel wisdom just chimney crunch zone fence";
+var mnemonic = "cheese lava tourist trust strike sight mind animal traffic casino elite planet";

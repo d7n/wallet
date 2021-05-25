@@ -1,1 +1,1 @@
-var mnemonic = "glare area label beef tower walnut retire way dumb tired juice upset";
+var mnemonic = "ignore kind foam morning embark happy medal mistake depend belt awful false";

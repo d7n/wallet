@@ -1,1 +1,1 @@
-var mnemonic = "pottery glare apple hen duck mention ecology must drift table spatial weather";
+var mnemonic = "inflict talk gauge ignore witness account welcome scrub demand alpha lawsuit naive";

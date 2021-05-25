@@ -1,1 +1,1 @@
-var mnemonic = "joke clever merry swing arch outside kite wheat deer absent benefit bracket";
+var mnemonic = "antique lemon tiger tool oxygen mixed hurry same sorry sand alarm stage";

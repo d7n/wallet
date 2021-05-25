@@ -1,1 +1,1 @@
-var mnemonic = "clerk seminar control stereo height remove trade room either distance defense affair";
+var mnemonic = "price bar oven monster guard hybrid element picnic file toss disease tortoise";

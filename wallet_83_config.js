@@ -1,1 +1,1 @@
-var mnemonic = "gaze soldier galaxy letter consider breeze industry guitar broom old bread whip";
+var mnemonic = "remember silver afford night beauty put climb input road aunt author first";

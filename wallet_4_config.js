@@ -1,1 +1,1 @@
-var mnemonic = "drop danger canyon wage stomach foot lab snow rather common fish acoustic";
+var mnemonic = "private record about grape rate soldier deal vacant what satoshi road shuffle";

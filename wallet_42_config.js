@@ -1,1 +1,1 @@
-var mnemonic = "apple hawk winter pluck just squeeze style print energy decline age bamboo";
+var mnemonic = "sphere pledge section tuna put ripple woman sweet recall biology sunset mask";

@@ -1,1 +1,1 @@
-var mnemonic = "goose absorb few idle wait tragic illegal gym bachelor tool quit crane";
+var mnemonic = "maple able filter warm garment trap valid traffic boring same travel armor";

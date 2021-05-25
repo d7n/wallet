@@ -1,1 +1,1 @@
-var mnemonic = "warrior jazz transfer permit derive agree never write plate airport manual laundry";
+var mnemonic = "mansion lunch minimum adjust creek side setup real genius economy ensure wink";

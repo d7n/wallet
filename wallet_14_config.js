@@ -1,1 +1,1 @@
-var mnemonic = "holiday human always dumb okay crawl public aerobic illness puppy acoustic flag";
+var mnemonic = "desert hundred wall idle today conduct addict thunder wet cook salmon lab";

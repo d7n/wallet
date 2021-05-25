@@ -1,1 +1,1 @@
-var mnemonic = "chalk analyst cactus casual rigid permit bargain solve diary sight similar split";
+var mnemonic = "inch thought winner cover success jewel comfort wagon staff crop uncle blanket";

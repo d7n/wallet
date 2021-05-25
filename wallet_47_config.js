@@ -1,1 +1,1 @@
-var mnemonic = "accident feed accuse captain humor save rebuild grace valley drum cement reflect";
+var mnemonic = "olive parent naive profit lab crush core tobacco chalk donkey relax rather";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow ritual flat host maze radio script tenant monitor own ethics antique";
+var mnemonic = "note avoid loud february engine ghost copy seek crazy blood figure draw";

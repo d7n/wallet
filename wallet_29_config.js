@@ -1,1 +1,1 @@
-var mnemonic = "bleak still fiber battle clog tag remain high pride tenant tiny follow";
+var mnemonic = "nose rebel diet grant fox flat immense vacuum crouch entry journey early";

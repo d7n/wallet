@@ -1,1 +1,1 @@
-var mnemonic = "thought cross pear clinic misery search trumpet chicken initial vintage endless also";
+var mnemonic = "draft radar real elephant peace media truck giggle sketch carpet foil latin";

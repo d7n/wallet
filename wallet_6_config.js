@@ -1,1 +1,1 @@
-var mnemonic = "witness vessel eyebrow misery sister learn swift device nuclear excite giant panel";
+var mnemonic = "fly next frown roof pause visit dutch embody involve saddle truly master";

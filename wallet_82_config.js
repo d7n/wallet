@@ -1,1 +1,1 @@
-var mnemonic = "addict sound poem various leisure history render secret creek divorce library mirror";
+var mnemonic = "empower cube foil vendor energy atom license mesh luggage firm pill abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "close worth predict above benefit decline pill staff swamp awkward anxiety load";
+var mnemonic = "envelope nominee ship spray author direct number symbol feature excess order practice";

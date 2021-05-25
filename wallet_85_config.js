@@ -1,1 +1,1 @@
-var mnemonic = "skate boil used atom bus bike morning puzzle false become patient food";
+var mnemonic = "become hawk color bag cute entry orphan guide keen rookie family duty";

@@ -1,1 +1,1 @@
-var mnemonic = "blur vital tip dignity grunt float belt like steak tray purse account";
+var mnemonic = "sort margin casual purpose creek angle chronic drop eager fly image detail";

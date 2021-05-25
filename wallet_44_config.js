@@ -1,1 +1,1 @@
-var mnemonic = "banana fit hair swim happy pulse slice reform author huge shuffle recipe";
+var mnemonic = "isolate title cherry holiday penalty enhance foster october inspire bounce noodle narrow";

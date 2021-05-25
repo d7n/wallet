@@ -1,1 +1,1 @@
-var mnemonic = "rug this soul best trash float utility measure orange concert net fringe";
+var mnemonic = "cotton glad film private always never mammal lava ability rubber bulk open";

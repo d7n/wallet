@@ -1,1 +1,1 @@
-var mnemonic = "soul fantasy battle fluid couple problem victory position few little place bag";
+var mnemonic = "trend law process layer abandon rely library copper oil silly still banner";

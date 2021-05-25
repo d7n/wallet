@@ -1,1 +1,1 @@
-var mnemonic = "beef aerobic maid drop zone shift cook dwarf carry outer message scale";
+var mnemonic = "salon pipe kiss inject prepare floor trigger game write flag grain bone";

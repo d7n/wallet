@@ -1,1 +1,1 @@
-var mnemonic = "load artwork move minor aerobic bind concert business beach keep harvest sight";
+var mnemonic = "general citizen believe exhaust beyond dial belt ritual blur option render elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "drop engage base link better honey salmon veteran hurdle hair outdoor flush";
+var mnemonic = "aerobic vessel unlock elevator great visit change unveil brave card cancel reopen";

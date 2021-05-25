@@ -1,1 +1,1 @@
-var mnemonic = "beach patient just swear cricket huge motor current receive elephant strong blanket";
+var mnemonic = "strong butter obscure betray blade void drama depth culture rough future olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "describe present cabbage awkward please burger lion margin hollow future omit huge";
+var mnemonic = "stage follow resource decade argue faint chief lunar pass december atom hawk";

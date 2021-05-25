@@ -1,1 +1,1 @@
-var mnemonic = "artwork recycle orphan retire impact notice valve nation daring coach mother awful";
+var mnemonic = "fame shoot thunder must warm language heavy huge hobby diary battle circle";

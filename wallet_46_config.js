@@ -1,1 +1,1 @@
-var mnemonic = "silly snake fox maximum sustain bacon wool outer sport stomach key seven";
+var mnemonic = "cabin weird toy fan index uncover news farm push catch person differ";

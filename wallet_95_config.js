@@ -1,1 +1,1 @@
-var mnemonic = "have observe evoke arena banana sport inch junk holiday silk solar scrap";
+var mnemonic = "miracle come comic fancy erase unlock polar just kitten air tuna immune";

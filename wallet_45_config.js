@@ -1,1 +1,1 @@
-var mnemonic = "spoon unit normal forum faith echo divert bone crisp empty all survey";
+var mnemonic = "wave fall film again benefit decorate input scatter funny convince street grab";

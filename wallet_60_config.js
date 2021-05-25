@@ -1,1 +1,1 @@
-var mnemonic = "proud stadium left lonely motor margin episode outside drive coin frequent title";
+var mnemonic = "hockey cluster pelican true manual flush pact major elite agree sustain elevator";
