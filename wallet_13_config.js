@@ -1,1 +1,1 @@
-var mnemonic = "pretty model lion radio measure actress snack blind ritual resemble upgrade sort";
+var mnemonic = "ice cost lake claw royal person valve perfect tissue crumble measure exotic";

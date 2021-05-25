@@ -1,1 +1,1 @@
-var mnemonic = "elevator confirm evidence script puzzle license push priority lab fabric exit spin";
+var mnemonic = "defy mask embark staff kite coil fade mystery snow ghost pledge bundle";

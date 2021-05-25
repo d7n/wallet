@@ -1,1 +1,1 @@
-var mnemonic = "wide visit rough book tissue gate board shuffle angle mystery dinner dutch";
+var mnemonic = "answer flight ahead maze noble suffer warrior keep start please bicycle depth";

@@ -1,1 +1,1 @@
-var mnemonic = "crane birth neglect wise leisure manual autumn bone smart sell grape bitter";
+var mnemonic = "speak rather suspect conduct usage such cigar disease legal child adjust zero";

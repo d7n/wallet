@@ -1,1 +1,1 @@
-var mnemonic = "siege quality embody edit creek record door ride resource control enable orbit";
+var mnemonic = "axis web pool ensure grief aerobic easy add trial muscle gap bacon";

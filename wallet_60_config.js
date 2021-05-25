@@ -1,1 +1,1 @@
-var mnemonic = "proud danger anxiety nominee grain involve couple badge embrace cricket text taxi";
+var mnemonic = "rain just foster fiction proof winter private fatigue mixed person forest chat";

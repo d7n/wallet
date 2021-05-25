@@ -1,1 +1,1 @@
-var mnemonic = "stable fly plate already ripple siren rule limit food method dinner civil";
+var mnemonic = "leaf absorb general sibling tent clog dial budget hero asset upgrade virus";

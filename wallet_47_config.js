@@ -1,1 +1,1 @@
-var mnemonic = "gorilla dignity erase ride force plate scrub key nice leave denial armor";
+var mnemonic = "health jump one cattle truth host artist live age million armor boost";

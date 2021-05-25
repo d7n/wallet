@@ -1,1 +1,1 @@
-var mnemonic = "tattoo muffin behind midnight churn session detail crunch current useless minimum bunker";
+var mnemonic = "light own quick bargain ability give royal hazard reject aerobic flight guide";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant drum actor prosper borrow burden eye torch thunder bicycle enable shaft";
+var mnemonic = "believe task rely cook sound choice extend diesel position time kit cousin";

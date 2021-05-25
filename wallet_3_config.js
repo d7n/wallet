@@ -1,1 +1,1 @@
-var mnemonic = "toddler enemy affair drop attitude scale silent wedding exile second whip total";
+var mnemonic = "utility breeze kit impulse begin elbow hedgehog october emerge square keep suffer";

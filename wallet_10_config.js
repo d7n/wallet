@@ -1,1 +1,1 @@
-var mnemonic = "inflict sick ski kitchen ghost awful rhythm submit puppy cotton ginger guess";
+var mnemonic = "load maze clarify lumber coral ugly later fee stay rug crouch inside";

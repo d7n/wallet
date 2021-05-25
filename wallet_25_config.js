@@ -1,1 +1,1 @@
-var mnemonic = "veteran cost sniff silver rose remember gun crew face estate stand mechanic";
+var mnemonic = "trash victory matter arctic alone name afford only turn album argue genre";

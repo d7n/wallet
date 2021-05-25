@@ -1,1 +1,1 @@
-var mnemonic = "company frequent blanket lyrics salmon distance modify seat donate story salute cradle";
+var mnemonic = "patch always frog vendor kingdom syrup swift shaft biology raw story work";

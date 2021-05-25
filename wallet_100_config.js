@@ -1,1 +1,1 @@
-var mnemonic = "pole movie grit edge team hurry cupboard mention enemy jelly soon blouse";
+var mnemonic = "okay harbor wool nut sort arctic now address wild eight hold hill";

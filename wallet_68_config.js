@@ -1,1 +1,1 @@
-var mnemonic = "cable broken lounge type discover route legal tumble surprise across scale skull";
+var mnemonic = "key situate update brown symptom chimney book verb about square sight unaware";

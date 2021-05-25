@@ -1,1 +1,1 @@
-var mnemonic = "olive almost patch fabric bulk circle pulse satisfy gauge time ring history";
+var mnemonic = "evidence above gain crack penalty wild lobster cactus resemble wheat dynamic allow";

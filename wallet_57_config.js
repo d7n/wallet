@@ -1,1 +1,1 @@
-var mnemonic = "master outer link brush aisle picnic fever scan skin impulse team glare";
+var mnemonic = "foil off lottery almost truth ritual flight tragic bike champion strong vehicle";

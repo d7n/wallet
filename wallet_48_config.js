@@ -1,1 +1,1 @@
-var mnemonic = "surprise exclude giraffe camera second deny couch glide depth crew admit stable";
+var mnemonic = "dice cable dignity oil ice mammal rose embody cook praise outer casual";

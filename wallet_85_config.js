@@ -1,1 +1,1 @@
-var mnemonic = "soon trip safe firm army tiger there fury away good stem toss";
+var mnemonic = "divert grief traffic eight giraffe place drill worry marriage question artwork cupboard";

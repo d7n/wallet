@@ -1,1 +1,1 @@
-var mnemonic = "oval jealous crawl web motor flat priority boring achieve normal test advice";
+var mnemonic = "reform vague burst together service cradle knock cigar depend neck donkey grid";

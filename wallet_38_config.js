@@ -1,1 +1,1 @@
-var mnemonic = "surface palm dismiss hospital sudden diagram spend era true loop solar impact";
+var mnemonic = "anxiety melt bean jacket because uphold salt diamond left climb must expire";

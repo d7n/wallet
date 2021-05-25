@@ -1,1 +1,1 @@
-var mnemonic = "because ring leisure offer rich grace mixed fever limit angry mother bread";
+var mnemonic = "december issue erase hub wait weird planet giraffe expect sentence grit couch";

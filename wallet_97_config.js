@@ -1,1 +1,1 @@
-var mnemonic = "practice silly giggle sight umbrella seek fiscal travel ceiling tomato spring depart";
+var mnemonic = "vault often private echo cook young total excite field chalk hospital cross";

@@ -1,1 +1,1 @@
-var mnemonic = "reason theory rare boss actual crop slogan bless pelican vast bag digital";
+var mnemonic = "panic trade sport ensure input video zebra total calm crash orange mom";

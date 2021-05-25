@@ -1,1 +1,1 @@
-var mnemonic = "company sure heart ten annual first bamboo cabin update guard fox option";
+var mnemonic = "mixture wash violin mom party announce exist coach cable artwork meadow despair";

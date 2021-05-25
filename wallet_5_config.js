@@ -1,1 +1,1 @@
-var mnemonic = "clown ride option speed inner elevator fruit bind gate assist until speak";
+var mnemonic = "enforce prison pepper business nasty buzz mandate exercise era laptop question twenty";

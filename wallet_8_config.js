@@ -1,1 +1,1 @@
-var mnemonic = "blur hero ticket entire coin hand rose disease inject vibrant brisk ostrich";
+var mnemonic = "liquid shrug force bright grit rail venture brother obtain wave repair private";

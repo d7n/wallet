@@ -1,1 +1,1 @@
-var mnemonic = "leg worth clay asset strategy scene health salad someone address toy opinion";
+var mnemonic = "remind two inspire shoulder style toddler hybrid obscure tent museum cash impulse";

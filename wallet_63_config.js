@@ -1,1 +1,1 @@
-var mnemonic = "company exit detect gospel method awkward museum food belt enter bread enhance";
+var mnemonic = "myth crack roast guitar proud fresh inch disease enforce distance improve post";

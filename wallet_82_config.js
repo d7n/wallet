@@ -1,1 +1,1 @@
-var mnemonic = "bronze river just wet alter solve demise amateur broom collect enable brain";
+var mnemonic = "dismiss element cute mushroom evolve twist grab fringe cause item shop strategy";

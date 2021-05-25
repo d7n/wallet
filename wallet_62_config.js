@@ -1,1 +1,1 @@
-var mnemonic = "fever empty omit dragon floor decrease maze two finish then trigger bitter";
+var mnemonic = "sport want gate tone idle perfect angry violin soul horse swap artefact";

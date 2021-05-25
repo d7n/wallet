@@ -1,1 +1,1 @@
-var mnemonic = "identify busy organ auto correct host picture cloth solid satoshi cruel master";
+var mnemonic = "system monster chronic toast legend receive planet setup correct coconut acquire apple";

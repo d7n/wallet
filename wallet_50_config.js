@@ -1,1 +1,1 @@
-var mnemonic = "amused hunt zone dial purity frog alley flash saddle chalk arrange glory";
+var mnemonic = "orchard gas relax combine cupboard bless output trick scatter gap obscure dog";

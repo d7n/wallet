@@ -1,1 +1,1 @@
-var mnemonic = "okay common nominee online exchange make chair crush guess stereo utility state";
+var mnemonic = "grit antique finish people result merit combine album diagram nation remember fog";

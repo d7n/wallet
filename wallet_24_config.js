@@ -1,1 +1,1 @@
-var mnemonic = "clog alien expect sad bulk illness apple unveil upon dilemma sting rally";
+var mnemonic = "pride buzz that pulse rabbit interest hen defy glove shoot wink chief";

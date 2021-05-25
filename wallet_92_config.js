@@ -1,1 +1,1 @@
-var mnemonic = "friend correct split pride adjust census grid charge grace bounce stable enter";
+var mnemonic = "congress mushroom regular absent swallow cook seed budget measure trade rose pigeon";

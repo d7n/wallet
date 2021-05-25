@@ -1,1 +1,1 @@
-var mnemonic = "caution actual cluster clog donkey fury timber surprise lemon puppy barrel clinic";
+var mnemonic = "damp shove pig dinner arrest small wreck olympic grace stable salmon sing";

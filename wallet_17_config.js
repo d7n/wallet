@@ -1,1 +1,1 @@
-var mnemonic = "volcano zero choice arrange magic original misery cable disagree must weather course";
+var mnemonic = "peanut fury warm need illegal wear ten pet exit border notable you";

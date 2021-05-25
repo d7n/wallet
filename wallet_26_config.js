@@ -1,1 +1,1 @@
-var mnemonic = "pudding assault tonight surface october solution long drop glue seven brush cabin";
+var mnemonic = "cabbage setup clap salute fiscal damage crater increase expect city another need";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon shock pledge frog bamboo fatigue fence budget immense token combine parade";
+var mnemonic = "grow cliff broom three three electric apology blossom wrist proof penalty spring";

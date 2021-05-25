@@ -1,1 +1,1 @@
-var mnemonic = "gold spoon panel ice green sugar glide debris maple road nation drastic";
+var mnemonic = "vast step damage smooth fever tortoise dial denial episode napkin universe liar";

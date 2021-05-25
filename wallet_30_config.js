@@ -1,1 +1,1 @@
-var mnemonic = "cloth demise raise very mad tortoise autumn sail speak soup castle female";
+var mnemonic = "ill reopen erosion turtle pool transfer law limit wine describe segment agent";

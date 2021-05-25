@@ -1,1 +1,1 @@
-var mnemonic = "yard load mercy liar sort output hurry grid tornado category copy alcohol";
+var mnemonic = "bundle rack fiction mesh fan aunt equip fit aim siege half slender";

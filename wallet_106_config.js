@@ -1,1 +1,1 @@
-var mnemonic = "alley skull setup live myself letter target calm visit soon hedgehog thought";
+var mnemonic = "smoke weather song bronze prosper busy observe option arrive evolve curtain uncle";

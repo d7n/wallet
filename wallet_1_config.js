@@ -1,1 +1,1 @@
-var mnemonic = "twelve bench note midnight clump patient thank relax include soldier novel sell";
+var mnemonic = "parent faint lesson sheriff occur spice neither gadget need caution inflict rotate";

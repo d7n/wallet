@@ -1,1 +1,1 @@
-var mnemonic = "dolphin crime maze father farm pupil cry slide guitar taxi chef finger";
+var mnemonic = "easy purse end left cotton harvest today eye time act thank job";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle sweet panda clock early feel illegal spring length blue rapid offer";
+var mnemonic = "silent skill strike display snake wear before fish pool involve plunge able";

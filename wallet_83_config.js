@@ -1,1 +1,1 @@
-var mnemonic = "combine borrow two firm conduct adjust mobile salt kit twice frog inspire";
+var mnemonic = "frost prosper foot poverty powder acid skirt pull maximum palm anger unfold";

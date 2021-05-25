@@ -1,1 +1,1 @@
-var mnemonic = "blossom broom lottery enter okay grass improve act impulse this globe ensure";
+var mnemonic = "crumble father brother biology aim advance minor swift traffic pudding memory sand";

@@ -1,1 +1,1 @@
-var mnemonic = "climb depth amount render boss attitude adapt flower wrist insect drastic motion";
+var mnemonic = "evoke stable blade island deal boy kitchen end photo pause list force";

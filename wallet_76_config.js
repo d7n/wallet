@@ -1,1 +1,1 @@
-var mnemonic = "glare wink payment rescue choice yard stove credit off element fitness crew";
+var mnemonic = "will leaf olive prepare vault provide rug dance multiply upgrade churn display";

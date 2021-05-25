@@ -1,1 +1,1 @@
-var mnemonic = "common learn trigger neutral bitter donate thunder timber phone judge elder calm";
+var mnemonic = "index toddler vocal amount supreme annual among capital next okay unfold leave";

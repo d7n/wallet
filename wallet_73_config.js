@@ -1,1 +1,1 @@
-var mnemonic = "wise ball board wasp satoshi yard can burger dragon capable finish turkey";
+var mnemonic = "hospital team chimney control legend miracle orient top cream infant rebel face";

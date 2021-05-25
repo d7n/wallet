@@ -1,1 +1,1 @@
-var mnemonic = "mail chef turtle valid globe genius defy smile chef attack share dirt";
+var mnemonic = "lottery shoe call behave planet genius affair weather amazing manual victory nephew";

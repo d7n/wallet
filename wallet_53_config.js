@@ -1,1 +1,1 @@
-var mnemonic = "flash tilt limb input identify man thrive father object belt chronic dash";
+var mnemonic = "hour coconut fan drastic bundle asthma field cruise cable bullet access home";

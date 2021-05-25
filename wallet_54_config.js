@@ -1,1 +1,1 @@
-var mnemonic = "column nasty crash surround wave life spot spoil tortoise judge fortune vintage";
+var mnemonic = "horse market alter click barely elder phone private online velvet leaf average";

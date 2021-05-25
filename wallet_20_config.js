@@ -1,1 +1,1 @@
-var mnemonic = "quantum fire clarify solid brother warfare kit danger team school talent girl";
+var mnemonic = "nation review expose balcony upon dignity chalk hotel creek kind marriage dilemma";

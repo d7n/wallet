@@ -1,1 +1,1 @@
-var mnemonic = "olive banner dog increase throw trash deal test brush protect base neither";
+var mnemonic = "reject skill ensure exercise grocery car deliver symbol green rich grass reform";

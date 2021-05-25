@@ -1,1 +1,1 @@
-var mnemonic = "point bacon kitten suit pulp execute foil witness fluid coach outdoor deputy";
+var mnemonic = "salt scale neck twin pride blur ghost labor eyebrow snow script erode";

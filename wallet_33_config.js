@@ -1,1 +1,1 @@
-var mnemonic = "radio situate debris spider obey trade west electric entry fantasy exercise annual";
+var mnemonic = "body stuff arrange wet damage link ring shove much educate rebuild turtle";

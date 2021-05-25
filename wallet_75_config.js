@@ -1,1 +1,1 @@
-var mnemonic = "close barrel tongue ocean trip because identify super curtain august crowd tunnel";
+var mnemonic = "spatial curtain panther park armor toddler shadow version option slogan weather type";

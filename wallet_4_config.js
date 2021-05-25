@@ -1,1 +1,1 @@
-var mnemonic = "sausage sing muscle point pumpkin crisp frown tissue vendor whale speak place";
+var mnemonic = "tobacco shove acquire group noise unlock apology truck traffic material when bread";

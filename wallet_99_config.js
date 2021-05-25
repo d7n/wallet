@@ -1,1 +1,1 @@
-var mnemonic = "page tone kiwi govern turkey unusual already bleak year velvet scale surge";
+var mnemonic = "catch hello sick midnight morning dawn under outdoor nut glass receive clerk";

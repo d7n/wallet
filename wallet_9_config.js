@@ -1,1 +1,1 @@
-var mnemonic = "notice road federal motor unable ripple chuckle theory warfare twice orphan warrior";
+var mnemonic = "east pencil tumble sting body exhaust kiwi oval weapon zoo jelly cupboard";

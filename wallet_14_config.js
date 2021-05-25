@@ -1,1 +1,1 @@
-var mnemonic = "poverty fruit nurse frozen absent relief joy aisle denial behave unfair become";
+var mnemonic = "frown mushroom gun random together boost arch search middle expect mirror evil";

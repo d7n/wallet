@@ -1,1 +1,1 @@
-var mnemonic = "romance burden radar sunset forward logic budget cable own yard wrong online";
+var mnemonic = "card order above alley feature coral visit exotic century garbage any repair";

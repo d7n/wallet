@@ -1,1 +1,1 @@
-var mnemonic = "ritual slush average immune joy glass green two pattern picnic super giant";
+var mnemonic = "useful hub shop predict theme alarm message transfer intact truly volcano hockey";

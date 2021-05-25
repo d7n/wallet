@@ -1,1 +1,1 @@
-var mnemonic = "grain practice tent rice humble edit sweet punch address author scissors dance";
+var mnemonic = "couple lumber crime truth uncover wrestle very pave leaf produce insane keep";

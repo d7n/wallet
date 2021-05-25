@@ -1,1 +1,1 @@
-var mnemonic = "cube proud naive game once bomb hurdle garage dice office sunset warm";
+var mnemonic = "issue comic crime again bleak cinnamon draw solar marble zoo method assist";

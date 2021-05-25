@@ -1,1 +1,1 @@
-var mnemonic = "survey mirror prize volume remember drink treat drill cereal captain base chaos";
+var mnemonic = "resist panda spin exit shallow camera lazy stool vicious crack seminar kid";

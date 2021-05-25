@@ -1,1 +1,1 @@
-var mnemonic = "two raise obscure black bring debate cram draw grant element metal senior";
+var mnemonic = "property frame wonder doll lottery human legal comfort gossip grape torch popular";

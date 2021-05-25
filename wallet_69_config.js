@@ -1,1 +1,1 @@
-var mnemonic = "steak night raise point pelican duty gospel legend similar original boss garlic";
+var mnemonic = "option runway ivory find vital glue virtual address sick cause increase hour";

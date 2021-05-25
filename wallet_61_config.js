@@ -1,1 +1,1 @@
-var mnemonic = "siege decade ensure matter body during answer cricket theory announce later pass";
+var mnemonic = "window waste menu giraffe alone welcome camp fiscal oblige history super stand";

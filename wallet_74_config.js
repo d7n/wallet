@@ -1,1 +1,1 @@
-var mnemonic = "roast world kiss mixture poverty mosquito affair match battle rough venue liberty";
+var mnemonic = "push bar endless fame shield seven cool wolf shiver void prize wild";

@@ -1,1 +1,1 @@
-var mnemonic = "child grid clarify velvet gallery hour arrange match echo shove bomb crash";
+var mnemonic = "strike void various shaft paddle uphold brass verify envelope sausage reopen rail";

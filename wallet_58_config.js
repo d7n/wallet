@@ -1,1 +1,1 @@
-var mnemonic = "media love bless mother mango anchor snake profit student penalty half ramp";
+var mnemonic = "toward south urge ensure fit smoke wedding wild hover fire actor effort";

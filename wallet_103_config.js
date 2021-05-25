@@ -1,1 +1,1 @@
-var mnemonic = "news pretty cloud enrich symbol process increase nominee quote caught fuel divide";
+var mnemonic = "clown poet embark dream exile alien traffic typical rule scatter consider voyage";

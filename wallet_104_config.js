@@ -1,1 +1,1 @@
-var mnemonic = "gravity party friend risk credit twelve cycle mixture curtain fame lend farm";
+var mnemonic = "doll van chair stool hundred behave silk beef unknown drastic bachelor fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle faith sunny despair host journey purpose simple result release pass beauty";
+var mnemonic = "example mandate swift diagram tiny flame rival security prepare year escape act";

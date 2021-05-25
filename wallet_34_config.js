@@ -1,1 +1,1 @@
-var mnemonic = "hybrid alien silent crucial chef zone whisper post swarm idea illness common";
+var mnemonic = "ramp despair flip seven tent draw liquid teach monitor record copy cable";

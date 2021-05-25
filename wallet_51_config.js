@@ -1,1 +1,1 @@
-var mnemonic = "secret dog dress zoo estate space humor dry viable mango fetch cannon";
+var mnemonic = "unusual husband yard net cube floor light mutual rack badge tourist retreat";

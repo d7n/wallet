@@ -1,1 +1,1 @@
-var mnemonic = "safe fly demise shine double draft reopen select myth wife stove onion";
+var mnemonic = "purpose move security digital riot auto hill already dry fun forget luggage";

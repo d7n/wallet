@@ -1,1 +1,1 @@
-var mnemonic = "link will bench surprise action artist index refuse lab mail tumble cement";
+var mnemonic = "disorder rebel toss surprise season blanket scrap special palace flip pottery obey";

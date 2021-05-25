@@ -1,1 +1,1 @@
-var mnemonic = "vast alert daring mind venue gift over beach grid april endorse scheme";
+var mnemonic = "follow hedgehog drink west genuine oyster saddle habit earn kitten gallery bird";

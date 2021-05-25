@@ -1,1 +1,1 @@
-var mnemonic = "remember fitness group wheat acoustic decorate recipe swear palace violin disagree danger";
+var mnemonic = "rocket basket owner wear two future earn march shrimp library stay novel";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse unknown cliff cargo report crucial arrive truth tobacco boost garage menu";
+var mnemonic = "ball again dwarf find crunch panic method sport urge okay innocent forum";

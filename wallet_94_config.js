@@ -1,1 +1,1 @@
-var mnemonic = "payment enable spirit hockey involve wealth board curve seven genuine reform impact";
+var mnemonic = "arctic special minor card plug tiger daughter magnet stamp sketch burst nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce diagram ritual miracle drop mountain inch know glass chapter village embrace";
+var mnemonic = "extend salon mask tobacco fish sad mix parrot pause squeeze pilot belt";

@@ -1,1 +1,1 @@
-var mnemonic = "excess floor copy pilot rib toward bubble inform van trouble leg another";
+var mnemonic = "daughter setup topple pluck admit film six replace cool acoustic misery emerge";

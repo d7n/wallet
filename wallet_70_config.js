@@ -1,1 +1,1 @@
-var mnemonic = "afford shadow cabin place choose snack welcome stick duck kiwi stuff boil";
+var mnemonic = "humble ostrich sight satisfy okay vendor rib item deer occur retreat slush";

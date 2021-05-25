@@ -1,1 +1,1 @@
-var mnemonic = "truck program page coral payment such ramp before life wish biology canyon";
+var mnemonic = "afford artefact better north hope together company mention wall despair retire piece";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse mango caution clarify glow shuffle brief glass pyramid news wild strike";
+var mnemonic = "onion goddess junk end shoot angle hobby true jeans faint barrel melody";

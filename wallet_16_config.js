@@ -1,1 +1,1 @@
-var mnemonic = "cross carpet depart candy waste lounge aspect country license federal blue original";
+var mnemonic = "potato defense joke purity term paddle limit quality symbol hurt antique sentence";
