@@ -1,1 +1,1 @@
-var mnemonic = "mushroom pact neck logic ceiling yard symptom virus script scheme someone anger";
+var mnemonic = "recipe accident sure gift deny vintage clerk ride release possible dinner prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor region give shoulder spread anchor jealous agree pretty poet alarm fine";
+var mnemonic = "end rough garment hybrid bronze purchase floor demand bundle seminar lens sketch";

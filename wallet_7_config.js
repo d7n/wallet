@@ -1,1 +1,1 @@
-var mnemonic = "deer purse chef envelope noodle relax photo frown mystery gorilla sound decorate";
+var mnemonic = "athlete junior twice age add hospital submit bubble ski grow brick gentle";

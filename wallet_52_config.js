@@ -1,1 +1,1 @@
-var mnemonic = "dry useful medal market style scale mixed enhance north rely annual dentist";
+var mnemonic = "setup vessel bacon license timber pulp fault glue actual this gossip produce";

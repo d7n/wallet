@@ -1,1 +1,1 @@
-var mnemonic = "mix shove document frequent eight dinosaur drink dizzy east curtain grief slow";
+var mnemonic = "like flower tissue universe chef uncle slim inflict advance banner garage robust";

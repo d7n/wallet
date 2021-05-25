@@ -1,1 +1,1 @@
-var mnemonic = "wall liberty shaft wedding about boat deny sing title link emerge uphold";
+var mnemonic = "april execute metal floor achieve annual present shop dog sample filter bulb";

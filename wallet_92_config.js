@@ -1,1 +1,1 @@
-var mnemonic = "wrestle creek echo actress invest stairs media civil enroll mandate cart burden";
+var mnemonic = "amused impose hedgehog walk lounge flavor expand carry subway negative under remain";

@@ -1,1 +1,1 @@
-var mnemonic = "corn rigid hour trip alien brown rebuild input outside saddle dizzy stick";
+var mnemonic = "multiply taxi raw mixed adjust diet allow detect match oxygen illness obtain";

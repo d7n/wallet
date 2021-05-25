@@ -1,1 +1,1 @@
-var mnemonic = "sniff holiday spice tourist penalty defy increase then vacuum inject faculty flat";
+var mnemonic = "rug evil busy quantum quote silent provide opinion security screen waste slogan";

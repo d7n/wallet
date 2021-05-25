@@ -1,1 +1,1 @@
-var mnemonic = "mom trust soup evolve shift ride liberty window version world admit diet";
+var mnemonic = "trap follow novel sentence initial auction enhance sport misery round pill buzz";

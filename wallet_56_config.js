@@ -1,1 +1,1 @@
-var mnemonic = "other fatal episode damage payment mansion buffalo walk gentle science card click";
+var mnemonic = "hobby coach frown buddy hundred cost jar brother elite daughter execute action";

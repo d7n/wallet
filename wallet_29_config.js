@@ -1,1 +1,1 @@
-var mnemonic = "good brush found omit crunch sight dwarf large sing kingdom leg movie";
+var mnemonic = "decade conduct script olive neck cat echo cross finger visit dragon pretty";

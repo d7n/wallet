@@ -1,1 +1,1 @@
-var mnemonic = "inhale pelican exhibit elder obtain coyote liquid clay globe theory fancy deliver";
+var mnemonic = "just pony drift mask grape sudden depth muffin text fatigue quantum clean";

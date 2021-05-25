@@ -1,1 +1,1 @@
-var mnemonic = "sunny flash flag almost cycle slim wine siege fashion banana where critic";
+var mnemonic = "certain lamp success stadium thing comic there hip result solid near river";

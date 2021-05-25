@@ -1,1 +1,1 @@
-var mnemonic = "buddy guitar mixture omit moment short snack ritual pink average example glory";
+var mnemonic = "little melody broccoli bridge rail pizza tissue cradle achieve transfer sell crater";

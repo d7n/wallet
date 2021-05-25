@@ -1,1 +1,1 @@
-var mnemonic = "now kangaroo nuclear social away cotton special video sausage clutch column royal";
+var mnemonic = "drink enhance arm forest elder sail claw load upgrade lunch human affair";

@@ -1,1 +1,1 @@
-var mnemonic = "depart cannon thrive advice fetch nephew social veteran gallery tackle pumpkin receive";
+var mnemonic = "rail phone together seat craft clap response little april video tomato inside";

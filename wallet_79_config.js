@@ -1,1 +1,1 @@
-var mnemonic = "fitness hood episode field liberty business trash foster pulp split unique panther";
+var mnemonic = "myself state bundle thrive labor thought orient grass pear life toward zero";

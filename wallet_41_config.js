@@ -1,1 +1,1 @@
-var mnemonic = "warfare artist empty helmet heavy hero rocket figure crater universe ethics shock";
+var mnemonic = "equip kangaroo ring umbrella priority soccer report luxury crop cart profit drive";

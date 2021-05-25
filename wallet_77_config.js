@@ -1,1 +1,1 @@
-var mnemonic = "poet card arch run current target valid skin deposit bone next impulse";
+var mnemonic = "canvas change ancient twist roof tower arctic combine era oxygen spin mutual";

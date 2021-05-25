@@ -1,1 +1,1 @@
-var mnemonic = "session kite where mass unveil satisfy ethics grace ladder lonely dignity foot";
+var mnemonic = "faint copy private teach close lion seat brave sell grace opera company";

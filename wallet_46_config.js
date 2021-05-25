@@ -1,1 +1,1 @@
-var mnemonic = "purity canal erupt uniform dune acoustic edge hero ritual nerve exhaust absent";
+var mnemonic = "settle alley mango sadness radio exchange royal crush dragon bread pride north";

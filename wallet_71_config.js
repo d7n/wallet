@@ -1,1 +1,1 @@
-var mnemonic = "okay night suggest casual blame access crouch cloth olympic whip post filter";
+var mnemonic = "polar liar jewel salt turn trick lobster youth wear unfair orange develop";

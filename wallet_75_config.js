@@ -1,1 +1,1 @@
-var mnemonic = "chaos borrow armed link dismiss story cover winner remain adjust bundle guard";
+var mnemonic = "slogan poem aerobic jungle track phrase diamond garage fossil scorpion cinnamon ride";

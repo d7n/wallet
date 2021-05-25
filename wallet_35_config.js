@@ -1,1 +1,1 @@
-var mnemonic = "awesome outdoor matrix whale wedding island razor embark liquid save athlete ability";
+var mnemonic = "outdoor track music client basket hat south seed slab same glimpse mechanic";

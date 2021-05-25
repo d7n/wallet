@@ -1,1 +1,1 @@
-var mnemonic = "sting leopard melt pause warm emerge twice hidden recycle utility recall shiver";
+var mnemonic = "village network juice current already female hunt tissue require fly shadow raven";

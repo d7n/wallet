@@ -1,1 +1,1 @@
-var mnemonic = "walk pattern comfort various define fancy west quantum exercise gasp goddess crew";
+var mnemonic = "cute make jar odor quiz diagram inmate ten card shiver cluster arrive";

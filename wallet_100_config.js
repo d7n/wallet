@@ -1,1 +1,1 @@
-var mnemonic = "alpha reduce huge virus swamp squeeze awesome search sea tunnel injury expand";
+var mnemonic = "little resemble other finish audit cloud sentence bone race cheap screen matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "twist move rare exile aisle grace list prepare school spin proud below";
+var mnemonic = "smile fee hover multiply west bamboo subject motor crop feed pig veteran";

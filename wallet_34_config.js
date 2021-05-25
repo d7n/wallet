@@ -1,1 +1,1 @@
-var mnemonic = "search bulk win cement symbol similar perfect hotel avocado mix rule unveil";
+var mnemonic = "toddler fresh people salmon figure apple situate wear voice tray only that";

@@ -1,1 +1,1 @@
-var mnemonic = "wing couch account solar pulp real dignity retreat siege satisfy gaze three";
+var mnemonic = "mixture valley mountain fluid champion donkey enable silver bird mean rhythm oppose";

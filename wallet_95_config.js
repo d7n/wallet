@@ -1,1 +1,1 @@
-var mnemonic = "elder bonus banner delay tennis apple toilet rural enemy tribe broom ranch";
+var mnemonic = "smooth judge flame scissors region blur puppy eagle retreat country image later";

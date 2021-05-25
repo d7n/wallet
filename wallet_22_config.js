@@ -1,1 +1,1 @@
-var mnemonic = "child jealous pigeon public capable snack actual certain salad glance lamp hospital";
+var mnemonic = "stove more wish damage beauty window nice quiz coil because announce silent";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase index another observe stable truth machine oblige drum category lizard story";
+var mnemonic = "hold elbow congress beef admit oblige parrot peanut very shed happy brass";

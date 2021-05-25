@@ -1,1 +1,1 @@
-var mnemonic = "plate ivory accident deny curtain tongue bracket shield federal violin wrist athlete";
+var mnemonic = "medal fly code option charge cave hood swarm grab era rhythm ramp";

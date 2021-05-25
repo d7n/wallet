@@ -1,1 +1,1 @@
-var mnemonic = "castle female bless half fit circle wealth very afraid blur behind increase";
+var mnemonic = "glance wheat public service south assume slender process monkey liquid maple coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct daring lucky quick dizzy wrong antique drink lawsuit around govern ask";
+var mnemonic = "tissue dry private youth capital dutch relief stand document huge write amount";

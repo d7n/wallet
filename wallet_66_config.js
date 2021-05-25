@@ -1,1 +1,1 @@
-var mnemonic = "choice ball vessel purchase copy brain library vanish metal august invest minimum";
+var mnemonic = "example hood useful world give leg owner nerve wealth push gate you";

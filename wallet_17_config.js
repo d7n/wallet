@@ -1,1 +1,1 @@
-var mnemonic = "bind own midnight mango brick submit people solution shed youth arrest sugar";
+var mnemonic = "senior update ankle brick group grocery calm banana duty pitch ridge unhappy";

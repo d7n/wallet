@@ -1,1 +1,1 @@
-var mnemonic = "simple coffee reward flip when shed jaguar crumble visa strike awful phrase";
+var mnemonic = "wool giraffe regular click discover action art mad wool give priority thought";

@@ -1,1 +1,1 @@
-var mnemonic = "sound abandon ostrich canal sing alcohol gate solar weasel kiss depth artist";
+var mnemonic = "bulb coyote glue rose spice oppose clock suffer broken gorilla ostrich bench";

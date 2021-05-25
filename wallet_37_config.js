@@ -1,1 +1,1 @@
-var mnemonic = "mammal unknown skate tongue inmate quote dumb glory battle uniform edge permit";
+var mnemonic = "travel camp assume onion minute measure strategy horse glass project end feature";

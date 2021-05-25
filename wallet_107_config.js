@@ -1,1 +1,1 @@
-var mnemonic = "open brush chuckle submit wheat glue income citizen slab stereo chuckle diet";
+var mnemonic = "lyrics receive excuse inherit expand surround album join prosper agent worry slide";

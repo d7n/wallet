@@ -1,1 +1,1 @@
-var mnemonic = "save essence lunar shed pair safe empower wash fringe need column echo";
+var mnemonic = "wedding what clinic human supreme initial impact favorite grid car rice rug";

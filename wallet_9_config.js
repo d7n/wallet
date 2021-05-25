@@ -1,1 +1,1 @@
-var mnemonic = "science gift logic blue outdoor mystery lounge desert buyer connect oak clinic";
+var mnemonic = "reunion excess involve puppy chronic scrub cousin item improve dial bunker baby";

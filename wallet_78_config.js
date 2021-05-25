@@ -1,1 +1,1 @@
-var mnemonic = "answer weekend timber maple couple utility rack fame limit remove drop opinion";
+var mnemonic = "melody supreme wear move organ anxiety priority fragile raven claim word struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "plate interest minor stay jump notice figure oxygen winter mother margin obvious";
+var mnemonic = "slab farm wish lunch bulb napkin nice knife echo blast hazard suspect";

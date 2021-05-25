@@ -1,1 +1,1 @@
-var mnemonic = "immune honey club enemy disease decide issue bleak rich orange lady crop";
+var mnemonic = "bachelor nothing hood paper oyster hurt draw soldier prison flavor eagle slender";

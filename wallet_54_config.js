@@ -1,1 +1,1 @@
-var mnemonic = "purpose try muffin action draw galaxy margin cry stumble cute pass flame";
+var mnemonic = "live today obscure liquid mirror kitchen begin lion pigeon tennis parade obvious";

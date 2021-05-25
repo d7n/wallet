@@ -1,1 +1,1 @@
-var mnemonic = "slam until illegal oil maple purchase ethics riot describe boost shallow praise";
+var mnemonic = "used genius offer alert north drastic success lift deal range moral amused";

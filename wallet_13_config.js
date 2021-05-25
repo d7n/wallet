@@ -1,1 +1,1 @@
-var mnemonic = "glow brave family glove picnic electric monster blouse secret already frame detail";
+var mnemonic = "rib code orient until pond accident siren light electric flavor grain sound";

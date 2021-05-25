@@ -1,1 +1,1 @@
-var mnemonic = "dynamic august text drill inside solid chase curtain enlist awkward divert noble";
+var mnemonic = "recall upgrade lake actual already syrup solar tattoo fragile veteran trigger table";

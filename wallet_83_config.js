@@ -1,1 +1,1 @@
-var mnemonic = "badge proud element ribbon merry seat mention regret core luggage clump pioneer";
+var mnemonic = "survey okay joy into reform cheese lottery screen night sea eternal sight";

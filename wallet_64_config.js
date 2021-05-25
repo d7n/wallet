@@ -1,1 +1,1 @@
-var mnemonic = "notice glove outdoor myself glue hurt wrong skate toss burst float decrease";
+var mnemonic = "truly farm scissors attitude grow animal enhance giraffe lecture cannon grunt picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "park supply grape faith scorpion candy person raven estate inherit runway dumb";
+var mnemonic = "mixed embrace whale daring gospel matter pulp dinosaur congress moral arch thunder";

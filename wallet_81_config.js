@@ -1,1 +1,1 @@
-var mnemonic = "anchor lonely opinion frequent sand diagram enemy bulk cake carpet emerge divert";
+var mnemonic = "pulse firm similar indoor gun venture tree bird shove crisp floor extra";

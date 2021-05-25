@@ -1,1 +1,1 @@
-var mnemonic = "fragile page dove motor zoo hour result enhance curtain immense ahead stay";
+var mnemonic = "enrich evil panic tuition census always lock inmate panel ability cloth brass";

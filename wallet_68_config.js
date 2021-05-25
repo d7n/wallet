@@ -1,1 +1,1 @@
-var mnemonic = "lamp penalty jeans enroll battle toe tumble genius chalk trend oblige enact";
+var mnemonic = "since cook involve vacuum trumpet loan remind oyster pulse people sick shift";

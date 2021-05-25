@@ -1,1 +1,1 @@
-var mnemonic = "sell visa pact eager oxygen middle gather size mixed trumpet burger tumble";
+var mnemonic = "wagon physical report mask again lottery weapon find grocery sniff rib battle";

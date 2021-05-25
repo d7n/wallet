@@ -1,1 +1,1 @@
-var mnemonic = "poverty rapid glory fee session bench broccoli resemble sun lesson execute bright";
+var mnemonic = "lion cool carbon crush mandate laundry transfer bus novel normal stamp giant";

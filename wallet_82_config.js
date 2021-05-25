@@ -1,1 +1,1 @@
-var mnemonic = "chimney wasp begin tank base salt dog roof never thrive green average";
+var mnemonic = "choice original market dentist allow lyrics bread rate tag cotton divorce nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "total ritual receive plunge anchor nest leisure exile stick small secret sunny";
+var mnemonic = "hungry skate square bid planet organ peasant envelope length crawl ability add";

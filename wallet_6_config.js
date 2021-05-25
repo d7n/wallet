@@ -1,1 +1,1 @@
-var mnemonic = "mirror mouse small pull kid skin holiday jealous grace clump suffer clinic";
+var mnemonic = "organ glass provide shock extend lumber screen zebra rally security beyond client";

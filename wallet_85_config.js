@@ -1,1 +1,1 @@
-var mnemonic = "ginger slim screen gap umbrella fun around reward myself butter hobby avoid";
+var mnemonic = "disorder desk napkin attract job parrot learn rival strong chest become drastic";

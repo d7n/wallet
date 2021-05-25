@@ -1,1 +1,1 @@
-var mnemonic = "certain stage legal wasp fault inquiry horse vendor indoor elbow army what";
+var mnemonic = "stadium old false side trophy transfer cluster slab syrup tiny door inspire";

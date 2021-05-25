@@ -1,1 +1,1 @@
-var mnemonic = "stomach dance vessel nerve fade potato license tape beyond suit kick six";
+var mnemonic = "chief clean pink lyrics question material ship miracle magic bulb hurt gold";

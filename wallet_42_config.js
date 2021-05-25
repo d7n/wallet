@@ -1,1 +1,1 @@
-var mnemonic = "sick cactus near join emotion lamp voyage gauge disorder quantum priority shoulder";
+var mnemonic = "change garage obey entry library park bargain typical sweet melt energy journey";

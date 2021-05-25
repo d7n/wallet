@@ -1,1 +1,1 @@
-var mnemonic = "blood helmet bean chalk keen gesture flush youth traffic orchard hold rocket";
+var mnemonic = "slogan mandate squeeze laundry apology lyrics odor want second gain surface lobster";

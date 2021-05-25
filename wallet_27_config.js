@@ -1,1 +1,1 @@
-var mnemonic = "bottom foster frozen device relax deny extra cream age reason pond screen";
+var mnemonic = "sunny guide spoil about chronic direct carpet drop artist much ethics coach";

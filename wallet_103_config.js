@@ -1,1 +1,1 @@
-var mnemonic = "tool unknown cheese lecture echo round talk heavy marriage find cradle agent";
+var mnemonic = "skirt success later main blouse book drink excuse find rhythm case duty";

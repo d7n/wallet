@@ -1,1 +1,1 @@
-var mnemonic = "tuition model nasty super dirt pistol elephant eight wire peasant can cover";
+var mnemonic = "enable pyramid radio burst famous call subject party provide wood hold seminar";

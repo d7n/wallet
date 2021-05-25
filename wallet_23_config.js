@@ -1,1 +1,1 @@
-var mnemonic = "bamboo drama exercise hurry add deputy govern bone ozone coconut alien copy";
+var mnemonic = "crush neither swamp lift cloth melt resemble mountain blossom lock grant focus";

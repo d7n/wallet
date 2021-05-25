@@ -1,1 +1,1 @@
-var mnemonic = "bachelor remain blood enough solar chef boat vehicle burst runway degree real";
+var mnemonic = "scrap bundle trade law system stuff pink opinion addict shy gain type";

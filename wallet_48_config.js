@@ -1,1 +1,1 @@
-var mnemonic = "near solve hawk gate prosper hole soft fitness chicken social solve penalty";
+var mnemonic = "boil surface clip crystal myself blind ugly tumble walk social special want";

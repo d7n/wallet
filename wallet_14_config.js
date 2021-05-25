@@ -1,1 +1,1 @@
-var mnemonic = "culture brass frown budget family involve evolve scrap loan relief stand still";
+var mnemonic = "humble embody crucial brown misery business coyote horse trash hat rocket base";

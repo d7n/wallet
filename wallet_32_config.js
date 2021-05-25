@@ -1,1 +1,1 @@
-var mnemonic = "address obey deposit risk frame audit favorite turtle ramp drift sunset response";
+var mnemonic = "ketchup guard merit wire behind agent marine hold tribe crisp glimpse focus";

@@ -1,1 +1,1 @@
-var mnemonic = "order mix grit approve trim lawsuit faith typical undo vivid mouse wedding";
+var mnemonic = "home cement senior exhibit protect remind alpha float mesh remember slide twelve";

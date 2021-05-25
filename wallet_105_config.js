@@ -1,1 +1,1 @@
-var mnemonic = "identify ring marine sell sock field whip twist settle throw imitate route";
+var mnemonic = "earn torch upon era task double forest lamp little buddy final gesture";

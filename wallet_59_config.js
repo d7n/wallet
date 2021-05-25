@@ -1,1 +1,1 @@
-var mnemonic = "exchange ivory renew liberty gym clap fancy capital protect ask rigid clown";
+var mnemonic = "predict depart good gorilla exclude neutral glass suggest very trap turtle merge";

@@ -1,1 +1,1 @@
-var mnemonic = "slot faculty lobster unfair very frost what claw spell spread blood motion";
+var mnemonic = "oxygen feed infant three lend major angry daughter couple session album until";

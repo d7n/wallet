@@ -1,1 +1,1 @@
-var mnemonic = "want gadget scorpion lock around frown credit husband luxury anxiety appear cruise";
+var mnemonic = "border original park anxiety music tattoo vicious noise certain napkin rebuild text";

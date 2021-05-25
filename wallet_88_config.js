@@ -1,1 +1,1 @@
-var mnemonic = "pony cute crazy autumn battle scout bridge lottery initial input wink kingdom";
+var mnemonic = "tone mercy jealous chalk width envelope loyal feed fire wrong museum rose";

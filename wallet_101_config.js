@@ -1,1 +1,1 @@
-var mnemonic = "episode child breeze route sleep host truly gravity donate refuse brick dress";
+var mnemonic = "fog poem blur trick bonus yellow pool spoon sentence spirit apart flame";

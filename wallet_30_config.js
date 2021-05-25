@@ -1,1 +1,1 @@
-var mnemonic = "glass style mother bachelor glide remind lobster whip debris humor sunny snack";
+var mnemonic = "tape narrow sister pole rhythm supreme goat suit bench exchange solar proof";

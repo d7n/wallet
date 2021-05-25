@@ -1,1 +1,1 @@
-var mnemonic = "chunk face unknown glare save night sausage start vicious theory right render";
+var mnemonic = "client gown mutual faint bonus sick hedgehog vote furnace armor gold coach";

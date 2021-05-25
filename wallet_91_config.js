@@ -1,1 +1,1 @@
-var mnemonic = "input air target diet side river forum hero invite enlist surprise route";
+var mnemonic = "next comfort hover lady hunt book document lawsuit believe wrap frozen crystal";

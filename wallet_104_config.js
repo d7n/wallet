@@ -1,1 +1,1 @@
-var mnemonic = "flat amused risk kitten solution shine future pink much rib pulp health";
+var mnemonic = "balance hunt fence electric hunt slender garlic dwarf knock chalk all proof";

@@ -1,1 +1,1 @@
-var mnemonic = "argue neutral detect near either claim cook office false lottery risk success";
+var mnemonic = "desk eight report people tragic empty floor test cactus torch donate custom";
