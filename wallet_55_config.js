@@ -1,1 +1,1 @@
-var mnemonic = "fetch poem destroy acquire purpose stay glide critic size coffee talent current";
+var mnemonic = "remind tumble donate misery output parade hope strategy test olive casual cinnamon";

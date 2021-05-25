@@ -1,1 +1,1 @@
-var mnemonic = "prize reform you slab reject urge mother welcome hire trigger meat month";
+var mnemonic = "pyramid later staff soup drift asthma aisle frown into dutch because nasty";

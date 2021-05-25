@@ -1,1 +1,1 @@
-var mnemonic = "sausage artist nice type leg rule course bulb finger above dice nut";
+var mnemonic = "unhappy update limit pull burden bone equip deer cricket game crew rescue";

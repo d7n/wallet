@@ -1,1 +1,1 @@
-var mnemonic = "crisp find town taste law alert empty corn surface valve gossip cabin";
+var mnemonic = "exhaust luxury second universe snack aware canyon lobster buzz wisdom daring mirror";

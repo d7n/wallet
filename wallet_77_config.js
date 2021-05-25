@@ -1,1 +1,1 @@
-var mnemonic = "vibrant detail fragile stable flower pave cloud bubble crack fold cry weird";
+var mnemonic = "range have enough parade wash lady hurry boy monkey scan sheriff senior";

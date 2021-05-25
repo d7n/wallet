@@ -1,1 +1,1 @@
-var mnemonic = "worry demise artefact rather rebel novel hub rug weapon sick horror bean";
+var mnemonic = "talent best vintage eagle wealth maze segment whisper educate stumble clown poverty";

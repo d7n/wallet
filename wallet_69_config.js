@@ -1,1 +1,1 @@
-var mnemonic = "junk lonely gossip opera fashion stool horn mouse social multiply gun sheriff";
+var mnemonic = "sample furnace lens bind random between small demand purse crucial erupt van";

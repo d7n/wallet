@@ -1,1 +1,1 @@
-var mnemonic = "absent school mosquito amount permit vote must reason maple copper town vicious";
+var mnemonic = "culture toss sweet robot enforce sting material present bubble best beauty street";

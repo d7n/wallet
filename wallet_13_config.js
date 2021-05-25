@@ -1,1 +1,1 @@
-var mnemonic = "length plastic become dentist winter wide remember found pepper runway model warrior";
+var mnemonic = "come calm raw suffer crash skin rough share actual surround design major";

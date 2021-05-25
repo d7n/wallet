@@ -1,1 +1,1 @@
-var mnemonic = "symbol tortoise elbow gorilla warm mobile flavor model index fossil banner wrist";
+var mnemonic = "smile ginger grunt easy tornado cash arrow regret use retreat peasant airport";

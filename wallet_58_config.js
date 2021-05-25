@@ -1,1 +1,1 @@
-var mnemonic = "adapt tray fortune mind culture wrestle dumb limb sting brief asthma liar";
+var mnemonic = "mirror student badge treat anger expect initial other faculty fury tribe asthma";

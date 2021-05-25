@@ -1,1 +1,1 @@
-var mnemonic = "rate awake thing unlock charge person script sad razor quality garment lyrics";
+var mnemonic = "promote sample pond region glance carry cactus aim token student math police";

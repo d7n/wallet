@@ -1,1 +1,1 @@
-var mnemonic = "number mutual unfair album chest general rookie flee cross dish forum fit";
+var mnemonic = "core believe enemy survey cargo spell already can mystery embody fashion carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "basic slab tornado chest toy pluck charge three obscure abstract fat legend";
+var mnemonic = "captain foot peasant outer remind scissors wink task order spider spread winter";

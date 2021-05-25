@@ -1,1 +1,1 @@
-var mnemonic = "fiscal cup drum village abandon nation kind mango admit neutral verb salmon";
+var mnemonic = "logic glove slam flat silk crush parrot cloud audit lens spray opera";

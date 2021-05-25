@@ -1,1 +1,1 @@
-var mnemonic = "dinner network impulse run hair artefact only clean forum salon heart dream";
+var mnemonic = "correct certain leg long bundle syrup anchor issue raw museum elite glory";

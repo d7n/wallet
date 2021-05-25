@@ -1,1 +1,1 @@
-var mnemonic = "report swear vibrant amazing harsh glove crack razor garbage resource whale two";
+var mnemonic = "patrol ribbon setup boy skill obvious jacket connect control mouse resist faith";

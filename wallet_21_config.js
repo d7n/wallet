@@ -1,1 +1,1 @@
-var mnemonic = "churn easy ribbon mimic rather tiger cactus tackle clutch public direct replace";
+var mnemonic = "convince price window wrist route security vapor best easy degree topic mixed";

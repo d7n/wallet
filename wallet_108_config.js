@@ -1,1 +1,1 @@
-var mnemonic = "cute spy immune ankle amused duck cousin deliver father island mule good";
+var mnemonic = "female champion dragon mandate team segment banner save title team police dignity";

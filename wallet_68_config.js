@@ -1,1 +1,1 @@
-var mnemonic = "female abuse urban build rain glow bag offer sample brand then expand";
+var mnemonic = "cover purse wire profit powder lumber torch valid sea web language update";

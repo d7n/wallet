@@ -1,1 +1,1 @@
-var mnemonic = "patrol solar marriage duty earn six duck destroy front join mountain symptom";
+var mnemonic = "scan filter sad stay direct mushroom duck neglect glow away reject rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse game tank boost post vessel example coach kit cart shiver anger";
+var mnemonic = "sauce insect mixed use liquid scan leave fit lottery market category message";

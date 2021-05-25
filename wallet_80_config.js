@@ -1,1 +1,1 @@
-var mnemonic = "home stool battle daring oyster gasp flame drastic engage artefact receive crowd";
+var mnemonic = "opera render sound sort exile torch digital portion setup quality firm effort";

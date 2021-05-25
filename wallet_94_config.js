@@ -1,1 +1,1 @@
-var mnemonic = "unable decrease lab effort vessel travel crazy project risk gain rare please";
+var mnemonic = "broccoli inspire eyebrow pottery shoulder drip midnight goose excess rubber artefact protect";

@@ -1,1 +1,1 @@
-var mnemonic = "control rubber moon kiwi correct exhibit pumpkin spring shadow mother custom able";
+var mnemonic = "drastic artist volume tail analyst pill hole salon rug always voyage expand";

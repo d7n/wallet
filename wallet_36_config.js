@@ -1,1 +1,1 @@
-var mnemonic = "follow security armor rule devote veteran shed figure double soccer vapor fabric";
+var mnemonic = "palm project lend teach pulse mirror coral clutch cliff cost jazz bottom";

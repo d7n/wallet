@@ -1,1 +1,1 @@
-var mnemonic = "isolate key art know tail pact thank never tumble minimum say decide";
+var mnemonic = "assume hundred drip ozone benefit question next muffin clever eyebrow sad kingdom";

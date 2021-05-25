@@ -1,1 +1,1 @@
-var mnemonic = "frog tribe arena erode orient venue final settle mirror age bag entry";
+var mnemonic = "egg eagle used wealth oxygen cube whip dune primary truly silent used";

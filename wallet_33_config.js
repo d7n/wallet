@@ -1,1 +1,1 @@
-var mnemonic = "argue cruise idea access license liar inner chuckle turtle gloom mind diary";
+var mnemonic = "goddess security flag inside ride work sausage liar coin describe final craft";

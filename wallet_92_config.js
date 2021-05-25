@@ -1,1 +1,1 @@
-var mnemonic = "fat lock neck diamond guitar lizard lounge tilt hidden shove private rely";
+var mnemonic = "bean actress season notable grunt cupboard royal sister alone wash visit smoke";

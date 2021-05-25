@@ -1,1 +1,1 @@
-var mnemonic = "nerve winter olive radio insect satisfy pair carbon mechanic interest border guilt";
+var mnemonic = "view million gap return also confirm daring virtual pill spend casino comfort";

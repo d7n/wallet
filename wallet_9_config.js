@@ -1,1 +1,1 @@
-var mnemonic = "knock joke hover hope only onion must bomb quantum jump fragile actress";
+var mnemonic = "pattern vital cake bleak party struggle devote develop sea initial popular tribe";

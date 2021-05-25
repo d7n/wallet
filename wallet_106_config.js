@@ -1,1 +1,1 @@
-var mnemonic = "essence vital split idle build timber what blood nominee tomorrow rubber major";
+var mnemonic = "fold blue target garbage camp pet merry good hotel pistol talent urban";

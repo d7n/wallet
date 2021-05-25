@@ -1,1 +1,1 @@
-var mnemonic = "cable math enter book raccoon glove energy bring immune crush obvious grow";
+var mnemonic = "improve welcome film neglect unfair truck kiss train panic true hungry duck";

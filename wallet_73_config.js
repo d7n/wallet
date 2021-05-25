@@ -1,1 +1,1 @@
-var mnemonic = "deputy bus vacuum glide reopen flock general come flip park input tag";
+var mnemonic = "utility vintage dismiss vicious social bread tower imitate slender enlist time find";

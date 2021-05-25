@@ -1,1 +1,1 @@
-var mnemonic = "spray rely tuition rapid choice meat decade post clap ignore loyal warrior";
+var mnemonic = "load spawn sibling vibrant recycle leave stairs spider summer know control opinion";

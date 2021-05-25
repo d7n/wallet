@@ -1,1 +1,1 @@
-var mnemonic = "banana seminar reason strategy alarm uncover home increase over sausage invest chat";
+var mnemonic = "poet toward brush still gesture magic enroll conduct abandon sure mirror rice";

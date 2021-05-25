@@ -1,1 +1,1 @@
-var mnemonic = "monkey lyrics menu use panel price despair flush boy planet sustain field";
+var mnemonic = "saddle vessel wealth cute elite arctic shiver enough novel trust effort comic";

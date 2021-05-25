@@ -1,1 +1,1 @@
-var mnemonic = "organ typical town beauty path culture flock print trick organ squirrel jump";
+var mnemonic = "theme ritual abstract captain giraffe melt clutch observe liquid jazz memory grace";

@@ -1,1 +1,1 @@
-var mnemonic = "feed creek soft joy kit cargo congress announce leaf multiply dress educate";
+var mnemonic = "pond option rain normal enemy trap churn next recycle canal shadow size";

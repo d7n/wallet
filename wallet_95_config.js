@@ -1,1 +1,1 @@
-var mnemonic = "army lava thrive ten announce paper unknown faith trial yard juice scissors";
+var mnemonic = "sad tragic bracket lyrics address plug loyal theory excite march night plastic";

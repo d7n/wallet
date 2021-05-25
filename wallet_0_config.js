@@ -1,1 +1,1 @@
-var mnemonic = "polar uniform stone delay antique secret layer body brand knee thumb draw";
+var mnemonic = "airport buyer bus furnace lyrics awesome flee govern story raven type fix";

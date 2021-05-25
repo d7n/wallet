@@ -1,1 +1,1 @@
-var mnemonic = "vicious help already success diagram brand gain olive flash depart another human";
+var mnemonic = "volcano obvious material view rough arctic magic angry shed save wolf gravity";

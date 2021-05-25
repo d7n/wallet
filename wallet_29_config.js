@@ -1,1 +1,1 @@
-var mnemonic = "group transfer dolphin attract insane marble album utility pink pig winner draw";
+var mnemonic = "service inner neglect limb win wild over decrease mirror mobile hair magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild lemon wrist exotic ball raw smile movie crew mixed license canal";
+var mnemonic = "clown tomorrow require exact please false spider vague stairs visa space brick";

@@ -1,1 +1,1 @@
-var mnemonic = "city amused silver either market citizen success inner tray type know grass";
+var mnemonic = "antenna repair negative vacuum save awake man type marble undo cave mushroom";

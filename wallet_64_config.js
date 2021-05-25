@@ -1,1 +1,1 @@
-var mnemonic = "sell shove interest over maximum drip pole swing long broccoli split vacant";
+var mnemonic = "laundry seed across obtain dolphin junior artefact abstract fragile salmon cream depth";

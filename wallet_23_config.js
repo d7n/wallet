@@ -1,1 +1,1 @@
-var mnemonic = "guide faith stool fruit recall fit ring canvas garage wedding analyst genuine";
+var mnemonic = "jelly clerk world demise build brave holiday express stable inmate soft refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic beyond loud purity sniff load gun strike accuse envelope spike element";
+var mnemonic = "milk law list opera finish crazy pistol deer prevent woman wasp mule";

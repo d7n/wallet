@@ -1,1 +1,1 @@
-var mnemonic = "they adjust rely gloom joke replace cart check grape erase twelve input";
+var mnemonic = "protect west mule mammal nature uncover galaxy weekend coconut empower term wrong";

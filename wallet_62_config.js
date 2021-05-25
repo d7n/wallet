@@ -1,1 +1,1 @@
-var mnemonic = "ethics glare require lamp stick hundred treat target ticket toy kid reason";
+var mnemonic = "erupt aware coin praise cry virtual truth airport prepare van leg hedgehog";

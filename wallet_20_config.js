@@ -1,1 +1,1 @@
-var mnemonic = "congress flock silk enjoy cable curtain island salute anxiety sausage bus loan";
+var mnemonic = "gain feel junior glimpse mass purity develop guess acoustic clutch naive piece";

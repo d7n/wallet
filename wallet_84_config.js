@@ -1,1 +1,1 @@
-var mnemonic = "false immune lizard shallow derive powder meadow mandate exotic garment caught neglect";
+var mnemonic = "observe atom sense junior credit muffin chunk fruit travel space pioneer two";

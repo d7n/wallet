@@ -1,1 +1,1 @@
-var mnemonic = "gentle pig town moral enrich differ dress dose planet pause subject solution";
+var mnemonic = "feed claim wire absurd narrow must wild always proof smile duty emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "measure client emotion pilot swallow clay blossom kiwi hero system drill casino";
+var mnemonic = "rude slam inform icon flee fragile three roof kite thunder earth choose";

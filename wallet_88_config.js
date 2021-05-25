@@ -1,1 +1,1 @@
-var mnemonic = "firm erase prevent quality expand exact execute when quit drastic consider solid";
+var mnemonic = "math iron thought trip mobile frog title device detail train sun million";

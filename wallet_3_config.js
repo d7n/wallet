@@ -1,1 +1,1 @@
-var mnemonic = "pass sauce duck special kick nature anger shoot merry strike party belt";
+var mnemonic = "quick sad satoshi stem coast lawsuit hint eternal eternal blame uncle hotel";

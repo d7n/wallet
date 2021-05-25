@@ -1,1 +1,1 @@
-var mnemonic = "enough cradle advance afraid bird bread switch cycle caution blame beach soda";
+var mnemonic = "want drama tooth flag behind warm orchard dial permit sadness transfer mechanic";

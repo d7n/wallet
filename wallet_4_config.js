@@ -1,1 +1,1 @@
-var mnemonic = "bone prize river flat confirm shoe course taxi speed onion chalk giant";
+var mnemonic = "museum remove best have strike diamond chronic twist fiscal field true nerve";

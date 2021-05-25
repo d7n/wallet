@@ -1,1 +1,1 @@
-var mnemonic = "winter gloom require wool clay frozen tell actual enter tide program visual";
+var mnemonic = "exhibit satoshi start crawl denial balance magnet found alert snack anxiety error";

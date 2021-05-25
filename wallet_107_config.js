@@ -1,1 +1,1 @@
-var mnemonic = "pretty salt sound broom concert ghost unaware fox cram favorite catalog glad";
+var mnemonic = "dwarf butter flash marine congress skirt assume elder shaft measure mechanic donate";

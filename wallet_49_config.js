@@ -1,1 +1,1 @@
-var mnemonic = "acid economy butter oak hello rib olive prepare anger unusual enjoy mask";
+var mnemonic = "all denial virtual usual wash law turkey limit hood security cool hen";

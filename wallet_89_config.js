@@ -1,1 +1,1 @@
-var mnemonic = "unique napkin section spoon cloud exact canoe bottom nominee detect plunge wolf";
+var mnemonic = "artwork stick matrix head pride tired nurse piece essence upset spend shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer north knife fiber upon hurdle field speed uncle disease tomato boat";
+var mnemonic = "pupil box attend glimpse thrive game dress expect demise length nature girl";

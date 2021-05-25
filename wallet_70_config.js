@@ -1,1 +1,1 @@
-var mnemonic = "weather collect burger evolve find adjust hidden blue stand hammer flip nice";
+var mnemonic = "night achieve sketch salon bundle nominee cargo deal brave share vanish crush";

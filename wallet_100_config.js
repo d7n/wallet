@@ -1,1 +1,1 @@
-var mnemonic = "earn brick already win predict hospital dinosaur consider panther praise wet oxygen";
+var mnemonic = "gate brand metal cliff caution movie horror gown cloth left border orient";

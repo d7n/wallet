@@ -1,1 +1,1 @@
-var mnemonic = "load carry siren satoshi marriage damp antique wrist involve boy piano shadow";
+var mnemonic = "lion hockey immense kitten step age crane tumble quarter sausage connect cupboard";

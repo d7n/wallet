@@ -1,1 +1,1 @@
-var mnemonic = "frown fruit bean laptop march table rhythm disagree leaf decade stand promote";
+var mnemonic = "position wreck battle wolf improve fan admit wing debate aunt furnace inherit";

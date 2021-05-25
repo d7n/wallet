@@ -1,1 +1,1 @@
-var mnemonic = "pretty oven reduce calm snow ostrich volume real define obscure motor math";
+var mnemonic = "arrow coffee month vapor move secret cloud device blind risk target birth";

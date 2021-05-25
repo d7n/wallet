@@ -1,1 +1,1 @@
-var mnemonic = "always call shine outdoor fade cattle gasp they hedgehog pig clinic cradle";
+var mnemonic = "cushion bench observe photo abandon able distance animal agent speak scan size";

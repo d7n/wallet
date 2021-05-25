@@ -1,1 +1,1 @@
-var mnemonic = "rhythm again goose avoid fence gossip honey patient cherry pyramid eagle absurd";
+var mnemonic = "shy cricket project region mistake fringe push design into afford end hover";

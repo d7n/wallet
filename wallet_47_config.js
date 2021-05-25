@@ -1,1 +1,1 @@
-var mnemonic = "dinner infant real citizen remind bronze stove solve fantasy camp state embrace";
+var mnemonic = "equal town amused pioneer mimic tone napkin seminar strong dust electric time";

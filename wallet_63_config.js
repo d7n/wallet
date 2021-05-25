@@ -1,1 +1,1 @@
-var mnemonic = "hello outdoor tongue betray jazz remove flight enemy hidden feature absent story";
+var mnemonic = "spawn face scan ask width cage milk hood wine common scare acid";

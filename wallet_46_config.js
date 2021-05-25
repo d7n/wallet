@@ -1,1 +1,1 @@
-var mnemonic = "stool dwarf appear crop secret record unit crumble leaf fresh chicken little";
+var mnemonic = "arrest sentence luxury pink culture escape open pepper cash toilet stand wet";

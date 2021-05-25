@@ -1,1 +1,1 @@
-var mnemonic = "sudden myself around lock dry seminar tackle write model struggle banner damp";
+var mnemonic = "pride develop glue memory segment earth fetch cliff taste marble casual spike";

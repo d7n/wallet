@@ -1,1 +1,1 @@
-var mnemonic = "cake world nose patient foot vessel neutral runway staff image soul fever";
+var mnemonic = "major shoulder universe midnight high guitar approve liar hour rain cigar seat";

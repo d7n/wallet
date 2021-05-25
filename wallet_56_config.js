@@ -1,1 +1,1 @@
-var mnemonic = "rich foot shop neglect trick keep shoulder say base lazy apart forget";
+var mnemonic = "copper chat wink guess situate absorb welcome impulse magnet fossil wild anxiety";

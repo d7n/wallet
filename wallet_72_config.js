@@ -1,1 +1,1 @@
-var mnemonic = "small write ivory forward cave praise diamond ginger addict crush mutual dizzy";
+var mnemonic = "front violin grunt round hurry try verify mother alone logic hobby silver";

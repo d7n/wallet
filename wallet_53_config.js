@@ -1,1 +1,1 @@
-var mnemonic = "early surface fox noise retreat essay giraffe harvest window farm core balance";
+var mnemonic = "pave garbage smile notable staff dynamic time medal tattoo twelve maid moment";

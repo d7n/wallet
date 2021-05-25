@@ -1,1 +1,1 @@
-var mnemonic = "hat obvious glow menu favorite spoil victory stable glue ceiling sadness voyage";
+var mnemonic = "special fiction beyond snack game radar above cost upper ethics avoid royal";

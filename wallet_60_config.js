@@ -1,1 +1,1 @@
-var mnemonic = "tornado person target buyer between pony sponsor stage exhaust kitten acoustic original";
+var mnemonic = "wrist delay amazing denial blast mom exclude screen cheap half evoke gown";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere peace super there minimum wood oxygen liberty wool fluid alarm volcano";
+var mnemonic = "physical neutral buffalo color fashion return hand vague spider divide note busy";

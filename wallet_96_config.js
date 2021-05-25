@@ -1,1 +1,1 @@
-var mnemonic = "summer spawn wheat tank sure pear fortune story swap original issue hip";
+var mnemonic = "woman hard supreme harsh fun armor smooth slender spare doctor coral erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "knee limit excess student text body cash forward power egg neither absent";
+var mnemonic = "cute disagree term entire tone pumpkin such vital card rebel ahead grid";

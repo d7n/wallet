@@ -1,1 +1,1 @@
-var mnemonic = "clinic unaware error caution ripple buyer session gentle crime dial bulb resist";
+var mnemonic = "change crime ritual another either exhaust dawn ring viable defy mixture fault";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce equal normal glare elegant change happy local stable cloud into network";
+var mnemonic = "space expire east fatigue brain genuine common make reflect nuclear install plate";

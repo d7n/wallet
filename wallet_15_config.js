@@ -1,1 +1,1 @@
-var mnemonic = "multiply margin mushroom ticket copy twice notable height laugh canal afraid artist";
+var mnemonic = "betray black wisdom pretty electric reunion lunch finger aerobic silly grocery fiction";

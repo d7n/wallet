@@ -1,1 +1,1 @@
-var mnemonic = "rifle digital blast attend scrap what oyster chapter balcony hurry volume bring";
+var mnemonic = "galaxy prepare unhappy dust same other target group provide math profit beauty";

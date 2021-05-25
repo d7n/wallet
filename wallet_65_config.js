@@ -1,1 +1,1 @@
-var mnemonic = "best position journey pottery awkward coconut dash that canvas throw emerge radar";
+var mnemonic = "frame purpose aspect edge artist hen ketchup segment general blossom deposit prepare";

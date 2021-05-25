@@ -1,1 +1,1 @@
-var mnemonic = "nothing year snake apart argue essence dwarf dune satoshi pass ignore remove";
+var mnemonic = "egg shallow coconut bullet future fish turtle matrix sun shadow hidden heavy";

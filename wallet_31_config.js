@@ -1,1 +1,1 @@
-var mnemonic = "harsh buyer derive town gate profit symptom odor genre giant burger employ";
+var mnemonic = "depart ride brother muscle east raven double process jaguar cable dose describe";

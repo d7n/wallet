@@ -1,1 +1,1 @@
-var mnemonic = "initial top total blush disease suffer acoustic slush market note treat swarm";
+var mnemonic = "promote sausage silent history immense leopard try aspect repair aspect amateur reform";

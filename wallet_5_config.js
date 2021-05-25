@@ -1,1 +1,1 @@
-var mnemonic = "garlic snack lens fossil clarify sustain cruel husband attend again novel voyage";
+var mnemonic = "sad relief tape wealth tone version leisure witness hat vapor left poet";
