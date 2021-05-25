@@ -1,1 +1,1 @@
-var mnemonic = "whisper exhibit attract rent when charge keen fruit return cute spoil host";
+var mnemonic = "child access stick bundle future chicken very orbit milk mad inherit cactus";

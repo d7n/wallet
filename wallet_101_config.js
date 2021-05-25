@@ -1,1 +1,1 @@
-var mnemonic = "eager height buffalo capital report farm sugar fame tone sad achieve girl";
+var mnemonic = "drama border carry permit large fitness quit weather prison increase flock warm";

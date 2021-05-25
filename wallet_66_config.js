@@ -1,1 +1,1 @@
-var mnemonic = "imitate oblige weird math forward fire dirt avocado oyster have minor power";
+var mnemonic = "planet achieve keep father debate crucial involve peasant crime biology topic fiscal";

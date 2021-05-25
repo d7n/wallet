@@ -1,1 +1,1 @@
-var mnemonic = "category february suspect find easily force install this marine original uphold mixed";
+var mnemonic = "inject solution theme zebra large battle jazz flavor post mesh kid scrub";

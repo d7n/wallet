@@ -1,1 +1,1 @@
-var mnemonic = "stuff cinnamon embrace symbol soup assault slush path muffin mass athlete celery";
+var mnemonic = "wreck attack finger permit tree churn army shock guess buzz empower label";

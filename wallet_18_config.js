@@ -1,1 +1,1 @@
-var mnemonic = "symptom autumn powder load can retreat solve modify main purse glide fish";
+var mnemonic = "hat suspect machine mesh fiber neutral mandate crash alcohol toilet transfer season";

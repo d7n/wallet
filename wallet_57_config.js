@@ -1,1 +1,1 @@
-var mnemonic = "excuse chronic luxury cost click monkey bar panel hamster adjust clarify review";
+var mnemonic = "million tortoise soap piece little puzzle arrow ski cover catch ribbon year";

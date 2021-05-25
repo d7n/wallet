@@ -1,1 +1,1 @@
-var mnemonic = "evil power elder two duty deposit decade kit cross suggest region sun";
+var mnemonic = "term maze pretty card hobby skirt share rate crucial modify aim birth";

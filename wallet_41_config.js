@@ -1,1 +1,1 @@
-var mnemonic = "cube drill cycle notable history summer crane push entire live prepare aisle";
+var mnemonic = "repair bind come index bus input pool cake level sight job cousin";

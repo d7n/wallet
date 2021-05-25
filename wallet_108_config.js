@@ -1,1 +1,1 @@
-var mnemonic = "reform hen wisdom obtain like error cloud forum trophy kiss impose warm";
+var mnemonic = "unlock voice auto price cricket medal credit found toss rival soccer spray";

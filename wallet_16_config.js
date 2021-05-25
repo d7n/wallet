@@ -1,1 +1,1 @@
-var mnemonic = "delay host great hand churn tank install elephant universe vocal child luggage";
+var mnemonic = "truth acquire junk valid mixed glue ahead material diet stone rhythm provide";

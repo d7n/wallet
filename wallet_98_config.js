@@ -1,1 +1,1 @@
-var mnemonic = "buddy jaguar tongue shoe club danger exotic obey urge feed path frame";
+var mnemonic = "gift toddler story shallow direct repeat travel ice town divorce arrange panda";

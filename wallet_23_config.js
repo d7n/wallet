@@ -1,1 +1,1 @@
-var mnemonic = "wheat regret peanut prison foam eagle present oak bone install impact issue";
+var mnemonic = "auto call large toy sing poem observe couch skill average false scan";

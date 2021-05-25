@@ -1,1 +1,1 @@
-var mnemonic = "gold unique boat tattoo zero harvest main kind armed midnight surge orient";
+var mnemonic = "drink lamp lamp hollow waste space can art dress upper jelly domain";

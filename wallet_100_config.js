@@ -1,1 +1,1 @@
-var mnemonic = "flash sail problem promote system shoot awkward suspect cook short like blind";
+var mnemonic = "nerve sphere skirt chief claw leopard potato donor frequent enjoy gold settle";

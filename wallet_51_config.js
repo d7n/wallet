@@ -1,1 +1,1 @@
-var mnemonic = "suit captain friend buzz web bonus basic include answer surround time trouble";
+var mnemonic = "bounce memory name speed subject record echo throw inherit hood sure arch";

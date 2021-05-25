@@ -1,1 +1,1 @@
-var mnemonic = "donor judge erase avocado tag maid local measure strong double only orchard";
+var mnemonic = "gentle menu neutral meat marine vibrant ancient initial orchard submit giggle fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor punch april digital fire exotic expect clown trap elegant net client";
+var mnemonic = "session head slab join hair brave balcony student slender bench puppy believe";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble emerge goddess evolve certain cancel heavy tail great apple often bleak";
+var mnemonic = "drink globe only truth collect faith loud pelican jeans forum source embody";

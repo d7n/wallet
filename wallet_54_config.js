@@ -1,1 +1,1 @@
-var mnemonic = "nose inch local burger slam sniff absurd pig boring hungry vote salad";
+var mnemonic = "liberty interest oil rabbit trigger envelope field margin predict okay enjoy spawn";

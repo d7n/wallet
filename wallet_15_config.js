@@ -1,1 +1,1 @@
-var mnemonic = "feed capital fence hat review actual merit fantasy system vacuum must giggle";
+var mnemonic = "code scale kiwi alcohol advice bomb panic middle cook frame trim angry";

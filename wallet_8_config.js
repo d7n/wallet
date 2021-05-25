@@ -1,1 +1,1 @@
-var mnemonic = "slight office rail heavy club search cancel dizzy lazy matter pet mom";
+var mnemonic = "depth neutral bar invest gown news forward damp pledge girl orange day";

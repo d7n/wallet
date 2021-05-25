@@ -1,1 +1,1 @@
-var mnemonic = "phone spatial flock saddle add giant latin myself indicate track symbol student";
+var mnemonic = "else near buyer door express hamster risk sand forward comfort cost reward";

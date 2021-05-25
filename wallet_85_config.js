@@ -1,1 +1,1 @@
-var mnemonic = "robot reflect sad situate throw pony shaft student surface direct teach write";
+var mnemonic = "glance slam insane evil flush wealth bread mountain firm oven tobacco tank";

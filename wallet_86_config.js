@@ -1,1 +1,1 @@
-var mnemonic = "arrange tell auction globe similar super honey tumble tuna asthma slush essence";
+var mnemonic = "amateur alarm job toddler diagram napkin draft pattern cliff minute bomb retreat";

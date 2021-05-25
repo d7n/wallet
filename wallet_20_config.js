@@ -1,1 +1,1 @@
-var mnemonic = "lock inch zebra round favorite vote damage unknown coyote make minor wish";
+var mnemonic = "deny twice slow goat smile adult pig donate fringe when stairs valid";

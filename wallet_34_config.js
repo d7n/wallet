@@ -1,1 +1,1 @@
-var mnemonic = "chunk sea road honey shoe balance salmon sudden curtain material scorpion beauty";
+var mnemonic = "below math monster purity poet hurry dragon bachelor program token board home";

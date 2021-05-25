@@ -1,1 +1,1 @@
-var mnemonic = "edge during surface affair fire ignore share dress pyramid govern old shy";
+var mnemonic = "loyal path unfold shield universe rug invest cruel permit top uniform mirror";

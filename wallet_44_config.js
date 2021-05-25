@@ -1,1 +1,1 @@
-var mnemonic = "twelve matter hurdle cloth sign fan nurse gas apple census cruel leopard";
+var mnemonic = "meat disorder vague peanut cake insect future maximum ugly supply sound world";

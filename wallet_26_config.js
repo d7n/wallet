@@ -1,1 +1,1 @@
-var mnemonic = "flee fork sick million text bacon render movie marriage payment rough spray";
+var mnemonic = "resemble present must sample quality winner steak digital forward absent autumn fabric";

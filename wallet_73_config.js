@@ -1,1 +1,1 @@
-var mnemonic = "unfair umbrella such electric tragic flash alter exchange anxiety renew near more";
+var mnemonic = "skill kind biology leg mistake stable illness soft prepare canal call hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd raise lucky enhance type chicken occur hope spike mail auto edge";
+var mnemonic = "label artwork case soup hospital team delay shuffle recipe foam squeeze bracket";

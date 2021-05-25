@@ -1,1 +1,1 @@
-var mnemonic = "marine furnace jazz radio trade width tilt income exchange senior wide shed";
+var mnemonic = "black ensure source rocket success wonder iron noble lava nephew mushroom voice";

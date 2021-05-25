@@ -1,1 +1,1 @@
-var mnemonic = "gossip unable guide tone memory royal educate later zero wonder moral chuckle";
+var mnemonic = "moral rookie trumpet vocal domain picture anger hip tuition achieve swarm receive";

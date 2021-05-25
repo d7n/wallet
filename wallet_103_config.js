@@ -1,1 +1,1 @@
-var mnemonic = "check middle rebel carry govern motion scout cover zero vocal hazard language";
+var mnemonic = "card laugh donate judge rough wish mutual mesh captain quality pond theme";

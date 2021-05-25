@@ -1,1 +1,1 @@
-var mnemonic = "spoon very swear pepper pull recall depend pupil knife begin middle banner";
+var mnemonic = "urban slow garbage turtle until color angle seminar lock diesel skin rookie";

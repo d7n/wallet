@@ -1,1 +1,1 @@
-var mnemonic = "shy oblige farm bus sign eyebrow enemy head face vote trip chief";
+var mnemonic = "wool sister smooth thrive suspect bamboo energy allow shoot drastic acoustic pulp";

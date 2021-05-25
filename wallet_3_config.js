@@ -1,1 +1,1 @@
-var mnemonic = "hint tackle lottery confirm easily defense push seed ticket peace spend aware";
+var mnemonic = "south rookie close foam toilet moment tag hip fee drive legend corn";

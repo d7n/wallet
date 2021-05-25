@@ -1,1 +1,1 @@
-var mnemonic = "marble brave negative raccoon arrange cake spray chunk melody spike bracket lonely";
+var mnemonic = "else dumb buzz prepare short tuition very work impulse ability push similar";

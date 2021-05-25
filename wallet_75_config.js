@@ -1,1 +1,1 @@
-var mnemonic = "key entire rough trend enact hood crisp pioneer snake diagram just choose";
+var mnemonic = "banner pilot couple barrel miss shuffle time tomorrow that fault order rent";

@@ -1,1 +1,1 @@
-var mnemonic = "cram volcano couch wrong bulk slice purity flock rookie engage mixture setup";
+var mnemonic = "around street hello cable solution cup scan build strategy forget bubble theory";

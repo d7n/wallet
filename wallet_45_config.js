@@ -1,1 +1,1 @@
-var mnemonic = "tissue real crater brush trigger sphere atom evolve result grow rail spider";
+var mnemonic = "oak hybrid double blood skill grape vocal visit pear decade concert talent";

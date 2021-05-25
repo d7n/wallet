@@ -1,1 +1,1 @@
-var mnemonic = "enjoy more captain bulk hand thank glimpse chapter trial brief alcohol indicate";
+var mnemonic = "put ten poet nose travel churn tell sad harsh draw office boat";

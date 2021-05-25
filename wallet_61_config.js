@@ -1,1 +1,1 @@
-var mnemonic = "waste face buffalo bid banner employ best atom struggle craft demise other";
+var mnemonic = "barrel original excite flight law happy panther gym super modify sunny prefer";

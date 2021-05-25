@@ -1,1 +1,1 @@
-var mnemonic = "evoke drama near swallow category debris gown party cable arrive exhibit inhale";
+var mnemonic = "crunch ritual disease chronic meat history merge lobster unhappy shift canvas prefer";

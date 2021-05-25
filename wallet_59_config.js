@@ -1,1 +1,1 @@
-var mnemonic = "cause lonely surface visit loyal never crisp drum slogan distance enjoy banner";
+var mnemonic = "pelican business short achieve hawk fat frown bundle arrow police talk laundry";

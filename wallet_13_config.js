@@ -1,1 +1,1 @@
-var mnemonic = "faculty dinner you okay problem share tenant catalog idea earn allow simple";
+var mnemonic = "brisk search deposit slow mad manage trust minute garment toss seed measure";

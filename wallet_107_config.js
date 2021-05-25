@@ -1,1 +1,1 @@
-var mnemonic = "olive wish gain share demand ceiling prize grunt expire sand improve coffee";
+var mnemonic = "risk hope afford upper rare creek shuffle giraffe fold can give spend";

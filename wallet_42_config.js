@@ -1,1 +1,1 @@
-var mnemonic = "absent brave pear chimney guide left panda market patient pencil gun stool";
+var mnemonic = "various guess fine pear accuse grow lab glove process brush soon material";

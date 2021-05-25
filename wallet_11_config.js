@@ -1,1 +1,1 @@
-var mnemonic = "menu extend wrong deliver bus book finish grunt check prosper crouch decide";
+var mnemonic = "bean unlock cliff rose orient diamond hint lumber pledge talk intact chuckle";

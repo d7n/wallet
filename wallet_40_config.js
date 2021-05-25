@@ -1,1 +1,1 @@
-var mnemonic = "razor pistol hood gun worry diagram muffin key apple proof soon myth";
+var mnemonic = "poem beach faith advice destroy check soccer upgrade equip blouse grab sunset";

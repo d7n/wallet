@@ -1,1 +1,1 @@
-var mnemonic = "long jar caught diagram rug table judge spirit option plate furnace hobby";
+var mnemonic = "sell path false photo fix plunge speed agree walk dream region forget";

@@ -1,1 +1,1 @@
-var mnemonic = "screen person strike trophy left monster capable laugh twenty crouch draft slow";
+var mnemonic = "deer cactus card acoustic gloom quick spend label license exile pumpkin yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "village vibrant please pair depend pig soft pen guess target mystery lecture";
+var mnemonic = "body reveal axis later gauge point glow mountain begin ready wrist oak";

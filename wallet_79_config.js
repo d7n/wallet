@@ -1,1 +1,1 @@
-var mnemonic = "amazing large purchase now enter boring follow turkey surprise velvet exotic absent";
+var mnemonic = "plastic camp orange fetch stomach fork trip style science slush sauce shove";

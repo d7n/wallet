@@ -1,1 +1,1 @@
-var mnemonic = "various dwarf potato off visa address enable rain feature patrol minute fade";
+var mnemonic = "stand pledge exact question head siren genius cruel exclude near jazz talk";

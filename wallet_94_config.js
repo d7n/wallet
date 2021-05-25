@@ -1,1 +1,1 @@
-var mnemonic = "glue unaware siren lake occur jealous initial alley symbol panther renew half";
+var mnemonic = "can miracle afraid involve robot provide predict miracle engine tomato autumn okay";

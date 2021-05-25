@@ -1,1 +1,1 @@
-var mnemonic = "amused legal cable moment online crawl fish kangaroo sort arctic coconut nut";
+var mnemonic = "sure nose legal window stand embody throw sister math crystal capable organ";

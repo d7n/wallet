@@ -1,1 +1,1 @@
-var mnemonic = "clock until angle dad soda repeat aisle father seat disorder ranch welcome";
+var mnemonic = "crime excess chalk theme brother ski push wealth behind hollow stereo ghost";

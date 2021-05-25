@@ -1,1 +1,1 @@
-var mnemonic = "butter record picture erupt mix blue leopard bunker sight among cushion slogan";
+var mnemonic = "typical unusual arena humble carbon crystal explain tag giant cheap raccoon badge";

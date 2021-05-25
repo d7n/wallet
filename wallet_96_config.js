@@ -1,1 +1,1 @@
-var mnemonic = "sadness replace fantasy fresh spoon manage fabric age already fix syrup split";
+var mnemonic = "border general else chase wine erosion talk elbow fame trial amateur donkey";

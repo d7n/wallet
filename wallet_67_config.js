@@ -1,1 +1,1 @@
-var mnemonic = "abandon border theme atom venue harvest random burst cream shuffle royal other";
+var mnemonic = "march sure parrot frog orient rally someone divert urban draw slush pulse";

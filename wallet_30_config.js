@@ -1,1 +1,1 @@
-var mnemonic = "glide library agree old act eye planet rebuild proud tank brand prison";
+var mnemonic = "stock tourist cushion beach cousin math drastic panic devote sniff mask spike";

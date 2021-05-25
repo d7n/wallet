@@ -1,1 +1,1 @@
-var mnemonic = "rely sell maze magic spin glance stomach snack moral empty climb glare";
+var mnemonic = "escape stairs crop memory normal educate analyst unveil citizen photo april chat";

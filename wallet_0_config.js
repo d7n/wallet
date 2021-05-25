@@ -1,1 +1,1 @@
-var mnemonic = "perfect wagon peanut address blame fragile follow civil segment envelope nerve infant";
+var mnemonic = "audit salute connect film verify visit liar baby ten lawn innocent enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh slab auction spring false pottery plug choose acquire glory rather ancient";
+var mnemonic = "catalog range frame sweet library sight welcome tooth document disagree honey announce";

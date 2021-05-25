@@ -1,1 +1,1 @@
-var mnemonic = "version lizard air village whale pink spice pelican ride half crowd question";
+var mnemonic = "kid present put hill side item custom indicate ethics void rebuild siren";

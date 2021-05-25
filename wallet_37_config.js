@@ -1,1 +1,1 @@
-var mnemonic = "tobacco amazing gain cover federal awake census cherry congress beyond wing glue";
+var mnemonic = "great divide cargo logic word august average cement raw autumn museum sauce";

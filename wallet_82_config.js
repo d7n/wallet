@@ -1,1 +1,1 @@
-var mnemonic = "candy dance broken suit jungle since rival patient tiger group solution evoke";
+var mnemonic = "clay guilt vacuum heart harbor soda nest rude coffee bulb rely churn";

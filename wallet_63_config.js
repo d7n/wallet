@@ -1,1 +1,1 @@
-var mnemonic = "captain close resource teach observe carry brush protect again duty picture hat";
+var mnemonic = "orange guide team manage real ski pelican busy divert pet oak worth";

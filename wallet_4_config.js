@@ -1,1 +1,1 @@
-var mnemonic = "any similar time system veteran kit miss average wage album salon snow";
+var mnemonic = "cause media fatigue portion duty palm coach gauge alarm satoshi ankle census";

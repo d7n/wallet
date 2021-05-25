@@ -1,1 +1,1 @@
-var mnemonic = "regular vacuum surface harsh because estate dust awesome fetch scrub sniff repeat";
+var mnemonic = "notable vocal quantum pulp lesson parrot gossip pet address alley update unusual";

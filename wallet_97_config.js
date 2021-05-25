@@ -1,1 +1,1 @@
-var mnemonic = "culture obvious ostrich future minute dinosaur warm increase remove want volume dolphin";
+var mnemonic = "diet hundred entry narrow home rabbit pear alarm outdoor payment elbow certain";

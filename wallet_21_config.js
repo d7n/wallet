@@ -1,1 +1,1 @@
-var mnemonic = "humor behave cloud arrow verify roof pony index rabbit fox zebra also";
+var mnemonic = "flame service roast field door vast family receive moral cream entire sword";

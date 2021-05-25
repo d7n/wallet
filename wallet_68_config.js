@@ -1,1 +1,1 @@
-var mnemonic = "hat library drill real castle second clarify pitch credit demise urban endorse";
+var mnemonic = "bulb thought proud crisp beef you logic object city wood glide stay";

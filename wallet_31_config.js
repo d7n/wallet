@@ -1,1 +1,1 @@
-var mnemonic = "elbow clarify clever bachelor desert resist pond moment medal moral cradle initial";
+var mnemonic = "crisp believe lawn wide whip crater cousin sleep social vote lens normal";

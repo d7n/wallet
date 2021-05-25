@@ -1,1 +1,1 @@
-var mnemonic = "fly moment describe news same napkin tenant detail donor any enable tomato";
+var mnemonic = "illegal olive desert scene rail truly destroy gown tuna wide tornado hungry";

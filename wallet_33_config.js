@@ -1,1 +1,1 @@
-var mnemonic = "velvet jewel pony until junk prefer circle mention decorate flee oven illegal";
+var mnemonic = "possible icon nothing plug supreme pizza rabbit above upon napkin drop globe";

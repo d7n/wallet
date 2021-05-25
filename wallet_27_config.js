@@ -1,1 +1,1 @@
-var mnemonic = "sponsor panda interest marriage whisper era federal rival rain tape taxi negative";
+var mnemonic = "banner panic vital phone ability text birth metal attack soon thunder ball";

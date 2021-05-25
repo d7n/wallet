@@ -1,1 +1,1 @@
-var mnemonic = "black cake rubber must century garment balance ski aisle day smooth rely";
+var mnemonic = "error dash ripple define young strike way bicycle uncover business crowd grass";

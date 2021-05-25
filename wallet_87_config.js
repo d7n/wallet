@@ -1,1 +1,1 @@
-var mnemonic = "amount because device hazard skate hobby game urge diamond summer burden crystal";
+var mnemonic = "jaguar relax prepare topple glare disease trap bottom cool replace stomach first";

@@ -1,1 +1,1 @@
-var mnemonic = "main combine mad buddy robust balcony vault ranch symbol inch vendor nephew";
+var mnemonic = "slice rather rubber pave hat alley glance govern pulp lizard cart clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss assist spoil clock please point umbrella mixed decrease vague write produce";
+var mnemonic = "february mansion describe cry hamster advice grocery exit parade trust spike empower";

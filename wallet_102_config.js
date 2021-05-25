@@ -1,1 +1,1 @@
-var mnemonic = "movie grass friend afford beach nephew edge wasp dirt soul address remain";
+var mnemonic = "large stool hover iron sheriff fame property notice agree glare power all";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom scale rule consider cannon change teach cabbage arm caught peanut mixture";
+var mnemonic = "scare april car chaos wreck little soul then stay educate movie obtain";

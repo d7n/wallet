@@ -1,1 +1,1 @@
-var mnemonic = "excess omit brother credit oval enjoy frog tank film view top foot";
+var mnemonic = "spice pretty slight cigar exact acquire extra abandon fatigue core crouch zone";

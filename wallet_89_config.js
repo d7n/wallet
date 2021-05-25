@@ -1,1 +1,1 @@
-var mnemonic = "lecture coil check cloud audit quiz medal hybrid retire dutch rail twice";
+var mnemonic = "make lawsuit idea impose fruit math refuse thank segment glory spawn acquire";

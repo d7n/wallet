@@ -1,1 +1,1 @@
-var mnemonic = "forget barely make sport laundry cloud matrix innocent eye income response glance";
+var mnemonic = "knee idea slight ghost snap pencil wage extend balcony umbrella royal genre";

@@ -1,1 +1,1 @@
-var mnemonic = "rival one mandate protect peace right summer olympic excuse armor coffee target";
+var mnemonic = "okay doll quit tortoise ridge educate often myth attract pioneer suspect bomb";

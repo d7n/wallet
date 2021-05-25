@@ -1,1 +1,1 @@
-var mnemonic = "moment among retreat radio scout december crunch hunt equal quiz tenant morning";
+var mnemonic = "cake guide ketchup rice another wing love steel session sign lion coin";

@@ -1,1 +1,1 @@
-var mnemonic = "unique divert frame weekend tell forward grow bright dutch squeeze advance yard";
+var mnemonic = "sock expose beef pair leader kid neglect brain omit crunch night retreat";

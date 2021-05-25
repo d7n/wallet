@@ -1,1 +1,1 @@
-var mnemonic = "boat marine ticket half boat sweet useful note stage pretty extra aerobic";
+var mnemonic = "hip swear update fade undo fiscal slab spare alert glide emotion hurt";
