@@ -1,1 +1,1 @@
-var mnemonic = "outer polar surge wonder pelican laugh into pupil write way strong limb";
+var mnemonic = "wreck will office drama law undo favorite nuclear museum smoke step maple";

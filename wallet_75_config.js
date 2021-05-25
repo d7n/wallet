@@ -1,1 +1,1 @@
-var mnemonic = "exclude salute master rate muscle bag violin soccer chapter tumble stumble equip";
+var mnemonic = "dove staff blue liberty weasel apple pony throw copper nephew hammer wife";

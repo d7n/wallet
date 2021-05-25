@@ -1,1 +1,1 @@
-var mnemonic = "awkward undo method daughter despair income before chapter expand silly accuse economy";
+var mnemonic = "day staff swing arena genius whip enrich rebuild artist trash lesson satoshi";

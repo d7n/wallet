@@ -1,1 +1,1 @@
-var mnemonic = "silent frog churn comic young scissors unlock fish garlic dolphin predict practice";
+var mnemonic = "crop sunset roast ten joke turn once addict narrow video old grace";

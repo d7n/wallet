@@ -1,1 +1,1 @@
-var mnemonic = "leaf family cycle announce fruit solid device route just evolve core nurse";
+var mnemonic = "wrestle weekend beauty avoid silent roof also acquire middle whisper usual toy";

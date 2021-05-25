@@ -1,1 +1,1 @@
-var mnemonic = "gadget wage recycle rookie excite motion antique gallery future wing bright climb";
+var mnemonic = "alley fiscal walk spring quality denial heart borrow marriage teach tonight stone";

@@ -1,1 +1,1 @@
-var mnemonic = "middle drill hurdle nice thrive execute rookie law talent pole plunge coast";
+var mnemonic = "result foot receive tonight wool chalk beyond buzz atom jeans life defy";

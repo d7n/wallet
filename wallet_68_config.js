@@ -1,1 +1,1 @@
-var mnemonic = "cupboard oppose matter logic bread cancel emerge minor yard pretty flag govern";
+var mnemonic = "trophy wild obvious deny nest climb parent asthma execute virus emotion volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "someone mammal bacon moral steel limit cliff trim survey rocket blouse submit";
+var mnemonic = "utility faculty side charge surface advance pretty roast monkey predict bubble vibrant";

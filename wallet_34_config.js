@@ -1,1 +1,1 @@
-var mnemonic = "edge dice impulse blood coral coconut wild few farm pumpkin name arrow";
+var mnemonic = "come joke when mansion foot put nation evolve promote jazz hotel stock";

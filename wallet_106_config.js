@@ -1,1 +1,1 @@
-var mnemonic = "despair monitor frequent person test rain pink zone year exit hockey worth";
+var mnemonic = "sport ten noise tray certain talk expect stick valve carpet strong intact";

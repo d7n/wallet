@@ -1,1 +1,1 @@
-var mnemonic = "warfare enlist topic together solar amount review indoor maple save crush magic";
+var mnemonic = "daring panel better kangaroo problem bronze habit impact radio sign special iron";

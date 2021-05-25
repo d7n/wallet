@@ -1,1 +1,1 @@
-var mnemonic = "tower way shift shallow twin sound security portion end team thunder taxi";
+var mnemonic = "confirm border tornado toss knife swift wheel drip tree size dolphin gasp";

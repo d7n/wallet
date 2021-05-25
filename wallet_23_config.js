@@ -1,1 +1,1 @@
-var mnemonic = "quantum album brush recycle kit input misery stool horror make tenant legal";
+var mnemonic = "eyebrow spread badge crush neck ticket flush crime business quote denial supreme";

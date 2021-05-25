@@ -1,1 +1,1 @@
-var mnemonic = "add heavy adult explain feed wing awkward surge submit sport hen warrior";
+var mnemonic = "oxygen hurt trim hip lizard material noodle canal vicious silk sorry edit";

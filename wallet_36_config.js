@@ -1,1 +1,1 @@
-var mnemonic = "soap zero air curious ginger cloud start category wonder staff pen stand";
+var mnemonic = "when achieve range together symptom uncle priority arrange museum aim flower party";

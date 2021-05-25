@@ -1,1 +1,1 @@
-var mnemonic = "dry abuse cycle margin ghost romance uniform dinner embrace sail isolate fine";
+var mnemonic = "history enforce discover short menu there initial surprise improve relief purity fox";

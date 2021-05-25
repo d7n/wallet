@@ -1,1 +1,1 @@
-var mnemonic = "state alert access machine sauce input deputy ceiling twice praise solve dinner";
+var mnemonic = "swing usage bag misery marriage candy sell dwarf curve list senior swamp";

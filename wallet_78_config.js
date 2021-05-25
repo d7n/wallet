@@ -1,1 +1,1 @@
-var mnemonic = "body element frog goose fish one depth ladder stove useless rail error";
+var mnemonic = "mix afford flavor bubble raw trash ask raccoon boring pottery version matrix";

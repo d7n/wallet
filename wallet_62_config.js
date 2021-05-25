@@ -1,1 +1,1 @@
-var mnemonic = "page opera parent artist expire risk hello oblige ride pumpkin attitude basic";
+var mnemonic = "alarm tennis toddler dice auction lunch segment quality soul combine area apology";

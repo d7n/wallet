@@ -1,1 +1,1 @@
-var mnemonic = "glance have home super grit amount decide head grow also mother load";
+var mnemonic = "broom decorate habit police parade setup flower about fluid labor render reject";

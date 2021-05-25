@@ -1,1 +1,1 @@
-var mnemonic = "luggage beef dignity art luggage oppose radio slogan hurdle remind popular hazard";
+var mnemonic = "lobster reform wild tide daughter reveal day craft awful split sad gym";

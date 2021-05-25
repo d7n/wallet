@@ -1,1 +1,1 @@
-var mnemonic = "glue theme keen pitch maximum rhythm figure circle section around rich popular";
+var mnemonic = "romance paddle wealth cruise energy basket bread long black offer usual lesson";

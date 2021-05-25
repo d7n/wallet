@@ -1,1 +1,1 @@
-var mnemonic = "fan symptom close tide coffee orbit purse reason uphold jungle memory outer";
+var mnemonic = "toy dragon wealth gown lake steel enrich truly truck caught moon refuse";

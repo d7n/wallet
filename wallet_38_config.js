@@ -1,1 +1,1 @@
-var mnemonic = "junk useful tackle crazy abuse suffer control vintage city enhance shrug essay";
+var mnemonic = "parrot process inside heavy disease outside inform close tip coin small runway";

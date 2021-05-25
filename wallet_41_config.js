@@ -1,1 +1,1 @@
-var mnemonic = "notice vicious upper miss fringe unit since warfare asthma deposit dirt print";
+var mnemonic = "provide suspect trend shift practice two sand fix poverty choose primary diagram";

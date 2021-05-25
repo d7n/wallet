@@ -1,1 +1,1 @@
-var mnemonic = "shine skill limit system double install bachelor imitate nominee pond immense industry";
+var mnemonic = "joy volcano point debris tool way soul media emerge across gather merge";

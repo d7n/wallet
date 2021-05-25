@@ -1,1 +1,1 @@
-var mnemonic = "zoo squeeze palace violin flee moral again credit control lyrics tool shock";
+var mnemonic = "shine gravity outdoor excite medal between lend hospital brush upset scout immense";

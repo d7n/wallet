@@ -1,1 +1,1 @@
-var mnemonic = "cart festival license casino tree shoulder forward dinner defy coffee wet escape";
+var mnemonic = "mistake long wing buffalo sail sick excite onion blue sample auto trial";

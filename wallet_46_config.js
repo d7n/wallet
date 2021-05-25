@@ -1,1 +1,1 @@
-var mnemonic = "ill hour erupt gym drip captain regular member narrow industry settle series";
+var mnemonic = "wire view say blood excuse point happy wait tired rich together color";

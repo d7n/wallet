@@ -1,1 +1,1 @@
-var mnemonic = "chief release surprise office cup hollow park orbit rely unfair name divide";
+var mnemonic = "bamboo enroll all glove satisfy february cupboard device gentle endless bind best";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom gate capital nice anchor write foster address civil tattoo ability avocado";
+var mnemonic = "vast subway shaft sign employ nurse pole rich novel retreat loop cash";

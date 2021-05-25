@@ -1,1 +1,1 @@
-var mnemonic = "bright know video total goose valid erosion useful bottom feel tongue voyage";
+var mnemonic = "sight left rapid virus more primary material orange sand silent slush program";

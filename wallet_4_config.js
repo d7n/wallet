@@ -1,1 +1,1 @@
-var mnemonic = "vocal barrel social blanket affair pear give lyrics city trim fatal coin";
+var mnemonic = "idea hockey motion coconut focus attract language truth evidence empower price adjust";

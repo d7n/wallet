@@ -1,1 +1,1 @@
-var mnemonic = "duty midnight tray transfer visa access giant fold jaguar rail run bracket";
+var mnemonic = "young join warm world rapid coast village usual property silent bargain aspect";

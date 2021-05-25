@@ -1,1 +1,1 @@
-var mnemonic = "word valve page chief book funny hazard canvas plastic twist type hammer";
+var mnemonic = "satisfy develop bid note left neck blood material version donate shock remember";

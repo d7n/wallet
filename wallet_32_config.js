@@ -1,1 +1,1 @@
-var mnemonic = "found offer cinnamon recall raccoon cup crash ancient enroll despair main lecture";
+var mnemonic = "cook often jeans cash trap elder bleak verb trade token silly method";

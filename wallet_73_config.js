@@ -1,1 +1,1 @@
-var mnemonic = "fiction release fetch walk require announce price pepper save custom rally elbow";
+var mnemonic = "accident mansion laugh vacuum waste index crater risk under tray traffic cruel";

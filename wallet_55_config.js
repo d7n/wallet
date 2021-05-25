@@ -1,1 +1,1 @@
-var mnemonic = "elephant grief use gloom where shed sponsor simple bargain spirit outdoor recipe";
+var mnemonic = "pelican school clay travel box abuse lend hill sheriff again inject custom";

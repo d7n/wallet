@@ -1,1 +1,1 @@
-var mnemonic = "focus walnut lawsuit fuel need control strategy arrow garage nasty main scene";
+var mnemonic = "unveil giant melt perfect link flat wet airport slim surge exile water";

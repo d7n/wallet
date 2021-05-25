@@ -1,1 +1,1 @@
-var mnemonic = "scissors message plug salmon memory income approve monkey silly remain coral tragic";
+var mnemonic = "surface chronic isolate candy double mixture scrap badge link icon wise edit";

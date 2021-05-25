@@ -1,1 +1,1 @@
-var mnemonic = "scout laugh riot unhappy wet paper head dash spread flock orange chapter";
+var mnemonic = "excuse icon video casino accident deliver unit primary juice shield belt laptop";

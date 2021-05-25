@@ -1,1 +1,1 @@
-var mnemonic = "dizzy acoustic leisure giggle minute cricket rifle protect capital swim strike round";
+var mnemonic = "twin balcony tourist song glide filter spike guitar slow spatial ensure current";

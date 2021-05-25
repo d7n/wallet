@@ -1,1 +1,1 @@
-var mnemonic = "put motor cricket head session patch couple huge riot ask hamster security";
+var mnemonic = "catalog squeeze reunion veteran gift tortoise author expose purse visa fatal glide";

@@ -1,1 +1,1 @@
-var mnemonic = "unable come grain cactus country rate student slush example repair mother scrap";
+var mnemonic = "text dress puppy tray push pluck social member practice explain life fringe";

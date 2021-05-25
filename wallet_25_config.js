@@ -1,1 +1,1 @@
-var mnemonic = "symptom stool panther blanket just rookie rely depart mimic glass badge repair";
+var mnemonic = "six sock delay tumble tent faculty gun quote immense virtual satisfy tired";

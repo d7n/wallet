@@ -1,1 +1,1 @@
-var mnemonic = "undo drip tray alley steak trust table mail right letter chalk emotion";
+var mnemonic = "suit silly manual turkey mammal orient surprise monitor sting bracket clap roof";

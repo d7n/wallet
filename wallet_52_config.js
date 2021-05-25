@@ -1,1 +1,1 @@
-var mnemonic = "cute release offer swarm grocery immense sword veteran dice unit team volume";
+var mnemonic = "mirror undo cup achieve mercy case inside april barrel giraffe donor inner";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown shine rotate spell obey file promote daughter gadget unique badge nerve";
+var mnemonic = "battle salad useful voyage penalty retire tag enough upgrade icon south soap";

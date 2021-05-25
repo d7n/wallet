@@ -1,1 +1,1 @@
-var mnemonic = "rate alley crime nation pumpkin work traffic slab place sphere trash domain";
+var mnemonic = "monkey hospital fine people oblige drip rubber bonus joy access cheese penalty";

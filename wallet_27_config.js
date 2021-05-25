@@ -1,1 +1,1 @@
-var mnemonic = "build bright dentist coach exact recall token forward sand portion cream night";
+var mnemonic = "marine toward zebra vacant grain sock leisure cruise demand rubber average mimic";

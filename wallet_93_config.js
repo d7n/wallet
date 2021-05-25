@@ -1,1 +1,1 @@
-var mnemonic = "various whip million rely prize fan spirit swim wagon animal matrix foot";
+var mnemonic = "turtle asthma evil deliver garage wife size toy together invite mule verb";

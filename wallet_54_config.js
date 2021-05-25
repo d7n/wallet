@@ -1,1 +1,1 @@
-var mnemonic = "reform cluster utility find option round desert right symptom quit cook ticket";
+var mnemonic = "mutual leisure doll heavy alter sugar skate filter current anchor quality harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble route flame smile pluck alcohol depart follow steak trend photo critic";
+var mnemonic = "snake addict hockey business buddy ask rail citizen garden tide blood beef";

@@ -1,1 +1,1 @@
-var mnemonic = "famous put liar valid issue retreat fury mean proof jacket fantasy brand";
+var mnemonic = "sunny add legal spider crowd prefer toy blood unit frown thing core";

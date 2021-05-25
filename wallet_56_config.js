@@ -1,1 +1,1 @@
-var mnemonic = "humble trim skill sail slide royal electric hat rib flag earth tiny";
+var mnemonic = "advice wear spawn sense cake doll tool sheriff siege uniform sun maid";

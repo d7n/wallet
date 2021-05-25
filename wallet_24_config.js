@@ -1,1 +1,1 @@
-var mnemonic = "property select sentence kidney valid eager hat scatter fence interest able miss";
+var mnemonic = "rapid limb now inch glory guide multiply flash interest trap cable ready";

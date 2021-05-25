@@ -1,1 +1,1 @@
-var mnemonic = "exhaust recall festival endorse camera mansion three crystal about joke leader main";
+var mnemonic = "tonight alcohol muscle wet dove oven catalog use insect join lift warm";

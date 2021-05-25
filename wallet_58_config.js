@@ -1,1 +1,1 @@
-var mnemonic = "deny horror poverty loyal hint elegant flavor across amateur bachelor dynamic dune";
+var mnemonic = "open history above clog arrest beauty census forget misery exist magnet fetch";

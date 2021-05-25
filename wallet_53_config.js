@@ -1,1 +1,1 @@
-var mnemonic = "secret hour okay doctor impact nation motor panel trouble debate jungle member";
+var mnemonic = "pattern face just aunt video unfold goat planet thrive knife indoor envelope";

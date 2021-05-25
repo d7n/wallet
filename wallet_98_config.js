@@ -1,1 +1,1 @@
-var mnemonic = "book play six use save produce fabric nothing news awful dress color";
+var mnemonic = "brisk isolate alley slight combine famous carpet service bottom couch despair federal";

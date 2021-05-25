@@ -1,1 +1,1 @@
-var mnemonic = "long rail derive describe swim manage visit sister start couple year evil";
+var mnemonic = "wage assume maze detail wonder mushroom harbor avoid educate trade noise coach";

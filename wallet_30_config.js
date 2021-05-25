@@ -1,1 +1,1 @@
-var mnemonic = "elephant speak snow resist rack inject drop leopard race settle finish income";
+var mnemonic = "rocket thought second coil mix rib sight again rude refuse piano sad";

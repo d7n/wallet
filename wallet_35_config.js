@@ -1,1 +1,1 @@
-var mnemonic = "desk steel include reject account lab desk arrest goose chronic search they";
+var mnemonic = "engine speak meat alarm example add vendor inherit acquire impulse pig erupt";

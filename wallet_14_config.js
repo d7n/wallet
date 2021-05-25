@@ -1,1 +1,1 @@
-var mnemonic = "effort truth raw engage cave theme radio pudding gain pony awake orphan";
+var mnemonic = "valid view odor base castle peasant blast blush venture produce match there";

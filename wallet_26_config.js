@@ -1,1 +1,1 @@
-var mnemonic = "foam orphan fish burst giant amateur napkin merge pear power slam extend";
+var mnemonic = "burger select say museum cube fury slot believe mention arrange amused jungle";

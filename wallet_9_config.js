@@ -1,1 +1,1 @@
-var mnemonic = "time monitor diesel roof use whale release combine boring that unit light";
+var mnemonic = "luggage ride voice portion armor chapter eyebrow design column fossil useful glance";

@@ -1,1 +1,1 @@
-var mnemonic = "urban scout broken table improve trip enhance decrease accuse pilot question organ";
+var mnemonic = "gather pepper program chuckle side tunnel avocado finish guess width glimpse level";

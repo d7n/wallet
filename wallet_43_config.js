@@ -1,1 +1,1 @@
-var mnemonic = "shuffle code page citizen swift visa lawn cage cup fortune remove wagon";
+var mnemonic = "forest thing unveil ice plate front obtain abuse always play group drink";

@@ -1,1 +1,1 @@
-var mnemonic = "close diary junior peanut wash age match paddle twist south enemy sauce";
+var mnemonic = "critic brush museum empty weekend one focus damage shallow home stomach jar";

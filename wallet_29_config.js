@@ -1,1 +1,1 @@
-var mnemonic = "reform permit net twenty phone bike canvas stock prosper again mouse slender";
+var mnemonic = "thought monitor monkey churn estate age skill also useful rocket butter tuition";

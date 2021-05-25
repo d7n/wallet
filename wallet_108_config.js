@@ -1,1 +1,1 @@
-var mnemonic = "venue pitch arch timber brand aisle bid debate skate detect noise clarify";
+var mnemonic = "pink explain typical wait town shrimp fitness receive practice ordinary quarter random";

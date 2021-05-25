@@ -1,1 +1,1 @@
-var mnemonic = "kidney ocean skull onion crash gate merge weekend layer sample ribbon pave";
+var mnemonic = "fox brush magnet hill share rack dream basic sunny rival soup fine";

@@ -1,1 +1,1 @@
-var mnemonic = "praise office produce story exotic valley guide decline file chair double hollow";
+var mnemonic = "seminar color icon pave remove wood toast work ugly web engine reform";

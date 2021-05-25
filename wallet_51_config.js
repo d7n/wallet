@@ -1,1 +1,1 @@
-var mnemonic = "vital walk miss board clerk typical before usual novel guess actor icon";
+var mnemonic = "three alcohol tail thank wheel tumble fitness program mind science earth boil";

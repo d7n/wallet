@@ -1,1 +1,1 @@
-var mnemonic = "measure praise supply legend agree carpet ten sunset armed cherry nasty medal";
+var mnemonic = "order limit robust train cross promote answer vintage palm robust cotton pattern";

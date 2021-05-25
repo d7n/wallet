@@ -1,1 +1,1 @@
-var mnemonic = "when rent near argue pumpkin suffer random wash master tragic nerve promote";
+var mnemonic = "one flower acid biology become wrestle blind tank dismiss just demand range";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch express alien zoo release remind scan vintage follow leader combine tower";
+var mnemonic = "pitch mule month energy circle install ensure property three basket alpha begin";

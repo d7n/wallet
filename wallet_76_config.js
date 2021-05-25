@@ -1,1 +1,1 @@
-var mnemonic = "amazing repeat gauge shed silk load cactus learn conduct leaf vibrant replace";
+var mnemonic = "uphold hello output decrease admit tail race fat dutch grain upon ten";

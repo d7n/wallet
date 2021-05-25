@@ -1,1 +1,1 @@
-var mnemonic = "chapter evidence all question culture minute certain absurd banner ozone napkin devote";
+var mnemonic = "plate fan clay enhance virtual retire relax spy mix chunk wet depend";

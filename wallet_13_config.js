@@ -1,1 +1,1 @@
-var mnemonic = "equip fee notice sure prefer spring often guide crush giant flee tongue";
+var mnemonic = "cabin frame desk foot confirm eight shed material solar grief prize empty";

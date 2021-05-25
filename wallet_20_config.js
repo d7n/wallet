@@ -1,1 +1,1 @@
-var mnemonic = "clown correct vacant drink speed angry pizza hold enemy priority team garden";
+var mnemonic = "frame fence alcohol trend wild fish conduct present cannon best evoke torch";

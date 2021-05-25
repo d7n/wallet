@@ -1,1 +1,1 @@
-var mnemonic = "choose maple oppose zebra corn success jeans unfold enforce offer loud grit";
+var mnemonic = "pulse pull injury wire despair sunset silver regret caution jeans solution basic";
