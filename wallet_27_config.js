@@ -1,1 +1,1 @@
-var mnemonic = "sentence drop icon electric blanket eagle fog put critic awake cluster evidence";
+var mnemonic = "embrace estate robust error useful long regular biology tone hidden giant cousin";

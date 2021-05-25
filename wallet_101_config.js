@@ -1,1 +1,1 @@
-var mnemonic = "slogan dilemma rain boat reflect describe breeze salute kitchen beyond wrist apple";
+var mnemonic = "section route joke attitude pluck wild torch divert prison second dune island";

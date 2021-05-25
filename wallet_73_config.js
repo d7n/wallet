@@ -1,1 +1,1 @@
-var mnemonic = "clip useless cabbage curtain legend blame tape brief lamp modify correct balance";
+var mnemonic = "beach stable top clutch evil holiday crew pizza step manage bridge strategy";

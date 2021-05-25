@@ -1,1 +1,1 @@
-var mnemonic = "disease cinnamon satoshi panic visa key bullet chair response antenna soldier manual";
+var mnemonic = "arrive target void flat alien patch climb blood pear craft certain trade";

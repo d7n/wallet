@@ -1,1 +1,1 @@
-var mnemonic = "crane one credit penalty clutch prepare impact chicken exhaust pizza stem news";
+var mnemonic = "boy dog midnight knock stereo final nerve vivid satisfy giraffe label loyal";

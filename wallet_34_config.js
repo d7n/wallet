@@ -1,1 +1,1 @@
-var mnemonic = "volume party walk shaft ritual remember oppose walnut split fancy scout feed";
+var mnemonic = "drip laugh idea east repeat inch present state armor best library language";

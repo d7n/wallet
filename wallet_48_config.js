@@ -1,1 +1,1 @@
-var mnemonic = "spare flag olive layer auction arrange mandate silver orange fatal token century";
+var mnemonic = "fold ball soup cause idle caution auto wedding shrimp fury mixture tobacco";

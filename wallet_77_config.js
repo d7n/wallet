@@ -1,1 +1,1 @@
-var mnemonic = "panda scrub hobby company tattoo speed double weasel arena damage fire equip";
+var mnemonic = "air female cupboard grain tired umbrella betray person number honey card volume";

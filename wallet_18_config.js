@@ -1,1 +1,1 @@
-var mnemonic = "note hungry obvious lesson hero unusual game beach salute tumble buffalo case";
+var mnemonic = "family cash shoot today left insane calm derive slender safe salon device";

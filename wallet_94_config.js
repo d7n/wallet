@@ -1,1 +1,1 @@
-var mnemonic = "concert letter dress pool ship wait album spend version piece cloud best";
+var mnemonic = "produce eight sunny alley summer drastic replace rabbit possible miss clean sponsor";

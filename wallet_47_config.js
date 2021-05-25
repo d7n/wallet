@@ -1,1 +1,1 @@
-var mnemonic = "rocket equip air slim potato mimic once next flock quick jazz web";
+var mnemonic = "cream wine renew trust oxygen pizza diamond improve market battle jump want";

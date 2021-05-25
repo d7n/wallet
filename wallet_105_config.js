@@ -1,1 +1,1 @@
-var mnemonic = "coffee capable marriage occur timber exhibit please gospel spoon machine tower suggest";
+var mnemonic = "they about dilemma amateur olive unusual picture staff resemble version embrace awkward";

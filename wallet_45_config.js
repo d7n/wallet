@@ -1,1 +1,1 @@
-var mnemonic = "nasty season style before museum pond muscle bundle salad taste real quick";
+var mnemonic = "friend middle payment buddy long resource identify run sponsor rice split domain";

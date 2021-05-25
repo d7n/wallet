@@ -1,1 +1,1 @@
-var mnemonic = "chat fame six fog genius truly number wage defy fetch imitate brown";
+var mnemonic = "bench injury apple lab menu wage rough undo elegant ranch forget cradle";

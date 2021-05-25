@@ -1,1 +1,1 @@
-var mnemonic = "border around wisdom winner educate pizza cube define plate amateur orient raccoon";
+var mnemonic = "divorce yard canoe hollow arrest truck column fury sketch elevator item twice";

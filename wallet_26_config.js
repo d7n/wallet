@@ -1,1 +1,1 @@
-var mnemonic = "undo join head between alcohol catalog morning general gloom license script vapor";
+var mnemonic = "frown expand hero six crouch middle undo duty call tiger just profit";

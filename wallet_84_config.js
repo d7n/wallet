@@ -1,1 +1,1 @@
-var mnemonic = "mixture few position fan cabin neutral car century comic tomorrow topic renew";
+var mnemonic = "robot fly supply negative vehicle burden match evidence dwarf strong vacuum change";

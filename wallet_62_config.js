@@ -1,1 +1,1 @@
-var mnemonic = "object limit fury forest crop empty like annual unaware solution latin number";
+var mnemonic = "little lens mass cradle flash bar since sea plug nuclear heavy random";

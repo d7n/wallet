@@ -1,1 +1,1 @@
-var mnemonic = "tunnel artwork mobile teach seat begin rough winner spice banana install ice";
+var mnemonic = "december jealous just couch donor giraffe park fringe heavy chef cabbage duty";

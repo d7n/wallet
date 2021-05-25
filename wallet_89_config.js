@@ -1,1 +1,1 @@
-var mnemonic = "ceiling today question farm meadow health ten hope focus oppose mask code";
+var mnemonic = "upon figure absent cheese approve romance attitude blanket real giraffe cereal blood";

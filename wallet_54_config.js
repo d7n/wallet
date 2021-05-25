@@ -1,1 +1,1 @@
-var mnemonic = "that base upper frame maze quiz antenna rubber swallow wire peanut sing";
+var mnemonic = "peace excuse coyote lawsuit vapor border direct diamond anchor improve labor lend";

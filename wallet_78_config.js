@@ -1,1 +1,1 @@
-var mnemonic = "patient eagle ginger vague enact wait spawn silk empower anxiety direct argue";
+var mnemonic = "object diagram affair pink fantasy street ancient across chaos oxygen wasp wool";

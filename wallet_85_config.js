@@ -1,1 +1,1 @@
-var mnemonic = "uphold silent figure rally chief region garden fit alter team finger reunion";
+var mnemonic = "pumpkin exchange cement recipe dog eye awful blind opera tissue gasp cube";

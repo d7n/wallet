@@ -1,1 +1,1 @@
-var mnemonic = "tone combine coast modify frequent endorse minute flower width idea distance ready";
+var mnemonic = "venue wheat all panic illegal limit ignore grain calm couple loud change";

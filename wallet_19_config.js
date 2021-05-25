@@ -1,1 +1,1 @@
-var mnemonic = "raven core ritual future memory away suggest piano silk draft season guitar";
+var mnemonic = "cave elbow bunker size gasp zone royal scout spread lift parade vessel";

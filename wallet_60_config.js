@@ -1,1 +1,1 @@
-var mnemonic = "congress random climb dumb shrimp science search figure egg expire buyer collect";
+var mnemonic = "fun normal soft silver barrel record casual social warfare moon aspect segment";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion fury remove pelican fatal tackle task sketch absurd hawk crush they";
+var mnemonic = "marine emotion develop note idle occur cotton secret little october trip sick";

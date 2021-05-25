@@ -1,1 +1,1 @@
-var mnemonic = "divide foot west medal share anxiety whale era cattle survey job pottery";
+var mnemonic = "coil dwarf salute addict diet ordinary absent fire inside clerk pumpkin rhythm";

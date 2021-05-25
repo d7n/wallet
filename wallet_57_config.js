@@ -1,1 +1,1 @@
-var mnemonic = "wrestle vapor olympic special pill must index admit beef symbol plastic symptom";
+var mnemonic = "cart priority choice affair inject drum field grit unaware light play quality";

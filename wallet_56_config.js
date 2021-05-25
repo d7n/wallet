@@ -1,1 +1,1 @@
-var mnemonic = "erase they absent country fan mercy section weather cloth essence fork spirit";
+var mnemonic = "pioneer gain move hungry tribe endorse fortune ghost filter celery tomato dizzy";

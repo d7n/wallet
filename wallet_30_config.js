@@ -1,1 +1,1 @@
-var mnemonic = "dynamic letter suffer naive sketch nominee pulp twenty assist salad kitchen gift";
+var mnemonic = "mother crazy dash arrange plunge exotic move range shy awake media fork";

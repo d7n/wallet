@@ -1,1 +1,1 @@
-var mnemonic = "rail fitness youth accident ladder palm cause material knock trip orchard ready";
+var mnemonic = "lawsuit orbit room rough rebuild pitch onion plate outer change harbor budget";

@@ -1,1 +1,1 @@
-var mnemonic = "siren cave clock rabbit tone sight glass uncle opinion pelican combine valve";
+var mnemonic = "coffee sword before tray feed wild runway stone clap video almost virtual";

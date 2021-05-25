@@ -1,1 +1,1 @@
-var mnemonic = "toy seminar later wire depend ecology liquid inside genre consider attend box";
+var mnemonic = "rival shove guess tilt cupboard hip bracket confirm patch unlock crane few";

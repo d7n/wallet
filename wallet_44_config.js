@@ -1,1 +1,1 @@
-var mnemonic = "boil snow dad flag real color sheriff now round asthma side manual";
+var mnemonic = "mechanic strike remind shell goose bonus boil produce delay swarm mix fold";

@@ -1,1 +1,1 @@
-var mnemonic = "hope human hundred sketch zoo nurse verify attract found marble fame keep";
+var mnemonic = "pistol diesel update prison air engage track absorb kitchen afford agree coin";

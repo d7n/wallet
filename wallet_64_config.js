@@ -1,1 +1,1 @@
-var mnemonic = "like steak float panther expire satoshi breeze rent silk young grass daring";
+var mnemonic = "suggest dish omit prison cool offer spirit spoon best punch silver labor";

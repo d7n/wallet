@@ -1,1 +1,1 @@
-var mnemonic = "cup genuine tenant crash thank below answer slogan project census mercy enrich";
+var mnemonic = "ignore spirit green tape pave divert feature define lemon deny spawn end";

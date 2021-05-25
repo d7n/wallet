@@ -1,1 +1,1 @@
-var mnemonic = "emotion object upgrade sponsor bulb bus flock stomach grant deer narrow syrup";
+var mnemonic = "seek fly into steel scout monkey entry guess middle suffer current second";

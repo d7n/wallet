@@ -1,1 +1,1 @@
-var mnemonic = "forest thank just spy today endorse stock sphere place bid okay illegal";
+var mnemonic = "tape blade either loan expect foam soccer universe episode route forward input";

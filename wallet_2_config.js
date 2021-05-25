@@ -1,1 +1,1 @@
-var mnemonic = "gift focus puzzle space kid judge gown party nature matrix drift rely";
+var mnemonic = "term alpha sad lunar pear cloud aware tortoise fluid lawsuit embark gossip";

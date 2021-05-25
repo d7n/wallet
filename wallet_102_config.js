@@ -1,1 +1,1 @@
-var mnemonic = "hair repair state glimpse beyond tiger problem syrup junk spider ugly spider";
+var mnemonic = "orphan vicious thank caught spoon focus october draw candy describe pass coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "broken fold off toss again awful dumb forum wisdom never inspire annual";
+var mnemonic = "apology fortune ask begin video winner shoot valley sponsor stage clinic walk";

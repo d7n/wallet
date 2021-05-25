@@ -1,1 +1,1 @@
-var mnemonic = "tilt devote blood advance sad can very cliff slow coach hedgehog notable";
+var mnemonic = "orbit over that peace embody alley include sea claw message update crater";

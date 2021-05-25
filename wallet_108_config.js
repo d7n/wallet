@@ -1,1 +1,1 @@
-var mnemonic = "unaware sort casino thunder drop output visual divide question tobacco naive bless";
+var mnemonic = "eternal spirit uncle entire draw gold weapon satisfy bean same little forget";

@@ -1,1 +1,1 @@
-var mnemonic = "nut sail initial fury text shy wage voice aim mammal appear milk";
+var mnemonic = "false obscure under bamboo rabbit pony banana select cushion enrich basket master";

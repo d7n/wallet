@@ -1,1 +1,1 @@
-var mnemonic = "second snap view demise holiday all anxiety dutch polar cage uncle creek";
+var mnemonic = "medal chalk rigid excuse cycle elegant belt rural loud rural sting social";

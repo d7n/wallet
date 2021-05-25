@@ -1,1 +1,1 @@
-var mnemonic = "source visa rapid wet fan venue into pole effort cage engage husband";
+var mnemonic = "arrest client cloud ability purchase girl galaxy album night motion dolphin another";

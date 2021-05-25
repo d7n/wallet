@@ -1,1 +1,1 @@
-var mnemonic = "note expect ethics turkey crew fiber custom powder reform wool elephant medal";
+var mnemonic = "letter ship radar guess insane around repeat ten hundred join spin they";

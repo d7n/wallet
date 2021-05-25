@@ -1,1 +1,1 @@
-var mnemonic = "easy earth cave online there finish pretty slow swamp surface mouse sponsor";
+var mnemonic = "expire skull now unknown jeans range castle truly fury soap milk guide";

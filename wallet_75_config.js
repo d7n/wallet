@@ -1,1 +1,1 @@
-var mnemonic = "kitten harsh own draw venture stove draw oppose any crater outer rebel";
+var mnemonic = "pony spell merge obtain movie old invest doctor feel order ghost teach";

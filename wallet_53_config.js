@@ -1,1 +1,1 @@
-var mnemonic = "pulse burger output life save soap index letter clump wise rich hungry";
+var mnemonic = "suspect choose sister rug need arrange birth afford onion earth skull across";

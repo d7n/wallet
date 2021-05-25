@@ -1,1 +1,1 @@
-var mnemonic = "car decorate accident weather equal wreck trend cycle during parade sick invest";
+var mnemonic = "again unveil move corn monitor cake hunt proud slide tag witness glare";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion end morning motor end move liquid melody stone merry blanket source";
+var mnemonic = "abuse buyer open slot hope claw job space bright valid trust choose";

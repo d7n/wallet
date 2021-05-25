@@ -1,1 +1,1 @@
-var mnemonic = "polar phrase alcohol lava amused nut infant motor donkey crane insane tobacco";
+var mnemonic = "icon yard antique equip embody civil lesson keep candy include sheriff noodle";

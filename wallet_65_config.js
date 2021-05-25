@@ -1,1 +1,1 @@
-var mnemonic = "intact cost shiver lucky carbon clip immune timber reopen blossom engage spring";
+var mnemonic = "skull penalty tunnel amateur decide involve force crumble fox tired chimney very";

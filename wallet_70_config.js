@@ -1,1 +1,1 @@
-var mnemonic = "robust upper cousin usual theme choice define away ugly alley clean help";
+var mnemonic = "dice pulp half essay pond soap mind harbor tornado spoil credit slide";

@@ -1,1 +1,1 @@
-var mnemonic = "install gospel worry pipe people fetch predict rhythm stone cream agent raven";
+var mnemonic = "reduce pudding guilt call away elite ridge nature bracket loyal camp remain";

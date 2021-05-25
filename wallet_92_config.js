@@ -1,1 +1,1 @@
-var mnemonic = "announce excuse dumb book venue dignity slab woman tank multiply banana match";
+var mnemonic = "truth february cost try enough soup island culture smoke start accident method";

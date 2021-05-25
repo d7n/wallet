@@ -1,1 +1,1 @@
-var mnemonic = "speed high worry romance play farm impose sauce wage dinosaur forest bike";
+var mnemonic = "harvest upper season urge purchase attend raven olive brisk access gesture dry";

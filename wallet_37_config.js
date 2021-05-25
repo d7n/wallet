@@ -1,1 +1,1 @@
-var mnemonic = "inject loop pottery mercy abuse leaf alter mosquito idea suspect divorce spice";
+var mnemonic = "public license noble music pumpkin diagram light tomorrow mango alter escape vehicle";

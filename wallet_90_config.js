@@ -1,1 +1,1 @@
-var mnemonic = "loop number green primary typical slogan laptop blind energy lucky stool spice";
+var mnemonic = "actor umbrella actor resist oblige ten mother fragile safe minimum perfect unveil";

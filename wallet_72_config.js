@@ -1,1 +1,1 @@
-var mnemonic = "rare tank steel debate urban occur earth cave much muffin anger dream";
+var mnemonic = "program clean into claw slide unveil visual easy false wide opinion excess";

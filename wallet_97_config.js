@@ -1,1 +1,1 @@
-var mnemonic = "measure section sister earth acquire write rookie action bulk chase insect leader";
+var mnemonic = "auction lizard illegal design cute parent deer turn code language smart lawn";

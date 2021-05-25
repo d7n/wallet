@@ -1,1 +1,1 @@
-var mnemonic = "scout skate mystery faculty across wise caught upgrade web pig either doll";
+var mnemonic = "mirror behave broken hire nominee card much bomb hidden tide raven gain";

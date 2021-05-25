@@ -1,1 +1,1 @@
-var mnemonic = "actor mango insect denial light plastic devote blush broom celery impose task";
+var mnemonic = "south primary link major surge tired version expect lizard humor spot water";

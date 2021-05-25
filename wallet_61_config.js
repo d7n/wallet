@@ -1,1 +1,1 @@
-var mnemonic = "awkward appear post copy derive huge permit wrong olympic empower drill push";
+var mnemonic = "debris assume salmon desk rich snow bachelor wreck debate electric cry step";

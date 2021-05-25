@@ -1,1 +1,1 @@
-var mnemonic = "party drastic lottery juice funny basket mystery balcony popular silk bracket result";
+var mnemonic = "toward quit measure number acquire change endless limit grab match there antenna";

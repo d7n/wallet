@@ -1,1 +1,1 @@
-var mnemonic = "food total noodle chapter office lottery offer mule country home suit stairs";
+var mnemonic = "possible unusual toast bring photo banner already drama define marble elegant topple";

@@ -1,1 +1,1 @@
-var mnemonic = "same spice cactus enemy nerve primary brown media dizzy country neglect very";
+var mnemonic = "viable journey taxi very snack promote usage dragon panel ceiling sing close";

@@ -1,1 +1,1 @@
-var mnemonic = "attend media bright pudding link hen stable column journey museum pole fantasy";
+var mnemonic = "glue okay this garlic lawsuit devote tree change prosper train palace cancel";

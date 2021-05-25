@@ -1,1 +1,1 @@
-var mnemonic = "false excess silent lyrics advice glimpse airport cave example romance swear piano";
+var mnemonic = "athlete group anger wait vicious gasp page slide uncover host cost tell";

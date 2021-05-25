@@ -1,1 +1,1 @@
-var mnemonic = "chase fun frost eternal envelope basket either erosion dirt pilot lawn screen";
+var mnemonic = "false gesture differ art pistol often marriage flip possible wish salt used";

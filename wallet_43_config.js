@@ -1,1 +1,1 @@
-var mnemonic = "buffalo job arctic question detail goddess fiscal wife chronic valve negative need";
+var mnemonic = "rhythm welcome tenant pill fiction friend cruel pulp cushion deliver shaft glow";

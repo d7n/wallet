@@ -1,1 +1,1 @@
-var mnemonic = "exercise regular potato include remember input whip absorb choice virtual silly royal";
+var mnemonic = "symptom tenant scorpion mention sword cake rate helmet force awful accident add";

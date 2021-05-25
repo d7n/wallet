@@ -1,1 +1,1 @@
-var mnemonic = "husband evidence tunnel rabbit remember beach leisure arctic turkey dune woman sight";
+var mnemonic = "include open armor lava enough nose defy amateur hub uniform horn urban";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion swing capable glow glide enact glass jealous measure risk silk call";
+var mnemonic = "bike reward artist paper follow stable smooth lonely mansion layer draft correct";

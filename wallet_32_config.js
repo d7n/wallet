@@ -1,1 +1,1 @@
-var mnemonic = "impose flame slogan mother income sign salt put donkey dress volcano liar";
+var mnemonic = "charge idle round judge number velvet suit aware group uphold draw secret";

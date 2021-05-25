@@ -1,1 +1,1 @@
-var mnemonic = "deputy remind exit spell banner couple similar cook peanut attack special drop";
+var mnemonic = "marine plastic volume chicken delay orphan orchard fruit version company adult basic";

@@ -1,1 +1,1 @@
-var mnemonic = "host render wear join stuff amateur expose addict fancy drill enrich arm";
+var mnemonic = "annual denial river help sport fatal already zoo betray recall glare you";

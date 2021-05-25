@@ -1,1 +1,1 @@
-var mnemonic = "output media dynamic glad you sport stem joy bachelor embark cliff ramp";
+var mnemonic = "eagle abuse range rare lesson apology choose gauge trial meadow valid trigger";

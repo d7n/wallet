@@ -1,1 +1,1 @@
-var mnemonic = "shoulder stone charge race gesture brain soldier breeze topple rack trick blanket";
+var mnemonic = "tornado jealous modify night dutch deal crunch fun steak runway gun february";

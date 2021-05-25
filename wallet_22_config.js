@@ -1,1 +1,1 @@
-var mnemonic = "gesture virtual junior asthma execute own scale cushion mirror actress inflict service";
+var mnemonic = "mail luxury replace acid ancient know hope width crawl humble pact medal";

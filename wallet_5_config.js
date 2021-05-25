@@ -1,1 +1,1 @@
-var mnemonic = "inherit resemble bubble coffee park inflict repeat tilt sadness sibling choose loop";
+var mnemonic = "behind blanket diet inside athlete level blind tumble inject volcano decline wedding";
