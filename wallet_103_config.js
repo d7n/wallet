@@ -1,1 +1,1 @@
-var mnemonic = "mail more bounce same ginger access enhance filter magic steak cool zoo";
+var mnemonic = "practice solar food feed plug liquid badge nothing wrap waste there treat";

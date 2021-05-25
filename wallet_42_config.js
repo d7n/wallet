@@ -1,1 +1,1 @@
-var mnemonic = "lift baby stereo coast live coconut radar spoil ritual settle concert recall";
+var mnemonic = "release level swap video old initial hope barrel rent jump anchor bridge";

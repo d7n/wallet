@@ -1,1 +1,1 @@
-var mnemonic = "joy vacant sign build sentence matter rude meadow basket coyote section sponsor";
+var mnemonic = "mammal produce grape yard media start prefer panda cigar blood space cycle";

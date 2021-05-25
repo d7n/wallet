@@ -1,1 +1,1 @@
-var mnemonic = "clock cheese route prevent cash chat egg confirm leave cake grit stuff";
+var mnemonic = "swallow frown time embark warfare away digital clerk donate pledge hero biology";

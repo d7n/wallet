@@ -1,1 +1,1 @@
-var mnemonic = "pole witness pen fine phrase dilemma hunt abuse disorder rescue dinosaur inform";
+var mnemonic = "purity basic connect toss say swamp situate wrist near dry dwarf ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "park envelope lounge hurdle young lyrics viable warm bonus find hungry confirm";
+var mnemonic = "decorate shaft ivory shuffle bomb can program expose barrel birth violin absurd";

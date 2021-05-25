@@ -1,1 +1,1 @@
-var mnemonic = "trouble middle blush figure oval wheat surround unusual cruise together delay bind";
+var mnemonic = "bronze hurry help dry silk recycle daughter tortoise glow sample relief great";

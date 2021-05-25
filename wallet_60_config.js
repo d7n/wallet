@@ -1,1 +1,1 @@
-var mnemonic = "horse hand mad faculty damage math normal night debate moment shrimp orbit";
+var mnemonic = "abstract zoo economy door arch amazing toy fine illegal rather prison know";

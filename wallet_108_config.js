@@ -1,1 +1,1 @@
-var mnemonic = "twist tape brave mass swift scorpion lamp sample cause throw gain drill";
+var mnemonic = "fan fix distance gown kind thank cupboard trigger library unhappy child urban";

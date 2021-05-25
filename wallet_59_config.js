@@ -1,1 +1,1 @@
-var mnemonic = "soldier tool ankle ramp viable stadium butter clay pioneer magnet buffalo eye";
+var mnemonic = "betray print unfair rate track obscure lunch session energy hair soda version";

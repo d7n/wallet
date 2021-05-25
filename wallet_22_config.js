@@ -1,1 +1,1 @@
-var mnemonic = "olive mail child exclude drum birth chase clever soon place ahead sing";
+var mnemonic = "latin wood fiscal kite huge note iron noble ceiling seat abstract quantum";

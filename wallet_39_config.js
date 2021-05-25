@@ -1,1 +1,1 @@
-var mnemonic = "glory weapon quiz assume climb sand defense blouse club lounge smooth drama";
+var mnemonic = "strong strategy stumble vote angle shaft present orange test popular once zero";

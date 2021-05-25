@@ -1,1 +1,1 @@
-var mnemonic = "party grace party language body next giant city limb quarter stable army";
+var mnemonic = "ball bullet rent wonder basket steel hen lonely exhaust clock trick smooth";

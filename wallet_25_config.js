@@ -1,1 +1,1 @@
-var mnemonic = "letter next resemble deposit fly lawn stairs debate reopen equip easy scene";
+var mnemonic = "churn memory define swarm artwork razor direct olive size mistake chair walk";

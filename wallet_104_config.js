@@ -1,1 +1,1 @@
-var mnemonic = "hockey gap juice snack useful hurt shield antenna scrap start rail produce";
+var mnemonic = "turkey stadium ability raw trip panel true target tent catch impulse image";

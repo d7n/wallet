@@ -1,1 +1,1 @@
-var mnemonic = "now thrive outdoor want board scheme multiply brand pond razor today kitchen";
+var mnemonic = "interest response note road join tag cannon excite wrap risk stove enable";

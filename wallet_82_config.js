@@ -1,1 +1,1 @@
-var mnemonic = "nice figure subway rely seek pass shield duck rapid intact absent destroy";
+var mnemonic = "shock nut inner begin account toddler win glare veteran lunar fruit knock";

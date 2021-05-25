@@ -1,1 +1,1 @@
-var mnemonic = "enforce trash rice earth theme afraid twist object office depend used skirt";
+var mnemonic = "frozen metal village budget word cancel shiver misery stick powder predict before";

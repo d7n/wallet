@@ -1,1 +1,1 @@
-var mnemonic = "impulse cook want weasel hand wire repeat trip traffic capital educate security";
+var mnemonic = "breeze zero supply civil film tiger practice tomorrow course pig scare truth";

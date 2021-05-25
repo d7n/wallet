@@ -1,1 +1,1 @@
-var mnemonic = "decrease foil derive large hair ride dutch answer slice correct design funny";
+var mnemonic = "decide pair jungle sock false slender flag alien hold domain lend over";

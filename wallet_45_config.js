@@ -1,1 +1,1 @@
-var mnemonic = "vintage maze hybrid panel split elephant fragile safe edit avoid polar thumb";
+var mnemonic = "suspect month come actress today series talent ancient embrace decline leg flock";

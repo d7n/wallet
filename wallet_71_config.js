@@ -1,1 +1,1 @@
-var mnemonic = "maze era couple unaware left solve love online busy daring sing number";
+var mnemonic = "seven gym quick hub tray mosquito report school ask summer start month";

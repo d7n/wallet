@@ -1,1 +1,1 @@
-var mnemonic = "library wrap size pyramid mosquito notable nominee enact heart rent flash trash";
+var mnemonic = "camera fiscal cupboard dish evoke mobile jaguar illegal disagree jungle alter this";

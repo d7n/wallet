@@ -1,1 +1,1 @@
-var mnemonic = "olive scrap luggage brass reform fold odor hundred snack crime during soldier";
+var mnemonic = "merry admit alley arrest party disease shrimp insect weapon game bag add";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot deal silver feed library bonus mountain prepare tonight large kiwi antique";
+var mnemonic = "arrange kite promote kiwi cabbage help excite gun buffalo radio surge abandon";

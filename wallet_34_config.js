@@ -1,1 +1,1 @@
-var mnemonic = "above battle alien come end check oxygen admit glimpse depart stay idle";
+var mnemonic = "maze pole normal novel keep hockey also ensure ramp squeeze style hood";

@@ -1,1 +1,1 @@
-var mnemonic = "heart approve script quit federal saddle recipe grape prison chapter head frost";
+var mnemonic = "position shove penalty web leisure test bring ramp rebel silent wash aware";

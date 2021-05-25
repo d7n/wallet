@@ -1,1 +1,1 @@
-var mnemonic = "idea festival invest ring tiger live cherry resource sentence eye impact fluid";
+var mnemonic = "spot venture expose ready throw brain sad also aunt easily custom horror";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse tide fade inspire remember upset wire argue alone cousin rotate traffic";
+var mnemonic = "tank praise report universe garment ready correct girl thunder ensure mango consider";

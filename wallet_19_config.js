@@ -1,1 +1,1 @@
-var mnemonic = "vapor course figure pool kick race width awful funny you detect spring";
+var mnemonic = "ability you carbon sock device ice awesome utility road age kit copy";

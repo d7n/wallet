@@ -1,1 +1,1 @@
-var mnemonic = "poem help chicken argue collect certain bar zone suspect explain enroll elegant";
+var mnemonic = "expose endorse thought secret extend aerobic shoot option best fault mask cousin";

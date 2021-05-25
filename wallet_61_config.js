@@ -1,1 +1,1 @@
-var mnemonic = "whale split dance clog census square antique broccoli occur kangaroo spy birth";
+var mnemonic = "cat segment gravity water skull impulse delay federal throw party frequent behave";

@@ -1,1 +1,1 @@
-var mnemonic = "neither crouch end sheriff auction process stumble kit purchase print medal remember";
+var mnemonic = "wash diary manage reunion regular kick open vital robust success drift correct";

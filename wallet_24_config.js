@@ -1,1 +1,1 @@
-var mnemonic = "voyage reject ride tobacco dream guess lumber addict pulp ignore donkey canal";
+var mnemonic = "tool insane entry person floor opera pave flash until utility insect soap";

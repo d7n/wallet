@@ -1,1 +1,1 @@
-var mnemonic = "fat rural speed insane cushion dust dog parade wink remove creek rescue";
+var mnemonic = "guilt maid physical eyebrow birth kitchen pledge wedding moral fancy cushion gift";

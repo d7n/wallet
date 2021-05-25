@@ -1,1 +1,1 @@
-var mnemonic = "change number night green kingdom photo boss slide neutral legend mom drum";
+var mnemonic = "junior predict carbon main gadget process industry rhythm become maple high anger";

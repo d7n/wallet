@@ -1,1 +1,1 @@
-var mnemonic = "budget win mercy enjoy top bright roast spin coil cement quote reflect";
+var mnemonic = "law confirm argue lady maple stable liquid flower arrow special immune habit";

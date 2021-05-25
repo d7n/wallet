@@ -1,1 +1,1 @@
-var mnemonic = "clock lawsuit remember craft theory worry loud donate call monitor kingdom such";
+var mnemonic = "honey library gadget candy middle guilt ring glance warm concert ahead runway";

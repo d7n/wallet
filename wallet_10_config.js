@@ -1,1 +1,1 @@
-var mnemonic = "rotate visit depend drip card help skirt tail hill vivid during gather";
+var mnemonic = "cycle merit awesome mass protect exchange want guess vapor theme border benefit";

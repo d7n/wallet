@@ -1,1 +1,1 @@
-var mnemonic = "viable access stamp iron amateur possible exhaust wrist area book panel casino";
+var mnemonic = "bounce stairs drip frequent icon possible ship fury symptom suit penalty sand";

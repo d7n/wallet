@@ -1,1 +1,1 @@
-var mnemonic = "couch course vanish system occur juice shove champion exhibit mirror dentist language";
+var mnemonic = "lawsuit success person pistol state other aware credit deposit soccer pistol talent";

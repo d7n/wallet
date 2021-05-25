@@ -1,1 +1,1 @@
-var mnemonic = "boil stone trend federal fiscal guilt arena wealth lady giggle busy current";
+var mnemonic = "spawn mutual december moon absent mansion kiss cash section derive verb nuclear";

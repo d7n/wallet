@@ -1,1 +1,1 @@
-var mnemonic = "whip excuse mango list bless volume agent embrace umbrella bachelor brand transfer";
+var mnemonic = "magnet life napkin ribbon grit motion drama faculty argue garment uncle bundle";

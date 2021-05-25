@@ -1,1 +1,1 @@
-var mnemonic = "blush below garbage endorse sand modify monitor upon alien use system stage";
+var mnemonic = "neutral add leopard nurse rhythm wrist attract romance man nothing notice domain";

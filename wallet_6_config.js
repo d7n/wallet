@@ -1,1 +1,1 @@
-var mnemonic = "replace clean obscure multiply rotate swing suffer burger donor tone bracket smooth";
+var mnemonic = "thunder evidence bacon exchange demand rib mushroom hen glow egg shiver opera";

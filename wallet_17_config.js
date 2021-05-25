@@ -1,1 +1,1 @@
-var mnemonic = "zoo song wonder urge total betray diary clean ball wild desk catch";
+var mnemonic = "friend illness obvious setup manage globe spend ghost army sunny knife involve";

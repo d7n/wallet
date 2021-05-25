@@ -1,1 +1,1 @@
-var mnemonic = "garbage illness rifle casino resemble planet illegal honey symbol dignity pottery update";
+var mnemonic = "cabbage credit basic inflict style apart remember satisfy patrol coconut pizza crop";

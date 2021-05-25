@@ -1,1 +1,1 @@
-var mnemonic = "vault letter case apple future milk walnut thing noble net donor pole";
+var mnemonic = "number club hobby pyramid nephew song mango beef museum provide outer voice";

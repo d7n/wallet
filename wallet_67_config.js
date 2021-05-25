@@ -1,1 +1,1 @@
-var mnemonic = "choice focus silent birth weekend myself method peace help decline nominee furnace";
+var mnemonic = "wild faith filter honey opinion tube version enough emerge gasp legend marine";

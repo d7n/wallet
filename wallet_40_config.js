@@ -1,1 +1,1 @@
-var mnemonic = "evolve history ginger review veteran maze chase monkey onion milk flock force";
+var mnemonic = "two artist season emotion hover spy dumb own series crumble hero border";

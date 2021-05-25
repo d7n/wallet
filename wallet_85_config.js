@@ -1,1 +1,1 @@
-var mnemonic = "force blood weather inform then vacant tell bullet unable jealous two obscure";
+var mnemonic = "duty ability fetch doll earn frozen future relax cable common fan auction";

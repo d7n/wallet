@@ -1,1 +1,1 @@
-var mnemonic = "conduct resource marriage sketch opera sock glass stove wrong diesel useful check";
+var mnemonic = "sketch mandate return fee regret wink window accuse thing bike else ritual";

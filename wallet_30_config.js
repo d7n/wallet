@@ -1,1 +1,1 @@
-var mnemonic = "coconut refuse ten index armor fruit critic total gown harsh impulse sunny";
+var mnemonic = "student hello option poverty dutch time loop live blush honey panda diesel";

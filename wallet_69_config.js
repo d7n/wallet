@@ -1,1 +1,1 @@
-var mnemonic = "accuse surprise stand dream own cost two air priority chronic kidney foot";
+var mnemonic = "east save abandon envelope daring coast valid glide much crime balcony surface";

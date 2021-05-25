@@ -1,1 +1,1 @@
-var mnemonic = "fiction green judge blue program hockey evoke tomorrow carpet simple strong dragon";
+var mnemonic = "medal laugh cannon parade indoor scrap cancel sun aunt wave helmet swamp";

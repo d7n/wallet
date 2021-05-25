@@ -1,1 +1,1 @@
-var mnemonic = "spy bulb plug industry police satisfy worry ginger paper bacon helmet act";
+var mnemonic = "fox elite engine outside budget lucky torch blouse illness soap tool business";

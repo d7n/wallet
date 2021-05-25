@@ -1,1 +1,1 @@
-var mnemonic = "faith item swap visa expand girl trim venture inhale kite north link";
+var mnemonic = "funny swim number unique pulp core blouse exhaust know laugh because kind";

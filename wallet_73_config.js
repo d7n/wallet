@@ -1,1 +1,1 @@
-var mnemonic = "parent problem net fish match crack patch sorry expect spray length bright";
+var mnemonic = "wrist face critic pony insane author struggle butter winner whip shadow claim";

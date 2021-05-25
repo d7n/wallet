@@ -1,1 +1,1 @@
-var mnemonic = "obvious public purse note possible wrap bicycle guard hope this ball novel";
+var mnemonic = "figure either off anchor just arrest hurdle cycle type demise excuse demise";

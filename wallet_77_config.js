@@ -1,1 +1,1 @@
-var mnemonic = "save embark surprise humble furnace horse owner unusual fossil sunny resource scrub";
+var mnemonic = "crop prevent enforce interest involve remember salute smoke dolphin auction deputy boring";

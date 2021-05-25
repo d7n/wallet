@@ -1,1 +1,1 @@
-var mnemonic = "soup virtual chair together luxury nerve force safe maid sleep close left";
+var mnemonic = "depend sleep table slot exhibit orphan gold border endless leisure toward away";

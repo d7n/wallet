@@ -1,1 +1,1 @@
-var mnemonic = "naive area cash stable tiny tank young effort plunge close ready security";
+var mnemonic = "call end ocean album since axis age drum time differ true wrap";

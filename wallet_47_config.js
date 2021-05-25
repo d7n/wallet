@@ -1,1 +1,1 @@
-var mnemonic = "dose couch ahead monster sight exercise point soup network someone feature artist";
+var mnemonic = "finish success original gadget ranch gym spike wool entry muscle village afford";

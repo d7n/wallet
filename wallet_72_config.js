@@ -1,1 +1,1 @@
-var mnemonic = "grant frame faint put leave access hotel escape gospel wire cool suit";
+var mnemonic = "thought occur faint wasp text sense fiction ride scale click develop nothing";

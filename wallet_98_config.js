@@ -1,1 +1,1 @@
-var mnemonic = "elbow brisk circle jar sad spawn group note keen shadow join anxiety";
+var mnemonic = "sun random magnet ship arrange section road soldier anger affair very believe";

@@ -1,1 +1,1 @@
-var mnemonic = "brush castle guard private virtual nuclear victory climb famous winter enrich second";
+var mnemonic = "toilet boy torch twenty simple arrow blossom trial minimum web search nurse";

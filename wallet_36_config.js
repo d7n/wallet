@@ -1,1 +1,1 @@
-var mnemonic = "cheap doctor minute pledge glove human shadow test chef glare dwarf anxiety";
+var mnemonic = "always explain receive air hobby veteran eagle wave across business sudden make";

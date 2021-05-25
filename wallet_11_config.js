@@ -1,1 +1,1 @@
-var mnemonic = "gift eagle share dose aerobic nuclear document ordinary coach gain panda cage";
+var mnemonic = "prefer trick cheap leg kiss winner sail paper olive device split trip";

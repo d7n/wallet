@@ -1,1 +1,1 @@
-var mnemonic = "cook polar century fruit junior artwork tail trend local you smile avocado";
+var mnemonic = "chimney place right put torch regret august super frame olive wire work";

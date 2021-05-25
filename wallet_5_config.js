@@ -1,1 +1,1 @@
-var mnemonic = "vintage slot survey mind snap gravity fire duty fatal visit eyebrow wait";
+var mnemonic = "current siren soccer fall man double right tilt zoo lottery erosion torch";

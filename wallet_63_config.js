@@ -1,1 +1,1 @@
-var mnemonic = "chat undo mention float answer found just broken input trip code debate";
+var mnemonic = "very balcony promote throw door excess talent box upon flush wife stick";

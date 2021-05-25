@@ -1,1 +1,1 @@
-var mnemonic = "thrive napkin small present day wolf flip welcome smile clock inhale volume";
+var mnemonic = "brief clog present primary segment endorse inflict easily dinner three vast slush";

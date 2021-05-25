@@ -1,1 +1,1 @@
-var mnemonic = "pluck arrest inherit faint frequent jealous cactus visa heart syrup census someone";
+var mnemonic = "body denial detail brief thing escape lion citizen case giraffe index boss";

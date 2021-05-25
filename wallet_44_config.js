@@ -1,1 +1,1 @@
-var mnemonic = "quiz vanish moon boy floor viable medal very loud defense globe clock";
+var mnemonic = "wood cram off earn cram present north shrimp afford powder orange extend";

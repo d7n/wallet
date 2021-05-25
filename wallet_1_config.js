@@ -1,1 +1,1 @@
-var mnemonic = "feature jazz network hope mountain firm swap ready resemble frequent neutral carry";
+var mnemonic = "safe bleak fever nerve awkward math match bean solar promote lift yard";

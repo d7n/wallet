@@ -1,1 +1,1 @@
-var mnemonic = "act elder master fun romance know hollow cube divert deputy vacuum naive";
+var mnemonic = "miss silent device odor lounge metal repair nature crash alcohol knee arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony gym hip sniff just tattoo exist oyster grass engine system brave";
+var mnemonic = "ten only kick clay fitness praise ozone stage rice enlist snack music";

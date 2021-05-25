@@ -1,1 +1,1 @@
-var mnemonic = "rare vibrant inside coffee dash flavor youth glove category card mean bright";
+var mnemonic = "wisdom trumpet setup cover rare puppy control student table purity desert exact";

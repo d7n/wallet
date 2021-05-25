@@ -1,1 +1,1 @@
-var mnemonic = "leave expect tornado skirt vivid search defy chronic educate summer balance chase";
+var mnemonic = "blade rude gloom rebel original invite organ ketchup frequent valve long lonely";

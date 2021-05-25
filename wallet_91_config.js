@@ -1,1 +1,1 @@
-var mnemonic = "misery trip rely thunder tenant clever shoe learn top love romance loan";
+var mnemonic = "cabin spin decide original oval wasp noise flat decade index rabbit poem";

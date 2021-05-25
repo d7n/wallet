@@ -1,1 +1,1 @@
-var mnemonic = "lemon night hospital twin together clap learn mind blush live photo speed";
+var mnemonic = "pepper runway box aerobic ice nuclear scan debris valid ridge between govern";

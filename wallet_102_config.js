@@ -1,1 +1,1 @@
-var mnemonic = "peace upper picnic canyon industry sauce huge hurdle airport priority sketch solar";
+var mnemonic = "insect furnace ahead angle butter link melody intact inquiry vehicle person space";

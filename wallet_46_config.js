@@ -1,1 +1,1 @@
-var mnemonic = "squeeze sword glance balance mom direct oblige still monkey velvet horn car";
+var mnemonic = "vanish bonus artwork cable grab shop own worry kiwi become penalty illegal";

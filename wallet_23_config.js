@@ -1,1 +1,1 @@
-var mnemonic = "often art speak enroll since bounce valley velvet fine guide main surge";
+var mnemonic = "door sentence ethics east syrup prefer icon valid employ shoe false private";

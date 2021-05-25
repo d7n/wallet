@@ -1,1 +1,1 @@
-var mnemonic = "price magic toe better guitar pause unveil major skate reflect burger door";
+var mnemonic = "hurt swamp park capital patch funny comic other bonus delay drip sail";

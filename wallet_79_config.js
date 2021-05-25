@@ -1,1 +1,1 @@
-var mnemonic = "gloom debris desk future wall off repeat holiday goat skull seat rain";
+var mnemonic = "brave feel over blouse attend wood couch anxiety grow flock diary talk";

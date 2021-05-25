@@ -1,1 +1,1 @@
-var mnemonic = "awesome marriage merry pond knife change ghost reward write machine notice tray";
+var mnemonic = "turtle phone absorb coin make census skate anger edge change payment waste";

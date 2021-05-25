@@ -1,1 +1,1 @@
-var mnemonic = "smoke blur cement slight age panda theme trim art click profit attend";
+var mnemonic = "jazz dash pupil rapid remember chuckle earn puppy wrap manual gesture news";

@@ -1,1 +1,1 @@
-var mnemonic = "tower clinic service cave burst alcohol unhappy garage diesel affair inflict fashion";
+var mnemonic = "maid limit issue hospital field glass enforce broccoli math tunnel afford slight";

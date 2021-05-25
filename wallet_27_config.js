@@ -1,1 +1,1 @@
-var mnemonic = "lottery honey easily legal afford abandon scheme doll kite metal divide sudden";
+var mnemonic = "exist process wrist until awful champion crucial seed chief ketchup artist deal";

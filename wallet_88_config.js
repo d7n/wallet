@@ -1,1 +1,1 @@
-var mnemonic = "retreat shrimp text logic fan crater picture age cinnamon that fun harvest";
+var mnemonic = "base pear narrow barely dynamic addict labor attitude machine damage wreck share";

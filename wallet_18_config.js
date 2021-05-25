@@ -1,1 +1,1 @@
-var mnemonic = "erupt sauce lion nasty please scatter drive income sugar gorilla swift tired";
+var mnemonic = "plastic elevator ladder fee concert desk lake float bag song fall share";

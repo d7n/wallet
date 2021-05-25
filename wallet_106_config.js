@@ -1,1 +1,1 @@
-var mnemonic = "hint gap main sample private little dance stuff title gain roast idea";
+var mnemonic = "clinic sample usage engine banana urge eyebrow coach boost awesome abandon since";

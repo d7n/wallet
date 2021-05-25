@@ -1,1 +1,1 @@
-var mnemonic = "fuel nest follow divert history sight run twenty eye guard circle clown";
+var mnemonic = "sphere frequent dirt labor client end bitter adjust sail tuition sign close";
