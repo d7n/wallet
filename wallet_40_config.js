@@ -1,1 +1,1 @@
-var mnemonic = "sadness stamp fantasy correct net barely gun only father sail airport eyebrow";
+var mnemonic = "olive fence word nothing decade fun doll develop rookie enroll scrap rebuild";

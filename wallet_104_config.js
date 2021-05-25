@@ -1,1 +1,1 @@
-var mnemonic = "program gossip fabric waste grunt glory segment fabric tone craft mandate purity";
+var mnemonic = "vocal mosquito ramp purpose desert magic select monster tonight pumpkin interest quarter";

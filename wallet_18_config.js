@@ -1,1 +1,1 @@
-var mnemonic = "grace time cotton impulse orbit license lawsuit shuffle weather salmon media taxi";
+var mnemonic = "sentence involve spike myself allow walnut outside okay aim wage derive fit";

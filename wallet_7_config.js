@@ -1,1 +1,1 @@
-var mnemonic = "clown cancel topple zoo pistol tree adjust orient assume boil police legal";
+var mnemonic = "kid illegal female change panel inhale forum off awkward swing cram grant";

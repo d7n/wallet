@@ -1,1 +1,1 @@
-var mnemonic = "benefit roast doctor paper smile have analyst response purchase demand usage barely";
+var mnemonic = "drip rule twenty void bulk swim middle pause faith misery bitter timber";

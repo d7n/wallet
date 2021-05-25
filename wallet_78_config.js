@@ -1,1 +1,1 @@
-var mnemonic = "glass merry people follow rather symbol tonight slide maid lend oxygen fresh";
+var mnemonic = "conduct smile update powder heavy aware allow museum robust hood select hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "swim pluck emotion taxi allow avoid zebra chief heavy catalog gain stomach";
+var mnemonic = "blush inmate display mountain try draw zoo acoustic door maze dance flavor";

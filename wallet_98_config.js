@@ -1,1 +1,1 @@
-var mnemonic = "front phone skill tuition hole guilt advice summer venue two account wrap";
+var mnemonic = "before cram dynamic crash circle escape kick lazy fold pipe diary deal";

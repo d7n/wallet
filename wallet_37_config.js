@@ -1,1 +1,1 @@
-var mnemonic = "zoo ill produce social more elbow hunt safe rather shrug attend warm";
+var mnemonic = "sock hollow cave pretty stomach ritual ahead style foam leopard theme salon";

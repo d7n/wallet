@@ -1,1 +1,1 @@
-var mnemonic = "nation flight voice juice seat glance pilot sudden jungle ship whip smart";
+var mnemonic = "rug glue flash garage link toe quick toe cool sketch enlist catch";

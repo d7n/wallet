@@ -1,1 +1,1 @@
-var mnemonic = "salmon romance planet furnace high purpose bamboo fantasy educate wonder market stool";
+var mnemonic = "sheriff donor inherit moment lamp senior potato muffin nuclear shiver bottom fog";

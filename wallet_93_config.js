@@ -1,1 +1,1 @@
-var mnemonic = "hunt clarify book scale spawn have divorce moment angle liar punch invest";
+var mnemonic = "into rent opinion fence fluid vague language crouch nerve wasp hub burst";

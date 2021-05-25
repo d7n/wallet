@@ -1,1 +1,1 @@
-var mnemonic = "expect bag foot belt barely eight rotate guide enter guilt couch puzzle";
+var mnemonic = "promote toward shell story spare blossom oak alone now degree asthma caution";

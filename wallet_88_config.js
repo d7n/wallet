@@ -1,1 +1,1 @@
-var mnemonic = "any tobacco coconut genuine rebel soon giraffe unit enemy lumber pilot very";
+var mnemonic = "result wreck stuff debris lava beyond expire yard giant critic ripple victory";

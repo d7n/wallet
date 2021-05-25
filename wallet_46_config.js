@@ -1,1 +1,1 @@
-var mnemonic = "juice abuse jump occur rather lecture keen swing beauty lava update erupt";
+var mnemonic = "share captain believe suit column hurt soldier coffee release card memory artwork";

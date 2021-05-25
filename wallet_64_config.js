@@ -1,1 +1,1 @@
-var mnemonic = "illegal laptop goat receive injury aim marriage kangaroo daring cannon better detail";
+var mnemonic = "paper stamp accuse chalk athlete second virus raccoon shell alter news visa";

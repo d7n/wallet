@@ -1,1 +1,1 @@
-var mnemonic = "caution unfold provide cat jar gather clog real floor room august divorce";
+var mnemonic = "flock pole harbor find twelve shove airport author tired practice gap eight";

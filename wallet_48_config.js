@@ -1,1 +1,1 @@
-var mnemonic = "burst mansion clock pass fragile false already try cool gentle wreck surprise";
+var mnemonic = "essay dose hair country equal health merge type auction arrest act immune";

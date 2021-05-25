@@ -1,1 +1,1 @@
-var mnemonic = "craft fault town space decrease put garage fly wage proud oval sport";
+var mnemonic = "blue favorite stick rather bunker snap rebuild elegant kite torch dry hint";

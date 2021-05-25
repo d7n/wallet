@@ -1,1 +1,1 @@
-var mnemonic = "hospital army vehicle blanket chair speak solar excess poem grit horror mention";
+var mnemonic = "gadget blanket royal cave remain lunar clip draw reunion food half sword";

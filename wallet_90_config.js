@@ -1,1 +1,1 @@
-var mnemonic = "miracle absurd giant fame inhale oppose equip cycle please crop liquid cloth";
+var mnemonic = "hundred better invest fade alone fault bread practice wire live subject merry";

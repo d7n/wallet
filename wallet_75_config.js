@@ -1,1 +1,1 @@
-var mnemonic = "vital leave genius sunset stable fringe apart unique narrow modify dirt smart";
+var mnemonic = "nation member finger adapt merit virus sunny blast civil acid tennis normal";

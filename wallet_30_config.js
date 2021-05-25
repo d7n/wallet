@@ -1,1 +1,1 @@
-var mnemonic = "endorse subway material coin auction favorite illegal sad regret slot knock match";
+var mnemonic = "hungry fade clap laugh foster slot hair silver course animal panda decade";

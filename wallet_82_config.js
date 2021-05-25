@@ -1,1 +1,1 @@
-var mnemonic = "yellow collect magnet despair private copper try sketch evidence vital tomato icon";
+var mnemonic = "dynamic cash sick spatial timber penalty bomb gesture trial element seminar tower";

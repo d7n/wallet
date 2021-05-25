@@ -1,1 +1,1 @@
-var mnemonic = "credit solid wink catch feed theme hundred public sting future rib topic";
+var mnemonic = "legal height slight pond catch inside short lamp seminar spy labor cause";

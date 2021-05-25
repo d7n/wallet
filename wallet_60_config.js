@@ -1,1 +1,1 @@
-var mnemonic = "release winner valid fatal whisper close empty erode purity oyster swap flavor";
+var mnemonic = "rent guide soap seat monitor main cotton fluid ivory year ability song";

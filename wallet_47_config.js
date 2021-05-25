@@ -1,1 +1,1 @@
-var mnemonic = "trumpet ocean program impact south witness ill cycle frown aunt adapt river";
+var mnemonic = "winter panther energy reject apart universe nominee solution jazz win truth sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "situate orbit meat mystery dance kitchen decade ability dilemma purity employ escape";
+var mnemonic = "above amateur reveal kid amused result finish ecology observe whip jewel iron";

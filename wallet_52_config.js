@@ -1,1 +1,1 @@
-var mnemonic = "outer fringe message soft sunset warrior image choose apple hen sponsor shop";
+var mnemonic = "short sadness gym hobby health friend walnut giraffe cloud smoke shaft poet";

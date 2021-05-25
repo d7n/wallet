@@ -1,1 +1,1 @@
-var mnemonic = "meat catch annual shoot taxi cotton gravity measure mix gorilla giant deputy";
+var mnemonic = "pilot rough giraffe shadow useless taxi raven next resource arch path one";

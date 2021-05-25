@@ -1,1 +1,1 @@
-var mnemonic = "enrich permit clinic lava little nurse appear pudding family identify tag pause";
+var mnemonic = "observe hawk trim carbon lens false puzzle pelican chat enlist duty culture";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator wheat belt brush van theme nut wolf among tool kitchen foil";
+var mnemonic = "bicycle execute era giraffe index glare educate lonely sunset collect alcohol bread";

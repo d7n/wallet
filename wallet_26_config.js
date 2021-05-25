@@ -1,1 +1,1 @@
-var mnemonic = "chair south coyote shock laptop artist spend unhappy gravity repeat rookie pulp";
+var mnemonic = "pattern grow sentence game frost ugly furnace mother blush hub present snake";

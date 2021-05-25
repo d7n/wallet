@@ -1,1 +1,1 @@
-var mnemonic = "cricket scout fuel tonight fix cute hammer pupil sunny abuse street tide";
+var mnemonic = "snake cram document flag bargain hurdle giggle scatter sword tattoo seminar shove";

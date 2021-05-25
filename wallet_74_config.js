@@ -1,1 +1,1 @@
-var mnemonic = "strategy smart screen kitten direct clutch float warm ritual version amazing tennis";
+var mnemonic = "spread picture latin robust taxi guide piece wait swarm excess reason forum";

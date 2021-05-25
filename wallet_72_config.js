@@ -1,1 +1,1 @@
-var mnemonic = "purchase rural bubble occur motor outdoor shine elite divorce suggest lunch glow";
+var mnemonic = "special antenna pool anxiety wealth erode body luggage grit unhappy kiwi hub";

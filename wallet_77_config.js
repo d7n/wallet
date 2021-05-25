@@ -1,1 +1,1 @@
-var mnemonic = "human arch another wreck gift eternal team allow wood dune refuse deer";
+var mnemonic = "pony verify program orphan echo noble mechanic sad offer soul execute erosion";

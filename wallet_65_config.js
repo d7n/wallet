@@ -1,1 +1,1 @@
-var mnemonic = "plastic pledge decide tool permit enable buffalo lobster wedding mean glove comic";
+var mnemonic = "baby chicken october jewel laptop neither fly nice tonight enemy giraffe athlete";

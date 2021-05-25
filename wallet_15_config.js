@@ -1,1 +1,1 @@
-var mnemonic = "defy wide rocket option improve excuse orange pelican figure body virtual buffalo";
+var mnemonic = "inflict album phone home veteran napkin planet trigger west clerk cloth ranch";

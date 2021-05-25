@@ -1,1 +1,1 @@
-var mnemonic = "silly work raise rabbit trip predict budget home act hospital design dinner";
+var mnemonic = "purchase deliver seek because shoe bitter hedgehog daring devote sun soft village";

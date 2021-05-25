@@ -1,1 +1,1 @@
-var mnemonic = "possible survey gate brush swarm stomach elevator shoe dice music adult glad";
+var mnemonic = "theme resource truck cake chunk budget evoke shell favorite trip cluster guitar";

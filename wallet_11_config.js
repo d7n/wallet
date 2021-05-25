@@ -1,1 +1,1 @@
-var mnemonic = "good cherry dragon gossip east critic senior easily scare genre spend orbit";
+var mnemonic = "finger cliff canyon rail suit hospital banana range damp boil toilet essay";

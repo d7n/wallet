@@ -1,1 +1,1 @@
-var mnemonic = "potato hour say harsh hungry media twelve win spawn neutral world churn";
+var mnemonic = "assume bargain eyebrow ozone course movie task chase page edit elder story";

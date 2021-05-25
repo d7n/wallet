@@ -1,1 +1,1 @@
-var mnemonic = "black finger envelope slogan gun scare mouse bargain they found paddle toward";
+var mnemonic = "extra demand bone member flower myself almost master quality enforce mention skull";

@@ -1,1 +1,1 @@
-var mnemonic = "season liquid unaware pistol coil voice employ coffee kind exit acoustic response";
+var mnemonic = "control spatial junior nest under destroy age audit smart goose disagree slow";

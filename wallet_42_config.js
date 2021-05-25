@@ -1,1 +1,1 @@
-var mnemonic = "rocket avoid core more step attend humble age company work victory almost";
+var mnemonic = "dragon girl oven pumpkin sword bread plug mistake expand cart rubber mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger unknown industry air child unable sorry patient trim hint they glue";
+var mnemonic = "art frown tiny unveil basic almost ketchup alert manual fog betray outside";

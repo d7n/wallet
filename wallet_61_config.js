@@ -1,1 +1,1 @@
-var mnemonic = "fly hire pencil brush sibling orange series select enjoy juice scare pattern";
+var mnemonic = "copy when hurry hire source crash know stool have beauty nation remove";

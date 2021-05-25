@@ -1,1 +1,1 @@
-var mnemonic = "ill myself sibling license rug exhibit spoil spring install shine scout label";
+var mnemonic = "estate salmon wall approve upper angle anxiety sun doll still hold quiz";

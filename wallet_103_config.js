@@ -1,1 +1,1 @@
-var mnemonic = "real rural harvest song tragic auction settle caught kid tragic hospital magic";
+var mnemonic = "cactus youth once flock heart pool rate wrist fly grid extend cement";

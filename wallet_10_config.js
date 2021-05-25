@@ -1,1 +1,1 @@
-var mnemonic = "sentence clip exercise fold proud stay debate head employ alien captain decide";
+var mnemonic = "rally latin check jaguar tube stand version junior parade mobile uphold wool";

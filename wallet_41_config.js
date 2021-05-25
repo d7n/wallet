@@ -1,1 +1,1 @@
-var mnemonic = "pear screen slender rich song rubber dove skull jazz income accuse guard";
+var mnemonic = "twice wreck feature glide tape whale power dog palm hedgehog mean kitchen";

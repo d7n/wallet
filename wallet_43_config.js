@@ -1,1 +1,1 @@
-var mnemonic = "direct raven stable pluck toilet soul frown edit daring naive lesson oval";
+var mnemonic = "receive world can blind earth secret uphold arctic axis ladder vintage entry";

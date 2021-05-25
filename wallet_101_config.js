@@ -1,1 +1,1 @@
-var mnemonic = "wall palace enter captain select bachelor stamp ribbon shine recipe believe purchase";
+var mnemonic = "pool dish ocean antenna arrest win remain method hair scrap leader shallow";

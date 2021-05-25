@@ -1,1 +1,1 @@
-var mnemonic = "crater topple half spot round oak yellow lounge tuition feed crystal item";
+var mnemonic = "bring remember arena boring vote auto account shell omit poet scheme display";

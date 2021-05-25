@@ -1,1 +1,1 @@
-var mnemonic = "change lion object glass emerge key beef spread roast clinic unveil wrap";
+var mnemonic = "minute jeans identify much coral mansion cheap amused middle diamond frequent balcony";

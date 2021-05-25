@@ -1,1 +1,1 @@
-var mnemonic = "basic alert cake cause street resist knee indoor swarm day sting loop";
+var mnemonic = "donate energy shed world virtual hospital feed party please same pet buyer";

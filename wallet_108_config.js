@@ -1,1 +1,1 @@
-var mnemonic = "win north turn disagree west custom nose craft begin over tribe want";
+var mnemonic = "wash feature illness october notable balance boss van bracket warm bomb health";

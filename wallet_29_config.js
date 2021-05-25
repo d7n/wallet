@@ -1,1 +1,1 @@
-var mnemonic = "mechanic manage fuel expand kit cinnamon index accident river unhappy forget clutch";
+var mnemonic = "outer lion infant wedding sphere achieve federal enhance unhappy start blouse stand";

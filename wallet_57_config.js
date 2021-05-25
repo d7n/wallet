@@ -1,1 +1,1 @@
-var mnemonic = "actual neck cushion fabric river inner pretty fabric distance dash upset whale";
+var mnemonic = "exchange ozone medal style mirror uniform biology race pluck attract cricket about";

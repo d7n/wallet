@@ -1,1 +1,1 @@
-var mnemonic = "dragon fan maze coach era taste spell sell trumpet random festival library";
+var mnemonic = "run update rally change mammal airport shrug that month empty burden dragon";

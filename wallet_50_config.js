@@ -1,1 +1,1 @@
-var mnemonic = "salute alert call group morning woman input finish pelican stadium solid kiwi";
+var mnemonic = "olive chef biology urban raise decade seat replace panel guess ivory piano";

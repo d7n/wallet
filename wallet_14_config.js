@@ -1,1 +1,1 @@
-var mnemonic = "mouse there kid afford grant ball buddy embody mountain course wasp dwarf";
+var mnemonic = "seat shallow track hundred firm lion cool fabric laundry author ask grab";

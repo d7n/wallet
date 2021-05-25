@@ -1,1 +1,1 @@
-var mnemonic = "main armor once air insane vacant little powder jazz discover basic ecology";
+var mnemonic = "film whisper transfer resource upon grow breeze grab jar pumpkin illness dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight tiger memory exist recycle meadow more spot repair kiwi person comic";
+var mnemonic = "appear report regret fly script bench upper salad purse genre morning opinion";

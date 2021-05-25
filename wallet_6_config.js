@@ -1,1 +1,1 @@
-var mnemonic = "zone cactus earn physical truck into vicious crack inherit unit wrist fragile";
+var mnemonic = "lobster path bachelor little solar animal muffin detect banana orbit neutral edge";

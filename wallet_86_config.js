@@ -1,1 +1,1 @@
-var mnemonic = "comfort mass region wagon chalk portion zone few curve violin tenant venue";
+var mnemonic = "wash stage occur crunch man wine bunker thunder age cabbage east impulse";

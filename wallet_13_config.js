@@ -1,1 +1,1 @@
-var mnemonic = "north luxury fence layer leaf nasty tiny engage brisk bring cupboard mango";
+var mnemonic = "matrix high wreck ramp practice total useless oven agent then loop resemble";

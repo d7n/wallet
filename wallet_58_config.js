@@ -1,1 +1,1 @@
-var mnemonic = "figure custom maze shiver chalk one version tooth dream certain same library";
+var mnemonic = "purchase guitar nation fossil boil blush purse property faculty frozen cage hundred";

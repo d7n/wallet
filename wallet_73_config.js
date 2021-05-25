@@ -1,1 +1,1 @@
-var mnemonic = "rubber slight comic neck law jacket economy property resource aisle poem slice";
+var mnemonic = "congress drink song million robot coconut surprise slot audit repair other make";

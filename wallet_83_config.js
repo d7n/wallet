@@ -1,1 +1,1 @@
-var mnemonic = "dove harbor mixed bunker knife try rigid shoulder frog runway wave ship";
+var mnemonic = "avocado able key uphold spell arrest rally ship explain wash glue tenant";

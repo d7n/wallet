@@ -1,1 +1,1 @@
-var mnemonic = "notice urban desert icon pen combine cabbage essence discover artist sketch unfair";
+var mnemonic = "crop drum quiz cinnamon real divide grape joy actor orphan call sugar";

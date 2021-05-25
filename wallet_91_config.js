@@ -1,1 +1,1 @@
-var mnemonic = "armor online olympic hungry guess note era tattoo buffalo grab kingdom glance";
+var mnemonic = "bench stable plug life gasp adapt hub nest pelican biology review visa";

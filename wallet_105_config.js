@@ -1,1 +1,1 @@
-var mnemonic = "layer shove chimney educate silver middle deny syrup cannon kind genre luggage";
+var mnemonic = "current brand bacon sorry diamond peasant script pelican tourist hip wrist correct";

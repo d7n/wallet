@@ -1,1 +1,1 @@
-var mnemonic = "before wall muscle ranch outside scout beyond ketchup utility outer rose vapor";
+var mnemonic = "soda lunar jewel myth view salt oil bacon worth exact february consider";

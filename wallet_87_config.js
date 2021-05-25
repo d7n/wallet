@@ -1,1 +1,1 @@
-var mnemonic = "reward glory picnic blouse pen spawn bench find title volcano edge door";
+var mnemonic = "disagree short kiss best volume warrior motion judge unfair oyster inmate prison";

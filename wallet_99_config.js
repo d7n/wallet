@@ -1,1 +1,1 @@
-var mnemonic = "bachelor regret silly dismiss size own liberty address fruit denial lemon also";
+var mnemonic = "bench scene peace engage screen aim normal unfair hospital build private reduce";

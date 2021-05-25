@@ -1,1 +1,1 @@
-var mnemonic = "matrix stick clump lobster reveal segment grape cart fault caught dutch urban";
+var mnemonic = "time cheap wrap damage engage velvet smooth six slot anchor joke canvas";

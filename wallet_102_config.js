@@ -1,1 +1,1 @@
-var mnemonic = "cruise damage conduct wasp orchard will soon limb deny daring wild pair";
+var mnemonic = "bronze want siren tell castle taxi clever egg sad crush thought hole";

@@ -1,1 +1,1 @@
-var mnemonic = "tray knee hover recipe smooth dismiss neglect spoil news affair choice zero";
+var mnemonic = "runway usual gloom lift firm figure tuition arrow arrange awful analyst mother";

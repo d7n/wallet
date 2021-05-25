@@ -1,1 +1,1 @@
-var mnemonic = "orange frown wolf benefit valley black birth unknown plug shallow suffer chunk";
+var mnemonic = "end drink mirror token blue basket shed decade comic rubber fiction release";

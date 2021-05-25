@@ -1,1 +1,1 @@
-var mnemonic = "merry convince liberty upgrade jazz trigger thumb later season belt lecture flock";
+var mnemonic = "mutual luxury bamboo address task chuckle hidden identify crowd build urge elephant";

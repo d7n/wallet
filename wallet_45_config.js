@@ -1,1 +1,1 @@
-var mnemonic = "flavor rack party sight dial gas maple derive curve chief share enrich";
+var mnemonic = "cargo uncover leopard traffic one middle thing knee enforce diamond table stamp";

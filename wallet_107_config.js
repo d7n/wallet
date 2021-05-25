@@ -1,1 +1,1 @@
-var mnemonic = "actor clap stairs ozone refuse bridge vintage forward love essence security useless";
+var mnemonic = "royal width invite unique near spider spell allow board park cereal total";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach garden dress involve salt opera edge seven veteran arctic delay hidden";
+var mnemonic = "fortune horse story urban order arm lecture random aware hawk glory run";

@@ -1,1 +1,1 @@
-var mnemonic = "concert scale shoulder crouch range frost dog useless hint breeze again slight";
+var mnemonic = "unlock exile day cement supreme fog eager tiny live icon engine day";

@@ -1,1 +1,1 @@
-var mnemonic = "swim sphere range around runway snow hybrid very salmon razor enter fancy";
+var mnemonic = "type cable split mail robot wave film input attitude gas affair dash";
