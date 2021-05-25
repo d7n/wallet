@@ -1,1 +1,1 @@
-var mnemonic = "term dune thunder route mansion fiction turkey face sauce borrow across walk";
+var mnemonic = "swing lemon green blade name ribbon lunar ritual parade song uncover become";

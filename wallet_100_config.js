@@ -1,1 +1,1 @@
-var mnemonic = "chef still hand strategy school globe cabin group skate toss cute major";
+var mnemonic = "citizen fruit young pride cradle satoshi celery topple mountain believe climb nature";

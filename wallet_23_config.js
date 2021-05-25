@@ -1,1 +1,1 @@
-var mnemonic = "online win metal recycle hobby card kitchen champion program guide shoe banana";
+var mnemonic = "crucial volcano drama glue raccoon hint rate candy tortoise mutual neglect trim";

@@ -1,1 +1,1 @@
-var mnemonic = "barely canoe draft slight pool inch erode pyramid valley course brief rack";
+var mnemonic = "story athlete recipe refuse loyal dignity pond clip vapor dilemma glass oblige";

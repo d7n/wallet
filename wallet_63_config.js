@@ -1,1 +1,1 @@
-var mnemonic = "flame bitter strategy galaxy escape gauge marine seed kind style extend erupt";
+var mnemonic = "boat area goddess suffer mixed label hand tuition smart ocean amazing belt";

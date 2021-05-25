@@ -1,1 +1,1 @@
-var mnemonic = "raccoon plastic yellow wish bullet visual resemble walnut mixture month tuna olympic";
+var mnemonic = "fiction thunder dice lizard still culture exist absurd must spike hammer dumb";

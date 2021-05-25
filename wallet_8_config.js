@@ -1,1 +1,1 @@
-var mnemonic = "orbit hold artefact real thank cool lift mountain dash odor wrestle squeeze";
+var mnemonic = "enough rubber inquiry away virus approve better confirm junk venue note february";

@@ -1,1 +1,1 @@
-var mnemonic = "since web symbol odor forest goddess helmet undo thing chronic universe maze";
+var mnemonic = "bid leg enforce funny live crime credit clown elevator vanish guilt garment";

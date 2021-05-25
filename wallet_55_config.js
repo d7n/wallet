@@ -1,1 +1,1 @@
-var mnemonic = "outdoor jacket risk pistol cabin disagree menu glory hurry domain swallow salon";
+var mnemonic = "paddle weird radar cook elbow clever tongue popular pride exhaust couple six";

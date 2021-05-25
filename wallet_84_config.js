@@ -1,1 +1,1 @@
-var mnemonic = "elbow august insect ensure ticket hour swallow secret math run slight harsh";
+var mnemonic = "symbol usage eight club glimpse kid chest away banana settle nurse profit";

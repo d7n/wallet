@@ -1,1 +1,1 @@
-var mnemonic = "okay profit law romance lawsuit initial shuffle chicken leisure normal shoe evoke";
+var mnemonic = "wash elite exclude excite dad engine fatal finish knock web dial dad";

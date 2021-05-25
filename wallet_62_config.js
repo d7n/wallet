@@ -1,1 +1,1 @@
-var mnemonic = "guard scale romance stairs hint ahead gate moral long antenna orbit nominee";
+var mnemonic = "fetch egg chicken olive where forget mobile claw hour gun attitude ignore";

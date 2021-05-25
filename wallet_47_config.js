@@ -1,1 +1,1 @@
-var mnemonic = "rival pond bread pet dice journey tourist twelve scale caught prevent together";
+var mnemonic = "rally dynamic fine quick coin entry enact punch seminar decide above morning";

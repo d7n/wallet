@@ -1,1 +1,1 @@
-var mnemonic = "wedding radar emerge record filter viable clutch dutch dose crater glass firm";
+var mnemonic = "portion path indicate island hundred intact room prefer minute area trash learn";

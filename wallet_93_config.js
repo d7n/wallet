@@ -1,1 +1,1 @@
-var mnemonic = "super taste novel allow slim shoe toddler heart father brave vendor violin";
+var mnemonic = "vessel wing flag length hub enrich family during gym eight spawn best";

@@ -1,1 +1,1 @@
-var mnemonic = "risk essence awake biology target hotel quick mistake feel gun dignity oxygen";
+var mnemonic = "indicate beauty route produce can panda ridge shadow science fox cat coffee";

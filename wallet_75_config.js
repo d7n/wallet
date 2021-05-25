@@ -1,1 +1,1 @@
-var mnemonic = "empower bronze tube grain soldier loop certain avocado wash mixture jacket useless";
+var mnemonic = "leg century tray blossom budget bamboo impose aerobic source feed today frequent";

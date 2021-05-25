@@ -1,1 +1,1 @@
-var mnemonic = "bubble equal amateur swamp orchard mechanic misery venture submit another fog hand";
+var mnemonic = "wise royal snack another bounce blue mistake around defense powder acoustic eight";

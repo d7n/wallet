@@ -1,1 +1,1 @@
-var mnemonic = "obey boil walk foster health motor buddy neutral weasel advance unknown client";
+var mnemonic = "screen mango bundle math stool crouch enemy smile mention wonder elbow walk";

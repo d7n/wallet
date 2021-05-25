@@ -1,1 +1,1 @@
-var mnemonic = "benefit script history dad tribe situate bomb lottery exchange bunker idea pudding";
+var mnemonic = "armed fan iron cluster utility toast energy author example access fee arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "hold ship offer sword enroll live wife tooth wait arrive coffee tool";
+var mnemonic = "jump pass plunge impulse camp absurd course sport person aisle mixture plastic";

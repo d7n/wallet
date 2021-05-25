@@ -1,1 +1,1 @@
-var mnemonic = "what grow below entry choose genre magic swallow stone energy mosquito deposit";
+var mnemonic = "tornado broom eager alert despair old material empty rabbit dog spare inquiry";

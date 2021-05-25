@@ -1,1 +1,1 @@
-var mnemonic = "job walnut dumb empower hub diet clinic charge immense pluck there thrive";
+var mnemonic = "route trophy cycle vocal goddess purse emerge oxygen crisp vanish collect jump";

@@ -1,1 +1,1 @@
-var mnemonic = "rent label praise educate inspire pepper canoe palace rural invite arch weather";
+var mnemonic = "swamp goat ski shop soccer tiny ramp dash dash wing expect bracket";

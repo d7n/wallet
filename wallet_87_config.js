@@ -1,1 +1,1 @@
-var mnemonic = "under february warrior because service famous breeze clip book dream view grace";
+var mnemonic = "camera cup debris disagree entry extend furnace total weasel frame anxiety month";

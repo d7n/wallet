@@ -1,1 +1,1 @@
-var mnemonic = "trick chest trap move jazz normal possible describe conduct hollow shiver elbow";
+var mnemonic = "dynamic wife inside elder alone mandate exhaust mercy track excite inherit embrace";

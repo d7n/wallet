@@ -1,1 +1,1 @@
-var mnemonic = "group always foot expire squirrel arrange organ club fine check steel miracle";
+var mnemonic = "butter spoon angry middle kiwi item actress torch guilt private comfort neither";

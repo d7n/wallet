@@ -1,1 +1,1 @@
-var mnemonic = "critic unique plastic degree cotton imitate lonely weasel spy drip love miracle";
+var mnemonic = "uncover cruise vocal ticket tail width struggle people stone inherit unlock toe";

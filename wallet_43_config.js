@@ -1,1 +1,1 @@
-var mnemonic = "snake quick illegal west owner radar wish voice they sense inner twist";
+var mnemonic = "wisdom soup light material armor salad kidney panic hurdle boil spring reward";

@@ -1,1 +1,1 @@
-var mnemonic = "aim reject actor banner soon crush model lock glove glow crime raise";
+var mnemonic = "empower ship nurse space curve cup supreme pledge pyramid toss cradle lobster";

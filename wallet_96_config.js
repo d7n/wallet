@@ -1,1 +1,1 @@
-var mnemonic = "quiz siege gentle hurry seat apple gasp resist cradle initial orient manage";
+var mnemonic = "already because wedding spider happy charge august wolf monkey head box solution";

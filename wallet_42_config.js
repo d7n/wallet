@@ -1,1 +1,1 @@
-var mnemonic = "rough universe early kidney find grass inquiry slice evidence stamp mercy elite";
+var mnemonic = "design asset crouch endorse cousin wool jeans march portion want critic rude";

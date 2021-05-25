@@ -1,1 +1,1 @@
-var mnemonic = "cause repeat useless review taxi source okay attract brand wire wonder reveal";
+var mnemonic = "renew mirror myth unlock future rally eyebrow prosper card drastic switch discover";

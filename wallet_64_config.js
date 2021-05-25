@@ -1,1 +1,1 @@
-var mnemonic = "fiscal plastic midnight verify news spin pattern van fresh roof force cinnamon";
+var mnemonic = "parrot square soap start network today view hidden kid letter afford acoustic";

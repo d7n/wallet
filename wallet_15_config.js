@@ -1,1 +1,1 @@
-var mnemonic = "intact lucky sausage thunder concert board february wolf cause palace fit symbol";
+var mnemonic = "drop sail nest hole domain antenna safe reveal glare bargain step include";

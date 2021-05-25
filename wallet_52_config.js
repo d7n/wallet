@@ -1,1 +1,1 @@
-var mnemonic = "away flag fiber scan logic stable boost daring foam exact easy add";
+var mnemonic = "crumble few category busy wife nut illness lottery elbow faint moon hold";

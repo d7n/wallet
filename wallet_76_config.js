@@ -1,1 +1,1 @@
-var mnemonic = "describe gun laundry hair female eight error blind bounce pause crucial sick";
+var mnemonic = "flush carry mandate symptom urge next slim select text repeat monster alien";

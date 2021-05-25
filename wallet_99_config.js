@@ -1,1 +1,1 @@
-var mnemonic = "genuine old lottery stage brush water crater palm pole dismiss oval around";
+var mnemonic = "edit tower also reopen weird cannon daughter place empower broccoli aerobic unusual";

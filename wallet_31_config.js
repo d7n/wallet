@@ -1,1 +1,1 @@
-var mnemonic = "tongue snap easily lab code wrap travel mirror defy adapt heart bulb";
+var mnemonic = "bring coconut poem garlic spin upper item train boring atom gloom boy";

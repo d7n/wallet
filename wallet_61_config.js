@@ -1,1 +1,1 @@
-var mnemonic = "indicate shell dismiss bachelor bring joke asthma inner innocent wreck unknown vote";
+var mnemonic = "swamp hole enroll police injury critic copy this mystery talk put income";

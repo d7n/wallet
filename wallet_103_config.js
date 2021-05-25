@@ -1,1 +1,1 @@
-var mnemonic = "put coral fantasy issue survey achieve accident current fragile local soft beauty";
+var mnemonic = "panel gown certain barrel sport cement clay vacuum curve stem true explain";

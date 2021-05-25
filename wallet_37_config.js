@@ -1,1 +1,1 @@
-var mnemonic = "manage shadow wide game kit welcome galaxy number obscure nut palace book";
+var mnemonic = "expand diamond nephew call era wall paper label pencil design grunt industry";

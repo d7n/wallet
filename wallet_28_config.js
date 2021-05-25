@@ -1,1 +1,1 @@
-var mnemonic = "cause express depart suffer cereal inmate life clock dream day same gasp";
+var mnemonic = "myself stick finger element submit eagle dwarf color picture connect sight ankle";

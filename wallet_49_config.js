@@ -1,1 +1,1 @@
-var mnemonic = "depend settle foil home sense flavor pattern crash next scan famous happy";
+var mnemonic = "supply ocean canal unlock spike index curve air horse list filter acid";

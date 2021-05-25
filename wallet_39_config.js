@@ -1,1 +1,1 @@
-var mnemonic = "local early mesh dirt oil ordinary pave excite lab fee improve because";
+var mnemonic = "napkin cave pass dash document adjust wrestle eye mixed eternal express venue";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge solar trash domain reveal case sheriff distance urban elbow elbow corn";
+var mnemonic = "angle ignore patrol suggest tobacco laundry panda buzz turkey alone west fun";

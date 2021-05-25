@@ -1,1 +1,1 @@
-var mnemonic = "interest bargain uncover area affair drive save salt phrase poverty game rotate";
+var mnemonic = "tribe water retreat attend solution will dumb salmon dust aware patient surface";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme fly armor soul scrap jump mansion note battle find visit embrace";
+var mnemonic = "merge token sick flee pulp juice extra pudding rubber gesture harvest apology";

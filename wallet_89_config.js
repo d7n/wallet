@@ -1,1 +1,1 @@
-var mnemonic = "sand absurd then rigid tackle risk prevent swap custom jacket marble render";
+var mnemonic = "replace arctic youth erode left achieve tragic tattoo update play increase such";

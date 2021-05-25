@@ -1,1 +1,1 @@
-var mnemonic = "rigid vehicle question ticket master drill narrow mesh witness become profit cabbage";
+var mnemonic = "first arm chat jump enforce agree flash approve joke year thumb prize";

@@ -1,1 +1,1 @@
-var mnemonic = "city above basket planet gravity conduct kite aerobic latin feed family category";
+var mnemonic = "village group patrol soon fatigue museum together select airport salt tube famous";

@@ -1,1 +1,1 @@
-var mnemonic = "price forward chicken version jar velvet like double kingdom airport goose success";
+var mnemonic = "aerobic angry skill hidden glimpse disorder popular cloud tell early mixture pause";

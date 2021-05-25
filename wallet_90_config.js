@@ -1,1 +1,1 @@
-var mnemonic = "bomb clap jungle safe frequent feature raise mammal friend fish theme fly";
+var mnemonic = "broccoli recycle will wood correct rookie gap assume shaft school fragile twin";

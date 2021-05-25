@@ -1,1 +1,1 @@
-var mnemonic = "roast nice forest canoe oyster coil rail session verb curve scissors little";
+var mnemonic = "drip wolf common despair lake erode cool citizen sudden accident gift repeat";

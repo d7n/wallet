@@ -1,1 +1,1 @@
-var mnemonic = "argue nation young tail toward select cause sample ginger future laundry unusual";
+var mnemonic = "prize corn salt ordinary tide fortune armor visa essence viable clinic cruise";

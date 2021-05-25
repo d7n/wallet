@@ -1,1 +1,1 @@
-var mnemonic = "vessel beyond scale tumble need page impulse aerobic lecture wish answer rely";
+var mnemonic = "wise lounge text clutch gorilla doll waste attend speak confirm torch burden";

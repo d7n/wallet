@@ -1,1 +1,1 @@
-var mnemonic = "sand wash rose boring occur whale cash garlic fox modify device rapid";
+var mnemonic = "royal cause regret dinner electric peanut music wedding ancient copy vicious wave";

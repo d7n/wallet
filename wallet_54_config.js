@@ -1,1 +1,1 @@
-var mnemonic = "dash include lawsuit token goose other stuff bright weather much hat lawsuit";
+var mnemonic = "emerge display clean weasel health bike mixture gap unveil animal throw powder";

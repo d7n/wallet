@@ -1,1 +1,1 @@
-var mnemonic = "because capital account spare survey video panda price catch scene recipe debris";
+var mnemonic = "lady onion assault involve twenty rail rally net network right maze coffee";

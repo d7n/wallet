@@ -1,1 +1,1 @@
-var mnemonic = "skirt labor duck relief labor pause tobacco thrive cousin test cook dawn";
+var mnemonic = "glance fiscal ketchup trim gown true gesture boil process voice royal enemy";

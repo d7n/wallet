@@ -1,1 +1,1 @@
-var mnemonic = "copy buddy short spider situate razor wink survey sure faith diet dinosaur";
+var mnemonic = "venue endless steak tent reason charge tongue kiwi snow maid cargo solution";

@@ -1,1 +1,1 @@
-var mnemonic = "baby theme morning honey hotel ski swift file about bleak alcohol relax";
+var mnemonic = "happy announce cabbage trouble dry frequent index carbon puppy test tag novel";

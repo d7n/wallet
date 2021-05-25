@@ -1,1 +1,1 @@
-var mnemonic = "abandon lava list april home joke home convince axis fresh proof world";
+var mnemonic = "retire pause alcohol reason write midnight olive begin hamster fade holiday picture";

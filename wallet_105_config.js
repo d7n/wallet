@@ -1,1 +1,1 @@
-var mnemonic = "gentle arena farm arrow destroy power aspect style ahead ride wear nuclear";
+var mnemonic = "opera gift nerve try motor toy sugar pulp vote want fault wrap";

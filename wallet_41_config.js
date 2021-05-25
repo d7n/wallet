@@ -1,1 +1,1 @@
-var mnemonic = "source shift evil service cradle suit actress spy rookie half sound enable";
+var mnemonic = "liquid goddess cart scan boost balance cereal away solve humble equip assume";

@@ -1,1 +1,1 @@
-var mnemonic = "choice jacket blossom absurd sign dynamic boat animal worth swing grocery message";
+var mnemonic = "cry junk panther tilt then sort trigger aisle vintage garage remember extend";

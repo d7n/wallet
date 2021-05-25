@@ -1,1 +1,1 @@
-var mnemonic = "local current there hen what type notable today satisfy rather razor sphere";
+var mnemonic = "ball episode slide ten cupboard name flip palace toward glory stable upper";

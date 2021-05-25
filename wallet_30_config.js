@@ -1,1 +1,1 @@
-var mnemonic = "satoshi misery shoulder winner cycle room shove shop spy immune cherry net";
+var mnemonic = "slot october design clarify average force kit frown across skin crouch crane";

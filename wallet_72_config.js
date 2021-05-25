@@ -1,1 +1,1 @@
-var mnemonic = "spend prosper tunnel hub tennis hunt ecology thunder occur vivid hen time";
+var mnemonic = "faith label opera void balcony rotate pizza spin another client puppy goddess";

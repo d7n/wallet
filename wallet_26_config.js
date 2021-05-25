@@ -1,1 +1,1 @@
-var mnemonic = "become accuse flame vocal nuclear sell pledge lake disorder dash also marine";
+var mnemonic = "scheme regular about slab security cereal embark jazz unit village wink rare";

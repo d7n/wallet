@@ -1,1 +1,1 @@
-var mnemonic = "enable distance panel coyote jealous stomach lion patch paddle dial bring angry";
+var mnemonic = "drift symbol relief offer liar love walk pipe muscle speak staff fix";

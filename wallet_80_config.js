@@ -1,1 +1,1 @@
-var mnemonic = "elegant anger primary silver keep siege actor claw laundry audit become embark";
+var mnemonic = "post forest youth task mail fun wing sugar loan fault jealous spice";

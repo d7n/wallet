@@ -1,1 +1,1 @@
-var mnemonic = "east grit affair method rookie pattern season clown tragic helmet fish path";
+var mnemonic = "exhaust airport canal smoke cube own moon ride rose guard word leaf";

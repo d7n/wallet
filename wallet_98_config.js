@@ -1,1 +1,1 @@
-var mnemonic = "bicycle slogan model fine spray accuse unlock neglect shrug party tree usual";
+var mnemonic = "apart lamp saddle pair jaguar raw ability team crazy empower style exile";

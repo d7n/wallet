@@ -1,1 +1,1 @@
-var mnemonic = "glue supply require disorder grab ostrich tattoo slim mercy dutch raccoon jelly";
+var mnemonic = "rural glad junior chunk chest sketch spread rely monster armor develop sister";

@@ -1,1 +1,1 @@
-var mnemonic = "hint carry find evidence captain mandate relax recall inherit category identify high";
+var mnemonic = "ivory obey excess street mistake primary olympic vacant fit thought ghost awesome";

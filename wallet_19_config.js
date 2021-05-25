@@ -1,1 +1,1 @@
-var mnemonic = "crumble anchor never debate weapon laugh sketch sport dove program lion inside";
+var mnemonic = "board normal tree inherit glass butter manual muffin define exit double type";

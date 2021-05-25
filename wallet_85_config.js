@@ -1,1 +1,1 @@
-var mnemonic = "can cable opinion mammal yard evil street pistol bulb visual catch pig";
+var mnemonic = "fatal report vacuum seven moon head potato zone summer steel mention attack";

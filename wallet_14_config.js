@@ -1,1 +1,1 @@
-var mnemonic = "nephew shallow ladder talk public theme visa proof flee wonder organ consider";
+var mnemonic = "above pave clump lend upgrade tuition drama cotton zone talk west boost";

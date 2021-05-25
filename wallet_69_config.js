@@ -1,1 +1,1 @@
-var mnemonic = "neglect private shed toss odor lazy still clay lumber radar used blame";
+var mnemonic = "domain trouble wife sell cloud merry vicious benefit visa wife about that";

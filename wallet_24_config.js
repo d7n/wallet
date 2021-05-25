@@ -1,1 +1,1 @@
-var mnemonic = "raccoon drink comfort wood disagree auto vehicle prevent hip chapter garden seminar";
+var mnemonic = "glide duck mean popular soul method brother victory voice receive sell saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "switch learn alien among census cruel dinner wolf love day believe bubble";
+var mnemonic = "true find story enhance nominee hurry carry gold joke prepare donkey october";

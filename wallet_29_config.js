@@ -1,1 +1,1 @@
-var mnemonic = "color enact region that foster minimum middle remind random control kidney around";
+var mnemonic = "young bomb fancy loop treat choice cancel access shadow narrow poem point";

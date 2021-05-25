@@ -1,1 +1,1 @@
-var mnemonic = "indoor nephew orphan seven merit spider upon palm car naive lunar industry";
+var mnemonic = "evolve point year naive famous security hold peanut expose cloud wool bid";

@@ -1,1 +1,1 @@
-var mnemonic = "sad disease space virus ensure balance toe garbage park spy bicycle outer";
+var mnemonic = "elegant fly worth future scrap joke alone prepare shaft rather emotion universe";

@@ -1,1 +1,1 @@
-var mnemonic = "record unknown armor gauge shove claim foot flee trigger glance feature frequent";
+var mnemonic = "brisk drill kite flush switch inform certain throw polar jaguar key over";

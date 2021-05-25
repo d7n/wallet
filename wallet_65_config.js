@@ -1,1 +1,1 @@
-var mnemonic = "mad margin mean sister sign valley cinnamon age web sudden draft drill";
+var mnemonic = "asset penalty siege entry pilot planet glide jazz utility regret section dune";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage else lab become cube cherry order symbol melt above include enemy";
+var mnemonic = "emerge enjoy spring episode loan grow include say soul mule apple burden";

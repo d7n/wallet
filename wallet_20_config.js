@@ -1,1 +1,1 @@
-var mnemonic = "cluster sheriff govern strike kiwi when girl pen skin bachelor grape father";
+var mnemonic = "noise thought lake raven piece start holiday woman keep shine potato force";

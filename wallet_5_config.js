@@ -1,1 +1,1 @@
-var mnemonic = "seed ridge fancy tunnel artist opinion join awful envelope jazz alter edit";
+var mnemonic = "mercy discover record real aisle romance blame mixed pigeon tool bone subject";
