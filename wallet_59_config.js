@@ -1,1 +1,1 @@
-var mnemonic = "betray print unfair rate track obscure lunch session energy hair soda version";
+var mnemonic = "glance strong argue mansion balcony tray toilet adjust mother lesson swamp stove";

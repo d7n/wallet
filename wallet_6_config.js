@@ -1,1 +1,1 @@
-var mnemonic = "thunder evidence bacon exchange demand rib mushroom hen glow egg shiver opera";
+var mnemonic = "problem unknown crunch trick pole hero current rib box group wild brother";

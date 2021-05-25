@@ -1,1 +1,1 @@
-var mnemonic = "finish success original gadget ranch gym spike wool entry muscle village afford";
+var mnemonic = "exchange clever slide six lizard hole spin divide approve trash dwarf round";

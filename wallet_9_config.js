@@ -1,1 +1,1 @@
-var mnemonic = "position shove penalty web leisure test bring ramp rebel silent wash aware";
+var mnemonic = "hen future sword glove loan fossil face bargain gauge detect moral toast";

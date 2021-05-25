@@ -1,1 +1,1 @@
-var mnemonic = "current siren soccer fall man double right tilt zoo lottery erosion torch";
+var mnemonic = "ice meat maple stadium ridge zoo best total medal zebra rocket sudden";

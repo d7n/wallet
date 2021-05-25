@@ -1,1 +1,1 @@
-var mnemonic = "maze pole normal novel keep hockey also ensure ramp squeeze style hood";
+var mnemonic = "indoor stumble ring load ordinary unaware connect bike avoid same cage diary";

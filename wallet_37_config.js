@@ -1,1 +1,1 @@
-var mnemonic = "depend sorry marine diet hint giraffe bag march monster hotel reduce spare";
+var mnemonic = "demise dream stone unusual still chapter oil bottom together warm harbor length";

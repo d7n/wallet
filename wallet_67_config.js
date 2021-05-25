@@ -1,1 +1,1 @@
-var mnemonic = "wild faith filter honey opinion tube version enough emerge gasp legend marine";
+var mnemonic = "safe test bottom hip narrow sport timber type unit glue column coffee";

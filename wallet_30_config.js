@@ -1,1 +1,1 @@
-var mnemonic = "student hello option poverty dutch time loop live blush honey panda diesel";
+var mnemonic = "machine bomb right boost tail crime text hope battle subway hobby afford";

@@ -1,1 +1,1 @@
-var mnemonic = "always explain receive air hobby veteran eagle wave across business sudden make";
+var mnemonic = "rain shoot soft circle grocery woman camp aspect alcohol fence found tail";

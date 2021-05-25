@@ -1,1 +1,1 @@
-var mnemonic = "bounce stairs drip frequent icon possible ship fury symptom suit penalty sand";
+var mnemonic = "record mesh gasp exile result bitter victory fury cook olive gravity shiver";

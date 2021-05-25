@@ -1,1 +1,1 @@
-var mnemonic = "camera fiscal cupboard dish evoke mobile jaguar illegal disagree jungle alter this";
+var mnemonic = "mutual capable slender wage involve margin flip dial utility uncle camp gown";

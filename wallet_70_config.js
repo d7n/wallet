@@ -1,1 +1,1 @@
-var mnemonic = "hurt swamp park capital patch funny comic other bonus delay drip sail";
+var mnemonic = "beef drastic sunny question old wine auto inherit meadow paddle coral someone";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle paper clean sign heavy usual miss corn oppose moral merry canoe";
+var mnemonic = "inquiry ring boat remove broccoli derive clock inflict blast movie nominee utility";

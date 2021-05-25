@@ -1,1 +1,1 @@
-var mnemonic = "sphere frequent dirt labor client end bitter adjust sail tuition sign close";
+var mnemonic = "treat wet sand deny multiply six cattle aerobic balance dirt reveal copper";

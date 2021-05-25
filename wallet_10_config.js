@@ -1,1 +1,1 @@
-var mnemonic = "cycle merit awesome mass protect exchange want guess vapor theme border benefit";
+var mnemonic = "asthma mule blanket learn simple olive grid aerobic robot power trap eight";

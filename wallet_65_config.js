@@ -1,1 +1,1 @@
-var mnemonic = "medal laugh cannon parade indoor scrap cancel sun aunt wave helmet swamp";
+var mnemonic = "husband example silly paper try unfold unable duck obscure wave limb naive";

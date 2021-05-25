@@ -1,1 +1,1 @@
-var mnemonic = "turtle phone absorb coin make census skate anger edge change payment waste";
+var mnemonic = "amount ring swallow craft mask orbit actor turn marble faint assume picnic";

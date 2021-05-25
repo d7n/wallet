@@ -1,1 +1,1 @@
-var mnemonic = "lift quarter output trust stem sure silk other muffin bleak broken vanish";
+var mnemonic = "spirit random cruel muffin health nature expand copy husband west solid sketch";

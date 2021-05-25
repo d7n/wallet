@@ -1,1 +1,1 @@
-var mnemonic = "ten only kick clay fitness praise ozone stage rice enlist snack music";
+var mnemonic = "child pluck nice absurd crack market dragon know mean pumpkin erode help";

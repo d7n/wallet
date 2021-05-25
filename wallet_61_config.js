@@ -1,1 +1,1 @@
-var mnemonic = "cat segment gravity water skull impulse delay federal throw party frequent behave";
+var mnemonic = "cricket throw blanket equal act cage shiver open delay gospel flash fatal";

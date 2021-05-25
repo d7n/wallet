@@ -1,1 +1,1 @@
-var mnemonic = "spot venture expose ready throw brain sad also aunt easily custom horror";
+var mnemonic = "wreck club begin idea stadium announce alley guess stand wild spoil furnace";

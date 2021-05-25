@@ -1,1 +1,1 @@
-var mnemonic = "turkey stadium ability raw trip panel true target tent catch impulse image";
+var mnemonic = "ball fuel pudding scorpion wall room census chicken panic timber motion move";

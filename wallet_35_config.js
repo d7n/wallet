@@ -1,1 +1,1 @@
-var mnemonic = "elevator claw amused pepper slogan erosion coffee spot candy real midnight system";
+var mnemonic = "off inside maid bargain fancy hill tattoo submit position need green venture";

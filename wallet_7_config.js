@@ -1,1 +1,1 @@
-var mnemonic = "figure either off anchor just arrest hurdle cycle type demise excuse demise";
+var mnemonic = "silk isolate achieve bus unveil music history dream opera produce forum practice";

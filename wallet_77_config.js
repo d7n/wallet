@@ -1,1 +1,1 @@
-var mnemonic = "crop prevent enforce interest involve remember salute smoke dolphin auction deputy boring";
+var mnemonic = "hint aspect lumber hotel hobby narrow avoid gospel six point salad dawn";

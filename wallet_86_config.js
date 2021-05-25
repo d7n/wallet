@@ -1,1 +1,1 @@
-var mnemonic = "toilet boy torch twenty simple arrow blossom trial minimum web search nurse";
+var mnemonic = "diamond hint february wreck oppose dentist lesson flavor token group fine toss";

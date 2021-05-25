@@ -1,1 +1,1 @@
-var mnemonic = "depend sleep table slot exhibit orphan gold border endless leisure toward away";
+var mnemonic = "shrug steak imitate speak dream evolve property help fork beauty weekend spare";

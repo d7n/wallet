@@ -1,1 +1,1 @@
-var mnemonic = "atom slide anger render clap fine slam author moon balcony diamond reveal";
+var mnemonic = "valve salmon rival liquid now rose game truck eagle rare beef polar";

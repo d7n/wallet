@@ -1,1 +1,1 @@
-var mnemonic = "prefer trick cheap leg kiss winner sail paper olive device split trip";
+var mnemonic = "egg midnight expire bubble exit wrestle eyebrow creek clump february grass across";

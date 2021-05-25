@@ -1,1 +1,1 @@
-var mnemonic = "duty ability fetch doll earn frozen future relax cable common fan auction";
+var mnemonic = "trophy van grunt crane picnic nature tattoo forest speak dilemma mom glad";

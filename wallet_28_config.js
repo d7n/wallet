@@ -1,1 +1,1 @@
-var mnemonic = "frozen metal village budget word cancel shiver misery stick powder predict before";
+var mnemonic = "rocket soda holiday dry walk head toddler jelly found turn prosper gas";

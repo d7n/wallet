@@ -1,1 +1,1 @@
-var mnemonic = "purity basic connect toss say swamp situate wrist near dry dwarf ensure";
+var mnemonic = "reason chase high office prevent brother ladder autumn emotion grape educate frown";

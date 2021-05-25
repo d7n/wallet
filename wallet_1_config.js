@@ -1,1 +1,1 @@
-var mnemonic = "safe bleak fever nerve awkward math match bean solar promote lift yard";
+var mnemonic = "blush choose easily spare update photo sea close embrace describe pelican shaft";

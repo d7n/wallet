@@ -1,1 +1,1 @@
-var mnemonic = "practice solar food feed plug liquid badge nothing wrap waste there treat";
+var mnemonic = "quality grocery wealth scale eye autumn picture field rent giraffe very music";

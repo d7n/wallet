@@ -1,1 +1,1 @@
-var mnemonic = "door speed zone size betray snake improve opera clump bacon defense dawn";
+var mnemonic = "brand barrel top system bike wreck east mango seven vote tattoo mistake";

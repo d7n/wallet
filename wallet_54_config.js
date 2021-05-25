@@ -1,1 +1,1 @@
-var mnemonic = "expose endorse thought secret extend aerobic shoot option best fault mask cousin";
+var mnemonic = "indicate minimum trust horror excite scan mushroom friend silly jelly purse immense";

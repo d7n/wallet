@@ -1,1 +1,1 @@
-var mnemonic = "glove mistake zero lemon shiver empty simple tired multiply cricket danger setup";
+var mnemonic = "canvas goddess deposit royal setup balcony sand just sword remember immense violin";

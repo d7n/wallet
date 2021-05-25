@@ -1,1 +1,1 @@
-var mnemonic = "arrange kite promote kiwi cabbage help excite gun buffalo radio surge abandon";
+var mnemonic = "object ugly never vivid panic amused orphan disorder want sight chunk tumble";

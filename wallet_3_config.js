@@ -1,1 +1,1 @@
-var mnemonic = "sketch mandate return fee regret wink window accuse thing bike else ritual";
+var mnemonic = "income desk say roof basic chicken sea ribbon actual height cool pink";

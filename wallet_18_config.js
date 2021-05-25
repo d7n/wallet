@@ -1,1 +1,1 @@
-var mnemonic = "plastic elevator ladder fee concert desk lake float bag song fall share";
+var mnemonic = "rely hour tennis sting piece save fix bone swing nice suggest choice";

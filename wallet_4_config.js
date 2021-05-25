@@ -1,1 +1,1 @@
-var mnemonic = "chimney place right put torch regret august super frame olive wire work";
+var mnemonic = "blood collect cushion shell stem athlete disease hotel peanut portion dumb lounge";

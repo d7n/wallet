@@ -1,1 +1,1 @@
-var mnemonic = "very balcony promote throw door excess talent box upon flush wife stick";
+var mnemonic = "salmon purpose beyond found drive tower eagle resist clean rookie air flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish bonus artwork cable grab shop own worry kiwi become penalty illegal";
+var mnemonic = "scheme way swim work top sun concert human allow neutral barrel wrap";

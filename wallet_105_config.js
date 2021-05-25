@@ -1,1 +1,1 @@
-var mnemonic = "brief clog present primary segment endorse inflict easily dinner three vast slush";
+var mnemonic = "combine fan disagree width video flag pyramid whip little document time else";

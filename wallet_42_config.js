@@ -1,1 +1,1 @@
-var mnemonic = "release level swap video old initial hope barrel rent jump anchor bridge";
+var mnemonic = "dune frozen yard couch cry barely eight unable seed warm scrub junk";

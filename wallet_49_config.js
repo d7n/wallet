@@ -1,1 +1,1 @@
-var mnemonic = "bronze hurry help dry silk recycle daughter tortoise glow sample relief great";
+var mnemonic = "logic cash dose keep alley shine piano floor grace sweet couch hotel";

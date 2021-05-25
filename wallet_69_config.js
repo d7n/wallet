@@ -1,1 +1,1 @@
-var mnemonic = "east save abandon envelope daring coast valid glide much crime balcony surface";
+var mnemonic = "success noble slight tag cause own acid any firm fog crawl tide";

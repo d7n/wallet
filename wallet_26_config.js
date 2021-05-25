@@ -1,1 +1,1 @@
-var mnemonic = "ball bullet rent wonder basket steel hen lonely exhaust clock trick smooth";
+var mnemonic = "nation crack fall icon buffalo awesome daughter soda list wing remain bar";

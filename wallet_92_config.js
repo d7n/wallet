@@ -1,1 +1,1 @@
-var mnemonic = "tank praise report universe garment ready correct girl thunder ensure mango consider";
+var mnemonic = "fix census sister caught grief maple ride brick thunder valley economy recycle";

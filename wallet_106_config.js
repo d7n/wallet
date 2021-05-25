@@ -1,1 +1,1 @@
-var mnemonic = "clinic sample usage engine banana urge eyebrow coach boost awesome abandon since";
+var mnemonic = "trim dynamic puzzle share crack input velvet main verify then laundry plastic";

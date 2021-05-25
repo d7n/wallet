@@ -1,1 +1,1 @@
-var mnemonic = "spawn mutual december moon absent mansion kiss cash section derive verb nuclear";
+var mnemonic = "blind try use improve prevent fade boring shop power banner remember phone";

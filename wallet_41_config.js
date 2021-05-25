@@ -1,1 +1,1 @@
-var mnemonic = "call end ocean album since axis age drum time differ true wrap";
+var mnemonic = "ocean buzz staff try seek figure end hungry shift clutch impact tag";

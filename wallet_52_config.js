@@ -1,1 +1,1 @@
-var mnemonic = "mammal produce grape yard media start prefer panda cigar blood space cycle";
+var mnemonic = "space desert dance spray clay island cool cabin exile day random strategy";

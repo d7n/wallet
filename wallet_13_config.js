@@ -1,1 +1,1 @@
-var mnemonic = "magnet life napkin ribbon grit motion drama faculty argue garment uncle bundle";
+var mnemonic = "blouse junk drama develop impose slab shop physical slow forum match cluster";

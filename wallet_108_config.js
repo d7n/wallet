@@ -1,1 +1,1 @@
-var mnemonic = "fan fix distance gown kind thank cupboard trigger library unhappy child urban";
+var mnemonic = "arrow vicious panther tip sunset palace engage arm current burger elevator garment";

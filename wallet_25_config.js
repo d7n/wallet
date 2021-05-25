@@ -1,1 +1,1 @@
-var mnemonic = "churn memory define swarm artwork razor direct olive size mistake chair walk";
+var mnemonic = "shoe purse wisdom because wise color orient empower swamp ceiling sniff piece";

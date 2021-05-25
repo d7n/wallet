@@ -1,1 +1,1 @@
-var mnemonic = "swallow frown time embark warfare away digital clerk donate pledge hero biology";
+var mnemonic = "rhythm position where enact obscure slight sport total name scissors trip message";

@@ -1,1 +1,1 @@
-var mnemonic = "exist process wrist until awful champion crucial seed chief ketchup artist deal";
+var mnemonic = "story tube depart chest million category business rude bulb polar mention venue";

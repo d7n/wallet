@@ -1,1 +1,1 @@
-var mnemonic = "shock nut inner begin account toddler win glare veteran lunar fruit knock";
+var mnemonic = "chimney forget coast liberty slim lion hello space vehicle armor peasant ghost";

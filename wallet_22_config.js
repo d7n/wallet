@@ -1,1 +1,1 @@
-var mnemonic = "latin wood fiscal kite huge note iron noble ceiling seat abstract quantum";
+var mnemonic = "marine bus toast view miss present exit absorb hub affair foil buffalo";

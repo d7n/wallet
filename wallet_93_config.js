@@ -1,1 +1,1 @@
-var mnemonic = "easily trend shoe venue grief blur put inject keep cycle object game";
+var mnemonic = "client pig across dentist castle diamond hold tree endless gate globe van";

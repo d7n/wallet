@@ -1,1 +1,1 @@
-var mnemonic = "decorate shaft ivory shuffle bomb can program expose barrel birth violin absurd";
+var mnemonic = "piano day trick swing supreme drink injury april roof trophy radar salad";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz abandon ginger worry ketchup raccoon spin rough lizard exhaust concert swim";
+var mnemonic = "fox rally announce attend canyon unfair hub remove host glue bleak skate";

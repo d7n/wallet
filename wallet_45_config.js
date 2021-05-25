@@ -1,1 +1,1 @@
-var mnemonic = "suspect month come actress today series talent ancient embrace decline leg flock";
+var mnemonic = "settle fatigue history lucky can online spot actual diamond anchor tray exact";

@@ -1,1 +1,1 @@
-var mnemonic = "junior predict carbon main gadget process industry rhythm become maple high anger";
+var mnemonic = "pave suspect light hat mad chest fine submit chuckle gun fold reflect";

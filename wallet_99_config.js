@@ -1,1 +1,1 @@
-var mnemonic = "neutral add leopard nurse rhythm wrist attract romance man nothing notice domain";
+var mnemonic = "relief cigar menu fat power secret above maple exit twin output hazard";

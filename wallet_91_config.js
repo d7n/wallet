@@ -1,1 +1,1 @@
-var mnemonic = "cabin spin decide original oval wasp noise flat decade index rabbit poem";
+var mnemonic = "report canoe slender click start orchard script layer breeze smooth nature embark";

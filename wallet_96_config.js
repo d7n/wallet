@@ -1,1 +1,1 @@
-var mnemonic = "fox elite engine outside budget lucky torch blouse illness soap tool business";
+var mnemonic = "pepper deputy jazz space crystal lava punch exile twenty ship final creek";

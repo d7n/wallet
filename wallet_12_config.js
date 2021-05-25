@@ -1,1 +1,1 @@
-var mnemonic = "blade rude gloom rebel original invite organ ketchup frequent valve long lonely";
+var mnemonic = "display adult stadium truth brave envelope margin private ship exile globe hello";

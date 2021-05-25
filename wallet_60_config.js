@@ -1,1 +1,1 @@
-var mnemonic = "abstract zoo economy door arch amazing toy fine illegal rather prison know";
+var mnemonic = "poet connect pizza hospital blood clip husband index history display cage uncover";

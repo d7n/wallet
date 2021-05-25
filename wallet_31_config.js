@@ -1,1 +1,1 @@
-var mnemonic = "jazz dash pupil rapid remember chuckle earn puppy wrap manual gesture news";
+var mnemonic = "soon amount sweet sketch century rotate weasel arrange surge issue neck pole";

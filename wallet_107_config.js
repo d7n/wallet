@@ -1,1 +1,1 @@
-var mnemonic = "audit tourist life limb clarify goddess arrest scale broccoli rule stumble execute";
+var mnemonic = "shuffle cargo rich guide young apart bone scrub poet material mobile virtual";

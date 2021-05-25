@@ -1,1 +1,1 @@
-var mnemonic = "guilt maid physical eyebrow birth kitchen pledge wedding moral fancy cushion gift";
+var mnemonic = "review garbage future gentle notable winner mutual slush night impulse soul rough";

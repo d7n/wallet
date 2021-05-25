@@ -1,1 +1,1 @@
-var mnemonic = "law confirm argue lady maple stable liquid flower arrow special immune habit";
+var mnemonic = "rare mushroom abuse margin once train satoshi grape ribbon fault note burst";

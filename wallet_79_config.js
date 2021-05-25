@@ -1,1 +1,1 @@
-var mnemonic = "brave feel over blouse attend wood couch anxiety grow flock diary talk";
+var mnemonic = "dilemma eyebrow arrow steak remind summer simple amateur wrestle analyst pig impose";

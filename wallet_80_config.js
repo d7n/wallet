@@ -1,1 +1,1 @@
-var mnemonic = "pepper runway box aerobic ice nuclear scan debris valid ridge between govern";
+var mnemonic = "enable stumble annual bar during mixture gate drastic fish park decade remind";

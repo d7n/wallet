@@ -1,1 +1,1 @@
-var mnemonic = "two artist season emotion hover spy dumb own series crumble hero border";
+var mnemonic = "address city jeans slow flavor middle inquiry until apology hair galaxy soon";

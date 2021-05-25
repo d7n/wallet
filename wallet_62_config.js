@@ -1,1 +1,1 @@
-var mnemonic = "ocean spy year vessel sustain sheriff circle page lemon debate display cheap";
+var mnemonic = "mix photo picture anxiety raw pepper ensure knock payment brief tide laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "decide pair jungle sock false slender flag alien hold domain lend over";
+var mnemonic = "differ always curious scout setup used lecture interest shop physical same top";

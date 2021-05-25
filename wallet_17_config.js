@@ -1,1 +1,1 @@
-var mnemonic = "friend illness obvious setup manage globe spend ghost army sunny knife involve";
+var mnemonic = "original frequent regret pond win airport habit benefit regular double tribe vacant";

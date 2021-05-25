@@ -1,1 +1,1 @@
-var mnemonic = "insect furnace ahead angle butter link melody intact inquiry vehicle person space";
+var mnemonic = "minute since vacuum sister exercise citizen drop evoke enhance display case remove";

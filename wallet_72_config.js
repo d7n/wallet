@@ -1,1 +1,1 @@
-var mnemonic = "thought occur faint wasp text sense fiction ride scale click develop nothing";
+var mnemonic = "trend entire hundred sudden cook kiwi friend power visa flee point badge";

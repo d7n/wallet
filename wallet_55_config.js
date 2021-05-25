@@ -1,1 +1,1 @@
-var mnemonic = "breeze zero supply civil film tiger practice tomorrow course pig scare truth";
+var mnemonic = "trash grid twist envelope leave clip service easily neck arrest ready horror";

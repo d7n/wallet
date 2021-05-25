@@ -1,1 +1,1 @@
-var mnemonic = "cost symbol angle memory sorry brain evidence hole intact mimic october tortoise";
+var mnemonic = "symptom solid spike page sun carpet carbon quote length power carbon credit";

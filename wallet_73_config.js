@@ -1,1 +1,1 @@
-var mnemonic = "wrist face critic pony insane author struggle butter winner whip shadow claim";
+var mnemonic = "sunny thunder six current message victory place merit gloom ice attitude disagree";

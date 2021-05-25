@@ -1,1 +1,1 @@
-var mnemonic = "funny swim number unique pulp core blouse exhaust know laugh because kind";
+var mnemonic = "boring ginger case face toe stairs diesel borrow install keen clump width";

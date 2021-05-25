@@ -1,1 +1,1 @@
-var mnemonic = "base pear narrow barely dynamic addict labor attitude machine damage wreck share";
+var mnemonic = "transfer file purse piece denial purpose remain rich decrease lecture magic jealous";

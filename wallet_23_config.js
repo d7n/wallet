@@ -1,1 +1,1 @@
-var mnemonic = "door sentence ethics east syrup prefer icon valid employ shoe false private";
+var mnemonic = "luggage cause border correct captain autumn office prepare beyond ribbon chapter shine";
