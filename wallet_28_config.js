@@ -1,1 +1,1 @@
-var mnemonic = "arrest voyage amazing sausage post movie bomb town wrap exact ring flip";
+var mnemonic = "clump pattern invest hip regular beef hover age slogan arrange liquid elephant";

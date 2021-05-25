@@ -1,1 +1,1 @@
-var mnemonic = "scheme gauge alcohol depend idea reflect stairs polar jealous core seminar sheriff";
+var mnemonic = "collect primary bracket inspire anxiety company warm must vicious media add allow";

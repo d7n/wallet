@@ -1,1 +1,1 @@
-var mnemonic = "simple okay limb happy eagle animal educate poverty chief wasp lake science";
+var mnemonic = "add source custom category all disorder okay immense grit spend cost spend";

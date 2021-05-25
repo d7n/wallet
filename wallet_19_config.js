@@ -1,1 +1,1 @@
-var mnemonic = "trend law process layer abandon rely library copper oil silly still banner";
+var mnemonic = "wall daughter feature joy index mammal boring fade dignity end impose camp";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney chimney online idea same tissue seat all desk clerk early absorb";
+var mnemonic = "grant input panic net walk melody garden patrol intact cabbage train arm";

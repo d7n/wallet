@@ -1,1 +1,1 @@
-var mnemonic = "opinion senior spoil ten wish usage bullet general smooth romance april key";
+var mnemonic = "random goat tent fault ladder science romance middle swallow click enhance globe";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla castle put emotion gown humor deposit call general find embark spirit";
+var mnemonic = "edit style fox group wealth differ life vault resemble must shoot daughter";

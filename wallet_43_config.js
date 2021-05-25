@@ -1,1 +1,1 @@
-var mnemonic = "once tomato ceiling absent neutral relief swallow chair square assume have sort";
+var mnemonic = "draft wrestle develop stage attack awesome repeat increase sport stock turkey life";

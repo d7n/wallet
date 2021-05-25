@@ -1,1 +1,1 @@
-var mnemonic = "stuff regular feel orchard owner emotion spatial drill local regular copy address";
+var mnemonic = "shove jewel obscure fan horror melody where busy course viable cloud inhale";

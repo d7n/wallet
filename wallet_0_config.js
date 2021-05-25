@@ -1,1 +1,1 @@
-var mnemonic = "salon pipe kiss inject prepare floor trigger game write flag grain bone";
+var mnemonic = "tonight evolve cancel client basic asthma exit burst silly one raise despair";

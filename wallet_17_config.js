@@ -1,1 +1,1 @@
-var mnemonic = "sort margin casual purpose creek angle chronic drop eager fly image detail";
+var mnemonic = "lumber summer parade fashion reopen vibrant execute fiscal maid vault dose local";

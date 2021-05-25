@@ -1,1 +1,1 @@
-var mnemonic = "strong butter obscure betray blade void drama depth culture rough future olympic";
+var mnemonic = "message noodle chuckle core mosquito gym west act crush favorite slender busy";

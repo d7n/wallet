@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon visa bleak sorry domain farm plug carpet welcome feed slight artwork";
+var mnemonic = "brave never enhance arrive property neutral glove confirm curtain ostrich seat kingdom";

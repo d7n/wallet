@@ -1,1 +1,1 @@
-var mnemonic = "daring dutch chaos popular dynamic since club knock cement viable tray spy";
+var mnemonic = "boy divorce when know rural sketch receive depend fragile stomach ignore believe";

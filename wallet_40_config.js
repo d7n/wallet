@@ -1,1 +1,1 @@
-var mnemonic = "mutual friend school glad benefit labor day used say shell vanish shield";
+var mnemonic = "electric main fabric duty cover shiver valley prison gift page delay act";

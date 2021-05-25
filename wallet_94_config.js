@@ -1,1 +1,1 @@
-var mnemonic = "grid agree nominee doll dirt innocent news learn coach spice juice fiction";
+var mnemonic = "duck diamond dragon capable coast antenna slight world begin help pipe pudding";

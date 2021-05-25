@@ -1,1 +1,1 @@
-var mnemonic = "jealous supreme language ankle luxury skill grab twin wagon crazy enough raise";
+var mnemonic = "cost tail antique follow torch crisp entire bomb assume combine border scrub";

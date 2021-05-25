@@ -1,1 +1,1 @@
-var mnemonic = "half length govern model orient aim remind gain question plunge old guess";
+var mnemonic = "blue caught keen dolphin banner rigid above such dawn strike multiply daughter";

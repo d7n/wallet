@@ -1,1 +1,1 @@
-var mnemonic = "priority fantasy blast decrease squeeze gloom bulb okay round exhaust insect harbor";
+var mnemonic = "claim plastic smoke enable swim stick cliff member already social speak office";

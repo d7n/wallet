@@ -1,1 +1,1 @@
-var mnemonic = "tongue tiny travel spoon mouse diesel nurse inhale bulk boss symptom finish";
+var mnemonic = "carpet panel alert weasel hover galaxy piece trouble reward output december tail";

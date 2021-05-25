@@ -1,1 +1,1 @@
-var mnemonic = "sphere pledge section tuna put ripple woman sweet recall biology sunset mask";
+var mnemonic = "sausage best come salon abstract remain inject midnight gravity miracle owner room";

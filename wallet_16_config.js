@@ -1,1 +1,1 @@
-var mnemonic = "sure cat marble situate sport page matrix moral table paper mother joke";
+var mnemonic = "interest monkey celery need discover top fly soldier miss cheap attack absorb";

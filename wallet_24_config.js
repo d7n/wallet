@@ -1,1 +1,1 @@
-var mnemonic = "lazy lounge deny major metal wise brother eyebrow exhaust volume rough know";
+var mnemonic = "crunch vendor penalty clerk accuse march daughter hobby hill happy food unique";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth access bitter comfort motion sketch doll welcome hope safe omit negative";
+var mnemonic = "south vintage reject lab giant robust supreme around impact dance below ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi reunion this choose entry guilt endorse erupt giant cheese frame brass";
+var mnemonic = "sense shy liberty retreat unusual enemy arch slush bind proud void wife";

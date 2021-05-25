@@ -1,1 +1,1 @@
-var mnemonic = "illegal emotion thought theme owner timber stereo elegant asthma grow hospital oval";
+var mnemonic = "color kingdom spawn giraffe minimum fade soul employ swap business vanish wave";

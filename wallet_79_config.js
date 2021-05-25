@@ -1,1 +1,1 @@
-var mnemonic = "shed weekend sphere original chronic layer butter label slab story among blossom";
+var mnemonic = "chef mercy corn monkey force culture enlist gesture just mom gap require";

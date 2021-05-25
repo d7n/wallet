@@ -1,1 +1,1 @@
-var mnemonic = "nose rebel diet grant fox flat immense vacuum crouch entry journey early";
+var mnemonic = "craft sad dutch knife swing theme address cup impulse hand hurry vendor";

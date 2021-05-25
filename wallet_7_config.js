@@ -1,1 +1,1 @@
-var mnemonic = "ghost drop marble main jaguar hill boring army return robust door deliver";
+var mnemonic = "board reopen subway ski knife cat mention swing horror pretty maple remain";

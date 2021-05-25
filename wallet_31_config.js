@@ -1,1 +1,1 @@
-var mnemonic = "face route decline ribbon carbon together supreme voice mouse film diagram latin";
+var mnemonic = "deposit lake goose fashion basic tissue report group focus person garlic actual";

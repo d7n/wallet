@@ -1,1 +1,1 @@
-var mnemonic = "fly next frown roof pause visit dutch embody involve saddle truly master";
+var mnemonic = "slot piano time animal above swap predict easily host cereal accuse quick";

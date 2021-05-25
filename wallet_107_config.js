@@ -1,1 +1,1 @@
-var mnemonic = "neutral laundry salmon apology medal gravity world flavor local all hip deputy";
+var mnemonic = "step gauge breeze mountain giraffe one misery will shoot reject morning predict";

@@ -1,1 +1,1 @@
-var mnemonic = "grant rebuild globe rescue chest razor course marriage labor spare gloom budget";
+var mnemonic = "width neither twenty pulse leg leisure robust father grace purpose swear like";

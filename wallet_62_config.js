@@ -1,1 +1,1 @@
-var mnemonic = "price bar oven monster guard hybrid element picnic file toss disease tortoise";
+var mnemonic = "august scheme spin mask rain flight hello table fan boil can quick";

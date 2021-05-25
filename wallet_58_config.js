@@ -1,1 +1,1 @@
-var mnemonic = "treat crazy almost win swap wise dance help view gather elegant cage";
+var mnemonic = "helmet zebra people staff rival oval rural crew process pig glimpse rug";

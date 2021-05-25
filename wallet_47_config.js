@@ -1,1 +1,1 @@
-var mnemonic = "olive parent naive profit lab crush core tobacco chalk donkey relax rather";
+var mnemonic = "mixture practice income turn easily junk measure midnight patrol transfer chunk display";

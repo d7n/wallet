@@ -1,1 +1,1 @@
-var mnemonic = "tissue seek course glide entire come crime dog strong subject voice share";
+var mnemonic = "oven drive pizza royal grass burst toss enable jaguar machine fog issue";

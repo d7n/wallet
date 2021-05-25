@@ -1,1 +1,1 @@
-var mnemonic = "merry animal friend enemy swamp box twist blue disorder brief blind soda";
+var mnemonic = "couch tourist because flash erupt issue armor physical smoke danger stool audit";

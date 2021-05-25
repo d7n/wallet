@@ -1,1 +1,1 @@
-var mnemonic = "buffalo fitness loud mystery again anchor shop huge tuna quarter gentle manual";
+var mnemonic = "surface husband economy race bird deposit nasty market mixed bright cash resemble";

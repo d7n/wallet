@@ -1,1 +1,1 @@
-var mnemonic = "lunar orange tooth trophy emerge talk left alpha plastic where agent normal";
+var mnemonic = "artist multiply stamp fetch stamp short elegant best mutual sentence practice witness";

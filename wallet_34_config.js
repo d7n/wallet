@@ -1,1 +1,1 @@
-var mnemonic = "jazz oven anxiety giant steak zero equal inmate clarify then shoot add";
+var mnemonic = "honey pig mushroom world rookie census crack pitch glide panel forest opera";

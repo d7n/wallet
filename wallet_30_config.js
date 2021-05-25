@@ -1,1 +1,1 @@
-var mnemonic = "cube day hard pact mind notable state bid sing gadget art sleep";
+var mnemonic = "cargo digital rabbit syrup agree gate amount receive chronic vote people air";

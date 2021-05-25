@@ -1,1 +1,1 @@
-var mnemonic = "cabin weird toy fan index uncover news farm push catch person differ";
+var mnemonic = "palace jelly control cheese alter gold father grab inmate camp bundle age";

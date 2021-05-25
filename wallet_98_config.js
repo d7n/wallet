@@ -1,1 +1,1 @@
-var mnemonic = "shift together now chronic text cost duty green artefact topple invest helmet";
+var mnemonic = "demise tuna image sister mention umbrella wide vapor display upon title cushion";

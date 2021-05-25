@@ -1,1 +1,1 @@
-var mnemonic = "stage follow resource decade argue faint chief lunar pass december atom hawk";
+var mnemonic = "green second reveal palace remember shoulder will swift goddess hero trial lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore kind foam morning embark happy medal mistake depend belt awful false";
+var mnemonic = "inside talk frozen adapt execute invest abstract window forum domain myth cannon";

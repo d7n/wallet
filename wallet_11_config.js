@@ -1,1 +1,1 @@
-var mnemonic = "ski submit another square market reflect wasp focus upper silent taxi critic";
+var mnemonic = "bird diary bargain egg city rubber forward funny giant identify main mom";

@@ -1,1 +1,1 @@
-var mnemonic = "hire frown tower loyal zero drift slide disagree credit disease exchange uniform";
+var mnemonic = "true twelve lift canvas file rich orange wheat pear scare health card";

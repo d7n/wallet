@@ -1,1 +1,1 @@
-var mnemonic = "parrot lawsuit aim tank behind axis scout enough art chimney veteran master";
+var mnemonic = "journey pet young outer local adult merry scout check exist used equal";

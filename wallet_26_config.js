@@ -1,1 +1,1 @@
-var mnemonic = "until wife insane destroy fix gap flash lounge useful express random cost";
+var mnemonic = "winter adult enjoy cheese arrow lonely chest ten life say scene fringe";

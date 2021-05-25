@@ -1,1 +1,1 @@
-var mnemonic = "isolate title cherry holiday penalty enhance foster october inspire bounce noodle narrow";
+var mnemonic = "focus armed appear kidney repair light ahead foil edit describe garment own";

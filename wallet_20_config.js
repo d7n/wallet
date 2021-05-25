@@ -1,1 +1,1 @@
-var mnemonic = "between mechanic palace pluck filter theory silk weekend nephew nurse toe supreme";
+var mnemonic = "wool public bird volcano canvas hint monkey stock horn travel stem sport";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle come comic fancy erase unlock polar just kitten air tuna immune";
+var mnemonic = "hawk misery chest column tiny snap gadget zone master audit faith busy";

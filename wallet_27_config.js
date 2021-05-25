@@ -1,1 +1,1 @@
-var mnemonic = "soon silent describe suggest bench wife capital recipe permit shuffle false napkin";
+var mnemonic = "normal muscle supply second unusual orphan same because embrace wrist picture battle";

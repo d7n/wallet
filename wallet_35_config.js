@@ -1,1 +1,1 @@
-var mnemonic = "seek fault virus turn eyebrow rose chalk captain twin eagle base actor";
+var mnemonic = "jaguar soap coast account festival caught expire quiz poem reward view region";

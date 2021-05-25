@@ -1,1 +1,1 @@
-var mnemonic = "inch thought winner cover success jewel comfort wagon staff crop uncle blanket";
+var mnemonic = "joke barely pony plastic north task auction congress fan slice goat surge";

@@ -1,1 +1,1 @@
-var mnemonic = "empower cube foil vendor energy atom license mesh luggage firm pill abandon";
+var mnemonic = "false fire peace shaft dice program toast gloom envelope embark favorite hockey";

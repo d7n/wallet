@@ -1,1 +1,1 @@
-var mnemonic = "cheese lava tourist trust strike sight mind animal traffic casino elite planet";
+var mnemonic = "rubber frozen ribbon crucial weapon rule near blush unfold divert suggest medal";

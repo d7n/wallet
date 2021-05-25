@@ -1,1 +1,1 @@
-var mnemonic = "stone token guard together pave false will twenty song hidden ship clerk";
+var mnemonic = "proud empty spirit cruise mind swift winter game insect glue appear rifle";

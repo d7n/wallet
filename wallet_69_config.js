@@ -1,1 +1,1 @@
-var mnemonic = "approve gadget ritual toddler time achieve shrug knife put pole since tennis";
+var mnemonic = "once machine mule laptop series kiss extend climb envelope diary address pelican";

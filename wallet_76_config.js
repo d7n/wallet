@@ -1,1 +1,1 @@
-var mnemonic = "hub banner treat ignore jar tent basket photo summer yellow climb clip";
+var mnemonic = "battle indoor problem smart loyal advance essence expand mercy receive still fence";

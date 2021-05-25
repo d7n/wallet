@@ -1,1 +1,1 @@
-var mnemonic = "cradle pepper vacant ask puzzle silent various east recipe equip laugh sugar";
+var mnemonic = "produce survey crash error barrel trend object limit dust video utility duck";

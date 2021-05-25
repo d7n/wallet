@@ -1,1 +1,1 @@
-var mnemonic = "mansion lunch minimum adjust creek side setup real genius economy ensure wink";
+var mnemonic = "surround match silent spoil steak suggest venture dog toward benefit muscle night";

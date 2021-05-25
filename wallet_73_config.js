@@ -1,1 +1,1 @@
-var mnemonic = "grow viable address gesture length mirror whisper alpha cash potato penalty pilot";
+var mnemonic = "gossip fat relief kit nothing file space coil body measure elegant bright";

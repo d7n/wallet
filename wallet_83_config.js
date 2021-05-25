@@ -1,1 +1,1 @@
-var mnemonic = "remember silver afford night beauty put climb input road aunt author first";
+var mnemonic = "lunch suit access such upset unlock hole expect report grocery pluck sample";

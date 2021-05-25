@@ -1,1 +1,1 @@
-var mnemonic = "aerobic vessel unlock elevator great visit change unveil brave card cancel reopen";
+var mnemonic = "hole pond alter next dutch light soap domain ranch real ice stock";

@@ -1,1 +1,1 @@
-var mnemonic = "desert hundred wall idle today conduct addict thunder wet cook salmon lab";
+var mnemonic = "meat inform horror dash usage number drop axis hollow dirt soap beyond";

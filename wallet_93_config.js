@@ -1,1 +1,1 @@
-var mnemonic = "siege expose ocean balance damp buffalo alert fluid hour enable nation pink";
+var mnemonic = "unfold bid common impose resist reward april light ask excuse render suit";

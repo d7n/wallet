@@ -1,1 +1,1 @@
-var mnemonic = "suggest suspect section trash dinosaur faint junior envelope toe bitter wait melody";
+var mnemonic = "climb destroy garlic drastic photo peanut donate border wage clean claim main";

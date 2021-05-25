@@ -1,1 +1,1 @@
-var mnemonic = "hand boat ahead crazy rely spray list rude destroy try medal easily";
+var mnemonic = "cradle window grid dumb neither trash supply original cricket upon program rocket";

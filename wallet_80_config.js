@@ -1,1 +1,1 @@
-var mnemonic = "system detail apart dial render organ actress lonely mother forest close family";
+var mnemonic = "matrix abuse surge consider north machine profit fatigue eager bubble display bounce";

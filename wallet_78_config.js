@@ -1,1 +1,1 @@
-var mnemonic = "note avoid loud february engine ghost copy seek crazy blood figure draw";
+var mnemonic = "asset must advice all poem unfold sketch palm usual cool issue marine";

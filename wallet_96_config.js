@@ -1,1 +1,1 @@
-var mnemonic = "bronze deny dose zone soda rug more chef cereal pizza wrap fatal";
+var mnemonic = "because glide canoe crack alone drink heart rebel stand toe reunion disease";

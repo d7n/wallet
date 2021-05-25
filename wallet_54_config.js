@@ -1,1 +1,1 @@
-var mnemonic = "cherry enroll mosquito absorb health dad duty bitter fancy planet panel fame";
+var mnemonic = "manual boring fire venture female beauty bachelor brother street urban banner noodle";

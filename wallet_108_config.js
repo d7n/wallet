@@ -1,1 +1,1 @@
-var mnemonic = "jaguar thing engine dove run icon right leg problem panda shoulder comic";
+var mnemonic = "cactus annual glide beyond shine unique ankle skill maximum song hover appear";

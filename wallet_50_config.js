@@ -1,1 +1,1 @@
-var mnemonic = "drink october orbit lemon female title suggest apart acquire then orchard diet";
+var mnemonic = "recipe above mechanic leaf point future parade wasp cake jealous search fiscal";

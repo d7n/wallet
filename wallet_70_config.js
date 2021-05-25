@@ -1,1 +1,1 @@
-var mnemonic = "increase aware search razor tourist eye crouch enjoy arrest ugly connect visa";
+var mnemonic = "tragic always sister bamboo senior dumb goddess maximum defy vivid omit insect";

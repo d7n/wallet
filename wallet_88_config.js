@@ -1,1 +1,1 @@
-var mnemonic = "eternal lawsuit life trap habit convince present safe wisdom tape flag despair";
+var mnemonic = "bonus trade hover eternal hand pool ride cross machine hamster under face";

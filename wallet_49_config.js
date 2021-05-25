@@ -1,1 +1,1 @@
-var mnemonic = "notice child punch bar program clock false bamboo mobile that twelve shield";
+var mnemonic = "nose trap drum cigar industry another west clip slight genuine actor undo";

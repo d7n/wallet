@@ -1,1 +1,1 @@
-var mnemonic = "movie sing crowd glass enhance prefer dove obscure possible pond mammal call";
+var mnemonic = "measure glue raw left uncle repair scale obscure merit sphere settle harsh";

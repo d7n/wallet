@@ -1,1 +1,1 @@
-var mnemonic = "immense vacuum invite educate adapt curve panda mind excite unique lobster join";
+var mnemonic = "feed blind sign still guard electric limit clump garage exist okay deal";

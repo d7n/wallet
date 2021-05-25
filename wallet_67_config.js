@@ -1,1 +1,1 @@
-var mnemonic = "equip dry scout brain gown during faint fatal health again poem decade";
+var mnemonic = "round cram tissue hole actor ghost swallow used level during zone rose";

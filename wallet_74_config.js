@@ -1,1 +1,1 @@
-var mnemonic = "cable region input awful desert festival broccoli share couple announce style autumn";
+var mnemonic = "film express raise weird divorce seminar foster input thumb curve abandon couple";

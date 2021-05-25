@@ -1,1 +1,1 @@
-var mnemonic = "bottom weasel govern person wall nut boat purity either creek tide expect";
+var mnemonic = "cabin pass steak purchase favorite youth wire favorite bullet oyster plate corn";

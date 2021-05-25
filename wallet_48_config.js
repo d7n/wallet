@@ -1,1 +1,1 @@
-var mnemonic = "antique lemon tiger tool oxygen mixed hurry same sorry sand alarm stage";
+var mnemonic = "outside into stone solution tortoise ocean icon visual talk text toss man";

@@ -1,1 +1,1 @@
-var mnemonic = "enter nephew cereal flower music ghost slam mask smooth small rain moral";
+var mnemonic = "club steel panda material cricket long wide error tunnel submit raccoon guilt";

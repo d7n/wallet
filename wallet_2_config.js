@@ -1,1 +1,1 @@
-var mnemonic = "envelope nominee ship spray author direct number symbol feature excess order practice";
+var mnemonic = "wrap mom apology often clip forward glance devote barrel require great sorry";

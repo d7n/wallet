@@ -1,1 +1,1 @@
-var mnemonic = "wave fall film again benefit decorate input scatter funny convince street grab";
+var mnemonic = "stuff cart prize orchard erosion arrive hard spread fluid famous canvas rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "unit around kit bench buyer refuse calm ramp grass outdoor broom weather";
+var mnemonic = "weasel crash wear dilemma apple drive almost alcohol this layer diary retire";

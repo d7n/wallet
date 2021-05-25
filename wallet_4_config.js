@@ -1,1 +1,1 @@
-var mnemonic = "private record about grape rate soldier deal vacant what satoshi road shuffle";
+var mnemonic = "noodle object small voice shy vast zoo depend any arm skirt jewel";

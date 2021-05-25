@@ -1,1 +1,1 @@
-var mnemonic = "maple able filter warm garment trap valid traffic boring same travel armor";
+var mnemonic = "random theme debris cube have bomb carpet eye copper employ cause win";
