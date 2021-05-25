@@ -1,1 +1,1 @@
-var mnemonic = "puppy catalog slam phone jewel midnight raccoon bomb toward spirit move desk";
+var mnemonic = "dutch word state foam course open worry session rocket confirm history ordinary";

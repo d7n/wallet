@@ -1,1 +1,1 @@
-var mnemonic = "remind charge mobile lawsuit saddle example dynamic theory wrong dwarf trouble antique";
+var mnemonic = "prison relief surround yard awake feed casino palace banner orange vehicle lawsuit";

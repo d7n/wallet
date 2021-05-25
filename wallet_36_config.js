@@ -1,1 +1,1 @@
-var mnemonic = "lyrics age online town satoshi toss first material sort sphere affair dog";
+var mnemonic = "glass decade submit return similar valve bounce bleak pause sponsor review coin";

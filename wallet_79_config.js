@@ -1,1 +1,1 @@
-var mnemonic = "yellow outside route bachelor congress aunt enjoy movie kangaroo series flee little";
+var mnemonic = "olympic ozone skull token tone easily grant focus giant access camp digital";

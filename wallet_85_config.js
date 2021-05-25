@@ -1,1 +1,1 @@
-var mnemonic = "toddler monkey almost crouch cover lawsuit cattle thing empty quiz impose silent";
+var mnemonic = "tail venue blouse ribbon project manage memory unaware slim clump decrease corn";

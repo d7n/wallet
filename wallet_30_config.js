@@ -1,1 +1,1 @@
-var mnemonic = "void nest win before bird brown fine draw truly point apart wolf";
+var mnemonic = "radar skull tuition have hire quarter twin mutual stuff liquid inflict wire";

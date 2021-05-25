@@ -1,1 +1,1 @@
-var mnemonic = "urge clown myself uniform artist equal strong rabbit scorpion edge ship wife";
+var mnemonic = "there lend material retreat door rain remove parade dress dune curious tennis";

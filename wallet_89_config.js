@@ -1,1 +1,1 @@
-var mnemonic = "mimic govern innocent cloud soft enemy clap dash because brief day leopard";
+var mnemonic = "lunch barely gain wear blouse region brown hero forum awful domain sunset";

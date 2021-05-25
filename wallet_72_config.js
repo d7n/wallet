@@ -1,1 +1,1 @@
-var mnemonic = "siren envelope memory volume diet output solar dust logic unable modify obscure";
+var mnemonic = "assist awake artwork sugar hat medal close jeans close tube swift demand";

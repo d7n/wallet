@@ -1,1 +1,1 @@
-var mnemonic = "diary boat kitchen please travel lawsuit cliff guard bird syrup entire coconut";
+var mnemonic = "rural head return blossom resemble final north income decorate special trade broccoli";

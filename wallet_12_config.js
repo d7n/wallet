@@ -1,1 +1,1 @@
-var mnemonic = "message thing green orange exchange gallery van crane oven library author entry";
+var mnemonic = "amazing connect know alarm you used woman confirm negative party interest loud";

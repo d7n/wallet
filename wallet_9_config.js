@@ -1,1 +1,1 @@
-var mnemonic = "crisp sorry frog top april jazz fire outdoor pool drama palace magic";
+var mnemonic = "session market vessel exchange planet spend shoot knife indoor dune lazy install";

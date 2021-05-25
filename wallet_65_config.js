@@ -1,1 +1,1 @@
-var mnemonic = "eye prize install crumble weather leave myth ocean chef humor doll mammal";
+var mnemonic = "adult used online bitter someone ugly picture goose cargo gather hour trend";

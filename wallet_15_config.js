@@ -1,1 +1,1 @@
-var mnemonic = "describe risk famous sausage retire final mad target life basic chief crush";
+var mnemonic = "habit borrow install path art figure key sick decrease machine jealous cruel";

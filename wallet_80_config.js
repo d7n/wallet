@@ -1,1 +1,1 @@
-var mnemonic = "ostrich burden monster long half rather daring multiply shield finish frozen private";
+var mnemonic = "disorder lazy maximum clap blush scene warfare cruel weasel gown gown wrap";

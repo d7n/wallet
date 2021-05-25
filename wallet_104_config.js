@@ -1,1 +1,1 @@
-var mnemonic = "park orphan cheap robot gloom faculty sick teach blouse fork song weird";
+var mnemonic = "raccoon giant cloud average swim doctor wrap produce memory fly amazing camp";

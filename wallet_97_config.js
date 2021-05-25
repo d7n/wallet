@@ -1,1 +1,1 @@
-var mnemonic = "motor nature cash rely toilet cute recycle grocery certain garlic boy drink";
+var mnemonic = "hover thrive crash old wet plunge outdoor denial picnic blossom speed piano";

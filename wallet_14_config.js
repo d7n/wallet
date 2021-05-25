@@ -1,1 +1,1 @@
-var mnemonic = "master focus become cattle west pipe kick hip prison whisper enact gossip";
+var mnemonic = "release door you echo patient clutch water smile blast behave range chest";

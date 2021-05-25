@@ -1,1 +1,1 @@
-var mnemonic = "better expect own assist piano sustain enjoy hurt junior select few legend";
+var mnemonic = "hello debris affair acquire pattern picture illness tomorrow ranch accident enhance drop";

@@ -1,1 +1,1 @@
-var mnemonic = "modify orphan option refuse pudding traffic violin elegant wisdom velvet feed update";
+var mnemonic = "daughter aunt left kidney pottery rhythm cause essence camera wedding wreck above";

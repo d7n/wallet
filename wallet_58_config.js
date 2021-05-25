@@ -1,1 +1,1 @@
-var mnemonic = "media jump wrap maid subway soon main brave pistol awesome cage box";
+var mnemonic = "tool raw tunnel staff ten fancy abuse satisfy crush alien flower shadow";

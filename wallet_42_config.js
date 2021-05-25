@@ -1,1 +1,1 @@
-var mnemonic = "hammer gaze turkey badge trend today foil level divorce access animal crush";
+var mnemonic = "about state powder remove ride civil reduce genre struggle target drip forget";

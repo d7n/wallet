@@ -1,1 +1,1 @@
-var mnemonic = "toe worry fatal host mosquito donor glance define update imitate attend quiz";
+var mnemonic = "neutral crunch again immense hamster cry sweet happy seminar cabbage gauge bottom";

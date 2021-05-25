@@ -1,1 +1,1 @@
-var mnemonic = "reform eager correct visual fashion brush divert broccoli very tortoise arrange junior";
+var mnemonic = "frost boss shine obey kitten today rely jazz defense lonely cat february";

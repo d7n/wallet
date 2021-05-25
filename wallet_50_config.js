@@ -1,1 +1,1 @@
-var mnemonic = "hover middle conduct wear chest rib rain bubble priority upper great culture";
+var mnemonic = "able cram unit ladder kitchen lady join physical field tragic ghost major";

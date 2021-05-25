@@ -1,1 +1,1 @@
-var mnemonic = "sound number rain bicycle toast unique reduce bunker planet choice strong sing";
+var mnemonic = "top crunch agree cargo mail slush concert warrior faculty lyrics coral under";

@@ -1,1 +1,1 @@
-var mnemonic = "life stand dust carry acid display labor twelve useful sort glove cheap";
+var mnemonic = "choose imitate manual output pipe dentist pony supreme host next pink update";

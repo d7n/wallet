@@ -1,1 +1,1 @@
-var mnemonic = "tennis chronic siege dignity critic dove relax parent mail satoshi speed rose";
+var mnemonic = "machine cave rabbit denial royal connect narrow can post spin valid hotel";

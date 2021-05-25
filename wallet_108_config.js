@@ -1,1 +1,1 @@
-var mnemonic = "small beach wave month powder pause cake warm tongue provide hat invest";
+var mnemonic = "lunch honey leave diary main garage vast bike soon turtle glad menu";

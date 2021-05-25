@@ -1,1 +1,1 @@
-var mnemonic = "cushion own topple found fog citizen phone spare pattern frequent meat panther";
+var mnemonic = "home metal title grow series laundry reform forest snack uniform enough indoor";

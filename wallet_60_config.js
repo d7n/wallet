@@ -1,1 +1,1 @@
-var mnemonic = "sell prosper cash dash clerk misery stool spawn mimic trash enroll length";
+var mnemonic = "river night hawk wealth leave punch rhythm cat angle jeans type eye";

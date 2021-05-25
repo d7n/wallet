@@ -1,1 +1,1 @@
-var mnemonic = "only divorce satoshi buddy taste scatter stomach casino common puzzle gather flag";
+var mnemonic = "useful chest sweet month other arena junk refuse decline wine cancel version";

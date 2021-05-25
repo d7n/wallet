@@ -1,1 +1,1 @@
-var mnemonic = "thank light visit fox edit avocado select garden excuse praise loyal vehicle";
+var mnemonic = "lake erode romance grain festival rough point essay skin reform risk ankle";

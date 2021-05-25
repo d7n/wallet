@@ -1,1 +1,1 @@
-var mnemonic = "run engage drum bachelor omit faith favorite arrange soldier buffalo curious sunset";
+var mnemonic = "throw very crawl trim culture labor settle net wife correct height detail";

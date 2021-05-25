@@ -1,1 +1,1 @@
-var mnemonic = "afford ignore strategy page friend neglect arena collect have glare bone retire";
+var mnemonic = "purpose bonus maze enrich artwork sight trouble drive capital audit soldier inhale";

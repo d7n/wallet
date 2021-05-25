@@ -1,1 +1,1 @@
-var mnemonic = "high gadget keen industry bind absurd meadow gown balance exile require canal";
+var mnemonic = "genius easily corn drive mad globe drama lab blade bid naive unhappy";

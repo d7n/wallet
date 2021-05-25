@@ -1,1 +1,1 @@
-var mnemonic = "system permit direct match comfort shiver gold bid whale sugar goddess curtain";
+var mnemonic = "hundred birth divert between trigger across circle cave just curtain absent spirit";

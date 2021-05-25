@@ -1,1 +1,1 @@
-var mnemonic = "accident inch fiscal royal rule shy step never frame thumb taxi decline";
+var mnemonic = "slam animal shove detail fire odor solid miss travel tuition embark heart";

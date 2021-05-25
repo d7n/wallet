@@ -1,1 +1,1 @@
-var mnemonic = "chapter must crystal design topple puzzle suspect tomato hammer diesel habit robust";
+var mnemonic = "icon patient flash pole lunch donkey private potato simple peace giraffe knock";

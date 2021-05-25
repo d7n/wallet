@@ -1,1 +1,1 @@
-var mnemonic = "afraid virus usual seek absent style dawn delay arrow planet fiscal doctor";
+var mnemonic = "lazy update garment mixed judge soup town armor solar puzzle collect great";

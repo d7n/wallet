@@ -1,1 +1,1 @@
-var mnemonic = "donkey decade soda sweet genius october amazing drink tent dose color leisure";
+var mnemonic = "visa success obscure matter wing zoo toast thunder luxury mushroom virus dolphin";

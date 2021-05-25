@@ -1,1 +1,1 @@
-var mnemonic = "enhance program final keep still maze alien forward mosquito enemy system also";
+var mnemonic = "defense junior custom citizen occur garbage repair skirt catch cushion future curve";

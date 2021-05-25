@@ -1,1 +1,1 @@
-var mnemonic = "weather cabbage wide finish provide sound apart nominee gift earth until nose";
+var mnemonic = "shock deny hub praise mirror pilot cook apology lottery strategy poem wonder";

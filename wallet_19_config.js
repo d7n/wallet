@@ -1,1 +1,1 @@
-var mnemonic = "custom present loop violin pepper warrior genuine practice siren control clump often";
+var mnemonic = "tumble limit estate expose donate medal alone school marine casual patrol unfair";

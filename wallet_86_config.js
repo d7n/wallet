@@ -1,1 +1,1 @@
-var mnemonic = "load swamp muffin expose peace settle spend protect asset bicycle excess bulk";
+var mnemonic = "cat cook umbrella mistake purse system grain snack blouse decline hospital broken";

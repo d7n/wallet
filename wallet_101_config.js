@@ -1,1 +1,1 @@
-var mnemonic = "exchange vapor few brick limb marine artist grape later amount hair era";
+var mnemonic = "guilt produce gentle luxury rural guide rhythm tenant pond strong roof ranch";

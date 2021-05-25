@@ -1,1 +1,1 @@
-var mnemonic = "run tiny guilt must hidden craft net enforce sudden pluck cargo situate";
+var mnemonic = "shed fish digital december any merry tunnel repair ankle limb nominee gloom";

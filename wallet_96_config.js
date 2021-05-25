@@ -1,1 +1,1 @@
-var mnemonic = "music iron broccoli mansion calm saddle okay control rude loyal blouse plug";
+var mnemonic = "tube soap turtle region window swift lounge common quick fringe expand salon";

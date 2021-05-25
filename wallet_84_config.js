@@ -1,1 +1,1 @@
-var mnemonic = "spider keep civil useful raccoon desert cigar provide visit ginger frown galaxy";
+var mnemonic = "polar turn goose real fury thunder must actor risk shoot gather proud";

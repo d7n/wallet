@@ -1,1 +1,1 @@
-var mnemonic = "pupil pledge diet half echo ticket athlete jaguar derive film seed treat";
+var mnemonic = "tell coffee dice wink remain tattoo season clever hollow shop festival siren";

@@ -1,1 +1,1 @@
-var mnemonic = "blast tomorrow half vast exclude rate tower gentle humor audit town opinion";
+var mnemonic = "endless layer various seed wool zoo duck blast degree allow nurse canal";

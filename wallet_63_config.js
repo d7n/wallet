@@ -1,1 +1,1 @@
-var mnemonic = "leg steel spatial relax green tennis hole thunder evil worry endless write";
+var mnemonic = "just other crouch oval orbit blue gather whisper fever retire harsh hire";

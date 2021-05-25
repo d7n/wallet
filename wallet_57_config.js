@@ -1,1 +1,1 @@
-var mnemonic = "rubber joke person arm wave hair any success royal course tenant dance";
+var mnemonic = "juice oval miracle divide size birth core elegant poem leg ozone shy";

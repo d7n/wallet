@@ -1,1 +1,1 @@
-var mnemonic = "analyst major wheat fold tobacco typical path express menu arena forward frog";
+var mnemonic = "second market photo wool snack broccoli panic panic educate drastic guilt hundred";

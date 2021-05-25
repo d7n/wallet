@@ -1,1 +1,1 @@
-var mnemonic = "hammer detail cup physical wet tray web cook income identify park jump";
+var mnemonic = "example juice book until eye fold weekend choose few novel wife can";

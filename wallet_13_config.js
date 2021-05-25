@@ -1,1 +1,1 @@
-var mnemonic = "basket south finger sauce novel antenna spare tape dash hollow vacant access";
+var mnemonic = "make dose museum fabric wisdom peanut embark true fever tube laptop noise";

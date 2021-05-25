@@ -1,1 +1,1 @@
-var mnemonic = "setup nephew radar myth panic kidney submit praise another jungle cherry cousin";
+var mnemonic = "immune oppose alert table finger prepare session naive thumb popular into woman";

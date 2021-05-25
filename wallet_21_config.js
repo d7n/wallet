@@ -1,1 +1,1 @@
-var mnemonic = "edge window board cool gate caution first empty chunk comic brand during";
+var mnemonic = "explain cloth lunch easily area ghost nation aware relax pass hockey used";

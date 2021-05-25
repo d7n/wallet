@@ -1,1 +1,1 @@
-var mnemonic = "mother company change border knife fragile fury avocado citizen indicate unable actual";
+var mnemonic = "party camera century october muscle cash absurd girl maze fee one glory";

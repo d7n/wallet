@@ -1,1 +1,1 @@
-var mnemonic = "aim stereo giant warfare much typical process sister hood enjoy buffalo game";
+var mnemonic = "either abuse need envelope arrange over wrist exchange toast spoil fruit company";

@@ -1,1 +1,1 @@
-var mnemonic = "hip pave you produce adult census virus imitate shrug brush forum purse";
+var mnemonic = "repair number chunk blast question good twelve way lawn match day milk";

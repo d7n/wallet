@@ -1,1 +1,1 @@
-var mnemonic = "egg dream famous eight subject police wire blur sheriff turkey embark lock";
+var mnemonic = "soldier sick upset appear term recycle stock stick solar furnace tree carpet";

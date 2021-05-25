@@ -1,1 +1,1 @@
-var mnemonic = "oil grunt main mule when depart lounge column fluid educate panic genius";
+var mnemonic = "doll oil catalog smooth tower edit essence mean carbon spray clap essay";

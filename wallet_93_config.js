@@ -1,1 +1,1 @@
-var mnemonic = "rail kind nest chest endorse shoe keen forward ozone aspect velvet casual";
+var mnemonic = "student ten rabbit grant erosion layer page example rough limit win fuel";

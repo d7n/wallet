@@ -1,1 +1,1 @@
-var mnemonic = "hollow number ancient expose fork scrap sorry industry when school assume region";
+var mnemonic = "aerobic bamboo void push million similar mirror movie logic frog transfer cute";

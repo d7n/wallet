@@ -1,1 +1,1 @@
-var mnemonic = "island trim bacon pitch smart force dune member hunt elbow canvas once";
+var mnemonic = "city hungry degree record deny chaos river cave crisp crucial arm tail";

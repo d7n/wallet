@@ -1,1 +1,1 @@
-var mnemonic = "crouch wink car subject trouble wreck morning human sustain rate energy alone";
+var mnemonic = "lend hamster alien omit salute wall portion pipe aspect bracket quote first";

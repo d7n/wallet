@@ -1,1 +1,1 @@
-var mnemonic = "syrup mixture faint enhance veteran harvest hospital hole pool drop finish region";
+var mnemonic = "angry universe enforce purchase lazy fragile benefit album fee laundry coconut knife";

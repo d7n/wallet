@@ -1,1 +1,1 @@
-var mnemonic = "cluster antenna february either slight square select snow will settle girl pistol";
+var mnemonic = "sure mad before unaware marriage miracle accident stable intact funny ahead walk";

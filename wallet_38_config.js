@@ -1,1 +1,1 @@
-var mnemonic = "various carpet gesture finish drip envelope legal tobacco finger resource hurt tool";
+var mnemonic = "excite month borrow dune borrow shop switch agent fade romance receive injury";

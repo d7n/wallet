@@ -1,1 +1,1 @@
-var mnemonic = "plunge peasant sock canyon wish bulk tail choice chalk system never filter";
+var mnemonic = "gas funny world harsh endless task section anger catch moral salon melody";

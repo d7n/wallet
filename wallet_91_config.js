@@ -1,1 +1,1 @@
-var mnemonic = "way spring anger flip feature wood sting denial enlist city giant put";
+var mnemonic = "second wagon fly gorilla athlete gospel mother dinner trigger soldier exclude faith";

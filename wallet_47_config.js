@@ -1,1 +1,1 @@
-var mnemonic = "size flip charge celery beach leisure giraffe invite tomorrow judge fade swarm";
+var mnemonic = "refuse kingdom animal echo direct want piece blast relief museum mushroom journey";

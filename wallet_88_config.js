@@ -1,1 +1,1 @@
-var mnemonic = "today drill hamster cruise coconut loud cream special jungle whisper food pelican";
+var mnemonic = "museum gym angle tunnel welcome often unveil glass umbrella acquire occur stem";

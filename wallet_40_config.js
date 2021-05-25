@@ -1,1 +1,1 @@
-var mnemonic = "crew uncle cheap fortune drop crop carry lab wish art opinion anchor";
+var mnemonic = "embody fossil promote ribbon another turtle learn visa birth jaguar initial ahead";

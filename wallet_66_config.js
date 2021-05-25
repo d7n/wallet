@@ -1,1 +1,1 @@
-var mnemonic = "voice lottery mother rapid mention hidden model raw curtain machine spatial absent";
+var mnemonic = "win protect print side renew level wish diagram item right awake tilt";

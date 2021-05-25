@@ -1,1 +1,1 @@
-var mnemonic = "spoil perfect ancient three innocent pretty rebel marriage abandon genuine stock hamster";
+var mnemonic = "violin cute prefer deny ramp bread mimic range solid dumb chase adult";

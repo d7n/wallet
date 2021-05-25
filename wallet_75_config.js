@@ -1,1 +1,1 @@
-var mnemonic = "pottery hope dust polar excite destroy image stay shed weather donkey success";
+var mnemonic = "ten sketch secret crew finger wood layer awful fiber brush antenna shove";

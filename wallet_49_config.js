@@ -1,1 +1,1 @@
-var mnemonic = "spin common brand tiger suspect shock maximum crystal resemble tourist diet bless";
+var mnemonic = "velvet sell old pencil permit group west lens frost motion iron nature";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel shop junk alley jazz will twelve cradle butter toss cover roof";
+var mnemonic = "pumpkin finish toss stage foil silly endorse walnut ready book practice limit";

@@ -1,1 +1,1 @@
-var mnemonic = "section power lens judge jungle observe million tomato tragic ceiling check impact";
+var mnemonic = "van vicious rib scorpion core resist brush cheap beach trouble broom lyrics";

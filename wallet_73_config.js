@@ -1,1 +1,1 @@
-var mnemonic = "promote business van swift sort shrimp unusual enact funny sign march sustain";
+var mnemonic = "speak simple gauge jungle tornado adult appear debate seed soup essence link";

@@ -1,1 +1,1 @@
-var mnemonic = "civil symbol either conduct undo dash hundred combine victory random wisdom holiday";
+var mnemonic = "cook label stay shoe drink joy estate object phrase wrist fish relief";

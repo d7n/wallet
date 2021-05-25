@@ -1,1 +1,1 @@
-var mnemonic = "wealth lumber hammer boat crew immune remove merge soda power world gorilla";
+var mnemonic = "patch divorce dice size supreme tomato panel hire joy knee into essence";

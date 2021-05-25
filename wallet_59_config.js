@@ -1,1 +1,1 @@
-var mnemonic = "paddle senior desk vault strategy spatial brief donate coin visual exit innocent";
+var mnemonic = "clap device funny wide tattoo mean flip antique very mirror doll modify";

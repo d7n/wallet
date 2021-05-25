@@ -1,1 +1,1 @@
-var mnemonic = "mutual tribe join color simple beauty ten oval crater plug exhaust chimney";
+var mnemonic = "curious burden food neutral attract lava mom equip fortune course peasant either";

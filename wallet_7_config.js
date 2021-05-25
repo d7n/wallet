@@ -1,1 +1,1 @@
-var mnemonic = "cheap right control pulse current nest retire cream thought enough urge lift";
+var mnemonic = "salute focus voice vapor rabbit exact make riot once release network cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "inside mirror direct goat noble ghost jar film eager chimney student author";
+var mnemonic = "shift cage shrimp tunnel welcome analyst spare empower ask carbon pilot run";
