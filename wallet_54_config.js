@@ -1,1 +1,1 @@
-var mnemonic = "cluster void raccoon alpha tragic say laundry drama rabbit utility win trumpet";
+var mnemonic = "poem help chicken argue collect certain bar zone suspect explain enroll elegant";

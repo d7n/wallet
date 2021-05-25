@@ -1,1 +1,1 @@
-var mnemonic = "fetch wing gentle sting lava good chunk social input leisure type jaguar";
+var mnemonic = "gravity require price buzz mule hire hill tuition bracket smile gossip grab";

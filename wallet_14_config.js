@@ -1,1 +1,1 @@
-var mnemonic = "episode model stamp stock author ahead silent unaware example inherit also stick";
+var mnemonic = "change number night green kingdom photo boss slide neutral legend mom drum";

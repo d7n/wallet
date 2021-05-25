@@ -1,1 +1,1 @@
-var mnemonic = "blood basket runway trade inmate tumble cereal quick expand speed sadness city";
+var mnemonic = "idea festival invest ring tiger live cherry resource sentence eye impact fluid";

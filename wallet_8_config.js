@@ -1,1 +1,1 @@
-var mnemonic = "capable render rifle draft clay husband strategy surge actual yellow major april";
+var mnemonic = "neither crouch end sheriff auction process stumble kit purchase print medal remember";

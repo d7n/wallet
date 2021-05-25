@@ -1,1 +1,1 @@
-var mnemonic = "mushroom juice genre royal sausage item clutch creek brain wire there globe";
+var mnemonic = "joy vacant sign build sentence matter rude meadow basket coyote section sponsor";

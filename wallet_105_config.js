@@ -1,1 +1,1 @@
-var mnemonic = "extend ski wedding final bird waste flame earth tonight nerve snake tuition";
+var mnemonic = "thrive napkin small present day wolf flip welcome smile clock inhale volume";

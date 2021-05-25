@@ -1,1 +1,1 @@
-var mnemonic = "maze course armor charge hill spot father width type battle shield turtle";
+var mnemonic = "viable access stamp iron amateur possible exhaust wrist area book panel casino";

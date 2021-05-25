@@ -1,1 +1,1 @@
-var mnemonic = "elite then still neither wing allow hill destroy hammer error stove speak";
+var mnemonic = "horse hand mad faculty damage math normal night debate moment shrimp orbit";

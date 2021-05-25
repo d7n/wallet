@@ -1,1 +1,1 @@
-var mnemonic = "drastic light envelope clarify ring garden uphold blood injury diagram ask pluck";
+var mnemonic = "zoo song wonder urge total betray diary clean ball wild desk catch";

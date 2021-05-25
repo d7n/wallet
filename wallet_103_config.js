@@ -1,1 +1,1 @@
-var mnemonic = "two elite certain large notable symbol very detail job pact frog vicious";
+var mnemonic = "mail more bounce same ginger access enhance filter magic steak cool zoo";

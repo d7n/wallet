@@ -1,1 +1,1 @@
-var mnemonic = "conduct assault tool unaware spare object nuclear desk wave roast photo among";
+var mnemonic = "pole witness pen fine phrase dilemma hunt abuse disorder rescue dinosaur inform";

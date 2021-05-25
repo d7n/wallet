@@ -1,1 +1,1 @@
-var mnemonic = "citizen dolphin sand shell neck bread quick license spy pizza route adjust";
+var mnemonic = "decrease foil derive large hair ride dutch answer slice correct design funny";

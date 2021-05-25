@@ -1,1 +1,1 @@
-var mnemonic = "gadget wide shallow tooth fan top width guitar winter rule nephew maximum";
+var mnemonic = "leave expect tornado skirt vivid search defy chronic educate summer balance chase";

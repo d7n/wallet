@@ -1,1 +1,1 @@
-var mnemonic = "arrow ocean need primary heavy skull equal moon very cloth cannon universe";
+var mnemonic = "heart approve script quit federal saddle recipe grape prison chapter head frost";

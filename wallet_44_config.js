@@ -1,1 +1,1 @@
-var mnemonic = "play gauge diagram various right still myth matter sport total material select";
+var mnemonic = "quiz vanish moon boy floor viable medal very loud defense globe clock";

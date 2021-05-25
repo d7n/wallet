@@ -1,1 +1,1 @@
-var mnemonic = "ugly once hungry mention tomato legal praise sheriff insane spare salute fortune";
+var mnemonic = "chief dress fan relief rent amazing dove suit size gaze palace tunnel";

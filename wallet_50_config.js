@@ -1,1 +1,1 @@
-var mnemonic = "eagle speed august remember inmate tool anxiety medal valid journey chuckle rather";
+var mnemonic = "sell high market meadow crime smart pill robust unusual illegal skate scrap";

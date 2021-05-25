@@ -1,1 +1,1 @@
-var mnemonic = "crazy wrong admit plug balance course then artefact gas rhythm dove case";
+var mnemonic = "faith item swap visa expand girl trim venture inhale kite north link";

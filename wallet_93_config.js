@@ -1,1 +1,1 @@
-var mnemonic = "renew notice success flat scissors strategy call coach diagram long minor mammal";
+var mnemonic = "when nut special manual erode adult civil clerk direct fame despair cheap";

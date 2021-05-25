@@ -1,1 +1,1 @@
-var mnemonic = "never wheel grass series control cart analyst twin describe pony toss analyst";
+var mnemonic = "blush below garbage endorse sand modify monitor upon alien use system stage";

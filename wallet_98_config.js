@@ -1,1 +1,1 @@
-var mnemonic = "spice cost ensure alien kangaroo eyebrow chicken similar garbage east surge knock";
+var mnemonic = "elbow brisk circle jar sad spawn group note keen shadow join anxiety";

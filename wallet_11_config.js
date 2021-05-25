@@ -1,1 +1,1 @@
-var mnemonic = "surface rhythm settle tree peace identify royal square kit observe snake blind";
+var mnemonic = "gift eagle share dose aerobic nuclear document ordinary coach gain panda cage";

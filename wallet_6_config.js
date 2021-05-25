@@ -1,1 +1,1 @@
-var mnemonic = "club just until educate shed hold reward blanket horn unfold pilot wild";
+var mnemonic = "replace clean obscure multiply rotate swing suffer burger donor tone bracket smooth";

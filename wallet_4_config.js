@@ -1,1 +1,1 @@
-var mnemonic = "network broken mango plate pledge alter protect silk shrug civil future that";
+var mnemonic = "cook polar century fruit junior artwork tail trend local you smile avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue race arrest stem alpha snack winter stone major bamboo embrace you";
+var mnemonic = "brush castle guard private virtual nuclear victory climb famous winter enrich second";

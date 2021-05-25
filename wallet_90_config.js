@@ -1,1 +1,1 @@
-var mnemonic = "verb return shaft couch useful own anxiety midnight destroy leave april abuse";
+var mnemonic = "fat rural speed insane cushion dust dog parade wink remove creek rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown loan library beyond weasel acquire thumb spring kangaroo glide edit film";
+var mnemonic = "essence forest thrive indoor judge dumb anxiety pipe wait place hero churn";

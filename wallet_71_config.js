@@ -1,1 +1,1 @@
-var mnemonic = "jaguar sing awful stomach radio auction rebuild wealth rabbit gaze session noise";
+var mnemonic = "maze era couple unaware left solve love online busy daring sing number";

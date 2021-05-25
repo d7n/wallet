@@ -1,1 +1,1 @@
-var mnemonic = "milk cute sample buddy forget concert math match submit occur clerk circle";
+var mnemonic = "vote ability cloth burden grain track spend mind vanish upset appear wait";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic day guess supply south wire end appear enhance energy indoor season";
+var mnemonic = "soldier tool ankle ramp viable stadium butter clay pioneer magnet buffalo eye";

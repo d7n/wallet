@@ -1,1 +1,1 @@
-var mnemonic = "soup write flame wagon come review coach scare sick claim benefit mechanic";
+var mnemonic = "whip excuse mango list bless volume agent embrace umbrella bachelor brand transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage employ profit bone number twist panic odor general machine spoon taxi";
+var mnemonic = "vapor course figure pool kick race width awful funny you detect spring";

@@ -1,1 +1,1 @@
-var mnemonic = "trip void direct drum eyebrow typical thunder spy library west dragon spider";
+var mnemonic = "voyage reject ride tobacco dream guess lumber addict pulp ignore donkey canal";

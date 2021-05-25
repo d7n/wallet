@@ -1,1 +1,1 @@
-var mnemonic = "prison already federal furnace happy hill pretty human bounce bike please solid";
+var mnemonic = "garbage illness rifle casino resemble planet illegal honey symbol dignity pottery update";

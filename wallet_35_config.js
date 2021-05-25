@@ -1,1 +1,1 @@
-var mnemonic = "leave hurry thunder clown hero typical beach movie merry build hello total";
+var mnemonic = "country mesh jewel nurse thought fury trouble live captain cool either bless";

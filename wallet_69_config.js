@@ -1,1 +1,1 @@
-var mnemonic = "mammal ignore tenant mind happy also session eight delay urge century innocent";
+var mnemonic = "accuse surprise stand dream own cost two air priority chronic kidney foot";

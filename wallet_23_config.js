@@ -1,1 +1,1 @@
-var mnemonic = "doll auction urban know knife secret sketch faculty ugly exact space barely";
+var mnemonic = "often art speak enroll since bounce valley velvet fine guide main surge";

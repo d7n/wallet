@@ -1,1 +1,1 @@
-var mnemonic = "catalog view skull mystery ordinary room butter together kiss health rent behave";
+var mnemonic = "spy bulb plug industry police satisfy worry ginger paper bacon helmet act";

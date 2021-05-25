@@ -1,1 +1,1 @@
-var mnemonic = "very farm famous guess flavor exotic way replace hollow vast diesel universe";
+var mnemonic = "choice focus silent birth weekend myself method peace help decline nominee furnace";

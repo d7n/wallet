@@ -1,1 +1,1 @@
-var mnemonic = "false anxiety swallow abstract inner must female pretty together person silver brick";
+var mnemonic = "nice figure subway rely seek pass shield duck rapid intact absent destroy";

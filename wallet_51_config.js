@@ -1,1 +1,1 @@
-var mnemonic = "walk depend badge mixed about reject rent indoor smart few valley observe";
+var mnemonic = "rare vibrant inside coffee dash flavor youth glove category card mean bright";

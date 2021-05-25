@@ -1,1 +1,1 @@
-var mnemonic = "cabin hammer drive update any anxiety cruise magic escape gym put dragon";
+var mnemonic = "twist tape brave mass swift scorpion lamp sample cause throw gain drill";

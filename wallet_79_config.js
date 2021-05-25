@@ -1,1 +1,1 @@
-var mnemonic = "alter visa expose filter what clean hair post address top shell that";
+var mnemonic = "gloom debris desk future wall off repeat holiday goat skull seat rain";

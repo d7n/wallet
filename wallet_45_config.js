@@ -1,1 +1,1 @@
-var mnemonic = "owner rival ethics text satoshi magnet lady suffer stand flat palace regret";
+var mnemonic = "vintage maze hybrid panel split elephant fragile safe edit avoid polar thumb";

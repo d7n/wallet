@@ -1,1 +1,1 @@
-var mnemonic = "van paper treat shove brass cancel struggle canal rhythm virtual town evoke";
+var mnemonic = "vintage slot survey mind snap gravity fire duty fatal visit eyebrow wait";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon route ride omit artefact school pretty ski type obscure hero chapter";
+var mnemonic = "clock cheese route prevent cash chat egg confirm leave cake grit stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "card radar aspect employ skirt museum spice kangaroo submit yellow return fiscal";
+var mnemonic = "impulse cook want weasel hand wire repeat trip traffic capital educate security";

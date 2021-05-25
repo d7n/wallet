@@ -1,1 +1,1 @@
-var mnemonic = "spell hedgehog slush remain unable one jump pitch cycle coffee test vital";
+var mnemonic = "parent problem net fish match crack patch sorry expect spray length bright";

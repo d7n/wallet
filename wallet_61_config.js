@@ -1,1 +1,1 @@
-var mnemonic = "hamster winner limb sheriff able pact hospital head pave leisure spare dynamic";
+var mnemonic = "whale split dance clog census square antique broccoli occur kangaroo spy birth";

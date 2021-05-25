@@ -1,1 +1,1 @@
-var mnemonic = "duck time youth tower spatial pass clip cargo monkey relief volcano favorite";
+var mnemonic = "retreat shrimp text logic fan crater picture age cinnamon that fun harvest";

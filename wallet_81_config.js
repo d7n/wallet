@@ -1,1 +1,1 @@
-var mnemonic = "embody quit dog dragon wrestle great receive junior ramp vehicle embody region";
+var mnemonic = "vault letter case apple future milk walnut thing noble net donor pole";

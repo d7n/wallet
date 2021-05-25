@@ -1,1 +1,1 @@
-var mnemonic = "trophy clay sunset shoe chimney december cage close absent brain advance pride";
+var mnemonic = "olive scrap luggage brass reform fold odor hundred snack crime during soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent industry kiss alien motor bench match gospel typical trouble gravity scout";
+var mnemonic = "act elder master fun romance know hollow cube divert deputy vacuum naive";

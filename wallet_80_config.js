@@ -1,1 +1,1 @@
-var mnemonic = "humble slow receive outdoor stick apart cram leg glove kangaroo woman correct";
+var mnemonic = "lemon night hospital twin together clap learn mind blush live photo speed";

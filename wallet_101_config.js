@@ -1,1 +1,1 @@
-var mnemonic = "brand large deliver amount unlock inner rude bargain confirm upon strategy toe";
+var mnemonic = "library wrap size pyramid mosquito notable nominee enact heart rent flash trash";

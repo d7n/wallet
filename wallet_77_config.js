@@ -1,1 +1,1 @@
-var mnemonic = "electric scrub excuse submit drive bar neglect nut fine awesome essay quality";
+var mnemonic = "save embark surprise humble furnace horse owner unusual fossil sunny resource scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot lobster enhance napkin over field cement skill wagon only youth nut";
+var mnemonic = "enroll evil dismiss supply trigger monster member share curve tomato puzzle cactus";

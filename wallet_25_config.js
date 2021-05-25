@@ -1,1 +1,1 @@
-var mnemonic = "usage all area appear danger scrap general stadium ostrich congress frequent biology";
+var mnemonic = "letter next resemble deposit fly lawn stairs debate reopen equip easy scene";

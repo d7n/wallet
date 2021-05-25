@@ -1,1 +1,1 @@
-var mnemonic = "coil voice leader document business purpose flower infant cannon usage fresh world";
+var mnemonic = "now thrive outdoor want board scheme multiply brand pond razor today kitchen";

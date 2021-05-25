@@ -1,1 +1,1 @@
-var mnemonic = "speak ring dice zebra north crew tongue able pudding congress connect trade";
+var mnemonic = "smoke blur cement slight age panda theme trim art click profit attend";

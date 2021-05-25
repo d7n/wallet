@@ -1,1 +1,1 @@
-var mnemonic = "meadow will wrong indicate night tourist cheap garment diamond luggage glue tent";
+var mnemonic = "rotate visit depend drip card help skirt tail hill vivid during gather";

@@ -1,1 +1,1 @@
-var mnemonic = "era awake solution elder borrow degree subway evoke elbow dynamic picture produce";
+var mnemonic = "squeeze sword glance balance mom direct oblige still monkey velvet horn car";

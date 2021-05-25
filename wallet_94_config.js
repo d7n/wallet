@@ -1,1 +1,1 @@
-var mnemonic = "balance genius ridge climb immense nasty salad legal coconut fluid place liberty";
+var mnemonic = "pluck arrest inherit faint frequent jealous cactus visa heart syrup census someone";

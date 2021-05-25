@@ -1,1 +1,1 @@
-var mnemonic = "element guitar sunny exist body guitar spend grab reopen syrup street silk";
+var mnemonic = "evolve history ginger review veteran maze chase monkey onion milk flock force";

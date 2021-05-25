@@ -1,1 +1,1 @@
-var mnemonic = "food cake spirit blood tenant shoe march lunar worth black solid love";
+var mnemonic = "budget win mercy enjoy top bright roast spin coil cement quote reflect";

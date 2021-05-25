@@ -1,1 +1,1 @@
-var mnemonic = "girl fresh oil liberty close wild rhythm tourist empty great easily sting";
+var mnemonic = "hint gap main sample private little dance stuff title gain roast idea";

@@ -1,1 +1,1 @@
-var mnemonic = "record video figure bullet earth size help dice wrist room bargain arctic";
+var mnemonic = "party grace party language body next giant city limb quarter stable army";

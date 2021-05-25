@@ -1,1 +1,1 @@
-var mnemonic = "bracket hundred basket basic away submit figure hurdle cycle love mask edge";
+var mnemonic = "feature jazz network hope mountain firm swap ready resemble frequent neutral carry";

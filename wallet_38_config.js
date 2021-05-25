@@ -1,1 +1,1 @@
-var mnemonic = "legend just harvest easy quote share pilot owner beauty raccoon shallow creek";
+var mnemonic = "pilot deal silver feed library bonus mountain prepare tonight large kiwi antique";

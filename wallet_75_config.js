@@ -1,1 +1,1 @@
-var mnemonic = "bunker column never trust bid fatal truth despair reject fat knee layer";
+var mnemonic = "gun work medal promote lawn animal nephew dash chat great settle ability";

@@ -1,1 +1,1 @@
-var mnemonic = "music cause excuse excite barrel palace lizard sketch pass bread harsh maximum";
+var mnemonic = "naive area cash stable tiny tank young effort plunge close ready security";

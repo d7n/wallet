@@ -1,1 +1,1 @@
-var mnemonic = "simple slice resource grace slush lady agent enforce brief hurdle easy price";
+var mnemonic = "trouble middle blush figure oval wheat surround unusual cruise together delay bind";

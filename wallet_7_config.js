@@ -1,1 +1,1 @@
-var mnemonic = "powder allow caution motor foil math chair dwarf letter left public cute";
+var mnemonic = "obvious public purse note possible wrap bicycle guard hope this ball novel";

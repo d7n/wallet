@@ -1,1 +1,1 @@
-var mnemonic = "drive slender false gossip glove embrace day borrow amount above coach dumb";
+var mnemonic = "fuel nest follow divert history sight run twenty eye guard circle clown";

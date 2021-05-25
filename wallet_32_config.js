@@ -1,1 +1,1 @@
-var mnemonic = "pioneer caught absurd bundle faith found bridge monster afraid school tunnel guess";
+var mnemonic = "soup virtual chair together luxury nerve force safe maid sleep close left";

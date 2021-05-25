@@ -1,1 +1,1 @@
-var mnemonic = "priority night october awkward also rule donkey replace kitten govern sell mango";
+var mnemonic = "clock lawsuit remember craft theory worry loud donate call monitor kingdom such";

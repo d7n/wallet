@@ -1,1 +1,1 @@
-var mnemonic = "giraffe omit brick keen crack match puppy tribe slice foster aware skill";
+var mnemonic = "peace upper picnic canyon industry sauce huge hurdle airport priority sketch solar";

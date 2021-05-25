@@ -1,1 +1,1 @@
-var mnemonic = "better crisp sock clerk truly motion sugar salon orchard menu senior loyal";
+var mnemonic = "erupt sauce lion nasty please scatter drive income sugar gorilla swift tired";

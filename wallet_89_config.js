@@ -1,1 +1,1 @@
-var mnemonic = "scan wrap human economy inmate theory useless hover knife cool solution trophy";
+var mnemonic = "tower clinic service cave burst alcohol unhappy garage diesel affair inflict fashion";

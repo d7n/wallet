@@ -1,1 +1,1 @@
-var mnemonic = "main frequent grit system fortune mule dish unfold bridge carpet blush inquiry";
+var mnemonic = "crash around tongue rent culture vast this wedding rail panic quantum bundle";

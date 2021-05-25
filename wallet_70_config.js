@@ -1,1 +1,1 @@
-var mnemonic = "about nerve harbor nurse between escape fork engine toast debris pottery enhance";
+var mnemonic = "price magic toe better guitar pause unveil major skate reflect burger door";

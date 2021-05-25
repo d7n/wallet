@@ -1,1 +1,1 @@
-var mnemonic = "style list bleak ribbon water album pulse crater talent pull illegal below";
+var mnemonic = "meat wild exchange crush wink faith digital august deal priority rail jar";

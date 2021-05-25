@@ -1,1 +1,1 @@
-var mnemonic = "must valley vessel side achieve filter surface duck unhappy gloom pipe wait";
+var mnemonic = "force blood weather inform then vacant tell bullet unable jealous two obscure";

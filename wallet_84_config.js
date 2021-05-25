@@ -1,1 +1,1 @@
-var mnemonic = "section modify cactus minute fatigue dignity damp artefact pepper fatal jar imitate";
+var mnemonic = "balcony gym hip sniff just tattoo exist oyster grass engine system brave";

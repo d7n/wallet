@@ -1,1 +1,1 @@
-var mnemonic = "topple shallow wisdom original pencil mouse pistol require dismiss chest sunny march";
+var mnemonic = "border face tide skate eye auction arrest erode unknown devote sense review";
