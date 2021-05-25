@@ -1,1 +1,1 @@
-var mnemonic = "physical neutral buffalo color fashion return hand vague spider divide note busy";
+var mnemonic = "wrist prefer baby foil behave relax trip merge put leaf pelican cement";

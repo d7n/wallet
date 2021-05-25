@@ -1,1 +1,1 @@
-var mnemonic = "antenna repair negative vacuum save awake man type marble undo cave mushroom";
+var mnemonic = "poverty grid pill notice torch design draw cart must garbage strategy when";

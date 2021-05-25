@@ -1,1 +1,1 @@
-var mnemonic = "saddle vessel wealth cute elite arctic shiver enough novel trust effort comic";
+var mnemonic = "border fox use observe slogan bullet blush modify arch enrich wide end";

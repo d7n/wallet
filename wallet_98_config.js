@@ -1,1 +1,1 @@
-var mnemonic = "peace alcohol mixture border alert fault demise fringe behave galaxy pepper double";
+var mnemonic = "narrow bean divert poverty first spot gaze visual language filter pact power";

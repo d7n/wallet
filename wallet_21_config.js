@@ -1,1 +1,1 @@
-var mnemonic = "convince price window wrist route security vapor best easy degree topic mixed";
+var mnemonic = "outer paddle fatigue curious again empower token gossip daughter verify stadium gather";

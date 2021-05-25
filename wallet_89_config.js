@@ -1,1 +1,1 @@
-var mnemonic = "artwork stick matrix head pride tired nurse piece essence upset spend shallow";
+var mnemonic = "asthma weather mesh cup merge joy daring matter cinnamon fine oblige limit";

@@ -1,1 +1,1 @@
-var mnemonic = "all denial virtual usual wash law turkey limit hood security cool hen";
+var mnemonic = "pen dash foil pull tourist that forest aerobic wait member among boost";

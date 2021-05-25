@@ -1,1 +1,1 @@
-var mnemonic = "sample furnace lens bind random between small demand purse crucial erupt van";
+var mnemonic = "prevent hint east fever patient love view just actor satisfy hurry legal";

@@ -1,1 +1,1 @@
-var mnemonic = "sad relief tape wealth tone version leisure witness hat vapor left poet";
+var mnemonic = "total kick town simple bread bounce drift east lock black reunion brass";

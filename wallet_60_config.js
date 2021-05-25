@@ -1,1 +1,1 @@
-var mnemonic = "wrist delay amazing denial blast mom exclude screen cheap half evoke gown";
+var mnemonic = "apology nuclear end panda clog oak sick image fancy cruel bonus dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry seed across obtain dolphin junior artefact abstract fragile salmon cream depth";
+var mnemonic = "one keep cook link absorb verb crouch donkey pill resource curve trophy";

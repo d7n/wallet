@@ -1,1 +1,1 @@
-var mnemonic = "captain foot peasant outer remind scissors wink task order spider spread winter";
+var mnemonic = "path select bleak simple pool bless secret addict gym entire cupboard option";

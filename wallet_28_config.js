@@ -1,1 +1,1 @@
-var mnemonic = "pond option rain normal enemy trap churn next recycle canal shadow size";
+var mnemonic = "produce type parent congress erode text wrap ranch mix pink genre lady";

@@ -1,1 +1,1 @@
-var mnemonic = "load spawn sibling vibrant recycle leave stairs spider summer know control opinion";
+var mnemonic = "solution hat clog injury member feature body public license bid exhaust evolve";

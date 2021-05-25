@@ -1,1 +1,1 @@
-var mnemonic = "goddess security flag inside ride work sausage liar coin describe final craft";
+var mnemonic = "army world prosper purse decade dismiss weasel symbol endless glimpse holiday smoke";

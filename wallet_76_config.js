@@ -1,1 +1,1 @@
-var mnemonic = "utility tide library weapon leopard panel olympic pact athlete tuition brain reunion";
+var mnemonic = "lawsuit allow pudding until garbage quick guitar glue sibling odor hint mail";

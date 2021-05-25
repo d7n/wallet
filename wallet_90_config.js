@@ -1,1 +1,1 @@
-var mnemonic = "egg eagle used wealth oxygen cube whip dune primary truly silent used";
+var mnemonic = "curve stay poet hen deer good slow myth tonight wolf midnight galaxy";

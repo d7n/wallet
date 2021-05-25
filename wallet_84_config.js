@@ -1,1 +1,1 @@
-var mnemonic = "observe atom sense junior credit muffin chunk fruit travel space pioneer two";
+var mnemonic = "bottom river jazz crumble razor short split nothing inject peace label nature";

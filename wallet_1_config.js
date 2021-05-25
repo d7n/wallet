@@ -1,1 +1,1 @@
-var mnemonic = "milk law list opera finish crazy pistol deer prevent woman wasp mule";
+var mnemonic = "benefit boil ocean margin kitten legal put humor close deliver page wonder";

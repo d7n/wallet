@@ -1,1 +1,1 @@
-var mnemonic = "egg shallow coconut bullet future fish turtle matrix sun shadow hidden heavy";
+var mnemonic = "reject burst gloom dial stomach goat doctor coral silly box liberty mule";

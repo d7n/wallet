@@ -1,1 +1,1 @@
-var mnemonic = "front violin grunt round hurry try verify mother alone logic hobby silver";
+var mnemonic = "village average glide hub rebuild urge zoo various permit fetch message puppy";

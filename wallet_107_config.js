@@ -1,1 +1,1 @@
-var mnemonic = "dwarf butter flash marine congress skirt assume elder shaft measure mechanic donate";
+var mnemonic = "dry drip nothing home claw carpet west awkward vanish tribe alone accuse";

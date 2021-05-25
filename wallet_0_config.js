@@ -1,1 +1,1 @@
-var mnemonic = "airport buyer bus furnace lyrics awesome flee govern story raven type fix";
+var mnemonic = "panther claw essay fold figure salt useful put erosion quality detect nuclear";

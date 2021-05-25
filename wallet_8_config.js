@@ -1,1 +1,1 @@
-var mnemonic = "unhappy update limit pull burden bone equip deer cricket game crew rescue";
+var mnemonic = "film advance hold dynamic account critic better resource dynamic cinnamon miss nuclear";

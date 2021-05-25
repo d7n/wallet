@@ -1,1 +1,1 @@
-var mnemonic = "copper chat wink guess situate absorb welcome impulse magnet fossil wild anxiety";
+var mnemonic = "access emotion rough cement uncle alarm measure author churn oven empower romance";

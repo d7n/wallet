@@ -1,1 +1,1 @@
-var mnemonic = "gate brand metal cliff caution movie horror gown cloth left border orient";
+var mnemonic = "strong federal open journey shrimp slight bench spread fork elder floor tribe";

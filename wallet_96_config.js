@@ -1,1 +1,1 @@
-var mnemonic = "woman hard supreme harsh fun armor smooth slender spare doctor coral erosion";
+var mnemonic = "fork subject discover style frown knife extra fit cement inspire winter imitate";

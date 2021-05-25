@@ -1,1 +1,1 @@
-var mnemonic = "betray black wisdom pretty electric reunion lunch finger aerobic silly grocery fiction";
+var mnemonic = "force input tooth skill custom wreck cup brave local hope fee punch";

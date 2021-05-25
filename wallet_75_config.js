@@ -1,1 +1,1 @@
-var mnemonic = "sauce insect mixed use liquid scan leave fit lottery market category message";
+var mnemonic = "enforce nuclear stick double burst hidden vessel organ similar forget initial ripple";

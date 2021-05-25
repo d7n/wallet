@@ -1,1 +1,1 @@
-var mnemonic = "pattern vital cake bleak party struggle devote develop sea initial popular tribe";
+var mnemonic = "sketch toast alpha medal quiz fashion nominee equip chest yard crack tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol ribbon setup boy skill obvious jacket connect control mouse resist faith";
+var mnemonic = "friend slogan into slam innocent ivory void ring actual trip help vocal";

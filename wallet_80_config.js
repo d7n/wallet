@@ -1,1 +1,1 @@
-var mnemonic = "opera render sound sort exile torch digital portion setup quality firm effort";
+var mnemonic = "age notice guitar either quiz skin ordinary loop more resource loop august";

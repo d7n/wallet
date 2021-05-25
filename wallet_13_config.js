@@ -1,1 +1,1 @@
-var mnemonic = "come calm raw suffer crash skin rough share actual surround design major";
+var mnemonic = "symbol stage grunt owner flat party nephew century print fix cat huge";

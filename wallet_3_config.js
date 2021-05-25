@@ -1,1 +1,1 @@
-var mnemonic = "quick sad satoshi stem coast lawsuit hint eternal eternal blame uncle hotel";
+var mnemonic = "please wreck pledge inch balcony one immune crash enrich powder mom coyote";

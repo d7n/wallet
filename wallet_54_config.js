@@ -1,1 +1,1 @@
-var mnemonic = "sniff surface luggage ignore reunion bachelor banana pledge frequent dream silly project";
+var mnemonic = "spirit polar devote cabbage plastic elegant rabbit satoshi rich debate secret print";

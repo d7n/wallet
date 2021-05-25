@@ -1,1 +1,1 @@
-var mnemonic = "poet toward brush still gesture magic enroll conduct abandon sure mirror rice";
+var mnemonic = "between recycle skate chimney ancient gift heart grape damage bachelor sound mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "logic glove slam flat silk crush parrot cloud audit lens spray opera";
+var mnemonic = "tornado fan brand cheese material erase manage piano laptop educate reason boost";

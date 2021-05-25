@@ -1,1 +1,1 @@
-var mnemonic = "sting portion silly hungry water taxi icon frame canal shop detail throw";
+var mnemonic = "timber virtual exist dance cause alone pulp cable mushroom depend effort wife";

@@ -1,1 +1,1 @@
-var mnemonic = "promote sample pond region glance carry cactus aim token student math police";
+var mnemonic = "perfect lava music echo mansion clown power ocean rich crisp crane market";

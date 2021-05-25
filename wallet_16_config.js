@@ -1,1 +1,1 @@
-var mnemonic = "space expire east fatigue brain genuine common make reflect nuclear install plate";
+var mnemonic = "rose filter demand change clap merry raw almost confirm connect move duck";

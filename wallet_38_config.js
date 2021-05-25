@@ -1,1 +1,1 @@
-var mnemonic = "view million gap return also confirm daring virtual pill spend casino comfort";
+var mnemonic = "setup kind undo evoke genius panda ship delay cover veteran cabbage noble";

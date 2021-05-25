@@ -1,1 +1,1 @@
-var mnemonic = "equal town amused pioneer mimic tone napkin seminar strong dust electric time";
+var mnemonic = "voice jazz erase garbage narrow together believe common bright flock rare garage";

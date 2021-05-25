@@ -1,1 +1,1 @@
-var mnemonic = "exhaust luxury second universe snack aware canyon lobster buzz wisdom daring mirror";
+var mnemonic = "army general rapid twin behind pottery female human habit afraid cause safe";

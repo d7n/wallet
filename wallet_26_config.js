@@ -1,1 +1,1 @@
-var mnemonic = "protect west mule mammal nature uncover galaxy weekend coconut empower term wrong";
+var mnemonic = "captain chunk cage public hotel into beach rookie okay choose core actress";

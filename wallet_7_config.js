@@ -1,1 +1,1 @@
-var mnemonic = "powder spatial eye labor quarter audit hawk swim slot surface fiction evil";
+var mnemonic = "glass shallow say certain pipe super winner uncover fragile vanish method evidence";

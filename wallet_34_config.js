@@ -1,1 +1,1 @@
-var mnemonic = "scan filter sad stay direct mushroom duck neglect glow away reject rifle";
+var mnemonic = "puppy special bamboo twelve help lucky debate bargain object knife secret rubber";

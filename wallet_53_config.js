@@ -1,1 +1,1 @@
-var mnemonic = "pave garbage smile notable staff dynamic time medal tattoo twelve maid moment";
+var mnemonic = "case lecture payment govern marine need hope sphere foam upgrade mosquito surge";

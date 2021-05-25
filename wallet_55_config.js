@@ -1,1 +1,1 @@
-var mnemonic = "remind tumble donate misery output parade hope strategy test olive casual cinnamon";
+var mnemonic = "wrap news animal approve crash panther edge solve joy badge purity gown";

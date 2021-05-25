@@ -1,1 +1,1 @@
-var mnemonic = "math iron thought trip mobile frog title device detail train sun million";
+var mnemonic = "catch yellow margin okay ribbon bacon armed delay equip derive kiwi title";

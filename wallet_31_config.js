@@ -1,1 +1,1 @@
-var mnemonic = "depart ride brother muscle east raven double process jaguar cable dose describe";
+var mnemonic = "always pride shoulder key that breeze any educate clean rabbit acoustic also";

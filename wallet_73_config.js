@@ -1,1 +1,1 @@
-var mnemonic = "utility vintage dismiss vicious social bread tower imitate slender enlist time find";
+var mnemonic = "need typical custom keen holiday visit duck trend jewel base dry elbow";

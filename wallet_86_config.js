@@ -1,1 +1,1 @@
-var mnemonic = "force toilet scan couple outer prepare face girl phone text board stamp";
+var mnemonic = "donkey talk punch detail still multiply vocal laptop remain health sand bullet";

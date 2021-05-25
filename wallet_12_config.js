@@ -1,1 +1,1 @@
-var mnemonic = "teach forget sight fitness glare senior burst asthma label useful animal mosquito";
+var mnemonic = "devote ticket repeat jump syrup feel dolphin pear reunion essence doctor stove";

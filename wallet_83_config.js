@@ -1,1 +1,1 @@
-var mnemonic = "cushion bench observe photo abandon able distance animal agent speak scan size";
+var mnemonic = "ladder escape moment ecology catalog brisk fortune jazz height solid beef skate";

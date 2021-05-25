@@ -1,1 +1,1 @@
-var mnemonic = "spirit rule suffer luggage alcohol expire replace tube solve hobby tribe bounce";
+var mnemonic = "cost trial episode jazz spare merit retire rotate please pigeon crystal all";

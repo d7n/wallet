@@ -1,1 +1,1 @@
-var mnemonic = "night achieve sketch salon bundle nominee cargo deal brave share vanish crush";
+var mnemonic = "option forest estate vital amused emerge puppy member shoe hazard talent kitchen";

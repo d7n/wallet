@@ -1,1 +1,1 @@
-var mnemonic = "gain feel junior glimpse mass purity develop guess acoustic clutch naive piece";
+var mnemonic = "convince sight core cliff kick supreme desk broom jelly flip room lift";

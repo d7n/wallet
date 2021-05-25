@@ -1,1 +1,1 @@
-var mnemonic = "feed claim wire absurd narrow must wild always proof smile duty emotion";
+var mnemonic = "enable proud diamond simple surge rescue ugly prize penalty venue pattern wheat";

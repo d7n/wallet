@@ -1,1 +1,1 @@
-var mnemonic = "bean actress season notable grunt cupboard royal sister alone wash visit smoke";
+var mnemonic = "people trial annual clutch royal emerge zone parade lift fame suggest column";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic twenty vicious diary cherry ginger solution rocket zoo drum pulse hurdle";
+var mnemonic = "innocent price ice cave property drive broccoli buddy aisle medal result evolve";

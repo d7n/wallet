@@ -1,1 +1,1 @@
-var mnemonic = "arrow coffee month vapor move secret cloud device blind risk target birth";
+var mnemonic = "panda practice twenty faint flip snap afford boil open hurdle pretty ritual";

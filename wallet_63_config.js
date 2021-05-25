@@ -1,1 +1,1 @@
-var mnemonic = "spawn face scan ask width cage milk hood wine common scare acid";
+var mnemonic = "strategy grunt matrix enable draft globe bean skin office fragile combine heavy";

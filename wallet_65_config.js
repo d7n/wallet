@@ -1,1 +1,1 @@
-var mnemonic = "frame purpose aspect edge artist hen ketchup segment general blossom deposit prepare";
+var mnemonic = "kit brother ramp retreat hello history custom time cup dawn bridge main";

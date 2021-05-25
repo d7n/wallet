@@ -1,1 +1,1 @@
-var mnemonic = "pyramid later staff soup drift asthma aisle frown into dutch because nasty";
+var mnemonic = "inflict ice cigar gentle accuse false maximum derive best essence deal crazy";

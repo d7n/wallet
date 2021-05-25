@@ -1,1 +1,1 @@
-var mnemonic = "galaxy prepare unhappy dust same other target group provide math profit beauty";
+var mnemonic = "force found impulse flash much advance oppose trial filter one marriage bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "pride develop glue memory segment earth fetch cliff taste marble casual spike";
+var mnemonic = "goose inside seven phone into neutral kitten crew old vocal goat inform";

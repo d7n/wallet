@@ -1,1 +1,1 @@
-var mnemonic = "palm project lend teach pulse mirror coral clutch cliff cost jazz bottom";
+var mnemonic = "output torch speak cloth virtual license eyebrow cinnamon table fashion burden lecture";

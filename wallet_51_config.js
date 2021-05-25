@@ -1,1 +1,1 @@
-var mnemonic = "clown tomorrow require exact please false spider vague stairs visa space brick";
+var mnemonic = "absurd hawk crew burden champion another clean before capable chicken mobile bar";

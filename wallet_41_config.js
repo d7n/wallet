@@ -1,1 +1,1 @@
-var mnemonic = "exhibit satoshi start crawl denial balance magnet found alert snack anxiety error";
+var mnemonic = "observe force liar patient page farm issue twist sniff dog crater bundle";

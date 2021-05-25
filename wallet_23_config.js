@@ -1,1 +1,1 @@
-var mnemonic = "jelly clerk world demise build brave holiday express stable inmate soft refuse";
+var mnemonic = "memory better margin civil monitor blast survey thought core design remove cargo";

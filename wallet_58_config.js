@@ -1,1 +1,1 @@
-var mnemonic = "mirror student badge treat anger expect initial other faculty fury tribe asthma";
+var mnemonic = "video habit know happy segment seminar act spice position verb reward extend";

@@ -1,1 +1,1 @@
-var mnemonic = "change crime ritual another either exhaust dawn ring viable defy mixture fault";
+var mnemonic = "picnic fun okay honey network fly earn prize close sound reopen aim";

@@ -1,1 +1,1 @@
-var mnemonic = "talent best vintage eagle wealth maze segment whisper educate stumble clown poverty";
+var mnemonic = "hurdle wall enter cherry magnet spend planet luggage syrup turkey license rare";

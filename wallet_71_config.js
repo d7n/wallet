@@ -1,1 +1,1 @@
-var mnemonic = "inner gospel sell broken soul wild adapt embark man afraid aspect lion";
+var mnemonic = "ranch upon foster choose monster subject bus huge still yard shoulder fortune";

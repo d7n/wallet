@@ -1,1 +1,1 @@
-var mnemonic = "theme ritual abstract captain giraffe melt clutch observe liquid jazz memory grace";
+var mnemonic = "knife donkey ancient thought lemon kiwi hollow badge mechanic antique welcome elbow";

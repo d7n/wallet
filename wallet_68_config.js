@@ -1,1 +1,1 @@
-var mnemonic = "cover purse wire profit powder lumber torch valid sea web language update";
+var mnemonic = "future paper gold ramp illness loop opinion fire enjoy field ocean rent";

@@ -1,1 +1,1 @@
-var mnemonic = "lion hockey immense kitten step age crane tumble quarter sausage connect cupboard";
+var mnemonic = "flee universe bid dawn mushroom evolve metal spread trumpet regret hawk half";

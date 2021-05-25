@@ -1,1 +1,1 @@
-var mnemonic = "fold blue target garbage camp pet merry good hotel pistol talent urban";
+var mnemonic = "smooth inner hello mixture foot bar payment bless quote drop beef receive";

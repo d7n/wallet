@@ -1,1 +1,1 @@
-var mnemonic = "rude slam inform icon flee fragile three roof kite thunder earth choose";
+var mnemonic = "profit trap hamster scan gasp friend usage punch method lazy change hello";

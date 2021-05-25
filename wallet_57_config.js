@@ -1,1 +1,1 @@
-var mnemonic = "ahead swim gesture tray monitor kick cannon actor together roast fruit cinnamon";
+var mnemonic = "lend garden unit simple myself vivid win resist acid emotion test grunt";

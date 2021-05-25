@@ -1,1 +1,1 @@
-var mnemonic = "sad tragic bracket lyrics address plug loyal theory excite march night plastic";
+var mnemonic = "blossom vital spend favorite real mail rough rice what direct hamster reduce";

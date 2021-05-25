@@ -1,1 +1,1 @@
-var mnemonic = "museum remove best have strike diamond chronic twist fiscal field true nerve";
+var mnemonic = "ask essence envelope cabbage miss gravity want cat honey social omit economy";

@@ -1,1 +1,1 @@
-var mnemonic = "smile ginger grunt easy tornado cash arrow regret use retreat peasant airport";
+var mnemonic = "young title maximum file puppy pepper inner assist shock silver sister valid";

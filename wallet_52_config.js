@@ -1,1 +1,1 @@
-var mnemonic = "drastic artist volume tail analyst pill hole salon rug always voyage expand";
+var mnemonic = "hurdle surprise humble phone inmate pool hedgehog remind duty width still ghost";
