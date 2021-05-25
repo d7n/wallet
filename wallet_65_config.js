@@ -1,1 +1,1 @@
-var mnemonic = "debate doctor hospital cattle success feature extend text clump chest coast say";
+var mnemonic = "genre spirit romance echo mention drive dish margin have desert that trend";

@@ -1,1 +1,1 @@
-var mnemonic = "job fetch defy bitter quick fee shiver key spirit spring ugly hole";
+var mnemonic = "behind erase lion wife ancient invite border sound crucial thunder marriage sleep";

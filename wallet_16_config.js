@@ -1,1 +1,1 @@
-var mnemonic = "segment game invite actual butter athlete trust capable whale walnut summer hollow";
+var mnemonic = "bomb neither dwarf huge evolve pen already rigid quarter spread nominee wife";

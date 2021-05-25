@@ -1,1 +1,1 @@
-var mnemonic = "tragic mother oxygen kiwi supply wire hard debate member green parade afford";
+var mnemonic = "usual job glory game taxi pig people merit extend wisdom minor smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "cake modify enemy link erupt talent enact junk friend unfair spatial awesome";
+var mnemonic = "cannon illness aisle flip broom air loud return gate dolphin sausage attack";

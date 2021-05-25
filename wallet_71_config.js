@@ -1,1 +1,1 @@
-var mnemonic = "below predict fix hedgehog bullet can fiber phone between cliff sweet man";
+var mnemonic = "arrive nominee strategy advice razor divide trick arrest pioneer dolphin punch base";

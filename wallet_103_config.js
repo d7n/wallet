@@ -1,1 +1,1 @@
-var mnemonic = "crazy surge ten provide art select valve unknown veteran kangaroo anxiety average";
+var mnemonic = "fat summer good acquire minute orient hamster multiply sheriff myth cradle that";

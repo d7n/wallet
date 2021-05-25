@@ -1,1 +1,1 @@
-var mnemonic = "arrange control priority pause april two borrow whisper lawsuit error harbor cricket";
+var mnemonic = "churn prison wish slice brief spend innocent aunt green obtain admit card";

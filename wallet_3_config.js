@@ -1,1 +1,1 @@
-var mnemonic = "video session banana select solar spike disagree icon kingdom minimum decrease economy";
+var mnemonic = "blade test illness code unhappy grow exchange theory select guide gravity search";

@@ -1,1 +1,1 @@
-var mnemonic = "enable board cream exclude tissue magnet govern elite degree feature february bright";
+var mnemonic = "train horror dinosaur better book size girl fade hold scare vacuum assume";

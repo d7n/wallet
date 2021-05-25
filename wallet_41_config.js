@@ -1,1 +1,1 @@
-var mnemonic = "dumb source throw mesh alpha rib paper effort shoot object pumpkin frame";
+var mnemonic = "spike couch year pistol present amazing hamster senior journey female load hole";

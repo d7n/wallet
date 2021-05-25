@@ -1,1 +1,1 @@
-var mnemonic = "grain midnight birth want patrol prevent fiber other valve rose dirt six";
+var mnemonic = "manage example entry reform alone isolate good boil egg strategy devote toe";

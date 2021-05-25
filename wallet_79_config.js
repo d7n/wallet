@@ -1,1 +1,1 @@
-var mnemonic = "captain evoke pencil snow finish good that bridge detect debate mix lady";
+var mnemonic = "enhance patrol rug language moral voice bacon front mention catalog elbow little";

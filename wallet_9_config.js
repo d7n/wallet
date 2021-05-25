@@ -1,1 +1,1 @@
-var mnemonic = "night render stairs orphan table army forward kitchen stove unhappy analyst rescue";
+var mnemonic = "section pelican echo purse crash way elevator shrimp modify hurdle dinosaur kiwi";

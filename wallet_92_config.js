@@ -1,1 +1,1 @@
-var mnemonic = "light table bid fabric level want hope multiply bronze vote step disorder";
+var mnemonic = "absorb dress champion dutch novel hundred snow ginger situate coyote twin thumb";

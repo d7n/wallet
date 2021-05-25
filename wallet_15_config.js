@@ -1,1 +1,1 @@
-var mnemonic = "short ceiling easy coin fault absurd tide raccoon solution rain stand rule";
+var mnemonic = "cabbage left buddy absurd help valve wood ramp spare install tool hold";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain fog trade famous grief tip suffer marriage shed labor doll nose";
+var mnemonic = "exhibit unveil spell wash proud jar gravity forest movie wall mushroom candy";

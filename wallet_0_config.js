@@ -1,1 +1,1 @@
-var mnemonic = "busy boil sword inject ripple lesson jeans coffee duty detect panel wash";
+var mnemonic = "youth waste summer under pioneer never essence pond cabin guard crystal glow";

@@ -1,1 +1,1 @@
-var mnemonic = "either loop matrix loyal kangaroo message segment supply enroll doll cry evoke";
+var mnemonic = "turn proud announce tissue cream select insect believe sell live over artwork";

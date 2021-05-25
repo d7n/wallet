@@ -1,1 +1,1 @@
-var mnemonic = "shell bulk fatal onion dream grunt inhale sight success inmate parrot enroll";
+var mnemonic = "primary royal bike spirit capable spawn spare narrow illness title infant shock";

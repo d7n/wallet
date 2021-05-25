@@ -1,1 +1,1 @@
-var mnemonic = "ten cinnamon cat chef hospital skate flame write cat skill banana potato";
+var mnemonic = "antenna shiver quote close tell help skate coin hat pony drum chase";

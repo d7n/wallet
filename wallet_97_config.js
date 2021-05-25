@@ -1,1 +1,1 @@
-var mnemonic = "jungle stool cluster razor device weasel upgrade trade humble limit mouse proof";
+var mnemonic = "palace fabric gentle math ecology evolve control bacon bottom spare artist unfair";

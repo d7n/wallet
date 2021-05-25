@@ -1,1 +1,1 @@
-var mnemonic = "garage away behind actual february noodle remain close tide prison road country";
+var mnemonic = "armed manual describe mansion code rail ship crumble day weather wrist stick";

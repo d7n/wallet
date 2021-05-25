@@ -1,1 +1,1 @@
-var mnemonic = "ethics slice blur assist draft trouble found hello need glad turkey sport";
+var mnemonic = "denial twice harbor hollow dial view cereal switch panic master garage anchor";

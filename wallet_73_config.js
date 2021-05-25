@@ -1,1 +1,1 @@
-var mnemonic = "patrol echo author chicken heart sister sad million distance opera forest flavor";
+var mnemonic = "arrange garment afraid grit drastic fragile devote swift spray found oven symbol";

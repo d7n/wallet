@@ -1,1 +1,1 @@
-var mnemonic = "page thank stuff check snake occur choice have naive remember purse useless";
+var mnemonic = "begin ice review witness sell weasel cousin fluid evoke matter debate vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "pull laundry drift kind lazy super belt bunker clock lend immense fiber";
+var mnemonic = "pride honey essence much scrub yellow scrap rule pulp misery empty gain";

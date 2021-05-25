@@ -1,1 +1,1 @@
-var mnemonic = "thrive spend rhythm wear mixture display cat sorry tank alert invite lunar";
+var mnemonic = "parent alter audit scrub recycle pen jungle idea glory turn olive tell";

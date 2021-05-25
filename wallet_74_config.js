@@ -1,1 +1,1 @@
-var mnemonic = "glue energy junk bounce peasant shoulder prefer tonight drama special detect debris";
+var mnemonic = "spell lion kitten antenna citizen middle youth powder false voice mail pony";

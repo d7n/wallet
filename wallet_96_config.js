@@ -1,1 +1,1 @@
-var mnemonic = "mandate meat shy truly struggle rabbit grid burst boring bridge dash sand";
+var mnemonic = "cage glow define marriage home surge curious replace vehicle elite slight robot";

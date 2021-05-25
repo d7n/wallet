@@ -1,1 +1,1 @@
-var mnemonic = "peace kid deny push run clog nose taste gate before brief fatigue";
+var mnemonic = "rose bonus chimney romance light trade talent dentist lamp web inform shoe";

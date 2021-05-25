@@ -1,1 +1,1 @@
-var mnemonic = "favorite park pony obey monster sock doll bronze crumble element left glove";
+var mnemonic = "judge kiss coin stone film abuse hamster become fantasy unfold actual stand";

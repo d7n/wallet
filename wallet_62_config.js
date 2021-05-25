@@ -1,1 +1,1 @@
-var mnemonic = "fury urge twelve wine can tilt view inner token perfect language state";
+var mnemonic = "wall water journey machine junk elevator tone elegant acoustic deliver sort region";

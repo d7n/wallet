@@ -1,1 +1,1 @@
-var mnemonic = "weather web record letter permit jeans target father slice timber close accident";
+var mnemonic = "turkey employ charge pretty lawsuit gloom unveil drama text afraid fantasy nation";

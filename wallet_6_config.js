@@ -1,1 +1,1 @@
-var mnemonic = "main render into embark above green lucky antenna frog nuclear surface cluster";
+var mnemonic = "artefact sword fluid usage safe check notice fluid leg jacket dog dumb";

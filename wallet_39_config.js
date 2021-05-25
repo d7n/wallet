@@ -1,1 +1,1 @@
-var mnemonic = "differ suggest juice filter program frequent focus subway wall drop auction ship";
+var mnemonic = "miss surprise flag thank visual question square kid column blossom mind lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "dad antique fly resist enemy canoe coyote farm course end winner resist";
+var mnemonic = "below obscure gossip donkey wrong news section fit ecology noodle tuition swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "celery carbon monster never face impact notice friend park coach prefer trap";
+var mnemonic = "camera young trim bunker inner evil keep album about royal legend pattern";

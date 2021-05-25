@@ -1,1 +1,1 @@
-var mnemonic = "foil viable mass flight object chunk tumble gain cabbage cheap ticket clean";
+var mnemonic = "loop champion carbon put recall carbon drill toy fork sunny casino circle";

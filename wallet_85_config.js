@@ -1,1 +1,1 @@
-var mnemonic = "broccoli forest blade river cart cloth apple spike wide parade weekend garage";
+var mnemonic = "off beauty climb cage tray drip solve stand pull chunk clerk fitness";

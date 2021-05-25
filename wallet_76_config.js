@@ -1,1 +1,1 @@
-var mnemonic = "velvet flame enable choose wild until code half open tattoo unknown cloud";
+var mnemonic = "home desk crumble crisp mean wreck economy large hip such rice turn";

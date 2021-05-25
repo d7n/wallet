@@ -1,1 +1,1 @@
-var mnemonic = "rain fine arrange bubble genre heavy void winter end moon liberty adapt";
+var mnemonic = "lawsuit omit join bulk animal rural song glance release stadium fox crazy";

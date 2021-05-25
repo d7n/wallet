@@ -1,1 +1,1 @@
-var mnemonic = "choice rapid horror bunker ten truck grief tomorrow start eight laptop sting";
+var mnemonic = "pipe tissue rent opinion bean bright fury eye sketch drink squirrel deny";

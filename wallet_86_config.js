@@ -1,1 +1,1 @@
-var mnemonic = "enrich provide hollow blossom below window turn spare range chuckle season potato";
+var mnemonic = "square derive alarm soccer good fame conduct alarm wing trend useless music";

@@ -1,1 +1,1 @@
-var mnemonic = "chase brave crawl depend unfold torch happy depart sunset junior carbon need";
+var mnemonic = "much carry loud only spawn outside unveil loyal among correct nerve garbage";

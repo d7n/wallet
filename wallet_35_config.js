@@ -1,1 +1,1 @@
-var mnemonic = "gloom door theory oxygen differ forget correct flower ancient shuffle sniff oppose";
+var mnemonic = "eight episode artwork lawn draw direct cat fortune before shove able neglect";

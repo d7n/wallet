@@ -1,1 +1,1 @@
-var mnemonic = "enemy series basket rare high kingdom kidney brother vapor black access hub";
+var mnemonic = "chuckle reward pudding height dog minimum pony crowd riot explain reflect visual";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra alien mystery rich repeat panda wide injury adjust evidence bid minute";
+var mnemonic = "barrel entry copper carry rule thumb erase punch unknown vacuum motor urban";

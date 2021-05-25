@@ -1,1 +1,1 @@
-var mnemonic = "wise match example ritual dry river mouse mosquito permit penalty rifle solution";
+var mnemonic = "bless open run phone merit village oxygen oxygen fever oblige scatter spy";

@@ -1,1 +1,1 @@
-var mnemonic = "disease addict elbow penalty view convince elevator sound fine wheel door age";
+var mnemonic = "bullet give ocean hole frequent barrel cream carry much scan congress ask";

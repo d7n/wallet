@@ -1,1 +1,1 @@
-var mnemonic = "zebra people obscure birth behind arrive push broken apart legend tunnel border";
+var mnemonic = "exercise couch barrel blade neutral picnic drama pistol rookie burden permit payment";

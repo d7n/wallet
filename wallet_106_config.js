@@ -1,1 +1,1 @@
-var mnemonic = "carpet talent balcony jewel trophy trade frequent vault hazard brother accident rib";
+var mnemonic = "stove butter series prevent pink ignore choose inject country tone hood subway";

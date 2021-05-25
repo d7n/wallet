@@ -1,1 +1,1 @@
-var mnemonic = "begin quantum brand kitchen argue attend stem address can become tongue garden";
+var mnemonic = "rural situate angle wrong top adapt meat any author pause alter street";

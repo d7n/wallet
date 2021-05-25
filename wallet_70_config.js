@@ -1,1 +1,1 @@
-var mnemonic = "mix spawn mechanic rabbit lunch rescue gas goose thing beef crumble happy";
+var mnemonic = "annual scheme virtual snap logic check filter enemy hint ticket bomb depend";

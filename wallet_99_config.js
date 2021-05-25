@@ -1,1 +1,1 @@
-var mnemonic = "impose until decade crush dove pitch tornado swarm twin menu skill cloud";
+var mnemonic = "summer flock baby happy current legal large nothing asthma allow right trial";

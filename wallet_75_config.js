@@ -1,1 +1,1 @@
-var mnemonic = "shine zoo uncle fragile east problem scan burger equip powder combine poet";
+var mnemonic = "glove process vehicle tip vague drink little vote father depend grab that";

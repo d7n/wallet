@@ -1,1 +1,1 @@
-var mnemonic = "decline insane fringe control vessel meat cloud term mistake just rib wise";
+var mnemonic = "exchange round miracle match stairs brush energy embark brisk future obtain inflict";

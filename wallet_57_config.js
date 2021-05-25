@@ -1,1 +1,1 @@
-var mnemonic = "curve resource purse asset erode rabbit hundred want fortune derive gasp dice";
+var mnemonic = "apart bone leg fetch kind relax salmon great rail pool apology enable";

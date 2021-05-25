@@ -1,1 +1,1 @@
-var mnemonic = "thank armed play rocket grow cheese mother borrow tiny success type evidence";
+var mnemonic = "village defense fox return lottery blossom help memory about copper champion ski";

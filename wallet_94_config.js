@@ -1,1 +1,1 @@
-var mnemonic = "three alert domain artist tide mom fitness atom magic fragile cigar doctor";
+var mnemonic = "two total rich clay owner perfect dust fossil add fragile once cycle";

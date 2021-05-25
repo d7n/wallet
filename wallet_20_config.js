@@ -1,1 +1,1 @@
-var mnemonic = "cave census tail there circle catch crouch arrow type material limb flag";
+var mnemonic = "remain picture cheese task they target jar trend moral behind gesture shiver";

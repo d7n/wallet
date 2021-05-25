@@ -1,1 +1,1 @@
-var mnemonic = "limit cheese scale warm tiny wagon rhythm hand misery bulk silk treat";
+var mnemonic = "live picnic violin core evidence outdoor include child tooth warrior advice diamond";

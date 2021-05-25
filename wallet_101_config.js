@@ -1,1 +1,1 @@
-var mnemonic = "radar walnut prevent fish enemy crime october beach can music glory fruit";
+var mnemonic = "food sand valley lounge check intact decade tired immune toddler volcano peanut";

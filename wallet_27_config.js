@@ -1,1 +1,1 @@
-var mnemonic = "receive name crisp creek salad office during online obscure argue minor fiction";
+var mnemonic = "brush wool casual real camera access donor hazard list business echo junk";

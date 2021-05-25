@@ -1,1 +1,1 @@
-var mnemonic = "gesture obscure visual load pink pottery clay inspire hair tenant core aisle";
+var mnemonic = "benefit stomach nurse hood kitten amount wide figure violin ghost shine outer";

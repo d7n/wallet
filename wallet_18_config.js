@@ -1,1 +1,1 @@
-var mnemonic = "relax must engage legend where foam federal light speed smooth talk gadget";
+var mnemonic = "exchange prevent prize pioneer fiber guitar focus garbage taxi timber script hill";

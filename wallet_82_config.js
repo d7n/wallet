@@ -1,1 +1,1 @@
-var mnemonic = "range pledge soft own approve rotate address fuel palace meadow acquire six";
+var mnemonic = "skate music explain bounce apple rural salute clock ivory envelope ozone equal";

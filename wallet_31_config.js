@@ -1,1 +1,1 @@
-var mnemonic = "patient swift antenna buyer smile bitter bridge valid goose lab risk topic";
+var mnemonic = "woman foam denial waste exchange emotion tube theme approve differ mom usage";

@@ -1,1 +1,1 @@
-var mnemonic = "speak trigger uphold slender zero zero bonus athlete lazy burst forest strong";
+var mnemonic = "bean hobby worry rib auction medal acid random perfect domain example raise";

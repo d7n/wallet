@@ -1,1 +1,1 @@
-var mnemonic = "question define exile dash hub project shine casual impulse educate develop scorpion";
+var mnemonic = "extra labor pyramid message excuse lonely enjoy blanket hollow spare swear toy";

@@ -1,1 +1,1 @@
-var mnemonic = "sport try large dentist thank inch tree lawn portion elbow order taste";
+var mnemonic = "yellow alter sleep indicate bring alert arctic brown alone federal that valley";

@@ -1,1 +1,1 @@
-var mnemonic = "pole toast midnight eagle bracket sing sure jacket swim rely file hair";
+var mnemonic = "crash ribbon region joke category east brisk pizza cycle gold soul pig";

@@ -1,1 +1,1 @@
-var mnemonic = "arena attitude toe gate ridge juice assist woman kiss uncover loop awake";
+var mnemonic = "deposit surge exhaust cool public draw fly barely feed door fold cherry";

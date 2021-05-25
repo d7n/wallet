@@ -1,1 +1,1 @@
-var mnemonic = "you lecture vault remember elite name image street acid nature priority monitor";
+var mnemonic = "indoor patient blood erode element century error bench give burden prevent planet";

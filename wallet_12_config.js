@@ -1,1 +1,1 @@
-var mnemonic = "door else mammal fold spatial degree piece spare couch stage inhale garment";
+var mnemonic = "acid reason chimney sister list narrow scrub close census indicate know barely";

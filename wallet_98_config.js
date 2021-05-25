@@ -1,1 +1,1 @@
-var mnemonic = "acquire reduce exhibit aspect fruit shop winner phone feed antique ten ticket";
+var mnemonic = "cereal base deny aerobic atom wool alley salon begin loyal twist original";

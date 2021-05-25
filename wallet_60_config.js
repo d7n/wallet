@@ -1,1 +1,1 @@
-var mnemonic = "carbon middle ivory evil town core arctic switch curve mail sick keen";
+var mnemonic = "language quality lawsuit unusual pudding coil quality earth raven trophy stock broom";

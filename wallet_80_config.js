@@ -1,1 +1,1 @@
-var mnemonic = "auction apple tiny detect net sing time impose decline version family bean";
+var mnemonic = "original forum talent misery kind right birth fossil attract letter swing crucial";

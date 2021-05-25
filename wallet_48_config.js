@@ -1,1 +1,1 @@
-var mnemonic = "target endless strong elephant liar city first tomato runway cancel health inhale";
+var mnemonic = "dance tonight concert popular force edge want exclude brass fish team sniff";

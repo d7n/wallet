@@ -1,1 +1,1 @@
-var mnemonic = "pitch display tackle bring purse drop ribbon voice cruise engine useful until";
+var mnemonic = "horse antique bench sibling volcano sustain guard gossip web sadness salt girl";

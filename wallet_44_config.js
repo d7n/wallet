@@ -1,1 +1,1 @@
-var mnemonic = "ripple just convince region future subject depart ginger setup pause census have";
+var mnemonic = "such umbrella jump road bright average sketch pizza swap stumble dove saddle";

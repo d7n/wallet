@@ -1,1 +1,1 @@
-var mnemonic = "toss friend sight buffalo train pelican wall because state super child rough";
+var mnemonic = "bind east merit genre worth cube destroy slam balance lab offer fire";

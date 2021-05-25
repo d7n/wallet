@@ -1,1 +1,1 @@
-var mnemonic = "nice logic poet region loop riot turn stadium slot unknown ketchup alien";
+var mnemonic = "april judge burst damage cover inform also tube expand kitten carbon response";

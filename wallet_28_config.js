@@ -1,1 +1,1 @@
-var mnemonic = "reunion coach capable one aisle satoshi fly bullet athlete various race key";
+var mnemonic = "clog shove stuff settle piano gun general bean wife hole twelve aisle";

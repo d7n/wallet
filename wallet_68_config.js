@@ -1,1 +1,1 @@
-var mnemonic = "friend scorpion reform prefer busy clerk trick rate cheese crucial caution borrow";
+var mnemonic = "evolve submit verb ankle marine remind coffee hamster unfair female reveal mother";

@@ -1,1 +1,1 @@
-var mnemonic = "tube spread will champion attack tired dash fat manage search desert assault";
+var mnemonic = "lamp verb disagree beef divide various hybrid rent feature surround buffalo uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve arrange fame leopard fashion interest bracket question amateur kick tooth resist";
+var mnemonic = "elevator box order advance salt ride refuse furnace custom space course curtain";

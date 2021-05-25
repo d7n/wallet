@@ -1,1 +1,1 @@
-var mnemonic = "crush short member chase always wait green buddy afraid amateur master image";
+var mnemonic = "total range floor curtain boring actress wait ramp hobby trial divert lumber";
