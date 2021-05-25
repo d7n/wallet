@@ -1,1 +1,1 @@
-var mnemonic = "female change kind foot skin found enroll moment comfort orbit tomorrow output";
+var mnemonic = "pottery match reflect ordinary worth seat tourist right earn race axis employ";

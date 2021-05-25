@@ -1,1 +1,1 @@
-var mnemonic = "novel cloud core believe expand response just idle acoustic certain chef balcony";
+var mnemonic = "photo amateur stove fatigue follow retire welcome napkin faith dry pave frost";

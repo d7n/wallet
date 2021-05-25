@@ -1,1 +1,1 @@
-var mnemonic = "provide relief increase medal true mimic stuff shoot toy vehicle half oval";
+var mnemonic = "fiscal asthma magic merge version sense estate loud kid flat wild era";

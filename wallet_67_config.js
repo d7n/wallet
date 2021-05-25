@@ -1,1 +1,1 @@
-var mnemonic = "misery problem law few crumble draw ring rude property dad behind there";
+var mnemonic = "repeat super tobacco mean lens elder cake cover fly camp dress portion";

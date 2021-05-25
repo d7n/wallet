@@ -1,1 +1,1 @@
-var mnemonic = "like situate device decline nature diesel squeeze film twice patient census machine";
+var mnemonic = "subway maze vacuum admit rice strong depth behind enable friend express daughter";

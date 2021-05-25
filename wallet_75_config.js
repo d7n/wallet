@@ -1,1 +1,1 @@
-var mnemonic = "mask spare undo fix tag gallery rent utility together night north suit";
+var mnemonic = "save hire dragon dial seminar motion cry badge pill welcome nation strike";

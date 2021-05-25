@@ -1,1 +1,1 @@
-var mnemonic = "comic father enough congress inside pave solid salad clutch sphere lesson ask";
+var mnemonic = "uncover meadow farm original pill chicken peace horror accident oak dynamic upgrade";

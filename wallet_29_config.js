@@ -1,1 +1,1 @@
-var mnemonic = "input owner blast physical leave awake turn jungle plate carbon canoe universe";
+var mnemonic = "excuse bunker blue lawsuit car sight hub matter gap turn owner dog";

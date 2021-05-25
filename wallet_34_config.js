@@ -1,1 +1,1 @@
-var mnemonic = "left color nature foil ceiling puzzle fruit ostrich stairs stand segment easy";
+var mnemonic = "all skirt become tiger slam protect hold medal stereo spice hazard leaf";

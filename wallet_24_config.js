@@ -1,1 +1,1 @@
-var mnemonic = "index olive bind minute sound damp apple dwarf spice disease congress antique";
+var mnemonic = "require gaze have ginger media barrel burden uphold year sport museum bargain";

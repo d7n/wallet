@@ -1,1 +1,1 @@
-var mnemonic = "faint naive depth concert clap summer close pledge noble later era again";
+var mnemonic = "radar consider network medal script rich object taste steak wrap rather cry";

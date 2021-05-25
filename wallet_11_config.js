@@ -1,1 +1,1 @@
-var mnemonic = "survey excess knock energy air devote truck swamp mixture phone funny obtain";
+var mnemonic = "mix vital spice wealth cradle inside auction always mechanic lesson shallow naive";

@@ -1,1 +1,1 @@
-var mnemonic = "link bid space essay cancel episode figure write sentence erase saddle wheel";
+var mnemonic = "ridge kingdom pistol buddy refuse garage prefer pink wild decide manual topic";

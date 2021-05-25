@@ -1,1 +1,1 @@
-var mnemonic = "turtle shy favorite planet cliff ripple glad dutch border exact carbon arrange";
+var mnemonic = "apart reduce ugly pudding laundry motor rose team use calm layer hurt";

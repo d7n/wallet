@@ -1,1 +1,1 @@
-var mnemonic = "toddler admit broken envelope pact muffin similar depth upon medal theme tooth";
+var mnemonic = "cup obey vanish injury salt expire accuse bar shuffle vague immune crunch";

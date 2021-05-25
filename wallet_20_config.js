@@ -1,1 +1,1 @@
-var mnemonic = "attend wrap steel scatter follow youth tiger acquire asthma quote glue obtain";
+var mnemonic = "laptop level happy sunny year also velvet neck west skirt clarify occur";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase inquiry black process canoe amateur inner enrich enter cry purpose minor";
+var mnemonic = "copper detect say charge warm piano lounge tail aunt actress abuse gentle";

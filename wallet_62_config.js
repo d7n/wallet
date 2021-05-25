@@ -1,1 +1,1 @@
-var mnemonic = "birth salt agree oil book slam fog angry fiction review float squeeze";
+var mnemonic = "mutual ensure engage carpet hen diesel account radio cover another cluster rack";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo text close viable thought raise hip squeeze name burger play renew";
+var mnemonic = "silver fly affair doctor federal chuckle core course mixed vocal sign coral";

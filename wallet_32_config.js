@@ -1,1 +1,1 @@
-var mnemonic = "amazing inch cube capital pipe design flower test chapter spend hope regular";
+var mnemonic = "spoon purchase tuition case kit shed utility wheel taxi wrestle attitude race";

@@ -1,1 +1,1 @@
-var mnemonic = "faith punch garden ball private gather hair cream mimic average busy accuse";
+var mnemonic = "milk scheme whisper lucky satisfy evil economy board target effort mask dinosaur";

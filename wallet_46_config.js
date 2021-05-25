@@ -1,1 +1,1 @@
-var mnemonic = "balance enough spend man hurdle guilt cruel era drive roast area despair";
+var mnemonic = "scan tortoise awkward zebra tent ensure situate grit under define auto shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "slam kind front hood furnace error spatial tackle column ladder melt arrest";
+var mnemonic = "arctic hedgehog attitude mandate globe chronic ghost december hungry list blind guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "master panic subway bronze code enroll worth bunker catalog olive lady best";
+var mnemonic = "ticket crucial blue render say soon front isolate spot move coyote liquid";

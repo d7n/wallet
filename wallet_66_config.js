@@ -1,1 +1,1 @@
-var mnemonic = "tool praise dragon ranch blossom series wasp envelope rib nice tower drum";
+var mnemonic = "rent hospital cliff rule special now organ desert blouse toward give another";

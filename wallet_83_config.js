@@ -1,1 +1,1 @@
-var mnemonic = "black borrow solar try hollow chaos finish ginger despair target relax fiscal";
+var mnemonic = "car hamster feel cute invest pony energy solid wheat business release model";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon energy assault ice husband price clip antenna explain genius domain impact";
+var mnemonic = "grab noodle observe symptom market disorder media first angle empty example slush";

@@ -1,1 +1,1 @@
-var mnemonic = "sister vendor display orphan pepper spirit expand first interest wrong trade disease";
+var mnemonic = "trial survey result lamp fortune farm style remind trouble rough gaze stem";

@@ -1,1 +1,1 @@
-var mnemonic = "undo penalty powder smooth cancel diary nest famous second tattoo meadow build";
+var mnemonic = "planet radio dry depart news catalog penalty siren develop force embark social";

@@ -1,1 +1,1 @@
-var mnemonic = "blast misery pull shift custom trim fan shop enable lottery garden scare";
+var mnemonic = "bread expose cave habit zoo world amused walnut upper chaos midnight elegant";

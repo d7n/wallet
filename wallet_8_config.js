@@ -1,1 +1,1 @@
-var mnemonic = "improve timber trim return try foam behind donkey armed taste like infant";
+var mnemonic = "circle punch obtain outer husband rent change scheme metal abandon miss burger";

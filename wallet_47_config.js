@@ -1,1 +1,1 @@
-var mnemonic = "organ mandate human culture quarter run sound divert topic that mother purse";
+var mnemonic = "supreme verb saddle pigeon pattern lonely patch account mass just bag bulk";

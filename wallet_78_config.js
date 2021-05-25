@@ -1,1 +1,1 @@
-var mnemonic = "feature yard borrow honey garage cable glass oppose page trend blur sketch";
+var mnemonic = "fog diamond final predict couple describe much cactus clip melody poem print";

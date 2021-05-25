@@ -1,1 +1,1 @@
-var mnemonic = "cactus aisle illness close leader company pass magic weather lottery riot lounge";
+var mnemonic = "crawl wall mountain bless pilot spike reunion leisure zero switch alpha wise";

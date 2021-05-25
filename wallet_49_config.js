@@ -1,1 +1,1 @@
-var mnemonic = "march tomato logic fish favorite lecture grape plastic other used pull depart";
+var mnemonic = "example ethics liquid ten eternal blame arm iron vapor remember ecology sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "organ leg bicycle enroll diamond year silly zebra exchange security blood vintage";
+var mnemonic = "prefer chapter guide version monster humble repeat cancel sausage notice believe broken";

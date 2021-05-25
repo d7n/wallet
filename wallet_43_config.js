@@ -1,1 +1,1 @@
-var mnemonic = "clap job oblige stand eagle mango lawn spare clay ethics pulp news";
+var mnemonic = "become used shift reunion twice unveil increase sentence dwarf front firm pull";

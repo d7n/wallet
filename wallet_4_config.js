@@ -1,1 +1,1 @@
-var mnemonic = "lumber myth afford describe vote later enable public someone steak update engine";
+var mnemonic = "soul expire range dignity blame giggle spend wife dentist primary deal farm";

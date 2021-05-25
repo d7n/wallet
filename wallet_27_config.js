@@ -1,1 +1,1 @@
-var mnemonic = "gun protect outer media adjust tomorrow immune bike adult flock outer public";
+var mnemonic = "vote view weather again concert potato toward eyebrow place furnace bean guide";

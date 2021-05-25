@@ -1,1 +1,1 @@
-var mnemonic = "badge final issue baby weekend clerk absurd cigar crane boil casino onion";
+var mnemonic = "explain lady shock old afraid dinosaur near bonus roast forward stove ramp";

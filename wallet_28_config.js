@@ -1,1 +1,1 @@
-var mnemonic = "hidden reform such leisure final autumn feed fabric kiss punch then journey";
+var mnemonic = "dry opinion move check note victory purse wall memory scene hill imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "trick aware dizzy face wife believe feature diesel carry taste rapid rigid";
+var mnemonic = "muffin scissors inside crouch alien laugh engage defense crack emerge beyond arrange";

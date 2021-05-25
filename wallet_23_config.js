@@ -1,1 +1,1 @@
-var mnemonic = "cram minute monster soon bacon hill abandon verb organ explain toast scout";
+var mnemonic = "arctic view lion august empty wide tuna flag talent believe hole cute";

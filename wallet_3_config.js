@@ -1,1 +1,1 @@
-var mnemonic = "dilemma zebra erosion curious street sorry push depend kangaroo victory random panther";
+var mnemonic = "curtain demand curious traffic lawn napkin error network royal bamboo cotton true";

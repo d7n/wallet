@@ -1,1 +1,1 @@
-var mnemonic = "deer zone genius pitch pudding meadow escape focus life race double october";
+var mnemonic = "fitness dolphin ahead vintage stove flag hour battle theme task surface noodle";

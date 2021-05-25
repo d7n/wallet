@@ -1,1 +1,1 @@
-var mnemonic = "monkey fold fever spray recycle isolate wave genuine unaware drum paper sadness";
+var mnemonic = "settle cat donkey cigar clinic clever chief hand famous music depth forest";

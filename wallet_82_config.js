@@ -1,1 +1,1 @@
-var mnemonic = "layer toilet profit gentle advice divorce sport meadow tag once garbage crop";
+var mnemonic = "affair embark trigger wing gate share hazard glass fiscal marine scatter move";

@@ -1,1 +1,1 @@
-var mnemonic = "boost black trash expand human arrest sponsor success base despair crane coast";
+var mnemonic = "code bright robust garden seat twice horse biology leave odor magnet gift";

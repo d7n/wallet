@@ -1,1 +1,1 @@
-var mnemonic = "resemble offer gorilla student shop oppose future point hope mix fade blade";
+var mnemonic = "owner foot dynamic teach cash immune seat culture warrior word minor perfect";

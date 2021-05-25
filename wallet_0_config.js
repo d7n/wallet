@@ -1,1 +1,1 @@
-var mnemonic = "horn universe sport opera same brave similar cherry rookie people kitten finger";
+var mnemonic = "park cash rather favorite park often salt giraffe must spot creek similar";

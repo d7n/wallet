@@ -1,1 +1,1 @@
-var mnemonic = "tattoo caught topple gossip glide border slender host able prison addict equip";
+var mnemonic = "say coach slab chunk crucial hungry slice dirt churn evidence lucky segment";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen volume example unknown arctic wild pony diet clog buyer ceiling have";
+var mnemonic = "mirror fit write hour roast wall double object magnet fork diagram awake";

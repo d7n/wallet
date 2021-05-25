@@ -1,1 +1,1 @@
-var mnemonic = "despair onion lazy joke width hero identify whale hill test medal physical";
+var mnemonic = "error comic brown where require disorder nest bring hill slab canal weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "motion wealth onion merit year hill glory flock roast double leaf exhaust";
+var mnemonic = "turtle pony vehicle equip swim leg tragic animal vibrant actress civil neck";

@@ -1,1 +1,1 @@
-var mnemonic = "permit wet manage fly obscure umbrella sentence first lake about story cloth";
+var mnemonic = "prize can candy onion client urge year avocado march thumb wash allow";

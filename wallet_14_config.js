@@ -1,1 +1,1 @@
-var mnemonic = "hard elbow announce cute example elevator diamond habit discover nation february market";
+var mnemonic = "client virus trim mad length any increase robot found spoon normal accident";

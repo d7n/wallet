@@ -1,1 +1,1 @@
-var mnemonic = "flock segment issue melt reveal prison talk help obey infant lecture parent";
+var mnemonic = "attitude beyond nature oblige congress cat auto reform arena aerobic unfold assault";

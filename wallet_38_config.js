@@ -1,1 +1,1 @@
-var mnemonic = "dirt bleak entry nut upper edge system measure rocket casual broom hybrid";
+var mnemonic = "blind bring source relief river ask idea artwork miss fatal frequent slush";

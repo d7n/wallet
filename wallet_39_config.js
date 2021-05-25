@@ -1,1 +1,1 @@
-var mnemonic = "fox learn van junk enrich apple sea print seat village burst unlock";
+var mnemonic = "essence scheme host way pyramid course evolve quit tomato room suffer hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness soft hat bench fiscal chunk almost say dumb flash struggle barrel";
+var mnemonic = "fun rare price glimpse law soda repeat toe ginger town essence caution";

@@ -1,1 +1,1 @@
-var mnemonic = "old material exhibit submit teach spoon style slogan humor enhance corn trim";
+var mnemonic = "actual combine palm female predict fiber garlic wedding swamp orchard town shadow";

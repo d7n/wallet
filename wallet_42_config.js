@@ -1,1 +1,1 @@
-var mnemonic = "traffic worth evoke thought word opinion stand coral shove chalk dynamic model";
+var mnemonic = "mammal dust cash region loyal actual decline pulp escape idea oxygen flavor";

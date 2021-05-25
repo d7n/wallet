@@ -1,1 +1,1 @@
-var mnemonic = "nation jeans burden industry team apple rain goddess matrix pretty section ship";
+var mnemonic = "maximum luggage price crack kidney team race child winter bamboo aim zoo";

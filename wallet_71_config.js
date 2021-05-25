@@ -1,1 +1,1 @@
-var mnemonic = "opinion sure record use august cave great hard just hover jacket armor";
+var mnemonic = "wheat risk gallery faith shed dream error river giant random pluck absent";

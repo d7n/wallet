@@ -1,1 +1,1 @@
-var mnemonic = "card close jaguar twist gravity wife canoe phone excess roof then shallow";
+var mnemonic = "music loan team ridge balance liar good gold where method tissue craft";

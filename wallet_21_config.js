@@ -1,1 +1,1 @@
-var mnemonic = "furnace kangaroo victory inmate utility someone age fossil soda end cake invest";
+var mnemonic = "barely erase steel document output slow ticket cloth purchase category theme proof";

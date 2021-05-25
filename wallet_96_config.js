@@ -1,1 +1,1 @@
-var mnemonic = "feed deliver balance rather print kick danger initial clump merge nice economy";
+var mnemonic = "library index long easy neglect gap seek patient roof sing invest camera";

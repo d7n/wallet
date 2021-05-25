@@ -1,1 +1,1 @@
-var mnemonic = "notable luggage torch move someone clip page merit adapt clean east before";
+var mnemonic = "figure sign fruit often excuse upper jar hover acquire you turtle either";

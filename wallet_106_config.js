@@ -1,1 +1,1 @@
-var mnemonic = "between once agree vital slight shiver junior eagle response bone breeze into";
+var mnemonic = "radar offer stem gather inquiry control tank gravity magic damp chalk dune";

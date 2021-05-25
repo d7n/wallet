@@ -1,1 +1,1 @@
-var mnemonic = "endless cool shed intact gentle vague pair unit lemon path display tell";
+var mnemonic = "near tragic bomb orphan journey axis document trigger where estate jelly essay";

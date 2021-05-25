@@ -1,1 +1,1 @@
-var mnemonic = "screen bleak leave advance piece mobile accident stadium base push harbor claw";
+var mnemonic = "bracket citizen board innocent dial august draw orphan machine essay simple faculty";

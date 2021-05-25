@@ -1,1 +1,1 @@
-var mnemonic = "note invite worth exotic area sketch pulp mean unknown ritual orbit matrix";
+var mnemonic = "scheme swallow bridge sleep foot nice mushroom flavor this jungle vibrant square";

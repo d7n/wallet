@@ -1,1 +1,1 @@
-var mnemonic = "scrap cabbage rough weekend river mammal proof maze know merit prefer favorite";
+var mnemonic = "mirror song clever foam ship stuff nasty connect survey devote ivory smart";

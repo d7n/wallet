@@ -1,1 +1,1 @@
-var mnemonic = "answer atom error convince sadness evolve output venue quick reveal code hope";
+var mnemonic = "idea eight snake planet vital multiply crew leaf asset attract inspire effort";

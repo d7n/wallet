@@ -1,1 +1,1 @@
-var mnemonic = "original rubber venture glad leg clerk tired runway thumb easily devote express";
+var mnemonic = "hat renew volcano indicate flat fiber analyst tissue egg conduct lesson rhythm";

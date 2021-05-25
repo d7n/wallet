@@ -1,1 +1,1 @@
-var mnemonic = "pencil slim outside coin grape equal regret infant industry toddler clap river";
+var mnemonic = "nation loop clarify minute undo gap fetch brick pluck board tonight code";

@@ -1,1 +1,1 @@
-var mnemonic = "silent toilet blush pupil link slab major smoke capable lyrics company athlete";
+var mnemonic = "blur remember ice iron bamboo scrub leaf elbow distance charge connect net";

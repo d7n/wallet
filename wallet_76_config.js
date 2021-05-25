@@ -1,1 +1,1 @@
-var mnemonic = "develop spell become clap float list mercy person ship abuse glare feed";
+var mnemonic = "above twin suffer busy shrimp nominee canoe inner explain broom return photo";

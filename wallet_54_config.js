@@ -1,1 +1,1 @@
-var mnemonic = "violin retreat fortune novel wish desert pear toe neglect glass access aspect";
+var mnemonic = "black mention ugly huge jaguar letter dentist taste rubber voyage wreck acid";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd gauge faculty stay tissue sunset shield tobacco above peace season crisp";
+var mnemonic = "torch stick romance shrimp project auction coast genre knife enforce wasp exchange";

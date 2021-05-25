@@ -1,1 +1,1 @@
-var mnemonic = "reason violin seven crystal silly century obtain net differ dirt increase about";
+var mnemonic = "attack decorate captain dog grow cinnamon woman exchange bargain rather entry silk";

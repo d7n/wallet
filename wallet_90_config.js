@@ -1,1 +1,1 @@
-var mnemonic = "bonus sudden volume earth possible win best engine fan butter bullet claim";
+var mnemonic = "diesel mercy loop venture rice illegal piano treat history pulp rally evil";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet despair quick educate multiply surprise east ability account acoustic ocean truth";
+var mnemonic = "series dignity best picture flight impulse clay evil neither crater broccoli assault";

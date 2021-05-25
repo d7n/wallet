@@ -1,1 +1,1 @@
-var mnemonic = "vanish arrest timber kiss fix time forward matter special olive exhaust receive";
+var mnemonic = "observe target immune snake section bonus chuckle arrange story wave gasp over";

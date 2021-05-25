@@ -1,1 +1,1 @@
-var mnemonic = "zoo fabric trial tackle sample coach short limb cherry mistake creek split";
+var mnemonic = "sphere exclude waste exhibit hold unknown teach squirrel panther also harsh trophy";

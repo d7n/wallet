@@ -1,1 +1,1 @@
-var mnemonic = "ginger aisle special suffer surprise destroy vanish holiday measure cotton hunt mystery";
+var mnemonic = "diamond high pool final grape result crime squeeze boost shine idle wage";

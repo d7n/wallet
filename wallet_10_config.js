@@ -1,1 +1,1 @@
-var mnemonic = "gasp imitate digital absent skull fabric ride leopard proof joy wage athlete";
+var mnemonic = "perfect bunker banana hunt lizard inmate world ecology heavy state pluck copy";

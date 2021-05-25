@@ -1,1 +1,1 @@
-var mnemonic = "mountain swallow gap income edge battle document what shallow upgrade toe congress";
+var mnemonic = "again define critic burden know dream present matter mandate deer mad dry";

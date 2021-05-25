@@ -1,1 +1,1 @@
-var mnemonic = "sock rotate lecture pave price suspect door spawn shy record caught rigid";
+var mnemonic = "shell quit doll enact fresh stairs tail column clip furnace bid fury";

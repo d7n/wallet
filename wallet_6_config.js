@@ -1,1 +1,1 @@
-var mnemonic = "potato river mercy people clean truth omit debate wing half file size";
+var mnemonic = "alter lunar hello upset mention depth budget green rifle begin shed debris";
