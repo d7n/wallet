@@ -1,1 +1,1 @@
-var mnemonic = "enemy mixed palace myself intact wild inject cry verb great extra labor";
+var mnemonic = "amazing inch cube capital pipe design flower test chapter spend hope regular";

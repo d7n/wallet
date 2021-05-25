@@ -1,1 +1,1 @@
-var mnemonic = "hip swear update fade undo fiscal slab spare alert glide emotion hurt";
+var mnemonic = "black borrow solar try hollow chaos finish ginger despair target relax fiscal";

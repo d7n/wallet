@@ -1,1 +1,1 @@
-var mnemonic = "march sure parrot frog orient rally someone divert urban draw slush pulse";
+var mnemonic = "misery problem law few crumble draw ring rude property dad behind there";

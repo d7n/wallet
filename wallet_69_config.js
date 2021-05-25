@@ -1,1 +1,1 @@
-var mnemonic = "slice rather rubber pave hat alley glance govern pulp lizard cart clinic";
+var mnemonic = "sock rotate lecture pave price suspect door spawn shy record caught rigid";

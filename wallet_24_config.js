@@ -1,1 +1,1 @@
-var mnemonic = "gentle menu neutral meat marine vibrant ancient initial orchard submit giggle fresh";
+var mnemonic = "index olive bind minute sound damp apple dwarf spice disease congress antique";

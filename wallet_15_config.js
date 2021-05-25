@@ -1,1 +1,1 @@
-var mnemonic = "code scale kiwi alcohol advice bomb panic middle cook frame trim angry";
+var mnemonic = "like situate device decline nature diesel squeeze film twice patient census machine";

@@ -1,1 +1,1 @@
-var mnemonic = "can miracle afraid involve robot provide predict miracle engine tomato autumn okay";
+var mnemonic = "master panic subway bronze code enroll worth bunker catalog olive lady best";

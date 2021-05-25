@@ -1,1 +1,1 @@
-var mnemonic = "gift toddler story shallow direct repeat travel ice town divorce arrange panda";
+var mnemonic = "toddler admit broken envelope pact muffin similar depth upon medal theme tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "typical unusual arena humble carbon crystal explain tag giant cheap raccoon badge";
+var mnemonic = "bonus sudden volume earth possible win best engine fan butter bullet claim";

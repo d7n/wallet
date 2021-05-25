@@ -1,1 +1,1 @@
-var mnemonic = "else dumb buzz prepare short tuition very work impulse ability push similar";
+var mnemonic = "despair onion lazy joke width hero identify whale hill test medal physical";

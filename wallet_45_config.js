@@ -1,1 +1,1 @@
-var mnemonic = "oak hybrid double blood skill grape vocal visit pear decade concert talent";
+var mnemonic = "nation jeans burden industry team apple rain goddess matrix pretty section ship";

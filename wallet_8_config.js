@@ -1,1 +1,1 @@
-var mnemonic = "depth neutral bar invest gown news forward damp pledge girl orange day";
+var mnemonic = "improve timber trim return try foam behind donkey armed taste like infant";

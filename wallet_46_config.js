@@ -1,1 +1,1 @@
-var mnemonic = "wreck attack finger permit tree churn army shock guess buzz empower label";
+var mnemonic = "balance enough spend man hurdle guilt cruel era drive roast area despair";

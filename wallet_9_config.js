@@ -1,1 +1,1 @@
-var mnemonic = "urban slow garbage turtle until color angle seminar lock diesel skin rookie";
+var mnemonic = "cactus aisle illness close leader company pass magic weather lottery riot lounge";

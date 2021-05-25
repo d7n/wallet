@@ -1,1 +1,1 @@
-var mnemonic = "session head slab join hair brave balcony student slender bench puppy believe";
+var mnemonic = "patient whisper captain matter typical idle crumble slide script wedding dice satoshi";

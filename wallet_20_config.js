@@ -1,1 +1,1 @@
-var mnemonic = "deny twice slow goat smile adult pig donate fringe when stairs valid";
+var mnemonic = "attend wrap steel scatter follow youth tiger acquire asthma quote glue obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect monitor portion situate essence receive length climb glove safe away marriage";
+var mnemonic = "motion wealth onion merit year hill glory flock roast double leaf exhaust";

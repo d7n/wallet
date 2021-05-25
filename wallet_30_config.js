@@ -1,1 +1,1 @@
-var mnemonic = "stock tourist cushion beach cousin math drastic panic devote sniff mask spike";
+var mnemonic = "tattoo caught topple gossip glide border slender host able prison addict equip";

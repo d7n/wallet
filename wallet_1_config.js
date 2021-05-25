@@ -1,1 +1,1 @@
-var mnemonic = "crime excess chalk theme brother ski push wealth behind hollow stereo ghost";
+var mnemonic = "old material exhibit submit teach spoon style slogan humor enhance corn trim";

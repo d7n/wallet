@@ -1,1 +1,1 @@
-var mnemonic = "barrel original excite flight law happy panther gym super modify sunny prefer";
+var mnemonic = "note invite worth exotic area sketch pulp mean unknown ritual orbit matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "poem beach faith advice destroy check soccer upgrade equip blouse grab sunset";
+var mnemonic = "ginger aisle special suffer surprise destroy vanish holiday measure cotton hunt mystery";

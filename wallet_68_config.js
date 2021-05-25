@@ -1,1 +1,1 @@
-var mnemonic = "bulb thought proud crisp beef you logic object city wood glide stay";
+var mnemonic = "silent toilet blush pupil link slab major smoke capable lyrics company athlete";

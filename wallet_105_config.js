@@ -1,1 +1,1 @@
-var mnemonic = "catalog range frame sweet library sight welcome tooth document disagree honey announce";
+var mnemonic = "reason violin seven crystal silly century obtain net differ dirt increase about";

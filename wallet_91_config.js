@@ -1,1 +1,1 @@
-var mnemonic = "around street hello cable solution cup scan build strategy forget bubble theory";
+var mnemonic = "length liar acid shuffle machine medal neglect birth loud manual digital enlist";

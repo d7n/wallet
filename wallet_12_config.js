@@ -1,1 +1,1 @@
-var mnemonic = "loyal path unfold shield universe rug invest cruel permit top uniform mirror";
+var mnemonic = "original rubber venture glad leg clerk tired runway thumb easily devote express";

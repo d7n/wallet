@@ -1,1 +1,1 @@
-var mnemonic = "sure nose legal window stand embody throw sister math crystal capable organ";
+var mnemonic = "link bid space essay cancel episode figure write sentence erase saddle wheel";

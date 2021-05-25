@@ -1,1 +1,1 @@
-var mnemonic = "bike identify duck client robust object brisk sun network develop race spy";
+var mnemonic = "zoo fabric trial tackle sample coach short limb cherry mistake creek split";

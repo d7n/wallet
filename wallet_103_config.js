@@ -1,1 +1,1 @@
-var mnemonic = "card laugh donate judge rough wish mutual mesh captain quality pond theme";
+var mnemonic = "answer atom error convince sadness evolve output venue quick reveal code hope";

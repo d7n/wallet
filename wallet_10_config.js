@@ -1,1 +1,1 @@
-var mnemonic = "escape stairs crop memory normal educate analyst unveil citizen photo april chat";
+var mnemonic = "gasp imitate digital absent skull fabric ride leopard proof joy wage athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur alarm job toddler diagram napkin draft pattern cliff minute bomb retreat";
+var mnemonic = "novel cloud core believe expand response just idle acoustic certain chef balcony";

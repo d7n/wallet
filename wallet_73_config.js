@@ -1,1 +1,1 @@
-var mnemonic = "skill kind biology leg mistake stable illness soft prepare canal call hazard";
+var mnemonic = "pencil slim outside coin grape equal regret infant industry toddler clap river";

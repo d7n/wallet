@@ -1,1 +1,1 @@
-var mnemonic = "cause media fatigue portion duty palm coach gauge alarm satoshi ankle census";
+var mnemonic = "lumber myth afford describe vote later enable public someone steak update engine";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican business short achieve hawk fat frown bundle arrow police talk laundry";
+var mnemonic = "sing auto search nice shallow float inside near ramp degree body process";

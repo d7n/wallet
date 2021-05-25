@@ -1,1 +1,1 @@
-var mnemonic = "orange guide team manage real ski pelican busy divert pet oak worth";
+var mnemonic = "faith punch garden ball private gather hair cream mimic average busy accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp believe lawn wide whip crater cousin sleep social vote lens normal";
+var mnemonic = "turtle shy favorite planet cliff ripple glad dutch border exact carbon arrange";

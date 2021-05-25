@@ -1,1 +1,1 @@
-var mnemonic = "black ensure source rocket success wonder iron noble lava nephew mushroom voice";
+var mnemonic = "dirt bleak entry nut upper edge system measure rocket casual broom hybrid";

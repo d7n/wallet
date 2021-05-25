@@ -1,1 +1,1 @@
-var mnemonic = "audit salute connect film verify visit liar baby ten lawn innocent enroll";
+var mnemonic = "horn universe sport opera same brave similar cherry rookie people kitten finger";

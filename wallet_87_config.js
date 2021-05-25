@@ -1,1 +1,1 @@
-var mnemonic = "jaguar relax prepare topple glare disease trap bottom cool replace stomach first";
+var mnemonic = "fitness soft hat bench fiscal chunk almost say dumb flash struggle barrel";

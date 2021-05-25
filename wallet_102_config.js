@@ -1,1 +1,1 @@
-var mnemonic = "large stool hover iron sheriff fame property notice agree glare power all";
+var mnemonic = "blast misery pull shift custom trim fan shop enable lottery garden scare";

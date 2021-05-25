@@ -1,1 +1,1 @@
-var mnemonic = "banner pilot couple barrel miss shuffle time tomorrow that fault order rent";
+var mnemonic = "mask spare undo fix tag gallery rent utility together night north suit";

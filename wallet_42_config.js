@@ -1,1 +1,1 @@
-var mnemonic = "various guess fine pear accuse grow lab glove process brush soon material";
+var mnemonic = "traffic worth evoke thought word opinion stand coral shove chalk dynamic model";

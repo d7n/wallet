@@ -1,1 +1,1 @@
-var mnemonic = "sniff print topic load fat approve weapon health glance awake dice survey";
+var mnemonic = "people fire explain core fury carry tag seminar neck assume romance accident";

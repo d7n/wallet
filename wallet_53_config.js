@@ -1,1 +1,1 @@
-var mnemonic = "scare april car chaos wreck little soul then stay educate movie obtain";
+var mnemonic = "outer uphold monster grief okay debate bacon vanish oblige output mutual used";

@@ -1,1 +1,1 @@
-var mnemonic = "kid present put hill side item custom indicate ethics void rebuild siren";
+var mnemonic = "hard elbow announce cute example elevator diamond habit discover nation february market";

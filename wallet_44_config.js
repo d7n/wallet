@@ -1,1 +1,1 @@
-var mnemonic = "meat disorder vague peanut cake insect future maximum ugly supply sound world";
+var mnemonic = "card close jaguar twist gravity wife canoe phone excess roof then shallow";

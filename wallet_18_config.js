@@ -1,1 +1,1 @@
-var mnemonic = "hat suspect machine mesh fiber neutral mandate crash alcohol toilet transfer season";
+var mnemonic = "undo penalty powder smooth cancel diary nest famous second tattoo meadow build";

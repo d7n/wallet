@@ -1,1 +1,1 @@
-var mnemonic = "crunch ritual disease chronic meat history merge lobster unhappy shift canvas prefer";
+var mnemonic = "mystery soda garbage essay thunder another remember master cream priority juice find";

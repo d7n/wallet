@@ -1,1 +1,1 @@
-var mnemonic = "sock expose beef pair leader kid neglect brain omit crunch night retreat";
+var mnemonic = "input owner blast physical leave awake turn jungle plate carbon canoe universe";

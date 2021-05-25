@@ -1,1 +1,1 @@
-var mnemonic = "auto call large toy sing poem observe couch skill average false scan";
+var mnemonic = "cram minute monster soon bacon hill abandon verb organ explain toast scout";

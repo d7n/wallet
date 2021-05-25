@@ -1,1 +1,1 @@
-var mnemonic = "label artwork case soup hospital team delay shuffle recipe foam squeeze bracket";
+var mnemonic = "female change kind foot skin found enroll moment comfort orbit tomorrow output";

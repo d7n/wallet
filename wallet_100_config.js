@@ -1,1 +1,1 @@
-var mnemonic = "nerve sphere skirt chief claw leopard potato donor frequent enjoy gold settle";
+var mnemonic = "trick aware dizzy face wife believe feature diesel carry taste rapid rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "sun bind series bright village fatigue average coil embody spawn depart silent";
+var mnemonic = "civil hazard pioneer luxury forum cinnamon cage eagle clap rain such half";

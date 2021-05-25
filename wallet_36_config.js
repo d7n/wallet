@@ -1,1 +1,1 @@
-var mnemonic = "moral rookie trumpet vocal domain picture anger hip tuition achieve swarm receive";
+var mnemonic = "sister vendor display orphan pepper spirit expand first interest wrong trade disease";

@@ -1,1 +1,1 @@
-var mnemonic = "sell path false photo fix plunge speed agree walk dream region forget";
+var mnemonic = "reform view garlic observe napkin liberty cake bring excess leisure snack flavor";

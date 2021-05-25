@@ -1,1 +1,1 @@
-var mnemonic = "plastic camp orange fetch stomach fork trip style science slush sauce shove";
+var mnemonic = "basket chronic pigeon milk pulp sunny palace sun tennis vintage act able";

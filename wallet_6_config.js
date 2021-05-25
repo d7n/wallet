@@ -1,1 +1,1 @@
-var mnemonic = "stand pledge exact question head siren genius cruel exclude near jazz talk";
+var mnemonic = "potato river mercy people clean truth omit debate wing half file size";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock voice auto price cricket medal credit found toss rival soccer spray";
+var mnemonic = "screen bleak leave advance piece mobile accident stadium base push harbor claw";

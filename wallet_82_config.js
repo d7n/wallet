@@ -1,1 +1,1 @@
-var mnemonic = "clay guilt vacuum heart harbor soda nest rude coffee bulb rely churn";
+var mnemonic = "layer toilet profit gentle advice divorce sport meadow tag once garbage crop";

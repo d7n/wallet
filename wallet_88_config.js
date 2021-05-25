@@ -1,1 +1,1 @@
-var mnemonic = "illegal olive desert scene rail truly destroy gown tuna wide tornado hungry";
+var mnemonic = "aware pelican canoe medal crater nest dawn interest tired toast push pride";

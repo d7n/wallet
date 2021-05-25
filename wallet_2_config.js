@@ -1,1 +1,1 @@
-var mnemonic = "cake guide ketchup rice another wing love steel session sign lion coin";
+var mnemonic = "scrap cabbage rough weekend river mammal proof maze know merit prefer favorite";

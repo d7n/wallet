@@ -1,1 +1,1 @@
-var mnemonic = "banner panic vital phone ability text birth metal attack soon thunder ball";
+var mnemonic = "gun protect outer media adjust tomorrow immune bike adult flock outer public";

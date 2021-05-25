@@ -1,1 +1,1 @@
-var mnemonic = "feature magic fiber trap fringe spoil brick morning escape busy barely snow";
+var mnemonic = "opinion sure record use august cave great hard just hover jacket armor";

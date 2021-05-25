@@ -1,1 +1,1 @@
-var mnemonic = "spring venture finger mule slender evoke quality oval recycle effort civil mesh";
+var mnemonic = "between once agree vital slight shiver junior eagle response bone breeze into";

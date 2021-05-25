@@ -1,1 +1,1 @@
-var mnemonic = "bean unlock cliff rose orient diamond hint lumber pledge talk intact chuckle";
+var mnemonic = "survey excess knock energy air devote truck swamp mixture phone funny obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "notable vocal quantum pulp lesson parrot gossip pet address alley update unusual";
+var mnemonic = "truly reward then stomach horn surface session ramp episode chronic idea close";

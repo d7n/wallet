@@ -1,1 +1,1 @@
-var mnemonic = "diet hundred entry narrow home rabbit pear alarm outdoor payment elbow certain";
+var mnemonic = "deer zone genius pitch pudding meadow escape focus life race double october";

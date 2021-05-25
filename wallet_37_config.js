@@ -1,1 +1,1 @@
-var mnemonic = "great divide cargo logic word august average cement raw autumn museum sauce";
+var mnemonic = "symbol bunker arena differ furnace tragic volcano naive device inquiry post chat";

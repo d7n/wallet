@@ -1,1 +1,1 @@
-var mnemonic = "resemble present must sample quality winner steak digital forward absent autumn fabric";
+var mnemonic = "reopen volume example unknown arctic wild pony diet clog buyer ceiling have";

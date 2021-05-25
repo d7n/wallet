@@ -1,1 +1,1 @@
-var mnemonic = "border general else chase wine erosion talk elbow fame trial amateur donkey";
+var mnemonic = "feed deliver balance rather print kick danger initial clump merge nice economy";

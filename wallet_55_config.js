@@ -1,1 +1,1 @@
-var mnemonic = "inject solution theme zebra large battle jazz flavor post mesh kid scrub";
+var mnemonic = "notable luggage torch move someone clip page merit adapt clean east before";

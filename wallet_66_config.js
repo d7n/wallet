@@ -1,1 +1,1 @@
-var mnemonic = "planet achieve keep father debate crucial involve peasant crime biology topic fiscal";
+var mnemonic = "tool praise dragon ranch blossom series wasp envelope rib nice tower drum";

@@ -1,1 +1,1 @@
-var mnemonic = "make lawsuit idea impose fruit math refuse thank segment glory spawn acquire";
+var mnemonic = "provide relief increase medal true mimic stuff shoot toy vehicle half oval";

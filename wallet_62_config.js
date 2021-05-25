@@ -1,1 +1,1 @@
-var mnemonic = "drink lamp lamp hollow waste space can art dress upper jelly domain";
+var mnemonic = "birth salt agree oil book slam fog angry fiction review float squeeze";

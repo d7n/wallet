@@ -1,1 +1,1 @@
-var mnemonic = "knee idea slight ghost snap pencil wage extend balcony umbrella royal genre";
+var mnemonic = "phrase inquiry black process canoe amateur inner enrich enter cry purpose minor";

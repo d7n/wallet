@@ -1,1 +1,1 @@
-var mnemonic = "arrive degree prevent response able carbon midnight youth escape trophy original rail";
+var mnemonic = "helmet despair quick educate multiply surprise east ability account acoustic ocean truth";

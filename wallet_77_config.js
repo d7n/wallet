@@ -1,1 +1,1 @@
-var mnemonic = "term maze pretty card hobby skirt share rate crucial modify aim birth";
+var mnemonic = "slam kind front hood furnace error spatial tackle column ladder melt arrest";

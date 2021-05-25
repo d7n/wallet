@@ -1,1 +1,1 @@
-var mnemonic = "extra guitar zebra mind limit vivid depart friend bomb sketch involve sad";
+var mnemonic = "clap job oblige stand eagle mango lawn spare clay ethics pulp news";

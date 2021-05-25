@@ -1,1 +1,1 @@
-var mnemonic = "south rookie close foam toilet moment tag hip fee drive legend corn";
+var mnemonic = "dilemma zebra erosion curious street sorry push depend kangaroo victory random panther";

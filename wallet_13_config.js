@@ -1,1 +1,1 @@
-var mnemonic = "brisk search deposit slow mad manage trust minute garment toss seed measure";
+var mnemonic = "canyon energy assault ice husband price clip antenna explain genius domain impact";

@@ -1,1 +1,1 @@
-var mnemonic = "put ten poet nose travel churn tell sad harsh draw office boat";
+var mnemonic = "march tomato logic fish favorite lecture grape plastic other used pull depart";

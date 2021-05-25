@@ -1,1 +1,1 @@
-var mnemonic = "flame service roast field door vast family receive moral cream entire sword";
+var mnemonic = "furnace kangaroo victory inmate utility someone age fossil soda end cake invest";

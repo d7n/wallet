@@ -1,1 +1,1 @@
-var mnemonic = "repair bind come index bus input pool cake level sight job cousin";
+var mnemonic = "comic father enough congress inside pave solid salad clutch sphere lesson ask";

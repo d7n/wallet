@@ -1,1 +1,1 @@
-var mnemonic = "february mansion describe cry hamster advice grocery exit parade trust spike empower";
+var mnemonic = "domain skin grain denial vapor high sport you inside swift provide kiss";

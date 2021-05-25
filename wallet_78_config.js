@@ -1,1 +1,1 @@
-var mnemonic = "detail fancy cotton ramp joke truly ability confirm unlock deny lonely mystery";
+var mnemonic = "feature yard borrow honey garage cable glass oppose page trend blur sketch";

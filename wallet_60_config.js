@@ -1,1 +1,1 @@
-var mnemonic = "okay doll quit tortoise ridge educate often myth attract pioneer suspect bomb";
+var mnemonic = "organ leg bicycle enroll diamond year silly zebra exchange security blood vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "possible icon nothing plug supreme pizza rabbit above upon napkin drop globe";
+var mnemonic = "shy zero match target collect wink grid float envelope loop spell among";

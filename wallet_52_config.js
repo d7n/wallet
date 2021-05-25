@@ -1,1 +1,1 @@
-var mnemonic = "error dash ripple define young strike way bicycle uncover business crowd grass";
+var mnemonic = "faint naive depth concert clap summer close pledge noble later era again";

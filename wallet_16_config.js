@@ -1,1 +1,1 @@
-var mnemonic = "truth acquire junk valid mixed glue ahead material diet stone rhythm provide";
+var mnemonic = "level eyebrow enemy truck worth bottom sight response live guilt toy motor";

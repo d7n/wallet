@@ -1,1 +1,1 @@
-var mnemonic = "spice pretty slight cigar exact acquire extra abandon fatigue core crouch zone";
+var mnemonic = "mountain swallow gap income edge battle document what shallow upgrade toe congress";
