@@ -1,1 +1,1 @@
-var mnemonic = "dove pretty crater fine nasty mobile amazing simple ordinary lab excite salute";
+var mnemonic = "enroll moon inquiry thunder another fish virus leisure key armor view trophy";

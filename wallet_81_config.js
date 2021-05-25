@@ -1,1 +1,1 @@
-var mnemonic = "pulse firm similar indoor gun venture tree bird shove crisp floor extra";
+var mnemonic = "script reward oil century ripple milk corn seek tone similar input traffic";

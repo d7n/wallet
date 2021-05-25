@@ -1,1 +1,1 @@
-var mnemonic = "gown interest humble hybrid hero desk green arena crowd cricket furnace ticket";
+var mnemonic = "analyst involve stage smile elite write reunion social oxygen divert slow wish";

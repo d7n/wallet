@@ -1,1 +1,1 @@
-var mnemonic = "decade conduct script olive neck cat echo cross finger visit dragon pretty";
+var mnemonic = "appear shop garage peace ice claw hawk sure heavy walk trophy injury";

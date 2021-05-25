@@ -1,1 +1,1 @@
-var mnemonic = "slogan mandate squeeze laundry apology lyrics odor want second gain surface lobster";
+var mnemonic = "bomb question okay polar inflict faint loud just lift mother refuse squirrel";

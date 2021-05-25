@@ -1,1 +1,1 @@
-var mnemonic = "example hood useful world give leg owner nerve wealth push gate you";
+var mnemonic = "impact arctic hedgehog siren better genius elephant rapid praise tribe plastic belt";

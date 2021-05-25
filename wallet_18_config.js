@@ -1,1 +1,1 @@
-var mnemonic = "end rough garment hybrid bronze purchase floor demand bundle seminar lens sketch";
+var mnemonic = "define oak dream mystery sniff artefact hotel clean liquid bind ride hint";

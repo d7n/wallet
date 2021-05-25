@@ -1,1 +1,1 @@
-var mnemonic = "tape narrow sister pole rhythm supreme goat suit bench exchange solar proof";
+var mnemonic = "mandate possible develop attack crystal trial echo mixture cancel require shift gather";

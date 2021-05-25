@@ -1,1 +1,1 @@
-var mnemonic = "stove more wish damage beauty window nice quiz coil because announce silent";
+var mnemonic = "blush roof teach model fragile tail forget what guess throw monitor cave";

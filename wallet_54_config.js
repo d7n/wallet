@@ -1,1 +1,1 @@
-var mnemonic = "live today obscure liquid mirror kitchen begin lion pigeon tennis parade obvious";
+var mnemonic = "method muffin snow fitness pet expire kiss velvet crime coin catalog runway";

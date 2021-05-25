@@ -1,1 +1,1 @@
-var mnemonic = "little resemble other finish audit cloud sentence bone race cheap screen matrix";
+var mnemonic = "assault cattle bone faculty obvious exit asthma enough rhythm someone verb filter";

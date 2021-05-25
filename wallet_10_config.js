@@ -1,1 +1,1 @@
-var mnemonic = "april execute metal floor achieve annual present shop dog sample filter bulb";
+var mnemonic = "hello become pact length crystal direct lunch roof share increase regret hat";

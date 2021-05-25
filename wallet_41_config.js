@@ -1,1 +1,1 @@
-var mnemonic = "equip kangaroo ring umbrella priority soccer report luxury crop cart profit drive";
+var mnemonic = "wall portion pilot rural bullet invest dose code enact snack chaos fetch";

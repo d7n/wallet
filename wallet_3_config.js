@@ -1,1 +1,1 @@
-var mnemonic = "people crop three flame sibling negative fringe crucial dinner hip nerve share";
+var mnemonic = "meat easy armor recipe other shadow faculty script word network gown orange";

@@ -1,1 +1,1 @@
-var mnemonic = "predict depart good gorilla exclude neutral glass suggest very trap turtle merge";
+var mnemonic = "monitor year fetch moment empty swift laptop banner steel cart expose person";

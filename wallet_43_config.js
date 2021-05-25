@@ -1,1 +1,1 @@
-var mnemonic = "smile fee hover multiply west bamboo subject motor crop feed pig veteran";
+var mnemonic = "energy edge nuclear retire raccoon stamp brand response settle expose private silent";

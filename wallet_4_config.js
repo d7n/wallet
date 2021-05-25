@@ -1,1 +1,1 @@
-var mnemonic = "little melody broccoli bridge rail pizza tissue cradle achieve transfer sell crater";
+var mnemonic = "brush salute reveal dismiss cupboard reject pole lucky top fit nominee donate";

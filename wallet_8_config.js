@@ -1,1 +1,1 @@
-var mnemonic = "cute make jar odor quiz diagram inmate ten card shiver cluster arrive";
+var mnemonic = "ball labor banana update tumble relax art check emotion under budget mercy";

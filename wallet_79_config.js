@@ -1,1 +1,1 @@
-var mnemonic = "myself state bundle thrive labor thought orient grass pear life toward zero";
+var mnemonic = "danger cement spawn volume better derive bench around pizza identify humble sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "just pony drift mask grape sudden depth muffin text fatigue quantum clean";
+var mnemonic = "clock warfare firm weapon foot hope mass grit axis brave visual yard";

@@ -1,1 +1,1 @@
-var mnemonic = "hold elbow congress beef admit oblige parrot peanut very shed happy brass";
+var mnemonic = "vocal film enable duck hidden say congress lift deliver banner cattle lounge";

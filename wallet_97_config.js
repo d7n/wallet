@@ -1,1 +1,1 @@
-var mnemonic = "add window spoon inject scrub shoe shield father way guard morning spell";
+var mnemonic = "negative alter biology crane hard verify page unknown awful parrot fat solve";

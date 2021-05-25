@@ -1,1 +1,1 @@
-var mnemonic = "disorder desk napkin attract job parrot learn rival strong chest become drastic";
+var mnemonic = "parent boy what forum pulp cloud patrol talent stand trap rough lumber";

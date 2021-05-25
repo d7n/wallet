@@ -1,1 +1,1 @@
-var mnemonic = "canvas change ancient twist roof tower arctic combine era oxygen spin mutual";
+var mnemonic = "dignity round small blade gloom island pull deputy grunt moon relief approve";

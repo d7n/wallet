@@ -1,1 +1,1 @@
-var mnemonic = "client gown mutual faint bonus sick hedgehog vote furnace armor gold coach";
+var mnemonic = "people asset wealth total tide you kite fashion bridge december awake survey";

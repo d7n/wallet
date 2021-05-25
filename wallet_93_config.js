@@ -1,1 +1,1 @@
-var mnemonic = "lion cool carbon crush mandate laundry transfer bus novel normal stamp giant";
+var mnemonic = "fragile anxiety letter fold rose frown caught size mechanic venture able permit";

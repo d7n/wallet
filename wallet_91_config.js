@@ -1,1 +1,1 @@
-var mnemonic = "next comfort hover lady hunt book document lawsuit believe wrap frozen crystal";
+var mnemonic = "cradle ceiling effort dog boost time bike dance two random favorite mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler fresh people salmon figure apple situate wear voice tray only that";
+var mnemonic = "prize sport away family unknown reject swim clinic trophy ginger version leisure";

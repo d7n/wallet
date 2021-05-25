@@ -1,1 +1,1 @@
-var mnemonic = "desert quality rival stuff dutch guard vapor car blush sketch clip tiny";
+var mnemonic = "pottery math lady cycle main kick vibrant allow taxi session buffalo peanut";

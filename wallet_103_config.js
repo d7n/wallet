@@ -1,1 +1,1 @@
-var mnemonic = "skirt success later main blouse book drink excuse find rhythm case duty";
+var mnemonic = "surface hungry word wrap vicious smart nation coyote armed chimney tank own";

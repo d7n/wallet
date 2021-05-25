@@ -1,1 +1,1 @@
-var mnemonic = "medal fly code option charge cave hood swarm grab era rhythm ramp";
+var mnemonic = "member flag frost kingdom mystery day bench agent feed suffer zone bubble";

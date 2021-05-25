@@ -1,1 +1,1 @@
-var mnemonic = "organ glass provide shock extend lumber screen zebra rally security beyond client";
+var mnemonic = "sketch approve bunker empty vintage awful rocket bleak squeeze arm acoustic sustain";

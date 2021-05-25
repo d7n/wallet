@@ -1,1 +1,1 @@
-var mnemonic = "stone apology better carpet swear clarify mango length argue consider bachelor hill";
+var mnemonic = "sure ladder yellow brisk swarm antenna lunch frost cricket permit duty drink";

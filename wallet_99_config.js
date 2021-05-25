@@ -1,1 +1,1 @@
-var mnemonic = "rail phone together seat craft clap response little april video tomato inside";
+var mnemonic = "moment soldier caught blame captain lawsuit side junk sniff unusual expire uncle";

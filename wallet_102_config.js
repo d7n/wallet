@@ -1,1 +1,1 @@
-var mnemonic = "truth estate day dish tape bike robot crisp detect switch steel garment";
+var mnemonic = "approve relief giraffe praise silk holiday pupil coffee rail quick bundle know";

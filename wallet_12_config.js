@@ -1,1 +1,1 @@
-var mnemonic = "embrace gloom measure kite thought relax tourist genius divorce cost copy seek";
+var mnemonic = "helmet ensure diet renew excess hero kitten wall bamboo acid square once";

@@ -1,1 +1,1 @@
-var mnemonic = "verb open head dash height circle music wink few square ill denial";
+var mnemonic = "cargo mandate height pudding hub sing either emerge train portion sea process";

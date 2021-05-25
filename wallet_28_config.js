@@ -1,1 +1,1 @@
-var mnemonic = "slab farm wish lunch bulb napkin nice knife echo blast hazard suspect";
+var mnemonic = "special frozen bachelor usual clutch barrel dish injury increase okay jelly pistol";

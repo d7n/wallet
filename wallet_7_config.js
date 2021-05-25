@@ -1,1 +1,1 @@
-var mnemonic = "athlete junior twice age add hospital submit bubble ski grow brick gentle";
+var mnemonic = "lawsuit always vast engage tag harbor situate next eye acid culture weapon";

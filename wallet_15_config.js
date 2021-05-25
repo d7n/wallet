@@ -1,1 +1,1 @@
-var mnemonic = "drink enhance arm forest elder sail claw load upgrade lunch human affair";
+var mnemonic = "chest layer primary throw live drama balcony click power sing air cruel";

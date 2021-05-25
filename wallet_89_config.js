@@ -1,1 +1,1 @@
-var mnemonic = "oxygen feed infant three lend major angry daughter couple session album until";
+var mnemonic = "arrive envelope noble security glide remove blast neither trend super mixed minimum";

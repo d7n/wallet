@@ -1,1 +1,1 @@
-var mnemonic = "crop wealth swarm idea try twelve sample flower game rival three assume";
+var mnemonic = "ritual people sure bubble patrol satoshi unhappy chef miss vacant paddle glow";

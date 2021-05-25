@@ -1,1 +1,1 @@
-var mnemonic = "fog poem blur trick bonus yellow pool spoon sentence spirit apart flame";
+var mnemonic = "enough void dismiss into leaf pioneer twin reward spatial abandon nurse bounce";

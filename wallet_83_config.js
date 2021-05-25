@@ -1,1 +1,1 @@
-var mnemonic = "survey okay joy into reform cheese lottery screen night sea eternal sight";
+var mnemonic = "route excuse notice win piano plate suspect stamp version invite gate scene";

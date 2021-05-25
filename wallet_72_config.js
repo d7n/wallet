@@ -1,1 +1,1 @@
-var mnemonic = "bachelor nothing hood paper oyster hurt draw soldier prison flavor eagle slender";
+var mnemonic = "track crack fix rug arrow dinner plate spot glance enact music twelve";

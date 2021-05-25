@@ -1,1 +1,1 @@
-var mnemonic = "trap follow novel sentence initial auction enhance sport misery round pill buzz";
+var mnemonic = "educate nothing then company student attract permit party already call absent mobile";

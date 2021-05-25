@@ -1,1 +1,1 @@
-var mnemonic = "truly farm scissors attitude grow animal enhance giraffe lecture cannon grunt picnic";
+var mnemonic = "bench hurdle term pledge replace avocado purity number vapor method blur labor";

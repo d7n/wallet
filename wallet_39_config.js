@@ -1,1 +1,1 @@
-var mnemonic = "chair decrease viable talk gown garage brush coyote will lottery flip treat";
+var mnemonic = "fat trap frequent shallow else cool rude water page awful sort proof";

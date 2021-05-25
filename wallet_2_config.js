@@ -1,1 +1,1 @@
-var mnemonic = "bulb coyote glue rose spice oppose clock suffer broken gorilla ostrich bench";
+var mnemonic = "hazard scene until quick tunnel coffee recipe belt spatial pilot group ahead";

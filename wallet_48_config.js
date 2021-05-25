@@ -1,1 +1,1 @@
-var mnemonic = "boil surface clip crystal myself blind ugly tumble walk social special want";
+var mnemonic = "acoustic art shine silly silk mistake clutch eternal soldier top use shock";

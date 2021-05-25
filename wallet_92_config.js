@@ -1,1 +1,1 @@
-var mnemonic = "amused impose hedgehog walk lounge flavor expand carry subway negative under remain";
+var mnemonic = "box lazy private fetch crisp push wear exotic whip inside banner actual";

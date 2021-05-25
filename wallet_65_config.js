@@ -1,1 +1,1 @@
-var mnemonic = "rug evil busy quantum quote silent provide opinion security screen waste slogan";
+var mnemonic = "public viable repair busy forget oyster firm bleak certain judge museum marble";

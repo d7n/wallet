@@ -1,1 +1,1 @@
-var mnemonic = "mixed embrace whale daring gospel matter pulp dinosaur congress moral arch thunder";
+var mnemonic = "dirt cactus nothing humor slow pigeon thought onion wait power gather series";

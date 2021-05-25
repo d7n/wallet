@@ -1,1 +1,1 @@
-var mnemonic = "slogan poem aerobic jungle track phrase diamond garage fossil scorpion cinnamon ride";
+var mnemonic = "make galaxy soldier code dress need side grid modify balance deputy license";

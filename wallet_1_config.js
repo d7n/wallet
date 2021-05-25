@@ -1,1 +1,1 @@
-var mnemonic = "recall upgrade lake actual already syrup solar tattoo fragile veteran trigger table";
+var mnemonic = "weather misery bright final history aunt miracle dismiss child raven advice object";

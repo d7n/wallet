@@ -1,1 +1,1 @@
-var mnemonic = "ketchup guard merit wire behind agent marine hold tribe crisp glimpse focus";
+var mnemonic = "foil shoulder icon census bounce buffalo industry mechanic treat erase burst oppose";

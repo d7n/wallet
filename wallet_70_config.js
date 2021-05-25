@@ -1,1 +1,1 @@
-var mnemonic = "happy abstract box need famous sure captain assault pulp jacket client business";
+var mnemonic = "crystal desert picnic promote switch clinic rural dentist actual clog tobacco spirit";

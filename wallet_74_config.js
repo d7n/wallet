@@ -1,1 +1,1 @@
-var mnemonic = "hungry skate square bid planet organ peasant envelope length crawl ability add";
+var mnemonic = "song eagle scan message jewel cactus dream carpet tent icon spice initial";

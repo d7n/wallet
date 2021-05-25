@@ -1,1 +1,1 @@
-var mnemonic = "sunny guide spoil about chronic direct carpet drop artist much ethics coach";
+var mnemonic = "present update sweet together grass auction sad course dirt aisle enable spell";

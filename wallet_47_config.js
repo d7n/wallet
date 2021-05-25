@@ -1,1 +1,1 @@
-var mnemonic = "village network juice current already female hunt tissue require fly shadow raven";
+var mnemonic = "bounce maple melody learn scout change flock champion hold party seat easily";

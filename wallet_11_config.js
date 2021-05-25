@@ -1,1 +1,1 @@
-var mnemonic = "bring armor tackle rich female critic fitness behind recall pride supply uniform";
+var mnemonic = "advice basket sword promote tortoise lunar lift explain file farm top escape";

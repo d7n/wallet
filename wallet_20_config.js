@@ -1,1 +1,1 @@
-var mnemonic = "scrap bundle trade law system stuff pink opinion addict shy gain type";
+var mnemonic = "ladder office life hand end cabin alone happy wasp sing traffic coil";

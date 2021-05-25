@@ -1,1 +1,1 @@
-var mnemonic = "senior update ankle brick group grocery calm banana duty pitch ridge unhappy";
+var mnemonic = "weekend chair donkey safe fabric suit cluster divert category ritual buzz special";

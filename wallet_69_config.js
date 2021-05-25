@@ -1,1 +1,1 @@
-var mnemonic = "awkward angry injury pitch oven vanish trap before obtain shoulder good circle";
+var mnemonic = "safe slender special rifle purity thing any require badge city turkey buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "certain lamp success stadium thing comic there hip result solid near river";
+var mnemonic = "oyster flat lake crew cabin own certain dumb bench scale fence busy";

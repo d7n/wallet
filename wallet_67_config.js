@@ -1,1 +1,1 @@
-var mnemonic = "chief clean pink lyrics question material ship miracle magic bulb hurt gold";
+var mnemonic = "level mask all public follow receive obtain vicious creek special enjoy custom";

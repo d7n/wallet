@@ -1,1 +1,1 @@
-var mnemonic = "setup vessel bacon license timber pulp fault glue actual this gossip produce";
+var mnemonic = "bunker script canyon helmet chair rough author worth lake addict recipe snack";

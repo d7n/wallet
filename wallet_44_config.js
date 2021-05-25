@@ -1,1 +1,1 @@
-var mnemonic = "enable pyramid radio burst famous call subject party provide wood hold seminar";
+var mnemonic = "dolphin travel year outer fancy leg lemon funny crawl smart produce prepare";

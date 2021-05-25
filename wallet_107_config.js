@@ -1,1 +1,1 @@
-var mnemonic = "lyrics receive excuse inherit expand surround album join prosper agent worry slide";
+var mnemonic = "few hub kitchen dove hurry suffer spring output upgrade stem cover pull";

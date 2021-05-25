@@ -1,1 +1,1 @@
-var mnemonic = "travel camp assume onion minute measure strategy horse glass project end feature";
+var mnemonic = "noise wear live pig assume weird kitchen dizzy deal skirt wonder place";

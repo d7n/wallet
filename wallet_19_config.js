@@ -1,1 +1,1 @@
-var mnemonic = "midnight weird dentist bird skirt flame average kit prison thunder similar lonely";
+var mnemonic = "fee spy clutch wait globe village cloth give solve ticket oppose draft";

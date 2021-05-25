@@ -1,1 +1,1 @@
-var mnemonic = "reunion excess involve puppy chronic scrub cousin item improve dial bunker baby";
+var mnemonic = "race traffic priority kiwi split genuine pumpkin tower waste move aunt veteran";

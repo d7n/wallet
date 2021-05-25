@@ -1,1 +1,1 @@
-var mnemonic = "glance wheat public service south assume slender process monkey liquid maple coconut";
+var mnemonic = "conduct firm element path analyst hard next address use joy proof can";

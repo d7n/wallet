@@ -1,1 +1,1 @@
-var mnemonic = "melody supreme wear move organ anxiety priority fragile raven claim word struggle";
+var mnemonic = "frown say pull mad sugar gun ranch express antique disagree damage cake";

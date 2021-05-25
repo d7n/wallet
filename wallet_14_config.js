@@ -1,1 +1,1 @@
-var mnemonic = "humble embody crucial brown misery business coyote horse trash hat rocket base";
+var mnemonic = "best machine olive close settle during garbage tone dose alarm remind song";

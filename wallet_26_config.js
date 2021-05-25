@@ -1,1 +1,1 @@
-var mnemonic = "border original park anxiety music tattoo vicious noise certain napkin rebuild text";
+var mnemonic = "glove banner menu toilet bone ankle patient dragon merit garden tube vessel";

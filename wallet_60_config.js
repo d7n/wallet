@@ -1,1 +1,1 @@
-var mnemonic = "desk eight report people tragic empty floor test cactus torch donate custom";
+var mnemonic = "indoor rack broken proof trade fragile rubber snake food furnace urban million";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue dry private youth capital dutch relief stand document huge write amount";
+var mnemonic = "access bone caught video vessel truly desert sweet fragile subway brain truth";

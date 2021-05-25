@@ -1,1 +1,1 @@
-var mnemonic = "faint copy private teach close lion seat brave sell grace opera company";
+var mnemonic = "runway say promote lunch pulp early crane donor kit output spell shrug";

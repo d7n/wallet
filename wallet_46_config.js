@@ -1,1 +1,1 @@
-var mnemonic = "settle alley mango sadness radio exchange royal crush dragon bread pride north";
+var mnemonic = "inside toddler melody lucky clutch domain exist palm cycle piano wrong army";

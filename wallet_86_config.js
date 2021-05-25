@@ -1,1 +1,1 @@
-var mnemonic = "scheme success casual matrix hat carry benefit raven satisfy ice tiny mule";
+var mnemonic = "orchard robot visual concert series goose year rigid shoulder zero firm reunion";

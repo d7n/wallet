@@ -1,1 +1,1 @@
-var mnemonic = "home cement senior exhibit protect remind alpha float mesh remember slide twelve";
+var mnemonic = "eye alcohol future dream six tape olive mouse tail vacant reform essence";

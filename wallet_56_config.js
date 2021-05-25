@@ -1,1 +1,1 @@
-var mnemonic = "hobby coach frown buddy hundred cost jar brother elite daughter execute action";
+var mnemonic = "okay ivory material honey average faith level term figure stuff oven inhale";

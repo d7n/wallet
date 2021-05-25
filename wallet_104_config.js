@@ -1,1 +1,1 @@
-var mnemonic = "balance hunt fence electric hunt slender garlic dwarf knock chalk all proof";
+var mnemonic = "clown orchard shiver tide chronic profit stable page lion youth behave home";

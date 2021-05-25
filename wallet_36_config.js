@@ -1,1 +1,1 @@
-var mnemonic = "like flower tissue universe chef uncle slim inflict advance banner garage robust";
+var mnemonic = "evoke retire mixed bulk cat pistol caution tray busy jacket dolphin build";

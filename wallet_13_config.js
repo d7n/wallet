@@ -1,1 +1,1 @@
-var mnemonic = "rib code orient until pond accident siren light electric flavor grain sound";
+var mnemonic = "stock swift govern price afraid combine oil milk join siege earn rescue";

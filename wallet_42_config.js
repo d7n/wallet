@@ -1,1 +1,1 @@
-var mnemonic = "change garage obey entry library park bargain typical sweet melt energy journey";
+var mnemonic = "involve base pear total toe dance base morning ugly sweet virus cabin";

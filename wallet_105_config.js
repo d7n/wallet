@@ -1,1 +1,1 @@
-var mnemonic = "earn torch upon era task double forest lamp little buddy final gesture";
+var mnemonic = "arm test common list steel stuff bottom industry retreat quarter crane sure";

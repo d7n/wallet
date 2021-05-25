@@ -1,1 +1,1 @@
-var mnemonic = "wedding what clinic human supreme initial impact favorite grid car rice rug";
+var mnemonic = "top ability exchange amused youth border better style clog evolve scissors pipe";

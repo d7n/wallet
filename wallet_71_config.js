@@ -1,1 +1,1 @@
-var mnemonic = "polar liar jewel salt turn trick lobster youth wear unfair orange develop";
+var mnemonic = "vibrant never tail expand ugly unaware smile normal swap used wasp boil";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply taxi raw mixed adjust diet allow detect match oxygen illness obtain";
+var mnemonic = "art aware dilemma echo now shock health obey lunar wage auction mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth judge flame scissors region blur puppy eagle retreat country image later";
+var mnemonic = "find inject ask antenna bargain ranch various quote dry brain glimpse vapor";

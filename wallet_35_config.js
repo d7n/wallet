@@ -1,1 +1,1 @@
-var mnemonic = "outdoor track music client basket hat south seed slab same glimpse mechanic";
+var mnemonic = "drama humor news crime cargo social same defy accuse road ten glue";
