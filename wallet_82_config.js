@@ -1,1 +1,1 @@
-var mnemonic = "motion mule aisle inside solid until fitness together phrase stable sort sad";
+var mnemonic = "common family carbon clay pulp weasel hazard cherry tobacco cruise arrest cigar";

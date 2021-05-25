@@ -1,1 +1,1 @@
-var mnemonic = "glimpse night certain leader advance move trip sudden gentle tomorrow sudden left";
+var mnemonic = "reform pelican ridge clump remove nerve trade visa cart coach scare odor";

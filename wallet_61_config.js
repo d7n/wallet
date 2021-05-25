@@ -1,1 +1,1 @@
-var mnemonic = "pupil alert puzzle orphan anger summer ceiling reopen cancel property stock nature";
+var mnemonic = "dial vicious hello grid daring recycle cave pig faculty announce draft enter";

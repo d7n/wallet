@@ -1,1 +1,1 @@
-var mnemonic = "smart grunt subway feed biology prefer quarter banner test potato betray grit";
+var mnemonic = "large crowd sibling bronze canvas globe together detect planet crater power magic";

@@ -1,1 +1,1 @@
-var mnemonic = "rail shiver prize favorite gap equip arrest very gun fashion witness chef";
+var mnemonic = "stove brave favorite lab clap machine roof airport couple border size gift";

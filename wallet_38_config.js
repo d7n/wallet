@@ -1,1 +1,1 @@
-var mnemonic = "sword force pact wealth unable crane soup night sock ozone salon theme";
+var mnemonic = "crime network party replace mango run lamp spray myth estate push useless";

@@ -1,1 +1,1 @@
-var mnemonic = "dove brass fever fuel antique before uncle glory depart oppose planet clog";
+var mnemonic = "tonight horn mule treat impact ankle interest era guess right close output";

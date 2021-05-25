@@ -1,1 +1,1 @@
-var mnemonic = "again autumn ball avoid aunt robust flight actress scrub cash roof thrive";
+var mnemonic = "prize naive stumble tortoise cancel sibling sheriff front family thrive swing grab";

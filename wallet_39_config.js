@@ -1,1 +1,1 @@
-var mnemonic = "draw barely tool scrub sugar maple air great about category message drama";
+var mnemonic = "dirt display monster require slow kiwi renew whale ocean gift license swim";

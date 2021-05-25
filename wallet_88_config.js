@@ -1,1 +1,1 @@
-var mnemonic = "phrase nut reduce virus travel address increase kick bomb lottery own network";
+var mnemonic = "evoke try chief hub jazz veteran broccoli federal usual harvest point fury";

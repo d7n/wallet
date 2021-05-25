@@ -1,1 +1,1 @@
-var mnemonic = "ensure lazy science notable lion bird satisfy monitor loyal spread shield runway";
+var mnemonic = "brave together marriage husband music piece nice sausage sponsor argue awkward betray";

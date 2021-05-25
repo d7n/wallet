@@ -1,1 +1,1 @@
-var mnemonic = "wedding raise garden obtain pond diesel middle junior stamp blind rose banana";
+var mnemonic = "fatal army pelican regular drive type address blue horror cruel theory claim";

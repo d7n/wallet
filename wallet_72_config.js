@@ -1,1 +1,1 @@
-var mnemonic = "good cotton bag adjust public candy furnace sausage garage clown mention lumber";
+var mnemonic = "absorb guilt citizen grant half deposit icon legend wine rabbit ball size";

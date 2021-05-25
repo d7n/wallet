@@ -1,1 +1,1 @@
-var mnemonic = "fashion sing vehicle bridge dutch sound grocery clog album clip distance client";
+var mnemonic = "diesel monkey spin grit become ancient sell pipe occur language runway chimney";

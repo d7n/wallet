@@ -1,1 +1,1 @@
-var mnemonic = "orange tragic husband assume add random obvious stomach device twenty almost scale";
+var mnemonic = "nephew chronic tomato choose purpose elite borrow idle plate rigid manual pencil";

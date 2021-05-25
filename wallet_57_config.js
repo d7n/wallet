@@ -1,1 +1,1 @@
-var mnemonic = "frog quick undo spare citizen pledge fever spoil reveal dove violin swear";
+var mnemonic = "call cage apart sustain safe kind divert club sort network error forget";

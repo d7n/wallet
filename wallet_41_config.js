@@ -1,1 +1,1 @@
-var mnemonic = "whale unfair arrow few grant denial stage drum episode card pumpkin affair";
+var mnemonic = "mixture noble goose frequent lucky speak solve swamp offer humor evoke exhibit";

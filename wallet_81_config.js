@@ -1,1 +1,1 @@
-var mnemonic = "useful logic accident crazy consider surround inhale sketch vapor fold stuff field";
+var mnemonic = "bag cost pair boy body network zoo sadness unable fantasy country diet";

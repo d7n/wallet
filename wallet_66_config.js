@@ -1,1 +1,1 @@
-var mnemonic = "divert price social rose shed mention earth model north tissue trick identify";
+var mnemonic = "chase zebra raccoon glass post you option window raise hello garlic action";

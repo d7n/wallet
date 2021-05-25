@@ -1,1 +1,1 @@
-var mnemonic = "lamp priority upon adjust dinosaur beauty minimum crash cat recipe fringe maple";
+var mnemonic = "vague enact enlist stem panther trigger monkey obvious dice nation pluck fuel";

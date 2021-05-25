@@ -1,1 +1,1 @@
-var mnemonic = "ugly supply head giraffe glow filter apology safe muscle alpha seminar round";
+var mnemonic = "fix depend earth shiver alcohol bulk matter entire forget canyon weekend voice";

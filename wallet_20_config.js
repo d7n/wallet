@@ -1,1 +1,1 @@
-var mnemonic = "cute horror inmate brief atom worry multiply field render nature slab whip";
+var mnemonic = "ride gauge worth quarter mix original initial frame depth mango grocery dash";

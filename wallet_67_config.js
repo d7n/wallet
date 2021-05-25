@@ -1,1 +1,1 @@
-var mnemonic = "now always dash health call denial rose spoil abstract foot cargo move";
+var mnemonic = "speak flush pond leopard rebuild review judge add sphere way drop twenty";

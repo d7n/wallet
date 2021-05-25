@@ -1,1 +1,1 @@
-var mnemonic = "fortune umbrella roast promote supply critic hair jacket artwork review kid saddle";
+var mnemonic = "rack final term surprise about label leader enjoy genre idea anxiety milk";

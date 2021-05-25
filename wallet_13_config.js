@@ -1,1 +1,1 @@
-var mnemonic = "orient ginger olive rice stable tube tunnel table hundred fly ancient room";
+var mnemonic = "fiber chronic valve fame length original palm illness outer sand reward glare";

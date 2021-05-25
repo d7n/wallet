@@ -1,1 +1,1 @@
-var mnemonic = "truck exchange wing nerve heart involve bus indoor camp cruise across inspire";
+var mnemonic = "area also maze float lady envelope shine addict release blouse wheat sugar";

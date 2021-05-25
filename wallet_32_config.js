@@ -1,1 +1,1 @@
-var mnemonic = "meadow giant raccoon square gasp bubble crawl buzz legal search hair shallow";
+var mnemonic = "blast advice wedding vendor sand album quiz giraffe reopen eyebrow bridge exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "chief when exercise network post affair amateur jacket wrist aunt drive color";
+var mnemonic = "fortune hub tennis supreme forward agree window scare depend elbow knife artefact";

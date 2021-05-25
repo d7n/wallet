@@ -1,1 +1,1 @@
-var mnemonic = "bar phrase voice embrace sick side air leopard subject property unfair cruel";
+var mnemonic = "brain fox glory current same gain blue syrup kind meadow clock vicious";

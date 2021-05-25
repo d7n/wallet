@@ -1,1 +1,1 @@
-var mnemonic = "guard concert report chuckle helmet rug few ahead sunset color brisk expect";
+var mnemonic = "prize silk puzzle emotion bonus helmet already morning item pioneer spy action";

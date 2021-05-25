@@ -1,1 +1,1 @@
-var mnemonic = "gesture million orient romance anchor skate view claim egg middle betray strike";
+var mnemonic = "scatter action rabbit sure column exhaust analyst dynamic utility film obscure detect";

@@ -1,1 +1,1 @@
-var mnemonic = "fury usage time rib adult garment will detail great daring six reveal";
+var mnemonic = "more adult hat boss bone goose oppose attract token wood bullet patch";

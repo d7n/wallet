@@ -1,1 +1,1 @@
-var mnemonic = "direct fame kidney turtle exact mimic open legend father window garage item";
+var mnemonic = "nut version buddy omit climb clever tag opera develop bright trust fragile";

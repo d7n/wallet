@@ -1,1 +1,1 @@
-var mnemonic = "material message electric tobacco fix sand check afraid mixture domain donor hundred";
+var mnemonic = "time void perfect toast avocado fragile sure useful equip cricket mule cook";

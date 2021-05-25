@@ -1,1 +1,1 @@
-var mnemonic = "annual accuse away ghost first movie fat leaf bachelor curtain today lock";
+var mnemonic = "castle gun into fringe remove buzz forest coffee flee toast split wrist";

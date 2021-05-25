@@ -1,1 +1,1 @@
-var mnemonic = "imitate claw net moment ostrich nuclear shield tiny feel burst throw follow";
+var mnemonic = "daring stem virus image attitude scene speed napkin unique violin into vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "spin forward again dentist distance clinic pupil stone future unveil donkey steak";
+var mnemonic = "collect demand net amount filter sunny kid dilemma blanket display breeze want";

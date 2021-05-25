@@ -1,1 +1,1 @@
-var mnemonic = "deliver wait time radio robust lizard differ average power march farm nothing";
+var mnemonic = "hedgehog cart oxygen dove inherit turtle suit secret fossil parent wet oil";

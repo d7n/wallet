@@ -1,1 +1,1 @@
-var mnemonic = "gift picture meat april admit plug buddy grace today region extra toy";
+var mnemonic = "own degree torch hedgehog raven square obscure doll unique purpose index gas";

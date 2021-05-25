@@ -1,1 +1,1 @@
-var mnemonic = "mobile nice earth modify oven clown betray illegal vast sketch kick artist";
+var mnemonic = "obvious virtual chimney old taxi insect rhythm when net nothing icon chest";

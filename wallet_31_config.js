@@ -1,1 +1,1 @@
-var mnemonic = "nasty fox wood ozone brain merge bike liberty cigar immune item furnace";
+var mnemonic = "wisdom there museum notice omit dwarf thunder lend entire ride cheese derive";

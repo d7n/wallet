@@ -1,1 +1,1 @@
-var mnemonic = "another clerk napkin home gesture kangaroo lend check dwarf celery path unhappy";
+var mnemonic = "coin ski super fabric hedgehog puzzle danger artwork destroy captain consider company";

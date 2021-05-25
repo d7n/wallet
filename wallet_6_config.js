@@ -1,1 +1,1 @@
-var mnemonic = "dragon old arrange length barely organ disease satoshi horse keep rally wear";
+var mnemonic = "summer anger thunder unhappy outside abstract circle exile emerge veteran shoot smart";

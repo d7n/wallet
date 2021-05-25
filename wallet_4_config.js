@@ -1,1 +1,1 @@
-var mnemonic = "seminar need shock flame also accident hand scheme alpha inspire mule junk";
+var mnemonic = "bonus swarm fee afraid almost keen exhibit cave tell despair pipe short";

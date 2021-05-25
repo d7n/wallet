@@ -1,1 +1,1 @@
-var mnemonic = "uphold position race unusual ensure demise service shoot two mention outdoor develop";
+var mnemonic = "tent online elegant elite rare blossom result other duck rubber monkey produce";

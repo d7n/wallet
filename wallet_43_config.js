@@ -1,1 +1,1 @@
-var mnemonic = "three apple mean goose indoor memory lens leader wagon volcano lake confirm";
+var mnemonic = "chair result tuition exile random quiz burden hand dog fire boil blue";

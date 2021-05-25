@@ -1,1 +1,1 @@
-var mnemonic = "stove expire parade music height garbage wreck pudding verify maid ancient average";
+var mnemonic = "faith nerve pass satoshi brisk monitor alien happy bless vague panther next";

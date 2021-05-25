@@ -1,1 +1,1 @@
-var mnemonic = "monkey fruit solid crime domain open puppy visit bless merge bag inspire";
+var mnemonic = "pink cereal mushroom marble surround deposit blanket inflict liberty phrase man lesson";

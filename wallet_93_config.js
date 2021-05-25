@@ -1,1 +1,1 @@
-var mnemonic = "much year turtle trouble disagree mountain sketch often error opera pumpkin hat";
+var mnemonic = "usage pudding bulb silver egg become social bomb sick satoshi pause calm";

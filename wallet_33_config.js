@@ -1,1 +1,1 @@
-var mnemonic = "very neglect awesome depend blur tilt unusual van filter squirrel emerge prefer";
+var mnemonic = "absent giant donate wet fade prison install solid exercise borrow capital promote";

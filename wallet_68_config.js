@@ -1,1 +1,1 @@
-var mnemonic = "obey ribbon balance dawn object open scare garage banner ready above join";
+var mnemonic = "spring silly dirt involve gravity clock solar exercise rebuild use ritual toast";

@@ -1,1 +1,1 @@
-var mnemonic = "area seat vacuum replace range easy bundle snap collect pipe fabric donor";
+var mnemonic = "limb genre cruel roof steak document sphere chalk exercise speak taxi journey";

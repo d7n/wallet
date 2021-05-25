@@ -1,1 +1,1 @@
-var mnemonic = "ask face water marriage marriage leopard term casino foster praise walnut morning";
+var mnemonic = "elite virtual daring utility inside solar feel unable hollow club pact sun";

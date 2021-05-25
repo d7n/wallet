@@ -1,1 +1,1 @@
-var mnemonic = "gossip glare salad present idle match actual bleak clever vacant beach radio";
+var mnemonic = "ethics uphold maximum pony initial ridge enact lamp snack predict average property";

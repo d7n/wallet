@@ -1,1 +1,1 @@
-var mnemonic = "sport flame rely mixture custom cake teach repair smooth tuna oval dignity";
+var mnemonic = "off violin funny amazing impose brass blood symbol moment village elbow rack";

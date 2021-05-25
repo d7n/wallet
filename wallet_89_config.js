@@ -1,1 +1,1 @@
-var mnemonic = "boat vessel trumpet false twenty two army draft visit sorry horror company";
+var mnemonic = "private bid east crawl deliver accuse test miracle practice describe rain lamp";

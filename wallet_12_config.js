@@ -1,1 +1,1 @@
-var mnemonic = "thrive unusual police order source situate large dawn uncover dynamic crazy fall";
+var mnemonic = "gasp journey actress globe swim pattern wink display boat iron april law";

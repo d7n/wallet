@@ -1,1 +1,1 @@
-var mnemonic = "fat devote food aunt jump copper because solar city manual muscle subway";
+var mnemonic = "drastic carbon reform guess nature vibrant target welcome story wrestle flush recall";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare still there globe cat annual always shallow saddle load illegal unfold";
+var mnemonic = "polar lemon audit swamp equip attend cotton dress close ostrich sing orient";

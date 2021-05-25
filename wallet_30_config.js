@@ -1,1 +1,1 @@
-var mnemonic = "mass twenty dust loop fetch thing wolf priority shield crime visual abandon";
+var mnemonic = "inherit holiday math enhance friend club toss veteran awake erupt answer lend";

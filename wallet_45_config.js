@@ -1,1 +1,1 @@
-var mnemonic = "scale amused tide digital coin photo upon name sunny rabbit hero fresh";
+var mnemonic = "dune ceiling payment gesture simple legal eyebrow earn hero win brush else";

@@ -1,1 +1,1 @@
-var mnemonic = "you firm language shed morning bunker october donate innocent broom tumble deputy";
+var mnemonic = "pact wool mind struggle proud enhance rifle road transfer brisk winner animal";

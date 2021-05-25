@@ -1,1 +1,1 @@
-var mnemonic = "wreck wait alert damp tiger spatial equip cactus rural boy liberty cost";
+var mnemonic = "detect submit high balcony fold animal buddy gasp strike elder feel outer";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy auto oval hero grain modify display train season virus lemon stove";
+var mnemonic = "nominee diesel identify peanut loud assist saddle regret wealth endorse act result";

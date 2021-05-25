@@ -1,1 +1,1 @@
-var mnemonic = "chapter march present heart depth indicate inmate game congress pluck vanish pond";
+var mnemonic = "steak joy aerobic current kitten alley purchase fancy match side grass portion";

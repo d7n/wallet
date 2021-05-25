@@ -1,1 +1,1 @@
-var mnemonic = "tank fish retreat fluid horn whisper drill ball gentle enroll scale sausage";
+var mnemonic = "moon dinner calm west fun depart scheme must eagle message slide salon";

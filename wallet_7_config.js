@@ -1,1 +1,1 @@
-var mnemonic = "either method arm cram cheese insect topic brain good useful game gate";
+var mnemonic = "fall design shop pencil frozen organ sauce can disagree subway voyage help";

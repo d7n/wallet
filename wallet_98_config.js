@@ -1,1 +1,1 @@
-var mnemonic = "put syrup nominee amazing indicate apart time enable effort position issue globe";
+var mnemonic = "snap ice visit path civil mirror task bleak lounge maid access rookie";

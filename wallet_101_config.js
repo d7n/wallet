@@ -1,1 +1,1 @@
-var mnemonic = "list bicycle virtual vanish verb father help gasp world blame start adult";
+var mnemonic = "trip receive stove blood weapon biology city target depend dumb fault side";

@@ -1,1 +1,1 @@
-var mnemonic = "diet inhale vanish scatter prize brown fuel pipe decrease pool disease vote";
+var mnemonic = "network duty wrong muffin slide digital sugar trap devote cat poet neutral";

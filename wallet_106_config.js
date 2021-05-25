@@ -1,1 +1,1 @@
-var mnemonic = "dawn catalog kid hurry toilet accuse gospel episode sorry exit glare unable";
+var mnemonic = "input matrix clock volcano wing cheese knife swamp always point solar budget";

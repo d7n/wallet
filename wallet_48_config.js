@@ -1,1 +1,1 @@
-var mnemonic = "reward early goat relax quick trial sorry session tackle vacuum meat cook";
+var mnemonic = "buyer patient normal cruise lend pill regret pupil ginger youth gap magnet";

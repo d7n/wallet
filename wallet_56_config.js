@@ -1,1 +1,1 @@
-var mnemonic = "favorite donor control gold scatter effort source stable mesh victory wire noble";
+var mnemonic = "gadget melt rocket shoulder lottery hazard tag toss spring swarm glad front";

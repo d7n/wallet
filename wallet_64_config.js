@@ -1,1 +1,1 @@
-var mnemonic = "room confirm seat once concert bench rocket sketch junior apple easily ladder";
+var mnemonic = "milk skirt laundry come aisle merit master under marble define gallery letter";

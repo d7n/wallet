@@ -1,1 +1,1 @@
-var mnemonic = "radar brief miss fish glide gift cart infant adjust tide fit cushion";
+var mnemonic = "blame robust flip simple fiction label vendor until reward palm miracle dial";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire pyramid best matter jungle gun valve want rally piece cotton click";
+var mnemonic = "clarify dog season cake income crack improve laugh detail quote address trophy";

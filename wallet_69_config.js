@@ -1,1 +1,1 @@
-var mnemonic = "mistake tool palace baby permit flock rival cake sail whale head usage";
+var mnemonic = "mule axis jacket father scare forest blood inside relax early wrist wish";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket broom trap happy camp upon fiction pepper moon vocal tuna fault";
+var mnemonic = "faculty fuel device you vintage ice rain local goose chase sound attract";

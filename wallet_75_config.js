@@ -1,1 +1,1 @@
-var mnemonic = "thrive oil glad purpose adjust trim saddle much autumn type orange across";
+var mnemonic = "alpha expire eye vacuum dawn slim abandon humor elegant shed winter rifle";

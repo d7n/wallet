@@ -1,1 +1,1 @@
-var mnemonic = "bind stand comfort dynamic tail soccer now idle win barrel hire picnic";
+var mnemonic = "arrange zone reopen crane dwarf alone pluck skate fat keep define island";

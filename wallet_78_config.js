@@ -1,1 +1,1 @@
-var mnemonic = "kingdom uncover simple lamp bar dress order pair harvest december valid volcano";
+var mnemonic = "path drip undo course crush smoke choose file unusual width gym alien";

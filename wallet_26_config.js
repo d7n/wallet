@@ -1,1 +1,1 @@
-var mnemonic = "virus length exhibit trim lecture ensure balance omit siege festival quarter sad";
+var mnemonic = "correct involve dad catch divorce velvet inhale heavy volume lesson brave unit";

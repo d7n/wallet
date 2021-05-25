@@ -1,1 +1,1 @@
-var mnemonic = "piano pizza inside tenant bounce buffalo voyage ghost banner quarter gravity often";
+var mnemonic = "oppose afraid day salt nuclear blast govern bind mule seminar rapid foam";

@@ -1,1 +1,1 @@
-var mnemonic = "pony sport dune sense lottery champion seat reunion often miss quarter absent";
+var mnemonic = "clean capable earth unusual hawk release gain latin morning relief better push";

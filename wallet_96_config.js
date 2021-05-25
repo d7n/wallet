@@ -1,1 +1,1 @@
-var mnemonic = "shoulder bread bomb much tissue card plate famous next indicate write boring";
+var mnemonic = "pet family perfect attack champion arena wonder blind trade tell slice beauty";

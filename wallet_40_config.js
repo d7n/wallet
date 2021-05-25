@@ -1,1 +1,1 @@
-var mnemonic = "predict domain tool work switch add leopard sniff either knife add crew";
+var mnemonic = "balcony weapon tuna giant mixed document naive chat puzzle quick illness best";

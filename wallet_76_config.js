@@ -1,1 +1,1 @@
-var mnemonic = "nerve allow faint pull wheel museum actor order large suffer gauge unit";
+var mnemonic = "puzzle innocent pride pair clarify glide loan taxi flag hello consider quote";

@@ -1,1 +1,1 @@
-var mnemonic = "client leader tree vibrant cloth exact hole snap subject flavor corn mistake";
+var mnemonic = "vault nothing trouble know excuse tiger face mother disease defense share cart";

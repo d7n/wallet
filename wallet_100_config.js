@@ -1,1 +1,1 @@
-var mnemonic = "kite cluster capital giraffe daughter achieve stuff insect odor cool orchard oppose";
+var mnemonic = "boil gallery marble tuna scissors wide exist fire stem hire garage special";

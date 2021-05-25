@@ -1,1 +1,1 @@
-var mnemonic = "vivid mean wave photo host purpose dignity bunker excite please chase army";
+var mnemonic = "clap tone virus palm exotic piano cherry heart logic never glad core";
