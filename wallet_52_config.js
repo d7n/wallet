@@ -1,1 +1,1 @@
-var mnemonic = "annual denial river help sport fatal already zoo betray recall glare you";
+var mnemonic = "fan awful item float awkward stomach source desert assume top cook cradle";

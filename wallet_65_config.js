@@ -1,1 +1,1 @@
-var mnemonic = "skull penalty tunnel amateur decide involve force crumble fox tired chimney very";
+var mnemonic = "domain neck leave obey put apart paper code suggest license swamp piano";

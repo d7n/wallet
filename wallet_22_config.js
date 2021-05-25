@@ -1,1 +1,1 @@
-var mnemonic = "mail luxury replace acid ancient know hope width crawl humble pact medal";
+var mnemonic = "flee opera merge thrive almost donkey boy obtain rely unknown trick awake";

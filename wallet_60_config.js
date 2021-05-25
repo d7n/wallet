@@ -1,1 +1,1 @@
-var mnemonic = "fun normal soft silver barrel record casual social warfare moon aspect segment";
+var mnemonic = "small fringe forward rescue night album warrior monkey federal bachelor child wall";

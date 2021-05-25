@@ -1,1 +1,1 @@
-var mnemonic = "air female cupboard grain tired umbrella betray person number honey card volume";
+var mnemonic = "announce danger ecology pull zoo salon mushroom rib wave struggle wear strategy";

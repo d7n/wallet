@@ -1,1 +1,1 @@
-var mnemonic = "eagle abuse range rare lesson apology choose gauge trial meadow valid trigger";
+var mnemonic = "cereal undo claim fury candy sure inquiry exotic zebra match raw spoon";

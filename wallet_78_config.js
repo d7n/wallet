@@ -1,1 +1,1 @@
-var mnemonic = "object diagram affair pink fantasy street ancient across chaos oxygen wasp wool";
+var mnemonic = "crowd obtain host nothing oval parent hill rain win comic ability oven";

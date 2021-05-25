@@ -1,1 +1,1 @@
-var mnemonic = "tired neutral elevator adjust drama subject trust brain index float auction act";
+var mnemonic = "panic phrase include toddler eyebrow canvas ritual attend truly aware oil prosper";

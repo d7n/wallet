@@ -1,1 +1,1 @@
-var mnemonic = "debris assume salmon desk rich snow bachelor wreck debate electric cry step";
+var mnemonic = "perfect achieve little disease type divorce gravity demand leopard surge spend fatal";

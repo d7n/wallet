@@ -1,1 +1,1 @@
-var mnemonic = "stadium toss scrub cinnamon night inch absent alarm often note able allow";
+var mnemonic = "brand image bounce push half genre crisp police awake vote second arrive";

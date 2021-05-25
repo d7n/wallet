@@ -1,1 +1,1 @@
-var mnemonic = "erase come sunset table gauge junior hurry undo icon twice circle duck";
+var mnemonic = "parade fancy impose shove initial vapor runway vibrant ball muffin chair buyer";

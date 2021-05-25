@@ -1,1 +1,1 @@
-var mnemonic = "beach stable top clutch evil holiday crew pizza step manage bridge strategy";
+var mnemonic = "wonder shop badge sphere mobile damp smoke dry unaware stand rose tilt";

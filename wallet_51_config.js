@@ -1,1 +1,1 @@
-var mnemonic = "giggle vivid business zebra confirm muscle valley direct royal file letter video";
+var mnemonic = "suspect cup icon wrist razor ship breeze evolve horror shrug table kidney";

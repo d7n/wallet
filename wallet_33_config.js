@@ -1,1 +1,1 @@
-var mnemonic = "elite hidden stem increase rifle brass already author aerobic any vintage lend";
+var mnemonic = "another drill order borrow drop climb fade clap fruit pipe wine unknown";

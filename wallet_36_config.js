@@ -1,1 +1,1 @@
-var mnemonic = "marine plastic volume chicken delay orphan orchard fruit version company adult basic";
+var mnemonic = "galaxy apart bargain asset rough clever deliver fitness soft young canvas remind";

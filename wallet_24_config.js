@@ -1,1 +1,1 @@
-var mnemonic = "viable journey taxi very snack promote usage dragon panel ceiling sing close";
+var mnemonic = "upper blossom dizzy blouse metal vendor stumble cart cake wave spy flock";

@@ -1,1 +1,1 @@
-var mnemonic = "sword expect nut long letter zebra april brother situate cause robot cart";
+var mnemonic = "machine actor dry siege steak awake indoor dance robust focus shell blanket";

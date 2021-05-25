@@ -1,1 +1,1 @@
-var mnemonic = "ignore spirit green tape pave divert feature define lemon deny spawn end";
+var mnemonic = "gown humor across maple multiply carpet embark can spy pizza shuffle toy";

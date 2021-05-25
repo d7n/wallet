@@ -1,1 +1,1 @@
-var mnemonic = "south primary link major surge tired version expect lizard humor spot water";
+var mnemonic = "dragon train card subway noble group brave initial top car elephant bulb";

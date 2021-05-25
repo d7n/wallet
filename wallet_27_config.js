@@ -1,1 +1,1 @@
-var mnemonic = "embrace estate robust error useful long regular biology tone hidden giant cousin";
+var mnemonic = "over snack crew maximum dolphin opinion either pave cart remember broken you";

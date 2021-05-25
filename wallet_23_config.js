@@ -1,1 +1,1 @@
-var mnemonic = "siren tobacco smile plate huge chair good mountain regular thought tobacco cube";
+var mnemonic = "below bike desk friend fade casino smile expect copper mouse bread address";

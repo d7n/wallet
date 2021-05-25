@@ -1,1 +1,1 @@
-var mnemonic = "month toast erupt faculty payment crouch acquire butter twist globe panther around";
+var mnemonic = "time paddle answer rude filter nice above remember miracle coral erase section";

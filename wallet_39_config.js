@@ -1,1 +1,1 @@
-var mnemonic = "reduce pudding guilt call away elite ridge nature bracket loyal camp remain";
+var mnemonic = "door metal know mansion multiply lady pencil undo either prosper fury assist";

@@ -1,1 +1,1 @@
-var mnemonic = "friend middle payment buddy long resource identify run sponsor rice split domain";
+var mnemonic = "mosquito journey dash benefit beauty note victory team border silly silk garden";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery sphere sorry moment fossil they donor calm note fury actual early";
+var mnemonic = "attend good flash defy street net draw coffee cover express toast coffee";

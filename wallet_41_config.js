@@ -1,1 +1,1 @@
-var mnemonic = "rival shove guess tilt cupboard hip bracket confirm patch unlock crane few";
+var mnemonic = "stumble ozone exile forest cute globe popular lamp claw appear over rely";

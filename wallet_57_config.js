@@ -1,1 +1,1 @@
-var mnemonic = "cart priority choice affair inject drum field grit unaware light play quality";
+var mnemonic = "ceiling volume cruise core flock such seed edge little flee blush sugar";

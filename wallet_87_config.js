@@ -1,1 +1,1 @@
-var mnemonic = "bike reward artist paper follow stable smooth lonely mansion layer draft correct";
+var mnemonic = "patrol pony feed inner defy fashion broccoli picnic taste steak together remain";

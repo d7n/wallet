@@ -1,1 +1,1 @@
-var mnemonic = "eternal spirit uncle entire draw gold weapon satisfy bean same little forget";
+var mnemonic = "draft balance merge scheme boss start ride donor over couch valley zebra";

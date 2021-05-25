@@ -1,1 +1,1 @@
-var mnemonic = "abuse buyer open slot hope claw job space bright valid trust choose";
+var mnemonic = "relax company staff flock now cloth forward boil tower aerobic sad staff";

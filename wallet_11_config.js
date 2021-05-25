@@ -1,1 +1,1 @@
-var mnemonic = "recall insect jewel tenant mistake boat trick heart crisp dragon lens dust";
+var mnemonic = "section margin oven sock question entry thrive vintage silent elevator achieve return";

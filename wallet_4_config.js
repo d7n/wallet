@@ -1,1 +1,1 @@
-var mnemonic = "tornado jealous modify night dutch deal crunch fun steak runway gun february";
+var mnemonic = "dumb annual during fog toss absorb educate alcohol nerve victory obey bunker";

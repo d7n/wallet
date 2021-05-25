@@ -1,1 +1,1 @@
-var mnemonic = "possible unusual toast bring photo banner already drama define marble elegant topple";
+var mnemonic = "liar hope obvious plug sniff various lonely decade sustain hurdle ship timber";

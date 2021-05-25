@@ -1,1 +1,1 @@
-var mnemonic = "average robust custom ramp oppose tragic thrive fat half hotel orphan stick";
+var mnemonic = "hobby vicious assist position wood shop change gym drill bitter eye human";

@@ -1,1 +1,1 @@
-var mnemonic = "december jealous just couch donor giraffe park fringe heavy chef cabbage duty";
+var mnemonic = "foot fit pyramid frown gorilla doll host sign will old put rough";

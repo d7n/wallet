@@ -1,1 +1,1 @@
-var mnemonic = "letter ship radar guess insane around repeat ten hundred join spin they";
+var mnemonic = "clump crumble stand feed flash outer any range fragile claim rely unhappy";

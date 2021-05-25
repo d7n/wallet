@@ -1,1 +1,1 @@
-var mnemonic = "icon yard antique equip embody civil lesson keep candy include sheriff noodle";
+var mnemonic = "choose second dismiss favorite deal welcome fault response pen dust silent cinnamon";

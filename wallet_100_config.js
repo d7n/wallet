@@ -1,1 +1,1 @@
-var mnemonic = "orbit over that peace embody alley include sea claw message update crater";
+var mnemonic = "solve wild quantum success banner item crawl warrior foster visit firm blast";

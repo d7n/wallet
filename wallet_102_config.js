@@ -1,1 +1,1 @@
-var mnemonic = "orphan vicious thank caught spoon focus october draw candy describe pass coyote";
+var mnemonic = "injury echo cheap strategy exit know again focus retreat term begin unveil";

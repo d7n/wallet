@@ -1,1 +1,1 @@
-var mnemonic = "arrive target void flat alien patch climb blood pear craft certain trade";
+var mnemonic = "already route century dry elite inch peanut nurse blind promote world simple";

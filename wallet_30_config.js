@@ -1,1 +1,1 @@
-var mnemonic = "mother crazy dash arrange plunge exotic move range shy awake media fork";
+var mnemonic = "ramp daring reject link inside total edit now purity arrow bundle arch";

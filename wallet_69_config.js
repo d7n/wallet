@@ -1,1 +1,1 @@
-var mnemonic = "divorce yard canoe hollow arrest truck column fury sketch elevator item twice";
+var mnemonic = "busy carry faculty quote goddess club turn river sauce depth stamp scare";

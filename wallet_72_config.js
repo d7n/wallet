@@ -1,1 +1,1 @@
-var mnemonic = "program clean into claw slide unveil visual easy false wide opinion excess";
+var mnemonic = "rapid ribbon route siege obscure winter toward order dust potato photo win";

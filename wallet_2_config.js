@@ -1,1 +1,1 @@
-var mnemonic = "term alpha sad lunar pear cloud aware tortoise fluid lawsuit embark gossip";
+var mnemonic = "chapter size gold leaf confirm kick swarm obscure caution exhibit chicken flat";

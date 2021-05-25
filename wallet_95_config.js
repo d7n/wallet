@@ -1,1 +1,1 @@
-var mnemonic = "begin giraffe rate core rice boost tiny all bomb unique retreat acoustic";
+var mnemonic = "laugh sentence hair sell author unusual space oyster afford december laugh level";

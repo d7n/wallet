@@ -1,1 +1,1 @@
-var mnemonic = "medal chalk rigid excuse cycle elegant belt rural loud rural sting social";
+var mnemonic = "catalog risk raccoon job vapor extra term setup supreme rough clever supreme";

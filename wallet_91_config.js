@@ -1,1 +1,1 @@
-var mnemonic = "glue okay this garlic lawsuit devote tree change prosper train palace cancel";
+var mnemonic = "gown dilemma fabric angle entry grunt broken suspect drill awful awesome rally";

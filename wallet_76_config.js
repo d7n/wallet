@@ -1,1 +1,1 @@
-var mnemonic = "expire skull now unknown jeans range castle truly fury soap milk guide";
+var mnemonic = "repair sausage model suffer ancient goddess club source field behind federal expose";

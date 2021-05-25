@@ -1,1 +1,1 @@
-var mnemonic = "little lens mass cradle flash bar since sea plug nuclear heavy random";
+var mnemonic = "chat cargo lady upgrade fit immense salad impulse slender capital tone imitate";

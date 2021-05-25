@@ -1,1 +1,1 @@
-var mnemonic = "symptom tenant scorpion mention sword cake rate helmet force awful accident add";
+var mnemonic = "enrich tennis melt advice broken also air roast tunnel still eternal piano";

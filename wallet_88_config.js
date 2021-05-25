@@ -1,1 +1,1 @@
-var mnemonic = "harvest upper season urge purchase attend raven olive brisk access gesture dry";
+var mnemonic = "marine humble stick noble pony grace damage gauge iron ketchup pyramid boy";

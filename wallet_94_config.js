@@ -1,1 +1,1 @@
-var mnemonic = "produce eight sunny alley summer drastic replace rabbit possible miss clean sponsor";
+var mnemonic = "diagram step save click salute permit fault spring turkey year tobacco sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "charge idle round judge number velvet suit aware group uphold draw secret";
+var mnemonic = "civil field void topic wave mix inside comfort nephew blind drill wild";

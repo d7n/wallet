@@ -1,1 +1,1 @@
-var mnemonic = "upon figure absent cheese approve romance attitude blanket real giraffe cereal blood";
+var mnemonic = "settle cost life buffalo exist ride library upper echo entire ivory arrive";

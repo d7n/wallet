@@ -1,1 +1,1 @@
-var mnemonic = "street middle treat cheese invest fall ethics slogan outdoor grass royal melody";
+var mnemonic = "initial oak used crane buddy glare expire this walnut target blouse brass";

@@ -1,1 +1,1 @@
-var mnemonic = "web author nasty topple chalk sentence arena mobile leg ghost resource symptom";
+var mnemonic = "punch retire spell neglect still timber cute artist fox sentence obscure anchor";

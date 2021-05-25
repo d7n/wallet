@@ -1,1 +1,1 @@
-var mnemonic = "coil dwarf salute addict diet ordinary absent fire inside clerk pumpkin rhythm";
+var mnemonic = "romance broken shoulder kite lion fee forum ladder fish future identify uniform";

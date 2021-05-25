@@ -1,1 +1,1 @@
-var mnemonic = "again unveil move corn monitor cake hunt proud slide tag witness glare";
+var mnemonic = "polar spread gravity skin shift famous wash view junk follow crawl cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic cattle list match peace turkey seed lonely enroll enforce bar fiscal";
+var mnemonic = "comic cave fence crunch bachelor mansion sunset cup ethics pulse survey piece";

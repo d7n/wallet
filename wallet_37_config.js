@@ -1,1 +1,1 @@
-var mnemonic = "public license noble music pumpkin diagram light tomorrow mango alter escape vehicle";
+var mnemonic = "later token carry goddess grow alcohol initial doctor try trouble episode tiger";

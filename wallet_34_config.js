@@ -1,1 +1,1 @@
-var mnemonic = "drip laugh idea east repeat inch present state armor best library language";
+var mnemonic = "fever chaos angry lecture soup loop tragic urge lawsuit evoke arch describe";

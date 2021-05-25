@@ -1,1 +1,1 @@
-var mnemonic = "fold ball soup cause idle caution auto wedding shrimp fury mixture tobacco";
+var mnemonic = "behave moon young science tortoise fancy suffer teach tongue boat credit text";

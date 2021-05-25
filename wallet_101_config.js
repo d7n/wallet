@@ -1,1 +1,1 @@
-var mnemonic = "section route joke attitude pluck wild torch divert prison second dune island";
+var mnemonic = "business point cave hole village toss become ugly day unaware vivid cushion";

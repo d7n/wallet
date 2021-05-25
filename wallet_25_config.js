@@ -1,1 +1,1 @@
-var mnemonic = "fly trumpet minimum design cinnamon sponsor stereo lava shiver resist thunder syrup";
+var mnemonic = "decrease luxury degree medal boil exile mail during similar hero convince ghost";

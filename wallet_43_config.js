@@ -1,1 +1,1 @@
-var mnemonic = "rhythm welcome tenant pill fiction friend cruel pulp cushion deliver shaft glow";
+var mnemonic = "oven tell donor column hammer leader innocent alert weird satisfy unveil venue";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol diesel update prison air engage track absorb kitchen afford agree coin";
+var mnemonic = "usual aim debate fetch black race exotic canvas direct frost merry offer";

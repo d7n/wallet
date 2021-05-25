@@ -1,1 +1,1 @@
-var mnemonic = "bench injury apple lab menu wage rough undo elegant ranch forget cradle";
+var mnemonic = "purse pioneer actor settle safe crumble favorite scheme clock gate best juice";

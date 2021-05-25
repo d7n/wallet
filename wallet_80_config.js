@@ -1,1 +1,1 @@
-var mnemonic = "deal degree say idea option ramp dove ritual result pulse broken vacuum";
+var mnemonic = "squirrel rough metal carbon bleak warrior limb kitchen offer merge idle gaze";

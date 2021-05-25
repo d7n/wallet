@@ -1,1 +1,1 @@
-var mnemonic = "suggest dish omit prison cool offer spirit spoon best punch silver labor";
+var mnemonic = "pole similar noise please mechanic tube cake core nuclear various alone horror";

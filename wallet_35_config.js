@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit orbit room rough rebuild pitch onion plate outer change harbor budget";
+var mnemonic = "strategy trophy consider lecture tonight ignore salmon heavy book curve orchard walnut";

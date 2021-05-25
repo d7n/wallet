@@ -1,1 +1,1 @@
-var mnemonic = "suspect choose sister rug need arrange birth afford onion earth skull across";
+var mnemonic = "reward senior clean fragile profit steak chest group relief sadness flash panel";

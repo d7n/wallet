@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin exchange cement recipe dog eye awful blind opera tissue gasp cube";
+var mnemonic = "ostrich bleak scorpion buffalo civil dust must fruit alien awesome industry shy";

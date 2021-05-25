@@ -1,1 +1,1 @@
-var mnemonic = "tape blade either loan expect foam soccer universe episode route forward input";
+var mnemonic = "unlock twenty path depart emerge dash present fortune connect supreme foot remain";

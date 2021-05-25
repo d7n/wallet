@@ -1,1 +1,1 @@
-var mnemonic = "divorce steel cabin vintage recall avocado victory usual obvious spoon brush misery";
+var mnemonic = "armed clip cinnamon hollow vibrant all destroy vessel easy exhaust odor park";

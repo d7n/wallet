@@ -1,1 +1,1 @@
-var mnemonic = "boy dog midnight knock stereo final nerve vivid satisfy giraffe label loyal";
+var mnemonic = "render negative daring moon marble milk poet airport curious skate era miss";

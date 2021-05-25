@@ -1,1 +1,1 @@
-var mnemonic = "false gesture differ art pistol often marriage flip possible wish salt used";
+var mnemonic = "escape produce glory frog blame they funny deer child right index cloth";

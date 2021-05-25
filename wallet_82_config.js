@@ -1,1 +1,1 @@
-var mnemonic = "faint sight lecture disorder cheap agent relief panic gather issue junk opinion";
+var mnemonic = "track review snack food mountain mesh visit vibrant ship vibrant zone summer";

@@ -1,1 +1,1 @@
-var mnemonic = "apology wood radar equal inner equip assist nature extra correct loan bus";
+var mnemonic = "pumpkin rural mom hat crack fringe process spice annual card borrow hollow";

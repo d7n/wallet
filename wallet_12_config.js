@@ -1,1 +1,1 @@
-var mnemonic = "arrest client cloud ability purchase girl galaxy album night motion dolphin another";
+var mnemonic = "style sad alcohol noise member item snap dynamic end stand high face";

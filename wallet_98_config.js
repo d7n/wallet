@@ -1,1 +1,1 @@
-var mnemonic = "mirror behave broken hire nominee card much bomb hidden tide raven gain";
+var mnemonic = "absent teach sugar mosquito regular elephant equal rocket rib abuse deposit paddle";

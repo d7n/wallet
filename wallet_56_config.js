@@ -1,1 +1,1 @@
-var mnemonic = "pioneer gain move hungry tribe endorse fortune ghost filter celery tomato dizzy";
+var mnemonic = "sun improve around purpose change illness mask occur acquire couch belt light";

@@ -1,1 +1,1 @@
-var mnemonic = "they about dilemma amateur olive unusual picture staff resemble version embrace awkward";
+var mnemonic = "bonus torch ostrich write swing diagram boat rally cactus catalog fossil creek";

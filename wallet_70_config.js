@@ -1,1 +1,1 @@
-var mnemonic = "dice pulp half essay pond soap mind harbor tornado spoil credit slide";
+var mnemonic = "embark hip skirt better town ring such hunt luxury dash mom govern";

@@ -1,1 +1,1 @@
-var mnemonic = "truth february cost try enough soup island culture smoke start accident method";
+var mnemonic = "maid lend caution help carry soon outer exercise filter race wrong defy";

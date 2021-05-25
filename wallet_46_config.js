@@ -1,1 +1,1 @@
-var mnemonic = "apology fortune ask begin video winner shoot valley sponsor stage clinic walk";
+var mnemonic = "raise twice tape echo dolphin rich avoid auction word fringe april follow";
