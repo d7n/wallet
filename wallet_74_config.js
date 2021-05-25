@@ -1,1 +1,1 @@
-var mnemonic = "slush loan company key shuffle purchase exotic level life vital three dirt";
+var mnemonic = "hood chaos limb slight gauge attend endorse horse such arctic language unhappy";

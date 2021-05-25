@@ -1,1 +1,1 @@
-var mnemonic = "visit enact recipe awake toe scene omit bread dish execute program negative";
+var mnemonic = "reason dentist select float fame vanish venue method announce vibrant city power";

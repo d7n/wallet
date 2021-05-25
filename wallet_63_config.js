@@ -1,1 +1,1 @@
-var mnemonic = "jar brother whisper dizzy infant adult lounge bulb woman witness gallery marriage";
+var mnemonic = "ladder escape love say ensure child doll pill earth brother wonder crater";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse animal produce chat release twelve elder cement come hire feature love";
+var mnemonic = "hill entire debate kitten hire engage short measure idea tell resemble enhance";

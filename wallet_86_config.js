@@ -1,1 +1,1 @@
-var mnemonic = "kick pepper direct panel puzzle apart portion echo noodle ramp crime pride";
+var mnemonic = "coconut cherry few pause crew park anxiety about dog drama awful rural";

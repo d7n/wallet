@@ -1,1 +1,1 @@
-var mnemonic = "nose spy solution tissue marine visit frame myself ordinary balance summer method";
+var mnemonic = "rookie yard laugh sea business thumb impose top labor spin galaxy burden";

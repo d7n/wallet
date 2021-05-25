@@ -1,1 +1,1 @@
-var mnemonic = "talent parade weird pig win replace ensure theory mix oxygen slam crime";
+var mnemonic = "analyst top upper curtain zero curious vibrant either rhythm rally west point";

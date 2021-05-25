@@ -1,1 +1,1 @@
-var mnemonic = "final renew round swallow large wood depth window music section copper flag";
+var mnemonic = "reason critic initial tag price trend helmet kiwi stay among caught shield";

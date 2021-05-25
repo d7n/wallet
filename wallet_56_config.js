@@ -1,1 +1,1 @@
-var mnemonic = "radio doll foam balance layer bomb stone run genuine feature popular pulse";
+var mnemonic = "denial announce lock process endorse merit near remind mix feed bomb blind";

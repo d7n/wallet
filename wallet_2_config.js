@@ -1,1 +1,1 @@
-var mnemonic = "heavy ivory race joke laugh measure forum already term love ripple cat";
+var mnemonic = "offer fossil anger clip raven very rebel taxi hold gloom still another";

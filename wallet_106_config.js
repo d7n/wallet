@@ -1,1 +1,1 @@
-var mnemonic = "category pull rubber egg mimic absurd eye apology issue observe banana settle";
+var mnemonic = "negative keen soul evolve treat crop online cradle use truly illegal lens";

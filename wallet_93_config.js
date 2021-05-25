@@ -1,1 +1,1 @@
-var mnemonic = "other expand tired elegant often say party voyage blanket wisdom coach wing";
+var mnemonic = "defy armor agent still merry record add phone slab witness crawl gravity";

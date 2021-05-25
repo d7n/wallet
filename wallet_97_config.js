@@ -1,1 +1,1 @@
-var mnemonic = "theme guitar great celery velvet strike wash maze album sunset kingdom animal";
+var mnemonic = "remind conduct neither car pass remove lunch note curve solve valley embody";

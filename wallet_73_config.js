@@ -1,1 +1,1 @@
-var mnemonic = "fat nominee essay bounce entire loud culture yard culture hybrid puppy wink";
+var mnemonic = "degree bird treat soft crash upon body door innocent bitter term account";

@@ -1,1 +1,1 @@
-var mnemonic = "honey fog absurd task drift sweet churn talent window bid among ask";
+var mnemonic = "riot detail wire session present mom palace uniform bring because blanket taste";

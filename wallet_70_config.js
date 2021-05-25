@@ -1,1 +1,1 @@
-var mnemonic = "yellow rose reveal frog punch arctic action thing tide rib language panther";
+var mnemonic = "level fly plate hurdle scrap share boost flavor dismiss lazy oyster only";

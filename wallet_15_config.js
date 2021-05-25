@@ -1,1 +1,1 @@
-var mnemonic = "inflict fragile defense below cannon remain olive umbrella crowd marble angle toilet";
+var mnemonic = "math coil lion quantum soul choose debris good harsh treat vibrant direct";

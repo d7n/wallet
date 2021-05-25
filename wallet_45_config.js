@@ -1,1 +1,1 @@
-var mnemonic = "subject unfold scissors flower inhale chapter parrot park have like acoustic lend";
+var mnemonic = "winner upset orbit spell one evil suffer impulse total ring urge echo";

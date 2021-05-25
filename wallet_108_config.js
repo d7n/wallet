@@ -1,1 +1,1 @@
-var mnemonic = "forest frog pool brisk room device talk adapt define pet earn dune";
+var mnemonic = "adult tiny fine submit drastic observe hedgehog sheriff rare enter steel uncle";

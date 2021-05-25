@@ -1,1 +1,1 @@
-var mnemonic = "best twenty spy family cook game action morning harvest bar enlist donor";
+var mnemonic = "tuna romance woman local best dwarf impose cluster picnic image toward flash";

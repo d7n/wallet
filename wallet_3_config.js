@@ -1,1 +1,1 @@
-var mnemonic = "elevator asset lonely update used hat seek receive negative ceiling relax wish";
+var mnemonic = "among distance lens family census harbor bread fork glove smile moon iron";

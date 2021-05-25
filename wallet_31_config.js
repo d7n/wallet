@@ -1,1 +1,1 @@
-var mnemonic = "series link rent copper web village renew liquid ceiling globe hat stable";
+var mnemonic = "sight nasty pull draft rebel cruel control orient imitate dial hold raccoon";

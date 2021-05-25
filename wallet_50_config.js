@@ -1,1 +1,1 @@
-var mnemonic = "learn like blanket arch loud segment initial pulp cupboard turkey goat fit";
+var mnemonic = "dust ivory weasel head trade eyebrow pluck pave silk disease exit use";

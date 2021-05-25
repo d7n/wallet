@@ -1,1 +1,1 @@
-var mnemonic = "minimum exit tunnel unhappy left token jar refuse faculty dress room vacant";
+var mnemonic = "lamp hole will dream october concert feature melt birth build fringe between";

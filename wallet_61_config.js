@@ -1,1 +1,1 @@
-var mnemonic = "input nature topic provide motion salt steak draw robot multiply auction write";
+var mnemonic = "burger giggle science shaft cluster margin wink stand occur regret firm learn";

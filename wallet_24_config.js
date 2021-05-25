@@ -1,1 +1,1 @@
-var mnemonic = "excuse that issue whisper announce arrow emotion cool report remain fuel ketchup";
+var mnemonic = "myth harvest wisdom first win metal mechanic rubber view umbrella notable glide";

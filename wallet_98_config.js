@@ -1,1 +1,1 @@
-var mnemonic = "rain unusual unusual tail judge coil name skull ginger spawn clog funny";
+var mnemonic = "knee joy slogan beef brief mule inside hint drama wink case kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "film unveil test logic job wealth drill need crop symptom proof rude";
+var mnemonic = "banner talk praise chuckle flag sponsor genre panel huge lottery iron brisk";

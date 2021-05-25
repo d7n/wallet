@@ -1,1 +1,1 @@
-var mnemonic = "prepare cross travel gold cloth palace illegal course spike razor island donkey";
+var mnemonic = "ribbon across reveal day range stomach phrase access shiver right area unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "possible ski build idle voyage certain snow use south rain syrup fetch";
+var mnemonic = "rotate amateur erase cook foster plunge produce tail flee explain hen depend";

@@ -1,1 +1,1 @@
-var mnemonic = "interest speed lecture payment glass size material wish biology lens left course";
+var mnemonic = "diet derive tuna leg chapter maximum pass sound prepare vote list decline";

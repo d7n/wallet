@@ -1,1 +1,1 @@
-var mnemonic = "shaft wall tonight front come thunder labor cluster crumble tortoise type fortune";
+var mnemonic = "fame rose liar century orchard violin renew load actress trick tuition marine";

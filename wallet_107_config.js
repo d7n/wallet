@@ -1,1 +1,1 @@
-var mnemonic = "patch absorb title unfair echo vintage master tell sweet glow bonus cattle";
+var mnemonic = "pioneer slab drama crush relief three lens type begin twice six upset";

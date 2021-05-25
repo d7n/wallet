@@ -1,1 +1,1 @@
-var mnemonic = "half beauty again panel end crime south spice advance lemon movie paddle";
+var mnemonic = "later loud expire squirrel cliff satoshi sheriff candy video dirt girl glass";

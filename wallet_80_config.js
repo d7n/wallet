@@ -1,1 +1,1 @@
-var mnemonic = "lumber burger gentle remove curve carry nest quiz defy slab valid toilet";
+var mnemonic = "drip member biology gallery thank earn flash sadness universe shadow height trial";

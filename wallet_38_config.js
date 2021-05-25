@@ -1,1 +1,1 @@
-var mnemonic = "ghost assume illegal afford convince language length silly vessel mutual write peace";
+var mnemonic = "toddler figure topple agree flush digital dumb wear apple clay differ proof";

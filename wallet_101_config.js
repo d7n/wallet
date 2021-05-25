@@ -1,1 +1,1 @@
-var mnemonic = "afraid cinnamon tobacco author dial episode gasp airport segment assault midnight segment";
+var mnemonic = "elephant physical option fetch design action motion blossom tide enable talent coffee";

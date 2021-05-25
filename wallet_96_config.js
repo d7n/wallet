@@ -1,1 +1,1 @@
-var mnemonic = "vacuum wide aware test fiscal spot practice flip atom dwarf throw lock";
+var mnemonic = "claw alarm fuel smooth slender reunion gather stage alter matrix breeze velvet";

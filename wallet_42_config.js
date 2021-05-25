@@ -1,1 +1,1 @@
-var mnemonic = "regret orange husband drip gossip find undo soap crush purse gym slender";
+var mnemonic = "range report sausage boy forum helmet caution identify neglect sure thrive harbor";

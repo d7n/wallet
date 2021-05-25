@@ -1,1 +1,1 @@
-var mnemonic = "act state effort submit loan orient hover catalog awkward health antenna drink";
+var mnemonic = "proof program cruise chief misery opera retire screen trust pottery place stuff";

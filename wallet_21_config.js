@@ -1,1 +1,1 @@
-var mnemonic = "candy hill exhaust feed build bleak pizza swift dust mass shoot carry";
+var mnemonic = "skin twin marriage mountain simple sauce example drip symbol infant always able";

@@ -1,1 +1,1 @@
-var mnemonic = "usual state edit mixture dinosaur gravity volume summer soft screen have infant";
+var mnemonic = "current photo curve pattern puppy intact jeans follow differ army chronic tree";

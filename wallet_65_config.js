@@ -1,1 +1,1 @@
-var mnemonic = "decorate hen entry very surge organ concert one outer input budget accident";
+var mnemonic = "obvious host say delay myself apology lake start beauty wrong notice high";

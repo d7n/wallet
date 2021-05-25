@@ -1,1 +1,1 @@
-var mnemonic = "pudding reopen damage clump loop rocket brown omit invest short cash feel";
+var mnemonic = "morning describe buyer account nest friend home plunge large desert fury license";

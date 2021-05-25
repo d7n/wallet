@@ -1,1 +1,1 @@
-var mnemonic = "negative goat carry stove memory buffalo knee magic receive method soon thumb";
+var mnemonic = "gentle hawk trap sorry today month oval drastic intact crumble swamp about";

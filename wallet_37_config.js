@@ -1,1 +1,1 @@
-var mnemonic = "spike furnace problem lesson regret toss waste exchange nose plunge lottery note";
+var mnemonic = "exact object adapt civil nice skill episode sign abstract barrel copper weekend";

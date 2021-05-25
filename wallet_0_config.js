@@ -1,1 +1,1 @@
-var mnemonic = "angry shiver dog deposit hospital inherit eight exact crack process reopen vague";
+var mnemonic = "syrup elbow rain glimpse armed segment absurd state result where drill subject";

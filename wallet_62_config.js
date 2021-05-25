@@ -1,1 +1,1 @@
-var mnemonic = "salt hurry shed domain afraid lamp coffee glow shiver mystery empty flush";
+var mnemonic = "genuine suggest this void chief project clinic famous slab pitch estate goat";

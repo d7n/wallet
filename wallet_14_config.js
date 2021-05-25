@@ -1,1 +1,1 @@
-var mnemonic = "boy goat south hood sting rare armed ritual wisdom various soon library";
+var mnemonic = "laundry else fly photo spy liar pulse board list hawk endless actor";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel eye evoke feature way solar absurd alley spoon peace bench unfair";
+var mnemonic = "other cube note spread shine fatigue opera bundle novel split distance adult";

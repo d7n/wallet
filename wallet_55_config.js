@@ -1,1 +1,1 @@
-var mnemonic = "carbon slow cattle clap cousin nasty fence weird scorpion lunch worth wreck";
+var mnemonic = "mail exist vault garage farm defy afraid lawn scrub split fitness suffer";

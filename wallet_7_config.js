@@ -1,1 +1,1 @@
-var mnemonic = "supply wheat rotate ketchup group joy film plug twin unusual taxi worry";
+var mnemonic = "maple banana mix wood crane practice mosquito horn focus scare neck mushroom";

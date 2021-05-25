@@ -1,1 +1,1 @@
-var mnemonic = "donkey month thrive winter cargo invest apple kiwi clump neck rail occur";
+var mnemonic = "decline render dash address toy slice source unlock trim gaze peace float";

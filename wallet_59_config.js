@@ -1,1 +1,1 @@
-var mnemonic = "sunset discover blush shoulder assume hedgehog sample bless rate joke reward fall";
+var mnemonic = "faint toss concert rabbit hover piano heavy lunar village shock liquid banana";

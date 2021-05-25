@@ -1,1 +1,1 @@
-var mnemonic = "kidney escape gallery west proud dial virtual ostrich claw into summer erode";
+var mnemonic = "toe music seek apology sand spy damage host illness rule way cube";

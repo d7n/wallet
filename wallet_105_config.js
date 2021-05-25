@@ -1,1 +1,1 @@
-var mnemonic = "steel tell planet program dynamic hunt beauty rice suspect shed silver slight";
+var mnemonic = "ritual orbit champion demise rival better bean baby inch stable anxiety legal";

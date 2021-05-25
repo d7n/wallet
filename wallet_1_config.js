@@ -1,1 +1,1 @@
-var mnemonic = "cause group will main hope employ size faculty parrot either spider evidence";
+var mnemonic = "dolphin uniform garbage symbol eight lounge action dry icon toddler morning leave";

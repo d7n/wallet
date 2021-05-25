@@ -1,1 +1,1 @@
-var mnemonic = "asset garden tissue pretty normal vivid raven invite trend fee hungry profit";
+var mnemonic = "hurdle hurry rocket nothing attitude oblige remember waste powder feature promote tray";

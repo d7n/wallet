@@ -1,1 +1,1 @@
-var mnemonic = "evidence garment example message fiction orchard unaware release private bonus beef better";
+var mnemonic = "rich connect damage north chronic syrup century universe album erase doctor mean";

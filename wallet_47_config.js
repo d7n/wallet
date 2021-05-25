@@ -1,1 +1,1 @@
-var mnemonic = "crush pink beyond kind lonely term shock pledge sense ice sniff keen";
+var mnemonic = "defy suffer shallow grape mango special possible pill few have extra giant";

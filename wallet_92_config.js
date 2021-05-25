@@ -1,1 +1,1 @@
-var mnemonic = "vapor help pave win window select flight bring van assist maximum broccoli";
+var mnemonic = "cheap shadow pyramid early maid lend model ticket mind office seven often";

@@ -1,1 +1,1 @@
-var mnemonic = "planet invite giant burger clown tuna bar drive movie lonely ribbon budget";
+var mnemonic = "frequent alone initial urge arrow rabbit pause tortoise resemble sure deny oak";

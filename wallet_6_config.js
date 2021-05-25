@@ -1,1 +1,1 @@
-var mnemonic = "solid silk sunny leg stove crane avoid cannon skate target own like";
+var mnemonic = "pet pride capable pair include pink tip renew coach tape pen eagle";

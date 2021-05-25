@@ -1,1 +1,1 @@
-var mnemonic = "emotion region pact exclude village scrub salon flee measure cram gorilla casino";
+var mnemonic = "core index rib plunge badge foil shove weather wrong leg glad record";

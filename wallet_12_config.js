@@ -1,1 +1,1 @@
-var mnemonic = "trophy warrior bomb rare chuckle bleak art fiber merry autumn mansion toy";
+var mnemonic = "print diary wagon noodle other rural smart syrup pumpkin curious catalog two";

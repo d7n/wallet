@@ -1,1 +1,1 @@
-var mnemonic = "aspect used hospital guilt type liberty process quiz dice weird market desk";
+var mnemonic = "key prevent diet rice loan melt entry change unfair traffic dad staff";

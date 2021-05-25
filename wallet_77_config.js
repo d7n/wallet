@@ -1,1 +1,1 @@
-var mnemonic = "picnic oval wrap laugh unveil tumble gate laptop struggle juice three artist";
+var mnemonic = "true match claim trap gown empower cart close tag night demise wave";

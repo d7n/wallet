@@ -1,1 +1,1 @@
-var mnemonic = "update affair bamboo shove route memory deal crash patrol rotate tuna outside";
+var mnemonic = "filter gown pear fitness rule talk resource never fury shy arrow sea";

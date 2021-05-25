@@ -1,1 +1,1 @@
-var mnemonic = "release festival actress intact leopard artefact oppose journey suit poem sport frequent";
+var mnemonic = "pet forum ivory garbage fish public country nothing venue elbow crack excess";

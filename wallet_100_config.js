@@ -1,1 +1,1 @@
-var mnemonic = "upgrade cancel drive army monster uniform earn month pepper swear point soda";
+var mnemonic = "sea object reason wheat need bunker salmon dinosaur eye pulse story basic";

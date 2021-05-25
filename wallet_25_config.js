@@ -1,1 +1,1 @@
-var mnemonic = "main nurse when rib derive cable outdoor deny expose basic purse attract";
+var mnemonic = "heart cat keep empty trumpet explain scorpion gap copper taxi asset tobacco";

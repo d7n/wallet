@@ -1,1 +1,1 @@
-var mnemonic = "pistol cherry artefact execute brother velvet lesson jump pair decline twice fetch";
+var mnemonic = "raven captain elegant outdoor melody effort canvas stand mimic library skull swallow";

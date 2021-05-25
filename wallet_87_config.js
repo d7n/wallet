@@ -1,1 +1,1 @@
-var mnemonic = "ritual slender sadness merge bid document december output hurt ask mango essence";
+var mnemonic = "arch fetch slice eternal peanut prize galaxy protect fantasy tiger tent seat";

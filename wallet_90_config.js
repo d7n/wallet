@@ -1,1 +1,1 @@
-var mnemonic = "swallow reform pride hockey wide credit pink borrow merit flash segment quick";
+var mnemonic = "shiver help garage cool hotel rack morning student midnight win useful destroy";

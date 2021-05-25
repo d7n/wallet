@@ -1,1 +1,1 @@
-var mnemonic = "tonight swamp myth bleak inflict cool lemon dwarf vintage enable tennis account";
+var mnemonic = "roof pink patient list peace aware train cousin naive stuff come illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "surge settle access risk atom club access skate bicycle shaft awkward left";
+var mnemonic = "squeeze pumpkin until happy pepper decline plunge odor bunker coyote album family";

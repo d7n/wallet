@@ -1,1 +1,1 @@
-var mnemonic = "pause glare usual lazy axis rude ask provide rely gadget cruise fold";
+var mnemonic = "whisper actual tonight ensure upgrade note term square column flip aunt unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust assist bar cute point slice fade prevent donkey alone promote gentle";
+var mnemonic = "outdoor point immune sound marriage split fee state squirrel record sunset seek";

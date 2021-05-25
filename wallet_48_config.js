@@ -1,1 +1,1 @@
-var mnemonic = "cloud coin best decrease next basket human polar unlock stone forward coin";
+var mnemonic = "great future salt opera toast example surge comfort problem brass pony mean";

@@ -1,1 +1,1 @@
-var mnemonic = "motor toe glory coffee pave inherit kind inhale elegant nice typical front";
+var mnemonic = "february faint actual only jungle boss animal include patient little slab subway";

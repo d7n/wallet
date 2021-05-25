@@ -1,1 +1,1 @@
-var mnemonic = "forward engage fame manage type fame eye vapor vanish hero before december";
+var mnemonic = "magic dove clean fever dream search group nerve purse hat correct flock";

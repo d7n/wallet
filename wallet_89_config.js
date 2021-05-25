@@ -1,1 +1,1 @@
-var mnemonic = "retire cradle balcony calm stuff kiss people lazy clip despair pulp model";
+var mnemonic = "assault holiday long fade hand merge trade unable educate daring trophy valid";

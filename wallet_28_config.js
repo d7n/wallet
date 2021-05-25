@@ -1,1 +1,1 @@
-var mnemonic = "west poverty clinic elegant ready dilemma spray fan skate cook silly task";
+var mnemonic = "puppy badge chaos tourist dizzy matter post mass frequent marine subject suit";

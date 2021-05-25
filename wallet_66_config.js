@@ -1,1 +1,1 @@
-var mnemonic = "eye cement age despair vocal rely primary silk begin rebuild core thunder";
+var mnemonic = "rain minute cactus frequent yard glory hybrid spin accident consider gym prepare";

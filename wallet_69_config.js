@@ -1,1 +1,1 @@
-var mnemonic = "legal awful diesel safe actor uncle volume ill embark satisfy large crawl";
+var mnemonic = "defense above shine educate north warfare session dash more search sword never";

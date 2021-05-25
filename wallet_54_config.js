@@ -1,1 +1,1 @@
-var mnemonic = "young museum jelly pave flee buzz basic final inspire flash gossip purchase";
+var mnemonic = "tray mix cook soap clerk prevent review doctor file goat situate vast";

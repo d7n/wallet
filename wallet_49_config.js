@@ -1,1 +1,1 @@
-var mnemonic = "dentist skull quit exchange indicate urge vast giraffe aunt wisdom setup harbor";
+var mnemonic = "physical hire auto wish later upset cube loop dial good runway adult";

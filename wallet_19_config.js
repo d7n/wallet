@@ -1,1 +1,1 @@
-var mnemonic = "stomach pair boat pigeon steel print alert fame guitar friend blast silk";
+var mnemonic = "believe close area series spend evil angle cheap unveil amount minimum pattern";

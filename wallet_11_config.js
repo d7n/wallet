@@ -1,1 +1,1 @@
-var mnemonic = "chaos choice rapid require lounge hill yellow cherry possible ordinary emotion only";
+var mnemonic = "scout tumble brown funny dizzy holiday gesture section bomb guilt medal gown";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee leaf grit device accident tissue program bunker sound original subject bargain";
+var mnemonic = "fabric casino fly drive raven actual shoulder isolate clarify infant strong hotel";

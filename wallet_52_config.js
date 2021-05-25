@@ -1,1 +1,1 @@
-var mnemonic = "turn crawl brush exit obtain vacant region bacon add snack subject depend";
+var mnemonic = "this fox stomach already faith castle tobacco cluster give spare ring cargo";

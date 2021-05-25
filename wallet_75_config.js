@@ -1,1 +1,1 @@
-var mnemonic = "transfer put clay slice make book adjust busy retreat analyst vacant bracket";
+var mnemonic = "joke mushroom hold credit defense disease humble police guilt portion police height";

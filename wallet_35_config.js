@@ -1,1 +1,1 @@
-var mnemonic = "ceiling chef crew mammal secret spider verify brand prefer tooth toast measure";
+var mnemonic = "narrow switch profit crop tray boat wool level gallery oppose vault forget";
