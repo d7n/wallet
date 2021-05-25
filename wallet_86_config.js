@@ -1,1 +1,1 @@
-var mnemonic = "luggage original alter rack guilt response stable stamp lecture frown squeeze utility";
+var mnemonic = "kick pepper direct panel puzzle apart portion echo noodle ramp crime pride";

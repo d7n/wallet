@@ -1,1 +1,1 @@
-var mnemonic = "hamster dog clean shed burst twenty session long hurry stumble battle picnic";
+var mnemonic = "category pull rubber egg mimic absurd eye apology issue observe banana settle";

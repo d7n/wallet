@@ -1,1 +1,1 @@
-var mnemonic = "oyster cube wage worth type sibling company dish dilemma when crumble empty";
+var mnemonic = "surge settle access risk atom club access skate bicycle shaft awkward left";

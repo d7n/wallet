@@ -1,1 +1,1 @@
-var mnemonic = "avocado abstract endorse private female frequent latin hamster knee farm swamp puzzle";
+var mnemonic = "theme guitar great celery velvet strike wash maze album sunset kingdom animal";

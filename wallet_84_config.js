@@ -1,1 +1,1 @@
-var mnemonic = "century oxygen globe village swear exist plastic lunch year actor shallow burger";
+var mnemonic = "tonight swamp myth bleak inflict cool lemon dwarf vintage enable tennis account";

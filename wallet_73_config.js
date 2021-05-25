@@ -1,1 +1,1 @@
-var mnemonic = "error puppy excuse neck renew black van glare flip evolve notice august";
+var mnemonic = "fat nominee essay bounce entire loud culture yard culture hybrid puppy wink";

@@ -1,1 +1,1 @@
-var mnemonic = "airport clump sell plate tourist speak path catalog wealth decide next cake";
+var mnemonic = "salt hurry shed domain afraid lamp coffee glow shiver mystery empty flush";

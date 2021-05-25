@@ -1,1 +1,1 @@
-var mnemonic = "clarify pitch behind favorite stadium prosper shaft already museum enroll cloud matter";
+var mnemonic = "lumber burger gentle remove curve carry nest quiz defy slab valid toilet";

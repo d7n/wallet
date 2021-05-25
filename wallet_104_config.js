@@ -1,1 +1,1 @@
-var mnemonic = "tooth club sport floor best park napkin same romance camp carbon broken";
+var mnemonic = "hotel eye evoke feature way solar absurd alley spoon peace bench unfair";

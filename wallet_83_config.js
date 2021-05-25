@@ -1,1 +1,1 @@
-var mnemonic = "credit gasp great nominee fashion once special artwork afraid skirt cover wild";
+var mnemonic = "donkey month thrive winter cargo invest apple kiwi clump neck rail occur";

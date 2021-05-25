@@ -1,1 +1,1 @@
-var mnemonic = "behave permit super ignore age endless rail pioneer eight feed city joke";
+var mnemonic = "act state effort submit loan orient hover catalog awkward health antenna drink";

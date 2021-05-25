@@ -1,1 +1,1 @@
-var mnemonic = "film seminar pull traffic miss tiny dash manual teach nasty grant volume";
+var mnemonic = "victory toast refuse gravity supreme night nice area empower abuse pig foster";

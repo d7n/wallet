@@ -1,1 +1,1 @@
-var mnemonic = "main next bargain palace pond aware bread amused harvest chunk undo noise";
+var mnemonic = "elevator asset lonely update used hat seek receive negative ceiling relax wish";

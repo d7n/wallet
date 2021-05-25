@@ -1,1 +1,1 @@
-var mnemonic = "lunch child moment december shaft cake ripple angle utility river large sun";
+var mnemonic = "learn like blanket arch loud segment initial pulp cupboard turkey goat fit";

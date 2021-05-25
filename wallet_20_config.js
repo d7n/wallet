@@ -1,1 +1,1 @@
-var mnemonic = "autumn banner claw keep vicious such retire voice joy sound wine bronze";
+var mnemonic = "exhaust assist bar cute point slice fade prevent donkey alone promote gentle";

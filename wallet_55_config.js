@@ -1,1 +1,1 @@
-var mnemonic = "elevator twelve rain hold dignity forget right hold chat lobster album thank";
+var mnemonic = "carbon slow cattle clap cousin nasty fence weird scorpion lunch worth wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "know ocean video forum priority flip fringe retire exhaust chaos govern novel";
+var mnemonic = "fee trouble mechanic canyon talk price valley ignore speed deputy absorb drink";

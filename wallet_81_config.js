@@ -1,1 +1,1 @@
-var mnemonic = "feature bomb comic law rely palace liberty supply approve save grace strong";
+var mnemonic = "motor toe glory coffee pave inherit kind inhale elegant nice typical front";

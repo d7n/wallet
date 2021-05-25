@@ -1,1 +1,1 @@
-var mnemonic = "degree canal cram artist leader couple tired hungry old situate pencil dynamic";
+var mnemonic = "cause group will main hope employ size faculty parrot either spider evidence";

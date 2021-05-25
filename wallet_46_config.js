@@ -1,1 +1,1 @@
-var mnemonic = "twin level unit crunch year elegant lamp actual deliver visual burst save";
+var mnemonic = "visit enact recipe awake toe scene omit bread dish execute program negative";

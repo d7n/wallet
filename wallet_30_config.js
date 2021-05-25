@@ -1,1 +1,1 @@
-var mnemonic = "tissue body camp open cheese gather glove mass hood accuse exhibit legend";
+var mnemonic = "pause glare usual lazy axis rude ask provide rely gadget cruise fold";

@@ -1,1 +1,1 @@
-var mnemonic = "repair you accuse transfer torch salad voice win face glide become mail";
+var mnemonic = "upgrade cancel drive army monster uniform earn month pepper swear point soda";

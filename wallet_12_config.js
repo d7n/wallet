@@ -1,1 +1,1 @@
-var mnemonic = "danger title enlist between sense neither correct fantasy legend cloth spice autumn";
+var mnemonic = "trophy warrior bomb rare chuckle bleak art fiber merry autumn mansion toy";

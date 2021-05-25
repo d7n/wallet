@@ -1,1 +1,1 @@
-var mnemonic = "spatial short dry barrel visual forget evidence soda churn patch vibrant unknown";
+var mnemonic = "chaos choice rapid require lounge hill yellow cherry possible ordinary emotion only";

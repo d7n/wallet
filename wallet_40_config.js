@@ -1,1 +1,1 @@
-var mnemonic = "emotion endorse woman viable patient badge sport afford cry fatigue soccer desert";
+var mnemonic = "nose spy solution tissue marine visit frame myself ordinary balance summer method";

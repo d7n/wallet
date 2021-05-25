@@ -1,1 +1,1 @@
-var mnemonic = "huge idle sketch diagram essence flat neutral wrong panther intact damp hollow";
+var mnemonic = "decorate hen entry very surge organ concert one outer input budget accident";

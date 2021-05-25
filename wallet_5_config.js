@@ -1,1 +1,1 @@
-var mnemonic = "dilemma repeat write estate tool online jealous plug rule dilemma post decrease";
+var mnemonic = "pudding reopen damage clump loop rocket brown omit invest short cash feel";

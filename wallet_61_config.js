@@ -1,1 +1,1 @@
-var mnemonic = "hungry zero shoot account reason little mansion pumpkin surprise surface champion crime";
+var mnemonic = "input nature topic provide motion salt steak draw robot multiply auction write";

@@ -1,1 +1,1 @@
-var mnemonic = "test misery escape spin stool flight divide visa wild loop anchor crucial";
+var mnemonic = "candy hill exhaust feed build bleak pizza swift dust mass shoot carry";

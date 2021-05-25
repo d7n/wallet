@@ -1,1 +1,1 @@
-var mnemonic = "place space swallow mushroom ritual sail book magic worth wedding omit ketchup";
+var mnemonic = "release festival actress intact leopard artefact oppose journey suit poem sport frequent";

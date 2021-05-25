@@ -1,1 +1,1 @@
-var mnemonic = "region thank run balance crouch rent run travel side glory code fork";
+var mnemonic = "other expand tired elegant often say party voyage blanket wisdom coach wing";

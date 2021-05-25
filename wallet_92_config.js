@@ -1,1 +1,1 @@
-var mnemonic = "rotate crane shaft disease tree champion child kind mystery pool dolphin run";
+var mnemonic = "vapor help pave win window select flight bring van assist maximum broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "pride stadium collect vital future dove base hurry avoid gospel dice action";
+var mnemonic = "update affair bamboo shove route memory deal crash patrol rotate tuna outside";

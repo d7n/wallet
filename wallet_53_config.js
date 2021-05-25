@@ -1,1 +1,1 @@
-var mnemonic = "dad about design jaguar open burger diesel vital where boost table used";
+var mnemonic = "question giant pear can error spin flavor stairs dune estate solid runway";

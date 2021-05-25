@@ -1,1 +1,1 @@
-var mnemonic = "trade fiscal start scan vintage riot weekend town sheriff quit payment salute";
+var mnemonic = "dentist skull quit exchange indicate urge vast giraffe aunt wisdom setup harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy stage together drink skill ritual broken ridge toward across humble arena";
+var mnemonic = "yellow rose reveal frog punch arctic action thing tide rib language panther";

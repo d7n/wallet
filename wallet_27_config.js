@@ -1,1 +1,1 @@
-var mnemonic = "merit action during goat family buyer fluid meat stock steel trust question";
+var mnemonic = "police churn gesture salon subject sunny prefer shop quote pattern remind suspect";

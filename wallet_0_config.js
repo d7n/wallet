@@ -1,1 +1,1 @@
-var mnemonic = "approve gesture this chest salmon jewel prize remind tunnel glide fuel glove";
+var mnemonic = "angry shiver dog deposit hospital inherit eight exact crack process reopen vague";

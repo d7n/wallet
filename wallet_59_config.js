@@ -1,1 +1,1 @@
-var mnemonic = "curve grace capable topple pear comic winter lawsuit cheap hero legal monitor";
+var mnemonic = "sunset discover blush shoulder assume hedgehog sample bless rate joke reward fall";

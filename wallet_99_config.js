@@ -1,1 +1,1 @@
-var mnemonic = "wine brand two milk empower frost talk lion garage better fatal notable";
+var mnemonic = "park dry chalk swallow coconut ticket copy air head roof right jazz";

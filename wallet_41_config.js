@@ -1,1 +1,1 @@
-var mnemonic = "kidney iron cram legal bulk favorite buddy fetch series lava first twelve";
+var mnemonic = "prepare cross travel gold cloth palace illegal course spike razor island donkey";

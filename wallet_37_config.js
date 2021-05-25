@@ -1,1 +1,1 @@
-var mnemonic = "traffic silly soldier glimpse token inner afford job wise trial teach invite";
+var mnemonic = "spike furnace problem lesson regret toss waste exchange nose plunge lottery note";

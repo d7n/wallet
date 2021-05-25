@@ -1,1 +1,1 @@
-var mnemonic = "share favorite transfer hover rotate salad practice blossom street brush absent winner";
+var mnemonic = "stomach pair boat pigeon steel print alert fame guitar friend blast silk";

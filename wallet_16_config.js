@@ -1,1 +1,1 @@
-var mnemonic = "girl face donor nest pledge bargain faith wine damp increase warrior team";
+var mnemonic = "honey fog absurd task drift sweet churn talent window bid among ask";

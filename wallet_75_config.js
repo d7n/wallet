@@ -1,1 +1,1 @@
-var mnemonic = "project carbon veteran depart curve abandon retreat gym demand essence share course";
+var mnemonic = "transfer put clay slice make book adjust busy retreat analyst vacant bracket";

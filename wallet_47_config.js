@@ -1,1 +1,1 @@
-var mnemonic = "prison banner naive become feed tiger enact drop barrel walnut scene purpose";
+var mnemonic = "crush pink beyond kind lonely term shock pledge sense ice sniff keen";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo before wealth position sunny during cloth rebel focus fire also exotic";
+var mnemonic = "pistol cherry artefact execute brother velvet lesson jump pair decline twice fetch";

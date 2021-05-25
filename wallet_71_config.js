@@ -1,1 +1,1 @@
-var mnemonic = "unfair absurd victory father surge lamp plate bamboo tonight damp dawn sell";
+var mnemonic = "negative goat carry stove memory buffalo knee magic receive method soon thumb";

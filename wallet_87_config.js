@@ -1,1 +1,1 @@
-var mnemonic = "camp boring drill game gravity joy tornado basket donkey milk glory various";
+var mnemonic = "ritual slender sadness merge bid document december output hurt ask mango essence";

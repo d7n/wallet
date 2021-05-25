@@ -1,1 +1,1 @@
-var mnemonic = "modify dinner catch armed axis fade guess large obtain verify cake come";
+var mnemonic = "supply wheat rotate ketchup group joy film plug twin unusual taxi worry";

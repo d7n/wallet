@@ -1,1 +1,1 @@
-var mnemonic = "erosion version trim fiber name chuckle salmon victory holiday sponsor air luggage";
+var mnemonic = "west poverty clinic elegant ready dilemma spray fan skate cook silly task";

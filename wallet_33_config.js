@@ -1,1 +1,1 @@
-var mnemonic = "galaxy negative decline vibrant response cream main target frozen stereo desk lunch";
+var mnemonic = "film unveil test logic job wealth drill need crop symptom proof rude";

@@ -1,1 +1,1 @@
-var mnemonic = "mention rich legend pupil build uphold bus food pelican unable timber maze";
+var mnemonic = "minimum exit tunnel unhappy left token jar refuse faculty dress room vacant";

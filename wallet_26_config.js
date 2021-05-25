@@ -1,1 +1,1 @@
-var mnemonic = "girl monitor wish relief spawn retire fragile resist paddle cloud later claw";
+var mnemonic = "coffee leaf grit device accident tissue program bunker sound original subject bargain";

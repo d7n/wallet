@@ -1,1 +1,1 @@
-var mnemonic = "proud job hollow pair accuse object often hamster penalty tomorrow rare police";
+var mnemonic = "turn crawl brush exit obtain vacant region bacon add snack subject depend";

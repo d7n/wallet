@@ -1,1 +1,1 @@
-var mnemonic = "distance atom track wing cruise section waste panic cloud want mean flip";
+var mnemonic = "glad laptop canvas reveal agree cycle woman rival scare more main produce";

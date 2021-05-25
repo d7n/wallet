@@ -1,1 +1,1 @@
-var mnemonic = "offer divert borrow wink inch glide piece brief nurse draft huge decorate";
+var mnemonic = "heavy ivory race joke laugh measure forum already term love ripple cat";

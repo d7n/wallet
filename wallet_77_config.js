@@ -1,1 +1,1 @@
-var mnemonic = "guide process imitate abuse ancient bicycle enjoy lobster screen elite shock discover";
+var mnemonic = "picnic oval wrap laugh unveil tumble gate laptop struggle juice three artist";

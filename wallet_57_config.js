@@ -1,1 +1,1 @@
-var mnemonic = "series gym cry tilt gospel scorpion crop stick foam region other tone";
+var mnemonic = "excite borrow stadium damage ocean exile wine fault winner net arrow chapter";

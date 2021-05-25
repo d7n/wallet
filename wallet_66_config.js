@@ -1,1 +1,1 @@
-var mnemonic = "annual corn sheriff cradle involve motor prison below fluid main resource lunar";
+var mnemonic = "eye cement age despair vocal rely primary silk begin rebuild core thunder";

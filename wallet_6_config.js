@@ -1,1 +1,1 @@
-var mnemonic = "magic coyote victory immense cry tuition genre dirt theory verb payment brother";
+var mnemonic = "solid silk sunny leg stove crane avoid cannon skate target own like";

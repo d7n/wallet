@@ -1,1 +1,1 @@
-var mnemonic = "pigeon grant novel grief theory scare pave west wood pitch about wood";
+var mnemonic = "asset garden tissue pretty normal vivid raven invite trend fee hungry profit";

@@ -1,1 +1,1 @@
-var mnemonic = "digital opera issue page turkey exact galaxy caution quote slush ostrich mix";
+var mnemonic = "ceiling chef crew mammal secret spider verify brand prefer tooth toast measure";

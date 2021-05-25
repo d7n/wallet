@@ -1,1 +1,1 @@
-var mnemonic = "enable clinic timber truth inner worry stairs retire cruise game notable hover";
+var mnemonic = "boy goat south hood sting rare armed ritual wisdom various soon library";

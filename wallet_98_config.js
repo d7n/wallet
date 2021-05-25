@@ -1,1 +1,1 @@
-var mnemonic = "unknown page truly trash face tragic this evidence engage absent topic page";
+var mnemonic = "rain unusual unusual tail judge coil name skull ginger spawn clog funny";

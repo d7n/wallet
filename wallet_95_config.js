@@ -1,1 +1,1 @@
-var mnemonic = "record green cheese capable kidney parrot hamster border appear sudden assault axis";
+var mnemonic = "half beauty again panel end crime south spice advance lemon movie paddle";

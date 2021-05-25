@@ -1,1 +1,1 @@
-var mnemonic = "van choice good chunk usage fruit major version push bunker shy reason";
+var mnemonic = "legal awful diesel safe actor uncle volume ill embark satisfy large crawl";

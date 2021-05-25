@@ -1,1 +1,1 @@
-var mnemonic = "unfair vivid slot outer fitness sure sister myth rely purchase scout sun";
+var mnemonic = "retire cradle balcony calm stuff kiss people lazy clip despair pulp model";

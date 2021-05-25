@@ -1,1 +1,1 @@
-var mnemonic = "coral sing barely mule toilet link photo reveal deliver code girl reward";
+var mnemonic = "cloud coin best decrease next basket human polar unlock stone forward coin";

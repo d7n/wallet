@@ -1,1 +1,1 @@
-var mnemonic = "powder swim shaft cave please have cat three foster address device mixture";
+var mnemonic = "evidence dentist face vehicle trial home cause catalog attend rural carpet stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake cash property gather trim scale conduct uncle better arrive stock certain";
+var mnemonic = "jar brother whisper dizzy infant adult lounge bulb woman witness gallery marriage";

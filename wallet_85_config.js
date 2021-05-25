@@ -1,1 +1,1 @@
-var mnemonic = "obscure point transfer defy foster useful gadget stomach slam hole border horse";
+var mnemonic = "talent parade weird pig win replace ensure theory mix oxygen slam crime";

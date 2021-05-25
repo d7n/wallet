@@ -1,1 +1,1 @@
-var mnemonic = "casino train smoke matrix spring fruit alone vehicle scan uncover label script";
+var mnemonic = "slush loan company key shuffle purchase exotic level life vital three dirt";

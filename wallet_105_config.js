@@ -1,1 +1,1 @@
-var mnemonic = "topic seek breeze enter begin peanut weasel favorite twenty bid laundry pause";
+var mnemonic = "steel tell planet program dynamic hunt beauty rice suspect shed silver slight";

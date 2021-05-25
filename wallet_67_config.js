@@ -1,1 +1,1 @@
-var mnemonic = "flight this spice alcohol tunnel race lady enhance network armed twist tattoo";
+var mnemonic = "forward engage fame manage type fame eye vapor vanish hero before december";

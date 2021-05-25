@@ -1,1 +1,1 @@
-var mnemonic = "various basic unable injury lonely bicycle under embrace evidence invest pass snap";
+var mnemonic = "patch absorb title unfair echo vintage master tell sweet glow bonus cattle";

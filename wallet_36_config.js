@@ -1,1 +1,1 @@
-var mnemonic = "vendor cupboard public pen prepare crane ketchup fresh puzzle cheap benefit jacket";
+var mnemonic = "spray change huge width fatigue toast cash patient energy slush type insect";

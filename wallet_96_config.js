@@ -1,1 +1,1 @@
-var mnemonic = "bag april claw shock relief citizen hill fantasy club isolate assist chimney";
+var mnemonic = "vacuum wide aware test fiscal spot practice flip atom dwarf throw lock";

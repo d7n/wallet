@@ -1,1 +1,1 @@
-var mnemonic = "glad kiwi kind idle zero edit matrix twist urban market vacuum slot";
+var mnemonic = "regret orange husband drip gossip find undo soap crush purse gym slender";

@@ -1,1 +1,1 @@
-var mnemonic = "panel water equal indoor banana hamster cereal weapon behave syrup seminar involve";
+var mnemonic = "inflict fragile defense below cannon remain olive umbrella crowd marble angle toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "day gesture sudden over identify path below boy clarify shoulder panel bid";
+var mnemonic = "ghost assume illegal afford convince language length silly vessel mutual write peace";

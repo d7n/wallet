@@ -1,1 +1,1 @@
-var mnemonic = "wink federal palm select photo frequent armor leaf uncle soap basket rural";
+var mnemonic = "series link rent copper web village renew liquid ceiling globe hat stable";

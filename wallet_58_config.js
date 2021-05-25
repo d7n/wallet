@@ -1,1 +1,1 @@
-var mnemonic = "record thunder smart neutral voyage various neglect barrel effort flush beauty coin";
+var mnemonic = "happy six margin current pass phrase ozone brass brick else table forum";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern cry couple burst require shiver prepare hold gap switch fit divorce";
+var mnemonic = "forest frog pool brisk room device talk adapt define pet earn dune";

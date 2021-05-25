@@ -1,1 +1,1 @@
-var mnemonic = "smile bleak orchard trim plastic caught soft guilt program symptom unknown gravity";
+var mnemonic = "satoshi expire glass diet fuel future bike access height farm friend dumb";

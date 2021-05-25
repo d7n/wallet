@@ -1,1 +1,1 @@
-var mnemonic = "nominee spoil shoe resemble settle soldier link decrease valid rural sense cage";
+var mnemonic = "emotion region pact exclude village scrub salon flee measure cram gorilla casino";

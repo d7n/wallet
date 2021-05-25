@@ -1,1 +1,1 @@
-var mnemonic = "output welcome nation dance check quality coin body advance destroy cattle dial";
+var mnemonic = "main nurse when rib derive cable outdoor deny expose basic purse attract";

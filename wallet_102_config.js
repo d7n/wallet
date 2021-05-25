@@ -1,1 +1,1 @@
-var mnemonic = "turkey advice nephew supreme zero version craft public foster poem ring ice";
+var mnemonic = "else salon humor rough cute fence dune display stomach basket weather melody";

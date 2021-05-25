@@ -1,1 +1,1 @@
-var mnemonic = "cause more enter drum swamp burger this sword regular shove goddess elegant";
+var mnemonic = "problem target valid grunt marriage fee dish voyage noise two few gesture";

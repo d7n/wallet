@@ -1,1 +1,1 @@
-var mnemonic = "web grief interest another play step mushroom pluck wink thumb brave once";
+var mnemonic = "shaft wall tonight front come thunder labor cluster crumble tortoise type fortune";

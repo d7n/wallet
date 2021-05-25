@@ -1,1 +1,1 @@
-var mnemonic = "jacket glory recycle rain sweet knife spread ring bunker shop unlock old";
+var mnemonic = "afraid cinnamon tobacco author dial episode gasp airport segment assault midnight segment";

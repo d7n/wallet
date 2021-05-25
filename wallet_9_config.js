@@ -1,1 +1,1 @@
-var mnemonic = "relief armor club any cheese oak pipe good pioneer powder goose display";
+var mnemonic = "mouse animal produce chat release twelve elder cement come hire feature love";

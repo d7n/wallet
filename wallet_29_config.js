@@ -1,1 +1,1 @@
-var mnemonic = "faint dice vital clap talent budget bitter evoke vague cram broken rule";
+var mnemonic = "possible ski build idle voyage certain snow use south rain syrup fetch";

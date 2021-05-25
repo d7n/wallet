@@ -1,1 +1,1 @@
-var mnemonic = "pact favorite aisle ketchup object matrix crouch figure kitchen version spice grit";
+var mnemonic = "evidence garment example message fiction orchard unaware release private bonus beef better";

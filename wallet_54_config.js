@@ -1,1 +1,1 @@
-var mnemonic = "arrow auction visual pattern swamp proof essay mixed argue strike derive mobile";
+var mnemonic = "young museum jelly pave flee buzz basic final inspire flash gossip purchase";

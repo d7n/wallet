@@ -1,1 +1,1 @@
-var mnemonic = "squirrel party lava good speak view modify damage inspire blur glow eternal";
+var mnemonic = "kidney escape gallery west proud dial virtual ostrich claw into summer erode";

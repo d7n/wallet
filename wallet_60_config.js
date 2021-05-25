@@ -1,1 +1,1 @@
-var mnemonic = "come collect shallow fancy spoon plate elbow acquire asthma little among belt";
+var mnemonic = "final renew round swallow large wood depth window music section copper flag";
