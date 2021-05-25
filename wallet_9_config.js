@@ -1,1 +1,1 @@
-var mnemonic = "idea market where ancient enhance keen there muscle genre mandate rapid car";
+var mnemonic = "arrow ocean need primary heavy skull equal moon very cloth cannon universe";

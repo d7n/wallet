@@ -1,1 +1,1 @@
-var mnemonic = "actor mother absurd spot mass unhappy thought garment intact wait spider shrug";
+var mnemonic = "mind chicken check present various swallow north pretty unusual pill own clap";

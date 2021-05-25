@@ -1,1 +1,1 @@
-var mnemonic = "topple average there divorce fashion curious radio rib actual magic phrase steak";
+var mnemonic = "bacon route ride omit artefact school pretty ski type obscure hero chapter";

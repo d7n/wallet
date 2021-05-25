@@ -1,1 +1,1 @@
-var mnemonic = "ghost intact property marble truth hedgehog stamp park surround sudden mixed hint";
+var mnemonic = "pioneer caught absurd bundle faith found bridge monster afraid school tunnel guess";

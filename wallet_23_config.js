@@ -1,1 +1,1 @@
-var mnemonic = "parrot wire limb canal romance cover basket misery tomato episode boring theme";
+var mnemonic = "doll auction urban know knife secret sketch faculty ugly exact space barely";

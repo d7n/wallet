@@ -1,1 +1,1 @@
-var mnemonic = "stadium coffee tennis hat biology market river churn broccoli aunt drop veteran";
+var mnemonic = "about nerve harbor nurse between escape fork engine toast debris pottery enhance";

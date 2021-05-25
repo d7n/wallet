@@ -1,1 +1,1 @@
-var mnemonic = "weapon small you leave shadow confirm level position humor anger note acquire";
+var mnemonic = "ugly once hungry mention tomato legal praise sheriff insane spare salute fortune";

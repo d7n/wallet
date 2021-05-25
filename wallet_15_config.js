@@ -1,1 +1,1 @@
-var mnemonic = "skirt tail enlist gown skate argue estate drive cupboard swear pumpkin wish";
+var mnemonic = "style list bleak ribbon water album pulse crater talent pull illegal below";

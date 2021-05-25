@@ -1,1 +1,1 @@
-var mnemonic = "paddle acquire chair photo six fat start autumn ranch blouse type upgrade";
+var mnemonic = "phone differ seed enhance scare snake pioneer rent panic describe museum lens";

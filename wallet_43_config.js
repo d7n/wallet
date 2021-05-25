@@ -1,1 +1,1 @@
-var mnemonic = "sudden wisdom column galaxy arrange mail stick turtle cinnamon upper radio owner";
+var mnemonic = "crop vivid hint finish furnace hunt battle fun know health swap snack";

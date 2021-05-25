@@ -1,1 +1,1 @@
-var mnemonic = "away snap public bind world grain mansion notice account joy lava drive";
+var mnemonic = "giraffe omit brick keen crack match puppy tribe slice foster aware skill";

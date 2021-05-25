@@ -1,1 +1,1 @@
-var mnemonic = "total rival usual cancel goat vast peanut surprise act main idea sick";
+var mnemonic = "episode model stamp stock author ahead silent unaware example inherit also stick";

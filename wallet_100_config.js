@@ -1,1 +1,1 @@
-var mnemonic = "stick amateur outdoor twelve connect property park vessel blur idea lock seat";
+var mnemonic = "police bundle paddle soft stove inherit predict cry abandon song polar require";

@@ -1,1 +1,1 @@
-var mnemonic = "image strike industry spice scorpion movie dolphin muscle struggle grid deputy unhappy";
+var mnemonic = "mushroom juice genre royal sausage item clutch creek brain wire there globe";

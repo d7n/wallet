@@ -1,1 +1,1 @@
-var mnemonic = "position kick lamp picnic margin account kite mosquito diet season taxi shadow";
+var mnemonic = "extend ski wedding final bird waste flame earth tonight nerve snake tuition";

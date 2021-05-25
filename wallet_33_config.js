@@ -1,1 +1,1 @@
-var mnemonic = "voyage trust script ankle ribbon trash track lucky follow chef crater among";
+var mnemonic = "number random symbol multiply valid pencil actor record host mix will federal";

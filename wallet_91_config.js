@@ -1,1 +1,1 @@
-var mnemonic = "avoid act waste divorce outer breeze select cotton soda coach coconut valley";
+var mnemonic = "camera city lawn spray ski expand civil small doll glimpse system surface";

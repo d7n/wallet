@@ -1,1 +1,1 @@
-var mnemonic = "evil honey oval thought mom slim make celery urge artwork captain silent";
+var mnemonic = "era awake solution elder borrow degree subway evoke elbow dynamic picture produce";

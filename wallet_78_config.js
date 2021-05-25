@@ -1,1 +1,1 @@
-var mnemonic = "faint once zero game menu fault captain try hill garment unhappy sand";
+var mnemonic = "main frequent grit system fortune mule dish unfold bridge carpet blush inquiry";

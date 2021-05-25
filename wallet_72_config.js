@@ -1,1 +1,1 @@
-var mnemonic = "raw cream one twenty door tourist orphan youth lava conduct source today";
+var mnemonic = "first grant stomach blind demise burger sail dwarf engine rhythm robot crucial";

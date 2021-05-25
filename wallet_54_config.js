@@ -1,1 +1,1 @@
-var mnemonic = "hint subject wasp task salon put enact case tag labor pudding when";
+var mnemonic = "cluster void raccoon alpha tragic say laundry drama rabbit utility win trumpet";

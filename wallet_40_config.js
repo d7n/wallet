@@ -1,1 +1,1 @@
-var mnemonic = "usage faith upset treat rally faith often goose apart mountain apple sort";
+var mnemonic = "element guitar sunny exist body guitar spend grab reopen syrup street silk";

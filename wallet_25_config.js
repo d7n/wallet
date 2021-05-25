@@ -1,1 +1,1 @@
-var mnemonic = "siren vacant gasp balcony picnic inspire drink hotel suffer crawl uphold unhappy";
+var mnemonic = "usage all area appear danger scrap general stadium ostrich congress frequent biology";

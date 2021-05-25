@@ -1,1 +1,1 @@
-var mnemonic = "force luggage connect climb tumble inside beauty discover velvet skirt host stick";
+var mnemonic = "day sing garbage abuse beauty exchange puppy obtain feel assault barrel jaguar";

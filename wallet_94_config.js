@@ -1,1 +1,1 @@
-var mnemonic = "process gown truth brick coyote level long saddle trumpet juice organ bulk";
+var mnemonic = "balance genius ridge climb immense nasty salad legal coconut fluid place liberty";

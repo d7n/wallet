@@ -1,1 +1,1 @@
-var mnemonic = "across ranch curious robot option beef olive thumb verb absent elbow position";
+var mnemonic = "leave hurry thunder clown hero typical beach movie merry build hello total";

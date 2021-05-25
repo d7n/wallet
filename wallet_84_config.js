@@ -1,1 +1,1 @@
-var mnemonic = "before expect scrap able feed letter capital diet book accident upon picnic";
+var mnemonic = "section modify cactus minute fatigue dignity damp artefact pepper fatal jar imitate";

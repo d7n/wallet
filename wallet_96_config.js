@@ -1,1 +1,1 @@
-var mnemonic = "hunt project symptom tunnel pigeon ridge avoid job hidden view butter saddle";
+var mnemonic = "catalog view skull mystery ordinary room butter together kiss health rent behave";

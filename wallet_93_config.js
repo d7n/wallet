@@ -1,1 +1,1 @@
-var mnemonic = "bunker morning jelly interest chest beach certain glass moon feel social recall";
+var mnemonic = "renew notice success flat scissors strategy call coach diagram long minor mammal";

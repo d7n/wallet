@@ -1,1 +1,1 @@
-var mnemonic = "arrange drill select shoulder power chalk dice kangaroo net expect lesson wrong";
+var mnemonic = "fetch wing gentle sting lava good chunk social input leisure type jaguar";

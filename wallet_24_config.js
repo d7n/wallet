@@ -1,1 +1,1 @@
-var mnemonic = "fee green usual discover web draft fatigue rate disagree actress cash first";
+var mnemonic = "trip void direct drum eyebrow typical thunder spy library west dragon spider";

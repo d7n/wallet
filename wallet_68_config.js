@@ -1,1 +1,1 @@
-var mnemonic = "visa notice two gorilla item design earn learn comic control omit lend";
+var mnemonic = "enlist brave inquiry manual scissors business way spin drink trash inflict usage";

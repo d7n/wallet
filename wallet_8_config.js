@@ -1,1 +1,1 @@
-var mnemonic = "extend clerk bulb income fatal obvious divert artist dash super robot impose";
+var mnemonic = "capable render rifle draft clay husband strategy surge actual yellow major april";

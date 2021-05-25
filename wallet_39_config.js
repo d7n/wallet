@@ -1,1 +1,1 @@
-var mnemonic = "doctor west cereal industry fade ginger march muscle stairs useless present era";
+var mnemonic = "street side nephew repair crawl cigar track dinosaur quarter dad aisle goose";

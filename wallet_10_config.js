@@ -1,1 +1,1 @@
-var mnemonic = "latin second ship donor library distance ginger manage topple interest logic smooth";
+var mnemonic = "meadow will wrong indicate night tourist cheap garment diamond luggage glue tent";

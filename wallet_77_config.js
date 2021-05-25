@@ -1,1 +1,1 @@
-var mnemonic = "explain write erode electric dog spell power student cousin expand claim pigeon";
+var mnemonic = "electric scrub excuse submit drive bar neglect nut fine awesome essay quality";

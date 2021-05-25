@@ -1,1 +1,1 @@
-var mnemonic = "volume debate able arrive lunar style bench parade before burger unusual gesture";
+var mnemonic = "crazy wrong admit plug balance course then artefact gas rhythm dove case";

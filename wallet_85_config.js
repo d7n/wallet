@@ -1,1 +1,1 @@
-var mnemonic = "wet lemon never rate object source inquiry report sauce wrestle pony achieve";
+var mnemonic = "must valley vessel side achieve filter surface duck unhappy gloom pipe wait";

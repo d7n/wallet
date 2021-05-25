@@ -1,1 +1,1 @@
-var mnemonic = "feed praise choose involve view arrange noise balcony one shed pudding slim";
+var mnemonic = "coil voice leader document business purpose flower infant cannon usage fresh world";

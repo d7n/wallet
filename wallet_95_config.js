@@ -1,1 +1,1 @@
-var mnemonic = "obscure frequent spend brush tag region message festival worry crack excess pet";
+var mnemonic = "maze course armor charge hill spot father width type battle shield turtle";

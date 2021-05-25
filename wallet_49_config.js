@@ -1,1 +1,1 @@
-var mnemonic = "gap drip rotate short input glad hammer dial version electric leisure level";
+var mnemonic = "simple slice resource grace slush lady agent enforce brief hurdle easy price";

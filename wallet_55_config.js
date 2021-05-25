@@ -1,1 +1,1 @@
-var mnemonic = "buddy trust castle spot woman moon mad rebel churn nerve flight helmet";
+var mnemonic = "card radar aspect employ skirt museum spice kangaroo submit yellow return fiscal";

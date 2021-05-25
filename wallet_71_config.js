@@ -1,1 +1,1 @@
-var mnemonic = "bacon sail scout axis enter during smile please absent weapon debris syrup";
+var mnemonic = "jaguar sing awful stomach radio auction rebuild wealth rabbit gaze session noise";

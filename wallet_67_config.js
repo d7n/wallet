@@ -1,1 +1,1 @@
-var mnemonic = "leave select unfold tuna clog cricket claim furnace erupt uncle rule trade";
+var mnemonic = "very farm famous guess flavor exotic way replace hollow vast diesel universe";

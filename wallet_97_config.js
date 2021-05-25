@@ -1,1 +1,1 @@
-var mnemonic = "ability annual canyon scrub census fog please always copper slush analyst taxi";
+var mnemonic = "trophy clay sunset shoe chimney december cage close absent brain advance pride";

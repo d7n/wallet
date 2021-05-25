@@ -1,1 +1,1 @@
-var mnemonic = "jewel way tribe service audit tooth banner legend mention kingdom fury gown";
+var mnemonic = "alter visa expose filter what clean hair post address top shell that";

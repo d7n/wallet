@@ -1,1 +1,1 @@
-var mnemonic = "tiny congress zone treat area buddy pony royal venture honey youth island";
+var mnemonic = "mammal ignore tenant mind happy also session eight delay urge century innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog fire exit wine equip corn peanut gorilla cloud oxygen occur crop";
+var mnemonic = "brand large deliver amount unlock inner rude bargain confirm upon strategy toe";

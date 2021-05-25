@@ -1,1 +1,1 @@
-var mnemonic = "assault unable acquire arrange swallow kidney pitch illness above goddess taxi decline";
+var mnemonic = "unknown loan library beyond weasel acquire thumb spring kangaroo glide edit film";

@@ -1,1 +1,1 @@
-var mnemonic = "better soft worth focus catch fashion lab hockey biology pig lecture language";
+var mnemonic = "conduct assault tool unaware spare object nuclear desk wave roast photo among";

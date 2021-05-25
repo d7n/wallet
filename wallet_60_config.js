@@ -1,1 +1,1 @@
-var mnemonic = "myth vehicle actress scheme shuffle birth field confirm disease patient key gasp";
+var mnemonic = "elite then still neither wing allow hill destroy hammer error stove speak";

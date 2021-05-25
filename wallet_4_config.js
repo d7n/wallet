@@ -1,1 +1,1 @@
-var mnemonic = "liberty tribe decide gloom cluster solid century reason history alpha book fitness";
+var mnemonic = "network broken mango plate pledge alter protect silk shrug civil future that";

@@ -1,1 +1,1 @@
-var mnemonic = "treat purse output expand goddess artist midnight snack witness law anger eagle";
+var mnemonic = "surface rhythm settle tree peace identify royal square kit observe snake blind";

@@ -1,1 +1,1 @@
-var mnemonic = "goat sail begin lounge sauce eye neither giggle shrug unaware dynamic gaze";
+var mnemonic = "spell hedgehog slush remain unable one jump pitch cycle coffee test vital";

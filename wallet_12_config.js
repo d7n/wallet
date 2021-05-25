@@ -1,1 +1,1 @@
-var mnemonic = "year lounge crunch spoil broom cycle matter quantum penalty junk glass unhappy";
+var mnemonic = "gadget wide shallow tooth fan top width guitar winter rule nephew maximum";

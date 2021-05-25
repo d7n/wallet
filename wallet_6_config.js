@@ -1,1 +1,1 @@
-var mnemonic = "cover fossil kite risk celery tourist arm render vivid cram buzz virtual";
+var mnemonic = "club just until educate shed hold reward blanket horn unfold pilot wild";

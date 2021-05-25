@@ -1,1 +1,1 @@
-var mnemonic = "maid evolve couple custom hour uniform scan enter trend deputy flower myself";
+var mnemonic = "speak ring dice zebra north crew tongue able pudding congress connect trade";

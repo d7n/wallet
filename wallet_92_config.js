@@ -1,1 +1,1 @@
-var mnemonic = "food random huge net twelve twist shadow dumb hedgehog alcohol gift hip";
+var mnemonic = "wish corn orbit dignity cradle accuse amused equal wash rebuild silk alcohol";

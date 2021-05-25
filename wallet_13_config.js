@@ -1,1 +1,1 @@
-var mnemonic = "very tonight slogan champion judge always match ivory hobby frame stumble loud";
+var mnemonic = "soup write flame wagon come review coach scare sick claim benefit mechanic";

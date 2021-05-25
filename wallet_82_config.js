@@ -1,1 +1,1 @@
-var mnemonic = "elegant admit term buyer scatter few solar similar bread actress search calm";
+var mnemonic = "false anxiety swallow abstract inner must female pretty together person silver brick";

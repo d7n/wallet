@@ -1,1 +1,1 @@
-var mnemonic = "caution receive update clay casino dizzy enhance side beyond dizzy thrive art";
+var mnemonic = "powder allow caution motor foil math chair dwarf letter left public cute";

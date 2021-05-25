@@ -1,1 +1,1 @@
-var mnemonic = "joke sugar fiction robot print develop joy man finger tomorrow hollow hobby";
+var mnemonic = "walk depend badge mixed about reject rent indoor smart few valley observe";

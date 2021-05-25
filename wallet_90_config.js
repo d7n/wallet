@@ -1,1 +1,1 @@
-var mnemonic = "occur real salad gospel wisdom dinner truly donkey bundle short term put";
+var mnemonic = "verb return shaft couch useful own anxiety midnight destroy leave april abuse";

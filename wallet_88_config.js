@@ -1,1 +1,1 @@
-var mnemonic = "improve virtual damage exist perfect essence tower drip dish tent follow dance";
+var mnemonic = "duck time youth tower spatial pass clip cargo monkey relief volcano favorite";

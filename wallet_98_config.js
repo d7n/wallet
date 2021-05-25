@@ -1,1 +1,1 @@
-var mnemonic = "radar reward welcome expose rigid scrap rare action stomach wing maze trouble";
+var mnemonic = "spice cost ensure alien kangaroo eyebrow chicken similar garbage east surge knock";

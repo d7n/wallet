@@ -1,1 +1,1 @@
-var mnemonic = "hat capital surround original receive suspect vintage title pear attract attract habit";
+var mnemonic = "clean bag habit power ostrich envelope rail arrest today seek borrow tree";

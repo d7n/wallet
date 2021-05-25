@@ -1,1 +1,1 @@
-var mnemonic = "whale laundry alarm sorry spell use assist forest solid occur reason whale";
+var mnemonic = "citizen dolphin sand shell neck bread quick license spy pizza route adjust";

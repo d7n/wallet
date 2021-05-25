@@ -1,1 +1,1 @@
-var mnemonic = "genuine ivory icon lab beef funny surprise include slam seed situate digital";
+var mnemonic = "record video figure bullet earth size help dice wrist room bargain arctic";

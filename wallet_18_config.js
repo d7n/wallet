@@ -1,1 +1,1 @@
-var mnemonic = "assault rebuild actor roast monster hamster pill cigar error firm neglect fashion";
+var mnemonic = "better crisp sock clerk truly motion sugar salon orchard menu senior loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "minute ship dog hello route price blouse isolate hollow profit paddle sand";
+var mnemonic = "square fluid crop issue release text drive plastic seek soda pony arrange";

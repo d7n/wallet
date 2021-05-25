@@ -1,1 +1,1 @@
-var mnemonic = "fabric bomb hurry slogan daughter there venue hungry galaxy keep differ fall";
+var mnemonic = "enemy bullet jelly chef equip card fence possible arrow library danger grab";

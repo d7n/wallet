@@ -1,1 +1,1 @@
-var mnemonic = "session cricket often latin limb rule crush relief number vivid check goddess";
+var mnemonic = "eagle speed august remember inmate tool anxiety medal valid journey chuckle rather";

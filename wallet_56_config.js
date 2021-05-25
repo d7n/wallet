@@ -1,1 +1,1 @@
-var mnemonic = "around magnet casual put useful faint outer panic job pass script paper";
+var mnemonic = "milk cute sample buddy forget concert math match submit occur clerk circle";

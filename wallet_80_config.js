@@ -1,1 +1,1 @@
-var mnemonic = "uncover have fringe must month rebuild fuel carry glow bottom they real";
+var mnemonic = "humble slow receive outdoor stick apart cram leg glove kangaroo woman correct";

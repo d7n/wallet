@@ -1,1 +1,1 @@
-var mnemonic = "garlic remind eternal regular work tooth cover script draw shoe body priority";
+var mnemonic = "bunker column never trust bid fatal truth despair reject fat knee layer";

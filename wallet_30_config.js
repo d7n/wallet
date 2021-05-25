@@ -1,1 +1,1 @@
-var mnemonic = "ramp check work travel social reward marble social jar dignity prize neglect";
+var mnemonic = "group host solar gain winner snap topple wrap inform wear foster dose";

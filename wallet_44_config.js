@@ -1,1 +1,1 @@
-var mnemonic = "hobby session claim load neck try also wink day near blade tenant";
+var mnemonic = "play gauge diagram various right still myth matter sport total material select";

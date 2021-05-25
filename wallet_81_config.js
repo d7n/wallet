@@ -1,1 +1,1 @@
-var mnemonic = "nation crop tooth excite coil hedgehog rotate delay general erosion parrot kingdom";
+var mnemonic = "embody quit dog dragon wrestle great receive junior ramp vehicle embody region";

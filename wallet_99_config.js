@@ -1,1 +1,1 @@
-var mnemonic = "install eye hotel oak uncover ribbon base print toy find nerve rib";
+var mnemonic = "never wheel grass series control cart analyst twin describe pony toss analyst";

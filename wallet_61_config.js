@@ -1,1 +1,1 @@
-var mnemonic = "success protect guard vacuum grid better net school such rescue coral defy";
+var mnemonic = "hamster winner limb sheriff able pact hospital head pave leisure spare dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "spike rally exile perfect economy funny angry abstract blast dance evoke security";
+var mnemonic = "fatigue race arrest stem alpha snack winter stone major bamboo embrace you";

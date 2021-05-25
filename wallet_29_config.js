@@ -1,1 +1,1 @@
-var mnemonic = "chat river abstract trumpet because digital other cluster script way success three";
+var mnemonic = "bunker dune coach vague advance hawk aspect bulb cinnamon cloth aspect ecology";

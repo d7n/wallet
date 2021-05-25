@@ -1,1 +1,1 @@
-var mnemonic = "enhance vintage blue submit improve frog prize magnet truly shy blind uniform";
+var mnemonic = "scan wrap human economy inmate theory useless hover knife cool solution trophy";

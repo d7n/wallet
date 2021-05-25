@@ -1,1 +1,1 @@
-var mnemonic = "roast sure more shy artwork napkin will opera coffee essence canoe time";
+var mnemonic = "prison already federal furnace happy hill pretty human bounce bike please solid";

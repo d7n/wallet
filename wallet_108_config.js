@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow label recall alcohol case hundred tuition nerve whisper picture surround head";
+var mnemonic = "cabin hammer drive update any anxiety cruise magic escape gym put dragon";

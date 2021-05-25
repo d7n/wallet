@@ -1,1 +1,1 @@
-var mnemonic = "scene filter course drive engage tray laugh require famous panda foster weird";
+var mnemonic = "girl fresh oil liberty close wild rhythm tourist empty great easily sting";

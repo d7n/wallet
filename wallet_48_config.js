@@ -1,1 +1,1 @@
-var mnemonic = "butter danger toast humor rescue focus forward flock lawsuit banner play iron";
+var mnemonic = "color chapter very viable mail expect city embody other smart interest vital";

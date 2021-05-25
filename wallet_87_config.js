@@ -1,1 +1,1 @@
-var mnemonic = "boat amused board check bind food board zebra claw charge flash final";
+var mnemonic = "priority night october awkward also rule donkey replace kitten govern sell mango";

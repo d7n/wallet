@@ -1,1 +1,1 @@
-var mnemonic = "retreat lonely cousin cinnamon sad truly economy diesel silent amused member aspect";
+var mnemonic = "prevent industry kiss alien motor bench match gospel typical trouble gravity scout";

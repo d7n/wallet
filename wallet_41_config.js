@@ -1,1 +1,1 @@
-var mnemonic = "rent zero addict antenna future away muffin slim original name hello valve";
+var mnemonic = "music cause excuse excite barrel palace lizard sketch pass bread harsh maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase example oil final inhale bitter theme click misery cotton private surprise";
+var mnemonic = "parrot lobster enhance napkin over field cement skill wagon only youth nut";

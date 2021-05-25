@@ -1,1 +1,1 @@
-var mnemonic = "unfold acquire diesel crawl diesel wall annual aspect kit poet history portion";
+var mnemonic = "mechanic day guess supply south wire end appear enhance energy indoor season";

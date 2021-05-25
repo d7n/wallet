@@ -1,1 +1,1 @@
-var mnemonic = "notice wash giggle wall cloth novel visa soldier ride mystery exercise shield";
+var mnemonic = "topple shallow wisdom original pencil mouse pistol require dismiss chest sunny march";
