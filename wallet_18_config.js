@@ -1,1 +1,1 @@
-var mnemonic = "sword orange document upgrade forum inside mass rival host twice room slim";
+var mnemonic = "hope crouch bind battle barely quote wide dose illness junk execute addict";

@@ -1,1 +1,1 @@
-var mnemonic = "girl vanish vocal flag panda among scrap stove dream defy dream draw";
+var mnemonic = "casino knife cry this state window bonus town fortune permit brick truly";

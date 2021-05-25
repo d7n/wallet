@@ -1,1 +1,1 @@
-var mnemonic = "capital letter garden account husband soldier kitchen relief gadget thank swallow engine";
+var mnemonic = "bacon sheriff require you scan bar trigger cargo attend member equip pole";

@@ -1,1 +1,1 @@
-var mnemonic = "grain edit proud plastic bracket transfer slush ugly salt cat broken before";
+var mnemonic = "adapt shield helmet matter hover future truly when neutral police they illness";

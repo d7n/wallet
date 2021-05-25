@@ -1,1 +1,1 @@
-var mnemonic = "magnet trial census frame over since brown trash eternal frog item ball";
+var mnemonic = "upset final benefit prize steel velvet candy zoo special spell turn flock";

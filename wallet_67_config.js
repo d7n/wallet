@@ -1,1 +1,1 @@
-var mnemonic = "inch jungle kingdom staff small surge eager lava arch surround three myself";
+var mnemonic = "school fresh parade civil industry rib stadium genre uniform spike security basket";

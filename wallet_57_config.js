@@ -1,1 +1,1 @@
-var mnemonic = "cotton kit undo prison arctic mask glow develop satisfy punch again kind";
+var mnemonic = "convince idle rubber concert small busy gloom raccoon crystal neck flame blast";

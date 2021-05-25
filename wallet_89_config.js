@@ -1,1 +1,1 @@
-var mnemonic = "media aisle try alone custom phrase canvas bubble wisdom flag night lottery";
+var mnemonic = "mushroom update daring dragon surround clip destroy retire antique fox oven cute";

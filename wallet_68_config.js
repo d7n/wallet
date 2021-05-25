@@ -1,1 +1,1 @@
-var mnemonic = "echo describe chronic owner spoon skin rifle armed brush aware subject receive";
+var mnemonic = "route tilt never earn track rice other poem win early trend improve";

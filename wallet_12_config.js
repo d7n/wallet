@@ -1,1 +1,1 @@
-var mnemonic = "spider medal lounge exclude ordinary circle lady deny artist title mutual wasp";
+var mnemonic = "cluster drama fork ketchup length vote mask bamboo wisdom runway elbow come";

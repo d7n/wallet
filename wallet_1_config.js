@@ -1,1 +1,1 @@
-var mnemonic = "month promote among high decade casino robot puzzle blast erupt adapt smart";
+var mnemonic = "photo palace sniff escape aisle parrot proof message hurdle click old brush";

@@ -1,1 +1,1 @@
-var mnemonic = "powder spy inch smile buzz second mansion provide absorb east biology castle";
+var mnemonic = "museum hard analyst adult lion arena echo dove start scrub loop fault";

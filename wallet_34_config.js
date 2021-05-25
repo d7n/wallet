@@ -1,1 +1,1 @@
-var mnemonic = "short sight educate curtain vapor minute act layer drip point verify sail";
+var mnemonic = "distance ability practice penalty mother option word melody equip diary lumber decorate";

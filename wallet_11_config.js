@@ -1,1 +1,1 @@
-var mnemonic = "kiss hockey wash vague soda mistake talent bus click hotel vanish six";
+var mnemonic = "holiday crowd recall spawn science error trumpet damp disorder private matrix annual";

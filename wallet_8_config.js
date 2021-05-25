@@ -1,1 +1,1 @@
-var mnemonic = "cost desk man leader peasant maple fatigue act broken problem urban agree";
+var mnemonic = "attitude index thumb connect increase nation smooth teach firm fossil solar critic";

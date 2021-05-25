@@ -1,1 +1,1 @@
-var mnemonic = "hill give atom option gravity photo eye flock wild seven envelope edge";
+var mnemonic = "stuff diesel eagle peanut bonus solution lava spot dice stool flip banner";

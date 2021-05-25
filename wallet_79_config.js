@@ -1,1 +1,1 @@
-var mnemonic = "spider bottom salad orbit trend burger hair awful early venue cousin pyramid";
+var mnemonic = "tilt corn tide slam gym annual foil venue laptop east myself amateur";

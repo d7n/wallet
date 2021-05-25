@@ -1,1 +1,1 @@
-var mnemonic = "liquid globe kidney rhythm ladder rail pole topple gaze favorite crazy thank";
+var mnemonic = "lesson frog raven ticket glory moment issue pumpkin must limit wedding grit";

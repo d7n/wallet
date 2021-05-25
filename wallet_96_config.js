@@ -1,1 +1,1 @@
-var mnemonic = "pool again earn black gaze pulp box month unfair agent garden middle";
+var mnemonic = "state cement adult private laptop series sugar evoke average sunset wise ethics";

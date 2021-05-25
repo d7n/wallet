@@ -1,1 +1,1 @@
-var mnemonic = "bounce slim furnace kingdom hidden sort march dumb omit sand check speed";
+var mnemonic = "share spike urban lift grid awesome envelope gold demand bag play ripple";

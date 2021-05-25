@@ -1,1 +1,1 @@
-var mnemonic = "fresh lobster example route century such spy bullet nut basic soon artist";
+var mnemonic = "produce topic danger unaware inside remain uncover episode will grass machine one";

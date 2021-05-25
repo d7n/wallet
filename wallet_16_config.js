@@ -1,1 +1,1 @@
-var mnemonic = "company dream ivory resemble adjust hybrid long decorate tomato van family join";
+var mnemonic = "decorate stable edge noble debris thrive column accident core engage license foam";

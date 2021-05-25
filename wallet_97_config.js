@@ -1,1 +1,1 @@
-var mnemonic = "will energy lawn diet accident crazy surface duck damage similar pipe trouble";
+var mnemonic = "manual start random sustain enjoy soap blind skin shield embody hour various";

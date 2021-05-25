@@ -1,1 +1,1 @@
-var mnemonic = "pair walk evolve loop illegal firm wave model fossil trim cinnamon immense";
+var mnemonic = "trade that weasel current spread ranch seat unaware divide collect expand salt";

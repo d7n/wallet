@@ -1,1 +1,1 @@
-var mnemonic = "innocent obscure limit worry noodle diet junk pink silent bonus oyster obtain";
+var mnemonic = "lock cruel ability swarm spatial tent phrase number spike oven path spin";

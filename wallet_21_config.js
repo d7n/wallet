@@ -1,1 +1,1 @@
-var mnemonic = "extend expose more denial plug pizza empower define toilet claim intact refuse";
+var mnemonic = "name cable type pear giggle worth child cream search idea melody magnet";

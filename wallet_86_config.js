@@ -1,1 +1,1 @@
-var mnemonic = "desk unit call pluck hello smoke bird admit people media scorpion stay";
+var mnemonic = "pudding educate manage siege fitness vote finger devote ancient remember spell math";

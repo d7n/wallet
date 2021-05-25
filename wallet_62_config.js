@@ -1,1 +1,1 @@
-var mnemonic = "crawl culture enhance animal resist essence evoke tool party any dance payment";
+var mnemonic = "genuine awesome defy okay upgrade magic dragon barrel yard rain card pumpkin";

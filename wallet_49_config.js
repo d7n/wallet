@@ -1,1 +1,1 @@
-var mnemonic = "relax lock urban squirrel ice surprise motion learn affair frog drift demand";
+var mnemonic = "surface captain friend drum blur scheme wool frog loan pact pupil lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "electric arrive guilt anger win twin predict humor orphan pair diamond output";
+var mnemonic = "profit jewel forum drip media brisk rely arrange reward tooth ribbon fall";

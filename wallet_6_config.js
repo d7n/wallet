@@ -1,1 +1,1 @@
-var mnemonic = "spoon tilt shoulder rural pride endorse dish impact virtual message error police";
+var mnemonic = "hour faint adjust conduct wire calm release travel dizzy six code velvet";

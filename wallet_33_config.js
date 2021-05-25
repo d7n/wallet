@@ -1,1 +1,1 @@
-var mnemonic = "eye usual torch coffee actual salmon giant model pond struggle enact shiver";
+var mnemonic = "scheme artist immune carbon chunk model practice game sphere embody yellow jazz";

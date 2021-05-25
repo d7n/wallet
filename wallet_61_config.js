@@ -1,1 +1,1 @@
-var mnemonic = "huge denial valve funny brick anxiety unfold hole rib across sugar clerk";
+var mnemonic = "village brisk tobacco fun apology actor bean cover afford carbon home actress";

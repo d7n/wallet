@@ -1,1 +1,1 @@
-var mnemonic = "nothing tuition cushion issue involve donkey embrace wrestle argue utility kingdom habit";
+var mnemonic = "choice regret garbage camp celery electric gather video puzzle rule height join";

@@ -1,1 +1,1 @@
-var mnemonic = "shove sweet donkey aspect fog label cat during weasel resource sting pledge";
+var mnemonic = "arm legend buzz aisle south unique focus sting gift cable merge blossom";

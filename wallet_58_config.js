@@ -1,1 +1,1 @@
-var mnemonic = "day lazy alpha diet tragic trade female monkey summer pyramid acid shed";
+var mnemonic = "rough pet increase october amazing smart medal predict convince subject capable stick";

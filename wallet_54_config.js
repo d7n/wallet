@@ -1,1 +1,1 @@
-var mnemonic = "design benefit want october fame sentence meadow together clerk siren carpet nut";
+var mnemonic = "woman bullet pattern obtain license stuff hurt pledge swear garage nest minimum";

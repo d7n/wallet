@@ -1,1 +1,1 @@
-var mnemonic = "service hollow wool moment total kit wisdom surface kiwi lawsuit obtain kiss";
+var mnemonic = "solid motor motion swap tribe rent index elephant dentist update turn maze";

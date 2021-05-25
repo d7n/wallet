@@ -1,1 +1,1 @@
-var mnemonic = "middle unaware coast prize aware border royal acid spell peanut security fiscal";
+var mnemonic = "suspect snap key repair dinosaur cave raise supreme usage pluck gap caution";

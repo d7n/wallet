@@ -1,1 +1,1 @@
-var mnemonic = "toe ignore error dinner midnight conduct globe humble kingdom pet say arrive";
+var mnemonic = "clip response child arch milk month turn ski connect hello ripple life";

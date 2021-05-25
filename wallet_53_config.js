@@ -1,1 +1,1 @@
-var mnemonic = "over control ability fan actress welcome speak raw lounge envelope absorb swift";
+var mnemonic = "adapt siren now zebra tattoo middle cargo upgrade faculty final transfer gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "neck actress immense smart knock ability such easily sock celery layer equal";
+var mnemonic = "fan system utility eternal addict pitch twenty inform mass edge immune taste";

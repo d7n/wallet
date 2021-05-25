@@ -1,1 +1,1 @@
-var mnemonic = "client journey moment length stool hamster peanut hotel rhythm area remind bronze";
+var mnemonic = "fury sheriff hammer gaze bacon blue oval taste sugar gesture travel rain";

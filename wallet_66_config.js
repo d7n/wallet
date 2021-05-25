@@ -1,1 +1,1 @@
-var mnemonic = "crisp huge piece enable involve plunge canoe garden camp mesh build region";
+var mnemonic = "virtual fossil quote enemy kitchen answer gasp lazy refuse reflect main swallow";

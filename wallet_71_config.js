@@ -1,1 +1,1 @@
-var mnemonic = "gentle pair sniff solution fit situate cave citizen saddle mistake tag strike";
+var mnemonic = "soap enable away invest marine delay pudding owner resist talk diagram dismiss";

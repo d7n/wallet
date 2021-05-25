@@ -1,1 +1,1 @@
-var mnemonic = "hard coach harsh choose require leisure patch perfect card warm include illegal";
+var mnemonic = "bleak elder off salad million clever leave melt industry rival apart visual";

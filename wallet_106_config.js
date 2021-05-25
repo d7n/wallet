@@ -1,1 +1,1 @@
-var mnemonic = "seek health exit police prevent small stay shop ensure curtain assume latin";
+var mnemonic = "dice clip adjust slogan borrow dune snack people exclude vast twin buddy";

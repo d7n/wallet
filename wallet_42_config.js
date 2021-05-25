@@ -1,1 +1,1 @@
-var mnemonic = "glance metal sibling oppose flat couch pig copy praise card usual jump";
+var mnemonic = "ice slogan august tuition shine okay program case auto coin price film";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo delay believe nest doctor jealous culture dutch join wood over quality";
+var mnemonic = "tissue fade nasty color bus hint trigger rude side crazy finger engage";

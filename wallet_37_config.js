@@ -1,1 +1,1 @@
-var mnemonic = "gold mandate view assault toilet oak fork slow emotion mirror weird permit";
+var mnemonic = "room rare cart then alien indicate three expect neither card display club";

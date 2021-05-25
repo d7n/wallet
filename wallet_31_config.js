@@ -1,1 +1,1 @@
-var mnemonic = "foam result quiz brown expect novel fruit obscure ladder hold inquiry voyage";
+var mnemonic = "enforce omit warm you tail assume basic tone cave estate faint short";

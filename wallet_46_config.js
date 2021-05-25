@@ -1,1 +1,1 @@
-var mnemonic = "weasel initial tennis wish amazing best gravity sight width copy carbon unique";
+var mnemonic = "guitar way more clarify cousin corn history quick indoor wrong number review";

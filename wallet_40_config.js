@@ -1,1 +1,1 @@
-var mnemonic = "stand wrong edit milk duty enable next pave bean when differ ship";
+var mnemonic = "width maid purse bulb debris tone keen black agent floor good disagree";

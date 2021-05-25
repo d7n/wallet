@@ -1,1 +1,1 @@
-var mnemonic = "chef rapid rail air chair beef tribe toss slot grit copy elite";
+var mnemonic = "okay neither kiss shadow rotate oblige snow analyst enact price movie supply";

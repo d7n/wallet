@@ -1,1 +1,1 @@
-var mnemonic = "noodle quiz path harsh sentence ivory seed defy figure wife abandon wait";
+var mnemonic = "sail file sock cash repeat huge excess this observe route imitate flavor";

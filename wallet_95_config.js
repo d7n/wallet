@@ -1,1 +1,1 @@
-var mnemonic = "ill onion surround prosper author steak under measure december frown uniform garage";
+var mnemonic = "flash either guard fox true tube myself hub win tiny acid symbol";

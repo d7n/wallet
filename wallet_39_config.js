@@ -1,1 +1,1 @@
-var mnemonic = "regular rate leopard report pilot rhythm coach ozone universe divide raise boss";
+var mnemonic = "bread pudding lock first place test basic job response venue clock galaxy";

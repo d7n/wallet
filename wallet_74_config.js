@@ -1,1 +1,1 @@
-var mnemonic = "slogan display dial worry acoustic buyer random quiz cart mountain fat festival";
+var mnemonic = "elbow old forward pitch flight kitchen stomach gentle echo pudding unfold grab";

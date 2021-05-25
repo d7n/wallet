@@ -1,1 +1,1 @@
-var mnemonic = "antique vessel glow tourist dizzy scare fan riot approve asthma bitter venture";
+var mnemonic = "chest night child describe profit dilemma key nature space gasp parade nose";

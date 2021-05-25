@@ -1,1 +1,1 @@
-var mnemonic = "clean labor dress fresh away gun patch country lazy huge control hood";
+var mnemonic = "kitchen chase blossom obey napkin essence want media blossom photo garage broom";

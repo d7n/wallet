@@ -1,1 +1,1 @@
-var mnemonic = "casino wrong afraid wage easily found limit unlock yard rebel aware owner";
+var mnemonic = "circle rain blind motor science salt word daughter interest track friend lava";

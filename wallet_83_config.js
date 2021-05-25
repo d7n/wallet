@@ -1,1 +1,1 @@
-var mnemonic = "air inquiry fit fiction illegal release company rate exact toy vendor blossom";
+var mnemonic = "bread pistol fix boring buddy drive camp allow fiction cycle skirt vapor";

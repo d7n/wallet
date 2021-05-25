@@ -1,1 +1,1 @@
-var mnemonic = "sugar pulse follow grant slogan dragon base ordinary project cruise nest figure";
+var mnemonic = "service weekend whip awesome lunar slender warm maple potato clay increase simple";

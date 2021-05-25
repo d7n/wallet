@@ -1,1 +1,1 @@
-var mnemonic = "voyage bargain wood draw champion move blush theory weasel lucky peanut flower";
+var mnemonic = "profit ladder stereo april tumble diagram raise salute option spell reunion media";

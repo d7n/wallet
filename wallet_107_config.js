@@ -1,1 +1,1 @@
-var mnemonic = "emerge paddle reject tuition steak exclude income agent hire point rocket surge";
+var mnemonic = "area team deputy innocent swamp vicious change lobster street pride acoustic plunge";

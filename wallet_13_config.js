@@ -1,1 +1,1 @@
-var mnemonic = "group diesel home produce reduce fuel split able wage inspire much special";
+var mnemonic = "once borrow spoon profit spray luxury similar gun include panic between spot";

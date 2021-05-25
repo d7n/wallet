@@ -1,1 +1,1 @@
-var mnemonic = "stereo shrug iron flash fiction tourist glare delay hover marine nose mammal";
+var mnemonic = "furnace owner employ clever life cabbage party aim curious engine atom bacon";

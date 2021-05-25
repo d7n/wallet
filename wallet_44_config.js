@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur frame raise canyon garage shoe empty stomach wife love people oblige";
+var mnemonic = "gas section hazard prevent exhibit kiss benefit pink surround choose regular only";

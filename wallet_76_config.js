@@ -1,1 +1,1 @@
-var mnemonic = "squirrel kid fee drill rigid bless pyramid clarify industry keen excite gauge";
+var mnemonic = "lava prison initial hand position grain walk capital hope blast glory spatial";

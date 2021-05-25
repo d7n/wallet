@@ -1,1 +1,1 @@
-var mnemonic = "alpha blind humor few nation push basic buddy gown april swing appear";
+var mnemonic = "august foil long accuse album fatal size whale cousin copper gentle bike";

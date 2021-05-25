@@ -1,1 +1,1 @@
-var mnemonic = "arrest excuse kangaroo pitch riot mansion into man december concert canoe boss";
+var mnemonic = "auction tell state album boy escape turkey explain wisdom mouse deposit plug";

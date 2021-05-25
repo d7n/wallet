@@ -1,1 +1,1 @@
-var mnemonic = "coconut turtle finger small glory fantasy verb mention chuckle gate fun nest";
+var mnemonic = "bubble inner fiber media chronic doll render tent clay sentence vacant dutch";

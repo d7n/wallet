@@ -1,1 +1,1 @@
-var mnemonic = "few shield blade never lawn wedding bread vital butter can asset three";
+var mnemonic = "mountain where engage bunker crystal absent festival load wrong usual river idle";

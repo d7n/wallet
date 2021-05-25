@@ -1,1 +1,1 @@
-var mnemonic = "there quit deny piano govern cake echo cereal welcome mean galaxy category";
+var mnemonic = "shrimp unfair destroy cube cinnamon muscle spend return visa promote ripple begin";

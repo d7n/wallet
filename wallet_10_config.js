@@ -1,1 +1,1 @@
-var mnemonic = "hollow jealous end maple finger asset foil sadness field waste zoo bid";
+var mnemonic = "focus coast marble example interest empower describe jaguar spare pupil end excess";

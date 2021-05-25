@@ -1,1 +1,1 @@
-var mnemonic = "oven army cube blind similar keep tennis island hawk scrub process leg";
+var mnemonic = "soap admit penalty nest nation charge rib butter alter exit sister absorb";

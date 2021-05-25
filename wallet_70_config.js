@@ -1,1 +1,1 @@
-var mnemonic = "legal need turn thing old receive inform spoon adult anxiety inhale deal";
+var mnemonic = "reform rubber benefit vocal truly clinic spring radio lecture faint short visit";

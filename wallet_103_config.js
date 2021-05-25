@@ -1,1 +1,1 @@
-var mnemonic = "hurdle broom warrior good famous verb hazard muscle gun blind end siege";
+var mnemonic = "waste ritual dress stereo brother soap essence busy wood stem plastic curve";

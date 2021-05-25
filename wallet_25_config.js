@@ -1,1 +1,1 @@
-var mnemonic = "loan amateur alpha want answer cause awake brain pitch kiwi dream ripple";
+var mnemonic = "until honey grunt leopard session layer receive axis empower wait forward level";

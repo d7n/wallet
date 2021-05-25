@@ -1,1 +1,1 @@
-var mnemonic = "drastic grab ancient forget penalty account coral arrest pet legend film staff";
+var mnemonic = "winner name vault depart move word crater couch rifle fluid artist pipe";

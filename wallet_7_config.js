@@ -1,1 +1,1 @@
-var mnemonic = "throw december buddy lottery option avoid maid draw crunch purpose put blast";
+var mnemonic = "cost dry lesson nerve focus apart tip consider satisfy loan apple find";

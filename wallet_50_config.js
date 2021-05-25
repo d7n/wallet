@@ -1,1 +1,1 @@
-var mnemonic = "embrace afraid chef blue snow jacket duty advice ostrich draft average layer";
+var mnemonic = "tragic bulb brush nurse left monster rifle tree future time census sorry";

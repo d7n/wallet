@@ -1,1 +1,1 @@
-var mnemonic = "trouble normal toe cost gold prosper poet attract fly major tiny summer";
+var mnemonic = "hair better unable churn stay sheriff topple empty wink shrug miss method";

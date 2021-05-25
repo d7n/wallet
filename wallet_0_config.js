@@ -1,1 +1,1 @@
-var mnemonic = "valley interest action wrestle exhibit pony grocery coffee rubber remove sorry outdoor";
+var mnemonic = "protect kite enjoy hip model animal doll catalog crucial inhale wrap dog";

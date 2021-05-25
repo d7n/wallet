@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow twice skull gas betray opera theme tissue spare surprise prefer gasp";
+var mnemonic = "find absent swallow resource core budget author knock rain prefer hour pair";

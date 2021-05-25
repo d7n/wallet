@@ -1,1 +1,1 @@
-var mnemonic = "spread random juice swing ripple hunt car inch moon equal cram unable";
+var mnemonic = "frequent network mirror talent basic swing rare script bracket tomato weapon point";

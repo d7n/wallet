@@ -1,1 +1,1 @@
-var mnemonic = "cotton fish vault polar dress fitness rose capital cricket blade plunge squirrel";
+var mnemonic = "cherry reflect welcome shrimp embark owner chat vicious village antique sausage door";

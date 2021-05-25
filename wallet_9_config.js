@@ -1,1 +1,1 @@
-var mnemonic = "nothing almost march betray guitar bullet you mistake okay smile april weapon";
+var mnemonic = "armor favorite wagon logic aspect next under various wedding slogan utility submit";

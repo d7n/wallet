@@ -1,1 +1,1 @@
-var mnemonic = "still ill sudden hurt network easily banner dove sad hat evoke sure";
+var mnemonic = "stick alcohol copper brand manual twenty fatal enhance moral happy lemon seminar";

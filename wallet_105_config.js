@@ -1,1 +1,1 @@
-var mnemonic = "bright modify still auto borrow coyote become gloom modify omit cliff multiply";
+var mnemonic = "raw coral uniform elite afraid pen mango humor range episode bachelor nothing";

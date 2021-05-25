@@ -1,1 +1,1 @@
-var mnemonic = "rack common reopen reunion position good devote plate dance spray excess slab";
+var mnemonic = "develop collect major install coffee add clown ball elder crumble wife portion";

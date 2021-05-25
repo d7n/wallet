@@ -1,1 +1,1 @@
-var mnemonic = "romance tide dash upgrade salmon eagle lyrics edit crush object penalty another";
+var mnemonic = "salad broccoli luggage alone theory thought swap dove pet volume outer machine";

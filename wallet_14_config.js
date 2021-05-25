@@ -1,1 +1,1 @@
-var mnemonic = "shaft pistol scorpion sentence fall banana penalty tornado usual crush wife minor";
+var mnemonic = "era hold body limb treat filter clinic history spoon ice midnight access";

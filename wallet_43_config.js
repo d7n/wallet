@@ -1,1 +1,1 @@
-var mnemonic = "debris diamond solar duty extra demise dismiss knock slice mixture text doctor";
+var mnemonic = "common today stool window retreat dutch interest under absorb unaware river lady";

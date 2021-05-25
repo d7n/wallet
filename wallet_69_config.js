@@ -1,1 +1,1 @@
-var mnemonic = "chimney office tomorrow blade image travel add alone code whale label survey";
+var mnemonic = "confirm security era kitten ritual fun switch flush session brain lamp morning";
