@@ -1,1 +1,1 @@
-var mnemonic = "life afraid retire spell ghost gallery lottery reject leg hold split rally";
+var mnemonic = "update dinosaur shoulder sort protect young cousin attract have useful winter pretty";

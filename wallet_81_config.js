@@ -1,1 +1,1 @@
-var mnemonic = "orphan addict giraffe express daring spread margin mechanic guide door question monkey";
+var mnemonic = "dragon fan maze coach era taste spell sell trumpet random festival library";

@@ -1,1 +1,1 @@
-var mnemonic = "girl city magic cry hotel flame mushroom motor bean vocal amount edge";
+var mnemonic = "dove harbor mixed bunker knife try rigid shoulder frog runway wave ship";

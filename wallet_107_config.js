@@ -1,1 +1,1 @@
-var mnemonic = "energy blanket velvet slight rib style alcohol wash joke purity leisure bar";
+var mnemonic = "actor clap stairs ozone refuse bridge vintage forward love essence security useless";

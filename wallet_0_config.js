@@ -1,1 +1,1 @@
-var mnemonic = "kitten dance divide guitar fuel rude orient enable salad trap canyon shop";
+var mnemonic = "polar glance service place wear latin defense lawsuit dinosaur lounge penalty veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "soon sock bomb awkward disorder metal riot also twice churn tonight sort";
+var mnemonic = "chair south coyote shock laptop artist spend unhappy gravity repeat rookie pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "guess clutch social current object service program entire model cement inhale produce";
+var mnemonic = "zoo ill produce social more elbow hunt safe rather shrug attend warm";

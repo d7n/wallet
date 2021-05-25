@@ -1,1 +1,1 @@
-var mnemonic = "rubber ahead easy million depend slide summer age vault staff damage connect";
+var mnemonic = "vital leave genius sunset stable fringe apart unique narrow modify dirt smart";

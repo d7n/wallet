@@ -1,1 +1,1 @@
-var mnemonic = "inmate table member where beyond donor umbrella wreck travel almost void course";
+var mnemonic = "credit solid wink catch feed theme hundred public sting future rib topic";

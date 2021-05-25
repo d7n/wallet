@@ -1,1 +1,1 @@
-var mnemonic = "opinion decide patch erupt frozen rain vehicle announce worth company foster stairs";
+var mnemonic = "net match broken honey axis rude inspire trial hybrid world eager humor";

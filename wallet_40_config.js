@@ -1,1 +1,1 @@
-var mnemonic = "ecology office clinic unique drum soda grunt era magnet outer tray change";
+var mnemonic = "sadness stamp fantasy correct net barely gun only father sail airport eyebrow";

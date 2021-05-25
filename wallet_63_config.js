@@ -1,1 +1,1 @@
-var mnemonic = "pledge catch dove symptom lumber display flame dial pride pen attack major";
+var mnemonic = "stomach garden dress involve salt opera edge seven veteran arctic delay hidden";

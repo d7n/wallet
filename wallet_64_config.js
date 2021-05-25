@@ -1,1 +1,1 @@
-var mnemonic = "attend round nest parrot clog fever parrot rice gravity genre maximum soup";
+var mnemonic = "illegal laptop goat receive injury aim marriage kangaroo daring cannon better detail";

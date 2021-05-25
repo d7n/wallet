@@ -1,1 +1,1 @@
-var mnemonic = "true inner neither anxiety novel recall half crouch wash actress kitten orphan";
+var mnemonic = "plastic pledge decide tool permit enable buffalo lobster wedding mean glove comic";

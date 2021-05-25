@@ -1,1 +1,1 @@
-var mnemonic = "label decade artefact stand replace unusual smart boost accident picnic casual fade";
+var mnemonic = "hunt clarify book scale spawn have divorce moment angle liar punch invest";

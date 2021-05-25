@@ -1,1 +1,1 @@
-var mnemonic = "chaos icon spider delay fit either drama govern hospital enact gown basic";
+var mnemonic = "north luxury fence layer leaf nasty tiny engage brisk bring cupboard mango";

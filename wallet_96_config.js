@@ -1,1 +1,1 @@
-var mnemonic = "grape slush bridge impact remove zone arrow feature visa hub admit whip";
+var mnemonic = "orange frown wolf benefit valley black birth unknown plug shallow suffer chunk";

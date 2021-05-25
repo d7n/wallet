@@ -1,1 +1,1 @@
-var mnemonic = "stairs kick narrow chicken tomorrow awful woman equip drop assume album interest";
+var mnemonic = "chalk spread cannon crowd allow harbor neutral net frog ivory cabbage pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "vague achieve first moral neglect patch genius write resource pull silver primary";
+var mnemonic = "envelope hint provide wild cheese suit sudden swim solve light later office";

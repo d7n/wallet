@@ -1,1 +1,1 @@
-var mnemonic = "illness patch vocal effort add pistol defy can quiz whip mouse nothing";
+var mnemonic = "outer fringe message soft sunset warrior image choose apple hen sponsor shop";

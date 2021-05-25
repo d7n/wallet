@@ -1,1 +1,1 @@
-var mnemonic = "edit bleak square ritual school kitten diary harvest normal spend author train";
+var mnemonic = "program gossip fabric waste grunt glory segment fabric tone craft mandate purity";

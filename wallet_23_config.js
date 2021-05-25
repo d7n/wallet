@@ -1,1 +1,1 @@
-var mnemonic = "column tongue crawl hip exist vital father usual split unit song buyer";
+var mnemonic = "sausage jelly unfair exhaust spin soap illegal cannon post father explain tuna";

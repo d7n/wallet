@@ -1,1 +1,1 @@
-var mnemonic = "hotel canoe all fashion monkey three scare recycle cherry memory toss left";
+var mnemonic = "crater topple half spot round oak yellow lounge tuition feed crystal item";

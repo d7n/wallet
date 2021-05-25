@@ -1,1 +1,1 @@
-var mnemonic = "burst evoke hair vocal jacket cup lawn brass jump omit spoil blossom";
+var mnemonic = "nation flight voice juice seat glance pilot sudden jungle ship whip smart";

@@ -1,1 +1,1 @@
-var mnemonic = "alien term want avocado delay clap ability demand decrease offer load emotion";
+var mnemonic = "layer shove chimney educate silver middle deny syrup cannon kind genre luggage";

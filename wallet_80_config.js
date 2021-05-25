@@ -1,1 +1,1 @@
-var mnemonic = "attitude captain sock original sense dirt cabbage burden flip follow achieve pave";
+var mnemonic = "black finger envelope slogan gun scare mouse bargain they found paddle toward";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy rely guess else unknown hip reopen approve swift need surge original";
+var mnemonic = "mechanic manage fuel expand kit cinnamon index accident river unhappy forget clutch";

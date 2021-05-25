@@ -1,1 +1,1 @@
-var mnemonic = "talk poem access okay decrease number better isolate grocery palm what real";
+var mnemonic = "purchase rural bubble occur motor outdoor shine elite divorce suggest lunch glow";

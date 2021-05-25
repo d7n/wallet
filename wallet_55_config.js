@@ -1,1 +1,1 @@
-var mnemonic = "option mixture morning dynamic leave already more brain barely tumble apology mouse";
+var mnemonic = "craft fault town space decrease put garage fly wage proud oval sport";

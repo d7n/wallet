@@ -1,1 +1,1 @@
-var mnemonic = "open affair audit tiger shed acquire wasp oak prison online youth advice";
+var mnemonic = "zone cactus earn physical truck into vicious crack inherit unit wrist fragile";

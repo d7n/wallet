@@ -1,1 +1,1 @@
-var mnemonic = "case primary play until require nest three waste sunset useless drill raccoon";
+var mnemonic = "figure custom maze shiver chalk one version tooth dream certain same library";

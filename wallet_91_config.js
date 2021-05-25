@@ -1,1 +1,1 @@
-var mnemonic = "truth height rail what slow credit elder glory drive casual together equip";
+var mnemonic = "armor online olympic hungry guess note era tattoo buffalo grab kingdom glance";

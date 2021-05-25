@@ -1,1 +1,1 @@
-var mnemonic = "shrimp path cave people photo ugly stairs kid panda garage metal excuse";
+var mnemonic = "reward glory picnic blouse pen spawn bench find title volcano edge door";

@@ -1,1 +1,1 @@
-var mnemonic = "argue can little reject pupil resource super high vault toilet limb culture";
+var mnemonic = "service spell loop renew guess until brass trash shove jaguar spider melody";

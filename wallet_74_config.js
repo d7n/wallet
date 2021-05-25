@@ -1,1 +1,1 @@
-var mnemonic = "medal kiss father alcohol excite dish must south neck monster nominee wife";
+var mnemonic = "strategy smart screen kitten direct clutch float warm ritual version amazing tennis";

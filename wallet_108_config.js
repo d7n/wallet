@@ -1,1 +1,1 @@
-var mnemonic = "sure raccoon stock meat between improve crunch range fitness purity outside stable";
+var mnemonic = "win north turn disagree west custom nose craft begin over tribe want";

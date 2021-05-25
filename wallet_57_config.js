@@ -1,1 +1,1 @@
-var mnemonic = "around cigar throw bean brown clock reveal nut drift interest reflect horse";
+var mnemonic = "actual neck cushion fabric river inner pretty fabric distance dash upset whale";

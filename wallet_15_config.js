@@ -1,1 +1,1 @@
-var mnemonic = "click produce license quote transfer hungry chase version primary brother resemble float";
+var mnemonic = "defy wide rocket option improve excuse orange pelican figure body virtual buffalo";

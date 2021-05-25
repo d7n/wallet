@@ -1,1 +1,1 @@
-var mnemonic = "nominee collect sword ski disease festival before option pulse exhaust mansion diamond";
+var mnemonic = "awesome accident maze fee dinosaur aunt horn goddess nut glow purity approve";

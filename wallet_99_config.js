@@ -1,1 +1,1 @@
-var mnemonic = "occur measure lab list vital excite group advice away toward garbage tired";
+var mnemonic = "bachelor regret silly dismiss size own liberty address fruit denial lemon also";

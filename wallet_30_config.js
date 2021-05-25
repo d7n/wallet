@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin near cattle enroll hen diet boring sample pulp another retire team";
+var mnemonic = "endorse subway material coin auction favorite illegal sad regret slot knock match";

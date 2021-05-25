@@ -1,1 +1,1 @@
-var mnemonic = "traffic illness confirm uncover little industry because ready neither staff rifle hand";
+var mnemonic = "trigger foil knee only iron inhale museum stock raw glimpse cement hat";

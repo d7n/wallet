@@ -1,1 +1,1 @@
-var mnemonic = "shove intact advance clump window warrior shift quit author horse narrow tail";
+var mnemonic = "human arch another wreck gift eternal team allow wood dune refuse deer";

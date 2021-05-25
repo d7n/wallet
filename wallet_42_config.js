@@ -1,1 +1,1 @@
-var mnemonic = "nut bundle elite enforce decrease atom scrub invite rescue dose edit nerve";
+var mnemonic = "rocket avoid core more step attend humble age company work victory almost";

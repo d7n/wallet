@@ -1,1 +1,1 @@
-var mnemonic = "enroll feature summer range force grace hard artist before filter tuition olive";
+var mnemonic = "midnight tiger memory exist recycle meadow more spot repair kiwi person comic";

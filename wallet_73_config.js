@@ -1,1 +1,1 @@
-var mnemonic = "few during easily fantasy wealth thrive must nothing burger alcohol demand lobster";
+var mnemonic = "rubber slight comic neck law jacket economy property resource aisle poem slice";

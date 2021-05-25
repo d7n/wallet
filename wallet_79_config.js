@@ -1,1 +1,1 @@
-var mnemonic = "about moon betray slot diamond sleep river absent robust enact tent uniform";
+var mnemonic = "swim pluck emotion taxi allow avoid zebra chief heavy catalog gain stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "educate history tomato small crunch flag certain wing muffin above best citizen";
+var mnemonic = "tag edit employ march sing visa obscure very elegant lens pottery kit";

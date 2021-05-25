@@ -1,1 +1,1 @@
-var mnemonic = "yellow tooth term pill raccoon monster rebel purse brown foster few grocery";
+var mnemonic = "escape peasant yard amazing december orphan know dizzy example away delay health";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire promote parade wage double butter input excess artwork ramp rhythm soap";
+var mnemonic = "enrich permit clinic lava little nurse appear pudding family identify tag pause";

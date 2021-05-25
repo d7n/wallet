@@ -1,1 +1,1 @@
-var mnemonic = "devote soda large finger copy decorate canoe club sister dizzy alpha mushroom";
+var mnemonic = "change lion object glass emerge key beef spread roast clinic unveil wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "observe column knee knock trip outer begin divert match chat choose penalty";
+var mnemonic = "merry convince liberty upgrade jazz trigger thumb later season belt lecture flock";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry modify match roof another payment notable vibrant home view mixture forum";
+var mnemonic = "front phone skill tuition hole guilt advice summer venue two account wrap";

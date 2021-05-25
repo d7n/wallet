@@ -1,1 +1,1 @@
-var mnemonic = "correct what boost suit expect reward cost deposit antique stairs acoustic dismiss";
+var mnemonic = "salute alert call group morning woman input finish pelican stadium solid kiwi";

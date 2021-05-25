@@ -1,1 +1,1 @@
-var mnemonic = "please method arm dumb outdoor view kingdom antenna affair jazz patch annual";
+var mnemonic = "invite portion water tribe rough lady like wish give clay quarter appear";

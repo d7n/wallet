@@ -1,1 +1,1 @@
-var mnemonic = "danger word artefact cage balcony subject fitness cactus ankle glue fire nasty";
+var mnemonic = "salmon romance planet furnace high purpose bamboo fantasy educate wonder market stool";

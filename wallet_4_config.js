@@ -1,1 +1,1 @@
-var mnemonic = "club trophy barrel scheme follow glove wild decade claim tree library visual";
+var mnemonic = "situate orbit meat mystery dance kitchen decade ability dilemma purity employ escape";

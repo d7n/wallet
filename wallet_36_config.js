@@ -1,1 +1,1 @@
-var mnemonic = "bring poem purity media people asset retreat abstract whale fuel divert debate";
+var mnemonic = "season liquid unaware pistol coil voice employ coffee kind exit acoustic response";

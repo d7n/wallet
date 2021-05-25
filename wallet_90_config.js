@@ -1,1 +1,1 @@
-var mnemonic = "purpose marble spend alter gallery pink tuition ankle trial surge habit spoon";
+var mnemonic = "miracle absurd giant fame inhale oppose equip cycle please crop liquid cloth";

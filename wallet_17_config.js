@@ -1,1 +1,1 @@
-var mnemonic = "inflict much accident puzzle top soap travel gasp fatigue media drink hover";
+var mnemonic = "main armor once air insane vacant little powder jazz discover basic ecology";

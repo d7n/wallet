@@ -1,1 +1,1 @@
-var mnemonic = "couple keen glance initial company inform fruit enjoy first error soup excess";
+var mnemonic = "before wall muscle ranch outside scout beyond ketchup utility outer rose vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "nut relief gospel patch canvas delay weasel any laugh afraid donkey pride";
+var mnemonic = "real rural harvest song tragic auction settle caught kid tragic hospital magic";

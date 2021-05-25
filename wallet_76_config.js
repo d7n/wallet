@@ -1,1 +1,1 @@
-var mnemonic = "cabin fancy indoor orient scrap tooth dilemma exhibit focus light place seek";
+var mnemonic = "viable exclude cannon repeat turn rebel service shoot hat mule cloud harbor";

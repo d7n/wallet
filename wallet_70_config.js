@@ -1,1 +1,1 @@
-var mnemonic = "crop wisdom actor crash parent kick expire sing first across grass resource";
+var mnemonic = "concert scale shoulder crouch range frost dog useless hint breeze again slight";

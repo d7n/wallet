@@ -1,1 +1,1 @@
-var mnemonic = "result recall pelican pattern eager people attend orphan frown glove flower feature";
+var mnemonic = "void faith depart fence rigid turkey home scorpion hollow hurdle connect drill";

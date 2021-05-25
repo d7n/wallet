@@ -1,1 +1,1 @@
-var mnemonic = "dish verify pill source prize organ mind wire hedgehog admit fatigue mule";
+var mnemonic = "badge alley element rookie cute broken satoshi lounge close dance hand chronic";

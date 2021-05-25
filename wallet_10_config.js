@@ -1,1 +1,1 @@
-var mnemonic = "member train jeans coral lend sound sadness eternal because question dignity negative";
+var mnemonic = "sentence clip exercise fold proud stay debate head employ alien captain decide";

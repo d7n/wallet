@@ -1,1 +1,1 @@
-var mnemonic = "clump news double chef escape symptom stage knife message broom tattoo obscure";
+var mnemonic = "mouse there kid afford grant ball buddy embody mountain course wasp dwarf";

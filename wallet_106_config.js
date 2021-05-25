@@ -1,1 +1,1 @@
-var mnemonic = "today goddess escape drop anxiety drastic illegal range kitten follow upset drop";
+var mnemonic = "possible survey gate brush swarm stomach elevator shoe dice music adult glad";

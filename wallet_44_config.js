@@ -1,1 +1,1 @@
-var mnemonic = "luxury dynamic erase minimum bunker surprise action quote survey during fetch card";
+var mnemonic = "level kit city nominee south between twice insect result push walk bachelor";

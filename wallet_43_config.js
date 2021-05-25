@@ -1,1 +1,1 @@
-var mnemonic = "setup erosion coconut prison smart year try title entire bubble idea vessel";
+var mnemonic = "direct raven stable pluck toilet soul frown edit daring naive lesson oval";

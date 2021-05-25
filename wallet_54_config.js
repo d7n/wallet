@@ -1,1 +1,1 @@
-var mnemonic = "region dream tennis century grain badge tortoise jar level ship crater expose";
+var mnemonic = "praise praise key gain visa balance broom close balance giraffe addict hub";

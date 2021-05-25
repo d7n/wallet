@@ -1,1 +1,1 @@
-var mnemonic = "damp push candy timber lizard able glad author web imitate fitness expand";
+var mnemonic = "silly work raise rabbit trip predict budget home act hospital design dinner";

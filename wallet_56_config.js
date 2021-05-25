@@ -1,1 +1,1 @@
-var mnemonic = "good usage goose fiber appear hub buzz edit area coral tiger sibling";
+var mnemonic = "notice urban desert icon pen combine cabbage essence discover artist sketch unfair";

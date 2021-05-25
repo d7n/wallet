@@ -1,1 +1,1 @@
-var mnemonic = "raccoon ready brave twice pond end morning pass moment music inflict artefact";
+var mnemonic = "good cherry dragon gossip east critic senior easily scare genre spend orbit";

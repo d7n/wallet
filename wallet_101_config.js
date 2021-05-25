@@ -1,1 +1,1 @@
-var mnemonic = "faint speak property pact account goddess illness sell produce pool lonely flower";
+var mnemonic = "wall palace enter captain select bachelor stamp ribbon shine recipe believe purchase";

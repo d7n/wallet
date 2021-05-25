@@ -1,1 +1,1 @@
-var mnemonic = "mask sand tissue wine immune buffalo armor help bread video boss motor";
+var mnemonic = "chicken coconut code motor settle crush you direct output soda donate blade";

@@ -1,1 +1,1 @@
-var mnemonic = "sign utility property liquid quarter throw copper educate tape shoulder easily walk";
+var mnemonic = "basic alert cake cause street resist knee indoor swarm day sting loop";

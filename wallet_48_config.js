@@ -1,1 +1,1 @@
-var mnemonic = "there oppose trust abandon call erode normal spot close palace erode deny";
+var mnemonic = "burst mansion clock pass fragile false already try cool gentle wreck surprise";

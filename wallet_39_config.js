@@ -1,1 +1,1 @@
-var mnemonic = "jacket diamond abandon turn silk spread midnight canal chair glimpse dizzy dinosaur";
+var mnemonic = "matrix stick clump lobster reveal segment grape cart fault caught dutch urban";

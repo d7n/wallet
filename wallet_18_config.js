@@ -1,1 +1,1 @@
-var mnemonic = "hub shoulder rigid adjust unlock board wise plate program churn begin chest";
+var mnemonic = "grace time cotton impulse orbit license lawsuit shuffle weather salmon media taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "split able poverty click salt focus silly away plate stay bullet spread";
+var mnemonic = "tray knee hover recipe smooth dismiss neglect spoil news affair choice zero";

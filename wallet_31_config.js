@@ -1,1 +1,1 @@
-var mnemonic = "rug infant garage bring what picture rough spell upon multiply promote tide";
+var mnemonic = "measure say tone virus charge room drink figure invite south disorder wall";

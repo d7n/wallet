@@ -1,1 +1,1 @@
-var mnemonic = "output duck basic today rhythm shrug old squirrel pass jaguar middle slam";
+var mnemonic = "pear screen slender rich song rubber dove skull jazz income accuse guard";

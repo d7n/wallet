@@ -1,1 +1,1 @@
-var mnemonic = "city globe piece maple leisure tag movie risk laugh abuse panther pave";
+var mnemonic = "sand million season vague engine wife guilt rifle resemble decade border radio";

@@ -1,1 +1,1 @@
-var mnemonic = "humor bird grid plastic winter evil noise remove inject pizza rigid cotton";
+var mnemonic = "benefit roast doctor paper smile have analyst response purchase demand usage barely";

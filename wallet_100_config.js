@@ -1,1 +1,1 @@
-var mnemonic = "come shoulder snow salmon fluid crane trumpet celery direct write lobster flush";
+var mnemonic = "potato hour say harsh hungry media twelve win spawn neutral world churn";

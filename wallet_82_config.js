@@ -1,1 +1,1 @@
-var mnemonic = "monkey great grape chest muscle cannon earth quarter laptop lyrics donor chief";
+var mnemonic = "yellow collect magnet despair private copper try sketch evidence vital tomato icon";

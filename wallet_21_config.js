@@ -1,1 +1,1 @@
-var mnemonic = "pilot seat barrel region patrol denial various trap angry differ multiply garden";
+var mnemonic = "swim sphere range around runway snow hybrid very salmon razor enter fancy";

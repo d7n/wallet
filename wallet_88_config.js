@@ -1,1 +1,1 @@
-var mnemonic = "copper spider leave giggle dish diesel whip zoo arrest affair valve next";
+var mnemonic = "any tobacco coconut genuine rebel soon giraffe unit enemy lumber pilot very";

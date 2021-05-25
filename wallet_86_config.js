@@ -1,1 +1,1 @@
-var mnemonic = "net actual oyster cheap slush satoshi hill virtual blast conduct broken upgrade";
+var mnemonic = "comfort mass region wagon chalk portion zone few curve violin tenant venue";

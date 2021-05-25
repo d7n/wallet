@@ -1,1 +1,1 @@
-var mnemonic = "approve believe slot split organ veteran world donor cliff increase scissors captain";
+var mnemonic = "elevator wheat belt brush van theme nut wolf among tool kitchen foil";

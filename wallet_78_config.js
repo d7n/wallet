@@ -1,1 +1,1 @@
-var mnemonic = "bar grape library fault nerve work quick flame describe grief dune priority";
+var mnemonic = "glass merry people follow rather symbol tonight slide maid lend oxygen fresh";
