@@ -1,1 +1,1 @@
-var mnemonic = "dismiss history artist exchange bullet movie permit pave airport glare gorilla bunker";
+var mnemonic = "tunnel artwork mobile teach seat begin rough winner spice banana install ice";

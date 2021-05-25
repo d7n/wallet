@@ -1,1 +1,1 @@
-var mnemonic = "rotate shove net spawn spy measure essence tiny current enable slide piece";
+var mnemonic = "actor mango insect denial light plastic devote blush broom celery impose task";

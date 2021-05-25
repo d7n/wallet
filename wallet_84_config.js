@@ -1,1 +1,1 @@
-var mnemonic = "wheat trend truth champion meat universe glide usage category fault relief cereal";
+var mnemonic = "mixture few position fan cabin neutral car century comic tomorrow topic renew";

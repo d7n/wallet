@@ -1,1 +1,1 @@
-var mnemonic = "inner pet baby vital urge crisp gorilla shaft nurse sort pair drip";
+var mnemonic = "measure section sister earth acquire write rookie action bulk chase insect leader";

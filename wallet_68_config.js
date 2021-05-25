@@ -1,1 +1,1 @@
-var mnemonic = "summer garden light ship match first march pitch song spider dolphin youth";
+var mnemonic = "wife ticket casual furnace company child video increase glass garlic already vital";

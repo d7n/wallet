@@ -1,1 +1,1 @@
-var mnemonic = "crouch demand able exercise potato project order shine round law moment harbor";
+var mnemonic = "rare tank steel debate urban occur earth cave much muffin anger dream";

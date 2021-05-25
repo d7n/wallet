@@ -1,1 +1,1 @@
-var mnemonic = "nose clarify admit hobby raccoon affair oak beef depend sphere bike identify";
+var mnemonic = "broken fold off toss again awful dumb forum wisdom never inspire annual";

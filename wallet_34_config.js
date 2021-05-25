@@ -1,1 +1,1 @@
-var mnemonic = "decade core scare limb execute cliff vital fun render fox correct ball";
+var mnemonic = "volume party walk shaft ritual remember oppose walnut split fancy scout feed";

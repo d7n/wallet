@@ -1,1 +1,1 @@
-var mnemonic = "fluid rude distance senior spin bless category session paper rhythm mountain damage";
+var mnemonic = "coffee capable marriage occur timber exhibit please gospel spoon machine tower suggest";

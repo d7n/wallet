@@ -1,1 +1,1 @@
-var mnemonic = "obvious execute rotate century matrix timber indoor soda snow gospel evoke estate";
+var mnemonic = "erase they absent country fan mercy section weather cloth essence fork spirit";

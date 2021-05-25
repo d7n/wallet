@@ -1,1 +1,1 @@
-var mnemonic = "student slogan equal surround degree hazard foil steak current force alter help";
+var mnemonic = "type boy during thunder frame pair evidence library ready issue hunt shock";

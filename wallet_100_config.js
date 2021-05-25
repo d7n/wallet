@@ -1,1 +1,1 @@
-var mnemonic = "quantum galaxy nest reform mad interest chief around ribbon cram jelly orient";
+var mnemonic = "tilt devote blood advance sad can very cliff slow coach hedgehog notable";

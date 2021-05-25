@@ -1,1 +1,1 @@
-var mnemonic = "dust merge once hawk pride noodle try patient predict mansion husband giggle";
+var mnemonic = "concert letter dress pool ship wait album spend version piece cloud best";

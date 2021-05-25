@@ -1,1 +1,1 @@
-var mnemonic = "cram crucial duty cup first fragile pottery chase math surround syrup weird";
+var mnemonic = "siren cave clock rabbit tone sight glass uncle opinion pelican combine valve";

@@ -1,1 +1,1 @@
-var mnemonic = "trend resource wood arrest shaft razor crumble turn muffin ill power penalty";
+var mnemonic = "welcome express bracket sudden fitness drift churn style tired tenant thought ordinary";

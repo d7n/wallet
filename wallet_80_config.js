@@ -1,1 +1,1 @@
-var mnemonic = "legend ball glad empty floor crawl name parade wealth vicious range clerk";
+var mnemonic = "erode hurt dawn stay hedgehog pipe meadow element bar speak lava other";

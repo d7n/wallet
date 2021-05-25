@@ -1,1 +1,1 @@
-var mnemonic = "tent brisk void glad receive deal piece tray medal episode aisle hope";
+var mnemonic = "patient eagle ginger vague enact wait spawn silk empower anxiety direct argue";

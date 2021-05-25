@@ -1,1 +1,1 @@
-var mnemonic = "mosquito aim brown drift cattle atom faith picture oblige outdoor daring achieve";
+var mnemonic = "object limit fury forest crop empty like annual unaware solution latin number";

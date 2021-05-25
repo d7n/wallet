@@ -1,1 +1,1 @@
-var mnemonic = "rhythm layer normal session laptop upgrade fancy remember season burst organ reveal";
+var mnemonic = "undo join head between alcohol catalog morning general gloom license script vapor";

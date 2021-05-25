@@ -1,1 +1,1 @@
-var mnemonic = "error wish rookie settle diary soon stamp knock hire either welcome sock";
+var mnemonic = "uphold silent figure rally chief region garden fit alter team finger reunion";

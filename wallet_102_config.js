@@ -1,1 +1,1 @@
-var mnemonic = "film twelve chase top absorb end bread sugar firm staff public fence";
+var mnemonic = "hair repair state glimpse beyond tiger problem syrup junk spider ugly spider";

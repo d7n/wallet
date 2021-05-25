@@ -1,1 +1,1 @@
-var mnemonic = "canoe number hub cool filter lizard body retreat glide ceiling crumble polar";
+var mnemonic = "loop number green primary typical slogan laptop blind energy lucky stool spice";

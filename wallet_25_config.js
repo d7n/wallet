@@ -1,1 +1,1 @@
-var mnemonic = "paper pluck squeeze around wrist luggage lens drill clump address wealth spare";
+var mnemonic = "arm two globe panda story derive actor need shallow funny pepper what";

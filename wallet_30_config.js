@@ -1,1 +1,1 @@
-var mnemonic = "guess need bike index deputy welcome access trend chicken barely subject place";
+var mnemonic = "dynamic letter suffer naive sketch nominee pulp twenty assist salad kitchen gift";

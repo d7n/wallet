@@ -1,1 +1,1 @@
-var mnemonic = "acoustic damp seat math feature message beef over note clay age float";
+var mnemonic = "host render wear join stuff amateur expose addict fancy drill enrich arm";

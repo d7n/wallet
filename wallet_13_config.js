@@ -1,1 +1,1 @@
-var mnemonic = "camera fitness topple found add charge sea reveal other custom theory crazy";
+var mnemonic = "slab midnight sketch perfect enforce neglect canoe cool disease stick mobile acquire";

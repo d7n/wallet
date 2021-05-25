@@ -1,1 +1,1 @@
-var mnemonic = "tiger man motor bullet bring town demand return motion begin dumb motor";
+var mnemonic = "food total noodle chapter office lottery offer mule country home suit stairs";

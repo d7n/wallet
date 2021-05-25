@@ -1,1 +1,1 @@
-var mnemonic = "toast matter priority hospital insane cheap sunset guilt make jaguar scrap swear";
+var mnemonic = "erosion end morning motor end move liquid melody stone merry blanket source";

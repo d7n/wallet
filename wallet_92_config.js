@@ -1,1 +1,1 @@
-var mnemonic = "record strategy choice noble arrange else swamp aunt dinner inquiry want climb";
+var mnemonic = "announce excuse dumb book venue dignity slab woman tank multiply banana match";

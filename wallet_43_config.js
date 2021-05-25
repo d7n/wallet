@@ -1,1 +1,1 @@
-var mnemonic = "blame spy embrace oppose head donkey tip pond open globe glad seat";
+var mnemonic = "buffalo job arctic question detail goddess fiscal wife chronic valve negative need";

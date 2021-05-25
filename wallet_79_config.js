@@ -1,1 +1,1 @@
-var mnemonic = "usage border undo air pulse access mean brave isolate front glue amount";
+var mnemonic = "chase fun frost eternal envelope basket either erosion dirt pilot lawn screen";

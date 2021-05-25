@@ -1,1 +1,1 @@
-var mnemonic = "marine attract brisk east nasty lobster glide awake acquire change verify toilet";
+var mnemonic = "like steak float panther expire satoshi breeze rent silk young grass daring";

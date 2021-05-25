@@ -1,1 +1,1 @@
-var mnemonic = "inside later curious crazy cycle better scatter exercise equal farm observe pride";
+var mnemonic = "unaware sort casino thunder drop output visual divide question tobacco naive bless";

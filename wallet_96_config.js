@@ -1,1 +1,1 @@
-var mnemonic = "art become verify cinnamon half ceiling choice stage sand poverty unusual nose";
+var mnemonic = "false excess silent lyrics advice glimpse airport cave example romance swear piano";

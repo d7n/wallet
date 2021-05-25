@@ -1,1 +1,1 @@
-var mnemonic = "country ramp brush heart mobile armed rule addict pluck venue know among";
+var mnemonic = "flag rule quit husband flower distance wrist amazing fortune twice design comic";

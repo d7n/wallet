@@ -1,1 +1,1 @@
-var mnemonic = "become toss burden cargo chicken dog net mobile affair screen fish baby";
+var mnemonic = "same spice cactus enemy nerve primary brown media dizzy country neglect very";

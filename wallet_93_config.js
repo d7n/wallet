@@ -1,1 +1,1 @@
-var mnemonic = "tribe quarter cart estate cheese aunt tuition inner embody derive pyramid husband";
+var mnemonic = "second snap view demise holiday all anxiety dutch polar cage uncle creek";

@@ -1,1 +1,1 @@
-var mnemonic = "taste column asset hollow subway coach chronic cotton wave tell animal bitter";
+var mnemonic = "slogan dilemma rain boat reflect describe breeze salute kitchen beyond wrist apple";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent gloom marine lake sad rocket amateur wrong lend genre ankle mercy";
+var mnemonic = "filter turtle fix action shell dice host master wash number truly labor";

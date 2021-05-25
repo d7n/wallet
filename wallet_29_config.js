@@ -1,1 +1,1 @@
-var mnemonic = "marble rare force wide hat suspect once memory nephew phrase can crop";
+var mnemonic = "car decorate accident weather equal wreck trend cycle during parade sick invest";

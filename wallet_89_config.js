@@ -1,1 +1,1 @@
-var mnemonic = "pepper glimpse forward measure few forget enjoy gym fatal vague rival inspire";
+var mnemonic = "ceiling today question farm meadow health ten hope focus oppose mask code";

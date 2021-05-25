@@ -1,1 +1,1 @@
-var mnemonic = "buffalo input box forward work bacon sock opinion scout exercise next enable";
+var mnemonic = "divide foot west medal share anxiety whale era cattle survey job pottery";

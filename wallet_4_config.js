@@ -1,1 +1,1 @@
-var mnemonic = "tribe whip fish thrive ethics empty still cycle dance little genuine crew";
+var mnemonic = "shoulder stone charge race gesture brain soldier breeze topple rack trick blanket";

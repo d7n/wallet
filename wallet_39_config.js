@@ -1,1 +1,1 @@
-var mnemonic = "tilt surprise tortoise brisk donkey jaguar brass decrease planet donor exotic donkey";
+var mnemonic = "install gospel worry pipe people fetch predict rhythm stone cream agent raven";

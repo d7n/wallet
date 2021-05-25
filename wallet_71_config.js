@@ -1,1 +1,1 @@
-var mnemonic = "easy amazing clip hollow gym fitness roof seat fix finger glove damp";
+var mnemonic = "party drastic lottery juice funny basket mystery balcony popular silk bracket result";

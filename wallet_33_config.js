@@ -1,1 +1,1 @@
-var mnemonic = "apart enact opinion fine aim neutral setup fresh throw prosper together february";
+var mnemonic = "barrel diet collect frequent pair unveil deer vault ankle spirit domain violin";

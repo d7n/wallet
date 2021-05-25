@@ -1,1 +1,1 @@
-var mnemonic = "cloth crawl resource idle pole prevent utility talent assume lyrics rain fuel";
+var mnemonic = "cup genuine tenant crash thank below answer slogan project census mercy enrich";

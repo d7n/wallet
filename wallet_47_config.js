@@ -1,1 +1,1 @@
-var mnemonic = "endless mixed person slow media say miss wife must capable cargo vocal";
+var mnemonic = "rocket equip air slim potato mimic once next flock quick jazz web";

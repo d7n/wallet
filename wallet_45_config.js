@@ -1,1 +1,1 @@
-var mnemonic = "liar scene tide cart unique bubble end mom net warm current melody";
+var mnemonic = "nasty season style before museum pond muscle bundle salad taste real quick";

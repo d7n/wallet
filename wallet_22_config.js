@@ -1,1 +1,1 @@
-var mnemonic = "sauce check matrix canvas garment piece velvet bread local divorce dizzy world";
+var mnemonic = "gesture virtual junior asthma execute own scale cushion mirror actress inflict service";

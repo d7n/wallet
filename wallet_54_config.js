@@ -1,1 +1,1 @@
-var mnemonic = "race raccoon mango shoulder bamboo quote spin flavor program daring car sunny";
+var mnemonic = "that base upper frame maze quiz antenna rubber swallow wire peanut sing";

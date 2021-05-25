@@ -1,1 +1,1 @@
-var mnemonic = "scare stairs lunar clinic rabbit hire ketchup jar strong century again culture";
+var mnemonic = "husband evidence tunnel rabbit remember beach leisure arctic turkey dune woman sight";

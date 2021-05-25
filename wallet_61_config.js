@@ -1,1 +1,1 @@
-var mnemonic = "boost table around stamp coin stumble tissue cost hedgehog mother stuff random";
+var mnemonic = "awkward appear post copy derive huge permit wrong olympic empower drill push";

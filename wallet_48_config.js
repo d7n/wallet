@@ -1,1 +1,1 @@
-var mnemonic = "cost aware expire clerk chair memory film confirm naive august embark situate";
+var mnemonic = "spare flag olive layer auction arrange mandate silver orange fatal token century";

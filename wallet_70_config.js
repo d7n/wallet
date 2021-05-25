@@ -1,1 +1,1 @@
-var mnemonic = "situate hold artist warm derive multiply whip frown pill clap indoor omit";
+var mnemonic = "robust upper cousin usual theme choice define away ugly alley clean help";

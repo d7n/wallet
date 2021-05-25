@@ -1,1 +1,1 @@
-var mnemonic = "genuine else chimney civil desk avoid about erosion latin neck vendor horse";
+var mnemonic = "attend media bright pudding link hen stable column journey museum pole fantasy";

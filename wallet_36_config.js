@@ -1,1 +1,1 @@
-var mnemonic = "purse step spice tide solve bicycle insect base waste ocean husband actress";
+var mnemonic = "deputy remind exit spell banner couple similar cook peanut attack special drop";

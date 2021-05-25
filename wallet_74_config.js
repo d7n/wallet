@@ -1,1 +1,1 @@
-var mnemonic = "basic horse all giggle frown unique crisp convince frozen clerk credit job";
+var mnemonic = "hurt mobile execute tobacco lunch dust dirt cry erase betray review between";

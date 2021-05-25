@@ -1,1 +1,1 @@
-var mnemonic = "scrap close hobby fame outer sunny sound sugar brisk baby extend rotate";
+var mnemonic = "rail fitness youth accident ladder palm cause material knock trip orchard ready";

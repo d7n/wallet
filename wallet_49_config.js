@@ -1,1 +1,1 @@
-var mnemonic = "lawn industry flight secret heart quality fault slam crucial radar evidence quiz";
+var mnemonic = "exercise regular potato include remember input whip absorb choice virtual silly royal";

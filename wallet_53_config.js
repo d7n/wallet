@@ -1,1 +1,1 @@
-var mnemonic = "penalty hurry lawn huge sense match derive wine twist hawk enroll hill";
+var mnemonic = "pulse burger output life save soap index letter clump wise rich hungry";

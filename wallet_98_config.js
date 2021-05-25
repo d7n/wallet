@@ -1,1 +1,1 @@
-var mnemonic = "bargain squeeze merge puppy relief solar grab improve surge blind random salon";
+var mnemonic = "scout skate mystery faculty across wise caught upgrade web pig either doll";

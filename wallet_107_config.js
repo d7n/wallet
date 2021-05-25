@@ -1,1 +1,1 @@
-var mnemonic = "upset move magic immense normal gaze echo unable tell shaft place lecture";
+var mnemonic = "erosion fury remove pelican fatal tackle task sketch absurd hawk crush they";

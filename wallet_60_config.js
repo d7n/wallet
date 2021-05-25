@@ -1,1 +1,1 @@
-var mnemonic = "champion wisdom upper wheat door toss tilt first inmate afford define marble";
+var mnemonic = "congress random climb dumb shrimp science search figure egg expire buyer collect";

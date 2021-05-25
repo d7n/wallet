@@ -1,1 +1,1 @@
-var mnemonic = "clever try cabin round soft renew budget deliver answer size behave unusual";
+var mnemonic = "boil snow dad flag real color sheriff now round asthma side manual";

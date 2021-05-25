@@ -1,1 +1,1 @@
-var mnemonic = "valve message pizza rapid survey basket chuckle skill quick palm advice mansion";
+var mnemonic = "biology damage put style gaze label roof feature option reunion meadow mercy";

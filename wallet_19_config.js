@@ -1,1 +1,1 @@
-var mnemonic = "trouble battle board share tell breeze group harbor fly belt when razor";
+var mnemonic = "raven core ritual future memory away suggest piano silk draft season guitar";

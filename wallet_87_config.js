@@ -1,1 +1,1 @@
-var mnemonic = "exercise alarm clip security grace carry music flight horror assist among stage";
+var mnemonic = "scorpion swing capable glow glide enact glass jealous measure risk silk call";

@@ -1,1 +1,1 @@
-var mnemonic = "annual pepper draft capital purchase absent useful ski win demise east long";
+var mnemonic = "sentence drop icon electric blanket eagle fog put critic awake cluster evidence";

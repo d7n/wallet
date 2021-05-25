@@ -1,1 +1,1 @@
-var mnemonic = "salmon program minimum joy fault palace seat uniform diet merge glass survey";
+var mnemonic = "company orient diet typical sock bird fantasy lend bless tobacco wonder muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest office garage zoo convince roof undo second unlock empty lottery bid";
+var mnemonic = "kitten harsh own draw venture stove draw oppose any crater outer rebel";

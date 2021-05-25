@@ -1,1 +1,1 @@
-var mnemonic = "egg unaware attitude join course shy sock crunch siren rather job busy";
+var mnemonic = "firm kind crush stove ghost awkward settle stuff awkward among vague chat";

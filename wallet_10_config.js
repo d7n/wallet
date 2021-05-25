@@ -1,1 +1,1 @@
-var mnemonic = "misery all exercise reopen over conduct select smoke creek base wage salute";
+var mnemonic = "organ prevent once talent away portion cradle satisfy path struggle setup inject";

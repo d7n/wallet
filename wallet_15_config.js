@@ -1,1 +1,1 @@
-var mnemonic = "spot ozone diesel announce crane stove few trim edit rebel bid destroy";
+var mnemonic = "tone combine coast modify frequent endorse minute flower width idea distance ready";

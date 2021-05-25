@@ -1,1 +1,1 @@
-var mnemonic = "bacon law oval crash charge horror protect system gadget tone opera slab";
+var mnemonic = "emotion object upgrade sponsor bulb bus flock stomach grant deer narrow syrup";

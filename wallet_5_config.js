@@ -1,1 +1,1 @@
-var mnemonic = "erupt canoe guide voyage clarify practice crane fabric luxury stomach endorse extra";
+var mnemonic = "inherit resemble bubble coffee park inflict repeat tilt sadness sibling choose loop";

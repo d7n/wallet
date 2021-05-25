@@ -1,1 +1,1 @@
-var mnemonic = "update cute inflict circle have news dry bike hill luggage seed style";
+var mnemonic = "nut sail initial fury text shy wage voice aim mammal appear milk";

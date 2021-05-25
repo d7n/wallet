@@ -1,1 +1,1 @@
-var mnemonic = "grid never denial black first involve dutch quarter innocent shoe moral jaguar";
+var mnemonic = "notable sauce follow memory ice wisdom grape twelve else lesson wealth depart";

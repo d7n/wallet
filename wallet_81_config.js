@@ -1,1 +1,1 @@
-var mnemonic = "bracket anger shed delay panic olympic push spoon group token club control";
+var mnemonic = "acid still roof input lake weasel park annual angle attitude ask pair";

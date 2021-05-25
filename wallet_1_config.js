@@ -1,1 +1,1 @@
-var mnemonic = "spatial special easily riot update safe huge enlist remember senior critic attend";
+var mnemonic = "polar phrase alcohol lava amused nut infant motor donkey crane insane tobacco";

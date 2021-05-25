@@ -1,1 +1,1 @@
-var mnemonic = "belt suggest sauce initial rally debris gorilla embody little security laugh moon";
+var mnemonic = "wine piece treat shoot year manage state bring lamp curious celery bracket";

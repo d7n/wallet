@@ -1,1 +1,1 @@
-var mnemonic = "van glide virtual flee brief hard bring confirm also sand echo skin";
+var mnemonic = "chat fame six fog genius truly number wage defy fetch imitate brown";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy frequent mercy few skirt talent abstract project text ship latin strong";
+var mnemonic = "venue bulk random video gun begin arm tobacco define silk ketchup differ";

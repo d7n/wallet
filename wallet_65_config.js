@@ -1,1 +1,1 @@
-var mnemonic = "flavor remind stay forest blur review kingdom lens vocal enjoy wheat unable";
+var mnemonic = "intact cost shiver lucky carbon clip immune timber reopen blossom engage spring";

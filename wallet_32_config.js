@@ -1,1 +1,1 @@
-var mnemonic = "worth gloom eager law meat theory bright pole oval rich crunch foam";
+var mnemonic = "impose flame slogan mother income sign salt put donkey dress volcano liar";

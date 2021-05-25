@@ -1,1 +1,1 @@
-var mnemonic = "chaos poem loyal drama oblige target village mutual away wonder roof van";
+var mnemonic = "speed high worry romance play farm impose sauce wage dinosaur forest bike";

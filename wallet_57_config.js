@@ -1,1 +1,1 @@
-var mnemonic = "garment mercy maid alter creek code robust soon cruel example climb daughter";
+var mnemonic = "wrestle vapor olympic special pill must index admit beef symbol plastic symptom";

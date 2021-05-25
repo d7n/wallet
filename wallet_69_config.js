@@ -1,1 +1,1 @@
-var mnemonic = "near flash panda team amazing limb horse include that velvet spell slow";
+var mnemonic = "border around wisdom winner educate pizza cube define plate amateur orient raccoon";
