@@ -1,1 +1,1 @@
-var mnemonic = "confirm border tornado toss knife swift wheel drip tree size dolphin gasp";
+var mnemonic = "crucial fence father drastic west slot pipe all series beyond tail view";

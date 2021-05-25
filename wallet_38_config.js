@@ -1,1 +1,1 @@
-var mnemonic = "parrot process inside heavy disease outside inform close tip coin small runway";
+var mnemonic = "parent sure dress banner forum reward category quarter still arena rely peace";

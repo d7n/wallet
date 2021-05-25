@@ -1,1 +1,1 @@
-var mnemonic = "come joke when mansion foot put nation evolve promote jazz hotel stock";
+var mnemonic = "party vast typical elegant vivid thrive toss upon caught agent hobby screen";

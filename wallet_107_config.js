@@ -1,1 +1,1 @@
-var mnemonic = "flat carpet laundry month people movie captain scout craft face lobster pride";
+var mnemonic = "general very forum special clay all abandon sausage skull flee because butter";

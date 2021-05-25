@@ -1,1 +1,1 @@
-var mnemonic = "endless judge patch allow indoor ensure happy question lucky merit eight subject";
+var mnemonic = "lonely grit liquid asthma autumn amount actress false tonight apple series test";

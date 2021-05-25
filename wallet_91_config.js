@@ -1,1 +1,1 @@
-var mnemonic = "swing usage bag misery marriage candy sell dwarf curve list senior swamp";
+var mnemonic = "fabric dove assault sponsor burst birth bonus hub viable face mad evidence";

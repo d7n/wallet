@@ -1,1 +1,1 @@
-var mnemonic = "daring panel better kangaroo problem bronze habit impact radio sign special iron";
+var mnemonic = "clarify frequent nasty movie pulse increase melody face ball rich aspect bread";

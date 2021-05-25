@@ -1,1 +1,1 @@
-var mnemonic = "parrot alert method liquid romance village couch whale popular crowd enemy noodle";
+var mnemonic = "deliver safe visit stove razor lunch detail maze mammal earth caution south";

@@ -1,1 +1,1 @@
-var mnemonic = "couple undo steel glance puppy twist gather throw arctic school swap genuine";
+var mnemonic = "glad fit armor foster casino detail slim measure razor weird twist purchase";

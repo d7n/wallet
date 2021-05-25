@@ -1,1 +1,1 @@
-var mnemonic = "section six style pizza label team rich feed crane snap stomach barely";
+var mnemonic = "verify idea major copper frequent attitude era hover average poet pond code";

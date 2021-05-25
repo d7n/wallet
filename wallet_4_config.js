@@ -1,1 +1,1 @@
-var mnemonic = "idea hockey motion coconut focus attract language truth evidence empower price adjust";
+var mnemonic = "gauge pumpkin analyst food wear evolve enact memory execute limit kind double";

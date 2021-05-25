@@ -1,1 +1,1 @@
-var mnemonic = "tonight alcohol muscle wet dove oven catalog use insect join lift warm";
+var mnemonic = "pole trumpet direct stumble deny nest left page ahead fall cheese welcome";

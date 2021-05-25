@@ -1,1 +1,1 @@
-var mnemonic = "valid view odor base castle peasant blast blush venture produce match there";
+var mnemonic = "boil struggle wise raw blouse baby clutch toss round drink reopen field";

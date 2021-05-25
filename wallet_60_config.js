@@ -1,1 +1,1 @@
-var mnemonic = "farm plate cement panel film scrub brush voice father bicycle habit canal";
+var mnemonic = "volume latin diagram advice bless priority slow ordinary tool couch coin exist";

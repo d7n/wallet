@@ -1,1 +1,1 @@
-var mnemonic = "consider borrow top cradle lyrics group midnight visit dune finish gold tool";
+var mnemonic = "grant design roast delay tobacco girl winner innocent govern fit among candy";

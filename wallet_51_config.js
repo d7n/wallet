@@ -1,1 +1,1 @@
-var mnemonic = "three alcohol tail thank wheel tumble fitness program mind science earth boil";
+var mnemonic = "canvas height praise slam episode decrease cute erode inform update palm gospel";

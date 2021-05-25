@@ -1,1 +1,1 @@
-var mnemonic = "hour chunk cherry photo screen remind write subject hamster insane scorpion bench";
+var mnemonic = "giggle antique drive swamp deny shoulder away include van labor claim crystal";

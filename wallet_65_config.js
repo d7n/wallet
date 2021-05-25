@@ -1,1 +1,1 @@
-var mnemonic = "broom decorate habit police parade setup flower about fluid labor render reject";
+var mnemonic = "depth wink two lunar mix ladder near crater laundry genuine frown mandate";

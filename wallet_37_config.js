@@ -1,1 +1,1 @@
-var mnemonic = "layer cabbage myself radar foam clown chimney pledge purity uniform order demand";
+var mnemonic = "blur legal pulse monitor quarter spoil play mechanic leopard enemy fat grab";

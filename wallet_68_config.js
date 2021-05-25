@@ -1,1 +1,1 @@
-var mnemonic = "trophy wild obvious deny nest climb parent asthma execute virus emotion volcano";
+var mnemonic = "swallow solid dream secret deer purity planet copper concert refuse flush country";

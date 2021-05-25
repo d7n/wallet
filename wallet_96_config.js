@@ -1,1 +1,1 @@
-var mnemonic = "utility faculty side charge surface advance pretty roast monkey predict bubble vibrant";
+var mnemonic = "comfort defense myself moral across tumble snack squirrel spare tired demand tunnel";

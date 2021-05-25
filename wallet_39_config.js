@@ -1,1 +1,1 @@
-var mnemonic = "expose mirror orient hire hour shaft crystal gadget share clever milk silver";
+var mnemonic = "ankle nephew try health remind rookie science across female inform distance frequent";

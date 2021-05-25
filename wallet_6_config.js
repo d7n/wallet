@@ -1,1 +1,1 @@
-var mnemonic = "net zebra escape recall dose health behave screen keep lend derive forest";
+var mnemonic = "slim check million multiply mule father tiger damp mandate choice brand govern";

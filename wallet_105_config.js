@@ -1,1 +1,1 @@
-var mnemonic = "pulse pull injury wire despair sunset silver regret caution jeans solution basic";
+var mnemonic = "run stock embark tide inner mosquito tornado habit grain autumn nephew escape";

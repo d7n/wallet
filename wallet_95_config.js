@@ -1,1 +1,1 @@
-var mnemonic = "fox brush magnet hill share rack dream basic sunny rival soup fine";
+var mnemonic = "focus impulse ladder stage pioneer airport balance dream between motor monkey clever";

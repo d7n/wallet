@@ -1,1 +1,1 @@
-var mnemonic = "wreck will office drama law undo favorite nuclear museum smoke step maple";
+var mnemonic = "media wage rival engine diagram still perfect loud joy road distance dust";

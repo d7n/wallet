@@ -1,1 +1,1 @@
-var mnemonic = "cook often jeans cash trap elder bleak verb trade token silly method";
+var mnemonic = "onion item tattoo diamond stereo cube race word any special equip short";

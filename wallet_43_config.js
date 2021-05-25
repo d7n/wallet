@@ -1,1 +1,1 @@
-var mnemonic = "forest thing unveil ice plate front obtain abuse always play group drink";
+var mnemonic = "nuclear balance toe what verify awake fault foil garment include poem fatal";

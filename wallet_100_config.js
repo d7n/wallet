@@ -1,1 +1,1 @@
-var mnemonic = "day staff swing arena genius whip enrich rebuild artist trash lesson satoshi";
+var mnemonic = "click clock rescue trend extra door post helmet bacon skate material miss";

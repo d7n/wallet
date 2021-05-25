@@ -1,1 +1,1 @@
-var mnemonic = "bamboo enroll all glove satisfy february cupboard device gentle endless bind best";
+var mnemonic = "job provide shuffle wool health only nose exotic ring chalk blood life";

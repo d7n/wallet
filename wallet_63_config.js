@@ -1,1 +1,1 @@
-var mnemonic = "alley fiscal walk spring quality denial heart borrow marriage teach tonight stone";
+var mnemonic = "start raccoon harbor upset relax twin march man corn resemble high brush";

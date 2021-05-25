@@ -1,1 +1,1 @@
-var mnemonic = "moment hazard chaos neutral hold thrive obey point brave liquid response six";
+var mnemonic = "change frost good neglect possible pudding grape gospel spend giraffe bargain exile";

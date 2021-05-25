@@ -1,1 +1,1 @@
-var mnemonic = "plate fan clay enhance virtual retire relax spy mix chunk wet depend";
+var mnemonic = "horn much scare knife shrug example actor region couple tragic copper fuel";

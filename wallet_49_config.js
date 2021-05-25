@@ -1,1 +1,1 @@
-var mnemonic = "smart diagram winter city embrace reopen bounce unit brass talent change law";
+var mnemonic = "please health into federal enable become deal typical army device hamster mirror";

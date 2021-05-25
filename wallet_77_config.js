@@ -1,1 +1,1 @@
-var mnemonic = "young price swing orphan gold chat fault fruit produce monitor win nominee";
+var mnemonic = "chaos black balcony wise resist aware assist genius lizard crater park olive";

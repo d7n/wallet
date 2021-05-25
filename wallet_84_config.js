@@ -1,1 +1,1 @@
-var mnemonic = "wrestle weekend beauty avoid silent roof also acquire middle whisper usual toy";
+var mnemonic = "planet romance gain address nurse atom rather evil satoshi pattern grass timber";

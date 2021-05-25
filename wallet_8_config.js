@@ -1,1 +1,1 @@
-var mnemonic = "seminar color icon pave remove wood toast work ugly web engine reform";
+var mnemonic = "tilt spoon symptom wreck rifle goat slogan machine tool find oblige angry";

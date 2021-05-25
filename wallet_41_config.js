@@ -1,1 +1,1 @@
-var mnemonic = "provide suspect trend shift practice two sand fix poverty choose primary diagram";
+var mnemonic = "talent alter sunny message angry tackle earn dust glory spoil trim neither";

@@ -1,1 +1,1 @@
-var mnemonic = "vast subway shaft sign employ nurse pole rich novel retreat loop cash";
+var mnemonic = "radar snow call crater brand soap arena produce obvious awesome claim tower";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle asthma evil deliver garage wife size toy together invite mule verb";
+var mnemonic = "crush build merry village engine dumb sponsor cook siren oval sadness drastic";

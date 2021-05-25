@@ -1,1 +1,1 @@
-var mnemonic = "pink explain typical wait town shrimp fitness receive practice ordinary quarter random";
+var mnemonic = "early unaware dolphin cause already heavy stool illegal same tunnel wonder total";

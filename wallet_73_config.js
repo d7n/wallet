@@ -1,1 +1,1 @@
-var mnemonic = "accident mansion laugh vacuum waste index crater risk under tray traffic cruel";
+var mnemonic = "solid drive actual debate push double letter ahead city tackle antenna left";

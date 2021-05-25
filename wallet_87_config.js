@@ -1,1 +1,1 @@
-var mnemonic = "romance paddle wealth cruise energy basket bread long black offer usual lesson";
+var mnemonic = "penalty spot license pull depth entire burger jewel master dignity whisper rookie";

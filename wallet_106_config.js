@@ -1,1 +1,1 @@
-var mnemonic = "sport ten noise tray certain talk expect stick valve carpet strong intact";
+var mnemonic = "pull argue anchor dust define half wagon pull peanut dignity syrup point";

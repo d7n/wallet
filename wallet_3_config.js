@@ -1,1 +1,1 @@
-var mnemonic = "crop sunset roast ten joke turn once addict narrow video old grace";
+var mnemonic = "sister people teach grid pigeon invest shrimp mandate skirt viable moment nut";

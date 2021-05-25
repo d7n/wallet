@@ -1,1 +1,1 @@
-var mnemonic = "twin balcony tourist song glide filter spike guitar slow spatial ensure current";
+var mnemonic = "fortune balcony item hood elegant bomb present eye slab build clean logic";

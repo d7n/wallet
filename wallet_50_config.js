@@ -1,1 +1,1 @@
-var mnemonic = "young join warm world rapid coast village usual property silent bargain aspect";
+var mnemonic = "object spatial gaze wide grape rough tip dignity stick empower leopard glove";

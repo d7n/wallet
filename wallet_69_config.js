@@ -1,1 +1,1 @@
-var mnemonic = "one flower acid biology become wrestle blind tank dismiss just demand range";
+var mnemonic = "struggle garden march cancel inhale myth forget state floor candy jacket treat";

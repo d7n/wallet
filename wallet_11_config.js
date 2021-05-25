@@ -1,1 +1,1 @@
-var mnemonic = "critic brush museum empty weekend one focus damage shallow home stomach jar";
+var mnemonic = "swing letter manage absurd broken cushion indicate torch error coast weasel hard";

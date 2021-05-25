@@ -1,1 +1,1 @@
-var mnemonic = "excuse icon video casino accident deliver unit primary juice shield belt laptop";
+var mnemonic = "sunny weekend kiwi stumble another view cousin slush owner young rain obey";

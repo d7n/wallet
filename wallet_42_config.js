@@ -1,1 +1,1 @@
-var mnemonic = "pitch mule month energy circle install ensure property three basket alpha begin";
+var mnemonic = "document metal guard great fan public resemble hair aunt family consider orient";

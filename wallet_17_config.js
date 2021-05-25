@@ -1,1 +1,1 @@
-var mnemonic = "gather pepper program chuckle side tunnel avocado finish guess width glimpse level";
+var mnemonic = "educate lyrics subway shop capital foil future emotion visa family mom moment";

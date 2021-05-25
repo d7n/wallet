@@ -1,1 +1,1 @@
-var mnemonic = "shine gravity outdoor excite medal between lend hospital brush upset scout immense";
+var mnemonic = "cheap tackle reflect heavy super stomach degree develop list sphere merit cheap";

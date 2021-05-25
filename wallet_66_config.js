@@ -1,1 +1,1 @@
-var mnemonic = "battle salad useful voyage penalty retire tag enough upgrade icon south soap";
+var mnemonic = "farm water shield feel away gas general parade omit denial thunder dismiss";

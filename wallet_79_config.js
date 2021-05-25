@@ -1,1 +1,1 @@
-var mnemonic = "result foot receive tonight wool chalk beyond buzz atom jeans life defy";
+var mnemonic = "solution orphan tail exact extend double dragon tumble project merge price airport";

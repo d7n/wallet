@@ -1,1 +1,1 @@
-var mnemonic = "luggage ride voice portion armor chapter eyebrow design column fossil useful glance";
+var mnemonic = "clog brisk exile bind squeeze spring truly match cliff column old caught";

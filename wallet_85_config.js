@@ -1,1 +1,1 @@
-var mnemonic = "unveil giant melt perfect link flat wet airport slim surge exile water";
+var mnemonic = "cover canyon loan lizard forget fuel crawl pink avoid roast will predict";

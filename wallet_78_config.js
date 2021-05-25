@@ -1,1 +1,1 @@
-var mnemonic = "mix afford flavor bubble raw trash ask raccoon boring pottery version matrix";
+var mnemonic = "vessel power health kite basic panther rebel myself armed absurd power increase";

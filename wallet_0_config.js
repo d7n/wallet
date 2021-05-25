@@ -1,1 +1,1 @@
-var mnemonic = "toy dragon wealth gown lake steel enrich truly truck caught moon refuse";
+var mnemonic = "talk night mail love alpha dust myself trouble again beyond tiger favorite";

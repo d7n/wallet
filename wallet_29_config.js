@@ -1,1 +1,1 @@
-var mnemonic = "thought monitor monkey churn estate age skill also useful rocket butter tuition";
+var mnemonic = "coyote spare repeat coil student smile swim join region lizard hollow hold";

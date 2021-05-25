@@ -1,1 +1,1 @@
-var mnemonic = "text dress puppy tray push pluck social member practice explain life fringe";
+var mnemonic = "forget uphold junk segment must faith harsh change belt robot annual mind";

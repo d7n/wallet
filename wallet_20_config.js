@@ -1,1 +1,1 @@
-var mnemonic = "frame fence alcohol trend wild fish conduct present cannon best evoke torch";
+var mnemonic = "kidney candy dynamic code bracket begin luxury stick audit grocery clump nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "hat rail soda interest galaxy logic cube mammal chimney record mountain pink";
+var mnemonic = "hour win mistake robust address holiday tell evolve rack member auto topple";

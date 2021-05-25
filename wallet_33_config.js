@@ -1,1 +1,1 @@
-var mnemonic = "catalog squeeze reunion veteran gift tortoise author expose purse visa fatal glide";
+var mnemonic = "normal give leader age shield model expose car better eternal kitten wage";

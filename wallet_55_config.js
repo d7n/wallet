@@ -1,1 +1,1 @@
-var mnemonic = "pelican school clay travel box abuse lend hill sheriff again inject custom";
+var mnemonic = "lion asset hedgehog twin become goddess shallow dawn knife wire walnut axis";

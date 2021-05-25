@@ -1,1 +1,1 @@
-var mnemonic = "track between theory fault copper diamond convince tuition clean clay hover school";
+var mnemonic = "soup lemon acid ramp club home gauge radio athlete wrong life flip";

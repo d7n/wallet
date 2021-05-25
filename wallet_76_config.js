@@ -1,1 +1,1 @@
-var mnemonic = "uphold hello output decrease admit tail race fat dutch grain upon ten";
+var mnemonic = "evoke dice analyst also final secret inside critic grocery desk hidden limb";

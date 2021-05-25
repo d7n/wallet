@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow spread badge crush neck ticket flush crime business quote denial supreme";
+var mnemonic = "jazz dirt awake myth face owner peace draw salt tissue festival switch";

@@ -1,1 +1,1 @@
-var mnemonic = "surface chronic isolate candy double mixture scrap badge link icon wise edit";
+var mnemonic = "beef define panda inspire divorce lobster recycle duck autumn spring hockey build";

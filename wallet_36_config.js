@@ -1,1 +1,1 @@
-var mnemonic = "when achieve range together symptom uncle priority arrange museum aim flower party";
+var mnemonic = "visual enable holiday voyage aisle limb decrease avocado harbor wild ride immense";

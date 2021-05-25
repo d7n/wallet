@@ -1,1 +1,1 @@
-var mnemonic = "since search piano degree parent prize creek earn appear absent tortoise surprise";
+var mnemonic = "portion desk budget venue sibling resource misery illegal write armor bind segment";

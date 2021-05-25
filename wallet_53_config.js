@@ -1,1 +1,1 @@
-var mnemonic = "pattern face just aunt video unfold goat planet thrive knife indoor envelope";
+var mnemonic = "circle trumpet wealth movie damp hammer twelve fade add prevent metal join";

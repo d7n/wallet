@@ -1,1 +1,1 @@
-var mnemonic = "marine toward zebra vacant grain sock leisure cruise demand rubber average mimic";
+var mnemonic = "goat drum heart enroll shallow double between woman hospital panda error rent";

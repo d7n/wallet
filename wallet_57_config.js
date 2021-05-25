@@ -1,1 +1,1 @@
-var mnemonic = "joy volcano point debris tool way soul media emerge across gather merge";
+var mnemonic = "swamp outer bicycle deal feed clown remain arrest divide gap salute pact";

@@ -1,1 +1,1 @@
-var mnemonic = "slot siren zero slide sand trumpet tomato snap thought cruise write divorce";
+var mnemonic = "mirror monitor silk sibling police gather brick purity nut daughter spike possible";

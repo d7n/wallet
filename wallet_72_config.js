@@ -1,1 +1,1 @@
-var mnemonic = "stuff service elephant maze dish gauge glance enforce swallow auction label protect";
+var mnemonic = "bracket future edit hero cousin insane predict history change unique idea kite";

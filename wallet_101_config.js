@@ -1,1 +1,1 @@
-var mnemonic = "suit silly manual turkey mammal orient surprise monitor sting bracket clap roof";
+var mnemonic = "cement field novel vapor lemon fabric immune paper figure robot slot latin";

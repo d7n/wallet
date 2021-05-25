@@ -1,1 +1,1 @@
-var mnemonic = "alarm tennis toddler dice auction lunch segment quality soul combine area apology";
+var mnemonic = "release gesture avocado across goat sound deny arrow erode calm gown sister";

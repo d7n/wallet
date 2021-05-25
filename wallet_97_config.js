@@ -1,1 +1,1 @@
-var mnemonic = "order limit robust train cross promote answer vintage palm robust cotton pattern";
+var mnemonic = "degree kite hire thumb cushion six high naive genuine omit loan tortoise";

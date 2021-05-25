@@ -1,1 +1,1 @@
-var mnemonic = "sunny add legal spider crowd prefer toy blood unit frown thing core";
+var mnemonic = "siege sleep pen body feed acid bridge box area crash join decrease";

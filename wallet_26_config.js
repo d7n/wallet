@@ -1,1 +1,1 @@
-var mnemonic = "burger select say museum cube fury slot believe mention arrange amused jungle";
+var mnemonic = "glimpse brush yellow sure popular first diagram produce enroll hint globe frequent";

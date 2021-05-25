@@ -1,1 +1,1 @@
-var mnemonic = "advice wear spawn sense cake doll tool sheriff siege uniform sun maid";
+var mnemonic = "industry draft impulse network expand gym bundle faint measure outer wheat rival";

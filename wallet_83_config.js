@@ -1,1 +1,1 @@
-var mnemonic = "snake addict hockey business buddy ask rail citizen garden tide blood beef";
+var mnemonic = "orient zebra draft battle allow exchange elevator tube fresh hand exit loan";

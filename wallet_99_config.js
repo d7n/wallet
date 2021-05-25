@@ -1,1 +1,1 @@
-var mnemonic = "mistake long wing buffalo sail sick excite onion blue sample auto trial";
+var mnemonic = "bomb diamond issue anchor like member eight husband loud later razor figure";
