@@ -1,1 +1,1 @@
-var mnemonic = "library index long easy neglect gap seek patient roof sing invest camera";
+var mnemonic = "music iron broccoli mansion calm saddle okay control rude loyal blouse plug";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer chapter guide version monster humble repeat cancel sausage notice believe broken";
+var mnemonic = "sell prosper cash dash clerk misery stool spawn mimic trash enroll length";

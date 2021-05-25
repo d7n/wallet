@@ -1,1 +1,1 @@
-var mnemonic = "all skirt become tiger slam protect hold medal stereo spice hazard leaf";
+var mnemonic = "better expect own assist piano sustain enjoy hurt junior select few legend";

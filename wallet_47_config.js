@@ -1,1 +1,1 @@
-var mnemonic = "supreme verb saddle pigeon pattern lonely patch account mass just bag bulk";
+var mnemonic = "size flip charge celery beach leisure giraffe invite tomorrow judge fade swarm";

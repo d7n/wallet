@@ -1,1 +1,1 @@
-var mnemonic = "settle cat donkey cigar clinic clever chief hand famous music depth forest";
+var mnemonic = "uphold barrel trend cargo mesh nerve message happy gain awkward bless quick";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel mercy loop venture rice illegal piano treat history pulp rally evil";
+var mnemonic = "motor address tackle polar item bench vacant family extend bridge clerk ripple";

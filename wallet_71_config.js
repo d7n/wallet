@@ -1,1 +1,1 @@
-var mnemonic = "wheat risk gallery faith shed dream error river giant random pluck absent";
+var mnemonic = "remind charge mobile lawsuit saddle example dynamic theory wrong dwarf trouble antique";

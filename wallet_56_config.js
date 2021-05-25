@@ -1,1 +1,1 @@
-var mnemonic = "again define critic burden know dream present matter mandate deer mad dry";
+var mnemonic = "chapter must crystal design topple puzzle suspect tomato hammer diesel habit robust";

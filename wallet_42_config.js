@@ -1,1 +1,1 @@
-var mnemonic = "mammal dust cash region loyal actual decline pulp escape idea oxygen flavor";
+var mnemonic = "hammer gaze turkey badge trend today foil level divorce access animal crush";

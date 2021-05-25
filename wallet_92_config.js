@@ -1,1 +1,1 @@
-var mnemonic = "grief mixture small noble inform copy bean empty mammal cheap mystery shaft";
+var mnemonic = "system permit direct match comfort shiver gold bid whale sugar goddess curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "dry opinion move check note victory purse wall memory scene hill imitate";
+var mnemonic = "defense grape strong comic genre learn fit adjust cabbage head since luxury";

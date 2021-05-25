@@ -1,1 +1,1 @@
-var mnemonic = "bracket citizen board innocent dial august draw orphan machine essay simple faculty";
+var mnemonic = "small beach wave month powder pause cake warm tongue provide hat invest";

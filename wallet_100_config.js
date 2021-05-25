@@ -1,1 +1,1 @@
-var mnemonic = "muffin scissors inside crouch alien laugh engage defense crack emerge beyond arrange";
+var mnemonic = "civil symbol either conduct undo dash hundred combine victory random wisdom holiday";

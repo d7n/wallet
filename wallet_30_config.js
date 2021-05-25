@@ -1,1 +1,1 @@
-var mnemonic = "say coach slab chunk crucial hungry slice dirt churn evidence lucky segment";
+var mnemonic = "void nest win before bird brown fine draw truly point apart wolf";

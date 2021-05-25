@@ -1,1 +1,1 @@
-var mnemonic = "have breeze goddess decline between this earn panther bubble bomb exchange tail";
+var mnemonic = "custom present loop violin pepper warrior genuine practice siren control clump often";

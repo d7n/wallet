@@ -1,1 +1,1 @@
-var mnemonic = "pave key bargain chuckle echo cabin name repair kitchen prefer lady pig";
+var mnemonic = "yellow outside route bachelor congress aunt enjoy movie kangaroo series flee little";

@@ -1,1 +1,1 @@
-var mnemonic = "car hamster feel cute invest pony energy solid wheat business release model";
+var mnemonic = "mask pool negative already winner sentence pluck member orbit all shrimp noble";

@@ -1,1 +1,1 @@
-var mnemonic = "rent hospital cliff rule special now organ desert blouse toward give another";
+var mnemonic = "voice lottery mother rapid mention hidden model raw curtain machine spatial absent";

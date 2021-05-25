@@ -1,1 +1,1 @@
-var mnemonic = "attack decorate captain dog grow cinnamon woman exchange bargain rather entry silk";
+var mnemonic = "cushion own topple found fog citizen phone spare pattern frequent meat panther";

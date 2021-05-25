@@ -1,1 +1,1 @@
-var mnemonic = "inflict canal dentist lecture ladder lobster remind regular around danger argue crucial";
+var mnemonic = "unhappy accuse habit orphan such fancy palace vivid chest bag bulb grit";

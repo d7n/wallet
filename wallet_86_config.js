@@ -1,1 +1,1 @@
-var mnemonic = "photo amateur stove fatigue follow retire welcome napkin faith dry pave frost";
+var mnemonic = "load swamp muffin expose peace settle spend protect asset bicycle excess bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness dolphin ahead vintage stove flag hour battle theme task surface noodle";
+var mnemonic = "motor nature cash rely toilet cute recycle grocery certain garlic boy drink";

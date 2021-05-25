@@ -1,1 +1,1 @@
-var mnemonic = "mutual ensure engage carpet hen diesel account radio cover another cluster rack";
+var mnemonic = "analyst major wheat fold tobacco typical path express menu arena forward frog";

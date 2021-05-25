@@ -1,1 +1,1 @@
-var mnemonic = "radar offer stem gather inquiry control tank gravity magic damp chalk dune";
+var mnemonic = "setup nephew radar myth panic kidney submit praise another jungle cherry cousin";

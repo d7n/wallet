@@ -1,1 +1,1 @@
-var mnemonic = "ticket crucial blue render say soon front isolate spot move coyote liquid";
+var mnemonic = "reform eager correct visual fashion brush divert broccoli very tortoise arrange junior";

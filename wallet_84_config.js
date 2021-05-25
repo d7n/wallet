@@ -1,1 +1,1 @@
-var mnemonic = "near tragic bomb orphan journey axis document trigger where estate jelly essay";
+var mnemonic = "spider keep civil useful raccoon desert cigar provide visit ginger frown galaxy";

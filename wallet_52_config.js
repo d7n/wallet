@@ -1,1 +1,1 @@
-var mnemonic = "radar consider network medal script rich object taste steak wrap rather cry";
+var mnemonic = "aim stereo giant warfare much typical process sister hood enjoy buffalo game";

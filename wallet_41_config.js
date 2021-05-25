@@ -1,1 +1,1 @@
-var mnemonic = "uncover meadow farm original pill chicken peace horror accident oak dynamic upgrade";
+var mnemonic = "life stand dust carry acid display labor twelve useful sort glove cheap";

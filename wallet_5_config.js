@@ -1,1 +1,1 @@
-var mnemonic = "explain lady shock old afraid dinosaur near bonus roast forward stove ramp";
+var mnemonic = "appear riot cup unable flower topple woman scout spin version body long";

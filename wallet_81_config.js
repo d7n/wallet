@@ -1,1 +1,1 @@
-var mnemonic = "sphere exclude waste exhibit hold unknown teach squirrel panther also harsh trophy";
+var mnemonic = "animal shiver once air awkward boss dance pumpkin stereo kingdom expect type";

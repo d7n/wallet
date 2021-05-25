@@ -1,1 +1,1 @@
-var mnemonic = "barely erase steel document output slow ticket cloth purchase category theme proof";
+var mnemonic = "edge window board cool gate caution first empty chunk comic brand during";

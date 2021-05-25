@@ -1,1 +1,1 @@
-var mnemonic = "torch stick romance shrimp project auction coast genre knife enforce wasp exchange";
+var mnemonic = "mutual tribe join color simple beauty ten oval crater plug exhaust chimney";

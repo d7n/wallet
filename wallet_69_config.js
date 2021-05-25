@@ -1,1 +1,1 @@
-var mnemonic = "shell quit doll enact fresh stairs tail column clip furnace bid fury";
+var mnemonic = "urge clown myself uniform artist equal strong rabbit scorpion edge ship wife";

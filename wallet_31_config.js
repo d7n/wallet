@@ -1,1 +1,1 @@
-var mnemonic = "apart reduce ugly pudding laundry motor rose team use calm layer hurt";
+var mnemonic = "able point artwork shrimp foil dose bitter science hope ankle horn lawsuit";

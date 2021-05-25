@@ -1,1 +1,1 @@
-var mnemonic = "error comic brown where require disorder nest bring hill slab canal weekend";
+var mnemonic = "media jump wrap maid subway soon main brave pistol awesome cage box";

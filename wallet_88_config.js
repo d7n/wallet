@@ -1,1 +1,1 @@
-var mnemonic = "absorb design turkey misery scene wood make village waste hope glad space";
+var mnemonic = "today drill hamster cruise coconut loud cream special jungle whisper food pelican";

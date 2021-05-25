@@ -1,1 +1,1 @@
-var mnemonic = "blur remember ice iron bamboo scrub leaf elbow distance charge connect net";
+var mnemonic = "run tiny guilt must hidden craft net enforce sudden pluck cargo situate";

@@ -1,1 +1,1 @@
-var mnemonic = "grab noodle observe symptom market disorder media first angle empty example slush";
+var mnemonic = "basket south finger sauce novel antenna spare tape dash hollow vacant access";

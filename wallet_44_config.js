@@ -1,1 +1,1 @@
-var mnemonic = "music loan team ridge balance liar good gold where method tissue craft";
+var mnemonic = "afford ignore strategy page friend neglect arena collect have glare bone retire";

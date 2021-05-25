@@ -1,1 +1,1 @@
-var mnemonic = "kiwi nurse fantasy park soul coffee scan alpha mushroom energy onion lucky";
+var mnemonic = "cheap right control pulse current nest retire cream thought enough urge lift";

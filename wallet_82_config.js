@@ -1,1 +1,1 @@
-var mnemonic = "affair embark trigger wing gate share hazard glass fiscal marine scatter move";
+var mnemonic = "syrup mixture faint enhance veteran harvest hospital hole pool drop finish region";

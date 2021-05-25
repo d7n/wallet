@@ -1,1 +1,1 @@
-var mnemonic = "mix vital spice wealth cradle inside auction always mechanic lesson shallow naive";
+var mnemonic = "kingdom jewel attend road amount consider burden aunt resource base nominee elite";

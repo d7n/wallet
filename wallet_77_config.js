@@ -1,1 +1,1 @@
-var mnemonic = "arctic hedgehog attitude mandate globe chronic ghost december hungry list blind guitar";
+var mnemonic = "toe worry fatal host mosquito donor glance define update imitate attend quiz";

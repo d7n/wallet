@@ -1,1 +1,1 @@
-var mnemonic = "course useful rescue drama plate crime table rug asset monkey silly seed";
+var mnemonic = "maze crumble bike endless clutch legend match danger tool love sock canvas";

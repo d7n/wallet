@@ -1,1 +1,1 @@
-var mnemonic = "mirror fit write hour roast wall double object magnet fork diagram awake";
+var mnemonic = "section power lens judge jungle observe million tomato tragic ceiling check impact";

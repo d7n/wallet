@@ -1,1 +1,1 @@
-var mnemonic = "alter lunar hello upset mention depth budget green rifle begin shed debris";
+var mnemonic = "hill wait crouch force maple rich maximum blast salon siren december creek";

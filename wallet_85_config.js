@@ -1,1 +1,1 @@
-var mnemonic = "educate letter equal such million safe armed chief abandon rice mass task";
+var mnemonic = "toddler monkey almost crouch cover lawsuit cattle thing empty quiz impose silent";

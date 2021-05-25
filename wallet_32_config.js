@@ -1,1 +1,1 @@
-var mnemonic = "spoon purchase tuition case kit shed utility wheel taxi wrestle attitude race";
+var mnemonic = "afraid virus usual seek absent style dawn delay arrow planet fiscal doctor";

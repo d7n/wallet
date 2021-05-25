@@ -1,1 +1,1 @@
-var mnemonic = "copper detect say charge warm piano lounge tail aunt actress abuse gentle";
+var mnemonic = "high gadget keen industry bind absurd meadow gown balance exile require canal";

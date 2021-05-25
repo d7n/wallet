@@ -1,1 +1,1 @@
-var mnemonic = "trial survey result lamp fortune farm style remind trouble rough gaze stem";
+var mnemonic = "lyrics age online town satoshi toss first material sort sphere affair dog";

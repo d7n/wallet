@@ -1,1 +1,1 @@
-var mnemonic = "pottery match reflect ordinary worth seat tourist right earn race axis employ";
+var mnemonic = "park orphan cheap robot gloom faculty sick teach blouse fork song weird";

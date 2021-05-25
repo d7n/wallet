@@ -1,1 +1,1 @@
-var mnemonic = "above twin suffer busy shrimp nominee canoe inner explain broom return photo";
+var mnemonic = "accident inch fiscal royal rule shy step never frame thumb taxi decline";

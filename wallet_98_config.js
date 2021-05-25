@@ -1,1 +1,1 @@
-var mnemonic = "cup obey vanish injury salt expire accuse bar shuffle vague immune crunch";
+var mnemonic = "mother company change border knife fragile fury avocado citizen indicate unable actual";

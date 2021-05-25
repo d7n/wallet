@@ -1,1 +1,1 @@
-var mnemonic = "hat renew volcano indicate flat fiber analyst tissue egg conduct lesson rhythm";
+var mnemonic = "message thing green orange exchange gallery van crane oven library author entry";

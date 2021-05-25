@@ -1,1 +1,1 @@
-var mnemonic = "repeat super tobacco mean lens elder cake cover fly camp dress portion";
+var mnemonic = "future outside unhappy sketch merit help raven differ foster admit pencil ladder";

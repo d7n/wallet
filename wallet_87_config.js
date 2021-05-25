@@ -1,1 +1,1 @@
-var mnemonic = "fun rare price glimpse law soda repeat toe ginger town essence caution";
+var mnemonic = "ship remove envelope amused robot extra van sponsor legal shop ship indoor";

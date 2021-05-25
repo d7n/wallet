@@ -1,1 +1,1 @@
-var mnemonic = "save hire dragon dial seminar motion cry badge pill welcome nation strike";
+var mnemonic = "pottery hope dust polar excite destroy image stay shed weather donkey success";

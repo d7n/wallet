@@ -1,1 +1,1 @@
-var mnemonic = "excuse bunker blue lawsuit car sight hub matter gap turn owner dog";
+var mnemonic = "sound number rain bicycle toast unique reduce bunker planet choice strong sing";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme swallow bridge sleep foot nice mushroom flavor this jungle vibrant square";
+var mnemonic = "crouch wink car subject trouble wreck morning human sustain rate energy alone";

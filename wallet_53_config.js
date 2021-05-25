@@ -1,1 +1,1 @@
-var mnemonic = "human window throw alter visa comfort hill return all stereo deputy endless";
+var mnemonic = "marble know gesture excite achieve early profit athlete host together drill twist";

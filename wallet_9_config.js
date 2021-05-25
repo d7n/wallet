@@ -1,1 +1,1 @@
-var mnemonic = "crawl wall mountain bless pilot spike reunion leisure zero switch alpha wise";
+var mnemonic = "crisp sorry frog top april jazz fire outdoor pool drama palace magic";

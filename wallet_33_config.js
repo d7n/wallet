@@ -1,1 +1,1 @@
-var mnemonic = "congress benefit total proof unlock aerobic paper govern provide melt snake feel";
+var mnemonic = "stick receive atom use napkin extra now tip parrot harsh tip vital";

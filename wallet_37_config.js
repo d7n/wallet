@@ -1,1 +1,1 @@
-var mnemonic = "thought unique column culture trial exile bid hammer hub science erosion into";
+var mnemonic = "donkey decade soda sweet genius october amazing drink tent dose color leisure";

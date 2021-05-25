@@ -1,1 +1,1 @@
-var mnemonic = "series dignity best picture flight impulse clay evil neither crater broccoli assault";
+var mnemonic = "plunge peasant sock canyon wish bulk tail choice chalk system never filter";

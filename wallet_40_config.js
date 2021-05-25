@@ -1,1 +1,1 @@
-var mnemonic = "diamond high pool final grape result crime squeeze boost shine idle wage";
+var mnemonic = "crew uncle cheap fortune drop crop carry lab wish art opinion anchor";

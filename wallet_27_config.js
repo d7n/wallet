@@ -1,1 +1,1 @@
-var mnemonic = "vote view weather again concert potato toward eyebrow place furnace bean guide";
+var mnemonic = "modify orphan option refuse pudding traffic violin elegant wisdom velvet feed update";

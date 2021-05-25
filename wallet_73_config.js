@@ -1,1 +1,1 @@
-var mnemonic = "nation loop clarify minute undo gap fetch brick pluck board tonight code";
+var mnemonic = "promote business van swift sort shrimp unusual enact funny sign march sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "prize can candy onion client urge year avocado march thumb wash allow";
+var mnemonic = "hover middle conduct wear chest rib rain bubble priority upper great culture";

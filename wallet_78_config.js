@@ -1,1 +1,1 @@
-var mnemonic = "fog diamond final predict couple describe much cactus clip melody poem print";
+var mnemonic = "embrace skull empower island riot merry cruise expand amount venture salad income";

@@ -1,1 +1,1 @@
-var mnemonic = "park cash rather favorite park often salt giraffe must spot creek similar";
+var mnemonic = "wheel shop junk alley jazz will twelve cradle butter toss cover roof";

@@ -1,1 +1,1 @@
-var mnemonic = "essence scheme host way pyramid course evolve quit tomato room suffer hobby";
+var mnemonic = "diary boat kitchen please travel lawsuit cliff guard bird syrup entire coconut";

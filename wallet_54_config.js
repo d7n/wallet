@@ -1,1 +1,1 @@
-var mnemonic = "black mention ugly huge jaguar letter dentist taste rubber voyage wreck acid";
+var mnemonic = "wealth lumber hammer boat crew immune remove merge soda power world gorilla";

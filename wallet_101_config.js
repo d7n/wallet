@@ -1,1 +1,1 @@
-var mnemonic = "attitude beyond nature oblige congress cat auto reform arena aerobic unfold assault";
+var mnemonic = "exchange vapor few brick limb marine artist grape later amount hair era";

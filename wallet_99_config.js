@@ -1,1 +1,1 @@
-var mnemonic = "silver fly affair doctor federal chuckle core course mixed vocal sign coral";
+var mnemonic = "weather cabbage wide finish provide sound apart nominee gift earth until nose";

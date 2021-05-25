@@ -1,1 +1,1 @@
-var mnemonic = "perfect bunker banana hunt lizard inmate world ecology heavy state pluck copy";
+var mnemonic = "only divorce satoshi buddy taste scatter stomach casino common puzzle gather flag";

@@ -1,1 +1,1 @@
-var mnemonic = "subway maze vacuum admit rice strong depth behind enable friend express daughter";
+var mnemonic = "describe risk famous sausage retire final mad target life basic chief crush";

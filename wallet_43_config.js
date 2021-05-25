@@ -1,1 +1,1 @@
-var mnemonic = "become used shift reunion twice unveil increase sentence dwarf front firm pull";
+var mnemonic = "mobile scissors such total job coil dignity empower wild short glue void";

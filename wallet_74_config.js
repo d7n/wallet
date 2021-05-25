@@ -1,1 +1,1 @@
-var mnemonic = "canal fatal sail grab chief jeans matrix question glance inside student beauty";
+var mnemonic = "panther blouse jungle warm six leg buyer volume teach alter return bullet";

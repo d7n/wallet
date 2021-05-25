@@ -1,1 +1,1 @@
-var mnemonic = "laptop level happy sunny year also velvet neck west skirt clarify occur";
+var mnemonic = "run engage drum bachelor omit faith favorite arrange soldier buffalo curious sunset";

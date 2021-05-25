@@ -1,1 +1,1 @@
-var mnemonic = "ridge kingdom pistol buddy refuse garage prefer pink wild decide manual topic";
+var mnemonic = "ostrich burden monster long half rather daring multiply shield finish frozen private";

@@ -1,1 +1,1 @@
-var mnemonic = "actual combine palm female predict fiber garlic wedding swamp orchard town shadow";
+var mnemonic = "cluster antenna february either slight square select snow will settle girl pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal asthma magic merge version sense estate loud kid flat wild era";
+var mnemonic = "mimic govern innocent cloud soft enemy clap dash because brief day leopard";

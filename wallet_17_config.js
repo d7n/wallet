@@ -1,1 +1,1 @@
-var mnemonic = "frame tackle matrix fix junk lazy parrot deny delay chimney skill chief";
+var mnemonic = "hip pave you produce adult census virus imitate shrug brush forum purse";

@@ -1,1 +1,1 @@
-var mnemonic = "code bright robust garden seat twice horse biology leave odor magnet gift";
+var mnemonic = "rubber joke person arm wave hair any success royal course tenant dance";

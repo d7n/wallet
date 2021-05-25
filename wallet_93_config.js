@@ -1,1 +1,1 @@
-var mnemonic = "observe target immune snake section bonus chuckle arrange story wave gasp over";
+var mnemonic = "rail kind nest chest endorse shoe keen forward ozone aspect velvet casual";

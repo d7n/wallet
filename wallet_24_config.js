@@ -1,1 +1,1 @@
-var mnemonic = "require gaze have ginger media barrel burden uphold year sport museum bargain";
+var mnemonic = "thank light visit fox edit avocado select garden excuse praise loyal vehicle";

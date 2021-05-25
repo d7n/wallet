@@ -1,1 +1,1 @@
-var mnemonic = "turtle pony vehicle equip swim leg tragic animal vibrant actress civil neck";
+var mnemonic = "egg dream famous eight subject police wire blur sheriff turkey embark lock";

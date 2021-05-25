@@ -1,1 +1,1 @@
-var mnemonic = "bread expose cave habit zoo world amused walnut upper chaos midnight elegant";
+var mnemonic = "enhance program final keep still maze alien forward mosquito enemy system also";

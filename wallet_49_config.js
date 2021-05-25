@@ -1,1 +1,1 @@
-var mnemonic = "example ethics liquid ten eternal blame arm iron vapor remember ecology sponsor";
+var mnemonic = "spin common brand tiger suspect shock maximum crystal resemble tourist diet bless";

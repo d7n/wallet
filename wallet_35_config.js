@@ -1,1 +1,1 @@
-var mnemonic = "sport tortoise more gap adult yellow dilemma act segment idle people mouse";
+var mnemonic = "oil grunt main mule when depart lounge column fluid educate panic genius";
