@@ -1,1 +1,1 @@
-var mnemonic = "head sight polar ice cruise stand traffic taste doctor today erase much";
+var mnemonic = "hundred dilemma cream strike sort unusual sister endorse please roast affair move";

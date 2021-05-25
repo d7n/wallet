@@ -1,1 +1,1 @@
-var mnemonic = "rally latin check jaguar tube stand version junior parade mobile uphold wool";
+var mnemonic = "guess artwork sleep mom strong opera together hen ritual coyote movie breeze";

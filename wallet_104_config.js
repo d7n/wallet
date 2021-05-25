@@ -1,1 +1,1 @@
-var mnemonic = "vocal mosquito ramp purpose desert magic select monster tonight pumpkin interest quarter";
+var mnemonic = "flip annual maze rapid scatter chronic mind apple kiss brief edge radio";

@@ -1,1 +1,1 @@
-var mnemonic = "bench scene peace engage screen aim normal unfair hospital build private reduce";
+var mnemonic = "receive rough pulp nasty acid sound captain delay protect net memory write";

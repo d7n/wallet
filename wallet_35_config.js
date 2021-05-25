@@ -1,1 +1,1 @@
-var mnemonic = "gadget blanket royal cave remain lunar clip draw reunion food half sword";
+var mnemonic = "wink affair jaguar rice trap decide tired priority range logic develop measure";

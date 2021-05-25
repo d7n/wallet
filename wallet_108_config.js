@@ -1,1 +1,1 @@
-var mnemonic = "wash feature illness october notable balance boss van bracket warm bomb health";
+var mnemonic = "panther liquid assume wood peace expire funny legend sock elder flag cereal";

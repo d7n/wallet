@@ -1,1 +1,1 @@
-var mnemonic = "seat shallow track hundred firm lion cool fabric laundry author ask grab";
+var mnemonic = "dial warm joke trip any tone wood caught around anchor sniff nose";

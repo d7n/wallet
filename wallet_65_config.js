@@ -1,1 +1,1 @@
-var mnemonic = "baby chicken october jewel laptop neither fly nice tonight enemy giraffe athlete";
+var mnemonic = "fresh inhale zoo lizard destroy carbon cricket improve tool attract minute install";

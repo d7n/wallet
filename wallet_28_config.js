@@ -1,1 +1,1 @@
-var mnemonic = "legal height slight pond catch inside short lamp seminar spy labor cause";
+var mnemonic = "dilemma half puppy stage faculty imitate rail drastic poem buffalo draft miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "olive chef biology urban raise decade seat replace panel guess ivory piano";
+var mnemonic = "embody mansion visual march assault pitch giant empty middle grass swift shine";

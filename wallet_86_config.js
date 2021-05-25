@@ -1,1 +1,1 @@
-var mnemonic = "wash stage occur crunch man wine bunker thunder age cabbage east impulse";
+var mnemonic = "sadness grant curve proud select upset gallery spread this great trigger friend";

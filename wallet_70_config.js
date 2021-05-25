@@ -1,1 +1,1 @@
-var mnemonic = "unlock exile day cement supreme fog eager tiny live icon engine day";
+var mnemonic = "advice property wagon toy model rose toe solve pull jelly about relax";

@@ -1,1 +1,1 @@
-var mnemonic = "bring remember arena boring vote auto account shell omit poet scheme display";
+var mnemonic = "sand also foil easy worth race later very vital menu fine basic";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase guitar nation fossil boil blush purse property faculty frozen cage hundred";
+var mnemonic = "seminar between tennis gym month course occur oxygen rose asset casual law";

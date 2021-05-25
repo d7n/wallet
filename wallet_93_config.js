@@ -1,1 +1,1 @@
-var mnemonic = "into rent opinion fence fluid vague language crouch nerve wasp hub burst";
+var mnemonic = "west scale brass idle cabbage around injury couple orchard use gospel science";

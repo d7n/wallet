@@ -1,1 +1,1 @@
-var mnemonic = "crop drum quiz cinnamon real divide grape joy actor orphan call sugar";
+var mnemonic = "then mimic cabbage wheel deer miss egg nice sun couple steak shift";

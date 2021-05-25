@@ -1,1 +1,1 @@
-var mnemonic = "run update rally change mammal airport shrug that month empty burden dragon";
+var mnemonic = "boat pretty desert toward present apart wreck seat armor meadow immense dutch";

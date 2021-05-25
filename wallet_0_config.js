@@ -1,1 +1,1 @@
-var mnemonic = "oak horror gallery embrace sea water bread human talent leaf deposit can";
+var mnemonic = "mobile slender north broom balance tumble nominee nut print tattoo task flee";

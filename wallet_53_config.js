@@ -1,1 +1,1 @@
-var mnemonic = "essence game remain orient exist plastic pet pool common library robust zebra";
+var mnemonic = "worth kidney pencil truck art board recipe october electric pair wool disorder";

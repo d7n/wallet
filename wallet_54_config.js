@@ -1,1 +1,1 @@
-var mnemonic = "soda bring ridge sing magic camera audit advice enough novel review lens";
+var mnemonic = "all sad switch shrimp legal excite song brush network purchase ski any";

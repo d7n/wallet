@@ -1,1 +1,1 @@
-var mnemonic = "receive world can blind earth secret uphold arctic axis ladder vintage entry";
+var mnemonic = "shock denial happy whale text excite lobster mask raise lock license advance";

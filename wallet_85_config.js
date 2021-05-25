@@ -1,1 +1,1 @@
-var mnemonic = "minute jeans identify much coral mansion cheap amused middle diamond frequent balcony";
+var mnemonic = "blood key pattern evoke airport dilemma emerge hurt public ready topic raccoon";

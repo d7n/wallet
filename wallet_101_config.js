@@ -1,1 +1,1 @@
-var mnemonic = "pool dish ocean antenna arrest win remain method hair scrap leader shallow";
+var mnemonic = "upset ramp horror law magnet deny galaxy law report giant elegant inspire";

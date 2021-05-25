@@ -1,1 +1,1 @@
-var mnemonic = "neck anxiety bless reveal alien lawn flee tide nominee endorse bar coach";
+var mnemonic = "brisk example small theme snake fabric elbow mistake corn find consider search";

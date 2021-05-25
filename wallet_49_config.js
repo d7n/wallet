@@ -1,1 +1,1 @@
-var mnemonic = "sheriff donor inherit moment lamp senior potato muffin nuclear shiver bottom fog";
+var mnemonic = "bread universe unaware pluck knock galaxy increase rookie bomb manual click govern";

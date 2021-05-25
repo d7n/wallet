@@ -1,1 +1,1 @@
-var mnemonic = "donate energy shed world virtual hospital feed party please same pet buyer";
+var mnemonic = "rifle anchor chase kid repair pass wish script rookie tunnel appear strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "runway usual gloom lift firm figure tuition arrow arrange awful analyst mother";
+var mnemonic = "scheme report ride reduce carbon slot ten dumb ring swamp scare change";

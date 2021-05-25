@@ -1,1 +1,1 @@
-var mnemonic = "flock pole harbor find twelve shove airport author tired practice gap eight";
+var mnemonic = "antenna trash pistol drip cool public asthma trick disagree brush lounge kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "royal width invite unique near spider spell allow board park cereal total";
+var mnemonic = "giraffe option orphan forum inhale teach page vessel hockey device expand utility";

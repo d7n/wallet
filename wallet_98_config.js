@@ -1,1 +1,1 @@
-var mnemonic = "before cram dynamic crash circle escape kick lazy fold pipe diary deal";
+var mnemonic = "mention involve trust offer tiny tent injury device dragon sight insane soldier";

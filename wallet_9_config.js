@@ -1,1 +1,1 @@
-var mnemonic = "chuckle curious slight tilt range sniff jaguar urge observe wise worry three";
+var mnemonic = "critic ribbon purse garage lonely chief grid slush hood uncover steak stone";

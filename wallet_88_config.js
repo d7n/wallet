@@ -1,1 +1,1 @@
-var mnemonic = "result wreck stuff debris lava beyond expire yard giant critic ripple victory";
+var mnemonic = "tray cricket size furnace sustain coconut parent boat quantum neither above unlock";

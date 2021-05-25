@@ -1,1 +1,1 @@
-var mnemonic = "bicycle execute era giraffe index glare educate lonely sunset collect alcohol bread";
+var mnemonic = "produce finger mobile clown wedding soon vast matter inside park soccer decorate";

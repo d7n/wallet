@@ -1,1 +1,1 @@
-var mnemonic = "purchase deliver seek because shoe bitter hedgehog daring devote sun soft village";
+var mnemonic = "add enter receive fragile refuse sister easy machine output design coil income";

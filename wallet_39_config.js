@@ -1,1 +1,1 @@
-var mnemonic = "time cheap wrap damage engage velvet smooth six slot anchor joke canvas";
+var mnemonic = "brave print prevent sheriff wheel learn bread glass furnace pill spare proof";

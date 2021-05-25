@@ -1,1 +1,1 @@
-var mnemonic = "inflict album phone home veteran napkin planet trigger west clerk cloth ranch";
+var mnemonic = "basket inflict donate hurdle garbage vanish mansion uncle already priority tip census";

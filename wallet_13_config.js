@@ -1,1 +1,1 @@
-var mnemonic = "matrix high wreck ramp practice total useless oven agent then loop resemble";
+var mnemonic = "fun bottom tobacco mutual bulk over purpose judge educate false soul verb";

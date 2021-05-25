@@ -1,1 +1,1 @@
-var mnemonic = "kick season boat sugar kidney crowd pride utility limit uncover ozone action";
+var mnemonic = "rack logic ceiling local hazard tennis panther salute wish jar town recycle";

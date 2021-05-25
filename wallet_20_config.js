@@ -1,1 +1,1 @@
-var mnemonic = "wear dance east eagle fame boring also caught tilt nephew motion wealth";
+var mnemonic = "recycle bid balance fish grace dose author nose music front infant soccer";

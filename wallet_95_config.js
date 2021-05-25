@@ -1,1 +1,1 @@
-var mnemonic = "theme dentist vote shy horn defense guard topic dwarf half best basket";
+var mnemonic = "shrimp asset vehicle truck indicate scheme rate puppy robot elevator tone stumble";

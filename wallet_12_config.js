@@ -1,1 +1,1 @@
-var mnemonic = "artwork sadness citizen village crop possible mind tortoise unfold used unusual vendor";
+var mnemonic = "license blur wreck route bulk now consider rally half neck sight cargo";

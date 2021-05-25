@@ -1,1 +1,1 @@
-var mnemonic = "sentence involve spike myself allow walnut outside okay aim wage derive fit";
+var mnemonic = "embody pyramid pull invest else acoustic vehicle oppose level polar jungle answer";

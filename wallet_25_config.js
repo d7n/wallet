@@ -1,1 +1,1 @@
-var mnemonic = "mutual luxury bamboo address task chuckle hidden identify crowd build urge elephant";
+var mnemonic = "club elite start appear simple session reject film report verify system almost";

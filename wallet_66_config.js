@@ -1,1 +1,1 @@
-var mnemonic = "pilot rough giraffe shadow useless taxi raven next resource arch path one";
+var mnemonic = "rigid pet moon capital team fabric modify general income glove border attack";

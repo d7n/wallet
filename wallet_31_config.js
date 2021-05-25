@@ -1,1 +1,1 @@
-var mnemonic = "soft soda sugar metal egg letter shoe rail offer surface ask father";
+var mnemonic = "cherry tomato quantum lesson piano below cabin torch exchange sport entry grant";

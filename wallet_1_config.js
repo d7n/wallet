@@ -1,1 +1,1 @@
-var mnemonic = "estate salmon wall approve upper angle anxiety sun doll still hold quiz";
+var mnemonic = "face cage pulse cushion into spy hat real rely act poverty tell";

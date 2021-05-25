@@ -1,1 +1,1 @@
-var mnemonic = "photo flash short prevent like maze axis inmate verb upgrade exercise input";
+var mnemonic = "cat patch behind round lumber thunder table pudding angry invite party zone";

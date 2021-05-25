@@ -1,1 +1,1 @@
-var mnemonic = "safe loyal rely tattoo build list exit surface judge ankle faith dynamic";
+var mnemonic = "unlock domain involve betray toe guilt mix sketch easy isolate seed enable";

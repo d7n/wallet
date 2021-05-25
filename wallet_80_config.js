@@ -1,1 +1,1 @@
-var mnemonic = "extra demand bone member flower myself almost master quality enforce mention skull";
+var mnemonic = "honey prosper envelope feel differ metal crane brain brother record nut problem";

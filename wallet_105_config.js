@@ -1,1 +1,1 @@
-var mnemonic = "current brand bacon sorry diamond peasant script pelican tourist hip wrist correct";
+var mnemonic = "pill crouch fantasy false ice member sword seed leisure drill flat notable";

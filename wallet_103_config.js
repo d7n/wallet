@@ -1,1 +1,1 @@
-var mnemonic = "cactus youth once flock heart pool rate wrist fly grid extend cement";
+var mnemonic = "fun doctor cushion crumble liberty athlete art solution impact inform tourist fuel";

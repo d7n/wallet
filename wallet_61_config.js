@@ -1,1 +1,1 @@
-var mnemonic = "copy when hurry hire source crash know stool have beauty nation remove";
+var mnemonic = "knee smile east myth never twenty world garlic ozone lemon destroy enjoy";

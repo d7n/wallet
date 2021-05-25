@@ -1,1 +1,1 @@
-var mnemonic = "hundred better invest fade alone fault bread practice wire live subject merry";
+var mnemonic = "exhibit car energy sail shell champion flee response police kite moon glance";

@@ -1,1 +1,1 @@
-var mnemonic = "sock hollow cave pretty stomach ritual ahead style foam leopard theme salon";
+var mnemonic = "knife bulk amateur friend fuel slide prefer actress fruit globe wealth lizard";

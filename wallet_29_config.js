@@ -1,1 +1,1 @@
-var mnemonic = "outer lion infant wedding sphere achieve federal enhance unhappy start blouse stand";
+var mnemonic = "olive tortoise vocal knee range example accuse hat ice rather soon fiscal";

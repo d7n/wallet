@@ -1,1 +1,1 @@
-var mnemonic = "conduct smile update powder heavy aware allow museum robust hood select hobby";
+var mnemonic = "language exchange pink reason quick common broccoli brisk shield segment poem ritual";

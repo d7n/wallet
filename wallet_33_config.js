@@ -1,1 +1,1 @@
-var mnemonic = "milk raise quote unlock hazard crucial safe family typical under milk empty";
+var mnemonic = "alcohol task blanket winter wasp math demand injury layer catalog various love";

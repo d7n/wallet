@@ -1,1 +1,1 @@
-var mnemonic = "finger cliff canyon rail suit hospital banana range damp boil toilet essay";
+var mnemonic = "media film pledge injury gap unfair embody radio bitter antique settle fold";

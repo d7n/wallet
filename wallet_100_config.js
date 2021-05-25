@@ -1,1 +1,1 @@
-var mnemonic = "assume bargain eyebrow ozone course movie task chase page edit elder story";
+var mnemonic = "wrist someone leaf denial object warfare doll brain prosper romance erosion park";

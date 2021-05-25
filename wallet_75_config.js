@@ -1,1 +1,1 @@
-var mnemonic = "nation member finger adapt merit virus sunny blast civil acid tennis normal";
+var mnemonic = "mimic unable joke pear resist slim vessel palace table mail purpose shoe";

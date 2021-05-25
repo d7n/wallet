@@ -1,1 +1,1 @@
-var mnemonic = "dragon girl oven pumpkin sword bread plug mistake expand cart rubber mercy";
+var mnemonic = "crater text despair family staff meadow menu dirt awake absorb embark wrap";

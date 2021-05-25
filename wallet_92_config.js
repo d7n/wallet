@@ -1,1 +1,1 @@
-var mnemonic = "drip rule twenty void bulk swim middle pause faith misery bitter timber";
+var mnemonic = "dumb swim become route shrimp vault knee render room food clump antenna";

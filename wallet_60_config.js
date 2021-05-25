@@ -1,1 +1,1 @@
-var mnemonic = "rent guide soap seat monitor main cotton fluid ivory year ability song";
+var mnemonic = "strike page hover start ask breeze position clip garlic market chest list";

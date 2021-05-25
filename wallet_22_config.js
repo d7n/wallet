@@ -1,1 +1,1 @@
-var mnemonic = "promote toward shell story spare blossom oak alone now degree asthma caution";
+var mnemonic = "stereo whip huge nation ranch kiwi rely you drift tackle crisp steel";

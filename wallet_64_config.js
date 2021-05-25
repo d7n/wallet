@@ -1,1 +1,1 @@
-var mnemonic = "paper stamp accuse chalk athlete second virus raccoon shell alter news visa";
+var mnemonic = "lock pitch enroll mechanic expand inform before coast solid detect impact reveal";

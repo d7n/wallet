@@ -1,1 +1,1 @@
-var mnemonic = "snake cram document flag bargain hurdle giggle scatter sword tattoo seminar shove";
+var mnemonic = "van sister ship draft lounge surface smart series evidence escape acquire brush";

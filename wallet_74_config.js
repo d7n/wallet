@@ -1,1 +1,1 @@
-var mnemonic = "spread picture latin robust taxi guide piece wait swarm excess reason forum";
+var mnemonic = "minimum deal muffin tail neither swim gasp comfort potato spice meat occur";

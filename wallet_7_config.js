@@ -1,1 +1,1 @@
-var mnemonic = "kid illegal female change panel inhale forum off awkward swing cram grant";
+var mnemonic = "crush unknown mass steel diagram prefer appear barely chimney man fun fine";

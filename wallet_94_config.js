@@ -1,1 +1,1 @@
-var mnemonic = "soda lunar jewel myth view salt oil bacon worth exact february consider";
+var mnemonic = "salmon wheel shock cloth piano denial wealth tiger general extend assume caution";

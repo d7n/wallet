@@ -1,1 +1,1 @@
-var mnemonic = "above amateur reveal kid amused result finish ecology observe whip jewel iron";
+var mnemonic = "clever potato sentence genuine outer combine rebel perfect across brass behind split";

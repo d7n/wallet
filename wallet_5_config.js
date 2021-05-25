@@ -1,1 +1,1 @@
-var mnemonic = "observe hawk trim carbon lens false puzzle pelican chat enlist duty culture";
+var mnemonic = "ghost connect position maple bike layer absent payment visa gentle april general";

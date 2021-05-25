@@ -1,1 +1,1 @@
-var mnemonic = "short sadness gym hobby health friend walnut giraffe cloud smoke shaft poet";
+var mnemonic = "table jar thrive grant fruit distance derive burst blue usual glow display";

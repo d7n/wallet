@@ -1,1 +1,1 @@
-var mnemonic = "pony verify program orphan echo noble mechanic sad offer soul execute erosion";
+var mnemonic = "option motion gaze moon supply victory burst skill birth stool reject rain";

@@ -1,1 +1,1 @@
-var mnemonic = "logic stereo buzz expect test pass voyage toe spell clerk tomato blood";
+var mnemonic = "manual lyrics auto local price merge around fatal recycle slim spot negative";

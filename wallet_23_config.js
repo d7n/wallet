@@ -1,1 +1,1 @@
-var mnemonic = "time eyebrow above good deposit domain fox radio host split ball bike";
+var mnemonic = "behind matter camera mammal local acoustic near prepare mosquito deny post cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze want siren tell castle taxi clever egg sad crush thought hole";
+var mnemonic = "defense guide curve ivory cattle dust exercise acoustic forum nose coffee season";

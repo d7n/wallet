@@ -1,1 +1,1 @@
-var mnemonic = "type cable split mail robot wave film input attitude gas affair dash";
+var mnemonic = "human unusual banner marine develop suggest prepare noble trigger consider marble because";

@@ -1,1 +1,1 @@
-var mnemonic = "blue favorite stick rather bunker snap rebuild elegant kite torch dry hint";
+var mnemonic = "canyon prefer armed light elite hair attend private risk mention syrup advice";

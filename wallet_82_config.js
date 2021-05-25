@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cash sick spatial timber penalty bomb gesture trial element seminar tower";
+var mnemonic = "choice amateur satoshi circle flush column damp mimic coconut sister sand poet";

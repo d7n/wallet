@@ -1,1 +1,1 @@
-var mnemonic = "olive fence word nothing decade fun doll develop rookie enroll scrap rebuild";
+var mnemonic = "luggage actor estate what gain fish runway foot twenty energy wide fall";

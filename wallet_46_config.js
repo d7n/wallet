@@ -1,1 +1,1 @@
-var mnemonic = "share captain believe suit column hurt soldier coffee release card memory artwork";
+var mnemonic = "grid scare indicate lava chaos desk sort april drip airport ramp target";

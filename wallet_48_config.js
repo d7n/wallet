@@ -1,1 +1,1 @@
-var mnemonic = "essay dose hair country equal health merge type auction arrest act immune";
+var mnemonic = "effort damage coach dust jaguar submit middle truck dose sustain chunk power";

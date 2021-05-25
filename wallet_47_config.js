@@ -1,1 +1,1 @@
-var mnemonic = "winter panther energy reject apart universe nominee solution jazz win truth sentence";
+var mnemonic = "action meat hidden supreme job together enroll stage solution public family surge";

@@ -1,1 +1,1 @@
-var mnemonic = "surround square beef mind coast spell height silent tilt scan journey mother";
+var mnemonic = "pledge happy embark client birth true jewel dish fold spell unique uphold";

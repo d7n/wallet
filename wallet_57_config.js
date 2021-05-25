@@ -1,1 +1,1 @@
-var mnemonic = "exchange ozone medal style mirror uniform biology race pluck attract cricket about";
+var mnemonic = "remember social planet crawl need ahead pill asthma hire private home dinner";

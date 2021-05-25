@@ -1,1 +1,1 @@
-var mnemonic = "fortune horse story urban order arm lecture random aware hawk glory run";
+var mnemonic = "stadium embark space weasel script clay fence boss lift glove angle kitten";

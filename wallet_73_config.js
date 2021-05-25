@@ -1,1 +1,1 @@
-var mnemonic = "congress drink song million robot coconut surprise slot audit repair other make";
+var mnemonic = "super onion poem primary sea settle stick royal shrimp group resist laugh";
