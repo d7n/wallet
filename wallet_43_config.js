@@ -1,1 +1,1 @@
-var mnemonic = "bicycle album auction giant little vacant earth goddess spy hour bone unit";
+var mnemonic = "bridge swamp bean clever swing cycle old bunker tiger begin lottery oxygen";

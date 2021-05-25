@@ -1,1 +1,1 @@
-var mnemonic = "uphold enter remember easy weapon piece brick picture initial suffer social prevent";
+var mnemonic = "rug this soul best trash float utility measure orange concert net fringe";

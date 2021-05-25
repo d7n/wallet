@@ -1,1 +1,1 @@
-var mnemonic = "educate mosquito hawk food badge motor image wreck network whip wood assume";
+var mnemonic = "spoon unit normal forum faith echo divert bone crisp empty all survey";

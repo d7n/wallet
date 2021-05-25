@@ -1,1 +1,1 @@
-var mnemonic = "spread board rare cheese distance sign erosion appear actress picnic solar inhale";
+var mnemonic = "museum mix sight pony interest ankle calm tower junk pattern interest time";

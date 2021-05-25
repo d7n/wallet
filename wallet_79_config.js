@@ -1,1 +1,1 @@
-var mnemonic = "burger risk clog always cake milk outside left shock sadness diamond evil";
+var mnemonic = "marble fatigue expire subject crisp zero suit atom gloom kitten step absurd";

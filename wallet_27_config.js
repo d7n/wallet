@@ -1,1 +1,1 @@
-var mnemonic = "model ozone wreck isolate dolphin ahead pave inner picnic clump heavy pencil";
+var mnemonic = "egg winter decade opera young cup double brisk company loan crack sad";

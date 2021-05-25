@@ -1,1 +1,1 @@
-var mnemonic = "loop absent toilet abuse move sentence gorilla warm bicycle puppy mention subject";
+var mnemonic = "addict sound poem various leisure history render secret creek divorce library mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna term ability travel tone romance base scrub resource enrich exit tonight";
+var mnemonic = "any action sleep dream liquid current pudding fall pave calm weather design";

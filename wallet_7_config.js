@@ -1,1 +1,1 @@
-var mnemonic = "later sleep program next catch bus wish donor strong duck mask similar";
+var mnemonic = "gold lesson cargo decide almost mesh monkey decline scrap breeze put evolve";

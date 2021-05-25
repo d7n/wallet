@@ -1,1 +1,1 @@
-var mnemonic = "winner marriage mountain ivory panda master pond sword wealth kidney devote mention";
+var mnemonic = "flag wool snap joke flag salmon priority wedding celery empty game turn";

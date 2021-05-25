@@ -1,1 +1,1 @@
-var mnemonic = "resist example grant visual media boost cheese lazy crouch vessel fashion tape";
+var mnemonic = "iron talk mail entry start act trophy public wheel cute cool depart";

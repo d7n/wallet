@@ -1,1 +1,1 @@
-var mnemonic = "taxi ball certain leave machine plate twist side analyst clerk asset thunder";
+var mnemonic = "transfer stone damage oval elder seminar simple access hello crack reform extend";

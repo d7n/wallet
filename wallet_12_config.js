@@ -1,1 +1,1 @@
-var mnemonic = "reflect exit end awesome buffalo town arrow snack farm whale poet expose";
+var mnemonic = "expire picture address company panther boost jaguar vapor zebra correct boost assist";

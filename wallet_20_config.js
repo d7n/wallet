@@ -1,1 +1,1 @@
-var mnemonic = "hospital float primary one picture exile rice spin card ketchup enrich middle";
+var mnemonic = "there sure surge aisle endless local party excuse way region gallery second";

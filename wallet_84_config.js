@@ -1,1 +1,1 @@
-var mnemonic = "please forum body wealth piece unveil term limb noodle amazing gather soon";
+var mnemonic = "soft eager reopen deal wife pulp daughter remember unaware furnace detail satoshi";

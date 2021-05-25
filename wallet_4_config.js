@@ -1,1 +1,1 @@
-var mnemonic = "satoshi december cousin bunker film quick divorce task divert betray coach long";
+var mnemonic = "drop danger canyon wage stomach foot lab snow rather common fish acoustic";

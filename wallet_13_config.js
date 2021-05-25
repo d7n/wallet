@@ -1,1 +1,1 @@
-var mnemonic = "dwarf pistol october mass tongue weather creek bulk mobile legend effort void";
+var mnemonic = "want buzz enroll mystery usage give rib hole story cement dice account";

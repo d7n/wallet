@@ -1,1 +1,1 @@
-var mnemonic = "accuse rib direct wash live stomach right media theory start elbow later";
+var mnemonic = "blur vital tip dignity grunt float belt like steak tray purse account";

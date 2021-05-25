@@ -1,1 +1,1 @@
-var mnemonic = "silver topic expect zone vocal hire flee phone exercise danger youth divide";
+var mnemonic = "close worth predict above benefit decline pill staff swamp awkward anxiety load";

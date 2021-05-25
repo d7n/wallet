@@ -1,1 +1,1 @@
-var mnemonic = "shop faculty opera curve volcano believe cheese pet supply until accuse evoke";
+var mnemonic = "bread lonely rigid rent frame very busy aware street gentle since grace";

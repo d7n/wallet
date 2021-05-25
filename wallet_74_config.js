@@ -1,1 +1,1 @@
-var mnemonic = "marine husband human table rural amazing ready beauty stick canoe rocket same";
+var mnemonic = "mountain castle deny suffer flash sibling same suit pumpkin hard couch flavor";

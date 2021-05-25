@@ -1,1 +1,1 @@
-var mnemonic = "organ guide parrot promote below yard prefer volume tiger veteran inject unique";
+var mnemonic = "spot town witness film often cushion also happy use finish angry group";

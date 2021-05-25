@@ -1,1 +1,1 @@
-var mnemonic = "circle soul require rival rabbit range cradle awake magnet antenna rigid grace";
+var mnemonic = "force abandon already waste flight slam away road ramp water earth person";

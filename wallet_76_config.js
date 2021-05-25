@@ -1,1 +1,1 @@
-var mnemonic = "diesel sand frog wealth vacuum below employ belt build near toward large";
+var mnemonic = "nephew tube weekend glide girl dismiss child elevator crumble hollow essay dragon";

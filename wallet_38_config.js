@@ -1,1 +1,1 @@
-var mnemonic = "cave drama borrow eyebrow gravity spike slender horse album slim ostrich universe";
+var mnemonic = "various creek boss quick original upset glare trial junior party gravity start";

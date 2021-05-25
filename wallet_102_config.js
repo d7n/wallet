@@ -1,1 +1,1 @@
-var mnemonic = "blame offer title jealous goddess essence seek spare example useless abuse illegal";
+var mnemonic = "chalk analyst cactus casual rigid permit bargain solve diary sight similar split";

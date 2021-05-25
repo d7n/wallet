@@ -1,1 +1,1 @@
-var mnemonic = "pride surprise quality ritual lucky suggest wreck burden profit fever come nurse";
+var mnemonic = "salon hope chuckle ball inside enact gap gorilla spell scrap pave approve";

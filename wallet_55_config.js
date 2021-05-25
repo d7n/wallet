@@ -1,1 +1,1 @@
-var mnemonic = "dress federal mutual evolve cute crew ladder view bag monitor soda winter";
+var mnemonic = "review chat diary kiwi zero pluck box income dumb turn portion capital";

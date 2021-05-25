@@ -1,1 +1,1 @@
-var mnemonic = "dog panda cool truly enough maple clay carpet camp auction snap baby";
+var mnemonic = "surge denial hover axis multiply female model bus pitch force initial junior";

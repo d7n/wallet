@@ -1,1 +1,1 @@
-var mnemonic = "blast all dwarf wheel peace effort pyramid gauge assist satisfy daughter ridge";
+var mnemonic = "tip sun link ride walk steel lucky mistake remain enemy toddler snow";

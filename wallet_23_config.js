@@ -1,1 +1,1 @@
-var mnemonic = "silver drama clump consider holiday lazy few rain fury face merit wing";
+var mnemonic = "brief dignity pill keen piece discover waste device nature breeze zebra produce";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet mirror blur kite celery inch box blossom write focus audit caught";
+var mnemonic = "valley coil marine carpet prize radio hen script build more dust toddler";

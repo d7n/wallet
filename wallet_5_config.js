@@ -1,1 +1,1 @@
-var mnemonic = "scare maple grief typical tired dignity recipe improve destroy vintage object jacket";
+var mnemonic = "drop engage base link better honey salmon veteran hurdle hair outdoor flush";

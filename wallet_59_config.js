@@ -1,1 +1,1 @@
-var mnemonic = "virtual life ball giant pupil comic oven pottery oak solution rapid attitude";
+var mnemonic = "weird parade bicycle topple flock gadget portion above abstract success total wall";

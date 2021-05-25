@@ -1,1 +1,1 @@
-var mnemonic = "junk renew net sing deputy bulb post local essay question bless fitness";
+var mnemonic = "apple hawk winter pluck just squeeze style print energy decline age bamboo";

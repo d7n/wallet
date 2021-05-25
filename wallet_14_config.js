@@ -1,1 +1,1 @@
-var mnemonic = "client item office fatigue famous inch gaze settle wonder profit lyrics word";
+var mnemonic = "holiday human always dumb okay crawl public aerobic illness puppy acoustic flag";

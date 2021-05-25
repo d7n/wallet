@@ -1,1 +1,1 @@
-var mnemonic = "record sting luggage cruise train range dream pretty good rebel cabbage price";
+var mnemonic = "hill express write earn empower kangaroo above jewel cactus inflict owner lobster";

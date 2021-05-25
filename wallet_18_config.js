@@ -1,1 +1,1 @@
-var mnemonic = "media frost harvest horn phrase hood snap fox blanket monitor push tragic";
+var mnemonic = "strong lecture bubble nature brave item conduct spawn flower vicious quantum amount";

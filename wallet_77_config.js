@@ -1,1 +1,1 @@
-var mnemonic = "fix sea feature bring kick trophy robust bitter blouse legend elder health";
+var mnemonic = "crane forest accuse dumb flight small cash admit rebel long tissue neglect";

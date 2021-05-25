@@ -1,1 +1,1 @@
-var mnemonic = "expand sketch crowd start include mouse fade round crunch kingdom repair debate";
+var mnemonic = "load artwork move minor aerobic bind concert business beach keep harvest sight";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel decline tell card tomorrow guide police theme waste blast guitar cereal";
+var mnemonic = "insane delay genius aim focus link moon media crisp donor ridge solid";

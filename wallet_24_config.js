@@ -1,1 +1,1 @@
-var mnemonic = "industry point three cherry quantum drift enforce arctic hover drum key rifle";
+var mnemonic = "just oppose please view add harsh ethics witness common charge robust quick";

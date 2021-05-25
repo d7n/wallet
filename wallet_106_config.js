@@ -1,1 +1,1 @@
-var mnemonic = "bike gym spring vast awesome boring cart tray brisk frog void furnace";
+var mnemonic = "silent net consider airport scout where ivory detail purpose brown tourist worth";

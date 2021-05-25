@@ -1,1 +1,1 @@
-var mnemonic = "repair drop science south consider army umbrella net local profit fatal vacant";
+var mnemonic = "robot worry army zebra private sad leisure fly supreme crop leisure merry";

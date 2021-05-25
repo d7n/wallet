@@ -1,1 +1,1 @@
-var mnemonic = "cause capital ice license wood property mosquito moment thrive sibling comfort size";
+var mnemonic = "joke evolve ski camera try vote recall dignity pilot area exclude result";

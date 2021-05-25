@@ -1,1 +1,1 @@
-var mnemonic = "bone climb long stove jazz obtain civil force silly deny wave major";
+var mnemonic = "have observe evoke arena banana sport inch junk holiday silk solar scrap";

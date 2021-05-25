@@ -1,1 +1,1 @@
-var mnemonic = "enter grocery flavor track roof hill frame mention dwarf educate arrive denial";
+var mnemonic = "box moon melt post gadget critic butter evil science essence aspect square";

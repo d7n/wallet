@@ -1,1 +1,1 @@
-var mnemonic = "indicate glad sugar peace oppose picnic arrest broom wasp leave someone assume";
+var mnemonic = "witness vessel eyebrow misery sister learn swift device nuclear excite giant panel";

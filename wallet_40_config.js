@@ -1,1 +1,1 @@
-var mnemonic = "measure pass observe powder absurd blue cage three bicycle useful gas train";
+var mnemonic = "document spin kingdom helmet blade garden heavy position mind twin absorb loyal";

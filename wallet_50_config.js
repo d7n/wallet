@@ -1,1 +1,1 @@
-var mnemonic = "recycle replace toss exclude turtle angle draw tube end across inch dawn";
+var mnemonic = "nurse point moment kangaroo furnace vessel hen arrest include inquiry screen sister";

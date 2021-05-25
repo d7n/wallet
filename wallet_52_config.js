@@ -1,1 +1,1 @@
-var mnemonic = "bubble legend other jelly wheel among mouse whale stool vapor march weird";
+var mnemonic = "choice easy session capable try culture scrub year language peace salmon left";

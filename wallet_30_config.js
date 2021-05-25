@@ -1,1 +1,1 @@
-var mnemonic = "pepper wild page credit volcano solve disagree library wool claw mercy math";
+var mnemonic = "fame figure tornado cattle excuse camp ivory diesel open voyage speak parrot";

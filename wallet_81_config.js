@@ -1,1 +1,1 @@
-var mnemonic = "illegal bread cushion twice slice toss scout inmate play dash air agent";
+var mnemonic = "quick awkward faint purity border forward conduct radio correct exhibit hip spoil";

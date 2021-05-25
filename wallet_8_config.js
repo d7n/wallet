@@ -1,1 +1,1 @@
-var mnemonic = "hospital artist sausage mass vote dolphin attend certain garden dry animal hidden";
+var mnemonic = "warrior jazz transfer permit derive agree never write plate airport manual laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan away tooth remove balance program risk pencil bronze camp valve exotic";
+var mnemonic = "menu escape bitter soft color credit outdoor tell cloud purchase meadow solution";

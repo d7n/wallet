@@ -1,1 +1,1 @@
-var mnemonic = "issue token mobile pumpkin upon face select extra pattern vanish enter fork";
+var mnemonic = "silly snake fox maximum sustain bacon wool outer sport stomach key seven";

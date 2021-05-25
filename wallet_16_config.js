@@ -1,1 +1,1 @@
-var mnemonic = "lock balcony glue plug replace flip display high hobby arrow visa right";
+var mnemonic = "evil hurt barely wreck chicken better address stuff exhibit traffic tumble fluid";

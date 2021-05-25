@@ -1,1 +1,1 @@
-var mnemonic = "expect easy height verify foam fee rally seek prize lonely collect blush";
+var mnemonic = "skate boil used atom bus bike morning puzzle false become patient food";

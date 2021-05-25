@@ -1,1 +1,1 @@
-var mnemonic = "inflict portion sing mass first category stage cage feed subway text violin";
+var mnemonic = "vendor mosquito ketchup effort celery system armor bundle march razor zoo final";

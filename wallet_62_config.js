@@ -1,1 +1,1 @@
-var mnemonic = "man word move tooth pitch voice journey soldier thought recycle process solve";
+var mnemonic = "clerk seminar control stereo height remove trade room either distance defense affair";

@@ -1,1 +1,1 @@
-var mnemonic = "public maze blind brisk chaos amateur gold void brave output chat flame";
+var mnemonic = "describe present cabbage awkward please burger lion margin hollow future omit huge";

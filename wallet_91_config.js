@@ -1,1 +1,1 @@
-var mnemonic = "still bounce loud face pluck laugh daughter buyer absorb ship obscure glad";
+var mnemonic = "goose absorb few idle wait tragic illegal gym bachelor tool quit crane";

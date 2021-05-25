@@ -1,1 +1,1 @@
-var mnemonic = "water cat romance sight spice style embark grab retire drift spoil first";
+var mnemonic = "lawsuit corn donate bachelor age attend swear couple old edge field drive";

@@ -1,1 +1,1 @@
-var mnemonic = "seed stable spin glare category neglect drip slam embark motion hood fitness";
+var mnemonic = "seat rural grief water waste rigid picture truth color quality cushion start";

@@ -1,1 +1,1 @@
-var mnemonic = "route initial wink labor credit pact shock student cabin flower sudden music";
+var mnemonic = "proud stadium left lonely motor margin episode outside drive coin frequent title";

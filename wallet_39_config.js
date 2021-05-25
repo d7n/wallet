@@ -1,1 +1,1 @@
-var mnemonic = "impulse decline soup shiver drop pumpkin tissue seed mosquito quarter fence pulse";
+var mnemonic = "glimpse oak knock protect conduct steel wisdom just chimney crunch zone fence";

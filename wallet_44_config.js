@@ -1,1 +1,1 @@
-var mnemonic = "prepare crash climb tilt wrap turkey thunder smooth manage genre sort insane";
+var mnemonic = "banana fit hair swim happy pulse slice reform author huge shuffle recipe";

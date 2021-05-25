@@ -1,1 +1,1 @@
-var mnemonic = "tape lab flock limb neutral cloth gravity convince friend client teach myth";
+var mnemonic = "unit thumb animal timber cave between pool devote middle embody jaguar reopen";

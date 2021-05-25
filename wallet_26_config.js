@@ -1,1 +1,1 @@
-var mnemonic = "pig alert whale festival result lizard waste grass will sell pretty express";
+var mnemonic = "stadium mention law tooth culture poet emotion defense work border season mind";

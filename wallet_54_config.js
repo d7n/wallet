@@ -1,1 +1,1 @@
-var mnemonic = "pattern bunker food bone model slim reject visa blade various pony caught";
+var mnemonic = "tornado embrace glory addict interest trouble can tomorrow quality powder amused frog";

@@ -1,1 +1,1 @@
-var mnemonic = "leg cherry sing scorpion chronic estate diary avoid kind buddy fashion nose";
+var mnemonic = "luxury decline agent album loop parrot topple host shed secret rocket embody";

@@ -1,1 +1,1 @@
-var mnemonic = "idea public auto concert stairs machine ill sheriff error permit warm shiver";
+var mnemonic = "rally struggle answer cactus garage humor curtain jealous visit truly census convince";

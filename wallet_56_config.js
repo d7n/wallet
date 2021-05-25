@@ -1,1 +1,1 @@
-var mnemonic = "remain flee outdoor game shove athlete later aspect swift announce start erode";
+var mnemonic = "exist thing direct pepper brass glass across jealous forum near lamp enter";

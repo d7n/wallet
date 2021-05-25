@@ -1,1 +1,1 @@
-var mnemonic = "lucky dynamic message logic grocery fuel erupt furnace level reunion pact leisure";
+var mnemonic = "saddle special debate empower measure rigid lemon exist later artefact pencil arm";

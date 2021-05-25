@@ -1,1 +1,1 @@
-var mnemonic = "amazing oak tool focus insane return bind session field tongue blast ball";
+var mnemonic = "possible ozone mandate phrase legend sign surge amateur debate episode sadness device";

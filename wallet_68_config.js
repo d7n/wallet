@@ -1,1 +1,1 @@
-var mnemonic = "virus avocado mosquito decade today page afraid depend music between width surface";
+var mnemonic = "pottery glare apple hen duck mention ecology must drift table spatial weather";

@@ -1,1 +1,1 @@
-var mnemonic = "clown eye hire eager desk improve consider tonight tiger aisle zero human";
+var mnemonic = "soul fantasy battle fluid couple problem victory position few little place bag";

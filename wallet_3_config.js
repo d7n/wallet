@@ -1,1 +1,1 @@
-var mnemonic = "much ball dirt curtain vicious then know dust reveal concert pistol ghost";
+var mnemonic = "vote sniff brass stay middle inject alter zone attract young decide actual";

@@ -1,1 +1,1 @@
-var mnemonic = "during army angry ship daughter fruit cigar random glue legal cancel anxiety";
+var mnemonic = "gaze soldier galaxy letter consider breeze industry guitar broom old bread whip";

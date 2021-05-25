@@ -1,1 +1,1 @@
-var mnemonic = "wash venture fix chat jelly year tower trim sample soldier job home";
+var mnemonic = "often loud gold trust sail race syrup slam inherit hedgehog arena ceiling";

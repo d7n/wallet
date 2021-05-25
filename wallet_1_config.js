@@ -1,1 +1,1 @@
-var mnemonic = "brother master tiny engine road soccer rapid voice sick cup sound city";
+var mnemonic = "alert talent behave obvious clever edge inflict remove joy smart collect vehicle";

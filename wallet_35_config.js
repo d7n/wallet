@@ -1,1 +1,1 @@
-var mnemonic = "shove metal certain fantasy foot gesture enlist differ interest bronze slide dress";
+var mnemonic = "tomorrow region involve swim deer deny noodle blast table since opinion detail";

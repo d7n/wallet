@@ -1,1 +1,1 @@
-var mnemonic = "cross truly trumpet nation merry accident math ignore orchard gloom poverty south";
+var mnemonic = "dutch patient movie double nation light drift follow skate rail burst crazy";

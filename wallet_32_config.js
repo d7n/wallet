@@ -1,1 +1,1 @@
-var mnemonic = "mandate alert razor person sport faculty banner motion chair danger soon plate";
+var mnemonic = "beach patient just swear cricket huge motor current receive elephant strong blanket";
