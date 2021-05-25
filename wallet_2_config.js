@@ -1,1 +1,1 @@
-var mnemonic = "maple pond same range intact patrol cannon duck galaxy patrol cat mosquito";
+var mnemonic = "offer divert borrow wink inch glide piece brief nurse draft huge decorate";

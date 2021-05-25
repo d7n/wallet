@@ -1,1 +1,1 @@
-var mnemonic = "shaft junior embark insane culture coyote rug mercy virtual vault approve sense";
+var mnemonic = "curve grace capable topple pear comic winter lawsuit cheap hero legal monitor";

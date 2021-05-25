@@ -1,1 +1,1 @@
-var mnemonic = "remain picture cheese task they target jar trend moral behind gesture shiver";
+var mnemonic = "autumn banner claw keep vicious such retire voice joy sound wine bronze";

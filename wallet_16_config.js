@@ -1,1 +1,1 @@
-var mnemonic = "bomb neither dwarf huge evolve pen already rigid quarter spread nominee wife";
+var mnemonic = "girl face donor nest pledge bargain faith wine damp increase warrior team";

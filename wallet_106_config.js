@@ -1,1 +1,1 @@
-var mnemonic = "stove butter series prevent pink ignore choose inject country tone hood subway";
+var mnemonic = "hamster dog clean shed burst twenty session long hurry stumble battle picnic";

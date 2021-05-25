@@ -1,1 +1,1 @@
-var mnemonic = "woman foam denial waste exchange emotion tube theme approve differ mom usage";
+var mnemonic = "wink federal palm select photo frequent armor leaf uncle soap basket rural";

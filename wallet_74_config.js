@@ -1,1 +1,1 @@
-var mnemonic = "spell lion kitten antenna citizen middle youth powder false voice mail pony";
+var mnemonic = "casino train smoke matrix spring fruit alone vehicle scan uncover label script";

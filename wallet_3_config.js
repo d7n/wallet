@@ -1,1 +1,1 @@
-var mnemonic = "blade test illness code unhappy grow exchange theory select guide gravity search";
+var mnemonic = "main next bargain palace pond aware bread amused harvest chunk undo noise";

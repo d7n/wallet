@@ -1,1 +1,1 @@
-var mnemonic = "manage example entry reform alone isolate good boil egg strategy devote toe";
+var mnemonic = "galaxy negative decline vibrant response cream main target frozen stereo desk lunch";

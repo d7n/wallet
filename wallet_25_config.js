@@ -1,1 +1,1 @@
-var mnemonic = "rose bonus chimney romance light trade talent dentist lamp web inform shoe";
+var mnemonic = "output welcome nation dance check quality coin body advance destroy cattle dial";

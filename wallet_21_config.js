@@ -1,1 +1,1 @@
-var mnemonic = "yellow alter sleep indicate bring alert arctic brown alone federal that valley";
+var mnemonic = "test misery escape spin stool flight divide visa wild loop anchor crucial";

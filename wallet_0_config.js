@@ -1,1 +1,1 @@
-var mnemonic = "youth waste summer under pioneer never essence pond cabin guard crystal glow";
+var mnemonic = "approve gesture this chest salmon jewel prize remind tunnel glide fuel glove";

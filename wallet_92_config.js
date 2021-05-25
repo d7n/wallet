@@ -1,1 +1,1 @@
-var mnemonic = "absorb dress champion dutch novel hundred snow ginger situate coyote twin thumb";
+var mnemonic = "rotate crane shaft disease tree champion child kind mystery pool dolphin run";

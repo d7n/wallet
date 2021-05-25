@@ -1,1 +1,1 @@
-var mnemonic = "live picnic violin core evidence outdoor include child tooth warrior advice diamond";
+var mnemonic = "emotion endorse woman viable patient badge sport afford cry fatigue soccer desert";

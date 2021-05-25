@@ -1,1 +1,1 @@
-var mnemonic = "deposit surge exhaust cool public draw fly barely feed door fold cherry";
+var mnemonic = "test memory crash bid initial hobby tray spin floor burger hello uniform";

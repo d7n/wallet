@@ -1,1 +1,1 @@
-var mnemonic = "denial twice harbor hollow dial view cereal switch panic master garage anchor";
+var mnemonic = "topic seek breeze enter begin peanut weasel favorite twenty bid laundry pause";

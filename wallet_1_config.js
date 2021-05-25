@@ -1,1 +1,1 @@
-var mnemonic = "scene umbrella merry wrong guilt cloud spike road ordinary super cigar snap";
+var mnemonic = "degree canal cram artist leader couple tired hungry old situate pencil dynamic";

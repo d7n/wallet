@@ -1,1 +1,1 @@
-var mnemonic = "sphere grain fence ship food hollow seek asthma garment shuffle snack impulse";
+var mnemonic = "record green cheese capable kidney parrot hamster border appear sudden assault axis";

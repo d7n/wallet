@@ -1,1 +1,1 @@
-var mnemonic = "section pelican echo purse crash way elevator shrimp modify hurdle dinosaur kiwi";
+var mnemonic = "relief armor club any cheese oak pipe good pioneer powder goose display";

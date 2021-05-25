@@ -1,1 +1,1 @@
-var mnemonic = "arrive nominee strategy advice razor divide trick arrest pioneer dolphin punch base";
+var mnemonic = "unfair absurd victory father surge lamp plate bamboo tonight damp dawn sell";

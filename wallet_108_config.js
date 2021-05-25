@@ -1,1 +1,1 @@
-var mnemonic = "armed manual describe mansion code rail ship crumble day weather wrist stick";
+var mnemonic = "pattern cry couple burst require shiver prepare hold gap switch fit divorce";

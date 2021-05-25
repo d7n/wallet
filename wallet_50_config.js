@@ -1,1 +1,1 @@
-var mnemonic = "kind answer over quiz valid mystery ball hen hip stock leader boss";
+var mnemonic = "lunch child moment december shaft cake ripple angle utility river large sun";

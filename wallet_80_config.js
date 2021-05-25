@@ -1,1 +1,1 @@
-var mnemonic = "original forum talent misery kind right birth fossil attract letter swing crucial";
+var mnemonic = "clarify pitch behind favorite stadium prosper shaft already museum enroll cloud matter";

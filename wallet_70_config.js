@@ -1,1 +1,1 @@
-var mnemonic = "annual scheme virtual snap logic check filter enemy hint ticket bomb depend";
+var mnemonic = "dizzy stage together drink skill ritual broken ridge toward across humble arena";

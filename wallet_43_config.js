@@ -1,1 +1,1 @@
-var mnemonic = "judge kiss coin stone film abuse hamster become fantasy unfold actual stand";
+var mnemonic = "buffalo before wealth position sunny during cloth rebel focus fire also exotic";

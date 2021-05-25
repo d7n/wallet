@@ -1,1 +1,1 @@
-var mnemonic = "exchange round miracle match stairs brush energy embark brisk future obtain inflict";
+var mnemonic = "share favorite transfer hover rotate salad practice blossom street brush absent winner";

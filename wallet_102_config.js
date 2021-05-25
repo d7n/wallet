@@ -1,1 +1,1 @@
-var mnemonic = "motor innocent school climb gym rose usage enhance guilt eye close empty";
+var mnemonic = "turkey advice nephew supreme zero version craft public foster poem ring ice";

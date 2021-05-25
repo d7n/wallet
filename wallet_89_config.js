@@ -1,1 +1,1 @@
-var mnemonic = "extra resist escape card brown correct kid foil gallery banner merit aware";
+var mnemonic = "unfair vivid slot outer fitness sure sister myth rely purchase scout sun";

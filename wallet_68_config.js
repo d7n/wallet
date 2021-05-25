@@ -1,1 +1,1 @@
-var mnemonic = "evolve submit verb ankle marine remind coffee hamster unfair female reveal mother";
+var mnemonic = "subway wage world cage false blast ghost cram power team decline chapter";

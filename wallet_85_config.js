@@ -1,1 +1,1 @@
-var mnemonic = "off beauty climb cage tray drip solve stand pull chunk clerk fitness";
+var mnemonic = "obscure point transfer defy foster useful gadget stomach slam hole border horse";

@@ -1,1 +1,1 @@
-var mnemonic = "neither predict canvas crime ripple puzzle wrestle violin relax fringe inside sister";
+var mnemonic = "annual corn sheriff cradle involve motor prison below fluid main resource lunar";

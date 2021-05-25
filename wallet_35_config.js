@@ -1,1 +1,1 @@
-var mnemonic = "eight episode artwork lawn draw direct cat fortune before shove able neglect";
+var mnemonic = "digital opera issue page turkey exact galaxy caution quote slush ostrich mix";

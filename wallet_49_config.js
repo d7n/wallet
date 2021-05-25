@@ -1,1 +1,1 @@
-var mnemonic = "lamp truth stick erupt patient accuse lend holiday fox wrestle panel amused";
+var mnemonic = "trade fiscal start scan vintage riot weekend town sheriff quit payment salute";

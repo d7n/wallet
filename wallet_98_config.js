@@ -1,1 +1,1 @@
-var mnemonic = "cereal base deny aerobic atom wool alley salon begin loyal twist original";
+var mnemonic = "unknown page truly trash face tragic this evidence engage absent topic page";

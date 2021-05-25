@@ -1,1 +1,1 @@
-var mnemonic = "catalog about pony obscure else space address quantum snap tell slim delay";
+var mnemonic = "girl monitor wish relief spawn retire fragile resist paddle cloud later claw";

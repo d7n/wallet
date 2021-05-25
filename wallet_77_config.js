@@ -1,1 +1,1 @@
-var mnemonic = "below obscure gossip donkey wrong news section fit ecology noodle tuition swarm";
+var mnemonic = "guide process imitate abuse ancient bicycle enjoy lobster screen elite shock discover";

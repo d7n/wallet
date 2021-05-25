@@ -1,1 +1,1 @@
-var mnemonic = "chuckle reward pudding height dog minimum pony crowd riot explain reflect visual";
+var mnemonic = "powder swim shaft cave please have cat three foster address device mixture";

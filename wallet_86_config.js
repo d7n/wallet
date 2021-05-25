@@ -1,1 +1,1 @@
-var mnemonic = "square derive alarm soccer good fame conduct alarm wing trend useless music";
+var mnemonic = "luggage original alter rack guilt response stable stamp lecture frown squeeze utility";

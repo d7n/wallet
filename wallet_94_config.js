@@ -1,1 +1,1 @@
-var mnemonic = "two total rich clay owner perfect dust fossil add fragile once cycle";
+var mnemonic = "pact favorite aisle ketchup object matrix crouch figure kitchen version spice grit";

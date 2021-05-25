@@ -1,1 +1,1 @@
-var mnemonic = "april judge burst damage cover inform also tube expand kitten carbon response";
+var mnemonic = "tooth club sport floor best park napkin same romance camp carbon broken";

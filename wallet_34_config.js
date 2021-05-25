@@ -1,1 +1,1 @@
-var mnemonic = "antenna shiver quote close tell help skate coin hat pony drum chase";
+var mnemonic = "present blast cook north panther kid drum biology faith sister retreat tail";

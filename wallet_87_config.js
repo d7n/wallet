@@ -1,1 +1,1 @@
-var mnemonic = "cannon illness aisle flip broom air loud return gate dolphin sausage attack";
+var mnemonic = "camp boring drill game gravity joy tornado basket donkey milk glory various";

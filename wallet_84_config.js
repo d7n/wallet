@@ -1,1 +1,1 @@
-var mnemonic = "pride honey essence much scrub yellow scrap rule pulp misery empty gain";
+var mnemonic = "century oxygen globe village swear exist plastic lunch year actor shallow burger";

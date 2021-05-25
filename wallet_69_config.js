@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit omit join bulk animal rural song glance release stadium fox crazy";
+var mnemonic = "van choice good chunk usage fruit major version push bunker shy reason";

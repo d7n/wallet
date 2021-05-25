@@ -1,1 +1,1 @@
-var mnemonic = "apart bone leg fetch kind relax salmon great rail pool apology enable";
+var mnemonic = "series gym cry tilt gospel scorpion crop stick foam region other tone";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator box order advance salt ride refuse furnace custom space course curtain";
+var mnemonic = "faint dice vital clap talent budget bitter evoke vague cram broken rule";

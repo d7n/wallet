@@ -1,1 +1,1 @@
-var mnemonic = "dance tonight concert popular force edge want exclude brass fish team sniff";
+var mnemonic = "coral sing barely mule toilet link photo reveal deliver code girl reward";

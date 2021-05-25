@@ -1,1 +1,1 @@
-var mnemonic = "deputy cushion soul river idea idle owner risk cluster naive later pitch";
+var mnemonic = "squirrel party lava good speak view modify damage inspire blur glow eternal";

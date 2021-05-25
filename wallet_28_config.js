@@ -1,1 +1,1 @@
-var mnemonic = "clog shove stuff settle piano gun general bean wife hole twelve aisle";
+var mnemonic = "erosion version trim fiber name chuckle salmon victory holiday sponsor air luggage";

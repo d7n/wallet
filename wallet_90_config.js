@@ -1,1 +1,1 @@
-var mnemonic = "camera young trim bunker inner evil keep album about royal legend pattern";
+var mnemonic = "bid fury cotton task stem view wasp adult climb april ball hawk";

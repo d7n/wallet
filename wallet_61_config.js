@@ -1,1 +1,1 @@
-var mnemonic = "village defense fox return lottery blossom help memory about copper champion ski";
+var mnemonic = "hungry zero shoot account reason little mansion pumpkin surprise surface champion crime";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp acid liberty hybrid assume dance deliver combine security slide walk shoot";
+var mnemonic = "stove table town umbrella dutch width rose afraid mistake access lab arena";

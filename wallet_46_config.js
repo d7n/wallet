@@ -1,1 +1,1 @@
-var mnemonic = "crash ribbon region joke category east brisk pizza cycle gold soul pig";
+var mnemonic = "twin level unit crunch year elegant lamp actual deliver visual burst save";

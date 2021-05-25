@@ -1,1 +1,1 @@
-var mnemonic = "era maple boil popular admit trip blame clog dentist nice orchard shield";
+var mnemonic = "nominee spoil shoe resemble settle soldier link decrease valid rural sense cage";

@@ -1,1 +1,1 @@
-var mnemonic = "bless open run phone merit village oxygen oxygen fever oblige scatter spy";
+var mnemonic = "day gesture sudden over identify path below boy clarify shoulder panel bid";

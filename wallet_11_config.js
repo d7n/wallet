@@ -1,1 +1,1 @@
-var mnemonic = "rural situate angle wrong top adapt meat any author pause alter street";
+var mnemonic = "spatial short dry barrel visual forget evidence soda churn patch vibrant unknown";

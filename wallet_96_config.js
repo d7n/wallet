@@ -1,1 +1,1 @@
-var mnemonic = "cage glow define marriage home surge curious replace vehicle elite slight robot";
+var mnemonic = "bag april claw shock relief citizen hill fantasy club isolate assist chimney";

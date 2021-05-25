@@ -1,1 +1,1 @@
-var mnemonic = "benefit stomach nurse hood kitten amount wide figure violin ghost shine outer";
+var mnemonic = "glad kiwi kind idle zero edit matrix twist urban market vacuum slot";

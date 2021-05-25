@@ -1,1 +1,1 @@
-var mnemonic = "train horror dinosaur better book size girl fade hold scare vacuum assume";
+var mnemonic = "elevator twelve rain hold dignity forget right hold chat lobster album thank";

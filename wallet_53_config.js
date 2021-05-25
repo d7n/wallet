@@ -1,1 +1,1 @@
-var mnemonic = "turn proud announce tissue cream select insect believe sell live over artwork";
+var mnemonic = "dad about design jaguar open burger diesel vital where boost table used";

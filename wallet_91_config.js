@@ -1,1 +1,1 @@
-var mnemonic = "indoor patient blood erode element century error bench give burden prevent planet";
+var mnemonic = "pride stadium collect vital future dove base hurry avoid gospel dice action";

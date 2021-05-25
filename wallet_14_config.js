@@ -1,1 +1,1 @@
-var mnemonic = "horse antique bench sibling volcano sustain guard gossip web sadness salt girl";
+var mnemonic = "enable clinic timber truth inner worry stairs retire cruise game notable hover";

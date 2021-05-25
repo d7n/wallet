@@ -1,1 +1,1 @@
-var mnemonic = "summer flock baby happy current legal large nothing asthma allow right trial";
+var mnemonic = "wine brand two milk empower frost talk lion garage better fatal notable";

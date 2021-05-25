@@ -1,1 +1,1 @@
-var mnemonic = "artefact sword fluid usage safe check notice fluid leg jacket dog dumb";
+var mnemonic = "magic coyote victory immense cry tuition genre dirt theory verb payment brother";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery ripple party tattoo know castle fade expand royal strong oval comic";
+var mnemonic = "same net cargo blouse manage attract alcohol anxiety mule above expand maple";

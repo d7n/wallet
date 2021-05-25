@@ -1,1 +1,1 @@
-var mnemonic = "miss surprise flag thank visual question square kid column blossom mind lunch";
+var mnemonic = "smile bleak orchard trim plastic caught soft guilt program symptom unknown gravity";

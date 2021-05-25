@@ -1,1 +1,1 @@
-var mnemonic = "palace fabric gentle math ecology evolve control bacon bottom spare artist unfair";
+var mnemonic = "avocado abstract endorse private female frequent latin hamster knee farm swamp puzzle";

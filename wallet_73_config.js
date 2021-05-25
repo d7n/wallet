@@ -1,1 +1,1 @@
-var mnemonic = "arrange garment afraid grit drastic fragile devote swift spray found oven symbol";
+var mnemonic = "error puppy excuse neck renew black van glare flip evolve notice august";

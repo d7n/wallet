@@ -1,1 +1,1 @@
-var mnemonic = "barrel entry copper carry rule thumb erase punch unknown vacuum motor urban";
+var mnemonic = "various basic unable injury lonely bicycle under embrace evidence invest pass snap";

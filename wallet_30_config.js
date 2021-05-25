@@ -1,1 +1,1 @@
-var mnemonic = "primary royal bike spirit capable spawn spare narrow illness title infant shock";
+var mnemonic = "tissue body camp open cheese gather glove mass hood accuse exhibit legend";

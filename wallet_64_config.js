@@ -1,1 +1,1 @@
-var mnemonic = "chaos enact proof bridge eager taxi music review split round october point";
+var mnemonic = "place space swallow mushroom ritual sail book magic worth wedding omit ketchup";

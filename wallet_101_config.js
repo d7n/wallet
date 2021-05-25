@@ -1,1 +1,1 @@
-var mnemonic = "food sand valley lounge check intact decade tired immune toddler volcano peanut";
+var mnemonic = "jacket glory recycle rain sweet knife spread ring bunker shop unlock old";

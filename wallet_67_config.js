@@ -1,1 +1,1 @@
-var mnemonic = "turkey employ charge pretty lawsuit gloom unveil drama text afraid fantasy nation";
+var mnemonic = "flight this spice alcohol tunnel race lady enhance network armed twist tattoo";

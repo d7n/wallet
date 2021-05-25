@@ -1,1 +1,1 @@
-var mnemonic = "begin ice review witness sell weasel cousin fluid evoke matter debate vendor";
+var mnemonic = "prison banner naive become feed tiger enact drop barrel walnut scene purpose";

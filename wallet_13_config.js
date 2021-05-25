@@ -1,1 +1,1 @@
-var mnemonic = "vacant shed demand diagram save inch gospel destroy wide penalty morning abuse";
+var mnemonic = "hood sample bulk gallery kiwi horse vendor fresh razor angry ketchup mass";

@@ -1,1 +1,1 @@
-var mnemonic = "total range floor curtain boring actress wait ramp hobby trial divert lumber";
+var mnemonic = "region thank run balance crouch rent run travel side glory code fork";

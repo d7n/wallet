@@ -1,1 +1,1 @@
-var mnemonic = "trumpet teach stone scissors idle thought one feature trumpet estate carbon panda";
+var mnemonic = "record thunder smart neutral voyage various neglect barrel effort flush beauty coin";

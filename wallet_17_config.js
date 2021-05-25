@@ -1,1 +1,1 @@
-var mnemonic = "exercise couch barrel blade neutral picnic drama pistol rookie burden permit payment";
+var mnemonic = "oxygen gentle emerge merry increase exact ship accident grid retreat nuclear gift";

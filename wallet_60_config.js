@@ -1,1 +1,1 @@
-var mnemonic = "language quality lawsuit unusual pudding coil quality earth raven trophy stock broom";
+var mnemonic = "come collect shallow fancy spoon plate elbow acquire asthma little among belt";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet give ocean hole frequent barrel cream carry much scan congress ask";
+var mnemonic = "cause more enter drum swamp burger this sword regular shove goddess elegant";

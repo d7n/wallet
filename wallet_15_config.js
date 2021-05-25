@@ -1,1 +1,1 @@
-var mnemonic = "cabbage left buddy absurd help valve wood ramp spare install tool hold";
+var mnemonic = "panel water equal indoor banana hamster cereal weapon behave syrup seminar involve";

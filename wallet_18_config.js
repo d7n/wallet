@@ -1,1 +1,1 @@
-var mnemonic = "exchange prevent prize pioneer fiber guitar focus garbage taxi timber script hill";
+var mnemonic = "enact cross decrease clever false diary pole adult small spoon goddess street";

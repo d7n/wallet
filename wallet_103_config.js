@@ -1,1 +1,1 @@
-var mnemonic = "fat summer good acquire minute orient hamster multiply sheriff myth cradle that";
+var mnemonic = "school student great hazard unaware erosion galaxy cement ceiling bind spin athlete";

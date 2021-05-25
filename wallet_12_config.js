@@ -1,1 +1,1 @@
-var mnemonic = "acid reason chimney sister list narrow scrub close census indicate know barely";
+var mnemonic = "danger title enlist between sense neither correct fantasy legend cloth spice autumn";

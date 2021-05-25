@@ -1,1 +1,1 @@
-var mnemonic = "mimic deny tomorrow broom weather bonus mass vacuum rib laugh curtain twice";
+var mnemonic = "feature bomb comic law rely palace liberty supply approve save grace strong";

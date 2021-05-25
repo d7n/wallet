@@ -1,1 +1,1 @@
-var mnemonic = "home desk crumble crisp mean wreck economy large hip such rice turn";
+var mnemonic = "film seminar pull traffic miss tiny dash manual teach nasty grant volume";

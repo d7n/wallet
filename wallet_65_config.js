@@ -1,1 +1,1 @@
-var mnemonic = "genre spirit romance echo mention drive dish margin have desert that trend";
+var mnemonic = "huge idle sketch diagram essence flat neutral wrong panther intact damp hollow";

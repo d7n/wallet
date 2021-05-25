@@ -1,1 +1,1 @@
-var mnemonic = "bean hobby worry rib auction medal acid random perfect domain example raise";
+var mnemonic = "credit gasp great nominee fashion once special artwork afraid skirt cover wild";

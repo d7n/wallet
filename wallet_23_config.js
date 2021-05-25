@@ -1,1 +1,1 @@
-var mnemonic = "loop champion carbon put recall carbon drill toy fork sunny casino circle";
+var mnemonic = "web grief interest another play step mushroom pluck wink thumb brave once";

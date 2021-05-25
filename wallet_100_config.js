@@ -1,1 +1,1 @@
-var mnemonic = "parent alter audit scrub recycle pen jungle idea glory turn olive tell";
+var mnemonic = "repair you accuse transfer torch salad voice win face glide become mail";

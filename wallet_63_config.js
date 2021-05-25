@@ -1,1 +1,1 @@
-var mnemonic = "much carry loud only spawn outside unveil loyal among correct nerve garbage";
+var mnemonic = "mistake cash property gather trim scale conduct uncle better arrive stock certain";

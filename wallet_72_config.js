@@ -1,1 +1,1 @@
-var mnemonic = "behind erase lion wife ancient invite border sound crucial thunder marriage sleep";
+var mnemonic = "oyster cube wage worth type sibling company dish dilemma when crumble empty";

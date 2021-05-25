@@ -1,1 +1,1 @@
-var mnemonic = "myself wing zone tunnel render axis sock vague couple fever fiction flower";
+var mnemonic = "vendor cupboard public pen prepare crane ketchup fresh puzzle cheap benefit jacket";

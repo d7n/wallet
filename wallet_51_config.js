@@ -1,1 +1,1 @@
-var mnemonic = "churn prison wish slice brief spend innocent aunt green obtain admit card";
+var mnemonic = "rice pipe lottery friend motor shield black visa lunar artist pilot curtain";
