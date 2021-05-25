@@ -1,1 +1,1 @@
-var mnemonic = "receive candy among glare van tenant nice cereal luggage reason joke super";
+var mnemonic = "raccoon drink comfort wood disagree auto vehicle prevent hip chapter garden seminar";

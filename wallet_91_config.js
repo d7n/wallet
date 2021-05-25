@@ -1,1 +1,1 @@
-var mnemonic = "report canoe slender click start orchard script layer breeze smooth nature embark";
+var mnemonic = "ridge solar trash domain reveal case sheriff distance urban elbow elbow corn";

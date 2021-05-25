@@ -1,1 +1,1 @@
-var mnemonic = "trim dynamic puzzle share crack input velvet main verify then laundry plastic";
+var mnemonic = "abandon lava list april home joke home convince axis fresh proof world";

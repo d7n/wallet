@@ -1,1 +1,1 @@
-var mnemonic = "marine bus toast view miss present exit absorb hub affair foil buffalo";
+var mnemonic = "okay profit law romance lawsuit initial shuffle chicken leisure normal shoe evoke";

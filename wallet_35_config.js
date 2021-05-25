@@ -1,1 +1,1 @@
-var mnemonic = "off inside maid bargain fancy hill tattoo submit position need green venture";
+var mnemonic = "arrow marine oak innocent that desert knock cannon provide favorite park biology";

@@ -1,1 +1,1 @@
-var mnemonic = "demise dream stone unusual still chapter oil bottom together warm harbor length";
+var mnemonic = "manage shadow wide game kit welcome galaxy number obscure nut palace book";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond hint february wreck oppose dentist lesson flavor token group fine toss";
+var mnemonic = "wedding radar emerge record filter viable clutch dutch dose crater glass firm";

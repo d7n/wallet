@@ -1,1 +1,1 @@
-var mnemonic = "brand barrel top system bike wreck east mango seven vote tattoo mistake";
+var mnemonic = "mad envelope metal patch demand price hire quote apple fabric glide swallow";

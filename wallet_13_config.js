@@ -1,1 +1,1 @@
-var mnemonic = "blouse junk drama develop impose slab shop physical slow forum match cluster";
+var mnemonic = "bubble equal amateur swamp orchard mechanic misery venture submit another fog hand";

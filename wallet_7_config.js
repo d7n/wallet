@@ -1,1 +1,1 @@
-var mnemonic = "silk isolate achieve bus unveil music history dream opera produce forum practice";
+var mnemonic = "roast nice forest canoe oyster coil rail session verb curve scissors little";

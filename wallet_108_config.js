@@ -1,1 +1,1 @@
-var mnemonic = "arrow vicious panther tip sunset palace engage arm current burger elevator garment";
+var mnemonic = "obey boil walk foster health motor buddy neutral weasel advance unknown client";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd solid spread tent stumble other sadness evolve tiny pupil impose title";
+var mnemonic = "oil nut that fluid gun snake fee danger report brother year place";

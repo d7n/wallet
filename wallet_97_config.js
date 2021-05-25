@@ -1,1 +1,1 @@
-var mnemonic = "rookie kiwi problem you magnet village walk mansion quantum inspire siege hawk";
+var mnemonic = "job walnut dumb empower hub diet clinic charge immense pluck there thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "success noble slight tag cause own acid any firm fog crawl tide";
+var mnemonic = "neglect private shed toss odor lazy still clay lumber radar used blame";

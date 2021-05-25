@@ -1,1 +1,1 @@
-var mnemonic = "settle fatigue history lucky can online spot actual diamond anchor tray exact";
+var mnemonic = "diary tower snack wasp rug clean letter ten lawn real bread sunny";

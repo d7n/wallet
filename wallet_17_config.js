@@ -1,1 +1,1 @@
-var mnemonic = "original frequent regret pond win airport habit benefit regular double tribe vacant";
+var mnemonic = "trick chest trap move jazz normal possible describe conduct hollow shiver elbow";

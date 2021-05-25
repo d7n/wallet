@@ -1,1 +1,1 @@
-var mnemonic = "body creek wealth merit analyst marriage safe lyrics just cloud cake muscle";
+var mnemonic = "patient fossil merge wing husband diary usual deal agent wall yellow scale";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver bachelor text wrap leave husband warm raise pause recycle identify cake";
+var mnemonic = "skirt labor duck relief labor pause tobacco thrive cousin test cook dawn";

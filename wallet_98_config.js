@@ -1,1 +1,1 @@
-var mnemonic = "space loan clog flavor unhappy bid hole charge culture exit borrow depth";
+var mnemonic = "bicycle slogan model fine spray accuse unlock neglect shrug party tree usual";

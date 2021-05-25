@@ -1,1 +1,1 @@
-var mnemonic = "canvas goddess deposit royal setup balcony sand just sword remember immense violin";
+var mnemonic = "sad disease space virus ensure balance toe garbage park spy bicycle outer";

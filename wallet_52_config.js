@@ -1,1 +1,1 @@
-var mnemonic = "space desert dance spray clay island cool cabin exile day random strategy";
+var mnemonic = "away flag fiber scan logic stable boost daring foam exact easy add";

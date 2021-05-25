@@ -1,1 +1,1 @@
-var mnemonic = "indicate minimum trust horror excite scan mushroom friend silly jelly purse immense";
+var mnemonic = "dash include lawsuit token goose other stuff bright weather much hat lawsuit";

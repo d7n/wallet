@@ -1,1 +1,1 @@
-var mnemonic = "indoor stumble ring load ordinary unaware connect bike avoid same cage diary";
+var mnemonic = "mouse robot rail october siege museum hybrid transfer champion arrive word whisper";

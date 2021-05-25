@@ -1,1 +1,1 @@
-var mnemonic = "angle rather all must indoor inmate tunnel boring seek coral decide fruit";
+var mnemonic = "choice jacket blossom absurd sign dynamic boat animal worth swing grocery message";

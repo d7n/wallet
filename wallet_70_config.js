@@ -1,1 +1,1 @@
-var mnemonic = "beef drastic sunny question old wine auto inherit meadow paddle coral someone";
+var mnemonic = "naive rather explain young shiver embark trial duck urban hat pill churn";

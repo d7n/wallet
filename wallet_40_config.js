@@ -1,1 +1,1 @@
-var mnemonic = "address city jeans slow flavor middle inquiry until apology hair galaxy soon";
+var mnemonic = "argue nation young tail toward select cause sample ginger future laundry unusual";

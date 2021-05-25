@@ -1,1 +1,1 @@
-var mnemonic = "ranch hurry program differ supply dinosaur action follow stadium cute ball sudden";
+var mnemonic = "benefit script history dad tribe situate bomb lottery exchange bunker idea pudding";

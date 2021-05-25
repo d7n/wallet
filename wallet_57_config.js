@@ -1,1 +1,1 @@
-var mnemonic = "treat wet sand deny multiply six cattle aerobic balance dirt reveal copper";
+var mnemonic = "local current there hen what type notable today satisfy rather razor sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "child pluck nice absurd crack market dragon know mean pumpkin erode help";
+var mnemonic = "elbow august insect ensure ticket hour swallow secret math run slight harsh";

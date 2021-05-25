@@ -1,1 +1,1 @@
-var mnemonic = "machine bomb right boost tail crime text hope battle subway hobby afford";
+var mnemonic = "satoshi misery shoulder winner cycle room shove shop spy immune cherry net";

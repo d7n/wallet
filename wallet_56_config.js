@@ -1,1 +1,1 @@
-var mnemonic = "inquiry ring boat remove broccoli derive clock inflict blast movie nominee utility";
+var mnemonic = "baby theme morning honey hotel ski swift file about bleak alcohol relax";

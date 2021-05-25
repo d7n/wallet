@@ -1,1 +1,1 @@
-var mnemonic = "nation crack fall icon buffalo awesome daughter soda list wing remain bar";
+var mnemonic = "become accuse flame vocal nuclear sell pledge lake disorder dash also marine";

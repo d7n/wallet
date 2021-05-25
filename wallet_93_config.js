@@ -1,1 +1,1 @@
-var mnemonic = "client pig across dentist castle diamond hold tree endless gate globe van";
+var mnemonic = "super taste novel allow slim shoe toddler heart father brave vendor violin";

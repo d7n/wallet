@@ -1,1 +1,1 @@
-var mnemonic = "minute since vacuum sister exercise citizen drop evoke enhance display case remove";
+var mnemonic = "animal spy armor raccoon census auto brief now wide unit limb melt";

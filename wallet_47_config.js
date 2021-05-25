@@ -1,1 +1,1 @@
-var mnemonic = "exchange clever slide six lizard hole spin divide approve trash dwarf round";
+var mnemonic = "rival pond bread pet dice journey tourist twelve scale caught prevent together";

@@ -1,1 +1,1 @@
-var mnemonic = "ice meat maple stadium ridge zoo best total medal zebra rocket sudden";
+var mnemonic = "seed ridge fancy tunnel artist opinion join awful envelope jazz alter edit";

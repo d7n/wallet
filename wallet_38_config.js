@@ -1,1 +1,1 @@
-var mnemonic = "object ugly never vivid panic amused orphan disorder want sight chunk tumble";
+var mnemonic = "since web symbol odor forest goddess helmet undo thing chronic universe maze";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm position where enact obscure slight sport total name scissors trip message";
+var mnemonic = "cluster sheriff govern strike kiwi when girl pen skin bachelor grape father";

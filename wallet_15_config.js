@@ -1,1 +1,1 @@
-var mnemonic = "valve salmon rival liquid now rose game truck eagle rare beef polar";
+var mnemonic = "intact lucky sausage thunder concert board february wolf cause palace fit symbol";

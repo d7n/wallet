@@ -1,1 +1,1 @@
-var mnemonic = "dune frozen yard couch cry barely eight unable seed warm scrub junk";
+var mnemonic = "rough universe early kidney find grass inquiry slice evidence stamp mercy elite";

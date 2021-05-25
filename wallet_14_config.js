@@ -1,1 +1,1 @@
-var mnemonic = "pave suspect light hat mad chest fine submit chuckle gun fold reflect";
+var mnemonic = "nephew shallow ladder talk public theme visa proof flee wonder organ consider";

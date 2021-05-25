@@ -1,1 +1,1 @@
-var mnemonic = "spirit random cruel muffin health nature expand copy husband west solid sketch";
+var mnemonic = "hint carry find evidence captain mandate relax recall inherit category identify high";

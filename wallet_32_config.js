@@ -1,1 +1,1 @@
-var mnemonic = "shrug steak imitate speak dream evolve property help fork beauty weekend spare";
+var mnemonic = "raccoon plastic yellow wish bullet visual resemble walnut mixture month tuna olympic";

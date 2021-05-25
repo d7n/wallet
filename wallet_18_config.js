@@ -1,1 +1,1 @@
-var mnemonic = "rely hour tennis sting piece save fix bone swing nice suggest choice";
+var mnemonic = "sample release company romance cereal badge moral bridge rival skirt napkin argue";

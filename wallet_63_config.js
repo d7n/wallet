@@ -1,1 +1,1 @@
-var mnemonic = "salmon purpose beyond found drive tower eagle resist clean rookie air flavor";
+var mnemonic = "flame bitter strategy galaxy escape gauge marine seed kind style extend erupt";

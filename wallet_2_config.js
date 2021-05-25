@@ -1,1 +1,1 @@
-var mnemonic = "piano day trick swing supreme drink injury april roof trophy radar salad";
+var mnemonic = "indoor nephew orphan seven merit spider upon palm car naive lunar industry";

@@ -1,1 +1,1 @@
-var mnemonic = "push wage panic parrot crowd manage daring solar wagon earn vendor lizard";
+var mnemonic = "local early mesh dirt oil ordinary pave excite lab fee improve because";

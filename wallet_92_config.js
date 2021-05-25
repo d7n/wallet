@@ -1,1 +1,1 @@
-var mnemonic = "fix census sister caught grief maple ride brick thunder valley economy recycle";
+var mnemonic = "drum derive matter menu clip buzz used parent apart fork pudding cruise";

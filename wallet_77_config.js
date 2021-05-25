@@ -1,1 +1,1 @@
-var mnemonic = "hint aspect lumber hotel hobby narrow avoid gospel six point salad dawn";
+var mnemonic = "enable distance panel coyote jealous stomach lion patch paddle dial bring angry";

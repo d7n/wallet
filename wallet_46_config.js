@@ -1,1 +1,1 @@
-var mnemonic = "scheme way swim work top sun concert human allow neutral barrel wrap";
+var mnemonic = "glue supply require disorder grab ostrich tattoo slim mercy dutch raccoon jelly";

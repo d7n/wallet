@@ -1,1 +1,1 @@
-var mnemonic = "story tube depart chest million category business rude bulb polar mention venue";
+var mnemonic = "hold ship offer sword enroll live wife tooth wait arrive coffee tool";

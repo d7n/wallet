@@ -1,1 +1,1 @@
-var mnemonic = "quality grocery wealth scale eye autumn picture field rent giraffe very music";
+var mnemonic = "put coral fantasy issue survey achieve accident current fragile local soft beauty";

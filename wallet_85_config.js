@@ -1,1 +1,1 @@
-var mnemonic = "trophy van grunt crane picnic nature tattoo forest speak dilemma mom glad";
+var mnemonic = "can cable opinion mammal yard evil street pistol bulb visual catch pig";

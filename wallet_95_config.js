@@ -1,1 +1,1 @@
-var mnemonic = "record mesh gasp exile result bitter victory fury cook olive gravity shiver";
+var mnemonic = "obey trust fox gravity write slam try seed private manual evidence dish";

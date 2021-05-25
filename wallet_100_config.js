@@ -1,1 +1,1 @@
-var mnemonic = "symptom solid spike page sun carpet carbon quote length power carbon credit";
+var mnemonic = "chef still hand strategy school globe cabin group skate toss cute major";

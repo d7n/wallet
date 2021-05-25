@@ -1,1 +1,1 @@
-var mnemonic = "income desk say roof basic chicken sea ribbon actual height cool pink";
+var mnemonic = "price forward chicken version jar velvet like double kingdom airport goose success";

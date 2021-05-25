@@ -1,1 +1,1 @@
-var mnemonic = "sunny thunder six current message victory place merit gloom ice attitude disagree";
+var mnemonic = "switch learn alien among census cruel dinner wolf love day believe bubble";

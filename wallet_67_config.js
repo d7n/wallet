@@ -1,1 +1,1 @@
-var mnemonic = "safe test bottom hip narrow sport timber type unit glue column coffee";
+var mnemonic = "sand wash rose boring occur whale cash garlic fox modify device rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "rain shoot soft circle grocery woman camp aspect alcohol fence found tail";
+var mnemonic = "record unknown armor gauge shove claim foot flee trigger glance feature frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "danger bean utility pattern entry sea knife party loud inherit height bright";
+var mnemonic = "sand absurd then rigid tackle risk prevent swap custom jacket marble render";

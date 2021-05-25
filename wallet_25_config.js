@@ -1,1 +1,1 @@
-var mnemonic = "shoe purse wisdom because wise color orient empower swamp ceiling sniff piece";
+var mnemonic = "interest bargain uncover area affair drive save salt phrase poverty game rotate";

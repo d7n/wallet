@@ -1,1 +1,1 @@
-var mnemonic = "ball fuel pudding scorpion wall room census chicken panic timber motion move";
+var mnemonic = "vintage else lab become cube cherry order symbol melt above include enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "year sure entry promote solar offer cricket joy draw model cactus real";
+var mnemonic = "address matter decorate umbrella shoulder phone fine evil utility bubble priority curious";

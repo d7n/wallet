@@ -1,1 +1,1 @@
-var mnemonic = "logic cash dose keep alley shine piano floor grace sweet couch hotel";
+var mnemonic = "depend settle foil home sense flavor pattern crash next scan famous happy";

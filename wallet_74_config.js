@@ -1,1 +1,1 @@
-var mnemonic = "wreck club begin idea stadium announce alley guess stand wild spoil furnace";
+var mnemonic = "city above basket planet gravity conduct kite aerobic latin feed family category";

@@ -1,1 +1,1 @@
-var mnemonic = "trend entire hundred sudden cook kiwi friend power visa flee point badge";
+var mnemonic = "spend prosper tunnel hub tennis hunt ecology thunder occur vivid hen time";

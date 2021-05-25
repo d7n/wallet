@@ -1,1 +1,1 @@
-var mnemonic = "picnic pride topple cover resist shine reveal day shield best garment grain";
+var mnemonic = "aim reject actor banner soon crush model lock glove glow crime raise";

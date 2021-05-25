@@ -1,1 +1,1 @@
-var mnemonic = "monitor avoid win satoshi fish unusual leave weird gold food valve crawl";
+var mnemonic = "describe gun laundry hair female eight error blind bounce pause crucial sick";

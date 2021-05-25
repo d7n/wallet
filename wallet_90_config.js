@@ -1,1 +1,1 @@
-var mnemonic = "review garbage future gentle notable winner mutual slush night impulse soul rough";
+var mnemonic = "bomb clap jungle safe frequent feature raise mammal friend fish theme fly";

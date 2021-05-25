@@ -1,1 +1,1 @@
-var mnemonic = "rocket soda holiday dry walk head toddler jelly found turn prosper gas";
+var mnemonic = "cause express depart suffer cereal inmate life clock dream day same gasp";

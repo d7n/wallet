@@ -1,1 +1,1 @@
-var mnemonic = "trash grid twist envelope leave clip service easily neck arrest ready horror";
+var mnemonic = "outdoor jacket risk pistol cabin disagree menu glory hurry domain swallow salon";

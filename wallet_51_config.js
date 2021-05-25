@@ -1,1 +1,1 @@
-var mnemonic = "critic glimpse sure poverty acquire uniform room miracle wire umbrella account talk";
+var mnemonic = "cause repeat useless review taxi source okay attract brand wire wonder reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma mule blanket learn simple olive grid aerobic robot power trap eight";
+var mnemonic = "group always foot expire squirrel arrange organ club fine check steel miracle";

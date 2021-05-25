@@ -1,1 +1,1 @@
-var mnemonic = "rare mushroom abuse margin once train satoshi grape ribbon fault note burst";
+var mnemonic = "copy buddy short spider situate razor wink survey sure faith diet dinosaur";

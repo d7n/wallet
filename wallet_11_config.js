@@ -1,1 +1,1 @@
-var mnemonic = "egg midnight expire bubble exit wrestle eyebrow creek clump february grass across";
+var mnemonic = "barely canoe draft slight pool inch erode pyramid valley course brief rack";

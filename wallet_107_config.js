@@ -1,1 +1,1 @@
-var mnemonic = "shuffle cargo rich guide young apart bone scrub poet material mobile virtual";
+var mnemonic = "vessel beyond scale tumble need page impulse aerobic lecture wish answer rely";

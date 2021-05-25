@@ -1,1 +1,1 @@
-var mnemonic = "transfer file purse piece denial purpose remain rich decrease lecture magic jealous";
+var mnemonic = "scheme fly armor soul scrap jump mansion note battle find visit embrace";

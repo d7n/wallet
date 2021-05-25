@@ -1,1 +1,1 @@
-var mnemonic = "blood collect cushion shell stem athlete disease hotel peanut portion dumb lounge";
+var mnemonic = "because capital account spare survey video panda price catch scene recipe debris";

@@ -1,1 +1,1 @@
-var mnemonic = "section spirit merge beauty panda protect female access write boss side tissue";
+var mnemonic = "under february warrior because service famous breeze clip book dream view grace";

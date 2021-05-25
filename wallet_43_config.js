@@ -1,1 +1,1 @@
-var mnemonic = "amount ring swallow craft mask orbit actor turn marble faint assume picnic";
+var mnemonic = "snake quick illegal west owner radar wish voice they sense inner twist";

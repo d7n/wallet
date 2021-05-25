@@ -1,1 +1,1 @@
-var mnemonic = "mutual capable slender wage involve margin flip dial utility uncle camp gown";
+var mnemonic = "apple mule evidence oval false dilemma flame kitchen ugly apology yard add";

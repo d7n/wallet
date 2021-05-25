@@ -1,1 +1,1 @@
-var mnemonic = "relief cigar menu fat power secret above maple exit twin output hazard";
+var mnemonic = "genuine old lottery stage brush water crater palm pole dismiss oval around";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper deputy jazz space crystal lava punch exile twenty ship final creek";
+var mnemonic = "quiz siege gentle hurry seat apple gasp resist cradle initial orient manage";

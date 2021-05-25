@@ -1,1 +1,1 @@
-var mnemonic = "combine fan disagree width video flag pyramid whip little document time else";
+var mnemonic = "gentle arena farm arrow destroy power aspect style ahead ride wear nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "problem unknown crunch trick pole hero current rib box group wild brother";
+var mnemonic = "term dune thunder route mansion fiction turkey face sauce borrow across walk";

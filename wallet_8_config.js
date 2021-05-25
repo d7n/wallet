@@ -1,1 +1,1 @@
-var mnemonic = "uphold board accident other version shift home setup decline auction able scissors";
+var mnemonic = "orbit hold artefact real thank cool lift mountain dash odor wrestle squeeze";

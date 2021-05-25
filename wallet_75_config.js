@@ -1,1 +1,1 @@
-var mnemonic = "fox rally announce attend canyon unfair hub remove host glue bleak skate";
+var mnemonic = "empower bronze tube grain soldier loop certain avocado wash mixture jacket useless";

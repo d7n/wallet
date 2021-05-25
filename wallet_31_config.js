@@ -1,1 +1,1 @@
-var mnemonic = "soon amount sweet sketch century rotate weasel arrange surge issue neck pole";
+var mnemonic = "tongue snap easily lab code wrap travel mirror defy adapt heart bulb";

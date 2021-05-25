@@ -1,1 +1,1 @@
-var mnemonic = "ocean buzz staff try seek figure end hungry shift clutch impact tag";
+var mnemonic = "source shift evil service cradle suit actress spy rookie half sound enable";

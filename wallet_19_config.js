@@ -1,1 +1,1 @@
-var mnemonic = "beyond phrase detail upgrade vendor giggle opinion bronze inside alien razor shadow";
+var mnemonic = "crumble anchor never debate weapon laugh sketch sport dove program lion inside";

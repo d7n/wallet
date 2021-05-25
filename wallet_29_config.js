@@ -1,1 +1,1 @@
-var mnemonic = "hidden betray sock weather cruel survey wine burst thrive aware donkey monkey";
+var mnemonic = "color enact region that foster minimum middle remind random control kidney around";

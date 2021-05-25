@@ -1,1 +1,1 @@
-var mnemonic = "glance strong argue mansion balcony tray toilet adjust mother lesson swamp stove";
+var mnemonic = "ritual merge canal topic sun solve illegal vapor beyond stick safe you";
