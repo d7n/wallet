@@ -1,1 +1,1 @@
-var mnemonic = "flee opera merge thrive almost donkey boy obtain rely unknown trick awake";
+var mnemonic = "child jealous pigeon public capable snack actual certain salad glance lamp hospital";

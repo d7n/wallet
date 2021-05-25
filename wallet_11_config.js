@@ -1,1 +1,1 @@
-var mnemonic = "section margin oven sock question entry thrive vintage silent elevator achieve return";
+var mnemonic = "better other brisk peasant party edit patrol mesh garlic hole truth area";

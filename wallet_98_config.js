@@ -1,1 +1,1 @@
-var mnemonic = "absent teach sugar mosquito regular elephant equal rocket rib abuse deposit paddle";
+var mnemonic = "slam until illegal oil maple purchase ethics riot describe boost shallow praise";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect achieve little disease type divorce gravity demand leopard surge spend fatal";
+var mnemonic = "park supply grape faith scorpion candy person raven estate inherit runway dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "stick phone mixed interest equal delay high mean execute clip vast report";
+var mnemonic = "wife timber lucky swing dinosaur marble pyramid supreme exclude match above pumpkin";

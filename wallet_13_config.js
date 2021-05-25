@@ -1,1 +1,1 @@
-var mnemonic = "possible summer claim bid much assist hollow monster lecture wonder dismiss father";
+var mnemonic = "glow brave family glove picnic electric monster blouse secret already frame detail";

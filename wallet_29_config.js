@@ -1,1 +1,1 @@
-var mnemonic = "polar spread gravity skin shift famous wash view junk follow crawl cruise";
+var mnemonic = "good brush found omit crunch sight dwarf large sing kingdom leg movie";

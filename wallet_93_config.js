@@ -1,1 +1,1 @@
-var mnemonic = "catalog risk raccoon job vapor extra term setup supreme rough clever supreme";
+var mnemonic = "poverty rapid glory fee session bench broccoli resemble sun lesson execute bright";

@@ -1,1 +1,1 @@
-var mnemonic = "solve wild quantum success banner item crawl warrior foster visit firm blast";
+var mnemonic = "alpha reduce huge virus swamp squeeze awesome search sea tunnel injury expand";

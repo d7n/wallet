@@ -1,1 +1,1 @@
-var mnemonic = "ramp daring reject link inside total edit now purity arrow bundle arch";
+var mnemonic = "glass style mother bachelor glide remind lobster whip debris humor sunny snack";

@@ -1,1 +1,1 @@
-var mnemonic = "relax company staff flock now cloth forward boil tower aerobic sad staff";
+var mnemonic = "tool unknown cheese lecture echo round talk heavy marriage find cradle agent";

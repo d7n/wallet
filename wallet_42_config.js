@@ -1,1 +1,1 @@
-var mnemonic = "cereal undo claim fury candy sure inquiry exotic zebra match raw spoon";
+var mnemonic = "sick cactus near join emotion lamp voyage gauge disorder quantum priority shoulder";

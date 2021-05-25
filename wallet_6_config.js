@@ -1,1 +1,1 @@
-var mnemonic = "purse pioneer actor settle safe crumble favorite scheme clock gate best juice";
+var mnemonic = "mirror mouse small pull kid skin holiday jealous grace clump suffer clinic";

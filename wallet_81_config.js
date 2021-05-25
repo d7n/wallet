@@ -1,1 +1,1 @@
-var mnemonic = "attend good flash defy street net draw coffee cover express toast coffee";
+var mnemonic = "anchor lonely opinion frequent sand diagram enemy bulk cake carpet emerge divert";

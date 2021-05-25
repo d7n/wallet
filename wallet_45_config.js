@@ -1,1 +1,1 @@
-var mnemonic = "mosquito journey dash benefit beauty note victory team border silly silk garden";
+var mnemonic = "phrase index another observe stable truth machine oblige drum category lizard story";

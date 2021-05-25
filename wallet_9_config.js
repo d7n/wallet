@@ -1,1 +1,1 @@
-var mnemonic = "initial oak used crane buddy glare expire this walnut target blouse brass";
+var mnemonic = "science gift logic blue outdoor mystery lounge desert buyer connect oak clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "invest diesel weird asset glare sorry olympic climb artist tiger enhance aunt";
+var mnemonic = "sell visa pact eager oxygen middle gather size mixed trumpet burger tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "foot fit pyramid frown gorilla doll host sign will old put rough";
+var mnemonic = "culture brass frown budget family involve evolve scrap loan relief stand still";

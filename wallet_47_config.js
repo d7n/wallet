@@ -1,1 +1,1 @@
-var mnemonic = "armor source usual collect attract derive any swarm face turn drama vote";
+var mnemonic = "sting leopard melt pause warm emerge twice hidden recycle utility recall shiver";

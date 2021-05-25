@@ -1,1 +1,1 @@
-var mnemonic = "upper blossom dizzy blouse metal vendor stumble cart cake wave spy flock";
+var mnemonic = "slide modify category crowd soccer cradle one famous extend student broken false";

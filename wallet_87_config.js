@@ -1,1 +1,1 @@
-var mnemonic = "patrol pony feed inner defy fashion broccoli picnic taste steak together remain";
+var mnemonic = "salmon scheme rude mail prison eight hunt quality flame adapt maximum dentist";

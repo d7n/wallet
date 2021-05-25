@@ -1,1 +1,1 @@
-var mnemonic = "brand image bounce push half genre crisp police awake vote second arrive";
+var mnemonic = "bind own midnight mango brick submit people solution shed youth arrest sugar";

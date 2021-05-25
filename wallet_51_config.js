@@ -1,1 +1,1 @@
-var mnemonic = "suspect cup icon wrist razor ship breeze evolve horror shrug table kidney";
+var mnemonic = "claim van stay jacket enhance away clutch tunnel snack return brisk gain";

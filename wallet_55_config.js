@@ -1,1 +1,1 @@
-var mnemonic = "usual aim debate fetch black race exotic canvas direct frost merry offer";
+var mnemonic = "session kite where mass unveil satisfy ethics grace ladder lonely dignity foot";

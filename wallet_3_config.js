@@ -1,1 +1,1 @@
-var mnemonic = "armed clip cinnamon hollow vibrant all destroy vessel easy exhaust odor park";
+var mnemonic = "faint antenna ginger weasel jungle kick now sniff relief frame wave parrot";

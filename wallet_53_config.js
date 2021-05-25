@@ -1,1 +1,1 @@
-var mnemonic = "reward senior clean fragile profit steak chest group relief sadness flash panel";
+var mnemonic = "certain stage legal wasp fault inquiry horse vendor indoor elbow army what";

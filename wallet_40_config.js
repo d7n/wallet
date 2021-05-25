@@ -1,1 +1,1 @@
-var mnemonic = "ecology false cool fitness tank local history fragile churn reunion weasel tomato";
+var mnemonic = "since shine spot merry silk together trap govern pet pitch marriage envelope";

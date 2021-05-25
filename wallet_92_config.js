@@ -1,1 +1,1 @@
-var mnemonic = "maid lend caution help carry soon outer exercise filter race wrong defy";
+var mnemonic = "wrestle creek echo actress invest stairs media civil enroll mandate cart burden";

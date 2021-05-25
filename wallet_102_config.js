@@ -1,1 +1,1 @@
-var mnemonic = "injury echo cheap strategy exit know again focus retreat term begin unveil";
+var mnemonic = "hood animal artist believe amount little goat undo dream cycle illegal hedgehog";

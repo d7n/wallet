@@ -1,1 +1,1 @@
-var mnemonic = "gown dilemma fabric angle entry grunt broken suspect drill awful awesome rally";
+var mnemonic = "input air target diet side river forum hero invite enlist surprise route";

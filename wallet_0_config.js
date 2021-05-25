@@ -1,1 +1,1 @@
-var mnemonic = "panic phrase include toddler eyebrow canvas ritual attend truly aware oil prosper";
+var mnemonic = "corn rigid hour trip alien brown rebuild input outside saddle dizzy stick";

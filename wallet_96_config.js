@@ -1,1 +1,1 @@
-var mnemonic = "portion village ladder crucial general ceiling alien subject until claim bonus disorder";
+var mnemonic = "wing couch account solar pulp real dignity retreat siege satisfy gaze three";

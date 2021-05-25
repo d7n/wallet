@@ -1,1 +1,1 @@
-var mnemonic = "venue piano rapid dolphin punch vote motor bounce noble salute ancient breeze";
+var mnemonic = "now kangaroo nuclear social away cotton special video sausage clutch column royal";

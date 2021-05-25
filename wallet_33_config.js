@@ -1,1 +1,1 @@
-var mnemonic = "another drill order borrow drop climb fade clap fruit pipe wine unknown";
+var mnemonic = "worry old muscle phone marine grief region walk joy pizza cattle absent";

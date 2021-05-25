@@ -1,1 +1,1 @@
-var mnemonic = "view accident cost creek breeze vault day lesson latin outer trade narrow";
+var mnemonic = "deer purse chef envelope noodle relax photo frown mystery gorilla sound decorate";

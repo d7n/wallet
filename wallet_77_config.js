@@ -1,1 +1,1 @@
-var mnemonic = "announce danger ecology pull zoo salon mushroom rib wave struggle wear strategy";
+var mnemonic = "poet card arch run current target valid skin deposit bone next impulse";

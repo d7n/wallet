@@ -1,1 +1,1 @@
-var mnemonic = "gown humor across maple multiply carpet embark can spy pizza shuffle toy";
+var mnemonic = "awkward all goose liquid sniff leaf punch tower solar child ribbon sand";

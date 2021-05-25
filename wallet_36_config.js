@@ -1,1 +1,1 @@
-var mnemonic = "galaxy apart bargain asset rough clever deliver fitness soft young canvas remind";
+var mnemonic = "mix shove document frequent eight dinosaur drink dizzy east curtain grief slow";

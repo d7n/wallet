@@ -1,1 +1,1 @@
-var mnemonic = "draft balance merge scheme boss start ride donor over couch valley zebra";
+var mnemonic = "plate ivory accident deny curtain tongue bracket shield federal violin wrist athlete";

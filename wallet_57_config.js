@@ -1,1 +1,1 @@
-var mnemonic = "ceiling volume cruise core flock such seed edge little flee blush sugar";
+var mnemonic = "castle female bless half fit circle wealth very afraid blur behind increase";

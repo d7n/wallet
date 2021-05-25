@@ -1,1 +1,1 @@
-var mnemonic = "domain neck leave obey put apart paper code suggest license swamp piano";
+var mnemonic = "sniff holiday spice tourist penalty defy increase then vacuum inject faculty flat";

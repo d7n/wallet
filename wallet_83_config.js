@@ -1,1 +1,1 @@
-var mnemonic = "clump crumble stand feed flash outer any range fragile claim rely unhappy";
+var mnemonic = "badge proud element ribbon merry seat mention regret core luggage clump pioneer";

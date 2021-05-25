@@ -1,1 +1,1 @@
-var mnemonic = "romance broken shoulder kite lion fee forum ladder fish future identify uniform";
+var mnemonic = "bachelor remain blood enough solar chef boat vehicle burst runway degree real";

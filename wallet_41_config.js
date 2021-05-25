@@ -1,1 +1,1 @@
-var mnemonic = "stumble ozone exile forest cute globe popular lamp claw appear over rely";
+var mnemonic = "warfare artist empty helmet heavy hero rocket figure crater universe ethics shock";

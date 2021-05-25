@@ -1,1 +1,1 @@
-var mnemonic = "strategy trophy consider lecture tonight ignore salmon heavy book curve orchard walnut";
+var mnemonic = "awesome outdoor matrix whale wedding island razor embark liquid save athlete ability";

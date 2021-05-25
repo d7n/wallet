@@ -1,1 +1,1 @@
-var mnemonic = "over snack crew maximum dolphin opinion either pave cart remember broken you";
+var mnemonic = "bottom foster frozen device relax deny extra cream age reason pond screen";

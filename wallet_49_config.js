@@ -1,1 +1,1 @@
-var mnemonic = "enrich tennis melt advice broken also air roast tunnel still eternal piano";
+var mnemonic = "rug accident moment evil curve gospel napkin orient kitten inhale dinosaur mobile";

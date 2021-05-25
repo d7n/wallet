@@ -1,1 +1,1 @@
-var mnemonic = "squirrel rough metal carbon bleak warrior limb kitchen offer merge idle gaze";
+var mnemonic = "save essence lunar shed pair safe empower wash fringe need column echo";

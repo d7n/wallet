@@ -1,1 +1,1 @@
-var mnemonic = "day chuckle better position about exact gospel thought mom few soap monster";
+var mnemonic = "walk pattern comfort various define fancy west quantum exercise gasp goddess crew";

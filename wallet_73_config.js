@@ -1,1 +1,1 @@
-var mnemonic = "wonder shop badge sphere mobile damp smoke dry unaware stand rose tilt";
+var mnemonic = "order mix grit approve trim lawsuit faith typical undo vivid mouse wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "small fringe forward rescue night album warrior monkey federal bachelor child wall";
+var mnemonic = "argue neutral detect near either claim cook office false lottery risk success";

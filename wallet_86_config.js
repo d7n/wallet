@@ -1,1 +1,1 @@
-var mnemonic = "exact table dial ability lounge bicycle fever stomach feel feel burden tattoo";
+var mnemonic = "purchase length slice provide away account emerge exclude pool home hub alpha";

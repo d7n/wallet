@@ -1,1 +1,1 @@
-var mnemonic = "escape produce glory frog blame they funny deer child right index cloth";
+var mnemonic = "fitness hood episode field liberty business trash foster pulp split unique panther";

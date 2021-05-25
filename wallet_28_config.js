@@ -1,1 +1,1 @@
-var mnemonic = "brisk anger basic rice situate cement limit portion wedding adult fruit confirm";
+var mnemonic = "plate interest minor stay jump notice figure oxygen winter mother margin obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "damage brick tumble chapter mountain state always crop mesh early wing gather";
+var mnemonic = "prevent amount sword sponsor rough business gauge proud predict scale capital asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "embark hip skirt better town ring such hunt luxury dash mom govern";
+var mnemonic = "innocent ice mirror genre famous creek gloom arrange behave surprise turtle space";

@@ -1,1 +1,1 @@
-var mnemonic = "body security polar dynamic pitch basic taste borrow sight creek learn vague";
+var mnemonic = "open brush chuckle submit wheat glue income citizen slab stereo chuckle diet";

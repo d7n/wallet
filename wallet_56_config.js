@@ -1,1 +1,1 @@
-var mnemonic = "sun improve around purpose change illness mask occur acquire couch belt light";
+var mnemonic = "other fatal episode damage payment mansion buffalo walk gentle science card click";

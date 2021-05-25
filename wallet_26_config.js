@@ -1,1 +1,1 @@
-var mnemonic = "priority adult mosquito annual lemon whale system primary wrestle load save wall";
+var mnemonic = "want gadget scorpion lock around frown credit husband luxury anxiety appear cruise";

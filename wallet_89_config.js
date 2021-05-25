@@ -1,1 +1,1 @@
-var mnemonic = "settle cost life buffalo exist ride library upper echo entire ivory arrive";
+var mnemonic = "slot faculty lobster unfair very frost what claw spell spread blood motion";

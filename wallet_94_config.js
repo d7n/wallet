@@ -1,1 +1,1 @@
-var mnemonic = "diagram step save click salute permit fault spring turkey year tobacco sustain";
+var mnemonic = "inhale pelican exhibit elder obtain coyote liquid clay globe theory fancy deliver";

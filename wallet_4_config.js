@@ -1,1 +1,1 @@
-var mnemonic = "dumb annual during fog toss absorb educate alcohol nerve victory obey bunker";
+var mnemonic = "buddy guitar mixture omit moment short snack ritual pink average example glory";

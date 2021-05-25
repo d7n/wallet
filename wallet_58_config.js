@@ -1,1 +1,1 @@
-var mnemonic = "supply museum know intact actress alpha connect daring easy flip gap boat";
+var mnemonic = "simple coffee reward flip when shed jaguar crumble visa strike awful phrase";

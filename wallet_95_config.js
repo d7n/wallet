@@ -1,1 +1,1 @@
-var mnemonic = "laugh sentence hair sell author unusual space oyster afford december laugh level";
+var mnemonic = "elder bonus banner delay tennis apple toilet rural enemy tribe broom ranch";

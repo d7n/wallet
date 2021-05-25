@@ -1,1 +1,1 @@
-var mnemonic = "behave moon young science tortoise fancy suffer teach tongue boat credit text";
+var mnemonic = "near solve hawk gate prosper hole soft fitness chicken social solve penalty";

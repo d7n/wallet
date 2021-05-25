@@ -1,1 +1,1 @@
-var mnemonic = "chat cargo lady upgrade fit immense salad impulse slender capital tone imitate";
+var mnemonic = "blood helmet bean chalk keen gesture flush youth traffic orchard hold rocket";

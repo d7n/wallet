@@ -1,1 +1,1 @@
-var mnemonic = "decide sugar act swamp romance spray theme approve gym next hand keep";
+var mnemonic = "mom trust soup evolve shift ride liberty window version world admit diet";

@@ -1,1 +1,1 @@
-var mnemonic = "repair sausage model suffer ancient goddess club source field behind federal expose";
+var mnemonic = "chunk face unknown glare save night sausage start vicious theory right render";

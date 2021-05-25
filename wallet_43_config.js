@@ -1,1 +1,1 @@
-var mnemonic = "oven tell donor column hammer leader innocent alert weird satisfy unveil venue";
+var mnemonic = "twist move rare exile aisle grace list prepare school spin proud below";

@@ -1,1 +1,1 @@
-var mnemonic = "choose second dismiss favorite deal welcome fault response pen dust silent cinnamon";
+var mnemonic = "dynamic august text drill inside solid chase curtain enlist awkward divert noble";

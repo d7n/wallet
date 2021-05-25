@@ -1,1 +1,1 @@
-var mnemonic = "already route century dry elite inch peanut nurse blind promote world simple";
+var mnemonic = "sunny flash flag almost cycle slim wine siege fashion banana where critic";

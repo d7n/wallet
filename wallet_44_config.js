@@ -1,1 +1,1 @@
-var mnemonic = "economy able image vicious motion bachelor ketchup crater grain pulp clap holiday";
+var mnemonic = "tuition model nasty super dirt pistol elephant eight wire peasant can cover";

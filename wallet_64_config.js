@@ -1,1 +1,1 @@
-var mnemonic = "pole similar noise please mechanic tube cake core nuclear various alone horror";
+var mnemonic = "notice glove outdoor myself glue hurt wrong skate toss burst float decrease";

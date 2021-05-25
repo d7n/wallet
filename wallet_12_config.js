@@ -1,1 +1,1 @@
-var mnemonic = "style sad alcohol noise member item snap dynamic end stand high face";
+var mnemonic = "name quarter spray symptom talk witness fetch arm film defense soccer brief";

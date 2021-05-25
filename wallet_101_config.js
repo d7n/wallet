@@ -1,1 +1,1 @@
-var mnemonic = "business point cave hole village toss become ugly day unaware vivid cushion";
+var mnemonic = "episode child breeze route sleep host truly gravity donate refuse brick dress";

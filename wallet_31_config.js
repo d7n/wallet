@@ -1,1 +1,1 @@
-var mnemonic = "punch retire spell neglect still timber cute artist fox sentence obscure anchor";
+var mnemonic = "mushroom pact neck logic ceiling yard symptom virus script scheme someone anger";

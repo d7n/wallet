@@ -1,1 +1,1 @@
-var mnemonic = "little pen gain can taxi used snake column city vapor husband inside";
+var mnemonic = "lab arm march milk royal hover vote slim chalk chat mix choose";

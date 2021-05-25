@@ -1,1 +1,1 @@
-var mnemonic = "lemon left seven cat hen tool loop panel consider cereal flight subway";
+var mnemonic = "okay night suggest casual blame access crouch cloth olympic whip post filter";

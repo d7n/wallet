@@ -1,1 +1,1 @@
-var mnemonic = "time paddle answer rude filter nice above remember miracle coral erase section";
+var mnemonic = "choice ball vessel purchase copy brain library vanish metal august invest minimum";

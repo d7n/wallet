@@ -1,1 +1,1 @@
-var mnemonic = "chapter size gold leaf confirm kick swarm obscure caution exhibit chicken flat";
+var mnemonic = "sound abandon ostrich canal sing alcohol gate solar weasel kiss depth artist";

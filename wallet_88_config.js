@@ -1,1 +1,1 @@
-var mnemonic = "marine humble stick noble pony grace damage gauge iron ketchup pyramid boy";
+var mnemonic = "pony cute crazy autumn battle scout bridge lottery initial input wink kingdom";

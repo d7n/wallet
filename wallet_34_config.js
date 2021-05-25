@@ -1,1 +1,1 @@
-var mnemonic = "fever chaos angry lecture soup loop tragic urge lawsuit evoke arch describe";
+var mnemonic = "search bulk win cement symbol similar perfect hotel avocado mix rule unveil";

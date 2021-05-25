@@ -1,1 +1,1 @@
-var mnemonic = "unlock twenty path depart emerge dash present fortune connect supreme foot remain";
+var mnemonic = "depart cannon thrive advice fetch nephew social veteran gallery tackle pumpkin receive";

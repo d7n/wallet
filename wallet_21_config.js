@@ -1,1 +1,1 @@
-var mnemonic = "dragon train card subway noble group brave initial top car elephant bulb";
+var mnemonic = "fragile page dove motor zoo hour result enhance curtain immense ahead stay";

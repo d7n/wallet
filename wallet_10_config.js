@@ -1,1 +1,1 @@
-var mnemonic = "hobby vicious assist position wood shop change gym drill bitter eye human";
+var mnemonic = "wall liberty shaft wedding about boat deny sing title link emerge uphold";

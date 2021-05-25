@@ -1,1 +1,1 @@
-var mnemonic = "machine actor dry siege steak awake indoor dance robust focus shell blanket";
+var mnemonic = "exchange ivory renew liberty gym clap fancy capital protect ask rigid clown";

@@ -1,1 +1,1 @@
-var mnemonic = "door metal know mansion multiply lady pencil undo either prosper fury assist";
+var mnemonic = "despair advance mask pave kiwi abuse normal panther once charge lion parent";

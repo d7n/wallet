@@ -1,1 +1,1 @@
-var mnemonic = "prefer acoustic brief man salon eager obtain stumble exit decorate fury april";
+var mnemonic = "chaos borrow armed link dismiss story cover winner remain adjust bundle guard";

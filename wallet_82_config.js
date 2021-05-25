@@ -1,1 +1,1 @@
-var mnemonic = "track review snack food mountain mesh visit vibrant ship vibrant zone summer";
+var mnemonic = "chimney wasp begin tank base salt dog roof never thrive green average";

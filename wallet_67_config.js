@@ -1,1 +1,1 @@
-var mnemonic = "borrow stamp best arm toy draft educate creek twelve stock staff error";
+var mnemonic = "stomach dance vessel nerve fade potato license tape beyond suit kick six";

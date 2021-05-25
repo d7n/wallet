@@ -1,1 +1,1 @@
-var mnemonic = "ostrich bleak scorpion buffalo civil dust must fruit alien awesome industry shy";
+var mnemonic = "ginger slim screen gap umbrella fun around reward myself butter hobby avoid";

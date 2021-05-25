@@ -1,1 +1,1 @@
-var mnemonic = "raise twice tape echo dolphin rich avoid auction word fringe april follow";
+var mnemonic = "purity canal erupt uniform dune acoustic edge hero ritual nerve exhaust absent";

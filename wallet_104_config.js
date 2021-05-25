@@ -1,1 +1,1 @@
-var mnemonic = "liar hope obvious plug sniff various lonely decade sustain hurdle ship timber";
+var mnemonic = "flat amused risk kitten solution shine future pink much rib pulp health";
