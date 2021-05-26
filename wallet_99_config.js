@@ -1,1 +1,1 @@
-var mnemonic = "color dog blind across ten bleak settle unique topple salt hedgehog special";
+var mnemonic = "scheme taxi shop entry poem image initial equal occur brother diesel cigar";

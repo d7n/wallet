@@ -1,1 +1,1 @@
-var mnemonic = "cost shrimp clog glow exit when depth priority good robot unfair expire";
+var mnemonic = "celery journey plate action angry cabin fitness tree raise nominee left two";

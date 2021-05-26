@@ -1,1 +1,1 @@
-var mnemonic = "find beauty identify steak odor year alert foster spatial awake blood jewel";
+var mnemonic = "jaguar youth poem ladder behave camera before account cause vapor slim legal";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket wage yard inflict sign resemble head matrix cancel brush category awesome";
+var mnemonic = "cousin much cat divorce island lyrics eyebrow team trade cage drum evidence";

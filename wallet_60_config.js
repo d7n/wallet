@@ -1,1 +1,1 @@
-var mnemonic = "mandate renew old evidence cigar sadness truly relax rotate opinion drum cram";
+var mnemonic = "picture avocado guard outer click joy honey decrease actor swamp about spend";

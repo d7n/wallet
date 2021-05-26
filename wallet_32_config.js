@@ -1,1 +1,1 @@
-var mnemonic = "multiply ability pottery husband asset argue victory wrong basic hour check cherry";
+var mnemonic = "figure usual fat police volcano occur fan yellow march age juice grape";

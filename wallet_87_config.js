@@ -1,1 +1,1 @@
-var mnemonic = "level worry visit marriage crucial shaft rule invest negative rifle toe moon";
+var mnemonic = "library play federal allow position surface wet spare online scrap mention shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "upper february erosion arrive toe police garment wheel company emerge unusual caution";
+var mnemonic = "post apart mad monitor blame bid cruise sunny side already review aerobic";

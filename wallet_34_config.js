@@ -1,1 +1,1 @@
-var mnemonic = "repair pave float pet candy obey fall nice huge liquid degree flee";
+var mnemonic = "lift present anger awake diagram sample curious soon rice blossom marble town";

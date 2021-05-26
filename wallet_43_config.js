@@ -1,1 +1,1 @@
-var mnemonic = "mushroom confirm prize grace color chimney over slot witness warrior lazy jazz";
+var mnemonic = "gentle flag void pelican today cotton royal apology youth various dutch chapter";

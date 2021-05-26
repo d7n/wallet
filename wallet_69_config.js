@@ -1,1 +1,1 @@
-var mnemonic = "reunion game noise idle tonight annual circle scan rib stone forward update";
+var mnemonic = "giant muscle weather language view chalk emotion online color ten ocean bronze";

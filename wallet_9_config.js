@@ -1,1 +1,1 @@
-var mnemonic = "mass sugar rather north bright chef worth mad wish surround mutual enroll";
+var mnemonic = "marble able favorite boss teach drive face spirit foster kite autumn lock";

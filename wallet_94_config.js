@@ -1,1 +1,1 @@
-var mnemonic = "aunt action pool crumble artefact two shuffle canyon sight pass staff genuine";
+var mnemonic = "cotton focus rifle chest whale clock file satoshi escape vehicle blouse front";

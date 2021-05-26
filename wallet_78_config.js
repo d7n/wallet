@@ -1,1 +1,1 @@
-var mnemonic = "analyst happy dumb scan welcome coach buffalo exclude venture runway ridge agree";
+var mnemonic = "reward flavor spend now whip health service anger profit school soup mind";

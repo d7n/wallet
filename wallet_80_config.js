@@ -1,1 +1,1 @@
-var mnemonic = "matter circle stable enough clump calm ranch deposit trim pluck honey sand";
+var mnemonic = "motion cheap drastic injury online federal bullet talent cover desk slush among";

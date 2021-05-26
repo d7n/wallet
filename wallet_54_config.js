@@ -1,1 +1,1 @@
-var mnemonic = "salt body leaf much forum enhance south talk gap busy cause follow";
+var mnemonic = "churn laugh float text hip warrior wear current load guard garage face";

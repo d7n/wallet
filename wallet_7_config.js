@@ -1,1 +1,1 @@
-var mnemonic = "sibling spread festival table talk now connect dolphin auto twin velvet unusual";
+var mnemonic = "asthma rich purpose category source fiscal play throw village syrup normal horn";

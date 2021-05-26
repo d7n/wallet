@@ -1,1 +1,1 @@
-var mnemonic = "illegal sphere arm depth topic wrestle cake gadget turn become behind buzz";
+var mnemonic = "mail inspire finish upon balance climb return airport album april actual nice";

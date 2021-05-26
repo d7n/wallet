@@ -1,1 +1,1 @@
-var mnemonic = "route trend diamond media box uncle seat remember burden rookie follow raw";
+var mnemonic = "loyal news rural small pupil provide weather ridge rude what enforce someone";

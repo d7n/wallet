@@ -1,1 +1,1 @@
-var mnemonic = "soul fence coach solid tiny demise matrix eye curve airport borrow turn";
+var mnemonic = "prison scene ketchup dove potato thank toddler siren twenty hold donate team";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate chalk loop one organ napkin reopen immune benefit half cute trigger";
+var mnemonic = "cross miss report mixed odor mixture excuse candy wage conduct tent roof";

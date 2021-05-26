@@ -1,1 +1,1 @@
-var mnemonic = "jar ignore stand source dry awkward begin pact ordinary pelican sample strong";
+var mnemonic = "eyebrow abstract inner session cave chest flower name limit donor carry arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion ritual reduce talent okay unaware gorilla shift diagram mix steak kitten";
+var mnemonic = "toss neither execute law assist head castle smoke exchange typical wise omit";

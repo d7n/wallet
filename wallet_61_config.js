@@ -1,1 +1,1 @@
-var mnemonic = "skirt wink below angry fog river match sign unaware goose dilemma napkin";
+var mnemonic = "normal hold scale tumble lobster please razor evidence cable season soldier flag";

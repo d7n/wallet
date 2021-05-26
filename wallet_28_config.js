@@ -1,1 +1,1 @@
-var mnemonic = "frame slide property amused someone predict tongue custom pact anxiety romance urge";
+var mnemonic = "build task start industry middle news parrot citizen offer derive lumber canal";

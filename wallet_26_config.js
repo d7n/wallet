@@ -1,1 +1,1 @@
-var mnemonic = "pass august proof entire stomach net lion february bring buddy thunder motor";
+var mnemonic = "until scene tube assist buyer scan fish clip hour craft pitch circle";

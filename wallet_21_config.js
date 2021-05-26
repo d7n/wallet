@@ -1,1 +1,1 @@
-var mnemonic = "garment half defy above cover glory cradle act seed sudden slight mean";
+var mnemonic = "define bargain live benefit draft fashion giraffe open deal satisfy oil coil";

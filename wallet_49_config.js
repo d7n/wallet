@@ -1,1 +1,1 @@
-var mnemonic = "alley assault join fuel patrol rebuild nuclear detect wheat accident inquiry federal";
+var mnemonic = "rent cluster oven control own surprise clinic icon soda ring seat trouble";

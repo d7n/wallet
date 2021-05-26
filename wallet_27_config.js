@@ -1,1 +1,1 @@
-var mnemonic = "tackle juice extend vehicle wrap kick review image isolate warrior hub time";
+var mnemonic = "benefit brown kind dinner okay enjoy result blur primary give wreck stem";

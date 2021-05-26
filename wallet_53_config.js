@@ -1,1 +1,1 @@
-var mnemonic = "review glow drum best disease media practice ladder dizzy lava easy subject";
+var mnemonic = "fun share lizard effort essence burst all jar quick olive harbor produce";

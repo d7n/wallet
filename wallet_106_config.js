@@ -1,1 +1,1 @@
-var mnemonic = "mimic drip garbage gesture trim quiz smooth raccoon truly praise resemble predict";
+var mnemonic = "banner grit lucky duty weasel airport flavor juice crowd error oblige wise";

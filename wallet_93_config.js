@@ -1,1 +1,1 @@
-var mnemonic = "arctic own enough predict defense any supreme issue hotel kidney resource vacant";
+var mnemonic = "approve require claw soccer indoor couch globe usage ivory scene powder bitter";

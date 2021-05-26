@@ -1,1 +1,1 @@
-var mnemonic = "predict raven purchase brother ticket gadget refuse bird pledge wash garden cake";
+var mnemonic = "sketch stairs napkin valve people future survey about canal cereal describe island";

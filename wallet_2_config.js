@@ -1,1 +1,1 @@
-var mnemonic = "idea crush leisure live dream travel ocean parrot useless snap stereo tool";
+var mnemonic = "render nation bracket wool brain inhale lyrics load fatal logic exchange yard";

@@ -1,1 +1,1 @@
-var mnemonic = "draft devote beach ignore ocean hard ready imitate essay pull cage inflict";
+var mnemonic = "gentle child aisle outer judge cancel educate chronic live visa flavor utility";

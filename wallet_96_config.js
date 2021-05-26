@@ -1,1 +1,1 @@
-var mnemonic = "also say holiday divert walk acid vessel degree shy truly rapid visit";
+var mnemonic = "begin cruel foot retire edit camera kid unknown advance atom finish spy";

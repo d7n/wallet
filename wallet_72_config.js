@@ -1,1 +1,1 @@
-var mnemonic = "crop vessel embark bicycle expire clean worth summer cash parent chimney world";
+var mnemonic = "horror easy fossil depend inhale unique carpet answer imitate twelve loop emerge";

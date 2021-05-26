@@ -1,1 +1,1 @@
-var mnemonic = "urban proof horn stone gift ridge relax crowd gift switch clinic hospital";
+var mnemonic = "ticket excess bid satoshi animal debate mention gap practice series such jealous";

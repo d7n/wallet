@@ -1,1 +1,1 @@
-var mnemonic = "law depth cage betray reject clinic bright bind return wealth february captain";
+var mnemonic = "chase mass actress drama absurd rabbit main clerk cash ill cereal click";

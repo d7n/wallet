@@ -1,1 +1,1 @@
-var mnemonic = "remember ability give range session crew depart you trip educate grant scrap";
+var mnemonic = "toward path screen talent cancel laundry park sport success hotel indoor slam";

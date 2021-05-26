@@ -1,1 +1,1 @@
-var mnemonic = "exile boost two champion harbor language absurd antenna know enrich unveil into";
+var mnemonic = "foot train ability wave tube carpet fall dial ride shell room equip";

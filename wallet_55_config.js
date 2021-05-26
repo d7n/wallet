@@ -1,1 +1,1 @@
-var mnemonic = "patrol crawl major cheap transfer inherit short modify job morning solve mammal";
+var mnemonic = "tone know occur credit stairs limit any pig kitchen awkward grunt become";

@@ -1,1 +1,1 @@
-var mnemonic = "grief chicken rose fashion dream mother dad suspect pact child card size";
+var mnemonic = "vintage tribe expose clarify nature salt pulse exotic parade pony space method";

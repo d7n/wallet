@@ -1,1 +1,1 @@
-var mnemonic = "helmet lounge sand dust poverty always evolve hunt canyon reopen often strong";
+var mnemonic = "survey knife world junk want chicken erase figure erase luggage thank today";

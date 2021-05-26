@@ -1,1 +1,1 @@
-var mnemonic = "crouch fragile clip absent palace trouble offer now recycle extend whip produce";
+var mnemonic = "clinic nasty attend close message mosquito retreat wedding hello motor symbol visa";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos ghost pride write offer return forum base this siege engage wink";
+var mnemonic = "give list sunset fox tunnel lion grain relief general grow already cruise";

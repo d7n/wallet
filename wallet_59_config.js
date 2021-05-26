@@ -1,1 +1,1 @@
-var mnemonic = "minor cherry same tired behave mix unveil garage achieve museum shop rotate";
+var mnemonic = "shaft vessel limb item glow snack range zoo impulse best become below";

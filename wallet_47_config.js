@@ -1,1 +1,1 @@
-var mnemonic = "subway identify require wire lyrics punch piano people earth stomach merge sheriff";
+var mnemonic = "empty anxiety ripple army index liquid joy breeze barrel junior relief rescue";

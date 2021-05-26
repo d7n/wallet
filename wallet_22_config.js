@@ -1,1 +1,1 @@
-var mnemonic = "right control stone broom hunt rebel ignore brown general quit result laugh";
+var mnemonic = "where weekend income tooth mother glove element glass slight talent multiply height";

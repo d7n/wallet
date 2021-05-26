@@ -1,1 +1,1 @@
-var mnemonic = "cage attitude pencil marine member hand waste task flat upper section light";
+var mnemonic = "sustain wink unusual say man naive pen eight public romance eight situate";

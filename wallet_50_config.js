@@ -1,1 +1,1 @@
-var mnemonic = "nice else mercy search permit snake before school notice course still battle";
+var mnemonic = "wash program ride that firm potato once parrot light match tomato grace";

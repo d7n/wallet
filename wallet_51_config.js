@@ -1,1 +1,1 @@
-var mnemonic = "cause chronic thank canyon scrap bind lecture april view point more learn";
+var mnemonic = "expand pistol cook flag round tell jeans welcome equal one uncle cushion";

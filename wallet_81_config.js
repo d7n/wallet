@@ -1,1 +1,1 @@
-var mnemonic = "spice lazy race reflect admit hub tired multiply analyst liberty final float";
+var mnemonic = "trip advice execute panel upset sick next animal jacket dad tumble key";

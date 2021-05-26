@@ -1,1 +1,1 @@
-var mnemonic = "perfect voice twin case deliver legal carry airport garden dynamic end excess";
+var mnemonic = "story mom utility word sponsor original cage regular chief gorilla stool track";

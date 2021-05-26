@@ -1,1 +1,1 @@
-var mnemonic = "fortune still blind absurd peasant upgrade wave engage carpet table maid bulb";
+var mnemonic = "swallow oblige desk garment play mail involve fiscal lucky above vapor door";

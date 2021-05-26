@@ -1,1 +1,1 @@
-var mnemonic = "receive wealth champion pen margin fall tourist section kingdom wrap sauce suspect";
+var mnemonic = "enjoy anchor green giggle kidney copper bulb feed fitness notice cement meadow";

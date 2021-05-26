@@ -1,1 +1,1 @@
-var mnemonic = "gaze fade market enjoy damage acid little chef basic convince globe bike";
+var mnemonic = "fury traffic barely impulse stem raccoon saddle only afraid plunge tired comic";

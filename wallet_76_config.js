@@ -1,1 +1,1 @@
-var mnemonic = "snow acid island chase before buyer flag picnic carbon sure antique unveil";
+var mnemonic = "result any banana cradle shoe common churn worry envelope crowd dove impose";

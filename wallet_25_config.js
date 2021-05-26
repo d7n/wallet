@@ -1,1 +1,1 @@
-var mnemonic = "fold interest agent skirt verb poverty fancy scan margin donor upset brass";
+var mnemonic = "absent width envelope trigger diet vocal group ski trust ribbon current march";

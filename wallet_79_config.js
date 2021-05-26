@@ -1,1 +1,1 @@
-var mnemonic = "horror theme slush shell artist typical empower educate student early sport midnight";
+var mnemonic = "cup subway sphere pelican usage claim fatigue wreck renew friend frozen erode";

@@ -1,1 +1,1 @@
-var mnemonic = "organ choice onion target under truck feel merit sketch tuna mango sense";
+var mnemonic = "canoe sentence believe focus all movie sail season supreme scatter device welcome";

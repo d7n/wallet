@@ -1,1 +1,1 @@
-var mnemonic = "present only stage alone pass phone hire excuse fly dash foil tobacco";
+var mnemonic = "material spin decorate notable crew jazz garlic bunker enlist audit taxi lake";

@@ -1,1 +1,1 @@
-var mnemonic = "myth shallow snake supply token plastic repeat bitter mistake early mistake boring";
+var mnemonic = "donor one other marble canal act frog orphan found refuse blush valve";

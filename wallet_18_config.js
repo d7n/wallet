@@ -1,1 +1,1 @@
-var mnemonic = "define choice large safe aerobic add way motor sand obey vehicle garage";
+var mnemonic = "stove bonus body casino ozone float sauce october once sport century finger";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie head track law evoke people jewel caution museum inch combine canoe";
+var mnemonic = "this lend unveil label glare enhance party nerve stem boil fox vital";

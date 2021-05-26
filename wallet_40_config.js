@@ -1,1 +1,1 @@
-var mnemonic = "dose news face song cruel rally always appear bridge cluster van rib";
+var mnemonic = "smile rhythm water sun clip fortune sadness license cupboard wood define sweet";

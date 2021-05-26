@@ -1,1 +1,1 @@
-var mnemonic = "receive mix aerobic destroy tired brick project jeans draft poem congress base";
+var mnemonic = "slush artist syrup clever recipe owner tell jar deposit inmate lake release";

@@ -1,1 +1,1 @@
-var mnemonic = "topple decline people bitter trade drama wing cement math pipe zoo miracle";
+var mnemonic = "dress dish stove era dinosaur cave trap fiber enact live wet under";

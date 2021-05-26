@@ -1,1 +1,1 @@
-var mnemonic = "wall cliff small midnight wise panther gate scheme acquire wet dentist fence";
+var mnemonic = "include myth crowd dry error spring video cluster fossil table toy patch";

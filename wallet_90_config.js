@@ -1,1 +1,1 @@
-var mnemonic = "submit napkin come life champion long fork oak gadget kiwi clerk planet";
+var mnemonic = "scan boost enjoy distance puzzle carry sweet chapter car sniff educate accident";

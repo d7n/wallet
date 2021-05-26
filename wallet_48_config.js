@@ -1,1 +1,1 @@
-var mnemonic = "library yellow round giggle also boss upgrade bitter slide nest piano easily";
+var mnemonic = "drop fitness nice okay spot gold legend pudding paddle soldier plug predict";

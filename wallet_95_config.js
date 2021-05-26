@@ -1,1 +1,1 @@
-var mnemonic = "stem often force polar giraffe actual scrap truth bring morning diesel actual";
+var mnemonic = "heavy pudding cement blur sentence demand beyond shove better speed symptom champion";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean action worth army differ wasp frost hard inside cliff tennis bamboo";
+var mnemonic = "embrace father child rely worry add current august youth know eyebrow tumble";

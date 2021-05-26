@@ -1,1 +1,1 @@
-var mnemonic = "zebra tell shop key fantasy horror sorry anger truck whip excuse lawsuit";
+var mnemonic = "spawn sun have club double barely slam middle execute candy foil verb";

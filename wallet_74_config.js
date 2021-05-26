@@ -1,1 +1,1 @@
-var mnemonic = "harsh zebra kitchen sick bargain destroy merit neglect galaxy marine venture load";
+var mnemonic = "hint special coil trouble garlic call furnace account display favorite retire alert";

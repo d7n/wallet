@@ -1,1 +1,1 @@
-var mnemonic = "food bone stem crop night clutch erupt young sunny beef embody glow";
+var mnemonic = "round mosquito powder end mail always retreat flush already vapor ability upper";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier impose mad abuse lounge cabbage bring spell future tenant draft more";
+var mnemonic = "divorce you dice latin hurry pen evidence strong twelve fire viable ivory";

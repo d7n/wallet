@@ -1,1 +1,1 @@
-var mnemonic = "solve display valid march quality bronze crazy protect few wonder join girl";
+var mnemonic = "donkey ecology sword enter arena gospel style sentence toward census hurry key";

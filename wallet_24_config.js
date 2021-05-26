@@ -1,1 +1,1 @@
-var mnemonic = "pigeon still eyebrow cancel solid aerobic danger bomb treat price almost skin";
+var mnemonic = "inch hidden ramp hedgehog away enjoy mercy shield project fan wreck tape";

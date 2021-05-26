@@ -1,1 +1,1 @@
-var mnemonic = "creek lava affair elevator happy push dash circle wolf cycle dragon oxygen";
+var mnemonic = "note what patrol sorry render curious deer extra dwarf tip neglect never";

@@ -1,1 +1,1 @@
-var mnemonic = "original squirrel copy visual hover resource local bid cloth snack kiwi knock";
+var mnemonic = "snack era hero toward secret enhance fiscal echo nuclear crumble danger audit";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry close discover armed curtain whale thumb job coast maple idea meadow";
+var mnemonic = "wait mix borrow swing ask dad damp destroy reform resemble seat name";

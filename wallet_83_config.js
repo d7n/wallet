@@ -1,1 +1,1 @@
-var mnemonic = "update slab funny check lottery lounge process inherit fashion close mirror spatial";
+var mnemonic = "basket air february tree solution tank shallow input magnet acoustic file guess";

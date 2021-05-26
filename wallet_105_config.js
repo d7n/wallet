@@ -1,1 +1,1 @@
-var mnemonic = "skill impulse task trophy tilt potato fragile almost marine point wife share";
+var mnemonic = "shoe across sort confirm also play mail ride poem across ladder absurd";

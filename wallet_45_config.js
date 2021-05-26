@@ -1,1 +1,1 @@
-var mnemonic = "frequent refuse system fuel catch junior rival filter mystery love shoot glance";
+var mnemonic = "slight narrow live torch pact smooth describe educate success elevator body hill";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin make scheme float patch melt dutch digital rail swift sudden trap";
+var mnemonic = "shop boost dinosaur pioneer crew fog aware hill desk apart minute abuse";

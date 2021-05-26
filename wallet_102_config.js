@@ -1,1 +1,1 @@
-var mnemonic = "junk zero negative marine good sick liquid lamp guard pottery scout abandon";
+var mnemonic = "spy lab foster slogan tag riot around train icon edit issue flip";

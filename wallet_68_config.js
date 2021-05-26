@@ -1,1 +1,1 @@
-var mnemonic = "disagree program grit thumb sell shrug lunch wreck victory betray another false";
+var mnemonic = "wear select denial symptom jazz social maximum park display type fall recall";
