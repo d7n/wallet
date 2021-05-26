@@ -1,1 +1,1 @@
-var mnemonic = "cereal monster above gun option tortoise lake lawn blast search general open";
+var mnemonic = "inhale nut display payment silly drastic blind song solution ancient nature cheap";

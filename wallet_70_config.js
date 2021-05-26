@@ -1,1 +1,1 @@
-var mnemonic = "denial dinosaur course change toilet skill wash nominee rigid situate fringe search";
+var mnemonic = "curve inspire guitar pluck winter joke powder often deputy model govern science";

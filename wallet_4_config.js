@@ -1,1 +1,1 @@
-var mnemonic = "essence team canal poverty indoor patch olympic town delay loop crew shift";
+var mnemonic = "pulp gift black limb neither nothing grape giggle apple lamp choose carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs clap praise undo ski gorilla leopard banana vote toward advice mystery";
+var mnemonic = "lottery banner hurry eye about seminar six cruise cousin milk memory early";

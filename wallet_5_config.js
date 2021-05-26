@@ -1,1 +1,1 @@
-var mnemonic = "regular weather acquire illegal tool sock build beef chalk way kiss snack";
+var mnemonic = "fall guilt stomach bomb rookie abuse oval consider program news farm twenty";

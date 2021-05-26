@@ -1,1 +1,1 @@
-var mnemonic = "twice young embark inmate enroll voyage vote sunny grit mask police fun";
+var mnemonic = "grunt seek worth approve reward decorate soldier reward angry script original vessel";

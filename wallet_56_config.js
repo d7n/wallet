@@ -1,1 +1,1 @@
-var mnemonic = "word reunion play angle eye art stereo rail cheap struggle distance afford";
+var mnemonic = "famous focus supply then wish lottery survey feature cement scrap luggage hen";

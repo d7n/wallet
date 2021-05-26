@@ -1,1 +1,1 @@
-var mnemonic = "resist soccer one accident ignore tiny base develop edge humble advice dream";
+var mnemonic = "jaguar border solar reward settle country wealth coach marine fresh dutch soup";

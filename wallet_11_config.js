@@ -1,1 +1,1 @@
-var mnemonic = "shoot sick claw wisdom initial fold carbon silly kid before door claw";
+var mnemonic = "club target payment multiply warrior north trim pink wrong hair dynamic maple";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery purpose course wine suggest wrong very broom satoshi shop hair pepper";
+var mnemonic = "baby unusual ginger solid obtain mad size boil ginger dynamic cute west";

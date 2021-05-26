@@ -1,1 +1,1 @@
-var mnemonic = "stamp speed bike radio beyond stumble clever very regret retreat flush horse";
+var mnemonic = "dress during riot garden airport rifle ordinary asthma write hand best alert";

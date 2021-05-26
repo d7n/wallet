@@ -1,1 +1,1 @@
-var mnemonic = "march target elbow prepare ripple detect core target joy pretty shine tower";
+var mnemonic = "special wave ceiling hammer cradle change gasp chapter latin depth wagon paddle";

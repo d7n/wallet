@@ -1,1 +1,1 @@
-var mnemonic = "tilt student winner expose impulse grid pyramid erode job tide hint alone";
+var mnemonic = "now calm earn owner inspire grid cereal common thunder monster hobby clip";

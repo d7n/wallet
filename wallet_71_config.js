@@ -1,1 +1,1 @@
-var mnemonic = "moral mass lottery express sunset month scale multiply loyal recipe pepper intact";
+var mnemonic = "muffin panther abandon fury almost bring artefact lake can common exact doll";

@@ -1,1 +1,1 @@
-var mnemonic = "senior ten major federal inflict mask question giraffe swarm town lesson snack";
+var mnemonic = "soon only wrist sniff found shop demand lottery language ignore unfold cliff";

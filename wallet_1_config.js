@@ -1,1 +1,1 @@
-var mnemonic = "vague bridge grocery youth forward husband potato rifle peasant visit arm mix";
+var mnemonic = "wall punch beach size anger twin friend program snack kitten era tobacco";

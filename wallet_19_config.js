@@ -1,1 +1,1 @@
-var mnemonic = "matter canvas caution core dream now guilt enemy spot mimic net swarm";
+var mnemonic = "ticket public badge reduce trap clerk despair change crime blade cave extend";

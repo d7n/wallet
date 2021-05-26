@@ -1,1 +1,1 @@
-var mnemonic = "garment stuff shed tone bring crane mammal limit embark woman jealous filter";
+var mnemonic = "find meat wet stem cart donkey label meat success output pride outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "involve motor mom volcano orient provide brown duty damage sustain mistake urge";
+var mnemonic = "destroy large fire six surge gun finish like example false stove rookie";

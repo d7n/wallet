@@ -1,1 +1,1 @@
-var mnemonic = "wonder audit convince poet clap that paddle dish weather inquiry advice kick";
+var mnemonic = "fuel you maximum regret penalty wink neither like soul fatal kick page";

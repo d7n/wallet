@@ -1,1 +1,1 @@
-var mnemonic = "dirt argue section purity spot flame about wet machine swamp caution thrive";
+var mnemonic = "differ control cool vicious chair divorce comic wonder bargain rookie view stand";

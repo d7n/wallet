@@ -1,1 +1,1 @@
-var mnemonic = "rare load virtual predict tower board april domain valve shoot chronic casual";
+var mnemonic = "toddler soldier organ echo idle stand syrup fuel regret love foil throw";

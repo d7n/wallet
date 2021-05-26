@@ -1,1 +1,1 @@
-var mnemonic = "original jewel forward any essence satoshi avoid grab family sniff call crawl";
+var mnemonic = "swallow mind mandate choice choice brush region oppose boring satisfy picnic hawk";

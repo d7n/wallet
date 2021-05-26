@@ -1,1 +1,1 @@
-var mnemonic = "slice panther excess gossip tilt offer perfect toy float dash purchase camp";
+var mnemonic = "shrimp pause energy lens describe meadow hedgehog protect dizzy cage warrior avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "crop butter ghost fish shift much rose brother off stomach home seed";
+var mnemonic = "quarter text brush test pave merit nut electric security brave movie aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "file force intact child flag myth energy whale piece aim core toilet";
+var mnemonic = "crucial settle gift alter among alarm assist picture kitchen piece region comic";

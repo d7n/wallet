@@ -1,1 +1,1 @@
-var mnemonic = "pact ritual female rely thumb begin concert crawl mule tag soldier lion";
+var mnemonic = "say dog trade tongue clerk adapt frozen vacant surprise submit spend addict";

@@ -1,1 +1,1 @@
-var mnemonic = "concert claw join buzz evolve punch reason meadow image cabbage two parrot";
+var mnemonic = "member clutch coin fence file fold ozone pencil then fragile garage camp";

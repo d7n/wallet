@@ -1,1 +1,1 @@
-var mnemonic = "digital shock open steel lake turkey blood turtle meat ketchup talent trim";
+var mnemonic = "brave whip onion balcony response jewel ostrich clog actress island walnut napkin";

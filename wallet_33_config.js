@@ -1,1 +1,1 @@
-var mnemonic = "riot story category decide address very animal country ill traffic jar echo";
+var mnemonic = "mother duty carry grape mansion buddy federal soccer gossip blanket desk also";

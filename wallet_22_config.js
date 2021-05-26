@@ -1,1 +1,1 @@
-var mnemonic = "transfer fix rose rookie school chat budget vast grocery city deny mechanic";
+var mnemonic = "hurry foam season perfect bird wide cart patch useless remain filter sick";

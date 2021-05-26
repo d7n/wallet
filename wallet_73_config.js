@@ -1,1 +1,1 @@
-var mnemonic = "coral shove history left language siege shoulder course nephew vanish loop feature";
+var mnemonic = "soda regret ranch album all business wheel domain trial tool split oil";

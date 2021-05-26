@@ -1,1 +1,1 @@
-var mnemonic = "bounce cactus crumble version vintage elegant priority clarify adjust sing pepper unusual";
+var mnemonic = "blouse umbrella wide alcohol wealth gauge visa stand decade mobile trend pull";

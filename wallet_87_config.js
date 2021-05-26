@@ -1,1 +1,1 @@
-var mnemonic = "syrup certain shiver fold captain gallery sun become drive clip romance best";
+var mnemonic = "tiger ugly room slot usual burden artwork regular gown zone knee aisle";

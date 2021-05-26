@@ -1,1 +1,1 @@
-var mnemonic = "arrange attack holiday valid miracle jewel net treat gym manage sunset cave";
+var mnemonic = "zoo punch act cheap endorse bid tenant civil guide sheriff regret throw";

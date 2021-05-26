@@ -1,1 +1,1 @@
-var mnemonic = "aim inquiry clog cry excess more chuckle absent wage surround ankle wrist";
+var mnemonic = "sausage accident picnic seed know shift say require approve bind modify lyrics";

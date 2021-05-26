@@ -1,1 +1,1 @@
-var mnemonic = "gain vast delay piece person barrel bulk grief pencil crater gift receive";
+var mnemonic = "dizzy essay whisper zoo piece rival upper wish method another electric main";

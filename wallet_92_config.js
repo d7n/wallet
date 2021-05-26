@@ -1,1 +1,1 @@
-var mnemonic = "tide hip unveil clinic clean fringe before annual pear faculty prize obvious";
+var mnemonic = "eight effort awkward pear thought fatal search duck burden diamond evoke calm";

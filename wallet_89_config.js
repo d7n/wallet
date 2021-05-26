@@ -1,1 +1,1 @@
-var mnemonic = "grow modify sand bubble car echo gift because reason motion filter boss";
+var mnemonic = "derive layer unfold north win blue danger sound display convince narrow enemy";

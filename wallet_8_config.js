@@ -1,1 +1,1 @@
-var mnemonic = "whip frog jewel move shoot spike trumpet pioneer private perfect august type";
+var mnemonic = "trial puppy dolphin eager jungle favorite oak bean biology buddy myself gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "company kidney apple include zero verify hand name rain sail around bike";
+var mnemonic = "coast frozen clap tonight connect bring embody surround praise quote dawn enter";

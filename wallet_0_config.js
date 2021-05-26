@@ -1,1 +1,1 @@
-var mnemonic = "hip mother illness tragic address husband fossil midnight they almost improve become";
+var mnemonic = "grow uniform fit damp gown novel digital maximum wrist advance arm person";

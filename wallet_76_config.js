@@ -1,1 +1,1 @@
-var mnemonic = "ahead top victory wonder test cement warm letter license garment ring clutch";
+var mnemonic = "lock labor job sting green hint caution sand draw melody any during";

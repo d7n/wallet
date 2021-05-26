@@ -1,1 +1,1 @@
-var mnemonic = "file bitter forward liquid north mechanic actor middle talk job unusual hole";
+var mnemonic = "axis volcano motion mad birth plate patrol dentist provide jealous camp donkey";

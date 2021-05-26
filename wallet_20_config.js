@@ -1,1 +1,1 @@
-var mnemonic = "solar betray can insane leisure tank hope gorilla fantasy fame manual trip";
+var mnemonic = "flip tonight buddy buyer bridge disagree truck require near upper safe pool";

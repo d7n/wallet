@@ -1,1 +1,1 @@
-var mnemonic = "sugar abandon mask concert benefit bulk royal note spirit patrol curtain dirt";
+var mnemonic = "humor wisdom pottery barrel reveal industry gold chuckle infant gain success drill";

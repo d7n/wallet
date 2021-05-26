@@ -1,1 +1,1 @@
-var mnemonic = "card jaguar economy bacon badge saddle insect offer pistol faculty cement memory";
+var mnemonic = "build awake course valley cry neck achieve session caution napkin trigger wait";

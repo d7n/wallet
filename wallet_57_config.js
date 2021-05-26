@@ -1,1 +1,1 @@
-var mnemonic = "camera reopen modify void problem melody roof mesh gaze harvest practice gallery";
+var mnemonic = "human crop six wait dust essay trumpet squirrel neither round bubble stereo";

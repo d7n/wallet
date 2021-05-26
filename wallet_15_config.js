@@ -1,1 +1,1 @@
-var mnemonic = "limb actor ancient day dragon dinner universe supply surprise vendor magnet praise";
+var mnemonic = "crawl cute yard student fame food inquiry stadium own ethics earth toilet";

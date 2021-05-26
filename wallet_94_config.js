@@ -1,1 +1,1 @@
-var mnemonic = "diagram exile tennis delay room add suffer lizard cricket more patch embrace";
+var mnemonic = "song virus oppose satoshi gold rival what focus empower trim fan baby";

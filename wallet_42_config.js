@@ -1,1 +1,1 @@
-var mnemonic = "honey foil noodle liquid early human aware vintage long organ mouse multiply";
+var mnemonic = "renew face hurt radio simple purity rapid orbit few coyote mirror wash";

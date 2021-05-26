@@ -1,1 +1,1 @@
-var mnemonic = "wolf mercy project hint color quick depend solar region just bounce basic";
+var mnemonic = "pretty spatial jaguar you goat crawl display drift neutral first distance school";

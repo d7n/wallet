@@ -1,1 +1,1 @@
-var mnemonic = "leader until hood curve pistol bacon begin fly business release leisure emotion";
+var mnemonic = "dance affair design blue powder eyebrow mix sudden wide universe girl reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "click wealth thrive denial paper dragon issue invite people month staff height";
+var mnemonic = "onion picture skirt cactus warfare child eager baby merge impact ahead clutch";

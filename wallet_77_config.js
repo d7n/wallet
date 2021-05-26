@@ -1,1 +1,1 @@
-var mnemonic = "mind flash nasty dress open damp found wink hello chunk pudding arrow";
+var mnemonic = "fatal mixture mutual guess crystal toy drama frozen pony mean swear festival";

@@ -1,1 +1,1 @@
-var mnemonic = "grape diamond captain enrich shift rice keen disease page because ahead critic";
+var mnemonic = "unhappy entire lock party patient area shift awful flower recall near else";

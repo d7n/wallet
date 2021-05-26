@@ -1,1 +1,1 @@
-var mnemonic = "olympic afraid odor prize orchard source orchard warfare typical useful provide brain";
+var mnemonic = "middle soda child photo taste wear fox cotton draw found junior nuclear";

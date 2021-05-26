@@ -1,1 +1,1 @@
-var mnemonic = "amazing snap cream obtain beef coach sniff buffalo present burger plastic helmet";
+var mnemonic = "negative six neck result happy steak elder hub rigid pottery enable model";

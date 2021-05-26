@@ -1,1 +1,1 @@
-var mnemonic = "supreme embody light cabin globe mutual inch false bacon now matrix hood";
+var mnemonic = "raccoon return puppy robot convince settle predict twist close emerge virus slot";

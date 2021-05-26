@@ -1,1 +1,1 @@
-var mnemonic = "basic miss genuine language occur grit logic hospital hip finish gym cost";
+var mnemonic = "art chuckle exit annual cat object shift athlete point news travel text";

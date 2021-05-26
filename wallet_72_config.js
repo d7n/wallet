@@ -1,1 +1,1 @@
-var mnemonic = "various cute viable pear fire warrior reduce bless mansion judge mom little";
+var mnemonic = "green flight infant ritual gown violin better try cave dismiss sign various";

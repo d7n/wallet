@@ -1,1 +1,1 @@
-var mnemonic = "world fever night stomach smoke time load eyebrow face boring engage funny";
+var mnemonic = "floor must taxi zone relax nothing exact sad wrong about decide fence";

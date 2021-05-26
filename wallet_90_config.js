@@ -1,1 +1,1 @@
-var mnemonic = "detail alone december horn unhappy toy road average horn afford approve logic";
+var mnemonic = "alone loop key shoot romance attend pyramid around truth pudding snow art";

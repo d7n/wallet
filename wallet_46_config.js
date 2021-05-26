@@ -1,1 +1,1 @@
-var mnemonic = "nothing fabric drip unfair panther dish frozen orange laptop length penalty coach";
+var mnemonic = "time armed ancient pill chat regular suffer proof inch distance just record";

@@ -1,1 +1,1 @@
-var mnemonic = "panel rural submit note wealth oyster north increase tunnel there height notice";
+var mnemonic = "bundle flash tail friend movie rent lobster tiger aisle live impact fuel";

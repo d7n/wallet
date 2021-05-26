@@ -1,1 +1,1 @@
-var mnemonic = "worth horror version soon federal page illness local lake artist prison turtle";
+var mnemonic = "innocent bubble matter original romance issue lens phone exact twelve when exclude";

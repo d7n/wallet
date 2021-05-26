@@ -1,1 +1,1 @@
-var mnemonic = "cargo witness coast ill where disagree sorry path crunch airport escape magic";
+var mnemonic = "collect gain melody journey raw term circle shove shed hope double visa";

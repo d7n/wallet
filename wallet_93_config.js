@@ -1,1 +1,1 @@
-var mnemonic = "solve they awful business someone armed notable orbit clerk spatial hammer typical";
+var mnemonic = "debris idle begin shrug post gentle dentist bubble pen crouch solve glass";

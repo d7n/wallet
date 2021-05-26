@@ -1,1 +1,1 @@
-var mnemonic = "guard horse wife pond moral copper clerk tail radio focus resemble culture";
+var mnemonic = "cabin domain crazy clown scrap swamp alcohol hockey effort expand recycle soup";

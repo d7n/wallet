@@ -1,1 +1,1 @@
-var mnemonic = "blind strategy chase employ sniff energy motor excuse produce correct equip coral";
+var mnemonic = "coast wet charge industry liar normal focus meadow little dust almost pond";

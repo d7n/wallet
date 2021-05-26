@@ -1,1 +1,1 @@
-var mnemonic = "cycle announce illness build regular jazz glory nut crush two hero tumble";
+var mnemonic = "spread leopard spin skate enable gym muffin lucky family turkey point future";

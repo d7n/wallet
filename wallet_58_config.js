@@ -1,1 +1,1 @@
-var mnemonic = "palm outside spot credit kick perfect universe alone shiver diesel gasp quality";
+var mnemonic = "same require plunge brush clip rotate unveil chaos custom quote hundred leisure";

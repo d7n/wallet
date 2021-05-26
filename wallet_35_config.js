@@ -1,1 +1,1 @@
-var mnemonic = "wine lend cost orphan wide unable oppose radio forum finger naive stay";
+var mnemonic = "risk skull tragic vault toy brush mixture alarm indoor profit pyramid execute";

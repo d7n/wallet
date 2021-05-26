@@ -1,1 +1,1 @@
-var mnemonic = "radar step call goose scrap dream pilot assume second end sign fragile";
+var mnemonic = "enforce main asset awful celery sign vibrant sock else wreck obtain total";

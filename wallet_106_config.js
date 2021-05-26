@@ -1,1 +1,1 @@
-var mnemonic = "elite public invest sibling question genuine food code exhibit kid fatal resource";
+var mnemonic = "shop clown magnet oval best begin left large alone grace begin misery";

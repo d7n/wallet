@@ -1,1 +1,1 @@
-var mnemonic = "pudding rapid omit swift drop whale reason jewel various latin access shaft";
+var mnemonic = "force citizen kind wild grow affair gather conduct wagon vibrant sniff member";

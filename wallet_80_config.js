@@ -1,1 +1,1 @@
-var mnemonic = "inspire moral kidney snow enemy dutch pottery walk tornado sign rifle forward";
+var mnemonic = "guard prison top wolf bulk grain matter gap write infant night dilemma";

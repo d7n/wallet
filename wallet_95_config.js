@@ -1,1 +1,1 @@
-var mnemonic = "present thought such alarm sort broccoli smart kick language actor primary depart";
+var mnemonic = "acquire school stock grace either uphold bundle over write slot audit regular";

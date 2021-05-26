@@ -1,1 +1,1 @@
-var mnemonic = "soap sell argue raven gain copper increase exist brown bubble wood craft";
+var mnemonic = "shoulder version old couch urban toe daughter pilot ancient stamp amateur sausage";

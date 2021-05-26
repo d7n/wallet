@@ -1,1 +1,1 @@
-var mnemonic = "patch hero much impact pulp powder acoustic cage crop jeans feed more";
+var mnemonic = "margin stereo cup marine display female position winner throw burst flight prefer";

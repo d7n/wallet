@@ -1,1 +1,1 @@
-var mnemonic = "dance daughter maid amateur inspire taxi tumble laundry minimum liar color zoo";
+var mnemonic = "goddess large immense raccoon boy gym mirror magic spare napkin profit potato";

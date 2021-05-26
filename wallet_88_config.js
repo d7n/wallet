@@ -1,1 +1,1 @@
-var mnemonic = "small sorry flee perfect around ten kiss long junk creek claim require";
+var mnemonic = "buzz immune choose shoe sense poem lesson desert library frequent marine vanish";

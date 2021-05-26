@@ -1,1 +1,1 @@
-var mnemonic = "like pitch sort aware potato vibrant evidence fog label patient loan farm";
+var mnemonic = "fiber purchase physical jacket void shaft private cake people mirror spin bottom";

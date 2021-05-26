@@ -1,1 +1,1 @@
-var mnemonic = "empty bind monkey display room simple flash myself record jump will basic";
+var mnemonic = "iron trumpet arena charge when flush dust habit slow divide display story";

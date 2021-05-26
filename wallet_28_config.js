@@ -1,1 +1,1 @@
-var mnemonic = "next room dream party subway labor ticket region frame amazing near obscure";
+var mnemonic = "jeans frog model snake fat coyote bring engage forget used bind siren";

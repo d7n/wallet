@@ -1,1 +1,1 @@
-var mnemonic = "math roast nice plastic kingdom carry woman word ecology mad they pen";
+var mnemonic = "route squirrel crater camera final used flash pony reunion scan response buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "trim media upset tent spring flight employ rack cat group resist pledge";
+var mnemonic = "clip universe hamster image drop force season dynamic sugar spend race hollow";

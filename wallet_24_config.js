@@ -1,1 +1,1 @@
-var mnemonic = "parent job wealth able surprise actor design govern live give spell prosper";
+var mnemonic = "junior trap stem run century honey mammal chronic reveal bubble venture rubber";

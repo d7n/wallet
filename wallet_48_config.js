@@ -1,1 +1,1 @@
-var mnemonic = "chunk sock liquid pitch loud pool burden soccer odor tonight length option";
+var mnemonic = "police reunion crucial north slush ozone torch film bulk venture vital earn";

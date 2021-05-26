@@ -1,1 +1,1 @@
-var mnemonic = "shaft target betray soap squeeze ranch warrior major such citizen valid library";
+var mnemonic = "wool arch glide girl crime great pizza side cabin comfort real tumble";

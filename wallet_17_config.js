@@ -1,1 +1,1 @@
-var mnemonic = "measure junk lawsuit element guard chef detail shoe hundred hold label swarm";
+var mnemonic = "hour city space shop tiger sphere future okay never eye involve sword";
