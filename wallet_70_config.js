@@ -1,1 +1,1 @@
-var mnemonic = "blue ostrich science kingdom replace square review pigeon sniff sunset sadness tonight";
+var mnemonic = "disorder figure clock wagon camera undo chuckle talk library box thing unfold";

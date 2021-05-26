@@ -1,1 +1,1 @@
-var mnemonic = "worth three meadow bomb turn unaware view moral same grape stove topic";
+var mnemonic = "demise salmon debate sock powder since view flip shuffle essence spot smile";

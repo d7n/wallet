@@ -1,1 +1,1 @@
-var mnemonic = "timber ask toss piano food element fit poet coral honey twenty base";
+var mnemonic = "tornado virtual amount subway capital cigar excuse goddess decrease other cigar grab";

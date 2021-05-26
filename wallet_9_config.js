@@ -1,1 +1,1 @@
-var mnemonic = "because increase surface famous ready private usual garbage thumb eternal main address";
+var mnemonic = "traffic ball kiwi certain insane sketch step satoshi exist tide error crop";

@@ -1,1 +1,1 @@
-var mnemonic = "weird under leaf brush casino furnace profit dentist barrel use this truck";
+var mnemonic = "swim sleep post master dove toast order lemon furnace bracket bind sentence";

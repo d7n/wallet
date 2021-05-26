@@ -1,1 +1,1 @@
-var mnemonic = "electric earn supply kiss blast note actress august where flip jealous yellow";
+var mnemonic = "chunk vanish mention table gain memory mad soon satisfy inspire expire consider";

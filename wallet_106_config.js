@@ -1,1 +1,1 @@
-var mnemonic = "slide negative west innocent lake ask road gorilla come banner border symbol";
+var mnemonic = "sound behind utility identify gallery tonight cattle true gym powder false direct";

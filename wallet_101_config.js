@@ -1,1 +1,1 @@
-var mnemonic = "address dirt door filter alcohol total mom agent puppy organ giraffe salad";
+var mnemonic = "dawn ship wise recycle among sleep found ghost average junior riot join";

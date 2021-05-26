@@ -1,1 +1,1 @@
-var mnemonic = "belt drum drill hair mesh act debris cruel sunny sister coast make";
+var mnemonic = "devote fame outer shock search whip bachelor boring kitchen gossip prison capable";

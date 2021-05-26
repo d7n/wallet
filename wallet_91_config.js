@@ -1,1 +1,1 @@
-var mnemonic = "mammal summer unusual blossom decide umbrella weather student aisle answer carpet exist";
+var mnemonic = "ghost want broccoli real decrease hybrid truly unlock rule another daring cloud";

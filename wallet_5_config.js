@@ -1,1 +1,1 @@
-var mnemonic = "student surface decide verify bundle almost minor banana able cool debris rabbit";
+var mnemonic = "chase dust quarter frame supply author panther home dilemma dove hero glare";

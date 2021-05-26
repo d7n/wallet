@@ -1,1 +1,1 @@
-var mnemonic = "circle chase evil love shoe pizza stuff depend occur helmet shrimp canoe";
+var mnemonic = "north call present quarter jealous thing defy very neglect uncover hip danger";

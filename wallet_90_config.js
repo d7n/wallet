@@ -1,1 +1,1 @@
-var mnemonic = "intact stock voyage pear shaft sadness give dynamic skill aspect peace royal";
+var mnemonic = "worth guide lunch bicycle more shift toast month combine decrease sniff depend";

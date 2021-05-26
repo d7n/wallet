@@ -1,1 +1,1 @@
-var mnemonic = "differ bounce later pet disorder jaguar fog mimic require bid fever energy";
+var mnemonic = "three skate tonight kid fancy city bronze hood airport sample toy pond";

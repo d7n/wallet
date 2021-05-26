@@ -1,1 +1,1 @@
-var mnemonic = "boss harsh sport miss addict pave bonus exclude burger return coral credit";
+var mnemonic = "soft rib ugly layer sell goat infant taxi announce despair fetch isolate";

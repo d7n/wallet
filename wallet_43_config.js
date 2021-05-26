@@ -1,1 +1,1 @@
-var mnemonic = "code behind panel endorse twin tell artwork indoor marriage six pudding remain";
+var mnemonic = "lumber blue wagon prison dismiss burst attitude bread sphere human cloud together";

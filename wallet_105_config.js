@@ -1,1 +1,1 @@
-var mnemonic = "yellow decline rifle town cinnamon raccoon advice sting spin buyer quantum quiz";
+var mnemonic = "copper inhale thunder attend jungle enforce float glance fee object nothing deputy";

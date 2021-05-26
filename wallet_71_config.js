@@ -1,1 +1,1 @@
-var mnemonic = "dish winter kitten siren disagree february genius census toilet anchor glass brief";
+var mnemonic = "vapor half rifle bullet gold risk hub alarm rough orchard robot bracket";

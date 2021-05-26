@@ -1,1 +1,1 @@
-var mnemonic = "unique first remember teach space high three clay crystal chief clock cabin";
+var mnemonic = "minute primary eagle limb cake unusual canvas capital frost agent gesture cupboard";

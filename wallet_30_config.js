@@ -1,1 +1,1 @@
-var mnemonic = "box word present velvet marble state captain dune trade utility rich agree";
+var mnemonic = "solid state trophy portion afraid congress embrace mercy push menu glad guide";

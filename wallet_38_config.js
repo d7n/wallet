@@ -1,1 +1,1 @@
-var mnemonic = "lady solution people toe album panda devote physical digital floor seed shove";
+var mnemonic = "album grain quarter venue layer room snap craft example orient august famous";

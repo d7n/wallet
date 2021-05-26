@@ -1,1 +1,1 @@
-var mnemonic = "win change unique sister someone crew spice very nephew call detail alter";
+var mnemonic = "grit soon swing include clerk foam suspect potato trumpet dizzy trim tip";

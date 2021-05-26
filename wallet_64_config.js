@@ -1,1 +1,1 @@
-var mnemonic = "example alter add stereo lucky wink invite sadness elevator credit example drip";
+var mnemonic = "ritual eager draw prefer feed reflect erosion toe imitate split strategy stereo";

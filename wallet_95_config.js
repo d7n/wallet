@@ -1,1 +1,1 @@
-var mnemonic = "powder uncle real final pave glare bargain cage slab venture elite era";
+var mnemonic = "purchase position broom vintage happy share lens number liberty cousin rhythm slim";

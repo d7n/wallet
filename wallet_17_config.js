@@ -1,1 +1,1 @@
-var mnemonic = "remove utility parade over sell fun immune fish foam swift other beyond";
+var mnemonic = "apple hover chuckle point speak exact omit vanish sure sorry cook skate";

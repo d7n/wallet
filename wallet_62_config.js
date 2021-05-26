@@ -1,1 +1,1 @@
-var mnemonic = "motion either suffer fish climb dumb where tired aerobic love prize old";
+var mnemonic = "will bring culture viable insane advance census crumble jealous hello fatal wood";

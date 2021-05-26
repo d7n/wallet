@@ -1,1 +1,1 @@
-var mnemonic = "destroy slam thunder mystery regret dash caught wrong tooth round human lift";
+var mnemonic = "wear addict must aunt palm average forest belt outdoor chunk want live";

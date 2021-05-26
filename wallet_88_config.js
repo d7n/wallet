@@ -1,1 +1,1 @@
-var mnemonic = "describe upgrade fire park pony prefer snow unusual circle protect kiss patient";
+var mnemonic = "illness response liquid success castle humor devote domain cushion elite test end";

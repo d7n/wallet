@@ -1,1 +1,1 @@
-var mnemonic = "estate guitar plastic bind scene avoid young donate way hawk tourist antique";
+var mnemonic = "mandate opera first air birth bounce fashion iron doll asset banana transfer";

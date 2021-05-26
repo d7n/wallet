@@ -1,1 +1,1 @@
-var mnemonic = "snow album square embrace artwork escape beef quote help impulse glad exit";
+var mnemonic = "define key segment window menu shallow camera slide glow sweet clip student";

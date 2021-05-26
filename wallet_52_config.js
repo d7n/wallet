@@ -1,1 +1,1 @@
-var mnemonic = "busy hungry host lens arctic bid arrow control orbit domain effort pledge";
+var mnemonic = "mouse notice sugar virus today lift mule fever stock crawl add then";

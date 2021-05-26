@@ -1,1 +1,1 @@
-var mnemonic = "time debris aim invite pilot faith original defy success fashion town diamond";
+var mnemonic = "inflict net rain ramp tortoise shoot wonder hedgehog derive belt filter maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "side decide bacon industry child empower ramp nest old fat path flight";
+var mnemonic = "peasant erase side vendor steak hip evolve knife sudden hover pizza region";

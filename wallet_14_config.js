@@ -1,1 +1,1 @@
-var mnemonic = "degree fancy banana tomato open edge worth aisle student cat album donor";
+var mnemonic = "shift argue forget organ loud limit salon enforce child token hair plug";

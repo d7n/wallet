@@ -1,1 +1,1 @@
-var mnemonic = "dry nephew combine student slush cradle cradle jewel gorilla scan logic debris";
+var mnemonic = "daughter age weather ten connect index dash direct strike stereo ankle tragic";

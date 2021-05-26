@@ -1,1 +1,1 @@
-var mnemonic = "icon tray harvest vintage skill harvest tissue topple impose mule hobby edge";
+var mnemonic = "good piano work sad doll deposit struggle tornado horn polar tone verify";

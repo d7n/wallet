@@ -1,1 +1,1 @@
-var mnemonic = "hurdle unit stand trumpet tank swing pig ride depart dune obey time";
+var mnemonic = "snack barrel arch kiwi tail basket topic sea calm orbit cloth siren";

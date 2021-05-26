@@ -1,1 +1,1 @@
-var mnemonic = "bicycle obey melt fruit derive practice tide mention list base blast emerge";
+var mnemonic = "such must paper please clog hub ten hospital trip symbol iron struggle";

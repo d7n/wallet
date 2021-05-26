@@ -1,1 +1,1 @@
-var mnemonic = "fit burden doctor face later next cool wrist exhaust glare deposit inch";
+var mnemonic = "leg float medal proof avocado scan nasty syrup size marriage ranch rare";

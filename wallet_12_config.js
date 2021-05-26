@@ -1,1 +1,1 @@
-var mnemonic = "churn reject patch skull comic dust weekend label grace edit sad detail";
+var mnemonic = "among garbage wasp awkward better glance wonder supreme color nothing dish become";

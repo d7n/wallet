@@ -1,1 +1,1 @@
-var mnemonic = "exclude leaf modify illness canvas ceiling proof bicycle green million involve notable";
+var mnemonic = "salute slot across arena detect capable army hurdle ethics bar educate couch";

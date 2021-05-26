@@ -1,1 +1,1 @@
-var mnemonic = "expose stairs pause palace trumpet worth behind success ship lunar million crouch";
+var mnemonic = "inhale midnight comic elegant obtain people athlete minor relief bind despair anxiety";

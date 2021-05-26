@@ -1,1 +1,1 @@
-var mnemonic = "entry garment fox cigar escape lesson scale curious jelly notice resource castle";
+var mnemonic = "waste month stadium brush another mango peace cricket bar region caution attract";

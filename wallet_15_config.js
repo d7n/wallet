@@ -1,1 +1,1 @@
-var mnemonic = "cluster donkey aware federal hollow expand vacuum silent gas mistake prepare message";
+var mnemonic = "debris apart wonder suggest thank panel awake shuffle cream army warrior differ";

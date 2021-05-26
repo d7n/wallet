@@ -1,1 +1,1 @@
-var mnemonic = "wagon spring pill exact monitor cabbage decrease oak ready hurry habit resemble";
+var mnemonic = "claw exchange analyst fantasy near gold easy liberty pause sand still seed";

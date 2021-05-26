@@ -1,1 +1,1 @@
-var mnemonic = "dentist liar almost solar action hint medal model crucial roof canoe mixture";
+var mnemonic = "agent devote process patch action lady execute boil lava ask favorite frog";

@@ -1,1 +1,1 @@
-var mnemonic = "involve pony cram license fossil guide scrub talk punch citizen hotel floor";
+var mnemonic = "segment want vapor tool pilot account fine problem coffee undo float scrap";

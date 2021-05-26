@@ -1,1 +1,1 @@
-var mnemonic = "access allow toast original glad oil wine prevent element orphan hobby prefer";
+var mnemonic = "tragic job swift heart child pottery all misery put indoor excuse wood";

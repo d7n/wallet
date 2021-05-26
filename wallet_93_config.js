@@ -1,1 +1,1 @@
-var mnemonic = "journey sunny deposit viable mistake wide fiction bulk enlist coin lazy nasty";
+var mnemonic = "axis organ abstract this smile cash metal banana rare sword horror furnace";

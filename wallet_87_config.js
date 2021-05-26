@@ -1,1 +1,1 @@
-var mnemonic = "thunder setup vicious level easy acid poverty play pattern regular rich smoke";
+var mnemonic = "convince machine three friend require knock toss question olympic host cricket awesome";

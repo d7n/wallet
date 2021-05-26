@@ -1,1 +1,1 @@
-var mnemonic = "autumn cheap real liberty funny hammer column diet car coast review walk";
+var mnemonic = "lesson whale effort crash motor scan pizza tail gift ghost later ahead";

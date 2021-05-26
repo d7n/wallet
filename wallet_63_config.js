@@ -1,1 +1,1 @@
-var mnemonic = "stool tomorrow organ cube day waste table gas canoe culture crumble debate";
+var mnemonic = "swift ankle unfair caution strategy wild eternal weapon muffin crawl erupt pact";

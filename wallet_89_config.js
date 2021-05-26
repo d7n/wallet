@@ -1,1 +1,1 @@
-var mnemonic = "find unique offer drink school globe neck coast ill walk ready organ";
+var mnemonic = "purity scene egg coin version connect clump access favorite short ice derive";

@@ -1,1 +1,1 @@
-var mnemonic = "define lesson city voice sword border legend race wet prevent duck speed";
+var mnemonic = "doll glad relax pole unique rocket cash shiver host flock forest person";

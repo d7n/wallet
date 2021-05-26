@@ -1,1 +1,1 @@
-var mnemonic = "ocean cube repeat snake atom soup trial ivory diamond blossom wood hybrid";
+var mnemonic = "picnic fossil patch time poverty doctor execute minute apology patient stone win";

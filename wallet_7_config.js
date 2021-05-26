@@ -1,1 +1,1 @@
-var mnemonic = "dismiss neither border vault candy address soda cover pizza matter never pass";
+var mnemonic = "unique amount novel plastic shoulder buzz zone together better zone supreme flush";

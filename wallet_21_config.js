@@ -1,1 +1,1 @@
-var mnemonic = "green biology erupt six rally grant remember double confirm team slogan suspect";
+var mnemonic = "asthma squeeze siege wait noodle work liquid summer tuna federal anchor mammal";

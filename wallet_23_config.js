@@ -1,1 +1,1 @@
-var mnemonic = "music attend space fog beyond shadow pottery injury debate extra tribe put";
+var mnemonic = "minute dumb ask secret wet option diesel animal decrease traffic defense harvest";

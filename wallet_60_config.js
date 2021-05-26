@@ -1,1 +1,1 @@
-var mnemonic = "knee sign lunch outside kitten hidden beef squirrel have detail zero north";
+var mnemonic = "venture design involve bike flee gain dove betray occur wagon tool blame";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey priority accuse page dirt reform olive wool clap galaxy vivid session";
+var mnemonic = "walk ginger tube rich expand have promote radio middle pass leave during";

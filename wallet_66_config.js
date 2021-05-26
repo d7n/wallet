@@ -1,1 +1,1 @@
-var mnemonic = "garment play spice type burst tuna guitar symbol turkey save tornado inch";
+var mnemonic = "metal vacuum slogan faith just dwarf kind violin rapid injury escape file";

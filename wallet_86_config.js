@@ -1,1 +1,1 @@
-var mnemonic = "dream later mask pigeon ill dawn cry kangaroo eyebrow casual weird prosper";
+var mnemonic = "envelope peace library sausage girl tortoise inflict glue also ketchup lake cat";

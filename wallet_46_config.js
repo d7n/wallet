@@ -1,1 +1,1 @@
-var mnemonic = "wear devote latin replace object glow gorilla useful kiwi jewel pig memory";
+var mnemonic = "wire toy ginger say member seed lock goddess duck shine twice remind";

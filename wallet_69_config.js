@@ -1,1 +1,1 @@
-var mnemonic = "amateur thank scissors nominee protect shoe select nothing mobile sting seed shine";
+var mnemonic = "deer hard clutch anxiety tumble welcome interest quick valve eyebrow beyond column";

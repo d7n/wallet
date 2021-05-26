@@ -1,1 +1,1 @@
-var mnemonic = "source ten reveal cream tent vessel keep maple badge act panic knock";
+var mnemonic = "divide undo cute phrase vanish drum entry shoulder jar token square album";

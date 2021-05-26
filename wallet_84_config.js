@@ -1,1 +1,1 @@
-var mnemonic = "coral bounce exact panic approve skill sausage roof fox poet rate spread";
+var mnemonic = "season wet smart puzzle orange shoot start ten jar trap finger globe";

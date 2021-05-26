@@ -1,1 +1,1 @@
-var mnemonic = "coconut spatial asset foam wife misery december family banana sunny vague evolve";
+var mnemonic = "occur gorilla business shift trophy notable total cat ten grocery ladder inch";

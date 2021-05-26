@@ -1,1 +1,1 @@
-var mnemonic = "sword rifle frozen novel slow feature half course oval reward rail filter";
+var mnemonic = "despair apart thank loan sock arctic remove worth joy fiction web car";

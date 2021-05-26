@@ -1,1 +1,1 @@
-var mnemonic = "balance detail slush truck regular element hobby sport catch mechanic tower concert";
+var mnemonic = "hip space garden rigid autumn carbon about voyage joy pretty inflict page";

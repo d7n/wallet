@@ -1,1 +1,1 @@
-var mnemonic = "ability consider enact coffee chicken one own shine bachelor sample liquid hat";
+var mnemonic = "emotion apology onion rabbit dawn twice era regret chronic marine payment warfare";

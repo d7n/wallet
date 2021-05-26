@@ -1,1 +1,1 @@
-var mnemonic = "usual lab glad jewel hidden cage harvest balance nation humor bitter region";
+var mnemonic = "gown hedgehog round other tourist cycle carbon moral wreck diesel happy light";

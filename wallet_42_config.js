@@ -1,1 +1,1 @@
-var mnemonic = "glue wolf oppose opinion unhappy angle cannon portion bracket noise dolphin duty";
+var mnemonic = "badge stand situate salt state hedgehog favorite cattle ecology spread sphere cheese";

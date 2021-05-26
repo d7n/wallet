@@ -1,1 +1,1 @@
-var mnemonic = "inquiry book useful blue outer juice crew spare list supply lunch grab";
+var mnemonic = "two wait chest nation find breeze cliff riot split square result baby";

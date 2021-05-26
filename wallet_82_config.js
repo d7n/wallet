@@ -1,1 +1,1 @@
-var mnemonic = "journey measure choice limb virus mango network tray kite dynamic mushroom panda";
+var mnemonic = "upgrade social sure popular fence cruel globe smooth bike tuna often detail";

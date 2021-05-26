@@ -1,1 +1,1 @@
-var mnemonic = "general happy occur pool symptom piano noodle assault blossom firm trigger recycle";
+var mnemonic = "bus smoke object lawn job rib secret abandon turn vault safe predict";

@@ -1,1 +1,1 @@
-var mnemonic = "north quit border way wet bounce offer aisle town tuition else great";
+var mnemonic = "dutch visa cook divide iron lizard conduct plate slight promote exact kitchen";

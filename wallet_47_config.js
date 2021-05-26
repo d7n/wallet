@@ -1,1 +1,1 @@
-var mnemonic = "lend stuff home what settle saddle ripple battle spoon zero silk fun";
+var mnemonic = "mistake health cake actual figure twenty warrior maid arrive cry census test";

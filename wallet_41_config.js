@@ -1,1 +1,1 @@
-var mnemonic = "beef note wink exhibit climb child then wild ostrich quiz faith wealth";
+var mnemonic = "leopard pretty injury sunny draft poverty injury there achieve pact jewel loyal";

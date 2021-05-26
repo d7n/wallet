@@ -1,1 +1,1 @@
-var mnemonic = "outside sustain core warrior task roast comfort sting balcony region fork cotton";
+var mnemonic = "glimpse interest turn mechanic mention foster scrap feel plate fetch torch boss";

@@ -1,1 +1,1 @@
-var mnemonic = "find wet below shield hat mixture tiger core unable vault win unfold";
+var mnemonic = "follow clog fever advance afford advice goose aspect owner meat market unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "else artefact seminar sketch tiny life private wool buyer talent whisper clay";
+var mnemonic = "skin fruit power nature nasty rhythm episode minor borrow bar melody rhythm";

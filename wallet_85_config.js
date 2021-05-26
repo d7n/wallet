@@ -1,1 +1,1 @@
-var mnemonic = "chimney path act fit spatial such ranch helmet have success usage fortune";
+var mnemonic = "capable vacant bleak cream smoke excuse secret decline castle pen insect holiday";

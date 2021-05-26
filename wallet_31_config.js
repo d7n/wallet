@@ -1,1 +1,1 @@
-var mnemonic = "cash sentence mother hobby swamp corn emerge connect dog film angry strike";
+var mnemonic = "elite october accuse one measure orbit rain axis settle neck forest tilt";

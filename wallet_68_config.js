@@ -1,1 +1,1 @@
-var mnemonic = "shine police true sell crime exclude grape velvet screen private claw loud";
+var mnemonic = "when fee cross detect another plate lock awake sweet squeeze dad ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "dust marine shuffle hollow supply purpose stove empty frozen noise lens cross";
+var mnemonic = "tuna bench rose mountain crawl razor gun hobby indicate latin salon area";

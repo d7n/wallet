@@ -1,1 +1,1 @@
-var mnemonic = "comic sauce blind salmon fiscal antique iron swap horn scrap exotic kiwi";
+var mnemonic = "pill prepare mechanic stereo patient cup present nurse proud eternal regular bench";

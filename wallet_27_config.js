@@ -1,1 +1,1 @@
-var mnemonic = "raw middle damp property nerve castle affair harvest evolve advance enough burger";
+var mnemonic = "witness media raccoon into learn trumpet glad tortoise arrest budget recycle north";

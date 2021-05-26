@@ -1,1 +1,1 @@
-var mnemonic = "cattle pottery unit company number jacket large gasp fish magic close income";
+var mnemonic = "infant city daughter history drive rain farm snow february treat play satoshi";

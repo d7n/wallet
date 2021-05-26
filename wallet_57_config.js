@@ -1,1 +1,1 @@
-var mnemonic = "glove fragile flame asthma use symbol cost shoulder tomato short strike divert";
+var mnemonic = "hire square wealth abandon produce potato olive jeans upper ozone flame shop";

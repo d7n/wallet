@@ -1,1 +1,1 @@
-var mnemonic = "sugar cloud trophy wisdom can empower laptop much welcome balcony minor write";
+var mnemonic = "sketch gadget thank unaware remove review found music test modify draw fatal";

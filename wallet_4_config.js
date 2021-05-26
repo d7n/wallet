@@ -1,1 +1,1 @@
-var mnemonic = "dance object october story river stumble fever trip proud chef disease transfer";
+var mnemonic = "satisfy champion soup corn urban ill narrow field mimic coil cram wool";

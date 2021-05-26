@@ -1,1 +1,1 @@
-var mnemonic = "crack narrow mango title stock jeans trophy wire trust long next museum";
+var mnemonic = "regular fragile sustain verify bonus group crew settle cube figure soon unlock";

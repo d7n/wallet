@@ -1,1 +1,1 @@
-var mnemonic = "matter across unfair donate physical opinion emotion enact cinnamon display believe pilot";
+var mnemonic = "icon flame useless cabbage hockey famous cause panda wrong ticket raccoon can";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt enter truly ozone protect render forward omit market slam surface hunt";
+var mnemonic = "mango kid ask sort believe beauty near game hockey wide wine present";
