@@ -1,1 +1,1 @@
-var mnemonic = "van vicious rib scorpion core resist brush cheap beach trouble broom lyrics";
+var mnemonic = "pulp hockey amused evidence flush sword flavor cost confirm fire chief puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic bamboo void push million similar mirror movie logic frog transfer cute";
+var mnemonic = "welcome next click brief palace tissue use arch distance output topic jewel";

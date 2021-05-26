@@ -1,1 +1,1 @@
-var mnemonic = "icon patient flash pole lunch donkey private potato simple peace giraffe knock";
+var mnemonic = "wet staff solid chief involve table select sleep recipe duty tuna error";

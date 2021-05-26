@@ -1,1 +1,1 @@
-var mnemonic = "daughter aunt left kidney pottery rhythm cause essence camera wedding wreck above";
+var mnemonic = "vanish truth market smooth insect reduce clap appear moon cause ladder valve";

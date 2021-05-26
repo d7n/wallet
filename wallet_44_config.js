@@ -1,1 +1,1 @@
-var mnemonic = "purpose bonus maze enrich artwork sight trouble drive capital audit soldier inhale";
+var mnemonic = "nature labor mandate arch bubble clinic dash bright use anxiety oven bike";

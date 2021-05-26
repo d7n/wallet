@@ -1,1 +1,1 @@
-var mnemonic = "home metal title grow series laundry reform forest snack uniform enough indoor";
+var mnemonic = "canvas net kitchen roast place syrup special crack fashion rally siege manual";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy unaware example hello dutch quantum enable alcohol toward wild exotic fault";
+var mnemonic = "sign other tired tomorrow whisper height list glove junk urge imitate shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "endless layer various seed wool zoo duck blast degree allow nurse canal";
+var mnemonic = "forget home hotel wealth suffer auction bread obscure execute green income general";

@@ -1,1 +1,1 @@
-var mnemonic = "patch divorce dice size supreme tomato panel hire joy knee into essence";
+var mnemonic = "soul pizza shallow reduce strong search drip lady expose run resist ceiling";

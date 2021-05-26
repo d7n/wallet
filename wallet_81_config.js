@@ -1,1 +1,1 @@
-var mnemonic = "grunt notice furnace response glove toddler option loan detail apart stem praise";
+var mnemonic = "easy fire goddess indicate one wheel holiday spoon finger cry unlock faculty";

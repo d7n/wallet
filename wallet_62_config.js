@@ -1,1 +1,1 @@
-var mnemonic = "second market photo wool snack broccoli panic panic educate drastic guilt hundred";
+var mnemonic = "mountain normal bulk bridge truly secret party beyond legal term engage display";

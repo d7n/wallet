@@ -1,1 +1,1 @@
-var mnemonic = "museum gym angle tunnel welcome often unveil glass umbrella acquire occur stem";
+var mnemonic = "final scale thumb math fog enforce iron color twin true repair foster";

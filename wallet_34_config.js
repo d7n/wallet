@@ -1,1 +1,1 @@
-var mnemonic = "hello debris affair acquire pattern picture illness tomorrow ranch accident enhance drop";
+var mnemonic = "hospital pair desk twice mosquito stay episode bench wild hero also engage";

@@ -1,1 +1,1 @@
-var mnemonic = "just other crouch oval orbit blue gather whisper fever retire harsh hire";
+var mnemonic = "endorse brisk toss prepare release neck sad rich adjust endless effort sword";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral crunch again immense hamster cry sweet happy seminar cabbage gauge bottom";
+var mnemonic = "taxi season bracket bounce receive this turtle distance average pumpkin install police";

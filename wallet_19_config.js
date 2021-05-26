@@ -1,1 +1,1 @@
-var mnemonic = "tumble limit estate expose donate medal alone school marine casual patrol unfair";
+var mnemonic = "hope hunt nominee prison example edit volume circle shield angry print wash";

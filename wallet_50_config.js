@@ -1,1 +1,1 @@
-var mnemonic = "able cram unit ladder kitchen lady join physical field tragic ghost major";
+var mnemonic = "industry twelve use claim turn vintage captain replace used together display asthma";

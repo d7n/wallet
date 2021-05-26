@@ -1,1 +1,1 @@
-var mnemonic = "print fury fresh bulb carpet inmate train high october attack strike useful";
+var mnemonic = "stuff hold hurry wash bounce junior endorse allow elbow there ring coil";

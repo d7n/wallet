@@ -1,1 +1,1 @@
-var mnemonic = "angry universe enforce purchase lazy fragile benefit album fee laundry coconut knife";
+var mnemonic = "ivory hurry lizard fuel yard piece door casino planet verify effort badge";

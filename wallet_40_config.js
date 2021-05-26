@@ -1,1 +1,1 @@
-var mnemonic = "embody fossil promote ribbon another turtle learn visa birth jaguar initial ahead";
+var mnemonic = "toilet canoe shine balcony soldier indoor mistake concert mountain polar hunt bounce";

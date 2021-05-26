@@ -1,1 +1,1 @@
-var mnemonic = "top crunch agree cargo mail slush concert warrior faculty lyrics coral under";
+var mnemonic = "orphan retreat swamp steak people burden curious very accident service tired photo";

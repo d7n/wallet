@@ -1,1 +1,1 @@
-var mnemonic = "sure mad before unaware marriage miracle accident stable intact funny ahead walk";
+var mnemonic = "express fit allow blade absorb shrug sort vocal box simple symptom blood";

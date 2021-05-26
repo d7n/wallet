@@ -1,1 +1,1 @@
-var mnemonic = "there lend material retreat door rain remove parade dress dune curious tennis";
+var mnemonic = "fish rebel digital ice dad police define movie provide stay chef faith";

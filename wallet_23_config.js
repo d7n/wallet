@@ -1,1 +1,1 @@
-var mnemonic = "shift cage shrimp tunnel welcome analyst spare empower ask carbon pilot run";
+var mnemonic = "box fossil deer prize stereo pill giraffe slim brand coconut stone coyote";

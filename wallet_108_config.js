@@ -1,1 +1,1 @@
-var mnemonic = "lunch honey leave diary main garage vast bike soon turtle glad menu";
+var mnemonic = "skin artist planet often amount stem father behave actual fault amateur search";

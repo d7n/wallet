@@ -1,1 +1,1 @@
-var mnemonic = "cat cook umbrella mistake purse system grain snack blouse decline hospital broken";
+var mnemonic = "cluster barely erosion tail scene sting morning reason junk mask road force";

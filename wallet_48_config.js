@@ -1,1 +1,1 @@
-var mnemonic = "sauce gym flag nest expand stock assist nice idle minute rocket sleep";
+var mnemonic = "squirrel copy sell room shield attract canyon inmate master health chimney avoid";

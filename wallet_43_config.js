@@ -1,1 +1,1 @@
-var mnemonic = "funny robust guide famous symbol since mushroom favorite coast fix inspire noble";
+var mnemonic = "field federal clay salad artist join pulp cherry spoil fragile enhance window";

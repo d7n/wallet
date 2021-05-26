@@ -1,1 +1,1 @@
-var mnemonic = "subway fun garbage label science deliver pulp electric useful steak sock hard";
+var mnemonic = "eight damp fury mechanic hollow coil market amateur lamp cinnamon sail tired";

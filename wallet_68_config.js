@@ -1,1 +1,1 @@
-var mnemonic = "shed fish digital december any merry tunnel repair ankle limb nominee gloom";
+var mnemonic = "observe thumb swear fatigue sail turtle punch time floor local prefer cat";

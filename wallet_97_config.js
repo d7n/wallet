@@ -1,1 +1,1 @@
-var mnemonic = "hover thrive crash old wet plunge outdoor denial picnic blossom speed piano";
+var mnemonic = "income nuclear tired reject wing humor captain edge bird lemon pulse grant";

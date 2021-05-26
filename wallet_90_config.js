@@ -1,1 +1,1 @@
-var mnemonic = "legend timber acoustic allow siege bounce tray foil hurdle antenna client flight";
+var mnemonic = "census extend process weekend arctic enact divide swap benefit neutral swim meat";

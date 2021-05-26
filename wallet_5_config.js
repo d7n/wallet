@@ -1,1 +1,1 @@
-var mnemonic = "casino chronic faith tower jeans grain tenant skill defy tape easily symbol";
+var mnemonic = "unit safe surface insane like ocean collect science awkward pet view powder";

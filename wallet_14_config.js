@@ -1,1 +1,1 @@
-var mnemonic = "release door you echo patient clutch water smile blast behave range chest";
+var mnemonic = "oppose essay about salmon property illegal breeze symptom welcome bike deposit genre";

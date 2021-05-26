@@ -1,1 +1,1 @@
-var mnemonic = "assist awake artwork sugar hat medal close jeans close tube swift demand";
+var mnemonic = "gloom review patch west chronic tribe grain alone bonus ridge reason dignity";

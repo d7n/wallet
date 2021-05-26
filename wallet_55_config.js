@@ -1,1 +1,1 @@
-var mnemonic = "violin cute prefer deny ramp bread mimic range solid dumb chase adult";
+var mnemonic = "cute exit caution drop adapt donkey pen muscle supreme material merge label";

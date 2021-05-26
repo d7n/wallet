@@ -1,1 +1,1 @@
-var mnemonic = "tell coffee dice wink remain tattoo season clever hollow shop festival siren";
+var mnemonic = "attend lift atom humble valley middle gossip wine item rival live mention";

@@ -1,1 +1,1 @@
-var mnemonic = "rural head return blossom resemble final north income decorate special trade broccoli";
+var mnemonic = "ring aisle theory expand since glimpse velvet patrol time nasty faculty obvious";

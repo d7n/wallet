@@ -1,1 +1,1 @@
-var mnemonic = "excite month borrow dune borrow shop switch agent fade romance receive injury";
+var mnemonic = "couch venue fever curtain measure ivory october siege lesson surprise cute fee";

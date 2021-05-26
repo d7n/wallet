@@ -1,1 +1,1 @@
-var mnemonic = "fade layer decrease slim noodle cereal lizard cake sword spider slush doctor";
+var mnemonic = "much syrup chase upset depend recall kitchen enough vendor very language frequent";

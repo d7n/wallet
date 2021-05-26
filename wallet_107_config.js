@@ -1,1 +1,1 @@
-var mnemonic = "curious burden food neutral attract lava mom equip fortune course peasant either";
+var mnemonic = "act math gaze wire movie lawsuit south mechanic tilt local ship snack";

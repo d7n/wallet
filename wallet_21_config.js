@@ -1,1 +1,1 @@
-var mnemonic = "explain cloth lunch easily area ghost nation aware relax pass hockey used";
+var mnemonic = "vast melt depart cushion salmon trust risk buzz episode example coral clip";

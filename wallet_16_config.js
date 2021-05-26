@@ -1,1 +1,1 @@
-var mnemonic = "canvas film glue kid predict wedding poverty tornado leaf flock dinner knee";
+var mnemonic = "loop desk glass traffic rebuild always trash kingdom apple find best erase";

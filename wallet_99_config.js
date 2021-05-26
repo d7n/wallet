@@ -1,1 +1,1 @@
-var mnemonic = "shock deny hub praise mirror pilot cook apology lottery strategy poem wonder";
+var mnemonic = "bomb index rural globe tuna boy swap hotel merit hurdle genre horse";

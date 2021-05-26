@@ -1,1 +1,1 @@
-var mnemonic = "win protect print side renew level wish diagram item right awake tilt";
+var mnemonic = "mountain desk whisper soup faith face level hammer between three grid extend";

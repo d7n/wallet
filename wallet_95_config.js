@@ -1,1 +1,1 @@
-var mnemonic = "soldier sick upset appear term recycle stock stick solar furnace tree carpet";
+var mnemonic = "school vital rapid wagon grace immune shop okay legend solve shuffle rare";

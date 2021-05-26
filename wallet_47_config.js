@@ -1,1 +1,1 @@
-var mnemonic = "refuse kingdom animal echo direct want piece blast relief museum mushroom journey";
+var mnemonic = "focus tube pact moon spy trophy brass series obvious drop security supply";

@@ -1,1 +1,1 @@
-var mnemonic = "glass decade submit return similar valve bounce bleak pause sponsor review coin";
+var mnemonic = "thumb parrot pool bonus notice brave wool unfair celery cannon outside grape";

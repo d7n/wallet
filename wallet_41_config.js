@@ -1,1 +1,1 @@
-var mnemonic = "choose imitate manual output pipe dentist pony supreme host next pink update";
+var mnemonic = "involve ticket mandate case flush skin congress mean vote spider glue owner";

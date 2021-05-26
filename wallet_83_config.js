@@ -1,1 +1,1 @@
-var mnemonic = "prize april myth spray seek ecology ritual route please refuse coyote frequent";
+var mnemonic = "book never news cross horn box rotate ghost chase extend mixed grow";

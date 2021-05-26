@@ -1,1 +1,1 @@
-var mnemonic = "doll oil catalog smooth tower edit essence mean carbon spray clap essay";
+var mnemonic = "school mass angle fall captain have second stadium equip absent hold steak";

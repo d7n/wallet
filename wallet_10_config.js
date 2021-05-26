@@ -1,1 +1,1 @@
-var mnemonic = "useful chest sweet month other arena junk refuse decline wine cancel version";
+var mnemonic = "hope solar rib oxygen pair carbon short clever mask source tilt upon";

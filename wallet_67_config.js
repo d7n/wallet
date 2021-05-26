@@ -1,1 +1,1 @@
-var mnemonic = "pave soft derive liquid debate blast flavor forum excuse position punch travel";
+var mnemonic = "ranch liquid stage concert ridge segment trial husband frequent swamp lend rug";

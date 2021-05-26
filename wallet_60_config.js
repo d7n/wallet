@@ -1,1 +1,1 @@
-var mnemonic = "river night hawk wealth leave punch rhythm cat angle jeans type eye";
+var mnemonic = "million minute scrap monitor equal force bench athlete inmate dinner arrange detail";

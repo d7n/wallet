@@ -1,1 +1,1 @@
-var mnemonic = "second wagon fly gorilla athlete gospel mother dinner trigger soldier exclude faith";
+var mnemonic = "lab armed hungry dance shop index normal obtain shock topic cake journey";

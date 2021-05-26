@@ -1,1 +1,1 @@
-var mnemonic = "maple glove traffic alley basket emotion spirit foil staff twenty day kiss";
+var mnemonic = "stone other answer nasty day celery solve foam thank know remain toward";

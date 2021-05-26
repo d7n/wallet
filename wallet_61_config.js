@@ -1,1 +1,1 @@
-var mnemonic = "lend hamster alien omit salute wall portion pipe aspect bracket quote first";
+var mnemonic = "refuse joke wrist fee south also across license kangaroo since access novel";

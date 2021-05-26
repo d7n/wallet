@@ -1,1 +1,1 @@
-var mnemonic = "gas funny world harsh endless task section anger catch moral salon melody";
+var mnemonic = "copper segment light struggle tomorrow since hello drip combine loan fat valid";

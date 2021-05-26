@@ -1,1 +1,1 @@
-var mnemonic = "slam animal shove detail fire odor solid miss travel tuition embark heart";
+var mnemonic = "wet another blossom hedgehog dynamic please inflict vapor dish hammer wrestle panda";

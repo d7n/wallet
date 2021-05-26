@@ -1,1 +1,1 @@
-var mnemonic = "ten sketch secret crew finger wood layer awful fiber brush antenna shove";
+var mnemonic = "powder reject resist chest cradle tortoise wish climb alone bonus document bench";

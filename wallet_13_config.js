@@ -1,1 +1,1 @@
-var mnemonic = "make dose museum fabric wisdom peanut embark true fever tube laptop noise";
+var mnemonic = "volcano immune slush dolphin volume damp glow oval brand travel village execute";

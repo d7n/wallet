@@ -1,1 +1,1 @@
-var mnemonic = "polar turn goose real fury thunder must actor risk shoot gather proud";
+var mnemonic = "video scare december evil focus embody umbrella between material become one siren";

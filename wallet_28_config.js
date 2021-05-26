@@ -1,1 +1,1 @@
-var mnemonic = "talk draft chalk soccer cave drink enemy ivory galaxy okay extend physical";
+var mnemonic = "ghost fruit unit expose wage inject cream dignity alpha inside seven win";

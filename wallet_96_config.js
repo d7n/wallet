@@ -1,1 +1,1 @@
-var mnemonic = "tube soap turtle region window swift lounge common quick fringe expand salon";
+var mnemonic = "grass couple wish price number evidence all judge hand pretty disease van";

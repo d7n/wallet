@@ -1,1 +1,1 @@
-var mnemonic = "dutch word state foam course open worry session rocket confirm history ordinary";
+var mnemonic = "vintage lunar enter occur inch daring expect below rare comfort spread practice";

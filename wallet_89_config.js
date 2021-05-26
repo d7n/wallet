@@ -1,1 +1,1 @@
-var mnemonic = "lunch barely gain wear blouse region brown hero forum awful domain sunset";
+var mnemonic = "fiction inhale bargain syrup auction wreck decorate wealth blanket early hope suffer";

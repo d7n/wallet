@@ -1,1 +1,1 @@
-var mnemonic = "lake erode romance grain festival rough point essay skin reform risk ankle";
+var mnemonic = "eagle buyer ozone plastic now inspire emotion magnet now unaware gym peanut";

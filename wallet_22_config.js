@@ -1,1 +1,1 @@
-var mnemonic = "genius easily corn drive mad globe drama lab blade bid naive unhappy";
+var mnemonic = "achieve beef zone sibling topple expect same slot sound action evoke benefit";

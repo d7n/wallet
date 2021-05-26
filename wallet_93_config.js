@@ -1,1 +1,1 @@
-var mnemonic = "student ten rabbit grant erosion layer page example rough limit win fuel";
+var mnemonic = "icon organ outer attend mountain august vendor annual cave stool size name";

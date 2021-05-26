@@ -1,1 +1,1 @@
-var mnemonic = "example juice book until eye fold weekend choose few novel wife can";
+var mnemonic = "region usage taxi gloom strong can antique peace permit clever crater trade";

@@ -1,1 +1,1 @@
-var mnemonic = "infant island wait naive pair buffalo equal crisp divide food dawn ahead";
+var mnemonic = "throw then humor rural gain roast hundred rubber harbor enforce renew fall";

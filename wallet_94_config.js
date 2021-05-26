@@ -1,1 +1,1 @@
-var mnemonic = "frost boss shine obey kitten today rely jazz defense lonely cat february";
+var mnemonic = "pink rough glove shell push common shock attend dream grief click maple";

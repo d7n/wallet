@@ -1,1 +1,1 @@
-var mnemonic = "disorder lazy maximum clap blush scene warfare cruel weasel gown gown wrap";
+var mnemonic = "suffer sunset fiber coin crime noodle fuel year memory arctic window position";

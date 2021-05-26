@@ -1,1 +1,1 @@
-var mnemonic = "tail venue blouse ribbon project manage memory unaware slim clump decrease corn";
+var mnemonic = "exotic chaos sugar fiscal swarm involve region remember glow conduct answer focus";

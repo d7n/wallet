@@ -1,1 +1,1 @@
-var mnemonic = "about state powder remove ride civil reduce genre struggle target drip forget";
+var mnemonic = "planet ghost prosper doctor sorry exist brother sketch list bundle nest balcony";

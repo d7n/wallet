@@ -1,1 +1,1 @@
-var mnemonic = "prison relief surround yard awake feed casino palace banner orange vehicle lawsuit";
+var mnemonic = "hard elder machine license win inject lady magnet oxygen senior else choice";

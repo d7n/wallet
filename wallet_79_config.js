@@ -1,1 +1,1 @@
-var mnemonic = "olympic ozone skull token tone easily grant focus giant access camp digital";
+var mnemonic = "flip priority copy under female wrong purchase cool option buyer duty unknown";

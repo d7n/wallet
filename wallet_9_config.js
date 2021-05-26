@@ -1,1 +1,1 @@
-var mnemonic = "session market vessel exchange planet spend shoot knife indoor dune lazy install";
+var mnemonic = "unknown stand scorpion crash that feed ski hair label under easily lounge";

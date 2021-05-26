@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin finish toss stage foil silly endorse walnut ready book practice limit";
+var mnemonic = "volcano silly check ceiling poem used spirit prevent high merry pig rather";

@@ -1,1 +1,1 @@
-var mnemonic = "clap device funny wide tattoo mean flip antique very mirror doll modify";
+var mnemonic = "fog reduce reduce salt since second stock super insect supply spatial quarter";

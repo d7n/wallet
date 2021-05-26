@@ -1,1 +1,1 @@
-var mnemonic = "sample aerobic logic burden critic cargo topic excuse plug sibling any festival";
+var mnemonic = "grid zone project strong father chapter hole armed pencil reason hospital winter";

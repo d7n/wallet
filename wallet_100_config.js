@@ -1,1 +1,1 @@
-var mnemonic = "cook label stay shoe drink joy estate object phrase wrist fish relief";
+var mnemonic = "captain skirt prepare target prize gesture demand harbor release solid razor dream";

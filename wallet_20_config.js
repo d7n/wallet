@@ -1,1 +1,1 @@
-var mnemonic = "throw very crawl trim culture labor settle net wife correct height detail";
+var mnemonic = "oxygen skate sheriff access apology border believe emotion inmate stock soon ordinary";

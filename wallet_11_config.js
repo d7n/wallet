@@ -1,1 +1,1 @@
-var mnemonic = "hood soap six clerk base adult sniff token fault tell arctic day";
+var mnemonic = "federal pen health smart horror impact idle emotion find fatigue pelican error";

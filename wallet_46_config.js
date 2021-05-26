@@ -1,1 +1,1 @@
-var mnemonic = "city hungry degree record deny chaos river cave crisp crucial arm tail";
+var mnemonic = "luggage celery loan gap panel oblige version equal smoke junk soul pond";

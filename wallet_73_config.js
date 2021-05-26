@@ -1,1 +1,1 @@
-var mnemonic = "speak simple gauge jungle tornado adult appear debate seed soup essence link";
+var mnemonic = "oppose canyon fork endorse orient escape better cheese among category movie quick";

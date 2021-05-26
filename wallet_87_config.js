@@ -1,1 +1,1 @@
-var mnemonic = "add age secret bronze timber ill outside shoe cave stamp license puppy";
+var mnemonic = "scrub swim board into undo ship coconut web balcony pull piano defense";

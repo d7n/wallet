@@ -1,1 +1,1 @@
-var mnemonic = "amazing connect know alarm you used woman confirm negative party interest loud";
+var mnemonic = "virtual lemon urge unlock quiz trip truly pioneer night heart cake photo";

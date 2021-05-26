@@ -1,1 +1,1 @@
-var mnemonic = "raccoon giant cloud average swim doctor wrap produce memory fly amazing camp";
+var mnemonic = "index clay scissors coast matter image pudding alien agree weird silver bright";

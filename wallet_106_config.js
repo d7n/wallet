@@ -1,1 +1,1 @@
-var mnemonic = "immune oppose alert table finger prepare session naive thumb popular into woman";
+var mnemonic = "salute increase task loyal bonus liar street use suspect ticket kind walnut";

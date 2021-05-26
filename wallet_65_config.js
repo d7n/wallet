@@ -1,1 +1,1 @@
-var mnemonic = "adult used online bitter someone ugly picture goose cargo gather hour trend";
+var mnemonic = "bicycle raw drive step spawn history rather unveil rebel model motor panic";

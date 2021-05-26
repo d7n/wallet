@@ -1,1 +1,1 @@
-var mnemonic = "machine cave rabbit denial royal connect narrow can post spin valid hotel";
+var mnemonic = "chunk beef tissue peanut divorce dolphin first zero color diamond corn curious";

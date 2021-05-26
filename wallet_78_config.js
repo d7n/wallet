@@ -1,1 +1,1 @@
-var mnemonic = "food ball tip six pink rocket ladder equal purchase acquire stumble lawn";
+var mnemonic = "crane security island extra inform ritual gentle diesel violin flag fun hundred";

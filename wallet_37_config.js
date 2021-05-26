@@ -1,1 +1,1 @@
-var mnemonic = "visa success obscure matter wing zoo toast thunder luxury mushroom virus dolphin";
+var mnemonic = "fish suit pen cloth noble icon moment spice recipe ugly decade body";

@@ -1,1 +1,1 @@
-var mnemonic = "such slam trash urge siege prosper sound theme scare actor route ladder";
+var mnemonic = "harsh dance debris arctic average coin fee hint digital armor draw input";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred birth divert between trigger across circle cave just curtain absent spirit";
+var mnemonic = "inner truly vacuum tiny carry arrive much word monitor coin poverty bomb";
