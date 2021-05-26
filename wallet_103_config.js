@@ -1,1 +1,1 @@
-var mnemonic = "attend lift atom humble valley middle gossip wine item rival live mention";
+var mnemonic = "mesh brand typical tragic strategy inquiry adapt course earn figure ripple opera";

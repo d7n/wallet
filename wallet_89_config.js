@@ -1,1 +1,1 @@
-var mnemonic = "fiction inhale bargain syrup auction wreck decorate wealth blanket early hope suffer";
+var mnemonic = "category odor lamp solid celery oval enable arch vintage dwarf must lamp";

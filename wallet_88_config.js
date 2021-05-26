@@ -1,1 +1,1 @@
-var mnemonic = "final scale thumb math fog enforce iron color twin true repair foster";
+var mnemonic = "best rib net arrive glory select daughter coast salute tail nuclear dash";

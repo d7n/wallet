@@ -1,1 +1,1 @@
-var mnemonic = "stone other answer nasty day celery solve foam thank know remain toward";
+var mnemonic = "miracle hard tennis art chest bean fault barely future shock symbol bamboo";

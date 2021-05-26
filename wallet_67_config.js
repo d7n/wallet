@@ -1,1 +1,1 @@
-var mnemonic = "ranch liquid stage concert ridge segment trial husband frequent swamp lend rug";
+var mnemonic = "pepper grief gravity response enable heavy very minute bronze favorite inmate orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet canoe shine balcony soldier indoor mistake concert mountain polar hunt bounce";
+var mnemonic = "grass eight spice wine wonder rely dumb blast satisfy merry collect shield";

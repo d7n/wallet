@@ -1,1 +1,1 @@
-var mnemonic = "eight damp fury mechanic hollow coil market amateur lamp cinnamon sail tired";
+var mnemonic = "decide program possible toward reward pattern slam urge potato only worth lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano silly check ceiling poem used spirit prevent high merry pig rather";
+var mnemonic = "sugar goose coast nerve hollow first owner start fog pill moon bubble";

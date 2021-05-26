@@ -1,1 +1,1 @@
-var mnemonic = "forget home hotel wealth suffer auction bread obscure execute green income general";
+var mnemonic = "kiss worry heavy morning state tattoo insane pill slide embody pumpkin lab";

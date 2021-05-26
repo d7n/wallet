@@ -1,1 +1,1 @@
-var mnemonic = "when parent forum fade rent engage sock upon clog about net away";
+var mnemonic = "museum vintage attack parade present eye together access base post kid critic";

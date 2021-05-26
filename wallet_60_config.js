@@ -1,1 +1,1 @@
-var mnemonic = "million minute scrap monitor equal force bench athlete inmate dinner arrange detail";
+var mnemonic = "wait use forest space dress chair hurt shock token core van swim";

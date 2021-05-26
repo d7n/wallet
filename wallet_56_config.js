@@ -1,1 +1,1 @@
-var mnemonic = "wet staff solid chief involve table select sleep recipe duty tuna error";
+var mnemonic = "gold orange car deliver off flash observe nominee seven believe vendor sadness";

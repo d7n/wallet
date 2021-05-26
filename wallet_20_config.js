@@ -1,1 +1,1 @@
-var mnemonic = "oxygen skate sheriff access apology border believe emotion inmate stock soon ordinary";
+var mnemonic = "enable flash flower kidney exotic pioneer dirt rocket screen tuna tape amount";

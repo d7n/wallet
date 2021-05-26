@@ -1,1 +1,1 @@
-var mnemonic = "index clay scissors coast matter image pudding alien agree weird silver bright";
+var mnemonic = "boat just dove behave car wine seat age test shift fit unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel copy sell room shield attract canyon inmate master health chimney avoid";
+var mnemonic = "banana dumb orient cruise outer crucial ill brother dose work world goose";

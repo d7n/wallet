@@ -1,1 +1,1 @@
-var mnemonic = "fish suit pen cloth noble icon moment spice recipe ugly decade body";
+var mnemonic = "pen essence ahead street casual member treat impulse strategy front oxygen patch";

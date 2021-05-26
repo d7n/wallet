@@ -1,1 +1,1 @@
-var mnemonic = "achieve beef zone sibling topple expect same slot sound action evoke benefit";
+var mnemonic = "venture ring burst magnet north inch canyon daughter enlist also run sheriff";

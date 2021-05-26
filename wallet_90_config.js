@@ -1,1 +1,1 @@
-var mnemonic = "census extend process weekend arctic enact divide swap benefit neutral swim meat";
+var mnemonic = "canoe crash legend future reunion main subject board oxygen smile thank night";

@@ -1,1 +1,1 @@
-var mnemonic = "planet ghost prosper doctor sorry exist brother sketch list bundle nest balcony";
+var mnemonic = "light plastic giraffe satoshi lion suit mechanic hover captain trophy quick cement";

@@ -1,1 +1,1 @@
-var mnemonic = "spread bird zoo vast curious fit indicate casino enough liberty still truth";
+var mnemonic = "arrive imitate alarm arctic fragile utility fall balance rack perfect upgrade antique";

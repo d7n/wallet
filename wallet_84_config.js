@@ -1,1 +1,1 @@
-var mnemonic = "video scare december evil focus embody umbrella between material become one siren";
+var mnemonic = "tide tilt check denial have close laugh cloth churn group wrong accuse";

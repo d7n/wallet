@@ -1,1 +1,1 @@
-var mnemonic = "vanish truth market smooth insect reduce clap appear moon cause ladder valve";
+var mnemonic = "atom account manual sword lyrics arena romance dilemma blame dry high tenant";

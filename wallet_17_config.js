@@ -1,1 +1,1 @@
-var mnemonic = "night vessel bring riot wisdom genre awesome skate people gadget phrase rug";
+var mnemonic = "carbon race border gallery similar crystal property upset craft transfer bronze regular";

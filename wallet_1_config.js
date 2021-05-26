@@ -1,1 +1,1 @@
-var mnemonic = "express fit allow blade absorb shrug sort vocal box simple symptom blood";
+var mnemonic = "hockey forget spring very hire boil warrior burger choice capital marriage danger";

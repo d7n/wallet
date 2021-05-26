@@ -1,1 +1,1 @@
-var mnemonic = "harsh dance debris arctic average coin fee hint digital armor draw input";
+var mnemonic = "release mail daring measure asset rebuild nose tide begin message humble hood";

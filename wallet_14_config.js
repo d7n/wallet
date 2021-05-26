@@ -1,1 +1,1 @@
-var mnemonic = "oppose essay about salmon property illegal breeze symptom welcome bike deposit genre";
+var mnemonic = "tattoo photo pottery old recycle avoid force biology lamp border leopard rural";

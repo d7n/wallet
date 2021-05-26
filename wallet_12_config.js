@@ -1,1 +1,1 @@
-var mnemonic = "virtual lemon urge unlock quiz trip truly pioneer night heart cake photo";
+var mnemonic = "comfort primary else focus physical earth ball rural camera post knock forward";

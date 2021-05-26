@@ -1,1 +1,1 @@
-var mnemonic = "vast melt depart cushion salmon trust risk buzz episode example coral clip";
+var mnemonic = "wife amount either sniff distance attract disease pizza fence nature crazy protect";

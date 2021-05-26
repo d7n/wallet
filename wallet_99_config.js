@@ -1,1 +1,1 @@
-var mnemonic = "bomb index rural globe tuna boy swap hotel merit hurdle genre horse";
+var mnemonic = "best frog daughter episode such vacant peanut galaxy snack salon sadness song";

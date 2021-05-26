@@ -1,1 +1,1 @@
-var mnemonic = "patient expect critic violin coil cherry remind position parade fault tattoo check";
+var mnemonic = "squeeze cute young state account under rail plunge merit recipe wet treat";

@@ -1,1 +1,1 @@
-var mnemonic = "blind item original gossip slam review sample execute toast notable tell yard";
+var mnemonic = "buffalo access spoon file shove monster stem luxury human amazing exact bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "skin artist planet often amount stem father behave actual fault amateur search";
+var mnemonic = "install primary satisfy spy little prize twice palm inquiry gossip magic laugh";

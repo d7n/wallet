@@ -1,1 +1,1 @@
-var mnemonic = "ivory hurry lizard fuel yard piece door casino planet verify effort badge";
+var mnemonic = "repair egg flash assume rate build paddle erosion parrot drip rare razor";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome next click brief palace tissue use arch distance output topic jewel";
+var mnemonic = "source alter absurd open point divide answer device bridge asthma auction achieve";

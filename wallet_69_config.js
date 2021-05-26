@@ -1,1 +1,1 @@
-var mnemonic = "fish rebel digital ice dad police define movie provide stay chef faith";
+var mnemonic = "toss manage cinnamon rice cricket dream net nerve ecology trumpet cause galaxy";

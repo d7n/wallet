@@ -1,1 +1,1 @@
-var mnemonic = "copper segment light struggle tomorrow since hello drip combine loan fat valid";
+var mnemonic = "dance wave negative matrix scrub luxury inquiry cup maze venue guard ginger";

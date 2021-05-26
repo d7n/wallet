@@ -1,1 +1,1 @@
-var mnemonic = "thumb parrot pool bonus notice brave wool unfair celery cannon outside grape";
+var mnemonic = "digital poverty gentle answer glue green grow birth upon crisp walnut axis";

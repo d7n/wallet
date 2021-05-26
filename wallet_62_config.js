@@ -1,1 +1,1 @@
-var mnemonic = "mountain normal bulk bridge truly secret party beyond legal term engage display";
+var mnemonic = "vital dolphin win foam rain tortoise afraid deposit evoke wrist category bargain";

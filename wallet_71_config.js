@@ -1,1 +1,1 @@
-var mnemonic = "hard elder machine license win inject lady magnet oxygen senior else choice";
+var mnemonic = "banana round burst cereal detail breeze minute output abstract affair mandate diary";

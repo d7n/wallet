@@ -1,1 +1,1 @@
-var mnemonic = "loop desk glass traffic rebuild always trash kingdom apple find best erase";
+var mnemonic = "club lyrics grunt differ adapt spot embark comic warfare canoe coconut limit";

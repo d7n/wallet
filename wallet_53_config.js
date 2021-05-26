@@ -1,1 +1,1 @@
-var mnemonic = "sign other tired tomorrow whisper height list glove junk urge imitate shoulder";
+var mnemonic = "decide silly helmet page catch obscure lady frog once knife cruel predict";

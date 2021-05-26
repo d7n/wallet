@@ -1,1 +1,1 @@
-var mnemonic = "couch venue fever curtain measure ivory october siege lesson surprise cute fee";
+var mnemonic = "grocery moral scare spatial timber toe rent mad visual sheriff jewel resist";

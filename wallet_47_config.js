@@ -1,1 +1,1 @@
-var mnemonic = "focus tube pact moon spy trophy brass series obvious drop security supply";
+var mnemonic = "promote claw stand ethics scatter claw plastic pioneer hybrid brush able egg";

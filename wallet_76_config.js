@@ -1,1 +1,1 @@
-var mnemonic = "wet another blossom hedgehog dynamic please inflict vapor dish hammer wrestle panda";
+var mnemonic = "silver until dawn peasant analyst merge gather foil false slot tuna aspect";

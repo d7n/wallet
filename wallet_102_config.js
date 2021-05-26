@@ -1,1 +1,1 @@
-var mnemonic = "junk bulk buddy worth buzz quit also roof theory cloud sad method";
+var mnemonic = "afford foster coffee upper elder cart dumb clean evidence object use excess";

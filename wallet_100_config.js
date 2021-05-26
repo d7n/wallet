@@ -1,1 +1,1 @@
-var mnemonic = "captain skirt prepare target prize gesture demand harbor release solid razor dream";
+var mnemonic = "silver label invest caution estate volume slogan oven delay naive rose hundred";

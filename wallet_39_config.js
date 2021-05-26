@@ -1,1 +1,1 @@
-var mnemonic = "ring aisle theory expand since glimpse velvet patrol time nasty faculty obvious";
+var mnemonic = "hybrid verb plate lava stage wagon depart talent extra slide lens ability";

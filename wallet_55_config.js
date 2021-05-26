@@ -1,1 +1,1 @@
-var mnemonic = "cute exit caution drop adapt donkey pen muscle supreme material merge label";
+var mnemonic = "allow smart carbon proof below page trumpet come heart buffalo grit essay";

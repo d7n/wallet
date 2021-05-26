@@ -1,1 +1,1 @@
-var mnemonic = "act math gaze wire movie lawsuit south mechanic tilt local ship snack";
+var mnemonic = "hip task march front resource duty prosper pretty drift people stone ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "hope hunt nominee prison example edit volume circle shield angry print wash";
+var mnemonic = "face illegal pitch bus spatial flag noise dad note upset glare turtle";

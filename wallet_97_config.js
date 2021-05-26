@@ -1,1 +1,1 @@
-var mnemonic = "income nuclear tired reject wing humor captain edge bird lemon pulse grant";
+var mnemonic = "modify note chief bike bike ticket around stem jaguar violin drift produce";

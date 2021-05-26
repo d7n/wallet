@@ -1,1 +1,1 @@
-var mnemonic = "eagle buyer ozone plastic now inspire emotion magnet now unaware gym peanut";
+var mnemonic = "bomb silk mesh dirt cream pond grocery loud slim crucial umbrella vast";

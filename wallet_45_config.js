@@ -1,1 +1,1 @@
-var mnemonic = "chunk beef tissue peanut divorce dolphin first zero color diamond corn curious";
+var mnemonic = "north cable issue hold trash cricket estate donkey obscure galaxy front chalk";

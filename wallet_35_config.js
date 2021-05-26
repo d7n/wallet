@@ -1,1 +1,1 @@
-var mnemonic = "school mass angle fall captain have second stadium equip absent hold steak";
+var mnemonic = "emotion analyst outside until cat dial theme insane slender shy evoke ghost";

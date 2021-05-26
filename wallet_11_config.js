@@ -1,1 +1,1 @@
-var mnemonic = "federal pen health smart horror impact idle emotion find fatigue pelican error";
+var mnemonic = "taxi drift unfold sign solve turn artwork van tube move crack dismiss";

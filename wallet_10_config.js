@@ -1,1 +1,1 @@
-var mnemonic = "hope solar rib oxygen pair carbon short clever mask source tilt upon";
+var mnemonic = "whale adjust sister phrase divert kidney city orbit helmet stomach kiwi aerobic";

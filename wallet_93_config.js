@@ -1,1 +1,1 @@
-var mnemonic = "icon organ outer attend mountain august vendor annual cave stool size name";
+var mnemonic = "vicious attend utility you future help clock defense multiply home together flame";

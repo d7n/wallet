@@ -1,1 +1,1 @@
-var mnemonic = "orphan retreat swamp steak people burden curious very accident service tired photo";
+var mnemonic = "coral modify example control cave fruit bind actor mixed bullet hero cheese";

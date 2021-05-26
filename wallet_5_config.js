@@ -1,1 +1,1 @@
-var mnemonic = "unit safe surface insane like ocean collect science awkward pet view powder";
+var mnemonic = "weird element aisle unit harvest window usual jacket muscle powder anchor cattle";

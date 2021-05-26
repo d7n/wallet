@@ -1,1 +1,1 @@
-var mnemonic = "scrub swim board into undo ship coconut web balcony pull piano defense";
+var mnemonic = "twin gorilla minute peasant either accuse claw banner priority canal purchase sadness";

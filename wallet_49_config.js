@@ -1,1 +1,1 @@
-var mnemonic = "riot smooth permit grape salon debate allow reveal iron suggest trap wolf";
+var mnemonic = "light charge coin depend fashion uniform setup venue upper shadow carbon rebel";

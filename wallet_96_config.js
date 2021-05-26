@@ -1,1 +1,1 @@
-var mnemonic = "grass couple wish price number evidence all judge hand pretty disease van";
+var mnemonic = "famous better casino apple engage hat brave inform field toe interest disagree";

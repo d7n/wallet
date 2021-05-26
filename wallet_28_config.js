@@ -1,1 +1,1 @@
-var mnemonic = "ghost fruit unit expose wage inject cream dignity alpha inside seven win";
+var mnemonic = "garbage asset wish craft biology snow sunny teach merry wink crush wheel";

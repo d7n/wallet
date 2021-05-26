@@ -1,1 +1,1 @@
-var mnemonic = "book never news cross horn box rotate ghost chase extend mixed grow";
+var mnemonic = "make renew require couple paddle age feel confirm whip bag design large";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday meat crew more biology piano spirit neither face squirrel town advice";
+var mnemonic = "twin twin crane outside assault this gorilla cry benefit winter trip spider";

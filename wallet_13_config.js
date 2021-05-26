@@ -1,1 +1,1 @@
-var mnemonic = "volcano immune slush dolphin volume damp glow oval brand travel village execute";
+var mnemonic = "unable problem axis gravity flower throw ranch fee wheel bike host blur";

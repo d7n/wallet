@@ -1,1 +1,1 @@
-var mnemonic = "much syrup chase upset depend recall kitchen enough vendor very language frequent";
+var mnemonic = "snack organ basic teach shrug boat ticket innocent envelope foil close lady";

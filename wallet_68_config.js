@@ -1,1 +1,1 @@
-var mnemonic = "observe thumb swear fatigue sail turtle punch time floor local prefer cat";
+var mnemonic = "section soda chronic master quality portion miracle divert chef dress stomach route";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic chaos sugar fiscal swarm involve region remember glow conduct answer focus";
+var mnemonic = "dolphin vacant tired awkward small damage rebel club cotton math drift wolf";

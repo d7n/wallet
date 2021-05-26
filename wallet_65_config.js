@@ -1,1 +1,1 @@
-var mnemonic = "bicycle raw drive step spawn history rather unveil rebel model motor panic";
+var mnemonic = "leaf soul between small plug grid dream inner mother all spider canyon";

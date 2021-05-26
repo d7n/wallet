@@ -1,1 +1,1 @@
-var mnemonic = "luggage celery loan gap panel oblige version equal smoke junk soul pond";
+var mnemonic = "sign double follow lawsuit awkward diamond pen come island keen tuna funny";

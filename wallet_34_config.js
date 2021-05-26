@@ -1,1 +1,1 @@
-var mnemonic = "hospital pair desk twice mosquito stay episode bench wild hero also engage";
+var mnemonic = "tattoo vivid anchor robot unveil busy hand bar fitness cousin morning purchase";

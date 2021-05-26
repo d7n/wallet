@@ -1,1 +1,1 @@
-var mnemonic = "fog reduce reduce salt since second stock super insect supply spatial quarter";
+var mnemonic = "wear party hour voice old rely close custom install bring birth lab";

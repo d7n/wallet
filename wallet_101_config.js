@@ -1,1 +1,1 @@
-var mnemonic = "area thank august mirror skull stadium sight blush anger ripple monster goat";
+var mnemonic = "voice trumpet pattern dove notable emotion avoid daughter boring practice good outdoor";

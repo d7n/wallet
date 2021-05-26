@@ -1,1 +1,1 @@
-var mnemonic = "involve ticket mandate case flush skin congress mean vote spider glue owner";
+var mnemonic = "unlock peace dignity avocado faith prefer jewel bring kitten dynamic license route";

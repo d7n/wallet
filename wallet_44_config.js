@@ -1,1 +1,1 @@
-var mnemonic = "nature labor mandate arch bubble clinic dash bright use anxiety oven bike";
+var mnemonic = "candy brass between ecology census make nation home feature spider basket shy";

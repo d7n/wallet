@@ -1,1 +1,1 @@
-var mnemonic = "taxi season bracket bounce receive this turtle distance average pumpkin install police";
+var mnemonic = "athlete scatter memory whale mistake beach pact machine mistake output cook naive";

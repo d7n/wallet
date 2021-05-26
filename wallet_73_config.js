@@ -1,1 +1,1 @@
-var mnemonic = "oppose canyon fork endorse orient escape better cheese among category movie quick";
+var mnemonic = "saddle deny ignore meat possible weather hunt crew purity cause undo solve";

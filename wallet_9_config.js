@@ -1,1 +1,1 @@
-var mnemonic = "unknown stand scorpion crash that feed ski hair label under easily lounge";
+var mnemonic = "tag home erosion above soap during host face theory coil try balance";

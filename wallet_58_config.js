@@ -1,1 +1,1 @@
-var mnemonic = "crane travel cry wear eternal smart elegant dizzy start ripple humble kid";
+var mnemonic = "rocket mention disagree mule diary antenna couch item symbol treat enough smart";

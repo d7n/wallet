@@ -1,1 +1,1 @@
-var mnemonic = "powder reject resist chest cradle tortoise wish climb alone bonus document bench";
+var mnemonic = "nest digital term cloth father hood industry become candy belt hen fringe";

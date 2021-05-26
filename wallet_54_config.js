@@ -1,1 +1,1 @@
-var mnemonic = "soul pizza shallow reduce strong search drip lady expose run resist ceiling";
+var mnemonic = "forward leisure poverty chest attract rifle where million grow crucial own arrive";

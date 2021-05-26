@@ -1,1 +1,1 @@
-var mnemonic = "easy fire goddess indicate one wheel holiday spoon finger cry unlock faculty";
+var mnemonic = "luggage flavor timber indicate apart math pink early return proud coyote inch";

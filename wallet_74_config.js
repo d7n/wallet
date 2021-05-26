@@ -1,1 +1,1 @@
-var mnemonic = "throw then humor rural gain roast hundred rubber harbor enforce renew fall";
+var mnemonic = "custom earn innocent usage snake dutch grace that dry crane trigger borrow";

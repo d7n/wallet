@@ -1,1 +1,1 @@
-var mnemonic = "gloom review patch west chronic tribe grain alone bonus ridge reason dignity";
+var mnemonic = "salute cost pilot employ gesture artwork aim dust awkward tree grain above";

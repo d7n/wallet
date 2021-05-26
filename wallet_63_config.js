@@ -1,1 +1,1 @@
-var mnemonic = "endorse brisk toss prepare release neck sad rich adjust endless effort sword";
+var mnemonic = "ill detect priority call shift govern garage write absurd silly blame entry";
