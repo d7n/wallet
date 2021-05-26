@@ -1,1 +1,1 @@
-var mnemonic = "teach owner pull trip impulse jar major hole style detect forward aunt";
+var mnemonic = "scale pass vault weasel siren giraffe glue broom field blouse voice slice";

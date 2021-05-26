@@ -1,1 +1,1 @@
-var mnemonic = "disagree shine toward goose element pipe camera dilemma hood blanket edge damage";
+var mnemonic = "entire recipe border tone girl ten attitude allow cactus ladder prefer cattle";

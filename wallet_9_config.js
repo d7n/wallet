@@ -1,1 +1,1 @@
-var mnemonic = "disagree obey conduct island material forward dirt ritual common talk visa hazard";
+var mnemonic = "viable pretty valley dismiss extra fortune asthma galaxy verb unit vacuum sell";

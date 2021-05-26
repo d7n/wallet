@@ -1,1 +1,1 @@
-var mnemonic = "truly stool episode clump announce emerge enemy maximum escape wealth valid palm";
+var mnemonic = "absurd match clinic aisle scout thunder okay frequent door surround zoo flower";

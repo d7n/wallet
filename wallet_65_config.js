@@ -1,1 +1,1 @@
-var mnemonic = "crop cluster crumble copy north bleak awesome famous cross vocal grunt cool";
+var mnemonic = "exercise layer illness opinion virus token slender current decide olympic like essence";

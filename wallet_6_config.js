@@ -1,1 +1,1 @@
-var mnemonic = "hospital hard artefact relief city that tortoise fire year credit deposit doctor";
+var mnemonic = "divide engine wealth stereo alter harbor cotton install program echo sauce combine";

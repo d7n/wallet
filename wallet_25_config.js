@@ -1,1 +1,1 @@
-var mnemonic = "nest stairs bargain kingdom pass slim photo else debris two wedding leave";
+var mnemonic = "glad okay kite exchange fox vivid draw draft warrior feel dice run";

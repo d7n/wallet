@@ -1,1 +1,1 @@
-var mnemonic = "office cute report insane leaf sell sad blame valid delay coconut actress";
+var mnemonic = "home fashion north because twice gadget high action gospel mutual survey today";

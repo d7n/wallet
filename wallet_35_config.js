@@ -1,1 +1,1 @@
-var mnemonic = "cram benefit strike saddle grant carpet logic elite panther involve security child";
+var mnemonic = "east cost novel region zone bless bike fever unfold advice typical apple";

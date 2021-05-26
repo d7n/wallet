@@ -1,1 +1,1 @@
-var mnemonic = "fossil explain hedgehog deer grass bind purity merge all possible lady sudden";
+var mnemonic = "market ticket sense side hidden message rough canoe peace belt lucky receive";

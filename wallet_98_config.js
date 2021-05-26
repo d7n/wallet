@@ -1,1 +1,1 @@
-var mnemonic = "drip forward mesh lazy flavor enough cradle noble seek jaguar together arrange";
+var mnemonic = "one husband fork heart own stem raw sentence slow frown vicious naive";

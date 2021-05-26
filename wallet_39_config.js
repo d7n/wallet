@@ -1,1 +1,1 @@
-var mnemonic = "lonely eagle recycle cinnamon tourist pact strike march soft inherit hotel vast";
+var mnemonic = "snow spoon dolphin hospital bubble wheel tip planet hunt people mango top";

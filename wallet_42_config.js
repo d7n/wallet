@@ -1,1 +1,1 @@
-var mnemonic = "labor fade proof fiber legend evil path enlist story theme shrug phrase";
+var mnemonic = "flock action physical stick distance flight harsh during stem palace bone stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh stem mobile sorry urban become gallery switch stable drift audit mushroom";
+var mnemonic = "answer tide denial grace melody vocal upgrade check page penalty game property";

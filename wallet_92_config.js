@@ -1,1 +1,1 @@
-var mnemonic = "focus second pottery flash evoke arrest aunt only gesture fold shock balcony";
+var mnemonic = "whale lend caught brisk layer panda luxury taxi dignity major west forest";

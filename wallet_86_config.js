@@ -1,1 +1,1 @@
-var mnemonic = "rib cream lion sadness field custom know outer luggage right foil receive";
+var mnemonic = "super record finger diesel budget glimpse usage rail jazz remind gospel detail";

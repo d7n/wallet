@@ -1,1 +1,1 @@
-var mnemonic = "seed venue whip emotion saddle wrist trip link buyer fragile place maze";
+var mnemonic = "owner nuclear head crucial roof rate eight assume army sugar alley clarify";

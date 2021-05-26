@@ -1,1 +1,1 @@
-var mnemonic = "beauty sense own flower raise speak life final image shoot scrub ensure";
+var mnemonic = "wool stumble auction mirror assault gesture learn tackle outside flock faint index";

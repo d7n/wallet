@@ -1,1 +1,1 @@
-var mnemonic = "youth burden upon chunk tomato machine require scout lady nation news fiscal";
+var mnemonic = "ancient assist assault second close item burger egg subway worry meat mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "worth install volume science story foam sight volume notice wheat river leisure";
+var mnemonic = "trade usual moral hurdle hole one valley abstract theme tourist mandate radio";

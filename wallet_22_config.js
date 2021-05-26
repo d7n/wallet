@@ -1,1 +1,1 @@
-var mnemonic = "trade vacuum scrap cheese armed gadget mixture portion punch arm paper practice";
+var mnemonic = "special okay excite decade bulk afraid quarter seed service unusual anxiety attack";

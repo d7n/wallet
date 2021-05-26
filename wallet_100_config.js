@@ -1,1 +1,1 @@
-var mnemonic = "accident spare entire occur cake spice person cousin sketch decade harvest worth";
+var mnemonic = "combine undo cover strike cycle olive vapor credit manual rack endorse catalog";

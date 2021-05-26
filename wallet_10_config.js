@@ -1,1 +1,1 @@
-var mnemonic = "sand secret swamp furnace luggage want shine book ship essence satisfy embark";
+var mnemonic = "birth label strike ignore crane swarm liquid board perfect train shed knee";

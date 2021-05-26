@@ -1,1 +1,1 @@
-var mnemonic = "naive maid private gaze retire chronic dance glide believe sing furnace nest";
+var mnemonic = "combine save delay inmate ice gold sense scrap icon author home faint";

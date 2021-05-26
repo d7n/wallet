@@ -1,1 +1,1 @@
-var mnemonic = "false produce valve sauce young truth daring olive patrol hotel clerk visa";
+var mnemonic = "general escape belt cry page stamp dream plate clutch flock blast unable";

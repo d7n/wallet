@@ -1,1 +1,1 @@
-var mnemonic = "gown burger tenant large surface parade imitate satoshi wrestle quote win decade";
+var mnemonic = "announce travel way drum oxygen weekend retreat viable wine gap bless public";

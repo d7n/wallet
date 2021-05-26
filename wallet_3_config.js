@@ -1,1 +1,1 @@
-var mnemonic = "weird dirt scan syrup monkey glad meadow outdoor kite marine dawn snack";
+var mnemonic = "grocery omit hockey supply want repeat antenna consider surprise index magic myth";

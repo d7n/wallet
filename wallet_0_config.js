@@ -1,1 +1,1 @@
-var mnemonic = "skirt total ramp property once mansion subway volcano law face merit moral";
+var mnemonic = "move income donor cross raw sister fabric risk margin then green escape";

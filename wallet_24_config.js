@@ -1,1 +1,1 @@
-var mnemonic = "miracle run pen romance inmate street note bonus engage clog supply music";
+var mnemonic = "soccer universe tuna shock riot gather print process strike certain black ribbon";

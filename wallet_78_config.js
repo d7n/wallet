@@ -1,1 +1,1 @@
-var mnemonic = "obscure game end number file main sail govern game timber impact flight";
+var mnemonic = "egg vehicle alley cause chest bind marble elbow want crunch treat ghost";

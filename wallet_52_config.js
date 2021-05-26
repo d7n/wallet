@@ -1,1 +1,1 @@
-var mnemonic = "whip gadget country swim lizard rocket blouse cross remember twelve bread any";
+var mnemonic = "abstract high stem swift better bar club poet tackle attitude sort proud";

@@ -1,1 +1,1 @@
-var mnemonic = "trial mad entry boil tone bid office dry addict note salt catalog";
+var mnemonic = "moon skirt hello naive reduce dance cause jar own bamboo erosion toddler";

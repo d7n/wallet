@@ -1,1 +1,1 @@
-var mnemonic = "shrug mule client bonus together mad have coin super ladder foster shock";
+var mnemonic = "margin early surprise fashion aisle vivid fetch merge awful weird bright soul";

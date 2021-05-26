@@ -1,1 +1,1 @@
-var mnemonic = "laugh method glimpse razor vivid island setup struggle chimney spray anchor dawn";
+var mnemonic = "bundle mirror obscure slab melt stick omit protect lesson combine arch rate";

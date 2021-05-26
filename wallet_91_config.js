@@ -1,1 +1,1 @@
-var mnemonic = "garage paddle wink frost aisle today time stable glass scissors skate denial";
+var mnemonic = "gallery snap shy argue dust solve end fork hamster earth canoe address";

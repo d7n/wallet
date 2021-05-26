@@ -1,1 +1,1 @@
-var mnemonic = "shadow fix expose wisdom reveal brave fault hazard fork arrange glass exit";
+var mnemonic = "basic tiger boring light still theme type sphere author tone mind title";

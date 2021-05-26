@@ -1,1 +1,1 @@
-var mnemonic = "elder icon infant diary rival deal sound reform swap confirm speak other";
+var mnemonic = "duck tunnel glide orbit humble nose fatigue bleak resemble green mass remind";

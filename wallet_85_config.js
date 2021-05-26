@@ -1,1 +1,1 @@
-var mnemonic = "proof project chaos valid captain immune rocket annual lamp face alley year";
+var mnemonic = "idle wrap under episode cherry earn resist soccer dove time orange behave";

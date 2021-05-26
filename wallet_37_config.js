@@ -1,1 +1,1 @@
-var mnemonic = "media morning asset exile field eight claim orchard cancel siege crazy habit";
+var mnemonic = "vacant cabin network leave join wealth atom office chalk sail pride parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "minute latin body where frost tape afford odor shield gallery swim boss";
+var mnemonic = "choice absorb either grape charge cloud item hood such beef blouse foot";

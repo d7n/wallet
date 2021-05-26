@@ -1,1 +1,1 @@
-var mnemonic = "lesson false road pet food style usage absorb firm powder install snow";
+var mnemonic = "comic defy ahead help legal mistake series desk advance shove share pole";

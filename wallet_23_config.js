@@ -1,1 +1,1 @@
-var mnemonic = "still other critic toast amount sick wing segment false mask poet engine";
+var mnemonic = "kit senior eye steel inside ride magic evoke solution during depth morning";

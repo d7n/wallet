@@ -1,1 +1,1 @@
-var mnemonic = "captain lesson message crazy pattern acquire sister sibling hunt speak title olympic";
+var mnemonic = "disorder baby basket arrow margin rain tuna balance brown ghost choose cool";

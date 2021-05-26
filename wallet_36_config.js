@@ -1,1 +1,1 @@
-var mnemonic = "subway april junior pipe sadness economy kiwi drum egg birth capital garbage";
+var mnemonic = "cross wealth dizzy section wait argue border sorry park plate crunch garment";

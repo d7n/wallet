@@ -1,1 +1,1 @@
-var mnemonic = "library fitness truly flip sunny blanket funny master pill sunny wagon message";
+var mnemonic = "glare erode text mind dinosaur noodle situate danger industry hundred one steak";

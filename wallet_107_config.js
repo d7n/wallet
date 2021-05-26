@@ -1,1 +1,1 @@
-var mnemonic = "time siege wool grape lucky army success token cattle royal comfort when";
+var mnemonic = "mass disagree grunt dial autumn fault float noble network ritual together tragic";

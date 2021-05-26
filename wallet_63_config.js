@@ -1,1 +1,1 @@
-var mnemonic = "skull canvas donor clog grid certain grief engage stool shaft repeat trouble";
+var mnemonic = "animal derive betray diet skirt own divide crime bulb tomato glass helmet";

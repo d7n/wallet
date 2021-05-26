@@ -1,1 +1,1 @@
-var mnemonic = "trim cotton account media observe giggle orphan crowd soda vapor oppose wedding";
+var mnemonic = "fall slow siren age breeze since spike help silk glide voice differ";

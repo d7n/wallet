@@ -1,1 +1,1 @@
-var mnemonic = "obvious number fury clinic crash minor elder oval dinosaur noble boil cage";
+var mnemonic = "expand auto eagle circle armor pull animal force junk almost habit stay";

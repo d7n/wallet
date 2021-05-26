@@ -1,1 +1,1 @@
-var mnemonic = "spread sphere glass jacket quantum mosquito people crater fuel daughter offer exile";
+var mnemonic = "convince tooth run point little problem foam kitten volcano damp project camp";

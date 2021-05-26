@@ -1,1 +1,1 @@
-var mnemonic = "hold weather chapter smart pupil accuse talent next liberty loop beauty latin";
+var mnemonic = "palace cabin beauty total curve traffic slush opera announce repair route secret";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce move session soul top side okay category tobacco page magic copy";
+var mnemonic = "pledge churn spoil forum cloth tide frown cruel choice suspect affair input";

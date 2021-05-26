@@ -1,1 +1,1 @@
-var mnemonic = "diesel pioneer butter motion orchard lawn flat margin hero evil forget dry";
+var mnemonic = "faculty power mechanic more adjust usual body joy immense dynamic lyrics verify";

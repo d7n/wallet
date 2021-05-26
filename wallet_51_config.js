@@ -1,1 +1,1 @@
-var mnemonic = "vacuum gloom toast tobacco riot sheriff spread crumble glass knock exclude vote";
+var mnemonic = "same aisle this subway plate achieve nose tilt notable slam rubber room";

@@ -1,1 +1,1 @@
-var mnemonic = "tone visual involve omit chief sting group zero visa track stool shaft";
+var mnemonic = "anxiety caution despair silver bone warm cinnamon river where rescue split proof";

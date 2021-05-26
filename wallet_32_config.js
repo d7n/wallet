@@ -1,1 +1,1 @@
-var mnemonic = "laugh caution sorry wrist female fee output inspire swift leisure soap room";
+var mnemonic = "middle flip when ticket push inspire tomato engine fish crumble web dirt";

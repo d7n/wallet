@@ -1,1 +1,1 @@
-var mnemonic = "jewel drift cradle slam unique pig waste model rebel share phone myself";
+var mnemonic = "regular speak joy measure pistol neck dice genuine rough quit fog dawn";

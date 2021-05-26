@@ -1,1 +1,1 @@
-var mnemonic = "rubber dilemma flower coil raw decide case story room nerve nose account";
+var mnemonic = "physical mule embark destroy level manual rhythm quote elder monster urban eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "beef capable once panic car keen anchor cinnamon demise expose throw chest";
+var mnemonic = "float bonus trip grocery left put transfer leader topic absorb crater wait";

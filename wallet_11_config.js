@@ -1,1 +1,1 @@
-var mnemonic = "pulp hollow ranch album today attend fortune display tackle quality slice click";
+var mnemonic = "weapon notice nasty away kidney beach become sponsor stove bomb render gasp";

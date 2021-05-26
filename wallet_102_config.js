@@ -1,1 +1,1 @@
-var mnemonic = "seminar light input wheat order train dinner level security bag reduce cricket";
+var mnemonic = "topic rate gossip trumpet script believe lion thrive still achieve circle rebuild";

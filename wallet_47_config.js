@@ -1,1 +1,1 @@
-var mnemonic = "clog orchard quote vehicle brick release bunker crew sleep submit educate hockey";
+var mnemonic = "sausage enemy protect title charge ability pioneer ladder razor injury stage brisk";

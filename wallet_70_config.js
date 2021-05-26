@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur spawn celery quarter pilot hint empower assault media risk frost ketchup";
+var mnemonic = "wise pilot file text quick palm youth nice credit train tuition flag";

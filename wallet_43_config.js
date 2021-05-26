@@ -1,1 +1,1 @@
-var mnemonic = "vague clog miss pilot run dismiss come adult bless voice forum grocery";
+var mnemonic = "absent income peanut laugh peasant sauce fee vessel guess screen shoot frost";

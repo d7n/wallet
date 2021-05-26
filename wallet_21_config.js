@@ -1,1 +1,1 @@
-var mnemonic = "proof home milk vehicle put area wrist board knee goose loan bicycle";
+var mnemonic = "swap behind sadness silent high maid gadget stomach abandon aerobic photo gold";

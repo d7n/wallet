@@ -1,1 +1,1 @@
-var mnemonic = "vendor unlock neutral change middle shy dignity equal pet beauty conduct day";
+var mnemonic = "planet put side phone spike where number drink powder exact indoor thought";

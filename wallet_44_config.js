@@ -1,1 +1,1 @@
-var mnemonic = "fire correct expose grass loop brother harvest peanut thrive hard camera vessel";
+var mnemonic = "master twin surface lonely believe shiver pumpkin ginger orange soda awake traffic";

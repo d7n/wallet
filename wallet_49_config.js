@@ -1,1 +1,1 @@
-var mnemonic = "size give reform ankle debate fame bargain reflect evoke march journey kitten";
+var mnemonic = "expand flight rely boost safe history message banner vault chair fitness blur";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow gym ignore visual able pelican frozen horn tooth toe diagram gather";
+var mnemonic = "cherry pluck cover minimum debate produce diet crazy raven wet bundle holiday";

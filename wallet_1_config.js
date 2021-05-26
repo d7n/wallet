@@ -1,1 +1,1 @@
-var mnemonic = "oppose boy expire sibling ozone old canyon wave seek improve aim category";
+var mnemonic = "talk maze skill stomach light series lift cloud remind cabin describe atom";

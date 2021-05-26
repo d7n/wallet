@@ -1,1 +1,1 @@
-var mnemonic = "find detail earn problem waste sudden refuse network relief muscle identify ankle";
+var mnemonic = "shed country room fun pole below margin dirt maple taste balance tribe";

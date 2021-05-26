@@ -1,1 +1,1 @@
-var mnemonic = "useless picture load tunnel example dry banana dash harsh merry best radio";
+var mnemonic = "person cry poet salt festival smooth seed subway junior ghost between alone";

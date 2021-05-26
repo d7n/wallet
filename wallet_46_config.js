@@ -1,1 +1,1 @@
-var mnemonic = "drop tent cheese anxiety circle habit vacuum weasel twelve plunge glimpse trumpet";
+var mnemonic = "spread table shine average drastic message curtain alarm crack diagram mask another";

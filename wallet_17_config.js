@@ -1,1 +1,1 @@
-var mnemonic = "film avocado gap alcohol tomorrow brush very horror series icon core tumble";
+var mnemonic = "wolf dizzy frost rely merit catch cereal cushion window ability wood sister";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans blood kidney pond also expand field special spoon dance around junk";
+var mnemonic = "globe giraffe child unaware load wing prevent ignore patch property lock inflict";

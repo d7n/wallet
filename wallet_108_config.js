@@ -1,1 +1,1 @@
-var mnemonic = "spoon crater surround later project figure like just squeeze clutch slide afraid";
+var mnemonic = "junk better fabric edit hockey exercise jump shadow action grow frog lamp";

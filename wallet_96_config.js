@@ -1,1 +1,1 @@
-var mnemonic = "rotate pig crater imitate fabric skill quantum search dynamic fork shoot island";
+var mnemonic = "knife zebra rookie flight during detect relief amused hotel soldier post throw";

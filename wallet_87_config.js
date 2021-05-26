@@ -1,1 +1,1 @@
-var mnemonic = "muffin wagon gesture replace trade switch dentist mansion sea hedgehog autumn lady";
+var mnemonic = "vintage tomorrow object recall alpha sister bean life immune output wine innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "monster peace attack lawsuit jump donkey hunt vessel idea report leisure pink";
+var mnemonic = "sausage can gun dirt ginger pole kid deer cheap oval toe hover";

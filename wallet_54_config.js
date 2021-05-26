@@ -1,1 +1,1 @@
-var mnemonic = "soft member term write soap juice sadness music left odor foot close";
+var mnemonic = "appear photo excuse novel frost describe obtain control muscle thank drink jealous";

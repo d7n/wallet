@@ -1,1 +1,1 @@
-var mnemonic = "pen ugly trade leave oyster box draw jump scrub tumble south news";
+var mnemonic = "wait match monster cheese annual mean elder oblige margin oven diesel busy";

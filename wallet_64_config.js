@@ -1,1 +1,1 @@
-var mnemonic = "brain lottery mistake leave brave exclude mom bomb tiny scale wet patrol";
+var mnemonic = "regret dutch goose bid wealth pulp federal frost happy cross rude float";

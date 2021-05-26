@@ -1,1 +1,1 @@
-var mnemonic = "grocery cook enable inherit jealous wage devote apart wrestle audit leg access";
+var mnemonic = "fly razor emotion waste fancy dove number million cat online humble peanut";

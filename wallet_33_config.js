@@ -1,1 +1,1 @@
-var mnemonic = "hole yellow still tent choose crater rocket train find false truly radar";
+var mnemonic = "torch life mosquito caution ecology action finish appear cage leader sorry rule";
