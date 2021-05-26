@@ -1,1 +1,1 @@
-var mnemonic = "oak fossil industry book source melt glory solid road rubber tube innocent";
+var mnemonic = "cat deal ceiling universe humble phrase chunk eagle supreme grow mixed candy";

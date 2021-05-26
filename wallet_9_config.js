@@ -1,1 +1,1 @@
-var mnemonic = "weekend parrot burst barrel gravity stove toe stable notice shoulder logic popular";
+var mnemonic = "weather menu swamp same rotate lonely verb mule hour reward garage wool";

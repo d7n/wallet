@@ -1,1 +1,1 @@
-var mnemonic = "error invite fortune music lawsuit stage suffer story tunnel more nuclear devote";
+var mnemonic = "tissue welcome kick derive outer leader arch father lecture already flee connect";

@@ -1,1 +1,1 @@
-var mnemonic = "trade allow access cousin know index fat network wire civil soft quiz";
+var mnemonic = "artefact tiger decrease dream salute table warm number spend knee helmet genre";

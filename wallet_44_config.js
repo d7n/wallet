@@ -1,1 +1,1 @@
-var mnemonic = "exclude aware wash reduce yellow urban project eye tuna climb soon identify";
+var mnemonic = "diagram knock athlete brief renew fan width slight place detect invite such";

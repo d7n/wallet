@@ -1,1 +1,1 @@
-var mnemonic = "wet capital turkey inch nominee price gift word bleak bubble mean river";
+var mnemonic = "multiply attend affair clap purpose kiwi swap pumpkin media wine canvas spy";

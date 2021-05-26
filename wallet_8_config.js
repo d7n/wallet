@@ -1,1 +1,1 @@
-var mnemonic = "task rent fortune rebel order build habit include cave ice wing orchard";
+var mnemonic = "broccoli ball title flock fitness amused initial govern year large accident board";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket pole holiday source napkin plunge decade wine enemy float beauty odor";
+var mnemonic = "juice harsh disease oyster merit oak neutral same ribbon daughter during farm";

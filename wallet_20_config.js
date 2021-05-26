@@ -1,1 +1,1 @@
-var mnemonic = "soul cool typical buddy theme amused uncover possible vessel weapon innocent myth";
+var mnemonic = "hawk harsh wrist mother history announce control stomach north stone carry mistake";

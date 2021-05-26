@@ -1,1 +1,1 @@
-var mnemonic = "essence job light glass sad girl dog twenty adult rotate oyster abandon";
+var mnemonic = "april taxi cake expand imitate series chuckle dry blast manual solar visual";

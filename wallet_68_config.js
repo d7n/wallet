@@ -1,1 +1,1 @@
-var mnemonic = "fortune fog brief slot runway foam basket beef pair faint tired remember";
+var mnemonic = "goddess truly spell impulse section animal orange picnic feed spring razor auto";

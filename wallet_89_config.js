@@ -1,1 +1,1 @@
-var mnemonic = "help nose sauce gate pudding much icon choose pool certain saddle club";
+var mnemonic = "marble capital glove forest spoon envelope paper train young palace portion case";

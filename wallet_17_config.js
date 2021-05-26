@@ -1,1 +1,1 @@
-var mnemonic = "genuine despair warfare unveil dawn tobacco crush promote dash shock ribbon hat";
+var mnemonic = "source option canoe rebuild long cake coil calm damage bright loop trap";

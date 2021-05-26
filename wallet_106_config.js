@@ -1,1 +1,1 @@
-var mnemonic = "sugar potato illegal firm mistake tackle boat oblige bridge input elite impact";
+var mnemonic = "symbol glove admit devote wing grain dog ridge elbow stone bomb clump";

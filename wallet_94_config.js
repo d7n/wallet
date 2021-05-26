@@ -1,1 +1,1 @@
-var mnemonic = "razor spice stock stumble dress job update hold team reward mechanic popular";
+var mnemonic = "warrior thing auto nuclear kind hair salon yellow country put vibrant spell";

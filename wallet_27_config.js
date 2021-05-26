@@ -1,1 +1,1 @@
-var mnemonic = "solid divert tomorrow afford skin fiscal ill traffic pull approve stomach word";
+var mnemonic = "broccoli replace ritual buyer tonight above say dragon child swarm dial wing";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble polar dirt veteran cheese sing near sell deposit village slight crunch";
+var mnemonic = "client execute fuel frown smooth cloud shell deputy artwork print roof little";

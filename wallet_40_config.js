@@ -1,1 +1,1 @@
-var mnemonic = "stairs opinion time animal wrestle limit timber garden wait decide anchor noise";
+var mnemonic = "neutral enjoy smoke acquire broom gorilla excuse spare parade sad manual spare";

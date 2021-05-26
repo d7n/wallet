@@ -1,1 +1,1 @@
-var mnemonic = "guilt course pill glance spot fever bean make blind inside foster mouse";
+var mnemonic = "possible vicious series virus blanket clown budget soup slot accuse ice traffic";

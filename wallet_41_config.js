@@ -1,1 +1,1 @@
-var mnemonic = "divorce boring calm lizard cattle motion click struggle exhaust staff fame drink";
+var mnemonic = "decorate asset valley metal cousin august school where weapon erosion notable hover";

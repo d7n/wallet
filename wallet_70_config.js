@@ -1,1 +1,1 @@
-var mnemonic = "cable size argue matter usage agree pattern rapid offer gift empty step";
+var mnemonic = "sick cinnamon scissors welcome card husband cup lab crew youth brother vacant";

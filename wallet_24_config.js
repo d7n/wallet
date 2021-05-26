@@ -1,1 +1,1 @@
-var mnemonic = "venture among caught wolf wide elder ten abstract noble famous unlock memory";
+var mnemonic = "city elite suggest person quit crew soft occur lumber fun swallow often";

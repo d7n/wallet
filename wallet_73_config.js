@@ -1,1 +1,1 @@
-var mnemonic = "provide shallow blood banana cute symbol snake exact add topple assist diesel";
+var mnemonic = "visit volume clip envelope kite ritual unit frown cannon inspire depend match";

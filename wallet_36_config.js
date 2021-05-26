@@ -1,1 +1,1 @@
-var mnemonic = "history spray frown hello normal genuine analyst chief charge universe walnut broken";
+var mnemonic = "struggle frown easy advance knee usage few keen divorce weasel daring pretty";

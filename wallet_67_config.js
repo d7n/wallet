@@ -1,1 +1,1 @@
-var mnemonic = "odor tenant relief inquiry evolve when iron today devote wonder iron boy";
+var mnemonic = "provide weasel surface ugly fancy open hurdle rely fantasy lesson panther breeze";

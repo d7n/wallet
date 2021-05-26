@@ -1,1 +1,1 @@
-var mnemonic = "oppose long observe someone twelve book consider walnut conduct rain soft lemon";
+var mnemonic = "drink profit spread memory flee ribbon galaxy enrich require winner simple mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum typical craft mouse area pause brisk despair bind melt level increase";
+var mnemonic = "forget sight drastic adapt stem measure trend cheese salute similar parent dove";

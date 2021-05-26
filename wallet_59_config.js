@@ -1,1 +1,1 @@
-var mnemonic = "party learn clap because supreme ramp era crouch intact peanut olive scare";
+var mnemonic = "luxury armor elbow example dwarf idle crane budget era rocket disorder lawn";

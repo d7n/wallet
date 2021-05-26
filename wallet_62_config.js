@@ -1,1 +1,1 @@
-var mnemonic = "uphold rain piece develop trick what throw merry mention judge comic add";
+var mnemonic = "material member vapor swear afraid assault deputy solid matrix wait glare forum";

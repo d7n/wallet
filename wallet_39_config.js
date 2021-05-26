@@ -1,1 +1,1 @@
-var mnemonic = "arrest hat advice arrest echo upset slush fiction cheap capable cancel follow";
+var mnemonic = "symptom unfair bean thrive october marriage symptom pet together knock all uncover";

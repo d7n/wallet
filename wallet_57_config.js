@@ -1,1 +1,1 @@
-var mnemonic = "copy hat gun million deny crime curtain topple plastic steak junk prosper";
+var mnemonic = "sphere deal unit surge sibling cousin hollow patient saddle wife pumpkin chat";

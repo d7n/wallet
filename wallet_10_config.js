@@ -1,1 +1,1 @@
-var mnemonic = "ship throw title top spatial flight rate evolve tooth regret shoot scrap";
+var mnemonic = "best please ceiling tool desk panic mail assault depart year narrow risk";

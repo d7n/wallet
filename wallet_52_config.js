@@ -1,1 +1,1 @@
-var mnemonic = "north alien country opinion gate box milk shift roof ride cactus jewel";
+var mnemonic = "gauge dream elegant october style absurd memory high mesh swift never prize";

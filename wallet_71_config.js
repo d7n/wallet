@@ -1,1 +1,1 @@
-var mnemonic = "seek invite duck endless spoil endorse sleep gap giraffe ritual session acoustic";
+var mnemonic = "remain inmate piano cage ship cover want ghost menu include notice round";

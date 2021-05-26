@@ -1,1 +1,1 @@
-var mnemonic = "hidden address person bird arrow beyond position mad utility arctic unit alley";
+var mnemonic = "inform group twice frown vast change expect metal illness claim gentle hip";

@@ -1,1 +1,1 @@
-var mnemonic = "because metal vehicle vocal unhappy vicious unable cluster plunge reward turtle umbrella";
+var mnemonic = "spider else tower glimpse coil chicken loud shield coil shield lucky opera";

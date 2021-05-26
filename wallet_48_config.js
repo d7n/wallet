@@ -1,1 +1,1 @@
-var mnemonic = "worry walnut wedding total edge laptop human flavor buzz retreat other member";
+var mnemonic = "butter keep impact fox story exotic confirm body soda admit pulp feed";

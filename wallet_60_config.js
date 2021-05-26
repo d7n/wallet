@@ -1,1 +1,1 @@
-var mnemonic = "major life thing peasant custom second fiction reunion regret media youth puzzle";
+var mnemonic = "airport rice canal jump spike point fine charge engine sausage agree festival";

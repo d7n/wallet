@@ -1,1 +1,1 @@
-var mnemonic = "hard divide runway fault isolate senior employ olympic garlic unfold number consider";
+var mnemonic = "twin wild choose educate nephew gloom tuition update birth lab grab essence";

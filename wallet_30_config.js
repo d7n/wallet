@@ -1,1 +1,1 @@
-var mnemonic = "coil coin organ magic planet trial glad sick pudding cool busy lab";
+var mnemonic = "seed romance kidney setup better note mimic inquiry true museum false praise";

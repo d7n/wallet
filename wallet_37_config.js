@@ -1,1 +1,1 @@
-var mnemonic = "calm female rebel gossip barely wine initial angle antique illness weather tornado";
+var mnemonic = "angle town elbow outside tumble client divorce access market follow casino actual";

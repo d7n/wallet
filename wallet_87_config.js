@@ -1,1 +1,1 @@
-var mnemonic = "clay gas entry pulp online drum gadget hope enemy crunch detail whisper";
+var mnemonic = "vapor catch cricket whale situate spy grace remove rapid tribe lyrics live";

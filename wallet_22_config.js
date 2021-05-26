@@ -1,1 +1,1 @@
-var mnemonic = "basic glow hover force never veteran shallow goddess reason trick vicious ribbon";
+var mnemonic = "guard among stool ahead annual fossil suspect foot night eight trophy enforce";

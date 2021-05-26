@@ -1,1 +1,1 @@
-var mnemonic = "razor sketch fury tissue guide metal priority mass camp resource entire behind";
+var mnemonic = "spin reward radar length siege tip update traffic have arena sad awesome";

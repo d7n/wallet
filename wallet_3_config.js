@@ -1,1 +1,1 @@
-var mnemonic = "abuse invest number car only disorder impulse clock brand angle ritual bracket";
+var mnemonic = "wreck glory must glad rookie wink attract hair day damp inner wheel";

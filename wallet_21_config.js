@@ -1,1 +1,1 @@
-var mnemonic = "choose fault spot pottery destroy code refuse diagram memory bamboo foil behind";
+var mnemonic = "blossom nature under token regret beyond evoke spider ostrich impulse circle include";

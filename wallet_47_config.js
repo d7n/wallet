@@ -1,1 +1,1 @@
-var mnemonic = "boil large science napkin fantasy sea collect deer cat canvas credit series";
+var mnemonic = "attack damp cluster bird flavor head armed toilet rent fee husband almost";

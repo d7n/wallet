@@ -1,1 +1,1 @@
-var mnemonic = "rough sound crowd machine degree upon police swing tape tiger answer picnic";
+var mnemonic = "vapor aisle beyond bulk habit crime fever detail kingdom float cement thrive";

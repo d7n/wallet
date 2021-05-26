@@ -1,1 +1,1 @@
-var mnemonic = "labor identify over blush embark check tomorrow today destroy swing toy unaware";
+var mnemonic = "wrist waste put praise isolate special crowd hour layer because liberty wheel";

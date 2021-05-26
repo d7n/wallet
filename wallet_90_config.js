@@ -1,1 +1,1 @@
-var mnemonic = "year garment expect during book child fabric remember motion sea artwork ivory";
+var mnemonic = "kingdom diary unlock virus tent parent wheat receive viable stove argue switch";

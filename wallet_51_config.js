@@ -1,1 +1,1 @@
-var mnemonic = "glove category canyon kitchen sword rural filter manual release flash exit dust";
+var mnemonic = "style flee marble three denial winter hour cluster kangaroo laptop bundle famous";

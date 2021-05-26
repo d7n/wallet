@@ -1,1 +1,1 @@
-var mnemonic = "offer below toe update light kind disagree empty this climb clip prepare";
+var mnemonic = "quarter faith trash tape word protect valve visit bunker rhythm weather vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "section broom abuse arrest judge wave atom renew bleak vivid salt math";
+var mnemonic = "option guitar rural collect any bone initial engine capable unique lava lottery";

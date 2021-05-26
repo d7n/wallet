@@ -1,1 +1,1 @@
-var mnemonic = "fade state unfair program laundry few describe rice peasant lift glad fox";
+var mnemonic = "clean depend will spring manage skirt scan trial isolate fitness loyal cross";

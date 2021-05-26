@@ -1,1 +1,1 @@
-var mnemonic = "ask mango elder debate end sample doctor blast purpose egg hammer arctic";
+var mnemonic = "machine six lunar rather damp moral gesture print bean obscure jaguar lawn";

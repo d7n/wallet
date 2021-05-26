@@ -1,1 +1,1 @@
-var mnemonic = "eternal orbit audit dignity argue brass original start cream brand grain smooth";
+var mnemonic = "silent obtain scene file able rice uphold circle draft where sentence skin";

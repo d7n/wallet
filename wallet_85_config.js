@@ -1,1 +1,1 @@
-var mnemonic = "trophy already myself clip juice combine balcony catalog hover raw yellow camp";
+var mnemonic = "bulb erosion thunder nature penalty pulse slot token net disease critic urge";

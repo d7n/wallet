@@ -1,1 +1,1 @@
-var mnemonic = "corn digital knock usage climb album lock exist improve share tide cram";
+var mnemonic = "swamp desk chunk language pave sugar drop used fragile eyebrow much also";

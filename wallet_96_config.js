@@ -1,1 +1,1 @@
-var mnemonic = "cliff talent buzz edit year weasel emerge wrap leisure erase drive stone";
+var mnemonic = "where debris fan game economy better excite feel response kidney chat beauty";

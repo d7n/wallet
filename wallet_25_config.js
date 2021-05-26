@@ -1,1 +1,1 @@
-var mnemonic = "lab place someone employ pitch tumble tree setup decrease wealth easy style";
+var mnemonic = "copy reduce problem hen wedding speak home spend gospel cradle dawn arena";

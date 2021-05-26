@@ -1,1 +1,1 @@
-var mnemonic = "weasel security maze vacant host humble voyage fringe hotel acoustic hockey august";
+var mnemonic = "around trap stage circle chronic leg during either twelve park airport you";

@@ -1,1 +1,1 @@
-var mnemonic = "tape father industry merry asthma zoo hollow plastic impose pepper false expand";
+var mnemonic = "meadow material federal sorry wire soccer afraid person rescue depend point penalty";

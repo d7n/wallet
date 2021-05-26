@@ -1,1 +1,1 @@
-var mnemonic = "arrest dust aim guide brass ranch blossom aunt palace turtle craft gossip";
+var mnemonic = "coffee december slim error exile merry pulse alert key design damage pistol";

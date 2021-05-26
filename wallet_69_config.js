@@ -1,1 +1,1 @@
-var mnemonic = "endless city entire lonely kingdom punch property vault advice miss captain used";
+var mnemonic = "must horror riot happy ahead trend attitude stamp express blouse name echo";

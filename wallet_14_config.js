@@ -1,1 +1,1 @@
-var mnemonic = "then pride friend spend crop mail identify actual snake magnet text jaguar";
+var mnemonic = "tumble combine nest tumble various program claw embrace cycle core acid engage";

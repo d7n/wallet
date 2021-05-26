@@ -1,1 +1,1 @@
-var mnemonic = "hard injury degree bracket torch aim alert senior rug vault carry cube";
+var mnemonic = "sing inherit trip news toilet state dutch admit only guilt best begin";

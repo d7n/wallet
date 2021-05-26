@@ -1,1 +1,1 @@
-var mnemonic = "provide bean woman bounce hen add liquid easily coil drum feel code";
+var mnemonic = "chunk cluster culture budget they grid quarter obey fade foster grace clean";

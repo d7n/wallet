@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit uniform melt insect lobster verb document letter decide october waste assume";
+var mnemonic = "leopard soccer choice law walk choose interest frame alarm cheap absurd emotion";

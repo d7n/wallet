@@ -1,1 +1,1 @@
-var mnemonic = "limb idle coral weapon mouse sunset want behind media what say antique";
+var mnemonic = "busy crisp flip between stuff suggest gain actual bike large valley provide";

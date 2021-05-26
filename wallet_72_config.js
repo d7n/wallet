@@ -1,1 +1,1 @@
-var mnemonic = "report gown obscure rigid slender infant social tunnel person armor truck chapter";
+var mnemonic = "patch deer abstract rain gentle grocery yellow impact drive carbon matter winner";

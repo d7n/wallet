@@ -1,1 +1,1 @@
-var mnemonic = "suit torch final atom shaft odor deal furnace myth wish gather frozen";
+var mnemonic = "craft seek gesture aunt rapid spy client blur place stove video lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "knock there urge super fragile device fork sauce mirror struggle height inch";
+var mnemonic = "where sport buddy match silly bulk episode guess carpet key correct wish";

@@ -1,1 +1,1 @@
-var mnemonic = "embark spike angry inherit draw seek history drive void elegant lady relief";
+var mnemonic = "fruit sphere impose crowd million ramp prosper zero solid steak eyebrow marble";

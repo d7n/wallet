@@ -1,1 +1,1 @@
-var mnemonic = "congress dignity ostrich pond mistake verify absent mimic vast broom lonely spoon";
+var mnemonic = "gaze feed soda settle million observe trade also reduce parrot clean defy";

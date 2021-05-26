@@ -1,1 +1,1 @@
-var mnemonic = "beach devote armor surround struggle bleak define harvest grace kitchen valley cheap";
+var mnemonic = "gentle miss defense wasp dutch praise renew jeans siren praise various review";

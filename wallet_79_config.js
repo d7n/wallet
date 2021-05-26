@@ -1,1 +1,1 @@
-var mnemonic = "swap angle cross vast lock october loud fiction nut region carpet zone";
+var mnemonic = "depth spoil coin rather segment omit dolphin mother glide moral evoke carpet";

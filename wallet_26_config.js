@@ -1,1 +1,1 @@
-var mnemonic = "delay gather impulse globe rabbit wisdom sword bracket visa ski path client";
+var mnemonic = "wish wait gain evil horn negative tissue solar either upgrade limb gather";

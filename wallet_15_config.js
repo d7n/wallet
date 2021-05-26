@@ -1,1 +1,1 @@
-var mnemonic = "romance chuckle photo color meadow atom near album middle twin round use";
+var mnemonic = "prize mushroom bicycle armed stick buyer cruel allow only supreme buffalo tomorrow";

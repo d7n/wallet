@@ -1,1 +1,1 @@
-var mnemonic = "capital canal moral exact escape asthma build warm tuition adjust forest snow";
+var mnemonic = "broken silly reduce club plug double swim amount music else agent sick";

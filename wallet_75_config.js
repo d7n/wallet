@@ -1,1 +1,1 @@
-var mnemonic = "pipe peanut sun electric annual sausage private carbon apart pudding afraid shed";
+var mnemonic = "buddy pelican owner bargain devote leader engine gain roast nose switch genuine";

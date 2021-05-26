@@ -1,1 +1,1 @@
-var mnemonic = "craft crane panel pond faint patch soul matter party increase dust tree";
+var mnemonic = "juice grape input term fabric legal merit fiber ranch kingdom office alley";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma rich grass farm shoot van juice glare cushion rely devote youth";
+var mnemonic = "tree cotton beyond cupboard mind like adjust vapor plunge miracle pool used";

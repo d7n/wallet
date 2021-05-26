@@ -1,1 +1,1 @@
-var mnemonic = "they sea cousin hawk over knife letter noodle firm myth earn assume";
+var mnemonic = "crater evoke exile express domain atom unveil autumn print prepare obey father";

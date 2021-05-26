@@ -1,1 +1,1 @@
-var mnemonic = "offer stadium pony chalk scorpion opinion venue produce antenna bitter kidney drum";
+var mnemonic = "quarter cash that leg ocean rate close comic common kid candy cotton";

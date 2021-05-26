@@ -1,1 +1,1 @@
-var mnemonic = "small popular burst solution hip reason cash physical fatal forward alley opera";
+var mnemonic = "tourist spoil measure supply destroy nurse wrist unlock true sick rabbit hedgehog";

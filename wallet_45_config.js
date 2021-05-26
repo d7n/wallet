@@ -1,1 +1,1 @@
-var mnemonic = "salad same shrug menu equal either script flame leave advice artwork click";
+var mnemonic = "bone scale sphere track curtain awesome case mom antenna solid salt field";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire stairs unveil divert wall scout cross dune doctor typical eight reject";
+var mnemonic = "furnace one fog rely food alley gospel video scheme limit receive layer";
