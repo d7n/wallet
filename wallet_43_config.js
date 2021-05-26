@@ -1,1 +1,1 @@
-var mnemonic = "canvas velvet inherit elevator capable shoe witness enlist vague scrap lunar tonight";
+var mnemonic = "napkin bullet pipe decorate cover answer culture cry cram negative endorse also";

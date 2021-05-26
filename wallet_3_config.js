@@ -1,1 +1,1 @@
-var mnemonic = "inner crane okay stove spirit skirt fence curious drama alter jump forest";
+var mnemonic = "mix track hat course magnet cruel stable mixture clean upon giggle shell";

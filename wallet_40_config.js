@@ -1,1 +1,1 @@
-var mnemonic = "typical busy empower soldier absent dynamic chaos gadget ice service web crack";
+var mnemonic = "drive tobacco fatigue congress inflict two misery push autumn copper ketchup hard";

@@ -1,1 +1,1 @@
-var mnemonic = "file west city abstract lunar economy bicycle section deer boy gain cliff";
+var mnemonic = "hidden erase truth fan drip transfer what canvas finish scorpion mountain equal";

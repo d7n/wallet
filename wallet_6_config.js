@@ -1,1 +1,1 @@
-var mnemonic = "lizard decide pause cool wealth unfold key cost cushion cream cheap theory";
+var mnemonic = "tackle brief position chapter cook voyage okay asthma garden umbrella riot festival";

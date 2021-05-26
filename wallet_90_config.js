@@ -1,1 +1,1 @@
-var mnemonic = "festival element minor fox already slight current turtle benefit lazy live desk";
+var mnemonic = "insect outdoor wasp paddle horn immune arrow muffin believe actress embark comfort";

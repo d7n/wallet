@@ -1,1 +1,1 @@
-var mnemonic = "scrap faculty smile eye deposit kingdom strike connect verify dignity under wait";
+var mnemonic = "cushion borrow ketchup pave camp canal ranch license noise loan fantasy shell";

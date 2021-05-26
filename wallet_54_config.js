@@ -1,1 +1,1 @@
-var mnemonic = "inhale replace virtual alley essence seed decorate sword weather phone ten unaware";
+var mnemonic = "educate unhappy report fiscal chase hockey side order legend never drink increase";

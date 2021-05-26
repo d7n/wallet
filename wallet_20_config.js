@@ -1,1 +1,1 @@
-var mnemonic = "frost quiz seat fix violin figure blush illness onion taxi bind address";
+var mnemonic = "uphold shoe mobile behind mix spread expire alarm force metal horse issue";

@@ -1,1 +1,1 @@
-var mnemonic = "noise soccer junior awesome risk either skull menu absent beyond glide hurt";
+var mnemonic = "project dolphin volume scorpion need cloud lift tail good mandate empower spike";

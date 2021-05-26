@@ -1,1 +1,1 @@
-var mnemonic = "fatigue zebra eyebrow length paper judge real never congress worry eager crucial";
+var mnemonic = "melt sentence zebra fault rural happy beach iron swear medal jealous already";

@@ -1,1 +1,1 @@
-var mnemonic = "pair lounge lobster emerge country faculty tunnel shy rug laugh notable tiny";
+var mnemonic = "rent bread large wild robust defense burden cherry chronic rotate slight review";

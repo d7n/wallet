@@ -1,1 +1,1 @@
-var mnemonic = "glad gorilla shrug alarm hospital nerve gate above creek sugar rice absent";
+var mnemonic = "ring whip boost post furnace scare remember enter brown bounce end term";

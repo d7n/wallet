@@ -1,1 +1,1 @@
-var mnemonic = "rubber frame black circle wash wrong bicycle use any cotton country average";
+var mnemonic = "february funny crunch confirm upgrade dismiss forum direct snap refuse elbow kitten";

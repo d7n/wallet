@@ -1,1 +1,1 @@
-var mnemonic = "rude suffer true cute ensure radio audit taste hunt disorder draw junk";
+var mnemonic = "skate water garden rack dentist cruise danger acid odor virus retire fashion";

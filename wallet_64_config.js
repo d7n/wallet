@@ -1,1 +1,1 @@
-var mnemonic = "gorilla often empty solid upper burden glance clown toe capital suggest avocado";
+var mnemonic = "immune month test ritual soon mystery unit garlic chunk pulse other real";

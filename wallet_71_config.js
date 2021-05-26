@@ -1,1 +1,1 @@
-var mnemonic = "view cotton satisfy amazing lion trade veteran like exact gorilla language ankle";
+var mnemonic = "pencil agree panda junior certain abstract day fly meadow health close have";

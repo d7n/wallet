@@ -1,1 +1,1 @@
-var mnemonic = "inflict panel speak order obtain trend tobacco enjoy hover kind fit suffer";
+var mnemonic = "awesome sunny demand awful quit short alter kite pepper harsh surface memory";

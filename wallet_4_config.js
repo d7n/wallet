@@ -1,1 +1,1 @@
-var mnemonic = "chalk speak neglect clock boy hockey kind attend worry sunset canoe twenty";
+var mnemonic = "save nerve harsh page badge caution bird peace income beyond earth install";

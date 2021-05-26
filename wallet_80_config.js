@@ -1,1 +1,1 @@
-var mnemonic = "child love submit faculty host room cup inflict false degree mix rescue";
+var mnemonic = "yellow laugh tape blue wire fury forget roast ocean find april kite";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter medal any damage rude above wreck tonight inflict tell hero soap";
+var mnemonic = "aware arrange swear bracket situate fish december amazing easily pair hundred leave";

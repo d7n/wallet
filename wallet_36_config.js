@@ -1,1 +1,1 @@
-var mnemonic = "crew brisk gate primary spatial net case ridge amount wisdom carbon logic";
+var mnemonic = "cradle divorce robot crater super maid blue stable devote slogan strike quantum";

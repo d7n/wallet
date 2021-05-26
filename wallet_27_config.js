@@ -1,1 +1,1 @@
-var mnemonic = "random virus banana idle truly dragon remove image mutual prevent toward nuclear";
+var mnemonic = "bomb room direct crush cactus swear sorry upon attract again kind suffer";

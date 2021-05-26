@@ -1,1 +1,1 @@
-var mnemonic = "harbor skirt subject reward garden flush margin orchard garbage anxiety awake convince";
+var mnemonic = "hole bulk express veteran require shift appear wrestle affair diagram forward comfort";

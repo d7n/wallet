@@ -1,1 +1,1 @@
-var mnemonic = "nation scout hope exit fold hundred avocado salad pilot spell test pear";
+var mnemonic = "board vital caution melt kitten employ episode electric venture beach hazard beef";

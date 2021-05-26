@@ -1,1 +1,1 @@
-var mnemonic = "casual range window girl seat again pink deer material update approve feed";
+var mnemonic = "load glove blood armor wood loop palm language order lemon salmon envelope";

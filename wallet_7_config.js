@@ -1,1 +1,1 @@
-var mnemonic = "breeze segment crater demand orbit segment lottery color dirt oyster scare maid";
+var mnemonic = "help solar worry antenna veteran roof destroy combine sniff canvas strategy guess";

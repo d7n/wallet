@@ -1,1 +1,1 @@
-var mnemonic = "strategy try save action direct dawn fade adult list announce carbon flush";
+var mnemonic = "ten fitness police human nut switch reveal little unique flower escape body";

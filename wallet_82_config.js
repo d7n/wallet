@@ -1,1 +1,1 @@
-var mnemonic = "next involve kingdom cloth anxiety second vivid want ticket among tool aunt";
+var mnemonic = "improve camera enjoy tobacco permit hold toss plunge address right material cheese";

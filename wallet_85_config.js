@@ -1,1 +1,1 @@
-var mnemonic = "tongue deposit draw sheriff midnight opera kid weekend radar very creek stand";
+var mnemonic = "setup elite rebel believe nice federal endless fantasy resist trap polar often";

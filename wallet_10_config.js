@@ -1,1 +1,1 @@
-var mnemonic = "silly educate you plate glory bench excess health sweet photo seminar rice";
+var mnemonic = "rigid base vital together invest emotion mean rose test online rural poem";

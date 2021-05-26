@@ -1,1 +1,1 @@
-var mnemonic = "admit mom private blind wrap yellow benefit win check theme under erase";
+var mnemonic = "route popular accident barely voice section empower grunt wealth coin drink voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "teach west action hire skirt essence direct island quiz field absurd inhale";
+var mnemonic = "pipe space suggest grass shine float clerk modify equal immense term display";

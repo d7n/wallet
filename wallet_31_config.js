@@ -1,1 +1,1 @@
-var mnemonic = "festival valley mutual stay sibling soon fatal gap exhibit maximum struggle cost";
+var mnemonic = "divorce feel quiz still toe firm soldier settle meadow honey chronic city";

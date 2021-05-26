@@ -1,1 +1,1 @@
-var mnemonic = "runway pilot loyal swim dry essay solve foot cup material galaxy burden";
+var mnemonic = "rug stomach accident knock thunder safe response tape destroy wait sauce ring";

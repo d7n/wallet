@@ -1,1 +1,1 @@
-var mnemonic = "wine business rival attend joy category review bacon entry average marriage journey";
+var mnemonic = "soap peasant monitor excuse edge capable solve bike cheap blouse advice gauge";

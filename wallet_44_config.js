@@ -1,1 +1,1 @@
-var mnemonic = "firm illness chair trial pony grid sphere pear venture live cause device";
+var mnemonic = "stone proud nothing column express brand tourist satoshi spray cigar science fiscal";

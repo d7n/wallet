@@ -1,1 +1,1 @@
-var mnemonic = "vanish initial garment cotton lunch because garbage please exit bridge virtual ankle";
+var mnemonic = "antique ocean impact first task return sword quit solar loop kitchen surround";

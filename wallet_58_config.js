@@ -1,1 +1,1 @@
-var mnemonic = "green horse relax cry host alert father eye grass custom trap catalog";
+var mnemonic = "shop top face add sing decorate crawl horn mansion crazy scout twice";

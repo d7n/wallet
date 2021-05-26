@@ -1,1 +1,1 @@
-var mnemonic = "afford decide curtain pudding laundry setup gloom lawn accuse limit climb desert";
+var mnemonic = "settle symbol mobile stone message museum army anchor bachelor lecture laundry unfold";

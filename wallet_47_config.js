@@ -1,1 +1,1 @@
-var mnemonic = "girl slot mixed noodle trend tip equal biology hamster used grape type";
+var mnemonic = "engage width violin neck thing raw gentle idle exist chronic rapid blur";

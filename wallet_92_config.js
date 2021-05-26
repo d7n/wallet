@@ -1,1 +1,1 @@
-var mnemonic = "unknown slight mixture hotel mercy alpha language estate today umbrella february turn";
+var mnemonic = "rival tell lunch gallery round entire fury garbage uniform clog biology announce";

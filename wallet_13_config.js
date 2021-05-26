@@ -1,1 +1,1 @@
-var mnemonic = "menu scout tuna icon mechanic clock auction draft shrimp test envelope cushion";
+var mnemonic = "disease aware slide ozone arch airport video boil true you festival around";

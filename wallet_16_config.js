@@ -1,1 +1,1 @@
-var mnemonic = "sand gather border monster mouse noble parrot burger love salt merry coin";
+var mnemonic = "twist mind fit post craft solar jelly sight between vital blind century";

@@ -1,1 +1,1 @@
-var mnemonic = "damp siege surface lend link shallow dolphin tail unveil erosion wool salad";
+var mnemonic = "fan beyond cute pledge true tragic come decade connect slogan tattoo long";

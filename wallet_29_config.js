@@ -1,1 +1,1 @@
-var mnemonic = "suffer shrug erase fan arctic diagram void identify kingdom carpet loud harbor";
+var mnemonic = "boil random light shed purchase case man edit angle impulse final sister";

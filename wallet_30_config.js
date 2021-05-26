@@ -1,1 +1,1 @@
-var mnemonic = "copper quiz world all quick brown craft gap congress dice proud knife";
+var mnemonic = "public convince oak item volcano belt flight cannon occur absurd paper start";

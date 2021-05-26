@@ -1,1 +1,1 @@
-var mnemonic = "save inflict club eyebrow month total page fancy route category reveal spoil";
+var mnemonic = "stay runway donor festival solution trip prevent kidney minute thought taxi embrace";

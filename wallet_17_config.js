@@ -1,1 +1,1 @@
-var mnemonic = "bus chaos unknown marriage enlist index person wrestle city auction carpet soup";
+var mnemonic = "submit pepper flight return swap hockey mirror sing critic demise animal history";

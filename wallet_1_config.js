@@ -1,1 +1,1 @@
-var mnemonic = "ostrich keep bright across before response tip limb good acquire tackle lab";
+var mnemonic = "language faint surprise flip ice swing salad grape shaft govern rabbit ill";

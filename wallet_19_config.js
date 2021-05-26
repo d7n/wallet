@@ -1,1 +1,1 @@
-var mnemonic = "winner wise hammer duty rich video nose cradle verb six sting spoon";
+var mnemonic = "about never valve inflict faint country fan tennis rack hammer fantasy subway";

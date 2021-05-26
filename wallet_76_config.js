@@ -1,1 +1,1 @@
-var mnemonic = "reflect session dress option raise cabin process hat wagon chief confirm stick";
+var mnemonic = "left little solid famous drama critic tomorrow dove ocean text usage payment";

@@ -1,1 +1,1 @@
-var mnemonic = "glad ethics slide hamster toy traffic loyal stove feature pioneer panel able";
+var mnemonic = "noodle weekend riot trip maple barrel ensure swear plug match rebel shy";

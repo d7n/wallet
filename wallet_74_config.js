@@ -1,1 +1,1 @@
-var mnemonic = "wasp ghost kiwi buzz follow gospel start again frost stable clip fan";
+var mnemonic = "proud brick alarm awake decline broom hazard curve home tackle dinosaur fuel";

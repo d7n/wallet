@@ -1,1 +1,1 @@
-var mnemonic = "lizard humor result settle sun around fashion song payment devote wish shrimp";
+var mnemonic = "hair video coach dinosaur option reduce yellow supreme enact kingdom forget cradle";

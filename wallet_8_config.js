@@ -1,1 +1,1 @@
-var mnemonic = "health word rigid steak tent age brother invest two system maximum capital";
+var mnemonic = "hold false engine space ordinary demise shoot ask wagon debris limb play";

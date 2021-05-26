@@ -1,1 +1,1 @@
-var mnemonic = "weapon dune room pear diet clean absent oppose creek sound stay bitter";
+var mnemonic = "awkward fox olympic mail always apology detail deny ramp scene arrow reduce";

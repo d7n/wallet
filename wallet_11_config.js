@@ -1,1 +1,1 @@
-var mnemonic = "dish visual west consider shove medal planet slush exist frog mail ranch";
+var mnemonic = "crime private post today horse clutch dragon away monitor damp autumn magnet";

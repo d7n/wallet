@@ -1,1 +1,1 @@
-var mnemonic = "swarm organ bundle bachelor design wasp cheese cycle puppy warrior describe produce";
+var mnemonic = "road drum keep bargain future version ring capable climb neither worry net";

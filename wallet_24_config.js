@@ -1,1 +1,1 @@
-var mnemonic = "model crunch local review output clay execute evoke napkin source office garage";
+var mnemonic = "they immune month lift knee happy phone social still before universe scrub";

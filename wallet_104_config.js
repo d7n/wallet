@@ -1,1 +1,1 @@
-var mnemonic = "wool draw inform style sword point company fatigue cupboard route observe increase";
+var mnemonic = "sugar someone artwork demise page festival brief shallow reopen unaware unveil magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy trophy festival step fork certain rigid aspect allow unfair hidden derive";
+var mnemonic = "connect orient oppose search bicycle chair scare gaze they dog fine guess";

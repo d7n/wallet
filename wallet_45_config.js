@@ -1,1 +1,1 @@
-var mnemonic = "law fury rude imitate unlock hundred predict bulb gorilla benefit jump drama";
+var mnemonic = "youth rather media upper sniff wrestle false clerk craft eyebrow aunt give";

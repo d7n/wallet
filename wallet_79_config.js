@@ -1,1 +1,1 @@
-var mnemonic = "gaze usage direct ten pull surprise immune arm stage artist solid laugh";
+var mnemonic = "because pear maximum meat wife clay lonely lumber witness cake found license";

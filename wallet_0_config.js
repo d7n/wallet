@@ -1,1 +1,1 @@
-var mnemonic = "vital leopard august laugh hammer struggle model tank supreme firm casual hour";
+var mnemonic = "guard snow ozone nice nothing lazy ankle basic gaze horse swallow action";

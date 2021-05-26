@@ -1,1 +1,1 @@
-var mnemonic = "update trouble planet swap spirit kingdom source cable about witness tornado cliff";
+var mnemonic = "always segment pulse chaos crash phone crunch hello envelope theme advice sick";

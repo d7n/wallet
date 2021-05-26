@@ -1,1 +1,1 @@
-var mnemonic = "stairs eternal property gasp purity good again emerge avocado suspect ready minute";
+var mnemonic = "speed horn crumble visual lab solve grape tongue cliff unfold magnet spot";

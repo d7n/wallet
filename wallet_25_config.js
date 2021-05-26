@@ -1,1 +1,1 @@
-var mnemonic = "lunch exclude enlist north age desk bleak pattern notable ranch confirm typical";
+var mnemonic = "spring swamp reopen limb tobacco medal west pluck pigeon vibrant option village";

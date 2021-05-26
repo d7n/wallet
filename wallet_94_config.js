@@ -1,1 +1,1 @@
-var mnemonic = "audit right traffic grit lecture coil exotic change brief solid cook deal";
+var mnemonic = "wasp usual size ketchup biology minimum volume day sword army denial trumpet";

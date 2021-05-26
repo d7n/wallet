@@ -1,1 +1,1 @@
-var mnemonic = "movie lens attend immune rifle nature since climb bean can duck village";
+var mnemonic = "tip uphold flavor poem taste furnace coil cart plug become stool motor";

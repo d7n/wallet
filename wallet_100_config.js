@@ -1,1 +1,1 @@
-var mnemonic = "off satisfy neutral shadow loop people oppose term post pulse leg play";
+var mnemonic = "cause defy poet quality insane trouble level dish mirror shoe ability weird";

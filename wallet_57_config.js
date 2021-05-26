@@ -1,1 +1,1 @@
-var mnemonic = "legend ecology orbit easy glue extend truly inhale verify test cement tail";
+var mnemonic = "pretty issue mask summer sort duty edit ramp quality increase school crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "hood output senior black sample stick record myself attend degree hope early";
+var mnemonic = "blind frog fame purity proud pulse gas athlete animal unit loop mention";

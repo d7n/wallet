@@ -1,1 +1,1 @@
-var mnemonic = "term oppose more secret island second vacuum bottom borrow only recipe night";
+var mnemonic = "erode possible slush agent raw salute crew cash tip mask genuine frame";

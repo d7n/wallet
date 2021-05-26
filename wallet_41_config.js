@@ -1,1 +1,1 @@
-var mnemonic = "stay clump decide bicycle casual siren depth segment glance regular neglect payment";
+var mnemonic = "return clap diesel child oxygen client scheme hover bring method remind cart";

@@ -1,1 +1,1 @@
-var mnemonic = "online garbage goat brown moment resource giraffe diet device argue minor whisper";
+var mnemonic = "neither charge merit fatal pupil govern theme dust gain noise snack monitor";

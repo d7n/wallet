@@ -1,1 +1,1 @@
-var mnemonic = "twelve layer gun nice hat glove vast monster quick museum amazing globe";
+var mnemonic = "pioneer sail task lava shrug beyond build result guess exhaust soon never";

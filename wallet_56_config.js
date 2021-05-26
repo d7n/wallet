@@ -1,1 +1,1 @@
-var mnemonic = "common arrow install vocal paper area symbol urge insane crouch sad maze";
+var mnemonic = "cool home increase fitness vintage hover machine spider panther strong transfer snack";

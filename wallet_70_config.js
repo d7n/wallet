@@ -1,1 +1,1 @@
-var mnemonic = "extend attend mask mountain era bounce rabbit return promote admit fatigue soft";
+var mnemonic = "harvest brick coach best attitude garden expire habit drive degree alpha idea";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel black pen antenna ketchup kiss wife cushion possible spread brave forest";
+var mnemonic = "beach innocent gate junk diet six wine piece auction install subject melt";

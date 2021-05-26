@@ -1,1 +1,1 @@
-var mnemonic = "soon dignity design elegant video original open maximum tattoo drum pet unaware";
+var mnemonic = "shiver despair plug arch member cannon avocado aerobic patrol hole end couch";

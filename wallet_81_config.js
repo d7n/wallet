@@ -1,1 +1,1 @@
-var mnemonic = "inherit long sort increase recall silent result rack change three spoon magnet";
+var mnemonic = "catch wave supply okay nut genuine review clap someone undo cupboard sell";

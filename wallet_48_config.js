@@ -1,1 +1,1 @@
-var mnemonic = "rival phrase venture citizen guide sign maple inflict produce three win float";
+var mnemonic = "cheese viable asthma fan cloth eight online deny faith mechanic grief visa";

@@ -1,1 +1,1 @@
-var mnemonic = "fade dilemma impulse flock benefit provide hood sun ripple kind version hard";
+var mnemonic = "shrug real biology thing sustain peasant female sort offer math robot train";

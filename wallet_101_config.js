@@ -1,1 +1,1 @@
-var mnemonic = "shed surface soccer pyramid thunder hospital athlete resource donor fix easily thumb";
+var mnemonic = "coyote cat across pride mobile athlete real donkey calm seat pill ignore";

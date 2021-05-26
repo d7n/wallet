@@ -1,1 +1,1 @@
-var mnemonic = "credit salmon afford infant escape story defy behave before deputy voice opera";
+var mnemonic = "session hurry spirit addict globe craft actual vehicle urban enough leopard injury";

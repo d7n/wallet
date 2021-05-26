@@ -1,1 +1,1 @@
-var mnemonic = "plastic off dynamic outdoor wheel river impose holiday property couch group unable";
+var mnemonic = "celery wisdom usual vessel picnic real broom kite thing strong trigger ring";
