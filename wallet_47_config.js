@@ -1,1 +1,1 @@
-var mnemonic = "toward load two olive disorder render repeat shoulder reward sketch buddy choice";
+var mnemonic = "card jaguar economy bacon badge saddle insect offer pistol faculty cement memory";

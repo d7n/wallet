@@ -1,1 +1,1 @@
-var mnemonic = "fortune dust profit banner thing invest toward toy penalty floor bicycle calm";
+var mnemonic = "civil select surprise fatigue vote alcohol sad tuition split knock rocket fall";

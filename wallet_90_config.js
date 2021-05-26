@@ -1,1 +1,1 @@
-var mnemonic = "carpet liar average beach dune toy enjoy skirt scale ivory quantum cross";
+var mnemonic = "detail alone december horn unhappy toy road average horn afford approve logic";

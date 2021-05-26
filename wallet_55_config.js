@@ -1,1 +1,1 @@
-var mnemonic = "system flame truck opinion auction entry sad roast gadget pass judge public";
+var mnemonic = "original jewel forward any essence satoshi avoid grab family sniff call crawl";

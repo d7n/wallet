@@ -1,1 +1,1 @@
-var mnemonic = "fence canoe fluid cloud heavy legend mango display season awake sniff alley";
+var mnemonic = "twice young embark inmate enroll voyage vote sunny grit mask police fun";

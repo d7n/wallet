@@ -1,1 +1,1 @@
-var mnemonic = "country correct satisfy drift snow guess ring floor people pride net canal";
+var mnemonic = "bounce cactus crumble version vintage elegant priority clarify adjust sing pepper unusual";

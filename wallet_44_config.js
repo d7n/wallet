@@ -1,1 +1,1 @@
-var mnemonic = "peace open garment tree because melody document gift will giant lizard strike";
+var mnemonic = "cycle announce illness build regular jazz glory nut crush two hero tumble";

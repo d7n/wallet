@@ -1,1 +1,1 @@
-var mnemonic = "hill monster travel ten hidden sport rare stock crisp fame onion artist";
+var mnemonic = "trim media upset tent spring flight employ rack cat group resist pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "grow victory frog ivory region okay curtain pioneer fashion easy base cave";
+var mnemonic = "solve they awful business someone armed notable orbit clerk spatial hammer typical";

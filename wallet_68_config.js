@@ -1,1 +1,1 @@
-var mnemonic = "clock duck reunion bird clarify exclude firm satisfy prevent bacon delay clever";
+var mnemonic = "gift daring trial version myth umbrella seat labor knock ensure pony humor";

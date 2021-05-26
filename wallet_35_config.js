@@ -1,1 +1,1 @@
-var mnemonic = "modify toast answer kind math welcome tiny execute video baby clip annual";
+var mnemonic = "wine lend cost orphan wide unable oppose radio forum finger naive stay";

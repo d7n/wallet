@@ -1,1 +1,1 @@
-var mnemonic = "head chapter regular radar repeat loyal winner earn recall oven educate identify";
+var mnemonic = "arrange attack holiday valid miracle jewel net treat gym manage sunset cave";

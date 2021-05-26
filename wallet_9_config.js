@@ -1,1 +1,1 @@
-var mnemonic = "life jewel machine main ridge remain park jungle dinner sure assist open";
+var mnemonic = "crop butter ghost fish shift much rose brother off stomach home seed";

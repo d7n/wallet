@@ -1,1 +1,1 @@
-var mnemonic = "shift scale trouble mad people kid van castle damp finish summer crack";
+var mnemonic = "basic miss genuine language occur grit logic hospital hip finish gym cost";

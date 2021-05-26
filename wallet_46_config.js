@@ -1,1 +1,1 @@
-var mnemonic = "derive you square rug mobile business measure vast barrel garment hope abandon";
+var mnemonic = "nothing fabric drip unfair panther dish frozen orange laptop length penalty coach";

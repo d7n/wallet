@@ -1,1 +1,1 @@
-var mnemonic = "valid picture mix clean distance dwarf busy close kick economy mandate history";
+var mnemonic = "patch hero much impact pulp powder acoustic cage crop jeans feed more";

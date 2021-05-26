@@ -1,1 +1,1 @@
-var mnemonic = "crew chimney clump when shrug zone coral quarter strategy slam stand arrive";
+var mnemonic = "shoot reveal lawsuit enter cactus sauce bubble water zebra report message trust";

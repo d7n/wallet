@@ -1,1 +1,1 @@
-var mnemonic = "honey patrol visit early faint mango behave sun gym badge brief scan";
+var mnemonic = "tilt student winner expose impulse grid pyramid erode job tide hint alone";

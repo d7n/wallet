@@ -1,1 +1,1 @@
-var mnemonic = "situate alert gadget version impact liberty like reform series response fruit border";
+var mnemonic = "file force intact child flag myth energy whale piece aim core toilet";

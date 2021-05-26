@@ -1,1 +1,1 @@
-var mnemonic = "dice control rally slide choose science audit giraffe wrong melody noise exhaust";
+var mnemonic = "ahead top victory wonder test cement warm letter license garment ring clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade amazing tank carbon small limit produce pink urban guard energy win";
+var mnemonic = "camera reopen modify void problem melody roof mesh gaze harvest practice gallery";

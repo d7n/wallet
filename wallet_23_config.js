@@ -1,1 +1,1 @@
-var mnemonic = "board arrow infant transfer estate scan now throw main can hungry grow";
+var mnemonic = "grape diamond captain enrich shift rice keen disease page because ahead critic";

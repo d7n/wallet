@@ -1,1 +1,1 @@
-var mnemonic = "ketchup bundle correct toy isolate rookie bar casino fine canvas protect cup";
+var mnemonic = "exhibit burst clinic fresh wonder rack desert feel outer dog entry throw";

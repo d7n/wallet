@@ -1,1 +1,1 @@
-var mnemonic = "youth budget floor art resemble random mandate solve rigid green frown fabric";
+var mnemonic = "supreme embody light cabin globe mutual inch false bacon now matrix hood";

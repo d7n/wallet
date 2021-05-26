@@ -1,1 +1,1 @@
-var mnemonic = "run round brown glance pulse repeat speed party barrel mean blossom charge";
+var mnemonic = "flat ozone urban stock law milk finish regular deputy stick elbow nice";

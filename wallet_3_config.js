@@ -1,1 +1,1 @@
-var mnemonic = "sword blue evil shuffle grape already kiss stool build kidney drill evidence";
+var mnemonic = "senior ten major federal inflict mask question giraffe swarm town lesson snack";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh castle umbrella certain address delay auction catalog spoil model suggest truth";
+var mnemonic = "small sorry flee perfect around ten kiss long junk creek claim require";

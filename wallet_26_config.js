@@ -1,1 +1,1 @@
-var mnemonic = "time seven notable stone early cancel humor alpha link describe escape army";
+var mnemonic = "file bitter forward liquid north mechanic actor middle talk job unusual hole";

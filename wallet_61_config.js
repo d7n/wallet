@@ -1,1 +1,1 @@
-var mnemonic = "giggle side electric finish amazing flock hair pole year ride sadness aerobic";
+var mnemonic = "rare load virtual predict tower board april domain valve shoot chronic casual";

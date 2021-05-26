@@ -1,1 +1,1 @@
-var mnemonic = "purchase profit omit finger vessel master keen confirm metal gorilla offer gentle";
+var mnemonic = "coral shove history left language siege shoulder course nephew vanish loop feature";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon advance jealous teach member pact reflect turkey swear toilet clog permit";
+var mnemonic = "dance daughter maid amateur inspire taxi tumble laundry minimum liar color zoo";

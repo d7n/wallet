@@ -1,1 +1,1 @@
-var mnemonic = "frozen render quote waste review visit blade unit life dizzy marriage eight";
+var mnemonic = "pudding rapid omit swift drop whale reason jewel various latin access shaft";

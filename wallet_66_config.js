@@ -1,1 +1,1 @@
-var mnemonic = "talk wheel review elder achieve float lesson scheme omit edge curious cable";
+var mnemonic = "soap sell argue raven gain copper increase exist brown bubble wood craft";

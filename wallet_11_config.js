@@ -1,1 +1,1 @@
-var mnemonic = "unhappy lounge laundry leaf finish left lumber during cigar rocket fire relief";
+var mnemonic = "shoot sick claw wisdom initial fold carbon silly kid before door claw";

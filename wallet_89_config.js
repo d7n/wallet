@@ -1,1 +1,1 @@
-var mnemonic = "emerge primary spawn fever satisfy sight lunch resemble bicycle oak shuffle small";
+var mnemonic = "grow modify sand bubble car echo gift because reason motion filter boss";

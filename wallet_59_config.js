@@ -1,1 +1,1 @@
-var mnemonic = "violin icon museum since drill soda push crowd cotton eager height gap";
+var mnemonic = "math roast nice plastic kingdom carry woman word ecology mad they pen";

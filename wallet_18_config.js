@@ -1,1 +1,1 @@
-var mnemonic = "cruel need match fatal hazard can inherit truly auction return file bacon";
+var mnemonic = "inhale thank office math maid song fiber poem weekend weasel arctic repeat";

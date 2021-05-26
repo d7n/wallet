@@ -1,1 +1,1 @@
-var mnemonic = "laugh mention wear assist fine west boring battle inhale twist world hurry";
+var mnemonic = "mind flash nasty dress open damp found wink hello chunk pudding arrow";

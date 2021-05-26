@@ -1,1 +1,1 @@
-var mnemonic = "design income rocket husband clog utility champion age orphan inner duty shallow";
+var mnemonic = "wonder audit convince poet clap that paddle dish weather inquiry advice kick";

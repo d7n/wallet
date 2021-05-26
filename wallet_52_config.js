@@ -1,1 +1,1 @@
-var mnemonic = "marine force volcano dragon pair zebra lift disorder primary polar sand bottom";
+var mnemonic = "subway edge mistake month school gallery maze above knock soup monkey news";

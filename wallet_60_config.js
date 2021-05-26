@@ -1,1 +1,1 @@
-var mnemonic = "worry poem celery economy feed loud skull wealth penalty jungle seminar opera";
+var mnemonic = "like pitch sort aware potato vibrant evidence fog label patient loan farm";

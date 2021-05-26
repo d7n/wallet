@@ -1,1 +1,1 @@
-var mnemonic = "chair will man idle sample stove right popular oblige noble silent bronze";
+var mnemonic = "next room dream party subway labor ticket region frame amazing near obscure";

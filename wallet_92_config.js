@@ -1,1 +1,1 @@
-var mnemonic = "code diamond clarify able scare arm remind supreme useless spoon off bulk";
+var mnemonic = "tide hip unveil clinic clean fringe before annual pear faculty prize obvious";

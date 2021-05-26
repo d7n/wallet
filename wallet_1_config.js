@@ -1,1 +1,1 @@
-var mnemonic = "fruit cactus bubble scatter suit task myself anchor sphere narrow armed behind";
+var mnemonic = "vague bridge grocery youth forward husband potato rifle peasant visit arm mix";

@@ -1,1 +1,1 @@
-var mnemonic = "night owner grass sing upgrade silly park enhance recycle hawk unlock donor";
+var mnemonic = "denial dinosaur course change toilet skill wash nominee rigid situate fringe search";

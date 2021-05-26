@@ -1,1 +1,1 @@
-var mnemonic = "mistake account mass immense doll diamond cushion bunker song jar file mouse";
+var mnemonic = "worth horror version soon federal page illness local lake artist prison turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh sunny stone enter add mimic carry young utility battle spell pizza";
+var mnemonic = "matter canvas caution core dream now guilt enemy spot mimic net swarm";

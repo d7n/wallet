@@ -1,1 +1,1 @@
-var mnemonic = "fan merit because zero negative donor repeat glance observe decorate work suffer";
+var mnemonic = "regular weather acquire illegal tool sock build beef chalk way kiss snack";

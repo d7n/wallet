@@ -1,1 +1,1 @@
-var mnemonic = "region age hammer world crash goat elbow permit true phone canyon still";
+var mnemonic = "present thought such alarm sort broccoli smart kick language actor primary depart";

@@ -1,1 +1,1 @@
-var mnemonic = "fame ramp below blanket month focus energy distance clown aunt ready dizzy";
+var mnemonic = "digital shock open steel lake turkey blood turtle meat ketchup talent trim";

@@ -1,1 +1,1 @@
-var mnemonic = "model common champion plate vanish cook push west foster tiny dignity visit";
+var mnemonic = "dirt argue section purity spot flame about wet machine swamp caution thrive";

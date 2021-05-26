@@ -1,1 +1,1 @@
-var mnemonic = "talent seven bright news law nurse warrior lucky student tenant buzz heart";
+var mnemonic = "diagram exile tennis delay room add suffer lizard cricket more patch embrace";

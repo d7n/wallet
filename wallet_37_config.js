@@ -1,1 +1,1 @@
-var mnemonic = "pelican base situate lucky meat catalog promote satisfy alcohol rare genre shoulder";
+var mnemonic = "amazing snap cream obtain beef coach sniff buffalo present burger plastic helmet";

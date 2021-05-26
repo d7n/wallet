@@ -1,1 +1,1 @@
-var mnemonic = "borrow sport biology little educate harbor machine lift vibrant slight genuine element";
+var mnemonic = "pitch marine erosion method ramp tone squirrel chaos memory impulse now fossil";

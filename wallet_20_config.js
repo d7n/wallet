@@ -1,1 +1,1 @@
-var mnemonic = "real square arrest bachelor catalog until mansion aunt lottery video sort again";
+var mnemonic = "solar betray can insane leisure tank hope gorilla fantasy fame manual trip";

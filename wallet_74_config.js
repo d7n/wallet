@@ -1,1 +1,1 @@
-var mnemonic = "horn bullet electric pledge valley blossom ordinary similar tragic remain apple mind";
+var mnemonic = "lottery purpose course wine suggest wrong very broom satoshi shop hair pepper";

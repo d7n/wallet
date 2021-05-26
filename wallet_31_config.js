@@ -1,1 +1,1 @@
-var mnemonic = "fire polar orbit such invest swap poet soon horror stumble fence assist";
+var mnemonic = "other position ramp stone citizen text hunt file arrow harbor chef heart";

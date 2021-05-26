@@ -1,1 +1,1 @@
-var mnemonic = "patient baby tattoo grunt arrest spell card know naive harsh august fire";
+var mnemonic = "guard horse wife pond moral copper clerk tail radio focus resemble culture";

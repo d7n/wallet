@@ -1,1 +1,1 @@
-var mnemonic = "jaguar harvest wheel cute creek chunk scare problem notable horror artwork engage";
+var mnemonic = "riot story category decide address very animal country ill traffic jar echo";

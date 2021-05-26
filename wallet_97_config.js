@@ -1,1 +1,1 @@
-var mnemonic = "globe acid ordinary town palace cover orchard blind abuse cigar day common";
+var mnemonic = "aim inquiry clog cry excess more chuckle absent wage surround ankle wrist";

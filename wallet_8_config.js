@@ -1,1 +1,1 @@
-var mnemonic = "machine head minute repeat home lizard mushroom solution elder project brick myth";
+var mnemonic = "whip frog jewel move shoot spike trumpet pioneer private perfect august type";

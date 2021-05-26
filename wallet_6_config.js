@@ -1,1 +1,1 @@
-var mnemonic = "figure tiny again noise uncle fabric dove license view wrist seven jar";
+var mnemonic = "radar step call goose scrap dream pilot assume second end sign fragile";

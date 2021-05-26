@@ -1,1 +1,1 @@
-var mnemonic = "omit flower trip insect collect occur napkin remind coral rival tone grant";
+var mnemonic = "cargo witness coast ill where disagree sorry path crunch airport escape magic";

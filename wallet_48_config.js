@@ -1,1 +1,1 @@
-var mnemonic = "memory loan price inject fork soldier confirm ability coil century chat embody";
+var mnemonic = "chunk sock liquid pitch loud pool burden soccer odor tonight length option";

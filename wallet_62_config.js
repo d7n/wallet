@@ -1,1 +1,1 @@
-var mnemonic = "dizzy upon ski joke off record transfer bless inmate just guide sentence";
+var mnemonic = "wolf mercy project hint color quick depend solar region just bounce basic";

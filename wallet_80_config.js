@@ -1,1 +1,1 @@
-var mnemonic = "tired path music abstract uniform alone minute enlist mouse tree elite nose";
+var mnemonic = "inspire moral kidney snow enemy dutch pottery walk tornado sign rifle forward";

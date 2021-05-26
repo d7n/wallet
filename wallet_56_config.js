@@ -1,1 +1,1 @@
-var mnemonic = "october pony pioneer era file hip scheme coral theory palm under test";
+var mnemonic = "word reunion play angle eye art stereo rail cheap struggle distance afford";

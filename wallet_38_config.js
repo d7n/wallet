@@ -1,1 +1,1 @@
-var mnemonic = "perfect own hamster canoe child supreme cause day logic pulse layer mean";
+var mnemonic = "soda arrange gravity put ketchup stage list wine sign bulb fault ice";

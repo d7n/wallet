@@ -1,1 +1,1 @@
-var mnemonic = "bubble acoustic nut rubber blue lecture trial page gym member educate resist";
+var mnemonic = "march target elbow prepare ripple detect core target joy pretty shine tower";

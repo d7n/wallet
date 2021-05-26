@@ -1,1 +1,1 @@
-var mnemonic = "core loyal witness acoustic movie wheat follow weird mango pottery escape target";
+var mnemonic = "essence team canal poverty indoor patch olympic town delay loop crew shift";

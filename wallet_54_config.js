@@ -1,1 +1,1 @@
-var mnemonic = "tail fatigue mean sleep shiver awesome snack habit race hammer head above";
+var mnemonic = "concert claw join buzz evolve punch reason meadow image cabbage two parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "notable member fold over glare devote media few replace shadow evolve egg";
+var mnemonic = "elite public invest sibling question genuine food code exhibit kid fatal resource";

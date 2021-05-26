@@ -1,1 +1,1 @@
-var mnemonic = "taste idea nose agent wave below clap someone badge eight valve prize";
+var mnemonic = "series panic harsh traffic tongue travel estate crime admit capital prosper chaos";

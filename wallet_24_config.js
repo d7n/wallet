@@ -1,1 +1,1 @@
-var mnemonic = "update field pear path kiss chimney dinner napkin garbage gospel canal cake";
+var mnemonic = "parent job wealth able surprise actor design govern live give spell prosper";

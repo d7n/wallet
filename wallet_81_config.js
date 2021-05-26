@@ -1,1 +1,1 @@
-var mnemonic = "fix soldier always merge arctic cake crisp print hybrid electric link similar";
+var mnemonic = "leader until hood curve pistol bacon begin fly business release leisure emotion";

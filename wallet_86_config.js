@@ -1,1 +1,1 @@
-var mnemonic = "swim bachelor cinnamon drill fresh prize cruise increase control horn stuff impulse";
+var mnemonic = "vicious auction share film coyote oak fatal garage term maximum future filter";

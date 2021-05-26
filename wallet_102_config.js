@@ -1,1 +1,1 @@
-var mnemonic = "open shuffle wave pottery swallow endorse gaze essay dismiss talk era ankle";
+var mnemonic = "spot muscle return million ghost atom object jealous plug awesome eight you";

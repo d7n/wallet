@@ -1,1 +1,1 @@
-var mnemonic = "hunt mail corn uphold submit shed shoe brain hurt toast march vehicle";
+var mnemonic = "stamp speed bike radio beyond stumble clever very regret retreat flush horse";

@@ -1,1 +1,1 @@
-var mnemonic = "first chef climb debris vapor chat network deputy cost window pen carbon";
+var mnemonic = "transfer fix rose rookie school chat budget vast grocery city deny mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "program rain victory height unique assume photo dolphin rib brick upper truly";
+var mnemonic = "gain vast delay piece person barrel bulk grief pencil crater gift receive";

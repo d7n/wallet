@@ -1,1 +1,1 @@
-var mnemonic = "stomach canvas juice liberty steak mistake orient right ethics renew van glory";
+var mnemonic = "moral mass lottery express sunset month scale multiply loyal recipe pepper intact";

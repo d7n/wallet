@@ -1,1 +1,1 @@
-var mnemonic = "allow often wave joke gasp diamond opera cereal lecture zero know north";
+var mnemonic = "syrup certain shiver fold captain gallery sun become drive clip romance best";

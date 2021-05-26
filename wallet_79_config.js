@@ -1,1 +1,1 @@
-var mnemonic = "owner thumb oak scheme trouble unhappy desert endless final merit grid boring";
+var mnemonic = "olympic afraid odor prize orchard source orchard warfare typical useful provide brain";

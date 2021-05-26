@@ -1,1 +1,1 @@
-var mnemonic = "enlist embark increase display jaguar eternal width tuition decrease brother never radar";
+var mnemonic = "stairs clap praise undo ski gorilla leopard banana vote toward advice mystery";

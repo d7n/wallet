@@ -1,1 +1,1 @@
-var mnemonic = "okay anxiety smoke type egg high sentence daring grape math goddess torch";
+var mnemonic = "involve motor mom volcano orient provide brown duty damage sustain mistake urge";

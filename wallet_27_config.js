@@ -1,1 +1,1 @@
-var mnemonic = "afraid tilt perfect explain blossom survey portion brief knife execute fitness fatal";
+var mnemonic = "resist soccer one accident ignore tiny base develop edge humble advice dream";
