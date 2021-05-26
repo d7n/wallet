@@ -1,1 +1,1 @@
-var mnemonic = "output august fold person syrup chronic brave spike debate swing lion online";
+var mnemonic = "image shop toast better gloom color unfold raccoon uncover immense fatal tube";

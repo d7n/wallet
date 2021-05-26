@@ -1,1 +1,1 @@
-var mnemonic = "cake system entry ceiling visa elder orient afford pond awkward heavy what";
+var mnemonic = "damp identify finger panda city indicate brain flower keep gate pet matrix";

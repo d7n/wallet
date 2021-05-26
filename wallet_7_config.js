@@ -1,1 +1,1 @@
-var mnemonic = "flash hip twelve civil act coil panda inhale boring before mom mandate";
+var mnemonic = "net chief surround pass venue help crawl else badge story practice now";

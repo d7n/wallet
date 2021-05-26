@@ -1,1 +1,1 @@
-var mnemonic = "chapter hamster talent hole virtual flower hen gown clarify analyst elephant sight";
+var mnemonic = "panda unique island confirm base bulb wasp method crowd rib grain few";

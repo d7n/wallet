@@ -1,1 +1,1 @@
-var mnemonic = "impact furnace school laugh return useless distance wrap verb mosquito auto secret";
+var mnemonic = "camera interest candy mammal tackle debris body similar enroll pupil lyrics quote";

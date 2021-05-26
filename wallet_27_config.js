@@ -1,1 +1,1 @@
-var mnemonic = "route possible enter squeeze permit witness exist record echo horse toy entry";
+var mnemonic = "hint card soccer rough absurd polar estate reduce whisper pen ready deny";

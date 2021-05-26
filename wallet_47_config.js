@@ -1,1 +1,1 @@
-var mnemonic = "kitchen lake cart tribe mind piece vibrant menu label steel remain april";
+var mnemonic = "execute sail health need avocado zebra junior now sibling long term surprise";

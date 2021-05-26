@@ -1,1 +1,1 @@
-var mnemonic = "pond stem buyer protect trigger wave behind swallow eager tongue select patch";
+var mnemonic = "alert electric enter raise faith action ghost utility foil fade thunder output";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt urban gather photo settle cross body tiger they crisp boring tree";
+var mnemonic = "choose liar middle rookie estate donate approve post place job abstract order";

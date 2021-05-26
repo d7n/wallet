@@ -1,1 +1,1 @@
-var mnemonic = "rich whale arrange help spike clock phone balance add rack fun banner";
+var mnemonic = "snack gym peace spring arm emerge broken icon present derive habit exhibit";

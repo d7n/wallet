@@ -1,1 +1,1 @@
-var mnemonic = "glad deliver humor chapter nut runway only door leopard stamp foam awake";
+var mnemonic = "rack choice rice fiber gravity age tired grace student bronze come fancy";

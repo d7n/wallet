@@ -1,1 +1,1 @@
-var mnemonic = "key horse project caution inhale cage salmon pink recall cute dance submit";
+var mnemonic = "order abuse utility imitate gadget kangaroo giraffe mandate tornado fabric try length";

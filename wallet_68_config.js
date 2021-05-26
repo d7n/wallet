@@ -1,1 +1,1 @@
-var mnemonic = "noise enact twice purse stumble win course reward latin mention misery tone";
+var mnemonic = "marine orchard luggage opinion suspect course alley truck toe gift soup wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "alley rescue hill shrug upper morning teach faint ribbon you excess fix";
+var mnemonic = "radar member weather lecture debris surge appear sting joy audit improve seat";

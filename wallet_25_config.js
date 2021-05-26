@@ -1,1 +1,1 @@
-var mnemonic = "prefer salute nasty whisper fix cram defy ostrich hidden tornado lyrics fitness";
+var mnemonic = "daughter biology spoil zebra voice churn used poverty rice delay scheme candy";

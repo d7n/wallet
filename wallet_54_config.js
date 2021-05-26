@@ -1,1 +1,1 @@
-var mnemonic = "often gospel truck lunch latin forward bright acquire again elder knock tag";
+var mnemonic = "detect proof badge rather cupboard stone suffer theme torch vacant grid country";

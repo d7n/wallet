@@ -1,1 +1,1 @@
-var mnemonic = "tilt already hobby lawn fault maid beauty brand blouse final van dirt";
+var mnemonic = "extra monkey perfect friend morning junior stem become glue cricket december ghost";

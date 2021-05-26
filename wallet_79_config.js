@@ -1,1 +1,1 @@
-var mnemonic = "lava camp embark scan destroy dune twelve indoor century squeeze jealous fetch";
+var mnemonic = "proud curious inflict spy jaguar pencil season one amazing raven fall fitness";

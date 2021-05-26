@@ -1,1 +1,1 @@
-var mnemonic = "fade evidence rib pledge extend analyst garbage embody famous steel person device";
+var mnemonic = "under caution hidden online radio rug trash image child merit note denial";

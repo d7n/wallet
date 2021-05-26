@@ -1,1 +1,1 @@
-var mnemonic = "balcony midnight what chimney involve render flush choice gain clip faint state";
+var mnemonic = "away moment marble warrior rose clock place moral rifle stereo ripple immense";

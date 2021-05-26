@@ -1,1 +1,1 @@
-var mnemonic = "quarter blur hand ginger lazy they mixture city light negative steak slide";
+var mnemonic = "word charge praise boy human heavy enrich option mule cliff tape slide";

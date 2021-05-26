@@ -1,1 +1,1 @@
-var mnemonic = "crisp gospel inject slide casino axis nurse all execute annual toy connect";
+var mnemonic = "group shoulder spot audit flip rigid token hurt mule spoon prepare youth";

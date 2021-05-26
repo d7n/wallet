@@ -1,1 +1,1 @@
-var mnemonic = "retire hill belt shiver gym settle inflict scale angry pass whale own";
+var mnemonic = "empower park foam kiss indicate direct clay lunch skin toilet salt damp";

@@ -1,1 +1,1 @@
-var mnemonic = "clock defense receive gas gauge envelope join prison federal hip rule sing";
+var mnemonic = "trim expose regret giggle gain dream shoot ankle skin dirt subway prevent";

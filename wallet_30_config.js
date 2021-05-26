@@ -1,1 +1,1 @@
-var mnemonic = "casual blossom blush seminar similar opinion kite gun right vacant echo spare";
+var mnemonic = "year shock tennis lottery cook shock kit amused body vault include empower";

@@ -1,1 +1,1 @@
-var mnemonic = "foil length lawn frequent rotate gold wire grab during cradle try prepare";
+var mnemonic = "all become lamp nominee evoke deer nominee volcano stamp myth embody clinic";

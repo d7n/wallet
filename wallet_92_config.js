@@ -1,1 +1,1 @@
-var mnemonic = "bag rookie ugly supreme pelican point search cash ghost youth crazy casual";
+var mnemonic = "alcohol scheme coffee repair frown toast cruise critic together deal suit leaf";

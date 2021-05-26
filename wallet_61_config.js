@@ -1,1 +1,1 @@
-var mnemonic = "stem surround neck prefer memory orange glimpse kitten anger fruit ecology sugar";
+var mnemonic = "stomach beach car seek strategy universe myself october please feature churn fame";

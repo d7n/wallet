@@ -1,1 +1,1 @@
-var mnemonic = "valley runway pluck firm range corn exact wrong melody crumble feel odor";
+var mnemonic = "adjust come win immune public welcome consider sport radio ten physical tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "raw report chicken confirm correct scrub cube miss volume jazz cabin edit";
+var mnemonic = "wave alpha park erase ranch unfold visual crack magnet sorry name burger";

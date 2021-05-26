@@ -1,1 +1,1 @@
-var mnemonic = "want series scene express twin doctor essence borrow potato three exchange step";
+var mnemonic = "acquire sugar spin second hen noble skill laptop stumble invite speak sunny";

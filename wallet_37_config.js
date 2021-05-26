@@ -1,1 +1,1 @@
-var mnemonic = "casino glory able possible unveil book frog initial immense shoot kiss dial";
+var mnemonic = "develop donor render use alien expire oxygen fiscal spider cycle raccoon camp";

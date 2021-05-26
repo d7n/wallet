@@ -1,1 +1,1 @@
-var mnemonic = "fuel measure pyramid case either crazy jungle rail video outer feature rug";
+var mnemonic = "table leopard tape city force hotel script mosquito month panther polar trade";

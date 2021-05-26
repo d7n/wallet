@@ -1,1 +1,1 @@
-var mnemonic = "slight remember noble camp round manual antenna furnace supply moral scare caught";
+var mnemonic = "twin ahead company weekend oval wedding gift mansion cry minor pride dirt";

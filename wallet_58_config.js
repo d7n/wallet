@@ -1,1 +1,1 @@
-var mnemonic = "memory layer hole material type wolf fury tape depend olive mango urban";
+var mnemonic = "together blouse jungle apart please assault prepare sand guide rule heavy violin";

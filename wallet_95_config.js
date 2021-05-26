@@ -1,1 +1,1 @@
-var mnemonic = "table tape match power verify anxiety same fringe client cushion sad promote";
+var mnemonic = "limit hunt alone improve post cool crash ripple acoustic royal tell noble";

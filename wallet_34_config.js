@@ -1,1 +1,1 @@
-var mnemonic = "zebra pioneer chuckle tomorrow discover spawn kangaroo drama wave cause ice rug";
+var mnemonic = "garlic stay lumber dizzy music parrot cherry will become office leader benefit";

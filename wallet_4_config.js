@@ -1,1 +1,1 @@
-var mnemonic = "junior warm allow surge course section craft best blouse stay rhythm gym";
+var mnemonic = "live maximum wine melody catch hurdle forward fabric interest beyond clever pumpkin";

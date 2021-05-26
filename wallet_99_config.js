@@ -1,1 +1,1 @@
-var mnemonic = "ginger slot buzz balcony cross bubble client suffer festival scale crime trigger";
+var mnemonic = "ivory win rural belt sorry insect more chapter under hawk poverty trash";

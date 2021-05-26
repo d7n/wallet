@@ -1,1 +1,1 @@
-var mnemonic = "fatal essay lounge report april remain before jewel horn assist silly imitate";
+var mnemonic = "strong harbor garbage myself frog upset grain group indoor legal artwork enroll";

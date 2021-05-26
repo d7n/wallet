@@ -1,1 +1,1 @@
-var mnemonic = "account pave wagon candy cupboard catch repeat find stamp push child night";
+var mnemonic = "soda right hungry gown crush canvas female oyster gentle often west size";

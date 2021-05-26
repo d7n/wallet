@@ -1,1 +1,1 @@
-var mnemonic = "dilemma subject useful decorate brave census glide night double concert trap moral";
+var mnemonic = "fatal hawk divorce win trade skin tumble subway sausage demise genuine attack";

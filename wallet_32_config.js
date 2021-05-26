@@ -1,1 +1,1 @@
-var mnemonic = "dream pipe dune kind kitchen half knock balcony gain unveil door hard";
+var mnemonic = "public below join luxury teach spider easy domain mail rifle abandon multiply";

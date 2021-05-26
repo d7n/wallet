@@ -1,1 +1,1 @@
-var mnemonic = "live tiger message viable ankle nuclear unfair clinic organ purpose child online";
+var mnemonic = "visual benefit shadow fall winter then fat luggage horse pledge much payment";

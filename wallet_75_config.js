@@ -1,1 +1,1 @@
-var mnemonic = "weird first voice stay banner rain dizzy all embrace tiny shine struggle";
+var mnemonic = "badge oxygen lion always sponsor manage miss someone mango despair curve illegal";

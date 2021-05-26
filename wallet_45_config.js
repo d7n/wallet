@@ -1,1 +1,1 @@
-var mnemonic = "palm current merit leaf baby resist glare tennis woman theory near decide";
+var mnemonic = "bid season height ostrich case invest basic add robot wrong soon pole";

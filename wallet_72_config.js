@@ -1,1 +1,1 @@
-var mnemonic = "choice movie edge wrist there crew vault detail obtain sponsor witness gap";
+var mnemonic = "laugh surge toy ketchup shallow muscle affair embody another plunge army ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic tip virtual snake host again client survey recall dash attack gain";
+var mnemonic = "common wealth tattoo clown ritual scrub hazard memory inherit dirt black hero";

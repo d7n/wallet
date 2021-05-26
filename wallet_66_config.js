@@ -1,1 +1,1 @@
-var mnemonic = "tribe garlic jar actor enough venue silly nephew salon project art elegant";
+var mnemonic = "wrist enjoy autumn path food celery gap interest ostrich monster civil inject";

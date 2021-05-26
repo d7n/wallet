@@ -1,1 +1,1 @@
-var mnemonic = "ugly holiday skill chronic gravity mother unfair enemy nerve click student swim";
+var mnemonic = "sleep diamond auto glare vendor dad subject boss prize phone equal cabbage";

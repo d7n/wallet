@@ -1,1 +1,1 @@
-var mnemonic = "task amount room agent rib where student enroll vibrant plug sibling gun";
+var mnemonic = "engage moment upper column bonus concert witness dentist drive aim wrestle grid";

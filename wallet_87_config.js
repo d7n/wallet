@@ -1,1 +1,1 @@
-var mnemonic = "shuffle crack task ostrich under owner that diagram parade still pole include";
+var mnemonic = "attack elbow gift mango arctic wall crunch envelope odor river jeans sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond monkey chest napkin palace parrot witness rib border property accuse coyote";
+var mnemonic = "start middle digital ordinary riot radar way save decline vehicle original argue";

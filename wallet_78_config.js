@@ -1,1 +1,1 @@
-var mnemonic = "truly mutual recall lazy health wink option solution law seven decade problem";
+var mnemonic = "short surge kit safe lend law jazz sing beauty address yard often";

@@ -1,1 +1,1 @@
-var mnemonic = "urge point answer rule balance tomorrow balcony robust next rate bless debris";
+var mnemonic = "boring rhythm license source regular annual blouse inform raise shrug hurry bulk";

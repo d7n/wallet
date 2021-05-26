@@ -1,1 +1,1 @@
-var mnemonic = "tank position tribe derive dress remember fine latin proof tilt siege flock";
+var mnemonic = "organ anxiety reunion squirrel day rather cigar tunnel spawn sword believe potato";

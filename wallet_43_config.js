@@ -1,1 +1,1 @@
-var mnemonic = "door cloth alpha forward mesh evolve crime comfort tell disease glow purpose";
+var mnemonic = "beef cloud soul woman deer roof seven voice attend vapor pact organ";

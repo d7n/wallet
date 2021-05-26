@@ -1,1 +1,1 @@
-var mnemonic = "neutral must crowd kick chest knife donate tribe copper pyramid hover orphan";
+var mnemonic = "blanket cattle orbit original insect hold business lift priority deny power decline";

@@ -1,1 +1,1 @@
-var mnemonic = "assist welcome mosquito ready circle warrior govern picture decline series crowd race";
+var mnemonic = "estate wreck morning wasp butter thank gap school badge coin mansion castle";

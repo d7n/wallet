@@ -1,1 +1,1 @@
-var mnemonic = "dove aunt loan maple struggle mouse eye crawl rent air tonight success";
+var mnemonic = "pencil medal wolf march monitor uniform alpha brave husband mom cream lock";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain impulse hundred proud legal truly ice clip match horror stove limb";
+var mnemonic = "autumn nasty rare meadow juice cross brass cement focus trouble cruel chair";

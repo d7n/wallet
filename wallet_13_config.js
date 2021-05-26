@@ -1,1 +1,1 @@
-var mnemonic = "arena party reward audit veteran mobile unusual claw fruit happy plastic erosion";
+var mnemonic = "credit dwarf endless extra siege utility muscle flat toast style ripple surge";

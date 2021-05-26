@@ -1,1 +1,1 @@
-var mnemonic = "gorilla vacant claim popular fox artefact door tooth deny joy sword reveal";
+var mnemonic = "photo also opinion pupil miss abstract fade jar aim leader stove hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony near alley choose royal elevator slight three define ginger cloud asthma";
+var mnemonic = "nose giggle govern wish priority cotton park robust used wrist mimic wide";

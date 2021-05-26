@@ -1,1 +1,1 @@
-var mnemonic = "before afford that limit awful bid decade glare hawk tray first inquiry";
+var mnemonic = "peasant divide erupt copper outdoor summer ivory opera junk domain term sample";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos receive march frequent use tribe art sail repair trip effort ahead";
+var mnemonic = "swamp slot skirt long dice poem attract grant barely fluid holiday table";

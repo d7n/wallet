@@ -1,1 +1,1 @@
-var mnemonic = "gold pen forum where exhibit joke enforce immune local found patrol blur";
+var mnemonic = "vibrant drink auction win elephant off stumble exact trim season surprise exotic";

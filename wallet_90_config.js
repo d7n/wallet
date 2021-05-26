@@ -1,1 +1,1 @@
-var mnemonic = "normal figure agree vital shoulder crush flock lyrics festival social camp royal";
+var mnemonic = "innocent mobile good car entire spoil orchard sleep price avocado skill answer";

@@ -1,1 +1,1 @@
-var mnemonic = "flash hundred earth hint scale local shy cause poem frost jelly pigeon";
+var mnemonic = "police barrel kangaroo foot element pact picture involve citizen donkey start coin";

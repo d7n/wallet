@@ -1,1 +1,1 @@
-var mnemonic = "gospel peanut flat hurt chair vocal second chest fox talent middle dice";
+var mnemonic = "cruise wrong process detail never advice dust road intact despair spatial oyster";

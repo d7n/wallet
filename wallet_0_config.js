@@ -1,1 +1,1 @@
-var mnemonic = "frame survey bamboo element install exile message item sugar obvious crisp math";
+var mnemonic = "zone harsh stomach glue bone give current mind poem pledge slush enact";

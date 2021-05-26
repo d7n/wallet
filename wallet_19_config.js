@@ -1,1 +1,1 @@
-var mnemonic = "guitar secret source budget march tragic amazing minor rough text search violin";
+var mnemonic = "drive sun sun fashion another jazz daughter blue debate boat industry orient";

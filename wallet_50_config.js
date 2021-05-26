@@ -1,1 +1,1 @@
-var mnemonic = "salute awkward basic twenty pledge predict add begin fluid lucky twist tired";
+var mnemonic = "anchor ocean game distance juice enrich glory rapid culture crucial script click";

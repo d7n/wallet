@@ -1,1 +1,1 @@
-var mnemonic = "detect divorce three various cliff you quality woman whale item mixture tornado";
+var mnemonic = "able stamp magnet core toe skirt series force winter float congress giggle";

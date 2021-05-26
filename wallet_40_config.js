@@ -1,1 +1,1 @@
-var mnemonic = "news dizzy alien depart harsh hurt reject buyer cave bracket choose culture";
+var mnemonic = "cradle sense urge surround alien employ two woman sphere recall gentle weird";

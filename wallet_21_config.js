@@ -1,1 +1,1 @@
-var mnemonic = "remain donate payment artist sadness merry hockey opinion alone grant around melt";
+var mnemonic = "embody plastic appear broom walk view divorce upgrade equip club catalog student";

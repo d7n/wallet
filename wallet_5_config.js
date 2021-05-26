@@ -1,1 +1,1 @@
-var mnemonic = "pact gloom gadget sister rocket galaxy time pool weasel else hold police";
+var mnemonic = "bronze cannon twenty push crash pretty reunion brief follow blade skirt glow";

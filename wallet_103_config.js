@@ -1,1 +1,1 @@
-var mnemonic = "obey open call soul match delay ensure number ginger hawk clean refuse";
+var mnemonic = "wine popular divide switch coil rabbit genius thrive spread arrow blue dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "cry goddess void glimpse satisfy candy slush shock chunk under quiz cycle";
+var mnemonic = "speed summer box income extend novel swarm town swim mule flame since";

@@ -1,1 +1,1 @@
-var mnemonic = "kit tiny design now wheel crunch umbrella spend tissue promote pen shine";
+var mnemonic = "fire garage same school whale slice riot primary appear capable view dawn";

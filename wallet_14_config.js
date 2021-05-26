@@ -1,1 +1,1 @@
-var mnemonic = "close vessel unaware family vote fabric canal matter tribe fancy group sense";
+var mnemonic = "celery gentle tobacco pilot sting art tired polar raven brand buyer hedgehog";

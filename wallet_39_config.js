@@ -1,1 +1,1 @@
-var mnemonic = "weird kid nuclear honey gather pony jacket quote around leave earth result";
+var mnemonic = "palace tank add render horror slight coyote course crazy pig vast dilemma";

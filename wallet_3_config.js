@@ -1,1 +1,1 @@
-var mnemonic = "leg antenna brother civil extend glad blame panel local leisure reveal talent";
+var mnemonic = "firm sense pact screen ghost ski key monitor negative uphold gas clump";

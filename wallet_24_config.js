@@ -1,1 +1,1 @@
-var mnemonic = "end ski glow news expand bamboo multiply knee squirrel saddle deer bind";
+var mnemonic = "box foster choose crawl oval divide object pigeon dirt owner father age";

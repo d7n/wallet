@@ -1,1 +1,1 @@
-var mnemonic = "melt infant solar arrive school same honey afford swear slim rigid stable";
+var mnemonic = "drop exit receive balcony response wisdom couch cook survey chaos effort charge";

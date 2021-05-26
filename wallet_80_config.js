@@ -1,1 +1,1 @@
-var mnemonic = "merry poverty valve electric praise rule speak neither slim fire grit laundry";
+var mnemonic = "clean fold forget truly claw day exotic galaxy food marble wash flush";

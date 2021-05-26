@@ -1,1 +1,1 @@
-var mnemonic = "next pond spider private future april hollow donate decrease message blouse gallery";
+var mnemonic = "ethics taxi casual lyrics combine exchange wrong best spice honey cost wrap";

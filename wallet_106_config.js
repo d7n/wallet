@@ -1,1 +1,1 @@
-var mnemonic = "repair barely maze track repeat milk vendor magnet collect fringe confirm arrange";
+var mnemonic = "animal hello believe degree place umbrella century razor wrestle sustain pet setup";

@@ -1,1 +1,1 @@
-var mnemonic = "teach method before bullet curtain mansion infant picnic ask else tragic combine";
+var mnemonic = "tortoise hazard problem surge stomach danger kind grid atom sister reopen kiss";

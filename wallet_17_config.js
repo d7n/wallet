@@ -1,1 +1,1 @@
-var mnemonic = "faint frozen rib cousin forward trade reduce sphere whale omit dose siege";
+var mnemonic = "panther rent only win nerve sudden proof order trash orphan rib script";

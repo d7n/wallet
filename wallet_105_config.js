@@ -1,1 +1,1 @@
-var mnemonic = "volcano decade frame milk fish various crater scene drip unit summer novel";
+var mnemonic = "walnut almost flock announce hair wash video virtual sadness stone length blanket";
