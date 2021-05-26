@@ -1,1 +1,1 @@
-var mnemonic = "pen diamond horn course antique dove skill resource earn state pond grief";
+var mnemonic = "tunnel until right friend very symbol robot recall army put avoid truck";

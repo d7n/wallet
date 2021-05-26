@@ -1,1 +1,1 @@
-var mnemonic = "oven unfair olympic baby unfair mom hockey raven useful winner recall wheel";
+var mnemonic = "stone excess shell december enable useless diamond net obey net distance essay";

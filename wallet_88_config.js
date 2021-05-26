@@ -1,1 +1,1 @@
-var mnemonic = "enter lobster april stay flame clap lamp season essence antique retreat enrich";
+var mnemonic = "song october brick grace absent bullet have twin release city blast okay";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse pistol grace raise pony another favorite dry capable blue hour worth";
+var mnemonic = "source begin hole want episode thunder advance nothing mixture system dog accident";

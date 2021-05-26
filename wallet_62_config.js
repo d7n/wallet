@@ -1,1 +1,1 @@
-var mnemonic = "ketchup comfort filter cute snow harsh maximum glass oblige depend toilet dune";
+var mnemonic = "drink collect awkward small soft afraid volcano palace shell lake strategy enroll";

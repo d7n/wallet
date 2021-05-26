@@ -1,1 +1,1 @@
-var mnemonic = "famous unknown project jar snap agree minute cactus spoil undo often toilet";
+var mnemonic = "sketch ecology novel bubble pole decline cage sister sail amount carpet like";

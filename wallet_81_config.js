@@ -1,1 +1,1 @@
-var mnemonic = "civil invest miracle hammer afraid harsh south winner wink hurry push syrup";
+var mnemonic = "journey ostrich bicycle sleep off proud boring original rug brave deer metal";

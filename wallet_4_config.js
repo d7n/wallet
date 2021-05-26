@@ -1,1 +1,1 @@
-var mnemonic = "cook jewel fun virus emotion avocado lyrics absent lazy observe crush volcano";
+var mnemonic = "drum master sick false health crystal catch vendor food spatial weapon thank";

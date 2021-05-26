@@ -1,1 +1,1 @@
-var mnemonic = "enroll other slow tribe indicate wish kitchen priority soap cigar axis swamp";
+var mnemonic = "food series useless orchard morning excite such icon seminar escape average school";

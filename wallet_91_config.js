@@ -1,1 +1,1 @@
-var mnemonic = "relief account deer account vault aunt copy again correct camp amused online";
+var mnemonic = "south alter violin purpose wine change comic slow gasp better cargo swim";

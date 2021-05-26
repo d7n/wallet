@@ -1,1 +1,1 @@
-var mnemonic = "fly eternal recipe walk hole mean orbit hidden economy afford forward expose";
+var mnemonic = "warm year answer future stable excess rigid error man tip endorse ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "market ugly pass bridge slim silly stereo author vacant toddler brand wedding";
+var mnemonic = "require catalog palm repair popular faculty sail idea pet reform twice assist";

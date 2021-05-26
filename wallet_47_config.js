@@ -1,1 +1,1 @@
-var mnemonic = "retire can input cigar hope era course news boring grocery party load";
+var mnemonic = "ridge field antique meat ensure cereal vintage brass service worry pupil sister";

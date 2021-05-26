@@ -1,1 +1,1 @@
-var mnemonic = "bind fragile biology polar disagree mouse actual spot jelly bread nurse pepper";
+var mnemonic = "gloom ugly spike glide half switch about essence firm dash glad neutral";

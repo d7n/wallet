@@ -1,1 +1,1 @@
-var mnemonic = "such sheriff adult moon scene curious stem monkey shield energy bring shift";
+var mnemonic = "parrot spirit submit sheriff act document domain artist naive faith donkey ask";

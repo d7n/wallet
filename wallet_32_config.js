@@ -1,1 +1,1 @@
-var mnemonic = "ecology sun remember tribe solar hip crack very crawl industry require sock";
+var mnemonic = "lady pass dove eye lesson around leopard banana immense net wheel jealous";

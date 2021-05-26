@@ -1,1 +1,1 @@
-var mnemonic = "wrist evidence item young possible brother amateur slight tired feel kid village";
+var mnemonic = "patch day guess sick talk tomorrow glad isolate decade narrow jump capable";

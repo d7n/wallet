@@ -1,1 +1,1 @@
-var mnemonic = "mention vibrant stem stadium immune rail trouble few light movie dune tree";
+var mnemonic = "destroy beauty label scene romance put improve zebra gospel butter sauce brain";

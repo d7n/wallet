@@ -1,1 +1,1 @@
-var mnemonic = "celery judge happy power inflict valve ahead model skill solid inspire fee";
+var mnemonic = "that jungle shop choice autumn protect tuna general recycle evidence shaft fiction";

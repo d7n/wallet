@@ -1,1 +1,1 @@
-var mnemonic = "jeans cabbage thank boat rule flush quit mosquito viable kite link fork";
+var mnemonic = "tell ball sell include snake fatal casino pen upgrade burden swarm chapter";

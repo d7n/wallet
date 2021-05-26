@@ -1,1 +1,1 @@
-var mnemonic = "dice weasel multiply enter acoustic genius vast theory insane agent salad unfair";
+var mnemonic = "avoid estate wall tobacco biology picnic sketch fee leaf night brown neck";

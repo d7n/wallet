@@ -1,1 +1,1 @@
-var mnemonic = "huge syrup smooth doctor wool work able adjust term rabbit material goat";
+var mnemonic = "raven country bind sunset fine forward frost morning media ribbon quantum term";

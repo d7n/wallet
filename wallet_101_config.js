@@ -1,1 +1,1 @@
-var mnemonic = "advice tornado diamond wide finish dial escape glass vanish length error zero";
+var mnemonic = "gather allow chaos cradle race message tag lock coyote cup slot stamp";

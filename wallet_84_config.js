@@ -1,1 +1,1 @@
-var mnemonic = "aware device orange deer adjust reject fork tonight any exhibit behind bullet";
+var mnemonic = "sound opera voyage retire alpha number fame humor win ask trend ignore";

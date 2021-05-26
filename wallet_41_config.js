@@ -1,1 +1,1 @@
-var mnemonic = "entire common creek express inherit develop such cat lady cabin foster fence";
+var mnemonic = "cruise milk relax salmon rapid grid truly rather mandate frown small lemon";

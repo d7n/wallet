@@ -1,1 +1,1 @@
-var mnemonic = "enforce gorilla appear chunk chat child museum soon gain stamp salad test";
+var mnemonic = "broccoli swear battle olympic gym stumble poverty argue stage banana sentence shrimp";

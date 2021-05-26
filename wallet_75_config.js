@@ -1,1 +1,1 @@
-var mnemonic = "struggle pond spin decade merry swap arm seek casino talent milk despair";
+var mnemonic = "birth all receive omit ocean length off asthma twelve clean bundle panda";

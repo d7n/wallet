@@ -1,1 +1,1 @@
-var mnemonic = "diet loud either margin february merry protect scissors buyer busy render salute";
+var mnemonic = "visual acid despair bullet usage shrimp isolate echo tattoo gospel acoustic skate";

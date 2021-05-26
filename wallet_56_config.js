@@ -1,1 +1,1 @@
-var mnemonic = "glance logic differ flag infant range destroy author rack steak trip exclude";
+var mnemonic = "cradle dragon piano kite volcano mean link dove express utility remove essence";

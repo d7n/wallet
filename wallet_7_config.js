@@ -1,1 +1,1 @@
-var mnemonic = "snake grant manage skull live unaware book mountain glow hammer aisle vast";
+var mnemonic = "crop cupboard yellow shock blanket expose gold liar surround record key swift";

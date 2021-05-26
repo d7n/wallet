@@ -1,1 +1,1 @@
-var mnemonic = "child business turkey park save media swing milk unit abuse approve govern";
+var mnemonic = "print draft cash artist engine code ignore tape citizen crazy chapter found";

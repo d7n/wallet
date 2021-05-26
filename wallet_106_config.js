@@ -1,1 +1,1 @@
-var mnemonic = "first bright quiz key category receive spirit avocado tray obvious decide divorce";
+var mnemonic = "left loan thumb advance world cable glad economy scene helmet prison beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "someone act crystal exhibit rude figure daughter insect road announce tone promote";
+var mnemonic = "craft grape tail fury man manual design spirit mirror express viable daughter";

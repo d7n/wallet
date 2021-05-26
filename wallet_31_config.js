@@ -1,1 +1,1 @@
-var mnemonic = "anxiety rather memory lunch appear upset else bracket soul act outdoor cram";
+var mnemonic = "rent fatal exit trophy stage speed coconut donor identify popular flavor general";

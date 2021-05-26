@@ -1,1 +1,1 @@
-var mnemonic = "length garment one woman sketch length diesel chuckle odor choose squeeze elegant";
+var mnemonic = "staff void success tower couch banana crane assault base ask length anchor";

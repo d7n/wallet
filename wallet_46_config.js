@@ -1,1 +1,1 @@
-var mnemonic = "fork expand gym bonus dish worry melt barrel breeze solve fever clock";
+var mnemonic = "edit scatter escape six diet crazy process morning lawn display rude van";

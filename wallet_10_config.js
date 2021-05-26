@@ -1,1 +1,1 @@
-var mnemonic = "mercy street rural kind bubble sight mail parrot steel valley vintage wild";
+var mnemonic = "merge know quarter episode top daughter future answer skate cycle orphan hour";

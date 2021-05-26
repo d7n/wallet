@@ -1,1 +1,1 @@
-var mnemonic = "nasty stadium hill awesome join birth column room view staff rocket will";
+var mnemonic = "faith embrace either health tiger doll act artwork embody flame segment hybrid";

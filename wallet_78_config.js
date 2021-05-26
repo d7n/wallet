@@ -1,1 +1,1 @@
-var mnemonic = "initial emerge awesome stereo obscure electric live bring odor round bar vacant";
+var mnemonic = "card army gym canal stove dream nation cigar trash rail elegant winner";

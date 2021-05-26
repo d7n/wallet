@@ -1,1 +1,1 @@
-var mnemonic = "hamster goddess aspect fox cabbage fashion move actor soon era explain book";
+var mnemonic = "security siege prison once trick tomato stomach what advice dance wheat affair";

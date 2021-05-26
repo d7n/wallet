@@ -1,1 +1,1 @@
-var mnemonic = "script blush normal fantasy jungle wisdom cloth now leopard surface label wheel";
+var mnemonic = "orphan special mystery token yellow process link pulp where sphere idle empower";

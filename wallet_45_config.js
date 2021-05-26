@@ -1,1 +1,1 @@
-var mnemonic = "lady race switch expand vault obtain armed case elbow safe fluid wait";
+var mnemonic = "loud finish city dice armed skate pepper round notice hurry horror laptop";

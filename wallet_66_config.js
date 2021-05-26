@@ -1,1 +1,1 @@
-var mnemonic = "panic atom spread tragic rotate sell device wise below sick crowd select";
+var mnemonic = "lens attack resist twist mushroom surprise run science business toast crucial gravity";

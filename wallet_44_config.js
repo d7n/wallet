@@ -1,1 +1,1 @@
-var mnemonic = "orient stay cluster cattle mystery guide tube approve outdoor health they debate";
+var mnemonic = "parade game camp phone fantasy snow noble fabric seminar lesson zoo boat";

@@ -1,1 +1,1 @@
-var mnemonic = "suit daughter enjoy sorry era creek predict hedgehog original leg autumn wing";
+var mnemonic = "erosion excess boat absent depend exact return tobacco volume panel govern guess";

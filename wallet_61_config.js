@@ -1,1 +1,1 @@
-var mnemonic = "furnace tornado image pair top apology scan siren spend other blame truck";
+var mnemonic = "cluster predict amazing pencil dog desert wall thrive decade increase come around";

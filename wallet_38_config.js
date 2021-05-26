@@ -1,1 +1,1 @@
-var mnemonic = "chair paddle illness usage aspect license hockey trophy short mobile ski strong";
+var mnemonic = "ozone host token view home tumble copper net despair pole illness toe";

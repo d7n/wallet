@@ -1,1 +1,1 @@
-var mnemonic = "disease tortoise pool judge human oak peanut private obey panther doctor oil";
+var mnemonic = "clog solution almost divorce health fatigue design fix story half jelly stone";

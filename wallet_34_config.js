@@ -1,1 +1,1 @@
-var mnemonic = "kid anxiety method fiber reason give wet aware reform hammer cruel receive";
+var mnemonic = "solve enemy bamboo come noble dismiss banana meadow tube divert cluster diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "dream awful produce dismiss pen lens tobacco engage obtain cycle two knife";
+var mnemonic = "silly celery brass stand surface stadium half version purse duck nerve leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply lamp drive harbor welcome nice rail hover liar catalog flame egg";
+var mnemonic = "south fish offer penalty exile chief stairs athlete jealous service improve improve";

@@ -1,1 +1,1 @@
-var mnemonic = "stock around evidence blush crumble shed floor dice indicate eager person first";
+var mnemonic = "trap era next science echo game upper sniff wrong age warrior crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "naive believe harbor report winner lend can stadium junior flat twice liquid";
+var mnemonic = "sick surge drift direct supreme what basic digital mesh local alley shield";

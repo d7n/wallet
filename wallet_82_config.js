@@ -1,1 +1,1 @@
-var mnemonic = "certain moral grape robot ill term stomach flag night family cruise beef";
+var mnemonic = "prosper afford muffin impose bread peace grit hat chunk spike license shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "force manual opinion sad demand tank grid board master already poverty chair";
+var mnemonic = "trip face decade woman wool spray door clump truth weather mutual squirrel";

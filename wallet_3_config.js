@@ -1,1 +1,1 @@
-var mnemonic = "limit panel vehicle huge solve absorb hello despair shock call dawn victory";
+var mnemonic = "beauty civil accuse route sphere couple fruit pottery celery monitor north during";

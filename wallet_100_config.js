@@ -1,1 +1,1 @@
-var mnemonic = "catch sample unfold tumble bench inmate select range ladder sad length force";
+var mnemonic = "decline invite settle ignore inflict address grocery suspect fish call chuckle evoke";

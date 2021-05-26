@@ -1,1 +1,1 @@
-var mnemonic = "lab crazy onion visual skull day senior stock endorse opera scheme enrich";
+var mnemonic = "often rough rain polar describe acoustic alert current melt theme sell card";

@@ -1,1 +1,1 @@
-var mnemonic = "useless category glass cream believe unit love boring science mom race legend";
+var mnemonic = "trouble chunk erosion spread fortune physical april course once artwork intact early";

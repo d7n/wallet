@@ -1,1 +1,1 @@
-var mnemonic = "trade they slot normal dust under virtual pulse animal night cushion try";
+var mnemonic = "brush word sound easy energy monkey spread announce capable argue wagon tone";

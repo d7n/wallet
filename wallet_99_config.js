@@ -1,1 +1,1 @@
-var mnemonic = "flash ethics pelican rubber absorb wedding surround height cat paddle unfold mosquito";
+var mnemonic = "tooth dwarf monitor key habit coyote office issue maximum melt maximum leisure";

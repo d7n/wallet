@@ -1,1 +1,1 @@
-var mnemonic = "spider mix push mix ghost near child obey grain light convince spare";
+var mnemonic = "donkey lens build boost use work antenna distance tent one salute dentist";

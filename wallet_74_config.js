@@ -1,1 +1,1 @@
-var mnemonic = "decrease answer spider inspire patch bitter soap finger raccoon essay lawn liberty";
+var mnemonic = "senior burden express attend enact fuel siren merge put give buyer sick";

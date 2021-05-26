@@ -1,1 +1,1 @@
-var mnemonic = "chronic much size cake arrange limit soon cause thumb uphold turkey spoon";
+var mnemonic = "film canal sustain athlete ivory staff fabric hedgehog prepare search swim thunder";

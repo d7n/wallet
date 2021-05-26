@@ -1,1 +1,1 @@
-var mnemonic = "ketchup choose flower obtain useful favorite increase cabin silver owner borrow theory";
+var mnemonic = "option rally govern tray valid end off man praise nothing canoe above";

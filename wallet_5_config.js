@@ -1,1 +1,1 @@
-var mnemonic = "unhappy cloud adjust obey copy away defy book long devote fish panic";
+var mnemonic = "clever school year unfair silver tide broom coach beach picture drift heavy";

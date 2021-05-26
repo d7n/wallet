@@ -1,1 +1,1 @@
-var mnemonic = "direct tape black route dose note female such document hospital peace draw";
+var mnemonic = "feature rain mesh butter size harvest eight short unable word text tomorrow";

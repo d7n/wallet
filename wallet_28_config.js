@@ -1,1 +1,1 @@
-var mnemonic = "salmon fog venture body web taste cream enough cradle enforce alley ring";
+var mnemonic = "humble drama skin trim local insect symbol occur tray provide skull rhythm";

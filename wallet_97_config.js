@@ -1,1 +1,1 @@
-var mnemonic = "ivory grain eight episode choice aisle cotton general flee evil travel sea";
+var mnemonic = "master visa guide isolate ticket burden chase quit spin brand sea orchard";

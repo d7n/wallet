@@ -1,1 +1,1 @@
-var mnemonic = "pulse expect satisfy leopard recycle beauty laptop ice genre ancient install bachelor";
+var mnemonic = "custom album target ecology session fatal say rack quick half anger what";

@@ -1,1 +1,1 @@
-var mnemonic = "rug best hub husband horn token struggle female depth exercise device novel";
+var mnemonic = "field drop acquire trick announce small talent trust length dentist weapon cram";

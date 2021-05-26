@@ -1,1 +1,1 @@
-var mnemonic = "image glance stairs hold chalk govern domain push average figure consider unknown";
+var mnemonic = "shield diagram deputy phone cover rate borrow ring forum spider flight tent";

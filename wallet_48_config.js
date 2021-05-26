@@ -1,1 +1,1 @@
-var mnemonic = "material rigid empty basic hybrid hood crucial celery coconut cable artwork garage";
+var mnemonic = "brother spend opera caution seven access deputy bracket eyebrow gown cook better";

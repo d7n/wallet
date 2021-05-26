@@ -1,1 +1,1 @@
-var mnemonic = "unit afford embrace impose sauce exchange lady valley destroy dynamic example effort";
+var mnemonic = "ghost what jewel slam maple dismiss cash across fish crumble fence flame";

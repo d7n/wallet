@@ -1,1 +1,1 @@
-var mnemonic = "aware credit sheriff ensure hunt interest flower wink prevent canyon carbon remove";
+var mnemonic = "shrimp foil afford middle order floor boat host stock scrub regret broom";

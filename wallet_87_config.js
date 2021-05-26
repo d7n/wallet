@@ -1,1 +1,1 @@
-var mnemonic = "buzz bubble make faculty glimpse lock oxygen excite vacant resemble measure spare";
+var mnemonic = "achieve carbon wreck champion since mesh winner school walk gym cotton select";

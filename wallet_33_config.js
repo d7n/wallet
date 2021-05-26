@@ -1,1 +1,1 @@
-var mnemonic = "voyage puppy tone pledge jump culture glance school hospital butter cycle ridge";
+var mnemonic = "bread tourist goddess essence accident behind gap disorder mango bronze adult habit";

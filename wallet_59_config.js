@@ -1,1 +1,1 @@
-var mnemonic = "used robust cry install loan ball blue emerge ask drip era giraffe";
+var mnemonic = "engage salad cart cube record crime alien tiny fog width whip main";

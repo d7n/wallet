@@ -1,1 +1,1 @@
-var mnemonic = "process lava pass stand want mix mass mix fun girl inquiry expand";
+var mnemonic = "bridge neither coil stadium angry hotel vanish nominee depart armor vault genuine";

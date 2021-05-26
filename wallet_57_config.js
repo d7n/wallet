@@ -1,1 +1,1 @@
-var mnemonic = "build boring voyage resemble muscle soap bench assault race liquid local paddle";
+var mnemonic = "violin once please depart message switch horn code strike tomato camp stable";

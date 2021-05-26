@@ -1,1 +1,1 @@
-var mnemonic = "suit grit admit brand drift put attend dismiss fragile combine jungle gap";
+var mnemonic = "weather truth exact window gadget grocery mobile mechanic hello renew stay elephant";
