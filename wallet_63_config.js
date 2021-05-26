@@ -1,1 +1,1 @@
-var mnemonic = "point view turn local toward bullet rich bounce dragon height enforce armed";
+var mnemonic = "purity fall coast impact attend crew alter nephew file alien giraffe settle";

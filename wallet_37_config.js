@@ -1,1 +1,1 @@
-var mnemonic = "sunset color autumn trophy year over train auction modify sting print diamond";
+var mnemonic = "hockey connect either attitude cherry busy isolate entry reject sniff split shallow";

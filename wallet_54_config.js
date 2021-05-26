@@ -1,1 +1,1 @@
-var mnemonic = "retreat like purchase tired open slim expect bitter picnic hundred around home";
+var mnemonic = "curious abandon click favorite slab poverty letter puzzle trim advance horror deal";

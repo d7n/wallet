@@ -1,1 +1,1 @@
-var mnemonic = "betray alert electric swap remove before deputy recycle fitness bulb run column";
+var mnemonic = "bachelor thunder divorce taste fashion salt soon debris vacuum drum nasty bind";

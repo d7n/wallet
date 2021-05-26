@@ -1,1 +1,1 @@
-var mnemonic = "marble air spatial tissue satisfy twenty syrup vendor tell vicious journey shaft";
+var mnemonic = "series retire flight twice tobacco much regular electric castle liberty cement spider";

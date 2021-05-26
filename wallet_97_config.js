@@ -1,1 +1,1 @@
-var mnemonic = "curious category account comfort dad boil lawsuit demand fame pulse civil athlete";
+var mnemonic = "obey puzzle antenna current aunt melt strong language purpose memory cheese lock";

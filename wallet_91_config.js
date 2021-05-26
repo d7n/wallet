@@ -1,1 +1,1 @@
-var mnemonic = "bus rather habit issue super shrimp evoke arrange slam fuel present cause";
+var mnemonic = "kiss explain approve salad grab become goddess shell another cost funny forward";

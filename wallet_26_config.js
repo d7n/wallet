@@ -1,1 +1,1 @@
-var mnemonic = "parrot puzzle device race small feed galaxy hollow miss parade hole crack";
+var mnemonic = "wash midnight ill gold menu couple chalk absurd term original token erode";

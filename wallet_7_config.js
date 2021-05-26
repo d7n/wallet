@@ -1,1 +1,1 @@
-var mnemonic = "bulk what add misery main trouble slender always stove help gate will";
+var mnemonic = "prepare squirrel pact ranch ensure false primary suggest real cheese exact mention";

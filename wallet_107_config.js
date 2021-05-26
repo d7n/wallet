@@ -1,1 +1,1 @@
-var mnemonic = "maid language come stock screen slight rabbit outer labor bean material raise";
+var mnemonic = "adjust course liquid waste name casino humor agent club layer diamond turkey";

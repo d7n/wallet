@@ -1,1 +1,1 @@
-var mnemonic = "art energy arena captain tourist bar globe gym end grow reject oak";
+var mnemonic = "visa pole pulp road safe round maple rebel echo snack month tumble";

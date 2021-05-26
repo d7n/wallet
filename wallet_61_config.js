@@ -1,1 +1,1 @@
-var mnemonic = "increase infant frequent oppose rabbit erode hover ecology grief shaft rifle inside";
+var mnemonic = "fix bubble black return provide say ring tower index bench bleak avocado";

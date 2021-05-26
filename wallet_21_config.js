@@ -1,1 +1,1 @@
-var mnemonic = "staff invite vessel danger humble radar mimic goat convince apology cargo defense";
+var mnemonic = "property puzzle blouse clap old invite disagree night game sauce toy safe";

@@ -1,1 +1,1 @@
-var mnemonic = "cost recipe deposit canoe chat weekend three indicate claw pet diamond young";
+var mnemonic = "piece shiver gift canoe reduce rather canyon abuse sudden harvest midnight fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "small kid admit paddle scheme minute picnic hawk silly already captain erase";
+var mnemonic = "garment file attend current unlock strike build dinner scan mind weapon kiwi";

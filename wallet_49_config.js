@@ -1,1 +1,1 @@
-var mnemonic = "grid favorite uniform milk behind olympic royal educate burger differ hotel slot";
+var mnemonic = "humble need edit zone gospel decide volume monster gym struggle impact mammal";

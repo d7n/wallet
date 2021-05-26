@@ -1,1 +1,1 @@
-var mnemonic = "thing monkey tornado spare file kitchen grain film kite fiction trumpet exile";
+var mnemonic = "track forward excite team dove guard grain weather exercise firm boat release";

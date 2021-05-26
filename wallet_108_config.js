@@ -1,1 +1,1 @@
-var mnemonic = "nephew outside clap save armed nominee stomach lock smoke cup pride culture";
+var mnemonic = "agree sustain august pulp danger sock account youth stay pigeon mosquito empty";

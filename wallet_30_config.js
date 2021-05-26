@@ -1,1 +1,1 @@
-var mnemonic = "arrest kiss penalty scissors virtual welcome trick sign embark miracle write various";
+var mnemonic = "marine increase nation method right width wink brick process fade inch season";

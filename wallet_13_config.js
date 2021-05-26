@@ -1,1 +1,1 @@
-var mnemonic = "speak useless harsh empower myth swamp latin donate belt give idea scout";
+var mnemonic = "tiger they more drink purchase habit topic gossip intact just palm cherry";

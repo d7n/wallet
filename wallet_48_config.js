@@ -1,1 +1,1 @@
-var mnemonic = "cricket erosion gather jungle ceiling device field agree ugly zebra clean ticket";
+var mnemonic = "thrive citizen guard defense load grass vault purity soda ridge year evidence";

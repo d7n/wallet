@@ -1,1 +1,1 @@
-var mnemonic = "pen need success reveal mass spin kidney urge mimic luggage domain aware";
+var mnemonic = "vessel before pony skill problem double grunt exchange pudding asset juice dose";

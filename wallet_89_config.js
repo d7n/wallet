@@ -1,1 +1,1 @@
-var mnemonic = "cement crop fiscal taste attack you sphere brave detect enter citizen index";
+var mnemonic = "soldier glare rely eye any grow chase ticket sun faint brave park";

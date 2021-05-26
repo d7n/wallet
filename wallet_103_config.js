@@ -1,1 +1,1 @@
-var mnemonic = "clock satisfy unfair major celery robot account noodle long arctic dignity enlist";
+var mnemonic = "drill adult pave napkin kiwi walk rail thought praise lesson bomb gauge";

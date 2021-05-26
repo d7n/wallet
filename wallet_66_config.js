@@ -1,1 +1,1 @@
-var mnemonic = "stuff danger cat monster jealous turkey shuffle capable space argue book nephew";
+var mnemonic = "denial slush series fault expect glue maple pioneer vacuum orbit squirrel fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier uncle actor opera token polar logic toast alpha just about gas";
+var mnemonic = "clap flavor sure resemble cigar behind dumb force mixture arrest laugh wait";

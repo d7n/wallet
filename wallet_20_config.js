@@ -1,1 +1,1 @@
-var mnemonic = "car hold humor search survey skill holiday hand club direct finger leader";
+var mnemonic = "boss process combine drum one pluck lens begin merge uncle grow buzz";

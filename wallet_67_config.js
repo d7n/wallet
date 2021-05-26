@@ -1,1 +1,1 @@
-var mnemonic = "world devote judge naive scrap noble clown wage consider hover guitar gaze";
+var mnemonic = "actual message afford nest armed stem gasp fee unfair bulk gasp cable";

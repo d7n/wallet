@@ -1,1 +1,1 @@
-var mnemonic = "humble latin kiss term extend swarm master insane sun address wrestle damage";
+var mnemonic = "tent toss river cannon ribbon stomach ocean surge disorder journey drift future";

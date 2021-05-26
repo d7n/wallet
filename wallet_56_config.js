@@ -1,1 +1,1 @@
-var mnemonic = "upset melody maximum alpha math manual meadow garden spy captain silent glove";
+var mnemonic = "sea person buddy chronic hospital glue draw teach street width layer version";

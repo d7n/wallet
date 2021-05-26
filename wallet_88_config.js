@@ -1,1 +1,1 @@
-var mnemonic = "mandate ostrich thumb fortune major initial alone unable print work country stove";
+var mnemonic = "check region smile trip game giant primary detect demand scorpion host select";

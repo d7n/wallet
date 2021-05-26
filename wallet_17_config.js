@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow noise law either human month fence excess total card debate oil";
+var mnemonic = "million portion hint decrease bracket beach size blush short treat pepper envelope";

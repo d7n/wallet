@@ -1,1 +1,1 @@
-var mnemonic = "curious arrest again first toward erupt document crunch result garbage attend just";
+var mnemonic = "mosquito aware oak profit collect little work canal before cloud sweet ethics";

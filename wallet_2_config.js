@@ -1,1 +1,1 @@
-var mnemonic = "approve disagree attitude visa disagree real pluck undo box layer water tip";
+var mnemonic = "scan settle country expect eye silly oval excess tail moral crowd art";

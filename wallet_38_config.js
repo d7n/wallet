@@ -1,1 +1,1 @@
-var mnemonic = "bone replace never entire judge dune layer exotic monster broom desert ask";
+var mnemonic = "endorse doctor swear doctor token fuel chair dance void busy senior mother";

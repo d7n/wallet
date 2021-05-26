@@ -1,1 +1,1 @@
-var mnemonic = "outside rifle give leg refuse faith reward success live click cry pull";
+var mnemonic = "style shield rapid faint list anger buyer bring asthma frost call language";

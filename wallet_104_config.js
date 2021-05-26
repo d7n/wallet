@@ -1,1 +1,1 @@
-var mnemonic = "review amazing twelve often advance bronze sustain exchange video try dynamic car";
+var mnemonic = "canyon giggle shine afford kitchen hybrid action spot oppose embark squirrel evidence";

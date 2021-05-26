@@ -1,1 +1,1 @@
-var mnemonic = "use dream convince enrich immense snake humor mobile bargain isolate garage front";
+var mnemonic = "deal humor trim odor lawsuit slab famous position three foot daughter venue";

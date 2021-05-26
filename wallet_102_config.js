@@ -1,1 +1,1 @@
-var mnemonic = "awkward mirror twin danger cheap ability cactus sport pig carry tip text";
+var mnemonic = "minor flush public moment muffin happy pudding melody genuine supply hover twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "little carpet peace wreck chuckle joke venture meadow dress verify soccer arena";
+var mnemonic = "beach civil cream before reflect decade soap monster glow never quantum arena";

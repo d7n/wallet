@@ -1,1 +1,1 @@
-var mnemonic = "teach daughter people worry minute version mushroom filter vessel cheese waste ice";
+var mnemonic = "swing unhappy brisk rookie human ignore connect olive screen library tent parent";

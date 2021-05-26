@@ -1,1 +1,1 @@
-var mnemonic = "couple device push marble online spawn gossip puzzle endless enlist assume type";
+var mnemonic = "point best slab mesh friend there chimney clinic open eyebrow chalk stem";

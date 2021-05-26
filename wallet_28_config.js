@@ -1,1 +1,1 @@
-var mnemonic = "project panda rebel attend theme alley garlic sock year reveal police mule";
+var mnemonic = "cruise gentle mixture dress mask shell salt noise weekend cable hollow boy";

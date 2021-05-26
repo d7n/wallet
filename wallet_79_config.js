@@ -1,1 +1,1 @@
-var mnemonic = "quantum modify combine sorry basket old mobile excite begin rough coyote cook";
+var mnemonic = "unhappy lazy chimney april credit creek farm ride portion cloud laugh target";

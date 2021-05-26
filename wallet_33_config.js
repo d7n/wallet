@@ -1,1 +1,1 @@
-var mnemonic = "exact museum catch say marine style idle ankle armed elder curve cherry";
+var mnemonic = "immense party talk cricket race wrist bullet ketchup trim exclude title sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist luxury genre task decade response camera kitten before deal wall diary";
+var mnemonic = "hope napkin morning fantasy angry shy off album fury people nation mom";

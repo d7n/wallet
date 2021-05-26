@@ -1,1 +1,1 @@
-var mnemonic = "auto stumble point tent innocent hotel rather away flavor motor merge orchard";
+var mnemonic = "balcony anxiety apple raven prosper solution hope shield error lunar vintage cereal";

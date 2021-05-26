@@ -1,1 +1,1 @@
-var mnemonic = "staff section swarm noise wall history actress nephew soul cover beyond matter";
+var mnemonic = "upgrade inhale awake anxiety often head drop spy lady essence kangaroo kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "balance cheap viable mechanic ridge disagree plunge mammal model off humor convince";
+var mnemonic = "swamp relax route fault evoke trap photo decade pelican abuse obtain express";

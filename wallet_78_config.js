@@ -1,1 +1,1 @@
-var mnemonic = "fold height exact hybrid shock result green toward point monitor obtain aunt";
+var mnemonic = "ramp ethics blade saddle size below pet flush broccoli plate pizza host";

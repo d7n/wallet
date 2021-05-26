@@ -1,1 +1,1 @@
-var mnemonic = "embark tattoo crunch fringe allow tide keen already build voice hour machine";
+var mnemonic = "ticket sustain error athlete cactus panic stable cheap armed grain sphere tip";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug solar injury try congress bag economy turkey tortoise mystery say bone";
+var mnemonic = "educate supply valley outdoor clay solar glad design build talent metal waste";

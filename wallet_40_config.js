@@ -1,1 +1,1 @@
-var mnemonic = "apart squirrel zero wrestle update thumb remind obtain mushroom fold time zoo";
+var mnemonic = "trash symbol absent cook abstract grief grass enhance option yellow envelope social";

@@ -1,1 +1,1 @@
-var mnemonic = "search wing nose method coil surge scene excess waste current art consider";
+var mnemonic = "retire theory hood arrange biology trust more token price tennis foam glory";

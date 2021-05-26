@@ -1,1 +1,1 @@
-var mnemonic = "brown museum cannon phrase stand concert crouch gas hood fragile total extend";
+var mnemonic = "fog elite upper tag crack chuckle derive hammer material popular impulse sorry";

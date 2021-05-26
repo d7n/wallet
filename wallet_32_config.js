@@ -1,1 +1,1 @@
-var mnemonic = "soft nose student broccoli artwork wolf impact lonely civil someone forest neglect";
+var mnemonic = "setup genre chest area say learn little alter stumble six firm example";

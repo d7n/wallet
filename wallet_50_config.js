@@ -1,1 +1,1 @@
-var mnemonic = "dignity system series guard clever attitude duck athlete polar riot senior thrive";
+var mnemonic = "impose tape city worry auction middle tackle caution sibling shop icon bulb";

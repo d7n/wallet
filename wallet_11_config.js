@@ -1,1 +1,1 @@
-var mnemonic = "kiwi rural slice later drill decrease wisdom ladder cram general jaguar work";
+var mnemonic = "tag tourist crouch try minimum dust sort seek pigeon sphere hub narrow";

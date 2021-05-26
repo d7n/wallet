@@ -1,1 +1,1 @@
-var mnemonic = "unknown yellow alley order father collect bright identify supreme endless universe magnet";
+var mnemonic = "broom recall inflict release machine energy champion gather forum erode festival ankle";

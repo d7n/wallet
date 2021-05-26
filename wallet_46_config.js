@@ -1,1 +1,1 @@
-var mnemonic = "property display west frost rifle upset fabric copy magnet orange hundred advice";
+var mnemonic = "web crumble chat never tunnel find physical tuna spoil duck pole warrior";

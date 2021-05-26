@@ -1,1 +1,1 @@
-var mnemonic = "card swallow mesh tool margin drop flower address couple inform royal toddler";
+var mnemonic = "void awake coach scorpion stuff enforce ship asset wait raven rocket ride";

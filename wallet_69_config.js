@@ -1,1 +1,1 @@
-var mnemonic = "rare link plate exchange tired wing ocean decline trust panda rose hat";
+var mnemonic = "gas tag jacket live soft dynamic explain rookie tongue educate ethics much";

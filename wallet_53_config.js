@@ -1,1 +1,1 @@
-var mnemonic = "install wedding strategy crunch shrug ill expect that rate neglect spy cave";
+var mnemonic = "art sun knock regular list gauge crop flee sphere glimpse cancel decorate";

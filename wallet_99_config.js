@@ -1,1 +1,1 @@
-var mnemonic = "this tomato like summer fancy list inhale badge crane waste melody detail";
+var mnemonic = "sick dilemma divert atom soccer close hen local effort expire stable fatigue";

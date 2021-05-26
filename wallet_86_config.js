@@ -1,1 +1,1 @@
-var mnemonic = "purity embody december chair talk climb domain sugar rookie vault lucky crush";
+var mnemonic = "disorder youth drama sock movie concert piano frame laugh badge wide open";

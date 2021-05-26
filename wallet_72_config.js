@@ -1,1 +1,1 @@
-var mnemonic = "solid nation biology layer later wing mosquito lend simple genuine mirror true";
+var mnemonic = "ribbon bread congress forest this table arctic outer blur repair nerve figure";

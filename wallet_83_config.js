@@ -1,1 +1,1 @@
-var mnemonic = "label relax slice method seat shed exhibit drink pen flush height august";
+var mnemonic = "scheme sport ensure word fever cage section repeat tortoise draft doctor monster";

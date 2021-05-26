@@ -1,1 +1,1 @@
-var mnemonic = "effort chunk badge garment ranch network pull mask suspect return squeeze noble";
+var mnemonic = "assist suit recycle prize cactus venue call tongue rubber trouble shadow uphold";

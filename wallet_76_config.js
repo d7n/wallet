@@ -1,1 +1,1 @@
-var mnemonic = "spray primary next stone yellow east animal kitten quiz universe diesel detail";
+var mnemonic = "festival online opinion abuse layer asset engage sign panic unaware next come";

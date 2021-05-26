@@ -1,1 +1,1 @@
-var mnemonic = "argue viable despair announce addict slight yard teach runway drum stock knife";
+var mnemonic = "yellow actor account draw voyage brain family oppose submit super female casual";

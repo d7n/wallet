@@ -1,1 +1,1 @@
-var mnemonic = "paper person reunion panther coffee empty swallow soon tray mango motion include";
+var mnemonic = "seed rhythm round find craft final anxiety typical disagree eyebrow boost crane";

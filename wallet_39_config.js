@@ -1,1 +1,1 @@
-var mnemonic = "valve drama elite prosper clinic disagree maximum master aim truck taxi off";
+var mnemonic = "stomach rhythm age romance vivid buddy ginger boy almost teach dizzy response";

@@ -1,1 +1,1 @@
-var mnemonic = "start pipe disorder veteran physical exhibit sponsor inherit issue vessel cannon average";
+var mnemonic = "security cloth mention cost detail mention hurdle trim frequent floor erase stool";

@@ -1,1 +1,1 @@
-var mnemonic = "torch cake priority magnet absorb pizza portion able almost stuff identify arrest";
+var mnemonic = "social pistol kitchen draw deliver stable oak quality decline volcano hammer attack";

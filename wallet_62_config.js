@@ -1,1 +1,1 @@
-var mnemonic = "tomato nominee doctor plate sport sketch belt antenna shoot come liar spell";
+var mnemonic = "delay talk double milk mixed million buffalo banana symbol main together mandate";

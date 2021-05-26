@@ -1,1 +1,1 @@
-var mnemonic = "always amused base ocean stage furnace genre leaf pause prepare tobacco sugar";
+var mnemonic = "glue route air normal client journey rice two pet option mosquito movie";

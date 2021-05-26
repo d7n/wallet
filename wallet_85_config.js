@@ -1,1 +1,1 @@
-var mnemonic = "spray flame conduct explain moon report boss danger vendor fog weather sense";
+var mnemonic = "catch seven inside flip sure dice upper surprise beach green east impose";

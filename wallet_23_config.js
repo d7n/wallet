@@ -1,1 +1,1 @@
-var mnemonic = "can topple vanish job thunder flush cheap sell mass appear feed hire";
+var mnemonic = "market busy accident write thought arrive silly rigid winner proud net organ";

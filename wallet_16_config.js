@@ -1,1 +1,1 @@
-var mnemonic = "rabbit minimum cram gentle hire record dinosaur mom razor swim valley possible";
+var mnemonic = "action long neglect tone invite three promote dwarf left execute scare travel";

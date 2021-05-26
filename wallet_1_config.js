@@ -1,1 +1,1 @@
-var mnemonic = "today ski feel truck prosper eyebrow have embark fan insane mistake scorpion";
+var mnemonic = "engage boost fat eyebrow snap category remove liberty month toward rescue parrot";

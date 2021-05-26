@@ -1,1 +1,1 @@
-var mnemonic = "law penalty people rookie armor blast perfect notice topic meadow used judge";
+var mnemonic = "bless kingdom case guitar hair client left stem ask avocado blur cradle";

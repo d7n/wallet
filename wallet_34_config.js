@@ -1,1 +1,1 @@
-var mnemonic = "leg cat reopen wine crater forum mansion demand husband letter forget federal";
+var mnemonic = "glue peanut season retire very dilemma rare patch dinner ritual cactus pattern";

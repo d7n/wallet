@@ -1,1 +1,1 @@
-var mnemonic = "victory dog burst catch year tone mirror grit marble travel size frown";
+var mnemonic = "neck endorse hold sample lawsuit number tobacco include bean earn salon fluid";

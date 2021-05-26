@@ -1,1 +1,1 @@
-var mnemonic = "try prepare start quarter tortoise mom census problem fetch nation noble side";
+var mnemonic = "bonus pencil term snap green track upgrade siren frost stable guide bitter";

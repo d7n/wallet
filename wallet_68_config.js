@@ -1,1 +1,1 @@
-var mnemonic = "knife predict poet grocery sibling oxygen cry reward gospel style achieve breeze";
+var mnemonic = "buzz notable void town room absurd inch alert digital mention body notable";

@@ -1,1 +1,1 @@
-var mnemonic = "slender audit lizard orphan dawn federal zero census next source usual version";
+var mnemonic = "sphere dial test thought romance picnic clump casino pet awesome brand lock";

@@ -1,1 +1,1 @@
-var mnemonic = "margin oyster pretty typical hole bring unveil tackle now robot mansion depend";
+var mnemonic = "little prepare alarm buffalo public nuclear pelican scorpion verb craft kidney copy";

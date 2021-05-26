@@ -1,1 +1,1 @@
-var mnemonic = "offer anchor satoshi matter able visual play race hello disagree arm fuel";
+var mnemonic = "lab control alley friend hybrid stadium butter attack column glory index arctic";
