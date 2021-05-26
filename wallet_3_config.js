@@ -1,1 +1,1 @@
-var mnemonic = "cute hero farm attack hint spray scrub mercy inch print flower expand";
+var mnemonic = "wreck curtain hip rival eager master river fish roast hamster shoulder radio";

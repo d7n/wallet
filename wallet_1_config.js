@@ -1,1 +1,1 @@
-var mnemonic = "speed shy decline bag nurse sphere bonus off below artist camera surface";
+var mnemonic = "color junior march smooth unveil cinnamon lobster shiver thank sport feed keen";

@@ -1,1 +1,1 @@
-var mnemonic = "wage merry couple wrestle noise kind fiction only brain fork lend olive";
+var mnemonic = "save topic between scissors hire fiction already escape photo focus garment slow";

@@ -1,1 +1,1 @@
-var mnemonic = "main common sadness fork later dolphin surface language response cricket admit creek";
+var mnemonic = "often render side blast differ girl asthma pool riot salon valve indoor";

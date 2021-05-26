@@ -1,1 +1,1 @@
-var mnemonic = "fragile snap sock hurt receive humble fat session small very garbage exclude";
+var mnemonic = "sight era alert wine hip salad alter dice system auto across next";

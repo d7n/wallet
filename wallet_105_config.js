@@ -1,1 +1,1 @@
-var mnemonic = "riot slush below faint bench laugh sadness mammal assume hungry street view";
+var mnemonic = "tonight speed announce token version forum agent tail exclude model motion include";

@@ -1,1 +1,1 @@
-var mnemonic = "cook alarm sense slim move duty brick peace glory since task acoustic";
+var mnemonic = "stem mass struggle asthma phrase cloud remove remove seek rate blame zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "tube firm exotic giraffe radio arch hold project west very tourist height";
+var mnemonic = "ceiling height teach hobby define enforce special case suggest vapor have eight";

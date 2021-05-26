@@ -1,1 +1,1 @@
-var mnemonic = "riot settle label model ankle grit student tumble spider sorry tobacco ensure";
+var mnemonic = "emotion axis cattle village kidney flight original husband chat peasant stove notable";

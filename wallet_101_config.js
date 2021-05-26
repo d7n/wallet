@@ -1,1 +1,1 @@
-var mnemonic = "else beauty recipe silver rib juice solid ensure unable actor sausage ribbon";
+var mnemonic = "sail agree throw raccoon noble else artefact arena sunny noise zebra virtual";

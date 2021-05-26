@@ -1,1 +1,1 @@
-var mnemonic = "mobile ceiling wide cradle area trumpet one tower reflect buyer pet account";
+var mnemonic = "slab invest tiger ball focus zone senior message enough orient brain blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty isolate sock vendor north enable butter domain spirit clerk boss teach";
+var mnemonic = "metal apart what minimum law confirm omit action parade noise end scare";

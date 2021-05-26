@@ -1,1 +1,1 @@
-var mnemonic = "bubble only often traffic captain domain cup wash daring shuffle radar auto";
+var mnemonic = "vintage steak wrong rotate snow orange slim wagon crater accuse grain over";

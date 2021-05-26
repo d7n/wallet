@@ -1,1 +1,1 @@
-var mnemonic = "manual prevent more nose tomato mad attack stock program gap brass cute";
+var mnemonic = "alien uniform either tortoise broom absurd pond sting blast oblige satoshi oppose";

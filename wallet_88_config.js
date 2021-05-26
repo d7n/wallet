@@ -1,1 +1,1 @@
-var mnemonic = "ugly flavor blood wood warm speak army pact fog divert ripple they";
+var mnemonic = "matter brand oyster crunch exclude custom enhance exclude rare enhance armor chuckle";

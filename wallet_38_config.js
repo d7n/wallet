@@ -1,1 +1,1 @@
-var mnemonic = "letter detail furnace romance swarm purchase alcohol benefit cruise board warrior boss";
+var mnemonic = "pizza next sport lemon front wall wheel purchase faith spray butter leave";

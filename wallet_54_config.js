@@ -1,1 +1,1 @@
-var mnemonic = "boat divert amused foot illness cash train nose dish urban forget pool";
+var mnemonic = "camera family soon battle rib again siren upset hat way spirit behind";

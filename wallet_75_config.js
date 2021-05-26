@@ -1,1 +1,1 @@
-var mnemonic = "denial mechanic animal inflict satoshi cereal mom glide extra pepper angle ceiling";
+var mnemonic = "come rare stock verb ride smoke season flavor palm warrior brother lake";

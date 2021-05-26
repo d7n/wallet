@@ -1,1 +1,1 @@
-var mnemonic = "captain chief until boat funny unit front habit image job alter disorder";
+var mnemonic = "tonight chuckle hard volume drip mixture suit journey person today arrange force";

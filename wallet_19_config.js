@@ -1,1 +1,1 @@
-var mnemonic = "bid wedding bicycle hand lonely oblige tell various mouse feed fly remember";
+var mnemonic = "small theory pizza route maid urban neck lesson begin oxygen lab image";

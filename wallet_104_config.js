@@ -1,1 +1,1 @@
-var mnemonic = "mirror super marriage depart knife duty vanish stove notable upgrade acid height";
+var mnemonic = "load prize deposit inner fiber hole assume fiscal sand blanket admit return";

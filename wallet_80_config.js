@@ -1,1 +1,1 @@
-var mnemonic = "rail increase armed turtle achieve change step thrive used tone exhibit mystery";
+var mnemonic = "eyebrow undo refuse letter lake chair oval drop auction labor token people";

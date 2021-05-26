@@ -1,1 +1,1 @@
-var mnemonic = "ribbon endorse assume scorpion blanket father thrive scan virtual pumpkin symbol split";
+var mnemonic = "better steel easily dog fiber under rabbit process animal gym tray waste";

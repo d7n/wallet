@@ -1,1 +1,1 @@
-var mnemonic = "teach stock father radar feature dignity little rely matrix forward outer badge";
+var mnemonic = "night buzz blush narrow equip matrix draft quick memory rain ask equal";

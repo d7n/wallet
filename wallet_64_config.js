@@ -1,1 +1,1 @@
-var mnemonic = "mom elbow still build tree august supreme order cool segment unit side";
+var mnemonic = "damp erase tray stem trust west snake devote found issue grief journey";

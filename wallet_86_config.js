@@ -1,1 +1,1 @@
-var mnemonic = "habit taxi peasant jealous report cattle dust coast nasty achieve list casino";
+var mnemonic = "buzz left immense bomb swamp advice man sign foster alarm lock pitch";

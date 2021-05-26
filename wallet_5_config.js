@@ -1,1 +1,1 @@
-var mnemonic = "plate cupboard gallery robot crowd question grunt car garment broccoli mention bid";
+var mnemonic = "aisle jacket such brass child east boil beach gaze cook ask salad";

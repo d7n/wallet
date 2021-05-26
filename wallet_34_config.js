@@ -1,1 +1,1 @@
-var mnemonic = "unusual learn awful utility valid excite cry addict hawk maple twenty camera";
+var mnemonic = "uphold gift year trash alter any miss beyond ecology dune brown year";

@@ -1,1 +1,1 @@
-var mnemonic = "update horn puzzle ready pilot hawk guitar dial double arrange pill improve";
+var mnemonic = "record brisk pause silly clay census world dwarf travel lock purpose element";

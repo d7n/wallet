@@ -1,1 +1,1 @@
-var mnemonic = "seed expect radar primary please style ozone anchor avoid reform core burst";
+var mnemonic = "ketchup soon garbage action skull cover follow arctic twelve betray bamboo father";

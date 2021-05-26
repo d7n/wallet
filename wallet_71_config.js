@@ -1,1 +1,1 @@
-var mnemonic = "asthma under dash loan champion okay useless guide fresh senior prize chalk";
+var mnemonic = "tennis work almost island prize bring can drum laundry bench top moral";

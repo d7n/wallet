@@ -1,1 +1,1 @@
-var mnemonic = "order rapid mesh buzz oyster negative vehicle fine wealth warm jewel island";
+var mnemonic = "okay runway bird lunar desert fan cash pair erosion broom young peanut";

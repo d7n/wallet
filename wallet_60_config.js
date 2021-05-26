@@ -1,1 +1,1 @@
-var mnemonic = "grape hat trial boil injury goat cradle clip few give grape jelly";
+var mnemonic = "stadium nasty chief photo actual disagree improve wrestle loop frame outside never";

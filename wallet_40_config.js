@@ -1,1 +1,1 @@
-var mnemonic = "again deer seed tenant cactus that memory rather uphold analyst analyst ankle";
+var mnemonic = "bird little abstract open spawn legend already stereo soup clerk crowd favorite";

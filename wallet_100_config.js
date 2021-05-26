@@ -1,1 +1,1 @@
-var mnemonic = "peanut hedgehog ivory crystal motion undo coach flower system target picture staff";
+var mnemonic = "worth salad van volume visa smooth light degree afraid report foam across";

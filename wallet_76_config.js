@@ -1,1 +1,1 @@
-var mnemonic = "best bottom vessel field economy secret glue obtain fame drop window diamond";
+var mnemonic = "uncle unable often path dove gloom curious spike confirm belt muffin sad";

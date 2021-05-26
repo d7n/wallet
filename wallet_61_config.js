@@ -1,1 +1,1 @@
-var mnemonic = "truth iron sock taxi sister forest earn already sadness middle fuel worry";
+var mnemonic = "artist weather flat unveil vehicle audit globe more dizzy danger hand skate";

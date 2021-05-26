@@ -1,1 +1,1 @@
-var mnemonic = "because maze this patrol brain unit olympic broom gather humor fantasy order";
+var mnemonic = "balcony avocado strong panda movie chicken labor cancel slam crunch gadget define";

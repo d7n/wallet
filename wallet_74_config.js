@@ -1,1 +1,1 @@
-var mnemonic = "rubber ripple mirror borrow august coral swear dignity category jelly shoot lady";
+var mnemonic = "moral guess normal way wonder penalty dice eternal okay erupt give strike";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper measure physical logic snow luggage figure calm remove start donkey bomb";
+var mnemonic = "pill first observe become view occur today medal alpha urge shaft harbor";

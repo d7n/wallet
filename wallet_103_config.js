@@ -1,1 +1,1 @@
-var mnemonic = "drip sight ask flip profit cradle mirror duty grief expire style moral";
+var mnemonic = "render pencil blind explain harsh tomorrow basket ready practice welcome amused farm";

@@ -1,1 +1,1 @@
-var mnemonic = "predict essay tool power bridge height suggest kiwi budget parent airport gym";
+var mnemonic = "thunder snap abuse heart crowd coconut melt write situate body exhibit hedgehog";

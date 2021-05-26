@@ -1,1 +1,1 @@
-var mnemonic = "empower popular anchor message clerk agree legend rice way soldier stay pole";
+var mnemonic = "popular sadness envelope oyster castle elbow island decline above festival mesh girl";

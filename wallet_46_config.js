@@ -1,1 +1,1 @@
-var mnemonic = "diet balance sketch nephew cube junior vessel document bullet vicious peanut twice";
+var mnemonic = "normal category rescue blind cream refuse oval praise such version welcome thrive";

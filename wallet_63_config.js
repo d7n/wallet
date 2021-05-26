@@ -1,1 +1,1 @@
-var mnemonic = "lumber toe virus expand mixed game fold couch satisfy armor attend empower";
+var mnemonic = "marine soup make stool museum envelope early wagon sock genre roast rubber";

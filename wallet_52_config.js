@@ -1,1 +1,1 @@
-var mnemonic = "guilt century expose shrimp web venture sign awake safe wood tube ceiling";
+var mnemonic = "differ oblige chair joy capable life theme pattern put umbrella banana exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "cup render rug card vicious cargo fiber hope gym release say you";
+var mnemonic = "grid answer manual whisper print tortoise cricket diamond stadium brain enough cry";

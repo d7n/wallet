@@ -1,1 +1,1 @@
-var mnemonic = "spirit bind vendor lamp indicate yellow focus lawn sentence chase sketch veteran";
+var mnemonic = "student crouch glove thought ramp actress second vivid vehicle prosper blossom agent";

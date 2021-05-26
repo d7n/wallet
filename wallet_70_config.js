@@ -1,1 +1,1 @@
-var mnemonic = "fragile air deputy alley margin search riot forest west brand industry jewel";
+var mnemonic = "approve message cave submit cash sauce night afraid uniform garden judge body";

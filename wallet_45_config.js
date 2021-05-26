@@ -1,1 +1,1 @@
-var mnemonic = "survey boil swing brass ritual hat pull mobile diesel rocket weather exercise";
+var mnemonic = "reason slot skin report dog boost clarify depend fruit history calm size";

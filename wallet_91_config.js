@@ -1,1 +1,1 @@
-var mnemonic = "basic spice plug shrug lawn dream minor invest harsh virtual body prefer";
+var mnemonic = "argue main sugar exist crew wrestle train battle endless suffer van giraffe";

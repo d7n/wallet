@@ -1,1 +1,1 @@
-var mnemonic = "spare tower lobster heavy good income merry cat scene sport visit bread";
+var mnemonic = "bind list hard ticket garlic into sphere exotic lawn hobby fringe culture";

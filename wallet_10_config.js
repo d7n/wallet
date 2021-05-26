@@ -1,1 +1,1 @@
-var mnemonic = "empower also audit drama zebra exclude sure ride bone shove bronze copper";
+var mnemonic = "actor kitten employ digital boat eager melody merry clerk swear space virus";

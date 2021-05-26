@@ -1,1 +1,1 @@
-var mnemonic = "carbon outer split tilt wisdom soap radio identify chalk obvious trouble dawn";
+var mnemonic = "curve reveal planet firm cricket claw slogan width weasel ketchup salad crunch";

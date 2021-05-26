@@ -1,1 +1,1 @@
-var mnemonic = "stairs problem pond express orbit talent hub armor swallow zero trash such";
+var mnemonic = "february immune exhaust embrace ensure record glory hub length grid educate join";

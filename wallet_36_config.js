@@ -1,1 +1,1 @@
-var mnemonic = "water round reveal infant voice duty enrich wire pond guilt news buyer";
+var mnemonic = "lunar proof question squirrel oval setup link train answer genius minor panel";

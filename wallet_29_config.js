@@ -1,1 +1,1 @@
-var mnemonic = "artwork edge silver truly approve minimum wise exotic mimic arrange horn purse";
+var mnemonic = "lawn employ cliff timber horse raccoon elevator quick much strike ancient typical";

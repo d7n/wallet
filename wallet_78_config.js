@@ -1,1 +1,1 @@
-var mnemonic = "harvest arrive rookie enjoy right cruise fatal stick surprise armor enact food";
+var mnemonic = "will credit fit empty cancel nominee shuffle retire diesel bench crazy alarm";

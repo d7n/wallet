@@ -1,1 +1,1 @@
-var mnemonic = "boss fun before flock solar tiger pause elite unique mesh satoshi civil";
+var mnemonic = "below print leopard concert orbit tortoise rude exchange harvest meat zoo narrow";

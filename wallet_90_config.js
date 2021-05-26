@@ -1,1 +1,1 @@
-var mnemonic = "cause soul hungry stamp grape rough mountain pumpkin pumpkin steak film goat";
+var mnemonic = "chair cabin retire eye naive island mother endless excuse engine ring decide";

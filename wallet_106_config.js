@@ -1,1 +1,1 @@
-var mnemonic = "cake ivory voyage firm virus proud junior snake fringe used scheme wait";
+var mnemonic = "cram kangaroo fiscal symptom actual stuff penalty average salmon pottery wish disagree";

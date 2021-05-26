@@ -1,1 +1,1 @@
-var mnemonic = "glass crane toy cake sword copy soul utility apple maid curve pull";
+var mnemonic = "select congress happy apart gaze day bright husband alpha maid canvas garment";

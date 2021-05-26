@@ -1,1 +1,1 @@
-var mnemonic = "humble chronic jealous hammer chronic bench supreme coil gun strike tennis invite";
+var mnemonic = "thunder crater father pulp proud coyote slot pistol away spot adjust orange";

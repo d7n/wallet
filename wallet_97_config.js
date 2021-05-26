@@ -1,1 +1,1 @@
-var mnemonic = "comfort sand inside flag swamp album sudden silver grid ice twelve melody";
+var mnemonic = "identify edge demand risk session glue cannon raccoon armed ripple elbow actress";

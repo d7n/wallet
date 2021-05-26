@@ -1,1 +1,1 @@
-var mnemonic = "turtle again pond bacon dirt canyon chimney thank smart make glory dune";
+var mnemonic = "cargo border pig bamboo label evolve coral forget blue hope umbrella select";

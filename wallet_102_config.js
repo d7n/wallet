@@ -1,1 +1,1 @@
-var mnemonic = "night strike certain family melody survey step good dismiss beyond pistol stay";
+var mnemonic = "equip room embody luxury olympic gravity absurd sunny off share coach song";

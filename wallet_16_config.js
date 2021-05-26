@@ -1,1 +1,1 @@
-var mnemonic = "purity erase fall shine dove fat merge pet federal boil glory jacket";
+var mnemonic = "apple wagon town math bus action snap trend gauge devote manage rally";

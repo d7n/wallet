@@ -1,1 +1,1 @@
-var mnemonic = "around grain door place rocket observe same marriage unaware blast habit viable";
+var mnemonic = "dose rare manual echo obvious armed family palace twist method saddle reunion";

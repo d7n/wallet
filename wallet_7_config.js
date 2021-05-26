@@ -1,1 +1,1 @@
-var mnemonic = "agent lemon drill surface arrange load road actress dumb satisfy trash knife";
+var mnemonic = "steak bread person exile price frame such soap mix poet first wink";

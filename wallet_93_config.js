@@ -1,1 +1,1 @@
-var mnemonic = "rate air group marriage reform october sister also awful lawn relief flat";
+var mnemonic = "surround inject advance swing fetch shallow finger wealth rebel audit reform loop";

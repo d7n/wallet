@@ -1,1 +1,1 @@
-var mnemonic = "woman toy unable observe pet physical income fragile seminar cute artwork valid";
+var mnemonic = "lawsuit language neutral always other cigar roof diagram frame flight swallow remove";

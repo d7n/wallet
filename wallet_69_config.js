@@ -1,1 +1,1 @@
-var mnemonic = "dragon excuse web wrist gold garbage vague tide pumpkin canyon salmon cliff";
+var mnemonic = "drip fossil sun join primary project detail jazz display punch seed punch";

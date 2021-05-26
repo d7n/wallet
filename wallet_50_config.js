@@ -1,1 +1,1 @@
-var mnemonic = "blanket wheat market elegant poverty forest crazy horror circle spirit drink fine";
+var mnemonic = "save chunk room salute shaft crush steel filter fan nasty black figure";

@@ -1,1 +1,1 @@
-var mnemonic = "blame clown casual author pill maid useful shed mutual scatter primary hybrid";
+var mnemonic = "name music genuine wet music yellow stone gentle scrub scale spider exotic";

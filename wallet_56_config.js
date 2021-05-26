@@ -1,1 +1,1 @@
-var mnemonic = "elder spare genius change benefit veteran stuff fresh staff unveil warrior split";
+var mnemonic = "labor remember nut chase disease evolve bullet more topple print theme fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "point tomorrow lake region asset wink again math letter build drop miss";
+var mnemonic = "swamp airport grant tourist liquid practice goose mask frown vast salad wire";

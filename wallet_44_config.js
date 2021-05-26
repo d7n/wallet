@@ -1,1 +1,1 @@
-var mnemonic = "act main blanket ticket resist feed grain turtle segment boy north music";
+var mnemonic = "rookie orient prefer recall figure north kiss polar fix trophy term dog";

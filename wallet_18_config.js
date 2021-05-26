@@ -1,1 +1,1 @@
-var mnemonic = "minor account twenty assume first south clean wreck spring advice duck leopard";
+var mnemonic = "bomb outer verify skin capable legend sunny hill slight lesson radar exchange";

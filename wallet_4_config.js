@@ -1,1 +1,1 @@
-var mnemonic = "gauge attend pact laundry extra nose ladder taxi buzz juice kangaroo list";
+var mnemonic = "tissue base giant pill half rack lesson toilet inject actual couple salute";

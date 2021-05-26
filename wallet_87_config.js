@@ -1,1 +1,1 @@
-var mnemonic = "endless miracle random burden drift debris witness adult dismiss decade vault slam";
+var mnemonic = "tooth gossip atom fold escape bike fat tortoise truly practice mobile soccer";

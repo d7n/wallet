@@ -1,1 +1,1 @@
-var mnemonic = "rural prepare traffic harbor poem emotion proud lounge rich humble system congress";
+var mnemonic = "inch physical else basic short middle increase scene mad tennis fire one";

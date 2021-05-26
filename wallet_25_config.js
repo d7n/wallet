@@ -1,1 +1,1 @@
-var mnemonic = "fiction dynamic embody fiber holiday mushroom fun august practice sand radio link";
+var mnemonic = "ordinary episode firm arctic donate shoe length zone divert life license satoshi";

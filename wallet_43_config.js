@@ -1,1 +1,1 @@
-var mnemonic = "merit crack level flower caution drama leopard input powder gift true local";
+var mnemonic = "shine obvious oval powder grass unaware toast gesture polar choose cross gospel";

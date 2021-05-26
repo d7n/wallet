@@ -1,1 +1,1 @@
-var mnemonic = "knee gate eager rich write impulse truth genius milk forget ski frog";
+var mnemonic = "gadget gadget magic try immune prosper milk illegal project omit wash duck";

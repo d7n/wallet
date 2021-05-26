@@ -1,1 +1,1 @@
-var mnemonic = "august normal shock peasant pair length labor window post meat liar share";
+var mnemonic = "vibrant maze talent away satoshi myth indicate abandon know enhance release shuffle";

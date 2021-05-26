@@ -1,1 +1,1 @@
-var mnemonic = "rent bonus aware jaguar next deliver dash dash spring setup civil benefit";
+var mnemonic = "follow planet scrub identify industry mutual advice usual chronic view walk crouch";

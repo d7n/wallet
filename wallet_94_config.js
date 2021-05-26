@@ -1,1 +1,1 @@
-var mnemonic = "come edit unveil hidden panther monkey actress genuine forum rhythm front away";
+var mnemonic = "claim evil response finger chat metal police birth photo output forest domain";

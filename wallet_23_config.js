@@ -1,1 +1,1 @@
-var mnemonic = "item desk merry web ketchup famous huge protect expand boost save unit";
+var mnemonic = "comfort debris nurse muscle lava hurry buddy dignity minute elite awesome skirt";

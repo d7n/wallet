@@ -1,1 +1,1 @@
-var mnemonic = "romance supply remain spray copy patch decide melody speed fatigue quiz quote";
+var mnemonic = "exhaust cancel february theme sweet habit unlock century change escape orange mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "negative purse unlock month assault luxury snack talk battle soldier assume pepper";
+var mnemonic = "dream element bottom doll vessel wine session among narrow luxury canal split";

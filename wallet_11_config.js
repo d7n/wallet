@@ -1,1 +1,1 @@
-var mnemonic = "develop photo bleak ankle boost exist virtual rent allow dignity island provide";
+var mnemonic = "record bread front joy caught coffee priority expire finish believe feature obvious";

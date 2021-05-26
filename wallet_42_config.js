@@ -1,1 +1,1 @@
-var mnemonic = "devote happy tackle throw clean holiday basket close admit stem trial leopard";
+var mnemonic = "unhappy catch broom assist desk exile this canoe electric okay virus zero";
