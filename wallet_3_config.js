@@ -1,1 +1,1 @@
-var mnemonic = "paddle unusual wisdom science fan glow latin lawn insane misery attitude furnace";
+var mnemonic = "scare high tiger conduct quarter sick exercise board bullet effort rain spend";

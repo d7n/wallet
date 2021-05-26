@@ -1,1 +1,1 @@
-var mnemonic = "accuse orient rose organ vendor twelve good emerge sample dial piece guitar";
+var mnemonic = "remind garbage scorpion wall script fury autumn liar whale drift topic modify";

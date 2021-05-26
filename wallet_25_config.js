@@ -1,1 +1,1 @@
-var mnemonic = "genuine angry office climb retreat ostrich cluster fatal planet agent help track";
+var mnemonic = "fabric spend involve ketchup fluid type element check valley wrestle adjust cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest atom bachelor neither mass intact jealous spirit play property buddy employ";
+var mnemonic = "talent aspect ready text assume angry virus evoke hood final cash check";

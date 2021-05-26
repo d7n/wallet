@@ -1,1 +1,1 @@
-var mnemonic = "hair gym apart enemy utility album enable artefact oil yard mechanic diary";
+var mnemonic = "all local juice kid pitch width wait divert this gauge symptom chicken";

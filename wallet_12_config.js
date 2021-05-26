@@ -1,1 +1,1 @@
-var mnemonic = "bubble labor boil front try black arctic video lawn dish feel vote";
+var mnemonic = "kind gloom cake promote tonight slam fold crop emotion barely foster sock";

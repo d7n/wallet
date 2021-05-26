@@ -1,1 +1,1 @@
-var mnemonic = "ten giggle kidney warfare expose multiply raw glory about exhaust there bike";
+var mnemonic = "earn found right item vast bulb lyrics zone another wise taxi feature";

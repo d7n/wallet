@@ -1,1 +1,1 @@
-var mnemonic = "fashion vague group range resource phrase grape cancel turn message demand enrich";
+var mnemonic = "clean bridge century orphan toss attend allow grunt capable actor online cave";

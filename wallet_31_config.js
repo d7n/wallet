@@ -1,1 +1,1 @@
-var mnemonic = "dial name erode hill wish stock lion clap gravity letter coffee angry";
+var mnemonic = "fly slot secret leaf buddy try theory pledge hurry height ahead ticket";

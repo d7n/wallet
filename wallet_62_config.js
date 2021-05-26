@@ -1,1 +1,1 @@
-var mnemonic = "warm quarter glove captain plunge foil approve tone myth inherit ridge clutch";
+var mnemonic = "trash use wolf appear month inform uphold ivory lake album polar trial";

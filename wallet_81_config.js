@@ -1,1 +1,1 @@
-var mnemonic = "lecture kick turkey slogan finish zebra imitate glad problem young shy effort";
+var mnemonic = "shaft neglect follow edit elder salon head ceiling nerve size seed hidden";

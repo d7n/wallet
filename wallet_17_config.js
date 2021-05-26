@@ -1,1 +1,1 @@
-var mnemonic = "hollow pool easy fiber ability desk render left denial legal final flower";
+var mnemonic = "sand leader improve bunker capable funny flower admit solution eye snap trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "radio uniform enjoy spot husband alone note fan tonight arch hundred thumb";
+var mnemonic = "second marine muscle uncover august void debate act notable recall initial retreat";

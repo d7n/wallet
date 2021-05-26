@@ -1,1 +1,1 @@
-var mnemonic = "clown napkin crucial wear lesson polar improve announce glare scale milk real";
+var mnemonic = "light fiscal salute luxury eye follow else remind number abandon milk pilot";

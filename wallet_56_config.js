@@ -1,1 +1,1 @@
-var mnemonic = "huge canal portion secret soup that good cupboard shuffle apart inflict message";
+var mnemonic = "common sheriff upon cabin enact genuine era sketch comic type danger forum";

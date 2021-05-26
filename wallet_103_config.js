@@ -1,1 +1,1 @@
-var mnemonic = "siren oxygen general slender napkin broken ridge foam ranch disagree enact girl";
+var mnemonic = "fabric verify attack normal know fossil chaos turn silly ethics basic medal";

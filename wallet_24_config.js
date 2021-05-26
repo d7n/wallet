@@ -1,1 +1,1 @@
-var mnemonic = "amateur grab siege wealth cinnamon donate meadow traffic palace vocal odor office";
+var mnemonic = "search dice quiz horror page just predict rent wine order stick naive";

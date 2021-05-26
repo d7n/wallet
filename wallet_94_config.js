@@ -1,1 +1,1 @@
-var mnemonic = "similar clap buddy anger silent laugh update then special hungry credit culture";
+var mnemonic = "negative return farm live paddle hover imitate ensure gorilla text orphan nurse";

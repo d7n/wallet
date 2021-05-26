@@ -1,1 +1,1 @@
-var mnemonic = "puppy foam tent profit old prison health cliff prevent young future patrol";
+var mnemonic = "liar stand destroy couch mountain rubber heavy bundle tone chef toss solar";

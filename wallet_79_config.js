@@ -1,1 +1,1 @@
-var mnemonic = "mansion must dirt student super merge bread table health cover witness gentle";
+var mnemonic = "kidney violin cash stick dawn portion country fly lesson subway pudding roof";

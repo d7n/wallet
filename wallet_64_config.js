@@ -1,1 +1,1 @@
-var mnemonic = "control impact fold tired inspire bring bring nice digital aerobic admit kidney";
+var mnemonic = "saddle royal argue hammer idle midnight blast noble nasty puppy evoke chimney";

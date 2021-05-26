@@ -1,1 +1,1 @@
-var mnemonic = "bring fruit awful razor antenna pitch escape worry mind large skin trick";
+var mnemonic = "skin crunch nice fluid label ranch giggle argue city extend text cheap";

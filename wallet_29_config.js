@@ -1,1 +1,1 @@
-var mnemonic = "behind census mouse promote obvious fresh page mail rely shuffle wife vicious";
+var mnemonic = "coconut junk favorite category fetch save firm pond area chuckle erode tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "grid result hello media height power plug clarify nurse embrace rebel situate";
+var mnemonic = "ice finger edge toddler october girl episode poverty spy patrol youth never";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble cram glow birth polar flat exile cradle attitude glue host camp";
+var mnemonic = "soup desert prevent silent fat network vacant leg carry castle polar kitchen";

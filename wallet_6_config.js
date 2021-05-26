@@ -1,1 +1,1 @@
-var mnemonic = "master appear uncle number rigid behave decade maid bundle double critic casino";
+var mnemonic = "tail miss cave build sphere tattoo wine girl act keep clown art";

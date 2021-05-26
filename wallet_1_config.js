@@ -1,1 +1,1 @@
-var mnemonic = "teach cause head ceiling plastic theme dwarf school soda borrow fee strategy";
+var mnemonic = "sport chef jungle where blue casual panther involve pride ring three chicken";

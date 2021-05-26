@@ -1,1 +1,1 @@
-var mnemonic = "love fish horror link target exact thought wall desk later visa sing";
+var mnemonic = "dream face ice kit minor pencil derive pet lab metal toss february";

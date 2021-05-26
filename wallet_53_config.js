@@ -1,1 +1,1 @@
-var mnemonic = "august kit token upon magnet fire gas peasant monitor adapt live people";
+var mnemonic = "you coin uniform engage humor school nuclear spin pen equal govern runway";

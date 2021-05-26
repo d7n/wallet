@@ -1,1 +1,1 @@
-var mnemonic = "hawk marine mutual height more trap lend use autumn north offer okay";
+var mnemonic = "enlist galaxy nerve moon capable spatial leisure dwarf valve patient tomorrow denial";

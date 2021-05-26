@@ -1,1 +1,1 @@
-var mnemonic = "this motion pony immense another senior token island real hope perfect call";
+var mnemonic = "display damp plate powder marriage inject wing resist chest task pupil magic";

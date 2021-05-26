@@ -1,1 +1,1 @@
-var mnemonic = "sphere wall pond diamond family assault actress exist example wreck sample exotic";
+var mnemonic = "just maid anger region funny flag shrimp answer salon diet tree sail";

@@ -1,1 +1,1 @@
-var mnemonic = "rather garage smile sense huge quality best device lonely fence public scrap";
+var mnemonic = "hood dust measure car whip leg enemy symptom virtual rebel call scout";

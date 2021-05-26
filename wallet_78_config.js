@@ -1,1 +1,1 @@
-var mnemonic = "knee sword tiny core voice wool improve glare host brass toward grief";
+var mnemonic = "note twist pond connect miracle pair now moral season sausage three cash";

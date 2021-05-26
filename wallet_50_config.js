@@ -1,1 +1,1 @@
-var mnemonic = "proof furnace vibrant sun bless cereal steel floor give awesome waste shrimp";
+var mnemonic = "buyer march hello eager spot abandon foil describe blossom real clump globe";

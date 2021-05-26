@@ -1,1 +1,1 @@
-var mnemonic = "occur defense security execute warm art two banner employ soap design route";
+var mnemonic = "space morning glimpse enforce cream praise convince crawl file canoe flame escape";

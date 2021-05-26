@@ -1,1 +1,1 @@
-var mnemonic = "excess theory avocado loud jelly lottery chef cook loud soup assist apple";
+var mnemonic = "this half stock license woman gloom twist glance like tuition pave cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble north leave cloud vanish parent prevent lesson crane behave decide stable";
+var mnemonic = "couch roast zoo tunnel reject engage pilot diesel dragon oak help caught";

@@ -1,1 +1,1 @@
-var mnemonic = "morning swap word tower unable shove fame stadium wagon bonus unveil peasant";
+var mnemonic = "midnight velvet amount inmate robust approve skull slide ticket deputy raise coconut";

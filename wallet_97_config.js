@@ -1,1 +1,1 @@
-var mnemonic = "payment garlic when asthma scene horse network blush explain human ribbon find";
+var mnemonic = "better roof grab paddle audit luxury above neck velvet become goose capable";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium bachelor earn boost pilot rice scare congress urban claw mixed omit";
+var mnemonic = "tray museum shrimp fade wealth green fun bicycle talk cloth cargo sunny";

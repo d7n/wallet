@@ -1,1 +1,1 @@
-var mnemonic = "dad any collect rain smoke vital emerge buddy any steak now salute";
+var mnemonic = "rich silent broom close income awake goat task deal just harvest peace";

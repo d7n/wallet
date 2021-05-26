@@ -1,1 +1,1 @@
-var mnemonic = "business way rescue object adult cloud negative exist giraffe outside fit source";
+var mnemonic = "attitude merit finish option math away exact lunch foil motion car zone";

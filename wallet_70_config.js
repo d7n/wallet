@@ -1,1 +1,1 @@
-var mnemonic = "talk ivory shaft cat unfair force dragon wheel season usual disease tray";
+var mnemonic = "bullet enrich near situate blame easily flip deal nominee friend truly benefit";

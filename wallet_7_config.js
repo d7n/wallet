@@ -1,1 +1,1 @@
-var mnemonic = "price reward twist put mandate exotic deliver vacuum green hard start wasp";
+var mnemonic = "rather rich theme pulse prefer orchard ordinary transfer donkey upset version addict";

@@ -1,1 +1,1 @@
-var mnemonic = "champion wear since trap cause profit special soul spring witness aim onion";
+var mnemonic = "leader illegal liar exclude reveal window final purity sport reward dragon mixed";

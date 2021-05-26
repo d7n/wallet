@@ -1,1 +1,1 @@
-var mnemonic = "vehicle expect eager gorilla panel crowd oak increase danger mystery best kidney";
+var mnemonic = "mushroom load flight pact silver cement surface eagle rebel bird flight shadow";

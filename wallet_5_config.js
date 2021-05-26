@@ -1,1 +1,1 @@
-var mnemonic = "antenna become garbage umbrella acid gain clean steak select glad obscure moral";
+var mnemonic = "puzzle pond garden wool similar type slab peace photo hazard season submit";

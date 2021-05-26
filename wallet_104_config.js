@@ -1,1 +1,1 @@
-var mnemonic = "tiger scare mix frog choice lonely acquire youth sunny drive salon debris";
+var mnemonic = "remember display property sorry zone web target photo skin theory network auto";

@@ -1,1 +1,1 @@
-var mnemonic = "solar material hamster tiny visa message dash crater always tone begin alter";
+var mnemonic = "vocal dose chronic man member gap height remain sting blade town page";

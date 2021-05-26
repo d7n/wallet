@@ -1,1 +1,1 @@
-var mnemonic = "speak duck level crowd cover cruel host neither kid rice kit long";
+var mnemonic = "faint output rule clock daring pulp asthma column cart future rough hood";

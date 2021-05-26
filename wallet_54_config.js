@@ -1,1 +1,1 @@
-var mnemonic = "snack gain extra clutch vacant scale mask video tuna noble theory emerge";
+var mnemonic = "symptom ahead search neutral another abstract middle liquid when half kiss muffin";

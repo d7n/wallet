@@ -1,1 +1,1 @@
-var mnemonic = "search venture enrich affair cement gravity notice canyon odor organ science involve";
+var mnemonic = "seminar grape pledge time exist steak give lion athlete panel dynamic key";

@@ -1,1 +1,1 @@
-var mnemonic = "swim dice blossom choose urge ocean music panda police monkey melt minor";
+var mnemonic = "congress earth first equip learn ginger early retreat like real attitude social";

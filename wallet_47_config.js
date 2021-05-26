@@ -1,1 +1,1 @@
-var mnemonic = "impose inch discover knock cost canal little key valid make embrace destroy";
+var mnemonic = "gesture easily husband junior peasant shield patrol embrace easy level steak major";

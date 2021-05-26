@@ -1,1 +1,1 @@
-var mnemonic = "reform aim board add early maid grass tired spider review kid autumn";
+var mnemonic = "soldier duty melody bike crash color gaze yellow flavor diesel stool jealous";

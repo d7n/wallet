@@ -1,1 +1,1 @@
-var mnemonic = "pluck all napkin tiny defy robust mirror pupil unit unable online charge";
+var mnemonic = "can boost now office goose copy mountain release way wall round old";

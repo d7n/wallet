@@ -1,1 +1,1 @@
-var mnemonic = "slim camera lyrics give flat great error axis clap priority baby example";
+var mnemonic = "hundred alarm hour cycle spatial upon book marble exact uniform ring announce";

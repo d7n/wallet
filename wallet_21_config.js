@@ -1,1 +1,1 @@
-var mnemonic = "skin risk response culture artefact any earn cook scrap trophy despair orbit";
+var mnemonic = "year involve first north embark miracle elegant industry drastic material swallow jelly";

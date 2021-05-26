@@ -1,1 +1,1 @@
-var mnemonic = "dwarf clean short drill safe evolve month cross embrace rate lecture raccoon";
+var mnemonic = "theme dignity sell gain taste grab wedding play find away clip marriage";

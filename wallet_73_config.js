@@ -1,1 +1,1 @@
-var mnemonic = "song forum hold submit offer debate stumble post helmet puzzle office ivory";
+var mnemonic = "puppy rifle day favorite shrimp keep buddy leader ripple village alien eagle";

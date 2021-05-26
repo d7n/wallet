@@ -1,1 +1,1 @@
-var mnemonic = "digital approve curious audit stomach arctic decrease lunar choose keep bitter coyote";
+var mnemonic = "sweet prison fly bright saddle unlock miss duck sick acid flee symbol";

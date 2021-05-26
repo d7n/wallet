@@ -1,1 +1,1 @@
-var mnemonic = "gap glare mystery elevator fee predict wedding recipe enforce youth shop box";
+var mnemonic = "dog huge bench neck cruise planet rude pass eyebrow patient hire horse";

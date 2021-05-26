@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin pelican stock path vital puppy corn stage normal limb major girl";
+var mnemonic = "gospel bike order copy differ video climb planet bargain inflict glide want";

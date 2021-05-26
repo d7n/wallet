@@ -1,1 +1,1 @@
-var mnemonic = "answer reveal notice love ship forest vacant syrup frog demise truck elevator";
+var mnemonic = "away deer cloud knee use grid body top give chicken brave science";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet camera hat apple chapter flower say private real orient estate fire";
+var mnemonic = "tuna method beyond chat bicycle embark stadium mention skill empower ski hip";

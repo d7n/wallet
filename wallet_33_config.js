@@ -1,1 +1,1 @@
-var mnemonic = "legal easy public main swing mixed enjoy flock expect shoe toast coach";
+var mnemonic = "doll frequent ugly section monster surge riot race program physical puzzle olympic";

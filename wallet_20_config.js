@@ -1,1 +1,1 @@
-var mnemonic = "flat today lunar connect stone uphold swing spoil print web safe boost";
+var mnemonic = "torch legal sketch mixture basket grocery army away online diagram quantum baby";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge mask excess antenna pigeon coyote bird cake couple prefer cargo note";
+var mnemonic = "kitten utility wait fortune list crucial present involve elbow parrot nose trophy";

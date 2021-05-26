@@ -1,1 +1,1 @@
-var mnemonic = "minimum mistake argue evidence supply luxury nature grape tower meat lonely sausage";
+var mnemonic = "tobacco ten bicycle strategy mechanic saddle lonely affair shoulder elite gesture punch";

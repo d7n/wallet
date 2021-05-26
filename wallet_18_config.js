@@ -1,1 +1,1 @@
-var mnemonic = "morning summer crop child civil bachelor scrub aware fun wrong soldier inch";
+var mnemonic = "soon unusual plastic love wrist mean mad method farm west escape rhythm";

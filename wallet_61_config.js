@@ -1,1 +1,1 @@
-var mnemonic = "try olive plastic resource census awkward lesson kidney again level notable flee";
+var mnemonic = "room simple slight enlist mesh language crucial tail nest you neither inflict";

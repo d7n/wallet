@@ -1,1 +1,1 @@
-var mnemonic = "evoke project mystery mutual evolve toward toss boil speak chicken obscure outer";
+var mnemonic = "transfer diet tray income pride syrup mushroom hurt decorate electric exhibit garage";

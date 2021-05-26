@@ -1,1 +1,1 @@
-var mnemonic = "order coach defense toward super theory bone album sheriff wheat bench pepper";
+var mnemonic = "abuse forward coral enable wheel viable false lunar hybrid inherit dish crew";

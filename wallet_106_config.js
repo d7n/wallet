@@ -1,1 +1,1 @@
-var mnemonic = "left october payment verb south throw once goddess cargo aware scan stage";
+var mnemonic = "where rare slab spike purse file swamp expect pyramid photo aspect tiny";

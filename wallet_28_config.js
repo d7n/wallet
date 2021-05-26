@@ -1,1 +1,1 @@
-var mnemonic = "anchor keep senior cherry surprise fish fine mention virtual rack wagon miss";
+var mnemonic = "gospel mass mystery farm metal wine dream horror record lemon goose pear";

@@ -1,1 +1,1 @@
-var mnemonic = "search wonder coin fiscal citizen rebel laptop bench rude monster chronic slender";
+var mnemonic = "leg bomb paddle street joy carbon tackle resemble guess dinner beef slot";

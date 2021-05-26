@@ -1,1 +1,1 @@
-var mnemonic = "build utility shop nerve winner tip silk legal guess install divert market";
+var mnemonic = "long pride leg wagon snow echo into true whisper feature worth urban";

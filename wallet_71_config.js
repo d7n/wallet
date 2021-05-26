@@ -1,1 +1,1 @@
-var mnemonic = "sauce humble proof noble series worry verify tomato tourist advice like volcano";
+var mnemonic = "assault disease movie hurdle only chair february echo rescue square salon initial";

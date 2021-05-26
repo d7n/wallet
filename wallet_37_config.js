@@ -1,1 +1,1 @@
-var mnemonic = "want stable exist figure sleep cherry credit lounge saddle someone unfold alpha";
+var mnemonic = "online island torch rifle farm sleep tonight shiver endorse habit approve fly";

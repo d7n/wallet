@@ -1,1 +1,1 @@
-var mnemonic = "ugly door proud sentence high expand road hospital apple unhappy unique occur";
+var mnemonic = "birth brand peace buyer crane text patrol shield element dutch benefit ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "vote garbage north opera shallow salute tragic winner north spirit spoil shed";
+var mnemonic = "exhaust perfect quarter donate chaos drip cousin capable present salt always point";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee inflict trend idle borrow bird vibrant style copper avocado ship slab";
+var mnemonic = "foil before mutual bar keen reform gorilla bottom penalty tag smile alone";

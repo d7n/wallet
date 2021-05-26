@@ -1,1 +1,1 @@
-var mnemonic = "disease sugar champion anxiety people april scene device pull inspire guide kingdom";
+var mnemonic = "town crush black test scheme grain album dignity rebel jacket disorder caught";

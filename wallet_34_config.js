@@ -1,1 +1,1 @@
-var mnemonic = "veteran butter enjoy boss armed another tragic symptom garment area aerobic basic";
+var mnemonic = "oven finish upon budget snake gauge pig hedgehog region tip toy file";

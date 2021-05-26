@@ -1,1 +1,1 @@
-var mnemonic = "panel humor father local problem girl weird rocket impose pink endorse wealth";
+var mnemonic = "island borrow over egg illness panther lawn smile capable rule jewel hover";

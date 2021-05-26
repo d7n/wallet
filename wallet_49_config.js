@@ -1,1 +1,1 @@
-var mnemonic = "ivory twice approve action wife trade survey else rib fold about elephant";
+var mnemonic = "afford bubble spend call talk chase sibling twist stuff wheat teach robot";

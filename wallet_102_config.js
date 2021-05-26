@@ -1,1 +1,1 @@
-var mnemonic = "cat pen stage horse vacuum seek remove swift barely tissue receive art";
+var mnemonic = "such dizzy ensure furnace grief region ice very ice chef baby warrior";

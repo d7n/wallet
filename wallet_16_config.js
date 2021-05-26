@@ -1,1 +1,1 @@
-var mnemonic = "staff jeans appear section amount notice math material abuse sure music bag";
+var mnemonic = "fatigue number jelly popular harvest witness march own gas run other during";

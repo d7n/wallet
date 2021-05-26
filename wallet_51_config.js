@@ -1,1 +1,1 @@
-var mnemonic = "syrup motion bitter adjust leisure glide casual deliver scatter obscure sleep image";
+var mnemonic = "group smart fabric average copper car animal catalog amateur camera detail quote";

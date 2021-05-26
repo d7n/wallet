@@ -1,1 +1,1 @@
-var mnemonic = "liquid practice worry fitness unit shrug wonder stamp cake lawn state version";
+var mnemonic = "bicycle funny tank corn sting decade violin cube curve slow hamster pattern";

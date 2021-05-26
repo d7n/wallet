@@ -1,1 +1,1 @@
-var mnemonic = "wisdom income mutual biology fancy describe helmet fade virus unique kingdom remain";
+var mnemonic = "outside pause public wine cloth party taxi stove art memory crisp keep";
