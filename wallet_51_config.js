@@ -1,1 +1,1 @@
-var mnemonic = "talk loan buzz favorite erase thing grunt humble tower night random convince";
+var mnemonic = "stock disease frozen town seed audit memory maze earth arm grunt genuine";

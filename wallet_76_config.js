@@ -1,1 +1,1 @@
-var mnemonic = "agent rail angle sunset pet kangaroo speed nature smoke guess jaguar avoid";
+var mnemonic = "core same endless drum habit identify involve state access fork accident equip";

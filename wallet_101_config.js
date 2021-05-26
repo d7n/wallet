@@ -1,1 +1,1 @@
-var mnemonic = "regular truck hungry simple describe elegant isolate away exotic hole general sort";
+var mnemonic = "iron bone health please dance alpha hollow try own seek shop fragile";

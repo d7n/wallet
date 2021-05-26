@@ -1,1 +1,1 @@
-var mnemonic = "salmon clutch example raw summer alarm dune faint copy tag course stay";
+var mnemonic = "toss bonus error ignore cradle chicken street boil orange input render during";

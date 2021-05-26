@@ -1,1 +1,1 @@
-var mnemonic = "blanket lava lawn welcome immense orange domain often alone radar visa tomato";
+var mnemonic = "elegant grant catch evolve old wire offer orange uphold grace raven absent";

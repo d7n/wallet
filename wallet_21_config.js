@@ -1,1 +1,1 @@
-var mnemonic = "promote push access actual yard elevator ring virtual club remain trial mean";
+var mnemonic = "room alone royal prosper pair shell wool october exit glimpse kingdom ship";

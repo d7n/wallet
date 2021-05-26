@@ -1,1 +1,1 @@
-var mnemonic = "address check pole elegant connect cloud vote future sure web expect shadow";
+var mnemonic = "truth mind below yard kingdom hurdle record flavor sausage rely bunker idea";

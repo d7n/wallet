@@ -1,1 +1,1 @@
-var mnemonic = "garlic digital soft barrel town scan outer veteran devote agree ethics salon";
+var mnemonic = "table curious walk abstract silent can business wolf spike right invest strategy";

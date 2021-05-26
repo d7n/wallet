@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tongue regular punch figure breeze cheese divert input cake sweet dust";
+var mnemonic = "matrix sort peasant inject ladder bonus bundle fiber toast engage weird tonight";

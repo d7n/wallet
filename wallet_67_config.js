@@ -1,1 +1,1 @@
-var mnemonic = "raw soup sing vibrant hold sport target girl minute label aim swing";
+var mnemonic = "garbage afraid mountain crush country lazy priority element camera better inhale cloud";

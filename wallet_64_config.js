@@ -1,1 +1,1 @@
-var mnemonic = "proof copper village luxury fade surge neck velvet cage luxury volume unknown";
+var mnemonic = "cliff mistake swarm proud record world rare search garden field convince ceiling";

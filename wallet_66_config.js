@@ -1,1 +1,1 @@
-var mnemonic = "drill spray dinosaur fury enough bean surprise task skirt quiz flip curious";
+var mnemonic = "ride blast occur turn frost curve reveal caution describe artwork flip ladder";

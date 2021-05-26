@@ -1,1 +1,1 @@
-var mnemonic = "wheat vendor birth simple immense crazy mammal zoo stool element rookie method";
+var mnemonic = "news scan denial print recycle uniform elbow emerge royal model twice blast";

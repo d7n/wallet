@@ -1,1 +1,1 @@
-var mnemonic = "brave observe stumble across load ethics choose field nuclear song among bleak";
+var mnemonic = "neutral coyote aerobic betray acoustic subject sponsor curious visit skirt ski ring";

@@ -1,1 +1,1 @@
-var mnemonic = "plate mango meat satisfy margin develop riot road term outside jungle coral";
+var mnemonic = "such gaze blue again parent border pact link come target naive crunch";

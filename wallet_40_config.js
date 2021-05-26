@@ -1,1 +1,1 @@
-var mnemonic = "aspect later urge random pig february multiply regular undo hire picnic envelope";
+var mnemonic = "runway donkey inherit source speed stable rookie turkey mad nothing boat come";

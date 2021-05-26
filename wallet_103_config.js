@@ -1,1 +1,1 @@
-var mnemonic = "marble execute blossom mistake evidence rice owner dragon mutual puzzle actual cattle";
+var mnemonic = "crater subject select lecture gain apology famous oil option heavy brother video";

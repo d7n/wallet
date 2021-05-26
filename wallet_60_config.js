@@ -1,1 +1,1 @@
-var mnemonic = "venture lawn expect weapon number cargo bracket dirt violin visual fantasy address";
+var mnemonic = "tag fade hello proof ability hospital motor fluid link impose stamp game";

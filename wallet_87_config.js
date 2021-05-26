@@ -1,1 +1,1 @@
-var mnemonic = "champion deer install diamond million text wedding sail direct demand mercy symptom";
+var mnemonic = "hurdle minute duck surge crash danger hollow play announce seat glass sheriff";

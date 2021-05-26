@@ -1,1 +1,1 @@
-var mnemonic = "autumn trophy empty energy slice ancient spin approve priority pledge novel manual";
+var mnemonic = "around author argue zero delay doctor census maid useless bicycle evolve total";

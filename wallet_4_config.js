@@ -1,1 +1,1 @@
-var mnemonic = "scrap observe hold middle swear enhance swap snack noble bulk drink salute";
+var mnemonic = "circle flag twenty twelve begin stem captain ocean ready pepper online industry";

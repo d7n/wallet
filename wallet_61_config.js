@@ -1,1 +1,1 @@
-var mnemonic = "section trim guitar genuine stumble skin cruel olive input palm juice maple";
+var mnemonic = "case judge gravity broom junk tide pioneer gesture anxiety cheese onion copper";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket job turn oval canal blanket jealous pitch badge bench trick arrest";
+var mnemonic = "about stadium way hawk friend page exist digital wonder left flip step";

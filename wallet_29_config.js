@@ -1,1 +1,1 @@
-var mnemonic = "pepper eye pumpkin mirror smile scissors material suit promote find sugar easy";
+var mnemonic = "scare truth dust give assume match life gentle connect card under enforce";

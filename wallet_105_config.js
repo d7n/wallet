@@ -1,1 +1,1 @@
-var mnemonic = "reunion away priority matter young use mixed pass shiver guilt desert gate";
+var mnemonic = "polar fruit common visit furnace treat width spatial motion lake boost bean";

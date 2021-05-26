@@ -1,1 +1,1 @@
-var mnemonic = "rookie explain eyebrow hybrid poem arrest across mirror unable crater april scale";
+var mnemonic = "affair print pond salad slam market wink sketch exotic educate lake alley";

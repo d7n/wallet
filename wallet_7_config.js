@@ -1,1 +1,1 @@
-var mnemonic = "sign lunch leopard dream midnight horse gorilla neutral blade fatal wrong flee";
+var mnemonic = "hip arrow crumble render roast govern icon rely settle bacon luxury economy";

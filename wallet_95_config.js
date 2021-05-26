@@ -1,1 +1,1 @@
-var mnemonic = "fatigue december swap jump poverty toddler soda horse polar critic grant ugly";
+var mnemonic = "math infant eager west soon asthma shield peace derive reject method apart";

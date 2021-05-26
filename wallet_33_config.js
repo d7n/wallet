@@ -1,1 +1,1 @@
-var mnemonic = "hidden fabric domain deliver uncover skin october bundle transfer apart science staff";
+var mnemonic = "beyond initial rescue width scout ignore puppy credit earth nature supreme dress";

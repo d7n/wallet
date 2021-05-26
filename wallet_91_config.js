@@ -1,1 +1,1 @@
-var mnemonic = "distance ability goat bacon bacon earth asset humor wood chief slot bring";
+var mnemonic = "correct junk comic organ swim oblige peanut impact jelly ice pudding sting";

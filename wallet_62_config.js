@@ -1,1 +1,1 @@
-var mnemonic = "connect furnace forget family minor tank soon junk faint key chaos tool";
+var mnemonic = "quote attack guess car brown review coach hybrid use soap motion scout";

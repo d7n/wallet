@@ -1,1 +1,1 @@
-var mnemonic = "mass maze country dirt indoor burden clever profit neither sell fever track";
+var mnemonic = "business verify annual muscle thing cupboard horn client relief among clown elegant";

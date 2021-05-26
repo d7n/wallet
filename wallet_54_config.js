@@ -1,1 +1,1 @@
-var mnemonic = "hello sun omit pen note evidence crouch pottery slide busy impulse winner";
+var mnemonic = "false cream gossip crew wrong puppy wire divide garlic fluid click kiss";

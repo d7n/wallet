@@ -1,1 +1,1 @@
-var mnemonic = "manage ozone repair anchor alley crater wagon reveal aim bus rocket zero";
+var mnemonic = "front mixed retire spider ten august pulp barrel catch column marine live";

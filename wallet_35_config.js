@@ -1,1 +1,1 @@
-var mnemonic = "dish month stem clerk analyst credit square sheriff danger purchase clever face";
+var mnemonic = "exile crisp armed broccoli boost over tape allow luxury pledge science drill";

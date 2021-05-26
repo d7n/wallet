@@ -1,1 +1,1 @@
-var mnemonic = "job loud develop tray palace cry recycle noble toddler amazing member model";
+var mnemonic = "inch theme much next wrap buddy property transfer exchange armed canvas deputy";

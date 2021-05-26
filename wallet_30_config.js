@@ -1,1 +1,1 @@
-var mnemonic = "anchor humor decorate unfair giant effort panic scrub outside invest train patrol";
+var mnemonic = "impact chief artwork uniform unique liquid index exist tray split subject tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "excite wasp figure grace fruit debate together demand tone seven collect traffic";
+var mnemonic = "attack nature tomorrow indicate fun grid visit garbage climb glance fragile easy";

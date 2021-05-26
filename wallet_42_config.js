@@ -1,1 +1,1 @@
-var mnemonic = "august report return damp obscure host phrase camp churn matter unable fossil";
+var mnemonic = "turn when knife release eternal coconut permit episode initial among hurt remain";

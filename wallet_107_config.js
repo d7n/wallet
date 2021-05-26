@@ -1,1 +1,1 @@
-var mnemonic = "nerve ready collect brush crush write celery very festival element prevent lucky";
+var mnemonic = "tool brick one can modify human gym ethics van tilt cute spray";

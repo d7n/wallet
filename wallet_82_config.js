@@ -1,1 +1,1 @@
-var mnemonic = "yard kid glance season penalty jazz traffic cruel enter output gentle rebel";
+var mnemonic = "when risk often tragic flee initial bundle myth citizen elegant funny orbit";

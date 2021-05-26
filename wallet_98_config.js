@@ -1,1 +1,1 @@
-var mnemonic = "minute fragile tribe abstract mercy valley please obey toddler salon local fabric";
+var mnemonic = "erupt renew memory fault lyrics win also life blouse exist design remain";

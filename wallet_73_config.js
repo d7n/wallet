@@ -1,1 +1,1 @@
-var mnemonic = "toddler snap stay whip hope uncover girl license ghost ocean typical inner";
+var mnemonic = "assault maid educate throw maple apple shaft grow flag promote october noise";

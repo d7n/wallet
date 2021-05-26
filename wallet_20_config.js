@@ -1,1 +1,1 @@
-var mnemonic = "cargo ivory favorite urge west guide knife deliver invite govern program panda";
+var mnemonic = "april tuna attend index snack use loan roast elbow dog broken space";

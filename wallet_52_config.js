@@ -1,1 +1,1 @@
-var mnemonic = "truck alarm stone banner miracle route margin aisle proud frog best job";
+var mnemonic = "mountain unhappy elbow tenant fruit judge film entry equip position either basket";

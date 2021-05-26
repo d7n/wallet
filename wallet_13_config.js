@@ -1,1 +1,1 @@
-var mnemonic = "soul deposit alone decorate ten grant found person pioneer blur cute tomato";
+var mnemonic = "girl child size cancel model elder night badge armor cupboard stereo work";

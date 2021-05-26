@@ -1,1 +1,1 @@
-var mnemonic = "ritual behave machine essay analyst divert spread hurdle then robust outer note";
+var mnemonic = "marble dose stand all teach rocket question wing debris try announce improve";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol invest love clerk treat voice fall mutual pioneer mystery sense pool";
+var mnemonic = "jaguar actress neither saddle duty proof measure balcony pull crash region tongue";

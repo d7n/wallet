@@ -1,1 +1,1 @@
-var mnemonic = "tornado dynamic estate client issue chimney credit gauge awesome prize jelly purse";
+var mnemonic = "various recipe because imitate defy easily this nose buffalo label song claw";

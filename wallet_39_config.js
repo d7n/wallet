@@ -1,1 +1,1 @@
-var mnemonic = "grief maximum panther divorce unfold ribbon cigar eager that prefer saddle fossil";
+var mnemonic = "woman bundle away sun airport invite rebuild depart demise shield save frog";

@@ -1,1 +1,1 @@
-var mnemonic = "teach only logic tube measure always clip member power bronze tank almost";
+var mnemonic = "isolate eagle eye marriage useful absorb oval judge often unaware eager burst";

@@ -1,1 +1,1 @@
-var mnemonic = "tube render leg tourist ticket bar distance ancient brother pause robust coil";
+var mnemonic = "bus civil auction sauce trick carpet gym neck message private bomb security";

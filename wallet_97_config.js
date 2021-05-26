@@ -1,1 +1,1 @@
-var mnemonic = "hungry bomb patch sniff shine thumb organ omit brother era purpose reopen";
+var mnemonic = "bracket balance any syrup hat pretty brown eight sleep wisdom tribe mix";

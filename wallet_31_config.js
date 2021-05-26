@@ -1,1 +1,1 @@
-var mnemonic = "robot child toddler world ring hawk garlic phone purpose music tobacco pencil";
+var mnemonic = "husband ability scrap layer smoke slender young ladder thrive else tray pioneer";

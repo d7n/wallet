@@ -1,1 +1,1 @@
-var mnemonic = "lyrics slim taste detect owner seek marine force shallow clog view develop";
+var mnemonic = "guess rib bread equal bind mirror again torch salad seminar rule spatial";

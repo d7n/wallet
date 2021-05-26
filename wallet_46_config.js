@@ -1,1 +1,1 @@
-var mnemonic = "cool prize ozone puzzle crop uniform menu fever speak village connect humor";
+var mnemonic = "speed owner plate lend page grain leaf spirit eyebrow tip rose torch";

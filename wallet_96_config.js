@@ -1,1 +1,1 @@
-var mnemonic = "giraffe faith you cause annual cement step put lion duty miss attract";
+var mnemonic = "ball buyer lucky sock leg axis awesome corn tourist budget isolate amateur";

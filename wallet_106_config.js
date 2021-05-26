@@ -1,1 +1,1 @@
-var mnemonic = "chapter way replace kitten sponsor injury moon bean trim fashion truly income";
+var mnemonic = "green slab accident mechanic word enforce coin medal outer fly hybrid radar";

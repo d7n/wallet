@@ -1,1 +1,1 @@
-var mnemonic = "cable require already pond weird bargain black excuse brief web diary engine";
+var mnemonic = "insect gossip tide smile junior arm together question wolf vehicle scissors upon";

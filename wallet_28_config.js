@@ -1,1 +1,1 @@
-var mnemonic = "dilemma have nasty plunge napkin canoe stick order castle verify member attract";
+var mnemonic = "coin trust cause mansion film hill normal embody caution royal sail another";

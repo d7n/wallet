@@ -1,1 +1,1 @@
-var mnemonic = "arctic verb polar broken case torch smart laptop record elegant appear large";
+var mnemonic = "clean protect tide transfer swear two child satisfy length suspect alpha kick";

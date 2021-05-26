@@ -1,1 +1,1 @@
-var mnemonic = "stadium grit cinnamon cash enable bridge drive final page slide someone culture";
+var mnemonic = "valid arrive knock hand advance potato great eager inherit health nut ice";

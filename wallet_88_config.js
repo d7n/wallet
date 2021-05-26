@@ -1,1 +1,1 @@
-var mnemonic = "act alien keep barely frozen evoke rice together bright budget spirit village";
+var mnemonic = "final float festival pencil possible spell olympic fold nerve seven favorite tone";

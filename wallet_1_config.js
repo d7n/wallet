@@ -1,1 +1,1 @@
-var mnemonic = "couch sing secret region butter coast another accident fly vocal sugar manual";
+var mnemonic = "cycle winter smile garbage uniform release filter jelly nature true sure tide";

@@ -1,1 +1,1 @@
-var mnemonic = "real bench venture loud favorite balcony visa model safe noble output poem";
+var mnemonic = "middle fetch agree oven define surround latin feed enemy craft opinion thrive";

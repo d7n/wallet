@@ -1,1 +1,1 @@
-var mnemonic = "elegant code hub repeat pigeon glimpse feature mistake ladder meat elite adjust";
+var mnemonic = "flower curtain enforce canoe olive guilt tumble oven hedgehog member melt cannon";

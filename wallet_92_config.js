@@ -1,1 +1,1 @@
-var mnemonic = "strike demise master love rather nose disease guilt hamster art behind panther";
+var mnemonic = "short theory region foster nominee chair shop attack run engine foster talent";

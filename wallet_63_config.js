@@ -1,1 +1,1 @@
-var mnemonic = "baby crime lemon evil rose old private bottom arrest canyon pattern shiver";
+var mnemonic = "cloth super inch render lobster picnic cup clerk warfare token opinion relax";

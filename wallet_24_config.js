@@ -1,1 +1,1 @@
-var mnemonic = "digital opera wire hill truck small orphan pact scatter ketchup hub conduct";
+var mnemonic = "vendor grape sorry catch increase edge east leader one snack cousin already";

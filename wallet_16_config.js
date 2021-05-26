@@ -1,1 +1,1 @@
-var mnemonic = "alter proud forward vicious pipe conduct define neglect swap void antique blame";
+var mnemonic = "latin income local various trumpet adult crouch urban excite divide predict pact";

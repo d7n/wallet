@@ -1,1 +1,1 @@
-var mnemonic = "access curve sock hill fiscal kite leaf judge artist noise liar rose";
+var mnemonic = "loud banner plunge update display avoid drastic window reunion satisfy anchor boost";

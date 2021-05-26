@@ -1,1 +1,1 @@
-var mnemonic = "vicious consider eyebrow life curtain school salad sauce much distance error business";
+var mnemonic = "cancel canoe then survey survey amused hope install solve follow snake engage";

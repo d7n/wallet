@@ -1,1 +1,1 @@
-var mnemonic = "witness meat romance viable sleep they behave diesel way promote biology execute";
+var mnemonic = "domain mention gadget wheat idea skull voice pact vital giraffe ritual teach";

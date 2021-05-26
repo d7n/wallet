@@ -1,1 +1,1 @@
-var mnemonic = "equip engine shop angle vanish release half rude tiny awkward warfare awkward";
+var mnemonic = "cash detail stick visual bag salute funny cricket team off below truck";

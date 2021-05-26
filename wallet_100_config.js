@@ -1,1 +1,1 @@
-var mnemonic = "arm correct inside there novel retreat chicken menu swallow flower biology repeat";
+var mnemonic = "zoo elevator sure mansion property fetch vendor stone insane matrix limb knee";

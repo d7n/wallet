@@ -1,1 +1,1 @@
-var mnemonic = "kidney diet chuckle undo believe reveal similar rookie raccoon become owner emotion";
+var mnemonic = "jazz reject praise animal relief kitten rhythm engine health van shrug core";

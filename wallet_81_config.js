@@ -1,1 +1,1 @@
-var mnemonic = "wife group raw cloth parrot balcony volcano mixed add cake choice fame";
+var mnemonic = "inherit useful enrich ceiling smoke receive casino horn flame crazy menu town";

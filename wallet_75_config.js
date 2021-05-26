@@ -1,1 +1,1 @@
-var mnemonic = "search sponsor try acoustic surround world decide exist trend better rather method";
+var mnemonic = "simple retire guide churn opinion cheese length ozone squeeze lamp account edge";

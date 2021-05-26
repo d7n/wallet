@@ -1,1 +1,1 @@
-var mnemonic = "rule device admit say design glide float oak inflict marine name miracle";
+var mnemonic = "high bamboo guide nothing regret pizza check hedgehog faint token topic agent";

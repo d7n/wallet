@@ -1,1 +1,1 @@
-var mnemonic = "dragon swallow board good design breeze whisper economy phrase nice fire dolphin";
+var mnemonic = "alpha ozone job ritual brisk fame cruise armed type you always fever";

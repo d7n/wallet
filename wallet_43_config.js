@@ -1,1 +1,1 @@
-var mnemonic = "wasp deposit guard develop route skate use oak major salmon web busy";
+var mnemonic = "spike gym subway rich slush girl ship what panic strong phrase razor";

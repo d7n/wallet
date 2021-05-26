@@ -1,1 +1,1 @@
-var mnemonic = "runway upper zone parade tail time punch page time source survey employ";
+var mnemonic = "tower fantasy fantasy attend feel close release gold figure paper endless focus";

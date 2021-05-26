@@ -1,1 +1,1 @@
-var mnemonic = "wine add target man miss bottom chuckle crater degree provide tragic borrow";
+var mnemonic = "news regret symbol resource upgrade concert bulk capital process burger urge blush";

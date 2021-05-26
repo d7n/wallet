@@ -1,1 +1,1 @@
-var mnemonic = "kitchen prefer gesture usage maximum violin input airport coral fun piece awful";
+var mnemonic = "bacon shove never enhance cement trial false security deputy upgrade hand exercise";

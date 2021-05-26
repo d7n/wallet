@@ -1,1 +1,1 @@
-var mnemonic = "fatigue canal release urge license later fiscal mystery west silver traffic stomach";
+var mnemonic = "lab top puppy captain property relax squeeze return analyst sort error elbow";

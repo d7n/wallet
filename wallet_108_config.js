@@ -1,1 +1,1 @@
-var mnemonic = "sugar fiction stage bring spy normal silly crunch useful vehicle pole divorce";
+var mnemonic = "supply blast ancient affair pair invest hood illness goat joke notice aim";

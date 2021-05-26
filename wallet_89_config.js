@@ -1,1 +1,1 @@
-var mnemonic = "diesel banana gap tourist pledge border ghost stereo flock attend boat include";
+var mnemonic = "unhappy time wet blade motion nation romance sunny rather rent meadow orange";

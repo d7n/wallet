@@ -1,1 +1,1 @@
-var mnemonic = "head traffic junk daughter tuition pledge display photo black copper large scene";
+var mnemonic = "robust drastic carpet become about cloud main portion release tragic air rich";

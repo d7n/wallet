@@ -1,1 +1,1 @@
-var mnemonic = "true ahead steel retire identify dinosaur silly giggle warrior oppose space remain";
+var mnemonic = "spice coach all attract goddess nose remove early want rotate task panda";

@@ -1,1 +1,1 @@
-var mnemonic = "drum unfold canyon scrap practice spoil small bronze bicycle frog swap caution";
+var mnemonic = "attitude bracket dust someone scout naive ghost bottom sorry fluid quarter develop";
