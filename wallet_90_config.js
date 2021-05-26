@@ -1,1 +1,1 @@
-var mnemonic = "review subject dirt people giraffe spring tongue depth stove style magnet fashion";
+var mnemonic = "deliver card banner miss hundred transfer current fortune satisfy pyramid ritual elite";

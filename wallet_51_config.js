@@ -1,1 +1,1 @@
-var mnemonic = "throw summer wood shove share turkey arrive liar motor host stool middle";
+var mnemonic = "subway crime minute ramp alien frown spawn strong mechanic humble raven build";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco glance whip usual fog churn above strong income will adjust feature";
+var mnemonic = "canyon average stage attend author soul deal champion cupboard issue taste energy";

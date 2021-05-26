@@ -1,1 +1,1 @@
-var mnemonic = "popular behind eyebrow flush dance opinion squeeze sand height atom smoke path";
+var mnemonic = "cargo solution super online helmet race meat such choose spell zoo mesh";

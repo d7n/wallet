@@ -1,1 +1,1 @@
-var mnemonic = "mandate fault peasant belt toilet material caught favorite major air angle tag";
+var mnemonic = "obtain anchor kingdom someone left fly abstract surround goose pole carbon boss";

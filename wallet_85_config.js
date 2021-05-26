@@ -1,1 +1,1 @@
-var mnemonic = "owner margin stay universe fall match picnic mixture exchange stove child teach";
+var mnemonic = "horn sugar outdoor stumble twice manual denial sweet aware explain suggest solve";

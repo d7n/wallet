@@ -1,1 +1,1 @@
-var mnemonic = "initial demand indicate helmet maple awful shop shallow green boy text old";
+var mnemonic = "together funny crunch alter stairs uphold story quarter normal venture book volume";

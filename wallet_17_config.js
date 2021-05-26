@@ -1,1 +1,1 @@
-var mnemonic = "off vessel certain online cloth annual brave make yellow short clinic analyst";
+var mnemonic = "divert suspect truck ginger tell ginger gospel excite fall certain fox joy";

@@ -1,1 +1,1 @@
-var mnemonic = "message humor glory keep mail there phrase poverty claim token payment upset";
+var mnemonic = "rate curious slot symptom crowd discover theory emotion ahead gasp axis scan";

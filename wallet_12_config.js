@@ -1,1 +1,1 @@
-var mnemonic = "problem ugly galaxy allow panther artist monitor extra transfer warrior asset fire";
+var mnemonic = "dynamic song shove dinosaur maple frost firm december digital like card couple";

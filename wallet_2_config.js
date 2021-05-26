@@ -1,1 +1,1 @@
-var mnemonic = "pear vast match child security recall casino dress pull uniform frost purity";
+var mnemonic = "skin analyst style scrap bottom legal fantasy fish exist senior pond aim";

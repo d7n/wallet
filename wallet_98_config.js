@@ -1,1 +1,1 @@
-var mnemonic = "clog grocery right relief soup street embark pair myth table diesel invest";
+var mnemonic = "shaft ignore staff wide pair wrong swing body move lock virtual all";

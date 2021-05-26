@@ -1,1 +1,1 @@
-var mnemonic = "stomach simple life tuna funny glove electric recall oven sentence lucky advance";
+var mnemonic = "myth error toilet apart scene rent swing crumble asset mention text coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "solve call truly hungry antique today cigar guess lava copy tomorrow celery";
+var mnemonic = "emotion oblige invite robot hour ship update crop about reason tomorrow hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "oil trade cliff rain double very skill vague garment also rubber aware";
+var mnemonic = "session term crowd category display around recipe object half luggage frame virus";

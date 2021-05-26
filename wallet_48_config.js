@@ -1,1 +1,1 @@
-var mnemonic = "conduct worry myth text link volume melody hungry trouble sick tribe direct";
+var mnemonic = "identify hello argue cross solution device shock grow aerobic sibling insect focus";

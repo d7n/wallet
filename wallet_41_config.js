@@ -1,1 +1,1 @@
-var mnemonic = "divert country extend sign fun arena disorder auto august winter duck garbage";
+var mnemonic = "palace solar noble blood rival moon jar swarm youth infant pink exile";

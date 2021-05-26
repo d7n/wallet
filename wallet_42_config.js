@@ -1,1 +1,1 @@
-var mnemonic = "parade liar bean ripple song affair brush blast tenant source act choose";
+var mnemonic = "apple color enlist ready tornado cluster ankle visit message code game dove";

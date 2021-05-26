@@ -1,1 +1,1 @@
-var mnemonic = "cereal they elephant canyon crush script small until february grunt amateur clarify";
+var mnemonic = "maze tail tissue federal winner zone flavor peace vacuum weird such devote";

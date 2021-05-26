@@ -1,1 +1,1 @@
-var mnemonic = "stove culture height abstract video capital demise bargain fall net twice spend";
+var mnemonic = "brush topple fabric fatigue exclude room all step stone give number wash";

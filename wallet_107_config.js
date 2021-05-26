@@ -1,1 +1,1 @@
-var mnemonic = "style finish isolate sense review duty afford upset chef rhythm quit demise";
+var mnemonic = "lens shrimp token female warrior patch age loop favorite waste limit olive";

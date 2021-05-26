@@ -1,1 +1,1 @@
-var mnemonic = "tag left hip world enforce year blush claim valve spy latin impulse";
+var mnemonic = "assist spike obscure simple outer uphold merit pioneer apart dragon poet tooth";

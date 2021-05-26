@@ -1,1 +1,1 @@
-var mnemonic = "learn foam tattoo dolphin talent egg reward have donor ozone blade north";
+var mnemonic = "crash butter twist tongue into lend door split wonder trophy armor budget";

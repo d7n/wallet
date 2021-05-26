@@ -1,1 +1,1 @@
-var mnemonic = "damage pyramid copper flush eyebrow differ sail staff taxi pear sister item";
+var mnemonic = "jaguar report stairs mercy tag matter history faint wall human danger pistol";

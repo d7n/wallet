@@ -1,1 +1,1 @@
-var mnemonic = "family love neutral reveal used brand guess velvet domain syrup else oyster";
+var mnemonic = "rib wear joke pitch exhibit silver venue fatal globe cotton labor zebra";

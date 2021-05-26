@@ -1,1 +1,1 @@
-var mnemonic = "timber define clock race laundry pistol govern profit toss thumb cage mobile";
+var mnemonic = "bubble flavor involve board clutch gas garden beef fragile yellow cry quote";

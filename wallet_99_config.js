@@ -1,1 +1,1 @@
-var mnemonic = "symbol walk toilet orbit paddle nut suit element finger gain when table";
+var mnemonic = "profit area surge famous length pencil draw drop mother wrestle list potato";

@@ -1,1 +1,1 @@
-var mnemonic = "connect fury conduct sing eager render three drill tonight doctor mystery rib";
+var mnemonic = "wine garment turkey like jelly wink client matter science police install ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "quick turkey matter paddle enact proud phrase fade canal forum match poet";
+var mnemonic = "bring above hunt outer powder icon nurse shop gun cloud action twice";

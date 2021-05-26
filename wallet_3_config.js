@@ -1,1 +1,1 @@
-var mnemonic = "conduct detect total van ceiling razor brother lunch require finger cost ski";
+var mnemonic = "world walnut practice repair world kind door capital acquire trash wisdom letter";

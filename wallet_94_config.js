@@ -1,1 +1,1 @@
-var mnemonic = "great ring sweet general elegant glory tired north brass sing tribe bench";
+var mnemonic = "slot embody milk announce novel clutch basket bacon cancel name favorite adjust";

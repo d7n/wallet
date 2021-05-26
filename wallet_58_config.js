@@ -1,1 +1,1 @@
-var mnemonic = "earn phone weather guess elbow deposit void congress industry school glow news";
+var mnemonic = "axis exile thunder mammal relax timber oxygen lizard leopard alter talk enter";

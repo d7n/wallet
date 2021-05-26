@@ -1,1 +1,1 @@
-var mnemonic = "body acoustic connect burden uncover female pear glow wide december blast system";
+var mnemonic = "either shop patch program syrup solid rule census east address bullet vacant";

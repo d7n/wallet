@@ -1,1 +1,1 @@
-var mnemonic = "first antenna wonder myself lion razor ginger when clever sauce vast carpet";
+var mnemonic = "bronze fashion lunch mercy lonely snow lounge gap endorse door vast assist";

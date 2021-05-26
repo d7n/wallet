@@ -1,1 +1,1 @@
-var mnemonic = "fold immune enable cherry mouse below eyebrow coffee melt layer bag lonely";
+var mnemonic = "industry brass hundred connect clump only portion between first shell excite refuse";

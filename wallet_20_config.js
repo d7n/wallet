@@ -1,1 +1,1 @@
-var mnemonic = "harsh name crane barrel abandon ostrich engage fame water muscle excite casual";
+var mnemonic = "february cube crouch decade giraffe alert blood fence stairs melt myself announce";

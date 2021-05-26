@@ -1,1 +1,1 @@
-var mnemonic = "call dose spawn pulse plate festival label state front acquire beef cheap";
+var mnemonic = "brain ramp proof pear stamp tortoise mansion entry away talk section naive";

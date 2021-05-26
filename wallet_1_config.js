@@ -1,1 +1,1 @@
-var mnemonic = "increase chief tourist gold alone torch layer picture mouse pizza rib act";
+var mnemonic = "patient law beyond pink machine power pilot bracket eager service crime joke";

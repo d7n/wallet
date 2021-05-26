@@ -1,1 +1,1 @@
-var mnemonic = "pulp beef switch curious flush mushroom hip fog filter renew transfer gather";
+var mnemonic = "skirt fossil robust cool nose deal tape wool chuckle open rapid law";

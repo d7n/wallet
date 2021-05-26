@@ -1,1 +1,1 @@
-var mnemonic = "public slide annual soup joke worth unlock suit ugly gown hobby noise";
+var mnemonic = "upon entire pen dune embrace jealous juice grain news able bid goddess";

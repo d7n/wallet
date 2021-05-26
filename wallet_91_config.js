@@ -1,1 +1,1 @@
-var mnemonic = "hand brick equip borrow calm travel post slim muffin blood model since";
+var mnemonic = "destroy demand hour panic vapor wink chief aspect secret nest glide demand";

@@ -1,1 +1,1 @@
-var mnemonic = "half sure polar dwarf crop enough because sugar flag hundred clarify isolate";
+var mnemonic = "chuckle friend unaware oyster pitch health category garage they humor vanish civil";

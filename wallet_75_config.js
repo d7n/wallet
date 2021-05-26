@@ -1,1 +1,1 @@
-var mnemonic = "tackle cherry vivid happy select company blanket short rib age wrestle practice";
+var mnemonic = "arrange height goat claim rotate traffic auction pattern length spawn business coast";

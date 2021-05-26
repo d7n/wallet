@@ -1,1 +1,1 @@
-var mnemonic = "display wedding city enrich lecture leisure federal magic proud analyst company wife";
+var mnemonic = "father wonder youth twelve drastic bench abuse coast voice whisper extend square";

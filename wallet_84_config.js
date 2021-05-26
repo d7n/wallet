@@ -1,1 +1,1 @@
-var mnemonic = "asthma raw spell laundry fat observe robot island object pool relax toss";
+var mnemonic = "elephant owner demand raise hard motor sketch amateur come distance sort elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "release giraffe assault second unit judge medal twenty security few ladder river";
+var mnemonic = "awful slight erosion practice scout uncover belt master spider pause team agree";

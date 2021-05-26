@@ -1,1 +1,1 @@
-var mnemonic = "detail peasant impulse actual response boss surge entry defense disagree manual price";
+var mnemonic = "cricket chair reform horse flavor real return erode isolate fluid level crane";

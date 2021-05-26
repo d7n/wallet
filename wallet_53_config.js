@@ -1,1 +1,1 @@
-var mnemonic = "spider dry swap cruel maple subject when ghost enough arrange artefact large";
+var mnemonic = "all earn slide crawl dismiss duty auction portion gesture sight rude fish";

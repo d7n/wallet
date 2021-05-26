@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo piece fatigue file puzzle error online tip sing hint tone good";
+var mnemonic = "speak wheel blame enable invite sponsor edge maid page cry twice arctic";

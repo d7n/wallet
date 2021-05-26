@@ -1,1 +1,1 @@
-var mnemonic = "sense isolate capable move peasant suffer raccoon parrot rhythm domain tone expect";
+var mnemonic = "odor vendor section dinner genuine accuse tortoise slow cement oppose mail kick";

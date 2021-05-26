@@ -1,1 +1,1 @@
-var mnemonic = "distance float announce glory pulse tape orphan promote general ribbon spatial category";
+var mnemonic = "position car random warfare recall require episode flower giggle lava curious daughter";

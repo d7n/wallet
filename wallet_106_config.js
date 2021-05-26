@@ -1,1 +1,1 @@
-var mnemonic = "wash unveil syrup width mechanic dish kick armed ribbon dutch finger only";
+var mnemonic = "master trust hole pigeon evil recycle target borrow wise kitchen tumble plug";

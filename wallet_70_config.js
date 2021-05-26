@@ -1,1 +1,1 @@
-var mnemonic = "dirt pill tag unit apart finish aspect skull acoustic response spatial home";
+var mnemonic = "dial purchase name picnic human pave similar advice december coil harvest cheese";

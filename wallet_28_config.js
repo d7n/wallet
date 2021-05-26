@@ -1,1 +1,1 @@
-var mnemonic = "found prize planet brother sail motion jazz volume fan ride mountain treat";
+var mnemonic = "chef clock harbor panel index inject combine kid stable pepper okay vast";

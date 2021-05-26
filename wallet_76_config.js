@@ -1,1 +1,1 @@
-var mnemonic = "rare stool erase note wave pen valve upgrade verify frequent already able";
+var mnemonic = "seat rubber myth pistol shell glove gown lift essence begin sleep acoustic";

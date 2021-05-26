@@ -1,1 +1,1 @@
-var mnemonic = "switch satoshi laundry system rebuild analyst dirt vast bring whale surge mobile";
+var mnemonic = "slogan awake sign broom couple wrestle loan silver fat child rose lunch";

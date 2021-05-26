@@ -1,1 +1,1 @@
-var mnemonic = "elegant alien law slight swift idle spy middle calm awesome reward illness";
+var mnemonic = "virtual frozen dentist rebel remind write shaft window teach fragile gospel rescue";

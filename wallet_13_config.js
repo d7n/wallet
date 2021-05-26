@@ -1,1 +1,1 @@
-var mnemonic = "ceiling more milk left ice congress indicate palace skull hockey laugh glimpse";
+var mnemonic = "animal size digital option comfort fiber suggest win carbon inspire prosper fork";

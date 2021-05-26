@@ -1,1 +1,1 @@
-var mnemonic = "limit child forget magic miracle elephant minimum firm sad prison year fiction";
+var mnemonic = "extend bind glare goose potato forest glad double argue they gasp link";

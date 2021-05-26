@@ -1,1 +1,1 @@
-var mnemonic = "link catalog hotel badge cash logic below warrior oven mutual myself parade";
+var mnemonic = "surprise rabbit crack solar vehicle betray practice struggle atom funny fossil interest";

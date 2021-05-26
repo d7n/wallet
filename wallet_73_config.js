@@ -1,1 +1,1 @@
-var mnemonic = "uncle sweet excess way split rather wise twenty stove fossil income over";
+var mnemonic = "same evil melody egg fork announce slim theme vicious anxiety dash inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "silver another credit clown beach mistake ketchup absurd gasp flee ring trumpet";
+var mnemonic = "talk sausage tortoise explain brave memory embark tide bag design law radio";

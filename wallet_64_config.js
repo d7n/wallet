@@ -1,1 +1,1 @@
-var mnemonic = "deliver sing draft scissors team security owner panel nothing office impulse pull";
+var mnemonic = "frequent bridge attack cruel flavor chair large balance front rigid rescue remove";

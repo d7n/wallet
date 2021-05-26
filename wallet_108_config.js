@@ -1,1 +1,1 @@
-var mnemonic = "symbol palm thought crouch quote feature height inspire trophy chimney envelope tenant";
+var mnemonic = "educate federal warrior hen basket season rose rail wink afraid rhythm error";

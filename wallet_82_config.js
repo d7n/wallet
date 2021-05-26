@@ -1,1 +1,1 @@
-var mnemonic = "wild fix this manage skill coil cause borrow danger case asset scan";
+var mnemonic = "pumpkin vacuum aim end outer accident mansion buddy amused man innocent giggle";

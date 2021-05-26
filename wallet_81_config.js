@@ -1,1 +1,1 @@
-var mnemonic = "finish coach chest cricket mercy swarm stay victory mixed devote where man";
+var mnemonic = "grow because violin seminar trend fix hub faculty question student invest sock";

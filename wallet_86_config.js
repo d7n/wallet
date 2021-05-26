@@ -1,1 +1,1 @@
-var mnemonic = "excite object mother catch mansion lizard ski critic appear level song link";
+var mnemonic = "between champion solve wait fence crane motor comfort bring day boil year";

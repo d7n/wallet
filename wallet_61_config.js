@@ -1,1 +1,1 @@
-var mnemonic = "room solution oval endless valley split pretty burst gasp tragic ceiling amazing";
+var mnemonic = "payment media shoe trick suffer eyebrow flush stock scissors stone chapter urge";

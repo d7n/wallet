@@ -1,1 +1,1 @@
-var mnemonic = "fault economy alone suit secret equip liar wagon thrive ride trumpet keep";
+var mnemonic = "filter cage crop dwarf code ugly this have enhance humble dawn find";

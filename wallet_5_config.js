@@ -1,1 +1,1 @@
-var mnemonic = "useful prevent ceiling indicate link patient twist verb reject leave february loan";
+var mnemonic = "focus theme own two perfect void drink shy keen denial admit credit";

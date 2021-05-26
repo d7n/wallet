@@ -1,1 +1,1 @@
-var mnemonic = "era solid siege submit clutch audit banner firm helmet view surprise choose";
+var mnemonic = "attitude water joy agent place result device solar broom diesel neutral belt";

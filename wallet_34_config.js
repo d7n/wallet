@@ -1,1 +1,1 @@
-var mnemonic = "style inside equal end ice name broom weekend shoot hope tiny toy";
+var mnemonic = "arctic rescue focus desk sunset wheat gas upset question eyebrow solar ride";

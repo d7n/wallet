@@ -1,1 +1,1 @@
-var mnemonic = "noble interest gun avoid whisper balcony vocal again screen enable morning cradle";
+var mnemonic = "sword verify hurdle rubber same foil stadium absent solution boy peanut guitar";

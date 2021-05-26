@@ -1,1 +1,1 @@
-var mnemonic = "dial enemy asset outside tank loud apple physical salmon team planet ladder";
+var mnemonic = "license satoshi about prevent hire direct laugh fire again bubble diet prepare";

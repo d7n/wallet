@@ -1,1 +1,1 @@
-var mnemonic = "film canyon tag focus shrimp amateur scorpion welcome stadium income athlete forget";
+var mnemonic = "witness fame cloud awake gift add network coin expect arena giraffe dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "happy split spy yard meadow ball food actress noise helmet game broom";
+var mnemonic = "way fox female token letter foil stand owner hip mirror story also";

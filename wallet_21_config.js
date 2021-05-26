@@ -1,1 +1,1 @@
-var mnemonic = "keen blade gain catalog clock hat pair duty danger voice invite mushroom";
+var mnemonic = "captain oak blossom expand royal vital emotion damage throw jeans fruit fringe";

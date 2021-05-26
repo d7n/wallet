@@ -1,1 +1,1 @@
-var mnemonic = "anchor parent hair connect box bomb drop prison island dinosaur idle phrase";
+var mnemonic = "dinner bulk era enroll chair front gossip census general carry pond useless";

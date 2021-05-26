@@ -1,1 +1,1 @@
-var mnemonic = "collect inherit spatial behave canoe palm elegant almost soda round pave garment";
+var mnemonic = "immense divide cake endorse chuckle salute hazard cash roast host solid goose";

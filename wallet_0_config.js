@@ -1,1 +1,1 @@
-var mnemonic = "clip shift gloom business chimney mom pumpkin cloud hero treat wisdom eye";
+var mnemonic = "outside bless volcano rural vital next bicycle address news idea sibling reform";

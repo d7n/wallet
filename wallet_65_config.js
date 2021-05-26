@@ -1,1 +1,1 @@
-var mnemonic = "lamp isolate horror fire amount bachelor elephant entry spin cinnamon border exit";
+var mnemonic = "select used nominee joke original kind general season portion trim club scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "primary fruit onion clinic obscure cup panda observe rural category spend torch";
+var mnemonic = "over wrong stand eagle ripple boring bring only dignity puppy organ glide";

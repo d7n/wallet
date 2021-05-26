@@ -1,1 +1,1 @@
-var mnemonic = "arrest cabbage middle minute picnic opinion swarm birth already romance gown utility";
+var mnemonic = "control dose torch sunset fossil valley correct mimic strong woman bulb arrest";

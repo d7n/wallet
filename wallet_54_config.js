@@ -1,1 +1,1 @@
-var mnemonic = "glare funny upon endorse law helmet chimney gorilla salt truth stadium army";
+var mnemonic = "hair junior shove chief slush peace describe draw language pigeon sail stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin wire junk south choose myth crowd toilet convince there twelve motor";
+var mnemonic = "fitness wrong ride inside pelican kick bullet gas dad tree slice thing";

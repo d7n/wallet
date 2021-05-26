@@ -1,1 +1,1 @@
-var mnemonic = "trick tennis say member pottery genuine immune sniff utility feel any gym";
+var mnemonic = "fish poverty helmet any doll dutch eternal note uncle rigid void infant";

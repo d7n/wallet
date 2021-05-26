@@ -1,1 +1,1 @@
-var mnemonic = "endless sorry auto enlist winter lunar argue post render process hedgehog bone";
+var mnemonic = "bike melt clap position surprise afford say junk network sample plate flush";

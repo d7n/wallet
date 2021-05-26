@@ -1,1 +1,1 @@
-var mnemonic = "enjoy proud awake script pool upon type puzzle either brain cloth kit";
+var mnemonic = "myself recipe exercise end shallow banner polar scene cause select tower buzz";

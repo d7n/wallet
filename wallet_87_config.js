@@ -1,1 +1,1 @@
-var mnemonic = "have pigeon wait total hover left mango confirm private soda diamond vintage";
+var mnemonic = "badge region amazing frown law utility argue scissors cliff bird bright deny";
