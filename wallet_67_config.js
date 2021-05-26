@@ -1,1 +1,1 @@
-var mnemonic = "chimney stadium garden idea praise moral jewel shallow win jump phrase hungry";
+var mnemonic = "entry master cradle simple cotton issue census media maze venture crowd there";

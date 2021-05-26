@@ -1,1 +1,1 @@
-var mnemonic = "solar easy banana focus drop garment man medal keep upgrade firm foot";
+var mnemonic = "scan shoot orange palace garage sleep situate spare bring midnight life asset";

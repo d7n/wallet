@@ -1,1 +1,1 @@
-var mnemonic = "uphold pelican cereal input wire choice pyramid ginger crystal unveil prepare vocal";
+var mnemonic = "expose garden iron dose club dry panther farm smoke snap chief memory";

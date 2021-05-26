@@ -1,1 +1,1 @@
-var mnemonic = "toward mention flee patient thunder leg call survey tooth conduct tag cloud";
+var mnemonic = "silk protect syrup episode fold stool curve impact require during word soup";

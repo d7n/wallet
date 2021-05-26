@@ -1,1 +1,1 @@
-var mnemonic = "divert double have awful wedding more butter blind clarify detect shine federal";
+var mnemonic = "away produce audit follow valid moon deer unfold orbit gold between buddy";

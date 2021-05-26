@@ -1,1 +1,1 @@
-var mnemonic = "kid income reunion symbol argue mix bulb minute mandate whip ridge heavy";
+var mnemonic = "brother spike juice draw exit entry vanish garlic lab crack canvas card";

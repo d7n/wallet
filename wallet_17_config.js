@@ -1,1 +1,1 @@
-var mnemonic = "figure autumn gaze expect spend wave legend fox wash tide book coin";
+var mnemonic = "liberty wasp elder comfort ocean govern vanish visit extend resemble unfold fix";

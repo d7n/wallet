@@ -1,1 +1,1 @@
-var mnemonic = "ignore exhibit olympic tenant cage marine catch odor repair tribe fork oil";
+var mnemonic = "glory moment curve slender wrist powder control direct ozone tiger undo access";

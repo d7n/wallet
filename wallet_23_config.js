@@ -1,1 +1,1 @@
-var mnemonic = "head harbor thank rigid powder delay noodle item term heart tide napkin";
+var mnemonic = "magnet shuffle tide monster grass vehicle quick inspire face idle pepper rural";

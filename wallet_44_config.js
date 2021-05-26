@@ -1,1 +1,1 @@
-var mnemonic = "twist spy slender ripple memory patient proud scan total fetch burger ancient";
+var mnemonic = "topple test grab film what style regular hope cradle dizzy curious zebra";

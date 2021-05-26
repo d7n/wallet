@@ -1,1 +1,1 @@
-var mnemonic = "dawn warrior miracle grant supreme six echo satisfy borrow grass assist prosper";
+var mnemonic = "fashion cherry artefact prison creek lyrics inspire brand inflict snack young skin";

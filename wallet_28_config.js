@@ -1,1 +1,1 @@
-var mnemonic = "plunge divert balance camp behave argue horror awkward useless angry lizard repair";
+var mnemonic = "allow acid shrug review benefit virus vintage raw bacon ghost dog merge";

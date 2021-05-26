@@ -1,1 +1,1 @@
-var mnemonic = "clutch barely beef goddess company weather defense vague trust side explain echo";
+var mnemonic = "found giggle sleep grid neck dry kingdom power antique hidden retreat inspire";

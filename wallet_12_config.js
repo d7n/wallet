@@ -1,1 +1,1 @@
-var mnemonic = "spend parrot online involve cattle cruel alter must reform display economy club";
+var mnemonic = "digital place problem wild thunder quarter amused seven doctor aerobic chuckle spy";

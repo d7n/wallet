@@ -1,1 +1,1 @@
-var mnemonic = "conduct mammal rough cheese tide carpet runway liar cute street reason scare";
+var mnemonic = "when blood wine need above cattle cushion gas donkey hole face include";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat meat recycle dutch leave ranch execute punch panther venture prefer swarm";
+var mnemonic = "caution debate anger gossip rich improve road fault pudding grass among utility";

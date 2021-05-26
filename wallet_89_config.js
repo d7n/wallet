@@ -1,1 +1,1 @@
-var mnemonic = "chuckle hybrid prosper size palm angry order donor strike science unhappy useless";
+var mnemonic = "venue desert burden diesel laundry measure toast endorse airport major enforce owner";

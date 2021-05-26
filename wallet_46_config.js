@@ -1,1 +1,1 @@
-var mnemonic = "hurt adjust phone maximum open holiday tortoise appear aware apple clay wave";
+var mnemonic = "merry cage glad thought nest fold noodle fish trouble mirror retire sphere";

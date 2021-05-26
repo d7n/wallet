@@ -1,1 +1,1 @@
-var mnemonic = "piece pizza route adapt basic stomach solution recall layer abstract analyst beyond";
+var mnemonic = "leopard alley sausage cattle balance member have animal law palace suit ready";

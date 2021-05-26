@@ -1,1 +1,1 @@
-var mnemonic = "faith annual jungle game strategy betray purchase insane such wolf milk exist";
+var mnemonic = "rotate answer estate hunt enhance payment blossom empower crime abstract little boss";

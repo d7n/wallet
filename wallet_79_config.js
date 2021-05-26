@@ -1,1 +1,1 @@
-var mnemonic = "subject snack bundle stick camp void stadium sing milk category senior trip";
+var mnemonic = "high joy obey private thrive add waste hedgehog gym dove trade lion";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve fire art agent project option tiny matter desk dolphin talk visa";
+var mnemonic = "brother enlist achieve addict hunt husband junk profit brisk rebel inform skin";

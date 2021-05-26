@@ -1,1 +1,1 @@
-var mnemonic = "cry find bright ill economy convince eye year link wink oil slow";
+var mnemonic = "stand jazz exhibit wrap poverty own cereal machine roast connect history other";

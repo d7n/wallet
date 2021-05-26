@@ -1,1 +1,1 @@
-var mnemonic = "enact cave oval length script paper always blanket possible dolphin arm wisdom";
+var mnemonic = "warfare audit song nurse tail version early north awesome museum barely faculty";

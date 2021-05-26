@@ -1,1 +1,1 @@
-var mnemonic = "trial tape crystal defense kick cherry vintage view board process lounge silent";
+var mnemonic = "buyer vanish erode blind fresh model near found combine excuse disagree reward";

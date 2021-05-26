@@ -1,1 +1,1 @@
-var mnemonic = "orange uncover aisle blast aim modify torch slow latin foster stock novel";
+var mnemonic = "lounge credit tired home empty purse aim notable pact stock cereal tube";

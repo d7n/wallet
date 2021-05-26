@@ -1,1 +1,1 @@
-var mnemonic = "donkey advance area install bamboo skill tiger cycle smooth photo peace orphan";
+var mnemonic = "color brain winter plate exhaust blush shield isolate front blue yellow twenty";

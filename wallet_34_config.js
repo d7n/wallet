@@ -1,1 +1,1 @@
-var mnemonic = "topic word practice filter matter lens scrub wish mixture decade future snap";
+var mnemonic = "cheese link bunker bid entry earn coral chef pioneer any reason false";

@@ -1,1 +1,1 @@
-var mnemonic = "loop above runway pink renew left blur brick slice turn valid near";
+var mnemonic = "rose sense cactus input ocean oak lesson they until shuffle endorse income";

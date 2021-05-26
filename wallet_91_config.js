@@ -1,1 +1,1 @@
-var mnemonic = "oval clean future blur burger baby bid device match execute flash between";
+var mnemonic = "food setup step welcome hint you thumb hurt zebra when find junior";

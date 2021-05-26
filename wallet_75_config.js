@@ -1,1 +1,1 @@
-var mnemonic = "fitness brief south frost try trade ability clean provide only myself local";
+var mnemonic = "planet despair milk traffic furnace organ season pipe warfare avoid slow nature";

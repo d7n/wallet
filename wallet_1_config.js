@@ -1,1 +1,1 @@
-var mnemonic = "enlist accuse curve analyst chronic kit vintage clarify arrive vast leopard plastic";
+var mnemonic = "twin supply snap gold attack maze impact media quality dolphin spoil orchard";

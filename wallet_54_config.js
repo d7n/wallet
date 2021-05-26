@@ -1,1 +1,1 @@
-var mnemonic = "alert build transfer cousin fat survey snap aspect engine thrive tray shrug";
+var mnemonic = "hover curve recycle lunch any april trumpet six peasant fashion gym asthma";

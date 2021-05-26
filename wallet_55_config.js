@@ -1,1 +1,1 @@
-var mnemonic = "million local grass become lamp upset peanut guide plunge pair spell flock";
+var mnemonic = "mixture bind dirt nasty obscure security cabbage hub oxygen slender oppose bunker";

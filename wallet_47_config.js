@@ -1,1 +1,1 @@
-var mnemonic = "sorry erase scale front general rebuild burden rice frame bicycle tackle sorry";
+var mnemonic = "punch credit fiscal scene govern trend impact consider round arch make bind";

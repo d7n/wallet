@@ -1,1 +1,1 @@
-var mnemonic = "group dice calm ivory title manage glimpse angry scan destroy gauge skull";
+var mnemonic = "snake donkey sweet book latin bachelor praise about science hip price custom";

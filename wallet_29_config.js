@@ -1,1 +1,1 @@
-var mnemonic = "capital reflect hen mom wrist suspect reopen gym ignore fat ostrich library";
+var mnemonic = "lawn scrap more jeans hen olympic throw detail upgrade fringe floor lens";

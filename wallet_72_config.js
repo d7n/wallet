@@ -1,1 +1,1 @@
-var mnemonic = "fossil zebra citizen nurse romance tiny drastic display post trap visa hybrid";
+var mnemonic = "belt quiz grid bicycle latin beauty region gesture glad escape bridge acquire";

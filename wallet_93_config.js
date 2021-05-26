@@ -1,1 +1,1 @@
-var mnemonic = "speak wasp sudden ordinary riot powder lab clump change possible simple ability";
+var mnemonic = "index monkey sail rotate pudding manage chair vote buddy resist pyramid gown";

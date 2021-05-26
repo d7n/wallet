@@ -1,1 +1,1 @@
-var mnemonic = "marine assist admit side list mimic ahead stadium civil decade upset tree";
+var mnemonic = "lock knock alone acoustic draw blossom habit want track broken fetch afraid";

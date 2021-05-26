@@ -1,1 +1,1 @@
-var mnemonic = "disease sand fat throw make ski turkey frog drum file usage drama";
+var mnemonic = "various similar final angle escape noble depart gospel dial life leave penalty";

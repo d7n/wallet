@@ -1,1 +1,1 @@
-var mnemonic = "about wine drop lonely casino boost subject fetch chuckle feed main mind";
+var mnemonic = "inform undo choose session side medal reveal risk yard mail slight already";

@@ -1,1 +1,1 @@
-var mnemonic = "hover clap amused broken sphere sibling will weather claim bind clown riot";
+var mnemonic = "awesome basic asset bargain ability wife economy paddle edit collect cruise sport";

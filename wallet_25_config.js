@@ -1,1 +1,1 @@
-var mnemonic = "spice budget letter phrase confirm pony wrong staff actor theme hurt possible";
+var mnemonic = "advance uniform below flight they light problem profit mimic envelope scale quote";

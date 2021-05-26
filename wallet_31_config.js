@@ -1,1 +1,1 @@
-var mnemonic = "fancy poet atom garbage borrow front verb decade video wise shoulder ski";
+var mnemonic = "faith motion nest clump kingdom injury tooth tree possible sure pole begin";

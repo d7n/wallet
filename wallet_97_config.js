@@ -1,1 +1,1 @@
-var mnemonic = "pilot poem honey figure strong train mix banner vacant broccoli execute tomato";
+var mnemonic = "either cover march sauce mad duty wide valid level habit proud car";

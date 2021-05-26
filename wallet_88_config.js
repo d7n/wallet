@@ -1,1 +1,1 @@
-var mnemonic = "wisdom game unknown middle fox math seven minute consider industry input fiction";
+var mnemonic = "table thumb clog exclude bless ring ivory strike agent cement illegal antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut high elder soon fan fade member dog little elite gift zone";
+var mnemonic = "siren public burden loud frequent nephew battle outdoor zebra middle caution unfold";

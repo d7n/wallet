@@ -1,1 +1,1 @@
-var mnemonic = "fox seed small wolf trumpet balance horror web link party task elevator";
+var mnemonic = "section chief able hair door kit isolate suit group social pond grain";

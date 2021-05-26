@@ -1,1 +1,1 @@
-var mnemonic = "brain enable injury slice endless effort one work panic shop pair culture";
+var mnemonic = "height repeat castle meadow silk gym indicate open lens pupil have project";

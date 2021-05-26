@@ -1,1 +1,1 @@
-var mnemonic = "ugly pig chat dawn ramp brief sphere vicious banner scare ivory super";
+var mnemonic = "upper spray lab bullet ski maze toward recipe pelican grocery lemon piano";

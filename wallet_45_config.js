@@ -1,1 +1,1 @@
-var mnemonic = "cook december unit tag unknown throw urban thrive junk mango popular settle";
+var mnemonic = "spell purse silly spike cargo time struggle obscure scan measure easy city";

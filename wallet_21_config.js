@@ -1,1 +1,1 @@
-var mnemonic = "minimum lunar sugar ecology hat replace foam walk peace coral twin film";
+var mnemonic = "idea assume spider lift once alien climb crisp exist pupil wrong coconut";

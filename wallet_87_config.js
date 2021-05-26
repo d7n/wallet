@@ -1,1 +1,1 @@
-var mnemonic = "type govern knock fatigue jelly refuse boost magic health before joke medal";
+var mnemonic = "beef basket glow typical erosion camp avoid film purchase boss license miracle";

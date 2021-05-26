@@ -1,1 +1,1 @@
-var mnemonic = "tobacco fence dwarf chat win ugly volcano series fetch forum spend tobacco";
+var mnemonic = "kangaroo equip sure cushion bachelor decide edge pond ketchup more boring then";

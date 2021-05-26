@@ -1,1 +1,1 @@
-var mnemonic = "when spare all mom bright welcome solid derive walk announce garment liberty";
+var mnemonic = "state zero leader present inhale wool erase kitten jacket tomato happy drift";

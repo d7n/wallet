@@ -1,1 +1,1 @@
-var mnemonic = "illness wash scene insane canyon hire waste right limb wash virtual garlic";
+var mnemonic = "slot sure olive place uncle liquid ticket swap million novel empty truly";

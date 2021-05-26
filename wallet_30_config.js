@@ -1,1 +1,1 @@
-var mnemonic = "spatial current outer marble memory mountain whisper claw surround spoil suffer join";
+var mnemonic = "general omit tired family urge swamp build age decline cruise dinosaur frozen";

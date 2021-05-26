@@ -1,1 +1,1 @@
-var mnemonic = "stomach brave ball alcohol rate drive blade scale salon rude fancy chimney";
+var mnemonic = "agree evolve aware tumble school dish ticket unable boat quick yard network";

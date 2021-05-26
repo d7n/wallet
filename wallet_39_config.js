@@ -1,1 +1,1 @@
-var mnemonic = "nose history congress scheme segment bone shoe mutual certain lend review clarify";
+var mnemonic = "ramp tourist embody critic pioneer letter wet path satoshi thought happy bottom";

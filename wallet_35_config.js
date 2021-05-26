@@ -1,1 +1,1 @@
-var mnemonic = "replace taxi notable bleak inhale relief creek fire sheriff planet brick lava";
+var mnemonic = "enter cruise grow elegant note situate vehicle speed horn shy rookie survey";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn split banner link spray dry sugar relief plastic man stay title";
+var mnemonic = "sunny cousin hybrid nut nominee uncle fall swear cart float earn tribe";

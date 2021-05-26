@@ -1,1 +1,1 @@
-var mnemonic = "candy another book finish foam audit pencil derive produce second quantum pulse";
+var mnemonic = "area spray square spray amazing gap neutral riot joy useful okay flat";

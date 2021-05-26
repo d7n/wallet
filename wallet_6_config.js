@@ -1,1 +1,1 @@
-var mnemonic = "muffin work traffic curious pair end sentence post unfair hurry decline tone";
+var mnemonic = "wrong utility claim hope shell pizza replace grocery fold genuine east fringe";

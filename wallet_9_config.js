@@ -1,1 +1,1 @@
-var mnemonic = "you raw glow rather swear direct jaguar across onion axis define repair";
+var mnemonic = "nasty tribe weekend bundle power vanish gold green stadium average jeans syrup";

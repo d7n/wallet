@@ -1,1 +1,1 @@
-var mnemonic = "hamster boring puppy term exchange eye link belt account age tiger imitate";
+var mnemonic = "rifle raise awkward ankle tank universe elbow fix badge nerve office cloth";

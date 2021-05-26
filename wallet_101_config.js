@@ -1,1 +1,1 @@
-var mnemonic = "flock collect fault blossom copper sudden announce citizen visa next wide alpha";
+var mnemonic = "pigeon rigid chef dynamic nothing glance series crack remind burst solar naive";

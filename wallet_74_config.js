@@ -1,1 +1,1 @@
-var mnemonic = "eagle appear quote deer hire dilemma hockey raccoon fiscal always ask imitate";
+var mnemonic = "roast blur caution main banana gym grass young year correct risk satoshi";

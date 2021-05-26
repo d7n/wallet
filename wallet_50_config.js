@@ -1,1 +1,1 @@
-var mnemonic = "icon despair minor ranch sock right furnace absurd solve blush claim secret";
+var mnemonic = "couch dance prosper local foster opinion february ice library claim trip actual";

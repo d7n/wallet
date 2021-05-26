@@ -1,1 +1,1 @@
-var mnemonic = "hire result any submit tuna garbage script jacket moral tornado same pretty";
+var mnemonic = "chicken acoustic talent aware approve earth auction depth pen patient skull predict";

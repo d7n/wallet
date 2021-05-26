@@ -1,1 +1,1 @@
-var mnemonic = "giggle flock grab walnut skin frog margin olive piece hen drip loop";
+var mnemonic = "blind milk pet glance smart warfare update language party insane crack fine";

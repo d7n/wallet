@@ -1,1 +1,1 @@
-var mnemonic = "flavor blue loan love expect require evil situate employ quarter alley arch";
+var mnemonic = "bullet ostrich swim round immune riot jump embody chief myself pair drastic";

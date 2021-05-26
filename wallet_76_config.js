@@ -1,1 +1,1 @@
-var mnemonic = "situate proof kangaroo paddle agree brush system describe add journey mesh awake";
+var mnemonic = "wing magic casual phone damage wild apology wash agree curious hint depend";

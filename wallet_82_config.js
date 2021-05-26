@@ -1,1 +1,1 @@
-var mnemonic = "stick chapter shell laugh hip fluid sport label arch subway wrap harsh";
+var mnemonic = "system dismiss nominee comic bargain grant same resist wheel truth truck gate";

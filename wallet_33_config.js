@@ -1,1 +1,1 @@
-var mnemonic = "grocery receive rebel whisper champion enough judge impulse trend party wish final";
+var mnemonic = "erosion leisure charge accuse excess birth uphold hurdle series toy verify neutral";

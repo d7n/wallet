@@ -1,1 +1,1 @@
-var mnemonic = "clarify border shove ribbon mistake tilt warm success prevent pass foot bike";
+var mnemonic = "monkey tell grace labor number pipe praise disorder canoe myself kind bring";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten gallery turkey among glance road ecology equip office deal major regret";
+var mnemonic = "donor story license sleep jaguar elephant satoshi industry tide country liar leisure";

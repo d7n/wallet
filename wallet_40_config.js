@@ -1,1 +1,1 @@
-var mnemonic = "student dinner vast pledge honey budget trumpet nation occur patrol habit list";
+var mnemonic = "muffin task actress own mosquito divide tube case february angry foam problem";

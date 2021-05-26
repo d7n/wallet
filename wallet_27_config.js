@@ -1,1 +1,1 @@
-var mnemonic = "gravity father soft glide churn gold risk edge track abandon extend tuition";
+var mnemonic = "more photo onion parade accident divorce tribe again race enough mad refuse";

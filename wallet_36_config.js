@@ -1,1 +1,1 @@
-var mnemonic = "apart tube virus mouse slight fantasy city stairs auto worry reduce allow";
+var mnemonic = "require devote coral game circle hen tiny useful roof dry trick sweet";

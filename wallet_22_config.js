@@ -1,1 +1,1 @@
-var mnemonic = "intact join month mistake open pepper goose derive document main dish urban";
+var mnemonic = "plate annual canal kick bird adjust amateur loop old craft dog donkey";

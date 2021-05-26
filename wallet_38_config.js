@@ -1,1 +1,1 @@
-var mnemonic = "blanket sibling prevent cushion crawl minute awkward hope differ involve hip wood";
+var mnemonic = "update cost wreck fantasy buzz foil erupt zero craft behind brick assume";

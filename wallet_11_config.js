@@ -1,1 +1,1 @@
-var mnemonic = "curious small endless peace vendor food ball dumb excuse picnic soon umbrella";
+var mnemonic = "paddle island brass accuse fox cook need legend estate ski afraid phone";

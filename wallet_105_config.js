@@ -1,1 +1,1 @@
-var mnemonic = "fee work dream diagram reason regular half method west know manual payment";
+var mnemonic = "glare canyon suspect august display outside trouble razor run art van sand";

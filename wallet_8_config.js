@@ -1,1 +1,1 @@
-var mnemonic = "combine kangaroo clever depend scorpion install staff edit estate lesson deliver pilot";
+var mnemonic = "harvest direct lady truck charge enhance vessel beach soap either misery square";

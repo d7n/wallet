@@ -1,1 +1,1 @@
-var mnemonic = "reduce book spice grant own foot always birth truly what mountain trophy";
+var mnemonic = "resemble hello sausage address crane sweet junior north copy cable venture kingdom";

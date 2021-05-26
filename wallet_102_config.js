@@ -1,1 +1,1 @@
-var mnemonic = "myth gas wrong grape hammer lock beauty lawn inherit voice enact spider";
+var mnemonic = "limb maximum bike salmon flush ecology much copy soldier vintage turn season";

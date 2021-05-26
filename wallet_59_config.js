@@ -1,1 +1,1 @@
-var mnemonic = "other speed diary valid slam next idea drive type divorce ask capable";
+var mnemonic = "perfect memory share cream spice ride one jar ghost jaguar forget glide";

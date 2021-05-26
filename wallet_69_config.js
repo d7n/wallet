@@ -1,1 +1,1 @@
-var mnemonic = "amazing elegant extend poet hole olympic case dress gauge bunker promote galaxy";
+var mnemonic = "token gate prison silent brush gadget hire twelve retire laugh horror arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "custom aisle begin mad horse must world draw ship age kid desert";
+var mnemonic = "pact acid skirt guilt move public pelican gold inside what nephew roof";

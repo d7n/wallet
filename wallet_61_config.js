@@ -1,1 +1,1 @@
-var mnemonic = "protect excite sausage stereo until tank gap question bomb body draft noble";
+var mnemonic = "autumn opera carry element anxiety fault urban spice valid fade kit ugly";

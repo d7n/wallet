@@ -1,1 +1,1 @@
-var mnemonic = "habit estate space tomato thought embark armed venture magnet fever annual draft";
+var mnemonic = "seat cause sausage point suit cover oyster again salute flock lucky empower";

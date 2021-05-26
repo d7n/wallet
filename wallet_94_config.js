@@ -1,1 +1,1 @@
-var mnemonic = "stereo frown trial sketch vast monitor try chalk across spice mimic silly";
+var mnemonic = "arrive tackle edge few economy junk salute funny boss sign sausage owner";

@@ -1,1 +1,1 @@
-var mnemonic = "menu couple convince stove anger fee arrange wood tuition trouble tiny honey";
+var mnemonic = "lab clutch renew voyage shadow opinion mechanic portion tray bag virtual circle";

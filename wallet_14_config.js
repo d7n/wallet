@@ -1,1 +1,1 @@
-var mnemonic = "prepare length model silk chapter finish guilt club chapter humor keen cute";
+var mnemonic = "bubble siege relax hunt skill hotel local where ice pottery smart kiss";

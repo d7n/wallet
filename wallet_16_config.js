@@ -1,1 +1,1 @@
-var mnemonic = "vicious myth lounge fancy wall heart siege topple assume hungry grain chimney";
+var mnemonic = "spider drop jacket during caution great often heavy sugar fabric reveal across";

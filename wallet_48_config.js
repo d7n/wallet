@@ -1,1 +1,1 @@
-var mnemonic = "tag belt soda bridge clever credit when pulp rural clarify stove club";
+var mnemonic = "ladder much obvious during govern coach brush gaze cash boost gravity slab";

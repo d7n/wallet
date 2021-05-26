@@ -1,1 +1,1 @@
-var mnemonic = "apple donor auto child method certain point swear alien tent danger misery";
+var mnemonic = "include apology nice hour salt various plastic upgrade danger shine home wait";
