@@ -1,1 +1,1 @@
-var mnemonic = "arrive imitate alarm arctic fragile utility fall balance rack perfect upgrade antique";
+var mnemonic = "silver range defense cousin monster pen original net spring awesome tortoise message";

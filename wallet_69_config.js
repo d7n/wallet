@@ -1,1 +1,1 @@
-var mnemonic = "toss manage cinnamon rice cricket dream net nerve ecology trumpet cause galaxy";
+var mnemonic = "claim bone shaft cricket adapt clock spot vacant couple depend recall smart";

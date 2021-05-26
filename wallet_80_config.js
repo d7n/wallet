@@ -1,1 +1,1 @@
-var mnemonic = "arctic seek cloth black version mind ecology drink lucky sell napkin fat";
+var mnemonic = "hub trumpet bleak reunion bid home friend range because art blast able";

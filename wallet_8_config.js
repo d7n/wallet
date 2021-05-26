@@ -1,1 +1,1 @@
-var mnemonic = "release mail daring measure asset rebuild nose tide begin message humble hood";
+var mnemonic = "depend deny suspect hamster pave ugly shock valid weather unknown benefit scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "repair egg flash assume rate build paddle erosion parrot drip rare razor";
+var mnemonic = "enable shadow layer soda good canoe clean action treat patient hint spy";

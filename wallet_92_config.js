@@ -1,1 +1,1 @@
-var mnemonic = "goose kick tribe grid owner habit smooth laugh silent ecology estate vocal";
+var mnemonic = "stairs fame merry begin hover deliver detail slight off february mean creek";

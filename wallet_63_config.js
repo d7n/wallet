@@ -1,1 +1,1 @@
-var mnemonic = "ill detect priority call shift govern garage write absurd silly blame entry";
+var mnemonic = "vicious village fade title gather hockey install crop measure inhale ethics satisfy";

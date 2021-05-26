@@ -1,1 +1,1 @@
-var mnemonic = "athlete scatter memory whale mistake beach pact machine mistake output cook naive";
+var mnemonic = "photo teach dinosaur barrel settle moon snap toe long supreme degree sustain";

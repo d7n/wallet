@@ -1,1 +1,1 @@
-var mnemonic = "section soda chronic master quality portion miracle divert chef dress stomach route";
+var mnemonic = "elegant skate film gold despair hat shield boat flip denial lucky funny";

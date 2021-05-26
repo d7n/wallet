@@ -1,1 +1,1 @@
-var mnemonic = "coral modify example control cave fruit bind actor mixed bullet hero cheese";
+var mnemonic = "whale public wrong swamp front reason nature trap vintage gesture cost coach";

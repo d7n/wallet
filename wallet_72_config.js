@@ -1,1 +1,1 @@
-var mnemonic = "salute cost pilot employ gesture artwork aim dust awkward tree grain above";
+var mnemonic = "history reason either embrace absent can art denial ugly act rain brush";

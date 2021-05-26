@@ -1,1 +1,1 @@
-var mnemonic = "dance wave negative matrix scrub luxury inquiry cup maze venue guard ginger";
+var mnemonic = "chef viable actress whisper tray average vintage economy okay duck cement vital";

@@ -1,1 +1,1 @@
-var mnemonic = "nest digital term cloth father hood industry become candy belt hen fringe";
+var mnemonic = "problem laptop client smooth safe soccer limit cotton endorse response rude pilot";

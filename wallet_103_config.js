@@ -1,1 +1,1 @@
-var mnemonic = "mesh brand typical tragic strategy inquiry adapt course earn figure ripple opera";
+var mnemonic = "traffic tribe mother tourist correct shiver inmate relax usage gentle whisper budget";

@@ -1,1 +1,1 @@
-var mnemonic = "prize spice mirror over save patch moral fat pride dinosaur clarify vessel";
+var mnemonic = "upon flight reject orange boat treat humor hamster camera radar replace nest";

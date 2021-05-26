@@ -1,1 +1,1 @@
-var mnemonic = "north cable issue hold trash cricket estate donkey obscure galaxy front chalk";
+var mnemonic = "wall case weird jacket hello stumble unlock stand grace traffic beef plug";

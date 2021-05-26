@@ -1,1 +1,1 @@
-var mnemonic = "taxi drift unfold sign solve turn artwork van tube move crack dismiss";
+var mnemonic = "achieve nose village lake punch card vessel fat firm shadow tobacco useless";

@@ -1,1 +1,1 @@
-var mnemonic = "famous better casino apple engage hat brave inform field toe interest disagree";
+var mnemonic = "elevator account solve physical soldier describe flock mercy various patch chef latin";

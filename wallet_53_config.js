@@ -1,1 +1,1 @@
-var mnemonic = "decide silly helmet page catch obscure lady frog once knife cruel predict";
+var mnemonic = "stereo knock such milk tortoise increase solution shuffle world shine doctor owner";

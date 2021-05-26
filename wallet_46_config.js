@@ -1,1 +1,1 @@
-var mnemonic = "sign double follow lawsuit awkward diamond pen come island keen tuna funny";
+var mnemonic = "chair sustain run brother caught depend priority reunion scale health edit protect";

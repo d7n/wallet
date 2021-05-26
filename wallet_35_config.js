@@ -1,1 +1,1 @@
-var mnemonic = "emotion analyst outside until cat dial theme insane slender shy evoke ghost";
+var mnemonic = "veteran media quit wedding glad three daughter kitten ancient permit wrong demise";

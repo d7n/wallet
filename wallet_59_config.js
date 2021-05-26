@@ -1,1 +1,1 @@
-var mnemonic = "wear party hour voice old rely close custom install bring birth lab";
+var mnemonic = "waste chuckle image frog cheese erode swarm month urge gospel unhappy include";

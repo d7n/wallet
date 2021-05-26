@@ -1,1 +1,1 @@
-var mnemonic = "trip drink day rigid badge tube filter produce defense ability cereal math";
+var mnemonic = "copper one law elegant post finish flower lawsuit between final twelve addict";

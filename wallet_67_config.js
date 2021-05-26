@@ -1,1 +1,1 @@
-var mnemonic = "pepper grief gravity response enable heavy very minute bronze favorite inmate orchard";
+var mnemonic = "enforce dirt shaft silent talk shallow iron canoe curve wreck such another";

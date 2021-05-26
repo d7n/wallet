@@ -1,1 +1,1 @@
-var mnemonic = "decide program possible toward reward pattern slam urge potato only worth lawn";
+var mnemonic = "unable regular always empower ice sadness pelican salt fragile enact mouse woman";

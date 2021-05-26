@@ -1,1 +1,1 @@
-var mnemonic = "face illegal pitch bus spatial flag noise dad note upset glare turtle";
+var mnemonic = "frozen abstract brave vast embark cannon verb trend thunder manage girl first";

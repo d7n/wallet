@@ -1,1 +1,1 @@
-var mnemonic = "pen essence ahead street casual member treat impulse strategy front oxygen patch";
+var mnemonic = "juice list chase develop speed share coral thought bag ethics say seminar";

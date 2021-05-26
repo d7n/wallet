@@ -1,1 +1,1 @@
-var mnemonic = "afford foster coffee upper elder cart dumb clean evidence object use excess";
+var mnemonic = "scare palace hand gym panel spring write diary critic acquire quantum credit";

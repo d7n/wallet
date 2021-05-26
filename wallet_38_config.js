@@ -1,1 +1,1 @@
-var mnemonic = "grocery moral scare spatial timber toe rent mad visual sheriff jewel resist";
+var mnemonic = "atom when crumble roast turkey include cruel acoustic forum bounce slot bitter";

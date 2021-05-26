@@ -1,1 +1,1 @@
-var mnemonic = "dolphin vacant tired awkward small damage rebel club cotton math drift wolf";
+var mnemonic = "swamp polar describe february fatal settle grief tuition solution wait local enemy";

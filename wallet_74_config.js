@@ -1,1 +1,1 @@
-var mnemonic = "custom earn innocent usage snake dutch grace that dry crane trigger borrow";
+var mnemonic = "trip gap author lake someone now oil jazz silent shallow initial say";

@@ -1,1 +1,1 @@
-var mnemonic = "october abandon pet damp canyon fall proof kite ivory pudding dragon cupboard";
+var mnemonic = "slender swim erode inherit cabbage dress hold rebuild tomorrow crime shell grant";

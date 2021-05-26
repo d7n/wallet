@@ -1,1 +1,1 @@
-var mnemonic = "museum vintage attack parade present eye together access base post kid critic";
+var mnemonic = "this rose announce same security worth weapon coin alarm mercy scrap impose";

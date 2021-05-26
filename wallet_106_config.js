@@ -1,1 +1,1 @@
-var mnemonic = "enough critic enough acoustic huge energy random huge message maple youth paper";
+var mnemonic = "elevator defy analyst radar attitude message ridge syrup suit note special mean";

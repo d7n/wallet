@@ -1,1 +1,1 @@
-var mnemonic = "source alter absurd open point divide answer device bridge asthma auction achieve";
+var mnemonic = "slight manual work feature issue cream scorpion crystal antique embrace vehicle orbit";

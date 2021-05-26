@@ -1,1 +1,1 @@
-var mnemonic = "voice trumpet pattern dove notable emotion avoid daughter boring practice good outdoor";
+var mnemonic = "volcano advice bridge coil maid travel attend room able blue mother dentist";

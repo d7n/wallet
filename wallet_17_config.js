@@ -1,1 +1,1 @@
-var mnemonic = "carbon race border gallery similar crystal property upset craft transfer bronze regular";
+var mnemonic = "fantasy section top patch view wash forget term lunch group claim combine";

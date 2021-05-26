@@ -1,1 +1,1 @@
-var mnemonic = "host become column shine embody river major truth upgrade picture frost swear";
+var mnemonic = "gold misery boat foster debate kick morning ugly liberty idle boring firm";

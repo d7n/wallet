@@ -1,1 +1,1 @@
-var mnemonic = "silver until dawn peasant analyst merge gather foil false slot tuna aspect";
+var mnemonic = "someone essay desk drastic grid slim siege anxiety reveal scout siren nuclear";

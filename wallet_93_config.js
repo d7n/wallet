@@ -1,1 +1,1 @@
-var mnemonic = "vicious attend utility you future help clock defense multiply home together flame";
+var mnemonic = "confirm deny laundry sketch wrong ask arrow suspect cloud electric material right";

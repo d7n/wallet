@@ -1,1 +1,1 @@
-var mnemonic = "monster cricket ask photo bid goose federal cable leader actress gloom valve";
+var mnemonic = "parade donkey good defy december garbage athlete favorite narrow panic stem clever";

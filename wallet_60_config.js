@@ -1,1 +1,1 @@
-var mnemonic = "wait use forest space dress chair hurt shock token core van swim";
+var mnemonic = "space sight crush deny innocent leisure motion acid blossom tornado hood frequent";

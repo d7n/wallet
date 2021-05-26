@@ -1,1 +1,1 @@
-var mnemonic = "wife amount either sniff distance attract disease pizza fence nature crazy protect";
+var mnemonic = "urban grass gaze jazz erupt coin tape dentist inner drastic sign trigger";

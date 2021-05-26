@@ -1,1 +1,1 @@
-var mnemonic = "silver label invest caution estate volume slogan oven delay naive rose hundred";
+var mnemonic = "hen insane patch size erode crater business front effort immense divert crush";

@@ -1,1 +1,1 @@
-var mnemonic = "enable flash flower kidney exotic pioneer dirt rocket screen tuna tape amount";
+var mnemonic = "reward cart elevator mandate rather put cliff tooth all define scare crucial";

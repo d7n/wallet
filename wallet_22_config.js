@@ -1,1 +1,1 @@
-var mnemonic = "venture ring burst magnet north inch canyon daughter enlist also run sheriff";
+var mnemonic = "truck cushion candy business cream duty network dash series govern bless merry";

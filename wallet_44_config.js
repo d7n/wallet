@@ -1,1 +1,1 @@
-var mnemonic = "candy brass between ecology census make nation home feature spider basket shy";
+var mnemonic = "high chief issue neck drop travel case oven detect acid mail stereo";

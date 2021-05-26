@@ -1,1 +1,1 @@
-var mnemonic = "install primary satisfy spy little prize twice palm inquiry gossip magic laugh";
+var mnemonic = "aspect soda trend siren arrange vital state inquiry trophy tent share soft";

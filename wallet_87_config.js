@@ -1,1 +1,1 @@
-var mnemonic = "twin gorilla minute peasant either accuse claw banner priority canal purchase sadness";
+var mnemonic = "scan cupboard immense daring match midnight glue delay category way stomach hood";

@@ -1,1 +1,1 @@
-var mnemonic = "club lyrics grunt differ adapt spot embark comic warfare canoe coconut limit";
+var mnemonic = "leader scale system frog pact morning palm cannon fee source error analyst";

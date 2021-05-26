@@ -1,1 +1,1 @@
-var mnemonic = "digital poverty gentle answer glue green grow birth upon crisp walnut axis";
+var mnemonic = "captain stamp tone disagree bronze pet fee poet huge normal walk deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "used sad verify gesture crater volcano hammer wrap crisp finger step glow";
+var mnemonic = "enlist glide much grit essence dash whisper camp document hidden casino nominee";

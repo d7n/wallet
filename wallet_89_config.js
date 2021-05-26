@@ -1,1 +1,1 @@
-var mnemonic = "category odor lamp solid celery oval enable arch vintage dwarf must lamp";
+var mnemonic = "length display canoe sadness say random clever giggle forward oil ugly around";

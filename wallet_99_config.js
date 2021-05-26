@@ -1,1 +1,1 @@
-var mnemonic = "best frog daughter episode such vacant peanut galaxy snack salon sadness song";
+var mnemonic = "chicken twelve because shuffle still utility egg wave pretty egg teach trade";

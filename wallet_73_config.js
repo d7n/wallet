@@ -1,1 +1,1 @@
-var mnemonic = "saddle deny ignore meat possible weather hunt crew purity cause undo solve";
+var mnemonic = "capital drill hedgehog crane long false brisk daughter shrimp funny route scout";

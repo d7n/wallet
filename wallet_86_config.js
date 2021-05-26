@@ -1,1 +1,1 @@
-var mnemonic = "embark laundry near omit opinion oxygen usual because biology vague weapon fog";
+var mnemonic = "reason diagram butter muffin ocean merge drift infant retire inquiry rapid victory";

@@ -1,1 +1,1 @@
-var mnemonic = "light charge coin depend fashion uniform setup venue upper shadow carbon rebel";
+var mnemonic = "motion amount job bar math iron crush rude under burst term copper";

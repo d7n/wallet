@@ -1,1 +1,1 @@
-var mnemonic = "banana round burst cereal detail breeze minute output abstract affair mandate diary";
+var mnemonic = "analyst pill young cricket immune describe mechanic plate laundry vote manual junk";

@@ -1,1 +1,1 @@
-var mnemonic = "describe nut nurse flavor decorate gasp nest diary decline million dumb half";
+var mnemonic = "faculty slender simple fly dumb mistake toward cook panel guitar system mind";

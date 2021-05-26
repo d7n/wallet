@@ -1,1 +1,1 @@
-var mnemonic = "shrimp winner tennis very choose good trap grid assume extend firm act";
+var mnemonic = "distance frog moon shoulder daring fluid blue issue vanish pattern betray trash";

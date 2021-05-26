@@ -1,1 +1,1 @@
-var mnemonic = "gold orange car deliver off flash observe nominee seven believe vendor sadness";
+var mnemonic = "desert miss engage wreck devote gaze inquiry spatial isolate episode diagram fog";

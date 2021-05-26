@@ -1,1 +1,1 @@
-var mnemonic = "whale adjust sister phrase divert kidney city orbit helmet stomach kiwi aerobic";
+var mnemonic = "state bunker mystery icon unveil identify certain wrap tomorrow speed still motion";

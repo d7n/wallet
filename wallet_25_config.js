@@ -1,1 +1,1 @@
-var mnemonic = "kiss worry heavy morning state tattoo insane pill slide embody pumpkin lab";
+var mnemonic = "oven satoshi luggage morning toilet aim one text autumn ignore cabin cloth";

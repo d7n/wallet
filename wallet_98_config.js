@@ -1,1 +1,1 @@
-var mnemonic = "fine work sock science harbor engine athlete crisp jeans fiction argue render";
+var mnemonic = "repair vendor behind autumn away swamp turn float jacket record ship access";

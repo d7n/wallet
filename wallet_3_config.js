@@ -1,1 +1,1 @@
-var mnemonic = "entire worth pill tail famous mirror duty faint panda scatter finger pill";
+var mnemonic = "slam auction disorder want tourist jar ethics escape coffee master keen light";

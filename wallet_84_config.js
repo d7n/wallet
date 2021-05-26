@@ -1,1 +1,1 @@
-var mnemonic = "tide tilt check denial have close laugh cloth churn group wrong accuse";
+var mnemonic = "bench load scheme extend gallery idle letter click live farm erase grid";

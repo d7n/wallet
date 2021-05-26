@@ -1,1 +1,1 @@
-var mnemonic = "bomb silk mesh dirt cream pond grocery loud slim crucial umbrella vast";
+var mnemonic = "summer pitch amateur bounce cage ugly palm injury legend cement brief monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage flavor timber indicate apart math pink early return proud coyote inch";
+var mnemonic = "rain people attack boil payment term learn document card step slot pluck";

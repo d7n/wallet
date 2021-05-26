@@ -1,1 +1,1 @@
-var mnemonic = "best rib net arrive glory select daughter coast salute tail nuclear dash";
+var mnemonic = "off subject task crouch reveal prefer wing knife post endless cruel tumble";

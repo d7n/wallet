@@ -1,1 +1,1 @@
-var mnemonic = "hockey forget spring very hire boil warrior burger choice capital marriage danger";
+var mnemonic = "echo member crystal derive victory engage fly camera floor firm ordinary motor";

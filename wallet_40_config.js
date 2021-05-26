@@ -1,1 +1,1 @@
-var mnemonic = "grass eight spice wine wonder rely dumb blast satisfy merry collect shield";
+var mnemonic = "deny size label bargain cube frown great garment primary retreat enable exist";

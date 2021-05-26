@@ -1,1 +1,1 @@
-var mnemonic = "banana dumb orient cruise outer crucial ill brother dose work world goose";
+var mnemonic = "tape relief trim turkey govern seven response hood stereo stomach atom chunk";

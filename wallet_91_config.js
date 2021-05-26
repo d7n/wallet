@@ -1,1 +1,1 @@
-var mnemonic = "logic sadness jeans humor ocean print real jelly candy person tilt idle";
+var mnemonic = "bacon rescue exhaust alpha leopard machine crash pact extra history morning whisper";

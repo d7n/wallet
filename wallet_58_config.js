@@ -1,1 +1,1 @@
-var mnemonic = "rocket mention disagree mule diary antenna couch item symbol treat enough smart";
+var mnemonic = "cable radio siren ginger include amused almost struggle tag flavor benefit certain";

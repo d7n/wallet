@@ -1,1 +1,1 @@
-var mnemonic = "cradle episode clarify kind brown chalk erupt when auto approve moment gasp";
+var mnemonic = "bench equal attitude submit horn post original chair push sand ensure local";

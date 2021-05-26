@@ -1,1 +1,1 @@
-var mnemonic = "sugar goose coast nerve hollow first owner start fog pill moon bubble";
+var mnemonic = "viable capital skull another shoulder immense fancy usage board oil start tissue";

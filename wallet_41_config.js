@@ -1,1 +1,1 @@
-var mnemonic = "unlock peace dignity avocado faith prefer jewel bring kitten dynamic license route";
+var mnemonic = "crowd fame street move focus print scene minor fold soup coast alpha";

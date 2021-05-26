@@ -1,1 +1,1 @@
-var mnemonic = "thing scale melt banner knife dentist any convince pilot test script forward";
+var mnemonic = "artefact sort pause mule very sponsor tribe outer blast team hospital diesel";

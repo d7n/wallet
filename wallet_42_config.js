@@ -1,1 +1,1 @@
-var mnemonic = "light plastic giraffe satoshi lion suit mechanic hover captain trophy quick cement";
+var mnemonic = "purchase guitar poverty subject verify inch business brave copy illness unlock bus";

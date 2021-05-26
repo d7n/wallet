@@ -1,1 +1,1 @@
-var mnemonic = "atom account manual sword lyrics arena romance dilemma blame dry high tenant";
+var mnemonic = "raccoon hover cotton syrup online laptop race convince hockey short theme soccer";

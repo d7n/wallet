@@ -1,1 +1,1 @@
-var mnemonic = "weird element aisle unit harvest window usual jacket muscle powder anchor cattle";
+var mnemonic = "inner place silent behind joy smooth erode insect youth field omit tuition";

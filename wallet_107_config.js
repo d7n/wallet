@@ -1,1 +1,1 @@
-var mnemonic = "hip task march front resource duty prosper pretty drift people stone ordinary";
+var mnemonic = "blood misery moon color cement neither use property exchange begin smart velvet";

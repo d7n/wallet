@@ -1,1 +1,1 @@
-var mnemonic = "garbage asset wish craft biology snow sunny teach merry wink crush wheel";
+var mnemonic = "scissors world search next engage try broom panda rely waste wrist mean";

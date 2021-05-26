@@ -1,1 +1,1 @@
-var mnemonic = "modify note chief bike bike ticket around stem jaguar violin drift produce";
+var mnemonic = "orange happy olive jeans bamboo shallow aware tragic agent online reopen trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo access spoon file shove monster stem luxury human amazing exact bacon";
+var mnemonic = "journey garment diamond share this prepare effort siren custom young symbol area";

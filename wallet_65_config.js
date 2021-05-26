@@ -1,1 +1,1 @@
-var mnemonic = "leaf soul between small plug grid dream inner mother all spider canyon";
+var mnemonic = "goddess update toilet swim angle jealous renew above arrow dirt similar link";
