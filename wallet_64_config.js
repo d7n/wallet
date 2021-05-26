@@ -1,1 +1,1 @@
-var mnemonic = "immune month test ritual soon mystery unit garlic chunk pulse other real";
+var mnemonic = "expect host dilemma denial ring panic shell royal surge beyond solve taxi";

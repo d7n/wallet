@@ -1,1 +1,1 @@
-var mnemonic = "pretty issue mask summer sort duty edit ramp quality increase school crisp";
+var mnemonic = "virus core session access own pact powder office finish solve mule cool";

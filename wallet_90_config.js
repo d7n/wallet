@@ -1,1 +1,1 @@
-var mnemonic = "insect outdoor wasp paddle horn immune arrow muffin believe actress embark comfort";
+var mnemonic = "spread else material car rookie penalty indicate fatal multiply damp item sound";

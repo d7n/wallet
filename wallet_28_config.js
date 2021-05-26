@@ -1,1 +1,1 @@
-var mnemonic = "excess hospital provide cause fitness polar scheme decrease rice image jeans insane";
+var mnemonic = "normal scissors suit expect home clerk stool connect bike omit such truck";

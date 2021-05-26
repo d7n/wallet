@@ -1,1 +1,1 @@
-var mnemonic = "tape believe length manual leg stereo title soccer acquire orient puzzle debate";
+var mnemonic = "bench earn brisk atom double machine occur elbow squeeze gauge sight item";

@@ -1,1 +1,1 @@
-var mnemonic = "antique ocean impact first task return sword quit solar loop kitchen surround";
+var mnemonic = "resist delay powder act exit topic casino divide bright magnet horse drift";

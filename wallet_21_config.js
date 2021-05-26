@@ -1,1 +1,1 @@
-var mnemonic = "neither charge merit fatal pupil govern theme dust gain noise snack monitor";
+var mnemonic = "heavy write fade please photo pigeon omit sell joy dose anchor hold";

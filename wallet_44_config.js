@@ -1,1 +1,1 @@
-var mnemonic = "stone proud nothing column express brand tourist satoshi spray cigar science fiscal";
+var mnemonic = "traffic coil farm lens shine gift cheap setup engine uniform anchor trend";

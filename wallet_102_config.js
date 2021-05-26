@@ -1,1 +1,1 @@
-var mnemonic = "cushion borrow ketchup pave camp canal ranch license noise loan fantasy shell";
+var mnemonic = "dog casual soul mix become tragic zebra physical blame blame game work";

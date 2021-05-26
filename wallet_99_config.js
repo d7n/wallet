@@ -1,1 +1,1 @@
-var mnemonic = "skate water garden rack dentist cruise danger acid odor virus retire fashion";
+var mnemonic = "dolphin magnet tube today custom grid major among retire crime skull team";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe spot broccoli mention fancy purse brick unit similar soldier onion powder";
+var mnemonic = "icon brother cube sweet total mean dirt economy ostrich museum ridge that";

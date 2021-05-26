@@ -1,1 +1,1 @@
-var mnemonic = "always segment pulse chaos crash phone crunch hello envelope theme advice sick";
+var mnemonic = "need arctic exit collect scare body mountain steak tackle pyramid seat chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold shoe mobile behind mix spread expire alarm force metal horse issue";
+var mnemonic = "slab legend sister abuse message satisfy cherry fiscal jewel hub pretty crunch";

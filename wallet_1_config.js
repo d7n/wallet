@@ -1,1 +1,1 @@
-var mnemonic = "language faint surprise flip ice swing salad grape shaft govern rabbit ill";
+var mnemonic = "axis mirror napkin sorry bright artist skirt crowd bracket state kingdom palm";

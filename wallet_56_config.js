@@ -1,1 +1,1 @@
-var mnemonic = "cool home increase fitness vintage hover machine spider panther strong transfer snack";
+var mnemonic = "enhance chat lawn antique leader hat brain kiwi receive answer office series";

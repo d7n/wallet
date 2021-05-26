@@ -1,1 +1,1 @@
-var mnemonic = "setup elite rebel believe nice federal endless fantasy resist trap polar often";
+var mnemonic = "stage deer leopard screen trick discover throw toe wrong input tattoo very";

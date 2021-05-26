@@ -1,1 +1,1 @@
-var mnemonic = "mountain electric truck stomach stuff risk vehicle moon domain erosion funny cricket";
+var mnemonic = "erupt deal anchor define about suffer aerobic bamboo basic trophy tray hill";

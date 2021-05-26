@@ -1,1 +1,1 @@
-var mnemonic = "project dolphin volume scorpion need cloud lift tail good mandate empower spike";
+var mnemonic = "else indicate mesh vacant private between play wine spell lab sister correct";

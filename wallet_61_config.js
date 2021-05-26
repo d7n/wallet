@@ -1,1 +1,1 @@
-var mnemonic = "rug stomach accident knock thunder safe response tape destroy wait sauce ring";
+var mnemonic = "gun disorder settle patient canvas topic seven shield company energy green hub";

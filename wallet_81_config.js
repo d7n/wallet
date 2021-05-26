@@ -1,1 +1,1 @@
-var mnemonic = "catch wave supply okay nut genuine review clap someone undo cupboard sell";
+var mnemonic = "unknown common alarm primary good royal ticket aware slush metal window fever";

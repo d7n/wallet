@@ -1,1 +1,1 @@
-var mnemonic = "educate unhappy report fiscal chase hockey side order legend never drink increase";
+var mnemonic = "still rose crucial pizza student actor frozen cabin erupt tennis pioneer verify";

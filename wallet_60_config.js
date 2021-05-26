@@ -1,1 +1,1 @@
-var mnemonic = "claim hill double hard knock verify welcome remain embark demise walnut spike";
+var mnemonic = "crane clump peasant demise detail mushroom mind chief similar shoulder adult foster";

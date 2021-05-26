@@ -1,1 +1,1 @@
-var mnemonic = "pigeon summer flame debate dance common hour frame excite movie slush ahead";
+var mnemonic = "remain stem lunch cover glue river such solve enjoy diesel color fetch";

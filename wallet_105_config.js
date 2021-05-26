@@ -1,1 +1,1 @@
-var mnemonic = "soap peasant monitor excuse edge capable solve bike cheap blouse advice gauge";
+var mnemonic = "laundry hold desert journey arm coral switch fashion dial reform verb inch";

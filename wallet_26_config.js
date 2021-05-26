@@ -1,1 +1,1 @@
-var mnemonic = "session hurry spirit addict globe craft actual vehicle urban enough leopard injury";
+var mnemonic = "jewel spring payment found blanket dutch upgrade vast sheriff cousin heavy abuse";

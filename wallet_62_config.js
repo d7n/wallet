@@ -1,1 +1,1 @@
-var mnemonic = "route popular accident barely voice section empower grunt wealth coin drink voyage";
+var mnemonic = "mystery neither arctic basic walk trumpet similar hurdle mixed law sheriff junk";

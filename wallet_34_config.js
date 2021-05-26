@@ -1,1 +1,1 @@
-var mnemonic = "estate disease rack wolf utility crunch sun coast earn inquiry total gravity";
+var mnemonic = "barely repeat search veteran regular turn pepper chapter loan aspect raw autumn";

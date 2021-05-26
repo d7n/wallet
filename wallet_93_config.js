@@ -1,1 +1,1 @@
-var mnemonic = "erode possible slush agent raw salute crew cash tip mask genuine frame";
+var mnemonic = "venture orient absorb cave piece broom enhance error mammal neither shy ivory";

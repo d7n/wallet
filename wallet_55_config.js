@@ -1,1 +1,1 @@
-var mnemonic = "stay runway donor festival solution trip prevent kidney minute thought taxi embrace";
+var mnemonic = "jealous increase donkey bird inside follow burden arrive clump surround ensure tobacco";

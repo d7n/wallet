@@ -1,1 +1,1 @@
-var mnemonic = "fan beyond cute pledge true tragic come decade connect slogan tattoo long";
+var mnemonic = "aisle select fold boss embody fruit notice toast else gap rich defy";

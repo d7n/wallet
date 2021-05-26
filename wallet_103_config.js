@@ -1,1 +1,1 @@
-var mnemonic = "tip uphold flavor poem taste furnace coil cart plug become stool motor";
+var mnemonic = "anger youth hour brand magic finish assume buzz armed evil disease minor";

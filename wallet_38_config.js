@@ -1,1 +1,1 @@
-var mnemonic = "shiver despair plug arch member cannon avocado aerobic patrol hole end couch";
+var mnemonic = "vibrant frost pig shine desert super amount chimney else cheap game inject";

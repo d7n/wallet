@@ -1,1 +1,1 @@
-var mnemonic = "road drum keep bargain future version ring capable climb neither worry net";
+var mnemonic = "elbow welcome trouble name buyer version blanket include rack sting ready fox";

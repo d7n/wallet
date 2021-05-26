@@ -1,1 +1,1 @@
-var mnemonic = "awkward fox olympic mail always apology detail deny ramp scene arrow reduce";
+var mnemonic = "cheese bright test path pact route liquid prosper try rack main play";

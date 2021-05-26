@@ -1,1 +1,1 @@
-var mnemonic = "speed horn crumble visual lab solve grape tongue cliff unfold magnet spot";
+var mnemonic = "deposit humor taste lottery swift consider toss load pilot orange you pistol";

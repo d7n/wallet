@@ -1,1 +1,1 @@
-var mnemonic = "february funny crunch confirm upgrade dismiss forum direct snap refuse elbow kitten";
+var mnemonic = "poem skirt model success kangaroo claim army business upgrade balcony scrub stem";

@@ -1,1 +1,1 @@
-var mnemonic = "adult travel trigger average dwarf defense dinosaur feature radar economy barely crime";
+var mnemonic = "rescue help barrel quantum inject able party type volcano can enhance liquid";

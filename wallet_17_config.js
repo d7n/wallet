@@ -1,1 +1,1 @@
-var mnemonic = "submit pepper flight return swap hockey mirror sing critic demise animal history";
+var mnemonic = "damp habit pear assist unusual either build toast student snow push hunt";

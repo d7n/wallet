@@ -1,1 +1,1 @@
-var mnemonic = "flavor dune kidney crime allow print genre spawn place practice taxi neutral";
+var mnemonic = "achieve error immune habit critic roof goose problem stadium author quote verb";

@@ -1,1 +1,1 @@
-var mnemonic = "motion learn supreme nuclear select shed round ocean seminar almost view vacant";
+var mnemonic = "wear spend scheme advance silly bring dune wave tourist labor dentist present";

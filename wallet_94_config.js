@@ -1,1 +1,1 @@
-var mnemonic = "wasp usual size ketchup biology minimum volume day sword army denial trumpet";
+var mnemonic = "trigger obvious betray ankle pull slim amused uphold tragic angle blood breeze";

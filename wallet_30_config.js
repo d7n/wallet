@@ -1,1 +1,1 @@
-var mnemonic = "public convince oak item volcano belt flight cannon occur absurd paper start";
+var mnemonic = "ahead else odor fiber trap kingdom check surface nature ill front rival";

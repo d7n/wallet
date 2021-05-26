@@ -1,1 +1,1 @@
-var mnemonic = "help solar worry antenna veteran roof destroy combine sniff canvas strategy guess";
+var mnemonic = "phrase armor question hedgehog radio else sea acquire fire resist river grape";

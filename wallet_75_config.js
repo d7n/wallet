@@ -1,1 +1,1 @@
-var mnemonic = "topic grunt move tomorrow total foot thing acoustic romance acquire goat force";
+var mnemonic = "around spell merit limit rate tennis notice faculty general force reject easy";

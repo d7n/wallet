@@ -1,1 +1,1 @@
-var mnemonic = "rigid base vital together invest emotion mean rose test online rural poem";
+var mnemonic = "nominee gauge nerve opinion dance fragile when display coin cereal spell enhance";

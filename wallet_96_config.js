@@ -1,1 +1,1 @@
-var mnemonic = "celery deposit bridge royal basic opinion south churn sudden favorite become salute";
+var mnemonic = "stick craft turtle tide mercy step receive banana fee banner shed detail";

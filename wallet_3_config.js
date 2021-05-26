@@ -1,1 +1,1 @@
-var mnemonic = "mix track hat course magnet cruel stable mixture clean upon giggle shell";
+var mnemonic = "coral floor dove refuse phrase devote busy scene dentist own voice gadget";

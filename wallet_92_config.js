@@ -1,1 +1,1 @@
-var mnemonic = "rival tell lunch gallery round entire fury garbage uniform clog biology announce";
+var mnemonic = "hotel apology various animal laptop smoke hello twenty win return protect mesh";

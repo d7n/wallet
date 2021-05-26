@@ -1,1 +1,1 @@
-var mnemonic = "ten fitness police human nut switch reveal little unique flower escape body";
+var mnemonic = "word ankle exchange sight train general question potato blade stay census body";

@@ -1,1 +1,1 @@
-var mnemonic = "blind recall squeeze canoe reward seat shy expect barely rug moon chronic";
+var mnemonic = "gold what donor riot exile subject doctor fence same whip pattern trick";

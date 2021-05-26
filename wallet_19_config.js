@@ -1,1 +1,1 @@
-var mnemonic = "about never valve inflict faint country fan tennis rack hammer fantasy subway";
+var mnemonic = "call assault position bacon arrest exclude blind grunt usage judge plug stable";

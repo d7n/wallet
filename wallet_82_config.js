@@ -1,1 +1,1 @@
-var mnemonic = "improve camera enjoy tobacco permit hold toss plunge address right material cheese";
+var mnemonic = "slush smart noise blame second sort mixed enemy youth walnut breeze when";

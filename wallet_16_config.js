@@ -1,1 +1,1 @@
-var mnemonic = "twist mind fit post craft solar jelly sight between vital blind century";
+var mnemonic = "gap palace orient analyst tray rail solve boss response repeat either apart";

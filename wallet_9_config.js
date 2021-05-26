@@ -1,1 +1,1 @@
-var mnemonic = "settle symbol mobile stone message museum army anchor bachelor lecture laundry unfold";
+var mnemonic = "edge any glue response tree awkward already grape kingdom fit beyond valid";

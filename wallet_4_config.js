@@ -1,1 +1,1 @@
-var mnemonic = "save nerve harsh page badge caution bird peace income beyond earth install";
+var mnemonic = "alarm cruel grid bag trigger thank diamond rib until old dutch ready";

@@ -1,1 +1,1 @@
-var mnemonic = "crime private post today horse clutch dragon away monitor damp autumn magnet";
+var mnemonic = "oxygen target half type oak flower window leg cube coin bulk match";

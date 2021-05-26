@@ -1,1 +1,1 @@
-var mnemonic = "melt sentence zebra fault rural happy beach iron swear medal jealous already";
+var mnemonic = "athlete jewel flavor burden arctic code sauce pattern exercise lottery better quiz";

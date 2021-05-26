@@ -1,1 +1,1 @@
-var mnemonic = "engage width violin neck thing raw gentle idle exist chronic rapid blur";
+var mnemonic = "photo empower age casual spike harvest industry buzz excuse design decline suffer";

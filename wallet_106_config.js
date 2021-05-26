@@ -1,1 +1,1 @@
-var mnemonic = "aware arrange swear bracket situate fish december amazing easily pair hundred leave";
+var mnemonic = "toy unusual alert ten remember shoot fade rural mail pet bottom aunt";

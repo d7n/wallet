@@ -1,1 +1,1 @@
-var mnemonic = "cause defy poet quality insane trouble level dish mirror shoe ability weird";
+var mnemonic = "hollow finish bullet nasty power vicious actor pink plastic patient armed hungry";

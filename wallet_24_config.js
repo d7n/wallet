@@ -1,1 +1,1 @@
-var mnemonic = "they immune month lift knee happy phone social still before universe scrub";
+var mnemonic = "hub liquid into vanish gesture milk brisk enrich digital flush dismiss resemble";

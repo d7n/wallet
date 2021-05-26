@@ -1,1 +1,1 @@
-var mnemonic = "guard snow ozone nice nothing lazy ankle basic gaze horse swallow action";
+var mnemonic = "tell dune bag rally you neglect wood lock reopen private roof mirror";

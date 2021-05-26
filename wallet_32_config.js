@@ -1,1 +1,1 @@
-var mnemonic = "rent bread large wild robust defense burden cherry chronic rotate slight review";
+var mnemonic = "bid enforce buddy elephant first cactus shrug second parrot energy dilemma angle";

@@ -1,1 +1,1 @@
-var mnemonic = "proud brick alarm awake decline broom hazard curve home tackle dinosaur fuel";
+var mnemonic = "uphold time border broken guitar question stable wagon test margin please near";

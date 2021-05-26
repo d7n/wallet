@@ -1,1 +1,1 @@
-var mnemonic = "pipe space suggest grass shine float clerk modify equal immense term display";
+var mnemonic = "media observe timber auction circle wagon fit winner awesome obtain simple outdoor";

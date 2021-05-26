@@ -1,1 +1,1 @@
-var mnemonic = "fun cute dirt wide liquid exact van fury fall erode inside copper";
+var mnemonic = "faculty laugh economy embark series vapor bounce sunset claim describe letter young";

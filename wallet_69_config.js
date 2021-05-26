@@ -1,1 +1,1 @@
-var mnemonic = "vintage tonight vintage choose episode odor urge express tunnel message banner armor";
+var mnemonic = "push detail cruel eagle leaf dinosaur exhaust two usual bread tumble slide";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden erase truth fan drip transfer what canvas finish scorpion mountain equal";
+var mnemonic = "popular define kiwi opera valley dial legal citizen purchase alter soul skill";

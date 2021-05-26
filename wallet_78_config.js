@@ -1,1 +1,1 @@
-var mnemonic = "typical record fury lesson session warm hybrid equip angle chase exotic curious";
+var mnemonic = "hospital bird book smooth priority couple hidden chef hood balcony palace rabbit";

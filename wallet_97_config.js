@@ -1,1 +1,1 @@
-var mnemonic = "beach innocent gate junk diet six wine piece auction install subject melt";
+var mnemonic = "brave silver wage rigid dinosaur blast forward own shield ocean equip park";

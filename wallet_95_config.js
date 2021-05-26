@@ -1,1 +1,1 @@
-var mnemonic = "awesome sunny demand awful quit short alter kite pepper harsh surface memory";
+var mnemonic = "manage episode cheap winter silly butter grant rebel section layer little lava";

@@ -1,1 +1,1 @@
-var mnemonic = "drive tobacco fatigue congress inflict two misery push autumn copper ketchup hard";
+var mnemonic = "essay mobile color theme cheap mail prefer vast art puzzle present palm";

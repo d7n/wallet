@@ -1,1 +1,1 @@
-var mnemonic = "shop top face add sing decorate crawl horn mansion crazy scout twice";
+var mnemonic = "endless depend arctic harvest motor original sketch margin garbage cram marine grass";

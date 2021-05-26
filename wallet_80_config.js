@@ -1,1 +1,1 @@
-var mnemonic = "yellow laugh tape blue wire fury forget roast ocean find april kite";
+var mnemonic = "crystal great chicken skull drift panda basket blind cool silk boost people";

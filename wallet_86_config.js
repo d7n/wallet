@@ -1,1 +1,1 @@
-var mnemonic = "nothing mountain lend share reduce unveil frame sweet federal swap crash coffee";
+var mnemonic = "pottery margin auto trumpet sun fault habit scale frame elephant length month";

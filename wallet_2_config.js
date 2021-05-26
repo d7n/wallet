@@ -1,1 +1,1 @@
-var mnemonic = "pioneer sail task lava shrug beyond build result guess exhaust soon never";
+var mnemonic = "still drip eyebrow join misery virtual more barrel mixture dragon culture suit";

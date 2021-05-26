@@ -1,1 +1,1 @@
-var mnemonic = "coyote cat across pride mobile athlete real donkey calm seat pill ignore";
+var mnemonic = "sketch acid nose mind soda security cream attend penalty home stuff bright";

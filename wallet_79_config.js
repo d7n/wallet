@@ -1,1 +1,1 @@
-var mnemonic = "because pear maximum meat wife clay lonely lumber witness cake found license";
+var mnemonic = "snap resource since yellow that coin ramp absorb protect amazing scissors equal";

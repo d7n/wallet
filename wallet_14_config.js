@@ -1,1 +1,1 @@
-var mnemonic = "list can tone route oxygen kick clarify baby screen enemy alcohol mixed";
+var mnemonic = "spider excite virus front order long hurt behave diagram stadium dirt universe";

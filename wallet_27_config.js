@@ -1,1 +1,1 @@
-var mnemonic = "bomb room direct crush cactus swear sorry upon attract again kind suffer";
+var mnemonic = "collect high entry divorce parrot excite deposit drive win spirit carpet best";

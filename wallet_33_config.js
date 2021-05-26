@@ -1,1 +1,1 @@
-var mnemonic = "ring whip boost post furnace scare remember enter brown bounce end term";
+var mnemonic = "basket carpet uncover muffin sad inmate blade dizzy minor mercy climb question";

@@ -1,1 +1,1 @@
-var mnemonic = "left little solid famous drama critic tomorrow dove ocean text usage payment";
+var mnemonic = "fame hold come canal predict chase whisper ancient tiger orange rapid secret";

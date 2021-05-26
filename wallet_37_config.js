@@ -1,1 +1,1 @@
-var mnemonic = "board vital caution melt kitten employ episode electric venture beach hazard beef";
+var mnemonic = "tank unfold print notable relax social rule rocket essay ethics glad invest";

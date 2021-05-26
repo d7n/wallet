@@ -1,1 +1,1 @@
-var mnemonic = "divorce feel quiz still toe firm soldier settle meadow honey chronic city";
+var mnemonic = "page excuse stereo long ocean trip clever muscle lion evolve mimic merit";

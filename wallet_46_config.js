@@ -1,1 +1,1 @@
-var mnemonic = "blind frog fame purity proud pulse gas athlete animal unit loop mention";
+var mnemonic = "will fade horn better bulb proud eight vicious ridge baby fly spray";

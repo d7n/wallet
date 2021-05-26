@@ -1,1 +1,1 @@
-var mnemonic = "hair video coach dinosaur option reduce yellow supreme enact kingdom forget cradle";
+var mnemonic = "brain movie manual garage divert dove parrot tonight supreme kite sword frame";

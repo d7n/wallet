@@ -1,1 +1,1 @@
-var mnemonic = "load glove blood armor wood loop palm language order lemon salmon envelope";
+var mnemonic = "wire artist outer account corn fix vault kangaroo pupil chunk alien silent";

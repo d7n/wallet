@@ -1,1 +1,1 @@
-var mnemonic = "return clap diesel child oxygen client scheme hover bring method remind cart";
+var mnemonic = "glow flush lucky inmate biology where just urge tiger truly hunt inherit";

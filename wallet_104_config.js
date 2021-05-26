@@ -1,1 +1,1 @@
-var mnemonic = "sugar someone artwork demise page festival brief shallow reopen unaware unveil magnet";
+var mnemonic = "enter borrow focus impose shadow pelican vehicle layer album reunion bird hobby";

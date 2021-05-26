@@ -1,1 +1,1 @@
-var mnemonic = "youth rather media upper sniff wrestle false clerk craft eyebrow aunt give";
+var mnemonic = "health brand sausage twenty cool code neither require pass file woman grain";

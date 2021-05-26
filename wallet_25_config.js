@@ -1,1 +1,1 @@
-var mnemonic = "spring swamp reopen limb tobacco medal west pluck pigeon vibrant option village";
+var mnemonic = "promote palace apart limit ride acoustic blue beauty congress father key theory";

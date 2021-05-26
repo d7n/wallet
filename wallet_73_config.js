@@ -1,1 +1,1 @@
-var mnemonic = "doll luggage steel license case output bargain okay tackle coil omit cave";
+var mnemonic = "scale major survey essence fancy habit rack carpet dinner melody soap hobby";
