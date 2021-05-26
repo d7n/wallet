@@ -1,1 +1,1 @@
-var mnemonic = "bubble honey illness announce small crunch sheriff cube street vacuum bamboo swift";
+var mnemonic = "car hold humor search survey skill holiday hand club direct finger leader";

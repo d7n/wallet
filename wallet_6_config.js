@@ -1,1 +1,1 @@
-var mnemonic = "beauty sight nice sample duty neck picture wagon favorite captain cruel violin";
+var mnemonic = "teach daughter people worry minute version mushroom filter vessel cheese waste ice";

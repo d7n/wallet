@@ -1,1 +1,1 @@
-var mnemonic = "armor lawn february melody dinosaur tourist blush august fine identify snake rifle";
+var mnemonic = "art energy arena captain tourist bar globe gym end grow reject oak";

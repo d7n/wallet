@@ -1,1 +1,1 @@
-var mnemonic = "rice surprise extend obey rail donate foot maze rich analyst forest execute";
+var mnemonic = "marble air spatial tissue satisfy twenty syrup vendor tell vicious journey shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "install awkward surprise arm island phrase village film slight drink two jazz";
+var mnemonic = "cool dune scatter hard allow zoo spin execute property main order actress";

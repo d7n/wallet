@@ -1,1 +1,1 @@
-var mnemonic = "ability bright tissue gauge turkey laugh tilt loop very super awesome essence";
+var mnemonic = "skill twice trim prosper wage tiger come olympic stomach earth cute future";

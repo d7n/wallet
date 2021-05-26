@@ -1,1 +1,1 @@
-var mnemonic = "climb trip eternal unable voice tiger clutch metal initial true warrior shrug";
+var mnemonic = "argue viable despair announce addict slight yard teach runway drum stock knife";

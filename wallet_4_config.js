@@ -1,1 +1,1 @@
-var mnemonic = "enough solution assume kingdom recycle drill atom morning panther ketchup birth current";
+var mnemonic = "law penalty people rookie armor blast perfect notice topic meadow used judge";

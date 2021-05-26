@@ -1,1 +1,1 @@
-var mnemonic = "already edge bright rather cram hazard panel demise try adult buffalo cry";
+var mnemonic = "maid language come stock screen slight rabbit outer labor bean material raise";

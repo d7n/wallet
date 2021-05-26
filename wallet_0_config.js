@@ -1,1 +1,1 @@
-var mnemonic = "worth street boy benefit sense coin number wrestle kite tuna crisp timber";
+var mnemonic = "quiz junior hen trim coral purse census now place weapon reveal fence";

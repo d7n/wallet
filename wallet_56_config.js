@@ -1,1 +1,1 @@
-var mnemonic = "obtain abstract reduce engine elegant wine copper catch ghost believe crucial arrow";
+var mnemonic = "upset melody maximum alpha math manual meadow garden spy captain silent glove";

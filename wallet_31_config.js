@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog uphold fancy audit diamond like effort gather identify rude surround pass";
+var mnemonic = "attitude type rally congress deny day budget gorilla fashion derive dinosaur proof";

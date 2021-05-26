@@ -1,1 +1,1 @@
-var mnemonic = "machine rocket cry give morning casual farm shed music base topic visa";
+var mnemonic = "sunset color autumn trophy year over train auction modify sting print diamond";

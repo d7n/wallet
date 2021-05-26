@@ -1,1 +1,1 @@
-var mnemonic = "ticket final fly elevator cool insane elephant often stem fame talk claim";
+var mnemonic = "spray primary next stone yellow east animal kitten quiz universe diesel detail";

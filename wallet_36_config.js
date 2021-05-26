@@ -1,1 +1,1 @@
-var mnemonic = "owner deliver crack paper plate achieve help wise scout phrase trade pattern";
+var mnemonic = "kitten harbor lonely water hire sauce kangaroo drop small forget run actor";

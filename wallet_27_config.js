@@ -1,1 +1,1 @@
-var mnemonic = "fiscal cheese maple favorite common zoo woman project roast summer shallow evolve";
+var mnemonic = "slender audit lizard orphan dawn federal zero census next source usual version";

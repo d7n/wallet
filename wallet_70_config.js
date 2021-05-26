@@ -1,1 +1,1 @@
-var mnemonic = "kiss shop firm jealous cook sleep rebuild judge innocent holiday delay senior";
+var mnemonic = "thing monkey tornado spare file kitchen grain film kite fiction trumpet exile";

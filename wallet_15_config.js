@@ -1,1 +1,1 @@
-var mnemonic = "thumb hen miracle ceiling buyer vote awful young tomato august canoe present";
+var mnemonic = "humble latin kiss term extend swarm master insane sun address wrestle damage";

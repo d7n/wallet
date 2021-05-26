@@ -1,1 +1,1 @@
-var mnemonic = "cart pause bird purchase helmet device tennis sock wrist victory window bird";
+var mnemonic = "embark tattoo crunch fringe allow tide keen already build voice hour machine";

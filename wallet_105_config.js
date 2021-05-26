@@ -1,1 +1,1 @@
-var mnemonic = "liquid harvest firm direct shallow need abuse hurry dove cement fan rival";
+var mnemonic = "search wing nose method coil surge scene excess waste current art consider";

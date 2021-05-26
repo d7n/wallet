@@ -1,1 +1,1 @@
-var mnemonic = "vanish leg hero spring art injury machine ice wire trip ladder enlist";
+var mnemonic = "staff invite vessel danger humble radar mimic goat convince apology cargo defense";

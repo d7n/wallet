@@ -1,1 +1,1 @@
-var mnemonic = "jeans also usage cube solve regular knock famous cigar card fat jewel";
+var mnemonic = "snap toy lens science alter staff amazing catch glove axis tomorrow torch";

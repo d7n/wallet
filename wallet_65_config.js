@@ -1,1 +1,1 @@
-var mnemonic = "raccoon lobster dry cargo spider distance useful trash sudden romance number surge";
+var mnemonic = "cost recipe deposit canoe chat weekend three indicate claw pet diamond young";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil dad window canvas absurd addict report convince oil pulse behave jar";
+var mnemonic = "increase infant frequent oppose rabbit erode hover ecology grief shaft rifle inside";

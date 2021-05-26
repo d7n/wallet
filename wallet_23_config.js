@@ -1,1 +1,1 @@
-var mnemonic = "depend invest senior upon correct echo flip outer industry goose noble stomach";
+var mnemonic = "can topple vanish job thunder flush cheap sell mass appear feed hire";

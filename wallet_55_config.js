@@ -1,1 +1,1 @@
-var mnemonic = "two plastic hello normal normal donate mean sign banana open jazz tattoo";
+var mnemonic = "brown museum cannon phrase stand concert crouch gas hood fragile total extend";

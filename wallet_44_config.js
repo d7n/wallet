@@ -1,1 +1,1 @@
-var mnemonic = "quit opera abstract damp roast gun pattern buzz diagram note affair stomach";
+var mnemonic = "curious arrest again first toward erupt document crunch result garbage attend just";

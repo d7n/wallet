@@ -1,1 +1,1 @@
-var mnemonic = "idea recall sport talk kiwi galaxy blast ask ball excite quick trip";
+var mnemonic = "mandate ostrich thumb fortune major initial alone unable print work country stove";

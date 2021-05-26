@@ -1,1 +1,1 @@
-var mnemonic = "father tuition evoke era twist absent buddy wall dog exist crater energy";
+var mnemonic = "quantum modify combine sorry basket old mobile excite begin rough coyote cook";

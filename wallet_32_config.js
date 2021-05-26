@@ -1,1 +1,1 @@
-var mnemonic = "mouse expire version snow opera cube machine letter cheese pipe such lonely";
+var mnemonic = "soft nose student broccoli artwork wolf impact lonely civil someone forest neglect";

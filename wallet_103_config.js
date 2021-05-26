@@ -1,1 +1,1 @@
-var mnemonic = "hurdle shoot cereal snap must body faculty year hello comfort kit salt";
+var mnemonic = "clock satisfy unfair major celery robot account noodle long arctic dignity enlist";

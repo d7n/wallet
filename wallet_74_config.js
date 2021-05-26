@@ -1,1 +1,1 @@
-var mnemonic = "poet mean bird spider pulse school tenant grow elegant pulse where pig";
+var mnemonic = "crunch suspect arctic decline bone labor issue taxi earn other wedding possible";

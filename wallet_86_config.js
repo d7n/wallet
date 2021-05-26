@@ -1,1 +1,1 @@
-var mnemonic = "paddle word helmet copy juice close pool mom dolphin around actress plug";
+var mnemonic = "purity embody december chair talk climb domain sugar rookie vault lucky crush";

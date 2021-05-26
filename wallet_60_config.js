@@ -1,1 +1,1 @@
-var mnemonic = "assume way put parrot giggle gorilla sadness filter diet jazz bounce agree";
+var mnemonic = "start pipe disorder veteran physical exhibit sponsor inherit issue vessel cannon average";

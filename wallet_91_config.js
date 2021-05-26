@@ -1,1 +1,1 @@
-var mnemonic = "harbor absent fresh ketchup speak before slush trick this chief gloom wreck";
+var mnemonic = "bus rather habit issue super shrimp evoke arrange slam fuel present cause";

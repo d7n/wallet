@@ -1,1 +1,1 @@
-var mnemonic = "rotate image opinion become major under cherry balcony ring atom mystery coil";
+var mnemonic = "staff section swarm noise wall history actress nephew soul cover beyond matter";

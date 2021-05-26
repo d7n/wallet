@@ -1,1 +1,1 @@
-var mnemonic = "second extra toward borrow people clog slogan project family tumble tourist blame";
+var mnemonic = "kiwi rural slice later drill decrease wisdom ladder cram general jaguar work";

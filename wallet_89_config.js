@@ -1,1 +1,1 @@
-var mnemonic = "hub weather menu they child art senior grief depend intact pledge involve";
+var mnemonic = "cement crop fiscal taste attack you sphere brave detect enter citizen index";

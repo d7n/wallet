@@ -1,1 +1,1 @@
-var mnemonic = "often warm margin shaft link insane chaos return benefit volcano suit sponsor";
+var mnemonic = "apart squirrel zero wrestle update thumb remind obtain mushroom fold time zoo";

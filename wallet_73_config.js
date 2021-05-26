@@ -1,1 +1,1 @@
-var mnemonic = "appear peanut pupil pumpkin code wide sad bonus current junk autumn gas";
+var mnemonic = "paper person reunion panther coffee empty swallow soon tray mango motion include";

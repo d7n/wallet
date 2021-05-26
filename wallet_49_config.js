@@ -1,1 +1,1 @@
-var mnemonic = "knee ethics fall drill ostrich tortoise select road volcano march radar finger";
+var mnemonic = "grid favorite uniform milk behind olympic royal educate burger differ hotel slot";

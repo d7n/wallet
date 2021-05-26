@@ -1,1 +1,1 @@
-var mnemonic = "settle couch rug champion raw tree nominee original nothing silver sphere shoulder";
+var mnemonic = "review amazing twelve often advance bronze sustain exchange video try dynamic car";

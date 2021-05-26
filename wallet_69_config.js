@@ -1,1 +1,1 @@
-var mnemonic = "work frog issue leisure reason predict seed funny hurdle project inside bar";
+var mnemonic = "rare link plate exchange tired wing ocean decline trust panda rose hat";

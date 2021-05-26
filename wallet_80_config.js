@@ -1,1 +1,1 @@
-var mnemonic = "oblige inherit tomato express rate into cheese resource fancy cannon pattern shrimp";
+var mnemonic = "margin oyster pretty typical hole bring unveil tackle now robot mansion depend";

@@ -1,1 +1,1 @@
-var mnemonic = "device order resist february between imitate diagram garment because digital bullet path";
+var mnemonic = "belt coyote tide horn machine web ribbon twelve crucial grief high option";

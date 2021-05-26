@@ -1,1 +1,1 @@
-var mnemonic = "shift panic vault dumb arrest casual receive south visual manage unaware zone";
+var mnemonic = "world devote judge naive scrap noble clown wage consider hover guitar gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "atom real verb cigar survey jungle inform primary lazy legal noble nerve";
+var mnemonic = "label relax slice method seat shed exhibit drink pen flush height august";

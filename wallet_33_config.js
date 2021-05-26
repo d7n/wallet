@@ -1,1 +1,1 @@
-var mnemonic = "recycle uniform move today quick design close hard keep east fault name";
+var mnemonic = "exact museum catch say marine style idle ankle armed elder curve cherry";

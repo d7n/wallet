@@ -1,1 +1,1 @@
-var mnemonic = "mushroom quote diamond attitude left rigid orient harbor drive grant subway noise";
+var mnemonic = "rabbit minimum cram gentle hire record dinosaur mom razor swim valley possible";

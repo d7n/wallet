@@ -1,1 +1,1 @@
-var mnemonic = "air nurse furnace march crack stand empty kind fan sadness caught federal";
+var mnemonic = "bulk what add misery main trouble slender always stove help gate will";

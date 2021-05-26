@@ -1,1 +1,1 @@
-var mnemonic = "tuna table sail country flash possible trap carbon spray orphan hole shell";
+var mnemonic = "claw poem annual actual panel stove canvas tattoo unknown boost discover forward";

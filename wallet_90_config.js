@@ -1,1 +1,1 @@
-var mnemonic = "hip pizza talk economy rescue track fortune voice first habit cheese jump";
+var mnemonic = "outside rifle give leg refuse faith reward success live click cry pull";

@@ -1,1 +1,1 @@
-var mnemonic = "practice hungry image just surface mother trigger list olympic common exile access";
+var mnemonic = "circle physical trial burden orbit armor agree vital bomb roof column clap";

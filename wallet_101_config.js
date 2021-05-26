@@ -1,1 +1,1 @@
-var mnemonic = "tribe ride sorry fancy trim cherry poverty key wreck news panic stomach";
+var mnemonic = "speed trip oxygen movie noodle report problem final disease cereal orchard pause";

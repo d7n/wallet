@@ -1,1 +1,1 @@
-var mnemonic = "include distance motor table lounge wrong away menu faint grant when wing";
+var mnemonic = "this tomato like summer fancy list inhale badge crane waste melody detail";

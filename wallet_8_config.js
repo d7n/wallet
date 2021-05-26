@@ -1,1 +1,1 @@
-var mnemonic = "young cart ill basic soon game phrase error ivory prevent radar horse";
+var mnemonic = "rack father glass prison clean canoe praise family assist allow other chair";

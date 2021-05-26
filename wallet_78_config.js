@@ -1,1 +1,1 @@
-var mnemonic = "pluck green raw glide scorpion rookie excuse chest catalog code actor sheriff";
+var mnemonic = "fold height exact hybrid shock result green toward point monitor obtain aunt";

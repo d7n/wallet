@@ -1,1 +1,1 @@
-var mnemonic = "distance harsh maximum lunar path original wage universe chalk cement pact border";
+var mnemonic = "approve disagree attitude visa disagree real pluck undo box layer water tip";

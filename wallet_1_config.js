@@ -1,1 +1,1 @@
-var mnemonic = "diamond ugly museum card verb gossip verb parrot pudding student this acid";
+var mnemonic = "today ski feel truck prosper eyebrow have embark fan insane mistake scorpion";

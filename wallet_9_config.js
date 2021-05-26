@@ -1,1 +1,1 @@
-var mnemonic = "uniform isolate mirror little blur foster myself until major much armor fall";
+var mnemonic = "never swear pupil december stable vote visual unfair town cotton brain hill";

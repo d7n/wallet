@@ -1,1 +1,1 @@
-var mnemonic = "head venture fury abuse naive nation say drop soldier puzzle judge gift";
+var mnemonic = "valve drama elite prosper clinic disagree maximum master aim truck taxi off";

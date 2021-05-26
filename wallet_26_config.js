@@ -1,1 +1,1 @@
-var mnemonic = "empower swallow giggle goat stuff dad luxury blur faith equip annual item";
+var mnemonic = "parrot puzzle device race small feed galaxy hollow miss parade hole crack";

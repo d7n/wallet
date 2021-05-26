@@ -1,1 +1,1 @@
-var mnemonic = "betray tape upon animal sponsor when color enforce crawl globe metal peanut";
+var mnemonic = "nephew outside clap save armed nominee stomach lock smoke cup pride culture";

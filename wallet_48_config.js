@@ -1,1 +1,1 @@
-var mnemonic = "flame stumble fancy crucial provide assist cup foster pool engine song quick";
+var mnemonic = "cricket erosion gather jungle ceiling device field agree ugly zebra clean ticket";

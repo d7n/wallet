@@ -1,1 +1,1 @@
-var mnemonic = "undo consider unlock resist cram ladder trick ranch whisper awake shoulder magnet";
+var mnemonic = "shrug solar injury try congress bag economy turkey tortoise mystery say bone";

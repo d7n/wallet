@@ -1,1 +1,1 @@
-var mnemonic = "pond toy twelve then between action double pass ordinary song walk draft";
+var mnemonic = "eyebrow noise law either human month fence excess total card debate oil";

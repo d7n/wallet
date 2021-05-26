@@ -1,1 +1,1 @@
-var mnemonic = "motor grid artist divide devote when round entire divert prevent pigeon arrow";
+var mnemonic = "knife predict poet grocery sibling oxygen cry reward gospel style achieve breeze";

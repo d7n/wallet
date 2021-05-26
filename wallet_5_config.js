@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog must victory turkey layer latin essay step tenant reveal veteran deer";
+var mnemonic = "view parent awkward humble caught mouse sadness perfect foil symptom sun utility";

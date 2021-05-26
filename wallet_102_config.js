@@ -1,1 +1,1 @@
-var mnemonic = "corn suit inquiry evidence grape divide property black day hamster vessel indoor";
+var mnemonic = "awkward mirror twin danger cheap ability cactus sport pig carry tip text";

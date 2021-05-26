@@ -1,1 +1,1 @@
-var mnemonic = "lounge update timber oppose sting best ozone salon decrease pizza gather transfer";
+var mnemonic = "spray flame conduct explain moon report boss danger vendor fog weather sense";

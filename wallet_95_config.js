@@ -1,1 +1,1 @@
-var mnemonic = "bracket car among detect mistake pyramid icon push mind drift bulk inch";
+var mnemonic = "soldier uncle actor opera token polar logic toast alpha just about gas";

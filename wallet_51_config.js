@@ -1,1 +1,1 @@
-var mnemonic = "busy bracket one offer anchor coil insane spirit assist axis journey together";
+var mnemonic = "entry labor leg bachelor extra panther clinic chief draft apart save grid";

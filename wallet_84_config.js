@@ -1,1 +1,1 @@
-var mnemonic = "arrive clown weapon avoid caught sound plug bird thing drive bring soldier";
+var mnemonic = "voice vicious pond addict unhappy seek rate various seek busy opera hurt";

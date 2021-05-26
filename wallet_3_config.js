@@ -1,1 +1,1 @@
-var mnemonic = "garbage power evolve live village twelve box dirt lazy rib ship sleep";
+var mnemonic = "effort chunk badge garment ranch network pull mask suspect return squeeze noble";

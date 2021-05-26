@@ -1,1 +1,1 @@
-var mnemonic = "crumble feature attack famous tray renew two arena crunch firm staff attract";
+var mnemonic = "swarm noise finger match custom tree bridge rely elevator awesome sure naive";

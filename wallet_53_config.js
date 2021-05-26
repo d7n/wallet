@@ -1,1 +1,1 @@
-var mnemonic = "agree crumble theme deposit real vivid pipe rich joke sample negative tribe";
+var mnemonic = "install wedding strategy crunch shrug ill expect that rate neglect spy cave";

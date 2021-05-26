@@ -1,1 +1,1 @@
-var mnemonic = "scale comfort fiction essence jar reunion chest scrap session help lobster split";
+var mnemonic = "victory dog burst catch year tone mirror grit marble travel size frown";

@@ -1,1 +1,1 @@
-var mnemonic = "man captain bid parent garden buzz worth small cry fossil goose youth";
+var mnemonic = "flip inquiry lawn grocery million rebel fire stay elevator great argue hire";

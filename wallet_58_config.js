@@ -1,1 +1,1 @@
-var mnemonic = "sustain fragile potato street monster wear reopen they catch spice magic foam";
+var mnemonic = "couple device push marble online spawn gossip puzzle endless enlist assume type";

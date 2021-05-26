@@ -1,1 +1,1 @@
-var mnemonic = "viable attract rose material cruel fiscal excite index fetch direct nature sunset";
+var mnemonic = "stuff danger cat monster jealous turkey shuffle capable space argue book nephew";

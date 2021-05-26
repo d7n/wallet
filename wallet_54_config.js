@@ -1,1 +1,1 @@
-var mnemonic = "pluck case produce spend vocal together speak prepare end diet excite car";
+var mnemonic = "retreat like purchase tired open slim expect bitter picnic hundred around home";

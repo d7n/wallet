@@ -1,1 +1,1 @@
-var mnemonic = "claw baby vault stable stable betray visual hen walk since reunion pigeon";
+var mnemonic = "try prepare start quarter tortoise mom census problem fetch nation noble side";

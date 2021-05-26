@@ -1,1 +1,1 @@
-var mnemonic = "toward disagree duty allow okay ice crime chat join toast symbol extra";
+var mnemonic = "dignity system series guard clever attitude duck athlete polar riot senior thrive";

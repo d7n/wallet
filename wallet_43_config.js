@@ -1,1 +1,1 @@
-var mnemonic = "maple dune then merge horn easily minimum owner penalty pitch chapter neck";
+var mnemonic = "card swallow mesh tool margin drop flower address couple inform royal toddler";

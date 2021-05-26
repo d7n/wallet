@@ -1,1 +1,1 @@
-var mnemonic = "scale tumble choose pledge card shrimp same chair toy summer believe hospital";
+var mnemonic = "betray alert electric swap remove before deputy recycle fitness bulb run column";

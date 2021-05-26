@@ -1,1 +1,1 @@
-var mnemonic = "amateur barrel monster erosion crush stone half match yard drop glue lumber";
+var mnemonic = "torch cake priority magnet absorb pizza portion able almost stuff identify arrest";
