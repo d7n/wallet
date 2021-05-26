@@ -1,1 +1,1 @@
-var mnemonic = "tower fantasy fantasy attend feel close release gold figure paper endless focus";
+var mnemonic = "bamboo rocket inherit mule skill choose gesture shaft nice pretty bamboo beef";

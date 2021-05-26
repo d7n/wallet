@@ -1,1 +1,1 @@
-var mnemonic = "beyond initial rescue width scout ignore puppy credit earth nature supreme dress";
+var mnemonic = "focus health humble magic add faint aisle typical ready answer street ability";

@@ -1,1 +1,1 @@
-var mnemonic = "runway donkey inherit source speed stable rookie turkey mad nothing boat come";
+var mnemonic = "spin erase victory wish correct romance twelve thank coast leg require become";

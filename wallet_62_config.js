@@ -1,1 +1,1 @@
-var mnemonic = "quote attack guess car brown review coach hybrid use soap motion scout";
+var mnemonic = "small tooth spell eye object advance vacant motion media clarify airport stereo";

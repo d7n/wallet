@@ -1,1 +1,1 @@
-var mnemonic = "isolate eagle eye marriage useful absorb oval judge often unaware eager burst";
+var mnemonic = "dry mean neck sunny claim fatal hammer disease october lock cloth radar";

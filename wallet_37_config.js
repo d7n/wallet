@@ -1,1 +1,1 @@
-var mnemonic = "neutral coyote aerobic betray acoustic subject sponsor curious visit skirt ski ring";
+var mnemonic = "vague check grab wreck vehicle squeeze work name habit ticket essence jump";

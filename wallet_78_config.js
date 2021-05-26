@@ -1,1 +1,1 @@
-var mnemonic = "toss bonus error ignore cradle chicken street boil orange input render during";
+var mnemonic = "joy economy rice bachelor above tone enemy tell month paper type phone";

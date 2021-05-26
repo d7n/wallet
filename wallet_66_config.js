@@ -1,1 +1,1 @@
-var mnemonic = "ride blast occur turn frost curve reveal caution describe artwork flip ladder";
+var mnemonic = "outer surface wear summer manual aware tobacco ten purse keen bar ask";

@@ -1,1 +1,1 @@
-var mnemonic = "impact chief artwork uniform unique liquid index exist tray split subject tourist";
+var mnemonic = "income bonus primary pool eagle excuse true potato wasp weather prefer blame";

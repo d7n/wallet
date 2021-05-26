@@ -1,1 +1,1 @@
-var mnemonic = "news scan denial print recycle uniform elbow emerge royal model twice blast";
+var mnemonic = "cross peasant bridge giraffe genius grass ahead clarify cream erode book owner";

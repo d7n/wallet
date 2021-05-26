@@ -1,1 +1,1 @@
-var mnemonic = "flower curtain enforce canoe olive guilt tumble oven hedgehog member melt cannon";
+var mnemonic = "master trip fresh immense strategy bunker congress tape trend dynamic stay outside";

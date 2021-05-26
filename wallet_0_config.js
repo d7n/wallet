@@ -1,1 +1,1 @@
-var mnemonic = "table curious walk abstract silent can business wolf spike right invest strategy";
+var mnemonic = "guide spoil critic problem master hood correct economy aim devote expect absent";

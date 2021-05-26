@@ -1,1 +1,1 @@
-var mnemonic = "circle flag twenty twelve begin stem captain ocean ready pepper online industry";
+var mnemonic = "vital price neutral drive prepare noise future defense fiction mail twelve damp";

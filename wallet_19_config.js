@@ -1,1 +1,1 @@
-var mnemonic = "business verify annual muscle thing cupboard horn client relief among clown elegant";
+var mnemonic = "peanut eye jewel wish volcano love woman dilemma faculty capital van brand";

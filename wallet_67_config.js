@@ -1,1 +1,1 @@
-var mnemonic = "garbage afraid mountain crush country lazy priority element camera better inhale cloud";
+var mnemonic = "bronze toilet swap coin audit ladder merry shiver pulp valley liberty roast";

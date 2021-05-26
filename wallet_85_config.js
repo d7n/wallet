@@ -1,1 +1,1 @@
-var mnemonic = "lab top puppy captain property relax squeeze return analyst sort error elbow";
+var mnemonic = "always hidden forget outer soul silk biology snow expire skull connect park";

@@ -1,1 +1,1 @@
-var mnemonic = "iron bone health please dance alpha hollow try own seek shop fragile";
+var mnemonic = "control length below order develop urban grid foil exhaust dragon vicious belt";

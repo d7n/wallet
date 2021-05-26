@@ -1,1 +1,1 @@
-var mnemonic = "glory goat wheel rural market wagon rain equal cause stage scout token";
+var mnemonic = "disorder skate insane salmon require novel trophy enemy noise regret glare shield";

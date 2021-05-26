@@ -1,1 +1,1 @@
-var mnemonic = "core same endless drum habit identify involve state access fork accident equip";
+var mnemonic = "scorpion rigid vital chef yellow traffic stove foil trip birth behind you";

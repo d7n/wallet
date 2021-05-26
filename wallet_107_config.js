@@ -1,1 +1,1 @@
-var mnemonic = "tool brick one can modify human gym ethics van tilt cute spray";
+var mnemonic = "ten damage young gas memory adult coast smooth hundred trumpet recipe filter";

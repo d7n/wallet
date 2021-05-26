@@ -1,1 +1,1 @@
-var mnemonic = "correct junk comic organ swim oblige peanut impact jelly ice pudding sting";
+var mnemonic = "disorder stove market finger bitter demand radar tooth cage note dragon vivid";

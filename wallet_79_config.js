@@ -1,1 +1,1 @@
-var mnemonic = "sight bonus ill book resist extra state wasp banner enforce coconut mother";
+var mnemonic = "online oven wire huge burger ordinary poet board lucky pet motor enhance";

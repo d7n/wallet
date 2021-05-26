@@ -1,1 +1,1 @@
-var mnemonic = "woman bundle away sun airport invite rebuild depart demise shield save frog";
+var mnemonic = "pyramid photo credit album gold mix result join explain gospel vibrant cabin";

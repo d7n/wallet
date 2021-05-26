@@ -1,1 +1,1 @@
-var mnemonic = "bacon shove never enhance cement trial false security deputy upgrade hand exercise";
+var mnemonic = "violin mango sleep bind poverty drink cheese fine spirit pumpkin problem chaos";

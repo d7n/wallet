@@ -1,1 +1,1 @@
-var mnemonic = "news regret symbol resource upgrade concert bulk capital process burger urge blush";
+var mnemonic = "track nice daughter tool inquiry bring timber dust hand prepare intact tool";

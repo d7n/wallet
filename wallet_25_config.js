@@ -1,1 +1,1 @@
-var mnemonic = "knock visit energy album equip tortoise split season orange similar sleep invite";
+var mnemonic = "merry slow bag blade keen dog south ahead neck region patient fashion";

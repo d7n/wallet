@@ -1,1 +1,1 @@
-var mnemonic = "high bamboo guide nothing regret pizza check hedgehog faint token topic agent";
+var mnemonic = "daughter section answer acquire solar sell obvious drop arrange cousin gas leisure";

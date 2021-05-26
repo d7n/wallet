@@ -1,1 +1,1 @@
-var mnemonic = "front mixed retire spider ten august pulp barrel catch column marine live";
+var mnemonic = "stove stumble cross motor arrive ranch burger cause bridge supreme raven junior";

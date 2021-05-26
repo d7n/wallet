@@ -1,1 +1,1 @@
-var mnemonic = "tobacco cargo gather fossil monster hazard depth approve shock hair umbrella cloth";
+var mnemonic = "fury bid victory liquid opera blossom trim ecology current someone brother bitter";

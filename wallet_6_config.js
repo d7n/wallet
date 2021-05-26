@@ -1,1 +1,1 @@
-var mnemonic = "will inflict gaze network swear injury minor rocket country smoke siren deliver";
+var mnemonic = "diesel lyrics truth bundle learn quantum retire turtle sign narrow clever buffalo";

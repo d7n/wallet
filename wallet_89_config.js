@@ -1,1 +1,1 @@
-var mnemonic = "unhappy time wet blade motion nation romance sunny rather rent meadow orange";
+var mnemonic = "sweet price wish decorate sight left buffalo outer bone skin swamp radio";

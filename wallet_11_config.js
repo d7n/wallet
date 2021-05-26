@@ -1,1 +1,1 @@
-var mnemonic = "jazz reject praise animal relief kitten rhythm engine health van shrug core";
+var mnemonic = "auto elephant lens spider auto lab benefit mimic anxiety ecology dignity sport";

@@ -1,1 +1,1 @@
-var mnemonic = "such gaze blue again parent border pact link come target naive crunch";
+var mnemonic = "embrace domain canoe skill joke cloth pelican butter verb choose cannon syrup";

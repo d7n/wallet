@@ -1,1 +1,1 @@
-var mnemonic = "false cream gossip crew wrong puppy wire divide garlic fluid click kiss";
+var mnemonic = "hobby dry dynamic syrup lunar easily skate advice frost brick drive panda";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain unhappy elbow tenant fruit judge film entry equip position either basket";
+var mnemonic = "feed obtain radio wasp pretty brass weapon spin drip behave giraffe voyage";

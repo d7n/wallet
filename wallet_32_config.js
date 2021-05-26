@@ -1,1 +1,1 @@
-var mnemonic = "cash detail stick visual bag salute funny cricket team off below truck";
+var mnemonic = "core become card fiscal uniform pilot often sentence chapter program lake gold";

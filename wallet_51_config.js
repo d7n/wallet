@@ -1,1 +1,1 @@
-var mnemonic = "stock disease frozen town seed audit memory maze earth arm grunt genuine";
+var mnemonic = "kiss grab capable then juice bless galaxy cinnamon two force ginger math";

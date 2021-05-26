@@ -1,1 +1,1 @@
-var mnemonic = "outdoor seat tumble aerobic trust embody cake rug exclude awesome author damp";
+var mnemonic = "thunder ostrich scare neither lonely liquid just milk ice quarter scissors school";

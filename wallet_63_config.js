@@ -1,1 +1,1 @@
-var mnemonic = "cloth super inch render lobster picnic cup clerk warfare token opinion relax";
+var mnemonic = "enough rare delay crunch element mean assist tunnel force spirit twist rule";

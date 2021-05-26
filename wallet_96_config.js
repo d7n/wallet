@@ -1,1 +1,1 @@
-var mnemonic = "ball buyer lucky sock leg axis awesome corn tourist budget isolate amateur";
+var mnemonic = "magnet finish knock fit service two service burst easily tail monster imitate";

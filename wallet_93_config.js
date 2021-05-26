@@ -1,1 +1,1 @@
-var mnemonic = "attack nature tomorrow indicate fun grid visit garbage climb glance fragile easy";
+var mnemonic = "brush hungry siren nature sting reveal tunnel seminar bleak document lemon enhance";

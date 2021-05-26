@@ -1,1 +1,1 @@
-var mnemonic = "turn when knife release eternal coconut permit episode initial among hurt remain";
+var mnemonic = "sting book blue sheriff inform they earth spray misery hedgehog off correct";

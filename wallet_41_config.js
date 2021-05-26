@@ -1,1 +1,1 @@
-var mnemonic = "sphere denial useful decorate mule essay caution creek cousin kit slide attack";
+var mnemonic = "soldier come steel clerk vacuum cheap initial nice lake drill confirm dismiss";

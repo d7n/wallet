@@ -1,1 +1,1 @@
-var mnemonic = "exile crisp armed broccoli boost over tape allow luxury pledge science drill";
+var mnemonic = "rifle clutch tiny will yard gas couch total slow typical panther conduct";

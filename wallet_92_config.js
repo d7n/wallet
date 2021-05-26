@@ -1,1 +1,1 @@
-var mnemonic = "short theory region foster nominee chair shop attack run engine foster talent";
+var mnemonic = "pull green sauce east require mechanic asthma seat crumble garden there warm";

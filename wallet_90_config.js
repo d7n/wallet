@@ -1,1 +1,1 @@
-var mnemonic = "moment add farm network bacon road scrap know cool globe switch coil";
+var mnemonic = "idle minimum quantum surprise live merry avoid van heart melody aisle feature";

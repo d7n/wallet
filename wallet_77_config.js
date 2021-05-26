@@ -1,1 +1,1 @@
-var mnemonic = "gym trial either wet fan divide engine wage post aware hold theme";
+var mnemonic = "glance romance dream critic original swarm arrest genre material mask firm stage";

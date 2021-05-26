@@ -1,1 +1,1 @@
-var mnemonic = "simple retire guide churn opinion cheese length ozone squeeze lamp account edge";
+var mnemonic = "lion upper search hundred panel kidney nerve satisfy trend dirt print boss";

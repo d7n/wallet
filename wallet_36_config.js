@@ -1,1 +1,1 @@
-var mnemonic = "spice coach all attract goddess nose remove early want rotate task panda";
+var mnemonic = "earth garbage fortune focus confirm shaft brick ivory couple young material jewel";

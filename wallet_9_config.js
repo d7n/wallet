@@ -1,1 +1,1 @@
-var mnemonic = "various recipe because imitate defy easily this nose buffalo label song claw";
+var mnemonic = "zero metal check gap choose attract strong metal equal submit stem arch";

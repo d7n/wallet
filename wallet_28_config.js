@@ -1,1 +1,1 @@
-var mnemonic = "coin trust cause mansion film hill normal embody caution royal sail another";
+var mnemonic = "picture buffalo cactus sheriff tube ring goddess guilt father capital green capable";

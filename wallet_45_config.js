@@ -1,1 +1,1 @@
-var mnemonic = "valid arrive knock hand advance potato great eager inherit health nut ice";
+var mnemonic = "insect scare visa fitness capital glow novel soldier gas gown brand stereo";

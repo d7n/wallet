@@ -1,1 +1,1 @@
-var mnemonic = "crater subject select lecture gain apology famous oil option heavy brother video";
+var mnemonic = "aware left fury kick list immune sure acid hole shadow device service";

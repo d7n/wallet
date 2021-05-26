@@ -1,1 +1,1 @@
-var mnemonic = "girl child size cancel model elder night badge armor cupboard stereo work";
+var mnemonic = "three paper stuff denial brick large exit enroll float lumber mention happy";

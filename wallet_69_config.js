@@ -1,1 +1,1 @@
-var mnemonic = "comfort casual wear enable oil hidden leave vintage elegant radar sweet bike";
+var mnemonic = "cloud loop ensure nurse pledge enemy vibrant resource neither sock blood seat";

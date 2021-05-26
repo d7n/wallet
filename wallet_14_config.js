@@ -1,1 +1,1 @@
-var mnemonic = "loud banner plunge update display avoid drastic window reunion satisfy anchor boost";
+var mnemonic = "aerobic envelope lesson elder token endorse novel slow bomb obey few amused";

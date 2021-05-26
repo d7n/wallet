@@ -1,1 +1,1 @@
-var mnemonic = "math infant eager west soon asthma shield peace derive reject method apart";
+var mnemonic = "critic usage bronze gentle broccoli need choice blast main whale sibling black";

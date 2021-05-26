@@ -1,1 +1,1 @@
-var mnemonic = "hurdle minute duck surge crash danger hollow play announce seat glass sheriff";
+var mnemonic = "dad stool cheap connect cause uncle club still hobby brief bachelor tragic";

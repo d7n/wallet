@@ -1,1 +1,1 @@
-var mnemonic = "insect gossip tide smile junior arm together question wolf vehicle scissors upon";
+var mnemonic = "sick narrow wealth scrub stage tuition arrive symbol raccoon live afraid coffee";

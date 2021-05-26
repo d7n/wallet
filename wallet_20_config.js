@@ -1,1 +1,1 @@
-var mnemonic = "april tuna attend index snack use loan roast elbow dog broken space";
+var mnemonic = "reward crew nothing winter cannon fork brand exit scrub involve honey occur";

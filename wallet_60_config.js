@@ -1,1 +1,1 @@
-var mnemonic = "tag fade hello proof ability hospital motor fluid link impose stamp game";
+var mnemonic = "inject ripple crowd liberty start absent easily cannon amused siren use attend";

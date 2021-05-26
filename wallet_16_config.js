@@ -1,1 +1,1 @@
-var mnemonic = "latin income local various trumpet adult crouch urban excite divide predict pact";
+var mnemonic = "hero true main cake injury hurry nice attend prize agent cage mushroom";

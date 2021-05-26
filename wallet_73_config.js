@@ -1,1 +1,1 @@
-var mnemonic = "assault maid educate throw maple apple shaft grow flag promote october noise";
+var mnemonic = "knee arrest canvas people betray sense wait apart island struggle abstract initial";

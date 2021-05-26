@@ -1,1 +1,1 @@
-var mnemonic = "toast piece dawn gesture ramp kitten patrol tenant level market twelve receive";
+var mnemonic = "surface wise churn path safe organ grant brand window face word jazz";

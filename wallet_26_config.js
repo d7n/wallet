@@ -1,1 +1,1 @@
-var mnemonic = "inch theme much next wrap buddy property transfer exchange armed canvas deputy";
+var mnemonic = "lazy delay bicycle seven vicious wet sail elephant hospital decade segment slight";

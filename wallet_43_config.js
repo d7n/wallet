@@ -1,1 +1,1 @@
-var mnemonic = "spike gym subway rich slush girl ship what panic strong phrase razor";
+var mnemonic = "apart famous mistake ensure afraid frog define denial cube spirit away affair";

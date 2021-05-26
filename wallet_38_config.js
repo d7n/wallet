@@ -1,1 +1,1 @@
-var mnemonic = "jaguar actress neither saddle duty proof measure balcony pull crash region tongue";
+var mnemonic = "crucial bright summer corn dinosaur shrug lumber reward blood remind spell subway";

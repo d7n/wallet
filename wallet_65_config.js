@@ -1,1 +1,1 @@
-var mnemonic = "truth mind below yard kingdom hurdle record flavor sausage rely bunker idea";
+var mnemonic = "stool image crush federal bachelor combine work never plate share lawn rhythm";

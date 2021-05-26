@@ -1,1 +1,1 @@
-var mnemonic = "polar fruit common visit furnace treat width spatial motion lake boost bean";
+var mnemonic = "second lava copper giraffe struggle doll mandate visit good simple reason three";

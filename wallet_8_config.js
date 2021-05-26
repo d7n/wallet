@@ -1,1 +1,1 @@
-var mnemonic = "marble dose stand all teach rocket question wing debris try announce improve";
+var mnemonic = "casino uncle word sight weather travel still winner sudden disease tourist double";

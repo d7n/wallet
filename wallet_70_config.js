@@ -1,1 +1,1 @@
-var mnemonic = "drive strong slim cruise ski idle gallery supreme quote kingdom palm soft";
+var mnemonic = "device cake similar dinner maximum mixture elephant prevent source sweet congress legal";

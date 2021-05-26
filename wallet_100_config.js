@@ -1,1 +1,1 @@
-var mnemonic = "zoo elevator sure mansion property fetch vendor stone insane matrix limb knee";
+var mnemonic = "remind silent assume hockey legal mother nothing tissue rotate flip perfect claim";

@@ -1,1 +1,1 @@
-var mnemonic = "domain mention gadget wheat idea skull voice pact vital giraffe ritual teach";
+var mnemonic = "become notice century fabric height pizza used model punch tag minimum sell";

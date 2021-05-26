@@ -1,1 +1,1 @@
-var mnemonic = "around author argue zero delay doctor census maid useless bicycle evolve total";
+var mnemonic = "oak fit sunset excuse mountain robust glue another stamp history inhale cupboard";

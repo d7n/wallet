@@ -1,1 +1,1 @@
-var mnemonic = "scare truth dust give assume match life gentle connect card under enforce";
+var mnemonic = "arctic dial car inhale pair novel height pear waste buyer glass guilt";

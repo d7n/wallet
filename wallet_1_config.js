@@ -1,1 +1,1 @@
-var mnemonic = "cycle winter smile garbage uniform release filter jelly nature true sure tide";
+var mnemonic = "napkin razor shop cool spread sword law arrow blanket state movie picture";

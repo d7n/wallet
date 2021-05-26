@@ -1,1 +1,1 @@
-var mnemonic = "ankle left absurd member crowd inspire lunch attack wool analyst sand develop";
+var mnemonic = "spell pride almost rifle flee open sentence arch nest clump outer join";

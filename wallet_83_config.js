@@ -1,1 +1,1 @@
-var mnemonic = "defense toy cabbage grape embody car produce oppose chalk bench rack glove";
+var mnemonic = "three addict wrestle fever length fall improve cave idle decorate lonely insane";

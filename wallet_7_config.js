@@ -1,1 +1,1 @@
-var mnemonic = "hip arrow crumble render roast govern icon rely settle bacon luxury economy";
+var mnemonic = "expect nuclear pelican boring error metal emotion try census silver zebra shield";

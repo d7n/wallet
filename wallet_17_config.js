@@ -1,1 +1,1 @@
-var mnemonic = "robust drastic carpet become about cloud main portion release tragic air rich";
+var mnemonic = "surface quarter sadness pioneer multiply claw cost lunar victory arrive wrist rate";

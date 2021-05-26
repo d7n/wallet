@@ -1,1 +1,1 @@
-var mnemonic = "supply blast ancient affair pair invest hood illness goat joke notice aim";
+var mnemonic = "liquid grace salt document essay margin pretty bomb another escape raw unique";

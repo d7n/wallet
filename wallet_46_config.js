@@ -1,1 +1,1 @@
-var mnemonic = "speed owner plate lend page grain leaf spirit eyebrow tip rose torch";
+var mnemonic = "exchange clerk screen tortoise outer inform what gate fluid brand super giggle";

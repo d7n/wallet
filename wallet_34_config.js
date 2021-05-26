@@ -1,1 +1,1 @@
-var mnemonic = "omit hip inform paper various face cinnamon toddler shop arrive chat pudding";
+var mnemonic = "leisure depart happy helmet junior eyebrow kingdom pact doll often gaze edit";

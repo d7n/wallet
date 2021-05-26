@@ -1,1 +1,1 @@
-var mnemonic = "final float festival pencil possible spell olympic fold nerve seven favorite tone";
+var mnemonic = "wisdom approve payment delay pig square forget doctor shove volume help hood";

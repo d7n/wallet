@@ -1,1 +1,1 @@
-var mnemonic = "cancel canoe then survey survey amused hope install solve follow snake engage";
+var mnemonic = "curious tornado maze also ship spare flee fever fatigue wedding blind connect";

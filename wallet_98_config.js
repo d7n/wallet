@@ -1,1 +1,1 @@
-var mnemonic = "erupt renew memory fault lyrics win also life blouse exist design remain";
+var mnemonic = "deliver silent green usage fitness shaft silver reveal rule sphere siege buyer";

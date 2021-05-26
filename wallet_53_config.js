@@ -1,1 +1,1 @@
-var mnemonic = "rent push six quit fiction pause fringe payment club hunt usage long";
+var mnemonic = "panel hockey beauty doctor horse nurse ginger airport frame vivid strike globe";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit useful enrich ceiling smoke receive casino horn flame crazy menu town";
+var mnemonic = "rib once food true hill jaguar maple foot crowd such begin bundle";

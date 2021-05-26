@@ -1,1 +1,1 @@
-var mnemonic = "violin wine please swallow oyster daring civil month old friend aware demand";
+var mnemonic = "secret switch style snow scorpion culture wash route common adult fatal budget";

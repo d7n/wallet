@@ -1,1 +1,1 @@
-var mnemonic = "matrix sort peasant inject ladder bonus bundle fiber toast engage weird tonight";
+var mnemonic = "dutch learn chapter almost soap inspire warfare dash warrior depart decorate spend";

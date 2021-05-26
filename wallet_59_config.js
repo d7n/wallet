@@ -1,1 +1,1 @@
-var mnemonic = "clean protect tide transfer swear two child satisfy length suspect alpha kick";
+var mnemonic = "wreck feel perfect leisure joke hollow dirt pulse host eager base slight";

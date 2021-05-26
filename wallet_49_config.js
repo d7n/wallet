@@ -1,1 +1,1 @@
-var mnemonic = "girl carbon joy ancient scrub click stuff bone thumb observe injury rely";
+var mnemonic = "avocado amazing thrive tube perfect engine rapid daring employ capital orient quantum";
