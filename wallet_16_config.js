@@ -1,1 +1,1 @@
-var mnemonic = "leader scale system frog pact morning palm cannon fee source error analyst";
+var mnemonic = "razor impact brain ladder width symbol toddler notice collect excuse element cage";

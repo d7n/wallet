@@ -1,1 +1,1 @@
-var mnemonic = "elevator defy analyst radar attitude message ridge syrup suit note special mean";
+var mnemonic = "private salmon climb tray february behind coyote crew issue auto resist join";

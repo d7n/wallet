@@ -1,1 +1,1 @@
-var mnemonic = "whale public wrong swamp front reason nature trap vintage gesture cost coach";
+var mnemonic = "boy syrup brick income fatigue wink finger network news news elevator argue";

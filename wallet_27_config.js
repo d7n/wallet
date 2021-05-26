@@ -1,1 +1,1 @@
-var mnemonic = "raccoon hover cotton syrup online laptop race convince hockey short theme soccer";
+var mnemonic = "crisp ostrich drop cliff inherit asthma pepper chapter arrange siege decide pave";

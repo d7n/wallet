@@ -1,1 +1,1 @@
-var mnemonic = "volcano advice bridge coil maid travel attend room able blue mother dentist";
+var mnemonic = "file decrease announce shift because cupboard identify benefit impulse episode disagree shy";

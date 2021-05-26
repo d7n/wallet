@@ -1,1 +1,1 @@
-var mnemonic = "swamp polar describe february fatal settle grief tuition solution wait local enemy";
+var mnemonic = "left illegal find fault design bread garlic demand music pioneer example garbage";

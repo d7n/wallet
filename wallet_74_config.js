@@ -1,1 +1,1 @@
-var mnemonic = "trip gap author lake someone now oil jazz silent shallow initial say";
+var mnemonic = "tribe lunch convince jump orchard notable cannon that divide weird hover culture";

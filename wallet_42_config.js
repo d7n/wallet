@@ -1,1 +1,1 @@
-var mnemonic = "purchase guitar poverty subject verify inch business brave copy illness unlock bus";
+var mnemonic = "occur body scan napkin erode pig cycle hedgehog shoe weasel air credit";

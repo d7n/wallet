@@ -1,1 +1,1 @@
-var mnemonic = "interest physical barrel open crater lonely number suspect exercise hawk shift soda";
+var mnemonic = "budget range curtain wealth divert skill island upgrade stadium carry trial shoe";

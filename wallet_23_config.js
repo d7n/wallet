@@ -1,1 +1,1 @@
-var mnemonic = "win never nerve spice eight milk salad problem next luxury vacuum summer";
+var mnemonic = "artefact gun drop saddle upset fever federal typical garment service symptom point";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist glide much grit essence dash whisper camp document hidden casino nominee";
+var mnemonic = "consider spoon motion right film gloom brother visa twice catalog token early";

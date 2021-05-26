@@ -1,1 +1,1 @@
-var mnemonic = "this rose announce same security worth weapon coin alarm mercy scrap impose";
+var mnemonic = "west thunder power churn marine bleak derive anxiety visual mosquito borrow cushion";

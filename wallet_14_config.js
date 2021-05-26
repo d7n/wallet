@@ -1,1 +1,1 @@
-var mnemonic = "today december glimpse demand rookie hungry alert easily picture arena result figure";
+var mnemonic = "boat toss brass repeat universe eight that spend tuna stool engine catalog";

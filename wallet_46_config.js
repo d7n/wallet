@@ -1,1 +1,1 @@
-var mnemonic = "chair sustain run brother caught depend priority reunion scale health edit protect";
+var mnemonic = "burden lyrics license plunge loyal cruel stove cry awake swing woman brass";

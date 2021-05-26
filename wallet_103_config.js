@@ -1,1 +1,1 @@
-var mnemonic = "traffic tribe mother tourist correct shiver inmate relax usage gentle whisper budget";
+var mnemonic = "spoon float tattoo boy onion manual output shoulder tumble report merit stuff";

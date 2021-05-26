@@ -1,1 +1,1 @@
-var mnemonic = "stereo knock such milk tortoise increase solution shuffle world shine doctor owner";
+var mnemonic = "neutral embody kid trophy across pipe belt maximum exhibit step thank rough";

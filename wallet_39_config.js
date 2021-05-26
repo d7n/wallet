@@ -1,1 +1,1 @@
-var mnemonic = "animal angle utility scorpion century refuse slot relief easy discover ordinary spare";
+var mnemonic = "bracket wash place behind satoshi text error benefit wrong turn rice ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "upon flight reject orange boat treat humor hamster camera radar replace nest";
+var mnemonic = "arctic help possible bronze mixture truth wing power infant kangaroo stumble increase";

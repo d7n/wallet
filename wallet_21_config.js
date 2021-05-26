@@ -1,1 +1,1 @@
-var mnemonic = "urban grass gaze jazz erupt coin tape dentist inner drastic sign trigger";
+var mnemonic = "wire argue robot client tenant melt viable wife chronic often fluid pet";

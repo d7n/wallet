@@ -1,1 +1,1 @@
-var mnemonic = "length display canoe sadness say random clever giggle forward oil ugly around";
+var mnemonic = "cheese length quiz raven foam rent mosquito patrol ghost lyrics creek secret";

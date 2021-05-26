@@ -1,1 +1,1 @@
-var mnemonic = "repair vendor behind autumn away swamp turn float jacket record ship access";
+var mnemonic = "sun treat exotic buzz portion elegant problem ankle runway toddler shuffle guard";

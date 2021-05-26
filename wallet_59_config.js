@@ -1,1 +1,1 @@
-var mnemonic = "waste chuckle image frog cheese erode swarm month urge gospel unhappy include";
+var mnemonic = "design music unique earn jump hobby solve spread patrol corn route curve";

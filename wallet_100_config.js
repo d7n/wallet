@@ -1,1 +1,1 @@
-var mnemonic = "hen insane patch size erode crater business front effort immense divert crush";
+var mnemonic = "dish girl please suit primary scissors grunt space depart curtain blanket burger";

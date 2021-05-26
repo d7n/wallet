@@ -1,1 +1,1 @@
-var mnemonic = "history reason either embrace absent can art denial ugly act rain brush";
+var mnemonic = "meat box prefer tail twin return sunset people pupil educate misery renew";

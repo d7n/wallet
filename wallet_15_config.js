@@ -1,1 +1,1 @@
-var mnemonic = "journey garment diamond share this prepare effort siren custom young symbol area";
+var mnemonic = "answer soul enrich acoustic rebel forward split village lunar rare rose east";

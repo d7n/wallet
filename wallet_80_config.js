@@ -1,1 +1,1 @@
-var mnemonic = "hub trumpet bleak reunion bid home friend range because art blast able";
+var mnemonic = "link review insane believe egg wait print daring prepare jaguar maid kind";

@@ -1,1 +1,1 @@
-var mnemonic = "wall case weird jacket hello stumble unlock stand grace traffic beef plug";
+var mnemonic = "borrow weather smart rebuild solve link mistake census despair mushroom engine road";

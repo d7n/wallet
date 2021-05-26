@@ -1,1 +1,1 @@
-var mnemonic = "faculty slender simple fly dumb mistake toward cook panel guitar system mind";
+var mnemonic = "brother friend attract sting example error error fox possible develop moon clean";

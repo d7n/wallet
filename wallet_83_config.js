@@ -1,1 +1,1 @@
-var mnemonic = "cereal blind state diamond tiger junior fiscal raven work village grocery rescue";
+var mnemonic = "angle tail benefit stool recipe calm catalog empty you virus fiber find";

@@ -1,1 +1,1 @@
-var mnemonic = "copper one law elegant post finish flower lawsuit between final twelve addict";
+var mnemonic = "allow throw museum relax win fruit vapor spatial spin child damage jewel";

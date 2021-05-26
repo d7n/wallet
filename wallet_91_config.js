@@ -1,1 +1,1 @@
-var mnemonic = "bacon rescue exhaust alpha leopard machine crash pact extra history morning whisper";
+var mnemonic = "avocado powder advice domain talk farm able merry lens naive vehicle six";

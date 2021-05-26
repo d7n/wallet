@@ -1,1 +1,1 @@
-var mnemonic = "inner place silent behind joy smooth erode insect youth field omit tuition";
+var mnemonic = "lemon sell diary scan speak funny similar victory theory load appear inherit";

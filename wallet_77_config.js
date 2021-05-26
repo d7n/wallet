@@ -1,1 +1,1 @@
-var mnemonic = "photo teach dinosaur barrel settle moon snap toe long supreme degree sustain";
+var mnemonic = "avoid goddess nation use crop cluster forest romance roast vague life organ";

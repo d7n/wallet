@@ -1,1 +1,1 @@
-var mnemonic = "vicious village fade title gather hockey install crop measure inhale ethics satisfy";
+var mnemonic = "solar sing couple idea patrol another choose large rent vapor collect message";

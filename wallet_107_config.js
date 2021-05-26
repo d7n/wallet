@@ -1,1 +1,1 @@
-var mnemonic = "blood misery moon color cement neither use property exchange begin smart velvet";
+var mnemonic = "chase say focus apple uncover sunset draft erase rhythm funny cloth lumber";

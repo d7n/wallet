@@ -1,1 +1,1 @@
-var mnemonic = "tape relief trim turkey govern seven response hood stereo stomach atom chunk";
+var mnemonic = "blossom mechanic slight exotic notable elder humor embrace portion company badge oblige";

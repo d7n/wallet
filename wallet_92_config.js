@@ -1,1 +1,1 @@
-var mnemonic = "stairs fame merry begin hover deliver detail slight off february mean creek";
+var mnemonic = "holiday elbow yellow move pitch duty girl fringe stay culture knock dismiss";

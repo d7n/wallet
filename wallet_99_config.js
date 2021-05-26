@@ -1,1 +1,1 @@
-var mnemonic = "chicken twelve because shuffle still utility egg wave pretty egg teach trade";
+var mnemonic = "middle brick door place diet account media blame umbrella behind practice lecture";

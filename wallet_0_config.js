@@ -1,1 +1,1 @@
-var mnemonic = "viable capital skull another shoulder immense fancy usage board oil start tissue";
+var mnemonic = "victory educate fancy toe scrap admit away fitness once gasp prize whip";

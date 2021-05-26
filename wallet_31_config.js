@@ -1,1 +1,1 @@
-var mnemonic = "system salon exotic dry crawl script universe capable moral brave hero kitchen";
+var mnemonic = "genius become vocal inspire kiwi rich extra engine hamster rule addict cigar";

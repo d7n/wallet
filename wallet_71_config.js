@@ -1,1 +1,1 @@
-var mnemonic = "analyst pill young cricket immune describe mechanic plate laundry vote manual junk";
+var mnemonic = "unlock rabbit wrap blanket series learn island negative prefer tuition love right";

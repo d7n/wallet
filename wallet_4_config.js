@@ -1,1 +1,1 @@
-var mnemonic = "slender swim erode inherit cabbage dress hold rebuild tomorrow crime shell grant";
+var mnemonic = "noble frown leader runway degree pact same hotel limit host immense canvas";

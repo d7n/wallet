@@ -1,1 +1,1 @@
-var mnemonic = "invest short trouble coach embrace wing creek resource culture suit blue like";
+var mnemonic = "scene march focus pull pioneer poem invite enact noise enroll spawn unusual";

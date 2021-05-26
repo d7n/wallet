@@ -1,1 +1,1 @@
-var mnemonic = "distance frog moon shoulder daring fluid blue issue vanish pattern betray trash";
+var mnemonic = "link cube reason gaze man tower great toilet first cake local access";

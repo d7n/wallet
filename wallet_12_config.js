@@ -1,1 +1,1 @@
-var mnemonic = "iron pony nest this method diesel cloth space replace camp health brisk";
+var mnemonic = "about aspect ozone play piece trap caught drill anger horror junior letter";

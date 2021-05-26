@@ -1,1 +1,1 @@
-var mnemonic = "reward cart elevator mandate rather put cliff tooth all define scare crucial";
+var mnemonic = "rotate trip monster foil work cherry sound bird knock asthma phrase caught";

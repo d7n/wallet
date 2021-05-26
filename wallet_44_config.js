@@ -1,1 +1,1 @@
-var mnemonic = "high chief issue neck drop travel case oven detect acid mail stereo";
+var mnemonic = "age lyrics unit moon item film oblige laundry rib brave pen sibling";

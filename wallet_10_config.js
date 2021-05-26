@@ -1,1 +1,1 @@
-var mnemonic = "state bunker mystery icon unveil identify certain wrap tomorrow speed still motion";
+var mnemonic = "position health toy spot broccoli believe wheat tobacco message lounge sweet science";

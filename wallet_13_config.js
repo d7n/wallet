@@ -1,1 +1,1 @@
-var mnemonic = "act author vibrant term infant emotion sibling priority scatter bullet arrange stem";
+var mnemonic = "jacket vacuum reunion rare hockey grape video light fuel fold chunk season";

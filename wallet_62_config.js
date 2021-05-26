@@ -1,1 +1,1 @@
-var mnemonic = "addict near session ocean holiday inch dice hold anxiety express film dove";
+var mnemonic = "timber nature category piece try gossip unfair mystery cushion donkey gas stomach";

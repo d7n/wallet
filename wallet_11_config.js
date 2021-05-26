@@ -1,1 +1,1 @@
-var mnemonic = "achieve nose village lake punch card vessel fat firm shadow tobacco useless";
+var mnemonic = "stairs hen doctor vast luggage real pioneer high dose extra device inform";

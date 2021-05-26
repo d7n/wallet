@@ -1,1 +1,1 @@
-var mnemonic = "stick oil health maple view group dirt present pyramid talent lawn play";
+var mnemonic = "neck sausage regret salon video quarter scrap motion donkey digital public allow";

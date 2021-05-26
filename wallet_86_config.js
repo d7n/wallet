@@ -1,1 +1,1 @@
-var mnemonic = "reason diagram butter muffin ocean merge drift infant retire inquiry rapid victory";
+var mnemonic = "glow load april economy cannon fatal worry reject jump kid review penalty";

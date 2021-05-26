@@ -1,1 +1,1 @@
-var mnemonic = "truck cushion candy business cream duty network dash series govern bless merry";
+var mnemonic = "help tree orphan canoe carpet vault match fit grow offer ordinary obey";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant skate film gold despair hat shield boat flip denial lucky funny";
+var mnemonic = "display minimum wrap bench thrive lawn fluid anger chunk almost message mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "desert miss engage wreck devote gaze inquiry spatial isolate episode diagram fog";
+var mnemonic = "punch choose tribe broccoli family trumpet inject cash banana direct fruit enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm deny laundry sketch wrong ask arrow suspect cloud electric material right";
+var mnemonic = "fitness inmate viable devote spread pigeon coral inform oppose nominee grunt this";

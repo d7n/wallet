@@ -1,1 +1,1 @@
-var mnemonic = "long job increase rail load uniform mutual either surge admit company depart";
+var mnemonic = "fatal upgrade chalk pepper side blind mansion wall baby category earn you";

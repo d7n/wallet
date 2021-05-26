@@ -1,1 +1,1 @@
-var mnemonic = "fantasy section top patch view wash forget term lunch group claim combine";
+var mnemonic = "exact scale announce top hamster bundle tattoo pipe source joke bird slice";

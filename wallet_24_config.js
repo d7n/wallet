@@ -1,1 +1,1 @@
-var mnemonic = "summer pitch amateur bounce cage ugly palm injury legend cement brief monkey";
+var mnemonic = "risk vacant dress august youth alpha crew hard sight hill drum powder";

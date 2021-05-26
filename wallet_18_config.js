@@ -1,1 +1,1 @@
-var mnemonic = "perfect stick rubber ivory jazz grow trick veteran winter buyer jewel stone";
+var mnemonic = "gaze brass purpose chase float alarm pigeon kiss busy brand maple butter";

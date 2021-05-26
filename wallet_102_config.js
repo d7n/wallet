@@ -1,1 +1,1 @@
-var mnemonic = "scare palace hand gym panel spring write diary critic acquire quantum credit";
+var mnemonic = "slow burger hire journey base hair gym hurt bacon drip paper cover";

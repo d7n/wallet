@@ -1,1 +1,1 @@
-var mnemonic = "echo member crystal derive victory engage fly camera floor firm ordinary motor";
+var mnemonic = "visual race twist tone artefact ability common huge that gain run dose";

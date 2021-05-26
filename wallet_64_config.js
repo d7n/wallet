@@ -1,1 +1,1 @@
-var mnemonic = "chef viable actress whisper tray average vintage economy okay duck cement vital";
+var mnemonic = "jump prefer dawn raven such between pull robust only push voice equal";

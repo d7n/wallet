@@ -1,1 +1,1 @@
-var mnemonic = "elevator account solve physical soldier describe flock mercy various patch chef latin";
+var mnemonic = "brave gift ostrich explain section vendor palm dwarf vacant episode base foil";

@@ -1,1 +1,1 @@
-var mnemonic = "parade donkey good defy december garbage athlete favorite narrow panic stem clever";
+var mnemonic = "submit pet lumber whale glove soldier alley property stone punch radio member";

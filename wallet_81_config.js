@@ -1,1 +1,1 @@
-var mnemonic = "rain people attack boil payment term learn document card step slot pluck";
+var mnemonic = "dance level chalk color grant muscle lumber just armed salon spot life";

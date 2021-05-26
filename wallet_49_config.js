@@ -1,1 +1,1 @@
-var mnemonic = "motion amount job bar math iron crush rude under burst term copper";
+var mnemonic = "country trouble asset input tone mango multiply brick clean bomb room alien";

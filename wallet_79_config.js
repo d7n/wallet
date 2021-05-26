@@ -1,1 +1,1 @@
-var mnemonic = "bench equal attitude submit horn post original chair push sand ensure local";
+var mnemonic = "pioneer divide pyramid robot cloud enact intact loud marriage whisper donate desert";

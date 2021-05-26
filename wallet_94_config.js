@@ -1,1 +1,1 @@
-var mnemonic = "gold misery boat foster debate kick morning ugly liberty idle boring firm";
+var mnemonic = "indoor grow robot eager churn asset armor someone mention giant feature vault";

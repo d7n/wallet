@@ -1,1 +1,1 @@
-var mnemonic = "mean material length define ripple truth access race tired drink junior solid";
+var mnemonic = "melt nurse split label ivory rubber velvet beyond garlic between oven flat";

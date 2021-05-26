@@ -1,1 +1,1 @@
-var mnemonic = "eternal express system woman wagon hello tuition borrow vault unaware box material";
+var mnemonic = "resource dress cube ten limb path baby donate foster heavy benefit fiber";

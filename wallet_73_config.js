@@ -1,1 +1,1 @@
-var mnemonic = "capital drill hedgehog crane long false brisk daughter shrimp funny route scout";
+var mnemonic = "match holiday regret flush negative vessel produce horror jaguar fine hockey catalog";

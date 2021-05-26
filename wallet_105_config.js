@@ -1,1 +1,1 @@
-var mnemonic = "artefact sort pause mule very sponsor tribe outer blast team hospital diesel";
+var mnemonic = "machine clerk trouble capable primary reduce alert sniff quit toward section order";

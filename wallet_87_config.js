@@ -1,1 +1,1 @@
-var mnemonic = "scan cupboard immense daring match midnight glue delay category way stomach hood";
+var mnemonic = "artefact cave pet wasp night flat flush charge apart nuclear beauty sword";

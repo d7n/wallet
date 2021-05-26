@@ -1,1 +1,1 @@
-var mnemonic = "pipe attack favorite inspire liquid body youth bless amazing fuel invest hole";
+var mnemonic = "picnic response chunk cheese truck album such buddy code common poverty thunder";

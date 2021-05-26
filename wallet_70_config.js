@@ -1,1 +1,1 @@
-var mnemonic = "slight manual work feature issue cream scorpion crystal antique embrace vehicle orbit";
+var mnemonic = "visual valid ghost hospital promote luggage panther horse extend horn unfold fragile";

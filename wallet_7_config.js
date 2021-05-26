@@ -1,1 +1,1 @@
-var mnemonic = "silver range defense cousin monster pen original net spring awesome tortoise message";
+var mnemonic = "glance require dress benefit enemy near bullet drift must together find stuff";

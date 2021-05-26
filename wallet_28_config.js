@@ -1,1 +1,1 @@
-var mnemonic = "scissors world search next engage try broom panda rely waste wrist mean";
+var mnemonic = "wise prevent cry receive approve car purity green whip element today void";

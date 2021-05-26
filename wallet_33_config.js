@@ -1,1 +1,1 @@
-var mnemonic = "unable regular always empower ice sadness pelican salt fragile enact mouse woman";
+var mnemonic = "scatter hip razor ticket thing acoustic cave buddy olive price dutch play";

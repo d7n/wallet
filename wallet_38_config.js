@@ -1,1 +1,1 @@
-var mnemonic = "atom when crumble roast turkey include cruel acoustic forum bounce slot bitter";
+var mnemonic = "win sibling catalog pipe slight reopen tooth unaware genre grab eager illegal";

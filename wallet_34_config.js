@@ -1,1 +1,1 @@
-var mnemonic = "wage rotate another away scrap puzzle behave agent try speed kid rookie";
+var mnemonic = "world same airport concert naive album lesson say rocket bone path alert";

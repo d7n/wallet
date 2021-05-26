@@ -1,1 +1,1 @@
-var mnemonic = "captain stamp tone disagree bronze pet fee poet huge normal walk deposit";
+var mnemonic = "galaxy warm useful unique tip total alien keen tone honey sheriff point";

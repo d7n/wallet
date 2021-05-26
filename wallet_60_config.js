@@ -1,1 +1,1 @@
-var mnemonic = "space sight crush deny innocent leisure motion acid blossom tornado hood frequent";
+var mnemonic = "coffee battle tumble leg casino foot monkey bird fever stage sunset milk";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle unaware erupt attract similar devote empower avocado lemon legal split indicate";
+var mnemonic = "siege seed gospel canal abuse tape second grief region uphold inform access";

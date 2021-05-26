@@ -1,1 +1,1 @@
-var mnemonic = "high tide awkward tourist minimum innocent physical note style fork sad push";
+var mnemonic = "cliff tongue speak tobacco nurse increase must spray purpose steel fiber tongue";

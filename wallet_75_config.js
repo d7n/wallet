@@ -1,1 +1,1 @@
-var mnemonic = "problem laptop client smooth safe soccer limit cotton endorse response rude pilot";
+var mnemonic = "release imitate keen abuse loop tuna title chat spider arm rapid group";

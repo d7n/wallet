@@ -1,1 +1,1 @@
-var mnemonic = "crowd fame street move focus print scene minor fold soup coast alpha";
+var mnemonic = "differ execute hurry neutral amount actual toward bacon hood spot magic issue";

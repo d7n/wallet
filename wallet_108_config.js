@@ -1,1 +1,1 @@
-var mnemonic = "aspect soda trend siren arrange vital state inquiry trophy tent share soft";
+var mnemonic = "sponsor benefit mind coyote crystal forum option proof consider keep possible despair";

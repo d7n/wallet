@@ -1,1 +1,1 @@
-var mnemonic = "frozen abstract brave vast embark cannon verb trend thunder manage girl first";
+var mnemonic = "scare vocal describe evoke engine inflict fragile plate birth company crop ceiling";
