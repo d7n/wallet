@@ -1,1 +1,1 @@
-var mnemonic = "ticket excess bid satoshi animal debate mention gap practice series such jealous";
+var mnemonic = "humble blur fiscal report friend august clarify example violin globe cry salmon";

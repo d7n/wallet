@@ -1,1 +1,1 @@
-var mnemonic = "buddy head second shine neither giggle prevent home wash wagon mad naive";
+var mnemonic = "enroll rebuild clap burst club connect swallow language repeat wish tonight tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "wash program ride that firm potato once parrot light match tomato grace";
+var mnemonic = "hedgehog great orbit office install city staff minor icon grant toilet huge";

@@ -1,1 +1,1 @@
-var mnemonic = "drop fitness nice okay spot gold legend pudding paddle soldier plug predict";
+var mnemonic = "average cover risk dash deal wide pencil train tattoo badge august like";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin much cat divorce island lyrics eyebrow team trade cage drum evidence";
+var mnemonic = "payment ahead antique daughter wall nominee grief lady inform air title salute";

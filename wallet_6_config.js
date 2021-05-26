@@ -1,1 +1,1 @@
-var mnemonic = "clinic nasty attend close message mosquito retreat wedding hello motor symbol visa";
+var mnemonic = "below main source dwarf six jungle fork easily winner goat cheap acoustic";

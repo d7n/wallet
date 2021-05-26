@@ -1,1 +1,1 @@
-var mnemonic = "dice budget spin panel dish few harvest blind icon certain junior rose";
+var mnemonic = "grace buddy fever put harsh neglect embody start combine science pelican giggle";

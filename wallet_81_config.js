@@ -1,1 +1,1 @@
-var mnemonic = "trip advice execute panel upset sick next animal jacket dad tumble key";
+var mnemonic = "tape certain soda one can act cabin dilemma shiver thumb grid country";

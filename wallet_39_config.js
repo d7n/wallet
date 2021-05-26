@@ -1,1 +1,1 @@
-var mnemonic = "include myth crowd dry error spring video cluster fossil table toy patch";
+var mnemonic = "collect that hobby top finger increase home clip enhance current word sport";

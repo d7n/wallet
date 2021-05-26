@@ -1,1 +1,1 @@
-var mnemonic = "dress dish stove era dinosaur cave trap fiber enact live wet under";
+var mnemonic = "era eight again face online toward output empty degree cash member kiss";

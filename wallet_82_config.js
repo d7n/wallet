@@ -1,1 +1,1 @@
-var mnemonic = "toss neither execute law assist head castle smoke exchange typical wise omit";
+var mnemonic = "divorce poverty help small punch bird resemble market middle team can cancel";

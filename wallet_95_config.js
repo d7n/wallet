@@ -1,1 +1,1 @@
-var mnemonic = "heavy pudding cement blur sentence demand beyond shove better speed symptom champion";
+var mnemonic = "tower brown shield arrange sheriff skill inject true actress video twenty three";

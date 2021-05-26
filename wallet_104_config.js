@@ -1,1 +1,1 @@
-var mnemonic = "toward path screen talent cancel laundry park sport success hotel indoor slam";
+var mnemonic = "tissue alcohol spot riot ask velvet portion gather dove seminar average street";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion buddy grab enhance humble dress short assist spoon meadow worry tunnel";
+var mnemonic = "blue wrist canyon advice summer client gadget arrange urban absorb screen emotion";

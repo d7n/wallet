@@ -1,1 +1,1 @@
-var mnemonic = "giant muscle weather language view chalk emotion online color ten ocean bronze";
+var mnemonic = "else inmate slam switch gown bounce agent feed february cluster timber total";

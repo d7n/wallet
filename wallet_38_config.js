@@ -1,1 +1,1 @@
-var mnemonic = "gentle child aisle outer judge cancel educate chronic live visa flavor utility";
+var mnemonic = "put amateur oyster immune wonder crime notice shrug space under flag meat";

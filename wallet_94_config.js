@@ -1,1 +1,1 @@
-var mnemonic = "cotton focus rifle chest whale clock file satoshi escape vehicle blouse front";
+var mnemonic = "seven turtle zero injury little demise track erosion pelican immune normal pattern";

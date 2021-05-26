@@ -1,1 +1,1 @@
-var mnemonic = "motion cheap drastic injury online federal bullet talent cover desk slush among";
+var mnemonic = "tube rich boil eye settle price depart riot fever place summer wrist";

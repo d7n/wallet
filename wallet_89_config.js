@@ -1,1 +1,1 @@
-var mnemonic = "prison scene ketchup dove potato thank toddler siren twenty hold donate team";
+var mnemonic = "glory divide utility write shiver type traffic riot top slogan city retreat";

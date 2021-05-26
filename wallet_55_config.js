@@ -1,1 +1,1 @@
-var mnemonic = "tone know occur credit stairs limit any pig kitchen awkward grunt become";
+var mnemonic = "chest festival visa mesh sustain silly spot bronze final relax bright rapid";

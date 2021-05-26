@@ -1,1 +1,1 @@
-var mnemonic = "sketch stairs napkin valve people future survey about canal cereal describe island";
+var mnemonic = "mouse oil dragon together faint extra hockey foot trophy lonely derive potato";

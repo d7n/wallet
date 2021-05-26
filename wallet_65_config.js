@@ -1,1 +1,1 @@
-var mnemonic = "loyal news rural small pupil provide weather ridge rude what enforce someone";
+var mnemonic = "emotion obvious leave purpose balance journey adjust away strike firm dynamic file";

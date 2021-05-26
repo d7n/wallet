@@ -1,1 +1,1 @@
-var mnemonic = "shop boost dinosaur pioneer crew fog aware hill desk apart minute abuse";
+var mnemonic = "excite cereal diagram worth execute isolate special laugh keep segment reward identify";

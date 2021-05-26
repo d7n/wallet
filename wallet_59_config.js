@@ -1,1 +1,1 @@
-var mnemonic = "shaft vessel limb item glow snack range zoo impulse best become below";
+var mnemonic = "capital hill chuckle clay conduct hollow carpet gossip abstract destroy bean dress";

@@ -1,1 +1,1 @@
-var mnemonic = "never letter still tourist equal apology cabbage verb ethics guide vote void";
+var mnemonic = "forest praise junk group target human elbow egg vintage amused sphere arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle flag void pelican today cotton royal apology youth various dutch chapter";
+var mnemonic = "sadness shadow solid fiscal uncle develop judge fringe learn clip trend couple";

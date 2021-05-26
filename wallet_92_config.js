@@ -1,1 +1,1 @@
-var mnemonic = "story mom utility word sponsor original cage regular chief gorilla stool track";
+var mnemonic = "harbor jacket hope sport case blue school scan debris spice proud wine";

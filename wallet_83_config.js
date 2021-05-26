@@ -1,1 +1,1 @@
-var mnemonic = "basket air february tree solution tank shallow input magnet acoustic file guess";
+var mnemonic = "twenty fruit foster pen mention few across globe effort receive neither antenna";

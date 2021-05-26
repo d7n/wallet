@@ -1,1 +1,1 @@
-var mnemonic = "element method museum trumpet pistol alert unit just various throw shed audit";
+var mnemonic = "offer angry wage thank logic feel arrange melt round bulb dutch alien";

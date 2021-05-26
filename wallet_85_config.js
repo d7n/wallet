@@ -1,1 +1,1 @@
-var mnemonic = "fury traffic barely impulse stem raccoon saddle only afraid plunge tired comic";
+var mnemonic = "web just myself useful crater focus predict gesture regular increase wire symptom";

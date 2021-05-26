@@ -1,1 +1,1 @@
-var mnemonic = "spawn sun have club double barely slam middle execute candy foil verb";
+var mnemonic = "clever barrel brother bundle sting fashion hunt unlock consider tide crumble pond";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy anchor green giggle kidney copper bulb feed fitness notice cement meadow";
+var mnemonic = "mad absurd more noise expect sense glimpse universe erase quit suit shock";

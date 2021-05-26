@@ -1,1 +1,1 @@
-var mnemonic = "churn laugh float text hip warrior wear current load guard garage face";
+var mnemonic = "shed sunny large together lamp bench river lesson drastic left still return";

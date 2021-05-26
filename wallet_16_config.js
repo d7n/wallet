@@ -1,1 +1,1 @@
-var mnemonic = "jaguar youth poem ladder behave camera before account cause vapor slim legal";
+var mnemonic = "rhythm cruel ribbon avoid april walnut brother average little duty crystal nerve";

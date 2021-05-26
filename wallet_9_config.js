@@ -1,1 +1,1 @@
-var mnemonic = "marble able favorite boss teach drive face spirit foster kite autumn lock";
+var mnemonic = "bulb twin amazing claw false alone dice lend soul hood dizzy casual";

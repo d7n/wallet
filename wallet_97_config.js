@@ -1,1 +1,1 @@
-var mnemonic = "glory shadow spoil imitate pill health end betray inform woman discover mail";
+var mnemonic = "inmate neglect faint stool glide kite picnic exact spy adult laundry radar";

@@ -1,1 +1,1 @@
-var mnemonic = "this lend unveil label glare enhance party nerve stem boil fox vital";
+var mnemonic = "slam where repair robust wide sadness rival wait any debris edit jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "era behind indoor exhibit lucky much net drama attitude rubber inside pause";
+var mnemonic = "orchard fat nerve core deal dove body endless remember multiply advance victory";

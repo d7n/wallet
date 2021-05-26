@@ -1,1 +1,1 @@
-var mnemonic = "donor one other marble canal act frog orphan found refuse blush valve";
+var mnemonic = "shrimp drastic hospital session color faith hen garbage legal age dismiss media";

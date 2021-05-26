@@ -1,1 +1,1 @@
-var mnemonic = "render nation bracket wool brain inhale lyrics load fatal logic exchange yard";
+var mnemonic = "giant hover mosquito album add grant buffalo actress audit silk nuclear rib";

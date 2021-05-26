@@ -1,1 +1,1 @@
-var mnemonic = "slush artist syrup clever recipe owner tell jar deposit inmate lake release";
+var mnemonic = "barrel cool menu slim barely state multiply buzz december initial badge artist";

@@ -1,1 +1,1 @@
-var mnemonic = "result any banana cradle shoe common churn worry envelope crowd dove impose";
+var mnemonic = "squirrel believe nut rack oppose garage toy gravity welcome luxury puppy wheel";

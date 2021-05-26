@@ -1,1 +1,1 @@
-var mnemonic = "horror easy fossil depend inhale unique carpet answer imitate twelve loop emerge";
+var mnemonic = "equal turn vicious green clean finish manage stand praise response below pipe";

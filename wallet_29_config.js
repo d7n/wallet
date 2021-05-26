@@ -1,1 +1,1 @@
-var mnemonic = "pilot height fire clown lecture tower coach real room sphere play double";
+var mnemonic = "simple primary time poem best fine fresh liquid symbol hood sleep pass";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe sentence believe focus all movie sail season supreme scatter device welcome";
+var mnemonic = "thank degree senior return blind sadness top quantum daring kitten absent zero";

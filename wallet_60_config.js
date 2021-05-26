@@ -1,1 +1,1 @@
-var mnemonic = "picture avocado guard outer click joy honey decrease actor swamp about spend";
+var mnemonic = "latin camp hospital spray pulse crumble warm orbit blood mobile canvas swamp";

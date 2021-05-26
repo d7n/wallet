@@ -1,1 +1,1 @@
-var mnemonic = "snack era hero toward secret enhance fiscal echo nuclear crumble danger audit";
+var mnemonic = "decorate grow neutral barrel oppose fluid emotion fine cupboard degree crash history";

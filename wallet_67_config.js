@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow abstract inner session cave chest flower name limit donor carry arrow";
+var mnemonic = "alter result system hand major before flavor advance slender clean awesome office";

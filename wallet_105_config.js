@@ -1,1 +1,1 @@
-var mnemonic = "shoe across sort confirm also play mail ride poem across ladder absurd";
+var mnemonic = "divide exist fabric business exit mushroom captain imitate ostrich siren equip dove";

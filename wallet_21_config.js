@@ -1,1 +1,1 @@
-var mnemonic = "define bargain live benefit draft fashion giraffe open deal satisfy oil coil";
+var mnemonic = "speak palm sign fame crew tribe receive vacuum sphere fantasy life attend";

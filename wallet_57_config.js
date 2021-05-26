@@ -1,1 +1,1 @@
-var mnemonic = "foot train ability wave tube carpet fall dial ride shell room equip";
+var mnemonic = "awful give radio ankle sudden shift mouse limb isolate submit trust brain";

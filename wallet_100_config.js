@@ -1,1 +1,1 @@
-var mnemonic = "brass that refuse humble animal small energy deposit clerk wish hair tape";
+var mnemonic = "pipe tennis churn juice illness farm east girl force sail sister museum";

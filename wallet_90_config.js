@@ -1,1 +1,1 @@
-var mnemonic = "scan boost enjoy distance puzzle carry sweet chapter car sniff educate accident";
+var mnemonic = "curious raise client cotton poverty behind strike salt theory obvious mind patient";

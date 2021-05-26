@@ -1,1 +1,1 @@
-var mnemonic = "chase mass actress drama absurd rabbit main clerk cash ill cereal click";
+var mnemonic = "review place keep little figure wife lumber describe spread clip demand brisk";

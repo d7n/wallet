@@ -1,1 +1,1 @@
-var mnemonic = "rent cluster oven control own surprise clinic icon soda ring seat trouble";
+var mnemonic = "exist deer mango shift swap tail business edit over year release aim";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain wink unusual say man naive pen eight public romance eight situate";
+var mnemonic = "glue output situate wheel excite rubber circle match year busy coffee reason";

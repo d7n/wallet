@@ -1,1 +1,1 @@
-var mnemonic = "round mosquito powder end mail always retreat flush already vapor ability upper";
+var mnemonic = "moment trade busy moment install hurdle question clog cotton mystery famous rare";

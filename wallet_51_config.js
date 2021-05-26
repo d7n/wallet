@@ -1,1 +1,1 @@
-var mnemonic = "expand pistol cook flag round tell jeans welcome equal one uncle cushion";
+var mnemonic = "tumble canal hunt tunnel picture original frost super unlock abstract extra basket";

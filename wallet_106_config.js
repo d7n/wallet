@@ -1,1 +1,1 @@
-var mnemonic = "banner grit lucky duty weasel airport flavor juice crowd error oblige wise";
+var mnemonic = "real bonus van drink toe cliff gold gloom find catalog iron amazing";

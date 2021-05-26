@@ -1,1 +1,1 @@
-var mnemonic = "cup subway sphere pelican usage claim fatigue wreck renew friend frozen erode";
+var mnemonic = "fog awake amazing reward dune stock boy idea action common flower silver";

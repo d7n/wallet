@@ -1,1 +1,1 @@
-var mnemonic = "mail inspire finish upon balance climb return airport album april actual nice";
+var mnemonic = "rather identify equal lake solution antenna clog throw wolf bus rally river";

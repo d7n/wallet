@@ -1,1 +1,1 @@
-var mnemonic = "gentle diesel danger profit deal rookie accident deny domain diary shop loan";
+var mnemonic = "company about crew civil silent result agent pair acquire melody family capital";

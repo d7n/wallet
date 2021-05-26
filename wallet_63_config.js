@@ -1,1 +1,1 @@
-var mnemonic = "boost betray time purchase inmate honey acoustic weekend glance problem fade tide";
+var mnemonic = "they income lava ribbon six scan expand cable quiz dash because try";

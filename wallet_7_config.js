@@ -1,1 +1,1 @@
-var mnemonic = "asthma rich purpose category source fiscal play throw village syrup normal horn";
+var mnemonic = "taste horn coconut base airport evolve lemon modify target team vivid grace";

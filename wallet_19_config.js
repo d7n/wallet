@@ -1,1 +1,1 @@
-var mnemonic = "student salute will say tape pulse traffic cube math pear dice water";
+var mnemonic = "harvest december palace fashion dizzy ghost voice diamond arrange moment guilt dizzy";

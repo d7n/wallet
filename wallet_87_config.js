@@ -1,1 +1,1 @@
-var mnemonic = "library play federal allow position surface wet spare online scrap mention shoe";
+var mnemonic = "suit hungry ecology drastic fame move team term erase riot imitate helmet";

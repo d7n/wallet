@@ -1,1 +1,1 @@
-var mnemonic = "embrace father child rely worry add current august youth know eyebrow tumble";
+var mnemonic = "want endorse away assume total swim that size good sad husband rebel";

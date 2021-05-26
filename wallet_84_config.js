@@ -1,1 +1,1 @@
-var mnemonic = "post apart mad monitor blame bid cruise sunny side already review aerobic";
+var mnemonic = "giraffe recall flavor olive destroy end vague merry sick ocean better mistake";

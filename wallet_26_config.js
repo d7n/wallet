@@ -1,1 +1,1 @@
-var mnemonic = "until scene tube assist buyer scan fish clip hour craft pitch circle";
+var mnemonic = "erosion junk hedgehog inch stereo milk give will kid lounge tape spell";

@@ -1,1 +1,1 @@
-var mnemonic = "approve require claw soccer indoor couch globe usage ivory scene powder bitter";
+var mnemonic = "sister practice stamp property earn couple accident remain barely motion raw health";

@@ -1,1 +1,1 @@
-var mnemonic = "cross miss report mixed odor mixture excuse candy wage conduct tent roof";
+var mnemonic = "age split office coast case inject pipe anxiety venture certain chest artefact";

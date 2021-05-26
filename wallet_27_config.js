@@ -1,1 +1,1 @@
-var mnemonic = "benefit brown kind dinner okay enjoy result blur primary give wreck stem";
+var mnemonic = "fault mechanic inflict audit kit rescue lawsuit symbol faculty album relax idea";

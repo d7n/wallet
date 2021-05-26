@@ -1,1 +1,1 @@
-var mnemonic = "hint special coil trouble garlic call furnace account display favorite retire alert";
+var mnemonic = "allow later praise image curious people scorpion camera proof tumble code snake";

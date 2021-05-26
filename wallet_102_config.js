@@ -1,1 +1,1 @@
-var mnemonic = "spy lab foster slogan tag riot around train icon edit issue flip";
+var mnemonic = "suit motion country fork stand all gadget humble wage slogan atom invite";

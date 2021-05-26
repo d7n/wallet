@@ -1,1 +1,1 @@
-var mnemonic = "normal hold scale tumble lobster please razor evidence cable season soldier flag";
+var mnemonic = "sea fly collect orchard they kiss lawn truck behind acoustic replace talent";

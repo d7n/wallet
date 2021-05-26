@@ -1,1 +1,1 @@
-var mnemonic = "canoe cliff shiver north disorder glow walk web opera smooth lecture fat";
+var mnemonic = "neutral gain outdoor maid trash paddle egg head gauge afraid unusual cream";

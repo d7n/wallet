@@ -1,1 +1,1 @@
-var mnemonic = "reward flavor spend now whip health service anger profit school soup mind";
+var mnemonic = "output leg royal crush escape artefact public cycle only appear reflect cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "help reform machine siren evidence despair there tomato devote coin vital vehicle";
+var mnemonic = "eight stock approve wheat common toilet scan mechanic catalog garden card tent";

@@ -1,1 +1,1 @@
-var mnemonic = "where weekend income tooth mother glove element glass slight talent multiply height";
+var mnemonic = "melt warrior prison figure height two fury pizza area canal potato spice";

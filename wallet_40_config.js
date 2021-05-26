@@ -1,1 +1,1 @@
-var mnemonic = "smile rhythm water sun clip fortune sadness license cupboard wood define sweet";
+var mnemonic = "lesson question when fade shaft decide top jacket tennis high captain grid";

@@ -1,1 +1,1 @@
-var mnemonic = "reject humor dirt swallow flock saddle wet hobby step execute vicious aerobic";
+var mnemonic = "damage disorder lounge engine hero empower love powder source soldier fiction spawn";

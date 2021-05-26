@@ -1,1 +1,1 @@
-var mnemonic = "material spin decorate notable crew jazz garlic bunker enlist audit taxi lake";
+var mnemonic = "sock engage unaware lecture hood ice brush ride kidney easy sign oven";
