@@ -1,1 +1,1 @@
-var mnemonic = "like cluster hero need cigar spare nation elevator february party cycle bomb";
+var mnemonic = "rebuild bid piece banana blue special popular luxury guess stool item insane";

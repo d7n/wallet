@@ -1,1 +1,1 @@
-var mnemonic = "success leisure clerk scissors march forest actress equip large myth plastic fame";
+var mnemonic = "dress current young churn walk rude logic family crunch jacket climb address";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge basket belt strong silent shoe universe fuel this farm venue dynamic";
+var mnemonic = "naive caught liberty lion chief upon habit meat lend glad neutral diesel";

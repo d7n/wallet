@@ -1,1 +1,1 @@
-var mnemonic = "age tail garment make turtle upper goat obvious unfair proud spray promote";
+var mnemonic = "robot laundry young human fury case elbow stamp moment buzz nuclear heavy";

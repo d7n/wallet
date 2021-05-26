@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur file plug insane mammal common knife inmate curve citizen picnic tiger";
+var mnemonic = "pause profit since reason town wrestle main brother math tissue art good";

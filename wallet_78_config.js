@@ -1,1 +1,1 @@
-var mnemonic = "marriage royal unaware seek legal black funny elegant medal renew design beyond";
+var mnemonic = "adapt frozen dynamic rice hand brain thrive ceiling bomb book reject bronze";

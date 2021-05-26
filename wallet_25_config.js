@@ -1,1 +1,1 @@
-var mnemonic = "bicycle oyster sauce start resist steel topple category strategy expose unusual into";
+var mnemonic = "later fossil radio robust lonely page sand width pottery gas blanket tattoo";

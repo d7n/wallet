@@ -1,1 +1,1 @@
-var mnemonic = "powder target miss hard alarm gasp response vault athlete luxury foil elite";
+var mnemonic = "note lounge barely space copy wool lemon peanut genuine twin soccer require";

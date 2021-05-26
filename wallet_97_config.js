@@ -1,1 +1,1 @@
-var mnemonic = "type parrot off ten runway february better tower bulb dog before caution";
+var mnemonic = "leader harsh place train note option net unique grid earn perfect unique";

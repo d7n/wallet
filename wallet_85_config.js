@@ -1,1 +1,1 @@
-var mnemonic = "clean brick never foam room soldier pet solve wisdom stem east awkward";
+var mnemonic = "subway output bundle broccoli census educate upper loyal tiger pole round vicious";

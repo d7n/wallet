@@ -1,1 +1,1 @@
-var mnemonic = "aunt debate strong dignity worry glad absent clarify yellow debris spike awesome";
+var mnemonic = "ridge imitate ginger mention inject lunch use language salt pulp chaos walnut";

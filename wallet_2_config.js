@@ -1,1 +1,1 @@
-var mnemonic = "sudden matrix liberty gesture shock capital search relax column dial tobacco soon";
+var mnemonic = "lottery hard human wink initial weasel pioneer grunt pet embody slow public";

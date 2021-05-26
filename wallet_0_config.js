@@ -1,1 +1,1 @@
-var mnemonic = "hill rely ignore vocal dignity load umbrella basket connect affair decline crunch";
+var mnemonic = "journey swallow hood vote jump garment bone camp endorse rigid pole marine";

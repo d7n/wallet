@@ -1,1 +1,1 @@
-var mnemonic = "tenant very mass style sauce cave increase beyond humor future cup coil";
+var mnemonic = "involve make robust region wealth cattle wear trap parent corn current matrix";

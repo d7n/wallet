@@ -1,1 +1,1 @@
-var mnemonic = "ocean average popular result girl alcohol truth raven layer camp ten ranch";
+var mnemonic = "force lazy swift dose repeat spring build mean excite door sentence pudding";

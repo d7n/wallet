@@ -1,1 +1,1 @@
-var mnemonic = "cushion verify chef subject proud mansion put quantum human chunk assume marriage";
+var mnemonic = "dilemma until online orchard canyon above indoor end mercy fish output kiss";

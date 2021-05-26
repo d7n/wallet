@@ -1,1 +1,1 @@
-var mnemonic = "about online defy abstract peace round bicycle science drum learn alcohol evil";
+var mnemonic = "describe equal rail liar effort chase vessel claw source used knife faith";

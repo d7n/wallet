@@ -1,1 +1,1 @@
-var mnemonic = "swap wire garment bundle insect jealous concert napkin match segment honey dust";
+var mnemonic = "fashion lift obscure tide safe joy icon hybrid object grace excite agree";

@@ -1,1 +1,1 @@
-var mnemonic = "edge spoon height bachelor nation diary ten explain garage jelly puzzle mask";
+var mnemonic = "behind leopard then meat upper decade live various capable casino subway luxury";

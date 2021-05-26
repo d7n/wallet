@@ -1,1 +1,1 @@
-var mnemonic = "collect sad friend welcome owner expose orphan wet kite turtle river tent";
+var mnemonic = "admit indoor border scissors afford churn resemble false upper together man kiss";

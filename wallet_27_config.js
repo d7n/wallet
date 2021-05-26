@@ -1,1 +1,1 @@
-var mnemonic = "tenant saddle educate year supply undo path bicycle garden find together fog";
+var mnemonic = "comfort reopen cost mansion resemble indicate barely success parent mercy treat rain";

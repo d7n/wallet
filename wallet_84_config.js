@@ -1,1 +1,1 @@
-var mnemonic = "aim doll merge comic rice picnic track erosion shoe social news foot";
+var mnemonic = "symbol else ghost craft tuition regular convince main view jar payment fat";

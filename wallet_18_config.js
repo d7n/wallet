@@ -1,1 +1,1 @@
-var mnemonic = "roof fiber away slab legend head oak gauge wave galaxy slide twist";
+var mnemonic = "rib hen twist swamp much elevator good shrimp order coyote strike tired";

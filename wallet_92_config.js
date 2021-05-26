@@ -1,1 +1,1 @@
-var mnemonic = "want upset hill ice town impulse denial dial obscure sweet capable stem";
+var mnemonic = "anchor mention fancy carbon ready usage maple truly meat axis clutch daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "ski oxygen tissue repeat genuine chef keep index measure welcome trip layer";
+var mnemonic = "deposit eyebrow horn airport chunk drive eyebrow torch immune latin deposit cluster";

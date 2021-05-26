@@ -1,1 +1,1 @@
-var mnemonic = "piece range congress pair arrest palm skirt found sail capital humor gadget";
+var mnemonic = "rocket bomb cloud false fury gentle fatal filter dwarf aisle above already";

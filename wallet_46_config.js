@@ -1,1 +1,1 @@
-var mnemonic = "traffic that erase dish base motion bind time island upper medal stone";
+var mnemonic = "speed rebuild predict switch actual sausage dish rack eight real outside intact";

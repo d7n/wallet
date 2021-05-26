@@ -1,1 +1,1 @@
-var mnemonic = "ring admit pool foil explain tray stuff fruit record uniform foam budget";
+var mnemonic = "junk move runway novel hobby that fabric distance flower nest baby trophy";

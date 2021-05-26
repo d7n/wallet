@@ -1,1 +1,1 @@
-var mnemonic = "region course green age yard stool huge panda title awful wage promote";
+var mnemonic = "wreck defy stand width company globe wood castle worry twenty speak stool";

@@ -1,1 +1,1 @@
-var mnemonic = "finish permit tattoo sausage robot artist timber then pig smoke caution infant";
+var mnemonic = "three vessel drive vacuum midnight time render barrel extend tired pizza upper";

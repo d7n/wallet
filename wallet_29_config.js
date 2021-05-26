@@ -1,1 +1,1 @@
-var mnemonic = "canvas goddess position tuition device abuse glad window debate throw robot modify";
+var mnemonic = "refuse hawk worry celery spare excess hair life owner shine dance hospital";

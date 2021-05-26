@@ -1,1 +1,1 @@
-var mnemonic = "aerobic prevent green silent maple asthma gather soup card either route buffalo";
+var mnemonic = "grab gaze pelican pumpkin organ foster bridge speak eternal cable lunar elder";

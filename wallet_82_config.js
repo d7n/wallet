@@ -1,1 +1,1 @@
-var mnemonic = "route calm suggest tower abstract lake wash census brave mom cigar regular";
+var mnemonic = "tornado artist device mouse mandate company asset rough escape glass kit tower";

@@ -1,1 +1,1 @@
-var mnemonic = "tip envelope destroy donor equip actual winner spot nothing virus luxury master";
+var mnemonic = "pen jewel patient salad siege spell taste want destroy swap advance eternal";

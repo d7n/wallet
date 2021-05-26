@@ -1,1 +1,1 @@
-var mnemonic = "skull bacon bunker blouse stomach exclude capital kangaroo dove comic track monitor";
+var mnemonic = "fossil exist cement verify ability all forget praise fold urge dune bargain";

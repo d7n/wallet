@@ -1,1 +1,1 @@
-var mnemonic = "absurd gentle patrol sun company planet walk maple shock stone mother move";
+var mnemonic = "same edit subject object debate act oven total minor treat small device";

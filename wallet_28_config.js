@@ -1,1 +1,1 @@
-var mnemonic = "miss city guide knife obey this brief slender flag traffic guitar crack";
+var mnemonic = "local blouse accuse process sadness jazz horn such rib mosquito noodle pen";

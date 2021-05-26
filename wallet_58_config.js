@@ -1,1 +1,1 @@
-var mnemonic = "lounge pig figure hand slow amount fan north print ask aware burst";
+var mnemonic = "soft absorb scorpion spoon rookie moral alone country patient clip tobacco whale";

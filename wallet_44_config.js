@@ -1,1 +1,1 @@
-var mnemonic = "walk bacon tomorrow help soul buffalo feed vast lady column prize raven";
+var mnemonic = "uniform alien tooth toast helmet reflect artwork battle patient clay mad celery";

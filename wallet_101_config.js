@@ -1,1 +1,1 @@
-var mnemonic = "mouse fan rug cancel aware truly polar hello visual evoke level tank";
+var mnemonic = "obvious fade slide retire gun library ship mail february soda hub public";

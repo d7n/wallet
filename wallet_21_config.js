@@ -1,1 +1,1 @@
-var mnemonic = "zero sorry flame power reward snack exhibit episode alien patch warm document";
+var mnemonic = "person easily state airport install float frost furnace web bamboo grief carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "noise avoid outer tip where gossip twist cycle remain busy tragic because";
+var mnemonic = "conduct achieve tag mix picnic sight elegant olive caution cage umbrella canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial black purchase immense once toast give chaos hurt boring fine round";
+var mnemonic = "outer bronze apart narrow manage depend fame door wet erase evil victory";

@@ -1,1 +1,1 @@
-var mnemonic = "net property seven economy badge swarm garden rather summer half double valve";
+var mnemonic = "degree walnut suit tobacco seek endless fiction warm decorate strike review direct";

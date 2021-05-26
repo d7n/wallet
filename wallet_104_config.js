@@ -1,1 +1,1 @@
-var mnemonic = "yard prevent brush enjoy machine arrive raise anchor cabin buddy wink frown";
+var mnemonic = "day tuna radio orbit pride bus mask claw message other again tomorrow";

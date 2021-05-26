@@ -1,1 +1,1 @@
-var mnemonic = "million cinnamon they globe stamp yellow annual become ability much change bamboo";
+var mnemonic = "march scheme announce sing honey mixed upper misery sunny bomb convince style";

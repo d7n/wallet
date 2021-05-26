@@ -1,1 +1,1 @@
-var mnemonic = "early photo accuse settle length donor kick business accuse glory group body";
+var mnemonic = "actor solid genre ship uniform loop orient candy strong film dish eight";

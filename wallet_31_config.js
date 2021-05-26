@@ -1,1 +1,1 @@
-var mnemonic = "wing armed super tortoise oppose shell glare climb slot manage uncle fancy";
+var mnemonic = "sock useful lumber hurt minute behind maximum funny eternal other vacant purchase";

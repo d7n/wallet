@@ -1,1 +1,1 @@
-var mnemonic = "surface april pond stick abandon adjust close wonder pigeon letter bundle project";
+var mnemonic = "pulse frown fog position deer banner urban tourist release ozone rail broccoli";

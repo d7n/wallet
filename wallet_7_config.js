@@ -1,1 +1,1 @@
-var mnemonic = "permit comfort proof bench all bullet improve sand parent predict second brain";
+var mnemonic = "jewel over inside tomorrow abstract salt cattle oblige sentence hire guide actual";

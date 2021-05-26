@@ -1,1 +1,1 @@
-var mnemonic = "job between coffee one member wine soda total way width hollow expire";
+var mnemonic = "fall today wonder illegal glance nut crime mistake upgrade true road local";

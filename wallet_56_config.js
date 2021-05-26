@@ -1,1 +1,1 @@
-var mnemonic = "estate document lawsuit wink language power claim face neck broom lazy vapor";
+var mnemonic = "craft entry flower square giant promote dilemma person ability vault cluster sword";

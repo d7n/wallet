@@ -1,1 +1,1 @@
-var mnemonic = "hope suffer spend lady canvas vendor accuse concert army dynamic device valid";
+var mnemonic = "swift leopard dilemma little cattle motion knife wild pride alter spot hurry";

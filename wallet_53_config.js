@@ -1,1 +1,1 @@
-var mnemonic = "whip hat february credit author exercise father script figure ranch stairs sunset";
+var mnemonic = "race walnut hip sorry unhappy verb mass resemble cake asset edit narrow";

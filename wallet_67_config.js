@@ -1,1 +1,1 @@
-var mnemonic = "sand remove pull exotic wonder client security planet culture edge flight universe";
+var mnemonic = "diesel drink spice ill follow soft useful weather push carpet lounge loud";

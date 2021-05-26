@@ -1,1 +1,1 @@
-var mnemonic = "pulse all limit pass wedding security friend oil grain surprise track super";
+var mnemonic = "final input canal book afford famous nephew author width soda today source";

@@ -1,1 +1,1 @@
-var mnemonic = "again license orphan strong payment punch surprise spare deer essay dream gift";
+var mnemonic = "farm sudden jewel layer happy razor business river add hockey deer coral";

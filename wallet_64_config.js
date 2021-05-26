@@ -1,1 +1,1 @@
-var mnemonic = "second try ship abandon bullet pistol power original south glare sing inform";
+var mnemonic = "later vapor fire spirit grant book orange fog major leisure segment green";

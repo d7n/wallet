@@ -1,1 +1,1 @@
-var mnemonic = "thank broken lab escape alpha rifle squeeze atom title family category flee";
+var mnemonic = "work adjust exist intact ecology then enjoy hurdle glimpse tuition wait demise";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade cousin glove box junior evil jaguar poverty season job attend logic";
+var mnemonic = "nest unusual section dynamic honey dust sort goat glance dinosaur scorpion prosper";

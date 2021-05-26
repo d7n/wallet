@@ -1,1 +1,1 @@
-var mnemonic = "push differ clay shoe young rebel trade genre option thunder alcohol december";
+var mnemonic = "mass shuffle mechanic never brave draw october orbit scene use toss climb";

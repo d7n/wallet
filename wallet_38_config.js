@@ -1,1 +1,1 @@
-var mnemonic = "gown creek nuclear basic orient category emotion occur siege phrase sport family";
+var mnemonic = "stem day dash twist mosquito prepare equip struggle harbor ladder slide gloom";

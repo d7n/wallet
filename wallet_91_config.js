@@ -1,1 +1,1 @@
-var mnemonic = "wise correct balcony spatial choose basic kidney oyster borrow want later judge";
+var mnemonic = "maple faith simple bench please ranch cinnamon minimum near aunt ship powder";

@@ -1,1 +1,1 @@
-var mnemonic = "next pave catch puzzle hotel scissors shove heavy become chase oppose abuse";
+var mnemonic = "impose measure clip during caution evil daughter mushroom ridge sugar tank outer";

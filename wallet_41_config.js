@@ -1,1 +1,1 @@
-var mnemonic = "travel scissors almost metal scare exile eye off gather crime atom angry";
+var mnemonic = "sheriff right vote ignore place purpose pitch oyster swamp street settle roof";

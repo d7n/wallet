@@ -1,1 +1,1 @@
-var mnemonic = "scare acid bicycle mistake artist penalty stadium comfort toilet topic snack battle";
+var mnemonic = "duty loyal veteran general negative bacon illness lounge hint photo grief cheap";

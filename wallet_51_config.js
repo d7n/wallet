@@ -1,1 +1,1 @@
-var mnemonic = "jungle review stay athlete slot impulse casual skate tooth fever ancient pumpkin";
+var mnemonic = "twist pretty evoke shift daughter banner glove topple reform shrimp leaf injury";

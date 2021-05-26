@@ -1,1 +1,1 @@
-var mnemonic = "galaxy truly clown rent purchase issue normal lens tree primary expand carry";
+var mnemonic = "turkey repeat prison hair jump already afford banner indicate funny unaware quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "index ring donor hair excite humor brick biology believe atom garlic cherry";
+var mnemonic = "shaft north olympic scheme number grass goose dance pumpkin cactus roof exit";

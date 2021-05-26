@@ -1,1 +1,1 @@
-var mnemonic = "math tongue faculty hybrid fatigue vibrant scorpion blade level loan neck symbol";
+var mnemonic = "capable input kiwi square reveal trade dish easy fitness exist hat parade";

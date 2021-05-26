@@ -1,1 +1,1 @@
-var mnemonic = "fetch differ later reform book arrow fitness pool gain drastic chicken zebra";
+var mnemonic = "artist uncover exile south please multiply shuffle impact solid public engage buffalo";

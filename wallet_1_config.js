@@ -1,1 +1,1 @@
-var mnemonic = "bone prepare spatial tired twelve false symptom pledge average pipe author sorry";
+var mnemonic = "creek dad item beach burden clap birth civil special army slot romance";

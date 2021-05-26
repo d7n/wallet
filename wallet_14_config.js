@@ -1,1 +1,1 @@
-var mnemonic = "service trial seed rug parade warfare elegant fabric maximum casual peanut park";
+var mnemonic = "fringe target mother vast young grunt until today year mule dice option";

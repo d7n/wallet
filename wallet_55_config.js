@@ -1,1 +1,1 @@
-var mnemonic = "garlic cotton process arctic chunk still stick domain purse vapor museum ranch";
+var mnemonic = "high second bronze dismiss response curve dove myself lamp powder hold wash";

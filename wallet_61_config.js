@@ -1,1 +1,1 @@
-var mnemonic = "moment exercise summer salon salmon crew kit lake cruel sorry twin lecture";
+var mnemonic = "suggest tone gossip drastic wire impose zoo crazy forest resemble gentle pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "kit pudding wagon cage learn address light dismiss simple giant luggage float";
+var mnemonic = "monkey copy very favorite section session olympic vivid radio half saddle pool";

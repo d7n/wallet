@@ -1,1 +1,1 @@
-var mnemonic = "regret blouse sudden boy suit only leisure remove install any family urge";
+var mnemonic = "between endless reflect image perfect praise lend middle uniform honey camp kiss";

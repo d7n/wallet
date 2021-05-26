@@ -1,1 +1,1 @@
-var mnemonic = "mule youth lunch combine chimney letter style little salad tortoise coil swap";
+var mnemonic = "ready excite shock boring oblige fit joke bag argue become sample sad";

@@ -1,1 +1,1 @@
-var mnemonic = "submit nature kitchen goat soul era barely prepare lock bus poet viable";
+var mnemonic = "news suit only erase sibling stairs vessel mention ice genuine volcano tired";

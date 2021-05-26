@@ -1,1 +1,1 @@
-var mnemonic = "eye theme between best gospel dash valley federal economy sense helmet faint";
+var mnemonic = "capital output outer canoe music smoke blind venture turtle farm advice govern";

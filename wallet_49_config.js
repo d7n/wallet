@@ -1,1 +1,1 @@
-var mnemonic = "give text notable tide shaft swim embrace kiwi broom raven squeeze seat";
+var mnemonic = "stereo gospel excite unaware lucky girl visit quiz fiscal december theory sorry";

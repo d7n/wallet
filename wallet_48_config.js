@@ -1,1 +1,1 @@
-var mnemonic = "shove empty soda general feed danger merge once girl side gain tuition";
+var mnemonic = "student organ north exit rigid such ketchup cake have edit normal grass";

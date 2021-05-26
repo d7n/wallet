@@ -1,1 +1,1 @@
-var mnemonic = "logic once inflict ahead pulse vault oval gallery oxygen bone deal heart";
+var mnemonic = "pull measure immune beyond follow foot guide end seat chair vanish baby";
