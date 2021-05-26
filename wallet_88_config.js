@@ -1,1 +1,1 @@
-var mnemonic = "list man boost main accuse defense display stamp artwork spin dawn chair";
+var mnemonic = "used crumble entry neither nature say horn solution try pudding square fantasy";

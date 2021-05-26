@@ -1,1 +1,1 @@
-var mnemonic = "skate cost attract smoke diet much frozen borrow level indicate thumb fragile";
+var mnemonic = "balcony midnight what chimney involve render flush choice gain clip faint state";

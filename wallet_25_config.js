@@ -1,1 +1,1 @@
-var mnemonic = "logic critic plastic aware then method head rescue pair only alert normal";
+var mnemonic = "prefer salute nasty whisper fix cram defy ostrich hidden tornado lyrics fitness";

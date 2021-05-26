@@ -1,1 +1,1 @@
-var mnemonic = "fashion pass theme theory boost rebel car skin tool world group divide";
+var mnemonic = "fetch hover history base punch example enlist odor crater wool cube crash";

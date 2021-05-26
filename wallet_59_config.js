@@ -1,1 +1,1 @@
-var mnemonic = "wrap bring memory window carry poverty reopen program destroy video cup plate";
+var mnemonic = "section guess fortune much fish coconut tattoo render joke obtain poet panel";

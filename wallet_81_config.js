@@ -1,1 +1,1 @@
-var mnemonic = "execute anxiety soap vast kite spring quick announce naive camera blossom drop";
+var mnemonic = "roof cupboard inside harvest congress first auction board breeze trip hood toddler";

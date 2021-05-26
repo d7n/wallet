@@ -1,1 +1,1 @@
-var mnemonic = "toy sick crane october match dragon joy real poem chase alley will";
+var mnemonic = "next pond spider private future april hollow donate decrease message blouse gallery";

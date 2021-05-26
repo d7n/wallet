@@ -1,1 +1,1 @@
-var mnemonic = "trade runway dial seek during balcony need best member country movie phrase";
+var mnemonic = "route possible enter squeeze permit witness exist record echo horse toy entry";

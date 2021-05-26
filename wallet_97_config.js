@@ -1,1 +1,1 @@
-var mnemonic = "affair circle exercise language noodle useless snow ignore render lumber must own";
+var mnemonic = "chapter hamster talent hole virtual flower hen gown clarify analyst elephant sight";

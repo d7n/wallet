@@ -1,1 +1,1 @@
-var mnemonic = "crew horror recall fluid damage coast grid dish rebuild mask book tumble";
+var mnemonic = "choice movie edge wrist there crew vault detail obtain sponsor witness gap";

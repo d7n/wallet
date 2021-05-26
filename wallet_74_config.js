@@ -1,1 +1,1 @@
-var mnemonic = "junior subject chest stove mixed wrestle april skull universe just hurry reunion";
+var mnemonic = "dish yard toilet wagon hard return guard assist husband humor raw shoot";

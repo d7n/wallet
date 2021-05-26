@@ -1,1 +1,1 @@
-var mnemonic = "zoo jacket stove over mosquito universe tomorrow donkey fever erode valve mango";
+var mnemonic = "kit tiny design now wheel crunch umbrella spend tissue promote pen shine";

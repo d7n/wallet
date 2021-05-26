@@ -1,1 +1,1 @@
-var mnemonic = "image notice fiber group quick scorpion metal brown amateur salon crew guilt";
+var mnemonic = "cry goddess void glimpse satisfy candy slush shock chunk under quiz cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage mad planet fame stove cloth cube wrestle warm lazy moon glimpse";
+var mnemonic = "valley runway pluck firm range corn exact wrong melody crumble feel odor";

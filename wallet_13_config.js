@@ -1,1 +1,1 @@
-var mnemonic = "exercise social flat angry inside soap vessel course peace bamboo kick mixture";
+var mnemonic = "arena party reward audit veteran mobile unusual claw fruit happy plastic erosion";

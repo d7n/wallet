@@ -1,1 +1,1 @@
-var mnemonic = "foot swap pledge kite analyst strike between lizard settle alarm budget demand";
+var mnemonic = "tube leopard victory town drop demise doctor false misery aunt elegant record";

@@ -1,1 +1,1 @@
-var mnemonic = "test field panel amount feed elephant finger account valley critic fantasy exhibit";
+var mnemonic = "obey open call soul match delay ensure number ginger hawk clean refuse";

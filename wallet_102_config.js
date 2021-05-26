@@ -1,1 +1,1 @@
-var mnemonic = "response dentist easily magic soup sense safe coach dutch melody lens lyrics";
+var mnemonic = "idle unhappy illness boss discover soup script during either net subject diamond";

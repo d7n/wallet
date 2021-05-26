@@ -1,1 +1,1 @@
-var mnemonic = "globe mad soccer van glove flower grant transfer fossil hard buyer inform";
+var mnemonic = "balcony near alley choose royal elevator slight three define ginger cloud asthma";

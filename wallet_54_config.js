@@ -1,1 +1,1 @@
-var mnemonic = "prevent over fancy violin lend fruit beach roast olive remove then liquid";
+var mnemonic = "often gospel truck lunch latin forward bright acquire again elder knock tag";

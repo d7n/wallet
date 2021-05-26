@@ -1,1 +1,1 @@
-var mnemonic = "rifle success burger derive forward property distance click absorb rice neither square";
+var mnemonic = "impact furnace school laugh return useless distance wrap verb mosquito auto secret";

@@ -1,1 +1,1 @@
-var mnemonic = "correct measure rapid muffin more talent jaguar pioneer series project web trial";
+var mnemonic = "crucial clerk problem great slim breeze offer shrimp book luxury shell weird";

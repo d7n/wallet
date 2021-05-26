@@ -1,1 +1,1 @@
-var mnemonic = "adjust leaf exclude surprise armed main clinic better camp law mobile orient";
+var mnemonic = "chaos receive march frequent use tribe art sail repair trip effort ahead";

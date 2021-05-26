@@ -1,1 +1,1 @@
-var mnemonic = "absent disagree approve syrup reveal plastic lamp absent program vivid oak above";
+var mnemonic = "tribe garlic jar actor enough venue silly nephew salon project art elegant";

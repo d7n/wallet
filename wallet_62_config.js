@@ -1,1 +1,1 @@
-var mnemonic = "lazy primary unaware chest matrix shadow siren victory taste ordinary fire park";
+var mnemonic = "ugly holiday skill chronic gravity mother unfair enemy nerve click student swim";

@@ -1,1 +1,1 @@
-var mnemonic = "error refuse february truth broccoli object dream wave bright general innocent kite";
+var mnemonic = "merry poverty valve electric praise rule speak neither slim fire grit laundry";

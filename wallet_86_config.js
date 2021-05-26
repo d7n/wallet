@@ -1,1 +1,1 @@
-var mnemonic = "grass obey science live earn blue exile cliff sponsor often few tone";
+var mnemonic = "curtain impulse hundred proud legal truly ice clip match horror stove limb";

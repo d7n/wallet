@@ -1,1 +1,1 @@
-var mnemonic = "say happy task enact derive chuckle expose sail salt innocent soon matter";
+var mnemonic = "flash hip twelve civil act coil panda inhale boring before mom mandate";

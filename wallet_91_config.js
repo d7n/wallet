@@ -1,1 +1,1 @@
-var mnemonic = "beef sustain dad light scorpion rain also shoulder demise subject pond exact";
+var mnemonic = "account pave wagon candy cupboard catch repeat find stamp push child night";

@@ -1,1 +1,1 @@
-var mnemonic = "day siege canvas company hospital sunny useless urban vacuum era coin warrior";
+var mnemonic = "neutral must crowd kick chest knife donate tribe copper pyramid hover orphan";

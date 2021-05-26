@@ -1,1 +1,1 @@
-var mnemonic = "garden powder margin region inform ranch illegal dumb drama vessel scheme pool";
+var mnemonic = "ginger slot buzz balcony cross bubble client suffer festival scale crime trigger";

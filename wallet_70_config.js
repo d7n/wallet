@@ -1,1 +1,1 @@
-var mnemonic = "invest must unable ice narrow uniform sugar believe excess shield palm display";
+var mnemonic = "fatal essay lounge report april remain before jewel horn assist silly imitate";

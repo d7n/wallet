@@ -1,1 +1,1 @@
-var mnemonic = "satoshi then captain plate trial gentle swarm pact magnet garden asset ostrich";
+var mnemonic = "frame survey bamboo element install exile message item sugar obvious crisp math";

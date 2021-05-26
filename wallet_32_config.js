@@ -1,1 +1,1 @@
-var mnemonic = "oval decrease garlic shock favorite morning jaguar attract favorite load kitten glow";
+var mnemonic = "dream pipe dune kind kitchen half knock balcony gain unveil door hard";

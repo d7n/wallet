@@ -1,1 +1,1 @@
-var mnemonic = "cash stove follow original require pair era physical moon toddler picnic version";
+var mnemonic = "normal figure agree vital shoulder crush flock lyrics festival social camp royal";

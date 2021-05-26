@@ -1,1 +1,1 @@
-var mnemonic = "near valley shy super page skirt remove return educate wall page pear";
+var mnemonic = "foil length lawn frequent rotate gold wire grab during cradle try prepare";

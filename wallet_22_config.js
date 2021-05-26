@@ -1,1 +1,1 @@
-var mnemonic = "sound endless speak october race patient jump build what strong basic plunge";
+var mnemonic = "orphan coconut depend sing layer erode idea call online need nature eagle";

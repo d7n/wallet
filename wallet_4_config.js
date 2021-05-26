@@ -1,1 +1,1 @@
-var mnemonic = "resource feature giggle taxi juice jaguar time buddy nurse face brown calm";
+var mnemonic = "junior warm allow surge course section craft best blouse stay rhythm gym";

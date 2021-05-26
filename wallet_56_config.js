@@ -1,1 +1,1 @@
-var mnemonic = "glow crazy grab speak hair lend erosion glimpse bounce first soft pistol";
+var mnemonic = "clock defense receive gas gauge envelope join prison federal hip rule sing";

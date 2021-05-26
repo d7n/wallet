@@ -1,1 +1,1 @@
-var mnemonic = "merry sword survey must render wrist trick dry paper amount damp render";
+var mnemonic = "fuel measure pyramid case either crazy jungle rail video outer feature rug";

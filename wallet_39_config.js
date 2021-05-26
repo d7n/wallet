@@ -1,1 +1,1 @@
-var mnemonic = "rhythm what limit shaft snap hour kick water kiwi master theme before";
+var mnemonic = "weird kid nuclear honey gather pony jacket quote around leave earth result";

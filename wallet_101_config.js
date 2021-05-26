@@ -1,1 +1,1 @@
-var mnemonic = "peasant paper nut flock brick blanket image stadium little any illegal drift";
+var mnemonic = "urge point answer rule balance tomorrow balcony robust next rate bless debris";

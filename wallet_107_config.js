@@ -1,1 +1,1 @@
-var mnemonic = "solid cram toy park rival pet casino dignity please monitor rebel say";
+var mnemonic = "dove aunt loan maple struggle mouse eye crawl rent air tonight success";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold since notable hockey bone half shuffle route clerk penalty avocado undo";
+var mnemonic = "live tiger message viable ankle nuclear unfair clinic organ purpose child online";

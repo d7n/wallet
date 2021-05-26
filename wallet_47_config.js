@@ -1,1 +1,1 @@
-var mnemonic = "combine melody grass zebra model coach uniform brick bring boring cabin frequent";
+var mnemonic = "kitchen lake cart tribe mind piece vibrant menu label steel remain april";

@@ -1,1 +1,1 @@
-var mnemonic = "party bean attack general leisure calm outer evoke excess exist foam enjoy";
+var mnemonic = "want series scene express twin doctor essence borrow potato three exchange step";

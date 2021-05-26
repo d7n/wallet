@@ -1,1 +1,1 @@
-var mnemonic = "exclude effort manage enhance pill trumpet profit rubber lift enjoy duty palace";
+var mnemonic = "gorilla vacant claim popular fox artefact door tooth deny joy sword reveal";

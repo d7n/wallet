@@ -1,1 +1,1 @@
-var mnemonic = "poem smooth main property fold define answer reform lion empower auto milk";
+var mnemonic = "remain donate payment artist sadness merry hockey opinion alone grant around melt";

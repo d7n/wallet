@@ -1,1 +1,1 @@
-var mnemonic = "close open together wife broom bubble shop finger smile kitchen steel pluck";
+var mnemonic = "rich whale arrange help spike clock phone balance add rack fun banner";

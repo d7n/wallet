@@ -1,1 +1,1 @@
-var mnemonic = "rookie transfer reflect project slot twelve cycle beyond custom soup focus impulse";
+var mnemonic = "guitar secret source budget march tragic amazing minor rough text search violin";

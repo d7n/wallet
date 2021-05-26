@@ -1,1 +1,1 @@
-var mnemonic = "leisure seat fiscal depth wrap exclude treat future focus lake sphere inquiry";
+var mnemonic = "glad deliver humor chapter nut runway only door leopard stamp foam awake";

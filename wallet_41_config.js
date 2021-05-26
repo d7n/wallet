@@ -1,1 +1,1 @@
-var mnemonic = "add jelly nuclear review laptop wedding garbage opera pulse novel inherit present";
+var mnemonic = "output august fold person syrup chronic brave spike debate swing lion online";

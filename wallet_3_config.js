@@ -1,1 +1,1 @@
-var mnemonic = "unusual other youth awkward shoot situate quarter nephew impose harbor tool primary";
+var mnemonic = "leg antenna brother civil extend glad blame panel local leisure reveal talent";

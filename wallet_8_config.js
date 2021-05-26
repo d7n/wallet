@@ -1,1 +1,1 @@
-var mnemonic = "unlock claim vacant obvious cause whip switch battle tackle grocery cabbage recipe";
+var mnemonic = "patrol taste property whip motion liar hat season congress cover physical evil";

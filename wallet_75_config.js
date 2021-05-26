@@ -1,1 +1,1 @@
-var mnemonic = "impulse drive keep clap decide method aunt scrub direct pistol route dirt";
+var mnemonic = "weird first voice stay banner rain dizzy all embrace tiny shine struggle";

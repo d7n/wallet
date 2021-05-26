@@ -1,1 +1,1 @@
-var mnemonic = "mom quarter pitch sport wrap luxury snap van attend tower surge nasty";
+var mnemonic = "assist welcome mosquito ready circle warrior govern picture decline series crowd race";

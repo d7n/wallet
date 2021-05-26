@@ -1,1 +1,1 @@
-var mnemonic = "voice genre ranch airport loud churn turtle skin guilt genre find oblige";
+var mnemonic = "teach method before bullet curtain mansion infant picnic ask else tragic combine";

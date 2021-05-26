@@ -1,1 +1,1 @@
-var mnemonic = "melt include weather quick forget police lab repair hawk banana casual collect";
+var mnemonic = "palm current merit leaf baby resist glare tennis woman theory near decide";

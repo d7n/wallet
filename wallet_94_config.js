@@ -1,1 +1,1 @@
-var mnemonic = "nothing wisdom typical mystery duck badge section city where there timber pony";
+var mnemonic = "raw report chicken confirm correct scrub cube miss volume jazz cabin edit";

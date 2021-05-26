@@ -1,1 +1,1 @@
-var mnemonic = "local rough mix soul boost indoor bicycle because remember economy sustain wish";
+var mnemonic = "repair barely maze track repeat milk vendor magnet collect fringe confirm arrange";

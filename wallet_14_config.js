@@ -1,1 +1,1 @@
-var mnemonic = "fade reject thunder teach suggest pill retreat science bike crime present pact";
+var mnemonic = "close vessel unaware family vote fabric canal matter tribe fancy group sense";

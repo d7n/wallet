@@ -1,1 +1,1 @@
-var mnemonic = "plug token exhibit trend cross length seek type grunt witness eagle agree";
+var mnemonic = "memory layer hole material type wolf fury tape depend olive mango urban";

@@ -1,1 +1,1 @@
-var mnemonic = "immune cool potato ring avoid usual film enact impose happy night plug";
+var mnemonic = "chronic tip virtual snake host again client survey recall dash attack gain";

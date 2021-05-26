@@ -1,1 +1,1 @@
-var mnemonic = "next avoid energy flame nest ramp apart sail female lab fluid velvet";
+var mnemonic = "crisp gospel inject slide casino axis nurse all execute annual toy connect";

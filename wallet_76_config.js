@@ -1,1 +1,1 @@
-var mnemonic = "square assist same rain wasp cotton rich multiply magic shield summer keen";
+var mnemonic = "pond stem buyer protect trigger wave behind swallow eager tongue select patch";

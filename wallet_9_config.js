@@ -1,1 +1,1 @@
-var mnemonic = "planet excite plate jaguar cheese enforce canyon find east parade crouch spring";
+var mnemonic = "resist catch sport keep wise athlete color dose system motion second below";

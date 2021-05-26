@@ -1,1 +1,1 @@
-var mnemonic = "taxi fresh wrist salad token coyote giggle wide tag pyramid run myth";
+var mnemonic = "snow crater steak cradle speak next mountain genuine later slim hole rather";

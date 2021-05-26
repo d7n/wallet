@@ -1,1 +1,1 @@
-var mnemonic = "hair laugh palm trash modify awful toward awake barrel chronic rose ocean";
+var mnemonic = "slight remember noble camp round manual antenna furnace supply moral scare caught";

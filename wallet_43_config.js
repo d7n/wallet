@@ -1,1 +1,1 @@
-var mnemonic = "culture vote tube mouse common stadium skull mystery current occur dismiss tooth";
+var mnemonic = "door cloth alpha forward mesh evolve crime comfort tell disease glow purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "worry license dish price happy announce cushion corn blue weekend rail trap";
+var mnemonic = "news dizzy alien depart harsh hurt reject buyer cave bracket choose culture";

@@ -1,1 +1,1 @@
-var mnemonic = "theory escape address humble goddess venture dream metal cost vital monster faculty";
+var mnemonic = "before afford that limit awful bid decade glare hawk tray first inquiry";

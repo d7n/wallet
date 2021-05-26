@@ -1,1 +1,1 @@
-var mnemonic = "field morning stand music attitude honey gallery ice tuna issue shock surge";
+var mnemonic = "flash hundred earth hint scale local shy cause poem frost jelly pigeon";

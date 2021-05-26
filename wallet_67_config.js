@@ -1,1 +1,1 @@
-var mnemonic = "point original vague amused already output vanish depend father random reward alarm";
+var mnemonic = "gold pen forum where exhibit joke enforce immune local found patrol blur";

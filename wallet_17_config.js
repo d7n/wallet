@@ -1,1 +1,1 @@
-var mnemonic = "magnet lava eternal lumber happy enrich flat hen swear town poem hole";
+var mnemonic = "faint frozen rib cousin forward trade reduce sphere whale omit dose siege";

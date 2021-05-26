@@ -1,1 +1,1 @@
-var mnemonic = "aspect argue stool glad actor swim unfold peasant reduce thing trouble series";
+var mnemonic = "alley rescue hill shrug upper morning teach faint ribbon you excess fix";

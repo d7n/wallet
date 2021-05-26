@@ -1,1 +1,1 @@
-var mnemonic = "remind coral stuff swap toe profit rather thrive anchor family riot borrow";
+var mnemonic = "dilemma subject useful decorate brave census glide night double concert trap moral";

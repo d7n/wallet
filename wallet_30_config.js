@@ -1,1 +1,1 @@
-var mnemonic = "forest symptom embrace enemy excess captain fiscal reason october deliver retire bag";
+var mnemonic = "casual blossom blush seminar similar opinion kite gun right vacant echo spare";

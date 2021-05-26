@@ -1,1 +1,1 @@
-var mnemonic = "aunt weapon scrub stand intact baby bulk mad library family seed someone";
+var mnemonic = "zebra pioneer chuckle tomorrow discover spawn kangaroo drama wave cause ice rug";

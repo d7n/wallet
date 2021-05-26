@@ -1,1 +1,1 @@
-var mnemonic = "permit celery dial pipe bike gather direct catch similar baby identify dumb";
+var mnemonic = "stem surround neck prefer memory orange glimpse kitten anger fruit ecology sugar";

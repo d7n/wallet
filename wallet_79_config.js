@@ -1,1 +1,1 @@
-var mnemonic = "thunder fetch thumb maximum supreme become oval prize soft awake gallery powder";
+var mnemonic = "lava camp embark scan destroy dune twelve indoor century squeeze jealous fetch";

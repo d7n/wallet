@@ -1,1 +1,1 @@
-var mnemonic = "mushroom february neck blanket provide winner proud jelly effort negative voice record";
+var mnemonic = "gospel peanut flat hurt chair vocal second chest fox talent middle dice";

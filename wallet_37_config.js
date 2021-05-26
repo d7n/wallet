@@ -1,1 +1,1 @@
-var mnemonic = "zero arrest secret eternal lock thing real okay birth limit climb lady";
+var mnemonic = "casino glory able possible unveil book frog initial immense shoot kiss dial";

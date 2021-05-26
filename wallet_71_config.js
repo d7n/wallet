@@ -1,1 +1,1 @@
-var mnemonic = "entry hello possible reform motion paper photo stomach uniform inherit observe mind";
+var mnemonic = "tilt already hobby lawn fault maid beauty brand blouse final van dirt";

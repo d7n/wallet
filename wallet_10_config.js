@@ -1,1 +1,1 @@
-var mnemonic = "finish real sample noise drastic abandon motion later magnet copper mechanic boat";
+var mnemonic = "three grab neglect brass toe vanish gym reunion lend dignity little sunny";

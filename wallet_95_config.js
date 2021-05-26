@@ -1,1 +1,1 @@
-var mnemonic = "clinic enroll knee junk alley aerobic forum asthma robust rare now congress";
+var mnemonic = "table tape match power verify anxiety same fringe client cushion sad promote";

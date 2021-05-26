@@ -1,1 +1,1 @@
-var mnemonic = "illegal kangaroo noble almost chuckle drift police force spy engage tuition reunion";
+var mnemonic = "detect divorce three various cliff you quality woman whale item mixture tornado";

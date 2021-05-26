@@ -1,1 +1,1 @@
-var mnemonic = "absurd labor knock spot edit siren try error hidden latin act roof";
+var mnemonic = "noise enact twice purse stumble win course reward latin mention misery tone";

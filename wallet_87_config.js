@@ -1,1 +1,1 @@
-var mnemonic = "slab typical answer lemon isolate hurdle name repair suffer jacket stool section";
+var mnemonic = "shuffle crack task ostrich under owner that diagram parade still pole include";

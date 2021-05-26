@@ -1,1 +1,1 @@
-var mnemonic = "soup blast hybrid buddy fold enable tornado airport health banner sweet cattle";
+var mnemonic = "diamond monkey chest napkin palace parrot witness rib border property accuse coyote";

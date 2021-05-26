@@ -1,1 +1,1 @@
-var mnemonic = "into item mango december ugly almost enroll token expose appear coffee bicycle";
+var mnemonic = "retire hill belt shiver gym settle inflict scale angry pass whale own";
