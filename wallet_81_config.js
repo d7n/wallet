@@ -1,1 +1,1 @@
-var mnemonic = "rib once food true hill jaguar maple foot crowd such begin bundle";
+var mnemonic = "jeans also usage cube solve regular knock famous cigar card fat jewel";

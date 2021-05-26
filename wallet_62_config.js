@@ -1,1 +1,1 @@
-var mnemonic = "small tooth spell eye object advance vacant motion media clarify airport stereo";
+var mnemonic = "reject inner hunt female mix bean select spot priority mango aisle result";

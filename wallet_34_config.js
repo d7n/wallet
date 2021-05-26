@@ -1,1 +1,1 @@
-var mnemonic = "leisure depart happy helmet junior eyebrow kingdom pact doll often gaze edit";
+var mnemonic = "opera right deputy mixture bracket huge layer retire trial honey abstract gadget";

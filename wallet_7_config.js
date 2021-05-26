@@ -1,1 +1,1 @@
-var mnemonic = "expect nuclear pelican boring error metal emotion try census silver zebra shield";
+var mnemonic = "air nurse furnace march crack stand empty kind fan sadness caught federal";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket exit flat trick narrow strike radar funny hint because purse abstract";
+var mnemonic = "rail key grit tube offer shaft torch number common sheriff cheese alone";

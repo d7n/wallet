@@ -1,1 +1,1 @@
-var mnemonic = "zero metal check gap choose attract strong metal equal submit stem arch";
+var mnemonic = "uniform isolate mirror little blur foster myself until major much armor fall";

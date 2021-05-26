@@ -1,1 +1,1 @@
-var mnemonic = "avocado amazing thrive tube perfect engine rapid daring employ capital orient quantum";
+var mnemonic = "knee ethics fall drill ostrich tortoise select road volcano march radar finger";

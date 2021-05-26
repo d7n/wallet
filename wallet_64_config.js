@@ -1,1 +1,1 @@
-var mnemonic = "brand soon woman margin essence riot floor dance coach game sample badge";
+var mnemonic = "device order resist february between imitate diagram garment because digital bullet path";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder skate insane salmon require novel trophy enemy noise regret glare shield";
+var mnemonic = "two plastic hello normal normal donate mean sign banana open jazz tattoo";

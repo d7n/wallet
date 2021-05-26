@@ -1,1 +1,1 @@
-var mnemonic = "remind silent assume hockey legal mother nothing tissue rotate flip perfect claim";
+var mnemonic = "claw baby vault stable stable betray visual hen walk since reunion pigeon";

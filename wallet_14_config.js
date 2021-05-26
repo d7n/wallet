@@ -1,1 +1,1 @@
-var mnemonic = "aerobic envelope lesson elder token endorse novel slow bomb obey few amused";
+var mnemonic = "harsh trend rabbit act humble tumble mango capable cancel box decade smoke";

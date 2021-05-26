@@ -1,1 +1,1 @@
-var mnemonic = "fringe hope vacant drop annual envelope skin work mango load drama fuel";
+var mnemonic = "unveil dad window canvas absurd addict report convince oil pulse behave jar";

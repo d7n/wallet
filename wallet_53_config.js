@@ -1,1 +1,1 @@
-var mnemonic = "panel hockey beauty doctor horse nurse ginger airport frame vivid strike globe";
+var mnemonic = "agree crumble theme deposit real vivid pipe rich joke sample negative tribe";

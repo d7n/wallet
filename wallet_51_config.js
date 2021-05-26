@@ -1,1 +1,1 @@
-var mnemonic = "kiss grab capable then juice bless galaxy cinnamon two force ginger math";
+var mnemonic = "busy bracket one offer anchor coil insane spirit assist axis journey together";

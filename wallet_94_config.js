@@ -1,1 +1,1 @@
-var mnemonic = "embrace domain canoe skill joke cloth pelican butter verb choose cannon syrup";
+var mnemonic = "cart pause bird purchase helmet device tennis sock wrist victory window bird";

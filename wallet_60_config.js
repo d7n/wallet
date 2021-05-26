@@ -1,1 +1,1 @@
-var mnemonic = "inject ripple crowd liberty start absent easily cannon amused siren use attend";
+var mnemonic = "assume way put parrot giggle gorilla sadness filter diet jazz bounce agree";

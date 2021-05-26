@@ -1,1 +1,1 @@
-var mnemonic = "daughter section answer acquire solar sell obvious drop arrange cousin gas leisure";
+var mnemonic = "undo consider unlock resist cram ladder trick ranch whisper awake shoulder magnet";

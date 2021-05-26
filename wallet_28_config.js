@@ -1,1 +1,1 @@
-var mnemonic = "picture buffalo cactus sheriff tube ring goddess guilt father capital green capable";
+var mnemonic = "mask cash oval bird orange episode ankle popular crystal local dust gallery";

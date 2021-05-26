@@ -1,1 +1,1 @@
-var mnemonic = "auto elephant lens spider auto lab benefit mimic anxiety ecology dignity sport";
+var mnemonic = "second extra toward borrow people clog slogan project family tumble tourist blame";

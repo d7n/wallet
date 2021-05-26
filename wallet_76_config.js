@@ -1,1 +1,1 @@
-var mnemonic = "scorpion rigid vital chef yellow traffic stove foil trip birth behind you";
+var mnemonic = "ticket final fly elevator cool insane elephant often stem fame talk claim";

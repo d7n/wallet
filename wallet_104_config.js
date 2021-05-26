@@ -1,1 +1,1 @@
-var mnemonic = "curious tornado maze also ship spare flee fever fatigue wedding blind connect";
+var mnemonic = "settle couch rug champion raw tree nominee original nothing silver sphere shoulder";

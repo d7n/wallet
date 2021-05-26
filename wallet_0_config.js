@@ -1,1 +1,1 @@
-var mnemonic = "guide spoil critic problem master hood correct economy aim devote expect absent";
+var mnemonic = "worth street boy benefit sense coin number wrestle kite tuna crisp timber";

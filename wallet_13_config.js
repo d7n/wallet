@@ -1,1 +1,1 @@
-var mnemonic = "three paper stuff denial brick large exit enroll float lumber mention happy";
+var mnemonic = "lunar hamster attack present steel roof glide rent fossil cart toss hungry";

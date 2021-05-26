@@ -1,1 +1,1 @@
-var mnemonic = "prize wing spirit comic abstract solution shove athlete grief happy banana reflect";
+var mnemonic = "include distance motor table lounge wrong away menu faint grant when wing";

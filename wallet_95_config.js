@@ -1,1 +1,1 @@
-var mnemonic = "critic usage bronze gentle broccoli need choice blast main whale sibling black";
+var mnemonic = "bracket car among detect mistake pyramid icon push mind drift bulk inch";

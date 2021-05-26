@@ -1,1 +1,1 @@
-var mnemonic = "online oven wire huge burger ordinary poet board lucky pet motor enhance";
+var mnemonic = "father tuition evoke era twist absent buddy wall dog exist crater energy";

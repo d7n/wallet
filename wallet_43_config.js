@@ -1,1 +1,1 @@
-var mnemonic = "apart famous mistake ensure afraid frog define denial cube spirit away affair";
+var mnemonic = "maple dune then merge horn easily minimum owner penalty pitch chapter neck";

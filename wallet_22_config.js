@@ -1,1 +1,1 @@
-var mnemonic = "fury bid victory liquid opera blossom trim ecology current someone brother bitter";
+var mnemonic = "climb trip eternal unable voice tiger clutch metal initial true warrior shrug";

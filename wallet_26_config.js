@@ -1,1 +1,1 @@
-var mnemonic = "lazy delay bicycle seven vicious wet sail elephant hospital decade segment slight";
+var mnemonic = "empower swallow giggle goat stuff dad luxury blur faith equip annual item";

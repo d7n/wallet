@@ -1,1 +1,1 @@
-var mnemonic = "feed obtain radio wasp pretty brass weapon spin drip behave giraffe voyage";
+var mnemonic = "initial force focus antique caught burst wheat method cactus rookie route thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck feel perfect leisure joke hollow dirt pulse host eager base slight";
+var mnemonic = "tray benefit fine gift person alien crawl slide utility pull fluid wood";

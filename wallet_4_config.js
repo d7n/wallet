@@ -1,1 +1,1 @@
-var mnemonic = "vital price neutral drive prepare noise future defense fiction mail twelve damp";
+var mnemonic = "enough solution assume kingdom recycle drill atom morning panther ketchup birth current";

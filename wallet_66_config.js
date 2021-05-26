@@ -1,1 +1,1 @@
-var mnemonic = "outer surface wear summer manual aware tobacco ten purse keen bar ask";
+var mnemonic = "viable attract rose material cruel fiscal excite index fetch direct nature sunset";

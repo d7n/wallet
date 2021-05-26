@@ -1,1 +1,1 @@
-var mnemonic = "become notice century fabric height pizza used model punch tag minimum sell";
+var mnemonic = "thumb hen miracle ceiling buyer vote awful young tomato august canoe present";

@@ -1,1 +1,1 @@
-var mnemonic = "merry slow bag blade keen dog south ahead neck region patient fashion";
+var mnemonic = "credit spin labor gorilla doll auction spin wood second repeat round dizzy";

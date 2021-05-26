@@ -1,1 +1,1 @@
-var mnemonic = "oak fit sunset excuse mountain robust glue another stamp history inhale cupboard";
+var mnemonic = "corn suit inquiry evidence grape divide property black day hamster vessel indoor";

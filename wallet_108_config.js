@@ -1,1 +1,1 @@
-var mnemonic = "liquid grace salt document essay margin pretty bomb another escape raw unique";
+var mnemonic = "betray tape upon animal sponsor when color enforce crawl globe metal peanut";

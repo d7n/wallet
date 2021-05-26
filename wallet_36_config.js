@@ -1,1 +1,1 @@
-var mnemonic = "earth garbage fortune focus confirm shaft brick ivory couple young material jewel";
+var mnemonic = "owner deliver crack paper plate achieve help wise scout phrase trade pattern";

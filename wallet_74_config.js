@@ -1,1 +1,1 @@
-var mnemonic = "vital harbor shift buffalo wild fossil credit swamp funny leaf noodle witness";
+var mnemonic = "poet mean bird spider pulse school tenant grow elegant pulse where pig";

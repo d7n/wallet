@@ -1,1 +1,1 @@
-var mnemonic = "always hidden forget outer soul silk biology snow expire skull connect park";
+var mnemonic = "lounge update timber oppose sting best ozone salon decrease pizza gather transfer";

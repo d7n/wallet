@@ -1,1 +1,1 @@
-var mnemonic = "wisdom approve payment delay pig square forget doctor shove volume help hood";
+var mnemonic = "idea recall sport talk kiwi galaxy blast ask ball excite quick trip";

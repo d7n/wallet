@@ -1,1 +1,1 @@
-var mnemonic = "master trip fresh immense strategy bunker congress tape trend dynamic stay outside";
+var mnemonic = "sustain fragile potato street monster wear reopen they catch spice magic foam";

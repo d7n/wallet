@@ -1,1 +1,1 @@
-var mnemonic = "device cake similar dinner maximum mixture elephant prevent source sweet congress legal";
+var mnemonic = "kiss shop firm jealous cook sleep rebuild judge innocent holiday delay senior";

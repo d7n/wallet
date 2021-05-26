@@ -1,1 +1,1 @@
-var mnemonic = "dutch learn chapter almost soap inspire warfare dash warrior depart decorate spend";
+var mnemonic = "flame stumble fancy crucial provide assist cup foster pool engine song quick";

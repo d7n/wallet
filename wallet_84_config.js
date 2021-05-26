@@ -1,1 +1,1 @@
-var mnemonic = "surface wise churn path safe organ grant brand window face word jazz";
+var mnemonic = "arrive clown weapon avoid caught sound plug bird thing drive bring soldier";

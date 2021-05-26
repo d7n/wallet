@@ -1,1 +1,1 @@
-var mnemonic = "sweet price wish decorate sight left buffalo outer bone skin swamp radio";
+var mnemonic = "hub weather menu they child art senior grief depend intact pledge involve";

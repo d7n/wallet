@@ -1,1 +1,1 @@
-var mnemonic = "vague check grab wreck vehicle squeeze work name habit ticket essence jump";
+var mnemonic = "machine rocket cry give morning casual farm shed music base topic visa";

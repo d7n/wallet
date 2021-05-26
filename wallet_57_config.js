@@ -1,1 +1,1 @@
-var mnemonic = "sick narrow wealth scrub stage tuition arrive symbol raccoon live afraid coffee";
+var mnemonic = "crumble feature attack famous tray renew two arena crunch firm staff attract";

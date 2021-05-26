@@ -1,1 +1,1 @@
-var mnemonic = "glance romance dream critic original swarm arrest genre material mask firm stage";
+var mnemonic = "tiger appear awesome hero school grape bitter disease spend exist scheme adult";

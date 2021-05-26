@@ -1,1 +1,1 @@
-var mnemonic = "idle minimum quantum surprise live merry avoid van heart melody aisle feature";
+var mnemonic = "hip pizza talk economy rescue track fortune voice first habit cheese jump";

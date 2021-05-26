@@ -1,1 +1,1 @@
-var mnemonic = "roast above pretty fitness ridge opera vessel knife mechanic drop tiny mouse";
+var mnemonic = "tuna table sail country flash possible trap carbon spray orphan hole shell";

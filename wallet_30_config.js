@@ -1,1 +1,1 @@
-var mnemonic = "income bonus primary pool eagle excuse true potato wasp weather prefer blame";
+var mnemonic = "detail omit antenna update cluster canoe regular panel buyer slice say punch";

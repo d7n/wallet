@@ -1,1 +1,1 @@
-var mnemonic = "crucial bright summer corn dinosaur shrug lumber reward blood remind spell subway";
+var mnemonic = "can ski runway path search inflict pass cement smooth happy net boring";

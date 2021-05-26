@@ -1,1 +1,1 @@
-var mnemonic = "core become card fiscal uniform pilot often sentence chapter program lake gold";
+var mnemonic = "mouse expire version snow opera cube machine letter cheese pipe such lonely";

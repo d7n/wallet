@@ -1,1 +1,1 @@
-var mnemonic = "exchange clerk screen tortoise outer inform what gate fluid brand super giggle";
+var mnemonic = "ribbon lounge glare spoon spike window install panic dirt spider found puppy";

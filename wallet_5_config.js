@@ -1,1 +1,1 @@
-var mnemonic = "crop opinion winner element just return abstract height shell kid trigger monkey";
+var mnemonic = "hedgehog must victory turkey layer latin essay step tenant reveal veteran deer";

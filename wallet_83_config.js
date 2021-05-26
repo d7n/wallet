@@ -1,1 +1,1 @@
-var mnemonic = "three addict wrestle fever length fall improve cave idle decorate lonely insane";
+var mnemonic = "atom real verb cigar survey jungle inform primary lazy legal noble nerve";

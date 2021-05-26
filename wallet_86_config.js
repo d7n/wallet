@@ -1,1 +1,1 @@
-var mnemonic = "spell pride almost rifle flee open sentence arch nest clump outer join";
+var mnemonic = "paddle word helmet copy juice close pool mom dolphin around actress plug";

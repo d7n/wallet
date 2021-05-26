@@ -1,1 +1,1 @@
-var mnemonic = "violin mango sleep bind poverty drink cheese fine spirit pumpkin problem chaos";
+var mnemonic = "summer elevator force cry actress balcony legal round flight machine van make";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo rocket inherit mule skill choose gesture shaft nice pretty bamboo beef";
+var mnemonic = "pledge jacket adjust first annual habit puppy solar genuine corn price civil";

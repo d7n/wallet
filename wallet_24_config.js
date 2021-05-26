@@ -1,1 +1,1 @@
-var mnemonic = "ranch giraffe grocery husband early chair waste carry vibrant wait team silent";
+var mnemonic = "ceiling first adjust common senior cattle require pulse bulb enforce asset hour";

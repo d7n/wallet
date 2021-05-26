@@ -1,1 +1,1 @@
-var mnemonic = "cross peasant bridge giraffe genius grass ahead clarify cream erode book owner";
+var mnemonic = "fiscal cheese maple favorite common zoo woman project roast summer shallow evolve";

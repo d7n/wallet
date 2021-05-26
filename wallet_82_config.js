@@ -1,1 +1,1 @@
-var mnemonic = "company fossil town eagle chest panther plate damage price payment post camp";
+var mnemonic = "simple trend slim sure attack quantum believe hazard guitar spray august bench";

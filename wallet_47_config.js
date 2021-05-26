@@ -1,1 +1,1 @@
-var mnemonic = "stove stumble cross motor arrive ranch burger cause bridge supreme raven junior";
+var mnemonic = "scale tumble choose pledge card shrimp same chair toy summer believe hospital";

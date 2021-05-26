@@ -1,1 +1,1 @@
-var mnemonic = "arctic dial car inhale pair novel height pear waste buyer glass guilt";
+var mnemonic = "ability bright tissue gauge turkey laugh tilt loop very super awesome essence";

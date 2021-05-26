@@ -1,1 +1,1 @@
-var mnemonic = "surface quarter sadness pioneer multiply claw cost lunar victory arrive wrist rate";
+var mnemonic = "pond toy twelve then between action double pass ordinary song walk draft";

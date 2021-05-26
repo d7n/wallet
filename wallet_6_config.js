@@ -1,1 +1,1 @@
-var mnemonic = "diesel lyrics truth bundle learn quantum retire turtle sign narrow clever buffalo";
+var mnemonic = "beauty sight nice sample duty neck picture wagon favorite captain cruel violin";

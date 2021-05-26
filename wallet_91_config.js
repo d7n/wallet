@@ -1,1 +1,1 @@
-var mnemonic = "disorder stove market finger bitter demand radar tooth cage note dragon vivid";
+var mnemonic = "harbor absent fresh ketchup speak before slush trick this chief gloom wreck";

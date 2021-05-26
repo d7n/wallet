@@ -1,1 +1,1 @@
-var mnemonic = "reward crew nothing winter cannon fork brand exit scrub involve honey occur";
+var mnemonic = "bubble honey illness announce small crunch sheriff cube street vacuum bamboo swift";

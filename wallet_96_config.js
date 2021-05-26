@@ -1,1 +1,1 @@
-var mnemonic = "magnet finish knock fit service two service burst easily tail monster imitate";
+var mnemonic = "thank cage say weasel gap check reward vintage barely sentence trigger miracle";

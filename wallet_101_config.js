@@ -1,1 +1,1 @@
-var mnemonic = "control length below order develop urban grid foil exhaust dragon vicious belt";
+var mnemonic = "tribe ride sorry fancy trim cherry poverty key wreck news panic stomach";

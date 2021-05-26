@@ -1,1 +1,1 @@
-var mnemonic = "dry mean neck sunny claim fatal hammer disease october lock cloth radar";
+var mnemonic = "depend invest senior upon correct echo flip outer industry goose noble stomach";

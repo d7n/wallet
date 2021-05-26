@@ -1,1 +1,1 @@
-var mnemonic = "second lava copper giraffe struggle doll mandate visit good simple reason three";
+var mnemonic = "liquid harvest firm direct shallow need abuse hurry dove cement fan rival";

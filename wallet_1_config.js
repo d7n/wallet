@@ -1,1 +1,1 @@
-var mnemonic = "napkin razor shop cool spread sword law arrow blanket state movie picture";
+var mnemonic = "diamond ugly museum card verb gossip verb parrot pudding student this acid";

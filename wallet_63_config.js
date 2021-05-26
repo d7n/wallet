@@ -1,1 +1,1 @@
-var mnemonic = "enough rare delay crunch element mean assist tunnel force spirit twist rule";
+var mnemonic = "curve crash property narrow prison swift evil setup smart rice rapid despair";

@@ -1,1 +1,1 @@
-var mnemonic = "brush hungry siren nature sting reveal tunnel seminar bleak document lemon enhance";
+var mnemonic = "practice hungry image just surface mother trigger list olympic common exile access";

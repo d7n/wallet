@@ -1,1 +1,1 @@
-var mnemonic = "rifle clutch tiny will yard gas couch total slow typical panther conduct";
+var mnemonic = "claw frown release swing glass cannon desert height trash flame real love";

@@ -1,1 +1,1 @@
-var mnemonic = "knee arrest canvas people betray sense wait apart island struggle abstract initial";
+var mnemonic = "appear peanut pupil pumpkin code wide sad bonus current junk autumn gas";

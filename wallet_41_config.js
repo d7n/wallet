@@ -1,1 +1,1 @@
-var mnemonic = "soldier come steel clerk vacuum cheap initial nice lake drill confirm dismiss";
+var mnemonic = "rice surprise extend obey rail donate foot maze rich analyst forest execute";

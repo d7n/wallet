@@ -1,1 +1,1 @@
-var mnemonic = "sting book blue sheriff inform they earth spray misery hedgehog off correct";
+var mnemonic = "man captain bid parent garden buzz worth small cry fossil goose youth";

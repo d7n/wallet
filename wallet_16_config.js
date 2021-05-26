@@ -1,1 +1,1 @@
-var mnemonic = "hero true main cake injury hurry nice attend prize agent cage mushroom";
+var mnemonic = "mushroom quote diamond attitude left rigid orient harbor drive grant subway noise";

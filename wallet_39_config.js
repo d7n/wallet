@@ -1,1 +1,1 @@
-var mnemonic = "pyramid photo credit album gold mix result join explain gospel vibrant cabin";
+var mnemonic = "head venture fury abuse naive nation say drop soldier puzzle judge gift";

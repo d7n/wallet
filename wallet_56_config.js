@@ -1,1 +1,1 @@
-var mnemonic = "series garbage paddle deliver match produce envelope gauge mystery hard goose glory";
+var mnemonic = "obtain abstract reduce engine elegant wine copper catch ghost believe crucial arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "december attend present artefact used crop enjoy session dismiss forget fashion critic";
+var mnemonic = "vanish leg hero spring art injury machine ice wire trip ladder enlist";

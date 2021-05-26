@@ -1,1 +1,1 @@
-var mnemonic = "ten damage young gas memory adult coast smooth hundred trumpet recipe filter";
+var mnemonic = "already edge bright rather cram hazard panel demise try adult buffalo cry";

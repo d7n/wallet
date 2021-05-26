@@ -1,1 +1,1 @@
-var mnemonic = "pull green sauce east require mechanic asthma seat crumble garden there warm";
+var mnemonic = "gentle sunny message wreck behind radio vivid song trash nest middle dash";

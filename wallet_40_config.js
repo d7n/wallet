@@ -1,1 +1,1 @@
-var mnemonic = "spin erase victory wish correct romance twelve thank coast leg require become";
+var mnemonic = "often warm margin shaft link insane chaos return benefit volcano suit sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "lion upper search hundred panel kidney nerve satisfy trend dirt print boss";
+var mnemonic = "result marriage great ecology leopard fork strong document ask wife sweet balcony";

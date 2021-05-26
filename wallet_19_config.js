@@ -1,1 +1,1 @@
-var mnemonic = "peanut eye jewel wish volcano love woman dilemma faculty capital van brand";
+var mnemonic = "rotate image opinion become major under cherry balcony ring atom mystery coil";

@@ -1,1 +1,1 @@
-var mnemonic = "devote initial exhaust poem arctic pumpkin swing catalog ankle blood word noodle";
+var mnemonic = "quit opera abstract damp roast gun pattern buzz diagram note affair stomach";
