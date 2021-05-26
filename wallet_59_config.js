@@ -1,1 +1,1 @@
-var mnemonic = "engage salad cart cube record crime alien tiny fog width whip main";
+var mnemonic = "best slot add wrist drastic diamond model unable bronze insane mansion elder";

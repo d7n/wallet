@@ -1,1 +1,1 @@
-var mnemonic = "patch day guess sick talk tomorrow glad isolate decade narrow jump capable";
+var mnemonic = "toe manage slide turkey toe industry emerge steak lake cushion wedding section";

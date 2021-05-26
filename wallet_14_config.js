@@ -1,1 +1,1 @@
-var mnemonic = "parrot spirit submit sheriff act document domain artist naive faith donkey ask";
+var mnemonic = "mango flight image camp awkward minimum promote person elephant furnace arena garbage";

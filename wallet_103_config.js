@@ -1,1 +1,1 @@
-var mnemonic = "tell ball sell include snake fatal casino pen upgrade burden swarm chapter";
+var mnemonic = "donor journey bean phone apple drastic disagree result oxygen steel sudden where";

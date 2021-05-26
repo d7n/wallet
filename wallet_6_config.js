@@ -1,1 +1,1 @@
-var mnemonic = "broccoli swear battle olympic gym stumble poverty argue stage banana sentence shrimp";
+var mnemonic = "perfect also illegal matrix swear orbit finish panda lawsuit metal laugh define";

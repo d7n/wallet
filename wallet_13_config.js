@@ -1,1 +1,1 @@
-var mnemonic = "mystery govern bracket kid student expose error anchor mushroom elephant bracket broccoli";
+var mnemonic = "can stamp crunch woman tooth puzzle step inside purpose champion clutch kite";

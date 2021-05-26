@@ -1,1 +1,1 @@
-var mnemonic = "number poet dilemma you alarm awful initial elite west fit market rose";
+var mnemonic = "north fitness super morning grass silly what before corn shiver blur inspire";

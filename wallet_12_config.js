@@ -1,1 +1,1 @@
-var mnemonic = "shield diagram deputy phone cover rate borrow ring forum spider flight tent";
+var mnemonic = "style demand claim jaguar unaware much city general destroy rack emotion earn";

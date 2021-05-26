@@ -1,1 +1,1 @@
-var mnemonic = "ridge field antique meat ensure cereal vintage brass service worry pupil sister";
+var mnemonic = "immense squeeze reject bulb barrel until letter laugh carbon health hair erupt";

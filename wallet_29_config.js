@@ -1,1 +1,1 @@
-var mnemonic = "staff void success tower couch banana crane assault base ask length anchor";
+var mnemonic = "hundred nose gown stool shop flight joke elite echo lens siege celery";

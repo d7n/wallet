@@ -1,1 +1,1 @@
-var mnemonic = "arrange virtual powder seek office power garment path sting candy depart pink";
+var mnemonic = "bulk vacuum awake refuse evidence job fork fantasy office become volume people";

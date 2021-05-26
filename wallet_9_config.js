@@ -1,1 +1,1 @@
-var mnemonic = "pink buffalo original modify cannon frown vanish lesson jar naive client tool";
+var mnemonic = "payment outdoor print prosper knee tree very win orchard income girl stadium";

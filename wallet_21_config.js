@@ -1,1 +1,1 @@
-var mnemonic = "field drop acquire trick announce small talent trust length dentist weapon cram";
+var mnemonic = "desk describe egg swarm critic transfer aunt police price robot myself audit";

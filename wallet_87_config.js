@@ -1,1 +1,1 @@
-var mnemonic = "achieve carbon wreck champion since mesh winner school walk gym cotton select";
+var mnemonic = "donate amount glare twist fitness behind swarm mule pelican grow curtain control";

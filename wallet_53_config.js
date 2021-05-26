@@ -1,1 +1,1 @@
-var mnemonic = "believe fossil gesture square inhale orchard salon abstract treat occur name honey";
+var mnemonic = "senior grant abstract column word misery cheese survey still grow guess crowd";

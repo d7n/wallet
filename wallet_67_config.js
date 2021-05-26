@@ -1,1 +1,1 @@
-var mnemonic = "crystal agent gospel hunt churn erode inspire rebuild explain game sunny deposit";
+var mnemonic = "cook crucial enjoy vital wise lonely sauce sausage kind glad tuna melody";

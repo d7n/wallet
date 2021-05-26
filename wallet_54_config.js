@@ -1,1 +1,1 @@
-var mnemonic = "trap era next science echo game upper sniff wrong age warrior crowd";
+var mnemonic = "option knock tattoo collect mixed alpha supply inflict switch hub south option";

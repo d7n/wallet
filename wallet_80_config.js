@@ -1,1 +1,1 @@
-var mnemonic = "gloom ugly spike glide half switch about essence firm dash glad neutral";
+var mnemonic = "tomorrow female crop frequent clarify life vote blossom foam tiger steel humble";

@@ -1,1 +1,1 @@
-var mnemonic = "card army gym canal stove dream nation cigar trash rail elegant winner";
+var mnemonic = "rebuild afraid immune system wild gain add mixture feel idle smoke high";

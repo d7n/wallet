@@ -1,1 +1,1 @@
-var mnemonic = "silly celery brass stand surface stadium half version purse duck nerve leisure";
+var mnemonic = "flash invite parrot net quality shoulder taxi mixture gossip camp sheriff taxi";

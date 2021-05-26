@@ -1,1 +1,1 @@
-var mnemonic = "clog solution almost divorce health fatigue design fix story half jelly stone";
+var mnemonic = "asset total need blade dance ketchup tide birth soda tribe bulk setup";

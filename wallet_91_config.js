@@ -1,1 +1,1 @@
-var mnemonic = "south alter violin purpose wine change comic slow gasp better cargo swim";
+var mnemonic = "century multiply shrimp citizen prize trade subway pill machine guess that pool";

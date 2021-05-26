@@ -1,1 +1,1 @@
-var mnemonic = "solve enemy bamboo come noble dismiss banana meadow tube divert cluster diamond";
+var mnemonic = "keen way bone steel paddle insect void cattle doctor remind audit caught";

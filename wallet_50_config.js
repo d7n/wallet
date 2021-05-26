@@ -1,1 +1,1 @@
-var mnemonic = "faith embrace either health tiger doll act artwork embody flame segment hybrid";
+var mnemonic = "void venue extend script stairs elegant old fix buyer jazz enact stereo";

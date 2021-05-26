@@ -1,1 +1,1 @@
-var mnemonic = "inner patrol coconut try law fork all notice bean claim garbage gloom";
+var mnemonic = "gesture illness scorpion device select corn impact intact forget crumble calm tribe";

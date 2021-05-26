@@ -1,1 +1,1 @@
-var mnemonic = "decline invite settle ignore inflict address grocery suspect fish call chuckle evoke";
+var mnemonic = "bounce quit office shoulder fee scare rate attack all south spin view";

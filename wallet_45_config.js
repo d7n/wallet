@@ -1,1 +1,1 @@
-var mnemonic = "loud finish city dice armed skate pepper round notice hurry horror laptop";
+var mnemonic = "owner winter expire broom ahead uniform solution truck defy negative dinosaur couch";

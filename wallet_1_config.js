@@ -1,1 +1,1 @@
-var mnemonic = "canyon typical galaxy enforce crater roof sound pond doll expose struggle outdoor";
+var mnemonic = "return letter portion labor trend crop large hood blur start organ nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "visual acid despair bullet usage shrimp isolate echo tattoo gospel acoustic skate";
+var mnemonic = "modify mystery relax ethics main material basket find guitar burden tip universe";

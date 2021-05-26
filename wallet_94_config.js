@@ -1,1 +1,1 @@
-var mnemonic = "lab wheat check spray among deputy affair property remain pill fault debris";
+var mnemonic = "garden endorse project valid size antenna all pupil kidney intact service ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan special mystery token yellow process link pulp where sphere idle empower";
+var mnemonic = "bar toward that divide soul symbol chuckle crack garden oven surface trigger";

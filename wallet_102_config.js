@@ -1,1 +1,1 @@
-var mnemonic = "require catalog palm repair popular faculty sail idea pet reform twice assist";
+var mnemonic = "imitate category breeze exact matrix amateur umbrella language pretty physical garment spice";

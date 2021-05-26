@@ -1,1 +1,1 @@
-var mnemonic = "cradle dragon piano kite volcano mean link dove express utility remove essence";
+var mnemonic = "enhance argue remember govern salt cliff decade general oxygen chat army perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "security siege prison once trick tomato stomach what advice dance wheat affair";
+var mnemonic = "good peace payment sentence picnic walk million actor sting canvas hair thing";

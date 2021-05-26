@@ -1,1 +1,1 @@
-var mnemonic = "trouble chunk erosion spread fortune physical april course once artwork intact early";
+var mnemonic = "because long advance ocean spice choose debate cheese theory trophy chalk garden";

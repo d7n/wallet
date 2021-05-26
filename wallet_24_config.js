@@ -1,1 +1,1 @@
-var mnemonic = "change disagree detail cart miracle steel pizza position afford bunker surprise utility";
+var mnemonic = "meadow sound lottery fabric spread slender vocal carry talk industry price shield";

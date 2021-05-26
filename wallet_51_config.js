@@ -1,1 +1,1 @@
-var mnemonic = "brush word sound easy energy monkey spread announce capable argue wagon tone";
+var mnemonic = "wait satisfy trap brave staff day scan year loyal next pear grid";

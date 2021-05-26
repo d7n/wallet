@@ -1,1 +1,1 @@
-var mnemonic = "violin once please depart message switch horn code strike tomato camp stable";
+var mnemonic = "mimic online winner vintage deposit ready afraid depart know fatal camp demand";

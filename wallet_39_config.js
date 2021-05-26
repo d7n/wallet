@@ -1,1 +1,1 @@
-var mnemonic = "custom album target ecology session fatal say rack quick half anger what";
+var mnemonic = "taxi skirt trial praise laundry copper inform brick enrich just draw enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "demise noble alpha require box cheese toddler ocean expire wage undo three";
+var mnemonic = "mesh payment choose repair elephant anger dress verb six pulp pet conduct";

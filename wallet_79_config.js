@@ -1,1 +1,1 @@
-var mnemonic = "film canal sustain athlete ivory staff fabric hedgehog prepare search swim thunder";
+var mnemonic = "mobile teach sheriff mercy caution light actual purpose safe retire nut bid";

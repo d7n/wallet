@@ -1,1 +1,1 @@
-var mnemonic = "that jungle shop choice autumn protect tuna general recycle evidence shaft fiction";
+var mnemonic = "pool ordinary ask abuse repair own wagon ten easily pony horn pipe";

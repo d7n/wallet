@@ -1,1 +1,1 @@
-var mnemonic = "bridge neither coil stadium angry hotel vanish nominee depart armor vault genuine";
+var mnemonic = "demand stadium mango throw chicken media network scrap disease honey good spike";

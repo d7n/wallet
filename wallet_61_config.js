@@ -1,1 +1,1 @@
-var mnemonic = "cluster predict amazing pencil dog desert wall thrive decade increase come around";
+var mnemonic = "project gloom aim major toast clap company diary build distance craft husband";

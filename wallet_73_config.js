@@ -1,1 +1,1 @@
-var mnemonic = "source begin hole want episode thunder advance nothing mixture system dog accident";
+var mnemonic = "modify east sibling apart alarm envelope husband useless ignore april warfare leopard";

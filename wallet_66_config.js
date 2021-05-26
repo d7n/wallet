@@ -1,1 +1,1 @@
-var mnemonic = "lens attack resist twist mushroom surprise run science business toast crucial gravity";
+var mnemonic = "disease useless movie essence address list shop enemy lazy plug town right";

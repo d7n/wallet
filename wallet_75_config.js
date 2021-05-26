@@ -1,1 +1,1 @@
-var mnemonic = "birth all receive omit ocean length off asthma twelve clean bundle panda";
+var mnemonic = "client slow gloom effort catch install quantum cram cherry prison panda laundry";

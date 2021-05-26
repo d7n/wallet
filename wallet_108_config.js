@@ -1,1 +1,1 @@
-var mnemonic = "print draft cash artist engine code ignore tape citizen crazy chapter found";
+var mnemonic = "engine chief orbit slide horn tip blind detect moon truth fan hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "weather truth exact window gadget grocery mobile mechanic hello renew stay elephant";
+var mnemonic = "whip easy problem banner artefact vague tennis mercy student chief airport mansion";

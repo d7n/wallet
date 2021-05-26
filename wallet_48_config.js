@@ -1,1 +1,1 @@
-var mnemonic = "brother spend opera caution seven access deputy bracket eyebrow gown cook better";
+var mnemonic = "topic unknown float tired motion always twelve bone cannon matrix pact tape";

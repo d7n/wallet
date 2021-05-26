@@ -1,1 +1,1 @@
-var mnemonic = "save garbage change pepper uniform bacon one puzzle blush urge leisure left";
+var mnemonic = "gossip gap sphere upper ordinary smooth question predict hockey never found print";

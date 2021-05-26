@@ -1,1 +1,1 @@
-var mnemonic = "sick surge drift direct supreme what basic digital mesh local alley shield";
+var mnemonic = "feel clip accuse claim achieve salmon ready sell youth gravity holiday music";

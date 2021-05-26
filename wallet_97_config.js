@@ -1,1 +1,1 @@
-var mnemonic = "master visa guide isolate ticket burden chase quit spin brand sea orchard";
+var mnemonic = "quote comfort next violin gas rotate cause creek winter brush approve fossil";

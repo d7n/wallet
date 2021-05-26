@@ -1,1 +1,1 @@
-var mnemonic = "shrimp foil afford middle order floor boat host stock scrub regret broom";
+var mnemonic = "orphan barrel weird pond kid camp sausage vintage eight resemble follow question";

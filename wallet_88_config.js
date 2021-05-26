@@ -1,1 +1,1 @@
-var mnemonic = "song october brick grace absent bullet have twin release city blast okay";
+var mnemonic = "pink address raw obscure child sphere matrix solar release that fringe woman";

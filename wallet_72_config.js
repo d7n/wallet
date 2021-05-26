@@ -1,1 +1,1 @@
-var mnemonic = "tunnel until right friend very symbol robot recall army put avoid truck";
+var mnemonic = "arm tray morning educate adjust inch room prevent when juice wrestle leader";

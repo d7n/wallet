@@ -1,1 +1,1 @@
-var mnemonic = "left loan thumb advance world cable glad economy scene helmet prison beauty";
+var mnemonic = "gain answer poem permit item symptom loyal wet estate trial narrow shine";

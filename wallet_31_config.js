@@ -1,1 +1,1 @@
-var mnemonic = "rent fatal exit trophy stage speed coconut donor identify popular flavor general";
+var mnemonic = "because donkey rough cave jungle bench grant example soldier shoe exhaust rocket";

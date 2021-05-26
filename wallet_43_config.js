@@ -1,1 +1,1 @@
-var mnemonic = "link absurd often cycle century stem seed car lizard inch aspect twice";
+var mnemonic = "physical capital fabric system describe tilt famous cry define resource blast mention";

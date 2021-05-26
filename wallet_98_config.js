@@ -1,1 +1,1 @@
-var mnemonic = "blood grace attract hamster build blossom endless acquire educate dinner priority climb";
+var mnemonic = "identify harbor uncover gather record diagram abuse suspect biology depend sister around";

@@ -1,1 +1,1 @@
-var mnemonic = "powder decide hamster poet change frozen educate cash unique cliff note connect";
+var mnemonic = "physical misery history enhance core wire punch casino issue obscure together expire";

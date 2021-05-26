@@ -1,1 +1,1 @@
-var mnemonic = "bread tourist goddess essence accident behind gap disorder mango bronze adult habit";
+var mnemonic = "inform donor near fragile perfect rifle battle survey imitate next gesture love";

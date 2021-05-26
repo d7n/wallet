@@ -1,1 +1,1 @@
-var mnemonic = "pool inspire memory news category excite reopen decorate duck predict harbor model";
+var mnemonic = "captain smooth skirt devote parade dolphin ugly kiss promote tell inherit hidden";

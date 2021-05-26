@@ -1,1 +1,1 @@
-var mnemonic = "ozone host token view home tumble copper net despair pole illness toe";
+var mnemonic = "warfare crime answer effort latin mobile credit scrap supply pilot season capable";

@@ -1,1 +1,1 @@
-var mnemonic = "drink collect awkward small soft afraid volcano palace shell lake strategy enroll";
+var mnemonic = "begin stem light hold skirt olympic method enemy pattern leopard arch lumber";

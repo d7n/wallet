@@ -1,1 +1,1 @@
-var mnemonic = "trip face decade woman wool spray door clump truth weather mutual squirrel";
+var mnemonic = "link tooth alpha law require naive ordinary million shed match dog energy";

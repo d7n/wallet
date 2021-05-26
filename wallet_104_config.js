@@ -1,1 +1,1 @@
-var mnemonic = "forward goddess leaf thing tag blossom gadget earth dose scorpion wage where";
+var mnemonic = "sister shoot suggest erase arm diesel sunny good clever uniform cattle tank";

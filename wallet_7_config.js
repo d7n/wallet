@@ -1,1 +1,1 @@
-var mnemonic = "crop cupboard yellow shock blanket expose gold liar surround record key swift";
+var mnemonic = "shadow coach novel solve dolphin blouse water pull worth begin slow protect";

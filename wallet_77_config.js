@@ -1,1 +1,1 @@
-var mnemonic = "stone excess shell december enable useless diamond net obey net distance essay";
+var mnemonic = "water rain city purpose vapor average tape property hole team before priority";

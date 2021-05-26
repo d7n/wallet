@@ -1,1 +1,1 @@
-var mnemonic = "glide rain unaware shiver genius perfect symptom aspect liquid draft exit know";
+var mnemonic = "humor under choice soap immense soda raw always finish zone affair amazing";

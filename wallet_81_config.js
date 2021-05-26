@@ -1,1 +1,1 @@
-var mnemonic = "journey ostrich bicycle sleep off proud boring original rug brave deer metal";
+var mnemonic = "snow wealth raise illness legal primary flip rough rich advice afraid zero";

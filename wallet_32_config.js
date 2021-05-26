@@ -1,1 +1,1 @@
-var mnemonic = "lady pass dove eye lesson around leopard banana immense net wheel jealous";
+var mnemonic = "pause absurd balcony people usual canoe board scatter swift tiger kid elbow";

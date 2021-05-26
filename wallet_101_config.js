@@ -1,1 +1,1 @@
-var mnemonic = "gather allow chaos cradle race message tag lock coyote cup slot stamp";
+var mnemonic = "coin mutual blur dizzy avocado need plate catalog narrow giant bounce vacant";

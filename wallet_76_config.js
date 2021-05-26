@@ -1,1 +1,1 @@
-var mnemonic = "vicious sun also pelican lobster law pledge cause arctic kiwi again mobile";
+var mnemonic = "cousin asset pioneer salad actor safe palace mammal kangaroo visit copy lion";

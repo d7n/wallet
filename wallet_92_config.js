@@ -1,1 +1,1 @@
-var mnemonic = "south fish offer penalty exile chief stairs athlete jealous service improve improve";
+var mnemonic = "panel eager idle tuition keep deal acid fatal caution ski swap find";

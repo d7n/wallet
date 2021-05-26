@@ -1,1 +1,1 @@
-var mnemonic = "warm year answer future stable excess rigid error man tip endorse ceiling";
+var mnemonic = "base song night enroll bonus author sing canyon engine tuition bleak repeat";

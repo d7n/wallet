@@ -1,1 +1,1 @@
-var mnemonic = "race turtle layer treat ridge goose wood awkward faith pepper series resist";
+var mnemonic = "biology slogan biology ranch add toe topple route craft violin galaxy artwork";

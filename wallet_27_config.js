@@ -1,1 +1,1 @@
-var mnemonic = "slam bird lamp exit student purity obscure verify weapon expire tide silver";
+var mnemonic = "vintage eternal obscure interest combine friend empty found mandate dry just another";

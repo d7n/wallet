@@ -1,1 +1,1 @@
-var mnemonic = "post trap limit poverty despair hollow answer cover dash hobby predict rough";
+var mnemonic = "orphan car town leaf sniff okay secret morning skull across pupil caution";

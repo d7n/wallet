@@ -1,1 +1,1 @@
-var mnemonic = "cruise milk relax salmon rapid grid truly rather mandate frown small lemon";
+var mnemonic = "obtain math purse arrest mother age expand stamp dad gold pony civil";

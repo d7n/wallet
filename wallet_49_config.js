@@ -1,1 +1,1 @@
-var mnemonic = "style advice devote profit arrive nephew few coil direct fossil lift resist";
+var mnemonic = "goat remain venue slam tone very more loyal call pipe judge breeze";

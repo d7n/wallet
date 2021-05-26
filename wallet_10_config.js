@@ -1,1 +1,1 @@
-var mnemonic = "merge know quarter episode top daughter future answer skate cycle orphan hour";
+var mnemonic = "around plastic age outdoor hazard attend fashion rotate pumpkin bar desert ring";

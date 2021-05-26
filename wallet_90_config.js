@@ -1,1 +1,1 @@
-var mnemonic = "erosion excess boat absent depend exact return tobacco volume panel govern guess";
+var mnemonic = "allow embrace cotton much crisp charge jewel fine depend eight dinner vehicle";

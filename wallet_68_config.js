@@ -1,1 +1,1 @@
-var mnemonic = "ride gadget life lake slush attract pass spatial wisdom depth resource supreme";
+var mnemonic = "kite old cave ready asset light wood clever glare come father wheel";

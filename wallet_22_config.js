@@ -1,1 +1,1 @@
-var mnemonic = "ghost what jewel slam maple dismiss cash across fish crumble fence flame";
+var mnemonic = "skill biology record moral anchor tooth high fluid circle lonely all able";

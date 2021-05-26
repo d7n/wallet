@@ -1,1 +1,1 @@
-var mnemonic = "clever school year unfair silver tide broom coach beach picture drift heavy";
+var mnemonic = "maximum welcome hand parrot blanket rule offer harvest bird approve already school";

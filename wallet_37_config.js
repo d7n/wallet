@@ -1,1 +1,1 @@
-var mnemonic = "city plunge train receive undo engage hurry duck galaxy grocery involve note";
+var mnemonic = "draw mandate cry body brown more weasel fantasy kingdom try title mutual";

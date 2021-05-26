@@ -1,1 +1,1 @@
-var mnemonic = "often rough rain polar describe acoustic alert current melt theme sell card";
+var mnemonic = "mountain animal stadium casual custom fold over genius shiver what merge toss";
