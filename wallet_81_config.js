@@ -1,1 +1,1 @@
-var mnemonic = "skin fruit power nature nasty rhythm episode minor borrow bar melody rhythm";
+var mnemonic = "mobile ceiling wide cradle area trumpet one tower reflect buyer pet account";

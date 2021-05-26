@@ -1,1 +1,1 @@
-var mnemonic = "lesson whale effort crash motor scan pizza tail gift ghost later ahead";
+var mnemonic = "bargain truck photo swarm supreme recycle cousin void fiber obvious fence sudden";

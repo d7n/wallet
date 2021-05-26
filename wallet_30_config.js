@@ -1,1 +1,1 @@
-var mnemonic = "solid state trophy portion afraid congress embrace mercy push menu glad guide";
+var mnemonic = "job angry snap brass race execute airport leg analyst member quit movie";

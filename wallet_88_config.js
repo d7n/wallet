@@ -1,1 +1,1 @@
-var mnemonic = "illness response liquid success castle humor devote domain cushion elite test end";
+var mnemonic = "ugly flavor blood wood warm speak army pact fog divert ripple they";

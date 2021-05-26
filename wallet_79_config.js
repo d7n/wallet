@@ -1,1 +1,1 @@
-var mnemonic = "truck banner awkward family agent web talk usual mixed permit giggle lemon";
+var mnemonic = "negative purse unlock month assault luxury snack talk battle soldier assume pepper";

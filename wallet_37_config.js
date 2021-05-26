@@ -1,1 +1,1 @@
-var mnemonic = "gown hedgehog round other tourist cycle carbon moral wreck diesel happy light";
+var mnemonic = "order rapid mesh buzz oyster negative vehicle fine wealth warm jewel island";

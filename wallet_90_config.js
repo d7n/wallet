@@ -1,1 +1,1 @@
-var mnemonic = "worth guide lunch bicycle more shift toast month combine decrease sniff depend";
+var mnemonic = "cause soul hungry stamp grape rough mountain pumpkin pumpkin steak film goat";

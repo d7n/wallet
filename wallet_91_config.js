@@ -1,1 +1,1 @@
-var mnemonic = "ghost want broccoli real decrease hybrid truly unlock rule another daring cloud";
+var mnemonic = "basic spice plug shrug lawn dream minor invest harsh virtual body prefer";

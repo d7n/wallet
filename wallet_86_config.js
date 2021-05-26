@@ -1,1 +1,1 @@
-var mnemonic = "envelope peace library sausage girl tortoise inflict glue also ketchup lake cat";
+var mnemonic = "habit taxi peasant jealous report cattle dust coast nasty achieve list casino";

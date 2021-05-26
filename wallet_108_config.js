@@ -1,1 +1,1 @@
-var mnemonic = "pulp ride write until corn mom field husband category pupil spend huge";
+var mnemonic = "silly trick twice inside certain soup toward success voice wheel rescue when";

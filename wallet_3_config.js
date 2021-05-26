@@ -1,1 +1,1 @@
-var mnemonic = "cheese gloom elite electric raccoon under midnight super rhythm multiply state hood";
+var mnemonic = "cute hero farm attack hint spray scrub mercy inch print flower expand";

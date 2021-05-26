@@ -1,1 +1,1 @@
-var mnemonic = "demise salmon debate sock powder since view flip shuffle essence spot smile";
+var mnemonic = "tube firm exotic giraffe radio arch hold project west very tourist height";

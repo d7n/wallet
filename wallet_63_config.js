@@ -1,1 +1,1 @@
-var mnemonic = "swift ankle unfair caution strategy wild eternal weapon muffin crawl erupt pact";
+var mnemonic = "lumber toe virus expand mixed game fold couch satisfy armor attend empower";

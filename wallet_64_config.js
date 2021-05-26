@@ -1,1 +1,1 @@
-var mnemonic = "ritual eager draw prefer feed reflect erosion toe imitate split strategy stereo";
+var mnemonic = "mom elbow still build tree august supreme order cool segment unit side";

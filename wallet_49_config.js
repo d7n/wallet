@@ -1,1 +1,1 @@
-var mnemonic = "three skate tonight kid fancy city bronze hood airport sample toy pond";
+var mnemonic = "spare tower lobster heavy good income merry cat scene sport visit bread";

@@ -1,1 +1,1 @@
-var mnemonic = "agent devote process patch action lady execute boil lava ask favorite frog";
+var mnemonic = "around grain door place rocket observe same marriage unaware blast habit viable";

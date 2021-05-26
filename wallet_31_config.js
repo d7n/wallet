@@ -1,1 +1,1 @@
-var mnemonic = "elite october accuse one measure orbit rain axis settle neck forest tilt";
+var mnemonic = "orchard pride excuse sun machine globe water twice tourist zero turtle illness";

@@ -1,1 +1,1 @@
-var mnemonic = "convince machine three friend require knock toss question olympic host cricket awesome";
+var mnemonic = "endless miracle random burden drift debris witness adult dismiss decade vault slam";

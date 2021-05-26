@@ -1,1 +1,1 @@
-var mnemonic = "wear addict must aunt palm average forest belt outdoor chunk want live";
+var mnemonic = "peanut hedgehog ivory crystal motion undo coach flower system target picture staff";

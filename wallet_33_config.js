@@ -1,1 +1,1 @@
-var mnemonic = "define key segment window menu shallow camera slide glow sweet clip student";
+var mnemonic = "color blouse enrich assist gown popular fault artwork spatial nation seminar wagon";

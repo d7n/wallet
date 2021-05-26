@@ -1,1 +1,1 @@
-var mnemonic = "regular fragile sustain verify bonus group crew settle cube figure soon unlock";
+var mnemonic = "mirror super marriage depart knife duty vanish stove notable upgrade acid height";

@@ -1,1 +1,1 @@
-var mnemonic = "among garbage wasp awkward better glance wonder supreme color nothing dish become";
+var mnemonic = "rural prepare traffic harbor poem emotion proud lounge rich humble system congress";

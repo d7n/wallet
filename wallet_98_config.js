@@ -1,1 +1,1 @@
-var mnemonic = "claw exchange analyst fantasy near gold easy liberty pause sand still seed";
+var mnemonic = "cover sleep grab employ word drum diary boss response garlic betray title";

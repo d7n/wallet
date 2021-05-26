@@ -1,1 +1,1 @@
-var mnemonic = "occur gorilla business shift trophy notable total cat ten grocery ladder inch";
+var mnemonic = "stairs problem pond express orbit talent hub armor swallow zero trash such";

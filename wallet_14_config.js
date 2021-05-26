@@ -1,1 +1,1 @@
-var mnemonic = "shift argue forget organ loud limit salon enforce child token hair plug";
+var mnemonic = "blame clown casual author pill maid useful shed mutual scatter primary hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "debris apart wonder suggest thank panel awake shuffle cream army warrior differ";
+var mnemonic = "august normal shock peasant pair length labor window post meat liar share";

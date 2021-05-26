@@ -1,1 +1,1 @@
-var mnemonic = "doll glad relax pole unique rocket cash shiver host flock forest person";
+var mnemonic = "fiction dynamic embody fiber holiday mushroom fun august practice sand radio link";

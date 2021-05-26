@@ -1,1 +1,1 @@
-var mnemonic = "inhale midnight comic elegant obtain people athlete minor relief bind despair anxiety";
+var mnemonic = "best bottom vessel field economy secret glue obtain fame drop window diamond";

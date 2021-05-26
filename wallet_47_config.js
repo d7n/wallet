@@ -1,1 +1,1 @@
-var mnemonic = "mistake health cake actual figure twenty warrior maid arrive cry census test";
+var mnemonic = "cook alarm sense slim move duty brick peace glory since task acoustic";

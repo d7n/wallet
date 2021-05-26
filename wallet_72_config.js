@@ -1,1 +1,1 @@
-var mnemonic = "glimpse interest turn mechanic mention foster scrap feel plate fetch torch boss";
+var mnemonic = "mother sibling eight very soft romance boring purpose sick verb retreat breeze";

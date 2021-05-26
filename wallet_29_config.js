@@ -1,1 +1,1 @@
-var mnemonic = "pill prepare mechanic stereo patient cup present nurse proud eternal regular bench";
+var mnemonic = "artwork edge silver truly approve minimum wise exotic mimic arrange horn purse";

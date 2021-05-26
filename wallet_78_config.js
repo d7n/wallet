@@ -1,1 +1,1 @@
-var mnemonic = "chunk vanish mention table gain memory mad soon satisfy inspire expire consider";
+var mnemonic = "harvest arrive rookie enjoy right cruise fatal stick surprise armor enact food";

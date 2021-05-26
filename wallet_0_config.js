@@ -1,1 +1,1 @@
-var mnemonic = "minute primary eagle limb cake unusual canvas capital frost agent gesture cupboard";
+var mnemonic = "romance supply remain spray copy patch decide melody speed fatigue quiz quote";

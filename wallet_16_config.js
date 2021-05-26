@@ -1,1 +1,1 @@
-var mnemonic = "walk ginger tube rich expand have promote radio middle pass leave during";
+var mnemonic = "purity erase fall shine dove fat merge pet federal boil glory jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard pretty injury sunny draft poverty injury there achieve pact jewel loyal";
+var mnemonic = "wage merry couple wrestle noise kind fiction only brain fork lend olive";

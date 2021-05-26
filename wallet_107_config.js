@@ -1,1 +1,1 @@
-var mnemonic = "two wait chest nation find breeze cliff riot split square result baby";
+var mnemonic = "utility hello grit wrong exhibit peasant mail mass point first walk nurse";

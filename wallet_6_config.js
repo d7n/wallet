@@ -1,1 +1,1 @@
-var mnemonic = "crash team dial faith maple virus caught vintage have stock law pencil";
+var mnemonic = "beauty isolate sock vendor north enable butter domain spirit clerk boss teach";

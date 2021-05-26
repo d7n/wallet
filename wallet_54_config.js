@@ -1,1 +1,1 @@
-var mnemonic = "waste month stadium brush another mango peace cricket bar region caution attract";
+var mnemonic = "boat divert amused foot illness cash train nose dish urban forget pool";

@@ -1,1 +1,1 @@
-var mnemonic = "such must paper please clog hub ten hospital trip symbol iron struggle";
+var mnemonic = "link illegal battle claw cake frog swim sheriff combine sister dress glad";

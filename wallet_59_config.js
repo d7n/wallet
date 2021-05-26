@@ -1,1 +1,1 @@
-var mnemonic = "picnic fossil patch time poverty doctor execute minute apology patient stone win";
+var mnemonic = "ribbon endorse assume scorpion blanket father thrive scan virtual pumpkin symbol split";

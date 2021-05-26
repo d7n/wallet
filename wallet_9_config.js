@@ -1,1 +1,1 @@
-var mnemonic = "traffic ball kiwi certain insane sketch step satoshi exist tide error crop";
+var mnemonic = "teach stock father radar feature dignity little rely matrix forward outer badge";

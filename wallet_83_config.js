@@ -1,1 +1,1 @@
-var mnemonic = "hip space garden rigid autumn carbon about voyage joy pretty inflict page";
+var mnemonic = "riot settle label model ankle grit student tumble spider sorry tobacco ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "venture design involve bike flee gain dove betray occur wagon tool blame";
+var mnemonic = "grape hat trial boil injury goat cradle clip few give grape jelly";

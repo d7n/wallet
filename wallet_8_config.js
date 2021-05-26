@@ -1,1 +1,1 @@
-var mnemonic = "more era tree punch own advice city olympic magnet stove motor violin";
+var mnemonic = "guide immune lesson alcohol awkward task faith discover electric coyote always trip";

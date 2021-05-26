@@ -1,1 +1,1 @@
-var mnemonic = "snack barrel arch kiwi tail basket topic sea calm orbit cloth siren";
+var mnemonic = "bid wedding bicycle hand lonely oblige tell various mouse feed fly remember";

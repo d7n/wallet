@@ -1,1 +1,1 @@
-var mnemonic = "divide undo cute phrase vanish drum entry shoulder jar token square album";
+var mnemonic = "survey boil swing brass ritual hat pull mobile diesel rocket weather exercise";

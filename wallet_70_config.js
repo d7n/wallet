@@ -1,1 +1,1 @@
-var mnemonic = "disorder figure clock wagon camera undo chuckle talk library box thing unfold";
+var mnemonic = "fragile air deputy alley margin search riot forest west brand industry jewel";

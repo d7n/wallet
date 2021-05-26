@@ -1,1 +1,1 @@
-var mnemonic = "badge stand situate salt state hedgehog favorite cattle ecology spread sphere cheese";
+var mnemonic = "devote happy tackle throw clean holiday basket close admit stem trial leopard";

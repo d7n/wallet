@@ -1,1 +1,1 @@
-var mnemonic = "shadow dad segment scrap insect mad dose avocado timber retreat butter raw";
+var mnemonic = "speed shy decline bag nurse sphere bonus off below artist camera surface";

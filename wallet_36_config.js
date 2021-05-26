@@ -1,1 +1,1 @@
-var mnemonic = "leg float medal proof avocado scan nasty syrup size marriage ranch rare";
+var mnemonic = "water round reveal infant voice duty enrich wire pond guilt news buyer";

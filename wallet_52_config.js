@@ -1,1 +1,1 @@
-var mnemonic = "mouse notice sugar virus today lift mule fever stock crawl add then";
+var mnemonic = "guilt century expose shrimp web venture sign awake safe wood tube ceiling";

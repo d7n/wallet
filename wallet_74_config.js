@@ -1,1 +1,1 @@
-var mnemonic = "icon flame useless cabbage hockey famous cause panda wrong ticket raccoon can";
+var mnemonic = "rubber ripple mirror borrow august coral swear dignity category jelly shoot lady";

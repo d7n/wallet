@@ -1,1 +1,1 @@
-var mnemonic = "upgrade social sure popular fence cruel globe smooth bike tuna often detail";
+var mnemonic = "fragile snap sock hurt receive humble fat session small very garbage exclude";

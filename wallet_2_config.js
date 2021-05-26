@@ -1,1 +1,1 @@
-var mnemonic = "mandate opera first air birth bounce fashion iron doll asset banana transfer";
+var mnemonic = "manual prevent more nose tomato mad attack stock program gap brass cute";

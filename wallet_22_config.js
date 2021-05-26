@@ -1,1 +1,1 @@
-var mnemonic = "depend drift you tray creek penalty time flip spin lava cactus glove";
+var mnemonic = "salon wife barrel ripple cushion ridge flame fan chicken mechanic need garlic";

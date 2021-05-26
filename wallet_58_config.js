@@ -1,1 +1,1 @@
-var mnemonic = "good piano work sad doll deposit struggle tornado horn polar tone verify";
+var mnemonic = "mango bleak cradle crash fresh leader outdoor swear health cannon urge ticket";

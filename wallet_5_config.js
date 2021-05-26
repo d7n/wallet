@@ -1,1 +1,1 @@
-var mnemonic = "chase dust quarter frame supply author panther home dilemma dove hero glare";
+var mnemonic = "plate cupboard gallery robot crowd question grunt car garment broccoli mention bid";

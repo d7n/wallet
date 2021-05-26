@@ -1,1 +1,1 @@
-var mnemonic = "mango kid ask sort believe beauty near game hockey wide wine present";
+var mnemonic = "main common sadness fork later dolphin surface language response cricket admit creek";

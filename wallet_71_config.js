@@ -1,1 +1,1 @@
-var mnemonic = "vapor half rifle bullet gold risk hub alarm rough orchard robot bracket";
+var mnemonic = "asthma under dash loan champion okay useless guide fresh senior prize chalk";

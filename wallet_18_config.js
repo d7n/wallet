@@ -1,1 +1,1 @@
-var mnemonic = "infant city daughter history drive rain farm snow february treat play satoshi";
+var mnemonic = "minor account twenty assume first south clean wreck spring advice duck leopard";

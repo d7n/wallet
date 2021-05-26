@@ -1,1 +1,1 @@
-var mnemonic = "dawn ship wise recycle among sleep found ghost average junior riot join";
+var mnemonic = "else beauty recipe silver rib juice solid ensure unable actor sausage ribbon";

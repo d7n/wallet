@@ -1,1 +1,1 @@
-var mnemonic = "season wet smart puzzle orange shoot start ten jar trap finger globe";
+var mnemonic = "knee gate eager rich write impulse truth genius milk forget ski frog";

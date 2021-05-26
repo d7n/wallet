@@ -1,1 +1,1 @@
-var mnemonic = "album grain quarter venue layer room snap craft example orient august famous";
+var mnemonic = "letter detail furnace romance swarm purchase alcohol benefit cruise board warrior boss";

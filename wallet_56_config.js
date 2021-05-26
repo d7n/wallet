@@ -1,1 +1,1 @@
-var mnemonic = "tornado virtual amount subway capital cigar excuse goddess decrease other cigar grab";
+var mnemonic = "elder spare genius change benefit veteran stuff fresh staff unveil warrior split";

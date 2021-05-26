@@ -1,1 +1,1 @@
-var mnemonic = "minute dumb ask secret wet option diesel animal decrease traffic defense harvest";
+var mnemonic = "item desk merry web ketchup famous huge protect expand boost save unit";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma squeeze siege wait noodle work liquid summer tuna federal anchor mammal";
+var mnemonic = "predict essay tool power bridge height suggest kiwi budget parent airport gym";

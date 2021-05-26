@@ -1,1 +1,1 @@
-var mnemonic = "devote fame outer shock search whip bachelor boring kitchen gossip prison capable";
+var mnemonic = "captain chief until boat funny unit front habit image job alter disorder";

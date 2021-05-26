@@ -1,1 +1,1 @@
-var mnemonic = "tuna bench rose mountain crawl razor gun hobby indicate latin salon area";
+var mnemonic = "point tomorrow lake region asset wink again math letter build drop miss";

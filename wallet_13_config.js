@@ -1,1 +1,1 @@
-var mnemonic = "tragic job swift heart child pottery all misery put indoor excuse wood";
+var mnemonic = "cup render rug card vicious cargo fiber hope gym release say you";

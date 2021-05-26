@@ -1,1 +1,1 @@
-var mnemonic = "dutch visa cook divide iron lizard conduct plate slight promote exact kitchen";
+var mnemonic = "rail increase armed turtle achieve change step thrive used tone exhibit mystery";

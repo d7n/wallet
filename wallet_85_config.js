@@ -1,1 +1,1 @@
-var mnemonic = "capable vacant bleak cream smoke excuse secret decline castle pen insect holiday";
+var mnemonic = "spirit bind vendor lamp indicate yellow focus lawn sentence chase sketch veteran";

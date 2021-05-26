@@ -1,1 +1,1 @@
-var mnemonic = "follow clog fever advance afford advice goose aspect owner meat market unveil";
+var mnemonic = "again deer seed tenant cactus that memory rather uphold analyst analyst ankle";

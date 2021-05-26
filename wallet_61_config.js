@@ -1,1 +1,1 @@
-var mnemonic = "inflict net rain ramp tortoise shoot wonder hedgehog derive belt filter maximum";
+var mnemonic = "truth iron sock taxi sister forest earn already sadness middle fuel worry";

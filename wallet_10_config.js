@@ -1,1 +1,1 @@
-var mnemonic = "peasant erase side vendor steak hip evolve knife sudden hover pizza region";
+var mnemonic = "empower also audit drama zebra exclude sure ride bone shove bronze copper";

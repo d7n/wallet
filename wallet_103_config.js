@@ -1,1 +1,1 @@
-var mnemonic = "main tool detect mask filter off tomorrow diesel pilot lumber sad small";
+var mnemonic = "drip sight ask flip profit cradle mirror duty grief expire style moral";

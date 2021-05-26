@@ -1,1 +1,1 @@
-var mnemonic = "sound behind utility identify gallery tonight cattle true gym powder false direct";
+var mnemonic = "cake ivory voyage firm virus proud junior snake fringe used scheme wait";

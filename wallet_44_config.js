@@ -1,1 +1,1 @@
-var mnemonic = "swim sleep post master dove toast order lemon furnace bracket bind sentence";
+var mnemonic = "act main blanket ticket resist feed grain turtle segment boy north music";

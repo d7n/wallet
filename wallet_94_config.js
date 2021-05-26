@@ -1,1 +1,1 @@
-var mnemonic = "wedding assume sheriff receive mistake rail eight harbor pear extend ski decline";
+var mnemonic = "come edit unveil hidden panther monkey actress genuine forum rhythm front away";

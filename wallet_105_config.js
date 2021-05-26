@@ -1,1 +1,1 @@
-var mnemonic = "copper inhale thunder attend jungle enforce float glance fee object nothing deputy";
+var mnemonic = "riot slush below faint bench laugh sadness mammal assume hungry street view";

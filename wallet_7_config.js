@@ -1,1 +1,1 @@
-var mnemonic = "unique amount novel plastic shoulder buzz zone together better zone supreme flush";
+var mnemonic = "agent lemon drill surface arrange load road actress dumb satisfy trash knife";

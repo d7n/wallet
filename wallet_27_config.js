@@ -1,1 +1,1 @@
-var mnemonic = "witness media raccoon into learn trumpet glad tortoise arrest budget recycle north";
+var mnemonic = "turtle again pond bacon dirt canyon chimney thank smart make glory dune";

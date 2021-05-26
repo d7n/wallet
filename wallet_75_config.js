@@ -1,1 +1,1 @@
-var mnemonic = "north call present quarter jealous thing defy very neglect uncover hip danger";
+var mnemonic = "denial mechanic animal inflict satoshi cereal mom glide extra pepper angle ceiling";

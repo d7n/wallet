@@ -1,1 +1,1 @@
-var mnemonic = "salute slot across arena detect capable army hurdle ethics bar educate couch";
+var mnemonic = "comfort sand inside flag swamp album sudden silver grid ice twelve melody";

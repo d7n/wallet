@@ -1,1 +1,1 @@
-var mnemonic = "axis organ abstract this smile cash metal banana rare sword horror furnace";
+var mnemonic = "rate air group marriage reform october sister also awful lawn relief flat";

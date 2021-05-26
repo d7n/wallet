@@ -1,1 +1,1 @@
-var mnemonic = "segment want vapor tool pilot account fine problem coffee undo float scrap";
+var mnemonic = "develop photo bleak ankle boost exist virtual rent allow dignity island provide";

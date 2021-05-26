@@ -1,1 +1,1 @@
-var mnemonic = "emotion apology onion rabbit dawn twice era regret chronic marine payment warfare";
+var mnemonic = "boss fun before flock solar tiger pause elite unique mesh satoshi civil";

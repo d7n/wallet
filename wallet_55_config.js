@@ -1,1 +1,1 @@
-var mnemonic = "grit soon swing include clerk foam suspect potato trumpet dizzy trim tip";
+var mnemonic = "empower popular anchor message clerk agree legend rice way soldier stay pole";

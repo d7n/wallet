@@ -1,1 +1,1 @@
-var mnemonic = "bus smoke object lawn job rib secret abandon turn vault safe predict";
+var mnemonic = "brother unit film flee cheese way disagree scorpion raise forum orchard salute";
