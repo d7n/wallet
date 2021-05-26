@@ -1,1 +1,1 @@
-var mnemonic = "ski female strong truck speed number fly coach nurse steel purse cheap";
+var mnemonic = "damage pyramid copper flush eyebrow differ sail staff taxi pear sister item";

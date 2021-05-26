@@ -1,1 +1,1 @@
-var mnemonic = "suit purpose tone put arch busy vault struggle fetch moon rebel kitten";
+var mnemonic = "tackle cherry vivid happy select company blanket short rib age wrestle practice";

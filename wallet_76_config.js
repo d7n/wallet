@@ -1,1 +1,1 @@
-var mnemonic = "leopard lake tip joy blossom shrug beyond clay certain measure unusual pond";
+var mnemonic = "rare stool erase note wave pen valve upgrade verify frequent already able";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact ignore celery wall fury nose shallow eyebrow step wedding couch cover";
+var mnemonic = "elegant alien law slight swift idle spy middle calm awesome reward illness";

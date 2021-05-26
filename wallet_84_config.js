@@ -1,1 +1,1 @@
-var mnemonic = "flight include figure orphan now planet switch burger omit prize cliff churn";
+var mnemonic = "asthma raw spell laundry fat observe robot island object pool relax toss";

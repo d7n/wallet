@@ -1,1 +1,1 @@
-var mnemonic = "marine feel letter stairs river jaguar upset select only scissors neutral agent";
+var mnemonic = "fold immune enable cherry mouse below eyebrow coffee melt layer bag lonely";

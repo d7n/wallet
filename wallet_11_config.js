@@ -1,1 +1,1 @@
-var mnemonic = "remind subject verb veteran suspect toilet struggle oppose shiver draw foot simple";
+var mnemonic = "fossil record broken dune park raise actor discover dance hurt debris future";

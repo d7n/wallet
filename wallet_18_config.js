@@ -1,1 +1,1 @@
-var mnemonic = "labor normal holiday pool knife east adult celery horse silk grant wreck";
+var mnemonic = "cabin wire junk south choose myth crowd toilet convince there twelve motor";

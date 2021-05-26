@@ -1,1 +1,1 @@
-var mnemonic = "input early bird kite coyote visual awake wink expose motion space under";
+var mnemonic = "arrest cabbage middle minute picnic opinion swarm birth already romance gown utility";

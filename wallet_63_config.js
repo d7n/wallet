@@ -1,1 +1,1 @@
-var mnemonic = "cactus fringe moment observe poem account put supreme blind filter pipe inherit";
+var mnemonic = "oil trade cliff rain double very skill vague garment also rubber aware";

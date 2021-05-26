@@ -1,1 +1,1 @@
-var mnemonic = "canyon ozone robust equip current doll remember flower license crowd stage caution";
+var mnemonic = "throw summer wood shove share turkey arrive liar motor host stool middle";

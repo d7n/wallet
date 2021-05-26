@@ -1,1 +1,1 @@
-var mnemonic = "sword mimic legal february inspire flash armor salon oven rather develop loan";
+var mnemonic = "increase chief tourist gold alone torch layer picture mouse pizza rib act";

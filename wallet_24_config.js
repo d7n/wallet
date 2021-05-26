@@ -1,1 +1,1 @@
-var mnemonic = "happy lunar labor funny barrel perfect clump unaware prevent nuclear wash spider";
+var mnemonic = "sorry candy appear shuffle undo win come essence vault vital inquiry secret";

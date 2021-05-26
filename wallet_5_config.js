@@ -1,1 +1,1 @@
-var mnemonic = "meat category biology ocean pear glad wild pole tumble hollow deer sweet";
+var mnemonic = "useful prevent ceiling indicate link patient twist verb reject leave february loan";

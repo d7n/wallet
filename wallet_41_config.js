@@ -1,1 +1,1 @@
-var mnemonic = "donkey laundry frame bring retreat endless narrow act expand safe ten cloud";
+var mnemonic = "divert country extend sign fun arena disorder auto august winter duck garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "memory puppy april spring today first admit dream forward govern tank sing";
+var mnemonic = "parade liar bean ripple song affair brush blast tenant source act choose";

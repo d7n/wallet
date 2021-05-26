@@ -1,1 +1,1 @@
-var mnemonic = "hawk next hazard brother abandon click proof ticket cup pulse shiver during";
+var mnemonic = "distance float announce glory pulse tape orphan promote general ribbon spatial category";

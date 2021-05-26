@@ -1,1 +1,1 @@
-var mnemonic = "clutch twelve above brown swap onion steel prepare asthma gym maximum alone";
+var mnemonic = "tobacco glance whip usual fog churn above strong income will adjust feature";

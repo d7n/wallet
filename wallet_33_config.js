@@ -1,1 +1,1 @@
-var mnemonic = "float birth calm number example broccoli craft orchard night dice then avocado";
+var mnemonic = "solve call truly hungry antique today cigar guess lava copy tomorrow celery";

@@ -1,1 +1,1 @@
-var mnemonic = "system involve derive donate brown public phrase people then object immune weird";
+var mnemonic = "kangaroo piece fatigue file puzzle error online tip sing hint tone good";

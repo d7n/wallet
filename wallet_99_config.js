@@ -1,1 +1,1 @@
-var mnemonic = "blame else wheat axis flat organ photo harvest this supply loop maximum";
+var mnemonic = "symbol walk toilet orbit paddle nut suit element finger gain when table";

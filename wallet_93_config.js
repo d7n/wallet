@@ -1,1 +1,1 @@
-var mnemonic = "novel soda olympic figure seat submit achieve crater vapor pink size flip";
+var mnemonic = "initial demand indicate helmet maple awful shop shallow green boy text old";

@@ -1,1 +1,1 @@
-var mnemonic = "praise deliver few forget favorite tackle convince history mushroom shrimp valve sing";
+var mnemonic = "message humor glory keep mail there phrase poverty claim token payment upset";

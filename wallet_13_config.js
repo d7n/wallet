@@ -1,1 +1,1 @@
-var mnemonic = "cluster laugh direct pluck level embark smoke wonder cycle huge crack crunch";
+var mnemonic = "ceiling more milk left ice congress indicate palace skull hockey laugh glimpse";

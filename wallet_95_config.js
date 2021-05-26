@@ -1,1 +1,1 @@
-var mnemonic = "sphere process kiwi topic glide lion practice always dwarf stick home royal";
+var mnemonic = "first antenna wonder myself lion razor ginger when clever sauce vast carpet";

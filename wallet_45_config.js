@@ -1,1 +1,1 @@
-var mnemonic = "cabin lens appear north grace distance february silver slide panic worry skull";
+var mnemonic = "switch satoshi laundry system rebuild analyst dirt vast bring whale surge mobile";

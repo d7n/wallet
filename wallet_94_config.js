@@ -1,1 +1,1 @@
-var mnemonic = "patrol pyramid breeze away hungry priority merry reflect modify casino coin author";
+var mnemonic = "great ring sweet general elegant glory tired north brass sing tribe bench";

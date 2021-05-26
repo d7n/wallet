@@ -1,1 +1,1 @@
-var mnemonic = "evil display multiply rail lecture tell glad luggage grief seek choose entire";
+var mnemonic = "tag left hip world enforce year blush claim valve spy latin impulse";

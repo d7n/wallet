@@ -1,1 +1,1 @@
-var mnemonic = "arm flavor business arrange small world mixture pull mouse guess zebra rhythm";
+var mnemonic = "learn foam tattoo dolphin talent egg reward have donor ozone blade north";

@@ -1,1 +1,1 @@
-var mnemonic = "physical brass tomorrow forget survey book cool float road unable rack endorse";
+var mnemonic = "film canyon tag focus shrimp amateur scorpion welcome stadium income athlete forget";

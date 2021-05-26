@@ -1,1 +1,1 @@
-var mnemonic = "legal quarter weird fossil security apology chaos wrap prevent indicate boring neither";
+var mnemonic = "anchor parent hair connect box bomb drop prison island dinosaur idle phrase";

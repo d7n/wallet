@@ -1,1 +1,1 @@
-var mnemonic = "essence latin recall powder nominee canoe social recall minor market cotton nurse";
+var mnemonic = "wolf major duty occur horse sail bounce bullet annual awkward stadium usual";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect mistake model useless lock marriage anxiety fan employ visual volcano imitate";
+var mnemonic = "conduct worry myth text link volume melody hungry trouble sick tribe direct";

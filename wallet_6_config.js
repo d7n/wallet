@@ -1,1 +1,1 @@
-var mnemonic = "category sock above eye toward impose local under column sketch cruel immune";
+var mnemonic = "call dose spawn pulse plate festival label state front acquire beef cheap";

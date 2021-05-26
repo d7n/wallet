@@ -1,1 +1,1 @@
-var mnemonic = "inquiry gun horn sleep athlete slot sight buddy math bid income flavor";
+var mnemonic = "pull vocal grace bracket rabbit plug weather shoot firm kick service version";

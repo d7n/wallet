@@ -1,1 +1,1 @@
-var mnemonic = "mind glad eager busy turn front mouse track rocket valve idea prepare";
+var mnemonic = "dirt pill tag unit apart finish aspect skull acoustic response spatial home";

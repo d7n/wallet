@@ -1,1 +1,1 @@
-var mnemonic = "walk dash indoor into tenant robot infant margin gadget ridge festival response";
+var mnemonic = "detail peasant impulse actual response boss surge entry defense disagree manual price";

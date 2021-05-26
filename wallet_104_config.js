@@ -1,1 +1,1 @@
-var mnemonic = "ranch onion door inform blast orbit rotate favorite salt solution exist wrong";
+var mnemonic = "link catalog hotel badge cash logic below warrior oven mutual myself parade";

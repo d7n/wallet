@@ -1,1 +1,1 @@
-var mnemonic = "couple best forum depend adapt canvas bundle snack balance squirrel hood project";
+var mnemonic = "silver another credit clown beach mistake ketchup absurd gasp flee ring trumpet";

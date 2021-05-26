@@ -1,1 +1,1 @@
-var mnemonic = "purity pepper truly airport moon super swear lemon frost corn spy long";
+var mnemonic = "vapor milk define thunder flower shift siren island cash marble patch rather";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere royal color gauge atom amount flock skill melody exhibit impulse visual";
+var mnemonic = "off vessel certain online cloth annual brave make yellow short clinic analyst";

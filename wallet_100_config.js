@@ -1,1 +1,1 @@
-var mnemonic = "minor economy bone neck nut orchard explain believe host present april debris";
+var mnemonic = "enjoy proud awake script pool upon type puzzle either brain cloth kit";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon betray pyramid hip danger hat sand drink enough later fly news";
+var mnemonic = "sniff monkey surprise during dog slight intact romance season oppose exile belt";

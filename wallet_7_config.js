@@ -1,1 +1,1 @@
-var mnemonic = "arch work wonder youth large elite happy grass report crime lion fantasy";
+var mnemonic = "trick tennis say member pottery genuine immune sniff utility feel any gym";

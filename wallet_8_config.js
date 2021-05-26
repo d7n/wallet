@@ -1,1 +1,1 @@
-var mnemonic = "spawn defy dance stadium awful flower media flight casual fame half disagree";
+var mnemonic = "family love neutral reveal used brand guess velvet domain syrup else oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty blouse hero elegant hour addict point perfect cage kitchen milk diagram";
+var mnemonic = "room solution oval endless valley split pretty burst gasp tragic ceiling amazing";

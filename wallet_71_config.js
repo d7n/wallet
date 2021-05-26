@@ -1,1 +1,1 @@
-var mnemonic = "cover review camp number bless warfare enjoy arrange enable broom hollow fresh";
+var mnemonic = "fault economy alone suit secret equip liar wagon thrive ride trumpet keep";

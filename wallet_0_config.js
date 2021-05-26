@@ -1,1 +1,1 @@
-var mnemonic = "piece blouse inhale clip supreme acquire dolphin off curious earn ensure arch";
+var mnemonic = "clip shift gloom business chimney mom pumpkin cloud hero treat wisdom eye";

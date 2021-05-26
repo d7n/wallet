@@ -1,1 +1,1 @@
-var mnemonic = "sock stick there tooth pumpkin museum fitness ring rhythm phrase engage ancient";
+var mnemonic = "stove culture height abstract video capital demise bargain fall net twice spend";

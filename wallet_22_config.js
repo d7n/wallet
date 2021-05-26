@@ -1,1 +1,1 @@
-var mnemonic = "fly history pony stool banana satisfy leopard armor defy seat relief visa";
+var mnemonic = "sense isolate capable move peasant suffer raccoon parrot rhythm domain tone expect";

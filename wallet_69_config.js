@@ -1,1 +1,1 @@
-var mnemonic = "ticket increase feel slab giggle legal cage miracle erosion power noodle advice";
+var mnemonic = "cereal they elephant canyon crush script small until february grunt amateur clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "step code quiz ball swallow juice punch detail rather canal plug marble";
+var mnemonic = "pumpkin ignore setup road over dad example walk pyramid foam check hurdle";

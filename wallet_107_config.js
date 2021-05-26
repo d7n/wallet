@@ -1,1 +1,1 @@
-var mnemonic = "denial pigeon cabbage perfect lizard robot tired awake ostrich kid buddy pulse";
+var mnemonic = "style finish isolate sense review duty afford upset chef rhythm quit demise";

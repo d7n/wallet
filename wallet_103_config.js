@@ -1,1 +1,1 @@
-var mnemonic = "butter away blossom claim ready miss marine vehicle train enact federal title";
+var mnemonic = "dial enemy asset outside tank loud apple physical salmon team planet ladder";

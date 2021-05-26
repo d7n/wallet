@@ -1,1 +1,1 @@
-var mnemonic = "panic where digital document comic section able submit hill ugly inquiry bus";
+var mnemonic = "keen blade gain catalog clock hat pair duty danger voice invite mushroom";

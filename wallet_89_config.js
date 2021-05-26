@@ -1,1 +1,1 @@
-var mnemonic = "cherry detail radar legend wave road love mobile deer file crisp game";
+var mnemonic = "connect fury conduct sing eager render three drill tonight doctor mystery rib";

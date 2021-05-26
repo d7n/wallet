@@ -1,1 +1,1 @@
-var mnemonic = "moral caution age rail logic canoe food believe cover sudden laugh absorb";
+var mnemonic = "noble interest gun avoid whisper balcony vocal again screen enable morning cradle";

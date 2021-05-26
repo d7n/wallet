@@ -1,1 +1,1 @@
-var mnemonic = "doctor injury oblige ramp nurse brief solar layer embark joy admit way";
+var mnemonic = "era solid siege submit clutch audit banner firm helmet view surprise choose";

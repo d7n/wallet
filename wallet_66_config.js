@@ -1,1 +1,1 @@
-var mnemonic = "police clown jelly exist desert jealous spatial retire head battle pause way";
+var mnemonic = "baby hello yellow rescue breeze baby around tiny trim flash sleep evoke";

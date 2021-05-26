@@ -1,1 +1,1 @@
-var mnemonic = "rule bronze nice license guide sausage history snow wreck design multiply bounce";
+var mnemonic = "have pigeon wait total hover left mango confirm private soda diamond vintage";

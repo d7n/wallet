@@ -1,1 +1,1 @@
-var mnemonic = "student exile dynamic pen chapter ready advice novel leaf warfare cube success";
+var mnemonic = "pulp beef switch curious flush mushroom hip fog filter renew transfer gather";

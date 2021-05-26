@@ -1,1 +1,1 @@
-var mnemonic = "hollow lucky twice shadow anxiety topic circle hub perfect mask palm else";
+var mnemonic = "popular behind eyebrow flush dance opinion squeeze sand height atom smoke path";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan drill car throw dumb observe visit mixture prison tide hospital account";
+var mnemonic = "stomach simple life tuna funny glove electric recall oven sentence lucky advance";

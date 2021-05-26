@@ -1,1 +1,1 @@
-var mnemonic = "pet used smart music wasp divert expand oval exit snap sick saddle";
+var mnemonic = "flower found thumb dwarf stand return figure gas humble discover frame emotion";

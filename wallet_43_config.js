@@ -1,1 +1,1 @@
-var mnemonic = "grass ketchup unable warfare midnight save stool excuse between liberty shock river";
+var mnemonic = "quit anxiety any large copy awake timber place pull put element occur";

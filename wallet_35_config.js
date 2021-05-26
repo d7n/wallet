@@ -1,1 +1,1 @@
-var mnemonic = "beach rug sunny able plate lobster ask switch animal wagon high wink";
+var mnemonic = "kite tired cash copy chest depth visa weird plunge rookie program exclude";

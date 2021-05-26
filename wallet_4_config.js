@@ -1,1 +1,1 @@
-var mnemonic = "duck chaos slush cover sentence budget letter idea sketch fever snap rhythm";
+var mnemonic = "casino orbit group enroll isolate shoe ozone damp oval inside jump brave";

@@ -1,1 +1,1 @@
-var mnemonic = "shed bacon mercy erupt mail vital reward coast knee battle album trouble";
+var mnemonic = "review subject dirt people giraffe spring tongue depth stove style magnet fashion";

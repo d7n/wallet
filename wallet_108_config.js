@@ -1,1 +1,1 @@
-var mnemonic = "worth rebel exclude nose drill weapon hair alone daughter scheme outdoor rally";
+var mnemonic = "symbol palm thought crouch quote feature height inspire trophy chimney envelope tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist tattoo useful novel drive super staff secret first eager clever emotion";
+var mnemonic = "deliver sing draft scissors team security owner panel nothing office impulse pull";

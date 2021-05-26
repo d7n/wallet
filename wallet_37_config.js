@@ -1,1 +1,1 @@
-var mnemonic = "deer journey remind nerve fence ancient puppy apart one solve phrase pony";
+var mnemonic = "tooth curve pen better tree farm artist celery long glass tool evidence";

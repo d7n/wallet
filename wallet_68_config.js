@@ -1,1 +1,1 @@
-var mnemonic = "copper rigid because claim swap vast envelope idle noodle work airport traffic";
+var mnemonic = "primary fruit onion clinic obscure cup panda observe rural category spend torch";

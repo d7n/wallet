@@ -1,1 +1,1 @@
-var mnemonic = "hard evidence rally shock stomach pear wish access shove news element fix";
+var mnemonic = "shuffle walk diet curve vessel purse weather flight tragic frequent cheap lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "seed burden flavor little report exact mind patrol dial slab beauty view";
+var mnemonic = "harsh name crane barrel abandon ostrich engage fame water muscle excite casual";

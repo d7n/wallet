@@ -1,1 +1,1 @@
-var mnemonic = "save rail inside bulb spy recycle cinnamon sunset traffic garage visa area";
+var mnemonic = "owner margin stay universe fall match picnic mixture exchange stove child teach";

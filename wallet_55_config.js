@@ -1,1 +1,1 @@
-var mnemonic = "penalty magic harsh express welcome survey perfect wheat pole post junk often";
+var mnemonic = "give spike dismiss coach custom safe bounce quantum tower spawn range toe";

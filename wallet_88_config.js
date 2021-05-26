@@ -1,1 +1,1 @@
-var mnemonic = "rule gap drama holiday soda mass burden oven final witness virus duck";
+var mnemonic = "display wedding city enrich lecture leisure federal magic proud analyst company wife";

@@ -1,1 +1,1 @@
-var mnemonic = "solve input course benefit document dumb slide fatigue deny veteran cinnamon guide";
+var mnemonic = "body acoustic connect burden uncover female pear glow wide december blast system";

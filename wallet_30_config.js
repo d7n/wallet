@@ -1,1 +1,1 @@
-var mnemonic = "sudden false enrich debris common stomach toast balance pencil dilemma spatial cannon";
+var mnemonic = "quick turkey matter paddle enact proud phrase fade canal forum match poet";

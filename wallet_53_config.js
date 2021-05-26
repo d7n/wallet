@@ -1,1 +1,1 @@
-var mnemonic = "scorpion message cream depend jealous sunset fork rally type empower bleak mother";
+var mnemonic = "spider dry swap cruel maple subject when ghost enough arrange artefact large";

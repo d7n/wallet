@@ -1,1 +1,1 @@
-var mnemonic = "alarm memory tree potato make cause search child second pond anchor garage";
+var mnemonic = "endless sorry auto enlist winter lunar argue post render process hedgehog bone";

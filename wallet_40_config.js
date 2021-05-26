@@ -1,1 +1,1 @@
-var mnemonic = "embark economy slide stairs fish rich stumble process void steak glad horror";
+var mnemonic = "public slide annual soup joke worth unlock suit ugly gown hobby noise";

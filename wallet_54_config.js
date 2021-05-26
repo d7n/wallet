@@ -1,1 +1,1 @@
-var mnemonic = "step home prefer opera two shop will hamster fly field person success";
+var mnemonic = "glare funny upon endorse law helmet chimney gorilla salt truth stadium army";

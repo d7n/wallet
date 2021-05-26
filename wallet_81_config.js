@@ -1,1 +1,1 @@
-var mnemonic = "lens pony magic skull mimic frequent depart blind party stable ivory wet";
+var mnemonic = "finish coach chest cricket mercy swarm stay victory mixed devote where man";

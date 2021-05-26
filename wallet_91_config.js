@@ -1,1 +1,1 @@
-var mnemonic = "toast bunker regular devote walk brain truth shoe decide disorder relax bread";
+var mnemonic = "hand brick equip borrow calm travel post slim muffin blood model since";

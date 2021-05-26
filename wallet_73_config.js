@@ -1,1 +1,1 @@
-var mnemonic = "across talk calm design collect fragile between sample spray tongue garlic bind";
+var mnemonic = "uncle sweet excess way split rather wise twenty stove fossil income over";

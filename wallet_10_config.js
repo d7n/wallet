@@ -1,1 +1,1 @@
-var mnemonic = "earth pizza life return reject neutral near empty link such depart result";
+var mnemonic = "sadness humble off pull drip rely term belt opera absorb face blouse";
