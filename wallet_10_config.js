@@ -1,1 +1,1 @@
-var mnemonic = "crucial settle gift alter among alarm assist picture kitchen piece region comic";
+var mnemonic = "loop orbit saddle elevator focus trend raccoon canvas fit rabbit spirit humble";

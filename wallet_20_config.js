@@ -1,1 +1,1 @@
-var mnemonic = "flip tonight buddy buyer bridge disagree truck require near upper safe pool";
+var mnemonic = "deny lobster add midnight cook crawl medal heart twin page absent oppose";

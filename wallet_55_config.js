@@ -1,1 +1,1 @@
-var mnemonic = "swallow mind mandate choice choice brush region oppose boring satisfy picnic hawk";
+var mnemonic = "unveil dial velvet crucial october rug piano twenty valve material magnet cheap";

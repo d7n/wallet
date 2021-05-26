@@ -1,1 +1,1 @@
-var mnemonic = "pretty spatial jaguar you goat crawl display drift neutral first distance school";
+var mnemonic = "author goose like mean recipe suspect evoke ill address reunion rebuild present";

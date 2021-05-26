@@ -1,1 +1,1 @@
-var mnemonic = "song virus oppose satoshi gold rival what focus empower trim fan baby";
+var mnemonic = "noodle permit ugly rate wing autumn choice finger broccoli family enemy split";

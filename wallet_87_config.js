@@ -1,1 +1,1 @@
-var mnemonic = "tiger ugly room slot usual burden artwork regular gown zone knee aisle";
+var mnemonic = "album bicycle diagram base mix twenty govern dress inform swap similar question";

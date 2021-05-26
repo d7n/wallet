@@ -1,1 +1,1 @@
-var mnemonic = "soda regret ranch album all business wheel domain trial tool split oil";
+var mnemonic = "broccoli elephant file order mother day sniff virtual shoe sibling sample bone";

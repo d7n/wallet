@@ -1,1 +1,1 @@
-var mnemonic = "nuclear absurd child race rapid disorder trick motion casino visual correct offer";
+var mnemonic = "oak joke exotic float brass guitar abuse arrest perfect resource away stuff";

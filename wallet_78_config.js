@@ -1,1 +1,1 @@
-var mnemonic = "art chuckle exit annual cat object shift athlete point news travel text";
+var mnemonic = "curious thunder wasp lazy before among relief cotton nose weather midnight portion";

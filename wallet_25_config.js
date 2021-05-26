@@ -1,1 +1,1 @@
-var mnemonic = "coast frozen clap tonight connect bring embody surround praise quote dawn enter";
+var mnemonic = "village dust story usage range about manage ceiling garbage barrel milk toddler";

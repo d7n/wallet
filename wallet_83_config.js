@@ -1,1 +1,1 @@
-var mnemonic = "floor must taxi zone relax nothing exact sad wrong about decide fence";
+var mnemonic = "creek camp regret drastic swim silent token ramp park merge accident group";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo punch act cheap endorse bid tenant civil guide sheriff regret throw";
+var mnemonic = "penalty soda thought couch resemble hip sweet sand drive march bullet imitate";

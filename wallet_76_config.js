@@ -1,1 +1,1 @@
-var mnemonic = "lock labor job sting green hint caution sand draw melody any during";
+var mnemonic = "wrestle clay edit globe birth frog idea puppy search wing entry execute";

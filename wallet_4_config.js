@@ -1,1 +1,1 @@
-var mnemonic = "pulp gift black limb neither nothing grape giggle apple lamp choose carbon";
+var mnemonic = "dad habit bless spin peasant vessel gather void jaguar idea tackle nest";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz immune choose shoe sense poem lesson desert library frequent marine vanish";
+var mnemonic = "major earn truth tooth anxiety duck discover solid put celery critic option";

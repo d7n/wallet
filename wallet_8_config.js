@@ -1,1 +1,1 @@
-var mnemonic = "trial puppy dolphin eager jungle favorite oak bean biology buddy myself gadget";
+var mnemonic = "reduce blouse napkin auction crystal pilot deal soccer duty scrub dune squeeze";

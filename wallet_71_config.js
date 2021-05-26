@@ -1,1 +1,1 @@
-var mnemonic = "muffin panther abandon fury almost bring artefact lake can common exact doll";
+var mnemonic = "diary hidden transfer leader safe like abandon phone twin sudden canal surface";

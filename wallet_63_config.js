@@ -1,1 +1,1 @@
-var mnemonic = "enforce leisure upper kid shiver heavy beauty fat alcohol into bus demand";
+var mnemonic = "move river parrot expect carry fame kitten trigger soul gospel survey awake";

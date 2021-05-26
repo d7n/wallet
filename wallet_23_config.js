@@ -1,1 +1,1 @@
-var mnemonic = "unhappy entire lock party patient area shift awful flower recall near else";
+var mnemonic = "gap awkward welcome boost tackle federal exhibit roast target wife pass will";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel you maximum regret penalty wink neither like soul fatal kick page";
+var mnemonic = "female wage deny decline old mutual magic digital bike pave pepper crumble";

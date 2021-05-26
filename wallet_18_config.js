@@ -1,1 +1,1 @@
-var mnemonic = "bring guitar type limb noodle fiction possible boss warfare ahead dynamic spike";
+var mnemonic = "pet shallow figure advice blast mango resource belt satoshi office oven chicken";

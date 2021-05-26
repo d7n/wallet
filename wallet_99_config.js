@@ -1,1 +1,1 @@
-var mnemonic = "cabin domain crazy clown scrap swamp alcohol hockey effort expand recycle soup";
+var mnemonic = "kind amateur hello mass lab face absurd review involve brain chimney garbage";

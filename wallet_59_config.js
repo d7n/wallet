@@ -1,1 +1,1 @@
-var mnemonic = "route squirrel crater camera final used flash pony reunion scan response buddy";
+var mnemonic = "hair paper sting column web wine tooth farm rug obvious cable slot";

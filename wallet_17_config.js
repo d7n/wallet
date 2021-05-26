@@ -1,1 +1,1 @@
-var mnemonic = "hour city space shop tiger sphere future okay never eye involve sword";
+var mnemonic = "wage thought wise federal neutral inflict fancy clinic slab come thrive upper";

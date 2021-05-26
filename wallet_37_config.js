@@ -1,1 +1,1 @@
-var mnemonic = "negative six neck result happy steak elder hub rigid pottery enable model";
+var mnemonic = "height anchor amateur vendor liar rice wire choice panic kiwi magic coil";

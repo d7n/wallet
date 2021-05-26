@@ -1,1 +1,1 @@
-var mnemonic = "pond vanish someone hunt duty undo jewel apart planet brave method coral";
+var mnemonic = "lecture coyote fish silly expand scatter shield luggage shine slam orient suffer";

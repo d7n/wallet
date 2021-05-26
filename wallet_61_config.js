@@ -1,1 +1,1 @@
-var mnemonic = "toddler soldier organ echo idle stand syrup fuel regret love foil throw";
+var mnemonic = "weekend volume trophy trip federal pig smart style razor volume object girl";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon return puppy robot convince settle predict twist close emerge virus slot";
+var mnemonic = "outside swift often sting pride question foil similar life faith dish bird";

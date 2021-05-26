@@ -1,1 +1,1 @@
-var mnemonic = "ticket public badge reduce trap clerk despair change crime blade cave extend";
+var mnemonic = "weasel husband axis super modify fix nature identify two unusual erupt venture";

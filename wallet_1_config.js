@@ -1,1 +1,1 @@
-var mnemonic = "wall punch beach size anger twin friend program snack kitten era tobacco";
+var mnemonic = "adjust fiscal settle hurt scare name river rubber occur explain cattle verb";

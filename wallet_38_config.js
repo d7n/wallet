@@ -1,1 +1,1 @@
-var mnemonic = "this wish mixed endless beef scrap ghost spike great basket female fall";
+var mnemonic = "autumn remove couch around link lazy reunion bus mule team side scan";

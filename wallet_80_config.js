@@ -1,1 +1,1 @@
-var mnemonic = "guard prison top wolf bulk grain matter gap write infant night dilemma";
+var mnemonic = "boat clever rigid secret scorpion firm army deposit inherit slogan return club";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire school stock grace either uphold bundle over write slot audit regular";
+var mnemonic = "dust finger clump excite catch patient over suggest gaze tomato conduct provide";

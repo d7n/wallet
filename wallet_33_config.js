@@ -1,1 +1,1 @@
-var mnemonic = "mother duty carry grape mansion buddy federal soccer gossip blanket desk also";
+var mnemonic = "able pink basket winter empty detail caution lesson blur dumb shoe record";

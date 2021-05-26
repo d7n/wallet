@@ -1,1 +1,1 @@
-var mnemonic = "iron trumpet arena charge when flush dust habit slow divide display story";
+var mnemonic = "course garden auto wheat celery race soldier squirrel lemon dutch frost soccer";

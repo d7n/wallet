@@ -1,1 +1,1 @@
-var mnemonic = "alone loop key shoot romance attend pyramid around truth pudding snow art";
+var mnemonic = "solar chapter judge alien proud canoe tattoo fiction also pause upset enact";

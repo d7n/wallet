@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pause energy lens describe meadow hedgehog protect dizzy cage warrior avoid";
+var mnemonic = "skull two park fiscal pumpkin miracle mosquito use goddess object crazy minute";

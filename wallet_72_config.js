@@ -1,1 +1,1 @@
-var mnemonic = "green flight infant ritual gown violin better try cave dismiss sign various";
+var mnemonic = "stove arrive casual rack ignore spray devote gas brass prefer margin fury";

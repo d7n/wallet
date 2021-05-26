@@ -1,1 +1,1 @@
-var mnemonic = "junior trap stem run century honey mammal chronic reveal bubble venture rubber";
+var mnemonic = "bleak swallow yard tattoo left banana delay pride venue puzzle segment green";

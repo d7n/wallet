@@ -1,1 +1,1 @@
-var mnemonic = "inhale nut display payment silly drastic blind song solution ancient nature cheap";
+var mnemonic = "mimic collect clown world owner alien behind era ecology toy coffee trigger";

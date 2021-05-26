@@ -1,1 +1,1 @@
-var mnemonic = "risk skull tragic vault toy brush mixture alarm indoor profit pyramid execute";
+var mnemonic = "bean country forget giggle sword inner viable typical cruel seat eager great";

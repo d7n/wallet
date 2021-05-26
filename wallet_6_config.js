@@ -1,1 +1,1 @@
-var mnemonic = "enforce main asset awful celery sign vibrant sock else wreck obtain total";
+var mnemonic = "foam ugly firm lava bitter museum wheel donor connect heavy fury method";

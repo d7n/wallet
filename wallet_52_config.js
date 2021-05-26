@@ -1,1 +1,1 @@
-var mnemonic = "little arrest pride layer situate elevator physical fix best october heart matter";
+var mnemonic = "direct shuffle alter anger rival dune shoulder member grow summer long today";

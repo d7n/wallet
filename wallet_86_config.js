@@ -1,1 +1,1 @@
-var mnemonic = "session nerve draw craft option power butter clown lyrics early topple balance";
+var mnemonic = "sing truly switch bronze close small bounce buyer afford adjust before blame";

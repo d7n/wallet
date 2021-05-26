@@ -1,1 +1,1 @@
-var mnemonic = "coast wet charge industry liar normal focus meadow little dust almost pond";
+var mnemonic = "bubble stove install buffalo combine vehicle spoil lesson marriage promote duck siege";

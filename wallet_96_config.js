@@ -1,1 +1,1 @@
-var mnemonic = "blouse umbrella wide alcohol wealth gauge visa stand decade mobile trend pull";
+var mnemonic = "sad prosper wonder curve scatter snake enough eagle siren guard path gentle";

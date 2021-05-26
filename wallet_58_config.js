@@ -1,1 +1,1 @@
-var mnemonic = "same require plunge brush clip rotate unveil chaos custom quote hundred leisure";
+var mnemonic = "virtual script disagree glare panic copy shield east rail dial attract comfort";

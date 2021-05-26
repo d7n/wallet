@@ -1,1 +1,1 @@
-var mnemonic = "quarter text brush test pave merit nut electric security brave movie aerobic";
+var mnemonic = "milk roof theory palace urge misery drive horror crime absorb reward emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "clip universe hamster image drop force season dynamic sugar spend race hollow";
+var mnemonic = "lucky boss acoustic rich hobby fever occur timber tool lecture mask curve";

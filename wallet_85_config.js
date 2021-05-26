@@ -1,1 +1,1 @@
-var mnemonic = "innocent bubble matter original romance issue lens phone exact twelve when exclude";
+var mnemonic = "clump plunge wasp hawk fly warfare give place hurdle main crouch mango";

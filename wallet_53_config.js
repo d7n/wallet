@@ -1,1 +1,1 @@
-var mnemonic = "now calm earn owner inspire grid cereal common thunder monster hobby clip";
+var mnemonic = "garlic amateur ranch evolve invest decrease fortune supreme agree cave flame false";

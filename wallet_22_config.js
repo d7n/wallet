@@ -1,1 +1,1 @@
-var mnemonic = "hurry foam season perfect bird wide cart patch useless remain filter sick";
+var mnemonic = "bike spoon crunch hamster right edit version grid thunder net jump salt";

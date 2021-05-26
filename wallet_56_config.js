@@ -1,1 +1,1 @@
-var mnemonic = "famous focus supply then wish lottery survey feature cement scrap luggage hen";
+var mnemonic = "poet secret salute cake tooth used evidence want riot diamond decline render";

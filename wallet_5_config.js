@@ -1,1 +1,1 @@
-var mnemonic = "fall guilt stomach bomb rookie abuse oval consider program news farm twenty";
+var mnemonic = "marriage squirrel upon target hockey vehicle flame switch claw sell flee sea";

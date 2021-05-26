@@ -1,1 +1,1 @@
-var mnemonic = "wool arch glide girl crime great pizza side cabin comfort real tumble";
+var mnemonic = "bunker fashion turn soon arm turn merge galaxy tilt soap order auction";

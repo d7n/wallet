@@ -1,1 +1,1 @@
-var mnemonic = "member clutch coin fence file fold ozone pencil then fragile garage camp";
+var mnemonic = "caution caution base rebuild margin this scheme travel fringe safe shrug symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "soon only wrist sniff found shop demand lottery language ignore unfold cliff";
+var mnemonic = "crisp cage cigar glow glare layer emotion arrow dance dawn marine knife";

@@ -1,1 +1,1 @@
-var mnemonic = "build awake course valley cry neck achieve session caution napkin trigger wait";
+var mnemonic = "movie crime doctor laugh labor hundred lesson smart attract caution piece found";

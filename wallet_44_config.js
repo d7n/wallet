@@ -1,1 +1,1 @@
-var mnemonic = "spread leopard spin skate enable gym muffin lucky family turkey point future";
+var mnemonic = "assault shop unusual stick sport harsh swap route garlic ivory genius lazy";

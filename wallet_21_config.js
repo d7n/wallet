@@ -1,1 +1,1 @@
-var mnemonic = "embark flee someone upper excess sure tape million rib base gaze weekend";
+var mnemonic = "catalog wasp cute current lion joy oyster fade feature rather recipe spy";

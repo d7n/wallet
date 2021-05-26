@@ -1,1 +1,1 @@
-var mnemonic = "humor wisdom pottery barrel reveal industry gold chuckle infant gain success drill";
+var mnemonic = "toss two purpose economy soft tackle clown tiny old autumn sure first";

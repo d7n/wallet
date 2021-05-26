@@ -1,1 +1,1 @@
-var mnemonic = "grow uniform fit damp gown novel digital maximum wrist advance arm person";
+var mnemonic = "vacuum gold cart radar birth modify wear swift remember thought quiz bitter";

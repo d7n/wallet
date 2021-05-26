@@ -1,1 +1,1 @@
-var mnemonic = "slight original define hollow flame early genius permit item ecology just screen";
+var mnemonic = "mountain cheap mad ill trial chapter frame drift trouble kit divert return";

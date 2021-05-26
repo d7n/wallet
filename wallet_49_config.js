@@ -1,1 +1,1 @@
-var mnemonic = "flag devote april movie stage cream brother seed silk spot weekend kangaroo";
+var mnemonic = "drill garlic forum harvest claim metal decade ribbon illness huge frog stadium";

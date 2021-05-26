@@ -1,1 +1,1 @@
-var mnemonic = "brave whip onion balcony response jewel ostrich clog actress island walnut napkin";
+var mnemonic = "cannon thing april member ice parrot unit furnace hard stairs winter march";

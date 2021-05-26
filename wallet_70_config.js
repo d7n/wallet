@@ -1,1 +1,1 @@
-var mnemonic = "curve inspire guitar pluck winter joke powder often deputy model govern science";
+var mnemonic = "orbit cargo twist whale wrap shuffle reveal demand advice snack glow ready";

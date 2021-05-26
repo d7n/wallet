@@ -1,1 +1,1 @@
-var mnemonic = "grunt seek worth approve reward decorate soldier reward angry script original vessel";
+var mnemonic = "salt ceiling project decade safe job viable robust electric boat license culture";

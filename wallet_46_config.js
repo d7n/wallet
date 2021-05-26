@@ -1,1 +1,1 @@
-var mnemonic = "time armed ancient pill chat regular suffer proof inch distance just record";
+var mnemonic = "donor weapon riot cloud tide vast admit buffalo copper hub need bid";

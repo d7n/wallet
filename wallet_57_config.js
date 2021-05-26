@@ -1,1 +1,1 @@
-var mnemonic = "human crop six wait dust essay trumpet squirrel neither round bubble stereo";
+var mnemonic = "wreck pyramid correct shiver across jelly party enhance suspect fork still arrest";

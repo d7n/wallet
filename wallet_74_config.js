@@ -1,1 +1,1 @@
-var mnemonic = "baby unusual ginger solid obtain mad size boil ginger dynamic cute west";
+var mnemonic = "beach napkin pulp illegal sibling unaware camp hill shell flee express infant";

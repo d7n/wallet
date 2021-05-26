@@ -1,1 +1,1 @@
-var mnemonic = "crawl cute yard student fame food inquiry stadium own ethics earth toilet";
+var mnemonic = "injury rice brain crawl observe charge together add impulse despair deny test";

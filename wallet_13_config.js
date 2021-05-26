@@ -1,1 +1,1 @@
-var mnemonic = "proud mystery scout member retire salute acid just shed involve reform when";
+var mnemonic = "afraid object keen reveal lonely human pattern soda series comic census language";

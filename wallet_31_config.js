@@ -1,1 +1,1 @@
-var mnemonic = "defy ready idea local trap grunt blanket photo fuel scale audit punch";
+var mnemonic = "clip pottery update olympic fatal kick satoshi divorce scheme mechanic angle west";

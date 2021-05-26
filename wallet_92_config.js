@@ -1,1 +1,1 @@
-var mnemonic = "eight effort awkward pear thought fatal search duck burden diamond evoke calm";
+var mnemonic = "north spatial amazing misery shift armor knock carpet genius enjoy foot into";

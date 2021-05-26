@@ -1,1 +1,1 @@
-var mnemonic = "sausage accident picnic seed know shift say require approve bind modify lyrics";
+var mnemonic = "bar fruit frozen infant senior fluid silk spoon great vintage reject camera";

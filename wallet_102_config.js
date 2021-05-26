@@ -1,1 +1,1 @@
-var mnemonic = "small ring remain purse note scatter mistake session option parent ostrich banana";
+var mnemonic = "drill loan neglect flag frozen snake ugly boy warrior put arrive write";

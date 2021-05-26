@@ -1,1 +1,1 @@
-var mnemonic = "say dog trade tongue clerk adapt frozen vacant surprise submit spend addict";
+var mnemonic = "elder weird siren pulse reveal sugar urge awful ticket rely urge enroll";

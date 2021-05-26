@@ -1,1 +1,1 @@
-var mnemonic = "bottom vehicle dinosaur also knife build ghost nest panda deal erode craft";
+var mnemonic = "clever country skirt snap nephew drink isolate crisp uncover bullet because fabric";

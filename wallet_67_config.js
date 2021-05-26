@@ -1,1 +1,1 @@
-var mnemonic = "goddess large immense raccoon boy gym mirror magic spare napkin profit potato";
+var mnemonic = "round alley wife waste speak depart include install select indoor sponsor flame";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle flash tail friend movie rent lobster tiger aisle live impact fuel";
+var mnemonic = "butter over atom firm people belt fresh sketch enrich game urban similar";

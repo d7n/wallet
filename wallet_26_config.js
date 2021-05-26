@@ -1,1 +1,1 @@
-var mnemonic = "axis volcano motion mad birth plate patrol dentist provide jealous camp donkey";
+var mnemonic = "erase supreme stomach exile swift stock faint drop craft ready curious frown";

@@ -1,1 +1,1 @@
-var mnemonic = "middle soda child photo taste wear fox cotton draw found junior nuclear";
+var mnemonic = "buyer universe cigar wife flock stove expand renew clever hollow ethics swing";

@@ -1,1 +1,1 @@
-var mnemonic = "find meat wet stem cart donkey label meat success output pride outdoor";
+var mnemonic = "leopard dumb walnut rain butter asthma liberty join quarter model pulse alert";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar border solar reward settle country wealth coach marine fresh dutch soup";
+var mnemonic = "alarm buddy bonus solve mutual grocery author rescue lumber index hen slim";

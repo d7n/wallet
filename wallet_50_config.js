@@ -1,1 +1,1 @@
-var mnemonic = "lottery banner hurry eye about seminar six cruise cousin milk memory early";
+var mnemonic = "rebuild shop acquire remove wonder ignore evil error twenty brown always error";

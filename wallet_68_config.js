@@ -1,1 +1,1 @@
-var mnemonic = "rabbit album loan innocent taste friend bacon when state rocket fluid pigeon";
+var mnemonic = "forest thunder cream mushroom trumpet case decade maximum mesh clean actor mandate";

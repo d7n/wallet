@@ -1,1 +1,1 @@
-var mnemonic = "collect gain melody journey raw term circle shove shed hope double visa";
+var mnemonic = "ostrich there proof today hip oppose wing obtain detail tourist light salad";

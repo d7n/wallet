@@ -1,1 +1,1 @@
-var mnemonic = "dress during riot garden airport rifle ordinary asthma write hand best alert";
+var mnemonic = "rebel palm lamp visual program smoke antenna merry merge horn divide wagon";

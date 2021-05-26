@@ -1,1 +1,1 @@
-var mnemonic = "renew face hurt radio simple purity rapid orbit few coyote mirror wash";
+var mnemonic = "dolphin absurd cement strike raccoon window slide photo habit repair network piano";

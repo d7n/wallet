@@ -1,1 +1,1 @@
-var mnemonic = "debris idle begin shrug post gentle dentist bubble pen crouch solve glass";
+var mnemonic = "bless text inner trim stand intact joy report fit swarm kite crew";

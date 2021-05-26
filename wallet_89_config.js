@@ -1,1 +1,1 @@
-var mnemonic = "derive layer unfold north win blue danger sound display convince narrow enemy";
+var mnemonic = "test margin taxi apology walnut isolate cool release smile draft elbow multiply";

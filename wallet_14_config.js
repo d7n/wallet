@@ -1,1 +1,1 @@
-var mnemonic = "destroy large fire six surge gun finish like example false stove rookie";
+var mnemonic = "program wall document fat game buffalo siege flame document pear ankle quarter";

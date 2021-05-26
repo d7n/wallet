@@ -1,1 +1,1 @@
-var mnemonic = "dance affair design blue powder eyebrow mix sudden wide universe girl reopen";
+var mnemonic = "upon purpose guide knee fiber secret cook indoor quiz open metal suit";

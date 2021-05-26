@@ -1,1 +1,1 @@
-var mnemonic = "shop clown magnet oval best begin left large alone grace begin misery";
+var mnemonic = "page flock scout time pattern scene cluster behind mango front once twenty";
