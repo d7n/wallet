@@ -1,1 +1,1 @@
-var mnemonic = "lens shrimp token female warrior patch age loop favorite waste limit olive";
+var mnemonic = "solid cram toy park rival pet casino dignity please monitor rebel say";

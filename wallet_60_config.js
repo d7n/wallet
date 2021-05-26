@@ -1,1 +1,1 @@
-var mnemonic = "extend bind glare goose potato forest glad double argue they gasp link";
+var mnemonic = "leisure seat fiscal depth wrap exclude treat future focus lake sphere inquiry";

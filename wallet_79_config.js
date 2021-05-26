@@ -1,1 +1,1 @@
-var mnemonic = "assist spike obscure simple outer uphold merit pioneer apart dragon poet tooth";
+var mnemonic = "thunder fetch thumb maximum supreme become oval prize soft awake gallery powder";

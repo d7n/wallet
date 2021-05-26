@@ -1,1 +1,1 @@
-var mnemonic = "oven symbol shoot draw crew portion smart solution ask federal weasel invest";
+var mnemonic = "resource feature giggle taxi juice jaguar time buddy nurse face brown calm";

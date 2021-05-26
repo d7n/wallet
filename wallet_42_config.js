@@ -1,1 +1,1 @@
-var mnemonic = "apple color enlist ready tornado cluster ankle visit message code game dove";
+var mnemonic = "crane tooth language credit vendor impose broccoli giant habit spare virtual rifle";

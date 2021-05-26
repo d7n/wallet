@@ -1,1 +1,1 @@
-var mnemonic = "walk expect paper organ sausage style unique arrow ginger axis crystal endorse";
+var mnemonic = "glow crazy grab speak hair lend erosion glimpse bounce first soft pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "machine tank obtain shaft water elevator hamster palace slush coach edge wage";
+var mnemonic = "affair circle exercise language noodle useless snow ignore render lumber must own";

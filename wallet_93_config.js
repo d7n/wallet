@@ -1,1 +1,1 @@
-var mnemonic = "together funny crunch alter stairs uphold story quarter normal venture book volume";
+var mnemonic = "voice genre ranch airport loud churn turtle skin guilt genre find oblige";

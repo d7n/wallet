@@ -1,1 +1,1 @@
-var mnemonic = "frequent bridge attack cruel flavor chair large balance front rigid rescue remove";
+var mnemonic = "close open together wife broom bubble shop finger smile kitchen steel pluck";

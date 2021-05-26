@@ -1,1 +1,1 @@
-var mnemonic = "license satoshi about prevent hire direct laugh fire again bubble diet prepare";
+var mnemonic = "test field panel amount feed elephant finger account valley critic fantasy exhibit";

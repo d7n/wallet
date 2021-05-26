@@ -1,1 +1,1 @@
-var mnemonic = "subway crime minute ramp alien frown spawn strong mechanic humble raven build";
+var mnemonic = "soup blast hybrid buddy fold enable tornado airport health banner sweet cattle";

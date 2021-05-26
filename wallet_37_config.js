@@ -1,1 +1,1 @@
-var mnemonic = "alpha chest broken head cycle similar sorry dice tenant ignore switch eagle";
+var mnemonic = "zero arrest secret eternal lock thing real okay birth limit climb lady";

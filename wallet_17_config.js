@@ -1,1 +1,1 @@
-var mnemonic = "divert suspect truck ginger tell ginger gospel excite fall certain fox joy";
+var mnemonic = "magnet lava eternal lumber happy enrich flat hen swear town poem hole";

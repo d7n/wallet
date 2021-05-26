@@ -1,1 +1,1 @@
-var mnemonic = "dog pipe cricket payment unhappy lounge future inject dignity intact south green";
+var mnemonic = "move clerk shop anxiety dumb story split ship achieve rural rare world";

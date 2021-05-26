@@ -1,1 +1,1 @@
-var mnemonic = "odor vendor section dinner genuine accuse tortoise slow cement oppose mail kick";
+var mnemonic = "sound endless speak october race patient jump build what strong basic plunge";

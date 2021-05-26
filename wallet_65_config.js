@@ -1,1 +1,1 @@
-var mnemonic = "select used nominee joke original kind general season portion trim club scrub";
+var mnemonic = "toy sick crane october match dragon joy real poem chase alley will";

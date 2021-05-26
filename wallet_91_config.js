@@ -1,1 +1,1 @@
-var mnemonic = "destroy demand hour panic vapor wink chief aspect secret nest glide demand";
+var mnemonic = "beef sustain dad light scorpion rain also shoulder demise subject pond exact";

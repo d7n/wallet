@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin vacuum aim end outer accident mansion buddy amused man innocent giggle";
+var mnemonic = "rally bread typical endorse raven orange confirm cloud obvious truth slice word";

@@ -1,1 +1,1 @@
-var mnemonic = "profit area surge famous length pencil draw drop mother wrestle list potato";
+var mnemonic = "garden powder margin region inform ranch illegal dumb drama vessel scheme pool";

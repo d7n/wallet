@@ -1,1 +1,1 @@
-var mnemonic = "identify hello argue cross solution device shock grow aerobic sibling insect focus";
+var mnemonic = "merry sword survey must render wrist trick dry paper amount damp render";

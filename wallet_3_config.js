@@ -1,1 +1,1 @@
-var mnemonic = "world walnut practice repair world kind door capital acquire trash wisdom letter";
+var mnemonic = "unusual other youth awkward shoot situate quarter nephew impose harbor tool primary";

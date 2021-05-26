@@ -1,1 +1,1 @@
-var mnemonic = "myth error toilet apart scene rent swing crumble asset mention text coffee";
+var mnemonic = "tube jeans elite hotel field day company exhibit turtle property already planet";

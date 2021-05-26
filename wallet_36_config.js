@@ -1,1 +1,1 @@
-var mnemonic = "immense divide cake endorse chuckle salute hazard cash roast host solid goose";
+var mnemonic = "voyage mad planet fame stove cloth cube wrestle warm lazy moon glimpse";

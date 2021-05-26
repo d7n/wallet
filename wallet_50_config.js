@@ -1,1 +1,1 @@
-var mnemonic = "jaguar report stairs mercy tag matter history faint wall human danger pistol";
+var mnemonic = "bless arrest human badge traffic lava icon safe never car cable work";

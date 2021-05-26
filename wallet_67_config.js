@@ -1,1 +1,1 @@
-var mnemonic = "either shop patch program syrup solid rule census east address bullet vacant";
+var mnemonic = "point original vague amused already output vanish depend father random reward alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "awful slight erosion practice scout uncover belt master spider pause team agree";
+var mnemonic = "clip wet allow rather hero rain poet confirm boost seat north prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic rescue focus desk sunset wheat gas upset question eyebrow solar ride";
+var mnemonic = "aunt weapon scrub stand intact baby bulk mad library family seed someone";

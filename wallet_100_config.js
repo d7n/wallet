@@ -1,1 +1,1 @@
-var mnemonic = "myself recipe exercise end shallow banner polar scene cause select tower buzz";
+var mnemonic = "fashion pass theme theory boost rebel car skin tool world group divide";

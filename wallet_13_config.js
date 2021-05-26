@@ -1,1 +1,1 @@
-var mnemonic = "animal size digital option comfort fiber suggest win carbon inspire prosper fork";
+var mnemonic = "exercise social flat angry inside soap vessel course peace bamboo kick mixture";

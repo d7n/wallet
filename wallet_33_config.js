@@ -1,1 +1,1 @@
-var mnemonic = "emotion oblige invite robot hour ship update crop about reason tomorrow hobby";
+var mnemonic = "into item mango december ugly almost enroll token expose appear coffee bicycle";

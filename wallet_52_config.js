@@ -1,1 +1,1 @@
-var mnemonic = "sword verify hurdle rubber same foil stadium absent solution boy peanut guitar";
+var mnemonic = "day siege canvas company hospital sunny useless urban vacuum era coin warrior";

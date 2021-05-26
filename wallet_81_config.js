@@ -1,1 +1,1 @@
-var mnemonic = "grow because violin seminar trend fix hub faculty question student invest sock";
+var mnemonic = "execute anxiety soap vast kite spring quick announce naive camera blossom drop";

@@ -1,1 +1,1 @@
-var mnemonic = "payment media shoe trick suffer eyebrow flush stock scissors stone chapter urge";
+var mnemonic = "permit celery dial pipe bike gather direct catch similar baby identify dumb";

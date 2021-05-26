@@ -1,1 +1,1 @@
-var mnemonic = "slogan awake sign broom couple wrestle loan silver fat child rose lunch";
+var mnemonic = "melt include weather quick forget police lab repair hawk banana casual collect";

@@ -1,1 +1,1 @@
-var mnemonic = "rate curious slot symptom crowd discover theory emotion ahead gasp axis scan";
+var mnemonic = "combine melody grass zebra model coach uniform brick bring boring cabin frequent";

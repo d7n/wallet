@@ -1,1 +1,1 @@
-var mnemonic = "daring suit loop stumble razor copper day west keep crop anger animal";
+var mnemonic = "culture vote tube mouse common stadium skull mystery current occur dismiss tooth";

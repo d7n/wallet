@@ -1,1 +1,1 @@
-var mnemonic = "clown awesome baby sound address topple nose lottery phone satoshi tuna priority";
+var mnemonic = "exclude effort manage enhance pill trumpet profit rubber lift enjoy duty palace";

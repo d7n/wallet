@@ -1,1 +1,1 @@
-var mnemonic = "master trust hole pigeon evil recycle target borrow wise kitchen tumble plug";
+var mnemonic = "local rough mix soul boost indoor bicycle because remember economy sustain wish";

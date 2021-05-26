@@ -1,1 +1,1 @@
-var mnemonic = "slot embody milk announce novel clutch basket bacon cancel name favorite adjust";
+var mnemonic = "nothing wisdom typical mystery duck badge section city where there timber pony";

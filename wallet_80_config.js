@@ -1,1 +1,1 @@
-var mnemonic = "space fruit mother exercise online gift column seminar text engine either sport";
+var mnemonic = "error refuse february truth broccoli object dream wave bright general innocent kite";

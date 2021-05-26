@@ -1,1 +1,1 @@
-var mnemonic = "horn sugar outdoor stumble twice manual denial sweet aware explain suggest solve";
+var mnemonic = "foot swap pledge kite analyst strike between lizard settle alarm budget demand";

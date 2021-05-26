@@ -1,1 +1,1 @@
-var mnemonic = "chef clock harbor panel index inject combine kid stable pepper okay vast";
+var mnemonic = "bicycle wrist pact envelope faint virus torch intact hair undo fun excess";

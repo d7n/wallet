@@ -1,1 +1,1 @@
-var mnemonic = "wet gentle oil refuse title club this pave card choice direct tube";
+var mnemonic = "near valley shy super page skirt remove return educate wall page pear";

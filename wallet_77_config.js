@@ -1,1 +1,1 @@
-var mnemonic = "chuckle friend unaware oyster pitch health category garage they humor vanish civil";
+var mnemonic = "aspect argue stool glad actor swim unfold peasant reduce thing trouble series";

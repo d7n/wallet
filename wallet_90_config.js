@@ -1,1 +1,1 @@
-var mnemonic = "deliver card banner miss hundred transfer current fortune satisfy pyramid ritual elite";
+var mnemonic = "cash stove follow original require pair era physical moon toddler picnic version";

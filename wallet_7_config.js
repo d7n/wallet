@@ -1,1 +1,1 @@
-var mnemonic = "fish poverty helmet any doll dutch eternal note uncle rigid void infant";
+var mnemonic = "say happy task enact derive chuckle expose sail salt innocent soon matter";

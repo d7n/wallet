@@ -1,1 +1,1 @@
-var mnemonic = "obtain anchor kingdom someone left fly abstract surround goose pole carbon boss";
+var mnemonic = "lazy primary unaware chest matrix shadow siren victory taste ordinary fire park";

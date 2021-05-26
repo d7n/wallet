@@ -1,1 +1,1 @@
-var mnemonic = "draft open anger already notice ketchup utility acoustic illegal dragon chapter frame";
+var mnemonic = "mushroom february neck blanket provide winner proud jelly effort negative voice record";

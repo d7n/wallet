@@ -1,1 +1,1 @@
-var mnemonic = "bronze fashion lunch mercy lonely snow lounge gap endorse door vast assist";
+var mnemonic = "clinic enroll knee junk alley aerobic forum asthma robust rare now congress";

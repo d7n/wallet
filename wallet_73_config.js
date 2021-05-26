@@ -1,1 +1,1 @@
-var mnemonic = "same evil melody egg fork announce slim theme vicious anxiety dash inherit";
+var mnemonic = "nothing inside below head physical employ melody simple gossip cool youth volume";

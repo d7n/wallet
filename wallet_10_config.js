@@ -1,1 +1,1 @@
-var mnemonic = "monitor verify install family display apple pool caught fresh cancel modify trigger";
+var mnemonic = "finish real sample noise drastic abandon motion later magnet copper mechanic boat";

@@ -1,1 +1,1 @@
-var mnemonic = "rib wear joke pitch exhibit silver venue fatal globe cotton labor zebra";
+var mnemonic = "unlock claim vacant obvious cause whip switch battle tackle grocery cabbage recipe";

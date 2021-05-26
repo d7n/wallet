@@ -1,1 +1,1 @@
-var mnemonic = "session term crowd category display around recipe object half luggage frame virus";
+var mnemonic = "globe mad soccer van glove flower grant transfer fossil hard buyer inform";

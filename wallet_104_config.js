@@ -1,1 +1,1 @@
-var mnemonic = "surprise rabbit crack solar vehicle betray practice struggle atom funny fossil interest";
+var mnemonic = "party bean attack general leisure calm outer evoke excess exist foam enjoy";

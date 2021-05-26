@@ -1,1 +1,1 @@
-var mnemonic = "palace solar noble blood rival moon jar swarm youth infant pink exile";
+var mnemonic = "add jelly nuclear review laptop wedding garbage opera pulse novel inherit present";

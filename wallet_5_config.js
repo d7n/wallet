@@ -1,1 +1,1 @@
-var mnemonic = "focus theme own two perfect void drink shy keen denial admit credit";
+var mnemonic = "grow flavor oil doll wear subject hybrid dentist mirror penalty pet attack";

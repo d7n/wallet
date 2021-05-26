@@ -1,1 +1,1 @@
-var mnemonic = "upon entire pen dune embrace jealous juice grain news able bid goddess";
+var mnemonic = "worry license dish price happy announce cushion corn blue weekend rail trap";

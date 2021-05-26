@@ -1,1 +1,1 @@
-var mnemonic = "badge region amazing frown law utility argue scissors cliff bird bright deny";
+var mnemonic = "slab typical answer lemon isolate hurdle name repair suffer jacket stool section";

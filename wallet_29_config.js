@@ -1,1 +1,1 @@
-var mnemonic = "cricket chair reform horse flavor real return erode isolate fluid level crane";
+var mnemonic = "correct measure rapid muffin more talent jaguar pioneer series project web trial";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence usage erosion volcano type impose hurry hint benefit monitor risk shadow";
+var mnemonic = "announce donor subject daring nominee science gaze around give detail scout fetch";

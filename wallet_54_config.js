@@ -1,1 +1,1 @@
-var mnemonic = "hair junior shove chief slush peace describe draw language pigeon sail stadium";
+var mnemonic = "prevent over fancy violin lend fruit beach roast olive remove then liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant owner demand raise hard motor sketch amateur come distance sort elevator";
+var mnemonic = "image notice fiber group quick scorpion metal brown amateur salon crew guilt";

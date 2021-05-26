@@ -1,1 +1,1 @@
-var mnemonic = "position car random warfare recall require episode flower giggle lava curious daughter";
+var mnemonic = "logic critic plastic aware then method head rescue pair only alert normal";

@@ -1,1 +1,1 @@
-var mnemonic = "outside bless volcano rural vital next bicycle address news idea sibling reform";
+var mnemonic = "satoshi then captain plate trial gentle swarm pact magnet garden asset ostrich";

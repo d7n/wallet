@@ -1,1 +1,1 @@
-var mnemonic = "fitness wrong ride inside pelican kick bullet gas dad tree slice thing";
+var mnemonic = "mom quarter pitch sport wrap luxury snap van attend tower surge nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "speak wheel blame enable invite sponsor edge maid page cry twice arctic";
+var mnemonic = "fade reject thunder teach suggest pill retreat science bike crime present pact";

@@ -1,1 +1,1 @@
-var mnemonic = "patient law beyond pink machine power pilot bracket eager service crime joke";
+var mnemonic = "next avoid energy flame nest ramp apart sail female lab fluid velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "between champion solve wait fence crane motor comfort bring day boil year";
+var mnemonic = "grass obey science live earn blue exile cliff sponsor often few tone";

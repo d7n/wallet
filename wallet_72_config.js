@@ -1,1 +1,1 @@
-var mnemonic = "bike melt clap position surprise afford say junk network sample plate flush";
+var mnemonic = "crew horror recall fluid damage coast grid dish rebuild mask book tumble";

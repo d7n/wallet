@@ -1,1 +1,1 @@
-var mnemonic = "cargo solution super online helmet race meat such choose spell zoo mesh";
+var mnemonic = "rookie transfer reflect project slot twelve cycle beyond custom soup focus impulse";

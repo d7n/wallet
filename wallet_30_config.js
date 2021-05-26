@@ -1,1 +1,1 @@
-var mnemonic = "bring above hunt outer powder icon nurse shop gun cloud action twice";
+var mnemonic = "forest symptom embrace enemy excess captain fiscal reason october deliver retire bag";

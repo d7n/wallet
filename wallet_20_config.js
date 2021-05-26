@@ -1,1 +1,1 @@
-var mnemonic = "february cube crouch decade giraffe alert blood fence stairs melt myself announce";
+var mnemonic = "taxi fresh wrist salad token coyote giggle wide tag pyramid run myth";

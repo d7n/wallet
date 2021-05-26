@@ -1,1 +1,1 @@
-var mnemonic = "shaft ignore staff wide pair wrong swing body move lock virtual all";
+var mnemonic = "theory escape address humble goddess venture dream metal cost vital monster faculty";

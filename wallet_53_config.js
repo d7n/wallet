@@ -1,1 +1,1 @@
-var mnemonic = "all earn slide crawl dismiss duty auction portion gesture sight rude fish";
+var mnemonic = "adjust leaf exclude surprise armed main clinic better camp law mobile orient";

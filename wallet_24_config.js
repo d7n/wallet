@@ -1,1 +1,1 @@
-var mnemonic = "enhance spice lottery comic potato knife alert lucky broken organ staff mango";
+var mnemonic = "heart gasp broom tortoise pave disagree dynamic debris obey castle network live";

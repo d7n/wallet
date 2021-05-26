@@ -1,1 +1,1 @@
-var mnemonic = "flash alpha ticket reopen fancy knee reward laundry assume second spatial crew";
+var mnemonic = "raccoon field shove impulse cave humor park finish carpet saddle slow sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "way fox female token letter foil stand owner hip mirror story also";
+var mnemonic = "field morning stand music attitude honey gallery ice tuna issue shock surge";

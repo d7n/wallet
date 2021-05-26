@@ -1,1 +1,1 @@
-var mnemonic = "arrange height goat claim rotate traffic auction pattern length spawn business coast";
+var mnemonic = "impulse drive keep clap decide method aunt scrub direct pistol route dirt";

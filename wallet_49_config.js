@@ -1,1 +1,1 @@
-var mnemonic = "virtual frozen dentist rebel remind write shaft window teach fragile gospel rescue";
+var mnemonic = "skate cost attract smoke diet much frozen borrow level indicate thumb fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt fossil robust cool nose deal tape wool chuckle open rapid law";
+var mnemonic = "immune cool potato ring avoid usual film enact impose happy night plug";

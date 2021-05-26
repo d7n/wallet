@@ -1,1 +1,1 @@
-var mnemonic = "sleep trash notable choice trend arrange employ cabbage hidden across toe rude";
+var mnemonic = "neutral robust leave piece until come raise gate wall wait gold salute";

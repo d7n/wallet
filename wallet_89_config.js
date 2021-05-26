@@ -1,1 +1,1 @@
-var mnemonic = "wine garment turkey like jelly wink client matter science police install ethics";
+var mnemonic = "stable home yard nation dawn nice local auction very girl lawn place";

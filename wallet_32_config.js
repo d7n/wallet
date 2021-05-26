@@ -1,1 +1,1 @@
-var mnemonic = "attitude water joy agent place result device solar broom diesel neutral belt";
+var mnemonic = "oval decrease garlic shock favorite morning jaguar attract favorite load kitten glow";

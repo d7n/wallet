@@ -1,1 +1,1 @@
-var mnemonic = "maze tail tissue federal winner zone flavor peace vacuum weird such devote";
+var mnemonic = "rifle success burger derive forward property distance click absorb rice neither square";

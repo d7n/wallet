@@ -1,1 +1,1 @@
-var mnemonic = "captain oak blossom expand royal vital emotion damage throw jeans fruit fringe";
+var mnemonic = "poem smooth main property fold define answer reform lion empower auto milk";

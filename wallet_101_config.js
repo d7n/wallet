@@ -1,1 +1,1 @@
-var mnemonic = "bubble flavor involve board clutch gas garden beef fragile yellow cry quote";
+var mnemonic = "peasant paper nut flock brick blanket image stadium little any illegal drift";

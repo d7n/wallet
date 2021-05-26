@@ -1,1 +1,1 @@
-var mnemonic = "witness fame cloud awake gift add network coin expect arena giraffe dumb";
+var mnemonic = "trade runway dial seek during balcony need best member country movie phrase";

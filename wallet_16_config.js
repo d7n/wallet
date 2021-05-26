@@ -1,1 +1,1 @@
-var mnemonic = "year what discover disease harsh quit annual point smoke shiver toe setup";
+var mnemonic = "illegal kangaroo noble almost chuckle drift police force spy engage tuition reunion";

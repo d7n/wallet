@@ -1,1 +1,1 @@
-var mnemonic = "father wonder youth twelve drastic bench abuse coast voice whisper extend square";
+var mnemonic = "list man boost main accuse defense display stamp artwork spin dawn chair";

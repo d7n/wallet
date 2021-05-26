@@ -1,1 +1,1 @@
-var mnemonic = "talk sausage tortoise explain brave memory embark tide bag design law radio";
+var mnemonic = "junior subject chest stove mixed wrestle april skull universe just hurry reunion";

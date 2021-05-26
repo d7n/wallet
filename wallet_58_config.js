@@ -1,1 +1,1 @@
-var mnemonic = "axis exile thunder mammal relax timber oxygen lizard leopard alter talk enter";
+var mnemonic = "plug token exhibit trend cross length seek type grunt witness eagle agree";

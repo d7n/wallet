@@ -1,1 +1,1 @@
-var mnemonic = "chef gravity join document lecture relax captain bulb roof antique detect rebel";
+var mnemonic = "protect rival earn off elegant glass lion blade much behind equip wall";

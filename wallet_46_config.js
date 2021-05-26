@@ -1,1 +1,1 @@
-var mnemonic = "dinner bulk era enroll chair front gossip census general carry pond useless";
+var mnemonic = "uphold since notable hockey bone half shuffle route clerk penalty avocado undo";
