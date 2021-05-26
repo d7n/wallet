@@ -1,1 +1,1 @@
-var mnemonic = "spoil birth category final purity early public language panther river blood sting";
+var mnemonic = "diary nasty tonight ribbon chunk simple fat north alter will involve guilt";

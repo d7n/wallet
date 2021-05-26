@@ -1,1 +1,1 @@
-var mnemonic = "catch state whale public charge ribbon chicken noodle lamp employ turtle carry";
+var mnemonic = "pigeon still eyebrow cancel solid aerobic danger bomb treat price almost skin";

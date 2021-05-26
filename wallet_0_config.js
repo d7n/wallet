@@ -1,1 +1,1 @@
-var mnemonic = "version vacuum owner old like much wisdom certain naive oil worth rebuild";
+var mnemonic = "mandate chalk loop one organ napkin reopen immune benefit half cute trigger";

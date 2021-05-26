@@ -1,1 +1,1 @@
-var mnemonic = "use extra ripple result cave toast frown blast enough paper buzz spice";
+var mnemonic = "level worry visit marriage crucial shaft rule invest negative rifle toe moon";

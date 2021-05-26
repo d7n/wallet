@@ -1,1 +1,1 @@
-var mnemonic = "ensure medal prison furnace top acid curtain shoe exercise chaos style dog";
+var mnemonic = "present only stage alone pass phone hire excuse fly dash foil tobacco";

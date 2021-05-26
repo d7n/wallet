@@ -1,1 +1,1 @@
-var mnemonic = "magic raw super position property defense behave want welcome apart prefer wink";
+var mnemonic = "original squirrel copy visual hover resource local bid cloth snack kiwi knock";

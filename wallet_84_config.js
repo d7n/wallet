@@ -1,1 +1,1 @@
-var mnemonic = "clip rescue recipe forum ten patch quarter use wrong wonder tired ozone";
+var mnemonic = "upper february erosion arrive toe police garment wheel company emerge unusual caution";

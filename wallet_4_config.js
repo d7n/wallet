@@ -1,1 +1,1 @@
-var mnemonic = "rebuild summer junk venture final vocal comic physical survey unveil ancient age";
+var mnemonic = "grief chicken rose fashion dream mother dad suspect pact child card size";

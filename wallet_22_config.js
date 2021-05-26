@@ -1,1 +1,1 @@
-var mnemonic = "return orchard fox useful common order pyramid coach conduct early bless reunion";
+var mnemonic = "right control stone broom hunt rebel ignore brown general quit result laugh";

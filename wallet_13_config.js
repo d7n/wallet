@@ -1,1 +1,1 @@
-var mnemonic = "never nut uncover frequent indicate trumpet require soccer list coach oblige bind";
+var mnemonic = "urban proof horn stone gift ridge relax crowd gift switch clinic hospital";

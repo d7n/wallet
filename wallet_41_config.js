@@ -1,1 +1,1 @@
-var mnemonic = "zero ranch ankle split pioneer little vivid art abuse payment fat penalty";
+var mnemonic = "monkey spin stand inflict riot lamp camp jealous dolphin price stove that";

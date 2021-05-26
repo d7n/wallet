@@ -1,1 +1,1 @@
-var mnemonic = "roast borrow story fire adult angle innocent wall gesture cycle discover swarm";
+var mnemonic = "matter circle stable enough clump calm ranch deposit trim pluck honey sand";

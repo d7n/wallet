@@ -1,1 +1,1 @@
-var mnemonic = "cupboard element base soccer walk ranch enlist thought manual sphere venture pupil";
+var mnemonic = "arctic own enough predict defense any supreme issue hotel kidney resource vacant";

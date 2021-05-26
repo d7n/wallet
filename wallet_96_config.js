@@ -1,1 +1,1 @@
-var mnemonic = "doctor lunar number honey meadow mango merge wolf lunar bus comic pledge";
+var mnemonic = "also say holiday divert walk acid vessel degree shy truly rapid visit";

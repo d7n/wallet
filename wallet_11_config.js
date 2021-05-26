@@ -1,1 +1,1 @@
-var mnemonic = "fantasy lens wage rare comic lobster object calm side neither drastic share";
+var mnemonic = "zebra tell shop key fantasy horror sorry anger truck whip excuse lawsuit";

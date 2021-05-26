@@ -1,1 +1,1 @@
-var mnemonic = "fabric double drip whip fuel elephant credit first valve pencil try practice";
+var mnemonic = "frame slide property amused someone predict tongue custom pact anxiety romance urge";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger arena promote frozen bind tribe arrive moon home giant embrace weather";
+var mnemonic = "library yellow round giggle also boss upgrade bitter slide nest piano easily";

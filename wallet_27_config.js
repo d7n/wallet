@@ -1,1 +1,1 @@
-var mnemonic = "essay inhale list limit shoe inform skate gym bullet detect ordinary crop";
+var mnemonic = "tackle juice extend vehicle wrap kick review image isolate warrior hub time";

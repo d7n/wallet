@@ -1,1 +1,1 @@
-var mnemonic = "pass cave grid record liquid mammal tail arctic theory scout foil slogan";
+var mnemonic = "define choice large safe aerobic add way motor sand obey vehicle garage";

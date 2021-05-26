@@ -1,1 +1,1 @@
-var mnemonic = "same buyer frequent allow increase orchard approve guitar barrel demand arctic winter";
+var mnemonic = "receive mix aerobic destroy tired brick project jeans draft poem congress base";

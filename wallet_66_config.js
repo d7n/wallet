@@ -1,1 +1,1 @@
-var mnemonic = "square aim vapor panda cycle affair recall earth frozen kitten rescue airport";
+var mnemonic = "organ choice onion target under truck feel merit sketch tuna mango sense";

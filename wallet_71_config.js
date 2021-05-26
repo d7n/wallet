@@ -1,1 +1,1 @@
-var mnemonic = "anchor wrist clinic enforce vital domain domain run daring violin there ramp";
+var mnemonic = "receive wealth champion pen margin fall tourist section kingdom wrap sauce suspect";

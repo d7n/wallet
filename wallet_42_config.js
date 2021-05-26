@@ -1,1 +1,1 @@
-var mnemonic = "vacuum rice inch service pretty fish hammer fit wrist fuel seat pyramid";
+var mnemonic = "illegal sphere arm depth topic wrestle cake gadget turn become behind buzz";

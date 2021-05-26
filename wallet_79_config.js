@@ -1,1 +1,1 @@
-var mnemonic = "sorry acquire hotel supply shaft future opera soldier crisp embrace warm swift";
+var mnemonic = "horror theme slush shell artist typical empower educate student early sport midnight";

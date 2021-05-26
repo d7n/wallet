@@ -1,1 +1,1 @@
-var mnemonic = "prize blanket direct raven main candy spawn useful arrive click smart steel";
+var mnemonic = "cause chronic thank canyon scrap bind lecture april view point more learn";

@@ -1,1 +1,1 @@
-var mnemonic = "setup grow twin outdoor shock destroy corn hub caution lift mountain mobile";
+var mnemonic = "subway identify require wire lyrics punch piano people earth stomach merge sheriff";

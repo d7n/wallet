@@ -1,1 +1,1 @@
-var mnemonic = "humble blur arctic unlock chronic universe estate venture suggest aspect series affair";
+var mnemonic = "nice else mercy search permit snake before school notice course still battle";

@@ -1,1 +1,1 @@
-var mnemonic = "roast witness sell sentence wife letter excite joke wheat hand feel talent";
+var mnemonic = "junk zero negative marine good sick liquid lamp guard pottery scout abandon";

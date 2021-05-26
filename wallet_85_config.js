@@ -1,1 +1,1 @@
-var mnemonic = "fish hen height way primary latin tennis buzz dawn joke envelope leave";
+var mnemonic = "gaze fade market enjoy damage acid little chef basic convince globe bike";

@@ -1,1 +1,1 @@
-var mnemonic = "student physical tower avocado sleep index example start useful love filter satisfy";
+var mnemonic = "color dog blind across ten bleak settle unique topple salt hedgehog special";

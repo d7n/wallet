@@ -1,1 +1,1 @@
-var mnemonic = "traffic law nurse usage endorse promote good believe system pistol sweet raccoon";
+var mnemonic = "spice lazy race reflect admit hub tired multiply analyst liberty final float";

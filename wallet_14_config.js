@@ -1,1 +1,1 @@
-var mnemonic = "grow final kidney weird term brief coral artwork nominee accuse virus empower";
+var mnemonic = "cost shrimp clog glow exit when depth priority good robot unfair expire";

@@ -1,1 +1,1 @@
-var mnemonic = "heart all endless knife jungle search donkey gravity pony prize menu autumn";
+var mnemonic = "fortune still blind absurd peasant upgrade wave engage carpet table maid bulb";

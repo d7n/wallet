@@ -1,1 +1,1 @@
-var mnemonic = "regret tree october economy cotton bleak smoke select crystal shine tomorrow mammal";
+var mnemonic = "find beauty identify steak odor year alert foster spatial awake blood jewel";

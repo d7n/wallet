@@ -1,1 +1,1 @@
-var mnemonic = "sight song hybrid will library subject sand differ include hazard noble wonder";
+var mnemonic = "bracket wage yard inflict sign resemble head matrix cancel brush category awesome";

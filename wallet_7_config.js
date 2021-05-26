@@ -1,1 +1,1 @@
-var mnemonic = "love crane scrap dragon popular educate fold solve capital use damp sentence";
+var mnemonic = "sibling spread festival table talk now connect dolphin auto twin velvet unusual";

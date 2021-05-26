@@ -1,1 +1,1 @@
-var mnemonic = "aware milk verify pattern ill rebel trade gaze two gain thing salon";
+var mnemonic = "ocean action worth army differ wasp frost hard inside cliff tennis bamboo";

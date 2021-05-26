@@ -1,1 +1,1 @@
-var mnemonic = "sense tourist glide idle more grain autumn trust become list soda gentle";
+var mnemonic = "stem often force polar giraffe actual scrap truth bring morning diesel actual";

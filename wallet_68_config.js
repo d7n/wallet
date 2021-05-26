@@ -1,1 +1,1 @@
-var mnemonic = "gun toward anxiety lounge high inherit share online mechanic pilot maple birth";
+var mnemonic = "disagree program grit thumb sell shrug lunch wreck victory betray another false";

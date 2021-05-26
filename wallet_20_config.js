@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ahead fuel frown enter whisper banner milk phone oblige focus flush";
+var mnemonic = "muffin make scheme float patch melt dutch digital rail swift sudden trap";

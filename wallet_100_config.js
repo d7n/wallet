@@ -1,1 +1,1 @@
-var mnemonic = "best course swamp tray pave cupboard vapor antenna beauty brand must expect";
+var mnemonic = "join universe riot side lion twist december nut skin drastic mandate flee";

@@ -1,1 +1,1 @@
-var mnemonic = "dress catch vanish notice second lady tissue situate enjoy truck metal capital";
+var mnemonic = "frequent refuse system fuel catch junior rival filter mystery love shoot glance";

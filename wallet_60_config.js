@@ -1,1 +1,1 @@
-var mnemonic = "ecology duty again together clump quit impulse face bomb flat crystal liquid";
+var mnemonic = "mandate renew old evidence cigar sadness truly relax rotate opinion drum cram";

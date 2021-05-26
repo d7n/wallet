@@ -1,1 +1,1 @@
-var mnemonic = "lesson sight bean perfect crane cute abuse gold hurry enroll able swallow";
+var mnemonic = "submit napkin come life champion long fork oak gadget kiwi clerk planet";

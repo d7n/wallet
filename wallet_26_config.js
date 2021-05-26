@@ -1,1 +1,1 @@
-var mnemonic = "scrap cushion supreme shallow assume dune into oven morning come mutual connect";
+var mnemonic = "pass august proof entire stomach net lion february bring buddy thunder motor";

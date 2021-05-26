@@ -1,1 +1,1 @@
-var mnemonic = "hour aspect main dutch law oyster false depend candy silk tennis rack";
+var mnemonic = "law depth cage betray reject clinic bright bind return wealth february captain";

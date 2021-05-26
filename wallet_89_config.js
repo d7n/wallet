@@ -1,1 +1,1 @@
-var mnemonic = "state prepare identify evolve present mandate drop weekend tray liberty game priority";
+var mnemonic = "soul fence coach solid tiny demise matrix eye curve airport borrow turn";

@@ -1,1 +1,1 @@
-var mnemonic = "claw position butter toe joke menu reform wash pill border connect flip";
+var mnemonic = "mushroom confirm prize grace color chimney over slot witness warrior lazy jazz";

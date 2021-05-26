@@ -1,1 +1,1 @@
-var mnemonic = "twenty mad soon tobacco arrest favorite submit west twelve inquiry slender lottery";
+var mnemonic = "alley assault join fuel patrol rebuild nuclear detect wheat accident inquiry federal";

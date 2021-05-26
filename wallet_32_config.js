@@ -1,1 +1,1 @@
-var mnemonic = "envelope wasp pattern market blossom nest assault hawk sphere daughter cupboard vapor";
+var mnemonic = "multiply ability pottery husband asset argue victory wrong basic hour check cherry";

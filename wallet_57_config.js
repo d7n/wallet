@@ -1,1 +1,1 @@
-var mnemonic = "master you joy actress diet witness size mix feel pull resist teach";
+var mnemonic = "exile boost two champion harbor language absurd antenna know enrich unveil into";

@@ -1,1 +1,1 @@
-var mnemonic = "joke hat basic find hill jeans helmet medal captain dynamic lawsuit mandate";
+var mnemonic = "chaos ghost pride write offer return forum base this siege engage wink";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm leisure shy matter rally debate lunar spend cement movie name assist";
+var mnemonic = "couple bag pioneer original adult little long dice slush advance save concert";

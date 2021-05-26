@@ -1,1 +1,1 @@
-var mnemonic = "design spatial couple wealth damage tourist like fish garlic mosquito often sing";
+var mnemonic = "remember ability give range session crew depart you trip educate grant scrap";

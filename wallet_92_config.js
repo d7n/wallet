@@ -1,1 +1,1 @@
-var mnemonic = "anxiety harvest level best tired thank gift orbit multiply thing dragon crazy";
+var mnemonic = "perfect voice twin case deliver legal carry airport garden dynamic end excess";

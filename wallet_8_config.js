@@ -1,1 +1,1 @@
-var mnemonic = "behind elevator shine involve skate emotion artefact hobby phrase hat width thing";
+var mnemonic = "borrow resemble response license weather profit pig convince sunset catch dismiss filter";

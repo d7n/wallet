@@ -1,1 +1,1 @@
-var mnemonic = "legend confirm around joke unfair loyal guide weapon turkey interest frost cabbage";
+var mnemonic = "enlist word middle reason alley puzzle salmon castle glass bright nice sorry";

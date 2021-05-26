@@ -1,1 +1,1 @@
-var mnemonic = "sphere culture apple square pulp beef when belt click globe add dash";
+var mnemonic = "wall cliff small midnight wise panther gate scheme acquire wet dentist fence";

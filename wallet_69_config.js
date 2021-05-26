@@ -1,1 +1,1 @@
-var mnemonic = "tourist leaf hotel slender act afraid alpha awful stem buyer legal fly";
+var mnemonic = "reunion game noise idle tonight annual circle scan rib stone forward update";

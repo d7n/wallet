@@ -1,1 +1,1 @@
-var mnemonic = "credit entry usage armor skate orient ride advance nerve toss loud endless";
+var mnemonic = "idea crush leisure live dream travel ocean parrot useless snap stereo tool";

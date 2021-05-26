@@ -1,1 +1,1 @@
-var mnemonic = "hold twice small heart oak alert pepper heavy between patch salon large";
+var mnemonic = "hurry close discover armed curtain whale thumb job coast maple idea meadow";

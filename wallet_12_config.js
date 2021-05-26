@@ -1,1 +1,1 @@
-var mnemonic = "honey during liquid giggle oval media spot acid scrub great improve track";
+var mnemonic = "fiction code risk shoot element dial spray keep illegal sheriff net safe";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf task flat habit market dream fiber breeze expect soldier swarm toast";
+var mnemonic = "jar ignore stand source dry awkward begin pact ordinary pelican sample strong";

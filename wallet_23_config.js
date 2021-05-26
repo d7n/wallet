@@ -1,1 +1,1 @@
-var mnemonic = "sausage scrap easily cotton ramp pencil domain already unveil denial step cross";
+var mnemonic = "viable sorry code average library faint issue purchase disagree ladder caution example";

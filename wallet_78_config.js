@@ -1,1 +1,1 @@
-var mnemonic = "diamond stable betray abuse black convince dust vendor final milk memory achieve";
+var mnemonic = "analyst happy dumb scan welcome coach buffalo exclude venture runway ridge agree";

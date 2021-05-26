@@ -1,1 +1,1 @@
-var mnemonic = "razor foot youth cage matrix border issue awake lobster say mandate pioneer";
+var mnemonic = "patrol crawl major cheap transfer inherit short modify job morning solve mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom student muffin domain quit release nominee steel emotion mobile hint material";
+var mnemonic = "helmet lounge sand dust poverty always evolve hunt canyon reopen often strong";

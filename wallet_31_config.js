@@ -1,1 +1,1 @@
-var mnemonic = "other dose proof disagree input drill crumble leader tobacco husband market roof";
+var mnemonic = "rookie head track law evoke people jewel caution museum inch combine canoe";

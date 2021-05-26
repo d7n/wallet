@@ -1,1 +1,1 @@
-var mnemonic = "crash oxygen toddler dash addict elbow crane mixture virtual spend client eagle";
+var mnemonic = "garment half defy above cover glory cradle act seed sudden slight mean";

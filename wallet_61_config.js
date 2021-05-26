@@ -1,1 +1,1 @@
-var mnemonic = "jar strategy erase vehicle twin weather upgrade blanket symptom casino inquiry thing";
+var mnemonic = "skirt wink below angry fog river match sign unaware goose dilemma napkin";

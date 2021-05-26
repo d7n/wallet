@@ -1,1 +1,1 @@
-var mnemonic = "melody skin tumble bus admit slush jaguar rebuild solution dragon announce rubber";
+var mnemonic = "salt body leaf much forum enhance south talk gap busy cause follow";

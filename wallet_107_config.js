@@ -1,1 +1,1 @@
-var mnemonic = "naive sample number switch act trade manage tower carpet wool very mean";
+var mnemonic = "tank exhaust tennis dawn media obscure exit canal game sunset junior vacuum";

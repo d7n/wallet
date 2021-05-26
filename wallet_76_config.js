@@ -1,1 +1,1 @@
-var mnemonic = "athlete panther final inside nasty depart local denial feel lonely glimpse virus";
+var mnemonic = "snow acid island chase before buyer flag picnic carbon sure antique unveil";

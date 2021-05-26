@@ -1,1 +1,1 @@
-var mnemonic = "fragile ice pen light health multiply minimum polar begin that topic vital";
+var mnemonic = "obey copy during major bubble sniff flame distance name argue night sea";

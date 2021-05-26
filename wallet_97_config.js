@@ -1,1 +1,1 @@
-var mnemonic = "tide dumb gather image cat view moment narrow crumble size sign chimney";
+var mnemonic = "illness knee enroll rubber much nephew illness claim window news sting cliff";

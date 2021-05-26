@@ -1,1 +1,1 @@
-var mnemonic = "security analyst banana mansion aerobic boat spatial result endless above grain toddler";
+var mnemonic = "solve display valid march quality bronze crazy protect few wonder join girl";

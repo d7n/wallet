@@ -1,1 +1,1 @@
-var mnemonic = "useful essence aerobic rhythm hire hurry sauce bird year apple noble orchard";
+var mnemonic = "cage attitude pencil marine member hand waste task flat upper section light";

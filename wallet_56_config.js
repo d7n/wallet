@@ -1,1 +1,1 @@
-var mnemonic = "power pilot tip hip toward crime twin risk sausage usage park coast";
+var mnemonic = "water recycle sad ranch model scissors symbol ahead render news fence mimic";

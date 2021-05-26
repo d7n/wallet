@@ -1,1 +1,1 @@
-var mnemonic = "mountain finger lumber tide advance crucial fatigue parent slim chef already tonight";
+var mnemonic = "review glow drum best disease media practice ladder dizzy lava easy subject";

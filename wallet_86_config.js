@@ -1,1 +1,1 @@
-var mnemonic = "solid food observe tired device word cinnamon story damp column legend utility";
+var mnemonic = "food bone stem crop night clutch erupt young sunny beef embody glow";

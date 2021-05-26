@@ -1,1 +1,1 @@
-var mnemonic = "diagram expose despair seven desert daring mystery across clock whale finger reason";
+var mnemonic = "mimic drip garbage gesture trim quiz smooth raccoon truly praise resemble predict";

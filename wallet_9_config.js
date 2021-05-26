@@ -1,1 +1,1 @@
-var mnemonic = "walnut afraid vacant galaxy rifle fantasy health they gadget account desert seven";
+var mnemonic = "mass sugar rather north bright chef worth mad wish surround mutual enroll";

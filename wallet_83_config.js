@@ -1,1 +1,1 @@
-var mnemonic = "hundred mammal minimum fee category place rescue future banner success alter horn";
+var mnemonic = "update slab funny check lottery lounge process inherit fashion close mirror spatial";

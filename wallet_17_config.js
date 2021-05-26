@@ -1,1 +1,1 @@
-var mnemonic = "shell mix rail select stairs unique rhythm parade auto undo future priority";
+var mnemonic = "screen outer weapon wait comfort onion proud novel system afford join knock";

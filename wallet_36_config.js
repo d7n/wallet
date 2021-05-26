@@ -1,1 +1,1 @@
-var mnemonic = "stage decade swamp talk core unaware barely card guitar area repeat duck";
+var mnemonic = "photo little patrol man coil random beef improve renew always snake antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "assault tone wink where vast enlist leopard seat trophy author owner cause";
+var mnemonic = "myth shallow snake supply token plastic repeat bitter mistake early mistake boring";

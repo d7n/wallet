@@ -1,1 +1,1 @@
-var mnemonic = "rely harvest hint inform better breeze long sense very turkey early across";
+var mnemonic = "fold interest agent skirt verb poverty fancy scan margin donor upset brass";

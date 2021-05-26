@@ -1,1 +1,1 @@
-var mnemonic = "shoot bundle broom rally soldier spoil gate ranch celery acquire divert super";
+var mnemonic = "harsh zebra kitchen sick bargain destroy merit neglect galaxy marine venture load";

@@ -1,1 +1,1 @@
-var mnemonic = "sister print keep sentence prosper robust agent mistake swarm famous warfare what";
+var mnemonic = "hedgehog chair genuine lucky entire unusual bind just paper domain asthma service";

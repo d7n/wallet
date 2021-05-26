@@ -1,1 +1,1 @@
-var mnemonic = "tonight churn decorate outer stock solid parrot drop elbow leave obvious private";
+var mnemonic = "crouch fragile clip absent palace trouble offer now recycle extend whip produce";
