@@ -1,1 +1,1 @@
-var mnemonic = "stadium nasty chief photo actual disagree improve wrestle loop frame outside never";
+var mnemonic = "major life thing peasant custom second fiction reunion regret media youth puzzle";

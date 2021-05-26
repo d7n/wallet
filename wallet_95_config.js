@@ -1,1 +1,1 @@
-var mnemonic = "curve reveal planet firm cricket claw slogan width weasel ketchup salad crunch";
+var mnemonic = "asthma rich grass farm shoot van juice glare cushion rely devote youth";

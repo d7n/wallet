@@ -1,1 +1,1 @@
-var mnemonic = "okay runway bird lunar desert fan cash pair erosion broom young peanut";
+var mnemonic = "calm female rebel gossip barely wine initial angle antique illness weather tornado";

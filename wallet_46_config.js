@@ -1,1 +1,1 @@
-var mnemonic = "normal category rescue blind cream refuse oval praise such version welcome thrive";
+var mnemonic = "corn digital knock usage climb album lock exist improve share tide cram";

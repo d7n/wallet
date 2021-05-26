@@ -1,1 +1,1 @@
-var mnemonic = "balcony avocado strong panda movie chicken labor cancel slam crunch gadget define";
+var mnemonic = "leg juice around vessel decade someone debate also glow rural exhaust bring";

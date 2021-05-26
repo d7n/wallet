@@ -1,1 +1,1 @@
-var mnemonic = "emotion axis cattle village kidney flight original husband chat peasant stove notable";
+var mnemonic = "bless heavy grace eager acid fold vintage hawk sick review test avocado";

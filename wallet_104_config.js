@@ -1,1 +1,1 @@
-var mnemonic = "load prize deposit inner fiber hole assume fiscal sand blanket admit return";
+var mnemonic = "craft crane panel pond faint patch soul matter party increase dust tree";

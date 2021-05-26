@@ -1,1 +1,1 @@
-var mnemonic = "record brisk pause silly clay census world dwarf travel lock purpose element";
+var mnemonic = "hair early sad dust cube witness antique response expire advice witness media";

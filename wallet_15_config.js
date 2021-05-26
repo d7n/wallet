@@ -1,1 +1,1 @@
-var mnemonic = "vibrant maze talent away satoshi myth indicate abandon know enhance release shuffle";
+var mnemonic = "romance chuckle photo color meadow atom near album middle twin round use";

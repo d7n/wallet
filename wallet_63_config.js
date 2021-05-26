@@ -1,1 +1,1 @@
-var mnemonic = "marine soup make stool museum envelope early wagon sock genre roast rubber";
+var mnemonic = "they sea cousin hawk over knife letter noodle firm myth earn assume";

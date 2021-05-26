@@ -1,1 +1,1 @@
-var mnemonic = "buzz left immense bomb swamp advice man sign foster alarm lock pitch";
+var mnemonic = "wheat meadow merit dolphin stem early garbage unknown drip vacuum oxygen script";

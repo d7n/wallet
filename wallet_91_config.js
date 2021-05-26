@@ -1,1 +1,1 @@
-var mnemonic = "argue main sugar exist crew wrestle train battle endless suffer van giraffe";
+var mnemonic = "offer below toe update light kind disagree empty this climb clip prepare";

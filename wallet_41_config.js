@@ -1,1 +1,1 @@
-var mnemonic = "save topic between scissors hire fiction already escape photo focus garment slow";
+var mnemonic = "divorce boring calm lizard cattle motion click struggle exhaust staff fame drink";

@@ -1,1 +1,1 @@
-var mnemonic = "actor kitten employ digital boat eager melody merry clerk swear space virus";
+var mnemonic = "ship throw title top spatial flight rate evolve tooth regret shoot scrap";

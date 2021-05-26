@@ -1,1 +1,1 @@
-var mnemonic = "pact leaf gossip robust vocal throw mule blouse mother nation atom onion";
+var mnemonic = "genuine despair warfare unveil dawn tobacco crush promote dash shock ribbon hat";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle jacket such brass child east boil beach gaze cook ask salad";
+var mnemonic = "weasel emerge keen much february answer allow question fluid kit neutral portion";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow undo refuse letter lake chair oval drop auction labor token people";
+var mnemonic = "hard injury degree bracket torch aim alert senior rug vault carry cube";

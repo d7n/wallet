@@ -1,1 +1,1 @@
-var mnemonic = "grid answer manual whisper print tortoise cricket diamond stadium brain enough cry";
+var mnemonic = "oak fossil industry book source melt glory solid road rubber tube innocent";

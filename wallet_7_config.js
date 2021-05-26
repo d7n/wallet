@@ -1,1 +1,1 @@
-var mnemonic = "steak bread person exile price frame such soap mix poet first wink";
+var mnemonic = "suggest amazing mountain damage review budget supreme social obscure side idea release";

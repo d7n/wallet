@@ -1,1 +1,1 @@
-var mnemonic = "will credit fit empty cancel nominee shuffle retire diesel bench crazy alarm";
+var mnemonic = "unhappy sponsor door cloud flash cash artwork huge boss cement first congress";

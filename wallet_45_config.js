@@ -1,1 +1,1 @@
-var mnemonic = "reason slot skin report dog boost clarify depend fruit history calm size";
+var mnemonic = "salad same shrug menu equal either script flame leave advice artwork click";

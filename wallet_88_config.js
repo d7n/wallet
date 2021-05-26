@@ -1,1 +1,1 @@
-var mnemonic = "matter brand oyster crunch exclude custom enhance exclude rare enhance armor chuckle";
+var mnemonic = "beach devote armor surround struggle bleak define harvest grace kitchen valley cheap";

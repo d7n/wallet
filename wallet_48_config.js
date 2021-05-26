@@ -1,1 +1,1 @@
-var mnemonic = "dose rare manual echo obvious armed family palace twist method saddle reunion";
+var mnemonic = "worry walnut wedding total edge laptop human flavor buzz retreat other member";

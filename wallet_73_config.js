@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit language neutral always other cigar roof diagram frame flight swallow remove";
+var mnemonic = "provide shallow blood banana cute symbol snake exact add topple assist diesel";

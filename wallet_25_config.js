@@ -1,1 +1,1 @@
-var mnemonic = "ordinary episode firm arctic donate shoe length zone divert life license satoshi";
+var mnemonic = "lab place someone employ pitch tumble tree setup decrease wealth easy style";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck curtain hip rival eager master river fish roast hamster shoulder radio";
+var mnemonic = "abuse invest number car only disorder impulse clock brand angle ritual bracket";

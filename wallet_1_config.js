@@ -1,1 +1,1 @@
-var mnemonic = "color junior march smooth unveil cinnamon lobster shiver thank sport feed keen";
+var mnemonic = "guilt tone blast speak isolate ability put hedgehog excess address soon language";

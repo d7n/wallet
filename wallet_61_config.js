@@ -1,1 +1,1 @@
-var mnemonic = "artist weather flat unveil vehicle audit globe more dizzy danger hand skate";
+var mnemonic = "impact timber kite joy crisp praise weasel loan enemy win victory develop";

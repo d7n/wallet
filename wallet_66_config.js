@@ -1,1 +1,1 @@
-var mnemonic = "pill first observe become view occur today medal alpha urge shaft harbor";
+var mnemonic = "labor identify over blush embark check tomorrow today destroy swing toy unaware";

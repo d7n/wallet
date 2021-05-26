@@ -1,1 +1,1 @@
-var mnemonic = "popular sadness envelope oyster castle elbow island decline above festival mesh girl";
+var mnemonic = "limb idle coral weapon mouse sunset want behind media what say antique";

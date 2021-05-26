@@ -1,1 +1,1 @@
-var mnemonic = "ketchup soon garbage action skull cover follow arctic twelve betray bamboo father";
+var mnemonic = "cabbage poet online wait cherry mule pluck large void onion milk hurdle";

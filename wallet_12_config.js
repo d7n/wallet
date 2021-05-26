@@ -1,1 +1,1 @@
-var mnemonic = "inch physical else basic short middle increase scene mad tennis fire one";
+var mnemonic = "razor sketch fury tissue guide metal priority mass camp resource entire behind";

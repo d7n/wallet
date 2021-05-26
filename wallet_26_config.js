@@ -1,1 +1,1 @@
-var mnemonic = "thumb strike minor staff fiction rocket clutch title decline demand example wheel";
+var mnemonic = "delay gather impulse globe rabbit wisdom sword bracket visa ski path client";

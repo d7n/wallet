@@ -1,1 +1,1 @@
-var mnemonic = "exhaust cancel february theme sweet habit unlock century change escape orange mountain";
+var mnemonic = "family pelican school tongue wife similar rhythm lounge film jeans skill milk";

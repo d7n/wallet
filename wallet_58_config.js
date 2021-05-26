@@ -1,1 +1,1 @@
-var mnemonic = "frame announce either valve library ketchup absent isolate harvest result correct include";
+var mnemonic = "message joke private once pupil token person gown common like tunnel circle";

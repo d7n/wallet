@@ -1,1 +1,1 @@
-var mnemonic = "tooth gossip atom fold escape bike fat tortoise truly practice mobile soccer";
+var mnemonic = "clay gas entry pulp online drum gadget hope enemy crunch detail whisper";

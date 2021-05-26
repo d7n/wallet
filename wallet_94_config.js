@@ -1,1 +1,1 @@
-var mnemonic = "claim evil response finger chat metal police birth photo output forest domain";
+var mnemonic = "razor spice stock stumble dress job update hold team reward mechanic popular";

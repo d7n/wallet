@@ -1,1 +1,1 @@
-var mnemonic = "sail agree throw raccoon noble else artefact arena sunny noise zebra virtual";
+var mnemonic = "guilt course pill glance spot fever bean make blind inside foster mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "home cabbage phrase cost final chest daughter ankle dynamic spawn differ welcome";
+var mnemonic = "oppose long observe someone twelve book consider walnut conduct rain soft lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "alien uniform either tortoise broom absurd pond sting blast oblige satoshi oppose";
+var mnemonic = "fade state unfair program laundry few describe rice peasant lift glad fox";

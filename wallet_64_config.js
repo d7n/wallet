@@ -1,1 +1,1 @@
-var mnemonic = "damp erase tray stem trust west snake devote found issue grief journey";
+var mnemonic = "quantum typical craft mouse area pause brisk despair bind melt level increase";

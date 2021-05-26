@@ -1,1 +1,1 @@
-var mnemonic = "small theory pizza route maid urban neck lesson begin oxygen lab image";
+var mnemonic = "essence job light glass sad girl dog twenty adult rotate oyster abandon";

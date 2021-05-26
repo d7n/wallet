@@ -1,1 +1,1 @@
-var mnemonic = "night buzz blush narrow equip matrix draft quick memory rain ask equal";
+var mnemonic = "weekend parrot burst barrel gravity stove toe stable notice shoulder logic popular";

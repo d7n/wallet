@@ -1,1 +1,1 @@
-var mnemonic = "gadget gadget magic try immune prosper milk illegal project omit wash duck";
+var mnemonic = "weasel security maze vacant host humble voyage fringe hotel acoustic hockey august";

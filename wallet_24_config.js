@@ -1,1 +1,1 @@
-var mnemonic = "tonight chuckle hard volume drip mixture suit journey person today arrange force";
+var mnemonic = "venture among caught wolf wide elder ten abstract noble famous unlock memory";

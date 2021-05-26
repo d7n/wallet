@@ -1,1 +1,1 @@
-var mnemonic = "differ oblige chair joy capable life theme pattern put umbrella banana exercise";
+var mnemonic = "north alien country opinion gate box milk shift roof ride cactus jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "february immune exhaust embrace ensure record glory hub length grid educate join";
+var mnemonic = "glove category canyon kitchen sword rural filter manual release flash exit dust";

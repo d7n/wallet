@@ -1,1 +1,1 @@
-var mnemonic = "tonight speed announce token version forum agent tail exclude model motion include";
+var mnemonic = "hurry area erode album crack glory segment zoo behave extend dismiss throw";

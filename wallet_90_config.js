@@ -1,1 +1,1 @@
-var mnemonic = "chair cabin retire eye naive island mother endless excuse engine ring decide";
+var mnemonic = "year garment expect during book child fabric remember motion sea artwork ivory";

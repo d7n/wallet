@@ -1,1 +1,1 @@
-var mnemonic = "ceiling height teach hobby define enforce special case suggest vapor have eight";
+var mnemonic = "cliff talent buzz edit year weasel emerge wrap leisure erase drive stone";

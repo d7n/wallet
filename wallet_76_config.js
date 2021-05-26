@@ -1,1 +1,1 @@
-var mnemonic = "uncle unable often path dove gloom curious spike confirm belt muffin sad";
+var mnemonic = "offer stadium pony chalk scorpion opinion venue produce antenna bitter kidney drum";

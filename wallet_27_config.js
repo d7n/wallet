@@ -1,1 +1,1 @@
-var mnemonic = "cargo border pig bamboo label evolve coral forget blue hope umbrella select";
+var mnemonic = "solid divert tomorrow afford skin fiscal ill traffic pull approve stomach word";

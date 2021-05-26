@@ -1,1 +1,1 @@
-var mnemonic = "labor remember nut chase disease evolve bullet more topple print theme fabric";
+var mnemonic = "hammer final barely youth poem double morning denial ivory address keen argue";

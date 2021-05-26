@@ -1,1 +1,1 @@
-var mnemonic = "ankle child cabin vote expect dumb achieve improve garment quote reflect upgrade";
+var mnemonic = "because metal vehicle vocal unhappy vicious unable cluster plunge reward turtle umbrella";

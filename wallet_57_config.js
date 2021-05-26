@@ -1,1 +1,1 @@
-var mnemonic = "select congress happy apart gaze day bright husband alpha maid canvas garment";
+var mnemonic = "copy hat gun million deny crime curtain topple plastic steak junk prosper";

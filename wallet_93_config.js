@@ -1,1 +1,1 @@
-var mnemonic = "surround inject advance swing fetch shallow finger wealth rebel audit reform loop";
+var mnemonic = "capital canal moral exact escape asthma build warm tuition adjust forest snow";

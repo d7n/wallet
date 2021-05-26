@@ -1,1 +1,1 @@
-var mnemonic = "metal apart what minimum law confirm omit action parade noise end scare";
+var mnemonic = "pink trade shoulder accuse settle scout draw elder social behind struggle gauge";

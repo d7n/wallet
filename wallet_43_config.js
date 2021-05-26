@@ -1,1 +1,1 @@
-var mnemonic = "shine obvious oval powder grass unaware toast gesture polar choose cross gospel";
+var mnemonic = "hidden address person bird arrow beyond position mad utility arctic unit alley";

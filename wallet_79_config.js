@@ -1,1 +1,1 @@
-var mnemonic = "dream element bottom doll vessel wine session among narrow luxury canal split";
+var mnemonic = "swap angle cross vast lock october loud fiction nut region carpet zone";

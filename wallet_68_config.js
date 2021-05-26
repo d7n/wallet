@@ -1,1 +1,1 @@
-var mnemonic = "test airport soft scrap ketchup harvest filter unfold flag kit nasty nephew";
+var mnemonic = "fortune fog brief slot runway foam basket beef pair faint tired remember";

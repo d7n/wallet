@@ -1,1 +1,1 @@
-var mnemonic = "comfort debris nurse muscle lava hurry buddy dignity minute elite awesome skirt";
+var mnemonic = "fringe curious eternal balance balance damp dinner bacon envelope rookie rail sponsor";

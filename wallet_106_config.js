@@ -1,1 +1,1 @@
-var mnemonic = "cram kangaroo fiscal symptom actual stuff penalty average salmon pottery wish disagree";
+var mnemonic = "sugar potato illegal firm mistake tackle boat oblige bridge input elite impact";

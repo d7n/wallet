@@ -1,1 +1,1 @@
-var mnemonic = "lawn employ cliff timber horse raccoon elevator quick much strike ancient typical";
+var mnemonic = "crumble polar dirt veteran cheese sing near sell deposit village slight crunch";

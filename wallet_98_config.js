@@ -1,1 +1,1 @@
-var mnemonic = "equal increase page more enlist sadness swarm stock such dad sunny off";
+var mnemonic = "acquire stairs unveil divert wall scout cross dune doctor typical eight reject";

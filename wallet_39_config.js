@@ -1,1 +1,1 @@
-var mnemonic = "below print leopard concert orbit tortoise rude exchange harvest meat zoo narrow";
+var mnemonic = "arrest hat advice arrest echo upset slush fiction cheap capable cancel follow";

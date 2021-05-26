@@ -1,1 +1,1 @@
-var mnemonic = "bind list hard ticket garlic into sphere exotic lawn hobby fringe culture";
+var mnemonic = "focus almost dirt dash valve fork sound glue hat below scatter involve";

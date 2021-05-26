@@ -1,1 +1,1 @@
-var mnemonic = "student crouch glove thought ramp actress second vivid vehicle prosper blossom agent";
+var mnemonic = "trophy already myself clip juice combine balcony catalog hover raw yellow camp";

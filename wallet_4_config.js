@@ -1,1 +1,1 @@
-var mnemonic = "tissue base giant pill half rack lesson toilet inject actual couple salute";
+var mnemonic = "provide bean woman bounce hen add liquid easily coil drum feel code";

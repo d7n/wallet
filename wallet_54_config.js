@@ -1,1 +1,1 @@
-var mnemonic = "camera family soon battle rib again siren upset hat way spirit behind";
+var mnemonic = "rough sound crowd machine degree upon police swing tape tiger answer picnic";

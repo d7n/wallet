@@ -1,1 +1,1 @@
-var mnemonic = "swamp airport grant tourist liquid practice goose mask frown vast salad wire";
+var mnemonic = "soul cool typical buddy theme amused uncover possible vessel weapon innocent myth";

@@ -1,1 +1,1 @@
-var mnemonic = "power small wire better announce bless spot good outer praise clever arrange";
+var mnemonic = "help nose sauce gate pudding much icon choose pool certain saddle club";

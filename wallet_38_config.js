@@ -1,1 +1,1 @@
-var mnemonic = "pizza next sport lemon front wall wheel purchase faith spray butter leave";
+var mnemonic = "embark spike angry inherit draw seek history drive void elegant lady relief";

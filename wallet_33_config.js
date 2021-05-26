@@ -1,1 +1,1 @@
-var mnemonic = "salon inject raise path stage tissue online tray cheese give manage build";
+var mnemonic = "ask mango elder debate end sample doctor blast purpose egg hammer arctic";

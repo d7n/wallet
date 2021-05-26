@@ -1,1 +1,1 @@
-var mnemonic = "better steel easily dog fiber under rabbit process animal gym tray waste";
+var mnemonic = "party learn clap because supreme ramp era crouch intact peanut olive scare";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage steak wrong rotate snow orange slim wagon crater accuse grain over";
+var mnemonic = "odor tenant relief inquiry evolve when iron today devote wonder iron boy";

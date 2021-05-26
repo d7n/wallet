@@ -1,1 +1,1 @@
-var mnemonic = "verify produce shield wood prize favorite motor tissue alone vehicle sugar weird";
+var mnemonic = "suit torch final atom shaft odor deal furnace myth wish gather frozen";

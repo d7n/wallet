@@ -1,1 +1,1 @@
-var mnemonic = "lunar proof question squirrel oval setup link train answer genius minor panel";
+var mnemonic = "history spray frown hello normal genuine analyst chief charge universe walnut broken";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest mass friend include spirit smart bomb tourist need news fabric turkey";
+var mnemonic = "basic glow hover force never veteran shallow goddess reason trick vicious ribbon";

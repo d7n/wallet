@@ -1,1 +1,1 @@
-var mnemonic = "unhappy catch broom assist desk exile this canoe electric okay virus zero";
+var mnemonic = "hard divide runway fault isolate senior employ olympic garlic unfold number consider";

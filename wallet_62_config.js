@@ -1,1 +1,1 @@
-var mnemonic = "follow planet scrub identify industry mutual advice usual chronic view walk crouch";
+var mnemonic = "uphold rain piece develop trick what throw merry mention judge comic add";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder snap abuse heart crowd coconut melt write situate body exhibit hedgehog";
+var mnemonic = "choose fault spot pottery destroy code refuse diagram memory bamboo foil behind";

@@ -1,1 +1,1 @@
-var mnemonic = "apple wagon town math bus action snap trend gauge devote manage rally";
+var mnemonic = "small popular burst solution hip reason cash physical fatal forward alley opera";
