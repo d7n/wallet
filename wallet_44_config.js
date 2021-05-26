@@ -1,1 +1,1 @@
-var mnemonic = "traffic coil farm lens shine gift cheap setup engine uniform anchor trend";
+var mnemonic = "fire correct expose grass loop brother harvest peanut thrive hard camera vessel";

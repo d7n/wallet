@@ -1,1 +1,1 @@
-var mnemonic = "trigger obvious betray ankle pull slim amused uphold tragic angle blood breeze";
+var mnemonic = "fossil explain hedgehog deer grass bind purity merge all possible lady sudden";

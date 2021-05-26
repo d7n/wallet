@@ -1,1 +1,1 @@
-var mnemonic = "collect high entry divorce parrot excite deposit drive win spirit carpet best";
+var mnemonic = "elder icon infant diary rival deal sound reform swap confirm speak other";

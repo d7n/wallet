@@ -1,1 +1,1 @@
-var mnemonic = "brave silver wage rigid dinosaur blast forward own shield ocean equip park";
+var mnemonic = "shadow fix expose wisdom reveal brave fault hazard fork arrange glass exit";

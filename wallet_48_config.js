@@ -1,1 +1,1 @@
-var mnemonic = "attend fever soul battle menu security select element road magic kick roast";
+var mnemonic = "confirm wave relief alley series blouse scene frozen turn pipe reunion float";

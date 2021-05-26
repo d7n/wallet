@@ -1,1 +1,1 @@
-var mnemonic = "dolphin magnet tube today custom grid major among retire crime skull team";
+var mnemonic = "diesel pioneer butter motion orchard lawn flat margin hero evil forget dry";

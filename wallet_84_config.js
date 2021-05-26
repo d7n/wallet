@@ -1,1 +1,1 @@
-var mnemonic = "vital hospital hurt real host monitor include finish pupil dismiss wall champion";
+var mnemonic = "scrap average mosquito useless tuition follow like bonus drastic fitness weasel bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "bench earn brisk atom double machine occur elbow squeeze gauge sight item";
+var mnemonic = "jewel drift cradle slam unique pig waste model rebel share phone myself";

@@ -1,1 +1,1 @@
-var mnemonic = "media observe timber auction circle wagon fit winner awesome obtain simple outdoor";
+var mnemonic = "screen jacket tool symbol grid obscure orient twenty recall midnight rigid squeeze";

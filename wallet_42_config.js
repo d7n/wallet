@@ -1,1 +1,1 @@
-var mnemonic = "brain movie manual garage divert dove parrot tonight supreme kite sword frame";
+var mnemonic = "labor fade proof fiber legend evil path enlist story theme shrug phrase";

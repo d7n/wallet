@@ -1,1 +1,1 @@
-var mnemonic = "expect host dilemma denial ring panic shell royal surge beyond solve taxi";
+var mnemonic = "brain lottery mistake leave brave exclude mom bomb tiny scale wet patrol";

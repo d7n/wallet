@@ -1,1 +1,1 @@
-var mnemonic = "will fade horn better bulb proud eight vicious ridge baby fly spray";
+var mnemonic = "drop tent cheese anxiety circle habit vacuum weasel twelve plunge glimpse trumpet";

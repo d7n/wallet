@@ -1,1 +1,1 @@
-var mnemonic = "tomato atom puzzle loyal ceiling drip mad average cupboard chair ahead share";
+var mnemonic = "vendor unlock neutral change middle shy dignity equal pet beauty conduct day";

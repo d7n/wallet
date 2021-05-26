@@ -1,1 +1,1 @@
-var mnemonic = "crystal great chicken skull drift panda basket blind cool silk boost people";
+var mnemonic = "rubber dilemma flower coil raw decide case story room nerve nose account";

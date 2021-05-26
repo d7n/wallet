@@ -1,1 +1,1 @@
-var mnemonic = "advance buzz aware step equal nerve mouse catalog base child best month";
+var mnemonic = "dinosaur spawn celery quarter pilot hint empower assault media risk frost ketchup";

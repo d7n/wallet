@@ -1,1 +1,1 @@
-var mnemonic = "ahead else odor fiber trap kingdom check surface nature ill front rival";
+var mnemonic = "laugh method glimpse razor vivid island setup struggle chimney spray anchor dawn";

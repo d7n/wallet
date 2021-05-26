@@ -1,1 +1,1 @@
-var mnemonic = "hollow finish bullet nasty power vicious actor pink plastic patient armed hungry";
+var mnemonic = "accident spare entire occur cake spice person cousin sketch decade harvest worth";

@@ -1,1 +1,1 @@
-var mnemonic = "remain stem lunch cover glue river such solve enjoy diesel color fetch";
+var mnemonic = "false produce valve sauce young truth daring olive patrol hotel clerk visa";

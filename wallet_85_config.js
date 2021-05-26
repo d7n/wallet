@@ -1,1 +1,1 @@
-var mnemonic = "stage deer leopard screen trick discover throw toe wrong input tattoo very";
+var mnemonic = "proof project chaos valid captain immune rocket annual lamp face alley year";

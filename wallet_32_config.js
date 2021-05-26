@@ -1,1 +1,1 @@
-var mnemonic = "bid enforce buddy elephant first cactus shrug second parrot energy dilemma angle";
+var mnemonic = "laugh caution sorry wrist female fee output inspire swift leisure soap room";

@@ -1,1 +1,1 @@
-var mnemonic = "gold what donor riot exile subject doctor fence same whip pattern trick";
+var mnemonic = "cram benefit strike saddle grant carpet logic elite panther involve security child";

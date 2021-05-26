@@ -1,1 +1,1 @@
-var mnemonic = "erupt deal anchor define about suffer aerobic bamboo basic trophy tray hill";
+var mnemonic = "tone visual involve omit chief sting group zero visa track stool shaft";

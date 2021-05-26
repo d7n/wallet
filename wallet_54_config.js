@@ -1,1 +1,1 @@
-var mnemonic = "still rose crucial pizza student actor frozen cabin erupt tennis pioneer verify";
+var mnemonic = "soft member term write soap juice sadness music left odor foot close";

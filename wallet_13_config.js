@@ -1,1 +1,1 @@
-var mnemonic = "enact fold robot diet lamp clump cycle lake cute step marble outdoor";
+var mnemonic = "traffic casino people wild visual dash holiday truck clap kingdom jacket paddle";

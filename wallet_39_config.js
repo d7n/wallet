@@ -1,1 +1,1 @@
-var mnemonic = "bird home elite whip hire round catch into round spray vehicle staff";
+var mnemonic = "lonely eagle recycle cinnamon tourist pact strike march soft inherit hotel vast";

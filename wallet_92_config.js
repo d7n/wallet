@@ -1,1 +1,1 @@
-var mnemonic = "hotel apology various animal laptop smoke hello twenty win return protect mesh";
+var mnemonic = "focus second pottery flash evoke arrest aunt only gesture fold shock balcony";

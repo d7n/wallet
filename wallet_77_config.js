@@ -1,1 +1,1 @@
-var mnemonic = "athlete jewel flavor burden arctic code sauce pattern exercise lottery better quiz";
+var mnemonic = "captain lesson message crazy pattern acquire sister sibling hunt speak title olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "manage episode cheap winter silly butter grant rebel section layer little lava";
+var mnemonic = "obvious number fury clinic crash minor elder oval dinosaur noble boil cage";

@@ -1,1 +1,1 @@
-var mnemonic = "damp habit pear assist unusual either build toast student snow push hunt";
+var mnemonic = "film avocado gap alcohol tomorrow brush very horror series icon core tumble";

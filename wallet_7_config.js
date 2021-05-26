@@ -1,1 +1,1 @@
-var mnemonic = "phrase armor question hedgehog radio else sea acquire fire resist river grape";
+var mnemonic = "jeans blood kidney pond also expand field special spoon dance around junk";

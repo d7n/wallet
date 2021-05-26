@@ -1,1 +1,1 @@
-var mnemonic = "cheese bright test path pact route liquid prosper try rack main play";
+var mnemonic = "skull canvas donor clog grid certain grief engage stool shaft repeat trouble";

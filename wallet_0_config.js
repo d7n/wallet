@@ -1,1 +1,1 @@
-var mnemonic = "tell dune bag rally you neglect wood lock reopen private roof mirror";
+var mnemonic = "skirt total ramp property once mansion subway volcano law face merit moral";

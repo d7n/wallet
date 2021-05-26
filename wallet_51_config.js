@@ -1,1 +1,1 @@
-var mnemonic = "wear spend scheme advance silly bring dune wave tourist labor dentist present";
+var mnemonic = "vacuum gloom toast tobacco riot sheriff spread crumble glass knock exclude vote";

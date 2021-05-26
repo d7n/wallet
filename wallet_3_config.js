@@ -1,1 +1,1 @@
-var mnemonic = "coral floor dove refuse phrase devote busy scene dentist own voice gadget";
+var mnemonic = "weird dirt scan syrup monkey glad meadow outdoor kite marine dawn snack";

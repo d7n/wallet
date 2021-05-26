@@ -1,1 +1,1 @@
-var mnemonic = "wire artist outer account corn fix vault kangaroo pupil chunk alien silent";
+var mnemonic = "enlist stick mammal remember account stick uncover file pencil ranch indoor kingdom";

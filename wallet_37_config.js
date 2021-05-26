@@ -1,1 +1,1 @@
-var mnemonic = "tank unfold print notable relax social rule rocket essay ethics glad invest";
+var mnemonic = "media morning asset exile field eight claim orchard cancel siege crazy habit";

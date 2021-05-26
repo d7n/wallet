@@ -1,1 +1,1 @@
-var mnemonic = "achieve error immune habit critic roof goose problem stadium author quote verb";
+var mnemonic = "yellow gym ignore visual able pelican frozen horn tooth toe diagram gather";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit humor taste lottery swift consider toss load pilot orange you pistol";
+var mnemonic = "rifle two hotel bomb shoot board middle ripple cigar benefit symbol prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "axis mirror napkin sorry bright artist skirt crowd bracket state kingdom palm";
+var mnemonic = "oppose boy expire sibling ozone old canyon wave seek improve aim category";

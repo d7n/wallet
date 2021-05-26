@@ -1,1 +1,1 @@
-var mnemonic = "hub liquid into vanish gesture milk brisk enrich digital flush dismiss resemble";
+var mnemonic = "miracle run pen romance inmate street note bonus engage clog supply music";

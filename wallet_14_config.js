@@ -1,1 +1,1 @@
-var mnemonic = "spider excite virus front order long hurt behave diagram stadium dirt universe";
+var mnemonic = "monster peace attack lawsuit jump donkey hunt vessel idea report leisure pink";

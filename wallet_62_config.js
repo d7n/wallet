@@ -1,1 +1,1 @@
-var mnemonic = "mystery neither arctic basic walk trumpet similar hurdle mixed law sheriff junk";
+var mnemonic = "office cute report insane leaf sell sad blame valid delay coconut actress";

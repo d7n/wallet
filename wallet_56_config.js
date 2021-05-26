@@ -1,1 +1,1 @@
-var mnemonic = "enhance chat lawn antique leader hat brain kiwi receive answer office series";
+var mnemonic = "disagree shine toward goose element pipe camera dilemma hood blanket edge damage";

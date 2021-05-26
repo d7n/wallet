@@ -1,1 +1,1 @@
-var mnemonic = "slab legend sister abuse message satisfy cherry fiscal jewel hub pretty crunch";
+var mnemonic = "useless picture load tunnel example dry banana dash harsh merry best radio";

@@ -1,1 +1,1 @@
-var mnemonic = "virus core session access own pact powder office finish solve mule cool";
+var mnemonic = "leopard smile alarm copper away creek pottery property shallow track holiday tobacco";

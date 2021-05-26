@@ -1,1 +1,1 @@
-var mnemonic = "oxygen target half type oak flower window leg cube coin bulk match";
+var mnemonic = "pulp hollow ranch album today attend fortune display tackle quality slice click";

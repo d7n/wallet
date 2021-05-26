@@ -1,1 +1,1 @@
-var mnemonic = "glow flush lucky inmate biology where just urge tiger truly hunt inherit";
+var mnemonic = "fresh stem mobile sorry urban become gallery switch stable drift audit mushroom";

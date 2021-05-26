@@ -1,1 +1,1 @@
-var mnemonic = "toy unusual alert ten remember shoot fade rural mail pet bottom aunt";
+var mnemonic = "bring yellow return club broken brass sick slight fee motion path chuckle";

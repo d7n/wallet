@@ -1,1 +1,1 @@
-var mnemonic = "popular define kiwi opera valley dial legal citizen purchase alter soul skill";
+var mnemonic = "hold weather chapter smart pupil accuse talent next liberty loop beauty latin";

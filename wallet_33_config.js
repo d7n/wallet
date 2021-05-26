@@ -1,1 +1,1 @@
-var mnemonic = "basket carpet uncover muffin sad inmate blade dizzy minor mercy climb question";
+var mnemonic = "hole yellow still tent choose crater rocket train find false truly radar";

@@ -1,1 +1,1 @@
-var mnemonic = "slush smart noise blame second sort mixed enemy youth walnut breeze when";
+var mnemonic = "actress artefact holiday person pledge winner uniform tackle burst force pulse photo";

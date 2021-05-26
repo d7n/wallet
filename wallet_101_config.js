@@ -1,1 +1,1 @@
-var mnemonic = "sketch acid nose mind soda security cream attend penalty home stuff bright";
+var mnemonic = "cover nurse control harvest orient eye frost argue shine grab habit essay";

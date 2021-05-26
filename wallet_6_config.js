@@ -1,1 +1,1 @@
-var mnemonic = "fatigue kit yard ordinary possible common auction gasp galaxy view dune print";
+var mnemonic = "hospital hard artefact relief city that tortoise fire year credit deposit doctor";

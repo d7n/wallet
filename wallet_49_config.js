@@ -1,1 +1,1 @@
-var mnemonic = "rescue help barrel quantum inject able party type volcano can enhance liquid";
+var mnemonic = "size give reform ankle debate fame bargain reflect evoke march journey kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "glad uniform sweet mistake silver nut walnut rookie before reward angry sunny";
+var mnemonic = "bus idea cabbage just garage naive solve shiver venture boat message entry";

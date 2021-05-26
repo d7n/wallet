@@ -1,1 +1,1 @@
-var mnemonic = "owner typical unit honey video mango hawk stable version family horse wealth";
+var mnemonic = "worth install volume science story foam sight volume notice wheat river leisure";

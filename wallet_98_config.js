@@ -1,1 +1,1 @@
-var mnemonic = "team erupt egg insect wedding orient engage pet exotic volume surface raccoon";
+var mnemonic = "drip forward mesh lazy flavor enough cradle noble seek jaguar together arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "fame hold come canal predict chase whisper ancient tiger orange rapid secret";
+var mnemonic = "naive maid private gaze retire chronic dance glide believe sing furnace nest";

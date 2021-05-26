@@ -1,1 +1,1 @@
-var mnemonic = "spread else material car rookie penalty indicate fatal multiply damp item sound";
+var mnemonic = "grocery cook enable inherit jealous wage devote apart wrestle audit leg access";

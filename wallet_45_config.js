@@ -1,1 +1,1 @@
-var mnemonic = "health brand sausage twenty cool code neither require pass file woman grain";
+var mnemonic = "find detail earn problem waste sudden refuse network relief muscle identify ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "slender ripple soft tail rescue supply anchor fun boring cart cloud vintage";
+var mnemonic = "accuse legend eternal west giant pipe trade floor winner fox conduct turtle";

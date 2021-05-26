@@ -1,1 +1,1 @@
-var mnemonic = "gun disorder settle patient canvas topic seven shield company energy green hub";
+var mnemonic = "mixture foot lumber frost receive waste manual ecology lucky govern future dolphin";

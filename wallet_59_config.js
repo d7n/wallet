@@ -1,1 +1,1 @@
-var mnemonic = "word ankle exchange sight train general question potato blade stay census body";
+var mnemonic = "gown burger tenant large surface parade imitate satoshi wrestle quote win decade";

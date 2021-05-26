@@ -1,1 +1,1 @@
-var mnemonic = "stick craft turtle tide mercy step receive banana fee banner shed detail";
+var mnemonic = "rotate pig crater imitate fabric skill quantum search dynamic fork shoot island";

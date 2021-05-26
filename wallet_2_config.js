@@ -1,1 +1,1 @@
-var mnemonic = "still drip eyebrow join misery virtual more barrel mixture dragon culture suit";
+var mnemonic = "chat lunch admit attack call harsh wheel motion bike oyster focus rubber";

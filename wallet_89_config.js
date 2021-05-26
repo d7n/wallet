@@ -1,1 +1,1 @@
-var mnemonic = "else indicate mesh vacant private between play wine spell lab sister correct";
+var mnemonic = "enforce move session soul top side okay category tobacco page magic copy";

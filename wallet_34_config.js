@@ -1,1 +1,1 @@
-var mnemonic = "barely repeat search veteran regular turn pepper chapter loan aspect raw autumn";
+var mnemonic = "spread sphere glass jacket quantum mosquito people crater fuel daughter offer exile";

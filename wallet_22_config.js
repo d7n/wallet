@@ -1,1 +1,1 @@
-var mnemonic = "faculty laugh economy embark series vapor bounce sunset claim describe letter young";
+var mnemonic = "trade vacuum scrap cheese armed gadget mixture portion punch arm paper practice";

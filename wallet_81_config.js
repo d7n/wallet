@@ -1,1 +1,1 @@
-var mnemonic = "unknown common alarm primary good royal ticket aware slush metal window fever";
+var mnemonic = "base eternal chimney tail bubble number thunder poem shove flock stock lyrics";

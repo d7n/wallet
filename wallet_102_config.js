@@ -1,1 +1,1 @@
-var mnemonic = "dog casual soul mix become tragic zebra physical blame blame game work";
+var mnemonic = "seminar light input wheat order train dinner level security bag reduce cricket";

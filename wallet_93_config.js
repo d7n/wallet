@@ -1,1 +1,1 @@
-var mnemonic = "venture orient absorb cave piece broom enhance error mammal neither shy ivory";
+var mnemonic = "library fitness truly flip sunny blanket funny master pill sunny wagon message";

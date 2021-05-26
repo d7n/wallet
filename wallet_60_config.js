@@ -1,1 +1,1 @@
-var mnemonic = "crane clump peasant demise detail mushroom mind chief similar shoulder adult foster";
+var mnemonic = "jaguar loud case crumble hundred chicken mind round involve sudden anchor purse";

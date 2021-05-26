@@ -1,1 +1,1 @@
-var mnemonic = "push detail cruel eagle leaf dinosaur exhaust two usual bread tumble slide";
+var mnemonic = "minute latin body where frost tape afford odor shield gallery swim boss";

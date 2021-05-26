@@ -1,1 +1,1 @@
-var mnemonic = "icon brother cube sweet total mean dirt economy ostrich museum ridge that";
+var mnemonic = "whip gadget country swim lizard rocket blouse cross remember twelve bread any";

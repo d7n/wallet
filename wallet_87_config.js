@@ -1,1 +1,1 @@
-var mnemonic = "champion weird hidden very tennis hour depend thrive powder unit luxury trim";
+var mnemonic = "muffin wagon gesture replace trade switch dentist mansion sea hedgehog autumn lady";

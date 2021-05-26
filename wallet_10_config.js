@@ -1,1 +1,1 @@
-var mnemonic = "nominee gauge nerve opinion dance fragile when display coin cereal spell enhance";
+var mnemonic = "sand secret swamp furnace luggage want shine book ship essence satisfy embark";

@@ -1,1 +1,1 @@
-var mnemonic = "snap resource since yellow that coin ramp absorb protect amazing scissors equal";
+var mnemonic = "teach owner pull trip impulse jar major hole style detect forward aunt";

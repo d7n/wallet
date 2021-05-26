@@ -1,1 +1,1 @@
-var mnemonic = "loyal alien moral innocent cool moon because swim reduce focus turn gallery";
+var mnemonic = "vague clog miss pilot run dismiss come adult bless voice forum grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "endless depend arctic harvest motor original sketch margin garbage cram marine grass";
+var mnemonic = "trial mad entry boil tone bid office dry addict note salt catalog";

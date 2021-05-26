@@ -1,1 +1,1 @@
-var mnemonic = "promote palace apart limit ride acoustic blue beauty congress father key theory";
+var mnemonic = "nest stairs bargain kingdom pass slim photo else debris two wedding leave";

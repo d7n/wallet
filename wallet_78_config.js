@@ -1,1 +1,1 @@
-var mnemonic = "hospital bird book smooth priority couple hidden chef hood balcony palace rabbit";
+var mnemonic = "obscure game end number file main sail govern game timber impact flight";

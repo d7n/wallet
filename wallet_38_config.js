@@ -1,1 +1,1 @@
-var mnemonic = "vibrant frost pig shine desert super amount chimney else cheap game inject";
+var mnemonic = "seed venue whip emotion saddle wrist trip link buyer fragile place maze";

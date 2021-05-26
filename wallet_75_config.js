@@ -1,1 +1,1 @@
-var mnemonic = "around spell merit limit rate tennis notice faculty general force reject easy";
+var mnemonic = "vintage match enhance planet demise october february try amateur govern tag trend";

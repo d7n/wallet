@@ -1,1 +1,1 @@
-var mnemonic = "aisle select fold boss embody fruit notice toast else gap rich defy";
+var mnemonic = "still other critic toast amount sick wing segment false mask poet engine";

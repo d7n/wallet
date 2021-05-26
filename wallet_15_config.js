@@ -1,1 +1,1 @@
-var mnemonic = "need arctic exit collect scare body mountain steak tackle pyramid seat chalk";
+var mnemonic = "beef capable once panic car keen anchor cinnamon demise expose throw chest";

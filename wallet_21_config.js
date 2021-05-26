@@ -1,1 +1,1 @@
-var mnemonic = "heavy write fade please photo pigeon omit sell joy dose anchor hold";
+var mnemonic = "proof home milk vehicle put area wrist board knee goose loan bicycle";

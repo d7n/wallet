@@ -1,1 +1,1 @@
-var mnemonic = "asset feel claw someone orchard quantum naive black universe video race club";
+var mnemonic = "crop cluster crumble copy north bleak awesome famous cross vocal grunt cool";

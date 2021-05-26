@@ -1,1 +1,1 @@
-var mnemonic = "alarm cruel grid bag trigger thank diamond rib until old dutch ready";
+var mnemonic = "dune toast giraffe adjust miracle enjoy profit jazz popular apology rich twist";

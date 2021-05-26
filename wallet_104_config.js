@@ -1,1 +1,1 @@
-var mnemonic = "enter borrow focus impose shadow pelican vehicle layer album reunion bird hobby";
+var mnemonic = "shine ceiling spike smile again occur material expand parade castle know total";

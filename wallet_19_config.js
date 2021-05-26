@@ -1,1 +1,1 @@
-var mnemonic = "call assault position bacon arrest exclude blind grunt usage judge plug stable";
+var mnemonic = "hybrid usage shine net muffin light rare enable circle swear warrior laundry";
