@@ -1,1 +1,1 @@
-var mnemonic = "buyer march hello eager spot abandon foil describe blossom real clump globe";
+var mnemonic = "nasty stadium hill awesome join birth column room view staff rocket will";

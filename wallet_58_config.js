@@ -1,1 +1,1 @@
-var mnemonic = "mail describe leave witness purse uniform road silent mouse float like prison";
+var mnemonic = "hamster goddess aspect fox cabbage fashion move actor soon era explain book";

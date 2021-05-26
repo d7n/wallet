@@ -1,1 +1,1 @@
-var mnemonic = "fabric verify attack normal know fossil chaos turn silly ethics basic medal";
+var mnemonic = "jeans cabbage thank boat rule flush quit mosquito viable kite link fork";

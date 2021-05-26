@@ -1,1 +1,1 @@
-var mnemonic = "injury junior prison school become gentle athlete jealous fragile aisle involve acquire";
+var mnemonic = "ketchup choose flower obtain useful favorite increase cabin silver owner borrow theory";

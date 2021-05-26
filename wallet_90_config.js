@@ -1,1 +1,1 @@
-var mnemonic = "away deer cloud knee use grid body top give chicken brave science";
+var mnemonic = "suit daughter enjoy sorry era creek predict hedgehog original leg autumn wing";

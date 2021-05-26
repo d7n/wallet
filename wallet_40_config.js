@@ -1,1 +1,1 @@
-var mnemonic = "display damp plate powder marriage inject wing resist chest task pupil magic";
+var mnemonic = "naive believe harbor report winner lend can stadium junior flat twice liquid";

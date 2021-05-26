@@ -1,1 +1,1 @@
-var mnemonic = "movie reunion aunt below zone simple brush luggage shadow swing month surface";
+var mnemonic = "cook jewel fun virus emotion avocado lyrics absent lazy observe crush volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture easily husband junior peasant shield patrol embrace easy level steak major";
+var mnemonic = "retire can input cigar hope era course news boring grocery party load";

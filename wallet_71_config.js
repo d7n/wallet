@@ -1,1 +1,1 @@
-var mnemonic = "assault disease movie hurdle only chair february echo rescue square salon initial";
+var mnemonic = "tray banner venture coffee lock mimic animal opera wrestle payment surprise voyage";

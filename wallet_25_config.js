@@ -1,1 +1,1 @@
-var mnemonic = "fabric spend involve ketchup fluid type element check valley wrestle adjust cushion";
+var mnemonic = "try hazard talk parrot cup sketch define floor list surface fun trust";

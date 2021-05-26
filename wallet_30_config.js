@@ -1,1 +1,1 @@
-var mnemonic = "soldier duty melody bike crash color gaze yellow flavor diesel stool jealous";
+var mnemonic = "elephant twist breeze tuition agent cute soccer glide person practice mad family";

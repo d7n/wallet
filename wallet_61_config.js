@@ -1,1 +1,1 @@
-var mnemonic = "room simple slight enlist mesh language crucial tail nest you neither inflict";
+var mnemonic = "furnace tornado image pair top apology scan siren spend other blame truck";

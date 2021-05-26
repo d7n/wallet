@@ -1,1 +1,1 @@
-var mnemonic = "subway laugh license slow happy shrimp smile vacant speed worry they unable";
+var mnemonic = "flash ethics pelican rubber absorb wedding surround height cat paddle unfold mosquito";

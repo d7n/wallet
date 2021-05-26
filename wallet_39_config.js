@@ -1,1 +1,1 @@
-var mnemonic = "midnight velvet amount inmate robust approve skull slide ticket deputy raise coconut";
+var mnemonic = "pulse expect satisfy leopard recycle beauty laptop ice genre ancient install bachelor";

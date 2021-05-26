@@ -1,1 +1,1 @@
-var mnemonic = "birth brand peace buyer crane text patrol shield element dutch benefit ensure";
+var mnemonic = "enroll other slow tribe indicate wish kitchen priority soap cigar axis swamp";

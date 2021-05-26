@@ -1,1 +1,1 @@
-var mnemonic = "soon unusual plastic love wrist mean mad method farm west escape rhythm";
+var mnemonic = "lab crazy onion visual skull day senior stock endorse opera scheme enrich";

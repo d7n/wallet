@@ -1,1 +1,1 @@
-var mnemonic = "group smart fabric average copper car animal catalog amateur camera detail quote";
+var mnemonic = "trade they slot normal dust under virtual pulse animal night cushion try";

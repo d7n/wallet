@@ -1,1 +1,1 @@
-var mnemonic = "island borrow over egg illness panther lawn smile capable rule jewel hover";
+var mnemonic = "trigger hope subway round verb twist cage enact obey spell exotic reunion";

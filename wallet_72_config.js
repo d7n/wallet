@@ -1,1 +1,1 @@
-var mnemonic = "this half stock license woman gloom twist glance like tuition pave cluster";
+var mnemonic = "pen diamond horn course antique dove skill resource earn state pond grief";

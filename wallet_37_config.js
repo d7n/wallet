@@ -1,1 +1,1 @@
-var mnemonic = "online island torch rifle farm sleep tonight shiver endorse habit approve fly";
+var mnemonic = "nation forum nice sponsor foam guess muffin piece ritual session grow shallow";

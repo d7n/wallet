@@ -1,1 +1,1 @@
-var mnemonic = "tobacco ten bicycle strategy mechanic saddle lonely affair shoulder elite gesture punch";
+var mnemonic = "force manual opinion sad demand tank grid board master already poverty chair";

@@ -1,1 +1,1 @@
-var mnemonic = "trash use wolf appear month inform uphold ivory lake album polar trial";
+var mnemonic = "ketchup comfort filter cute snow harsh maximum glass oblige depend toilet dune";

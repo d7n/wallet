@@ -1,1 +1,1 @@
-var mnemonic = "couch roast zoo tunnel reject engage pilot diesel dragon oak help caught";
+var mnemonic = "gasp approve melt quarter merge chest item switch choose also crater glare";

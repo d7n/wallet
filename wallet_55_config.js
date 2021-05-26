@@ -1,1 +1,1 @@
-var mnemonic = "vocal dose chronic man member gap height remain sting blade town page";
+var mnemonic = "brisk early pink maximum demand soon tool hero canoe raccoon card blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney violin cash stick dawn portion country fly lesson subway pudding roof";
+var mnemonic = "chronic much size cake arrange limit soon cause thumb uphold turkey spoon";

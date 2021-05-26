@@ -1,1 +1,1 @@
-var mnemonic = "mushroom load flight pact silver cement surface eagle rebel bird flight shadow";
+var mnemonic = "bright lock train rocket bachelor comfort start scrub quarter insane market hospital";

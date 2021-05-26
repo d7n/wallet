@@ -1,1 +1,1 @@
-var mnemonic = "april poem enemy decorate erase hold outside inflict carpet wet skill stamp";
+var mnemonic = "fork expand gym bonus dish worry melt barrel breeze solve fever clock";

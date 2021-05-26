@@ -1,1 +1,1 @@
-var mnemonic = "scare high tiger conduct quarter sick exercise board bullet effort rain spend";
+var mnemonic = "limit panel vehicle huge solve absorb hello despair shock call dawn victory";

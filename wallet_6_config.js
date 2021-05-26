@@ -1,1 +1,1 @@
-var mnemonic = "tail miss cave build sphere tattoo wine girl act keep clown art";
+var mnemonic = "enforce gorilla appear chunk chat child museum soon gain stamp salad test";

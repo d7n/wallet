@@ -1,1 +1,1 @@
-var mnemonic = "transfer diet tray income pride syrup mushroom hurt decorate electric exhibit garage";
+var mnemonic = "entire common creek express inherit develop such cat lady cabin foster fence";

@@ -1,1 +1,1 @@
-var mnemonic = "negative return farm live paddle hover imitate ensure gorilla text orphan nurse";
+var mnemonic = "fashion small mountain ostrich gravity energy sugar depend envelope play door fury";

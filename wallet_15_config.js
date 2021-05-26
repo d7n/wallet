@@ -1,1 +1,1 @@
-var mnemonic = "liar stand destroy couch mountain rubber heavy bundle tone chef toss solar";
+var mnemonic = "dream awful produce dismiss pen lens tobacco engage obtain cycle two knife";

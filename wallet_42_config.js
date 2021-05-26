@@ -1,1 +1,1 @@
-var mnemonic = "clean bridge century orphan toss attend allow grunt capable actor online cave";
+var mnemonic = "process lava pass stand want mix mass mix fun girl inquiry expand";

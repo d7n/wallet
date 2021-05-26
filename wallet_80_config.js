@@ -1,1 +1,1 @@
-var mnemonic = "dream face ice kit minor pencil derive pet lab metal toss february";
+var mnemonic = "bind fragile biology polar disagree mouse actual spot jelly bread nurse pepper";

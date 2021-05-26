@@ -1,1 +1,1 @@
-var mnemonic = "lend tiny husband flock tower wise swift vacant scan canvas curious copy";
+var mnemonic = "child business turkey park save media swing milk unit abuse approve govern";

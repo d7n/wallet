@@ -1,1 +1,1 @@
-var mnemonic = "chimney minor salon bargain rifle diet switch scheme ugly slam wise offer";
+var mnemonic = "again section twenty more route doctor coral digital give capable erupt bind";

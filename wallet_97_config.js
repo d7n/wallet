@@ -1,1 +1,1 @@
-var mnemonic = "better roof grab paddle audit luxury above neck velvet become goose capable";
+var mnemonic = "ivory grain eight episode choice aisle cotton general flee evil travel sea";

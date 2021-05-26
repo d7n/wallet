@@ -1,1 +1,1 @@
-var mnemonic = "shaft neglect follow edit elder salon head ceiling nerve size seed hidden";
+var mnemonic = "civil invest miracle hammer afraid harsh south winner wink hurry push syrup";

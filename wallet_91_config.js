@@ -1,1 +1,1 @@
-var mnemonic = "enlist galaxy nerve moon capable spatial leisure dwarf valve patient tomorrow denial";
+var mnemonic = "relief account deer account vault aunt copy again correct camp amused online";

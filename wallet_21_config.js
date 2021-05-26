@@ -1,1 +1,1 @@
-var mnemonic = "year involve first north embark miracle elegant industry drastic material swallow jelly";
+var mnemonic = "rug best hub husband horn token struggle female depth exercise device novel";

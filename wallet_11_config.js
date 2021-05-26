@@ -1,1 +1,1 @@
-var mnemonic = "monitor sweet region east pottery grain snack culture nice shoe library address";
+var mnemonic = "dice weasel multiply enter acoustic genius vast theory insane agent salad unfair";

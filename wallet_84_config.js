@@ -1,1 +1,1 @@
-var mnemonic = "earn found right item vast bulb lyrics zone another wise taxi feature";
+var mnemonic = "aware device orange deer adjust reject fork tonight any exhibit behind bullet";

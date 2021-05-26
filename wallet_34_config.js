@@ -1,1 +1,1 @@
-var mnemonic = "oven finish upon budget snake gauge pig hedgehog region tip toy file";
+var mnemonic = "kid anxiety method fiber reason give wet aware reform hammer cruel receive";

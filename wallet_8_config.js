@@ -1,1 +1,1 @@
-var mnemonic = "chef cancel gas cradle hammer chapter cable mention face magic process theory";
+var mnemonic = "pioneer magic shaft glow shiver merry rail brick vault man episode fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "faint output rule clock daring pulp asthma column cart future rough hood";
+var mnemonic = "vicious message flush home north key trophy laugh rare industry recycle tank";

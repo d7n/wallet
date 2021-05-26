@@ -1,1 +1,1 @@
-var mnemonic = "coconut junk favorite category fetch save firm pond area chuckle erode tiny";
+var mnemonic = "length garment one woman sketch length diesel chuckle odor choose squeeze elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "note twist pond connect miracle pair now moral season sausage three cash";
+var mnemonic = "initial emerge awesome stereo obscure electric live bring odor round bar vacant";

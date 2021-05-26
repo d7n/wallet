@@ -1,1 +1,1 @@
-var mnemonic = "tray museum shrimp fade wealth green fun bicycle talk cloth cargo sunny";
+var mnemonic = "slush arrange hazard mammal sea toward doctor emerge item pyramid abuse expire";

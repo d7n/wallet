@@ -1,1 +1,1 @@
-var mnemonic = "sweet prison fly bright saddle unlock miss duck sick acid flee symbol";
+var mnemonic = "disease tortoise pool judge human oak peanut private obey panther doctor oil";

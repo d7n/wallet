@@ -1,1 +1,1 @@
-var mnemonic = "symptom ahead search neutral another abstract middle liquid when half kiss muffin";
+var mnemonic = "stock around evidence blush crumble shed floor dice indicate eager person first";

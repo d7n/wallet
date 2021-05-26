@@ -1,1 +1,1 @@
-var mnemonic = "abuse forward coral enable wheel viable false lunar hybrid inherit dish crew";
+var mnemonic = "shock spirit ocean seed grid avoid birth thank crisp photo come raven";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue number jelly popular harvest witness march own gas run other during";
+var mnemonic = "aware credit sheriff ensure hunt interest flower wink prevent canyon carbon remove";

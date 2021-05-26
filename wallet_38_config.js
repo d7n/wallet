@@ -1,1 +1,1 @@
-var mnemonic = "ice finger edge toddler october girl episode poverty spy patrol youth never";
+var mnemonic = "chair paddle illness usage aspect license hockey trophy short mobile ski strong";

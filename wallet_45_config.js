@@ -1,1 +1,1 @@
-var mnemonic = "leader illegal liar exclude reveal window final purity sport reward dragon mixed";
+var mnemonic = "lady race switch expand vault obtain armed case elbow safe fluid wait";

@@ -1,1 +1,1 @@
-var mnemonic = "talent aspect ready text assume angry virus evoke hood final cash check";
+var mnemonic = "wrist evidence item young possible brother amateur slight tired feel kid village";

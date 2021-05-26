@@ -1,1 +1,1 @@
-var mnemonic = "search dice quiz horror page just predict rent wine order stick naive";
+var mnemonic = "present glance armed announce consider flip broccoli possible primary pattern type old";

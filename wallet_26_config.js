@@ -1,1 +1,1 @@
-var mnemonic = "bicycle funny tank corn sting decade violin cube curve slow hamster pattern";
+var mnemonic = "famous unknown project jar snap agree minute cactus spoil undo often toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "chat obscure armor name away model inner pause mail face satoshi suit";
+var mnemonic = "buzz bubble make faculty glimpse lock oxygen excite vacant resemble measure spare";

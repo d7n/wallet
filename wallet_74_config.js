@@ -1,1 +1,1 @@
-var mnemonic = "where about age mobile area october wire attack describe calm around affair";
+var mnemonic = "decrease answer spider inspire patch bitter soap finger raccoon essay lawn liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "light fiscal salute luxury eye follow else remind number abandon milk pilot";
+var mnemonic = "build boring voyage resemble muscle soap bench assault race liquid local paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "town crush black test scheme grain album dignity rebel jacket disorder caught";
+var mnemonic = "receive smoke hurry taste famous awful holiday ripple kitten dinosaur turkey unaware";

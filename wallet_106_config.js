@@ -1,1 +1,1 @@
-var mnemonic = "where rare slab spike purse file swamp expect pyramid photo aspect tiny";
+var mnemonic = "first bright quiz key category receive spirit avocado tray obvious decide divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy rifle day favorite shrimp keep buddy leader ripple village alien eagle";
+var mnemonic = "mouse pistol grace raise pony another favorite dry capable blue hour worth";

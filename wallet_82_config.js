@@ -1,1 +1,1 @@
-var mnemonic = "ticket taste amount patch observe entire exotic truly reduce salmon relax unveil";
+var mnemonic = "certain moral grape robot ill term stomach flag night family cruise beef";

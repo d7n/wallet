@@ -1,1 +1,1 @@
-var mnemonic = "remind garbage scorpion wall script fury autumn liar whale drift topic modify";
+var mnemonic = "spot mountain discover cigar come month twenty exchange spend minor direct script";

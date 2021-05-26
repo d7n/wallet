@@ -1,1 +1,1 @@
-var mnemonic = "exhaust perfect quarter donate chaos drip cousin capable present salt always point";
+var mnemonic = "script blush normal fantasy jungle wisdom cloth now leopard surface label wheel";

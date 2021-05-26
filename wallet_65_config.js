@@ -1,1 +1,1 @@
-var mnemonic = "space morning glimpse enforce cream praise convince crawl file canoe flame escape";
+var mnemonic = "picnic child search lake obscure ketchup just later ship expect coin rose";

@@ -1,1 +1,1 @@
-var mnemonic = "you coin uniform engage humor school nuclear spin pen equal govern runway";
+var mnemonic = "warrior lunch siren together boring detail garden hello lazy scan fiction route";

@@ -1,1 +1,1 @@
-var mnemonic = "long pride leg wagon snow echo into true whisper feature worth urban";
+var mnemonic = "used robust cry install loan ball blue emerge ask drip era giraffe";

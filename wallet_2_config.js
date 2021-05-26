@@ -1,1 +1,1 @@
-var mnemonic = "isolate rescue advance typical slide photo limit unhappy deliver concert rapid toy";
+var mnemonic = "someone act crystal exhibit rude figure daughter insect road announce tone promote";

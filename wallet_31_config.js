@@ -1,1 +1,1 @@
-var mnemonic = "fly slot secret leaf buddy try theory pledge hurry height ahead ticket";
+var mnemonic = "anxiety rather memory lunch appear upset else bracket soul act outdoor cram";

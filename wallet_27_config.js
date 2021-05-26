@@ -1,1 +1,1 @@
-var mnemonic = "soup desert prevent silent fat network vacant leg carry castle polar kitchen";
+var mnemonic = "behind diesel section average sunset wear acid insane mixture slice push draw";

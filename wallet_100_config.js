@@ -1,1 +1,1 @@
-var mnemonic = "oblige valley bounce bacon anger eager fancy timber danger random eager derive";
+var mnemonic = "catch sample unfold tumble bench inmate select range ladder sad length force";

@@ -1,1 +1,1 @@
-var mnemonic = "sport chef jungle where blue casual panther involve pride ring three chicken";
+var mnemonic = "hip once grape midnight hurt eager gift thing foam improve feel rack";

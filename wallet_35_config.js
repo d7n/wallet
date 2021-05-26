@@ -1,1 +1,1 @@
-var mnemonic = "hundred alarm hour cycle spatial upon book marble exact uniform ring announce";
+var mnemonic = "moon sugar blouse arm height task opinion enlist rail half basket enjoy";

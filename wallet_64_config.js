@@ -1,1 +1,1 @@
-var mnemonic = "saddle royal argue hammer idle midnight blast noble nasty puppy evoke chimney";
+var mnemonic = "direct tape black route dose note female such document hospital peace draw";

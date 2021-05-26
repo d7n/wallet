@@ -1,1 +1,1 @@
-var mnemonic = "common sheriff upon cabin enact genuine era sketch comic type danger forum";
+var mnemonic = "glance logic differ flag infant range destroy author rack steak trip exclude";

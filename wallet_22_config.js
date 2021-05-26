@@ -1,1 +1,1 @@
-var mnemonic = "leg bomb paddle street joy carbon tackle resemble guess dinner beef slot";
+var mnemonic = "unit afford embrace impose sauce exchange lady valley destroy dynamic example effort";

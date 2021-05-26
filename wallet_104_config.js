@@ -1,1 +1,1 @@
-var mnemonic = "remember display property sorry zone web target photo skin theory network auto";
+var mnemonic = "intact turn broom captain census sword sponsor correct shield flat tiny very";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel bike order copy differ video climb planet bargain inflict glide want";
+var mnemonic = "such sheriff adult moon scene curious stem monkey shield energy bring shift";

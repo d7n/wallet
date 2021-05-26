@@ -1,1 +1,1 @@
-var mnemonic = "inch category weather rely tattoo orchard grant broom broom flight virtual segment";
+var mnemonic = "ecology sun remember tribe solar hip crack very crawl industry require sock";

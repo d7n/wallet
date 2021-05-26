@@ -1,1 +1,1 @@
-var mnemonic = "sand leader improve bunker capable funny flower admit solution eye snap trumpet";
+var mnemonic = "trigger business pretty tower review regret champion odor unfair intact grace tornado";

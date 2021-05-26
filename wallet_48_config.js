@@ -1,1 +1,1 @@
-var mnemonic = "attitude merit finish option math away exact lunch foil motion car zone";
+var mnemonic = "material rigid empty basic hybrid hood crucial celery coconut cable artwork garage";

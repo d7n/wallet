@@ -1,1 +1,1 @@
-var mnemonic = "kind gloom cake promote tonight slam fold crop emotion barely foster sock";
+var mnemonic = "image glance stairs hold chalk govern domain push average figure consider unknown";

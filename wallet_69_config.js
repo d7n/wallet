@@ -1,1 +1,1 @@
-var mnemonic = "cool obey deliver exclude iron upper trigger twist kite accident error attitude";
+var mnemonic = "toe race style double army ball immense robot rent scrap example borrow";

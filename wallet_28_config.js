@@ -1,1 +1,1 @@
-var mnemonic = "gospel mass mystery farm metal wine dream horror record lemon goose pear";
+var mnemonic = "salmon fog venture body web taste cream enough cradle enforce alley ring";

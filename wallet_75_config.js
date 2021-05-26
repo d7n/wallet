@@ -1,1 +1,1 @@
-var mnemonic = "can boost now office goose copy mountain release way wall round old";
+var mnemonic = "struggle pond spin decade merry swap arm seek casino talent milk despair";

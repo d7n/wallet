@@ -1,1 +1,1 @@
-var mnemonic = "second marine muscle uncover august void debate act notable recall initial retreat";
+var mnemonic = "suit grit admit brand drift put attend dismiss fragile combine jungle gap";

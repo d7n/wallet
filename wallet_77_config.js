@@ -1,1 +1,1 @@
-var mnemonic = "zebra inmate blanket cloud hundred addict add gospel census bright point salon";
+var mnemonic = "oven unfair olympic baby unfair mom hockey raven useful winner recall wheel";

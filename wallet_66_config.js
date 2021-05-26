@@ -1,1 +1,1 @@
-var mnemonic = "outside pause public wine cloth party taxi stove art memory crisp keep";
+var mnemonic = "panic atom spread tragic rotate sell device wise below sick crowd select";

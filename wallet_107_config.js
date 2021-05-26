@@ -1,1 +1,1 @@
-var mnemonic = "rich silent broom close income awake goat task deal just harvest peace";
+var mnemonic = "celery judge happy power inflict valve ahead model skill solid inspire fee";

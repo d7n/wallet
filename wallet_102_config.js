@@ -1,1 +1,1 @@
-var mnemonic = "such dizzy ensure furnace grief region ice very ice chef baby warrior";
+var mnemonic = "market ugly pass bridge slim silly stereo author vacant toddler brand wedding";
