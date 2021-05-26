@@ -1,1 +1,1 @@
-var mnemonic = "pen jewel patient salad siege spell taste want destroy swap advance eternal";
+var mnemonic = "witness bubble primary pilot palm vendor whisper across cruise brain picture naive";

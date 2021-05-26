@@ -1,1 +1,1 @@
-var mnemonic = "turkey swamp female pig soup erase section extend zoo laptop front clock";
+var mnemonic = "panda pulp curtain real slush invite brass shell divert control error pulse";

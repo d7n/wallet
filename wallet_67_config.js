@@ -1,1 +1,1 @@
-var mnemonic = "diesel drink spice ill follow soft useful weather push carpet lounge loud";
+var mnemonic = "glare thumb approve nice fame cup machine crawl donor save behind side";

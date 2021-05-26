@@ -1,1 +1,1 @@
-var mnemonic = "refuse hawk worry celery spare excess hair life owner shine dance hospital";
+var mnemonic = "scissors riot actor duck surface shy suffer good subway humble letter harvest";

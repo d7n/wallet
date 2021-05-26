@@ -1,1 +1,1 @@
-var mnemonic = "twist pretty evoke shift daughter banner glove topple reform shrimp leaf injury";
+var mnemonic = "cake sugar tell issue olive hedgehog coach during marine black length nut";

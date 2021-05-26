@@ -1,1 +1,1 @@
-var mnemonic = "wreck defy stand width company globe wood castle worry twenty speak stool";
+var mnemonic = "climb tragic cement worry into dune crush repair light awake fee spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol else ghost craft tuition regular convince main view jar payment fat";
+var mnemonic = "town finger drum fan rapid around woman left scale theme way fiction";

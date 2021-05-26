@@ -1,1 +1,1 @@
-var mnemonic = "piece loud control bitter crucial tooth beauty evoke walk broken need fit";
+var mnemonic = "fish skull you decade melt evolve cycle road first visa portion rate";

@@ -1,1 +1,1 @@
-var mnemonic = "duty loyal veteran general negative bacon illness lounge hint photo grief cheap";
+var mnemonic = "gauge use salad awkward link galaxy grocery remain wreck middle salt spice";

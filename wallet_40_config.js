@@ -1,1 +1,1 @@
-var mnemonic = "vote farm interest track method badge knee hen top skin whale trip";
+var mnemonic = "zone evolve motion royal divert system immune chaos circle broken dad load";

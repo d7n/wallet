@@ -1,1 +1,1 @@
-var mnemonic = "next oppose open scene humble bullet gravity crouch believe express galaxy renew";
+var mnemonic = "refuse cricket panda speak once myself sustain fluid derive phrase spider apple";

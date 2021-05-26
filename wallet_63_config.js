@@ -1,1 +1,1 @@
-var mnemonic = "capable input kiwi square reveal trade dish easy fitness exist hat parade";
+var mnemonic = "muffin aware news talent pudding situate oxygen tiny hedgehog cat slice mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft north olympic scheme number grass goose dance pumpkin cactus roof exit";
+var mnemonic = "shuffle reveal receive rifle unusual train theme torch wrong taste success slide";

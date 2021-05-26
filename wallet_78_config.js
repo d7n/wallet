@@ -1,1 +1,1 @@
-var mnemonic = "adapt frozen dynamic rice hand brain thrive ceiling bomb book reject bronze";
+var mnemonic = "rude stomach rapid guard bundle monster cost flock almost owner apart expose";

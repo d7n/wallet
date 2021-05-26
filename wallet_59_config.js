@@ -1,1 +1,1 @@
-var mnemonic = "between endless reflect image perfect praise lend middle uniform honey camp kiss";
+var mnemonic = "cloth donkey eagle beach derive symbol keep ankle goose panther mass high";

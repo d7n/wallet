@@ -1,1 +1,1 @@
-var mnemonic = "rhythm where sketch another wrist snap shoulder giggle devote wealth kiwi garage";
+var mnemonic = "same small time inherit acoustic blush dragon dance save duty minute wise";

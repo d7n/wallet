@@ -1,1 +1,1 @@
-var mnemonic = "expect author worry antique naive fresh lumber cry evidence odor range diagram";
+var mnemonic = "always decrease penalty spawn strike amount gain property expose year spy wing";

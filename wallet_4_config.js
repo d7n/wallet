@@ -1,1 +1,1 @@
-var mnemonic = "news suit only erase sibling stairs vessel mention ice genuine volcano tired";
+var mnemonic = "bench ladder urge extra drill decorate harvest dry phrase whip pilot clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "stem day dash twist mosquito prepare equip struggle harbor ladder slide gloom";
+var mnemonic = "retire front violin fiber practice bronze hero penalty travel fiscal absorb mention";

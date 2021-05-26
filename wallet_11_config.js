@@ -1,1 +1,1 @@
-var mnemonic = "rocket bomb cloud false fury gentle fatal filter dwarf aisle above already";
+var mnemonic = "thing again mail news table trophy daring galaxy know control debris ankle";

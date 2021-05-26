@@ -1,1 +1,1 @@
-var mnemonic = "excess describe hero hint tackle valve goddess north ride august grid area";
+var mnemonic = "resemble camp about father current lab domain future width end sketch link";

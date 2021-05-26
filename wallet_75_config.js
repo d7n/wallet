@@ -1,1 +1,1 @@
-var mnemonic = "fall today wonder illegal glance nut crime mistake upgrade true road local";
+var mnemonic = "coconut melt emotion conduct goat discover entire parrot prosper slight match repeat";

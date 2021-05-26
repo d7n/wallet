@@ -1,1 +1,1 @@
-var mnemonic = "race walnut hip sorry unhappy verb mass resemble cake asset edit narrow";
+var mnemonic = "possible claim unknown jealous oxygen couch gauge equal invite ozone virtual side";

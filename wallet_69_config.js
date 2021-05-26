@@ -1,1 +1,1 @@
-var mnemonic = "drastic put health dinner shrimp sunny bounce surface assume marble crucial loop";
+var mnemonic = "record lunar orient amazing elbow argue horn slam surge extend grain foam";

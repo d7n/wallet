@@ -1,1 +1,1 @@
-var mnemonic = "monkey copy very favorite section session olympic vivid radio half saddle pool";
+var mnemonic = "sausage diesel west hub news pony add memory grunt phrase result lyrics";

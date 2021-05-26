@@ -1,1 +1,1 @@
-var mnemonic = "mass shuffle mechanic never brave draw october orbit scene use toss climb";
+var mnemonic = "impose swift negative exclude color any luxury pole profit flat aware parent";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort reopen cost mansion resemble indicate barely success parent mercy treat rain";
+var mnemonic = "album raise tissue jacket uncle place airport render sunset winter color pelican";

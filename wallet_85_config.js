@@ -1,1 +1,1 @@
-var mnemonic = "subway output bundle broccoli census educate upper loyal tiger pole round vicious";
+var mnemonic = "item blur keep taste romance kitten speed evidence bronze resemble captain clump";

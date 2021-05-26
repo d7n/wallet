@@ -1,1 +1,1 @@
-var mnemonic = "correct bird quick will fantasy morning burst pelican fuel rifle stomach cube";
+var mnemonic = "baby absurd lady valley push spoon margin jewel dry cousin together bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "curious mean tobacco concert pledge luxury master nothing basket dumb polar remember";
+var mnemonic = "remind unhappy bronze caught top cluster raccoon ocean smart fluid knock choose";

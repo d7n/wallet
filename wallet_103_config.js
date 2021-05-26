@@ -1,1 +1,1 @@
-var mnemonic = "drive sad used genre shadow metal leaf crime dignity scan drama version";
+var mnemonic = "ride victory between erosion crush prepare unique museum vivid cart injury layer";

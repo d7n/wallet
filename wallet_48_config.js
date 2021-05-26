@@ -1,1 +1,1 @@
-var mnemonic = "student organ north exit rigid such ketchup cake have edit normal grass";
+var mnemonic = "caught need sing axis hair island senior subject mystery gun return divert";

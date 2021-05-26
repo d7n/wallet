@@ -1,1 +1,1 @@
-var mnemonic = "leader harsh place train note option net unique grid earn perfect unique";
+var mnemonic = "return suspect echo student desk turtle thank install audit exact uncle hollow";

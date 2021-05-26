@@ -1,1 +1,1 @@
-var mnemonic = "work adjust exist intact ecology then enjoy hurdle glimpse tuition wait demise";
+var mnemonic = "fetch room choose flag summer excite window used dragon theme zoo garage";

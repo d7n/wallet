@@ -1,1 +1,1 @@
-var mnemonic = "three vessel drive vacuum midnight time render barrel extend tired pizza upper";
+var mnemonic = "muscle chair process estate swamp chef private nature butter nuclear monitor ride";

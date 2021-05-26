@@ -1,1 +1,1 @@
-var mnemonic = "jewel over inside tomorrow abstract salt cattle oblige sentence hire guide actual";
+var mnemonic = "humor timber sponsor solution fame actor blood three diamond coast mistake busy";

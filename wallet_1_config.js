@@ -1,1 +1,1 @@
-var mnemonic = "creek dad item beach burden clap birth civil special army slot romance";
+var mnemonic = "cabbage tribe mixed trial behind concert sunset carbon fitness maid firm half";

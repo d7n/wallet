@@ -1,1 +1,1 @@
-var mnemonic = "journey swallow hood vote jump garment bone camp endorse rigid pole marine";
+var mnemonic = "two aware inflict relax raven pretty bike typical sick above almost view";

@@ -1,1 +1,1 @@
-var mnemonic = "impose measure clip during caution evil daughter mushroom ridge sugar tank outer";
+var mnemonic = "confirm puzzle space express pink tiger story rough song latin core detail";

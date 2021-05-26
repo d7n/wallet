@@ -1,1 +1,1 @@
-var mnemonic = "later vapor fire spirit grant book orange fog major leisure segment green";
+var mnemonic = "exhibit gather debris initial human miracle exile badge candy hope fetch wolf";

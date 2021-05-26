@@ -1,1 +1,1 @@
-var mnemonic = "nest unusual section dynamic honey dust sort goat glance dinosaur scorpion prosper";
+var mnemonic = "become scorpion smile volume warfare orient anger force country garlic abuse benefit";

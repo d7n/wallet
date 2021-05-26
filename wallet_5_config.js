@@ -1,1 +1,1 @@
-var mnemonic = "sugar prevent penalty pattern poverty walnut dog coast afford film scout seed";
+var mnemonic = "train slogan amazing witness virtual vintage aware opera machine keen panda inmate";

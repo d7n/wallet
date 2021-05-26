@@ -1,1 +1,1 @@
-var mnemonic = "present usage model zoo chaos course park mail flat enter oak vital";
+var mnemonic = "venture odor ability border cart era garment decorate sting tomorrow horn rice";

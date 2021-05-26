@@ -1,1 +1,1 @@
-var mnemonic = "acoustic wood push car pilot boy during onion web fork lunar tunnel";
+var mnemonic = "capable area onion educate coil live find high advice hotel travel tip";

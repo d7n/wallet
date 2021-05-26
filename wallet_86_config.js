@@ -1,1 +1,1 @@
-var mnemonic = "junk move runway novel hobby that fabric distance flower nest baby trophy";
+var mnemonic = "swing shiver require frog friend seed monster miss abstract december rapid tent";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel elite donate rotate nephew rally property wish draft diet dutch maid";
+var mnemonic = "better rich side beauty daughter pulp monkey ocean wash bulk brave blood";

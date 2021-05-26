@@ -1,1 +1,1 @@
-var mnemonic = "fashion lift obscure tide safe joy icon hybrid object grace excite agree";
+var mnemonic = "because mind depend blade brush differ orchard edge tenant light much ribbon";

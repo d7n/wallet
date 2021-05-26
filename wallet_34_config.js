@@ -1,1 +1,1 @@
-var mnemonic = "farm sudden jewel layer happy razor business river add hockey deer coral";
+var mnemonic = "average meat culture forest path life chimney able garden motor gasp dial";

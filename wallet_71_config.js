@@ -1,1 +1,1 @@
-var mnemonic = "same edit subject object debate act oven total minor treat small device";
+var mnemonic = "expire another shaft beauty bind genuine scare twice whip gaze involve clip";

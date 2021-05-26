@@ -1,1 +1,1 @@
-var mnemonic = "note lounge barely space copy wool lemon peanut genuine twin soccer require";
+var mnemonic = "abstract fever faculty match steel recipe slender inhale feature print float club";

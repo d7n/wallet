@@ -1,1 +1,1 @@
-var mnemonic = "slide ten stage fetch custom dignity pear hood priority chimney melt option";
+var mnemonic = "devote suggest suffer street pulp front denial transfer size act proof laptop";

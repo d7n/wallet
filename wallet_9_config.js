@@ -1,1 +1,1 @@
-var mnemonic = "describe equal rail liar effort chase vessel claw source used knife faith";
+var mnemonic = "effort goat hold sphere drill army gossip display where eight drop bright";

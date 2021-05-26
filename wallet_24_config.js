@@ -1,1 +1,1 @@
-var mnemonic = "deposit eyebrow horn airport chunk drive eyebrow torch immune latin deposit cluster";
+var mnemonic = "chef maze tray witness obey relief reason live heavy dial drill hard";

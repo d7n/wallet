@@ -1,1 +1,1 @@
-var mnemonic = "anchor mention fancy carbon ready usage maple truly meat axis clutch daughter";
+var mnemonic = "chalk disorder acoustic hospital piano hint mixed work few meat system nominee";

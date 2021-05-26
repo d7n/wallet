@@ -1,1 +1,1 @@
-var mnemonic = "setup palm team aware august spy weekend guilt found bargain toast heart";
+var mnemonic = "foster sleep music sword lava merry badge run slice hammer violin couch";

@@ -1,1 +1,1 @@
-var mnemonic = "final input canal book afford famous nephew author width soda today source";
+var mnemonic = "defense rude tree disagree mean gym tone seven winter chair clever trial";

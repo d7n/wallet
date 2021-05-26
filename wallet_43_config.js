@@ -1,1 +1,1 @@
-var mnemonic = "outer bronze apart narrow manage depend fame door wet erase evil victory";
+var mnemonic = "must fade defense hedgehog guitar garden just word acquire employ field slender";

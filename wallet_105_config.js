@@ -1,1 +1,1 @@
-var mnemonic = "pause profit since reason town wrestle main brother math tissue art good";
+var mnemonic = "humble ridge uncle type fiber dolphin dumb bargain actress strike wrestle disagree";

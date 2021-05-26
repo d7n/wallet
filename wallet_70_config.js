@@ -1,1 +1,1 @@
-var mnemonic = "grab gaze pelican pumpkin organ foster bridge speak eternal cable lunar elder";
+var mnemonic = "remove oak kid trial social ignore you donate flag humble world solve";

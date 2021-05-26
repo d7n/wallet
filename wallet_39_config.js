@@ -1,1 +1,1 @@
-var mnemonic = "pull measure immune beyond follow foot guide end seat chair vanish baby";
+var mnemonic = "junior kidney shallow soul secret position front away lucky flash hybrid hope";

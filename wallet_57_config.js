@@ -1,1 +1,1 @@
-var mnemonic = "force lazy swift dose repeat spring build mean excite door sentence pudding";
+var mnemonic = "play need claim option eyebrow proud timber manual amazing opera hazard situate";

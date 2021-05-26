@@ -1,1 +1,1 @@
-var mnemonic = "person easily state airport install float frost furnace web bamboo grief carpet";
+var mnemonic = "jewel rare engine scheme trick desk license weather judge super report universe";

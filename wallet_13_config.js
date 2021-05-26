@@ -1,1 +1,1 @@
-var mnemonic = "artist uncover exile south please multiply shuffle impact solid public engage buffalo";
+var mnemonic = "yellow offer truth odor siege sustain jealous boat initial car sort similar";

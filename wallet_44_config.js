@@ -1,1 +1,1 @@
-var mnemonic = "uniform alien tooth toast helmet reflect artwork battle patient clay mad celery";
+var mnemonic = "desk choose day mention solar city law used canal essence sleep visa";

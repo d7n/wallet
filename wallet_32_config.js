@@ -1,1 +1,1 @@
-var mnemonic = "step circle genuine length absorb blur brush castle upgrade century copper undo";
+var mnemonic = "year hole dad squirrel put pitch inhale demand follow since sustain thrive";

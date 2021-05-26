@@ -1,1 +1,1 @@
-var mnemonic = "later fossil radio robust lonely page sand width pottery gas blanket tattoo";
+var mnemonic = "ordinary night subject firm skate poverty carry mother dizzy shoulder melody nest";

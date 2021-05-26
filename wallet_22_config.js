@@ -1,1 +1,1 @@
-var mnemonic = "denial actor gallery join giant isolate feed victory submit wood visa bronze";
+var mnemonic = "adjust border weird lottery panther elegant arrow filter scrub evidence board day";

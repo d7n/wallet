@@ -1,1 +1,1 @@
-var mnemonic = "speed rebuild predict switch actual sausage dish rack eight real outside intact";
+var mnemonic = "broom earth economy essence need home trial trial cupboard warm grid soldier";

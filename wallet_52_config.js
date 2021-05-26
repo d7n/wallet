@@ -1,1 +1,1 @@
-var mnemonic = "actor solid genre ship uniform loop orient candy strong film dish eight";
+var mnemonic = "deal snake course one across cancel tape wire caught lucky casino indicate";

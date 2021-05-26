@@ -1,1 +1,1 @@
-var mnemonic = "sponsor clever attitude toward coffee open hood bridge discover glad craft weasel";
+var mnemonic = "cement reward sustain obvious gain dizzy into despair inherit cannon exhaust hollow";

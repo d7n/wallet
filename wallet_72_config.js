@@ -1,1 +1,1 @@
-var mnemonic = "pulse frown fog position deer banner urban tourist release ozone rail broccoli";
+var mnemonic = "auto sniff town sudden eager cruise crime divorce grunt uncover park balcony";

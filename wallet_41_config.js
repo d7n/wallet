@@ -1,1 +1,1 @@
-var mnemonic = "sheriff right vote ignore place purpose pitch oyster swamp street settle roof";
+var mnemonic = "bus fence outdoor public climb cluster payment broom ancient dream problem over";

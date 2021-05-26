@@ -1,1 +1,1 @@
-var mnemonic = "involve make robust region wealth cattle wear trap parent corn current matrix";
+var mnemonic = "crack size moon system secret pipe tree slush fiber ladder basic maid";

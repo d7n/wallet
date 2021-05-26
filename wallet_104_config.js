@@ -1,1 +1,1 @@
-var mnemonic = "day tuna radio orbit pride bus mask claw message other again tomorrow";
+var mnemonic = "liar alone certain tired human pact high core blast jaguar piano panther";

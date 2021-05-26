@@ -1,1 +1,1 @@
-var mnemonic = "rebuild bid piece banana blue special popular luxury guess stool item insane";
+var mnemonic = "night swap option under decrease rich icon fee ceiling target hotel buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "degree walnut suit tobacco seek endless fiction warm decorate strike review direct";
+var mnemonic = "will girl wild poem garage sunset cousin opinion choice erode frog trash";

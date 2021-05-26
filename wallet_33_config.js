@@ -1,1 +1,1 @@
-var mnemonic = "admit indoor border scissors afford churn resemble false upper together man kiss";
+var mnemonic = "capable mixed tired medal voice theory key grid slab poem trade gym";

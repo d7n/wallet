@@ -1,1 +1,1 @@
-var mnemonic = "robot laundry young human fury case elbow stamp moment buzz nuclear heavy";
+var mnemonic = "mule immune cake lady dish license renew lion lend speak true desk";

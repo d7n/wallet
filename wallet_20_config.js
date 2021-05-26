@@ -1,1 +1,1 @@
-var mnemonic = "market craft certain merit tumble eagle broom jewel scissors nerve unknown frozen";
+var mnemonic = "drip such soft gentle stem legal planet motor ocean laptop club popular";

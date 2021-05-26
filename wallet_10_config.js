@@ -1,1 +1,1 @@
-var mnemonic = "behind leopard then meat upper decade live various capable casino subway luxury";
+var mnemonic = "like enrich humble symptom garlic flavor universe strategy husband clever spot magic";

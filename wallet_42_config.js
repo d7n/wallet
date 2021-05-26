@@ -1,1 +1,1 @@
-var mnemonic = "march scheme announce sing honey mixed upper misery sunny bomb convince style";
+var mnemonic = "father chimney helmet face history flip orchard pluck edit strong salmon year";

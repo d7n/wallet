@@ -1,1 +1,1 @@
-var mnemonic = "dilemma until online orchard canyon above indoor end mercy fish output kiss";
+var mnemonic = "sphere spare wish disorder elite welcome long job laundry jealous easily current";

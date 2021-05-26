@@ -1,1 +1,1 @@
-var mnemonic = "ridge imitate ginger mention inject lunch use language salt pulp chaos walnut";
+var mnemonic = "napkin evil general mention glue oxygen carpet shoot system cherry social chunk";

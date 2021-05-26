@@ -1,1 +1,1 @@
-var mnemonic = "imitate finger twist beauty again exercise road indoor transfer noise dream twice";
+var mnemonic = "two sting junk suggest middle ginger sense amount bracket bicycle gold citizen";

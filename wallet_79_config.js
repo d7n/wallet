@@ -1,1 +1,1 @@
-var mnemonic = "fringe tuition circle survey inform achieve sorry south gossip prevent bracket ghost";
+var mnemonic = "culture believe extend fly donkey tank behind phrase tuition fever empty rude";

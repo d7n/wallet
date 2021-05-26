@@ -1,1 +1,1 @@
-var mnemonic = "high second bronze dismiss response curve dove myself lamp powder hold wash";
+var mnemonic = "muscle cigar foot bonus victory oil impact hawk west dad frame initial";
