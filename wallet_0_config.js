@@ -1,1 +1,1 @@
-var mnemonic = "victory educate fancy toe scrap admit away fitness once gasp prize whip";
+var mnemonic = "friend other inquiry raccoon truck enough bag pulse axis unlock differ mobile";

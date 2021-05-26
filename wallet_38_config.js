@@ -1,1 +1,1 @@
-var mnemonic = "win sibling catalog pipe slight reopen tooth unaware genre grab eager illegal";
+var mnemonic = "upper critic life satoshi among major slow quick problem survey laundry warm";

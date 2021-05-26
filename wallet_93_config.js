@@ -1,1 +1,1 @@
-var mnemonic = "fitness inmate viable devote spread pigeon coral inform oppose nominee grunt this";
+var mnemonic = "west happy quiz moon sort demand thrive label sponsor snack fee that";

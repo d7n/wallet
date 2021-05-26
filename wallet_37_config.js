@@ -1,1 +1,1 @@
-var mnemonic = "cushion elite popular million gentle canyon crack cover power recipe skill also";
+var mnemonic = "dash rhythm shoot gauge accuse august fog oven sphere knee response february";

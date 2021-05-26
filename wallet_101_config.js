@@ -1,1 +1,1 @@
-var mnemonic = "file decrease announce shift because cupboard identify benefit impulse episode disagree shy";
+var mnemonic = "almost melody tenant lava habit champion cross bleak actual mixture icon shaft";

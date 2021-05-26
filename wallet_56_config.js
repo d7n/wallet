@@ -1,1 +1,1 @@
-var mnemonic = "punch choose tribe broccoli family trumpet inject cash banana direct fruit enroll";
+var mnemonic = "move ginger announce trial catalog tourist silly shallow acoustic people iron fortune";

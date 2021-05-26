@@ -1,1 +1,1 @@
-var mnemonic = "enforce update brand sad embody arctic what coffee often domain jelly surround";
+var mnemonic = "special truly reject follow holiday veteran evoke cake fit radio humble hybrid";

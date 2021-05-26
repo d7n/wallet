@@ -1,1 +1,1 @@
-var mnemonic = "spoon float tattoo boy onion manual output shoulder tumble report merit stuff";
+var mnemonic = "lion wish stick law firm barely level mouse quality riot drastic van";

@@ -1,1 +1,1 @@
-var mnemonic = "help tree orphan canoe carpet vault match fit grow offer ordinary obey";
+var mnemonic = "joy ginger defy enforce clown village unaware moon venture bitter buzz dawn";

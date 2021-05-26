@@ -1,1 +1,1 @@
-var mnemonic = "melt nurse split label ivory rubber velvet beyond garlic between oven flat";
+var mnemonic = "memory category frozen copy benefit typical violin arctic spray neither wreck breeze";

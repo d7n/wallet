@@ -1,1 +1,1 @@
-var mnemonic = "lens release people era dash embody wink silent choose color hint laptop";
+var mnemonic = "assault arrange slender piano offer edge discover hill discover emerge embark solar";

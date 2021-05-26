@@ -1,1 +1,1 @@
-var mnemonic = "country trouble asset input tone mango multiply brick clean bomb room alien";
+var mnemonic = "size picnic exotic vault huge scorpion stamp child digital fish base cushion";

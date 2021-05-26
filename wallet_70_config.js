@@ -1,1 +1,1 @@
-var mnemonic = "visual valid ghost hospital promote luggage panther horse extend horn unfold fragile";
+var mnemonic = "wild blood reflect property health nurse hotel soda foot practice build nice";

@@ -1,1 +1,1 @@
-var mnemonic = "link cube reason gaze man tower great toilet first cake local access";
+var mnemonic = "defense claim treat elephant nurse year speak warrior yard smart discover soap";

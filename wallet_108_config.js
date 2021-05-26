@@ -1,1 +1,1 @@
-var mnemonic = "sponsor benefit mind coyote crystal forum option proof consider keep possible despair";
+var mnemonic = "stamp device update isolate unique deal click suffer athlete illness rate design";

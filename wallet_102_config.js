@@ -1,1 +1,1 @@
-var mnemonic = "slow burger hire journey base hair gym hurt bacon drip paper cover";
+var mnemonic = "language acoustic chronic mansion seek purse donor car kingdom apart concert when";

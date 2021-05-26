@@ -1,1 +1,1 @@
-var mnemonic = "fatal upgrade chalk pepper side blind mansion wall baby category earn you";
+var mnemonic = "will before butter tortoise sister jelly manual day firm treat zoo miss";

@@ -1,1 +1,1 @@
-var mnemonic = "length enroll off clutch alcohol kite hat voice shine artist ceiling owner";
+var mnemonic = "enroll metal average output also medal winter figure order property online awful";

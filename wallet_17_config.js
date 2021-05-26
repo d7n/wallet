@@ -1,1 +1,1 @@
-var mnemonic = "exact scale announce top hamster bundle tattoo pipe source joke bird slice";
+var mnemonic = "over liberty artefact advice source very pelican tooth jealous broken actual balcony";

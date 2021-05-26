@@ -1,1 +1,1 @@
-var mnemonic = "differ execute hurry neutral amount actual toward bacon hood spot magic issue";
+var mnemonic = "polar wealth veteran pink question rather keen copper river snap fluid february";

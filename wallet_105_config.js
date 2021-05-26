@@ -1,1 +1,1 @@
-var mnemonic = "machine clerk trouble capable primary reduce alert sniff quit toward section order";
+var mnemonic = "satoshi venture web aisle flip try senior sting tortoise team help wonder";

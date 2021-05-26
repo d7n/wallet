@@ -1,1 +1,1 @@
-var mnemonic = "cliff tongue speak tobacco nurse increase must spray purpose steel fiber tongue";
+var mnemonic = "typical sweet depart urge sight flee puzzle stem visit entry still trumpet";

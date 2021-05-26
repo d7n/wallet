@@ -1,1 +1,1 @@
-var mnemonic = "scene march focus pull pioneer poem invite enact noise enroll spawn unusual";
+var mnemonic = "cram picture easily young bone mention barrel round distance universe maple gesture";

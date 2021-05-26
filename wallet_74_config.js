@@ -1,1 +1,1 @@
-var mnemonic = "tribe lunch convince jump orchard notable cannon that divide weird hover culture";
+var mnemonic = "okay shock attend person favorite lucky force aisle motion rack dish whale";

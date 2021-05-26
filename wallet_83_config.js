@@ -1,1 +1,1 @@
-var mnemonic = "angle tail benefit stool recipe calm catalog empty you virus fiber find";
+var mnemonic = "speed pole obscure hello convince infant ladder salute blur history bone enforce";

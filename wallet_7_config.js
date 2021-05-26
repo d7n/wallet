@@ -1,1 +1,1 @@
-var mnemonic = "glance require dress benefit enemy near bullet drift must together find stuff";
+var mnemonic = "suggest chair often city infant charge angry ethics pride broccoli broom error";

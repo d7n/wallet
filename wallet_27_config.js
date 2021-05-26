@@ -1,1 +1,1 @@
-var mnemonic = "crisp ostrich drop cliff inherit asthma pepper chapter arrange siege decide pave";
+var mnemonic = "bonus fence witness arrive peasant submit dove arrow jealous fault split tumble";

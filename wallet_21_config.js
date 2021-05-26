@@ -1,1 +1,1 @@
-var mnemonic = "wire argue robot client tenant melt viable wife chronic often fluid pet";
+var mnemonic = "flight depth team sugar guilt addict inflict paddle sense budget useful unknown";

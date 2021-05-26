@@ -1,1 +1,1 @@
-var mnemonic = "easily pencil pizza burden green gossip already any legal avoid shove lucky";
+var mnemonic = "venture orphan toward tilt erode differ theory stairs puppy exercise degree rate";

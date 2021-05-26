@@ -1,1 +1,1 @@
-var mnemonic = "jump prefer dawn raven such between pull robust only push voice equal";
+var mnemonic = "whip control flock rebel second mask devote scatter jewel apart mix point";

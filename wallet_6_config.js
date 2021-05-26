@@ -1,1 +1,1 @@
-var mnemonic = "neck sausage regret salon video quarter scrap motion donkey digital public allow";
+var mnemonic = "flavor indoor fitness network enhance patient toilet venue roast level thumb pigeon";

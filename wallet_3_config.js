@@ -1,1 +1,1 @@
-var mnemonic = "record gate retreat unknown age purpose property arena bronze wink service morning";
+var mnemonic = "east dilemma suffer problem planet brother rival trip husband boil there gravity";

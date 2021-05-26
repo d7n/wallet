@@ -1,1 +1,1 @@
-var mnemonic = "about aspect ozone play piece trap caught drill anger horror junior letter";
+var mnemonic = "document capital usage hurt sort onion typical silk bind airport baby deputy";

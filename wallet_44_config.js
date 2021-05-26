@@ -1,1 +1,1 @@
-var mnemonic = "age lyrics unit moon item film oblige laundry rib brave pen sibling";
+var mnemonic = "crystal piano spend awkward reduce bronze pulp burden chunk salon lend security";

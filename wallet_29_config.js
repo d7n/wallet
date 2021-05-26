@@ -1,1 +1,1 @@
-var mnemonic = "boy syrup brick income fatigue wink finger network news news elevator argue";
+var mnemonic = "bench give phone burst special gain stuff course paddle manual exist tourist";

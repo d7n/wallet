@@ -1,1 +1,1 @@
-var mnemonic = "change faith caught enemy gallery rib large lobster dial inside render tired";
+var mnemonic = "tray staff guide furnace price rough oyster trust cheap roast wait coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday elbow yellow move pitch duty girl fringe stay culture knock dismiss";
+var mnemonic = "occur draw urban combine level indicate boil breeze lake circle matter artefact";

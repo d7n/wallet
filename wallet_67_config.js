@@ -1,1 +1,1 @@
-var mnemonic = "arch rally blossom tunnel panda toast lift aunt thrive ritual satoshi account";
+var mnemonic = "hazard humor practice diesel awesome then bag sell velvet rookie decide cloud";

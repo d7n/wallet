@@ -1,1 +1,1 @@
-var mnemonic = "match holiday regret flush negative vessel produce horror jaguar fine hockey catalog";
+var mnemonic = "drill situate asthma umbrella follow scorpion scare stomach fiction humor brush reward";

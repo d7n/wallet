@@ -1,1 +1,1 @@
-var mnemonic = "indoor grow robot eager churn asset armor someone mention giant feature vault";
+var mnemonic = "smart person burger couch lesson runway boat only spell ticket whip brief";

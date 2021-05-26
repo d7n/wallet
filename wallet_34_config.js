@@ -1,1 +1,1 @@
-var mnemonic = "world same airport concert naive album lesson say rocket bone path alert";
+var mnemonic = "coral deer spare outdoor theory kiwi narrow vanish song utility swamp media";

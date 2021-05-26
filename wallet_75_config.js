@@ -1,1 +1,1 @@
-var mnemonic = "release imitate keen abuse loop tuna title chat spider arm rapid group";
+var mnemonic = "buzz near lobster inhale bachelor few total drum barely humble feel blade";

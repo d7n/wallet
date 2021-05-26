@@ -1,1 +1,1 @@
-var mnemonic = "noble frown leader runway degree pact same hotel limit host immense canvas";
+var mnemonic = "actor rabbit crush quarter tornado clip state limb unfold cluster crash girl";

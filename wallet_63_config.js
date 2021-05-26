@@ -1,1 +1,1 @@
-var mnemonic = "solar sing couple idea patrol another choose large rent vapor collect message";
+var mnemonic = "drive zone arrest upset mass pony ethics cheese coin inside slim typical";

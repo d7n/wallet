@@ -1,1 +1,1 @@
-var mnemonic = "youth pride truly any neglect apart tiger panda carry fresh laugh jelly";
+var mnemonic = "decline jelly planet width very sugar junk account doctor outer torch own";

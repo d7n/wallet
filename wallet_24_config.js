@@ -1,1 +1,1 @@
-var mnemonic = "risk vacant dress august youth alpha crew hard sight hill drum powder";
+var mnemonic = "portion digital raise soldier tank stand enlist boat rail mountain right outdoor";

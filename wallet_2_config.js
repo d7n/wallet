@@ -1,1 +1,1 @@
-var mnemonic = "allow throw museum relax win fruit vapor spatial spin child damage jewel";
+var mnemonic = "note upper increase latin athlete harsh nurse motion trophy section attack velvet";

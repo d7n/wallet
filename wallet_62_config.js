@@ -1,1 +1,1 @@
-var mnemonic = "timber nature category piece try gossip unfair mystery cushion donkey gas stomach";
+var mnemonic = "settle tomato cable accuse oyster anchor jar lemon coil reason girl vital";

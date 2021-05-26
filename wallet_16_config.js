@@ -1,1 +1,1 @@
-var mnemonic = "razor impact brain ladder width symbol toddler notice collect excuse element cage";
+var mnemonic = "wonder page moon speed bulb tool view hover glory galaxy topple orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow weather smart rebuild solve link mistake census despair mushroom engine road";
+var mnemonic = "night pony turn since east vanish concert copper cupboard silly friend purity";

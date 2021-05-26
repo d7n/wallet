@@ -1,1 +1,1 @@
-var mnemonic = "quick nominee jealous shadow more split close enrich survey ghost veteran blade";
+var mnemonic = "expire post access capital step smoke moment make lonely tree captain combine";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic valley nest gesture brass hire unfold mechanic force moment unusual cake";
+var mnemonic = "observe stick donkey trouble evolve alarm jewel tragic case tiger vault bounce";

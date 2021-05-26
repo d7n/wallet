@@ -1,1 +1,1 @@
-var mnemonic = "rotate trip monster foil work cherry sound bird knock asthma phrase caught";
+var mnemonic = "quiz assault uphold people mansion refuse plug fabric employ diagram crazy talk";

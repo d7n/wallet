@@ -1,1 +1,1 @@
-var mnemonic = "occur body scan napkin erode pig cycle hedgehog shoe weasel air credit";
+var mnemonic = "squeeze month ask visa degree excess spot arrest tennis broken broom chief";

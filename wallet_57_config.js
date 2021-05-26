@@ -1,1 +1,1 @@
-var mnemonic = "siege seed gospel canal abuse tape second grief region uphold inform access";
+var mnemonic = "similar knee shield truth traffic glass coconut shuffle slice crime insect struggle";

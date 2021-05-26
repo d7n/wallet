@@ -1,1 +1,1 @@
-var mnemonic = "left illegal find fault design bread garlic demand music pioneer example garbage";
+var mnemonic = "gather denial shrug pear memory wedding fatigue naive artefact cluster upon that";

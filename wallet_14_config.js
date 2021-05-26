@@ -1,1 +1,1 @@
-var mnemonic = "boat toss brass repeat universe eight that spend tuna stool engine catalog";
+var mnemonic = "anxiety buzz matrix step blast attend govern fiction bicycle twelve brain dentist";

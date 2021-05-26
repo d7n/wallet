@@ -1,1 +1,1 @@
-var mnemonic = "resource dress cube ten limb path baby donate foster heavy benefit fiber";
+var mnemonic = "top token catalog grid absent say twenty stage topple machine two hunt";

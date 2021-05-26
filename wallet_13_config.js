@@ -1,1 +1,1 @@
-var mnemonic = "jacket vacuum reunion rare hockey grape video light fuel fold chunk season";
+var mnemonic = "volcano fit short monkey become clarify into tube boost million atom vote";

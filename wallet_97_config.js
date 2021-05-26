@@ -1,1 +1,1 @@
-var mnemonic = "dose fresh opinion shaft stadium benefit trouble fabric denial benefit slice canvas";
+var mnemonic = "state cousin marble youth dad embark skull day torch ask detect approve";

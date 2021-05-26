@@ -1,1 +1,1 @@
-var mnemonic = "avocado powder advice domain talk farm able merry lens naive vehicle six";
+var mnemonic = "general solution spy trouble ignore apple inspire pet write deposit ring remember";

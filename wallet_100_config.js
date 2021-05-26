@@ -1,1 +1,1 @@
-var mnemonic = "dish girl please suit primary scissors grunt space depart curtain blanket burger";
+var mnemonic = "awake blush curve plate people chronic birth west witness foil route merge";

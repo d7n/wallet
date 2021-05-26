@@ -1,1 +1,1 @@
-var mnemonic = "coffee battle tumble leg casino foot monkey bird fever stage sunset milk";
+var mnemonic = "scatter calm health hungry cotton reopen rural spoon rich pulp frequent intact";

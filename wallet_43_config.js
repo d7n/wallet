@@ -1,1 +1,1 @@
-var mnemonic = "picnic response chunk cheese truck album such buddy code common poverty thunder";
+var mnemonic = "miracle day curtain timber hope usual rally evolve connect steak cigar ticket";

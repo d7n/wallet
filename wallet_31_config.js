@@ -1,1 +1,1 @@
-var mnemonic = "genius become vocal inspire kiwi rich extra engine hamster rule addict cigar";
+var mnemonic = "indoor praise kick float bean adjust giant glance mail lecture mixed rude";

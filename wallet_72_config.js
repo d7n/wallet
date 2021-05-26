@@ -1,1 +1,1 @@
-var mnemonic = "meat box prefer tail twin return sunset people pupil educate misery renew";
+var mnemonic = "glow chief rough depend tissue castle soul biology edge giggle proof clever";

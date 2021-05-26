@@ -1,1 +1,1 @@
-var mnemonic = "wise prevent cry receive approve car purity green whip element today void";
+var mnemonic = "taxi prevent globe first faith thunder over logic blade plastic ordinary slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock rabbit wrap blanket series learn island negative prefer tuition love right";
+var mnemonic = "speed useless fragile custom hope fortune diet scatter father front beach spray";

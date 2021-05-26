@@ -1,1 +1,1 @@
-var mnemonic = "avoid goddess nation use crop cluster forest romance roast vague life organ";
+var mnemonic = "ozone unusual switch machine disagree disagree negative close person tilt august shallow";

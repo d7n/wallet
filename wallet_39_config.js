@@ -1,1 +1,1 @@
-var mnemonic = "bracket wash place behind satoshi text error benefit wrong turn rice ankle";
+var mnemonic = "deal later vivid butter wrong already sport win mass venue apology reward";

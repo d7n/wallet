@@ -1,1 +1,1 @@
-var mnemonic = "submit pet lumber whale glove soldier alley property stone punch radio member";
+var mnemonic = "ordinary puzzle caught gift please rabbit barely avoid any climb wrestle foot";

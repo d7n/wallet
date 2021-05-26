@@ -1,1 +1,1 @@
-var mnemonic = "consider spoon motion right film gloom brother visa twice catalog token early";
+var mnemonic = "crucial matter question multiply improve cancel elegant you liquid betray sting mail";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs hen doctor vast luggage real pioneer high dose extra device inform";
+var mnemonic = "universe minute wood journey guard pear soap poverty pulp drama boy actual";

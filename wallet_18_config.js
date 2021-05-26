@@ -1,1 +1,1 @@
-var mnemonic = "gaze brass purpose chase float alarm pigeon kiss busy brand maple butter";
+var mnemonic = "sibling abuse release divide cigar run fox rent bundle penalty silent dance";

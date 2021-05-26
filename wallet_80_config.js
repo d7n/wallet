@@ -1,1 +1,1 @@
-var mnemonic = "link review insane believe egg wait print daring prepare jaguar maid kind";
+var mnemonic = "photo genre silent wire height tent similar shield pact easy usual alpha";

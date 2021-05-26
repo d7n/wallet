@@ -1,1 +1,1 @@
-var mnemonic = "private salmon climb tray february behind coyote crew issue auto resist join";
+var mnemonic = "run medal wise market print until resist simple sort crane already idea";

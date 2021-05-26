@@ -1,1 +1,1 @@
-var mnemonic = "budget range curtain wealth divert skill island upgrade stadium carry trial shoe";
+var mnemonic = "galaxy report sing judge cradle cricket rabbit apart system worth live use";

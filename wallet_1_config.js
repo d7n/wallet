@@ -1,1 +1,1 @@
-var mnemonic = "visual race twist tone artefact ability common huge that gain run dose";
+var mnemonic = "stairs reunion pair local spray hill repair devote chimney engage venture surround";

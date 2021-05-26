@@ -1,1 +1,1 @@
-var mnemonic = "scare vocal describe evoke engine inflict fragile plate birth company crop ceiling";
+var mnemonic = "coral happy talk expect fitness skate matter box matrix champion orphan syrup";

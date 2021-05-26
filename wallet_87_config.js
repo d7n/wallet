@@ -1,1 +1,1 @@
-var mnemonic = "artefact cave pet wasp night flat flush charge apart nuclear beauty sword";
+var mnemonic = "park gate gate history youth tape script tent search upper unknown cable";

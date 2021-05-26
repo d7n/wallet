@@ -1,1 +1,1 @@
-var mnemonic = "blossom mechanic slight exotic notable elder humor embrace portion company badge oblige";
+var mnemonic = "captain license draw delay police decade resemble clip father soft hood rice";

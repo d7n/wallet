@@ -1,1 +1,1 @@
-var mnemonic = "middle brick door place diet account media blame umbrella behind practice lecture";
+var mnemonic = "say mail swing north offer avocado wolf soccer depend advice wall ivory";

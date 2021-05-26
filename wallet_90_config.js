@@ -1,1 +1,1 @@
-var mnemonic = "verb outside hidden thrive original verify hand food weather domain scale birth";
+var mnemonic = "antique kid turn notice axis decide brush teach walnut write clap lecture";

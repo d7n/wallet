@@ -1,1 +1,1 @@
-var mnemonic = "galaxy warm useful unique tip total alien keen tone honey sheriff point";
+var mnemonic = "list retire base elbow witness fame planet depend decide era rare arrange";

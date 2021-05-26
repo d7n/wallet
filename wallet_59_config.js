@@ -1,1 +1,1 @@
-var mnemonic = "design music unique earn jump hobby solve spread patrol corn route curve";
+var mnemonic = "relief water anchor call company owner abuse another prison clog sister mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter hip razor ticket thing acoustic cave buddy olive price dutch play";
+var mnemonic = "need fun corn duty chunk image net shrimp citizen zone hollow balance";

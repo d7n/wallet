@@ -1,1 +1,1 @@
-var mnemonic = "answer soul enrich acoustic rebel forward split village lunar rare rose east";
+var mnemonic = "mom spring sword retreat wish flash detail pledge dog lemon rotate twist";

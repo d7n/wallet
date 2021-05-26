@@ -1,1 +1,1 @@
-var mnemonic = "upset north involve sea arrange report birth broccoli firm finish vicious frequent";
+var mnemonic = "pepper chef leaf undo junk hip flame penalty doll impulse vintage school";

@@ -1,1 +1,1 @@
-var mnemonic = "burden lyrics license plunge loyal cruel stove cry awake swing woman brass";
+var mnemonic = "umbrella hockey afraid draw jeans image flock crash camp mango derive goose";

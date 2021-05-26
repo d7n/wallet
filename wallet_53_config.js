@@ -1,1 +1,1 @@
-var mnemonic = "neutral embody kid trophy across pipe belt maximum exhibit step thank rough";
+var mnemonic = "pink logic clean neither hold stove alert claim ring betray medal estate";
