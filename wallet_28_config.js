@@ -1,1 +1,1 @@
-var mnemonic = "output require ginger column earn raven vote point shoot must letter valley";
+var mnemonic = "wage beyond again guide clown chat world adjust profit skill wish wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "piece title salt license boil program guilt wink iron youth film neither";
+var mnemonic = "flee caution fluid undo convince maximum upset couch clerk brave soda punch";

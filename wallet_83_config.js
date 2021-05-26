@@ -1,1 +1,1 @@
-var mnemonic = "labor please middle adult embark about negative vital clever tourist exist robust";
+var mnemonic = "illegal birth scout airport drink essay know enact brown upon gossip asset";

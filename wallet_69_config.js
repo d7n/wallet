@@ -1,1 +1,1 @@
-var mnemonic = "orient kangaroo cash box knee soccer tell cube bracket memory stairs loud";
+var mnemonic = "system piece recipe spot dust aunt purchase champion arctic place disorder hollow";

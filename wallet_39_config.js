@@ -1,1 +1,1 @@
-var mnemonic = "hybrid pottery relax amateur friend february vacuum render hen squirrel iron replace";
+var mnemonic = "kiwi soon interest few siren lady release power gate keep velvet claim";

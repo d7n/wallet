@@ -1,1 +1,1 @@
-var mnemonic = "cube gossip stock dragon unaware six refuse horn sock exhibit crash treat";
+var mnemonic = "robot either perfect dance steel beauty run will disagree corn tail six";

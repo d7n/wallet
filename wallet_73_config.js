@@ -1,1 +1,1 @@
-var mnemonic = "swallow motion scrub knife aisle law list organ anger side distance enjoy";
+var mnemonic = "material chair off mesh effort cry cliff celery dolphin vocal catch festival";

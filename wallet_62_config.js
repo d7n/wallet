@@ -1,1 +1,1 @@
-var mnemonic = "nominee buffalo nice gesture sort come few drill hundred noodle hundred series";
+var mnemonic = "problem feature stick broccoli oval wine receive cinnamon perfect oxygen offer comfort";

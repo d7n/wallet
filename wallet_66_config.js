@@ -1,1 +1,1 @@
-var mnemonic = "meadow cook physical right party picnic grunt high merit above alpha van";
+var mnemonic = "day magnet sand loan detail harvest frozen pumpkin fiction auto one year";

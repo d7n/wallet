@@ -1,1 +1,1 @@
-var mnemonic = "opinion media skin year street tent inject sheriff begin clever only club";
+var mnemonic = "palm fork action dove blanket switch hobby object family autumn inject bike";

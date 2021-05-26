@@ -1,1 +1,1 @@
-var mnemonic = "panic thought slow nest harbor second cash spice slight crucial right describe";
+var mnemonic = "ice voice huge season cabbage ostrich vendor situate zero blade craft mistake";

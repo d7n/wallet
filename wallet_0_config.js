@@ -1,1 +1,1 @@
-var mnemonic = "goose note shield fancy seed fashion when social kiss modify monkey air";
+var mnemonic = "dynamic middle harvest purse wrist era essay history gasp eternal duty radio";

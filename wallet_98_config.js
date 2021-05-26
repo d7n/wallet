@@ -1,1 +1,1 @@
-var mnemonic = "machine coral vanish cable ecology remind athlete flush ranch bench supply casino";
+var mnemonic = "ask spy gossip desert blanket eager portion favorite steel spot hawk pink";

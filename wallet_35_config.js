@@ -1,1 +1,1 @@
-var mnemonic = "prosper immense glide income error direct unveil february home alone clap antique";
+var mnemonic = "account wage ahead eye update foot stay distance car arrow wheat victory";

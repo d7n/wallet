@@ -1,1 +1,1 @@
-var mnemonic = "tag noble inch cruise entire lamp maximum nose modify romance opinion october";
+var mnemonic = "step essay entry hole mad original album note primary invite base resist";

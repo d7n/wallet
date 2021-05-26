@@ -1,1 +1,1 @@
-var mnemonic = "main obey sight friend time any notable myth romance spread fabric cheese";
+var mnemonic = "educate faint hidden awful circle damp clump shoulder fresh world obtain arena";

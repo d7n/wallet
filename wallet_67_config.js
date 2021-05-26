@@ -1,1 +1,1 @@
-var mnemonic = "gasp shed street grow make elite guide viable congress bar family emerge";
+var mnemonic = "balcony orchard poet proof track cloud annual sibling health brave crumble awake";

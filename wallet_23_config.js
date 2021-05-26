@@ -1,1 +1,1 @@
-var mnemonic = "pulp person knee canyon desert expose hockey fresh scene loyal history august";
+var mnemonic = "order green struggle lyrics start sort meat face elegant resist nurse fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "candy public fade iron step mobile soup catalog trial frost gallery crash";
+var mnemonic = "lesson inch excite when summer armor fine explain cancel fury foster badge";

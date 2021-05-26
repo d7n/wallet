@@ -1,1 +1,1 @@
-var mnemonic = "detail sport anger noodle notice reform crawl supreme outdoor wool neglect diesel";
+var mnemonic = "flower girl onion pencil nice learn current kid coil hunt rice erase";

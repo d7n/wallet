@@ -1,1 +1,1 @@
-var mnemonic = "install jungle slow mystery pitch cry junior second loyal frozen weasel belt";
+var mnemonic = "flavor action wonder inherit horn planet copper undo force elbow loyal square";

@@ -1,1 +1,1 @@
-var mnemonic = "collect divert fury buddy payment brisk shallow snack foot entry anxiety organ";
+var mnemonic = "struggle art truck cake gallery swear twin lobster auction hover world gas";

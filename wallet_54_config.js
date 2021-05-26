@@ -1,1 +1,1 @@
-var mnemonic = "hold scissors refuse amazing spirit eyebrow open puppy snap shoulder denial clinic";
+var mnemonic = "lucky debate title inject lend shoe receive kingdom nation polar simple case";

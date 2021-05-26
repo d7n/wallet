@@ -1,1 +1,1 @@
-var mnemonic = "tuition candy sound slab amazing vibrant ocean gauge acid door age embark";
+var mnemonic = "spider try coffee pet kitchen subject issue fun pelican cattle engage bullet";

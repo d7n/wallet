@@ -1,1 +1,1 @@
-var mnemonic = "aunt series glide burst mountain crumble neck paper sting excuse maximum goose";
+var mnemonic = "tube jeans media decade portion orange neutral error board economy bamboo dove";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion cereal recall pass horror toe silk silver monkey comic speed deal";
+var mnemonic = "useful hint hat loan blossom family pigeon pride estate loyal mad dial";

@@ -1,1 +1,1 @@
-var mnemonic = "grit metal obey intact attack faint cluster pretty frown shy creek life";
+var mnemonic = "mail mixed metal start banner insect left ozone field reunion erosion film";

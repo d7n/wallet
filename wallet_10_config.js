@@ -1,1 +1,1 @@
-var mnemonic = "dream shell fly silly entry husband govern work milk ill rule almost";
+var mnemonic = "tone stool deputy fortune nut guilt arrow eternal usual human lady gadget";

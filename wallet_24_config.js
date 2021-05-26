@@ -1,1 +1,1 @@
-var mnemonic = "acid runway ice fame clip gloom vague hint history dove they then";
+var mnemonic = "juice net identify merit horror devote grunt mom sell miss noble seek";

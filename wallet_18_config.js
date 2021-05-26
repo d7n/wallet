@@ -1,1 +1,1 @@
-var mnemonic = "pigeon onion rocket wall hobby tilt escape purse coconut excite high accuse";
+var mnemonic = "series flat scan other jazz bronze wheat sun novel figure property logic";

@@ -1,1 +1,1 @@
-var mnemonic = "approve mixed fold allow puzzle actor improve shiver cannon guard brand cool";
+var mnemonic = "drama vapor patch notable shield february coyote saddle baby stay novel palm";

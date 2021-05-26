@@ -1,1 +1,1 @@
-var mnemonic = "runway arena fitness weapon chicken cluster begin scare oak drip prefer focus";
+var mnemonic = "fancy giggle vocal vivid arrange cancel visa novel afraid aisle trip lobster";

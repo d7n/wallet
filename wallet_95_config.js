@@ -1,1 +1,1 @@
-var mnemonic = "relax hire invite dinosaur relax wire small tent various inherit stable family";
+var mnemonic = "sphere render second elbow real forum ill picnic dolphin pony demise argue";

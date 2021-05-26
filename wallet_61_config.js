@@ -1,1 +1,1 @@
-var mnemonic = "isolate bitter tell conduct inhale electric faint pond crumble empty stem phrase";
+var mnemonic = "erase tray broccoli help cement throw legend clerk caught pet merge intact";

@@ -1,1 +1,1 @@
-var mnemonic = "black bomb autumn injury twist logic fruit region fatal family public obscure";
+var mnemonic = "lens sad amused beach traffic track hand object rule cabbage theory loop";

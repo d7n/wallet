@@ -1,1 +1,1 @@
-var mnemonic = "faculty glue concert margin almost small friend calm attract diet ozone vacuum";
+var mnemonic = "blur wolf panther glue amazing lawsuit arena bubble enlist aim loyal property";

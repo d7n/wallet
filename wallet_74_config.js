@@ -1,1 +1,1 @@
-var mnemonic = "lucky reward original physical engine speak slight avocado outer example digital salt";
+var mnemonic = "bulk also smoke churn sense north glance canvas reflect faith garbage original";

@@ -1,1 +1,1 @@
-var mnemonic = "try upgrade depend plug visa salmon neck obey obvious silly thumb black";
+var mnemonic = "scene glory grape any stuff anxiety physical gas funny market renew stool";

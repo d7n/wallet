@@ -1,1 +1,1 @@
-var mnemonic = "pattern cram foster film ancient erode height summer auction amused inside vehicle";
+var mnemonic = "stadium glide reason cargo excess lock burden farm oil angle top cross";

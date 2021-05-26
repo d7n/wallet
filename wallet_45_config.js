@@ -1,1 +1,1 @@
-var mnemonic = "denial crouch person amused road much memory forget outdoor end kind output";
+var mnemonic = "replace identify roof glance layer goddess similar robust box leader donor elder";

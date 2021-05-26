@@ -1,1 +1,1 @@
-var mnemonic = "gift fruit walnut radar fragile found still scheme foil owner solution about";
+var mnemonic = "dog milk heavy rocket toward monkey wall auction popular various couch school";

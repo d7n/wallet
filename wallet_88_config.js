@@ -1,1 +1,1 @@
-var mnemonic = "charge section appear combine aisle toy dragon distance begin kidney either cheese";
+var mnemonic = "chronic reason ability word organ anxiety width utility air improve agent antique";

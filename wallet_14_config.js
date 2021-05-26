@@ -1,1 +1,1 @@
-var mnemonic = "chief glory spirit gown plate hand three organ arrange useful goose flip";
+var mnemonic = "vacuum feed cry enhance civil exile gauge evolve loud tongue large into";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle coffee clay lemon gap legend chest abstract dish differ sponsor leave";
+var mnemonic = "gain fashion blast arena typical minor sea shock rapid sadness absurd gap";

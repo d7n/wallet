@@ -1,1 +1,1 @@
-var mnemonic = "gentle produce economy gasp evidence arm mesh wrist sniff bulb crush crew";
+var mnemonic = "crop march spice candy balance any minute system spy base face scene";

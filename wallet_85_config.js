@@ -1,1 +1,1 @@
-var mnemonic = "organ bubble damp child era world truly immune retreat evoke poverty useless";
+var mnemonic = "pool strike umbrella raw culture absorb frog sting grid away august swear";

@@ -1,1 +1,1 @@
-var mnemonic = "medal lesson youth trophy unfold hobby turn hybrid cat dutch supreme measure";
+var mnemonic = "fiscal juice speed lamp hint gloom pact elder fragile century member example";

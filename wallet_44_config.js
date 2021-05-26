@@ -1,1 +1,1 @@
-var mnemonic = "negative symbol define vital beach enter gauge exotic sock senior decrease fiber";
+var mnemonic = "true come sustain mosquito celery vessel country west drift october switch crunch";

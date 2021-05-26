@@ -1,1 +1,1 @@
-var mnemonic = "rotate combine still oil woman neck tree symbol raccoon scrap park spirit";
+var mnemonic = "property gate suggest payment love east glass foil east subject rug eagle";

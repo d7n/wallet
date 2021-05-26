@@ -1,1 +1,1 @@
-var mnemonic = "segment notable island muscle twenty vendor cupboard loyal wagon human figure jump";
+var mnemonic = "clown faculty scan fiscal bamboo assist yellow fever industry wealth kidney warrior";

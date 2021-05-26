@@ -1,1 +1,1 @@
-var mnemonic = "tackle frost pigeon domain below rude sibling check matrix where august frame";
+var mnemonic = "saddle cook outdoor wool festival tool endorse predict gather stand fortune hire";

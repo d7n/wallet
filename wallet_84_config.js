@@ -1,1 +1,1 @@
-var mnemonic = "gate surge fiber together tent deliver switch response fork shoot arm baby";
+var mnemonic = "fire sunset toddler neck zoo impact access stock short trend mask myth";

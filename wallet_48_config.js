@@ -1,1 +1,1 @@
-var mnemonic = "autumn blood empower inner enforce because final alarm key attack ten sun";
+var mnemonic = "bachelor filter cruise celery tissue love diesel sing same welcome disease delay";

@@ -1,1 +1,1 @@
-var mnemonic = "box cage crater differ change define away citizen opinion cattle voice iron";
+var mnemonic = "sheriff flag rhythm juice lecture elite cup identify there spin wage excess";

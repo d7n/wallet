@@ -1,1 +1,1 @@
-var mnemonic = "range account labor print side example outer sibling zebra repair repeat cluster";
+var mnemonic = "discover among fiber aim this jealous call miss hunt treat asset range";

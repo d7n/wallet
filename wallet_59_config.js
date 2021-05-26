@@ -1,1 +1,1 @@
-var mnemonic = "hammer master security admit limit shoulder pistol amused cart gaze genuine green";
+var mnemonic = "dog palace enable chat mass stool sand vintage kind toe across one";

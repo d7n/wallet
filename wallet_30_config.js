@@ -1,1 +1,1 @@
-var mnemonic = "magnet utility wage hidden mention debris north stamp method vanish crane now";
+var mnemonic = "stone home filter slice section near degree feature pink upset salt attend";

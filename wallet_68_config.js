@@ -1,1 +1,1 @@
-var mnemonic = "blossom gun yard tissue pear census final hat acoustic urban salad wall";
+var mnemonic = "cattle crunch adjust sister kingdom nominee spring legend blanket symptom strong comic";

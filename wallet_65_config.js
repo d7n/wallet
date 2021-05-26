@@ -1,1 +1,1 @@
-var mnemonic = "vault fox thunder monster alarm butter target curve holiday hold online south";
+var mnemonic = "price story burst master fly edit fiscal trust repeat clock announce gossip";

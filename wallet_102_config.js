@@ -1,1 +1,1 @@
-var mnemonic = "humor segment radar monitor opera ocean brand fold title credit bridge police";
+var mnemonic = "camera insect chest forward orphan ski noodle want owner bunker guide movie";

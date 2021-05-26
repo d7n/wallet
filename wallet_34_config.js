@@ -1,1 +1,1 @@
-var mnemonic = "conduct dolphin rural night wreck gaze monster lend around sense marble property";
+var mnemonic = "catalog matrix pause repeat captain frown logic work essay remind maximum rule";

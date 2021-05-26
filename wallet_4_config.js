@@ -1,1 +1,1 @@
-var mnemonic = "step salute rebel acid attack maximum bulb autumn know radar crisp current";
+var mnemonic = "salute escape view emotion intact install coach work actress asthma unusual fox";

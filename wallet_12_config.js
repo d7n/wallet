@@ -1,1 +1,1 @@
-var mnemonic = "guide faint try like plate goat nature turkey priority test rely castle";
+var mnemonic = "buddy fall this slogan possible analyst pen squirrel orbit club alley settle";

@@ -1,1 +1,1 @@
-var mnemonic = "street thunder happy law lend bus lucky usage iron paddle country sadness";
+var mnemonic = "receive luggage all disagree scheme bind believe simple color worth cheap salute";

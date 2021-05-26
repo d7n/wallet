@@ -1,1 +1,1 @@
-var mnemonic = "large rabbit second alcohol avocado noodle impulse plate genius fork stuff fuel";
+var mnemonic = "position honey large leisure sand mercy subject eagle just upgrade sister idle";

@@ -1,1 +1,1 @@
-var mnemonic = "frog verify wage dose attend maze fire avocado seminar very forward morning";
+var mnemonic = "top concert trip brother diagram transfer shuffle wise seed economy twist raccoon";

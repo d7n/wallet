@@ -1,1 +1,1 @@
-var mnemonic = "matrix oblige moon stuff rude attend barrel above clown ticket system flat";
+var mnemonic = "clay liquid profit journey worth tennis media awesome ensure inherit whip reform";

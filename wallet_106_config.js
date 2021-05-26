@@ -1,1 +1,1 @@
-var mnemonic = "quantum moral clock girl mystery ranch engage order green exile pipe stove";
+var mnemonic = "someone flavor erode one message knee pupil stadium venue guilt erode antenna";

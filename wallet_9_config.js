@@ -1,1 +1,1 @@
-var mnemonic = "limit dutch apology dutch flee hat fat bone leopard three riot hello";
+var mnemonic = "dynamic merge alien slam puppy special enlist convince bread matter chuckle index";

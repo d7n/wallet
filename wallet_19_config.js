@@ -1,1 +1,1 @@
-var mnemonic = "intact hole code simple diagram moment weather near collect spoon caught alpha";
+var mnemonic = "fall galaxy churn label save motion cannon ostrich carpet hospital cigar vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch borrow imitate scissors eagle slow brand yard sense consider wreck dose";
+var mnemonic = "fire hunt rule nasty blossom trigger neglect empower miracle flag balance quantum";

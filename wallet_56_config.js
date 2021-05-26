@@ -1,1 +1,1 @@
-var mnemonic = "hockey recipe sight mushroom slide intact urban butter tool gift welcome nominee";
+var mnemonic = "cabin flat flash word problem around sound myself stamp hire able foil";

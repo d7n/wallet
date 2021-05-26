@@ -1,1 +1,1 @@
-var mnemonic = "skill van point pet lion disagree lecture bullet where trap crumble embody";
+var mnemonic = "enemy easily happy cabbage cause museum scatter economy slim stereo snack enter";

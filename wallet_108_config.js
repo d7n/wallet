@@ -1,1 +1,1 @@
-var mnemonic = "atom cricket scrap shaft real sketch stove inject boring diagram donkey damage";
+var mnemonic = "mansion eternal liar enroll cereal explain organ report unveil guitar diesel excuse";

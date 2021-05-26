@@ -1,1 +1,1 @@
-var mnemonic = "pink rack seminar talent resource naive salt roof episode grid stay piece";
+var mnemonic = "document fetch marine bright robust during trade tray aisle salon wedding element";

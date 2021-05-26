@@ -1,1 +1,1 @@
-var mnemonic = "ice vital clerk fall response alcohol distance convince sing else hello quantum";
+var mnemonic = "pluck rare goat accuse marriage tail ten useless theory atom panic pretty";

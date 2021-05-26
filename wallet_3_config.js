@@ -1,1 +1,1 @@
-var mnemonic = "hen face emotion fog vital scissors excite salmon aware taxi collect dune";
+var mnemonic = "feel outdoor repeat above food adapt sense cheese myth plastic monster zone";

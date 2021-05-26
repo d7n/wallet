@@ -1,1 +1,1 @@
-var mnemonic = "evolve good vicious rent network suggest science section island cigar canal kite";
+var mnemonic = "flee web prevent client gift warfare retire tourist swift vibrant arrest issue";

@@ -1,1 +1,1 @@
-var mnemonic = "orange cream mutual snap rigid become awake service shift pulp height inside";
+var mnemonic = "reform gaze stable output notice nation certain cheap sail craft write frown";

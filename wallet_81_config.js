@@ -1,1 +1,1 @@
-var mnemonic = "special smile about elephant repair bridge bar egg private century wasp mushroom";
+var mnemonic = "lesson use night distance wheel diamond become like metal quote duty rocket";

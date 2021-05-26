@@ -1,1 +1,1 @@
-var mnemonic = "life viable fold spider quick frequent seek boost foil erase mass regret";
+var mnemonic = "kingdom claim body term matter dream output margin juice depart case draw";

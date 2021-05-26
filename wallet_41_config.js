@@ -1,1 +1,1 @@
-var mnemonic = "donor wife client ranch scissors inch venue replace fox soon federal render";
+var mnemonic = "group fiction adult egg amateur slide hurt square evidence mind tired minor";

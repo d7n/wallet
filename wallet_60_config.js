@@ -1,1 +1,1 @@
-var mnemonic = "easily manual razor ceiling act kiss board coconut direct sphere marble spare";
+var mnemonic = "easily sword federal comfort yellow produce spatial mistake approve hand pond skill";

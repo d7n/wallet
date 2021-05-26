@@ -1,1 +1,1 @@
-var mnemonic = "fever maple report digital whale force ahead vital wisdom couple sand abuse";
+var mnemonic = "imitate document split surface vacuum put suspect health ahead liquid swift put";

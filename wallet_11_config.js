@@ -1,1 +1,1 @@
-var mnemonic = "unit cream sail wife depart regret domain analyst share engage giraffe century";
+var mnemonic = "acid clever ketchup child object curtain detail clump actual garment avoid tattoo";

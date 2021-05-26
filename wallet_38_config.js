@@ -1,1 +1,1 @@
-var mnemonic = "youth extra select spend volume picnic another kit cage silk section direct";
+var mnemonic = "seek amazing sustain motor liar burger diet impose bind scorpion broccoli bracket";

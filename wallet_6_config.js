@@ -1,1 +1,1 @@
-var mnemonic = "agent blanket exhaust sport awkward earth immune rotate morning rare first lion";
+var mnemonic = "teach visual illness fluid case search shiver link warrior team slice dinner";

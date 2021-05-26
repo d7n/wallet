@@ -1,1 +1,1 @@
-var mnemonic = "name smooth indicate problem oil room panic twist table robust cake banner";
+var mnemonic = "art notice fee eager milk energy develop bar mix voice clerk staff";

@@ -1,1 +1,1 @@
-var mnemonic = "any tongue tattoo palm dilemma allow charge rain tortoise song series scheme";
+var mnemonic = "fuel cook weather panel absent hurdle scene ahead radar gun exhibit goat";

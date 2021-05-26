@@ -1,1 +1,1 @@
-var mnemonic = "fun turtle comic ahead acid enemy moral flower alien dizzy cactus dry";
+var mnemonic = "moral potato allow wing inner pottery draw jaguar lobster thought salon jazz";

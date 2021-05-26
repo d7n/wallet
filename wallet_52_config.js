@@ -1,1 +1,1 @@
-var mnemonic = "endless flat grace honey slam harsh possible sword cook tone suit pottery";
+var mnemonic = "remove maple certain ocean inside approve leg puppy supreme nest lend truly";

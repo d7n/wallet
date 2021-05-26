@@ -1,1 +1,1 @@
-var mnemonic = "gauge mandate clock embody nose maid fade nut divorce source dream wish";
+var mnemonic = "use salmon sure erupt excess post impose clever must asset sentence cradle";

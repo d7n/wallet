@@ -1,1 +1,1 @@
-var mnemonic = "false medal squeeze pencil miss scatter coral budget cement venue tide hat";
+var mnemonic = "merry cruel solid hill outdoor marine typical describe adult odor brown trash";

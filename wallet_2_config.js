@@ -1,1 +1,1 @@
-var mnemonic = "because alley cart govern tone divide snack check lesson trial huge bounce";
+var mnemonic = "improve treat clever sport visit between oil tourist orient security hedgehog mechanic";

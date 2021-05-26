@@ -1,1 +1,1 @@
-var mnemonic = "rough clap congress afraid vote marble income town squirrel fatal zone letter";
+var mnemonic = "inspire roof rate panic lesson spin kite wave wheat push toddler differ";
