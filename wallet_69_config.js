@@ -1,1 +1,1 @@
-var mnemonic = "gas tag jacket live soft dynamic explain rookie tongue educate ethics much";
+var mnemonic = "amateur thank scissors nominee protect shoe select nothing mobile sting seed shine";

@@ -1,1 +1,1 @@
-var mnemonic = "property puzzle blouse clap old invite disagree night game sauce toy safe";
+var mnemonic = "green biology erupt six rally grant remember double confirm team slogan suspect";

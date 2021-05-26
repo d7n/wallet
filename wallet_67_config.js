@@ -1,1 +1,1 @@
-var mnemonic = "actual message afford nest armed stem gasp fee unfair bulk gasp cable";
+var mnemonic = "result timber twenty lawn enroll sibling hotel program fit tornado tide trumpet";

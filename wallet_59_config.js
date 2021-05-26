@@ -1,1 +1,1 @@
-var mnemonic = "vessel before pony skill problem double grunt exchange pudding asset juice dose";
+var mnemonic = "ocean cube repeat snake atom soup trial ivory diamond blossom wood hybrid";

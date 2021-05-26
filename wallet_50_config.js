@@ -1,1 +1,1 @@
-var mnemonic = "impose tape city worry auction middle tackle caution sibling shop icon bulb";
+var mnemonic = "boss harsh sport miss addict pave bonus exclude burger return coral credit";

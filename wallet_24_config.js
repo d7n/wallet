@@ -1,1 +1,1 @@
-var mnemonic = "lab control alley friend hybrid stadium butter attack column glory index arctic";
+var mnemonic = "belt drum drill hair mesh act debris cruel sunny sister coast make";

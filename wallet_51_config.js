@@ -1,1 +1,1 @@
-var mnemonic = "economy saddle drum method bracket bitter odor test two ordinary barely radio";
+var mnemonic = "coconut spatial asset foam wife misery december family banana sunny vague evolve";

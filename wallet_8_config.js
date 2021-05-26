@@ -1,1 +1,1 @@
-var mnemonic = "coast uncle vanish category identify march action daughter razor auto melt ice";
+var mnemonic = "jazz curious crucial nuclear analyst tooth job secret patient wrong hold biology";

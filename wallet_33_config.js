@@ -1,1 +1,1 @@
-var mnemonic = "immense party talk cricket race wrist bullet ketchup trim exclude title sibling";
+var mnemonic = "snow album square embrace artwork escape beef quote help impulse glad exit";

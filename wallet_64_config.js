@@ -1,1 +1,1 @@
-var mnemonic = "change pulse popular enter curve foil medal talent shadow jar mirror first";
+var mnemonic = "example alter add stereo lucky wink invite sadness elevator credit example drip";

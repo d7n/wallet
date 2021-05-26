@@ -1,1 +1,1 @@
-var mnemonic = "cruise gentle mixture dress mask shell salt noise weekend cable hollow boy";
+var mnemonic = "dry nephew combine student slush cradle cradle jewel gorilla scan logic debris";

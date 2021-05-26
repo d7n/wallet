@@ -1,1 +1,1 @@
-var mnemonic = "bachelor thunder divorce taste fashion salt soon debris vacuum drum nasty bind";
+var mnemonic = "lend stuff home what settle saddle ripple battle spoon zero silk fun";

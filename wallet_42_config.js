@@ -1,1 +1,1 @@
-var mnemonic = "spot security night announce uncover quote prepare close suffer knock rail bid";
+var mnemonic = "glue wolf oppose opinion unhappy angle cannon portion bracket noise dolphin duty";

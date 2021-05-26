@@ -1,1 +1,1 @@
-var mnemonic = "web crumble chat never tunnel find physical tuna spoil duck pole warrior";
+var mnemonic = "wear devote latin replace object glow gorilla useful kiwi jewel pig memory";

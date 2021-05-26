@@ -1,1 +1,1 @@
-var mnemonic = "can fox simple elevator soccer desert message situate film nothing stay lesson";
+var mnemonic = "journey sunny deposit viable mistake wide fiction bulk enlist coin lazy nasty";

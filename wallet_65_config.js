@@ -1,1 +1,1 @@
-var mnemonic = "piece shiver gift canoe reduce rather canyon abuse sudden harvest midnight fuel";
+var mnemonic = "moon rebuild extend genius just toss emotion silly civil liquid drum peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare squirrel pact ranch ensure false primary suggest real cheese exact mention";
+var mnemonic = "dismiss neither border vault candy address soda cover pizza matter never pass";

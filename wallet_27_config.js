@@ -1,1 +1,1 @@
-var mnemonic = "sphere dial test thought romance picnic clump casino pet awesome brand lock";
+var mnemonic = "raw middle damp property nerve castle affair harvest evolve advance enough burger";

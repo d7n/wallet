@@ -1,1 +1,1 @@
-var mnemonic = "market busy accident write thought arrive silly rigid winner proud net organ";
+var mnemonic = "music attend space fog beyond shadow pottery injury debate extra tribe put";

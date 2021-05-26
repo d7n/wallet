@@ -1,1 +1,1 @@
-var mnemonic = "tribe claw display bleak uncle adjust salt pear face hollow virus credit";
+var mnemonic = "degree fancy banana tomato open edge worth aisle student cat album donor";

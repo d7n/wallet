@@ -1,1 +1,1 @@
-var mnemonic = "hope napkin morning fantasy angry shy off album fury people nation mom";
+var mnemonic = "dirt enter truly ozone protect render forward omit market slam surface hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "delay talk double milk mixed million buffalo banana symbol main together mandate";
+var mnemonic = "motion either suffer fish climb dumb where tired aerobic love prize old";

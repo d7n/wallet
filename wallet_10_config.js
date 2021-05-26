@@ -1,1 +1,1 @@
-var mnemonic = "educate supply valley outdoor clay solar glad design build talent metal waste";
+var mnemonic = "side decide bacon industry child empower ramp nest old fat path flight";

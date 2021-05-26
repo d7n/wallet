@@ -1,1 +1,1 @@
-var mnemonic = "disorder youth drama sock movie concert piano frame laugh badge wide open";
+var mnemonic = "dream later mask pigeon ill dawn cry kangaroo eyebrow casual weird prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon giggle shine afford kitchen hybrid action spot oppose embark squirrel evidence";
+var mnemonic = "crack narrow mango title stock jeans trophy wire trust long next museum";

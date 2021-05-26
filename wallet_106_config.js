@@ -1,1 +1,1 @@
-var mnemonic = "neck endorse hold sample lawsuit number tobacco include bean earn salon fluid";
+var mnemonic = "slide negative west innocent lake ask road gorilla come banner border symbol";

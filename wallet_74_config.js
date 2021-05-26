@@ -1,1 +1,1 @@
-var mnemonic = "lonely flock insane celery flag winner silk foster interest wheel fun kite";
+var mnemonic = "matter across unfair donate physical opinion emotion enact cinnamon display believe pilot";

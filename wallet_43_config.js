@@ -1,1 +1,1 @@
-var mnemonic = "void awake coach scorpion stuff enforce ship asset wait raven rocket ride";
+var mnemonic = "code behind panel endorse twin tell artwork indoor marriage six pudding remain";

@@ -1,1 +1,1 @@
-var mnemonic = "clap flavor sure resemble cigar behind dumb force mixture arrest laugh wait";
+var mnemonic = "powder uncle real final pave glare bargain cage slab venture elite era";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty dynamic wisdom river atom net garage globe donor wolf feature slam";
+var mnemonic = "address dirt door filter alcohol total mom agent puppy organ giraffe salad";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket sustain error athlete cactus panic stable cheap armed grain sphere tip";
+var mnemonic = "price vessel length grab leave slush answer coyote wide struggle tag rifle";

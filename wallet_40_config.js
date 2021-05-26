@@ -1,1 +1,1 @@
-var mnemonic = "trash symbol absent cook abstract grief grass enhance option yellow envelope social";
+var mnemonic = "find wet below shield hat mixture tiger core unable vault win unfold";

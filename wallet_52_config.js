@@ -1,1 +1,1 @@
-var mnemonic = "garment file attend current unlock strike build dinner scan mind weapon kiwi";
+var mnemonic = "busy hungry host lens arctic bid arrow control orbit domain effort pledge";

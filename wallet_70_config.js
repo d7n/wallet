@@ -1,1 +1,1 @@
-var mnemonic = "track forward excite team dove guard grain weather exercise firm boat release";
+var mnemonic = "blue ostrich science kingdom replace square review pigeon sniff sunset sadness tonight";

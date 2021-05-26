@@ -1,1 +1,1 @@
-var mnemonic = "fix bubble black return provide say ring tower index bench bleak avocado";
+var mnemonic = "time debris aim invite pilot faith original defy success fashion town diamond";

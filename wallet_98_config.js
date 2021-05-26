@@ -1,1 +1,1 @@
-var mnemonic = "social pistol kitchen draw deliver stable oak quality decline volcano hammer attack";
+var mnemonic = "wagon spring pill exact monitor cabbage decrease oak ready hurry habit resemble";

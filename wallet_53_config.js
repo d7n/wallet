@@ -1,1 +1,1 @@
-var mnemonic = "art sun knock regular list gauge crop flee sphere glimpse cancel decorate";
+var mnemonic = "autumn cheap real liberty funny hammer column diet car coast review walk";

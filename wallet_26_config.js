@@ -1,1 +1,1 @@
-var mnemonic = "wash midnight ill gold menu couple chalk absurd term original token erode";
+var mnemonic = "bicycle obey melt fruit derive practice tide mention list base blast emerge";

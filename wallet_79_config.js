@@ -1,1 +1,1 @@
-var mnemonic = "unhappy lazy chimney april credit creek farm ride portion cloud laugh target";
+var mnemonic = "gravity twice antenna candy about census rent throw distance horn cost original";

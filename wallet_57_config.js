@@ -1,1 +1,1 @@
-var mnemonic = "mercy eight raw opinion patient lion quit cattle goddess general fish absurd";
+var mnemonic = "glove fragile flame asthma use symbol cost shoulder tomato short strike divert";

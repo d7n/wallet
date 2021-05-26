@@ -1,1 +1,1 @@
-var mnemonic = "upgrade inhale awake anxiety often head drop spy lady essence kangaroo kiss";
+var mnemonic = "hurdle unit stand trumpet tank swing pig ride depart dune obey time";

@@ -1,1 +1,1 @@
-var mnemonic = "little bring undo sorry hockey obscure summer differ winner skill legend illegal";
+var mnemonic = "cash sentence mother hobby swamp corn emerge connect dog film angry strike";

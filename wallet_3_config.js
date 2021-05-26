@@ -1,1 +1,1 @@
-var mnemonic = "assist suit recycle prize cactus venue call tongue rubber trouble shadow uphold";
+var mnemonic = "unique wage scout input width cause sphere gaze cereal sense faculty lend";

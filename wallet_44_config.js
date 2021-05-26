@@ -1,1 +1,1 @@
-var mnemonic = "mosquito aware oak profit collect little work canal before cloud sweet ethics";
+var mnemonic = "weird under leaf brush casino furnace profit dentist barrel use this truck";

@@ -1,1 +1,1 @@
-var mnemonic = "tag tourist crouch try minimum dust sort seek pigeon sphere hub narrow";
+var mnemonic = "involve pony cram license fossil guide scrub talk punch citizen hotel floor";

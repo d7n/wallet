@@ -1,1 +1,1 @@
-var mnemonic = "valve way agent fury dinosaur upper obscure usage music beach planet notable";
+var mnemonic = "coral bounce exact panic approve skill sausage roof fox poet rate spread";

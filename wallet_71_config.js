@@ -1,1 +1,1 @@
-var mnemonic = "crisp quit tank knee remove lizard slim super jealous please tobacco unable";
+var mnemonic = "dish winter kitten siren disagree february genius census toilet anchor glass brief";

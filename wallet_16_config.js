@@ -1,1 +1,1 @@
-var mnemonic = "action long neglect tone invite three promote dwarf left execute scare travel";
+var mnemonic = "hockey priority accuse page dirt reform olive wool clap galaxy vivid session";

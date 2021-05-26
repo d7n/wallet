@@ -1,1 +1,1 @@
-var mnemonic = "curious abandon click favorite slab poverty letter puzzle trim advance horror deal";
+var mnemonic = "entry garment fox cigar escape lesson scale curious jelly notice resource castle";

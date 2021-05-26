@@ -1,1 +1,1 @@
-var mnemonic = "festival online opinion abuse layer asset engage sign panic unaware next come";
+var mnemonic = "expose stairs pause palace trumpet worth behind success ship lunar million crouch";

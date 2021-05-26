@@ -1,1 +1,1 @@
-var mnemonic = "adjust course liquid waste name casino humor agent club layer diamond turkey";
+var mnemonic = "inquiry book useful blue outer juice crew spare list supply lunch grab";

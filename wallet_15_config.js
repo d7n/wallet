@@ -1,1 +1,1 @@
-var mnemonic = "tent toss river cannon ribbon stomach ocean surge disorder journey drift future";
+var mnemonic = "cluster donkey aware federal hollow expand vacuum silent gas mistake prepare message";

@@ -1,1 +1,1 @@
-var mnemonic = "glue route air normal client journey rice two pet option mosquito movie";
+var mnemonic = "worth three meadow bomb turn unaware view moral same grape stove topic";

@@ -1,1 +1,1 @@
-var mnemonic = "rib goddess dove basic wink cat maximum steak able spike upset umbrella";
+var mnemonic = "journey measure choice limb virus mango network tray kite dynamic mushroom panda";

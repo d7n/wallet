@@ -1,1 +1,1 @@
-var mnemonic = "double secret apart frown share settle wool must erosion sight you combine";
+var mnemonic = "else artefact seminar sketch tiny life private wool buyer talent whisper clay";

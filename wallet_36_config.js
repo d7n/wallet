@@ -1,1 +1,1 @@
-var mnemonic = "slight potato hobby baby excite task episode cheese much sing page drama";
+var mnemonic = "fit burden doctor face later next cool wrist exhaust glare deposit inch";

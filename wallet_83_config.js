@@ -1,1 +1,1 @@
-var mnemonic = "scheme sport ensure word fever cage section repeat tortoise draft doctor monster";
+var mnemonic = "balance detail slush truck regular element hobby sport catch mechanic tower concert";

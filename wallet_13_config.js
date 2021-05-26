@@ -1,1 +1,1 @@
-var mnemonic = "tiger they more drink purchase habit topic gossip intact just palm cherry";
+var mnemonic = "access allow toast original glad oil wine prevent element orphan hobby prefer";

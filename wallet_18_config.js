@@ -1,1 +1,1 @@
-var mnemonic = "balcony anxiety apple raven prosper solution hope shield error lunar vintage cereal";
+var mnemonic = "cattle pottery unit company number jacket large gasp fish magic close income";

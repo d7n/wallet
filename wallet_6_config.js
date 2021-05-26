@@ -1,1 +1,1 @@
-var mnemonic = "swing unhappy brisk rookie human ignore connect olive screen library tent parent";
+var mnemonic = "spin park spare raise yard knife perfect cycle stable drastic trigger soda";

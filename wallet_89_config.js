@@ -1,1 +1,1 @@
-var mnemonic = "soldier glare rely eye any grow chase ticket sun faint brave park";
+var mnemonic = "find unique offer drink school globe neck coast ill walk ready organ";

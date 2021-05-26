@@ -1,1 +1,1 @@
-var mnemonic = "bonus pencil term snap green track upgrade siren frost stable guide bitter";
+var mnemonic = "destroy slam thunder mystery regret dash caught wrong tooth round human lift";

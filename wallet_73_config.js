@@ -1,1 +1,1 @@
-var mnemonic = "seed rhythm round find craft final anxiety typical disagree eyebrow boost crane";
+var mnemonic = "boat black glide merry donate fever priority virus inside size salute door";

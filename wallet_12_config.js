@@ -1,1 +1,1 @@
-var mnemonic = "couple bundle curtain gasp twice boring essay funny sudden predict jealous island";
+var mnemonic = "churn reject patch skull comic dust weekend label grace edit sad detail";

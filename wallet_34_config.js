@@ -1,1 +1,1 @@
-var mnemonic = "glue peanut season retire very dilemma rare patch dinner ritual cactus pattern";
+var mnemonic = "amateur noise maximum tobacco latin course machine spring ticket cereal toddler update";

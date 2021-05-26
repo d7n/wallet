@@ -1,1 +1,1 @@
-var mnemonic = "little prepare alarm buffalo public nuclear pelican scorpion verb craft kidney copy";
+var mnemonic = "north quit border way wet bounce offer aisle town tuition else great";

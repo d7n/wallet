@@ -1,1 +1,1 @@
-var mnemonic = "fog elite upper tag crack chuckle derive hammer material popular impulse sorry";
+var mnemonic = "win change unique sister someone crew spice very nephew call detail alter";

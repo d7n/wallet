@@ -1,1 +1,1 @@
-var mnemonic = "boss process combine drum one pluck lens begin merge uncle grow buzz";
+var mnemonic = "dust marine shuffle hollow supply purpose stove empty frozen noise lens cross";

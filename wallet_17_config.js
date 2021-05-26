@@ -1,1 +1,1 @@
-var mnemonic = "million portion hint decrease bracket beach size blush short treat pepper envelope";
+var mnemonic = "remove utility parade over sell fun immune fish foam swift other beyond";

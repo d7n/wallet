@@ -1,1 +1,1 @@
-var mnemonic = "ramp ethics blade saddle size below pet flush broccoli plate pizza host";
+var mnemonic = "electric earn supply kiss blast note actress august where flip jealous yellow";

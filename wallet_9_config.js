@@ -1,1 +1,1 @@
-var mnemonic = "universe sure tired asset click avoid champion indicate lucky link crime giraffe";
+var mnemonic = "because increase surface famous ready private usual garbage thumb eternal main address";

@@ -1,1 +1,1 @@
-var mnemonic = "point best slab mesh friend there chimney clinic open eyebrow chalk stem";
+var mnemonic = "icon tray harvest vintage skill harvest tissue topple impose mule hobby edge";

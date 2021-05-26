@@ -1,1 +1,1 @@
-var mnemonic = "agree sustain august pulp danger sock account youth stay pigeon mosquito empty";
+var mnemonic = "orchard vital scissors tattoo fiction victory denial useless twelve mirror harvest ripple";

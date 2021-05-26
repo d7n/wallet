@@ -1,1 +1,1 @@
-var mnemonic = "stomach rhythm age romance vivid buddy ginger boy almost teach dizzy response";
+var mnemonic = "ability consider enact coffee chicken one own shine bachelor sample liquid hat";

@@ -1,1 +1,1 @@
-var mnemonic = "check region smile trip game giant primary detect demand scorpion host select";
+var mnemonic = "describe upgrade fire park pony prefer snow unusual circle protect kiss patient";

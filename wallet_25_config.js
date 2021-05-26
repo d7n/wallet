@@ -1,1 +1,1 @@
-var mnemonic = "broom recall inflict release machine energy champion gather forum erode festival ankle";
+var mnemonic = "define lesson city voice sword border legend race wet prevent duck speed";

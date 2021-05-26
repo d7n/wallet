@@ -1,1 +1,1 @@
-var mnemonic = "buzz notable void town room absurd inch alert digital mention body notable";
+var mnemonic = "shine police true sell crime exclude grape velvet screen private claw loud";

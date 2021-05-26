@@ -1,1 +1,1 @@
-var mnemonic = "minor flush public moment muffin happy pudding melody genuine supply hover twelve";
+var mnemonic = "sugar cloud trophy wisdom can empower laptop much welcome balcony minor write";

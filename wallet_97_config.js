@@ -1,1 +1,1 @@
-var mnemonic = "obey puzzle antenna current aunt melt strong language purpose memory cheese lock";
+var mnemonic = "exclude leaf modify illness canvas ceiling proof bicycle green million involve notable";

@@ -1,1 +1,1 @@
-var mnemonic = "beach civil cream before reflect decade soap monster glow never quantum arena";
+var mnemonic = "aisle bargain bronze main hub valid hard athlete embody achieve sting scene";

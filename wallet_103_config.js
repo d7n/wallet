@@ -1,1 +1,1 @@
-var mnemonic = "drill adult pave napkin kiwi walk rail thought praise lesson bomb gauge";
+var mnemonic = "pepper gold whip double uncover vapor manual member method above glory fruit";

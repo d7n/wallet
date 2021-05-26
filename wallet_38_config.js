@@ -1,1 +1,1 @@
-var mnemonic = "endorse doctor swear doctor token fuel chair dance void busy senior mother";
+var mnemonic = "lady solution people toe album panda devote physical digital floor seed shove";

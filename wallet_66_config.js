@@ -1,1 +1,1 @@
-var mnemonic = "denial slush series fault expect glue maple pioneer vacuum orbit squirrel fortune";
+var mnemonic = "garment play spice type burst tuna guitar symbol turkey save tornado inch";

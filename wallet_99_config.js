@@ -1,1 +1,1 @@
-var mnemonic = "sick dilemma divert atom soccer close hen local effort expire stable fatigue";
+var mnemonic = "general happy occur pool symptom piano noodle assault blossom firm trigger recycle";

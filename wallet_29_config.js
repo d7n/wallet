@@ -1,1 +1,1 @@
-var mnemonic = "visual manual coast need alarm orphan rice stock idle alien unknown faith";
+var mnemonic = "comic sauce blind salmon fiscal antique iron swap horn scrap exotic kiwi";

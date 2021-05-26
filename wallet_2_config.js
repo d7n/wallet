@@ -1,1 +1,1 @@
-var mnemonic = "scan settle country expect eye silly oval excess tail moral crowd art";
+var mnemonic = "estate guitar plastic bind scene avoid young donate way hawk tourist antique";

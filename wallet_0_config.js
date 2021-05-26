@@ -1,1 +1,1 @@
-var mnemonic = "river victory govern crop setup popular crew relax evidence layer bounce hobby";
+var mnemonic = "unique first remember teach space high three clay crystal chief clock cabin";

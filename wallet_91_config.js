@@ -1,1 +1,1 @@
-var mnemonic = "kiss explain approve salad grab become goddess shell another cost funny forward";
+var mnemonic = "mammal summer unusual blossom decide umbrella weather student aisle answer carpet exist";

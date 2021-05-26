@@ -1,1 +1,1 @@
-var mnemonic = "hockey connect either attitude cherry busy isolate entry reject sniff split shallow";
+var mnemonic = "usual lab glad jewel hidden cage harvest balance nation humor bitter region";

@@ -1,1 +1,1 @@
-var mnemonic = "catch seven inside flip sure dice upper surprise beach green east impose";
+var mnemonic = "chimney path act fit spatial such ranch helmet have success usage fortune";
