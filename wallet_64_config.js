@@ -1,1 +1,1 @@
-var mnemonic = "exhibit gather debris initial human miracle exile badge candy hope fetch wolf";
+var mnemonic = "gorilla often empty solid upper burden glance clown toe capital suggest avocado";

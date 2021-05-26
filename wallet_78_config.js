@@ -1,1 +1,1 @@
-var mnemonic = "rude stomach rapid guard bundle monster cost flock almost owner apart expose";
+var mnemonic = "cradle alarm cat negative social sausage humble october horn skill clerk pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "album raise tissue jacket uncle place airport render sunset winter color pelican";
+var mnemonic = "random virus banana idle truly dragon remove image mutual prevent toward nuclear";

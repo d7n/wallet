@@ -1,1 +1,1 @@
-var mnemonic = "better rich side beauty daughter pulp monkey ocean wash bulk brave blood";
+var mnemonic = "swarm organ bundle bachelor design wasp cheese cycle puppy warrior describe produce";

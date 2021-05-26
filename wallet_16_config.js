@@ -1,1 +1,1 @@
-var mnemonic = "same small time inherit acoustic blush dragon dance save duty minute wise";
+var mnemonic = "sand gather border monster mouse noble parrot burger love salt merry coin";

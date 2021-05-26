@@ -1,1 +1,1 @@
-var mnemonic = "jewel rare engine scheme trick desk license weather judge super report universe";
+var mnemonic = "online garbage goat brown moment resource giraffe diet device argue minor whisper";

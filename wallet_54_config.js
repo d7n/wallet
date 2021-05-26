@@ -1,1 +1,1 @@
-var mnemonic = "will girl wild poem garage sunset cousin opinion choice erode frog trash";
+var mnemonic = "inhale replace virtual alley essence seed decorate sword weather phone ten unaware";

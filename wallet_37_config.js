@@ -1,1 +1,1 @@
-var mnemonic = "impose swift negative exclude color any luxury pole profit flat aware parent";
+var mnemonic = "nation scout hope exit fold hundred avocado salad pilot spell test pear";

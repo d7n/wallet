@@ -1,1 +1,1 @@
-var mnemonic = "item blur keep taste romance kitten speed evidence bronze resemble captain clump";
+var mnemonic = "tongue deposit draw sheriff midnight opera kid weekend radar very creek stand";

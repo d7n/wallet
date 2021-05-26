@@ -1,1 +1,1 @@
-var mnemonic = "coconut melt emotion conduct goat discover entire parrot prosper slight match repeat";
+var mnemonic = "multiply slush main roof announce cute regular all credit hole stomach behave";

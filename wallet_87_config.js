@@ -1,1 +1,1 @@
-var mnemonic = "night swap option under decrease rich icon fee ceiling target hotel buzz";
+var mnemonic = "dizzy trophy festival step fork certain rigid aspect allow unfair hidden derive";

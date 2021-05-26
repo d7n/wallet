@@ -1,1 +1,1 @@
-var mnemonic = "year hole dad squirrel put pitch inhale demand follow since sustain thrive";
+var mnemonic = "pair lounge lobster emerge country faculty tunnel shy rug laugh notable tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "fish skull you decade melt evolve cycle road first visa portion rate";
+var mnemonic = "damp siege surface lend link shallow dolphin tail unveil erosion wool salad";

@@ -1,1 +1,1 @@
-var mnemonic = "job canvas problem oval quantum repeat describe sign rib tower behave swift";
+var mnemonic = "park cereal surprise useless rent gallery decade shed diagram area symbol push";

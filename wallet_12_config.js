@@ -1,1 +1,1 @@
-var mnemonic = "two sting junk suggest middle ginger sense amount bracket bicycle gold citizen";
+var mnemonic = "casual range window girl seat again pink deer material update approve feed";

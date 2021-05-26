@@ -1,1 +1,1 @@
-var mnemonic = "because mind depend blade brush differ orchard edge tenant light much ribbon";
+var mnemonic = "inflict panel speak order obtain trend tobacco enjoy hover kind fit suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "feel you whale excite salad another family super bunker maze thrive reform";
+var mnemonic = "vanish initial garment cotton lunch because garbage please exit bridge virtual ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "possible claim unknown jealous oxygen couch gauge equal invite ozone virtual side";
+var mnemonic = "fade dilemma impulse flock benefit provide hood sun ripple kind version hard";

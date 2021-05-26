@@ -1,1 +1,1 @@
-var mnemonic = "gauge use salad awkward link galaxy grocery remain wreck middle salt spice";
+var mnemonic = "crew brisk gate primary spatial net case ridge amount wisdom carbon logic";

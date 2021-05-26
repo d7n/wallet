@@ -1,1 +1,1 @@
-var mnemonic = "sphere spare wish disorder elite welcome long job laundry jealous easily current";
+var mnemonic = "scrap faculty smile eye deposit kingdom strike connect verify dignity under wait";

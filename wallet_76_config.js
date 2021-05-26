@@ -1,1 +1,1 @@
-var mnemonic = "mother runway dolphin orbit maximum help sunset need convince cruel truly rather";
+var mnemonic = "reflect session dress option raise cabin process hat wagon chief confirm stick";

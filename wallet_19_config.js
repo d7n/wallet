@@ -1,1 +1,1 @@
-var mnemonic = "baby absurd lady valley push spoon margin jewel dry cousin together bulb";
+var mnemonic = "winner wise hammer duty rich video nose cradle verb six sting spoon";

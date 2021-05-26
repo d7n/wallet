@@ -1,1 +1,1 @@
-var mnemonic = "abstract fever faculty match steel recipe slender inhale feature print float club";
+var mnemonic = "admit mom private blind wrap yellow benefit win check theme under erase";

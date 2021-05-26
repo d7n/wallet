@@ -1,1 +1,1 @@
-var mnemonic = "foster sleep music sword lava merry badge run slice hammer violin couch";
+var mnemonic = "bitter medal any damage rude above wreck tonight inflict tell hero soap";

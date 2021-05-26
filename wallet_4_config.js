@@ -1,1 +1,1 @@
-var mnemonic = "bench ladder urge extra drill decorate harvest dry phrase whip pilot clerk";
+var mnemonic = "chalk speak neglect clock boy hockey kind attend worry sunset canoe twenty";

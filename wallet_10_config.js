@@ -1,1 +1,1 @@
-var mnemonic = "like enrich humble symptom garlic flavor universe strategy husband clever spot magic";
+var mnemonic = "silly educate you plate glory bench excess health sweet photo seminar rice";

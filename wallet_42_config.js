@@ -1,1 +1,1 @@
-var mnemonic = "father chimney helmet face history flip orchard pluck edit strong salmon year";
+var mnemonic = "lizard humor result settle sun around fashion song payment devote wish shrimp";

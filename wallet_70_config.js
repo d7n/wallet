@@ -1,1 +1,1 @@
-var mnemonic = "remove oak kid trial social ignore you donate flag humble world solve";
+var mnemonic = "extend attend mask mountain era bounce rabbit return promote admit fatigue soft";

@@ -1,1 +1,1 @@
-var mnemonic = "become scorpion smile volume warfare orient anger force country garlic abuse benefit";
+var mnemonic = "inner crane okay stove spirit skirt fence curious drama alter jump forest";

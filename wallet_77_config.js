@@ -1,1 +1,1 @@
-var mnemonic = "refuse cricket panda speak once myself sustain fluid derive phrase spider apple";
+var mnemonic = "fatigue zebra eyebrow length paper judge real never congress worry eager crucial";

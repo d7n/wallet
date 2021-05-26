@@ -1,1 +1,1 @@
-var mnemonic = "scissors riot actor duck surface shy suffer good subway humble letter harvest";
+var mnemonic = "suffer shrug erase fan arctic diagram void identify kingdom carpet loud harbor";

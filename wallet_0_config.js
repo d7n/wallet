@@ -1,1 +1,1 @@
-var mnemonic = "two aware inflict relax raven pretty bike typical sick above almost view";
+var mnemonic = "vital leopard august laugh hammer struggle model tank supreme firm casual hour";

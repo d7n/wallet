@@ -1,1 +1,1 @@
-var mnemonic = "play need claim option eyebrow proud timber manual amazing opera hazard situate";
+var mnemonic = "legend ecology orbit easy glue extend truly inhale verify test cement tail";

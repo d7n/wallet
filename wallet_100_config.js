@@ -1,1 +1,1 @@
-var mnemonic = "sausage diesel west hub news pony add memory grunt phrase result lyrics";
+var mnemonic = "off satisfy neutral shadow loop people oppose term post pulse leg play";

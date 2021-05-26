@@ -1,1 +1,1 @@
-var mnemonic = "cement reward sustain obvious gain dizzy into despair inherit cannon exhaust hollow";
+var mnemonic = "bus chaos unknown marriage enlist index person wrestle city auction carpet soup";

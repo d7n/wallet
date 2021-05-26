@@ -1,1 +1,1 @@
-var mnemonic = "merry mistake mountain enough first swamp crucial note physical absent cave sleep";
+var mnemonic = "rude suffer true cute ensure radio audit taste hunt disorder draw junk";

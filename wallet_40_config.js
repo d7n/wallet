@@ -1,1 +1,1 @@
-var mnemonic = "zone evolve motion royal divert system immune chaos circle broken dad load";
+var mnemonic = "typical busy empower soldier absent dynamic chaos gadget ice service web crack";

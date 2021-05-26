@@ -1,1 +1,1 @@
-var mnemonic = "fetch room choose flag summer excite window used dragon theme zoo garage";
+var mnemonic = "unveil slide lion face tent salt sauce expect mail bubble link hover";

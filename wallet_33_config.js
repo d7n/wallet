@@ -1,1 +1,1 @@
-var mnemonic = "capable mixed tired medal voice theory key grid slab poem trade gym";
+var mnemonic = "glad gorilla shrug alarm hospital nerve gate above creek sugar rice absent";

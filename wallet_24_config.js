@@ -1,1 +1,1 @@
-var mnemonic = "chef maze tray witness obey relief reason live heavy dial drill hard";
+var mnemonic = "model crunch local review output clay execute evoke napkin source office garage";

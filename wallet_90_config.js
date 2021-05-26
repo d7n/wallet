@@ -1,1 +1,1 @@
-var mnemonic = "crack size moon system secret pipe tree slush fiber ladder basic maid";
+var mnemonic = "festival element minor fox already slight current turtle benefit lazy live desk";

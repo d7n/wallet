@@ -1,1 +1,1 @@
-var mnemonic = "unlock system praise distance gallery mention typical afford camp hobby insane design";
+var mnemonic = "next involve kingdom cloth anxiety second vivid want ticket among tool aunt";

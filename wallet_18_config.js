@@ -1,1 +1,1 @@
-var mnemonic = "bounce flower report clown pepper salute cigar credit riot trigger gun strike";
+var mnemonic = "this blue dove blur ski guard tissue december distance hazard room brick";

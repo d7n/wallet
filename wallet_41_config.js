@@ -1,1 +1,1 @@
-var mnemonic = "bus fence outdoor public climb cluster payment broom ancient dream problem over";
+var mnemonic = "stay clump decide bicycle casual siren depth segment glance regular neglect payment";

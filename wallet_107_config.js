@@ -1,1 +1,1 @@
-var mnemonic = "rebuild gift supreme mosquito inmate fine cover text reunion child usage arrange";
+var mnemonic = "rubber frame black circle wash wrong bicycle use any cotton country average";

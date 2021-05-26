@@ -1,1 +1,1 @@
-var mnemonic = "defense rude tree disagree mean gym tone seven winter chair clever trial";
+var mnemonic = "harbor skirt subject reward garden flush margin orchard garbage anxiety awake convince";

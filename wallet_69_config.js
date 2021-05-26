@@ -1,1 +1,1 @@
-var mnemonic = "record lunar orient amazing elbow argue horn slam surge extend grain foam";
+var mnemonic = "warfare medal spread scrub easily predict trend ahead future figure crucial flower";

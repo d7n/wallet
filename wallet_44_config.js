@@ -1,1 +1,1 @@
-var mnemonic = "desk choose day mention solar city law used canal essence sleep visa";
+var mnemonic = "firm illness chair trial pony grid sphere pear venture live cause device";

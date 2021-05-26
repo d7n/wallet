@@ -1,1 +1,1 @@
-var mnemonic = "crunch item carbon combine input cute retire satisfy cross ahead casual march";
+var mnemonic = "shed surface soccer pyramid thunder hospital athlete resource donor fix easily thumb";

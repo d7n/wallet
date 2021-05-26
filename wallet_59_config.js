@@ -1,1 +1,1 @@
-var mnemonic = "cloth donkey eagle beach derive symbol keep ankle goose panther mass high";
+var mnemonic = "strategy try save action direct dawn fade adult list announce carbon flush";

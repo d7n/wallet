@@ -1,1 +1,1 @@
-var mnemonic = "drip such soft gentle stem legal planet motor ocean laptop club popular";
+var mnemonic = "frost quiz seat fix violin figure blush illness onion taxi bind address";

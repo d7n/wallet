@@ -1,1 +1,1 @@
-var mnemonic = "climb tragic cement worry into dune crush repair light awake fee spatial";
+var mnemonic = "health word rigid steak tent age brother invest two system maximum capital";

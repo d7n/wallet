@@ -1,1 +1,1 @@
-var mnemonic = "return suspect echo student desk turtle thank install audit exact uncle hollow";
+var mnemonic = "fuel black pen antenna ketchup kiss wife cushion possible spread brave forest";

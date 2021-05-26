@@ -1,1 +1,1 @@
-var mnemonic = "humble ridge uncle type fiber dolphin dumb bargain actress strike wrestle disagree";
+var mnemonic = "wine business rival attend joy category review bacon entry average marriage journey";

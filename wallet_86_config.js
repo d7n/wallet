@@ -1,1 +1,1 @@
-var mnemonic = "swing shiver require frog friend seed monster miss abstract december rapid tent";
+var mnemonic = "tourist early win story hawk push guess silk object coast weekend tired";

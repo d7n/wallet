@@ -1,1 +1,1 @@
-var mnemonic = "reject small ready kiss judge ladder suffer dirt tiny involve solid review";
+var mnemonic = "noise soccer junior awesome risk either skull menu absent beyond glide hurt";

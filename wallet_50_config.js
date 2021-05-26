@@ -1,1 +1,1 @@
-var mnemonic = "know hover wait rhythm salmon empty embark energy organ orchard auto copy";
+var mnemonic = "file west city abstract lunar economy bicycle section deer boy gain cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol risk ice twin float help popular north remove pool ignore blur";
+var mnemonic = "truck soccer mask still van job doll park prepare acid video expect";

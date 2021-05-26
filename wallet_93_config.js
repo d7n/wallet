@@ -1,1 +1,1 @@
-var mnemonic = "muscle chair process estate swamp chef private nature butter nuclear monitor ride";
+var mnemonic = "term oppose more secret island second vacuum bottom borrow only recipe night";

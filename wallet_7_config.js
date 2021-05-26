@@ -1,1 +1,1 @@
-var mnemonic = "humor timber sponsor solution fame actor blood three diamond coast mistake busy";
+var mnemonic = "breeze segment crater demand orbit segment lottery color dirt oyster scare maid";

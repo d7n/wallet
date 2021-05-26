@@ -1,1 +1,1 @@
-var mnemonic = "train slogan amazing witness virtual vintage aware opera machine keen panda inmate";
+var mnemonic = "ready salute move return unit flee rifle surge scrub vessel visual travel";

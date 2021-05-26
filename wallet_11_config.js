@@ -1,1 +1,1 @@
-var mnemonic = "thing again mail news table trophy daring galaxy know control debris ankle";
+var mnemonic = "dish visual west consider shove medal planet slush exist frog mail ranch";

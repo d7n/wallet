@@ -1,1 +1,1 @@
-var mnemonic = "ride victory between erosion crush prepare unique museum vivid cart injury layer";
+var mnemonic = "movie lens attend immune rifle nature since climb bean can duck village";

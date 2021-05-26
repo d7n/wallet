@@ -1,1 +1,1 @@
-var mnemonic = "deal snake course one across cancel tape wire caught lucky casino indicate";
+var mnemonic = "old base asthma leg drama mind suffer once ice margin hello what";

@@ -1,1 +1,1 @@
-var mnemonic = "liar alone certain tired human pact high core blast jaguar piano panther";
+var mnemonic = "wool draw inform style sword point company fatigue cupboard route observe increase";

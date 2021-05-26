@@ -1,1 +1,1 @@
-var mnemonic = "accuse better catch wonder lounge talent torch one grid bag change where";
+var mnemonic = "syrup problem focus icon blossom moral wide conduct jar help shove fitness";

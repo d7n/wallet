@@ -1,1 +1,1 @@
-var mnemonic = "confirm puzzle space express pink tiger story rough song latin core detail";
+var mnemonic = "inherit long sort increase recall silent result rack change three spoon magnet";

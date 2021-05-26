@@ -1,1 +1,1 @@
-var mnemonic = "culture believe extend fly donkey tank behind phrase tuition fever empty rude";
+var mnemonic = "gaze usage direct ten pull surprise immune arm stage artist solid laugh";

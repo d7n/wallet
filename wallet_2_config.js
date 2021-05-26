@@ -1,1 +1,1 @@
-var mnemonic = "diamond spider nature funny shuffle beef symbol already shadow aim bike mimic";
+var mnemonic = "twelve layer gun nice hat glove vast monster quick museum amazing globe";

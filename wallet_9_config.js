@@ -1,1 +1,1 @@
-var mnemonic = "effort goat hold sphere drill army gossip display where eight drop bright";
+var mnemonic = "afford decide curtain pudding laundry setup gloom lawn accuse limit climb desert";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble camp about father current lab domain future width end sketch link";
+var mnemonic = "lizard decide pause cool wealth unfold key cost cushion cream cheap theory";

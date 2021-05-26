@@ -1,1 +1,1 @@
-var mnemonic = "pizza bread report student column snack exhibit atom inflict found scale climb";
+var mnemonic = "runway pilot loyal swim dry essay solve foot cup material galaxy burden";

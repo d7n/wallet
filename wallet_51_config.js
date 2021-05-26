@@ -1,1 +1,1 @@
-var mnemonic = "cake sugar tell issue olive hedgehog coach during marine black length nut";
+var mnemonic = "spray common senior word sick ice grant display differ faculty because clarify";

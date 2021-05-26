@@ -1,1 +1,1 @@
-var mnemonic = "must fade defense hedgehog guitar garden just word acquire employ field slender";
+var mnemonic = "canvas velvet inherit elevator capable shoe witness enlist vague scrap lunar tonight";

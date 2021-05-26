@@ -1,1 +1,1 @@
-var mnemonic = "junior kidney shallow soul secret position front away lucky flash hybrid hope";
+var mnemonic = "wonder scale earth expose one betray strong melody proof deputy shrimp nation";

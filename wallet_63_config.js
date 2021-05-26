@@ -1,1 +1,1 @@
-var mnemonic = "muffin aware news talent pudding situate oxygen tiny hedgehog cat slice mechanic";
+var mnemonic = "weapon dune room pear diet clean absent oppose creek sound stay bitter";

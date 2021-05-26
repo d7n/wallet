@@ -1,1 +1,1 @@
-var mnemonic = "panda pulp curtain real slush invite brass shell divert control error pulse";
+var mnemonic = "woman recycle motor drop fringe river popular popular pass search error man";

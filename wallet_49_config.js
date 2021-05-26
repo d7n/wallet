@@ -1,1 +1,1 @@
-var mnemonic = "spice cigar advance expect dream ahead tag accuse happy suit bargain pact";
+var mnemonic = "keep tennis jump vocal radio put spike leader chaos merge illness squirrel";

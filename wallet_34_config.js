@@ -1,1 +1,1 @@
-var mnemonic = "average meat culture forest path life chimney able garden motor gasp dial";
+var mnemonic = "nothing episode water park fun kind move ugly cream salad consider tank";

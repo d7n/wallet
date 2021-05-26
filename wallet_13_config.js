@@ -1,1 +1,1 @@
-var mnemonic = "yellow offer truth odor siege sustain jealous boat initial car sort similar";
+var mnemonic = "menu scout tuna icon mechanic clock auction draft shrimp test envelope cushion";

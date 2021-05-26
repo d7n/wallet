@@ -1,1 +1,1 @@
-var mnemonic = "glare thumb approve nice fame cup machine crawl donor save behind side";
+var mnemonic = "reduce feature chunk prevent tail uphold spin radio cradle envelope volume trend";

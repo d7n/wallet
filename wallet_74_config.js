@@ -1,1 +1,1 @@
-var mnemonic = "bacon possible cart try trouble message seat typical aunt pattern tomorrow emotion";
+var mnemonic = "wasp ghost kiwi buzz follow gospel start again frost stable clip fan";

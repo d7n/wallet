@@ -1,1 +1,1 @@
-var mnemonic = "expire another shaft beauty bind genuine scare twice whip gaze involve clip";
+var mnemonic = "view cotton satisfy amazing lion trade veteran like exact gorilla language ankle";

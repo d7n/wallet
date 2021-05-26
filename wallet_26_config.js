@@ -1,1 +1,1 @@
-var mnemonic = "napkin evil general mention glue oxygen carpet shoot system cherry social chunk";
+var mnemonic = "credit salmon afford infant escape story defy behave before deputy voice opera";

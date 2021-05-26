@@ -1,1 +1,1 @@
-var mnemonic = "shuffle reveal receive rifle unusual train theme torch wrong taste success slide";
+var mnemonic = "glad ethics slide hamster toy traffic loyal stove feature pioneer panel able";

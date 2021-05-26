@@ -1,1 +1,1 @@
-var mnemonic = "grace enact helmet skull upset fiction boring crime discover tray scorpion fetch";
+var mnemonic = "copper quiz world all quick brown craft gap congress dice proud knife";

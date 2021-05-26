@@ -1,1 +1,1 @@
-var mnemonic = "always decrease penalty spawn strike amount gain property expose year spy wing";
+var mnemonic = "child love submit faculty host room cup inflict false degree mix rescue";

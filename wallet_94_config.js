@@ -1,1 +1,1 @@
-var mnemonic = "devote suggest suffer street pulp front denial transfer size act proof laptop";
+var mnemonic = "audit right traffic grit lecture coil exotic change brief solid cook deal";

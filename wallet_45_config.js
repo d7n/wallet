@@ -1,1 +1,1 @@
-var mnemonic = "remind unhappy bronze caught top cluster raccoon ocean smart fluid knock choose";
+var mnemonic = "law fury rude imitate unlock hundred predict bulb gorilla benefit jump drama";
