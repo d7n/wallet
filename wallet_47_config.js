@@ -1,1 +1,1 @@
-var mnemonic = "attack damp cluster bird flavor head armed toilet rent fee husband almost";
+var mnemonic = "eye theme between best gospel dash valley federal economy sense helmet faint";

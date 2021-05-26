@@ -1,1 +1,1 @@
-var mnemonic = "source option canoe rebuild long cake coil calm damage bright loop trap";
+var mnemonic = "supply lobster twenty blanket rubber popular suspect muffin stable poverty rebel dove";

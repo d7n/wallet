@@ -1,1 +1,1 @@
-var mnemonic = "machine six lunar rather damp moral gesture print bean obscure jaguar lawn";
+var mnemonic = "collect sad friend welcome owner expose orphan wet kite turtle river tent";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate asset valley metal cousin august school where weapon erosion notable hover";
+var mnemonic = "travel scissors almost metal scare exile eye off gather crime atom angry";

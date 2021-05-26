@@ -1,1 +1,1 @@
-var mnemonic = "silent obtain scene file able rice uphold circle draft where sentence skin";
+var mnemonic = "mule youth lunch combine chimney letter style little salad tortoise coil swap";

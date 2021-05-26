@@ -1,1 +1,1 @@
-var mnemonic = "sick cinnamon scissors welcome card husband cup lab crew youth brother vacant";
+var mnemonic = "aerobic prevent green silent maple asthma gather soup card either route buffalo";

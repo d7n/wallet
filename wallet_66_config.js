@@ -1,1 +1,1 @@
-var mnemonic = "wrist waste put praise isolate special crowd hour layer because liberty wheel";
+var mnemonic = "remain silly undo sound diary bulk where cousin theory salute attitude obey";

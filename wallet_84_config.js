@@ -1,1 +1,1 @@
-var mnemonic = "around trap stage circle chronic leg during either twelve park airport you";
+var mnemonic = "aim doll merge comic rice picnic track erosion shoe social news foot";

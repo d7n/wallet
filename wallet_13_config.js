@@ -1,1 +1,1 @@
-var mnemonic = "cat deal ceiling universe humble phrase chunk eagle supreme grow mixed candy";
+var mnemonic = "fetch differ later reform book arrow fitness pool gain drastic chicken zebra";

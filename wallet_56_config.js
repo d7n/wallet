@@ -1,1 +1,1 @@
-var mnemonic = "adjust fade wonder lab mean man senior purse hundred orient wrap speak";
+var mnemonic = "estate document lawsuit wink language power claim face neck broom lazy vapor";

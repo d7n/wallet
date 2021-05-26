@@ -1,1 +1,1 @@
-var mnemonic = "april taxi cake expand imitate series chuckle dry blast manual solar visual";
+var mnemonic = "clerk about visa begin canal base cake focus close shell grief lounge";

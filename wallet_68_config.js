@@ -1,1 +1,1 @@
-var mnemonic = "goddess truly spell impulse section animal orange picnic feed spring razor auto";
+var mnemonic = "walnut advance adapt arena parade device wine potato motor gloom oak lab";

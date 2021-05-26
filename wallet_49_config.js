@@ -1,1 +1,1 @@
-var mnemonic = "whip tag puppy despair you pull sound pact resemble require theme usual";
+var mnemonic = "give text notable tide shaft swim embrace kiwi broom raven squeeze seat";

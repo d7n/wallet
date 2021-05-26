@@ -1,1 +1,1 @@
-var mnemonic = "symbol glove admit devote wing grain dog ridge elbow stone bomb clump";
+var mnemonic = "pluck nephew possible fan suffer knife increase clever nuclear verb then guide";

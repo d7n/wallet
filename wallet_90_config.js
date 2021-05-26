@@ -1,1 +1,1 @@
-var mnemonic = "kingdom diary unlock virus tent parent wheat receive viable stove argue switch";
+var mnemonic = "tenant very mass style sauce cave increase beyond humor future cup coil";

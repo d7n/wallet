@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ball title flock fitness amused initial govern year large accident board";
+var mnemonic = "region course green age yard stool huge panda title awful wage promote";

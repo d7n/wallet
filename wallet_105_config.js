@@ -1,1 +1,1 @@
-var mnemonic = "rich sauce rabbit private diesel ocean pulp normal tennis grab tell flower";
+var mnemonic = "dinosaur file plug insane mammal common knife inmate curve citizen picnic tiger";

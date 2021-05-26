@@ -1,1 +1,1 @@
-var mnemonic = "swamp desk chunk language pave sugar drop used fragile eyebrow much also";
+var mnemonic = "traffic that erase dish base motion bind time island upper medal stone";

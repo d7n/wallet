@@ -1,1 +1,1 @@
-var mnemonic = "where debris fan game economy better excite feel response kidney chat beauty";
+var mnemonic = "noise avoid outer tip where gossip twist cycle remain busy tragic because";

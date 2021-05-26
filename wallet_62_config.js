@@ -1,1 +1,1 @@
-var mnemonic = "material member vapor swear afraid assault deputy solid matrix wait glare forum";
+var mnemonic = "powder target miss hard alarm gasp response vault athlete luxury foil elite";

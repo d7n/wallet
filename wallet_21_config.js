@@ -1,1 +1,1 @@
-var mnemonic = "blossom nature under token regret beyond evoke spider ostrich impulse circle include";
+var mnemonic = "zero sorry flame power reward snack exhibit episode alien patch warm document";

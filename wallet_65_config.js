@@ -1,1 +1,1 @@
-var mnemonic = "gap bread blur picture feed attend cheap sorry enable sketch drum drill";
+var mnemonic = "index ring donor hair excite humor brick biology believe atom garlic cherry";

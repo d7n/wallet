@@ -1,1 +1,1 @@
-var mnemonic = "inform group twice frown vast change expect metal illness claim gentle hip";
+var mnemonic = "crucial black purchase immense once toast give chaos hurt boring fine round";

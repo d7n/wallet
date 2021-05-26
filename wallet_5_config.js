@@ -1,1 +1,1 @@
-var mnemonic = "logic credit throw cattle shuffle shoe conduct possible seven govern state elephant";
+var mnemonic = "tail poem stay perfect like rice unveil abuse seed course local human";

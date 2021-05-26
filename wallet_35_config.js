@@ -1,1 +1,1 @@
-var mnemonic = "gaze feed soda settle million observe trade also reduce parrot clean defy";
+var mnemonic = "tip envelope destroy donor equip actual winner spot nothing virus luxury master";

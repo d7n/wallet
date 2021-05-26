@@ -1,1 +1,1 @@
-var mnemonic = "furnace one fog rely food alley gospel video scheme limit receive layer";
+var mnemonic = "age tail garment make turtle upper goat obvious unfair proud spray promote";

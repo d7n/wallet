@@ -1,1 +1,1 @@
-var mnemonic = "possible vicious series virus blanket clown budget soup slot accuse ice traffic";
+var mnemonic = "mouse fan rug cancel aware truly polar hello visual evoke level tank";

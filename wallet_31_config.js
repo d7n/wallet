@@ -1,1 +1,1 @@
-var mnemonic = "tissue welcome kick derive outer leader arch father lecture already flee connect";
+var mnemonic = "wing armed super tortoise oppose shell glare climb slot manage uncle fancy";

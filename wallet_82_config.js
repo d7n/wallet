@@ -1,1 +1,1 @@
-var mnemonic = "where sport buddy match silly bulk episode guess carpet key correct wish";
+var mnemonic = "route calm suggest tower abstract lake wash census brave mom cigar regular";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify dawn public taxi consider vague pencil seed garment nerve speed grace";
+var mnemonic = "broccoli cigar gown beach expand armed coyote moon fix erupt love fold";

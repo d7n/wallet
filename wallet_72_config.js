@@ -1,1 +1,1 @@
-var mnemonic = "patch deer abstract rain gentle grocery yellow impact drive carbon matter winner";
+var mnemonic = "surface april pond stick abandon adjust close wonder pigeon letter bundle project";

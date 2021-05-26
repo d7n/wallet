@@ -1,1 +1,1 @@
-var mnemonic = "style flee marble three denial winter hour cluster kangaroo laptop bundle famous";
+var mnemonic = "jungle review stay athlete slot impulse casual skate tooth fever ancient pumpkin";

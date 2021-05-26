@@ -1,1 +1,1 @@
-var mnemonic = "visit volume clip envelope kite ritual unit frown cannon inspire depend match";
+var mnemonic = "peanut rural erase liberty glory bounce list nest prevent awful six endorse";

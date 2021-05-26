@@ -1,1 +1,1 @@
-var mnemonic = "depth spoil coin rather segment omit dolphin mother glide moral evoke carpet";
+var mnemonic = "bundle together ready huge side dog palm hill brave betray monkey utility";

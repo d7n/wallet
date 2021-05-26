@@ -1,1 +1,1 @@
-var mnemonic = "wreck glory must glad rookie wink attract hair day damp inner wheel";
+var mnemonic = "upgrade cousin glove box junior evil jaguar poverty season job attend logic";

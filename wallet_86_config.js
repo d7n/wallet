@@ -1,1 +1,1 @@
-var mnemonic = "cloth crew record rocket patrol dune near dad female depth author neither";
+var mnemonic = "ring admit pool foil explain tray stuff fruit record uniform foam budget";

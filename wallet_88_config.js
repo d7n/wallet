@@ -1,1 +1,1 @@
-var mnemonic = "gentle miss defense wasp dutch praise renew jeans siren praise various review";
+var mnemonic = "pulse all limit pass wedding security friend oil grain surprise track super";

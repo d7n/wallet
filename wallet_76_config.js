@@ -1,1 +1,1 @@
-var mnemonic = "quarter cash that leg ocean rate close comic common kid candy cotton";
+var mnemonic = "skull bacon bunker blouse stomach exclude capital kangaroo dove comic track monitor";

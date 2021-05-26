@@ -1,1 +1,1 @@
-var mnemonic = "crater evoke exile express domain atom unveil autumn print prepare obey father";
+var mnemonic = "math tongue faculty hybrid fatigue vibrant scorpion blade level loan neck symbol";

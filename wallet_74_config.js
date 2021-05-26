@@ -1,1 +1,1 @@
-var mnemonic = "meadow material federal sorry wire soccer afraid person rescue depend point penalty";
+var mnemonic = "galaxy truly clown rent purchase issue normal lens tree primary expand carry";

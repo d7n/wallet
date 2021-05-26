@@ -1,1 +1,1 @@
-var mnemonic = "must horror riot happy ahead trend attitude stamp express blouse name echo";
+var mnemonic = "once isolate cement accuse riot weapon reunion address dress success stem suggest";

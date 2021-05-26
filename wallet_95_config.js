@@ -1,1 +1,1 @@
-var mnemonic = "tree cotton beyond cupboard mind like adjust vapor plunge miracle pool used";
+var mnemonic = "swap wire garment bundle insect jealous concert napkin match segment honey dust";

@@ -1,1 +1,1 @@
-var mnemonic = "butter keep impact fox story exotic confirm body soda admit pulp feed";
+var mnemonic = "shove empty soda general feed danger merge once girl side gain tuition";

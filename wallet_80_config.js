@@ -1,1 +1,1 @@
-var mnemonic = "sing inherit trip news toilet state dutch admit only guilt best begin";
+var mnemonic = "fancy search blanket mask outdoor swamp there trap tool refuse top bracket";

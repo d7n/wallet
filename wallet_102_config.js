@@ -1,1 +1,1 @@
-var mnemonic = "grape then naive manage puzzle spend claim enact install pattern tongue square";
+var mnemonic = "cushion verify chef subject proud mansion put quantum human chunk assume marriage";

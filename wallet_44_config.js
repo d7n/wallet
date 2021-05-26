@@ -1,1 +1,1 @@
-var mnemonic = "diagram knock athlete brief renew fan width slight place detect invite such";
+var mnemonic = "walk bacon tomorrow help soul buffalo feed vast lady column prize raven";

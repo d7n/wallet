@@ -1,1 +1,1 @@
-var mnemonic = "bone scale sphere track curtain awesome case mom antenna solid salt field";
+var mnemonic = "puzzle february consider tiger wine audit crater discover strategy frozen public poet";

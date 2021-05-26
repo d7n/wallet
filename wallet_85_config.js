@@ -1,1 +1,1 @@
-var mnemonic = "bulb erosion thunder nature penalty pulse slot token net disease critic urge";
+var mnemonic = "clean brick never foam room soldier pet solve wisdom stem east awkward";

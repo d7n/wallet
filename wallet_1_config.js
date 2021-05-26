@@ -1,1 +1,1 @@
-var mnemonic = "vanish planet good venue poem shy bacon trust joke cause sleep glance";
+var mnemonic = "bone prepare spatial tired twelve false symptom pledge average pipe author sorry";

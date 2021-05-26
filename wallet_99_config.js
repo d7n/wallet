@@ -1,1 +1,1 @@
-var mnemonic = "drink profit spread memory flee ribbon galaxy enrich require winner simple mandate";
+var mnemonic = "large below core fine early play joy armed huge sound crawl enact";

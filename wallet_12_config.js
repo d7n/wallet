@@ -1,1 +1,1 @@
-var mnemonic = "spin reward radar length siege tip update traffic have arena sad awesome";
+var mnemonic = "indoor junior drastic galaxy evidence author stereo answer alley vessel vault twenty";

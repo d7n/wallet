@@ -1,1 +1,1 @@
-var mnemonic = "guard among stool ahead annual fossil suspect foot night eight trophy enforce";
+var mnemonic = "buffalo grain empower unable cheese magnet speak prevent fee idle pyramid dial";

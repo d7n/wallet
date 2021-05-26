@@ -1,1 +1,1 @@
-var mnemonic = "juice grape input term fabric legal merit fiber ranch kingdom office alley";
+var mnemonic = "yard prevent brush enjoy machine arrive raise anchor cabin buddy wink frown";

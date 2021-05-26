@@ -1,1 +1,1 @@
-var mnemonic = "angle town elbow outside tumble client divorce access market follow casino actual";
+var mnemonic = "push differ clay shoe young rebel trade genre option thunder alcohol december";

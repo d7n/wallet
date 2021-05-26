@@ -1,1 +1,1 @@
-var mnemonic = "salmon slush fever spike woman cube enlist young quiz antique plate catch";
+var mnemonic = "remove either hundred tackle visit maze tribe cloud kiwi juice panther quote";

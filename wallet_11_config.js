@@ -1,1 +1,1 @@
-var mnemonic = "reject punch clay mother usage oil essay family rocket husband slam ship";
+var mnemonic = "piece range congress pair arrest palm skirt found sail capital humor gadget";

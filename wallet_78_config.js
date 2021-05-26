@@ -1,1 +1,1 @@
-var mnemonic = "style box brick quit angry fish scatter glimpse vicious frost bus convince";
+var mnemonic = "marriage royal unaware seek legal black funny elegant medal renew design beyond";

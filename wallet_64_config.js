@@ -1,1 +1,1 @@
-var mnemonic = "forget sight drastic adapt stem measure trend cheese salute similar parent dove";
+var mnemonic = "second try ship abandon bullet pistol power original south glare sing inform";

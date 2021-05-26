@@ -1,1 +1,1 @@
-var mnemonic = "airport rice canal jump spike point fine charge engine sausage agree festival";
+var mnemonic = "thank broken lab escape alpha rifle squeeze atom title family category flee";

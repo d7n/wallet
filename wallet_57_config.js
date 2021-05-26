@@ -1,1 +1,1 @@
-var mnemonic = "sphere deal unit surge sibling cousin hollow patient saddle wife pumpkin chat";
+var mnemonic = "ocean average popular result girl alcohol truth raven layer camp ten ranch";

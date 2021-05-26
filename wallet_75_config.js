@@ -1,1 +1,1 @@
-var mnemonic = "buddy pelican owner bargain devote leader engine gain roast nose switch genuine";
+var mnemonic = "job between coffee one member wine soda total way width hollow expire";

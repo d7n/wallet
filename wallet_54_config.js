@@ -1,1 +1,1 @@
-var mnemonic = "vapor aisle beyond bulk habit crime fever detail kingdom float cement thrive";
+var mnemonic = "net property seven economy badge swarm garden rather summer half double valve";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral enjoy smoke acquire broom gorilla excuse spare parade sad manual spare";
+var mnemonic = "shoulder enlist loud omit stomach client version phone seven negative this simple";

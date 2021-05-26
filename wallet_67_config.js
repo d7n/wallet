@@ -1,1 +1,1 @@
-var mnemonic = "provide weasel surface ugly fancy open hurdle rely fantasy lesson panther breeze";
+var mnemonic = "sand remove pull exotic wonder client security planet culture edge flight universe";

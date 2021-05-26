@@ -1,1 +1,1 @@
-var mnemonic = "tourist spoil measure supply destroy nurse wrist unlock true sick rabbit hedgehog";
+var mnemonic = "lava banana clay nurse heavy alert ask pear clap example peace film";

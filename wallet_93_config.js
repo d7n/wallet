@@ -1,1 +1,1 @@
-var mnemonic = "broken silly reduce club plug double swim amount music else agent sick";
+var mnemonic = "finish permit tattoo sausage robot artist timber then pig smoke caution infant";

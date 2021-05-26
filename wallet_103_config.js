@@ -1,1 +1,1 @@
-var mnemonic = "multiply attend affair clap purpose kiwi swap pumpkin media wine canvas spy";
+var mnemonic = "lens type wear timber field sad brain flat about oppose tuition game";

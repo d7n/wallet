@@ -1,1 +1,1 @@
-var mnemonic = "tumble combine nest tumble various program claw embrace cycle core acid engage";
+var mnemonic = "service trial seed rug parade warfare elegant fabric maximum casual peanut park";

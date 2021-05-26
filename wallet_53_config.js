@@ -1,1 +1,1 @@
-var mnemonic = "dance vivid agree wood month ball leopard critic grant frozen example liar";
+var mnemonic = "whip hat february credit author exercise father script figure ranch stairs sunset";

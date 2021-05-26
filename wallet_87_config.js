@@ -1,1 +1,1 @@
-var mnemonic = "vapor catch cricket whale situate spy grace remove rapid tribe lyrics live";
+var mnemonic = "like cluster hero need cigar spare nation elevator february party cycle bomb";

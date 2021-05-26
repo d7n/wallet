@@ -1,1 +1,1 @@
-var mnemonic = "funny pluck unknown vintage million whale obscure badge violin long miracle master";
+var mnemonic = "permit comfort proof bench all bullet improve sand parent predict second brain";

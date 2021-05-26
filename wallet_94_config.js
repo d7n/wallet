@@ -1,1 +1,1 @@
-var mnemonic = "warrior thing auto nuclear kind hair salon yellow country put vibrant spell";
+var mnemonic = "obscure grain abstract upset eager proof slab talent liberty allow wrist harvest";

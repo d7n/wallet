@@ -1,1 +1,1 @@
-var mnemonic = "best please ceiling tool desk panic mail assault depart year narrow risk";
+var mnemonic = "edge spoon height bachelor nation diary ten explain garage jelly puzzle mask";

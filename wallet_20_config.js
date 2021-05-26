@@ -1,1 +1,1 @@
-var mnemonic = "hawk harsh wrist mother history announce control stomach north stone carry mistake";
+var mnemonic = "online sell amount govern season obscure gossip cereal sentence first material sorry";

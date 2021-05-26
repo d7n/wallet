@@ -1,1 +1,1 @@
-var mnemonic = "quarter faith trash tape word protect valve visit bunker rhythm weather vapor";
+var mnemonic = "wise correct balcony spatial choose basic kidney oyster borrow want later judge";

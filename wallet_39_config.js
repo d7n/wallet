@@ -1,1 +1,1 @@
-var mnemonic = "symptom unfair bean thrive october marriage symptom pet together knock all uncover";
+var mnemonic = "logic once inflict ahead pulse vault oval gallery oxygen bone deal heart";

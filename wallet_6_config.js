@@ -1,1 +1,1 @@
-var mnemonic = "lazy fever van wild reflect few vessel blur quantum depth tiny smart";
+var mnemonic = "popular labor buzz embark save seven myth repair beach want myself labor";

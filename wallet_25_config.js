@@ -1,1 +1,1 @@
-var mnemonic = "copy reduce problem hen wedding speak home spend gospel cradle dawn arena";
+var mnemonic = "bicycle oyster sauce start resist steel topple category strategy expose unusual into";

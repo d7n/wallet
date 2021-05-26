@@ -1,1 +1,1 @@
-var mnemonic = "chunk cluster culture budget they grid quarter obey fade foster grace clean";
+var mnemonic = "submit nature kitchen goat soul era barely prepare lock bus poet viable";

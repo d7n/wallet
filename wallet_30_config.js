@@ -1,1 +1,1 @@
-var mnemonic = "seed romance kidney setup better note mimic inquiry true museum false praise";
+var mnemonic = "cool lawn final matrix hair bone firm equal lunar tool traffic champion";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact tiger decrease dream salute table warm number spend knee helmet genre";
+var mnemonic = "ritual spin ugly story distance fury much work purity wheel speed nasty";

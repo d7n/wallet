@@ -1,1 +1,1 @@
-var mnemonic = "cliff armed hub attract all coffee before image injury spawn excuse length";
+var mnemonic = "moment exercise summer salon salmon crew kit lake cruel sorry twin lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "busy crisp flip between stuff suggest gain actual bike large valley provide";
+var mnemonic = "garlic cotton process arctic chunk still stick domain purse vapor museum ranch";

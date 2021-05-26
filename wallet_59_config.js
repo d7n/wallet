@@ -1,1 +1,1 @@
-var mnemonic = "luxury armor elbow example dwarf idle crane budget era rocket disorder lawn";
+var mnemonic = "regret blouse sudden boy suit only leisure remove install any family urge";

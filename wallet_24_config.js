@@ -1,1 +1,1 @@
-var mnemonic = "city elite suggest person quit crew soft occur lumber fun swallow often";
+var mnemonic = "ski oxygen tissue repeat genuine chef keep index measure welcome trip layer";

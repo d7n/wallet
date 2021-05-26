@@ -1,1 +1,1 @@
-var mnemonic = "spider else tower glimpse coil chicken loud shield coil shield lucky opera";
+var mnemonic = "success leisure clerk scissors march forest actress equip large myth plastic fame";

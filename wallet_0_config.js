@@ -1,1 +1,1 @@
-var mnemonic = "other festival ahead enroll help bulk hour plate give weapon ranch swing";
+var mnemonic = "hill rely ignore vocal dignity load umbrella basket connect affair decline crunch";

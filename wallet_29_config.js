@@ -1,1 +1,1 @@
-var mnemonic = "client execute fuel frown smooth cloud shell deputy artwork print roof little";
+var mnemonic = "canvas goddess position tuition device abuse glad window debate throw robot modify";

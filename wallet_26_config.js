@@ -1,1 +1,1 @@
-var mnemonic = "wish wait gain evil horn negative tissue solar either upgrade limb gather";
+var mnemonic = "aunt debate strong dignity worry glad absent clarify yellow debris spike awesome";

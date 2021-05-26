@@ -1,1 +1,1 @@
-var mnemonic = "leopard soccer choice law walk choose interest frame alarm cheap absurd emotion";
+var mnemonic = "next pave catch puzzle hotel scissors shove heavy become chase oppose abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "prize mushroom bicycle armed stick buyer cruel allow only supreme buffalo tomorrow";
+var mnemonic = "plunge basket belt strong silent shoe universe fuel this farm venue dynamic";

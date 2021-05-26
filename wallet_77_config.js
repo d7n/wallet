@@ -1,1 +1,1 @@
-var mnemonic = "craft seek gesture aunt rapid spy client blur place stove video lawsuit";
+var mnemonic = "rookie feed curve flame blast express wine legal return world super abandon";
