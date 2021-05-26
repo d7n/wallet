@@ -1,1 +1,1 @@
-var mnemonic = "curious raise client cotton poverty behind strike salt theory obvious mind patient";
+var mnemonic = "ice vital clerk fall response alcohol distance convince sing else hello quantum";

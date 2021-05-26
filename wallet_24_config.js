@@ -1,1 +1,1 @@
-var mnemonic = "debris label cage ignore eager inflict rapid grocery castle connect blossom wrong";
+var mnemonic = "acid runway ice fame clip gloom vague hint history dove they then";

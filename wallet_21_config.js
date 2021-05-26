@@ -1,1 +1,1 @@
-var mnemonic = "speak palm sign fame crew tribe receive vacuum sphere fantasy life attend";
+var mnemonic = "collect divert fury buddy payment brisk shallow snack foot entry anxiety organ";

@@ -1,1 +1,1 @@
-var mnemonic = "remove raw luxury history sadness capital argue across tornado resemble antenna steak";
+var mnemonic = "frog verify wage dose attend maze fire avocado seminar very forward morning";

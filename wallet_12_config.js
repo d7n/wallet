@@ -1,1 +1,1 @@
-var mnemonic = "neutral gain outdoor maid trash paddle egg head gauge afraid unusual cream";
+var mnemonic = "guide faint try like plate goat nature turkey priority test rely castle";

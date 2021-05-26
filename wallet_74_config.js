@@ -1,1 +1,1 @@
-var mnemonic = "allow later praise image curious people scorpion camera proof tumble code snake";
+var mnemonic = "lucky reward original physical engine speak slight avocado outer example digital salt";

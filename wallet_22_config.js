@@ -1,1 +1,1 @@
-var mnemonic = "melt warrior prison figure height two fury pizza area canal potato spice";
+var mnemonic = "false medal squeeze pencil miss scatter coral budget cement venue tide hat";

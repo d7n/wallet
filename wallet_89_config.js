@@ -1,1 +1,1 @@
-var mnemonic = "glory divide utility write shiver type traffic riot top slogan city retreat";
+var mnemonic = "replace kitchen fitness chest foot mass solve tunnel idle bless change chaos";

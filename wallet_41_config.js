@@ -1,1 +1,1 @@
-var mnemonic = "blue wrist canyon advice summer client gadget arrange urban absorb screen emotion";
+var mnemonic = "donor wife client ranch scissors inch venue replace fox soon federal render";

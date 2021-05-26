@@ -1,1 +1,1 @@
-var mnemonic = "offer angry wage thank logic feel arrange melt round bulb dutch alien";
+var mnemonic = "nominee buffalo nice gesture sort come few drill hundred noodle hundred series";

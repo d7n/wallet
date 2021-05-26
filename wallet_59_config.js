@@ -1,1 +1,1 @@
-var mnemonic = "capital hill chuckle clay conduct hollow carpet gossip abstract destroy bean dress";
+var mnemonic = "hammer master security admit limit shoulder pistol amused cart gaze genuine green";

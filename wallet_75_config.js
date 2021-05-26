@@ -1,1 +1,1 @@
-var mnemonic = "never armor drip brown guide boost focus lake advice pistol bring hill";
+var mnemonic = "life viable fold spider quick frequent seek boost foil erase mass regret";

@@ -1,1 +1,1 @@
-var mnemonic = "web just myself useful crater focus predict gesture regular increase wire symptom";
+var mnemonic = "organ bubble damp child era world truly immune retreat evoke poverty useless";

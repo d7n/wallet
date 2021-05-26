@@ -1,1 +1,1 @@
-var mnemonic = "tissue alcohol spot riot ask velvet portion gather dove seminar average street";
+var mnemonic = "credit excuse kidney vacuum high like drink bar equal account online sense";

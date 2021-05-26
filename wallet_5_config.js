@@ -1,1 +1,1 @@
-var mnemonic = "payment ahead antique daughter wall nominee grief lady inform air title salute";
+var mnemonic = "fun turtle comic ahead acid enemy moral flower alien dizzy cactus dry";

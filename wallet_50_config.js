@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog great orbit office install city staff minor icon grant toilet huge";
+var mnemonic = "tag noble inch cruise entire lamp maximum nose modify romance opinion october";

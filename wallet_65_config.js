@@ -1,1 +1,1 @@
-var mnemonic = "emotion obvious leave purpose balance journey adjust away strike firm dynamic file";
+var mnemonic = "vault fox thunder monster alarm butter target curve holiday hold online south";

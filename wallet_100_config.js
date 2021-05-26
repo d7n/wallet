@@ -1,1 +1,1 @@
-var mnemonic = "pipe tennis churn juice illness farm east girl force sail sister museum";
+var mnemonic = "install jungle slow mystery pitch cry junior second loyal frozen weasel belt";

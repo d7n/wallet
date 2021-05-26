@@ -1,1 +1,1 @@
-var mnemonic = "taste horn coconut base airport evolve lemon modify target team vivid grace";
+var mnemonic = "approve mixed fold allow puzzle actor improve shiver cannon guard brand cool";

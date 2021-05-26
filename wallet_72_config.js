@@ -1,1 +1,1 @@
-var mnemonic = "equal turn vicious green clean finish manage stand praise response below pipe";
+var mnemonic = "tell recall trade marriage tomorrow dirt retreat hold behave execute cradle treat";

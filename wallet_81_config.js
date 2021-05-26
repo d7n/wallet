@@ -1,1 +1,1 @@
-var mnemonic = "tape certain soda one can act cabin dilemma shiver thumb grid country";
+var mnemonic = "special smile about elephant repair bridge bar egg private century wasp mushroom";

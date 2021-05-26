@@ -1,1 +1,1 @@
-var mnemonic = "stock average shrug win student element behind joy alcohol pizza scene best";
+var mnemonic = "punch zoo frog gauge cause marble defy stick secret mail feed various";

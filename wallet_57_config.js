@@ -1,1 +1,1 @@
-var mnemonic = "awful give radio ankle sudden shift mouse limb isolate submit trust brain";
+var mnemonic = "recipe inject such any impulse code scheme cute unfair violin surface tape";

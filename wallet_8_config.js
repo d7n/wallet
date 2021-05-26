@@ -1,1 +1,1 @@
-var mnemonic = "grace buddy fever put harsh neglect embody start combine science pelican giggle";
+var mnemonic = "clutch borrow imitate scissors eagle slow brand yard sense consider wreck dose";

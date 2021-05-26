@@ -1,1 +1,1 @@
-var mnemonic = "barrel cool menu slim barely state multiply buzz december initial badge artist";
+var mnemonic = "endless flat grace honey slam harsh possible sword cook tone suit pottery";

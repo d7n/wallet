@@ -1,1 +1,1 @@
-var mnemonic = "alter result system hand major before flavor advance slender clean awesome office";
+var mnemonic = "gasp shed street grow make elite guide viable congress bar family emerge";

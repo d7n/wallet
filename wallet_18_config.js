@@ -1,1 +1,1 @@
-var mnemonic = "decline harsh version dawn height tonight tenant balance sea shield sentence laundry";
+var mnemonic = "pigeon onion rocket wall hobby tilt escape purse coconut excite high accuse";

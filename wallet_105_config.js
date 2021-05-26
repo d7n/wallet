@@ -1,1 +1,1 @@
-var mnemonic = "divide exist fabric business exit mushroom captain imitate ostrich siren equip dove";
+var mnemonic = "faculty glue concert margin almost small friend calm attract diet ozone vacuum";

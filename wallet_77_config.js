@@ -1,1 +1,1 @@
-var mnemonic = "race radio try crumble alcohol junior meadow video next make ignore prefer";
+var mnemonic = "tackle frost pigeon domain below rude sibling check matrix where august frame";

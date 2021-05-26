@@ -1,1 +1,1 @@
-var mnemonic = "huge cage elevator proof share chest announce indicate crop tree fire prepare";
+var mnemonic = "conduct dolphin rural night wreck gaze monster lend around sense marble property";

@@ -1,1 +1,1 @@
-var mnemonic = "mix million scorpion autumn release spray trade repeat shrug gallery elder immense";
+var mnemonic = "main obey sight friend time any notable myth romance spread fabric cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey shaft fence twist warm bulk afraid exclude glad crime fantasy armor";
+var mnemonic = "blossom gun yard tissue pear census final hat acoustic urban salad wall";

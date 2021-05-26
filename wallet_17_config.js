@@ -1,1 +1,1 @@
-var mnemonic = "orchard fat nerve core deal dove body endless remember multiply advance victory";
+var mnemonic = "evolve good vicious rent network suggest science section island cigar canal kite";

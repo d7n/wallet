@@ -1,1 +1,1 @@
-var mnemonic = "mad absurd more noise expect sense glimpse universe erase quit suit shock";
+var mnemonic = "gauge mandate clock embody nose maid fade nut divorce source dream wish";

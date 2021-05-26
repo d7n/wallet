@@ -1,1 +1,1 @@
-var mnemonic = "mouse oil dragon together faint extra hockey foot trophy lonely derive potato";
+var mnemonic = "negative symbol define vital beach enter gauge exotic sock senior decrease fiber";

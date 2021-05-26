@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow tag van cloud view couch vital response winter enemy animal kidney";
+var mnemonic = "hen face emotion fog vital scissors excite salmon aware taxi collect dune";

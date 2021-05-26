@@ -1,1 +1,1 @@
-var mnemonic = "simple primary time poem best fine fresh liquid symbol hood sleep pass";
+var mnemonic = "grit metal obey intact attack faint cluster pretty frown shy creek life";

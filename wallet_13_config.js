@@ -1,1 +1,1 @@
-var mnemonic = "humble blur fiscal report friend august clarify example violin globe cry salmon";
+var mnemonic = "future claw world rabbit cement alert person insect symptom proof fresh brass";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness shadow solid fiscal uncle develop judge fringe learn clip trend couple";
+var mnemonic = "piece title salt license boil program guilt wink iron youth film neither";

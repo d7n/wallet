@@ -1,1 +1,1 @@
-var mnemonic = "real bonus van drink toe cliff gold gloom find catalog iron amazing";
+var mnemonic = "quantum moral clock girl mystery ranch engage order green exile pipe stove";

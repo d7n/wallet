@@ -1,1 +1,1 @@
-var mnemonic = "sock engage unaware lecture hood ice brush ride kidney easy sign oven";
+var mnemonic = "prosper immense glide income error direct unveil february home alone clap antique";

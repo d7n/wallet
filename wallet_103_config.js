@@ -1,1 +1,1 @@
-var mnemonic = "eight stock approve wheat common toilet scan mechanic catalog garden card tent";
+var mnemonic = "segment notable island muscle twenty vendor cupboard loyal wagon human figure jump";

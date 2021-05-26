@@ -1,1 +1,1 @@
-var mnemonic = "whip clog bounce illness alarm alpha excuse glare judge artist squeeze bomb";
+var mnemonic = "much desert sausage junk rescue year gravity weekend core cargo march mule";

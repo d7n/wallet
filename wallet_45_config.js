@@ -1,1 +1,1 @@
-var mnemonic = "focus youth welcome truly flame whip delay lift denial fashion museum speak";
+var mnemonic = "denial crouch person amused road much memory forget outdoor end kind output";

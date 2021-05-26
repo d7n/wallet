@@ -1,1 +1,1 @@
-var mnemonic = "shrimp drastic hospital session color faith hen garbage legal age dismiss media";
+var mnemonic = "wear insect liar supply maple toddler beyond west vapor harsh ride six";

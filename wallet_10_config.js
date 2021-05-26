@@ -1,1 +1,1 @@
-var mnemonic = "decorate grow neutral barrel oppose fluid emotion fine cupboard degree crash history";
+var mnemonic = "dream shell fly silly entry husband govern work milk ill rule almost";

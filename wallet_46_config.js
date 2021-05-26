@@ -1,1 +1,1 @@
-var mnemonic = "era eight again face online toward output empty degree cash member kiss";
+var mnemonic = "rotate combine still oil woman neck tree symbol raccoon scrap park spirit";

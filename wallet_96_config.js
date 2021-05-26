@@ -1,1 +1,1 @@
-var mnemonic = "cook vapor aware river state feature angry keen bike cactus wait only";
+var mnemonic = "candy public fade iron step mobile soup catalog trial frost gallery crash";

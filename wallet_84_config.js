@@ -1,1 +1,1 @@
-var mnemonic = "giraffe recall flavor olive destroy end vague merry sick ocean better mistake";
+var mnemonic = "gate surge fiber together tent deliver switch response fork shoot arm baby";

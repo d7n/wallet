@@ -1,1 +1,1 @@
-var mnemonic = "fog awake amazing reward dune stock boy idea action common flower silver";
+var mnemonic = "rough clap congress afraid vote marble income town squirrel fatal zone letter";

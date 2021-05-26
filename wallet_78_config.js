@@ -1,1 +1,1 @@
-var mnemonic = "output leg royal crush escape artefact public cycle only appear reflect cruise";
+var mnemonic = "matrix oblige moon stuff rude attend barrel above clown ticket system flat";

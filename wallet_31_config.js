@@ -1,1 +1,1 @@
-var mnemonic = "slam where repair robust wide sadness rival wait any debris edit jungle";
+var mnemonic = "black bomb autumn injury twist logic fruit region fatal family public obscure";

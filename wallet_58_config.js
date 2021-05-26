@@ -1,1 +1,1 @@
-var mnemonic = "damage disorder lounge engine hero empower love powder source soldier fiction spawn";
+var mnemonic = "cube gossip stock dragon unaware six refuse horn sock exhibit crash treat";

@@ -1,1 +1,1 @@
-var mnemonic = "tube rich boil eye settle price depart riot fever place summer wrist";
+var mnemonic = "street thunder happy law lend bus lucky usage iron paddle country sadness";

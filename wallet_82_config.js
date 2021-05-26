@@ -1,1 +1,1 @@
-var mnemonic = "divorce poverty help small punch bird resemble market middle team can cancel";
+var mnemonic = "large rabbit second alcohol avocado noodle impulse plate genius fork stuff fuel";

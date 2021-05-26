@@ -1,1 +1,1 @@
-var mnemonic = "sea fly collect orchard they kiss lawn truck behind acoustic replace talent";
+var mnemonic = "isolate bitter tell conduct inhale electric faint pond crumble empty stem phrase";

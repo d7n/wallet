@@ -1,1 +1,1 @@
-var mnemonic = "suit hungry ecology drastic fame move team term erase riot imitate helmet";
+var mnemonic = "gift fruit walnut radar fragile found still scheme foil owner solution about";

@@ -1,1 +1,1 @@
-var mnemonic = "collect that hobby top finger increase home clip enhance current word sport";
+var mnemonic = "hybrid pottery relax amateur friend february vacuum render hen squirrel iron replace";

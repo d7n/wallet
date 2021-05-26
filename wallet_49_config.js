@@ -1,1 +1,1 @@
-var mnemonic = "exist deer mango shift swap tail business edit over year release aim";
+var mnemonic = "author nut glimpse silent elevator neck danger welcome series canal dash canoe";

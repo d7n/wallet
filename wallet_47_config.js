@@ -1,1 +1,1 @@
-var mnemonic = "clown solid wage jazz rice list finish planet apology image turkey spring";
+var mnemonic = "reunion cereal recall pass horror toe silk silver monkey comic speed deal";

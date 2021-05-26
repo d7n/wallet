@@ -1,1 +1,1 @@
-var mnemonic = "average cover risk dash deal wide pencil train tattoo badge august like";
+var mnemonic = "autumn blood empower inner enforce because final alarm key attack ten sun";

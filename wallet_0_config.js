@@ -1,1 +1,1 @@
-var mnemonic = "age split office coast case inject pipe anxiety venture certain chest artefact";
+var mnemonic = "goose note shield fancy seed fashion when social kiss modify monkey air";

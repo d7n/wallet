@@ -1,1 +1,1 @@
-var mnemonic = "youth turkey fringe object truck drop candy trouble voyage female syrup pyramid";
+var mnemonic = "tuition candy sound slab amazing vibrant ocean gauge acid door age embark";

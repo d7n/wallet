@@ -1,1 +1,1 @@
-var mnemonic = "bulb twin amazing claw false alone dice lend soul hood dizzy casual";
+var mnemonic = "limit dutch apology dutch flee hat fat bone leopard three riot hello";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate neglect faint stool glide kite picnic exact spy adult laundry radar";
+var mnemonic = "aisle coffee clay lemon gap legend chest abstract dish differ sponsor leave";

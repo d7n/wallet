@@ -1,1 +1,1 @@
-var mnemonic = "hole science doll vote sword obvious fetch blur joke inject marble hospital";
+var mnemonic = "runway arena fitness weapon chicken cluster begin scare oak drip prefer focus";

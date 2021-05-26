@@ -1,1 +1,1 @@
-var mnemonic = "glue output situate wheel excite rubber circle match year busy coffee reason";
+var mnemonic = "charge section appear combine aisle toy dragon distance begin kidney either cheese";

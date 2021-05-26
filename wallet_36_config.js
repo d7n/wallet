@@ -1,1 +1,1 @@
-var mnemonic = "company about crew civil silent result agent pair acquire melody family capital";
+var mnemonic = "box cage crater differ change define away citizen opinion cattle voice iron";

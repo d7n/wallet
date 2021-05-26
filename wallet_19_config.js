@@ -1,1 +1,1 @@
-var mnemonic = "harvest december palace fashion dizzy ghost voice diamond arrange moment guilt dizzy";
+var mnemonic = "intact hole code simple diagram moment weather near collect spoon caught alpha";

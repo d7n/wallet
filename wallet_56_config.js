@@ -1,1 +1,1 @@
-var mnemonic = "spawn speed suggest leaf tragic foam tag animal analyst squeeze deliver slice";
+var mnemonic = "hockey recipe sight mushroom slide intact urban butter tool gift welcome nominee";

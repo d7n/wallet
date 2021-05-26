@@ -1,1 +1,1 @@
-var mnemonic = "brain address park crew grow again utility genuine burst mercy arctic craft";
+var mnemonic = "step salute rebel acid attack maximum bulb autumn know radar crisp current";

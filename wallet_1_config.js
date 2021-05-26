@@ -1,1 +1,1 @@
-var mnemonic = "enroll rebuild clap burst club connect swallow language repeat wish tonight tuna";
+var mnemonic = "aunt series glide burst mountain crumble neck paper sting excuse maximum goose";

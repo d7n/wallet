@@ -1,1 +1,1 @@
-var mnemonic = "erosion junk hedgehog inch stereo milk give will kid lounge tape spell";
+var mnemonic = "panic thought slow nest harbor second cash spice slight crucial right describe";

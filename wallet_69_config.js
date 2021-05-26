@@ -1,1 +1,1 @@
-var mnemonic = "else inmate slam switch gown bounce agent feed february cluster timber total";
+var mnemonic = "orient kangaroo cash box knee soccer tell cube bracket memory stairs loud";

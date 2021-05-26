@@ -1,1 +1,1 @@
-var mnemonic = "tower brown shield arrange sheriff skill inject true actress video twenty three";
+var mnemonic = "relax hire invite dinosaur relax wire small tent various inherit stable family";

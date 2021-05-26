@@ -1,1 +1,1 @@
-var mnemonic = "squirrel believe nut rack oppose garage toy gravity welcome luxury puppy wheel";
+var mnemonic = "fever maple report digital whale force ahead vital wisdom couple sand abuse";

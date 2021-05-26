@@ -1,1 +1,1 @@
-var mnemonic = "habit autumn panther tragic six canoe siren glad gun taste race festival";
+var mnemonic = "response crumble virtual flock maximum visa ladder pact second call bronze edge";

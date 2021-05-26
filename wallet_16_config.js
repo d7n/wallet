@@ -1,1 +1,1 @@
-var mnemonic = "rhythm cruel ribbon avoid april walnut brother average little duty crystal nerve";
+var mnemonic = "orange cream mutual snap rigid become awake service shift pulp height inside";

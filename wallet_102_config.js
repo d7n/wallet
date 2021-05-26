@@ -1,1 +1,1 @@
-var mnemonic = "suit motion country fork stand all gadget humble wage slogan atom invite";
+var mnemonic = "humor segment radar monitor opera ocean brand fold title credit bridge police";

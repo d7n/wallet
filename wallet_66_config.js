@@ -1,1 +1,1 @@
-var mnemonic = "thank degree senior return blind sadness top quantum daring kitten absent zero";
+var mnemonic = "meadow cook physical right party picnic grunt high merit above alpha van";

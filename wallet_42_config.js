@@ -1,1 +1,1 @@
-var mnemonic = "rather identify equal lake solution antenna clog throw wolf bus rally river";
+var mnemonic = "opinion media skin year street tent inject sheriff begin clever only club";

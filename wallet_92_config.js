@@ -1,1 +1,1 @@
-var mnemonic = "harbor jacket hope sport case blue school scan debris spice proud wine";
+var mnemonic = "gentle produce economy gasp evidence arm mesh wrist sniff bulb crush crew";

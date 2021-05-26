@@ -1,1 +1,1 @@
-var mnemonic = "energy chief arctic smoke seat speed hen rather core marine beauty balcony";
+var mnemonic = "atom cricket scrap shaft real sketch stove inject boring diagram donkey damage";

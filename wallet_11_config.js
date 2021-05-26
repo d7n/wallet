@@ -1,1 +1,1 @@
-var mnemonic = "clever barrel brother bundle sting fashion hunt unlock consider tide crumble pond";
+var mnemonic = "unit cream sail wife depart regret domain analyst share engage giraffe century";

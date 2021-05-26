@@ -1,1 +1,1 @@
-var mnemonic = "moment trade busy moment install hurdle question clog cotton mystery famous rare";
+var mnemonic = "faculty ethics base decline charge nominee vibrant average club chair exhaust lesson";

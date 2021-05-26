@@ -1,1 +1,1 @@
-var mnemonic = "lesson question when fade shaft decide top jacket tennis high captain grid";
+var mnemonic = "range account labor print side example outer sibling zebra repair repeat cluster";

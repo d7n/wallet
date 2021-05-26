@@ -1,1 +1,1 @@
-var mnemonic = "phrase vanish achieve federal left spray ten gravity photo lunar glory arch";
+var mnemonic = "swallow motion scrub knife aisle law list organ anger side distance enjoy";

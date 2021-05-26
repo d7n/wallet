@@ -1,1 +1,1 @@
-var mnemonic = "noble company thumb sketch brand six north purity strong crouch erode doctor";
+var mnemonic = "output require ginger column earn raven vote point shoot must letter valley";

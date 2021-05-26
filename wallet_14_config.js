@@ -1,1 +1,1 @@
-var mnemonic = "area mobile dolphin word head poet meat reopen science maximum please jelly";
+var mnemonic = "chief glory spirit gown plate hand three organ arrange useful goose flip";

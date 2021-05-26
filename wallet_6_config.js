@@ -1,1 +1,1 @@
-var mnemonic = "below main source dwarf six jungle fork easily winner goat cheap acoustic";
+var mnemonic = "agent blanket exhaust sport awkward earth immune rotate morning rare first lion";

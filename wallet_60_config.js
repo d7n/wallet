@@ -1,1 +1,1 @@
-var mnemonic = "latin camp hospital spray pulse crumble warm orbit blood mobile canvas swamp";
+var mnemonic = "easily manual razor ceiling act kiss board coconut direct sphere marble spare";

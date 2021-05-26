@@ -1,1 +1,1 @@
-var mnemonic = "want endorse away assume total swim that size good sad husband rebel";
+var mnemonic = "try upgrade depend plug visa salmon neck obey obvious silly thumb black";

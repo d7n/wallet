@@ -1,1 +1,1 @@
-var mnemonic = "put amateur oyster immune wonder crime notice shrug space under flag meat";
+var mnemonic = "youth extra select spend volume picnic another kit cage silk section direct";
