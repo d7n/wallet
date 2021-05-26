@@ -1,1 +1,1 @@
-var mnemonic = "check calm feature collect ivory latin husband fiscal solar zoo educate motor";
+var mnemonic = "machine head minute repeat home lizard mushroom solution elder project brick myth";

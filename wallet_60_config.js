@@ -1,1 +1,1 @@
-var mnemonic = "rack choice rice fiber gravity age tired grace student bronze come fancy";
+var mnemonic = "worry poem celery economy feed loud skull wealth penalty jungle seminar opera";

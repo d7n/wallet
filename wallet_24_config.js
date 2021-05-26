@@ -1,1 +1,1 @@
-var mnemonic = "box foster choose crawl oval divide object pigeon dirt owner father age";
+var mnemonic = "update field pear path kiss chimney dinner napkin garbage gospel canal cake";

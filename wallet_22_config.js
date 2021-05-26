@@ -1,1 +1,1 @@
-var mnemonic = "happy second early library slogan pistol muscle black crowd avocado consider rice";
+var mnemonic = "first chef climb debris vapor chat network deputy cost window pen carbon";

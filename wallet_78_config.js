@@ -1,1 +1,1 @@
-var mnemonic = "short surge kit safe lend law jazz sing beauty address yard often";
+var mnemonic = "shift scale trouble mad people kid van castle damp finish summer crack";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut almost flock announce hair wash video virtual sadness stone length blanket";
+var mnemonic = "dumb field pear twist train welcome bone shift dream lottery supreme holiday";

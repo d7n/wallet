@@ -1,1 +1,1 @@
-var mnemonic = "eager item basic wasp cancel hawk custom deposit move text thank sphere";
+var mnemonic = "situate alert gadget version impact liberty like reform series response fruit border";

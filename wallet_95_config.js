@@ -1,1 +1,1 @@
-var mnemonic = "limit hunt alone improve post cool crash ripple acoustic royal tell noble";
+var mnemonic = "region age hammer world crash goat elbow permit true phone canyon still";

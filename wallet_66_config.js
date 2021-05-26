@@ -1,1 +1,1 @@
-var mnemonic = "wrist enjoy autumn path food celery gap interest ostrich monster civil inject";
+var mnemonic = "talk wheel review elder achieve float lesson scheme omit edge curious cable";

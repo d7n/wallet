@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hazard problem surge stomach danger kind grid atom sister reopen kiss";
+var mnemonic = "grow victory frog ivory region okay curtain pioneer fashion easy base cave";

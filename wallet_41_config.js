@@ -1,1 +1,1 @@
-var mnemonic = "image shop toast better gloom color unfold raccoon uncover immense fatal tube";
+var mnemonic = "program rain victory height unique assume photo dolphin rib brick upper truly";

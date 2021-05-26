@@ -1,1 +1,1 @@
-var mnemonic = "swamp slot skirt long dice poem attract grant barely fluid holiday table";
+var mnemonic = "honey patrol visit early faint mango behave sun gym badge brief scan";

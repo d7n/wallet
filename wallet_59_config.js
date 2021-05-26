@@ -1,1 +1,1 @@
-var mnemonic = "cactus alcohol they math cross orchard cave payment ensure thing soul female";
+var mnemonic = "violin icon museum since drill soda push crowd cotton eager height gap";

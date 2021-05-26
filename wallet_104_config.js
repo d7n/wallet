@@ -1,1 +1,1 @@
-var mnemonic = "acquire sugar spin second hen noble skill laptop stumble invite speak sunny";
+var mnemonic = "spread beyond jump lunch image boss loop inherit damage chef destroy melt";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise wrong process detail never advice dust road intact despair spatial oyster";
+var mnemonic = "unhappy lounge laundry leaf finish left lumber during cigar rocket fire relief";

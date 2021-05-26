@@ -1,1 +1,1 @@
-var mnemonic = "alcohol scheme coffee repair frown toast cruise critic together deal suit leaf";
+var mnemonic = "code diamond clarify able scare arm remind supreme useless spoon off bulk";

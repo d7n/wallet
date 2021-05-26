@@ -1,1 +1,1 @@
-var mnemonic = "strong harbor garbage myself frog upset grain group indoor legal artwork enroll";
+var mnemonic = "night owner grass sing upgrade silly park enhance recycle hawk unlock donor";

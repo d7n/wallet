@@ -1,1 +1,1 @@
-var mnemonic = "hint card soccer rough absurd polar estate reduce whisper pen ready deny";
+var mnemonic = "afraid tilt perfect explain blossom survey portion brief knife execute fitness fatal";

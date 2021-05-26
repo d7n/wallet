@@ -1,1 +1,1 @@
-var mnemonic = "beef cloud soul woman deer roof seven voice attend vapor pact organ";
+var mnemonic = "fortune dust profit banner thing invest toward toy penalty floor bicycle calm";

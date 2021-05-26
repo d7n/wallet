@@ -1,1 +1,1 @@
-var mnemonic = "pluck panther enough bid leisure van about tortoise lemon tackle project shaft";
+var mnemonic = "horn bullet electric pledge valley blossom ordinary similar tragic remain apple mind";

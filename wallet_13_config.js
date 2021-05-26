@@ -1,1 +1,1 @@
-var mnemonic = "credit dwarf endless extra siege utility muscle flat toast style ripple surge";
+var mnemonic = "ketchup bundle correct toy isolate rookie bar casino fine canvas protect cup";

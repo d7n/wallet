@@ -1,1 +1,1 @@
-var mnemonic = "daughter biology spoil zebra voice churn used poverty rice delay scheme candy";
+var mnemonic = "walnut test artist couch top swift that melt firm because again genre";

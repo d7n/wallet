@@ -1,1 +1,1 @@
-var mnemonic = "adjust come win immune public welcome consider sport radio ten physical tribe";
+var mnemonic = "crew chimney clump when shrug zone coral quarter strategy slam stand arrive";

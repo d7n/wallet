@@ -1,1 +1,1 @@
-var mnemonic = "able stamp magnet core toe skirt series force winter float congress giggle";
+var mnemonic = "chair escape access kite price picture apart apology welcome super mother scare";

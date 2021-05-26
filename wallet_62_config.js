@@ -1,1 +1,1 @@
-var mnemonic = "sleep diamond auto glare vendor dad subject boss prize phone equal cabbage";
+var mnemonic = "dizzy upon ski joke off record transfer bless inmate just guide sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "trim expose regret giggle gain dream shoot ankle skin dirt subway prevent";
+var mnemonic = "october pony pioneer era file hip scheme coral theory palm under test";

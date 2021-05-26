@@ -1,1 +1,1 @@
-var mnemonic = "snack gym peace spring arm emerge broken icon present derive habit exhibit";
+var mnemonic = "run round brown glance pulse repeat speed party barrel mean blossom charge";

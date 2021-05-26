@@ -1,1 +1,1 @@
-var mnemonic = "wine popular divide switch coil rabbit genius thrive spread arrow blue dinner";
+var mnemonic = "alone tower satoshi dove seek room inner foster blue talent fringe awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "word charge praise boy human heavy enrich option mule cliff tape slide";
+var mnemonic = "hunt mail corn uphold submit shed shoe brain hurt toast march vehicle";

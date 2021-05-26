@@ -1,1 +1,1 @@
-var mnemonic = "drop exit receive balcony response wisdom couch cook survey chaos effort charge";
+var mnemonic = "emerge primary spawn fever satisfy sight lunch resemble bicycle oak shuffle small";

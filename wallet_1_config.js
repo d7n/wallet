@@ -1,1 +1,1 @@
-var mnemonic = "group shoulder spot audit flip rigid token hurt mule spoon prepare youth";
+var mnemonic = "fruit cactus bubble scatter suit task myself anchor sphere narrow armed behind";

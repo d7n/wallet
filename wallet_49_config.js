@@ -1,1 +1,1 @@
-var mnemonic = "away moment marble warrior rose clock place moral rifle stereo ripple immense";
+var mnemonic = "notable twenty release weird unhappy promote twelve silent put orchard approve diamond";

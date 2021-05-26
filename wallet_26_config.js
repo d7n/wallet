@@ -1,1 +1,1 @@
-var mnemonic = "police barrel kangaroo foot element pact picture involve citizen donkey start coin";
+var mnemonic = "time seven notable stone early cancel humor alpha link describe escape army";

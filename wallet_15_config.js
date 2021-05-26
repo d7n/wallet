@@ -1,1 +1,1 @@
-var mnemonic = "order abuse utility imitate gadget kangaroo giraffe mandate tornado fabric try length";
+var mnemonic = "develop ribbon build order glare chronic obey misery million ski middle grow";

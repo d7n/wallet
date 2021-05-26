@@ -1,1 +1,1 @@
-var mnemonic = "choose liar middle rookie estate donate approve post place job abstract order";
+var mnemonic = "castle rally crash fiction bracket lucky sunny bulk jealous robot loyal crime";

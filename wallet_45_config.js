@@ -1,1 +1,1 @@
-var mnemonic = "bid season height ostrich case invest basic add robot wrong soon pole";
+var mnemonic = "fence canoe fluid cloud heavy legend mango display season awake sniff alley";

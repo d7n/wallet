@@ -1,1 +1,1 @@
-var mnemonic = "execute sail health need avocado zebra junior now sibling long term surprise";
+var mnemonic = "toward load two olive disorder render repeat shoulder reward sketch buddy choice";

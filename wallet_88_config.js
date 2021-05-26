@@ -1,1 +1,1 @@
-var mnemonic = "process vanish ivory aisle judge explain type marine hip upon peasant reform";
+var mnemonic = "laugh castle umbrella certain address delay auction catalog spoil model suggest truth";

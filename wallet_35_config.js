@@ -1,1 +1,1 @@
-var mnemonic = "meadow audit educate anxiety neck prize face limb glance finger fringe sustain";
+var mnemonic = "modify toast answer kind math welcome tiny execute video baby clip annual";

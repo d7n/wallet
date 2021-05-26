@@ -1,1 +1,1 @@
-var mnemonic = "ivory win rural belt sorry insect more chapter under hawk poverty trash";
+var mnemonic = "patient baby tattoo grunt arrest spell card know naive harsh august fire";

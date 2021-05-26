@@ -1,1 +1,1 @@
-var mnemonic = "bullet minor ordinary urban mind art until discover copy rich actress misery";
+var mnemonic = "figure tiny again noise uncle fabric dove license view wrist seven jar";

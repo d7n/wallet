@@ -1,1 +1,1 @@
-var mnemonic = "ecology quiz number fiction news melody harbor siege teach noise ball frequent";
+var mnemonic = "mistake account mass immense doll diamond cushion bunker song jar file mouse";

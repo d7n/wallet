@@ -1,1 +1,1 @@
-var mnemonic = "animal hello believe degree place umbrella century razor wrestle sustain pet setup";
+var mnemonic = "notable member fold over glare devote media few replace shadow evolve egg";

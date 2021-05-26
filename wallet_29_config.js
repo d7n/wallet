@@ -1,1 +1,1 @@
-var mnemonic = "milk top front kick elder tortoise spatial fault devote ten cement base";
+var mnemonic = "fame ramp below blanket month focus energy distance clown aunt ready dizzy";

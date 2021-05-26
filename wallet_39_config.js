@@ -1,1 +1,1 @@
-var mnemonic = "palace tank add render horror slight coyote course crazy pig vast dilemma";
+var mnemonic = "frozen render quote waste review visit blade unit life dizzy marriage eight";

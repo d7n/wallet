@@ -1,1 +1,1 @@
-var mnemonic = "laugh surge toy ketchup shallow muscle affair embody another plunge army ethics";
+var mnemonic = "regular artefact member year device gloom illness desk shy slender cabin decorate";

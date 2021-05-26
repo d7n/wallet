@@ -1,1 +1,1 @@
-var mnemonic = "embody plastic appear broom walk view divorce upgrade equip club catalog student";
+var mnemonic = "swap vendor vintage demise pair hockey reopen usage horn wrap vibrant myth";

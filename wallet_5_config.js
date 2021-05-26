@@ -1,1 +1,1 @@
-var mnemonic = "bronze cannon twenty push crash pretty reunion brief follow blade skirt glow";
+var mnemonic = "fan merit because zero negative donor repeat glance observe decorate work suffer";

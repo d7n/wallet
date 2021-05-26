@@ -1,1 +1,1 @@
-var mnemonic = "alert electric enter raise faith action ghost utility foil fade thunder output";
+var mnemonic = "dice control rally slide choose science audit giraffe wrong melody noise exhaust";

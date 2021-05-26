@@ -1,1 +1,1 @@
-var mnemonic = "marine orchard luggage opinion suspect course alley truck toe gift soup wolf";
+var mnemonic = "clock duck reunion bird clarify exclude firm satisfy prevent bacon delay clever";

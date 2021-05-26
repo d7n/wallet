@@ -1,1 +1,1 @@
-var mnemonic = "panther rent only win nerve sudden proof order trash orphan rib script";
+var mnemonic = "mercy soap student fix casual coil close laundry flee legal father stone";

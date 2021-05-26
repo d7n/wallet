@@ -1,1 +1,1 @@
-var mnemonic = "ethics taxi casual lyrics combine exchange wrong best spice honey cost wrap";
+var mnemonic = "taste idea nose agent wave below clap someone badge eight valve prize";

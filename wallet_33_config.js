@@ -1,1 +1,1 @@
-var mnemonic = "empower park foam kiss indicate direct clay lunch skin toilet salt damp";
+var mnemonic = "jaguar harvest wheel cute creek chunk scare problem notable horror artwork engage";

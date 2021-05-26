@@ -1,1 +1,1 @@
-var mnemonic = "table leopard tape city force hotel script mosquito month panther polar trade";
+var mnemonic = "memory loan price inject fork soldier confirm ability coil century chat embody";

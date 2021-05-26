@@ -1,1 +1,1 @@
-var mnemonic = "net chief surround pass venue help crawl else badge story practice now";
+var mnemonic = "youth budget floor art resemble random mandate solve rigid green frown fabric";

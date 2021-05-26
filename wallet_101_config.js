@@ -1,1 +1,1 @@
-var mnemonic = "boring rhythm license source regular annual blouse inform raise shrug hurry bulk";
+var mnemonic = "list easy purity chaos food fun father hazard topple want kit clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "year shock tennis lottery cook shock kit amused body vault include empower";
+var mnemonic = "game tent artwork motor tide critic three lion health license arrest tool";

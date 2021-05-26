@@ -1,1 +1,1 @@
-var mnemonic = "october burden word term raw raise dinner two truck around ghost oil";
+var mnemonic = "life jewel machine main ridge remain park jungle dinner sure assist open";

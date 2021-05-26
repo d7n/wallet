@@ -1,1 +1,1 @@
-var mnemonic = "autumn nasty rare meadow juice cross brass cement focus trouble cruel chair";
+var mnemonic = "swim bachelor cinnamon drill fresh prize cruise increase control horn stuff impulse";

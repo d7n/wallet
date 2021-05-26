@@ -1,1 +1,1 @@
-var mnemonic = "common wealth tattoo clown ritual scrub hazard memory inherit dirt black hero";
+var mnemonic = "upgrade amazing tank carbon small limit produce pink urban guard energy win";

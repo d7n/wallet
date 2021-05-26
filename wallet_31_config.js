@@ -1,1 +1,1 @@
-var mnemonic = "fire garage same school whale slice riot primary appear capable view dawn";
+var mnemonic = "fire polar orbit such invest swap poet soon horror stumble fence assist";

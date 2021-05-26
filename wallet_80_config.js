@@ -1,1 +1,1 @@
-var mnemonic = "clean fold forget truly claw day exotic galaxy food marble wash flush";
+var mnemonic = "tired path music abstract uniform alone minute enlist mouse tree elite nose";

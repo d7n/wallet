@@ -1,1 +1,1 @@
-var mnemonic = "visual benefit shadow fall winter then fat luggage horse pledge much payment";
+var mnemonic = "derive you square rug mobile business measure vast barrel garment hope abandon";

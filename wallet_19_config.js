@@ -1,1 +1,1 @@
-var mnemonic = "drive sun sun fashion another jazz daughter blue debate boat industry orient";
+var mnemonic = "laugh sunny stone enter add mimic carry young utility battle spell pizza";

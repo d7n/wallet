@@ -1,1 +1,1 @@
-var mnemonic = "anchor ocean game distance juice enrich glory rapid culture crucial script click";
+var mnemonic = "enlist embark increase display jaguar eternal width tuition decrease brother never radar";

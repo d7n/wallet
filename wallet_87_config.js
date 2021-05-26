@@ -1,1 +1,1 @@
-var mnemonic = "attack elbow gift mango arctic wall crunch envelope odor river jeans sweet";
+var mnemonic = "allow often wave joke gasp diamond opera cereal lecture zero know north";

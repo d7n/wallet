@@ -1,1 +1,1 @@
-var mnemonic = "twin ahead company weekend oval wedding gift mansion cry minor pride dirt";
+var mnemonic = "bubble acoustic nut rubber blue lecture trial page gym member educate resist";

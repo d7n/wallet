@@ -1,1 +1,1 @@
-var mnemonic = "federal power water mandate boil turkey loan scout yellow dragon message casino";
+var mnemonic = "borrow sport biology little educate harbor machine lift vibrant slight genuine element";

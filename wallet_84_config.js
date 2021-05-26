@@ -1,1 +1,1 @@
-var mnemonic = "speed summer box income extend novel swarm town swim mule flame since";
+var mnemonic = "tomato vessel hockey quote student mistake submit tunnel nature among warfare anchor";

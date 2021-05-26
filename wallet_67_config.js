@@ -1,1 +1,1 @@
-var mnemonic = "vibrant drink auction win elephant off stumble exact trim season surprise exotic";
+var mnemonic = "dragon advance jealous teach member pact reflect turkey swear toilet clog permit";

@@ -1,1 +1,1 @@
-var mnemonic = "estate wreck morning wasp butter thank gap school badge coin mansion castle";
+var mnemonic = "cruel need match fatal hazard can inherit truly auction return file bacon";

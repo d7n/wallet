@@ -1,1 +1,1 @@
-var mnemonic = "toilet chronic timber pilot effort oak wage dress diary six empty unaware";
+var mnemonic = "real square arrest bachelor catalog until mansion aunt lottery video sort again";

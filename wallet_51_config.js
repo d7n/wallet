@@ -1,1 +1,1 @@
-var mnemonic = "start middle digital ordinary riot radar way save decline vehicle original argue";
+var mnemonic = "omit flower trip insect collect occur napkin remind coral rival tone grant";

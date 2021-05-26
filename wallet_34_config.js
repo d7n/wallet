@@ -1,1 +1,1 @@
-var mnemonic = "garlic stay lumber dizzy music parrot cherry will become office leader benefit";
+var mnemonic = "model common champion plate vanish cook push west foster tiny dignity visit";

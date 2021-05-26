@@ -1,1 +1,1 @@
-var mnemonic = "innocent mobile good car entire spoil orchard sleep price avocado skill answer";
+var mnemonic = "carpet liar average beach dune toy enjoy skirt scale ivory quantum cross";

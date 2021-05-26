@@ -1,1 +1,1 @@
-var mnemonic = "fatal hawk divorce win trade skin tumble subway sausage demise genuine attack";
+var mnemonic = "head chapter regular radar repeat loyal winner earn recall oven educate identify";

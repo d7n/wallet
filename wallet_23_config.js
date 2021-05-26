@@ -1,1 +1,1 @@
-var mnemonic = "photo also opinion pupil miss abstract fade jar aim leader stove hockey";
+var mnemonic = "board arrow infant transfer estate scan now throw main can hungry grow";

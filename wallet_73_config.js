@@ -1,1 +1,1 @@
-var mnemonic = "organ anxiety reunion squirrel day rather cigar tunnel spawn sword believe potato";
+var mnemonic = "purchase profit omit finger vessel master keen confirm metal gorilla offer gentle";

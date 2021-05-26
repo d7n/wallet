@@ -1,1 +1,1 @@
-var mnemonic = "soda right hungry gown crush canvas female oyster gentle often west size";
+var mnemonic = "hill monster travel ten hidden sport rare stock crisp fame onion artist";

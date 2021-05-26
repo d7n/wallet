@@ -1,1 +1,1 @@
-var mnemonic = "radar member weather lecture debris surge appear sting joy audit improve seat";
+var mnemonic = "laugh mention wear assist fine west boring battle inhale twist world hurry";

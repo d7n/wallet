@@ -1,1 +1,1 @@
-var mnemonic = "proud curious inflict spy jaguar pencil season one amazing raven fall fitness";
+var mnemonic = "owner thumb oak scheme trouble unhappy desert endless final merit grid boring";

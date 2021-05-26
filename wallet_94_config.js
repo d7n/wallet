@@ -1,1 +1,1 @@
-var mnemonic = "wave alpha park erase ranch unfold visual crack magnet sorry name burger";
+var mnemonic = "talent seven bright news law nurse warrior lucky student tenant buzz heart";

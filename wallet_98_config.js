@@ -1,1 +1,1 @@
-var mnemonic = "peasant divide erupt copper outdoor summer ivory opera junk domain term sample";
+var mnemonic = "valid picture mix clean distance dwarf busy close kick economy mandate history";

@@ -1,1 +1,1 @@
-var mnemonic = "damp identify finger panda city indicate brain flower keep gate pet matrix";
+var mnemonic = "perfect own hamster canoe child supreme cause day logic pulse layer mean";

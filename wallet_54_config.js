@@ -1,1 +1,1 @@
-var mnemonic = "detect proof badge rather cupboard stone suffer theme torch vacant grid country";
+var mnemonic = "tail fatigue mean sleep shiver awesome snack habit race hammer head above";

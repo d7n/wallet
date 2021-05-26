@@ -1,1 +1,1 @@
-var mnemonic = "public below join luxury teach spider easy domain mail rifle abandon multiply";
+var mnemonic = "design income rocket husband clog utility champion age orphan inner duty shallow";

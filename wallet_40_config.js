@@ -1,1 +1,1 @@
-var mnemonic = "cradle sense urge surround alien employ two woman sphere recall gentle weird";
+var mnemonic = "claim drama shove lamp hedgehog rather estate inspire total rebuild multiply patient";
