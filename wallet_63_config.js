@@ -1,1 +1,1 @@
-var mnemonic = "drive zone arrest upset mass pony ethics cheese coin inside slim typical";
+var mnemonic = "baby crime lemon evil rose old private bottom arrest canyon pattern shiver";

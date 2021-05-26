@@ -1,1 +1,1 @@
-var mnemonic = "flight depth team sugar guilt addict inflict paddle sense budget useful unknown";
+var mnemonic = "promote push access actual yard elevator ring virtual club remain trial mean";

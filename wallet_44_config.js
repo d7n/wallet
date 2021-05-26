@@ -1,1 +1,1 @@
-var mnemonic = "crystal piano spend awkward reduce bronze pulp burden chunk salon lend security";
+var mnemonic = "blanket lava lawn welcome immense orange domain often alone radar visa tomato";

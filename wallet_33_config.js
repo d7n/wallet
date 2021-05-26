@@ -1,1 +1,1 @@
-var mnemonic = "need fun corn duty chunk image net shrimp citizen zone hollow balance";
+var mnemonic = "hidden fabric domain deliver uncover skin october bundle transfer apart science staff";

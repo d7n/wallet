@@ -1,1 +1,1 @@
-var mnemonic = "observe stick donkey trouble evolve alarm jewel tragic case tiger vault bounce";
+var mnemonic = "elegant code hub repeat pigeon glimpse feature mistake ladder meat elite adjust";

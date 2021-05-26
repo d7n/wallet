@@ -1,1 +1,1 @@
-var mnemonic = "lion wish stick law firm barely level mouse quality riot drastic van";
+var mnemonic = "marble execute blossom mistake evidence rice owner dragon mutual puzzle actual cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "whip control flock rebel second mask devote scatter jewel apart mix point";
+var mnemonic = "proof copper village luxury fade surge neck velvet cage luxury volume unknown";

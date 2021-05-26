@@ -1,1 +1,1 @@
-var mnemonic = "satoshi venture web aisle flip try senior sting tortoise team help wonder";
+var mnemonic = "reunion away priority matter young use mixed pass shiver guilt desert gate";

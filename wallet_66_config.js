@@ -1,1 +1,1 @@
-var mnemonic = "fantasy drink goat crawl domain melt orange butter change brass banner regret";
+var mnemonic = "drill spray dinosaur fury enough bean surprise task skirt quiz flip curious";

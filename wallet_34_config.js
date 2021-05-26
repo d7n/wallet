@@ -1,1 +1,1 @@
-var mnemonic = "coral deer spare outdoor theory kiwi narrow vanish song utility swamp media";
+var mnemonic = "hazard sustain evidence seat burden slab width weasel into mutual place zoo";

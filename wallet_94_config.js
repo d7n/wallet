@@ -1,1 +1,1 @@
-var mnemonic = "smart person burger couch lesson runway boat only spell ticket whip brief";
+var mnemonic = "plate mango meat satisfy margin develop riot road term outside jungle coral";

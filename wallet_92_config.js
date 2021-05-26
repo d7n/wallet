@@ -1,1 +1,1 @@
-var mnemonic = "occur draw urban combine level indicate boil breeze lake circle matter artefact";
+var mnemonic = "strike demise master love rather nose disease guilt hamster art behind panther";

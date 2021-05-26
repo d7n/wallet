@@ -1,1 +1,1 @@
-var mnemonic = "friend other inquiry raccoon truck enough bag pulse axis unlock differ mobile";
+var mnemonic = "garlic digital soft barrel town scan outer veteran devote agree ethics salon";

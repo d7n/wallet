@@ -1,1 +1,1 @@
-var mnemonic = "anxiety buzz matrix step blast attend govern fiction bicycle twelve brain dentist";
+var mnemonic = "access curve sock hill fiscal kite leaf judge artist noise liar rose";

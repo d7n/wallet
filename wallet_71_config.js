@@ -1,1 +1,1 @@
-var mnemonic = "speed useless fragile custom hope fortune diet scatter father front beach spray";
+var mnemonic = "kitchen prefer gesture usage maximum violin input airport coral fun piece awful";

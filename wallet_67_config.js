@@ -1,1 +1,1 @@
-var mnemonic = "hazard humor practice diesel awesome then bag sell velvet rookie decide cloud";
+var mnemonic = "raw soup sing vibrant hold sport target girl minute label aim swing";

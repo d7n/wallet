@@ -1,1 +1,1 @@
-var mnemonic = "relief water anchor call company owner abuse another prison clog sister mammal";
+var mnemonic = "arctic verb polar broken case torch smart laptop record elegant appear large";

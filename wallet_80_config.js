@@ -1,1 +1,1 @@
-var mnemonic = "photo genre silent wire height tent similar shield pact easy usual alpha";
+var mnemonic = "argue nothing supreme decorate reward stick soul hard crunch theory insect reunion";

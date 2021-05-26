@@ -1,1 +1,1 @@
-var mnemonic = "bonus fence witness arrive peasant submit dove arrow jealous fault split tumble";
+var mnemonic = "wheat vendor birth simple immense crazy mammal zoo stool element rookie method";

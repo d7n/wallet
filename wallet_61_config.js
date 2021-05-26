@@ -1,1 +1,1 @@
-var mnemonic = "crucial matter question multiply improve cancel elegant you liquid betray sting mail";
+var mnemonic = "section trim guitar genuine stumble skin cruel olive input palm juice maple";

@@ -1,1 +1,1 @@
-var mnemonic = "skin secret cup rival mercy broken inquiry pumpkin degree brush beyond harvest";
+var mnemonic = "diesel banana gap tourist pledge border ghost stereo flock attend boat include";

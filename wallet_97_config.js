@@ -1,1 +1,1 @@
-var mnemonic = "state cousin marble youth dad embark skull day torch ask detect approve";
+var mnemonic = "hungry bomb patch sniff shine thumb organ omit brother era purpose reopen";

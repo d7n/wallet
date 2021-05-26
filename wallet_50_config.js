@@ -1,1 +1,1 @@
-var mnemonic = "velvet action clown crime canyon chase miracle immense guard law walnut knee";
+var mnemonic = "tube render leg tourist ticket bar distance ancient brother pause robust coil";

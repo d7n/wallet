@@ -1,1 +1,1 @@
-var mnemonic = "egg erase ghost image super quiz olive snack head escape taste cycle";
+var mnemonic = "better apple broom fortune act lava pyramid update surge frown labor planet";

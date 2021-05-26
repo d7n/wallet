@@ -1,1 +1,1 @@
-var mnemonic = "come catch dinner guide lunar spatial tower sell trade result lock absorb";
+var mnemonic = "finger intact rigid dog girl february pond moral slab peasant until team";

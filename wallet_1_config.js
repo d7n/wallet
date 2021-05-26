@@ -1,1 +1,1 @@
-var mnemonic = "stairs reunion pair local spray hill repair devote chimney engage venture surround";
+var mnemonic = "couch sing secret region butter coast another accident fly vocal sugar manual";

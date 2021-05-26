@@ -1,1 +1,1 @@
-var mnemonic = "indoor praise kick float bean adjust giant glance mail lecture mixed rude";
+var mnemonic = "robot child toddler world ring hawk garlic phone purpose music tobacco pencil";

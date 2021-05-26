@@ -1,1 +1,1 @@
-var mnemonic = "ozone unusual switch machine disagree disagree negative close person tilt august shallow";
+var mnemonic = "rabbit simple flame win waste behind episode kidney welcome water nuclear rely";

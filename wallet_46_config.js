@@ -1,1 +1,1 @@
-var mnemonic = "umbrella hockey afraid draw jeans image flock crash camp mango derive goose";
+var mnemonic = "cool prize ozone puzzle crop uniform menu fever speak village connect humor";

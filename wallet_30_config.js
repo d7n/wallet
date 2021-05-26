@@ -1,1 +1,1 @@
-var mnemonic = "ordinary puzzle caught gift please rabbit barely avoid any climb wrestle foot";
+var mnemonic = "anchor humor decorate unfair giant effort panic scrub outside invest train patrol";

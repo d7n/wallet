@@ -1,1 +1,1 @@
-var mnemonic = "ranch police slot legend execute tenant venue wish light again figure rhythm";
+var mnemonic = "wife group raw cloth parrot balcony volcano mixed add cake choice fame";

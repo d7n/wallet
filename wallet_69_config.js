@@ -1,1 +1,1 @@
-var mnemonic = "expire post access capital step smoke moment make lonely tree captain combine";
+var mnemonic = "artist pledge elephant notable power badge erode increase knee say final million";

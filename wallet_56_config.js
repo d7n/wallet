@@ -1,1 +1,1 @@
-var mnemonic = "move ginger announce trial catalog tourist silly shallow acoustic people iron fortune";
+var mnemonic = "real bench venture loud favorite balcony visa model safe noble output poem";

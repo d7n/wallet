@@ -1,1 +1,1 @@
-var mnemonic = "drill situate asthma umbrella follow scorpion scare stomach fiction humor brush reward";
+var mnemonic = "toddler snap stay whip hope uncover girl license ghost ocean typical inner";

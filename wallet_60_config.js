@@ -1,1 +1,1 @@
-var mnemonic = "scatter calm health hungry cotton reopen rural spoon rich pulp frequent intact";
+var mnemonic = "venture lawn expect weapon number cargo bracket dirt violin visual fantasy address";

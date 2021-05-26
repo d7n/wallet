@@ -1,1 +1,1 @@
-var mnemonic = "polar wealth veteran pink question rather keen copper river snap fluid february";
+var mnemonic = "smoke glide drop magic idle lecture moment drum relief sentence shove report";

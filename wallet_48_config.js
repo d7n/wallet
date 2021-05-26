@@ -1,1 +1,1 @@
-var mnemonic = "captain license draw delay police decade resemble clip father soft hood rice";
+var mnemonic = "hybrid tongue regular punch figure breeze cheese divert input cake sweet dust";

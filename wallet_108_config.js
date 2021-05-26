@@ -1,1 +1,1 @@
-var mnemonic = "stamp device update isolate unique deal click suffer athlete illness rate design";
+var mnemonic = "sugar fiction stage bring spy normal silly crunch useful vehicle pole divorce";

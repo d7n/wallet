@@ -1,1 +1,1 @@
-var mnemonic = "deal later vivid butter wrong already sport win mass venue apology reward";
+var mnemonic = "grief maximum panther divorce unfold ribbon cigar eager that prefer saddle fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "degree leg retreat check song cloud vital minimum split shy coil now";
+var mnemonic = "dragon swallow board good design breeze whisper economy phrase nice fire dolphin";

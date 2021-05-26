@@ -1,1 +1,1 @@
-var mnemonic = "bird asthma motion cover electric also flush exotic science uniform beauty enable";
+var mnemonic = "nerve ready collect brush crush write celery very festival element prevent lucky";

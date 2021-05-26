@@ -1,1 +1,1 @@
-var mnemonic = "coral happy talk expect fitness skate matter box matrix champion orphan syrup";
+var mnemonic = "mass maze country dirt indoor burden clever profit neither sell fever track";

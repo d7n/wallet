@@ -1,1 +1,1 @@
-var mnemonic = "miracle day curtain timber hope usual rally evolve connect steak cigar ticket";
+var mnemonic = "wasp deposit guard develop route skate use oak major salmon web busy";

@@ -1,1 +1,1 @@
-var mnemonic = "say mail swing north offer avocado wolf soccer depend advice wall ivory";
+var mnemonic = "blanket job turn oval canal blanket jealous pitch badge bench trick arrest";

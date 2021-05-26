@@ -1,1 +1,1 @@
-var mnemonic = "provide year couple pipe miss upper silent slam web soup chuckle inspire";
+var mnemonic = "tornado dynamic estate client issue chimney credit gauge awesome prize jelly purse";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest chair often city infant charge angry ethics pride broccoli broom error";
+var mnemonic = "sign lunch leopard dream midnight horse gorilla neutral blade fatal wrong flee";

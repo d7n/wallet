@@ -1,1 +1,1 @@
-var mnemonic = "okay shock attend person favorite lucky force aisle motion rack dish whale";
+var mnemonic = "drum unfold canyon scrap practice spoil small bronze bicycle frog swap caution";

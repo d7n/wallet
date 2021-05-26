@@ -1,1 +1,1 @@
-var mnemonic = "similar knee shield truth traffic glass coconut shuffle slice crime insect struggle";
+var mnemonic = "cable require already pond weird bargain black excuse brief web diary engine";

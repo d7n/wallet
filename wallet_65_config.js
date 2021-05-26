@@ -1,1 +1,1 @@
-var mnemonic = "pepper chef leaf undo junk hip flame penalty doll impulse vintage school";
+var mnemonic = "address check pole elegant connect cloud vote future sure web expect shadow";

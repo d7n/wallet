@@ -1,1 +1,1 @@
-var mnemonic = "special truly reject follow holiday veteran evoke cake fit radio humble hybrid";
+var mnemonic = "yard kid glance season penalty jazz traffic cruel enter output gentle rebel";

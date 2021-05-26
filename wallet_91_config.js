@@ -1,1 +1,1 @@
-var mnemonic = "general solution spy trouble ignore apple inspire pet write deposit ring remember";
+var mnemonic = "distance ability goat bacon bacon earth asset humor wood chief slot bring";

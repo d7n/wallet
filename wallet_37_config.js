@@ -1,1 +1,1 @@
-var mnemonic = "dash rhythm shoot gauge accuse august fog oven sphere knee response february";
+var mnemonic = "brave observe stumble across load ethics choose field nuclear song among bleak";

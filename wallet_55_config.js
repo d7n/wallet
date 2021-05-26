@@ -1,1 +1,1 @@
-var mnemonic = "galaxy report sing judge cradle cricket rabbit apart system worth live use";
+var mnemonic = "liberty ski private zero speed excuse hip promote bright express garage must";

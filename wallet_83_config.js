@@ -1,1 +1,1 @@
-var mnemonic = "speed pole obscure hello convince infant ladder salute blur history bone enforce";
+var mnemonic = "pioneer length tornado flag region nominee carbon squeeze blur blush setup amount";

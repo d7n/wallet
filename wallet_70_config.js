@@ -1,1 +1,1 @@
-var mnemonic = "wild blood reflect property health nurse hotel soda foot practice build nice";
+var mnemonic = "vendor kitten tool suggest matrix fish before enter color pink people cup";

@@ -1,1 +1,1 @@
-var mnemonic = "universe minute wood journey guard pear soap poverty pulp drama boy actual";
+var mnemonic = "kidney diet chuckle undo believe reveal similar rookie raccoon become owner emotion";

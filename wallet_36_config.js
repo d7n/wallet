@@ -1,1 +1,1 @@
-var mnemonic = "list retire base elbow witness fame planet depend decide era rare arrange";
+var mnemonic = "true ahead steel retire identify dinosaur silly giggle warrior oppose space remain";

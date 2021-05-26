@@ -1,1 +1,1 @@
-var mnemonic = "antique kid turn notice axis decide brush teach walnut write clap lecture";
+var mnemonic = "crack gift treat coconut mandate crawl toilet forest thunder output damage march";

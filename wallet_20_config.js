@@ -1,1 +1,1 @@
-var mnemonic = "quiz assault uphold people mansion refuse plug fabric employ diagram crazy talk";
+var mnemonic = "cargo ivory favorite urge west guide knife deliver invite govern program panda";

@@ -1,1 +1,1 @@
-var mnemonic = "cram picture easily young bone mention barrel round distance universe maple gesture";
+var mnemonic = "vicious consider eyebrow life curtain school salad sauce much distance error business";

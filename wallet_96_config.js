@@ -1,1 +1,1 @@
-var mnemonic = "inflict demand forum possible virus rich weasel rapid radar hint horse plunge";
+var mnemonic = "giraffe faith you cause annual cement step put lion duty miss attract";

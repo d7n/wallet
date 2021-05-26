@@ -1,1 +1,1 @@
-var mnemonic = "armed vivid isolate pass mail beauty funny insane pride aunt park choose";
+var mnemonic = "rule device admit say design glide float oak inflict marine name miracle";

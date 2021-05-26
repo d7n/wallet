@@ -1,1 +1,1 @@
-var mnemonic = "gather lawn letter flip notice quality coyote weasel eyebrow invite solar clinic";
+var mnemonic = "truck alarm stone banner miracle route margin aisle proud frog best job";

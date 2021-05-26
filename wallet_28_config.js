@@ -1,1 +1,1 @@
-var mnemonic = "taxi prevent globe first faith thunder over logic blade plastic ordinary slogan";
+var mnemonic = "dilemma have nasty plunge napkin canoe stick order castle verify member attract";

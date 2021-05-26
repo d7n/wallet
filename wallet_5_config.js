@@ -1,1 +1,1 @@
-var mnemonic = "blossom devote clap taxi way example seven chicken jacket marine width six";
+var mnemonic = "square tiny excess auto melody frown solve wrong tell thunder execute utility";

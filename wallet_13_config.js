@@ -1,1 +1,1 @@
-var mnemonic = "volcano fit short monkey become clarify into tube boost million atom vote";
+var mnemonic = "soul deposit alone decorate ten grant found person pioneer blur cute tomato";

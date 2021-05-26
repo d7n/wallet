@@ -1,1 +1,1 @@
-var mnemonic = "typical sweet depart urge sight flee puzzle stem visit entry still trumpet";
+var mnemonic = "fatigue december swap jump poverty toddler soda horse polar critic grant ugly";

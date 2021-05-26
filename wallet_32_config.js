@@ -1,1 +1,1 @@
-var mnemonic = "defense claim treat elephant nurse year speak warrior yard smart discover soap";
+var mnemonic = "equip engine shop angle vanish release half rude tiny awkward warfare awkward";

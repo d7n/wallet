@@ -1,1 +1,1 @@
-var mnemonic = "wonder page moon speed bulb tool view hover glory galaxy topple orphan";
+var mnemonic = "alter proud forward vicious pipe conduct define neglect swap void antique blame";

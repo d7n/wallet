@@ -1,1 +1,1 @@
-var mnemonic = "assault arrange slender piano offer edge discover hill discover emerge embark solar";
+var mnemonic = "agent rail angle sunset pet kangaroo speed nature smoke guess jaguar avoid";

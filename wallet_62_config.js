@@ -1,1 +1,1 @@
-var mnemonic = "settle tomato cable accuse oyster anchor jar lemon coil reason girl vital";
+var mnemonic = "connect furnace forget family minor tank soon junk faint key chaos tool";

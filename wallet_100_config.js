@@ -1,1 +1,1 @@
-var mnemonic = "awake blush curve plate people chronic birth west witness foil route merge";
+var mnemonic = "arm correct inside there novel retreat chicken menu swallow flower biology repeat";

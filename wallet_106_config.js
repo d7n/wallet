@@ -1,1 +1,1 @@
-var mnemonic = "run medal wise market print until resist simple sort crane already idea";
+var mnemonic = "chapter way replace kitten sponsor injury moon bean trim fashion truly income";

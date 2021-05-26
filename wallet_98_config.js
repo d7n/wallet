@@ -1,1 +1,1 @@
-var mnemonic = "monitor kick beyond fragile today student champion menu trumpet churn hour toast";
+var mnemonic = "minute fragile tribe abstract mercy valley please obey toddler salon local fabric";

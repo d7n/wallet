@@ -1,1 +1,1 @@
-var mnemonic = "enroll metal average output also medal winter figure order property online awful";
+var mnemonic = "job loud develop tray palace cry recycle noble toddler amazing member model";

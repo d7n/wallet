@@ -1,1 +1,1 @@
-var mnemonic = "note upper increase latin athlete harsh nurse motion trophy section attack velvet";
+var mnemonic = "wine add target man miss bottom chuckle crater degree provide tragic borrow";

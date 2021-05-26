@@ -1,1 +1,1 @@
-var mnemonic = "park gate gate history youth tape script tent search upper unknown cable";
+var mnemonic = "champion deer install diamond million text wedding sail direct demand mercy symptom";

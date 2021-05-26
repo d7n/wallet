@@ -1,1 +1,1 @@
-var mnemonic = "memory category frozen copy benefit typical violin arctic spray neither wreck breeze";
+var mnemonic = "hello sun omit pen note evidence crouch pottery slide busy impulse winner";

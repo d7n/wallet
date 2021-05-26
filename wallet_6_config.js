@@ -1,1 +1,1 @@
-var mnemonic = "flavor indoor fitness network enhance patient toilet venue roast level thumb pigeon";
+var mnemonic = "output kite animal vital oak fold fiction minute poet rubber destroy chimney";

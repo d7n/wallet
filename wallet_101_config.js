@@ -1,1 +1,1 @@
-var mnemonic = "almost melody tenant lava habit champion cross bleak actual mixture icon shaft";
+var mnemonic = "regular truck hungry simple describe elegant isolate away exotic hole general sort";

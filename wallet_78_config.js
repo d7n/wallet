@@ -1,1 +1,1 @@
-var mnemonic = "will before butter tortoise sister jelly manual day firm treat zoo miss";
+var mnemonic = "salmon clutch example raw summer alarm dune faint copy tag course stay";

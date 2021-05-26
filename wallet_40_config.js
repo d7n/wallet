@@ -1,1 +1,1 @@
-var mnemonic = "tray staff guide furnace price rough oyster trust cheap roast wait coyote";
+var mnemonic = "aspect later urge random pig february multiply regular undo hire picnic envelope";

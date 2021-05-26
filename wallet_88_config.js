@@ -1,1 +1,1 @@
-var mnemonic = "use enrich walk collect guess camera inspire grain solve old retreat about";
+var mnemonic = "act alien keep barely frozen evoke rice together bright budget spirit village";

@@ -1,1 +1,1 @@
-var mnemonic = "bench give phone burst special gain stuff course paddle manual exist tourist";
+var mnemonic = "pepper eye pumpkin mirror smile scissors material suit promote find sugar easy";

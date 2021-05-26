@@ -1,1 +1,1 @@
-var mnemonic = "gather denial shrug pear memory wedding fatigue naive artefact cluster upon that";
+var mnemonic = "fatigue canal release urge license later fiscal mystery west silver traffic stomach";

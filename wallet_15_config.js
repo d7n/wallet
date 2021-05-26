@@ -1,1 +1,1 @@
-var mnemonic = "mom spring sword retreat wish flash detail pledge dog lemon rotate twist";
+var mnemonic = "witness meat romance viable sleep they behave diesel way promote biology execute";

@@ -1,1 +1,1 @@
-var mnemonic = "west happy quiz moon sort demand thrive label sponsor snack fee that";
+var mnemonic = "excite wasp figure grace fruit debate together demand tone seven collect traffic";

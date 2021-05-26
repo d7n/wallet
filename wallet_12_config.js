@@ -1,1 +1,1 @@
-var mnemonic = "document capital usage hurt sort onion typical silk bind airport baby deputy";
+var mnemonic = "lyrics slim taste detect owner seek marine force shallow clog view develop";

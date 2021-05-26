@@ -1,1 +1,1 @@
-var mnemonic = "squeeze month ask visa degree excess spot arrest tennis broken broom chief";
+var mnemonic = "august report return damp obscure host phrase camp churn matter unable fossil";

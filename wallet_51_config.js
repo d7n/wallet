@@ -1,1 +1,1 @@
-var mnemonic = "venture orphan toward tilt erode differ theory stairs puppy exercise degree rate";
+var mnemonic = "talk loan buzz favorite erase thing grunt humble tower night random convince";

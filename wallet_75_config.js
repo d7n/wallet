@@ -1,1 +1,1 @@
-var mnemonic = "buzz near lobster inhale bachelor few total drum barely humble feel blade";
+var mnemonic = "search sponsor try acoustic surround world decide exist trend better rather method";

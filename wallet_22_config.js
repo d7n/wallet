@@ -1,1 +1,1 @@
-var mnemonic = "joy ginger defy enforce clown village unaware moon venture bitter buzz dawn";
+var mnemonic = "fence wrong local swap kind mirror lecture situate inspire remove knife uphold";

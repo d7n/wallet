@@ -1,1 +1,1 @@
-var mnemonic = "glow chief rough depend tissue castle soul biology edge giggle proof clever";
+var mnemonic = "rookie explain eyebrow hybrid poem arrest across mirror unable crater april scale";

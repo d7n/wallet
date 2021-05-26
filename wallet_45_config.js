@@ -1,1 +1,1 @@
-var mnemonic = "night pony turn since east vanish concert copper cupboard silly friend purity";
+var mnemonic = "stadium grit cinnamon cash enable bridge drive final page slide someone culture";

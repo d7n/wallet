@@ -1,1 +1,1 @@
-var mnemonic = "since chalk diamond physical pulse ridge pistol fade stock obvious butter goat";
+var mnemonic = "solve dwarf orient spin bind tourist desk rally vital bundle reflect rival";
