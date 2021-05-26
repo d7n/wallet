@@ -1,1 +1,1 @@
-var mnemonic = "style demand claim jaguar unaware much city general destroy rack emotion earn";
+var mnemonic = "spend parrot online involve cattle cruel alter must reform display economy club";

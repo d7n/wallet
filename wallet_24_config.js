@@ -1,1 +1,1 @@
-var mnemonic = "meadow sound lottery fabric spread slender vocal carry talk industry price shield";
+var mnemonic = "autumn split banner link spray dry sugar relief plastic man stay title";

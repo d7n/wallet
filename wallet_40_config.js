@@ -1,1 +1,1 @@
-var mnemonic = "feel clip accuse claim achieve salmon ready sell youth gravity holiday music";
+var mnemonic = "student dinner vast pledge honey budget trumpet nation occur patrol habit list";

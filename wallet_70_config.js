@@ -1,1 +1,1 @@
-var mnemonic = "old identify bike erupt glove license zebra gadget toss morning faint occur";
+var mnemonic = "menu couple convince stove anger fee arrange wood tuition trouble tiny honey";

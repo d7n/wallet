@@ -1,1 +1,1 @@
-var mnemonic = "furnace suit permit cause receive panic sausage lemon member hawk forum bus";
+var mnemonic = "enact cave oval length script paper always blanket possible dolphin arm wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "goat remain venue slam tone very more loyal call pipe judge breeze";
+var mnemonic = "hover clap amused broken sphere sibling will weather claim bind clown riot";

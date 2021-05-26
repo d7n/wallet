@@ -1,1 +1,1 @@
-var mnemonic = "sister shoot suggest erase arm diesel sunny good clever uniform cattle tank";
+var mnemonic = "kitten gallery turkey among glance road ecology equip office deal major regret";

@@ -1,1 +1,1 @@
-var mnemonic = "fat culture vessel reopen october dumb list lift club glare shell budget";
+var mnemonic = "hurt adjust phone maximum open holiday tortoise appear aware apple clay wave";

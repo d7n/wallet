@@ -1,1 +1,1 @@
-var mnemonic = "response boss name educate vessel property leaf credit shiver spawn razor episode";
+var mnemonic = "peanut high elder soon fan fade member dog little elite gift zone";

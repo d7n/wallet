@@ -1,1 +1,1 @@
-var mnemonic = "physical capital fabric system describe tilt famous cry define resource blast mention";
+var mnemonic = "hire result any submit tuna garbage script jacket moral tornado same pretty";

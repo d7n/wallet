@@ -1,1 +1,1 @@
-var mnemonic = "snow wealth raise illness legal primary flip rough rich advice afraid zero";
+var mnemonic = "conduct mammal rough cheese tide carpet runway liar cute street reason scare";

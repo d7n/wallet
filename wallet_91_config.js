@@ -1,1 +1,1 @@
-var mnemonic = "century multiply shrimp citizen prize trade subway pill machine guess that pool";
+var mnemonic = "oval clean future blur burger baby bid device match execute flash between";

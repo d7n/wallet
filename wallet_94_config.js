@@ -1,1 +1,1 @@
-var mnemonic = "garden endorse project valid size antenna all pupil kidney intact service ginger";
+var mnemonic = "stereo frown trial sketch vast monitor try chalk across spice mimic silly";

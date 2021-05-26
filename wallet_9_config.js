@@ -1,1 +1,1 @@
-var mnemonic = "payment outdoor print prosper knee tree very win orchard income girl stadium";
+var mnemonic = "you raw glow rather swear direct jaguar across onion axis define repair";

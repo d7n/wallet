@@ -1,1 +1,1 @@
-var mnemonic = "mango flight image camp awkward minimum promote person elephant furnace arena garbage";
+var mnemonic = "prepare length model silk chapter finish guilt club chapter humor keen cute";

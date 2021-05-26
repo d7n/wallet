@@ -1,1 +1,1 @@
-var mnemonic = "mesh payment choose repair elephant anger dress verb six pulp pet conduct";
+var mnemonic = "apart tube virus mouse slight fantasy city stairs auto worry reduce allow";

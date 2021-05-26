@@ -1,1 +1,1 @@
-var mnemonic = "imitate category breeze exact matrix amateur umbrella language pretty physical garment spice";
+var mnemonic = "myth gas wrong grape hammer lock beauty lawn inherit voice enact spider";

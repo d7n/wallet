@@ -1,1 +1,1 @@
-var mnemonic = "demand stadium mango throw chicken media network scrap disease honey good spike";
+var mnemonic = "clutch barely beef goddess company weather defense vague trust side explain echo";

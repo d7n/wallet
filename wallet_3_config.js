@@ -1,1 +1,1 @@
-var mnemonic = "craft document hospital grit print analyst response cash ozone seek abstract squirrel";
+var mnemonic = "dawn warrior miracle grant supreme six echo satisfy borrow grass assist prosper";

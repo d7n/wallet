@@ -1,1 +1,1 @@
-var mnemonic = "humor under choice soap immense soda raw always finish zone affair amazing";
+var mnemonic = "among auto unlock arrest aspect false attack source nation steak security drive";

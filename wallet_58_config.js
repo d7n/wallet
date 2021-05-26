@@ -1,1 +1,1 @@
-var mnemonic = "good peace payment sentence picnic walk million actor sting canvas hair thing";
+var mnemonic = "divert double have awful wedding more butter blind clarify detect shine federal";

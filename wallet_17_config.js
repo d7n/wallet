@@ -1,1 +1,1 @@
-var mnemonic = "orphan car town leaf sniff okay secret morning skull across pupil caution";
+var mnemonic = "figure autumn gaze expect spend wave legend fox wash tide book coin";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare crime answer effort latin mobile credit scrap supply pilot season capable";
+var mnemonic = "blanket sibling prevent cushion crawl minute awkward hope differ involve hip wood";

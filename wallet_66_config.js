@@ -1,1 +1,1 @@
-var mnemonic = "disease useless movie essence address list shop enemy lazy plug town right";
+var mnemonic = "faith annual jungle game strategy betray purchase insane such wolf milk exist";

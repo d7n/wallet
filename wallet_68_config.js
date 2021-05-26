@@ -1,1 +1,1 @@
-var mnemonic = "kite old cave ready asset light wood clever glare come father wheel";
+var mnemonic = "kid income reunion symbol argue mix bulb minute mandate whip ridge heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "panel eager idle tuition keep deal acid fatal caution ski swap find";
+var mnemonic = "when spare all mom bright welcome solid derive walk announce garment liberty";

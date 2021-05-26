@@ -1,1 +1,1 @@
-var mnemonic = "bar toward that divide soul symbol chuckle crack garden oven surface trigger";
+var mnemonic = "illness wash scene insane canyon hire waste right limb wash virtual garlic";

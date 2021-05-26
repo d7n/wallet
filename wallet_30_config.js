@@ -1,1 +1,1 @@
-var mnemonic = "thunder tray enact winner asset mechanic arctic luxury captain farm patrol busy";
+var mnemonic = "spatial current outer marble memory mountain whisper claw surround spoil suffer join";

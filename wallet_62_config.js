@@ -1,1 +1,1 @@
-var mnemonic = "begin stem light hold skirt olympic method enemy pattern leopard arch lumber";
+var mnemonic = "tobacco fence dwarf chat win ugly volcano series fetch forum spend tobacco";

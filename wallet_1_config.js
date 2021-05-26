@@ -1,1 +1,1 @@
-var mnemonic = "return letter portion labor trend crop large hood blur start organ nasty";
+var mnemonic = "enlist accuse curve analyst chronic kit vintage clarify arrive vast leopard plastic";

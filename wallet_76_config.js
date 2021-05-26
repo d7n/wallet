@@ -1,1 +1,1 @@
-var mnemonic = "cousin asset pioneer salad actor safe palace mammal kangaroo visit copy lion";
+var mnemonic = "situate proof kangaroo paddle agree brush system describe add journey mesh awake";

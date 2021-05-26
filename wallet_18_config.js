@@ -1,1 +1,1 @@
-var mnemonic = "mountain animal stadium casual custom fold over genius shiver what merge toss";
+var mnemonic = "brain enable injury slice endless effort one work panic shop pair culture";

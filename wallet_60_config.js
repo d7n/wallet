@@ -1,1 +1,1 @@
-var mnemonic = "because long advance ocean spice choose debate cheese theory trophy chalk garden";
+var mnemonic = "title leisure renew device axis almost nuclear unable rotate original reason inherit";

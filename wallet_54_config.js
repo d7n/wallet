@@ -1,1 +1,1 @@
-var mnemonic = "option knock tattoo collect mixed alpha supply inflict switch hub south option";
+var mnemonic = "alert build transfer cousin fat survey snap aspect engine thrive tray shrug";

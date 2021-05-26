@@ -1,1 +1,1 @@
-var mnemonic = "clever bike elbow garage taxi kite invite energy hidden rose manage member";
+var mnemonic = "stick chapter shell laugh hip fluid sport label arch subway wrap harsh";

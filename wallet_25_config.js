@@ -1,1 +1,1 @@
-var mnemonic = "gossip gap sphere upper ordinary smooth question predict hockey never found print";
+var mnemonic = "spice budget letter phrase confirm pony wrong staff actor theme hurt possible";

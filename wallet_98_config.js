@@ -1,1 +1,1 @@
-var mnemonic = "identify harbor uncover gather record diagram abuse suspect biology depend sister around";
+var mnemonic = "hamster boring puppy term exchange eye link belt account age tiger imitate";

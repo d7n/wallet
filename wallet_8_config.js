@@ -1,1 +1,1 @@
-var mnemonic = "gesture illness scorpion device select corn impact intact forget crumble calm tribe";
+var mnemonic = "combine kangaroo clever depend scorpion install staff edit estate lesson deliver pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow coach novel solve dolphin blouse water pull worth begin slow protect";
+var mnemonic = "solar easy banana focus drop garment man medal keep upgrade firm foot";

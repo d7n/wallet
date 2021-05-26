@@ -1,1 +1,1 @@
-var mnemonic = "skill biology record moral anchor tooth high fluid circle lonely all able";
+var mnemonic = "intact join month mistake open pepper goose derive document main dish urban";

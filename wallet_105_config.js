@@ -1,1 +1,1 @@
-var mnemonic = "physical misery history enhance core wire punch casino issue obscure together expire";
+var mnemonic = "fee work dream diagram reason regular half method west know manual payment";

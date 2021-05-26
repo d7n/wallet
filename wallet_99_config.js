@@ -1,1 +1,1 @@
-var mnemonic = "canyon chef power sand phrase rural west hamster accident flag metal album";
+var mnemonic = "marine assist admit side list mimic ahead stadium civil decade upset tree";

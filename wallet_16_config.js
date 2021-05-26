@@ -1,1 +1,1 @@
-var mnemonic = "orphan barrel weird pond kid camp sausage vintage eight resemble follow question";
+var mnemonic = "vicious myth lounge fancy wall heart siege topple assume hungry grain chimney";

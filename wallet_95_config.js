@@ -1,1 +1,1 @@
-var mnemonic = "modify mystery relax ethics main material basket find guitar burden tip universe";
+var mnemonic = "uphold pelican cereal input wire choice pyramid ginger crystal unveil prepare vocal";

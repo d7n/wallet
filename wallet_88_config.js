@@ -1,1 +1,1 @@
-var mnemonic = "pink address raw obscure child sphere matrix solar release that fringe woman";
+var mnemonic = "wisdom game unknown middle fox math seven minute consider industry input fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors solid usage rural ribbon submit bid syrup humble wasp love purse";
+var mnemonic = "replace taxi notable bleak inhale relief creek fire sheriff planet brick lava";

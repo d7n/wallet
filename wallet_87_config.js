@@ -1,1 +1,1 @@
-var mnemonic = "donate amount glare twist fitness behind swarm mule pelican grow curtain control";
+var mnemonic = "type govern knock fatigue jelly refuse boost magic health before joke medal";

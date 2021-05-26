@@ -1,1 +1,1 @@
-var mnemonic = "draw mandate cry body brown more weasel fantasy kingdom try title mutual";
+var mnemonic = "cry find bright ill economy convince eye year link wink oil slow";

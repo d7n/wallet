@@ -1,1 +1,1 @@
-var mnemonic = "can stamp crunch woman tooth puzzle step inside purpose champion clutch kite";
+var mnemonic = "fox seed small wolf trumpet balance horror web link party task elevator";

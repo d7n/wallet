@@ -1,1 +1,1 @@
-var mnemonic = "chest night first jewel hazard muscle glimpse tobacco spot firm column just";
+var mnemonic = "about wine drop lonely casino boost subject fetch chuckle feed main mind";

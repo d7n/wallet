@@ -1,1 +1,1 @@
-var mnemonic = "taxi skirt trial praise laundry copper inform brick enrich just draw enforce";
+var mnemonic = "nose history congress scheme segment bone shoe mutual certain lend review clarify";

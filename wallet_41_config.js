@@ -1,1 +1,1 @@
-var mnemonic = "obtain math purse arrest mother age expand stamp dad gold pony civil";
+var mnemonic = "toward mention flee patient thunder leg call survey tooth conduct tag cloud";

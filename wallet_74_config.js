@@ -1,1 +1,1 @@
-var mnemonic = "laugh cannon high angry fire hotel slender tower ice lesson gather large";
+var mnemonic = "eagle appear quote deer hire dilemma hockey raccoon fiscal always ask imitate";

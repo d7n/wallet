@@ -1,1 +1,1 @@
-var mnemonic = "asset total need blade dance ketchup tide birth soda tribe bulk setup";
+var mnemonic = "chuckle hybrid prosper size palm angry order donor strike science unhappy useless";

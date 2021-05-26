@@ -1,1 +1,1 @@
-var mnemonic = "project gloom aim major toast clap company diary build distance craft husband";
+var mnemonic = "protect excite sausage stereo until tank gap question bomb body draft noble";

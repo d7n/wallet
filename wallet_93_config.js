@@ -1,1 +1,1 @@
-var mnemonic = "bulk vacuum awake refuse evidence job fork fantasy office become volume people";
+var mnemonic = "speak wasp sudden ordinary riot powder lab clump change possible simple ability";

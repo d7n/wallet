@@ -1,1 +1,1 @@
-var mnemonic = "wait satisfy trap brave staff day scan year loyal next pear grid";
+var mnemonic = "broken risk square brief crisp found shop home dream chalk collect success";

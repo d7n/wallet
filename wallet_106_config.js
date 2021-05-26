@@ -1,1 +1,1 @@
-var mnemonic = "gain answer poem permit item symptom loyal wet estate trial narrow shine";
+var mnemonic = "fatigue arm hurt gesture police fever pear amused zero injury legend sand";

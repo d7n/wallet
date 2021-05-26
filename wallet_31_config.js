@@ -1,1 +1,1 @@
-var mnemonic = "because donkey rough cave jungle bench grant example soldier shoe exhaust rocket";
+var mnemonic = "fancy poet atom garbage borrow front verb decade video wise shoulder ski";

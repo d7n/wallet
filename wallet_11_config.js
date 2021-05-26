@@ -1,1 +1,1 @@
-var mnemonic = "subject barely knock alcohol february stay pact antenna fog clip humor fine";
+var mnemonic = "curious small endless peace vendor food ball dumb excuse picnic soon umbrella";

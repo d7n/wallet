@@ -1,1 +1,1 @@
-var mnemonic = "sad patrol brand meat success essence crucial rather festival project dove move";
+var mnemonic = "plunge divert balance camp behave argue horror awkward useless angry lizard repair";

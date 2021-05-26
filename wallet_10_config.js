@@ -1,1 +1,1 @@
-var mnemonic = "around plastic age outdoor hazard attend fashion rotate pumpkin bar desert ring";
+var mnemonic = "group dice calm ivory title manage glimpse angry scan destroy gauge skull";

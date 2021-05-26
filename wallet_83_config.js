@@ -1,1 +1,1 @@
-var mnemonic = "toe manage slide turkey toe industry emerge steak lake cushion wedding section";
+var mnemonic = "above alert potato best giraffe limit grief nature dinner remember pitch outdoor";

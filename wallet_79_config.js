@@ -1,1 +1,1 @@
-var mnemonic = "mobile teach sheriff mercy caution light actual purpose safe retire nut bid";
+var mnemonic = "subject snack bundle stick camp void stadium sing milk category senior trip";

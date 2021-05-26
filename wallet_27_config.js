@@ -1,1 +1,1 @@
-var mnemonic = "vintage eternal obscure interest combine friend empty found mandate dry just another";
+var mnemonic = "gravity father soft glide churn gold risk edge track abandon extend tuition";

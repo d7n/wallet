@@ -1,1 +1,1 @@
-var mnemonic = "base song night enroll bonus author sing canyon engine tuition bleak repeat";
+var mnemonic = "thank system firm negative tomorrow maximum model verb true shield bulk fly";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance argue remember govern salt cliff decade general oxygen chat army perfect";
+var mnemonic = "wrist panther tank vessel chicken off silly zoo fragile fever mushroom amused";

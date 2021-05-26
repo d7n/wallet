@@ -1,1 +1,1 @@
-var mnemonic = "quote comfort next violin gas rotate cause creek winter brush approve fossil";
+var mnemonic = "pilot poem honey figure strong train mix banner vacant broccoli execute tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "client slow gloom effort catch install quantum cram cherry prison panda laundry";
+var mnemonic = "fitness brief south frost try trade ability clean provide only myself local";

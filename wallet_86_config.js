@@ -1,1 +1,1 @@
-var mnemonic = "sketch heavy shift drift camp kiwi agree guilt depend catch arrow dinosaur";
+var mnemonic = "apple donor auto child method certain point swear alien tent danger misery";

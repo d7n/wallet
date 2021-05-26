@@ -1,1 +1,1 @@
-var mnemonic = "desk describe egg swarm critic transfer aunt police price robot myself audit";
+var mnemonic = "minimum lunar sugar ecology hat replace foam walk peace coral twin film";

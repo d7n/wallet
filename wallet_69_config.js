@@ -1,1 +1,1 @@
-var mnemonic = "salute process grab eight tuna gift reunion holiday habit laptop luggage trash";
+var mnemonic = "amazing elegant extend poet hole olympic case dress gauge bunker promote galaxy";

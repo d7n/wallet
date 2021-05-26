@@ -1,1 +1,1 @@
-var mnemonic = "owner winter expire broom ahead uniform solution truck defy negative dinosaur couch";
+var mnemonic = "cook december unit tag unknown throw urban thrive junk mango popular settle";

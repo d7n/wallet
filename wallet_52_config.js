@@ -1,1 +1,1 @@
-var mnemonic = "whip easy problem banner artefact vague tennis mercy student chief airport mansion";
+var mnemonic = "ignore exhibit olympic tenant cage marine catch odor repair tribe fork oil";

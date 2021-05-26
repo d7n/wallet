@@ -1,1 +1,1 @@
-var mnemonic = "north fitness super morning grass silly what before corn shiver blur inspire";
+var mnemonic = "disease sand fat throw make ski turkey frog drum file usage drama";

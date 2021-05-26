@@ -1,1 +1,1 @@
-var mnemonic = "biology slogan biology ranch add toe topple route craft violin galaxy artwork";
+var mnemonic = "ugly pig chat dawn ramp brief sphere vicious banner scare ivory super";

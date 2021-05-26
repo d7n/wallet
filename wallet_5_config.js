@@ -1,1 +1,1 @@
-var mnemonic = "maximum welcome hand parrot blanket rule offer harvest bird approve already school";
+var mnemonic = "trial tape crystal defense kick cherry vintage view board process lounge silent";

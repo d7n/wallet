@@ -1,1 +1,1 @@
-var mnemonic = "usage surge lava shiver away slow tissue that tackle where pudding desert";
+var mnemonic = "gate sting device bless glad nominee embark debris pencil wing stool tobacco";

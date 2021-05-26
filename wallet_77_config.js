@@ -1,1 +1,1 @@
-var mnemonic = "water rain city purpose vapor average tape property hole team before priority";
+var mnemonic = "orange uncover aisle blast aim modify torch slow latin foster stock novel";

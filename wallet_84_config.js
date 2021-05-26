@@ -1,1 +1,1 @@
-var mnemonic = "economy girl imitate unusual coil swap airport cereal jacket decline muffin inspire";
+var mnemonic = "giggle flock grab walnut skin frog margin olive piece hen drip loop";

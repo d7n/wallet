@@ -1,1 +1,1 @@
-var mnemonic = "pool ordinary ask abuse repair own wagon ten easily pony horn pipe";
+var mnemonic = "organ paddle prefer pudding guitar reunion seed fuel unusual climb devote gun";

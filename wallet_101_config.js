@@ -1,1 +1,1 @@
-var mnemonic = "coin mutual blur dizzy avocado need plate catalog narrow giant bounce vacant";
+var mnemonic = "flock collect fault blossom copper sudden announce citizen visa next wide alpha";

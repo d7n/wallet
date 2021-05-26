@@ -1,1 +1,1 @@
-var mnemonic = "bounce quit office shoulder fee scare rate attack all south spin view";
+var mnemonic = "evolve fire art agent project option tiny matter desk dolphin talk visa";

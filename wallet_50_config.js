@@ -1,1 +1,1 @@
-var mnemonic = "void venue extend script stairs elegant old fix buyer jazz enact stereo";
+var mnemonic = "icon despair minor ranch sock right furnace absurd solve blush claim secret";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic online winner vintage deposit ready afraid depart know fatal camp demand";
+var mnemonic = "donkey advance area install bamboo skill tiger cycle smooth photo peace orphan";
