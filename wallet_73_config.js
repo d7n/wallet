@@ -1,1 +1,1 @@
-var mnemonic = "broccoli elephant file order mother day sniff virtual shoe sibling sample bone";
+var mnemonic = "sister print keep sentence prosper robust agent mistake swarm famous warfare what";

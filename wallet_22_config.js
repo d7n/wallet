@@ -1,1 +1,1 @@
-var mnemonic = "bike spoon crunch hamster right edit version grid thunder net jump salt";
+var mnemonic = "return orchard fox useful common order pyramid coach conduct early bless reunion";

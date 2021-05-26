@@ -1,1 +1,1 @@
-var mnemonic = "bubble stove install buffalo combine vehicle spoil lesson marriage promote duck siege";
+var mnemonic = "tourist leaf hotel slender act afraid alpha awful stem buyer legal fly";

@@ -1,1 +1,1 @@
-var mnemonic = "dust finger clump excite catch patient over suggest gaze tomato conduct provide";
+var mnemonic = "sense tourist glide idle more grain autumn trust become list soda gentle";

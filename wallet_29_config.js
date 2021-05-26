@@ -1,1 +1,1 @@
-var mnemonic = "cannon thing april member ice parrot unit furnace hard stairs winter march";
+var mnemonic = "obey slush mom claw forward unfold diary hip run adjust material harvest";

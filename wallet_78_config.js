@@ -1,1 +1,1 @@
-var mnemonic = "curious thunder wasp lazy before among relief cotton nose weather midnight portion";
+var mnemonic = "diamond stable betray abuse black convince dust vendor final milk memory achieve";

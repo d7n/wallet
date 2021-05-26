@@ -1,1 +1,1 @@
-var mnemonic = "mountain cheap mad ill trial chapter frame drift trouble kit divert return";
+var mnemonic = "vacant kit odor muffin pelican dawn neither people idea wonder front friend";

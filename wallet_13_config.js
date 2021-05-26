@@ -1,1 +1,1 @@
-var mnemonic = "afraid object keen reveal lonely human pattern soda series comic census language";
+var mnemonic = "never nut uncover frequent indicate trumpet require soccer list coach oblige bind";

@@ -1,1 +1,1 @@
-var mnemonic = "wage thought wise federal neutral inflict fancy clinic slab come thrive upper";
+var mnemonic = "shell mix rail select stairs unique rhythm parade auto undo future priority";

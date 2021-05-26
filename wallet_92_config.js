@@ -1,1 +1,1 @@
-var mnemonic = "north spatial amazing misery shift armor knock carpet genius enjoy foot into";
+var mnemonic = "anxiety harvest level best tired thank gift orbit multiply thing dragon crazy";

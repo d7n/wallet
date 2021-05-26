@@ -1,1 +1,1 @@
-var mnemonic = "poet secret salute cake tooth used evidence want riot diamond decline render";
+var mnemonic = "power pilot tip hip toward crime twin risk sausage usage park coast";

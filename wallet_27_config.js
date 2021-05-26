@@ -1,1 +1,1 @@
-var mnemonic = "alarm buddy bonus solve mutual grocery author rescue lumber index hen slim";
+var mnemonic = "essay inhale list limit shoe inform skate gym bullet detect ordinary crop";

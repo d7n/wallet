@@ -1,1 +1,1 @@
-var mnemonic = "test margin taxi apology walnut isolate cool release smile draft elbow multiply";
+var mnemonic = "state prepare identify evolve present mandate drop weekend tray liberty game priority";

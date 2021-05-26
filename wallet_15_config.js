@@ -1,1 +1,1 @@
-var mnemonic = "injury rice brain crawl observe charge together add impulse despair deny test";
+var mnemonic = "aware milk verify pattern ill rebel trade gaze two gain thing salon";

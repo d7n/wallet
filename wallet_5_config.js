@@ -1,1 +1,1 @@
-var mnemonic = "marriage squirrel upon target hockey vehicle flame switch claw sell flee sea";
+var mnemonic = "sight song hybrid will library subject sand differ include hazard noble wonder";

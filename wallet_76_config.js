@@ -1,1 +1,1 @@
-var mnemonic = "wrestle clay edit globe birth frog idea puppy search wing entry execute";
+var mnemonic = "athlete panther final inside nasty depart local denial feel lonely glimpse virus";

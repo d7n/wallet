@@ -1,1 +1,1 @@
-var mnemonic = "crowd churn syrup sniff clean broccoli screen seek kiss creek tube artist";
+var mnemonic = "canvas runway wave wise dismiss butter grid flip creek hat left blush";

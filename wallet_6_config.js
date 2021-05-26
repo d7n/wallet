@@ -1,1 +1,1 @@
-var mnemonic = "foam ugly firm lava bitter museum wheel donor connect heavy fury method";
+var mnemonic = "tonight churn decorate outer stock solid parrot drop elbow leave obvious private";

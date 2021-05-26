@@ -1,1 +1,1 @@
-var mnemonic = "loop orbit saddle elevator focus trend raccoon canvas fit rabbit spirit humble";
+var mnemonic = "magic raw super position property defense behave want welcome apart prefer wink";

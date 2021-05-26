@@ -1,1 +1,1 @@
-var mnemonic = "adjust fiscal settle hurt scare name river rubber occur explain cattle verb";
+var mnemonic = "rhythm leisure shy matter rally debate lunar spend cement movie name assist";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh thought winner couple artwork pottery found april excite lion rigid pottery";
+var mnemonic = "zero ranch ankle split pioneer little vivid art abuse payment fat penalty";

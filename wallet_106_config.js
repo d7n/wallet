@@ -1,1 +1,1 @@
-var mnemonic = "page flock scout time pattern scene cluster behind mango front once twenty";
+var mnemonic = "diagram expose despair seven desert daring mystery across clock whale finger reason";

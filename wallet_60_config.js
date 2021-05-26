@@ -1,1 +1,1 @@
-var mnemonic = "wagon light theory ticket police slot spatial seat sunset bridge hen country";
+var mnemonic = "ecology duty again together clump quit impulse face bomb flat crystal liquid";

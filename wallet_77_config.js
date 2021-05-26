@@ -1,1 +1,1 @@
-var mnemonic = "supply measure syrup army swim day solve catalog collect common pigeon digital";
+var mnemonic = "joke hat basic find hill jeans helmet medal captain dynamic lawsuit mandate";

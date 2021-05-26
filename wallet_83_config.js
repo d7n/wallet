@@ -1,1 +1,1 @@
-var mnemonic = "creek camp regret drastic swim silent token ramp park merge accident group";
+var mnemonic = "hundred mammal minimum fee category place rescue future banner success alter horn";

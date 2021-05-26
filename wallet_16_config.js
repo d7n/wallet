@@ -1,1 +1,1 @@
-var mnemonic = "leopard dumb walnut rain butter asthma liberty join quarter model pulse alert";
+var mnemonic = "regret tree october economy cotton bleak smoke select crystal shine tomorrow mammal";

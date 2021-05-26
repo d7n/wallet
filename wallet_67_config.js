@@ -1,1 +1,1 @@
-var mnemonic = "round alley wife waste speak depart include install select indoor sponsor flame";
+var mnemonic = "leaf task flat habit market dream fiber breeze expect soldier swarm toast";

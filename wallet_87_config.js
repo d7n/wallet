@@ -1,1 +1,1 @@
-var mnemonic = "album bicycle diagram base mix twenty govern dress inform swap similar question";
+var mnemonic = "use extra ripple result cave toast frown blast enough paper buzz spice";

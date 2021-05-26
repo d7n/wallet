@@ -1,1 +1,1 @@
-var mnemonic = "mimic collect clown world owner alien behind era ecology toy coffee trigger";
+var mnemonic = "naive sample number switch act trade manage tower carpet wool very mean";

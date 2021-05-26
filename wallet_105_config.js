@@ -1,1 +1,1 @@
-var mnemonic = "gauge history know either oyster kit color impact buzz door hunt cause";
+var mnemonic = "typical grief narrow federal beach brain asset garment twice acoustic budget prepare";

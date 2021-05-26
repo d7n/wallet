@@ -1,1 +1,1 @@
-var mnemonic = "author goose like mean recipe suspect evoke ill address reunion rebuild present";
+var mnemonic = "fragile ice pen light health multiply minimum polar begin that topic vital";

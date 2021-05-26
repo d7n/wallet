@@ -1,1 +1,1 @@
-var mnemonic = "buyer universe cigar wife flock stove expand renew clever hollow ethics swing";
+var mnemonic = "sorry acquire hotel supply shaft future opera soldier crisp embrace warm swift";

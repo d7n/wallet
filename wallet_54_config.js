@@ -1,1 +1,1 @@
-var mnemonic = "caution caution base rebuild margin this scheme travel fringe safe shrug symptom";
+var mnemonic = "melody skin tumble bus admit slush jaguar rebuild solution dragon announce rubber";

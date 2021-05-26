@@ -1,1 +1,1 @@
-var mnemonic = "erase supreme stomach exile swift stock faint drop craft ready curious frown";
+var mnemonic = "scrap cushion supreme shallow assume dune into oven morning come mutual connect";

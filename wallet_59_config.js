@@ -1,1 +1,1 @@
-var mnemonic = "hair paper sting column web wine tooth farm rug obvious cable slot";
+var mnemonic = "burst anger obtain insect deny coast enjoy anger neck april diet defense";

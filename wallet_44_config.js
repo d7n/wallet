@@ -1,1 +1,1 @@
-var mnemonic = "assault shop unusual stick sport harsh swap route garlic ivory genius lazy";
+var mnemonic = "document vessel coconut peasant gospel rotate focus latin type crime nuclear plunge";

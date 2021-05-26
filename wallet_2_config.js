@@ -1,1 +1,1 @@
-var mnemonic = "penalty soda thought couch resemble hip sweet sand drive march bullet imitate";
+var mnemonic = "credit entry usage armor skate orient ride advance nerve toss loud endless";

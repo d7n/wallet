@@ -1,1 +1,1 @@
-var mnemonic = "wreck pyramid correct shiver across jelly party enhance suspect fork still arrest";
+var mnemonic = "master you joy actress diet witness size mix feel pull resist teach";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp cage cigar glow glare layer emotion arrow dance dawn marine knife";
+var mnemonic = "heart all endless knife jungle search donkey gravity pony prize menu autumn";

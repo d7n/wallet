@@ -1,1 +1,1 @@
-var mnemonic = "orbit cargo twist whale wrap shuffle reveal demand advice snack glow ready";
+var mnemonic = "board view space fly quote bird jealous bottom mercy know put hollow";

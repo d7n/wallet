@@ -1,1 +1,1 @@
-var mnemonic = "rebuild shop acquire remove wonder ignore evil error twenty brown always error";
+var mnemonic = "humble blur arctic unlock chronic universe estate venture suggest aspect series affair";

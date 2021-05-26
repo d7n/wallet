@@ -1,1 +1,1 @@
-var mnemonic = "reduce blouse napkin auction crystal pilot deal soccer duty scrub dune squeeze";
+var mnemonic = "behind elevator shine involve skate emotion artefact hobby phrase hat width thing";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel palm lamp visual program smoke antenna merry merge horn divide wagon";
+var mnemonic = "gloom student muffin domain quit release nominee steel emotion mobile hint material";

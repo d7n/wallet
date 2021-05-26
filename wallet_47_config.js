@@ -1,1 +1,1 @@
-var mnemonic = "movie crime doctor laugh labor hundred lesson smart attract caution piece found";
+var mnemonic = "setup grow twin outdoor shock destroy corn hub caution lift mountain mobile";

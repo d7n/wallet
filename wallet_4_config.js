@@ -1,1 +1,1 @@
-var mnemonic = "dad habit bless spin peasant vessel gather void jaguar idea tackle nest";
+var mnemonic = "rebuild summer junk venture final vocal comic physical survey unveil ancient age";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend volume trophy trip federal pig smart style razor volume object girl";
+var mnemonic = "jar strategy erase vehicle twin weather upgrade blanket symptom casino inquiry thing";

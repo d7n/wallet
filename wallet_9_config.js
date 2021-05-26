@@ -1,1 +1,1 @@
-var mnemonic = "milk roof theory palace urge misery drive horror crime absorb reward emerge";
+var mnemonic = "walnut afraid vacant galaxy rifle fantasy health they gadget account desert seven";

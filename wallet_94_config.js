@@ -1,1 +1,1 @@
-var mnemonic = "noodle permit ugly rate wing autumn choice finger broccoli family enemy split";
+var mnemonic = "defense social salon spoon spice giggle merge urban general meadow brick what";

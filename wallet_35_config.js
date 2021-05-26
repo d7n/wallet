@@ -1,1 +1,1 @@
-var mnemonic = "bean country forget giggle sword inner viable typical cruel seat eager great";
+var mnemonic = "ensure medal prison furnace top acid curtain shoe exercise chaos style dog";

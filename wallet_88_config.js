@@ -1,1 +1,1 @@
-var mnemonic = "major earn truth tooth anxiety duck discover solid put celery critic option";
+var mnemonic = "useful essence aerobic rhythm hire hurry sauce bird year apple noble orchard";

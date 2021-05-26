@@ -1,1 +1,1 @@
-var mnemonic = "unveil dial velvet crucial october rug piano twenty valve material magnet cheap";
+var mnemonic = "razor foot youth cage matrix border issue awake lobster say mandate pioneer";

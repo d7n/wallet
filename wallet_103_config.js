@@ -1,1 +1,1 @@
-var mnemonic = "skull two park fiscal pumpkin miracle mosquito use goddess object crazy minute";
+var mnemonic = "spoil birth category final purity early public language panther river blood sting";

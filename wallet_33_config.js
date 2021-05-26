@@ -1,1 +1,1 @@
-var mnemonic = "able pink basket winter empty detail caution lesson blur dumb shoe record";
+var mnemonic = "rule couch notable energy social expect prosper possible network alter grape ice";

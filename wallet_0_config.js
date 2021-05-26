@@ -1,1 +1,1 @@
-var mnemonic = "vacuum gold cart radar birth modify wear swift remember thought quiz bitter";
+var mnemonic = "version vacuum owner old like much wisdom certain naive oil worth rebuild";

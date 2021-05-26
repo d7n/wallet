@@ -1,1 +1,1 @@
-var mnemonic = "bleak swallow yard tattoo left banana delay pride venue puzzle segment green";
+var mnemonic = "catch state whale public charge ribbon chicken noodle lamp employ turtle carry";

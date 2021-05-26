@@ -1,1 +1,1 @@
-var mnemonic = "virtual script disagree glare panic copy shield east rail dial attract comfort";
+var mnemonic = "despair want east tent first body board dune pause guard kite asset";

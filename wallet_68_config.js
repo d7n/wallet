@@ -1,1 +1,1 @@
-var mnemonic = "forest thunder cream mushroom trumpet case decade maximum mesh clean actor mandate";
+var mnemonic = "gun toward anxiety lounge high inherit share online mechanic pilot maple birth";

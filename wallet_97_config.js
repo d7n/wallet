@@ -1,1 +1,1 @@
-var mnemonic = "bar fruit frozen infant senior fluid silk spoon great vintage reject camera";
+var mnemonic = "tide dumb gather image cat view moment narrow crumble size sign chimney";

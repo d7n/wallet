@@ -1,1 +1,1 @@
-var mnemonic = "solar chapter judge alien proud canoe tattoo fiction also pause upset enact";
+var mnemonic = "lesson sight bean perfect crane cute abuse gold hurry enroll able swallow";

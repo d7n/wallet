@@ -1,1 +1,1 @@
-var mnemonic = "drill loan neglect flag frozen snake ugly boy warrior put arrive write";
+var mnemonic = "roast witness sell sentence wife letter excite joke wheat hand feel talent";

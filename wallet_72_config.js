@@ -1,1 +1,1 @@
-var mnemonic = "stove arrive casual rack ignore spray devote gas brass prefer margin fury";
+var mnemonic = "walnut thunder oven talk memory wolf final property similar denial entire proud";

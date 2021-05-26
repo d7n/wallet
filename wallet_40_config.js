@@ -1,1 +1,1 @@
-var mnemonic = "course garden auto wheat celery race soldier squirrel lemon dutch frost soccer";
+var mnemonic = "april area desk luggage violin source discover return essay balance crop interest";

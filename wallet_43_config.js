@@ -1,1 +1,1 @@
-var mnemonic = "clever country skirt snap nephew drink isolate crisp uncover bullet because fabric";
+var mnemonic = "claw position butter toe joke menu reform wash pill border connect flip";

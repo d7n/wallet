@@ -1,1 +1,1 @@
-var mnemonic = "deny lobster add midnight cook crawl medal heart twin page absent oppose";
+var mnemonic = "gorilla ahead fuel frown enter whisper banner milk phone oblige focus flush";

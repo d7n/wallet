@@ -1,1 +1,1 @@
-var mnemonic = "shift output fix guitar desert pave retire inject copy soon impose ritual";
+var mnemonic = "fantasy lens wage rare comic lobster object calm side neither drastic share";

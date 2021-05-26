@@ -1,1 +1,1 @@
-var mnemonic = "weasel husband axis super modify fix nature identify two unusual erupt venture";
+var mnemonic = "sure piano kid walk expose spray deliver imitate jelly violin prize joy";

@@ -1,1 +1,1 @@
-var mnemonic = "sad prosper wonder curve scatter snake enough eagle siren guard path gentle";
+var mnemonic = "doctor lunar number honey meadow mango merge wolf lunar bus comic pledge";

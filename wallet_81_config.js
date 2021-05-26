@@ -1,1 +1,1 @@
-var mnemonic = "upon purpose guide knee fiber secret cook indoor quiz open metal suit";
+var mnemonic = "traffic law nurse usage endorse promote good believe system pistol sweet raccoon";

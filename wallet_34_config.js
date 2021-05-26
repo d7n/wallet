@@ -1,1 +1,1 @@
-var mnemonic = "payment title barrel device miss trial silent seed spawn trial burst bundle";
+var mnemonic = "matter seat sample observe change victory doctor dad section income cloud smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "pet shallow figure advice blast mango resource belt satoshi office oven chicken";
+var mnemonic = "pass cave grid record liquid mammal tail arctic theory scout foil slogan";

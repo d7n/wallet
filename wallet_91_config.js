@@ -1,1 +1,1 @@
-var mnemonic = "lucky boss acoustic rich hobby fever occur timber tool lecture mask curve";
+var mnemonic = "hour aspect main dutch law oyster false depend candy silk tennis rack";

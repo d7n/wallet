@@ -1,1 +1,1 @@
-var mnemonic = "bless text inner trim stand intact joy report fit swarm kite crew";
+var mnemonic = "cupboard element base soccer walk ranch enlist thought manual sphere venture pupil";

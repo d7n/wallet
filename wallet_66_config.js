@@ -1,1 +1,1 @@
-var mnemonic = "fiscal explain busy one stumble ethics any jelly hurdle pencil close peanut";
+var mnemonic = "square aim vapor panda cycle affair recall earth frozen kitten rescue airport";

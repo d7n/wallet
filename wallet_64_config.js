@@ -1,1 +1,1 @@
-var mnemonic = "innocent potato federal wrist result orient wedding cabin sad believe harbor moon";
+var mnemonic = "hold twice small heart oak alert pepper heavy between patch salon large";

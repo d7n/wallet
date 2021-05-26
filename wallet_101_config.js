@@ -1,1 +1,1 @@
-var mnemonic = "toss two purpose economy soft tackle clown tiny old autumn sure first";
+var mnemonic = "assault tone wink where vast enlist leopard seat trophy author owner cause";

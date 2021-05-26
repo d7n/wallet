@@ -1,1 +1,1 @@
-var mnemonic = "ostrich there proof today hip oppose wing obtain detail tourist light salad";
+var mnemonic = "prize blanket direct raven main candy spawn useful arrive click smart steel";

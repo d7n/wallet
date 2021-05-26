@@ -1,1 +1,1 @@
-var mnemonic = "female wage deny decline old mutual magic digital bike pave pepper crumble";
+var mnemonic = "envelope wasp pattern market blossom nest assault hawk sphere daughter cupboard vapor";

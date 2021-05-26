@@ -1,1 +1,1 @@
-var mnemonic = "drill garlic forum harvest claim metal decade ribbon illness huge frog stadium";
+var mnemonic = "twenty mad soon tobacco arrest favorite submit west twelve inquiry slender lottery";

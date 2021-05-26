@@ -1,1 +1,1 @@
-var mnemonic = "kind amateur hello mass lab face absurd review involve brain chimney garbage";
+var mnemonic = "student physical tower avocado sleep index example start useful love filter satisfy";

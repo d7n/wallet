@@ -1,1 +1,1 @@
-var mnemonic = "catalog wasp cute current lion joy oyster fade feature rather recipe spy";
+var mnemonic = "crash oxygen toddler dash addict elbow crane mixture virtual spend client eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "direct shuffle alter anger rival dune shoulder member grow summer long today";
+var mnemonic = "same buyer frequent allow increase orchard approve guitar barrel demand arctic winter";

@@ -1,1 +1,1 @@
-var mnemonic = "boat clever rigid secret scorpion firm army deposit inherit slogan return club";
+var mnemonic = "roast borrow story fire adult angle innocent wall gesture cycle discover swarm";

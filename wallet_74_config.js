@@ -1,1 +1,1 @@
-var mnemonic = "beach napkin pulp illegal sibling unaware camp hill shell flee express infant";
+var mnemonic = "shoot bundle broom rally soldier spoil gate ranch celery acquire divert super";

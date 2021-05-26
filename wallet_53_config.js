@@ -1,1 +1,1 @@
-var mnemonic = "garlic amateur ranch evolve invest decrease fortune supreme agree cave flame false";
+var mnemonic = "mountain finger lumber tide advance crucial fatigue parent slim chef already tonight";

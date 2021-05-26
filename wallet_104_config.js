@@ -1,1 +1,1 @@
-var mnemonic = "elder weird siren pulse reveal sugar urge awful ticket rely urge enroll";
+var mnemonic = "design spatial couple wealth damage tourist like fish garlic mosquito often sing";

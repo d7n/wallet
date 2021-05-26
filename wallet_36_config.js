@@ -1,1 +1,1 @@
-var mnemonic = "oak joke exotic float brass guitar abuse arrest perfect resource away stuff";
+var mnemonic = "stage decade swamp talk core unaware barely card guitar area repeat duck";

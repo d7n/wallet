@@ -1,1 +1,1 @@
-var mnemonic = "donor weapon riot cloud tide vast admit buffalo copper hub need bid";
+var mnemonic = "crew liquid impose deliver cover escape tree session trouble middle monster across";

@@ -1,1 +1,1 @@
-var mnemonic = "program wall document fat game buffalo siege flame document pear ankle quarter";
+var mnemonic = "grow final kidney weird term brief coral artwork nominee accuse virus empower";
