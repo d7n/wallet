@@ -1,1 +1,1 @@
-var mnemonic = "fall slow siren age breeze since spike help silk glide voice differ";
+var mnemonic = "cover review camp number bless warfare enjoy arrange enable broom hollow fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "scout quality true easily response roast love polar figure strong major assist";
+var mnemonic = "lens pony magic skull mimic frequent depart blind party stable ivory wet";

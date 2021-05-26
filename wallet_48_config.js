@@ -1,1 +1,1 @@
-var mnemonic = "wash travel gasp six fuel mixed roast moment tragic welcome robot dinner";
+var mnemonic = "reflect mistake model useless lock marriage anxiety fan employ visual volcano imitate";

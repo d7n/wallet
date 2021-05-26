@@ -1,1 +1,1 @@
-var mnemonic = "wise pilot file text quick palm youth nice credit train tuition flag";
+var mnemonic = "mind glad eager busy turn front mouse track rocket valve idea prepare";

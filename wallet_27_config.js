@@ -1,1 +1,1 @@
-var mnemonic = "duck tunnel glide orbit humble nose fatigue bleak resemble green mass remind";
+var mnemonic = "physical brass tomorrow forget survey book cool float road unable rack endorse";

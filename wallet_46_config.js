@@ -1,1 +1,1 @@
-var mnemonic = "spread table shine average drastic message curtain alarm crack diagram mask another";
+var mnemonic = "legal quarter weird fossil security apology chaos wrap prevent indicate boring neither";

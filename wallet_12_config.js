@@ -1,1 +1,1 @@
-var mnemonic = "goose scissors cancel fox castle effort cactus nuclear cabin one humble glove";
+var mnemonic = "concert horse blossom idea brick black unhappy cloth spray leaf isolate rib";

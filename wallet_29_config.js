@@ -1,1 +1,1 @@
-var mnemonic = "caught rate path remove wood bounce shop install cactus cross awful truth";
+var mnemonic = "walk dash indoor into tenant robot infant margin gadget ridge festival response";

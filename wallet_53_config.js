@@ -1,1 +1,1 @@
-var mnemonic = "trade usual moral hurdle hole one valley abstract theme tourist mandate radio";
+var mnemonic = "scorpion message cream depend jealous sunset fork rally type empower bleak mother";

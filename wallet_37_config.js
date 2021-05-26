@@ -1,1 +1,1 @@
-var mnemonic = "vacant cabin network leave join wealth atom office chalk sail pride parrot";
+var mnemonic = "deer journey remind nerve fence ancient puppy apart one solve phrase pony";

@@ -1,1 +1,1 @@
-var mnemonic = "brick digital detect reform obscure piece focus author head section clever crawl";
+var mnemonic = "spawn defy dance stadium awful flower media flight casual fame half disagree";

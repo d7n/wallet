@@ -1,1 +1,1 @@
-var mnemonic = "combine save delay inmate ice gold sense scrap icon author home faint";
+var mnemonic = "leopard lake tip joy blossom shrug beyond clay certain measure unusual pond";

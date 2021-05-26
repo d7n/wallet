@@ -1,1 +1,1 @@
-var mnemonic = "master twin surface lonely believe shiver pumpkin ginger orange soda awake traffic";
+var mnemonic = "fatigue absorb birth team edge gesture elbow interest pill edge flip fancy";

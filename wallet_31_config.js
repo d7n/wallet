@@ -1,1 +1,1 @@
-var mnemonic = "ancient assist assault second close item burger egg subway worry meat mesh";
+var mnemonic = "arm flavor business arrange small world mixture pull mouse guess zebra rhythm";

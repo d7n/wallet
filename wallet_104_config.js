@@ -1,1 +1,1 @@
-var mnemonic = "damage devote fog faith bonus issue clown card rare index purity divert";
+var mnemonic = "ranch onion door inform blast orbit rotate favorite salt solution exist wrong";

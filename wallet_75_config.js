@@ -1,1 +1,1 @@
-var mnemonic = "awake merry parent garment dinner round enact salon tissue awkward grunt black";
+var mnemonic = "suit purpose tone put arch busy vault struggle fetch moon rebel kitten";

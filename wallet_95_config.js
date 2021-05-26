@@ -1,1 +1,1 @@
-var mnemonic = "expand auto eagle circle armor pull animal force junk almost habit stay";
+var mnemonic = "sphere process kiwi topic glide lion practice always dwarf stick home royal";

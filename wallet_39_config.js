@@ -1,1 +1,1 @@
-var mnemonic = "snow spoon dolphin hospital bubble wheel tip planet hunt people mango top";
+var mnemonic = "marine feel letter stairs river jaguar upset select only scissors neutral agent";

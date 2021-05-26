@@ -1,1 +1,1 @@
-var mnemonic = "animal derive betray diet skirt own divide crime bulb tomato glass helmet";
+var mnemonic = "cactus fringe moment observe poem account put supreme blind filter pipe inherit";

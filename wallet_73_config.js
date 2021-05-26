@@ -1,1 +1,1 @@
-var mnemonic = "face depart poet scatter type regret duty silk unlock donor upset fortune";
+var mnemonic = "across talk calm design collect fragile between sample spray tongue garlic bind";

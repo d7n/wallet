@@ -1,1 +1,1 @@
-var mnemonic = "faculty power mechanic more adjust usual body joy immense dynamic lyrics verify";
+var mnemonic = "blame else wheat axis flat organ photo harvest this supply loop maximum";

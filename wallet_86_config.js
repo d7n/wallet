@@ -1,1 +1,1 @@
-var mnemonic = "super record finger diesel budget glimpse usage rail jazz remind gospel detail";
+var mnemonic = "famous join thumb cruise denial split quit syrup ecology buddy render balance";

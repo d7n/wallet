@@ -1,1 +1,1 @@
-var mnemonic = "abstract high stem swift better bar club poet tackle attitude sort proud";
+var mnemonic = "moral caution age rail logic canoe food believe cover sudden laugh absorb";

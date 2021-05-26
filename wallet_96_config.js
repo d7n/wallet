@@ -1,1 +1,1 @@
-var mnemonic = "knife zebra rookie flight during detect relief amused hotel soldier post throw";
+var mnemonic = "twin foster social wave pause elegant unit payment twist shrug drill method";

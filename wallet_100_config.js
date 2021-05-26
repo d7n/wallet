@@ -1,1 +1,1 @@
-var mnemonic = "combine undo cover strike cycle olive vapor credit manual rack endorse catalog";
+var mnemonic = "minor economy bone neck nut orchard explain believe host present april debris";

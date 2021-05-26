@@ -1,1 +1,1 @@
-var mnemonic = "viable pretty valley dismiss extra fortune asthma galaxy verb unit vacuum sell";
+var mnemonic = "input early bird kite coyote visual awake wink expose motion space under";

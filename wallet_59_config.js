@@ -1,1 +1,1 @@
-var mnemonic = "announce travel way drum oxygen weekend retreat viable wine gap bless public";
+var mnemonic = "loan enforce champion talk dignity pair track picture universe supreme include hockey";

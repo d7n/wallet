@@ -1,1 +1,1 @@
-var mnemonic = "entire recipe border tone girl ten attitude allow cactus ladder prefer cattle";
+var mnemonic = "tank next echo dog liar actual arrive lunar resemble nothing crazy gas";

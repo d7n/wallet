@@ -1,1 +1,1 @@
-var mnemonic = "expand flight rely boost safe history message banner vault chair fitness blur";
+var mnemonic = "artefact ignore celery wall fury nose shallow eyebrow step wedding couch cover";

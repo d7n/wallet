@@ -1,1 +1,1 @@
-var mnemonic = "scale pass vault weasel siren giraffe glue broom field blouse voice slice";
+var mnemonic = "evil display multiply rail lecture tell glad luggage grief seek choose entire";

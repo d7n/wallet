@@ -1,1 +1,1 @@
-var mnemonic = "same aisle this subway plate achieve nose tilt notable slam rubber room";
+var mnemonic = "canyon ozone robust equip current doll remember flower license crowd stage caution";

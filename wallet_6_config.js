@@ -1,1 +1,1 @@
-var mnemonic = "divide engine wealth stereo alter harbor cotton install program echo sauce combine";
+var mnemonic = "category sock above eye toward impose local under column sketch cruel immune";

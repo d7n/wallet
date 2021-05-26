@@ -1,1 +1,1 @@
-var mnemonic = "person cry poet salt festival smooth seed subway junior ghost between alone";
+var mnemonic = "seed burden flavor little report exact mind patrol dial slab beauty view";

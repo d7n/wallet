@@ -1,1 +1,1 @@
-var mnemonic = "pledge churn spoil forum cloth tide frown cruel choice suspect affair input";
+var mnemonic = "cherry detail radar legend wave road love mobile deer file crisp game";

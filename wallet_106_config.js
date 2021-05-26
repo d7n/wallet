@@ -1,1 +1,1 @@
-var mnemonic = "mad tortoise sugar opinion zebra neglect genius pony canoe cliff arch melody";
+var mnemonic = "real walk potato scrap calm uphold fabric drum genre tribe market history";

@@ -1,1 +1,1 @@
-var mnemonic = "volume erode arm hour core clump hockey country region torch keen copy";
+var mnemonic = "alarm memory tree potato make cause search child second pond anchor garage";

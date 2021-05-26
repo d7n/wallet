@@ -1,1 +1,1 @@
-var mnemonic = "birth label strike ignore crane swarm liquid board perfect train shed knee";
+var mnemonic = "earth pizza life return reject neutral near empty link such depart result";

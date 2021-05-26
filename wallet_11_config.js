@@ -1,1 +1,1 @@
-var mnemonic = "weapon notice nasty away kidney beach become sponsor stove bomb render gasp";
+var mnemonic = "remind subject verb veteran suspect toilet struggle oppose shiver draw foot simple";

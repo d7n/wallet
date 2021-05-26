@@ -1,1 +1,1 @@
-var mnemonic = "comic defy ahead help legal mistake series desk advance shove share pole";
+var mnemonic = "butter away blossom claim ready miss marine vehicle train enact federal title";

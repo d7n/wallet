@@ -1,1 +1,1 @@
-var mnemonic = "know olympic topic grant noodle fault cheap rotate keen tourist inflict fancy";
+var mnemonic = "poverty blouse hero elegant hour addict point perfect cage kitchen milk diagram";

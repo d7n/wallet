@@ -1,1 +1,1 @@
-var mnemonic = "market ticket sense side hidden message rough canoe peace belt lucky receive";
+var mnemonic = "patrol pyramid breeze away hungry priority merry reflect modify casino coin author";

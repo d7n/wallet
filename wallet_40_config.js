@@ -1,1 +1,1 @@
-var mnemonic = "wool stumble auction mirror assault gesture learn tackle outside flock faint index";
+var mnemonic = "embark economy slide stairs fish rich stumble process void steak glad horror";

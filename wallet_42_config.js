@@ -1,1 +1,1 @@
-var mnemonic = "flock action physical stick distance flight harsh during stem palace bone stumble";
+var mnemonic = "memory puppy april spring today first admit dream forward govern tank sing";

@@ -1,1 +1,1 @@
-var mnemonic = "special okay excite decade bulk afraid quarter seed service unusual anxiety attack";
+var mnemonic = "fly history pony stool banana satisfy leopard armor defy seat relief visa";

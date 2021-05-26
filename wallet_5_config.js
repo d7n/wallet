@@ -1,1 +1,1 @@
-var mnemonic = "anxiety caution despair silver bone warm cinnamon river where rescue split proof";
+var mnemonic = "meat category biology ocean pear glad wild pole tumble hollow deer sweet";

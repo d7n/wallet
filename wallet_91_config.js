@@ -1,1 +1,1 @@
-var mnemonic = "gallery snap shy argue dust solve end fork hamster earth canoe address";
+var mnemonic = "toast bunker regular devote walk brain truth shoe decide disorder relax bread";

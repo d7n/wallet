@@ -1,1 +1,1 @@
-var mnemonic = "equal seven during project arrow shove assault tell safe expand judge creek";
+var mnemonic = "orange yard coral indicate body dragon twist chronic flag word pattern answer";

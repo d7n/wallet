@@ -1,1 +1,1 @@
-var mnemonic = "basic tiger boring light still theme type sphere author tone mind title";
+var mnemonic = "essence latin recall powder nominee canoe social recall minor market cotton nurse";

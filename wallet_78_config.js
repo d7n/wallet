@@ -1,1 +1,1 @@
-var mnemonic = "egg vehicle alley cause chest bind marble elbow want crunch treat ghost";
+var mnemonic = "hard evidence rally shock stomach pear wish access shove news element fix";

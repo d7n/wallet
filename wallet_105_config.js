@@ -1,1 +1,1 @@
-var mnemonic = "absurd match clinic aisle scout thunder okay frequent door surround zoo flower";
+var mnemonic = "slogan drill car throw dumb observe visit mixture prison tide hospital account";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope diet unfair sick fade innocent detail gravity olive noise thank crater";
+var mnemonic = "hollow lucky twice shadow anxiety topic circle hub perfect mask palm else";

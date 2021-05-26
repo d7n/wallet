@@ -1,1 +1,1 @@
-var mnemonic = "tower sibling setup fee meat focus tribe diet census loyal ankle gold";
+var mnemonic = "sea wrist salon toss rookie strong race scissors top chronic gun tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf dizzy frost rely merit catch cereal cushion window ability wood sister";
+var mnemonic = "sphere royal color gauge atom amount flock skill melody exhibit impulse visual";

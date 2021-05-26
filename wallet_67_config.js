@@ -1,1 +1,1 @@
-var mnemonic = "general escape belt cry page stamp dream plate clutch flock blast unable";
+var mnemonic = "solve input course benefit document dumb slide fatigue deny veteran cinnamon guide";

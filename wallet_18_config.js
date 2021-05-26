@@ -1,1 +1,1 @@
-var mnemonic = "regular speak joy measure pistol neck dice genuine rough quit fog dawn";
+var mnemonic = "labor normal holiday pool knife east adult celery horse silk grant wreck";

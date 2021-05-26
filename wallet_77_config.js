@@ -1,1 +1,1 @@
-var mnemonic = "disorder baby basket arrow margin rain tuna balance brown ghost choose cool";
+var mnemonic = "idea arch target response purse churn sister select picture destroy reform pen";

@@ -1,1 +1,1 @@
-var mnemonic = "junk better fabric edit hockey exercise jump shadow action grow frog lamp";
+var mnemonic = "worth rebel exclude nose drill weapon hair alone daughter scheme outdoor rally";

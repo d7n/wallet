@@ -1,1 +1,1 @@
-var mnemonic = "appear photo excuse novel frost describe obtain control muscle thank drink jealous";
+var mnemonic = "step home prefer opera two shop will hamster fly field person success";

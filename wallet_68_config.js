@@ -1,1 +1,1 @@
-var mnemonic = "cherry pluck cover minimum debate produce diet crazy raven wet bundle holiday";
+var mnemonic = "copper rigid because claim swap vast envelope idle noodle work airport traffic";

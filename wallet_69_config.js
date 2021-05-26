@@ -1,1 +1,1 @@
-var mnemonic = "choice absorb either grape charge cloud item hood such beef blouse foot";
+var mnemonic = "ticket increase feel slab giggle legal cage miracle erosion power noodle advice";

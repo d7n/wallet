@@ -1,1 +1,1 @@
-var mnemonic = "kit senior eye steel inside ride magic evoke solution during depth morning";
+var mnemonic = "step code quiz ball swallow juice punch detail rather canal plug marble";

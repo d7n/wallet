@@ -1,1 +1,1 @@
-var mnemonic = "supreme butter desk idea choose cloud vanish sad impact spoon spoon swallow";
+var mnemonic = "student exile dynamic pen chapter ready advice novel leaf warfare cube success";

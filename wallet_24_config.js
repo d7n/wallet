@@ -1,1 +1,1 @@
-var mnemonic = "soccer universe tuna shock riot gather print process strike certain black ribbon";
+var mnemonic = "happy lunar labor funny barrel perfect clump unaware prevent nuclear wash spider";

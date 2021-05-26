@@ -1,1 +1,1 @@
-var mnemonic = "bundle mirror obscure slab melt stick omit protect lesson combine arch rate";
+var mnemonic = "sudden false enrich debris common stomach toast balance pencil dilemma spatial cannon";

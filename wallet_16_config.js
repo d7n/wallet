@@ -1,1 +1,1 @@
-var mnemonic = "margin early surprise fashion aisle vivid fetch merge awful weird bright soul";
+var mnemonic = "tooth drink ladder eager garden case child gain icon cause seminar crew";

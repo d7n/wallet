@@ -1,1 +1,1 @@
-var mnemonic = "idle wrap under episode cherry earn resist soccer dove time orange behave";
+var mnemonic = "save rail inside bulb spy recycle cinnamon sunset traffic garage visa area";

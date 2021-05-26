@@ -1,1 +1,1 @@
-var mnemonic = "ozone step inject hungry winter nominee regular similar oil flash crane excite";
+var mnemonic = "cluster laugh direct pluck level embark smoke wonder cycle huge crack crunch";

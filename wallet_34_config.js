@@ -1,1 +1,1 @@
-var mnemonic = "convince tooth run point little problem foam kitten volcano damp project camp";
+var mnemonic = "jeans keep neck typical current symptom sound lemon fog top ranch nature";

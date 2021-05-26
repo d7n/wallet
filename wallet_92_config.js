@@ -1,1 +1,1 @@
-var mnemonic = "whale lend caught brisk layer panda luxury taxi dignity major west forest";
+var mnemonic = "salmon betray pyramid hip danger hat sand drink enough later fly news";

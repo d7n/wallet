@@ -1,1 +1,1 @@
-var mnemonic = "feel reflect junk garlic island wear wine weird typical canvas seven broken";
+var mnemonic = "police clown jelly exist desert jealous spatial retire head battle pause way";

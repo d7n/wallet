@@ -1,1 +1,1 @@
-var mnemonic = "float bonus trip grocery left put transfer leader topic absorb crater wait";
+var mnemonic = "inquiry gun horn sleep athlete slot sight buddy math bid income flavor";

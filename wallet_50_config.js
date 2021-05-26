@@ -1,1 +1,1 @@
-var mnemonic = "palace cabin beauty total curve traffic slush opera announce repair route secret";
+var mnemonic = "ski female strong truck speed number fly coach nurse steel purse cheap";

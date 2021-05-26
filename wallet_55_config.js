@@ -1,1 +1,1 @@
-var mnemonic = "wait match monster cheese annual mean elder oblige margin oven diesel busy";
+var mnemonic = "penalty magic harsh express welcome survey perfect wheat pole post junk often";

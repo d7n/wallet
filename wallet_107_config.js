@@ -1,1 +1,1 @@
-var mnemonic = "mass disagree grunt dial autumn fault float noble network ritual together tragic";
+var mnemonic = "denial pigeon cabbage perfect lizard robot tired awake ostrich kid buddy pulse";

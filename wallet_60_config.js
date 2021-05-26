@@ -1,1 +1,1 @@
-var mnemonic = "oyster note section fringe pigeon eight flower hen ivory inherit piano village";
+var mnemonic = "cage share anchor sun midnight number clerk cause social destroy cactus victory";

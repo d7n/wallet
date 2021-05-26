@@ -1,1 +1,1 @@
-var mnemonic = "regret dutch goose bid wealth pulp federal frost happy cross rude float";
+var mnemonic = "wrist tattoo useful novel drive super staff secret first eager clever emotion";

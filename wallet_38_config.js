@@ -1,1 +1,1 @@
-var mnemonic = "owner nuclear head crucial roof rate eight assume army sugar alley clarify";
+var mnemonic = "clutch twelve above brown swap onion steel prepare asthma gym maximum alone";

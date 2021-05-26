@@ -1,1 +1,1 @@
-var mnemonic = "cross wealth dizzy section wait argue border sorry park plate crunch garment";
+var mnemonic = "gather drink differ diagram admit couple inhale cake wine barely about fragile";

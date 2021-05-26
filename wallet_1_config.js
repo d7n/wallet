@@ -1,1 +1,1 @@
-var mnemonic = "talk maze skill stomach light series lift cloud remind cabin describe atom";
+var mnemonic = "sword mimic legal february inspire flash armor salon oven rather develop loan";

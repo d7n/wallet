@@ -1,1 +1,1 @@
-var mnemonic = "sausage enemy protect title charge ability pioneer ladder razor injury stage brisk";
+var mnemonic = "praise deliver few forget favorite tackle convince history mushroom shrimp valve sing";

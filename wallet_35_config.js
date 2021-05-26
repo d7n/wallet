@@ -1,1 +1,1 @@
-var mnemonic = "east cost novel region zone bless bike fever unfold advice typical apple";
+var mnemonic = "beach rug sunny able plate lobster ask switch animal wagon high wink";

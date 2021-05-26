@@ -1,1 +1,1 @@
-var mnemonic = "shed country room fun pole below margin dirt maple taste balance tribe";
+var mnemonic = "cabin lens appear north grace distance february silver slide panic worry skull";

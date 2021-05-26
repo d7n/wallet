@@ -1,1 +1,1 @@
-var mnemonic = "swap behind sadness silent high maid gadget stomach abandon aerobic photo gold";
+var mnemonic = "panic where digital document comic section able submit hill ugly inquiry bus";

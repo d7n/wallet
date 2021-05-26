@@ -1,1 +1,1 @@
-var mnemonic = "exercise layer illness opinion virus token slender current decide olympic like essence";
+var mnemonic = "jeans regular hair age slogan noble original injury sunset ride lesson bubble";

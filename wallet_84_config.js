@@ -1,1 +1,1 @@
-var mnemonic = "festival already human tackle exhibit pen order dizzy merge garage crop arrow";
+var mnemonic = "flight include figure orphan now planet switch burger omit prize cliff churn";

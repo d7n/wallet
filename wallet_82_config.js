@@ -1,1 +1,1 @@
-var mnemonic = "wrong vague trick mosquito strategy bicycle inside lady floor index leader alley";
+var mnemonic = "buffalo concert vital body swim gaze laptop satisfy soldier ostrich frog afford";
