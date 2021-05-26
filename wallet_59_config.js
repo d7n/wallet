@@ -1,1 +1,1 @@
-var mnemonic = "dog palace enable chat mass stool sand vintage kind toe across one";
+var mnemonic = "build utility shop nerve winner tip silk legal guess install divert market";

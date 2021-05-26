@@ -1,1 +1,1 @@
-var mnemonic = "group fiction adult egg amateur slide hurt square evidence mind tired minor";
+var mnemonic = "evoke project mystery mutual evolve toward toss boil speak chicken obscure outer";

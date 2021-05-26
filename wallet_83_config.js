@@ -1,1 +1,1 @@
-var mnemonic = "illegal birth scout airport drink essay know enact brown upon gossip asset";
+var mnemonic = "suggest atom bachelor neither mass intact jealous spirit play property buddy employ";

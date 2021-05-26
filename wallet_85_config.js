@@ -1,1 +1,1 @@
-var mnemonic = "pool strike umbrella raw culture absorb frog sting grid away august swear";
+var mnemonic = "average garbage nation post shoe demand kite sustain engage diet slab van";

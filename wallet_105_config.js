@@ -1,1 +1,1 @@
-var mnemonic = "blur wolf panther glue amazing lawsuit arena bubble enlist aim loyal property";
+var mnemonic = "speak duck level crowd cover cruel host neither kid rice kit long";

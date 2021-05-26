@@ -1,1 +1,1 @@
-var mnemonic = "robot either perfect dance steel beauty run will disagree corn tail six";
+var mnemonic = "position fly funny used margin fashion capable nature rose gorilla document nuclear";

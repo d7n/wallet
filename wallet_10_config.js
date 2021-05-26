@@ -1,1 +1,1 @@
-var mnemonic = "tone stool deputy fortune nut guilt arrow eternal usual human lady gadget";
+var mnemonic = "dwarf clean short drill safe evolve month cross embrace rate lecture raccoon";

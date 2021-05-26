@@ -1,1 +1,1 @@
-var mnemonic = "trend apology inform chat spice process sword use six rifle edge coconut";
+var mnemonic = "clown napkin crucial wear lesson polar improve announce glare scale milk real";

@@ -1,1 +1,1 @@
-var mnemonic = "fall galaxy churn label save motion cannon ostrich carpet hospital cigar vibrant";
+var mnemonic = "sphere wall pond diamond family assault actress exist example wreck sample exotic";

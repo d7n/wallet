@@ -1,1 +1,1 @@
-var mnemonic = "client stem muffin method divert mixed general title either bitter curtain naive";
+var mnemonic = "tiger scare mix frog choice lonely acquire youth sunny drive salon debris";

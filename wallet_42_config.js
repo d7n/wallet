@@ -1,1 +1,1 @@
-var mnemonic = "palm fork action dove blanket switch hobby object family autumn inject bike";
+var mnemonic = "fashion vague group range resource phrase grape cancel turn message demand enrich";

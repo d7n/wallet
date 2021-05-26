@@ -1,1 +1,1 @@
-var mnemonic = "position honey large leisure sand mercy subject eagle just upgrade sister idle";
+var mnemonic = "panel assist define brown talk seat rough kingdom legal decade circle deal";

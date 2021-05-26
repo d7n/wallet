@@ -1,1 +1,1 @@
-var mnemonic = "salute escape view emotion intact install coach work actress asthma unusual fox";
+var mnemonic = "wagon sheriff wool derive sick merit alien blast cereal lake flight message";

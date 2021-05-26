@@ -1,1 +1,1 @@
-var mnemonic = "fire hunt rule nasty blossom trigger neglect empower miracle flag balance quantum";
+var mnemonic = "purchase wage glow bachelor thrive cabbage bitter join swarm stand toilet volume";

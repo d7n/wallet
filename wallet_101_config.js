@@ -1,1 +1,1 @@
-var mnemonic = "legal cushion unit point betray use broccoli true churn alter tree volume";
+var mnemonic = "hair gym apart enemy utility album enable artefact oil yard mechanic diary";

@@ -1,1 +1,1 @@
-var mnemonic = "flee caution fluid undo convince maximum upset couch clerk brave soda punch";
+var mnemonic = "ridge mask excess antenna pigeon coyote bird cake couple prefer cargo note";

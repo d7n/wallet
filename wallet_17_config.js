@@ -1,1 +1,1 @@
-var mnemonic = "flee web prevent client gift warfare retire tourist swift vibrant arrest issue";
+var mnemonic = "hollow pool easy fiber ability desk render left denial legal final flower";

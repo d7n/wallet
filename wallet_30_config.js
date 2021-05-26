@@ -1,1 +1,1 @@
-var mnemonic = "stone home filter slice section near degree feature pink upset salt attend";
+var mnemonic = "reform aim board add early maid grass tired spider review kid autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson use night distance wheel diamond become like metal quote duty rocket";
+var mnemonic = "lecture kick turkey slogan finish zebra imitate glad problem young shy effort";

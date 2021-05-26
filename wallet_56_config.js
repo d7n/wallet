@@ -1,1 +1,1 @@
-var mnemonic = "cabin flat flash word problem around sound myself stamp hire able foil";
+var mnemonic = "huge canal portion secret soup that good cupboard shuffle apart inflict message";

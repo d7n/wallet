@@ -1,1 +1,1 @@
-var mnemonic = "drama vapor patch notable shield february coyote saddle baby stay novel palm";
+var mnemonic = "price reward twist put mandate exotic deliver vacuum green hard start wasp";

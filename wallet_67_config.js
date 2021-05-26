@@ -1,1 +1,1 @@
-var mnemonic = "balcony orchard poet proof track cloud annual sibling health brave crumble awake";
+var mnemonic = "stadium bachelor earn boost pilot rice scare congress urban claw mixed omit";

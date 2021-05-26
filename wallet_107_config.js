@@ -1,1 +1,1 @@
-var mnemonic = "spider try coffee pet kitchen subject issue fun pelican cattle engage bullet";
+var mnemonic = "dad any collect rain smoke vital emerge buddy any steak now salute";

@@ -1,1 +1,1 @@
-var mnemonic = "remove maple certain ocean inside approve leg puppy supreme nest lend truly";
+var mnemonic = "radio uniform enjoy spot husband alone note fan tonight arch hundred thumb";

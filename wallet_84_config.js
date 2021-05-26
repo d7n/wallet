@@ -1,1 +1,1 @@
-var mnemonic = "fire sunset toddler neck zoo impact access stock short trend mask myth";
+var mnemonic = "ten giggle kidney warfare expose multiply raw glory about exhaust there bike";

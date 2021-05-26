@@ -1,1 +1,1 @@
-var mnemonic = "dog milk heavy rocket toward monkey wall auction popular various couch school";
+var mnemonic = "bulk trap security mansion punch what swift annual output garbage couch another";

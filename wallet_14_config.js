@@ -1,1 +1,1 @@
-var mnemonic = "vacuum feed cry enhance civil exile gauge evolve loud tongue large into";
+var mnemonic = "pumpkin pelican stock path vital puppy corn stage normal limb major girl";

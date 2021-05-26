@@ -1,1 +1,1 @@
-var mnemonic = "acid clever ketchup child object curtain detail clump actual garment avoid tattoo";
+var mnemonic = "celery enroll talk casino unhappy food fever genre mutual light letter tuna";

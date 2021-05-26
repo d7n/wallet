@@ -1,1 +1,1 @@
-var mnemonic = "useful hint hat loan blossom family pigeon pride estate loyal mad dial";
+var mnemonic = "impose inch discover knock cost canal little key valid make embrace destroy";

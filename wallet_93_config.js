@@ -1,1 +1,1 @@
-var mnemonic = "regular reform vintage type flush blast elephant scheme credit head teach tail";
+var mnemonic = "disease sugar champion anxiety people april scene device pull inspire guide kingdom";

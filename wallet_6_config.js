@@ -1,1 +1,1 @@
-var mnemonic = "teach visual illness fluid case search shiver link warrior team slice dinner";
+var mnemonic = "master appear uncle number rigid behave decade maid bundle double critic casino";

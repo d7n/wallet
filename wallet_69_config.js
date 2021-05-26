@@ -1,1 +1,1 @@
-var mnemonic = "system piece recipe spot dust aunt purchase champion arctic place disorder hollow";
+var mnemonic = "find local jazz fence tomorrow dinosaur monkey scheme quick shoe drastic invest";

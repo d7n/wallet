@@ -1,1 +1,1 @@
-var mnemonic = "improve treat clever sport visit between oil tourist orient security hedgehog mechanic";
+var mnemonic = "special subject ripple faith diesel diet inhale word change label ginger olive";

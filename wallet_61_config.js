@@ -1,1 +1,1 @@
-var mnemonic = "erase tray broccoli help cement throw legend clerk caught pet merge intact";
+var mnemonic = "try olive plastic resource census awkward lesson kidney again level notable flee";

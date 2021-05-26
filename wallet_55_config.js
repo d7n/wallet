@@ -1,1 +1,1 @@
-var mnemonic = "stadium glide reason cargo excess lock burden farm oil angle top cross";
+var mnemonic = "solar material hamster tiny visa message dash crater always tone begin alter";

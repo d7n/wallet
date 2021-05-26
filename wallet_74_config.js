@@ -1,1 +1,1 @@
-var mnemonic = "bulk also smoke churn sense north glance canvas reflect faith garbage original";
+var mnemonic = "pudding midnight damp asset chunk exhaust soda bachelor balance gap catalog shoot";

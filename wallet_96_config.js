@@ -1,1 +1,1 @@
-var mnemonic = "lesson inch excite when summer armor fine explain cancel fury foster badge";
+var mnemonic = "trouble north leave cloud vanish parent prevent lesson crane behave decide stable";

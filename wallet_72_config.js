@@ -1,1 +1,1 @@
-var mnemonic = "admit miracle excite stumble claw someone category company address cage vibrant parrot";
+var mnemonic = "excess theory avocado loud jelly lottery chef cook loud soup assist apple";

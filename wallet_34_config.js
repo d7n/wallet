@@ -1,1 +1,1 @@
-var mnemonic = "catalog matrix pause repeat captain frown logic work essay remind maximum rule";
+var mnemonic = "veteran butter enjoy boss armed another tragic symptom garment area aerobic basic";

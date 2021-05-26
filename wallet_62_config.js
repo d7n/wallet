@@ -1,1 +1,1 @@
-var mnemonic = "problem feature stick broccoli oval wine receive cinnamon perfect oxygen offer comfort";
+var mnemonic = "warm quarter glove captain plunge foil approve tone myth inherit ridge clutch";

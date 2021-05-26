@@ -1,1 +1,1 @@
-var mnemonic = "lyrics return inside spider inherit intact clap risk heart slender inhale update";
+var mnemonic = "minimum mistake argue evidence supply luxury nature grape tower meat lonely sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic middle harvest purse wrist era essay history gasp eternal duty radio";
+var mnemonic = "vote garbage north opera shallow salute tragic winner north spirit spoil shed";

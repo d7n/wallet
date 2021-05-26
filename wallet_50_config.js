@@ -1,1 +1,1 @@
-var mnemonic = "step essay entry hole mad original album note primary invite base resist";
+var mnemonic = "proof furnace vibrant sun bless cereal steel floor give awesome waste shrimp";

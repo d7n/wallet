@@ -1,1 +1,1 @@
-var mnemonic = "easily sword federal comfort yellow produce spatial mistake approve hand pond skill";
+var mnemonic = "search venture enrich affair cement gravity notice canyon odor organ science involve";

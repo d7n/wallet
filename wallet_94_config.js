@@ -1,1 +1,1 @@
-var mnemonic = "enemy easily happy cabbage cause museum scatter economy slim stereo snack enter";
+var mnemonic = "similar clap buddy anger silent laugh update then special hungry credit culture";

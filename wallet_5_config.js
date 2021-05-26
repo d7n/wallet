@@ -1,1 +1,1 @@
-var mnemonic = "moral potato allow wing inner pottery draw jaguar lobster thought salon jazz";
+var mnemonic = "antenna become garbage umbrella acid gain clean steak select glad obscure moral";

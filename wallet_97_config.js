@@ -1,1 +1,1 @@
-var mnemonic = "gain fashion blast arena typical minor sea shock rapid sadness absurd gap";
+var mnemonic = "payment garlic when asthma scene horse network blush explain human ribbon find";

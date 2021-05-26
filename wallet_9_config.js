@@ -1,1 +1,1 @@
-var mnemonic = "dynamic merge alien slam puppy special enlist convince bread matter chuckle index";
+var mnemonic = "trap grunt outside deny leg test arrive occur knock blur stuff vanish";

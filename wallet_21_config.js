@@ -1,1 +1,1 @@
-var mnemonic = "struggle art truck cake gallery swear twin lobster auction hover world gas";
+var mnemonic = "skin risk response culture artefact any earn cook scrap trophy despair orbit";

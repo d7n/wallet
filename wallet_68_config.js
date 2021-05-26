@@ -1,1 +1,1 @@
-var mnemonic = "cattle crunch adjust sister kingdom nominee spring legend blanket symptom strong comic";
+var mnemonic = "coffee inflict trend idle borrow bird vibrant style copper avocado ship slab";

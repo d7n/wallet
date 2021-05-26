@@ -1,1 +1,1 @@
-var mnemonic = "marine soldier mule cry orient subject monitor original basic weekend erosion noble";
+var mnemonic = "talk ivory shaft cat unfair force dragon wheel season usual disease tray";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi soon interest few siren lady release power gate keep velvet claim";
+var mnemonic = "morning swap word tower unable shove fame stadium wagon bonus unveil peasant";

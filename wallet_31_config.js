@@ -1,1 +1,1 @@
-var mnemonic = "lens sad amused beach traffic track hand object rule cabbage theory loop";
+var mnemonic = "dial name erode hill wish stock lion clap gravity letter coffee angry";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy giggle vocal vivid arrange cancel visa novel afraid aisle trip lobster";
+var mnemonic = "genuine angry office climb retreat ostrich cluster fatal planet agent help track";

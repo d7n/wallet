@@ -1,1 +1,1 @@
-var mnemonic = "top concert trip brother diagram transfer shuffle wise seed economy twist raccoon";
+var mnemonic = "legal easy public main swing mixed enjoy flock expect shoe toast coach";

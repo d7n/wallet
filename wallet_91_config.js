@@ -1,1 +1,1 @@
-var mnemonic = "document fetch marine bright robust during trade tray aisle salon wedding element";
+var mnemonic = "hawk marine mutual height more trap lend use autumn north offer okay";

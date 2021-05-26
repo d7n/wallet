@@ -1,1 +1,1 @@
-var mnemonic = "erosion suggest leopard side smart juice mad pluck drive guess two clown";
+var mnemonic = "rare quarter prosper october inject panel system quantum funny load subway boring";

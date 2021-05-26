@@ -1,1 +1,1 @@
-var mnemonic = "fuel cook weather panel absent hurdle scene ahead radar gun exhibit goat";
+var mnemonic = "crumble cram glow birth polar flat exile cradle attitude glue host camp";

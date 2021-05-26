@@ -1,1 +1,1 @@
-var mnemonic = "reform gaze stable output notice nation certain cheap sail craft write frown";
+var mnemonic = "staff jeans appear section amount notice math material abuse sure music bag";

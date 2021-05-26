@@ -1,1 +1,1 @@
-var mnemonic = "beef maze light panda hello rack dune luggage together tooth title deal";
+var mnemonic = "want stable exist figure sleep cherry credit lounge saddle someone unfold alpha";

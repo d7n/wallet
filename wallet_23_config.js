@@ -1,1 +1,1 @@
-var mnemonic = "order green struggle lyrics start sort meat face elegant resist nurse fabric";
+var mnemonic = "gap glare mystery elevator fee predict wedding recipe enforce youth shop box";

@@ -1,1 +1,1 @@
-var mnemonic = "clay liquid profit journey worth tennis media awesome ensure inherit whip reform";
+var mnemonic = "knee sword tiny core voice wool improve glare host brass toward grief";

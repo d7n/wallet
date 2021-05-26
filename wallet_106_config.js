@@ -1,1 +1,1 @@
-var mnemonic = "someone flavor erode one message knee pupil stadium venue guilt erode antenna";
+var mnemonic = "left october payment verb south throw once goddess cargo aware scan stage";

@@ -1,1 +1,1 @@
-var mnemonic = "material chair off mesh effort cry cliff celery dolphin vocal catch festival";
+var mnemonic = "song forum hold submit offer debate stumble post helmet puzzle office ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "clown faculty scan fiscal bamboo assist yellow fever industry wealth kidney warrior";
+var mnemonic = "siren oxygen general slender napkin broken ridge foam ranch disagree enact girl";

@@ -1,1 +1,1 @@
-var mnemonic = "flower girl onion pencil nice learn current kid coil hunt rice erase";
+var mnemonic = "control impact fold tired inspire bring bring nice digital aerobic admit kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom claim body term matter dream output margin juice depart case draw";
+var mnemonic = "pluck all napkin tiny defy robust mirror pupil unit unable online charge";

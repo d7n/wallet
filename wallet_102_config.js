@@ -1,1 +1,1 @@
-var mnemonic = "camera insect chest forward orphan ski noodle want owner bunker guide movie";
+var mnemonic = "cat pen stage horse vacuum seek remove swift barely tissue receive art";

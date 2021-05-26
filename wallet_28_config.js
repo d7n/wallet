@@ -1,1 +1,1 @@
-var mnemonic = "wage beyond again guide clown chat world adjust profit skill wish wrap";
+var mnemonic = "anchor keep senior cherry surprise fish fine mention virtual rack wagon miss";

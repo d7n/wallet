@@ -1,1 +1,1 @@
-var mnemonic = "account wage ahead eye update foot stay distance car arrow wheat victory";
+var mnemonic = "slim camera lyrics give flat great error axis clap priority baby example";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal juice speed lamp hint gloom pact elder fragile century member example";
+var mnemonic = "syrup motion bitter adjust leisure glide casual deliver scatter obscure sleep image";

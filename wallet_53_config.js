@@ -1,1 +1,1 @@
-var mnemonic = "sleep curtain already ability broom rigid bullet vapor joke canyon model suggest";
+var mnemonic = "august kit token upon magnet fire gas peasant monitor adapt live people";

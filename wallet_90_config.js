@@ -1,1 +1,1 @@
-var mnemonic = "pluck rare goat accuse marriage tail ten useless theory atom panic pretty";
+var mnemonic = "answer reveal notice love ship forest vacant syrup frog demise truck elevator";

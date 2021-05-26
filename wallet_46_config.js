@@ -1,1 +1,1 @@
-var mnemonic = "property gate suggest payment love east glass foil east subject rug eagle";
+var mnemonic = "old promote swear nature merry orphan cupboard lounge trade draft fatigue raccoon";

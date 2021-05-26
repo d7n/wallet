@@ -1,1 +1,1 @@
-var mnemonic = "predict celery crime cart check tent prepare lawsuit alert divide disagree shoot";
+var mnemonic = "panel humor father local problem girl weird rocket impose pink endorse wealth";

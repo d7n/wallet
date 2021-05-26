@@ -1,1 +1,1 @@
-var mnemonic = "day magnet sand loan detail harvest frozen pumpkin fiction auto one year";
+var mnemonic = "wisdom income mutual biology fancy describe helmet fade virus unique kingdom remain";

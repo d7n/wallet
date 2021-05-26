@@ -1,1 +1,1 @@
-var mnemonic = "merry cruel solid hill outdoor marine typical describe adult odor brown trash";
+var mnemonic = "search wonder coin fiscal citizen rebel laptop bench rude monster chronic slender";

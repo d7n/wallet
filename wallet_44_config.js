@@ -1,1 +1,1 @@
-var mnemonic = "true come sustain mosquito celery vessel country west drift october switch crunch";
+var mnemonic = "bullet camera hat apple chapter flower say private real orient estate fire";

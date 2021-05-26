@@ -1,1 +1,1 @@
-var mnemonic = "mansion eternal liar enroll cereal explain organ report unveil guitar diesel excuse";
+var mnemonic = "ozone valve weekend destroy skin round nest document typical noble fault receive";

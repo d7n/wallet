@@ -1,1 +1,1 @@
-var mnemonic = "sheriff flag rhythm juice lecture elite cup identify there spin wage excess";
+var mnemonic = "vehicle expect eager gorilla panel crowd oak increase danger mystery best kidney";

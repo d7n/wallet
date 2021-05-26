@@ -1,1 +1,1 @@
-var mnemonic = "use salmon sure erupt excess post impose clever must asset sentence cradle";
+var mnemonic = "sauce humble proof noble series worry verify tomato tourist advice like volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire roof rate panic lesson spin kite wave wheat push toddler differ";
+var mnemonic = "mansion must dirt student super merge bread table health cover witness gentle";

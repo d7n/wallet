@@ -1,1 +1,1 @@
-var mnemonic = "juice net identify merit horror devote grunt mom sell miss noble seek";
+var mnemonic = "amateur grab siege wealth cinnamon donate meadow traffic palace vocal odor office";

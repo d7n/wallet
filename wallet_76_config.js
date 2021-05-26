@@ -1,1 +1,1 @@
-var mnemonic = "imitate document split surface vacuum put suspect health ahead liquid swift put";
+var mnemonic = "accuse orient rose organ vendor twelve good emerge sample dial piece guitar";

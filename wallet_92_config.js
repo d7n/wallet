@@ -1,1 +1,1 @@
-var mnemonic = "crop march spice candy balance any minute system spy base face scene";
+var mnemonic = "rather garage smile sense huge quality best device lonely fence public scrap";
