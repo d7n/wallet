@@ -1,1 +1,1 @@
-var mnemonic = "favorite work violin crawl dress bring federal century inside climb people later";
+var mnemonic = "surprise lazy wet nominee cradle rescue leopard school junk oil cereal window";

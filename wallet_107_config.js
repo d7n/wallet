@@ -1,1 +1,1 @@
-var mnemonic = "agree awkward wasp fish unfold robust mad frequent know discover month badge";
+var mnemonic = "inner glass cancel hollow shiver gorilla mountain discover subway sad relief lottery";

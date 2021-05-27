@@ -1,1 +1,1 @@
-var mnemonic = "mansion sausage hurdle inhale film garden weapon soldier chunk increase model girl";
+var mnemonic = "treat invite diesel awful figure almost brave flash reunion canal sniff dawn";

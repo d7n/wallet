@@ -1,1 +1,1 @@
-var mnemonic = "drama trust soul tongue note enable bubble marble bottom visit energy banner";
+var mnemonic = "about hour expand minor funny anger surface place weird surprise defy quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "assume grain episode kangaroo usage social siege honey lyrics laptop spoil struggle";
+var mnemonic = "govern sample device injury town ill release board wheat fever decline donkey";

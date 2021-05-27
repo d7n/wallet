@@ -1,1 +1,1 @@
-var mnemonic = "mistake where cousin skate shuffle enforce cannon market steak mask sun apple";
+var mnemonic = "denial faculty brother echo prosper virtual kitchen health iron sauce focus brother";

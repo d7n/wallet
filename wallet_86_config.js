@@ -1,1 +1,1 @@
-var mnemonic = "limb produce uncover place dismiss chair disease banana danger defy obvious process";
+var mnemonic = "cruel jacket family lunar oven lunar peasant chair laundry object network limb";

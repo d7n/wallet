@@ -1,1 +1,1 @@
-var mnemonic = "garage ecology foster lyrics magic select army case drift magnet scare opera";
+var mnemonic = "switch cage link primary sand disease idle require blood nation field permit";

@@ -1,1 +1,1 @@
-var mnemonic = "female meat original fresh core off sail flower taste chunk total reopen";
+var mnemonic = "spell puppy tiny wealth gorilla scrub still pull position say very fork";

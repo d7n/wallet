@@ -1,1 +1,1 @@
-var mnemonic = "hurry plunge recipe limb ivory action camera pilot arrive few alter amused";
+var mnemonic = "heavy merge strategy phrase affair furnace today secret turkey hood industry elite";

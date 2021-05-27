@@ -1,1 +1,1 @@
-var mnemonic = "excuse stereo broom couple salute regular front current twin milk century throw";
+var mnemonic = "culture steel case chapter melt arch diesel aisle daring tone cool torch";

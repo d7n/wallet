@@ -1,1 +1,1 @@
-var mnemonic = "clay ill gasp purity derive else brand left fossil grain school hard";
+var mnemonic = "rebuild digital canoe poet moment found guard hub shadow curve flee atom";

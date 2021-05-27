@@ -1,1 +1,1 @@
-var mnemonic = "slow cradle match level visit uniform blanket amazing develop diamond collect lake";
+var mnemonic = "bomb cream recycle cross media carpet flower since scorpion silly cinnamon liberty";

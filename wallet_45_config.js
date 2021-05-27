@@ -1,1 +1,1 @@
-var mnemonic = "arrow admit tenant attitude brass sort phrase coast dash crop learn define";
+var mnemonic = "pause satisfy snack other twelve soon right hold pumpkin rent carbon home";

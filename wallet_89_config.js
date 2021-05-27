@@ -1,1 +1,1 @@
-var mnemonic = "zoo distance about blossom check height few rare stem lamp car outer";
+var mnemonic = "biology item option sorry sort move toward luggage squirrel drama swap carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "fun inject license ridge siren laugh mushroom gauge jeans provide way click";
+var mnemonic = "exist piece purchase denial vapor hurry hold virus this kiss recall car";

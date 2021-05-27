@@ -1,1 +1,1 @@
-var mnemonic = "tube belt rapid demand lawn achieve tuition joy spy view away group";
+var mnemonic = "boring initial assume priority label earn connect glow speak warm grass belt";

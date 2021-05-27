@@ -1,1 +1,1 @@
-var mnemonic = "latin away worry impose orbit nut erase armed awake pond supreme vote";
+var mnemonic = "fiber uncover chimney acquire song spread sadness city vibrant seed cheap build";

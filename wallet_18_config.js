@@ -1,1 +1,1 @@
-var mnemonic = "hawk soon crop clay draft minute utility offer kidney credit mother hurdle";
+var mnemonic = "advice hurt omit title solution valley process cricket price account issue prize";

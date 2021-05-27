@@ -1,1 +1,1 @@
-var mnemonic = "choice spray copy guilt aware clap wife drop require jealous afraid pioneer";
+var mnemonic = "dynamic hedgehog question bonus winter cousin cloud wise enter paddle install volume";

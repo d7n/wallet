@@ -1,1 +1,1 @@
-var mnemonic = "science hunt primary grocery clay humor wheel limb snow live demise club";
+var mnemonic = "auto cushion render eager genius void unveil pluck process always october tape";

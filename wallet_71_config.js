@@ -1,1 +1,1 @@
-var mnemonic = "tooth egg clap slim into syrup canal border depth warrior ridge swim";
+var mnemonic = "rose avocado square rice group focus pride nerve body room economy gorilla";

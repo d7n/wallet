@@ -1,1 +1,1 @@
-var mnemonic = "notable egg liquid glare same text chronic exercise clay tissue pizza fetch";
+var mnemonic = "work head very book index ethics bar subject humor ancient air soft";

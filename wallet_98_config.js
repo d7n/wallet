@@ -1,1 +1,1 @@
-var mnemonic = "glove humble zebra salute useless abuse salmon raccoon denial rotate require topic";
+var mnemonic = "life mistake island sibling long frost worth rotate minor oven member produce";

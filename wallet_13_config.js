@@ -1,1 +1,1 @@
-var mnemonic = "casual zone visa zero school rebel slim demise silver click try symbol";
+var mnemonic = "humble disagree thank parrot obscure clay muffin envelope blue final swamp warfare";

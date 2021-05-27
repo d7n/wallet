@@ -1,1 +1,1 @@
-var mnemonic = "relief gym broken team mixture drip artwork evolve diary engage foot exit";
+var mnemonic = "engage fringe muffin sheriff mimic bleak soap industry tomorrow wet frozen album";

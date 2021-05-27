@@ -1,1 +1,1 @@
-var mnemonic = "promote frown vendor mansion try excite cheap reason draft mercy female amateur";
+var mnemonic = "mixture easily claw fluid recipe onion medal start search inspire awesome patrol";

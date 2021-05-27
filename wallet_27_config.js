@@ -1,1 +1,1 @@
-var mnemonic = "inflict bridge legend unknown bonus involve moral music fever flip bean save";
+var mnemonic = "toward carpet hen bunker treat stone thumb asset tower submit addict genius";

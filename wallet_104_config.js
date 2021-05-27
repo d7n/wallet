@@ -1,1 +1,1 @@
-var mnemonic = "venue waste marble leaf giant copper flush magnet warm million drift silk";
+var mnemonic = "brisk transfer fat better potato harbor riot oven shoe change silver bone";

@@ -1,1 +1,1 @@
-var mnemonic = "address shoulder sick unknown bleak recycle title cute umbrella series defy squirrel";
+var mnemonic = "unlock luggage cup plunge marine unique tag bacon inject only toward ripple";

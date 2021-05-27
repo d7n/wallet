@@ -1,1 +1,1 @@
-var mnemonic = "primary mixed rapid gaze review vibrant miracle airport math route alcohol spin";
+var mnemonic = "tennis feed allow hold spread scan spatial unlock paddle provide raccoon vessel";

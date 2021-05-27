@@ -1,1 +1,1 @@
-var mnemonic = "valley artwork message dress possible guitar talent then expire lens hint box";
+var mnemonic = "clutch surge season pistol basket prize reopen poet spirit pair vault blanket";

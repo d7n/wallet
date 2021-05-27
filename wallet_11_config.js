@@ -1,1 +1,1 @@
-var mnemonic = "perfect giggle diet regret write parade add blur girl river family salad";
+var mnemonic = "pyramid off before access picnic sign dream current sudden lock long ocean";

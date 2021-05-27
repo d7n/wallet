@@ -1,1 +1,1 @@
-var mnemonic = "chair pattern spin oval rival kiwi stay label intact arrive faculty thought";
+var mnemonic = "flame spoil fix rabbit fetch dress push tail useless awful milk blind";

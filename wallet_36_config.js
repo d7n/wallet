@@ -1,1 +1,1 @@
-var mnemonic = "catch around hedgehog curious doll fun undo party table all cradle apart";
+var mnemonic = "wave disease catalog artefact phrase radio weird balcony open retreat mesh apart";

@@ -1,1 +1,1 @@
-var mnemonic = "moment police observe close obey chaos cheese glue crush neglect grit typical";
+var mnemonic = "rifle census habit inspire harvest clock behind ensure resist broken sense proof";

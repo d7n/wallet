@@ -1,1 +1,1 @@
-var mnemonic = "sleep fashion invite explain rapid oak open defy check sibling vessel allow";
+var mnemonic = "want garage umbrella attend dutch exist bike hidden hungry bracket card toddler";

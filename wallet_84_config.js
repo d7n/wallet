@@ -1,1 +1,1 @@
-var mnemonic = "anxiety cloth noodle legend mother birth early usage day swift sentence elevator";
+var mnemonic = "tilt layer seed aunt eye shoulder tree destroy candy horse embark you";

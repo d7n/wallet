@@ -1,1 +1,1 @@
-var mnemonic = "float answer crack imitate suit talent message erase solid kick oval fox";
+var mnemonic = "tail seminar random render inspire doctor rigid oak boring bag soul vocal";

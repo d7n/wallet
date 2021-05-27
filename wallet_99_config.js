@@ -1,1 +1,1 @@
-var mnemonic = "twin casino blade buffalo patient afford loop father bomb town puppy glass";
+var mnemonic = "decrease festival end review behind speak near hurry radar figure vault govern";

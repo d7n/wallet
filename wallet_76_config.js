@@ -1,1 +1,1 @@
-var mnemonic = "news heavy assist mesh dragon scene ball rate myth impulse devote exchange";
+var mnemonic = "faith company scene gesture ring sister pride neither screen evidence spice online";

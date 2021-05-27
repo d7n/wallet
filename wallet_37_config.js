@@ -1,1 +1,1 @@
-var mnemonic = "poem visual true empty drastic tilt message victory stadium engage autumn captain";
+var mnemonic = "glad faint dragon absurd favorite nice clever pond later verb install apart";

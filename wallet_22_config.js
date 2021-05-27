@@ -1,1 +1,1 @@
-var mnemonic = "fury curtain scheme laptop million plug rather proud energy license alien bundle";
+var mnemonic = "climb supply certain invite intact lyrics bag hill govern coach exile humor";

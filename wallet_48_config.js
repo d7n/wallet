@@ -1,1 +1,1 @@
-var mnemonic = "rail weekend isolate search cushion pulse barrel dismiss shrimp burger together chaos";
+var mnemonic = "fold lucky hover card print chuckle slow shop movie couch extend boy";

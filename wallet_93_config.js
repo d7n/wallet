@@ -1,1 +1,1 @@
-var mnemonic = "mixture bulb abuse young nothing excess know expect horse wedding praise derive";
+var mnemonic = "put pyramid lumber office dwarf torch dry tuition disorder decide drop ghost";

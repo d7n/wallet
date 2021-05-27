@@ -1,1 +1,1 @@
-var mnemonic = "outer deny life position afford list someone parade snap sudden crouch object";
+var mnemonic = "blue any axis dragon correct quality acid tenant soap reduce spoon target";

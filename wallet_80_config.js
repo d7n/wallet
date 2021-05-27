@@ -1,1 +1,1 @@
-var mnemonic = "upset sample toss arrange flock jealous radar shrug call bomb physical kitchen";
+var mnemonic = "canoe armed sunset eager degree pause cluster very budget peanut deer one";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid sadness plunge citizen virtual job stone merit supply mix fitness exotic";
+var mnemonic = "survey scare when trick acoustic cousin chicken jazz tuition fragile surprise consider";

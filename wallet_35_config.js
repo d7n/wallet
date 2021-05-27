@@ -1,1 +1,1 @@
-var mnemonic = "year balance unveil champion ethics live shift proof suspect lunar intact math";
+var mnemonic = "visa cement dolphin swarm snow universe vote equip stone barely film surround";

@@ -1,1 +1,1 @@
-var mnemonic = "nose bounce route panel obvious limb liquid neither enhance behave eternal imitate";
+var mnemonic = "color artist embrace only awkward balance hurdle mountain wedding real inner robot";

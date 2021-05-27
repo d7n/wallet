@@ -1,1 +1,1 @@
-var mnemonic = "vintage knee security output hood jump avoid civil hundred tackle popular fuel";
+var mnemonic = "name mad cluster venue rubber access ancient lunar erode switch float lend";

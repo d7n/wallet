@@ -1,1 +1,1 @@
-var mnemonic = "wine put language useful cream live run security broom tourist joke science";
+var mnemonic = "around soul review naive emotion crunch exit dinosaur victory pulse random earn";

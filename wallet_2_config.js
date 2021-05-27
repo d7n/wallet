@@ -1,1 +1,1 @@
-var mnemonic = "tank curious moment skin usual course okay insect pluck list neglect bike";
+var mnemonic = "empower will code explain couple receive alley change increase public capable east";

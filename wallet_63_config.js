@@ -1,1 +1,1 @@
-var mnemonic = "include trophy oval crime silly thought case solve fantasy place much cluster";
+var mnemonic = "enroll you chaos afraid ladder egg soul recycle sadness camp gentle dawn";

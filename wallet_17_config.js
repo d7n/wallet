@@ -1,1 +1,1 @@
-var mnemonic = "nerve cement flower cover elevator flight announce lemon smooth tone dice social";
+var mnemonic = "glance custom dinosaur crisp guard equip candy price salad patrol segment chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard frog kidney ostrich gift chase rich step since rude tragic planet";
+var mnemonic = "pluck this lounge course possible nation wall worry erupt promote pledge faint";

@@ -1,1 +1,1 @@
-var mnemonic = "canal moon wish old exchange result smart artefact shrug engine junk speak";
+var mnemonic = "middle beauty hope define mercy spawn century sphere favorite detail column plate";

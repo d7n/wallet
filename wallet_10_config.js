@@ -1,1 +1,1 @@
-var mnemonic = "keep orange foil reopen injury index sphere actor junk spawn bubble album";
+var mnemonic = "blanket surge symptom scissors dish help dinosaur fantasy shove minute since venture";

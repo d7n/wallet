@@ -1,1 +1,1 @@
-var mnemonic = "length miracle guide odor resource spirit speak draft idle grief tackle document";
+var mnemonic = "loyal twin angry cactus peanut trigger quiz river nation caught awkward silent";

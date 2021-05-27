@@ -1,1 +1,1 @@
-var mnemonic = "invite student weasel dinner close disorder army slush scene guitar habit doll";
+var mnemonic = "liberty album clarify seek other profit surprise output ecology resist trust firm";

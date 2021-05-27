@@ -1,1 +1,1 @@
-var mnemonic = "spring arm private setup mad speak latin dragon fold group retreat maid";
+var mnemonic = "moon axis alcohol draft hamster round trophy bundle spirit joke betray globe";

@@ -1,1 +1,1 @@
-var mnemonic = "pact power regret nephew dune wish crisp regular metal tumble machine you";
+var mnemonic = "will vibrant endorse weasel produce rescue runway hurt potato invite weekend execute";

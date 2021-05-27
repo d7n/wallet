@@ -1,1 +1,1 @@
-var mnemonic = "wire eagle tilt rent best split science flash usual health memory train";
+var mnemonic = "chapter elder innocent insect eye wink message any brief work verify apology";

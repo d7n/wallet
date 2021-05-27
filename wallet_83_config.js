@@ -1,1 +1,1 @@
-var mnemonic = "reason route develop evidence pudding mean tower equal dutch vintage glove brown";
+var mnemonic = "abstract fox keen shadow pole lazy hero zone like reflect script marble";

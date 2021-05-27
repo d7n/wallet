@@ -1,1 +1,1 @@
-var mnemonic = "cute equal tilt snack subway genuine clever huge merry pigeon belt labor";
+var mnemonic = "federal glue airport soon collect fence network fame august magic toast tank";

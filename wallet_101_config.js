@@ -1,1 +1,1 @@
-var mnemonic = "fold police churn bicycle swap group bomb any rhythm mention example fatigue";
+var mnemonic = "wire year tortoise misery option assault combine puppy milk plastic wise zero";

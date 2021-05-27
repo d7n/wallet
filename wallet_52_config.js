@@ -1,1 +1,1 @@
-var mnemonic = "lemon script armed dragon between effort finger thought record mix round vital";
+var mnemonic = "ugly rail piece rely vote crisp decrease pumpkin vital march brisk flee";

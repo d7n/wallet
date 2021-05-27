@@ -1,1 +1,1 @@
-var mnemonic = "elephant river mandate security awesome reason blush old fiber fluid again obscure";
+var mnemonic = "box junior shallow snap list tennis stool say forward forward advice final";

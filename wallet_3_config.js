@@ -1,1 +1,1 @@
-var mnemonic = "present crime culture enjoy jelly legend fashion output grocery ghost language scheme";
+var mnemonic = "nature sense era always public illness palm dumb tuna victory quit net";

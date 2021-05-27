@@ -1,1 +1,1 @@
-var mnemonic = "inquiry spin awkward gown pipe inspire switch clutch base spell check siege";
+var mnemonic = "canyon anxiety indicate lecture census example canal soldier can seat cycle harsh";

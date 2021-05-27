@@ -1,1 +1,1 @@
-var mnemonic = "uphold amount retire message shallow concert trophy avoid sketch hold drama snap";
+var mnemonic = "spend elder amount witness cross desert head genre pair guitar gasp review";

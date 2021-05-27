@@ -1,1 +1,1 @@
-var mnemonic = "bulk super front admit brain fox culture joy flat that brass glow";
+var mnemonic = "fabric family head grape voice move fiber decide slice average myth donor";

@@ -1,1 +1,1 @@
-var mnemonic = "dry marine toilet faculty walk planet uniform absurd amused knock math bonus";
+var mnemonic = "into crunch trip pretty useless output course suspect old home unlock pair";

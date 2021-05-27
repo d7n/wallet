@@ -1,1 +1,1 @@
-var mnemonic = "child debris scene feed reveal october field warrior advice inquiry clown way";
+var mnemonic = "ride message shine damp renew repair remember flock jungle practice aerobic amused";

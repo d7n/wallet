@@ -1,1 +1,1 @@
-var mnemonic = "artist card symbol fence input cattle entire dance mushroom cart clown arena";
+var mnemonic = "legal involve insane dress bread answer tooth course evil search snack search";

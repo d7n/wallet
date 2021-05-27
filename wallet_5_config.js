@@ -1,1 +1,1 @@
-var mnemonic = "wrestle aunt arrive friend fatal educate hurry flock output depart grant park";
+var mnemonic = "width gain title quote ramp style arch gentle extra decorate boost lemon";

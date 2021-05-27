@@ -1,1 +1,1 @@
-var mnemonic = "book current mandate garden area web pride middle gasp twice pepper student";
+var mnemonic = "test identify ribbon amateur question obtain twice dream pass they defense awful";

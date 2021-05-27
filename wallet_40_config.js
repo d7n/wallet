@@ -1,1 +1,1 @@
-var mnemonic = "urban raven hill attitude margin increase rely expect snack exercise before settle";
+var mnemonic = "broken hybrid visit galaxy stone flush suggest silent hip bread rate ginger";

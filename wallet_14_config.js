@@ -1,1 +1,1 @@
-var mnemonic = "purchase afraid inform become practice ring pretty prosper sustain drill around rural";
+var mnemonic = "short daring bracket young foot flavor hammer easily level nature thumb rookie";

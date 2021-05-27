@@ -1,1 +1,1 @@
-var mnemonic = "fossil enact soldier icon face giggle core concert include lottery solution grow";
+var mnemonic = "ocean cereal wedding below else dumb general shield hamster vacuum grab foot";

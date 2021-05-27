@@ -1,1 +1,1 @@
-var mnemonic = "session traffic deliver custom release involve balcony treat stuff struggle gift dignity";
+var mnemonic = "spray genre sign profit oblige machine roast resemble february desert top outside";

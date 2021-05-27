@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur scissors shrug manage dutch hip food actress horn gadget embody have";
+var mnemonic = "inherit eye taxi approve smooth come assault vicious book frog beauty title";

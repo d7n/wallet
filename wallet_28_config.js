@@ -1,1 +1,1 @@
-var mnemonic = "crystal sausage cross lucky rare pill salute accuse nose knife obscure lunar";
+var mnemonic = "opinion hockey chief melody method response accuse junior undo wet crucial street";

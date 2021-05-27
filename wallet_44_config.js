@@ -1,1 +1,1 @@
-var mnemonic = "swing visit boy fantasy habit flower melt kiwi alert year system sweet";
+var mnemonic = "mouse motor wedding vessel stereo wild foam romance orphan daring hurt warrior";

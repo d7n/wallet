@@ -1,1 +1,1 @@
-var mnemonic = "lesson leaf marriage husband hover fantasy emotion april chalk bullet quiz rabbit";
+var mnemonic = "fall atom wait very laugh plate exchange diary conduct half entry rice";

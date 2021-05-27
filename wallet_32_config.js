@@ -1,1 +1,1 @@
-var mnemonic = "wood pluck grid stumble lawsuit victory happy over diary soda urban unveil";
+var mnemonic = "enough hazard stuff rapid end organ useless immune garlic oblige grit receive";

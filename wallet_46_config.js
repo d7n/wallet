@@ -1,1 +1,1 @@
-var mnemonic = "exercise tomato favorite sick cool chest gossip situate front defense sure impact";
+var mnemonic = "bring robot tenant grain resist car zero bone dance across peasant traffic";

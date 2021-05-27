@@ -1,1 +1,1 @@
-var mnemonic = "snap detail orange hello boring mandate ticket dentist filter city teach way";
+var mnemonic = "clock matrix strategy favorite blade type style unusual fun fossil uncover armed";

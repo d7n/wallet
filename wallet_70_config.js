@@ -1,1 +1,1 @@
-var mnemonic = "pet endless outdoor riot tomorrow eight east bonus when palace sick olympic";
+var mnemonic = "robust turn ripple dawn shove clerk will slow wall cancel judge marine";
