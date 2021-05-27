@@ -1,1 +1,1 @@
-var mnemonic = "attract enemy extra oval region again antique fuel ketchup permit pelican total";
+var mnemonic = "pig act book infant traffic spoon warrior mushroom unit amused fit trial";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm paddle duck grid soda symbol acoustic solution road call portion fantasy";
+var mnemonic = "arrow save brave bring title bachelor spell immense enjoy convince couch note";

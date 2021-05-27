@@ -1,1 +1,1 @@
-var mnemonic = "chapter chef creek earth there clarify lens recipe tired dentist benefit runway";
+var mnemonic = "pattern color vast fatal clip street volume drastic kangaroo merge buzz melt";

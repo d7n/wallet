@@ -1,1 +1,1 @@
-var mnemonic = "swift issue elevator mixed license claim scorpion mail cable pig quiz music";
+var mnemonic = "abandon subject pair rapid earn atom parrot march cancel junior feature pioneer";

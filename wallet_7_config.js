@@ -1,1 +1,1 @@
-var mnemonic = "endless shiver repeat trip dizzy space feature twice hamster silver simple soda";
+var mnemonic = "slab solid business grape frown whisper foot number symbol exhaust pyramid purity";

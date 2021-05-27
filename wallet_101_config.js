@@ -1,1 +1,1 @@
-var mnemonic = "amount romance unusual enrich gravity stick rebel hobby casual maze sense mention";
+var mnemonic = "spider often else lawsuit chase kite random power vanish nest episode crowd";

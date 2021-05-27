@@ -1,1 +1,1 @@
-var mnemonic = "beef aunt farm text heart north tuna fiction reason black lend grace";
+var mnemonic = "bread hill dad sentence vicious random combine brave danger hunt giant tenant";

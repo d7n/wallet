@@ -1,1 +1,1 @@
-var mnemonic = "verb bundle race thank lecture uphold ivory donor else face filter impulse";
+var mnemonic = "service sniff hunt jaguar cargo maximum open ten topic craft lake essay";

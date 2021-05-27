@@ -1,1 +1,1 @@
-var mnemonic = "tongue winter autumn chef indoor grunt swim any cactus milk theme cabbage";
+var mnemonic = "already work year false legal pledge know shy answer gown volume water";

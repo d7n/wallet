@@ -1,1 +1,1 @@
-var mnemonic = "forest crane dance belt steak salad ostrich senior team kick reward office";
+var mnemonic = "detail curious glue trumpet leopard hood autumn audit cargo middle opera rotate";

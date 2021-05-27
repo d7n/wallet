@@ -1,1 +1,1 @@
-var mnemonic = "bridge carry present wrist run firm insect know horn cliff cost picnic";
+var mnemonic = "faith fiber soon across lottery tooth report blossom fish siren risk regular";

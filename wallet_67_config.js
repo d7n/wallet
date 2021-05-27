@@ -1,1 +1,1 @@
-var mnemonic = "peace smoke bike vicious bless range achieve west spice differ nature grass";
+var mnemonic = "tuna despair absurd barely champion marble rescue final birth jump brand emerge";

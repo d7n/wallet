@@ -1,1 +1,1 @@
-var mnemonic = "genuine arrow mind release hair square toward dad book tree clerk inch";
+var mnemonic = "wasp poem series crash pink excess viable hard height file logic hour";

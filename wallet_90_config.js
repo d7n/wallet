@@ -1,1 +1,1 @@
-var mnemonic = "comic tongue pepper giraffe suggest wagon mansion target shrug double web museum";
+var mnemonic = "mountain shrug mirror happy victory position century else fiction room profit ritual";

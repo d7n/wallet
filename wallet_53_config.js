@@ -1,1 +1,1 @@
-var mnemonic = "robust select ankle primary asset chase seek fuel mule upgrade snow upper";
+var mnemonic = "actual clean session cruel mixture common game forum replace cheese kiss casino";

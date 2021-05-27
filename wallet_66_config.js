@@ -1,1 +1,1 @@
-var mnemonic = "blouse next number romance square canoe rely eyebrow slam scene daring fine";
+var mnemonic = "extend differ wheel dice teach select robust deposit average joy below erode";

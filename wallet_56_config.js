@@ -1,1 +1,1 @@
-var mnemonic = "vacant slab grape genuine ketchup come merge mother click nose achieve glide";
+var mnemonic = "grid angry spot evidence shuffle release aim click laundry tomato prison crack";

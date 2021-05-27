@@ -1,1 +1,1 @@
-var mnemonic = "alien sell syrup chimney cotton kiss blade room believe pizza magnet mandate";
+var mnemonic = "floor wave draft idle misery involve battle wash modify grant crash fold";

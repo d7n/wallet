@@ -1,1 +1,1 @@
-var mnemonic = "badge tent crunch drum total hello seat staff dirt insect nominee pair";
+var mnemonic = "march lawn ivory shallow special parrot attract confirm pull pair wish remind";

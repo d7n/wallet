@@ -1,1 +1,1 @@
-var mnemonic = "vendor main staff juice primary air welcome stage plate window used exclude";
+var mnemonic = "enact evidence assume session gallery rude give situate caution move better dose";

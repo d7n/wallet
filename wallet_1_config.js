@@ -1,1 +1,1 @@
-var mnemonic = "pond blue virus thumb indicate address ritual pioneer snack fruit ghost weekend";
+var mnemonic = "cram female crisp protect giraffe giant valid cost special river chuckle monkey";

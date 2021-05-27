@@ -1,1 +1,1 @@
-var mnemonic = "prize forward minor leopard shrug patient exile jeans spoil carbon quarter appear";
+var mnemonic = "pitch spawn goose print front fantasy city stuff install couple prefer garbage";

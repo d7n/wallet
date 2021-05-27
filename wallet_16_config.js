@@ -1,1 +1,1 @@
-var mnemonic = "review aim physical spy aware cotton brick valid hotel cream popular endless";
+var mnemonic = "garlic tray pelican evolve lady cupboard poet transfer obey layer pony float";

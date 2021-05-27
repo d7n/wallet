@@ -1,1 +1,1 @@
-var mnemonic = "math people bench flavor again increase protect panic property firm follow decide";
+var mnemonic = "claim female coffee excess crucial test behind news firm vapor sea delay";

@@ -1,1 +1,1 @@
-var mnemonic = "market skate company impact immense pig owner garment mobile foster innocent diagram";
+var mnemonic = "useful clump again dilemma save fashion awkward screen brother clock mushroom pretty";

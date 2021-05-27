@@ -1,1 +1,1 @@
-var mnemonic = "nuclear assist keep avoid fox fatigue case matter jaguar chef spatial borrow";
+var mnemonic = "reopen depart quarter network left water mesh news afraid critic wise absurd";

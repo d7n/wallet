@@ -1,1 +1,1 @@
-var mnemonic = "resist excuse project forget chase catalog cupboard faculty secret only burger dwarf";
+var mnemonic = "nothing uphold jar figure north meadow gallery floor token fitness unique sick";

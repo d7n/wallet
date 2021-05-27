@@ -1,1 +1,1 @@
-var mnemonic = "sunset defense oil hand owner kite place repair silver twelve congress round";
+var mnemonic = "dish tissue yellow chest wing lottery tomorrow key husband artwork sound note";

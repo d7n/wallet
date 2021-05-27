@@ -1,1 +1,1 @@
-var mnemonic = "wheat clay quantum cabbage marble knee apology reform total first over drum";
+var mnemonic = "dentist hope horn repeat limb print abuse predict dice afraid roof rare";

@@ -1,1 +1,1 @@
-var mnemonic = "method trim vacuum execute throw obscure trial essay stomach credit mushroom anxiety";
+var mnemonic = "siren eagle injury sell giggle earn burst north chaos prevent swing together";

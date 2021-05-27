@@ -1,1 +1,1 @@
-var mnemonic = "donate exhibit capable dash magnet immune proud wonder honey conduct better prepare";
+var mnemonic = "budget draft slogan enforce book tip second index cotton peanut buffalo rotate";

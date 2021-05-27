@@ -1,1 +1,1 @@
-var mnemonic = "laptop below february grocery waste fun original then shell liar great fine";
+var mnemonic = "lazy turn build nuclear stuff stomach soft parade life tortoise hat dice";

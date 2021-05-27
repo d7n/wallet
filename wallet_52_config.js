@@ -1,1 +1,1 @@
-var mnemonic = "steel fox mind tail void social item milk only unusual melt digital";
+var mnemonic = "interest try liquid electric trip width rally frost heart timber fancy lyrics";

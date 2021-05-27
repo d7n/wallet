@@ -1,1 +1,1 @@
-var mnemonic = "final panther pause warm model cannon come trick garden toilet logic nose";
+var mnemonic = "ecology effort river kingdom faint crash enlist motor please attack rigid between";

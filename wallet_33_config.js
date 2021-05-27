@@ -1,1 +1,1 @@
-var mnemonic = "quantum online exit suit ozone public case you oppose wife oven power";
+var mnemonic = "dune diary flag that clarify exchange safe educate safe siege then blouse";

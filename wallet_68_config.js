@@ -1,1 +1,1 @@
-var mnemonic = "shoe crucial laptop fashion pony siege shell winner cupboard movie comfort sea";
+var mnemonic = "rare unhappy cry venue space affair hotel glide speak advance scatter hip";

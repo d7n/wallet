@@ -1,1 +1,1 @@
-var mnemonic = "return kit sword impact exotic flock print usage dress slice push attract";
+var mnemonic = "tiny trip toward tide mask treat target inspire can buyer width depart";

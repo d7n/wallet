@@ -1,1 +1,1 @@
-var mnemonic = "simple whisper bronze machine skull scout learn same tongue spring unable blouse";
+var mnemonic = "dog false example head they height include viable youth logic urge cluster";

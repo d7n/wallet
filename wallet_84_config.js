@@ -1,1 +1,1 @@
-var mnemonic = "snap grant replace echo brown bridge cross picnic ritual lounge receive crouch";
+var mnemonic = "south bring ladder bonus innocent perfect purchase dolphin economy skull employ demise";

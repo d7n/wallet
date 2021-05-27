@@ -1,1 +1,1 @@
-var mnemonic = "party shoe stone uncle mixture push fabric stove arrive siege you figure";
+var mnemonic = "scene physical hill bleak affair rack tunnel bronze disagree day omit twenty";

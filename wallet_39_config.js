@@ -1,1 +1,1 @@
-var mnemonic = "organ catalog census basket theory royal weekend elite mistake fresh inside globe";
+var mnemonic = "scrap smoke name token mechanic leaf jeans vault patrol label rifle repair";

@@ -1,1 +1,1 @@
-var mnemonic = "soul cherry caught ship isolate crunch innocent biology resist client diesel club";
+var mnemonic = "stamp orient disease two express style excess flower ghost robot immense evoke";

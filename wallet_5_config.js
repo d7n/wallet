@@ -1,1 +1,1 @@
-var mnemonic = "clean together picture ranch cart turkey slender oxygen damage jungle fame until";
+var mnemonic = "betray remove load garment estate ride key add apple sausage inform feel";

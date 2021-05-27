@@ -1,1 +1,1 @@
-var mnemonic = "proof there copy involve hawk fit mushroom horse spend type divert false";
+var mnemonic = "blossom gravity one actual slide adjust risk thought universe wife require camp";

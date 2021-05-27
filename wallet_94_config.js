@@ -1,1 +1,1 @@
-var mnemonic = "during wet burst mail opera two brass gift supreme outdoor virtual law";
+var mnemonic = "weasel audit absorb flag congress panda inherit high soccer plate equal shadow";

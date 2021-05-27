@@ -1,1 +1,1 @@
-var mnemonic = "summer hub script cycle kid lift real seven between number shove brass";
+var mnemonic = "sustain index require moon twist click eager open pitch wreck spell sail";

@@ -1,1 +1,1 @@
-var mnemonic = "mail enough beyond tone disorder soldier affair absent sibling knife industry corn";
+var mnemonic = "rough useless dog solar manage affair leader dutch scene rocket protect fragile";

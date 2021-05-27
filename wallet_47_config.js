@@ -1,1 +1,1 @@
-var mnemonic = "antenna light force detect state canal pool stem object gun slide lemon";
+var mnemonic = "keep usual special reopen legal skirt flee awkward test flip axis shrimp";

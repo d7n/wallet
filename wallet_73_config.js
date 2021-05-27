@@ -1,1 +1,1 @@
-var mnemonic = "master brisk six hover ocean junior rude regret shuffle remind often page";
+var mnemonic = "mouse blast truly vital virus guide idle leaf unusual gallery visit trouble";

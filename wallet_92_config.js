@@ -1,1 +1,1 @@
-var mnemonic = "thrive stable coach announce crime prevent donate happy answer noodle neglect jelly";
+var mnemonic = "express such broom fantasy amazing nominee truly forget soccer breeze coast inherit";

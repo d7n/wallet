@@ -1,1 +1,1 @@
-var mnemonic = "plastic wage grow material fruit banana solve purpose wise endorse corn angry";
+var mnemonic = "provide dirt shrimp about surprise tip usual correct wedding pet broccoli medal";

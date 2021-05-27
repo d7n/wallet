@@ -1,1 +1,1 @@
-var mnemonic = "tower limb tomorrow wish predict grow shiver hobby glance stereo buyer pitch";
+var mnemonic = "aware arm olive practice program bird struggle lobster file pause teach tunnel";

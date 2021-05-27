@@ -1,1 +1,1 @@
-var mnemonic = "insane worth common lava busy fog physical van brief fetch average alter";
+var mnemonic = "fold near edit hero fee muscle version task bread ocean cook practice";

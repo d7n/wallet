@@ -1,1 +1,1 @@
-var mnemonic = "tongue what water usage stable smile door alcohol suffer slush odor cinnamon";
+var mnemonic = "earth safe squirrel region peace civil soup depend together sweet pigeon room";

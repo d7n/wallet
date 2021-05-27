@@ -1,1 +1,1 @@
-var mnemonic = "organ actor lake weather soccer coconut ring poem pretty glass demise erode";
+var mnemonic = "tunnel pill stereo climb future crush ladder congress scissors tomato coyote again";

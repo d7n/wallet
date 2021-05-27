@@ -1,1 +1,1 @@
-var mnemonic = "file seed mule tennis distance budget fun credit brown lion virus deputy";
+var mnemonic = "sick spider lava spy frog enroll anchor because diet present cheese notable";

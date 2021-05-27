@@ -1,1 +1,1 @@
-var mnemonic = "burger list plastic flush lend abstract catalog material ethics key raise mass";
+var mnemonic = "mobile man juice lemon deny owner divert quote recipe iron assume join";

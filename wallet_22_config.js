@@ -1,1 +1,1 @@
-var mnemonic = "swallow pull lift ankle demand barrel rug tuna wool kiss group volume";
+var mnemonic = "wall pair boat unfold panic corn chaos foot enough grab energy lab";

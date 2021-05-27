@@ -1,1 +1,1 @@
-var mnemonic = "magnet sniff market grid invest pistol noble foam pact crawl fever unfair";
+var mnemonic = "crime oxygen crash height silver live toast donkey device orange peace denial";

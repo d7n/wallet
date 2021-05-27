@@ -1,1 +1,1 @@
-var mnemonic = "jungle host chair twist family suggest kite casual tenant inside march firm";
+var mnemonic = "play use marble error banner require legal day tower alpha repeat elevator";

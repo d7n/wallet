@@ -1,1 +1,1 @@
-var mnemonic = "increase obscure deal sign raven panda liquid wage fade eagle kind rough";
+var mnemonic = "slogan middle eyebrow local inherit penalty goose true spread crater hood joy";

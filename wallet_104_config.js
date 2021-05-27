@@ -1,1 +1,1 @@
-var mnemonic = "fade amateur bread key culture frame endless since moral daughter shrug capable";
+var mnemonic = "hammer crime kick note average head tree solution length bring kingdom city";

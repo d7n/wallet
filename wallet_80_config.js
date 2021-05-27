@@ -1,1 +1,1 @@
-var mnemonic = "ship found gift update include frost language electric wild swarm clip alone";
+var mnemonic = "brass axis scan grab voice rally feed grain grunt pole demise elder";

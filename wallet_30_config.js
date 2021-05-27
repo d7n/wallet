@@ -1,1 +1,1 @@
-var mnemonic = "arrow solve limb web heart gown giggle piece song host humor outside";
+var mnemonic = "shallow kidney owner chef ready outside square narrow logic year sweet bacon";

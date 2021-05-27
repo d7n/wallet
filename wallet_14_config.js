@@ -1,1 +1,1 @@
-var mnemonic = "faculty escape amateur jaguar jewel cabbage civil reform need tissue donor eternal";
+var mnemonic = "night aunt pull spirit material snap mouse brisk drink ring glory shallow";

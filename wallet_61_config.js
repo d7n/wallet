@@ -1,1 +1,1 @@
-var mnemonic = "top skill injury heart identify accuse world hurdle stool draft muscle occur";
+var mnemonic = "crime hungry olympic deny switch pause embark crunch adapt mixture problem boy";

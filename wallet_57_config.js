@@ -1,1 +1,1 @@
-var mnemonic = "entire sadness smile learn bracket core story enact vessel reform idea author";
+var mnemonic = "monster pear result travel foster birth title hole often suit exist cup";

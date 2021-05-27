@@ -1,1 +1,1 @@
-var mnemonic = "fringe craft cave timber tourist recipe name dynamic alarm holiday forget raise";
+var mnemonic = "sock couple comic retire hollow evidence hope prize pepper upper belt symptom";

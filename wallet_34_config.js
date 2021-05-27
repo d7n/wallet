@@ -1,1 +1,1 @@
-var mnemonic = "nurse crime involve error material orbit desert tennis siege awake snake rifle";
+var mnemonic = "elegant tired cousin firm heart coin obscure fiction horror proud wool street";

@@ -1,1 +1,1 @@
-var mnemonic = "blue differ glad bundle cannon word winner client casino rich bright cram";
+var mnemonic = "motor describe dice nature mutual degree act tunnel boring bonus present forget";

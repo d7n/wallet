@@ -1,1 +1,1 @@
-var mnemonic = "cluster melt mechanic rebel key train output calm dose fork shrimp profit";
+var mnemonic = "chat milk loyal crop hurry couple brand above vacant double glimpse link";

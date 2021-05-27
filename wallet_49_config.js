@@ -1,1 +1,1 @@
-var mnemonic = "comic proud mimic mango armor barrel lottery message orbit ozone pony exit";
+var mnemonic = "escape sister shift palace legend mask animal easily evidence guilt merge initial";

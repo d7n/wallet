@@ -1,1 +1,1 @@
-var mnemonic = "wave anchor dilemma prize verify shadow finish camera wreck million illness teach";
+var mnemonic = "near horse drastic quit unveil spoon group helmet palace robot light blame";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle purity mushroom camera harsh visit surprise power radio multiply hello riot";
+var mnemonic = "page skill nothing smart blossom shy river involve palm purse orange manual";

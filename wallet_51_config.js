@@ -1,1 +1,1 @@
-var mnemonic = "rocket gain reopen filter service praise bottom tomato foster fashion canyon mean";
+var mnemonic = "drop able luggage fabric practice board brown prison hood weekend angry vintage";

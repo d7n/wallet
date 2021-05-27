@@ -1,1 +1,1 @@
-var mnemonic = "around rain autumn client knee dignity elite silly bread critic apple mouse";
+var mnemonic = "noble stay gasp inject cigar expect fossil bottom parent father mystery culture";

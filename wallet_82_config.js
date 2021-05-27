@@ -1,1 +1,1 @@
-var mnemonic = "grain slender nurse theme rather column wife radio any mixture pink flash";
+var mnemonic = "elephant all cram cave plate immense property game village unveil picture casual";

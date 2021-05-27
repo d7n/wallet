@@ -1,1 +1,1 @@
-var mnemonic = "deliver flat pink tunnel system able stool acquire owner stone little gaze";
+var mnemonic = "mansion either cover piece grab dose outside since destroy solve agree state";

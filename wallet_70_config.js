@@ -1,1 +1,1 @@
-var mnemonic = "water want supreme forward off priority solve viable shine repair latin predict";
+var mnemonic = "stool swamp ignore thumb photo poverty agree alter seven extra shell sketch";

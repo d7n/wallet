@@ -1,1 +1,1 @@
-var mnemonic = "sleep physical erupt fabric jacket gossip repeat sad soft expire flee alpha";
+var mnemonic = "ahead wear oval ride where spirit orphan remind concert noble shine offer";

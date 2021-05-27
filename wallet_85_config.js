@@ -1,1 +1,1 @@
-var mnemonic = "genuine movie copy attack cross tide cover domain coast rug begin need";
+var mnemonic = "then feed oval night gap long raise rookie crisp surround mistake actor";

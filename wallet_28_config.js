@@ -1,1 +1,1 @@
-var mnemonic = "cash move bleak olive more lucky zebra twist remove night burst private";
+var mnemonic = "slender leaf guide mystery session cabbage stay cute festival course blame comfort";

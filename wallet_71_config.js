@@ -1,1 +1,1 @@
-var mnemonic = "grain gauge student learn text limit scene castle guide bomb tide question";
+var mnemonic = "tumble chalk legend capital country crack detail knee dial enroll tent abandon";

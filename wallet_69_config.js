@@ -1,1 +1,1 @@
-var mnemonic = "write symbol accident execute repair window have exact decrease make pole ride";
+var mnemonic = "blossom boat lobster file ice able fresh credit film wash error movie";

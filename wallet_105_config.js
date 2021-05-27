@@ -1,1 +1,1 @@
-var mnemonic = "giggle reunion basic luxury story jump mother rifle gloom snap west wide";
+var mnemonic = "fame sleep slide vast boil describe guess boost code inform cycle exchange";

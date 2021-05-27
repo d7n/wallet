@@ -1,1 +1,1 @@
-var mnemonic = "receive royal harbor announce soft decide corn goddess ship liar word pencil";
+var mnemonic = "near security funny blanket frequent rack school have sail apple electric patrol";

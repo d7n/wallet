@@ -1,1 +1,1 @@
-var mnemonic = "link kiss crash female key royal million energy road essay right remember";
+var mnemonic = "inside broken student say sense ceiling exhibit vendor enact cluster outer speed";

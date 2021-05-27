@@ -1,1 +1,1 @@
-var mnemonic = "pistol drum tattoo creek rice inhale dog save whisper slogan genuine pact";
+var mnemonic = "diet scale album public alarm faint panel ask token curtain acid eyebrow";

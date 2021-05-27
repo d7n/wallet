@@ -1,1 +1,1 @@
-var mnemonic = "never always shrimp ecology amateur market follow pelican spend lumber connect pool";
+var mnemonic = "success ski soon round apple popular execute collect equip wrestle please dynamic";

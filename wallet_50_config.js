@@ -1,1 +1,1 @@
-var mnemonic = "drip wrong derive garden aware addict tornado provide distance soda error attend";
+var mnemonic = "bottom cargo clinic sibling armed frost make upset eager raw south wise";

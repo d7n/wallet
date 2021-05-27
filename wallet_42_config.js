@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cigar shaft organ cry uncover dose diagram group shrug advice leg";
+var mnemonic = "peasant shadow weather swim report security cliff angry over secret tragic uniform";
