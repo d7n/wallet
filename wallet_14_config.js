@@ -1,1 +1,1 @@
-var mnemonic = "peace return glance wool replace because novel primary fitness awesome deposit limit";
+var mnemonic = "survey coconut print quit sponsor onion affair strike alone parade manual major";

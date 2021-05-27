@@ -1,1 +1,1 @@
-var mnemonic = "true arm object under bread lock height pair add love organ rural";
+var mnemonic = "runway bid focus tired common refuse melody soon capable try shoe spray";

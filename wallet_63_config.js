@@ -1,1 +1,1 @@
-var mnemonic = "observe roast blast void palace rebuild inch refuse leaf evil shy forum";
+var mnemonic = "source evidence hybrid female dilemma domain virtual lab manage drum emerge security";

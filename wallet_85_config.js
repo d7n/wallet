@@ -1,1 +1,1 @@
-var mnemonic = "law expose cart poet piano question bright stay noise upon rural dilemma";
+var mnemonic = "rough transfer smile region viable plug adult select prison dentist tray leave";

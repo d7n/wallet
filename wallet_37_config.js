@@ -1,1 +1,1 @@
-var mnemonic = "dad hero shock wink tomorrow nephew lucky night author man fringe soft";
+var mnemonic = "trophy swap great stone spirit muscle grid reason assist also carbon stem";

@@ -1,1 +1,1 @@
-var mnemonic = "reject slender huge loud lounge spell public liquid dad camp proud pelican";
+var mnemonic = "omit photo boss devote profit enroll wisdom betray wasp cry design anchor";

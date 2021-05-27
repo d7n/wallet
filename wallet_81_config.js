@@ -1,1 +1,1 @@
-var mnemonic = "file birth network connect issue sad erase inspire capital save behave dream";
+var mnemonic = "shrug neck road seven tank remove pave episode napkin name rate cook";

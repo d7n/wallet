@@ -1,1 +1,1 @@
-var mnemonic = "monster clean few sing cart never prize feature exit dress violin number";
+var mnemonic = "lyrics soldier salmon february genre flash detect smile corn bike cousin inside";

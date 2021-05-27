@@ -1,1 +1,1 @@
-var mnemonic = "month genre arrow since mystery ring quit give all arrest swallow guilt";
+var mnemonic = "autumn ivory bulk legal clock gentle half surround devote wonder play fatigue";

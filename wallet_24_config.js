@@ -1,1 +1,1 @@
-var mnemonic = "very clever hood sustain fluid cry size lake ride possible learn siege";
+var mnemonic = "know distance skull arena orange picture carry security fire pigeon carbon tide";

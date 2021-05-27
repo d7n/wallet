@@ -1,1 +1,1 @@
-var mnemonic = "twice bubble honey over school fantasy explain rather layer dash love round";
+var mnemonic = "tuna process artwork tennis category catch hundred estate tragic mix media hill";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth system heavy dwarf park basket sea street breeze test define measure";
+var mnemonic = "chase angry kingdom mobile welcome define venture napkin famous narrow mechanic position";

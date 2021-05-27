@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo rack nose broom insect opera nuclear legend imitate estate begin catch";
+var mnemonic = "brand drill jungle wide mirror armed noble special clarify primary ring guard";

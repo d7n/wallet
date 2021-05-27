@@ -1,1 +1,1 @@
-var mnemonic = "alter future rule gauge fly bright venture burden library impulse proud pistol";
+var mnemonic = "erupt cheese choice answer gym puzzle void venue bar art height pill";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage slot arena reopen faculty collect guard crouch vital evil initial arrive";
+var mnemonic = "volcano section palm welcome march pond riot sunset jelly ritual thrive secret";

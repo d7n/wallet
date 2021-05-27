@@ -1,1 +1,1 @@
-var mnemonic = "behave cloth drum carry sting swift century throw urge unique radio fault";
+var mnemonic = "save sheriff lens eagle way judge magic tomato beach gadget kangaroo asthma";

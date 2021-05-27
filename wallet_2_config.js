@@ -1,1 +1,1 @@
-var mnemonic = "grace picnic recipe jar secret wash nation viable aspect mountain spirit liar";
+var mnemonic = "knock chimney other review team couple liberty champion proud cheap bless scale";

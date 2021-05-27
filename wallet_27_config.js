@@ -1,1 +1,1 @@
-var mnemonic = "season float burden open veteran seat era replace problem rocket crystal giraffe";
+var mnemonic = "panic gym teach another amused deal balcony volume miracle know tube reason";

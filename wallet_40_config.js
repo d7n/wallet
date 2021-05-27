@@ -1,1 +1,1 @@
-var mnemonic = "shift trust chef about grant obey ankle cliff turn door wide trophy";
+var mnemonic = "cage bunker voice noble bachelor carpet scale weekend apology stand chunk sort";

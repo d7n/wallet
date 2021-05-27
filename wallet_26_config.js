@@ -1,1 +1,1 @@
-var mnemonic = "infant floor helmet dignity street slam sort throw square camera day else";
+var mnemonic = "pole helmet couple meadow apology purpose neck fuel palace fossil can siren";

@@ -1,1 +1,1 @@
-var mnemonic = "side ticket leaf genre remain noble mercy absent smoke axis travel uncle";
+var mnemonic = "panel sell since midnight cook avocado crystal magnet barely initial father wheel";

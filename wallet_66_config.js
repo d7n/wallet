@@ -1,1 +1,1 @@
-var mnemonic = "rubber assume people salt crowd release ripple grant rough idle ask half";
+var mnemonic = "still trumpet double settle day sphere assault isolate sphere innocent jazz employ";

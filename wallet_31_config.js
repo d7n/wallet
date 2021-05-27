@@ -1,1 +1,1 @@
-var mnemonic = "impact vote okay gas vicious omit deputy mean artist enrich camp inform";
+var mnemonic = "math fish chronic seek sing energy vintage census rail title dog welcome";

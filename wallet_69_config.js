@@ -1,1 +1,1 @@
-var mnemonic = "filter morning mirror quality quiz belt meat citizen hybrid bind canal knife";
+var mnemonic = "pyramid process fury derive panic illegal key gate giggle action easily group";

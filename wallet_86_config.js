@@ -1,1 +1,1 @@
-var mnemonic = "scatter already moment ill fatigue neck frost device noodle flight cherry grid";
+var mnemonic = "busy neck home give public fiction asset warfare release tissue gate shallow";

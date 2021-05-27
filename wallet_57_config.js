@@ -1,1 +1,1 @@
-var mnemonic = "debris convince pig pony because fly rifle chest rescue slab planet clarify";
+var mnemonic = "auto proud wolf pen fury disease list divorce burger prevent roof shed";

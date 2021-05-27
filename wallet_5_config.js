@@ -1,1 +1,1 @@
-var mnemonic = "basket park buffalo wet drill quarter badge bomb spice radar bracket lawn";
+var mnemonic = "mirror gun suspect normal dinner feel velvet behind indoor aisle fault caught";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo animal apology amount lumber peasant peace fragile crane sadness switch rhythm";
+var mnemonic = "grant employ strategy later fault close mixture trick token green before sort";

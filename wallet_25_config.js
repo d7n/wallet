@@ -1,1 +1,1 @@
-var mnemonic = "absurd apple embark spatial violin horse swing oil minimum equip wise east";
+var mnemonic = "submit lazy adapt humor solar diesel fatal share rifle will leg claim";

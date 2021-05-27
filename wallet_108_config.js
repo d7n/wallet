@@ -1,1 +1,1 @@
-var mnemonic = "fruit liar catalog skull spoon onion toss ski tobacco rural film push";
+var mnemonic = "clay paddle robust patch ordinary receive know donate hamster tortoise gun record";

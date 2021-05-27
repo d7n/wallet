@@ -1,1 +1,1 @@
-var mnemonic = "glory zoo sick pumpkin angry scene artist door melt clog spy payment";
+var mnemonic = "crystal labor what paddle income mask project empty shuffle cook rice basic";

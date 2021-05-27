@@ -1,1 +1,1 @@
-var mnemonic = "tumble dance sell winner mirror little blind tackle someone ridge prevent kiss";
+var mnemonic = "canvas bunker bronze luxury punch modify random weekend stand sibling wife naive";

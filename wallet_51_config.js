@@ -1,1 +1,1 @@
-var mnemonic = "rib senior goddess motion become mother brand tuna next country boat suggest";
+var mnemonic = "hockey mechanic angry balcony tail muffin coconut flash unfold worry rare base";

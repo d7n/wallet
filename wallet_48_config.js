@@ -1,1 +1,1 @@
-var mnemonic = "bounce sword kind combine hungry pond place spend grid cart engine question";
+var mnemonic = "time foil scrap tool breeze flight cradle narrow copy sell rubber menu";

@@ -1,1 +1,1 @@
-var mnemonic = "oak stay park gloom property symbol arm impact jar tell lend afford";
+var mnemonic = "flavor cupboard pause umbrella surprise orange dice bulb athlete dry grief concert";

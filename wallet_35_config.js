@@ -1,1 +1,1 @@
-var mnemonic = "ring frequent cactus matter supreme hip upper congress kitchen erase cannon need";
+var mnemonic = "bid junior such fitness they wreck video club social net capable grow";

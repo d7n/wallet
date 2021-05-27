@@ -1,1 +1,1 @@
-var mnemonic = "movie clutch length camera chunk this misery banana dove hip arrange mother";
+var mnemonic = "urge secret half avoid expose asthma pool drama awful trial leg trial";

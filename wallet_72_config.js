@@ -1,1 +1,1 @@
-var mnemonic = "demise system album rib safe ocean rib wave vivid alarm exile legend";
+var mnemonic = "scrub someone praise eagle embrace question lend program draw ignore isolate person";

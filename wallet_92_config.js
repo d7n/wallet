@@ -1,1 +1,1 @@
-var mnemonic = "harsh bicycle focus okay dilemma lunch switch piano neutral day hood across";
+var mnemonic = "learn cash future exile length frost pause clump goddess welcome judge trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "april evil crush oak blue win card prison aspect civil point proud";
+var mnemonic = "icon spoon item image palm curve gravity arrest divert bubble pause often";

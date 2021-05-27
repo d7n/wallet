@@ -1,1 +1,1 @@
-var mnemonic = "join fossil join spell pond shed collect stuff hill delay pave surface";
+var mnemonic = "staff great sentence divorce genius finish rival shrug leopard hollow woman month";

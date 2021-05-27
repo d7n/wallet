@@ -1,1 +1,1 @@
-var mnemonic = "aisle second awake supreme upon human control process best relief sock cube";
+var mnemonic = "country call blur dove message pudding armor flight swing scissors orient vapor";

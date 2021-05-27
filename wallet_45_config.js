@@ -1,1 +1,1 @@
-var mnemonic = "robot chalk pudding gas aware birth cream wage wave upper quick cook";
+var mnemonic = "crucial layer eyebrow trash curve lady drastic sample loan barely exhaust remember";

@@ -1,1 +1,1 @@
-var mnemonic = "depart refuse derive razor still peasant fluid sport elbow always poverty fan";
+var mnemonic = "breeze clean pet style glad bamboo depart evoke speak super task circle";

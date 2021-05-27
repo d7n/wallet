@@ -1,1 +1,1 @@
-var mnemonic = "blue tortoise behind crunch wisdom bottom into helmet trim intact castle number";
+var mnemonic = "giant adult pelican veteran bless maid region city ancient pyramid hawk twice";

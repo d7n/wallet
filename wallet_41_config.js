@@ -1,1 +1,1 @@
-var mnemonic = "immune draw useless frost learn fantasy proud term october yard initial shift";
+var mnemonic = "master before frozen price model powder cute attitude dance fossil identify pool";

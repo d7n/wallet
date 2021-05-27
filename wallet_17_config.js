@@ -1,1 +1,1 @@
-var mnemonic = "myth yard piece boy fatal camera enjoy embrace ankle quiz team deputy";
+var mnemonic = "expose puzzle vault eagle project advice prepare pause summer pelican glove erosion";

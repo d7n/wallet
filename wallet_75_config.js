@@ -1,1 +1,1 @@
-var mnemonic = "hobby sphere upgrade spray manage party horse agree buffalo trip lunch tumble";
+var mnemonic = "margin post toss quiz flame pupil angry slender sign glow sudden night";

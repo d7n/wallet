@@ -1,1 +1,1 @@
-var mnemonic = "gym team walk aisle print useful purchase keen item crowd wine sadness";
+var mnemonic = "yellow swing found camera door sail trim sort frog coral cloud exist";

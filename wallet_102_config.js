@@ -1,1 +1,1 @@
-var mnemonic = "tone onion kid pool drop marine embark rival cost outdoor media brass";
+var mnemonic = "manual kind enemy bring exact reunion all zoo lamp cook damage announce";

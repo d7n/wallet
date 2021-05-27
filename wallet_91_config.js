@@ -1,1 +1,1 @@
-var mnemonic = "spatial spirit desk very clerk lemon save risk attract shine edge hobby";
+var mnemonic = "toe hour enhance slam capable nest arrow must release vague unusual slim";

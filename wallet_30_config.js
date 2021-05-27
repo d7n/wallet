@@ -1,1 +1,1 @@
-var mnemonic = "almost spoil own vanish salad great symptom moral sell cycle orange biology";
+var mnemonic = "whale few reunion smooth drip spin swift syrup lady supreme vast source";

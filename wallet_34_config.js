@@ -1,1 +1,1 @@
-var mnemonic = "usual tree improve tennis goat among bleak amount exact salon cargo plastic";
+var mnemonic = "mistake broken ecology canal useful drama curve soda warm album salute knee";

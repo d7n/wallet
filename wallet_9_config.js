@@ -1,1 +1,1 @@
-var mnemonic = "hurry hockey rare monster total fury swear blast patient someone solar unit";
+var mnemonic = "strong art tuna fan large board damp stereo north tape asset during";

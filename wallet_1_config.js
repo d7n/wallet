@@ -1,1 +1,1 @@
-var mnemonic = "mistake client link math auction garbage able guard donate carry garlic inch";
+var mnemonic = "chimney divorce infant device company chair lemon power suit ribbon announce add";

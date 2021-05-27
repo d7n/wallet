@@ -1,1 +1,1 @@
-var mnemonic = "rival barely hair army ahead desk obey outdoor bag satisfy increase wolf";
+var mnemonic = "step hurry magic vintage potato promote seat mansion dad uncle park patrol";

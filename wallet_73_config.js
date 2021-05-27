@@ -1,1 +1,1 @@
-var mnemonic = "right brush jelly pool tiger aerobic cool envelope company alpha orange street";
+var mnemonic = "advance depth spirit follow hamster pretty side gas trash consider cannon obvious";

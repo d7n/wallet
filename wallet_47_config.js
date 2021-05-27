@@ -1,1 +1,1 @@
-var mnemonic = "split recipe goat drill cat myself atom forward sell bonus memory donate";
+var mnemonic = "tennis excuse thumb parrot address beyond dress elder curtain scatter surface inspire";

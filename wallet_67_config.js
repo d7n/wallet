@@ -1,1 +1,1 @@
-var mnemonic = "proof bullet rally harsh silent flame monitor crunch truth raccoon claw smooth";
+var mnemonic = "wrong what express scene weather vehicle unusual enroll close floor empty suspect";

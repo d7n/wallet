@@ -1,1 +1,1 @@
-var mnemonic = "flush table fine rail feature chimney right giraffe oppose height addict wrong";
+var mnemonic = "aunt reason confirm worth flock another equal crash veteran genius gain side";

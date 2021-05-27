@@ -1,1 +1,1 @@
-var mnemonic = "cabin copper staff always post light since force wedding robust powder bracket";
+var mnemonic = "ski party donkey city link bleak car rug dress pluck display steak";

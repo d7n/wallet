@@ -1,1 +1,1 @@
-var mnemonic = "arrow swap fitness alley medal question hurdle forest fame animal fat car";
+var mnemonic = "notable casino stick combine salad win shrimp prepare extra protect toss either";

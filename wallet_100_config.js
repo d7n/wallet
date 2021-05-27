@@ -1,1 +1,1 @@
-var mnemonic = "copy note response kitchen glimpse acid lion chef attend buzz panic attitude";
+var mnemonic = "analyst viable involve usage corn curve misery ensure juice base success august";

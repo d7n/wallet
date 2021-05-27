@@ -1,1 +1,1 @@
-var mnemonic = "dawn embrace eager mobile decrease debris garbage twin cage shadow earn fringe";
+var mnemonic = "sleep lottery immune praise truth believe crazy bargain dinner uphold picture such";

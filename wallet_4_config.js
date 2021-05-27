@@ -1,1 +1,1 @@
-var mnemonic = "match still castle mechanic pulse hero bulb deputy source frog elder oblige";
+var mnemonic = "ritual pluck shop diagram start man picnic drastic away mirror skate celery";

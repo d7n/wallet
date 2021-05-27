@@ -1,1 +1,1 @@
-var mnemonic = "fence scare kit rifle onion dwarf weather simple farm derive luggage series";
+var mnemonic = "social coast base autumn discover toss lizard cave garment april siren lend";

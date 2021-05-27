@@ -1,1 +1,1 @@
-var mnemonic = "drink regret today anger song arctic rule address shrimp shallow figure quality";
+var mnemonic = "good derive absurd pepper peace genius annual scrub field hurdle success omit";

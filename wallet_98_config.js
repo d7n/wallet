@@ -1,1 +1,1 @@
-var mnemonic = "someone wall apology someone exist alone render online caution tongue cage stick";
+var mnemonic = "tent dry girl concert north toilet dignity soccer fame arm property junk";

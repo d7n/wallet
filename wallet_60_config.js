@@ -1,1 +1,1 @@
-var mnemonic = "cherry large dune maze hover degree street butter member exclude inherit coach";
+var mnemonic = "movie wrist eyebrow jacket burger donkey avocado earth lumber obtain valley diesel";

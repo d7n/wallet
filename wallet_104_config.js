@@ -1,1 +1,1 @@
-var mnemonic = "amused laugh caught ribbon essay entry romance around soul glove frown record";
+var mnemonic = "cabbage fabric goddess face lunar effort angry discover define enroll crack business";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect moral notice reveal egg daring release water success keen stand exact";
+var mnemonic = "elevator mutual chronic crunch sock quick sign reject bottom blouse stock vessel";

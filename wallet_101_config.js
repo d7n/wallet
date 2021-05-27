@@ -1,1 +1,1 @@
-var mnemonic = "filter equal promote victory hold monitor place concert van base punch today";
+var mnemonic = "version inflict dial hungry wrong leader symbol poverty carbon mind universe hat";

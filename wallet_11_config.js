@@ -1,1 +1,1 @@
-var mnemonic = "frog flat oil leisure purpose dress mix noise soccer give catalog sausage";
+var mnemonic = "orange large problem cart alert clap prize source proof autumn label rival";

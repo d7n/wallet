@@ -1,1 +1,1 @@
-var mnemonic = "ice crystal clutch taxi sadness loop illness excite notice way despair tomorrow";
+var mnemonic = "expire alter youth slender manual into doll train antenna dash social firm";

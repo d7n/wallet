@@ -1,1 +1,1 @@
-var mnemonic = "boy travel ripple dizzy easy grunt stadium they struggle wink stairs process";
+var mnemonic = "shadow acquire fit cycle loop bracket express balcony height make potato drip";

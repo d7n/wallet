@@ -1,1 +1,1 @@
-var mnemonic = "aerobic expect choice gain require cruise expose ask topple until toddler seat";
+var mnemonic = "frame wire twin grain tuna edge fury loud promote boss field chalk";

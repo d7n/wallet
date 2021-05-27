@@ -1,1 +1,1 @@
-var mnemonic = "bleak amateur era pumpkin humble begin fever seminar either water pony live";
+var mnemonic = "stage shoe student galaxy winter pelican draft dial frost trouble detail crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "cash alley draft assault scan table truth orient normal orange clock odor";
+var mnemonic = "depend dizzy hunt weapon miss join adapt grunt soap unit air defense";

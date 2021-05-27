@@ -1,1 +1,1 @@
-var mnemonic = "develop sure plug hurry devote before oblige truth vast boost educate ball";
+var mnemonic = "announce universe worth tomorrow relief priority gain admit develop beauty connect april";

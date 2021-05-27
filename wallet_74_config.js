@@ -1,1 +1,1 @@
-var mnemonic = "episode vessel hat differ one aunt fruit green ivory canoe chicken bracket";
+var mnemonic = "success ticket wing design few nasty clutch soccer push ensure half example";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard affair diary dose draft tomorrow skin helmet artist practice pull casino";
+var mnemonic = "frozen mule genius cannon modify push lounge cradle code minute disorder sight";

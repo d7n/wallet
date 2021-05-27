@@ -1,1 +1,1 @@
-var mnemonic = "stock corn moral nurse away matter canyon man remove power immune parent";
+var mnemonic = "payment point domain moon remind convince misery strategy warfare nest edge rude";

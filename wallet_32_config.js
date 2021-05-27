@@ -1,1 +1,1 @@
-var mnemonic = "utility tackle total assault ugly vessel pause good keen mule dance fold";
+var mnemonic = "limit service company about way degree element video spy clerk normal borrow";

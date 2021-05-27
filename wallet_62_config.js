@@ -1,1 +1,1 @@
-var mnemonic = "theory length length female million citizen crane excess wide retreat enrich salute";
+var mnemonic = "medal such spice warm allow fringe spin fluid farm frown taste crawl";

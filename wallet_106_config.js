@@ -1,1 +1,1 @@
-var mnemonic = "future lesson medal tired palace marble maximum fatal verb document settle camera";
+var mnemonic = "tell hawk liquid able leave student window high orient rug comfort bleak";

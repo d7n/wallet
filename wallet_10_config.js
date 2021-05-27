@@ -1,1 +1,1 @@
-var mnemonic = "economy omit admit intact plug clown cage crop mystery odor family purse";
+var mnemonic = "danger rose dynamic vapor vault stomach asset wolf ridge snake enhance fox";

@@ -1,1 +1,1 @@
-var mnemonic = "universe relief yard glory shrug turn small maximum material dish another behave";
+var mnemonic = "comic anxiety comic donate mansion nasty observe apple siege depth rescue bus";

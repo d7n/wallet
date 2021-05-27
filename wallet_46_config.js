@@ -1,1 +1,1 @@
-var mnemonic = "antenna profit history trip shell myth goddess busy tone base meat pumpkin";
+var mnemonic = "regular burst device wheat element switch sign vote stem marriage amateur chest";

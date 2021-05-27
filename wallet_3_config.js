@@ -1,1 +1,1 @@
-var mnemonic = "boring decrease dolphin culture delay problem wood online trick frog alcohol number";
+var mnemonic = "rely balcony problem humble move autumn because rookie pizza solution destroy track";

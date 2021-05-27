@@ -1,1 +1,1 @@
-var mnemonic = "jeans bottom cinnamon manual tool sun square easy journey anxiety kick holiday";
+var mnemonic = "boy fancy congress name winner ranch team garment gadget layer illegal soft";

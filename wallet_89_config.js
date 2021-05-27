@@ -1,1 +1,1 @@
-var mnemonic = "claw umbrella casino pool attitude creek village solution inhale again spare grow";
+var mnemonic = "emerge fox consider novel swallow airport ridge harsh same invest panther index";

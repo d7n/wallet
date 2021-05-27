@@ -1,1 +1,1 @@
-var mnemonic = "regret identify tell gloom couple arm quantum lecture loop tired caution absorb";
+var mnemonic = "viable wonder assault clean liquid soup leave squeeze local purse expect start";

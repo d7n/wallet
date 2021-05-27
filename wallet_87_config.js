@@ -1,1 +1,1 @@
-var mnemonic = "pattern odor exist blood parrot idea shaft devote guess stay six like";
+var mnemonic = "vibrant blue member tongue buddy salmon liquid west defense hill question chaos";

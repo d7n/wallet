@@ -1,1 +1,1 @@
-var mnemonic = "type meat brush regular logic whale discover leisure ritual measure vacant assume";
+var mnemonic = "drift copy culture salt film mix another wish bulk cube little rug";
