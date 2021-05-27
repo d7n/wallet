@@ -1,1 +1,1 @@
-var mnemonic = "solid van happy whale tobacco bright trouble keep sausage item pelican friend";
+var mnemonic = "fat margin dry parent dinosaur biology panic tree veteran lecture volume memory";

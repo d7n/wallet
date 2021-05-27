@@ -1,1 +1,1 @@
-var mnemonic = "frame army stable chimney what divorce sphere hood receive elegant then couch";
+var mnemonic = "music cricket october echo actor retire jacket end flame bench wide saddle";

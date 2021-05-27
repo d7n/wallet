@@ -1,1 +1,1 @@
-var mnemonic = "catch brain pepper sweet wild layer claim hotel dolphin avocado dry orange";
+var mnemonic = "maid ride resemble seed zebra raccoon artwork music ocean genre robust banner";

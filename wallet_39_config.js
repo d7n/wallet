@@ -1,1 +1,1 @@
-var mnemonic = "capable sad spell large pitch plug reform purchase design essay extra blood";
+var mnemonic = "parade thank entire orphan okay essence place twin frown drum piano element";

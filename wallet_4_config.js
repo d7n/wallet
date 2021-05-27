@@ -1,1 +1,1 @@
-var mnemonic = "fatigue hungry mechanic release tenant peasant window lunch armed sponsor define wide";
+var mnemonic = "possible stove security route novel leader casual prefer panel dirt magic cannon";

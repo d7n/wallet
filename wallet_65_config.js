@@ -1,1 +1,1 @@
-var mnemonic = "wheat only sweet twice cupboard bottom acid choice feel garlic dizzy stick";
+var mnemonic = "swing prison kick casino custom grief coast violin remind member slab arctic";

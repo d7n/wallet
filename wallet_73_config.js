@@ -1,1 +1,1 @@
-var mnemonic = "away kidney shuffle dry drop ceiling habit child present wreck steak field";
+var mnemonic = "ball famous drum inhale turn smooth maze noble flavor coach salmon tuition";

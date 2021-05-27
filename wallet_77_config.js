@@ -1,1 +1,1 @@
-var mnemonic = "album rally spatial pipe glow unhappy ordinary moral rib dinosaur brain jewel";
+var mnemonic = "notable badge movie add mule portion voyage else total mercy ignore wait";

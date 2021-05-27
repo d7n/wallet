@@ -1,1 +1,1 @@
-var mnemonic = "woman process what cart summer endless cement tape boost napkin garlic battle";
+var mnemonic = "fashion jealous road library guitar motion equip guitar project negative merry lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder soon success phone liberty nation nominee quick opera slide minor roast";
+var mnemonic = "like reform afraid ribbon inside debris vast old sunny nose item sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper credit music point orbit nut juice flight super chair million position";
+var mnemonic = "brisk student ancient project rent firm issue between match boil pond okay";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel jealous equip immense goddess moral keen cry attack relief grass copper";
+var mnemonic = "sunny explain shuffle dynamic slab pottery twice execute creek match elbow cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid indicate rifle monkey vicious cruise apple bike foot divert fringe pair";
+var mnemonic = "blood crouch argue toy kangaroo detail ecology fluid lonely flat similar mobile";

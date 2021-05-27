@@ -1,1 +1,1 @@
-var mnemonic = "clump upgrade bike reopen stumble yellow spoon peace subway impact exotic bronze";
+var mnemonic = "wink about panel cement people enroll drift clock jazz bomb legend human";

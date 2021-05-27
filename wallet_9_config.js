@@ -1,1 +1,1 @@
-var mnemonic = "private cupboard hurt coconut mutual topic captain speak accuse burger artist salon";
+var mnemonic = "topic injury install project blood convince truck glide lend uniform laptop old";

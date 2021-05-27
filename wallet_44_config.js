@@ -1,1 +1,1 @@
-var mnemonic = "bacon trick copper glimpse leisure wife busy below approve gain blood runway";
+var mnemonic = "sweet wrong magic absent quote saddle width vacant element fork climb spike";

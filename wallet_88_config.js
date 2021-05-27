@@ -1,1 +1,1 @@
-var mnemonic = "lamp among mom fine ask rural height sample pride fly scan object";
+var mnemonic = "like avoid room empower shift there asset pilot eyebrow area grab glare";

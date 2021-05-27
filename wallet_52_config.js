@@ -1,1 +1,1 @@
-var mnemonic = "awkward world delay rack town valley vanish helmet promote rhythm daughter shove";
+var mnemonic = "hollow festival promote either pass flame educate moral spider expose emerge fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "flash cupboard rescue ready acquire used conduct between lake sick student only";
+var mnemonic = "rigid reason exact kitten appear solve joke media original jewel good write";

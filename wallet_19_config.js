@@ -1,1 +1,1 @@
-var mnemonic = "pencil cattle accident play clay magnet shuffle castle later cradle reward cotton";
+var mnemonic = "dinner weekend toward obvious announce wrap camp impose genius list mother chapter";

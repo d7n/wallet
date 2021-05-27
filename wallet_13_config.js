@@ -1,1 +1,1 @@
-var mnemonic = "search speed region tide legal mobile adjust token cream achieve fortune motor";
+var mnemonic = "icon churn sugar sadness wait section road retreat great kiss smooth genius";

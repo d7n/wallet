@@ -1,1 +1,1 @@
-var mnemonic = "wheel arctic prize today argue borrow rare hotel borrow obtain decrease wild";
+var mnemonic = "oval layer sausage vivid world spend weird stadium enrich hotel prevent dog";

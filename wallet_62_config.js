@@ -1,1 +1,1 @@
-var mnemonic = "rate debate aisle sister click ball hazard since orient wonder fold music";
+var mnemonic = "decline aerobic fork turn today sail donkey rubber air faculty course include";

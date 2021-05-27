@@ -1,1 +1,1 @@
-var mnemonic = "soul again supply speak basic clinic flee menu enemy venue trap general";
+var mnemonic = "salute month blame budget quarter seed copper silly visual mother pioneer unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn wall net august jewel awesome rug family staff expect print wrestle";
+var mnemonic = "retreat judge moment shed fit reason gaze huge fee evolve old party";

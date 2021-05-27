@@ -1,1 +1,1 @@
-var mnemonic = "ask deposit echo lend school early response crisp must actor gospel interest";
+var mnemonic = "flash horse spot pet young crystal ask giggle fortune furnace luggage prefer";

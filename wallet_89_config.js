@@ -1,1 +1,1 @@
-var mnemonic = "prevent change pistol aware wear height oyster vessel measure smooth poverty artwork";
+var mnemonic = "later exhaust share turn issue setup example forward cancel frog toy trick";

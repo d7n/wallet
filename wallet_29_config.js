@@ -1,1 +1,1 @@
-var mnemonic = "snack stem deputy thrive secret economy coin burden main reason friend raise";
+var mnemonic = "element cross pen erode device ski search either cross arrest click hip";

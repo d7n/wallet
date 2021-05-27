@@ -1,1 +1,1 @@
-var mnemonic = "village exchange icon mystery dirt stomach hello humble negative project absent pride";
+var mnemonic = "front borrow scatter visual box junk shield twice pyramid promote cute thunder";

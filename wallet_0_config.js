@@ -1,1 +1,1 @@
-var mnemonic = "fan interest duck airport advance pledge damage box release illegal hand door";
+var mnemonic = "move cereal word wisdom ridge hospital crazy token joy emotion very pilot";

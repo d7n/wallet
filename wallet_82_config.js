@@ -1,1 +1,1 @@
-var mnemonic = "breeze cool tent planet crawl salmon melody shell rigid spring ceiling pepper";
+var mnemonic = "mass file wink enter fragile april feel pulp office minor head inmate";

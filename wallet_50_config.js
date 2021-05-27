@@ -1,1 +1,1 @@
-var mnemonic = "upgrade run burger foster trumpet grape chimney pistol legal reform hungry raw";
+var mnemonic = "screen start churn tent predict stairs wage gravity shift grunt certain film";

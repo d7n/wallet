@@ -1,1 +1,1 @@
-var mnemonic = "palm foil business crime close cross bird dust fee wise anger card";
+var mnemonic = "royal hope brain tomato tail fiber general modify chat surprise salmon crane";

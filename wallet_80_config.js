@@ -1,1 +1,1 @@
-var mnemonic = "burden hobby imitate athlete april travel movie couple master cargo mad top";
+var mnemonic = "soul divorce grit divorce opinion minor aspect goddess amount chef mosquito blood";

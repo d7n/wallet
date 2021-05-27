@@ -1,1 +1,1 @@
-var mnemonic = "swamp hurdle guide scorpion proud tornado addict emerge battle diagram cheese toy";
+var mnemonic = "stove design split spawn banner teach amateur final large mail oven orange";

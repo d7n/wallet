@@ -1,1 +1,1 @@
-var mnemonic = "when south huge general daughter frequent prosper dune panel parent stem base";
+var mnemonic = "idea hope cube hazard exile lock great upon huge tourist fork aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "special zoo staff nature warfare gather lawn farm soon cute answer manual";
+var mnemonic = "review spike present pool dynamic uncle memory riot coconut wrist primary more";

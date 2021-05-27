@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow trial rate attitude tennis lottery office humble pig intact bacon connect";
+var mnemonic = "saddle camp there regular sail science execute holiday original salmon tortoise thought";

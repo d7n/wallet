@@ -1,1 +1,1 @@
-var mnemonic = "develop roast into laundry bottom settle two soap lecture begin antenna biology";
+var mnemonic = "ribbon bind annual session view smile rug combine bean predict strike duck";

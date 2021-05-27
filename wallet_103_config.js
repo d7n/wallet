@@ -1,1 +1,1 @@
-var mnemonic = "win penalty light mammal property lumber indoor around stool audit boring learn";
+var mnemonic = "place asthma broom tornado shaft casual impulse thing idea cream asset stage";

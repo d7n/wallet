@@ -1,1 +1,1 @@
-var mnemonic = "gun air rebuild enlist kingdom bomb include hen private correct phrase couch";
+var mnemonic = "whale valley guide horror choose trap forum bridge wrestle eye silk trip";

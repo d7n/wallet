@@ -1,1 +1,1 @@
-var mnemonic = "churn approve purchase fox artefact carpet innocent jeans hammer release gold fashion";
+var mnemonic = "ten metal ticket impact trade lecture garment faculty frame skull flag oak";

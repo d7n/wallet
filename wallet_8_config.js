@@ -1,1 +1,1 @@
-var mnemonic = "anchor guitar tunnel chronic real impose degree misery piece inspire jazz brand";
+var mnemonic = "bring crater coast anxiety issue bubble tuna leisure patient rotate another buyer";

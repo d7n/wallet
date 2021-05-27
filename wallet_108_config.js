@@ -1,1 +1,1 @@
-var mnemonic = "credit spend yard palace build burst pledge donor disorder depth truck purse";
+var mnemonic = "adjust thought crowd enemy pledge weapon because artwork produce budget hybrid help";

@@ -1,1 +1,1 @@
-var mnemonic = "grape demise lemon license gloom remember spend churn chicken door summer help";
+var mnemonic = "riot bright office dizzy various deny heart credit input disagree chapter picture";

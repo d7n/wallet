@@ -1,1 +1,1 @@
-var mnemonic = "twist grit general unhappy actress depth table jaguar tomato famous tiger bag";
+var mnemonic = "category year invite floor tray fossil shine amused review general radar blind";

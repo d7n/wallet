@@ -1,1 +1,1 @@
-var mnemonic = "excess pioneer dwarf emerge squeeze black shrimp hockey layer analyst banana plastic";
+var mnemonic = "similar treat jealous draft frost journey loan strategy mango hotel endless episode";

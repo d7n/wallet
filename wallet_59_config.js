@@ -1,1 +1,1 @@
-var mnemonic = "noise happy pumpkin intact often tank shop hair decline damage unaware taxi";
+var mnemonic = "scatter edit scan kick away satoshi fatal window conduct morning easy kiwi";

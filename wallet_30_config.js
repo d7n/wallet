@@ -1,1 +1,1 @@
-var mnemonic = "magic ordinary film coach brave rather reduce spawn island hungry head wet";
+var mnemonic = "atom adjust maze post tail shoe glide design rabbit erode pledge okay";

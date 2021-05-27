@@ -1,1 +1,1 @@
-var mnemonic = "pool special inch edit city confirm witness upper trap mechanic load brass";
+var mnemonic = "hope primary brown fun another victory amazing river open wool chimney enough";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial demise grant leader walk chest judge seminar mystery record opinion program";
+var mnemonic = "weekend job curve rapid earth limb odor lake return phone clarify squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "guess goat vivid expire end insect impact agent noble cause vote gentle";
+var mnemonic = "maid waste parrot swear surround visit reopen voyage orchard thought acid rally";

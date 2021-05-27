@@ -1,1 +1,1 @@
-var mnemonic = "main multiply gravity symbol page cluster chief curious kick rebel cabbage floor";
+var mnemonic = "gap organ furnace matter tree access van celery draft wagon special urge";

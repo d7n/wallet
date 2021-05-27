@@ -1,1 +1,1 @@
-var mnemonic = "enter giraffe love early tackle damp account theory recycle truly viable index";
+var mnemonic = "include soon winter amount excess fury butter drift limit luxury tell convince";

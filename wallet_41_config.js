@@ -1,1 +1,1 @@
-var mnemonic = "material soldier series visit segment fish cousin atom almost attack impulse morning";
+var mnemonic = "journey elbow census vacuum base label dignity honey coconut live symbol delay";

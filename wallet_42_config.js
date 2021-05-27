@@ -1,1 +1,1 @@
-var mnemonic = "peace high brown thought shove side swing rebuild slow fork ranch much";
+var mnemonic = "pretty decrease cry address race cat table sad envelope account receive frequent";

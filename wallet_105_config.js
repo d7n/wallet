@@ -1,1 +1,1 @@
-var mnemonic = "today royal clutch giggle remove work jewel margin east solve six window";
+var mnemonic = "mesh shield hamster wall base accident civil vital exclude angle hospital oxygen";

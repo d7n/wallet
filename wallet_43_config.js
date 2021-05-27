@@ -1,1 +1,1 @@
-var mnemonic = "spare skull engage exhibit wing million toy you want above vital pizza";
+var mnemonic = "strategy start oven dog island local chalk pelican news strike box primary";

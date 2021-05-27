@@ -1,1 +1,1 @@
-var mnemonic = "season fantasy coyote foam drum piano quantum sudden clean unique acoustic mass";
+var mnemonic = "almost desk valid hat ladder lemon elder seminar trial about mango battle";

@@ -1,1 +1,1 @@
-var mnemonic = "rule borrow sponsor outdoor omit jacket echo conduct finger fan armed lottery";
+var mnemonic = "lucky stereo cover gather worry camera act ladder detail air transfer vacant";

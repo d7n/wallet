@@ -1,1 +1,1 @@
-var mnemonic = "inner crop hurry smoke chat hole absent any defense record disorder fly";
+var mnemonic = "hour detect title square hotel shove lesson oxygen ridge deny skill bubble";

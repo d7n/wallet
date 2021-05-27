@@ -1,1 +1,1 @@
-var mnemonic = "merry recall tackle frog census depend crater betray second keen wife jewel";
+var mnemonic = "culture please dog leaf bracket never lottery cheap ketchup print cereal cram";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle example vacant unlock fork wreck unknown dry price scene square embrace";
+var mnemonic = "web isolate romance fantasy slide tell smile village across toy opinion fish";

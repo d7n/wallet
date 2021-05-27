@@ -1,1 +1,1 @@
-var mnemonic = "open fame embody large author faint magic whip orphan smoke grain carbon";
+var mnemonic = "idea coin body hurt engage clever museum retire spread toilet vocal reunion";

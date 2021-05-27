@@ -1,1 +1,1 @@
-var mnemonic = "vivid good alert spot slam various miracle turkey convince already concert peanut";
+var mnemonic = "before upset surprise alter olive universe fitness clinic minimum rose mad cattle";

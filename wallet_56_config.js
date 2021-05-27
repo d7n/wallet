@@ -1,1 +1,1 @@
-var mnemonic = "shallow local write wage above false rough bird bacon tattoo settle float";
+var mnemonic = "aisle walnut course news island boss reveal mansion shop bonus holiday summer";

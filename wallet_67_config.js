@@ -1,1 +1,1 @@
-var mnemonic = "table father race original bitter destroy belt hand warm minor athlete afford";
+var mnemonic = "cricket pride slogan toy portion organ icon output talent jeans click rival";

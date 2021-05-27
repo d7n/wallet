@@ -1,1 +1,1 @@
-var mnemonic = "maze slow pipe drama scan punch blossom nose castle spy allow coconut";
+var mnemonic = "air find arrest door deal impose win virtual hope earth bind disorder";

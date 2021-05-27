@@ -1,1 +1,1 @@
-var mnemonic = "heavy refuse message cherry unable debate person promote rotate sphere slide relief";
+var mnemonic = "vote timber dutch sort disease door library blade situate tooth peasant clap";

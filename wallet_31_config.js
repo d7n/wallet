@@ -1,1 +1,1 @@
-var mnemonic = "source steak advance convince busy apology merry stage horror penalty phone portion";
+var mnemonic = "blush maze element fancy clinic insane alone knock soldier scheme oak addict";

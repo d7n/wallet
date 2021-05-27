@@ -1,1 +1,1 @@
-var mnemonic = "tuition beyond differ guide usual wheat type enter merry water bike gown";
+var mnemonic = "nice cupboard cycle also sketch marble account huge walnut control seek suit";

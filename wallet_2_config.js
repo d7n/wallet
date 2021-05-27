@@ -1,1 +1,1 @@
-var mnemonic = "trust camera learn nerve laundry secret define album sword oppose wisdom once";
+var mnemonic = "quote island later accident caution lizard immense toilet welcome legal share crane";

@@ -1,1 +1,1 @@
-var mnemonic = "recall huge fade siege text silly satisfy shop labor prosper certain coconut";
+var mnemonic = "success veteran pond riot custom foil physical disease update teach forget learn";

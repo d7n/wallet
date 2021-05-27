@@ -1,1 +1,1 @@
-var mnemonic = "fuel deal grit either differ bar spider reform embody wage normal gasp";
+var mnemonic = "oxygen square swap black evoke orbit same scatter erode floor curtain humor";

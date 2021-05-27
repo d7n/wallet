@@ -1,1 +1,1 @@
-var mnemonic = "donor amount shoe swap open agent guide cabbage obscure drastic curtain describe";
+var mnemonic = "banana ordinary fork furnace leopard price cabin buzz ritual claw they rebuild";

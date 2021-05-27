@@ -1,1 +1,1 @@
-var mnemonic = "ripple atom true wave banner quick outdoor era state scan orange risk";
+var mnemonic = "kitchen erode sail try proof ring slow cricket plastic bicycle ring mobile";

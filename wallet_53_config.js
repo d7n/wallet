@@ -1,1 +1,1 @@
-var mnemonic = "prevent place kite time churn poverty beach fish cheap alien cotton boost";
+var mnemonic = "renew tone song keen vivid innocent where act plug prefer snap siege";

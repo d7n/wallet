@@ -1,1 +1,1 @@
-var mnemonic = "expect stove lock skull window buddy cloud dolphin fuel wife stand east";
+var mnemonic = "mouse kiwi example orchard wheat fabric various flower catalog pause ghost food";

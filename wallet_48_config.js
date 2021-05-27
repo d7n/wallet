@@ -1,1 +1,1 @@
-var mnemonic = "drill alarm vacant across trouble other cup raise boy stamp false stem";
+var mnemonic = "three ribbon ostrich when soon flip weird enlist toward tragic diesel trip";

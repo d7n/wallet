@@ -1,1 +1,1 @@
-var mnemonic = "turtle inhale clerk upgrade super surface scan risk people dirt answer dove";
+var mnemonic = "crazy trim become run begin supreme start gown person vault hybrid gaze";

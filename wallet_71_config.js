@@ -1,1 +1,1 @@
-var mnemonic = "rifle siege hedgehog element spray mosquito horror kiwi picture that jump culture";
+var mnemonic = "fabric imitate anxiety open invite appear east goat melody time erode acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "glow power crucial tool sand birth basic nature comic repeat joy knife";
+var mnemonic = "employ goat report ship roast wish hunt drama forward beauty abuse rival";

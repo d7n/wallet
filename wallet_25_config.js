@@ -1,1 +1,1 @@
-var mnemonic = "endorse surround battle slam visual ill rapid when ribbon fashion swap regret";
+var mnemonic = "random stage rocket mad emotion impulse hunt erosion riot gravity congress enter";

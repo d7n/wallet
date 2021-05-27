@@ -1,1 +1,1 @@
-var mnemonic = "slow thumb lazy physical deliver color grab second kit select lemon clinic";
+var mnemonic = "copy orbit carpet retire wedding whisper word apology material spread have unusual";

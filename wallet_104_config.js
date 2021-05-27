@@ -1,1 +1,1 @@
-var mnemonic = "person east dolphin illegal worth true thought snap tower knock reduce crater";
+var mnemonic = "neck wild copper about pattern brain mechanic bright erode struggle brief april";

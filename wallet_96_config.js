@@ -1,1 +1,1 @@
-var mnemonic = "wealth usage husband palace toy sport peanut budget toward sport learn scrub";
+var mnemonic = "emotion upon blossom hundred pact soldier clinic sick drop cross peasant pull";

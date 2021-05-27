@@ -1,1 +1,1 @@
-var mnemonic = "poem roast bitter winter route phone original enlist hard forum word media";
+var mnemonic = "palace act bless angle direct loan useless burger arrest final column skin";

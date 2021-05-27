@@ -1,1 +1,1 @@
-var mnemonic = "average cook echo tonight ship amazing face diamond latin clog miss during";
+var mnemonic = "finger insect desert cake camera answer pumpkin kidney dad device allow loud";

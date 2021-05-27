@@ -1,1 +1,1 @@
-var mnemonic = "fly source flag muscle please nasty chair wide collect swear island quantum";
+var mnemonic = "pause settle spread juice left device worry cube miracle mouse accident news";

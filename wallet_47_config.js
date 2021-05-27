@@ -1,1 +1,1 @@
-var mnemonic = "confirm favorite lunch call speed moment ivory tongue crawl job myself breeze";
+var mnemonic = "talent hockey retire chronic casino scorpion general plug abuse opinion blame river";

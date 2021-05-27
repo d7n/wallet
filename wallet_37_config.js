@@ -1,1 +1,1 @@
-var mnemonic = "excess document artefact response act pause metal clay arctic father mention slam";
+var mnemonic = "copper solution visit news differ rib wild surface increase season flower pitch";

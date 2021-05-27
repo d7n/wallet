@@ -1,1 +1,1 @@
-var mnemonic = "hello vacant observe addict orange dizzy trick mandate cable medal afraid taxi";
+var mnemonic = "wealth assume voice divide identify pave scan sting real waste wreck focus";

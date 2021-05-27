@@ -1,1 +1,1 @@
-var mnemonic = "guide dress brisk access push ice fitness symbol feed floor aware wrap";
+var mnemonic = "budget judge critic zero laugh brave easy inch sibling purchase local boat";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy sand salon just cargo scorpion you zoo card choice lesson glue";
+var mnemonic = "gravity corn rebel deputy home denial size chapter cash close biology parade";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair round hundred express bunker review torch punch erupt client diamond bulb";
+var mnemonic = "milk bonus device hockey armed frost faint used outer trial bamboo sword";

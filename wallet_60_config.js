@@ -1,1 +1,1 @@
-var mnemonic = "tortoise bargain famous asset supreme process tobacco total spider retreat drift vacant";
+var mnemonic = "afford spike trap minimum endorse search immense task science circle valid chair";

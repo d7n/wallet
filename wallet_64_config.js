@@ -1,1 +1,1 @@
-var mnemonic = "demise west wrong put code surprise girl old trumpet nose snow supply";
+var mnemonic = "bone ticket camp sibling ribbon spin ice crystal embody damp dice grass";

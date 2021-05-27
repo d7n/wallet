@@ -1,1 +1,1 @@
-var mnemonic = "awful curious voyage tongue trial noodle agent silent people universe involve tired";
+var mnemonic = "plunge steel joy couch conduct soon hundred cargo gorilla actress spell caution";
