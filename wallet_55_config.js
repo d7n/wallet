@@ -1,1 +1,1 @@
-var mnemonic = "wrestle canvas rural garbage similar inspire shoot approve sample weekend wait welcome";
+var mnemonic = "iron father neck decline guess vintage code traffic rebuild bounce embark explain";

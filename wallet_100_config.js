@@ -1,1 +1,1 @@
-var mnemonic = "still excite casino spread chef style bar horn mention traffic survey build";
+var mnemonic = "rapid enlist clever improve property dice reward cheese biology van uncle unlock";

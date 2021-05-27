@@ -1,1 +1,1 @@
-var mnemonic = "rose degree street hill country north wagon pulp dry special ordinary reject";
+var mnemonic = "tattoo cook gesture version omit derive add hurt water luggage tuna crack";

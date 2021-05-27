@@ -1,1 +1,1 @@
-var mnemonic = "plug task find rare enlist attend casual this roast cricket miracle clog";
+var mnemonic = "fringe able inhale search baby artefact tuition crew dinner dream dynamic silk";

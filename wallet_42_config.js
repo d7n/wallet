@@ -1,1 +1,1 @@
-var mnemonic = "unable execute teach clown baby keen inmate harbor vault timber mail athlete";
+var mnemonic = "elbow trust pepper rude ability chief lava track match bag target since";

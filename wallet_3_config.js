@@ -1,1 +1,1 @@
-var mnemonic = "define omit online immune family menu plastic pulp apple tonight liquid cook";
+var mnemonic = "call one angry parade execute pitch aisle giraffe tide universe island disease";

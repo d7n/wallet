@@ -1,1 +1,1 @@
-var mnemonic = "pupil cinnamon fun rely cradle speak fiction arch repair gaze project hedgehog";
+var mnemonic = "then custom supply elite fossil radio mean chronic album fade comic arch";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber noise horse admit skate peace evidence tell broken profit marriage into";
+var mnemonic = "health exhibit kingdom lawn govern visit describe depart proof play exist phone";

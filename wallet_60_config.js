@@ -1,1 +1,1 @@
-var mnemonic = "tornado exchange pizza mouse empty saddle report pizza animal grit absorb crater";
+var mnemonic = "unlock miracle spice chaos measure festival lobster maple august volcano vendor tape";

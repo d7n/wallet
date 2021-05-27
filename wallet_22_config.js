@@ -1,1 +1,1 @@
-var mnemonic = "dumb cube label tower decline finish bid attract curtain sight cheese frown";
+var mnemonic = "turkey stone audit omit mention cat pool exist stable mention truck primary";

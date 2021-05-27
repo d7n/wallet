@@ -1,1 +1,1 @@
-var mnemonic = "keen space blue album swallow pyramid dignity latin strike property boost easily";
+var mnemonic = "slot goat emerge arm lizard worth forward inquiry pizza latin south leaf";

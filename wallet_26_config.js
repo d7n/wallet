@@ -1,1 +1,1 @@
-var mnemonic = "force plastic great shoulder drop tank clerk erode useless ability rookie stem";
+var mnemonic = "elevator side still tonight organ recycle walk east little swift gun similar";

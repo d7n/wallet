@@ -1,1 +1,1 @@
-var mnemonic = "eight produce raven tomato horse dose brisk shell prosper merge juice clinic";
+var mnemonic = "pilot diet middle other prepare there crush excite soccer youth camera ripple";

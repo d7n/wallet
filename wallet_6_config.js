@@ -1,1 +1,1 @@
-var mnemonic = "wisdom can radar echo pulse suffer guilt write exile together upgrade blade";
+var mnemonic = "sadness eye country view myth hood suffer work reform noble twelve payment";

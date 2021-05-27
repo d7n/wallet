@@ -1,1 +1,1 @@
-var mnemonic = "token profit coral second brief talent pony inner derive pumpkin deputy steel";
+var mnemonic = "tiger galaxy velvet album happy until inherit reward mesh bottom pupil donkey";

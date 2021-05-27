@@ -1,1 +1,1 @@
-var mnemonic = "auto garment decide dad hobby round rocket timber turtle library submit enjoy";
+var mnemonic = "panic arctic rebuild another into arrive unit wedding sand celery fat stereo";

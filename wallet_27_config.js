@@ -1,1 +1,1 @@
-var mnemonic = "popular tomato resist claw across piece dust omit tuna miracle luxury race";
+var mnemonic = "luxury tower secret have theory valley over quick scan source trigger faith";

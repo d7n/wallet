@@ -1,1 +1,1 @@
-var mnemonic = "menu topple cup clinic item farm rice shallow vacuum enter bronze yard";
+var mnemonic = "unable supply lottery supreme mention neutral reveal domain ticket million half job";

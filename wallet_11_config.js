@@ -1,1 +1,1 @@
-var mnemonic = "snap rather extend range choose keen earth satoshi elevator today remove buffalo";
+var mnemonic = "scene cram retreat cloud mesh tree cart mystery unknown banana close leader";

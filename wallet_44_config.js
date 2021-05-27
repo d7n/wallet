@@ -1,1 +1,1 @@
-var mnemonic = "mansion guitar post siren hair beauty edit way abandon street obey pool";
+var mnemonic = "boring clean help indicate soccer raccoon armor glance peasant woman car orchard";

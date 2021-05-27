@@ -1,1 +1,1 @@
-var mnemonic = "practice walk attack lizard often together august question simple above cover soul";
+var mnemonic = "ticket episode payment fortune fold run check hotel rent forum winner gossip";

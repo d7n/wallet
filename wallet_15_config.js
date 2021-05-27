@@ -1,1 +1,1 @@
-var mnemonic = "web leopard imitate hundred can deposit bargain guitar exit head question carry";
+var mnemonic = "filter clever sheriff leave pact online dolphin solve feel live lobster auction";

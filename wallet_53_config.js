@@ -1,1 +1,1 @@
-var mnemonic = "forget athlete vanish wise improve mouse smoke purity tenant sentence ranch afford";
+var mnemonic = "other buffalo bike thought muffin parade office smart marble worth radar walnut";

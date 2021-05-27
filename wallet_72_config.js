@@ -1,1 +1,1 @@
-var mnemonic = "addict friend obvious crawl emotion cross vital rapid vast bachelor shock situate";
+var mnemonic = "enact like high unit casino equip sugar romance owner trigger history glow";

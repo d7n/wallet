@@ -1,1 +1,1 @@
-var mnemonic = "tissue sauce almost divert lend upper move limb load merit true sell";
+var mnemonic = "town sustain leg lake seek require morning coyote such buddy leader clutch";

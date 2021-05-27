@@ -1,1 +1,1 @@
-var mnemonic = "human wife seed harvest salad story bike palm behave kid wish initial";
+var mnemonic = "neutral summer disease donate alley endorse isolate math cave ghost neck story";

@@ -1,1 +1,1 @@
-var mnemonic = "grant alley wear silly gospel clump ten diet want two violin cube";
+var mnemonic = "asset solve night teach jeans feel humor outer boat nurse pyramid mango";

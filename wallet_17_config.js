@@ -1,1 +1,1 @@
-var mnemonic = "enhance boil actress visit fabric oyster camera bracket general island submit hope";
+var mnemonic = "long useful table prevent one consider brief grocery icon foot combine depth";

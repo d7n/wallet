@@ -1,1 +1,1 @@
-var mnemonic = "tide grant mistake west atom prevent custom smart luggage where volcano volume";
+var mnemonic = "decide essay resist rabbit castle final hip forum effort basket wrong off";

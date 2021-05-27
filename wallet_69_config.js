@@ -1,1 +1,1 @@
-var mnemonic = "truck inmate yard hammer amused rely bar power insane collect jump clap";
+var mnemonic = "casual arctic canal august rural chat mirror mule maple express tag success";

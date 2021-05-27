@@ -1,1 +1,1 @@
-var mnemonic = "remain judge message tribe column kingdom shift eager twenty erosion sock album";
+var mnemonic = "media wreck illegal squeeze damage daring naive enjoy salute accuse grocery swear";

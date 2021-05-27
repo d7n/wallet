@@ -1,1 +1,1 @@
-var mnemonic = "patrol wide globe chief matrix east force mean cage pony present core";
+var mnemonic = "mansion unknown auto pony cover police battle stand ten crisp deal worth";

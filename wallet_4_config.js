@@ -1,1 +1,1 @@
-var mnemonic = "gym fog fog awful debris organ castle proof penalty sick mountain risk";
+var mnemonic = "noodle meat real ivory squeeze knee cash hockey island couple remain isolate";

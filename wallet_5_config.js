@@ -1,1 +1,1 @@
-var mnemonic = "armor enact movie ostrich modify goddess theory either cage song wonder muffin";
+var mnemonic = "bridge real future gorilla hybrid term keep major cake inside deputy reunion";

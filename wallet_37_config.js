@@ -1,1 +1,1 @@
-var mnemonic = "equip embrace decline glory push clinic squeeze good spend switch obtain vendor";
+var mnemonic = "subject family grass all oxygen bargain stove divide present crowd supply gown";

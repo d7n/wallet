@@ -1,1 +1,1 @@
-var mnemonic = "flock fashion bitter basket cook exist rocket defense solar barrel apple year";
+var mnemonic = "success benefit obtain must forest bar spread retire play notable cable reform";

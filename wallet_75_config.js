@@ -1,1 +1,1 @@
-var mnemonic = "erosion benefit story cable shoot few ignore online banana song tone enhance";
+var mnemonic = "hen rose lazy loan group clever fold trophy aware double mask swallow";

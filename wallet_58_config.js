@@ -1,1 +1,1 @@
-var mnemonic = "sure soldier gate together anchor mad student hero assault zero gadget custom";
+var mnemonic = "pioneer horn account insect alert arch loop text exhaust rice advance labor";

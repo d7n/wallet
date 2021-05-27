@@ -1,1 +1,1 @@
-var mnemonic = "roof inflict service april thumb kind flame sugar brisk divide divide true";
+var mnemonic = "recycle action lake one surge fiber labor fancy stone loud spoil world";

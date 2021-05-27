@@ -1,1 +1,1 @@
-var mnemonic = "dutch crew honey hover elite state seminar smile path stuff angle universe";
+var mnemonic = "cycle twelve come fire essay build moment multiply explain index great area";

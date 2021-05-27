@@ -1,1 +1,1 @@
-var mnemonic = "mimic into deer system crucial live rice evolve domain milk unaware delay";
+var mnemonic = "diet pass panel version bless catalog wide end awful predict use glide";

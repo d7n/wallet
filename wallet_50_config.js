@@ -1,1 +1,1 @@
-var mnemonic = "start rule strike affair decade sphere hurry fly file profit tragic strategy";
+var mnemonic = "despair case uncle circle trash wall bunker water latin rapid twin bean";

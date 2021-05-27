@@ -1,1 +1,1 @@
-var mnemonic = "way toy rival during deer hungry battle move apology enlist cover awake";
+var mnemonic = "short thing dash cute husband detect reveal leader cherry tower buyer promote";

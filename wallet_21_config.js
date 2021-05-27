@@ -1,1 +1,1 @@
-var mnemonic = "replace stereo fox pipe praise about offer jelly history input ripple connect";
+var mnemonic = "flush fold people under sample merry learn trend drum fetch group copy";

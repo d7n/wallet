@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog scale road what local safe road torch uncle gesture viable actor";
+var mnemonic = "concert faint media motion black clock vendor reflect expose throw code gather";

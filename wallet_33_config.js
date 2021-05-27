@@ -1,1 +1,1 @@
-var mnemonic = "media supreme rabbit slogan use often digital judge start involve rabbit pass";
+var mnemonic = "life never palace render airport evidence truth exist champion vote foot cherry";

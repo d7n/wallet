@@ -1,1 +1,1 @@
-var mnemonic = "infant noble fashion sausage network fire wall mix ugly session hire crane";
+var mnemonic = "foot vacant word image lawn obey quarter episode wave vicious suggest wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal once jazz curious unhappy cabin promote asthma traffic violin guitar shove";
+var mnemonic = "series next lava genre boy since neglect soul stuff random dawn ensure";

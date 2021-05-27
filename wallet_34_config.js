@@ -1,1 +1,1 @@
-var mnemonic = "spawn pill kingdom wool question upset night input chase flock crop flame";
+var mnemonic = "bleak combine ask flame paddle amateur assault tortoise opera knock advance ridge";

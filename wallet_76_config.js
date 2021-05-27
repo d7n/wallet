@@ -1,1 +1,1 @@
-var mnemonic = "unique divorce error victory quantum enlist crunch mind solution become poverty favorite";
+var mnemonic = "add smoke fun liar hour rookie chalk intact quantum trip unusual remain";

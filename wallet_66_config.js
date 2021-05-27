@@ -1,1 +1,1 @@
-var mnemonic = "aim already enrich climb rhythm weasel outdoor door retreat wood mom inhale";
+var mnemonic = "decrease parade mushroom type toss mouse isolate exhibit avoid arm dream tobacco";

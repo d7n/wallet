@@ -1,1 +1,1 @@
-var mnemonic = "twelve dry awake kiwi spike feel gadget noodle name gesture spy riot";
+var mnemonic = "spike before roof when paper dawn sudden sort vivid dress virtual good";

@@ -1,1 +1,1 @@
-var mnemonic = "hair someone civil water artist chapter mercy betray inquiry wish harsh amateur";
+var mnemonic = "clever raven odor purpose day shiver that sense observe excess magic convince";

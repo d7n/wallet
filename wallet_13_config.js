@@ -1,1 +1,1 @@
-var mnemonic = "viable occur useless thunder affair arrive mistake wise chair piece live girl";
+var mnemonic = "because ignore priority sort maple aisle blade castle divert fix brand unlock";

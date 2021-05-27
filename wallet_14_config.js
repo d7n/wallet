@@ -1,1 +1,1 @@
-var mnemonic = "select person nation sand base grass exact analyst luxury dilemma frost hurry";
+var mnemonic = "ocean know rabbit sock then hockey wish shoot old immune enhance pony";

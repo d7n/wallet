@@ -1,1 +1,1 @@
-var mnemonic = "tennis symptom hello melody minute pelican gossip trophy list angle level layer";
+var mnemonic = "seed better divide beauty dial swap begin earth solid tumble task insect";

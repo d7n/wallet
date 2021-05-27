@@ -1,1 +1,1 @@
-var mnemonic = "pattern cabbage crazy bulk dinner ticket trigger gravity rain gossip glass curve";
+var mnemonic = "ripple arrest sustain crawl female accident any polar palace sing ice flush";

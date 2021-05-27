@@ -1,1 +1,1 @@
-var mnemonic = "circle unveil card mail lamp umbrella crop hockey edit maze cart stairs";
+var mnemonic = "brave tooth boy shaft scale know chuckle animal disorder color heart luxury";

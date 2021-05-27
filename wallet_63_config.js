@@ -1,1 +1,1 @@
-var mnemonic = "expose umbrella protect glance length typical august turn erase magic during scrub";
+var mnemonic = "truth warm enjoy capable embark hub flush embark buyer trim mesh digital";

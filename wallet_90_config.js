@@ -1,1 +1,1 @@
-var mnemonic = "labor weekend present tackle else model spell speed hair world impose napkin";
+var mnemonic = "buzz era treat catalog tortoise olive sport educate polar pupil green what";

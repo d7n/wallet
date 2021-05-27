@@ -1,1 +1,1 @@
-var mnemonic = "kingdom valley chicken panel window chase spell caught sense bronze dose draft";
+var mnemonic = "when reflect aspect tube garlic educate tomato jacket soft sadness oblige behave";

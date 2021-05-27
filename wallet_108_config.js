@@ -1,1 +1,1 @@
-var mnemonic = "pet blade unfair voice outer census avoid borrow muffin engage they term";
+var mnemonic = "add mention nature west account icon rely rack glue notable amused burden";

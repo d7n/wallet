@@ -1,1 +1,1 @@
-var mnemonic = "crunch napkin forward addict frown drip buddy lunar gun history embody trouble";
+var mnemonic = "noise split movie liar castle orbit oil rich track average guess beyond";

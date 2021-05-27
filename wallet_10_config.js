@@ -1,1 +1,1 @@
-var mnemonic = "imitate settle rely library rice miss dress tunnel welcome huge clump fever";
+var mnemonic = "special soda cruel sauce join phrase when horse leaf loop force pudding";

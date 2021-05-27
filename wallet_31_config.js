@@ -1,1 +1,1 @@
-var mnemonic = "bulb ready either cinnamon all differ unfold bind abstract guard bar sail";
+var mnemonic = "smooth boat alarm valid limit rotate magnet zebra file defy cook arrow";

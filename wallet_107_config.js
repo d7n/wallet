@@ -1,1 +1,1 @@
-var mnemonic = "canoe comfort call marble swing diesel spoil dice build viable define damage";
+var mnemonic = "point favorite solar rhythm elegant scissors layer excuse key volume butter doll";

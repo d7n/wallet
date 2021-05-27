@@ -1,1 +1,1 @@
-var mnemonic = "engage shine enlist elbow boost diamond first bar mosquito crop pole still";
+var mnemonic = "forward female artist wolf ski slush exclude area net recall crack century";

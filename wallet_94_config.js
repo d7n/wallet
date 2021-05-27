@@ -1,1 +1,1 @@
-var mnemonic = "evil install tobacco proof relax recipe arrow bean wrist innocent expire family";
+var mnemonic = "gossip tobacco unknown close embody dove soap vapor spell fix soft select";

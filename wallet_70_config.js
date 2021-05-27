@@ -1,1 +1,1 @@
-var mnemonic = "short puppy emotion monster ski skull speak body confirm giraffe weather gossip";
+var mnemonic = "aerobic exclude planet fox poverty ecology frog hospital exit fun curious mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "brain crush coyote symptom fan moral script spoil six valid aerobic tortoise";
+var mnemonic = "renew slot collect radio mango try chunk special fresh shove winter hotel";

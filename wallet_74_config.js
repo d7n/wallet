@@ -1,1 +1,1 @@
-var mnemonic = "innocent unable claw exist moral rich aisle current song artefact pause daring";
+var mnemonic = "proud nephew staff sand depth where shell obey broom screen input expose";

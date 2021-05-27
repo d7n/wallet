@@ -1,1 +1,1 @@
-var mnemonic = "sniff spy elder object strike onion hundred garlic reward prison lucky drill";
+var mnemonic = "observe bargain doctor outer horror manual behave weapon sad city company original";

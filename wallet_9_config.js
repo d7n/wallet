@@ -1,1 +1,1 @@
-var mnemonic = "luggage idea mask plastic frog curve hidden carbon team nation candy inspire";
+var mnemonic = "chronic trigger pitch cushion raise chalk spider boss elbow valley case frog";

@@ -1,1 +1,1 @@
-var mnemonic = "demand under peasant debris oil piece fan race stem mirror suffer grief";
+var mnemonic = "utility charge cool item dignity wild dinosaur soap subway jungle mixture humble";

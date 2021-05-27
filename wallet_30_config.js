@@ -1,1 +1,1 @@
-var mnemonic = "harsh target gossip act call awesome enter short core liberty popular document";
+var mnemonic = "fun together analyst behind pill surface beef prosper increase detail that million";

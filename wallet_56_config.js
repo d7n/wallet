@@ -1,1 +1,1 @@
-var mnemonic = "depth ski west similar donor arrange wage moment ordinary crane purchase rebel";
+var mnemonic = "bulb melt pause fitness knee soldier accuse deer wise snow thumb december";

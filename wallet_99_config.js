@@ -1,1 +1,1 @@
-var mnemonic = "light loud increase soon alone grape anxiety pyramid pause state just minute";
+var mnemonic = "visa vendor share perfect elevator vendor quick together quality steak web talk";

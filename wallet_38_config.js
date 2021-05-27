@@ -1,1 +1,1 @@
-var mnemonic = "debris spin ask rail notable pudding promote fever identify nasty grit great";
+var mnemonic = "supply legend seat cover erupt track trend nuclear apart violin divorce mix";

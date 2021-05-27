@@ -1,1 +1,1 @@
-var mnemonic = "nut one dynamic search sentence connect speak goddess home execute arctic seminar";
+var mnemonic = "cruise shallow sail figure drift shift edit inject hidden detail year acid";

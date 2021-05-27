@@ -1,1 +1,1 @@
-var mnemonic = "way pink milk essence jelly hat grunt other video drive exhaust execute";
+var mnemonic = "pattern mouse capable tonight spoon midnight master donate auction false donkey goat";

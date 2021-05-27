@@ -1,1 +1,1 @@
-var mnemonic = "exclude memory digital bicycle coil pet spread define device slice nephew spatial";
+var mnemonic = "lock answer rib alone alert circle battle outside mix fix goose kingdom";

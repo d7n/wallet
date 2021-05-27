@@ -1,1 +1,1 @@
-var mnemonic = "goat issue cousin tumble fault diesel cost spend stadium agent bullet between";
+var mnemonic = "sail junior neck mixture deliver candy toward chest pelican pull clarify labor";

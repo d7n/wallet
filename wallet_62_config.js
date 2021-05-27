@@ -1,1 +1,1 @@
-var mnemonic = "betray palm rapid gentle dove orchard favorite best foster impulse still humble";
+var mnemonic = "treat nuclear tooth mimic twenty nothing margin require wing ride bike garlic";

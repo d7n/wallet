@@ -1,1 +1,1 @@
-var mnemonic = "dismiss grain phone window tuition powder convince food survey indicate venue slogan";
+var mnemonic = "cupboard remain oak often hill distance abstract rifle master unhappy sausage north";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy zebra sunset pumpkin entry top price sleep ski brother minimum opera";
+var mnemonic = "soon mouse bike piece clap rice sponsor check stadium potato plate fun";

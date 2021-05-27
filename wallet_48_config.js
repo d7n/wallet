@@ -1,1 +1,1 @@
-var mnemonic = "journey quiz knee love better detail funny ready invite mountain bulk faint";
+var mnemonic = "lock border alley estate tag beauty hint idle junk ship sibling endless";

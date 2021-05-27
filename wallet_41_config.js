@@ -1,1 +1,1 @@
-var mnemonic = "select barely group curve enjoy alcohol hole valley unable piano demise couch";
+var mnemonic = "sketch assume portion copy trim basic spell time ranch frozen exist ball";

@@ -1,1 +1,1 @@
-var mnemonic = "page focus imitate brick dutch chronic increase already meat glance gentle couple";
+var mnemonic = "utility room input ketchup pulp assume color bamboo exhibit vivid layer crowd";

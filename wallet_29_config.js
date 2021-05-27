@@ -1,1 +1,1 @@
-var mnemonic = "sword dynamic erupt viable wisdom planet tank ancient leave nation enjoy culture";
+var mnemonic = "nest scorpion today web pluck member disorder mango august prosper load broom";

@@ -1,1 +1,1 @@
-var mnemonic = "pass face object paddle master wagon usual erase cotton swap cattle host";
+var mnemonic = "proof jealous couch abuse sure merry canyon shrug coral brain obey liquid";

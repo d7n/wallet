@@ -1,1 +1,1 @@
-var mnemonic = "bitter fix average ivory gap betray tourist mention there gesture laundry immune";
+var mnemonic = "foam setup destroy penalty length brave shed oppose estate ski smile reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "clump item elbow prepare outside return ketchup guard match rotate build miss";
+var mnemonic = "vast senior blame mention useful dice hurdle excuse chief kit dog diagram";

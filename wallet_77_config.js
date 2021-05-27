@@ -1,1 +1,1 @@
-var mnemonic = "beach exhibit nice axis evidence chuckle marine frost perfect become hair have";
+var mnemonic = "confirm engine kingdom badge armor dentist rely muscle trouble palace flower escape";

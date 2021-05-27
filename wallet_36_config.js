@@ -1,1 +1,1 @@
-var mnemonic = "tourist voice object assume local nasty tube machine add loop armor unique";
+var mnemonic = "army metal involve pair repair solar hidden tumble fire negative client cart";

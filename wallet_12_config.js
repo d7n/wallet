@@ -1,1 +1,1 @@
-var mnemonic = "avoid area health mystery spawn trigger mask excuse vacant income duty shine";
+var mnemonic = "sheriff detect require suffer enable love add life lion master they involve";
