@@ -1,1 +1,1 @@
-var mnemonic = "trend degree barrel duty air federal key eager over science brick news";
+var mnemonic = "what soup pony trumpet churn wolf fork february detect drip sand hour";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage table settle because they reunion pink latin beyond stem reflect foster";
+var mnemonic = "mandate total box aunt simple dignity social warm session room enrich bachelor";

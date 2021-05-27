@@ -1,1 +1,1 @@
-var mnemonic = "say athlete ripple local arrive seek plastic security approve mask gift resemble";
+var mnemonic = "depend rocket they charge skill lamp jealous razor discover video sister pet";

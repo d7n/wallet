@@ -1,1 +1,1 @@
-var mnemonic = "oblige gate rival stay base pause stand ice knock carbon slide like";
+var mnemonic = "come minimum lazy visit excite symptom motion gesture prevent crucial fold aisle";

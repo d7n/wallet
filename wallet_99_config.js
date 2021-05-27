@@ -1,1 +1,1 @@
-var mnemonic = "near theory mechanic deposit skin ranch attract mountain theory mean ensure drum";
+var mnemonic = "truth toss wild ten party kitten replace sport concert rail place nation";

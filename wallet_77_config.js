@@ -1,1 +1,1 @@
-var mnemonic = "notable winter winter stock broken fee zoo auction siege rain casual hotel";
+var mnemonic = "car enroll violin donate solution liberty gather knife blur hood excess extend";

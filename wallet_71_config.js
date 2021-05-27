@@ -1,1 +1,1 @@
-var mnemonic = "nut science hammer wire loud cement lounge service child hamster shy skull";
+var mnemonic = "draw barrel vital annual access enact hazard mixed volume busy exercise garbage";

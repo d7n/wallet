@@ -1,1 +1,1 @@
-var mnemonic = "exclude grunt attend junk enhance question ability stable flight orbit canal helmet";
+var mnemonic = "rotate olive thank garden recycle anger need west stuff street luxury inquiry";

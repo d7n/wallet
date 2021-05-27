@@ -1,1 +1,1 @@
-var mnemonic = "tail elder gold need bone grief suit master decorate valley suit file";
+var mnemonic = "announce nothing roof behave alley kit wet action skull consider practice duty";

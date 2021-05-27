@@ -1,1 +1,1 @@
-var mnemonic = "brush aspect elephant soccer impact glance deer suspect mention choice birth smooth";
+var mnemonic = "strike assist census call ability narrow reward lock soldier carbon bundle today";

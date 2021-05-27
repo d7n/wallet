@@ -1,1 +1,1 @@
-var mnemonic = "short demand insect success junk razor gallery clarify cannon deal worry asset";
+var mnemonic = "loyal increase satisfy island grief corn mixed riot swing risk close surge";

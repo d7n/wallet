@@ -1,1 +1,1 @@
-var mnemonic = "extra reopen credit wrong uncover cream long wash cash brisk mass tone";
+var mnemonic = "border frost civil side maze furnace miracle ordinary jungle crop buzz photo";

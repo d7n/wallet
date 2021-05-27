@@ -1,1 +1,1 @@
-var mnemonic = "wisdom cage drastic width carry visual spread voice stairs chunk reduce inch";
+var mnemonic = "stone opera crisp renew inner inner ketchup front law boat winter monitor";

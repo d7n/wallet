@@ -1,1 +1,1 @@
-var mnemonic = "pitch also oppose buyer glad news young parent youth follow crane curve";
+var mnemonic = "front section regret able agent enough excite unfold oil ship provide sadness";

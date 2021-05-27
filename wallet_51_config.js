@@ -1,1 +1,1 @@
-var mnemonic = "scene desert tongue device liquid nothing robust system lazy surface loyal boss";
+var mnemonic = "elder sheriff save exchange often pumpkin stand deny genre glove mixed prefer";

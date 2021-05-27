@@ -1,1 +1,1 @@
-var mnemonic = "settle rival clutch cabbage metal tool phrase aisle basic exact ugly aware";
+var mnemonic = "enforce table blast exchange wash decorate decline pink vibrant scene team vocal";

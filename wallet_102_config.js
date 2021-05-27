@@ -1,1 +1,1 @@
-var mnemonic = "actor secret orient border rigid champion bar domain august sea rain verb";
+var mnemonic = "clay expire sunny busy render year leave ride crane census junior skill";

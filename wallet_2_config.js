@@ -1,1 +1,1 @@
-var mnemonic = "health supply sunset birth dish crisp left august envelope butter deny beyond";
+var mnemonic = "version spring raise lucky depth creek beach method author witness win where";

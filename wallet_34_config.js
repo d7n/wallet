@@ -1,1 +1,1 @@
-var mnemonic = "limb wink equal enact fame camp tennis aerobic cactus kite canyon census";
+var mnemonic = "ill vital basic cricket upon else spot lounge magnet ribbon bread hundred";

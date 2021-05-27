@@ -1,1 +1,1 @@
-var mnemonic = "start stock common just brave cherry favorite eagle sort near slice execute";
+var mnemonic = "bird draw village planet olympic hello follow pluck fashion guilt bomb wear";

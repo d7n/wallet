@@ -1,1 +1,1 @@
-var mnemonic = "inform advice silk that drive echo airport night foam almost owner memory";
+var mnemonic = "discover pole lottery cool finish provide embark abuse frog large thrive nuclear";

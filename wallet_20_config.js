@@ -1,1 +1,1 @@
-var mnemonic = "hawk myth pull virtual purchase park monkey toast ladder will remember improve";
+var mnemonic = "soccer undo pattern hospital anchor return caught often illness section vague senior";

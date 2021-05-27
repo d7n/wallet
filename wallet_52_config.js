@@ -1,1 +1,1 @@
-var mnemonic = "effort useless jealous speak gasp episode power syrup pool east program patient";
+var mnemonic = "sugar side armed skate seven smoke above base clerk tail plastic concert";

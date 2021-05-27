@@ -1,1 +1,1 @@
-var mnemonic = "avoid trial parent bring select prison engage section hurdle cigar orange drink";
+var mnemonic = "useless cash energy evil viable name flight wise title lift flame minute";

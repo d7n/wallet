@@ -1,1 +1,1 @@
-var mnemonic = "soldier obvious promote judge gossip loyal win enter law pilot pyramid about";
+var mnemonic = "body test galaxy mango swap click atom combine please extra boy flight";

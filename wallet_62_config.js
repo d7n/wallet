@@ -1,1 +1,1 @@
-var mnemonic = "pool mirror sauce bus aim ready fiber bless mix spike ripple witness";
+var mnemonic = "virus diamond garlic sword movie loan reveal bubble swap verb hurt rough";

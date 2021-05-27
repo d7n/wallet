@@ -1,1 +1,1 @@
-var mnemonic = "spice tag wife west warfare opinion indoor pioneer pill rail mixture parade";
+var mnemonic = "dentist cross repair envelope bulk fatigue exhaust scheme possible lake monitor design";

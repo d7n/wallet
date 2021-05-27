@@ -1,1 +1,1 @@
-var mnemonic = "people gadget casual ordinary message donkey exercise idle excuse project legal repeat";
+var mnemonic = "drip capital delay elite office abuse tuition moral fabric book panda option";

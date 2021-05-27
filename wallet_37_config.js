@@ -1,1 +1,1 @@
-var mnemonic = "wood creek spoil silk hedgehog stick enroll hole avoid valley item supreme";
+var mnemonic = "scale globe despair south fox critic forum biology title boil sport weasel";

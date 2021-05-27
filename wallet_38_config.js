@@ -1,1 +1,1 @@
-var mnemonic = "doctor van purity paper lyrics laptop pilot solid project own hard inspire";
+var mnemonic = "angle build enemy library creek earn wrap call gym tattoo danger saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "equip region bench awake twice raw tip field theory deputy task mammal";
+var mnemonic = "start love zero picnic slogan found edge mechanic game middle hazard distance";

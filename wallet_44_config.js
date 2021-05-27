@@ -1,1 +1,1 @@
-var mnemonic = "margin inhale execute tortoise blouse humble stock hunt sing beauty wheat despair";
+var mnemonic = "repair crime clerk street scout bar help tomato nephew mouse bundle tumble";

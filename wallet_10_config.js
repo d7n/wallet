@@ -1,1 +1,1 @@
-var mnemonic = "travel cactus razor version couple lottery budget interest object pulp fork crunch";
+var mnemonic = "charge bitter tiny fashion dog review eternal dice title recipe stadium buzz";

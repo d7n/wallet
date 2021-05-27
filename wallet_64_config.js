@@ -1,1 +1,1 @@
-var mnemonic = "cross deposit virus woman vendor adjust express draft forget garden catch deposit";
+var mnemonic = "swamp tennis october pitch creek buffalo parade doll flat wasp year index";

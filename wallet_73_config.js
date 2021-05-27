@@ -1,1 +1,1 @@
-var mnemonic = "stem sphere claw boring silly useless infant shy soul angle pelican share";
+var mnemonic = "lion phone heavy tell refuse security doll chef surround position vapor million";

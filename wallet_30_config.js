@@ -1,1 +1,1 @@
-var mnemonic = "measure wing another tiger canal bulk busy issue liquid boat vintage know";
+var mnemonic = "garden skill young fan together lake sock rubber evil rocket october seed";

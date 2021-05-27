@@ -1,1 +1,1 @@
-var mnemonic = "blur raccoon journey include ginger help deny feel dove blame exercise leg";
+var mnemonic = "pledge merge screen notable icon response soda payment similar drop border car";

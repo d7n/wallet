@@ -1,1 +1,1 @@
-var mnemonic = "resist oven neutral oppose poet worry purse choice trend pelican gloom struggle";
+var mnemonic = "pigeon future transfer typical fantasy fix bless prevent limb chalk delay ski";

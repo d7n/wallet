@@ -1,1 +1,1 @@
-var mnemonic = "diagram dumb lamp random oblige umbrella spare section burden often weapon year";
+var mnemonic = "reopen crane occur school puppy urge powder live leaf tilt thrive salon";

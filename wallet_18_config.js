@@ -1,1 +1,1 @@
-var mnemonic = "empower thank response layer hurt pyramid embody toast title cross seek hello";
+var mnemonic = "globe payment shoulder yard decline drill now circle ahead caught defense burst";

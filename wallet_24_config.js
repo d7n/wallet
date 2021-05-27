@@ -1,1 +1,1 @@
-var mnemonic = "rib minor salad peasant try chunk smile glow muscle prosper clown shoulder";
+var mnemonic = "brick dice casual select tool plunge once icon apart hazard rail salon";

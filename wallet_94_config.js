@@ -1,1 +1,1 @@
-var mnemonic = "horror lens material salute cook seek road reunion myself clip ramp coconut";
+var mnemonic = "genuine screen glance girl inmate mad cash material cradle marriage ivory sketch";

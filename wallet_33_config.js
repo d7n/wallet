@@ -1,1 +1,1 @@
-var mnemonic = "receive private hawk pig promote hockey liar fever ski seat dawn decorate";
+var mnemonic = "exchange such stuff salon session ankle weather improve gossip artwork gloom man";

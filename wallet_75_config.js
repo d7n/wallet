@@ -1,1 +1,1 @@
-var mnemonic = "place jazz west pony fragile barrel volume pave salon panther trim almost";
+var mnemonic = "chair mimic inner deposit icon body butter chaos address outside enact film";

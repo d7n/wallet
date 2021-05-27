@@ -1,1 +1,1 @@
-var mnemonic = "trust net slide nut prevent oval grace fetch more guitar misery obvious";
+var mnemonic = "extend local medal cannon creek cattle solve forum prefer pipe real fuel";

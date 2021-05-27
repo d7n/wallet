@@ -1,1 +1,1 @@
-var mnemonic = "chunk network oil team pig degree envelope theme comic mammal spell climb";
+var mnemonic = "town smooth minimum motor sport hood pulse series coconut shuffle shallow order";

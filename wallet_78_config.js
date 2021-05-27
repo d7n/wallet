@@ -1,1 +1,1 @@
-var mnemonic = "hurt worry aunt black couch country trust busy lunar accident volcano they";
+var mnemonic = "cave beach honey over need pass shrimp salon around charge toast bike";

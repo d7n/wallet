@@ -1,1 +1,1 @@
-var mnemonic = "suit hazard legal carpet divert clerk entry bird dizzy flag fiber happy";
+var mnemonic = "eternal effort fashion reopen uncover adjust gadget ghost apology select panda approve";

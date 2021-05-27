@@ -1,1 +1,1 @@
-var mnemonic = "try cat syrup bomb meat term caution layer mushroom stand daring urge";
+var mnemonic = "ski convince desert kiwi pretty inhale crew dad grief beach sea jungle";

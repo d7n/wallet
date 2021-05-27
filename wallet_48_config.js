@@ -1,1 +1,1 @@
-var mnemonic = "anger pupil assault fiscal pottery poem face outdoor escape zone effort comic";
+var mnemonic = "hour dignity motion prefer kit volume abandon dynamic above cluster hair erode";

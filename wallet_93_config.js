@@ -1,1 +1,1 @@
-var mnemonic = "private seven army grass prefer guard cost eager couch sight day robust";
+var mnemonic = "upon vanish own salute page pistol wear shoot glide ticket occur acquire";

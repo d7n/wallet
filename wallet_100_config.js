@@ -1,1 +1,1 @@
-var mnemonic = "sweet render print armor tooth price twist coil garlic enough unit inhale";
+var mnemonic = "sustain success flower picture crumble direct helmet venue again guard later still";

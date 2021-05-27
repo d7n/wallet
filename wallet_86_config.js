@@ -1,1 +1,1 @@
-var mnemonic = "puppy debate perfect tumble nothing keen fine scan payment pet faculty priority";
+var mnemonic = "symptom taste assault valid october detail economy robust version leg remain session";

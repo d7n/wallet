@@ -1,1 +1,1 @@
-var mnemonic = "stomach slow apple chair kitchen coin off upset polar depart steak destroy";
+var mnemonic = "time bonus man couch limit aisle erase usage second addict tube silent";

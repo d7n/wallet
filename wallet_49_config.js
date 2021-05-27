@@ -1,1 +1,1 @@
-var mnemonic = "bright humor witness hood fitness ghost increase train total tent alcohol tired";
+var mnemonic = "path budget aware portion giant modify help retire shift agree material public";

@@ -1,1 +1,1 @@
-var mnemonic = "void undo reopen fury sphere dose zero seven cart void mom bike";
+var mnemonic = "ethics payment youth delay pottery intact pony flame notice annual spoil scheme";

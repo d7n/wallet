@@ -1,1 +1,1 @@
-var mnemonic = "text sleep east virus cry gospel joy fiscal salute grocery chronic depart";
+var mnemonic = "surface ghost clerk hobby secret model diary unique benefit trash outside public";

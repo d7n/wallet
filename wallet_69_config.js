@@ -1,1 +1,1 @@
-var mnemonic = "segment still chronic face charge over elder toward drink door winner pattern";
+var mnemonic = "dwarf olympic vocal sort doctor lawn enable unable hammer awful announce disorder";

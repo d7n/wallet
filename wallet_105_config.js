@@ -1,1 +1,1 @@
-var mnemonic = "wine artefact park bring draw cloth wise globe outdoor bundle ocean mushroom";
+var mnemonic = "program melt nest scatter trust sound ridge flee start ancient bean civil";

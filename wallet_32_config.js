@@ -1,1 +1,1 @@
-var mnemonic = "noise spare agent involve law letter mail royal essence liquid asset ask";
+var mnemonic = "where mammal animal cactus master van cost palace lion shoulder depth evidence";

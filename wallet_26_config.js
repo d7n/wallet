@@ -1,1 +1,1 @@
-var mnemonic = "daring maximum core twin dolphin piano account foam pulp predict abandon bachelor";
+var mnemonic = "black clean isolate prepare normal noise welcome crime pave link script build";

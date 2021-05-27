@@ -1,1 +1,1 @@
-var mnemonic = "horn security auto ripple measure business forget nut model odor shoe nominee";
+var mnemonic = "fee pattern absorb nuclear resemble egg despair theme resist fork law leave";

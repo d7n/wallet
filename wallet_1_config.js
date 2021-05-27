@@ -1,1 +1,1 @@
-var mnemonic = "dove stock cliff nice stay stadium fury punch you later unveil noodle";
+var mnemonic = "enemy cry excuse table improve involve soul gift lyrics domain junk voice";

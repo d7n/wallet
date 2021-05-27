@@ -1,1 +1,1 @@
-var mnemonic = "add filter emerge amazing street source daughter receive exit comfort exhibit solution";
+var mnemonic = "bubble author blanket pottery coconut city pole hold trouble total merge memory";

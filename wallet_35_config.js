@@ -1,1 +1,1 @@
-var mnemonic = "knee annual page arrest sustain husband blouse core size mention evil inner";
+var mnemonic = "liquid forget federal afford quit sibling sadness one state napkin manage chief";

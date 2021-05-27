@@ -1,1 +1,1 @@
-var mnemonic = "shrimp gym occur jaguar satoshi draft second bus latin scorpion usual stage";
+var mnemonic = "blade keen race desk mistake uncle version cause someone flat eagle join";

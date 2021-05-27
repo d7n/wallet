@@ -1,1 +1,1 @@
-var mnemonic = "wise inside spawn table wall earn frozen salt venue slim outside glory";
+var mnemonic = "student subject mammal transfer sleep network alert sketch pretty switch cliff egg";

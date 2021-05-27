@@ -1,1 +1,1 @@
-var mnemonic = "beach thrive evidence train clip worth afraid neck rigid luxury real march";
+var mnemonic = "hat know explain conduct stock soul near wash quote fix holiday inch";

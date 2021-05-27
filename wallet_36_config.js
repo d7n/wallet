@@ -1,1 +1,1 @@
-var mnemonic = "tornado broken cart control source blade vintage crystal now toward vanish soldier";
+var mnemonic = "label ticket crouch erupt process flame wine piano unusual era attack hover";

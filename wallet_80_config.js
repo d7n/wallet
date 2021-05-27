@@ -1,1 +1,1 @@
-var mnemonic = "famous search crater piano end powder fresh mom expand normal when visual";
+var mnemonic = "wolf rice reunion proud silver pave jealous feel village client morning need";

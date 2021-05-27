@@ -1,1 +1,1 @@
-var mnemonic = "local arrest breeze unknown sweet glance modify churn pumpkin stomach weasel year";
+var mnemonic = "pupil super ancient syrup cereal novel midnight hover burger attitude estate price";

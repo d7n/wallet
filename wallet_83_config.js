@@ -1,1 +1,1 @@
-var mnemonic = "alpha decade random cheese kiss critic margin october excess journey mention elder";
+var mnemonic = "puzzle loud gas cable woman shove seven result guess wise eternal prefer";

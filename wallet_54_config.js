@@ -1,1 +1,1 @@
-var mnemonic = "weird begin west must price vicious match remove boil double oblige local";
+var mnemonic = "pink head clay coconut deal step want pen monitor fitness pact shrug";

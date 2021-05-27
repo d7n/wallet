@@ -1,1 +1,1 @@
-var mnemonic = "dawn ten fluid twelve response beef pulse there spawn film plug device";
+var mnemonic = "host easy planet carbon exhaust fury adult embody praise account style hurdle";

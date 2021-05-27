@@ -1,1 +1,1 @@
-var mnemonic = "never expose identify sample glove weapon pattern swear garlic art address mechanic";
+var mnemonic = "mushroom rather icon gather chuckle course gun fruit chest sentence trap crime";

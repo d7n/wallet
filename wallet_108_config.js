@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow inquiry indicate combine deposit belt behave horn lemon slam demand enforce";
+var mnemonic = "rapid limb mask oak trial bulb cliff wage grid absorb still promote";

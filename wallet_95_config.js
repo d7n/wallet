@@ -1,1 +1,1 @@
-var mnemonic = "typical expect argue job arrange odor odor upset spirit can first goddess";
+var mnemonic = "stove report estate winner yellow symptom trumpet vocal crane marble outside night";

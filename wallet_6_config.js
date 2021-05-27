@@ -1,1 +1,1 @@
-var mnemonic = "drum arrange poem wash ecology ripple banner stage jar company cable giraffe";
+var mnemonic = "gauge example naive bundle salt arctic athlete relief dumb fine unit bottom";

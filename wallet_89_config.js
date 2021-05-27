@@ -1,1 +1,1 @@
-var mnemonic = "various humor isolate outdoor because february fat junk purpose receive extra debate";
+var mnemonic = "assume favorite adapt robust hip weapon measure visual interest ill inform border";

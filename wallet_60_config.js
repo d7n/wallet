@@ -1,1 +1,1 @@
-var mnemonic = "raven focus moon engage magic already sleep crawl mammal ill hurry anchor";
+var mnemonic = "result tide impact acoustic lift tank fresh alien logic fancy glimpse six";

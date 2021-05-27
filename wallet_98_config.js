@@ -1,1 +1,1 @@
-var mnemonic = "guide staff receive denial weird razor hurry visa hub citizen connect display";
+var mnemonic = "stadium decade follow floor balcony swift stamp into mercy join twin fence";

@@ -1,1 +1,1 @@
-var mnemonic = "pause split differ skin stand struggle inhale organ embody wedding stereo armed";
+var mnemonic = "ocean material smooth coral plastic wool pistol shop transfer toilet claw extra";

@@ -1,1 +1,1 @@
-var mnemonic = "turn garage until kitten shaft decline fresh stamp liar title mix kiwi";
+var mnemonic = "observe margin remain piano case insane sort elephant maple fatigue message six";

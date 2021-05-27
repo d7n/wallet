@@ -1,1 +1,1 @@
-var mnemonic = "desert notable blush desk boy interest language sad twist slogan hamster ability";
+var mnemonic = "logic suggest nominee amused trap dilemma lion pass initial zoo useful alpha";

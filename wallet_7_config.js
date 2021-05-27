@@ -1,1 +1,1 @@
-var mnemonic = "ocean invest warfare journey remind opinion lucky cigar ensure comfort sleep disorder";
+var mnemonic = "dawn coast filter increase ugly vote child pact twenty worry relax raccoon";

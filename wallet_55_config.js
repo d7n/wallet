@@ -1,1 +1,1 @@
-var mnemonic = "organ please badge soon network urge act alcohol extra early churn ice";
+var mnemonic = "remove illness lucky market toddler devote fan mobile chaos foil credit business";

@@ -1,1 +1,1 @@
-var mnemonic = "door sea noodle design clog anchor broccoli liberty oak stuff punch wagon";
+var mnemonic = "finish brush glove hole tourist treat open rebel naive common this price";

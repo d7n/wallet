@@ -1,1 +1,1 @@
-var mnemonic = "letter slam powder waste health road stem arch daughter weather tongue room";
+var mnemonic = "submit frown desk mirror drastic misery document lake return shuffle describe decrease";
