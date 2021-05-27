@@ -1,1 +1,1 @@
-var mnemonic = "scan shoot orange palace garage sleep situate spare bring midnight life asset";
+var mnemonic = "grief betray royal thrive sense tool hair spread vehicle juice cruise equal";

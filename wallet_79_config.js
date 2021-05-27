@@ -1,1 +1,1 @@
-var mnemonic = "high joy obey private thrive add waste hedgehog gym dove trade lion";
+var mnemonic = "actress anchor increase layer panic artefact ski fuel mix this novel judge";

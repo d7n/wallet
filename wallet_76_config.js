@@ -1,1 +1,1 @@
-var mnemonic = "wing magic casual phone damage wild apology wash agree curious hint depend";
+var mnemonic = "tooth rate motion novel jungle slim merry allow relief exit federal stuff";

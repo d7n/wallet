@@ -1,1 +1,1 @@
-var mnemonic = "brother enlist achieve addict hunt husband junk profit brisk rebel inform skin";
+var mnemonic = "citizen ivory display antenna pelican news fitness safe what cost crumble muffin";

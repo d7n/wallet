@@ -1,1 +1,1 @@
-var mnemonic = "agree evolve aware tumble school dish ticket unable boat quick yard network";
+var mnemonic = "whale vague life baby tomato scrub cover filter card delay spy position";

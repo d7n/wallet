@@ -1,1 +1,1 @@
-var mnemonic = "first multiply eye flee layer modify actual orange able maximum pattern tail";
+var mnemonic = "oblige identify rescue sugar faith sign clinic sing tragic open client kitten";

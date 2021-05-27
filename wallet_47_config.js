@@ -1,1 +1,1 @@
-var mnemonic = "punch credit fiscal scene govern trend impact consider round arch make bind";
+var mnemonic = "uniform allow anxiety drum glide student dad wisdom oven swing balcony adult";

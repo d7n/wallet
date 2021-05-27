@@ -1,1 +1,1 @@
-var mnemonic = "magnet shuffle tide monster grass vehicle quick inspire face idle pepper rural";
+var mnemonic = "valve juice wise time crop ramp pyramid destroy stable snake fog dry";

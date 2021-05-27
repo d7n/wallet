@@ -1,1 +1,1 @@
-var mnemonic = "roast blur caution main banana gym grass young year correct risk satoshi";
+var mnemonic = "thought super glove believe conduct tired federal cargo author curve super prevent";

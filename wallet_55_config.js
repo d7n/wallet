@@ -1,1 +1,1 @@
-var mnemonic = "mixture bind dirt nasty obscure security cabbage hub oxygen slender oppose bunker";
+var mnemonic = "include law ozone foam truly shell place impulse age jeans smart castle";

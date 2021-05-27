@@ -1,1 +1,1 @@
-var mnemonic = "hover curve recycle lunch any april trumpet six peasant fashion gym asthma";
+var mnemonic = "cradle subway claw display model gap skull uncle nut pool spice dirt";

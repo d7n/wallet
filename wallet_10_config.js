@@ -1,1 +1,1 @@
-var mnemonic = "snake donkey sweet book latin bachelor praise about science hip price custom";
+var mnemonic = "police hair turtle cricket collect boy immune liquid leader twenty arctic sponsor";

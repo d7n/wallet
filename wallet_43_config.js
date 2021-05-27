@@ -1,1 +1,1 @@
-var mnemonic = "chicken acoustic talent aware approve earth auction depth pen patient skull predict";
+var mnemonic = "now credit rain stool physical anchor angle type planet remove pulse insect";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese link bunker bid entry earn coral chef pioneer any reason false";
+var mnemonic = "exist vivid foot orphan will figure dad broccoli slogan ozone true target";

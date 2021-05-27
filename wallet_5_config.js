@@ -1,1 +1,1 @@
-var mnemonic = "buyer vanish erode blind fresh model near found combine excuse disagree reward";
+var mnemonic = "suit income husband similar broom buyer more version click into arrest hub";

@@ -1,1 +1,1 @@
-var mnemonic = "either cover march sauce mad duty wide valid level habit proud car";
+var mnemonic = "drill shuffle doctor inquiry vault dose hint rally modify erode matrix trash";

@@ -1,1 +1,1 @@
-var mnemonic = "slot sure olive place uncle liquid ticket swap million novel empty truly";
+var mnemonic = "bronze gun glory harbor language provide pipe able response banana pact amateur";

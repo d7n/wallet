@@ -1,1 +1,1 @@
-var mnemonic = "planet miss shy image cloth want code actress hero else ladder walnut";
+var mnemonic = "firm color youth brief used nest seven silver exhaust undo feed veteran";

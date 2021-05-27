@@ -1,1 +1,1 @@
-var mnemonic = "couch dance prosper local foster opinion february ice library claim trip actual";
+var mnemonic = "crouch crouch share two age urge affair brain must kite mobile squirrel";

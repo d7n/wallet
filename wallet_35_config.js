@@ -1,1 +1,1 @@
-var mnemonic = "enter cruise grow elegant note situate vehicle speed horn shy rookie survey";
+var mnemonic = "method give fluid multiply burden indicate service theme advice review exact shove";

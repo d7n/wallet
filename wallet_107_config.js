@@ -1,1 +1,1 @@
-var mnemonic = "quick fun loop detail space rescue excess novel mouse crush lock relief";
+var mnemonic = "memory hollow kingdom noble stem fiction sleep describe outer edit winner dentist";

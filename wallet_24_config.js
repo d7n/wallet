@@ -1,1 +1,1 @@
-var mnemonic = "sunny cousin hybrid nut nominee uncle fall swear cart float earn tribe";
+var mnemonic = "cactus check rib fence fringe monkey neck mass verb require govern snack";

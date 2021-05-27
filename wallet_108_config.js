@@ -1,1 +1,1 @@
-var mnemonic = "leopard alley sausage cattle balance member have animal law palace suit ready";
+var mnemonic = "coin skate six crumble weather over poem banana banana vacant supply industry";

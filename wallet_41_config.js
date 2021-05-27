@@ -1,1 +1,1 @@
-var mnemonic = "silk protect syrup episode fold stool curve impact require during word soup";
+var mnemonic = "capable tonight alone suit horse settle refuse pilot three clip peasant accident";

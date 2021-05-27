@@ -1,1 +1,1 @@
-var mnemonic = "beef basket glow typical erosion camp avoid film purchase boss license miracle";
+var mnemonic = "tiger arrest possible unfair bronze two high runway nominee tail tip nut";

@@ -1,1 +1,1 @@
-var mnemonic = "advance uniform below flight they light problem profit mimic envelope scale quote";
+var mnemonic = "notice ring mass torch cattle video giant sniff wonder second horror laptop";

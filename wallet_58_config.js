@@ -1,1 +1,1 @@
-var mnemonic = "away produce audit follow valid moon deer unfold orbit gold between buddy";
+var mnemonic = "cargo summer spray skirt knee adapt squirrel various item loyal oval avocado";

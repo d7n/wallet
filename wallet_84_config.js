@@ -1,1 +1,1 @@
-var mnemonic = "blind milk pet glance smart warfare update language party insane crack fine";
+var mnemonic = "topic veteran marriage bone celery admit cruel march because tilt arrange disorder";

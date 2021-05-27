@@ -1,1 +1,1 @@
-var mnemonic = "token gate prison silent brush gadget hire twelve retire laugh horror arrange";
+var mnemonic = "horror aunt sniff hover august concert leisure dolphin laugh outer lazy weapon";

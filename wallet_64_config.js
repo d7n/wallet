@@ -1,1 +1,1 @@
-var mnemonic = "scorpion quality punch episode defy orange bullet result metal flat rubber rotate";
+var mnemonic = "clarify toilet guilt shift bird gesture april sport system affair invite upgrade";

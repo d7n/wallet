@@ -1,1 +1,1 @@
-var mnemonic = "limb maximum bike salmon flush ecology much copy soldier vintage turn season";
+var mnemonic = "grocery sock trap yard shop girl nuclear define require festival rack cushion";

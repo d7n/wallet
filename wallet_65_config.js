@@ -1,1 +1,1 @@
-var mnemonic = "suggest camera drop season inform about clever gorilla razor sell exchange ozone";
+var mnemonic = "bullet initial forget giggle inform effort cry sausage oppose awake guitar whale";

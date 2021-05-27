@@ -1,1 +1,1 @@
-var mnemonic = "brother spike juice draw exit entry vanish garlic lab crack canvas card";
+var mnemonic = "plate soda razor dismiss dinner beyond grunt shell castle debris hill craft";

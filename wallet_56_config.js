@@ -1,1 +1,1 @@
-var mnemonic = "expect jazz worth art pause magic pen dirt chronic absorb clinic wet";
+var mnemonic = "pair bulk cradle vessel stuff window dad dizzy ripple expire ask raise";

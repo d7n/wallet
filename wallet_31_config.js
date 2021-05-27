@@ -1,1 +1,1 @@
-var mnemonic = "faith motion nest clump kingdom injury tooth tree possible sure pole begin";
+var mnemonic = "easy siren load brick catch bottom illegal boring blood alarm surprise farm";

@@ -1,1 +1,1 @@
-var mnemonic = "various similar final angle escape noble depart gospel dial life leave penalty";
+var mnemonic = "swap trap more control delay drama despair embrace feed super ethics wet";

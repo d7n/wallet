@@ -1,1 +1,1 @@
-var mnemonic = "stand jazz exhibit wrap poverty own cereal machine roast connect history other";
+var mnemonic = "advice alien timber system treat consider club hill menu funny solar negative";

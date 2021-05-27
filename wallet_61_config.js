@@ -1,1 +1,1 @@
-var mnemonic = "autumn opera carry element anxiety fault urban spice valid fade kit ugly";
+var mnemonic = "kangaroo merge hazard legal focus fiction cream can december rich coast bonus";

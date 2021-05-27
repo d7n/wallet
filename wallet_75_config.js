@@ -1,1 +1,1 @@
-var mnemonic = "planet despair milk traffic furnace organ season pipe warfare avoid slow nature";
+var mnemonic = "tray wage brand able verb anxiety either fossil mushroom virtual fever fantasy";

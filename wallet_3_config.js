@@ -1,1 +1,1 @@
-var mnemonic = "fashion cherry artefact prison creek lyrics inspire brand inflict snack young skin";
+var mnemonic = "large episode icon square cheese forget water inmate vault music blanket coin";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon rigid chef dynamic nothing glance series crack remind burst solar naive";
+var mnemonic = "legend tiny rate soul water emerge until scan silver escape toast sad";

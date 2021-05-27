@@ -1,1 +1,1 @@
-var mnemonic = "siren public burden loud frequent nephew battle outdoor zebra middle caution unfold";
+var mnemonic = "crash floor law kit cake liberty sick tortoise success spring bridge menu";

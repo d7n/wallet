@@ -1,1 +1,1 @@
-var mnemonic = "plate annual canal kick bird adjust amateur loop old craft dog donkey";
+var mnemonic = "fame mystery dizzy measure indoor grape camp lemon correct sport wagon spend";

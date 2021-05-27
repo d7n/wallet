@@ -1,1 +1,1 @@
-var mnemonic = "captain step poet lottery slice fresh bamboo axis paper girl slice thank";
+var mnemonic = "message wife fatal night bone parrot path multiply milk battle viable nominee";

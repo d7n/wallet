@@ -1,1 +1,1 @@
-var mnemonic = "bubble siege relax hunt skill hotel local where ice pottery smart kiss";
+var mnemonic = "fix run sustain right slam shadow milk divide bunker soap maximum usual";

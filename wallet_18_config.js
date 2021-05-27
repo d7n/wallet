@@ -1,1 +1,1 @@
-var mnemonic = "height repeat castle meadow silk gym indicate open lens pupil have project";
+var mnemonic = "magic donate gold hundred initial woman grant exotic great bullet outside stool";

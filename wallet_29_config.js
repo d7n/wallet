@@ -1,1 +1,1 @@
-var mnemonic = "lawn scrap more jeans hen olympic throw detail upgrade fringe floor lens";
+var mnemonic = "laptop father jelly worth violin dress improve help stumble idea approve wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "belt quiz grid bicycle latin beauty region gesture glad escape bridge acquire";
+var mnemonic = "immune shadow rally rose tell flash art paddle uphold private length devote";

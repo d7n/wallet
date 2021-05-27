@@ -1,1 +1,1 @@
-var mnemonic = "harbor deny afford glide banner mail pilot clutch train tennis swim open";
+var mnemonic = "coast scorpion envelope palm valve top confirm barely enlist combine flavor aisle";

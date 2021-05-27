@@ -1,1 +1,1 @@
-var mnemonic = "rose sense cactus input ocean oak lesson they until shuffle endorse income";
+var mnemonic = "unlock hobby cheap carry success tonight into supreme pupil reflect gold rally";

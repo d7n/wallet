@@ -1,1 +1,1 @@
-var mnemonic = "topple test grab film what style regular hope cradle dizzy curious zebra";
+var mnemonic = "dawn unveil carbon trend object stem wild mesh another garlic vessel sad";

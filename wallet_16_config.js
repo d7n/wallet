@@ -1,1 +1,1 @@
-var mnemonic = "spider drop jacket during caution great often heavy sugar fabric reveal across";
+var mnemonic = "uncover online hover regular neither inch attitude chronic speed ozone misery hospital";

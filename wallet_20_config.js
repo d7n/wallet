@@ -1,1 +1,1 @@
-var mnemonic = "slim essay crucial antique eternal bracket secret dish oven document pulp survey";
+var mnemonic = "movie since head visual grief demise know term drum proof speak business";

@@ -1,1 +1,1 @@
-var mnemonic = "lock knock alone acoustic draw blossom habit want track broken fetch afraid";
+var mnemonic = "tribe nurse essay naive ill negative strike pear crop twelve unfold riot";

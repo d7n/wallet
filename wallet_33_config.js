@@ -1,1 +1,1 @@
-var mnemonic = "erosion leisure charge accuse excess birth uphold hurdle series toy verify neutral";
+var mnemonic = "orphan diagram accident catalog key rather foam clog drill what dismiss involve";

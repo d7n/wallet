@@ -1,1 +1,1 @@
-var mnemonic = "ladder much obvious during govern coach brush gaze cash boost gravity slab";
+var mnemonic = "priority pole guitar minute alter enjoy inspire involve type daughter soccer payment";

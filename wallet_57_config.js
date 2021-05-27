@@ -1,1 +1,1 @@
-var mnemonic = "color brain winter plate exhaust blush shield isolate front blue yellow twenty";
+var mnemonic = "enrich capital betray describe fox practice unable lift cabbage smoke lumber shrug";

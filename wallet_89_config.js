@@ -1,1 +1,1 @@
-var mnemonic = "venue desert burden diesel laundry measure toast endorse airport major enforce owner";
+var mnemonic = "glory when exit matrix forum organ can below exact sponsor spice water";

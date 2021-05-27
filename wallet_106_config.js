@@ -1,1 +1,1 @@
-var mnemonic = "pave vicious card save calm grape bread flight worry myself concert giraffe";
+var mnemonic = "kite program people birth width tent yellow fence estate online twice limit";

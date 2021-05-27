@@ -1,1 +1,1 @@
-var mnemonic = "section chief able hair door kit isolate suit group social pond grain";
+var mnemonic = "duck cram parade click stove beach fish garlic cluster place team keep";

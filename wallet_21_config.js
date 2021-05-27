@@ -1,1 +1,1 @@
-var mnemonic = "idea assume spider lift once alien climb crisp exist pupil wrong coconut";
+var mnemonic = "grief blouse bulk best maple general team yellow else creek agent more";

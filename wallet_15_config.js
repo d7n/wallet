@@ -1,1 +1,1 @@
-var mnemonic = "resemble hello sausage address crane sweet junior north copy cable venture kingdom";
+var mnemonic = "fame scout gadget people slow blind display mesh hockey win save fresh";

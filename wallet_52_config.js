@@ -1,1 +1,1 @@
-var mnemonic = "glory moment curve slender wrist powder control direct ozone tiger undo access";
+var mnemonic = "trophy cloud toward meat message change ordinary panic shed this circle purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect memory share cream spice ride one jar ghost jaguar forget glide";
+var mnemonic = "ridge police siege despair false elephant assault similar damage animal flash tower";

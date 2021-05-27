@@ -1,1 +1,1 @@
-var mnemonic = "seat cause sausage point suit cover oyster again salute flock lucky empower";
+var mnemonic = "number jump pact popular media range chimney forest time attend merit element";

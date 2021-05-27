@@ -1,1 +1,1 @@
-var mnemonic = "system dismiss nominee comic bargain grant same resist wheel truth truck gate";
+var mnemonic = "alien light stadium shield attract truck amazing cry gown badge multiply coach";

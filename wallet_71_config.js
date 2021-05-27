@@ -1,1 +1,1 @@
-var mnemonic = "upper spray lab bullet ski maze toward recipe pelican grocery lemon piano";
+var mnemonic = "bus meadow obvious skull chimney rally silver rural drum sheriff demand sun";

@@ -1,1 +1,1 @@
-var mnemonic = "update cost wreck fantasy buzz foil erupt zero craft behind brick assume";
+var mnemonic = "dwarf loan sheriff defy glance scheme ankle cage buddy valley camera guard";

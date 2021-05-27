@@ -1,1 +1,1 @@
-var mnemonic = "index monkey sail rotate pudding manage chair vote buddy resist pyramid gown";
+var mnemonic = "trial zero marble essay enforce final session layer opinion medal decorate guitar";

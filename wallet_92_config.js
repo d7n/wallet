@@ -1,1 +1,1 @@
-var mnemonic = "state zero leader present inhale wool erase kitten jacket tomato happy drift";
+var mnemonic = "annual measure call steel radar asset strong present hotel wreck sibling output";

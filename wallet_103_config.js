@@ -1,1 +1,1 @@
-var mnemonic = "caution debate anger gossip rich improve road fault pudding grass among utility";
+var mnemonic = "course neither retreat tell achieve use wolf lab sponsor execute blood prosper";

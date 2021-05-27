@@ -1,1 +1,1 @@
-var mnemonic = "arrive tackle edge few economy junk salute funny boss sign sausage owner";
+var mnemonic = "punch vast bind confirm virtual survey useful around ridge wheel panel ugly";

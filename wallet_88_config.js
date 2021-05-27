@@ -1,1 +1,1 @@
-var mnemonic = "table thumb clog exclude bless ring ivory strike agent cement illegal antenna";
+var mnemonic = "essence correct hollow time tube keen nose expect carbon arrange clean nuclear";

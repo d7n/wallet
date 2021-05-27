@@ -1,1 +1,1 @@
-var mnemonic = "expose garden iron dose club dry panther farm smoke snap chief memory";
+var mnemonic = "sister must crane nephew puzzle street poet vast mansion avocado term limb";

@@ -1,1 +1,1 @@
-var mnemonic = "entry master cradle simple cotton issue census media maze venture crowd there";
+var mnemonic = "walnut prefer visual shrug tooth want fence estate obvious nose chat foil";

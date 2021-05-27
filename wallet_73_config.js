@@ -1,1 +1,1 @@
-var mnemonic = "bullet ostrich swim round immune riot jump embody chief myself pair drastic";
+var mnemonic = "seed work point saddle crash tackle loop merry army path orbit lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "area spray square spray amazing gap neutral riot joy useful okay flat";
+var mnemonic = "advice door chalk item chicken tail van swap liberty region brass together";

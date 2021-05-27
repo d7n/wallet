@@ -1,1 +1,1 @@
-var mnemonic = "liberty wasp elder comfort ocean govern vanish visit extend resemble unfold fix";
+var mnemonic = "glance cat short valid craft daughter travel onion suffer melt young kit";

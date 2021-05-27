@@ -1,1 +1,1 @@
-var mnemonic = "harvest direct lady truck charge enhance vessel beach soap either misery square";
+var mnemonic = "receive member remain walnut alone pass alcohol awkward scissors filter canoe high";

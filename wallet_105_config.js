@@ -1,1 +1,1 @@
-var mnemonic = "glare canyon suspect august display outside trouble razor run art van sand";
+var mnemonic = "hotel car gossip wine powder basic process mobile december poverty casino mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "inform undo choose session side medal reveal risk yard mail slight already";
+var mnemonic = "comic bulk month deliver raise coast stuff arm sunny network boil dwarf";

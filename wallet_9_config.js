@@ -1,1 +1,1 @@
-var mnemonic = "nasty tribe weekend bundle power vanish gold green stadium average jeans syrup";
+var mnemonic = "wealth humor sample congress mixture muffin carry mix guess below liar then";

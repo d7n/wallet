@@ -1,1 +1,1 @@
-var mnemonic = "more photo onion parade accident divorce tribe again race enough mad refuse";
+var mnemonic = "worth mesh address dynamic act during marriage rather sock pull click era";

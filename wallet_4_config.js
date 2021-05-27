@@ -1,1 +1,1 @@
-var mnemonic = "warfare audit song nurse tail version early north awesome museum barely faculty";
+var mnemonic = "excuse wool divert true tennis spy damp shoot eagle more hazard corn";

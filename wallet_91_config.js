@@ -1,1 +1,1 @@
-var mnemonic = "food setup step welcome hint you thumb hurt zebra when find junior";
+var mnemonic = "employ rifle connect trial globe there ghost student trumpet absorb sketch merge";

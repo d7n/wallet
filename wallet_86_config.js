@@ -1,1 +1,1 @@
-var mnemonic = "include apology nice hour salt various plastic upgrade danger shine home wait";
+var mnemonic = "believe thing cream choice comic order spot mammal remove ankle gallery welcome";

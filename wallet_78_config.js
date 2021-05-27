@@ -1,1 +1,1 @@
-var mnemonic = "pact acid skirt guilt move public pelican gold inside what nephew roof";
+var mnemonic = "donkey coffee pottery meadow soda stock short video doll average slow milk";

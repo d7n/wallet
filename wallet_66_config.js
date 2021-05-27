@@ -1,1 +1,1 @@
-var mnemonic = "rotate answer estate hunt enhance payment blossom empower crime abstract little boss";
+var mnemonic = "apple eager peasant night verb phone wreck acoustic universe aim travel sadness";

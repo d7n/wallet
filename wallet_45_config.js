@@ -1,1 +1,1 @@
-var mnemonic = "spell purse silly spike cargo time struggle obscure scan measure easy city";
+var mnemonic = "globe smooth raccoon hotel miss era shy color supply report section jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "when blood wine need above cattle cushion gas donkey hole face include";
+var mnemonic = "transfer puppy icon crawl echo duty grab scissors dizzy glance guard bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong utility claim hope shell pizza replace grocery fold genuine east fringe";
+var mnemonic = "label loan myth luggage journey drop family era end wink blouse gun";

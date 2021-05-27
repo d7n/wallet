@@ -1,1 +1,1 @@
-var mnemonic = "lounge credit tired home empty purse aim notable pact stock cereal tube";
+var mnemonic = "dismiss bless alley repeat beef spare vague load friend client distance beach";

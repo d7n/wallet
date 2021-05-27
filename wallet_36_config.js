@@ -1,1 +1,1 @@
-var mnemonic = "require devote coral game circle hen tiny useful roof dry trick sweet";
+var mnemonic = "asset provide boss whale parrot proof random behave satoshi capable lake absent";
