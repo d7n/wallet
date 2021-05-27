@@ -1,1 +1,1 @@
-var mnemonic = "sadness lounge depend gossip volcano title broken hover approve winter penalty year";
+var mnemonic = "across chest inform mammal picnic genuine kiss below rack picture panther twist";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp suffer yard jungle horse doctor perfect assume relief solution rude hire";
+var mnemonic = "pulp fatigue acquire name two crucial involve insane around summer fox audit";

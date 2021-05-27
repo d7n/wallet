@@ -1,1 +1,1 @@
-var mnemonic = "loyal field click stick fabric adult cancel stay blanket vote fruit wear";
+var mnemonic = "noise place hurt mad icon humor gap clap coil impulse library enough";

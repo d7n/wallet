@@ -1,1 +1,1 @@
-var mnemonic = "priority area sense scheme file soccer auction salute stable year wrist session";
+var mnemonic = "tuition index stereo moment slam symptom oval begin find route capital faith";

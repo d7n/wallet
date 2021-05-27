@@ -1,1 +1,1 @@
-var mnemonic = "equal fashion embody endless dutch ramp spawn machine horse excuse medal swift";
+var mnemonic = "lemon garment sail symptom genius solid cash liquid hunt way minute scout";

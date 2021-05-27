@@ -1,1 +1,1 @@
-var mnemonic = "jelly express rifle kite kangaroo vacant entry scatter trouble wise nurse help";
+var mnemonic = "chicken front slab learn salon feed idle hip slender become sniff bulk";

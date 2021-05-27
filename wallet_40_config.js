@@ -1,1 +1,1 @@
-var mnemonic = "pulse hidden key enjoy universe right garbage ten ugly work improve advance";
+var mnemonic = "donkey lyrics attract club deputy myself east trigger rude guilt wealth cigar";

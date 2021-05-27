@@ -1,1 +1,1 @@
-var mnemonic = "sibling sibling orient already shock element device chicken wear hen snow nice";
+var mnemonic = "put apart awake response pepper weather occur they copy valley alcohol that";

@@ -1,1 +1,1 @@
-var mnemonic = "soon mirror sell hat foil lizard second income another vanish reason galaxy";
+var mnemonic = "park grab cram online frown gallery can avocado brick portion violin brave";

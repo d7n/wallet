@@ -1,1 +1,1 @@
-var mnemonic = "split west peace rich solve shell laugh blossom flame eagle wage orient";
+var mnemonic = "crew will drink parent pioneer neck parrot ecology tree hamster blame lunar";

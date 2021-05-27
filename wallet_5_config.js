@@ -1,1 +1,1 @@
-var mnemonic = "dizzy inner add end benefit cliff donate cushion future jump burger common";
+var mnemonic = "total love pottery category regular fresh ribbon judge unique solve bean dutch";

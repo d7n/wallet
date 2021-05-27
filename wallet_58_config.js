@@ -1,1 +1,1 @@
-var mnemonic = "draft tonight hold project secret pyramid one chat appear sick person brave";
+var mnemonic = "infant crucial luxury position notice keen oak yellow simple embrace ticket alcohol";

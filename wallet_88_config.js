@@ -1,1 +1,1 @@
-var mnemonic = "school obscure giraffe flavor dove skill knock follow squirrel fortune attend marriage";
+var mnemonic = "between height matter shop crawl before doctor host draft spoil kitchen decorate";

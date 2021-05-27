@@ -1,1 +1,1 @@
-var mnemonic = "repeat antique use dolphin circle machine foster twin fashion plug run orphan";
+var mnemonic = "tooth pill topic almost tag shoulder supply reject swallow describe either fork";

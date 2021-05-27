@@ -1,1 +1,1 @@
-var mnemonic = "truth pave tone shuffle forward tool lab video doctor sibling decorate cereal";
+var mnemonic = "fish chapter sport expand hint laundry maze decorate fatal mixed remind video";

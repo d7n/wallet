@@ -1,1 +1,1 @@
-var mnemonic = "drive cactus pink dance quick burst float exhibit wait faint hand horn";
+var mnemonic = "song marine actress sadness clap miracle host until earth pool library giraffe";

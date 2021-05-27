@@ -1,1 +1,1 @@
-var mnemonic = "arch office tribe dress labor cute sleep nation mouse history ribbon prepare";
+var mnemonic = "jeans quarter submit catalog pencil clerk adult popular legal broccoli ceiling wire";

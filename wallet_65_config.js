@@ -1,1 +1,1 @@
-var mnemonic = "april crash bounce net conduct prefer leader wheel lab pool blame cool";
+var mnemonic = "owner dream pull mushroom october broccoli logic say subject gadget grab suit";

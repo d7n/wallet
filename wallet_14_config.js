@@ -1,1 +1,1 @@
-var mnemonic = "maximum join congress august useless inject subway ride usage race wing scrap";
+var mnemonic = "old carry latin hamster monkey need anchor kingdom tape visa million tired";

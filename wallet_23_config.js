@@ -1,1 +1,1 @@
-var mnemonic = "slogan pear elite hub fiscal decorate demise cousin annual bitter tooth hunt";
+var mnemonic = "leisure order tiny include chicken student width piano silent sure tilt soap";

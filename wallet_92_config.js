@@ -1,1 +1,1 @@
-var mnemonic = "fiscal diamond find dumb rose shove price combine position reform alert lens";
+var mnemonic = "peace thing slab column target refuse news use book area picnic always";

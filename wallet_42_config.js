@@ -1,1 +1,1 @@
-var mnemonic = "coconut since confirm release motor rhythm minor ride wrong exercise crouch now";
+var mnemonic = "virus oven hospital drink joy exotic input hat gaze crunch pear nominee";

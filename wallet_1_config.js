@@ -1,1 +1,1 @@
-var mnemonic = "castle govern jealous basic just absorb size royal camera hip hello spin";
+var mnemonic = "paper approve scrap island much very cloud develop road swallow sound symbol";

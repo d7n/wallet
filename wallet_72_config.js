@@ -1,1 +1,1 @@
-var mnemonic = "bitter please sound sheriff gift must switch gorilla cram round urge hospital";
+var mnemonic = "sad wink nut slice any steak keep giant chronic raccoon rough mix";

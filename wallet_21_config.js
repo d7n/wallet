@@ -1,1 +1,1 @@
-var mnemonic = "knife number opinion enjoy distance worth awake just dwarf student tomorrow army";
+var mnemonic = "immense when since wheel exit faint home wheat remain subject lyrics pulp";

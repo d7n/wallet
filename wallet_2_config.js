@@ -1,1 +1,1 @@
-var mnemonic = "dawn basic heavy voice decorate obtain balcony palace flee ugly panda alien";
+var mnemonic = "poem immense plastic arrive oven agree cry program hurry pear loyal fish";

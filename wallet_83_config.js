@@ -1,1 +1,1 @@
-var mnemonic = "tragic prepare flock nest find dress insane vacuum violin run discover skate";
+var mnemonic = "canal spell expire limit coin dog twist mother spend current loyal physical";

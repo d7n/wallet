@@ -1,1 +1,1 @@
-var mnemonic = "torch sausage prefer pepper coconut february dish glimpse alpha voyage service heart";
+var mnemonic = "deny baby acoustic bacon choice anxiety notable offer need warm chimney legal";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster spring metal brush genius dose canvas insane liquid fat lazy dice";
+var mnemonic = "consider that project grab want pink submit hunt pelican switch local labor";

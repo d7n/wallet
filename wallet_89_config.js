@@ -1,1 +1,1 @@
-var mnemonic = "mercy ozone spoon resist someone connect addict youth weird stable conduct menu";
+var mnemonic = "bomb question sad mimic charge brick soul check waste napkin age turn";

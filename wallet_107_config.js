@@ -1,1 +1,1 @@
-var mnemonic = "next drop begin plug gospel tiger grid raven filter gas romance bid";
+var mnemonic = "toss onion innocent treat cluster pattern govern beef emerge piano chest grunt";

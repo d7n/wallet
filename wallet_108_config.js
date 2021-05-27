@@ -1,1 +1,1 @@
-var mnemonic = "romance sing upon intact seminar impact maid subject winner negative vault recall";
+var mnemonic = "lady arctic impulse dry refuse law dinosaur panic sock finger alpha gown";

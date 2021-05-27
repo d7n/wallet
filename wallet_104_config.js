@@ -1,1 +1,1 @@
-var mnemonic = "siege behind bunker rich slender impact pen kangaroo cost leisure good expand";
+var mnemonic = "gadget fog able elder hero inside shove ship lecture elephant ivory field";

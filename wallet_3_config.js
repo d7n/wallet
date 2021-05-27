@@ -1,1 +1,1 @@
-var mnemonic = "list rebuild host pond cousin dash amused author exit water stand tooth";
+var mnemonic = "dignity rally plastic escape verify giant actual excuse suffer absent maid tray";

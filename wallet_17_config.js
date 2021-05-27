@@ -1,1 +1,1 @@
-var mnemonic = "dutch whip strong consider pink country occur screen kiss cute expire guilt";
+var mnemonic = "canal gorilla mean find under elite solar walk tornado repeat upgrade power";

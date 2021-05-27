@@ -1,1 +1,1 @@
-var mnemonic = "weird march aisle eye coyote tube pride mango boat planet ecology wheel";
+var mnemonic = "mushroom lend scare mystery puppy cage dynamic arch monster museum brand merge";

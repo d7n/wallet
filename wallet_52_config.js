@@ -1,1 +1,1 @@
-var mnemonic = "phone car fringe pitch hamster huge letter pumpkin rich panel boost say";
+var mnemonic = "office violin column buyer champion ask track shed enrich team fancy oblige";

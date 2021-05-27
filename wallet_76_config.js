@@ -1,1 +1,1 @@
-var mnemonic = "teach tip arrange demand large stay dash burger bachelor input hawk decade";
+var mnemonic = "enhance ignore pony obey grocery wool right stuff cover enhance decide admit";

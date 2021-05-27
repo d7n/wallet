@@ -1,1 +1,1 @@
-var mnemonic = "twenty relax humble diary maid poem expire wisdom bread chase click space";
+var mnemonic = "unit patch entire gorilla plate faith chapter school output drill neutral pigeon";

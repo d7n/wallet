@@ -1,1 +1,1 @@
-var mnemonic = "since viable salt hamster soon warfare judge current emerge trash menu general";
+var mnemonic = "stove across cloth anger feed rough mansion system remain world fire sight";

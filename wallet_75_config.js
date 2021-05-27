@@ -1,1 +1,1 @@
-var mnemonic = "various repair frown worry want crumble device cheese mean ice duty cream";
+var mnemonic = "scorpion vessel decline blast flavor shy trust common cinnamon friend stumble during";

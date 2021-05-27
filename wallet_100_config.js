@@ -1,1 +1,1 @@
-var mnemonic = "grid butter ranch essay forget transfer tower wheat flat ahead food convince";
+var mnemonic = "arrange taste doll sail traffic lamp share flash sight half sight coin";

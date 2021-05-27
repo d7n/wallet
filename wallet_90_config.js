@@ -1,1 +1,1 @@
-var mnemonic = "wisdom moral luggage silver phrase romance erase that brief pigeon myth length";
+var mnemonic = "slot sheriff include carpet lamp regular young cloud scorpion moon wedding isolate";

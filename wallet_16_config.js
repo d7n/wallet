@@ -1,1 +1,1 @@
-var mnemonic = "voyage member soap garment jar pulse double target veteran brisk raccoon vessel";
+var mnemonic = "impulse proud thrive argue anxiety jaguar drip empty giant tape interest case";

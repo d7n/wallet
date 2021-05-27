@@ -1,1 +1,1 @@
-var mnemonic = "sustain satoshi waste truth scissors top maze sugar cabbage train gloom mammal";
+var mnemonic = "under glory marriage stool blind enrich rice pelican inflict captain exercise reform";

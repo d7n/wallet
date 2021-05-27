@@ -1,1 +1,1 @@
-var mnemonic = "pact bind doll tide bleak day rally analyst plug valley prepare joy";
+var mnemonic = "favorite bachelor scissors nurse gentle muscle mirror wonder monkey beef divert indoor";

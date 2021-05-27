@@ -1,1 +1,1 @@
-var mnemonic = "increase coast carbon fiber skull food domain unlock abstract good scheme brother";
+var mnemonic = "type quarter flat lawsuit poverty mandate select erupt inflict wild scale knee";

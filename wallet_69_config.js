@@ -1,1 +1,1 @@
-var mnemonic = "enter daring until fly pottery mixture dentist noise deposit barrel early glad";
+var mnemonic = "survey exclude still upgrade mosquito myth illness volcano monkey funny sniff suggest";

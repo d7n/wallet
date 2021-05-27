@@ -1,1 +1,1 @@
-var mnemonic = "maximum load brown game donate panel win invite flash hidden panther wrestle";
+var mnemonic = "scorpion glow capital head cake wine check bind sting network tenant wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "timber broken ozone muffin explain oxygen blur empower sample bachelor slush title";
+var mnemonic = "liberty double powder state route scene claim project badge wood shoe sudden";

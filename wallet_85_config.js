@@ -1,1 +1,1 @@
-var mnemonic = "toss exercise six vicious mule stove dumb shove toddler solve index insane";
+var mnemonic = "nut disease venue yard kit right gas hood require fortune metal faculty";

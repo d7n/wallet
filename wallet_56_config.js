@@ -1,1 +1,1 @@
-var mnemonic = "salad cube change once floor limb runway unfair essay easily attack approve";
+var mnemonic = "tattoo peanut pottery spoon poverty disagree satoshi there century vote match wrap";

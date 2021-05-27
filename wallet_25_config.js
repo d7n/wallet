@@ -1,1 +1,1 @@
-var mnemonic = "media fire zoo measure water wink chat blind they couch aware dream";
+var mnemonic = "metal general recycle nut demand helmet stairs forward pole club remind tilt";

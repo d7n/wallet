@@ -1,1 +1,1 @@
-var mnemonic = "walk relief another stuff volcano account enter ugly quantum shock bone armor";
+var mnemonic = "please undo verify base they false sea keep noble meadow agree once";

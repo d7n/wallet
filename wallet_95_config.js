@@ -1,1 +1,1 @@
-var mnemonic = "moon bless bone special ready december earn castle boss crunch charge gift";
+var mnemonic = "depth crash exercise embark oak advance consider firm relax leaf robot toe";

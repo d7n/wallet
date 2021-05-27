@@ -1,1 +1,1 @@
-var mnemonic = "lunch also punch plate three scissors silly forget fly dilemma creek firm";
+var mnemonic = "omit strong tongue hole lonely cram divorce return poverty attack more twin";

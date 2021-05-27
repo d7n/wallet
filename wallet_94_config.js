@@ -1,1 +1,1 @@
-var mnemonic = "home utility mushroom art dose spoil glue abandon easy dry pilot hero";
+var mnemonic = "purchase know couch upper arrive swarm label rain rude memory segment cool";

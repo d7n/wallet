@@ -1,1 +1,1 @@
-var mnemonic = "item cart cool weather wedding fire step broccoli sword dash fitness panel";
+var mnemonic = "web trigger right summer limit usage apology second camera install entire tool";

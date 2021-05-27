@@ -1,1 +1,1 @@
-var mnemonic = "occur sail dawn dish nest lobster olive expect thought glory prize diesel";
+var mnemonic = "sand quote switch rapid opera cycle disagree route local husband proud fuel";

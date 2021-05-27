@@ -1,1 +1,1 @@
-var mnemonic = "travel basket much spring mimic valve true regular fancy bicycle capable scrub";
+var mnemonic = "liquid night inflict crisp pig coil dress top seat market blush priority";

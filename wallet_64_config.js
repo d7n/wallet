@@ -1,1 +1,1 @@
-var mnemonic = "home month absent acquire lemon pride neither zoo apart law media much";
+var mnemonic = "wall enemy cat canyon ritual jungle work leave group carry square blade";

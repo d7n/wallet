@@ -1,1 +1,1 @@
-var mnemonic = "dose bonus piano nephew alert home sun spawn charge eager senior feed";
+var mnemonic = "brick welcome security lion uncover spring excess shadow aware nephew very connect";

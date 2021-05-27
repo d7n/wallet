@@ -1,1 +1,1 @@
-var mnemonic = "stadium relax fine tobacco fee glare before this fine lens garment guide";
+var mnemonic = "letter best cannon luxury defy build trend south network rent report pass";

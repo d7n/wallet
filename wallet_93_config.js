@@ -1,1 +1,1 @@
-var mnemonic = "drink load prize surge among quality access toy sand what begin genuine";
+var mnemonic = "snake region river knee sweet focus cost abstract deputy route road fetch";

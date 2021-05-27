@@ -1,1 +1,1 @@
-var mnemonic = "under rude start around pistol style brown net sponsor grape limb hotel";
+var mnemonic = "achieve bid salt search grief grief tomorrow load cousin thrive sea adult";

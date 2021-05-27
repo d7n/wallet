@@ -1,1 +1,1 @@
-var mnemonic = "live enter possible equal service valve thrive apology spirit enter clay arm";
+var mnemonic = "bronze media ankle kick box fashion assume attract sunny word elegant make";

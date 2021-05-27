@@ -1,1 +1,1 @@
-var mnemonic = "security random funny theory absurd soda robust idle student tower peanut actress";
+var mnemonic = "ability crash bicycle awake hawk gap roast pass air enhance steel portion";

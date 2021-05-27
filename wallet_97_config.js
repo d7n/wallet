@@ -1,1 +1,1 @@
-var mnemonic = "hybrid giggle owner reform master already want save cart shrug narrow powder";
+var mnemonic = "retreat offer because forget wealth caution crew quiz donkey girl gun grant";

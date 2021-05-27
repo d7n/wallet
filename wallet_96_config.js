@@ -1,1 +1,1 @@
-var mnemonic = "foam critic oil then summer update clinic rain then icon need permit";
+var mnemonic = "web coach joke episode hammer series faith glove food walk limit tunnel";

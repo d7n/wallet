@@ -1,1 +1,1 @@
-var mnemonic = "actress ribbon energy artefact label become liar uniform exit mobile parade ship";
+var mnemonic = "stool copper avocado midnight erosion myth cliff toilet excuse badge velvet weather";

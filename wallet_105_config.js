@@ -1,1 +1,1 @@
-var mnemonic = "sand spell acid truth install vital venue grocery luggage large symbol actress";
+var mnemonic = "rice empower found erosion gravity farm knock fatigue myth earth junk nature";

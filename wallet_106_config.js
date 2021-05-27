@@ -1,1 +1,1 @@
-var mnemonic = "release unaware group enroll patient enter drama odor annual tuna patch hobby";
+var mnemonic = "ancient banana caution garbage radar concert earth hurry milk canal play title";

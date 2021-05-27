@@ -1,1 +1,1 @@
-var mnemonic = "enrich actress life drive drip lift donate pass mention corn glance athlete";
+var mnemonic = "gospel know cactus maid mean choice skull wing glow apple measure pen";

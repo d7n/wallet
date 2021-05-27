@@ -1,1 +1,1 @@
-var mnemonic = "solution scissors actual seed erode victory depart dash client census moon tail";
+var mnemonic = "claim dinosaur hurt rival trick fat melody night view curious road empty";

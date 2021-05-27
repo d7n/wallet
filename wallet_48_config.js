@@ -1,1 +1,1 @@
-var mnemonic = "wool gloom age skirt drastic olive rude camp defy similar property twice";
+var mnemonic = "catch exclude panel indoor pledge furnace excuse clay atom way sport laugh";

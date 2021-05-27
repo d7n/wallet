@@ -1,1 +1,1 @@
-var mnemonic = "swear hedgehog gain just replace shrimp solve eager aisle believe ice dress";
+var mnemonic = "belt beach barely prevent winner obey meat clever pulp library basket brown";

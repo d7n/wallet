@@ -1,1 +1,1 @@
-var mnemonic = "balance you trap deputy jazz live garment orient design armed satoshi fruit";
+var mnemonic = "enforce corn soft describe silent because upgrade weekend thank banana year seminar";

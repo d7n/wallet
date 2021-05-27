@@ -1,1 +1,1 @@
-var mnemonic = "stereo uncle earth recall cereal join bird recall conduct upon online report";
+var mnemonic = "carbon call design void normal hazard emotion skate urge fix butter vital";

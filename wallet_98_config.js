@@ -1,1 +1,1 @@
-var mnemonic = "outer toward pear order blanket submit miss bachelor pitch fold intact nature";
+var mnemonic = "rail direct license blue one pistol zero chuckle claim meadow since bullet";

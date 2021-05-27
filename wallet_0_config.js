@@ -1,1 +1,1 @@
-var mnemonic = "jump twenty blanket tribe pencil element type mansion february corn biology that";
+var mnemonic = "fiction wink spread rate shine robot inhale canoe shaft indicate prepare crazy";

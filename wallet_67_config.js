@@ -1,1 +1,1 @@
-var mnemonic = "answer better home key river wrap maximum water across turkey dragon march";
+var mnemonic = "uniform comic split goat promote float food raccoon genuine limit federal blame";

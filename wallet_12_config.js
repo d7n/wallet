@@ -1,1 +1,1 @@
-var mnemonic = "dawn oxygen casual avoid open wing silent mad inherit exclude mule draw";
+var mnemonic = "shoot now exhaust mean gate push fade juice drum cruise young travel";

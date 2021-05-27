@@ -1,1 +1,1 @@
-var mnemonic = "dose lazy leg danger special flee type sell leader parent robust action";
+var mnemonic = "mistake solid people sheriff rally right rabbit regular trial treat buzz embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla humble wave fan unique churn isolate core all chimney already chimney";
+var mnemonic = "move tomato stairs grab screen surge cruise track urban tired hospital lawsuit";

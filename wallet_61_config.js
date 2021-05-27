@@ -1,1 +1,1 @@
-var mnemonic = "indicate appear real isolate media prison clump enjoy electric work collect fiction";
+var mnemonic = "child comic exit clinic mandate gather list honey nation leave thrive relax";

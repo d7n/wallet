@@ -1,1 +1,1 @@
-var mnemonic = "naive embark coach bacon state life laugh grit tube trouble siren normal";
+var mnemonic = "casino south what trap gift file mass flower candy manage omit sock";

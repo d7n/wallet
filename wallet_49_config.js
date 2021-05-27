@@ -1,1 +1,1 @@
-var mnemonic = "sting nasty gift when artefact dwarf fossil payment review innocent tissue cruise";
+var mnemonic = "ten open capable follow grit minute culture episode amazing dry airport blind";

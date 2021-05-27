@@ -1,1 +1,1 @@
-var mnemonic = "huge attitude access true caution mistake easy hand valley burger setup mobile";
+var mnemonic = "siege coast purchase there filter denial remain ship release toward stage risk";

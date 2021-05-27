@@ -1,1 +1,1 @@
-var mnemonic = "blast icon crater globe trust enemy surprise boost century certain tomorrow leader";
+var mnemonic = "beauty label peasant garlic visit busy impact act behave alcohol year okay";

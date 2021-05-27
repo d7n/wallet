@@ -1,1 +1,1 @@
-var mnemonic = "tragic bar rug napkin wife must picnic degree shine market stem episode";
+var mnemonic = "similar argue animal barely quit decide crack moral abstract dog major broccoli";

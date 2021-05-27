@@ -1,1 +1,1 @@
-var mnemonic = "number trumpet corn town decline critic wave woman margin meat man multiply";
+var mnemonic = "agree learn rather plastic agree must educate luggage decrease neglect script twist";

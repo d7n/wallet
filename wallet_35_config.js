@@ -1,1 +1,1 @@
-var mnemonic = "fault comfort custom track hole desk someone guilt blame torch intact screen";
+var mnemonic = "skirt hurt explain floor problem custom turn curious senior expire detail first";

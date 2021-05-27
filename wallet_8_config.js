@@ -1,1 +1,1 @@
-var mnemonic = "point regret bus cradle fringe skate eyebrow spend imitate finish robot myth";
+var mnemonic = "board bottom icon sense viable siege volume glide alley merge armed feature";

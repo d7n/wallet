@@ -1,1 +1,1 @@
-var mnemonic = "excess account immune furnace thumb dry upper describe humor domain rhythm follow";
+var mnemonic = "digital drive barely museum cotton grain injury found sing stick fan pyramid";

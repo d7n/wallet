@@ -1,1 +1,1 @@
-var mnemonic = "bind shove economy hill life hill shoe wool garbage mushroom luxury tomorrow";
+var mnemonic = "slender label yellow useless example axis canoe light fence lemon glove frozen";

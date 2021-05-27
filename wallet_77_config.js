@@ -1,1 +1,1 @@
-var mnemonic = "mammal sing false squeeze skill candy universe human gold ordinary sugar despair";
+var mnemonic = "topple obtain middle weapon dizzy asset leaf credit borrow upon dove where";
