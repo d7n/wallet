@@ -1,1 +1,1 @@
-var mnemonic = "explain style base veteran grid cattle potato useful actor grace beach sample";
+var mnemonic = "kick trend people general dignity impact thank proof shock tiger sleep blue";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel guitar remind palm blind fever donor wink depart wheel mother park";
+var mnemonic = "twenty camera expect record joy shuffle waste brass stove assume waste faculty";

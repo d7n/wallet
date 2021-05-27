@@ -1,1 +1,1 @@
-var mnemonic = "absurd viable estate front develop super deliver question hospital impulse segment dog";
+var mnemonic = "initial level casino cupboard ankle spin volume friend burst mosquito autumn travel";

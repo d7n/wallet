@@ -1,1 +1,1 @@
-var mnemonic = "naive rice online steak situate narrow post post barrel endless usage bind";
+var mnemonic = "vendor best upset hamster digital acid ripple pink risk when ignore valve";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant gold tortoise cabbage gather this cattle weird palace leader party stand";
+var mnemonic = "cannon usual super phrase tube fish fan smooth spray online drink stereo";

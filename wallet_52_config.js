@@ -1,1 +1,1 @@
-var mnemonic = "clinic bamboo crunch grape wet fan clean valve around lake clump shine";
+var mnemonic = "high various dry green blue garlic awesome above squeeze guard ski master";

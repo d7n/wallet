@@ -1,1 +1,1 @@
-var mnemonic = "walk harbor culture suggest worth pair stomach season sense two swim world";
+var mnemonic = "sadness unfair crisp transfer surface belt water duck save dolphin great town";

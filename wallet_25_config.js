@@ -1,1 +1,1 @@
-var mnemonic = "finger bonus still mixture diamond lounge kitchen apology inch delay medal click";
+var mnemonic = "crucial island bind giraffe funny child pull tape voice found zoo bottom";

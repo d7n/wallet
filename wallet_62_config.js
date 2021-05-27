@@ -1,1 +1,1 @@
-var mnemonic = "blush easy post fun smoke sudden magic myself apple lucky ice science";
+var mnemonic = "sugar pyramid below journey cause funny arm volume firm soap urge size";

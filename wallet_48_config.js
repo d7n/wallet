@@ -1,1 +1,1 @@
-var mnemonic = "tell heavy beef plastic protect space enable detail remind elder fiscal plastic";
+var mnemonic = "victory army sausage outside maze effort either flush turn someone paddle spray";

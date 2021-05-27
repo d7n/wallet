@@ -1,1 +1,1 @@
-var mnemonic = "inhale render seat gold tape conduct degree friend cook eight ladder divert";
+var mnemonic = "have arch shrug height close indoor vault extra cute major room myself";

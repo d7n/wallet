@@ -1,1 +1,1 @@
-var mnemonic = "hard twist chaos void fine usual balance almost clock adjust obvious rhythm";
+var mnemonic = "talent until sword congress case treat afraid visa occur nice olympic slim";

@@ -1,1 +1,1 @@
-var mnemonic = "various exact group shrug raise dust mass garbage youth dirt network happy";
+var mnemonic = "zebra reward silly work violin unhappy response hope myth road install spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "ready chair joy during moon moon vivid voyage cinnamon census anxiety journey";
+var mnemonic = "blast used error fire vessel pull main early lounge equal summer inherit";

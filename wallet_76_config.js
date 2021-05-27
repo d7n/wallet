@@ -1,1 +1,1 @@
-var mnemonic = "utility pelican kind shell disease grant jazz river bamboo depend emotion kitten";
+var mnemonic = "theory funny another custom zebra chunk faint donate echo charge enlist blame";

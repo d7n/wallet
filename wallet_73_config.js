@@ -1,1 +1,1 @@
-var mnemonic = "summer arena tortoise orange where already left potato neutral oil point torch";
+var mnemonic = "beef equal scan common liar drift mix chaos outside response fog ahead";

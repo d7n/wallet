@@ -1,1 +1,1 @@
-var mnemonic = "defense boost involve silk eye spring mail fiscal eyebrow limit foot blame";
+var mnemonic = "antenna harsh flavor census nut culture deer drip hurry attack athlete phrase";

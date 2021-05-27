@@ -1,1 +1,1 @@
-var mnemonic = "exit kingdom verb math they rely volume social wool dash atom below";
+var mnemonic = "equip citizen arrange wrap mean dentist brick that record identify afford answer";

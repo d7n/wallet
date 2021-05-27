@@ -1,1 +1,1 @@
-var mnemonic = "rib buzz credit tribe any please trial indoor inquiry copper soup program";
+var mnemonic = "relax endless rebel need blood sheriff story material outdoor fever buddy aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "affair celery snap alien weather proud enforce habit cause legal labor move";
+var mnemonic = "tree sad payment say unveil yard stable trust balcony file raccoon model";

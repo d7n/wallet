@@ -1,1 +1,1 @@
-var mnemonic = "blossom panther ladder slot chair rare volume pass vacuum corn hollow dove";
+var mnemonic = "dice summer area hip return weasel tuition topic usual cat give rural";

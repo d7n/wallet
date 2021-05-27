@@ -1,1 +1,1 @@
-var mnemonic = "ranch heart nut mix spring bunker off cricket term pull earth correct";
+var mnemonic = "crumble friend obey custom ginger city fold unlock guitar come either prefer";

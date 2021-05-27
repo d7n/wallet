@@ -1,1 +1,1 @@
-var mnemonic = "furnace phrase cloud arena reject seat blame cancel license endless matrix october";
+var mnemonic = "cabin apple foil danger nerve very voice summer grass rebuild vacuum elbow";

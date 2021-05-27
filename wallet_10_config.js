@@ -1,1 +1,1 @@
-var mnemonic = "vast symbol mechanic pudding glare holiday girl tissue cloud mosquito harbor ring";
+var mnemonic = "trick equal bless desert summer egg human sense animal undo cave sadness";

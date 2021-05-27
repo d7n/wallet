@@ -1,1 +1,1 @@
-var mnemonic = "panel elder betray tag drop chase warfare giraffe wear fuel master harsh";
+var mnemonic = "trouble lizard keep stone bike film human utility large cannon oak labor";

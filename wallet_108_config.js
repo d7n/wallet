@@ -1,1 +1,1 @@
-var mnemonic = "middle sister scissors syrup hole spatial physical mountain march wear demise myself";
+var mnemonic = "relax lion trip logic ignore course miracle region naive alley web load";

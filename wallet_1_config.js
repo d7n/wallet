@@ -1,1 +1,1 @@
-var mnemonic = "radar suit fruit vibrant clock maple lizard govern fix virus still company";
+var mnemonic = "citizen hat skill basic stay budget raven story scare vanish dune virtual";

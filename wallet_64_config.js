@@ -1,1 +1,1 @@
-var mnemonic = "depart good second exit crisp buyer sing ancient lend fun demand achieve";
+var mnemonic = "thing caution puzzle chief renew surprise couch despair kingdom peasant despair ritual";

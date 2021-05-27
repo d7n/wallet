@@ -1,1 +1,1 @@
-var mnemonic = "twenty among south ordinary distance project pen acoustic sword answer junior unveil";
+var mnemonic = "stage only attack purity rookie code mail rent idle quarter weekend dune";

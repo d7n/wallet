@@ -1,1 +1,1 @@
-var mnemonic = "design century garden loan fever educate become team click south dismiss juice";
+var mnemonic = "private tragic mango car casual theme close easily method wish bike since";

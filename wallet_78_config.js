@@ -1,1 +1,1 @@
-var mnemonic = "dove kite frequent bar shop mean great old actor enforce only conduct";
+var mnemonic = "debris orchard thought scatter frog remind cake derive expose sibling view wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "virus club plate fringe vivid kiss own conduct civil route disorder bread";
+var mnemonic = "input answer solution series share winner pencil cream lesson knock rebel arm";

@@ -1,1 +1,1 @@
-var mnemonic = "pave mosquito more vault melt clown rich foil rubber evolve remember maid";
+var mnemonic = "glad surprise same trick crime afraid cargo suit bone pulp order mail";

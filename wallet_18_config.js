@@ -1,1 +1,1 @@
-var mnemonic = "blood pistol install pet indoor wash nest ceiling second proof sister riot";
+var mnemonic = "surprise draft expire detect report envelope tip degree resemble crop knife always";

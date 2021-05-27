@@ -1,1 +1,1 @@
-var mnemonic = "sugar echo merge arrive tortoise word transfer manage cheese chimney mother wide";
+var mnemonic = "second output hold palm lucky thank nerve extra truth tornado core camera";

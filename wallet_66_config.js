@@ -1,1 +1,1 @@
-var mnemonic = "tank degree love tuna episode uniform appear ring weekend grain diagram guess";
+var mnemonic = "advice truth trial harvest maid crew captain word glass size panda identify";

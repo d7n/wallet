@@ -1,1 +1,1 @@
-var mnemonic = "fan exclude orient possible taste gentle arrest cart math lunar shift wish";
+var mnemonic = "history involve toddler exist romance comic round icon afford stadium hunt suffer";

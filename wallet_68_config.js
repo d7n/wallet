@@ -1,1 +1,1 @@
-var mnemonic = "runway health film window guide assault other mind luggage giggle current extend";
+var mnemonic = "banner ancient casual step vast word together earth check feed card promote";

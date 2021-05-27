@@ -1,1 +1,1 @@
-var mnemonic = "alert will sunny joy humor noise oven shoulder false swap pupil cover";
+var mnemonic = "orange novel dirt aspect actor hurt valve across onion bench income card";

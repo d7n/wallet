@@ -1,1 +1,1 @@
-var mnemonic = "oven oil march suspect cotton frown empower nose mail speak great silk";
+var mnemonic = "load rough census blossom situate demand auction art few wheel fence cancel";

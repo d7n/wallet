@@ -1,1 +1,1 @@
-var mnemonic = "yard veteran hire sentence update wife mosquito joke arrow symptom honey model";
+var mnemonic = "denial giggle garlic tired raven pole sing auction tell duty affair quarter";

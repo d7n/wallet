@@ -1,1 +1,1 @@
-var mnemonic = "tenant glass term federal awkward race infant orient dove rain slim echo";
+var mnemonic = "alert boil ripple roof gadget rebuild industry letter electric second detail grab";

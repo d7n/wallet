@@ -1,1 +1,1 @@
-var mnemonic = "glare account depend sauce flat avocado civil next federal smoke gather surge";
+var mnemonic = "valley between rotate insane hand tuition thumb make yellow rose large laugh";

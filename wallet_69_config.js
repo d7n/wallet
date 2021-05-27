@@ -1,1 +1,1 @@
-var mnemonic = "grant fatal aspect alter roof issue choose salad orange enhance marble pole";
+var mnemonic = "ancient pumpkin flash guitar scorpion south elder good leg keen luxury tone";

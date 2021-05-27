@@ -1,1 +1,1 @@
-var mnemonic = "virtual fee dragon panther same mercy orphan embody valid what insane hen";
+var mnemonic = "mistake spend number quarter taxi sadness pig lamp symptom drip paper flavor";

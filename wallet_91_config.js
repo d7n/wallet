@@ -1,1 +1,1 @@
-var mnemonic = "october exhaust deal chuckle aim tobacco follow demand pair fly crucial gaze";
+var mnemonic = "renew stool brick festival match razor jewel mobile carpet below offer canoe";

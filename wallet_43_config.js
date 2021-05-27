@@ -1,1 +1,1 @@
-var mnemonic = "art play trip theory seat upper begin table depth electric agree leopard";
+var mnemonic = "fresh ride clog inner punch latin chimney rubber defy cause weapon tobacco";

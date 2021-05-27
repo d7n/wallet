@@ -1,1 +1,1 @@
-var mnemonic = "bracket cliff junk burst island donate rude parade wagon insect course festival";
+var mnemonic = "pond estate advance quit picnic owner grunt law link master dress glide";

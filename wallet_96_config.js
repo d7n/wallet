@@ -1,1 +1,1 @@
-var mnemonic = "juice day cliff faculty repeat zero repair ethics settle moral hedgehog sunny";
+var mnemonic = "permit supreme exit capital risk pulse crawl city drama parent aware slide";

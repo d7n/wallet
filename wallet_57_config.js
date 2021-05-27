@@ -1,1 +1,1 @@
-var mnemonic = "thunder rebuild another live supply orange core seek coyote scatter super pluck";
+var mnemonic = "myself any column napkin surface unusual grocery feel agent search upset tip";

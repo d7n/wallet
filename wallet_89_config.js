@@ -1,1 +1,1 @@
-var mnemonic = "flip calm under imitate warrior panda wave style romance tip truck know";
+var mnemonic = "swap mesh reduce wrap sister innocent stem happy key oblige drum energy";

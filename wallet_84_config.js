@@ -1,1 +1,1 @@
-var mnemonic = "fun hip length pudding veteran mixed enact mansion know drive senior wrist";
+var mnemonic = "lunch jewel vacuum apple fortune affair false jungle must bag tag copy";

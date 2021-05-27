@@ -1,1 +1,1 @@
-var mnemonic = "swap couch garment ozone glow wish dash rug poem carpet grunt code";
+var mnemonic = "scorpion coast still father better behave harbor robot paper rabbit year want";

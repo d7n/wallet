@@ -1,1 +1,1 @@
-var mnemonic = "machine museum culture love glance filter horse shrug gun shell excite agree";
+var mnemonic = "problem trap arctic future stuff virtual fame fold digital material reflect voyage";

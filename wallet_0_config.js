@@ -1,1 +1,1 @@
-var mnemonic = "insane muffin bring manual identify lake tragic seek pet trial setup reward";
+var mnemonic = "major kiss behind old replace become address gown horse cereal poet reveal";

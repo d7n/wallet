@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog expect vanish soda mixture reform have level woman adult desk main";
+var mnemonic = "gossip click bean fresh picture mail canal faculty leader ordinary hockey oxygen";

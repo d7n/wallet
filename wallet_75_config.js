@@ -1,1 +1,1 @@
-var mnemonic = "merry rice resource exit praise critic actual behind door stomach wall snow";
+var mnemonic = "icon together depth estate address sad salt announce car much demand pigeon";

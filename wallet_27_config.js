@@ -1,1 +1,1 @@
-var mnemonic = "mask orient tenant slot host basic buddy zero hedgehog super young holiday";
+var mnemonic = "melody tomorrow double skull jealous donate ivory photo exhaust drastic tornado close";

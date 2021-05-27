@@ -1,1 +1,1 @@
-var mnemonic = "offer fox effort bean tribe leg shed minimum couch truly lizard good";
+var mnemonic = "board core century flee denial pink cereal helmet convince promote cradle shift";

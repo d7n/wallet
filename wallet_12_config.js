@@ -1,1 +1,1 @@
-var mnemonic = "diamond minor flash awful distance tennis caution popular cabbage property ketchup infant";
+var mnemonic = "season crater uphold display sense recall damage ordinary reduce elder timber cycle";

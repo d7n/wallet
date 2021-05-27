@@ -1,1 +1,1 @@
-var mnemonic = "route license vault margin melody mimic arrange drama call cage shed art";
+var mnemonic = "differ lesson breeze stamp fly poet over radar veteran enable salad have";

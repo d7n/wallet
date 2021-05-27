@@ -1,1 +1,1 @@
-var mnemonic = "pulp push garment absent crouch dentist wise away indicate lab dose canal";
+var mnemonic = "kiwi clerk title such domain invest result chapter client sting funny rack";

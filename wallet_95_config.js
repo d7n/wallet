@@ -1,1 +1,1 @@
-var mnemonic = "gather wrestle dose involve title bleak verify level pulse course obscure artist";
+var mnemonic = "bundle ready submit avoid destroy blame dolphin inch dinosaur zoo scare tunnel";

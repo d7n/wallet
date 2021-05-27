@@ -1,1 +1,1 @@
-var mnemonic = "blue property answer wagon vintage shove vast across spray catalog section major";
+var mnemonic = "permit wagon ginger flame spawn mushroom client sponsor train melody lounge project";

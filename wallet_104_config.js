@@ -1,1 +1,1 @@
-var mnemonic = "web hunt muffin nasty gold milk elephant magic shiver slush sad boost";
+var mnemonic = "rocket strong heart sense model wealth begin anchor indoor bike scissors inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "modify gun zebra welcome host warfare rare sudden fantasy uniform kite kiss";
+var mnemonic = "merry square age traffic quick average fresh sail kiwi ordinary sustain kind";

@@ -1,1 +1,1 @@
-var mnemonic = "language imitate muscle swamp banana feature swamp force lens genius baby help";
+var mnemonic = "artwork identify uphold fringe ensure cement tornado wrist crisp betray gun romance";

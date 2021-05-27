@@ -1,1 +1,1 @@
-var mnemonic = "toddler fossil lamp lift grief demand antenna congress tiger gasp ribbon stomach";
+var mnemonic = "they fluid material bomb winter pumpkin museum daughter tribe news document bonus";

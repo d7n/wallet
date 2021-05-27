@@ -1,1 +1,1 @@
-var mnemonic = "hand hybrid script found rescue pride kitchen math unhappy input access behave";
+var mnemonic = "uncle size salmon tragic suit flavor cheese ship forum recall equal kite";

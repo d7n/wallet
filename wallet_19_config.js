@@ -1,1 +1,1 @@
-var mnemonic = "figure speak all lend pupil mansion flavor bunker cry once involve feel";
+var mnemonic = "add ceiling bubble narrow unknown broken soldier toward exact boy floor give";

@@ -1,1 +1,1 @@
-var mnemonic = "client alone antenna access orchard soft empty push slide black soon accuse";
+var mnemonic = "tray oil enter height animal practice monster state more wrong acoustic treat";

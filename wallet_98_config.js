@@ -1,1 +1,1 @@
-var mnemonic = "chunk twist carbon now actual notable soul mind tuition detect sure giggle";
+var mnemonic = "youth antenna group valve lottery soap canoe despair impulse muffin hire guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry ivory erode cage mask poverty laptop street stool picnic guide lemon";
+var mnemonic = "marriage matter twelve siren between immense rose risk impose smart picnic grunt";

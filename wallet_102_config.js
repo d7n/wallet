@@ -1,1 +1,1 @@
-var mnemonic = "purse matter marble deputy little galaxy mammal gravity high disagree wait reunion";
+var mnemonic = "explain lawn render frozen merry kind mix whale tower camp major sunny";

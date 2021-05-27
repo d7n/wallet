@@ -1,1 +1,1 @@
-var mnemonic = "domain crouch resemble inject world quit pumpkin organ enrich share armor clap";
+var mnemonic = "fatal infant fortune hazard slab series now resist ivory confirm annual inject";

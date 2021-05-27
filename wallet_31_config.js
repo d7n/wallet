@@ -1,1 +1,1 @@
-var mnemonic = "hamster throw obvious output people safe used evil bargain road naive soap";
+var mnemonic = "cement success senior idle fuel devote hurdle labor chimney draw mirror client";

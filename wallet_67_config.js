@@ -1,1 +1,1 @@
-var mnemonic = "bus obscure during setup absurd trouble west fame outer either december jeans";
+var mnemonic = "invite audit stadium erase slender honey accident combine paper only outdoor cook";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic dumb license vicious vendor heavy payment reject merge neck around obvious";
+var mnemonic = "resource defy wide web logic rate random scatter mother typical live angry";

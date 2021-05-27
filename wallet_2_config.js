@@ -1,1 +1,1 @@
-var mnemonic = "draw clock common price filter energy confirm vintage wish ethics virus hidden";
+var mnemonic = "extra raw sign upset giant carbon minor walk enough glad prevent reject";

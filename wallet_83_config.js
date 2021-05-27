@@ -1,1 +1,1 @@
-var mnemonic = "rice book pipe cart actor planet negative gain law cupboard kite swear";
+var mnemonic = "bless rally life august group pulp mixture slim water grape reject math";

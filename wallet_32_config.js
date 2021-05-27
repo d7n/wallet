@@ -1,1 +1,1 @@
-var mnemonic = "tennis tuna logic notable bird soda ritual basic inflict copy heart unusual";
+var mnemonic = "inquiry vacuum paper crucial patrol chicken mosquito enrich excuse maid rookie govern";

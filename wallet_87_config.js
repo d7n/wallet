@@ -1,1 +1,1 @@
-var mnemonic = "vehicle educate student unique extra indoor sphere save leg amount fitness spirit";
+var mnemonic = "sock nuclear brain announce like used desk toward captain certain peanut disease";

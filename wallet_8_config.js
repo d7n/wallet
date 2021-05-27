@@ -1,1 +1,1 @@
-var mnemonic = "path say faith neither soul civil spider oblige chapter useful code bridge";
+var mnemonic = "tackle flight sell drill cupboard engine boy trap humble novel dance arena";

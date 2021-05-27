@@ -1,1 +1,1 @@
-var mnemonic = "cheap shock animal brief gravity young dynamic undo ozone aware mosquito price";
+var mnemonic = "invest defense lyrics claim test cube illness castle color peace tomato census";

@@ -1,1 +1,1 @@
-var mnemonic = "raw topple drama around fuel search shoulder wash bullet crowd pet evolve";
+var mnemonic = "planet cliff december link list book digital gorilla fly injury chicken spoil";

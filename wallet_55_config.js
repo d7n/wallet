@@ -1,1 +1,1 @@
-var mnemonic = "goat steel cushion noodle burst possible fashion game gravity buffalo trick layer";
+var mnemonic = "borrow dance debris cram man collect athlete prefer praise lift vendor equal";
