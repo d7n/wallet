@@ -1,1 +1,1 @@
-var mnemonic = "bronze media ankle kick box fashion assume attract sunny word elegant make";
+var mnemonic = "abstract rely produce general message enter street warm dose walk okay mix";

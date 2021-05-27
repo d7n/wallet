@@ -1,1 +1,1 @@
-var mnemonic = "deny baby acoustic bacon choice anxiety notable offer need warm chimney legal";
+var mnemonic = "turtle agree trade powder hundred model token right satisfy supreme undo autumn";

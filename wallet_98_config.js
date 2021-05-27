@@ -1,1 +1,1 @@
-var mnemonic = "rail direct license blue one pistol zero chuckle claim meadow since bullet";
+var mnemonic = "all hamster net bunker merge delay duty mention chase barrel nephew world";

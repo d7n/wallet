@@ -1,1 +1,1 @@
-var mnemonic = "lady arctic impulse dry refuse law dinosaur panic sock finger alpha gown";
+var mnemonic = "neutral noble weekend scan sorry keen gloom edit negative nasty icon squirrel";

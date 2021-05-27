@@ -1,1 +1,1 @@
-var mnemonic = "consider that project grab want pink submit hunt pelican switch local labor";
+var mnemonic = "safe veteran minute inspire aisle wet rich permit tackle fitness verb caught";

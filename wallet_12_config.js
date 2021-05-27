@@ -1,1 +1,1 @@
-var mnemonic = "shoot now exhaust mean gate push fade juice drum cruise young travel";
+var mnemonic = "easy oven lava absorb travel zoo cruel friend labor achieve sudden rice";

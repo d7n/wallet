@@ -1,1 +1,1 @@
-var mnemonic = "fish chapter sport expand hint laundry maze decorate fatal mixed remind video";
+var mnemonic = "cinnamon despair garbage display edge country custom resource tunnel elder lab fat";

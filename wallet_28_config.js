@@ -1,1 +1,1 @@
-var mnemonic = "feed fortune hero glance crunch farm ozone unfair skill denial maze pass";
+var mnemonic = "bind illness copper brass glue squirrel dance spatial wagon museum network round";

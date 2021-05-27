@@ -1,1 +1,1 @@
-var mnemonic = "arrange taste doll sail traffic lamp share flash sight half sight coin";
+var mnemonic = "picture eyebrow fame provide kick lesson annual badge ladder secret attend gas";

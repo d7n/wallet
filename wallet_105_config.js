@@ -1,1 +1,1 @@
-var mnemonic = "rice empower found erosion gravity farm knock fatigue myth earth junk nature";
+var mnemonic = "celery labor capable guard face priority until shy course chimney despair pact";

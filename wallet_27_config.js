@@ -1,1 +1,1 @@
-var mnemonic = "uphold border buddy cabbage hidden faint verify beef wire message fly orient";
+var mnemonic = "hammer mention erosion devote wheel inject hidden talent claw ostrich shove mixed";

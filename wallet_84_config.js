@@ -1,1 +1,1 @@
-var mnemonic = "ability crash bicycle awake hawk gap roast pass air enhance steel portion";
+var mnemonic = "female route during garment trip tail absurd bone liar include palm produce";

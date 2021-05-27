@@ -1,1 +1,1 @@
-var mnemonic = "slot sheriff include carpet lamp regular young cloud scorpion moon wedding isolate";
+var mnemonic = "thing approve used elevator alarm average object tornado marine medal fashion face";

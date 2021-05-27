@@ -1,1 +1,1 @@
-var mnemonic = "belt beach barely prevent winner obey meat clever pulp library basket brown";
+var mnemonic = "easy obtain method hire still stumble shield run before canyon second aisle";

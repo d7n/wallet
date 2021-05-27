@@ -1,1 +1,1 @@
-var mnemonic = "siege coast purchase there filter denial remain ship release toward stage risk";
+var mnemonic = "odor neck exit assault morning corn pigeon exact scale blade lawsuit rich";

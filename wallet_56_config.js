@@ -1,1 +1,1 @@
-var mnemonic = "tattoo peanut pottery spoon poverty disagree satoshi there century vote match wrap";
+var mnemonic = "excite school finish raise ice obvious toy pretty identify organ sense all";

@@ -1,1 +1,1 @@
-var mnemonic = "type quarter flat lawsuit poverty mandate select erupt inflict wild scale knee";
+var mnemonic = "round erode climb uncover oven arrange kid picnic apple stay solve supply";

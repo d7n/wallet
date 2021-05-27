@@ -1,1 +1,1 @@
-var mnemonic = "put apart awake response pepper weather occur they copy valley alcohol that";
+var mnemonic = "price observe child air idea soda angry pass steel doll about logic";

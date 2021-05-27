@@ -1,1 +1,1 @@
-var mnemonic = "retreat offer because forget wealth caution crew quiz donkey girl gun grant";
+var mnemonic = "scare upgrade grief tattoo work hurdle task still dial artefact aspect settle";

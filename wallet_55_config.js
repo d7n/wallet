@@ -1,1 +1,1 @@
-var mnemonic = "move tomato stairs grab screen surge cruise track urban tired hospital lawsuit";
+var mnemonic = "desert split refuse dish curve void damp execute layer sand drip hunt";

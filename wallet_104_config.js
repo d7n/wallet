@@ -1,1 +1,1 @@
-var mnemonic = "gadget fog able elder hero inside shove ship lecture elephant ivory field";
+var mnemonic = "jacket large possible loan same alter rigid fire medal milk icon payment";

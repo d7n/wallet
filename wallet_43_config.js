@@ -1,1 +1,1 @@
-var mnemonic = "omit strong tongue hole lonely cram divorce return poverty attack more twin";
+var mnemonic = "manual act box hold mystery young grief fragile avocado during vital scout";

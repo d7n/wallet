@@ -1,1 +1,1 @@
-var mnemonic = "paper approve scrap island much very cloud develop road swallow sound symbol";
+var mnemonic = "idle rate tiger mask drink mansion benefit mother must unique wine ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "sand quote switch rapid opera cycle disagree route local husband proud fuel";
+var mnemonic = "solid wash sunset large powder gentle elephant shift coyote space humor toast";

@@ -1,1 +1,1 @@
-var mnemonic = "canal gorilla mean find under elite solar walk tornado repeat upgrade power";
+var mnemonic = "sunny apart film employ target detail cousin silly next absent glow trap";

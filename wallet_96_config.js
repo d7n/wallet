@@ -1,1 +1,1 @@
-var mnemonic = "web coach joke episode hammer series faith glove food walk limit tunnel";
+var mnemonic = "weasel ritual reduce search only frequent else special end favorite brown eager";

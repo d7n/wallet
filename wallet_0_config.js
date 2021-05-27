@@ -1,1 +1,1 @@
-var mnemonic = "fiction wink spread rate shine robot inhale canoe shaft indicate prepare crazy";
+var mnemonic = "ship surge quote pact method nephew call sponsor animal fish badge similar";

@@ -1,1 +1,1 @@
-var mnemonic = "web trigger right summer limit usage apology second camera install entire tool";
+var mnemonic = "advice cradle update hair magic include mountain divorce maximum equal diet hip";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve bid salt search grief grief tomorrow load cousin thrive sea adult";
+var mnemonic = "crunch pair glow enemy permit embrace party stadium film steak thrive drop";

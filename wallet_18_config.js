@@ -1,1 +1,1 @@
-var mnemonic = "claim dinosaur hurt rival trick fat melody night view curious road empty";
+var mnemonic = "inmate fire milk surface aunt whisper record winner fatigue recipe world theory";

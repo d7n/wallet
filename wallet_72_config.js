@@ -1,1 +1,1 @@
-var mnemonic = "sad wink nut slice any steak keep giant chronic raccoon rough mix";
+var mnemonic = "cover home offer moment spirit beach cheap barely settle clock recipe glad";

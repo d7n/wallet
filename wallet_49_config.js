@@ -1,1 +1,1 @@
-var mnemonic = "ten open capable follow grit minute culture episode amazing dry airport blind";
+var mnemonic = "meadow orange title glimpse movie taxi blur differ horn balcony urban follow";

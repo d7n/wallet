@@ -1,1 +1,1 @@
-var mnemonic = "noise place hurt mad icon humor gap clap coil impulse library enough";
+var mnemonic = "increase luxury know forest estate gate vocal cradle abandon anchor force engine";

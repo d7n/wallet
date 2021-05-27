@@ -1,1 +1,1 @@
-var mnemonic = "slender label yellow useless example axis canoe light fence lemon glove frozen";
+var mnemonic = "trend bulb tower muscle safe pull behind accident auction bitter supply useless";

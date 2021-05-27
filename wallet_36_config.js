@@ -1,1 +1,1 @@
-var mnemonic = "wrestle squeeze nasty field cross movie remember use fun isolate clever depth";
+var mnemonic = "hedgehog tenant abandon error female ship keep dance innocent host embrace sibling";

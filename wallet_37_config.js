@@ -1,1 +1,1 @@
-var mnemonic = "mechanic verify urban romance shy anxiety tiny effort sting puppy rug lonely";
+var mnemonic = "tackle dismiss guide bullet credit pond father lens unlock action friend topple";

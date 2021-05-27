@@ -1,1 +1,1 @@
-var mnemonic = "scorpion glow capital head cake wine check bind sting network tenant wagon";
+var mnemonic = "ready lawn muffin neglect sight cliff creek buzz autumn discover syrup swear";

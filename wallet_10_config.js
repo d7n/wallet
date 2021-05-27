@@ -1,1 +1,1 @@
-var mnemonic = "brick welcome security lion uncover spring excess shadow aware nephew very connect";
+var mnemonic = "learn injury lyrics female exhibit sibling unfold cost design practice inside movie";

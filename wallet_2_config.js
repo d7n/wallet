@@ -1,1 +1,1 @@
-var mnemonic = "poem immense plastic arrive oven agree cry program hurry pear loyal fish";
+var mnemonic = "dizzy certain crawl silver win fantasy learn joke size purchase rural feel";

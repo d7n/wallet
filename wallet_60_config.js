@@ -1,1 +1,1 @@
-var mnemonic = "tooth pill topic almost tag shoulder supply reject swallow describe either fork";
+var mnemonic = "emerge spell myself fever dwarf monster speed mind father snake good sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase know couch upper arrive swarm label rain rude memory segment cool";
+var mnemonic = "lobster jelly ginger final wife section similar input document tooth increase simple";

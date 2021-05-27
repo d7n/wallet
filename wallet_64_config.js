@@ -1,1 +1,1 @@
-var mnemonic = "wall enemy cat canyon ritual jungle work leave group carry square blade";
+var mnemonic = "speed ketchup earth neither two feel ugly below tone decade struggle wild";

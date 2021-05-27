@@ -1,1 +1,1 @@
-var mnemonic = "office violin column buyer champion ask track shed enrich team fancy oblige";
+var mnemonic = "armed fat thought grant rescue approve iron during excuse soup bullet picnic";

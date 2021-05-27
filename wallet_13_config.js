@@ -1,1 +1,1 @@
-var mnemonic = "casino south what trap gift file mass flower candy manage omit sock";
+var mnemonic = "sorry arena vacuum hair unknown primary blue section merge public gesture occur";

@@ -1,1 +1,1 @@
-var mnemonic = "song marine actress sadness clap miracle host until earth pool library giraffe";
+var mnemonic = "order edit deliver bus dilemma cram hundred nerve voyage adjust trash into";

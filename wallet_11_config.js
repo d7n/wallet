@@ -1,1 +1,1 @@
-var mnemonic = "across chest inform mammal picnic genuine kiss below rack picture panther twist";
+var mnemonic = "reunion dog cousin vendor motor oxygen dumb spike glad glad shell giggle";

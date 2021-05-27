@@ -1,1 +1,1 @@
-var mnemonic = "enforce corn soft describe silent because upgrade weekend thank banana year seminar";
+var mnemonic = "innocent sport knock solid fog badge neck elbow win lazy clump ankle";

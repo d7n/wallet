@@ -1,1 +1,1 @@
-var mnemonic = "lemon garment sail symptom genius solid cash liquid hunt way minute scout";
+var mnemonic = "body flame spawn sister discover axis taxi utility broom plug stem buddy";

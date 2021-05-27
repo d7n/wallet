@@ -1,1 +1,1 @@
-var mnemonic = "impulse proud thrive argue anxiety jaguar drip empty giant tape interest case";
+var mnemonic = "rough gift soon creek service fly captain cake salon buddy swap fatal";

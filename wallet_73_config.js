@@ -1,1 +1,1 @@
-var mnemonic = "liberty double powder state route scene claim project badge wood shoe sudden";
+var mnemonic = "add battle over foam salad lunar ticket ordinary year shoe lesson release";

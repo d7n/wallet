@@ -1,1 +1,1 @@
-var mnemonic = "liquid night inflict crisp pig coil dress top seat market blush priority";
+var mnemonic = "trouble law under lift hat vault zoo arctic buyer bless play ramp";

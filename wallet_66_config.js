@@ -1,1 +1,1 @@
-var mnemonic = "jeans quarter submit catalog pencil clerk adult popular legal broccoli ceiling wire";
+var mnemonic = "tennis wagon mystery various end woman shy include wrong already chaos just";

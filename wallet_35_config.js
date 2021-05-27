@@ -1,1 +1,1 @@
-var mnemonic = "skirt hurt explain floor problem custom turn curious senior expire detail first";
+var mnemonic = "wash knock round already rely envelope over admit baby deposit grit hockey";

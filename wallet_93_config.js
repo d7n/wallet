@@ -1,1 +1,1 @@
-var mnemonic = "snake region river knee sweet focus cost abstract deputy route road fetch";
+var mnemonic = "high easy ostrich spoil large vote motor relief fold cup grow grant";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake solid people sheriff rally right rabbit regular trial treat buzz embrace";
+var mnemonic = "oblige law palace hurt obey budget scorpion shell all moment narrow unveil";

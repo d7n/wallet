@@ -1,1 +1,1 @@
-var mnemonic = "donkey lyrics attract club deputy myself east trigger rude guilt wealth cigar";
+var mnemonic = "exotic author ability wagon unveil lyrics web pioneer today net drink motion";

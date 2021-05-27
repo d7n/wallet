@@ -1,1 +1,1 @@
-var mnemonic = "please undo verify base they false sea keep noble meadow agree once";
+var mnemonic = "panel output detect clutch drift enforce machine stairs twist crowd pepper fold";

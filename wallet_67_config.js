@@ -1,1 +1,1 @@
-var mnemonic = "uniform comic split goat promote float food raccoon genuine limit federal blame";
+var mnemonic = "mobile thrive organ hill panel simple spare asthma velvet party people trumpet";

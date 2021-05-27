@@ -1,1 +1,1 @@
-var mnemonic = "bomb question sad mimic charge brick soul check waste napkin age turn";
+var mnemonic = "canal office spy coil sauce taxi drama simple hedgehog shine vault buzz";

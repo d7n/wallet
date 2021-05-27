@@ -1,1 +1,1 @@
-var mnemonic = "similar argue animal barely quit decide crack moral abstract dog major broccoli";
+var mnemonic = "evidence grit section arrange accuse champion they plunge weapon advice child promote";

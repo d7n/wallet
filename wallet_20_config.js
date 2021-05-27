@@ -1,1 +1,1 @@
-var mnemonic = "chicken front slab learn salon feed idle hip slender become sniff bulk";
+var mnemonic = "visit nerve little drink waste shoulder soda pear stock use runway certain";

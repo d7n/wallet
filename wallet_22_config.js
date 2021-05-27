@@ -1,1 +1,1 @@
-var mnemonic = "mushroom lend scare mystery puppy cage dynamic arch monster museum brand merge";
+var mnemonic = "cross tenant fashion cargo obvious rebuild popular race exercise genre subway tube";

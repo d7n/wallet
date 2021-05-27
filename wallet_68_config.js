@@ -1,1 +1,1 @@
-var mnemonic = "collect potato price gasp film spin use rather market accident portion ticket";
+var mnemonic = "arm clump pudding attract crack inch silent remove rapid swift over episode";

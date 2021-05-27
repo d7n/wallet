@@ -1,1 +1,1 @@
-var mnemonic = "depth crash exercise embark oak advance consider firm relax leaf robot toe";
+var mnemonic = "wise hold loop used slice inject front wet chase robust engine peanut";

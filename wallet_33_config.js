@@ -1,1 +1,1 @@
-var mnemonic = "under glory marriage stool blind enrich rice pelican inflict captain exercise reform";
+var mnemonic = "rabbit brown wolf north glimpse license step rely cherry knife final sunny";

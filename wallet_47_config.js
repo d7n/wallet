@@ -1,1 +1,1 @@
-var mnemonic = "list around crack zone season armor notable cook party example alcohol crowd";
+var mnemonic = "worry convince best stage churn tag own deposit payment flower fold awake";

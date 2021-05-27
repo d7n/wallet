@@ -1,1 +1,1 @@
-var mnemonic = "immense when since wheel exit faint home wheat remain subject lyrics pulp";
+var mnemonic = "logic fan tag enforce grunt document glimpse wagon solar leaf play sponsor";

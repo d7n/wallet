@@ -1,1 +1,1 @@
-var mnemonic = "metal general recycle nut demand helmet stairs forward pole club remind tilt";
+var mnemonic = "ride cushion evil knee opinion intact powder aspect you zebra people lottery";

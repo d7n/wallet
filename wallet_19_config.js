@@ -1,1 +1,1 @@
-var mnemonic = "stool copper avocado midnight erosion myth cliff toilet excuse badge velvet weather";
+var mnemonic = "glance nothing company segment buyer conduct segment vacant success lemon torch immense";

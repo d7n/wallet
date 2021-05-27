@@ -1,1 +1,1 @@
-var mnemonic = "beauty label peasant garlic visit busy impact act behave alcohol year okay";
+var mnemonic = "word uncle mix today popular slogan vague chest orient glimpse essence bracket";

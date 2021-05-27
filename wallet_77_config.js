@@ -1,1 +1,1 @@
-var mnemonic = "topple obtain middle weapon dizzy asset leaf credit borrow upon dove where";
+var mnemonic = "language attract picnic fabric accuse loud weapon weird laptop icon spider spy";

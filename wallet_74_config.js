@@ -1,1 +1,1 @@
-var mnemonic = "unit patch entire gorilla plate faith chapter school output drill neutral pigeon";
+var mnemonic = "glow hub clog scare around fatigue vendor offer gaze never brush opinion";

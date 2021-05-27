@@ -1,1 +1,1 @@
-var mnemonic = "canal spell expire limit coin dog twist mother spend current loyal physical";
+var mnemonic = "grape scare mosquito mask curious envelope core dial absurd income metal coral";

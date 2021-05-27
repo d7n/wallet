@@ -1,1 +1,1 @@
-var mnemonic = "carbon call design void normal hazard emotion skate urge fix butter vital";
+var mnemonic = "render pony dove subway jealous fuel teach swim illegal federal move silver";

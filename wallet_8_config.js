@@ -1,1 +1,1 @@
-var mnemonic = "board bottom icon sense viable siege volume glide alley merge armed feature";
+var mnemonic = "glue top pair lunch mask eye trip ramp where brand safe sheriff";

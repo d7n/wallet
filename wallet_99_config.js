@@ -1,1 +1,1 @@
-var mnemonic = "pulp fatigue acquire name two crucial involve insane around summer fox audit";
+var mnemonic = "start roof almost use weather risk diamond embrace forget state order limit";

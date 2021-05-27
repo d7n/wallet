@@ -1,1 +1,1 @@
-var mnemonic = "toss onion innocent treat cluster pattern govern beef emerge piano chest grunt";
+var mnemonic = "beauty sweet surge today ship world lab crucial quit catch rich own";

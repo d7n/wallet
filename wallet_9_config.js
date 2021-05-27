@@ -1,1 +1,1 @@
-var mnemonic = "crew will drink parent pioneer neck parrot ecology tree hamster blame lunar";
+var mnemonic = "parent wet muscle office fun vintage much fun palace damage someone claw";

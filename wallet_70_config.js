@@ -1,1 +1,1 @@
-var mnemonic = "favorite bachelor scissors nurse gentle muscle mirror wonder monkey beef divert indoor";
+var mnemonic = "immense stuff rifle bracket describe typical frog jelly panel elegant chaos abandon";

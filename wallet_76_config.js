@@ -1,1 +1,1 @@
-var mnemonic = "enhance ignore pony obey grocery wool right stuff cover enhance decide admit";
+var mnemonic = "grab crazy chaos degree sample turn earth media gap topple penalty festival";

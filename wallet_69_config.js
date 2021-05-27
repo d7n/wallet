@@ -1,1 +1,1 @@
-var mnemonic = "survey exclude still upgrade mosquito myth illness volcano monkey funny sniff suggest";
+var mnemonic = "lazy resist clutch year scrub erode ready truly parade hospital chief garden";

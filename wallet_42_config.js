@@ -1,1 +1,1 @@
-var mnemonic = "virus oven hospital drink joy exotic input hat gaze crunch pear nominee";
+var mnemonic = "end garlic brisk diet say dizzy coach minor account hammer bright anchor";

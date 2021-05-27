@@ -1,1 +1,1 @@
-var mnemonic = "gospel know cactus maid mean choice skull wing glow apple measure pen";
+var mnemonic = "tone alpha empower machine prize amused voice thank spirit club among find";

@@ -1,1 +1,1 @@
-var mnemonic = "stove across cloth anger feed rough mansion system remain world fire sight";
+var mnemonic = "copy twice bike exercise polar behave answer narrow van denial latin noodle";

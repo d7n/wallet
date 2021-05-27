@@ -1,1 +1,1 @@
-var mnemonic = "scorpion vessel decline blast flavor shy trust common cinnamon friend stumble during";
+var mnemonic = "sport result person vacuum father alarm park universe canyon jazz modify head";

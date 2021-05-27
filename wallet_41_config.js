@@ -1,1 +1,1 @@
-var mnemonic = "boring main notice confirm bright riot peace victory sad frown ethics hamster";
+var mnemonic = "funny coach buzz dizzy control achieve coil easy long layer enjoy frog";

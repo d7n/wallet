@@ -1,1 +1,1 @@
-var mnemonic = "dignity rally plastic escape verify giant actual excuse suffer absent maid tray";
+var mnemonic = "turkey other day adult admit theory pilot patrol federal brick engine current";

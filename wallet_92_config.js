@@ -1,1 +1,1 @@
-var mnemonic = "peace thing slab column target refuse news use book area picnic always";
+var mnemonic = "lock olympic surge park rude month gentle replace citizen world soup daring";

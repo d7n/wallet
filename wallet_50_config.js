@@ -1,1 +1,1 @@
-var mnemonic = "digital drive barely museum cotton grain injury found sing stick fan pyramid";
+var mnemonic = "endorse hair elephant aware steak ahead hollow seminar access mosquito swarm buyer";
