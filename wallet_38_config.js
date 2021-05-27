@@ -1,1 +1,1 @@
-var mnemonic = "insect viable slice thunder domain marine maid asthma smart brush palace reform";
+var mnemonic = "debris spin ask rail notable pudding promote fever identify nasty grit great";

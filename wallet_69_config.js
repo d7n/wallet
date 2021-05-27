@@ -1,1 +1,1 @@
-var mnemonic = "unhappy link cereal access oyster airport arrive cluster expose acid confirm copy";
+var mnemonic = "truck inmate yard hammer amused rely bar power insane collect jump clap";

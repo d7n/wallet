@@ -1,1 +1,1 @@
-var mnemonic = "collect solution wrong budget exit festival sentence staff sun unit empty shrimp";
+var mnemonic = "addict friend obvious crawl emotion cross vital rapid vast bachelor shock situate";

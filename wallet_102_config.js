@@ -1,1 +1,1 @@
-var mnemonic = "poet usage symptom swarm come window claw bacon steel slice ranch aerobic";
+var mnemonic = "toast they security clerk sniff borrow royal year phone update plug eternal";

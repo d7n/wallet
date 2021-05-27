@@ -1,1 +1,1 @@
-var mnemonic = "world pupil spirit siege fault unknown version hire uniform comfort unit almost";
+var mnemonic = "web leopard imitate hundred can deposit bargain guitar exit head question carry";

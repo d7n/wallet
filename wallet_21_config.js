@@ -1,1 +1,1 @@
-var mnemonic = "doctor genuine donor organ chef uncover crash trip uncle ensure reveal very";
+var mnemonic = "replace stereo fox pipe praise about offer jelly history input ripple connect";

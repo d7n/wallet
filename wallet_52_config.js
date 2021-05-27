@@ -1,1 +1,1 @@
-var mnemonic = "together teach weasel clerk index february chronic pig practice syrup nose useful";
+var mnemonic = "cricket speed fiber focus scout link cute latin clump female arch check";

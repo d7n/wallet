@@ -1,1 +1,1 @@
-var mnemonic = "cattle discover bread invite must hat inject tomato cradle auto purse like";
+var mnemonic = "hedgehog scale road what local safe road torch uncle gesture viable actor";

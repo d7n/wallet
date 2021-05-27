@@ -1,1 +1,1 @@
-var mnemonic = "toddler ceiling near skin pottery phrase throw fragile rude combine rice zero";
+var mnemonic = "wrestle canvas rural garbage similar inspire shoot approve sample weekend wait welcome";

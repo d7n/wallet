@@ -1,1 +1,1 @@
-var mnemonic = "into east again salon cargo fever window deer master quick clay average";
+var mnemonic = "castle symbol hill code panic curious rely treat thought toy type dumb";

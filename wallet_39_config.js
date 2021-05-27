@@ -1,1 +1,1 @@
-var mnemonic = "buzz joke august dirt zebra century unusual badge jump visual practice bicycle";
+var mnemonic = "goat issue cousin tumble fault diesel cost spend stadium agent bullet between";

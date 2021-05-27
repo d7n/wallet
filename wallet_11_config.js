@@ -1,1 +1,1 @@
-var mnemonic = "guitar silly sense shell try hour switch insect vast guide artwork dutch";
+var mnemonic = "snap rather extend range choose keen earth satoshi elevator today remove buffalo";

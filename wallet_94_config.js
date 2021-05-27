@@ -1,1 +1,1 @@
-var mnemonic = "crawl guard online dream armed flight close glide slim vault balance young";
+var mnemonic = "evil install tobacco proof relax recipe arrow bean wrist innocent expire family";

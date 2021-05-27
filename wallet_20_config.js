@@ -1,1 +1,1 @@
-var mnemonic = "february amazing bacon level reveal cruel shuffle scene shuffle beef chair salmon";
+var mnemonic = "dismiss grain phone window tuition powder convince food survey indicate venue slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "divide soccer strike zone staff fence involve good slab shuffle exist green";
+var mnemonic = "select barely group curve enjoy alcohol hole valley unable piano demise couch";

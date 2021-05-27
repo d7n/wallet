@@ -1,1 +1,1 @@
-var mnemonic = "punch media flavor marble mail vapor knock path amazing blouse service combine";
+var mnemonic = "labor weekend present tackle else model spell speed hair world impose napkin";

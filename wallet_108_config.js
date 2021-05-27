@@ -1,1 +1,1 @@
-var mnemonic = "safe light exact that island alert organ wash reflect host shadow age";
+var mnemonic = "pet blade unfair voice outer census avoid borrow muffin engage they term";

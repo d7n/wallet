@@ -1,1 +1,1 @@
-var mnemonic = "laugh hero task victory east fly asset appear favorite spin cigar message";
+var mnemonic = "demand under peasant debris oil piece fan race stem mirror suffer grief";

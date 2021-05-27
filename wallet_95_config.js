@@ -1,1 +1,1 @@
-var mnemonic = "inch mesh return soldier genius client helmet call cereal verify urban teach";
+var mnemonic = "kingdom valley chicken panel window chase spell caught sense bronze dose draft";

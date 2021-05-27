@@ -1,1 +1,1 @@
-var mnemonic = "fish curtain penalty fluid educate bread express parade erosion pave tongue chronic";
+var mnemonic = "aim already enrich climb rhythm weasel outdoor door retreat wood mom inhale";

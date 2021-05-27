@@ -1,1 +1,1 @@
-var mnemonic = "income argue keep copper genius cute found snake fury concert tuna frequent";
+var mnemonic = "during response message panther market assault ignore chronic chase stomach ski early";

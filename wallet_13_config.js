@@ -1,1 +1,1 @@
-var mnemonic = "false march super typical pelican neck promote tag eye vendor ramp access";
+var mnemonic = "viable occur useless thunder affair arrive mistake wise chair piece live girl";

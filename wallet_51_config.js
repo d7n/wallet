@@ -1,1 +1,1 @@
-var mnemonic = "learn scorpion thumb warrior street video normal balcony balcony pair casino face";
+var mnemonic = "twelve dry awake kiwi spike feel gadget noodle name gesture spy riot";

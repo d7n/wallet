@@ -1,1 +1,1 @@
-var mnemonic = "jar wash decrease daring cushion idle twist essay supply fitness rule gun";
+var mnemonic = "media supreme rabbit slogan use often digital judge start involve rabbit pass";

@@ -1,1 +1,1 @@
-var mnemonic = "feel same couch off brisk cancel card truck winner traffic analyst patient";
+var mnemonic = "illegal once jazz curious unhappy cabin promote asthma traffic violin guitar shove";

@@ -1,1 +1,1 @@
-var mnemonic = "give detect easy pilot stick matrix emotion moral chase chicken upset enough";
+var mnemonic = "depth ski west similar donor arrange wage moment ordinary crane purchase rebel";

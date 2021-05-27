@@ -1,1 +1,1 @@
-var mnemonic = "stone genuine goat dress turkey diamond large say cube donate update cloud";
+var mnemonic = "tourist voice object assume local nasty tube machine add loop armor unique";

@@ -1,1 +1,1 @@
-var mnemonic = "betray author waste subject exile convince fault believe opera escape swim stadium";
+var mnemonic = "symbol tree accident wool emerge alarm spare grape misery focus void minimum";

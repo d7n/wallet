@@ -1,1 +1,1 @@
-var mnemonic = "hire horn slam inform bubble edge bottom bomb analyst position unveil resemble";
+var mnemonic = "still excite casino spread chef style bar horn mention traffic survey build";

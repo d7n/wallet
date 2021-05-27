@@ -1,1 +1,1 @@
-var mnemonic = "ordinary few avoid often absorb endorse divide ribbon twist capable excess absorb";
+var mnemonic = "hair someone civil water artist chapter mercy betray inquiry wish harsh amateur";

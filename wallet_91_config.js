@@ -1,1 +1,1 @@
-var mnemonic = "light swarm topic nothing alien crush correct normal total retreat dance sick";
+var mnemonic = "dutch crew honey hover elite state seminar smile path stuff angle universe";

@@ -1,1 +1,1 @@
-var mnemonic = "apology begin myself year source brain suffer tattoo sing robust patrol uphold";
+var mnemonic = "page focus imitate brick dutch chronic increase already meat glance gentle couple";

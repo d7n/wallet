@@ -1,1 +1,1 @@
-var mnemonic = "rent bread crush brain praise special letter sausage mixture pass distance attend";
+var mnemonic = "matrix hamster total conduct online motor phone fence air bulk game rescue";

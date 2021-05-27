@@ -1,1 +1,1 @@
-var mnemonic = "drink organ mammal leader become file smooth fame host sample resemble lawn";
+var mnemonic = "select person nation sand base grass exact analyst luxury dilemma frost hurry";

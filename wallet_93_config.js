@@ -1,1 +1,1 @@
-var mnemonic = "wine search correct unfold frequent suffer drive surround embark habit economy early";
+var mnemonic = "practice walk attack lizard often together august question simple above cover soul";

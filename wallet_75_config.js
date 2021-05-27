@@ -1,1 +1,1 @@
-var mnemonic = "enjoy fever shed erode ocean spin average water energy color prefer october";
+var mnemonic = "erosion benefit story cable shoot few ignore online banana song tone enhance";

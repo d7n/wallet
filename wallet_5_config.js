@@ -1,1 +1,1 @@
-var mnemonic = "valve sign lava scatter drill jaguar answer region summer right wasp grant";
+var mnemonic = "armor enact movie ostrich modify goddess theory either cage song wonder muffin";

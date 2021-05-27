@@ -1,1 +1,1 @@
-var mnemonic = "impulse route other tribe army chase glide erode disorder any evolve spice";
+var mnemonic = "tide grant mistake west atom prevent custom smart luggage where volcano volume";

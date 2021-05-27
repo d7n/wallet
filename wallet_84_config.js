@@ -1,1 +1,1 @@
-var mnemonic = "divert inspire skate wave awful fiscal gentle betray love trial lesson prison";
+var mnemonic = "remain judge message tribe column kingdom shift eager twenty erosion sock album";

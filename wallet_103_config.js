@@ -1,1 +1,1 @@
-var mnemonic = "duty correct arrange maple flash hat wreck language cook hill ripple goose";
+var mnemonic = "mechanic force lumber ozone oppose awkward bulb primary purity unhappy moon wood";

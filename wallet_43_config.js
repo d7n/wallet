@@ -1,1 +1,1 @@
-var mnemonic = "script sample bus panel cancel junior camp because wealth capable retreat advance";
+var mnemonic = "menu topple cup clinic item farm rice shallow vacuum enter bronze yard";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz magnet task sugar balance february chest exact egg fetch curious power";
+var mnemonic = "circle unveil card mail lamp umbrella crop hockey edit maze cart stairs";

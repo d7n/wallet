@@ -1,1 +1,1 @@
-var mnemonic = "loop stereo possible purpose expire notice electric hen lava impulse slam knee";
+var mnemonic = "enhance boil actress visit fabric oyster camera bracket general island submit hope";

@@ -1,1 +1,1 @@
-var mnemonic = "search clerk pilot recycle first clinic fetch video chef banner flush climb";
+var mnemonic = "bulb ready either cinnamon all differ unfold bind abstract guard bar sail";

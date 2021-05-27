@@ -1,1 +1,1 @@
-var mnemonic = "morning anger drift marble dynamic rough behave good stick opinion bronze trip";
+var mnemonic = "start rule strike affair decade sphere hurry fly file profit tragic strategy";

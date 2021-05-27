@@ -1,1 +1,1 @@
-var mnemonic = "tool afford demise tired surround pistol permit size illness collect strategy sing";
+var mnemonic = "tornado exchange pizza mouse empty saddle report pizza animal grit absorb crater";

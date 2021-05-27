@@ -1,1 +1,1 @@
-var mnemonic = "laugh exact public tongue base country execute cushion lemon flock concert poem";
+var mnemonic = "keen space blue album swallow pyramid dignity latin strike property boost easily";

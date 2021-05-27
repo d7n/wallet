@@ -1,1 +1,1 @@
-var mnemonic = "benefit main quality battle favorite enough sure stamp horn vivid skate blade";
+var mnemonic = "equip embrace decline glory push clinic squeeze good spend switch obtain vendor";

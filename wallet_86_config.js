@@ -1,1 +1,1 @@
-var mnemonic = "possible umbrella isolate science illegal casino mountain about lazy rifle great cabbage";
+var mnemonic = "pattern cabbage crazy bulk dinner ticket trigger gravity rain gossip glass curve";

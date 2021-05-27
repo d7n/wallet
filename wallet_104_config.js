@@ -1,1 +1,1 @@
-var mnemonic = "height empty kind cram apology auction present elevator sock raccoon tattoo stuff";
+var mnemonic = "way pink milk essence jelly hat grunt other video drive exhaust execute";

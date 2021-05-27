@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin enjoy derive silver chalk bacon basic cram laugh embody brown pond";
+var mnemonic = "spawn pill kingdom wool question upset night input chase flock crop flame";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket fire liberty ugly drive certain ability orchard usage engage sell rigid";
+var mnemonic = "innocent unable claw exist moral rich aisle current song artefact pause daring";

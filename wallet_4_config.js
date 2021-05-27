@@ -1,1 +1,1 @@
-var mnemonic = "amazing collect first urge leader update palm fluid divide buyer champion device";
+var mnemonic = "gym fog fog awful debris organ castle proof penalty sick mountain risk";

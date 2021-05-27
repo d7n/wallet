@@ -1,1 +1,1 @@
-var mnemonic = "nuclear husband lawsuit amazing copy junk senior day vocal possible hungry cushion";
+var mnemonic = "human wife seed harvest salad story bike palm behave kid wish initial";

@@ -1,1 +1,1 @@
-var mnemonic = "major glory receive van bind caution approve traffic aspect normal sort fish";
+var mnemonic = "flock fashion bitter basket cook exist rocket defense solar barrel apple year";

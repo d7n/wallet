@@ -1,1 +1,1 @@
-var mnemonic = "length picnic pigeon bird custom fox just isolate honey stage fine display";
+var mnemonic = "auto garment decide dad hobby round rocket timber turtle library submit enjoy";

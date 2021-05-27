@@ -1,1 +1,1 @@
-var mnemonic = "abuse inspire return symptom wrong settle van list quote history stereo egg";
+var mnemonic = "betray palm rapid gentle dove orchard favorite best foster impulse still humble";

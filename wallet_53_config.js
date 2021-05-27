@@ -1,1 +1,1 @@
-var mnemonic = "concert patrol sister cactus olympic leave inner angry dilemma pyramid soap proud";
+var mnemonic = "forget athlete vanish wise improve mouse smoke purity tenant sentence ranch afford";

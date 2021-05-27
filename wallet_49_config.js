@@ -1,1 +1,1 @@
-var mnemonic = "few theory copy trick agree predict runway dose claw hammer jelly until";
+var mnemonic = "roof inflict service april thumb kind flame sugar brisk divide divide true";

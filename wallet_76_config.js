@@ -1,1 +1,1 @@
-var mnemonic = "famous budget twist praise pizza like raven buyer jar book across better";
+var mnemonic = "unique divorce error victory quantum enlist crunch mind solution become poverty favorite";

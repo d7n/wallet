@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog body fuel mesh leg baby park door wagon permit stereo huge";
+var mnemonic = "exclude memory digital bicycle coil pet spread define device slice nephew spatial";

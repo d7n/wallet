@@ -1,1 +1,1 @@
-var mnemonic = "proof afraid calm six monster exhaust notice ordinary park such claw just";
+var mnemonic = "bitter fix average ivory gap betray tourist mention there gesture laundry immune";

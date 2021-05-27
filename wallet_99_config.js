@@ -1,1 +1,1 @@
-var mnemonic = "champion movie guide square about slab scan ordinary rich crime galaxy oppose";
+var mnemonic = "light loud increase soon alone grape anxiety pyramid pause state just minute";

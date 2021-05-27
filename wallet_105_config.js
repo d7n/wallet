@@ -1,1 +1,1 @@
-var mnemonic = "gain energy weather lab bracket bitter pitch tilt fuel reduce mango artefact";
+var mnemonic = "strategy zebra sunset pumpkin entry top price sleep ski brother minimum opera";

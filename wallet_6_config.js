@@ -1,1 +1,1 @@
-var mnemonic = "antenna viable culture absorb tenant journey never parent squirrel north pigeon lens";
+var mnemonic = "wisdom can radar echo pulse suffer guilt write exile together upgrade blade";

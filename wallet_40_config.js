@@ -1,1 +1,1 @@
-var mnemonic = "enough bird reward hurry holiday unusual fantasy pumpkin weekend regret donate unaware";
+var mnemonic = "sniff spy elder object strike onion hundred garlic reward prison lucky drill";

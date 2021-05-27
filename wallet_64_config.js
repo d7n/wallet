@@ -1,1 +1,1 @@
-var mnemonic = "seat human hurt lyrics adjust present remind army rich daring frog grocery";
+var mnemonic = "nut one dynamic search sentence connect speak goddess home execute arctic seminar";

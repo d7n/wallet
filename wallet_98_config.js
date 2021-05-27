@@ -1,1 +1,1 @@
-var mnemonic = "dirt nation legend design gun burden grab setup height metal laptop inch";
+var mnemonic = "pass face object paddle master wagon usual erase cotton swap cattle host";

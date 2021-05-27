@@ -1,1 +1,1 @@
-var mnemonic = "trial access vanish treat drill also black intact virtual burger menu shuffle";
+var mnemonic = "muffin idle swamp expand alien rough armor talent message then fault exclude";

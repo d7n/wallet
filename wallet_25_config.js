@@ -1,1 +1,1 @@
-var mnemonic = "hire online maximum twenty cost host another hello lottery bundle bid mixed";
+var mnemonic = "mimic into deer system crucial live rice evolve domain milk unaware delay";

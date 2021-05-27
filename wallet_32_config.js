@@ -1,1 +1,1 @@
-var mnemonic = "feed piano client anger tray kitten silly absorb laundry police survey toilet";
+var mnemonic = "eight produce raven tomato horse dose brisk shell prosper merge juice clinic";

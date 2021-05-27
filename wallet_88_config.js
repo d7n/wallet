@@ -1,1 +1,1 @@
-var mnemonic = "sudden express cliff fine skull shoe rookie harbor donor draw fly armor";
+var mnemonic = "tennis symptom hello melody minute pelican gossip trophy list angle level layer";

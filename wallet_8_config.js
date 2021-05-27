@@ -1,1 +1,1 @@
-var mnemonic = "chuckle arctic jeans pepper stomach scrub bulk property crazy margin admit kitten";
+var mnemonic = "patrol wide globe chief matrix east force mean cage pony present core";

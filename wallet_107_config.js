@@ -1,1 +1,1 @@
-var mnemonic = "practice coconut consider bamboo reform profit motion eternal poet horn multiply fruit";
+var mnemonic = "canoe comfort call marble swing diesel spoil dice build viable define damage";

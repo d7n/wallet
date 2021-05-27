@@ -1,1 +1,1 @@
-var mnemonic = "jeans humor raw quarter duck plug fit various clever cannon before yard";
+var mnemonic = "way toy rival during deer hungry battle move apology enlist cover awake";

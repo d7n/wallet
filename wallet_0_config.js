@@ -1,1 +1,1 @@
-var mnemonic = "wheel index arena cushion three chaos degree bar cricket spring second fruit";
+var mnemonic = "plug task find rare enlist attend casual this roast cricket miracle clog";

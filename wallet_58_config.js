@@ -1,1 +1,1 @@
-var mnemonic = "witness ginger allow rabbit gadget club hidden liquid supreme injury patrol control";
+var mnemonic = "sure soldier gate together anchor mad student hero assault zero gadget custom";

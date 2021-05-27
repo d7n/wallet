@@ -1,1 +1,1 @@
-var mnemonic = "glance thumb lunch satisfy invest cheese congress vessel main city stage supply";
+var mnemonic = "token profit coral second brief talent pony inner derive pumpkin deputy steel";

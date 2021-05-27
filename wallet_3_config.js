@@ -1,1 +1,1 @@
-var mnemonic = "squeeze swap dumb seed believe found polar actor play fade beyond drink";
+var mnemonic = "define omit online immune family menu plastic pulp apple tonight liquid cook";

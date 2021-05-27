@@ -1,1 +1,1 @@
-var mnemonic = "suspect pigeon riot trigger army actress creek fetch tip purchase announce symptom";
+var mnemonic = "harsh target gossip act call awesome enter short core liberty popular document";

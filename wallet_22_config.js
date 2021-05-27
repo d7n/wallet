@@ -1,1 +1,1 @@
-var mnemonic = "design diagram gentle sword venue lesson include march bid bubble aspect obvious";
+var mnemonic = "dumb cube label tower decline finish bid attract curtain sight cheese frown";

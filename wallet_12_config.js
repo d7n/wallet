@@ -1,1 +1,1 @@
-var mnemonic = "away typical ahead have discover stay camp echo enforce announce dragon duck";
+var mnemonic = "avoid area health mystery spawn trigger mask excuse vacant income duty shine";

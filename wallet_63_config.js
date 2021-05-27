@@ -1,1 +1,1 @@
-var mnemonic = "anger frame type degree derive worth fuel regret horn border cable glad";
+var mnemonic = "expose umbrella protect glance length typical august turn erase magic during scrub";

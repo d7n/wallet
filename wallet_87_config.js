@@ -1,1 +1,1 @@
-var mnemonic = "circle hurt happy master razor oak emotion unaware lend inhale survey camp";
+var mnemonic = "infant noble fashion sausage network fire wall mix ugly session hire crane";

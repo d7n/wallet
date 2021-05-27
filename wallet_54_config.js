@@ -1,1 +1,1 @@
-var mnemonic = "key gate report garden front perfect fiscal cigar inflict index link rebuild";
+var mnemonic = "fiber noise horse admit skate peace evidence tell broken profit marriage into";

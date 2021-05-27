@@ -1,1 +1,1 @@
-var mnemonic = "arch buyer pill phrase pause pelican spatial wheat phrase metal close bird";
+var mnemonic = "museum bicycle rhythm place rescue giggle episode always alcohol choice person venue";
