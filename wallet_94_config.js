@@ -1,1 +1,1 @@
-var mnemonic = "announce universe worth tomorrow relief priority gain admit develop beauty connect april";
+var mnemonic = "inquiry lamp blouse once dove gown simple siren april own exercise situate";

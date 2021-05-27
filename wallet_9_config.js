@@ -1,1 +1,1 @@
-var mnemonic = "strong art tuna fan large board damp stereo north tape asset during";
+var mnemonic = "animal already topple kid urban flush kangaroo frog laptop huge intact bridge";

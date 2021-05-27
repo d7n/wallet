@@ -1,1 +1,1 @@
-var mnemonic = "tiny pitch route crystal change beauty caught galaxy pave alien sight avoid";
+var mnemonic = "master sibling oil country obey among patrol various hand salmon merry leopard";

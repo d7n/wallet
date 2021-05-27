@@ -1,1 +1,1 @@
-var mnemonic = "orange large problem cart alert clap prize source proof autumn label rival";
+var mnemonic = "forest object female fade found mimic cinnamon jewel chest idle put market";

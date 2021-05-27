@@ -1,1 +1,1 @@
-var mnemonic = "pole helmet couple meadow apology purpose neck fuel palace fossil can siren";
+var mnemonic = "output kid phone donor head hour script aisle urge east very animal";

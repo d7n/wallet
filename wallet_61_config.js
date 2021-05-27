@@ -1,1 +1,1 @@
-var mnemonic = "jeans spice height liar wife attitude engine citizen divorce glide cruel tackle";
+var mnemonic = "cushion maximum hip impose then fossil solve game weekend flee wealth spy";

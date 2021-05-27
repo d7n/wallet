@@ -1,1 +1,1 @@
-var mnemonic = "clay paddle robust patch ordinary receive know donate hamster tortoise gun record";
+var mnemonic = "skate plunge hedgehog wedding test crane lift gym obvious history cave street";

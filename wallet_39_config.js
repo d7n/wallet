@@ -1,1 +1,1 @@
-var mnemonic = "yellow swing found camera door sail trim sort frog coral cloud exist";
+var mnemonic = "mushroom table sword fine rebuild deny animal fabric concert history list adapt";

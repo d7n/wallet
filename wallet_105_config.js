@@ -1,1 +1,1 @@
-var mnemonic = "frame wire twin grain tuna edge fury loud promote boss field chalk";
+var mnemonic = "true bachelor honey chat dune festival exact mass dilemma marriage scale economy";

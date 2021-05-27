@@ -1,1 +1,1 @@
-var mnemonic = "social coast base autumn discover toss lizard cave garment april siren lend";
+var mnemonic = "grace beef gift know tape jazz nut sort develop repair aware trend";

@@ -1,1 +1,1 @@
-var mnemonic = "medal such spice warm allow fringe spin fluid farm frown taste crawl";
+var mnemonic = "use chair crack reduce mom hood mask label horn suffer hub surprise";

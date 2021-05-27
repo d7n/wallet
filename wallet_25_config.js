@@ -1,1 +1,1 @@
-var mnemonic = "submit lazy adapt humor solar diesel fatal share rifle will leg claim";
+var mnemonic = "winner carry half aware demise system possible gorilla stick lamp trip ignore";

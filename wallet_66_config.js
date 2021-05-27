@@ -1,1 +1,1 @@
-var mnemonic = "still trumpet double settle day sphere assault isolate sphere innocent jazz employ";
+var mnemonic = "damp treat donor winter swarm tiny civil negative march fruit cereal utility";

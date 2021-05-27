@@ -1,1 +1,1 @@
-var mnemonic = "plug hint need flag possible snack excite goddess silly riot robust sample";
+var mnemonic = "daughter love mystery lift beef pledge mix always infant skill life pottery";

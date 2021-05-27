@@ -1,1 +1,1 @@
-var mnemonic = "mistake broken ecology canal useful drama curve soda warm album salute knee";
+var mnemonic = "fresh hope veteran napkin legend achieve trigger night quiz gentle hen promote";

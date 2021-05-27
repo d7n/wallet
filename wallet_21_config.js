@@ -1,1 +1,1 @@
-var mnemonic = "elevator mutual chronic crunch sock quick sign reject bottom blouse stock vessel";
+var mnemonic = "easily chest robust runway tenant pigeon idle expect live shoe flee body";

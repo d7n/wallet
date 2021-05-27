@@ -1,1 +1,1 @@
-var mnemonic = "strategy afraid chase bunker behave expand topple elegant scale pudding day repeat";
+var mnemonic = "collect army cook input cross sponsor rack develop easily trumpet soap alien";

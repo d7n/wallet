@@ -1,1 +1,1 @@
-var mnemonic = "crucial layer eyebrow trash curve lady drastic sample loan barely exhaust remember";
+var mnemonic = "zero wear lunar drill spray seat rebuild violin camera inherit page photo";

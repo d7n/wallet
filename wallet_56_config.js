@@ -1,1 +1,1 @@
-var mnemonic = "autumn game stand immense arrow crumble clinic cry man penalty glad genuine";
+var mnemonic = "unhappy forest sand giggle chronic glimpse know cause crime volume want ticket";

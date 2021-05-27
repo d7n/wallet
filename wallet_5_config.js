@@ -1,1 +1,1 @@
-var mnemonic = "mirror gun suspect normal dinner feel velvet behind indoor aisle fault caught";
+var mnemonic = "hockey penalty time credit wet cup disagree onion give woman ability theme";

@@ -1,1 +1,1 @@
-var mnemonic = "survey coconut print quit sponsor onion affair strike alone parade manual major";
+var mnemonic = "sugar noise special floor return gaze crop rural hurdle stool heart major";

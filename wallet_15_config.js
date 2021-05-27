@@ -1,1 +1,1 @@
-var mnemonic = "volcano section palm welcome march pond riot sunset jelly ritual thrive secret";
+var mnemonic = "brand organ subway swift island assume lonely canoe grit ticket cereal tent";

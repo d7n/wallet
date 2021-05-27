@@ -1,1 +1,1 @@
-var mnemonic = "tent dry girl concert north toilet dignity soccer fame arm property junk";
+var mnemonic = "swap balcony gym donate dance useless wool attend section tray setup expose";

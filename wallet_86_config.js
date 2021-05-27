@@ -1,1 +1,1 @@
-var mnemonic = "busy neck home give public fiction asset warfare release tissue gate shallow";
+var mnemonic = "admit endless naive bring impact mean senior crack lonely lyrics clerk poverty";

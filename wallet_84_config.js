@@ -1,1 +1,1 @@
-var mnemonic = "staff great sentence divorce genius finish rival shrug leopard hollow woman month";
+var mnemonic = "song powder discover attend leaf chef embark athlete judge grain wine task";

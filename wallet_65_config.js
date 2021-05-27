@@ -1,1 +1,1 @@
-var mnemonic = "boy fancy congress name winner ranch team garment gadget layer illegal soft";
+var mnemonic = "merry among valid admit cotton trend common smart topple victory hamster area";

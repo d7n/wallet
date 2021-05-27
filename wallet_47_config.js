@@ -1,1 +1,1 @@
-var mnemonic = "tennis excuse thumb parrot address beyond dress elder curtain scatter surface inspire";
+var mnemonic = "pigeon first shrimp citizen loud donate forward soccer laptop casino lunar friend";

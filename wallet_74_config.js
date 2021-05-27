@@ -1,1 +1,1 @@
-var mnemonic = "success ticket wing design few nasty clutch soccer push ensure half example";
+var mnemonic = "globe royal toilet galaxy lyrics media merry employ dynamic turtle repeat crowd";

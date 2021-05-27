@@ -1,1 +1,1 @@
-var mnemonic = "nasty young list donate spin solution derive alone trigger photo horse sponsor";
+var mnemonic = "useful unfold lawsuit indicate strong reform cancel solar stable acid shadow album";

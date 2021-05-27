@@ -1,1 +1,1 @@
-var mnemonic = "comic anxiety comic donate mansion nasty observe apple siege depth rescue bus";
+var mnemonic = "already virus bright increase object arrow chest orbit insect whisper boring few";

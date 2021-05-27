@@ -1,1 +1,1 @@
-var mnemonic = "vibrant blue member tongue buddy salmon liquid west defense hill question chaos";
+var mnemonic = "mind audit scene endorse cute ankle velvet hero empty liar also bring";

@@ -1,1 +1,1 @@
-var mnemonic = "knock chimney other review team couple liberty champion proud cheap bless scale";
+var mnemonic = "bag bag animal arm sausage result harbor flavor junior cross broccoli safe";

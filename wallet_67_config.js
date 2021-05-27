@@ -1,1 +1,1 @@
-var mnemonic = "wrong what express scene weather vehicle unusual enroll close floor empty suspect";
+var mnemonic = "season flavor disease rescue brave twist fluid ball sick combine tag general";

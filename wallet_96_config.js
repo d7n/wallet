@@ -1,1 +1,1 @@
-var mnemonic = "stage shoe student galaxy winter pelican draft dial frost trouble detail crouch";
+var mnemonic = "february prosper road much puppy bless pen that clerk second tongue glory";

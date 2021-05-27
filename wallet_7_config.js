@@ -1,1 +1,1 @@
-var mnemonic = "duty fossil arrange ten hour buffalo seat electric calm betray deal employ";
+var mnemonic = "vacant mix hen oval valid exercise melt ranch grant blanket road milk";

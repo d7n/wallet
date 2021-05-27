@@ -1,1 +1,1 @@
-var mnemonic = "danger rose dynamic vapor vault stomach asset wolf ridge snake enhance fox";
+var mnemonic = "special uncover human stand verb ethics box utility evolve skull glare kitten";

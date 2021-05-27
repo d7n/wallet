@@ -1,1 +1,1 @@
-var mnemonic = "bamboo attitude mechanic answer glad mail print roof front perfect flight load";
+var mnemonic = "alien trial brush sign apology wire aunt bench exist comfort blue destroy";

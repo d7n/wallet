@@ -1,1 +1,1 @@
-var mnemonic = "flavor cupboard pause umbrella surprise orange dice bulb athlete dry grief concert";
+var mnemonic = "ship coast peasant razor midnight swarm toilet spray when soon sport nurse";

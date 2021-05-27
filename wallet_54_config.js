@@ -1,1 +1,1 @@
-var mnemonic = "away famous float forward impulse net weather hunt base capital various dumb";
+var mnemonic = "escape spot spray reopen submit oak moon story patrol purity example recall";

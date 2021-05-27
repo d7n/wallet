@@ -1,1 +1,1 @@
-var mnemonic = "blossom venue crisp link idea nerve until fruit boost melt rotate luggage";
+var mnemonic = "verify sunset rotate round onion move hundred lottery wedding drink duck aisle";

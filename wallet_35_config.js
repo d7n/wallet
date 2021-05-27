@@ -1,1 +1,1 @@
-var mnemonic = "bid junior such fitness they wreck video club social net capable grow";
+var mnemonic = "budget opera include betray young beyond endorse beauty opinion voice cycle nerve";

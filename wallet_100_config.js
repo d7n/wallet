@@ -1,1 +1,1 @@
-var mnemonic = "analyst viable involve usage corn curve misery ensure juice base success august";
+var mnemonic = "reason slender plug reason reform undo today define tuition coil list title";

@@ -1,1 +1,1 @@
-var mnemonic = "limit service company about way degree element video spy clerk normal borrow";
+var mnemonic = "ranch play bamboo transfer off allow rug sound report library broom time";

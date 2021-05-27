@@ -1,1 +1,1 @@
-var mnemonic = "rough transfer smile region viable plug adult select prison dentist tray leave";
+var mnemonic = "hockey secret proud hungry minute welcome reason fit aisle recycle lucky roast";

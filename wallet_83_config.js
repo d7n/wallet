@@ -1,1 +1,1 @@
-var mnemonic = "runway bid focus tired common refuse melody soon capable try shoe spray";
+var mnemonic = "north brother narrow repair number grass zone angle quantum all section warm";

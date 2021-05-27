@@ -1,1 +1,1 @@
-var mnemonic = "learn cash future exile length frost pause clump goddess welcome judge trigger";
+var mnemonic = "stereo decorate gym just flip pride honey bounce accident kid grace kind";

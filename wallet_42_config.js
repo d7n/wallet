@@ -1,1 +1,1 @@
-var mnemonic = "save sheriff lens eagle way judge magic tomato beach gadget kangaroo asthma";
+var mnemonic = "sunset grunt female mountain unfold infant party future mystery raise wish crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt cheese choice answer gym puzzle void venue bar art height pill";
+var mnemonic = "heavy equip bright have come toss club chronic armor potato lift orphan";

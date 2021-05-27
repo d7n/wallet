@@ -1,1 +1,1 @@
-var mnemonic = "step hurry magic vintage potato promote seat mansion dad uncle park patrol";
+var mnemonic = "fee note album harbor rival broccoli wealth detect high earth build conduct";

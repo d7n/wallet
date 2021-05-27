@@ -1,1 +1,1 @@
-var mnemonic = "know distance skull arena orange picture carry security fire pigeon carbon tide";
+var mnemonic = "brass pass jacket you era mammal ladder jazz able crater menu flame";

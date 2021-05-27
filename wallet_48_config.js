@@ -1,1 +1,1 @@
-var mnemonic = "time foil scrap tool breeze flight cradle narrow copy sell rubber menu";
+var mnemonic = "angle run uncover staff winter crouch blossom undo sauce unique pull lumber";

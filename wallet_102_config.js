@@ -1,1 +1,1 @@
-var mnemonic = "manual kind enemy bring exact reunion all zoo lamp cook damage announce";
+var mnemonic = "knock document steak myth pipe large average base fortune unit plunge current";

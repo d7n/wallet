@@ -1,1 +1,1 @@
-var mnemonic = "payment point domain moon remind convince misery strategy warfare nest edge rude";
+var mnemonic = "mean odor gown sure crucial city neutral domain real scene artist pink";

@@ -1,1 +1,1 @@
-var mnemonic = "margin post toss quiz flame pupil angry slender sign glow sudden night";
+var mnemonic = "buddy fantasy expire mushroom air rival grief brother feature leave script layer";

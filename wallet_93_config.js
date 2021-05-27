@@ -1,1 +1,1 @@
-var mnemonic = "lyrics soldier salmon february genre flash detect smile corn bike cousin inside";
+var mnemonic = "struggle people warm material pluck chapter replace blind dinner pair poet sound";

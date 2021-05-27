@@ -1,1 +1,1 @@
-var mnemonic = "rely balcony problem humble move autumn because rookie pizza solution destroy track";
+var mnemonic = "audit outdoor disorder save liquid waste gloom wear label item glue firm";

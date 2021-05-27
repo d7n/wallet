@@ -1,1 +1,1 @@
-var mnemonic = "notable casino stick combine salad win shrimp prepare extra protect toss either";
+var mnemonic = "shine slam wasp endorse banner artist arctic solid aerobic nice crane stuff";

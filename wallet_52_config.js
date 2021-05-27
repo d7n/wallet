@@ -1,1 +1,1 @@
-var mnemonic = "sleep lottery immune praise truth believe crazy bargain dinner uphold picture such";
+var mnemonic = "capable island virus object duty erase hollow era airport column company float";

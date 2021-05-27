@@ -1,1 +1,1 @@
-var mnemonic = "regular burst device wheat element switch sign vote stem marriage amateur chest";
+var mnemonic = "leopard orchard clarify fury jungle great mixed guide bless dirt measure hunt";

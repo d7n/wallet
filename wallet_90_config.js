@@ -1,1 +1,1 @@
-var mnemonic = "country call blur dove message pudding armor flight swing scissors orient vapor";
+var mnemonic = "obvious salt bean cherry nominee garlic main place vendor argue mobile lawn";

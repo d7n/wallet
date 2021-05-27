@@ -1,1 +1,1 @@
-var mnemonic = "hockey mechanic angry balcony tail muffin coconut flash unfold worry rare base";
+var mnemonic = "cricket double banner crisp sudden orchard load cool grief quarter label dish";

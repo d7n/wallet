@@ -1,1 +1,1 @@
-var mnemonic = "auto proud wolf pen fury disease list divorce burger prevent roof shed";
+var mnemonic = "wild neither biology fun spell trophy amateur square crystal system blossom chuckle";

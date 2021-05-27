@@ -1,1 +1,1 @@
-var mnemonic = "grant employ strategy later fault close mixture trick token green before sort";
+var mnemonic = "report advice scale tube fashion peanut boil chapter slab effort exile fancy";

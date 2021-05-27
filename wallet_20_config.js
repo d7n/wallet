@@ -1,1 +1,1 @@
-var mnemonic = "rib silent dinner apple faith right tired dinner regret bench iron expire";
+var mnemonic = "stomach together double unfair length kit split language clown beef safe wool";

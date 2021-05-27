@@ -1,1 +1,1 @@
-var mnemonic = "tuna process artwork tennis category catch hundred estate tragic mix media hill";
+var mnemonic = "convince abuse list much sand broken banner impose tumble supply bench penalty";

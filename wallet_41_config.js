@@ -1,1 +1,1 @@
-var mnemonic = "master before frozen price model powder cute attitude dance fossil identify pool";
+var mnemonic = "bronze struggle ill horse engage green keen occur lion luggage kangaroo remain";

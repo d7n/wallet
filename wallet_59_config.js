@@ -1,1 +1,1 @@
-var mnemonic = "ski party donkey city link bleak car rug dress pluck display steak";
+var mnemonic = "bronze fruit area wrong deposit drum elder adult lake two vault appear";

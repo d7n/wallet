@@ -1,1 +1,1 @@
-var mnemonic = "depend dizzy hunt weapon miss join adapt grunt soap unit air defense";
+var mnemonic = "ice flash elder emotion heart fiction predict repeat clock stone daring giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "movie wrist eyebrow jacket burger donkey avocado earth lumber obtain valley diesel";
+var mnemonic = "joke bacon battle arm frequent extend dinner pool author chicken escape body";

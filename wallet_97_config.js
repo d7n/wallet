@@ -1,1 +1,1 @@
-var mnemonic = "solar forget flat chase foil domain nice sugar margin scrub paddle govern";
+var mnemonic = "private silk board orphan whale reason confirm cry orphan text loan fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney divorce infant device company chair lemon power suit ribbon announce add";
+var mnemonic = "ostrich stairs end shoulder foil vendor keep fabric bag cause open surround";

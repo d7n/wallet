@@ -1,1 +1,1 @@
-var mnemonic = "giant adult pelican veteran bless maid region city ancient pyramid hawk twice";
+var mnemonic = "address interest fluid melt thank earth alpha rare cancel deny video seat";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal labor what paddle income mask project empty shuffle cook rice basic";
+var mnemonic = "bag mask royal primary wrist giggle achieve wagon solution usage general alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "tell hawk liquid able leave student window high orient rug comfort bleak";
+var mnemonic = "ball sustain rain lamp winter damp more stand exile amazing have icon";

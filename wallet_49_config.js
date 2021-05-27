@@ -1,1 +1,1 @@
-var mnemonic = "olive fence slam crush foot twelve elite where correct shift stage item";
+var mnemonic = "combine panel edit remember human acquire edit snap arm seminar where spot";

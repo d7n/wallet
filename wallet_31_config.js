@@ -1,1 +1,1 @@
-var mnemonic = "math fish chronic seek sing energy vintage census rail title dog welcome";
+var mnemonic = "mother enjoy rule raise hour solve toe panic exact impose print minute";

@@ -1,1 +1,1 @@
-var mnemonic = "sound leave topic eyebrow van slam answer change celery describe quantum lumber";
+var mnemonic = "industry found friend castle major post glimpse fun dignity pistol resist master";

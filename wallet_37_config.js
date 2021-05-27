@@ -1,1 +1,1 @@
-var mnemonic = "trophy swap great stone spirit muscle grid reason assist also carbon stem";
+var mnemonic = "time neck crucial oppose happy damage lonely option host fence sadness slab";

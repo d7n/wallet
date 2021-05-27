@@ -1,1 +1,1 @@
-var mnemonic = "breeze clean pet style glad bamboo depart evoke speak super task circle";
+var mnemonic = "antenna movie menu forum mix absurd boost early concert just island trigger";

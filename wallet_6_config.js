@@ -1,1 +1,1 @@
-var mnemonic = "urge secret half avoid expose asthma pool drama awful trial leg trial";
+var mnemonic = "detect clown sign clerk ordinary spend plate tourist humble profit will gap";

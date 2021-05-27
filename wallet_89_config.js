@@ -1,1 +1,1 @@
-var mnemonic = "emerge fox consider novel swallow airport ridge harsh same invest panther index";
+var mnemonic = "defy nose stereo rhythm position fork steak cement venture wagon knee short";

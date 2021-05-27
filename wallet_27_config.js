@@ -1,1 +1,1 @@
-var mnemonic = "panic gym teach another amused deal balcony volume miracle know tube reason";
+var mnemonic = "tornado blur manage invite enlist tank acid antique narrow mail copy noble";

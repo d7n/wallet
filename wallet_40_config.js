@@ -1,1 +1,1 @@
-var mnemonic = "cage bunker voice noble bachelor carpet scale weekend apology stand chunk sort";
+var mnemonic = "problem little visit curve check segment excess mean smooth gentle exotic can";

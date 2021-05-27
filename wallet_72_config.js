@@ -1,1 +1,1 @@
-var mnemonic = "scrub someone praise eagle embrace question lend program draw ignore isolate person";
+var mnemonic = "topic dirt health process peace arrow atom wink loan situate unaware carpet";

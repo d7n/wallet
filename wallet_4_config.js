@@ -1,1 +1,1 @@
-var mnemonic = "ritual pluck shop diagram start man picnic drastic away mirror skate celery";
+var mnemonic = "match pretty blue manage soda scorpion steak sphere window entire radio exhaust";

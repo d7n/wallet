@@ -1,1 +1,1 @@
-var mnemonic = "drift copy culture salt film mix another wish bulk cube little rug";
+var mnemonic = "next quantum clown announce alone vivid foot order orchard uncover discover student";

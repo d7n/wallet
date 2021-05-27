@@ -1,1 +1,1 @@
-var mnemonic = "toe hour enhance slam capable nest arrow must release vague unusual slim";
+var mnemonic = "essence inch output bounce nerve nose review wink east legal fire replace";

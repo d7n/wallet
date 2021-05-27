@@ -1,1 +1,1 @@
-var mnemonic = "icon spoon item image palm curve gravity arrest divert bubble pause often";
+var mnemonic = "put equal nice fiber present fever slender ill comfort pony pumpkin bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "expire alter youth slender manual into doll train antenna dash social firm";
+var mnemonic = "turn curious isolate gate sniff open lock replace sand rate early embody";

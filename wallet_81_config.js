@@ -1,1 +1,1 @@
-var mnemonic = "shrug neck road seven tank remove pave episode napkin name rate cook";
+var mnemonic = "office theme into bicycle elephant dentist reject width outside shy planet object";

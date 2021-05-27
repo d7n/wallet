@@ -1,1 +1,1 @@
-var mnemonic = "viable wonder assault clean liquid soup leave squeeze local purse expect start";
+var mnemonic = "sick have coyote glare educate inherit quarter bus solution delay lava photo";
