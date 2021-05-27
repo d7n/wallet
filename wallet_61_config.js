@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo merge hazard legal focus fiction cream can december rich coast bonus";
+var mnemonic = "donor camp come cushion giraffe april knock month story slush practice health";

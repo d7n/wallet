@@ -1,1 +1,1 @@
-var mnemonic = "firm color youth brief used nest seven silver exhaust undo feed veteran";
+var mnemonic = "alpha decade random cheese kiss critic margin october excess journey mention elder";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth rate motion novel jungle slim merry allow relief exit federal stuff";
+var mnemonic = "turn garage until kitten shaft decline fresh stamp liar title mix kiwi";

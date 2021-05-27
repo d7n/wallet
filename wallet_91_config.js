@@ -1,1 +1,1 @@
-var mnemonic = "employ rifle connect trial globe there ghost student trumpet absorb sketch merge";
+var mnemonic = "force intact collect song pair basic very siege motion latin glide brain";

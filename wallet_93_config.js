@@ -1,1 +1,1 @@
-var mnemonic = "trial zero marble essay enforce final session layer opinion medal decorate guitar";
+var mnemonic = "private seven army grass prefer guard cost eager couch sight day robust";

@@ -1,1 +1,1 @@
-var mnemonic = "message wife fatal night bone parrot path multiply milk battle viable nominee";
+var mnemonic = "scene desert tongue device liquid nothing robust system lazy surface loyal boss";

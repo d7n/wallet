@@ -1,1 +1,1 @@
-var mnemonic = "globe smooth raccoon hotel miss era shy color supply report section jacket";
+var mnemonic = "door culture ostrich hawk chaos lunch dynamic either chest sniff spin heart";

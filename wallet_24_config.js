@@ -1,1 +1,1 @@
-var mnemonic = "cactus check rib fence fringe monkey neck mass verb require govern snack";
+var mnemonic = "rib minor salad peasant try chunk smile glow muscle prosper clown shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf loan sheriff defy glance scheme ankle cage buddy valley camera guard";
+var mnemonic = "doctor van purity paper lyrics laptop pilot solid project own hard inspire";

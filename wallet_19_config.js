@@ -1,1 +1,1 @@
-var mnemonic = "crash floor law kit cake liberty sick tortoise success spring bridge menu";
+var mnemonic = "lizard flower quantum donate smart trumpet shadow carpet talk urge bachelor clutch";

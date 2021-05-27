@@ -1,1 +1,1 @@
-var mnemonic = "course neither retreat tell achieve use wolf lab sponsor execute blood prosper";
+var mnemonic = "come honey current page chief unhappy black flower immense enemy snap plunge";

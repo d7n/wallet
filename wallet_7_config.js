@@ -1,1 +1,1 @@
-var mnemonic = "grief betray royal thrive sense tool hair spread vehicle juice cruise equal";
+var mnemonic = "ocean invest warfare journey remind opinion lucky cigar ensure comfort sleep disorder";

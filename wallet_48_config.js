@@ -1,1 +1,1 @@
-var mnemonic = "priority pole guitar minute alter enjoy inspire involve type daughter soccer payment";
+var mnemonic = "anger pupil assault fiscal pottery poem face outdoor escape zone effort comic";

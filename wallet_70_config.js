@@ -1,1 +1,1 @@
-var mnemonic = "rack ring view voice spread equal letter hamster acid similar robust define";
+var mnemonic = "wise inside spawn table wall earn frozen salt venue slim outside glory";

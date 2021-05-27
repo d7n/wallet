@@ -1,1 +1,1 @@
-var mnemonic = "unlock hobby cheap carry success tonight into supreme pupil reflect gold rally";
+var mnemonic = "daring maximum core twin dolphin piano account foam pulp predict abandon bachelor";

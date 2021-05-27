@@ -1,1 +1,1 @@
-var mnemonic = "tiger arrest possible unfair bronze two high runway nominee tail tip nut";
+var mnemonic = "tail elder gold need bone grief suit master decorate valley suit file";

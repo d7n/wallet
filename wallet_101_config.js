@@ -1,1 +1,1 @@
-var mnemonic = "legend tiny rate soul water emerge until scan silver escape toast sad";
+var mnemonic = "try cat syrup bomb meat term caution layer mushroom stand daring urge";

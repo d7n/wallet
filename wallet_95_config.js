@@ -1,1 +1,1 @@
-var mnemonic = "sister must crane nephew puzzle street poet vast mansion avocado term limb";
+var mnemonic = "typical expect argue job arrange odor odor upset spirit can first goddess";

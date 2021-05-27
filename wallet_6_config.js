@@ -1,1 +1,1 @@
-var mnemonic = "label loan myth luggage journey drop family era end wink blouse gun";
+var mnemonic = "drum arrange poem wash ecology ripple banner stage jar company cable giraffe";

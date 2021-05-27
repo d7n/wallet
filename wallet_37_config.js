@@ -1,1 +1,1 @@
-var mnemonic = "advice alien timber system treat consider club hill menu funny solar negative";
+var mnemonic = "wood creek spoil silk hedgehog stick enroll hole avoid valley item supreme";

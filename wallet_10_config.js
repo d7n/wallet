@@ -1,1 +1,1 @@
-var mnemonic = "police hair turtle cricket collect boy immune liquid leader twenty arctic sponsor";
+var mnemonic = "travel cactus razor version couple lottery budget interest object pulp fork crunch";

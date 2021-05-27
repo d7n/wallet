@@ -1,1 +1,1 @@
-var mnemonic = "transfer puppy icon crawl echo duty grab scissors dizzy glance guard bargain";
+var mnemonic = "shrimp gym occur jaguar satoshi draft second bus latin scorpion usual stage";

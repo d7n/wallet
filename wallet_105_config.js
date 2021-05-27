@@ -1,1 +1,1 @@
-var mnemonic = "hotel car gossip wine powder basic process mobile december poverty casino mystery";
+var mnemonic = "wine artefact park bring draw cloth wise globe outdoor bundle ocean mushroom";

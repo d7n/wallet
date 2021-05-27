@@ -1,1 +1,1 @@
-var mnemonic = "swap trap more control delay drama despair embrace feed super ethics wet";
+var mnemonic = "door sea noodle design clog anchor broccoli liberty oak stuff punch wagon";

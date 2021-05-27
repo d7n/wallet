@@ -1,1 +1,1 @@
-var mnemonic = "notice ring mass torch cattle video giant sniff wonder second horror laptop";
+var mnemonic = "shoot tiny cry install game strike size family please disorder earn inch";

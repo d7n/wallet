@@ -1,1 +1,1 @@
-var mnemonic = "kite program people birth width tent yellow fence estate online twice limit";
+var mnemonic = "dismiss very lawn tourist federal dwarf lawsuit citizen fit fringe chimney chunk";

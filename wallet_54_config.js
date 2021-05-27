@@ -1,1 +1,1 @@
-var mnemonic = "cradle subway claw display model gap skull uncle nut pool spice dirt";
+var mnemonic = "weird begin west must price vicious match remove boil double oblige local";

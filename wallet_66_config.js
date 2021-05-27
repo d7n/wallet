@@ -1,1 +1,1 @@
-var mnemonic = "apple eager peasant night verb phone wreck acoustic universe aim travel sadness";
+var mnemonic = "mushroom urban elegant right myth jungle entire pitch submit slow clarify mango";

@@ -1,1 +1,1 @@
-var mnemonic = "pear share forward grocery utility swamp wheat memory portion army annual reflect";
+var mnemonic = "quit jelly mushroom pilot security suggest panel calm rather armor copper ordinary";

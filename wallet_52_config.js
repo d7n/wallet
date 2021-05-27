@@ -1,1 +1,1 @@
-var mnemonic = "trophy cloud toward meat message change ordinary panic shed this circle purchase";
+var mnemonic = "effort useless jealous speak gasp episode power syrup pool east program patient";

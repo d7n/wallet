@@ -1,1 +1,1 @@
-var mnemonic = "bullet initial forget giggle inform effort cry sausage oppose awake guitar whale";
+var mnemonic = "three repair siren example october tag twist chief fly unknown crew raccoon";

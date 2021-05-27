@@ -1,1 +1,1 @@
-var mnemonic = "horror aunt sniff hover august concert leisure dolphin laugh outer lazy weapon";
+var mnemonic = "segment still chronic face charge over elder toward drink door winner pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop father jelly worth violin dress improve help stumble idea approve wonder";
+var mnemonic = "stomach slow apple chair kitchen coin off upset polar depart steak destroy";

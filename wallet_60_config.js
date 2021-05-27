@@ -1,1 +1,1 @@
-var mnemonic = "oblige identify rescue sugar faith sign clinic sing tragic open client kitten";
+var mnemonic = "raven focus moon engage magic already sleep crawl mammal ill hurry anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "duck cram parade click stove beach fish garlic cluster place team keep";
+var mnemonic = "suit hazard legal carpet divert clerk entry bird dizzy flag fiber happy";

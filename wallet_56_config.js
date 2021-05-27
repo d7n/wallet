@@ -1,1 +1,1 @@
-var mnemonic = "pair bulk cradle vessel stuff window dad dizzy ripple expire ask raise";
+var mnemonic = "oblige gate rival stay base pause stand ice knock carbon slide like";

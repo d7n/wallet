@@ -1,1 +1,1 @@
-var mnemonic = "memory hollow kingdom noble stem fiction sleep describe outer edit winner dentist";
+var mnemonic = "void undo reopen fury sphere dose zero seven cart void mom bike";

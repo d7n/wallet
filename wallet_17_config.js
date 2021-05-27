@@ -1,1 +1,1 @@
-var mnemonic = "glance cat short valid craft daughter travel onion suffer melt young kit";
+var mnemonic = "inform advice silk that drive echo airport night foam almost owner memory";

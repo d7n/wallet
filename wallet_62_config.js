@@ -1,1 +1,1 @@
-var mnemonic = "trade valley limb talk gate material cousin tube almost obvious theory tackle";
+var mnemonic = "pool mirror sauce bus aim ready fiber bless mix spike ripple witness";

@@ -1,1 +1,1 @@
-var mnemonic = "coin skate six crumble weather over poem banana banana vacant supply industry";
+var mnemonic = "eyebrow inquiry indicate combine deposit belt behave horn lemon slam demand enforce";

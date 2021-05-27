@@ -1,1 +1,1 @@
-var mnemonic = "number jump pact popular media range chimney forest time attend merit element";
+var mnemonic = "famous search crater piano end powder fresh mom expand normal when visual";

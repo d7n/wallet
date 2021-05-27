@@ -1,1 +1,1 @@
-var mnemonic = "walnut prefer visual shrug tooth want fence estate obvious nose chat foil";
+var mnemonic = "exclude grunt attend junk enhance question ability stable flight orbit canal helmet";

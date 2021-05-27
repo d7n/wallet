@@ -1,1 +1,1 @@
-var mnemonic = "donkey coffee pottery meadow soda stock short video doll average slow milk";
+var mnemonic = "hurt worry aunt black couch country trust busy lunar accident volcano they";

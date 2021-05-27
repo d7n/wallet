@@ -1,1 +1,1 @@
-var mnemonic = "crouch crouch share two age urge affair brain must kite mobile squirrel";
+var mnemonic = "light pave merit lawn note repair reduce magic escape silver already grow";

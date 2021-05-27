@@ -1,1 +1,1 @@
-var mnemonic = "punch vast bind confirm virtual survey useful around ridge wheel panel ugly";
+var mnemonic = "horror lens material salute cook seek road reunion myself clip ramp coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo summer spray skirt knee adapt squirrel various item loyal oval avocado";
+var mnemonic = "pause split differ skin stand struggle inhale organ embody wedding stereo armed";

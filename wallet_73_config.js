@@ -1,1 +1,1 @@
-var mnemonic = "seed work point saddle crash tackle loop merry army path orbit lamp";
+var mnemonic = "stem sphere claw boring silly useless infant shy soul angle pelican share";

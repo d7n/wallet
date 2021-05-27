@@ -1,1 +1,1 @@
-var mnemonic = "movie since head visual grief demise know term drum proof speak business";
+var mnemonic = "hawk myth pull virtual purchase park monkey toast ladder will remember improve";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss bless alley repeat beef spare vague load friend client distance beach";
+var mnemonic = "notable winter winter stock broken fee zoo auction siege rain casual hotel";

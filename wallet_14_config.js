@@ -1,1 +1,1 @@
-var mnemonic = "fix run sustain right slam shadow milk divide bunker soap maximum usual";
+var mnemonic = "cargo fly involve mammal depart sunset start rain beef upon core hold";

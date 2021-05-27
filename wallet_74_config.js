@@ -1,1 +1,1 @@
-var mnemonic = "thought super glove believe conduct tired federal cargo author curve super prevent";
+var mnemonic = "diagram dumb lamp random oblige umbrella spare section burden often weapon year";

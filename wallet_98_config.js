@@ -1,1 +1,1 @@
-var mnemonic = "approve dance actual you stool hidden exclude solution entire junior depart march";
+var mnemonic = "guide staff receive denial weird razor hurry visa hub citizen connect display";

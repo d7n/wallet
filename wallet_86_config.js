@@ -1,1 +1,1 @@
-var mnemonic = "believe thing cream choice comic order spot mammal remove ankle gallery welcome";
+var mnemonic = "puppy debate perfect tumble nothing keen fine scan payment pet faculty priority";

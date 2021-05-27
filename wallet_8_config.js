@@ -1,1 +1,1 @@
-var mnemonic = "receive member remain walnut alone pass alcohol awkward scissors filter canoe high";
+var mnemonic = "trend degree barrel duty air federal key eager over science brick news";

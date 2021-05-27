@@ -1,1 +1,1 @@
-var mnemonic = "kiss area antique dry valid bridge entire soup dance deer century ceiling";
+var mnemonic = "uncover raise coyote cause beach outer chronic marine stamp game approve cream";

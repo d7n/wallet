@@ -1,1 +1,1 @@
-var mnemonic = "immune shadow rally rose tell flash art paddle uphold private length devote";
+var mnemonic = "local arrest breeze unknown sweet glance modify churn pumpkin stomach weasel year";

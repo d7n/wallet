@@ -1,1 +1,1 @@
-var mnemonic = "glory when exit matrix forum organ can below exact sponsor spice water";
+var mnemonic = "various humor isolate outdoor because february fat junk purpose receive extra debate";

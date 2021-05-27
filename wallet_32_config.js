@@ -1,1 +1,1 @@
-var mnemonic = "cream lamp ordinary guard grant anchor border brown want pepper clump stove";
+var mnemonic = "noise spare agent involve law letter mail royal essence liquid asset ask";

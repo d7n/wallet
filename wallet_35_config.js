@@ -1,1 +1,1 @@
-var mnemonic = "method give fluid multiply burden indicate service theme advice review exact shove";
+var mnemonic = "knee annual page arrest sustain husband blouse core size mention evil inner";

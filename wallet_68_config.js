@@ -1,1 +1,1 @@
-var mnemonic = "plate soda razor dismiss dinner beyond grunt shell castle debris hill craft";
+var mnemonic = "soldier obvious promote judge gossip loyal win enter law pilot pyramid about";

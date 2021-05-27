@@ -1,1 +1,1 @@
-var mnemonic = "comic bulk month deliver raise coast stuff arm sunny network boil dwarf";
+var mnemonic = "avoid trial parent bring select prison engage section hurdle cigar orange drink";

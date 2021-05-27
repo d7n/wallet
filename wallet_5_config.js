@@ -1,1 +1,1 @@
-var mnemonic = "suit income husband similar broom buyer more version click into arrest hub";
+var mnemonic = "people gadget casual ordinary message donkey exercise idle excuse project legal repeat";

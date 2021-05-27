@@ -1,1 +1,1 @@
-var mnemonic = "topic veteran marriage bone celery admit cruel march because tilt arrange disorder";
+var mnemonic = "pitch also oppose buyer glad news young parent youth follow crane curve";

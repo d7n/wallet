@@ -1,1 +1,1 @@
-var mnemonic = "advice door chalk item chicken tail van swap liberty region brass together";
+var mnemonic = "chunk network oil team pig degree envelope theme comic mammal spell climb";

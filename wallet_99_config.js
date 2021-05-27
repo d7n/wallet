@@ -1,1 +1,1 @@
-var mnemonic = "tribe nurse essay naive ill negative strike pear crop twelve unfold riot";
+var mnemonic = "near theory mechanic deposit skin ranch attract mountain theory mean ensure drum";

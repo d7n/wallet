@@ -1,1 +1,1 @@
-var mnemonic = "stock ensure mind include nasty note matter decrease paddle crunch input neither";
+var mnemonic = "dove stock cliff nice stay stadium fury punch you later unveil noodle";

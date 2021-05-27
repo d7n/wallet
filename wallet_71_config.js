@@ -1,1 +1,1 @@
-var mnemonic = "bus meadow obvious skull chimney rally silver rural drum sheriff demand sun";
+var mnemonic = "nut science hammer wire loud cement lounge service child hamster shy skull";

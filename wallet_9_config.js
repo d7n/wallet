@@ -1,1 +1,1 @@
-var mnemonic = "wealth humor sample congress mixture muffin carry mix guess below liar then";
+var mnemonic = "add filter emerge amazing street source daughter receive exit comfort exhibit solution";

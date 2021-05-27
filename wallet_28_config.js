@@ -1,1 +1,1 @@
-var mnemonic = "coyote gadget audit logic mesh taste punch make spot small service once";
+var mnemonic = "select subject fever erase virus stem resemble card route quantum scene happy";

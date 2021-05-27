@@ -1,1 +1,1 @@
-var mnemonic = "uniform allow anxiety drum glide student dad wisdom oven swing balcony adult";
+var mnemonic = "extra reopen credit wrong uncover cream long wash cash brisk mass tone";

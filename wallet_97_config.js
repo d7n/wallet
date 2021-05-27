@@ -1,1 +1,1 @@
-var mnemonic = "drill shuffle doctor inquiry vault dose hint rally modify erode matrix trash";
+var mnemonic = "wrist survey vessel rival behind syrup manual assault pet text spy jazz";

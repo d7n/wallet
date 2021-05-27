@@ -1,1 +1,1 @@
-var mnemonic = "scrub any snow update milk apple guess fish trade primary abstract pulp";
+var mnemonic = "short demand insect success junk razor gallery clarify cannon deal worry asset";

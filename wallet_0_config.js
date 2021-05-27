@@ -1,1 +1,1 @@
-var mnemonic = "bronze gun glory harbor language provide pipe able response banana pact amateur";
+var mnemonic = "say athlete ripple local arrive seek plastic security approve mask gift resemble";

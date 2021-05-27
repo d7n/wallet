@@ -1,1 +1,1 @@
-var mnemonic = "spice voyage second among increase member kick hobby sauce day segment gun";
+var mnemonic = "equip region bench awake twice raw tip field theory deputy task mammal";

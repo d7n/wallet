@@ -1,1 +1,1 @@
-var mnemonic = "ridge police siege despair false elephant assault similar damage animal flash tower";
+var mnemonic = "tide marriage identify blue parade swear exotic steel warm notable project mystery";

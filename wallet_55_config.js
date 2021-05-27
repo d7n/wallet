@@ -1,1 +1,1 @@
-var mnemonic = "include law ozone foam truly shell place impulse age jeans smart castle";
+var mnemonic = "organ please badge soon network urge act alcohol extra early churn ice";

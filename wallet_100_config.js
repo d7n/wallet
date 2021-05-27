@@ -1,1 +1,1 @@
-var mnemonic = "citizen ivory display antenna pelican news fitness safe what cost crumble muffin";
+var mnemonic = "sweet render print armor tooth price twist coil garlic enough unit inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "valve juice wise time crop ramp pyramid destroy stable snake fog dry";
+var mnemonic = "blur raccoon journey include ginger help deny feel dove blame exercise leg";

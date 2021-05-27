@@ -1,1 +1,1 @@
-var mnemonic = "grocery sock trap yard shop girl nuclear define require festival rack cushion";
+var mnemonic = "actor secret orient border rigid champion bar domain august sea rain verb";

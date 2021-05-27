@@ -1,1 +1,1 @@
-var mnemonic = "whale vague life baby tomato scrub cover filter card delay spy position";
+var mnemonic = "health supply sunset birth dish crisp left august envelope butter deny beyond";

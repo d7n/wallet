@@ -1,1 +1,1 @@
-var mnemonic = "grief blouse bulk best maple general team yellow else creek agent more";
+var mnemonic = "spice tag wife west warfare opinion indoor pioneer pill rail mixture parade";

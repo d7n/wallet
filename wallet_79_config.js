@@ -1,1 +1,1 @@
-var mnemonic = "actress anchor increase layer panic artefact ski fuel mix this novel judge";
+var mnemonic = "book body pizza click draft wagon indoor parade method device discover reject";

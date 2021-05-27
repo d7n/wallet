@@ -1,1 +1,1 @@
-var mnemonic = "orphan diagram accident catalog key rather foam clog drill what dismiss involve";
+var mnemonic = "receive private hawk pig promote hockey liar fever ski seat dawn decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "fame scout gadget people slow blind display mesh hockey win save fresh";
+var mnemonic = "carpet language say flock betray liberty mention tackle senior better skin forest";

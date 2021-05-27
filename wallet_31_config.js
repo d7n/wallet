@@ -1,1 +1,1 @@
-var mnemonic = "easy siren load brick catch bottom illegal boring blood alarm surprise farm";
+var mnemonic = "horn security auto ripple measure business forget nut model odor shoe nominee";

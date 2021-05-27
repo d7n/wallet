@@ -1,1 +1,1 @@
-var mnemonic = "exist vivid foot orphan will figure dad broccoli slogan ozone true target";
+var mnemonic = "limb wink equal enact fame camp tennis aerobic cactus kite canyon census";

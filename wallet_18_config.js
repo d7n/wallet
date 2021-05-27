@@ -1,1 +1,1 @@
-var mnemonic = "magic donate gold hundred initial woman grant exotic great bullet outside stool";
+var mnemonic = "empower thank response layer hurt pyramid embody toast title cross seek hello";

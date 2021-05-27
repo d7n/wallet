@@ -1,1 +1,1 @@
-var mnemonic = "asset provide boss whale parrot proof random behave satoshi capable lake absent";
+var mnemonic = "tornado broken cart control source blade vintage crystal now toward vanish soldier";

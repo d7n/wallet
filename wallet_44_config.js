@@ -1,1 +1,1 @@
-var mnemonic = "dawn unveil carbon trend object stem wild mesh another garlic vessel sad";
+var mnemonic = "margin inhale execute tortoise blouse humble stock hunt sing beauty wheat despair";

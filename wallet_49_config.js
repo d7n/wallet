@@ -1,1 +1,1 @@
-var mnemonic = "blade chicken spawn slush inherit subway exhaust peanut quit steel sense knee";
+var mnemonic = "bright humor witness hood fitness ghost increase train total tent alcohol tired";

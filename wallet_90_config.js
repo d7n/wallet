@@ -1,1 +1,1 @@
-var mnemonic = "coast scorpion envelope palm valve top confirm barely enlist combine flavor aisle";
+var mnemonic = "ugly upgrade royal ensure huge artist dish warm original obvious isolate gap";

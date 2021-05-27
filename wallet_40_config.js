@@ -1,1 +1,1 @@
-var mnemonic = "vital session blame obscure emotion debate tongue lava miracle chat horn excess";
+var mnemonic = "stock loop video stereo bring sting movie answer lock toe raise penalty";
