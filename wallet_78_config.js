@@ -1,1 +1,1 @@
-var mnemonic = "toddler smart text armed isolate pizza aerobic genuine unit venue purpose pair";
+var mnemonic = "rubber quick illegal shine grace derive post sting cruise smoke hunt funny";

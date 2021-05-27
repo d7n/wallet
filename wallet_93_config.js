@@ -1,1 +1,1 @@
-var mnemonic = "shrimp problem erase bar vicious absorb dwarf grunt term dumb help cute";
+var mnemonic = "door song direct lazy artwork manual prison crane vanish chicken scrap lunar";

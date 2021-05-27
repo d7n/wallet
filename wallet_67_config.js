@@ -1,1 +1,1 @@
-var mnemonic = "job pledge lunar pistol ability hope bar party castle improve ocean boat";
+var mnemonic = "move make rely upgrade science grocery pulse silly embrace parade amazing boat";

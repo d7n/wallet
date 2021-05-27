@@ -1,1 +1,1 @@
-var mnemonic = "volume strike retire acid steak audit length magnet reform left foster clarify";
+var mnemonic = "toss december celery derive razor staff sauce cradle river host disease virus";

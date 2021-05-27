@@ -1,1 +1,1 @@
-var mnemonic = "switch science found urge nerve simple sniff demise diesel afraid very area";
+var mnemonic = "purity monkey chalk tiny deer broccoli pizza surprise spatial raise link ladder";

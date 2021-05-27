@@ -1,1 +1,1 @@
-var mnemonic = "crack cigar oyster banner tag tunnel action neutral bless fork worry display";
+var mnemonic = "avocado slush hat team echo spawn diesel check female trade awake circle";

@@ -1,1 +1,1 @@
-var mnemonic = "empower version history property float unveil camera chronic visit tourist decide tomorrow";
+var mnemonic = "river live advance same brick injury agree job pulp same kind citizen";

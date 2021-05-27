@@ -1,1 +1,1 @@
-var mnemonic = "carbon shuffle chronic balcony slender denial deputy bread foot hammer credit dentist";
+var mnemonic = "around fortune club barely april eye avocado art pelican dinosaur deliver east";

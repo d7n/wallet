@@ -1,1 +1,1 @@
-var mnemonic = "umbrella foam warrior anger leave goat nature trade rescue diesel wrist stove";
+var mnemonic = "borrow burden life pen eternal below genius bullet stick tape eternal interest";

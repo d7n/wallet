@@ -1,1 +1,1 @@
-var mnemonic = "access skin biology other special shy wrestle end exhibit club foot fiction";
+var mnemonic = "match rent cram robot purity arch disagree critic again muscle earth visit";

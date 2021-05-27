@@ -1,1 +1,1 @@
-var mnemonic = "float actress exotic cage citizen wolf script notable rebel gorilla cable roast";
+var mnemonic = "maple pull silly answer hip infant abuse cargo slow cactus depart nephew";

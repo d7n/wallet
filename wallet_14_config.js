@@ -1,1 +1,1 @@
-var mnemonic = "kidney trial area speak wash derive bonus maximum toddler orbit cover viable";
+var mnemonic = "memory outdoor decline cup pen fun struggle duck avocado steel tobacco manage";

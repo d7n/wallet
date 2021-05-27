@@ -1,1 +1,1 @@
-var mnemonic = "valid divide razor invest chalk luxury hybrid later crystal quote spray fat";
+var mnemonic = "describe regular someone job smart hockey mutual into absent robot common add";

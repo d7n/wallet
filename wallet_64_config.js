@@ -1,1 +1,1 @@
-var mnemonic = "cube similar camp flame any drum person gallery rather toilet gentle face";
+var mnemonic = "awake abandon olympic opera sustain steel glory mother morning atom they ask";

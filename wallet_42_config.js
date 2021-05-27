@@ -1,1 +1,1 @@
-var mnemonic = "alcohol royal wasp target poverty kid attract option huge fun tree shoulder";
+var mnemonic = "embody fiscal theory tide purse skull method festival install cat cradle door";

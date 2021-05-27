@@ -1,1 +1,1 @@
-var mnemonic = "such year empower abandon citizen demise rich giant junior aspect electric grass";
+var mnemonic = "trip never stumble income virtual finger soda subway olive middle dad charge";

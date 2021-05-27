@@ -1,1 +1,1 @@
-var mnemonic = "upon snack figure lunch noodle tell leopard loop share cousin relax sudden";
+var mnemonic = "entire crater shock lunar seat six news deny pool actress acoustic shock";

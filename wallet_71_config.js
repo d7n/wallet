@@ -1,1 +1,1 @@
-var mnemonic = "ten film list boil gorilla reason core snow zone doctor panda text";
+var mnemonic = "tackle can luggage wealth brief jeans body permit crater rent match elbow";

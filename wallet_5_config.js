@@ -1,1 +1,1 @@
-var mnemonic = "over fade dust main elephant mandate butter screen hockey box orchard powder";
+var mnemonic = "display ozone such when dutch pave neck image cruel input play mouse";

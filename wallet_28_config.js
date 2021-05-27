@@ -1,1 +1,1 @@
-var mnemonic = "improve art also fish baby odor clown soon utility strike cake rice";
+var mnemonic = "stand gospel firm poem cheap try pulse bone moon front erosion ginger";

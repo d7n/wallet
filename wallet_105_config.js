@@ -1,1 +1,1 @@
-var mnemonic = "fetch chapter walnut north dizzy innocent clerk floor awake sure foam vehicle";
+var mnemonic = "office orange document rent concert unfair umbrella crystal laptop glass sound music";

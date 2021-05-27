@@ -1,1 +1,1 @@
-var mnemonic = "strategy zoo version type basic language usage parrot valve corn pistol remember";
+var mnemonic = "merit sad bounce pulse time test sunny bonus shoe pool scene smooth";

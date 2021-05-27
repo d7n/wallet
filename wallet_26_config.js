@@ -1,1 +1,1 @@
-var mnemonic = "account frog bleak cycle label message food final image point permit able";
+var mnemonic = "donate pledge carpet minute upgrade submit six derive choice offer sausage company";

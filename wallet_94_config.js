@@ -1,1 +1,1 @@
-var mnemonic = "hour budget party mandate like worry cream mixed main theme meat title";
+var mnemonic = "enforce release speak outdoor since service buddy nose stand peanut frozen rail";

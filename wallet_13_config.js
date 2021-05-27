@@ -1,1 +1,1 @@
-var mnemonic = "excuse knee vital assist three flag infant sting slush congress group job";
+var mnemonic = "peanut asset lunch enlist liar own boat urge seek inmate trouble acoustic";

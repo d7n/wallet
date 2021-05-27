@@ -1,1 +1,1 @@
-var mnemonic = "wash clown update valley involve gown lake off other debate crater toward";
+var mnemonic = "whale then hour uphold capital modify pipe zebra life annual budget monkey";

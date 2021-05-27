@@ -1,1 +1,1 @@
-var mnemonic = "author manage oppose fury suffer suit breeze bike there inquiry bread same";
+var mnemonic = "crash clutch spell demise crack aisle trick scorpion oxygen member young usage";

@@ -1,1 +1,1 @@
-var mnemonic = "media cry latin loyal maze intact height entry typical sunny indoor snap";
+var mnemonic = "amused program wisdom harvest figure panda dignity join before dentist plug debris";

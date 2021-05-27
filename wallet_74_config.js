@@ -1,1 +1,1 @@
-var mnemonic = "load capable protect web because field draw key faith visa supply also";
+var mnemonic = "action protect embody deliver female write sell poem glare risk culture silent";

@@ -1,1 +1,1 @@
-var mnemonic = "humble verify frozen space draft travel sponsor effort empty vintage daughter carry";
+var mnemonic = "leave sort brush worth manual sweet culture layer skill noise pulp hurry";

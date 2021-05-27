@@ -1,1 +1,1 @@
-var mnemonic = "sorry first hill indoor sample announce peace broom wife kid fit surface";
+var mnemonic = "craft power emerge update fashion abstract art price arrive hurry dragon train";

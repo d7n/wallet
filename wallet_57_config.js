@@ -1,1 +1,1 @@
-var mnemonic = "drill tree echo shy attend blind crack between duck axis inmate bunker";
+var mnemonic = "approve tooth dice lab mind tiny lecture differ artwork bind depart south";

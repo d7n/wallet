@@ -1,1 +1,1 @@
-var mnemonic = "sausage tank raven cloud proud ignore talent symbol cloud own glove fault";
+var mnemonic = "potato hurry jar salmon south unfold frame release siege toy reveal civil";

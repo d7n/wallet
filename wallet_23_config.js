@@ -1,1 +1,1 @@
-var mnemonic = "control tuna breeze purity vocal audit figure beyond tomorrow top mad miss";
+var mnemonic = "torch detect kidney scale bring hope funny title luggage enlist measure excess";

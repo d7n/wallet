@@ -1,1 +1,1 @@
-var mnemonic = "huge impact length surround rail actual pizza remind normal craft arch laptop";
+var mnemonic = "wedding hint process camera subject behind spider ostrich hazard ancient head arrange";

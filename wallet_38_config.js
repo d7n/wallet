@@ -1,1 +1,1 @@
-var mnemonic = "canoe cliff bomb plate route mask swim piece spider water quarter sea";
+var mnemonic = "onion arctic corn deposit trumpet reduce display wisdom diamond general tattoo kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen ivory smoke invite bright below cousin reject sample salmon element sing";
+var mnemonic = "purity merry play parent sting chase slim sad regular letter make garlic";

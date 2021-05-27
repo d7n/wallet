@@ -1,1 +1,1 @@
-var mnemonic = "elbow shrug deliver oppose age fiction seven remove kidney peace bullet manage";
+var mnemonic = "hawk wood outdoor churn camp razor emerge attitude verify design dash shed";

@@ -1,1 +1,1 @@
-var mnemonic = "glove ten fluid when crazy drip before awkward recipe clinic bubble debate";
+var mnemonic = "path cactus coil pizza advance again armor step enrich other educate usual";

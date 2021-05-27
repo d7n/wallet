@@ -1,1 +1,1 @@
-var mnemonic = "people body topic asthma cloth ask involve aerobic man bottom ocean bracket";
+var mnemonic = "human merry derive flash will couch glide flight ethics silk sweet virus";

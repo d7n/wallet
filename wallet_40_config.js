@@ -1,1 +1,1 @@
-var mnemonic = "trust own science attract fashion buddy round toast quick limb equal first";
+var mnemonic = "predict raccoon exact involve loop grit brief soul tragic nation trap round";

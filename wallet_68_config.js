@@ -1,1 +1,1 @@
-var mnemonic = "grow club bleak speed surge powder upper topic recipe vast sure trophy";
+var mnemonic = "evoke artist live twice sound dream frog bag couch bid siren caught";

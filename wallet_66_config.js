@@ -1,1 +1,1 @@
-var mnemonic = "issue neutral kind arch already oak poem practice sword inflict core plug";
+var mnemonic = "invite luxury town pitch story almost inject move duck owner cheap notable";

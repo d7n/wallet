@@ -1,1 +1,1 @@
-var mnemonic = "virtual stove brain oblige hole solar caught tired blue start sail describe";
+var mnemonic = "scout drop flame task wrist memory culture coil decrease devote lucky measure";

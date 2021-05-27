@@ -1,1 +1,1 @@
-var mnemonic = "blast skill pair limb repair decide train flash century hint jeans worry";
+var mnemonic = "shallow burden chronic guitar athlete elephant clock mammal mail romance luxury mystery";

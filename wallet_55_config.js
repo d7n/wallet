@@ -1,1 +1,1 @@
-var mnemonic = "sting gun quit birth join broken behave awkward develop minor end pelican";
+var mnemonic = "churn renew shadow soda awful economy wolf love eyebrow solar pull pepper";

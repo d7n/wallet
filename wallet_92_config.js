@@ -1,1 +1,1 @@
-var mnemonic = "girl perfect capital sing transfer review atom odor shrug protect finger upgrade";
+var mnemonic = "thank alert oven profit useful excite fossil law check little moral country";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious gallery away hair common draft shrimp purpose wing decorate top genuine";
+var mnemonic = "rhythm pretty tonight much save message huge quote galaxy brain apart swallow";

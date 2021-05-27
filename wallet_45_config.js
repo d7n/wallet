@@ -1,1 +1,1 @@
-var mnemonic = "patient want attack brown outdoor index fold baby vacant victory life erode";
+var mnemonic = "volume lounge street library glue surround click only future wild safe act";

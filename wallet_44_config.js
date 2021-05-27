@@ -1,1 +1,1 @@
-var mnemonic = "garment amused amount this miss return dish best simple girl sun during";
+var mnemonic = "cart reform lyrics grape forum win doll middle blush cool skirt rely";

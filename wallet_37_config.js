@@ -1,1 +1,1 @@
-var mnemonic = "photo truly february image differ gossip clump impulse shift mimic student install";
+var mnemonic = "parade fall raccoon agent sport list roast derive eyebrow thrive utility original";

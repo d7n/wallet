@@ -1,1 +1,1 @@
-var mnemonic = "fee guide noodle cycle payment barrel sausage guide actor web cry bone";
+var mnemonic = "glad include timber fresh slow original chef cattle cage burst rude trend";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal bright strike lucky success finish alien head inspire cereal bid appear";
+var mnemonic = "upset erupt car frost maple olympic feed thunder round speed can sad";

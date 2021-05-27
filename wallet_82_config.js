@@ -1,1 +1,1 @@
-var mnemonic = "cushion master amused point neither body frozen just brisk essence ticket apart";
+var mnemonic = "dry faith sister end describe gym snake episode ripple urge type wool";

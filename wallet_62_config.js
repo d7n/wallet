@@ -1,1 +1,1 @@
-var mnemonic = "hurry before record one slot clean lamp dice elephant devote sign bid";
+var mnemonic = "fiction convince morning lazy present during salon switch coil soul shuffle impulse";

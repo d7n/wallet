@@ -1,1 +1,1 @@
-var mnemonic = "notice sponsor news ten brisk exclude oblige yellow spirit cost reunion marble";
+var mnemonic = "kind toy jeans anger gas napkin aunt man crew ankle memory shrug";

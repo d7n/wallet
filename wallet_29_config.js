@@ -1,1 +1,1 @@
-var mnemonic = "embody logic left roast timber opinion blame never sport pen transfer order";
+var mnemonic = "protect warrior employ region verb immune obey enact guitar ridge expect leisure";

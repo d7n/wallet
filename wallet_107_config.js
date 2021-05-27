@@ -1,1 +1,1 @@
-var mnemonic = "assume ugly embody poverty faith equal attend profit milk member clip admit";
+var mnemonic = "course dutch payment hub increase tissue march owner ring elegant lock knee";

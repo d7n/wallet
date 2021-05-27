@@ -1,1 +1,1 @@
-var mnemonic = "liar firm wrap question gallery spring omit slam over maid pigeon name";
+var mnemonic = "click ramp tuna immense yellow mystery burst bargain poem valley promote vacuum";

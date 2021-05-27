@@ -1,1 +1,1 @@
-var mnemonic = "recycle elephant piano minute pear alpha barely raven core list spider reveal";
+var mnemonic = "average minor clutch then ensure bacon churn planet below cheese toast replace";

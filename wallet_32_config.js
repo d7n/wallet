@@ -1,1 +1,1 @@
-var mnemonic = "nothing section height buyer case wrong afraid major drastic pupil remain forward";
+var mnemonic = "cook stove core onion kind original twelve nerve feature ranch width cousin";

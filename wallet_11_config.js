@@ -1,1 +1,1 @@
-var mnemonic = "club between ghost situate left husband ahead taste mirror sentence dress inspire";
+var mnemonic = "mandate history solar hurdle element surface copper erode jeans weird buyer clip";

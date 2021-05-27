@@ -1,1 +1,1 @@
-var mnemonic = "belt track code process steel clock casual wealth poverty leisure then churn";
+var mnemonic = "decorate divide dose win view mirror excess need honey feel early velvet";

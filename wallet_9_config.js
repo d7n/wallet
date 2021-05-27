@@ -1,1 +1,1 @@
-var mnemonic = "gap length raise void order section sign fault guard section come bargain";
+var mnemonic = "mask road opera social rule fall silk garden identify walnut cry orient";

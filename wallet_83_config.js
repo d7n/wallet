@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit parade cancel file town panic reunion climb grow dolphin tiny apart";
+var mnemonic = "mammal border obtain record athlete onion resource happy neutral fit remain crunch";

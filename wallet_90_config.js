@@ -1,1 +1,1 @@
-var mnemonic = "tobacco magnet fresh shoulder point session effort popular ripple crawl crystal abuse";
+var mnemonic = "globe kick expire review age about reward digital involve shallow screen elite";

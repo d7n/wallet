@@ -1,1 +1,1 @@
-var mnemonic = "alarm cannon list swift south oil catch muffin card flag arrow post";
+var mnemonic = "viable private shoe winner number equip prepare need bright river stomach struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet hockey obscure ecology fall kitchen asthma void attack duty source iron";
+var mnemonic = "phrase defense cherry example denial forward limit world other old photo spare";

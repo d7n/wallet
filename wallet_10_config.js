@@ -1,1 +1,1 @@
-var mnemonic = "scissors decorate burst sight artwork pipe plug cabin become album present stadium";
+var mnemonic = "artwork dream dress bright height damage session differ library primary curious rug";

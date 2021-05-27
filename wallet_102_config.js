@@ -1,1 +1,1 @@
-var mnemonic = "thrive prevent plunge confirm gold task dragon cheese account side praise bike";
+var mnemonic = "rigid monster salmon pulse ticket coral plug similar useless lab lobster company";

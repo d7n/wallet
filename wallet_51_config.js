@@ -1,1 +1,1 @@
-var mnemonic = "donkey sword copper rocket nature sunset service ill biology exhaust embody diary";
+var mnemonic = "door slogan domain rebuild episode oblige busy ritual speak trend exhaust crystal";

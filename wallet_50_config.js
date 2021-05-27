@@ -1,1 +1,1 @@
-var mnemonic = "churn civil where behave best energy small soul enrich term space action";
+var mnemonic = "ahead age knock depart just chalk cereal survey idle lunch weapon buddy";

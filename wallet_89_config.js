@@ -1,1 +1,1 @@
-var mnemonic = "crouch cabin symbol library game save mistake else venture apple yard fluid";
+var mnemonic = "owner echo top name slab minute brother page voyage leave supreme become";

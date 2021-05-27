@@ -1,1 +1,1 @@
-var mnemonic = "industry shy slim proud term bounce sort acid slam february scorpion legend";
+var mnemonic = "spice vapor shine diary imitate fog you parade reduce scorpion priority mirror";

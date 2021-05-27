@@ -1,1 +1,1 @@
-var mnemonic = "outside cross mom mixture wood become fiscal need motor super club goose";
+var mnemonic = "broken sketch door table patrol address blade entry rare script remove thunder";

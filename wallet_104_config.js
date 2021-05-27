@@ -1,1 +1,1 @@
-var mnemonic = "clog sniff rice snap lawn win math crunch assist expand toe custom";
+var mnemonic = "rival slide leave north oval vehicle hello swamp tide mouse one actual";

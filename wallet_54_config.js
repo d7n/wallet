@@ -1,1 +1,1 @@
-var mnemonic = "come sniff inside rapid minute bounce level abstract target tiger cotton couch";
+var mnemonic = "equip attract suggest tumble victory panel hybrid disagree spray seek another ritual";

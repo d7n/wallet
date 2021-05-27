@@ -1,1 +1,1 @@
-var mnemonic = "double jazz soap hurdle virtual coin stumble happy explain pen clip auction";
+var mnemonic = "sausage magnet eternal taxi rocket train fiber foil alter under action gym";

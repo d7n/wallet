@@ -1,1 +1,1 @@
-var mnemonic = "average phone quick popular liar choose stool swarm cereal pottery comfort into";
+var mnemonic = "regret skate they stairs wage word light rice rain drill buffalo art";

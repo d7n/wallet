@@ -1,1 +1,1 @@
-var mnemonic = "rely million document hint jaguar address security sword genre pair couple fabric";
+var mnemonic = "home club box guide sunset summer piece ski wheat current airport chuckle";

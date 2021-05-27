@@ -1,1 +1,1 @@
-var mnemonic = "daughter fan target together wasp cool decrease bean mountain fatigue treat nation";
+var mnemonic = "banana dry response clump any gasp thumb merit erase hour airport car";

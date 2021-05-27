@@ -1,1 +1,1 @@
-var mnemonic = "inner ankle biology behind parade pumpkin lend develop brick page license science";
+var mnemonic = "fold steel slab excess present divide want income negative crystal negative host";

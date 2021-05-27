@@ -1,1 +1,1 @@
-var mnemonic = "name dwarf effort leg pride civil error dry accident poem purse bargain";
+var mnemonic = "minor lizard vapor observe reopen guitar fetch execute floor pepper shoot dove";

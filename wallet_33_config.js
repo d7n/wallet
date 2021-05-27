@@ -1,1 +1,1 @@
-var mnemonic = "gasp around where chase scatter oyster aim fall agent sock agree latin";
+var mnemonic = "please talent inform hammer error dragon equip truck glide detail firm cereal";

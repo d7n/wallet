@@ -1,1 +1,1 @@
-var mnemonic = "toddler emotion caution cattle essay marble large nest scout immune alarm unfold";
+var mnemonic = "cause invest sword plastic fox inquiry forum report reunion donate eye where";

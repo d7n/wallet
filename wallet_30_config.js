@@ -1,1 +1,1 @@
-var mnemonic = "ability half lava century shuffle real burden laundry melt verb potato coffee";
+var mnemonic = "inflict ethics lemon carry draw very wreck bubble head wood mind staff";

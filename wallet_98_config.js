@@ -1,1 +1,1 @@
-var mnemonic = "that such creek make cause wool indoor economy cute wine check rib";
+var mnemonic = "exchange traffic remember cricket unknown frost inquiry fringe film window master method";

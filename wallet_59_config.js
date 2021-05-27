@@ -1,1 +1,1 @@
-var mnemonic = "depart clarify myth panther swap maze race episode cake guitar slide old";
+var mnemonic = "myself bonus coast foil laugh catch vault wet veteran october clever fit";

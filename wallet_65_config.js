@@ -1,1 +1,1 @@
-var mnemonic = "glance domain scene design forest put demise oppose have spray suffer double";
+var mnemonic = "follow output you affair right flight asthma around echo oak gun panda";

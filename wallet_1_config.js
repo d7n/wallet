@@ -1,1 +1,1 @@
-var mnemonic = "drastic grant addict dress buzz alpha entry soldier frequent addict track crash";
+var mnemonic = "history like true loop flip cover able matter clean green room favorite";

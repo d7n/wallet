@@ -1,1 +1,1 @@
-var mnemonic = "tell food fortune depart between nothing rifle suit lazy autumn illegal arrow";
+var mnemonic = "three nature idea capable desert early skate unique identify floor road sing";

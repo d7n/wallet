@@ -1,1 +1,1 @@
-var mnemonic = "unhappy web army wrap glide fury whale level brief hat happy purity";
+var mnemonic = "issue title good bid birth will stem fancy abstract subway draft warfare";
