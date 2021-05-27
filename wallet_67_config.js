@@ -1,1 +1,1 @@
-var mnemonic = "vast senior blame mention useful dice hurdle excuse chief kit dog diagram";
+var mnemonic = "arrange later south dragon mountain kick real warrior kite oval ancient gentle";

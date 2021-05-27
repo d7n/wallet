@@ -1,1 +1,1 @@
-var mnemonic = "enact like high unit casino equip sugar romance owner trigger history glow";
+var mnemonic = "civil exotic about confirm hope glow often congress awful creek side strike";

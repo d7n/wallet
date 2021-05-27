@@ -1,1 +1,1 @@
-var mnemonic = "flush fold people under sample merry learn trend drum fetch group copy";
+var mnemonic = "tongue salt quick diamond shuffle royal hammer rug pool engage october charge";

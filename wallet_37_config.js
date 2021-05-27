@@ -1,1 +1,1 @@
-var mnemonic = "subject family grass all oxygen bargain stove divide present crowd supply gown";
+var mnemonic = "click magic trust wall accident this bone twice pill spray deputy until";

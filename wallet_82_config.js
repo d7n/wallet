@@ -1,1 +1,1 @@
-var mnemonic = "clever raven odor purpose day shiver that sense observe excess magic convince";
+var mnemonic = "mask client voyage lock laugh point speed flush glimpse before neck devote";

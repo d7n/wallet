@@ -1,1 +1,1 @@
-var mnemonic = "short thing dash cute husband detect reveal leader cherry tower buyer promote";
+var mnemonic = "spare portion drop near flower write museum pretty mechanic renew caution shine";

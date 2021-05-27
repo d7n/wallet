@@ -1,1 +1,1 @@
-var mnemonic = "series next lava genre boy since neglect soul stuff random dawn ensure";
+var mnemonic = "time mirror ski rebuild process discover title video hurt iron about banana";

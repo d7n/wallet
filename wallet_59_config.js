@@ -1,1 +1,1 @@
-var mnemonic = "decide essay resist rabbit castle final hip forum effort basket wrong off";
+var mnemonic = "squirrel boost force divide stay leisure eagle connect hello chalk share infant";

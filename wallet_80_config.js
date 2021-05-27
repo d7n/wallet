@@ -1,1 +1,1 @@
-var mnemonic = "tattoo cook gesture version omit derive add hurt water luggage tuna crack";
+var mnemonic = "figure wish sweet twin genius omit cup old radio brush next foil";

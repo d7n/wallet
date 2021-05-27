@@ -1,1 +1,1 @@
-var mnemonic = "hurt output canvas reflect trip toe bottom rally law spin exchange food";
+var mnemonic = "retreat oyster garden slab cash stone essay tooth program address tissue divorce";

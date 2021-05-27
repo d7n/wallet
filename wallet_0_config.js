@@ -1,1 +1,1 @@
-var mnemonic = "fringe able inhale search baby artefact tuition crew dinner dream dynamic silk";
+var mnemonic = "carry expose liar eternal want cabin session true average have ribbon pledge";

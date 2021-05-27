@@ -1,1 +1,1 @@
-var mnemonic = "sadness eye country view myth hood suffer work reform noble twelve payment";
+var mnemonic = "cinnamon message elite happy enlist brisk rival any tobacco cruel desk torch";

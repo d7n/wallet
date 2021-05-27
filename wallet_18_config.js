@@ -1,1 +1,1 @@
-var mnemonic = "problem banner crucial pink produce speed health anchor enemy theme series glue";
+var mnemonic = "like venture attend morning employ axis erase drift alcohol glide glide dentist";

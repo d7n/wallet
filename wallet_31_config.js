@@ -1,1 +1,1 @@
-var mnemonic = "smooth boat alarm valid limit rotate magnet zebra file defy cook arrow";
+var mnemonic = "victory bulb ball sentence tube genre beef choose final kite write forest";

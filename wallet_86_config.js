@@ -1,1 +1,1 @@
-var mnemonic = "ripple arrest sustain crawl female accident any polar palace sing ice flush";
+var mnemonic = "shove avoid universe decide fence broccoli valley across oval guide end wealth";

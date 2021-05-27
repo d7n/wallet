@@ -1,1 +1,1 @@
-var mnemonic = "dumb gap debris author only invest cost quantum snow valve scissors welcome";
+var mnemonic = "admit ankle yard decide episode insane vacuum plug diagram action phone hamster";

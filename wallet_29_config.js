@@ -1,1 +1,1 @@
-var mnemonic = "nest scorpion today web pluck member disorder mango august prosper load broom";
+var mnemonic = "cherry interest great tribe decide pact silent wine entire interest fork top";

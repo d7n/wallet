@@ -1,1 +1,1 @@
-var mnemonic = "decrease parade mushroom type toss mouse isolate exhibit avoid arm dream tobacco";
+var mnemonic = "dad winter story cushion fragile escape fragile prepare decade vacant enforce bamboo";

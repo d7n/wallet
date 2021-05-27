@@ -1,1 +1,1 @@
-var mnemonic = "stand someone pistol blind squirrel assault envelope fine soap sponsor begin husband";
+var mnemonic = "smile shoe coconut weather grant voice reform review drink select dial blush";

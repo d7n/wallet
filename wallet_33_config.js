@@ -1,1 +1,1 @@
-var mnemonic = "life never palace render airport evidence truth exist champion vote foot cherry";
+var mnemonic = "subject fuel record project boss february marble valve wash festival together practice";

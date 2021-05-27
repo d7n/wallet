@@ -1,1 +1,1 @@
-var mnemonic = "media wreck illegal squeeze damage daring naive enjoy salute accuse grocery swear";
+var mnemonic = "choose fatal void artist genre loyal pigeon midnight portion close home island";

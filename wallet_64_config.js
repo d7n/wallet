@@ -1,1 +1,1 @@
-var mnemonic = "cruise shallow sail figure drift shift edit inject hidden detail year acid";
+var mnemonic = "clarify purchase plate concert supply scheme venue crop ginger swift mixed follow";

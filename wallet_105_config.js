@@ -1,1 +1,1 @@
-var mnemonic = "soon mouse bike piece clap rice sponsor check stadium potato plate fun";
+var mnemonic = "blast faint spray cliff depend elephant butter master engage gadget diet movie";

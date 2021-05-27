@@ -1,1 +1,1 @@
-var mnemonic = "utility room input ketchup pulp assume color bamboo exhibit vivid layer crowd";
+var mnemonic = "heavy cabin foam innocent cage trigger oppose castle annual index dress target";

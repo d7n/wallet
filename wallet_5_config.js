@@ -1,1 +1,1 @@
-var mnemonic = "bridge real future gorilla hybrid term keep major cake inside deputy reunion";
+var mnemonic = "scorpion mule end cousin purse provide pottery acoustic annual car gravity actual";

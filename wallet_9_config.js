@@ -1,1 +1,1 @@
-var mnemonic = "chronic trigger pitch cushion raise chalk spider boss elbow valley case frog";
+var mnemonic = "gospel affair report sing festival door lemon furnace shine shop venue broom";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid enlist clever improve property dice reward cheese biology van uncle unlock";
+var mnemonic = "shrimp fence ankle borrow olympic donate copper parent alert casual lady holiday";

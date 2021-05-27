@@ -1,1 +1,1 @@
-var mnemonic = "neutral summer disease donate alley endorse isolate math cave ghost neck story";
+var mnemonic = "bus brave layer inspire hover maple issue cheap uniform relief human gun";

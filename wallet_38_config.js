@@ -1,1 +1,1 @@
-var mnemonic = "supply legend seat cover erupt track trend nuclear apart violin divorce mix";
+var mnemonic = "frog page fashion puppy speed document sure dish leaf bleak pitch home";

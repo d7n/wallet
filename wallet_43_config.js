@@ -1,1 +1,1 @@
-var mnemonic = "unable supply lottery supreme mention neutral reveal domain ticket million half job";
+var mnemonic = "wage actor athlete glide raven stomach protect electric nest domain citizen soup";

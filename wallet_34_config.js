@@ -1,1 +1,1 @@
-var mnemonic = "bleak combine ask flame paddle amateur assault tortoise opera knock advance ridge";
+var mnemonic = "bitter step border snack resist inherit buyer feature pave matrix acquire width";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb melt pause fitness knee soldier accuse deer wise snow thumb december";
+var mnemonic = "antenna language culture position merit divide initial daring control method shield portion";

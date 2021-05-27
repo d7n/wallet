@@ -1,1 +1,1 @@
-var mnemonic = "proud nephew staff sand depth where shell obey broom screen input expose";
+var mnemonic = "few robust enlist piece ranch toe deer drive lawsuit magnet swear canal";

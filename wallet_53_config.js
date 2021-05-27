@@ -1,1 +1,1 @@
-var mnemonic = "other buffalo bike thought muffin parade office smart marble worth radar walnut";
+var mnemonic = "harvest cotton sheriff ginger common ribbon muscle describe remember spawn type erode";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury tower secret have theory valley over quick scan source trigger faith";
+var mnemonic = "rhythm special twenty pretty rotate road feel depend amateur often gas able";

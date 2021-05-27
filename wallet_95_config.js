@@ -1,1 +1,1 @@
-var mnemonic = "when reflect aspect tube garlic educate tomato jacket soft sadness oblige behave";
+var mnemonic = "collect popular mask company stadium rail stairs empty slow document oval busy";

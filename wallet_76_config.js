@@ -1,1 +1,1 @@
-var mnemonic = "add smoke fun liar hour rookie chalk intact quantum trip unusual remain";
+var mnemonic = "uncle box rescue recall oval click alter distance poem old gap ribbon";

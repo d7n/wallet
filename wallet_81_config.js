@@ -1,1 +1,1 @@
-var mnemonic = "town sustain leg lake seek require morning coyote such buddy leader clutch";
+var mnemonic = "spoil boring call copper entry always defense general fog monkey accident assume";

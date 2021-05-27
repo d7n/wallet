@@ -1,1 +1,1 @@
-var mnemonic = "proof jealous couch abuse sure merry canyon shrug coral brain obey liquid";
+var mnemonic = "awake useful indicate vacant differ clog whisper era pen rescue write quote";

@@ -1,1 +1,1 @@
-var mnemonic = "renew slot collect radio mango try chunk special fresh shove winter hotel";
+var mnemonic = "cake coast drift rich escape document dwarf donate erode very profit shadow";

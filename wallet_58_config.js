@@ -1,1 +1,1 @@
-var mnemonic = "pioneer horn account insect alert arch loop text exhaust rice advance labor";
+var mnemonic = "jacket turn olympic gown truck north nation twelve tide typical error stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "utility charge cool item dignity wild dinosaur soap subway jungle mixture humble";
+var mnemonic = "immune spirit grant wash outer found mango just dragon kangaroo funny wolf";

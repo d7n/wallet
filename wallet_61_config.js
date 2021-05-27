@@ -1,1 +1,1 @@
-var mnemonic = "local inform tip crash short you tattoo spot shiver chapter helmet report";
+var mnemonic = "twist elite apple find crunch welcome field warm box consider enough sell";

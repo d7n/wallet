@@ -1,1 +1,1 @@
-var mnemonic = "iron father neck decline guess vintage code traffic rebuild bounce embark explain";
+var mnemonic = "hurry deal replace genre pudding useless reopen excite dad dish staff ticket";

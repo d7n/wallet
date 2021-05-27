@@ -1,1 +1,1 @@
-var mnemonic = "army metal involve pair repair solar hidden tumble fire negative client cart";
+var mnemonic = "hard pattern pass primary swear space borrow budget march quiz possible energy";

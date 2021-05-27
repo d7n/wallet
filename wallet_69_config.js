@@ -1,1 +1,1 @@
-var mnemonic = "casual arctic canal august rural chat mirror mule maple express tag success";
+var mnemonic = "riot copy radio design lunch fetch soup remind vendor frame hire course";

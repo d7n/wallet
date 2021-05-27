@@ -1,1 +1,1 @@
-var mnemonic = "recycle action lake one surge fiber labor fancy stone loud spoil world";
+var mnemonic = "pet uniform actress hotel champion able hair seminar lunar average loan smile";

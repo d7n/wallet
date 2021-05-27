@@ -1,1 +1,1 @@
-var mnemonic = "side push sustain purse step indoor depart tail large claim screen door";
+var mnemonic = "welcome wisdom volcano equal dust crush describe river feel please midnight lobster";

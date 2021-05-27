@@ -1,1 +1,1 @@
-var mnemonic = "cupboard remain oak often hill distance abstract rifle master unhappy sausage north";
+var mnemonic = "observe strategy kiss column ecology develop exhaust wait wedding voyage claw snack";

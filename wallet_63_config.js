@@ -1,1 +1,1 @@
-var mnemonic = "truth warm enjoy capable embark hub flush embark buyer trim mesh digital";
+var mnemonic = "ticket pony check remember rent pelican spell ocean fix dutch pitch excite";

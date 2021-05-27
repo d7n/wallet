@@ -1,1 +1,1 @@
-var mnemonic = "call one angry parade execute pitch aisle giraffe tide universe island disease";
+var mnemonic = "minimum awful chimney aunt web obscure legal chunk gloom front success attend";

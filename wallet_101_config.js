@@ -1,1 +1,1 @@
-var mnemonic = "forward female artist wolf ski slush exclude area net recall crack century";
+var mnemonic = "family old dwarf almost vapor report beach relief all work chalk zone";

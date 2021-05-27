@@ -1,1 +1,1 @@
-var mnemonic = "mercy rebuild visit puzzle debate forum pencil recipe renew glance fury energy";
+var mnemonic = "crumble task universe exchange sphere hub album wink wrong vacant basic pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle jar monster squirrel trigger praise bike hamster dust retire finish benefit";
+var mnemonic = "meadow enact record repeat season armor below erupt share wear fold essay";

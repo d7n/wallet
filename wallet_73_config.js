@@ -1,1 +1,1 @@
-var mnemonic = "giant account biology alter supply rival tribe wrong proof around vicious manage";
+var mnemonic = "pepper raccoon service auction comfort list humor inflict autumn host usual rival";

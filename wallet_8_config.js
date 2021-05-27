@@ -1,1 +1,1 @@
-var mnemonic = "mansion unknown auto pony cover police battle stand ten crisp deal worth";
+var mnemonic = "asset rely merge soup subway kidney cinnamon clog receive until diary object";

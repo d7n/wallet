@@ -1,1 +1,1 @@
-var mnemonic = "sketch assume portion copy trim basic spell time ranch frozen exist ball";
+var mnemonic = "switch regret axis north absent soccer supreme couch salad great exchange have";

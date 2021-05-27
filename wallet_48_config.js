@@ -1,1 +1,1 @@
-var mnemonic = "lock border alley estate tag beauty hint idle junk ship sibling endless";
+var mnemonic = "leave satoshi urban merit retire wood dream join rural stereo muscle sugar";

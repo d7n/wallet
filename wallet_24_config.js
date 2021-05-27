@@ -1,1 +1,1 @@
-var mnemonic = "success benefit obtain must forest bar spread retire play notable cable reform";
+var mnemonic = "zoo civil inject dust genius earth duty bench pyramid volcano master segment";

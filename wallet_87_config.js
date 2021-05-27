@@ -1,1 +1,1 @@
-var mnemonic = "foot vacant word image lawn obey quarter episode wave vicious suggest wheel";
+var mnemonic = "whisper cart expire ankle organ legend remove lottery question rate coral grief";

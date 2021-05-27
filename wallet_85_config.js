@@ -1,1 +1,1 @@
-var mnemonic = "panic arctic rebuild another into arrive unit wedding sand celery fat stereo";
+var mnemonic = "space latin more torch huge void turtle bonus arrive toy actor taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "slot goat emerge arm lizard worth forward inquiry pizza latin south leaf";
+var mnemonic = "fringe bargain rebuild turtle person pig crater depth proud scrub oxygen alley";

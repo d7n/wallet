@@ -1,1 +1,1 @@
-var mnemonic = "noise split movie liar castle orbit oil rich track average guess beyond";
+var mnemonic = "regret find cloth try accuse base arena outdoor brief utility spike accuse";

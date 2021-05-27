@@ -1,1 +1,1 @@
-var mnemonic = "spike before roof when paper dawn sudden sort vivid dress virtual good";
+var mnemonic = "wine zoo until modify during boy hat neck work source rice network";

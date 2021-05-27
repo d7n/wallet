@@ -1,1 +1,1 @@
-var mnemonic = "visa vendor share perfect elevator vendor quick together quality steak web talk";
+var mnemonic = "start wheat girl mountain undo peanut coconut tape absurd urge occur gain";

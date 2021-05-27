@@ -1,1 +1,1 @@
-var mnemonic = "sheriff detect require suffer enable love add life lion master they involve";
+var mnemonic = "drink cave yard rail smart chest health surface buzz razor genius problem";

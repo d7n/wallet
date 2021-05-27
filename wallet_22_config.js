@@ -1,1 +1,1 @@
-var mnemonic = "turkey stone audit omit mention cat pool exist stable mention truck primary";
+var mnemonic = "blue celery rib eight october guide mechanic spray local funny series face";

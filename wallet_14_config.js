@@ -1,1 +1,1 @@
-var mnemonic = "ocean know rabbit sock then hockey wish shoot old immune enhance pony";
+var mnemonic = "amused lend disease blush hand army jeans picture ladder fragile expire undo";

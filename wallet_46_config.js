@@ -1,1 +1,1 @@
-var mnemonic = "soap sadness cycle speak loop glide tray kite decorate chicken person identify";
+var mnemonic = "apart hood sunset okay lion decorate gym destroy scale diamond divorce vanish";

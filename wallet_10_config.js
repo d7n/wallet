@@ -1,1 +1,1 @@
-var mnemonic = "special soda cruel sauce join phrase when horse leaf loop force pudding";
+var mnemonic = "raven candy suspect monkey filter knife during decide advice coach sock hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "concert faint media motion black clock vendor reflect expose throw code gather";
+var mnemonic = "chest hungry view prepare weekend chef wash girl rally crumble large aim";

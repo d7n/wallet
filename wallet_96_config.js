@@ -1,1 +1,1 @@
-var mnemonic = "then custom supply elite fossil radio mean chronic album fade comic arch";
+var mnemonic = "alien craft shove patient cash secret only become drop abstract sadness coconut";

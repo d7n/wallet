@@ -1,1 +1,1 @@
-var mnemonic = "cycle twelve come fire essay build moment multiply explain index great area";
+var mnemonic = "cry two chest claim arctic together discover senior have pluck tooth child";

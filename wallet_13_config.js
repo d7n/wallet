@@ -1,1 +1,1 @@
-var mnemonic = "because ignore priority sort maple aisle blade castle divert fix brand unlock";
+var mnemonic = "clog install pink goat swim hover squirrel scale neutral used lady ship";

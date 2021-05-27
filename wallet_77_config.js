@@ -1,1 +1,1 @@
-var mnemonic = "confirm engine kingdom badge armor dentist rely muscle trouble palace flower escape";
+var mnemonic = "tree frown unable endorse inform castle arena giraffe lecture leader sting attend";

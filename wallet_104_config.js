@@ -1,1 +1,1 @@
-var mnemonic = "pattern mouse capable tonight spoon midnight master donate auction false donkey goat";
+var mnemonic = "assist isolate enough cloth range outdoor cream believe leaf machine daughter exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "hen rose lazy loan group clever fold trophy aware double mask swallow";
+var mnemonic = "van chair erode seminar remember inherit bench idle sand debris also solution";

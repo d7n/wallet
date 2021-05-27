@@ -1,1 +1,1 @@
-var mnemonic = "mercy execute bottom stadium return learn siege doll bundle usage juice defense";
+var mnemonic = "regular spatial impose skate noodle grain rich fitness forum off brand ride";

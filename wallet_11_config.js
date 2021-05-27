@@ -1,1 +1,1 @@
-var mnemonic = "scene cram retreat cloud mesh tree cart mystery unknown banana close leader";
+var mnemonic = "guilt upon merry bottom chaos bread voice kiss monster order vapor pair";

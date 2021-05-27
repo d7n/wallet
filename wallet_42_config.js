@@ -1,1 +1,1 @@
-var mnemonic = "elbow trust pepper rude ability chief lava track match bag target since";
+var mnemonic = "video strategy siren neck lyrics aunt apart invest figure lock ladder curtain";

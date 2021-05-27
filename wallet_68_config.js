@@ -1,1 +1,1 @@
-var mnemonic = "coin emerge crane number pipe stomach math excite mountain industry because usage";
+var mnemonic = "burst nuclear under entire travel wasp crack mirror patient later leave bundle";

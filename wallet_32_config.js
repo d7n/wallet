@@ -1,1 +1,1 @@
-var mnemonic = "pilot diet middle other prepare there crush excite soccer youth camera ripple";
+var mnemonic = "cactus thumb salmon news rally mention illness uphold citizen rug worth dog";

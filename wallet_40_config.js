@@ -1,1 +1,1 @@
-var mnemonic = "observe bargain doctor outer horror manual behave weapon sad city company original";
+var mnemonic = "veteran amazing hunt inch state shine manage devote exile client mixture salad";

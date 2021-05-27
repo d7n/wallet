@@ -1,1 +1,1 @@
-var mnemonic = "brave tooth boy shaft scale know chuckle animal disorder color heart luxury";
+var mnemonic = "stage certain toddler cereal blur weird glare tube arm uniform alien verify";

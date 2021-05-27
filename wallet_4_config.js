@@ -1,1 +1,1 @@
-var mnemonic = "noodle meat real ivory squeeze knee cash hockey island couple remain isolate";
+var mnemonic = "ordinary distance ugly taxi bus diamond chapter news yellow garden flip awake";

@@ -1,1 +1,1 @@
-var mnemonic = "sail junior neck mixture deliver candy toward chest pelican pull clarify labor";
+var mnemonic = "source liberty gun top equal unit jelly van evoke list hotel flush";

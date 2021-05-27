@@ -1,1 +1,1 @@
-var mnemonic = "gossip tobacco unknown close embody dove soap vapor spell fix soft select";
+var mnemonic = "maid fluid globe stumble capable edge hello sure input zoo charge farm";

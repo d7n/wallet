@@ -1,1 +1,1 @@
-var mnemonic = "lock answer rib alone alert circle battle outside mix fix goose kingdom";
+var mnemonic = "mushroom awful kidney tenant hat trophy proud wish blind stand night renew";
