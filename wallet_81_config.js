@@ -1,1 +1,1 @@
-var mnemonic = "chat milk loyal crop hurry couple brand above vacant double glimpse link";
+var mnemonic = "stumble credit early elegant effort debate breeze truly poet slight gain soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "bread hill dad sentence vicious random combine brave danger hunt giant tenant";
+var mnemonic = "lonely retire nose dust unveil orange rather stable print punch soap pulse";

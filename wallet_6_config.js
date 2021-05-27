@@ -1,1 +1,1 @@
-var mnemonic = "despair zebra wing acoustic civil umbrella tape oak peace immune super honey";
+var mnemonic = "before general employ tortoise uncover predict soup also honey other better mesh";

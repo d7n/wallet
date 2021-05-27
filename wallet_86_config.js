@@ -1,1 +1,1 @@
-var mnemonic = "earth safe squirrel region peace civil soup depend together sweet pigeon room";
+var mnemonic = "flee assault invest resist room glue today defy finish thumb panda voyage";

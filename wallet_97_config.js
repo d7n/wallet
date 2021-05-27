@@ -1,1 +1,1 @@
-var mnemonic = "fish mean voice lucky assume spatial evolve duty gold vehicle shoulder raven";
+var mnemonic = "wedding mixed coil area uncover dirt all hint eight right neither design";

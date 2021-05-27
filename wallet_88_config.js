@@ -1,1 +1,1 @@
-var mnemonic = "claim female coffee excess crucial test behind news firm vapor sea delay";
+var mnemonic = "flame anxiety easily become husband buzz repeat master nice topple addict open";

@@ -1,1 +1,1 @@
-var mnemonic = "escape sister shift palace legend mask animal easily evidence guilt merge initial";
+var mnemonic = "kind city athlete narrow glove meadow level fish miss puppy rail acid";

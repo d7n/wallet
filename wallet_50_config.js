@@ -1,1 +1,1 @@
-var mnemonic = "bottom cargo clinic sibling armed frost make upset eager raw south wise";
+var mnemonic = "whale purchase champion welcome divorce stem perfect also unlock cigar decorate cross";

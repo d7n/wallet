@@ -1,1 +1,1 @@
-var mnemonic = "abandon subject pair rapid earn atom parrot march cancel junior feature pioneer";
+var mnemonic = "random voyage sight trick interest miracle banana forget success enlist garden flee";

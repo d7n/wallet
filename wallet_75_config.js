@@ -1,1 +1,1 @@
-var mnemonic = "attack text soap matter leave odor palm life version gentle year exit";
+var mnemonic = "brand vendor wall argue lizard clarify december iron merry hour sweet habit";

@@ -1,1 +1,1 @@
-var mnemonic = "provide dirt shrimp about surprise tip usual correct wedding pet broccoli medal";
+var mnemonic = "version fade arrive practice people school aunt pause then orchard top immense";

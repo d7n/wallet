@@ -1,1 +1,1 @@
-var mnemonic = "stamp orient disease two express style excess flower ghost robot immense evoke";
+var mnemonic = "energy degree canoe under squeeze know require equip badge pencil flush faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "brass axis scan grab voice rally feed grain grunt pole demise elder";
+var mnemonic = "knee mushroom surge early naive stool radio pulp all spoil edge buddy";

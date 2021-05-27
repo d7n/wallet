@@ -1,1 +1,1 @@
-var mnemonic = "meat point cement key track lawsuit soft favorite recall shove shine shrug";
+var mnemonic = "clever hard impact pulse replace gesture route segment hill cart sadness bid";

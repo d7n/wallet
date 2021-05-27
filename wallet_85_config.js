@@ -1,1 +1,1 @@
-var mnemonic = "then feed oval night gap long raise rookie crisp surround mistake actor";
+var mnemonic = "toward offer view envelope gate labor rocket milk solution spider guard point";

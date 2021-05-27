@@ -1,1 +1,1 @@
-var mnemonic = "slogan middle eyebrow local inherit penalty goose true spread crater hood joy";
+var mnemonic = "away motion return cannon stairs royal slogan maid choose swap assault soon";

@@ -1,1 +1,1 @@
-var mnemonic = "tower have boat mind brain view tackle chicken warfare citizen thing sad";
+var mnemonic = "stone banner drip fade taxi cage ugly thrive pottery prefer pink siren";

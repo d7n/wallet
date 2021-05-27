@@ -1,1 +1,1 @@
-var mnemonic = "budget draft slogan enforce book tip second index cotton peanut buffalo rotate";
+var mnemonic = "swamp screen churn initial symbol liberty organ win exotic slow swap sheriff";

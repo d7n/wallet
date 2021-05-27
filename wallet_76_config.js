@@ -1,1 +1,1 @@
-var mnemonic = "sick spider lava spy frog enroll anchor because diet present cheese notable";
+var mnemonic = "mixed stove wealth fetch hotel regular teach salon sibling about around cave";

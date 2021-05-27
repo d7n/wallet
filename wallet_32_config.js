@@ -1,1 +1,1 @@
-var mnemonic = "dog false example head they height include viable youth logic urge cluster";
+var mnemonic = "cupboard blind slam clarify deny tunnel super rude purpose rural matrix practice";

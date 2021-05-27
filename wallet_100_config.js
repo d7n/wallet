@@ -1,1 +1,1 @@
-var mnemonic = "aware arm olive practice program bird struggle lobster file pause teach tunnel";
+var mnemonic = "exhaust airport monitor panda flavor session voice stove team sign dream spin";

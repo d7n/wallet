@@ -1,1 +1,1 @@
-var mnemonic = "scrap smoke name token mechanic leaf jeans vault patrol label rifle repair";
+var mnemonic = "cute need lend pulp young truck rough hazard elegant oven plug achieve";

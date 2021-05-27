@@ -1,1 +1,1 @@
-var mnemonic = "hammer crime kick note average head tree solution length bring kingdom city";
+var mnemonic = "adapt prepare wrestle debate pelican snake depend congress viable minimum practice arch";

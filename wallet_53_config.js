@@ -1,1 +1,1 @@
-var mnemonic = "actual clean session cruel mixture common game forum replace cheese kiss casino";
+var mnemonic = "trade stable vital observe speak paper crack hold piano dolphin warrior plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom gravity one actual slide adjust risk thought universe wife require camp";
+var mnemonic = "enact supreme cluster mad nice cereal include bottom lucky peanut section crime";

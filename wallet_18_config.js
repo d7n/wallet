@@ -1,1 +1,1 @@
-var mnemonic = "dish tissue yellow chest wing lottery tomorrow key husband artwork sound note";
+var mnemonic = "oppose top embark cradle ensure exact mean option car man path movie";

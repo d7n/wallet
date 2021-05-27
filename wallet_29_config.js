@@ -1,1 +1,1 @@
-var mnemonic = "loop rain forest mercy bless push emotion awkward frog since spell eagle";
+var mnemonic = "comfort entire pudding web input capable reform jar impact actual multiply grace";

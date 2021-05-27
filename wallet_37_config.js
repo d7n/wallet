@@ -1,1 +1,1 @@
-var mnemonic = "crime oxygen crash height silver live toast donkey device orange peace denial";
+var mnemonic = "stove equip worth doctor appear person cushion fluid shy essay tube place";

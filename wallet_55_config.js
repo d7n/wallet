@@ -1,1 +1,1 @@
-var mnemonic = "tiny trip toward tide mask treat target inspire can buyer width depart";
+var mnemonic = "source say loop security payment inside road close pony sick father wait";

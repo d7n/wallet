@@ -1,1 +1,1 @@
-var mnemonic = "peasant shadow weather swim report security cliff angry over secret tragic uniform";
+var mnemonic = "destroy capital excite human frown side country skull canal warrior artwork where";

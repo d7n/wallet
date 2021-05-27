@@ -1,1 +1,1 @@
-var mnemonic = "pig act book infant traffic spoon warrior mushroom unit amused fit trial";
+var mnemonic = "dutch knock blush gadget wing tiger wash swear faculty assault prison bar";

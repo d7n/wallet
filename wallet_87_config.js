@@ -1,1 +1,1 @@
-var mnemonic = "lazy turn build nuclear stuff stomach soft parade life tortoise hat dice";
+var mnemonic = "put modify exhaust can giant divert spell super accident giant february solve";

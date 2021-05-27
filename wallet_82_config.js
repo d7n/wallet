@@ -1,1 +1,1 @@
-var mnemonic = "elephant all cram cave plate immense property game village unveil picture casual";
+var mnemonic = "certain organ romance stick cigar audit mean swim note spirit spice clump";

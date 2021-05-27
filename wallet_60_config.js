@@ -1,1 +1,1 @@
-var mnemonic = "gun eternal inspire bundle wish meadow mention theory stage drop flash awkward";
+var mnemonic = "suit valley creek find universe flame gesture repair paddle seed wide tag";

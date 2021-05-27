@@ -1,1 +1,1 @@
-var mnemonic = "south bring ladder bonus innocent perfect purchase dolphin economy skull employ demise";
+var mnemonic = "course oil laundry depth exercise smart shove enlist orbit school average ship";

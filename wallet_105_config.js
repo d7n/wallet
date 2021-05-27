@@ -1,1 +1,1 @@
-var mnemonic = "fame sleep slide vast boil describe guess boost code inform cycle exchange";
+var mnemonic = "fossil slot immense slush vessel inhale dolphin album segment island salad truth";

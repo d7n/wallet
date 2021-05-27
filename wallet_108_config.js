@@ -1,1 +1,1 @@
-var mnemonic = "lock beef age barely expire gun document sock cook bike tuna object";
+var mnemonic = "summer chase divert afraid endless excite maid produce art system twist client";

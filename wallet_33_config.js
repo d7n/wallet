@@ -1,1 +1,1 @@
-var mnemonic = "dune diary flag that clarify exchange safe educate safe siege then blouse";
+var mnemonic = "hundred regret width episode glow meat fee dice level measure obvious joy";

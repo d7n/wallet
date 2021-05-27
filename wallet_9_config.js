@@ -1,1 +1,1 @@
-var mnemonic = "person attract accuse client census olive cloud broken universe grass hybrid ignore";
+var mnemonic = "diagram nuclear swift avoid repair kiss dice pink avocado come neck laptop";

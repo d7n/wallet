@@ -1,1 +1,1 @@
-var mnemonic = "mansion either cover piece grab dose outside since destroy solve agree state";
+var mnemonic = "upon alter holiday notable struggle enable unfold journey bottom kit story latin";

@@ -1,1 +1,1 @@
-var mnemonic = "net basic monster answer away matrix chase cram cart guilt glory inspire";
+var mnemonic = "luggage practice asset brown budget kiss army fan dragon jelly tower attack";

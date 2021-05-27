@@ -1,1 +1,1 @@
-var mnemonic = "pattern color vast fatal clip street volume drastic kangaroo merge buzz melt";
+var mnemonic = "coil caught shaft inquiry such crumble cup remind exact sentence dumb aisle";

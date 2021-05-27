@@ -1,1 +1,1 @@
-var mnemonic = "pitch spawn goose print front fantasy city stuff install couple prefer garbage";
+var mnemonic = "warrior fatigue burger chapter oblige daring wonder test act print elevator decline";

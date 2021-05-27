@@ -1,1 +1,1 @@
-var mnemonic = "sustain index require moon twist click eager open pitch wreck spell sail";
+var mnemonic = "climb genius crawl steel pistol tornado moral speak lab combine father wire";

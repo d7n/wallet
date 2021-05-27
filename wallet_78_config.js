@@ -1,1 +1,1 @@
-var mnemonic = "page skill nothing smart blossom shy river involve palm purse orange manual";
+var mnemonic = "drift april anchor cricket reject present mirror invest exact anchor news nature";

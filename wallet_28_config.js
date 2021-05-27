@@ -1,1 +1,1 @@
-var mnemonic = "slender leaf guide mystery session cabbage stay cute festival course blame comfort";
+var mnemonic = "athlete noble health plug upper someone neglect side hair ticket boost carpet";

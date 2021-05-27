@@ -1,1 +1,1 @@
-var mnemonic = "interest try liquid electric trip width rally frost heart timber fancy lyrics";
+var mnemonic = "list when satoshi find scheme moral soft grid deposit wave combine stand";

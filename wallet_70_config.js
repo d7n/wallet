@@ -1,1 +1,1 @@
-var mnemonic = "stool swamp ignore thumb photo poverty agree alter seven extra shell sketch";
+var mnemonic = "gift tourist cream pilot hub brain average network bundle speed push agent";

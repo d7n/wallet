@@ -1,1 +1,1 @@
-var mnemonic = "floor wave draft idle misery involve battle wash modify grant crash fold";
+var mnemonic = "craft fine culture load step mechanic radar before kind alley toast bench";

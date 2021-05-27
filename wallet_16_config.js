@@ -1,1 +1,1 @@
-var mnemonic = "garlic tray pelican evolve lady cupboard poet transfer obey layer pony float";
+var mnemonic = "clay portion radio elite cave cream useless hazard city example melt mesh";

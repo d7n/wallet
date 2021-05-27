@@ -1,1 +1,1 @@
-var mnemonic = "mouse blast truly vital virus guide idle leaf unusual gallery visit trouble";
+var mnemonic = "sock shock razor warfare actual horse fire loud year brush alert expire";

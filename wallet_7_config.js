@@ -1,1 +1,1 @@
-var mnemonic = "slab solid business grape frown whisper foot number symbol exhaust pyramid purity";
+var mnemonic = "horror light letter eternal position baby until unhappy run unaware camera nasty";

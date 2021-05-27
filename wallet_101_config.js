@@ -1,1 +1,1 @@
-var mnemonic = "spider often else lawsuit chase kite random power vanish nest episode crowd";
+var mnemonic = "sponsor satisfy announce weather body toe you fantasy mule damage clinic kiwi";

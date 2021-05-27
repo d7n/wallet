@@ -1,1 +1,1 @@
-var mnemonic = "perfect olympic globe chalk physical memory surge tooth nominee ill they stamp";
+var mnemonic = "swarm want like range fever private action security fatal orient wonder because";

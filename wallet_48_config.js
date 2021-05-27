@@ -1,1 +1,1 @@
-var mnemonic = "tunnel pill stereo climb future crush ladder congress scissors tomato coyote again";
+var mnemonic = "bomb riot farm dawn distance nasty blood damp fitness sing decline car";

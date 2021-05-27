@@ -1,1 +1,1 @@
-var mnemonic = "rare unhappy cry venue space affair hotel glide speak advance scatter hip";
+var mnemonic = "anxiety learn output taxi sniff despair shop clock vote column episode alien";

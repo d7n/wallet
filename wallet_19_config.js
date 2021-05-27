@@ -1,1 +1,1 @@
-var mnemonic = "already work year false legal pledge know shy answer gown volume water";
+var mnemonic = "ankle razor region potato glare siren fiscal bunker auction manage glad surprise";

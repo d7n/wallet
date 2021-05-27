@@ -1,1 +1,1 @@
-var mnemonic = "success ski soon round apple popular execute collect equip wrestle please dynamic";
+var mnemonic = "heart measure woman tuition junior hotel nerve light claim owner scissors cabin";

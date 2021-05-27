@@ -1,1 +1,1 @@
-var mnemonic = "near horse drastic quit unveil spoon group helmet palace robot light blame";
+var mnemonic = "priority detail inner depend wife party october fun orphan project battle excite";

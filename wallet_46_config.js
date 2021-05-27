@@ -1,1 +1,1 @@
-var mnemonic = "arrow save brave bring title bachelor spell immense enjoy convince couch note";
+var mnemonic = "milk great legal shed iron swing fiber slender nose scorpion race gate";

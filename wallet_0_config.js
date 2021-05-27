@@ -1,1 +1,1 @@
-var mnemonic = "fold near edit hero fee muscle version task bread ocean cook practice";
+var mnemonic = "future square fatal sketch banana elite between cheese play useful dial spend";

@@ -1,1 +1,1 @@
-var mnemonic = "rough useless dog solar manage affair leader dutch scene rocket protect fragile";
+var mnemonic = "panel equip valley input dolphin indoor minute dust humble route injury mother";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble chalk legend capital country crack detail knee dial enroll tent abandon";
+var mnemonic = "tide leave inner invite easy rough certain gorilla coach method farm trip";

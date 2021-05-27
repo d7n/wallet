@@ -1,1 +1,1 @@
-var mnemonic = "play use marble error banner require legal day tower alpha repeat elevator";
+var mnemonic = "squirrel loop rescue muscle crumble sauce brief void spatial little office mule";

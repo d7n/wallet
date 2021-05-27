@@ -1,1 +1,1 @@
-var mnemonic = "faith fiber soon across lottery tooth report blossom fish siren risk regular";
+var mnemonic = "radio kick below road route child gadget process frozen fee genius history";

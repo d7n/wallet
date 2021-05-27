@@ -1,1 +1,1 @@
-var mnemonic = "motor describe dice nature mutual degree act tunnel boring bonus present forget";
+var mnemonic = "taxi spend canoe easy lizard radio history sock claim type omit control";

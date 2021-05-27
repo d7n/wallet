@@ -1,1 +1,1 @@
-var mnemonic = "inside broken student say sense ceiling exhibit vendor enact cluster outer speed";
+var mnemonic = "pave like come pepper code venue air climb force cotton stamp ketchup";

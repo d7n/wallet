@@ -1,1 +1,1 @@
-var mnemonic = "reopen depart quarter network left water mesh news afraid critic wise absurd";
+var mnemonic = "hockey twin secret lawn critic among age ribbon pact advance neutral garage";

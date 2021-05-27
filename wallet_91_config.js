@@ -1,1 +1,1 @@
-var mnemonic = "trend mercy estate fold base property title estate idle evoke art wish";
+var mnemonic = "trim toss physical kangaroo dad dirt hard fork dinosaur cupboard avocado sugar";

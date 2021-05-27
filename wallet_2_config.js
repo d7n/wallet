@@ -1,1 +1,1 @@
-var mnemonic = "police kite phone board endorse swallow blossom round during crystal stem tiny";
+var mnemonic = "brass excite veteran impact other vendor also girl kick fade involve dial";

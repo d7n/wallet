@@ -1,1 +1,1 @@
-var mnemonic = "scene physical hill bleak affair rack tunnel bronze disagree day omit twenty";
+var mnemonic = "view retire rice ghost sphere security session eye nuclear inspire obtain motor";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead wear oval ride where spirit orphan remind concert noble shine offer";
+var mnemonic = "wedding sadness submit blanket kingdom story asset maple catch border inspire bachelor";

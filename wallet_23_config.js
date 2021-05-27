@@ -1,1 +1,1 @@
-var mnemonic = "noble stay gasp inject cigar expect fossil bottom parent father mystery culture";
+var mnemonic = "when crouch sign project clown bottom grit advice extra burst hood term";

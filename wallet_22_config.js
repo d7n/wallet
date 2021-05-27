@@ -1,1 +1,1 @@
-var mnemonic = "wall pair boat unfold panic corn chaos foot enough grab energy lab";
+var mnemonic = "museum already stock bracket garden bid latin dust artist will general wing";

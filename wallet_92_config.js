@@ -1,1 +1,1 @@
-var mnemonic = "express such broom fantasy amazing nominee truly forget soccer breeze coast inherit";
+var mnemonic = "hip like final forward trophy arm lamp hurry one volume stable dinner";

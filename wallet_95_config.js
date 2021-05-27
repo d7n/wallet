@@ -1,1 +1,1 @@
-var mnemonic = "enact evidence assume session gallery rude give situate caution move better dose";
+var mnemonic = "awkward entry olive speed inflict brave pink fever plunge bamboo pumpkin rally";

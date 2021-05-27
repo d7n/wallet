@@ -1,1 +1,1 @@
-var mnemonic = "blossom boat lobster file ice able fresh credit film wash error movie";
+var mnemonic = "ecology head marine image arena dignity subject puzzle lonely own rely there";

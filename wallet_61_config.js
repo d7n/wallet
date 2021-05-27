@@ -1,1 +1,1 @@
-var mnemonic = "crime hungry olympic deny switch pause embark crunch adapt mixture problem boy";
+var mnemonic = "october animal brief umbrella west breeze master tiny position empty response bubble";

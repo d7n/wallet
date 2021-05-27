@@ -1,1 +1,1 @@
-var mnemonic = "cram female crisp protect giraffe giant valid cost special river chuckle monkey";
+var mnemonic = "ladder vacuum nurse deny flat boil tennis civil speed alpha jacket caught";

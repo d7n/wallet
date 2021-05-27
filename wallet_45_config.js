@@ -1,1 +1,1 @@
-var mnemonic = "tenant warfare ready bottom cram slot chuckle state kit off salon hope";
+var mnemonic = "month ankle wet remember dial aim dolphin kingdom open muffin unhappy evidence";

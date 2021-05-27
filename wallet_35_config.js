@@ -1,1 +1,1 @@
-var mnemonic = "ecology effort river kingdom faint crash enlist motor please attack rigid between";
+var mnemonic = "inflict funny bleak general lumber nut subway swarm entire observe endless river";

@@ -1,1 +1,1 @@
-var mnemonic = "grid angry spot evidence shuffle release aim click laundry tomato prison crack";
+var mnemonic = "diesel clump tail expand topple fit fetch paddle dove similar hybrid initial";

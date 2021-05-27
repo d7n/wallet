@@ -1,1 +1,1 @@
-var mnemonic = "sunset such attack learn awake assist strong lucky electric pipe knife square";
+var mnemonic = "art mansion amateur subject drive ski autumn jazz force ozone ski flush";

@@ -1,1 +1,1 @@
-var mnemonic = "detail curious glue trumpet leopard hood autumn audit cargo middle opera rotate";
+var mnemonic = "laptop credit connect clinic purse salmon basic bulk term execute coil vacuum";

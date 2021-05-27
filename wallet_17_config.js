@@ -1,1 +1,1 @@
-var mnemonic = "nothing uphold jar figure north meadow gallery floor token fitness unique sick";
+var mnemonic = "denial click help width elegant increase under clump flight chat feel dad";

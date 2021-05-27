@@ -1,1 +1,1 @@
-var mnemonic = "drop able luggage fabric practice board brown prison hood weekend angry vintage";
+var mnemonic = "monkey drastic release file sick earth image desk track stick seven hungry";

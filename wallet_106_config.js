@@ -1,1 +1,1 @@
-var mnemonic = "dentist hope horn repeat limb print abuse predict dice afraid roof rare";
+var mnemonic = "shed because thumb shine local vote dentist mom tobacco coin ball stem";

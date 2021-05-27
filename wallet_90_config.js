@@ -1,1 +1,1 @@
-var mnemonic = "mountain shrug mirror happy victory position century else fiction room profit ritual";
+var mnemonic = "museum dwarf heart bike festival picture pause horn picture soon uncover budget";

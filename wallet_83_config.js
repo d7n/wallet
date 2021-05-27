@@ -1,1 +1,1 @@
-var mnemonic = "yard dynamic toss atom test coast tiny sure abuse series denial biology";
+var mnemonic = "leaf comfort banana day nerve cliff mixed grit wasp color narrow biology";

@@ -1,1 +1,1 @@
-var mnemonic = "near security funny blanket frequent rack school have sail apple electric patrol";
+var mnemonic = "scan width earn canyon design annual laundry donate brisk nest snow slush";

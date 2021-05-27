@@ -1,1 +1,1 @@
-var mnemonic = "mobile man juice lemon deny owner divert quote recipe iron assume join";
+var mnemonic = "project exhibit state jealous sleep wrist venture split dad belt banana wrist";

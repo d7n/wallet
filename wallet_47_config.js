@@ -1,1 +1,1 @@
-var mnemonic = "keep usual special reopen legal skirt flee awkward test flip axis shrimp";
+var mnemonic = "two august body seed force coconut field famous pet cry boy auto";

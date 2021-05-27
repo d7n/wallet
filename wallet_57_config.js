@@ -1,1 +1,1 @@
-var mnemonic = "monster pear result travel foster birth title hole often suit exist cup";
+var mnemonic = "heavy lucky hard used kangaroo vault grid steak real heavy involve clerk";

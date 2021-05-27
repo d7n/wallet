@@ -1,1 +1,1 @@
-var mnemonic = "elegant tired cousin firm heart coin obscure fiction horror proud wool street";
+var mnemonic = "index multiply float asset boat lounge talk search amateur kangaroo moral permit";

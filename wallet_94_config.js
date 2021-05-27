@@ -1,1 +1,1 @@
-var mnemonic = "weasel audit absorb flag congress panda inherit high soccer plate equal shadow";
+var mnemonic = "book camera donkey soap acid wink abandon execute image document bronze monster";

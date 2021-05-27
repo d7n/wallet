@@ -1,1 +1,1 @@
-var mnemonic = "wasp poem series crash pink excess viable hard height file logic hour";
+var mnemonic = "hidden mercy brass ice limb true matter slight half rail vintage carpet";

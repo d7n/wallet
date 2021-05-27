@@ -1,1 +1,1 @@
-var mnemonic = "sock couple comic retire hollow evidence hope prize pepper upper belt symptom";
+var mnemonic = "tide mind gallery across weird tree faculty guard unknown math nose depend";
