@@ -1,1 +1,1 @@
-var mnemonic = "network illegal tourist ready sausage cushion gold capital jacket rely intact slogan";
+var mnemonic = "bottom grit tackle bag alert library deposit prison pact strategy clay upgrade";

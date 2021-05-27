@@ -1,1 +1,1 @@
-var mnemonic = "path general hint survey cactus history steel riot dumb alcohol category funny";
+var mnemonic = "toe toddler fatal spend own fatigue ramp grass initial congress coconut thing";

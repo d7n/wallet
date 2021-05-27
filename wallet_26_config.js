@@ -1,1 +1,1 @@
-var mnemonic = "adjust umbrella mirror flower domain punch trip pudding album hill lend column";
+var mnemonic = "ginger pill acoustic anger crisp mouse castle question evoke unveil scout rib";

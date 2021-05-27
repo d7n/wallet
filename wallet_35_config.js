@@ -1,1 +1,1 @@
-var mnemonic = "rifle entry bar quality add demand purity buzz orphan room enemy chalk";
+var mnemonic = "beef clog mobile hawk soft dawn judge estate senior body sand canvas";

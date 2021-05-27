@@ -1,1 +1,1 @@
-var mnemonic = "jump govern humor olympic super oven inject detect panda gauge salon kitchen";
+var mnemonic = "north art dad only almost cart select accident width jazz rigid family";

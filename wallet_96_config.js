@@ -1,1 +1,1 @@
-var mnemonic = "razor demise sort traffic other level letter ignore lady dish defy detail";
+var mnemonic = "immune ocean skill suspect primary slim curve pelican during gauge list salmon";

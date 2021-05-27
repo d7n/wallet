@@ -1,1 +1,1 @@
-var mnemonic = "spoon copy action rate loyal swallow proof sorry poem badge old then";
+var mnemonic = "rebuild ring vanish awful blood ecology purchase race metal finger layer pumpkin";

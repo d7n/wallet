@@ -1,1 +1,1 @@
-var mnemonic = "maze okay worry lawn wise caught child orient visa advice foot report";
+var mnemonic = "congress zone bottom pudding maid panic flame grant sick sun eagle rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "memory rookie layer flash rebel guess hidden vibrant save govern ride smile";
+var mnemonic = "west hospital glance license liberty bunker round trash bargain vapor trash arctic";

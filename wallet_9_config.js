@@ -1,1 +1,1 @@
-var mnemonic = "run similar wonder rail cloth come travel stumble rate repeat maid beach";
+var mnemonic = "teach range discover decorate father fix turtle minute furnace fish hard fly";

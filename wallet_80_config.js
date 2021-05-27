@@ -1,1 +1,1 @@
-var mnemonic = "lonely parent cinnamon acid base involve close frequent better industry post movie";
+var mnemonic = "roast damp shop ring duck call primary crater sketch syrup sun report";

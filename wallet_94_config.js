@@ -1,1 +1,1 @@
-var mnemonic = "scheme true such raise vivid orphan panther east black napkin jazz promote";
+var mnemonic = "beauty orange salmon asthma consider stand occur airport stereo double pistol goddess";

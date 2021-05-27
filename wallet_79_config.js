@@ -1,1 +1,1 @@
-var mnemonic = "pact wave artefact settle torch sing aware own six private spray gold";
+var mnemonic = "between armor weekend rubber fee predict memory success diary trend invest can";

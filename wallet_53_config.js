@@ -1,1 +1,1 @@
-var mnemonic = "clip tenant romance accident bonus swallow seed night lady tube ketchup lonely";
+var mnemonic = "garbage volume affair tribe giant entire foam aunt grit ribbon media ticket";

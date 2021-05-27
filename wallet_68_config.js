@@ -1,1 +1,1 @@
-var mnemonic = "neglect youth square enlist daughter fog clarify canvas ostrich tongue enrich main";
+var mnemonic = "length region drill analyst chest spell differ service bar genuine wrap forget";

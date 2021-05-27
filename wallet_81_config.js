@@ -1,1 +1,1 @@
-var mnemonic = "canoe produce glow lawsuit toilet mimic chief any return whip female trim";
+var mnemonic = "eternal weekend erase atom boy wrestle hip crumble draft describe copper early";

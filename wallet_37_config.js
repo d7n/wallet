@@ -1,1 +1,1 @@
-var mnemonic = "captain lab street repair family office second vintage radio subway evidence hammer";
+var mnemonic = "concert collect tank warfare cannon tower hero lucky unhappy home suit loan";

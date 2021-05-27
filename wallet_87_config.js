@@ -1,1 +1,1 @@
-var mnemonic = "blush tomato office surround assume autumn equal duck powder rally end win";
+var mnemonic = "snack engage goat never confirm steel health relief material roof win leisure";

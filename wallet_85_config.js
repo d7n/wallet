@@ -1,1 +1,1 @@
-var mnemonic = "obscure ice top trip oblige civil useless shock column oppose laundry control";
+var mnemonic = "strategy smooth actual embrace flavor notice vault forget sail legend ocean dish";

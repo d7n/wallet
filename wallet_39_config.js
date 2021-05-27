@@ -1,1 +1,1 @@
-var mnemonic = "just school scrap crawl skill alpha expire onion swarm duck social future";
+var mnemonic = "empty stay orient exotic once wage volume chronic soap like because tongue";

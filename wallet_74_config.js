@@ -1,1 +1,1 @@
-var mnemonic = "hundred process price name city wash myth runway into shift judge search";
+var mnemonic = "art athlete plate word visual release castle section lunar chaos kangaroo moon";

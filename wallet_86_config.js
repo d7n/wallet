@@ -1,1 +1,1 @@
-var mnemonic = "knife point like retire boring multiply measure spider cereal lesson obtain grid";
+var mnemonic = "spin shield later smoke edit file trend equip vibrant change work royal";

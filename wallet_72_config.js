@@ -1,1 +1,1 @@
-var mnemonic = "supreme palm news clerk retreat salt spy endless liar evidence match grid";
+var mnemonic = "motor identify warfare hair net dove gown visual glow wink text wave";

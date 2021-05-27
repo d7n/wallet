@@ -1,1 +1,1 @@
-var mnemonic = "waste slab fruit also upgrade fortune chunk mention exercise kind bone layer";
+var mnemonic = "noodle judge wedding pretty whisper machine neglect harbor fat wolf surge unique";

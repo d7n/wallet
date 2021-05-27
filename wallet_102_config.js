@@ -1,1 +1,1 @@
-var mnemonic = "install increase flower coach chuckle dose execute air critic satoshi possible unfair";
+var mnemonic = "situate regret elite base mad despair frost bone churn text relief pupil";

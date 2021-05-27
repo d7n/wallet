@@ -1,1 +1,1 @@
-var mnemonic = "license carry share plunge life gather coin zero sauce state gas remain";
+var mnemonic = "mandate clinic exhaust defense monster find appear rebel miss cargo parent lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "salad venue lava refuse street heavy better shadow mom urban denial cannon";
+var mnemonic = "owner result artefact mesh height left dirt route hammer lemon sadness grocery";

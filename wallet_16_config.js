@@ -1,1 +1,1 @@
-var mnemonic = "minor solution cancel explain route decide hockey critic hockey run spread fade";
+var mnemonic = "fog alien decade knee venue best mimic tag analyst network truck crowd";

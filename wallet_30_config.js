@@ -1,1 +1,1 @@
-var mnemonic = "umbrella rebuild coral flight print jacket later secret damp reject immense tent";
+var mnemonic = "blind type auto blade nerve time company pledge orbit anger this faint";

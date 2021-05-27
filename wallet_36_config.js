@@ -1,1 +1,1 @@
-var mnemonic = "tunnel soda busy brief parrot mercy label task topic mind learn view";
+var mnemonic = "carpet chief inside trend vanish nothing leopard scan ability toast kangaroo offer";

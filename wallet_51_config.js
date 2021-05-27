@@ -1,1 +1,1 @@
-var mnemonic = "fit write thunder gloom blue mystery swamp wise present fringe neck cause";
+var mnemonic = "toilet trouble basic antenna goose gown myth crystal output iron online champion";

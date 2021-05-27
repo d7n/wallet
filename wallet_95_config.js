@@ -1,1 +1,1 @@
-var mnemonic = "cotton inspire lucky inflict quality cereal promote viable fog detail lady panther";
+var mnemonic = "entire carry metal tissue sunny soccer feed captain mushroom bacon rescue post";

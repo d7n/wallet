@@ -1,1 +1,1 @@
-var mnemonic = "robot gate pattern cook way maze quit truly very afford hybrid state";
+var mnemonic = "wonder spell cause soup sting crater good polar vacuum budget minimum mask";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry grunt arrive spirit useless exercise pattern join essay patrol left option";
+var mnemonic = "pig october ski immune loud patch above price gaze force dove buddy";

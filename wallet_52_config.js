@@ -1,1 +1,1 @@
-var mnemonic = "carry friend engine rebel shoulder velvet scheme dry boil plug inch column";
+var mnemonic = "spoil security grass seminar renew invite stay metal execute throw enforce elbow";

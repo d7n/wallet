@@ -1,1 +1,1 @@
-var mnemonic = "bean impulse thing volcano sorry include moment trial toy project excuse recycle";
+var mnemonic = "other alter trade quantum speak vocal price rookie excess short own render";

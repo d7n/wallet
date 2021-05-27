@@ -1,1 +1,1 @@
-var mnemonic = "blame cereal era budget sell flame interest cushion budget nerve that fix";
+var mnemonic = "blame resist pilot assist grain manual hold change lunch glove neglect dish";

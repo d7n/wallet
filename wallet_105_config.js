@@ -1,1 +1,1 @@
-var mnemonic = "proof multiply wear say ride faith surround video welcome pride scissors lamp";
+var mnemonic = "lunch another century jeans tonight happy math feature attract long lawsuit pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery project choice summer issue worth friend depend harsh chuckle slight consider";
+var mnemonic = "furnace duty other goose divorce proud busy slice actress defense scrap large";

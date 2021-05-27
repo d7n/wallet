@@ -1,1 +1,1 @@
-var mnemonic = "sing twin obscure business genius flame siren bomb rookie naive carbon shrug";
+var mnemonic = "retreat demand shop flat shy pudding glory force agree few enforce extend";

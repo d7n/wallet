@@ -1,1 +1,1 @@
-var mnemonic = "hybrid memory post decorate toast nose black blind sword normal mimic lottery";
+var mnemonic = "tube quality renew twenty proof unknown already exit blame history decide brush";

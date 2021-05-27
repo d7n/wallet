@@ -1,1 +1,1 @@
-var mnemonic = "correct dilemma antique casual script frozen flat unhappy glad oyster shove void";
+var mnemonic = "option blur beach valve loop wall market upper toss funny jeans slot";

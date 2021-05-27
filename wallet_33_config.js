@@ -1,1 +1,1 @@
-var mnemonic = "task evolve wait song drive volume office oppose great grocery alone hidden";
+var mnemonic = "coin hobby organ devote sleep purity okay cricket car together sword toss";

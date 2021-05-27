@@ -1,1 +1,1 @@
-var mnemonic = "cupboard plastic satisfy false develop busy hair feature scrub error try express";
+var mnemonic = "relief simple remember another abstract sadness alley option media differ couple gold";

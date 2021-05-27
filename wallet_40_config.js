@@ -1,1 +1,1 @@
-var mnemonic = "media champion rally dial say wing best luxury pluck ivory toddler reveal";
+var mnemonic = "upset finger assault ball afraid museum elegant slow path torch bird mansion";

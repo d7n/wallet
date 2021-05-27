@@ -1,1 +1,1 @@
-var mnemonic = "cram noodle solve hungry behind metal account spike clip legal fringe grass";
+var mnemonic = "resist scare radio ethics shadow stereo any nasty client approve isolate recipe";

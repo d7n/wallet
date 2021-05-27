@@ -1,1 +1,1 @@
-var mnemonic = "net special amazing culture dove blanket ocean dawn path radio robot leaf";
+var mnemonic = "average settle private pen primary energy device snap parade over aware purchase";

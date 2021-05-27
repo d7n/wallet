@@ -1,1 +1,1 @@
-var mnemonic = "effort bread sketch atom taste embody box rely journey blame orchard firm";
+var mnemonic = "letter save hello appear arrive art pond spray affair edge depart spoil";

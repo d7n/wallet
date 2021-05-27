@@ -1,1 +1,1 @@
-var mnemonic = "begin dash mushroom dynamic tuna income mask disagree flag exhibit renew panic";
+var mnemonic = "ten harsh sheriff engine lock dove detail trigger tissue tank exclude hen";

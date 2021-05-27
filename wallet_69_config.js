@@ -1,1 +1,1 @@
-var mnemonic = "latin heart initial grape busy cereal dream flee protect need glide desert";
+var mnemonic = "tribe scissors gauge tuna cake winner wing proud glory mandate deal can";

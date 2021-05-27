@@ -1,1 +1,1 @@
-var mnemonic = "alcohol way cradle whip gentle chaos wing innocent horror end voice renew";
+var mnemonic = "behave soccer win spirit trash miracle exclude rent seven shaft sustain brother";

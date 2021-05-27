@@ -1,1 +1,1 @@
-var mnemonic = "sting volcano huge pepper force tribe fluid ankle suit raise picnic army";
+var mnemonic = "husband misery there opera taste stamp chapter love attack company excuse appear";

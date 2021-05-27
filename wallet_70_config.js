@@ -1,1 +1,1 @@
-var mnemonic = "minute gesture draw peasant toward parade endorse steel breeze pelican frown amazing";
+var mnemonic = "tide urge mobile company never april consider arch romance program dentist pupil";

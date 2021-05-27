@@ -1,1 +1,1 @@
-var mnemonic = "age kangaroo box hub drink update affair proud follow income room diesel";
+var mnemonic = "athlete reduce dignity fiber talent display venue equip vintage mobile lucky hand";

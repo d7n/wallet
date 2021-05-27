@@ -1,1 +1,1 @@
-var mnemonic = "clay tunnel usual shuffle penalty champion early raw trim venture fossil flag";
+var mnemonic = "scare once chalk wave ask buyer robust length fine illness ramp account";

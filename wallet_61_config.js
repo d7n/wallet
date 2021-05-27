@@ -1,1 +1,1 @@
-var mnemonic = "oak list mandate harbor captain cargo unaware gorilla gloom sort distance arrive";
+var mnemonic = "swim ready submit will super artwork market action attitude topple park because";

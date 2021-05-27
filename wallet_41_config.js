@@ -1,1 +1,1 @@
-var mnemonic = "inch donate private verify feel traffic exhibit grit master wrist urban lab";
+var mnemonic = "element knee vessel tobacco aisle fault task cube jewel sell tornado mountain";

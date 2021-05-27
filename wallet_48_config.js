@@ -1,1 +1,1 @@
-var mnemonic = "rigid soda course profit forget impose save pass few humble cargo royal";
+var mnemonic = "spawn print annual essence raccoon tumble rack bamboo junk surge system fiscal";

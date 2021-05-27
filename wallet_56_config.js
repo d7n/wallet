@@ -1,1 +1,1 @@
-var mnemonic = "knock traffic action clump boost idle spatial involve air alarm child quiz";
+var mnemonic = "gather season claw december march rose long ticket prison devote share post";

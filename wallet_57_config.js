@@ -1,1 +1,1 @@
-var mnemonic = "record vibrant rare level fame glue peanut pepper siege answer family nerve";
+var mnemonic = "apple quantum matter dose uphold fame good sock sheriff helmet gain regular";

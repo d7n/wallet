@@ -1,1 +1,1 @@
-var mnemonic = "flag rapid salt rain social high dad kidney strike credit liar present";
+var mnemonic = "scrap dirt case juice indicate kitchen agree face motion gate slow such";

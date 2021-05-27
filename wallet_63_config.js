@@ -1,1 +1,1 @@
-var mnemonic = "gallery accuse spirit loan foam flash pistol cousin rack eagle valid sight";
+var mnemonic = "fitness retire drive short ramp canvas rescue mirror kangaroo deputy stick pool";

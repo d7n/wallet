@@ -1,1 +1,1 @@
-var mnemonic = "front hollow track jealous above prevent service brand much october garlic ugly";
+var mnemonic = "relax coast broken genre divide actress response guitar friend screen ladder swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware kangaroo obtain boat stone tennis airport kiwi hard deposit oil merry";
+var mnemonic = "method subject alcohol film sadness coffee position solve virus champion neck call";

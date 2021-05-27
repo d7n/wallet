@@ -1,1 +1,1 @@
-var mnemonic = "trip response lumber faith sell casual pitch defy outside soup cliff like";
+var mnemonic = "enlist invest moment answer pencil load curve today anxiety spare cigar neck";

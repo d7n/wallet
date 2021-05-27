@@ -1,1 +1,1 @@
-var mnemonic = "scout select predict dad monitor yellow clock globe cactus math history jazz";
+var mnemonic = "tunnel exclude range supreme wing crane steak cage aware actress limb owner";

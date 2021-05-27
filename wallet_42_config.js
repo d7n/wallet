@@ -1,1 +1,1 @@
-var mnemonic = "guess pluck liar truth virtual mad addict runway label sample wrist critic";
+var mnemonic = "safe oak verify clarify tennis swim access smoke pole train slam dress";

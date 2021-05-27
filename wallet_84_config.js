@@ -1,1 +1,1 @@
-var mnemonic = "capable raccoon victory tool science sing muffin enact conduct analyst fix alley";
+var mnemonic = "express input sad atom scene kit carry battle settle run name crisp";

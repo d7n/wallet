@@ -1,1 +1,1 @@
-var mnemonic = "feed please poet cable face nation awkward shock unknown frown task happy";
+var mnemonic = "mosquito firm hire myself soon athlete never grass myth advice flash silent";

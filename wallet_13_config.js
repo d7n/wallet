@@ -1,1 +1,1 @@
-var mnemonic = "avoid habit diagram change absurd duty gas tobacco over desert roast ribbon";
+var mnemonic = "off great real expect eager burst define hill tomato transfer pretty stereo";

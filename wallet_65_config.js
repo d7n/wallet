@@ -1,1 +1,1 @@
-var mnemonic = "scale polar spend organ fragile canyon father bright van seven solution can";
+var mnemonic = "plastic legal garment promote assume response solve sea cook flame fade tattoo";

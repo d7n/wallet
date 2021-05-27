@@ -1,1 +1,1 @@
-var mnemonic = "nature design drum deny message organ thrive sing actual guide assault civil";
+var mnemonic = "release bean breeze school want provide there satoshi hunt general happy one";

@@ -1,1 +1,1 @@
-var mnemonic = "cat crowd measure reunion boy giggle force federal sun someone debate pipe";
+var mnemonic = "village swarm fatal term employ forum gesture asthma client impulse depart alone";

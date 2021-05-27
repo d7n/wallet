@@ -1,1 +1,1 @@
-var mnemonic = "crane act level put start search toilet avocado pretty pull again scheme";
+var mnemonic = "able island rubber fix choose uncle leopard purpose blame orphan worth army";

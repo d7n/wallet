@@ -1,1 +1,1 @@
-var mnemonic = "fury pact asset fortune supply february deal vague weasel pluck ski sweet";
+var mnemonic = "chunk hero expose pond rate off regular fringe mixture web female industry";

@@ -1,1 +1,1 @@
-var mnemonic = "exile torch crash orbit enemy glass outdoor snack minute reject mass brother";
+var mnemonic = "fragile total carpet kangaroo awful tumble critic squeeze ignore typical donor color";

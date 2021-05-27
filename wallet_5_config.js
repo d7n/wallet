@@ -1,1 +1,1 @@
-var mnemonic = "syrup rely grit dose shoulder mail denial tennis teach science island quote";
+var mnemonic = "wise march journey tunnel prevent turkey choice blanket gadget sleep oval cart";

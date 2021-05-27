@@ -1,1 +1,1 @@
-var mnemonic = "basic cake loan vote hover anxiety fringe grow assault index access tumble";
+var mnemonic = "ripple odor sea mammal lobster dune true champion zone dinosaur guard frog";

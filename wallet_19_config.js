@@ -1,1 +1,1 @@
-var mnemonic = "genius deer accuse push fiber like shoe enrich master cloud ugly bind";
+var mnemonic = "supply label fossil blossom churn region miracle subway tunnel endorse access globe";

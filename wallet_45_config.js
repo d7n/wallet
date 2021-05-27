@@ -1,1 +1,1 @@
-var mnemonic = "amateur cover moon wage bless claw assume govern page kitten devote deny";
+var mnemonic = "concert bulk syrup basket disorder secret panic shell swallow write yellow better";

@@ -1,1 +1,1 @@
-var mnemonic = "october diesel modify jazz shoot meat lounge hollow doctor improve bundle write";
+var mnemonic = "stool square tortoise prosper wave moment approve method cry liberty accident virus";

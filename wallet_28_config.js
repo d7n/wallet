@@ -1,1 +1,1 @@
-var mnemonic = "opinion category proof lounge area bless coin strong muffin kiss ivory fan";
+var mnemonic = "wife violin talk gossip certain horn minute ladder anxiety dust pretty maple";

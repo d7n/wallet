@@ -1,1 +1,1 @@
-var mnemonic = "potato cream vacuum glare mandate refuse limb two tonight tilt swim member";
+var mnemonic = "scorpion skull ship man today permit tray acquire faith senior fiction moral";

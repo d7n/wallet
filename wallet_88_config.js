@@ -1,1 +1,1 @@
-var mnemonic = "gown wine mutual zebra twelve struggle more daring cram sheriff six pet";
+var mnemonic = "icon morning immense market cherry design pony able harsh solution amateur boring";

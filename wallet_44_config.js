@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin joke enact ensure anxiety mango retreat survey vintage oppose truth clog";
+var mnemonic = "process speak today conduct ski boy exact neglect orphan this moment fruit";

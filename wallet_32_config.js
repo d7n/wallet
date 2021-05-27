@@ -1,1 +1,1 @@
-var mnemonic = "chef region surge resist flavor field ten road join vintage master rely";
+var mnemonic = "message chat stage churn rival neglect raven climb market great robot forest";

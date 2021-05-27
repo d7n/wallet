@@ -1,1 +1,1 @@
-var mnemonic = "discover unique noble obscure fiber hill left shy enrich shrimp weapon party";
+var mnemonic = "genuine crawl moment cross west shove pyramid reward immense have auto install";
