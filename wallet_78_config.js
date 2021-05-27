@@ -1,1 +1,1 @@
-var mnemonic = "adapt fence leader learn school fee riot alcohol crater wheel glare gown";
+var mnemonic = "tray hunt route adapt aerobic bird loud awkward nominee ivory boat diary";

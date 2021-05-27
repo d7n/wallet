@@ -1,1 +1,1 @@
-var mnemonic = "ethics reunion grid tone rubber uphold camera couch what chair nose brush";
+var mnemonic = "sugar inject drop palm weasel rubber unit behave impulse few acid knife";

@@ -1,1 +1,1 @@
-var mnemonic = "lava chat trade film stairs desert cupboard basic celery cool best lottery";
+var mnemonic = "olive atom vacant cupboard neck edit west blur verb expire trap work";

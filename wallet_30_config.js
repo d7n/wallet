@@ -1,1 +1,1 @@
-var mnemonic = "brick bird devote hard roof reduce liberty wait isolate wrap moment area";
+var mnemonic = "bleak clump rhythm advice shy eye since budget route spider tumble tumble";

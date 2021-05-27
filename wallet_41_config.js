@@ -1,1 +1,1 @@
-var mnemonic = "lawn forward teach trust loop gun since absurd shrimp mango raccoon salute";
+var mnemonic = "phrase elder brass mistake time display code crouch orphan smooth draft narrow";

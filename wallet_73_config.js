@@ -1,1 +1,1 @@
-var mnemonic = "universe rack minute velvet true gallery section track wall ordinary mom together";
+var mnemonic = "punch enable imitate future option shrug grain congress kitten obey garden organ";

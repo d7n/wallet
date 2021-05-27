@@ -1,1 +1,1 @@
-var mnemonic = "glow siren demand wreck oppose midnight kitchen prosper inflict gain weasel caution";
+var mnemonic = "egg recall moment task action mutual network street limb index nothing pudding";

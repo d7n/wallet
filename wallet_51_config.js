@@ -1,1 +1,1 @@
-var mnemonic = "scissors betray wool satoshi drop garment core tomorrow buyer talent magnet wrap";
+var mnemonic = "virtual leopard edge vintage wedding magnet praise volume under reason sign unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "smile loud ladder label online wheel oblige tower system bike situate final";
+var mnemonic = "level safe text tool rule grant vital mention pledge power case sign";

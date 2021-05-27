@@ -1,1 +1,1 @@
-var mnemonic = "drink essay fury like collect million blush panic soul bone liar feature";
+var mnemonic = "junior public lake escape ticket invite salad frozen find iron super swarm";

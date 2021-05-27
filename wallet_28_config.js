@@ -1,1 +1,1 @@
-var mnemonic = "symptom mean copper grape father patrol concert normal ocean purchase next drill";
+var mnemonic = "robot tray bean vanish develop master tobacco antique hand swarm hill gospel";

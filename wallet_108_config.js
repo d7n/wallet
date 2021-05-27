@@ -1,1 +1,1 @@
-var mnemonic = "chunk bullet never candy luggage bag almost shine upper barely basic cycle";
+var mnemonic = "grocery clap gesture food metal trim chronic fashion exercise exotic slide north";

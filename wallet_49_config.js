@@ -1,1 +1,1 @@
-var mnemonic = "whisper century strike pulse wood hill planet warm train glow paddle turtle";
+var mnemonic = "crouch figure transfer snack edit ability mansion mirror tiny behave spice fiction";

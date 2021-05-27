@@ -1,1 +1,1 @@
-var mnemonic = "hurry tree marble chaos south fossil mobile pulp bridge blanket kidney silly";
+var mnemonic = "chicken drastic broom aim author winner humble object pioneer cotton diary visual";

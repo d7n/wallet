@@ -1,1 +1,1 @@
-var mnemonic = "job seminar such exile stock goose bundle grief message main approve enemy";
+var mnemonic = "pioneer cat include harbor ride matter town medal detect squeeze hero stove";

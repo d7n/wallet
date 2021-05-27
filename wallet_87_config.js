@@ -1,1 +1,1 @@
-var mnemonic = "sugar episode cheap achieve news lobster power toddler good marble diet sadness";
+var mnemonic = "erupt glance toast neglect riot exile sentence reopen acoustic surround injury credit";

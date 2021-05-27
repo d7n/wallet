@@ -1,1 +1,1 @@
-var mnemonic = "blade tenant include guitar jazz fix exercise rifle hope clinic label learn";
+var mnemonic = "tower night vote pistol evoke holiday like limit marine manual food second";

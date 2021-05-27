@@ -1,1 +1,1 @@
-var mnemonic = "hollow cat fade eight veteran marine february picture rely flavor artist solar";
+var mnemonic = "enter hire index rule one soccer surface finger gather year key rifle";

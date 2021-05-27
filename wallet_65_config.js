@@ -1,1 +1,1 @@
-var mnemonic = "craft cannon arm tank cart amused track feel brush horror poem erode";
+var mnemonic = "uncle year broken nation alley inflict leaf spread employ garment enter parade";

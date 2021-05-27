@@ -1,1 +1,1 @@
-var mnemonic = "undo devote perfect surge wish supreme radar cigar target ready horse manual";
+var mnemonic = "able capable mobile join hockey fit pass bench zebra same violin key";

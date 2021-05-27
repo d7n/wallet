@@ -1,1 +1,1 @@
-var mnemonic = "doctor siege light scan live cream basic reopen become electric treat wrestle";
+var mnemonic = "alone sniff jacket acquire tonight track road message transfer range alarm bag";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt ice own pattern ivory ensure expand control vessel sentence check lemon";
+var mnemonic = "vacant news kangaroo rude want issue material rug bargain fortune cycle acquire";

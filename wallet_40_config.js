@@ -1,1 +1,1 @@
-var mnemonic = "news right science taste resemble flame elevator flame plug match sauce ancient";
+var mnemonic = "nose grow tuition write expect hat shield document wreck until evidence usual";

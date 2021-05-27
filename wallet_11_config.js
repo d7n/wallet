@@ -1,1 +1,1 @@
-var mnemonic = "leg twenty cube bus slogan ski usage twin sort science absorb cruel";
+var mnemonic = "congress width march write false smooth stone coil captain bind early duty";

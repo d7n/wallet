@@ -1,1 +1,1 @@
-var mnemonic = "salon supreme all rail rotate anger rookie exhaust shed trophy squeeze silk";
+var mnemonic = "south hold devote tired gravity gauge letter salon potato bird three crush";

@@ -1,1 +1,1 @@
-var mnemonic = "item hunt garbage pioneer chicken wet noble garment nice gym brother violin";
+var mnemonic = "lamp hunt vital sibling muscle flash pitch loan income barely civil area";

@@ -1,1 +1,1 @@
-var mnemonic = "beef analyst embark wheel film gallery enroll exile armor attack bright winter";
+var mnemonic = "piece organ core ankle opinion siege gather jaguar zebra sadness girl shrug";

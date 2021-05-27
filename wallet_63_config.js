@@ -1,1 +1,1 @@
-var mnemonic = "delay cloud gasp spice rare apple tired analyst visa surge record sketch";
+var mnemonic = "access wage smoke transfer bounce lazy grief speed calm wonder buzz frequent";

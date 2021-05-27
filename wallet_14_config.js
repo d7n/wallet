@@ -1,1 +1,1 @@
-var mnemonic = "civil gun fiction mind tobacco circle oven extra hair clock first bright";
+var mnemonic = "burger escape artefact topic change ketchup wise address alert cloud pipe puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle ecology before occur useful gap more shock mention winter violin talk";
+var mnemonic = "lunch spring heart fix unit duty add manage pulse whisper orphan mansion";

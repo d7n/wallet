@@ -1,1 +1,1 @@
-var mnemonic = "crew isolate social dice layer remember jealous original symbol inmate trial lion";
+var mnemonic = "way crouch bitter minimum coast catalog innocent large eye much sense tonight";

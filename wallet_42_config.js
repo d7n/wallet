@@ -1,1 +1,1 @@
-var mnemonic = "noble space noodle tragic divide critic cluster burst card begin blouse force";
+var mnemonic = "glad vicious modify shoe birth couch glare robust wish cigar book rack";

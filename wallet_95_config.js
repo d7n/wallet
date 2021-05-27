@@ -1,1 +1,1 @@
-var mnemonic = "leaf scale coyote cute fetch initial buzz amateur eye wait core guide";
+var mnemonic = "else orange exile lizard girl rice sorry pizza myth road scatter train";

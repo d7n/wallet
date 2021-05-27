@@ -1,1 +1,1 @@
-var mnemonic = "wonder milk happy bullet cannon shrimp merry romance model payment accuse mistake";
+var mnemonic = "imitate candy grain key topple time danger noble normal symbol vacant minute";

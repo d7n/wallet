@@ -1,1 +1,1 @@
-var mnemonic = "alone flush accuse cotton exhaust enforce mirror number length pact sell left";
+var mnemonic = "witness describe awkward start roast mixture project wrestle degree stand glimpse citizen";

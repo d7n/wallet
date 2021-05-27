@@ -1,1 +1,1 @@
-var mnemonic = "aerobic spoil what gorilla problem doctor antique letter ability panda raven surprise";
+var mnemonic = "cannon boring zero wife mobile master tenant crime admit ill sting high";

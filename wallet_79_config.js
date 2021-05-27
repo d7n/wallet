@@ -1,1 +1,1 @@
-var mnemonic = "swift history morning walnut miracle flag grief enhance theme glad battle license";
+var mnemonic = "state angle atom fix catch ten village valid build female scene nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "gate canvas bleak box almost proud burger uncle permit relax exclude skirt";
+var mnemonic = "web message north stone swim correct science pond any breeze hidden flag";

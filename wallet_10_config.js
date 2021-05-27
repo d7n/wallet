@@ -1,1 +1,1 @@
-var mnemonic = "tuition opinion bonus ostrich symbol metal ostrich mask valve trim paddle basket";
+var mnemonic = "property choice join track chalk drama multiply rebuild gesture siege wool vault";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap hip glad lunch glue disorder spoil antique point hold note sell";
+var mnemonic = "attitude food motor ranch mixed crowd table sleep meat twelve scorpion clump";

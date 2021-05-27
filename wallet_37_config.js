@@ -1,1 +1,1 @@
-var mnemonic = "unknown life stereo fragile maximum crazy warrior stuff captain bag chicken elbow";
+var mnemonic = "second clog require wire broken maple trigger exact armor symbol scene reward";

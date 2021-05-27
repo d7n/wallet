@@ -1,1 +1,1 @@
-var mnemonic = "catalog decline heavy dutch install across eye guilt train race arch wear";
+var mnemonic = "course arrow slight thought limb text first legal wisdom peace rule fiber";

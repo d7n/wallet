@@ -1,1 +1,1 @@
-var mnemonic = "blade group jazz goose trophy adapt ill yard gap outside more motor";
+var mnemonic = "dress accuse music firm walk guess fault danger muscle earth behave crop";

@@ -1,1 +1,1 @@
-var mnemonic = "pony ivory traffic cake submit member when jar sniff float key develop";
+var mnemonic = "obey transfer omit chief captain cruise hidden cheese junk twist route nothing";

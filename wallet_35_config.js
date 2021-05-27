@@ -1,1 +1,1 @@
-var mnemonic = "audit endless talent mad unfold lesson ritual purpose cattle cool forum come";
+var mnemonic = "absorb rubber lend liberty patch mutual unlock blade throw situate endorse minor";

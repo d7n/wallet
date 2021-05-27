@@ -1,1 +1,1 @@
-var mnemonic = "idle kind have soon image stamp oppose mixed critic depend good grant";
+var mnemonic = "census north echo west stable swear satoshi race slide aisle bullet insane";

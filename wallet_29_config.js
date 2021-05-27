@@ -1,1 +1,1 @@
-var mnemonic = "hood reason thrive chaos roast north hole cement orange ripple athlete issue";
+var mnemonic = "vacuum snap story grass steel same shift melt input super alarm fan";

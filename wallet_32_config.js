@@ -1,1 +1,1 @@
-var mnemonic = "cake dry flee rapid apology plunge nephew mad gather camera arena gate";
+var mnemonic = "saddle drift bench people super expect train pizza market acid orient edit";

@@ -1,1 +1,1 @@
-var mnemonic = "item layer output square race clay gain noble furnace prefer soccer taxi";
+var mnemonic = "bracket scene armor quiz inflict media response that meadow punch immune beyond";

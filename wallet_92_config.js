@@ -1,1 +1,1 @@
-var mnemonic = "master one ivory load drop expire multiply carbon garlic powder fruit begin";
+var mnemonic = "guilt volcano key duty salmon motion scare body odor catalog gap friend";

@@ -1,1 +1,1 @@
-var mnemonic = "reward rebel thumb allow float recipe snow thank repeat pave sugar music";
+var mnemonic = "dignity coach utility ice ketchup library property what core tumble hero action";

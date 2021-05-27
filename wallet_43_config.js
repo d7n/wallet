@@ -1,1 +1,1 @@
-var mnemonic = "pilot panic someone vault cool cloth pave post stove rent member whale";
+var mnemonic = "visual abandon silly whisper that ancient equip shop like doctor inject parent";

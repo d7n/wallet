@@ -1,1 +1,1 @@
-var mnemonic = "barrel debate reduce normal patient maze sport response bottom cat quick nominee";
+var mnemonic = "pudding drum race light miracle train thought permit slender federal dentist knife";

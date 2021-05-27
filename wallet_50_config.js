@@ -1,1 +1,1 @@
-var mnemonic = "drop museum addict patrol belt lizard picture exhibit rail used melt problem";
+var mnemonic = "gesture slim museum warm soap slow frog taxi chuckle sunny glide kite";

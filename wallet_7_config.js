@@ -1,1 +1,1 @@
-var mnemonic = "crawl goat flip decline winner head final universe crazy tell utility observe";
+var mnemonic = "basket often excite fee exercise report slice keep space digital purity large";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict intact about picture excuse rich body scrub arrive vapor deliver alert";
+var mnemonic = "because floor pretty hen sniff blanket miss amount kitten yard visa network";

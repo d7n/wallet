@@ -1,1 +1,1 @@
-var mnemonic = "pair garden load eternal delay rough meat you air cannon sustain satoshi";
+var mnemonic = "menu debris enroll knock blame thought prize rain pelican drop entry near";

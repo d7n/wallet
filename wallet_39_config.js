@@ -1,1 +1,1 @@
-var mnemonic = "hover devote milk twelve base topple december avocado swap shell loop forum";
+var mnemonic = "bench avoid spend equal camera toward depend vocal danger hospital used extra";

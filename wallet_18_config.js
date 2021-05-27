@@ -1,1 +1,1 @@
-var mnemonic = "jungle hammer quarter giraffe depart sand music soccer basket just parent install";
+var mnemonic = "gate frog spice toe idea bike melt produce owner key connect ridge";

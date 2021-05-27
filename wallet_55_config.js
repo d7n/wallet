@@ -1,1 +1,1 @@
-var mnemonic = "front require quit make memory cycle observe pink panda later work clay";
+var mnemonic = "around very winter spoon belt absurd fabric globe print prevent because scale";

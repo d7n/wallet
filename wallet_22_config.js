@@ -1,1 +1,1 @@
-var mnemonic = "extra give material pigeon elevator fitness juice evolve recall circle finger neck";
+var mnemonic = "depend hidden wait poem around ginger vessel column wink warfare doll attitude";

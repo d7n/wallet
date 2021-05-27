@@ -1,1 +1,1 @@
-var mnemonic = "fury pudding nuclear exact atom vendor buffalo yellow parrot inner grit copper";
+var mnemonic = "sustain squeeze side deposit series crumble vanish control fire fat give coach";

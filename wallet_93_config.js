@@ -1,1 +1,1 @@
-var mnemonic = "lucky repair pride topic govern claw kid uncle weapon monkey float jelly";
+var mnemonic = "empower lesson letter mention leave enlist rookie cook ginger cushion dignity crisp";

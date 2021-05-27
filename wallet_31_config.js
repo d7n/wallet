@@ -1,1 +1,1 @@
-var mnemonic = "end avocado girl skirt alley story nest lesson include waste fence beach";
+var mnemonic = "auction recipe situate liberty level upper venue clerk chimney galaxy chalk they";

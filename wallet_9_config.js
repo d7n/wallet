@@ -1,1 +1,1 @@
-var mnemonic = "remain cost accuse mimic bread organ dilemma announce quantum angry distance layer";
+var mnemonic = "soon faint stamp pond tone dream rely razor settle race call cabbage";

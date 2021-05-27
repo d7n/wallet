@@ -1,1 +1,1 @@
-var mnemonic = "oval drift lion frozen hazard primary apart leaf twin private sauce rally";
+var mnemonic = "law giant diamond express belt dawn frame social casual person camp orange";

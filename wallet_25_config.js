@@ -1,1 +1,1 @@
-var mnemonic = "chalk dune fossil share into civil original victory document magic meat monster";
+var mnemonic = "civil dice robust garlic gift height infant region hunt high athlete filter";

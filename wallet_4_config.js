@@ -1,1 +1,1 @@
-var mnemonic = "flush student foam plug settle throw brain draft follow april destroy diesel";
+var mnemonic = "either quick armed satisfy quarter man wave between toss nest small mention";

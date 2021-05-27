@@ -1,1 +1,1 @@
-var mnemonic = "keen thunder fault love repair clinic family device tunnel arena fortune promote";
+var mnemonic = "badge another bag banana napkin solve main tribe illness lock rebuild train";

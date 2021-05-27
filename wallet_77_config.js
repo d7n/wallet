@@ -1,1 +1,1 @@
-var mnemonic = "attract notable inmate crime buffalo mansion two wise busy hurdle crystal garden";
+var mnemonic = "law dawn stage decide sentence sheriff beef ketchup plug weather segment success";

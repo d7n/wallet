@@ -1,1 +1,1 @@
-var mnemonic = "reject half donkey update isolate burger point bus sun true scrap broccoli";
+var mnemonic = "stone picnic cross great creek brush slot hotel move sauce allow tennis";

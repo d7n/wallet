@@ -1,1 +1,1 @@
-var mnemonic = "daring amount spare swamp analyst auction permit merit best zero rail check";
+var mnemonic = "history differ item raven grace square bleak lazy brother ankle cherry crew";

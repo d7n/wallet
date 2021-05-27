@@ -1,1 +1,1 @@
-var mnemonic = "squeeze nut gesture address raven tortoise custom route match until usage modify";
+var mnemonic = "plunge venture lobster again dirt gospel strong route because border shield alert";

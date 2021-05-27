@@ -1,1 +1,1 @@
-var mnemonic = "rookie corn logic razor dose unit hungry position leg march member pencil";
+var mnemonic = "axis sunset clump suit leopard recipe float limb garbage hybrid capable smile";

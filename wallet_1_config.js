@@ -1,1 +1,1 @@
-var mnemonic = "sword glue hub seed broken canvas twin woman entire mention valley auction";
+var mnemonic = "gown someone genre cool middle segment tobacco broccoli torch stomach lyrics actor";

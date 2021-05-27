@@ -1,1 +1,1 @@
-var mnemonic = "sauce across hair inside warrior large interest burger flame biology carbon scout";
+var mnemonic = "wine language coin palm verify carry remember field pink candy wine advice";

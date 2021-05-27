@@ -1,1 +1,1 @@
-var mnemonic = "guitar knee comfort moment column shoulder equip robust wagon bike surround october";
+var mnemonic = "stone fuel target mechanic rude grow truck never priority naive diet butter";

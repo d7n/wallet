@@ -1,1 +1,1 @@
-var mnemonic = "dilemma chapter priority slot adapt harbor venture custom never glue rotate hundred";
+var mnemonic = "decorate frown chase menu express token dwarf stadium elephant clump trick position";

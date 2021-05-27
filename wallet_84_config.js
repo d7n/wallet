@@ -1,1 +1,1 @@
-var mnemonic = "genuine latin demand special tourist catalog dress useless zebra vote walnut couple";
+var mnemonic = "cage eternal speed pottery bargain property potato cliff blast grab father awake";

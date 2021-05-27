@@ -1,1 +1,1 @@
-var mnemonic = "service trial deny meat any ghost border wall say metal calm success";
+var mnemonic = "oppose asthma trust hair anger again glue once notable husband romance local";

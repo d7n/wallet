@@ -1,1 +1,1 @@
-var mnemonic = "report cute mouse social flag color correct solution adapt finish tide daughter";
+var mnemonic = "cancel cram use abuse midnight edit visual edit logic course song model";

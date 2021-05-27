@@ -1,1 +1,1 @@
-var mnemonic = "staff future arctic cradle eight universe mouse decide maximum bacon betray sphere";
+var mnemonic = "update diamond flight balcony item current horse bench rare yard type rather";

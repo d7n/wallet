@@ -1,1 +1,1 @@
-var mnemonic = "dove disagree into melt avocado attitude bless balcony visa flight proud expose";
+var mnemonic = "reveal icon fresh call gasp mystery elegant minimum sauce mail female subject";

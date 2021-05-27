@@ -1,1 +1,1 @@
-var mnemonic = "firm garlic syrup rule acid three monitor naive oven intact finger couple";
+var mnemonic = "convince ask risk super because wagon midnight warm advice leaf interest increase";

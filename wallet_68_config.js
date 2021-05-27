@@ -1,1 +1,1 @@
-var mnemonic = "primary truly traffic prefer lake inherit gospel onion journey exile attract cool";
+var mnemonic = "rather anchor split atom one term around super relax arm math length";

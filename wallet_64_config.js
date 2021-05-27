@@ -1,1 +1,1 @@
-var mnemonic = "mango oxygen marriage walk domain auction draft pioneer rebuild middle south potato";
+var mnemonic = "deal weekend expand loyal neutral engage wrong buzz scheme basket envelope ghost";
