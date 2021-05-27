@@ -1,1 +1,1 @@
-var mnemonic = "carpet bullet ensure kind ostrich sound puzzle spike reform mango scrub kitten";
+var mnemonic = "middle quiz easily drop taxi next magnet future second reopen spike episode";

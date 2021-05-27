@@ -1,1 +1,1 @@
-var mnemonic = "purse man opinion actress lizard engage voice cliff reform desk mention dog";
+var mnemonic = "swarm country act pass wedding file trend hill daughter abstract protect fiscal";

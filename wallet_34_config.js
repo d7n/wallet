@@ -1,1 +1,1 @@
-var mnemonic = "junior normal ethics public liberty name cable tiny half layer matter catalog";
+var mnemonic = "wing remember layer reflect empty already eternal silver play spike save ready";

@@ -1,1 +1,1 @@
-var mnemonic = "soul famous bargain ancient help plate exile father tobacco coin antenna three";
+var mnemonic = "loan debris balcony business bag point hole wood flash biology pyramid thought";

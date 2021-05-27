@@ -1,1 +1,1 @@
-var mnemonic = "arena midnight valid tattoo cook actor sword soup taxi volcano grid daughter";
+var mnemonic = "nut elder type title image bar physical response almost fine vivid bird";

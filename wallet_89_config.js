@@ -1,1 +1,1 @@
-var mnemonic = "radio program useless help vivid carpet symbol fence omit web tobacco pause";
+var mnemonic = "sweet always crucial average wave seek suspect pumpkin theme screen kitchen jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas tennis glass repeat lend must alpha deliver shallow left transfer moral";
+var mnemonic = "slender hazard force plunge clean elite chef kingdom velvet fruit dutch extend";

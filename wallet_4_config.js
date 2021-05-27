@@ -1,1 +1,1 @@
-var mnemonic = "good extra snake company coconut sure window clean dynamic shrimp notice coyote";
+var mnemonic = "rebuild wealth left crouch maid armed draft catch flash ghost woman repair";

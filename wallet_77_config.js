@@ -1,1 +1,1 @@
-var mnemonic = "tooth iron edge climb charge project thunder mobile machine dial float load";
+var mnemonic = "canoe genius van visual siren amused truly emerge leg myth lumber taste";

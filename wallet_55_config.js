@@ -1,1 +1,1 @@
-var mnemonic = "rigid glide order crisp sister body memory alone pioneer circle scatter august";
+var mnemonic = "space logic able poem expect tower lesson cry lounge gloom series few";

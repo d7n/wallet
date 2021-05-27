@@ -1,1 +1,1 @@
-var mnemonic = "buyer donate among nephew bone mansion climb wood need glide air magic";
+var mnemonic = "shift immense juice roof find uncover fortune cable person health birth finger";

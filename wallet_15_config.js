@@ -1,1 +1,1 @@
-var mnemonic = "work wrist potato action govern mystery trust attitude exclude police toe slot";
+var mnemonic = "honey leg muscle hope denial wire tumble true uncover puppy cattle spoon";

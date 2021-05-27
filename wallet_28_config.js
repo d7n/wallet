@@ -1,1 +1,1 @@
-var mnemonic = "filter noise crisp lunch enjoy wire spare great number meat office uncle";
+var mnemonic = "box suspect buddy magnet insane spare burger axis dumb science sentence grit";

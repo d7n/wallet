@@ -1,1 +1,1 @@
-var mnemonic = "face lava calm milk text scare bicycle orient melody train cram hold";
+var mnemonic = "fury velvet clever relax across genius firm bar distance what bundle arrive";

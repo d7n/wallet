@@ -1,1 +1,1 @@
-var mnemonic = "concert world practice submit deputy column sell regular village used train program";
+var mnemonic = "spot defense girl athlete million clap melt luggage mesh silent cricket basic";

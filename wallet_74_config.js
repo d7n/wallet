@@ -1,1 +1,1 @@
-var mnemonic = "afraid decrease annual broken drop robot final wild ticket blush pepper material";
+var mnemonic = "degree october water lock art grab never tape unknown brave very fashion";

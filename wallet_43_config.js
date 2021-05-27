@@ -1,1 +1,1 @@
-var mnemonic = "tray donor image host series lumber omit spray copper dizzy face theme";
+var mnemonic = "fortune install pizza alpha renew party pride into satoshi firm foster return";

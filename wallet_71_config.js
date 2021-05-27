@@ -1,1 +1,1 @@
-var mnemonic = "innocent puppy merry liquid ticket ability action robot grant famous two total";
+var mnemonic = "glove crisp rebuild sausage include guilt rival whip sweet report evidence canyon";

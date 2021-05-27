@@ -1,1 +1,1 @@
-var mnemonic = "boil record wide round tiger series tourist student blue kitchen swap lyrics";
+var mnemonic = "art tray drum smart lunch mask oval omit swift embrace leave margin";

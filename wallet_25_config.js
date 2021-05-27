@@ -1,1 +1,1 @@
-var mnemonic = "wrap tennis giggle couch grass move stand web equip coyote tube quick";
+var mnemonic = "decade roast near reduce jealous piano kitten figure sudden another wasp property";

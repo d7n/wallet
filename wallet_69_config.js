@@ -1,1 +1,1 @@
-var mnemonic = "animal wait thing lake hundred depend retreat beach adjust uphold vast hawk";
+var mnemonic = "clog radar fiscal wisdom gospel paddle three topple doll brisk sense depth";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact spider super carbon step similar near name drip match knock tobacco";
+var mnemonic = "feature draft book lawn member enrich say jazz pink reunion jump bachelor";

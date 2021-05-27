@@ -1,1 +1,1 @@
-var mnemonic = "injury zebra shell second mass behind apology toy actual bulk solid note";
+var mnemonic = "solution furnace breeze number load know work alien attend talk detect hen";

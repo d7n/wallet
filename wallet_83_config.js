@@ -1,1 +1,1 @@
-var mnemonic = "state fly garment short rally theme wink rich indoor energy impose series";
+var mnemonic = "aspect swap priority fatigue job resource deliver squirrel alpha scare behave cool";

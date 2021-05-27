@@ -1,1 +1,1 @@
-var mnemonic = "among episode intact exercise clerk fiction cargo empower awful calm library mind";
+var mnemonic = "cave earth shuffle category field found struggle bleak add hunt initial enact";

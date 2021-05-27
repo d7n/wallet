@@ -1,1 +1,1 @@
-var mnemonic = "wise echo steel speed grunt auto decrease skull surprise impulse embody category";
+var mnemonic = "script agree collect royal number wait silver atom sunny vague video upset";

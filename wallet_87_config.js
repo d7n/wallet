@@ -1,1 +1,1 @@
-var mnemonic = "spare pepper ankle scan chicken envelope inmate sentence coffee ripple prosper tennis";
+var mnemonic = "avoid confirm valley pride world eager giggle sentence vessel maximum meadow bring";

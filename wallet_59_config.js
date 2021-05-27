@@ -1,1 +1,1 @@
-var mnemonic = "cancel fat inside glass brick secret shoe album story glove replace spare";
+var mnemonic = "require bacon lucky mirror season carry spirit gloom input crater someone useless";

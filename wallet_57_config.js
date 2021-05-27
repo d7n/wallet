@@ -1,1 +1,1 @@
-var mnemonic = "cruise error street feature absorb success lawsuit street sense language recipe narrow";
+var mnemonic = "puppy lunar envelope wall heavy system silent combine forward split emerge frost";

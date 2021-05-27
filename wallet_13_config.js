@@ -1,1 +1,1 @@
-var mnemonic = "pistol depth glimpse card green edge rotate nurse farm cereal puppy pull";
+var mnemonic = "echo demise laundry sell pupil utility mosquito reunion unknown property tennis violin";

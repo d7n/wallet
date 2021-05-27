@@ -1,1 +1,1 @@
-var mnemonic = "easy embrace south genuine excuse frown ladder spare admit nature coast exhaust";
+var mnemonic = "tired spring shuffle loud soft rapid follow erosion wait shuffle one citizen";

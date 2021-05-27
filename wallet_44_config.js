@@ -1,1 +1,1 @@
-var mnemonic = "awkward night remove permit banana hover jelly bracket year skirt humble tattoo";
+var mnemonic = "arctic provide arrange meat stool gorilla fashion right any siren unlock cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "drama play olympic rice layer culture license balcony talk fruit filter elevator";
+var mnemonic = "rough dawn grab call van decorate engine false fix direct receive carbon";

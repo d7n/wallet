@@ -1,1 +1,1 @@
-var mnemonic = "bicycle thing inmate bronze flush distance market canoe helmet sun sauce monster";
+var mnemonic = "cherry vintage glory horror please trumpet metal alter race feature alien exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct case kid maid veteran comic bundle neglect lunar ecology detail safe";
+var mnemonic = "book rescue lesson jeans frame suggest coast misery duck depart alone hamster";

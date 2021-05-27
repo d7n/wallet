@@ -1,1 +1,1 @@
-var mnemonic = "limit jeans buffalo lyrics original legend risk ribbon day already horror slot";
+var mnemonic = "defense ecology boss knee glad stool fatigue find beef absorb embark fatigue";

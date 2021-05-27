@@ -1,1 +1,1 @@
-var mnemonic = "repair harvest screen income worth tunnel pencil shine december hundred check bacon";
+var mnemonic = "sudden apart enforce buddy accident ride ivory plug point visa video cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "blood cup cave silent enrich cabbage note avoid climb easy math sheriff";
+var mnemonic = "element dial digital peasant expire wagon approve tree lock grain invest orphan";

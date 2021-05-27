@@ -1,1 +1,1 @@
-var mnemonic = "frequent rail labor section pioneer law tip limb vendor sponsor delay whale";
+var mnemonic = "unknown bus inside magnet reflect pumpkin grid slender nuclear skirt wet actor";

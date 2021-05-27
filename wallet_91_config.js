@@ -1,1 +1,1 @@
-var mnemonic = "relax design volcano hedgehog mother jelly bulk cliff shell page milk plunge";
+var mnemonic = "coffee trumpet volcano cousin spatial almost harbor behave pass spoon essay sunset";

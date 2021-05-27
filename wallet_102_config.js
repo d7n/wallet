@@ -1,1 +1,1 @@
-var mnemonic = "same observe truck helmet equip shrimp furnace admit drop hold point collect";
+var mnemonic = "weasel adapt off joy will hundred endless cabin surge fortune payment surround";

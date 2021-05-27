@@ -1,1 +1,1 @@
-var mnemonic = "profit output hungry decorate know wrist help expire acoustic find near pelican";
+var mnemonic = "curve promote square shoe squirrel home call shiver truth oval cram suit";

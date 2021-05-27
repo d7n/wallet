@@ -1,1 +1,1 @@
-var mnemonic = "gesture online nephew silver pizza scheme debris health loyal mass school toss";
+var mnemonic = "island valid knock eight wet winter define giant shine thumb occur fault";

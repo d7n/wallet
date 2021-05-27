@@ -1,1 +1,1 @@
-var mnemonic = "upper author forest sample forum toy problem recycle brush survey pilot sting";
+var mnemonic = "boring village room physical language among film champion dinosaur rescue guide disorder";

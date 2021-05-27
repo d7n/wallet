@@ -1,1 +1,1 @@
-var mnemonic = "depend rate visit hair fiber blast planet prison balance argue barrel degree";
+var mnemonic = "decorate orange print until swing uncover grant thank galaxy waste myth split";

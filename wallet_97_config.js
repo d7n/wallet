@@ -1,1 +1,1 @@
-var mnemonic = "empty case obtain ivory resource guitar grant gift okay card melt gospel";
+var mnemonic = "focus athlete ten flee seven chase diamond toe raw favorite fork stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "urban resist step chief raise velvet cricket crawl home owner capable must";
+var mnemonic = "fame carpet banner gaze board elegant bright glimpse alter upset camp wise";

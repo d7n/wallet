@@ -1,1 +1,1 @@
-var mnemonic = "trick stereo giant prize noise effort describe abstract before parent lemon rather";
+var mnemonic = "spread hotel exile symbol solid vocal taste scare local adapt assist fault";

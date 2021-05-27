@@ -1,1 +1,1 @@
-var mnemonic = "foam basic liar iron midnight family release faith spike bike teach predict";
+var mnemonic = "memory pull just prepare shrug announce wide stamp wrestle quiz forward grid";

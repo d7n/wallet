@@ -1,1 +1,1 @@
-var mnemonic = "drop seminar evidence soccer gold illness cloth radio cigar quarter curious course";
+var mnemonic = "glove notable mimic know hold quantum dice behind exact until mobile squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "water believe demand equip grow define toward orchard capable sugar tomato session";
+var mnemonic = "joke evil pear attack game bind metal fortune math donor swap program";

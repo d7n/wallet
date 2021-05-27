@@ -1,1 +1,1 @@
-var mnemonic = "pair north picnic clown creek patch chimney eyebrow reopen rain cost vibrant";
+var mnemonic = "delay scatter uncle document wine push citizen armor liberty main this aerobic";

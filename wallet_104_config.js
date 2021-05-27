@@ -1,1 +1,1 @@
-var mnemonic = "brother current stable material act correct across siren era slice convince magnet";
+var mnemonic = "labor skull east response oval clip dune holiday reopen civil cattle gaze";

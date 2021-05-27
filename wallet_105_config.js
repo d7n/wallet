@@ -1,1 +1,1 @@
-var mnemonic = "spend notable coast baby village scrap tent another room calm illness cherry";
+var mnemonic = "there nose zone expose unveil review husband stuff table mutual roast style";

@@ -1,1 +1,1 @@
-var mnemonic = "mango try bind image begin stairs glimpse torch soft energy walk basic";
+var mnemonic = "require kiss lounge dignity buzz plate tackle churn asset tumble dove twist";

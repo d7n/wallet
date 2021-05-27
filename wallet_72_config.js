@@ -1,1 +1,1 @@
-var mnemonic = "gap foam narrow swamp trouble frost style banana cook time mystery helmet";
+var mnemonic = "item warrior luggage foil clap virtual inner asthma able later whisper lobster";

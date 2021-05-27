@@ -1,1 +1,1 @@
-var mnemonic = "spray wrestle coral payment sting dust sniff drive umbrella busy surface net";
+var mnemonic = "acid curtain title canvas habit merry property sword near bunker scissors innocent";

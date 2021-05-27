@@ -1,1 +1,1 @@
-var mnemonic = "happy scorpion cover math candy noise settle anxiety drink minimum ignore super";
+var mnemonic = "shed crunch lumber betray news often fossil season hood monster start seven";

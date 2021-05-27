@@ -1,1 +1,1 @@
-var mnemonic = "lobster tell aware rule angle tank chat subway purity peace era until";
+var mnemonic = "glue engage mammal milk divorce behind paddle million cushion deliver addict order";

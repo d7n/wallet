@@ -1,1 +1,1 @@
-var mnemonic = "sad doctor habit turn receive grid develop insect wrestle rug detail budget";
+var mnemonic = "other loop vessel skate around prosper alter swing across mail top velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "first firm humble fine peace agree stem black scorpion layer drip initial";
+var mnemonic = "curtain south same legend face sing leaf barrel grant episode amazing any";

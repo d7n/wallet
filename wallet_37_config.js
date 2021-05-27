@@ -1,1 +1,1 @@
-var mnemonic = "castle vocal else sorry skirt more west right orient useful casino organ";
+var mnemonic = "pony survey main fatigue boring trust answer digital rely almost genius avocado";

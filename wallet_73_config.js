@@ -1,1 +1,1 @@
-var mnemonic = "physical group address same top push critic swim caught spray goat brain";
+var mnemonic = "boost scan pipe circle around mammal scare lecture any merge drip high";

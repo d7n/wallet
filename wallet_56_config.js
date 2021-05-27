@@ -1,1 +1,1 @@
-var mnemonic = "clump soap grace fox jar nurse away twelve imitate exhaust track erase";
+var mnemonic = "entire device unveil bring curious crumble ginger reason ignore meadow curve response";

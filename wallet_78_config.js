@@ -1,1 +1,1 @@
-var mnemonic = "punch globe rather leg cycle table quiz indoor sausage jelly piano material";
+var mnemonic = "there pull dial decrease blame diesel trophy green pattern tell thank box";

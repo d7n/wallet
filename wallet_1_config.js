@@ -1,1 +1,1 @@
-var mnemonic = "explain seed kidney pulse snap mom tornado auction salad pave sorry error";
+var mnemonic = "promote priority raw cigar sting arrest fish accident include history oyster absurd";

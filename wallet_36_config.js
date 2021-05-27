@@ -1,1 +1,1 @@
-var mnemonic = "tennis pride dynamic fall convince spawn laundry bright seed bench inhale into";
+var mnemonic = "dignity wood river loyal glory gap dismiss fire gasp tower future push";

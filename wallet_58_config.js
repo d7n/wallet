@@ -1,1 +1,1 @@
-var mnemonic = "brass hungry unaware cloth tomato marble sick region clerk rally swallow beef";
+var mnemonic = "enforce forget cover vanish surface final defense claim stage cool mutual surround";

@@ -1,1 +1,1 @@
-var mnemonic = "drift sad cluster ritual napkin gospel fall odor general speak tree draft";
+var mnemonic = "rain like access faith turn transfer field immense eager inmate phone advice";

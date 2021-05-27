@@ -1,1 +1,1 @@
-var mnemonic = "inspire input must lawsuit rough oval rigid steak joke solid vicious normal";
+var mnemonic = "phone whale letter recipe differ essence bid among summer replace pair upon";

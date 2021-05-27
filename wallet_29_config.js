@@ -1,1 +1,1 @@
-var mnemonic = "surprise aim stone either best erode refuse model odor welcome lake leave";
+var mnemonic = "sadness warrior smart ill segment rural weekend file patch tomato nice anger";

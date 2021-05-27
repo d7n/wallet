@@ -1,1 +1,1 @@
-var mnemonic = "confirm erase moment install wine amateur patch absent review plastic enemy hill";
+var mnemonic = "bamboo limit tower lunar wear cup assume property check clay believe silly";

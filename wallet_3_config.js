@@ -1,1 +1,1 @@
-var mnemonic = "comfort lady make satoshi sort version book hero zoo add velvet voice";
+var mnemonic = "tell transfer climb boss wise churn leaf fan height nest dove talent";

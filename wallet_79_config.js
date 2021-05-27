@@ -1,1 +1,1 @@
-var mnemonic = "announce tongue sauce master prevent tobacco damp marriage symbol dog obscure accident";
+var mnemonic = "ability anchor empower improve arrive mixture reduce nasty index fly donor muffin";

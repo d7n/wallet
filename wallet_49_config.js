@@ -1,1 +1,1 @@
-var mnemonic = "setup wine tip chunk wagon offer whip fresh endorse betray found report";
+var mnemonic = "oil square monitor zebra future access abuse symptom discover rescue impact arctic";

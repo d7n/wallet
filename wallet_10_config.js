@@ -1,1 +1,1 @@
-var mnemonic = "lonely copy since clock news repeat multiply blast sign deliver leopard slab";
+var mnemonic = "scatter equal height awkward force seminar twin poverty garage romance traffic section";

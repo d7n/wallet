@@ -1,1 +1,1 @@
-var mnemonic = "that hint female green any alpha cradle monster split mushroom design life";
+var mnemonic = "minute bag meadow salad gap sheriff exile bicycle piece cruise crush hair";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur poet police toe output script pause movie advance table stomach grocery";
+var mnemonic = "label noise budget invite right speak business cluster twice orbit odor mesh";

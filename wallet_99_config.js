@@ -1,1 +1,1 @@
-var mnemonic = "drop enter chair blade logic news used hen chapter volcano august aim";
+var mnemonic = "spatial arena squeeze window coast bounce chicken nasty minimum purity bamboo surround";

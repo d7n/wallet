@@ -1,1 +1,1 @@
-var mnemonic = "bind viable educate deer flame sad special twice cost total approve keep";
+var mnemonic = "kiss sound begin laptop pudding ranch heart seed few cannon joke emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "inform grain main joy machine apology vague point guess crouch awkward blanket";
+var mnemonic = "require there belt element cabin odor require enhance merit donkey vapor reform";

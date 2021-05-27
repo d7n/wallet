@@ -1,1 +1,1 @@
-var mnemonic = "kitten clap page word boil false smile damp awkward convince release caught";
+var mnemonic = "type behave vital best wrap derive dirt apology latin hover curve whale";

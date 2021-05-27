@@ -1,1 +1,1 @@
-var mnemonic = "upset license where rifle require letter two talk ladder monkey april face";
+var mnemonic = "situate often drift margin amazing doctor yellow deputy oven mobile vault market";

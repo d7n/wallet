@@ -1,1 +1,1 @@
-var mnemonic = "today float region total water sudden limit dolphin strong assist tide holiday";
+var mnemonic = "mutual addict script intact tackle alter finger donkey wine mimic hand animal";

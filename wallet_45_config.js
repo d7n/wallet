@@ -1,1 +1,1 @@
-var mnemonic = "cotton boil flip become reform accident critic party leave wide mimic grass";
+var mnemonic = "path whisper grid rather wolf purity kangaroo lock minute stomach buyer replace";

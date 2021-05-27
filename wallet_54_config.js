@@ -1,1 +1,1 @@
-var mnemonic = "jelly amateur damage subway horror cherry limit brother width satisfy question foster";
+var mnemonic = "wagon crime dinosaur echo business genre party betray despair egg broccoli differ";

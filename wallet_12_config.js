@@ -1,1 +1,1 @@
-var mnemonic = "cute possible unhappy sight journey mesh grow dismiss decline better betray faculty";
+var mnemonic = "craft sight accuse acid family among relax palm rose inside music shell";

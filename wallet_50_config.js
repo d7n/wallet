@@ -1,1 +1,1 @@
-var mnemonic = "system silly magnet drama quote ecology plug discover behave bamboo together abstract";
+var mnemonic = "door timber orient warm fire aspect ugly funny magic treat enhance dash";

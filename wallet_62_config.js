@@ -1,1 +1,1 @@
-var mnemonic = "nurse reason pond ski toddler guilt believe truck dinosaur buyer pulse speed";
+var mnemonic = "cushion verify vessel solar grocery step old moment solar surround clinic tray";

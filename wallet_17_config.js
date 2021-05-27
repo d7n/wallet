@@ -1,1 +1,1 @@
-var mnemonic = "toe kitten gallery unveil convince mean dwarf wisdom usage romance absent board";
+var mnemonic = "develop copy ball anchor friend alone little leg today rescue promote deer";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator wish over company breeze pony violin melt piano ivory language obey";
+var mnemonic = "youth woman try deer topic wisdom wine brush join elder rough lemon";

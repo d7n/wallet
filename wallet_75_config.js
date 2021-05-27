@@ -1,1 +1,1 @@
-var mnemonic = "private power winner light walk fluid armed defense settle alley green share";
+var mnemonic = "escape come gaze van century squirrel agree joy unique roast ill sample";

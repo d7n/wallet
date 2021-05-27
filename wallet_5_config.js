@@ -1,1 +1,1 @@
-var mnemonic = "mask explain twin gold lunch birth claim simple grant element fold wonder";
+var mnemonic = "sick cement link wife vast inflict that merge find equal abandon saddle";

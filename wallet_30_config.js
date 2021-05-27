@@ -1,1 +1,1 @@
-var mnemonic = "wood slim dolphin topple desk exile loyal stuff adjust lens fossil great";
+var mnemonic = "acoustic talent march giraffe embrace magnet deliver siren salad bus stadium syrup";

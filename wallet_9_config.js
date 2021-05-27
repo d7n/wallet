@@ -1,1 +1,1 @@
-var mnemonic = "despair lucky camera dog pottery ketchup fold acquire next flush upset work";
+var mnemonic = "bus kit fever bus general orbit mirror citizen beef crew remove entry";

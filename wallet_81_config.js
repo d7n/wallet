@@ -1,1 +1,1 @@
-var mnemonic = "sure casino expand blame bacon dune roast minor device security train visa";
+var mnemonic = "senior culture reunion begin pill entry suffer nose stadium trend shrug buyer";

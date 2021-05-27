@@ -1,1 +1,1 @@
-var mnemonic = "dentist author seat portion aspect unique goddess assault paper barely mammal master";
+var mnemonic = "industry dismiss acquire entire input general friend alley goat quiz cross hunt";

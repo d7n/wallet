@@ -1,1 +1,1 @@
-var mnemonic = "elegant health weapon square planet local resource walnut gorilla penalty veteran twice";
+var mnemonic = "ignore idea quote acquire youth camp novel cost awful grape organ robot";
