@@ -1,1 +1,1 @@
-var mnemonic = "adapt prepare wrestle debate pelican snake depend congress viable minimum practice arch";
+var mnemonic = "uncover share quarter engine habit install inspire nasty spoil rain egg stable";

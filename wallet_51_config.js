@@ -1,1 +1,1 @@
-var mnemonic = "monkey drastic release file sick earth image desk track stick seven hungry";
+var mnemonic = "fortune key slam crunch slab code bounce sail rebuild squirrel ugly truck";

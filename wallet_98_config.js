@@ -1,1 +1,1 @@
-var mnemonic = "swarm want like range fever private action security fatal orient wonder because";
+var mnemonic = "speed summer eyebrow family fish worry swing decorate genuine zero alley skill";

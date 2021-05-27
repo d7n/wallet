@@ -1,1 +1,1 @@
-var mnemonic = "museum already stock bracket garden bid latin dust artist will general wing";
+var mnemonic = "settle electric age planet street easy bitter machine meadow solve lemon syrup";

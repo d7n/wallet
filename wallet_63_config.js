@@ -1,1 +1,1 @@
-var mnemonic = "magic access between rain desk vanish observe rack change surge fortune ginger";
+var mnemonic = "radar miss doctor code plastic govern feature reveal margin banana require tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "summer chase divert afraid endless excite maid produce art system twist client";
+var mnemonic = "catch monitor royal party promote expect memory ketchup shallow glow truth over";

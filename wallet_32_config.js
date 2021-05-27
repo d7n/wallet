@@ -1,1 +1,1 @@
-var mnemonic = "cupboard blind slam clarify deny tunnel super rude purpose rural matrix practice";
+var mnemonic = "air sentence annual glass banner rebel width shine win camera mix bitter";

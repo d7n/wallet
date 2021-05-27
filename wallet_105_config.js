@@ -1,1 +1,1 @@
-var mnemonic = "fossil slot immense slush vessel inhale dolphin album segment island salad truth";
+var mnemonic = "quiz pass hurt obvious glide unique favorite deal cinnamon vague visual practice";

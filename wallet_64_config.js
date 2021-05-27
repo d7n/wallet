@@ -1,1 +1,1 @@
-var mnemonic = "project exhibit state jealous sleep wrist venture split dad belt banana wrist";
+var mnemonic = "sure rose forget mixed rude liar limit aunt have viable hope system";

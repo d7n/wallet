@@ -1,1 +1,1 @@
-var mnemonic = "hip like final forward trophy arm lamp hurry one volume stable dinner";
+var mnemonic = "female gift large decline luxury inmate erosion salon bread choice avocado foil";

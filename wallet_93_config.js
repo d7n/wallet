@@ -1,1 +1,1 @@
-var mnemonic = "climb genius crawl steel pistol tornado moral speak lab combine father wire";
+var mnemonic = "awful little jazz virtual agree rare evidence become penalty width spell swallow";

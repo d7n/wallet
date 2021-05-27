@@ -1,1 +1,1 @@
-var mnemonic = "hidden mercy brass ice limb true matter slight half rail vintage carpet";
+var mnemonic = "under depart finish beef orange sing cycle quote vast praise shoot skin";

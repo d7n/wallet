@@ -1,1 +1,1 @@
-var mnemonic = "gift tourist cream pilot hub brain average network bundle speed push agent";
+var mnemonic = "liar taxi garlic fan grunt tortoise submit mercy where chunk color nice";

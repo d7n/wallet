@@ -1,1 +1,1 @@
-var mnemonic = "knee mushroom surge early naive stool radio pulp all spoil edge buddy";
+var mnemonic = "update real prison abandon half lake admit oil reveal smoke deal crash";

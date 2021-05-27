@@ -1,1 +1,1 @@
-var mnemonic = "warrior fatigue burger chapter oblige daring wonder test act print elevator decline";
+var mnemonic = "bottom arena rotate dilemma glad wasp monitor height escape final bonus receive";

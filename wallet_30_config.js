@@ -1,1 +1,1 @@
-var mnemonic = "blue modify short wasp feed remember spare input arctic clock purchase afraid";
+var mnemonic = "stage meat glad sleep public hill place hurt fetch upgrade hidden hurdle";

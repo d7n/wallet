@@ -1,1 +1,1 @@
-var mnemonic = "scan width earn canyon design annual laundry donate brisk nest snow slush";
+var mnemonic = "priority jazz photo unusual labor execute rug ten announce local moment bicycle";

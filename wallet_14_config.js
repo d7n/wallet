@@ -1,1 +1,1 @@
-var mnemonic = "scheme unfold inform lock child dish nice assault few vicious brick sphere";
+var mnemonic = "bacon banana alone vessel mystery quality glance original amount sketch spell sand";

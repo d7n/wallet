@@ -1,1 +1,1 @@
-var mnemonic = "ankle razor region potato glare siren fiscal bunker auction manage glad surprise";
+var mnemonic = "palm crack stereo sock dash pretty finger battle what mutual donkey bleak";

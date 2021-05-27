@@ -1,1 +1,1 @@
-var mnemonic = "future square fatal sketch banana elite between cheese play useful dial spend";
+var mnemonic = "marine gadget hover man fantasy nose isolate ski rain knock tiger pioneer";

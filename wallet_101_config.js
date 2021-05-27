@@ -1,1 +1,1 @@
-var mnemonic = "sponsor satisfy announce weather body toe you fantasy mule damage clinic kiwi";
+var mnemonic = "mosquito student wire giraffe media life tone sport aspect suggest tongue empower";

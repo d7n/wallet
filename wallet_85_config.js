@@ -1,1 +1,1 @@
-var mnemonic = "toward offer view envelope gate labor rocket milk solution spider guard point";
+var mnemonic = "clarify unfold inform erase wish dinosaur dad execute absent blouse clock artefact";

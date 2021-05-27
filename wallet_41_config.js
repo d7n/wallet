@@ -1,1 +1,1 @@
-var mnemonic = "craft fine culture load step mechanic radar before kind alley toast bench";
+var mnemonic = "sheriff leave swallow quarter inspire churn enroll museum road net old coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp screen churn initial symbol liberty organ win exotic slow swap sheriff";
+var mnemonic = "begin lumber menu sentence spider copy slice abuse rifle hawk husband assist";

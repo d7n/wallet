@@ -1,1 +1,1 @@
-var mnemonic = "clay portion radio elite cave cream useless hazard city example melt mesh";
+var mnemonic = "link large public horror left kingdom cousin caught ribbon eight hawk prefer";

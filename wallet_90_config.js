@@ -1,1 +1,1 @@
-var mnemonic = "museum dwarf heart bike festival picture pause horn picture soon uncover budget";
+var mnemonic = "wet essay only mechanic kitchen turn vocal speed still desk congress prosper";

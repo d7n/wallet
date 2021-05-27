@@ -1,1 +1,1 @@
-var mnemonic = "heavy lucky hard used kangaroo vault grid steak real heavy involve clerk";
+var mnemonic = "pumpkin hire rotate jeans churn ripple chair unable people various useless gun";

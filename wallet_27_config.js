@@ -1,1 +1,1 @@
-var mnemonic = "clever hard impact pulse replace gesture route segment hill cart sadness bid";
+var mnemonic = "swap stove spin dawn friend modify peanut green west afford idle yard";

@@ -1,1 +1,1 @@
-var mnemonic = "panel equip valley input dolphin indoor minute dust humble route injury mother";
+var mnemonic = "level scatter culture drill below clap live lion cabbage interest rural quantum";

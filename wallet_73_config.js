@@ -1,1 +1,1 @@
-var mnemonic = "sock shock razor warfare actual horse fire loud year brush alert expire";
+var mnemonic = "close coil mountain receive scheme slogan entire meat helmet orbit grid cable";

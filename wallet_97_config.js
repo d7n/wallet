@@ -1,1 +1,1 @@
-var mnemonic = "wedding mixed coil area uncover dirt all hint eight right neither design";
+var mnemonic = "height way anchor hobby vicious inside dismiss federal have season program praise";

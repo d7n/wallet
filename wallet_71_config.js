@@ -1,1 +1,1 @@
-var mnemonic = "tide leave inner invite easy rough certain gorilla coach method farm trip";
+var mnemonic = "trophy goddess kite verb color then blind primary acoustic reopen piece slice";

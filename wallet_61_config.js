@@ -1,1 +1,1 @@
-var mnemonic = "october animal brief umbrella west breeze master tiny position empty response bubble";
+var mnemonic = "offer more dog history delay relax caught make universe solution mechanic essay";

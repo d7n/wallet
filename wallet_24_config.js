@@ -1,1 +1,1 @@
-var mnemonic = "version fade arrive practice people school aunt pause then orchard top immense";
+var mnemonic = "fancy hold excuse valid outside toss scout enter benefit maze monkey travel";

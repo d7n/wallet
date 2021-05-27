@@ -1,1 +1,1 @@
-var mnemonic = "whale purchase champion welcome divorce stem perfect also unlock cigar decorate cross";
+var mnemonic = "suffer elevator super boss poverty weird process comfort exile neglect next spray";

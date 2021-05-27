@@ -1,1 +1,1 @@
-var mnemonic = "art mansion amateur subject drive ski autumn jazz force ozone ski flush";
+var mnemonic = "sure damage tonight carry balcony clinic salmon jaguar mobile ordinary silent donor";

@@ -1,1 +1,1 @@
-var mnemonic = "cute need lend pulp young truck rough hazard elegant oven plug achieve";
+var mnemonic = "eyebrow biology joke base forget zoo senior grace mass shine scatter gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder vacuum nurse deny flat boil tennis civil speed alpha jacket caught";
+var mnemonic = "group romance lucky sad riot cause diesel amused picnic coach client also";

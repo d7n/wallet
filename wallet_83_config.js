@@ -1,1 +1,1 @@
-var mnemonic = "leaf comfort banana day nerve cliff mixed grit wasp color narrow biology";
+var mnemonic = "share dirt solution expose weather host penalty unusual exotic pupil auction follow";

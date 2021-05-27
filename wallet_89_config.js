@@ -1,1 +1,1 @@
-var mnemonic = "coral laptop stage suit adult gesture combine equal people permit tree abstract";
+var mnemonic = "chief indicate original type brown drift horror reform donor submit excess current";

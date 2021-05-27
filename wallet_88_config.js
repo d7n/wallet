@@ -1,1 +1,1 @@
-var mnemonic = "flame anxiety easily become husband buzz repeat master nice topple addict open";
+var mnemonic = "march youth original hundred medal gym speak brave trust library fitness stable";

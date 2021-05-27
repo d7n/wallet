@@ -1,1 +1,1 @@
-var mnemonic = "priority detail inner depend wife party october fun orphan project battle excite";
+var mnemonic = "initial mule burden motion spread camera arrange usage guilt rival champion misery";

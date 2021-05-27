@@ -1,1 +1,1 @@
-var mnemonic = "sample system noble sister cave abuse undo foster refuse domain please hurdle";
+var mnemonic = "village can tonight long duck truck truth october panther jar run journey";

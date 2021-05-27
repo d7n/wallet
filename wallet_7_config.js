@@ -1,1 +1,1 @@
-var mnemonic = "horror light letter eternal position baby until unhappy run unaware camera nasty";
+var mnemonic = "angry actual unique address hold industry comfort arrow arrange unknown feed neutral";

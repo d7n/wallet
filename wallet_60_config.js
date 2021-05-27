@@ -1,1 +1,1 @@
-var mnemonic = "suit valley creek find universe flame gesture repair paddle seed wide tag";
+var mnemonic = "dish tell divorce daring valley service surface piece earth stuff slab zoo";

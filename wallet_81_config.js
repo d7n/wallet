@@ -1,1 +1,1 @@
-var mnemonic = "stumble credit early elegant effort debate breeze truly poet slight gain soccer";
+var mnemonic = "head tape panic doctor picture baby train gesture fiscal spin fossil spot";

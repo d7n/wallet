@@ -1,1 +1,1 @@
-var mnemonic = "dutch knock blush gadget wing tiger wash swear faculty assault prison bar";
+var mnemonic = "easily creek unknown position eyebrow assume tongue arrange silly embrace patient vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "motor record roof nephew earth sort glass upper guide kind cause behind";
+var mnemonic = "silk typical situate neglect vital swamp amused verb album swear casual dose";

@@ -1,1 +1,1 @@
-var mnemonic = "tide mind gallery across weird tree faculty guard unknown math nose depend";
+var mnemonic = "museum attack soccer transfer sketch dumb flat isolate purpose quality trap help";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict funny bleak general lumber nut subway swarm entire observe endless river";
+var mnemonic = "citizen copy miracle artist bubble sign panel shadow repair hint sibling denial";

@@ -1,1 +1,1 @@
-var mnemonic = "radio kick below road route child gadget process frozen fee genius history";
+var mnemonic = "poem myself cotton gun target forest local frame aisle bird enrich basic";

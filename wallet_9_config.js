@@ -1,1 +1,1 @@
-var mnemonic = "diagram nuclear swift avoid repair kiss dice pink avocado come neck laptop";
+var mnemonic = "rubber vivid slight interest lecture weird crew equip olympic vital hat upgrade";

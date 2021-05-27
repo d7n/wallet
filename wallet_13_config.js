@@ -1,1 +1,1 @@
-var mnemonic = "coil caught shaft inquiry such crumble cup remind exact sentence dumb aisle";
+var mnemonic = "absurd target easily blind task kiss extra sun crumble hill health hurt";

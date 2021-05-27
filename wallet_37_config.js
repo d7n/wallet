@@ -1,1 +1,1 @@
-var mnemonic = "stove equip worth doctor appear person cushion fluid shy essay tube place";
+var mnemonic = "daughter dish puzzle feel horse scale daring fiber gun screen swarm hill";

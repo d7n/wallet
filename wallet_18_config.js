@@ -1,1 +1,1 @@
-var mnemonic = "oppose top embark cradle ensure exact mean option car man path movie";
+var mnemonic = "broom knee portion copper scheme this enhance soon cloth aspect mention refuse";

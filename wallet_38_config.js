@@ -1,1 +1,1 @@
-var mnemonic = "ugly tonight term myth theme organ nut tower mountain shadow lion unlock";
+var mnemonic = "diary recall portion dynamic panel truth impulse envelope nation wine legend brass";

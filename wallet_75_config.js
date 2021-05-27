@@ -1,1 +1,1 @@
-var mnemonic = "brand vendor wall argue lizard clarify december iron merry hour sweet habit";
+var mnemonic = "rival bubble limb rebel grab airport when enlist popular split hawk load";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort entire pudding web input capable reform jar impact actual multiply grace";
+var mnemonic = "chest fiction odor exhibit fork sail foil census coin license spell rough";

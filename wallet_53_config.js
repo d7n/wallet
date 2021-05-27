@@ -1,1 +1,1 @@
-var mnemonic = "trade stable vital observe speak paper crack hold piano dolphin warrior plunge";
+var mnemonic = "like index ship matrix visual laundry base strategy horn old leave slide";

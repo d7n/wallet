@@ -1,1 +1,1 @@
-var mnemonic = "two august body seed force coconut field famous pet cry boy auto";
+var mnemonic = "jar hint company planet affair collect idle pave announce fade prize oven";

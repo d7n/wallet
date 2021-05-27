@@ -1,1 +1,1 @@
-var mnemonic = "seek arrow donate draw shield crowd goose smart jar lizard loud try";
+var mnemonic = "sister again purse seek erase true melody grace manage fame lesson crane";

@@ -1,1 +1,1 @@
-var mnemonic = "milk great legal shed iron swing fiber slender nose scorpion race gate";
+var mnemonic = "round suggest eye produce usual display car option depth genre wall fiction";

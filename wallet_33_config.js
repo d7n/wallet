@@ -1,1 +1,1 @@
-var mnemonic = "hundred regret width episode glow meat fee dice level measure obvious joy";
+var mnemonic = "visa bid local mosquito tail foster ritual crack foot trip shove replace";

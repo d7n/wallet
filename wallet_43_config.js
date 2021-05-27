@@ -1,1 +1,1 @@
-var mnemonic = "upon alter holiday notable struggle enable unfold journey bottom kit story latin";
+var mnemonic = "suspect gaze become proof note ship kit autumn pretty random cancel usual";

@@ -1,1 +1,1 @@
-var mnemonic = "month ankle wet remember dial aim dolphin kingdom open muffin unhappy evidence";
+var mnemonic = "morning behave mystery question include raise smart team essence table mercy sure";

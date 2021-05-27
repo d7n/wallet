@@ -1,1 +1,1 @@
-var mnemonic = "ecology head marine image arena dignity subject puzzle lonely own rely there";
+var mnemonic = "spend push nerve subject smart dinner clown talent walnut celery tennis case";

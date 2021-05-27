@@ -1,1 +1,1 @@
-var mnemonic = "random voyage sight trick interest miracle banana forget success enlist garden flee";
+var mnemonic = "survey problem obscure venture exile venue viable noise okay boil boring popular";

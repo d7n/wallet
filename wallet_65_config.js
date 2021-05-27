@@ -1,1 +1,1 @@
-var mnemonic = "element normal upon congress ramp liberty wood ridge dinner rate woman pause";
+var mnemonic = "doll easily furnace three air notable daughter lizard balcony reason remember above";

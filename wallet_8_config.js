@@ -1,1 +1,1 @@
-var mnemonic = "stone banner drip fade taxi cage ugly thrive pottery prefer pink siren";
+var mnemonic = "audit tag maze open memory wait logic dance scene rice brick dad";

@@ -1,1 +1,1 @@
-var mnemonic = "trash possible trouble toss base volcano joy hurdle mobile ball toast clump";
+var mnemonic = "person mobile guard ghost music royal illegal buddy erupt disorder increase sea";

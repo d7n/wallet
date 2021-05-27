@@ -1,1 +1,1 @@
-var mnemonic = "diesel clump tail expand topple fit fetch paddle dove similar hybrid initial";
+var mnemonic = "dove long wreck issue abstract margin zone situate together spin escape announce";

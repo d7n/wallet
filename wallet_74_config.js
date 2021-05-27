@@ -1,1 +1,1 @@
-var mnemonic = "hockey twin secret lawn critic among age ribbon pact advance neutral garage";
+var mnemonic = "fluid income crystal jar usage surface horn patient symbol amazing finish any";

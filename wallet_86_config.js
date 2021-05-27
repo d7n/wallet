@@ -1,1 +1,1 @@
-var mnemonic = "flee assault invest resist room glue today defy finish thumb panda voyage";
+var mnemonic = "skin position step trend sock onion exhibit air wrong allow frog bubble";

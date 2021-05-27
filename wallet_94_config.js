@@ -1,1 +1,1 @@
-var mnemonic = "book camera donkey soap acid wink abandon execute image document bronze monster";
+var mnemonic = "essay clip replace little rabbit walk attitude exact earth two oblige toe";

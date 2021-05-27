@@ -1,1 +1,1 @@
-var mnemonic = "away motion return cannon stairs royal slogan maid choose swap assault soon";
+var mnemonic = "creek ostrich genuine rival stadium vacuum join ensure yard caught rifle clever";

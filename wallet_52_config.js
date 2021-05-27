@@ -1,1 +1,1 @@
-var mnemonic = "list when satoshi find scheme moral soft grid deposit wave combine stand";
+var mnemonic = "sun chimney oven reduce attack pulp idle foil west machine join autumn";

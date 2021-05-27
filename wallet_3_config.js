@@ -1,1 +1,1 @@
-var mnemonic = "strong time erupt stool leaf flat parrot symbol hat tattoo awful broccoli";
+var mnemonic = "term main autumn another ridge mercy vague thrive response leaf celery monitor";

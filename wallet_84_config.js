@@ -1,1 +1,1 @@
-var mnemonic = "course oil laundry depth exercise smart shove enlist orbit school average ship";
+var mnemonic = "amused april cotton juice asthma museum rose critic vocal kit pave fall";

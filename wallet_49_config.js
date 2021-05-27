@@ -1,1 +1,1 @@
-var mnemonic = "kind city athlete narrow glove meadow level fish miss puppy rail acid";
+var mnemonic = "promote device decade boat liar rare upgrade execute illness false globe crystal";

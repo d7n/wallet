@@ -1,1 +1,1 @@
-var mnemonic = "mixed stove wealth fetch hotel regular teach salon sibling about around cave";
+var mnemonic = "inspire shrug risk book bounce own pioneer lamp glass surprise blue once";

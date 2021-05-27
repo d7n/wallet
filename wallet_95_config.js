@@ -1,1 +1,1 @@
-var mnemonic = "awkward entry olive speed inflict brave pink fever plunge bamboo pumpkin rally";
+var mnemonic = "elephant when fancy excuse hybrid echo discover talk advance pumpkin swamp drift";

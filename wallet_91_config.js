@@ -1,1 +1,1 @@
-var mnemonic = "trim toss physical kangaroo dad dirt hard fork dinosaur cupboard avocado sugar";
+var mnemonic = "fabric ivory possible vacant neutral horror absurd ribbon fever team earn attitude";

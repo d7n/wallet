@@ -1,1 +1,1 @@
-var mnemonic = "destroy capital excite human frown side country skull canal warrior artwork where";
+var mnemonic = "catalog charge drill improve lesson desert regular hole wink tomorrow sheriff pilot";

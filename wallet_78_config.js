@@ -1,1 +1,1 @@
-var mnemonic = "drift april anchor cricket reject present mirror invest exact anchor news nature";
+var mnemonic = "human course crater tennis notice april crucial high knife review cruise coin";
