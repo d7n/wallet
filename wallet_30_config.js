@@ -1,1 +1,1 @@
-var mnemonic = "fossil seat check quick badge scrub sea amused foil action soft swarm";
+var mnemonic = "secret mimic audit surprise rhythm this teach noble attract civil metal cake";

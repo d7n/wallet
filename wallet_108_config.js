@@ -1,1 +1,1 @@
-var mnemonic = "curtain hospital law vague reject use work consider square squirrel furnace shove";
+var mnemonic = "tissue wine hood cabbage nasty lounge tunnel eyebrow feature property correct grit";

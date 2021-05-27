@@ -1,1 +1,1 @@
-var mnemonic = "taste blade rescue border truly scorpion warrior roast program egg stone gallery";
+var mnemonic = "figure skate able forget notice repair bus grow anchor master warm diagram";

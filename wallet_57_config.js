@@ -1,1 +1,1 @@
-var mnemonic = "hockey drink scatter upper exact twenty suffer poet pipe phrase spell slab";
+var mnemonic = "orange major step cook slender energy melody return dumb predict impose ride";

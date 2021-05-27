@@ -1,1 +1,1 @@
-var mnemonic = "south forest tortoise bacon reflect suggest idle top bamboo rocket slogan income";
+var mnemonic = "trick swamp exist nice faculty sign deputy teach good fantasy citizen hub";

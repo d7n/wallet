@@ -1,1 +1,1 @@
-var mnemonic = "aspect race dawn split electric attack drop task member father govern lesson";
+var mnemonic = "error brain age phone ugly torch fat sleep heart heart egg online";

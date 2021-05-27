@@ -1,1 +1,1 @@
-var mnemonic = "twelve unable brown strategy oblige found hotel cable loud loan cover switch";
+var mnemonic = "approve area turtle witness special cloth aspect skin steak reveal mango shoot";

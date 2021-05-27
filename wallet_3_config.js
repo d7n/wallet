@@ -1,1 +1,1 @@
-var mnemonic = "stove future plate lunch decrease miracle urban belt ankle shiver art rural";
+var mnemonic = "gasp scene ship grow history happy hill bag wine enter barely hire";

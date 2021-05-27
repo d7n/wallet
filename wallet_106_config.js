@@ -1,1 +1,1 @@
-var mnemonic = "shrimp vocal hip mother jealous muffin tent brother candy rare exclude wire";
+var mnemonic = "cry muffin service fetch depend forum oak such emotion never zebra initial";

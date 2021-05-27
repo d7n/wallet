@@ -1,1 +1,1 @@
-var mnemonic = "kite alcohol enable morning spring liar finish guess profit lonely same mystery";
+var mnemonic = "clinic hammer brief that reward sheriff spot attract kick pear flip good";

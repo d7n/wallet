@@ -1,1 +1,1 @@
-var mnemonic = "demise what vacuum pride nest warrior tortoise moral noble local proof spawn";
+var mnemonic = "bike much rookie arch dune actual leave census senior stick hole slender";

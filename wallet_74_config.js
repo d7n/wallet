@@ -1,1 +1,1 @@
-var mnemonic = "minute exhibit clever sign castle olive vacant view inject such fly salad";
+var mnemonic = "zero minimum gorilla scrub initial firm fruit grit remember ride toy peace";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic grow term pledge clown thing follow velvet copy curve mom original";
+var mnemonic = "donkey rib result reform float cradle unlock warfare edge chat blind short";

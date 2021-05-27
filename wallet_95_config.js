@@ -1,1 +1,1 @@
-var mnemonic = "humor cabbage express base industry umbrella solid allow note exotic depart display";
+var mnemonic = "visa harvest differ inform skirt wave accident happy curtain token bean lounge";

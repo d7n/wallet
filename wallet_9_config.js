@@ -1,1 +1,1 @@
-var mnemonic = "language lunar worry tone review grant child ugly twin poverty assist track";
+var mnemonic = "link labor crunch analyst silent pencil fade input draw cloth awake gap";

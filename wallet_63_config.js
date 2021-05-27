@@ -1,1 +1,1 @@
-var mnemonic = "kick work barely hint stumble egg mobile green ship unable mesh excess";
+var mnemonic = "pony lion away source appear split fruit crack gain little fee hamster";

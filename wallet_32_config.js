@@ -1,1 +1,1 @@
-var mnemonic = "draw fitness bike shine flower huge grace much face acoustic reason film";
+var mnemonic = "beauty car trade pupil found liberty away joy suffer figure rival combine";

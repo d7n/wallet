@@ -1,1 +1,1 @@
-var mnemonic = "already couch cigar bridge abandon mistake radio ticket cheese diary month leaf";
+var mnemonic = "budget tooth gas ladder never pony wheat air lamp hen coil forest";

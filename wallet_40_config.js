@@ -1,1 +1,1 @@
-var mnemonic = "fiber love quick arrive correct luxury jar tumble cupboard great crowd bounce";
+var mnemonic = "hire prosper buyer cart dinner alpha oblige captain curious all travel garage";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon mercy farm tragic weird grape patient donor belt century adapt orbit";
+var mnemonic = "refuse half snack basket outdoor design rural inquiry plug spread rare outdoor";

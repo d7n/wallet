@@ -1,1 +1,1 @@
-var mnemonic = "marine final switch useless bullet below creek scheme also shrimp install obey";
+var mnemonic = "chunk spread mobile gown spoil original level lazy tail desert debate table";

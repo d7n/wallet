@@ -1,1 +1,1 @@
-var mnemonic = "coach razor medal crane praise sweet ramp choose can page apology finger";
+var mnemonic = "salon oblige innocent kit valid noodle shed design latin across famous assume";

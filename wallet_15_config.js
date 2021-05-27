@@ -1,1 +1,1 @@
-var mnemonic = "dose power daughter remove dog health odor love edge cheap pass crack";
+var mnemonic = "bulb never gasp pelican bleak borrow soup face drink soap festival demand";

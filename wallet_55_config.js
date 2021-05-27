@@ -1,1 +1,1 @@
-var mnemonic = "apart risk orchard skirt hole wagon stand private laugh ankle bright giraffe";
+var mnemonic = "throw plug sword drama earn mom similar spice object leg kind include";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt fiber spirit letter annual suit fantasy someone bind all when cry";
+var mnemonic = "relief equal fetch busy journey census board vague indoor call laptop universe";

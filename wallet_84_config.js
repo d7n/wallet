@@ -1,1 +1,1 @@
-var mnemonic = "remove achieve cricket knee ecology asset million other fish between nasty fiber";
+var mnemonic = "plug normal say ethics daughter anchor sand equal finish scout inform wealth";

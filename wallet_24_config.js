@@ -1,1 +1,1 @@
-var mnemonic = "rate chunk number river ticket manual budget enjoy truth fashion banner crouch";
+var mnemonic = "lazy tragic dog theory smile fine another tennis gesture robot coral before";

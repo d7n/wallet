@@ -1,1 +1,1 @@
-var mnemonic = "behind cupboard short music virus tragic smooth matrix quantum meadow scout nerve";
+var mnemonic = "color glance oil gauge enroll access soup make cannon record switch kick";

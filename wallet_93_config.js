@@ -1,1 +1,1 @@
-var mnemonic = "menu bounce only family wedding vanish ceiling toast fitness large fan stairs";
+var mnemonic = "panther quick easy enemy dentist strong chase perfect either chalk pause buyer";

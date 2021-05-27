@@ -1,1 +1,1 @@
-var mnemonic = "lift main choose around funny street salon clown rocket increase certain chicken";
+var mnemonic = "fury impulse wild crazy robot wide nest grace teach already flag mosquito";

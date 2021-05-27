@@ -1,1 +1,1 @@
-var mnemonic = "tuna poet gate birth win arrive actual craft denial supreme else traffic";
+var mnemonic = "mind tell parent oak head soul confirm code system cheap view cloth";

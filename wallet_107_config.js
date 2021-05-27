@@ -1,1 +1,1 @@
-var mnemonic = "crucial attract able page unusual recall small equip day original pair popular";
+var mnemonic = "blood repair later purity nephew voice blast surround damage fit member eternal";

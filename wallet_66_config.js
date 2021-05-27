@@ -1,1 +1,1 @@
-var mnemonic = "myth hill reveal room action whip tower empower bonus one corn soul";
+var mnemonic = "deputy identify permit shed duck panda sorry speak scrap bronze reduce gain";

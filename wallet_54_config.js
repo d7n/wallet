@@ -1,1 +1,1 @@
-var mnemonic = "suit build join tooth more disease that duty pepper sauce agree galaxy";
+var mnemonic = "girl zoo green clinic genuine trick tube glow dial spirit wave broccoli";

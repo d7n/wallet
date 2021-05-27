@@ -1,1 +1,1 @@
-var mnemonic = "dish album attack catch rookie use want record below claw popular suggest";
+var mnemonic = "grit bus sail health pelican festival adapt dress curious under sadness sure";

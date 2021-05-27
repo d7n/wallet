@@ -1,1 +1,1 @@
-var mnemonic = "real fame skin scan thought group join tuna ability lawn increase general";
+var mnemonic = "ecology stable acid side total juice wrong place marriage body twenty attend";

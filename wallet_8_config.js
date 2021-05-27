@@ -1,1 +1,1 @@
-var mnemonic = "divert summer sponsor trade lizard stumble little oxygen capable gown hub erode";
+var mnemonic = "exit maze ramp silly emotion smooth vehicle pause lens acquire party coral";

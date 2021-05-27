@@ -1,1 +1,1 @@
-var mnemonic = "hen educate seek dash hungry hawk exile tunnel upset spatial grab dilemma";
+var mnemonic = "bicycle fever wet satisfy humor armed animal choice flag mask palm client";

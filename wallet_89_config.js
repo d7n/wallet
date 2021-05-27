@@ -1,1 +1,1 @@
-var mnemonic = "online permit host head pencil stool apart room birth fuel kidney holiday";
+var mnemonic = "cross blade south true usual similar lava rebel prefer lecture ankle head";

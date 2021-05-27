@@ -1,1 +1,1 @@
-var mnemonic = "exercise short awesome payment wolf ready stem involve cost pluck drill together";
+var mnemonic = "drift foot vocal sea novel depend limb soup wasp fog grant echo";

@@ -1,1 +1,1 @@
-var mnemonic = "chair cargo glad fossil simple minor mutual hood attend regret joy sphere";
+var mnemonic = "cushion floor mammal test collect else simple october shoot pole seed shallow";

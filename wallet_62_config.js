@@ -1,1 +1,1 @@
-var mnemonic = "demise left kingdom idle assume odor another present vocal pilot bridge sword";
+var mnemonic = "ticket fuel pill drink hockey rookie spoil convince auto cradle volcano copy";

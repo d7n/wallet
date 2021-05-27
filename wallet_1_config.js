@@ -1,1 +1,1 @@
-var mnemonic = "coil pipe earn relax junk drink dry jewel only cricket hint woman";
+var mnemonic = "balance bag artefact ketchup keen breeze brown notable sign finish pride lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard glance fun swim elbow fragile short income close genre remain inhale";
+var mnemonic = "unique party ignore grocery garden someone better satoshi also great add spend";

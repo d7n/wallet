@@ -1,1 +1,1 @@
-var mnemonic = "recall zebra below reunion blue galaxy field item nurse ill miracle soccer";
+var mnemonic = "wisdom rather mammal flock april episode apart idle clutch stuff family liberty";

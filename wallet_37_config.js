@@ -1,1 +1,1 @@
-var mnemonic = "glide rookie actor original laundry frame fancy rib copy genre spray trial";
+var mnemonic = "fragile oyster lazy lawn true diagram pledge argue neither decade goose adapt";

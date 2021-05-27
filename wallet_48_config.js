@@ -1,1 +1,1 @@
-var mnemonic = "rice fatigue bubble awake lens lend slide bind dilemma miss proud cousin";
+var mnemonic = "seed opera apart transfer master inmate exist general simple pioneer earn rack";

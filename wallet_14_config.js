@@ -1,1 +1,1 @@
-var mnemonic = "lounge chief web call ecology color oak arrive again clown world find";
+var mnemonic = "bulk grit guess useful before cover sunset canal kick potato faint surge";

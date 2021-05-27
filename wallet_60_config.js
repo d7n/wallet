@@ -1,1 +1,1 @@
-var mnemonic = "hat viable simple transfer artist clown common announce assist clay october tank";
+var mnemonic = "slot type burger prevent salad bring shadow flee lizard interest rhythm false";

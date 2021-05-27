@@ -1,1 +1,1 @@
-var mnemonic = "update slow behind oxygen donkey champion arrow invest patrol pink prosper issue";
+var mnemonic = "rose rude friend shock another nature raise main divide figure pigeon tell";

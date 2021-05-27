@@ -1,1 +1,1 @@
-var mnemonic = "cave surround change relax faith clap original door void toast ball glimpse";
+var mnemonic = "interest collect that extra endorse program unfold claw future fold antique bone";

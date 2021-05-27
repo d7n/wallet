@@ -1,1 +1,1 @@
-var mnemonic = "kiwi half series estate aerobic daring urge bottom earth seat empty anger";
+var mnemonic = "forum basic guide way hip female dawn ask profit state toss hard";

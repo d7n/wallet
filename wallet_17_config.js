@@ -1,1 +1,1 @@
-var mnemonic = "heavy link manual dutch craft scissors shell film always pelican gold regret";
+var mnemonic = "wheel survey oven hamster because carpet cancel dish also blue region ring";

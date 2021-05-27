@@ -1,1 +1,1 @@
-var mnemonic = "buddy clip glad axis idea hybrid dwarf hard add ranch company tourist";
+var mnemonic = "betray body used three gate horn wrestle keen blast heavy slab fitness";

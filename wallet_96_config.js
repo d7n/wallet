@@ -1,1 +1,1 @@
-var mnemonic = "yellow truck celery noble rebuild coconut water glove dirt inner steel firm";
+var mnemonic = "strong injury amateur attitude rebuild share comfort victory erosion squirrel focus wrong";

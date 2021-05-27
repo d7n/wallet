@@ -1,1 +1,1 @@
-var mnemonic = "coil vibrant degree burger achieve menu trip era journey drop mystery lawn";
+var mnemonic = "celery option leisure manage undo board lecture alpha extend laundry zone network";

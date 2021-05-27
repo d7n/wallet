@@ -1,1 +1,1 @@
-var mnemonic = "drastic glad fame opera budget vague movie plunge energy pond wheat street";
+var mnemonic = "payment asthma equal clinic split service pause virtual style open remove employ";

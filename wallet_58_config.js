@@ -1,1 +1,1 @@
-var mnemonic = "squeeze movie differ recycle supply acoustic know coral life sadness hip lock";
+var mnemonic = "system syrup security bubble unfair carry float enter wink feed real riot";

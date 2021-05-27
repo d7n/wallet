@@ -1,1 +1,1 @@
-var mnemonic = "neutral police clap element milk prize cloud invite curtain exit review immune";
+var mnemonic = "lucky next deny level garlic erase dwarf delay violin tip orbit meadow";

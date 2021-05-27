@@ -1,1 +1,1 @@
-var mnemonic = "absorb symbol outside galaxy face room please vault bomb car start main";
+var mnemonic = "barely claw mule word bomb exact wonder start clarify celery fluid hero";

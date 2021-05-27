@@ -1,1 +1,1 @@
-var mnemonic = "lend toilet flag ankle now opinion loan home crucial holiday reflect age";
+var mnemonic = "animal tuna pluck path clean baby safe wood pledge that acoustic entry";

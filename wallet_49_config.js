@@ -1,1 +1,1 @@
-var mnemonic = "project bomb laugh process air vapor smile day damage must guitar bomb";
+var mnemonic = "involve husband toe paddle never crumble clay arm spice drift still robust";

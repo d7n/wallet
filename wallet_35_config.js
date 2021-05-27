@@ -1,1 +1,1 @@
-var mnemonic = "weather link love estate slender nephew obtain grid episode riot credit talent";
+var mnemonic = "medal beach stomach butter apology prosper wagon lawsuit flame leisure furnace muffin";

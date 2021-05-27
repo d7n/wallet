@@ -1,1 +1,1 @@
-var mnemonic = "blood decorate truly version catalog pride kingdom security title avocado climb bread";
+var mnemonic = "pepper balcony couple together loan duty few want wreck space supreme trust";

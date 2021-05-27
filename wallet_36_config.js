@@ -1,1 +1,1 @@
-var mnemonic = "alert fit deputy sail quarter access rent shiver east notable lawn spell";
+var mnemonic = "ugly photo table sand rabbit olympic wonder faculty garden number genuine rigid";

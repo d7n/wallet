@@ -1,1 +1,1 @@
-var mnemonic = "print bicycle fan crawl abuse strategy enrich hill health gym lobster planet";
+var mnemonic = "plate dentist switch iron phrase modify inch illness hill mimic ball oyster";

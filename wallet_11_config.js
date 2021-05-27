@@ -1,1 +1,1 @@
-var mnemonic = "tackle logic curve silly marine arrange hobby toast aerobic flight ozone flavor";
+var mnemonic = "aunt brother current sort split seminar already style royal tree gift cruel";

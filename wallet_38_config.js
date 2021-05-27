@@ -1,1 +1,1 @@
-var mnemonic = "barely puppy page consider embody repeat minor fatal cheap judge chunk impact";
+var mnemonic = "gloom core admit scrub actress goose pluck hard immune vehicle pumpkin connect";

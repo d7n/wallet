@@ -1,1 +1,1 @@
-var mnemonic = "charge tonight pulse chat kind hunt spice antique gun twice fiction salon";
+var mnemonic = "path duty scan rebel acquire save food cat barrel soldier arrest bus";

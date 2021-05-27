@@ -1,1 +1,1 @@
-var mnemonic = "early uncover target grace first click love quick ski stairs soup obscure";
+var mnemonic = "business fit common unfold drastic prison cry adapt error note rain slice";

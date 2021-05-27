@@ -1,1 +1,1 @@
-var mnemonic = "angle exchange remind trip live rice slot pave oven pyramid border team";
+var mnemonic = "ignore olympic skate move leader seminar income glance october verify push trigger";

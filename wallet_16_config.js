@@ -1,1 +1,1 @@
-var mnemonic = "fossil boost tennis one fade vapor raw robot chicken gasp they achieve";
+var mnemonic = "wrist arrest travel laptop below patient bone scrap shaft art rain rather";

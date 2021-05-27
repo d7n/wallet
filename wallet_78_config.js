@@ -1,1 +1,1 @@
-var mnemonic = "night staff ill own attract solar subject valley fall weather youth cannon";
+var mnemonic = "tuition series release brave dress galaxy embark bar all rubber cat bottom";

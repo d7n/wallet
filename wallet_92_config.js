@@ -1,1 +1,1 @@
-var mnemonic = "clap cabin exclude define swim tree fly sting game orchard cat addict";
+var mnemonic = "child over wear sick trumpet mobile game sniff warfare dice hunt weasel";

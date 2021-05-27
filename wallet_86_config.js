@@ -1,1 +1,1 @@
-var mnemonic = "remind zone inner crawl same dinner maze shuffle mask office limit clutch";
+var mnemonic = "future toward divert icon bind agent hawk universe coyote magnet battle cable";

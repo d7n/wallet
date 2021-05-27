@@ -1,1 +1,1 @@
-var mnemonic = "much system sing own involve tilt fatal sausage six farm solid thought";
+var mnemonic = "ritual crew artist rice term vehicle grocery cart forward soda throw photo";

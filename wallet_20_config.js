@@ -1,1 +1,1 @@
-var mnemonic = "hazard critic cost entry shed speed vessel guilt flight uncover puppy core";
+var mnemonic = "stuff canal addict fall soldier impact cover seed ability citizen doctor beauty";

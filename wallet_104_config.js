@@ -1,1 +1,1 @@
-var mnemonic = "shiver depart cherry census arrest autumn kick lounge manage mind mango pet";
+var mnemonic = "law need opinion ship blush green evoke fox drastic stick error uniform";

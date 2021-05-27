@@ -1,1 +1,1 @@
-var mnemonic = "agree silver dawn custom bus antique lounge mosquito kit force damage hope";
+var mnemonic = "recycle six grit inspire parade pistol mammal auction sand divorce absorb occur";

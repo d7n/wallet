@@ -1,1 +1,1 @@
-var mnemonic = "dolphin announce injury maid rare resource harsh artwork heart radar citizen resource";
+var mnemonic = "shop shuffle virus robot update kick vast since age fiction sound orange";

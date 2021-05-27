@@ -1,1 +1,1 @@
-var mnemonic = "arch gauge uphold execute symptom point jazz knee tilt barely require canyon";
+var mnemonic = "defense poem guilt chaos key give village entire sight globe wolf unlock";

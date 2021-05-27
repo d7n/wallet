@@ -1,1 +1,1 @@
-var mnemonic = "life label olive spot dwarf utility blush funny bring winter cattle toe";
+var mnemonic = "apology twist detect major swallow leopard fix side elegant boil void express";

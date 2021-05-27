@@ -1,1 +1,1 @@
-var mnemonic = "grace relief crawl pear dirt stove rice claim castle foil decrease lunch";
+var mnemonic = "exact true ghost liar child essay next tilt sample version security width";

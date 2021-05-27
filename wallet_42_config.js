@@ -1,1 +1,1 @@
-var mnemonic = "point luxury normal gravity window law elite analyst young enter cluster garment";
+var mnemonic = "grape glimpse illness frequent utility visit carry path paddle tonight lady boost";

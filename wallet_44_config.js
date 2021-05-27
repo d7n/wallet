@@ -1,1 +1,1 @@
-var mnemonic = "fitness dutch stick dove dish confirm shrug math hour tonight crash ask";
+var mnemonic = "ball begin pause airport wonder swim tone awkward artist insect south venture";

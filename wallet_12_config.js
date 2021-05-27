@@ -1,1 +1,1 @@
-var mnemonic = "purchase rigid shallow climb dry utility steel oak slogan frown legend boat";
+var mnemonic = "coin armor joke slide blade begin gun notable stuff matrix quarter bid";

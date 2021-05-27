@@ -1,1 +1,1 @@
-var mnemonic = "zero stay office sweet way hard april trip film tank region rocket";
+var mnemonic = "night muffin connect early uphold easily will pottery sound comic critic warm";

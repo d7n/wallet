@@ -1,1 +1,1 @@
-var mnemonic = "assist attitude key cart cart cabin spatial connect doctor jump liquid online";
+var mnemonic = "force rapid tiny electric equal trigger rib concert thunder hunt music topple";
