@@ -1,1 +1,1 @@
-var mnemonic = "able island rubber fix choose uncle leopard purpose blame orphan worth army";
+var mnemonic = "buffalo plate tide verb thumb naive market physical moral fade toss legal";

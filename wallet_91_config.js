@@ -1,1 +1,1 @@
-var mnemonic = "knock spell maximum flight item aspect aerobic manage net shoot sand blush";
+var mnemonic = "club primary health road nurse relief bacon marine sound series dwarf envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "ten harsh sheriff engine lock dove detail trigger tissue tank exclude hen";
+var mnemonic = "harbor mango elegant autumn youth fan safe bind wage evil twelve athlete";

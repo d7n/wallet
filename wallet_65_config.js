@@ -1,1 +1,1 @@
-var mnemonic = "plastic legal garment promote assume response solve sea cook flame fade tattoo";
+var mnemonic = "spell begin inherit erode enter wasp giggle half finish athlete change mushroom";

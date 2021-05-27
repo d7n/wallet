@@ -1,1 +1,1 @@
-var mnemonic = "stool square tortoise prosper wave moment approve method cry liberty accident virus";
+var mnemonic = "way rabbit essay trick area sea vendor feature under reflect rabbit egg";

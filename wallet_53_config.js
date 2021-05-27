@@ -1,1 +1,1 @@
-var mnemonic = "garbage volume affair tribe giant entire foam aunt grit ribbon media ticket";
+var mnemonic = "food museum treat ridge swallow capital bomb grunt office book accuse congress";

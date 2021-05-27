@@ -1,1 +1,1 @@
-var mnemonic = "sudden prefer allow style cause sad sort web frost history deposit mouse";
+var mnemonic = "chase retreat eye truth mesh shell brief scene roast twist sun riot";

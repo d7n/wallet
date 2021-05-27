@@ -1,1 +1,1 @@
-var mnemonic = "garment claw cushion gentle donate charge olympic planet pipe poverty envelope fence";
+var mnemonic = "idea orbit sand action since service adapt fish hungry help flower obscure";

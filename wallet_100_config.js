@@ -1,1 +1,1 @@
-var mnemonic = "proud asthma clinic spike express knock picture pact alter asthma horn prepare";
+var mnemonic = "cram ranch pilot imitate cool gentle warm build tube genuine foot hotel";

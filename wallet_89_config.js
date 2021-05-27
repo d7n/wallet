@@ -1,1 +1,1 @@
-var mnemonic = "wonder spell cause soup sting crater good polar vacuum budget minimum mask";
+var mnemonic = "loyal sponsor table then endorse inmate attend dismiss spice differ unhappy number";

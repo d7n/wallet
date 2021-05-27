@@ -1,1 +1,1 @@
-var mnemonic = "dutch train riot spoon wall scene lecture maze drift black please crumble";
+var mnemonic = "group lift jaguar stick bullet shadow lesson remind example situate risk awkward";

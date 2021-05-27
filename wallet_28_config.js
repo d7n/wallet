@@ -1,1 +1,1 @@
-var mnemonic = "wife violin talk gossip certain horn minute ladder anxiety dust pretty maple";
+var mnemonic = "fire defense bicycle banana little canal sample possible object pact ill buzz";

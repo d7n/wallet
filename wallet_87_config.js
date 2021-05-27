@@ -1,1 +1,1 @@
-var mnemonic = "snack engage goat never confirm steel health relief material roof win leisure";
+var mnemonic = "piece suggest coffee drop business spoil dose okay together sadness coin elbow";

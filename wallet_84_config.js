@@ -1,1 +1,1 @@
-var mnemonic = "express input sad atom scene kit carry battle settle run name crisp";
+var mnemonic = "early prefer symptom music any rescue analyst disease any time cancel ugly";

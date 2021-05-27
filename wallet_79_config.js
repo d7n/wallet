@@ -1,1 +1,1 @@
-var mnemonic = "between armor weekend rubber fee predict memory success diary trend invest can";
+var mnemonic = "jewel same capable immense treat tree horn great retreat dutch access hammer";

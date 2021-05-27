@@ -1,1 +1,1 @@
-var mnemonic = "letter demise proud wash flee antique sunny nature lucky embrace jump supply";
+var mnemonic = "social taxi stumble piece bird advance emerge govern will repair charge until";

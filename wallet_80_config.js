@@ -1,1 +1,1 @@
-var mnemonic = "roast damp shop ring duck call primary crater sketch syrup sun report";
+var mnemonic = "loud retire envelope pave among squeeze decrease spirit motion language visual choose";

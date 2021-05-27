@@ -1,1 +1,1 @@
-var mnemonic = "release bean breeze school want provide there satoshi hunt general happy one";
+var mnemonic = "swing keen menu book biology spend drop large practice athlete you catch";

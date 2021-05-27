@@ -1,1 +1,1 @@
-var mnemonic = "rebuild ring vanish awful blood ecology purchase race metal finger layer pumpkin";
+var mnemonic = "typical rain uniform bless panic estate exhibit ride sell spray reopen cycle";

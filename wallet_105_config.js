@@ -1,1 +1,1 @@
-var mnemonic = "lunch another century jeans tonight happy math feature attract long lawsuit pencil";
+var mnemonic = "immune page gallery audit wool response weasel mimic gauge tattoo blade fine";

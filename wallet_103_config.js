@@ -1,1 +1,1 @@
-var mnemonic = "congress zone bottom pudding maid panic flame grant sick sun eagle rookie";
+var mnemonic = "borrow clutch symbol endorse avoid rotate pupil lounge piano resemble lab village";

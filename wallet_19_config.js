@@ -1,1 +1,1 @@
-var mnemonic = "supply label fossil blossom churn region miracle subway tunnel endorse access globe";
+var mnemonic = "glue furnace debris monitor acoustic feel brass exile mimic dune actor seven";

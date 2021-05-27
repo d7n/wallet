@@ -1,1 +1,1 @@
-var mnemonic = "noodle judge wedding pretty whisper machine neglect harbor fat wolf surge unique";
+var mnemonic = "style merge damp just bargain race electric hockey delay bamboo brother steak";

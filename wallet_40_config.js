@@ -1,1 +1,1 @@
-var mnemonic = "upset finger assault ball afraid museum elegant slow path torch bird mansion";
+var mnemonic = "exercise live drop enter fluid alcohol soap castle clip error speak mesh";

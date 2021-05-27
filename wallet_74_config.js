@@ -1,1 +1,1 @@
-var mnemonic = "art athlete plate word visual release castle section lunar chaos kangaroo moon";
+var mnemonic = "then rally predict hub demand matrix start deputy salute flavor conduct fold";

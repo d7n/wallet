@@ -1,1 +1,1 @@
-var mnemonic = "tunnel exclude range supreme wing crane steak cage aware actress limb owner";
+var mnemonic = "unfold child slice risk raven clock lucky mercy staff umbrella middle aisle";

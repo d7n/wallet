@@ -1,1 +1,1 @@
-var mnemonic = "concert bulk syrup basket disorder secret panic shell swallow write yellow better";
+var mnemonic = "sausage desk hedgehog drama fame wash catch rug suit theme liberty ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "length region drill analyst chest spell differ service bar genuine wrap forget";
+var mnemonic = "rare minor turtle possible wise bird often canal pulse drink ugly mad";

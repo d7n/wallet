@@ -1,1 +1,1 @@
-var mnemonic = "chunk hero expose pond rate off regular fringe mixture web female industry";
+var mnemonic = "hidden bridge upper gadget option must cool ivory travel sweet alarm dinner";

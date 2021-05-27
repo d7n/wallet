@@ -1,1 +1,1 @@
-var mnemonic = "tribe scissors gauge tuna cake winner wing proud glory mandate deal can";
+var mnemonic = "wrestle about differ sea zero fruit bean shop test forest skull wool";

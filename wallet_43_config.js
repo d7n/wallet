@@ -1,1 +1,1 @@
-var mnemonic = "retreat demand shop flat shy pudding glory force agree few enforce extend";
+var mnemonic = "already wonder trial august panther doll first junior tissue concert capable tonight";

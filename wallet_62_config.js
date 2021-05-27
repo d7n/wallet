@@ -1,1 +1,1 @@
-var mnemonic = "west hospital glance license liberty bunker round trash bargain vapor trash arctic";
+var mnemonic = "day refuse anchor dice deliver ancient exclude amused insane airport zebra side";

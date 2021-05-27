@@ -1,1 +1,1 @@
-var mnemonic = "relax coast broken genre divide actress response guitar friend screen ladder swamp";
+var mnemonic = "blanket portion trap race expand since heart renew core chronic bean vocal";

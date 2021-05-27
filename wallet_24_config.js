@@ -1,1 +1,1 @@
-var mnemonic = "toe toddler fatal spend own fatigue ramp grass initial congress coconut thing";
+var mnemonic = "mammal below arch brain ignore ocean divert exotic general waste speed senior";

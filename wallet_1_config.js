@@ -1,1 +1,1 @@
-var mnemonic = "other alter trade quantum speak vocal price rookie excess short own render";
+var mnemonic = "amazing candy palace mix wife awake famous uniform alien tuition snow picture";

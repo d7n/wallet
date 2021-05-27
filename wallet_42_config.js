@@ -1,1 +1,1 @@
-var mnemonic = "safe oak verify clarify tennis swim access smoke pole train slam dress";
+var mnemonic = "orphan alpha liberty clog between invest neither surround visual sudden bottom produce";

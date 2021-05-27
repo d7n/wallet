@@ -1,1 +1,1 @@
-var mnemonic = "scrap dirt case juice indicate kitchen agree face motion gate slow such";
+var mnemonic = "female veteran raccoon hunt soldier control essence ethics kangaroo gun spell settle";

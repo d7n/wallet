@@ -1,1 +1,1 @@
-var mnemonic = "off great real expect eager burst define hill tomato transfer pretty stereo";
+var mnemonic = "wing insane sock learn question grit legend manage leader kid fox palace";

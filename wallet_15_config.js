@@ -1,1 +1,1 @@
-var mnemonic = "scare once chalk wave ask buyer robust length fine illness ramp account";
+var mnemonic = "monster tired sad toe disorder boat ski power silver onion orient top";

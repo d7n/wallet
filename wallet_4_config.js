@@ -1,1 +1,1 @@
-var mnemonic = "mandate clinic exhaust defense monster find appear rebel miss cargo parent lunar";
+var mnemonic = "embrace thought trick claim result private oyster gospel maple mix profit economy";

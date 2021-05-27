@@ -1,1 +1,1 @@
-var mnemonic = "fashion cushion capital inhale robot speak region myth salon minor primary quarter";
+var mnemonic = "pull employ skill ostrich arch occur ride siege wedding this truly wing";

@@ -1,1 +1,1 @@
-var mnemonic = "teach range discover decorate father fix turtle minute furnace fish hard fly";
+var mnemonic = "huge atom flash alien wheat muscle endorse cherry unfair holiday load smart";

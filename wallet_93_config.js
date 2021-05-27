@@ -1,1 +1,1 @@
-var mnemonic = "tube quality renew twenty proof unknown already exit blame history decide brush";
+var mnemonic = "spray car artwork electric sheriff retire hair limit order purpose pole reopen";

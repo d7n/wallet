@@ -1,1 +1,1 @@
-var mnemonic = "copper laugh keep usage mimic lunar infant stage shoe cabin ordinary room";
+var mnemonic = "rapid ocean curve kiwi spider era seek tree neutral road material poem";

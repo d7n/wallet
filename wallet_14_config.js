@@ -1,1 +1,1 @@
-var mnemonic = "price poet cigar sadness caught rhythm reward very price become glue drift";
+var mnemonic = "index innocent grab shoe castle bid ill fancy famous fuel extra young";

@@ -1,1 +1,1 @@
-var mnemonic = "method subject alcohol film sadness coffee position solve virus champion neck call";
+var mnemonic = "umbrella oval crack drink fantasy also penalty purchase river dry metal reform";

@@ -1,1 +1,1 @@
-var mnemonic = "trend gentle hip hole palace risk cluster section surprise obscure paddle hurry";
+var mnemonic = "twelve access core wheel hotel truck torch inquiry vanish bullet oblige paper";

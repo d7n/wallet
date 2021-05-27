@@ -1,1 +1,1 @@
-var mnemonic = "parade utility combine fire symbol uncover stage favorite waste vacant bubble crew";
+var mnemonic = "derive thought gym pulp soda wing disagree promote basket route tissue crunch";

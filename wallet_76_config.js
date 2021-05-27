@@ -1,1 +1,1 @@
-var mnemonic = "athlete reduce dignity fiber talent display venue equip vintage mobile lucky hand";
+var mnemonic = "neck service deliver lazy error aware fragile salmon broom repair plug buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "beef clog mobile hawk soft dawn judge estate senior body sand canvas";
+var mnemonic = "beyond rack reflect prevent else release tribe drama team crane amused trip";

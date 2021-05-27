@@ -1,1 +1,1 @@
-var mnemonic = "icon morning immense market cherry design pony able harsh solution amateur boring";
+var mnemonic = "camera make raw security believe balcony shoot gossip force distance civil inner";

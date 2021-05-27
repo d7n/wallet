@@ -1,1 +1,1 @@
-var mnemonic = "blame resist pilot assist grain manual hold change lunch glove neglect dish";
+var mnemonic = "mandate margin sugar seven client airport lobster bleak speak market hybrid pioneer";

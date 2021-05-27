@@ -1,1 +1,1 @@
-var mnemonic = "mosquito firm hire myself soon athlete never grass myth advice flash silent";
+var mnemonic = "visa since since mad mind valve arch garden fury security merit planet";

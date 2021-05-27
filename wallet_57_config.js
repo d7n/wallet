@@ -1,1 +1,1 @@
-var mnemonic = "apple quantum matter dose uphold fame good sock sheriff helmet gain regular";
+var mnemonic = "only flock popular drop narrow laptop author hole glad payment rough firm";

@@ -1,1 +1,1 @@
-var mnemonic = "north art dad only almost cart select accident width jazz rigid family";
+var mnemonic = "loop original egg genius edit bomb robust club spring vendor sleep gown";

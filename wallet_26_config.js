@@ -1,1 +1,1 @@
-var mnemonic = "ginger pill acoustic anger crisp mouse castle question evoke unveil scout rib";
+var mnemonic = "typical dumb rapid relax fever throw theme excuse another option trigger blouse";

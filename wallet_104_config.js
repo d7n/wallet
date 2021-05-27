@@ -1,1 +1,1 @@
-var mnemonic = "deal auto crash dentist mass hand novel educate junior saddle enjoy tray";
+var mnemonic = "repair vendor weird forum slab ahead pear barely donor rich snack ladder";

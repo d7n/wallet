@@ -1,1 +1,1 @@
-var mnemonic = "pig october ski immune loud patch above price gaze force dove buddy";
+var mnemonic = "garbage way fluid comic disagree hat caution dial flip trap intact park";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion skull ship man today permit tray acquire faith senior fiction moral";
+var mnemonic = "inject apology off race rebel upon fatal rough expand special glimpse muscle";

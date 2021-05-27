@@ -1,1 +1,1 @@
-var mnemonic = "element knee vessel tobacco aisle fault task cube jewel sell tornado mountain";
+var mnemonic = "loop vehicle brief stable social list engine later tennis claw cotton salmon";

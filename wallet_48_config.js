@@ -1,1 +1,1 @@
-var mnemonic = "spawn print annual essence raccoon tumble rack bamboo junk surge system fiscal";
+var mnemonic = "twist blush pledge entire coffee use cricket coyote regular dove train ivory";

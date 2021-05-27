@@ -1,1 +1,1 @@
-var mnemonic = "furnace duty other goose divorce proud busy slice actress defense scrap large";
+var mnemonic = "between sport action invite shrimp useful tank slow whisper hybrid surge almost";

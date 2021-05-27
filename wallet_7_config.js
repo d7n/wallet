@@ -1,1 +1,1 @@
-var mnemonic = "letter save hello appear arrive art pond spray affair edge depart spoil";
+var mnemonic = "lunar toy youth rather boat insect title hotel cigar knife cloth extend";

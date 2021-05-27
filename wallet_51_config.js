@@ -1,1 +1,1 @@
-var mnemonic = "toilet trouble basic antenna goose gown myth crystal output iron online champion";
+var mnemonic = "sweet horse inch census punch gain piece fee able deliver warm grass";

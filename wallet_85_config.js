@@ -1,1 +1,1 @@
-var mnemonic = "strategy smooth actual embrace flavor notice vault forget sail legend ocean dish";
+var mnemonic = "teach mule police evidence tomato filter curious myself donkey coral impact remind";

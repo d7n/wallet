@@ -1,1 +1,1 @@
-var mnemonic = "owner result artefact mesh height left dirt route hammer lemon sadness grocery";
+var mnemonic = "slot van depth axis resist invest voice dirt foster permit there hover";

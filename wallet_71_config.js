@@ -1,1 +1,1 @@
-var mnemonic = "accuse tube slender journey promote slow blame spy weapon siege prison orchard";
+var mnemonic = "kit myth air lend tenant soul life response skill unfair erosion fame";

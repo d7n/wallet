@@ -1,1 +1,1 @@
-var mnemonic = "genuine crawl moment cross west shove pyramid reward immense have auto install";
+var mnemonic = "crime say fashion rate salad prevent simple oxygen spirit boss twenty slight";

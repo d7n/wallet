@@ -1,1 +1,1 @@
-var mnemonic = "guitar success remind art swim initial broken reject fine piano attract mimic";
+var mnemonic = "abuse type prepare trim poverty salt moral library frog nurse calm orange";

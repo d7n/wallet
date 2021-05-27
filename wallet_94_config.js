@@ -1,1 +1,1 @@
-var mnemonic = "beauty orange salmon asthma consider stand occur airport stereo double pistol goddess";
+var mnemonic = "bench thumb lyrics note pear trigger caution unveil grace amount all dry";

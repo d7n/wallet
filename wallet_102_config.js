@@ -1,1 +1,1 @@
-var mnemonic = "situate regret elite base mad despair frost bone churn text relief pupil";
+var mnemonic = "avocado ask swing knee icon flag empower nurse category expire canvas unfair";

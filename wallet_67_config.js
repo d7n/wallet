@@ -1,1 +1,1 @@
-var mnemonic = "fragile total carpet kangaroo awful tumble critic squeeze ignore typical donor color";
+var mnemonic = "charge work habit short midnight volume oppose layer crash shaft unit giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "average settle private pen primary energy device snap parade over aware purchase";
+var mnemonic = "actress fire transfer breeze execute weird just execute tissue alcohol vanish battle";

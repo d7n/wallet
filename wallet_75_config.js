@@ -1,1 +1,1 @@
-var mnemonic = "denial bridge sick pool maximum resist track crane simple dilemma version unable";
+var mnemonic = "parent elephant guitar discover enlist ice canoe middle margin proud stage century";

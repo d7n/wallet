@@ -1,1 +1,1 @@
-var mnemonic = "swallow dove script october typical bronze lava vote approve airport cancel female";
+var mnemonic = "silk depth come tip safe slim grit output egg filter margin evil";

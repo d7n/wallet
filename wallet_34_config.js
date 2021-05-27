@@ -1,1 +1,1 @@
-var mnemonic = "bottom grit tackle bag alert library deposit prison pact strategy clay upgrade";
+var mnemonic = "lottery popular total clean save opinion dog this animal picnic suffer want";

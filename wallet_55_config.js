@@ -1,1 +1,1 @@
-var mnemonic = "husband misery there opera taste stamp chapter love attack company excuse appear";
+var mnemonic = "today state sand dwarf below panther weekend verb soap consider area middle";

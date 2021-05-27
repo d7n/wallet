@@ -1,1 +1,1 @@
-var mnemonic = "ripple odor sea mammal lobster dune true champion zone dinosaur guard frog";
+var mnemonic = "ready crew knife nuclear cinnamon rude caution like phone enable coffee dash";

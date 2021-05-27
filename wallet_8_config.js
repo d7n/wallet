@@ -1,1 +1,1 @@
-var mnemonic = "owner gasp planet shrug verify lounge spread produce tank type oppose check";
+var mnemonic = "behind vendor provide jazz addict desert lamp afford drama multiply stand promote";

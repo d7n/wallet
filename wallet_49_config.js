@@ -1,1 +1,1 @@
-var mnemonic = "attract maximum orient profit slush west affair hen analyst any margin apology";
+var mnemonic = "input music frown spray flee clever include refuse fire thunder embark swift";

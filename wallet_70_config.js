@@ -1,1 +1,1 @@
-var mnemonic = "tide urge mobile company never april consider arch romance program dentist pupil";
+var mnemonic = "once sibling weird chef never gown bridge mountain render grass transfer news";

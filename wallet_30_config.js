@@ -1,1 +1,1 @@
-var mnemonic = "blind type auto blade nerve time company pledge orbit anger this faint";
+var mnemonic = "inner path inject table live idea sight soap motion poverty casino marine";
