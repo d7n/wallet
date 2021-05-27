@@ -1,1 +1,1 @@
-var mnemonic = "silent exchange cupboard evolve board find twice clock broom fever adult ticket";
+var mnemonic = "again ranch hospital firm argue you gaze paddle curve tomorrow spoil jewel";

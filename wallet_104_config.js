@@ -1,1 +1,1 @@
-var mnemonic = "movie soul void loud tower bounce alley chapter impose off nut sight";
+var mnemonic = "seven door nuclear endless reveal fossil clump bag model repair carbon slush";

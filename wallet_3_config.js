@@ -1,1 +1,1 @@
-var mnemonic = "retreat abuse dose ring neutral tool purity adapt angle flag horse stamp";
+var mnemonic = "drama ice still jewel kite veteran guitar junior area double slice knock";

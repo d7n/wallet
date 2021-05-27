@@ -1,1 +1,1 @@
-var mnemonic = "venue shoot heavy trend reform three mom lucky output shaft gown employ";
+var mnemonic = "parade angry tiger pipe parent quote boss truly sing rail brisk yard";

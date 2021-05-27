@@ -1,1 +1,1 @@
-var mnemonic = "sad bench mammal foot stand illness beauty bottom oil language found young";
+var mnemonic = "grass drive offer stuff coil yellow sure kid describe clean family grace";

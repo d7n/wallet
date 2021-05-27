@@ -1,1 +1,1 @@
-var mnemonic = "suit elder pudding fly obey throw pear industry dose congress crazy sudden";
+var mnemonic = "coil high taste holiday valley tragic inmate oil demand proof wagon place";

@@ -1,1 +1,1 @@
-var mnemonic = "film stairs need frost chef define zebra disagree buffalo purity dinosaur injury";
+var mnemonic = "water flag sunny antenna cabbage drill dial famous credit reform section chef";

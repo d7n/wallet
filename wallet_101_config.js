@@ -1,1 +1,1 @@
-var mnemonic = "simple ankle crawl vague believe minor ivory fence ridge ask nothing breeze";
+var mnemonic = "receive vacant census shoe afford cushion target patrol situate pilot dinner delay";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty purity kitchen sting fashion they stand recall element basket ride carpet";
+var mnemonic = "pen dress vacuum asset neck move sense cigar talk observe evoke turn";

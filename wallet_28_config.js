@@ -1,1 +1,1 @@
-var mnemonic = "round tennis invite spin crowd jaguar often surface impact minute unable sweet";
+var mnemonic = "length zebra dentist crush today various planet tattoo brown milk sunset cup";

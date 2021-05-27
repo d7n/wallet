@@ -1,1 +1,1 @@
-var mnemonic = "keen crawl resemble public isolate power chimney adapt caution eagle pledge tornado";
+var mnemonic = "smoke team quit various pear celery ride input engage average nasty crane";

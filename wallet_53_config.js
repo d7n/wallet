@@ -1,1 +1,1 @@
-var mnemonic = "check volume reflect author employ tilt crash unaware boy jewel baby give";
+var mnemonic = "dutch truck figure resemble trial oxygen park always trick submit sorry mosquito";

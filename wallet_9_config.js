@@ -1,1 +1,1 @@
-var mnemonic = "cause collect visa practice auto state grocery select surface flip write solution";
+var mnemonic = "tag pluck lady mad scare vehicle crew refuse alien gasp trust jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "powder math trial into solution gather make wisdom journey direct share donor";
+var mnemonic = "super bubble okay giraffe between property ensure purpose pretty myth asthma replace";

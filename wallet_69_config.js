@@ -1,1 +1,1 @@
-var mnemonic = "delay enrich increase stuff prison aspect drop until left bone pole captain";
+var mnemonic = "palm wolf museum rain milk rocket web wife lawn thank segment lobster";

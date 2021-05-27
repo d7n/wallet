@@ -1,1 +1,1 @@
-var mnemonic = "iron violin pulse inquiry gun whale train giraffe bone visit banner rug";
+var mnemonic = "current inflict doctor seed harvest crystal hockey wait script circle warm lawsuit";

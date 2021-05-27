@@ -1,1 +1,1 @@
-var mnemonic = "pigeon direct donor swamp sense rapid home just umbrella crew illness bike";
+var mnemonic = "fly energy admit book public design castle sister rare danger knock exit";

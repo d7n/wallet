@@ -1,1 +1,1 @@
-var mnemonic = "dynamic evoke uncle dolphin tourist merry squirrel apart update service door obey";
+var mnemonic = "motion lab couple relief kind benefit kangaroo legend guide more defy together";

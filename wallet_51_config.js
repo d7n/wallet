@@ -1,1 +1,1 @@
-var mnemonic = "travel door allow lens muscle hard couch someone inspire buzz impulse camera";
+var mnemonic = "leader minimum method divide vivid spoon taxi noise economy barely vacuum tail";

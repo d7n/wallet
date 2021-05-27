@@ -1,1 +1,1 @@
-var mnemonic = "obey ghost ask indicate kiwi alpha senior vibrant way bargain entry dumb";
+var mnemonic = "audit setup design embark october witness exhibit route hockey edit domain heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "gap boat pizza raccoon make soap lock tackle quick process tiger clock";
+var mnemonic = "siren certain above couch husband chalk kitchen vast same shuffle shoulder federal";

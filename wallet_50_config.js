@@ -1,1 +1,1 @@
-var mnemonic = "spray material notable mansion maple portion expose fish patient enjoy bean relax";
+var mnemonic = "spy jewel vital distance nothing wrap matrix medal razor life sand chunk";

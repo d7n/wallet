@@ -1,1 +1,1 @@
-var mnemonic = "small craft volume scrap pilot aim believe fish ramp spot pistol suffer";
+var mnemonic = "chuckle kingdom fiction slab inherit rival prevent element enough slide neutral sort";

@@ -1,1 +1,1 @@
-var mnemonic = "thank size speed open maple amount coach vehicle liberty wreck oyster sphere";
+var mnemonic = "caught very relax farm note forward stamp leave gallery gold home snow";

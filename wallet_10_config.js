@@ -1,1 +1,1 @@
-var mnemonic = "derive myself stomach cruise train awesome caught common update depend panther bean";
+var mnemonic = "crystal beyond casino exercise detect minute wolf actress say zero maze screen";

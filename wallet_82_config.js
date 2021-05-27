@@ -1,1 +1,1 @@
-var mnemonic = "resource stay language cube busy stereo matter mountain try draft error delay";
+var mnemonic = "trumpet mass soul pudding attend february analyst mean lesson stem dawn alcohol";

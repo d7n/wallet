@@ -1,1 +1,1 @@
-var mnemonic = "roast mention tower just pride height useful wonder absent explain shop various";
+var mnemonic = "add swamp oppose shaft proud turtle shiver this cheese drill flight glory";

@@ -1,1 +1,1 @@
-var mnemonic = "gas false upon shoulder exclude media olympic camp say shrimp decline canyon";
+var mnemonic = "student shell adult female make poet teach angle sad snake flavor stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "use wonder exhibit surround toddler giant speed hospital doll whip story seven";
+var mnemonic = "client pigeon tumble receive pull nation organ ancient hurt actor humor snow";

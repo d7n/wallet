@@ -1,1 +1,1 @@
-var mnemonic = "river collect wide tool cabbage leader best seven dad enroll two rural";
+var mnemonic = "rent various exotic minimum tongue exhaust lawn ketchup okay short jealous blood";

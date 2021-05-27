@@ -1,1 +1,1 @@
-var mnemonic = "toe room usual intact erupt version awesome sting shy void wire merry";
+var mnemonic = "spoil face inmate admit uncle flag sick daring flush icon path seed";

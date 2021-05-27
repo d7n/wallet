@@ -1,1 +1,1 @@
-var mnemonic = "able pony zoo bonus also thought eagle verb tattoo roof track lunar";
+var mnemonic = "stool orange mixture dutch swear ancient sell egg brick skin lazy lizard";

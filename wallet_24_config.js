@@ -1,1 +1,1 @@
-var mnemonic = "wealth note tourist task notable banner honey engine nephew orient trash almost";
+var mnemonic = "rain wish filter coffee hidden egg comic wine please wrap slush cup";

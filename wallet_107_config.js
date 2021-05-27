@@ -1,1 +1,1 @@
-var mnemonic = "corn pelican sauce abuse space galaxy humble wing act bonus absurd bulk";
+var mnemonic = "fire inform rabbit question cheese hat surprise hub bar dentist dizzy bottom";

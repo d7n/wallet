@@ -1,1 +1,1 @@
-var mnemonic = "hunt tuition audit gun hurry cinnamon word liquid rude move pride index";
+var mnemonic = "oil extend cliff flavor mountain edit steel alarm sock device menu puppy";

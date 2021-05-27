@@ -1,1 +1,1 @@
-var mnemonic = "next west tunnel old fury jump taste pipe decrease valid stuff raw";
+var mnemonic = "client wild wire balcony tomorrow flight foam visit insect deputy help odor";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum worry huge indoor between child rocket marine attitude pipe shoulder scrap";
+var mnemonic = "learn donor skate stereo step leisure wait wait answer elephant artefact gloom";

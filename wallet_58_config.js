@@ -1,1 +1,1 @@
-var mnemonic = "all glove harbor canyon impulse gauge program blame ladder poverty bike drill";
+var mnemonic = "sun net carpet time eight giggle minute catalog foam grid artwork discover";

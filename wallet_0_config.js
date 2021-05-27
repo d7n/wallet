@@ -1,1 +1,1 @@
-var mnemonic = "rack tomorrow melody across industry depth off hunt swift erode replace reveal";
+var mnemonic = "fragile boring guess layer amazing tomorrow exclude recall note spend brief arrest";

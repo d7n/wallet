@@ -1,1 +1,1 @@
-var mnemonic = "arm obvious narrow flame attract all canyon engage climb slim bring hat";
+var mnemonic = "range sight clutch hood divert diesel zero leaf network predict sand slender";

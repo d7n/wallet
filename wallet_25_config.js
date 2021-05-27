@@ -1,1 +1,1 @@
-var mnemonic = "disorder remain wave abandon talent blood grant husband minimum reject unable visa";
+var mnemonic = "lucky topic nut fame steel can object local piece orphan pact simple";

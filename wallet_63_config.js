@@ -1,1 +1,1 @@
-var mnemonic = "wave asset survey dynamic deputy zero orchard approve midnight cigar mixed admit";
+var mnemonic = "mystery addict crew bind plunge siren vocal material catalog interest guilt inch";

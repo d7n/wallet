@@ -1,1 +1,1 @@
-var mnemonic = "shove clog topic never mean ocean review grain rule gain sword top";
+var mnemonic = "cable glide pig nation solid expose rule old scatter pipe scan bulb";

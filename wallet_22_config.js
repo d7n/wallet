@@ -1,1 +1,1 @@
-var mnemonic = "rookie estate swallow spring goat moral switch gadget fly bicycle demise fog";
+var mnemonic = "jacket unaware typical random source bronze farm twenty define illness debate vacuum";

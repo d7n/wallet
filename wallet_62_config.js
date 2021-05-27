@@ -1,1 +1,1 @@
-var mnemonic = "film unique elite cheese just model endless slide friend differ rib solve";
+var mnemonic = "age movie tomato scatter number prefer style fury usage ticket deposit window";

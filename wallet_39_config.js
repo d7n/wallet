@@ -1,1 +1,1 @@
-var mnemonic = "cushion wet equal manual permit shaft absurd spike enough fire turtle demise";
+var mnemonic = "ordinary ankle cactus attract gasp dragon clever category bunker oven immune ivory";

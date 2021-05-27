@@ -1,1 +1,1 @@
-var mnemonic = "helmet vacuum sting piano check hard hawk cruise december hint able useless";
+var mnemonic = "position romance bullet mixed lazy velvet soccer flat state battle bamboo satisfy";

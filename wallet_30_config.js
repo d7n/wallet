@@ -1,1 +1,1 @@
-var mnemonic = "knock bright rookie crash tuition view enforce tiger flush amount glide nice";
+var mnemonic = "chuckle milk history tower normal number soon wing toe puppy boat van";

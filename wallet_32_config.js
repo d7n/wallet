@@ -1,1 +1,1 @@
-var mnemonic = "black soda general buffalo other minor tower shell engine sugar offer grant";
+var mnemonic = "frown since frost obscure rebuild lava sugar badge crazy cheese hedgehog stairs";

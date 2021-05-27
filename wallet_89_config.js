@@ -1,1 +1,1 @@
-var mnemonic = "error dry zoo sort olympic want vital canyon oyster flag carpet useless";
+var mnemonic = "calm diamond tape between tilt fee able rail waste lawn track match";

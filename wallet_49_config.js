@@ -1,1 +1,1 @@
-var mnemonic = "shed duck toilet leg famous want render guard finish fish among jacket";
+var mnemonic = "spider used decide impulse region protect plug maid talk build goat hazard";

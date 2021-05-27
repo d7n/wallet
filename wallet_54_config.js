@@ -1,1 +1,1 @@
-var mnemonic = "sign camera exclude possible critic sniff march shuffle suggest pottery base lift";
+var mnemonic = "gas skirt dwarf copper impact olympic child pretty hold loan cake flock";

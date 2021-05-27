@@ -1,1 +1,1 @@
-var mnemonic = "web spend neutral tube topple punch rug depart butter fault ocean certain";
+var mnemonic = "inherit struggle armed write love admit birth energy vote solution believe history";

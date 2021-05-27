@@ -1,1 +1,1 @@
-var mnemonic = "marine time core wish auction toy super mom cigar delay village car";
+var mnemonic = "sniff hope mushroom collect pair master track labor nothing hidden isolate during";

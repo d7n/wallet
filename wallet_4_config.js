@@ -1,1 +1,1 @@
-var mnemonic = "laptop lecture merit amused verb tourist share rubber forward spare organ open";
+var mnemonic = "tape post shine pear surge possible salon stumble uncover rookie leisure outer";

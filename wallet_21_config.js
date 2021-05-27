@@ -1,1 +1,1 @@
-var mnemonic = "void month total thrive bottom kangaroo account tattoo release bless dismiss clay";
+var mnemonic = "enemy inner shoulder vendor layer grow shoulder tennis child calm custom reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "join amazing sheriff usual pioneer carbon sentence ketchup sadness message empower sort";
+var mnemonic = "split order pattern easy hint victory one expect gallery crawl opera kick";

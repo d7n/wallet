@@ -1,1 +1,1 @@
-var mnemonic = "bring today mansion garbage seminar arrest strong kite cram spread small agent";
+var mnemonic = "tomorrow toilet side slogan stereo eagle load relax debate satisfy hair pet";

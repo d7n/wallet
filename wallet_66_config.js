@@ -1,1 +1,1 @@
-var mnemonic = "prosper paper donor length lock room media shuffle kind guitar juice manage";
+var mnemonic = "door arrive plunge stuff typical nest title brisk winter honey drift casual";

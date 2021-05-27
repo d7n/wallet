@@ -1,1 +1,1 @@
-var mnemonic = "age hidden soldier dignity catalog abandon gauge few bulk guide clarify dust";
+var mnemonic = "same push assist girl ready carpet two parent gospel oak drink inside";

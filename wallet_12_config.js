@@ -1,1 +1,1 @@
-var mnemonic = "adult pilot patient vast van upper foster gorilla scale used ugly teach";
+var mnemonic = "usual moment suffer bitter cart spatial abstract silver swarm keen prefer hire";

@@ -1,1 +1,1 @@
-var mnemonic = "steel license hunt answer prosper find monitor cousin social artist wisdom gasp";
+var mnemonic = "saddle humor shallow brick gain priority return where together absorb federal stairs";

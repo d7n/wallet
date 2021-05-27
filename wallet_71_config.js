@@ -1,1 +1,1 @@
-var mnemonic = "neck goat horn edit aim kangaroo afford canyon local winter exclude skull";
+var mnemonic = "primary same expand august pitch legend gold firm gentle calm crush reform";

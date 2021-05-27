@@ -1,1 +1,1 @@
-var mnemonic = "version later arrive labor demand inflict wealth wage equip embrace hollow endorse";
+var mnemonic = "stay moon region squirrel clock manual vivid pilot cup three drop enjoy";

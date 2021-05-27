@@ -1,1 +1,1 @@
-var mnemonic = "acoustic hole fly hazard nothing enact pumpkin laundry pave bunker cash horn";
+var mnemonic = "stereo swear entire symbol remain accident usual unveil disease waste pact foster";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage boring kingdom animal design payment best friend vapor brass mixture mango";
+var mnemonic = "reopen shed warrior pact live unfair enrich position relax mother soccer estate";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus sting account medal civil fan solution butter fancy alley drip denial";
+var mnemonic = "person half mushroom bottom clap other warrior zone surge orient humble duty";

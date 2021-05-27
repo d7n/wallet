@@ -1,1 +1,1 @@
-var mnemonic = "issue recipe law script expect dance evolve flush stand region debate glad";
+var mnemonic = "leader health wink cave museum fat castle recipe dolphin box voice nuclear";

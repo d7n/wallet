@@ -1,1 +1,1 @@
-var mnemonic = "wrist quantum nothing fiction slogan happy finger unveil dilemma supply fee birth";
+var mnemonic = "kangaroo oven social sponsor replace barely goat fancy vapor oil slow you";

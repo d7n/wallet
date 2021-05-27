@@ -1,1 +1,1 @@
-var mnemonic = "oppose private father random consider genuine knife message bone future gloom phone";
+var mnemonic = "maid ordinary flash radar story raven spy limit jewel detect opinion network";

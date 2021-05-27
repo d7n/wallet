@@ -1,1 +1,1 @@
-var mnemonic = "parade amateur joy found glue service book ranch defense wedding impact elevator";
+var mnemonic = "recipe giggle pattern draw bullet mixture exhibit lava jaguar fiscal relax wool";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas supreme silly gaze legend win demise scorpion economy feature symbol magnet";
+var mnemonic = "steel during lucky hire exhaust message install early peanut desert couple shrimp";

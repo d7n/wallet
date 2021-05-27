@@ -1,1 +1,1 @@
-var mnemonic = "energy keep breeze planet often baby culture section garage snow smoke episode";
+var mnemonic = "addict crater stool online admit clarify spice into garlic metal sound boring";

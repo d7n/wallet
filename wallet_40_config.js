@@ -1,1 +1,1 @@
-var mnemonic = "help outer device syrup pretty practice civil hazard shed gap vanish satoshi";
+var mnemonic = "kite pride easily pioneer must theory bitter rebuild never inmate luxury hammer";

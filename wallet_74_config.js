@@ -1,1 +1,1 @@
-var mnemonic = "quarter grape climb dirt spy absurd payment spell memory pride catch alpha";
+var mnemonic = "warrior aim fringe exercise agent memory wedding smart proud remain skate deputy";

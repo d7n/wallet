@@ -1,1 +1,1 @@
-var mnemonic = "oil love grow shell bone property please real crater story level manage";
+var mnemonic = "faint seek unfair slim detail give home cabbage napkin author pear grit";

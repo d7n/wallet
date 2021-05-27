@@ -1,1 +1,1 @@
-var mnemonic = "hidden auto water solar curtain brand robust dust toe fruit isolate zebra";
+var mnemonic = "fee they security receive maid fork wing ship other lift fit copy";

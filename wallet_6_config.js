@@ -1,1 +1,1 @@
-var mnemonic = "hotel foot law orange two flock conduct will card ketchup local pause";
+var mnemonic = "bag lamp kit voyage drive gaze palace solid much shy evolve humor";

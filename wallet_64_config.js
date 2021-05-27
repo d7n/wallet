@@ -1,1 +1,1 @@
-var mnemonic = "february bargain similar old razor day liar cement zero design rifle target";
+var mnemonic = "ship bundle patient lazy recycle include fetch announce fox veteran sunset relax";

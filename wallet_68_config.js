@@ -1,1 +1,1 @@
-var mnemonic = "face angry reward alien lecture olive spray wedding learn ensure color analyst";
+var mnemonic = "liberty farm staff onion twelve bread sudden hobby wolf august scale eager";

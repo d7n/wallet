@@ -1,1 +1,1 @@
-var mnemonic = "rifle planet champion movie sausage island garlic carry shove vivid sugar hen";
+var mnemonic = "jar six parent liquid flush replace milk upper spy box allow case";

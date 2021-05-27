@@ -1,1 +1,1 @@
-var mnemonic = "course advance bullet direct observe riot apart saddle dad skin banana reflect";
+var mnemonic = "noise mandate sheriff corn punch quote coil broccoli capital novel rifle earth";

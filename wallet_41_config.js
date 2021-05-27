@@ -1,1 +1,1 @@
-var mnemonic = "blade marriage tornado mix very trouble tip tumble shock pyramid bargain volume";
+var mnemonic = "net spirit antenna club quantum history album ensure punch leave mean pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "adult cart garlic exact lecture place fit express disorder sister spell pride";
+var mnemonic = "orchard concert veteran december sight elegant cover success cousin differ yard that";

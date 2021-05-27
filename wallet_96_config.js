@@ -1,1 +1,1 @@
-var mnemonic = "garlic canyon ranch inhale oval utility cargo try butter client trend napkin";
+var mnemonic = "empty autumn rack unaware cart tiger water comfort spare solution submit enjoy";

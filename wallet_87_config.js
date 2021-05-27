@@ -1,1 +1,1 @@
-var mnemonic = "wealth random funny recipe laundry oven cousin apart inflict peasant van put";
+var mnemonic = "thank praise film airport inner wish sketch swamp author buzz travel myth";

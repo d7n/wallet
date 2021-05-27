@@ -1,1 +1,1 @@
-var mnemonic = "small joy hospital sell elegant bargain clean axis waste opinion trouble cheese";
+var mnemonic = "asset catch drastic match also danger solution aim own path apple render";

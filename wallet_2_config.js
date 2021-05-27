@@ -1,1 +1,1 @@
-var mnemonic = "amateur welcome remove lemon end lady frown detail disagree cook category beef";
+var mnemonic = "artwork damage moral code mom hedgehog crew error special rib dragon sign";

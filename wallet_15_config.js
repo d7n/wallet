@@ -1,1 +1,1 @@
-var mnemonic = "glory lucky sponsor kite wrestle air dog price shop ceiling shove umbrella";
+var mnemonic = "skull business belt disease angry pause duty limit file onion jelly nurse";

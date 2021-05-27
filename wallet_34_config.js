@@ -1,1 +1,1 @@
-var mnemonic = "lend typical heavy piece label trumpet icon humor stamp silk second diesel";
+var mnemonic = "forget great fame first object session debate feed enemy couple dynamic bounce";

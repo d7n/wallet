@@ -1,1 +1,1 @@
-var mnemonic = "dynamic vacant loyal security battle spare universe glass usual fit ceiling shop";
+var mnemonic = "rifle unaware spatial ranch hint lottery shuffle curtain erode kid orchard cross";
