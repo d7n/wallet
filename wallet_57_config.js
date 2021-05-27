@@ -1,1 +1,1 @@
-var mnemonic = "myself any column napkin surface unusual grocery feel agent search upset tip";
+var mnemonic = "hockey drink scatter upper exact twenty suffer poet pipe phrase spell slab";

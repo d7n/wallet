@@ -1,1 +1,1 @@
-var mnemonic = "dash napkin news abuse ticket tank special fossil much slender saddle pulp";
+var mnemonic = "remind zone inner crawl same dinner maze shuffle mask office limit clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "alert boil ripple roof gadget rebuild industry letter electric second detail grab";
+var mnemonic = "suit build join tooth more disease that duty pepper sauce agree galaxy";

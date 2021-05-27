@@ -1,1 +1,1 @@
-var mnemonic = "soon alpha veteran taste genre donkey citizen eye unusual garment aware enough";
+var mnemonic = "coach razor medal crane praise sweet ramp choose can page apology finger";

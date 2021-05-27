@@ -1,1 +1,1 @@
-var mnemonic = "casual sketch again when bean champion lion junior live style outside wife";
+var mnemonic = "state purity junk trigger tag okay sudden chat motion style breeze gun";

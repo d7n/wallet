@@ -1,1 +1,1 @@
-var mnemonic = "invite audit stadium erase slender honey accident combine paper only outdoor cook";
+var mnemonic = "sister dentist cannon pass grace oil foil keep cheese dog patient rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "movie happy enter harvest language wreck echo mind lemon dirt warm owner";
+var mnemonic = "clap cabin exclude define swim tree fly sting game orchard cat addict";

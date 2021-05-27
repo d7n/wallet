@@ -1,1 +1,1 @@
-var mnemonic = "resource defy wide web logic rate random scatter mother typical live angry";
+var mnemonic = "cave surround change relax faith clap original door void toast ball glimpse";

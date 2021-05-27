@@ -1,1 +1,1 @@
-var mnemonic = "vendor best upset hamster digital acid ripple pink risk when ignore valve";
+var mnemonic = "zero stay office sweet way hard april trip film tank region rocket";

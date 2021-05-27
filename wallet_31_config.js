@@ -1,1 +1,1 @@
-var mnemonic = "cement success senior idle fuel devote hurdle labor chimney draw mirror client";
+var mnemonic = "life label olive spot dwarf utility blush funny bring winter cattle toe";

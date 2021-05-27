@@ -1,1 +1,1 @@
-var mnemonic = "kick trend people general dignity impact thank proof shock tiger sleep blue";
+var mnemonic = "barely puppy page consider embody repeat minor fatal cheap judge chunk impact";

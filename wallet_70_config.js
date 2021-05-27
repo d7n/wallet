@@ -1,1 +1,1 @@
-var mnemonic = "relax endless rebel need blood sheriff story material outdoor fever buddy aisle";
+var mnemonic = "dolphin announce injury maid rare resource harsh artwork heart radar citizen resource";

@@ -1,1 +1,1 @@
-var mnemonic = "renew stool brick festival match razor jewel mobile carpet below offer canoe";
+var mnemonic = "target oyster shallow myth spike february kitchen melody aspect stairs maze album";

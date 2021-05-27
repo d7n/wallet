@@ -1,1 +1,1 @@
-var mnemonic = "season crater uphold display sense recall damage ordinary reduce elder timber cycle";
+var mnemonic = "purchase rigid shallow climb dry utility steel oak slogan frown legend boat";

@@ -1,1 +1,1 @@
-var mnemonic = "problem trap arctic future stuff virtual fame fold digital material reflect voyage";
+var mnemonic = "weather link love estate slender nephew obtain grid episode riot credit talent";

@@ -1,1 +1,1 @@
-var mnemonic = "thing caution puzzle chief renew surprise couch despair kingdom peasant despair ritual";
+var mnemonic = "south forest tortoise bacon reflect suggest idle top bamboo rocket slogan income";

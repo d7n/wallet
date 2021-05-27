@@ -1,1 +1,1 @@
-var mnemonic = "bundle ready submit avoid destroy blame dolphin inch dinosaur zoo scare tunnel";
+var mnemonic = "humor cabbage express base industry umbrella solid allow note exotic depart display";

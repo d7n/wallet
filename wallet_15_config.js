@@ -1,1 +1,1 @@
-var mnemonic = "history involve toddler exist romance comic round icon afford stadium hunt suffer";
+var mnemonic = "dose power daughter remove dog health odor love edge cheap pass crack";

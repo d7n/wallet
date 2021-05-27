@@ -1,1 +1,1 @@
-var mnemonic = "orange novel dirt aspect actor hurt valve across onion bench income card";
+var mnemonic = "rate chunk number river ticket manual budget enjoy truth fashion banner crouch";

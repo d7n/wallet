@@ -1,1 +1,1 @@
-var mnemonic = "surprise draft expire detect report envelope tip degree resemble crop knife always";
+var mnemonic = "lend toilet flag ankle now opinion loan home crucial holiday reflect age";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble friend obey custom ginger city fold unlock guitar come either prefer";
+var mnemonic = "skirt fiber spirit letter annual suit fantasy someone bind all when cry";

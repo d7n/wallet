@@ -1,1 +1,1 @@
-var mnemonic = "planet cliff december link list book digital gorilla fly injury chicken spoil";
+var mnemonic = "weapon mercy farm tragic weird grape patient donor belt century adapt orbit";

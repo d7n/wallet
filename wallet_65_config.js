@@ -1,1 +1,1 @@
-var mnemonic = "cabin apple foil danger nerve very voice summer grass rebuild vacuum elbow";
+var mnemonic = "behave involve close else dial business dice fitness bleak physical exotic worry";

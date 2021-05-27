@@ -1,1 +1,1 @@
-var mnemonic = "betray pyramid damp miracle layer arrange erase immune husband also autumn rubber";
+var mnemonic = "print bicycle fan crawl abuse strategy enrich hill health gym lobster planet";

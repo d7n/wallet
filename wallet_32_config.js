@@ -1,1 +1,1 @@
-var mnemonic = "inquiry vacuum paper crucial patrol chicken mosquito enrich excuse maid rookie govern";
+var mnemonic = "draw fitness bike shine flower huge grace much face acoustic reason film";

@@ -1,1 +1,1 @@
-var mnemonic = "denial giggle garlic tired raven pole sing auction tell duty affair quarter";
+var mnemonic = "kiwi half series estate aerobic daring urge bottom earth seat empty anger";

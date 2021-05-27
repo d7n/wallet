@@ -1,1 +1,1 @@
-var mnemonic = "fresh ride clog inner punch latin chimney rubber defy cause weapon tobacco";
+var mnemonic = "half below sure flag satoshi foster hidden once kiwi weekend good amateur";

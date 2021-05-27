@@ -1,1 +1,1 @@
-var mnemonic = "trick equal bless desert summer egg human sense animal undo cave sadness";
+var mnemonic = "marine final switch useless bullet below creek scheme also shrimp install obey";

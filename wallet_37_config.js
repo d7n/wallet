@@ -1,1 +1,1 @@
-var mnemonic = "permit wagon ginger flame spawn mushroom client sponsor train melody lounge project";
+var mnemonic = "glide rookie actor original laundry frame fancy rib copy genre spray trial";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake spend number quarter taxi sadness pig lamp symptom drip paper flavor";
+var mnemonic = "lift main choose around funny street salon clown rocket increase certain chicken";

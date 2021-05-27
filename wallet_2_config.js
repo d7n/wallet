@@ -1,1 +1,1 @@
-var mnemonic = "extra raw sign upset giant carbon minor walk enough glad prevent reject";
+var mnemonic = "taste blade rescue border truly scorpion warrior roast program egg stone gallery";

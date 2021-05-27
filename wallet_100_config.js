@@ -1,1 +1,1 @@
-var mnemonic = "cannon usual super phrase tube fish fan smooth spray online drink stereo";
+var mnemonic = "coil vibrant degree burger achieve menu trip era journey drop mystery lawn";

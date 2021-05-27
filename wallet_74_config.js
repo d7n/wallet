@@ -1,1 +1,1 @@
-var mnemonic = "pond estate advance quit picnic owner grunt law link master dress glide";
+var mnemonic = "minute exhibit clever sign castle olive vacant view inject such fly salad";

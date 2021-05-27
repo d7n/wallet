@@ -1,1 +1,1 @@
-var mnemonic = "private tragic mango car casual theme close easily method wish bike since";
+var mnemonic = "angle exchange remind trip live rice slot pave oven pyramid border team";

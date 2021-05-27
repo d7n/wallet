@@ -1,1 +1,1 @@
-var mnemonic = "rocket strong heart sense model wealth begin anchor indoor bike scissors inmate";
+var mnemonic = "shiver depart cherry census arrest autumn kick lounge manage mind mango pet";

@@ -1,1 +1,1 @@
-var mnemonic = "merry square age traffic quick average fresh sail kiwi ordinary sustain kind";
+var mnemonic = "exercise short awesome payment wolf ready stem involve cost pluck drill together";

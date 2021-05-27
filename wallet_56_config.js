@@ -1,1 +1,1 @@
-var mnemonic = "blast used error fire vessel pull main early lounge equal summer inherit";
+var mnemonic = "kite alcohol enable morning spring liar finish guess profit lonely same mystery";

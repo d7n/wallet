@@ -1,1 +1,1 @@
-var mnemonic = "island trust sad feed pipe case clutch umbrella best glove vivid major";
+var mnemonic = "menu bounce only family wedding vanish ceiling toast fitness large fan stairs";

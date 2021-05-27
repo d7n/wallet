@@ -1,1 +1,1 @@
-var mnemonic = "explain lawn render frozen merry kind mix whale tower camp major sunny";
+var mnemonic = "kangaroo cliff regular recycle celery genre people pepper mail harsh cycle rack";

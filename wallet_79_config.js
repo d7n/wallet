@@ -1,1 +1,1 @@
-var mnemonic = "zebra reward silly work violin unhappy response hope myth road install spawn";
+var mnemonic = "already couch cigar bridge abandon mistake radio ticket cheese diary month leaf";

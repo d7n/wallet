@@ -1,1 +1,1 @@
-var mnemonic = "input answer solution series share winner pencil cream lesson knock rebel arm";
+var mnemonic = "arch gauge uphold execute symptom point jazz knee tilt barely require canyon";

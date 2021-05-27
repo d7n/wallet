@@ -1,1 +1,1 @@
-var mnemonic = "sock nuclear brain announce like used desk toward captain certain peanut disease";
+var mnemonic = "early uncover target grace first click love quick ski stairs soup obscure";

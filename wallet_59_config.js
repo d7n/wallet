@@ -1,1 +1,1 @@
-var mnemonic = "glow melody normal pipe upper engage airport kiwi core vanish vault tool";
+var mnemonic = "case inflict sample lend concert vast label crack dutch hidden broom limb";

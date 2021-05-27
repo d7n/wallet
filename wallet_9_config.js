@@ -1,1 +1,1 @@
-var mnemonic = "dice summer area hip return weasel tuition topic usual cat give rural";
+var mnemonic = "language lunar worry tone review grant child ugly twin poverty assist track";

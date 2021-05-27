@@ -1,1 +1,1 @@
-var mnemonic = "beef equal scan common liar drift mix chaos outside response fog ahead";
+var mnemonic = "fog dash october axis mass bicycle nest cute fiction test keen shoot";

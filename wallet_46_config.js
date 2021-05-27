@@ -1,1 +1,1 @@
-var mnemonic = "hawk tiger obey canoe custom donkey wait ozone empower oak ability yellow";
+var mnemonic = "real fame skin scan thought group join tuna ability lawn increase general";

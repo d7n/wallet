@@ -1,1 +1,1 @@
-var mnemonic = "banner ancient casual step vast word together earth check feed card promote";
+var mnemonic = "mixture snap combine table ridge sunset dwarf absent topic census silk anger";

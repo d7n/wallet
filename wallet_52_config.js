@@ -1,1 +1,1 @@
-var mnemonic = "high various dry green blue garlic awesome above squeeze guard ski master";
+var mnemonic = "chair cargo glad fossil simple minor mutual hood attend regret joy sphere";

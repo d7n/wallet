@@ -1,1 +1,1 @@
-var mnemonic = "act skin foot cycle elder rookie wood scrap orchard trust primary range";
+var mnemonic = "custom resemble knock seek basic symptom left escape blouse horse toward breeze";

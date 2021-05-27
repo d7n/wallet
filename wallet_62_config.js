@@ -1,1 +1,1 @@
-var mnemonic = "sugar pyramid below journey cause funny arm volume firm soap urge size";
+var mnemonic = "demise left kingdom idle assume odor another present vocal pilot bridge sword";

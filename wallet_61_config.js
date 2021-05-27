@@ -1,1 +1,1 @@
-var mnemonic = "stereo random iron kitten blossom desert daughter impose ill illness exercise danger";
+var mnemonic = "hen educate seek dash hungry hawk exile tunnel upset spatial grab dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble lizard keep stone bike film human utility large cannon oak labor";
+var mnemonic = "project bomb laugh process air vapor smile day damage must guitar bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "second output hold palm lucky thank nerve extra truth tornado core camera";
+var mnemonic = "orchard hawk poem april wise olive taste street quick fury mystery eight";

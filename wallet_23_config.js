@@ -1,1 +1,1 @@
-var mnemonic = "antenna harsh flavor census nut culture deer drip hurry attack athlete phrase";
+var mnemonic = "left member viable whisper shrug mesh ceiling turtle coin ceiling clump tiny";

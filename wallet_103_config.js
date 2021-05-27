@@ -1,1 +1,1 @@
-var mnemonic = "large catch art edit response bulk myth valid account peace soup pizza";
+var mnemonic = "mass almost judge news energy again pause later dirt truck amused excite";

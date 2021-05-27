@@ -1,1 +1,1 @@
-var mnemonic = "artwork identify uphold fringe ensure cement tornado wrist crisp betray gun romance";
+var mnemonic = "fossil seat check quick badge scrub sea amused foil action soft swarm";

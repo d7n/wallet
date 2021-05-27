@@ -1,1 +1,1 @@
-var mnemonic = "advice truth trial harvest maid crew captain word glass size panda identify";
+var mnemonic = "myth hill reveal room action whip tower empower bonus one corn soul";

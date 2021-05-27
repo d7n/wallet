@@ -1,1 +1,1 @@
-var mnemonic = "victory army sausage outside maze effort either flush turn someone paddle spray";
+var mnemonic = "rice fatigue bubble awake lens lend slide bind dilemma miss proud cousin";

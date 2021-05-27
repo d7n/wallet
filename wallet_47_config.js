@@ -1,1 +1,1 @@
-var mnemonic = "health monitor cricket long paddle method absurd entire day zebra crush cat";
+var mnemonic = "trap rack twenty fall oyster foil luxury jewel speak exile cram nuclear";

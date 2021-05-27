@@ -1,1 +1,1 @@
-var mnemonic = "economy earth oppose hire harvest speed give sign shift mixture mom scheme";
+var mnemonic = "neutral police clap element milk prize cloud invite curtain exit review immune";

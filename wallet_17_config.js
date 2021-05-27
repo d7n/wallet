@@ -1,1 +1,1 @@
-var mnemonic = "initial level casino cupboard ankle spin volume friend burst mosquito autumn travel";
+var mnemonic = "heavy link manual dutch craft scissors shell film always pelican gold regret";

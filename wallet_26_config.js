@@ -1,1 +1,1 @@
-var mnemonic = "exotic annual worth elite record ahead bullet rocket corn carpet rather riot";
+var mnemonic = "behind cupboard short music virus tragic smooth matrix quantum meadow scout nerve";

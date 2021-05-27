@@ -1,1 +1,1 @@
-var mnemonic = "hen ride amused random penalty artefact rubber wife coast beach yard minor";
+var mnemonic = "tuna poet gate birth win arrive actual craft denial supreme else traffic";

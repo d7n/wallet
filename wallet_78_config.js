@@ -1,1 +1,1 @@
-var mnemonic = "debris orchard thought scatter frog remind cake derive expose sibling view wagon";
+var mnemonic = "night staff ill own attract solar subject valley fall weather youth cannon";

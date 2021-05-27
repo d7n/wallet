@@ -1,1 +1,1 @@
-var mnemonic = "glad surprise same trick crime afraid cargo suit bone pulp order mail";
+var mnemonic = "hazard critic cost entry shed speed vessel guilt flight uncover puppy core";

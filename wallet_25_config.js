@@ -1,1 +1,1 @@
-var mnemonic = "crucial island bind giraffe funny child pull tape voice found zoo bottom";
+var mnemonic = "behind curious head twist sick miracle govern matrix normal struggle attend cereal";

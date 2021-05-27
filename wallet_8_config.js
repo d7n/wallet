@@ -1,1 +1,1 @@
-var mnemonic = "tackle flight sell drill cupboard engine boy trap humble novel dance arena";
+var mnemonic = "divert summer sponsor trade lizard stumble little oxygen capable gown hub erode";

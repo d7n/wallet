@@ -1,1 +1,1 @@
-var mnemonic = "icon together depth estate address sad salt announce car much demand pigeon";
+var mnemonic = "agree silver dawn custom bus antique lounge mosquito kit force damage hope";

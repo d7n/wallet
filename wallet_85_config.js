@@ -1,1 +1,1 @@
-var mnemonic = "they fluid material bomb winter pumpkin museum daughter tribe news document bonus";
+var mnemonic = "charge tonight pulse chat kind hunt spice antique gun twice fiction salon";

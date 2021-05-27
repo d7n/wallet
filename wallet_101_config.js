@@ -1,1 +1,1 @@
-var mnemonic = "load rough census blossom situate demand auction art few wheel fence cancel";
+var mnemonic = "much system sing own involve tilt fatal sausage six farm solid thought";

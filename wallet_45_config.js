@@ -1,1 +1,1 @@
-var mnemonic = "invest defense lyrics claim test cube illness castle color peace tomato census";
+var mnemonic = "absorb symbol outside galaxy face room please vault bomb car start main";

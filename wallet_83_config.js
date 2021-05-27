@@ -1,1 +1,1 @@
-var mnemonic = "bless rally life august group pulp mixture slim water grape reject math";
+var mnemonic = "auction dilemma pole shed crew cupboard tip zoo decide extend there tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "glare fiber hollow finger swift winner public rose size mammal despair jazz";
+var mnemonic = "garlic grow term pledge clown thing follow velvet copy curve mom original";

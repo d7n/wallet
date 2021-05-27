@@ -1,1 +1,1 @@
-var mnemonic = "fatal infant fortune hazard slab series now resist ivory confirm annual inject";
+var mnemonic = "grace relief crawl pear dirt stove rice claim castle foil decrease lunch";

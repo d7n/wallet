@@ -1,1 +1,1 @@
-var mnemonic = "swap mesh reduce wrap sister innocent stem happy key oblige drum energy";
+var mnemonic = "online permit host head pencil stool apart room birth fuel kidney holiday";

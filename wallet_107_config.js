@@ -1,1 +1,1 @@
-var mnemonic = "twenty camera expect record joy shuffle waste brass stove assume waste faculty";
+var mnemonic = "crucial attract able page unusual recall small equip day original pair popular";

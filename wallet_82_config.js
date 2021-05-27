@@ -1,1 +1,1 @@
-var mnemonic = "board core century flee denial pink cereal helmet convince promote cradle shift";
+var mnemonic = "recycle day kit olympic return child other now embark basic derive gap";

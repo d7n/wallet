@@ -1,1 +1,1 @@
-var mnemonic = "citizen hat skill basic stay budget raven story scare vanish dune virtual";
+var mnemonic = "coil pipe earn relax junk drink dry jewel only cricket hint woman";

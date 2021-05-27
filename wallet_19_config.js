@@ -1,1 +1,1 @@
-var mnemonic = "add ceiling bubble narrow unknown broken soldier toward exact boy floor give";
+var mnemonic = "immense kid stick latin cream sing uncover spider admit chronic squirrel tide";

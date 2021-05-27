@@ -1,1 +1,1 @@
-var mnemonic = "kiwi clerk title such domain invest result chapter client sting funny rack";
+var mnemonic = "alert fit deputy sail quarter access rent shiver east notable lawn spell";

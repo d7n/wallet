@@ -1,1 +1,1 @@
-var mnemonic = "theory funny another custom zebra chunk faint donate echo charge enlist blame";
+var mnemonic = "assist attitude key cart cart cabin spatial connect doctor jump liquid online";

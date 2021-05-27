@@ -1,1 +1,1 @@
-var mnemonic = "melody tomorrow double skull jealous donate ivory photo exhaust drastic tornado close";
+var mnemonic = "twelve unable brown strategy oblige found hotel cable loud loan cover switch";

@@ -1,1 +1,1 @@
-var mnemonic = "youth antenna group valve lottery soap canoe despair impulse muffin hire guitar";
+var mnemonic = "blood decorate truly version catalog pride kingdom security title avocado climb bread";

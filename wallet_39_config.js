@@ -1,1 +1,1 @@
-var mnemonic = "tray oil enter height animal practice monster state more wrong acoustic treat";
+var mnemonic = "heart glance camera modify direct tooth comic convince owner only someone mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "tree sad payment say unveil yard stable trust balcony file raccoon model";
+var mnemonic = "fossil boost tennis one fade vapor raw robot chicken gasp they achieve";

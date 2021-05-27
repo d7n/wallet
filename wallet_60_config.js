@@ -1,1 +1,1 @@
-var mnemonic = "marriage matter twelve siren between immense rose risk impose smart picnic grunt";
+var mnemonic = "hat viable simple transfer artist clown common announce assist clay october tank";

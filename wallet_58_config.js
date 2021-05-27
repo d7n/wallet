@@ -1,1 +1,1 @@
-var mnemonic = "involve clerk blade motion vault fat dinner float potato zone refuse transfer";
+var mnemonic = "squeeze movie differ recycle supply acoustic know coral life sadness hip lock";

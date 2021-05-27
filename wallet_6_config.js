@@ -1,1 +1,1 @@
-var mnemonic = "team nation fury demand matter sort bachelor motor tennis clarify walnut almost";
+var mnemonic = "demise what vacuum pride nest warrior tortoise moral noble local proof spawn";

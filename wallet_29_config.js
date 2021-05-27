@@ -1,1 +1,1 @@
-var mnemonic = "initial climb sunset time couch exotic enemy stick tourist motor royal limb";
+var mnemonic = "lizard glance fun swim elbow fragile short income close genre remain inhale";

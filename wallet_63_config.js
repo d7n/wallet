@@ -1,1 +1,1 @@
-var mnemonic = "differ lesson breeze stamp fly poet over radar veteran enable salad have";
+var mnemonic = "kick work barely hint stumble egg mobile green ship unable mesh excess";

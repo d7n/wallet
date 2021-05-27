@@ -1,1 +1,1 @@
-var mnemonic = "valley between rotate insane hand tuition thumb make yellow rose large laugh";
+var mnemonic = "point luxury normal gravity window law elite analyst young enter cluster garment";

@@ -1,1 +1,1 @@
-var mnemonic = "doll phone couple flame lift forward find trick idle exact thought rather";
+var mnemonic = "fiber love quick arrive correct luxury jar tumble cupboard great crowd bounce";

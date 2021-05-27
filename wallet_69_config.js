@@ -1,1 +1,1 @@
-var mnemonic = "ancient pumpkin flash guitar scorpion south elder good leg keen luxury tone";
+var mnemonic = "dish album attack catch rookie use want record below claw popular suggest";

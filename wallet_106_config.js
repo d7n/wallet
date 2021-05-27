@@ -1,1 +1,1 @@
-var mnemonic = "hope purity jaguar title despair target siege giant great tuition produce civil";
+var mnemonic = "shrimp vocal hip mother jealous muffin tent brother candy rare exclude wire";

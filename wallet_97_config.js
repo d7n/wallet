@@ -1,1 +1,1 @@
-var mnemonic = "talent until sword congress case treat afraid visa occur nice olympic slim";
+var mnemonic = "recall zebra below reunion blue galaxy field item nurse ill miracle soccer";
