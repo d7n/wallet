@@ -1,1 +1,1 @@
-var mnemonic = "moon axis alcohol draft hamster round trophy bundle spirit joke betray globe";
+var mnemonic = "sunset unknown retreat tone essay prepare spy faint biology fat soldier slot";

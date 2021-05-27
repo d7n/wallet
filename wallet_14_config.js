@@ -1,1 +1,1 @@
-var mnemonic = "short daring bracket young foot flavor hammer easily level nature thumb rookie";
+var mnemonic = "away grape tomato sleep invest novel about decide stereo uphold pretty photo";

@@ -1,1 +1,1 @@
-var mnemonic = "glance custom dinosaur crisp guard equip candy price salad patrol segment chaos";
+var mnemonic = "maze input urban decide field frame spoil inflict genius length giant point";

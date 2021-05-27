@@ -1,1 +1,1 @@
-var mnemonic = "current animal basic resist recycle among segment clean cream trade under pelican";
+var mnemonic = "lamp hundred blouse enforce embrace property snake myth artefact hazard pair stone";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch surge season pistol basket prize reopen poet spirit pair vault blanket";
+var mnemonic = "example man volcano usual ship all flip crop stairs census surround screen";

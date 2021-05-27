@@ -1,1 +1,1 @@
-var mnemonic = "mixture easily claw fluid recipe onion medal start search inspire awesome patrol";
+var mnemonic = "one elevator oak floor program wide mistake pioneer need dog forum sort";

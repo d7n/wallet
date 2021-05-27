@@ -1,1 +1,1 @@
-var mnemonic = "heavy merge strategy phrase affair furnace today secret turkey hood industry elite";
+var mnemonic = "deer possible mammal vivid giraffe senior fault add satisfy twice mention mandate";

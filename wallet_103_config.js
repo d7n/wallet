@@ -1,1 +1,1 @@
-var mnemonic = "govern sample device injury town ill release board wheat fever decline donkey";
+var mnemonic = "ranch foot pole reunion cattle pact weekend differ tube scare wine prefer";

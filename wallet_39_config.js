@@ -1,1 +1,1 @@
-var mnemonic = "snake lizard edit frozen shed face rebuild quote river loan father strike";
+var mnemonic = "visit black humble earn version erupt again wide sphere sword hurry laptop";

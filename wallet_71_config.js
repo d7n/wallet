@@ -1,1 +1,1 @@
-var mnemonic = "rose avocado square rice group focus pride nerve body room economy gorilla";
+var mnemonic = "demise spice sad rhythm north sunset alert goddess giraffe awake solve head";

@@ -1,1 +1,1 @@
-var mnemonic = "design early stand save oak noise media idea ski poet envelope glue";
+var mnemonic = "organ leg seat rent exit number jar refuse sense knock invest bargain";

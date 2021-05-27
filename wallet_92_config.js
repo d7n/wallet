@@ -1,1 +1,1 @@
-var mnemonic = "among level flee wood drip mule tortoise collect pave balance market crew";
+var mnemonic = "online private liquid wear caught raven over broken over stumble misery royal";

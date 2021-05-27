@@ -1,1 +1,1 @@
-var mnemonic = "ride message shine damp renew repair remember flock jungle practice aerobic amused";
+var mnemonic = "lab fury humble dream sting whip diagram bullet shine ship drip raise";

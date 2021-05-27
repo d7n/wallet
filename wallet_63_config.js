@@ -1,1 +1,1 @@
-var mnemonic = "enroll you chaos afraid ladder egg soul recycle sadness camp gentle dawn";
+var mnemonic = "consider lonely bird dilemma install strong nest sport arena spice course empty";

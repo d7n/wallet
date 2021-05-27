@@ -1,1 +1,1 @@
-var mnemonic = "life mistake island sibling long frost worth rotate minor oven member produce";
+var mnemonic = "hobby physical opera junior salute pioneer rubber become dawn affair barely solar";

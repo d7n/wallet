@@ -1,1 +1,1 @@
-var mnemonic = "surprise lazy wet nominee cradle rescue leopard school junk oil cereal window";
+var mnemonic = "chest interest they spring differ stove mean wink kiss tone royal frequent";

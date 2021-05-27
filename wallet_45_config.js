@@ -1,1 +1,1 @@
-var mnemonic = "pause satisfy snack other twelve soon right hold pumpkin rent carbon home";
+var mnemonic = "extra item plate trial lobster sand item bunker soldier picture magic tribe";

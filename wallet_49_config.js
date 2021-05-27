@@ -1,1 +1,1 @@
-var mnemonic = "man filter uniform round siege segment trick crack lift spend modify salmon";
+var mnemonic = "damage quote jeans tool pave taxi fluid gift edge jaguar awful flavor";

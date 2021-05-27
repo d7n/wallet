@@ -1,1 +1,1 @@
-var mnemonic = "drink nothing party spawn tag shock hockey royal female wine feed faculty";
+var mnemonic = "bottom work choice success enter basket faculty heavy congress upset shrug fabric";

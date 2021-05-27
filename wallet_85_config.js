@@ -1,1 +1,1 @@
-var mnemonic = "legal involve insane dress bread answer tooth course evil search snack search";
+var mnemonic = "cotton say plunge stock error bring hazard they kick cycle neutral stool";

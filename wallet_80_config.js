@@ -1,1 +1,1 @@
-var mnemonic = "canoe armed sunset eager degree pause cluster very budget peanut deer one";
+var mnemonic = "pig claim cable near south insect liberty pipe indoor sponsor ordinary liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty album clarify seek other profit surprise output ecology resist trust firm";
+var mnemonic = "shed combine setup suffer bless aerobic marine spoon transfer undo brother gentle";

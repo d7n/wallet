@@ -1,1 +1,1 @@
-var mnemonic = "engage fringe muffin sheriff mimic bleak soap industry tomorrow wet frozen album";
+var mnemonic = "find easily appear laptop patch portion pet over lesson labor disease bless";

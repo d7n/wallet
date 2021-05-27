@@ -1,1 +1,1 @@
-var mnemonic = "into crunch trip pretty useless output course suspect old home unlock pair";
+var mnemonic = "soup below student chat pave tongue mixed matter dutch shoe clock type";

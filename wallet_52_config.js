@@ -1,1 +1,1 @@
-var mnemonic = "ugly rail piece rely vote crisp decrease pumpkin vital march brisk flee";
+var mnemonic = "census caution image gentle green bean salt staff lunar salon federal village";

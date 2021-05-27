@@ -1,1 +1,1 @@
-var mnemonic = "spell puppy tiny wealth gorilla scrub still pull position say very fork";
+var mnemonic = "basket usual mercy struggle scatter disease fluid youth raise strong girl artwork";

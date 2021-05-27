@@ -1,1 +1,1 @@
-var mnemonic = "middle beauty hope define mercy spawn century sphere favorite detail column plate";
+var mnemonic = "season monkey genius image settle atom merit gift chuckle estate increase divorce";

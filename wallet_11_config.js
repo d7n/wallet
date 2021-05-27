@@ -1,1 +1,1 @@
-var mnemonic = "pyramid off before access picnic sign dream current sudden lock long ocean";
+var mnemonic = "remind spirit artist work chair concert dream host eagle ten slush adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "visa cement dolphin swarm snow universe vote equip stone barely film surround";
+var mnemonic = "expect ramp thumb amount work army seed collect general alley monitor afford";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck this lounge course possible nation wall worry erupt promote pledge faint";
+var mnemonic = "chief silk lawn animal hurry dolphin manage purse burden fuel year puppy";

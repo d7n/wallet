@@ -1,1 +1,1 @@
-var mnemonic = "super farm daring fan garage enhance north heavy immune sign only fish";
+var mnemonic = "miss agree profit finger sail more pledge flock plunge zebra series globe";

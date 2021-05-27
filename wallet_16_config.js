@@ -1,1 +1,1 @@
-var mnemonic = "myth link scrap humor thank repeat entry review true swear gown claw";
+var mnemonic = "camp salmon end gallery disease jeans used gas quality hard siren often";

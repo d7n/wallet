@@ -1,1 +1,1 @@
-var mnemonic = "exist piece purchase denial vapor hurry hold virus this kiss recall car";
+var mnemonic = "palm donor desk grain palace slow upper hungry dial detect sun range";

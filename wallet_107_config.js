@@ -1,1 +1,1 @@
-var mnemonic = "inner glass cancel hollow shiver gorilla mountain discover subway sad relief lottery";
+var mnemonic = "cry lobster power cram rain found select town suffer avocado make floor";

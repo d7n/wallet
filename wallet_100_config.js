@@ -1,1 +1,1 @@
-var mnemonic = "employ disagree wild sick game hub explain timber into garlic mango anxiety";
+var mnemonic = "snack success undo race typical worth update scan ten abuse better world";

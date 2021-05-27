@@ -1,1 +1,1 @@
-var mnemonic = "abstract fox keen shadow pole lazy hero zone like reflect script marble";
+var mnemonic = "couple stool hover vault victory remind small chicken bar daughter prosper kind";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion hockey chief melody method response accuse junior undo wet crucial street";
+var mnemonic = "enforce crunch give pause mesh provide use shiver tennis omit swim scorpion";

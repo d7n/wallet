@@ -1,1 +1,1 @@
-var mnemonic = "want garage umbrella attend dutch exist bike hidden hungry bracket card toddler";
+var mnemonic = "slush secret village broken boost huge buzz town century woman toilet barely";

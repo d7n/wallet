@@ -1,1 +1,1 @@
-var mnemonic = "blue any axis dragon correct quality acid tenant soap reduce spoon target";
+var mnemonic = "absent rice push ginger diagram finger expand damage bring monitor gun hurdle";

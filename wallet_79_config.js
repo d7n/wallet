@@ -1,1 +1,1 @@
-var mnemonic = "shoe direct film certain milk pact prosper appear trash despair organ grow";
+var mnemonic = "copy dawn fatigue usual exile asset genius solar old muscle genius six";

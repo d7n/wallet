@@ -1,1 +1,1 @@
-var mnemonic = "auto cushion render eager genius void unveil pluck process always october tape";
+var mnemonic = "kangaroo state satisfy market mail worth crisp clean horse jazz dwarf main";

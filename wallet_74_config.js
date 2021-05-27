@@ -1,1 +1,1 @@
-var mnemonic = "fabric family head grape voice move fiber decide slice average myth donor";
+var mnemonic = "trust banana busy find december way brave decade wisdom vibrant behave fatigue";

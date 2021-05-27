@@ -1,1 +1,1 @@
-var mnemonic = "blanket surge symptom scissors dish help dinosaur fantasy shove minute since venture";
+var mnemonic = "intact city depth click glove upper endorse trash stairs relax remain jewel";

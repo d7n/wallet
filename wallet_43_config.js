@@ -1,1 +1,1 @@
-var mnemonic = "name mad cluster venue rubber access ancient lunar erode switch float lend";
+var mnemonic = "group globe together mean cable world boss rabbit bread erosion reduce twenty";

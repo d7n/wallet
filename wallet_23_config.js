@@ -1,1 +1,1 @@
-var mnemonic = "chapter elder innocent insect eye wink message any brief work verify apology";
+var mnemonic = "couch deputy first dash crawl clever inmate announce smoke salt boring squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "put pyramid lumber office dwarf torch dry tuition disorder decide drop ghost";
+var mnemonic = "game mountain level now search thank physical rather offer reward pig decline";

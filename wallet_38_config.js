@@ -1,1 +1,1 @@
-var mnemonic = "boring initial assume priority label earn connect glow speak warm grass belt";
+var mnemonic = "fresh tobacco boil stumble behind daring mail recall dinner mixed what satisfy";

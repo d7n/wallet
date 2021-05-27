@@ -1,1 +1,1 @@
-var mnemonic = "humble disagree thank parrot obscure clay muffin envelope blue final swamp warfare";
+var mnemonic = "sure pill wood thrive circle label fog delay visit buyer coil useful";

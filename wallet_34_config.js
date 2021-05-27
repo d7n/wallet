@@ -1,1 +1,1 @@
-var mnemonic = "vote potato excess symbol oblige drive hidden dial ceiling olympic report basket";
+var mnemonic = "suit draw half debate age heart seven option water sell aunt load";

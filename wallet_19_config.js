@@ -1,1 +1,1 @@
-var mnemonic = "blind inhale list cotton cause produce business flat kingdom source verify warm";
+var mnemonic = "wheat glow festival antenna almost cry swamp blind sketch glide improve clip";

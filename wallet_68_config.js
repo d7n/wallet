@@ -1,1 +1,1 @@
-var mnemonic = "around soul review naive emotion crunch exit dinosaur victory pulse random earn";
+var mnemonic = "hover clever beyond door drastic describe state observe ice syrup artefact bar";

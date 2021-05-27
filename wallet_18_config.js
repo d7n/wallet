@@ -1,1 +1,1 @@
-var mnemonic = "advice hurt omit title solution valley process cricket price account issue prize";
+var mnemonic = "salute novel civil evoke tray bird destroy trick vacant helmet short away";

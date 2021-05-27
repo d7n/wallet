@@ -1,1 +1,1 @@
-var mnemonic = "monkey design hurry coral beach gauge educate leg struggle jazz trigger trim";
+var mnemonic = "remember afraid shoot device orient number record unfold gift fly enjoy hint";

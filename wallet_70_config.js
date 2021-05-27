@@ -1,1 +1,1 @@
-var mnemonic = "robust turn ripple dawn shove clerk will slow wall cancel judge marine";
+var mnemonic = "man resist patient evil fruit corn teach proof length gas educate spring";

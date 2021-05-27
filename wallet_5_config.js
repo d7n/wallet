@@ -1,1 +1,1 @@
-var mnemonic = "width gain title quote ramp style arch gentle extra decorate boost lemon";
+var mnemonic = "refuse mountain robust kingdom antique hawk tool sword usage glance shuffle able";

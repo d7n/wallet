@@ -1,1 +1,1 @@
-var mnemonic = "enough hazard stuff rapid end organ useless immune garlic oblige grit receive";
+var mnemonic = "idea barely quality junk dynamic toward surprise load grow knee deer spring";

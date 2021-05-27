@@ -1,1 +1,1 @@
-var mnemonic = "dynamic hedgehog question bonus winter cousin cloud wise enter paddle install volume";
+var mnemonic = "silly noble canoe unknown fantasy base aim trouble length sphere media depend";

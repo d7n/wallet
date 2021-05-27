@@ -1,1 +1,1 @@
-var mnemonic = "rifle census habit inspire harvest clock behind ensure resist broken sense proof";
+var mnemonic = "either mixture street champion hole walk wish limb ripple assault brisk width";

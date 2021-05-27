@@ -1,1 +1,1 @@
-var mnemonic = "cruel jacket family lunar oven lunar peasant chair laundry object network limb";
+var mnemonic = "base risk human impose borrow code hope drum abstract minor tribe duck";

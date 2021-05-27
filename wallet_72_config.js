@@ -1,1 +1,1 @@
-var mnemonic = "switch cage link primary sand disease idle require blood nation field permit";
+var mnemonic = "enforce spatial ensure ankle degree gossip green beauty initial chief valid bread";

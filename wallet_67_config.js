@@ -1,1 +1,1 @@
-var mnemonic = "unlock luggage cup plunge marine unique tag bacon inject only toward ripple";
+var mnemonic = "rose lunch gentle remain recipe sport album library surge total garden solar";

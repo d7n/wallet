@@ -1,1 +1,1 @@
-var mnemonic = "empower will code explain couple receive alley change increase public capable east";
+var mnemonic = "winter fork motion sunset rice change narrow window moment arrange loop junior";

@@ -1,1 +1,1 @@
-var mnemonic = "tail seminar random render inspire doctor rigid oak boring bag soul vocal";
+var mnemonic = "lamp mercy family flip birth august stumble industry midnight olive tunnel theory";

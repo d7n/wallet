@@ -1,1 +1,1 @@
-var mnemonic = "brisk transfer fat better potato harbor riot oven shoe change silver bone";
+var mnemonic = "size salt please impulse patrol smoke weird opinion indoor hurt guitar define";

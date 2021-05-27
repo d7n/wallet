@@ -1,1 +1,1 @@
-var mnemonic = "flame spoil fix rabbit fetch dress push tail useless awful milk blind";
+var mnemonic = "gauge razor survey slim wealth weasel crunch ice choice office other rubber";

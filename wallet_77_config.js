@@ -1,1 +1,1 @@
-var mnemonic = "survey scare when trick acoustic cousin chicken jazz tuition fragile surprise consider";
+var mnemonic = "ecology same anchor unlock into raven weather humor between flat view poem";

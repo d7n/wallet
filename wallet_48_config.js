@@ -1,1 +1,1 @@
-var mnemonic = "fold lucky hover card print chuckle slow shop movie couch extend boy";
+var mnemonic = "latin melody federal cloth couple balcony plunge enemy treat woman path alert";

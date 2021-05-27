@@ -1,1 +1,1 @@
-var mnemonic = "denial faculty brother echo prosper virtual kitchen health iron sauce focus brother";
+var mnemonic = "valley bulk amused enemy kiwi melt proud bicycle glow advice time glimpse";

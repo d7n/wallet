@@ -1,1 +1,1 @@
-var mnemonic = "work head very book index ethics bar subject humor ancient air soft";
+var mnemonic = "craft man rug grass height foot token patient library flag dad music";

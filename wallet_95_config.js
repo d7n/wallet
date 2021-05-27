@@ -1,1 +1,1 @@
-var mnemonic = "canyon anxiety indicate lecture census example canal soldier can seat cycle harsh";
+var mnemonic = "engine service submit struggle session isolate rather nerve bracket change web void";

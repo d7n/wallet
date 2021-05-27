@@ -1,1 +1,1 @@
-var mnemonic = "test identify ribbon amateur question obtain twice dream pass they defense awful";
+var mnemonic = "glow cotton display seed trigger pumpkin crunch match start any bike simple";

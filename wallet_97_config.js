@@ -1,1 +1,1 @@
-var mnemonic = "ocean cereal wedding below else dumb general shield hamster vacuum grab foot";
+var mnemonic = "cigar behave engine glare salmon current series best super reward lemon hedgehog";

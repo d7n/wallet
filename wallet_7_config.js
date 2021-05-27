@@ -1,1 +1,1 @@
-var mnemonic = "spend elder amount witness cross desert head genre pair guitar gasp review";
+var mnemonic = "become evil point stairs people mail finger lab fox device scene fence";

@@ -1,1 +1,1 @@
-var mnemonic = "biology item option sorry sort move toward luggage squirrel drama swap carbon";
+var mnemonic = "same cook seek state usage help memory swap hint hello brown kick";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal twin angry cactus peanut trigger quiz river nation caught awkward silent";
+var mnemonic = "raise goddess obtain chronic village morning place crumble sauce produce rack moon";

@@ -1,1 +1,1 @@
-var mnemonic = "broken hybrid visit galaxy stone flush suggest silent hip bread rate ginger";
+var mnemonic = "replace sample soul enrich symptom safe surface half annual hood economy cargo";

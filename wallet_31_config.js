@@ -1,1 +1,1 @@
-var mnemonic = "color artist embrace only awkward balance hurdle mountain wedding real inner robot";
+var mnemonic = "rural rely rural rural prosper sibling fetch reason eyebrow accuse response visual";

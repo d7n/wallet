@@ -1,1 +1,1 @@
-var mnemonic = "inherit eye taxi approve smooth come assault vicious book frog beauty title";
+var mnemonic = "else slim dry enlist surface speed chief wife bread enlist thunder edge";

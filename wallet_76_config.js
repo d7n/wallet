@@ -1,1 +1,1 @@
-var mnemonic = "faith company scene gesture ring sister pride neither screen evidence spice online";
+var mnemonic = "entry couch athlete book panel snack marine stumble breeze audit name rib";

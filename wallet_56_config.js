@@ -1,1 +1,1 @@
-var mnemonic = "blush little valley cradle convince cabbage sketch vacant pipe cool pumpkin donate";
+var mnemonic = "october repeat spell mistake inner jaguar domain stumble busy pause tide crop";

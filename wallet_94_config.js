@@ -1,1 +1,1 @@
-var mnemonic = "federal glue airport soon collect fence network fame august magic toast tank";
+var mnemonic = "laptop steel income extra tired spread reward route hint clay smart uniform";

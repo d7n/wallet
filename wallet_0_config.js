@@ -1,1 +1,1 @@
-var mnemonic = "tennis feed allow hold spread scan spatial unlock paddle provide raccoon vessel";
+var mnemonic = "diet excess sword remind valley finish abstract acquire stamp still vague earth";

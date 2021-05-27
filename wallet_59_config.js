@@ -1,1 +1,1 @@
-var mnemonic = "fiber uncover chimney acquire song spread sadness city vibrant seed cheap build";
+var mnemonic = "muffin youth image cost agree tissue join ensure gather answer weird eternal";
