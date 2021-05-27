@@ -1,1 +1,1 @@
-var mnemonic = "car enroll violin donate solution liberty gather knife blur hood excess extend";
+var mnemonic = "achieve vault urge disorder paper circle comic cram final just appear margin";

@@ -1,1 +1,1 @@
-var mnemonic = "scale globe despair south fox critic forum biology title boil sport weasel";
+var mnemonic = "furnace bleak drive brief youth album crush digital evoke nest sport monster";

@@ -1,1 +1,1 @@
-var mnemonic = "what soup pony trumpet churn wolf fork february detect drip sand hour";
+var mnemonic = "reveal lounge peace current mother mean dice scheme limit siren fish talent";

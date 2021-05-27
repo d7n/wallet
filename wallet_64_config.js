@@ -1,1 +1,1 @@
-var mnemonic = "swamp tennis october pitch creek buffalo parade doll flat wasp year index";
+var mnemonic = "priority exchange vintage trap naive pizza lesson tray version acid mention shrug";

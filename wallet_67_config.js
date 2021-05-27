@@ -1,1 +1,1 @@
-var mnemonic = "rotate olive thank garden recycle anger need west stuff street luxury inquiry";
+var mnemonic = "joke business other buddy leisure usage estate clarify horror profit hire success";

@@ -1,1 +1,1 @@
-var mnemonic = "stove report estate winner yellow symptom trumpet vocal crane marble outside night";
+var mnemonic = "clinic protect kidney differ clown then enemy fish veteran fee venture hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "ski convince desert kiwi pretty inhale crew dad grief beach sea jungle";
+var mnemonic = "palm wood gasp dismiss exist unaware joy there stomach divorce motion kind";

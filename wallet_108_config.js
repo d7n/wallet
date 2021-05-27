@@ -1,1 +1,1 @@
-var mnemonic = "rapid limb mask oak trial bulb cliff wage grid absorb still promote";
+var mnemonic = "off shine portion upgrade usual permit antique smooth aunt access sleep sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "result tide impact acoustic lift tank fresh alien logic fancy glimpse six";
+var mnemonic = "abstract swim whip arch absorb blouse trick swallow breeze click predict frown";

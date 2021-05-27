@@ -1,1 +1,1 @@
-var mnemonic = "angle build enemy library creek earn wrap call gym tattoo danger saddle";
+var mnemonic = "youth cargo vocal vanish depart dune elbow captain text absurd juice firm";

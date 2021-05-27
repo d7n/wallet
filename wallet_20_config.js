@@ -1,1 +1,1 @@
-var mnemonic = "soccer undo pattern hospital anchor return caught often illness section vague senior";
+var mnemonic = "absent nephew dog canvas machine glue already cigar fade imitate broccoli upset";

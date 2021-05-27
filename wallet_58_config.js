@@ -1,1 +1,1 @@
-var mnemonic = "ocean material smooth coral plastic wool pistol shop transfer toilet claw extra";
+var mnemonic = "feed coconut base alpha electric enemy east private fine trigger chronic hard";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate quarter throw charge female family memory jewel damage chalk music various";
+var mnemonic = "cluster fitness junk silver dwarf dash machine oppose throw super birth huge";

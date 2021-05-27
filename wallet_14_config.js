@@ -1,1 +1,1 @@
-var mnemonic = "that motion donor priority matter clarify gap clutch venue next gallery gospel";
+var mnemonic = "flat weekend grit shiver visit simple crouch swarm reunion album balcony obtain";

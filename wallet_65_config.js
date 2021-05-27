@@ -1,1 +1,1 @@
-var mnemonic = "universe broccoli length few school wisdom video erode unusual fire door stock";
+var mnemonic = "culture inhale leave letter rail depart bone word apple crop olive frequent";

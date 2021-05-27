@@ -1,1 +1,1 @@
-var mnemonic = "liquid forget federal afford quit sibling sadness one state napkin manage chief";
+var mnemonic = "grunt height industry battle ahead dash lecture clock switch throw picture grain";

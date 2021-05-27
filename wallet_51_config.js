@@ -1,1 +1,1 @@
-var mnemonic = "elder sheriff save exchange often pumpkin stand deny genre glove mixed prefer";
+var mnemonic = "square tuition solar ketchup broken track trumpet future nice clutch depend danger";

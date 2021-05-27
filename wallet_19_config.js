@@ -1,1 +1,1 @@
-var mnemonic = "wire under husband fish just kick portion despair betray embody board volume";
+var mnemonic = "equip control crunch joke bridge worry october bulk deputy parrot joy crawl";

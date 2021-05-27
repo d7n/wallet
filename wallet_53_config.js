@@ -1,1 +1,1 @@
-var mnemonic = "start love zero picnic slogan found edge mechanic game middle hazard distance";
+var mnemonic = "lady timber chunk smart wrap exile salmon grow token naive length cabbage";

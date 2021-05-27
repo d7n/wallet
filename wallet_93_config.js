@@ -1,1 +1,1 @@
-var mnemonic = "upon vanish own salute page pistol wear shoot glide ticket occur acquire";
+var mnemonic = "silk dance option job oblige comic agent insane pilot trigger skull ride";

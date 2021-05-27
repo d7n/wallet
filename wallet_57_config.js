@@ -1,1 +1,1 @@
-var mnemonic = "extend local medal cannon creek cattle solve forum prefer pipe real fuel";
+var mnemonic = "odor matrix hidden you cliff banner panic category title coyote hundred weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "cave beach honey over need pass shrimp salon around charge toast bike";
+var mnemonic = "clarify swift edge patient february latin relax hill now fatigue cargo sick";

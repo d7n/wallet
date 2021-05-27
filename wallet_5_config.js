@@ -1,1 +1,1 @@
-var mnemonic = "drip capital delay elite office abuse tuition moral fabric book panda option";
+var mnemonic = "impact pudding boring walnut match intact field common erupt horse museum negative";

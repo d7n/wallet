@@ -1,1 +1,1 @@
-var mnemonic = "gauge example naive bundle salt arctic athlete relief dumb fine unit bottom";
+var mnemonic = "trouble cousin canoe point grab board wear upgrade hen mansion immune moral";

@@ -1,1 +1,1 @@
-var mnemonic = "repair crime clerk street scout bar help tomato nephew mouse bundle tumble";
+var mnemonic = "people inspire wedding wing amateur fragile genuine better field twist echo scout";

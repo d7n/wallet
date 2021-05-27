@@ -1,1 +1,1 @@
-var mnemonic = "merit school art naive steak talk photo kangaroo select awesome mansion tomato";
+var mnemonic = "owner castle ghost twice crouch harbor pause pact position problem path athlete";

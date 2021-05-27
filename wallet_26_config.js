@@ -1,1 +1,1 @@
-var mnemonic = "black clean isolate prepare normal noise welcome crime pave link script build";
+var mnemonic = "bar fix wrong melody panic theory frost ghost doll air sugar amused";

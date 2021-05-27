@@ -1,1 +1,1 @@
-var mnemonic = "stone opera crisp renew inner inner ketchup front law boat winter monitor";
+var mnemonic = "ketchup raw deliver middle carbon ring amount theory trend oxygen orient lucky";

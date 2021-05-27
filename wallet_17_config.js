@@ -1,1 +1,1 @@
-var mnemonic = "discover pole lottery cool finish provide embark abuse frog large thrive nuclear";
+var mnemonic = "divert hair symbol swamp yellow deliver teach swing model blind innocent treat";

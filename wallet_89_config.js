@@ -1,1 +1,1 @@
-var mnemonic = "assume favorite adapt robust hip weapon measure visual interest ill inform border";
+var mnemonic = "rain heart leopard stairs pitch turkey cross visit real entry head plate";

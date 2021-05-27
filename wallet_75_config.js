@@ -1,1 +1,1 @@
-var mnemonic = "chair mimic inner deposit icon body butter chaos address outside enact film";
+var mnemonic = "ugly kidney salmon maid nasty front avocado nerve dial galaxy reform wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis wet between hurry source vintage finish harsh hole upper among sell";
+var mnemonic = "input loyal talk bronze mom couple twenty focus toss retreat clever lunar";

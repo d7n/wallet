@@ -1,1 +1,1 @@
-var mnemonic = "border frost civil side maze furnace miracle ordinary jungle crop buzz photo";
+var mnemonic = "shove settle frequent isolate fame cloth mouse scout battle spot error purpose";

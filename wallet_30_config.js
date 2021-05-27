@@ -1,1 +1,1 @@
-var mnemonic = "garden skill young fan together lake sock rubber evil rocket october seed";
+var mnemonic = "meadow raw drift buddy sleep mountain angry seat denial scan recycle carbon";

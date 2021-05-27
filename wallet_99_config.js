@@ -1,1 +1,1 @@
-var mnemonic = "truth toss wild ten party kitten replace sport concert rail place nation";
+var mnemonic = "game can tenant ancient paper illness over dress pluck accuse vehicle lift";

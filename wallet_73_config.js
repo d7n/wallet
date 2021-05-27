@@ -1,1 +1,1 @@
-var mnemonic = "lion phone heavy tell refuse security doll chef surround position vapor million";
+var mnemonic = "round quantum pill fiscal dirt lady cruise oyster giraffe input bulb delay";

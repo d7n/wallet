@@ -1,1 +1,1 @@
-var mnemonic = "pledge merge screen notable icon response soda payment similar drop border car";
+var mnemonic = "fox deposit half diet dizzy lock remember control wave shed fresh olive";

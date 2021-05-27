@@ -1,1 +1,1 @@
-var mnemonic = "person glad grass enter myself crawl opera tooth faint lumber reveal ribbon";
+var mnemonic = "nature monster cage insect empower idea try monkey churn caution tobacco rebel";

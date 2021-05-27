@@ -1,1 +1,1 @@
-var mnemonic = "town smooth minimum motor sport hood pulse series coconut shuffle shallow order";
+var mnemonic = "excite valid volume symptom home organ bulk they once play scissors hamster";

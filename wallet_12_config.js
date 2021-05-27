@@ -1,1 +1,1 @@
-var mnemonic = "loyal increase satisfy island grief corn mixed riot swing risk close surge";
+var mnemonic = "abstract day era pilot despair voyage certain dinner swarm dolphin rubber deer";

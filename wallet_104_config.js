@@ -1,1 +1,1 @@
-var mnemonic = "logic suggest nominee amused trap dilemma lion pass initial zoo useful alpha";
+var mnemonic = "custom music hub luggage afford actress model six seek culture nurse enact";

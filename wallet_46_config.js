@@ -1,1 +1,1 @@
-var mnemonic = "mandate total box aunt simple dignity social warm session room enrich bachelor";
+var mnemonic = "riot way term stand snake success lake candy glory drum seminar theme";

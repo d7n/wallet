@@ -1,1 +1,1 @@
-var mnemonic = "sustain success flower picture crumble direct helmet venue again guard later still";
+var mnemonic = "chalk announce expire kid claw lobster trade detail october try drop pistol";

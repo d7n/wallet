@@ -1,1 +1,1 @@
-var mnemonic = "dawn coast filter increase ugly vote child pact twenty worry relax raccoon";
+var mnemonic = "arrest tank wave denial also walnut melt follow harvest rude rate rookie";

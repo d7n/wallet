@@ -1,1 +1,1 @@
-var mnemonic = "tragic mansion spatial maze print man year neck ice cream frog jewel";
+var mnemonic = "believe book meat obscure drill gather essence change trophy tooth brother mirror";

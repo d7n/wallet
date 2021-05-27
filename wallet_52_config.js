@@ -1,1 +1,1 @@
-var mnemonic = "sugar side armed skate seven smoke above base clerk tail plastic concert";
+var mnemonic = "fatigue crunch sell leave toy alley moment energy light panther balcony wagon";

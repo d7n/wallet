@@ -1,1 +1,1 @@
-var mnemonic = "dwarf olympic vocal sort doctor lawn enable unable hammer awful announce disorder";
+var mnemonic = "quality distance motion sample loud team ostrich coil slice cherry include play";

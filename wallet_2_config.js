@@ -1,1 +1,1 @@
-var mnemonic = "version spring raise lucky depth creek beach method author witness win where";
+var mnemonic = "normal venture hunt hurt dove venue bronze inquiry piece bright pink castle";

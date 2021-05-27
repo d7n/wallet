@@ -1,1 +1,1 @@
-var mnemonic = "clay expire sunny busy render year leave ride crane census junior skill";
+var mnemonic = "become donor injury metal honey ankle secret arrest high vintage ceiling letter";

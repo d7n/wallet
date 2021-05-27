@@ -1,1 +1,1 @@
-var mnemonic = "label ticket crouch erupt process flame wine piano unusual era attack hover";
+var mnemonic = "seed execute outdoor swap chimney twenty treat early grab egg humble decrease";

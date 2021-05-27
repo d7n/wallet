@@ -1,1 +1,1 @@
-var mnemonic = "boat shop room over online lobster reopen skate hour differ word text";
+var mnemonic = "strategy submit latin swear tray shove slab describe lonely net steak aunt";

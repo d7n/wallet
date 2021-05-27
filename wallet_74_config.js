@@ -1,1 +1,1 @@
-var mnemonic = "reopen crane occur school puppy urge powder live leaf tilt thrive salon";
+var mnemonic = "oval surround february screen army fiscal van short round congress system volcano";

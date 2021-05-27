@@ -1,1 +1,1 @@
-var mnemonic = "enforce table blast exchange wash decorate decline pink vibrant scene team vocal";
+var mnemonic = "chimney rough inherit reduce volume saddle huge jacket mad ritual base loop";

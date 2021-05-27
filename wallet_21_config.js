@@ -1,1 +1,1 @@
-var mnemonic = "dentist cross repair envelope bulk fatigue exhaust scheme possible lake monitor design";
+var mnemonic = "output slogan prison tower census caution sausage abuse pave drink layer radar";

@@ -1,1 +1,1 @@
-var mnemonic = "where mammal animal cactus master van cost palace lion shoulder depth evidence";
+var mnemonic = "slim ill myself panel keen smart surround laptop chair cargo old remind";

@@ -1,1 +1,1 @@
-var mnemonic = "host easy planet carbon exhaust fury adult embody praise account style hurdle";
+var mnemonic = "scene farm brand apple thank use sketch card exit pledge voyage fashion";

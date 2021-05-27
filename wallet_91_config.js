@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog anger brave nose forget galaxy fantasy setup divert leisure program segment";
+var mnemonic = "enrich burst daughter crazy random become purchase job sell race ordinary physical";

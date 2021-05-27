@@ -1,1 +1,1 @@
-var mnemonic = "globe payment shoulder yard decline drill now circle ahead caught defense burst";
+var mnemonic = "pair nuclear globe witness junk explain awful dinosaur erase federal artefact goddess";

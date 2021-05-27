@@ -1,1 +1,1 @@
-var mnemonic = "enemy cry excuse table improve involve soul gift lyrics domain junk voice";
+var mnemonic = "trap trophy opinion grab industry flavor must distance float cage fiber cart";

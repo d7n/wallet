@@ -1,1 +1,1 @@
-var mnemonic = "body test galaxy mango swap click atom combine please extra boy flight";
+var mnemonic = "typical eyebrow wolf casual topic crop estate jazz spare object clap embody";

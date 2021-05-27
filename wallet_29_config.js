@@ -1,1 +1,1 @@
-var mnemonic = "time bonus man couch limit aisle erase usage second addict tube silent";
+var mnemonic = "pulp absurd garbage story rib old material picnic grocery language enlist cup";

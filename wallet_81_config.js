@@ -1,1 +1,1 @@
-var mnemonic = "blade keen race desk mistake uncle version cause someone flat eagle join";
+var mnemonic = "fan useful entry diet decade protect energy museum below ritual follow sadness";

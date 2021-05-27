@@ -1,1 +1,1 @@
-var mnemonic = "observe margin remain piano case insane sort elephant maple fatigue message six";
+var mnemonic = "urge wolf pull lizard stay pulp mixture behind witness term lunch vicious";

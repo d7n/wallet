@@ -1,1 +1,1 @@
-var mnemonic = "shuffle exhaust bag win install unknown gap hover mountain raw gorilla ranch";
+var mnemonic = "gather business athlete math honey ignore walk culture critic fortune promote earth";

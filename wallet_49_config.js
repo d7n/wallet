@@ -1,1 +1,1 @@
-var mnemonic = "path budget aware portion giant modify help retire shift agree material public";
+var mnemonic = "follow hundred museum school isolate enjoy twist fence undo vibrant size spike";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle loud gas cable woman shove seven result guess wise eternal prefer";
+var mnemonic = "anchor enemy stem slam fresh behind deer inch online meadow easy protect";

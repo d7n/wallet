@@ -1,1 +1,1 @@
-var mnemonic = "brick dice casual select tool plunge once icon apart hazard rail salon";
+var mnemonic = "two want raise another dignity chalk uncle manual zebra field example live";

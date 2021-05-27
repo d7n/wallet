@@ -1,1 +1,1 @@
-var mnemonic = "pigeon future transfer typical fantasy fix bless prevent limb chalk delay ski";
+var mnemonic = "scare giggle desert hotel decorate fat mix famous dish soup eagle alpha";

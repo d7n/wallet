@@ -1,1 +1,1 @@
-var mnemonic = "mushroom rather icon gather chuckle course gun fruit chest sentence trap crime";
+var mnemonic = "bean message unit glare broccoli clock one case comfort similar wife beach";

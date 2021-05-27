@@ -1,1 +1,1 @@
-var mnemonic = "bubble author blanket pottery coconut city pole hold trouble total merge memory";
+var mnemonic = "sea pave pepper chapter vacant spring lottery wreck child wish learn kit";

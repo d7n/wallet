@@ -1,1 +1,1 @@
-var mnemonic = "submit frown desk mirror drastic misery document lake return shuffle describe decrease";
+var mnemonic = "question ordinary horn hope deny belt hub trend orange author fee talent";

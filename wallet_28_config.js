@@ -1,1 +1,1 @@
-var mnemonic = "seat survey basic saddle polar clarify public latin live install usage wear";
+var mnemonic = "enough consider art bonus material demand pair dune enrich husband wild wink";

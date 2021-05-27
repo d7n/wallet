@@ -1,1 +1,1 @@
-var mnemonic = "front section regret able agent enough excite unfold oil ship provide sadness";
+var mnemonic = "field media number buyer daughter shy teach today lyrics gloom give traffic";

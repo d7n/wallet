@@ -1,1 +1,1 @@
-var mnemonic = "useless cash energy evil viable name flight wise title lift flame minute";
+var mnemonic = "wide feature pluck rent predict scare picnic romance special sadness garbage relief";

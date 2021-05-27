@@ -1,1 +1,1 @@
-var mnemonic = "ill vital basic cricket upon else spot lounge magnet ribbon bread hundred";
+var mnemonic = "absorb brief song heart slam toward very angry flat circle disagree cupboard";

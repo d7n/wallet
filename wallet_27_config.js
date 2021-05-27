@@ -1,1 +1,1 @@
-var mnemonic = "surface ghost clerk hobby secret model diary unique benefit trash outside public";
+var mnemonic = "access embrace repair clown satisfy pair armor arm unable loop fix affair";

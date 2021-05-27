@@ -1,1 +1,1 @@
-var mnemonic = "hockey suit feature hood balcony leopard kiss awful question film capable world";
+var mnemonic = "bachelor under pave surprise quick aerobic resemble disease churn panel return worth";

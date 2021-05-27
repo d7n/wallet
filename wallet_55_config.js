@@ -1,1 +1,1 @@
-var mnemonic = "remove illness lucky market toddler devote fan mobile chaos foil credit business";
+var mnemonic = "theme farm deer bomb gate matrix can hold system inner ride enrich";

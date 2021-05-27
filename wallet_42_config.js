@@ -1,1 +1,1 @@
-var mnemonic = "strike assist census call ability narrow reward lock soldier carbon bundle today";
+var mnemonic = "tortoise wheat paddle scan range bread love salmon draw foam news crater";

@@ -1,1 +1,1 @@
-var mnemonic = "pink head clay coconut deal step want pen monitor fitness pact shrug";
+var mnemonic = "color dilemma diesel speed crop divert arctic provide universe best artwork squirrel";

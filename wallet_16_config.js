@@ -1,1 +1,1 @@
-var mnemonic = "bird draw village planet olympic hello follow pluck fashion guilt bomb wear";
+var mnemonic = "swear hand buddy cover cry forget original dilemma glare funny join solve";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine screen glance girl inmate mad cash material cradle marriage ivory sketch";
+var mnemonic = "inch buzz begin donkey elephant fury squeeze cake differ obvious frog happy";

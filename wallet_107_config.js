@@ -1,1 +1,1 @@
-var mnemonic = "ethics payment youth delay pottery intact pony flame notice annual spoil scheme";
+var mnemonic = "culture enjoy flight spatial harbor industry black juice expect build layer ice";

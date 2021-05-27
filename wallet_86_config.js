@@ -1,1 +1,1 @@
-var mnemonic = "symptom taste assault valid october detail economy robust version leg remain session";
+var mnemonic = "skirt badge turtle master else limit minor warfare around impact defy sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "grant dress wasp glad long patch wet castle select vicious segment cloth";
+var mnemonic = "proud portion case awake trash spin weasel smile pretty absurd hazard sample";

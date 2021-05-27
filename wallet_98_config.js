@@ -1,1 +1,1 @@
-var mnemonic = "stadium decade follow floor balcony swift stamp into mercy join twin fence";
+var mnemonic = "shrug tuition skull salon badge december mother unusual song top shell rich";

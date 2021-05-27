@@ -1,1 +1,1 @@
-var mnemonic = "depend rocket they charge skill lamp jealous razor discover video sister pet";
+var mnemonic = "neutral price rack trigger kiwi evoke mixed cargo wolf fiber robot gym";

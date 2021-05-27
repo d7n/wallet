@@ -1,1 +1,1 @@
-var mnemonic = "lava save sniff execute tomorrow doll push acquire response snow copper nephew";
+var mnemonic = "dice glare scare jeans parrot nuclear divide universe make melt fiscal believe";
