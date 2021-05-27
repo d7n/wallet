@@ -1,1 +1,1 @@
-var mnemonic = "hotel stomach ride finger small banner sibling trade upon calm alter nose";
+var mnemonic = "wagon cousin arrest napkin chapter link effort text indicate awkward census pottery";

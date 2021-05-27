@@ -1,1 +1,1 @@
-var mnemonic = "praise torch puppy pioneer trigger quiz chaos cave iron ability recycle canal";
+var mnemonic = "ethics heavy lyrics hurdle wild rib discover flavor enable burden visual vibrant";

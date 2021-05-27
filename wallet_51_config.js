@@ -1,1 +1,1 @@
-var mnemonic = "solve hand capital turkey stumble hammer patch green square erupt must tooth";
+var mnemonic = "rely ice gown mass please argue own globe always love cabin barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "dad bleak alert scrap lucky photo agree win ginger vault replace add";
+var mnemonic = "dinosaur bounce throw change poet omit world pill analyst wet give garbage";

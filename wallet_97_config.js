@@ -1,1 +1,1 @@
-var mnemonic = "food undo scissors evil play flight job divert rug latin lend kick";
+var mnemonic = "shine bus during convince divorce melt still couch index smooth faith faculty";

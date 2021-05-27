@@ -1,1 +1,1 @@
-var mnemonic = "age remember else pupil expose infant boil famous drastic tuna dust urban";
+var mnemonic = "world tragic have suggest access lesson run loud display alter plate script";

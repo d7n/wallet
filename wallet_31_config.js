@@ -1,1 +1,1 @@
-var mnemonic = "beyond panther index jewel pole globe about garbage neck theme reunion price";
+var mnemonic = "fiber decorate puppy tape often crane sugar struggle later blue useful record";

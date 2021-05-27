@@ -1,1 +1,1 @@
-var mnemonic = "machine head cage unhappy rough wink salute hole essay comic make feed";
+var mnemonic = "wagon cement monster field essay zero beef language beyond elephant shiver extra";

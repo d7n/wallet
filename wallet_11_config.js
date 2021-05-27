@@ -1,1 +1,1 @@
-var mnemonic = "scare jump song surround solar acid street ripple sing fog hand play";
+var mnemonic = "olympic piano piano nut bless affair clutch weird frown wheat cover romance";

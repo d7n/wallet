@@ -1,1 +1,1 @@
-var mnemonic = "claw tobacco tuna orange only sibling proud refuse lock kitchen hello charge";
+var mnemonic = "deposit action album chuckle dilemma able ceiling lab cradle pelican payment almost";

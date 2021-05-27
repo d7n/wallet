@@ -1,1 +1,1 @@
-var mnemonic = "taste tunnel observe hen length minimum glimpse dynamic shuffle immune chase egg";
+var mnemonic = "fox junior tooth mechanic ecology seminar excess erupt usual glory jungle torch";

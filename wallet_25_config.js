@@ -1,1 +1,1 @@
-var mnemonic = "rate festival fun execute depend twelve high adapt video nation glad kitchen";
+var mnemonic = "switch penalty inquiry wet repeat ghost rent aunt cage chronic scorpion country";

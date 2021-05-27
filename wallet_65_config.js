@@ -1,1 +1,1 @@
-var mnemonic = "hire eight secret planet dentist brand space address make sudden mandate option";
+var mnemonic = "oak south injury unlock destroy clay mom involve local nurse same romance";

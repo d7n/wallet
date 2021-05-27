@@ -1,1 +1,1 @@
-var mnemonic = "fatal major disorder veteran alter lumber promote despair security dog dinner home";
+var mnemonic = "lounge hungry valley nation ride vacant ignore science toe puzzle silent chunk";

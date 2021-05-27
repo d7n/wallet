@@ -1,1 +1,1 @@
-var mnemonic = "cabbage episode absurd obscure detail maid innocent hint merge object invest symbol";
+var mnemonic = "wedding pigeon syrup shiver manage other dress purity tent beach census naive";

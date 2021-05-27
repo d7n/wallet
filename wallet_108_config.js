@@ -1,1 +1,1 @@
-var mnemonic = "sense enroll need olympic advance erupt impulse satoshi fruit blast dentist fatigue";
+var mnemonic = "moral perfect position wait spider control leaf predict myth either ceiling charge";

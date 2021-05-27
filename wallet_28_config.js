@@ -1,1 +1,1 @@
-var mnemonic = "shadow search ignore wing onion blue combine scheme company crime wide genuine";
+var mnemonic = "taxi wild anger gold indoor tomorrow misery file ignore jealous bridge virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "animal debris light system steak split ankle mushroom climb ozone antenna notable";
+var mnemonic = "general device matrix valve eager grace bachelor radar surround caught license ready";

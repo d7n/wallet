@@ -1,1 +1,1 @@
-var mnemonic = "measure direct agree merry thank eagle fuel panel basic grocery hat moment";
+var mnemonic = "garbage chat public because bacon speed manual relax video library swamp garbage";

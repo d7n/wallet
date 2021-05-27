@@ -1,1 +1,1 @@
-var mnemonic = "quote pepper flash orchard seven torch notice pony ski ceiling rude chuckle";
+var mnemonic = "nut maid junk network parent attract cigar penalty company goat daring talent";

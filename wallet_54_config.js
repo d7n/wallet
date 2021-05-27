@@ -1,1 +1,1 @@
-var mnemonic = "spike valley right distance sting solar please large appear fury history ticket";
+var mnemonic = "lion segment angle render pig tail client speak hurry depend cart brick";

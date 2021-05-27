@@ -1,1 +1,1 @@
-var mnemonic = "various close regret purse december humor claim parade find window glass example";
+var mnemonic = "evil cloud faith future jeans merge youth glass post pledge embrace affair";

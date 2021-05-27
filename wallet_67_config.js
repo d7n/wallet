@@ -1,1 +1,1 @@
-var mnemonic = "exit foam media era beyond doll much harbor network gauge organ gossip";
+var mnemonic = "side wet merit chaos cake wealth note riot fox october magic ensure";

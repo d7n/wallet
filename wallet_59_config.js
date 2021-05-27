@@ -1,1 +1,1 @@
-var mnemonic = "flock manage purpose alpha ancient put ensure pattern together quit next hungry";
+var mnemonic = "adapt frog toddler renew sock crawl ripple next wood later senior tent";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans lizard assault episode captain erode demand engine someone place wood auction";
+var mnemonic = "chapter park boil joke acid orchard visual fee entire enlist devote silk";

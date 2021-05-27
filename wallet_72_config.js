@@ -1,1 +1,1 @@
-var mnemonic = "plunge puppy route wonder try rare accident fever apple retire idea fresh";
+var mnemonic = "drill travel history gain impulse when orbit oblige film elbow magnet hip";

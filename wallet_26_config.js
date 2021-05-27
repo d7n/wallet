@@ -1,1 +1,1 @@
-var mnemonic = "vote nice prosper animal fiction upset casual plastic purity humor gown edge";
+var mnemonic = "birth shoe october increase behind chaos toss runway ready frog rapid pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "decline coin connect cluster praise ripple disagree camera basic govern basket dune";
+var mnemonic = "turtle half arrive crew document law flee erupt inflict salon you wreck";

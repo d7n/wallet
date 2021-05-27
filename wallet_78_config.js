@@ -1,1 +1,1 @@
-var mnemonic = "route diesel spell middle disease eagle pilot harvest survey abandon magic tree";
+var mnemonic = "relax vanish offer pet sail delay right cart appear engine nation skill";

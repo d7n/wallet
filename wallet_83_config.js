@@ -1,1 +1,1 @@
-var mnemonic = "eager inch catalog spoil dad broken pride supply someone defy endorse snake";
+var mnemonic = "ten pitch tunnel rib mixture brief stage chase limb spatial tray maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire lyrics grocery excess country donate remember blame exclude novel trap rate";
+var mnemonic = "element fame east donkey laundry space chest cave give endorse double magnet";

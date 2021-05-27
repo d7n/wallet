@@ -1,1 +1,1 @@
-var mnemonic = "side fury doll empty tomato text lion sight adjust enjoy outside lake";
+var mnemonic = "wild funny return wrestle electric fish venture priority food clarify soft senior";

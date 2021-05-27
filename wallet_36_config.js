@@ -1,1 +1,1 @@
-var mnemonic = "relief replace clay book unhappy dwarf intact display gold differ address jewel";
+var mnemonic = "blame ozone prevent arena tiger leaf arch luxury accuse fog canal fox";

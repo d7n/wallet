@@ -1,1 +1,1 @@
-var mnemonic = "future someone island brass cruel swap deposit already inhale busy garbage sphere";
+var mnemonic = "distance addict escape news answer grief yellow differ duck maximum wing security";

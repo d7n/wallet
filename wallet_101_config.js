@@ -1,1 +1,1 @@
-var mnemonic = "mixture friend lemon field month cart evil cigar cheese smooth knee silly";
+var mnemonic = "gap manage swarm panda approve baby dove old base mesh remove frequent";

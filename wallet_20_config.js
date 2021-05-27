@@ -1,1 +1,1 @@
-var mnemonic = "liberty purchase stock tip parent execute apple bar error together margin ceiling";
+var mnemonic = "culture good mask walnut polar visual glare remove demand boost try embrace";

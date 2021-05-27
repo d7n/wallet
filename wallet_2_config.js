@@ -1,1 +1,1 @@
-var mnemonic = "region salmon behave soldier obvious knock water orient trophy pretty sauce dust";
+var mnemonic = "convince put settle frost relief lift catalog dawn armed pattern must plastic";

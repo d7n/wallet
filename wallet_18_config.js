@@ -1,1 +1,1 @@
-var mnemonic = "globe lend paper chef novel half believe token tired wedding tell power";
+var mnemonic = "curious kite ostrich body accuse pipe nothing silver census major ten fit";

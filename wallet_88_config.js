@@ -1,1 +1,1 @@
-var mnemonic = "afraid light evidence drama citizen ladder bounce sign since field race deal";
+var mnemonic = "dinosaur often marriage armor cream pitch hidden deal camp steel margin kidney";

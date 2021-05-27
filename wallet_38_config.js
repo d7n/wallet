@@ -1,1 +1,1 @@
-var mnemonic = "shaft orient undo radio slice nature wrestle section rely donor frost random";
+var mnemonic = "crane estate hub jar when catalog draft print cinnamon track box spray";

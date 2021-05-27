@@ -1,1 +1,1 @@
-var mnemonic = "finger field various middle road aim shaft whale input answer slide light";
+var mnemonic = "call toast milk million envelope supreme census rhythm run moral shove believe";

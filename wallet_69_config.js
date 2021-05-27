@@ -1,1 +1,1 @@
-var mnemonic = "win ivory word swap around whisper edge outer improve alien addict dynamic";
+var mnemonic = "melt fish ritual stereo leg banana shy lesson cup bachelor column snow";

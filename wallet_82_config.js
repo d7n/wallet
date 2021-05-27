@@ -1,1 +1,1 @@
-var mnemonic = "wrap donate raccoon noodle more potato region panel text rather bonus swear";
+var mnemonic = "velvet double sort recipe derive oil method pattern sense equip collect idea";

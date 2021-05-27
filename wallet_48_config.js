@@ -1,1 +1,1 @@
-var mnemonic = "alert pond anger room benefit collect tenant crucial rare either tennis add";
+var mnemonic = "eye mushroom swift input warfare culture orange giggle garlic erupt way pipe";

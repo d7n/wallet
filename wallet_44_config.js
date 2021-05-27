@@ -1,1 +1,1 @@
-var mnemonic = "riot mansion toe assume skin debate crisp infant such creek spike column";
+var mnemonic = "case drift inspire unfair castle now ignore tomorrow outdoor survey gap wage";

@@ -1,1 +1,1 @@
-var mnemonic = "secret argue before table vintage slogan sea afford breeze thing cube lounge";
+var mnemonic = "pride exchange zone chapter wine decline flash maid soft volcano lab hospital";

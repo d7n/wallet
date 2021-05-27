@@ -1,1 +1,1 @@
-var mnemonic = "two segment excite this pizza dutch climb dance mesh book wrap merge";
+var mnemonic = "note senior wise letter script unusual permit frame one skate kingdom rubber";

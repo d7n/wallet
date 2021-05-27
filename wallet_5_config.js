@@ -1,1 +1,1 @@
-var mnemonic = "route ketchup tree cancel media honey busy tuna patch veteran unlock bulb";
+var mnemonic = "gloom wolf inquiry vapor deer fuel degree magnet scare edge game robust";

@@ -1,1 +1,1 @@
-var mnemonic = "depend column sponsor depth account debate version family segment spoon wolf drift";
+var mnemonic = "swift peasant betray rural honey sign extra hurry rebuild shield exile near";

@@ -1,1 +1,1 @@
-var mnemonic = "civil edge monster wide expect follow mirror emotion cheap ice arena damp";
+var mnemonic = "leg end rug spoon slender half lamp orient canyon prison husband mutual";

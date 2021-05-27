@@ -1,1 +1,1 @@
-var mnemonic = "easily sea master funny flock ginger upon concert theme sausage clay office";
+var mnemonic = "unaware nurse rib oval acquire neglect strike yard banana process outdoor win";

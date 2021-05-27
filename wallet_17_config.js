@@ -1,1 +1,1 @@
-var mnemonic = "survey disagree jungle menu rebel box shove old grain club employ sponsor";
+var mnemonic = "curious strike brief vocal miracle neglect edit viable aim payment lobster horror";

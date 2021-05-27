@@ -1,1 +1,1 @@
-var mnemonic = "wide pond educate wreck scorpion cliff speak music pause wink arrange web";
+var mnemonic = "virtual observe private where convince remind butter orange south pill online excuse";

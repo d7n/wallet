@@ -1,1 +1,1 @@
-var mnemonic = "allow fan engage shaft melody property stable menu sweet gentle badge clinic";
+var mnemonic = "merge ensure kind shoot crime ritual people anxiety chicken grass unable shuffle";

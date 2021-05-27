@@ -1,1 +1,1 @@
-var mnemonic = "cannon peasant elegant abandon inherit relief link auction because federal check staff";
+var mnemonic = "idea pipe deer turtle access wave fringe normal art place transfer blame";

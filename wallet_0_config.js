@@ -1,1 +1,1 @@
-var mnemonic = "survey giraffe exhibit strike edge please suggest material hello banner skirt impulse";
+var mnemonic = "mixture owner spike spare festival absurd jacket brother various blush van dish";

@@ -1,1 +1,1 @@
-var mnemonic = "urge crazy elder happy knee torch infant addict guilt never caught access";
+var mnemonic = "vacuum beef odor gossip unhappy february shove answer sniff spell amazing misery";

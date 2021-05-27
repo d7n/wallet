@@ -1,1 +1,1 @@
-var mnemonic = "liberty harbor supply fever future fabric bless february merit ethics cherry height";
+var mnemonic = "duck order magic dust action alien wonder panel vicious casual citizen pact";

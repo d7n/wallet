@@ -1,1 +1,1 @@
-var mnemonic = "scare slice fiber lock yard during toy wage slim fatal bridge prison";
+var mnemonic = "quote narrow warfare enact retire civil stuff absent later furnace earn arm";

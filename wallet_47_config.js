@@ -1,1 +1,1 @@
-var mnemonic = "solar blue swallow cereal crew oyster small urge view craft over fiction";
+var mnemonic = "island happy easy balance bullet diary salute just obvious swap clean paddle";

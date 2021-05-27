@@ -1,1 +1,1 @@
-var mnemonic = "public solar decline lion loyal priority square expect health minimum supply tiny";
+var mnemonic = "pretty insect cargo wood bridge spoon misery amount refuse curve vapor win";

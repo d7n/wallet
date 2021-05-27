@@ -1,1 +1,1 @@
-var mnemonic = "try when sniff hamster kiwi prosper diary term tail coconut floor flock";
+var mnemonic = "planet topple always define bargain about report upon into lamp guide social";

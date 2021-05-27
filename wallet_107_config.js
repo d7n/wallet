@@ -1,1 +1,1 @@
-var mnemonic = "eager air travel female fantasy stomach own repeat total oblige smile clay";
+var mnemonic = "tower expose wear dance pumpkin repair cup fresh promote bicycle print dizzy";

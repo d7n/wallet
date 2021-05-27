@@ -1,1 +1,1 @@
-var mnemonic = "giraffe chef notice final birth asset novel display genuine orange siege conduct";
+var mnemonic = "connect nephew anchor liberty margin wish estate wild bachelor diesel sense first";

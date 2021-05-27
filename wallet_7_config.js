@@ -1,1 +1,1 @@
-var mnemonic = "narrow biology excite search script senior arrow will praise april athlete attack";
+var mnemonic = "icon forum allow breeze hire help sponsor laugh fine patrol afford creek";

@@ -1,1 +1,1 @@
-var mnemonic = "case gasp invest under success much add diet blast item radar nasty";
+var mnemonic = "improve satisfy execute guard claim method retreat enter melody bean young south";

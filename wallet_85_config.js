@@ -1,1 +1,1 @@
-var mnemonic = "high right pitch visual valve cradle vote embody spray scene shuffle try";
+var mnemonic = "message giraffe carbon film alpha echo salmon neglect height choice want luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger foster harbor cigar clog assault senior purity ceiling step dove west";
+var mnemonic = "verb glow image perfect explain muffin floor asset biology salmon inquiry master";

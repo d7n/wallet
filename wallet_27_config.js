@@ -1,1 +1,1 @@
-var mnemonic = "occur can solution drama life glimpse fragile weasel setup screen rough neutral";
+var mnemonic = "current hill vote super planet want rotate trophy multiply addict camera churn";

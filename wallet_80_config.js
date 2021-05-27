@@ -1,1 +1,1 @@
-var mnemonic = "parade excess meadow test damp maximum angry wage nurse thank fatal strike";
+var mnemonic = "mother air cluster brother same mom hand include good embody struggle sentence";

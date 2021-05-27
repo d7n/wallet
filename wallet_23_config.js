@@ -1,1 +1,1 @@
-var mnemonic = "puppy urban peace book special answer extend loan cry industry artefact race";
+var mnemonic = "onion insect poet insect inspire portion lumber pole frown remove song video";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics tone kingdom swim donor nuclear kick receive desk surprise birth wait";
+var mnemonic = "process excite tornado one hurdle room fire fix saddle answer lens exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "frog stable pull patient vast combine reduce ship candy desert material fury";
+var mnemonic = "shy ketchup air impact awkward session large sorry scale wish letter frequent";

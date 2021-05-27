@@ -1,1 +1,1 @@
-var mnemonic = "awkward nation spoon grid liberty wheat trip describe before regular couch labor";
+var mnemonic = "chalk twin off love raven trophy advance stool erase copy enroll elder";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten satisfy false solid silly cricket person tide tunnel camera dress sugar";
+var mnemonic = "object move song demand stereo midnight success cotton dinosaur lizard fee ready";

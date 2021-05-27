@@ -1,1 +1,1 @@
-var mnemonic = "stock guitar gift knock mechanic auto coin spider curve bid mean swamp";
+var mnemonic = "bonus display shed injury chuckle ability razor orange nut seek forward fluid";

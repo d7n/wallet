@@ -1,1 +1,1 @@
-var mnemonic = "sugar pottery end copper squirrel medal battle beef zoo iron install invite";
+var mnemonic = "game curtain eye turkey clinic fatigue laptop abstract car monkey chat valid";

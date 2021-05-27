@@ -1,1 +1,1 @@
-var mnemonic = "round angry mind equip disorder kit dust poem guard auction skull crouch";
+var mnemonic = "vacant around merge require orchard broom maple screen matter forward dove aunt";

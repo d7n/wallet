@@ -1,1 +1,1 @@
-var mnemonic = "key empty solve skull strategy tuition finger artwork scout hidden crater runway";
+var mnemonic = "stone pen theme multiply evil mimic mirror either clarify vacant sad dune";

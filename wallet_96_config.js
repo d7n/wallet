@@ -1,1 +1,1 @@
-var mnemonic = "twin candy trial virtual banner fiscal object twin allow fragile zone cross";
+var mnemonic = "tomato vessel olympic piano snow obvious settle stadium end water civil copper";

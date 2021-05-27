@@ -1,1 +1,1 @@
-var mnemonic = "decide ship affair mail intact small local when quarter draft second stuff";
+var mnemonic = "boat faculty nasty van soup paddle feature zebra remain between wet simple";

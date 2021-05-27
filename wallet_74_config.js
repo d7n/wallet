@@ -1,1 +1,1 @@
-var mnemonic = "manual history tooth repair athlete action leaf parent box vote pencil since";
+var mnemonic = "rifle index fade hurt carry memory catalog palace damage middle mom during";

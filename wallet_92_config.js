@@ -1,1 +1,1 @@
-var mnemonic = "pride idea across client tool ski exchange again potato laundry funny maple";
+var mnemonic = "room deliver order inform rotate hidden you exotic motion drill attend army";

@@ -1,1 +1,1 @@
-var mnemonic = "manage remind fancy vital close resist truly void reward worry void road";
+var mnemonic = "rather rocket chicken endorse expect demise grunt onion misery amateur develop travel";

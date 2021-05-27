@@ -1,1 +1,1 @@
-var mnemonic = "between good attack half denial provide tray direct combine mistake shy arrange";
+var mnemonic = "limit aim bring busy tuition protect grid silent glow until exact lawsuit";

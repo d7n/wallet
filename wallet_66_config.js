@@ -1,1 +1,1 @@
-var mnemonic = "topic kiss stuff help spy summer shiver gesture athlete define buddy vague";
+var mnemonic = "agree release shallow speed damage rally response inch ranch style demand picnic";

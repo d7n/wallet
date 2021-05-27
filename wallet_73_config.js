@@ -1,1 +1,1 @@
-var mnemonic = "anchor road series protect amount universe wedding unhappy area oxygen banner play";
+var mnemonic = "legend glare vibrant property opera stairs bike mountain trick blue satisfy medal";

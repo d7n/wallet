@@ -1,1 +1,1 @@
-var mnemonic = "cricket pistol correct bunker police fetch symptom stove raven million consider cross";
+var mnemonic = "history dry diet crowd hedgehog increase sausage romance cotton cage clever sheriff";

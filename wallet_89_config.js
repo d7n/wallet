@@ -1,1 +1,1 @@
-var mnemonic = "sustain august olympic real soft flip amateur wrestle pink satoshi agree jeans";
+var mnemonic = "sweet earth elevator cotton clutch differ then cement earth program member sausage";
