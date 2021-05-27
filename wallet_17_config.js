@@ -1,1 +1,1 @@
-var mnemonic = "journey duck buyer borrow stem finger iron arrive bless smart derive blanket";
+var mnemonic = "pistol basket desk outer drop broom elite crisp number move polar clap";

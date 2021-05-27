@@ -1,1 +1,1 @@
-var mnemonic = "daughter brisk mean banner swear upset crucial post woman party program dawn";
+var mnemonic = "indicate tell crowd desk candy pink gap history sun what youth device";

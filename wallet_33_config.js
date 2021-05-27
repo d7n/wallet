@@ -1,1 +1,1 @@
-var mnemonic = "inhale dust joke visa loan duty artefact lazy online scare portion solid";
+var mnemonic = "era gather stumble option appear waste dance angry abuse attack shoot narrow";

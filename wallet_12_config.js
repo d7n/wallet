@@ -1,1 +1,1 @@
-var mnemonic = "mixture swear tourist garlic health other robot broccoli unknown oil primary moment";
+var mnemonic = "rough become promote canvas budget two inject lend conduct screen scrap major";

@@ -1,1 +1,1 @@
-var mnemonic = "install basket radar crime symbol nut goddess gentle cannon galaxy area neck";
+var mnemonic = "jelly bread pattern pupil frog chair ocean output danger vintage vapor grass";

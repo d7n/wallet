@@ -1,1 +1,1 @@
-var mnemonic = "tourist boring above rebuild decrease wrong lock name invite trophy hammer coil";
+var mnemonic = "neglect youth benefit raccoon sleep clutch rally hurt morning miss lock used";

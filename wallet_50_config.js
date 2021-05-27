@@ -1,1 +1,1 @@
-var mnemonic = "speed blue pitch exhaust nasty spawn water camp hunt session tiny trim";
+var mnemonic = "history maid rule quote circle friend major child umbrella drive steak sustain";

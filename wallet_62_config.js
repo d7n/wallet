@@ -1,1 +1,1 @@
-var mnemonic = "dress when wine model board raw senior theory cause endorse catalog grunt";
+var mnemonic = "oxygen dismiss subway cheap faith north soon vehicle wheat rifle library damp";

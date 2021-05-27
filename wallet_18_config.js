@@ -1,1 +1,1 @@
-var mnemonic = "awake rookie bid order fork twist uphold edge account people goddess divert";
+var mnemonic = "oppose dance visa dynamic happy release only organ child sing together between";

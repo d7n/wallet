@@ -1,1 +1,1 @@
-var mnemonic = "remain army solid shift nominee arm usage tube proud pilot answer clog";
+var mnemonic = "company neck arrive hawk turtle response loan antique boy park square swamp";

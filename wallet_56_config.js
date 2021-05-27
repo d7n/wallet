@@ -1,1 +1,1 @@
-var mnemonic = "skirt door tribe drastic tide now regular wise lift scale garage transfer";
+var mnemonic = "bonus avocado salmon give canal popular pulse exile govern foil box bone";

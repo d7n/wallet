@@ -1,1 +1,1 @@
-var mnemonic = "adult media nerve include describe soccer pigeon adult ramp sniff cool veteran";
+var mnemonic = "vocal give drink captain engine capital spend before orphan helmet junior knock";

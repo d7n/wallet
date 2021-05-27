@@ -1,1 +1,1 @@
-var mnemonic = "cancel resist holiday bulk mind fish hill exercise travel need culture old";
+var mnemonic = "kit mercy ship slam jaguar quarter margin describe vapor yard fever maid";

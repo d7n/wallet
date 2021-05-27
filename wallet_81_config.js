@@ -1,1 +1,1 @@
-var mnemonic = "early setup miracle another turkey supreme help valve case keen pride twin";
+var mnemonic = "ugly wide love worry boring moon spatial zero switch sight acquire major";

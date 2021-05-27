@@ -1,1 +1,1 @@
-var mnemonic = "calm weapon minute distance alone rifle firm breeze skull exotic domain uphold";
+var mnemonic = "pupil rubber force increase torch business razor dentist toward tenant hair test";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze total drink tray hazard eye rare dumb lamp grape journey midnight";
+var mnemonic = "tip dynamic people copy shaft advance they gospel narrow tissue aerobic bachelor";

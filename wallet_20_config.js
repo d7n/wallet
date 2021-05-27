@@ -1,1 +1,1 @@
-var mnemonic = "eye else tent flat comfort shove evil coffee century liberty canvas marble";
+var mnemonic = "vapor trash doctor proud anxiety trap ability abstract column april mango suffer";

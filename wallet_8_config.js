@@ -1,1 +1,1 @@
-var mnemonic = "brisk speak uncle fragile enter lizard north farm dove pattern develop culture";
+var mnemonic = "siege enrich law donor timber solve program scan announce panther increase weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican company brass sudden tube obtain wheat start lesson jungle ankle major";
+var mnemonic = "domain cattle reject ethics wasp sniff spirit problem pilot battle write duty";

@@ -1,1 +1,1 @@
-var mnemonic = "asset cream yard sample hill tail exit convince ethics subway token blade";
+var mnemonic = "edge trash leopard vanish benefit idle market robust belt copper until salmon";

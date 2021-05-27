@@ -1,1 +1,1 @@
-var mnemonic = "patrol sniff rich spend wife snake inquiry quick canoe donkey length tunnel";
+var mnemonic = "proof glad save narrow organ fly correct myth clutch dove web basic";

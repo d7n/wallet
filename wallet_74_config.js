@@ -1,1 +1,1 @@
-var mnemonic = "face reduce blossom kiwi insect armed aerobic dilemma poet develop need shuffle";
+var mnemonic = "piano display pumpkin direct special square zebra useless advice choice library prize";

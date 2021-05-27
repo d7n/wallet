@@ -1,1 +1,1 @@
-var mnemonic = "alcohol hunt robust harsh banner great trumpet brain version pipe shoot nature";
+var mnemonic = "immune chalk sudden wait cost plug pledge erode donor echo combine bottom";

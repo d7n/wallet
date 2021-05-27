@@ -1,1 +1,1 @@
-var mnemonic = "stairs load pitch matrix demise black assume manual topic popular error enable";
+var mnemonic = "seminar jazz kit crowd lesson laundry egg garage tuition ride cabbage popular";

@@ -1,1 +1,1 @@
-var mnemonic = "sport tumble roast blame barrel artwork hint canal lobster into trumpet squeeze";
+var mnemonic = "tired radio old glad cotton picture glory toast slow fortune pelican melt";

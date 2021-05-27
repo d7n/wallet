@@ -1,1 +1,1 @@
-var mnemonic = "laundry defy exile coyote all race arrow alien excite cricket spider bottom";
+var mnemonic = "great ensure school blossom inside episode title omit desert kitten reveal debate";

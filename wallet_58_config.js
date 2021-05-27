@@ -1,1 +1,1 @@
-var mnemonic = "canal cement walnut fatal squeeze patch roof chaos bounce copy hello thunder";
+var mnemonic = "indicate come menu sudden genius receive wide clutch toilet object infant hawk";

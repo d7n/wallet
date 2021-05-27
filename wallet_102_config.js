@@ -1,1 +1,1 @@
-var mnemonic = "later huge fever solid blood flight faint rural aerobic knock whip reflect";
+var mnemonic = "guitar raven soccer allow trade moment exact pioneer leopard wedding sadness future";

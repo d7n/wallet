@@ -1,1 +1,1 @@
-var mnemonic = "coral there diagram faint empower pulse ranch reopen dove error jeans require";
+var mnemonic = "aim mammal expand uncover prison clump illegal wreck fish original visa ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "useless vocal risk ribbon view diet subway youth frost midnight blame release";
+var mnemonic = "cake subway crush quality unaware office science season permit spin fork forget";

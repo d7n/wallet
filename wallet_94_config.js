@@ -1,1 +1,1 @@
-var mnemonic = "fox dismiss other math gentle doll truck mail point word destroy luggage";
+var mnemonic = "marble jeans reduce gentle fence march smooth flee acquire trial text eagle";

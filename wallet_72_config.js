@@ -1,1 +1,1 @@
-var mnemonic = "fatigue property theme grain story hold claw crumble visual magnet orange wild";
+var mnemonic = "diet identify stay mimic illegal funny pigeon tunnel draw fold near satoshi";

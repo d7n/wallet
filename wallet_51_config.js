@@ -1,1 +1,1 @@
-var mnemonic = "buffalo desert truth dose asset gallery deal property wild brief engine protect";
+var mnemonic = "lock eagle wage turkey remind true fun noble response leaf party summer";

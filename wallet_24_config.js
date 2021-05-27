@@ -1,1 +1,1 @@
-var mnemonic = "cram act hotel kitten answer velvet video pumpkin shoulder negative fiction tired";
+var mnemonic = "hint debris bitter design cement happy cycle quote will battle loop mushroom";

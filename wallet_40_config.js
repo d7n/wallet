@@ -1,1 +1,1 @@
-var mnemonic = "harsh captain victory gorilla render nominee act clip sibling double dial news";
+var mnemonic = "flip soft above elder pitch moral knock village hobby ostrich above riot";

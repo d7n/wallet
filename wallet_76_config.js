@@ -1,1 +1,1 @@
-var mnemonic = "prefer earn eight vendor cricket olive bean vault extra crucial wife sense";
+var mnemonic = "lecture annual caught found tumble loan diet strategy catch speed work tackle";

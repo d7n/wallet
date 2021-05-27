@@ -1,1 +1,1 @@
-var mnemonic = "across carbon rare hire spider patrol awful bachelor stomach slim nature gym";
+var mnemonic = "pitch burden zero very long banner used tobacco laugh young barely rail";

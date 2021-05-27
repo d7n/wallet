@@ -1,1 +1,1 @@
-var mnemonic = "slot one only blanket invite confirm flame loud lens giggle shrug today";
+var mnemonic = "vapor fancy few burst exhaust gas wrap denial tell help seven paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "popular gossip vote cute blind museum bean squirrel wish town core slide";
+var mnemonic = "scheme blind chronic ignore lonely antenna today cross magic genre middle such";

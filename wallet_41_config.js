@@ -1,1 +1,1 @@
-var mnemonic = "such chat slam ride layer reform extra either blouse steel speed lion";
+var mnemonic = "hollow typical roof axis program wine night keep loyal ethics tail silent";

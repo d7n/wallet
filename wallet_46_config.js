@@ -1,1 +1,1 @@
-var mnemonic = "inspire online argue apology hurt flower jar anxiety sudden crisp canal tribe";
+var mnemonic = "monkey auction ginger zone acquire merry ill simple exact denial method fresh";

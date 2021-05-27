@@ -1,1 +1,1 @@
-var mnemonic = "broccoli walnut adjust exhibit sample fluid denial online nest myself shove obvious";
+var mnemonic = "deny drastic order suffer assault coffee huge torch ability smoke system project";

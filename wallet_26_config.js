@@ -1,1 +1,1 @@
-var mnemonic = "accuse diesel fever plug level nature camp page modify run unfold forest";
+var mnemonic = "corn amount industry crack render novel refuse cancel aisle delay turkey usual";

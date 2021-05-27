@@ -1,1 +1,1 @@
-var mnemonic = "blame reason camp enhance sunny erase corn arrow sword rotate few cloud";
+var mnemonic = "hobby security fog kick shove occur cute party fury awkward photo exercise";

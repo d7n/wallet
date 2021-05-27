@@ -1,1 +1,1 @@
-var mnemonic = "myth match together quote sand endless ride advice trouble elder similar source";
+var mnemonic = "raw grit index shell into zone brand hair bread pepper input insect";

@@ -1,1 +1,1 @@
-var mnemonic = "way scare together crowd shrimp frown gun vicious monkey shy cactus wall";
+var mnemonic = "process into polar modify furnace exhibit approve park sunny what toast never";

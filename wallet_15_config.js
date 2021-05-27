@@ -1,1 +1,1 @@
-var mnemonic = "logic entry raw lizard wait blind radio unlock traffic measure velvet canoe";
+var mnemonic = "unaware nurse spy weird crouch trip spare rifle creek apology blind key";

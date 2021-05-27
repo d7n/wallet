@@ -1,1 +1,1 @@
-var mnemonic = "steel daring owner have vague curious assume obvious between reveal few banner";
+var mnemonic = "attitude phone proud exile cradle explain lonely veteran isolate whisper bulk adult";

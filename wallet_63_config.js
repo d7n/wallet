@@ -1,1 +1,1 @@
-var mnemonic = "flavor south exclude warrior reduce nice action seat consider intact immense snack";
+var mnemonic = "spread match mad climb short skin poem level special bargain suggest east";

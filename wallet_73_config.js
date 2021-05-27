@@ -1,1 +1,1 @@
-var mnemonic = "program entry market drastic horror gate offer box able tip pigeon cinnamon";
+var mnemonic = "time lecture source paddle giggle provide key lottery vivid snap canal garment";

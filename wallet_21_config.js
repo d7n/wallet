@@ -1,1 +1,1 @@
-var mnemonic = "front act soul write ripple absurd mule fringe off valve school luggage";
+var mnemonic = "patch forward nothing envelope jazz slender thrive powder next poem matter travel";

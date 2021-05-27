@@ -1,1 +1,1 @@
-var mnemonic = "title right wink prefer embrace filter over roof mixture room possible forum";
+var mnemonic = "extend recycle page member negative mouse minor later zero story dentist obvious";

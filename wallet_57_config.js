@@ -1,1 +1,1 @@
-var mnemonic = "remind unaware reunion flee private long suffer mean cake organ earn film";
+var mnemonic = "misery poet world used hat place gravity liquid because document unaware lend";

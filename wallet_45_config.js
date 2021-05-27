@@ -1,1 +1,1 @@
-var mnemonic = "girl poet army tourist whale stumble phone walk boss pizza peace birth";
+var mnemonic = "device save lyrics crime double scrap pull prosper exchange glow huge turkey";

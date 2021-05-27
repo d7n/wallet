@@ -1,1 +1,1 @@
-var mnemonic = "arrange sentence begin soul learn voyage joke timber resemble topic child humble";
+var mnemonic = "rifle edit margin unfair wealth field engine square supreme install course nut";

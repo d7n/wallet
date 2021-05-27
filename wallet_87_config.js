@@ -1,1 +1,1 @@
-var mnemonic = "proof loan cube service jaguar liberty volume caution pepper another grape floor";
+var mnemonic = "phone believe across viable arrest strategy about absurd stumble during describe foster";

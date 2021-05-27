@@ -1,1 +1,1 @@
-var mnemonic = "job edit year fly whisper illegal wrist image chimney update master trust";
+var mnemonic = "illness tissue culture rare donate vicious immune round able learn funny ship";

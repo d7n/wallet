@@ -1,1 +1,1 @@
-var mnemonic = "toast advice shiver wing twice enforce hurry tower vibrant crowd victory crane";
+var mnemonic = "pupil portion segment evil round orphan ocean present talk cave soup afford";

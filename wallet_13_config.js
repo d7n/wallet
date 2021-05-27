@@ -1,1 +1,1 @@
-var mnemonic = "appear battle grain boost cupboard hurry pond pistol wreck melt diary slush";
+var mnemonic = "net envelope slot fan power vanish dream select excite pact repeat sock";

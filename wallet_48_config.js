@@ -1,1 +1,1 @@
-var mnemonic = "spread loop song subway hen solve stomach mom cage only always solid";
+var mnemonic = "december inflict penalty excuse economy test enhance twelve alone census power crane";

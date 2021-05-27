@@ -1,1 +1,1 @@
-var mnemonic = "beach express diary soap upon flush hair issue urban wash embark turkey";
+var mnemonic = "video seek affair black fortune trophy news helmet picture cotton result father";

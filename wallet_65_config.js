@@ -1,1 +1,1 @@
-var mnemonic = "erase jazz giant evoke until purity glare brand exotic combine salon prefer";
+var mnemonic = "lecture meadow blanket shield educate wise where drum party giggle globe together";

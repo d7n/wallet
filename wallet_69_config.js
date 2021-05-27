@@ -1,1 +1,1 @@
-var mnemonic = "material board stone call unique access avocado still again charge gym birth";
+var mnemonic = "dynamic hand alert used excite wave cream unfair body fever position evolve";

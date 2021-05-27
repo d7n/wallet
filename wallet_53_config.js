@@ -1,1 +1,1 @@
-var mnemonic = "hood foil unhappy spell banner amateur autumn cram ocean scrap alter easy";
+var mnemonic = "example banana twin burst wink leaf whale castle proud width inject abuse";

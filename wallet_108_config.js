@@ -1,1 +1,1 @@
-var mnemonic = "high frost purity brass kidney brave harbor solution network entire rival staff";
+var mnemonic = "fun child apology shell frost artwork physical slide evil tilt visa aunt";

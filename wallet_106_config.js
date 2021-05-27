@@ -1,1 +1,1 @@
-var mnemonic = "next submit alcohol audit taste property radar result minimum electric push ketchup";
+var mnemonic = "soft rib salute belt envelope kiss entire under shuffle all draw either";

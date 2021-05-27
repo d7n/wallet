@@ -1,1 +1,1 @@
-var mnemonic = "capable eternal pigeon alley valid season limb hazard car habit energy effort";
+var mnemonic = "cave grow relief face foot forward ceiling round purpose kit trumpet medal";

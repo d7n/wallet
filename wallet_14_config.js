@@ -1,1 +1,1 @@
-var mnemonic = "treat picnic toss reduce buddy tourist narrow second drink goose pony glad";
+var mnemonic = "tomorrow purse relax all absorb mountain material kiss album file tornado bridge";

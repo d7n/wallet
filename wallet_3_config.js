@@ -1,1 +1,1 @@
-var mnemonic = "talent tunnel vote globe leaf wrist version position casino sell chat clutch";
+var mnemonic = "knock winter split gold unhappy clap denial use act club clock under";

@@ -1,1 +1,1 @@
-var mnemonic = "crane supreme country render word brown amount false dizzy diamond give wife";
+var mnemonic = "parrot unveil jaguar injury rifle save retreat tortoise rapid addict hurry crack";

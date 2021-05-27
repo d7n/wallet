@@ -1,1 +1,1 @@
-var mnemonic = "pipe tower near voice select ankle addict wasp fortune actual tunnel issue";
+var mnemonic = "pond rain wheel convince wish silk rack clarify oil next immense ring";

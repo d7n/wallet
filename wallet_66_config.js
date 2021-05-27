@@ -1,1 +1,1 @@
-var mnemonic = "panther myself cart slam salute essence detect snap domain first blossom cute";
+var mnemonic = "silent tomato toilet arrive ice intact utility near inside quick exit year";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly appear oxygen pact tunnel flag bird reason hundred joy dolphin celery";
+var mnemonic = "shy depth puzzle hat stool orbit try depth wise kiwi story fresh";

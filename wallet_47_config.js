@@ -1,1 +1,1 @@
-var mnemonic = "mad short effort rural run soul main dish napkin bird fatal task";
+var mnemonic = "jewel dutch sausage benefit brother weird aerobic day party dilemma bounce then";

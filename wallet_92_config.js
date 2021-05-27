@@ -1,1 +1,1 @@
-var mnemonic = "tornado animal soldier punch view exile pepper tape mention like farm mechanic";
+var mnemonic = "pen setup trap penalty start flush miss error priority crisp elevator icon";

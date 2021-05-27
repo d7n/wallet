@@ -1,1 +1,1 @@
-var mnemonic = "spell multiply clever guide slice blame trick voice maid will airport night";
+var mnemonic = "solar wash flock body metal fire hobby broom pull jeans machine news";

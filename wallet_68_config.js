@@ -1,1 +1,1 @@
-var mnemonic = "siege price tree demise april capable analyst lecture soft february excuse build";
+var mnemonic = "destroy favorite deputy carbon online anchor install movie dizzy beef siren flash";

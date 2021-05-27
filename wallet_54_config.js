@@ -1,1 +1,1 @@
-var mnemonic = "space script mass know seat zero during rotate little crowd blouse horror";
+var mnemonic = "congress duty capital fall lecture kidney bicycle ramp demand clerk umbrella glimpse";

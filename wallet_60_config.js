@@ -1,1 +1,1 @@
-var mnemonic = "mobile approve dice culture replace despair frozen blast grief weasel copper like";
+var mnemonic = "monitor can boring second scrub predict hard gold curve cabin cheese nest";

@@ -1,1 +1,1 @@
-var mnemonic = "one file memory purchase federal credit chaos skill mule nothing carpet inspire";
+var mnemonic = "essay leader hold city error wedding mobile picture solar inflict tail student";

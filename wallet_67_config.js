@@ -1,1 +1,1 @@
-var mnemonic = "clean myth employ that priority aware print salt beef copy afraid immune";
+var mnemonic = "pair captain sunset school west wasp deal athlete urge trick one nature";

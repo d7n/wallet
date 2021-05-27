@@ -1,1 +1,1 @@
-var mnemonic = "ready casual stool fringe trade demise install praise little inhale talk together";
+var mnemonic = "assault pelican tide betray creek wheel only follow disease jeans crystal arena";

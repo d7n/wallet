@@ -1,1 +1,1 @@
-var mnemonic = "machine primary casino act ordinary faith federal spatial only predict inform improve";
+var mnemonic = "dizzy kid winter six pottery sketch virtual imitate bullet robot icon bus";

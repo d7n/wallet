@@ -1,1 +1,1 @@
-var mnemonic = "vendor meadow awake piano receive nerve half buzz crush capital rally swarm";
+var mnemonic = "confirm song buzz health local oyster human echo umbrella slush initial shallow";

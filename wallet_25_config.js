@@ -1,1 +1,1 @@
-var mnemonic = "venture tank relax upset turtle thunder crack attract define floor famous speed";
+var mnemonic = "yellow glass verb ignore target execute mix rural attack glory wrap now";

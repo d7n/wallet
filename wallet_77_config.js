@@ -1,1 +1,1 @@
-var mnemonic = "grief tomato favorite alcohol column cattle under manual goat vendor load rose";
+var mnemonic = "because primary dash lumber scout lucky scrub idle gold bike mom ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "social arrest select pride frog version dish about hub umbrella rapid icon";
+var mnemonic = "enrich wood party pottery antique sport hammer insane absurd enroll journey beauty";

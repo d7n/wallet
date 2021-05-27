@@ -1,1 +1,1 @@
-var mnemonic = "wild desert wall pill coach swarm dwarf grunt loud federal title tide";
+var mnemonic = "shiver index leg swift left material flower acoustic truly sweet metal enable";

@@ -1,1 +1,1 @@
-var mnemonic = "audit wing cute note romance country diamond smoke dwarf ensure trip spread";
+var mnemonic = "polar lady smooth prize oil this trouble edit question gospel season hand";

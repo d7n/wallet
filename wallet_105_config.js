@@ -1,1 +1,1 @@
-var mnemonic = "hill crime word metal pitch erosion fresh south hire shed kitten used";
+var mnemonic = "obvious seven brief abstract peasant make transfer share stock pelican cherry police";

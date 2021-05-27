@@ -1,1 +1,1 @@
-var mnemonic = "ready hen easy search tortoise fame whale mask rail dismiss main patch";
+var mnemonic = "report eyebrow enhance salad anger cancel glove forum run apology defense fog";
