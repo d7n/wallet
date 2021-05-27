@@ -1,1 +1,1 @@
-var mnemonic = "duty end tunnel bullet sample economy wet feature defense wall ritual unhappy";
+var mnemonic = "behave razor write dream page basic alley sustain element cargo life rule";

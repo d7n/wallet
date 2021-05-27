@@ -1,1 +1,1 @@
-var mnemonic = "lamp hunt vital sibling muscle flash pitch loan income barely civil area";
+var mnemonic = "fox enforce sail seek people valve morning rice depend doll scrub buffalo";

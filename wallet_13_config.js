@@ -1,1 +1,1 @@
-var mnemonic = "process drink jungle slight inform genre gain inmate dream debris spell team";
+var mnemonic = "champion sport weather rib vendor scale gospel elite drift sound denial position";

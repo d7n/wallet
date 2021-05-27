@@ -1,1 +1,1 @@
-var mnemonic = "piece organ core ankle opinion siege gather jaguar zebra sadness girl shrug";
+var mnemonic = "work earth forest half six salon connect subway hire key elephant crunch";

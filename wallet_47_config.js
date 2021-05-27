@@ -1,1 +1,1 @@
-var mnemonic = "obey transfer omit chief captain cruise hidden cheese junk twist route nothing";
+var mnemonic = "time essence visual undo satoshi code clutch cycle path avocado author morning";

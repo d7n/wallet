@@ -1,1 +1,1 @@
-var mnemonic = "way crouch bitter minimum coast catalog innocent large eye much sense tonight";
+var mnemonic = "lamp click river noodle verify brush spell vehicle young latin swamp nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "bench avoid spend equal camera toward depend vocal danger hospital used extra";
+var mnemonic = "day flight female despair spirit pitch wink lumber staff pluck dust secret";

@@ -1,1 +1,1 @@
-var mnemonic = "because floor pretty hen sniff blanket miss amount kitten yard visa network";
+var mnemonic = "dinosaur seminar chimney battle rabbit vocal usage quote cheese detail hotel extend";

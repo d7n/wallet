@@ -1,1 +1,1 @@
-var mnemonic = "vacant news kangaroo rude want issue material rug bargain fortune cycle acquire";
+var mnemonic = "deny swallow fatigue myth path divide ordinary fantasy gym mind glow adult";

@@ -1,1 +1,1 @@
-var mnemonic = "soon faint stamp pond tone dream rely razor settle race call cabbage";
+var mnemonic = "absorb provide picture work catalog bird local length knee they affair pond";

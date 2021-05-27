@@ -1,1 +1,1 @@
-var mnemonic = "cancel cram use abuse midnight edit visual edit logic course song model";
+var mnemonic = "element lecture famous argue road sugar captain agent art retreat obey mom";

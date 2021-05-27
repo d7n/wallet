@@ -1,1 +1,1 @@
-var mnemonic = "badge another bag banana napkin solve main tribe illness lock rebuild train";
+var mnemonic = "lumber inspire rebuild remember ladder trial echo wise size output talk crazy";

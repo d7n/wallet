@@ -1,1 +1,1 @@
-var mnemonic = "rather anchor split atom one term around super relax arm math length";
+var mnemonic = "april sausage find divorce permit picture one scissors pair gossip model smooth";

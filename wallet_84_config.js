@@ -1,1 +1,1 @@
-var mnemonic = "cage eternal speed pottery bargain property potato cliff blast grab father awake";
+var mnemonic = "detect future clever corn boss potato box rule alarm scatter often firm";

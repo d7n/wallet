@@ -1,1 +1,1 @@
-var mnemonic = "bracket scene armor quiz inflict media response that meadow punch immune beyond";
+var mnemonic = "brand gadget stock scrap inquiry embody grow fury peasant flash shadow field";

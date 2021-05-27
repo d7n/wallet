@@ -1,1 +1,1 @@
-var mnemonic = "absorb rubber lend liberty patch mutual unlock blade throw situate endorse minor";
+var mnemonic = "drive assume spawn half depart cancel forward mix damage lumber sword motion";

@@ -1,1 +1,1 @@
-var mnemonic = "state angle atom fix catch ten village valid build female scene nothing";
+var mnemonic = "inquiry endorse shaft loud supreme biology melody kid trip ostrich retire insect";

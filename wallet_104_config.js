@@ -1,1 +1,1 @@
-var mnemonic = "decline exhibit bargain syrup silent subject draw punch world gauge gown kite";
+var mnemonic = "barrel nephew pen safe vicious exclude machine turkey situate emotion discover kangaroo";

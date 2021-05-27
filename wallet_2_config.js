@@ -1,1 +1,1 @@
-var mnemonic = "father profit absorb quick escape acquire sock negative lazy brief response giggle";
+var mnemonic = "pattern play second network trial young concert hobby around control vital donkey";

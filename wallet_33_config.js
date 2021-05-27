@@ -1,1 +1,1 @@
-var mnemonic = "scrub slam kidney raven butter army chief latin either kind miss apple";
+var mnemonic = "unfair interest direct device family sausage snap receive enter donkey impact domain";

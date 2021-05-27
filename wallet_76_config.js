@@ -1,1 +1,1 @@
-var mnemonic = "gather morning taxi page camera angry crumble title juice lazy stomach light";
+var mnemonic = "close wrestle rival cage when lyrics maze crawl receive rose gun settle";

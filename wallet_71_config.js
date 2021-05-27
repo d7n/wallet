@@ -1,1 +1,1 @@
-var mnemonic = "clean choose rose garage merry canal flee know slab web undo hobby";
+var mnemonic = "invest random broken tissue manual give drum curious april twelve notice liar";

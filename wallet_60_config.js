@@ -1,1 +1,1 @@
-var mnemonic = "glide mandate raise forum task cheese puzzle apart blossom erase comic galaxy";
+var mnemonic = "defense keep govern vault tower artwork diagram moon meat kidney pear hybrid";

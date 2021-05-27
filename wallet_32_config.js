@@ -1,1 +1,1 @@
-var mnemonic = "saddle drift bench people super expect train pizza market acid orient edit";
+var mnemonic = "second black company security visa find follow coil gown call sunny destroy";

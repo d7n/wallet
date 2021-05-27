@@ -1,1 +1,1 @@
-var mnemonic = "tray hunt route adapt aerobic bird loud awkward nominee ivory boat diary";
+var mnemonic = "push acid quantum retreat tell correct park level select cushion glory solution";

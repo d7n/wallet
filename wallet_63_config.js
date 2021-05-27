@@ -1,1 +1,1 @@
-var mnemonic = "access wage smoke transfer bounce lazy grief speed calm wonder buzz frequent";
+var mnemonic = "there mountain pupil kid muscle diet caution organ drum rhythm plunge nominee";

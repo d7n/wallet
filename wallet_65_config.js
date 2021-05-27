@@ -1,1 +1,1 @@
-var mnemonic = "uncle year broken nation alley inflict leaf spread employ garment enter parade";
+var mnemonic = "burst river warm report estate rhythm track supreme rapid boring position truck";

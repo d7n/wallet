@@ -1,1 +1,1 @@
-var mnemonic = "nose grow tuition write expect hat shield document wreck until evidence usual";
+var mnemonic = "cloud surprise month gospel shiver behind tent elephant concert sport unveil region";

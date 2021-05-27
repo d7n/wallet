@@ -1,1 +1,1 @@
-var mnemonic = "witness describe awkward start roast mixture project wrestle degree stand glimpse citizen";
+var mnemonic = "find music grid solution gown ask drastic play urge cake fetch green";

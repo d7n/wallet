@@ -1,1 +1,1 @@
-var mnemonic = "law dawn stage decide sentence sheriff beef ketchup plug weather segment success";
+var mnemonic = "pulp novel rack skirt private present volume cave wagon swap drum plug";

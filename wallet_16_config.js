@@ -1,1 +1,1 @@
-var mnemonic = "web message north stone swim correct science pond any breeze hidden flag";
+var mnemonic = "name clip monster rabbit path hybrid common menu quality worry baby island";

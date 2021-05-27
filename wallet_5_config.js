@@ -1,1 +1,1 @@
-var mnemonic = "pudding drum race light miracle train thought permit slender federal dentist knife";
+var mnemonic = "purity ghost hold violin sort sugar decide onion cement all shift city";

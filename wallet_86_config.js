@@ -1,1 +1,1 @@
-var mnemonic = "above chaos cluster weird apart tackle clinic slight open loan coyote huge";
+var mnemonic = "bachelor start easy beach rookie fog deer milk meat tooth mammal step";

@@ -1,1 +1,1 @@
-var mnemonic = "wine language coin palm verify carry remember field pink candy wine advice";
+var mnemonic = "voice lizard fix weekend torch share fault feed now boy layer dress";

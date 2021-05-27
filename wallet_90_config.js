@@ -1,1 +1,1 @@
-var mnemonic = "imitate candy grain key topple time danger noble normal symbol vacant minute";
+var mnemonic = "seat hobby slab length cradle bacon isolate half easy occur device vendor";

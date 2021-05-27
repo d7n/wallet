@@ -1,1 +1,1 @@
-var mnemonic = "chicken drastic broom aim author winner humble object pioneer cotton diary visual";
+var mnemonic = "honey rally razor cream happy this magnet slow diet surge game solution";

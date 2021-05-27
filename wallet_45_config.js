@@ -1,1 +1,1 @@
-var mnemonic = "sustain squeeze side deposit series crumble vanish control fire fat give coach";
+var mnemonic = "mercy lend burden vital poet robot casino fatal chest elevator path sport";

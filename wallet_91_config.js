@@ -1,1 +1,1 @@
-var mnemonic = "olive atom vacant cupboard neck edit west blur verb expire trap work";
+var mnemonic = "program grass omit bleak above about camp neutral ski offer aisle loan";

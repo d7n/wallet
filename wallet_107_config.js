@@ -1,1 +1,1 @@
-var mnemonic = "plunge venture lobster again dirt gospel strong route because border shield alert";
+var mnemonic = "occur punch cycle word close fatigue lonely release drama add hen wonder";

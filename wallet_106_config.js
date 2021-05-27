@@ -1,1 +1,1 @@
-var mnemonic = "gauge muscle walnut glimpse photo potato lion grit west tell animal right";
+var mnemonic = "spatial glad ginger dose state duck myth two use seed century gather";

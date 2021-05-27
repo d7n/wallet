@@ -1,1 +1,1 @@
-var mnemonic = "reveal icon fresh call gasp mystery elegant minimum sauce mail female subject";
+var mnemonic = "double orchard believe symptom magic carbon point record sleep rhythm remind bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "glad vicious modify shoe birth couch glare robust wish cigar book rack";
+var mnemonic = "page receive immense divert exit conduct silent vessel side indicate tumble civil";

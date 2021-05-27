@@ -1,1 +1,1 @@
-var mnemonic = "level safe text tool rule grant vital mention pledge power case sign";
+var mnemonic = "wagon absurd allow moral remove exit sort beauty peace cactus prosper wild";

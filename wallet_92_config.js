@@ -1,1 +1,1 @@
-var mnemonic = "guilt volcano key duty salmon motion scare body odor catalog gap friend";
+var mnemonic = "pattern portion anchor believe old reduce dinosaur fringe finger fine coconut plate";

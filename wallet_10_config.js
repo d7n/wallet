@@ -1,1 +1,1 @@
-var mnemonic = "property choice join track chalk drama multiply rebuild gesture siege wool vault";
+var mnemonic = "matrix barrel glove age suit liar jewel width lumber enlist patrol cash";

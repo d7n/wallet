@@ -1,1 +1,1 @@
-var mnemonic = "civil dice robust garlic gift height infant region hunt high athlete filter";
+var mnemonic = "panel arctic key couch dry unable sand shaft fox million all element";

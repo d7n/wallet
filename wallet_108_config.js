@@ -1,1 +1,1 @@
-var mnemonic = "grocery clap gesture food metal trim chronic fashion exercise exotic slide north";
+var mnemonic = "nest bargain woman battle noodle iron spawn between warrior teach process shoot";

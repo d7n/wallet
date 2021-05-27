@@ -1,1 +1,1 @@
-var mnemonic = "stone fuel target mechanic rude grow truck never priority naive diet butter";
+var mnemonic = "quit accuse illegal snake ethics sorry slab have avocado team match note";

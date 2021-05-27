@@ -1,1 +1,1 @@
-var mnemonic = "attitude food motor ranch mixed crowd table sleep meat twelve scorpion clump";
+var mnemonic = "easily annual street permit bind pet bind lend garlic position obey expand";

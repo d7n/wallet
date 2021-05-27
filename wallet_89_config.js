@@ -1,1 +1,1 @@
-var mnemonic = "decorate frown chase menu express token dwarf stadium elephant clump trick position";
+var mnemonic = "country plate oxygen edit mercy win legal that loyal isolate bulk program";

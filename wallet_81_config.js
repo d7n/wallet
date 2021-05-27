@@ -1,1 +1,1 @@
-var mnemonic = "pepper winner weekend peanut chapter major custom pen swarm process click tornado";
+var mnemonic = "learn loud endless exile vocal emotion lazy arrive oxygen flush mammal humor";

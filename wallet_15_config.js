@@ -1,1 +1,1 @@
-var mnemonic = "junior public lake escape ticket invite salad frozen find iron super swarm";
+var mnemonic = "birth brave dutch avocado leg trend asset radio raw nature grab always";

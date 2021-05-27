@@ -1,1 +1,1 @@
-var mnemonic = "second clog require wire broken maple trigger exact armor symbol scene reward";
+var mnemonic = "harvest assault large humor slim kite heavy peasant fit neutral stereo couple";

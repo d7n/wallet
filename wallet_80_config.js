@@ -1,1 +1,1 @@
-var mnemonic = "dress accuse music firm walk guess fault danger muscle earth behave crop";
+var mnemonic = "figure danger bicycle diagram rival couch waste gauge rack royal smooth tool";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum snap story grass steel same shift melt input super alarm fan";
+var mnemonic = "globe deer coconut sight toss burden soft bundle kiss fever orange round";

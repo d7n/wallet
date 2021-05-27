@@ -1,1 +1,1 @@
-var mnemonic = "enter hire index rule one soccer surface finger gather year key rifle";
+var mnemonic = "army slab reward verify jealous pretty crawl measure wonder bottom quantum little";

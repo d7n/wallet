@@ -1,1 +1,1 @@
-var mnemonic = "around very winter spoon belt absurd fabric globe print prevent because scale";
+var mnemonic = "useless reunion pave amount uncover spray eternal write insect champion okay rescue";

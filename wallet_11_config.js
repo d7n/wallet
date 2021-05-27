@@ -1,1 +1,1 @@
-var mnemonic = "congress width march write false smooth stone coil captain bind early duty";
+var mnemonic = "connect clerk obey tide ice street glue giraffe device pet repeat estate";

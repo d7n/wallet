@@ -1,1 +1,1 @@
-var mnemonic = "tower night vote pistol evoke holiday like limit marine manual food second";
+var mnemonic = "wife nothing flash rib pulp virus taxi ecology chef rich work slim";

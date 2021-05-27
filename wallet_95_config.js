@@ -1,1 +1,1 @@
-var mnemonic = "else orange exile lizard girl rice sorry pizza myth road scatter train";
+var mnemonic = "lake model finger web pet upset seed chair fat depth upon sadness";

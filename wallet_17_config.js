@@ -1,1 +1,1 @@
-var mnemonic = "lunch spring heart fix unit duty add manage pulse whisper orphan mansion";
+var mnemonic = "note call neither onion practice ketchup couple home inject empty quick glow";

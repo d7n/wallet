@@ -1,1 +1,1 @@
-var mnemonic = "bleak clump rhythm advice shy eye since budget route spider tumble tumble";
+var mnemonic = "era raven soap choose denial shy label cushion adjust peasant scatter subway";

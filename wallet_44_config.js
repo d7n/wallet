@@ -1,1 +1,1 @@
-var mnemonic = "dignity coach utility ice ketchup library property what core tumble hero action";
+var mnemonic = "rude trouble float picnic only supply flush drink nice quality route candy";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery liberty clerk plate fat hat warm rate holiday innocent empower isolate";
+var mnemonic = "prepare omit artist congress dove repeat muscle abstract tide earn winner behind";

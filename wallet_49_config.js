@@ -1,1 +1,1 @@
-var mnemonic = "crouch figure transfer snack edit ability mansion mirror tiny behave spice fiction";
+var mnemonic = "raven eagle price drop pond silent cricket person risk nose lonely valve";

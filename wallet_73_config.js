@@ -1,1 +1,1 @@
-var mnemonic = "punch enable imitate future option shrug grain congress kitten obey garden organ";
+var mnemonic = "real say canvas height rice industry romance riot weapon dynamic fork tomato";

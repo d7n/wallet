@@ -1,1 +1,1 @@
-var mnemonic = "elegant happy planet olive broom tissue panic fall taste taxi dune derive";
+var mnemonic = "practice grain alarm limit invest rigid capital adjust matrix toddler ramp lemon";

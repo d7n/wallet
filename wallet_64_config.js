@@ -1,1 +1,1 @@
-var mnemonic = "deal weekend expand loyal neutral engage wrong buzz scheme basket envelope ghost";
+var mnemonic = "subject popular label night local appear scene open cushion diesel across cube";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual leopard edge vintage wedding magnet praise volume under reason sign unveil";
+var mnemonic = "horse sheriff party oblige neck bind bench club air fly involve wood";

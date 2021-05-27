@@ -1,1 +1,1 @@
-var mnemonic = "course arrow slight thought limb text first legal wisdom peace rule fiber";
+var mnemonic = "street assume hamster cycle stick eye radar parent ivory problem segment hundred";

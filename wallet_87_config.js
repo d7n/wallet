@@ -1,1 +1,1 @@
-var mnemonic = "erupt glance toast neglect riot exile sentence reopen acoustic surround injury credit";
+var mnemonic = "require coin another beach race tornado live eager system alone famous modify";

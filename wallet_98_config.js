@@ -1,1 +1,1 @@
-var mnemonic = "design draw then prison sail artwork dance liquid sure install school absorb";
+var mnemonic = "misery edit hard trust warfare march select disorder spice crisp retreat stool";

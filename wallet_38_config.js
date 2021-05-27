@@ -1,1 +1,1 @@
-var mnemonic = "attract blade whisper sense acid cram rain tomato chief royal lottery nasty";
+var mnemonic = "about junior push illegal shed battle right solve gesture unusual soap raccoon";

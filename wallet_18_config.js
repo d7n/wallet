@@ -1,1 +1,1 @@
-var mnemonic = "gate frog spice toe idea bike melt produce owner key connect ridge";
+var mnemonic = "flash eye lake review two piano worry artefact suffer island envelope excess";

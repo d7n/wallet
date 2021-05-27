@@ -1,1 +1,1 @@
-var mnemonic = "burger escape artefact topic change ketchup wise address alert cloud pipe puppy";
+var mnemonic = "spell transfer real lucky attend marine equal muffin wood blame category joke";

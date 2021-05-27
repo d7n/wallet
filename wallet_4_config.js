@@ -1,1 +1,1 @@
-var mnemonic = "either quick armed satisfy quarter man wave between toss nest small mention";
+var mnemonic = "one lazy fox crawl between angry dinner such crush session grocery wrist";

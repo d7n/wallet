@@ -1,1 +1,1 @@
-var mnemonic = "stone picnic cross great creek brush slot hotel move sauce allow tennis";
+var mnemonic = "foil left hope marriage grape rare style topic during drip tornado know";

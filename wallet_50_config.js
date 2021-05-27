@@ -1,1 +1,1 @@
-var mnemonic = "gesture slim museum warm soap slow frog taxi chuckle sunny glide kite";
+var mnemonic = "try walnut camera radar name satisfy betray chair right lamp crystal pear";

@@ -1,1 +1,1 @@
-var mnemonic = "later cluster market grace blur number speak hope miss pause tomato invite";
+var mnemonic = "column miss clerk knee better spoil cushion wolf accuse cereal garden sun";

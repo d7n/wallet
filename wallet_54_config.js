@@ -1,1 +1,1 @@
-var mnemonic = "south hold devote tired gravity gauge letter salon potato bird three crush";
+var mnemonic = "spin bargain north armed valid bacon clock soda comfort balcony alley auto";

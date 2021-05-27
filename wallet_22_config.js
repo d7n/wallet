@@ -1,1 +1,1 @@
-var mnemonic = "depend hidden wait poem around ginger vessel column wink warfare doll attitude";
+var mnemonic = "fresh dish skin claw street harsh lawsuit push pact chalk dragon swap";

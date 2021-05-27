@@ -1,1 +1,1 @@
-var mnemonic = "robot tray bean vanish develop master tobacco antique hand swarm hill gospel";
+var mnemonic = "habit boat useless vibrant join notice vote cluster hello dizzy amount pluck";

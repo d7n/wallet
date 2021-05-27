@@ -1,1 +1,1 @@
-var mnemonic = "theory hurt fantasy segment century sister reward knock fork van sail knee";
+var mnemonic = "art impose mask tail labor supreme hire neck group muffin load firm";

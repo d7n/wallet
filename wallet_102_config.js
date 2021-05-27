@@ -1,1 +1,1 @@
-var mnemonic = "convince ask risk super because wagon midnight warm advice leaf interest increase";
+var mnemonic = "stem symptom chaos ostrich educate polar scrub robust deliver auction swamp fan";
