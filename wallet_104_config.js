@@ -1,1 +1,1 @@
-var mnemonic = "barrel nephew pen safe vicious exclude machine turkey situate emotion discover kangaroo";
+var mnemonic = "amused laugh caught ribbon essay entry romance around soul glove frown record";

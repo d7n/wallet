@@ -1,1 +1,1 @@
-var mnemonic = "talk bottom borrow nation bonus whip milk decade index calm supply minor";
+var mnemonic = "antenna profit history trip shell myth goddess busy tone base meat pumpkin";

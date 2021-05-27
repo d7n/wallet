@@ -1,1 +1,1 @@
-var mnemonic = "time essence visual undo satoshi code clutch cycle path avocado author morning";
+var mnemonic = "split recipe goat drill cat myself atom forward sell bonus memory donate";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial glad ginger dose state duck myth two use seed century gather";
+var mnemonic = "future lesson medal tired palace marble maximum fatal verb document settle camera";

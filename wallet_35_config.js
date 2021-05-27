@@ -1,1 +1,1 @@
-var mnemonic = "drive assume spawn half depart cancel forward mix damage lumber sword motion";
+var mnemonic = "ring frequent cactus matter supreme hip upper congress kitchen erase cannon need";

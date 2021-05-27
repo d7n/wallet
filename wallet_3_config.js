@@ -1,1 +1,1 @@
-var mnemonic = "fox enforce sail seek people valve morning rice depend doll scrub buffalo";
+var mnemonic = "boring decrease dolphin culture delay problem wood online trick frog alcohol number";

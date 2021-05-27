@@ -1,1 +1,1 @@
-var mnemonic = "stem symptom chaos ostrich educate polar scrub robust deliver auction swamp fan";
+var mnemonic = "tone onion kid pool drop marine embark rival cost outdoor media brass";

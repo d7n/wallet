@@ -1,1 +1,1 @@
-var mnemonic = "try walnut camera radar name satisfy betray chair right lamp crystal pear";
+var mnemonic = "flush table fine rail feature chimney right giraffe oppose height addict wrong";

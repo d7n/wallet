@@ -1,1 +1,1 @@
-var mnemonic = "pulp novel rack skirt private present volume cave wagon swap drum plug";
+var mnemonic = "blue tortoise behind crunch wisdom bottom into helmet trim intact castle number";

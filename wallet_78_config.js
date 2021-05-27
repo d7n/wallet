@@ -1,1 +1,1 @@
-var mnemonic = "push acid quantum retreat tell correct park level select cushion glory solution";
+var mnemonic = "know panic spoil nominee damage lift ready gown cage quantum burden grit";

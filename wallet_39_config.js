@@ -1,1 +1,1 @@
-var mnemonic = "day flight female despair spirit pitch wink lumber staff pluck dust secret";
+var mnemonic = "gym team walk aisle print useful purchase keen item crowd wine sadness";

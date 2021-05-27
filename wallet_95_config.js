@@ -1,1 +1,1 @@
-var mnemonic = "lake model finger web pet upset seed chair fat depth upon sadness";
+var mnemonic = "boy travel ripple dizzy easy grunt stadium they struggle wink stairs process";

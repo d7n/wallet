@@ -1,1 +1,1 @@
-var mnemonic = "voice lizard fix weekend torch share fault feed now boy layer dress";
+var mnemonic = "regret identify tell gloom couple arm quantum lecture loop tired caution absorb";

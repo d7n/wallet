@@ -1,1 +1,1 @@
-var mnemonic = "solution live century walk gain side amazing legal crush disease blood carry";
+var mnemonic = "impact vote okay gas vicious omit deputy mean artist enrich camp inform";

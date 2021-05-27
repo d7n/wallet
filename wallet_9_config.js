@@ -1,1 +1,1 @@
-var mnemonic = "absorb provide picture work catalog bird local length knee they affair pond";
+var mnemonic = "hurry hockey rare monster total fury swear blast patient someone solar unit";

@@ -1,1 +1,1 @@
-var mnemonic = "loan viable faith heavy elder crater flock gorilla thunder bone ship dream";
+var mnemonic = "debris convince pig pony because fly rifle chest rescue slab planet clarify";

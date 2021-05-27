@@ -1,1 +1,1 @@
-var mnemonic = "army slab reward verify jealous pretty crawl measure wonder bottom quantum little";
+var mnemonic = "type meat brush regular logic whale discover leisure ritual measure vacant assume";

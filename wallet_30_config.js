@@ -1,1 +1,1 @@
-var mnemonic = "era raven soap choose denial shy label cushion adjust peasant scatter subway";
+var mnemonic = "almost spoil own vanish salad great symptom moral sell cycle orange biology";

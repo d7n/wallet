@@ -1,1 +1,1 @@
-var mnemonic = "nest bargain woman battle noodle iron spawn between warrior teach process shoot";
+var mnemonic = "fruit liar catalog skull spoon onion toss ski tobacco rural film push";

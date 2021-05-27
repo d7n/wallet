@@ -1,1 +1,1 @@
-var mnemonic = "joke derive athlete drum elephant call evoke much pet awesome bulb clarify";
+var mnemonic = "side ticket leaf genre remain noble mercy absent smoke axis travel uncle";

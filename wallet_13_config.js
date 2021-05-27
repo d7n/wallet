@@ -1,1 +1,1 @@
-var mnemonic = "champion sport weather rib vendor scale gospel elite drift sound denial position";
+var mnemonic = "zoo animal apology amount lumber peasant peace fragile crane sadness switch rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "program grass omit bleak above about camp neutral ski offer aisle loan";
+var mnemonic = "spatial spirit desk very clerk lemon save risk attract shine edge hobby";

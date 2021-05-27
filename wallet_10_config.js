@@ -1,1 +1,1 @@
-var mnemonic = "matrix barrel glove age suit liar jewel width lumber enlist patrol cash";
+var mnemonic = "economy omit admit intact plug clown cage crop mystery odor family purse";

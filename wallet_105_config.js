@@ -1,1 +1,1 @@
-var mnemonic = "column miss clerk knee better spoil cushion wolf accuse cereal garden sun";
+var mnemonic = "aerobic expect choice gain require cruise expose ask topple until toddler seat";

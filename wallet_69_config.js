@@ -1,1 +1,1 @@
-var mnemonic = "find music grid solution gown ask drastic play urge cake fetch green";
+var mnemonic = "filter morning mirror quality quiz belt meat citizen hybrid bind canal knife";

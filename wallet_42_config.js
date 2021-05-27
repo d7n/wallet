@@ -1,1 +1,1 @@
-var mnemonic = "page receive immense divert exit conduct silent vessel side indicate tumble civil";
+var mnemonic = "behave cloth drum carry sting swift century throw urge unique radio fault";

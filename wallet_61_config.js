@@ -1,1 +1,1 @@
-var mnemonic = "axis obey cruise goose donate what direct extra assist kind lab naive";
+var mnemonic = "clock fault initial exist ship pledge market tortoise slide net hard price";

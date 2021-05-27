@@ -1,1 +1,1 @@
-var mnemonic = "subject popular label night local appear scene open cushion diesel across cube";
+var mnemonic = "april evil crush oak blue win card prison aspect civil point proud";

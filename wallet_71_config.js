@@ -1,1 +1,1 @@
-var mnemonic = "invest random broken tissue manual give drum curious april twelve notice liar";
+var mnemonic = "glory zoo sick pumpkin angry scene artist door melt clog spy payment";

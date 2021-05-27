@@ -1,1 +1,1 @@
-var mnemonic = "flash eye lake review two piano worry artefact suffer island envelope excess";
+var mnemonic = "cash alley draft assault scan table truth orient normal orange clock odor";

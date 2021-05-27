@@ -1,1 +1,1 @@
-var mnemonic = "surface then lonely volcano love road palm culture staff edit cover ginger";
+var mnemonic = "rubber assume people salt crowd release ripple grant rough idle ask half";

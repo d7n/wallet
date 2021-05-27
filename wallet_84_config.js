@@ -1,1 +1,1 @@
-var mnemonic = "detect future clever corn boss potato box rule alarm scatter often firm";
+var mnemonic = "join fossil join spell pond shed collect stuff hill delay pave surface";

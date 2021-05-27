@@ -1,1 +1,1 @@
-var mnemonic = "double orchard believe symptom magic carbon point record sleep rhythm remind bomb";
+var mnemonic = "bounce sword kind combine hungry pond place spend grid cart engine question";

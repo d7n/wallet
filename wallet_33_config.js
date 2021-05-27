@@ -1,1 +1,1 @@
-var mnemonic = "unfair interest direct device family sausage snap receive enter donkey impact domain";
+var mnemonic = "antenna park long away stuff occur hole upon pill version view coral";

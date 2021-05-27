@@ -1,1 +1,1 @@
-var mnemonic = "deny swallow fatigue myth path divide ordinary fantasy gym mind glow adult";
+var mnemonic = "hobby sphere upgrade spray manage party horse agree buffalo trip lunch tumble";

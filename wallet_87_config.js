@@ -1,1 +1,1 @@
-var mnemonic = "require coin another beach race tornado live eager system alone famous modify";
+var mnemonic = "pattern odor exist blood parrot idea shaft devote guess stay six like";

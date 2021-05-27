@@ -1,1 +1,1 @@
-var mnemonic = "country plate oxygen edit mercy win legal that loyal isolate bulk program";
+var mnemonic = "claw umbrella casino pool attitude creek village solution inhale again spare grow";

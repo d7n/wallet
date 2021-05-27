@@ -1,1 +1,1 @@
-var mnemonic = "quit accuse illegal snake ethics sorry slab have avocado team match note";
+var mnemonic = "dawn embrace eager mobile decrease debris garbage twin cage shadow earn fringe";

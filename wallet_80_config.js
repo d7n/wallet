@@ -1,1 +1,1 @@
-var mnemonic = "figure danger bicycle diagram rival couch waste gauge rack royal smooth tool";
+var mnemonic = "tumble dance sell winner mirror little blind tackle someone ridge prevent kiss";

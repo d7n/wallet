@@ -1,1 +1,1 @@
-var mnemonic = "purity ghost hold violin sort sugar decide onion cement all shift city";
+var mnemonic = "basket park buffalo wet drill quarter badge bomb spice radar bracket lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "birth brave dutch avocado leg trend asset radio raw nature grab always";
+var mnemonic = "marriage slot arena reopen faculty collect guard crouch vital evil initial arrive";

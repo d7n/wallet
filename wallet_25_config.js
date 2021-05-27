@@ -1,1 +1,1 @@
-var mnemonic = "panel arctic key couch dry unable sand shaft fox million all element";
+var mnemonic = "absurd apple embark spatial violin horse swing oil minimum equip wise east";

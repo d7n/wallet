@@ -1,1 +1,1 @@
-var mnemonic = "there mountain pupil kid muscle diet caution organ drum rhythm plunge nominee";
+var mnemonic = "observe roast blast void palace rebuild inch refuse leaf evil shy forum";

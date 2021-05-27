@@ -1,1 +1,1 @@
-var mnemonic = "misery edit hard trust warfare march select disorder spice crisp retreat stool";
+var mnemonic = "someone wall apology someone exist alone render online caution tongue cage stick";

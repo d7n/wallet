@@ -1,1 +1,1 @@
-var mnemonic = "spin bargain north armed valid bacon clock soda comfort balcony alley auto";
+var mnemonic = "cabbage chapter stereo require arrow actor autumn slogan actor burger knee choice";

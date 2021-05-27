@@ -1,1 +1,1 @@
-var mnemonic = "element lecture famous argue road sugar captain agent art retreat obey mom";
+var mnemonic = "infant floor helmet dignity street slam sort throw square camera day else";

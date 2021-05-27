@@ -1,1 +1,1 @@
-var mnemonic = "defense keep govern vault tower artwork diagram moon meat kidney pear hybrid";
+var mnemonic = "cherry large dune maze hover degree street butter member exclude inherit coach";

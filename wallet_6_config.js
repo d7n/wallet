@@ -1,1 +1,1 @@
-var mnemonic = "lamp click river noodle verify brush spell vehicle young latin swamp nephew";
+var mnemonic = "movie clutch length camera chunk this misery banana dove hip arrange mother";

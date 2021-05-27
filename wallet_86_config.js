@@ -1,1 +1,1 @@
-var mnemonic = "bachelor start easy beach rookie fog deer milk meat tooth mammal step";
+var mnemonic = "scatter already moment ill fatigue neck frost device noodle flight cherry grid";

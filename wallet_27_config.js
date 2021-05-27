@@ -1,1 +1,1 @@
-var mnemonic = "repair thing tennis exact spell stadium prepare bind finish frown already finger";
+var mnemonic = "season float burden open veteran seat era replace problem rocket crystal giraffe";

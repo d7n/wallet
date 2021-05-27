@@ -1,1 +1,1 @@
-var mnemonic = "close wrestle rival cage when lyrics maze crawl receive rose gun settle";
+var mnemonic = "alter future rule gauge fly bright venture burden library impulse proud pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "original knee panther news kit foil pupil welcome mind empower water couple";
+var mnemonic = "immune draw useless frost learn fantasy proud term october yard initial shift";

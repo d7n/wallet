@@ -1,1 +1,1 @@
-var mnemonic = "lumber inspire rebuild remember ladder trial echo wise size output talk crazy";
+var mnemonic = "neglect moral notice reveal egg daring release water success keen stand exact";

@@ -1,1 +1,1 @@
-var mnemonic = "spell transfer real lucky attend marine equal muffin wood blame category joke";
+var mnemonic = "peace return glance wool replace because novel primary fitness awesome deposit limit";

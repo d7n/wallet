@@ -1,1 +1,1 @@
-var mnemonic = "title shy zone update junior nuclear tribe hamster satoshi sudden debate hurt";
+var mnemonic = "twice bubble honey over school fantasy explain rather layer dash love round";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor boost demise popular uniform rotate bacon analyst peace change soup damp";
+var mnemonic = "mistake client link math auction garbage able guard donate carry garlic inch";

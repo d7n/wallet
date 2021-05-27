@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur seminar chimney battle rabbit vocal usage quote cheese detail hotel extend";
+var mnemonic = "reject slender huge loud lounge spell public liquid dad camp proud pelican";

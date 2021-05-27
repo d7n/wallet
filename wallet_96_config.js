@@ -1,1 +1,1 @@
-var mnemonic = "easily annual street permit bind pet bind lend garlic position obey expand";
+var mnemonic = "bleak amateur era pumpkin humble begin fever seminar either water pony live";

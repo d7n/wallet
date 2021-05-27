@@ -1,1 +1,1 @@
-var mnemonic = "seat hobby slab length cradle bacon isolate half easy occur device vendor";
+var mnemonic = "aisle second awake supreme upon human control process best relief sock cube";

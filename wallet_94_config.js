@@ -1,1 +1,1 @@
-var mnemonic = "behave razor write dream page basic alley sustain element cargo life rule";
+var mnemonic = "develop sure plug hurry devote before oblige truth vast boost educate ball";

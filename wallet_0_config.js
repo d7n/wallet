@@ -1,1 +1,1 @@
-var mnemonic = "sting heavy bubble patient physical level affair ramp more wing twice sign";
+var mnemonic = "current blast repair visa scare wisdom liquid option orient deliver neutral garden";

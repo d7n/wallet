@@ -1,1 +1,1 @@
-var mnemonic = "genuine liar crumble helmet sand arch flavor alter problem skirt token current";
+var mnemonic = "carry senior brain garden choose gospel nature design vote gather crisp lyrics";

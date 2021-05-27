@@ -1,1 +1,1 @@
-var mnemonic = "need fit script bubble silk buyer blanket refuse transfer eyebrow suit traffic";
+var mnemonic = "very clever hood sustain fluid cry size lake ride possible learn siege";

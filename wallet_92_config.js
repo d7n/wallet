@@ -1,1 +1,1 @@
-var mnemonic = "pattern portion anchor believe old reduce dinosaur fringe finger fine coconut plate";
+var mnemonic = "harsh bicycle focus okay dilemma lunch switch piano neutral day hood across";

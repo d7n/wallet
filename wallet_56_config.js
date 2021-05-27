@@ -1,1 +1,1 @@
-var mnemonic = "street assume hamster cycle stick eye radar parent ivory problem segment hundred";
+var mnemonic = "salmon knee situate dream involve tilt federal salute fiber inhale script helmet";

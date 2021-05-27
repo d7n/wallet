@@ -1,1 +1,1 @@
-var mnemonic = "one lazy fox crawl between angry dinner such crush session grocery wrist";
+var mnemonic = "match still castle mechanic pulse hero bulb deputy source frog elder oblige";

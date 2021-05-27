@@ -1,1 +1,1 @@
-var mnemonic = "wagon absurd allow moral remove exit sort beauty peace cactus prosper wild";
+var mnemonic = "cabin copper staff always post light since force wedding robust powder bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "globe deer coconut sight toss burden soft bundle kiss fever orange round";
+var mnemonic = "ice crystal clutch taxi sadness loop illness excite notice way despair tomorrow";

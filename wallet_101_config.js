@@ -1,1 +1,1 @@
-var mnemonic = "honey rally razor cream happy this magnet slow diet surge game solution";
+var mnemonic = "filter equal promote victory hold monitor place concert van base punch today";

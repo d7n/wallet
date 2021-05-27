@@ -1,1 +1,1 @@
-var mnemonic = "prepare omit artist congress dove repeat muscle abstract tide earn winner behind";
+var mnemonic = "episode vessel hat differ one aunt fruit green ivory canoe chicken bracket";

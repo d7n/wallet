@@ -1,1 +1,1 @@
-var mnemonic = "mercy lend burden vital poet robot casino fatal chest elevator path sport";
+var mnemonic = "robot chalk pudding gas aware birth cream wage wave upper quick cook";

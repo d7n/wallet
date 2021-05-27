@@ -1,1 +1,1 @@
-var mnemonic = "burst river warm report estate rhythm track supreme rapid boring position truck";
+var mnemonic = "jeans bottom cinnamon manual tool sun square easy journey anxiety kick holiday";

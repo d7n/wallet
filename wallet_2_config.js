@@ -1,1 +1,1 @@
-var mnemonic = "pattern play second network trial young concert hobby around control vital donkey";
+var mnemonic = "grace picnic recipe jar secret wash nation viable aspect mountain spirit liar";

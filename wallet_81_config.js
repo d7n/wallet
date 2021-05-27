@@ -1,1 +1,1 @@
-var mnemonic = "learn loud endless exile vocal emotion lazy arrive oxygen flush mammal humor";
+var mnemonic = "file birth network connect issue sad erase inspire capital save behave dream";

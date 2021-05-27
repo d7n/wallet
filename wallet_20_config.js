@@ -1,1 +1,1 @@
-var mnemonic = "height proud east pitch shallow echo play wrong museum robust pioneer rain";
+var mnemonic = "body space sting toast bitter motor camp tourist ring chunk enforce arrest";

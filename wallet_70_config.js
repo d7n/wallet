@@ -1,1 +1,1 @@
-var mnemonic = "goat waste swamp pitch educate ball floor client era worth afford soccer";
+var mnemonic = "flock hurt board destroy lunch citizen rebel panic grit lake poverty second";

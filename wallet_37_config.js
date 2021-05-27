@@ -1,1 +1,1 @@
-var mnemonic = "harvest assault large humor slim kite heavy peasant fit neutral stereo couple";
+var mnemonic = "dad hero shock wink tomorrow nephew lucky night author man fringe soft";

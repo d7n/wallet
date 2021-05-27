@@ -1,1 +1,1 @@
-var mnemonic = "wife nothing flash rib pulp virus taxi ecology chef rich work slim";
+var mnemonic = "true arm object under bread lock height pair add love organ rural";

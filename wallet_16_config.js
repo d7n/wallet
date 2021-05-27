@@ -1,1 +1,1 @@
-var mnemonic = "name clip monster rabbit path hybrid common menu quality worry baby island";
+var mnemonic = "oak stay park gloom property symbol arm impact jar tell lend afford";

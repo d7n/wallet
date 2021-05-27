@@ -1,1 +1,1 @@
-var mnemonic = "boost fabric hedgehog avocado law style zero climb forward family edit alert";
+var mnemonic = "theory length length female million citizen crane excess wide retreat enrich salute";

@@ -1,1 +1,1 @@
-var mnemonic = "real say canvas height rice industry romance riot weapon dynamic fork tomato";
+var mnemonic = "right brush jelly pool tiger aerobic cool envelope company alpha orange street";

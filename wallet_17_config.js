@@ -1,1 +1,1 @@
-var mnemonic = "note call neither onion practice ketchup couple home inject empty quick glow";
+var mnemonic = "myth yard piece boy fatal camera enjoy embrace ankle quiz team deputy";

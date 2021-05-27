@@ -1,1 +1,1 @@
-var mnemonic = "march focus ritual genius divide pepper social space oyster blast scrub sketch";
+var mnemonic = "leopard affair diary dose draft tomorrow skin helmet artist practice pull casino";

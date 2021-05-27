@@ -1,1 +1,1 @@
-var mnemonic = "engage diagram access grow account voyage casino debris piece deal warrior endorse";
+var mnemonic = "point effort distance this scatter peace genius position become poem hub victory";

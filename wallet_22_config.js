@@ -1,1 +1,1 @@
-var mnemonic = "fresh dish skin claw street harsh lawsuit push pact chalk dragon swap";
+var mnemonic = "drink regret today anger song arctic rule address shrimp shallow figure quality";

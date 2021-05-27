@@ -1,1 +1,1 @@
-var mnemonic = "brand gadget stock scrap inquiry embody grow fury peasant flash shadow field";
+var mnemonic = "rival barely hair army ahead desk obey outdoor bag satisfy increase wolf";

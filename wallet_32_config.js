@@ -1,1 +1,1 @@
-var mnemonic = "second black company security visa find follow coil gown call sunny destroy";
+var mnemonic = "utility tackle total assault ugly vessel pause good keen mule dance fold";

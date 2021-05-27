@@ -1,1 +1,1 @@
-var mnemonic = "practice grain alarm limit invest rigid capital adjust matrix toddler ramp lemon";
+var mnemonic = "depart refuse derive razor still peasant fluid sport elbow always poverty fan";

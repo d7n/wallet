@@ -1,1 +1,1 @@
-var mnemonic = "april sausage find divorce permit picture one scissors pair gossip model smooth";
+var mnemonic = "stock corn moral nurse away matter canyon man remove power immune parent";

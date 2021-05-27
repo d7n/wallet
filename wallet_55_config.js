@@ -1,1 +1,1 @@
-var mnemonic = "useless reunion pave amount uncover spray eternal write insect champion okay rescue";
+var mnemonic = "kangaroo rack nose broom insect opera nuclear legend imitate estate begin catch";

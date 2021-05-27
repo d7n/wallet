@@ -1,1 +1,1 @@
-var mnemonic = "horse sheriff party oblige neck bind bench club air fly involve wood";
+var mnemonic = "rib senior goddess motion become mother brand tuna next country boat suggest";

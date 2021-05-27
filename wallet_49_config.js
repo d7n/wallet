@@ -1,1 +1,1 @@
-var mnemonic = "raven eagle price drop pond silent cricket person risk nose lonely valve";
+var mnemonic = "link brand mercy infant thumb opinion sentence curve urban bind lyrics home";

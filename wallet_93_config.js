@@ -1,1 +1,1 @@
-var mnemonic = "margin meat mixture below outer april evolve prosper stone soup kidney absorb";
+var mnemonic = "monster clean few sing cart never prize feature exit dress violin number";

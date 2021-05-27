@@ -1,1 +1,1 @@
-var mnemonic = "inquiry endorse shaft loud supreme biology melody kid trip ostrich retire insect";
+var mnemonic = "illegal match proud hold blanket obvious where pencil apart glue drum clarify";
