@@ -1,1 +1,1 @@
-var mnemonic = "polar lady smooth prize oil this trouble edit question gospel season hand";
+var mnemonic = "donor amount shoe swap open agent guide cabbage obscure drastic curtain describe";

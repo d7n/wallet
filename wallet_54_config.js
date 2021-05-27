@@ -1,1 +1,1 @@
-var mnemonic = "congress duty capital fall lecture kidney bicycle ramp demand clerk umbrella glimpse";
+var mnemonic = "guess goat vivid expire end insect impact agent noble cause vote gentle";

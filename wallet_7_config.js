@@ -1,1 +1,1 @@
-var mnemonic = "police produce party lady razor impact impose panther asset snow answer recycle";
+var mnemonic = "heavy refuse message cherry unable debate person promote rotate sphere slide relief";

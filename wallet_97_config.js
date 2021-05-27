@@ -1,1 +1,1 @@
-var mnemonic = "solar wash flock body metal fire hobby broom pull jeans machine news";
+var mnemonic = "expect stove lock skull window buddy cloud dolphin fuel wife stand east";

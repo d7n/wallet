@@ -1,1 +1,1 @@
-var mnemonic = "forward grace giggle affair ramp coffee cube daring cushion cave trade split";
+var mnemonic = "slow thumb lazy physical deliver color grab second kit select lemon clinic";

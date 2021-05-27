@@ -1,1 +1,1 @@
-var mnemonic = "dynamic hand alert used excite wave cream unfair body fever position evolve";
+var mnemonic = "when south huge general daughter frequent prosper dune panel parent stem base";

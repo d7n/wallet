@@ -1,1 +1,1 @@
-var mnemonic = "patch forward nothing envelope jazz slender thrive powder next poem matter travel";
+var mnemonic = "clump upgrade bike reopen stumble yellow spoon peace subway impact exotic bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "example banana twin burst wink leaf whale castle proud width inject abuse";
+var mnemonic = "prevent place kite time churn poverty beach fish cheap alien cotton boost";

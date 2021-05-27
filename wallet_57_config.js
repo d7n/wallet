@@ -1,1 +1,1 @@
-var mnemonic = "misery poet world used hat place gravity liquid because document unaware lend";
+var mnemonic = "hello vacant observe addict orange dizzy trick mandate cable medal afraid taxi";

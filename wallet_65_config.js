@@ -1,1 +1,1 @@
-var mnemonic = "lecture meadow blanket shield educate wise where drum party giggle globe together";
+var mnemonic = "wheat only sweet twice cupboard bottom acid choice feel garlic dizzy stick";

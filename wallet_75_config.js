@@ -1,1 +1,1 @@
-var mnemonic = "jelly bread pattern pupil frog chair ocean output danger vintage vapor grass";
+var mnemonic = "solid van happy whale tobacco bright trouble keep sausage item pelican friend";

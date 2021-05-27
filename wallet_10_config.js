@@ -1,1 +1,1 @@
-var mnemonic = "immune chalk sudden wait cost plug pledge erode donor echo combine bottom";
+var mnemonic = "ladder soon success phone liberty nation nominee quick opera slide minor roast";

@@ -1,1 +1,1 @@
-var mnemonic = "casino combine surprise indoor wine put mammal fence patient start satisfy liquid";
+var mnemonic = "guide dress brisk access push ice fitness symbol feed floor aware wrap";

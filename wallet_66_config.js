@@ -1,1 +1,1 @@
-var mnemonic = "silent tomato toilet arrive ice intact utility near inside quick exit year";
+var mnemonic = "turtle example vacant unlock fork wreck unknown dry price scene square embrace";

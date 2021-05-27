@@ -1,1 +1,1 @@
-var mnemonic = "flip soft above elder pitch moral knock village hobby ostrich above riot";
+var mnemonic = "dizzy sand salon just cargo scorpion you zoo card choice lesson glue";

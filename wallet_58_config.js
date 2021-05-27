@@ -1,1 +1,1 @@
-var mnemonic = "indicate come menu sudden genius receive wide clutch toilet object infant hawk";
+var mnemonic = "fly source flag muscle please nasty chair wide collect swear island quantum";

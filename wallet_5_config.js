@@ -1,1 +1,1 @@
-var mnemonic = "parrot unveil jaguar injury rifle save retreat tortoise rapid addict hurry crack";
+var mnemonic = "open fame embody large author faint magic whip orphan smoke grain carbon";

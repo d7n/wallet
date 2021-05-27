@@ -1,1 +1,1 @@
-var mnemonic = "device save lyrics crime double scrap pull prosper exchange glow huge turkey";
+var mnemonic = "unfair round hundred express bunker review torch punch erupt client diamond bulb";

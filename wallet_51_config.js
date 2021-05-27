@@ -1,1 +1,1 @@
-var mnemonic = "lock eagle wage turkey remind true fun noble response leaf party summer";
+var mnemonic = "check tail member garage episode abstract burst weird green extra kiss artwork";

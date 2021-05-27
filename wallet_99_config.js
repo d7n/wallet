@@ -1,1 +1,1 @@
-var mnemonic = "cave grow relief face foot forward ceiling round purpose kit trumpet medal";
+var mnemonic = "flash cupboard rescue ready acquire used conduct between lake sick student only";

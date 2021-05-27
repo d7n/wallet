@@ -1,1 +1,1 @@
-var mnemonic = "illness tissue culture rare donate vicious immune round able learn funny ship";
+var mnemonic = "awkward world delay rack town valley vanish helmet promote rhythm daughter shove";

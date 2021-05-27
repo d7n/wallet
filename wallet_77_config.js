@@ -1,1 +1,1 @@
-var mnemonic = "because primary dash lumber scout lucky scrub idle gold bike mom ginger";
+var mnemonic = "album rally spatial pipe glow unhappy ordinary moral rib dinosaur brain jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "spread match mad climb short skin poem level special bargain suggest east";
+var mnemonic = "tuition beyond differ guide usual wheat type enter merry water bike gown";

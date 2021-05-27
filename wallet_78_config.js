@@ -1,1 +1,1 @@
-var mnemonic = "cake subway crush quality unaware office science season permit spin fork forget";
+var mnemonic = "enter giraffe love early tackle damp account theory recycle truly viable index";

@@ -1,1 +1,1 @@
-var mnemonic = "net envelope slot fan power vanish dream select excite pact repeat sock";
+var mnemonic = "search speed region tide legal mobile adjust token cream achieve fortune motor";

@@ -1,1 +1,1 @@
-var mnemonic = "rough become promote canvas budget two inject lend conduct screen scrap major";
+var mnemonic = "panic dash infant victory laundry sure fan hood room short card bag";

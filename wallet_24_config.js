@@ -1,1 +1,1 @@
-var mnemonic = "hint debris bitter design cement happy cycle quote will battle loop mushroom";
+var mnemonic = "fuel deal grit either differ bar spider reform embody wage normal gasp";

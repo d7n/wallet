@@ -1,1 +1,1 @@
-var mnemonic = "dizzy kid winter six pottery sketch virtual imitate bullet robot icon bus";
+var mnemonic = "twist grit general unhappy actress depth table jaguar tomato famous tiger bag";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor can boring second scrub predict hard gold curve cabin cheese nest";
+var mnemonic = "tortoise bargain famous asset supreme process tobacco total spider retreat drift vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch burden zero very long banner used tobacco laugh young barely rail";
+var mnemonic = "wealth usage husband palace toy sport peanut budget toward sport learn scrub";

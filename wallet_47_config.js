@@ -1,1 +1,1 @@
-var mnemonic = "jewel dutch sausage benefit brother weird aerobic day party dilemma bounce then";
+var mnemonic = "confirm favorite lunch call speed moment ivory tongue crawl job myself breeze";

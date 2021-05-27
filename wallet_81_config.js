@@ -1,1 +1,1 @@
-var mnemonic = "ugly wide love worry boring moon spatial zero switch sight acquire major";
+var mnemonic = "impose spy version essay valley hat express crisp crack dose okay humble";

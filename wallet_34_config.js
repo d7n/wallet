@@ -1,1 +1,1 @@
-var mnemonic = "scheme blind chronic ignore lonely antenna today cross magic genre middle such";
+var mnemonic = "gun air rebuild enlist kingdom bomb include hen private correct phrase couch";

@@ -1,1 +1,1 @@
-var mnemonic = "guess connect behind logic visual angle wife vintage sample cruise virtual shaft";
+var mnemonic = "grape demise lemon license gloom remember spend churn chicken door summer help";

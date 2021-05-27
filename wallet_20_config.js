@@ -1,1 +1,1 @@
-var mnemonic = "vapor trash doctor proud anxiety trap ability abstract column april mango suffer";
+var mnemonic = "merry recall tackle frog census depend crater betray second keen wife jewel";

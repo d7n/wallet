@@ -1,1 +1,1 @@
-var mnemonic = "time lecture source paddle giggle provide key lottery vivid snap canal garment";
+var mnemonic = "away kidney shuffle dry drop ceiling habit child present wreck steak field";

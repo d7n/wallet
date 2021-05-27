@@ -1,1 +1,1 @@
-var mnemonic = "tip dynamic people copy shaft advance they gospel narrow tissue aerobic bachelor";
+var mnemonic = "rifle siege hedgehog element spray mosquito horror kiwi picture that jump culture";

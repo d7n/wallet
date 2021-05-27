@@ -1,1 +1,1 @@
-var mnemonic = "diet identify stay mimic illegal funny pigeon tunnel draw fold near satoshi";
+var mnemonic = "rule borrow sponsor outdoor omit jacket echo conduct finger fan armed lottery";

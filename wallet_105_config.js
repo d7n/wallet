@@ -1,1 +1,1 @@
-var mnemonic = "obvious seven brief abstract peasant make transfer share stock pelican cherry police";
+var mnemonic = "today royal clutch giggle remove work jewel margin east solve six window";

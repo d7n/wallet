@@ -1,1 +1,1 @@
-var mnemonic = "confirm song buzz health local oyster human echo umbrella slush initial shallow";
+var mnemonic = "excess document artefact response act pause metal clay arctic father mention slam";

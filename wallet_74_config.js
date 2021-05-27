@@ -1,1 +1,1 @@
-var mnemonic = "piano display pumpkin direct special square zebra useless advice choice library prize";
+var mnemonic = "woman process what cart summer endless cement tape boost napkin garlic battle";

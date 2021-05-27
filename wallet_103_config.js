@@ -1,1 +1,1 @@
-var mnemonic = "essay leader hold city error wedding mobile picture solar inflict tail student";
+var mnemonic = "win penalty light mammal property lumber indoor around stool audit boring learn";

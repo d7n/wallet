@@ -1,1 +1,1 @@
-var mnemonic = "soft rib salute belt envelope kiss entire under shuffle all draw either";
+var mnemonic = "turtle inhale clerk upgrade super surface scan risk people dirt answer dove";

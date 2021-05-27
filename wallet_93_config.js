@@ -1,1 +1,1 @@
-var mnemonic = "rifle edit margin unfair wealth field engine square supreme install course nut";
+var mnemonic = "frame army stable chimney what divorce sphere hood receive elegant then couch";

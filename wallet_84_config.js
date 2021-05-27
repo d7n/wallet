@@ -1,1 +1,1 @@
-var mnemonic = "kit mercy ship slam jaguar quarter margin describe vapor yard fever maid";
+var mnemonic = "poem roast bitter winter route phone original enlist hard forum word media";

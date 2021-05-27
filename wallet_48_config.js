@@ -1,1 +1,1 @@
-var mnemonic = "december inflict penalty excuse economy test enhance twelve alone census power crane";
+var mnemonic = "drill alarm vacant across trouble other cup raise boy stamp false stem";

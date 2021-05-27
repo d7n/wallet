@@ -1,1 +1,1 @@
-var mnemonic = "bonus avocado salmon give canal popular pulse exile govern foil box bone";
+var mnemonic = "shallow local write wage above false rough bird bacon tattoo settle float";

@@ -1,1 +1,1 @@
-var mnemonic = "era gather stumble option appear waste dance angry abuse attack shoot narrow";
+var mnemonic = "special zoo staff nature warfare gather lawn farm soon cute answer manual";

@@ -1,1 +1,1 @@
-var mnemonic = "domain cattle reject ethics wasp sniff spirit problem pilot battle write duty";
+var mnemonic = "spatial demise grant leader walk chest judge seminar mystery record opinion program";

@@ -1,1 +1,1 @@
-var mnemonic = "fun child apology shell frost artwork physical slide evil tilt visa aunt";
+var mnemonic = "credit spend yard palace build burst pledge donor disorder depth truck purse";

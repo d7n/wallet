@@ -1,1 +1,1 @@
-var mnemonic = "attitude phone proud exile cradle explain lonely veteran isolate whisper bulk adult";
+var mnemonic = "fan interest duck airport advance pledge damage box release illegal hand door";

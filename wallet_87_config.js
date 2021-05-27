@@ -1,1 +1,1 @@
-var mnemonic = "phone believe across viable arrest strategy about absurd stumble during describe foster";
+var mnemonic = "prosper credit music point orbit nut juice flight super chair million position";

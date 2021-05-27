@@ -1,1 +1,1 @@
-var mnemonic = "pupil rubber force increase torch business razor dentist toward tenant hair test";
+var mnemonic = "lamp among mom fine ask rural height sample pride fly scan object";

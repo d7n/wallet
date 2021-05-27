@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow purse relax all absorb mountain material kiss album file tornado bridge";
+var mnemonic = "inner crop hurry smoke chat hole absent any defense record disorder fly";

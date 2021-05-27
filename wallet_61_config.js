@@ -1,1 +1,1 @@
-var mnemonic = "vocal give drink captain engine capital spend before orphan helmet junior knock";
+var mnemonic = "pool special inch edit city confirm witness upper trap mechanic load brass";

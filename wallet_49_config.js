@@ -1,1 +1,1 @@
-var mnemonic = "pupil portion segment evil round orphan ocean present talk cave soup afford";
+var mnemonic = "wheel arctic prize today argue borrow rare hotel borrow obtain decrease wild";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar jazz kit crowd lesson laundry egg garage tuition ride cabbage popular";
+var mnemonic = "average cook echo tonight ship amazing face diamond latin clog miss during";

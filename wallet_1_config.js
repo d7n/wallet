@@ -1,1 +1,1 @@
-var mnemonic = "vocal attend change bid sausage dust model right problem rescue story pudding";
+var mnemonic = "street tobacco clip culture nurse roast travel shrug vibrant neck attack behind";

@@ -1,1 +1,1 @@
-var mnemonic = "deny drastic order suffer assault coffee huge torch ability smoke system project";
+var mnemonic = "village exchange icon mystery dirt stomach hello humble negative project absent pride";

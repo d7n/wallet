@@ -1,1 +1,1 @@
-var mnemonic = "pluck theory cream success gasp just wrist oil inhale sort sister decade";
+var mnemonic = "burden hobby imitate athlete april travel movie couple master cargo mad top";

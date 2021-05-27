@@ -1,1 +1,1 @@
-var mnemonic = "company neck arrive hawk turtle response loan antique boy park square swamp";
+var mnemonic = "avoid indicate rifle monkey vicious cruise apple bike foot divert fringe pair";

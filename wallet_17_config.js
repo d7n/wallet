@@ -1,1 +1,1 @@
-var mnemonic = "pistol basket desk outer drop broom elite crisp number move polar clap";
+var mnemonic = "soul again supply speak basic clinic flee menu enemy venue trap general";

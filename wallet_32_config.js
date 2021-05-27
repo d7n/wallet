@@ -1,1 +1,1 @@
-var mnemonic = "proof glad save narrow organ fly correct myth clutch dove web basic";
+var mnemonic = "recall huge fade siege text silly satisfy shop labor prosper certain coconut";

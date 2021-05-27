@@ -1,1 +1,1 @@
-var mnemonic = "shiver index leg swift left material flower acoustic truly sweet metal enable";
+var mnemonic = "main multiply gravity symbol page cluster chief curious kick rebel cabbage floor";

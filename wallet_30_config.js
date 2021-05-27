@@ -1,1 +1,1 @@
-var mnemonic = "seek autumn jazz again next glass usage diet final solid december sausage";
+var mnemonic = "magic ordinary film coach brave rather reduce spawn island hungry head wet";

@@ -1,1 +1,1 @@
-var mnemonic = "tired radio old glad cotton picture glory toast slow fortune pelican melt";
+var mnemonic = "awful curious voyage tongue trial noodle agent silent people universe involve tired";

@@ -1,1 +1,1 @@
-var mnemonic = "extend recycle page member negative mouse minor later zero story dentist obvious";
+var mnemonic = "palm foil business crime close cross bird dust fee wise anger card";

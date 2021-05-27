@@ -1,1 +1,1 @@
-var mnemonic = "desert agent avocado bus divorce between impulse lock old tooth develop write";
+var mnemonic = "satoshi squeeze update razor tag village gold solution pulp settle glide act";

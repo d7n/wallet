@@ -1,1 +1,1 @@
-var mnemonic = "lend energy cruel enable sudden squirrel enroll stay diary wisdom rail glad";
+var mnemonic = "prevent change pistol aware wear height oyster vessel measure smooth poverty artwork";

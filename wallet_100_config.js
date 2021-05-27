@@ -1,1 +1,1 @@
-var mnemonic = "vapor fancy few burst exhaust gas wrap denial tell help seven paddle";
+var mnemonic = "angry wonder future ghost depth movie action much unfair merry stairs step";

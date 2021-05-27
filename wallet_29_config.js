@@ -1,1 +1,1 @@
-var mnemonic = "fault found belt please airport ozone erupt vicious nothing odor gesture rebel";
+var mnemonic = "snack stem deputy thrive secret economy coin burden main reason friend raise";

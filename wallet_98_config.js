@@ -1,1 +1,1 @@
-var mnemonic = "neglect youth benefit raccoon sleep clutch rally hurt morning miss lock used";
+var mnemonic = "excess pioneer dwarf emerge squeeze black shrimp hockey layer analyst banana plastic";

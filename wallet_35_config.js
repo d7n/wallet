@@ -1,1 +1,1 @@
-var mnemonic = "nothing crack exist insect lazy force beach artwork lake divert solid cactus";
+var mnemonic = "cart hazard tape venture drum episode code major priority try search calm";

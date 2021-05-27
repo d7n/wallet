@@ -1,1 +1,1 @@
-var mnemonic = "pond rain wheel convince wish silk rack clarify oil next immense ring";
+var mnemonic = "noise happy pumpkin intact often tank shop hair decline damage unaware taxi";

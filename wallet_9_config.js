@@ -1,1 +1,1 @@
-var mnemonic = "element smoke canoe oval sun worry tool duty grass bright obvious diagram";
+var mnemonic = "private cupboard hurt coconut mutual topic captain speak accuse burger artist salon";

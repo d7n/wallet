@@ -1,1 +1,1 @@
-var mnemonic = "romance tent eyebrow purpose nation else title recycle near express social museum";
+var mnemonic = "vivid good alert spot slam various miracle turkey convince already concert peanut";

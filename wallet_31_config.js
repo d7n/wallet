@@ -1,1 +1,1 @@
-var mnemonic = "shy depth puzzle hat stool orbit try depth wise kiwi story fresh";
+var mnemonic = "source steak advance convince busy apology merry stage horror penalty phone portion";

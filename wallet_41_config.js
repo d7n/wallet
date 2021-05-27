@@ -1,1 +1,1 @@
-var mnemonic = "hollow typical roof axis program wine night keep loyal ethics tail silent";
+var mnemonic = "material soldier series visit segment fish cousin atom almost attack impulse morning";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate tell crowd desk candy pink gap history sun what youth device";
+var mnemonic = "fatigue hungry mechanic release tenant peasant window lunch armed sponsor define wide";

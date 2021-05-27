@@ -1,1 +1,1 @@
-var mnemonic = "corn amount industry crack render novel refuse cancel aisle delay turkey usual";
+var mnemonic = "eyebrow trial rate attitude tennis lottery office humble pig intact bacon connect";

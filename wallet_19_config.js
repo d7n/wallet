@@ -1,1 +1,1 @@
-var mnemonic = "hobby security fog kick shove occur cute party fury awkward photo exercise";
+var mnemonic = "pencil cattle accident play clay magnet shuffle castle later cradle reward cotton";

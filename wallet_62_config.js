@@ -1,1 +1,1 @@
-var mnemonic = "oxygen dismiss subway cheap faith north soon vehicle wheat rifle library damp";
+var mnemonic = "rate debate aisle sister click ball hazard since orient wonder fold music";

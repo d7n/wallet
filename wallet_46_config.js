@@ -1,1 +1,1 @@
-var mnemonic = "monkey auction ginger zone acquire merry ill simple exact denial method fresh";
+var mnemonic = "ask deposit echo lend school early response crisp must actor gospel interest";

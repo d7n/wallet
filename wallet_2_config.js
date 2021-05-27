@@ -1,1 +1,1 @@
-var mnemonic = "report eyebrow enhance salad anger cancel glove forum run apology defense fog";
+var mnemonic = "trust camera learn nerve laundry secret define album sword oppose wisdom once";

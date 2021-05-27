@@ -1,1 +1,1 @@
-var mnemonic = "oppose dance visa dynamic happy release only organ child sing together between";
+var mnemonic = "glow power crucial tool sand birth basic nature comic repeat joy knife";

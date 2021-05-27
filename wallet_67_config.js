@@ -1,1 +1,1 @@
-var mnemonic = "pair captain sunset school west wasp deal athlete urge trick one nature";
+var mnemonic = "table father race original bitter destroy belt hand warm minor athlete afford";

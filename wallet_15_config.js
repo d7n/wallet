@@ -1,1 +1,1 @@
-var mnemonic = "unaware nurse spy weird crouch trip spare rifle creek apology blind key";
+var mnemonic = "ripple atom true wave banner quick outdoor era state scan orange risk";

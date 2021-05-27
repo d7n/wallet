@@ -1,1 +1,1 @@
-var mnemonic = "video seek affair black fortune trophy news helmet picture cotton result father";
+var mnemonic = "catch brain pepper sweet wild layer claim hotel dolphin avocado dry orange";

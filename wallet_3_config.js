@@ -1,1 +1,1 @@
-var mnemonic = "knock winter split gold unhappy clap denial use act club clock under";
+var mnemonic = "slender prize guide draw deputy stone isolate approve turn escape label upgrade";

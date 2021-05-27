@@ -1,1 +1,1 @@
-var mnemonic = "siege enrich law donor timber solve program scan announce panther increase weasel";
+var mnemonic = "anchor guitar tunnel chronic real impose degree misery piece inspire jazz brand";

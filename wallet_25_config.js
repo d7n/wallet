@@ -1,1 +1,1 @@
-var mnemonic = "yellow glass verb ignore target execute mix rural attack glory wrap now";
+var mnemonic = "endorse surround battle slam visual ill rapid when ribbon fashion swap regret";

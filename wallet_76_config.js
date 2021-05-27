@@ -1,1 +1,1 @@
-var mnemonic = "lecture annual caught found tumble loan diet strategy catch speed work tackle";
+var mnemonic = "nuclear garment robot promote grant remember ship play similar local rally pluck";

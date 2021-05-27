@@ -1,1 +1,1 @@
-var mnemonic = "marble jeans reduce gentle fence march smooth flee acquire trial text eagle";
+var mnemonic = "season fantasy coyote foam drum piano quantum sudden clean unique acoustic mass";
