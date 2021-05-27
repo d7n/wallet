@@ -1,1 +1,1 @@
-var mnemonic = "stand gospel firm poem cheap try pulse bone moon front erosion ginger";
+var mnemonic = "opinion category proof lounge area bless coin strong muffin kiss ivory fan";

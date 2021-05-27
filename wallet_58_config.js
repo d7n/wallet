@@ -1,1 +1,1 @@
-var mnemonic = "normal busy artefact creek beyond pepper over area differ ostrich lemon siren";
+var mnemonic = "nature design drum deny message organ thrive sing actual guide assault civil";

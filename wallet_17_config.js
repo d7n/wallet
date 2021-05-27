@@ -1,1 +1,1 @@
-var mnemonic = "utility brand park novel claw need people era face replace seven burger";
+var mnemonic = "fury pact asset fortune supply february deal vague weasel pluck ski sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "empower salad three supply trouble goose carbon normal romance movie tobacco board";
+var mnemonic = "cupboard plastic satisfy false develop busy hair feature scrub error try express";

@@ -1,1 +1,1 @@
-var mnemonic = "hat sudden rescue vast unit border frame license job spoil income volume";
+var mnemonic = "season churn candy garbage argue cancel list multiply hundred blouse demise earn";

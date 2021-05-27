@@ -1,1 +1,1 @@
-var mnemonic = "issue title good bid birth will stem fancy abstract subway draft warfare";
+var mnemonic = "blush tomato office surround assume autumn equal duck powder rally end win";

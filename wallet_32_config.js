@@ -1,1 +1,1 @@
-var mnemonic = "cook stove core onion kind original twelve nerve feature ranch width cousin";
+var mnemonic = "chef region surge resist flavor field ten road join vintage master rely";

@@ -1,1 +1,1 @@
-var mnemonic = "torch detect kidney scale bring hope funny title luggage enlist measure excess";
+var mnemonic = "sense way tower tomorrow hour caution suit leave warfare peanut diet swarm";

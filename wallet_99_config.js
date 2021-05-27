@@ -1,1 +1,1 @@
-var mnemonic = "fold steel slab excess present divide want income negative crystal negative host";
+var mnemonic = "basic cake loan vote hover anxiety fringe grow assault index access tumble";

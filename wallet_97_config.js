@@ -1,1 +1,1 @@
-var mnemonic = "amused program wisdom harvest figure panda dignity join before dentist plug debris";
+var mnemonic = "lake wild stove control lake upset flee purse wealth foam blouse endless";

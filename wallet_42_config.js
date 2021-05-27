@@ -1,1 +1,1 @@
-var mnemonic = "embody fiscal theory tide purse skull method festival install cat cradle door";
+var mnemonic = "guess pluck liar truth virtual mad addict runway label sample wrist critic";

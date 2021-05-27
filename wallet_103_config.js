@@ -1,1 +1,1 @@
-var mnemonic = "whale then hour uphold capital modify pipe zebra life annual budget monkey";
+var mnemonic = "maze okay worry lawn wise caught child orient visa advice foot report";

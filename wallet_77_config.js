@@ -1,1 +1,1 @@
-var mnemonic = "purity monkey chalk tiny deer broccoli pizza surprise spatial raise link ladder";
+var mnemonic = "begin dash mushroom dynamic tuna income mask disagree flag exhibit renew panic";

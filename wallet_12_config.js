@@ -1,1 +1,1 @@
-var mnemonic = "craft power emerge update fashion abstract art price arrive hurry dragon train";
+var mnemonic = "domain differ betray year relax wish host rocket chapter train stairs output";

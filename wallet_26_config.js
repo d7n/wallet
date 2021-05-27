@@ -1,1 +1,1 @@
-var mnemonic = "donate pledge carpet minute upgrade submit six derive choice offer sausage company";
+var mnemonic = "adjust umbrella mirror flower domain punch trip pudding album hill lend column";

@@ -1,1 +1,1 @@
-var mnemonic = "around fortune club barely april eye avocado art pelican dinosaur deliver east";
+var mnemonic = "vague fatigue intact dry zebra help quality gauge robot recall trend butter";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke artist live twice sound dream frog bag couch bid siren caught";
+var mnemonic = "neglect youth square enlist daughter fog clarify canvas ostrich tongue enrich main";

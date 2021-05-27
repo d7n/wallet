@@ -1,1 +1,1 @@
-var mnemonic = "mandate history solar hurdle element surface copper erode jeans weird buyer clip";
+var mnemonic = "alcohol way cradle whip gentle chaos wing innocent horror end voice renew";

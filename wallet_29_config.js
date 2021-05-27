@@ -1,1 +1,1 @@
-var mnemonic = "protect warrior employ region verb immune obey enact guitar ridge expect leisure";
+var mnemonic = "potato cream vacuum glare mandate refuse limb two tonight tilt swim member";

@@ -1,1 +1,1 @@
-var mnemonic = "please talent inform hammer error dragon equip truck glide detail firm cereal";
+var mnemonic = "task evolve wait song drive volume office oppose great grocery alone hidden";

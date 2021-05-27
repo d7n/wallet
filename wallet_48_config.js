@@ -1,1 +1,1 @@
-var mnemonic = "toss december celery derive razor staff sauce cradle river host disease virus";
+var mnemonic = "rigid soda course profit forget impose save pass few humble cargo royal";

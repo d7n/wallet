@@ -1,1 +1,1 @@
-var mnemonic = "history like true loop flip cover able matter clean green room favorite";
+var mnemonic = "bean impulse thing volcano sorry include moment trial toy project excuse recycle";

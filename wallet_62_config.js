@@ -1,1 +1,1 @@
-var mnemonic = "fiction convince morning lazy present during salon switch coil soul shuffle impulse";
+var mnemonic = "memory rookie layer flash rebel guess hidden vibrant save govern ride smile";

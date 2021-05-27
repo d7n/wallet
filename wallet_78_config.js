@@ -1,1 +1,1 @@
-var mnemonic = "rubber quick illegal shine grace derive post sting cruise smoke hunt funny";
+var mnemonic = "jump govern humor olympic super oven inject detect panda gauge salon kitchen";

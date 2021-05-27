@@ -1,1 +1,1 @@
-var mnemonic = "door song direct lazy artwork manual prison crane vanish chicken scrap lunar";
+var mnemonic = "hybrid memory post decorate toast nose black blind sword normal mimic lottery";

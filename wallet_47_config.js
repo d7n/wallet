@@ -1,1 +1,1 @@
-var mnemonic = "maple pull silly answer hip infant abuse cargo slow cactus depart nephew";
+var mnemonic = "discover unique noble obscure fiber hill left shy enrich shrimp weapon party";

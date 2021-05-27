@@ -1,1 +1,1 @@
-var mnemonic = "exchange traffic remember cricket unknown frost inquiry fringe film window master method";
+var mnemonic = "october diesel modify jazz shoot meat lounge hollow doctor improve bundle write";

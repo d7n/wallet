@@ -1,1 +1,1 @@
-var mnemonic = "door slogan domain rebuild episode oblige busy ritual speak trend exhaust crystal";
+var mnemonic = "fit write thunder gloom blue mystery swamp wise present fringe neck cause";

@@ -1,1 +1,1 @@
-var mnemonic = "globe kick expire review age about reward digital involve shallow screen elite";
+var mnemonic = "luggage future sell pass learn again purse sign appear body farm evidence";

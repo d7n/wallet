@@ -1,1 +1,1 @@
-var mnemonic = "peanut asset lunch enlist liar own boat urge seek inmate trouble acoustic";
+var mnemonic = "avoid habit diagram change absurd duty gas tobacco over desert roast ribbon";

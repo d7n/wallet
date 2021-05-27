@@ -1,1 +1,1 @@
-var mnemonic = "display ozone such when dutch pave neck image cruel input play mouse";
+var mnemonic = "syrup rely grit dose shoulder mail denial tennis teach science island quote";

@@ -1,1 +1,1 @@
-var mnemonic = "move make rely upgrade science grocery pulse silly embrace parade amazing boat";
+var mnemonic = "exile torch crash orbit enemy glass outdoor snack minute reject mass brother";

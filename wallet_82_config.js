@@ -1,1 +1,1 @@
-var mnemonic = "dry faith sister end describe gym snake episode ripple urge type wool";
+var mnemonic = "flag rapid salt rain social high dad kidney strike credit liar present";

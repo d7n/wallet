@@ -1,1 +1,1 @@
-var mnemonic = "venture prison alone local snow always squirrel roast cover lava toe cause";
+var mnemonic = "lonely parent cinnamon acid base involve close frequent better industry post movie";

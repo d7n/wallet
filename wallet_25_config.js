@@ -1,1 +1,1 @@
-var mnemonic = "pool hint gaze bargain sheriff oyster apple midnight pledge rhythm twenty used";
+var mnemonic = "hurry grunt arrive spirit useless exercise pattern join essay patrol left option";

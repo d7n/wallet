@@ -1,1 +1,1 @@
-var mnemonic = "wedding hint process camera subject behind spider ostrich hazard ancient head arrange";
+var mnemonic = "minute gesture draw peasant toward parade endorse steel breeze pelican frown amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "course dutch payment hub increase tissue march owner ring elegant lock knee";
+var mnemonic = "fall muffin general cheap right oil force siren element doll globe enlist";

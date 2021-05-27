@@ -1,1 +1,1 @@
-var mnemonic = "churn renew shadow soda awful economy wolf love eyebrow solar pull pepper";
+var mnemonic = "sting volcano huge pepper force tribe fluid ankle suit raise picnic army";

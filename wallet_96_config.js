@@ -1,1 +1,1 @@
-var mnemonic = "decorate divide dose win view mirror excess need honey feel early velvet";
+var mnemonic = "razor demise sort traffic other level letter ignore lady dish defy detail";

@@ -1,1 +1,1 @@
-var mnemonic = "winter quit brand same satoshi tenant miracle spoil vague other inform apple";
+var mnemonic = "gallery accuse spirit loan foam flash pistol cousin rack eagle valid sight";

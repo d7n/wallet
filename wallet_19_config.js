@@ -1,1 +1,1 @@
-var mnemonic = "potato hurry jar salmon south unfold frame release siege toy reveal civil";
+var mnemonic = "genius deer accuse push fiber like shoe enrich master cloud ugly bind";

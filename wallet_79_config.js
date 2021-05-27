@@ -1,1 +1,1 @@
-var mnemonic = "when patrol tissue tourist hood mystery patient gate way empty leg extend";
+var mnemonic = "pact wave artefact settle torch sing aware own six private spray gold";

@@ -1,1 +1,1 @@
-var mnemonic = "lab rough goose universe cute crunch stuff ghost gift cargo live primary";
+var mnemonic = "blame cereal era budget sell flame interest cushion budget nerve that fix";

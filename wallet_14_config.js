@@ -1,1 +1,1 @@
-var mnemonic = "memory outdoor decline cup pen fun struggle duck avocado steel tobacco manage";
+var mnemonic = "vanish sock child regular negative pull pretty problem boss discover process sea";

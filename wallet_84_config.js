@@ -1,1 +1,1 @@
-var mnemonic = "entire crater shock lunar seat six news deny pool actress acoustic shock";
+var mnemonic = "capable raccoon victory tool science sing muffin enact conduct analyst fix alley";

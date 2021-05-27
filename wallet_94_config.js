@@ -1,1 +1,1 @@
-var mnemonic = "enforce release speak outdoor since service buddy nose stand peanut frozen rail";
+var mnemonic = "scheme true such raise vivid orphan panther east black napkin jazz promote";

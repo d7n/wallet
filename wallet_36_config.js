@@ -1,1 +1,1 @@
-var mnemonic = "scout drop flame task wrist memory culture coil decrease devote lucky measure";
+var mnemonic = "tunnel soda busy brief parrot mercy label task topic mind learn view";

@@ -1,1 +1,1 @@
-var mnemonic = "cause invest sword plastic fox inquiry forum report reunion donate eye where";
+var mnemonic = "correct dilemma antique casual script frozen flat unhappy glad oyster shove void";

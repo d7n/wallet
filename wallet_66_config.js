@@ -1,1 +1,1 @@
-var mnemonic = "invite luxury town pitch story almost inject move duck owner cheap notable";
+var mnemonic = "kind sponsor seven know pizza either actual battle verify fancy give weapon";

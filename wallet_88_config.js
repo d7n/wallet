@@ -1,1 +1,1 @@
-var mnemonic = "phrase defense cherry example denial forward limit world other old photo spare";
+var mnemonic = "gown wine mutual zebra twelve struggle more daring cram sheriff six pet";

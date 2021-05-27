@@ -1,1 +1,1 @@
-var mnemonic = "volume lounge street library glue surround click only future wild safe act";
+var mnemonic = "amateur cover moon wage bless claw assume govern page kitten devote deny";

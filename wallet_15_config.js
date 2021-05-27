@@ -1,1 +1,1 @@
-var mnemonic = "describe regular someone job smart hockey mutual into absent robot common add";
+var mnemonic = "clay tunnel usual shuffle penalty champion early raw trim venture fossil flag";

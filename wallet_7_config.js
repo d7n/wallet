@@ -1,1 +1,1 @@
-var mnemonic = "avocado slush hat team echo spawn diesel check female trade awake circle";
+var mnemonic = "effort bread sketch atom taste embody box rely journey blame orchard firm";

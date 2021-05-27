@@ -1,1 +1,1 @@
-var mnemonic = "obtain acquire odor install material pool two guilt never brave agent cabbage";
+var mnemonic = "cram noodle solve hungry behind metal account spike clip legal fringe grass";

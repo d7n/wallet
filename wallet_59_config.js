@@ -1,1 +1,1 @@
-var mnemonic = "myself bonus coast foil laugh catch vault wet veteran october clever fit";
+var mnemonic = "front hollow track jealous above prevent service brand much october garlic ugly";

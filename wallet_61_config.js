@@ -1,1 +1,1 @@
-var mnemonic = "viable private shoe winner number equip prepare need bright river stomach struggle";
+var mnemonic = "oak list mandate harbor captain cargo unaware gorilla gloom sort distance arrive";

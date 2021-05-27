@@ -1,1 +1,1 @@
-var mnemonic = "mask road opera social rule fall silk garden identify walnut cry orient";
+var mnemonic = "run similar wonder rail cloth come travel stumble rate repeat maid beach";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow burden life pen eternal below genius bullet stick tape eternal interest";
+var mnemonic = "supreme palm news clerk retreat salt spy endless liar evidence match grid";

@@ -1,1 +1,1 @@
-var mnemonic = "river live advance same brick injury agree job pulp same kind citizen";
+var mnemonic = "just school scrap crawl skill alpha expire onion swarm duck social future";

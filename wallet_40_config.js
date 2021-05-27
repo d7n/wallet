@@ -1,1 +1,1 @@
-var mnemonic = "predict raccoon exact involve loop grit brief soul tragic nation trap round";
+var mnemonic = "media champion rally dial say wing best luxury pluck ivory toddler reveal";

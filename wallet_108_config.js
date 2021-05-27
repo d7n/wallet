@@ -1,1 +1,1 @@
-var mnemonic = "merit sad bounce pulse time test sunny bonus shoe pool scene smooth";
+var mnemonic = "waste slab fruit also upgrade fortune chunk mention exercise kind bone layer";

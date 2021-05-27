@@ -1,1 +1,1 @@
-var mnemonic = "once wet kind electric draw alien begin van pull snake wise solar";
+var mnemonic = "knife point like retire boring multiply measure spider cereal lesson obtain grid";

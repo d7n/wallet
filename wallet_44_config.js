@@ -1,1 +1,1 @@
-var mnemonic = "cart reform lyrics grape forum win doll middle blush cool skirt rely";
+var mnemonic = "pumpkin joke enact ensure anxiety mango retreat survey vintage oppose truth clog";

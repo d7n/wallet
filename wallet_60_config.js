@@ -1,1 +1,1 @@
-var mnemonic = "purity merry play parent sting chase slim sad regular letter make garlic";
+var mnemonic = "crane act level put start search toilet avocado pretty pull again scheme";

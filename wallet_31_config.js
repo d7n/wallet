@@ -1,1 +1,1 @@
-var mnemonic = "coast brass bean black gossip settle twice devote absurd announce mixture echo";
+var mnemonic = "cat crowd measure reunion boy giggle force federal sun someone debate pipe";

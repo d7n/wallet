@@ -1,1 +1,1 @@
-var mnemonic = "broken sketch door table patrol address blade entry rare script remove thunder";
+var mnemonic = "carry friend engine rebel shoulder velvet scheme dry boil plug inch column";

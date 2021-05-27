@@ -1,1 +1,1 @@
-var mnemonic = "leave sort brush worth manual sweet culture layer skill noise pulp hurry";
+var mnemonic = "stuff initial chair absorb annual dance ramp cement ten blade vicious wrestle";

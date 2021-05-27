@@ -1,1 +1,1 @@
-var mnemonic = "rhythm pretty tonight much save message huge quote galaxy brain apart swallow";
+var mnemonic = "inch donate private verify feel traffic exhibit grit master wrist urban lab";

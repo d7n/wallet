@@ -1,1 +1,1 @@
-var mnemonic = "owner echo top name slab minute brother page voyage leave supreme become";
+var mnemonic = "robot gate pattern cook way maze quit truly very afford hybrid state";

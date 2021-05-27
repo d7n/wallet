@@ -1,1 +1,1 @@
-var mnemonic = "home club box guide sunset summer piece ski wheat current airport chuckle";
+var mnemonic = "gas novel custom fire achieve panda october night eyebrow arrow excite spirit";

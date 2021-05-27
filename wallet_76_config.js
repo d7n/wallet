@@ -1,1 +1,1 @@
-var mnemonic = "match rent cram robot purity arch disagree critic again muscle earth visit";
+var mnemonic = "age kangaroo box hub drink update affair proud follow income room diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal border obtain record athlete onion resource happy neutral fit remain crunch";
+var mnemonic = "west slot ahead swift essay cigar mirror measure hole deny math sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "parade fall raccoon agent sport list roast derive eyebrow thrive utility original";
+var mnemonic = "captain lab street repair family office second vintage radio subway evidence hammer";

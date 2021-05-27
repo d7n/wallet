@@ -1,1 +1,1 @@
-var mnemonic = "shallow burden chronic guitar athlete elephant clock mammal mail romance luxury mystery";
+var mnemonic = "license carry share plunge life gather coin zero sauce state gas remain";

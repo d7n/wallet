@@ -1,1 +1,1 @@
-var mnemonic = "glad include timber fresh slow original chef cattle cage burst rude trend";
+var mnemonic = "unaware kangaroo obtain boat stone tennis airport kiwi hard deposit oil merry";

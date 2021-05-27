@@ -1,1 +1,1 @@
-var mnemonic = "regret skate they stairs wage word light rice rain drill buffalo art";
+var mnemonic = "quantum clip movie fury remember situate theory lottery wood excite stone public";

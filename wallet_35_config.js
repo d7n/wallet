@@ -1,1 +1,1 @@
-var mnemonic = "brisk celery gauge rug frame engage item hungry sniff boil rail arena";
+var mnemonic = "rifle entry bar quality add demand purity buzz orphan room enemy chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict ethics lemon carry draw very wreck bubble head wood mind staff";
+var mnemonic = "umbrella rebuild coral flight print jacket later secret damp reject immense tent";

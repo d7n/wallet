@@ -1,1 +1,1 @@
-var mnemonic = "rival slide leave north oval vehicle hello swamp tide mouse one actual";
+var mnemonic = "extend slender blouse balcony above vanish scrub hen infant crack cricket apart";

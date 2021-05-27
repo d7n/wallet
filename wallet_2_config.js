@@ -1,1 +1,1 @@
-var mnemonic = "average minor clutch then ensure bacon churn planet below cheese toast replace";
+var mnemonic = "mushroom language feel piano aspect resemble word find pride salon rebel twenty";

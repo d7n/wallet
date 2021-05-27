@@ -1,1 +1,1 @@
-var mnemonic = "minor lizard vapor observe reopen guitar fetch execute floor pepper shoot dove";
+var mnemonic = "escape novel suit feature shuffle abstract plug marine network donor favorite divide";

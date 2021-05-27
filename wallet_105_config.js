@@ -1,1 +1,1 @@
-var mnemonic = "office orange document rent concert unfair umbrella crystal laptop glass sound music";
+var mnemonic = "proof multiply wear say ride faith surround video welcome pride scissors lamp";

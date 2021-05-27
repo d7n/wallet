@@ -1,1 +1,1 @@
-var mnemonic = "sausage magnet eternal taxi rocket train fiber foil alter under action gym";
+var mnemonic = "salad venue lava refuse street heavy better shadow mom urban denial cannon";

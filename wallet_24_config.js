@@ -1,1 +1,1 @@
-var mnemonic = "three nature idea capable desert early skate unique identify floor road sing";
+var mnemonic = "path general hint survey cactus history steel riot dumb alcohol category funny";

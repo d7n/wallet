@@ -1,1 +1,1 @@
-var mnemonic = "hawk wood outdoor churn camp razor emerge attitude verify design dash shed";
+var mnemonic = "latin heart initial grape busy cereal dream flee protect need glide desert";

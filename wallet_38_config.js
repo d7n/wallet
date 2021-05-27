@@ -1,1 +1,1 @@
-var mnemonic = "onion arctic corn deposit trumpet reduce display wisdom diamond general tattoo kitchen";
+var mnemonic = "loan attack swing crisp police solid bargain august game float bleak volcano";

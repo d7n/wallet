@@ -1,1 +1,1 @@
-var mnemonic = "click ramp tuna immense yellow mystery burst bargain poem valley promote vacuum";
+var mnemonic = "opinion lab display total walk pumpkin service retire circle habit smart tower";
