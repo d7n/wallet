@@ -1,1 +1,1 @@
-var mnemonic = "away behind myself network critic spider logic visit barely syrup afford steak";
+var mnemonic = "inside insect source virus diet cradle deposit lemon bundle cake volume mystery";

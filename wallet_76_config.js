@@ -1,1 +1,1 @@
-var mnemonic = "phone whale letter recipe differ essence bid among summer replace pair upon";
+var mnemonic = "seed elevator glow dragon law unable differ stairs put lecture track around";

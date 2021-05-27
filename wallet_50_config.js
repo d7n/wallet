@@ -1,1 +1,1 @@
-var mnemonic = "door timber orient warm fire aspect ugly funny magic treat enhance dash";
+var mnemonic = "marine what chat expire slide use hand order cream cattle oxygen error";

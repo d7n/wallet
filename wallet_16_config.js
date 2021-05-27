@@ -1,1 +1,1 @@
-var mnemonic = "sudden apart enforce buddy accident ride ivory plug point visa video cattle";
+var mnemonic = "student loop involve pioneer insane stem they satoshi clutch edge dice fan";

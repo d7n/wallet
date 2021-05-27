@@ -1,1 +1,1 @@
-var mnemonic = "curve promote square shoe squirrel home call shiver truth oval cram suit";
+var mnemonic = "hollow come power eagle repeat rifle travel treat melody later burden radio";

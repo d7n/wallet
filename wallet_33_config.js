@@ -1,1 +1,1 @@
-var mnemonic = "industry dismiss acquire entire input general friend alley goat quiz cross hunt";
+var mnemonic = "sheriff apart correct library tattoo route chair budget slide maid bright allow";

@@ -1,1 +1,1 @@
-var mnemonic = "item warrior luggage foil clap virtual inner asthma able later whisper lobster";
+var mnemonic = "all fire notable gauge train february little eight crawl spend fortune slender";

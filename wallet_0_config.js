@@ -1,1 +1,1 @@
-var mnemonic = "boring village room physical language among film champion dinosaur rescue guide disorder";
+var mnemonic = "scrap feed oxygen certain sibling brief oak alpha cargo tape luxury deputy";

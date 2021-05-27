@@ -1,1 +1,1 @@
-var mnemonic = "spot defense girl athlete million clap melt luggage mesh silent cricket basic";
+var mnemonic = "cousin promote sea guitar motion vibrant arctic purchase invite embark record tag";

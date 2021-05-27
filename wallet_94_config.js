@@ -1,1 +1,1 @@
-var mnemonic = "require kiss lounge dignity buzz plate tackle churn asset tumble dove twist";
+var mnemonic = "favorite time pink manual easy wheat cactus answer body diamond patient risk";

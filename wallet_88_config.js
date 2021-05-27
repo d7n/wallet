@@ -1,1 +1,1 @@
-var mnemonic = "cave earth shuffle category field found struggle bleak add hunt initial enact";
+var mnemonic = "fog love urban brain public ladder disorder oval pen seed media orchard";

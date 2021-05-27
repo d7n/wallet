@@ -1,1 +1,1 @@
-var mnemonic = "bamboo limit tower lunar wear cup assume property check clay believe silly";
+var mnemonic = "route income final teach floor transfer sauce omit display pony dove mushroom";

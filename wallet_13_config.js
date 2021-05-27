@@ -1,1 +1,1 @@
-var mnemonic = "echo demise laundry sell pupil utility mosquito reunion unknown property tennis violin";
+var mnemonic = "wave month pepper myself steak aerobic exact girl invest symbol abuse subway";

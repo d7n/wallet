@@ -1,1 +1,1 @@
-var mnemonic = "solid alley ordinary sentence nothing glimpse gorilla coast plastic bar century critic";
+var mnemonic = "luxury away joy erode abuse record reflect weird exhibit door slice brisk";

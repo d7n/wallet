@@ -1,1 +1,1 @@
-var mnemonic = "element dial digital peasant expire wagon approve tree lock grain invest orphan";
+var mnemonic = "scale gossip smile ride curious eyebrow suffer lava faculty canvas solve tired";

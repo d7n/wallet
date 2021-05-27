@@ -1,1 +1,1 @@
-var mnemonic = "honey leg muscle hope denial wire tumble true uncover puppy cattle spoon";
+var mnemonic = "place drum tail vessel sudden any silver orbit lizard spice gauge rabbit";

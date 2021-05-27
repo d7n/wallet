@@ -1,1 +1,1 @@
-var mnemonic = "swarm country act pass wedding file trend hill daughter abstract protect fiscal";
+var mnemonic = "envelope mutual tiger visa clinic relief inhale worth angle sweet culture pepper";

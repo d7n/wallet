@@ -1,1 +1,1 @@
-var mnemonic = "shift immense juice roof find uncover fortune cable person health birth finger";
+var mnemonic = "job flight foil oval copper lazy risk add life analyst dry option";

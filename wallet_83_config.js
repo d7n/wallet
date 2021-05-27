@@ -1,1 +1,1 @@
-var mnemonic = "aspect swap priority fatigue job resource deliver squirrel alpha scare behave cool";
+var mnemonic = "offer rich inmate pottery genre print twin bachelor ranch skirt margin rice";

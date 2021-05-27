@@ -1,1 +1,1 @@
-var mnemonic = "sick cement link wife vast inflict that merge find equal abandon saddle";
+var mnemonic = "emotion sketch miss used initial explain miss sport enjoy suggest tortoise vast";

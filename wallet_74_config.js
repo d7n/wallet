@@ -1,1 +1,1 @@
-var mnemonic = "degree october water lock art grab never tape unknown brave very fashion";
+var mnemonic = "over bean empower boring error piece frame unlock dutch name coyote trend";

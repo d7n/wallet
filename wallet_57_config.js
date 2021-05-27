@@ -1,1 +1,1 @@
-var mnemonic = "puppy lunar envelope wall heavy system silent combine forward split emerge frost";
+var mnemonic = "pet sphere symbol hello blur dance middle carpet timber lawsuit disagree asthma";

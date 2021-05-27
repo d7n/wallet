@@ -1,1 +1,1 @@
-var mnemonic = "unknown bus inside magnet reflect pumpkin grid slender nuclear skirt wet actor";
+var mnemonic = "subject file gadget pole panda image better still equip behave ketchup magic";

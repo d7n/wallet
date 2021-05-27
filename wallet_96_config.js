@@ -1,1 +1,1 @@
-var mnemonic = "slender hazard force plunge clean elite chef kingdom velvet fruit dutch extend";
+var mnemonic = "theme cry can wealth draft once caught away copper aware host pigeon";

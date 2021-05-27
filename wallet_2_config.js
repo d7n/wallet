@@ -1,1 +1,1 @@
-var mnemonic = "cherry vintage glory horror please trumpet metal alter race feature alien exclude";
+var mnemonic = "system share muscle ivory tip cargo moral tenant sentence roast pair hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "wing remember layer reflect empty already eternal silver play spike save ready";
+var mnemonic = "gallery public hand rate return unknown raw burger gravity maze turtle lava";

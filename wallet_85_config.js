@@ -1,1 +1,1 @@
-var mnemonic = "wheat girl use giraffe rebuild type crucial clutch cabin where close thing";
+var mnemonic = "lobster describe fringe father payment predict early spy text pull warfare cross";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic talent march giraffe embrace magnet deliver siren salad bus stadium syrup";
+var mnemonic = "young number human sure salmon push modify inch badge acoustic crack reward";

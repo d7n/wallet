@@ -1,1 +1,1 @@
-var mnemonic = "mutual addict script intact tackle alter finger donkey wine mimic hand animal";
+var mnemonic = "silly mutual reject begin edge interest fat inspire pave exist board copy";

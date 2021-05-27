@@ -1,1 +1,1 @@
-var mnemonic = "glove notable mimic know hold quantum dice behind exact until mobile squeeze";
+var mnemonic = "adapt rude october shed accident rain that violin black various result dash";

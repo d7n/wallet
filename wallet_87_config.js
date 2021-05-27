@@ -1,1 +1,1 @@
-var mnemonic = "avoid confirm valley pride world eager giggle sentence vessel maximum meadow bring";
+var mnemonic = "reward cruise seminar phrase error around session humble mad clock large novel";

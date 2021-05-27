@@ -1,1 +1,1 @@
-var mnemonic = "enforce forget cover vanish surface final defense claim stage cool mutual surround";
+var mnemonic = "pupil celery amused tennis oyster strike possible purpose violin join bridge moral";

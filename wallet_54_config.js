@@ -1,1 +1,1 @@
-var mnemonic = "wagon crime dinosaur echo business genre party betray despair egg broccoli differ";
+var mnemonic = "genre gloom away matter raw funny trumpet pact mother degree pink vendor";

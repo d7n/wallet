@@ -1,1 +1,1 @@
-var mnemonic = "island valid knock eight wet winter define giant shine thumb occur fault";
+var mnemonic = "vendor drink claw smile wedding glad collect coin nerve view father direct";

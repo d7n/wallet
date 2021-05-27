@@ -1,1 +1,1 @@
-var mnemonic = "file hair fork caution asset hurry junior foil six current gaze save";
+var mnemonic = "smoke mosquito visual heart milk dune final doll expect bind like afford";

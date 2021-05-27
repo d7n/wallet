@@ -1,1 +1,1 @@
-var mnemonic = "scatter equal height awkward force seminar twin poverty garage romance traffic section";
+var mnemonic = "language price float absent upgrade isolate update item spell parade destroy code";

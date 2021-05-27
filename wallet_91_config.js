@@ -1,1 +1,1 @@
-var mnemonic = "coffee trumpet volcano cousin spatial almost harbor behave pass spoon essay sunset";
+var mnemonic = "ticket buzz safe legal bus baby zone accident index humor cluster forest";

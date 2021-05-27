@@ -1,1 +1,1 @@
-var mnemonic = "weasel adapt off joy will hundred endless cabin surge fortune payment surround";
+var mnemonic = "hybrid sphere camera pond fun farm lemon coach gallery other degree harbor";

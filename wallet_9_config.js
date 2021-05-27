@@ -1,1 +1,1 @@
-var mnemonic = "bus kit fever bus general orbit mirror citizen beef crew remove entry";
+var mnemonic = "agent staff retreat stairs account jazz fox solve theme expose remember gorilla";

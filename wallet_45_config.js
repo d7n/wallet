@@ -1,1 +1,1 @@
-var mnemonic = "path whisper grid rather wolf purity kangaroo lock minute stomach buyer replace";
+var mnemonic = "gap cover hold affair secret bitter diary soda enjoy valley target cheese";

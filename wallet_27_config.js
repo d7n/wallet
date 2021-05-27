@@ -1,1 +1,1 @@
-var mnemonic = "glue engage mammal milk divorce behind paddle million cushion deliver addict order";
+var mnemonic = "person manual gospel key hand grain retire benefit fame timber term submit";

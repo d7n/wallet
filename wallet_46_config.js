@@ -1,1 +1,1 @@
-var mnemonic = "spread hotel exile symbol solid vocal taste scare local adapt assist fault";
+var mnemonic = "start dynamic owner heavy industry indicate radar leg cheap jealous cute decrease";

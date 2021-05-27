@@ -1,1 +1,1 @@
-var mnemonic = "dignity wood river loyal glory gap dismiss fire gasp tower future push";
+var mnemonic = "match agent erase little mean arch path bulk emerge renew bring brother";

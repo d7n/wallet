@@ -1,1 +1,1 @@
-var mnemonic = "cushion verify vessel solar grocery step old moment solar surround clinic tray";
+var mnemonic = "timber next result differ all flock mouse lucky decline manage seek trade";

@@ -1,1 +1,1 @@
-var mnemonic = "there pull dial decrease blame diesel trophy green pattern tell thank box";
+var mnemonic = "unfold between tone merry fatal van valve fossil profit like fluid cannon";

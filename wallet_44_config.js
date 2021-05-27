@@ -1,1 +1,1 @@
-var mnemonic = "arctic provide arrange meat stool gorilla fashion right any siren unlock cloud";
+var mnemonic = "genius engine match drift cactus picture rather shiver rather private bunker sad";

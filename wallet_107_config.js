@@ -1,1 +1,1 @@
-var mnemonic = "solution furnace breeze number load know work alien attend talk detect hen";
+var mnemonic = "drink slide umbrella excess child damage glad face solve baby attitude regret";

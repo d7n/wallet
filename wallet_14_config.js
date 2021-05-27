@@ -1,1 +1,1 @@
-var mnemonic = "acid curtain title canvas habit merry property sword near bunker scissors innocent";
+var mnemonic = "today kick cube daring ignore that close confirm clerk sting label category";

@@ -1,1 +1,1 @@
-var mnemonic = "minute bag meadow salad gap sheriff exile bicycle piece cruise crush hair";
+var mnemonic = "tobacco ride found forget caution season antique empower friend news news exercise";

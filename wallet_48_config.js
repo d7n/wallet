@@ -1,1 +1,1 @@
-var mnemonic = "ignore idea quote acquire youth camp novel cost awful grape organ robot";
+var mnemonic = "uniform chest small zone dolphin salad boost silent faint profit blossom amazing";

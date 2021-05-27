@@ -1,1 +1,1 @@
-var mnemonic = "book rescue lesson jeans frame suggest coast misery duck depart alone hamster";
+var mnemonic = "build code attract prepare repeat manual ill ability excuse east wave enter";

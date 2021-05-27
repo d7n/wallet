@@ -1,1 +1,1 @@
-var mnemonic = "develop copy ball anchor friend alone little leg today rescue promote deer";
+var mnemonic = "gentle world dinosaur inhale speak pave nominee earth work reunion easily doll";

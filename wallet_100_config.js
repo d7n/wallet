@@ -1,1 +1,1 @@
-var mnemonic = "husband home surround summer wheat cook priority believe tool topic kiss fiber";
+var mnemonic = "spin patrol horse someone seminar amount project wreck private pole cricket glory";

@@ -1,1 +1,1 @@
-var mnemonic = "senior culture reunion begin pill entry suffer nose stadium trend shrug buyer";
+var mnemonic = "present prepare autumn supply lucky quick holiday fold bind sunny found tired";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial arena squeeze window coast bounce chicken nasty minimum purity bamboo surround";
+var mnemonic = "host glance way praise forest begin crouch cruel plastic quote half maze";

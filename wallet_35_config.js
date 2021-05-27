@@ -1,1 +1,1 @@
-var mnemonic = "memory pull just prepare shrug announce wide stamp wrestle quiz forward grid";
+var mnemonic = "helmet beach term around nuclear claw awake lounge cabbage sort inherit topple";

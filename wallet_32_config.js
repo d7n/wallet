@@ -1,1 +1,1 @@
-var mnemonic = "curtain south same legend face sing leaf barrel grant episode amazing any";
+var mnemonic = "control ribbon rich boring evolve surface gentle shiver abandon rigid spoon audit";

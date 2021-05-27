@@ -1,1 +1,1 @@
-var mnemonic = "box suspect buddy magnet insane spare burger axis dumb science sentence grit";
+var mnemonic = "stone reopen other chef merry attend foam year put climb inherit clap";

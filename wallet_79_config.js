@@ -1,1 +1,1 @@
-var mnemonic = "ability anchor empower improve arrive mixture reduce nasty index fly donor muffin";
+var mnemonic = "avocado topic canyon magic draw common strategy lobster erode include spoil royal";

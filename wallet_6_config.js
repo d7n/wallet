@@ -1,1 +1,1 @@
-var mnemonic = "kiss sound begin laptop pudding ranch heart seed few cannon joke emotion";
+var mnemonic = "census rail defy demand volume welcome second avoid duty mercy slice nest";

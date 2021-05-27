@@ -1,1 +1,1 @@
-var mnemonic = "labor skull east response oval clip dune holiday reopen civil cattle gaze";
+var mnemonic = "journey matter kidney voyage prosper ketchup equip bridge vacuum rookie young menu";

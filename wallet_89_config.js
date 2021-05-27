@@ -1,1 +1,1 @@
-var mnemonic = "sweet always crucial average wave seek suspect pumpkin theme screen kitchen jungle";
+var mnemonic = "give manual earth load august field cart curtain purse fog blur drill";

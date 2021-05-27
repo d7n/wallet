@@ -1,1 +1,1 @@
-var mnemonic = "require there belt element cabin odor require enhance merit donkey vapor reform";
+var mnemonic = "flat observe ancient retire connect brave unusual company model tackle movie message";

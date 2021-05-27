@@ -1,1 +1,1 @@
-var mnemonic = "clog radar fiscal wisdom gospel paddle three topple doll brisk sense depth";
+var mnemonic = "margin charge hurdle diesel grab upset uphold lift disagree doctor pudding brisk";

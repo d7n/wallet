@@ -1,1 +1,1 @@
-var mnemonic = "clay dash knee nothing board dress buffalo balcony story citizen make plunge";
+var mnemonic = "milk lion measure hold confirm topic random spoil local analyst lion acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe genius van visual siren amused truly emerge leg myth lumber taste";
+var mnemonic = "same million problem spawn exile convince amount tomorrow sail mule history public";

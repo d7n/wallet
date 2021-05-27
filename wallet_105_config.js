@@ -1,1 +1,1 @@
-var mnemonic = "there nose zone expose unveil review husband stuff table mutual roast style";
+var mnemonic = "because brick shoot asthma will click comic void vivid glad silk rich";

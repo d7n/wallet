@@ -1,1 +1,1 @@
-var mnemonic = "tired spring shuffle loud soft rapid follow erosion wait shuffle one citizen";
+var mnemonic = "divert asthma inner tiger energy salad rude pudding twelve silk must bread";

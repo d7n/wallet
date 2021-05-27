@@ -1,1 +1,1 @@
-var mnemonic = "decade roast near reduce jealous piano kitten figure sudden another wasp property";
+var mnemonic = "idle display arm lens lemon zoo donate possible sentence symbol great begin";

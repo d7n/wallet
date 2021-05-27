@@ -1,1 +1,1 @@
-var mnemonic = "rebuild wealth left crouch maid armed draft catch flash ghost woman repair";
+var mnemonic = "salon frown cargo exact job reduce army cannon hamster embrace clog source";

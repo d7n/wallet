@@ -1,1 +1,1 @@
-var mnemonic = "pony survey main fatigue boring trust answer digital rely almost genius avocado";
+var mnemonic = "sport stock capital design huge ethics adult arrest dance chaos gossip trouble";

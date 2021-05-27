@@ -1,1 +1,1 @@
-var mnemonic = "joke evil pear attack game bind metal fortune math donor swap program";
+var mnemonic = "palm puppy caught tide hundred useful success cave pudding bronze debris still";

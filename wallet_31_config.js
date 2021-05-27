@@ -1,1 +1,1 @@
-var mnemonic = "rich resist priority swear attend weekend depart earn beauty allow during nurse";
+var mnemonic = "morning segment palm cloth feed party segment dance arctic attitude picture nature";

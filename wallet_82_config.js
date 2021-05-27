@@ -1,1 +1,1 @@
-var mnemonic = "fame carpet banner gaze board elegant bright glimpse alter upset camp wise";
+var mnemonic = "sign remain item since dash ready couple jelly knife cage earn project";

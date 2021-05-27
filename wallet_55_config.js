@@ -1,1 +1,1 @@
-var mnemonic = "space logic able poem expect tower lesson cry lounge gloom series few";
+var mnemonic = "nasty connect chalk violin reunion absorb fold trouble recipe object body eager";

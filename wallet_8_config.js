@@ -1,1 +1,1 @@
-var mnemonic = "urban girl bundle ten again quick half whisper sight steel crouch agent";
+var mnemonic = "visual swap crumble spirit cheese door again service chest comic put resemble";

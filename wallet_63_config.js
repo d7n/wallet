@@ -1,1 +1,1 @@
-var mnemonic = "rain like access faith turn transfer field immense eager inmate phone advice";
+var mnemonic = "wrestle slam above merit jeans awkward arctic check horn kick talk curious";

@@ -1,1 +1,1 @@
-var mnemonic = "script agree collect royal number wait silver atom sunny vague video upset";
+var mnemonic = "manage audit sure verify property present grant gentle drink coast scare virtual";

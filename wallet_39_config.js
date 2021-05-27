@@ -1,1 +1,1 @@
-var mnemonic = "loan debris balcony business bag point hole wood flash biology pyramid thought";
+var mnemonic = "test drama despair try defy obey kingdom lab warrior warfare autumn hunt";

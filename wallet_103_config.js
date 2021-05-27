@@ -1,1 +1,1 @@
-var mnemonic = "type behave vital best wrap derive dirt apology latin hover curve whale";
+var mnemonic = "scrap ocean better annual away deposit organ volume poverty certain gadget guard";

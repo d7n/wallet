@@ -1,1 +1,1 @@
-var mnemonic = "label noise budget invite right speak business cluster twice orbit odor mesh";
+var mnemonic = "program number seminar agent include chief library chicken message immune furnace inflict";

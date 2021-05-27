@@ -1,1 +1,1 @@
-var mnemonic = "shed crunch lumber betray news often fossil season hood monster start seven";
+var mnemonic = "wood phone owner marine knee area thrive penalty quality wait marine genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "tell transfer climb boss wise churn leaf fan height nest dove talent";
+var mnemonic = "basket fix nest actor analyst angle museum cradle bag easy kid peace";

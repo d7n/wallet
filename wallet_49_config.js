@@ -1,1 +1,1 @@
-var mnemonic = "oil square monitor zebra future access abuse symptom discover rescue impact arctic";
+var mnemonic = "title episode twice hammer supreme steel derive energy someone strike rent series";

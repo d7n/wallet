@@ -1,1 +1,1 @@
-var mnemonic = "rough dawn grab call van decorate engine false fix direct receive carbon";
+var mnemonic = "similar jacket deliver fortune pattern dice draw grant mansion payment sad worry";

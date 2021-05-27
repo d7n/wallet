@@ -1,1 +1,1 @@
-var mnemonic = "escape come gaze van century squirrel agree joy unique roast ill sample";
+var mnemonic = "hammer auto outdoor arm faint secret buzz father spirit flash slight tilt";

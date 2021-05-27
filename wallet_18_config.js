@@ -1,1 +1,1 @@
-var mnemonic = "youth woman try deer topic wisdom wine brush join elder rough lemon";
+var mnemonic = "multiply host vocal best ozone provide frame duty mercy best mango napkin";

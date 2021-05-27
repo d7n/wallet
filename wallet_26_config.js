@@ -1,1 +1,1 @@
-var mnemonic = "delay scatter uncle document wine push citizen armor liberty main this aerobic";
+var mnemonic = "adjust ring lyrics rate unfold matter industry section soon book cheese retire";

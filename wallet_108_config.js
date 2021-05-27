@@ -1,1 +1,1 @@
-var mnemonic = "art tray drum smart lunch mask oval omit swift embrace leave margin";
+var mnemonic = "high silent domain work field box boy pizza obvious feel useful floor";
