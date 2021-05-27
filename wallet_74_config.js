@@ -1,1 +1,1 @@
-var mnemonic = "glow hub clog scare around fatigue vendor offer gaze never brush opinion";
+var mnemonic = "bracket fire liberty ugly drive certain ability orchard usage engage sell rigid";

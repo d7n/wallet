@@ -1,1 +1,1 @@
-var mnemonic = "cover home offer moment spirit beach cheap barely settle clock recipe glad";
+var mnemonic = "collect solution wrong budget exit festival sentence staff sun unit empty shrimp";

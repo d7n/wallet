@@ -1,1 +1,1 @@
-var mnemonic = "price observe child air idea soda angry pass steel doll about logic";
+var mnemonic = "pumpkin enjoy derive silver chalk bacon basic cram laugh embody brown pond";

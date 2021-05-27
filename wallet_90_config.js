@@ -1,1 +1,1 @@
-var mnemonic = "thing approve used elevator alarm average object tornado marine medal fashion face";
+var mnemonic = "punch media flavor marble mail vapor knock path amazing blouse service combine";

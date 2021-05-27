@@ -1,1 +1,1 @@
-var mnemonic = "abstract rely produce general message enter street warm dose walk okay mix";
+var mnemonic = "circle hurt happy master razor oak emotion unaware lend inhale survey camp";

@@ -1,1 +1,1 @@
-var mnemonic = "glue top pair lunch mask eye trip ramp where brand safe sheriff";
+var mnemonic = "chuckle arctic jeans pepper stomach scrub bulk property crazy margin admit kitten";

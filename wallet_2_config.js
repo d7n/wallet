@@ -1,1 +1,1 @@
-var mnemonic = "dizzy certain crawl silver win fantasy learn joke size purchase rural feel";
+var mnemonic = "laugh exact public tongue base country execute cushion lemon flock concert poem";

@@ -1,1 +1,1 @@
-var mnemonic = "claw eye enrich enable small fence before tennis confirm baby live swear";
+var mnemonic = "world pupil spirit siege fault unknown version hire uniform comfort unit almost";

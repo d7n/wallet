@@ -1,1 +1,1 @@
-var mnemonic = "sunny apart film employ target detail cousin silly next absent glow trap";
+var mnemonic = "loop stereo possible purpose expire notice electric hen lava impulse slam knee";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry arena vacuum hair unknown primary blue section merge public gesture occur";
+var mnemonic = "false march super typical pelican neck promote tag eye vendor ramp access";

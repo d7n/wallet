@@ -1,1 +1,1 @@
-var mnemonic = "cage medal obtain helmet view assist vacant magnet bone tongue hover announce";
+var mnemonic = "model neck gasp ski hold surprise adapt tiger spike penalty almost twist";

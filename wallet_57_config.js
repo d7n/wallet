@@ -1,1 +1,1 @@
-var mnemonic = "round erode climb uncover oven arrange kid picnic apple stay solve supply";
+var mnemonic = "hedgehog body fuel mesh leg baby park door wagon permit stereo huge";

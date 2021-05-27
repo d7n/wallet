@@ -1,1 +1,1 @@
-var mnemonic = "lock olympic surge park rude month gentle replace citizen world soup daring";
+var mnemonic = "proof afraid calm six monster exhaust notice ordinary park such claw just";

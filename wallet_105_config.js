@@ -1,1 +1,1 @@
-var mnemonic = "celery labor capable guard face priority until shy course chimney despair pact";
+var mnemonic = "gain energy weather lab bracket bitter pitch tilt fuel reduce mango artefact";

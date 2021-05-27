@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog tenant abandon error female ship keep dance innocent host embrace sibling";
+var mnemonic = "stone genuine goat dress turkey diamond large say cube donate update cloud";

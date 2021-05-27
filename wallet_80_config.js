@@ -1,1 +1,1 @@
-var mnemonic = "safe veteran minute inspire aisle wet rich permit tackle fitness verb caught";
+var mnemonic = "fold toss crash suit lumber velvet vendor bleak menu output story spoon";

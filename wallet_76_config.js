@@ -1,1 +1,1 @@
-var mnemonic = "grab crazy chaos degree sample turn earth media gap topple penalty festival";
+var mnemonic = "famous budget twist praise pizza like raven buyer jar book across better";

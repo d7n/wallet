@@ -1,1 +1,1 @@
-var mnemonic = "abuse trim mad wreck surface learn heart solution tube strong burden dry";
+var mnemonic = "kitten indicate hospital liar dice error race chase alert quantum grant kite";

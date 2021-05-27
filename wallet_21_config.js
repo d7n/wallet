@@ -1,1 +1,1 @@
-var mnemonic = "logic fan tag enforce grunt document glimpse wagon solar leaf play sponsor";
+var mnemonic = "doctor genuine donor organ chef uncover crash trip uncle ensure reveal very";

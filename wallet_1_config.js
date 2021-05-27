@@ -1,1 +1,1 @@
-var mnemonic = "idle rate tiger mask drink mansion benefit mother must unique wine ranch";
+var mnemonic = "trial access vanish treat drill also black intact virtual burger menu shuffle";

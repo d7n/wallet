@@ -1,1 +1,1 @@
-var mnemonic = "endorse hair elephant aware steak ahead hollow seminar access mosquito swarm buyer";
+var mnemonic = "morning anger drift marble dynamic rough behave good stick opinion bronze trip";

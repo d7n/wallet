@@ -1,1 +1,1 @@
-var mnemonic = "sport result person vacuum father alarm park universe canyon jazz modify head";
+var mnemonic = "enjoy fever shed erode ocean spin average water energy color prefer october";

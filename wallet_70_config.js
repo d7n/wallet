@@ -1,1 +1,1 @@
-var mnemonic = "immense stuff rifle bracket describe typical frog jelly panel elegant chaos abandon";
+var mnemonic = "problem stumble local novel merge forest kid squirrel skate father arrow open";

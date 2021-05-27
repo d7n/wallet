@@ -1,1 +1,1 @@
-var mnemonic = "worry convince best stage churn tag own deposit payment flower fold awake";
+var mnemonic = "tourist group flip such result swear become draft park suffer evil pepper";

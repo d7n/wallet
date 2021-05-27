@@ -1,1 +1,1 @@
-var mnemonic = "ride cushion evil knee opinion intact powder aspect you zebra people lottery";
+var mnemonic = "hire online maximum twenty cost host another hello lottery bundle bid mixed";

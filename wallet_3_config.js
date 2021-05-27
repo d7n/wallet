@@ -1,1 +1,1 @@
-var mnemonic = "turkey other day adult admit theory pilot patrol federal brick engine current";
+var mnemonic = "squeeze swap dumb seed believe found polar actor play fade beyond drink";

@@ -1,1 +1,1 @@
-var mnemonic = "measure review dwarf champion combine remind lobster measure spoon sketch find feel";
+var mnemonic = "insect viable slice thunder domain marine maid asthma smart brush palace reform";

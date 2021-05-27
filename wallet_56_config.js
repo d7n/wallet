@@ -1,1 +1,1 @@
-var mnemonic = "excite school finish raise ice obvious toy pretty identify organ sense all";
+var mnemonic = "give detect easy pilot stick matrix emotion moral chase chicken upset enough";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle agree trade powder hundred model token right satisfy supreme undo autumn";
+var mnemonic = "key gate report garden front perfect fiscal cigar inflict index link rebuild";

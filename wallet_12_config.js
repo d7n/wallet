@@ -1,1 +1,1 @@
-var mnemonic = "easy oven lava absorb travel zoo cruel friend labor achieve sudden rice";
+var mnemonic = "away typical ahead have discover stay camp echo enforce announce dragon duck";

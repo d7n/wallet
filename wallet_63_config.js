@@ -1,1 +1,1 @@
-var mnemonic = "vast title size master ball tail garage champion month among wine goat";
+var mnemonic = "anger frame type degree derive worth fuel regret horn border cable glad";

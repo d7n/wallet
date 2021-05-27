@@ -1,1 +1,1 @@
-var mnemonic = "cross tenant fashion cargo obvious rebuild popular race exercise genre subway tube";
+var mnemonic = "design diagram gentle sword venue lesson include march bid bubble aspect obvious";

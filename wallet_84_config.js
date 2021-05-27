@@ -1,1 +1,1 @@
-var mnemonic = "female route during garment trip tail absurd bone liar include palm produce";
+var mnemonic = "divert inspire skate wave awful fiscal gentle betray love trial lesson prison";

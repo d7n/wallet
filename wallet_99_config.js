@@ -1,1 +1,1 @@
-var mnemonic = "start roof almost use weather risk diamond embrace forget state order limit";
+var mnemonic = "champion movie guide square about slab scan ordinary rich crime galaxy oppose";

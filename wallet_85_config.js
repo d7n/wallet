@@ -1,1 +1,1 @@
-var mnemonic = "kiss mask shield budget wonder enrich bus angry wrap middle capable dolphin";
+var mnemonic = "length picnic pigeon bird custom fox just isolate honey stage fine display";

@@ -1,1 +1,1 @@
-var mnemonic = "easy obtain method hire still stumble shield run before canyon second aisle";
+var mnemonic = "feed piano client anger tray kitten silly absorb laundry police survey toilet";

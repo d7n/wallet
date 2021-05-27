@@ -1,1 +1,1 @@
-var mnemonic = "parent wet muscle office fun vintage much fun palace damage someone claw";
+var mnemonic = "just liquid bus moon height manual key language ramp stove assist strategy";

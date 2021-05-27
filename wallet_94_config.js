@@ -1,1 +1,1 @@
-var mnemonic = "lobster jelly ginger final wife section similar input document tooth increase simple";
+var mnemonic = "crawl guard online dream armed flight close glide slim vault balance young";

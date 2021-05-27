@@ -1,1 +1,1 @@
-var mnemonic = "evidence grit section arrange accuse champion they plunge weapon advice child promote";
+var mnemonic = "learn scorpion thumb warrior street video normal balcony balcony pair casino face";

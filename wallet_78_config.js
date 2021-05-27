@@ -1,1 +1,1 @@
-var mnemonic = "render pony dove subway jealous fuel teach swim illegal federal move silver";
+var mnemonic = "betray author waste subject exile convince fault believe opera escape swim stadium";

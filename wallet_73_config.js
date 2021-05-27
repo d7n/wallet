@@ -1,1 +1,1 @@
-var mnemonic = "add battle over foam salad lunar ticket ordinary year shoe lesson release";
+var mnemonic = "daughter traffic dream require crowd patrol empty kingdom entire tourist rain pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "speed ketchup earth neither two feel ugly below tone decade struggle wild";
+var mnemonic = "seat human hurt lyrics adjust present remind army rich daring frog grocery";

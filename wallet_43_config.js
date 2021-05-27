@@ -1,1 +1,1 @@
-var mnemonic = "manual act box hold mystery young grief fragile avocado during vital scout";
+var mnemonic = "script sample bus panel cancel junior camp because wealth capable retreat advance";

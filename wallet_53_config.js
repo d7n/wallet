@@ -1,1 +1,1 @@
-var mnemonic = "odor neck exit assault morning corn pigeon exact scale blade lawsuit rich";
+var mnemonic = "concert patrol sister cactus olympic leave inner angry dilemma pyramid soap proud";

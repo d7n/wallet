@@ -1,1 +1,1 @@
-var mnemonic = "decorate already blind drastic torch rather produce glad gather club apart visit";
+var mnemonic = "valve sign lava scatter drill jaguar answer region summer right wasp grant";

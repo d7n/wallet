@@ -1,1 +1,1 @@
-var mnemonic = "hammer mention erosion devote wheel inject hidden talent claw ostrich shove mixed";
+var mnemonic = "pause gallery run grant lecture damp zero shuffle chimney loan fade tribe";

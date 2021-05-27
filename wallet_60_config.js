@@ -1,1 +1,1 @@
-var mnemonic = "emerge spell myself fever dwarf monster speed mind father snake good sustain";
+var mnemonic = "tool afford demise tired surround pistol permit size illness collect strategy sing";

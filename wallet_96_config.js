@@ -1,1 +1,1 @@
-var mnemonic = "weasel ritual reduce search only frequent else special end favorite brown eager";
+var mnemonic = "east liar frame strike harvest almost put tomorrow island patient salmon enable";

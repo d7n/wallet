@@ -1,1 +1,1 @@
-var mnemonic = "armed fat thought grant rescue approve iron during excuse soup bullet picnic";
+var mnemonic = "together teach weasel clerk index february chronic pig practice syrup nose useful";

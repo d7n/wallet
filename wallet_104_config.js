@@ -1,1 +1,1 @@
-var mnemonic = "jacket large possible loan same alter rigid fire medal milk icon payment";
+var mnemonic = "height empty kind cram apology auction present elevator sock raccoon tattoo stuff";

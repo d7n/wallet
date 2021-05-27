@@ -1,1 +1,1 @@
-var mnemonic = "curtain differ tell cotton expand random riot sister before enemy gate canoe";
+var mnemonic = "sudden express cliff fine skull shoe rookie harbor donor draw fly armor";

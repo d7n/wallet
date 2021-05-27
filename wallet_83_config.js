@@ -1,1 +1,1 @@
-var mnemonic = "grape scare mosquito mask curious envelope core dial absurd income metal coral";
+var mnemonic = "nuclear husband lawsuit amazing copy junk senior day vocal possible hungry cushion";

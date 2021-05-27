@@ -1,1 +1,1 @@
-var mnemonic = "mobile thrive organ hill panel simple spare asthma velvet party people trumpet";
+var mnemonic = "economy frog robust long dentist local hole reject evolve minute cactus cushion";

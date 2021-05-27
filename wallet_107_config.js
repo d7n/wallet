@@ -1,1 +1,1 @@
-var mnemonic = "beauty sweet surge today ship world lab crucial quit catch rich own";
+var mnemonic = "practice coconut consider bamboo reform profit motion eternal poet horn multiply fruit";

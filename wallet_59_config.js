@@ -1,1 +1,1 @@
-var mnemonic = "obvious denial leader purse shock spare neglect another donkey picnic twice curve";
+var mnemonic = "impulse route other tribe army chase glide erode disorder any evolve spice";

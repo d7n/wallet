@@ -1,1 +1,1 @@
-var mnemonic = "wash knock round already rely envelope over admit baby deposit grit hockey";
+var mnemonic = "apology begin myself year source brain suffer tattoo sing robust patrol uphold";

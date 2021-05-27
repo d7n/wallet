@@ -1,1 +1,1 @@
-var mnemonic = "meadow orange title glimpse movie taxi blur differ horn balcony urban follow";
+var mnemonic = "few theory copy trick agree predict runway dose claw hammer jelly until";

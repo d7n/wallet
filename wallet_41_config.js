@@ -1,1 +1,1 @@
-var mnemonic = "funny coach buzz dizzy control achieve coil easy long layer enjoy frog";
+var mnemonic = "divide soccer strike zone staff fence involve good slab shuffle exist green";

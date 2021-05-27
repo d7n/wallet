@@ -1,1 +1,1 @@
-var mnemonic = "learn injury lyrics female exhibit sibling unfold cost design practice inside movie";
+var mnemonic = "tumble inner metal wink focus cluster leopard kiwi spring rent feature picture";

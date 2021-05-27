@@ -1,1 +1,1 @@
-var mnemonic = "trouble law under lift hat vault zoo arctic buyer bless play ramp";
+var mnemonic = "major glory receive van bind caution approve traffic aspect normal sort fish";

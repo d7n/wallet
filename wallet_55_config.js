@@ -1,1 +1,1 @@
-var mnemonic = "desert split refuse dish curve void damp execute layer sand drip hunt";
+var mnemonic = "toddler ceiling near skin pottery phrase throw fragile rude combine rice zero";

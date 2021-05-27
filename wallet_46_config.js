@@ -1,1 +1,1 @@
-var mnemonic = "foster filter divert copper chaos crouch alone add feed window sadness unique";
+var mnemonic = "income argue keep copper genius cute found snake fury concert tuna frequent";

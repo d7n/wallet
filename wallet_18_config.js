@@ -1,1 +1,1 @@
-var mnemonic = "inmate fire milk surface aunt whisper record winner fatigue recipe world theory";
+var mnemonic = "sunset problem spawn subway hundred setup fan weekend play simple letter toy";

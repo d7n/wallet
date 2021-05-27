@@ -1,1 +1,1 @@
-var mnemonic = "bind illness copper brass glue squirrel dance spatial wagon museum network round";
+var mnemonic = "glance thumb lunch satisfy invest cheese congress vessel main city stage supply";

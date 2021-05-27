@@ -1,1 +1,1 @@
-var mnemonic = "rabbit brown wolf north glimpse license step rely cherry knife final sunny";
+var mnemonic = "jar wash decrease daring cushion idle twist essay supply fitness rule gun";

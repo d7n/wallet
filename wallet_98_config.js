@@ -1,1 +1,1 @@
-var mnemonic = "all hamster net bunker merge delay duty mention chase barrel nephew world";
+var mnemonic = "dirt nation legend design gun burden grab setup height metal laptop inch";

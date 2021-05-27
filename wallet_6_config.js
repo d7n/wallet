@@ -1,1 +1,1 @@
-var mnemonic = "cancel slender code toy imitate add holiday game enable public access mind";
+var mnemonic = "antenna viable culture absorb tenant journey never parent squirrel north pigeon lens";

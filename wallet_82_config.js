@@ -1,1 +1,1 @@
-var mnemonic = "order edit deliver bus dilemma cram hundred nerve voyage adjust trash into";
+var mnemonic = "ordinary few avoid often absorb endorse divide ribbon twist capable excess absorb";

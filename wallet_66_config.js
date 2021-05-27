@@ -1,1 +1,1 @@
-var mnemonic = "tennis wagon mystery various end woman shy include wrong already chaos just";
+var mnemonic = "fish curtain penalty fluid educate bread express parade erosion pave tongue chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "increase luxury know forest estate gate vocal cradle abandon anchor force engine";
+var mnemonic = "snack judge depend chapter govern almost pool lady napkin echo grocery excuse";

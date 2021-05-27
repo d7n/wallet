@@ -1,1 +1,1 @@
-var mnemonic = "oblige law palace hurt obey budget scorpion shell all moment narrow unveil";
+var mnemonic = "abuse inspire return symptom wrong settle van list quote history stereo egg";

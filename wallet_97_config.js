@@ -1,1 +1,1 @@
-var mnemonic = "scare upgrade grief tattoo work hurdle task still dial artefact aspect settle";
+var mnemonic = "setup identify spike wedding still discover afford table gesture blossom connect reduce";

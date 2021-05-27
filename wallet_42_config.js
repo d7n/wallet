@@ -1,1 +1,1 @@
-var mnemonic = "end garlic brisk diet say dizzy coach minor account hammer bright anchor";
+var mnemonic = "engine sample method dignity giggle swarm depth decade vacant pride replace weather";

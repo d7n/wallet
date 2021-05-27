@@ -1,1 +1,1 @@
-var mnemonic = "crunch pair glow enemy permit embrace party stadium film steak thrive drop";
+var mnemonic = "ripple tissue afraid cabin milk chest wire swarm rural announce talk pause";

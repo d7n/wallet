@@ -1,1 +1,1 @@
-var mnemonic = "body flame spawn sister discover axis taxi utility broom plug stem buddy";
+var mnemonic = "poet usage symptom swarm come window claw bacon steel slice ranch aerobic";

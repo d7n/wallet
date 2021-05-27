@@ -1,1 +1,1 @@
-var mnemonic = "cradle parent fame kit crush check tube stone harvest spawn lend vital";
+var mnemonic = "coast invite confirm grocery token where test fatal cradle cactus planet awful";

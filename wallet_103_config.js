@@ -1,1 +1,1 @@
-var mnemonic = "advice cradle update hair magic include mountain divorce maximum equal diet hip";
+var mnemonic = "duty correct arrange maple flash hat wreck language cook hill ripple goose";

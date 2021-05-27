@@ -1,1 +1,1 @@
-var mnemonic = "exotic author ability wagon unveil lyrics web pioneer today net drink motion";
+var mnemonic = "enough bird reward hurry holiday unusual fantasy pumpkin weekend regret donate unaware";

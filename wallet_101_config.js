@@ -1,1 +1,1 @@
-var mnemonic = "tone alpha empower machine prize amused voice thank spirit club among find";
+var mnemonic = "grief city leisure brass pattern lobster smoke lava grab lab park come";

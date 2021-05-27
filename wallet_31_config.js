@@ -1,1 +1,1 @@
-var mnemonic = "defy struggle exercise pretty moral gain rug destroy because roof badge exclude";
+var mnemonic = "search clerk pilot recycle first clinic fetch video chef banner flush climb";

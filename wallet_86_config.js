@@ -1,1 +1,1 @@
-var mnemonic = "copy twice bike exercise polar behave answer narrow van denial latin noodle";
+var mnemonic = "possible umbrella isolate science illegal casino mountain about lazy rifle great cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "rough gift soon creek service fly captain cake salon buddy swap fatal";
+var mnemonic = "laugh hero task victory east fly asset appear favorite spin cigar message";

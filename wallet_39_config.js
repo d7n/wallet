@@ -1,1 +1,1 @@
-var mnemonic = "solid wash sunset large powder gentle elephant shift coyote space humor toast";
+var mnemonic = "buzz joke august dirt zebra century unusual badge jump visual practice bicycle";

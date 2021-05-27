@@ -1,1 +1,1 @@
-var mnemonic = "visit nerve little drink waste shoulder soda pear stock use runway certain";
+var mnemonic = "february amazing bacon level reveal cruel shuffle scene shuffle beef chair salmon";

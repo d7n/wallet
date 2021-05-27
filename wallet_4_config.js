@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon despair garbage display edge country custom resource tunnel elder lab fat";
+var mnemonic = "amazing collect first urge leader update palm fluid divide buyer champion device";

@@ -1,1 +1,1 @@
-var mnemonic = "ship surge quote pact method nephew call sponsor animal fish badge similar";
+var mnemonic = "wheel index arena cushion three chaos degree bar cricket spring second fruit";

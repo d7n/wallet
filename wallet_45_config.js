@@ -1,1 +1,1 @@
-var mnemonic = "trend bulb tower muscle safe pull behind accident auction bitter supply useless";
+var mnemonic = "giraffe dream utility vacuum dress excite journey coil embody pull property twist";

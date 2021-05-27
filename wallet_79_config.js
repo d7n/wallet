@@ -1,1 +1,1 @@
-var mnemonic = "panel output detect clutch drift enforce machine stairs twist crowd pepper fold";
+var mnemonic = "jeans humor raw quarter duck plug fit various clever cannon before yard";

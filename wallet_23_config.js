@@ -1,1 +1,1 @@
-var mnemonic = "top penalty trouble tunnel security thought into float voyage pole deny intact";
+var mnemonic = "buzz magnet task sugar balance february chest exact egg fetch curious power";

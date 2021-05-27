@@ -1,1 +1,1 @@
-var mnemonic = "picture eyebrow fame provide kick lesson annual badge ladder secret attend gas";
+var mnemonic = "hire horn slam inform bubble edge bottom bomb analyst position unveil resemble";

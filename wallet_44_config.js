@@ -1,1 +1,1 @@
-var mnemonic = "ready lawn muffin neglect sight cliff creek buzz autumn discover syrup swear";
+var mnemonic = "hedgehog mushroom ship summer trouble mixed involve parent photo case vocal canyon";

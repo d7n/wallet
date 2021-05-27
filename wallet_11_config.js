@@ -1,1 +1,1 @@
-var mnemonic = "reunion dog cousin vendor motor oxygen dumb spike glad glad shell giggle";
+var mnemonic = "guitar silly sense shell try hour switch insect vast guide artwork dutch";

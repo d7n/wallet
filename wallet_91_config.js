@@ -1,1 +1,1 @@
-var mnemonic = "innocent sport knock solid fog badge neck elbow win lazy clump ankle";
+var mnemonic = "light swarm topic nothing alien crush correct normal total retreat dance sick";

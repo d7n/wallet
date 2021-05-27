@@ -1,1 +1,1 @@
-var mnemonic = "lazy resist clutch year scrub erode ready truly parade hospital chief garden";
+var mnemonic = "unhappy link cereal access oyster airport arrive cluster expose acid confirm copy";

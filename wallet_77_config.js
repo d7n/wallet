@@ -1,1 +1,1 @@
-var mnemonic = "language attract picnic fabric accuse loud weapon weird laptop icon spider spy";
+var mnemonic = "pulp arch dolphin oblige motor tell early blossom cash card country add";
