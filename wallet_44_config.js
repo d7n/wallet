@@ -1,1 +1,1 @@
-var mnemonic = "genius engine match drift cactus picture rather shiver rather private bunker sad";
+var mnemonic = "riot mansion toe assume skin debate crisp infant such creek spike column";

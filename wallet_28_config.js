@@ -1,1 +1,1 @@
-var mnemonic = "stone reopen other chef merry attend foam year put climb inherit clap";
+var mnemonic = "shadow search ignore wing onion blue combine scheme company crime wide genuine";

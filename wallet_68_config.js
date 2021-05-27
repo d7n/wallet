@@ -1,1 +1,1 @@
-var mnemonic = "adapt rude october shed accident rain that violin black various result dash";
+var mnemonic = "fluid borrow blossom enhance dizzy entire human pretty return sail prepare impulse";

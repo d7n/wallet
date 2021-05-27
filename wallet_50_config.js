@@ -1,1 +1,1 @@
-var mnemonic = "marine what chat expire slide use hand order cream cattle oxygen error";
+var mnemonic = "claw tobacco tuna orange only sibling proud refuse lock kitchen hello charge";

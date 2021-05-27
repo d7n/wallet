@@ -1,1 +1,1 @@
-var mnemonic = "pet sphere symbol hello blur dance middle carpet timber lawsuit disagree asthma";
+var mnemonic = "awkward nation spoon grid liberty wheat trip describe before regular couch labor";

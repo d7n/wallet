@@ -1,1 +1,1 @@
-var mnemonic = "host glance way praise forest begin crouch cruel plastic quote half maze";
+var mnemonic = "design dice select impose term normal scissors deal glass moral kingdom tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "seed elevator glow dragon law unable differ stairs put lecture track around";
+var mnemonic = "two segment excite this pizza dutch climb dance mesh book wrap merge";

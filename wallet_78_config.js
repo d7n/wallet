@@ -1,1 +1,1 @@
-var mnemonic = "unfold between tone merry fatal van valve fossil profit like fluid cannon";
+var mnemonic = "route diesel spell middle disease eagle pilot harvest survey abandon magic tree";

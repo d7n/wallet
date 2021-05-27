@@ -1,1 +1,1 @@
-var mnemonic = "pupil celery amused tennis oyster strike possible purpose violin join bridge moral";
+var mnemonic = "humor chalk pact dash plunge inch joy engage middle flight rude fine";

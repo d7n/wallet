@@ -1,1 +1,1 @@
-var mnemonic = "envelope mutual tiger visa clinic relief inhale worth angle sweet culture pepper";
+var mnemonic = "liberty purchase stock tip parent execute apple bar error together margin ceiling";

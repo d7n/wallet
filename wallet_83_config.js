@@ -1,1 +1,1 @@
-var mnemonic = "offer rich inmate pottery genre print twin bachelor ranch skirt margin rice";
+var mnemonic = "eager inch catalog spoil dad broken pride supply someone defy endorse snake";

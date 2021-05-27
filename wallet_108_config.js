@@ -1,1 +1,1 @@
-var mnemonic = "high silent domain work field box boy pizza obvious feel useful floor";
+var mnemonic = "sense enroll need olympic advance erupt impulse satoshi fruit blast dentist fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "fix case enter arctic occur tide average funny patch income nerve much";
+var mnemonic = "future someone island brass cruel swap deposit already inhale busy garbage sphere";

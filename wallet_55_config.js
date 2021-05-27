@@ -1,1 +1,1 @@
-var mnemonic = "nasty connect chalk violin reunion absorb fold trouble recipe object body eager";
+var mnemonic = "case gasp invest under success much add diet blast item radar nasty";

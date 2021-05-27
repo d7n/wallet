@@ -1,1 +1,1 @@
-var mnemonic = "sign remain item since dash ready couple jelly knife cage earn project";
+var mnemonic = "wrap donate raccoon noodle more potato region panel text rather bonus swear";

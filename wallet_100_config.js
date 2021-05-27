@@ -1,1 +1,1 @@
-var mnemonic = "spin patrol horse someone seminar amount project wreck private pole cricket glory";
+var mnemonic = "inspire lyrics grocery excess country donate remember blame exclude novel trap rate";

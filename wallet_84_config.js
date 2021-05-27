@@ -1,1 +1,1 @@
-var mnemonic = "milk lion measure hold confirm topic random spoil local analyst lion acoustic";
+var mnemonic = "trophy news ship bunker elevator raw mammal gold immune hockey finger custom";

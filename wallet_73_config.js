@@ -1,1 +1,1 @@
-var mnemonic = "drama over inspire wash define you cruel drum blouse actress brave unable";
+var mnemonic = "anchor road series protect amount universe wedding unhappy area oxygen banner play";

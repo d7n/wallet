@@ -1,1 +1,1 @@
-var mnemonic = "surround length remind neutral pull company legal muffin chunk hobby head home";
+var mnemonic = "secret argue before table vintage slogan sea afford breeze thing cube lounge";

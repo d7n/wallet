@@ -1,1 +1,1 @@
-var mnemonic = "route income final teach floor transfer sauce omit display pony dove mushroom";
+var mnemonic = "hire eight secret planet dentist brand space address make sudden mandate option";

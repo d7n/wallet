@@ -1,1 +1,1 @@
-var mnemonic = "control ribbon rich boring evolve surface gentle shiver abandon rigid spoon audit";
+var mnemonic = "public solar decline lion loyal priority square expect health minimum supply tiny";

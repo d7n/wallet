@@ -1,1 +1,1 @@
-var mnemonic = "hollow come power eagle repeat rifle travel treat melody later burden radio";
+var mnemonic = "turtle maid label bread ketchup chair phone fossil menu fragile input icon";

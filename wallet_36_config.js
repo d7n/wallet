@@ -1,1 +1,1 @@
-var mnemonic = "match agent erase little mean arch path bulk emerge renew bring brother";
+var mnemonic = "relief replace clay book unhappy dwarf intact display gold differ address jewel";

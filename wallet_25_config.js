@@ -1,1 +1,1 @@
-var mnemonic = "idle display arm lens lemon zoo donate possible sentence symbol great begin";
+var mnemonic = "rate festival fun execute depend twelve high adapt video nation glad kitchen";

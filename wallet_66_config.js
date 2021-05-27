@@ -1,1 +1,1 @@
-var mnemonic = "limb fitness view dry open fatal nose dragon mystery weird luggage goddess";
+var mnemonic = "topic kiss stuff help spy summer shiver gesture athlete define buddy vague";

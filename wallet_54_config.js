@@ -1,1 +1,1 @@
-var mnemonic = "genre gloom away matter raw funny trumpet pact mother degree pink vendor";
+var mnemonic = "spike valley right distance sting solar please large appear fury history ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "morning segment palm cloth feed party segment dance arctic attitude picture nature";
+var mnemonic = "beyond panther index jewel pole globe about garbage neck theme reunion price";

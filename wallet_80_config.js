@@ -1,1 +1,1 @@
-var mnemonic = "wine danger stadium flavor edit scene say syrup achieve wage horn fix";
+var mnemonic = "parade excess meadow test damp maximum angry wage nurse thank fatal strike";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite time pink manual easy wheat cactus answer body diamond patient risk";
+var mnemonic = "manage remind fancy vital close resist truly void reward worry void road";

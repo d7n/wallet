@@ -1,1 +1,1 @@
-var mnemonic = "today kick cube daring ignore that close confirm clerk sting label category";
+var mnemonic = "cost denial solar evolve truly harvest like cart cotton category gravity cool";

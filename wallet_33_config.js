@@ -1,1 +1,1 @@
-var mnemonic = "sheriff apart correct library tattoo route chair budget slide maid bright allow";
+var mnemonic = "measure direct agree merry thank eagle fuel panel basic grocery hat moment";

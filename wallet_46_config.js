@@ -1,1 +1,1 @@
-var mnemonic = "start dynamic owner heavy industry indicate radar leg cheap jealous cute decrease";
+var mnemonic = "frog stable pull patient vast combine reduce ship candy desert material fury";

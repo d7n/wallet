@@ -1,1 +1,1 @@
-var mnemonic = "visual swap crumble spirit cheese door again service chest comic put resemble";
+var mnemonic = "depend column sponsor depth account debate version family segment spoon wolf drift";

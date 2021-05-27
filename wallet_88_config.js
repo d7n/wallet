@@ -1,1 +1,1 @@
-var mnemonic = "fog love urban brain public ladder disorder oval pen seed media orchard";
+var mnemonic = "afraid light evidence drama citizen ladder bounce sign since field race deal";

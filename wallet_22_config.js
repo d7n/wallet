@@ -1,1 +1,1 @@
-var mnemonic = "empower confirm foster gate fiber rely exchange glad hole ancient abandon cover";
+var mnemonic = "devote view peanut marine ready critic equip spring property melody say reason";

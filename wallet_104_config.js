@@ -1,1 +1,1 @@
-var mnemonic = "journey matter kidney voyage prosper ketchup equip bridge vacuum rookie young menu";
+var mnemonic = "cricket pistol correct bunker police fetch symptom stove raven million consider cross";

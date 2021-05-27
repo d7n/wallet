@@ -1,1 +1,1 @@
-var mnemonic = "scrap feed oxygen certain sibling brief oak alpha cargo tape luxury deputy";
+var mnemonic = "survey giraffe exhibit strike edge please suggest material hello banner skirt impulse";

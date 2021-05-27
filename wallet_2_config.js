@@ -1,1 +1,1 @@
-var mnemonic = "system share muscle ivory tip cargo moral tenant sentence roast pair hybrid";
+var mnemonic = "region salmon behave soldier obvious knock water orient trophy pretty sauce dust";

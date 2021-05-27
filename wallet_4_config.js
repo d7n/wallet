@@ -1,1 +1,1 @@
-var mnemonic = "salon frown cargo exact job reduce army cannon hamster embrace clog source";
+var mnemonic = "scare slice fiber lock yard during toy wage slim fatal bridge prison";

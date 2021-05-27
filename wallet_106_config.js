@@ -1,1 +1,1 @@
-var mnemonic = "inside insect source virus diet cradle deposit lemon bundle cake volume mystery";
+var mnemonic = "trigger foster harbor cigar clog assault senior purity ceiling step dove west";

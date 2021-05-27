@@ -1,1 +1,1 @@
-var mnemonic = "language price float absent upgrade isolate update item spell parade destroy code";
+var mnemonic = "side fury doll empty tomato text lion sight adjust enjoy outside lake";

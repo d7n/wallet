@@ -1,1 +1,1 @@
-var mnemonic = "palm puppy caught tide hundred useful success cave pudding bronze debris still";
+var mnemonic = "civil edge monster wide expect follow mirror emotion cheap ice arena damp";

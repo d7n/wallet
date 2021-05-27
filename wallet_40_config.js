@@ -1,1 +1,1 @@
-var mnemonic = "smoke mosquito visual heart milk dune final doll expect bind like afford";
+var mnemonic = "dad bleak alert scrap lucky photo agree win ginger vault replace add";

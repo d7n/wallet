@@ -1,1 +1,1 @@
-var mnemonic = "theme cry can wealth draft once caught away copper aware host pigeon";
+var mnemonic = "twin candy trial virtual banner fiscal object twin allow fragile zone cross";

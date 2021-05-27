@@ -1,1 +1,1 @@
-var mnemonic = "build code attract prepare repeat manual ill ability excuse east wave enter";
+var mnemonic = "solar blue swallow cereal crew oyster small urge view craft over fiction";

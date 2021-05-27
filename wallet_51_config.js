@@ -1,1 +1,1 @@
-var mnemonic = "silly mutual reject begin edge interest fat inspire pave exist board copy";
+var mnemonic = "solve hand capital turkey stumble hammer patch green square erupt must tooth";

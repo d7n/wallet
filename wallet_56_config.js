@@ -1,1 +1,1 @@
-var mnemonic = "race gold slow life thunder toilet accident family decade danger snack february";
+var mnemonic = "animal debris light system steak split ankle mushroom climb ozone antenna notable";

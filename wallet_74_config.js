@@ -1,1 +1,1 @@
-var mnemonic = "over bean empower boring error piece frame unlock dutch name coyote trend";
+var mnemonic = "manual history tooth repair athlete action leaf parent box vote pencil since";

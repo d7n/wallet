@@ -1,1 +1,1 @@
-var mnemonic = "vendor drink claw smile wedding glad collect coin nerve view father direct";
+var mnemonic = "cabbage episode absurd obscure detail maid innocent hint merge object invest symbol";

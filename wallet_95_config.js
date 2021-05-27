@@ -1,1 +1,1 @@
-var mnemonic = "divert asthma inner tiger energy salad rude pudding twelve silk must bread";
+var mnemonic = "glove art guilt property color bachelor renew mixed crack smile volcano round";

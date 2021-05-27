@@ -1,1 +1,1 @@
-var mnemonic = "helmet beach term around nuclear claw awake lounge cabbage sort inherit topple";
+var mnemonic = "once alpha energy already observe solid frame dynamic arrange judge ridge aware";

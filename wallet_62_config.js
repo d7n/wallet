@@ -1,1 +1,1 @@
-var mnemonic = "timber next result differ all flock mouse lucky decline manage seek trade";
+var mnemonic = "blood picture pave fossil answer main bread middle surge basket noise bird";

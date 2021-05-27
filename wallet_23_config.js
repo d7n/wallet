@@ -1,1 +1,1 @@
-var mnemonic = "similar jacket deliver fortune pattern dice draw grant mansion payment sad worry";
+var mnemonic = "puppy urban peace book special answer extend loan cry industry artefact race";

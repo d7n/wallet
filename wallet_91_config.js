@@ -1,1 +1,1 @@
-var mnemonic = "ticket buzz safe legal bus baby zone accident index humor cluster forest";
+var mnemonic = "liberty harbor supply fever future fabric bless february merit ethics cherry height";

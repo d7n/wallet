@@ -1,1 +1,1 @@
-var mnemonic = "census rail defy demand volume welcome second avoid duty mercy slice nest";
+var mnemonic = "fit educate ten gauge rare affair common space theory comic cousin trust";

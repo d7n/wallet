@@ -1,1 +1,1 @@
-var mnemonic = "lady skirt size announce month banana now also muffin cover photo wink";
+var mnemonic = "machine head cage unhappy rough wink salute hole essay comic make feed";

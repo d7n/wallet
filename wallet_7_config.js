@@ -1,1 +1,1 @@
-var mnemonic = "manage audit sure verify property present grant gentle drink coast scare virtual";
+var mnemonic = "narrow biology excite search script senior arrow will praise april athlete attack";

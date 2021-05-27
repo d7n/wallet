@@ -1,1 +1,1 @@
-var mnemonic = "place drum tail vessel sudden any silver orbit lizard spice gauge rabbit";
+var mnemonic = "liquid fish recipe law argue voice sadness bargain winter cash secret sleep";

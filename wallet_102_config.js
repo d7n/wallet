@@ -1,1 +1,1 @@
-var mnemonic = "hybrid sphere camera pond fun farm lemon coach gallery other degree harbor";
+var mnemonic = "decline coin connect cluster praise ripple disagree camera basic govern basket dune";

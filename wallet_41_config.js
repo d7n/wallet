@@ -1,1 +1,1 @@
-var mnemonic = "bitter fog marriage ecology essence distance east garden treat mention town then";
+var mnemonic = "various close regret purse december humor claim parade find window glass example";

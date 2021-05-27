@@ -1,1 +1,1 @@
-var mnemonic = "luxury away joy erode abuse record reflect weird exhibit door slice brisk";
+var mnemonic = "fatal major disorder veteran alter lumber promote despair security dog dinner home";

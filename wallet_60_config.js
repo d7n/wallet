@@ -1,1 +1,1 @@
-var mnemonic = "scale gossip smile ride curious eyebrow suffer lava faculty canvas solve tired";
+var mnemonic = "praise torch puppy pioneer trigger quiz chaos cave iron ability recycle canal";

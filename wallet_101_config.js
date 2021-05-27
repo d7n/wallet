@@ -1,1 +1,1 @@
-var mnemonic = "lunch dynamic globe canvas seminar security aspect expire ensure barrel video arm";
+var mnemonic = "mixture friend lemon field month cart evil cigar cheese smooth knee silly";

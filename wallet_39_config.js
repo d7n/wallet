@@ -1,1 +1,1 @@
-var mnemonic = "test drama despair try defy obey kingdom lab warrior warfare autumn hunt";
+var mnemonic = "hotel stomach ride finger small banner sibling trade upon calm alter nose";

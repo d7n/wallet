@@ -1,1 +1,1 @@
-var mnemonic = "adjust ring lyrics rate unfold matter industry section soon book cheese retire";
+var mnemonic = "vote nice prosper animal fiction upset casual plastic purity humor gown edge";

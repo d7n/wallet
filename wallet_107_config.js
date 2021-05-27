@@ -1,1 +1,1 @@
-var mnemonic = "drink slide umbrella excess child damage glad face solve baby attitude regret";
+var mnemonic = "eager air travel female fantasy stomach own repeat total oblige smile clay";

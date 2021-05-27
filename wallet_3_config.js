@@ -1,1 +1,1 @@
-var mnemonic = "basket fix nest actor analyst angle museum cradle bag easy kid peace";
+var mnemonic = "lobster then acid hood cross share stock toast they survey angle elbow";

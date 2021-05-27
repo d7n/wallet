@@ -1,1 +1,1 @@
-var mnemonic = "lobster describe fringe father payment predict early spy text pull warfare cross";
+var mnemonic = "high right pitch visual valve cradle vote embody spray scene shuffle try";

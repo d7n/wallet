@@ -1,1 +1,1 @@
-var mnemonic = "gallery public hand rate return unknown raw burger gravity maze turtle lava";
+var mnemonic = "name call track please bless mention laptop design hurdle wait inspire above";

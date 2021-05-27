@@ -1,1 +1,1 @@
-var mnemonic = "tobacco ride found forget caution season antique empower friend news news exercise";
+var mnemonic = "between good attack half denial provide tray direct combine mistake shy arrange";

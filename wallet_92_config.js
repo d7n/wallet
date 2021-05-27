@@ -1,1 +1,1 @@
-var mnemonic = "chuckle feature avocado enough pave volcano clog humble prepare enhance print bag";
+var mnemonic = "pride idea across client tool ski exchange again potato laundry funny maple";

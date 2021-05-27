@@ -1,1 +1,1 @@
-var mnemonic = "because brick shoot asthma will click comic void vivid glad silk rich";
+var mnemonic = "taste tunnel observe hen length minimum glimpse dynamic shuffle immune chase egg";

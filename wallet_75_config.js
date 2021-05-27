@@ -1,1 +1,1 @@
-var mnemonic = "hammer auto outdoor arm faint secret buzz father spirit flash slight tilt";
+var mnemonic = "wagon castle shock account clever casino dynamic siren blouse wisdom chalk laugh";

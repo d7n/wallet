@@ -1,1 +1,1 @@
-var mnemonic = "student loop involve pioneer insane stem they satoshi clutch edge dice fan";
+var mnemonic = "kitten satisfy false solid silly cricket person tide tunnel camera dress sugar";

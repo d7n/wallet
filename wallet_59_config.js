@@ -1,1 +1,1 @@
-var mnemonic = "tourist true isolate muscle faint eternal sand city receive camera worth hope";
+var mnemonic = "flock manage purpose alpha ancient put ensure pattern together quit next hungry";

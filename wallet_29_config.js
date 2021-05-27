@@ -1,1 +1,1 @@
-var mnemonic = "during december olive trumpet quiz high frost waste shrug possible raise often";
+var mnemonic = "finger field various middle road aim shaft whale input answer slide light";

@@ -1,1 +1,1 @@
-var mnemonic = "margin charge hurdle diesel grab upset uphold lift disagree doctor pudding brisk";
+var mnemonic = "win ivory word swap around whisper edge outer improve alien addict dynamic";

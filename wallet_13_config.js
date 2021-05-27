@@ -1,1 +1,1 @@
-var mnemonic = "wave month pepper myself steak aerobic exact girl invest symbol abuse subway";
+var mnemonic = "state connect butter inside put drum umbrella guide material ritual saddle invest";

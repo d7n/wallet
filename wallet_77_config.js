@@ -1,1 +1,1 @@
-var mnemonic = "same million problem spawn exile convince amount tomorrow sail mule history public";
+var mnemonic = "jeans lizard assault episode captain erode demand engine someone place wood auction";

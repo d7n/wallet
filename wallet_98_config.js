@@ -1,1 +1,1 @@
-var mnemonic = "wood phone owner marine knee area thrive penalty quality wait marine genuine";
+var mnemonic = "ethics tone kingdom swim donor nuclear kick receive desk surprise birth wait";

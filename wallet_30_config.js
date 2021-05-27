@@ -1,1 +1,1 @@
-var mnemonic = "young number human sure salmon push modify inch badge acoustic crack reward";
+var mnemonic = "cannon peasant elegant abandon inherit relief link auction because federal check staff";

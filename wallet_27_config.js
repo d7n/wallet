@@ -1,1 +1,1 @@
-var mnemonic = "person manual gospel key hand grain retire benefit fame timber term submit";
+var mnemonic = "occur can solution drama life glimpse fragile weasel setup screen rough neutral";

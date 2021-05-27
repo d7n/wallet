@@ -1,1 +1,1 @@
-var mnemonic = "wrestle slam above merit jeans awkward arctic check horn kick talk curious";
+var mnemonic = "allow fan engage shaft melody property stable menu sweet gentle badge clinic";

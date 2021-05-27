@@ -1,1 +1,1 @@
-var mnemonic = "cousin promote sea guitar motion vibrant arctic purchase invite embark record tag";
+var mnemonic = "skate brass clarify public blue disagree radio argue midnight bone rude will";

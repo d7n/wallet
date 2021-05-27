@@ -1,1 +1,1 @@
-var mnemonic = "chimney rebuild elegant tower idle sense assault breeze giraffe avocado able arrange";
+var mnemonic = "round angry mind equip disorder kit dust poem guard auction skull crouch";

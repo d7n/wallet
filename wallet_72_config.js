@@ -1,1 +1,1 @@
-var mnemonic = "all fire notable gauge train february little eight crawl spend fortune slender";
+var mnemonic = "plunge puppy route wonder try rare accident fever apple retire idea fresh";

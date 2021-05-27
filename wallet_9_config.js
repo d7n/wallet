@@ -1,1 +1,1 @@
-var mnemonic = "agent staff retreat stairs account jazz fox solve theme expose remember gorilla";
+var mnemonic = "key empty solve skull strategy tuition finger artwork scout hidden crater runway";

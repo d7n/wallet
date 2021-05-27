@@ -1,1 +1,1 @@
-var mnemonic = "flat observe ancient retire connect brave unusual company model tackle movie message";
+var mnemonic = "exit foam media era beyond doll much harbor network gauge organ gossip";

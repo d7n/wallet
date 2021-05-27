@@ -1,1 +1,1 @@
-var mnemonic = "reward cruise seminar phrase error around session humble mad clock large novel";
+var mnemonic = "easily sea master funny flock ginger upon concert theme sausage clay office";

@@ -1,1 +1,1 @@
-var mnemonic = "couple neck use web kitchen same style group people yellow middle heavy";
+var mnemonic = "try when sniff hamster kiwi prosper diary term tail coconut floor flock";
