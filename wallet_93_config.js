@@ -1,1 +1,1 @@
-var mnemonic = "agent oil allow three fame zebra clinic bunker issue cupboard rhythm belt";
+var mnemonic = "upset license where rifle require letter two talk ladder monkey april face";

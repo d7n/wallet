@@ -1,1 +1,1 @@
-var mnemonic = "admit ankle yard decide episode insane vacuum plug diagram action phone hamster";
+var mnemonic = "explain seed kidney pulse snap mom tornado auction salad pave sorry error";

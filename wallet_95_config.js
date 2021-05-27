@@ -1,1 +1,1 @@
-var mnemonic = "collect popular mask company stadium rail stairs empty slow document oval busy";
+var mnemonic = "easy embrace south genuine excuse frown ladder spare admit nature coast exhaust";

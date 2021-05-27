@@ -1,1 +1,1 @@
-var mnemonic = "awake useful indicate vacant differ clog whisper era pen rescue write quote";
+var mnemonic = "happy scorpion cover math candy noise settle anxiety drink minimum ignore super";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow enact record repeat season armor below erupt share wear fold essay";
+var mnemonic = "same observe truck helmet equip shrimp furnace admit drop hold point collect";

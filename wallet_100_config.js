@@ -1,1 +1,1 @@
-var mnemonic = "shrimp fence ankle borrow olympic donate copper parent alert casual lady holiday";
+var mnemonic = "ethics report blue drastic brush famous head real limb turtle stay oppose";

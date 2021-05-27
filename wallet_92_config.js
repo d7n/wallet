@@ -1,1 +1,1 @@
-var mnemonic = "cactus sleep fragile adult finger napkin garlic zero marble shiver daring inject";
+var mnemonic = "face lava calm milk text scare bicycle orient melody train cram hold";

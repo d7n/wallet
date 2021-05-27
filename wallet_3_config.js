@@ -1,1 +1,1 @@
-var mnemonic = "minimum awful chimney aunt web obscure legal chunk gloom front success attend";
+var mnemonic = "comfort lady make satoshi sort version book hero zoo add velvet voice";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry deal replace genre pudding useless reopen excite dad dish staff ticket";
+var mnemonic = "rigid glide order crisp sister body memory alone pioneer circle scatter august";

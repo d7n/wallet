@@ -1,1 +1,1 @@
-var mnemonic = "few robust enlist piece ranch toe deer drive lawsuit magnet swear canal";
+var mnemonic = "afraid decrease annual broken drop robot final wild ticket blush pepper material";

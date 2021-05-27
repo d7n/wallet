@@ -1,1 +1,1 @@
-var mnemonic = "assist isolate enough cloth range outdoor cream believe leaf machine daughter exotic";
+var mnemonic = "brother current stable material act correct across siren era slice convince magnet";

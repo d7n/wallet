@@ -1,1 +1,1 @@
-var mnemonic = "cactus thumb salmon news rally mention illness uphold citizen rug worth dog";
+var mnemonic = "first firm humble fine peace agree stem black scorpion layer drip initial";

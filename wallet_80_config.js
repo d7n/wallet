@@ -1,1 +1,1 @@
-var mnemonic = "figure wish sweet twin genius omit cup old radio brush next foil";
+var mnemonic = "monster clean nasty differ witness advance open duty code resource fabric remove";

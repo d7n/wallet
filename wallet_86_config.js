@@ -1,1 +1,1 @@
-var mnemonic = "shove avoid universe decide fence broccoli valley across oval guide end wealth";
+var mnemonic = "profit output hungry decorate know wrist help expire acoustic find near pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "switch regret axis north absent soccer supreme couch salad great exchange have";
+var mnemonic = "limit jeans buffalo lyrics original legend risk ribbon day already horror slot";

@@ -1,1 +1,1 @@
-var mnemonic = "extra barrel return caught eight winner system uphold enroll finger year same";
+var mnemonic = "cotton boil flip become reform accident critic party leave wide mimic grass";

@@ -1,1 +1,1 @@
-var mnemonic = "arm combine dash uncover join company nest among fork fence junior update";
+var mnemonic = "boil record wide round tiger series tourist student blue kitchen swap lyrics";

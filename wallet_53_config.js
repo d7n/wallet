@@ -1,1 +1,1 @@
-var mnemonic = "harvest cotton sheriff ginger common ribbon muscle describe remember spawn type erode";
+var mnemonic = "that hint female green any alpha cradle monster split mushroom design life";

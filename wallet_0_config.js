@@ -1,1 +1,1 @@
-var mnemonic = "carry expose liar eternal want cabin session true average have ribbon pledge";
+var mnemonic = "upper author forest sample forum toy problem recycle brush survey pilot sting";

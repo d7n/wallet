@@ -1,1 +1,1 @@
-var mnemonic = "kite danger behave clog catalog anger smooth magnet dinner post office blur";
+var mnemonic = "innocent puppy merry liquid ticket ability action robot grant famous two total";

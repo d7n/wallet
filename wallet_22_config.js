@@ -1,1 +1,1 @@
-var mnemonic = "blue celery rib eight october guide mechanic spray local funny series face";
+var mnemonic = "depend rate visit hair fiber blast planet prison balance argue barrel degree";

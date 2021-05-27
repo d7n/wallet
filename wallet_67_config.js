@@ -1,1 +1,1 @@
-var mnemonic = "arrange later south dragon mountain kick real warrior kite oval ancient gentle";
+var mnemonic = "inform grain main joy machine apology vague point guess crouch awkward blanket";

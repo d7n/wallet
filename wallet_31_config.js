@@ -1,1 +1,1 @@
-var mnemonic = "victory bulb ball sentence tube genre beef choose final kite write forest";
+var mnemonic = "calm empower vapor shrimp tent worth foil zebra health bike chaos myth";

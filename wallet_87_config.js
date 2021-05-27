@@ -1,1 +1,1 @@
-var mnemonic = "whisper cart expire ankle organ legend remove lottery question rate coral grief";
+var mnemonic = "spare pepper ankle scan chicken envelope inmate sentence coffee ripple prosper tennis";

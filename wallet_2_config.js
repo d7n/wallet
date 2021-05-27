@@ -1,1 +1,1 @@
-var mnemonic = "fringe bargain rebuild turtle person pig crater depth proud scrub oxygen alley";
+var mnemonic = "bicycle thing inmate bronze flush distance market canoe helmet sun sauce monster";

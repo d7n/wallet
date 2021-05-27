@@ -1,1 +1,1 @@
-var mnemonic = "antenna language culture position merit divide initial daring control method shield portion";
+var mnemonic = "clump soap grace fox jar nurse away twelve imitate exhaust track erase";

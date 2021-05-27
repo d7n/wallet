@@ -1,1 +1,1 @@
-var mnemonic = "cake coast drift rich escape document dwarf donate erode very profit shadow";
+var mnemonic = "empty case obtain ivory resource guitar grant gift okay card melt gospel";

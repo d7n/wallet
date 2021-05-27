@@ -1,1 +1,1 @@
-var mnemonic = "ticket pony check remember rent pelican spell ocean fix dutch pitch excite";
+var mnemonic = "drift sad cluster ritual napkin gospel fall odor general speak tree draft";

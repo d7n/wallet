@@ -1,1 +1,1 @@
-var mnemonic = "exit boil slice shove wrestle brick reward hurdle search discover away glue";
+var mnemonic = "work wrist potato action govern mystery trust attitude exclude police toe slot";

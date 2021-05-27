@@ -1,1 +1,1 @@
-var mnemonic = "leave satoshi urban merit retire wood dream join rural stereo muscle sugar";
+var mnemonic = "elegant health weapon square planet local resource walnut gorilla penalty veteran twice";

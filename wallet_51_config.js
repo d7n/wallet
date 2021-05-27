@@ -1,1 +1,1 @@
-var mnemonic = "wine zoo until modify during boy hat neck work source rice network";
+var mnemonic = "today float region total water sudden limit dolphin strong assist tide holiday";

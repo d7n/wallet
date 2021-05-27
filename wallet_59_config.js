@@ -1,1 +1,1 @@
-var mnemonic = "squirrel boost force divide stay leisure eagle connect hello chalk share infant";
+var mnemonic = "cancel fat inside glass brick secret shoe album story glove replace spare";

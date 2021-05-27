@@ -1,1 +1,1 @@
-var mnemonic = "smile shoe coconut weather grant voice reform review drink select dial blush";
+var mnemonic = "tiger prison fat clarify satoshi similar mixed one evil special yellow maximum";

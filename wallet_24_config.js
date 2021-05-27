@@ -1,1 +1,1 @@
-var mnemonic = "zoo civil inject dust genius earth duty bench pyramid volcano master segment";
+var mnemonic = "buyer donate among nephew bone mansion climb wood need glide air magic";

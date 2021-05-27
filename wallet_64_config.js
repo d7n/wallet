@@ -1,1 +1,1 @@
-var mnemonic = "clarify purchase plate concert supply scheme venue crop ginger swift mixed follow";
+var mnemonic = "carpet bullet ensure kind ostrich sound puzzle spike reform mango scrub kitten";

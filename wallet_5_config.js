@@ -1,1 +1,1 @@
-var mnemonic = "scorpion mule end cousin purse provide pottery acoustic annual car gravity actual";
+var mnemonic = "mask explain twin gold lunch birth claim simple grant element fold wonder";

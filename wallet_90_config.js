@@ -1,1 +1,1 @@
-var mnemonic = "pool cattle lock raw hurt toward surround gallery ribbon parent abstract milk";
+var mnemonic = "gesture online nephew silver pizza scheme debris health loyal mass school toss";

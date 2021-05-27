@@ -1,1 +1,1 @@
-var mnemonic = "jacket turn olympic gown truck north nation twelve tide typical error stairs";
+var mnemonic = "brass hungry unaware cloth tomato marble sick region clerk rally swallow beef";

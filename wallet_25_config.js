@@ -1,1 +1,1 @@
-var mnemonic = "rug poem print sign govern veteran donor legal clerk slim act shift";
+var mnemonic = "wrap tennis giggle couch grass move stand web equip coyote tube quick";

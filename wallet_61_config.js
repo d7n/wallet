@@ -1,1 +1,1 @@
-var mnemonic = "twist elite apple find crunch welcome field warm box consider enough sell";
+var mnemonic = "water believe demand equip grow define toward orchard capable sugar tomato session";

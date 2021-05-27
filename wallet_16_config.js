@@ -1,1 +1,1 @@
-var mnemonic = "immune spirit grant wash outer found mango just dragon kangaroo funny wolf";
+var mnemonic = "repair harvest screen income worth tunnel pencil shine december hundred check bacon";

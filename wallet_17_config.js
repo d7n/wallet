@@ -1,1 +1,1 @@
-var mnemonic = "smoke scatter together net super milk vote cloth topple color scatter off";
+var mnemonic = "toe kitten gallery unveil convince mean dwarf wisdom usage romance absent board";

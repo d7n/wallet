@@ -1,1 +1,1 @@
-var mnemonic = "grit stand someone oval develop express hungry regret bitter month resemble puzzle";
+var mnemonic = "nurse reason pond ski toddler guilt believe truck dinosaur buyer pulse speed";

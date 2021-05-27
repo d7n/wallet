@@ -1,1 +1,1 @@
-var mnemonic = "wage actor athlete glide raven stomach protect electric nest domain citizen soup";
+var mnemonic = "tray donor image host series lumber omit spray copper dizzy face theme";

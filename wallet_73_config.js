@@ -1,1 +1,1 @@
-var mnemonic = "pepper raccoon service auction comfort list humor inflict autumn host usual rival";
+var mnemonic = "physical group address same top push critic swim caught spray goat brain";

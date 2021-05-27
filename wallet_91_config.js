@@ -1,1 +1,1 @@
-var mnemonic = "cry two chest claim arctic together discover senior have pluck tooth child";
+var mnemonic = "relax design volcano hedgehog mother jelly bulk cliff shell page milk plunge";

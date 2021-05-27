@@ -1,1 +1,1 @@
-var mnemonic = "apart hood sunset okay lion decorate gym destroy scale diamond divorce vanish";
+var mnemonic = "trick stereo giant prize noise effort describe abstract before parent lemon rather";

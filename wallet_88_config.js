@@ -1,1 +1,1 @@
-var mnemonic = "tattoo will another addict better wedding aunt talent recall token write blame";
+var mnemonic = "among episode intact exercise clerk fiction cargo empower awful calm library mind";

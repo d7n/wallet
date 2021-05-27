@@ -1,1 +1,1 @@
-var mnemonic = "burst nuclear under entire travel wasp crack mirror patient later leave bundle";
+var mnemonic = "drop seminar evidence soccer gold illness cloth radio cigar quarter curious course";

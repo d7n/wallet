@@ -1,1 +1,1 @@
-var mnemonic = "riot copy radio design lunch fetch soup remind vendor frame hire course";
+var mnemonic = "animal wait thing lake hundred depend retreat beach adjust uphold vast hawk";

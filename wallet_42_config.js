@@ -1,1 +1,1 @@
-var mnemonic = "video strategy siren neck lyrics aunt apart invest figure lock ladder curtain";
+var mnemonic = "ribbon below found correct monster verb awful cupboard barely moon helmet clog";

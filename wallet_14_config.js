@@ -1,1 +1,1 @@
-var mnemonic = "amused lend disease blush hand army jeans picture ladder fragile expire undo";
+var mnemonic = "spray wrestle coral payment sting dust sniff drive umbrella busy surface net";

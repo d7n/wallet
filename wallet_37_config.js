@@ -1,1 +1,1 @@
-var mnemonic = "click magic trust wall accident this bone twice pill spray deputy until";
+var mnemonic = "castle vocal else sorry skirt more west right orient useful casino organ";

@@ -1,1 +1,1 @@
-var mnemonic = "choose fatal void artist genre loyal pigeon midnight portion close home island";
+var mnemonic = "hospital square ridge quick kiwi satoshi husband chief tortoise pair elite upgrade";

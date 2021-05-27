@@ -1,1 +1,1 @@
-var mnemonic = "stage certain toddler cereal blur weird glare tube arm uniform alien verify";
+var mnemonic = "drama play olympic rice layer culture license balcony talk fruit filter elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "van chair erode seminar remember inherit bench idle sand debris also solution";
+var mnemonic = "private power winner light walk fluid armed defense settle alley green share";

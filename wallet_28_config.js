@@ -1,1 +1,1 @@
-var mnemonic = "vital disorder chimney tragic grab rude life gate sunny air insane palm";
+var mnemonic = "filter noise crisp lunch enjoy wire spare great number meat office uncle";

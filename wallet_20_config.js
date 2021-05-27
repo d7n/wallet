@@ -1,1 +1,1 @@
-var mnemonic = "observe strategy kiss column ecology develop exhaust wait wedding voyage claw snack";
+var mnemonic = "purse man opinion actress lizard engage voice cliff reform desk mention dog";

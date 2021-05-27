@@ -1,1 +1,1 @@
-var mnemonic = "retreat oyster garden slab cash stone essay tooth program address tissue divorce";
+var mnemonic = "artefact spider super carbon step similar near name drip match knock tobacco";

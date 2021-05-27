@@ -1,1 +1,1 @@
-var mnemonic = "maid fluid globe stumble capable edge hello sure input zoo charge farm";
+var mnemonic = "mango try bind image begin stairs glimpse torch soft energy walk basic";

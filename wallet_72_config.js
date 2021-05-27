@@ -1,1 +1,1 @@
-var mnemonic = "civil exotic about confirm hope glow often congress awful creek side strike";
+var mnemonic = "gap foam narrow swamp trouble frost style banana cook time mystery helmet";

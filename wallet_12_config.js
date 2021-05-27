@@ -1,1 +1,1 @@
-var mnemonic = "drink cave yard rail smart chest health surface buzz razor genius problem";
+var mnemonic = "cute possible unhappy sight journey mesh grow dismiss decline better betray faculty";

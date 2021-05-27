@@ -1,1 +1,1 @@
-var mnemonic = "spare portion drop near flower write museum pretty mechanic renew caution shine";
+var mnemonic = "announce tongue sauce master prevent tobacco damp marriage symbol dog obscure accident";

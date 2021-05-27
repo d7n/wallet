@@ -1,1 +1,1 @@
-var mnemonic = "like venture attend morning employ axis erase drift alcohol glide glide dentist";
+var mnemonic = "elevator wish over company breeze pony violin melt piano ivory language obey";

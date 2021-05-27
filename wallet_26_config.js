@@ -1,1 +1,1 @@
-var mnemonic = "repair virus elite public scene globe flock boil neither must design kitchen";
+var mnemonic = "pair north picnic clown creek patch chimney eyebrow reopen rain cost vibrant";

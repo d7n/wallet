@@ -1,1 +1,1 @@
-var mnemonic = "welcome wisdom volcano equal dust crush describe river feel please midnight lobster";
+var mnemonic = "kitten clap page word boil false smile damp awkward convince release caught";

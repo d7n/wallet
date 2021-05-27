@@ -1,1 +1,1 @@
-var mnemonic = "subject usual noise balcony combine double add someone once indoor bid soccer";
+var mnemonic = "wood slim dolphin topple desk exile loyal stuff adjust lens fossil great";

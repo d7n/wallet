@@ -1,1 +1,1 @@
-var mnemonic = "gospel affair report sing festival door lemon furnace shine shop venue broom";
+var mnemonic = "despair lucky camera dog pottery ketchup fold acquire next flush upset work";

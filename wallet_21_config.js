@@ -1,1 +1,1 @@
-var mnemonic = "tongue salt quick diamond shuffle royal hammer rug pool engage october charge";
+var mnemonic = "sad doctor habit turn receive grid develop insect wrestle rug detail budget";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt upon merry bottom chaos bread voice kiss monster order vapor pair";
+var mnemonic = "amateur poet police toe output script pause movie advance table stomach grocery";

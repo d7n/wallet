@@ -1,1 +1,1 @@
-var mnemonic = "hard pattern pass primary swear space borrow budget march quiz possible energy";
+var mnemonic = "tennis pride dynamic fall convince spawn laundry bright seed bench inhale into";

@@ -1,1 +1,1 @@
-var mnemonic = "pet uniform actress hotel champion able hair seminar lunar average loan smile";
+var mnemonic = "setup wine tip chunk wagon offer whip fresh endorse betray found report";

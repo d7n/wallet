@@ -1,1 +1,1 @@
-var mnemonic = "tree frown unable endorse inform castle arena giraffe lecture leader sting attend";
+var mnemonic = "tooth iron edge climb charge project thunder mobile machine dial float load";

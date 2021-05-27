@@ -1,1 +1,1 @@
-var mnemonic = "slide busy physical hedgehog reopen hope dad theory artist symptom fluid ripple";
+var mnemonic = "concert world practice submit deputy column sell regular village used train program";

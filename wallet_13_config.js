@@ -1,1 +1,1 @@
-var mnemonic = "clog install pink goat swim hover squirrel scale neutral used lady ship";
+var mnemonic = "pistol depth glimpse card green edge rotate nurse farm cereal puppy pull";

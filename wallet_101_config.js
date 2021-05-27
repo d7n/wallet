@@ -1,1 +1,1 @@
-var mnemonic = "family old dwarf almost vapor report beach relief all work chalk zone";
+var mnemonic = "veteran goose tone candy auto when spend oppose faith hungry library hover";

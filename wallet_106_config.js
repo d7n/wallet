@@ -1,1 +1,1 @@
-var mnemonic = "regular spatial impose skate noodle grain rich fitness forum off brand ride";
+var mnemonic = "diagram change hamster arrow tomorrow slam wire check motor about alien hundred";

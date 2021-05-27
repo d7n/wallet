@@ -1,1 +1,1 @@
-var mnemonic = "alien craft shove patient cash secret only become drop abstract sadness coconut";
+var mnemonic = "canvas tennis glass repeat lend must alpha deliver shallow left transfer moral";

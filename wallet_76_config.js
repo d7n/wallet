@@ -1,1 +1,1 @@
-var mnemonic = "uncle box rescue recall oval click alter distance poem old gap ribbon";
+var mnemonic = "inspire input must lawsuit rough oval rigid steak joke solid vicious normal";

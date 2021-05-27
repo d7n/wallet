@@ -1,1 +1,1 @@
-var mnemonic = "asset rely merge soup subway kidney cinnamon clog receive until diary object";
+var mnemonic = "require reflect rug figure kind scrub pond fuel wrestle cup picture harvest";

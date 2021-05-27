@@ -1,1 +1,1 @@
-var mnemonic = "time mirror ski rebuild process discover title video hurt iron about banana";
+var mnemonic = "radio program useless help vivid carpet symbol fence omit web tobacco pause";

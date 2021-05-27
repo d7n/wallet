@@ -1,1 +1,1 @@
-var mnemonic = "bus brave layer inspire hover maple issue cheap uniform relief human gun";
+var mnemonic = "state fly garment short rally theme wink rich indoor energy impose series";

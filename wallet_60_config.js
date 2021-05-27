@@ -1,1 +1,1 @@
-var mnemonic = "account absorb food where athlete mean blue pair swear nominee wrap blur";
+var mnemonic = "blood cup cave silent enrich cabbage note avoid climb easy math sheriff";

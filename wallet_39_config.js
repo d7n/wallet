@@ -1,1 +1,1 @@
-var mnemonic = "source liberty gun top equal unit jelly van evoke list hotel flush";
+var mnemonic = "soul famous bargain ancient help plate exile father tobacco coin antenna three";

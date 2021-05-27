@@ -1,1 +1,1 @@
-var mnemonic = "rhythm special twenty pretty rotate road feel depend amateur often gas able";
+var mnemonic = "lobster tell aware rule angle tank chat subway purity peace era until";

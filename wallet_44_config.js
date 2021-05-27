@@ -1,1 +1,1 @@
-var mnemonic = "employ atom misery turn cousin miracle pulp stamp cash final solve weird";
+var mnemonic = "awkward night remove permit banana hover jelly bracket year skirt humble tattoo";
