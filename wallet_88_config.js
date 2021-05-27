@@ -1,1 +1,1 @@
-var mnemonic = "march youth original hundred medal gym speak brave trust library fitness stable";
+var mnemonic = "hollow cat fade eight veteran marine february picture rely flavor artist solar";

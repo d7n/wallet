@@ -1,1 +1,1 @@
-var mnemonic = "survey problem obscure venture exile venue viable noise okay boil boring popular";
+var mnemonic = "cheap hip glad lunch glue disorder spoil antique point hold note sell";

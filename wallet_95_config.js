@@ -1,1 +1,1 @@
-var mnemonic = "elephant when fancy excuse hybrid echo discover talk advance pumpkin swamp drift";
+var mnemonic = "leaf scale coyote cute fetch initial buzz amateur eye wait core guide";

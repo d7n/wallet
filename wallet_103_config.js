@@ -1,1 +1,1 @@
-var mnemonic = "range humor material final walk industry mandate shrimp foam lunar laptop spell";
+var mnemonic = "inflict intact about picture excuse rich body scrub arrive vapor deliver alert";

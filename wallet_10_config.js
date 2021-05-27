@@ -1,1 +1,1 @@
-var mnemonic = "priority jazz photo unusual labor execute rug ten announce local moment bicycle";
+var mnemonic = "tuition opinion bonus ostrich symbol metal ostrich mask valve trim paddle basket";

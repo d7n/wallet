@@ -1,1 +1,1 @@
-var mnemonic = "flee swift black skate coconut carpet include plate gasp final into faith";
+var mnemonic = "sugar episode cheap achieve news lobster power toddler good marble diet sadness";

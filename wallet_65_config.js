@@ -1,1 +1,1 @@
-var mnemonic = "doll easily furnace three air notable daughter lizard balcony reason remember above";
+var mnemonic = "craft cannon arm tank cart amused track feel brush horror poem erode";

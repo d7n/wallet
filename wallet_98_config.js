@@ -1,1 +1,1 @@
-var mnemonic = "speed summer eyebrow family fish worry swing decorate genuine zero alley skill";
+var mnemonic = "prize visit furnace prevent leaf typical prison water orphan tumble wonder artefact";

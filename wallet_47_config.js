@@ -1,1 +1,1 @@
-var mnemonic = "jar hint company planet affair collect idle pave announce fade prize oven";
+var mnemonic = "pony ivory traffic cake submit member when jar sniff float key develop";

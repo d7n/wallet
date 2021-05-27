@@ -1,1 +1,1 @@
-var mnemonic = "catch monitor royal party promote expect memory ketchup shallow glow truth over";
+var mnemonic = "chunk bullet never candy luggage bag almost shine upper barely basic cycle";

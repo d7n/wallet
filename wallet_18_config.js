@@ -1,1 +1,1 @@
-var mnemonic = "broom knee portion copper scheme this enhance soon cloth aspect mention refuse";
+var mnemonic = "jungle hammer quarter giraffe depart sand music soccer basket just parent install";

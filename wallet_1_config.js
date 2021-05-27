@@ -1,1 +1,1 @@
-var mnemonic = "group romance lucky sad riot cause diesel amused picnic coach client also";
+var mnemonic = "sword glue hub seed broken canvas twin woman entire mention valley auction";

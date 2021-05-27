@@ -1,1 +1,1 @@
-var mnemonic = "morning behave mystery question include raise smart team essence table mercy sure";
+var mnemonic = "fury pudding nuclear exact atom vendor buffalo yellow parrot inner grit copper";

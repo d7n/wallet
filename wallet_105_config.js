@@ -1,1 +1,1 @@
-var mnemonic = "quiz pass hurt obvious glide unique favorite deal cinnamon vague visual practice";
+var mnemonic = "inherit disorder session wave shy lobster clean order spike goddess perfect lazy";

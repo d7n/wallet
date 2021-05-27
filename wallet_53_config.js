@@ -1,1 +1,1 @@
-var mnemonic = "like index ship matrix visual laundry base strategy horn old leave slide";
+var mnemonic = "glow siren demand wreck oppose midnight kitchen prosper inflict gain weasel caution";

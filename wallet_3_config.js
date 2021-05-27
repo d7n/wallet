@@ -1,1 +1,1 @@
-var mnemonic = "term main autumn another ridge mercy vague thrive response leaf celery monitor";
+var mnemonic = "item hunt garbage pioneer chicken wet noble garment nice gym brother violin";

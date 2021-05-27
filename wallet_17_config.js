@@ -1,1 +1,1 @@
-var mnemonic = "nurse sad puzzle horror thank insect cheese hundred child cash alarm candy";
+var mnemonic = "bundle ecology before occur useful gap more shock mention winter violin talk";

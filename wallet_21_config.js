@@ -1,1 +1,1 @@
-var mnemonic = "bottom arena rotate dilemma glad wasp monitor height escape final bonus receive";
+var mnemonic = "keen thunder fault love repair clinic family device tunnel arena fortune promote";

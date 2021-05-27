@@ -1,1 +1,1 @@
-var mnemonic = "silk typical situate neglect vital swamp amused verb album swear casual dose";
+var mnemonic = "barrel debate reduce normal patient maze sport response bottom cat quick nominee";

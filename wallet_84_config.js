@@ -1,1 +1,1 @@
-var mnemonic = "amused april cotton juice asthma museum rose critic vocal kit pave fall";
+var mnemonic = "genuine latin demand special tourist catalog dress useless zebra vote walnut couple";

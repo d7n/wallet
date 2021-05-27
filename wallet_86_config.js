@@ -1,1 +1,1 @@
-var mnemonic = "skin position step trend sock onion exhibit air wrong allow frog bubble";
+var mnemonic = "mother soap combine goat mountain isolate fiction balcony upgrade top fiscal clutch";

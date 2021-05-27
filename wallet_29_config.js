@@ -1,1 +1,1 @@
-var mnemonic = "chest fiction odor exhibit fork sail foil census coin license spell rough";
+var mnemonic = "hood reason thrive chaos roast north hole cement orange ripple athlete issue";

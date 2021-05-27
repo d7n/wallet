@@ -1,1 +1,1 @@
-var mnemonic = "laptop print fade lady double orient pumpkin season bulb arrive buffalo siren";
+var mnemonic = "news right science taste resemble flame elevator flame plug match sauce ancient";

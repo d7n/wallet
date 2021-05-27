@@ -1,1 +1,1 @@
-var mnemonic = "human course crater tennis notice april crucial high knife review cruise coin";
+var mnemonic = "adapt fence leader learn school fee riot alcohol crater wheel glare gown";

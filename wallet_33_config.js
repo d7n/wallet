@@ -1,1 +1,1 @@
-var mnemonic = "visa bid local mosquito tail foster ritual crack foot trip shove replace";
+var mnemonic = "awake language choose shove issue measure rug dawn fan immense chunk scene";

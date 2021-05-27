@@ -1,1 +1,1 @@
-var mnemonic = "genre side curious armed actor coral input snow ancient marble alpha bounce";
+var mnemonic = "item layer output square race clay gain noble furnace prefer soccer taxi";

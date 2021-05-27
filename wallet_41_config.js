@@ -1,1 +1,1 @@
-var mnemonic = "sheriff leave swallow quarter inspire churn enroll museum road net old coffee";
+var mnemonic = "lawn forward teach trust loop gun since absurd shrimp mango raccoon salute";

@@ -1,1 +1,1 @@
-var mnemonic = "close coil mountain receive scheme slogan entire meat helmet orbit grid cable";
+var mnemonic = "universe rack minute velvet true gallery section track wall ordinary mom together";

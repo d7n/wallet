@@ -1,1 +1,1 @@
-var mnemonic = "arena feel mansion dust truly quote obscure lawn adult margin image symbol";
+var mnemonic = "job seminar such exile stock goose bundle grief message main approve enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy rule future list clutch jaguar dragon clay long begin utility sustain";
+var mnemonic = "front require quit make memory cycle observe pink panda later work clay";

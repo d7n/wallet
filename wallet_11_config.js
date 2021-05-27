@@ -1,1 +1,1 @@
-var mnemonic = "level scatter culture drill below clap live lion cabbage interest rural quantum";
+var mnemonic = "leg twenty cube bus slogan ski usage twin sort science absorb cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth mushroom fury skin age curious glow length ignore piano panel table";
+var mnemonic = "smile loud ladder label online wheel oblige tower system bike situate final";

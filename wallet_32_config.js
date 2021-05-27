@@ -1,1 +1,1 @@
-var mnemonic = "air sentence annual glass banner rebel width shine win camera mix bitter";
+var mnemonic = "cake dry flee rapid apology plunge nephew mad gather camera arena gate";

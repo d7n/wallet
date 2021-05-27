@@ -1,1 +1,1 @@
-var mnemonic = "smoke enforce tiny often crack tip click person river glide oil doll";
+var mnemonic = "primary truly traffic prefer lake inherit gospel onion journey exile attract cool";

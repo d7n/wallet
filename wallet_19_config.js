@@ -1,1 +1,1 @@
-var mnemonic = "palm crack stereo sock dash pretty finger battle what mutual donkey bleak";
+var mnemonic = "lion result guitar dish ginger involve target program swift siege meat stick";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy goddess kite verb color then blind primary acoustic reopen piece slice";
+var mnemonic = "process same family bless tide moon congress amazing skull century any apple";

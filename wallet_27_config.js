@@ -1,1 +1,1 @@
-var mnemonic = "swap stove spin dawn friend modify peanut green west afford idle yard";
+var mnemonic = "endless hurt crop vivid sausage fun photo resist custom flash wing number";

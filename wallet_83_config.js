@@ -1,1 +1,1 @@
-var mnemonic = "share dirt solution expose weather host penalty unusual exotic pupil auction follow";
+var mnemonic = "blade tenant include guitar jazz fix exercise rifle hope clinic label learn";

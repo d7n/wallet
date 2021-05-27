@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin hire rotate jeans churn ripple chair unable people various useless gun";
+var mnemonic = "heart post happy fiscal gentle bargain harvest frame enact fever fly inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "link large public horror left kingdom cousin caught ribbon eight hawk prefer";
+var mnemonic = "gate canvas bleak box almost proud burger uncle permit relax exclude skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "essay clip replace little rabbit walk attitude exact earth two oblige toe";
+var mnemonic = "trend ocean remain grid prefer curve monkey they fever frown horror clip";

@@ -1,1 +1,1 @@
-var mnemonic = "choice foam oxygen electric logic today champion process pair holiday devote lift";
+var mnemonic = "flush student foam plug settle throw brain draft follow april destroy diesel";

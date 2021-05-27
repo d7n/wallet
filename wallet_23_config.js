@@ -1,1 +1,1 @@
-var mnemonic = "payment capital barely slush wish stool elbow strong immune pill visa balance";
+var mnemonic = "sauce across hair inside warrior large interest burger flame biology carbon scout";

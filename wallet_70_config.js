@@ -1,1 +1,1 @@
-var mnemonic = "liar taxi garlic fan grunt tortoise submit mercy where chunk color nice";
+var mnemonic = "push insect soup arm matter key sketch square master riot royal pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "angry actual unique address hold industry comfort arrow arrange unknown feed neutral";
+var mnemonic = "crawl goat flip decline winner head final universe crazy tell utility observe";

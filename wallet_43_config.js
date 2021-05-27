@@ -1,1 +1,1 @@
-var mnemonic = "suspect gaze become proof note ship kit autumn pretty random cancel usual";
+var mnemonic = "pilot panic someone vault cool cloth pave post stove rent member whale";

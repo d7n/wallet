@@ -1,1 +1,1 @@
-var mnemonic = "fluid income crystal jar usage surface horn patient symbol amazing finish any";
+var mnemonic = "two width zoo spirit girl father you deer tail maximum salmon coyote";

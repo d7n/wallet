@@ -1,1 +1,1 @@
-var mnemonic = "gate disorder quick party silk rail anxiety spell only judge collect disorder";
+var mnemonic = "uncover stock above leader gaze winter pull space champion giraffe grunt side";

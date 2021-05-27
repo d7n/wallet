@@ -1,1 +1,1 @@
-var mnemonic = "citizen copy miracle artist bubble sign panel shadow repair hint sibling denial";
+var mnemonic = "audit endless talent mad unfold lesson ritual purpose cattle cool forum come";

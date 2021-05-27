@@ -1,1 +1,1 @@
-var mnemonic = "rubber vivid slight interest lecture weird crew equip olympic vital hat upgrade";
+var mnemonic = "remain cost accuse mimic bread organ dilemma announce quantum angry distance layer";

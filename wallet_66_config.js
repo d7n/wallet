@@ -1,1 +1,1 @@
-var mnemonic = "village can tonight long duck truck truth october panther jar run journey";
+var mnemonic = "undo devote perfect surge wish supreme radar cigar target ready horse manual";

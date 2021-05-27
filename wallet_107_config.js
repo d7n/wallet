@@ -1,1 +1,1 @@
-var mnemonic = "require echo season wall similar distance student inspire bulk infant cricket napkin";
+var mnemonic = "squeeze nut gesture address raven tortoise custom route match until usage modify";

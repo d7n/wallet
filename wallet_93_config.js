@@ -1,1 +1,1 @@
-var mnemonic = "awful little jazz virtual agree rare evidence become penalty width spell swallow";
+var mnemonic = "lucky repair pride topic govern claw kid uncle weapon monkey float jelly";

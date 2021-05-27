@@ -1,1 +1,1 @@
-var mnemonic = "sure rose forget mixed rude liar limit aunt have viable hope system";
+var mnemonic = "mango oxygen marriage walk domain auction draft pioneer rebuild middle south potato";

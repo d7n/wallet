@@ -1,1 +1,1 @@
-var mnemonic = "rival bubble limb rebel grab airport when enlist popular split hawk load";
+var mnemonic = "grunt ice own pattern ivory ensure expand control vessel sentence check lemon";

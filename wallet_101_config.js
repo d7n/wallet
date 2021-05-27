@@ -1,1 +1,1 @@
-var mnemonic = "mosquito student wire giraffe media life tone sport aspect suggest tongue empower";
+var mnemonic = "hurry tree marble chaos south fossil mobile pulp bridge blanket kidney silly";

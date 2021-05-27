@@ -1,1 +1,1 @@
-var mnemonic = "audit tag maze open memory wait logic dance scene rice brick dad";
+var mnemonic = "pair garden load eternal delay rough meat you air cannon sustain satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse lazy alley enable goat tooth better twelve base help tank shadow";
+var mnemonic = "exhibit more sign thrive inch hockey shaft uncover expose adult banana tone";

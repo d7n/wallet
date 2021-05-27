@@ -1,1 +1,1 @@
-var mnemonic = "chief indicate original type brown drift horror reform donor submit excess current";
+var mnemonic = "dilemma chapter priority slot adapt harbor venture custom never glue rotate hundred";

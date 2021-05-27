@@ -1,1 +1,1 @@
-var mnemonic = "uncover share quarter engine habit install inspire nasty spoil rain egg stable";
+var mnemonic = "upon walnut armor van truck buffalo spell boat initial please ability blood";

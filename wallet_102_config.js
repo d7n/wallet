@@ -1,1 +1,1 @@
-var mnemonic = "sight enemy subject torch bounce deposit gown suit cage dial better timber";
+var mnemonic = "firm garlic syrup rule acid three monitor naive oven intact finger couple";

@@ -1,1 +1,1 @@
-var mnemonic = "spend push nerve subject smart dinner clown talent walnut celery tennis case";
+var mnemonic = "alone flush accuse cotton exhaust enforce mirror number length pact sell left";

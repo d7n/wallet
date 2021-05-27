@@ -1,1 +1,1 @@
-var mnemonic = "easily creek unknown position eyebrow assume tongue arrange silly embrace patient vocal";
+var mnemonic = "reward rebel thumb allow float recipe snow thank repeat pave sugar music";

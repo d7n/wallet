@@ -1,1 +1,1 @@
-var mnemonic = "female gift large decline luxury inmate erosion salon bread choice avocado foil";
+var mnemonic = "master one ivory load drop expire multiply carbon garlic powder fruit begin";

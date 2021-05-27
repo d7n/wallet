@@ -1,1 +1,1 @@
-var mnemonic = "marine gadget hover man fantasy nose isolate ski rain knock tiger pioneer";
+var mnemonic = "ethics reunion grid tone rubber uphold camera couch what chair nose brush";

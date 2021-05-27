@@ -1,1 +1,1 @@
-var mnemonic = "creek ostrich genuine rival stadium vacuum join ensure yard caught rifle clever";
+var mnemonic = "salon supreme all rail rotate anger rookie exhaust shed trophy squeeze silk";

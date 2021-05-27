@@ -1,1 +1,1 @@
-var mnemonic = "fancy hold excuse valid outside toss scout enter benefit maze monkey travel";
+var mnemonic = "service trial deny meat any ghost border wall say metal calm success";

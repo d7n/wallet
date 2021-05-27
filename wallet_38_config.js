@@ -1,1 +1,1 @@
-var mnemonic = "diary recall portion dynamic panel truth impulse envelope nation wine legend brass";
+var mnemonic = "youth unaware advance false system balance diesel style insane inhale pride rule";

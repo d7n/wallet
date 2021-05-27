@@ -1,1 +1,1 @@
-var mnemonic = "radar miss doctor code plastic govern feature reveal margin banana require tiny";
+var mnemonic = "delay cloud gasp spice rare apple tired analyst visa surge record sketch";

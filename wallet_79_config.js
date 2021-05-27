@@ -1,1 +1,1 @@
-var mnemonic = "poem myself cotton gun target forest local frame aisle bird enrich basic";
+var mnemonic = "swift history morning walnut miracle flag grief enhance theme glad battle license";

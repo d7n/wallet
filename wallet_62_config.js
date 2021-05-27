@@ -1,1 +1,1 @@
-var mnemonic = "begin lumber menu sentence spider copy slice abuse rifle hawk husband assist";
+var mnemonic = "rack power minute motion lamp ride hybrid sphere someone furnace unknown cheap";

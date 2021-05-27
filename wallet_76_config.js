@@ -1,1 +1,1 @@
-var mnemonic = "inspire shrug risk book bounce own pioneer lamp glass surprise blue once";
+var mnemonic = "wreck uniform quote movie grid pretty morning clever eye grief notable almost";

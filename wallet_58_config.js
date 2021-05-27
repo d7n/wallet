@@ -1,1 +1,1 @@
-var mnemonic = "hamster steel mad error glad vicious blossom neutral oven dwarf cotton fine";
+var mnemonic = "flat kiwi expire thank father color strategy illness spirit near expand next";

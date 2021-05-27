@@ -1,1 +1,1 @@
-var mnemonic = "sure damage tonight carry balcony clinic salmon jaguar mobile ordinary silent donor";
+var mnemonic = "chalk dune fossil share into civil original victory document magic meat monster";

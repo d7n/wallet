@@ -1,1 +1,1 @@
-var mnemonic = "vague immune dad genre busy boost shell matter extra weasel decline sting";
+var mnemonic = "crew isolate social dice layer remember jealous original symbol inmate trial lion";

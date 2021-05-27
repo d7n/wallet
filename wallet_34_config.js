@@ -1,1 +1,1 @@
-var mnemonic = "space cross embrace bean scorpion wonder season minor tongue sorry cherry message";
+var mnemonic = "reject half donkey update isolate burger point bus sun true scrap broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer elevator super boss poverty weird process comfort exile neglect next spray";
+var mnemonic = "drop museum addict patrol belt lizard picture exhibit rail used melt problem";

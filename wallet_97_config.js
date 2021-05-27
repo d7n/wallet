@@ -1,1 +1,1 @@
-var mnemonic = "height way anchor hobby vicious inside dismiss federal have season program praise";
+var mnemonic = "staff future arctic cradle eight universe mouse decide maximum bacon betray sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "offer more dog history delay relax caught make universe solution mechanic essay";
+var mnemonic = "daring amount spare swamp analyst auction permit merit best zero rail check";

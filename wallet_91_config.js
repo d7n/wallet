@@ -1,1 +1,1 @@
-var mnemonic = "fabric ivory possible vacant neutral horror absurd ribbon fever team earn attitude";
+var mnemonic = "lava chat trade film stairs desert cupboard basic celery cool best lottery";

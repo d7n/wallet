@@ -1,1 +1,1 @@
-var mnemonic = "dove long wreck issue abstract margin zone situate together spin escape announce";
+var mnemonic = "catalog decline heavy dutch install across eye guilt train race arch wear";

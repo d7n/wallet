@@ -1,1 +1,1 @@
-var mnemonic = "sun chimney oven reduce attack pulp idle foil west machine join autumn";
+var mnemonic = "guitar knee comfort moment column shoulder equip robust wagon bike surround october";

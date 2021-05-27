@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow biology joke base forget zoo senior grace mass shine scatter gallery";
+var mnemonic = "hover devote milk twelve base topple december avocado swap shell loop forum";

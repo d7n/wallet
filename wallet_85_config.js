@@ -1,1 +1,1 @@
-var mnemonic = "clarify unfold inform erase wish dinosaur dad execute absent blouse clock artefact";
+var mnemonic = "idle kind have soon image stamp oppose mixed critic depend good grant";

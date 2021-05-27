@@ -1,1 +1,1 @@
-var mnemonic = "pen muscle receive initial effort neutral hub help inhale rally tortoise give";
+var mnemonic = "attract notable inmate crime buffalo mansion two wise busy hurdle crystal garden";

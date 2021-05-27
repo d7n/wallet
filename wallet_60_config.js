@@ -1,1 +1,1 @@
-var mnemonic = "dish tell divorce daring valley service surface piece earth stuff slab zoo";
+var mnemonic = "attend enough crunch brush fabric build poet convince toward real vast trophy";

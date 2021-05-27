@@ -1,1 +1,1 @@
-var mnemonic = "bacon banana alone vessel mystery quality glance original amount sketch spell sand";
+var mnemonic = "civil gun fiction mind tobacco circle oven extra hair clock first bright";

@@ -1,1 +1,1 @@
-var mnemonic = "museum attack soccer transfer sketch dumb flat isolate purpose quality trap help";
+var mnemonic = "drink essay fury like collect million blush panic soul bone liar feature";

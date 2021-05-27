@@ -1,1 +1,1 @@
-var mnemonic = "trigger mistake roof repair dad case that pilot lawsuit extend emotion maid";
+var mnemonic = "beef analyst embark wheel film gallery enroll exile armor attack bright winter";

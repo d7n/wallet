@@ -1,1 +1,1 @@
-var mnemonic = "settle electric age planet street easy bitter machine meadow solve lemon syrup";
+var mnemonic = "extra give material pigeon elevator fitness juice evolve recall circle finger neck";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog charge drill improve lesson desert regular hole wink tomorrow sheriff pilot";
+var mnemonic = "noble space noodle tragic divide critic cluster burst card begin blouse force";

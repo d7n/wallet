@@ -1,1 +1,1 @@
-var mnemonic = "head tape panic doctor picture baby train gesture fiscal spin fossil spot";
+var mnemonic = "athlete armor jewel dust lobster walnut rhythm design just eager hawk cat";

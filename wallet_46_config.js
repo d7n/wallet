@@ -1,1 +1,1 @@
-var mnemonic = "round suggest eye produce usual display car option depth genre wall fiction";
+var mnemonic = "aerobic spoil what gorilla problem doctor antique letter ability panda raven surprise";

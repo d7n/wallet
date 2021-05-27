@@ -1,1 +1,1 @@
-var mnemonic = "fortune key slam crunch slab code bounce sail rebuild squirrel ugly truck";
+var mnemonic = "scissors betray wool satoshi drop garment core tomorrow buyer talent magnet wrap";

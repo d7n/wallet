@@ -1,1 +1,1 @@
-var mnemonic = "wet essay only mechanic kitchen turn vocal speed still desk congress prosper";
+var mnemonic = "wonder milk happy bullet cannon shrimp merry romance model payment accuse mistake";
