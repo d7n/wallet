@@ -1,1 +1,1 @@
-var mnemonic = "lady timber chunk smart wrap exile salmon grow token naive length cabbage";
+var mnemonic = "notice sponsor news ten brisk exclude oblige yellow spirit cost reunion marble";

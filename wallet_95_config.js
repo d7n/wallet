@@ -1,1 +1,1 @@
-var mnemonic = "clinic protect kidney differ clown then enemy fish veteran fee venture hockey";
+var mnemonic = "draw soap orphan elbow toilet elder sketch light spirit near reopen monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "culture inhale leave letter rail depart bone word apple crop olive frequent";
+var mnemonic = "glance domain scene design forest put demise oppose have spray suffer double";

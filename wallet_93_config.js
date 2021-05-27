@@ -1,1 +1,1 @@
-var mnemonic = "silk dance option job oblige comic agent insane pilot trigger skull ride";
+var mnemonic = "shrimp problem erase bar vicious absorb dwarf grunt term dumb help cute";

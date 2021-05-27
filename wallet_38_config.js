@@ -1,1 +1,1 @@
-var mnemonic = "youth cargo vocal vanish depart dune elbow captain text absurd juice firm";
+var mnemonic = "canoe cliff bomb plate route mask swim piece spider water quarter sea";

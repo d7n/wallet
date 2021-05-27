@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wheat paddle scan range bread love salmon draw foam news crater";
+var mnemonic = "alcohol royal wasp target poverty kid attract option huge fun tree shoulder";

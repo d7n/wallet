@@ -1,1 +1,1 @@
-var mnemonic = "pair nuclear globe witness junk explain awful dinosaur erase federal artefact goddess";
+var mnemonic = "naive turkey purity essay shine chalk zebra festival apart reopen sunset legend";

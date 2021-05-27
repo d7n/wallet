@@ -1,1 +1,1 @@
-var mnemonic = "palm wood gasp dismiss exist unaware joy there stomach divorce motion kind";
+var mnemonic = "ill demise ethics excuse rifle hood exercise absent vivid park runway egg";

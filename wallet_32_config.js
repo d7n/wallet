@@ -1,1 +1,1 @@
-var mnemonic = "slim ill myself panel keen smart surround laptop chair cargo old remind";
+var mnemonic = "nothing section height buyer case wrong afraid major drastic pupil remain forward";

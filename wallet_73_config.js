@@ -1,1 +1,1 @@
-var mnemonic = "round quantum pill fiscal dirt lady cruise oyster giraffe input bulb delay";
+var mnemonic = "empty call riot shoot stereo approve gloom crater desk chunk copy member";

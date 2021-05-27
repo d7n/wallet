@@ -1,1 +1,1 @@
-var mnemonic = "seed execute outdoor swap chimney twenty treat early grab egg humble decrease";
+var mnemonic = "virtual stove brain oblige hole solar caught tired blue start sail describe";

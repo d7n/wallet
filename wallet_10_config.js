@@ -1,1 +1,1 @@
-var mnemonic = "bring stove velvet visual autumn second liberty lawn rare click few abstract";
+var mnemonic = "scissors decorate burst sight artwork pipe plug cabin become album present stadium";

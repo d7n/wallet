@@ -1,1 +1,1 @@
-var mnemonic = "ketchup raw deliver middle carbon ring amount theory trend oxygen orient lucky";
+var mnemonic = "vicious gallery away hair common draft shrimp purpose wing decorate top genuine";

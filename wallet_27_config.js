@@ -1,1 +1,1 @@
-var mnemonic = "access embrace repair clown satisfy pair armor arm unable loop fix affair";
+var mnemonic = "toddler emotion caution cattle essay marble large nest scout immune alarm unfold";

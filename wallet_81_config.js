@@ -1,1 +1,1 @@
-var mnemonic = "fan useful entry diet decade protect energy museum below ritual follow sadness";
+var mnemonic = "such year empower abandon citizen demise rich giant junior aspect electric grass";

@@ -1,1 +1,1 @@
-var mnemonic = "theme farm deer bomb gate matrix can hold system inner ride enrich";
+var mnemonic = "sting gun quit birth join broken behave awkward develop minor end pelican";

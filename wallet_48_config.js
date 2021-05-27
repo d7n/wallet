@@ -1,1 +1,1 @@
-var mnemonic = "thought unusual bless magnet gather egg rose truth crew elegant husband fire";
+var mnemonic = "volume strike retire acid steak audit length magnet reform left foster clarify";

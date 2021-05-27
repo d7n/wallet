@@ -1,1 +1,1 @@
-var mnemonic = "police eternal detail loan celery start liberty ride push forward sadness jacket";
+var mnemonic = "fetch chapter walnut north dizzy innocent clerk floor awake sure foam vehicle";

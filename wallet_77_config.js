@@ -1,1 +1,1 @@
-var mnemonic = "achieve vault urge disorder paper circle comic cram final just appear margin";
+var mnemonic = "switch science found urge nerve simple sniff demise diesel afraid very area";

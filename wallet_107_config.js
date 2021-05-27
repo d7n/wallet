@@ -1,1 +1,1 @@
-var mnemonic = "culture enjoy flight spatial harbor industry black juice expect build layer ice";
+var mnemonic = "assume ugly embody poverty faith equal attend profit milk member clip admit";

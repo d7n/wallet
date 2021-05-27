@@ -1,1 +1,1 @@
-var mnemonic = "armor kitten habit then tongue fine swear tooth march kid again matter";
+var mnemonic = "hurry before record one slot clean lamp dice elephant devote sign bid";

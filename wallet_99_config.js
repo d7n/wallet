@@ -1,1 +1,1 @@
-var mnemonic = "game can tenant ancient paper illness over dress pluck accuse vehicle lift";
+var mnemonic = "inner ankle biology behind parade pumpkin lend develop brick page license science";

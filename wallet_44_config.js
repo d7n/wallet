@@ -1,1 +1,1 @@
-var mnemonic = "people inspire wedding wing amateur fragile genuine better field twist echo scout";
+var mnemonic = "garment amused amount this miss return dish best simple girl sun during";

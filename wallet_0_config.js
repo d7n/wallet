@@ -1,1 +1,1 @@
-var mnemonic = "neutral price rack trigger kiwi evoke mixed cargo wolf fiber robot gym";
+var mnemonic = "carbon shuffle chronic balcony slender denial deputy bread foot hammer credit dentist";

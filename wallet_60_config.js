@@ -1,1 +1,1 @@
-var mnemonic = "abstract swim whip arch absorb blouse trick swallow breeze click predict frown";
+var mnemonic = "kitchen ivory smoke invite bright below cousin reject sample salmon element sing";

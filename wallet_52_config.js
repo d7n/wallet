@@ -1,1 +1,1 @@
-var mnemonic = "fatigue crunch sell leave toy alley moment energy light panther balcony wagon";
+var mnemonic = "outside cross mom mixture wood become fiscal need motor super club goose";

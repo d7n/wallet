@@ -1,1 +1,1 @@
-var mnemonic = "anchor enemy stem slam fresh behind deer inch online meadow easy protect";
+var mnemonic = "lawsuit parade cancel file town panic reunion climb grow dolphin tiny apart";

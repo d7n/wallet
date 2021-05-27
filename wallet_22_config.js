@@ -1,1 +1,1 @@
-var mnemonic = "chimney rough inherit reduce volume saddle huge jacket mad ritual base loop";
+var mnemonic = "name dwarf effort leg pride civil error dry accident poem purse bargain";

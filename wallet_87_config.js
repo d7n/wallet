@@ -1,1 +1,1 @@
-var mnemonic = "first ivory bright replace member tattoo nothing loyal advice mechanic shy survey";
+var mnemonic = "unhappy web army wrap glide fury whale level brief hat happy purity";

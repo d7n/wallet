@@ -1,1 +1,1 @@
-var mnemonic = "flat weekend grit shiver visit simple crouch swarm reunion album balcony obtain";
+var mnemonic = "kidney trial area speak wash derive bonus maximum toddler orbit cover viable";

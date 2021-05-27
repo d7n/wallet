@@ -1,1 +1,1 @@
-var mnemonic = "rain heart leopard stairs pitch turkey cross visit real entry head plate";
+var mnemonic = "crouch cabin symbol library game save mistake else venture apple yard fluid";

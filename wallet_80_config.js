@@ -1,1 +1,1 @@
-var mnemonic = "lunch sick park plunge jazz scatter basket beyond sting suggest chaos rifle";
+var mnemonic = "mind exercise heart upon ignore winter beauty grief brown laundry about glory";

@@ -1,1 +1,1 @@
-var mnemonic = "scene farm brand apple thank use sketch card exit pledge voyage fashion";
+var mnemonic = "cushion master amused point neither body frozen just brisk essence ticket apart";

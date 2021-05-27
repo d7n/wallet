@@ -1,1 +1,1 @@
-var mnemonic = "reveal lounge peace current mother mean dice scheme limit siren fish talent";
+var mnemonic = "rely million document hint jaguar address security sword genre pair couple fabric";

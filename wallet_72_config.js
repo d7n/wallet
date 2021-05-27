@@ -1,1 +1,1 @@
-var mnemonic = "sock meadow immense course brass school clean direct this wasp there lobster";
+var mnemonic = "umbrella foam warrior anger leave goat nature trade rescue diesel wrist stove";

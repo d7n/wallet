@@ -1,1 +1,1 @@
-var mnemonic = "output slogan prison tower census caution sausage abuse pave drink layer radar";
+var mnemonic = "mammal bright strike lucky success finish alien head inspire cereal bid appear";

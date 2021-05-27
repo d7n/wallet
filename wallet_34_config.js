@@ -1,1 +1,1 @@
-var mnemonic = "absorb brief song heart slam toward very angry flat circle disagree cupboard";
+var mnemonic = "industry shy slim proud term bounce sort acid slam february scorpion legend";

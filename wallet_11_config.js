@@ -1,1 +1,1 @@
-var mnemonic = "proud portion case awake trash spin weasel smile pretty absurd hazard sample";
+var mnemonic = "club between ghost situate left husband ahead taste mirror sentence dress inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "normal venture hunt hurt dove venue bronze inquiry piece bright pink castle";
+var mnemonic = "recycle elephant piano minute pear alpha barely raven core list spider reveal";

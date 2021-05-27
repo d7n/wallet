@@ -1,1 +1,1 @@
-var mnemonic = "arrest tank wave denial also walnut melt follow harvest rude rate rookie";
+var mnemonic = "crack cigar oyster banner tag tunnel action neutral bless fork worry display";

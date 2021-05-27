@@ -1,1 +1,1 @@
-var mnemonic = "feed coconut base alpha electric enemy east private fine trigger chronic hard";
+var mnemonic = "athlete cage crunch skull boost hip visa duty staff affair between have";

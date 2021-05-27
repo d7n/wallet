@@ -1,1 +1,1 @@
-var mnemonic = "ugly kidney salmon maid nasty front avocado nerve dial galaxy reform wrestle";
+var mnemonic = "bubble huge ability file moral quantum test like install clerk custom spot";

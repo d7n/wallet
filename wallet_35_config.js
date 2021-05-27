@@ -1,1 +1,1 @@
-var mnemonic = "grunt height industry battle ahead dash lecture clock switch throw picture grain";
+var mnemonic = "rug door hub argue country desert inflict income memory able eagle knife";

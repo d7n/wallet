@@ -1,1 +1,1 @@
-var mnemonic = "divert hair symbol swamp yellow deliver teach swing model blind innocent treat";
+var mnemonic = "chat rifle blur jungle measure acid detect boil boil spatial divorce fun";

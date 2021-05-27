@@ -1,1 +1,1 @@
-var mnemonic = "fox deposit half diet dizzy lock remember control wave shed fresh olive";
+var mnemonic = "control tuna breeze purity vocal audit figure beyond tomorrow top mad miss";

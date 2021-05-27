@@ -1,1 +1,1 @@
-var mnemonic = "owner castle ghost twice crouch harbor pause pact position problem path athlete";
+var mnemonic = "wash clown update valley involve gown lake off other debate crater toward";

@@ -1,1 +1,1 @@
-var mnemonic = "odor matrix hidden you cliff banner panic category title coyote hundred weasel";
+var mnemonic = "drill tree echo shy attend blind crack between duck axis inmate bunker";

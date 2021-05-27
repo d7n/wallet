@@ -1,1 +1,1 @@
-var mnemonic = "inch buzz begin donkey elephant fury squeeze cake differ obvious frog happy";
+var mnemonic = "hour budget party mandate like worry cream mixed main theme meat title";

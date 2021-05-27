@@ -1,1 +1,1 @@
-var mnemonic = "field media number buyer daughter shy teach today lyrics gloom give traffic";
+var mnemonic = "upon snack figure lunch noodle tell leopard loop share cousin relax sudden";

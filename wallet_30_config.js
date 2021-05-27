@@ -1,1 +1,1 @@
-var mnemonic = "meadow raw drift buddy sleep mountain angry seat denial scan recycle carbon";
+var mnemonic = "ability half lava century shuffle real burden laundry melt verb potato coffee";

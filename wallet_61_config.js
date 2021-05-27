@@ -1,1 +1,1 @@
-var mnemonic = "cluster fitness junk silver dwarf dash machine oppose throw super birth huge";
+var mnemonic = "alarm cannon list swift south oil catch muffin card flag arrow post";

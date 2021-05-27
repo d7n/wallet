@@ -1,1 +1,1 @@
-var mnemonic = "trouble cousin canoe point grab board wear upgrade hen mansion immune moral";
+var mnemonic = "double jazz soap hurdle virtual coin stumble happy explain pen clip auction";

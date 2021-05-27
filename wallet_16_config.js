@@ -1,1 +1,1 @@
-var mnemonic = "swear hand buddy cover cry forget original dilemma glare funny join solve";
+var mnemonic = "glove ten fluid when crazy drip before awkward recipe clinic bubble debate";

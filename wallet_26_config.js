@@ -1,1 +1,1 @@
-var mnemonic = "bar fix wrong melody panic theory frost ghost doll air sugar amused";
+var mnemonic = "account frog bleak cycle label message food final image point permit able";

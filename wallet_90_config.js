@@ -1,1 +1,1 @@
-var mnemonic = "gather business athlete math honey ignore walk culture critic fortune promote earth";
+var mnemonic = "tobacco magnet fresh shoulder point session effort popular ripple crawl crystal abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "enough consider art bonus material demand pair dune enrich husband wild wink";
+var mnemonic = "improve art also fish baby odor clown soon utility strike cake rice";

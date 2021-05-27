@@ -1,1 +1,1 @@
-var mnemonic = "dinner film acquire evidence choose biology flavor donor viable bargain hand february";
+var mnemonic = "patient want attack brown outdoor index fold baby vacant victory life erode";

@@ -1,1 +1,1 @@
-var mnemonic = "sea pave pepper chapter vacant spring lottery wreck child wish learn kit";
+var mnemonic = "gap length raise void order section sign fault guard section come bargain";

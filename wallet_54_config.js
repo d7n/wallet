@@ -1,1 +1,1 @@
-var mnemonic = "color dilemma diesel speed crop divert arctic provide universe best artwork squirrel";
+var mnemonic = "come sniff inside rapid minute bounce level abstract target tiger cotton couch";

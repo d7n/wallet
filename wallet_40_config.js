@@ -1,1 +1,1 @@
-var mnemonic = "zoo trash cause attack laptop kite jeans border farm hawk clog vibrant";
+var mnemonic = "trust own science attract fashion buddy round toast quick limb equal first";

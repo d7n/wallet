@@ -1,1 +1,1 @@
-var mnemonic = "abstract day era pilot despair voyage certain dinner swarm dolphin rubber deer";
+var mnemonic = "sorry first hill indoor sample announce peace broom wife kid fit surface";

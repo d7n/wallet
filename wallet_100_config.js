@@ -1,1 +1,1 @@
-var mnemonic = "chalk announce expire kid claw lobster trade detail october try drop pistol";
+var mnemonic = "rifle hero best rent side surge casino punch marble baby phone client";

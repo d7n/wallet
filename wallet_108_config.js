@@ -1,1 +1,1 @@
-var mnemonic = "off shine portion upgrade usual permit antique smooth aunt access sleep sorry";
+var mnemonic = "strategy zoo version type basic language usage parrot valve corn pistol remember";

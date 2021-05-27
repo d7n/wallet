@@ -1,1 +1,1 @@
-var mnemonic = "absent nephew dog canvas machine glue already cigar fade imitate broccoli upset";
+var mnemonic = "liar firm wrap question gallery spring omit slam over maid pigeon name";

@@ -1,1 +1,1 @@
-var mnemonic = "question ordinary horn hope deny belt hub trend orange author fee talent";
+var mnemonic = "velvet hockey obscure ecology fall kitchen asthma void attack duty source iron";

@@ -1,1 +1,1 @@
-var mnemonic = "bean message unit glare broccoli clock one case comfort similar wife beach";
+var mnemonic = "fee guide noodle cycle payment barrel sausage guide actor web cry bone";

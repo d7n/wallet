@@ -1,1 +1,1 @@
-var mnemonic = "priority exchange vintage trap naive pizza lesson tray version acid mention shrug";
+var mnemonic = "cube similar camp flame any drum person gallery rather toilet gentle face";

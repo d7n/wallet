@@ -1,1 +1,1 @@
-var mnemonic = "lucky west local husband approve guard hip myth motion client flag west";
+var mnemonic = "issue neutral kind arch already oak poem practice sword inflict core plug";

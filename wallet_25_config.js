@@ -1,1 +1,1 @@
-var mnemonic = "attend brick crush hollow push forget tomorrow maze pride junk enlist depart";
+var mnemonic = "stairs hub hole image critic dial this blouse smoke until exhaust tooth";

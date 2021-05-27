@@ -1,1 +1,1 @@
-var mnemonic = "urge wolf pull lizard stay pulp mixture behind witness term lunch vicious";
+var mnemonic = "access skin biology other special shy wrestle end exhibit club foot fiction";

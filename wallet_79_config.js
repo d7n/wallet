@@ -1,1 +1,1 @@
-var mnemonic = "strategy submit latin swear tray shove slab describe lonely net steak aunt";
+var mnemonic = "coyote mobile roof that board basic rule finger ball holiday author file";

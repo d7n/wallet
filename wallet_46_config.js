@@ -1,1 +1,1 @@
-var mnemonic = "riot way term stand snake success lake candy glory drum seminar theme";
+var mnemonic = "average phone quick popular liar choose stool swarm cereal pottery comfort into";

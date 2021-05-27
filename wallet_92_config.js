@@ -1,1 +1,1 @@
-var mnemonic = "entry steel degree weasel liar void market nurse injury dizzy cherry all";
+var mnemonic = "girl perfect capital sing transfer review atom odor shrug protect finger upgrade";

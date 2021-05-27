@@ -1,1 +1,1 @@
-var mnemonic = "furnace bleak drive brief youth album crush digital evoke nest sport monster";
+var mnemonic = "photo truly february image differ gossip clump impulse shift mimic student install";

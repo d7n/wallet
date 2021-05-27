@@ -1,1 +1,1 @@
-var mnemonic = "typical eyebrow wolf casual topic crop estate jazz spare object clap embody";
+var mnemonic = "grow club bleak speed surge powder upper topic recipe vast sure trophy";

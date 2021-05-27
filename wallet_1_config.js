@@ -1,1 +1,1 @@
-var mnemonic = "trap trophy opinion grab industry flavor must distance float cage fiber cart";
+var mnemonic = "drastic grant addict dress buzz alpha entry soldier frequent addict track crash";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery motor diesel gospel visual girl team grunt citizen candy fever blush";
+var mnemonic = "gasp around where chase scatter oyster aim fall agent sock agree latin";

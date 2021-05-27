@@ -1,1 +1,1 @@
-var mnemonic = "equip control crunch joke bridge worry october bulk deputy parrot joy crawl";
+var mnemonic = "sausage tank raven cloud proud ignore talent symbol cloud own glove fault";

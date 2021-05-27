@@ -1,1 +1,1 @@
-var mnemonic = "grain adult refuse grow host kiss word index swamp trip kiss finish";
+var mnemonic = "ten film list boil gorilla reason core snow zone doctor panda text";

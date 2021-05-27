@@ -1,1 +1,1 @@
-var mnemonic = "ship shy top space snake uniform patient clutch sphere festival number winter";
+var mnemonic = "hazard animal mirror ancient swing reveal never note inner discover dog clarify";

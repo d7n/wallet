@@ -1,1 +1,1 @@
-var mnemonic = "square tuition solar ketchup broken track trumpet future nice clutch depend danger";
+var mnemonic = "donkey sword copper rocket nature sunset service ill biology exhaust embody diary";

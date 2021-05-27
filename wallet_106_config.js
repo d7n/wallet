@@ -1,1 +1,1 @@
-var mnemonic = "quiz length jazz source cake essay acid sweet arrest issue lonely pen";
+var mnemonic = "daughter fan target together wasp cool decrease bean mountain fatigue treat nation";

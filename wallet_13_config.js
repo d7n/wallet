@@ -1,1 +1,1 @@
-var mnemonic = "marble appear surge ride silver admit still slot emotion mail impose apart";
+var mnemonic = "excuse knee vital assist three flag infant sting slush congress group job";

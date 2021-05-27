@@ -1,1 +1,1 @@
-var mnemonic = "excite valid volume symptom home organ bulk they once play scissors hamster";
+var mnemonic = "volume dad clip before dilemma hedgehog behind grass prepare emotion route heavy";

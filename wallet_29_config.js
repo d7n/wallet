@@ -1,1 +1,1 @@
-var mnemonic = "pulp absurd garbage story rib old material picnic grocery language enlist cup";
+var mnemonic = "embody logic left roast timber opinion blame never sport pen transfer order";

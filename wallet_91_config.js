@@ -1,1 +1,1 @@
-var mnemonic = "enrich burst daughter crazy random become purchase job sell race ordinary physical";
+var mnemonic = "humble verify frozen space draft travel sponsor effort empty vintage daughter carry";

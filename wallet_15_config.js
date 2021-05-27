@@ -1,1 +1,1 @@
-var mnemonic = "believe book meat obscure drill gather essence change trophy tooth brother mirror";
+var mnemonic = "valid divide razor invest chalk luxury hybrid later crystal quote spray fat";

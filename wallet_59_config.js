@@ -1,1 +1,1 @@
-var mnemonic = "bachelor under pave surprise quick aerobic resemble disease churn panel return worth";
+var mnemonic = "depart clarify myth panther swap maze race episode cake guitar slide old";

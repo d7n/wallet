@@ -1,1 +1,1 @@
-var mnemonic = "nature monster cage insect empower idea try monkey churn caution tobacco rebel";
+var mnemonic = "media cry latin loyal maze intact height entry typical sunny indoor snap";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp hero meadow casual desk nut diary average stamp capable spend dove";
+var mnemonic = "essence giant blade brisk because fatigue spy injury fitness swing polar lunar";

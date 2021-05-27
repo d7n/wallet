@@ -1,1 +1,1 @@
-var mnemonic = "impact pudding boring walnut match intact field common erupt horse museum negative";
+var mnemonic = "over fade dust main elephant mandate butter screen hockey box orchard powder";

@@ -1,1 +1,1 @@
-var mnemonic = "become donor injury metal honey ankle secret arrest high vintage ceiling letter";
+var mnemonic = "thrive prevent plunge confirm gold task dragon cheese account side praise bike";

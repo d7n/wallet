@@ -1,1 +1,1 @@
-var mnemonic = "shrug tuition skull salon badge december mother unusual song top shell rich";
+var mnemonic = "that such creek make cause wool indoor economy cute wine check rib";
