@@ -1,1 +1,1 @@
-var mnemonic = "argue ridge lizard become trouble museum prosper uniform injury oil reason feature";
+var mnemonic = "number trumpet corn town decline critic wave woman margin meat man multiply";

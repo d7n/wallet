@@ -1,1 +1,1 @@
-var mnemonic = "basket usual mercy struggle scatter disease fluid youth raise strong girl artwork";
+var mnemonic = "various repair frown worry want crumble device cheese mean ice duty cream";

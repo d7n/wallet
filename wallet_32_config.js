@@ -1,1 +1,1 @@
-var mnemonic = "idea barely quality junk dynamic toward surprise load grow knee deer spring";
+var mnemonic = "swear hedgehog gain just replace shrimp solve eager aisle believe ice dress";

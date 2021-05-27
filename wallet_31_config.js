@@ -1,1 +1,1 @@
-var mnemonic = "rural rely rural rural prosper sibling fetch reason eyebrow accuse response visual";
+var mnemonic = "relief march lottery carbon capital arm border capable daring mystery note shuffle";

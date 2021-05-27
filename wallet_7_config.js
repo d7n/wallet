@@ -1,1 +1,1 @@
-var mnemonic = "become evil point stairs people mail finger lab fox device scene fence";
+var mnemonic = "priority area sense scheme file soccer auction salute stable year wrist session";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp fresh slice carbon mixed inhale artwork situate clog foot buzz deputy";
+var mnemonic = "cream original rug wonder myth decide limit mobile hospital bomb path legend";

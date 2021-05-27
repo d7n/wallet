@@ -1,1 +1,1 @@
-var mnemonic = "real kite engage volume spread pond fancy bar inch magic ugly snap";
+var mnemonic = "jelly express rifle kite kangaroo vacant entry scatter trouble wise nurse help";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce day company menu water harvest again east fan reunion decide wealth";
+var mnemonic = "security random funny theory absurd soda robust idle student tower peanut actress";

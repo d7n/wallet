@@ -1,1 +1,1 @@
-var mnemonic = "refuse mountain robust kingdom antique hawk tool sword usage glance shuffle able";
+var mnemonic = "dizzy inner add end benefit cliff donate cushion future jump burger common";

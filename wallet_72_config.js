@@ -1,1 +1,1 @@
-var mnemonic = "enforce spatial ensure ankle degree gossip green beauty initial chief valid bread";
+var mnemonic = "bitter please sound sheriff gift must switch gorilla cram round urge hospital";

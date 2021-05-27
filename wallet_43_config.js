@@ -1,1 +1,1 @@
-var mnemonic = "group globe together mean cable world boss rabbit bread erosion reduce twenty";
+var mnemonic = "lunch also punch plate three scissors silly forget fly dilemma creek firm";

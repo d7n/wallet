@@ -1,1 +1,1 @@
-var mnemonic = "one elevator oak floor program wide mistake pioneer need dog forum sort";
+var mnemonic = "dose lazy leg danger special flee type sell leader parent robust action";

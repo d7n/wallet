@@ -1,1 +1,1 @@
-var mnemonic = "find easily appear laptop patch portion pet over lesson labor disease bless";
+var mnemonic = "soon mirror sell hat foil lizard second income another vanish reason galaxy";

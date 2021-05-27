@@ -1,1 +1,1 @@
-var mnemonic = "october repeat spell mistake inner jaguar domain stumble busy pause tide crop";
+var mnemonic = "salad cube change once floor limb runway unfair essay easily attack approve";

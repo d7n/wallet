@@ -1,1 +1,1 @@
-var mnemonic = "sure pill wood thrive circle label fog delay visit buyer coil useful";
+var mnemonic = "naive embark coach bacon state life laugh grit tube trouble siren normal";

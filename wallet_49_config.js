@@ -1,1 +1,1 @@
-var mnemonic = "damage quote jeans tool pave taxi fluid gift edge jaguar awful flavor";
+var mnemonic = "sting nasty gift when artefact dwarf fossil payment review innocent tissue cruise";

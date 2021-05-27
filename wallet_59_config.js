@@ -1,1 +1,1 @@
-var mnemonic = "muffin youth image cost agree tissue join ensure gather answer weird eternal";
+var mnemonic = "coach dog melody search orchard loud sudden attend fiction escape coach slot";

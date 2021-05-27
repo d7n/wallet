@@ -1,1 +1,1 @@
-var mnemonic = "extra item plate trial lobster sand item bunker soldier picture magic tribe";
+var mnemonic = "bind shove economy hill life hill shoe wool garbage mushroom luxury tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "maze input urban decide field frame spoil inflict genius length giant point";
+var mnemonic = "dutch whip strong consider pink country occur screen kiss cute expire guilt";

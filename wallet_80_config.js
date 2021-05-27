@@ -1,1 +1,1 @@
-var mnemonic = "pig claim cable near south insect liberty pipe indoor sponsor ordinary liberty";
+var mnemonic = "oyster spring metal brush genius dose canvas insane liquid fat lazy dice";

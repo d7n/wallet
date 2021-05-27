@@ -1,1 +1,1 @@
-var mnemonic = "organ leg seat rent exit number jar refuse sense knock invest bargain";
+var mnemonic = "torch sausage prefer pepper coconut february dish glimpse alpha voyage service heart";

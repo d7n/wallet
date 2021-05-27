@@ -1,1 +1,1 @@
-var mnemonic = "wheat glow festival antenna almost cry swamp blind sketch glide improve clip";
+var mnemonic = "actress ribbon energy artefact label become liar uniform exit mobile parade ship";

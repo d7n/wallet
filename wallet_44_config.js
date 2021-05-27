@@ -1,1 +1,1 @@
-var mnemonic = "any local shadow bubble entry keen plug label civil glide crumble dice";
+var mnemonic = "maximum load brown game donate panel win invite flash hidden panther wrestle";

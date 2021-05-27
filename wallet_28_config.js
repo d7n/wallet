@@ -1,1 +1,1 @@
-var mnemonic = "enforce crunch give pause mesh provide use shiver tennis omit swim scorpion";
+var mnemonic = "retreat lottery drift jeans glory grass square buzz pretty tuna reject eternal";

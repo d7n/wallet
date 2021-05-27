@@ -1,1 +1,1 @@
-var mnemonic = "camp salmon end gallery disease jeans used gas quality hard siren often";
+var mnemonic = "voyage member soap garment jar pulse double target veteran brisk raccoon vessel";

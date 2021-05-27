@@ -1,1 +1,1 @@
-var mnemonic = "palm donor desk grain palace slow upper hungry dial detect sun range";
+var mnemonic = "dawn oxygen casual avoid open wing silent mad inherit exclude mule draw";

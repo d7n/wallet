@@ -1,1 +1,1 @@
-var mnemonic = "remind spirit artist work chair concert dream host eagle ten slush adapt";
+var mnemonic = "sadness lounge depend gossip volcano title broken hover approve winter penalty year";

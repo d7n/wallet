@@ -1,1 +1,1 @@
-var mnemonic = "lamp mercy family flip birth august stumble industry midnight olive tunnel theory";
+var mnemonic = "enter daring until fly pottery mixture dentist noise deposit barrel early glad";

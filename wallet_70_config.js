@@ -1,1 +1,1 @@
-var mnemonic = "man resist patient evil fruit corn teach proof length gas educate spring";
+var mnemonic = "pact bind doll tide bleak day rally analyst plug valley prepare joy";

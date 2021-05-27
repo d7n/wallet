@@ -1,1 +1,1 @@
-var mnemonic = "size salt please impulse patrol smoke weird opinion indoor hurt guitar define";
+var mnemonic = "siege behind bunker rich slender impact pen kangaroo cost leisure good expand";

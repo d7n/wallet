@@ -1,1 +1,1 @@
-var mnemonic = "replace sample soul enrich symptom safe surface half annual hood economy cargo";
+var mnemonic = "pulse hidden key enjoy universe right garbage ten ugly work improve advance";

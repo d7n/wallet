@@ -1,1 +1,1 @@
-var mnemonic = "lab fury humble dream sting whip diagram bullet shine ship drip raise";
+var mnemonic = "school obscure giraffe flavor dove skill knock follow squirrel fortune attend marriage";

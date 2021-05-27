@@ -1,1 +1,1 @@
-var mnemonic = "ranch foot pole reunion cattle pact weekend differ tube scare wine prefer";
+var mnemonic = "item cart cool weather wedding fire step broccoli sword dash fitness panel";

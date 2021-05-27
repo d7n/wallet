@@ -1,1 +1,1 @@
-var mnemonic = "latin melody federal cloth couple balcony plunge enemy treat woman path alert";
+var mnemonic = "wool gloom age skirt drastic olive rude camp defy similar property twice";

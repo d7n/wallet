@@ -1,1 +1,1 @@
-var mnemonic = "fresh tobacco boil stumble behind daring mail recall dinner mixed what satisfy";
+var mnemonic = "tongue floor alien can wait mango loud novel engage pottery all cost";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar behave engine glare salmon current series best super reward lemon hedgehog";
+var mnemonic = "hybrid giggle owner reform master already want save cart shrug narrow powder";

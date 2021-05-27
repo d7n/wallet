@@ -1,1 +1,1 @@
-var mnemonic = "sunset unknown retreat tone essay prepare spy faint biology fat soldier slot";
+var mnemonic = "huge attitude access true caution mistake easy hand valley burger setup mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "random arm gym someone open company act margin people wood veteran truck";
+var mnemonic = "voice able amateur slide federal inhale happy correct stumble cake claw bird";

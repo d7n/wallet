@@ -1,1 +1,1 @@
-var mnemonic = "deer possible mammal vivid giraffe senior fault add satisfy twice mention mandate";
+var mnemonic = "live enter possible equal service valve thrive apology spirit enter clay arm";

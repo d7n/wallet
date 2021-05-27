@@ -1,1 +1,1 @@
-var mnemonic = "gas audit dial tide evolve depth click blade awkward swear purpose absent";
+var mnemonic = "loyal field click stick fabric adult cancel stay blanket vote fruit wear";

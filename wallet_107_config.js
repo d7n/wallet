@@ -1,1 +1,1 @@
-var mnemonic = "cry lobster power cram rain found select town suffer avocado make floor";
+var mnemonic = "next drop begin plug gospel tiger grid raven filter gas romance bid";

@@ -1,1 +1,1 @@
-var mnemonic = "silly noble canoe unknown fantasy base aim trouble length sphere media depend";
+var mnemonic = "wisdom moral luggage silver phrase romance erase that brief pigeon myth length";

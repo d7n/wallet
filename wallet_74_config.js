@@ -1,1 +1,1 @@
-var mnemonic = "trust banana busy find december way brave decade wisdom vibrant behave fatigue";
+var mnemonic = "twenty relax humble diary maid poem expire wisdom bread chase click space";

@@ -1,1 +1,1 @@
-var mnemonic = "visit black humble earn version erupt again wide sphere sword hurry laptop";
+var mnemonic = "occur sail dawn dish nest lobster olive expect thought glory prize diesel";

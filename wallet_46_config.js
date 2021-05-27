@@ -1,1 +1,1 @@
-var mnemonic = "outer pulse mosquito mosquito inject monkey raccoon conduct crumble leisure fatal wolf";
+var mnemonic = "fluid repair snow census review begin carry whisper abuse doll upset guard";

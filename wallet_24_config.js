@@ -1,1 +1,1 @@
-var mnemonic = "remember afraid shoot device orient number record unfold gift fly enjoy hint";
+var mnemonic = "travel basket much spring mimic valve true regular fancy bicycle capable scrub";

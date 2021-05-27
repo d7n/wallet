@@ -1,1 +1,1 @@
-var mnemonic = "example man volcano usual ship all flip crop stairs census surround screen";
+var mnemonic = "repeat antique use dolphin circle machine foster twin fashion plug run orphan";

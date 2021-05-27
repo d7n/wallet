@@ -1,1 +1,1 @@
-var mnemonic = "vintage case myself jeans east sting moment drill today road garage voice";
+var mnemonic = "blast icon crater globe trust enemy surprise boost century certain tomorrow leader";

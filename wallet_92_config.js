@@ -1,1 +1,1 @@
-var mnemonic = "online private liquid wear caught raven over broken over stumble misery royal";
+var mnemonic = "fiscal diamond find dumb rose shove price combine position reform alert lens";

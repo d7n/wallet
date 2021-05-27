@@ -1,1 +1,1 @@
-var mnemonic = "tissue pipe truth finger bottom almost photo stable timber inflict produce foot";
+var mnemonic = "tragic bar rug napkin wife must picnic degree shine market stem episode";

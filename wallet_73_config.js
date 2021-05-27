@@ -1,1 +1,1 @@
-var mnemonic = "sketch husband hour mosquito broken visa exit rather shiver wish critic frog";
+var mnemonic = "timber broken ozone muffin explain oxygen blur empower sample bachelor slush title";

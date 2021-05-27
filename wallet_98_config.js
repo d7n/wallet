@@ -1,1 +1,1 @@
-var mnemonic = "hobby physical opera junior salute pioneer rubber become dawn affair barely solar";
+var mnemonic = "outer toward pear order blanket submit miss bachelor pitch fold intact nature";

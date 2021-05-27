@@ -1,1 +1,1 @@
-var mnemonic = "entry couch athlete book panel snack marine stumble breeze audit name rib";
+var mnemonic = "teach tip arrange demand large stay dash burger bachelor input hawk decade";

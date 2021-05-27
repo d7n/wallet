@@ -1,1 +1,1 @@
-var mnemonic = "cotton say plunge stock error bring hazard they kick cycle neutral stool";
+var mnemonic = "toss exercise six vicious mule stove dumb shove toddler solve index insane";

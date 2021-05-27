@@ -1,1 +1,1 @@
-var mnemonic = "gauge razor survey slim wealth weasel crunch ice choice office other rubber";
+var mnemonic = "arch office tribe dress labor cute sleep nation mouse history ribbon prepare";

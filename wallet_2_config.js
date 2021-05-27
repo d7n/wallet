@@ -1,1 +1,1 @@
-var mnemonic = "winter fork motion sunset rice change narrow window moment arrange loop junior";
+var mnemonic = "dawn basic heavy voice decorate obtain balcony palace flee ugly panda alien";

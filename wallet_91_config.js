@@ -1,1 +1,1 @@
-var mnemonic = "chest interest they spring differ stove mean wink kiss tone royal frequent";
+var mnemonic = "balance you trap deputy jazz live garment orient design armed satoshi fruit";

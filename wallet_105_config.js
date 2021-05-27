@@ -1,1 +1,1 @@
-var mnemonic = "setup kangaroo south rack hour sting result purity effort plate deputy maid";
+var mnemonic = "sand spell acid truth install vital venue grocery luggage large symbol actress";

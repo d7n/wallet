@@ -1,1 +1,1 @@
-var mnemonic = "bottom work choice success enter basket faculty heavy congress upset shrug fabric";
+var mnemonic = "point regret bus cradle fringe skate eyebrow spend imitate finish robot myth";

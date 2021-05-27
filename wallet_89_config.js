@@ -1,1 +1,1 @@
-var mnemonic = "same cook seek state usage help memory swap hint hello brown kick";
+var mnemonic = "mercy ozone spoon resist someone connect addict youth weird stable conduct menu";

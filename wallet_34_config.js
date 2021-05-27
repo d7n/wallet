@@ -1,1 +1,1 @@
-var mnemonic = "suit draw half debate age heart seven option water sell aunt load";
+var mnemonic = "sibling sibling orient already shock element device chicken wear hen snow nice";

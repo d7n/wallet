@@ -1,1 +1,1 @@
-var mnemonic = "away grape tomato sleep invest novel about decide stereo uphold pretty photo";
+var mnemonic = "maximum join congress august useless inject subway ride usage race wing scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "either mixture street champion hole walk wish limb ripple assault brisk width";
+var mnemonic = "truth pave tone shuffle forward tool lab video doctor sibling decorate cereal";

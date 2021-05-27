@@ -1,1 +1,1 @@
-var mnemonic = "salute novel civil evoke tray bird destroy trick vacant helmet short away";
+var mnemonic = "solution scissors actual seed erode victory depart dash client census moon tail";

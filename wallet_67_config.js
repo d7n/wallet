@@ -1,1 +1,1 @@
-var mnemonic = "rose lunch gentle remain recipe sport album library surge total garden solar";
+var mnemonic = "answer better home key river wrap maximum water across turkey dragon march";

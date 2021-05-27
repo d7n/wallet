@@ -1,1 +1,1 @@
-var mnemonic = "couple stool hover vault victory remind small chicken bar daughter prosper kind";
+var mnemonic = "tragic prepare flock nest find dress insane vacuum violin run discover skate";

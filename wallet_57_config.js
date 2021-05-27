@@ -1,1 +1,1 @@
-var mnemonic = "slush secret village broken boost huge buzz town century woman toilet barely";
+var mnemonic = "increase coast carbon fiber skull food domain unlock abstract good scheme brother";

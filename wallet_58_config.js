@@ -1,1 +1,1 @@
-var mnemonic = "season monkey genius image settle atom merit gift chuckle estate increase divorce";
+var mnemonic = "draft tonight hold project secret pyramid one chat appear sick person brave";

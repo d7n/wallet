@@ -1,1 +1,1 @@
-var mnemonic = "lava network human curtain couch mechanic inside comic shoulder sleep tooth phone";
+var mnemonic = "coconut since confirm release motor rhythm minor ride wrong exercise crouch now";

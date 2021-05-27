@@ -1,1 +1,1 @@
-var mnemonic = "expect ramp thumb amount work army seed collect general alley monitor afford";
+var mnemonic = "fault comfort custom track hole desk someone guilt blame torch intact screen";

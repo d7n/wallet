@@ -1,1 +1,1 @@
-var mnemonic = "inhale wagon lab someone galaxy soda turn harvest stove item head general";
+var mnemonic = "sustain satoshi waste truth scissors top maze sugar cabbage train gloom mammal";

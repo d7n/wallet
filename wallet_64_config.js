@@ -1,1 +1,1 @@
-var mnemonic = "shed combine setup suffer bless aerobic marine spoon transfer undo brother gentle";
+var mnemonic = "home month absent acquire lemon pride neither zoo apart law media much";

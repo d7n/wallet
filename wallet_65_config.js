@@ -1,1 +1,1 @@
-var mnemonic = "else slim dry enlist surface speed chief wife bread enlist thunder edge";
+var mnemonic = "april crash bounce net conduct prefer leader wheel lab pool blame cool";

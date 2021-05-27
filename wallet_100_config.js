@@ -1,1 +1,1 @@
-var mnemonic = "snack success undo race typical worth update scan ten abuse better world";
+var mnemonic = "grid butter ranch essay forget transfer tower wheat flat ahead food convince";

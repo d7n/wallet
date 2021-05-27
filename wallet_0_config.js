@@ -1,1 +1,1 @@
-var mnemonic = "diet excess sword remind valley finish abstract acquire stamp still vague earth";
+var mnemonic = "jump twenty blanket tribe pencil element type mansion february corn biology that";

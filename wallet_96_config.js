@@ -1,1 +1,1 @@
-var mnemonic = "rookie enable civil village level truly crew bread glove engage enroll track";
+var mnemonic = "foam critic oil then summer update clinic rain then icon need permit";

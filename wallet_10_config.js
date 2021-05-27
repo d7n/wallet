@@ -1,1 +1,1 @@
-var mnemonic = "intact city depth click glove upper endorse trash stairs relax remain jewel";
+var mnemonic = "dose bonus piano nephew alert home sun spawn charge eager senior feed";

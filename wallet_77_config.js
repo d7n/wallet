@@ -1,1 +1,1 @@
-var mnemonic = "ecology same anchor unlock into raven weather humor between flat view poem";
+var mnemonic = "mammal sing false squeeze skill candy universe human gold ordinary sugar despair";

@@ -1,1 +1,1 @@
-var mnemonic = "first inject balcony mistake abuse coffee belt abstract neglect giraffe switch scatter";
+var mnemonic = "replace horn embody when stool dizzy pioneer case gasp taxi armed mask";

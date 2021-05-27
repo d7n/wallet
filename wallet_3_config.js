@@ -1,1 +1,1 @@
-var mnemonic = "clog noodle knock similar grunt open exercise girl weekend end across naive";
+var mnemonic = "list rebuild host pond cousin dash amused author exit water stand tooth";

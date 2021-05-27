@@ -1,1 +1,1 @@
-var mnemonic = "raise goddess obtain chronic village morning place crumble sauce produce rack moon";
+var mnemonic = "capable beach aisle abandon decide wine youth flock material verb ability denial";

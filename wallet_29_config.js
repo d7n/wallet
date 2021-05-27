@@ -1,1 +1,1 @@
-var mnemonic = "message song fiscal kiss install breeze spirit humor thrive butter virus action";
+var mnemonic = "under rude start around pistol style brown net sponsor grape limb hotel";

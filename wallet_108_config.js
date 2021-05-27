@@ -1,1 +1,1 @@
-var mnemonic = "kitten improve fruit forward mix thought front sound hen mobile hybrid gift";
+var mnemonic = "romance sing upon intact seminar impact maid subject winner negative vault recall";

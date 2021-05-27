@@ -1,1 +1,1 @@
-var mnemonic = "consider lonely bird dilemma install strong nest sport arena spice course empty";
+var mnemonic = "turtle climb become lock side visual ill valid vintage reject priority domain";

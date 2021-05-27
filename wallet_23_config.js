@@ -1,1 +1,1 @@
-var mnemonic = "couch deputy first dash crawl clever inmate announce smoke salt boring squirrel";
+var mnemonic = "slogan pear elite hub fiscal decorate demise cousin annual bitter tooth hunt";

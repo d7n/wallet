@@ -1,1 +1,1 @@
-var mnemonic = "hover clever beyond door drastic describe state observe ice syrup artefact bar";
+var mnemonic = "oak profit ride glimpse omit asset good draft soft luxury asset slim";

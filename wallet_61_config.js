@@ -1,1 +1,1 @@
-var mnemonic = "absent rice push ginger diagram finger expand damage bring monitor gun hurdle";
+var mnemonic = "indicate appear real isolate media prison clump enjoy electric work collect fiction";

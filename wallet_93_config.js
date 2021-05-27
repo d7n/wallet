@@ -1,1 +1,1 @@
-var mnemonic = "game mountain level now search thank physical rather offer reward pig decline";
+var mnemonic = "drink load prize surge among quality access toy sand what begin genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "census caution image gentle green bean salt staff lunar salon federal village";
+var mnemonic = "phone car fringe pitch hamster huge letter pumpkin rich panel boost say";

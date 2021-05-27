@@ -1,1 +1,1 @@
-var mnemonic = "attend oxygen flock convince belt trumpet goat sibling music rail blanket gaze";
+var mnemonic = "castle govern jealous basic just absorb size royal camera hip hello spin";

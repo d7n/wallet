@@ -1,1 +1,1 @@
-var mnemonic = "lamp hundred blouse enforce embrace property snake myth artefact hazard pair stone";
+var mnemonic = "drive cactus pink dance quick burst float exhibit wait faint hand horn";

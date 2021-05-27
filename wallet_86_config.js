@@ -1,1 +1,1 @@
-var mnemonic = "base risk human impose borrow code hope drum abstract minor tribe duck";
+var mnemonic = "since viable salt hamster soon warfare judge current emerge trash menu general";

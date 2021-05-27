@@ -1,1 +1,1 @@
-var mnemonic = "engine service submit struggle session isolate rather nerve bracket change web void";
+var mnemonic = "moon bless bone special ready december earn castle boss crunch charge gift";

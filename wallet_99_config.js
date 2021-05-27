@@ -1,1 +1,1 @@
-var mnemonic = "stuff render core insect help gossip place blind collect tray globe tag";
+var mnemonic = "pulp suffer yard jungle horse doctor perfect assume relief solution rude hire";

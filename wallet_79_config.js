@@ -1,1 +1,1 @@
-var mnemonic = "copy dawn fatigue usual exile asset genius solar old muscle genius six";
+var mnemonic = "walk relief another stuff volcano account enter ugly quantum shock bone armor";

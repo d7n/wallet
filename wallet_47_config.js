@@ -1,1 +1,1 @@
-var mnemonic = "miss agree profit finger sail more pledge flock plunge zebra series globe";
+var mnemonic = "swarm fury web panda swarm domain wet bar goose sand wonder neck";

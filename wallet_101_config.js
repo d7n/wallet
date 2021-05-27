@@ -1,1 +1,1 @@
-var mnemonic = "coach trophy network nut trial auto found cancel force trend give bid";
+var mnemonic = "enrich actress life drive drip lift donate pass mention corn glance athlete";

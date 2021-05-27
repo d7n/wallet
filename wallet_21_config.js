@@ -1,1 +1,1 @@
-var mnemonic = "pen eyebrow vault clog stage permit ensure actual bundle bargain track hero";
+var mnemonic = "knife number opinion enjoy distance worth awake just dwarf student tomorrow army";
