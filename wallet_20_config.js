@@ -1,1 +1,1 @@
-var mnemonic = "derive thought gym pulp soda wing disagree promote basket route tissue crunch";
+var mnemonic = "small joy hospital sell elegant bargain clean axis waste opinion trouble cheese";

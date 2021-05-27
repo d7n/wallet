@@ -1,1 +1,1 @@
-var mnemonic = "lizard canal goat sausage gown blanket inject reopen shadow fluid cable bracket";
+var mnemonic = "helmet vacuum sting piano check hard hawk cruise december hint able useless";

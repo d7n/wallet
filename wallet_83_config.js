@@ -1,1 +1,1 @@
-var mnemonic = "pull employ skill ostrich arch occur ride siege wedding this truly wing";
+var mnemonic = "dynamic evoke uncle dolphin tourist merry squirrel apart update service door obey";

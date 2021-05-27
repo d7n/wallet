@@ -1,1 +1,1 @@
-var mnemonic = "idea orbit sand action since service adapt fish hungry help flower obscure";
+var mnemonic = "prosper paper donor length lock room media shuffle kind guitar juice manage";

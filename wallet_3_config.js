@@ -1,1 +1,1 @@
-var mnemonic = "umbrella oval crack drink fantasy also penalty purchase river dry metal reform";
+var mnemonic = "retreat abuse dose ring neutral tool purity adapt angle flag horse stamp";

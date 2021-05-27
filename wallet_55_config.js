@@ -1,1 +1,1 @@
-var mnemonic = "today state sand dwarf below panther weekend verb soap consider area middle";
+var mnemonic = "arm obvious narrow flame attract all canyon engage climb slim bring hat";

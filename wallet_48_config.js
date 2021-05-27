@@ -1,1 +1,1 @@
-var mnemonic = "twist blush pledge entire coffee use cricket coyote regular dove train ivory";
+var mnemonic = "gas false upon shoulder exclude media olympic camp say shrimp decline canyon";

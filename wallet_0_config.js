@@ -1,1 +1,1 @@
-var mnemonic = "social taxi stumble piece bird advance emerge govern will repair charge until";
+var mnemonic = "rack tomorrow melody across industry depth off hunt swift erode replace reveal";

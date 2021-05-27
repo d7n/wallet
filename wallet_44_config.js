@@ -1,1 +1,1 @@
-var mnemonic = "panda upper voyage door frequent drop proud giraffe daring forward coast matrix";
+var mnemonic = "roast mention tower just pride height useful wonder absent explain shop various";

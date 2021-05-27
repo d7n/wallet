@@ -1,1 +1,1 @@
-var mnemonic = "hundred mushroom sadness mesh suspect absent arrive prison razor cage also kite";
+var mnemonic = "chest wonder eager muscle lawsuit blind walnut success end inhale steak maple";

@@ -1,1 +1,1 @@
-var mnemonic = "ready crew knife nuclear cinnamon rude caution like phone enable coffee dash";
+var mnemonic = "dynamic vacant loyal security battle spare universe glass usual fit ceiling shop";

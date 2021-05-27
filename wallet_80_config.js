@@ -1,1 +1,1 @@
-var mnemonic = "loud retire envelope pave among squeeze decrease spirit motion language visual choose";
+var mnemonic = "acoustic hole fly hazard nothing enact pumpkin laundry pave bunker cash horn";

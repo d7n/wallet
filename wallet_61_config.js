@@ -1,1 +1,1 @@
-var mnemonic = "bargain border undo mean giggle girl leopard hobby enrich good gasp make";
+var mnemonic = "canvas supreme silly gaze legend win demise scorpion economy feature symbol magnet";

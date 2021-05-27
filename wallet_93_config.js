@@ -1,1 +1,1 @@
-var mnemonic = "spray car artwork electric sheriff retire hair limit order purpose pole reopen";
+var mnemonic = "marine time core wish auction toy super mom cigar delay village car";

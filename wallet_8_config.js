@@ -1,1 +1,1 @@
-var mnemonic = "behind vendor provide jazz addict desert lamp afford drama multiply stand promote";
+var mnemonic = "hunt tuition audit gun hurry cinnamon word liquid rude move pride index";

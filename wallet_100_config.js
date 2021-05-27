@@ -1,1 +1,1 @@
-var mnemonic = "cram ranch pilot imitate cool gentle warm build tube genuine foot hotel";
+var mnemonic = "bring today mansion garbage seminar arrest strong kite cram spread small agent";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve access core wheel hotel truck torch inquiry vanish bullet oblige paper";
+var mnemonic = "venue shoot heavy trend reform three mom lucky output shaft gown employ";

@@ -1,1 +1,1 @@
-var mnemonic = "provide address reform spatial hobby process today mountain maximum fatigue mango roast";
+var mnemonic = "grace only basket tornado basic farm dial child parrot vacant shell loud";

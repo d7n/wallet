@@ -1,1 +1,1 @@
-var mnemonic = "witness infant manage rib core gasp where van apple naive stay utility";
+var mnemonic = "rifle planet champion movie sausage island garlic carry shove vivid sugar hen";

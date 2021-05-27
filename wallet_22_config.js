@@ -1,1 +1,1 @@
-var mnemonic = "turtle strategy race over rocket mouse evoke program rigid climb amused spirit";
+var mnemonic = "rookie estate swallow spring goat moral switch gadget fly bicycle demise fog";

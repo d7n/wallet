@@ -1,1 +1,1 @@
-var mnemonic = "group lift jaguar stick bullet shadow lesson remind example situate risk awkward";
+var mnemonic = "amateur welcome remove lemon end lady frown detail disagree cook category beef";

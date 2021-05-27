@@ -1,1 +1,1 @@
-var mnemonic = "spell begin inherit erode enter wasp giggle half finish athlete change mushroom";
+var mnemonic = "wrist quantum nothing fiction slogan happy finger unveil dilemma supply fee birth";

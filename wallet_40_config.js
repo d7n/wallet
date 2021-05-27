@@ -1,1 +1,1 @@
-var mnemonic = "exercise live drop enter fluid alcohol soap castle clip error speak mesh";
+var mnemonic = "help outer device syrup pretty practice civil hazard shed gap vanish satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar toy youth rather boat insect title hotel cigar knife cloth extend";
+var mnemonic = "merry aware tiger load equal tree apple sudden divide immune roast gospel";

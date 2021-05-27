@@ -1,1 +1,1 @@
-var mnemonic = "mandate margin sugar seven client airport lobster bleak speak market hybrid pioneer";
+var mnemonic = "garbage boring kingdom animal design payment best friend vapor brass mixture mango";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt pluck sausage shiver argue nephew cereal tissue shy staff brand this";
+var mnemonic = "return glance neutral rescue nice vote valley certain explain capital dress follow";

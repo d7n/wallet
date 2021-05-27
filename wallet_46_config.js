@@ -1,1 +1,1 @@
-var mnemonic = "chase retreat eye truth mesh shell brief scene roast twist sun riot";
+var mnemonic = "course advance bullet direct observe riot apart saddle dad skin banana reflect";

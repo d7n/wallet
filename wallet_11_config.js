@@ -1,1 +1,1 @@
-var mnemonic = "explain impulse island unique focus bubble disorder you impulse style poem transfer";
+var mnemonic = "thank size speed open maple amount coach vehicle liberty wreck oyster sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "typical dumb rapid relax fever throw theme excuse another option trigger blouse";
+var mnemonic = "age hidden soldier dignity catalog abandon gauge few bulk guide clarify dust";

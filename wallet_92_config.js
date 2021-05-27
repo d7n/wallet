@@ -1,1 +1,1 @@
-var mnemonic = "between sport action invite shrimp useful tank slow whisper hybrid surge almost";
+var mnemonic = "cram rubber curve able usual start gravity debris invest mean neither flight";

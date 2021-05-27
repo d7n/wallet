@@ -1,1 +1,1 @@
-var mnemonic = "glue furnace debris monitor acoustic feel brass exile mimic dune actor seven";
+var mnemonic = "want fluid afford shiver region observe blouse critic gravity marriage total column";

@@ -1,1 +1,1 @@
-var mnemonic = "piece suggest coffee drop business spoil dose okay together sadness coin elbow";
+var mnemonic = "wealth random funny recipe laundry oven cousin apart inflict peasant van put";

@@ -1,1 +1,1 @@
-var mnemonic = "swing keen menu book biology spend drop large practice athlete you catch";
+var mnemonic = "all glove harbor canyon impulse gauge program blame ladder poverty bike drill";

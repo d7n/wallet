@@ -1,1 +1,1 @@
-var mnemonic = "blast betray truck absorb lizard belt vague lesson usage arctic fault nurse";
+var mnemonic = "gap boat pizza raccoon make soap lock tackle quick process tiger clock";

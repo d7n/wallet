@@ -1,1 +1,1 @@
-var mnemonic = "crime say fashion rate salad prevent simple oxygen spirit boss twenty slight";
+var mnemonic = "able pony zoo bonus also thought eagle verb tattoo roof track lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "way rabbit essay trick area sea vendor feature under reflect rabbit egg";
+var mnemonic = "teach hard beach wink mango squirrel faint host prefer supreme kidney evolve";

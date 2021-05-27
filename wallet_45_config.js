@@ -1,1 +1,1 @@
-var mnemonic = "sausage desk hedgehog drama fame wash catch rug suit theme liberty ostrich";
+var mnemonic = "oil love grow shell bone property please real crater story level manage";

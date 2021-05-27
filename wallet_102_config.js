@@ -1,1 +1,1 @@
-var mnemonic = "avocado ask swing knee icon flag empower nurse category expire canvas unfair";
+var mnemonic = "adult cart garlic exact lecture place fit express disorder sister spell pride";

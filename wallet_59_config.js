@@ -1,1 +1,1 @@
-var mnemonic = "blanket portion trap race expand since heart renew core chronic bean vocal";
+var mnemonic = "obey ghost ask indicate kiwi alpha senior vibrant way bargain entry dumb";

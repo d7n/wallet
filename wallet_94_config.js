@@ -1,1 +1,1 @@
-var mnemonic = "bench thumb lyrics note pear trigger caution unveil grace amount all dry";
+var mnemonic = "parade amateur joy found glue service book ranch defense wedding impact elevator";

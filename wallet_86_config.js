@@ -1,1 +1,1 @@
-var mnemonic = "entire eyebrow genuine note attend shift course output cup fatal cruise defense";
+var mnemonic = "film stairs need frost chef define zebra disagree buffalo purity dinosaur injury";

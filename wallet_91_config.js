@@ -1,1 +1,1 @@
-var mnemonic = "club primary health road nurse relief bacon marine sound series dwarf envelope";
+var mnemonic = "gospel garage atom tell manage snack course soup elevator kick office spray";

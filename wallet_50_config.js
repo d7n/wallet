@@ -1,1 +1,1 @@
-var mnemonic = "actress fire transfer breeze execute weird just execute tissue alcohol vanish battle";
+var mnemonic = "spray material notable mansion maple portion expose fish patient enjoy bean relax";

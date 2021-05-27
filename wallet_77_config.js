@@ -1,1 +1,1 @@
-var mnemonic = "harbor mango elegant autumn youth fan safe bind wage evil twelve athlete";
+var mnemonic = "suit elder pudding fly obey throw pear industry dose congress crazy sudden";

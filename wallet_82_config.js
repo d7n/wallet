@@ -1,1 +1,1 @@
-var mnemonic = "female veteran raccoon hunt soldier control essence ethics kangaroo gun spell settle";
+var mnemonic = "resource stay language cube busy stereo matter mountain try draft error delay";

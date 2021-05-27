@@ -1,1 +1,1 @@
-var mnemonic = "parent elephant guitar discover enlist ice canoe middle margin proud stage century";
+var mnemonic = "unlock song never slight girl original pause price cable ring ramp genuine";

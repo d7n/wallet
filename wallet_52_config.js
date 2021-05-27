@@ -1,1 +1,1 @@
-var mnemonic = "bring food rough comfort weapon radio convince humble arrow regret paddle erase";
+var mnemonic = "beauty purity kitchen sting fashion they stand recall element basket ride carpet";

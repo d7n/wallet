@@ -1,1 +1,1 @@
-var mnemonic = "sweet horse inch census punch gain piece fee able deliver warm grass";
+var mnemonic = "travel door allow lens muscle hard couch someone inspire buzz impulse camera";

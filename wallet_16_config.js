@@ -1,1 +1,1 @@
-var mnemonic = "useless palace picture problem budget execute novel voyage cheese consider welcome sweet";
+var mnemonic = "river collect wide tool cabbage leader best seven dad enroll two rural";

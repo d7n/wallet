@@ -1,1 +1,1 @@
-var mnemonic = "charge work habit short midnight volume oppose layer crash shaft unit giraffe";
+var mnemonic = "small craft volume scrap pilot aim believe fish ramp spot pistol suffer";

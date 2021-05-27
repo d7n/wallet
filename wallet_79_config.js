@@ -1,1 +1,1 @@
-var mnemonic = "jewel same capable immense treat tree horn great retreat dutch access hammer";
+var mnemonic = "keen crawl resemble public isolate power chimney adapt caution eagle pledge tornado";

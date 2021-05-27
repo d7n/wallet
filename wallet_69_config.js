@@ -1,1 +1,1 @@
-var mnemonic = "wrestle about differ sea zero fruit bean shop test forest skull wool";
+var mnemonic = "delay enrich increase stuff prison aspect drop until left bone pole captain";

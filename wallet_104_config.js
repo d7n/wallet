@@ -1,1 +1,1 @@
-var mnemonic = "repair vendor weird forum slab ahead pear barely donor rich snack ladder";
+var mnemonic = "movie soul void loud tower bounce alley chapter impose off nut sight";

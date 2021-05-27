@@ -1,1 +1,1 @@
-var mnemonic = "slot van depth axis resist invest voice dirt foster permit there hover";
+var mnemonic = "hotel foot law orange two flock conduct will card ketchup local pause";

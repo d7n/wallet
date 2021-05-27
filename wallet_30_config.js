@@ -1,1 +1,1 @@
-var mnemonic = "inner path inject table live idea sight soap motion poverty casino marine";
+var mnemonic = "knock bright rookie crash tuition view enforce tiger flush amount glide nice";

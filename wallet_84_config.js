@@ -1,1 +1,1 @@
-var mnemonic = "early prefer symptom music any rescue analyst disease any time cancel ugly";
+var mnemonic = "opera vicious illegal rhythm patrol amount actor slide bind impact among exchange";

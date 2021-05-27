@@ -1,1 +1,1 @@
-var mnemonic = "ensure begin winner fuel cactus book media woman flock very pretty sauce";
+var mnemonic = "derive myself stomach cruise train awesome caught common update depend panther bean";

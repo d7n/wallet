@@ -1,1 +1,1 @@
-var mnemonic = "huge atom flash alien wheat muscle endorse cherry unfair holiday load smart";
+var mnemonic = "cause collect visa practice auto state grocery select surface flip write solution";

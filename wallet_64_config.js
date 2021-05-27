@@ -1,1 +1,1 @@
-var mnemonic = "unfold child slice risk raven clock lucky mercy staff umbrella middle aisle";
+var mnemonic = "february bargain similar old razor day liar cement zero design rifle target";

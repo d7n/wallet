@@ -1,1 +1,1 @@
-var mnemonic = "camera make raw security believe balcony shoot gossip force distance civil inner";
+var mnemonic = "iron violin pulse inquiry gun whale train giraffe bone visit banner rug";

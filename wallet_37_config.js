@@ -1,1 +1,1 @@
-var mnemonic = "another banana version skill eternal swarm champion furnace trick festival multiply cream";
+var mnemonic = "silent exchange cupboard evolve board find twice clock broom fever adult ticket";

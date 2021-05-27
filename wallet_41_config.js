@@ -1,1 +1,1 @@
-var mnemonic = "loop vehicle brief stable social list engine later tennis claw cotton salmon";
+var mnemonic = "blade marriage tornado mix very trouble tip tumble shock pyramid bargain volume";

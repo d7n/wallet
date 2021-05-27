@@ -1,1 +1,1 @@
-var mnemonic = "typical rain uniform bless panic estate exhibit ride sell spray reopen cycle";
+var mnemonic = "void month total thrive bottom kangaroo account tattoo release bless dismiss clay";

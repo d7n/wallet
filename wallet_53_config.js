@@ -1,1 +1,1 @@
-var mnemonic = "food museum treat ridge swallow capital bomb grunt office book accuse congress";
+var mnemonic = "check volume reflect author employ tilt crash unaware boy jewel baby give";

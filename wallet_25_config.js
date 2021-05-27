@@ -1,1 +1,1 @@
-var mnemonic = "garbage way fluid comic disagree hat caution dial flip trap intact park";
+var mnemonic = "disorder remain wave abandon talent blood grant husband minimum reject unable visa";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow clutch symbol endorse avoid rotate pupil lounge piano resemble lab village";
+var mnemonic = "version later arrive labor demand inflict wealth wage equip embrace hollow endorse";

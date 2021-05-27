@@ -1,1 +1,1 @@
-var mnemonic = "loop original egg genius edit bomb robust club spring vendor sleep gown";
+var mnemonic = "loyal ice feature winner napkin before loyal feed use awful fossil crater";

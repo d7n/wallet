@@ -1,1 +1,1 @@
-var mnemonic = "buffalo plate tide verb thumb naive market physical moral fade toss legal";
+var mnemonic = "steel license hunt answer prosper find monitor cousin social artist wisdom gasp";

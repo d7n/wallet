@@ -1,1 +1,1 @@
-var mnemonic = "monster tired sad toe disorder boat ski power silver onion orient top";
+var mnemonic = "glory lucky sponsor kite wrestle air dog price shop ceiling shove umbrella";

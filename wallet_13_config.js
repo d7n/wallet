@@ -1,1 +1,1 @@
-var mnemonic = "wing insane sock learn question grit legend manage leader kid fox palace";
+var mnemonic = "cute usual cluster sniff parent video pistol zoo wise ensure learn broken";

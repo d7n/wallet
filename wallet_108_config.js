@@ -1,1 +1,1 @@
-var mnemonic = "style merge damp just bargain race electric hockey delay bamboo brother steak";
+var mnemonic = "shove clog topic never mean ocean review grain rule gain sword top";

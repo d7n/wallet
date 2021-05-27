@@ -1,1 +1,1 @@
-var mnemonic = "kit myth air lend tenant soul life response skill unfair erosion fame";
+var mnemonic = "neck goat horn edit aim kangaroo afford canyon local winter exclude skull";

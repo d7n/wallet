@@ -1,1 +1,1 @@
-var mnemonic = "rapid usage photo process zoo post today unfair express latin cash train";
+var mnemonic = "wave asset survey dynamic deputy zero orchard approve midnight cigar mixed admit";

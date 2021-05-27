@@ -1,1 +1,1 @@
-var mnemonic = "silk depth come tip safe slim grit output egg filter margin evil";
+var mnemonic = "adult pilot patient vast van upper foster gorilla scale used ugly teach";

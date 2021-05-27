@@ -1,1 +1,1 @@
-var mnemonic = "replace era jewel sugar shoe unveil layer attack noodle cricket forward wife";
+var mnemonic = "black soda general buffalo other minor tower shell engine sugar offer grant";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond rack reflect prevent else release tribe drama team crane amused trip";
+var mnemonic = "oppose private father random consider genuine knife message bone future gloom phone";

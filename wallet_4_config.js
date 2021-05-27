@@ -1,1 +1,1 @@
-var mnemonic = "embrace thought trick claim result private oyster gospel maple mix profit economy";
+var mnemonic = "laptop lecture merit amused verb tourist share rubber forward spare organ open";

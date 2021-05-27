@@ -1,1 +1,1 @@
-var mnemonic = "teach mule police evidence tomato filter curious myself donkey coral impact remind";
+var mnemonic = "issue recipe law script expect dance evolve flush stand region debate glad";

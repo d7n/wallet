@@ -1,1 +1,1 @@
-var mnemonic = "velvet range craft hint dumb salon keen visa poet need sign quick";
+var mnemonic = "grit double current dynamic finish minute soccer jewel biology nominee web usage";

@@ -1,1 +1,1 @@
-var mnemonic = "differ blouse woman mutual day valve congress build health travel canyon kick";
+var mnemonic = "destroy load goat move then antique wing thought teach involve imitate welcome";

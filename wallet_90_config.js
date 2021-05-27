@@ -1,1 +1,1 @@
-var mnemonic = "oak cube goat found paddle indoor pistol urge damp ship picnic service";
+var mnemonic = "maximum worry huge indoor between child rocket marine attitude pipe shoulder scrap";

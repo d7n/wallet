@@ -1,1 +1,1 @@
-var mnemonic = "day refuse anchor dice deliver ancient exclude amused insane airport zebra side";
+var mnemonic = "film unique elite cheese just model endless slide friend differ rib solve";

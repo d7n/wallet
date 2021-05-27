@@ -1,1 +1,1 @@
-var mnemonic = "loyal sponsor table then endorse inmate attend dismiss spice differ unhappy number";
+var mnemonic = "error dry zoo sort olympic want vital canyon oyster flag carpet useless";

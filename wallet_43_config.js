@@ -1,1 +1,1 @@
-var mnemonic = "already wonder trial august panther doll first junior tissue concert capable tonight";
+var mnemonic = "mercy capital rain gap concert wise hammer west surge cage segment proof";

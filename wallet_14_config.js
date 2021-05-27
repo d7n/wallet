@@ -1,1 +1,1 @@
-var mnemonic = "index innocent grab shoe castle bid ill fancy famous fuel extra young";
+var mnemonic = "join amazing sheriff usual pioneer carbon sentence ketchup sadness message empower sort";

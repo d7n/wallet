@@ -1,1 +1,1 @@
-var mnemonic = "amazing candy palace mix wife awake famous uniform alien tuition snow picture";
+var mnemonic = "pigeon direct donor swamp sense rapid home just umbrella crew illness bike";
