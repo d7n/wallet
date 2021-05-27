@@ -1,1 +1,1 @@
-var mnemonic = "project web gossip hello subject pilot size tape physical priority alone ten";
+var mnemonic = "affair celery snap alien weather proud enforce habit cause legal labor move";

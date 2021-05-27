@@ -1,1 +1,1 @@
-var mnemonic = "tool absorb destroy recipe library puzzle found agree boring exit shell balance";
+var mnemonic = "offer fox effort bean tribe leg shed minimum couch truly lizard good";

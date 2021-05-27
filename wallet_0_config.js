@@ -1,1 +1,1 @@
-var mnemonic = "prize differ city size once bulk asthma harbor design age left dinosaur";
+var mnemonic = "insane muffin bring manual identify lake tragic seek pet trial setup reward";

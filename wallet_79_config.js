@@ -1,1 +1,1 @@
-var mnemonic = "mad clinic tackle tiny mansion vital celery trumpet erase shoulder rack reject";
+var mnemonic = "various exact group shrug raise dust mass garbage youth dirt network happy";

@@ -1,1 +1,1 @@
-var mnemonic = "atom carbon peasant flock arm afford ribbon attend return school shove circle";
+var mnemonic = "chunk twist carbon now actual notable soul mind tuition detect sure giggle";

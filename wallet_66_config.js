@@ -1,1 +1,1 @@
-var mnemonic = "arctic craft room mimic valve cousin ugly allow claw proof voyage assault";
+var mnemonic = "tank degree love tuna episode uniform appear ring weekend grain diagram guess";

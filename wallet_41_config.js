@@ -1,1 +1,1 @@
-var mnemonic = "almost dumb clump nuclear another loud tomorrow talent roof rookie bus few";
+var mnemonic = "fancy battle assist shine reason tourist run satisfy cliff enemy plastic task";

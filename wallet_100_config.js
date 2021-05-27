@@ -1,1 +1,1 @@
-var mnemonic = "attend bean fly party opinion hand great manage federal cattle wild tribe";
+var mnemonic = "elephant gold tortoise cabbage gather this cattle weird palace leader party stand";

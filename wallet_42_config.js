@@ -1,1 +1,1 @@
-var mnemonic = "scrub pill garbage scheme employ fabric tongue cricket index first cool usual";
+var mnemonic = "glare account depend sauce flat avocado civil next federal smoke gather surge";

@@ -1,1 +1,1 @@
-var mnemonic = "select license bronze chimney treat carbon shaft shield entry flip child summer";
+var mnemonic = "inhale render seat gold tape conduct degree friend cook eight ladder divert";

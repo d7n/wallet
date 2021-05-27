@@ -1,1 +1,1 @@
-var mnemonic = "core liberty universe blouse hub announce rhythm winner man amazing rubber remind";
+var mnemonic = "design century garden loan fever educate become team click south dismiss juice";

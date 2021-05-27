@@ -1,1 +1,1 @@
-var mnemonic = "tackle toddler toe figure inch memory truck ski patient pluck modify session";
+var mnemonic = "goat steel cushion noodle burst possible fashion game gravity buffalo trick layer";

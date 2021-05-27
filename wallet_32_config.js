@@ -1,1 +1,1 @@
-var mnemonic = "lock mosquito pause fresh unaware quality license permit math round dove custom";
+var mnemonic = "tennis tuna logic notable bird soda ritual basic inflict copy heart unusual";

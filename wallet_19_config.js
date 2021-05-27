@@ -1,1 +1,1 @@
-var mnemonic = "claw humor seminar bitter attitude cheese pigeon emotion awkward crumble cricket shy";
+var mnemonic = "figure speak all lend pupil mansion flavor bunker cry once involve feel";

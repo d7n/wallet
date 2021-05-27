@@ -1,1 +1,1 @@
-var mnemonic = "rail dance suspect car walnut claw paper rotate upon journey isolate draw";
+var mnemonic = "quit human visa slam cruel situate express approve chief error medal birth";

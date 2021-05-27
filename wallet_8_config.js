@@ -1,1 +1,1 @@
-var mnemonic = "check damp believe charge ignore afraid saddle wealth public sentence dash measure";
+var mnemonic = "path say faith neither soul civil spider oblige chapter useful code bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "begin civil salmon glimpse congress strike limit candy describe issue creek put";
+var mnemonic = "naive rice online steak situate narrow post post barrel endless usage bind";

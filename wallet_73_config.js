@@ -1,1 +1,1 @@
-var mnemonic = "small embrace upon violin page inform alter random misery slide expand vicious";
+var mnemonic = "summer arena tortoise orange where already left potato neutral oil point torch";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran please maze large two reform pumpkin between rule bright horror stomach";
+var mnemonic = "hard twist chaos void fine usual balance almost clock adjust obvious rhythm";

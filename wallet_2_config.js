@@ -1,1 +1,1 @@
-var mnemonic = "stairs drastic disease search air ancient couple crop patient system useful regular";
+var mnemonic = "draw clock common price filter energy confirm vintage wish ethics virus hidden";

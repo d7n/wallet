@@ -1,1 +1,1 @@
-var mnemonic = "walnut hair shrimp wife file credit boss wagon service artefact pact arctic";
+var mnemonic = "tell heavy beef plastic protect space enable detail remind elder fiscal plastic";

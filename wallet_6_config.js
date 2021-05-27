@@ -1,1 +1,1 @@
-var mnemonic = "state over thank flip stone version story hazard ball slab board usual";
+var mnemonic = "excite chimney injury exercise bone found action agent maid owner service hybrid";

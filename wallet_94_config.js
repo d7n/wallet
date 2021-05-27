@@ -1,1 +1,1 @@
-var mnemonic = "open enact abstract evidence vanish beyond task bamboo dream zoo vehicle couple";
+var mnemonic = "clinic dumb license vicious vendor heavy payment reject merge neck around obvious";

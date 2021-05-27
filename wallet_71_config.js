@@ -1,1 +1,1 @@
-var mnemonic = "destroy chat hover source net fish gas album used maid devote initial";
+var mnemonic = "fabric cement convince cinnamon inflict system make love fun can excite bottom";

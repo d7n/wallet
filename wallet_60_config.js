@@ -1,1 +1,1 @@
-var mnemonic = "route kite churn buzz salmon attitude weasel cat venue rent banana thrive";
+var mnemonic = "inquiry ivory erode cage mask poverty laptop street stool picnic guide lemon";

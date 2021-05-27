@@ -1,1 +1,1 @@
-var mnemonic = "into hundred drama rice dose pottery kidney possible interest steel punch frown";
+var mnemonic = "three frost lemon ability solve document divorce hybrid bacon broom fuel way";

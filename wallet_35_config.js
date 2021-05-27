@@ -1,1 +1,1 @@
-var mnemonic = "boil top magic allow burst antenna defense feel lab immense song merry";
+var mnemonic = "machine museum culture love glance filter horse shrug gun shell excite agree";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub ride again sample reject behave long struggle divorce into catalog balance";
+var mnemonic = "purse matter marble deputy little galaxy mammal gravity high disagree wait reunion";

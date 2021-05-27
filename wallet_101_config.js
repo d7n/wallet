@@ -1,1 +1,1 @@
-var mnemonic = "diesel shop mother junior piano educate phrase hospital license crunch follow expire";
+var mnemonic = "oven oil march suspect cotton frown empower nose mail speak great silk";

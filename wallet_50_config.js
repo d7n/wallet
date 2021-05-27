@@ -1,1 +1,1 @@
-var mnemonic = "tilt balance loyal horn choice name rare fancy impose shaft garbage flash";
+var mnemonic = "neck scrap icon recipe couch abuse fitness lounge refuse alert bind trip";

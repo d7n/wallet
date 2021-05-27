@@ -1,1 +1,1 @@
-var mnemonic = "shoot page empower almost fringe oak agree gossip arm race involve tunnel";
+var mnemonic = "pulp push garment absent crouch dentist wise away indicate lab dose canal";

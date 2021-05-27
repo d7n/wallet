@@ -1,1 +1,1 @@
-var mnemonic = "vintage tail can fatal egg knee cricket thing impulse kingdom miss fever";
+var mnemonic = "liar ask pear airport daughter spend cloth silver arch language tribe zoo";

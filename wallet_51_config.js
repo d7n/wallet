@@ -1,1 +1,1 @@
-var mnemonic = "ill shine that danger shallow simple cushion model culture saddle damp fantasy";
+var mnemonic = "raw topple drama around fuel search shoulder wash bullet crowd pet evolve";

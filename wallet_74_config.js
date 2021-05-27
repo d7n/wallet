@@ -1,1 +1,1 @@
-var mnemonic = "mirror aerobic juice margin cannon clever miracle believe put embark faint forward";
+var mnemonic = "bracket cliff junk burst island donate rude parade wagon insect course festival";

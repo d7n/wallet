@@ -1,1 +1,1 @@
-var mnemonic = "chalk symptom design train crime more symbol wealth spell episode burden pause";
+var mnemonic = "fun hip length pudding veteran mixed enact mansion know drive senior wrist";

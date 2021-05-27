@@ -1,1 +1,1 @@
-var mnemonic = "visit inspire bone birth subject damage talent update wealth roast enforce almost";
+var mnemonic = "just service spell copper palm install hen club major maximum divorce nothing";

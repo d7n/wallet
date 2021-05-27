@@ -1,1 +1,1 @@
-var mnemonic = "just merry lazy alter quote afraid ridge roast treat hybrid example pride";
+var mnemonic = "vehicle educate student unique extra indoor sphere save leg amount fitness spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "barely royal example sure radio allow chair skate patrol spirit obtain brown";
+var mnemonic = "retire setup immune maximum brush limit call below shield energy add spoil";

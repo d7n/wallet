@@ -1,1 +1,1 @@
-var mnemonic = "health journey decorate panther sock cruise love pretty virtual pause property edit";
+var mnemonic = "physical garlic only sea behind faith erode over banana fiscal sphere hammer";

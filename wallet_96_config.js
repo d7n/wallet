@@ -1,1 +1,1 @@
-var mnemonic = "custom donate vibrant buffalo trigger margin expand strategy moment flip mixture merit";
+var mnemonic = "juice day cliff faculty repeat zero repair ethics settle moral hedgehog sunny";

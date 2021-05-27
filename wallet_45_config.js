@@ -1,1 +1,1 @@
-var mnemonic = "hero middle throw bitter artwork strategy magic beach guess trumpet blast energy";
+var mnemonic = "cheap shock animal brief gravity young dynamic undo ozone aware mosquito price";

@@ -1,1 +1,1 @@
-var mnemonic = "name donate either tool basic wasp bomb magic motion upgrade beef giant";
+var mnemonic = "vast symbol mechanic pudding glare holiday girl tissue cloud mosquito harbor ring";

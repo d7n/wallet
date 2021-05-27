@@ -1,1 +1,1 @@
-var mnemonic = "wash egg same frequent antique setup artwork flag enter flock tomato fiction";
+var mnemonic = "runway health film window guide assault other mind luggage giggle current extend";

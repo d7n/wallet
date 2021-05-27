@@ -1,1 +1,1 @@
-var mnemonic = "seed promote bonus citizen fire bunker just chapter food tree host utility";
+var mnemonic = "clinic bamboo crunch grape wet fan clean valve around lake clump shine";

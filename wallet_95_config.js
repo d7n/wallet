@@ -1,1 +1,1 @@
-var mnemonic = "ride hazard attend enable expire trip guitar forward love honey employ void";
+var mnemonic = "gather wrestle dose involve title bleak verify level pulse course obscure artist";

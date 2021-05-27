@@ -1,1 +1,1 @@
-var mnemonic = "beauty love wood company fence orphan mandate south stuff pill fame trumpet";
+var mnemonic = "potato broom off public genre pony jealous mutual mercy garment rebuild velvet";

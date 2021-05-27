@@ -1,1 +1,1 @@
-var mnemonic = "age shuffle cruel target error obtain piano match slam cake away drive";
+var mnemonic = "pave mosquito more vault melt clown rich foil rubber evolve remember maid";

@@ -1,1 +1,1 @@
-var mnemonic = "often shallow tumble balance never cabbage drop great alcohol winter swing scrap";
+var mnemonic = "rice book pipe cart actor planet negative gain law cupboard kite swear";

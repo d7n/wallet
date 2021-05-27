@@ -1,1 +1,1 @@
-var mnemonic = "reason tuna wife firm dove manual envelope off maximum smoke sword view";
+var mnemonic = "radar suit fruit vibrant clock maple lizard govern fix virus still company";

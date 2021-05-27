@@ -1,1 +1,1 @@
-var mnemonic = "exhaust visit judge trumpet index wait mass canvas use click renew cargo";
+var mnemonic = "tennis blade judge grass give relief evidence trick guess fatigue sure hungry";

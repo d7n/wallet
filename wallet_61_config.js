@@ -1,1 +1,1 @@
-var mnemonic = "yard future evil program fashion transfer clip melody drift basket defy detail";
+var mnemonic = "more bicycle typical hat select present number vacuum idea genuine custom scale";

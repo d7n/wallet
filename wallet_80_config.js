@@ -1,1 +1,1 @@
-var mnemonic = "economy sniff uncle fine slab pause estate october daughter onion humble business";
+var mnemonic = "sugar echo merge arrive tortoise word transfer manage cheese chimney mother wide";

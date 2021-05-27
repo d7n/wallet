@@ -1,1 +1,1 @@
-var mnemonic = "donor diesel rug audit repeat calm must oxygen clerk veteran myself puppy";
+var mnemonic = "dove kite frequent bar shop mean great old actor enforce only conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent actress doctor radar swing what road fix borrow pelican treat swim";
+var mnemonic = "sustain ordinary wrap powder idea spider year type unveil release daughter target";

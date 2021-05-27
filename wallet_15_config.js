@@ -1,1 +1,1 @@
-var mnemonic = "abstract limit bread cereal cheese charge bar notable praise bind trip baby";
+var mnemonic = "fan exclude orient possible taste gentle arrest cart math lunar shift wish";

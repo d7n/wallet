@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur stick atom decide purse inquiry winter rack parent manage luxury metal";
+var mnemonic = "utility pelican kind shell disease grant jazz river bamboo depend emotion kitten";

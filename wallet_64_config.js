@@ -1,1 +1,1 @@
-var mnemonic = "diagram kidney street gaze episode cradle cruise siege access bottom action sugar";
+var mnemonic = "depart good second exit crisp buyer sing ancient lend fun demand achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol cactus inhale win fetch lion hen corn reform dutch stone magnet";
+var mnemonic = "panel elder betray tag drop chase warfare giraffe wear fuel master harsh";

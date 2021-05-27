@@ -1,1 +1,1 @@
-var mnemonic = "romance attract hand fresh village trap brass moment garlic express renew torch";
+var mnemonic = "tenant glass term federal awkward race infant orient dove rain slim echo";

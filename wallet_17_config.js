@@ -1,1 +1,1 @@
-var mnemonic = "clown garment void genius source catalog stem canvas clean cradle sad enemy";
+var mnemonic = "absurd viable estate front develop super deliver question hospital impulse segment dog";

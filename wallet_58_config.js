@@ -1,1 +1,1 @@
-var mnemonic = "lounge glue crazy trigger give caution exhaust fame else burst foot umbrella";
+var mnemonic = "pet attract forward sun provide flag dolphin usage welcome farm trophy quit";

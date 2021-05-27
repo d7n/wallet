@@ -1,1 +1,1 @@
-var mnemonic = "lizard silly just margin juice little talk rotate use donor devote sauce";
+var mnemonic = "blush easy post fun smoke sudden magic myself apple lucky ice science";

@@ -1,1 +1,1 @@
-var mnemonic = "access stool inside tower tragic ordinary bright faculty they canoe misery patient";
+var mnemonic = "client alone antenna access orchard soft empty push slide black soon accuse";

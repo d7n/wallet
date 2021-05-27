@@ -1,1 +1,1 @@
-var mnemonic = "pizza system cry science own next huge ability advice flip civil voice";
+var mnemonic = "modify gun zebra welcome host warfare rare sudden fantasy uniform kite kiss";

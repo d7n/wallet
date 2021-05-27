@@ -1,1 +1,1 @@
-var mnemonic = "spoil damage owner dirt trade pen slender twenty follow vendor bicycle income";
+var mnemonic = "walk harbor culture suggest worth pair stomach season sense two swim world";

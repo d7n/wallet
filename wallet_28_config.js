@@ -1,1 +1,1 @@
-var mnemonic = "asset mountain bless cushion garment select rescue bean prefer truth rural stable";
+var mnemonic = "ranch heart nut mix spring bunker off cricket term pull earth correct";

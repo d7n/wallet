@@ -1,1 +1,1 @@
-var mnemonic = "bullet husband success fun write spatial maximum churn dove current rescue cloud";
+var mnemonic = "grant fatal aspect alter roof issue choose salad orange enhance marble pole";

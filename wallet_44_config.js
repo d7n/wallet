@@ -1,1 +1,1 @@
-var mnemonic = "snow car crumble drink reason vintage primary bamboo bunker bird awkward actual";
+var mnemonic = "exit kingdom verb math they rely volume social wool dash atom below";

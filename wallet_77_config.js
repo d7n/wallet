@@ -1,1 +1,1 @@
-var mnemonic = "bone tomorrow assume orient wing hurry curious fork dirt auction oblige siege";
+var mnemonic = "twenty among south ordinary distance project pen acoustic sword answer junior unveil";

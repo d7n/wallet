@@ -1,1 +1,1 @@
-var mnemonic = "member float dutch figure tobacco tuna visa beyond donate equip host venture";
+var mnemonic = "route license vault margin melody mimic arrange drama call cage shed art";

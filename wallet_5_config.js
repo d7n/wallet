@@ -1,1 +1,1 @@
-var mnemonic = "duty scorpion come comic model creek clay dish sadness child wife brisk";
+var mnemonic = "virus club plate fringe vivid kiss own conduct civil route disorder bread";

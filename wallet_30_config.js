@@ -1,1 +1,1 @@
-var mnemonic = "sand pigeon umbrella pupil rebuild sun protect stage protect kit onion review";
+var mnemonic = "language imitate muscle swamp banana feature swamp force lens genius baby help";

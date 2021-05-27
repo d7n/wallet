@@ -1,1 +1,1 @@
-var mnemonic = "soft order congress west insect warrior course wish field humble curious puzzle";
+var mnemonic = "rib buzz credit tribe any please trial indoor inquiry copper soup program";

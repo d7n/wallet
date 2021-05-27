@@ -1,1 +1,1 @@
-var mnemonic = "fluid erase doctor napkin grace come private apology save guitar ugly effort";
+var mnemonic = "diamond minor flash awful distance tennis caution popular cabbage property ketchup infant";

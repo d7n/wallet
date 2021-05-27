@@ -1,1 +1,1 @@
-var mnemonic = "shop bomb rookie curve cause level raw copy actual exile rookie hint";
+var mnemonic = "cancel guitar remind palm blind fever donor wink depart wheel mother park";

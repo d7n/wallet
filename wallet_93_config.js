@@ -1,1 +1,1 @@
-var mnemonic = "style unusual lift dove fine egg horror cement toast forget entire middle";
+var mnemonic = "sign ring anchor regret image orphan rare crunch picture elbow home plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn donkey seven nephew soul split detail train buffalo long cactus version";
+var mnemonic = "hamster throw obvious output people safe used evil bargain road naive soap";

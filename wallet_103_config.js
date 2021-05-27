@@ -1,1 +1,1 @@
-var mnemonic = "equip smoke beyond pet risk urban faculty child bachelor grain mango over";
+var mnemonic = "risk lunch bus leopard welcome deliver ritual photo spell virtual negative version";

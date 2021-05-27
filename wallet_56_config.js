@@ -1,1 +1,1 @@
-var mnemonic = "whisper easy melody donkey quick galaxy kiss drip cloud coyote inch swim";
+var mnemonic = "ready chair joy during moon moon vivid voyage cinnamon census anxiety journey";

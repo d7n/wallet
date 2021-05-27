@@ -1,1 +1,1 @@
-var mnemonic = "volcano swift peace rally medal quality drift void crumble help boss year";
+var mnemonic = "thunder rebuild another live supply orange core seek coyote scatter super pluck";

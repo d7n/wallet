@@ -1,1 +1,1 @@
-var mnemonic = "sport useless casual lounge ripple arctic pool cross super print beach decide";
+var mnemonic = "explain style base veteran grid cattle potato useful actor grace beach sample";

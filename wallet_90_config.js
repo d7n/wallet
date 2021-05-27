@@ -1,1 +1,1 @@
-var mnemonic = "shoot rather busy black odor blade place inform salon aspect boat hover";
+var mnemonic = "hand hybrid script found rescue pride kitchen math unhappy input access behave";

@@ -1,1 +1,1 @@
-var mnemonic = "chat idle surge dawn imitate intact purpose hub void offer nurse talent";
+var mnemonic = "merry rice resource exit praise critic actual behind door stomach wall snow";

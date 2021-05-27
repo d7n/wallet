@@ -1,1 +1,1 @@
-var mnemonic = "tortoise galaxy wrong screen swift gloom donkey strike civil fade bus glass";
+var mnemonic = "swap couch garment ozone glow wish dash rug poem carpet grunt code";

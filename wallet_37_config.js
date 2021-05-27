@@ -1,1 +1,1 @@
-var mnemonic = "elder peanut toe thunder pelican old plunge alcohol buddy pill then sick";
+var mnemonic = "blue property answer wagon vintage shove vast across spray catalog section major";

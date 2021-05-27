@@ -1,1 +1,1 @@
-var mnemonic = "deer chest situate silk bar guess pluck seat vocal copy sister idle";
+var mnemonic = "coach acid shadow teach road group mountain alpha sauce steel earn color";

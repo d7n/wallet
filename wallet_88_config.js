@@ -1,1 +1,1 @@
-var mnemonic = "jealous inherit inhale scorpion face stadium happy arctic soccer marine shrimp barrel";
+var mnemonic = "virtual fee dragon panther same mercy orphan embody valid what insane hen";

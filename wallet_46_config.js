@@ -1,1 +1,1 @@
-var mnemonic = "divide seek auction bundle gas tree vicious damage stamp beauty cloth denial";
+var mnemonic = "marriage stool always acid pipe raccoon later position salon enter punch sand";

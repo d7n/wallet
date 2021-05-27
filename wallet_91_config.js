@@ -1,1 +1,1 @@
-var mnemonic = "fragile rather orbit moral adult onion verb tray fabric horn void pudding";
+var mnemonic = "october exhaust deal chuckle aim tobacco follow demand pair fly crucial gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper industry fat awful husband sing island sail apple lazy expire label";
+var mnemonic = "toddler fossil lamp lift grief demand antenna congress tiger gasp ribbon stomach";

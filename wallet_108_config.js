@@ -1,1 +1,1 @@
-var mnemonic = "sun language soft color exile bronze slam ghost ribbon book bulk leader";
+var mnemonic = "middle sister scissors syrup hole spatial physical mountain march wear demise myself";
