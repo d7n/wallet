@@ -1,1 +1,1 @@
-var mnemonic = "similar treat jealous draft frost journey loan strategy mango hotel endless episode";
+var mnemonic = "ball wrist garbage slender pizza mask shuffle corn sniff genius message lawn";

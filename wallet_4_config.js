@@ -1,1 +1,1 @@
-var mnemonic = "possible stove security route novel leader casual prefer panel dirt magic cannon";
+var mnemonic = "question mandate awful artwork maximum purchase steak tumble heart snow option amused";

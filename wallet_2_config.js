@@ -1,1 +1,1 @@
-var mnemonic = "quote island later accident caution lizard immense toilet welcome legal share crane";
+var mnemonic = "slush boat glimpse educate range blouse quit liquid coconut welcome suspect sudden";

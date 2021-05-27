@@ -1,1 +1,1 @@
-var mnemonic = "maid ride resemble seed zebra raccoon artwork music ocean genre robust banner";
+var mnemonic = "theory length reveal whisper mask high yellow spawn alert inch rebel equip";

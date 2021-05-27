@@ -1,1 +1,1 @@
-var mnemonic = "hollow festival promote either pass flame educate moral spider expose emerge fossil";
+var mnemonic = "chase latin leopard bracket spend convince rice race come exclude save furnace";

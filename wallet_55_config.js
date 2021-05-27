@@ -1,1 +1,1 @@
-var mnemonic = "wish hammer brave duty debris shoe diary cupboard pigeon route join tip";
+var mnemonic = "warrior hair funny inspire harvest search wolf cup network leopard hedgehog banana";

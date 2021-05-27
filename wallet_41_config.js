@@ -1,1 +1,1 @@
-var mnemonic = "journey elbow census vacuum base label dignity honey coconut live symbol delay";
+var mnemonic = "gorilla rare clock vault boss soda surprise damage oil decade snow charge";

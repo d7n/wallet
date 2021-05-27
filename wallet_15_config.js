@@ -1,1 +1,1 @@
-var mnemonic = "kitchen erode sail try proof ring slow cricket plastic bicycle ring mobile";
+var mnemonic = "creek black summer problem pipe mirror blanket police rough shop concert laundry";

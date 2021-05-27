@@ -1,1 +1,1 @@
-var mnemonic = "snake bounce video child across morning romance present devote maid uncle mean";
+var mnemonic = "desert clown begin parade prevent bronze topic eight cheese grief spawn sketch";

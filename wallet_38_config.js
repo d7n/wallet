@@ -1,1 +1,1 @@
-var mnemonic = "category year invite floor tray fossil shine amused review general radar blind";
+var mnemonic = "ugly wreck infant file birth squirrel foster plug board capital assault question";

@@ -1,1 +1,1 @@
-var mnemonic = "oval layer sausage vivid world spend weird stadium enrich hotel prevent dog";
+var mnemonic = "oven traffic hybrid gravity bachelor hat steak typical retire pioneer naive flame";

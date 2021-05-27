@@ -1,1 +1,1 @@
-var mnemonic = "almost desk valid hat ladder lemon elder seminar trial about mango battle";
+var mnemonic = "vapor public modify buyer unfair tool hood chaos exact hello panic season";

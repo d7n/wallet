@@ -1,1 +1,1 @@
-var mnemonic = "scatter edit scan kick away satoshi fatal window conduct morning easy kiwi";
+var mnemonic = "try despair pepper ramp manual again present wedding indoor inject wagon fan";

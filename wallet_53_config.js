@@ -1,1 +1,1 @@
-var mnemonic = "renew tone song keen vivid innocent where act plug prefer snap siege";
+var mnemonic = "meadow ethics hazard enact inhale ignore toe number rookie reveal swallow drum";

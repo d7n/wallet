@@ -1,1 +1,1 @@
-var mnemonic = "stove design split spawn banner teach amateur final large mail oven orange";
+var mnemonic = "flight bid caught keep pride village innocent ramp film flag social sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "parade thank entire orphan okay essence place twin frown drum piano element";
+var mnemonic = "usual dash iron remove tag save abuse news shed find soccer road";

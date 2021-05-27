@@ -1,1 +1,1 @@
-var mnemonic = "place asthma broom tornado shaft casual impulse thing idea cream asset stage";
+var mnemonic = "price venture suggest project invest loop source indoor this cube shadow private";

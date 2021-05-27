@@ -1,1 +1,1 @@
-var mnemonic = "rigid reason exact kitten appear solve joke media original jewel good write";
+var mnemonic = "drip cloth sea speed bench upon present wish grit rescue assist put";

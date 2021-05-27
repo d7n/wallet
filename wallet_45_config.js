@@ -1,1 +1,1 @@
-var mnemonic = "milk bonus device hockey armed frost faint used outer trial bamboo sword";
+var mnemonic = "also enter nuclear analyst clean chapter hat clean critic matter tray swarm";

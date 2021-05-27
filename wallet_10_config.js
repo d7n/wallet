@@ -1,1 +1,1 @@
-var mnemonic = "like reform afraid ribbon inside debris vast old sunny nose item sponsor";
+var mnemonic = "human anxiety become palm venue hip arrive pitch sting reject issue skate";

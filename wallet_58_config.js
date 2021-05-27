@@ -1,1 +1,1 @@
-var mnemonic = "pause settle spread juice left device worry cube miracle mouse accident news";
+var mnemonic = "deliver copy grocery ritual cousin current road same mountain violin resist broccoli";

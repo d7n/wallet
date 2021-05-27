@@ -1,1 +1,1 @@
-var mnemonic = "idea hope cube hazard exile lock great upon huge tourist fork aunt";
+var mnemonic = "heavy anxiety panda awful arch pear mask valley dragon impact onion cross";

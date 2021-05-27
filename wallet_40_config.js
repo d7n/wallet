@@ -1,1 +1,1 @@
-var mnemonic = "gravity corn rebel deputy home denial size chapter cash close biology parade";
+var mnemonic = "solid misery gym bless blouse bunker visit confirm tell basket ten grit";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen square swap black evoke orbit same scatter erode floor curtain humor";
+var mnemonic = "favorite hazard away twin logic tuna relax point pig earth invite neck";

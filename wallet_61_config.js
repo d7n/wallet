@@ -1,1 +1,1 @@
-var mnemonic = "hope primary brown fun another victory amazing river open wool chimney enough";
+var mnemonic = "shed train advice police inner muffin whip soldier evoke patient oyster plastic";

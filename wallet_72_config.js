@@ -1,1 +1,1 @@
-var mnemonic = "lucky stereo cover gather worry camera act ladder detail air transfer vacant";
+var mnemonic = "fatigue method fury reveal duty wash correct genius sell east minute lecture";

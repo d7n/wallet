@@ -1,1 +1,1 @@
-var mnemonic = "culture please dog leaf bracket never lottery cheap ketchup print cereal cram";
+var mnemonic = "floor actor few credit will stumble still napkin learn foil palm bracket";

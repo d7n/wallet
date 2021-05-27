@@ -1,1 +1,1 @@
-var mnemonic = "curtain want need crunch photo suit amused float cradle barely stove rack";
+var mnemonic = "lock normal foster balcony volume visit sibling forest achieve pole slender used";

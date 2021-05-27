@@ -1,1 +1,1 @@
-var mnemonic = "weekend job curve rapid earth limb odor lake return phone clarify squirrel";
+var mnemonic = "small grass edge sweet pepper expire human ghost spring series fan worth";

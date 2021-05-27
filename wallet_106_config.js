@@ -1,1 +1,1 @@
-var mnemonic = "crazy trim become run begin supreme start gown person vault hybrid gaze";
+var mnemonic = "occur bonus tower solution primary prepare sleep evidence illegal industry trade avocado";

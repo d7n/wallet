@@ -1,1 +1,1 @@
-var mnemonic = "ability energy stamp move quality business daughter add place audit core satisfy";
+var mnemonic = "curious chunk hire anxiety board dismiss install correct lemon door grape rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "palace act bless angle direct loan useless burger arrest final column skin";
+var mnemonic = "clinic width note awful pulp pattern hazard stadium consider fruit render adapt";

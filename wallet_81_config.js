@@ -1,1 +1,1 @@
-var mnemonic = "twenty egg base sniff island have save wine connect include produce one";
+var mnemonic = "stage unfair begin wide gentle sentence satoshi middle oyster drink wolf menu";

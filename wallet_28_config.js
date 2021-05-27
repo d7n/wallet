@@ -1,1 +1,1 @@
-var mnemonic = "plunge steel joy couch conduct soon hundred cargo gorilla actress spell caution";
+var mnemonic = "remind next sort month economy wrestle clap promote feature identify juice immune";

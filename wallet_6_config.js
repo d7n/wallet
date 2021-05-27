@@ -1,1 +1,1 @@
-var mnemonic = "banana ordinary fork furnace leopard price cabin buzz ritual claw they rebuild";
+var mnemonic = "tackle office must shine duty month frame success track sugar link correct";

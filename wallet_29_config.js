@@ -1,1 +1,1 @@
-var mnemonic = "element cross pen erode device ski search either cross arrest click hip";
+var mnemonic = "avoid talk code excite vendor outer lumber night crucial tissue gift apology";

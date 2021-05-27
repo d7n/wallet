@@ -1,1 +1,1 @@
-var mnemonic = "music cricket october echo actor retire jacket end flame bench wide saddle";
+var mnemonic = "tuna review agent segment swap because mule total purchase typical company kidney";

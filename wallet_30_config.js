@@ -1,1 +1,1 @@
-var mnemonic = "atom adjust maze post tail shoe glide design rabbit erode pledge okay";
+var mnemonic = "vanish sorry episode vital thumb deposit broccoli sing trap mimic energy laundry";

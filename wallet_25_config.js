@@ -1,1 +1,1 @@
-var mnemonic = "random stage rocket mad emotion impulse hunt erosion riot gravity congress enter";
+var mnemonic = "rebuild track claw shell hedgehog attract fossil skull staff around hole mask";

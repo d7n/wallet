@@ -1,1 +1,1 @@
-var mnemonic = "ball famous drum inhale turn smooth maze noble flavor coach salmon tuition";
+var mnemonic = "copper beach wash age document any price abuse liberty gate mouse mountain";

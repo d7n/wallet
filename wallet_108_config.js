@@ -1,1 +1,1 @@
-var mnemonic = "adjust thought crowd enemy pledge weapon because artwork produce budget hybrid help";
+var mnemonic = "exist gadget mean world advice mean degree private gorilla dress require census";

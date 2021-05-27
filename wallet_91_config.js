@@ -1,1 +1,1 @@
-var mnemonic = "retreat judge moment shed fit reason gaze huge fee evolve old party";
+var mnemonic = "space almost lock duck improve skin gauge myself spray tribe pet canal";

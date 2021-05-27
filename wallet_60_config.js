@@ -1,1 +1,1 @@
-var mnemonic = "afford spike trap minimum endorse search immense task science circle valid chair";
+var mnemonic = "strong depth live earn fluid vacant audit jungle galaxy episode derive leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "notable badge movie add mule portion voyage else total mercy ignore wait";
+var mnemonic = "tower hand shuffle february abuse excess egg note art diesel ecology antenna";

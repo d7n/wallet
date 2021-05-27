@@ -1,1 +1,1 @@
-var mnemonic = "gas main skill jaguar accident stuff limit chat lab snow sock frog";
+var mnemonic = "cluster disease impulse tragic fury deputy can shuffle cabbage toward alarm way";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy start oven dog island local chalk pelican news strike box primary";
+var mnemonic = "because focus arrest apart pipe sister slab know vacuum shoe civil online";

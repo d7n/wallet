@@ -1,1 +1,1 @@
-var mnemonic = "blood crouch argue toy kangaroo detail ecology fluid lonely flat similar mobile";
+var mnemonic = "budget craft hand monkey globe thought below vacant trend castle dizzy crater";

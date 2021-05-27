@@ -1,1 +1,1 @@
-var mnemonic = "fashion jealous road library guitar motion equip guitar project negative merry lazy";
+var mnemonic = "public review snap across cage bundle resource adult dress rifle weird neglect";

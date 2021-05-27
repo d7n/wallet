@@ -1,1 +1,1 @@
-var mnemonic = "hour detect title square hotel shove lesson oxygen ridge deny skill bubble";
+var mnemonic = "shock exhaust cliff bless parrot town eye depend almost toilet focus blast";

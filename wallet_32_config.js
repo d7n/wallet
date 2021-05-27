@@ -1,1 +1,1 @@
-var mnemonic = "success veteran pond riot custom foil physical disease update teach forget learn";
+var mnemonic = "blast nephew exclude shiver globe lumber garden spoon nose crop tired mean";

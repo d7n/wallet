@@ -1,1 +1,1 @@
-var mnemonic = "neck wild copper about pattern brain mechanic bright erode struggle brief april";
+var mnemonic = "basic swim fluid degree web reflect dry sand royal minute minute arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle camp there regular sail science execute holiday original salmon tortoise thought";
+var mnemonic = "convince common rhythm shift jar autumn inflict you audit matrix little useful";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket pride slogan toy portion organ icon output talent jeans click rival";
+var mnemonic = "cream can animal inject put flavor baby next main flee option slice";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle walnut course news island boss reveal mansion shop bonus holiday summer";
+var mnemonic = "taxi typical cabbage claw delay minute upset lion cupboard entire slam strategy";

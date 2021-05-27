@@ -1,1 +1,1 @@
-var mnemonic = "employ goat report ship roast wish hunt drama forward beauty abuse rival";
+var mnemonic = "blanket pilot pony seven snow silly kitchen pond kind clerk index celery";

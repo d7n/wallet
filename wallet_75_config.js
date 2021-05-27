@@ -1,1 +1,1 @@
-var mnemonic = "fat margin dry parent dinosaur biology panic tree veteran lecture volume memory";
+var mnemonic = "shove cute carry swing race surprise blame tumble tail wool attitude human";

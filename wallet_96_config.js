@@ -1,1 +1,1 @@
-var mnemonic = "emotion upon blossom hundred pact soldier clinic sick drop cross peasant pull";
+var mnemonic = "early grass endorse honey thumb flower home advance glove brick august crime";

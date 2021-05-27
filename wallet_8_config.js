@@ -1,1 +1,1 @@
-var mnemonic = "bring crater coast anxiety issue bubble tuna leisure patient rotate another buyer";
+var mnemonic = "enemy pretty unveil baby orange normal way praise slow quality hidden suspect";

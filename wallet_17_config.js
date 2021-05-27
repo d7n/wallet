@@ -1,1 +1,1 @@
-var mnemonic = "salute month blame budget quarter seed copper silly visual mother pioneer unusual";
+var mnemonic = "vivid hand throw fall frozen around hammer display organ scatter vague mask";

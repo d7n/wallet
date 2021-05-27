@@ -1,1 +1,1 @@
-var mnemonic = "dinner weekend toward obvious announce wrap camp impose genius list mother chapter";
+var mnemonic = "radio intact forum antique mom chef cage crucial thank another bubble wonder";

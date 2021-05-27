@@ -1,1 +1,1 @@
-var mnemonic = "ribbon bind annual session view smile rug combine bean predict strike duck";
+var mnemonic = "print access fat either feel almost bike water autumn border gift ensure";

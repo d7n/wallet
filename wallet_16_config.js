@@ -1,1 +1,1 @@
-var mnemonic = "budget judge critic zero laugh brave easy inch sibling purchase local boat";
+var mnemonic = "bridge symbol blur exclude bicycle ten bulb energy lift invest broken sick";

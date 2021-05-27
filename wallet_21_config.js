@@ -1,1 +1,1 @@
-var mnemonic = "wink about panel cement people enroll drift clock jazz bomb legend human";
+var mnemonic = "bean logic surprise scale jump annual clarify olympic puppy tired diagram cart";

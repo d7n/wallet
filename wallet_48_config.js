@@ -1,1 +1,1 @@
-var mnemonic = "three ribbon ostrich when soon flip weird enlist toward tragic diesel trip";
+var mnemonic = "scene space lounge man slush treat metal peanut wage pause page easy";

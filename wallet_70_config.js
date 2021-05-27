@@ -1,1 +1,1 @@
-var mnemonic = "melt omit expand betray salt voice merry smile save depend height hurdle";
+var mnemonic = "student lyrics endless country lab sport music proud soda jealous soul velvet";

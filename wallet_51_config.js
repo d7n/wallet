@@ -1,1 +1,1 @@
-var mnemonic = "brain essence evolve fade extra entry slush there lazy sorry rigid stumble";
+var mnemonic = "shove rent just steel engage kangaroo enroll genre poverty inflict top notable";

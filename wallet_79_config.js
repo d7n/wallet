@@ -1,1 +1,1 @@
-var mnemonic = "finger insect desert cake camera answer pumpkin kidney dad device allow loud";
+var mnemonic = "foam eager biology panda woman list carpet bar quiz unfold teach silly";

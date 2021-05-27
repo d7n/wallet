@@ -1,1 +1,1 @@
-var mnemonic = "blush maze element fancy clinic insane alone knock soldier scheme oak addict";
+var mnemonic = "manage romance best maid hole develop decrease name install east jar abstract";

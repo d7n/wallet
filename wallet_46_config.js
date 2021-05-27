@@ -1,1 +1,1 @@
-var mnemonic = "flash horse spot pet young crystal ask giggle fortune furnace luggage prefer";
+var mnemonic = "fever hammer tomorrow ribbon picture coin vacuum deal woman polar spice remember";

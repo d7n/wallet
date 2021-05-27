@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow proof modify bronze mixed trap false win assault average stairs junior";
+var mnemonic = "treat electric maximum accuse deal menu clerk own push term bargain height";

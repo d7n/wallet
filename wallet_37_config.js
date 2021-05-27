@@ -1,1 +1,1 @@
-var mnemonic = "copper solution visit news differ rib wild surface increase season flower pitch";
+var mnemonic = "cannon wish denial dizzy coil layer ketchup night stay unveil original credit";

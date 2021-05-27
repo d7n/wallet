@@ -1,1 +1,1 @@
-var mnemonic = "review spike present pool dynamic uncle memory riot coconut wrist primary more";
+var mnemonic = "ugly track invest cave stand sport refuse violin giant lizard february bounce";

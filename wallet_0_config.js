@@ -1,1 +1,1 @@
-var mnemonic = "move cereal word wisdom ridge hospital crazy token joy emotion very pilot";
+var mnemonic = "elder similar refuse install humble favorite budget snake team until fatigue harvest";

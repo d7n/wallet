@@ -1,1 +1,1 @@
-var mnemonic = "before upset surprise alter olive universe fitness clinic minimum rose mad cattle";
+var mnemonic = "arctic brother round object scatter list believe glass autumn bless always group";

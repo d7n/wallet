@@ -1,1 +1,1 @@
-var mnemonic = "riot bright office dizzy various deny heart credit input disagree chapter picture";
+var mnemonic = "genuine forget nuclear public gesture around liberty tattoo leave purse end chicken";

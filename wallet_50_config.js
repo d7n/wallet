@@ -1,1 +1,1 @@
-var mnemonic = "screen start churn tent predict stairs wage gravity shift grunt certain film";
+var mnemonic = "sell fog envelope drop love trend turtle symptom stock include toy edge";

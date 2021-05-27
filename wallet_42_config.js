@@ -1,1 +1,1 @@
-var mnemonic = "pretty decrease cry address race cat table sad envelope account receive frequent";
+var mnemonic = "normal treat margin wasp grocery express odor dinosaur august predict ridge horse";

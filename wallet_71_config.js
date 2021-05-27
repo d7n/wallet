@@ -1,1 +1,1 @@
-var mnemonic = "fabric imitate anxiety open invite appear east goat melody time erode acquire";
+var mnemonic = "garden bean deal horn harsh between laugh dinner tail horn elegant market";

@@ -1,1 +1,1 @@
-var mnemonic = "maid waste parrot swear surround visit reopen voyage orchard thought acid rally";
+var mnemonic = "surge install analyst cheese home fatal crouch remind physical civil where vital";

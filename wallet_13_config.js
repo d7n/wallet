@@ -1,1 +1,1 @@
-var mnemonic = "icon churn sugar sadness wait section road retreat great kiss smooth genius";
+var mnemonic = "degree attitude indoor matter cycle fiscal reward sure pelican carbon copper purpose";

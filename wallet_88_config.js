@@ -1,1 +1,1 @@
-var mnemonic = "like avoid room empower shift there asset pilot eyebrow area grab glare";
+var mnemonic = "fiber bike abandon survey dinner cruise segment this open pill fringe hill";

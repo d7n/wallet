@@ -1,1 +1,1 @@
-var mnemonic = "sweet wrong magic absent quote saddle width vacant element fork climb spike";
+var mnemonic = "floor cute dust cradle when clerk silent best place about wheel identify";

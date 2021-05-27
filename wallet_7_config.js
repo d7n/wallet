@@ -1,1 +1,1 @@
-var mnemonic = "vote timber dutch sort disease door library blade situate tooth peasant clap";
+var mnemonic = "engage decide scatter firm provide bullet swap genius unusual glide polar abandon";

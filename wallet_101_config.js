@@ -1,1 +1,1 @@
-var mnemonic = "front borrow scatter visual box junk shield twice pyramid promote cute thunder";
+var mnemonic = "glide rely universe utility scrub injury estate rotate timber small resemble together";

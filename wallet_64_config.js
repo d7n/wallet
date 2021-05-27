@@ -1,1 +1,1 @@
-var mnemonic = "bone ticket camp sibling ribbon spin ice crystal embody damp dice grass";
+var mnemonic = "monkey draft smoke craft decline raise merge flat forget breeze capital meat";

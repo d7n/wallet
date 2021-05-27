@@ -1,1 +1,1 @@
-var mnemonic = "tackle found ethics clap cattle rapid change become pledge bullet sheriff swamp";
+var mnemonic = "cruel can remain rent attend next amateur catalog fog vicious hole display";

@@ -1,1 +1,1 @@
-var mnemonic = "later exhaust share turn issue setup example forward cancel frog toy trick";
+var mnemonic = "coach shallow shoulder length battle raw process rare dilemma comfort silent trial";

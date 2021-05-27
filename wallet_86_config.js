@@ -1,1 +1,1 @@
-var mnemonic = "royal hope brain tomato tail fiber general modify chat surprise salmon crane";
+var mnemonic = "world life furnace rough october source start plate maple prize hover census";

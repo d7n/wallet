@@ -1,1 +1,1 @@
-var mnemonic = "whale valley guide horror choose trap forum bridge wrestle eye silk trip";
+var mnemonic = "deer rhythm shield wreck thank clean cube melt million secret castle drop";

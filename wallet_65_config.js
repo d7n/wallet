@@ -1,1 +1,1 @@
-var mnemonic = "swing prison kick casino custom grief coast violin remind member slab arctic";
+var mnemonic = "wise gallery juice hold box civil panther smoke butter risk side salon";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth assume voice divide identify pave scan sting real waste wreck focus";
+var mnemonic = "exhaust blouse ship amazing general bullet remind subject idea online divide surround";

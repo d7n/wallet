@@ -1,1 +1,1 @@
-var mnemonic = "mass file wink enter fragile april feel pulp office minor head inmate";
+var mnemonic = "patrol amount what join afford people fatal useless agent resemble property alien";

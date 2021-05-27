@@ -1,1 +1,1 @@
-var mnemonic = "ten metal ticket impact trade lecture garment faculty frame skull flag oak";
+var mnemonic = "basic sort wrestle school dance soccer dry young corn inhale merge surround";
