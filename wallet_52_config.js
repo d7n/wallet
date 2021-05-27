@@ -1,1 +1,1 @@
-var mnemonic = "capable island virus object duty erase hollow era airport column company float";
+var mnemonic = "unique neck lizard imitate type issue season hawk enroll solve gesture pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "useful unfold lawsuit indicate strong reform cancel solar stable acid shadow album";
+var mnemonic = "grace describe sock feature maple wine winner grow note wrap imitate butter";

@@ -1,1 +1,1 @@
-var mnemonic = "special uncover human stand verb ethics box utility evolve skull glare kitten";
+var mnemonic = "thing nominee gauge jungle code myth recipe pause view buzz define shell";

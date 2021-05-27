@@ -1,1 +1,1 @@
-var mnemonic = "report advice scale tube fashion peanut boil chapter slab effort exile fancy";
+var mnemonic = "ahead doll jeans whale service initial oil repeat novel punch atom cart";

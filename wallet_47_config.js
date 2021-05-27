@@ -1,1 +1,1 @@
-var mnemonic = "pigeon first shrimp citizen loud donate forward soccer laptop casino lunar friend";
+var mnemonic = "field quiz climb clog dream crawl depend border track dish fabric abandon";

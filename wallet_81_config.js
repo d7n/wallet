@@ -1,1 +1,1 @@
-var mnemonic = "office theme into bicycle elephant dentist reject width outside shy planet object";
+var mnemonic = "comfort soccer tag bag dish fire cabin knock culture blind motor cram";

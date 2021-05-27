@@ -1,1 +1,1 @@
-var mnemonic = "true bachelor honey chat dune festival exact mass dilemma marriage scale economy";
+var mnemonic = "vocal ship biology come hover input giant carpet very sudden proof clock";

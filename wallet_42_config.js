@@ -1,1 +1,1 @@
-var mnemonic = "sunset grunt female mountain unfold infant party future mystery raise wish crazy";
+var mnemonic = "casual way enroll nuclear brand shy code rely forward accident gate quote";

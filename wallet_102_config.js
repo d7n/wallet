@@ -1,1 +1,1 @@
-var mnemonic = "knock document steak myth pipe large average base fortune unit plunge current";
+var mnemonic = "lawn rug orchard theory boost then disagree cushion language cover glass trouble";

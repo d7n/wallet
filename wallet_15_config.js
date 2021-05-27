@@ -1,1 +1,1 @@
-var mnemonic = "brand organ subway swift island assume lonely canoe grit ticket cereal tent";
+var mnemonic = "label stock absent certain wrong enhance picnic occur various exchange success imitate";

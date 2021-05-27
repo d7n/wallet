@@ -1,1 +1,1 @@
-var mnemonic = "ball sustain rain lamp winter damp more stand exile amazing have icon";
+var mnemonic = "render maximum voice toilet notice suspect festival antique wealth forget live scrap";

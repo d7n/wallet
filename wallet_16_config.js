@@ -1,1 +1,1 @@
-var mnemonic = "ship coast peasant razor midnight swarm toilet spray when soon sport nurse";
+var mnemonic = "leopard kid old fog multiply suffer omit cat tumble battle toilet smile";

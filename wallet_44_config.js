@@ -1,1 +1,1 @@
-var mnemonic = "shine slam wasp endorse banner artist arctic solid aerobic nice crane stuff";
+var mnemonic = "tired rare cry harbor hill trade match rain nest bargain entry lunch";

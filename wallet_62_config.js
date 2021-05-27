@@ -1,1 +1,1 @@
-var mnemonic = "use chair crack reduce mom hood mask label horn suffer hub surprise";
+var mnemonic = "tank then bubble file alter unable chair depart multiply train paddle flee";

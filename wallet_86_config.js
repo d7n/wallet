@@ -1,1 +1,1 @@
-var mnemonic = "admit endless naive bring impact mean senior crack lonely lyrics clerk poverty";
+var mnemonic = "build detail ramp list clump damp margin board enter around chalk faculty";

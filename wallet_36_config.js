@@ -1,1 +1,1 @@
-var mnemonic = "convince abuse list much sand broken banner impose tumble supply bench penalty";
+var mnemonic = "leader child clinic live tomato width protect festival kitchen potato retreat middle";

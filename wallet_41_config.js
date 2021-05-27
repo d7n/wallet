@@ -1,1 +1,1 @@
-var mnemonic = "bronze struggle ill horse engage green keen occur lion luggage kangaroo remain";
+var mnemonic = "tiny memory side velvet confirm price story hidden brain real exotic mandate";

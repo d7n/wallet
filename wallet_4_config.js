@@ -1,1 +1,1 @@
-var mnemonic = "match pretty blue manage soda scorpion steak sphere window entire radio exhaust";
+var mnemonic = "depend tag isolate wrong twin helmet begin phone soul people total biology";

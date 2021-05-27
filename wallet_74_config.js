@@ -1,1 +1,1 @@
-var mnemonic = "globe royal toilet galaxy lyrics media merry employ dynamic turtle repeat crowd";
+var mnemonic = "volcano always actual very deputy spare chaos burst connect decade journey tomorrow";

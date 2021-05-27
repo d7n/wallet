@@ -1,1 +1,1 @@
-var mnemonic = "angle run uncover staff winter crouch blossom undo sauce unique pull lumber";
+var mnemonic = "ostrich wise major crawl engine topple tunnel glue struggle devote fun tape";

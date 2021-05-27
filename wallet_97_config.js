@@ -1,1 +1,1 @@
-var mnemonic = "private silk board orphan whale reason confirm cry orphan text loan fancy";
+var mnemonic = "mimic network cruise smile wrap lift idea jazz pencil draft team shop";

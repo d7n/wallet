@@ -1,1 +1,1 @@
-var mnemonic = "forest object female fade found mimic cinnamon jewel chest idle put market";
+var mnemonic = "tent mammal radio hint dragon trade wine soda thing mushroom cute sign";

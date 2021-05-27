@@ -1,1 +1,1 @@
-var mnemonic = "obvious salt bean cherry nominee garlic main place vendor argue mobile lawn";
+var mnemonic = "soup absent orchard tide mimic predict subway abstract pill south gun ball";

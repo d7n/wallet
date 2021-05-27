@@ -1,1 +1,1 @@
-var mnemonic = "escape spot spray reopen submit oak moon story patrol purity example recall";
+var mnemonic = "symptom creek dutch glide high milk cannon piece stomach vast pass square";

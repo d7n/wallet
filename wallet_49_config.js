@@ -1,1 +1,1 @@
-var mnemonic = "combine panel edit remember human acquire edit snap arm seminar where spot";
+var mnemonic = "scheme dismiss wool sail lizard bread era maximum fog impulse lobster abandon";

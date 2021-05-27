@@ -1,1 +1,1 @@
-var mnemonic = "master sibling oil country obey among patrol various hand salmon merry leopard";
+var mnemonic = "vapor during visual auto invest remove spell embody remove mechanic reduce diary";

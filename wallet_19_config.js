@@ -1,1 +1,1 @@
-var mnemonic = "antenna movie menu forum mix absurd boost early concert just island trigger";
+var mnemonic = "demand gift step romance aware fresh wool spring jewel cute pull hurry";

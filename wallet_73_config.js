@@ -1,1 +1,1 @@
-var mnemonic = "moon seek oak come spider bird silly arm margin pledge discover super";
+var mnemonic = "embrace debris nose way useful legal slogan good item neck warm coyote";

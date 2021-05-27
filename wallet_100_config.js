@@ -1,1 +1,1 @@
-var mnemonic = "reason slender plug reason reform undo today define tuition coil list title";
+var mnemonic = "loop salute entire pony slice digital few bus jeans addict park oppose";

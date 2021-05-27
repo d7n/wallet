@@ -1,1 +1,1 @@
-var mnemonic = "winner carry half aware demise system possible gorilla stick lamp trip ignore";
+var mnemonic = "orient again ordinary hollow famous clerk solar trial cheese unable river apart";

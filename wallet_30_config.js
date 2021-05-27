@@ -1,1 +1,1 @@
-var mnemonic = "glimpse apology moral test figure gasp coast damp believe strategy want dog";
+var mnemonic = "east bright lesson column disagree clerk now judge stage build garden mother";

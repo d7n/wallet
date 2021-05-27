@@ -1,1 +1,1 @@
-var mnemonic = "maze mango middle diesel memory frozen main receive cradle bicycle unique clerk";
+var mnemonic = "demise strike chaos pistol blast rely print quit faculty talk key uphold";

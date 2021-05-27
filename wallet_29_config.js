@@ -1,1 +1,1 @@
-var mnemonic = "turn curious isolate gate sniff open lock replace sand rate early embody";
+var mnemonic = "wrap add nature wise grit icon bike current soul flavor tip desk";

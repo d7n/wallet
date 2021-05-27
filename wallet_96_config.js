@@ -1,1 +1,1 @@
-var mnemonic = "february prosper road much puppy bless pen that clerk second tongue glory";
+var mnemonic = "gym connect between nose speed kingdom harvest pitch lift they palace bike";

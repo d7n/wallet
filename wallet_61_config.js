@@ -1,1 +1,1 @@
-var mnemonic = "cushion maximum hip impose then fossil solve game weekend flee wealth spy";
+var mnemonic = "clever south bring door tired heart situate sleep primary board mosquito portion";

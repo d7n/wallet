@@ -1,1 +1,1 @@
-var mnemonic = "collect army cook input cross sponsor rack develop easily trumpet soap alien";
+var mnemonic = "frog milk hip squirrel since charge forget phrase amazing chuckle embody cereal";

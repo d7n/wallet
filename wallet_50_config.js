@@ -1,1 +1,1 @@
-var mnemonic = "predict come dog home fan canal rose fire dismiss program vital narrow";
+var mnemonic = "name also differ skill machine naive cargo account industry empty worth choice";

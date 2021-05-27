@@ -1,1 +1,1 @@
-var mnemonic = "next quantum clown announce alone vivid foot order orchard uncover discover student";
+var mnemonic = "weasel leisure stereo bachelor menu broken scatter warrior panic banana entire monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "easily chest robust runway tenant pigeon idle expect live shoe flee body";
+var mnemonic = "because rookie arch impact mosquito blanket knife attitude lemon target dynamic regular";

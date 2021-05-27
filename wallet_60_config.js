@@ -1,1 +1,1 @@
-var mnemonic = "joke bacon battle arm frequent extend dinner pool author chicken escape body";
+var mnemonic = "face solid wheel patient glance loop banner broccoli wife hope spin opera";

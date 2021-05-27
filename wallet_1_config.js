@@ -1,1 +1,1 @@
-var mnemonic = "ostrich stairs end shoulder foil vendor keep fabric bag cause open surround";
+var mnemonic = "path grit tortoise cable expose city enough fuel mind toast private empower";

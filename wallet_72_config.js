@@ -1,1 +1,1 @@
-var mnemonic = "topic dirt health process peace arrow atom wink loan situate unaware carpet";
+var mnemonic = "fly century garden above six exile master hat truck edge asset feature";

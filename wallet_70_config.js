@@ -1,1 +1,1 @@
-var mnemonic = "daughter love mystery lift beef pledge mix always infant skill life pottery";
+var mnemonic = "nephew blue orphan pumpkin chase company across segment toward sheriff bridge adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "audit outdoor disorder save liquid waste gloom wear label item glue firm";
+var mnemonic = "embark romance vendor sister tongue plug swear tilt artefact kite monster tongue";

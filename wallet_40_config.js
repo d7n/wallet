@@ -1,1 +1,1 @@
-var mnemonic = "problem little visit curve check segment excess mean smooth gentle exotic can";
+var mnemonic = "income volcano measure vintage ramp action vocal saddle between success donkey wear";

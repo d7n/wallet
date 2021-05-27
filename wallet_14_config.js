@@ -1,1 +1,1 @@
-var mnemonic = "sugar noise special floor return gaze crop rural hurdle stool heart major";
+var mnemonic = "ten sword monitor proof permit tired cattle figure autumn add grant spend";

@@ -1,1 +1,1 @@
-var mnemonic = "zero wear lunar drill spray seat rebuild violin camera inherit page photo";
+var mnemonic = "harbor include flip shop bag random custom silk census bachelor old subway";

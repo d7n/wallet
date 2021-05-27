@@ -1,1 +1,1 @@
-var mnemonic = "cricket double banner crisp sudden orchard load cool grief quarter label dish";
+var mnemonic = "alone leader topple blush client zebra dove then dog worry boy jaguar";

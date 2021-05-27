@@ -1,1 +1,1 @@
-var mnemonic = "address interest fluid melt thank earth alpha rare cancel deny video seat";
+var mnemonic = "night eight surprise neither rather mean name tooth mechanic fork normal keep";

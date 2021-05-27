@@ -1,1 +1,1 @@
-var mnemonic = "stomach together double unfair length kit split language clown beef safe wool";
+var mnemonic = "sugar used voyage ball doctor will nurse cousin song hint tip venture";

@@ -1,1 +1,1 @@
-var mnemonic = "bag mask royal primary wrist giggle achieve wagon solution usage general alcohol";
+var mnemonic = "dream extend hour file wrong bridge merry tuna alcohol snow reward lottery";

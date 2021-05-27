@@ -1,1 +1,1 @@
-var mnemonic = "bronze fruit area wrong deposit drum elder adult lake two vault appear";
+var mnemonic = "trigger tiny insect toy orphan supply giraffe arctic gas survey trim brave";

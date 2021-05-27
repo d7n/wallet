@@ -1,1 +1,1 @@
-var mnemonic = "output kid phone donor head hour script aisle urge east very animal";
+var mnemonic = "odor escape oil ability dirt dice among void state rebuild dawn raw";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo decorate gym just flip pride honey bounce accident kid grace kind";
+var mnemonic = "ecology urge hip slam knee melody actress shadow junior pear bike wet";

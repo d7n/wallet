@@ -1,1 +1,1 @@
-var mnemonic = "put equal nice fiber present fever slender ill comfort pony pumpkin bachelor";
+var mnemonic = "lake moral patch rhythm bright truck essence draft local clump artefact card";

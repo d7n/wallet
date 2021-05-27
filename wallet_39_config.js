@@ -1,1 +1,1 @@
-var mnemonic = "mushroom table sword fine rebuild deny animal fabric concert history list adapt";
+var mnemonic = "bike physical various ecology lobster coast math swing original poem potato injury";

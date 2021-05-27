@@ -1,1 +1,1 @@
-var mnemonic = "fee note album harbor rival broccoli wealth detect high earth build conduct";
+var mnemonic = "south exchange tragic someone absent cave private attack maze spike provide boy";

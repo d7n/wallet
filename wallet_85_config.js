@@ -1,1 +1,1 @@
-var mnemonic = "hockey secret proud hungry minute welcome reason fit aisle recycle lucky roast";
+var mnemonic = "genius impact collect column smoke holiday harvest buzz physical rule palm denial";

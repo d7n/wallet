@@ -1,1 +1,1 @@
-var mnemonic = "grace beef gift know tape jazz nut sort develop repair aware trend";
+var mnemonic = "team neutral dignity salad crisp jewel tray velvet capable boss awful bamboo";

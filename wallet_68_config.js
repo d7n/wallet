@@ -1,1 +1,1 @@
-var mnemonic = "mean odor gown sure crucial city neutral domain real scene artist pink";
+var mnemonic = "cloud opera drip boil buffalo popular input bacon maple away elephant wasp";

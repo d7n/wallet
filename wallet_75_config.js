@@ -1,1 +1,1 @@
-var mnemonic = "buddy fantasy expire mushroom air rival grief brother feature leave script layer";
+var mnemonic = "since senior mosquito genre squeeze mail purchase spice own enlist same yard";

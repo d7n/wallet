@@ -1,1 +1,1 @@
-var mnemonic = "north brother narrow repair number grass zone angle quantum all section warm";
+var mnemonic = "salon pupil result gasp boy kangaroo become luggage whisper reduce enjoy doll";

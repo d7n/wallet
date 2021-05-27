@@ -1,1 +1,1 @@
-var mnemonic = "deputy nut deal vessel lizard royal turn fault able clever reward junior";
+var mnemonic = "dial ability old install hire aspect limb jar parrot mix tail rescue";

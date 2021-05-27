@@ -1,1 +1,1 @@
-var mnemonic = "essence inch output bounce nerve nose review wink east legal fire replace";
+var mnemonic = "hour abandon acquire fragile bean auction grow game clown same biology nominee";

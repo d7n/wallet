@@ -1,1 +1,1 @@
-var mnemonic = "ice flash elder emotion heart fiction predict repeat clock stone daring giraffe";
+var mnemonic = "what shell vault below hope salute fame engine dash distance deliver plastic";

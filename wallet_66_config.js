@@ -1,1 +1,1 @@
-var mnemonic = "damp treat donor winter swarm tiny civil negative march fruit cereal utility";
+var mnemonic = "tiny scorpion glory torch earth sign anger involve shoot glance supply slow";

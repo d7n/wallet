@@ -1,1 +1,1 @@
-var mnemonic = "leopard orchard clarify fury jungle great mixed guide bless dirt measure hunt";
+var mnemonic = "artist toss market solution embark brief vintage deliver boost choice divide crunch";

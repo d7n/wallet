@@ -1,1 +1,1 @@
-var mnemonic = "already virus bright increase object arrow chest orbit insect whisper boring few";
+var mnemonic = "confirm sad leave already tornado cute sure turtle move busy lend balance";

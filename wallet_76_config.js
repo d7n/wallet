@@ -1,1 +1,1 @@
-var mnemonic = "heavy equip bright have come toss club chronic armor potato lift orphan";
+var mnemonic = "athlete pencil churn hungry boat fall pizza critic opinion sad review dash";

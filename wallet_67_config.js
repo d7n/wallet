@@ -1,1 +1,1 @@
-var mnemonic = "season flavor disease rescue brave twist fluid ball sick combine tag general";
+var mnemonic = "trust mosquito deny melody pigeon derive unique rug piece student inner flee";

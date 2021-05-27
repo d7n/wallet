@@ -1,1 +1,1 @@
-var mnemonic = "verify sunset rotate round onion move hundred lottery wedding drink duck aisle";
+var mnemonic = "mother stadium cage advance inch canyon pair elbow kit hollow noise scrap";

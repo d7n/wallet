@@ -1,1 +1,1 @@
-var mnemonic = "message doctor usual earn venture casual alley potato vicious believe awesome december";
+var mnemonic = "retreat index sweet grape hint unaware grow memory limit come hungry advice";

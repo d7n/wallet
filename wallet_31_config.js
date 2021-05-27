@@ -1,1 +1,1 @@
-var mnemonic = "mother enjoy rule raise hour solve toe panic exact impose print minute";
+var mnemonic = "dog cable bean method purchase three bargain lonely only often tortoise clay";

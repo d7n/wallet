@@ -1,1 +1,1 @@
-var mnemonic = "kid pair cool arrest record scissors giggle glory maple voyage physical stairs";
+var mnemonic = "input drum that copy vacuum leg luggage author bracket lava staff swallow";

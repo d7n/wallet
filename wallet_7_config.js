@@ -1,1 +1,1 @@
-var mnemonic = "vacant mix hen oval valid exercise melt ranch grant blanket road milk";
+var mnemonic = "seminar admit rather luxury priority ship abuse duck similar same omit debate";

@@ -1,1 +1,1 @@
-var mnemonic = "evil brave risk file catch rib jump cream garage fence say model";
+var mnemonic = "deposit cry tenant raccoon evidence february pig pink uniform panda author room";

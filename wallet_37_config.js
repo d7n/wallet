@@ -1,1 +1,1 @@
-var mnemonic = "time neck crucial oppose happy damage lonely option host fence sadness slab";
+var mnemonic = "affair puzzle phrase reform deputy ramp festival soap position world body company";

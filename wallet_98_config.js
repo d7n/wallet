@@ -1,1 +1,1 @@
-var mnemonic = "swap balcony gym donate dance useless wool attend section tray setup expose";
+var mnemonic = "slide clip top enjoy ill wash husband auto buyer chuckle enter sponsor";

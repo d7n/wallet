@@ -1,1 +1,1 @@
-var mnemonic = "bag bag animal arm sausage result harbor flavor junior cross broccoli safe";
+var mnemonic = "luggage parent monkey roof level tornado dentist strategy evil betray reject pride";

@@ -1,1 +1,1 @@
-var mnemonic = "brass pass jacket you era mammal ladder jazz able crater menu flame";
+var mnemonic = "prison play nut olive alpha exhaust faint before cabin nut ankle recipe";

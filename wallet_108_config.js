@@ -1,1 +1,1 @@
-var mnemonic = "skate plunge hedgehog wedding test crane lift gym obvious history cave street";
+var mnemonic = "tooth seed orphan rubber knee client mule pool program nurse pitch teach";

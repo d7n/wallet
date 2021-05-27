@@ -1,1 +1,1 @@
-var mnemonic = "stove ready silly crowd express verify crazy alert dynamic humble old sail";
+var mnemonic = "grid excuse crew dust cabin remove wink balcony click forward orient accuse";

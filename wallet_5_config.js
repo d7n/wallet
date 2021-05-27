@@ -1,1 +1,1 @@
-var mnemonic = "hockey penalty time credit wet cup disagree onion give woman ability theme";
+var mnemonic = "insect boat luggage canal addict chat hollow fossil merry lake parade zone";

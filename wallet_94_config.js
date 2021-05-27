@@ -1,1 +1,1 @@
-var mnemonic = "inquiry lamp blouse once dove gown simple siren april own exercise situate";
+var mnemonic = "fly perfect awful pipe exclude cargo leave rather humor expect allow lizard";
