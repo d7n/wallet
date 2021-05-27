@@ -1,1 +1,1 @@
-var mnemonic = "turtle half arrive crew document law flee erupt inflict salon you wreck";
+var mnemonic = "scrub ride again sample reject behave long struggle divorce into catalog balance";

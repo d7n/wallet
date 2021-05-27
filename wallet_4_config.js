@@ -1,1 +1,1 @@
-var mnemonic = "quote narrow warfare enact retire civil stuff absent later furnace earn arm";
+var mnemonic = "jump tourist panda wagon arrest hospital moon mechanic crystal taste legal crush";

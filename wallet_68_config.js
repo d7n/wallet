@@ -1,1 +1,1 @@
-var mnemonic = "repair gallery upper harbor father absorb scare armor curve page inspire front";
+var mnemonic = "wash egg same frequent antique setup artwork flag enter flock tomato fiction";

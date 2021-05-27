@@ -1,1 +1,1 @@
-var mnemonic = "distance addict escape news answer grief yellow differ duck maximum wing security";
+var mnemonic = "claw humor seminar bitter attitude cheese pigeon emotion awkward crumble cricket shy";

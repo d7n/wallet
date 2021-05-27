@@ -1,1 +1,1 @@
-var mnemonic = "legend glare vibrant property opera stairs bike mountain trick blue satisfy medal";
+var mnemonic = "small embrace upon violin page inform alter random misery slide expand vicious";

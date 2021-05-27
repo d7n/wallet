@@ -1,1 +1,1 @@
-var mnemonic = "taxi wild anger gold indoor tomorrow misery file ignore jealous bridge virtual";
+var mnemonic = "asset mountain bless cushion garment select rescue bean prefer truth rural stable";

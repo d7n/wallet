@@ -1,1 +1,1 @@
-var mnemonic = "deposit action album chuckle dilemma able ceiling lab cradle pelican payment almost";
+var mnemonic = "tilt balance loyal horn choice name rare fancy impose shaft garbage flash";

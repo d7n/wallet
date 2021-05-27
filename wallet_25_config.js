@@ -1,1 +1,1 @@
-var mnemonic = "switch penalty inquiry wet repeat ghost rent aunt cage chronic scorpion country";
+var mnemonic = "void ginger capable tiny figure antique add require odor correct twelve rural";

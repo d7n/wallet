@@ -1,1 +1,1 @@
-var mnemonic = "bring cake tower crime luggage word method time remove damage empty frequent";
+var mnemonic = "chalk soft visa you soap creek beyond update outer engine arena weapon";

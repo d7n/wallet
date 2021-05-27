@@ -1,1 +1,1 @@
-var mnemonic = "onion insect poet insect inspire portion lumber pole frown remove song video";
+var mnemonic = "ocean general similar orchard open apology diary sauce tobacco valve dust tell";

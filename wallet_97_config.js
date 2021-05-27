@@ -1,1 +1,1 @@
-var mnemonic = "shine bus during convince divorce melt still couch index smooth faith faculty";
+var mnemonic = "veteran please maze large two reform pumpkin between rule bright horror stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "nut maid junk network parent attract cigar penalty company goat daring talent";
+var mnemonic = "diagram kidney street gaze episode cradle cruise siege access bottom action sugar";

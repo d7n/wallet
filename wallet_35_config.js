@@ -1,1 +1,1 @@
-var mnemonic = "ocean fault repeat fiscal dutch oven stay tiger puppy denial rescue blouse";
+var mnemonic = "boil top magic allow burst antenna defense feel lab immense song merry";

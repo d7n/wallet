@@ -1,1 +1,1 @@
-var mnemonic = "room deliver order inform rotate hidden you exotic motion drill attend army";
+var mnemonic = "rail dance suspect car walnut claw paper rotate upon journey isolate draw";

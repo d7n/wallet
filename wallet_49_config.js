@@ -1,1 +1,1 @@
-var mnemonic = "game curtain eye turkey clinic fatigue laptop abstract car monkey chat valid";
+var mnemonic = "pistol cactus inhale win fetch lion hen corn reform dutch stone magnet";

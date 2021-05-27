@@ -1,1 +1,1 @@
-var mnemonic = "evil cloud faith future jeans merge youth glass post pledge embrace affair";
+var mnemonic = "almost dumb clump nuclear another loud tomorrow talent roof rookie bus few";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior detect butter win meadow cabin dutch leaf space write syrup write";
+var mnemonic = "unhappy focus ride acoustic great call turkey quote thunder rose drastic pizza";

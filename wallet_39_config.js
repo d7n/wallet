@@ -1,1 +1,1 @@
-var mnemonic = "wagon cousin arrest napkin chapter link effort text indicate awkward census pottery";
+var mnemonic = "access stool inside tower tragic ordinary bright faculty they canoe misery patient";

@@ -1,1 +1,1 @@
-var mnemonic = "side wet merit chaos cake wealth note riot fox october magic ensure";
+var mnemonic = "virtual waste donate assist auto wash husband science cement boost chaos sell";

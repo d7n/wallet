@@ -1,1 +1,1 @@
-var mnemonic = "chapter park boil joke acid orchard visual fee entire enlist devote silk";
+var mnemonic = "bone tomorrow assume orient wing hurry curious fork dirt auction oblige siege";

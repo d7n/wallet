@@ -1,1 +1,1 @@
-var mnemonic = "call toast milk million envelope supreme census rhythm run moral shove believe";
+var mnemonic = "beauty love wood company fence orphan mandate south stuff pill fame trumpet";

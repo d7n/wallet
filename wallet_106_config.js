@@ -1,1 +1,1 @@
-var mnemonic = "verb glow image perfect explain muffin floor asset biology salmon inquiry master";
+var mnemonic = "vintage tail can fatal egg knee cricket thing impulse kingdom miss fever";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum beef odor gossip unhappy february shove answer sniff spell amazing misery";
+var mnemonic = "spoil damage owner dirt trade pen slender twenty follow vendor bicycle income";

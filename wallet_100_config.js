@@ -1,1 +1,1 @@
-var mnemonic = "element fame east donkey laundry space chest cave give endorse double magnet";
+var mnemonic = "attend bean fly party opinion hand great manage federal cattle wild tribe";

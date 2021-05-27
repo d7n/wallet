@@ -1,1 +1,1 @@
-var mnemonic = "post expect transfer fade ethics barely genuine produce lava fish bar under";
+var mnemonic = "deer chest situate silk bar guess pluck seat vocal copy sister idle";

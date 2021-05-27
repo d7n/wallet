@@ -1,1 +1,1 @@
-var mnemonic = "velvet double sort recipe derive oil method pattern sense equip collect idea";
+var mnemonic = "tool absorb destroy recipe library puzzle found agree boring exit shell balance";

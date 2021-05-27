@@ -1,1 +1,1 @@
-var mnemonic = "wagon cement monster field essay zero beef language beyond elephant shiver extra";
+var mnemonic = "fluid erase doctor napkin grace come private apology save guitar ugly effort";

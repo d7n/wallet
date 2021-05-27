@@ -1,1 +1,1 @@
-var mnemonic = "virtual observe private where convince remind butter orange south pill online excuse";
+var mnemonic = "destroy chat hover source net fish gas album used maid devote initial";

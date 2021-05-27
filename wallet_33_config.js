@@ -1,1 +1,1 @@
-var mnemonic = "garbage chat public because bacon speed manual relax video library swamp garbage";
+var mnemonic = "visit inspire bone birth subject damage talent update wealth roast enforce almost";

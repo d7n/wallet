@@ -1,1 +1,1 @@
-var mnemonic = "lounge hungry valley nation ride vacant ignore science toe puzzle silent chunk";
+var mnemonic = "scrub pill garbage scheme employ fabric tongue cricket index first cool usual";

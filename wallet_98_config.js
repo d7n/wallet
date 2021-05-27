@@ -1,1 +1,1 @@
-var mnemonic = "process excite tornado one hurdle room fire fix saddle answer lens exercise";
+var mnemonic = "atom carbon peasant flock arm afford ribbon attend return school shove circle";

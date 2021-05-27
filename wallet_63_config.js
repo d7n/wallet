@@ -1,1 +1,1 @@
-var mnemonic = "merge ensure kind shoot crime ritual people anxiety chicken grass unable shuffle";
+var mnemonic = "member float dutch figure tobacco tuna visa beyond donate equip host venture";

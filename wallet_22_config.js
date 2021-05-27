@@ -1,1 +1,1 @@
-var mnemonic = "master urge exhaust refuse sunny evidence board upon mask expose picnic kid";
+var mnemonic = "pizza system cry science own next huge ability advice flip civil voice";

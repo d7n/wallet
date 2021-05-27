@@ -1,1 +1,1 @@
-var mnemonic = "icon forum allow breeze hire help sponsor laugh fine patrol afford creek";
+var mnemonic = "into hundred drama rice dose pottery kidney possible interest steel punch frown";

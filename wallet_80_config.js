@@ -1,1 +1,1 @@
-var mnemonic = "mother air cluster brother same mom hand include good embody struggle sentence";
+var mnemonic = "economy sniff uncle fine slab pause estate october daughter onion humble business";

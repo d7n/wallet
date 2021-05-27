@@ -1,1 +1,1 @@
-var mnemonic = "limit aim bring busy tuition protect grid silent glow until exact lawsuit";
+var mnemonic = "begin civil salmon glimpse congress strike limit candy describe issue creek put";

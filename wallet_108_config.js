@@ -1,1 +1,1 @@
-var mnemonic = "moral perfect position wait spider control leaf predict myth either ceiling charge";
+var mnemonic = "sun language soft color exile bronze slam ghost ribbon book bulk leader";

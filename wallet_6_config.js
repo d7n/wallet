@@ -1,1 +1,1 @@
-var mnemonic = "seminar describe slice tongue grid vast play purse book reveal march over";
+var mnemonic = "state over thank flip stone version story hazard ball slab board usual";

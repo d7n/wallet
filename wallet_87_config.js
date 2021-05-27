@@ -1,1 +1,1 @@
-var mnemonic = "unaware nurse rib oval acquire neglect strike yard banana process outdoor win";
+var mnemonic = "just merry lazy alter quote afraid ridge roast treat hybrid example pride";

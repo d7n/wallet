@@ -1,1 +1,1 @@
-var mnemonic = "mixture owner spike spare festival absurd jacket brother various blush van dish";
+var mnemonic = "prize differ city size once bulk asthma harbor design age left dinosaur";

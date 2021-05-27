@@ -1,1 +1,1 @@
-var mnemonic = "crane estate hub jar when catalog draft print cinnamon track box spray";
+var mnemonic = "sport useless casual lounge ripple arctic pool cross super print beach decide";

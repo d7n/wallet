@@ -1,1 +1,1 @@
-var mnemonic = "vacant around merge require orchard broom maple screen matter forward dove aunt";
+var mnemonic = "space service guide clog eternal thought furnace refuse curve gold jar life";

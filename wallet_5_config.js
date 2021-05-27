@@ -1,1 +1,1 @@
-var mnemonic = "gloom wolf inquiry vapor deer fuel degree magnet scare edge game robust";
+var mnemonic = "duty scorpion come comic model creek clay dish sadness child wife brisk";

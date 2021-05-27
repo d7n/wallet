@@ -1,1 +1,1 @@
-var mnemonic = "olympic piano piano nut bless affair clutch weird frown wheat cover romance";
+var mnemonic = "barely royal example sure radio allow chair skate patrol spirit obtain brown";

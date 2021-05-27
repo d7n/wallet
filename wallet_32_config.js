@@ -1,1 +1,1 @@
-var mnemonic = "pretty insect cargo wood bridge spoon misery amount refuse curve vapor win";
+var mnemonic = "lock mosquito pause fresh unaware quality license permit math round dove custom";

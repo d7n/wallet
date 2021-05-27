@@ -1,1 +1,1 @@
-var mnemonic = "clean birth disorder extra empower fatigue wool soon once grass miracle cheese";
+var mnemonic = "tortoise galaxy wrong screen swift gloom donkey strike civil fade bus glass";

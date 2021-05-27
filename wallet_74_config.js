@@ -1,1 +1,1 @@
-var mnemonic = "rifle index fade hurt carry memory catalog palace damage middle mom during";
+var mnemonic = "mirror aerobic juice margin cannon clever miracle believe put embark faint forward";

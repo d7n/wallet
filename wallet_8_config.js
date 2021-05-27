@@ -1,1 +1,1 @@
-var mnemonic = "swift peasant betray rural honey sign extra hurry rebuild shield exile near";
+var mnemonic = "check damp believe charge ignore afraid saddle wealth public sentence dash measure";

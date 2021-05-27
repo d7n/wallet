@@ -1,1 +1,1 @@
-var mnemonic = "fiber decorate puppy tape often crane sugar struggle later blue useful record";
+var mnemonic = "spawn donkey seven nephew soul split detail train buffalo long cactus version";

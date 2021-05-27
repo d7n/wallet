@@ -1,1 +1,1 @@
-var mnemonic = "wedding pigeon syrup shiver manage other dress purity tent beach census naive";
+var mnemonic = "shoot rather busy black odor blade place inform salon aspect boat hover";

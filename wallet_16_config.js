@@ -1,1 +1,1 @@
-var mnemonic = "object move song demand stereo midnight success cotton dinosaur lizard fee ready";
+var mnemonic = "project web gossip hello subject pilot size tape physical priority alone ten";

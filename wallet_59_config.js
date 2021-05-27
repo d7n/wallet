@@ -1,1 +1,1 @@
-var mnemonic = "adapt frog toddler renew sock crawl ripple next wood later senior tent";
+var mnemonic = "short vessel gorilla leisure happy age beyond west this remove drastic fork";

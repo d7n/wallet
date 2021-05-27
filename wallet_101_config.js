@@ -1,1 +1,1 @@
-var mnemonic = "gap manage swarm panda approve baby dove old base mesh remove frequent";
+var mnemonic = "diesel shop mother junior piano educate phrase hospital license crunch follow expire";

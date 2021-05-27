@@ -1,1 +1,1 @@
-var mnemonic = "birth shoe october increase behind chaos toss runway ready frog rapid pepper";
+var mnemonic = "exhaust visit judge trumpet index wait mass canvas use click renew cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "stone pen theme multiply evil mimic mirror either clarify vacant sad dune";
+var mnemonic = "abuse reflect shadow shy become bacon joy claw cook change wet ski";

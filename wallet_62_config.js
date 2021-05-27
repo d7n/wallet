@@ -1,1 +1,1 @@
-var mnemonic = "disorder north you over sun fish orphan rebel hawk magic wolf page";
+var mnemonic = "lizard silly just margin juice little talk rotate use donor devote sauce";

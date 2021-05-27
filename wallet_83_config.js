@@ -1,1 +1,1 @@
-var mnemonic = "ten pitch tunnel rib mixture brief stage chase limb spatial tray maximum";
+var mnemonic = "often shallow tumble balance never cabbage drop great alcohol winter swing scrap";

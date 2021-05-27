@@ -1,1 +1,1 @@
-var mnemonic = "drill travel history gain impulse when orbit oblige film elbow magnet hip";
+var mnemonic = "core liberty universe blouse hub announce rhythm winner man amazing rubber remind";

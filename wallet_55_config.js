@@ -1,1 +1,1 @@
-var mnemonic = "improve satisfy execute guard claim method retreat enter melody bean young south";
+var mnemonic = "tackle toddler toe figure inch memory truck ski patient pluck modify session";

@@ -1,1 +1,1 @@
-var mnemonic = "duck order magic dust action alien wonder panel vicious casual citizen pact";
+var mnemonic = "fragile rather orbit moral adult onion verb tray fabric horn void pudding";

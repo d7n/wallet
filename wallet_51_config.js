@@ -1,1 +1,1 @@
-var mnemonic = "rely ice gown mass please argue own globe always love cabin barrel";
+var mnemonic = "ill shine that danger shallow simple cushion model culture saddle damp fantasy";

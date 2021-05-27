@@ -1,1 +1,1 @@
-var mnemonic = "shy ketchup air impact awkward session large sorry scale wish letter frequent";
+var mnemonic = "divide seek auction bundle gas tree vicious damage stamp beauty cloth denial";

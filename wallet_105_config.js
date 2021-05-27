@@ -1,1 +1,1 @@
-var mnemonic = "fox junior tooth mechanic ecology seminar excess erupt usual glory jungle torch";
+var mnemonic = "select license bronze chimney treat carbon shaft shield entry flip child summer";

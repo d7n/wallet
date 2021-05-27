@@ -1,1 +1,1 @@
-var mnemonic = "ethics heavy lyrics hurdle wild rib discover flavor enable burden visual vibrant";
+var mnemonic = "route kite churn buzz salmon attitude weasel cat venue rent banana thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "general device matrix valve eager grace bachelor radar surround caught license ready";
+var mnemonic = "whisper easy melody donkey quick galaxy kiss drip cloud coyote inch swim";

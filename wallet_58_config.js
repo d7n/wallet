@@ -1,1 +1,1 @@
-var mnemonic = "click space gravity toddler hen kangaroo forward inner captain panic bitter lottery";
+var mnemonic = "lounge glue crazy trigger give caution exhaust fame else burst foot umbrella";

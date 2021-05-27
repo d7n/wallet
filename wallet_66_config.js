@@ -1,1 +1,1 @@
-var mnemonic = "agree release shallow speed damage rally response inch ranch style demand picnic";
+var mnemonic = "arctic craft room mimic valve cousin ugly allow claw proof voyage assault";

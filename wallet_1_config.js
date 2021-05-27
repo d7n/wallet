@@ -1,1 +1,1 @@
-var mnemonic = "pride exchange zone chapter wine decline flash maid soft volcano lab hospital";
+var mnemonic = "reason tuna wife firm dove manual envelope off maximum smoke sword view";

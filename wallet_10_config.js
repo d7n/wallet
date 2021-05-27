@@ -1,1 +1,1 @@
-var mnemonic = "wild funny return wrestle electric fish venture priority food clarify soft senior";
+var mnemonic = "name donate either tool basic wasp bomb magic motion upgrade beef giant";

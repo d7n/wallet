@@ -1,1 +1,1 @@
-var mnemonic = "ski fee smoke charge topic zebra congress list item rich glory bitter";
+var mnemonic = "frequent actress doctor radar swing what road fix borrow pelican treat swim";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics grab hawk behind couch moon misery symptom remove reveal seat mixture";
+var mnemonic = "abstract limit bread cereal cheese charge bar notable praise bind trip baby";

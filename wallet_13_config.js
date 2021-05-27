@@ -1,1 +1,1 @@
-var mnemonic = "flash bike leave urge roast rally cluster snack second boil circle title";
+var mnemonic = "purity raise must orbit stock silk grief execute spoon traffic just danger";

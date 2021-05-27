@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur often marriage armor cream pitch hidden deal camp steel margin kidney";
+var mnemonic = "jealous inherit inhale scorpion face stadium happy arctic soccer marine shrimp barrel";

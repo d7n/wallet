@@ -1,1 +1,1 @@
-var mnemonic = "sweet earth elevator cotton clutch differ then cement earth program member sausage";
+var mnemonic = "supply error advice income flee verb funny since priority middle essence wife";

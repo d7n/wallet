@@ -1,1 +1,1 @@
-var mnemonic = "rather rocket chicken endorse expect demise grunt onion misery amateur develop travel";
+var mnemonic = "open enact abstract evidence vanish beyond task bamboo dream zoo vehicle couple";

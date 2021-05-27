@@ -1,1 +1,1 @@
-var mnemonic = "note senior wise letter script unusual permit frame one skate kingdom rubber";
+var mnemonic = "dinosaur stick atom decide purse inquiry winter rack parent manage luxury metal";

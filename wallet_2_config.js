@@ -1,1 +1,1 @@
-var mnemonic = "convince put settle frost relief lift catalog dawn armed pattern must plastic";
+var mnemonic = "stairs drastic disease search air ancient couple crop patient system useful regular";

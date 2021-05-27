@@ -1,1 +1,1 @@
-var mnemonic = "tomato vessel olympic piano snow obvious settle stadium end water civil copper";
+var mnemonic = "custom donate vibrant buffalo trigger margin expand strategy moment flip mixture merit";

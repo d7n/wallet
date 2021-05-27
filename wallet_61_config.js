@@ -1,1 +1,1 @@
-var mnemonic = "leg end rug spoon slender half lamp orient canyon prison husband mutual";
+var mnemonic = "yard future evil program fashion transfer clip melody drift basket defy detail";

@@ -1,1 +1,1 @@
-var mnemonic = "idea pipe deer turtle access wave fringe normal art place transfer blame";
+var mnemonic = "sand pigeon umbrella pupil rebuild sun protect stage protect kit onion review";

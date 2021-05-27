@@ -1,1 +1,1 @@
-var mnemonic = "relax vanish offer pet sail delay right cart appear engine nation skill";
+var mnemonic = "donor diesel rug audit repeat calm must oxygen clerk veteran myself puppy";

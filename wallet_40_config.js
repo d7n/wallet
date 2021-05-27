@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur bounce throw change poet omit world pill analyst wet give garbage";
+var mnemonic = "seminar volume pepper cloud wheat country thunder vacant frost beauty left access";

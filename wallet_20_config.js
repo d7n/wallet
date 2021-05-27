@@ -1,1 +1,1 @@
-var mnemonic = "culture good mask walnut polar visual glare remove demand boost try embrace";
+var mnemonic = "age shuffle cruel target error obtain piano match slam cake away drive";

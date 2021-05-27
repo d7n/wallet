@@ -1,1 +1,1 @@
-var mnemonic = "case drift inspire unfair castle now ignore tomorrow outdoor survey gap wage";
+var mnemonic = "snow car crumble drink reason vintage primary bamboo bunker bird awkward actual";

@@ -1,1 +1,1 @@
-var mnemonic = "matter simple reduce dumb cash soon pull grain employ brother submit scrap";
+var mnemonic = "ride hazard attend enable expire trip guitar forward love honey employ void";

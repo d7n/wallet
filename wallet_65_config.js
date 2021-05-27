@@ -1,1 +1,1 @@
-var mnemonic = "oak south injury unlock destroy clay mom involve local nurse same romance";
+var mnemonic = "eye sunny clutch prepare pass float mail caution release deposit peanut august";

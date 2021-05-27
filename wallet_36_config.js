@@ -1,1 +1,1 @@
-var mnemonic = "blame ozone prevent arena tiger leaf arch luxury accuse fog canal fox";
+var mnemonic = "shoot page empower almost fringe oak agree gossip arm race involve tunnel";

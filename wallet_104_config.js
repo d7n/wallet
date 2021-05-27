@@ -1,1 +1,1 @@
-var mnemonic = "history dry diet crowd hedgehog increase sausage romance cotton cage clever sheriff";
+var mnemonic = "tenant few economy spirit call domain promote bottom grit wild ceiling suspect";

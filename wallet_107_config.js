@@ -1,1 +1,1 @@
-var mnemonic = "tower expose wear dance pumpkin repair cup fresh promote bicycle print dizzy";
+var mnemonic = "shop bomb rookie curve cause level raw copy actual exile rookie hint";

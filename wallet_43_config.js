@@ -1,1 +1,1 @@
-var mnemonic = "fiber cup journey task unable other current flock rely attend ship clay";
+var mnemonic = "build eyebrow bench round guess crystal camp relax raw wave burden correct";

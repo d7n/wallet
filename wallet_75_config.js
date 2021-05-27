@@ -1,1 +1,1 @@
-var mnemonic = "cruel deliver problem forward weapon sheriff despair undo town approve neutral kangaroo";
+var mnemonic = "chat idle surge dawn imitate intact purpose hub void offer nurse talent";
