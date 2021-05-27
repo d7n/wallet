@@ -1,1 +1,1 @@
-var mnemonic = "blue dizzy jump emerge worry rival absent wish rifle already pave require";
+var mnemonic = "day wolf pizza stereo shed tuition undo gloom manual try fetch attend";

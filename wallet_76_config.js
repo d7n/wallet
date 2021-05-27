@@ -1,1 +1,1 @@
-var mnemonic = "athlete pencil churn hungry boat fall pizza critic opinion sad review dash";
+var mnemonic = "prefer earn eight vendor cricket olive bean vault extra crucial wife sense";

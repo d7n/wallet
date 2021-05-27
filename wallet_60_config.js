@@ -1,1 +1,1 @@
-var mnemonic = "face solid wheel patient glance loop banner broccoli wife hope spin opera";
+var mnemonic = "mobile approve dice culture replace despair frozen blast grief weasel copper like";

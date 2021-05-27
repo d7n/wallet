@@ -1,1 +1,1 @@
-var mnemonic = "casino present symbol camp someone lift someone siege ranch later small post";
+var mnemonic = "patrol sniff rich spend wife snake inquiry quick canoe donkey length tunnel";

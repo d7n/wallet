@@ -1,1 +1,1 @@
-var mnemonic = "trust mosquito deny melody pigeon derive unique rug piece student inner flee";
+var mnemonic = "clean myth employ that priority aware print salt beef copy afraid immune";

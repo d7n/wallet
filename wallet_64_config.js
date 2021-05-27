@@ -1,1 +1,1 @@
-var mnemonic = "lake moral patch rhythm bright truck essence draft local clump artefact card";
+var mnemonic = "asset cream yard sample hill tail exit convince ethics subway token blade";

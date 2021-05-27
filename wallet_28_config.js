@@ -1,1 +1,1 @@
-var mnemonic = "confirm sad leave already tornado cute sure turtle move busy lend balance";
+var mnemonic = "sport tumble roast blame barrel artwork hint canal lobster into trumpet squeeze";

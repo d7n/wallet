@@ -1,1 +1,1 @@
-var mnemonic = "orient again ordinary hollow famous clerk solar trial cheese unable river apart";
+var mnemonic = "venture tank relax upset turtle thunder crack attract define floor famous speed";

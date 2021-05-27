@@ -1,1 +1,1 @@
-var mnemonic = "south exchange tragic someone absent cave private attack maze spike provide boy";
+var mnemonic = "alley muffin swallow once trip disagree object ramp genius kick parrot cousin";

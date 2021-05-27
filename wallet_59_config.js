@@ -1,1 +1,1 @@
-var mnemonic = "trigger tiny insect toy orphan supply giraffe arctic gas survey trim brave";
+var mnemonic = "pipe tower near voice select ankle addict wasp fortune actual tunnel issue";

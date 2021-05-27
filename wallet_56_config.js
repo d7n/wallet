@@ -1,1 +1,1 @@
-var mnemonic = "debate draft castle squirrel gorilla sail traffic decline weekend stand scatter elephant";
+var mnemonic = "skirt door tribe drastic tide now regular wise lift scale garage transfer";

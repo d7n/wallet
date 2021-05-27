@@ -1,1 +1,1 @@
-var mnemonic = "input drum that copy vacuum leg luggage author bracket lava staff swallow";
+var mnemonic = "broccoli walnut adjust exhibit sample fluid denial online nest myself shove obvious";

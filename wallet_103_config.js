@@ -1,1 +1,1 @@
-var mnemonic = "diet gap cream below hope husband bounce ignore scatter payment wall raise";
+var mnemonic = "one file memory purchase federal credit chaos skill mule nothing carpet inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "leader child clinic live tomato width protect festival kitchen potato retreat middle";
+var mnemonic = "social arrest select pride frog version dish about hub umbrella rapid icon";

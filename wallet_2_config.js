@@ -1,1 +1,1 @@
-var mnemonic = "luggage parent monkey roof level tornado dentist strategy evil betray reject pride";
+var mnemonic = "ready hen easy search tortoise fame whale mask rail dismiss main patch";

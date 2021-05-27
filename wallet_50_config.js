@@ -1,1 +1,1 @@
-var mnemonic = "name also differ skill machine naive cargo account industry empty worth choice";
+var mnemonic = "speed blue pitch exhaust nasty spawn water camp hunt session tiny trim";

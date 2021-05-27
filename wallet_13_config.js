@@ -1,1 +1,1 @@
-var mnemonic = "ahead doll jeans whale service initial oil repeat novel punch atom cart";
+var mnemonic = "appear battle grain boost cupboard hurry pond pistol wreck melt diary slush";

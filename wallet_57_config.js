@@ -1,1 +1,1 @@
-var mnemonic = "strike human head ethics wave dentist judge bubble decrease excess unique critic";
+var mnemonic = "remind unaware reunion flee private long suffer mean cake organ earn film";

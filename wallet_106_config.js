@@ -1,1 +1,1 @@
-var mnemonic = "render maximum voice toilet notice suspect festival antique wealth forget live scrap";
+var mnemonic = "next submit alcohol audit taste property radar result minimum electric push ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology urge hip slam knee melody actress shadow junior pear bike wet";
+var mnemonic = "tornado animal soldier punch view exile pepper tape mention like farm mechanic";

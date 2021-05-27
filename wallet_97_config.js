@@ -1,1 +1,1 @@
-var mnemonic = "mimic network cruise smile wrap lift idea jazz pencil draft team shop";
+var mnemonic = "spell multiply clever guide slice blame trick voice maid will airport night";

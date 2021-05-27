@@ -1,1 +1,1 @@
-var mnemonic = "manage isolate devote benefit raccoon hybrid faint taste they audit law near";
+var mnemonic = "group sick aerobic parent tent engine buzz business either install spike grape";

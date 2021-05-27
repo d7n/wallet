@@ -1,1 +1,1 @@
-var mnemonic = "volcano always actual very deputy spare chaos burst connect decade journey tomorrow";
+var mnemonic = "face reduce blossom kiwi insect armed aerobic dilemma poet develop need shuffle";

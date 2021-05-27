@@ -1,1 +1,1 @@
-var mnemonic = "salon pupil result gasp boy kangaroo become luggage whisper reduce enjoy doll";
+var mnemonic = "way scare together crowd shrimp frown gun vicious monkey shy cactus wall";

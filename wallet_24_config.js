@@ -1,1 +1,1 @@
-var mnemonic = "prison play nut olive alpha exhaust faint before cabin nut ankle recipe";
+var mnemonic = "cram act hotel kitten answer velvet video pumpkin shoulder negative fiction tired";

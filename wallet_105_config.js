@@ -1,1 +1,1 @@
-var mnemonic = "vocal ship biology come hover input giant carpet very sudden proof clock";
+var mnemonic = "hill crime word metal pitch erosion fresh south hire shed kitten used";

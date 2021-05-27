@@ -1,1 +1,1 @@
-var mnemonic = "leopard kid old fog multiply suffer omit cat tumble battle toilet smile";
+var mnemonic = "moon situate desk green merge whale bonus found bind material tiger broken";

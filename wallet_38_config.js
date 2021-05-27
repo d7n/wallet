@@ -1,1 +1,1 @@
-var mnemonic = "demise strike chaos pistol blast rely print quit faculty talk key uphold";
+var mnemonic = "machine primary casino act ordinary faith federal spatial only predict inform improve";

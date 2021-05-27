@@ -1,1 +1,1 @@
-var mnemonic = "check clump economy rigid leopard series vibrant glad upon clump only lobster";
+var mnemonic = "material board stone call unique access avocado still again charge gym birth";

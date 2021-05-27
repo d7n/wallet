@@ -1,1 +1,1 @@
-var mnemonic = "artist toss market solution embark brief vintage deliver boost choice divide crunch";
+var mnemonic = "inspire online argue apology hurt flower jar anxiety sudden crisp canal tribe";

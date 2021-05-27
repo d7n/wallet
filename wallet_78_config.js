@@ -1,1 +1,1 @@
-var mnemonic = "mother stadium cage advance inch canyon pair elbow kit hollow noise scrap";
+var mnemonic = "useless vocal risk ribbon view diet subway youth frost midnight blame release";

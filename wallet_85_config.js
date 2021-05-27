@@ -1,1 +1,1 @@
-var mnemonic = "genius impact collect column smoke holiday harvest buzz physical rule palm denial";
+var mnemonic = "lobster few phone balance loan cluster exhaust know must clarify spot gate";

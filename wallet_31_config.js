@@ -1,1 +1,1 @@
-var mnemonic = "dog cable bean method purchase three bargain lonely only often tortoise clay";
+var mnemonic = "jelly appear oxygen pact tunnel flag bird reason hundred joy dolphin celery";

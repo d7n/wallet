@@ -1,1 +1,1 @@
-var mnemonic = "what shell vault below hope salute fame engine dash distance deliver plastic";
+var mnemonic = "awake rookie bid order fork twist uphold edge account people goddess divert";

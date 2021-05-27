@@ -1,1 +1,1 @@
-var mnemonic = "celery sausage expand wage fish anger fatigue rather stock ability oblige jelly";
+var mnemonic = "opera document flash autumn super letter this cotton stand news song print";

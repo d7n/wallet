@@ -1,1 +1,1 @@
-var mnemonic = "muscle hole cage eagle tongue edge winter bind predict gravity orchard donor";
+var mnemonic = "choose glory patrol tomato alone wool erosion picnic dumb decorate text switch";

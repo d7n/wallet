@@ -1,1 +1,1 @@
-var mnemonic = "unique neck lizard imitate type issue season hawk enroll solve gesture pencil";
+var mnemonic = "job edit year fly whisper illegal wrist image chimney update master trust";

@@ -1,1 +1,1 @@
-var mnemonic = "alone leader topple blush client zebra dove then dog worry boy jaguar";
+var mnemonic = "buffalo desert truth dose asset gallery deal property wild brief engine protect";

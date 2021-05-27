@@ -1,1 +1,1 @@
-var mnemonic = "dial ability old install hire aspect limb jar parrot mix tail rescue";
+var mnemonic = "pelican company brass sudden tube obtain wheat start lesson jungle ankle major";

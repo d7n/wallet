@@ -1,1 +1,1 @@
-var mnemonic = "team neutral dignity salad crisp jewel tray velvet capable boss awful bamboo";
+var mnemonic = "mixture swear tourist garlic health other robot broccoli unknown oil primary moment";

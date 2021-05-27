@@ -1,1 +1,1 @@
-var mnemonic = "clean tobacco swallow service elegant region undo sample shed mixture wait sudden";
+var mnemonic = "wild desert wall pill coach swarm dwarf grunt loud federal title tide";

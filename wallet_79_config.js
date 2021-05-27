@@ -1,1 +1,1 @@
-var mnemonic = "frog milk hip squirrel since charge forget phrase amazing chuckle embody cereal";
+var mnemonic = "stairs load pitch matrix demise black assume manual topic popular error enable";

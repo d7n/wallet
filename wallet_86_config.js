@@ -1,1 +1,1 @@
-var mnemonic = "build detail ramp list clump damp margin board enter around chalk faculty";
+var mnemonic = "title right wink prefer embrace filter over roof mixture room possible forum";

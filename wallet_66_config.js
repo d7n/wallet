@@ -1,1 +1,1 @@
-var mnemonic = "tiny scorpion glory torch earth sign anger involve shoot glance supply slow";
+var mnemonic = "panther myself cart slam salute essence detect snap domain first blossom cute";

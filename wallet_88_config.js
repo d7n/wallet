@@ -1,1 +1,1 @@
-var mnemonic = "weasel leisure stereo bachelor menu broken scatter warrior panic banana entire monkey";
+var mnemonic = "calm weapon minute distance alone rifle firm breeze skull exotic domain uphold";

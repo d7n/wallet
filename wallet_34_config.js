@@ -1,1 +1,1 @@
-var mnemonic = "cute flash humble enroll lady lock educate soft process mystery latin cereal";
+var mnemonic = "popular gossip vote cute blind museum bean squirrel wish town core slide";

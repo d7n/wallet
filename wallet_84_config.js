@@ -1,1 +1,1 @@
-var mnemonic = "turtle seek tortoise firm burden dawn march pond royal sand always ocean";
+var mnemonic = "cancel resist holiday bulk mind fish hill exercise travel need culture old";

@@ -1,1 +1,1 @@
-var mnemonic = "tank then bubble file alter unable chair depart multiply train paddle flee";
+var mnemonic = "dress when wine model board raw senior theory cause endorse catalog grunt";

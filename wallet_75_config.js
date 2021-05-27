@@ -1,1 +1,1 @@
-var mnemonic = "since senior mosquito genre squeeze mail purchase spice own enlist same yard";
+var mnemonic = "install basket radar crime symbol nut goddess gentle cannon galaxy area neck";

@@ -1,1 +1,1 @@
-var mnemonic = "east bright lesson column disagree clerk now judge stage build garden mother";
+var mnemonic = "truly ribbon disagree fall wet shock copy diesel shadow mother pigeon feel";

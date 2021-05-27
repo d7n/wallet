@@ -1,1 +1,1 @@
-var mnemonic = "lawn rug orchard theory boost then disagree cushion language cover glass trouble";
+var mnemonic = "later huge fever solid blood flight faint rural aerobic knock whip reflect";

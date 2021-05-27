@@ -1,1 +1,1 @@
-var mnemonic = "digital repeat twice brother retire chronic host kiss indicate book evidence business";
+var mnemonic = "reopen access romance feature sauce medal minute frequent jeans boat visit cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "clever south bring door tired heart situate sleep primary board mosquito portion";
+var mnemonic = "adult media nerve include describe soccer pigeon adult ramp sniff cool veteran";

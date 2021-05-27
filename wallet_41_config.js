@@ -1,1 +1,1 @@
-var mnemonic = "tiny memory side velvet confirm price story hidden brain real exotic mandate";
+var mnemonic = "such chat slam ride layer reform extra either blouse steel speed lion";

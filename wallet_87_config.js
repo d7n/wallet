@@ -1,1 +1,1 @@
-var mnemonic = "solve buyer reject silver crater core poet zero boring number spot vessel";
+var mnemonic = "proof loan cube service jaguar liberty volume caution pepper another grape floor";

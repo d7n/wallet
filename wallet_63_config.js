@@ -1,1 +1,1 @@
-var mnemonic = "grid excuse crew dust cabin remove wink balcony click forward orient accuse";
+var mnemonic = "flavor south exclude warrior reduce nice action seat consider intact immense snack";

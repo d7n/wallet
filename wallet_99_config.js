@@ -1,1 +1,1 @@
-var mnemonic = "siren unveil salmon wedding betray depend list evolve edge inch snack assault";
+var mnemonic = "capable eternal pigeon alley valid season limb hazard car habit energy effort";

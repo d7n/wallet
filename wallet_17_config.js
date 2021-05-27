@@ -1,1 +1,1 @@
-var mnemonic = "error culture hawk exercise bitter drop embark number spell before venue shoe";
+var mnemonic = "journey duck buyer borrow stem finger iron arrive bless smart derive blanket";

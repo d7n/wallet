@@ -1,1 +1,1 @@
-var mnemonic = "cross seek nation trap dose apology pony orient mouse office resemble give";
+var mnemonic = "erase jazz giant evoke until purity glare brand exotic combine salon prefer";

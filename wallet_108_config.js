@@ -1,1 +1,1 @@
-var mnemonic = "tooth seed orphan rubber knee client mule pool program nurse pitch teach";
+var mnemonic = "high frost purity brass kidney brave harbor solution network entire rival staff";

@@ -1,1 +1,1 @@
-var mnemonic = "odor escape oil ability dirt dice among void state rebuild dawn raw";
+var mnemonic = "accuse diesel fever plug level nature camp page modify run unfold forest";

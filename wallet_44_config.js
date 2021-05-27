@@ -1,1 +1,1 @@
-var mnemonic = "tired rare cry harbor hill trade match rain nest bargain entry lunch";
+var mnemonic = "ready casual stool fringe trade demise install praise little inhale talk together";

@@ -1,1 +1,1 @@
-var mnemonic = "casual way enroll nuclear brand shy code rely forward accident gate quote";
+var mnemonic = "coral there diagram faint empower pulse ranch reopen dove error jeans require";

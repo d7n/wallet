@@ -1,1 +1,1 @@
-var mnemonic = "bike physical various ecology lobster coast math swing original poem potato injury";
+var mnemonic = "emerge donate glimpse orange actor better crew custom crumble garden orbit aware";

@@ -1,1 +1,1 @@
-var mnemonic = "income volcano measure vintage ramp action vocal saddle between success donkey wear";
+var mnemonic = "harsh captain victory gorilla render nominee act clip sibling double dial news";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat index sweet grape hint unaware grow memory limit come hungry advice";
+var mnemonic = "hood foil unhappy spell banner amateur autumn cram ocean scrap alter easy";

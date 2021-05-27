@@ -1,1 +1,1 @@
-var mnemonic = "sugar used voyage ball doctor will nurse cousin song hint tip venture";
+var mnemonic = "eye else tent flat comfort shove evil coffee century liberty canvas marble";

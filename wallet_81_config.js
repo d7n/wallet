@@ -1,1 +1,1 @@
-var mnemonic = "comfort soccer tag bag dish fire cabin knock culture blind motor cram";
+var mnemonic = "early setup miracle another turkey supreme help valve case keen pride twin";

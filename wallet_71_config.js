@@ -1,1 +1,1 @@
-var mnemonic = "dream extend hour file wrong bridge merry tuna alcohol snow reward lottery";
+var mnemonic = "squeeze total drink tray hazard eye rare dumb lamp grape journey midnight";

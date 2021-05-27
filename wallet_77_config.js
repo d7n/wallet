@@ -1,1 +1,1 @@
-var mnemonic = "night eight surprise neither rather mean name tooth mechanic fork normal keep";
+var mnemonic = "grief tomato favorite alcohol column cattle under manual goat vendor load rose";

@@ -1,1 +1,1 @@
-var mnemonic = "use possible cost social devote elite dial census sort author indoor surface";
+var mnemonic = "audit wing cute note romance country diamond smoke dwarf ensure trip spread";

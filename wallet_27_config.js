@@ -1,1 +1,1 @@
-var mnemonic = "blind damp absorb salmon hybrid hawk joke rent reason smooth circle ozone";
+var mnemonic = "beach express diary soap upon flush hair issue urban wash embark turkey";

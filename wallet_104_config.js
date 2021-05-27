@@ -1,1 +1,1 @@
-var mnemonic = "hockey west expect thing slim vanish poem aisle text hammer clerk report";
+var mnemonic = "laundry defy exile coyote all race arrow alien excite cricket spider bottom";

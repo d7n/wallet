@@ -1,1 +1,1 @@
-var mnemonic = "label stock absent certain wrong enhance picnic occur various exchange success imitate";
+var mnemonic = "logic entry raw lizard wait blind radio unlock traffic measure velvet canoe";

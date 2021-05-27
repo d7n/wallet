@@ -1,1 +1,1 @@
-var mnemonic = "depend tag isolate wrong twin helmet begin phone soul people total biology";
+var mnemonic = "daughter brisk mean banner swear upset crucial post woman party program dawn";

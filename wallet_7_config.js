@@ -1,1 +1,1 @@
-var mnemonic = "seminar admit rather luxury priority ship abuse duck similar same omit debate";
+var mnemonic = "junior regular today voice flame vintage task pledge poem horror awful obtain";

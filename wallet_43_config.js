@@ -1,1 +1,1 @@
-var mnemonic = "now opinion shoot pool drip weasel long order wife castle panic tourist";
+var mnemonic = "expect install elite icon armed neck coyote ticket about flight fortune mean";

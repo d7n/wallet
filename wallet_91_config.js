@@ -1,1 +1,1 @@
-var mnemonic = "hour abandon acquire fragile bean auction grow game clown same biology nominee";
+var mnemonic = "myth match together quote sand endless ride advice trouble elder similar source";

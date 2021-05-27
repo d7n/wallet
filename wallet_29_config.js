@@ -1,1 +1,1 @@
-var mnemonic = "wrap add nature wise grit icon bike current soul flavor tip desk";
+var mnemonic = "erosion affair system kiwi response spring bone orbit inspire top hurdle devote";

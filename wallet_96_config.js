@@ -1,1 +1,1 @@
-var mnemonic = "gym connect between nose speed kingdom harvest pitch lift they palace bike";
+var mnemonic = "across carbon rare hire spider patrol awful bachelor stomach slim nature gym";

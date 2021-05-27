@@ -1,1 +1,1 @@
-var mnemonic = "idea veteran icon clerk vault ensure balcony nominee toddler buffalo supreme doll";
+var mnemonic = "venue sorry slim borrow camp loop gift obvious horror iron label solar";

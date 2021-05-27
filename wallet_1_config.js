@@ -1,1 +1,1 @@
-var mnemonic = "path grit tortoise cable expose city enough fuel mind toast private empower";
+var mnemonic = "dumb smooth amazing cliff fluid unhappy daughter top lunar produce quantum jaguar";

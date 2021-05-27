@@ -1,1 +1,1 @@
-var mnemonic = "tent mammal radio hint dragon trade wine soda thing mushroom cute sign";
+var mnemonic = "remain army solid shift nominee arm usage tube proud pilot answer clog";

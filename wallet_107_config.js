@@ -1,1 +1,1 @@
-var mnemonic = "grace describe sock feature maple wine winner grow note wrap imitate butter";
+var mnemonic = "hamster picnic review drift copper symptom language shift buddy crunch labor fine";

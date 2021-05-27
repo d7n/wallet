@@ -1,1 +1,1 @@
-var mnemonic = "fly century garden above six exile master hat truck edge asset feature";
+var mnemonic = "fatigue property theme grain story hold claw crumble visual magnet orange wild";

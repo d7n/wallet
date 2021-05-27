@@ -1,1 +1,1 @@
-var mnemonic = "embrace debris nose way useful legal slogan good item neck warm coyote";
+var mnemonic = "program entry market drastic horror gate offer box able tip pigeon cinnamon";

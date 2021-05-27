@@ -1,1 +1,1 @@
-var mnemonic = "scheme dismiss wool sail lizard bread era maximum fog impulse lobster abandon";
+var mnemonic = "toast advice shiver wing twice enforce hurry tower vibrant crowd victory crane";

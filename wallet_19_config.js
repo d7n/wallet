@@ -1,1 +1,1 @@
-var mnemonic = "demand gift step romance aware fresh wool spring jewel cute pull hurry";
+var mnemonic = "blame reason camp enhance sunny erase corn arrow sword rotate few cloud";

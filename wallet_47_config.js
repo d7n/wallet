@@ -1,1 +1,1 @@
-var mnemonic = "field quiz climb clog dream crawl depend border track dish fabric abandon";
+var mnemonic = "mad short effort rural run soul main dish napkin bird fatal task";

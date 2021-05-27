@@ -1,1 +1,1 @@
-var mnemonic = "video unit now endorse danger trash gravity spice video cake divorce ask";
+var mnemonic = "inhale dust joke visa loan duty artefact lazy online scare portion solid";

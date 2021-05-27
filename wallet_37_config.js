@@ -1,1 +1,1 @@
-var mnemonic = "affair puzzle phrase reform deputy ramp festival soap position world body company";
+var mnemonic = "vendor meadow awake piano receive nerve half buzz crush capital rally swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "slide clip top enjoy ill wash husband auto buyer chuckle enter sponsor";
+var mnemonic = "tourist boring above rebuild decrease wrong lock name invite trophy hammer coil";
