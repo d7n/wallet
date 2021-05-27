@@ -1,1 +1,1 @@
-var mnemonic = "maid ordinary flash radar story raven spy limit jewel detect opinion network";
+var mnemonic = "final panther pause warm model cannon come trick garden toilet logic nose";

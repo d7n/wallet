@@ -1,1 +1,1 @@
-var mnemonic = "super bubble okay giraffe between property ensure purpose pretty myth asthma replace";
+var mnemonic = "wheat frame blind limit symptom asset design shrug stomach until live category";

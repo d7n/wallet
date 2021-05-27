@@ -1,1 +1,1 @@
-var mnemonic = "ship bundle patient lazy recycle include fetch announce fox veteran sunset relax";
+var mnemonic = "burger list plastic flush lend abstract catalog material ethics key raise mass";

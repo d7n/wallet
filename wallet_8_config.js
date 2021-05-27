@@ -1,1 +1,1 @@
-var mnemonic = "oil extend cliff flavor mountain edit steel alarm sock device menu puppy";
+var mnemonic = "giggle horror now else sphere side width teach collect enable oil wolf";

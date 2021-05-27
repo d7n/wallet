@@ -1,1 +1,1 @@
-var mnemonic = "liberty farm staff onion twelve bread sudden hobby wolf august scale eager";
+var mnemonic = "shoe crucial laptop fashion pony siege shell winner cupboard movie comfort sea";

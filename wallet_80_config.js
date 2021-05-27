@@ -1,1 +1,1 @@
-var mnemonic = "stereo swear entire symbol remain accident usual unveil disease waste pact foster";
+var mnemonic = "ship found gift update include frost language electric wild swarm clip alone";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle humor shallow brick gain priority return where together absorb federal stairs";
+var mnemonic = "latin measure village marriage afford midnight unfair save obey cake advance alley";

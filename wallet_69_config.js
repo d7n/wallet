@@ -1,1 +1,1 @@
-var mnemonic = "palm wolf museum rain milk rocket web wife lawn thank segment lobster";
+var mnemonic = "write symbol accident execute repair window have exact decrease make pole ride";

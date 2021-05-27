@@ -1,1 +1,1 @@
-var mnemonic = "orchard concert veteran december sight elegant cover success cousin differ yard that";
+var mnemonic = "beef aunt farm text heart north tuna fiction reason black lend grace";

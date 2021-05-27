@@ -1,1 +1,1 @@
-var mnemonic = "audit setup design embark october witness exhibit route hockey edit domain heavy";
+var mnemonic = "sleep physical erupt fabric jacket gossip repeat sad soft expire flee alpha";

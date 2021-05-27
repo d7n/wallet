@@ -1,1 +1,1 @@
-var mnemonic = "frown since frost obscure rebuild lava sugar badge crazy cheese hedgehog stairs";
+var mnemonic = "simple whisper bronze machine skull scout learn same tongue spring unable blouse";

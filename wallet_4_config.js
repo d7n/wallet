@@ -1,1 +1,1 @@
-var mnemonic = "tape post shine pear surge possible salon stumble uncover rookie leisure outer";
+var mnemonic = "link kiss crash female key royal million energy road essay right remember";

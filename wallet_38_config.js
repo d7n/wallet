@@ -1,1 +1,1 @@
-var mnemonic = "parade angry tiger pipe parent quote boss truly sing rail brisk yard";
+var mnemonic = "couch matrix major elbow believe hover above body spy oil imitate mercy";

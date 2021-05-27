@@ -1,1 +1,1 @@
-var mnemonic = "grass drive offer stuff coil yellow sure kid describe clean family grace";
+var mnemonic = "never always shrimp ecology amateur market follow pelican spend lumber connect pool";

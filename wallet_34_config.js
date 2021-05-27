@@ -1,1 +1,1 @@
-var mnemonic = "forget great fame first object session debate feed enemy couple dynamic bounce";
+var mnemonic = "nurse crime involve error material orbit desert tennis siege awake snake rifle";

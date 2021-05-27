@@ -1,1 +1,1 @@
-var mnemonic = "range sight clutch hood divert diesel zero leaf network predict sand slender";
+var mnemonic = "return kit sword impact exotic flock print usage dress slice push attract";

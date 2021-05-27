@@ -1,1 +1,1 @@
-var mnemonic = "bag lamp kit voyage drive gaze palace solid much shy evolve humor";
+var mnemonic = "unfair bullet slide scorpion series bone engine office bar latin olympic pepper";

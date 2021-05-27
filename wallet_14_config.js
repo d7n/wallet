@@ -1,1 +1,1 @@
-var mnemonic = "split order pattern easy hint victory one expect gallery crawl opera kick";
+var mnemonic = "faculty escape amateur jaguar jewel cabbage civil reform need tissue donor eternal";

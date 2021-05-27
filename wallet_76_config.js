@@ -1,1 +1,1 @@
-var mnemonic = "person half mushroom bottom clap other warrior zone surge orient humble duty";
+var mnemonic = "file seed mule tennis distance budget fun credit brown lion virus deputy";

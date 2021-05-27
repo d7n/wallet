@@ -1,1 +1,1 @@
-var mnemonic = "sun net carpet time eight giggle minute catalog foam grid artwork discover";
+var mnemonic = "proof there copy involve hawk fit mushroom horse spend type divert false";

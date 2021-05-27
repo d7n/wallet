@@ -1,1 +1,1 @@
-var mnemonic = "steel during lucky hire exhaust message install early peanut desert couple shrimp";
+var mnemonic = "top skill injury heart identify accuse world hurdle stool draft muscle occur";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior aim fringe exercise agent memory wedding smart proud remain skate deputy";
+var mnemonic = "nuclear assist keep avoid fox fatigue case matter jaguar chef spatial borrow";

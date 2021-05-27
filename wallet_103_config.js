@@ -1,1 +1,1 @@
-var mnemonic = "stay moon region squirrel clock manual vivid pilot cup three drop enjoy";
+var mnemonic = "forest crane dance belt steak salad ostrich senior team kick reward office";

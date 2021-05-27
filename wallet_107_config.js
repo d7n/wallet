@@ -1,1 +1,1 @@
-var mnemonic = "fire inform rabbit question cheese hat surprise hub bar dentist dizzy bottom";
+var mnemonic = "soul cherry caught ship isolate crunch innocent biology resist client diesel club";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe radar design garden arena renew post lunch inspire thank hybrid invest";
+var mnemonic = "vacant slab grape genuine ketchup come merge mother click nose achieve glide";

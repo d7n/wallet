@@ -1,1 +1,1 @@
-var mnemonic = "ordinary ankle cactus attract gasp dragon clever category bunker oven immune ivory";
+var mnemonic = "organ catalog census basket theory royal weekend elite mistake fresh inside globe";

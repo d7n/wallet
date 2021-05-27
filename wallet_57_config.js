@@ -1,1 +1,1 @@
-var mnemonic = "client pigeon tumble receive pull nation organ ancient hurt actor humor snow";
+var mnemonic = "entire sadness smile learn bracket core story enact vessel reform idea author";

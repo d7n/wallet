@@ -1,1 +1,1 @@
-var mnemonic = "pen dress vacuum asset neck move sense cigar talk observe evoke turn";
+var mnemonic = "steel fox mind tail void social item milk only unusual melt digital";

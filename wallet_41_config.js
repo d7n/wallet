@@ -1,1 +1,1 @@
-var mnemonic = "net spirit antenna club quantum history album ensure punch leave mean pledge";
+var mnemonic = "alien sell syrup chimney cotton kiss blade room believe pizza magnet mandate";

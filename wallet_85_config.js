@@ -1,1 +1,1 @@
-var mnemonic = "leader health wink cave museum fat castle recipe dolphin box voice nuclear";
+var mnemonic = "genuine movie copy attack cross tide cover domain coast rug begin need";

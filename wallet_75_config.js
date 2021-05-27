@@ -1,1 +1,1 @@
-var mnemonic = "puppy coach tiny arrow quantum cup zoo sea settle camera merit rubber";
+var mnemonic = "kid aisle impose census seven involve card shaft cloud helmet sail foil";

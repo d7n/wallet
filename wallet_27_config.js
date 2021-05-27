@@ -1,1 +1,1 @@
-var mnemonic = "illness exist address frequent soccer rate lawn coyote payment offer bid exact";
+var mnemonic = "cushion thought keen daring book yard cargo coconut velvet stove weird canal";

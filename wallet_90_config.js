@@ -1,1 +1,1 @@
-var mnemonic = "learn donor skate stereo step leisure wait wait answer elephant artefact gloom";
+var mnemonic = "comic tongue pepper giraffe suggest wagon mansion target shrug double web museum";

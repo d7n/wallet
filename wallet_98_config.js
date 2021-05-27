@@ -1,1 +1,1 @@
-var mnemonic = "assume oyster human cliff cream sign canoe curtain run school alcohol hobby";
+var mnemonic = "crazy casual client wife sleep elite wagon dirt flame notice shiver invest";

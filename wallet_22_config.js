@@ -1,1 +1,1 @@
-var mnemonic = "jacket unaware typical random source bronze farm twenty define illness debate vacuum";
+var mnemonic = "swallow pull lift ankle demand barrel rug tuna wool kiss group volume";

@@ -1,1 +1,1 @@
-var mnemonic = "sense code claim clog onion inmate awful upgrade tired code armed midnight";
+var mnemonic = "deliver flat pink tunnel system able stool acquire owner stone little gaze";

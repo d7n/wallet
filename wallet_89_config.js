@@ -1,1 +1,1 @@
-var mnemonic = "calm diamond tape between tilt fee able rail waste lawn track match";
+var mnemonic = "badge tent crunch drum total hello seat staff dirt insect nominee pair";

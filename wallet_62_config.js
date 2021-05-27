@@ -1,1 +1,1 @@
-var mnemonic = "age movie tomato scatter number prefer style fury usage ticket deposit window";
+var mnemonic = "donate exhibit capable dash magnet immune proud wonder honey conduct better prepare";

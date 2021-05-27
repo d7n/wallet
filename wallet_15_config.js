@@ -1,1 +1,1 @@
-var mnemonic = "skull business belt disease angry pause duty limit file onion jelly nurse";
+var mnemonic = "fringe craft cave timber tourist recipe name dynamic alarm holiday forget raise";

@@ -1,1 +1,1 @@
-var mnemonic = "client wild wire balcony tomorrow flight foam visit insect deputy help odor";
+var mnemonic = "park punch buyer rude jazz left fade split pause conduct grass under";

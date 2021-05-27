@@ -1,1 +1,1 @@
-var mnemonic = "spider used decide impulse region protect plug maid talk build goat hazard";
+var mnemonic = "comic proud mimic mango armor barrel lottery message orbit ozone pony exit";

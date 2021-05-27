@@ -1,1 +1,1 @@
-var mnemonic = "kite pride easily pioneer must theory bitter rebuild never inmate luxury hammer";
+var mnemonic = "party shoe stone uncle mixture push fabric stove arrive siege you figure";

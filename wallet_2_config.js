@@ -1,1 +1,1 @@
-var mnemonic = "artwork damage moral code mom hedgehog crew error special rib dragon sign";
+var mnemonic = "lawsuit cruise pumpkin casual laugh media seminar panic alley problem deer syrup";

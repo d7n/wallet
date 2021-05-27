@@ -1,1 +1,1 @@
-var mnemonic = "current inflict doctor seed harvest crystal hockey wait script circle warm lawsuit";
+var mnemonic = "math people bench flavor again increase protect panic property firm follow decide";

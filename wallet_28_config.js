@@ -1,1 +1,1 @@
-var mnemonic = "length zebra dentist crush today various planet tattoo brown milk sunset cup";
+var mnemonic = "cash move bleak olive more lucky zebra twist remove night burst private";

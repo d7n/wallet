@@ -1,1 +1,1 @@
-var mnemonic = "already blue recipe answer illness melt unknown arrive boy uncle razor skull";
+var mnemonic = "beyond field prepare grant quick unfold rain first trumpet pitch night talk";

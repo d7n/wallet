@@ -1,1 +1,1 @@
-var mnemonic = "recipe giggle pattern draw bullet mixture exhibit lava jaguar fiscal relax wool";
+var mnemonic = "during wet burst mail opera two brass gift supreme outdoor virtual law";

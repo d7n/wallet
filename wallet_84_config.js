@@ -1,1 +1,1 @@
-var mnemonic = "devote wage yard woman size cheap furnace crystal business raise mushroom pilot";
+var mnemonic = "snap grant replace echo brown bridge cross picnic ritual lounge receive crouch";

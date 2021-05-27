@@ -1,1 +1,1 @@
-var mnemonic = "census vacuum excuse admit ticket limit course topple focus credit frame rich";
+var mnemonic = "thrive stable coach announce crime prevent donate happy answer noodle neglect jelly";

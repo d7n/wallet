@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo oven social sponsor replace barely goat fancy vapor oil slow you";
+var mnemonic = "market skate company impact immense pig owner garment mobile foster innocent diagram";

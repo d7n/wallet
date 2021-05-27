@@ -1,1 +1,1 @@
-var mnemonic = "crystal beyond casino exercise detect minute wolf actress say zero maze screen";
+var mnemonic = "receive royal harbor announce soft decide corn goddess ship liar word pencil";

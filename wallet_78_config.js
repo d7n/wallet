@@ -1,1 +1,1 @@
-var mnemonic = "wagon error above message evil struggle again wheat powder across figure uncover";
+var mnemonic = "gentle purity mushroom camera harsh visit surprise power radio multiply hello riot";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle unaware spatial ranch hint lottery shuffle curtain erode kid orchard cross";
+var mnemonic = "jungle host chair twist family suggest kite casual tenant inside march firm";

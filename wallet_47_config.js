@@ -1,1 +1,1 @@
-var mnemonic = "stool orange mixture dutch swear ancient sell egg brick skin lazy lizard";
+var mnemonic = "antenna light force detect state canal pool stem object gun slide lemon";

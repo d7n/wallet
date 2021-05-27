@@ -1,1 +1,1 @@
-var mnemonic = "spoil face inmate admit uncle flag sick daring flush icon path seed";
+var mnemonic = "giggle reunion basic luxury story jump mother rifle gloom snap west wide";

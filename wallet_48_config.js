@@ -1,1 +1,1 @@
-var mnemonic = "student shell adult female make poet teach angle sad snake flavor stamp";
+var mnemonic = "organ actor lake weather soccer coconut ring poem pretty glass demise erode";

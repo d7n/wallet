@@ -1,1 +1,1 @@
-var mnemonic = "echo victory service ready hip caution unknown mansion steak away biology stove";
+var mnemonic = "vendor main staff juice primary air welcome stage plate window used exclude";

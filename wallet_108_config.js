@@ -1,1 +1,1 @@
-var mnemonic = "cable glide pig nation solid expose rule old scatter pipe scan bulb";
+var mnemonic = "never coconut twelve misery poet slam where drop conduct clap series camera";

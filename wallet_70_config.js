@@ -1,1 +1,1 @@
-var mnemonic = "fee they security receive maid fork wing ship other lift fit copy";
+var mnemonic = "water want supreme forward off priority solve viable shine repair latin predict";

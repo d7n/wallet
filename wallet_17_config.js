@@ -1,1 +1,1 @@
-var mnemonic = "because sick cloth planet body erupt fold child fix hover pretty pencil";
+var mnemonic = "resist excuse project forget chase catalog cupboard faculty secret only burger dwarf";

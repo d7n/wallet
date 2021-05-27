@@ -1,1 +1,1 @@
-var mnemonic = "afford flee scatter stereo minor aware helmet put cactus journey worry divorce";
+var mnemonic = "quantum online exit suit ozone public case you oppose wife oven power";

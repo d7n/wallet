@@ -1,1 +1,1 @@
-var mnemonic = "coil high taste holiday valley tragic inmate oil demand proof wagon place";
+var mnemonic = "blue differ glad bundle cannon word winner client casino rich bright cram";

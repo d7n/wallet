@@ -1,1 +1,1 @@
-var mnemonic = "addict crater stool online admit clarify spice into garlic metal sound boring";
+var mnemonic = "satoshi cigar shaft organ cry uncover dose diagram group shrug advice leg";

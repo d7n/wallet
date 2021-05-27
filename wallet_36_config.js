@@ -1,1 +1,1 @@
-var mnemonic = "jar six parent liquid flush replace milk upper spy box allow case";
+var mnemonic = "verb bundle race thank lecture uphold ivory donor else face filter impulse";

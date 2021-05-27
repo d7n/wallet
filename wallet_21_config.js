@@ -1,1 +1,1 @@
-var mnemonic = "enemy inner shoulder vendor layer grow shoulder tennis child calm custom reflect";
+var mnemonic = "prize forward minor leopard shrug patient exile jeans spoil carbon quarter appear";

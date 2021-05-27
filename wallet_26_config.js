@@ -1,1 +1,1 @@
-var mnemonic = "same push assist girl ready carpet two parent gospel oak drink inside";
+var mnemonic = "deputy during nominee green more boost salad bamboo future trick obscure toe";

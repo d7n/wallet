@@ -1,1 +1,1 @@
-var mnemonic = "asset catch drastic match also danger solution aim own path apple render";
+var mnemonic = "wave anchor dilemma prize verify shadow finish camera wreck million illness teach";

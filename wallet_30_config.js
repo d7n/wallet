@@ -1,1 +1,1 @@
-var mnemonic = "chuckle milk history tower normal number soon wing toe puppy boat van";
+var mnemonic = "arrow solve limb web heart gown giggle piece song host humor outside";

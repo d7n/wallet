@@ -1,1 +1,1 @@
-var mnemonic = "leader minimum method divide vivid spoon taxi noise economy barely vacuum tail";
+var mnemonic = "rocket gain reopen filter service praise bottom tomato foster fashion canyon mean";

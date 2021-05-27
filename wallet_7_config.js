@@ -1,1 +1,1 @@
-var mnemonic = "cigar service bird unique solution vacant suit actress three office credit wide";
+var mnemonic = "endless shiver repeat trip dizzy space feature twice hamster silver simple soda";

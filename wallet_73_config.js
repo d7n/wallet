@@ -1,1 +1,1 @@
-var mnemonic = "small asthma food luxury still ankle daughter minute merit arrow clever visit";
+var mnemonic = "master brisk six hover ocean junior rude regret shuffle remind often page";

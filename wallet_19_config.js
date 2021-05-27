@@ -1,1 +1,1 @@
-var mnemonic = "pair walnut struggle minute there hero purpose stomach ice estate bulk view";
+var mnemonic = "tongue winter autumn chef indoor grunt swim any cactus milk theme cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "giant act case rice neglect enhance elder guard flag lab extend cheap";
+var mnemonic = "chapter chef creek earth there clarify lens recipe tired dentist benefit runway";

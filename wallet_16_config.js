@@ -1,1 +1,1 @@
-var mnemonic = "rent various exotic minimum tongue exhaust lawn ketchup okay short jealous blood";
+var mnemonic = "review aim physical spy aware cotton brick valid hotel cream popular endless";

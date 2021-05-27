@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow toilet side slogan stereo eagle load relax debate satisfy hair pet";
+var mnemonic = "tower limb tomorrow wish predict grow shiver hobby glance stereo buyer pitch";

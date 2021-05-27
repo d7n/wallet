@@ -1,1 +1,1 @@
-var mnemonic = "drama ice still jewel kite veteran guitar junior area double slice knock";
+var mnemonic = "pistol drum tattoo creek rice inhale dog save whisper slogan genuine pact";

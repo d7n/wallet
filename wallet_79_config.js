@@ -1,1 +1,1 @@
-var mnemonic = "smoke team quit various pear celery ride input engage average nasty crane";
+var mnemonic = "bridge carry present wrist run firm insect know horn cliff cost picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "fly energy admit book public design castle sister rare danger knock exit";
+var mnemonic = "pond blue virus thumb indicate address ritual pioneer snack fruit ghost weekend";

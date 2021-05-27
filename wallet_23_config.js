@@ -1,1 +1,1 @@
-var mnemonic = "inherit struggle armed write love admit birth energy vote solution believe history";
+var mnemonic = "around rain autumn client knee dignity elite silly bread critic apple mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "seven door nuclear endless reveal fossil clump bag model repair carbon slush";
+var mnemonic = "fade amateur bread key culture frame endless since moral daughter shrug capable";

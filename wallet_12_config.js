@@ -1,1 +1,1 @@
-var mnemonic = "usual moment suffer bitter cart spatial abstract silver swarm keen prefer hire";
+var mnemonic = "genuine arrow mind release hair square toward dad book tree clerk inch";

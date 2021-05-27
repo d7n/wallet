@@ -1,1 +1,1 @@
-var mnemonic = "mystery addict crew bind plunge siren vocal material catalog interest guilt inch";
+var mnemonic = "method trim vacuum execute throw obscure trial essay stomach credit mushroom anxiety";

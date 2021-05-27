@@ -1,1 +1,1 @@
-var mnemonic = "again ranch hospital firm argue you gaze paddle curve tomorrow spoil jewel";
+var mnemonic = "magnet sniff market grid invest pistol noble foam pact crawl fever unfair";

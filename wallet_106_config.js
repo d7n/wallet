@@ -1,1 +1,1 @@
-var mnemonic = "because proud wheat tortoise category nephew banana fresh cat truth noise wool";
+var mnemonic = "wheat clay quantum cabbage marble knee apology reform total first over drum";

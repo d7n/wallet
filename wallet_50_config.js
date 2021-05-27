@@ -1,1 +1,1 @@
-var mnemonic = "spy jewel vital distance nothing wrap matrix medal razor life sand chunk";
+var mnemonic = "drip wrong derive garden aware addict tornado provide distance soda error attend";

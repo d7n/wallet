@@ -1,1 +1,1 @@
-var mnemonic = "motion lab couple relief kind benefit kangaroo legend guide more defy together";
+var mnemonic = "renew image worth isolate observe clip observe rib moral drama turn fan";

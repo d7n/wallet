@@ -1,1 +1,1 @@
-var mnemonic = "caught very relax farm note forward stamp leave gallery gold home snow";
+var mnemonic = "mail enough beyond tone disorder soldier affair absent sibling knife industry corn";

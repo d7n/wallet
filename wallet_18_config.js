@@ -1,1 +1,1 @@
-var mnemonic = "reopen shed warrior pact live unfair enrich position relax mother soccer estate";
+var mnemonic = "sunset defense oil hand owner kite place repair silver twelve congress round";

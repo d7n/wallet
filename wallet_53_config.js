@@ -1,1 +1,1 @@
-var mnemonic = "dutch truck figure resemble trial oxygen park always trick submit sorry mosquito";
+var mnemonic = "robust select ankle primary asset chase seek fuel mule upgrade snow upper";
