@@ -1,1 +1,1 @@
-var mnemonic = "sibling crunch senior atom risk author april crazy mask display pink skill";
+var mnemonic = "chest same angry fatal lonely source gate melody filter close love culture";

@@ -1,1 +1,1 @@
-var mnemonic = "usual dash iron remove tag save abuse news shed find soccer road";
+var mnemonic = "gym siege become banner hero much cushion want pudding fossil casual protect";

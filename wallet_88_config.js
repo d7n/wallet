@@ -1,1 +1,1 @@
-var mnemonic = "fiber bike abandon survey dinner cruise segment this open pill fringe hill";
+var mnemonic = "amazing cattle toss woman prevent manage select portion pave reopen tortoise describe";

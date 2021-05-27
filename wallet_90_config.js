@@ -1,1 +1,1 @@
-var mnemonic = "treat electric maximum accuse deal menu clerk own push term bargain height";
+var mnemonic = "grid few index isolate myself develop zoo vault client provide ladder subway";

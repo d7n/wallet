@@ -1,1 +1,1 @@
-var mnemonic = "desert clown begin parade prevent bronze topic eight cheese grief spawn sketch";
+var mnemonic = "slot volcano put strike unaware awesome deputy shield catalog pen story pilot";

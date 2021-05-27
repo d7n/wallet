@@ -1,1 +1,1 @@
-var mnemonic = "limit prefer portion ugly throw lecture glass device alone afford breeze exile";
+var mnemonic = "spirit lend claw slam sad glow rate illness potato dream disagree chronic";

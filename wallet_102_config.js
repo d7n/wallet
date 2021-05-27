@@ -1,1 +1,1 @@
-var mnemonic = "print access fat either feel almost bike water autumn border gift ensure";
+var mnemonic = "skate shoe earth half actor dish much rule polar embrace canvas idle";

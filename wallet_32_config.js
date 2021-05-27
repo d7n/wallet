@@ -1,1 +1,1 @@
-var mnemonic = "blast nephew exclude shiver globe lumber garden spoon nose crop tired mean";
+var mnemonic = "also physical rough thought like still repair clay man soul toddler express";

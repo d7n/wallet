@@ -1,1 +1,1 @@
-var mnemonic = "stock found ramp marble little cabin blind describe spoil eye hybrid joke";
+var mnemonic = "come inmate smile brisk clever mercy announce girl kangaroo ethics general blanket";

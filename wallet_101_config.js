@@ -1,1 +1,1 @@
-var mnemonic = "glide rely universe utility scrub injury estate rotate timber small resemble together";
+var mnemonic = "aware tiger car rapid bike hood together captain absent aisle just process";

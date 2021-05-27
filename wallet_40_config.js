@@ -1,1 +1,1 @@
-var mnemonic = "solid misery gym bless blouse bunker visit confirm tell basket ten grit";
+var mnemonic = "shell violin two swamp deal link bacon eight whisper unusual ramp symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "foam warfare torch media boss cash view invest hundred cat draft correct";
+var mnemonic = "yellow absent arm track wrap horse height endless stumble fat hub basket";

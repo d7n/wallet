@@ -1,1 +1,1 @@
-var mnemonic = "avoid talk code excite vendor outer lumber night crucial tissue gift apology";
+var mnemonic = "kit scene rug flavor clerk code recipe bird nature develop arctic tuna";

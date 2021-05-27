@@ -1,1 +1,1 @@
-var mnemonic = "scene space lounge man slush treat metal peanut wage pause page easy";
+var mnemonic = "area left topple naive catch remember use sweet begin matter fresh neck";

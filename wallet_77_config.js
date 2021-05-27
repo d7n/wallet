@@ -1,1 +1,1 @@
-var mnemonic = "tower hand shuffle february abuse excess egg note art diesel ecology antenna";
+var mnemonic = "coast autumn secret quantum pause inspire discover wear shadow cargo time supply";

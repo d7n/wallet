@@ -1,1 +1,1 @@
-var mnemonic = "hat more ugly inside jewel company two angle tree host sphere goose";
+var mnemonic = "brick feel panel limb such quantum capital goose peanut upon noodle general";

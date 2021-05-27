@@ -1,1 +1,1 @@
-var mnemonic = "blanket pilot pony seven snow silly kitchen pond kind clerk index celery";
+var mnemonic = "stone oxygen remove pretty calm antique vocal cube first voyage dance door";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss mango share tornado hole mean surface candy inform chest town job";
+var mnemonic = "spin damage provide kick quote split mandate ticket inside wear forest arrange";

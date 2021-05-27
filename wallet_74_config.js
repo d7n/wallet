@@ -1,1 +1,1 @@
-var mnemonic = "public review snap across cage bundle resource adult dress rifle weird neglect";
+var mnemonic = "spread police sail grain people vintage between resemble doctor rice sphere vehicle";

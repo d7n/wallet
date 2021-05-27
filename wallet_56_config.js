@@ -1,1 +1,1 @@
-var mnemonic = "taxi typical cabbage claw delay minute upset lion cupboard entire slam strategy";
+var mnemonic = "sing rose faculty strategy rescue entry cancel diamond fly saddle scene lesson";

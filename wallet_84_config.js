@@ -1,1 +1,1 @@
-var mnemonic = "clinic width note awful pulp pattern hazard stadium consider fruit render adapt";
+var mnemonic = "vapor group expose clean debate cradle business side belt vapor hockey swift";

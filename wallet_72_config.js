@@ -1,1 +1,1 @@
-var mnemonic = "fatigue method fury reveal duty wash correct genius sell east minute lecture";
+var mnemonic = "cloth cactus sister language lamp boil uniform tunnel actual fan mechanic alpha";

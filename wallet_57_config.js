@@ -1,1 +1,1 @@
-var mnemonic = "exhaust blouse ship amazing general bullet remind subject idea online divide surround";
+var mnemonic = "friend unit easy mammal glad render despair transfer misery parrot tornado kidney";

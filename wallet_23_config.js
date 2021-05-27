@@ -1,1 +1,1 @@
-var mnemonic = "arctic future amateur dolphin bachelor web pudding found uphold when dentist evoke";
+var mnemonic = "panel soul favorite fun rigid attract dress reduce stadium art current slide";

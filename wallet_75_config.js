@@ -1,1 +1,1 @@
-var mnemonic = "shove cute carry swing race surprise blame tumble tail wool attitude human";
+var mnemonic = "glue zoo remember genre local market crane million daughter jacket hurt narrow";

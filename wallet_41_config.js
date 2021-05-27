@@ -1,1 +1,1 @@
-var mnemonic = "gorilla rare clock vault boss soda surprise damage oil decade snow charge";
+var mnemonic = "similar minute galaxy laptop explain erosion cream ostrich require argue rifle mobile";

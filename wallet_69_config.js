@@ -1,1 +1,1 @@
-var mnemonic = "heavy anxiety panda awful arch pear mask valley dragon impact onion cross";
+var mnemonic = "pledge mango swift slim alcohol replace kind gravity menu fiction always divorce";

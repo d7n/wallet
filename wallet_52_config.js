@@ -1,1 +1,1 @@
-var mnemonic = "chase latin leopard bracket spend convince rice race come exclude save furnace";
+var mnemonic = "steak wash stay right differ boring truck squeeze goose impact riot dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "lock normal foster balcony volume visit sibling forest achieve pole slender used";
+var mnemonic = "gap bright rude before question express weird flock celery chef film caution";

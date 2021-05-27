@@ -1,1 +1,1 @@
-var mnemonic = "degree attitude indoor matter cycle fiscal reward sure pelican carbon copper purpose";
+var mnemonic = "left unveil pioneer ranch town become purse buzz evidence legal duty pattern";

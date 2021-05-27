@@ -1,1 +1,1 @@
-var mnemonic = "occur bonus tower solution primary prepare sleep evidence illegal industry trade avocado";
+var mnemonic = "settle oval entry sister obey protect entire kick faith valley call hard";

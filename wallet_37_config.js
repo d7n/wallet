@@ -1,1 +1,1 @@
-var mnemonic = "cannon wish denial dizzy coil layer ketchup night stay unveil original credit";
+var mnemonic = "install truth actor tiger aerobic enemy tobacco gravity vapor popular toast immense";

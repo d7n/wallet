@@ -1,1 +1,1 @@
-var mnemonic = "foam eager biology panda woman list carpet bar quiz unfold teach silly";
+var mnemonic = "animal dash injury near math van deposit jump barely soda canyon vast";

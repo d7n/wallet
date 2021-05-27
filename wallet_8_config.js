@@ -1,1 +1,1 @@
-var mnemonic = "enemy pretty unveil baby orange normal way praise slow quality hidden suspect";
+var mnemonic = "okay pulp surface rail hidden canyon start hour intact celery average patrol";

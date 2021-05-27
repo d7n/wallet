@@ -1,1 +1,1 @@
-var mnemonic = "carpet bamboo prepare brick fiber hire purity giraffe quantum ribbon crop once";
+var mnemonic = "desert earth harsh motion midnight piece slight must tissue blanket jar space";

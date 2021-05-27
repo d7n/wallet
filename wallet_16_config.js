@@ -1,1 +1,1 @@
-var mnemonic = "bridge symbol blur exclude bicycle ten bulb energy lift invest broken sick";
+var mnemonic = "fatigue soup palace beach erase fetch spice zone common orbit disorder advice";

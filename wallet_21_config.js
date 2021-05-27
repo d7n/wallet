@@ -1,1 +1,1 @@
-var mnemonic = "bean logic surprise scale jump annual clarify olympic puppy tired diagram cart";
+var mnemonic = "lunch become exhaust magic post mixture play dismiss insect waste shoot region";

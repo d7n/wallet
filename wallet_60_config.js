@@ -1,1 +1,1 @@
-var mnemonic = "strong depth live earn fluid vacant audit jungle galaxy episode derive leaf";
+var mnemonic = "genuine gate voice balcony carry whisper fever option slogan embrace behave luggage";

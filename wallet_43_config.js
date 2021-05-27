@@ -1,1 +1,1 @@
-var mnemonic = "because focus arrest apart pipe sister slab know vacuum shoe civil online";
+var mnemonic = "pride layer identify august crane menu wage remove stick trash craft leaf";

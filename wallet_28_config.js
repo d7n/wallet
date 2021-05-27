@@ -1,1 +1,1 @@
-var mnemonic = "remind next sort month economy wrestle clap promote feature identify juice immune";
+var mnemonic = "matter metal bundle enable stadium slow stool six scare organ clay awesome";

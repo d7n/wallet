@@ -1,1 +1,1 @@
-var mnemonic = "space almost lock duck improve skin gauge myself spray tribe pet canal";
+var mnemonic = "gap token antique armed journey ball want much anger vapor guide occur";

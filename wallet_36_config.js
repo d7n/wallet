@@ -1,1 +1,1 @@
-var mnemonic = "flight bid caught keep pride village innocent ramp film flag social sustain";
+var mnemonic = "clown spring tortoise kiwi help avoid ridge stool stamp shield cave entry";

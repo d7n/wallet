@@ -1,1 +1,1 @@
-var mnemonic = "ball wrist garbage slender pizza mask shuffle corn sniff genius message lawn";
+var mnemonic = "spice fix dutch people twin near violin public salmon arrange eternal wheel";

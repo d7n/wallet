@@ -1,1 +1,1 @@
-var mnemonic = "cruel can remain rent attend next amateur catalog fog vicious hole display";
+var mnemonic = "nasty wet heart frequent bring fix trick amused ring attitude vessel mountain";

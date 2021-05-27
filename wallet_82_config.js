@@ -1,1 +1,1 @@
-var mnemonic = "patrol amount what join afford people fatal useless agent resemble property alien";
+var mnemonic = "phrase absurd swallow cereal crisp solar all deny ignore tell enough devote";

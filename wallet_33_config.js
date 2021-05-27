@@ -1,1 +1,1 @@
-var mnemonic = "ugly track invest cave stand sport refuse violin giant lizard february bounce";
+var mnemonic = "valley leisure dog record ugly actual slim galaxy satoshi yard select habit";

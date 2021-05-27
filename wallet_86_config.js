@@ -1,1 +1,1 @@
-var mnemonic = "world life furnace rough october source start plate maple prize hover census";
+var mnemonic = "spawn popular parrot polar gorilla noodle planet present belt elephant code fence";

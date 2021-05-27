@@ -1,1 +1,1 @@
-var mnemonic = "sell fog envelope drop love trend turtle symptom stock include toy edge";
+var mnemonic = "item arch direct edit brown live market fat unlock company comic comfort";

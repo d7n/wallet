@@ -1,1 +1,1 @@
-var mnemonic = "wise gallery juice hold box civil panther smoke butter risk side salon";
+var mnemonic = "unaware tower output sail wrong light degree sugar kit veteran income risk";

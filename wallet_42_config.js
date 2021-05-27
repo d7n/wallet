@@ -1,1 +1,1 @@
-var mnemonic = "normal treat margin wasp grocery express odor dinosaur august predict ridge horse";
+var mnemonic = "note name fossil steel course vocal lawsuit exist beyond suffer skin cash";

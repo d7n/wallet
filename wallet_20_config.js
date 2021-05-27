@@ -1,1 +1,1 @@
-var mnemonic = "floor actor few credit will stumble still napkin learn foil palm bracket";
+var mnemonic = "guard section endless into suggest laundry you answer minimum organ water frozen";

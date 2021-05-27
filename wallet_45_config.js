@@ -1,1 +1,1 @@
-var mnemonic = "also enter nuclear analyst clean chapter hat clean critic matter tray swarm";
+var mnemonic = "already afraid wage scout lizard olive wire bright leave renew acid library";

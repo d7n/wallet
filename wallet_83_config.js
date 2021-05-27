@@ -1,1 +1,1 @@
-var mnemonic = "hawk busy swim good what air curtain acid ridge twelve butter body";
+var mnemonic = "mimic slow mimic oven climb genre affair couch old artefact half gown";

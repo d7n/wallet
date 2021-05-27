@@ -1,1 +1,1 @@
-var mnemonic = "theory length reveal whisper mask high yellow spawn alert inch rebel equip";
+var mnemonic = "bullet helmet convince pioneer spice rule cabbage purpose pistol lava enough clerk";

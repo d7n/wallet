@@ -1,1 +1,1 @@
-var mnemonic = "surge install analyst cheese home fatal crouch remind physical civil where vital";
+var mnemonic = "crunch pipe task loan supply regular staff section anxiety wise twelve sadness";

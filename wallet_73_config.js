@@ -1,1 +1,1 @@
-var mnemonic = "copper beach wash age document any price abuse liberty gate mouse mountain";
+var mnemonic = "attack fox ball start tragic useful dog valley later boring panic cute";

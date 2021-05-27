@@ -1,1 +1,1 @@
-var mnemonic = "ugly wreck infant file birth squirrel foster plug board capital assault question";
+var mnemonic = "horse property daring slender harvest fan quick effort test gun bridge illness";

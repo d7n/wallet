@@ -1,1 +1,1 @@
-var mnemonic = "small grass edge sweet pepper expire human ghost spring series fan worth";
+var mnemonic = "vintage street crisp worry vague group square faculty sort program sphere cart";

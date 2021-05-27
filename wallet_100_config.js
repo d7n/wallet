@@ -1,1 +1,1 @@
-var mnemonic = "cluster disease impulse tragic fury deputy can shuffle cabbage toward alarm way";
+var mnemonic = "couple valve vocal ill lunar run music dry recipe six carry already";

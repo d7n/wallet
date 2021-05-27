@@ -1,1 +1,1 @@
-var mnemonic = "rebuild track claw shell hedgehog attract fossil skull staff around hole mask";
+var mnemonic = "burger repair art seven feature flash language shop page mail empower uncle";

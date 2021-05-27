@@ -1,1 +1,1 @@
-var mnemonic = "slush boat glimpse educate range blouse quit liquid coconut welcome suspect sudden";
+var mnemonic = "defy defense employ solution question device soap fox siren movie hobby oil";

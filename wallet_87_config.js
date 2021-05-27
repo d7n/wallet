@@ -1,1 +1,1 @@
-var mnemonic = "fetch model blame fetch journey level monster cargo spend ankle increase legal";
+var mnemonic = "rescue fever army crouch regular throw able unaware horse forest warfare face";

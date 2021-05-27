@@ -1,1 +1,1 @@
-var mnemonic = "deer rhythm shield wreck thank clean cube melt million secret castle drop";
+var mnemonic = "shallow cash shield payment harbor muscle wheat more foam message broccoli derive";

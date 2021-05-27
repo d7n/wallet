@@ -1,1 +1,1 @@
-var mnemonic = "deliver copy grocery ritual cousin current road same mountain violin resist broccoli";
+var mnemonic = "diagram load mirror cherry trouble misery insane loan wheat measure dove awake";

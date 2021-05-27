@@ -1,1 +1,1 @@
-var mnemonic = "coach shallow shoulder length battle raw process rare dilemma comfort silent trial";
+var mnemonic = "lizard prize canvas into bullet idea elegant blue dutch stereo pink purchase";

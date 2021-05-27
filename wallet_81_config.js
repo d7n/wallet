@@ -1,1 +1,1 @@
-var mnemonic = "stage unfair begin wide gentle sentence satoshi middle oyster drink wolf menu";
+var mnemonic = "proud pottery drill often coconut manage slot pill hood innocent another piece";

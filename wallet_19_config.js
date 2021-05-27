@@ -1,1 +1,1 @@
-var mnemonic = "radio intact forum antique mom chef cage crucial thank another bubble wonder";
+var mnemonic = "focus dice chest dinosaur appear car vital nuclear vacuum orient they ride";

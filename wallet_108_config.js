@@ -1,1 +1,1 @@
-var mnemonic = "exist gadget mean world advice mean degree private gorilla dress require census";
+var mnemonic = "length shadow small ship clap cave voice sunny deer puzzle boring galaxy";

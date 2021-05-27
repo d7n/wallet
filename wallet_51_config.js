@@ -1,1 +1,1 @@
-var mnemonic = "shove rent just steel engage kangaroo enroll genre poverty inflict top notable";
+var mnemonic = "deal chicken lonely enough egg child side debris piano foster canyon finish";

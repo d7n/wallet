@@ -1,1 +1,1 @@
-var mnemonic = "early grass endorse honey thumb flower home advance glove brick august crime";
+var mnemonic = "domain basket catch chair vast crime regular region pony dumb mistake always";

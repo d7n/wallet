@@ -1,1 +1,1 @@
-var mnemonic = "floor cute dust cradle when clerk silent best place about wheel identify";
+var mnemonic = "drum drum pigeon phone brain armed caution crouch nice horn sentence critic";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna review agent segment swap because mule total purchase typical company kidney";
+var mnemonic = "private ticket brave absurd debate elegant gallery bonus kiwi cover next mean";

@@ -1,1 +1,1 @@
-var mnemonic = "drip cloth sea speed bench upon present wish grit rescue assist put";
+var mnemonic = "surface oxygen ordinary battle slight cannon derive age either index figure gossip";

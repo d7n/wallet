@@ -1,1 +1,1 @@
-var mnemonic = "cream can animal inject put flavor baby next main flee option slice";
+var mnemonic = "scissors tree boat more door guess again cotton dilemma any decade soon";

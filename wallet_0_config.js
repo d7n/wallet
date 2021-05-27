@@ -1,1 +1,1 @@
-var mnemonic = "elder similar refuse install humble favorite budget snake team until fatigue harvest";
+var mnemonic = "rail trumpet awkward curve manual extend actual slush basic record illegal pudding";

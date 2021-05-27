@@ -1,1 +1,1 @@
-var mnemonic = "basic sort wrestle school dance soccer dry young corn inhale merge surround";
+var mnemonic = "upon work car circle throw chair liar physical stick knife vintage rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "price venture suggest project invest loop source indoor this cube shadow private";
+var mnemonic = "mirror wealth zebra rain siren stable burst thank draw depart resource strong";

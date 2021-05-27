@@ -1,1 +1,1 @@
-var mnemonic = "garden bean deal horn harsh between laugh dinner tail horn elegant market";
+var mnemonic = "oval gain identify boost dream arch napkin ostrich reward custom card humble";

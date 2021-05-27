@@ -1,1 +1,1 @@
-var mnemonic = "oven traffic hybrid gravity bachelor hat steak typical retire pioneer naive flame";
+var mnemonic = "axis mandate outdoor common later wreck gasp office rigid enrich obscure code";

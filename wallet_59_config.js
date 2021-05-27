@@ -1,1 +1,1 @@
-var mnemonic = "try despair pepper ramp manual again present wedding indoor inject wagon fan";
+var mnemonic = "suit argue brother orbit enact time view also plug scrub hospital friend";

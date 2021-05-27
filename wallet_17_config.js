@@ -1,1 +1,1 @@
-var mnemonic = "vivid hand throw fall frozen around hammer display organ scatter vague mask";
+var mnemonic = "recall because outside group anchor pigeon share feed harvest bonus six empower";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine forget nuclear public gesture around liberty tattoo leave purse end chicken";
+var mnemonic = "bring cruel maid flavor rare canvas tissue eager film oven frost surprise";

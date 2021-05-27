@@ -1,1 +1,1 @@
-var mnemonic = "shed train advice police inner muffin whip soldier evoke patient oyster plastic";
+var mnemonic = "top buddy invest pull settle deposit abuse cart used spin skirt lecture";

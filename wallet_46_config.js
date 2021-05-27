@@ -1,1 +1,1 @@
-var mnemonic = "fever hammer tomorrow ribbon picture coin vacuum deal woman polar spice remember";
+var mnemonic = "text embody typical narrow cotton orient spawn movie exhibit dynamic since light";

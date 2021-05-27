@@ -1,1 +1,1 @@
-var mnemonic = "creek black summer problem pipe mirror blanket police rough shop concert laundry";
+var mnemonic = "crash sustain culture whisper pole asthma middle mixed tank mom arctic salad";

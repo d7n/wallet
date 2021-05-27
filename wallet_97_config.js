@@ -1,1 +1,1 @@
-var mnemonic = "ceiling similar onion quick time account silent skill face ride man earth";
+var mnemonic = "evolve truth gorilla puzzle story bracket brick clock pepper tornado copy cactus";

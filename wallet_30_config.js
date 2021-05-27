@@ -1,1 +1,1 @@
-var mnemonic = "vanish sorry episode vital thumb deposit broccoli sing trap mimic energy laundry";
+var mnemonic = "room example vague man fresh foam teach audit casual suffer glue zone";

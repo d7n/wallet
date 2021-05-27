@@ -1,1 +1,1 @@
-var mnemonic = "tackle office must shine duty month frame success track sugar link correct";
+var mnemonic = "asthma lab whip pride desert swim organ pumpkin youth hope area stereo";

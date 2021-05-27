@@ -1,1 +1,1 @@
-var mnemonic = "student lyrics endless country lab sport music proud soda jealous soul velvet";
+var mnemonic = "fault flash manual prepare juice midnight deputy dolphin network wild crater cigar";

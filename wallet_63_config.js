@@ -1,1 +1,1 @@
-var mnemonic = "amateur topple prosper soul banner there mule truth stay eight smile truth";
+var mnemonic = "unfold ready furnace pet another tooth alone face give cheap moment friend";

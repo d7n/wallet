@@ -1,1 +1,1 @@
-var mnemonic = "race twice dust group sniff valid grass cabbage danger father rural royal";
+var mnemonic = "goddess subway paddle donate reveal essence quick live canvas write ride vendor";

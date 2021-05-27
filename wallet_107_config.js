@@ -1,1 +1,1 @@
-var mnemonic = "cement twin history pudding violin bonus defense spread hold shrimp holiday kit";
+var mnemonic = "lazy account topic finish endorse crop brass breeze diary happy tongue rate";
