@@ -1,1 +1,1 @@
-var mnemonic = "recall because outside group anchor pigeon share feed harvest bonus six empower";
+var mnemonic = "nerve cement flower cover elevator flight announce lemon smooth tone dice social";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery embody market ski level laundry reveal settle place paper cost you";
+var mnemonic = "invite student weasel dinner close disorder army slush scene guitar habit doll";

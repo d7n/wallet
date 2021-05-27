@@ -1,1 +1,1 @@
-var mnemonic = "spice fix dutch people twin near violin public salmon arrange eternal wheel";
+var mnemonic = "glove humble zebra salute useless abuse salmon raccoon denial rotate require topic";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor group expose clean debate cradle business side belt vapor hockey swift";
+var mnemonic = "anxiety cloth noodle legend mother birth early usage day swift sentence elevator";

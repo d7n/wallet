@@ -1,1 +1,1 @@
-var mnemonic = "axis mandate outdoor common later wreck gasp office rigid enrich obscure code";
+var mnemonic = "misery satoshi snow foam piece chunk photo turkey pause beauty beauty wrestle";

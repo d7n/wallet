@@ -1,1 +1,1 @@
-var mnemonic = "already afraid wage scout lizard olive wire bright leave renew acid library";
+var mnemonic = "arrow admit tenant attitude brass sort phrase coast dash crop learn define";

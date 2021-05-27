@@ -1,1 +1,1 @@
-var mnemonic = "shove hybrid install copper puzzle purse desert rent friend success mountain before";
+var mnemonic = "cute equal tilt snack subway genuine clever huge merry pigeon belt labor";

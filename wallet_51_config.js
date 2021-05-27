@@ -1,1 +1,1 @@
-var mnemonic = "deal chicken lonely enough egg child side debris piano foster canyon finish";
+var mnemonic = "chase truth voyage cross arrive album else riot envelope source lava swim";

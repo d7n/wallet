@@ -1,1 +1,1 @@
-var mnemonic = "mimic slow mimic oven climb genre affair couch old artefact half gown";
+var mnemonic = "reason route develop evidence pudding mean tower equal dutch vintage glove brown";

@@ -1,1 +1,1 @@
-var mnemonic = "install truth actor tiger aerobic enemy tobacco gravity vapor popular toast immense";
+var mnemonic = "poem visual true empty drastic tilt message victory stadium engage autumn captain";

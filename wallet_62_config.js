@@ -1,1 +1,1 @@
-var mnemonic = "come inmate smile brisk clever mercy announce girl kangaroo ethics general blanket";
+var mnemonic = "promote frown vendor mansion try excite cheap reason draft mercy female amateur";

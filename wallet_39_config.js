@@ -1,1 +1,1 @@
-var mnemonic = "gym siege become banner hero much cushion want pudding fossil casual protect";
+var mnemonic = "chicken size wire aunt cheese cotton domain carpet meat coast cruel shaft";

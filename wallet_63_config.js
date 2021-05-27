@@ -1,1 +1,1 @@
-var mnemonic = "unfold ready furnace pet another tooth alone face give cheap moment friend";
+var mnemonic = "include trophy oval crime silly thought case solve fantasy place much cluster";

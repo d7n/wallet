@@ -1,1 +1,1 @@
-var mnemonic = "sing rose faculty strategy rescue entry cancel diamond fly saddle scene lesson";
+var mnemonic = "aisle scorpion knock march switch medal squeeze follow unit recipe vague energy";

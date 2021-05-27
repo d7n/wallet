@@ -1,1 +1,1 @@
-var mnemonic = "proud pottery drill often coconut manage slot pill hood innocent another piece";
+var mnemonic = "snap detail orange hello boring mandate ticket dentist filter city teach way";

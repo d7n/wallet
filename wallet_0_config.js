@@ -1,1 +1,1 @@
-var mnemonic = "rail trumpet awkward curve manual extend actual slush basic record illegal pudding";
+var mnemonic = "primary mixed rapid gaze review vibrant miracle airport math route alcohol spin";

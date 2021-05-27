@@ -1,1 +1,1 @@
-var mnemonic = "left unveil pioneer ranch town become purse buzz evidence legal duty pattern";
+var mnemonic = "casual zone visa zero school rebel slim demise silver click try symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit lend claw slam sad glow rate illness potato dream disagree chronic";
+var mnemonic = "mistake where cousin skate shuffle enforce cannon market steak mask sun apple";

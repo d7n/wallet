@@ -1,1 +1,1 @@
-var mnemonic = "amazing cattle toss woman prevent manage select portion pave reopen tortoise describe";
+var mnemonic = "child debris scene feed reveal october field warrior advice inquiry clown way";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch become exhaust magic post mixture play dismiss insect waste shoot region";
+var mnemonic = "elephant river mandate security awesome reason blush old fiber fluid again obscure";

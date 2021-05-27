@@ -1,1 +1,1 @@
-var mnemonic = "similar minute galaxy laptop explain erosion cream ostrich require argue rifle mobile";
+var mnemonic = "length miracle guide odor resource spirit speak draft idle grief tackle document";

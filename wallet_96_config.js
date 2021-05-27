@@ -1,1 +1,1 @@
-var mnemonic = "domain basket catch chair vast crime regular region pony dumb mistake always";
+var mnemonic = "session traffic deliver custom release involve balcony treat stuff struggle gift dignity";

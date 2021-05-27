@@ -1,1 +1,1 @@
-var mnemonic = "bullet helmet convince pioneer spice rule cabbage purpose pistol lava enough clerk";
+var mnemonic = "inflict bridge legend unknown bonus involve moral music fever flip bean save";

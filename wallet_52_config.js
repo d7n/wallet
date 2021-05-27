@@ -1,1 +1,1 @@
-var mnemonic = "steak wash stay right differ boring truck squeeze goose impact riot dumb";
+var mnemonic = "lemon script armed dragon between effort finger thought record mix round vital";

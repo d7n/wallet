@@ -1,1 +1,1 @@
-var mnemonic = "area left topple naive catch remember use sweet begin matter fresh neck";
+var mnemonic = "rail weekend isolate search cushion pulse barrel dismiss shrimp burger together chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage street crisp worry vague group square faculty sort program sphere cart";
+var mnemonic = "fury curtain scheme laptop million plug rather proud energy license alien bundle";

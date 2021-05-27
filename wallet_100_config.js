@@ -1,1 +1,1 @@
-var mnemonic = "couple valve vocal ill lunar run music dry recipe six carry already";
+var mnemonic = "divert tone toss prepare exile hobby enhance theme present enjoy giggle major";

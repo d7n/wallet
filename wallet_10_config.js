@@ -1,1 +1,1 @@
-var mnemonic = "original bulb equal fault afraid shoot man spin excuse swim opera village";
+var mnemonic = "keep orange foil reopen injury index sphere actor junk spawn bubble album";

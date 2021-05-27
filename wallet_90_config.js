@@ -1,1 +1,1 @@
-var mnemonic = "grid few index isolate myself develop zoo vault client provide ladder subway";
+var mnemonic = "choice spray copy guilt aware clap wife drop require jealous afraid pioneer";

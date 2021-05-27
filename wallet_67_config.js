@@ -1,1 +1,1 @@
-var mnemonic = "scissors tree boat more door guess again cotton dilemma any decade soon";
+var mnemonic = "address shoulder sick unknown bleak recycle title cute umbrella series defy squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "focus dice chest dinosaur appear car vital nuclear vacuum orient they ride";
+var mnemonic = "slam exit stage guide fold alley split park panic scan siege goose";

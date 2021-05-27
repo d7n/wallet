@@ -1,1 +1,1 @@
-var mnemonic = "maze number illegal crisp patch pitch soldier seminar tribe census discover wish";
+var mnemonic = "perfect giggle diet regret write parade add blur girl river family salad";

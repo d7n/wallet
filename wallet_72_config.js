@@ -1,1 +1,1 @@
-var mnemonic = "cloth cactus sister language lamp boil uniform tunnel actual fan mechanic alpha";
+var mnemonic = "garage ecology foster lyrics magic select army case drift magnet scare opera";

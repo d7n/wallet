@@ -1,1 +1,1 @@
-var mnemonic = "goddess subway paddle donate reveal essence quick live canvas write ride vendor";
+var mnemonic = "price cart clay choose trap unaware club own echo good minute empty";

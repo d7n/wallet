@@ -1,1 +1,1 @@
-var mnemonic = "kit scene rug flavor clerk code recipe bird nature develop arctic tuna";
+var mnemonic = "garlic ranch fox close radar dentist coast monitor omit dignity path income";

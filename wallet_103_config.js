@@ -1,1 +1,1 @@
-var mnemonic = "mirror wealth zebra rain siren stable burst thank draw depart resource strong";
+var mnemonic = "assume grain episode kangaroo usage social siege honey lyrics laptop spoil struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "suit argue brother orbit enact time view also plug scrub hospital friend";
+var mnemonic = "latin away worry impose orbit nut erase armed awake pond supreme vote";

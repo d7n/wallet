@@ -1,1 +1,1 @@
-var mnemonic = "movie love enemy order nuclear blanket above visual carpet ladder lizard snack";
+var mnemonic = "venue waste marble leaf giant copper flush magnet warm million drift silk";

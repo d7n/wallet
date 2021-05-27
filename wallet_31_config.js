@@ -1,1 +1,1 @@
-var mnemonic = "ankle sheriff cycle kitten control fish twenty couple relax you shallow easily";
+var mnemonic = "nose bounce route panel obvious limb liquid neither enhance behave eternal imitate";

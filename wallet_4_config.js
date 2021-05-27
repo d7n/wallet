@@ -1,1 +1,1 @@
-var mnemonic = "wear garden party proud embark order snack reduce walk mule monster tiny";
+var mnemonic = "moment police observe close obey chaos cheese glue crush neglect grit typical";

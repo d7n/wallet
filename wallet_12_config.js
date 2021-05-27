@@ -1,1 +1,1 @@
-var mnemonic = "nasty wet heart frequent bring fix trick amused ring attitude vessel mountain";
+var mnemonic = "fun inject license ridge siren laugh mushroom gauge jeans provide way click";

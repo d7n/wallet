@@ -1,1 +1,1 @@
-var mnemonic = "item arch direct edit brown live market fat unlock company comic comfort";
+var mnemonic = "excuse stereo broom couple salute regular front current twin milk century throw";

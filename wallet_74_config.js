@@ -1,1 +1,1 @@
-var mnemonic = "spread police sail grain people vintage between resemble doctor rice sphere vehicle";
+var mnemonic = "bulk super front admit brain fox culture joy flat that brass glow";

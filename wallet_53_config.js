@@ -1,1 +1,1 @@
-var mnemonic = "still goose another inquiry move lion scale bid goose boss garage length";
+var mnemonic = "spring arm private setup mad speak latin dragon fold group retreat maid";

@@ -1,1 +1,1 @@
-var mnemonic = "drum drum pigeon phone brain armed caution crouch nice horn sentence critic";
+var mnemonic = "swing visit boy fantasy habit flower melt kiwi alert year system sweet";

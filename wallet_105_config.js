@@ -1,1 +1,1 @@
-var mnemonic = "spin damage provide kick quote split mandate ticket inside wear forest arrange";
+var mnemonic = "grocery sick repeat oppose cheese provide stadium write upset old come lake";

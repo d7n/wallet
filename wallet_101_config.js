@@ -1,1 +1,1 @@
-var mnemonic = "aware tiger car rapid bike hood together captain absent aisle just process";
+var mnemonic = "fold police churn bicycle swap group bomb any rhythm mention example fatigue";

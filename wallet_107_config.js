@@ -1,1 +1,1 @@
-var mnemonic = "lazy account topic finish endorse crop brass breeze diary happy tongue rate";
+var mnemonic = "agree awkward wasp fish unfold robust mad frequent know discover month badge";

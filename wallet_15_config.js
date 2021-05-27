@@ -1,1 +1,1 @@
-var mnemonic = "crash sustain culture whisper pole asthma middle mixed tank mom arctic salad";
+var mnemonic = "mansion sausage hurdle inhale film garden weapon soldier chunk increase model girl";

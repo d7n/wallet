@@ -1,1 +1,1 @@
-var mnemonic = "twice garden toddler educate judge pitch hint tomorrow drastic cargo total client";
+var mnemonic = "gospel attract buzz thought wrong one scout empty tuna visual odor push";

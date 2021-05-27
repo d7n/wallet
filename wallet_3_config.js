@@ -1,1 +1,1 @@
-var mnemonic = "easily memory sustain sponsor hunt unusual lizard aspect muffin word pottery speak";
+var mnemonic = "present crime culture enjoy jelly legend fashion output grocery ghost language scheme";

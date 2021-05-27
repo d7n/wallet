@@ -1,1 +1,1 @@
-var mnemonic = "yellow absent arm track wrap horse height endless stumble fat hub basket";
+var mnemonic = "upset sample toss arrange flock jealous radar shrug call bomb physical kitchen";

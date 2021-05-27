@@ -1,1 +1,1 @@
-var mnemonic = "length shadow small ship clap cave voice sunny deer puzzle boring galaxy";
+var mnemonic = "casual print slab erupt cover tuna clerk enjoy thank card garment merge";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue fever army crouch regular throw able unaware horse forest warfare face";
+var mnemonic = "hurry plunge recipe limb ivory action camera pilot arrive few alter amused";

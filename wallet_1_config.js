@@ -1,1 +1,1 @@
-var mnemonic = "brick feel panel limb such quantum capital goose peanut upon noodle general";
+var mnemonic = "clay ill gasp purity derive else brand left fossil grain school hard";

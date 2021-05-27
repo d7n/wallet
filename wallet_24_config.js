@@ -1,1 +1,1 @@
-var mnemonic = "ridge sadness marriage evidence west kid tunnel can still parent rug subway";
+var mnemonic = "script fiction ahead hockey deer carpet charge love come thing rifle deliver";

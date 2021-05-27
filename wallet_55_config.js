@@ -1,1 +1,1 @@
-var mnemonic = "detect toe smart scale return copy real swim admit van draft direct";
+var mnemonic = "slow cradle match level visit uniform blanket amazing develop diamond collect lake";

@@ -1,1 +1,1 @@
-var mnemonic = "edge actress file gesture business proud motion cancel offer omit umbrella fine";
+var mnemonic = "wrestle aunt arrive friend fatal educate hurry flock output depart grant park";

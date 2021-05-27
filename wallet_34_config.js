@@ -1,1 +1,1 @@
-var mnemonic = "shallow cash shield payment harbor muscle wheat more foam message broccoli derive";
+var mnemonic = "tail half worth casual water start gravity tomorrow person company depart pudding";

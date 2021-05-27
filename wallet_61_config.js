@@ -1,1 +1,1 @@
-var mnemonic = "top buddy invest pull settle deposit abuse cart used spin skirt lecture";
+var mnemonic = "outer deny life position afford list someone parade snap sudden crouch object";

@@ -1,1 +1,1 @@
-var mnemonic = "oval gain identify boost dream arch napkin ostrich reward custom card humble";
+var mnemonic = "tooth egg clap slim into syrup canal border depth warrior ridge swim";

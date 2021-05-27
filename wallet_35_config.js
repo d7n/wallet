@@ -1,1 +1,1 @@
-var mnemonic = "slot volcano put strike unaware awesome deputy shield catalog pen story pilot";
+var mnemonic = "year balance unveil champion ethics live shift proof suspect lunar intact math";

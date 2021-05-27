@@ -1,1 +1,1 @@
-var mnemonic = "burger repair art seven feature flash language shop page mail empower uncle";
+var mnemonic = "notable egg liquid glare same text chronic exercise clay tissue pizza fetch";

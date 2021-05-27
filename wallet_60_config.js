@@ -1,1 +1,1 @@
-var mnemonic = "genuine gate voice balcony carry whisper fever option slogan embrace behave luggage";
+var mnemonic = "valley artwork message dress possible guitar talent then expire lens hint box";

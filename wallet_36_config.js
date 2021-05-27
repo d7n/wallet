@@ -1,1 +1,1 @@
-var mnemonic = "clown spring tortoise kiwi help avoid ridge stool stamp shield cave entry";
+var mnemonic = "catch around hedgehog curious doll fun undo party table all cradle apart";

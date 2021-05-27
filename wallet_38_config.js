@@ -1,1 +1,1 @@
-var mnemonic = "horse property daring slender harvest fan quick effort test gun bridge illness";
+var mnemonic = "tube belt rapid demand lawn achieve tuition joy spy view away group";

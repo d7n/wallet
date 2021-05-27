@@ -1,1 +1,1 @@
-var mnemonic = "defy defense employ solution question device soap fox siren movie hobby oil";
+var mnemonic = "tank curious moment skin usual course okay insect pluck list neglect bike";

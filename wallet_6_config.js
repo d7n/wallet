@@ -1,1 +1,1 @@
-var mnemonic = "asthma lab whip pride desert swim organ pumpkin youth hope area stereo";
+var mnemonic = "dry marine toilet faculty walk planet uniform absurd amused knock math bonus";

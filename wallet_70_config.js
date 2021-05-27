@@ -1,1 +1,1 @@
-var mnemonic = "fault flash manual prepare juice midnight deputy dolphin network wild crater cigar";
+var mnemonic = "pet endless outdoor riot tomorrow eight east bonus when palace sick olympic";

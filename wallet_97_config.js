@@ -1,1 +1,1 @@
-var mnemonic = "evolve truth gorilla puzzle story bracket brick clock pepper tornado copy cactus";
+var mnemonic = "fossil enact soldier icon face giggle core concert include lottery solution grow";

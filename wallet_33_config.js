@@ -1,1 +1,1 @@
-var mnemonic = "valley leisure dog record ugly actual slim galaxy satoshi yard select habit";
+var mnemonic = "home track lens alert police muffin spatial ill card garage record noble";

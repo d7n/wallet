@@ -1,1 +1,1 @@
-var mnemonic = "bring cruel maid flavor rare canvas tissue eager film oven frost surprise";
+var mnemonic = "inquiry spin awkward gown pipe inspire switch clutch base spell check siege";

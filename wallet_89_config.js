@@ -1,1 +1,1 @@
-var mnemonic = "lizard prize canvas into bullet idea elegant blue dutch stereo pink purchase";
+var mnemonic = "zoo distance about blossom check height few rare stem lamp car outer";

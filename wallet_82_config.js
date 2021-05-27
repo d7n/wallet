@@ -1,1 +1,1 @@
-var mnemonic = "phrase absurd swallow cereal crisp solar all deny ignore tell enough devote";
+var mnemonic = "elite vendor fat put tragic whale toe portion suspect deliver ritual bean";

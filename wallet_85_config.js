@@ -1,1 +1,1 @@
-var mnemonic = "clean nasty mule custom same submit fit mad average orchard brave quote";
+var mnemonic = "artist card symbol fence input cattle entire dance mushroom cart clown arena";

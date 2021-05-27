@@ -1,1 +1,1 @@
-var mnemonic = "okay pulp surface rail hidden canyon start hour intact celery average patrol";
+var mnemonic = "gun drink width cruel rain ritual biology idea lab box almost lift";

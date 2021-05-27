@@ -1,1 +1,1 @@
-var mnemonic = "settle oval entry sister obey protect entire kick faith valley call hard";
+var mnemonic = "book current mandate garden area web pride middle gasp twice pepper student";

@@ -1,1 +1,1 @@
-var mnemonic = "text embody typical narrow cotton orient spawn movie exhibit dynamic since light";
+var mnemonic = "exercise tomato favorite sick cool chest gossip situate front defense sure impact";

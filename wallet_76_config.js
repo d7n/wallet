@@ -1,1 +1,1 @@
-var mnemonic = "gap bright rude before question express weird flock celery chef film caution";
+var mnemonic = "news heavy assist mesh dragon scene ball rate myth impulse devote exchange";

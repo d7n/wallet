@@ -1,1 +1,1 @@
-var mnemonic = "room example vague man fresh foam teach audit casual suffer glue zone";
+var mnemonic = "pact power regret nephew dune wish crisp regular metal tumble machine you";

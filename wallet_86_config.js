@@ -1,1 +1,1 @@
-var mnemonic = "spawn popular parrot polar gorilla noodle planet present belt elephant code fence";
+var mnemonic = "limb produce uncover place dismiss chair disease banana danger defy obvious process";

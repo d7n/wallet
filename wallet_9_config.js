@@ -1,1 +1,1 @@
-var mnemonic = "desert earth harsh motion midnight piece slight must tissue blanket jar space";
+var mnemonic = "science hunt primary grocery clay humor wheel limb snow live demise club";

@@ -1,1 +1,1 @@
-var mnemonic = "skate shoe earth half actor dish much rule polar embrace canvas idle";
+var mnemonic = "leopard frog kidney ostrich gift chase rich step since rude tragic planet";

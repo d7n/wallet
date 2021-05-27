@@ -1,1 +1,1 @@
-var mnemonic = "crunch pipe task loan supply regular staff section anxiety wise twelve sadness";
+var mnemonic = "decline assume spirit tourist pioneer wish agent metal limb purpose swarm glow";

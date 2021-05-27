@@ -1,1 +1,1 @@
-var mnemonic = "guard section endless into suggest laundry you answer minimum organ water frozen";
+var mnemonic = "drama trust soul tongue note enable bubble marble bottom visit energy banner";

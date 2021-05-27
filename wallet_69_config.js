@@ -1,1 +1,1 @@
-var mnemonic = "pledge mango swift slim alcohol replace kind gravity menu fiction always divorce";
+var mnemonic = "float answer crack imitate suit talent message erase solid kick oval fox";

@@ -1,1 +1,1 @@
-var mnemonic = "glory radio image noble margin admit reform humble giraffe deer renew trophy";
+var mnemonic = "relief gym broken team mixture drip artwork evolve diary engage foot exit";

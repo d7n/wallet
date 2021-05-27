@@ -1,1 +1,1 @@
-var mnemonic = "shell violin two swamp deal link bacon eight whisper unusual ramp symptom";
+var mnemonic = "urban raven hill attitude margin increase rely expect snack exercise before settle";
