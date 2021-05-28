@@ -1,1 +1,1 @@
-var mnemonic = "net combine donate elder brief pig prosper firm hotel bar toilet mass";
+var mnemonic = "color stereo eye whip stage insect acquire shallow opera bone service sorry";

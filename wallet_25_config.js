@@ -1,1 +1,1 @@
-var mnemonic = "hurry grow energy trash fix indoor nurse suspect dignity royal crowd close";
+var mnemonic = "frame deal flavor grass lyrics run exit height eternal remember erode live";

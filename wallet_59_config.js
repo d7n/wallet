@@ -1,1 +1,1 @@
-var mnemonic = "mixture kind special eagle icon marine stuff cup crazy garden rent kitchen";
+var mnemonic = "common try barely erupt dish raw kingdom timber idea tissue click dwarf";

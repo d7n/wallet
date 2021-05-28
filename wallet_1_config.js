@@ -1,1 +1,1 @@
-var mnemonic = "security soap bag advice misery razor source extend solar high spice avocado";
+var mnemonic = "wagon hockey erode dress erode tumble exchange shift vacant margin plastic change";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect youth diary attract business jaguar unusual detail cube faith spray boss";
+var mnemonic = "coconut afraid peanut travel fatal alley kitten emerge february squirrel attract ostrich";

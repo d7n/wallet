@@ -1,1 +1,1 @@
-var mnemonic = "neither okay dance pill flat lion eagle radio target cube despair enrich";
+var mnemonic = "enforce audit better okay ready vanish poem empty coconut bring guide spice";

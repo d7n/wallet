@@ -1,1 +1,1 @@
-var mnemonic = "expose truck cave found salmon tonight describe first hurt bean mad denial";
+var mnemonic = "clump palace next wrong drop subway blame relax omit acid phrase evolve";

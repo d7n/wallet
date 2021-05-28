@@ -1,1 +1,1 @@
-var mnemonic = "fog song say six family transfer muscle wage issue adult disorder three";
+var mnemonic = "sustain apple flat bounce patch clap magnet remember bicycle unusual orchard index";

@@ -1,1 +1,1 @@
-var mnemonic = "stock craft twist torch ugly garage eager flee reject scorpion dumb foam";
+var mnemonic = "phone build evoke suggest noodle future explain radio swarm risk attend art";

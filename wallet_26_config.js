@@ -1,1 +1,1 @@
-var mnemonic = "usage motion this aware eyebrow rally roof net any antique slight urban";
+var mnemonic = "bottom wool lava weird blanket remove leave awesome great own escape item";

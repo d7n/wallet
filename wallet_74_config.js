@@ -1,1 +1,1 @@
-var mnemonic = "snake turtle artwork hazard barely strategy open soon notice crush south tube";
+var mnemonic = "opinion rebuild kite man camera act apart dinner pulp caution bundle pulp";

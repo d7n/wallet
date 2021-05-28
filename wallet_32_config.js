@@ -1,1 +1,1 @@
-var mnemonic = "that script silent tiger maid square ignore umbrella unknown month honey height";
+var mnemonic = "team choose frame orphan hollow split melody average near lava spend will";

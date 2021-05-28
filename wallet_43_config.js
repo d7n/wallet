@@ -1,1 +1,1 @@
-var mnemonic = "much champion renew laptop dizzy volcano say else human fix pool amazing";
+var mnemonic = "orange nest donkey resemble peasant truly balance stomach stadium little hint tiny";

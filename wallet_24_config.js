@@ -1,1 +1,1 @@
-var mnemonic = "donor order witness ankle drastic path crumble change hold forward hair firm";
+var mnemonic = "nuclear jeans need depart amused ride stem end green bid that fade";

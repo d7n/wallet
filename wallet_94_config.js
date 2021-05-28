@@ -1,1 +1,1 @@
-var mnemonic = "swap nothing chronic moral master sphere water october access curve frog cage";
+var mnemonic = "artwork abuse fine seed oval sword similar recipe dinosaur cannon under asthma";

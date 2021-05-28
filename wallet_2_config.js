@@ -1,1 +1,1 @@
-var mnemonic = "sponsor cradle series learn champion gap scissors latin hole pet rose original";
+var mnemonic = "trigger clap carbon avocado donate nothing kind brass three nuclear meat chair";

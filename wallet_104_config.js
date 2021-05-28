@@ -1,1 +1,1 @@
-var mnemonic = "royal cinnamon palm train tag bless ethics uncover winter science bicycle endorse";
+var mnemonic = "attack snap income board beach blast pyramid dirt excuse action atom sample";

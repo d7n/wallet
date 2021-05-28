@@ -1,1 +1,1 @@
-var mnemonic = "soda donkey army shine magnet brief best corn omit make major abandon";
+var mnemonic = "ridge twice minute climb rubber witness biology prevent weekend rice salad debate";

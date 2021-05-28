@@ -1,1 +1,1 @@
-var mnemonic = "know manual sniff mechanic afraid kind squeeze shed drum flavor fragile reject";
+var mnemonic = "clump stadium hazard poverty mushroom toss great wolf chase trade grant dismiss";

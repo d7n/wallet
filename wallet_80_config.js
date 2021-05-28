@@ -1,1 +1,1 @@
-var mnemonic = "warfare flag disagree clock bid attend essence neither neutral false hurt foot";
+var mnemonic = "oak dice alpha century walk mad tower bulk left document pond keen";

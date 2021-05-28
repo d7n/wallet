@@ -1,1 +1,1 @@
-var mnemonic = "aerobic marriage divorce holiday frog need merry aware legal basket unfair valid";
+var mnemonic = "tissue essay poem perfect noble slender evidence violin blur today hybrid prosper";

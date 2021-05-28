@@ -1,1 +1,1 @@
-var mnemonic = "find ancient coil dune exclude weird assault sad gain room link buyer";
+var mnemonic = "food okay stone lion topple public weasel grit sort melody prosper hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "town snap dignity feel lazy calm leaf extra abstract comic open author";
+var mnemonic = "bulk gospel price celery assist rubber surround enlist icon impose peace mother";

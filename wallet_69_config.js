@@ -1,1 +1,1 @@
-var mnemonic = "kingdom load hub salon device van nerve card account below cinnamon split";
+var mnemonic = "sing win project ramp honey easily million exclude orchard snow addict offer";

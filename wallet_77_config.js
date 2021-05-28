@@ -1,1 +1,1 @@
-var mnemonic = "canyon panther ketchup phrase chapter urban furnace woman flat pill young mosquito";
+var mnemonic = "include eternal obvious pole follow laugh trick pair ski battle anger wrestle";

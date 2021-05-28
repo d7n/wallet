@@ -1,1 +1,1 @@
-var mnemonic = "annual pair warfare strategy select diet wet please family gown hammer science";
+var mnemonic = "yard crater enjoy author bridge private also slender coach question analyst library";

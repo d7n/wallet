@@ -1,1 +1,1 @@
-var mnemonic = "gain collect private aware cement wear mix admit flag axis syrup summer";
+var mnemonic = "intact fortune start firm control fee obvious ankle correct off noble bar";

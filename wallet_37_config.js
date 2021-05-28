@@ -1,1 +1,1 @@
-var mnemonic = "field artefact monster cherry hospital stumble comfort track brother race defy labor";
+var mnemonic = "ghost destroy grunt west city fancy garment trim ready crucial fire festival";

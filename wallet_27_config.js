@@ -1,1 +1,1 @@
-var mnemonic = "early perfect pepper original hip burden hard situate grant gun notable grab";
+var mnemonic = "mystery picnic powder burst time fold vote void phrase seven volcano pave";

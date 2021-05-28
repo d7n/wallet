@@ -1,1 +1,1 @@
-var mnemonic = "stadium turkey length sunny steak enjoy few sheriff bag blanket clip stand";
+var mnemonic = "casino special wait lottery tongue above book comfort acquire elegant must fantasy";

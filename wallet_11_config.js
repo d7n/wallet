@@ -1,1 +1,1 @@
-var mnemonic = "claw balance boil govern midnight vacuum provide injury correct used certain scorpion";
+var mnemonic = "senior name ribbon spoil square core film visit lyrics hole pet vacuum";

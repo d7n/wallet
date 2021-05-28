@@ -1,1 +1,1 @@
-var mnemonic = "athlete auto crowd evoke walnut reject pet swarm gaze layer crack recall";
+var mnemonic = "rebuild north thrive task hedgehog ensure wave grow kiss front hawk protect";

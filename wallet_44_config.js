@@ -1,1 +1,1 @@
-var mnemonic = "timber oxygen siege supreme stand soul rocket ridge roast feature summer rain";
+var mnemonic = "van open catch brand crumble employ wife hunt thumb animal runway jewel";

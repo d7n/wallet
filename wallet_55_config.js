@@ -1,1 +1,1 @@
-var mnemonic = "ecology forum east duck short symbol small yellow female zero skill deny";
+var mnemonic = "answer dumb bring flash almost flat opinion wire radio pass super circle";

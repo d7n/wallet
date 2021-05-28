@@ -1,1 +1,1 @@
-var mnemonic = "virtual wisdom hover hollow brave nerve train verb gap strategy parrot air";
+var mnemonic = "fabric shock movie snap attract monkey manage loud act thank rude turtle";

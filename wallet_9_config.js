@@ -1,1 +1,1 @@
-var mnemonic = "ladder okay lift joke tenant shadow stool exotic couple develop level special";
+var mnemonic = "damp movie pear annual memory gadget uphold page library surface scissors aim";

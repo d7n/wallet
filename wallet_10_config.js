@@ -1,1 +1,1 @@
-var mnemonic = "south gallery lend runway rebuild color insect run price when ladder only";
+var mnemonic = "deal helmet property wheat boss whip wagon device rule apology siege sister";

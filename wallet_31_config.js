@@ -1,1 +1,1 @@
-var mnemonic = "permit tomorrow rival toe horn course drift cruel turn leopard twin jaguar";
+var mnemonic = "lava candy spray gather upper grit lake baby super grape page cat";

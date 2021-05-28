@@ -1,1 +1,1 @@
-var mnemonic = "potato right pave can couple pause square occur intact shadow chaos spin";
+var mnemonic = "worry little sugar hurt deal achieve resource choice section nice when swim";

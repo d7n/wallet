@@ -1,1 +1,1 @@
-var mnemonic = "husband address mobile dolphin chapter tag myself sausage fresh comfort orphan stem";
+var mnemonic = "train brother text collect smoke erupt sword human aware smooth margin mobile";

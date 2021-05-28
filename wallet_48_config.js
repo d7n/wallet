@@ -1,1 +1,1 @@
-var mnemonic = "wagon treat rail oyster host gown spy tunnel couch net couch supply";
+var mnemonic = "give wedding census destroy horse permit toast subject vibrant hover caution exhibit";

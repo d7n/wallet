@@ -1,1 +1,1 @@
-var mnemonic = "wing air delay promote wall awesome banner fence warrior lazy demand wood";
+var mnemonic = "announce wine obvious capable tissue trouble online joy satoshi future myself elegant";

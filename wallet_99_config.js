@@ -1,1 +1,1 @@
-var mnemonic = "panel funny patrol pig play find easy unfold spawn history expose home";
+var mnemonic = "pigeon wine burst salute boat explain buzz walnut vacant learn sea outer";

@@ -1,1 +1,1 @@
-var mnemonic = "require shy motion soap pair approve alien water corn bicycle awake gold";
+var mnemonic = "zero real case add receive noodle monster old upon empty claw latin";

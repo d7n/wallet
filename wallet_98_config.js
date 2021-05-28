@@ -1,1 +1,1 @@
-var mnemonic = "web express space buddy nut alpha turtle neither digital hurry hill mutual";
+var mnemonic = "update wrestle charge cousin vital city rabbit shadow solution service struggle promote";

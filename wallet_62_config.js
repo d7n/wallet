@@ -1,1 +1,1 @@
-var mnemonic = "unit total unfair maximum require february angry gown vehicle cattle dad analyst";
+var mnemonic = "worry release flight about say few bundle boss lobster aim catalog eager";

@@ -1,1 +1,1 @@
-var mnemonic = "april animal leave rather silk urge unusual author stamp husband crawl whip";
+var mnemonic = "smile junior habit twelve finish universe name exercise vacuum stand among muffin";

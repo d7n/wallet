@@ -1,1 +1,1 @@
-var mnemonic = "country tissue tiny chef wink seminar patrol elegant oppose provide torch various";
+var mnemonic = "toast symbol flip indicate robust bonus swift boost solve bid flock run";

@@ -1,1 +1,1 @@
-var mnemonic = "fine bunker trade hat sausage twice rug inmate run almost laptop multiply";
+var mnemonic = "thank dog all bring leopard deal music news tragic life violin improve";

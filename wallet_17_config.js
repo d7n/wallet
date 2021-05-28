@@ -1,1 +1,1 @@
-var mnemonic = "feed column angry message address either fringe congress jungle glimpse peanut direct";
+var mnemonic = "help merit turn desk adapt strategy soon silk copper atom filter flag";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent solution exile auto predict option enroll blind oven dentist friend pet";
+var mnemonic = "gym seminar later dinosaur vague cricket empower fury pattern salute resist olive";

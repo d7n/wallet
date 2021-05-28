@@ -1,1 +1,1 @@
-var mnemonic = "athlete skin total talent east quote exclude group round cliff kingdom fortune";
+var mnemonic = "stick detect equal please protect portion uncle office speed horror antique lyrics";

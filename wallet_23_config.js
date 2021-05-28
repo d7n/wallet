@@ -1,1 +1,1 @@
-var mnemonic = "push country west service repeat inherit they denial frown skin age team";
+var mnemonic = "chuckle above vacuum advice witness sustain carbon grid rain velvet wear despair";

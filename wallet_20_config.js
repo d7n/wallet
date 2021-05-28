@@ -1,1 +1,1 @@
-var mnemonic = "ceiling canoe bamboo amateur keep dial relief maze monitor impulse pumpkin ecology";
+var mnemonic = "mushroom cargo final diamond alter trend cake clown broken find turtle divide";

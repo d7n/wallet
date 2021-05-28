@@ -1,1 +1,1 @@
-var mnemonic = "pet decline copy culture rigid trip detect huge flush trap green bring";
+var mnemonic = "capital fluid space cannon puzzle wage vessel flip bicycle piece puzzle require";

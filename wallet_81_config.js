@@ -1,1 +1,1 @@
-var mnemonic = "acquire skull supreme deputy margin monkey giant second mention stable animal door";
+var mnemonic = "same dice solid harvest unfair fantasy twelve keen else deer better wagon";

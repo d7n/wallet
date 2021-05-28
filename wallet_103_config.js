@@ -1,1 +1,1 @@
-var mnemonic = "life plastic hundred rack present cushion two rival unhappy section cabin include";
+var mnemonic = "display alpha distance dust scissors eight air drum undo glide various narrow";

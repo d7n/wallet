@@ -1,1 +1,1 @@
-var mnemonic = "cute exhibit hood tube unfair average auction invest shock script blur involve";
+var mnemonic = "anger garlic hamster custom trend square alter use favorite arrow expose concert";

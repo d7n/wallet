@@ -1,1 +1,1 @@
-var mnemonic = "december bullet scatter jeans acoustic room dizzy knee aisle dizzy skirt recipe";
+var mnemonic = "flock beauty inquiry alcohol glimpse train turkey army divert near educate trigger";

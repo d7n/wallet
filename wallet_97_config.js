@@ -1,1 +1,1 @@
-var mnemonic = "custom embrace frost search range slam marriage brief manage mad ring sunset";
+var mnemonic = "siren divert clay wrist reveal table dance train captain crawl wrist tube";

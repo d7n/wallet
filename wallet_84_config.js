@@ -1,1 +1,1 @@
-var mnemonic = "disease future retire victory battle fatal also scene update foil garbage square";
+var mnemonic = "topic ivory ocean fashion will point earth bleak maze fury sight they";

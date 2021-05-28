@@ -1,1 +1,1 @@
-var mnemonic = "minute coral winter drink barely actress salt hybrid forget diamond space oil";
+var mnemonic = "twist service kitchen food load damage switch screen tackle motor goat gate";

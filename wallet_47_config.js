@@ -1,1 +1,1 @@
-var mnemonic = "cart island neutral hill medal blind crouch body load holiday limb circle";
+var mnemonic = "game snack century picnic range cherry level fabric picture quote cube category";

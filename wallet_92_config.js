@@ -1,1 +1,1 @@
-var mnemonic = "need quantum awesome build core hen teach trend merge theme exercise man";
+var mnemonic = "hover arrange way skirt setup focus walk barely math click habit silk";

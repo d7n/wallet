@@ -1,1 +1,1 @@
-var mnemonic = "essence fan enforce doctor pizza clinic robust grief pelican naive bachelor coach";
+var mnemonic = "cactus skill aim bacon entry drop air round area good loop town";

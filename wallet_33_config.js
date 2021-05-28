@@ -1,1 +1,1 @@
-var mnemonic = "elevator undo oppose original drama good special merge unknown palace apart suspect";
+var mnemonic = "brand coconut river man blade problem panel pigeon broken hat confirm slender";

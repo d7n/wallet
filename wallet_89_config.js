@@ -1,1 +1,1 @@
-var mnemonic = "victory want fine canal desert clip clap split swift broken describe three";
+var mnemonic = "raise place fire exist work valley minimum emotion short cinnamon say duty";

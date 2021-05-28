@@ -1,1 +1,1 @@
-var mnemonic = "spin waste else annual video tooth embark muscle into puppy witness penalty";
+var mnemonic = "glare title run trash ribbon slender style weasel myself grant tag amused";

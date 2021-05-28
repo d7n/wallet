@@ -1,1 +1,1 @@
-var mnemonic = "nose tree ritual chunk seed volume village voyage clutch dose depend diesel";
+var mnemonic = "reward pyramid donate hotel stone zebra predict mirror aspect squirrel pumpkin crater";

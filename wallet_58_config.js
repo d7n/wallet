@@ -1,1 +1,1 @@
-var mnemonic = "use abstract verify give salute kiss plate bubble ketchup venture lazy proud";
+var mnemonic = "soap clean cement envelope exile coach sad salmon age turn core ramp";

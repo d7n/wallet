@@ -1,1 +1,1 @@
-var mnemonic = "click east chunk liar drift display toilet glove father second silly near";
+var mnemonic = "organ swing measure among scan suffer olive derive ramp media possible object";

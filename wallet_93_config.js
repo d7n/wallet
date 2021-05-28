@@ -1,1 +1,1 @@
-var mnemonic = "vacuum scare entire kitchen trust design system much session exhibit scorpion action";
+var mnemonic = "reveal siege joy skate rose lottery border wall black section today comic";

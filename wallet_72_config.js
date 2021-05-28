@@ -1,1 +1,1 @@
-var mnemonic = "phrase grief expire face speak bargain brick panther fantasy skate retreat romance";
+var mnemonic = "dry message decline bright master laugh arena uphold harvest cigar arrive twelve";

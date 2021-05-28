@@ -1,1 +1,1 @@
-var mnemonic = "april safe door receive motion search large cherry divide way online bird";
+var mnemonic = "vast drift kite hurdle aisle enjoy menu master elbow arrow library album";

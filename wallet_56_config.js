@@ -1,1 +1,1 @@
-var mnemonic = "color snow wage duck roast armor piano gift cry assume arch card";
+var mnemonic = "aim chest chaos rhythm novel execute combine that finger color glory outdoor";

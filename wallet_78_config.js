@@ -1,1 +1,1 @@
-var mnemonic = "climb shadow text scissors harsh ski pretty file alcohol route winner harsh";
+var mnemonic = "right ocean style woman muffin flame cupboard action donor clip fog glide";

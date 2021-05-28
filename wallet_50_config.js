@@ -1,1 +1,1 @@
-var mnemonic = "prefer armed poem walnut entry auto gate hotel pilot hub grit menu";
+var mnemonic = "riot small belt prevent offer media frown tribe model sand upgrade tortoise";

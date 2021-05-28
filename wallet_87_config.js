@@ -1,1 +1,1 @@
-var mnemonic = "plug just clump cube garment alien debris still electric believe clutch dentist";
+var mnemonic = "mistake shadow hurt radio people smoke inner list fiction inquiry network wide";

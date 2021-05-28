@@ -1,1 +1,1 @@
-var mnemonic = "spy basket eagle husband cluster deposit vendor emotion devote flavor slab cloth";
+var mnemonic = "arch envelope proof cave inner viable food program marble orphan bacon wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "almost sister dutch fly such weasel clog boring finish loan exercise chef";
+var mnemonic = "gaze random borrow stadium sword coil inflict old unfold impact nest basic";

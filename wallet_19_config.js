@@ -1,1 +1,1 @@
-var mnemonic = "ceiling proof adjust sword betray defy also pole lamp water title seven";
+var mnemonic = "faculty drink festival hope floor cigar airport chief tired wedding clump snow";

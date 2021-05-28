@@ -1,1 +1,1 @@
-var mnemonic = "tortoise lottery issue snow eye base either bounce fish voyage crack topic";
+var mnemonic = "sphere chuckle camera fat action timber slush utility aerobic remember cat abandon";

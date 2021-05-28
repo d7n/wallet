@@ -1,1 +1,1 @@
-var mnemonic = "coconut flock hidden actress gallery weapon knee mutual weird kitten addict flame";
+var mnemonic = "genuine enroll sound smart swap galaxy clown unknown below daughter erase category";

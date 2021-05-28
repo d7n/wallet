@@ -1,1 +1,1 @@
-var mnemonic = "doll purchase air tiger ride duty stuff slim produce strategy tumble achieve";
+var mnemonic = "topic whip museum swear arm antenna walnut slab novel fence ship scorpion";

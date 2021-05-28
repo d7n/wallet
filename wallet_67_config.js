@@ -1,1 +1,1 @@
-var mnemonic = "bridge forest silk dove fit daughter antique shrimp recycle skirt vivid finish";
+var mnemonic = "group exile payment cram view excite cabbage exotic traffic grant oblige sunny";

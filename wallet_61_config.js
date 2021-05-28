@@ -1,1 +1,1 @@
-var mnemonic = "reunion shoulder weekend either motor able wire discover rigid sister fringe dumb";
+var mnemonic = "winner pipe stand mixed bicycle jazz try verify gas ship long remember";
