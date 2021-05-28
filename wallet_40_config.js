@@ -1,1 +1,1 @@
-var mnemonic = "vehicle injury flavor rate unfair legend denial accuse arch must flat wing";
+var mnemonic = "panther amateur real venue safe plunge vast virtual audit next volume sand";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy bitter visit degree detail blind better chunk notable token spare treat";
+var mnemonic = "primary unlock cash note taste hammer parent toe athlete jaguar usage hurry";

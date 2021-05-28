@@ -1,1 +1,1 @@
-var mnemonic = "violin finger tourist annual violin dry choose become zero wild once walk";
+var mnemonic = "egg diet sponsor brave ankle dish egg program stem stereo bulk prison";

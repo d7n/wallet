@@ -1,1 +1,1 @@
-var mnemonic = "neck detail fantasy oil beauty bright quote bone tortoise endorse medal cute";
+var mnemonic = "gorilla easily bread ring make upon permit orange meat huge ivory walnut";

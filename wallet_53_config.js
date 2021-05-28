@@ -1,1 +1,1 @@
-var mnemonic = "music between cousin token debate slogan angry bird muscle question surprise laptop";
+var mnemonic = "curious antique absent duck help marriage adapt wagon number pill solid kiwi";

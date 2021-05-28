@@ -1,1 +1,1 @@
-var mnemonic = "field history action route around roof around seat recycle pipe soft genuine";
+var mnemonic = "develop layer peace convince burst energy rule reason pool human audit million";

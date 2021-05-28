@@ -1,1 +1,1 @@
-var mnemonic = "again river enter paddle inquiry way clinic sniff always puppy apology pen";
+var mnemonic = "usage ill twenty heart wet trumpet relief latin cool into online pig";

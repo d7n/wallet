@@ -1,1 +1,1 @@
-var mnemonic = "scissors victory yellow pigeon upon rifle exercise dynamic purchase combine between day";
+var mnemonic = "clump elevator answer indoor company gravity maple hobby federal olive wage cross";

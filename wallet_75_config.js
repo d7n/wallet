@@ -1,1 +1,1 @@
-var mnemonic = "enable stable include work light grape path pact secret birth valve visit";
+var mnemonic = "purity dry jungle frown critic bracket mass disorder hidden erosion spell stool";

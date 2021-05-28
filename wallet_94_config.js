@@ -1,1 +1,1 @@
-var mnemonic = "embrace garden only sword pulse tone rifle axis fever sauce blast enjoy";
+var mnemonic = "cream feature crumble strike height exhibit marine neck tobacco spoil venue random";

@@ -1,1 +1,1 @@
-var mnemonic = "notice bulk warm coil hill pear erase ordinary ice cupboard weapon orchard";
+var mnemonic = "region improve violin pass swear kid goat boil second expire cannon flight";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol sadness couch beef shrug accuse turn vague token motor crouch stereo";
+var mnemonic = "goat blind urban silk require either deny cricket harbor shove firm polar";

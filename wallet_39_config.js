@@ -1,1 +1,1 @@
-var mnemonic = "peace budget buyer mom naive dawn answer swamp rocket safe vanish rose";
+var mnemonic = "history hazard select spare document grit boy there demand sunny genre shield";

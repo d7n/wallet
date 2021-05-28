@@ -1,1 +1,1 @@
-var mnemonic = "into capital later simple error security embody dinosaur rookie monitor movie define";
+var mnemonic = "seven unhappy access merry travel miss shop peanut wire street increase holiday";

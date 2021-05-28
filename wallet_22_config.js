@@ -1,1 +1,1 @@
-var mnemonic = "critic pretty tide excite better elegant section term flash actor decorate rigid";
+var mnemonic = "horror click exclude motion arena cabbage super wet sock source outside proof";

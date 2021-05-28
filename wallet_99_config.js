@@ -1,1 +1,1 @@
-var mnemonic = "crazy float minimum sudden forward rebel dismiss private wait dawn slight glimpse";
+var mnemonic = "luxury produce day delay express forum lesson file admit evil dress nature";

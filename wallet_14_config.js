@@ -1,1 +1,1 @@
-var mnemonic = "kidney tiger spice regular process hip trouble circle foam rubber useless expand";
+var mnemonic = "erase age neglect game zebra roast prevent dumb type old blind foil";

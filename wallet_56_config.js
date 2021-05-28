@@ -1,1 +1,1 @@
-var mnemonic = "rely person vital chimney wrong planet fiscal inhale party diagram outdoor arrest";
+var mnemonic = "truly sure angle square oxygen pupil hammer ordinary mixture gather alert obey";

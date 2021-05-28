@@ -1,1 +1,1 @@
-var mnemonic = "valve spawn penalty broken shallow damp suffer squeeze sketch crisp step fine";
+var mnemonic = "still inflict announce weapon elder act smoke shrimp prison fantasy skin cause";

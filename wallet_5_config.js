@@ -1,1 +1,1 @@
-var mnemonic = "comfort also awful area charge average have another switch social miss picnic";
+var mnemonic = "always together surround struggle satisfy night robust upset jelly transfer puppy shrimp";

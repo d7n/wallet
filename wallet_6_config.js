@@ -1,1 +1,1 @@
-var mnemonic = "into actual private prepare sight win palm vintage mercy truly exile rubber";
+var mnemonic = "plastic better claw monster grocery decline dice style icon embark visa tower";

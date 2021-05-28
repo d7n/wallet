@@ -1,1 +1,1 @@
-var mnemonic = "social venue sheriff again bleak increase lyrics hungry dad nominee please palace";
+var mnemonic = "leopard guard coyote south flip drink distance toast strike dumb load budget";

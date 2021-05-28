@@ -1,1 +1,1 @@
-var mnemonic = "cover funny human false tenant prize crop fringe soul sniff shoot illegal";
+var mnemonic = "net stove around pumpkin plunge cluster rack cliff harsh truth park soup";

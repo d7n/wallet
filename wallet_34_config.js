@@ -1,1 +1,1 @@
-var mnemonic = "vehicle media evoke author shoulder roof fever memory key giggle pause marine";
+var mnemonic = "forest manage green maid hurry hello cheese forest imitate ten invite lunar";

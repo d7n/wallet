@@ -1,1 +1,1 @@
-var mnemonic = "thought cable betray april draw resource ketchup traffic muscle cinnamon coyote denial";
+var mnemonic = "west dance memory gather disease current trend trumpet curve list have basket";

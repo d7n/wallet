@@ -1,1 +1,1 @@
-var mnemonic = "grief skin step seed host pumpkin try detect brush grace ugly correct";
+var mnemonic = "brother music push chef stumble eager uphold sick course absurd young humor";

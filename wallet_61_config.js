@@ -1,1 +1,1 @@
-var mnemonic = "economy exclude dizzy drift wink canal much language elite aisle rival drill";
+var mnemonic = "grace crouch table plate unaware once imitate render federal scorpion rebuild proud";

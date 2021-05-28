@@ -1,1 +1,1 @@
-var mnemonic = "saddle inspire embody crumble session slide learn unit over pioneer crucial outside";
+var mnemonic = "monitor acid there today author valid prepare wave govern cave around chest";

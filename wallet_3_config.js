@@ -1,1 +1,1 @@
-var mnemonic = "awkward bubble later provide foster miracle foster woman ramp service robust junk";
+var mnemonic = "curtain receive original equip cinnamon tired draw action garage arrow tip usual";

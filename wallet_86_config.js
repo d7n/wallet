@@ -1,1 +1,1 @@
-var mnemonic = "drive island soccer pave depend click fitness modify fringe boss cruel surface";
+var mnemonic = "exile ranch ordinary damage fly truth special skull outdoor imitate ugly hole";

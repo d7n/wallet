@@ -1,1 +1,1 @@
-var mnemonic = "people change negative differ close actor daring identify assist name giraffe silent";
+var mnemonic = "copy mammal music cloth attend brisk trip range where craft occur all";

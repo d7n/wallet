@@ -1,1 +1,1 @@
-var mnemonic = "chalk canal already lesson april rally resist notable repair scrap bounce lounge";
+var mnemonic = "margin stay surround strong any clock fetch beef shell check tower choose";

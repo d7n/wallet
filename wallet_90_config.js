@@ -1,1 +1,1 @@
-var mnemonic = "office clap day color pole daughter exhibit build genre fix spoil gorilla";
+var mnemonic = "zoo enemy artefact large orchard olive crash hour burden file large broken";

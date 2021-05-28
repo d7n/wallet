@@ -1,1 +1,1 @@
-var mnemonic = "hurt rifle enhance chapter what sudden cancel crumble bid void primary blade";
+var mnemonic = "palace fossil permit hunt basket now another blush better piano net goose";

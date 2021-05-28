@@ -1,1 +1,1 @@
-var mnemonic = "tilt accuse reason upper demise apart coffee long old uphold course reduce";
+var mnemonic = "bike finger gadget air science north like point quiz album shed anxiety";

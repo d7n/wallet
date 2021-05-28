@@ -1,1 +1,1 @@
-var mnemonic = "drill grief team address siege menu clarify unaware city expand engage october";
+var mnemonic = "hockey journey woman render lumber spin oven jar fatigue brush acoustic volume";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup chaos issue original number ocean lumber network drink chief student decade";
+var mnemonic = "destroy menu dumb eternal husband rich van army true marble rate jar";

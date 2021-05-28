@@ -1,1 +1,1 @@
-var mnemonic = "garment useful vital display timber manual parent fiscal original second recall culture";
+var mnemonic = "explain diagram check clock scheme glide chair obtain uncover civil garbage kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "submit spider alien stereo mass yard swap pull left film salmon snap";
+var mnemonic = "patrol copper cluster side load frequent tribe initial panel mass fence clump";

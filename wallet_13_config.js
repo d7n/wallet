@@ -1,1 +1,1 @@
-var mnemonic = "material bright candy spawn other vessel sudden whisper wrist crush traffic parade";
+var mnemonic = "list mechanic afford buyer width sponsor fiscal rich song avoid merge lift";

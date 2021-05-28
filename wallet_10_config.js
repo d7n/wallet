@@ -1,1 +1,1 @@
-var mnemonic = "service all science where trip cupboard any luxury hawk zero blouse menu";
+var mnemonic = "gun erosion flush rebuild situate poet host dignity girl practice high rescue";

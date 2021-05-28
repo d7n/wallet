@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cliff equip dumb wet patch gun cluster spin suspect quote very";
+var mnemonic = "garbage update other sustain over that occur trick clutch spin labor top";

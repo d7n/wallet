@@ -1,1 +1,1 @@
-var mnemonic = "member clarify brick solution common clinic polar favorite kiwi liberty miss force";
+var mnemonic = "wrap kiwi jungle elbow solid lift fringe payment myth drop left spray";

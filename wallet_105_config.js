@@ -1,1 +1,1 @@
-var mnemonic = "strong fragile slide vivid achieve wash oval grit furnace thought good dignity";
+var mnemonic = "card bench section hero know liar giggle distance artwork actual month cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic misery gift yard success decade clip island giant wrestle since loop";
+var mnemonic = "youth pass uniform fork certain entry frozen choose giggle cabin since dice";

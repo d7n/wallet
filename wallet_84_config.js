@@ -1,1 +1,1 @@
-var mnemonic = "cushion dress clock behave bracket harvest ivory exotic carpet success tongue arch";
+var mnemonic = "person scorpion bridge age lucky tooth reject labor machine planet rose autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy voyage arctic cactus torch drink pen company pudding void crater gravity";
+var mnemonic = "nose swing dream team ridge absurd explain siren kid city hold avoid";

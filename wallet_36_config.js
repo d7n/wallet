@@ -1,1 +1,1 @@
-var mnemonic = "imitate universe sight keep demand invest anger ready away alley honey magnet";
+var mnemonic = "empower day tooth organ noise ribbon tonight news female sheriff echo say";

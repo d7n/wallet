@@ -1,1 +1,1 @@
-var mnemonic = "same blood boost dragon clinic oval end cat brick good suggest seminar";
+var mnemonic = "game roast uphold middle pear mouse multiply helmet cricket sudden sight way";

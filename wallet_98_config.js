@@ -1,1 +1,1 @@
-var mnemonic = "usage bid sauce mobile ankle increase tongue pelican venue typical kick deny";
+var mnemonic = "report galaxy whisper wave lamp grant runway into three fatal parrot margin";

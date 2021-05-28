@@ -1,1 +1,1 @@
-var mnemonic = "torch best actress material today innocent envelope expect roast exist reflect wheel";
+var mnemonic = "teach deliver nephew erase rural magnet spray solar tree garlic foam infant";

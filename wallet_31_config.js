@@ -1,1 +1,1 @@
-var mnemonic = "sort awkward black grant hurt side refuse pond stay valid timber glide";
+var mnemonic = "pull lift throw peanut minute predict dose bone spike inside false estate";

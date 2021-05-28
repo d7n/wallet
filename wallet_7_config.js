@@ -1,1 +1,1 @@
-var mnemonic = "harbor original cube cotton napkin vacuum husband swallow fashion shield hawk fix";
+var mnemonic = "romance capable retreat trap update deputy immune audit that board walnut wish";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive live allow pole pen violin resist slogan misery increase soft embody";
+var mnemonic = "exact sample yard voice learn fold mercy lens fork print volcano rude";

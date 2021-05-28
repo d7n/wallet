@@ -1,1 +1,1 @@
-var mnemonic = "tape win drop merry toast vicious pair radio surprise issue divide angry";
+var mnemonic = "door parade vocal reveal shiver fork electric detect thing digital warrior crucial";

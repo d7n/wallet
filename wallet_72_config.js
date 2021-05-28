@@ -1,1 +1,1 @@
-var mnemonic = "guard pulp become nasty husband sight tackle tobacco shadow cycle merit across";
+var mnemonic = "object sauce endless frame right market crash desk project ability execute there";

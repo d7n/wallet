@@ -1,1 +1,1 @@
-var mnemonic = "scissors use aim toast primary gentle noise ship void need dutch frog";
+var mnemonic = "choose exotic luggage taste neutral chest crazy short powder copy myself flee";

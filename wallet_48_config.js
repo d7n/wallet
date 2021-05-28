@@ -1,1 +1,1 @@
-var mnemonic = "ladder harvest mandate orphan rifle repeat pave happy broccoli tool ensure knee";
+var mnemonic = "surface enough devote window entire leisure rough duck address skill disorder page";

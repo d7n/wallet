@@ -1,1 +1,1 @@
-var mnemonic = "rule small illegal teach renew range spell vapor rural path tattoo catch";
+var mnemonic = "letter person school tumble distance wear sand right usage silent blast spot";

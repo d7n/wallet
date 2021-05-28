@@ -1,1 +1,1 @@
-var mnemonic = "mass hope unit devote outer dolphin invite tomato more animal hamster bright";
+var mnemonic = "fix shove afraid trade drift license twist wage orchard rail proud pill";

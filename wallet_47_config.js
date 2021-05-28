@@ -1,1 +1,1 @@
-var mnemonic = "six require rifle private movie notable diet speak market burden dumb pen";
+var mnemonic = "junk mistake engine accuse trim echo swap junk merge theme brass case";

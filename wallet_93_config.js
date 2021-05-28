@@ -1,1 +1,1 @@
-var mnemonic = "problem tape nephew amateur produce clap tragic index reveal foot rate museum";
+var mnemonic = "uphold truth clog suit spike truck squeeze sound balcony frown smoke unlock";

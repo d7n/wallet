@@ -1,1 +1,1 @@
-var mnemonic = "act rigid network lucky youth merge tell turtle any together powder message";
+var mnemonic = "easy write garage cattle robot tunnel mom taxi faculty you ketchup idle";

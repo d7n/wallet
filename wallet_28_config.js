@@ -1,1 +1,1 @@
-var mnemonic = "fence deal barrel garbage piano cross near brisk miracle volume tent blood";
+var mnemonic = "merit envelope topple under breeze gain margin merge crash bonus salon donor";

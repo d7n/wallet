@@ -1,1 +1,1 @@
-var mnemonic = "maze mesh wrap tip whip kiwi lift swarm file coyote toe collect";
+var mnemonic = "only more woman solar oven country jewel denial shy outer crack across";

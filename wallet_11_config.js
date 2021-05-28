@@ -1,1 +1,1 @@
-var mnemonic = "cargo mail item angry grant project system country fiscal lab jazz noble";
+var mnemonic = "zebra special advance render wave gym gown dizzy key equal victory hill";

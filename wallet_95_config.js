@@ -1,1 +1,1 @@
-var mnemonic = "chicken cupboard exotic wonder invest boss shrug organ detect around divorce average";
+var mnemonic = "success photo awful cycle rain local discover tone deer replace region coffee";

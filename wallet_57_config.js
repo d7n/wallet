@@ -1,1 +1,1 @@
-var mnemonic = "tool bounce shock mandate trumpet pretty gas grid six wood gadget pulp";
+var mnemonic = "public click gather nut bonus promote wrestle acid talent under ask midnight";

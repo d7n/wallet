@@ -1,1 +1,1 @@
-var mnemonic = "month draft onion blast click lamp punch zoo powder consider drill traffic";
+var mnemonic = "message nest civil mandate engage sick squirrel valve design discover attitude square";

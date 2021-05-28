@@ -1,1 +1,1 @@
-var mnemonic = "reform opera wing garbage zero wall flash pattern salt vicious rail witness";
+var mnemonic = "tunnel impose auction leg before season fold awkward autumn ice dial kid";

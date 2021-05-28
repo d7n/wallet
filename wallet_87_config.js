@@ -1,1 +1,1 @@
-var mnemonic = "dish cigar auction ghost clarify adjust stamp divert unfair industry plastic zebra";
+var mnemonic = "viable skin toilet mercy harsh degree oak rookie husband priority master scan";

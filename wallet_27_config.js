@@ -1,1 +1,1 @@
-var mnemonic = "note index raven pony tail circle cram cargo joy fit pottery wagon";
+var mnemonic = "design chalk young drum torch escape blush zero fly phone amazing write";

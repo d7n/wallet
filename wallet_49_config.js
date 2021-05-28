@@ -1,1 +1,1 @@
-var mnemonic = "car clerk equip exhibit dream trophy smoke hurry remain until leisure destroy";
+var mnemonic = "fine winter rapid turkey clutch smooth reopen grit critic milk blind recall";

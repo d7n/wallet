@@ -1,1 +1,1 @@
-var mnemonic = "belt alter blur illness waste tennis keep board avocado unable bless cruel";
+var mnemonic = "match float lion fade raw december pull chalk egg culture chronic sentence";

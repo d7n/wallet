@@ -1,1 +1,1 @@
-var mnemonic = "hotel ecology remove magnet situate leave pizza tragic protect left sorry cradle";
+var mnemonic = "retreat fringe bus creek duck inmate middle fame able defense swarm tobacco";

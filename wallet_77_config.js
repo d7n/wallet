@@ -1,1 +1,1 @@
-var mnemonic = "provide bus explain access room cup again problem stuff wheat essay post";
+var mnemonic = "swarm frozen wonder program shield output van box salad lonely modify settle";

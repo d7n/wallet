@@ -1,1 +1,1 @@
-var mnemonic = "remove act trend artist math century glance easy possible sphere kingdom decrease";
+var mnemonic = "found assume affair town fame panther horn garbage now venue prevent rabbit";

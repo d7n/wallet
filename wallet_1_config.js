@@ -1,1 +1,1 @@
-var mnemonic = "present pause pattern rule theme stereo weekend black rebuild horror obvious jump";
+var mnemonic = "year skirt flip improve bronze sight vault require quit crime drastic gold";

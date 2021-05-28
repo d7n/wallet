@@ -1,1 +1,1 @@
-var mnemonic = "quick indoor catch level flight engine nephew debate tiger cushion swarm creek";
+var mnemonic = "ordinary choice skate depart debate ocean doctor kidney error wealth install pig";

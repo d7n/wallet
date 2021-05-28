@@ -1,1 +1,1 @@
-var mnemonic = "snake bubble depth galaxy print genre aunt rival consider furnace mouse reveal";
+var mnemonic = "bracket cupboard cricket umbrella divorce discover wool lion robust wonder street party";

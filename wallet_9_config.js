@@ -1,1 +1,1 @@
-var mnemonic = "vintage torch sound refuse sausage sign bike call nice color doll addict";
+var mnemonic = "rail denial scrub series dose hundred bike phone victory inside orange raise";

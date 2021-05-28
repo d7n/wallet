@@ -1,1 +1,1 @@
-var mnemonic = "solar similar hamster bounce embody weapon chimney pull twice marine sheriff wheel";
+var mnemonic = "guide tornado liar hello ramp pill hurry crop clay cash panda hidden";

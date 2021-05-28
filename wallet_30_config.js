@@ -1,1 +1,1 @@
-var mnemonic = "then finish real joy moment disorder gravity learn swear rival uniform series";
+var mnemonic = "beauty walnut tree faculty mosquito escape yard chase hospital lunar wall depend";

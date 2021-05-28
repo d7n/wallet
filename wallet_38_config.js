@@ -1,1 +1,1 @@
-var mnemonic = "dance coral easy cruel hunt route old spring frequent fan divide clip";
+var mnemonic = "pattern ramp element student ride dance abstract culture soon six image impact";

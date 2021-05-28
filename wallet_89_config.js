@@ -1,1 +1,1 @@
-var mnemonic = "carpet act subway sword observe retreat defy fabric hole morning float brain";
+var mnemonic = "model excuse law party general reward champion local beauty culture hair analyst";

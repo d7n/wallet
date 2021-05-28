@@ -1,1 +1,1 @@
-var mnemonic = "cage asthma level country regular price input sorry into memory stock muscle";
+var mnemonic = "awake eye clip shadow swim crowd peasant walnut kind dish blush inner";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant second measure myth calm hair aim text drink web torch accident";
+var mnemonic = "market glimpse canvas beauty devote custom weather cream stage diary apology bitter";

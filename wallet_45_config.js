@@ -1,1 +1,1 @@
-var mnemonic = "safe riot concert nut thought ball tribe better increase guide jar door";
+var mnemonic = "decline depth easily elbow invite noodle also tiny fortune expire uncle jar";

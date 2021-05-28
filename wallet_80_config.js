@@ -1,1 +1,1 @@
-var mnemonic = "area shield fame tide lunar better small often will remain lounge sorry";
+var mnemonic = "gas found crazy net flock ribbon gravity spread phrase nature owner unable";

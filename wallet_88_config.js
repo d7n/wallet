@@ -1,1 +1,1 @@
-var mnemonic = "bean owner oval glove choice horn maze inquiry exile miss column become";
+var mnemonic = "shift picture mirror pottery hover broken raven remember keep wonder banner forget";

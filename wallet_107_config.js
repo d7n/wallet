@@ -1,1 +1,1 @@
-var mnemonic = "doctor present veteran erosion safe lumber tourist kitchen sing follow zero okay";
+var mnemonic = "ordinary neglect whale asset deer save lion shield test citizen figure weapon";
