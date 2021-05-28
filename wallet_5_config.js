@@ -1,1 +1,1 @@
-var mnemonic = "pool path tower swamp venue rigid rebel market exit october oak prepare";
+var mnemonic = "repeat fruit you repeat knee toward shuffle bulk surprise olive disagree call";

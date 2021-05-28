@@ -1,1 +1,1 @@
-var mnemonic = "bundle pigeon mixture damp swamp wink cigar charge pave sweet bundle age";
+var mnemonic = "unusual interest produce craft salt spend salad title canvas brown lend skull";

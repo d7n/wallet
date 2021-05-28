@@ -1,1 +1,1 @@
-var mnemonic = "race give wish divert drama digital lawn canoe enjoy federal chuckle isolate";
+var mnemonic = "broccoli cost green glimpse scissors boost potato birth club tenant mandate athlete";

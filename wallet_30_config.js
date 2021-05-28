@@ -1,1 +1,1 @@
-var mnemonic = "scale vague cube purpose dog suit best illegal turn control large plug";
+var mnemonic = "lens property heavy interest trim betray improve stereo stove minimum board adult";

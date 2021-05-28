@@ -1,1 +1,1 @@
-var mnemonic = "hill risk fatigue culture story globe enjoy helmet soap coffee bomb polar";
+var mnemonic = "wine analyst climb leisure harsh estate can slab live tragic april try";

@@ -1,1 +1,1 @@
-var mnemonic = "pony dash cannon strike into pluck ski brown hold hen husband attitude";
+var mnemonic = "payment bid engine lucky fold suggest dust unaware brick give memory choose";

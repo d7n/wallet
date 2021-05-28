@@ -1,1 +1,1 @@
-var mnemonic = "winner trade canvas mutual carbon attack ski gadget regular coast feature number";
+var mnemonic = "still strategy august symptom scheme orient open approve timber attract interest vote";

@@ -1,1 +1,1 @@
-var mnemonic = "basket talent area witness usual will woman try panda leader make color";
+var mnemonic = "magnet client crater solution fault garden there trip lonely lab load mechanic";

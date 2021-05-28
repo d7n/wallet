@@ -1,1 +1,1 @@
-var mnemonic = "input armed quarter require pupil fresh soul diagram fruit sauce elephant divide";
+var mnemonic = "valley crop sphere system soup mystery angle process bus song surround tiger";

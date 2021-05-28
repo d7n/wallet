@@ -1,1 +1,1 @@
-var mnemonic = "ribbon chunk course knock chapter heavy next fluid spike shallow risk dash";
+var mnemonic = "day confirm crack uncle mobile target silk blossom gold obscure source middle";

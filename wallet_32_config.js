@@ -1,1 +1,1 @@
-var mnemonic = "stamp mixture area pig oblige rail armor rebel move wisdom actual glove";
+var mnemonic = "chalk still circle rebel flush pipe laundry army circle same split major";

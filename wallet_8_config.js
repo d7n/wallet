@@ -1,1 +1,1 @@
-var mnemonic = "tunnel zero west width glare owner butter ticket pistol couch alcohol junior";
+var mnemonic = "near velvet few toe polar brain file leave aisle mobile brother comic";

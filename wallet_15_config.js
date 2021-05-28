@@ -1,1 +1,1 @@
-var mnemonic = "suit subway bind result hire bleak alert bubble orient someone jewel raw";
+var mnemonic = "shaft trust toy only anger weekend accuse target chief valid gallery order";

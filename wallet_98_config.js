@@ -1,1 +1,1 @@
-var mnemonic = "win relax immense nose hub motor melt say car lock model maximum";
+var mnemonic = "make manage chronic wink ritual pluck receive refuse anger shy unusual edge";

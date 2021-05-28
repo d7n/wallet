@@ -1,1 +1,1 @@
-var mnemonic = "flash gasp enough absent sign captain sign crop black witness stove pulp";
+var mnemonic = "fever gorilla source such fault scatter hurt unfold twin identify novel dice";

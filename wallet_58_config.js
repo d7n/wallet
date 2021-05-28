@@ -1,1 +1,1 @@
-var mnemonic = "curtain pull analyst collect original travel social amazing outer ethics bar auto";
+var mnemonic = "jacket culture glare afraid tumble oil spy language solve proof fruit guilt";

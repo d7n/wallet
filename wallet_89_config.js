@@ -1,1 +1,1 @@
-var mnemonic = "lift universe domain pilot save whale material cushion odor oblige original riot";
+var mnemonic = "pledge uphold stumble always siege good govern suit actual error very chief";

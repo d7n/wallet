@@ -1,1 +1,1 @@
-var mnemonic = "music clever bean help cute royal episode margin flock village royal strategy";
+var mnemonic = "adjust stereo okay awful verify apart increase loyal inform message tongue bomb";

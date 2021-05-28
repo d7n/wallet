@@ -1,1 +1,1 @@
-var mnemonic = "gym blast auction buyer weather border negative ahead border sail venture husband";
+var mnemonic = "range love gadget ritual science action unlock question absent ring animal toast";

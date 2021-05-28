@@ -1,1 +1,1 @@
-var mnemonic = "imitate long dizzy ketchup flock upper bike will breeze canvas clog link";
+var mnemonic = "wrong stamp naive kiss timber account vault proof wool pole bamboo chuckle";

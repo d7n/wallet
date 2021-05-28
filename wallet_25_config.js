@@ -1,1 +1,1 @@
-var mnemonic = "bicycle yellow eye promote local make hire custom donate trend sight recycle";
+var mnemonic = "myth spy diamond major whip cousin whale frame document target asset army";

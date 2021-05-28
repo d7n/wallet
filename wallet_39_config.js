@@ -1,1 +1,1 @@
-var mnemonic = "dish yellow example wave include woman book rich parent calm grain army";
+var mnemonic = "into lizard junk grace until manual high dirt yard panel unusual trigger";

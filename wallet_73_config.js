@@ -1,1 +1,1 @@
-var mnemonic = "scan decide wire gentle recipe uncover beach slice flash axis place will";
+var mnemonic = "spoil claim call plug divide whale praise enrich matter card behave cactus";

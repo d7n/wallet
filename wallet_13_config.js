@@ -1,1 +1,1 @@
-var mnemonic = "mass price okay want ripple wing season flame company code orange base";
+var mnemonic = "slam anxiety bless case stool tobacco chest describe injury glance exhibit man";

@@ -1,1 +1,1 @@
-var mnemonic = "original vanish install donkey mystery tray brush track lucky brand glue crunch";
+var mnemonic = "dismiss tube chase ivory home wild forget midnight over glass conduct kitchen";

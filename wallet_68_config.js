@@ -1,1 +1,1 @@
-var mnemonic = "hazard delay grant space forget below property moral step person liar annual";
+var mnemonic = "kiss donkey region actress ugly expire culture innocent source december remove solar";

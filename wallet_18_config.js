@@ -1,1 +1,1 @@
-var mnemonic = "mention rebuild balcony alien tongue chronic cup ride child arm spike crystal";
+var mnemonic = "cloth mushroom arena festival vast runway script post luggage coach pepper dentist";

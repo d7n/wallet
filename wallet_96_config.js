@@ -1,1 +1,1 @@
-var mnemonic = "traffic creek copy beyond lucky bottom wrestle coil point garbage dust banner";
+var mnemonic = "pig pencil fall hunt captain project comic sail inch organ ribbon grid";

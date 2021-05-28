@@ -1,1 +1,1 @@
-var mnemonic = "alone bike bamboo add make wire involve mercy void dry august adjust";
+var mnemonic = "harbor trim judge enemy faint fruit assist silly patrol target upgrade lend";

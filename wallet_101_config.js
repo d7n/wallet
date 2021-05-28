@@ -1,1 +1,1 @@
-var mnemonic = "almost erase hero sea ready final issue mask expand neck model collect";
+var mnemonic = "mean away stumble same jacket weather make radio dirt plunge camp crumble";

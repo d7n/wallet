@@ -1,1 +1,1 @@
-var mnemonic = "shrimp exist depth diagram thank fashion shield van topic public gift legal";
+var mnemonic = "game about mosquito flip amused aspect delay vapor day reveal fold copper";

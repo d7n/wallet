@@ -1,1 +1,1 @@
-var mnemonic = "crop street match hobby normal garage urban ranch pig pony mystery please";
+var mnemonic = "ceiling spin mushroom response paper table record crime potato peanut prefer mouse";

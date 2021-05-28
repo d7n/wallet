@@ -1,1 +1,1 @@
-var mnemonic = "story ladder mesh cool library ability topic alcohol radio raw oven panda";
+var mnemonic = "middle remind soon voyage parent gauge buddy cross wait acid useless inquiry";

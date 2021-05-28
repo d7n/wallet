@@ -1,1 +1,1 @@
-var mnemonic = "warrior right release aspect awesome among embrace trash dismiss toast picture educate";
+var mnemonic = "hard depend lottery key idle click raccoon alien critic merge slight nothing";

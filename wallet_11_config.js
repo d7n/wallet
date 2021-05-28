@@ -1,1 +1,1 @@
-var mnemonic = "island away rebel female pony pride tail harbor broom exhibit wish error";
+var mnemonic = "project blur envelope demise whip dune shy deliver poet exhibit leader narrow";

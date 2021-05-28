@@ -1,1 +1,1 @@
-var mnemonic = "trigger illegal whip jeans immune artefact bomb canal parent grow dream hunt";
+var mnemonic = "find magnet cushion certain answer gate canoe once sudden blade tribe aware";

@@ -1,1 +1,1 @@
-var mnemonic = "purity vessel erosion survey melt aunt labor describe aerobic almost glove bone";
+var mnemonic = "hotel brain develop torch truth market rifle solid name tomorrow permit rate";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead ghost today affair tired leg ivory chaos evil rigid include unit";
+var mnemonic = "brain afford toward flee illegal damp slice enable logic turn resource raven";

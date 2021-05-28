@@ -1,1 +1,1 @@
-var mnemonic = "clump slot public curtain reform abstract huge index crowd road canoe pact";
+var mnemonic = "track property ship grace good visual huge ramp awesome work script delay";

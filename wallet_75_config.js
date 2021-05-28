@@ -1,1 +1,1 @@
-var mnemonic = "mother clerk weapon often bargain humble enable just glare mom curtain thunder";
+var mnemonic = "destroy math excuse giggle identify pattern help bargain ensure monster dilemma visa";

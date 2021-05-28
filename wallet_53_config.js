@@ -1,1 +1,1 @@
-var mnemonic = "suspect magnet this must reveal blanket laptop rigid attract glove menu winner";
+var mnemonic = "same arena huge tribe ill craft leisure detect velvet silent spy child";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust drift foot final solution capital market weasel session better secret merry";
+var mnemonic = "special garden hip muscle frozen away gap quality spider matrix pitch celery";

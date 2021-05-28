@@ -1,1 +1,1 @@
-var mnemonic = "tumble volcano inner arrest wise update goddess since million monkey agree style";
+var mnemonic = "color begin grape decrease maid soap logic fire melody success poem pulp";

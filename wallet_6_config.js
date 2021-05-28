@@ -1,1 +1,1 @@
-var mnemonic = "payment flower motion desert dial try picture dance lonely crazy hour version";
+var mnemonic = "web garment total bird mosquito diamond right hotel tribe message proud purse";

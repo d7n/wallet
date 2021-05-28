@@ -1,1 +1,1 @@
-var mnemonic = "claw neck swap clever advance derive tilt asthma leave replace envelope clock";
+var mnemonic = "deny category swim topic learn girl tomato board gesture pitch embody essence";

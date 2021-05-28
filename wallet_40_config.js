@@ -1,1 +1,1 @@
-var mnemonic = "guide crumble very robot six exercise artist coil advance grass wrestle egg";
+var mnemonic = "slice type jeans fly buddy cycle false genius donor manage staff ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "cable visa pink crawl car sort twin reflect student industry mushroom leopard";
+var mnemonic = "way reject push arrange decide able sheriff image private federal target thumb";

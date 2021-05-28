@@ -1,1 +1,1 @@
-var mnemonic = "radar man project sugar raw question increase found spatial that awake person";
+var mnemonic = "knock album armed minute occur glad raven garbage bird detect slim peasant";

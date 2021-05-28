@@ -1,1 +1,1 @@
-var mnemonic = "artwork regular thought become neither motor recycle below glide beef host arm";
+var mnemonic = "solve spoon slam dutch travel hurdle liar tomato dynamic world napkin lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "festival violin fox rare ostrich short blood disease such dutch crawl leisure";
+var mnemonic = "silly better ordinary dumb diesel that cage fatal advance unfold saddle train";

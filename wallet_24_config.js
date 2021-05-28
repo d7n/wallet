@@ -1,1 +1,1 @@
-var mnemonic = "blanket bottom stand glide globe error have next rent want gospel learn";
+var mnemonic = "exclude brother grant equal melody easy repair invite kingdom frame seven trim";

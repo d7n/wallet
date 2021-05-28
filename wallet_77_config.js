@@ -1,1 +1,1 @@
-var mnemonic = "destroy metal cabbage quantum chest polar remember light casino flip frog skate";
+var mnemonic = "cool cement gather symptom clinic vault must peasant lunch trim convince dune";

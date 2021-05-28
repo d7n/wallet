@@ -1,1 +1,1 @@
-var mnemonic = "alter gather custom buzz flee actual recycle edge tribe release oppose mandate";
+var mnemonic = "coyote task dirt palace garment account square noble genre crime height train";

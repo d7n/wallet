@@ -1,1 +1,1 @@
-var mnemonic = "ivory develop lift two yard wing vapor bomb place more invest long";
+var mnemonic = "crane weird more weird tired warrior exile badge narrow frog inherit repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "shock green jump rebuild pistol scale hint search fiber gap dance armor";
+var mnemonic = "cycle foam pilot quit exit kitchen issue story diesel mixture bind hood";

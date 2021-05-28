@@ -1,1 +1,1 @@
-var mnemonic = "goddess present sand horse toss key ghost chest journey cushion process salmon";
+var mnemonic = "balance curious renew cool food island mobile gauge album normal south ostrich";

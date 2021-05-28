@@ -1,1 +1,1 @@
-var mnemonic = "cream rubber certain stereo unfold avocado blast toe either erosion mule cabin";
+var mnemonic = "speed increase seminar note sing giant faith scorpion symptom clay settle style";

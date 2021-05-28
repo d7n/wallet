@@ -1,1 +1,1 @@
-var mnemonic = "rhythm pet correct bonus neglect gift walk wait afford member piece unfold";
+var mnemonic = "height swear result craft verify grocery yard start search state bulb choice";

@@ -1,1 +1,1 @@
-var mnemonic = "armor second absent exist exhibit comic old diary uniform doctor lobster thumb";
+var mnemonic = "lens sleep vessel jewel script critic fabric grit tunnel retreat wear walnut";

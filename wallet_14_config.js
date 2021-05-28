@@ -1,1 +1,1 @@
-var mnemonic = "space cattle fox lady filter kitchen dress sight mule meat settle crater";
+var mnemonic = "enable wire code debris category salmon settle cause upset sure begin flush";

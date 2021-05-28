@@ -1,1 +1,1 @@
-var mnemonic = "coffee aspect wrap liberty peace ivory inmate old junior visual awesome guard";
+var mnemonic = "rubber kiwi option pave argue series fury rescue truth test drift traffic";

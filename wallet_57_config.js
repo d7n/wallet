@@ -1,1 +1,1 @@
-var mnemonic = "juice please sniff village lend find supreme iron neck exact bulb relief";
+var mnemonic = "hockey mechanic lake section sustain aware region vague vintage chest front curious";

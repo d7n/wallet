@@ -1,1 +1,1 @@
-var mnemonic = "depth label away acoustic wonder wild corn useful more hen goose love";
+var mnemonic = "violin future foam smile upper crew team awkward pelican crucial scout first";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage celery gadget coast calm marriage slush eager magic parade current jewel";
+var mnemonic = "decade hazard expect basket fossil pig bulk force coin describe slow paddle";

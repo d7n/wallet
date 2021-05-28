@@ -1,1 +1,1 @@
-var mnemonic = "loyal father reduce toilet clock fringe cereal extra aunt unaware alien erupt";
+var mnemonic = "below annual must execute buffalo unknown festival apology dove dove forum short";

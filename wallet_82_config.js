@@ -1,1 +1,1 @@
-var mnemonic = "extra visa coach pave guilt tourist tiny embody lucky repeat cat bacon";
+var mnemonic = "crumble major wear nothing convince agree print rubber boring wrist wink jewel";

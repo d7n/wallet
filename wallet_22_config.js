@@ -1,1 +1,1 @@
-var mnemonic = "inquiry among course dog desk square response because wrap walk message emotion";
+var mnemonic = "small voice equip clarify snow praise gown pitch force oppose thing fiscal";

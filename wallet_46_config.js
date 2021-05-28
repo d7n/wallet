@@ -1,1 +1,1 @@
-var mnemonic = "rely brisk rent depth bonus lava damage private scene trend border baby";
+var mnemonic = "sugar glad diamond physical pumpkin aim predict desk predict extra sheriff atom";

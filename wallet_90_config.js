@@ -1,1 +1,1 @@
-var mnemonic = "chat snap patch fitness hill enter reopen carbon ivory utility number boost";
+var mnemonic = "nominee quality explain december try forest guess season tackle index mixture reduce";

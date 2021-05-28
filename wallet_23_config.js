@@ -1,1 +1,1 @@
-var mnemonic = "video faculty better pony discover mass claim real cousin pizza toward vast";
+var mnemonic = "venue way skin give loyal dwarf scene mushroom ignore shrug slam dizzy";

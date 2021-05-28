@@ -1,1 +1,1 @@
-var mnemonic = "mesh rug stairs asthma forget steel spike winner ensure hero wrap jazz";
+var mnemonic = "cycle scan tennis radio stand hero marine toddler primary market marriage stumble";

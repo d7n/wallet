@@ -1,1 +1,1 @@
-var mnemonic = "trap buffalo eye jazz swift pink pudding marble begin obey awful ceiling";
+var mnemonic = "blur mask peace banner village blood valid crucial crouch shoot sponsor matrix";

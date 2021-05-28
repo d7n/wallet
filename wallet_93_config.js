@@ -1,1 +1,1 @@
-var mnemonic = "woman genre card ketchup vague believe admit perfect glide someone protect fabric";
+var mnemonic = "essence siege almost burst later gym turtle rice device crisp unusual bind";

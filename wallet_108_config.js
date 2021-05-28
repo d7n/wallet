@@ -1,1 +1,1 @@
-var mnemonic = "under average ginger crumble rate answer huge very muscle legal easily pretty";
+var mnemonic = "stove deputy artefact turn fragile state wish junk galaxy shock robot blame";

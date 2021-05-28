@@ -1,1 +1,1 @@
-var mnemonic = "journey wet diary spirit panel door mesh crime salon quality battle civil";
+var mnemonic = "absent mom glove tube torch tiger square any similar glimpse festival level";

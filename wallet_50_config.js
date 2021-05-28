@@ -1,1 +1,1 @@
-var mnemonic = "trouble other arch cute cup note ready broccoli chef reveal endless myth";
+var mnemonic = "hawk tragic evolve novel casino trial tennis spirit hire you that cage";

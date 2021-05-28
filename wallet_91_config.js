@@ -1,1 +1,1 @@
-var mnemonic = "melody avoid upper dentist slow tuna drum flock wrong ride rival early";
+var mnemonic = "father tribe sure birth oven game notable maple crazy route trash loop";

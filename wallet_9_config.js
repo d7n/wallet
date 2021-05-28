@@ -1,1 +1,1 @@
-var mnemonic = "mother man curious net ticket mixture any piano bag admit alter scan";
+var mnemonic = "arrange donate canvas dinner jaguar party sibling smoke myth motor adult small";

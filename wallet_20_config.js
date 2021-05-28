@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo guitar frost crumble trade sense cycle razor avocado hungry soul myself";
+var mnemonic = "adult cupboard squeeze collect clap beyond host caution then rebel skill furnace";

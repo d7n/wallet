@@ -1,1 +1,1 @@
-var mnemonic = "unusual trophy follow angle plate lemon athlete hollow monitor notable equip sand";
+var mnemonic = "select degree reunion frozen atom subway find powder very gorilla toward whip";

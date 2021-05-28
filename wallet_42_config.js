@@ -1,1 +1,1 @@
-var mnemonic = "relief enough onion panda balcony apple spend borrow voyage drum expose vote";
+var mnemonic = "galaxy allow collect abstract double home never evidence much toss buzz evil";

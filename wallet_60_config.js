@@ -1,1 +1,1 @@
-var mnemonic = "enrich east witness crack token outdoor become burger hard unveil noise never";
+var mnemonic = "bunker nation bunker invite local return tank often raven major click grant";

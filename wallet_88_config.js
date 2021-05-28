@@ -1,1 +1,1 @@
-var mnemonic = "easy fancy chicken elbow speed bring hotel miracle rebuild emotion nation situate";
+var mnemonic = "apple leopard crystal sponsor hold soft danger race inner lonely name fragile";

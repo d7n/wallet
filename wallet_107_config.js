@@ -1,1 +1,1 @@
-var mnemonic = "project cart reunion tide obey since zebra lava forum disorder spread learn";
+var mnemonic = "stick bacon jelly youth army clerk question coral power bacon next wheat";

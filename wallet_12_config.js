@@ -1,1 +1,1 @@
-var mnemonic = "course chef ozone wagon grass summer once release tell equal possible voyage";
+var mnemonic = "disagree draw hover patch pledge mention grunt depend opera grocery carry armed";

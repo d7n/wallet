@@ -1,1 +1,1 @@
-var mnemonic = "fan craft female street nurse govern bonus broom trap flower neglect aerobic";
+var mnemonic = "maid collect flock diet squeeze van ahead antique fatal whip antenna online";

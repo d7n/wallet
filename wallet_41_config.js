@@ -1,1 +1,1 @@
-var mnemonic = "antenna helmet pepper angry daughter dumb occur inherit sight crater flush acquire";
+var mnemonic = "day reunion orchard inspire youth candy margin error abuse orphan act region";

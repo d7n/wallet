@@ -1,1 +1,1 @@
-var mnemonic = "prize summer retire place labor prison company curtain cry control weather produce";
+var mnemonic = "tuna unhappy apology hen ramp goddess know matter abandon drink swing wealth";
