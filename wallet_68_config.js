@@ -1,1 +1,1 @@
-var mnemonic = "miracle entire husband main slender actual dash bag mercy hover swallow just";
+var mnemonic = "deposit host sorry bicycle price stairs ginger mandate gossip behave matter height";

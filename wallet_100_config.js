@@ -1,1 +1,1 @@
-var mnemonic = "caution reduce sponsor cup oil weather code spring recycle injury matrix spike";
+var mnemonic = "iron dinosaur tuna measure eyebrow radar bleak off element leopard repair cement";

@@ -1,1 +1,1 @@
-var mnemonic = "earn scare drama renew volume snap dinner erosion economy box burst blood";
+var mnemonic = "try sad tomato wish staff symbol learn bomb grief entire grace toe";

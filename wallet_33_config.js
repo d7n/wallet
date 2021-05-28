@@ -1,1 +1,1 @@
-var mnemonic = "labor already cliff leisure jump erode vanish doctor awesome urban lucky film";
+var mnemonic = "faculty arrest siren destroy predict timber echo equip aware antique reopen swarm";

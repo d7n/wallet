@@ -1,1 +1,1 @@
-var mnemonic = "worth easy language slam blame plate noise major wait donate fee clever";
+var mnemonic = "shock melt rescue stem chef spawn daughter trial horse diet blanket bar";

@@ -1,1 +1,1 @@
-var mnemonic = "report exclude wisdom wink antenna lab spider olympic link upgrade accuse trash";
+var mnemonic = "person volcano coyote own human arrow develop lemon organ dumb sure rib";

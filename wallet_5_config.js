@@ -1,1 +1,1 @@
-var mnemonic = "pen way impact strategy wet advance hair theme forest wife fatal ice";
+var mnemonic = "smooth main brave empty taxi cross scout give image mix suspect lemon";

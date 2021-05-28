@@ -1,1 +1,1 @@
-var mnemonic = "tissue bachelor shell hockey select develop beauty practice swap flavor panel have";
+var mnemonic = "enact reopen mercy expect material toast vital trial process edge produce comic";

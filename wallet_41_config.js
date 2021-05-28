@@ -1,1 +1,1 @@
-var mnemonic = "color merge vague present annual effort tornado tooth situate evolve permit enjoy";
+var mnemonic = "island sign found legal tired auction crystal caught garden mechanic awkward modify";

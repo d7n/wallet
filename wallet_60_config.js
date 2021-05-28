@@ -1,1 +1,1 @@
-var mnemonic = "turkey erase rib glide industry afford prepare crew auction achieve inch survey";
+var mnemonic = "canvas food method adult wash decrease tip win owner pilot million slam";

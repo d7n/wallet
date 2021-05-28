@@ -1,1 +1,1 @@
-var mnemonic = "stairs frozen crazy region prize kingdom glass proof vicious noodle blanket hammer";
+var mnemonic = "one track army palm curtain remove glass practice grocery fruit town shoot";

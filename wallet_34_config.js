@@ -1,1 +1,1 @@
-var mnemonic = "letter shell jacket shoot firm march toilet ask guilt nothing angry winter";
+var mnemonic = "pigeon donor final desk tribe joy release follow response peanut prize maximum";

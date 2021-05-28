@@ -1,1 +1,1 @@
-var mnemonic = "bench banner define announce cash reunion prize bread stuff cushion air sand";
+var mnemonic = "cannon chef blast catalog access raise lunch develop armed kit angry august";

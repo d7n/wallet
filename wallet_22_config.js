@@ -1,1 +1,1 @@
-var mnemonic = "kitchen spawn cherry horse target ginger month cycle zoo snap shift car";
+var mnemonic = "slight labor neither job soccer cancel orphan blossom gift crew lizard cave";

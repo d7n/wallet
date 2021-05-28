@@ -1,1 +1,1 @@
-var mnemonic = "recycle album flip sleep warm allow kidney suit mixed benefit weasel slam";
+var mnemonic = "faith opinion nation alien piano course engine sun fuel check place type";

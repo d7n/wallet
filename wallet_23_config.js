@@ -1,1 +1,1 @@
-var mnemonic = "damage one dolphin raven wing achieve ribbon barrel predict fall whip opera";
+var mnemonic = "winter agree client page spoil bounce index face grain embody effort bamboo";

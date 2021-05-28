@@ -1,1 +1,1 @@
-var mnemonic = "chalk garlic design script faith pigeon emotion remember saddle lobster summer actor";
+var mnemonic = "pear farm remind permit august soup van pioneer wolf foot parade dust";

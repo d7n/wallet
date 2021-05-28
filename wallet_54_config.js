@@ -1,1 +1,1 @@
-var mnemonic = "grant hill dynamic garment celery pistol neck repeat turtle upon stool usage";
+var mnemonic = "digital nose scheme protect almost dry unlock bomb example annual move flag";

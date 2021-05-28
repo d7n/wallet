@@ -1,1 +1,1 @@
-var mnemonic = "online bid cage smoke dish goddess verb index inch pear second catalog";
+var mnemonic = "deal identify pill cheese humble mean quality olive crunch swear ocean grab";

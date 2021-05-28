@@ -1,1 +1,1 @@
-var mnemonic = "gossip machine target siege sense indoor cup glad square cliff goat detect";
+var mnemonic = "first shiver oven wedding cradle educate know wonder cement poem catch fringe";

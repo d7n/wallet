@@ -1,1 +1,1 @@
-var mnemonic = "sad chuckle prepare excuse patrol such silver jacket crucial fiscal kiss fancy";
+var mnemonic = "eye mirror unaware nuclear put open flag describe intact loud theme emerge";

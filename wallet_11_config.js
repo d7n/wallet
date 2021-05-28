@@ -1,1 +1,1 @@
-var mnemonic = "verb finish idle session typical false cute test special ice target flash";
+var mnemonic = "common chronic forward real turn stadium ecology obvious laundry boss food scrub";

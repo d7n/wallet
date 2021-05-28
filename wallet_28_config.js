@@ -1,1 +1,1 @@
-var mnemonic = "join become minute guide badge juice because impulse reason tourist filter banana";
+var mnemonic = "what provide win rice hunt drift alcohol fetch grape trial vessel grape";

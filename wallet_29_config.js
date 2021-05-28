@@ -1,1 +1,1 @@
-var mnemonic = "luxury laundry runway pilot bottom clog since soap hidden pottery quote update";
+var mnemonic = "come puzzle shine nothing trophy gown bullet sea salon ticket attack obtain";

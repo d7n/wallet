@@ -1,1 +1,1 @@
-var mnemonic = "rival grab label purchase rocket mercy critic meadow attract topple myth cabbage";
+var mnemonic = "deny target illegal time basic stove silent detect axis jazz tail casino";

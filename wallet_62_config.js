@@ -1,1 +1,1 @@
-var mnemonic = "fly copper leg lyrics blood author roast snap cook orient crowd slight";
+var mnemonic = "suit donor sketch success argue embody client slab vapor exile dose vital";

@@ -1,1 +1,1 @@
-var mnemonic = "city mosquito gesture puzzle whale tomato action try humor tooth problem change";
+var mnemonic = "better vendor miracle parent december list large fire because cement learn surface";

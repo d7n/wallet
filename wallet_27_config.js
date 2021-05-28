@@ -1,1 +1,1 @@
-var mnemonic = "debate craft stumble speed volume program topple rough furnace thing fatigue begin";
+var mnemonic = "dish great paper upper now inquiry usage own camera fame brisk photo";

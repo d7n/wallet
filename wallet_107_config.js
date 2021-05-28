@@ -1,1 +1,1 @@
-var mnemonic = "shoot sweet curve moral corn rotate barrel pudding voyage mango mechanic pudding";
+var mnemonic = "ozone arrest duck concert fall image bean fever gym vacant antenna panda";

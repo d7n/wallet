@@ -1,1 +1,1 @@
-var mnemonic = "material comic saddle hood crime industry trial brand toilet goddess argue office";
+var mnemonic = "size paper afraid unknown decrease reform topple kid arm rescue company candy";

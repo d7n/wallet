@@ -1,1 +1,1 @@
-var mnemonic = "script weekend refuse resource jewel nose naive stand retire recycle powder shy";
+var mnemonic = "sea mix century rhythm dinner file garlic panda creek forward praise bachelor";

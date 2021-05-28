@@ -1,1 +1,1 @@
-var mnemonic = "estate response violin magnet detail record gain ceiling taxi benefit cheese wine";
+var mnemonic = "cliff lumber horror keen trash verify donkey solar best apology number solution";

@@ -1,1 +1,1 @@
-var mnemonic = "vague enemy trouble fortune such engage lion surface shove chief sign surface";
+var mnemonic = "ripple elegant rule bachelor load prefer trophy seven remind prize average void";

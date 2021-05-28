@@ -1,1 +1,1 @@
-var mnemonic = "mosquito leaf suffer clay hundred brain relax library demise month circle cinnamon";
+var mnemonic = "erosion usual shock jelly unveil season flip surprise critic arrest sock draft";

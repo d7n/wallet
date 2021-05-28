@@ -1,1 +1,1 @@
-var mnemonic = "wise void monitor canyon curtain rich celery climb observe broccoli album lift";
+var mnemonic = "boring accident search real pipe mystery name steak census clean year fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "motor weapon trade upper can omit grace judge calm give language fruit";
+var mnemonic = "clutch flip canoe gloom dirt antique orphan orient rotate dizzy dice rice";

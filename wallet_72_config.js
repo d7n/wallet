@@ -1,1 +1,1 @@
-var mnemonic = "nation pattern split question length gaze strike throw alter weather engage vacant";
+var mnemonic = "glance bind episode series good else museum boost suspect craft whip govern";

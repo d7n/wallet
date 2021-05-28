@@ -1,1 +1,1 @@
-var mnemonic = "twist dust sad entry faculty they custom shiver royal genre thought hover";
+var mnemonic = "erupt model rebuild pizza menu license truck lab luxury rather radar change";

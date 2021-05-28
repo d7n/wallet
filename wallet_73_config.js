@@ -1,1 +1,1 @@
-var mnemonic = "burger exit habit glue catalog smooth gadget humble blossom ski enlist hurt";
+var mnemonic = "process moral fire puzzle alert asset animal oven mechanic effort good state";

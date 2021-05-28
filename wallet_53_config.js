@@ -1,1 +1,1 @@
-var mnemonic = "shadow lawsuit safe degree increase rifle exchange matter tumble brain million knife";
+var mnemonic = "tired rent motion find board either gallery enjoy picnic exchange survey train";

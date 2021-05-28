@@ -1,1 +1,1 @@
-var mnemonic = "fiber sorry paper cloth summer radio grass mesh marriage mansion bacon used";
+var mnemonic = "drip admit cruise ancient fun misery intact matrix universe flame lend crawl";

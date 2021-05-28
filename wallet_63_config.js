@@ -1,1 +1,1 @@
-var mnemonic = "check negative train rude eight defense smooth number pill unaware gasp cave";
+var mnemonic = "antenna hobby divorce lawn alpha physical two narrow account hockey siren edge";

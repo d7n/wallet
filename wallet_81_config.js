@@ -1,1 +1,1 @@
-var mnemonic = "pizza glad one fruit error govern funny party false upset stone virtual";
+var mnemonic = "priority route burger winner blind stumble permit sword system heart surface oyster";

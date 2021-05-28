@@ -1,1 +1,1 @@
-var mnemonic = "fitness hidden mushroom soon sport surprise taxi bag spare clay chase feel";
+var mnemonic = "inhale alcohol urban cover brown garbage pluck crouch fade parade cart eternal";

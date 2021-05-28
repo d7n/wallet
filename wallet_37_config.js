@@ -1,1 +1,1 @@
-var mnemonic = "security find rather depart circle ozone travel neglect gasp canal leave leave";
+var mnemonic = "napkin interest move forum beef chef volume hat outside radio clay mutual";

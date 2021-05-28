@@ -1,1 +1,1 @@
-var mnemonic = "cube science obvious utility powder cupboard fragile recycle palm payment doll captain";
+var mnemonic = "sponsor people page final transfer coffee drama foam ensure remind admit rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "much race album fluid traffic transfer baby unfold butter spin hammer mirror";
+var mnemonic = "finger useless stock coral baby fuel damage prosper planet later release tennis";

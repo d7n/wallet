@@ -1,1 +1,1 @@
-var mnemonic = "sock equal emotion strike million pull arm concert frost mention bargain wing";
+var mnemonic = "bicycle bundle walk dizzy reveal remind recall artwork fish tail attend virtual";

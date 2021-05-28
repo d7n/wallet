@@ -1,1 +1,1 @@
-var mnemonic = "able song nice ugly hope inquiry pony anchor person conduct egg black";
+var mnemonic = "alter welcome insane gossip dawn sword rally sell bargain party brief position";

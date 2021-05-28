@@ -1,1 +1,1 @@
-var mnemonic = "emotion leg happy prosper garden demise cliff attitude knock whisper make seed";
+var mnemonic = "minute wrong pulp excuse gather then danger seek swap usage nerve rifle";

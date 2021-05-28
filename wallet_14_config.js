@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog profit forest alpha nut project trumpet bread cradle deal help drip";
+var mnemonic = "easy rich perfect diagram cover bullet race age spin quantum digital turkey";

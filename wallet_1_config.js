@@ -1,1 +1,1 @@
-var mnemonic = "face flip knock error amazing brain thought test okay hungry indicate enlist";
+var mnemonic = "inform edge winter awful ice throw bicycle enable suit cash cube oval";

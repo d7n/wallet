@@ -1,1 +1,1 @@
-var mnemonic = "void narrow diamond start rent glimpse venture umbrella protect energy riot glory";
+var mnemonic = "leaf mansion defense crew detect wealth unhappy venture flush vapor castle sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "humble consider grief impose injury drip caught weapon roast degree interest shaft";
+var mnemonic = "fame bright sight fly air cave obey can blush cash horse either";

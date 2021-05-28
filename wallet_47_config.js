@@ -1,1 +1,1 @@
-var mnemonic = "purpose quantum video fury amused weekend slender trust since trigger bind lobster";
+var mnemonic = "round enlist miss stock fatigue crime chat post theme vanish churn cross";

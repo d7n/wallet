@@ -1,1 +1,1 @@
-var mnemonic = "love across jewel proud asset when slot poverty apology acoustic rib ostrich";
+var mnemonic = "card any hip old tilt payment assist student mistake monster floor glue";

@@ -1,1 +1,1 @@
-var mnemonic = "budget false stairs hub swear edit post deny patient measure village icon";
+var mnemonic = "volcano tired face among rough foster praise wrap slab result property tobacco";

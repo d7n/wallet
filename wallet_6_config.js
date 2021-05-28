@@ -1,1 +1,1 @@
-var mnemonic = "rally inner pulse item account repair cause feed amused round struggle nothing";
+var mnemonic = "trend round school erode depend ranch region false concert receive whip guide";

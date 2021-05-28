@@ -1,1 +1,1 @@
-var mnemonic = "invest spot weasel cable attract wish ramp lemon select glove enroll latin";
+var mnemonic = "list test caught pet demise whip rapid siege decide honey near pitch";

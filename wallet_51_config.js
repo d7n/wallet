@@ -1,1 +1,1 @@
-var mnemonic = "lend property rhythm doll ask piece jungle vivid only drop combine bring";
+var mnemonic = "stomach recycle vague glimpse tenant midnight broccoli river banner fatigue advance require";

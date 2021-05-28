@@ -1,1 +1,1 @@
-var mnemonic = "document glue yard middle damp snake medal gown merge horror hospital swim";
+var mnemonic = "toward local input cute blind maximum pair powder cradle modify barrel umbrella";

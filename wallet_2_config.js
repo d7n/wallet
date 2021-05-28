@@ -1,1 +1,1 @@
-var mnemonic = "mirror dune someone hold into resemble draft park elder version abuse junior";
+var mnemonic = "coil warrior dolphin reject tell display choose picture enhance worry charge once";

@@ -1,1 +1,1 @@
-var mnemonic = "collect empower cream confirm defy noodle spider about test winner thought funny";
+var mnemonic = "awake minute gallery term love crazy bacon doll city cement neck recipe";

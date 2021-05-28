@@ -1,1 +1,1 @@
-var mnemonic = "pepper scene box suspect huge narrow wide short dolphin absurd kite bronze";
+var mnemonic = "differ badge jacket lonely spring month spoon polar pitch foil focus hard";

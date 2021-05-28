@@ -1,1 +1,1 @@
-var mnemonic = "coffee salt pass client sign expect mosquito buffalo mirror hero expire tragic";
+var mnemonic = "tree proud mother excite animal alien link tent pass image unfold wash";

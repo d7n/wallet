@@ -1,1 +1,1 @@
-var mnemonic = "below flight awake laundry rural pistol stool upset damage borrow stone inquiry";
+var mnemonic = "base call frequent symptom little uniform trip hidden heavy mass tide coconut";

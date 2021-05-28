@@ -1,1 +1,1 @@
-var mnemonic = "lens mutual odor law lawsuit caught evolve chicken lobster escape invest rain";
+var mnemonic = "kid endorse pill lunar mention payment soldier elbow donate cruel say sniff";

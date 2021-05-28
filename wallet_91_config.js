@@ -1,1 +1,1 @@
-var mnemonic = "edge window boring whisper focus pear easy panther advance visual approve virus";
+var mnemonic = "vital kite kiwi faint issue flavor become describe below dove inject album";

@@ -1,1 +1,1 @@
-var mnemonic = "cute cigar drama phrase refuse blur family glide casual leg situate delay";
+var mnemonic = "alert exit large able keen world liar under provide record decrease nice";

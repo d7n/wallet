@@ -1,1 +1,1 @@
-var mnemonic = "dog illegal guitar rug such lazy toward frost jaguar spell fury garden";
+var mnemonic = "agree cactus smart marriage open betray distance cute mobile spike above title";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance digital despair orbit enter universe august chicken doll account office top";
+var mnemonic = "become reveal pulp hard life wrestle lizard siren panel symbol ridge canvas";

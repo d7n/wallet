@@ -1,1 +1,1 @@
-var mnemonic = "inside pizza diary system south duty priority trick injury game genuine noise";
+var mnemonic = "present engage already brother cargo suit sun action pig screen nut scale";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur rain amazing sweet siege swear deputy cross wagon either bargain float";
+var mnemonic = "frost purchase awful holiday more venue pass scene eternal effort brisk regular";

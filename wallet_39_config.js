@@ -1,1 +1,1 @@
-var mnemonic = "clap bone illegal fork obey actual that mango theory differ basic faculty";
+var mnemonic = "lend below since bamboo suggest valley pair fortune ensure light foot home";

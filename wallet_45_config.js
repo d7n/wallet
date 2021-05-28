@@ -1,1 +1,1 @@
-var mnemonic = "judge steak civil ask roof harvest disagree decrease upper reform capital room";
+var mnemonic = "half people waste color month forum wear fetch enroll celery assist athlete";

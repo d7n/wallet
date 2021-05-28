@@ -1,1 +1,1 @@
-var mnemonic = "actress donkey bamboo pond doctor corn ranch decide lyrics ski silent this";
+var mnemonic = "rose depart clown depend welcome bounce zero abuse fine market acquire icon";

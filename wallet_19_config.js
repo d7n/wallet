@@ -1,1 +1,1 @@
-var mnemonic = "come cause survey priority over young fortune oppose there nut angry unit";
+var mnemonic = "select dragon piano digital dignity protect flavor father doctor diary tonight there";

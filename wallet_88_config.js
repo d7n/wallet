@@ -1,1 +1,1 @@
-var mnemonic = "mimic melt wink east define maze stock point tone wonder job crash";
+var mnemonic = "gift party parent kitchen fatal exclude heart enrich ostrich moment welcome lucky";

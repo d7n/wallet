@@ -1,1 +1,1 @@
-var mnemonic = "typical describe wrong copper exist illegal tool ability chalk unit reunion yellow";
+var mnemonic = "surge task picture limb manage goat sound december zoo grunt adjust drip";

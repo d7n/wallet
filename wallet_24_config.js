@@ -1,1 +1,1 @@
-var mnemonic = "relax pitch lottery awesome trouble narrow code maple oval bulk govern skirt";
+var mnemonic = "page weapon advance glad visit prosper twelve where over panther effort swamp";

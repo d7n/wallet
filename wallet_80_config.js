@@ -1,1 +1,1 @@
-var mnemonic = "easy blouse state fatigue enable follow blanket chef fence raccoon bulb saddle";
+var mnemonic = "obey chicken paper mail purchase result syrup behind supply wool pass spend";

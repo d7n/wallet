@@ -1,1 +1,1 @@
-var mnemonic = "fault vanish sorry excess program focus flag copper icon ship vacuum recall";
+var mnemonic = "feature welcome maple evoke ahead carbon picture holiday gossip shiver cup boil";
