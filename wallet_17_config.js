@@ -1,1 +1,1 @@
-var mnemonic = "frost ghost ribbon clump truck cliff easily sibling bamboo eternal stool outside";
+var mnemonic = "feel feed talent lamp behind spider again whip taxi roast eternal plunge";

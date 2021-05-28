@@ -1,1 +1,1 @@
-var mnemonic = "census fiction client capable fruit bleak noble health frost luxury flower wet";
+var mnemonic = "hundred october jar final tuition common grape price abuse maple acquire copper";

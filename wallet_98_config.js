@@ -1,1 +1,1 @@
-var mnemonic = "oblige polar program sail soda light talent decade song spare fix anger";
+var mnemonic = "worry order word visa renew figure account guitar chicken lobster tenant battle";

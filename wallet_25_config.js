@@ -1,1 +1,1 @@
-var mnemonic = "amount peanut duty design list feel clay swim spring turn trade valve";
+var mnemonic = "wrestle jungle now state video power torch quiz remove rabbit traffic kit";

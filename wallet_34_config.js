@@ -1,1 +1,1 @@
-var mnemonic = "ice deer camp limit flee equip mosquito echo solar impact into scout";
+var mnemonic = "bar tell zone normal bind kit student note arrest globe fix hungry";

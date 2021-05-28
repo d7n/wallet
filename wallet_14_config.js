@@ -1,1 +1,1 @@
-var mnemonic = "target purchase left daring final frog party border innocent nuclear slogan weird";
+var mnemonic = "fitness join fitness define win erase kid correct ostrich find material wild";

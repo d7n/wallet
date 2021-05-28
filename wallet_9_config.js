@@ -1,1 +1,1 @@
-var mnemonic = "when outdoor coin donate win engage meadow shrimp cause arrow nothing away";
+var mnemonic = "never chunk unfold taxi frequent board wide ranch detect change balance frog";

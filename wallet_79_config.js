@@ -1,1 +1,1 @@
-var mnemonic = "ready juice flavor sorry consider open error enough grant middle gold merge";
+var mnemonic = "effort original bamboo scene harsh such mystery shield fall corn health item";

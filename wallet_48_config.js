@@ -1,1 +1,1 @@
-var mnemonic = "spread token fold drama copy trip other language unit universe require acid";
+var mnemonic = "divorce arrive banana shoulder voice satisfy cloud media scout amount middle hat";

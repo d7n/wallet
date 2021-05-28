@@ -1,1 +1,1 @@
-var mnemonic = "rigid avoid gas rally wood noise now hen aspect slush brave motor";
+var mnemonic = "base siren hair gorilla annual jump walnut razor suit diary romance govern";

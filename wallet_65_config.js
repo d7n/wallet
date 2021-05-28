@@ -1,1 +1,1 @@
-var mnemonic = "public festival glory seven chat dish wing cave van hint post cousin";
+var mnemonic = "shoe desert identify cabin olive air ocean aspect wear latin spoon spatial";

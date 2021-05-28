@@ -1,1 +1,1 @@
-var mnemonic = "west defense arrow margin amateur plate ketchup undo use plug scare engine";
+var mnemonic = "glass burden toy antique attack theme trend puzzle enlist wealth sister produce";

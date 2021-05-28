@@ -1,1 +1,1 @@
-var mnemonic = "fame brave basket leave either ostrich amused deer turtle foster candy desert";
+var mnemonic = "old route other hawk fine night news tragic screen quality injury mad";

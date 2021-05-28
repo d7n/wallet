@@ -1,1 +1,1 @@
-var mnemonic = "stool swamp goose renew tourist expect sorry brush increase gadget female knife";
+var mnemonic = "luxury arena escape clean print sea crunch once proud concert scissors sound";

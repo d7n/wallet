@@ -1,1 +1,1 @@
-var mnemonic = "parrot word weapon stand wood dwarf sun lift owner approve whip motor";
+var mnemonic = "sure firm festival seat enter convince task talk bottom wasp venue run";

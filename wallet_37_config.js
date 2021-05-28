@@ -1,1 +1,1 @@
-var mnemonic = "muffin segment good daughter fox sugar cluster field voyage pepper used deputy";
+var mnemonic = "photo glimpse repeat clever assist vintage popular crowd milk warfare drip confirm";

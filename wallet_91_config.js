@@ -1,1 +1,1 @@
-var mnemonic = "hobby ski festival animal over gallery claw kid source tribe width sibling";
+var mnemonic = "august survey gossip hurry embrace cage student coyote degree ocean brush parade";

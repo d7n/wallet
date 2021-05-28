@@ -1,1 +1,1 @@
-var mnemonic = "long inherit aisle entry squirrel lyrics pulp sad kid scale pistol theme";
+var mnemonic = "guilt danger must avocado dirt taxi mom faith notable debate chest holiday";

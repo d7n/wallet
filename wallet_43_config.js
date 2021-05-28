@@ -1,1 +1,1 @@
-var mnemonic = "reopen section below supreme agree busy early gravity tide bullet trigger shallow";
+var mnemonic = "liberty extend cream reflect fix desk police always trend bring dash fun";

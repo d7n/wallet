@@ -1,1 +1,1 @@
-var mnemonic = "curtain insane topple law salute build camera swap online motor north budget";
+var mnemonic = "shove arm caught shaft inherit disorder this sample wasp taxi vehicle able";

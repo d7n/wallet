@@ -1,1 +1,1 @@
-var mnemonic = "deliver write guess purpose airport keep plunge equal mass gadget hill patrol";
+var mnemonic = "report eager junior scheme runway town claw gesture balance police forward daring";

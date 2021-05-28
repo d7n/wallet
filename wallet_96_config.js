@@ -1,1 +1,1 @@
-var mnemonic = "stairs solution write suffer inherit cat rib tide gaze rich wash noble";
+var mnemonic = "uniform dismiss fitness three oyster casino fresh east energy outer chase sleep";

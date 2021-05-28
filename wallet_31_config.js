@@ -1,1 +1,1 @@
-var mnemonic = "depend lunch tip exercise brand cannon actor remember cost file wash logic";
+var mnemonic = "dilemma link audit woman hello glory fabric element bleak electric various river";

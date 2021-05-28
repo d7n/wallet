@@ -1,1 +1,1 @@
-var mnemonic = "drift rich fatal street amazing mass cushion similar ability father output ticket";
+var mnemonic = "praise first yellow advice profit include very trash country sick stable warm";

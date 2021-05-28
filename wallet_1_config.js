@@ -1,1 +1,1 @@
-var mnemonic = "thumb fiscal release traffic bachelor door debate mountain first kid route top";
+var mnemonic = "hover february shell flame chat number spatial eye ozone coyote fabric bronze";

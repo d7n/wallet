@@ -1,1 +1,1 @@
-var mnemonic = "differ copper two august ripple globe tower sustain pass poverty bomb picture";
+var mnemonic = "insane unusual cricket flat junk borrow spin panther ripple faculty predict primary";

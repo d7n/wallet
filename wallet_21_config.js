@@ -1,1 +1,1 @@
-var mnemonic = "zebra radio stool joke urge network act grocery utility depth help gown";
+var mnemonic = "kid crew flavor key spatial area gesture online best lamp hand bind";

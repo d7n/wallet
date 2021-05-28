@@ -1,1 +1,1 @@
-var mnemonic = "divide guard enable fatal spare blanket muffin suggest easily lounge giggle giraffe";
+var mnemonic = "zero bring kick divorce olive ozone law fitness witness nose food dumb";

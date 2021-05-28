@@ -1,1 +1,1 @@
-var mnemonic = "coral evil another simple layer pull problem gym letter brief ridge inhale";
+var mnemonic = "much uniform news above prefer dwarf coil speak junk model heavy lizard";

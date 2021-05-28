@@ -1,1 +1,1 @@
-var mnemonic = "autumn maze express winter surge main emerge unfair income smoke shock secret";
+var mnemonic = "shrimp mix problem maid vapor memory mixed swamp federal husband sell tennis";

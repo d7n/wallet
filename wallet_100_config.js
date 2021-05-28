@@ -1,1 +1,1 @@
-var mnemonic = "steak where tuition sniff stamp world snake oppose elegant erode degree clip";
+var mnemonic = "immense dolphin twenty wide smoke remove menu require cross easy pelican twelve";

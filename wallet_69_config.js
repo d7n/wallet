@@ -1,1 +1,1 @@
-var mnemonic = "desk hammer avoid web word turtle only awful crowd hood number reject";
+var mnemonic = "bitter topple able voyage object pipe trip obvious awesome actor oak maid";

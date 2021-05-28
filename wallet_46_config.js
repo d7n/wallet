@@ -1,1 +1,1 @@
-var mnemonic = "ten federal brick roof squeeze run disagree defy essence awake gesture summer";
+var mnemonic = "sound trigger example myself despair voyage omit ripple enough gadget lizard evoke";

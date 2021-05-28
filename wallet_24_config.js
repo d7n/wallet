@@ -1,1 +1,1 @@
-var mnemonic = "slice vital infant harbor truth main portion region what biology doctor chronic";
+var mnemonic = "puzzle egg fade inflict hybrid cigar vessel infant file wheat know chat";

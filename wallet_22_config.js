@@ -1,1 +1,1 @@
-var mnemonic = "charge guess suffer exercise maple monitor normal behave boost first rate tongue";
+var mnemonic = "lecture language bronze stumble globe net trouble sorry machine blade soda shaft";

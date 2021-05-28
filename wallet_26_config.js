@@ -1,1 +1,1 @@
-var mnemonic = "capital surface arrive salon material flip album lava luxury pony success protect";
+var mnemonic = "follow yellow hint girl floor crouch capable bacon ethics hour obvious ice";

@@ -1,1 +1,1 @@
-var mnemonic = "detail oil vendor life vicious coast enact tragic crime arrow window memory";
+var mnemonic = "prefer song voyage script mercy quiz person amount spirit hub quantum blouse";

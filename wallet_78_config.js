@@ -1,1 +1,1 @@
-var mnemonic = "crawl nature pepper exact slight company solid dust pipe math drift powder";
+var mnemonic = "matter forest pole inform police glad electric define dice horn word quit";

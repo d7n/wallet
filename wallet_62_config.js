@@ -1,1 +1,1 @@
-var mnemonic = "body essay segment response source ordinary cargo disagree question amused alone web";
+var mnemonic = "rent brave manual pony apology injury scare series say problem candy heavy";

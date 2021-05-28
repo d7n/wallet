@@ -1,1 +1,1 @@
-var mnemonic = "phone gown reduce olympic olympic gentle mystery jewel attract physical assault approve";
+var mnemonic = "beach aspect alone fault belt retreat company old current picture document muscle";

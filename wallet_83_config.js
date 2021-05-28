@@ -1,1 +1,1 @@
-var mnemonic = "resist expand surface owner urge neither hair penalty school head ladder buzz";
+var mnemonic = "hurry fever dawn artist protect elevator machine cheap radio shoe minor boring";

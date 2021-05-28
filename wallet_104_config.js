@@ -1,1 +1,1 @@
-var mnemonic = "nature grit aim blush culture much engage atom salt latin program secret";
+var mnemonic = "cake hunt deny meadow recipe young beef another journey raise picture sort";

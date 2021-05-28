@@ -1,1 +1,1 @@
-var mnemonic = "true blue excess august unveil company antenna flavor artist curtain tomorrow able";
+var mnemonic = "elephant soap icon multiply grain token toe clock donkey brick caught benefit";

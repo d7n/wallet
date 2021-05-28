@@ -1,1 +1,1 @@
-var mnemonic = "fit dice identify typical shock comic ski hill spot page provide all";
+var mnemonic = "engage token capable bunker use sell ocean that profit close divorce actual";

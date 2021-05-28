@@ -1,1 +1,1 @@
-var mnemonic = "divide student coin uniform devote owner oxygen good marble cream puzzle sweet";
+var mnemonic = "tilt reject change prevent give luxury rule come fruit rally salad birth";

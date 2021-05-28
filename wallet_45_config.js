@@ -1,1 +1,1 @@
-var mnemonic = "donor invite exile item entry tape royal bid parent all voyage sadness";
+var mnemonic = "bargain mercy embark artefact cost parade stand grain enjoy retreat abandon poverty";

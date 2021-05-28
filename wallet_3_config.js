@@ -1,1 +1,1 @@
-var mnemonic = "mixed life board swamp endorse genius involve blush still essence spoil gym";
+var mnemonic = "wood baby cinnamon goddess dragon cook drip reason live vast ostrich furnace";

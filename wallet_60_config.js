@@ -1,1 +1,1 @@
-var mnemonic = "depend carbon width fatal road fashion nice ketchup rookie lounge barrel never";
+var mnemonic = "dawn list tenant globe chapter hungry piece bulk beauty lunch vicious quantum";

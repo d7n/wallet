@@ -1,1 +1,1 @@
-var mnemonic = "license sugar island farm tell elephant photo uncle brick front wet water";
+var mnemonic = "donate general ostrich collect tell visual fatal volcano come obey traffic demise";

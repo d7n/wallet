@@ -1,1 +1,1 @@
-var mnemonic = "tongue over cannon poet twin jewel border float salute account cup win";
+var mnemonic = "have magic zebra throw wine foot either hazard humble stove range gym";

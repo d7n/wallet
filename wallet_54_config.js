@@ -1,1 +1,1 @@
-var mnemonic = "torch uncle actor expire mixture velvet someone defy replace feature evolve original";
+var mnemonic = "broom topic outdoor purpose crumble pumpkin topple glass airport base window vibrant";

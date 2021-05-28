@@ -1,1 +1,1 @@
-var mnemonic = "paper fine suit skill treat stick stereo shadow item smart unfold morning";
+var mnemonic = "broccoli else peanut weekend olive depend bar hamster way witness load orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "barely myself trust cement open patient gift gorilla target fortune search stamp";
+var mnemonic = "unit coyote depend conduct rocket update ride cool response sign world friend";

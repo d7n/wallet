@@ -1,1 +1,1 @@
-var mnemonic = "nut quiz ancient extra grief scrap artwork sphere category morning family route";
+var mnemonic = "fox chase equal level weapon eagle deposit mixed boat pigeon novel rug";

@@ -1,1 +1,1 @@
-var mnemonic = "border memory bind cause interest anchor gasp absorb snack chalk virtual public";
+var mnemonic = "kitchen among shine unaware maple museum expire verb address organ symptom street";

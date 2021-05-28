@@ -1,1 +1,1 @@
-var mnemonic = "weekend crawl affair increase pattern man gesture army broken patrol warfare initial";
+var mnemonic = "friend noble rose demand average copper text memory ketchup noble tornado credit";

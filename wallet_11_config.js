@@ -1,1 +1,1 @@
-var mnemonic = "swarm wreck you horror flee rhythm lamp cloud wish fitness uphold outside";
+var mnemonic = "athlete legend boring town love sad shell engage secret other use crystal";

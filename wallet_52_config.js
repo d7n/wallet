@@ -1,1 +1,1 @@
-var mnemonic = "glide summer flock hobby page surface dolphin access license spoon aspect poet";
+var mnemonic = "winter organ dry unusual bitter dish exile canoe course element thunder lake";

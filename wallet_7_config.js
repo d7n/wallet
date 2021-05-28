@@ -1,1 +1,1 @@
-var mnemonic = "rotate limb rebuild cute segment lazy layer include nose avocado style voice";
+var mnemonic = "answer scheme dynamic demand glue purity original disease battle agent kiss index";

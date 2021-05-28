@@ -1,1 +1,1 @@
-var mnemonic = "gown inherit cry satisfy resemble trend recall helmet vehicle latin hip parade";
+var mnemonic = "congress notable session crush casino receive effort give around ignore normal wall";

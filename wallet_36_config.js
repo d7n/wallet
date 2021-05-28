@@ -1,1 +1,1 @@
-var mnemonic = "behave undo young elite update mind cliff employ melt drum survey deliver";
+var mnemonic = "slot crucial tongue motor job car kite fold prize leaf off ready";

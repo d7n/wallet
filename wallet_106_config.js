@@ -1,1 +1,1 @@
-var mnemonic = "early debate fix public will text grief liberty way chicken poverty catalog";
+var mnemonic = "enter fabric school fault naive domain assume arch couch render fever topic";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond census hello photo miss erosion spin hill input sunset erase gallery";
+var mnemonic = "catalog desert flag key mesh impose alley rain space theme evil pass";

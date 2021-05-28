@@ -1,1 +1,1 @@
-var mnemonic = "gospel river million borrow era swim shy simple grow search silver gate";
+var mnemonic = "join orbit deliver original exist harvest goat night dizzy coil make mean";

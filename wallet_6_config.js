@@ -1,1 +1,1 @@
-var mnemonic = "crack nothing festival idle coast wreck spoil outside doll tortoise sibling palace";
+var mnemonic = "chapter modify text goose real direct merge what vendor crazy ski vanish";

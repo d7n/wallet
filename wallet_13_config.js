@@ -1,1 +1,1 @@
-var mnemonic = "vacant caught decide census note nasty jelly fork region ball orphan motor";
+var mnemonic = "poem flat again bicycle awesome noise another motor hotel bullet borrow approve";

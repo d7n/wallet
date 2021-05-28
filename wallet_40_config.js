@@ -1,1 +1,1 @@
-var mnemonic = "palace rigid air style bus amateur rose option angle opera today vault";
+var mnemonic = "turtle diamond already shallow memory shoot inherit together picture evil purpose sock";

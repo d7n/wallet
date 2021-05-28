@@ -1,1 +1,1 @@
-var mnemonic = "universe reveal include another blush wolf purpose cattle hidden medal retreat crash";
+var mnemonic = "earn spirit game glad powder perfect climb loop goddess embody odor control";

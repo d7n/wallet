@@ -1,1 +1,1 @@
-var mnemonic = "virtual battle gain beach panel captain goddess sick conduct blast burst cake";
+var mnemonic = "jewel inquiry auction curious sick cream snow enact move rude quality retreat";

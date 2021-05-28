@@ -1,1 +1,1 @@
-var mnemonic = "junk position hard mask card seat frog armed various dismiss salon elite";
+var mnemonic = "cloud raccoon surprise wire exile now knife slab dismiss wise tiny dizzy";

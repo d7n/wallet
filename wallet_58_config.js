@@ -1,1 +1,1 @@
-var mnemonic = "scan aspect razor shoot drive into clip board salt wrong pet panda";
+var mnemonic = "axis profit farm sadness fantasy thank bottom join float rifle essay elephant";

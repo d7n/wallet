@@ -1,1 +1,1 @@
-var mnemonic = "riot hat oppose obtain bundle airport angle zebra twenty caught badge album";
+var mnemonic = "absurd tag brother observe alone donate depart glass salt logic sphere feature";

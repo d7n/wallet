@@ -1,1 +1,1 @@
-var mnemonic = "stand thunder gentle lizard make slot fossil fly hobby amused grid cruel";
+var mnemonic = "soon vote rain earth setup ordinary spoon split popular glass oyster denial";

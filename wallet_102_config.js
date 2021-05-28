@@ -1,1 +1,1 @@
-var mnemonic = "true rally shove easy during used usage better truck track narrow call";
+var mnemonic = "together multiply melody emotion ketchup pattern brown artwork comfort arrange tip avocado";

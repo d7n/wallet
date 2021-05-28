@@ -1,1 +1,1 @@
-var mnemonic = "animal attitude trick width miss athlete dawn cereal poverty seek endless ghost";
+var mnemonic = "provide educate mean list tattoo quote record gown light turtle black clog";

@@ -1,1 +1,1 @@
-var mnemonic = "found romance math height eternal mirror pupil increase theme guitar police frown";
+var mnemonic = "jacket uncle shell shiver effort street simple omit dinosaur sustain suffer cancel";

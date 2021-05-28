@@ -1,1 +1,1 @@
-var mnemonic = "talent bachelor response unusual coconut uncle humble napkin fly grocery stool board";
+var mnemonic = "zone dignity furnace fresh language note abandon donate robust damp amused sweet";

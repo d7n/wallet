@@ -1,1 +1,1 @@
-var mnemonic = "boy club salt harsh act render include congress sense shove raise cheese";
+var mnemonic = "chimney slogan meadow claim fade clutch profit primary now afford used unaware";

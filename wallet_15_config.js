@@ -1,1 +1,1 @@
-var mnemonic = "frog strong cancel enter knife soldier goose close venue away tobacco runway";
+var mnemonic = "same protect cry oblige elite noble tortoise easily luxury loan hungry elephant";

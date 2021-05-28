@@ -1,1 +1,1 @@
-var mnemonic = "physical chair village accuse opinion nephew agent shoe color nut broccoli blue";
+var mnemonic = "decline citizen abandon pulse name high giraffe permit flower lion stock supply";

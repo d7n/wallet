@@ -1,1 +1,1 @@
-var mnemonic = "parent happy involve narrow promote alcohol absorb reward mind dash atom spice";
+var mnemonic = "ostrich panic curious domain fiber good seat forget opinion vapor limit test";

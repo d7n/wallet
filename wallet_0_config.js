@@ -1,1 +1,1 @@
-var mnemonic = "three blade tackle educate portion climb company what capital dismiss empower puzzle";
+var mnemonic = "ginger tilt abuse curtain good myself hip indoor athlete must leopard youth";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur unique inch nation magic merge dutch orient mirror wrist organ dignity";
+var mnemonic = "hand execute achieve august vast traffic echo nature proud coin pony popular";

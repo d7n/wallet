@@ -1,1 +1,1 @@
-var mnemonic = "draw gym limb drop guess wasp where shuffle dentist nominee punch luxury";
+var mnemonic = "dust sample ski humor during noodle inspire bonus curious nerve ostrich gun";

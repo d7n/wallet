@@ -1,1 +1,1 @@
-var mnemonic = "surprise amused close luggage autumn idle nose shell mother cattle gift order";
+var mnemonic = "odor talk leopard same faint assume wagon actual purpose visa day yard";

@@ -1,1 +1,1 @@
-var mnemonic = "kind unhappy miracle green rookie orient runway group deer inject rigid zebra";
+var mnemonic = "treat alert thrive manage exotic shift flag dial mushroom enough private refuse";

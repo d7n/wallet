@@ -1,1 +1,1 @@
-var mnemonic = "velvet improve panther cotton submit undo dry quality aisle final avocado match";
+var mnemonic = "merit castle wealth vague anchor grid mirror journey poem increase budget retreat";
