@@ -1,1 +1,1 @@
-var mnemonic = "regular army draft idle you smoke best depart october injury twenty letter";
+var mnemonic = "dinosaur foster express museum popular wrap lyrics quick medal tackle genius badge";

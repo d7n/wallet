@@ -1,1 +1,1 @@
-var mnemonic = "find estate want sound outer tail cool cup advice fever time barrel";
+var mnemonic = "soon horror tower dilemma indicate sudden velvet olive acid welcome type glad";

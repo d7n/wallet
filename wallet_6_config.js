@@ -1,1 +1,1 @@
-var mnemonic = "goddess cloth say labor describe sock bubble twenty kitchen lecture because fit";
+var mnemonic = "dismiss among deny since acquire wood immune pitch tail zebra mother twist";

@@ -1,1 +1,1 @@
-var mnemonic = "roast denial color scissors soda talent erupt rubber tank direct error liar";
+var mnemonic = "luggage chapter bleak ozone produce pull minute evil follow fish donor minimum";

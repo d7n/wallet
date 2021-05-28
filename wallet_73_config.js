@@ -1,1 +1,1 @@
-var mnemonic = "desert door zoo foil junk asthma width happy mesh debris option slender";
+var mnemonic = "undo aisle upon either misery army disease diet turkey average spice verb";

@@ -1,1 +1,1 @@
-var mnemonic = "entry chronic undo figure essay dial warfare nation cousin kite slot blind";
+var mnemonic = "entry choose isolate cruise gift glory vessel junior goose curious range worry";

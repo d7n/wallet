@@ -1,1 +1,1 @@
-var mnemonic = "trash country develop pudding insane decorate robust recall heart panel decade device";
+var mnemonic = "vapor sweet lobster cart gasp file town remind disorder hundred fiction during";

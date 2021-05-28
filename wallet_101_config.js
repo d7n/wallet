@@ -1,1 +1,1 @@
-var mnemonic = "sheriff juice female bless forget castle sniff napkin kitchen pulp glory bench";
+var mnemonic = "inform twenty mushroom veteran near minimum crash stadium soldier fitness rural noise";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse list home pipe actress umbrella crack poverty cushion elite sausage street";
+var mnemonic = "sustain apple kingdom veteran seminar fabric prison aunt vessel old rifle decorate";

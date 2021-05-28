@@ -1,1 +1,1 @@
-var mnemonic = "feed inherit oxygen truth fiber tag detect fly harsh clock machine alarm";
+var mnemonic = "jump argue notable bag prevent kangaroo sock faint scene swing welcome promote";

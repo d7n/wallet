@@ -1,1 +1,1 @@
-var mnemonic = "alone easily method genuine emotion sad attack long tired ski erode thumb";
+var mnemonic = "only sheriff alpha grunt bird marriage junk snap sick warm during night";

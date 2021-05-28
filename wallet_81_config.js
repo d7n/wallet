@@ -1,1 +1,1 @@
-var mnemonic = "eye hidden supreme comfort quiz acquire bullet brave praise present seed rookie";
+var mnemonic = "discover grunt wool mango tank text stem grunt have eye melt hundred";

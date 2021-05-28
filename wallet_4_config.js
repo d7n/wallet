@@ -1,1 +1,1 @@
-var mnemonic = "cannon pink firm express industry layer load apology describe similar cabbage cool";
+var mnemonic = "habit stamp strategy enrich own bubble wave clay harsh october swamp tobacco";

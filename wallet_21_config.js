@@ -1,1 +1,1 @@
-var mnemonic = "citizen charge yard pen lion minimum off labor tuna current quiz bacon";
+var mnemonic = "mother fatigue cupboard fold use obey finish diet siege myself reduce hotel";

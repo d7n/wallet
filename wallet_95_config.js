@@ -1,1 +1,1 @@
-var mnemonic = "type world property ketchup because fossil diary boil case elbow anger corn";
+var mnemonic = "cherry amount arrange autumn soon mercy panther exact stool impose reject source";

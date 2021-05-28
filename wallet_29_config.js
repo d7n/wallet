@@ -1,1 +1,1 @@
-var mnemonic = "defy solve sudden winter oak pepper keen wreck rally news delay denial";
+var mnemonic = "swim wool language weather pause thank banner weather detail plunge student gate";

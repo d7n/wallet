@@ -1,1 +1,1 @@
-var mnemonic = "case ritual flush clay lady task dream injury trial spring ready expect";
+var mnemonic = "aim same ladder nerve master vault good begin gate seek naive measure";

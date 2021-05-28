@@ -1,1 +1,1 @@
-var mnemonic = "tomato allow hen pipe popular laugh lottery sail oven tragic sunny ride";
+var mnemonic = "phone debate park army because vanish top bronze popular car embark similar";

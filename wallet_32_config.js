@@ -1,1 +1,1 @@
-var mnemonic = "sword little empty addict liar cupboard resemble nerve evidence patient change wool";
+var mnemonic = "firm fitness equal disease soccer return victory panic ladder kiss near autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "alien paddle broom swamp beauty maid effort large allow stage review option";
+var mnemonic = "smile attract sunset inhale bubble disorder inmate thought jealous spring just kit";

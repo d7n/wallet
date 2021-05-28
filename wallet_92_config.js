@@ -1,1 +1,1 @@
-var mnemonic = "supply twelve spin envelope test jealous grain season already virtual puppy scale";
+var mnemonic = "render amount audit jungle trip reward family deposit primary side hurry hazard";

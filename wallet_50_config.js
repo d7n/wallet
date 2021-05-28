@@ -1,1 +1,1 @@
-var mnemonic = "online trend resource sustain music sister task fitness warrior virus margin adapt";
+var mnemonic = "shed aware patch faint upon dutch clown rely blue distance know bus";

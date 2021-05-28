@@ -1,1 +1,1 @@
-var mnemonic = "twice view cement attack success inch harsh ranch middle slim vacuum quiz";
+var mnemonic = "lab blind foster loop annual hole lab myself tourist lawn inhale excite";

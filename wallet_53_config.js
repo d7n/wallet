@@ -1,1 +1,1 @@
-var mnemonic = "giggle also reopen hollow royal wait obtain quantum slight forum labor zebra";
+var mnemonic = "cloud belt melt mass tank fever situate inherit output sell shoot hole";

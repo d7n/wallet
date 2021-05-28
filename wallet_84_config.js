@@ -1,1 +1,1 @@
-var mnemonic = "riot law record gap boost exclude present stool mimic antenna reopen island";
+var mnemonic = "double cube setup misery just recycle harvest senior sight disorder age ethics";

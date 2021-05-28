@@ -1,1 +1,1 @@
-var mnemonic = "copper clock travel energy stable rebel rhythm snack twice merit swarm music";
+var mnemonic = "fog flavor hedgehog private water pair begin excuse oppose agree obvious height";

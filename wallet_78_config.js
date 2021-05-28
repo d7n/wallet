@@ -1,1 +1,1 @@
-var mnemonic = "level drama history pencil wet bring home stamp race napkin twice despair";
+var mnemonic = "tornado clown market loud mansion joke wrist cable pelican only fossil stereo";

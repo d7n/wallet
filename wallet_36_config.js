@@ -1,1 +1,1 @@
-var mnemonic = "unit wool glass mimic grocery crawl vehicle access shoe elbow shield blanket";
+var mnemonic = "scissors radio strike orphan convince hat sure harsh interest decade uniform analyst";

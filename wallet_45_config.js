@@ -1,1 +1,1 @@
-var mnemonic = "ship tragic collect monster nice diamond rotate leaf disease viable buffalo pupil";
+var mnemonic = "room helmet pepper myself category type obvious casual stick stadium congress reward";

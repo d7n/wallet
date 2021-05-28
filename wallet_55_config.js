@@ -1,1 +1,1 @@
-var mnemonic = "chair maze hidden define salute race pact music climb audit head prison";
+var mnemonic = "photo lawsuit list always main inside digital real bone arena return chest";

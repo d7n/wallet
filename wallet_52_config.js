@@ -1,1 +1,1 @@
-var mnemonic = "degree coast wife finger lamp fresh fossil warfare must assist million able";
+var mnemonic = "scheme shock tiny arrange fence give satoshi media cave discover lava across";

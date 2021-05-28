@@ -1,1 +1,1 @@
-var mnemonic = "dice illegal pen coach illegal fat black zebra steel soon lecture harvest";
+var mnemonic = "settle uncle aim thought vapor dizzy news leisure skirt boat grid net";

@@ -1,1 +1,1 @@
-var mnemonic = "visual consider boost maximum fade hood kite whale concert awful coil family";
+var mnemonic = "loyal meadow install survey drill cross wing laptop zone park fence pact";

@@ -1,1 +1,1 @@
-var mnemonic = "rural plug list cabbage unhappy ecology tissue nuclear fossil whip true broken";
+var mnemonic = "absent crater success easy prefer armed enough fit lunch own silent mobile";

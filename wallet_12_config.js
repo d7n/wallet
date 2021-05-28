@@ -1,1 +1,1 @@
-var mnemonic = "coconut tag sleep physical grace summer capable flock head erosion drill taste";
+var mnemonic = "bomb rate submit carbon exhaust blood diet orphan trumpet broccoli capable tourist";

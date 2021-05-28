@@ -1,1 +1,1 @@
-var mnemonic = "magnet own hole protect search awesome feel choice market visa oppose minute";
+var mnemonic = "consider better jealous salmon south spoil fence erosion mass fan pizza salad";

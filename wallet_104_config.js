@@ -1,1 +1,1 @@
-var mnemonic = "tribe income quick monitor teach random paddle frame census young deer fortune";
+var mnemonic = "spend wine insect mean diamond two sail attack orient plug absurd weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "gas space sure brave aware head slide rookie work goddess snow hazard";
+var mnemonic = "mix link grab age remind face office wrist emerge bamboo urge reopen";

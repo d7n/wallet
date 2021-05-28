@@ -1,1 +1,1 @@
-var mnemonic = "teach minor kit swarm pudding wealth laptop program meadow author interest promote";
+var mnemonic = "staff advice roast inner shine modify famous trumpet satoshi beef whip mistake";

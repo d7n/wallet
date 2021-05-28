@@ -1,1 +1,1 @@
-var mnemonic = "avocado other sphere design weather sing edit victory attend item motion upper";
+var mnemonic = "sick jewel word useless armed ceiling math action cool bubble gloom victory";

@@ -1,1 +1,1 @@
-var mnemonic = "calm devote seat empower ability rely nice border any cute museum connect";
+var mnemonic = "fox cage pulse eye grape permit thunder scorpion snack teach drive tonight";

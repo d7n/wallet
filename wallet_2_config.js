@@ -1,1 +1,1 @@
-var mnemonic = "used anchor they soup exchange shoot obtain anxiety pupil guard thrive buffalo";
+var mnemonic = "engage end stand card glide ritual dune supreme fever whisper cousin brush";

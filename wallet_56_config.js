@@ -1,1 +1,1 @@
-var mnemonic = "dash final island absurd mystery judge vessel twist earn accuse peace reward";
+var mnemonic = "meadow dolphin pill vacuum stamp achieve hunt harbor hockey force mango garment";

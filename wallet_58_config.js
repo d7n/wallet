@@ -1,1 +1,1 @@
-var mnemonic = "rib antenna network insect trust moment game oval prosper entire happy magnet";
+var mnemonic = "outside famous avoid tobacco pool trade away mouse idle quality large dirt";

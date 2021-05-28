@@ -1,1 +1,1 @@
-var mnemonic = "garment embrace powder rubber frame feed jazz piano sister route chapter bicycle";
+var mnemonic = "color survey wing joke that pelican cave person shuffle minor insane frost";

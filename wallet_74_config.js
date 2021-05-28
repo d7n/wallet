@@ -1,1 +1,1 @@
-var mnemonic = "feed destroy twist thought swing rude swift sock anger square useless dirt";
+var mnemonic = "deal valley arrow similar ceiling negative airport online glove night oppose mountain";

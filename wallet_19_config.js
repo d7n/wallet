@@ -1,1 +1,1 @@
-var mnemonic = "food silent donkey ball into focus husband spike process pledge bright travel";
+var mnemonic = "cup there effort program father pattern shift plate water win banana cram";

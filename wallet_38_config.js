@@ -1,1 +1,1 @@
-var mnemonic = "damage rice essence lounge aim rookie poverty kitchen frost cricket escape mom";
+var mnemonic = "tiny ask jungle inspire inquiry food fury toy still fashion index basket";

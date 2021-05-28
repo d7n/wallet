@@ -1,1 +1,1 @@
-var mnemonic = "step omit uniform bright canvas color pear lazy slice volume unveil hope";
+var mnemonic = "sugar canal uncover rhythm stool miracle differ ignore pipe salute window amazing";

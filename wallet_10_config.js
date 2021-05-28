@@ -1,1 +1,1 @@
-var mnemonic = "creek cause prison flavor beef replace artefact donor discover stove razor actual";
+var mnemonic = "anxiety tonight wait wage intact evoke walnut salute grass battle senior visual";

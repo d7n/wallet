@@ -1,1 +1,1 @@
-var mnemonic = "simple repeat slow armor ritual gun differ renew wide item weasel wave";
+var mnemonic = "index beach glad weasel install sniff brisk over rally what assault jealous";

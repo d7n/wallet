@@ -1,1 +1,1 @@
-var mnemonic = "salon orange drill book nation flash problem super glare home nasty primary";
+var mnemonic = "ignore ritual amused term abandon scrap loan sword skill ecology race divide";

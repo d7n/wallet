@@ -1,1 +1,1 @@
-var mnemonic = "foil before prevent history borrow brain check dry wasp aware endorse walnut";
+var mnemonic = "motion palm cart pattern onion gloom milk metal monkey cake moral cat";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic common leisure window calm urban swing check one dumb pepper black";
+var mnemonic = "bunker return scheme emerge brief beef lawsuit between alpha potato sauce round";

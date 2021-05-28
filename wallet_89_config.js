@@ -1,1 +1,1 @@
-var mnemonic = "puppy often filter observe room comfort pigeon donkey innocent south decorate moon";
+var mnemonic = "become weird royal chronic marriage question language antique carry mind vintage crouch";

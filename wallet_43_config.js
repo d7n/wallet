@@ -1,1 +1,1 @@
-var mnemonic = "degree flame tide fold maze ecology opinion razor ticket illegal lottery pumpkin";
+var mnemonic = "genius sausage silk weekend cry ice harsh unaware noodle frost panther off";

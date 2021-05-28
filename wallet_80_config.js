@@ -1,1 +1,1 @@
-var mnemonic = "buzz tobacco wild square rain ripple asthma motor uphold because cloth horn";
+var mnemonic = "video gold member curtain hobby ginger post curtain shrimp elite emerge hand";

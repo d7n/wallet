@@ -1,1 +1,1 @@
-var mnemonic = "mushroom empower crucial afford inflict subway crazy memory axis ensure order island";
+var mnemonic = "wise bargain rice guard change hungry staff reduce ozone wagon mind table";

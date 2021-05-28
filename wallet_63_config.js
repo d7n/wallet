@@ -1,1 +1,1 @@
-var mnemonic = "comic strike slide gossip day senior net unhappy ladder shove chaos junior";
+var mnemonic = "random man link tackle trial crime pole lawsuit joke attitude second velvet";

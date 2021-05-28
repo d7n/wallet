@@ -1,1 +1,1 @@
-var mnemonic = "teach budget pair session supply birth pass lecture black unlock van define";
+var mnemonic = "deposit owner climb area bomb night gold funny sample luxury dynamic into";

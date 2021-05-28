@@ -1,1 +1,1 @@
-var mnemonic = "slot grow sustain giant acquire trash multiply circle inherit wreck depart elephant";
+var mnemonic = "brisk balcony improve problem ability wonder quick kit nurse swim wagon helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "excess taxi solution decorate faith certain knock wall plate edge inflict weekend";
+var mnemonic = "churn trim decorate ice laugh account badge human blade turtle fall purity";

@@ -1,1 +1,1 @@
-var mnemonic = "february boost always merry father earn naive horror trigger kingdom diet banner";
+var mnemonic = "tool provide field envelope drive allow sell ocean awful rocket observe luggage";

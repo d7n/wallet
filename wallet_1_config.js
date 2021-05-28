@@ -1,1 +1,1 @@
-var mnemonic = "useless tape muscle top fit accident struggle pluck prison nature salmon assume";
+var mnemonic = "decline suit axis uniform skate alarm custom shrug spatial abuse head wedding";

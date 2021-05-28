@@ -1,1 +1,1 @@
-var mnemonic = "board vocal guilt current recipe twin topple slogan cereal simple roast palace";
+var mnemonic = "vast rebuild scheme chronic basket sail spot pen monitor eternal autumn differ";

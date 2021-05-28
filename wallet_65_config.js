@@ -1,1 +1,1 @@
-var mnemonic = "release claim slogan drum student trust visa floor bamboo family member ball";
+var mnemonic = "slender february catch match focus submit consider panther discover quarter ugly buyer";

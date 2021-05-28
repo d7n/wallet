@@ -1,1 +1,1 @@
-var mnemonic = "half area canal assist skate baby finger coral hollow total place entire";
+var mnemonic = "rely sister monkey goddess general glance critic elite scrub clump quiz report";

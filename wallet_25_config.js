@@ -1,1 +1,1 @@
-var mnemonic = "pattern forest puppy admit cup such van thing cook situate hockey nephew";
+var mnemonic = "umbrella cradle robust original game flight skull opinion squirrel state lady weather";

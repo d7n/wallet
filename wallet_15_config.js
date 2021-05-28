@@ -1,1 +1,1 @@
-var mnemonic = "this panel menu fury december hobby vault foil shrimp sing pumpkin popular";
+var mnemonic = "jacket crew busy ritual must network solve escape alarm join search place";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle nation squeeze earn basic drum only object able cereal luxury flush";
+var mnemonic = "phone amateur country patrol hollow provide bright coyote stool they man glance";

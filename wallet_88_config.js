@@ -1,1 +1,1 @@
-var mnemonic = "trap spike civil wage concert consider offer wish welcome egg write master";
+var mnemonic = "chest water fat bundle surround vibrant divert often borrow attitude talent jelly";

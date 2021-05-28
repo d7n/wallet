@@ -1,1 +1,1 @@
-var mnemonic = "valid learn stereo morning also old bread siege skull hawk tail hood";
+var mnemonic = "basket dynamic fresh tool street broken solve popular kitchen rail bachelor aspect";

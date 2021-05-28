@@ -1,1 +1,1 @@
-var mnemonic = "bonus lounge scene item limit private problem slice expand banana chronic fatigue";
+var mnemonic = "anger dumb isolate banner enhance skill this crazy crew bus share tattoo";

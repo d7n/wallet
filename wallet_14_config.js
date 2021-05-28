@@ -1,1 +1,1 @@
-var mnemonic = "crowd wait address narrow city utility prison neglect clap stick question help";
+var mnemonic = "lonely idea buzz marine nest fox table deal skirt mandate story absorb";

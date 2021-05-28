@@ -1,1 +1,1 @@
-var mnemonic = "assist author wrap swift mushroom obvious thrive unit flag arctic shine action";
+var mnemonic = "manual lawn leader double tornado venue enable embark item valley brother unknown";

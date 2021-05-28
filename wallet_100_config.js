@@ -1,1 +1,1 @@
-var mnemonic = "castle welcome science tumble night market little scene squirrel hospital ostrich salad";
+var mnemonic = "slam kiwi clap age sweet brown gas vessel time drama danger post";

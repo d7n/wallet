@@ -1,1 +1,1 @@
-var mnemonic = "color salon useful hunt gadget civil tragic soda lady scrap beach crack";
+var mnemonic = "aim prevent nation tired collect random voyage finger kidney topic lunar when";

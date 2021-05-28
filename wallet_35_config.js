@@ -1,1 +1,1 @@
-var mnemonic = "occur coach control hungry reflect spot soon glue penalty absurd prepare insane";
+var mnemonic = "coconut safe salt monster wonder maid bubble curtain sorry gown summer level";

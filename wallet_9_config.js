@@ -1,1 +1,1 @@
-var mnemonic = "wrap able decorate family slogan industry undo disorder neutral deposit aspect ranch";
+var mnemonic = "leaf bundle kick jungle danger exchange educate multiply obtain machine comic business";

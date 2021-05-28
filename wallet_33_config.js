@@ -1,1 +1,1 @@
-var mnemonic = "gold notable alien endorse long nephew nerve gap level hollow near begin";
+var mnemonic = "poverty egg oil banner visual phone frame country unhappy promote horror bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise misery dragon token heavy basic quick crime unusual inhale gasp say";
+var mnemonic = "brush all relax duty fresh uniform utility deal chapter violin way furnace";

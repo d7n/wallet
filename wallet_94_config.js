@@ -1,1 +1,1 @@
-var mnemonic = "neck saddle raven word tribe smart gap pepper goat oyster still cabin";
+var mnemonic = "kidney pitch pelican daughter name order sample lady cereal conduct subject glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "habit name end barrel grocery axis decline cram sphere grunt wine soda";
+var mnemonic = "plug what inject series voyage safe unlock walk valve kid rapid shaft";

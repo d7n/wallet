@@ -1,1 +1,1 @@
-var mnemonic = "perfect brown accident twenty now fade virus culture route figure crisp shrug";
+var mnemonic = "wave forget hybrid family damage pioneer glare crew valve item list return";

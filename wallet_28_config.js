@@ -1,1 +1,1 @@
-var mnemonic = "banner mad space marriage humor heavy furnace flock burst column task frog";
+var mnemonic = "raccoon easily thought hat settle enact silent habit suit student sun history";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet slim chunk ladder supreme envelope garden soul mechanic talent split ladder";
+var mnemonic = "way novel quote ancient wasp step inhale bunker picnic mail awful bean";

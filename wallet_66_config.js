@@ -1,1 +1,1 @@
-var mnemonic = "drift analyst renew grit hire oxygen fox size feel orient enjoy bag";
+var mnemonic = "bridge lazy hill enact potato divorce hawk section direct increase firm muscle";

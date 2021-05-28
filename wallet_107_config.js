@@ -1,1 +1,1 @@
-var mnemonic = "pen deputy decorate old alcohol reflect void swear ocean broken voyage economy";
+var mnemonic = "air trigger topic skull snake flame into normal confirm quiz electric off";

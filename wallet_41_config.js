@@ -1,1 +1,1 @@
-var mnemonic = "reveal owner duty sauce deal double spoil inherit what behave wheel transfer";
+var mnemonic = "cruel kitchen menu eagle oxygen green unfair limb estate neck choice tube";

@@ -1,1 +1,1 @@
-var mnemonic = "quality movie cement pitch pen catalog push ginger element bike odor often";
+var mnemonic = "turtle rebel smooth kiwi grain cart pause time together foam excuse close";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden merry page exchange junior hole maximum time soon vendor below expand";
+var mnemonic = "flame conduct crumble biology avoid text crane isolate tennis glide sponsor gasp";

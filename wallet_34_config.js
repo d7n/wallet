@@ -1,1 +1,1 @@
-var mnemonic = "machine casual bring giant walnut tongue million leg file happy issue enter";
+var mnemonic = "lucky toss flush educate virus era cattle prevent thunder always refuse nest";

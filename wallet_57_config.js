@@ -1,1 +1,1 @@
-var mnemonic = "address drop festival effort keen sure night auction about method twist tenant";
+var mnemonic = "remind idle taste noble shield blanket solid claw layer glimpse hole yard";
