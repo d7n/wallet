@@ -1,1 +1,1 @@
-var mnemonic = "betray body used three gate horn wrestle keen blast heavy slab fitness";
+var mnemonic = "alien illness merit owner soap marble spell beauty squirrel lobster scene country";

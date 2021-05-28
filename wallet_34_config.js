@@ -1,1 +1,1 @@
-var mnemonic = "exact true ghost liar child essay next tilt sample version security width";
+var mnemonic = "farm shoot settle describe wife trade ship shop prison squeeze small junk";

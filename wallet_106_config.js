@@ -1,1 +1,1 @@
-var mnemonic = "cry muffin service fetch depend forum oak such emotion never zebra initial";
+var mnemonic = "gold juice jump alley blade hub differ minor drum tortoise cover page";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle six grit inspire parade pistol mammal auction sand divorce absorb occur";
+var mnemonic = "rabbit dry badge educate story toilet exit text brick angry shed fragile";

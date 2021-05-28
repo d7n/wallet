@@ -1,1 +1,1 @@
-var mnemonic = "chunk spread mobile gown spoil original level lazy tail desert debate table";
+var mnemonic = "badge parade term clutch torch zone response rain oil course output tooth";

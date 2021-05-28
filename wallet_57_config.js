@@ -1,1 +1,1 @@
-var mnemonic = "orange major step cook slender energy melody return dumb predict impose ride";
+var mnemonic = "often sausage rent upon code later suggest enemy margin truck slab split";

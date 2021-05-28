@@ -1,1 +1,1 @@
-var mnemonic = "secret mimic audit surprise rhythm this teach noble attract civil metal cake";
+var mnemonic = "dismiss slice wedding unhappy fragile bubble doll medal erupt tortoise expand material";

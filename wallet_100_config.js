@@ -1,1 +1,1 @@
-var mnemonic = "celery option leisure manage undo board lecture alpha extend laundry zone network";
+var mnemonic = "fly total spy disease jungle solar expand dumb sell prepare blouse property";

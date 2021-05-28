@@ -1,1 +1,1 @@
-var mnemonic = "never curtain this blush throw room six agent plastic rookie borrow cheese";
+var mnemonic = "swift curious pull door hungry chunk desk exchange hope ask dune stock";

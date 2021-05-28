@@ -1,1 +1,1 @@
-var mnemonic = "involve husband toe paddle never crumble clay arm spice drift still robust";
+var mnemonic = "science limit salt correct ticket such close test sentence buyer coach what";

@@ -1,1 +1,1 @@
-var mnemonic = "exit maze ramp silly emotion smooth vehicle pause lens acquire party coral";
+var mnemonic = "motion leg butter such indicate add ivory cinnamon wait legend pond useful";

@@ -1,1 +1,1 @@
-var mnemonic = "shop shuffle virus robot update kick vast since age fiction sound orange";
+var mnemonic = "section brass force witness lift palace enrich law medal weapon manage spy";

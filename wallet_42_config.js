@@ -1,1 +1,1 @@
-var mnemonic = "grape glimpse illness frequent utility visit carry path paddle tonight lady boost";
+var mnemonic = "remain knife behave eye soft liar bicycle liar mind much family execute";

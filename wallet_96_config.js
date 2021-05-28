@@ -1,1 +1,1 @@
-var mnemonic = "strong injury amateur attitude rebuild share comfort victory erosion squirrel focus wrong";
+var mnemonic = "system sugar like radar fog elite voyage liquid firm liberty angle twelve";

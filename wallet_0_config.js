@@ -1,1 +1,1 @@
-var mnemonic = "error brain age phone ugly torch fat sleep heart heart egg online";
+var mnemonic = "coast find upper tongue tattoo rally law fault girl antique track crash";

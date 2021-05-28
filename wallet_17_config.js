@@ -1,1 +1,1 @@
-var mnemonic = "wheel survey oven hamster because carpet cancel dish also blue region ring";
+var mnemonic = "flavor chunk off dish beyond bonus alter talent visual jewel seed machine";

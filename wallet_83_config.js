@@ -1,1 +1,1 @@
-var mnemonic = "obscure silk strong already quality steak weasel impose toss clog bubble orchard";
+var mnemonic = "armed nature random fish scout frozen use fiscal apart vague struggle sketch";

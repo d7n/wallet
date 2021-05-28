@@ -1,1 +1,1 @@
-var mnemonic = "balance bag artefact ketchup keen breeze brown notable sign finish pride lounge";
+var mnemonic = "spend eight ancient used veteran hair aisle angle illegal crane sell layer";

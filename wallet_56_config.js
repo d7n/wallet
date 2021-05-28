@@ -1,1 +1,1 @@
-var mnemonic = "clinic hammer brief that reward sheriff spot attract kick pear flip good";
+var mnemonic = "fee picture reward dress hidden cheap wave close citizen emotion swarm lobster";

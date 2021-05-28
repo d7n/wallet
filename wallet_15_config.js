@@ -1,1 +1,1 @@
-var mnemonic = "bulb never gasp pelican bleak borrow soup face drink soap festival demand";
+var mnemonic = "album lesson street average lock betray liquid panther embrace above host crouch";

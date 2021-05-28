@@ -1,1 +1,1 @@
-var mnemonic = "scan design loyal father trophy step distance object rice deal hole when";
+var mnemonic = "toy garbage general system raccoon jeans fame year rule wolf stool grant";

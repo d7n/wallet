@@ -1,1 +1,1 @@
-var mnemonic = "reward enlist pluck minor save shiver nasty entire mobile elder found honey";
+var mnemonic = "cube weird profit exist poem speed cream fame major share shift blossom";

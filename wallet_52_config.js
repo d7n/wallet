@@ -1,1 +1,1 @@
-var mnemonic = "cushion floor mammal test collect else simple october shoot pole seed shallow";
+var mnemonic = "grid salute gold rug wrap candy dog verify gorilla copper depart attend";

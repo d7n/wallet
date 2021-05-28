@@ -1,1 +1,1 @@
-var mnemonic = "tissue wine hood cabbage nasty lounge tunnel eyebrow feature property correct grit";
+var mnemonic = "path develop question honey chronic rotate theme oil around junk tattoo illness";

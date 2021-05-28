@@ -1,1 +1,1 @@
-var mnemonic = "lava disease april much million pride cricket science health primary call offer";
+var mnemonic = "shove elegant now pulp table culture donate brown bicycle crack wrap real";

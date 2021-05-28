@@ -1,1 +1,1 @@
-var mnemonic = "plug normal say ethics daughter anchor sand equal finish scout inform wealth";
+var mnemonic = "offer pond pigeon agree sibling merit sign peace staff head build voice";

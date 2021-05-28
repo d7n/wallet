@@ -1,1 +1,1 @@
-var mnemonic = "zero minimum gorilla scrub initial firm fruit grit remember ride toy peace";
+var mnemonic = "diet idle spread inform stable illness border hour title oblige absurd dragon";

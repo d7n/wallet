@@ -1,1 +1,1 @@
-var mnemonic = "ecology stable acid side total juice wrong place marriage body twenty attend";
+var mnemonic = "define emotion short tennis fee lounge edit neck year mosquito tissue oblige";

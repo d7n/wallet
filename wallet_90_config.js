@@ -1,1 +1,1 @@
-var mnemonic = "payment asthma equal clinic split service pause virtual style open remove employ";
+var mnemonic = "sketch more funny labor like outer bracket solid cave online fruit travel";

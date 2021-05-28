@@ -1,1 +1,1 @@
-var mnemonic = "wisdom rather mammal flock april episode apart idle clutch stuff family liberty";
+var mnemonic = "fantasy pottery depart mushroom cushion explain glue load surface better thing bulb";

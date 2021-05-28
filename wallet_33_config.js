@@ -1,1 +1,1 @@
-var mnemonic = "lucky next deny level garlic erase dwarf delay violin tip orbit meadow";
+var mnemonic = "parrot current review weird side topple crunch minor addict drip segment spend";

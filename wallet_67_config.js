@@ -1,1 +1,1 @@
-var mnemonic = "plug yard child business scare book weird ski coin sentence vital best";
+var mnemonic = "media purity chief slab future carry kid net picture tuna cereal bottom";

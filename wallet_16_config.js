@@ -1,1 +1,1 @@
-var mnemonic = "wrist arrest travel laptop below patient bone scrap shaft art rain rather";
+var mnemonic = "melt shield chair announce rough unfold wheat execute since stone typical crystal";

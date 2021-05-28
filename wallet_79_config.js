@@ -1,1 +1,1 @@
-var mnemonic = "budget tooth gas ladder never pony wheat air lamp hen coil forest";
+var mnemonic = "shuffle must canyon very expose elephant program sign attend enhance guitar punch";

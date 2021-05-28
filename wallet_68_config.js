@@ -1,1 +1,1 @@
-var mnemonic = "garlic cry cable swim injury circle venture dirt century atom butter tool";
+var mnemonic = "lumber agree organ inmate rib shoulder bone hurt pony sketch confirm quick";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket fuel pill drink hockey rookie spoil convince auto cradle volcano copy";
+var mnemonic = "extra figure valve omit toddler twenty wonder sunny admit into habit puppy";

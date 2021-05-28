@@ -1,1 +1,1 @@
-var mnemonic = "approve area turtle witness special cloth aspect skin steak reveal mango shoot";
+var mnemonic = "humble curious ladder all physical become lab wink tool ketchup cry pencil";

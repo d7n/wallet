@@ -1,1 +1,1 @@
-var mnemonic = "night muffin connect early uphold easily will pottery sound comic critic warm";
+var mnemonic = "pride clock fork list wash unfold renew agree flower general try else";

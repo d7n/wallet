@@ -1,1 +1,1 @@
-var mnemonic = "screen dice economy alert excuse aisle van off foot bottom mask giraffe";
+var mnemonic = "ensure right fever spell rose domain aspect forum deliver wish neutral moment";

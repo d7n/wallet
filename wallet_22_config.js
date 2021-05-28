@@ -1,1 +1,1 @@
-var mnemonic = "drift foot vocal sea novel depend limb soup wasp fog grant echo";
+var mnemonic = "involve excite similar south raise street donkey moment arm outer employ demise";

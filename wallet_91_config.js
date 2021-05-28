@@ -1,1 +1,1 @@
-var mnemonic = "cash pave love earn tobacco boat fortune amateur chair point coil document";
+var mnemonic = "midnight drum shoe tower cycle either gather glue divert bulk vast dizzy";

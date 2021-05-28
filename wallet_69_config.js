@@ -1,1 +1,1 @@
-var mnemonic = "grit bus sail health pelican festival adapt dress curious under sadness sure";
+var mnemonic = "neither flower music coyote shove gym place nature start august direct symptom";

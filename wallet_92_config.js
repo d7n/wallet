@@ -1,1 +1,1 @@
-var mnemonic = "child over wear sick trumpet mobile game sniff warfare dice hunt weasel";
+var mnemonic = "rebel guess luggage night duty safe dish name view nuclear monitor gasp";

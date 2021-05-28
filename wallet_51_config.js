@@ -1,1 +1,1 @@
-var mnemonic = "refuse half snack basket outdoor design rural inquiry plug spread rare outdoor";
+var mnemonic = "ripple impact need license address cactus chunk clever inmate twelve start spray";

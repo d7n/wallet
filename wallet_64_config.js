@@ -1,1 +1,1 @@
-var mnemonic = "trick swamp exist nice faculty sign deputy teach good fantasy citizen hub";
+var mnemonic = "refuse shadow another kiwi estate venture police topic budget collect mixture trumpet";

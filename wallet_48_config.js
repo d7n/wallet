@@ -1,1 +1,1 @@
-var mnemonic = "seed opera apart transfer master inmate exist general simple pioneer earn rack";
+var mnemonic = "improve happy month palace loop team random cricket behave cable able tube";

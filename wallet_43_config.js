@@ -1,1 +1,1 @@
-var mnemonic = "ship hill return coin pyramid chuckle firm special blur rally dial mirror";
+var mnemonic = "stage decide average key noise chalk acid maple duty source traffic october";

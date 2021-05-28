@@ -1,1 +1,1 @@
-var mnemonic = "force rapid tiny electric equal trigger rib concert thunder hunt music topple";
+var mnemonic = "oppose inch nation hand tragic february summer burst twist laugh payment mean";

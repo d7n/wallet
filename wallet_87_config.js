@@ -1,1 +1,1 @@
-var mnemonic = "business fit common unfold drastic prison cry adapt error note rain slice";
+var mnemonic = "jacket assist organ fuel chuckle emerge crouch ahead result wear waste one";

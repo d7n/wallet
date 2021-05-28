@@ -1,1 +1,1 @@
-var mnemonic = "aunt brother current sort split seminar already style royal tree gift cruel";
+var mnemonic = "foot short buddy goddess lava million mass oblige know recipe vehicle game";

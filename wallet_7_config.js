@@ -1,1 +1,1 @@
-var mnemonic = "donkey rib result reform float cradle unlock warfare edge chat blind short";
+var mnemonic = "caution spare economy raise box save march hope mechanic vanish master cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate egg describe initial time business shell elevator clinic genius lemon remain";
+var mnemonic = "present kit edge trouble device sudden wreck pink daughter kind diamond cruel";

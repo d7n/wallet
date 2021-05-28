@@ -1,1 +1,1 @@
-var mnemonic = "beauty car trade pupil found liberty away joy suffer figure rival combine";
+var mnemonic = "save harbor trial involve surface love gospel style ignore office able car";

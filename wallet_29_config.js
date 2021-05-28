@@ -1,1 +1,1 @@
-var mnemonic = "unique party ignore grocery garden someone better satoshi also great add spend";
+var mnemonic = "machine basic north letter absent stuff wolf eager elephant beyond alien brass";

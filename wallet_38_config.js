@@ -1,1 +1,1 @@
-var mnemonic = "gloom core admit scrub actress goose pluck hard immune vehicle pumpkin connect";
+var mnemonic = "bike aisle bar shoulder lottery health also affair decline image lobster old";

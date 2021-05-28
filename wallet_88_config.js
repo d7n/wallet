@@ -1,1 +1,1 @@
-var mnemonic = "fury impulse wild crazy robot wide nest grace teach already flag mosquito";
+var mnemonic = "dilemma top consider sand gold leave census lucky scatter all network bachelor";

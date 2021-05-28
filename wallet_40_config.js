@@ -1,1 +1,1 @@
-var mnemonic = "hire prosper buyer cart dinner alpha oblige captain curious all travel garage";
+var mnemonic = "novel toss can afraid desk hole trick crunch coffee sunset gaze basic";

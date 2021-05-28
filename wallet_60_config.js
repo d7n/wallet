@@ -1,1 +1,1 @@
-var mnemonic = "slot type burger prevent salad bring shadow flee lizard interest rhythm false";
+var mnemonic = "rug census case enhance crack hen alien fluid chat minor option mimic";

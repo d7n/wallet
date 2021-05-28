@@ -1,1 +1,1 @@
-var mnemonic = "lazy tragic dog theory smile fine another tennis gesture robot coral before";
+var mnemonic = "diary alpha cushion initial goose remind vague vault mail hockey already develop";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition series release brave dress galaxy embark bar all rubber cat bottom";
+var mnemonic = "sense language grape mixture chicken hope high tray general moral ketchup panda";

@@ -1,1 +1,1 @@
-var mnemonic = "panther quick easy enemy dentist strong chase perfect either chalk pause buyer";
+var mnemonic = "please unfold cereal rookie patch rich flash dawn spirit crack episode place";

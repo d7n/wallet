@@ -1,1 +1,1 @@
-var mnemonic = "bulk grit guess useful before cover sunset canal kick potato faint surge";
+var mnemonic = "motor ginger join van lemon globe share math front amount say teach";

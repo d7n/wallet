@@ -1,1 +1,1 @@
-var mnemonic = "visa harvest differ inform skirt wave accident happy curtain token bean lounge";
+var mnemonic = "suit common attend erosion six staff pulse reward antenna blue mosquito coffee";

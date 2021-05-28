@@ -1,1 +1,1 @@
-var mnemonic = "ignore olympic skate move leader seminar income glance october verify push trigger";
+var mnemonic = "follow zero jacket sail liberty modify regular calm people unique meadow ice";

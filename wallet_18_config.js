@@ -1,1 +1,1 @@
-var mnemonic = "animal tuna pluck path clean baby safe wood pledge that acoustic entry";
+var mnemonic = "fish web welcome toddler alone critic main similar explain casino chunk culture";

@@ -1,1 +1,1 @@
-var mnemonic = "medal beach stomach butter apology prosper wagon lawsuit flame leisure furnace muffin";
+var mnemonic = "wagon night section catalog answer tent orient salon debris razor knee bamboo";

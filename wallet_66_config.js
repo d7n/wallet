@@ -1,1 +1,1 @@
-var mnemonic = "deputy identify permit shed duck panda sorry speak scrap bronze reduce gain";
+var mnemonic = "genre token walnut come spin tip motion sort garment state million wish";

@@ -1,1 +1,1 @@
-var mnemonic = "meat okay nephew inflict live harvest page envelope hint long resource tomato";
+var mnemonic = "junk move dolphin arrange humor fog enter carpet census spoon enact urban";

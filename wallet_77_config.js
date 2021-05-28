@@ -1,1 +1,1 @@
-var mnemonic = "flame between engage noble strong blade amazing enemy garage defy garbage smoke";
+var mnemonic = "burger arctic swamp now report chronic mountain garlic blouse wife collect gorilla";

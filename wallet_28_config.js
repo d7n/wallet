@@ -1,1 +1,1 @@
-var mnemonic = "relief equal fetch busy journey census board vague indoor call laptop universe";
+var mnemonic = "damp audit rare act file conduct north cross destroy canyon member script";

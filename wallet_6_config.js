@@ -1,1 +1,1 @@
-var mnemonic = "bike much rookie arch dune actual leave census senior stick hole slender";
+var mnemonic = "please bargain since tank base silver sand swim there square cage slim";

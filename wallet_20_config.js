@@ -1,1 +1,1 @@
-var mnemonic = "stuff canal addict fall soldier impact cover seed ability citizen doctor beauty";
+var mnemonic = "code pioneer heart element panther hold police asthma prize sunny cotton cloud";

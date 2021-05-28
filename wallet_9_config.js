@@ -1,1 +1,1 @@
-var mnemonic = "link labor crunch analyst silent pencil fade input draw cloth awake gap";
+var mnemonic = "veteran peace stamp upper mass position desert hybrid clock dress expose round";

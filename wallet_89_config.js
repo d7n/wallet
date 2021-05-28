@@ -1,1 +1,1 @@
-var mnemonic = "cross blade south true usual similar lava rebel prefer lecture ankle head";
+var mnemonic = "quote slogan print else napkin trash horse bone ordinary romance word emotion";

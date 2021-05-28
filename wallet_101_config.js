@@ -1,1 +1,1 @@
-var mnemonic = "ritual crew artist rice term vehicle grocery cart forward soda throw photo";
+var mnemonic = "buyer upon peace foster judge tree mosquito check mechanic wheat paper high";

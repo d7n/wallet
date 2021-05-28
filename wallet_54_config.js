@@ -1,1 +1,1 @@
-var mnemonic = "girl zoo green clinic genuine trick tube glow dial spirit wave broccoli";
+var mnemonic = "ice agree decrease mechanic confirm foil shrimp consider about stamp bag brief";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile oyster lazy lawn true diagram pledge argue neither decade goose adapt";
+var mnemonic = "warm friend finger mass pass step lumber soon lonely swing warrior review";

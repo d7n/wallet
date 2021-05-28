@@ -1,1 +1,1 @@
-var mnemonic = "defense poem guilt chaos key give village entire sight globe wolf unlock";
+var mnemonic = "curious artefact erupt increase own curtain public spin chase issue velvet taste";

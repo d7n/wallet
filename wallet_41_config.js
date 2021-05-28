@@ -1,1 +1,1 @@
-var mnemonic = "mind tell parent oak head soul confirm code system cheap view cloth";
+var mnemonic = "asset timber already ivory rent pave soldier emotion maximum side index upper";

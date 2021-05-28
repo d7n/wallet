@@ -1,1 +1,1 @@
-var mnemonic = "forum basic guide way hip female dawn ask profit state toss hard";
+var mnemonic = "tribe void crane uncle torch reduce immense enroll caution rich total dance";

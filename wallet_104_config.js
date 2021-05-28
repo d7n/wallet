@@ -1,1 +1,1 @@
-var mnemonic = "law need opinion ship blush green evoke fox drastic stick error uniform";
+var mnemonic = "moral history speak project detect twenty clown history lobster jar drama assault";

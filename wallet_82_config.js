@@ -1,1 +1,1 @@
-var mnemonic = "chief move barely pipe sight until enlist decorate harsh hand average exclude";
+var mnemonic = "panic stand vanish update raccoon answer frozen jeans suspect sing allow joy";

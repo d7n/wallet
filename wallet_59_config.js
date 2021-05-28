@@ -1,1 +1,1 @@
-var mnemonic = "harsh electric giraffe dentist pitch industry grape cliff human hub game pool";
+var mnemonic = "dutch come once neglect volume output quote mirror shrug mystery brick autumn";

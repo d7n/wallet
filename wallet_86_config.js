@@ -1,1 +1,1 @@
-var mnemonic = "future toward divert icon bind agent hawk universe coyote magnet battle cable";
+var mnemonic = "damage parade secret solar glass naive mercy exhaust glide bitter bamboo twenty";

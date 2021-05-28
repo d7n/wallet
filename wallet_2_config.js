@@ -1,1 +1,1 @@
-var mnemonic = "figure skate able forget notice repair bus grow anchor master warm diagram";
+var mnemonic = "boss ugly rice custom cross extra sweet quantum dad year ranch insect";

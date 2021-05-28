@@ -1,1 +1,1 @@
-var mnemonic = "pepper balcony couple together loan duty few want wreck space supreme trust";
+var mnemonic = "property novel salmon guide open glove monster repeat time maximum art excuse";

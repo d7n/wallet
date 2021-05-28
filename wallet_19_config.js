@@ -1,1 +1,1 @@
-var mnemonic = "ladder heart undo trap cabin buddy cart sort pulse vivid height audit";
+var mnemonic = "curtain once high soldier believe plunge bomb pitch chicken brother valve nasty";
