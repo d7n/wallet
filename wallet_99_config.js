@@ -1,1 +1,1 @@
-var mnemonic = "chair surprise razor amount palm winner arm second emerge west detect icon";
+var mnemonic = "music owner attract before remove thing cram report expire endorse giggle latin";

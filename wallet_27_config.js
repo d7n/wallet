@@ -1,1 +1,1 @@
-var mnemonic = "frost diary stool anxiety bicycle mountain right race gasp legend spin hedgehog";
+var mnemonic = "pulp forum bottom energy worry payment across awesome spare life account weekend";

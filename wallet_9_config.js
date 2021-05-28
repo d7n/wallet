@@ -1,1 +1,1 @@
-var mnemonic = "iron off misery foam truth nation transfer swamp radar upgrade inherit roof";
+var mnemonic = "skill mobile crawl foam return ivory enroll toddler slim heavy country cushion";

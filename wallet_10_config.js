@@ -1,1 +1,1 @@
-var mnemonic = "icon attitude give tiger burger thunder ski gun ankle flush basic taste";
+var mnemonic = "erosion return family jacket cupboard home file zebra link stadium angry assist";

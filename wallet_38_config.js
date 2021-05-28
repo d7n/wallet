@@ -1,1 +1,1 @@
-var mnemonic = "fresh noodle situate sort echo leg brain cable shift random syrup shove";
+var mnemonic = "sketch mobile curious tent great label bulk margin night echo human wedding";

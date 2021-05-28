@@ -1,1 +1,1 @@
-var mnemonic = "axis begin business park shadow fog donkey virtual other rude search snake";
+var mnemonic = "around imitate tiger salmon regular type peanut clean amazing joke shine matter";

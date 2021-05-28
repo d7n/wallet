@@ -1,1 +1,1 @@
-var mnemonic = "dream impact ready vacant tuna junk stereo winner math sell among cricket";
+var mnemonic = "process old creek brown gather casual early old blur cluster tongue hundred";

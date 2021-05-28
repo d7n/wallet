@@ -1,1 +1,1 @@
-var mnemonic = "same express hint hammer artist rigid source latin apple fresh able boy";
+var mnemonic = "fossil mammal salmon survey floor put consider more cushion curve expose wing";

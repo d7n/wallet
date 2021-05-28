@@ -1,1 +1,1 @@
-var mnemonic = "blame shell animal provide inherit filter struggle grow wage giggle sail iron";
+var mnemonic = "clown pledge almost company shallow similar twice cabbage normal evoke iron alpha";

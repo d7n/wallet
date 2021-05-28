@@ -1,1 +1,1 @@
-var mnemonic = "large misery butter fantasy member cinnamon glory soft lens unusual brand harbor";
+var mnemonic = "desk avoid deposit frame crew carpet vicious sail own bullet hotel pull";

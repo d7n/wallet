@@ -1,1 +1,1 @@
-var mnemonic = "exotic bird sound stool comfort uncover spread model slide ankle any true";
+var mnemonic = "agent shy average pioneer piece bring blur finish soon draw shaft clog";

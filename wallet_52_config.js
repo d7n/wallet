@@ -1,1 +1,1 @@
-var mnemonic = "obvious tool copy escape pear water aspect lounge dirt allow during ask";
+var mnemonic = "obey very wash cloud sort virtual soda planet light unable female ivory";

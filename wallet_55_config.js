@@ -1,1 +1,1 @@
-var mnemonic = "access still swarm earn pitch drum cool cart simple result into exercise";
+var mnemonic = "opera depend price steak seminar once fall young success tissue culture afraid";

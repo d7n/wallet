@@ -1,1 +1,1 @@
-var mnemonic = "snap idea review retire trick roof history robot dial online target acquire";
+var mnemonic = "awkward cage harvest dinosaur rabbit bone laugh aspect end rack cruise marine";

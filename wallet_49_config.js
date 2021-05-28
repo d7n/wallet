@@ -1,1 +1,1 @@
-var mnemonic = "street exit income swap rate drink puppy account frozen truth dice typical";
+var mnemonic = "brick dove roast tent wide repair tape neglect novel laptop piano obey";

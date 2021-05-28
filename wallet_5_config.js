@@ -1,1 +1,1 @@
-var mnemonic = "muscle ketchup grunt pause universe tide upgrade six tonight control pass reject";
+var mnemonic = "owner verb power crisp habit globe skate youth scorpion distance resist drip";

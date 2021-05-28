@@ -1,1 +1,1 @@
-var mnemonic = "clay industry scrub key fit want gesture neutral trade shift often seat";
+var mnemonic = "sadness scrap virtual gasp anchor ugly jacket treat license mind blush fossil";

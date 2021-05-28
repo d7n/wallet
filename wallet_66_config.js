@@ -1,1 +1,1 @@
-var mnemonic = "cattle setup scrap bleak chalk pass similar emotion alter bind what power";
+var mnemonic = "forward also tonight hotel fine wheat toward title illegal raccoon season teach";

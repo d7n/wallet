@@ -1,1 +1,1 @@
-var mnemonic = "burst resemble summer assume chapter source echo blade album kangaroo vessel narrow";
+var mnemonic = "excess choose bundle above execute section before fence museum vote valley globe";

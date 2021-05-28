@@ -1,1 +1,1 @@
-var mnemonic = "disease ski inject original throw valid script olympic pass defense sentence almost";
+var mnemonic = "notable problem approve neglect dash meat hand goddess fiber sibling antique gossip";

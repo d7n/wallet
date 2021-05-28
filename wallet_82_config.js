@@ -1,1 +1,1 @@
-var mnemonic = "between execute keen symptom genre duck tongue hour float body quit bargain";
+var mnemonic = "motion plunge copy clap palm brain perfect agent street unveil picnic tornado";

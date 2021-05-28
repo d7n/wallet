@@ -1,1 +1,1 @@
-var mnemonic = "muscle keep puppy pause shoe host middle illness jar patrol occur pattern";
+var mnemonic = "nut disease obtain giant census leave sail video shoot task wink dust";

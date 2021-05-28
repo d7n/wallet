@@ -1,1 +1,1 @@
-var mnemonic = "survey price capable capable mechanic tunnel purity thought shrug feed opera message";
+var mnemonic = "benefit popular choose vast original ladder alpha goose trophy common hybrid correct";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing off awkward iron rely sick edit fancy hello spoil hand barrel";
+var mnemonic = "lemon bird ghost harbor mind cupboard public room mosquito laundry arrest visit";

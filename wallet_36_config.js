@@ -1,1 +1,1 @@
-var mnemonic = "bunker inflict orbit poet cherry jazz miss snack cheap fat local flock";
+var mnemonic = "people elephant attend diary month like manage hover ability peace plug solid";

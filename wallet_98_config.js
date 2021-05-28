@@ -1,1 +1,1 @@
-var mnemonic = "strategy shove rug cover divide border also sudden license buffalo runway movie";
+var mnemonic = "truth treat spike spare remain drop phrase foster assault purchase kiss cream";

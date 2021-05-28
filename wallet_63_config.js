@@ -1,1 +1,1 @@
-var mnemonic = "flush youth help apart theory drill grief term inside gaze oxygen emotion";
+var mnemonic = "deputy payment claim nasty tumble unable sudden orient horse secret orient ladder";

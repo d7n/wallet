@@ -1,1 +1,1 @@
-var mnemonic = "tree deny because ski brush ready kiss wreck parade history citizen arrange";
+var mnemonic = "letter scrap actor cart used soon nominee guide middle sponsor modify pink";

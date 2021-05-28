@@ -1,1 +1,1 @@
-var mnemonic = "swamp obtain final cinnamon hard water unlock net loud spoil tone diary";
+var mnemonic = "cotton key bicycle fat cake asset prize father category faith slice run";

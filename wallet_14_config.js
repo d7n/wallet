@@ -1,1 +1,1 @@
-var mnemonic = "borrow empty kiwi fire gesture theory off tank parrot diary awake mountain";
+var mnemonic = "gauge abandon lamp grocery pelican good scan elbow pudding reason hamster prepare";

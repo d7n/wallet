@@ -1,1 +1,1 @@
-var mnemonic = "verb trip piece abstract best mix bike tooth ghost garlic isolate recall";
+var mnemonic = "squeeze deposit couch innocent kick convince ghost science ask behind employ hundred";

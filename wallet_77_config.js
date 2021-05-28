@@ -1,1 +1,1 @@
-var mnemonic = "good scatter barely stock trend change patrol govern proof puzzle gas culture";
+var mnemonic = "knee flat govern render lecture sight put fault leopard tooth company night";

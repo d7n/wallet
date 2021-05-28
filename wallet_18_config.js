@@ -1,1 +1,1 @@
-var mnemonic = "nasty across oval album rival cancel face novel between moment solid green";
+var mnemonic = "horse cherry skull hello object stadium expand almost document penalty adjust release";

@@ -1,1 +1,1 @@
-var mnemonic = "way mind initial ugly eye surprise front audit scare cradle orient unhappy";
+var mnemonic = "surface rather foam under domain raise stable soon this giant blanket alien";

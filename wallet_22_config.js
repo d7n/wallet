@@ -1,1 +1,1 @@
-var mnemonic = "vocal pave best arctic spread update merry opinion permit circle suspect service";
+var mnemonic = "mass over chair goat million grief you project tired major story someone";

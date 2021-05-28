@@ -1,1 +1,1 @@
-var mnemonic = "repair rocket lift eight shop ask noise stand canal pole parade claw";
+var mnemonic = "myth casino hospital female estate buyer nasty laugh limit cricket grid slam";

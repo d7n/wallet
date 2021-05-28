@@ -1,1 +1,1 @@
-var mnemonic = "various dwarf sea marble female height oblige stereo series combine wire feel";
+var mnemonic = "entry eye paddle antenna wire sea coral rug entry flush peanut desk";

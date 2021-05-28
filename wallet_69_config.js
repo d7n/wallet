@@ -1,1 +1,1 @@
-var mnemonic = "film defy outer identify fit oyster slice faint autumn inhale february area";
+var mnemonic = "three orphan raw defy answer velvet always gospel budget toilet size rabbit";

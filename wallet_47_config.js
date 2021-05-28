@@ -1,1 +1,1 @@
-var mnemonic = "rack object company layer catch fashion police frequent visa wine judge ridge";
+var mnemonic = "private match fabric young real alpha flame sauce tail web muffin example";

@@ -1,1 +1,1 @@
-var mnemonic = "easily immune record spy globe group opinion talent cherry height major lizard";
+var mnemonic = "slender hill supply jar sad access draw glide globe peanut budget obtain";

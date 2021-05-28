@@ -1,1 +1,1 @@
-var mnemonic = "mobile slot film space gaze pigeon junior extra time blade scare deer";
+var mnemonic = "lucky pipe simple bunker penalty crisp vast creek wool humble dress crush";

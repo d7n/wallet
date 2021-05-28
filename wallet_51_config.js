@@ -1,1 +1,1 @@
-var mnemonic = "pizza antique disorder banner purchase tissue kidney baby train title moment help";
+var mnemonic = "artwork wet hello goddess motor pony evolve choose random man citizen rubber";

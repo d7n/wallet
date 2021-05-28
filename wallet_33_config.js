@@ -1,1 +1,1 @@
-var mnemonic = "kid legend stone document road clump image hair coin indoor scrub door";
+var mnemonic = "hope yellow cram arrange soul sustain tennis sound ocean author say pair";

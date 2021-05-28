@@ -1,1 +1,1 @@
-var mnemonic = "segment stumble elevator chronic skirt sample salmon furnace farm govern blanket save";
+var mnemonic = "blind swear borrow avocado zero shy whisper exotic parrot ahead fringe cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "target join immense doll month morning near reduce decrease you must wedding";
+var mnemonic = "senior soul enhance hen cricket try forest six employ excuse visa genre";

@@ -1,1 +1,1 @@
-var mnemonic = "happy hen cool music armor float space siren tower glad arctic kitchen";
+var mnemonic = "wine evil love evoke security load sustain speed visual solid either fantasy";

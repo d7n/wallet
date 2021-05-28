@@ -1,1 +1,1 @@
-var mnemonic = "have task antique future unveil air dizzy pool stay proud destroy coffee";
+var mnemonic = "dwarf silly insect job wolf voyage call scrub mom camp inject gym";

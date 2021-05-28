@@ -1,1 +1,1 @@
-var mnemonic = "twin permit bird below clean couple build certain switch entire animal check";
+var mnemonic = "special pool achieve traffic destroy negative fit nest cheese two bench salute";

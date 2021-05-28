@@ -1,1 +1,1 @@
-var mnemonic = "purpose dress goddess become erode oxygen joy harsh version local buzz drive";
+var mnemonic = "derive season sunset inject shoe call small author conduct history tone antique";

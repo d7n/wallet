@@ -1,1 +1,1 @@
-var mnemonic = "that gloom coral fiscal twist cause snow deliver video venue melt scout";
+var mnemonic = "twenty patch young case absent armed wear world crack basic century team";

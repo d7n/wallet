@@ -1,1 +1,1 @@
-var mnemonic = "hint rose trust open parent paper humor box delay carry poem file";
+var mnemonic = "total hundred oak remove include enough demise nothing olympic differ echo chapter";

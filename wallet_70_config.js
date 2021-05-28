@@ -1,1 +1,1 @@
-var mnemonic = "roof educate dentist soda slab parade season update process ride domain ankle";
+var mnemonic = "hurry laundry bargain siren story quality census access faith network intact cinnamon";

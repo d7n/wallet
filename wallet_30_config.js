@@ -1,1 +1,1 @@
-var mnemonic = "bounce kid circle proof position diesel lab style embark electric inquiry skull";
+var mnemonic = "you curious meadow chaos confirm music early first praise attend roast lawn";

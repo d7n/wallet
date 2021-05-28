@@ -1,1 +1,1 @@
-var mnemonic = "smart enemy sting fringe during release hospital bean card able slogan quality";
+var mnemonic = "man toward try what long measure region famous below involve outdoor rural";

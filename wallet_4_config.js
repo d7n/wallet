@@ -1,1 +1,1 @@
-var mnemonic = "metal apple enforce sea expand hunt lunch harsh piano gain bamboo antenna";
+var mnemonic = "siege worry peace awkward average measure cost urge parade gloom alley door";

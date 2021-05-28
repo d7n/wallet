@@ -1,1 +1,1 @@
-var mnemonic = "medal walnut timber coin ghost dynamic around lawn tag hurt disorder wolf";
+var mnemonic = "secret violin laptop vocal broken test pull sock demand story march shuffle";

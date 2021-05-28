@@ -1,1 +1,1 @@
-var mnemonic = "major project intact witness grit media present night eight forum auction rice";
+var mnemonic = "change dance wedding message barely car drink film knee grief burden open";

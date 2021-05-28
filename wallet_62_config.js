@@ -1,1 +1,1 @@
-var mnemonic = "organ boat catalog hurry sunset pride unusual whale fitness glove kitten find";
+var mnemonic = "hint pudding frozen extra broken celery side crash family merge capable lyrics";

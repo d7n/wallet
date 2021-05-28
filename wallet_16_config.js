@@ -1,1 +1,1 @@
-var mnemonic = "decide setup tool vital age edit tail harbor planet ten install satisfy";
+var mnemonic = "slot high rough breeze exact muffin peanut vicious echo punch aim tunnel";

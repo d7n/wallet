@@ -1,1 +1,1 @@
-var mnemonic = "program fitness maximum ankle album wear power now response inside tenant night";
+var mnemonic = "divide sound sausage kite curious distance sport where raise pizza point potato";

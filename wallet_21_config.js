@@ -1,1 +1,1 @@
-var mnemonic = "scare long tobacco direct layer curve cool decide benefit cool spoil sponsor";
+var mnemonic = "car toss mirror token obvious sand wear chuckle alert leisure crawl shaft";

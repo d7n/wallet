@@ -1,1 +1,1 @@
-var mnemonic = "local enable lens stay indicate lunar coil arrow country cattle style prosper";
+var mnemonic = "affair bunker strike motor place crazy logic insane public mail twenty devote";

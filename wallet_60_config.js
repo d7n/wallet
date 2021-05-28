@@ -1,1 +1,1 @@
-var mnemonic = "finish put various plastic office salon idea notice practice tiny miss often";
+var mnemonic = "laugh wrong tiger silent holiday uncle limit push arrow carry digital curtain";

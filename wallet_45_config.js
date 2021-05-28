@@ -1,1 +1,1 @@
-var mnemonic = "soon surround lend language vacuum bread dilemma shrug sound toilet asthma must";
+var mnemonic = "tiger law swallow tissue pull chapter imitate lecture save physical repair leave";

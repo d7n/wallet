@@ -1,1 +1,1 @@
-var mnemonic = "legend journey shell lawn imitate rival draw jewel trick liar into rib";
+var mnemonic = "garlic abuse write trim doctor cost soft vanish infant large normal fault";

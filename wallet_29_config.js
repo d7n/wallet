@@ -1,1 +1,1 @@
-var mnemonic = "carry hurdle exile wash order virtual absurd violin angry indicate cushion sketch";
+var mnemonic = "bike process click victory person survey useful tongue citizen please defense thought";

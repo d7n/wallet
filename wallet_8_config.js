@@ -1,1 +1,1 @@
-var mnemonic = "extra solid slush blast always camera deposit tube sentence debate bachelor stadium";
+var mnemonic = "position chimney sister cute weasel table point garden attend erase velvet process";

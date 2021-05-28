@@ -1,1 +1,1 @@
-var mnemonic = "cousin worry warm romance mirror quality desk glow case skull prosper dinosaur";
+var mnemonic = "usual fitness athlete february ahead suit frequent hen meat shove eternal invite";

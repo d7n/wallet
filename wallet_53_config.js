@@ -1,1 +1,1 @@
-var mnemonic = "then cradle fatigue mail sun omit maximum salute until social cup avocado";
+var mnemonic = "assist now oak rich tribe next fragile result tape blur search few";

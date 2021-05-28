@@ -1,1 +1,1 @@
-var mnemonic = "blanket alpha citizen fault follow true menu coast limb crane motor plastic";
+var mnemonic = "solve develop nothing law armor brass define raise essay earth escape soon";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll arch census trim try hello enroll purpose legend slow okay enhance";
+var mnemonic = "goat cage fringe quiz shiver vibrant fluid health trip desert chronic sphere";

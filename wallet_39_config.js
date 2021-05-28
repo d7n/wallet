@@ -1,1 +1,1 @@
-var mnemonic = "enroll current lumber engine virtual pony subway collect oven obtain series lyrics";
+var mnemonic = "best bachelor polar chase hundred joy motion employ safe symptom delay rug";

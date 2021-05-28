@@ -1,1 +1,1 @@
-var mnemonic = "disorder grass famous broccoli cycle million blush process connect unfair mean culture";
+var mnemonic = "fog access same slush consider stand match brick night wagon time act";

@@ -1,1 +1,1 @@
-var mnemonic = "attract verb across reopen deliver bird danger matrix marble crouch inmate year";
+var mnemonic = "insane photo grab library flock skirt begin chuckle festival match miracle kick";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion absurd omit zoo spring bar frost close athlete lunch chunk surround";
+var mnemonic = "anxiety water swap document ensure despair mouse high sting day train can";

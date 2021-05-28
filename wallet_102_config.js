@@ -1,1 +1,1 @@
-var mnemonic = "ankle guitar frog happy journey ankle ill drama twenty kitchen trouble peasant";
+var mnemonic = "dentist inner garment hope turkey lamp danger media tornado solid office grain";

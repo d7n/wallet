@@ -1,1 +1,1 @@
-var mnemonic = "luggage visa bright wet arrange custom marine sausage ring fury radio mom";
+var mnemonic = "young fruit demand between crop vapor almost farm camera admit power immune";

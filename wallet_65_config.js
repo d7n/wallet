@@ -1,1 +1,1 @@
-var mnemonic = "stuff gallery vehicle park merry faint wild fox air network glare effort";
+var mnemonic = "blush elite dance page armed boy same column rent monitor install young";

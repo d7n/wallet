@@ -1,1 +1,1 @@
-var mnemonic = "crop favorite vibrant pride olympic screen jaguar odor common panic future reunion";
+var mnemonic = "chunk bird song soul mansion feel december crime ugly noble defy upper";

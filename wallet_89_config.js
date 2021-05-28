@@ -1,1 +1,1 @@
-var mnemonic = "donate script then dad bike weapon legend age rule step service volcano";
+var mnemonic = "cost visit sphere labor crouch small deliver pelican word venture pilot type";

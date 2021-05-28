@@ -1,1 +1,1 @@
-var mnemonic = "suffer episode clump defy coin cinnamon swamp plug exact nut affair blue";
+var mnemonic = "denial sugar stand knock express obvious rail assault face cluster lion enroll";

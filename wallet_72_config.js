@@ -1,1 +1,1 @@
-var mnemonic = "bless guilt field you alley company audit lift song fiber group burst";
+var mnemonic = "play fury more popular donate truck merit history mobile aspect bamboo proud";

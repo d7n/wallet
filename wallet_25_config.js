@@ -1,1 +1,1 @@
-var mnemonic = "target laptop pulse swim property mountain cart position exile select shy payment";
+var mnemonic = "anger slice dial journey almost oyster grant behind syrup roast tunnel long";

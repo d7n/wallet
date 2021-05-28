@@ -1,1 +1,1 @@
-var mnemonic = "prefer illness february expire announce cup orchard vivid public visual coast defy";
+var mnemonic = "glare monster excite anxiety grief over garment ocean pact indicate fashion legal";

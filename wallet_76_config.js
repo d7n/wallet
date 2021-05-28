@@ -1,1 +1,1 @@
-var mnemonic = "jelly civil whip cliff candy decline train traffic hospital exclude crush grace";
+var mnemonic = "pizza dwarf purity visa laugh lounge alcohol cloth horror brass sort pelican";

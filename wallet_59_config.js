@@ -1,1 +1,1 @@
-var mnemonic = "hybrid ripple gossip cannon sorry under knife visual myself any catalog cushion";
+var mnemonic = "wagon runway worth spoil reunion thumb coast struggle shadow coin evoke claim";

@@ -1,1 +1,1 @@
-var mnemonic = "gas citizen carbon state seat unable season better coil limit vocal moral";
+var mnemonic = "giant mixture eyebrow viable vendor phone rib where romance scheme wish marriage";

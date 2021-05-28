@@ -1,1 +1,1 @@
-var mnemonic = "medal arch senior learn repeat school stereo crack blouse frown sign minor";
+var mnemonic = "then breeze case glad motion knee sleep bulb advice sort arrow clip";

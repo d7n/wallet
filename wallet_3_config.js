@@ -1,1 +1,1 @@
-var mnemonic = "oblige gesture normal today grass twist iron main visa arm kick cat";
+var mnemonic = "orange only sweet breeze pride stool gasp invest orchard lyrics lion height";

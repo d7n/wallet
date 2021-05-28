@@ -1,1 +1,1 @@
-var mnemonic = "bring clock shock beef drink outer parrot favorite cruel pepper mutual evidence";
+var mnemonic = "gym media half aware very move baby session high purchase hip kit";

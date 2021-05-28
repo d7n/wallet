@@ -1,1 +1,1 @@
-var mnemonic = "faint mountain blade pudding draw various drum vendor eternal gesture eye resource";
+var mnemonic = "price vivid exercise blush indoor bottom hood shoulder fashion memory tobacco emotion";

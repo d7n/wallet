@@ -1,1 +1,1 @@
-var mnemonic = "hour into genius before tonight sample garden distance month magnet jar pink";
+var mnemonic = "group rocket roof average ozone tilt submit special crumble sting valley shoe";

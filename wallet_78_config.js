@@ -1,1 +1,1 @@
-var mnemonic = "crush extra polar gorilla craft soap tunnel tree myth inspire light smooth";
+var mnemonic = "siren shine photo chair essay element dizzy table ribbon deny buddy tumble";

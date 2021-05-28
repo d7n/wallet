@@ -1,1 +1,1 @@
-var mnemonic = "flat squeeze below visit derive cause poet slush rabbit attract imitate three";
+var mnemonic = "balance mammal antenna tissue gas upon volume large primary easy provide dog";
