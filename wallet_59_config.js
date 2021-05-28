@@ -1,1 +1,1 @@
-var mnemonic = "silver attitude ripple term ride autumn crop title kit excess ordinary large";
+var mnemonic = "frequent ability arm series syrup diesel wasp void shoe brass regret smooth";

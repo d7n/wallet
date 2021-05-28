@@ -1,1 +1,1 @@
-var mnemonic = "fever glue plunge pretty scout sure differ error job weather kit live";
+var mnemonic = "business sell search stand powder common become spot oppose festival used cute";

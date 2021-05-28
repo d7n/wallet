@@ -1,1 +1,1 @@
-var mnemonic = "impulse exile jungle gloom captain aware ripple metal dignity spot siege trend";
+var mnemonic = "poem joke wine focus pumpkin effort admit invite market rally produce light";

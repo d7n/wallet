@@ -1,1 +1,1 @@
-var mnemonic = "ten senior oak safe tone they turtle other meat cake crack disease";
+var mnemonic = "face rocket inquiry very clog reduce obvious method dilemma float assault envelope";

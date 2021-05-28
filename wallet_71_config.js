@@ -1,1 +1,1 @@
-var mnemonic = "aspect fix vapor leave enforce able trumpet sphere frog option message math";
+var mnemonic = "season now fitness green voice wine silver wide hole sock tower nut";

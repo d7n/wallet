@@ -1,1 +1,1 @@
-var mnemonic = "between staff episode suffer notice waste hub truly confirm announce common attitude";
+var mnemonic = "discover attend senior picnic donkey like fringe chef panel awful ribbon gift";

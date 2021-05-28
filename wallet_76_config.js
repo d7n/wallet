@@ -1,1 +1,1 @@
-var mnemonic = "enter vault october virtual employ valley very resist van earn fun someone";
+var mnemonic = "portion song moment plate talk entire riot load speed immune inform toss";

@@ -1,1 +1,1 @@
-var mnemonic = "remain shine zero balcony pact access orphan other clip crawl peace left";
+var mnemonic = "plunge soda witness bring problem army achieve segment route under room hammer";

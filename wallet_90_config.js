@@ -1,1 +1,1 @@
-var mnemonic = "drink business verb predict rent now flee sound inform brother mountain ready";
+var mnemonic = "maple model text language moon style fiction school cradle oven skate price";

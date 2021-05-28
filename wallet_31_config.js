@@ -1,1 +1,1 @@
-var mnemonic = "edge canvas else famous curious action balance quote knock amused sting grief";
+var mnemonic = "increase wreck inherit evoke trouble wild demise half accident kidney install fiscal";

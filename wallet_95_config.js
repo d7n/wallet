@@ -1,1 +1,1 @@
-var mnemonic = "glory rubber expect echo observe dawn cinnamon dismiss element hard awful caution";
+var mnemonic = "ice future predict hood drink caught rose gloom elephant skirt hurry tomorrow";

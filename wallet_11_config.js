@@ -1,1 +1,1 @@
-var mnemonic = "adjust column there shrimp evidence fence million prize biology lunch echo comfort";
+var mnemonic = "emotion romance evolve alone clinic sword bid struggle crime process border movie";

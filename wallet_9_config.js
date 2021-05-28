@@ -1,1 +1,1 @@
-var mnemonic = "ugly please excess like eagle beef remain tennis extend film train post";
+var mnemonic = "camera inquiry clinic square tobacco private boil galaxy invest grunt chaos drip";

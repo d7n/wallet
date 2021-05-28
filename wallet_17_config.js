@@ -1,1 +1,1 @@
-var mnemonic = "tornado endorse blue right frame there avocado point avocado void hint gym";
+var mnemonic = "ball company about south heavy link copy tip visual doll vapor village";

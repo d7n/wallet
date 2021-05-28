@@ -1,1 +1,1 @@
-var mnemonic = "palm notable uncover arrow one fever stay what tent scrub similar mobile";
+var mnemonic = "indoor jeans distance settle camera update lend pause earth ankle axis beef";

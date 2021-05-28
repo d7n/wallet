@@ -1,1 +1,1 @@
-var mnemonic = "domain patient muffin galaxy chef message stove area endorse vendor kiwi maple";
+var mnemonic = "dinosaur orange shed vicious solution miss coyote squeeze effort flat reopen claim";

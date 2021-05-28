@@ -1,1 +1,1 @@
-var mnemonic = "ticket buffalo reason job swim soldier drop dirt throw guilt write pudding";
+var mnemonic = "chaos dolphin actor lawn chalk movie nuclear adjust canyon cube oppose arm";

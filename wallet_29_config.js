@@ -1,1 +1,1 @@
-var mnemonic = "shock egg across high husband unable casino thumb swarm inflict number firm";
+var mnemonic = "slight describe bargain acquire idle deputy outer dragon industry spy render nominee";

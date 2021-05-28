@@ -1,1 +1,1 @@
-var mnemonic = "since milk hazard knock verify nothing execute crisp trophy art civil love";
+var mnemonic = "amazing pride gather survey olympic rubber lottery other sail bone banner turn";

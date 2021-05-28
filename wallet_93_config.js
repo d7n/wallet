@@ -1,1 +1,1 @@
-var mnemonic = "lend garage safe promote also ethics cabin engage fish economy twenty job";
+var mnemonic = "couch ramp inch breeze island angry lemon subway medal nurse virus airport";

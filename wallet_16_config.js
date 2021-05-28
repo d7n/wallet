@@ -1,1 +1,1 @@
-var mnemonic = "true sponsor scatter bubble tortoise elegant usual soccer isolate mix spike phone";
+var mnemonic = "pair upon hurdle skate toilet plastic secret fitness fantasy vacuum emerge tonight";

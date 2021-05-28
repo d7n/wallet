@@ -1,1 +1,1 @@
-var mnemonic = "infant twist direct morning food erode split magic portion month patrol job";
+var mnemonic = "wedding improve raccoon onion real nerve among coin lemon nest tray soap";

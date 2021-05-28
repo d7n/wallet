@@ -1,1 +1,1 @@
-var mnemonic = "cruise wise buyer vendor guide photo enroll frost page already staff object";
+var mnemonic = "fault manual mail erase outer kidney prepare supply woman fish regret beach";

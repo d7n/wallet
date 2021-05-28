@@ -1,1 +1,1 @@
-var mnemonic = "right whip emerge shrug bless then trim skate smooth funny color avoid";
+var mnemonic = "market police ivory gossip guitar candy hollow mechanic congress twice gate beyond";

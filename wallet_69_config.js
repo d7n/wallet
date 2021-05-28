@@ -1,1 +1,1 @@
-var mnemonic = "impose rapid afraid phrase body spatial valve diamond energy eager two voyage";
+var mnemonic = "eager awake hazard lock caught end flip start hamster behave blanket blast";

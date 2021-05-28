@@ -1,1 +1,1 @@
-var mnemonic = "sort piano mass crash charge surface festival become sea blanket reform cave";
+var mnemonic = "master nose hollow pink seminar laugh stick ordinary assume pupil cushion time";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease aunt intact wrestle change suffer pair remember social decide basket brass";
+var mnemonic = "senior ugly eyebrow express brown empty trophy police pencil bomb relax raw";

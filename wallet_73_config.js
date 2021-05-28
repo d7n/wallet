@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog march file settle duck salad whisper receive guard harsh boost method";
+var mnemonic = "sweet jazz senior item report axis rebel grace find volume inspire amazing";

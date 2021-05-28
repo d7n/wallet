@@ -1,1 +1,1 @@
-var mnemonic = "youth orphan trial chef enter physical exhaust when winner bridge cement belt";
+var mnemonic = "power churn monster obey birth wall frown armed current man deposit economy";

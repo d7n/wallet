@@ -1,1 +1,1 @@
-var mnemonic = "clerk pioneer crowd split minor icon range escape income prepare daring comfort";
+var mnemonic = "girl scorpion paper height wall clarify able relief enrich panda whisper bitter";

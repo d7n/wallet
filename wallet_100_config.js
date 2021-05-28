@@ -1,1 +1,1 @@
-var mnemonic = "joke salmon circle say viable mean bench genre skill chef exit viable";
+var mnemonic = "favorite nothing supply engine warrior cargo other evidence van govern rebuild tooth";

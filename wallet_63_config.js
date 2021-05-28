@@ -1,1 +1,1 @@
-var mnemonic = "trend eye worth blossom vocal onion talk absent gold reduce enable wrist";
+var mnemonic = "busy please alarm color toward lizard swear cruise wage circle trial coconut";

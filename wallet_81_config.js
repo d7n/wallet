@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tattoo syrup month come latin drive zebra door digital manual rebuild";
+var mnemonic = "useful forward control inhale youth model chimney matrix wealth lounge minute weasel";

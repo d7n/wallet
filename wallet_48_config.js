@@ -1,1 +1,1 @@
-var mnemonic = "famous valve lawn mule fancy cruel sure name session abstract enable rapid";
+var mnemonic = "nephew elephant skill pepper mobile orchard paddle olive pledge floor refuse nuclear";

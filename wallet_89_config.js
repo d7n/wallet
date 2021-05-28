@@ -1,1 +1,1 @@
-var mnemonic = "bulb liberty lock owner secret sort unaware fine entire dynamic crater enforce";
+var mnemonic = "escape winter festival outer end meat cluster orphan sunny fantasy glance assist";

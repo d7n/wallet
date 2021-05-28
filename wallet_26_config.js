@@ -1,1 +1,1 @@
-var mnemonic = "switch flip volume more same business luggage winter surface seven sauce else";
+var mnemonic = "glad digital yellow spend hotel drum true toy satoshi library ramp disorder";

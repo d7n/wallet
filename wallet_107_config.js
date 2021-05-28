@@ -1,1 +1,1 @@
-var mnemonic = "hen cinnamon chase rude empower vault strike arrest shaft parent resist hold";
+var mnemonic = "parent repeat tent dial shell bachelor loan foil armed flee bag bread";

@@ -1,1 +1,1 @@
-var mnemonic = "leave sing insect craft promote tragic spoon expand evolve mushroom drop slush";
+var mnemonic = "shrimp height riot genius glass invite demand barely wink organ rate vintage";

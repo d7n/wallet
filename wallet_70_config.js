@@ -1,1 +1,1 @@
-var mnemonic = "finish liquid air about crisp soft uncover acid issue you oppose fatigue";
+var mnemonic = "vivid dog save agree act twelve slide shy destroy focus trick awkward";

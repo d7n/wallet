@@ -1,1 +1,1 @@
-var mnemonic = "run music unknown blur clog obscure protect excite visual cannon include laundry";
+var mnemonic = "point reason autumn note turtle twist robot eager swing fiction discover few";

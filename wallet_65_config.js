@@ -1,1 +1,1 @@
-var mnemonic = "habit tragic light merge reunion before blue fog slush flag mule repair";
+var mnemonic = "top text alien extend galaxy cluster chapter spy glass direct equal brother";

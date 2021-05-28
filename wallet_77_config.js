@@ -1,1 +1,1 @@
-var mnemonic = "middle crystal pumpkin immense palm sing inquiry install world cover document option";
+var mnemonic = "endless drink hungry swear spring level flame sail since shove idle shaft";

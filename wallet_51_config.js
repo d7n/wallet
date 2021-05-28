@@ -1,1 +1,1 @@
-var mnemonic = "network rookie absorb weird slab strike orient large paddle bachelor meadow brick";
+var mnemonic = "stand badge drop hospital mimic canal enlist quantum section slender voyage blur";

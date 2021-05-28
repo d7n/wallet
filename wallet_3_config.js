@@ -1,1 +1,1 @@
-var mnemonic = "predict employ fit crazy panda settle tube heart cart peace replace adjust";
+var mnemonic = "lazy matter firm brown require family address protect answer ginger wise later";

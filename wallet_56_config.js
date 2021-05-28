@@ -1,1 +1,1 @@
-var mnemonic = "flip asset carpet category spike alone mobile patient duck youth visa orchard";
+var mnemonic = "kidney silly kit hybrid put payment remain danger slogan cluster blossom system";

@@ -1,1 +1,1 @@
-var mnemonic = "story weapon age hurry carry bicycle lend solid carry lamp enrich leader";
+var mnemonic = "velvet trust excite disease gospel brass exit remember clap pilot tornado employ";

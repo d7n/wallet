@@ -1,1 +1,1 @@
-var mnemonic = "gravity position drink dream lamp fog early stand dumb fetch youth ring";
+var mnemonic = "clutch stomach glare prepare garment dentist emotion ski gather outer behind engage";

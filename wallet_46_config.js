@@ -1,1 +1,1 @@
-var mnemonic = "vivid cabbage twenty flock fish payment voyage manual explain grit meat minute";
+var mnemonic = "taste title tower session method about bag logic entry excuse fantasy fix";

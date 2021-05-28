@@ -1,1 +1,1 @@
-var mnemonic = "senior milk sugar trim power fresh dress south feature volcano color pill";
+var mnemonic = "upon yard elder shoulder token depth witness smart piano april total explain";

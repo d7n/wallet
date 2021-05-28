@@ -1,1 +1,1 @@
-var mnemonic = "tissue skate deal bleak twenty glance junior network rigid blast expire cupboard";
+var mnemonic = "fence crack torch faculty fog venue prize useful hollow brass vicious friend";

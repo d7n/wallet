@@ -1,1 +1,1 @@
-var mnemonic = "trouble usage action gaze sibling elite come emerge cloud giggle cushion envelope";
+var mnemonic = "swarm sentence despair finger gas coil trust burst joke crucial correct grace";

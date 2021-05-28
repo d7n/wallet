@@ -1,1 +1,1 @@
-var mnemonic = "resemble turkey table peace wall pioneer loan idea ride burst ugly jar";
+var mnemonic = "upgrade fragile shuffle lake wrap draw utility renew vapor crystal version elite";

@@ -1,1 +1,1 @@
-var mnemonic = "debris must crop movie dress flush dutch bargain jacket tool moral embody";
+var mnemonic = "toilet wealth hole run jazz woman clip raw flock odor blossom able";

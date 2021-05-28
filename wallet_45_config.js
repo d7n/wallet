@@ -1,1 +1,1 @@
-var mnemonic = "feel reveal found welcome matter fix immense liquid keep clog wave point";
+var mnemonic = "test lady sadness refuse castle minimum village suffer kite upgrade together thought";

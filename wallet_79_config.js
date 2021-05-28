@@ -1,1 +1,1 @@
-var mnemonic = "govern huge ability tool final prevent okay tired hub rate clog like";
+var mnemonic = "team busy general infant road entire grid slab strike weasel coast tonight";

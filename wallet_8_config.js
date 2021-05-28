@@ -1,1 +1,1 @@
-var mnemonic = "bacon super version sniff cycle evolve where donkey mistake enter lyrics spider";
+var mnemonic = "current human logic tape civil salt choose peanut talent age swing between";

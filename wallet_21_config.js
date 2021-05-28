@@ -1,1 +1,1 @@
-var mnemonic = "brief practice genius jump holiday beef alpha corn permit fantasy book level";
+var mnemonic = "warm hand advance gauge clinic worry voice tag nose firm sell guilt";

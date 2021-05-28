@@ -1,1 +1,1 @@
-var mnemonic = "orange weather begin mirror icon adapt stove sail puzzle next hazard junior";
+var mnemonic = "salon enemy journey explain glide prepare ozone kiss style predict parade spray";

@@ -1,1 +1,1 @@
-var mnemonic = "siege despair champion rough right salad permit parent win deer noble witness";
+var mnemonic = "submit above crash hawk desk today else frown also dove source provide";

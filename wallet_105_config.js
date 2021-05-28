@@ -1,1 +1,1 @@
-var mnemonic = "height tray million crew bracket guilt clutch arrow arch lunch shy boy";
+var mnemonic = "raise tooth act cheese spoil drip cluster spawn survey cinnamon once comfort";

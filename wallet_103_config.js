@@ -1,1 +1,1 @@
-var mnemonic = "thumb bracket rural avoid coach cradle lady worry emotion hidden script seek";
+var mnemonic = "ripple wheat uphold security device recycle beyond autumn tomato genre episode robust";

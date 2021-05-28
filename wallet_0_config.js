@@ -1,1 +1,1 @@
-var mnemonic = "any ugly skill direct globe patrol grass opera gas already arrive supply";
+var mnemonic = "alarm nothing pole tooth home reopen receive essence open theory bone sock";

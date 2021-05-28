@@ -1,1 +1,1 @@
-var mnemonic = "priority nuclear radar donkey smile clarify purpose half fiction satoshi menu broccoli";
+var mnemonic = "impact across argue resist job verb pet bless brand drive tennis what";

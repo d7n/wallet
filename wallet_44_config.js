@@ -1,1 +1,1 @@
-var mnemonic = "retreat tone evoke sudden text country brass fatal muscle gaze mix abandon";
+var mnemonic = "cupboard drink sheriff truly state dignity neither thank cinnamon arena lion ostrich";

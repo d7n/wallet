@@ -1,1 +1,1 @@
-var mnemonic = "craft actual other airport upon question hat skull apple canvas burst gossip";
+var mnemonic = "artefact release story proof main skull post whip seven outdoor dilemma liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "tent arrow stamp tuna venture siege wet pen general better tragic ivory";
+var mnemonic = "stock crisp another hybrid walnut note small raw empower scout original club";

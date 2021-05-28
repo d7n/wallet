@@ -1,1 +1,1 @@
-var mnemonic = "trim method finger health plastic ginger improve work smart divorce umbrella mesh";
+var mnemonic = "lift there vast try skirt paper gasp pilot enhance subject advice orchard";

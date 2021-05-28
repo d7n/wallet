@@ -1,1 +1,1 @@
-var mnemonic = "patrol soldier balance double soon antenna six tip oval dust two barely";
+var mnemonic = "fade team toast lamp process square lyrics glow divorce video glide cram";

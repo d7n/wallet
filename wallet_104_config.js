@@ -1,1 +1,1 @@
-var mnemonic = "genre pretty knife share settle tunnel window month segment learn below wire";
+var mnemonic = "ask spoil body endorse critic change visit orphan frame pretty face bubble";

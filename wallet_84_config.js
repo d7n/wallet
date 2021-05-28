@@ -1,1 +1,1 @@
-var mnemonic = "solution wasp glove river engage kiwi reopen close credit essay shop disease";
+var mnemonic = "reunion eagle glow easy degree raven cloud style entire whale quantum abuse";

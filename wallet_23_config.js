@@ -1,1 +1,1 @@
-var mnemonic = "magnet flavor dwarf want print ivory method between tattoo struggle minute suffer";
+var mnemonic = "coast list burden decline knock team verify mango enhance wheel range wise";

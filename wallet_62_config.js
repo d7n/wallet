@@ -1,1 +1,1 @@
-var mnemonic = "service normal frozen when upon vehicle coral bulb require bubble basket result";
+var mnemonic = "mule utility hood planet scene truck quiz put setup stadium benefit dice";

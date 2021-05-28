@@ -1,1 +1,1 @@
-var mnemonic = "clay dice athlete dress avocado category defy cup verb magic early decrease";
+var mnemonic = "bind army wealth plunge ordinary capital connect hospital transfer snack kiwi mosquito";

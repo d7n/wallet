@@ -1,1 +1,1 @@
-var mnemonic = "state flip index kangaroo someone false print battle photo wish celery float";
+var mnemonic = "announce bless walnut diesel open jacket village orient torch tuition slide summer";

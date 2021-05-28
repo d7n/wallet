@@ -1,1 +1,1 @@
-var mnemonic = "swing tower mountain twin mammal cigar ice grass toilet please dismiss soap";
+var mnemonic = "exclude outer report orange awake day horror annual update plastic siege aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "govern north urge inherit crowd silly sorry empower cheese eagle merry garden";
+var mnemonic = "mixed expire plate embark minor blast baby audit alcohol fence number success";

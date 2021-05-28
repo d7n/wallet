@@ -1,1 +1,1 @@
-var mnemonic = "funny rice phone amused young joy symptom barely ethics auction meadow economy";
+var mnemonic = "giant page waste tower alley scrub correct family hour chief senior pilot";

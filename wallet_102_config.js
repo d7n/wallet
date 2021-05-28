@@ -1,1 +1,1 @@
-var mnemonic = "claw cliff morning oven setup supreme pizza badge choose priority huge empower";
+var mnemonic = "file play memory jazz iron festival vessel match scissors phone master flash";

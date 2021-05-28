@@ -1,1 +1,1 @@
-var mnemonic = "hire normal wild divert glory way pyramid raw safe crouch grain nose";
+var mnemonic = "wide panic february audit setup lecture tiny raccoon maid vendor strategy name";

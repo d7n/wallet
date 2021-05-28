@@ -1,1 +1,1 @@
-var mnemonic = "chuckle clever faint lizard funny remind hawk end gauge build enable want";
+var mnemonic = "flash horror awkward butter ticket desk travel lawn key drastic toast skill";

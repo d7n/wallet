@@ -1,1 +1,1 @@
-var mnemonic = "steak wait love observe ski evil pottery next giant else ankle fringe";
+var mnemonic = "boring dinosaur bright tumble balance skin discover ocean nation debris liquid stone";

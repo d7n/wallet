@@ -1,1 +1,1 @@
-var mnemonic = "equal panic diesel payment pigeon raw burger lyrics tortoise sight lemon dice";
+var mnemonic = "banner beyond glare voyage swift guess mouse hidden music exhibit evolve topple";

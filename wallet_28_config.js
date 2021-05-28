@@ -1,1 +1,1 @@
-var mnemonic = "govern clarify shiver immune record pledge swarm rookie deer enrich candy crouch";
+var mnemonic = "camera fitness icon summer mixture enough bread increase risk fancy summer hurdle";

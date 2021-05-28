@@ -1,1 +1,1 @@
-var mnemonic = "best paper absorb enjoy nerve review inner become deposit core festival razor";
+var mnemonic = "cattle much day network rigid drip scissors sorry chunk cereal add demand";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel off mouse comfort tornado bargain fluid vessel access welcome air begin";
+var mnemonic = "jeans off hire shrimp when attitude artist shoulder estate poem trick social";
