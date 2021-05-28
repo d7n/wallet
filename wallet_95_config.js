@@ -1,1 +1,1 @@
-var mnemonic = "learn damp cave code prefer science wheel chief injury produce target physical";
+var mnemonic = "tourist coach lonely example inquiry frost notice then tiny orphan success include";

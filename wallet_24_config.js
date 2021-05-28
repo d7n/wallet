@@ -1,1 +1,1 @@
-var mnemonic = "quote empty match attitude grass ensure divide blood relax heavy obscure depart";
+var mnemonic = "can collect road include filter elegant admit inner sing skull noble student";

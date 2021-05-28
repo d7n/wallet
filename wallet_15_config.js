@@ -1,1 +1,1 @@
-var mnemonic = "ocean useful boring scale silver city chalk fine miracle random harvest tank";
+var mnemonic = "shuffle caught spray oak master exclude swear guilt burst chimney express joke";

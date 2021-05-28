@@ -1,1 +1,1 @@
-var mnemonic = "unique improve slide camp poet muscle bleak unfold away wool ivory pool";
+var mnemonic = "define lobster list zero spray mad resist pilot example dry mirror fork";

@@ -1,1 +1,1 @@
-var mnemonic = "same kid quantum rival glance define combine edit want plug future cake";
+var mnemonic = "view sister manage field ability calm trigger clarify account stand drink define";

@@ -1,1 +1,1 @@
-var mnemonic = "lens infant dial orphan stamp tiger card weekend squirrel stick blossom egg";
+var mnemonic = "dial remain palace tonight pelican stove tool exact balcony ball lonely position";

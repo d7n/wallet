@@ -1,1 +1,1 @@
-var mnemonic = "episode message direct bridge hat question talent divide choose orange drastic furnace";
+var mnemonic = "velvet next drip invite soda science refuse cloud air bone they example";

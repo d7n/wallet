@@ -1,1 +1,1 @@
-var mnemonic = "post wolf seminar drama secret visa utility buzz twin slide accident victory";
+var mnemonic = "december spread banner exile target payment spread play page file ensure pair";

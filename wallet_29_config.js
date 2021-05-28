@@ -1,1 +1,1 @@
-var mnemonic = "slender curve dry dice stock noble version arrive music trouble poverty casual";
+var mnemonic = "neglect sausage illness amount staff twin close sample perfect ensure orchard six";

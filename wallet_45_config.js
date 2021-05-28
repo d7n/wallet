@@ -1,1 +1,1 @@
-var mnemonic = "property harbor weekend taxi maple deer essence sock tone cheese casino snow";
+var mnemonic = "permit kite intact inner mirror copper ignore uphold satoshi legal merit remove";

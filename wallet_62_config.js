@@ -1,1 +1,1 @@
-var mnemonic = "logic boss bean yard labor token token awful satoshi rule beyond piano";
+var mnemonic = "people road quote truck noble title furnace garden combine peanut betray income";

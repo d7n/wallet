@@ -1,1 +1,1 @@
-var mnemonic = "shop have video gate pupil unknown sword monster biology kit cup offer";
+var mnemonic = "engage glove they casino kite genre rib finger true weird winner point";

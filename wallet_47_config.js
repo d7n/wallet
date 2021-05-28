@@ -1,1 +1,1 @@
-var mnemonic = "cage surprise divorce spatial number acquire hole sell visa sort cotton huge";
+var mnemonic = "burden sell rely select airport magic tattoo someone dry spell fat oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "item bike misery uphold civil outer cluster runway party vault steak unusual";
+var mnemonic = "bread ostrich early journey super great observe retire hazard jump artwork master";

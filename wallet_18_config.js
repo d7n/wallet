@@ -1,1 +1,1 @@
-var mnemonic = "pulse neglect wish marine resemble say then hotel door supreme clap wise";
+var mnemonic = "dose cheap elegant oven smart minor case purity rapid pumpkin when manual";

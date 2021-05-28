@@ -1,1 +1,1 @@
-var mnemonic = "draw scheme village daughter poem retreat finger cat undo inherit brother tower";
+var mnemonic = "memory refuse tenant glance name broom cupboard hobby indicate inhale absent swap";

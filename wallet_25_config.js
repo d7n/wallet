@@ -1,1 +1,1 @@
-var mnemonic = "mention leader reform capital scout vintage sight six wink eye snake try";
+var mnemonic = "cupboard tennis true oil kid ranch whip slice member garden give obey";

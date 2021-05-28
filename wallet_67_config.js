@@ -1,1 +1,1 @@
-var mnemonic = "now kid unable leopard birth dove buddy awkward slight online mammal speak";
+var mnemonic = "patrol corn asset useful night tackle buyer antenna achieve nose mule dinner";

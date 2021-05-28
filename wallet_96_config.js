@@ -1,1 +1,1 @@
-var mnemonic = "narrow sample winner consider high witness attract update hip love immune scorpion";
+var mnemonic = "there eight evolve manual laugh horror enforce spatial arrow ripple ordinary cart";

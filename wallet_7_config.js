@@ -1,1 +1,1 @@
-var mnemonic = "foot bamboo exact dish merry chalk slab quick rain cruel setup cliff";
+var mnemonic = "hip poem raven banner cheese rebuild bounce tongue ability garden tooth spread";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern item lab business fossil foam sponsor forum wire crucial day trip";
+var mnemonic = "broccoli unfold filter muscle about choice crash domain jaguar fury nice spoil";

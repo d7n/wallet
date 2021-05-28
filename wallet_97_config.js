@@ -1,1 +1,1 @@
-var mnemonic = "fruit brother runway remain level hollow must glimpse door tackle connect one";
+var mnemonic = "february reunion wrong fiber rule eyebrow horror bean meat manage ladder crunch";

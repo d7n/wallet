@@ -1,1 +1,1 @@
-var mnemonic = "insane health diary lock stumble work bargain second gauge core interest canvas";
+var mnemonic = "give scare issue economy item blouse kind drama benefit unlock maximum barrel";

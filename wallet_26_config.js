@@ -1,1 +1,1 @@
-var mnemonic = "update midnight umbrella current gauge room front please embody path yard effort";
+var mnemonic = "turkey eager vault interest early current focus slide soldier middle shock world";

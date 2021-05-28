@@ -1,1 +1,1 @@
-var mnemonic = "hollow sand federal tongue candy video piano proof lady civil claim start";
+var mnemonic = "mother better sail rare mention pistol purpose tennis mad unit reopen try";

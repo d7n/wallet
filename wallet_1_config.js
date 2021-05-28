@@ -1,1 +1,1 @@
-var mnemonic = "almost museum collect state pepper leader hub member exit clean people photo";
+var mnemonic = "runway diet regret enhance day celery vibrant whale slim home truly exhaust";

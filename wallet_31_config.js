@@ -1,1 +1,1 @@
-var mnemonic = "output spin donor solid walk family earth shoot now mad erosion lonely";
+var mnemonic = "sustain radio hire flavor attract stick exact clock beauty taste year arrive";

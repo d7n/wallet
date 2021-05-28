@@ -1,1 +1,1 @@
-var mnemonic = "bulb unlock inform track sadness august other choice melody wrap excess random";
+var mnemonic = "shuffle ship patient disagree clown pistol guard city curve electric desk magic";

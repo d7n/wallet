@@ -1,1 +1,1 @@
-var mnemonic = "stay anger drift rich fan ripple pepper maximum axis laugh prosper task";
+var mnemonic = "wheel sport glance april valid vault need rapid hill face iron upon";

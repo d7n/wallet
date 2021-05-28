@@ -1,1 +1,1 @@
-var mnemonic = "space near horse cherry dismiss worth truck fantasy summer reflect recycle skin";
+var mnemonic = "search sudden second runway hockey soup stereo cotton exotic rely wet art";

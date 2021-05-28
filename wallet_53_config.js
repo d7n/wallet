@@ -1,1 +1,1 @@
-var mnemonic = "erase express jacket album code suggest few switch service clock moon orphan";
+var mnemonic = "theme acid wave clog deliver exotic arrow battle lumber valley industry patch";

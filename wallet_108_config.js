@@ -1,1 +1,1 @@
-var mnemonic = "cost six match walk coil garlic disorder amused obtain advance thunder short";
+var mnemonic = "false spice snake network wall inflict essence country fun churn hurdle reopen";

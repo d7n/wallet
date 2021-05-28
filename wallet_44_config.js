@@ -1,1 +1,1 @@
-var mnemonic = "enact use fantasy blind staff kite lady fossil want radar half hello";
+var mnemonic = "budget myself beach loyal leader sound trend album leave deliver keen cereal";

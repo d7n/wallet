@@ -1,1 +1,1 @@
-var mnemonic = "crunch tell there forward crazy useless smooth point recall safe until glimpse";
+var mnemonic = "borrow logic film culture shoe welcome biology december yard special knife enforce";

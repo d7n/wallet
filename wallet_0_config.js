@@ -1,1 +1,1 @@
-var mnemonic = "scheme note chest write angry nice keep child cotton horse unhappy abuse";
+var mnemonic = "sport labor round mango flavor sight refuse trend endorse loop like arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "until dragon express dress autumn demand immense novel inside rapid remind ketchup";
+var mnemonic = "unlock wing want mobile level prefer palace afraid crazy payment best sense";

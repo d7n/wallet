@@ -1,1 +1,1 @@
-var mnemonic = "actress cause clog taste element must float scrub fuel siege pair parade";
+var mnemonic = "layer garbage coin save truth walnut frequent brand plug fatal grow accident";

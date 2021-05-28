@@ -1,1 +1,1 @@
-var mnemonic = "diet cabin early gun music grab pizza before goat promote zebra rapid";
+var mnemonic = "recall orange enroll layer hurry crater abuse sock kingdom minute shift false";

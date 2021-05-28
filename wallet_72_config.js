@@ -1,1 +1,1 @@
-var mnemonic = "speed repeat trick sense mandate file link badge raccoon jaguar kite rescue";
+var mnemonic = "excuse earn elite parade planet museum faculty culture poverty calm game behave";

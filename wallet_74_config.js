@@ -1,1 +1,1 @@
-var mnemonic = "ginger own teach loop any language frown city goddess trash ranch hand";
+var mnemonic = "tip shine mix language brief since pair economy token course flush dial";

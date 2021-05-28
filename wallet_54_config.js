@@ -1,1 +1,1 @@
-var mnemonic = "excess chief prepare involve wash cave fix hen card accident echo sock";
+var mnemonic = "great divide gallery afford inform bunker gun bullet shove scorpion census board";

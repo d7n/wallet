@@ -1,1 +1,1 @@
-var mnemonic = "mansion cook defense impose injury place ranch hope speed pulp session fox";
+var mnemonic = "beef waste pelican sun dial transfer logic erupt tribe bunker corn naive";

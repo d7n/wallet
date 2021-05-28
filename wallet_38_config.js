@@ -1,1 +1,1 @@
-var mnemonic = "business crawl orient axis assume toy butter immune spatial tent insane extend";
+var mnemonic = "tilt hat thumb paper water faint name carpet twice protect beauty insect";

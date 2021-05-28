@@ -1,1 +1,1 @@
-var mnemonic = "company phone indicate rebel exact distance much vehicle woman decline voyage whisper";
+var mnemonic = "three fun sniff flee double shallow neglect innocent puppy avoid tone put";

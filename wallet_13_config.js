@@ -1,1 +1,1 @@
-var mnemonic = "rib van loud tattoo net strike chuckle vote width ketchup accuse tissue";
+var mnemonic = "fit junk start ticket onion know clap mesh fame input mercy lake";

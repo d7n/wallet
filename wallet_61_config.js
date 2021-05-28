@@ -1,1 +1,1 @@
-var mnemonic = "click salute potato library angle mammal derive economy visual trend answer injury";
+var mnemonic = "copy immune cushion pencil rough potato poet blast gorilla kit train tent";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub balcony stick frame destroy music vocal black shy force exit shadow";
+var mnemonic = "reject find clown ride try view act blade praise pumpkin arctic luxury";

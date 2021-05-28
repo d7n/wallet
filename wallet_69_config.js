@@ -1,1 +1,1 @@
-var mnemonic = "silent keep woman parade grace strong maze secret pulse liberty album winter";
+var mnemonic = "sound weapon course vicious humble fine coconut drive boring asthma pet liar";

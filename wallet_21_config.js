@@ -1,1 +1,1 @@
-var mnemonic = "tumble express second general maple design priority member dash bachelor draw veteran";
+var mnemonic = "screen clap genre above lemon betray hero kiwi urge spread code assist";

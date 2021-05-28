@@ -1,1 +1,1 @@
-var mnemonic = "lawn smart cup exotic flame peanut once laugh frost define spatial face";
+var mnemonic = "kiss stem wash opinion mesh build alpha eyebrow gravity vapor stuff cupboard";

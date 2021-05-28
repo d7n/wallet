@@ -1,1 +1,1 @@
-var mnemonic = "venture belt symptom scrap tragic way pair scan race pretty critic cliff";
+var mnemonic = "fix retreat refuse jar soul final disease brick enemy wealth debris earth";

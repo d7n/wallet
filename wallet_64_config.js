@@ -1,1 +1,1 @@
-var mnemonic = "slide load chest bridge decrease dish have estate soul silk taste gospel";
+var mnemonic = "entry reform away awkward dream bike swap among school evolve captain demise";

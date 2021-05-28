@@ -1,1 +1,1 @@
-var mnemonic = "burger just only arrive cute furnace fuel advice oven cushion young volume";
+var mnemonic = "relief novel night ill deliver praise antique wood duck pudding utility phone";

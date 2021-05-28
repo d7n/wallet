@@ -1,1 +1,1 @@
-var mnemonic = "good blood vast episode uphold captain concert audit near latin shrimp hen";
+var mnemonic = "tunnel addict amused stone envelope prize taste goose dance copy trophy cattle";

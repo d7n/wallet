@@ -1,1 +1,1 @@
-var mnemonic = "year anger zebra require check bleak picture dove day visit hawk subject";
+var mnemonic = "april donor place cram sunny fiber explain smoke pupil march blood grief";

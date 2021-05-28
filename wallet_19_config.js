@@ -1,1 +1,1 @@
-var mnemonic = "exchange green target patrol merry pitch jazz manage cash lizard hen huge";
+var mnemonic = "spread risk quality social monkey river amateur hood nothing athlete inspire rather";

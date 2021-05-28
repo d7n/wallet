@@ -1,1 +1,1 @@
-var mnemonic = "history garden permit fancy sheriff code duck hawk wool eternal test coach";
+var mnemonic = "hub argue battle smoke vintage wrap crazy nerve gift volcano rate unfold";

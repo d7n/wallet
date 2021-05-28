@@ -1,1 +1,1 @@
-var mnemonic = "almost crystal dice genuine silly midnight document plate area you work banana";
+var mnemonic = "cotton hurt find glory bomb cake resource pair estate blind thing safe";

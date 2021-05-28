@@ -1,1 +1,1 @@
-var mnemonic = "battle pass session direct term muscle curious skate fortune inmate south witness";
+var mnemonic = "strategy once anger must situate submit degree icon obscure black piece decide";

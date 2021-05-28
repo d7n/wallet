@@ -1,1 +1,1 @@
-var mnemonic = "range rule truly clean garbage powder onion foil bleak course offer loop";
+var mnemonic = "pool buddy check trend favorite actress poverty inside cradle stable portion play";

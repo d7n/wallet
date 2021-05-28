@@ -1,1 +1,1 @@
-var mnemonic = "sword process enrich junk program load illegal ocean style slim stereo reward";
+var mnemonic = "use hub put planet hat tooth action one best chase credit hospital";

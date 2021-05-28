@@ -1,1 +1,1 @@
-var mnemonic = "wet myth certain science urban cabbage garden cigar reject venue museum catalog";
+var mnemonic = "throw already capital mean define define nothing ball shallow robust anchor tobacco";

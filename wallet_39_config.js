@@ -1,1 +1,1 @@
-var mnemonic = "never venture twin find rotate oak force social zebra assume add erosion";
+var mnemonic = "emerge have actor million guide reduce success wrist income fence budget limit";

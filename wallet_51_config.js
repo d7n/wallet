@@ -1,1 +1,1 @@
-var mnemonic = "helmet furnace clay scissors shy other pink notice gauge spring rotate seed";
+var mnemonic = "link easily chimney crop alarm bounce alarm heart weekend six rabbit provide";

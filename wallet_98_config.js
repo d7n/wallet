@@ -1,1 +1,1 @@
-var mnemonic = "network measure all shiver end indicate survey grow game pride magnet tuition";
+var mnemonic = "random install diary swamp laugh domain radio stuff pyramid wish wood slice";

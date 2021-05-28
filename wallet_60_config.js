@@ -1,1 +1,1 @@
-var mnemonic = "invite hood broccoli wasp spoon record wrong pig chief rice core parade";
+var mnemonic = "cradle midnight rule until topple sight possible pipe vacant expose squeeze cactus";

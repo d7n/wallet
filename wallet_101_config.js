@@ -1,1 +1,1 @@
-var mnemonic = "robust hole sail woman flash ceiling major blue height same slush recall";
+var mnemonic = "doctor leisure purchase save proud sphere two endless magic journey cherry peanut";

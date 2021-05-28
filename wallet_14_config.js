@@ -1,1 +1,1 @@
-var mnemonic = "simple pull layer lunch pitch brush symptom jewel guard border wide nature";
+var mnemonic = "author ostrich food leave language kick damage music spike rigid come world";

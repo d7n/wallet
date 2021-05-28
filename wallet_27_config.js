@@ -1,1 +1,1 @@
-var mnemonic = "fantasy awesome insect mandate kangaroo purchase title vehicle supply achieve wire boss";
+var mnemonic = "broom smile dog shed expect text gadget indicate lawn tray lucky script";

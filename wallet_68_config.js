@@ -1,1 +1,1 @@
-var mnemonic = "together sponsor cabin fall source stand black before loan ridge pencil injury";
+var mnemonic = "melody skate meat moral carry alter clerk capital wash author ridge city";

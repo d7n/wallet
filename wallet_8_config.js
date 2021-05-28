@@ -1,1 +1,1 @@
-var mnemonic = "grief carry stove describe black oval must zoo device issue spoon chronic";
+var mnemonic = "slogan age shuffle obtain rain silk split evidence slim donor typical bubble";

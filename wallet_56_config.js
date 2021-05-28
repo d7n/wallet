@@ -1,1 +1,1 @@
-var mnemonic = "giraffe other chronic ski mountain bronze amazing diary spring edit income shrimp";
+var mnemonic = "demand luxury clay toward fury half model gadget purse enemy prevent marble";

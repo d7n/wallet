@@ -1,1 +1,1 @@
-var mnemonic = "marine urban wood lizard olympic spawn bike define pepper clown orange waste";
+var mnemonic = "medal try human expose hair scorpion shoot catalog usual tone orange catalog";

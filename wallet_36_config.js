@@ -1,1 +1,1 @@
-var mnemonic = "moon live must argue seat other disagree ceiling scatter repair bitter kite";
+var mnemonic = "require space mixed cream tomato cotton baby cave market point moment distance";

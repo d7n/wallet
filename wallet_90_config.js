@@ -1,1 +1,1 @@
-var mnemonic = "napkin wear thumb system bag clump oppose found stove flee evoke shoe";
+var mnemonic = "hurdle betray exhibit club craft cave rose budget happy crash invest sudden";

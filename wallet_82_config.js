@@ -1,1 +1,1 @@
-var mnemonic = "leg order siren bracket million deposit erase alley cruel hip reject outside";
+var mnemonic = "subway you brisk crisp sort best height large twin vault cart fatal";

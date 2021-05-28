@@ -1,1 +1,1 @@
-var mnemonic = "nice burst mass miracle country scheme offer column orient tumble above crush";
+var mnemonic = "voice uncle rapid unique cup debate rent glove attitude arrest place hero";

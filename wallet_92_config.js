@@ -1,1 +1,1 @@
-var mnemonic = "lava fence canyon bargain flush domain organ obtain media february address match";
+var mnemonic = "town owner win confirm cancel just erupt quantum fix credit mask lesson";

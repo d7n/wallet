@@ -1,1 +1,1 @@
-var mnemonic = "pave category improve dash pipe gain token medal friend miss case team";
+var mnemonic = "crouch pear current cash crater dress lobster stove detect system grid index";

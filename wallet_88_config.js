@@ -1,1 +1,1 @@
-var mnemonic = "galaxy idea almost dose rural copy holiday envelope cloud indicate any skill";
+var mnemonic = "used identify disagree shop poem brush whisper key diary task fire usual";

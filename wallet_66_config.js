@@ -1,1 +1,1 @@
-var mnemonic = "train dismiss hover mango town happy blanket village inflict genius spray logic";
+var mnemonic = "famous unhappy submit glue guilt unaware awkward same push icon ramp attitude";

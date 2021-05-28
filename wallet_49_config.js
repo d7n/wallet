@@ -1,1 +1,1 @@
-var mnemonic = "tooth month aim elevator frozen plastic soup plug canvas ticket reason there";
+var mnemonic = "trade option screen chapter arrange wait hand post assist circle island echo";
