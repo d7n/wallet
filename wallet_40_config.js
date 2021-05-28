@@ -1,1 +1,1 @@
-var mnemonic = "way novel quote ancient wasp step inhale bunker picnic mail awful bean";
+var mnemonic = "eagle hero bench question chimney april traffic ring hockey alley enhance volcano";

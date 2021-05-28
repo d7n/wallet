@@ -1,1 +1,1 @@
-var mnemonic = "outside famous avoid tobacco pool trade away mouse idle quality large dirt";
+var mnemonic = "surround palace much neglect snack intact sing echo same left fossil inch";

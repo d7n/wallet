@@ -1,1 +1,1 @@
-var mnemonic = "leaf bundle kick jungle danger exchange educate multiply obtain machine comic business";
+var mnemonic = "frame fiscal fault orient filter spread index celery spice pool travel stick";

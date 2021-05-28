@@ -1,1 +1,1 @@
-var mnemonic = "double cube setup misery just recycle harvest senior sight disorder age ethics";
+var mnemonic = "grocery hobby want thunder knee need tooth cage trick voyage wheel desk";

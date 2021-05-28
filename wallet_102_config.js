@@ -1,1 +1,1 @@
-var mnemonic = "sure orbit rack razor pigeon element alone endless coil thumb slide oxygen";
+var mnemonic = "cram reject level quantum marble normal cage athlete report congress grocery sample";

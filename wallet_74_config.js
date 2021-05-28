@@ -1,1 +1,1 @@
-var mnemonic = "deal valley arrow similar ceiling negative airport online glove night oppose mountain";
+var mnemonic = "mouse motor eight divert enough jar predict traffic curve vote bring split";

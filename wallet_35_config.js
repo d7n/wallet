@@ -1,1 +1,1 @@
-var mnemonic = "coconut safe salt monster wonder maid bubble curtain sorry gown summer level";
+var mnemonic = "valve drift globe gallery crop melody census robot draft patient early orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "manual lawn leader double tornado venue enable embark item valley brother unknown";
+var mnemonic = "walnut sudden pipe behind secret flat thunder grape agent hint cruise keep";

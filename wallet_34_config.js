@@ -1,1 +1,1 @@
-var mnemonic = "lucky toss flush educate virus era cattle prevent thunder always refuse nest";
+var mnemonic = "sleep sing bunker farm admit guess coin unusual exhibit hold decorate milk";

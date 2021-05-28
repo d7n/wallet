@@ -1,1 +1,1 @@
-var mnemonic = "raccoon easily thought hat settle enact silent habit suit student sun history";
+var mnemonic = "yellow truth regret area amount below dust aware evoke foster finger rally";

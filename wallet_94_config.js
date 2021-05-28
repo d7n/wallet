@@ -1,1 +1,1 @@
-var mnemonic = "kidney pitch pelican daughter name order sample lady cereal conduct subject glimpse";
+var mnemonic = "dismiss news orange cupboard despair they pelican case anger acoustic lobster steel";

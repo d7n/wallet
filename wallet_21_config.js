@@ -1,1 +1,1 @@
-var mnemonic = "mother fatigue cupboard fold use obey finish diet siege myself reduce hotel";
+var mnemonic = "just apple original multiply trust waste file magic devote manage process space";

@@ -1,1 +1,1 @@
-var mnemonic = "anger dumb isolate banner enhance skill this crazy crew bus share tattoo";
+var mnemonic = "dignity enact fee dust craft cruise please across tiger dolphin easily antenna";

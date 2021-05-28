@@ -1,1 +1,1 @@
-var mnemonic = "settle uncle aim thought vapor dizzy news leisure skirt boat grid net";
+var mnemonic = "slide need bounce kiss prosper label frozen winner announce sound shrimp pistol";

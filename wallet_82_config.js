@@ -1,1 +1,1 @@
-var mnemonic = "basket dynamic fresh tool street broken solve popular kitchen rail bachelor aspect";
+var mnemonic = "all butter replace reject layer eagle rent absorb denial neither jaguar sustain";

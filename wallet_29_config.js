@@ -1,1 +1,1 @@
-var mnemonic = "swim wool language weather pause thank banner weather detail plunge student gate";
+var mnemonic = "convince bubble distance cool cart group knee exotic short glance exact clap";

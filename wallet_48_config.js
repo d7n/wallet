@@ -1,1 +1,1 @@
-var mnemonic = "sugar canal uncover rhythm stool miracle differ ignore pipe salute window amazing";
+var mnemonic = "clarify reason cricket piano worth cream place office response festival riot doctor";

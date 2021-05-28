@@ -1,1 +1,1 @@
-var mnemonic = "lonely idea buzz marine nest fox table deal skirt mandate story absorb";
+var mnemonic = "park velvet word domain scrap disagree poverty crumble amateur scale pair struggle";

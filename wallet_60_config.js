@@ -1,1 +1,1 @@
-var mnemonic = "wall grass pet theory want practice ready play input stove air end";
+var mnemonic = "exchange decade believe mass tuition math polar where worry scale include van";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore ritual amused term abandon scrap loan sword skill ecology race divide";
+var mnemonic = "switch math emotion happy usage elegant fetch shoot ten hello gasp toddler";

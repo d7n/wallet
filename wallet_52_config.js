@@ -1,1 +1,1 @@
-var mnemonic = "scheme shock tiny arrange fence give satoshi media cave discover lava across";
+var mnemonic = "share stand mirror wheel mobile fence forward mask scissors suspect online language";

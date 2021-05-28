@@ -1,1 +1,1 @@
-var mnemonic = "warfare rude doll survey moment shop hire upper glimpse nut employ noodle";
+var mnemonic = "harbor wide essay wisdom place permit eye hand rule desk boost air";

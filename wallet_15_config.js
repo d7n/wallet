@@ -1,1 +1,1 @@
-var mnemonic = "jacket crew busy ritual must network solve escape alarm join search place";
+var mnemonic = "tragic barely shoulder grow latin swap air kite local rely debate fabric";

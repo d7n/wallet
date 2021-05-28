@@ -1,1 +1,1 @@
-var mnemonic = "embrace fluid kick arrow vote tribe charge wise curious burst average famous";
+var mnemonic = "page mountain tennis nuclear close uncle sound doctor wise weekend sense moral";

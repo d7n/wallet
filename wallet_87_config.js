@@ -1,1 +1,1 @@
-var mnemonic = "consider better jealous salmon south spoil fence erosion mass fan pizza salad";
+var mnemonic = "oil census swarm razor era neck pact royal mercy main exotic inner";

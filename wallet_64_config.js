@@ -1,1 +1,1 @@
-var mnemonic = "churn trim decorate ice laugh account badge human blade turtle fall purity";
+var mnemonic = "love first bacon zoo travel reform glass birth near convince sail perfect";

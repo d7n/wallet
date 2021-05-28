@@ -1,1 +1,1 @@
-var mnemonic = "hard face ready flame rotate slender swap talent oak trigger warrior bike";
+var mnemonic = "toward book budget medal buddy rain weather indoor jump raw firm sing";

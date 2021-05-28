@@ -1,1 +1,1 @@
-var mnemonic = "boring sing senior language cement shoulder nation arch liquid front hockey force";
+var mnemonic = "cake tumble forget pool truck dolphin size display arrest valve sibling rib";

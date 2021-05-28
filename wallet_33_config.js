@@ -1,1 +1,1 @@
-var mnemonic = "poverty egg oil banner visual phone frame country unhappy promote horror bleak";
+var mnemonic = "comic also venue arrow pupil reward art spare scrub mosquito cancel lecture";

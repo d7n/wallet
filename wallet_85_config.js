@@ -1,1 +1,1 @@
-var mnemonic = "turtle rebel smooth kiwi grain cart pause time together foam excuse close";
+var mnemonic = "derive kiwi song stick issue stamp brave disorder cute rice power noble";

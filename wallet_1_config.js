@@ -1,1 +1,1 @@
-var mnemonic = "decline suit axis uniform skate alarm custom shrug spatial abuse head wedding";
+var mnemonic = "ten lend smoke airport choice black relief raccoon also stock shiver income";

@@ -1,1 +1,1 @@
-var mnemonic = "smile attract sunset inhale bubble disorder inmate thought jealous spring just kit";
+var mnemonic = "coil burden cube mass goat supply garden census arrange loan believe grid";

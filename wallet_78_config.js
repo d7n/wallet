@@ -1,1 +1,1 @@
-var mnemonic = "tornado clown market loud mansion joke wrist cable pelican only fossil stereo";
+var mnemonic = "security fashion utility make exhibit birth honey hero moment client fiscal holiday";

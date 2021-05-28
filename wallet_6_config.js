@@ -1,1 +1,1 @@
-var mnemonic = "dismiss among deny since acquire wood immune pitch tail zebra mother twist";
+var mnemonic = "evoke violin minor lunch match critic news fatigue purse property flag jungle";

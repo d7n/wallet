@@ -1,1 +1,1 @@
-var mnemonic = "discover grunt wool mango tank text stem grunt have eye melt hundred";
+var mnemonic = "ankle gasp oven nest sail lottery above caution cruel hotel transfer tell";

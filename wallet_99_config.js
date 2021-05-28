@@ -1,1 +1,1 @@
-var mnemonic = "robust salon strong busy copper state address bargain broom blur pretty color";
+var mnemonic = "soda face melt another film health away thumb gadget session dove spend";

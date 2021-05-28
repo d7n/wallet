@@ -1,1 +1,1 @@
-var mnemonic = "cup there effort program father pattern shift plate water win banana cram";
+var mnemonic = "raw arrange inflict capital drill hungry trend shuffle jaguar width come broom";

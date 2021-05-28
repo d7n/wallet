@@ -1,1 +1,1 @@
-var mnemonic = "junior explain have poem mean pudding neglect describe argue today minimum paper";
+var mnemonic = "harvest bench eternal cargo adjust fragile warm claw impulse hand machine soda";

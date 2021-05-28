@@ -1,1 +1,1 @@
-var mnemonic = "fog flavor hedgehog private water pair begin excuse oppose agree obvious height";
+var mnemonic = "supply gain main upon state popular attitude punch discover bachelor sad attend";

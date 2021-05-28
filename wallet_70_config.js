@@ -1,1 +1,1 @@
-var mnemonic = "staff advice roast inner shine modify famous trumpet satoshi beef whip mistake";
+var mnemonic = "month exit stock perfect relief south load citizen edge glass ketchup oil";

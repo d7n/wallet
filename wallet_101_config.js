@@ -1,1 +1,1 @@
-var mnemonic = "inform twenty mushroom veteran near minimum crash stadium soldier fitness rural noise";
+var mnemonic = "banana exercise man nut time cash knife sibling section moment journey example";

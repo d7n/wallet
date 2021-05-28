@@ -1,1 +1,1 @@
-var mnemonic = "deposit owner climb area bomb night gold funny sample luxury dynamic into";
+var mnemonic = "design minute logic kick exhibit abuse cloud people space mixture way favorite";

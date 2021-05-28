@@ -1,1 +1,1 @@
-var mnemonic = "aim same ladder nerve master vault good begin gate seek naive measure";
+var mnemonic = "salmon pen need above deal quote machine erase able prepare planet eight";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud belt melt mass tank fever situate inherit output sell shoot hole";
+var mnemonic = "aim approve garbage clay turtle aware lazy quick scissors birth dolphin people";

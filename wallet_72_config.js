@@ -1,1 +1,1 @@
-var mnemonic = "luggage chapter bleak ozone produce pull minute evil follow fish donor minimum";
+var mnemonic = "october carry twenty drop sting wrap nurse rebel father bubble inflict dentist";

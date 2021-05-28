@@ -1,1 +1,1 @@
-var mnemonic = "random man link tackle trial crime pole lawsuit joke attitude second velvet";
+var mnemonic = "limit violin devote trial purpose already auction labor index struggle juice quiz";

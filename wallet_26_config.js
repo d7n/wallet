@@ -1,1 +1,1 @@
-var mnemonic = "plug what inject series voyage safe unlock walk valve kid rapid shaft";
+var mnemonic = "salon acid about burst life hour warrior ketchup destroy girl immune jewel";

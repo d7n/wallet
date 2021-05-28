@@ -1,1 +1,1 @@
-var mnemonic = "phone debate park army because vanish top bronze popular car embark similar";
+var mnemonic = "cycle sort rifle soul bottom adapt supreme finger valid call code reveal";

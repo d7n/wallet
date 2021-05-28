@@ -1,1 +1,1 @@
-var mnemonic = "soon horror tower dilemma indicate sudden velvet olive acid welcome type glad";
+var mnemonic = "fringe truth fan salmon paddle grunt scorpion fold slim injury lunar drink";

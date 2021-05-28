@@ -1,1 +1,1 @@
-var mnemonic = "bridge lazy hill enact potato divorce hawk section direct increase firm muscle";
+var mnemonic = "hour oppose spoil couple senior update stumble evil vacant battle amused crowd";

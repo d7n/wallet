@@ -1,1 +1,1 @@
-var mnemonic = "vapor sweet lobster cart gasp file town remind disorder hundred fiction during";
+var mnemonic = "hat caution tag april owner trumpet trial symptom inner edit mammal renew";

@@ -1,1 +1,1 @@
-var mnemonic = "render amount audit jungle trip reward family deposit primary side hurry hazard";
+var mnemonic = "olive spell plunge dawn cram awkward green brisk radar twist uncover fortune";

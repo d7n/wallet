@@ -1,1 +1,1 @@
-var mnemonic = "vast rebuild scheme chronic basket sail spot pen monitor eternal autumn differ";
+var mnemonic = "exit wrong weather reflect zone sure allow economy inch skate sport cupboard";

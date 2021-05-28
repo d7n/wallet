@@ -1,1 +1,1 @@
-var mnemonic = "brisk balcony improve problem ability wonder quick kit nurse swim wagon helmet";
+var mnemonic = "lend worry reduce sleep fat demand bless ask thrive metal radar logic";

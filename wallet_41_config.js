@@ -1,1 +1,1 @@
-var mnemonic = "cruel kitchen menu eagle oxygen green unfair limb estate neck choice tube";
+var mnemonic = "forest frost clump blue favorite risk hundred resemble hybrid drill mountain furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety tonight wait wage intact evoke walnut salute grass battle senior visual";
+var mnemonic = "best moment lumber horn cattle ramp butter bar catalog ability smooth laugh";

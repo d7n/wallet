@@ -1,1 +1,1 @@
-var mnemonic = "absent crater success easy prefer armed enough fit lunch own silent mobile";
+var mnemonic = "home gold tennis random sleep choice border blade glide country bundle split";

@@ -1,1 +1,1 @@
-var mnemonic = "habit stamp strategy enrich own bubble wave clay harsh october swamp tobacco";
+var mnemonic = "lottery flag crime bounce bring armed pizza live logic kick inspire runway";

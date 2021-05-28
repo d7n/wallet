@@ -1,1 +1,1 @@
-var mnemonic = "video gold member curtain hobby ginger post curtain shrimp elite emerge hand";
+var mnemonic = "actress wave science token canyon tomorrow share puzzle pull loop cat mammal";

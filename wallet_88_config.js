@@ -1,1 +1,1 @@
-var mnemonic = "chest water fat bundle surround vibrant divert often borrow attitude talent jelly";
+var mnemonic = "dentist recall voice violin crawl card tribe memory envelope door banner upset";

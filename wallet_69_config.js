@@ -1,1 +1,1 @@
-var mnemonic = "rely sister monkey goddess general glance critic elite scrub clump quiz report";
+var mnemonic = "color ordinary slim maid guess shuffle attitude panel put bitter bless patient";

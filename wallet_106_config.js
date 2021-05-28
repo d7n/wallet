@@ -1,1 +1,1 @@
-var mnemonic = "lab blind foster loop annual hole lab myself tourist lawn inhale excite";
+var mnemonic = "silk way vapor parade bomb glory quick album thank harbor fresh clap";

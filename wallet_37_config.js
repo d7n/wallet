@@ -1,1 +1,1 @@
-var mnemonic = "direct light twist harsh exotic length prefer equal loud hunt loyal dumb";
+var mnemonic = "family table legal quote attract citizen pole weasel leaf jar warrior wheat";

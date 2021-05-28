@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur foster express museum popular wrap lyrics quick medal tackle genius badge";
+var mnemonic = "much bird toe destroy general mistake dismiss trim approve among shield blue";

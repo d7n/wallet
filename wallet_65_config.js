@@ -1,1 +1,1 @@
-var mnemonic = "slender february catch match focus submit consider panther discover quarter ugly buyer";
+var mnemonic = "pluck steak day awesome mean opera feature time absent clown license idle";

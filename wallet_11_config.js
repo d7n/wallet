@@ -1,1 +1,1 @@
-var mnemonic = "dolphin early legend fold sure problem foam corn elder oval gaze potato";
+var mnemonic = "scatter phrase lab slender lottery awesome wire portion rebuild hand crack firm";

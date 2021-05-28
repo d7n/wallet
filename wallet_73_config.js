@@ -1,1 +1,1 @@
-var mnemonic = "undo aisle upon either misery army disease diet turkey average spice verb";
+var mnemonic = "shop bless cliff guide plug frog humble inherit debris share still pitch";

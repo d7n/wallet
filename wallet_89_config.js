@@ -1,1 +1,1 @@
-var mnemonic = "become weird royal chronic marriage question language antique carry mind vintage crouch";
+var mnemonic = "roof noble upgrade salon usual morning latin hamster recipe hope chicken blame";

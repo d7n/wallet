@@ -1,1 +1,1 @@
-var mnemonic = "room helmet pepper myself category type obvious casual stick stadium congress reward";
+var mnemonic = "faculty slim submit garbage tank wife grow bleak annual version inform spare";

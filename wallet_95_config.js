@@ -1,1 +1,1 @@
-var mnemonic = "cherry amount arrange autumn soon mercy panther exact stool impose reject source";
+var mnemonic = "awesome mistake travel gesture heart permit boost hard deputy pupil release rare";

@@ -1,1 +1,1 @@
-var mnemonic = "genius sausage silk weekend cry ice harsh unaware noodle frost panther off";
+var mnemonic = "alpha shop drama media harbor ability cliff abstract boil result clap garbage";

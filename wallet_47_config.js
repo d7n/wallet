@@ -1,1 +1,1 @@
-var mnemonic = "wave forget hybrid family damage pioneer glare crew valve item list return";
+var mnemonic = "dance skirt radar lesson federal isolate file must horse romance approve lizard";

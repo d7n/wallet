@@ -1,1 +1,1 @@
-var mnemonic = "meadow dolphin pill vacuum stamp achieve hunt harbor hockey force mango garment";
+var mnemonic = "uphold bench vacuum dress stuff usage dress fence virus orient ginger actress";

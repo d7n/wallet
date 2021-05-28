@@ -1,1 +1,1 @@
-var mnemonic = "phone amateur country patrol hollow provide bright coyote stool they man glance";
+var mnemonic = "laundry close achieve degree blade radio imitate gate shy fade amused usage";

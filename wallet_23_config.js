@@ -1,1 +1,1 @@
-var mnemonic = "motion palm cart pattern onion gloom milk metal monkey cake moral cat";
+var mnemonic = "kingdom wear buyer metal clever orbit boat arch wife fence century unfold";

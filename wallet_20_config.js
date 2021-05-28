@@ -1,1 +1,1 @@
-var mnemonic = "flame conduct crumble biology avoid text crane isolate tennis glide sponsor gasp";
+var mnemonic = "refuse chef seminar frog best minor satisfy tobacco emerge leader deal echo";

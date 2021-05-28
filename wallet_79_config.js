@@ -1,1 +1,1 @@
-var mnemonic = "wise bargain rice guard change hungry staff reduce ozone wagon mind table";
+var mnemonic = "now dose render alarm visa about today empower about steak hollow thunder";

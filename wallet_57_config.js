@@ -1,1 +1,1 @@
-var mnemonic = "remind idle taste noble shield blanket solid claw layer glimpse hole yard";
+var mnemonic = "east inmate loop base mimic burden chaos paper attitude essay fortune mosquito";

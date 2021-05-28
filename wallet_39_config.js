@@ -1,1 +1,1 @@
-var mnemonic = "area analyst labor return main resist goat option convince interest black car";
+var mnemonic = "mad marriage junior weapon liar hip style medal weird device bracket rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "entry choose isolate cruise gift glory vessel junior goose curious range worry";
+var mnemonic = "swift cause vacant please spring frog welcome undo dignity walnut finger model";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors radio strike orphan convince hat sure harsh interest decade uniform analyst";
+var mnemonic = "extend endorse pizza horror organ quality casual dose dumb remember evolve thank";

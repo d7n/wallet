@@ -1,1 +1,1 @@
-var mnemonic = "brush all relax duty fresh uniform utility deal chapter violin way furnace";
+var mnemonic = "science citizen open album town body warrior trial popular rigid auction snap";

@@ -1,1 +1,1 @@
-var mnemonic = "color survey wing joke that pelican cave person shuffle minor insane frost";
+var mnemonic = "spoon short warrior curious turtle say old affair lens grab empower jaguar";

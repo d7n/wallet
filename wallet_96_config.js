@@ -1,1 +1,1 @@
-var mnemonic = "tool provide field envelope drive allow sell ocean awful rocket observe luggage";
+var mnemonic = "survey second rib else render entry submit ignore pool suggest fun dwarf";

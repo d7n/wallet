@@ -1,1 +1,1 @@
-var mnemonic = "only sheriff alpha grunt bird marriage junk snap sick warm during night";
+var mnemonic = "topic scrub bar celery fold reunion unable rigid fatigue main dizzy artist";

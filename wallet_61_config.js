@@ -1,1 +1,1 @@
-var mnemonic = "mix link grab age remind face office wrist emerge bamboo urge reopen";
+var mnemonic = "window choice glare aware document over ask bounce front win hire upper";
