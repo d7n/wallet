@@ -1,1 +1,1 @@
-var mnemonic = "scatter phrase lab slender lottery awesome wire portion rebuild hand crack firm";
+var mnemonic = "wing skate armed boring rich bless tape suggest envelope surround surface waste";

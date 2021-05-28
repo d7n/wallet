@@ -1,1 +1,1 @@
-var mnemonic = "evoke violin minor lunch match critic news fatigue purse property flag jungle";
+var mnemonic = "black belt rude parade welcome maximum bitter invite broom spot bag film";

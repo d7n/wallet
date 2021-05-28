@@ -1,1 +1,1 @@
-var mnemonic = "convince worth pond boat stool kiss party also fever worth butter you";
+var mnemonic = "test museum shy jaguar recycle advance keep lizard recycle imitate proud gauge";

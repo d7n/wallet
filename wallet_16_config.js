@@ -1,1 +1,1 @@
-var mnemonic = "harbor wide essay wisdom place permit eye hand rule desk boost air";
+var mnemonic = "earn turtle donkey rookie leaf august answer flag nothing slush sell demand";

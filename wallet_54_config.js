@@ -1,1 +1,1 @@
-var mnemonic = "page mountain tennis nuclear close uncle sound doctor wise weekend sense moral";
+var mnemonic = "short find drum chapter blush glove domain make unable twenty say hamster";

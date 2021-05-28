@@ -1,1 +1,1 @@
-var mnemonic = "alpha shop drama media harbor ability cliff abstract boil result clap garbage";
+var mnemonic = "uphold parent draft envelope tribe laundry exclude balance rally sibling boost height";

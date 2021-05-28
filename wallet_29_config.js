@@ -1,1 +1,1 @@
-var mnemonic = "convince bubble distance cool cart group knee exotic short glance exact clap";
+var mnemonic = "ability radar goddess monster ship allow foster slam yellow deliver assist when";

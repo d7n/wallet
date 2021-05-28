@@ -1,1 +1,1 @@
-var mnemonic = "oil census swarm razor era neck pact royal mercy main exotic inner";
+var mnemonic = "receive gaze bonus measure bachelor impact stomach they minimum hat cargo virtual";

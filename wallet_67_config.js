@@ -1,1 +1,1 @@
-var mnemonic = "left suggest afford tourist soap damage fatigue present build wing bar modify";
+var mnemonic = "easy panel wish keep sunny grocery exchange trick glad win bonus pool";

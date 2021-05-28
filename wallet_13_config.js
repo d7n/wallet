@@ -1,1 +1,1 @@
-var mnemonic = "swift cause vacant please spring frog welcome undo dignity walnut finger model";
+var mnemonic = "little still cable casual ketchup napkin minimum slab orchard way sleep stove";

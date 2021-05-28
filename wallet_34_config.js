@@ -1,1 +1,1 @@
-var mnemonic = "sleep sing bunker farm admit guess coin unusual exhibit hold decorate milk";
+var mnemonic = "matrix bomb knife orient trend music advance deer habit calm course curve";

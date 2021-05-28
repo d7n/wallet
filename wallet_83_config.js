@@ -1,1 +1,1 @@
-var mnemonic = "design minute logic kick exhibit abuse cloud people space mixture way favorite";
+var mnemonic = "crazy wait abstract slogan offer sell effort victory acquire employ dawn heart";

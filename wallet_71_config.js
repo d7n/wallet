@@ -1,1 +1,1 @@
-var mnemonic = "silent pudding language load fringe worth town negative mix practice timber card";
+var mnemonic = "health upon measure kick belt skin zone rule rough because lift situate";

@@ -1,1 +1,1 @@
-var mnemonic = "exit wrong weather reflect zone sure allow economy inch skate sport cupboard";
+var mnemonic = "final jewel bonus lady crime cheap fatal notice forward trumpet note camp";

@@ -1,1 +1,1 @@
-var mnemonic = "family table legal quote attract citizen pole weasel leaf jar warrior wheat";
+var mnemonic = "wrestle please duty behave argue chief person average alert miracle phone federal";

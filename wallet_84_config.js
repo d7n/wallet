@@ -1,1 +1,1 @@
-var mnemonic = "grocery hobby want thunder knee need tooth cage trick voyage wheel desk";
+var mnemonic = "crisp olive gain cliff bundle hover pass inform achieve junk luggage cushion";

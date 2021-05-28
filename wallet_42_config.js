@@ -1,1 +1,1 @@
-var mnemonic = "cake tumble forget pool truck dolphin size display arrest valve sibling rib";
+var mnemonic = "public shop fabric idea loop ivory calm warfare twist noble upset youth";

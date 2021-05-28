@@ -1,1 +1,1 @@
-var mnemonic = "limit violin devote trial purpose already auction labor index struggle juice quiz";
+var mnemonic = "radar fall puzzle decide illness observe alcohol auction carbon farm auto ski";

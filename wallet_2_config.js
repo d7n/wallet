@@ -1,1 +1,1 @@
-var mnemonic = "dumb symptom social involve exhaust vacuum reward hip tonight increase humble dust";
+var mnemonic = "empower put milk cheap dentist endless person prepare breeze cluster spoon film";

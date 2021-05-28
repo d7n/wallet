@@ -1,1 +1,1 @@
-var mnemonic = "now dose render alarm visa about today empower about steak hollow thunder";
+var mnemonic = "school rapid team early live kitten floor erupt mystery brand comfort staff";

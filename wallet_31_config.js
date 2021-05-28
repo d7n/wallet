@@ -1,1 +1,1 @@
-var mnemonic = "teach average once select bacon immense among express provide solar slice come";
+var mnemonic = "kick tail output hat era sadness because diary best candy illegal weekend";

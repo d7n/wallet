@@ -1,1 +1,1 @@
-var mnemonic = "small heavy mule harvest bracket donkey bottom faculty bird enter rough because";
+var mnemonic = "someone chunk dilemma surround garbage disease cloth lyrics still gaze goose quality";

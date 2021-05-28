@@ -1,1 +1,1 @@
-var mnemonic = "all butter replace reject layer eagle rent absorb denial neither jaguar sustain";
+var mnemonic = "guess point buzz saddle aware clown midnight success force control couch drive";

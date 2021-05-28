@@ -1,1 +1,1 @@
-var mnemonic = "cute host guard found ridge milk clutch guard cause accident crane sock";
+var mnemonic = "input cheese funny exhaust dash weather lounge similar over puzzle slam actress";

@@ -1,1 +1,1 @@
-var mnemonic = "ten lend smoke airport choice black relief raccoon also stock shiver income";
+var mnemonic = "napkin angle maple dirt ceiling year mystery giraffe heart patch submit emotion";

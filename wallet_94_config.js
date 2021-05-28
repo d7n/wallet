@@ -1,1 +1,1 @@
-var mnemonic = "dismiss news orange cupboard despair they pelican case anger acoustic lobster steel";
+var mnemonic = "suspect drum issue mom quick brand social sight layer change very limb";

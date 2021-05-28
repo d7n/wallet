@@ -1,1 +1,1 @@
-var mnemonic = "just apple original multiply trust waste file magic devote manage process space";
+var mnemonic = "notice hat dentist script maple roast confirm width above priority sea veteran";

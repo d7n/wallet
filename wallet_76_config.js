@@ -1,1 +1,1 @@
-var mnemonic = "reject vessel addict chalk real begin stamp mixture plate train estate observe";
+var mnemonic = "slot forward option energy coil globe plug high shock tragic opera scrub";

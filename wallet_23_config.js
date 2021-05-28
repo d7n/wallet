@@ -1,1 +1,1 @@
-var mnemonic = "kingdom wear buyer metal clever orbit boat arch wife fence century unfold";
+var mnemonic = "wagon dutch day stool mask swear among saddle skirt axis cross magic";

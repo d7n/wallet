@@ -1,1 +1,1 @@
-var mnemonic = "hen ozone demise magnet stable crush spice weird worth mystery layer outer";
+var mnemonic = "ill charge document win shaft peanut warm tip lonely because suggest dust";

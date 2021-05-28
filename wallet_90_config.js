@@ -1,1 +1,1 @@
-var mnemonic = "switch math emotion happy usage elegant fetch shoot ten hello gasp toddler";
+var mnemonic = "veteran under leaf razor edit update act sound era october prevent kangaroo";

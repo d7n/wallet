@@ -1,1 +1,1 @@
-var mnemonic = "pluck steak day awesome mean opera feature time absent clown license idle";
+var mnemonic = "beyond install since undo deposit output claw bike snake harvest song settle";

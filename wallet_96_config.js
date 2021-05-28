@@ -1,1 +1,1 @@
-var mnemonic = "survey second rib else render entry submit ignore pool suggest fun dwarf";
+var mnemonic = "hobby bless magic antenna enhance upset symbol sample lamp fringe goat earth";

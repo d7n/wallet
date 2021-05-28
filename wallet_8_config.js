@@ -1,1 +1,1 @@
-var mnemonic = "much bird toe destroy general mistake dismiss trim approve among shield blue";
+var mnemonic = "menu warm fat enact column loop hundred miss eyebrow essay puzzle print";

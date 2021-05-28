@@ -1,1 +1,1 @@
-var mnemonic = "author dignity pause move lobster trophy island hen mobile end sense muscle";
+var mnemonic = "hen sentence retreat axis gather lock empty extra awful blur bless jump";

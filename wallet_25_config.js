@@ -1,1 +1,1 @@
-var mnemonic = "quality nurse bag reveal throw burden deposit tobacco jacket rocket whip belt";
+var mnemonic = "wing fuel lake vapor nuclear aim float pitch urban rather there borrow";

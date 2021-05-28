@@ -1,1 +1,1 @@
-var mnemonic = "dignity enact fee dust craft cruise please across tiger dolphin easily antenna";
+var mnemonic = "shoot play coral test half dentist muscle allow bonus film borrow erupt";

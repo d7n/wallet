@@ -1,1 +1,1 @@
-var mnemonic = "cram reject level quantum marble normal cage athlete report congress grocery sample";
+var mnemonic = "usual snake pulp useless rebuild income sound menu corn share relax dignity";

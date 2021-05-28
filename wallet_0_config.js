@@ -1,1 +1,1 @@
-var mnemonic = "slide need bounce kiss prosper label frozen winner announce sound shrimp pistol";
+var mnemonic = "knee require useless net equip toe eager civil affair noodle amused senior";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse chef seminar frog best minor satisfy tobacco emerge leader deal echo";
+var mnemonic = "message news live steel kiwi clog glass cushion black blood lazy wash";

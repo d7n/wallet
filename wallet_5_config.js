@@ -1,1 +1,1 @@
-var mnemonic = "laundry close achieve degree blade radio imitate gate shy fade amused usage";
+var mnemonic = "image boy tumble tragic few march across secret lawn slogan struggle carpet";

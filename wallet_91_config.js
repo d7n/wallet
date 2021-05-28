@@ -1,1 +1,1 @@
-var mnemonic = "autumn hollow fix boost nothing wide expand boss scare drink sorry almost";
+var mnemonic = "oppose tornado employ sand stem stamp salon salad south decrease property settle";

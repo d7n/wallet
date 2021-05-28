@@ -1,1 +1,1 @@
-var mnemonic = "raw arrange inflict capital drill hungry trend shuffle jaguar width come broom";
+var mnemonic = "squeeze arm spice peace wish olympic what movie bulb joke item middle";

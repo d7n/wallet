@@ -1,1 +1,1 @@
-var mnemonic = "supply gain main upon state popular attitude punch discover bachelor sad attend";
+var mnemonic = "barrel anxiety route easy resist click labor custom cheese scrub rail onion";

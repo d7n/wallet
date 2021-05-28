@@ -1,1 +1,1 @@
-var mnemonic = "extend endorse pizza horror organ quality casual dose dumb remember evolve thank";
+var mnemonic = "find object choice vehicle mechanic follow avoid logic seed task volume damp";

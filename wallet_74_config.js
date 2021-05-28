@@ -1,1 +1,1 @@
-var mnemonic = "mouse motor eight divert enough jar predict traffic curve vote bring split";
+var mnemonic = "property crowd output capable fee exchange fossil steel blossom atom wash item";

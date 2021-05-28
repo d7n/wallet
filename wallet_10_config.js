@@ -1,1 +1,1 @@
-var mnemonic = "best moment lumber horn cattle ramp butter bar catalog ability smooth laugh";
+var mnemonic = "sustain valid small canal dial cook health arrest angry tattoo cat topple";

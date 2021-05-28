@@ -1,1 +1,1 @@
-var mnemonic = "dentist recall voice violin crawl card tribe memory envelope door banner upset";
+var mnemonic = "gorilla genre kiwi nature merge during favorite two winner keep seed fire";

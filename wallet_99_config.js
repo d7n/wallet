@@ -1,1 +1,1 @@
-var mnemonic = "soda face melt another film health away thumb gadget session dove spend";
+var mnemonic = "what wasp accident blade doll electric evil myself direct outer dish damage";

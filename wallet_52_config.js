@@ -1,1 +1,1 @@
-var mnemonic = "share stand mirror wheel mobile fence forward mask scissors suspect online language";
+var mnemonic = "crash kid tuna version spike version setup legend budget poet coffee marble";

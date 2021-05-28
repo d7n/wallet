@@ -1,1 +1,1 @@
-var mnemonic = "appear fatigue true erupt cereal jealous evolve notable loud trash vital thing";
+var mnemonic = "only copy soda birth leg poverty illness top gas surface spatial finish";

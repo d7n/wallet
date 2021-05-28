@@ -1,1 +1,1 @@
-var mnemonic = "forest frost clump blue favorite risk hundred resemble hybrid drill mountain furnace";
+var mnemonic = "flame disagree assume deliver faith match tell bunker nominee absurd polar cluster";

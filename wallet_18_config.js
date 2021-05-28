@@ -1,1 +1,1 @@
-var mnemonic = "toward book budget medal buddy rain weather indoor jump raw firm sing";
+var mnemonic = "drip shoulder roast rural culture congress cave area answer input uphold maple";

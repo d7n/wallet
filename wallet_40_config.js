@@ -1,1 +1,1 @@
-var mnemonic = "eagle hero bench question chimney april traffic ring hockey alley enhance volcano";
+var mnemonic = "huge squeeze pencil sword skirt paper movie decline lunar lens symptom renew";

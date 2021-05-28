@@ -1,1 +1,1 @@
-var mnemonic = "hat caution tag april owner trumpet trial symptom inner edit mammal renew";
+var mnemonic = "impact grid bitter inquiry mixed winner trim toddler power deer opinion unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify reason cricket piano worth cream place office response festival riot doctor";
+var mnemonic = "cereal era era nose room whale suffer slot august item hazard paddle";

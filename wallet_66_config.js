@@ -1,1 +1,1 @@
-var mnemonic = "hour oppose spoil couple senior update stumble evil vacant battle amused crowd";
+var mnemonic = "feature field doll burden skin coconut basket nice mirror book earth seven";

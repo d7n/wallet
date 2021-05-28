@@ -1,1 +1,1 @@
-var mnemonic = "honey shop prize comic drip rotate pepper laptop elite among gesture cigar";
+var mnemonic = "energy transfer region chef half garbage hint jazz gravity decrease fence luxury";

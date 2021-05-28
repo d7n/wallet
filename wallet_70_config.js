@@ -1,1 +1,1 @@
-var mnemonic = "month exit stock perfect relief south load citizen edge glass ketchup oil";
+var mnemonic = "process shed episode exist silk shield find guard mother goddess place debris";

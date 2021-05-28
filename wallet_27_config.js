@@ -1,1 +1,1 @@
-var mnemonic = "recycle beyond zoo equip rule gospel young assault valid move town away";
+var mnemonic = "noodle cost donkey repeat involve produce laundry shock crazy ancient misery measure";

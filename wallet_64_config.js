@@ -1,1 +1,1 @@
-var mnemonic = "love first bacon zoo travel reform glass birth near convince sail perfect";
+var mnemonic = "grit enact seminar balcony autumn glimpse park join negative trick essay click";

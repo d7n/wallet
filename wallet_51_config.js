@@ -1,1 +1,1 @@
-var mnemonic = "home gold tennis random sleep choice border blade glide country bundle split";
+var mnemonic = "smooth help arrow claw shove tragic grass outer tone ready school edit";

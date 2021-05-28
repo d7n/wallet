@@ -1,1 +1,1 @@
-var mnemonic = "october carry twenty drop sting wrap nurse rebel father bubble inflict dentist";
+var mnemonic = "detail seminar feed copper ranch prison truly mail sample crystal december tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "color ordinary slim maid guess shuffle attitude panel put bitter bless patient";
+var mnemonic = "venue gaze sad more trophy romance short equal exist key banner loop";

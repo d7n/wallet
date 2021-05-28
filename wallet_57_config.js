@@ -1,1 +1,1 @@
-var mnemonic = "east inmate loop base mimic burden chaos paper attitude essay fortune mosquito";
+var mnemonic = "ice skin company twelve comfort penalty work chalk clog rocket cable build";

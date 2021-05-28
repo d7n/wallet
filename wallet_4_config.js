@@ -1,1 +1,1 @@
-var mnemonic = "lottery flag crime bounce bring armed pizza live logic kick inspire runway";
+var mnemonic = "panda later giraffe decade improve nature brass reveal indoor submit hole history";

@@ -1,1 +1,1 @@
-var mnemonic = "amount position arrange mountain fringe adult icon client simple horse waste series";
+var mnemonic = "dream decide record myth wasp current push inform fox miss online circle";

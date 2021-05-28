@@ -1,1 +1,1 @@
-var mnemonic = "aim approve garbage clay turtle aware lazy quick scissors birth dolphin people";
+var mnemonic = "degree surface use canvas sign type farm artefact city tray embark rough";

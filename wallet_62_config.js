@@ -1,1 +1,1 @@
-var mnemonic = "gossip vintage weekend earth liberty main decide asset wrestle sing adult enroll";
+var mnemonic = "budget venture process egg rifle person click tower ritual laptop flight universe";

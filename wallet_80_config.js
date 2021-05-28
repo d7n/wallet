@@ -1,1 +1,1 @@
-var mnemonic = "actress wave science token canyon tomorrow share puzzle pull loop cat mammal";
+var mnemonic = "large expose naive lift repeat ketchup minimum false blouse shuffle age devote";

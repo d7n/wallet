@@ -1,1 +1,1 @@
-var mnemonic = "exchange decade believe mass tuition math polar where worry scale include van";
+var mnemonic = "era tired wonder truth script erupt alone earth vocal clog style yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "topic scrub bar celery fold reunion unable rigid fatigue main dizzy artist";
+var mnemonic = "trigger job exist ankle bachelor envelope stay bitter observe energy wrestle pupil";

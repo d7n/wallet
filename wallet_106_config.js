@@ -1,1 +1,1 @@
-var mnemonic = "silk way vapor parade bomb glory quick album thank harbor fresh clap";
+var mnemonic = "manual yard busy genre jewel language disease duck grain valve develop series";

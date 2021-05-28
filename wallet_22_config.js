@@ -1,1 +1,1 @@
-var mnemonic = "lend worry reduce sleep fat demand bless ask thrive metal radar logic";
+var mnemonic = "cactus figure culture target dinner describe film meadow tank switch pelican truth";

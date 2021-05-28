@@ -1,1 +1,1 @@
-var mnemonic = "awesome mistake travel gesture heart permit boost hard deputy pupil release rare";
+var mnemonic = "effort pave away guilt razor arctic garlic empty race rack upgrade employ";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle gasp oven nest sail lottery above caution cruel hotel transfer tell";
+var mnemonic = "advance airport galaxy season cage quiz wife excite audit margin sting sketch";

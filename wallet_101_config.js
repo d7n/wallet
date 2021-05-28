@@ -1,1 +1,1 @@
-var mnemonic = "banana exercise man nut time cash knife sibling section moment journey example";
+var mnemonic = "pelican credit surface drop chronic woman twenty inch noise exile tube chase";

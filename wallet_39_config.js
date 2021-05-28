@@ -1,1 +1,1 @@
-var mnemonic = "mad marriage junior weapon liar hip style medal weird device bracket rocket";
+var mnemonic = "jungle cushion seminar allow scissors desk brisk post issue chuckle motion slab";

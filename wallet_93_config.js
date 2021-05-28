@@ -1,1 +1,1 @@
-var mnemonic = "salmon pen need above deal quote machine erase able prepare planet eight";
+var mnemonic = "enrich tide such august endorse rough aerobic chief horror age cabin chaos";

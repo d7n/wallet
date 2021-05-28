@@ -1,1 +1,1 @@
-var mnemonic = "olive spell plunge dawn cram awkward green brisk radar twist uncover fortune";
+var mnemonic = "make parrot exit fiscal portion close example guard door boat surface current";

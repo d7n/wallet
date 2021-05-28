@@ -1,1 +1,1 @@
-var mnemonic = "spoon short warrior curious turtle say old affair lens grab empower jaguar";
+var mnemonic = "chunk soft balance oval else label spring canvas reduce marine initial nut";

@@ -1,1 +1,1 @@
-var mnemonic = "forest mix tonight fury keep innocent brass penalty base invite risk ship";
+var mnemonic = "tackle media team symptom art extend answer obtain electric invest urban person";

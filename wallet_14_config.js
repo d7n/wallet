@@ -1,1 +1,1 @@
-var mnemonic = "park velvet word domain scrap disagree poverty crumble amateur scale pair struggle";
+var mnemonic = "small practice hip picture arrest decade false embark hand quarter cart arrow";

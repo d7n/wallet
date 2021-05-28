@@ -1,1 +1,1 @@
-var mnemonic = "shop bless cliff guide plug frog humble inherit debris share still pitch";
+var mnemonic = "coach culture light ribbon famous drift issue reduce powder palm gain elbow";

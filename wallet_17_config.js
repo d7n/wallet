@@ -1,1 +1,1 @@
-var mnemonic = "fringe truth fan salmon paddle grunt scorpion fold slim injury lunar drink";
+var mnemonic = "taste west seek prepare crystal rhythm list piece stumble abstract bag lazy";

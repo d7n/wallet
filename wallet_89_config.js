@@ -1,1 +1,1 @@
-var mnemonic = "roof noble upgrade salon usual morning latin hamster recipe hope chicken blame";
+var mnemonic = "net engage front note anger meat heart dismiss else predict soon brief";

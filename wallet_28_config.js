@@ -1,1 +1,1 @@
-var mnemonic = "yellow truth regret area amount below dust aware evoke foster finger rally";
+var mnemonic = "word puzzle void chimney lucky outer kick runway indicate weasel neglect excite";

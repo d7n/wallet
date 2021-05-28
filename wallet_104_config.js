@@ -1,1 +1,1 @@
-var mnemonic = "entry inch comic pizza armed marriage voyage shell basket once claw current";
+var mnemonic = "refuse live arrive practice typical enhance avoid royal neutral often ability blame";

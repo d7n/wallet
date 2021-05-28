@@ -1,1 +1,1 @@
-var mnemonic = "coil burden cube mass goat supply garden census arrange loan believe grid";
+var mnemonic = "village another love season cream wet blast coil country kiwi conduct alpha";
