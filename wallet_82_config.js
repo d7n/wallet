@@ -1,1 +1,1 @@
-var mnemonic = "inquiry omit dune enhance nest stick aunt narrow decline unfold place wall";
+var mnemonic = "extend nut cup cigar execute device offer ill twin usual make pool";

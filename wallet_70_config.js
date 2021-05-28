@@ -1,1 +1,1 @@
-var mnemonic = "fold find hungry aunt problem mean vast deal jealous build flavor wife";
+var mnemonic = "play sort jar sure grow relax bone good jar two wood warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp second latin tenant wife crisp near rebuild blue fuel hotel mad";
+var mnemonic = "promote boost dune chronic change decide club solve diesel tunnel cream almost";

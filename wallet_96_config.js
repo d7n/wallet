@@ -1,1 +1,1 @@
-var mnemonic = "rapid reward omit shoot leave lobster music seminar bridge assist frozen food";
+var mnemonic = "sketch front scare team poem brush text hundred oppose toward exact yard";

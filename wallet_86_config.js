@@ -1,1 +1,1 @@
-var mnemonic = "barely picture nature catch choose spice skull genuine rifle siren crater inhale";
+var mnemonic = "fire arrive utility speed author year void evil stay pizza curtain pet";

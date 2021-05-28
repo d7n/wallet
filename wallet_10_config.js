@@ -1,1 +1,1 @@
-var mnemonic = "moral angle job spring exchange disorder major abuse aisle rice rate steel";
+var mnemonic = "fall tooth divide more elbow mad high script believe endless regular sell";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar pencil pilot execute air exotic hazard junk olympic imitate matrix motion";
+var mnemonic = "noodle clown ride number radar news peanut pioneer during zero humble ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "rain small cloth prevent glimpse earn carpet clip section fiction expose bread";
+var mnemonic = "green city spell price copper cart aim cannon tilt chat forward rude";

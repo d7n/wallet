@@ -1,1 +1,1 @@
-var mnemonic = "galaxy pipe wedding ridge wagon jazz solar unhappy magic nuclear hedgehog silly";
+var mnemonic = "cart gasp accuse truth belt exhibit snack inmate code noodle quote siege";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred tenant juice chronic glass mother gym office company tuna dentist drill";
+var mnemonic = "bachelor flavor hint hood history transfer lawn civil success daughter recycle extra";

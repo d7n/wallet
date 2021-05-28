@@ -1,1 +1,1 @@
-var mnemonic = "crew dry perfect loyal next tuition novel shell brown praise stone detect";
+var mnemonic = "depart ball toddler pass cheese rib arena avoid number box six little";

@@ -1,1 +1,1 @@
-var mnemonic = "work attend wash ensure swing picture sibling crack price record invite nature";
+var mnemonic = "flag trick erase gown cactus exchange tobacco senior toss stem stick distance";

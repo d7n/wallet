@@ -1,1 +1,1 @@
-var mnemonic = "grocery panel staff wheel draw retreat gauge okay alone analyst summer piece";
+var mnemonic = "depend memory sample foam upon flat raven project relief retreat elbow rigid";

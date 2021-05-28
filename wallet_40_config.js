@@ -1,1 +1,1 @@
-var mnemonic = "just merge loop visual install salute foil life mesh shop infant success";
+var mnemonic = "peace net burden strike tent fog mean kick avoid north adjust space";

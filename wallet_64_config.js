@@ -1,1 +1,1 @@
-var mnemonic = "capable able card device upper expand anchor wire penalty rely spell moment";
+var mnemonic = "discover squirrel nation margin main tip mind olive surface vibrant attend search";

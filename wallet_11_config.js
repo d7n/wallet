@@ -1,1 +1,1 @@
-var mnemonic = "scene human effort torch skin truck best pet level hedgehog rely matter";
+var mnemonic = "minute shrug hold family unhappy diesel silly dose mansion include hero session";

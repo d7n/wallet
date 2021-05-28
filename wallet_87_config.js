@@ -1,1 +1,1 @@
-var mnemonic = "code ginger ship heavy theme mimic clap liquid man help cupboard jazz";
+var mnemonic = "lava inflict scan stumble weapon zero stage churn quiz quantum pulse disorder";

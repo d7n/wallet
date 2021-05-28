@@ -1,1 +1,1 @@
-var mnemonic = "basic afraid caution either false awake check happy exchange upper finish mind";
+var mnemonic = "arctic attitude congress extend rude wink science volcano zebra worth reject tape";

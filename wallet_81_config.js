@@ -1,1 +1,1 @@
-var mnemonic = "return grow educate begin opinion project tackle mind recycle swarm decade wise";
+var mnemonic = "swift thing trap cousin expand anger celery sure quit home ladder nominee";

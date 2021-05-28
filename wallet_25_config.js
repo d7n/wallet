@@ -1,1 +1,1 @@
-var mnemonic = "chicken imitate unaware ugly blush share vanish unit notable identify inquiry focus";
+var mnemonic = "pole blanket jungle vote fold inherit lemon town escape shoot average someone";

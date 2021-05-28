@@ -1,1 +1,1 @@
-var mnemonic = "wood laugh broken convince twelve doll neutral extend abuse young symptom diet";
+var mnemonic = "goat wasp diagram rhythm exhaust doll winter snap local year banner effort";

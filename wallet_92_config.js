@@ -1,1 +1,1 @@
-var mnemonic = "found salute cream arm laundry bomb acquire jaguar draft apology garage material";
+var mnemonic = "ocean release kite taxi decorate pig cricket decrease valve all runway sting";

@@ -1,1 +1,1 @@
-var mnemonic = "grant slight security mirror duck other arrest submit ginger wood winter brisk";
+var mnemonic = "nuclear actor author mountain ostrich club modify birth door mass woman coconut";

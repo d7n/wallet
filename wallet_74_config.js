@@ -1,1 +1,1 @@
-var mnemonic = "nominee ivory fetch finger stamp narrow salad taxi furnace ordinary silly aware";
+var mnemonic = "decrease since modify audit tuna trigger name eternal bacon kind chef poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "purse burst matrix chronic jungle venture make casual since ski hurt doctor";
+var mnemonic = "suspect fashion evil version month develop march during visa arrange margin depth";

@@ -1,1 +1,1 @@
-var mnemonic = "metal wedding frequent tennis february check sauce wing dinosaur list symptom yellow";
+var mnemonic = "clay material crazy one man alien fence tumble pill explain various business";

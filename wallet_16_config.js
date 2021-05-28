@@ -1,1 +1,1 @@
-var mnemonic = "tank outside length settle struggle purpose forest connect abstract smart gorilla state";
+var mnemonic = "pilot true salmon bonus will anger output garlic shed spider music about";

@@ -1,1 +1,1 @@
-var mnemonic = "party trophy rely hard forward garment juice cable cage neck neither weekend";
+var mnemonic = "brown entry glove tell rate utility simple raccoon away short reward tobacco";

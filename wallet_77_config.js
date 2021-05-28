@@ -1,1 +1,1 @@
-var mnemonic = "radio better fold rather problem picture acoustic exile ozone panda daring bitter";
+var mnemonic = "lawn exile bomb shrimp post exclude chalk square nerve still that noise";

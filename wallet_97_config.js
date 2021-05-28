@@ -1,1 +1,1 @@
-var mnemonic = "perfect local enact worry mirror drink trigger birth kiwi clip script chronic";
+var mnemonic = "repair marriage metal icon aunt gossip gun shy extend remind abandon already";

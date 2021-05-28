@@ -1,1 +1,1 @@
-var mnemonic = "explain series oyster drip budget limb below smooth attend simple print nature";
+var mnemonic = "rather display view reject swallow series book auction shiver eternal crucial include";

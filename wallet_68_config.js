@@ -1,1 +1,1 @@
-var mnemonic = "noodle chuckle silly radio coyote network genuine praise upon lumber music casual";
+var mnemonic = "inner coconut neck online symptom buyer denial debris lens route unveil ill";

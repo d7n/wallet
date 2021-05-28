@@ -1,1 +1,1 @@
-var mnemonic = "tape breeze burst trade pelican amateur where festival close choice insane diagram";
+var mnemonic = "token pigeon material olympic tube cigar song hockey toy various milk current";

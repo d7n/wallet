@@ -1,1 +1,1 @@
-var mnemonic = "soft nerve harbor chuckle horror whip firm inner finish raw venture dinner";
+var mnemonic = "fruit early scene elevator woman rib forget trap baby father climb attract";

@@ -1,1 +1,1 @@
-var mnemonic = "panel dumb edit stay answer zebra airport damp wash buyer punch option";
+var mnemonic = "away defense bronze castle local month frozen project hire despair denial submit";

@@ -1,1 +1,1 @@
-var mnemonic = "session ozone couch crunch step print toy pig major loyal regret exit";
+var mnemonic = "random since trash shove reason awkward guard staff major travel loud border";

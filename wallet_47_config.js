@@ -1,1 +1,1 @@
-var mnemonic = "sauce effort slot ostrich jeans reject custom hidden worth glove cheap between";
+var mnemonic = "soft soul rule fox garbage what cliff install between that actress pulse";

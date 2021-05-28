@@ -1,1 +1,1 @@
-var mnemonic = "trigger unit rotate horn buyer dose spread turn brick heavy void alcohol";
+var mnemonic = "harbor twist pill undo soft proof giggle hen camp window school city";

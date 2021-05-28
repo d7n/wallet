@@ -1,1 +1,1 @@
-var mnemonic = "fix gown soccer scare dog powder canal witness letter where quality pact";
+var mnemonic = "fancy nerve element word such phrase title shy waste option height unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "sword visit gown crack crawl ugly sure dragon toilet very bring meat";
+var mnemonic = "umbrella stand expose canoe dentist shoulder captain close wonder still panda enable";

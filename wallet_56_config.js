@@ -1,1 +1,1 @@
-var mnemonic = "ride liquid guide knee oil remove can ill cherry hazard cannon stick";
+var mnemonic = "cable shift pole awake noise uncover century immune avoid jewel female lock";

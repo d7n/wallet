@@ -1,1 +1,1 @@
-var mnemonic = "cigar genre divorce grain brisk hammer giggle oblige leave pave online shiver";
+var mnemonic = "dizzy giggle payment state sick extend inspire another when jelly tell tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "today dumb tragic letter damage midnight grab speak quantum december tunnel cradle";
+var mnemonic = "arctic cage cost random team shoulder frequent crouch garlic return cheap clutch";

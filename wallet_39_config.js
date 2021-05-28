@@ -1,1 +1,1 @@
-var mnemonic = "ship bachelor option abstract broccoli detail wool next copper crane gentle hundred";
+var mnemonic = "tower hour clarify drift say recycle rice camp pig hunt transfer burden";

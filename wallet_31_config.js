@@ -1,1 +1,1 @@
-var mnemonic = "glad course wedding hand runway south tent alien grow mushroom girl repeat";
+var mnemonic = "enhance slide oak noodle rapid swarm twin crush acid sibling divorce connect";

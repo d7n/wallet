@@ -1,1 +1,1 @@
-var mnemonic = "habit divorce horn cute vacuum relief exchange speed worth sustain entire pizza";
+var mnemonic = "caught clip corn twelve tenant nature will swamp group sight syrup song";

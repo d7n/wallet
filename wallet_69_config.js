@@ -1,1 +1,1 @@
-var mnemonic = "dirt first chalk wash bachelor letter buzz tell arm clutch bacon rather";
+var mnemonic = "head goddess already visit earth girl harvest adult hollow present frequent liquid";

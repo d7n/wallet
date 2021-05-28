@@ -1,1 +1,1 @@
-var mnemonic = "anchor cream analyst science couple pear affair arrest powder conduct deliver clean";
+var mnemonic = "blast holiday world knife useful citizen volcano reward fashion poem unknown assist";

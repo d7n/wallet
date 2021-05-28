@@ -1,1 +1,1 @@
-var mnemonic = "lens suspect bomb inch three focus slab track mechanic body segment cash";
+var mnemonic = "outer cheese again trash science shadow sentence member month liberty tiny funny";

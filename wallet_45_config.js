@@ -1,1 +1,1 @@
-var mnemonic = "twelve cheese trap tomato physical asthma blossom wool promote critic knife trap";
+var mnemonic = "open print remove edge zoo talent maple pistol gadget still bless chimney";

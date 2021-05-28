@@ -1,1 +1,1 @@
-var mnemonic = "attend limit nuclear fiber nuclear notice together person history city sustain empty";
+var mnemonic = "genre table matter capable alpha tomato exotic cradle invest gospel topic chimney";

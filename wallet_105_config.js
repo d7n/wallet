@@ -1,1 +1,1 @@
-var mnemonic = "possible globe consider where tide industry cage nature mesh agree legal adult";
+var mnemonic = "pave scare estate enemy suspect crumble tunnel vague follow bounce curtain apart";

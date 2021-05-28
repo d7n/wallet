@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon loop aunt excite mean image produce clown ring feed long unfold";
+var mnemonic = "flash foster razor segment plug acid coconut repair poem vendor buyer few";

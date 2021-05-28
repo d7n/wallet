@@ -1,1 +1,1 @@
-var mnemonic = "resource affair crew clerk smoke bless wear child lunar cement grunt coffee";
+var mnemonic = "barely leisure lock corn receive legal photo input actress love afford off";

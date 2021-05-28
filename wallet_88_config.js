@@ -1,1 +1,1 @@
-var mnemonic = "sight timber near word one leisure bird ankle plunge foam demand wrist";
+var mnemonic = "awkward avoid frequent danger economy glory cupboard pig estate food view holiday";

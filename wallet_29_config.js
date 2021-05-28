@@ -1,1 +1,1 @@
-var mnemonic = "way source confirm impulse profit order opinion inquiry box alarm suit hedgehog";
+var mnemonic = "rice link inner potato impose wash pencil angry piano bone mercy duck";

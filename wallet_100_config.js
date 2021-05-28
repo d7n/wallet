@@ -1,1 +1,1 @@
-var mnemonic = "sea strategy cancel sister desert humble when legal kit pony boat inhale";
+var mnemonic = "fresh floor lemon exit shove exclude entry sort feature labor arrow wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "april elegant onion myth antique undo height verb where hazard print thrive";
+var mnemonic = "ride topple scan fantasy camp charge army issue table merit now rose";

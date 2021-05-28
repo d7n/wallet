@@ -1,1 +1,1 @@
-var mnemonic = "coconut interest myth curtain ecology ceiling zoo include express enhance dwarf vehicle";
+var mnemonic = "parent sense decorate salmon front tuition ski replace voice cable blouse orchard";

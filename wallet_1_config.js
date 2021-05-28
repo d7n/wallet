@@ -1,1 +1,1 @@
-var mnemonic = "nest foam cinnamon toss curtain exit admit object manual fiscal favorite rare";
+var mnemonic = "throw mansion wasp benefit twelve ice gas conduct until joke pattern churn";

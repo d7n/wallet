@@ -1,1 +1,1 @@
-var mnemonic = "clap ripple clap cover decorate very crazy approve strike fly honey camp";
+var mnemonic = "property still candy shield vault urge alter error infant width clay monitor";

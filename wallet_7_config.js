@@ -1,1 +1,1 @@
-var mnemonic = "avoid edit purity cactus wood neither profit pull ozone ranch announce win";
+var mnemonic = "onion burger plastic zero news awkward tail lawsuit capable detail bless print";

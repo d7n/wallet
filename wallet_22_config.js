@@ -1,1 +1,1 @@
-var mnemonic = "myself first dutch believe clog brain general cart favorite sell wagon senior";
+var mnemonic = "coil reflect thought time exotic assume crucial ozone job salmon typical medal";

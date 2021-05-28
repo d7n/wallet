@@ -1,1 +1,1 @@
-var mnemonic = "great true vague rhythm acoustic hat law very bridge patrol merge erode";
+var mnemonic = "suggest spirit unhappy struggle cupboard unusual garage eager foam stage desert merge";

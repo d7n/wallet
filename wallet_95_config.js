@@ -1,1 +1,1 @@
-var mnemonic = "juice antique neck cannon canoe green twenty ostrich number banner black food";
+var mnemonic = "adjust hold agree bench myself reunion cloud divide else good weekend across";

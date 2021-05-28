@@ -1,1 +1,1 @@
-var mnemonic = "spawn gather dress clog business prize sunny bicycle number army knee furnace";
+var mnemonic = "cabbage fault hard brush switch broom tuition curve accuse pepper sibling suggest";

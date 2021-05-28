@@ -1,1 +1,1 @@
-var mnemonic = "blanket surge fee april calm need blast hold present brisk short buyer";
+var mnemonic = "siren thank chapter ankle supply prevent nominee link cluster blur wagon december";

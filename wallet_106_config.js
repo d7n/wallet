@@ -1,1 +1,1 @@
-var mnemonic = "junk rude enjoy grief pole exotic unhappy month tunnel pig cause reject";
+var mnemonic = "more vendor damage scissors oblige decorate snake exile bread verb nephew auction";

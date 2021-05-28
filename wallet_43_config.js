@@ -1,1 +1,1 @@
-var mnemonic = "keep wise cruel bread forest shy direct token burden tonight school call";
+var mnemonic = "thunder quantum height turn earth paper clown mouse oyster claim cinnamon mistake";

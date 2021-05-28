@@ -1,1 +1,1 @@
-var mnemonic = "galaxy else climb upon opinion dirt patrol twin monster warrior spider crack";
+var mnemonic = "connect sell blush brother trust spider gesture vapor hunt merge mask century";

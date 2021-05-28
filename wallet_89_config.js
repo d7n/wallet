@@ -1,1 +1,1 @@
-var mnemonic = "neither unaware program wash lunch frequent flight sleep odor luggage require police";
+var mnemonic = "glance skull toss march around noble there luggage plate sort short mask";

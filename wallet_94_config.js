@@ -1,1 +1,1 @@
-var mnemonic = "blame inner index choose away bachelor long label tiger know review helmet";
+var mnemonic = "shove afford bullet among short fish bronze shed cable gallery situate hen";

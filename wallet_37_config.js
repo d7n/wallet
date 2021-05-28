@@ -1,1 +1,1 @@
-var mnemonic = "produce helmet wasp dentist curious seek swamp jaguar deposit zero cover erase";
+var mnemonic = "similar hood snow chair surround toast all human eight ankle october cupboard";

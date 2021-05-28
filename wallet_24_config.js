@@ -1,1 +1,1 @@
-var mnemonic = "silver burden apple bounce drama bacon security pony trip hurry any relax";
+var mnemonic = "hint black horror busy bring latin such arena bind fossil salt peace";

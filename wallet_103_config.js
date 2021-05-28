@@ -1,1 +1,1 @@
-var mnemonic = "shoulder friend salad page march check price junk violin review turtle second";
+var mnemonic = "nice awesome acoustic between lake miracle wagon neither frown around click attitude";

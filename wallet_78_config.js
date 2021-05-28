@@ -1,1 +1,1 @@
-var mnemonic = "latin glide toe soon cloud giggle cheap rigid entry abandon drift price";
+var mnemonic = "rival fancy tackle glad frozen hat width rose reduce smoke garbage board";

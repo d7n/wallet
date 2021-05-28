@@ -1,1 +1,1 @@
-var mnemonic = "captain thought opera celery glory payment egg token improve pencil host sock";
+var mnemonic = "head business giraffe milk follow certain priority depend alarm soup fiber limit";

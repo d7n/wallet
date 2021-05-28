@@ -1,1 +1,1 @@
-var mnemonic = "man school parent globe cross catalog coin wet obtain come citizen about";
+var mnemonic = "wrist feed guide blanket bomb comfort huge pulse movie mesh sun orange";

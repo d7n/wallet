@@ -1,1 +1,1 @@
-var mnemonic = "document renew hollow atom bottom afford aunt cliff rule party exit menu";
+var mnemonic = "error aerobic such sport until butter goat comfort cereal image safe lizard";

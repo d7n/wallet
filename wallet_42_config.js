@@ -1,1 +1,1 @@
-var mnemonic = "thought swift extend forest ensure later kangaroo census wasp unfold bike long";
+var mnemonic = "hour ready symptom odor midnight absent student blue hamster answer recycle slim";

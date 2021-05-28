@@ -1,1 +1,1 @@
-var mnemonic = "spell tuition owner film risk flee olympic crowd mansion reunion funny admit";
+var mnemonic = "foot few drama castle home deny genuine suspect jump panel thing leader";

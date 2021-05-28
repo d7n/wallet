@@ -1,1 +1,1 @@
-var mnemonic = "wreck file evolve various shell vivid lawn arch flee ready soup table";
+var mnemonic = "brave carry lazy strategy husband spot proof foot mandate melody globe marine";

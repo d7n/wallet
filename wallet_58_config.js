@@ -1,1 +1,1 @@
-var mnemonic = "before flat venue main when limb grief farm pass gain unique pioneer";
+var mnemonic = "proof rib west version whale bachelor recall melody traffic hand tell cage";

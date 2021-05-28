@@ -1,1 +1,1 @@
-var mnemonic = "pride celery essay rebuild sure genre prefer popular alcohol kind soup issue";
+var mnemonic = "pupil panther head canvas year voice ecology torch royal flame strike rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "announce walk gallery easy girl left trash stick ugly light avocado squirrel";
+var mnemonic = "retreat hospital symbol ethics work blush stand multiply exclude stage virus machine";

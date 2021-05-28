@@ -1,1 +1,1 @@
-var mnemonic = "outdoor nation pact dish grid radio pumpkin crush earth tenant category defy";
+var mnemonic = "city void aware wire cycle long climb ocean simple because frame grab";

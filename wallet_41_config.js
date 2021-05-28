@@ -1,1 +1,1 @@
-var mnemonic = "area oak explain coil barely harbor city ensure spot shove mixture guilt";
+var mnemonic = "need parrot enhance pigeon nuclear height knife roast furnace hidden magnet confirm";

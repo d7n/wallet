@@ -1,1 +1,1 @@
-var mnemonic = "fresh erosion crowd seat twist hello hospital hurdle dish parrot lobster enrich";
+var mnemonic = "chuckle debate bachelor east item hazard huge minor anger wrestle sphere belt";

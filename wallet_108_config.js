@@ -1,1 +1,1 @@
-var mnemonic = "demand brick gesture stone bind trouble snack jewel fatal execute below mail";
+var mnemonic = "online digital window assume hello mom antenna evoke lesson weasel always palace";

@@ -1,1 +1,1 @@
-var mnemonic = "eye jungle merit diet pelican kitten reject silly romance idea squirrel near";
+var mnemonic = "stem crime stone piano celery point figure cost frame pool toe music";

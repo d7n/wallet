@@ -1,1 +1,1 @@
-var mnemonic = "buffalo process umbrella unusual door strike during popular scene pass expect judge";
+var mnemonic = "convince sun diet dune table arrow lesson million dizzy sheriff cloud current";

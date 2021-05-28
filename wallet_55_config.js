@@ -1,1 +1,1 @@
-var mnemonic = "soldier hat chief goose argue brave ignore vehicle poet short nothing transfer";
+var mnemonic = "awful jewel diesel casual ripple banner style trumpet setup early moment arm";

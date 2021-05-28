@@ -1,1 +1,1 @@
-var mnemonic = "jaguar bounce brother wing skate huge fold media credit pony bread evoke";
+var mnemonic = "badge involve honey spike honey visa journey brave owner dawn cool flight";
