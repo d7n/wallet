@@ -1,1 +1,1 @@
-var mnemonic = "believe peanut cool exact garbage silk apple muscle vague broccoli add scout";
+var mnemonic = "finish liquid air about crisp soft uncover acid issue you oppose fatigue";

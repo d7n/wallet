@@ -1,1 +1,1 @@
-var mnemonic = "middle ball bleak desk goose pipe general pear picture column often believe";
+var mnemonic = "flip asset carpet category spike alone mobile patient duck youth visa orchard";

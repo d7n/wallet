@@ -1,1 +1,1 @@
-var mnemonic = "before crisp cheap kit predict finger discover raise lounge transfer tomorrow will";
+var mnemonic = "satoshi thought agree book cabbage meat muffin sound farm debate review romance";

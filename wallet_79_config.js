@@ -1,1 +1,1 @@
-var mnemonic = "comfort beyond math limit glow key poet annual hub clown sting choose";
+var mnemonic = "govern huge ability tool final prevent okay tired hub rate clog like";

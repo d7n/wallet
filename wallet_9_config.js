@@ -1,1 +1,1 @@
-var mnemonic = "width antique dwarf feel area ripple amused spatial female dove december feature";
+var mnemonic = "ugly please excess like eagle beef remain tennis extend film train post";

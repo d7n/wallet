@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow practice garbage foster bundle giant express trick garage crazy want squirrel";
+var mnemonic = "best paper absorb enjoy nerve review inner become deposit core festival razor";

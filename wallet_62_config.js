@@ -1,1 +1,1 @@
-var mnemonic = "response range head next brain hospital special confirm globe journey lucky mouse";
+var mnemonic = "service normal frozen when upon vehicle coral bulb require bubble basket result";

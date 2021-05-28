@@ -1,1 +1,1 @@
-var mnemonic = "auction useful able load witness mystery focus shoulder east network pear relax";
+var mnemonic = "fuel off mouse comfort tornado bargain fluid vessel access welcome air begin";

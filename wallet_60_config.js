@@ -1,1 +1,1 @@
-var mnemonic = "comic patch short universe ridge wonder where sport slender topple team advice";
+var mnemonic = "theme sketch soap client mistake reopen bless jazz track wide rent arctic";

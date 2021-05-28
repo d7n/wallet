@@ -1,1 +1,1 @@
-var mnemonic = "vintage rare tuna whale gym wrestle course claw knee original actor core";
+var mnemonic = "orange weather begin mirror icon adapt stove sail puzzle next hazard junior";

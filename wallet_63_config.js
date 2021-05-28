@@ -1,1 +1,1 @@
-var mnemonic = "sense antenna what try kidney input glare cup interest library bag spare";
+var mnemonic = "trend eye worth blossom vocal onion talk absent gold reduce enable wrist";

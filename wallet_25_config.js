@@ -1,1 +1,1 @@
-var mnemonic = "record brush duty route you illegal layer spread source state physical bring";
+var mnemonic = "right whip emerge shrug bless then trim skate smooth funny color avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "host sweet dash select crunch limb divide bomb despair joy unhappy obscure";
+var mnemonic = "predict employ fit crazy panda settle tube heart cart peace replace adjust";

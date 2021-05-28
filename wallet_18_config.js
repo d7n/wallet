@@ -1,1 +1,1 @@
-var mnemonic = "side music wire secret tornado clay reopen banner canal method mix error";
+var mnemonic = "gravity position drink dream lamp fog early stand dumb fetch youth ring";

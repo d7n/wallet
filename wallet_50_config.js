@@ -1,1 +1,1 @@
-var mnemonic = "betray one peanut similar emotion inch planet seed impose minor tonight observe";
+var mnemonic = "prize glory fetch stool citizen frozen innocent water view ladder banner ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "office school elephant draw behind famous fatal join trial swamp flash liquid";
+var mnemonic = "essence casino jacket tree mean holiday ladder dentist green decline hedgehog peace";

@@ -1,1 +1,1 @@
-var mnemonic = "gather know surround brisk try imitate mind hammer visa require issue grocery";
+var mnemonic = "enter vault october virtual employ valley very resist van earn fun someone";

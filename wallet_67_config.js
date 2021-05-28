@@ -1,1 +1,1 @@
-var mnemonic = "asthma injury relief scheme scan atom surge consider wish copper gaze camp";
+var mnemonic = "fever glue plunge pretty scout sure differ error job weather kit live";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange position cattle alter chicken harvest torch banana glass clog hidden hip";
+var mnemonic = "middle crystal pumpkin immense palm sing inquiry install world cover document option";

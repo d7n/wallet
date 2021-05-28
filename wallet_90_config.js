@@ -1,1 +1,1 @@
-var mnemonic = "siren cousin staff ahead work sting inquiry rebel turtle version dragon globe";
+var mnemonic = "drink business verb predict rent now flee sound inform brother mountain ready";

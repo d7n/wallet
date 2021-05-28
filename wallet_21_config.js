@@ -1,1 +1,1 @@
-var mnemonic = "dirt sad bubble genre dad secret ugly inch list decide cheese below";
+var mnemonic = "brief practice genius jump holiday beef alpha corn permit fantasy book level";

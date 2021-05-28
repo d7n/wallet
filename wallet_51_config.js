@@ -1,1 +1,1 @@
-var mnemonic = "begin lounge faculty lunar depend bitter lesson mean mountain simple clip hundred";
+var mnemonic = "network rookie absorb weird slab strike orient large paddle bachelor meadow brick";

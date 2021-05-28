@@ -1,1 +1,1 @@
-var mnemonic = "dirt august element hair visit rabbit bottom return crater spring hope weird";
+var mnemonic = "hire normal wild divert glory way pyramid raw safe crouch grain nose";

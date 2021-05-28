@@ -1,1 +1,1 @@
-var mnemonic = "buyer submit tourist peasant tooth assault person basic weapon panel cherry donate";
+var mnemonic = "feel reveal found welcome matter fix immense liquid keep clog wave point";

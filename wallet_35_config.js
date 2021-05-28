@@ -1,1 +1,1 @@
-var mnemonic = "nation december tree mixture pizza impose battle enforce exile upon melt burger";
+var mnemonic = "govern north urge inherit crowd silly sorry empower cheese eagle merry garden";

@@ -1,1 +1,1 @@
-var mnemonic = "blast myself cargo soap submit cousin obscure sadness wolf argue rigid kidney";
+var mnemonic = "retreat tone evoke sudden text country brass fatal muscle gaze mix abandon";

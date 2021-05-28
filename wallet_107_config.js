@@ -1,1 +1,1 @@
-var mnemonic = "oblige hand oblige universe dumb north express infant antenna metal miss story";
+var mnemonic = "hen cinnamon chase rude empower vault strike arrest shaft parent resist hold";

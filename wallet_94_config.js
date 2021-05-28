@@ -1,1 +1,1 @@
-var mnemonic = "thought normal dragon peace barrel video bid search already expect lucky rapid";
+var mnemonic = "tent arrow stamp tuna venture siege wet pen general better tragic ivory";

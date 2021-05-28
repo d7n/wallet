@@ -1,1 +1,1 @@
-var mnemonic = "skin host march jeans loop dumb outside festival shine service truck jaguar";
+var mnemonic = "infant twist direct morning food erode split magic portion month patrol job";

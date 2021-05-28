@@ -1,1 +1,1 @@
-var mnemonic = "main tennis slice fee dose legend make vacuum blur muffin similar slab";
+var mnemonic = "habit tragic light merge reunion before blue fog slush flag mule repair";

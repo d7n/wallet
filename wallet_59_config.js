@@ -1,1 +1,1 @@
-var mnemonic = "tent draw green fatal tell true fun receive soup mobile receive student";
+var mnemonic = "silver attitude ripple term ride autumn crop title kit excess ordinary large";

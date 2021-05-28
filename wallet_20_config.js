@@ -1,1 +1,1 @@
-var mnemonic = "rescue glance project salon latin dad milk moment region witness legend all";
+var mnemonic = "priority nuclear radar donkey smile clarify purpose half fiction satoshi menu broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "clog innocent cotton submit inner share around print equip swamp defense cart";
+var mnemonic = "state flip index kangaroo someone false print battle photo wish celery float";

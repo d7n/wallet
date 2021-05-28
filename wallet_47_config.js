@@ -1,1 +1,1 @@
-var mnemonic = "solid luggage soup rack concert tank future venue drill pizza tent apple";
+var mnemonic = "decrease aunt intact wrestle change suffer pair remember social decide basket brass";

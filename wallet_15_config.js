@@ -1,1 +1,1 @@
-var mnemonic = "stock celery mushroom theory corn potato magic rice reason rival congress shrimp";
+var mnemonic = "senior milk sugar trim power fresh dress south feature volcano color pill";

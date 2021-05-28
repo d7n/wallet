@@ -1,1 +1,1 @@
-var mnemonic = "mind hotel angry turtle boss prefer roast orange display discover game assume";
+var mnemonic = "cousin unknown trap easy since crazy one lens stable message maid have";

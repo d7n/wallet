@@ -1,1 +1,1 @@
-var mnemonic = "mule coral decorate enemy flip delay cube giggle good credit welcome usage";
+var mnemonic = "debris must crop movie dress flush dutch bargain jacket tool moral embody";

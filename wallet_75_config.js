@@ -1,1 +1,1 @@
-var mnemonic = "expose cattle clay nominee female chunk material early pipe mixed chunk rural";
+var mnemonic = "metal turkey eight quick all mention wonder wet prevent nation invest engine";

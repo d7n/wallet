@@ -1,1 +1,1 @@
-var mnemonic = "aware hazard daughter salute lift stomach debate speak dutch price clay spin";
+var mnemonic = "trouble usage action gaze sibling elite come emerge cloud giggle cushion envelope";

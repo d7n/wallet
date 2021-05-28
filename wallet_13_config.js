@@ -1,1 +1,1 @@
-var mnemonic = "mystery hello leaf gentle neutral proud wealth control recycle skull alarm student";
+var mnemonic = "animal acquire immune disorder daring notable cattle measure deposit scrap left recall";

@@ -1,1 +1,1 @@
-var mnemonic = "zone cricket envelope adult dash spray toilet layer when dust love bag";
+var mnemonic = "craft actual other airport upon question hat skull apple canvas burst gossip";

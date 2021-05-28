@@ -1,1 +1,1 @@
-var mnemonic = "punch useful urban what index jelly grain sugar stumble strike win monitor";
+var mnemonic = "joke salmon circle say viable mean bench genre skill chef exit viable";

@@ -1,1 +1,1 @@
-var mnemonic = "frame museum tongue zone situate utility one else theme topic zero virus";
+var mnemonic = "impose rapid afraid phrase body spatial valve diamond energy eager two voyage";

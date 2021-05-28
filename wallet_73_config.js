@@ -1,1 +1,1 @@
-var mnemonic = "arrange river peace party marriage once possible deny auto diagram reform decide";
+var mnemonic = "hedgehog march file settle duck salad whisper receive guard harsh boost method";

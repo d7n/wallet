@@ -1,1 +1,1 @@
-var mnemonic = "cricket can steak service limit essay hub movie desert potato leader perfect";
+var mnemonic = "leave sing insect craft promote tragic spoon expand evolve mushroom drop slush";

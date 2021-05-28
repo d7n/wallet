@@ -1,1 +1,1 @@
-var mnemonic = "fault away wrap still pig pencil lecture cigar wire tilt abandon social";
+var mnemonic = "cruise wise buyer vendor guide photo enroll frost page already staff object";

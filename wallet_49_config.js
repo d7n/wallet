@@ -1,1 +1,1 @@
-var mnemonic = "pelican mirror already isolate success other either plate soon method example ability";
+var mnemonic = "morning figure tail shadow spread insect pioneer imitate current false inject nature";

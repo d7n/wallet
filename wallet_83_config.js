@@ -1,1 +1,1 @@
-var mnemonic = "above require blossom piece wreck tragic bright echo exotic globe universe deny";
+var mnemonic = "romance head miracle fun ghost usual outside fitness rare bamboo pole hub";

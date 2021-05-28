@@ -1,1 +1,1 @@
-var mnemonic = "lonely ceiling nephew such weekend shoe humor siren chunk scout injury jeans";
+var mnemonic = "run music unknown blur clog obscure protect excite visual cannon include laundry";

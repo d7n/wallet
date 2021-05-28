@@ -1,1 +1,1 @@
-var mnemonic = "crucial divorce cabbage wet refuse charge van strike brush write blanket ranch";
+var mnemonic = "any ugly skill direct globe patrol grass opera gas already arrive supply";

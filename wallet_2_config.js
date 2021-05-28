@@ -1,1 +1,1 @@
-var mnemonic = "owner leg admit general scare good topic excite hat embrace valid soup";
+var mnemonic = "prosper taxi picnic agent foot face address awesome scorpion vanish drive quantum";

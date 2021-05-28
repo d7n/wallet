@@ -1,1 +1,1 @@
-var mnemonic = "good also garlic tape strong word alpha ordinary skull frog skull desert";
+var mnemonic = "youth orphan trial chef enter physical exhaust when winner bridge cement belt";

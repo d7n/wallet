@@ -1,1 +1,1 @@
-var mnemonic = "edge power diary car popular idea machine market panda borrow supply spoil";
+var mnemonic = "census dragon install symptom body key top crack spy trade swift elevator";

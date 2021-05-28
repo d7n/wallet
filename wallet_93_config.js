@@ -1,1 +1,1 @@
-var mnemonic = "add strong ritual infant category unit kangaroo north what trick broccoli patrol";
+var mnemonic = "lend garage safe promote also ethics cabin engage fish economy twenty job";

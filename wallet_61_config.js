@@ -1,1 +1,1 @@
-var mnemonic = "barely bleak attract age million join humble worth silver carry tornado peasant";
+var mnemonic = "swing tower mountain twin mammal cigar ice grass toilet please dismiss soap";

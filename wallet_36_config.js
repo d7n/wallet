@@ -1,1 +1,1 @@
-var mnemonic = "stone enrich foil poverty donkey use eight industry print solar child song";
+var mnemonic = "between staff episode suffer notice waste hub truly confirm announce common attitude";

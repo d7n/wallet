@@ -1,1 +1,1 @@
-var mnemonic = "thank alarm elegant own hurdle analyst weird excess sibling sunny hub throw";
+var mnemonic = "trim method finger health plastic ginger improve work smart divorce umbrella mesh";

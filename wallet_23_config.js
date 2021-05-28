@@ -1,1 +1,1 @@
-var mnemonic = "trumpet trial question cup easy interest mountain lazy syrup century state off";
+var mnemonic = "magnet flavor dwarf want print ivory method between tattoo struggle minute suffer";

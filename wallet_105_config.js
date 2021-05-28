@@ -1,1 +1,1 @@
-var mnemonic = "tattoo length blanket account expect category shop badge accuse attend shed gravity";
+var mnemonic = "height tray million crew bracket guilt clutch arrow arch lunch shy boy";

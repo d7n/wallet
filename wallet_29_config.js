@@ -1,1 +1,1 @@
-var mnemonic = "purity cricket spike seven unit dry success nerve leave wink sight age";
+var mnemonic = "shock egg across high husband unable casino thumb swarm inflict number firm";

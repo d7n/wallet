@@ -1,1 +1,1 @@
-var mnemonic = "hire mean sight cycle purse combine magnet begin inhale subway install common";
+var mnemonic = "thumb bracket rural avoid coach cradle lady worry emotion hidden script seek";

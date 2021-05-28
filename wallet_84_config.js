@@ -1,1 +1,1 @@
-var mnemonic = "fan fatigue brief half forget nice treat vacuum input hamster cousin hope";
+var mnemonic = "solution wasp glove river engage kiwi reopen close credit essay shop disease";

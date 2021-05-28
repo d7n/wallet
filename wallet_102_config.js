@@ -1,1 +1,1 @@
-var mnemonic = "purpose tube ceiling want hybrid sell digital phrase random desert series orient";
+var mnemonic = "claw cliff morning oven setup supreme pizza badge choose priority huge empower";

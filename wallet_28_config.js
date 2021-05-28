@@ -1,1 +1,1 @@
-var mnemonic = "know lab mesh hedgehog parade sweet duck basic gossip dust glow roof";
+var mnemonic = "govern clarify shiver immune record pledge swarm rookie deer enrich candy crouch";

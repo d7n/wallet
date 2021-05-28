@@ -1,1 +1,1 @@
-var mnemonic = "penalty all client hub badge cannon ivory knock bless snow scrap mix";
+var mnemonic = "since milk hazard knock verify nothing execute crisp trophy art civil love";

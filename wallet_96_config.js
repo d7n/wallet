@@ -1,1 +1,1 @@
-var mnemonic = "easy antenna husband moon photo wife nurse desert pig dragon give purpose";
+var mnemonic = "clay dice athlete dress avocado category defy cup verb magic early decrease";

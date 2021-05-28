@@ -1,1 +1,1 @@
-var mnemonic = "camp solar region boss subway system reduce rotate field fork melt please";
+var mnemonic = "survey glare extend armor decrease dumb degree client unable candy push pass";

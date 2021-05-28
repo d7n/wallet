@@ -1,1 +1,1 @@
-var mnemonic = "gesture pottery major soft bacon rebel spy biology bag hand call include";
+var mnemonic = "equal panic diesel payment pigeon raw burger lyrics tortoise sight lemon dice";

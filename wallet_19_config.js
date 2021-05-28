@@ -1,1 +1,1 @@
-var mnemonic = "symbol yellow plunge together twin demand undo river squirrel tilt gesture cement";
+var mnemonic = "midnight source twice sad version rigid skate pet possible maple three ring";

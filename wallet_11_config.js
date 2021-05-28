@@ -1,1 +1,1 @@
-var mnemonic = "machine trade truth issue copy rural rookie order balcony wire valve announce";
+var mnemonic = "adjust column there shrimp evidence fence million prize biology lunch echo comfort";

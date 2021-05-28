@@ -1,1 +1,1 @@
-var mnemonic = "carry setup climb fee weather key drink trash congress lobster inhale jelly";
+var mnemonic = "switch flip volume more same business luggage winter surface seven sauce else";

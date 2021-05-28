@@ -1,1 +1,1 @@
-var mnemonic = "train piano episode arrest oven exhaust reject universe type ability swallow cube";
+var mnemonic = "patrol soldier balance double soon antenna six tip oval dust two barely";

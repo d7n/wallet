@@ -1,1 +1,1 @@
-var mnemonic = "zone trumpet lawsuit banana narrow segment wink filter enroll ivory rapid essence";
+var mnemonic = "story weapon age hurry carry bicycle lend solid carry lamp enrich leader";

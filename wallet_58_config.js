@@ -1,1 +1,1 @@
-var mnemonic = "long maid heart tray amateur hover critic favorite pluck nurse idle oven";
+var mnemonic = "sentence fine mushroom unit abstract evoke mansion settle october hint announce bind";

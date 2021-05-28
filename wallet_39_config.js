@@ -1,1 +1,1 @@
-var mnemonic = "broken busy security hole crime dignity cushion claw barrel toast awesome design";
+var mnemonic = "push bunker before inhale word nest share hover act thought width forget";

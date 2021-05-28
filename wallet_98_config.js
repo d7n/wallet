@@ -1,1 +1,1 @@
-var mnemonic = "brisk field void kick rude make false lounge upper tuna arena skill";
+var mnemonic = "remain shine zero balcony pact access orphan other clip crawl peace left";

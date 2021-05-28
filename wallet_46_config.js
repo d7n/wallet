@@ -1,1 +1,1 @@
-var mnemonic = "dream glass agree file slam hobby voyage riot text nature bright economy";
+var mnemonic = "vivid cabbage twenty flock fish payment voyage manual explain grit meat minute";

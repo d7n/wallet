@@ -1,1 +1,1 @@
-var mnemonic = "advance nuclear innocent crane concert disease away staff fame lesson hand collect";
+var mnemonic = "siege despair champion rough right salad permit parent win deer noble witness";

@@ -1,1 +1,1 @@
-var mnemonic = "either machine burst express achieve exotic senior program boss tobacco crater bulb";
+var mnemonic = "ten senior oak safe tone they turtle other meat cake crack disease";

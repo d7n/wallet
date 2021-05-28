@@ -1,1 +1,1 @@
-var mnemonic = "joke obtain frog illegal outdoor file filter sea random act armed gate";
+var mnemonic = "true sponsor scatter bubble tortoise elegant usual soccer isolate mix spike phone";

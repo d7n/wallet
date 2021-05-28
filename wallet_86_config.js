@@ -1,1 +1,1 @@
-var mnemonic = "sadness evil execute drama brother pilot thought pill scatter kiss record lend";
+var mnemonic = "illness night belt yard police patch general disorder vibrant eyebrow pelican strong";

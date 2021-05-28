@@ -1,1 +1,1 @@
-var mnemonic = "wrist snack hunt female trumpet soap surface ticket burst machine mosquito chapter";
+var mnemonic = "resemble turkey table peace wall pioneer loan idea ride burst ugly jar";

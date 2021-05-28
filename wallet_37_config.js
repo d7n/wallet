@@ -1,1 +1,1 @@
-var mnemonic = "tackle stereo liberty retreat illegal minor script middle gather female gold stairs";
+var mnemonic = "steak wait love observe ski evil pottery next giant else ankle fringe";

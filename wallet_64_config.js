@@ -1,1 +1,1 @@
-var mnemonic = "share term aspect special hill detect tomato all engine town sunny favorite";
+var mnemonic = "mad because welcome maximum force wedding crop welcome pluck pond coffee sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "cute choice shift height language segment abandon wrestle ocean direct gun travel";
+var mnemonic = "action flame vapor denial address angle caution curve peace gorilla walnut essay";

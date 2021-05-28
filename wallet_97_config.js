@@ -1,1 +1,1 @@
-var mnemonic = "marble brave analyst say basket eagle rug path limb stick load wealth";
+var mnemonic = "domain patient muffin galaxy chef message stove area endorse vendor kiwi maple";

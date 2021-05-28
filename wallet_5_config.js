@@ -1,1 +1,1 @@
-var mnemonic = "denial dizzy animal cancel enable runway vibrant praise write next juice dose";
+var mnemonic = "funny rice phone amused young joy symptom barely ethics auction meadow economy";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar walk capable once demand virtual scatter hood sting axis castle equal";
+var mnemonic = "ticket buffalo reason job swim soldier drop dirt throw guilt write pudding";

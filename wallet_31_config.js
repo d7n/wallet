@@ -1,1 +1,1 @@
-var mnemonic = "blind what cube laugh diagram stand ranch box apology social little arch";
+var mnemonic = "edge canvas else famous curious action balance quote knock amused sting grief";

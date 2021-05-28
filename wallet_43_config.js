@@ -1,1 +1,1 @@
-var mnemonic = "demand mass amazing field occur school brave license radar movie kitten raccoon";
+var mnemonic = "tissue skate deal bleak twenty glance junior network rigid blast expire cupboard";

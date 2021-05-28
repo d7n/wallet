@@ -1,1 +1,1 @@
-var mnemonic = "okay palm bonus honey invest plug game adapt heart clap sure clay";
+var mnemonic = "wisdom tattoo syrup month come latin drive zebra door digital manual rebuild";

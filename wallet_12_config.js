@@ -1,1 +1,1 @@
-var mnemonic = "idle quick weekend party also giraffe nation flat jeans rigid assist pelican";
+var mnemonic = "limb clever lens rookie oak same check piece rude print pelican fluid";

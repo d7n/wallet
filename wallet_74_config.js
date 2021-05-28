@@ -1,1 +1,1 @@
-var mnemonic = "vanish office stamp letter either water entry turkey unaware tape oval supreme";
+var mnemonic = "october door volume drop desert globe syrup box surface notice swallow guess";

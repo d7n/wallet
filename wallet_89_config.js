@@ -1,1 +1,1 @@
-var mnemonic = "current charge panther dream famous soft figure episode credit salt thank tray";
+var mnemonic = "bulb liberty lock owner secret sort unaware fine entire dynamic crater enforce";

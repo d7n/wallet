@@ -1,1 +1,1 @@
-var mnemonic = "price sudden best father away thought open rate effort improve boost drop";
+var mnemonic = "clerk pioneer crowd split minor icon range escape income prepare daring comfort";

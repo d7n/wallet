@@ -1,1 +1,1 @@
-var mnemonic = "lecture indoor tissue giraffe learn glare across endorse impact assist rookie tower";
+var mnemonic = "glory rubber expect echo observe dawn cinnamon dismiss element hard awful caution";
