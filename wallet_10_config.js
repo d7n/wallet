@@ -1,1 +1,1 @@
-var mnemonic = "ability copy modify emerge point phone ship fantasy jewel drill supply guess";
+var mnemonic = "moral angle job spring exchange disorder major abuse aisle rice rate steel";

@@ -1,1 +1,1 @@
-var mnemonic = "trip lock stable wasp frozen below mansion industry acid wet soda flock";
+var mnemonic = "fix gown soccer scare dog powder canal witness letter where quality pact";

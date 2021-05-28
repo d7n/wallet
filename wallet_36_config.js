@@ -1,1 +1,1 @@
-var mnemonic = "orange above deposit assault demise share pioneer shaft purpose sight license fork";
+var mnemonic = "wasp second latin tenant wife crisp near rebuild blue fuel hotel mad";

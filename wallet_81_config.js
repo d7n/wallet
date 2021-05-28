@@ -1,1 +1,1 @@
-var mnemonic = "exercise journey initial erosion maid width improve dolphin buzz mobile bind refuse";
+var mnemonic = "return grow educate begin opinion project tackle mind recycle swarm decade wise";

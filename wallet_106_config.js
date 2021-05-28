@@ -1,1 +1,1 @@
-var mnemonic = "ball rookie suit crowd unfold access index pipe side focus purpose penalty";
+var mnemonic = "junk rude enjoy grief pole exotic unhappy month tunnel pig cause reject";

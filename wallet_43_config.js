@@ -1,1 +1,1 @@
-var mnemonic = "price hover drill viable tennis scatter saddle human pen chalk shop install";
+var mnemonic = "keep wise cruel bread forest shy direct token burden tonight school call";

@@ -1,1 +1,1 @@
-var mnemonic = "gun reopen issue slight output voyage dignity case sound famous post impose";
+var mnemonic = "rain small cloth prevent glimpse earn carpet clip section fiction expose bread";

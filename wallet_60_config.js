@@ -1,1 +1,1 @@
-var mnemonic = "youth all entry library desert flush analyst more nature wish address razor";
+var mnemonic = "grant slight security mirror duck other arrest submit ginger wood winter brisk";

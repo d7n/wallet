@@ -1,1 +1,1 @@
-var mnemonic = "error pull bread rule menu problem foam tiny draft dolphin lyrics manual";
+var mnemonic = "fold find hungry aunt problem mean vast deal jealous build flavor wife";

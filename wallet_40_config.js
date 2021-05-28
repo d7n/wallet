@@ -1,1 +1,1 @@
-var mnemonic = "talk wrestle magnet initial present census garlic bulk cage office entire dust";
+var mnemonic = "just merge loop visual install salute foil life mesh shop infant success";

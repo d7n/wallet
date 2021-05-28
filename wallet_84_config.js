@@ -1,1 +1,1 @@
-var mnemonic = "circle kite senior filter hedgehog dwarf obscure knock love slender sport truth";
+var mnemonic = "captain thought opera celery glory payment egg token improve pencil host sock";

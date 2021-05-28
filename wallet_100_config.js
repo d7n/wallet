@@ -1,1 +1,1 @@
-var mnemonic = "derive space ordinary blue erupt scrub garden lottery proud detect hospital oil";
+var mnemonic = "sea strategy cancel sister desert humble when legal kit pony boat inhale";

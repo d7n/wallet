@@ -1,1 +1,1 @@
-var mnemonic = "ill settle layer ahead tornado razor company unveil razor expect alarm brand";
+var mnemonic = "gather ramp demise like punch income once expect supreme program music link";

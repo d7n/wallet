@@ -1,1 +1,1 @@
-var mnemonic = "nature case crystal shallow truck shed code attack humor bless smile tiger";
+var mnemonic = "thought swift extend forest ensure later kangaroo census wasp unfold bike long";

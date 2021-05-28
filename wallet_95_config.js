@@ -1,1 +1,1 @@
-var mnemonic = "hip unusual nurse dumb dismiss blast lumber rapid spread dust six comfort";
+var mnemonic = "juice antique neck cannon canoe green twenty ostrich number banner black food";

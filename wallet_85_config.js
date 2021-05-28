@@ -1,1 +1,1 @@
-var mnemonic = "grape write circle pen exercise shove inner upon mind track process prize";
+var mnemonic = "galaxy else climb upon opinion dirt patrol twin monster warrior spider crack";

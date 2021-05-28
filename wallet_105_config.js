@@ -1,1 +1,1 @@
-var mnemonic = "inhale taxi print person banner unveil reflect entry extra promote runway deputy";
+var mnemonic = "possible globe consider where tide industry cage nature mesh agree legal adult";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve attack cruel copper alley scale forward worry merit leisure small describe";
+var mnemonic = "before flat venue main when limb grief farm pass gain unique pioneer";

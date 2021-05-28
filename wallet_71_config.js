@@ -1,1 +1,1 @@
-var mnemonic = "banner bamboo extra awful slide congress mosquito truly cousin maze evidence lemon";
+var mnemonic = "crew dry perfect loyal next tuition novel shell brown praise stone detect";

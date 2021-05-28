@@ -1,1 +1,1 @@
-var mnemonic = "approve movie lonely predict coral remain praise blood velvet where stem boy";
+var mnemonic = "code ginger ship heavy theme mimic clap liquid man help cupboard jazz";

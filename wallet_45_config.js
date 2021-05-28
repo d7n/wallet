@@ -1,1 +1,1 @@
-var mnemonic = "apology sunny rail guilt pioneer kid stereo struggle visa damage grocery sea";
+var mnemonic = "twelve cheese trap tomato physical asthma blossom wool promote critic knife trap";

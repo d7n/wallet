@@ -1,1 +1,1 @@
-var mnemonic = "rib anchor marine forum muffin fantasy absurd similar repeat ketchup noble all";
+var mnemonic = "tip enemy loan hope purchase chronic input strategy inspire recipe mystery math";

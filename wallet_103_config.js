@@ -1,1 +1,1 @@
-var mnemonic = "pistol fat fossil drink object lake faint retire deliver sibling pioneer tenant";
+var mnemonic = "shoulder friend salad page march check price junk violin review turtle second";

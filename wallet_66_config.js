@@ -1,1 +1,1 @@
-var mnemonic = "patrol describe give sauce judge lawsuit dragon perfect foster message innocent glimpse";
+var mnemonic = "theme daring nothing alcohol about repair rotate decrease twist dentist gorilla cherry";

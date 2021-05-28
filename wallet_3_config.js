@@ -1,1 +1,1 @@
-var mnemonic = "title light alpha interest extra total river crash shock vague increase common";
+var mnemonic = "wreck file evolve various shell vivid lawn arch flee ready soup table";

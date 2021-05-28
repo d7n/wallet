@@ -1,1 +1,1 @@
-var mnemonic = "oven between attend bundle alone dose idea axis glory problem jacket leg";
+var mnemonic = "document renew hollow atom bottom afford aunt cliff rule party exit menu";

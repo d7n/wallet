@@ -1,1 +1,1 @@
-var mnemonic = "fit clerk kiss find nice scheme then fever little recipe buffalo answer";
+var mnemonic = "divert inside steak biology much possible caution pond shadow library loan woman";

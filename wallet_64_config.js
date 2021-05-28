@@ -1,1 +1,1 @@
-var mnemonic = "define giraffe replace differ salon degree identify stamp general donor tiger minimum";
+var mnemonic = "capable able card device upper expand anchor wire penalty rely spell moment";

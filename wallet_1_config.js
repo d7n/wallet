@@ -1,1 +1,1 @@
-var mnemonic = "bounce top foil drama infant soccer run acoustic coffee loyal tool attack";
+var mnemonic = "nest foam cinnamon toss curtain exit admit object manual fiscal favorite rare";

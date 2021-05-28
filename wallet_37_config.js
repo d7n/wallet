@@ -1,1 +1,1 @@
-var mnemonic = "civil brisk exclude step badge phrase wood then since wear apart rain";
+var mnemonic = "produce helmet wasp dentist curious seek swamp jaguar deposit zero cover erase";

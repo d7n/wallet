@@ -1,1 +1,1 @@
-var mnemonic = "lunch frog bright struggle solve depart fire prepare symbol muffin differ chaos";
+var mnemonic = "cigar genre divorce grain brisk hammer giggle oblige leave pave online shiver";

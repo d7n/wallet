@@ -1,1 +1,1 @@
-var mnemonic = "can absorb install humor monitor midnight ecology any merry myself impose dinosaur";
+var mnemonic = "sword visit gown crack crawl ugly sure dragon toilet very bring meat";

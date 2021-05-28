@@ -1,1 +1,1 @@
-var mnemonic = "demise fever field sentence level tragic spread drama vote concert level real";
+var mnemonic = "scene human effort torch skin truck best pet level hedgehog rely matter";

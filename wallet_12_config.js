@@ -1,1 +1,1 @@
-var mnemonic = "real ride advice eagle green hip guilt sauce steel tortoise pizza toy";
+var mnemonic = "work attend wash ensure swing picture sibling crack price record invite nature";

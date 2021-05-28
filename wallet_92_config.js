@@ -1,1 +1,1 @@
-var mnemonic = "guitar sadness situate popular dutch arch crack biology program suggest wear expire";
+var mnemonic = "found salute cream arm laundry bomb acquire jaguar draft apology garage material";

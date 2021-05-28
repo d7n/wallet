@@ -1,1 +1,1 @@
-var mnemonic = "end accident poem few bachelor chase oxygen deposit tooth already fiction verb";
+var mnemonic = "eye jungle merit diet pelican kitten reject silly romance idea squirrel near";

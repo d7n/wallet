@@ -1,1 +1,1 @@
-var mnemonic = "ripple fox country ripple december around gaze crash exile crack romance alter";
+var mnemonic = "ship bachelor option abstract broccoli detail wool next copper crane gentle hundred";

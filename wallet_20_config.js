@@ -1,1 +1,1 @@
-var mnemonic = "street device master foot because arch phrase fiction dizzy river error require";
+var mnemonic = "jaguar bounce brother wing skate huge fold media credit pony bread evoke";

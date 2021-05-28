@@ -1,1 +1,1 @@
-var mnemonic = "invest city trap spread hurry fatigue farm canvas huge today final save";
+var mnemonic = "area oak explain coil barely harbor city ensure spot shove mixture guilt";

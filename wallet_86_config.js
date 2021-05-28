@@ -1,1 +1,1 @@
-var mnemonic = "one own pluck giggle drum arrest often wonder brain thank crisp gasp";
+var mnemonic = "barely picture nature catch choose spice skull genuine rifle siren crater inhale";

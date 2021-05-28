@@ -1,1 +1,1 @@
-var mnemonic = "twin earth ticket shock memory supply game faculty client churn auto enough";
+var mnemonic = "museum settle pioneer wood joy casual arrive morning unaware potato brush monkey";

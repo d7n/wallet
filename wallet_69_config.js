@@ -1,1 +1,1 @@
-var mnemonic = "voyage nephew library desert obey glass sport remember mansion ceiling drill educate";
+var mnemonic = "dirt first chalk wash bachelor letter buzz tell arm clutch bacon rather";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub faculty safe acquire actual glide area lesson anxiety shell bargain truck";
+var mnemonic = "tape breeze burst trade pelican amateur where festival close choice insane diagram";

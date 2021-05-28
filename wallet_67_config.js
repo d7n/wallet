@@ -1,1 +1,1 @@
-var mnemonic = "anxiety dawn horror cool happy orbit mobile cradle second card road try";
+var mnemonic = "refuse lawsuit edge life owner rescue hover train model donate index leave";

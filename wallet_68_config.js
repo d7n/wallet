@@ -1,1 +1,1 @@
-var mnemonic = "pig enrich message option game tank bridge frost baby wheel guard high";
+var mnemonic = "noodle chuckle silly radio coyote network genuine praise upon lumber music casual";

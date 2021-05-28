@@ -1,1 +1,1 @@
-var mnemonic = "identify garment remain picture combine fever floor guilt elite tobacco couple project";
+var mnemonic = "ride liquid guide knee oil remove can ill cherry hazard cannon stick";

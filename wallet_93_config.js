@@ -1,1 +1,1 @@
-var mnemonic = "author work beach lunch vast mobile leisure slice isolate betray coral lunar";
+var mnemonic = "soft nerve harbor chuckle horror whip firm inner finish raw venture dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "response judge nest reduce write media gather casual ugly grocery lens powder";
+var mnemonic = "great true vague rhythm acoustic hat law very bridge patrol merge erode";

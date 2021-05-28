@@ -1,1 +1,1 @@
-var mnemonic = "circle toe refuse negative next spell play renew found town unaware century";
+var mnemonic = "metal wedding frequent tennis february check sauce wing dinosaur list symptom yellow";

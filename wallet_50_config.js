@@ -1,1 +1,1 @@
-var mnemonic = "art swift eight aspect glide fitness wait ramp amused clock lounge culture";
+var mnemonic = "hat tongue truly diet consider squeeze anger sphere glance oxygen raccoon pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "thank path avoid flag entire mean pond mosquito ribbon law gather address";
+var mnemonic = "soldier hat chief goose argue brave ignore vehicle poet short nothing transfer";

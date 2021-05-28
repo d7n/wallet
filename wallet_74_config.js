@@ -1,1 +1,1 @@
-var mnemonic = "goose animal bachelor library creek baby stamp lemon treat air banner catch";
+var mnemonic = "nominee ivory fetch finger stamp narrow salad taxi furnace ordinary silly aware";

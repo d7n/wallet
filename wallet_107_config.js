@@ -1,1 +1,1 @@
-var mnemonic = "park subject cram slam assume cool reason ostrich network gun hazard unveil";
+var mnemonic = "outdoor nation pact dish grid radio pumpkin crush earth tenant category defy";

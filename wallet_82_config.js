@@ -1,1 +1,1 @@
-var mnemonic = "fade gun solution always above absurd guard shed water suit audit bundle";
+var mnemonic = "inquiry omit dune enhance nest stick aunt narrow decline unfold place wall";

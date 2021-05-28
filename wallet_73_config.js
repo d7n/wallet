@@ -1,1 +1,1 @@
-var mnemonic = "wire pill stay walnut fan demise science length magic used leaf push";
+var mnemonic = "purse burst matrix chronic jungle venture make casual since ski hurt doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "devote spy filter edge pupil diagram tower rate help prize diesel marriage";
+var mnemonic = "attend limit nuclear fiber nuclear notice together person history city sustain empty";

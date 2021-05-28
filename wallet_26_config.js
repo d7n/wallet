@@ -1,1 +1,1 @@
-var mnemonic = "hollow acoustic nasty minute indicate deposit cousin dial review clinic link woman";
+var mnemonic = "spawn gather dress clog business prize sunny bicycle number army knee furnace";

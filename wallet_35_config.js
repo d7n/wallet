@@ -1,1 +1,1 @@
-var mnemonic = "such twist battle chalk hand sample weird globe smooth attend tuition puzzle";
+var mnemonic = "coconut interest myth curtain ecology ceiling zoo include express enhance dwarf vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "palm material drip garment inmate medal divorce tooth wild path harvest melody";
+var mnemonic = "today dumb tragic letter damage midnight grab speak quantum december tunnel cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "cake ginger other horror favorite repeat alley just stay affair penalty velvet";
+var mnemonic = "cinnamon loop aunt excite mean image produce clown ring feed long unfold";

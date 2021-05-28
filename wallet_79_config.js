@@ -1,1 +1,1 @@
-var mnemonic = "regret old rabbit digital tip input fun catch welcome case flight method";
+var mnemonic = "fresh erosion crowd seat twist hello hospital hurdle dish parrot lobster enrich";

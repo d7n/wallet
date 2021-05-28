@@ -1,1 +1,1 @@
-var mnemonic = "pause monkey enhance benefit turtle primary intact double spring junk there silly";
+var mnemonic = "lunar pencil pilot execute air exotic hazard junk olympic imitate matrix motion";

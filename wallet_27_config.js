@@ -1,1 +1,1 @@
-var mnemonic = "scare pyramid emotion proud sheriff weird chapter denial enhance pact veteran bring";
+var mnemonic = "wood laugh broken convince twelve doll neutral extend abuse young symptom diet";

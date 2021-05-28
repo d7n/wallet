@@ -1,1 +1,1 @@
-var mnemonic = "receive vacuum whip snap detect apology blue blood echo bundle boy estate";
+var mnemonic = "wage alpha occur case august fire account quality shiver old remain salon";

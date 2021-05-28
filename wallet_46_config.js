@@ -1,1 +1,1 @@
-var mnemonic = "secret fox filter they network purity finish meat unit object exile rail";
+var mnemonic = "man school parent globe cross catalog coin wet obtain come citizen about";

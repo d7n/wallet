@@ -1,1 +1,1 @@
-var mnemonic = "effort pattern divorce regret dinner message jar maid visa moment object measure";
+var mnemonic = "perfect local enact worry mirror drink trigger birth kiwi clip script chronic";

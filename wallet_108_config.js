@@ -1,1 +1,1 @@
-var mnemonic = "oppose table master tissue boat table badge cycle arch desk thank suit";
+var mnemonic = "demand brick gesture stone bind trouble snack jewel fatal execute below mail";

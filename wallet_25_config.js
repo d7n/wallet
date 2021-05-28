@@ -1,1 +1,1 @@
-var mnemonic = "tube shoot kitten fade party laptop manage rack congress target borrow rabbit";
+var mnemonic = "chicken imitate unaware ugly blush share vanish unit notable identify inquiry focus";

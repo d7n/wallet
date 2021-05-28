@@ -1,1 +1,1 @@
-var mnemonic = "sense minimum print craft glow bean eager share crawl give dry struggle";
+var mnemonic = "neither unaware program wash lunch frequent flight sleep odor luggage require police";

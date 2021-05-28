@@ -1,1 +1,1 @@
-var mnemonic = "pet exotic clock hazard item school divorce step soon scrap glide ginger";
+var mnemonic = "spell tuition owner film risk flee olympic crowd mansion reunion funny admit";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase table crane sight mobile divorce clever fix brass vicious nose worry";
+var mnemonic = "rapid reward omit shoot leave lobster music seminar bridge assist frozen food";

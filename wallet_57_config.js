@@ -1,1 +1,1 @@
-var mnemonic = "index gym neglect flee globe razor unveil pen pottery abstract eight cigar";
+var mnemonic = "april elegant onion myth antique undo height verb where hazard print thrive";

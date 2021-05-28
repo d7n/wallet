@@ -1,1 +1,1 @@
-var mnemonic = "group sun biology polar flash exercise blast junior wing slim palace million";
+var mnemonic = "radio better fold rather problem picture acoustic exile ozone panda daring bitter";

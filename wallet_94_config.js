@@ -1,1 +1,1 @@
-var mnemonic = "hurt physical glimpse attend chat walk funny enroll adjust person evoke normal";
+var mnemonic = "blame inner index choose away bachelor long label tiger know review helmet";

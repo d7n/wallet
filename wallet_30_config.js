@@ -1,1 +1,1 @@
-var mnemonic = "make mandate talent used glide scissors state equip artwork basic climb mean";
+var mnemonic = "party trophy rely hard forward garment juice cable cage neck neither weekend";

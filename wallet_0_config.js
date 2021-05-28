@@ -1,1 +1,1 @@
-var mnemonic = "coyote nut yellow wine senior review inherit correct always face slogan return";
+var mnemonic = "basic afraid caution either false awake check happy exchange upper finish mind";

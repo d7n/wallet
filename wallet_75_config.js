@@ -1,1 +1,1 @@
-var mnemonic = "present crop arrange seminar balcony guess travel wrestle acid antenna okay hard";
+var mnemonic = "canal fuel expand beach castle swing bitter dismiss globe help turkey jump";

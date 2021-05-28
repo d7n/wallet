@@ -1,1 +1,1 @@
-var mnemonic = "mobile sting empty payment ivory carpet travel sound sauce chest fiscal lottery";
+var mnemonic = "extend liar order bitter chat whisper beach material high high sauce soap";

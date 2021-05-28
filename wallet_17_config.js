@@ -1,1 +1,1 @@
-var mnemonic = "shine staff old gift success convince cement immune destroy alarm glance train";
+var mnemonic = "explain series oyster drip budget limb below smooth attend simple print nature";

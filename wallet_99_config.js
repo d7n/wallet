@@ -1,1 +1,1 @@
-var mnemonic = "keep cruel derive say feed intact achieve vehicle clog eagle few subway";
+var mnemonic = "habit divorce horn cute vacuum relief exchange speed worth sustain entire pizza";

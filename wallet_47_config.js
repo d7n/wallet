@@ -1,1 +1,1 @@
-var mnemonic = "chef add rookie arch baby brass lift judge worry flower fork divide";
+var mnemonic = "sauce effort slot ostrich jeans reject custom hidden worth glove cheap between";

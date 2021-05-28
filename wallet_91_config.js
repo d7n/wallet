@@ -1,1 +1,1 @@
-var mnemonic = "lounge menu squirrel awesome donkey stereo grain device can hip guard speed";
+var mnemonic = "apart six neglect question start tongue upset embody bulk village task diary";

@@ -1,1 +1,1 @@
-var mnemonic = "until bunker search upon huge oval tragic judge cruel load pepper funny";
+var mnemonic = "brand wrist one grit humor shy music grace peasant emerge settle forget";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket answer else amazing test domain ripple tag catalog cupboard glory kiss";
+var mnemonic = "myself first dutch believe clog brain general cart favorite sell wagon senior";

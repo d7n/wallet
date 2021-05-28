@@ -1,1 +1,1 @@
-var mnemonic = "caution vocal bid oval simple place soda prepare depart swap airport antique";
+var mnemonic = "sight timber near word one leisure bird ankle plunge foam demand wrist";

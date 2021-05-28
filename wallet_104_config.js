@@ -1,1 +1,1 @@
-var mnemonic = "priority correct increase day luggage dolphin first memory travel guess furnace enjoy";
+var mnemonic = "buffalo process umbrella unusual door strike during popular scene pass expect judge";

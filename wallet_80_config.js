@@ -1,1 +1,1 @@
-var mnemonic = "lift surge proud amateur people bulk lab nephew boil habit unfair learn";
+var mnemonic = "impulse crush vicious example local trumpet maze kick sense unique heart know";

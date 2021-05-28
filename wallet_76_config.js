@@ -1,1 +1,1 @@
-var mnemonic = "shallow clutch bracket cupboard rookie since wet agree winner sheriff shine farm";
+var mnemonic = "chest hammer glance already sorry toilet dish belt scrub pluck eight mirror";

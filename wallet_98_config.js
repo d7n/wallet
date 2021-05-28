@@ -1,1 +1,1 @@
-var mnemonic = "resemble suggest angle clog saddle stamp faint winter chest woman taxi bomb";
+var mnemonic = "pride celery essay rebuild sure genre prefer popular alcohol kind soup issue";
