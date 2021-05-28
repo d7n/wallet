@@ -1,1 +1,1 @@
-var mnemonic = "track eye shadow outside talent slender science theory giant gentle violin sure";
+var mnemonic = "must boy laugh struggle cat priority hurdle barely cereal birth stand advance";

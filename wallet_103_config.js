@@ -1,1 +1,1 @@
-var mnemonic = "velvet next drip invite soda science refuse cloud air bone they example";
+var mnemonic = "tell solve setup cool token disagree educate fish large shallow game jewel";

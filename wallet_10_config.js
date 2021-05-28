@@ -1,1 +1,1 @@
-var mnemonic = "private friend enable brown coast olympic slam energy open baby reopen salmon";
+var mnemonic = "vessel kitten accident brave spawn fan fan stairs sample armor seven drill";

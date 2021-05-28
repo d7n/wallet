@@ -1,1 +1,1 @@
-var mnemonic = "screen clap genre above lemon betray hero kiwi urge spread code assist";
+var mnemonic = "syrup mad purse wire help square trend blue doll judge beef measure";

@@ -1,1 +1,1 @@
-var mnemonic = "can collect road include filter elegant admit inner sing skull noble student";
+var mnemonic = "myth hurry actual lemon basic hen unaware venture analyst cruise orient try";

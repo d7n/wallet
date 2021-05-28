@@ -1,1 +1,1 @@
-var mnemonic = "unlock wing want mobile level prefer palace afraid crazy payment best sense";
+var mnemonic = "among angle easily nothing aware hammer fog lake run credit rival record";

@@ -1,1 +1,1 @@
-var mnemonic = "beef waste pelican sun dial transfer logic erupt tribe bunker corn naive";
+var mnemonic = "vital april business swift glory key noodle dentist harsh enjoy circle canvas";

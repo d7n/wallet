@@ -1,1 +1,1 @@
-var mnemonic = "burden sell rely select airport magic tattoo someone dry spell fat oxygen";
+var mnemonic = "hip oak piano random fan vintage force try pen noodle icon intact";

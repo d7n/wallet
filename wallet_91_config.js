@@ -1,1 +1,1 @@
-var mnemonic = "vote exclude lunar assault share cram unveil coach admit build island only";
+var mnemonic = "please prosper runway ethics hand hour engine lawn reason away sniff creek";

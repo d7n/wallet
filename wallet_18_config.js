@@ -1,1 +1,1 @@
-var mnemonic = "dose cheap elegant oven smart minor case purity rapid pumpkin when manual";
+var mnemonic = "upset bomb violin caught clog demand green fever social win pilot devote";

@@ -1,1 +1,1 @@
-var mnemonic = "sport labor round mango flavor sight refuse trend endorse loop like arrow";
+var mnemonic = "rhythm violin bunker matter meat toss cat seminar crack van piano accident";

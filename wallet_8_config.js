@@ -1,1 +1,1 @@
-var mnemonic = "slogan age shuffle obtain rain silk split evidence slim donor typical bubble";
+var mnemonic = "comic discover clog woman economy cheese buddy pig warfare mesh symbol check";

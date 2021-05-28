@@ -1,1 +1,1 @@
-var mnemonic = "search sudden second runway hockey soup stereo cotton exotic rely wet art";
+var mnemonic = "flat text illness wet rice increase early melt embark grid rough alien";

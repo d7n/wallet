@@ -1,1 +1,1 @@
-var mnemonic = "crouch pear current cash crater dress lobster stove detect system grid index";
+var mnemonic = "solve find vacuum eyebrow swear message grocery mansion accuse fortune swim actual";

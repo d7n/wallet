@@ -1,1 +1,1 @@
-var mnemonic = "memory refuse tenant glance name broom cupboard hobby indicate inhale absent swap";
+var mnemonic = "creek cigar pair kite abuse bless company hold kitten interest flee february";

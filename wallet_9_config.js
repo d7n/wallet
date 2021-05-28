@@ -1,1 +1,1 @@
-var mnemonic = "dwarf deputy horse whip cereal load desert better seven mix drill nasty";
+var mnemonic = "hurt wool panda loan mutual table modify fat crystal hawk battle evoke";

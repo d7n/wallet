@@ -1,1 +1,1 @@
-var mnemonic = "pool buddy check trend favorite actress poverty inside cradle stable portion play";
+var mnemonic = "involve zone rally indicate post tray tribe onion grocery cabbage sword kick";

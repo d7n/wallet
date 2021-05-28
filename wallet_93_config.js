@@ -1,1 +1,1 @@
-var mnemonic = "crucial kid message chimney resource glass pair screen correct hole hill seven";
+var mnemonic = "seed gaze junk pulp scheme knee always target limb upset parrot measure";

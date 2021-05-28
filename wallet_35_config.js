@@ -1,1 +1,1 @@
-var mnemonic = "tunnel addict amused stone envelope prize taste goose dance copy trophy cattle";
+var mnemonic = "oven bird traffic arrange pyramid pudding humor stable north same silk exotic";

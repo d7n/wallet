@@ -1,1 +1,1 @@
-var mnemonic = "use hub put planet hat tooth action one best chase credit hospital";
+var mnemonic = "setup surprise clap charge seed snack song exile maid index action category";

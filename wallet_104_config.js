@@ -1,1 +1,1 @@
-var mnemonic = "list peanut paddle flame tumble patient wheat notice screen solve together brush";
+var mnemonic = "beauty blouse matter custom urban sausage then flash assist connect duck lawsuit";

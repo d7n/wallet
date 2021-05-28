@@ -1,1 +1,1 @@
-var mnemonic = "doctor leisure purchase save proud sphere two endless magic journey cherry peanut";
+var mnemonic = "derive mass stereo merry embrace forward brain payment marble finger test age";

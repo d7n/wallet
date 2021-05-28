@@ -1,1 +1,1 @@
-var mnemonic = "tip shine mix language brief since pair economy token course flush dial";
+var mnemonic = "either squeeze depth medal valve canal fitness girl force miracle jelly close";

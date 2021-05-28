@@ -1,1 +1,1 @@
-var mnemonic = "bread ostrich early journey super great observe retire hazard jump artwork master";
+var mnemonic = "occur act banana various across planet battle crush horror gossip suspect fruit";

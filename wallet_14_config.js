@@ -1,1 +1,1 @@
-var mnemonic = "author ostrich food leave language kick damage music spike rigid come world";
+var mnemonic = "soon giggle mango flock dignity vicious people exchange acid vanish elder zoo";

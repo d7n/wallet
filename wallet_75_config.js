@@ -1,1 +1,1 @@
-var mnemonic = "define lobster list zero spray mad resist pilot example dry mirror fork";
+var mnemonic = "open drive music fiction predict jungle moon car slim top moment useful";

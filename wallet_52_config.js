@@ -1,1 +1,1 @@
-var mnemonic = "bless also exile repeat inform solid awesome elbow lesson define reflect catalog";
+var mnemonic = "there local dust harvest series diary unfair tomorrow indicate pole peanut attend";

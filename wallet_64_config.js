@@ -1,1 +1,1 @@
-var mnemonic = "entry reform away awkward dream bike swap among school evolve captain demise";
+var mnemonic = "wing prison ketchup film vapor lamp opinion suggest tuition produce document avocado";

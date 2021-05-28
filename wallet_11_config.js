@@ -1,1 +1,1 @@
-var mnemonic = "engage glove they casino kite genre rib finger true weird winner point";
+var mnemonic = "swing echo cloth evolve know spice purchase nose huge gun reason satoshi";

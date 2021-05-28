@@ -1,1 +1,1 @@
-var mnemonic = "throw already capital mean define define nothing ball shallow robust anchor tobacco";
+var mnemonic = "dentist skin spice clap method tip weather among board supreme love sleep";

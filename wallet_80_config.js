@@ -1,1 +1,1 @@
-var mnemonic = "success elegant whip neither capable bus huge slam steel twice build celery";
+var mnemonic = "powder sphere curious balance wealth rocket all best armor museum maximum page";

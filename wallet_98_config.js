@@ -1,1 +1,1 @@
-var mnemonic = "random install diary swamp laugh domain radio stuff pyramid wish wood slice";
+var mnemonic = "remain prosper sample bulb crater movie age smooth leisure employ submit cloth";

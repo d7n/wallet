@@ -1,1 +1,1 @@
-var mnemonic = "famous unhappy submit glue guilt unaware awkward same push icon ramp attitude";
+var mnemonic = "cart extra walnut law cherry drill wrap fault pigeon stool sausage goose";

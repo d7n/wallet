@@ -1,1 +1,1 @@
-var mnemonic = "fix retreat refuse jar soul final disease brick enemy wealth debris earth";
+var mnemonic = "pony embody slim long derive code educate cruise school tourist suit stick";

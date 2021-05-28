@@ -1,1 +1,1 @@
-var mnemonic = "broccoli unfold filter muscle about choice crash domain jaguar fury nice spoil";
+var mnemonic = "include wrist orchard swing cruel sight lyrics deputy assume lesson happy hope";

@@ -1,1 +1,1 @@
-var mnemonic = "spread risk quality social monkey river amateur hood nothing athlete inspire rather";
+var mnemonic = "wide genre remain helmet vacant crack nothing they guitar portion receive edit";

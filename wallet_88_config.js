@@ -1,1 +1,1 @@
-var mnemonic = "used identify disagree shop poem brush whisper key diary task fire usual";
+var mnemonic = "right file citizen teach weekend mixture void expose garment need impact extra";

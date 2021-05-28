@@ -1,1 +1,1 @@
-var mnemonic = "fit junk start ticket onion know clap mesh fame input mercy lake";
+var mnemonic = "initial detect picture blast coil ankle gravity session ceiling scale lock mandate";

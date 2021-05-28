@@ -1,1 +1,1 @@
-var mnemonic = "there eight evolve manual laugh horror enforce spatial arrow ripple ordinary cart";
+var mnemonic = "welcome hotel envelope beyond vintage able casual arrange cliff defy gas wheel";

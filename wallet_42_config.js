@@ -1,1 +1,1 @@
-var mnemonic = "hub argue battle smoke vintage wrap crazy nerve gift volcano rate unfold";
+var mnemonic = "face valve situate process nothing meadow lyrics couch arch ignore deposit fun";

@@ -1,1 +1,1 @@
-var mnemonic = "give scare issue economy item blouse kind drama benefit unlock maximum barrel";
+var mnemonic = "trust glance vintage nature false loyal there dumb replace volcano bonus sunset";

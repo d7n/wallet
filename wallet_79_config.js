@@ -1,1 +1,1 @@
-var mnemonic = "april donor place cram sunny fiber explain smoke pupil march blood grief";
+var mnemonic = "mask frequent great discover future logic original expand great hero degree radar";

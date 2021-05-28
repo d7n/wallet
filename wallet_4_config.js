@@ -1,1 +1,1 @@
-var mnemonic = "relief novel night ill deliver praise antique wood duck pudding utility phone";
+var mnemonic = "piece fun current proof token acid dizzy boat sail lake message canal";

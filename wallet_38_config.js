@@ -1,1 +1,1 @@
-var mnemonic = "tilt hat thumb paper water faint name carpet twice protect beauty insect";
+var mnemonic = "pact know detect boat engine lamp actor ahead deal kit share various";

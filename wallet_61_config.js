@@ -1,1 +1,1 @@
-var mnemonic = "copy immune cushion pencil rough potato poet blast gorilla kit train tent";
+var mnemonic = "enact vivid pact allow toast resist control future inflict denial pottery light";

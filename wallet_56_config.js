@@ -1,1 +1,1 @@
-var mnemonic = "demand luxury clay toward fury half model gadget purse enemy prevent marble";
+var mnemonic = "parrot print human nothing pigeon gown clown federal velvet acoustic turn bounce";

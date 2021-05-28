@@ -1,1 +1,1 @@
-var mnemonic = "three fun sniff flee double shallow neglect innocent puppy avoid tone put";
+var mnemonic = "december connect arena axis dilemma fan fruit avocado steel expand latin scale";

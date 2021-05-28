@@ -1,1 +1,1 @@
-var mnemonic = "medal try human expose hair scorpion shoot catalog usual tone orange catalog";
+var mnemonic = "lucky secret absurd dream scan horn super oven can size book boy";

@@ -1,1 +1,1 @@
-var mnemonic = "equip before wait proud rare disease often canyon kingdom teach flee city";
+var mnemonic = "scrub mushroom panel must ball onion lawsuit dust glass remove list double";

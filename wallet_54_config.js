@@ -1,1 +1,1 @@
-var mnemonic = "great divide gallery afford inform bunker gun bullet shove scorpion census board";
+var mnemonic = "deposit rookie crime fault palm paper laugh shove detail tongue frost dove";

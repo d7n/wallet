@@ -1,1 +1,1 @@
-var mnemonic = "trade option screen chapter arrange wait hand post assist circle island echo";
+var mnemonic = "nurse motor glide fox volcano service cave pig case high avocado agree";

@@ -1,1 +1,1 @@
-var mnemonic = "layer garbage coin save truth walnut frequent brand plug fatal grow accident";
+var mnemonic = "mass fancy misery virtual ramp taxi quality wedding wagon hospital upon spatial";

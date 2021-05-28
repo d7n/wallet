@@ -1,1 +1,1 @@
-var mnemonic = "sound weapon course vicious humble fine coconut drive boring asthma pet liar";
+var mnemonic = "direct unaware illegal viable antenna quick process later come industry check language";

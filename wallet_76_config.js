@@ -1,1 +1,1 @@
-var mnemonic = "adapt normal clump citizen pretty melody swarm insane meadow clever excuse bind";
+var mnemonic = "merge sauce mercy cute essay learn humble wait legend canal tongue joke";

@@ -1,1 +1,1 @@
-var mnemonic = "false spice snake network wall inflict essence country fun churn hurdle reopen";
+var mnemonic = "dizzy salmon credit skate raw mixed pact cloud dirt voyage snake human";

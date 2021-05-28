@@ -1,1 +1,1 @@
-var mnemonic = "cross pool toilet buzz draw brand grace ridge index blossom ecology camp";
+var mnemonic = "exhaust hub online onion spatial great much limit erupt illegal potato wrong";

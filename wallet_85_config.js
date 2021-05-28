@@ -1,1 +1,1 @@
-var mnemonic = "voice uncle rapid unique cup debate rent glove attitude arrest place hero";
+var mnemonic = "pitch stock fancy roast theory tag depart chicken priority burden clinic catalog";

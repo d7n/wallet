@@ -1,1 +1,1 @@
-var mnemonic = "argue secret certain liquid witness bean sniff gap mimic ocean stage evoke";
+var mnemonic = "melt prize ask bar interest input alien flush lumber bar divert envelope";

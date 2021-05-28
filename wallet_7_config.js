@@ -1,1 +1,1 @@
-var mnemonic = "hip poem raven banner cheese rebuild bounce tongue ability garden tooth spread";
+var mnemonic = "fringe mouse tag small orient work panel exact dawn fame similar depart";

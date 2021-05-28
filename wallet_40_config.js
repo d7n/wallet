@@ -1,1 +1,1 @@
-var mnemonic = "solve capital ski split debris erase hedgehog region extra guess square shed";
+var mnemonic = "ignore initial north hen patch appear much innocent explain valid input hybrid";

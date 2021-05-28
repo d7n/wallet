@@ -1,1 +1,1 @@
-var mnemonic = "cotton hurt find glory bomb cake resource pair estate blind thing safe";
+var mnemonic = "rely inside split distance useless fork rack glide garlic half thought bitter";

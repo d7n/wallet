@@ -1,1 +1,1 @@
-var mnemonic = "cupboard tennis true oil kid ranch whip slice member garden give obey";
+var mnemonic = "sheriff poem amount mobile almost vast guess area ladder salt olive sadness";

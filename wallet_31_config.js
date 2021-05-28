@@ -1,1 +1,1 @@
-var mnemonic = "sustain radio hire flavor attract stick exact clock beauty taste year arrive";
+var mnemonic = "injury trash clock boring anxiety twelve memory renew legal double denial opinion";

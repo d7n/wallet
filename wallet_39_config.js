@@ -1,1 +1,1 @@
-var mnemonic = "emerge have actor million guide reduce success wrist income fence budget limit";
+var mnemonic = "slide depart canyon gift embrace clown report swap dose bus impulse problem";

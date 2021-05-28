@@ -1,1 +1,1 @@
-var mnemonic = "logic length venture account sport enough muscle napkin deputy daring priority narrow";
+var mnemonic = "flame dawn palm fix silent oblige today finish reopen client exclude slide";

@@ -1,1 +1,1 @@
-var mnemonic = "december spread banner exile target payment spread play page file ensure pair";
+var mnemonic = "explain country among jealous tail patrol pact limb burger whale muscle tumble";

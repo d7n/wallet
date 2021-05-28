@@ -1,1 +1,1 @@
-var mnemonic = "rocket buffalo wolf cinnamon stove antenna alpha resource mom actual trend fabric";
+var mnemonic = "body ordinary domain olive door approve expose stumble junior awkward cannon aunt";

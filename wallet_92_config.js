@@ -1,1 +1,1 @@
-var mnemonic = "town owner win confirm cancel just erupt quantum fix credit mask lesson";
+var mnemonic = "result must dance arrest oven nephew reward exercise jacket final trend purpose";

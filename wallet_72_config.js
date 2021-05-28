@@ -1,1 +1,1 @@
-var mnemonic = "excuse earn elite parade planet museum faculty culture poverty calm game behave";
+var mnemonic = "expect inspire spy program abuse tenant visa borrow member fox raven affair";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle ship patient disagree clown pistol guard city curve electric desk magic";
+var mnemonic = "claw sting fly cram mad file robust blur cabin flat faculty resemble";

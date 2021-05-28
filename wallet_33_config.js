@@ -1,1 +1,1 @@
-var mnemonic = "force cotton actress inquiry orient energy client loyal camp sun cousin senior";
+var mnemonic = "truth hero dish correct dinner recycle since caught december agent invest there";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile know rough flip whisper scrub capable empty tired one potato shift";
+var mnemonic = "bargain humble culture rug clog crystal planet curtain elephant wild code exercise";

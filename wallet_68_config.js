@@ -1,1 +1,1 @@
-var mnemonic = "melody skate meat moral carry alter clerk capital wash author ridge city";
+var mnemonic = "olive mutual once ecology buzz analyst comfort cage orient marriage observe seek";

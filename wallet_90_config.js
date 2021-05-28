@@ -1,1 +1,1 @@
-var mnemonic = "hurdle betray exhibit club craft cave rose budget happy crash invest sudden";
+var mnemonic = "castle public swarm submit fame sadness search picture lion dry female oval";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss stem wash opinion mesh build alpha eyebrow gravity vapor stuff cupboard";
+var mnemonic = "cream recipe news live nation youth surprise toast pond rather orphan industry";

@@ -1,1 +1,1 @@
-var mnemonic = "require space mixed cream tomato cotton baby cave market point moment distance";
+var mnemonic = "end flower female attract science primary fat movie slide shed swamp open";

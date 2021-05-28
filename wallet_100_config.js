@@ -1,1 +1,1 @@
-var mnemonic = "slim admit slush one cluster upset rally student asthma evil spike advice";
+var mnemonic = "fresh matrix eye net police frozen frozen express concert utility exhibit ripple";

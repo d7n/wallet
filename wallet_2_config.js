@@ -1,1 +1,1 @@
-var mnemonic = "stereo deny donate rail weather brave tell twelve pact endorse put force";
+var mnemonic = "flag hamster tail neutral fee grocery feed credit subway good coyote welcome";

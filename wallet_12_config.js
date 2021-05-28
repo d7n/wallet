@@ -1,1 +1,1 @@
-var mnemonic = "strategy once anger must situate submit degree icon obscure black piece decide";
+var mnemonic = "tuition flat west clean limit surge viable chalk pilot farm tissue govern";

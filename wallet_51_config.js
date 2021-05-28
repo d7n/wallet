@@ -1,1 +1,1 @@
-var mnemonic = "link easily chimney crop alarm bounce alarm heart weekend six rabbit provide";
+var mnemonic = "attack problem decline spice sail vote oak business oven dinosaur subway pond";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow logic film culture shoe welcome biology december yard special knife enforce";
+var mnemonic = "maze ketchup pelican design combine robot install clutch diamond tank cotton egg";

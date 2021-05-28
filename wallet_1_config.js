@@ -1,1 +1,1 @@
-var mnemonic = "runway diet regret enhance day celery vibrant whale slim home truly exhaust";
+var mnemonic = "salad sad love need vault wage index mule trade position enough sadness";

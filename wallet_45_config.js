@@ -1,1 +1,1 @@
-var mnemonic = "permit kite intact inner mirror copper ignore uphold satoshi legal merit remove";
+var mnemonic = "elephant champion choose tape divorce educate artwork worry zero burst balance digital";

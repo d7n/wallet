@@ -1,1 +1,1 @@
-var mnemonic = "blood sick yellow very choose athlete police kitchen crack unlock tonight waste";
+var mnemonic = "insane intact fork you tree slide tool staff vital unusual seven orient";

@@ -1,1 +1,1 @@
-var mnemonic = "strike favorite glad property lava luggage spoil wink receive tube wheat because";
+var mnemonic = "panel lava transfer marriage carry feed behave click always zero jar exotic";

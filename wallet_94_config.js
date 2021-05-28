@@ -1,1 +1,1 @@
-var mnemonic = "cereal inhale bitter supply armed puzzle sock violin wise pottery school pupil";
+var mnemonic = "taste congress robot unfair spirit father romance churn fog donate ritual grow";

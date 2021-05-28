@@ -1,1 +1,1 @@
-var mnemonic = "tourist coach lonely example inquiry frost notice then tiny orphan success include";
+var mnemonic = "lucky raven crouch raven tide okay infant senior impose hawk hero tank";

@@ -1,1 +1,1 @@
-var mnemonic = "theme acid wave clog deliver exotic arrow battle lumber valley industry patch";
+var mnemonic = "guide subway better level protect wall pudding sure business home core small";

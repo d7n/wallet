@@ -1,1 +1,1 @@
-var mnemonic = "cradle midnight rule until topple sight possible pipe vacant expose squeeze cactus";
+var mnemonic = "emotion exit tortoise amount estate brisk soft cupboard cube process inside ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel sport glance april valid vault need rapid hill face iron upon";
+var mnemonic = "nephew deer tribe social gun plastic enrich canyon young lecture monitor parade";

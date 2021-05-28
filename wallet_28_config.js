@@ -1,1 +1,1 @@
-var mnemonic = "stool spend boat history maid pond capital glide together judge memory clock";
+var mnemonic = "grape wild speak actual matrix exact today exhaust invest suspect hamster outside";
