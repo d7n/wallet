@@ -1,1 +1,1 @@
-var mnemonic = "ski steel dad expand artwork grass stage citizen because dance thunder sentence";
+var mnemonic = "impulse margin praise toy gallery frost useful section neck nose income island";

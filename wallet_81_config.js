@@ -1,1 +1,1 @@
-var mnemonic = "travel right name burst same amazing dismiss network injury typical claim regular";
+var mnemonic = "moon furnace artefact oak arena gift hole patient enrich genius shy permit";

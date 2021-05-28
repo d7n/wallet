@@ -1,1 +1,1 @@
-var mnemonic = "master powder seven edge liar slam add chronic cherry enter art relief";
+var mnemonic = "exclude repair denial fog room street leader actress supply pill monkey puzzle";

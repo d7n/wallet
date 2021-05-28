@@ -1,1 +1,1 @@
-var mnemonic = "predict ostrich stay damage title daughter clean together recycle remind short duck";
+var mnemonic = "arrange convince next shy panel turn century note crater victory fury armor";

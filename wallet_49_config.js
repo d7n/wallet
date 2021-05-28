@@ -1,1 +1,1 @@
-var mnemonic = "dawn rate claw employ cat style field install noodle chat century bright";
+var mnemonic = "virus perfect silent donor wrap census orphan train among bitter camp sadness";

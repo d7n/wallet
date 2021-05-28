@@ -1,1 +1,1 @@
-var mnemonic = "fix into town type muffin creek range rose involve feel actress dog";
+var mnemonic = "frozen flush piano walk club basic wool system lottery leave host next";

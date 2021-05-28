@@ -1,1 +1,1 @@
-var mnemonic = "access coffee lemon dice squeeze goat talk involve stage wool early purse";
+var mnemonic = "dizzy hidden resemble sight impact industry track receive diamond enter crop prefer";

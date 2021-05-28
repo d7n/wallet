@@ -1,1 +1,1 @@
-var mnemonic = "maximum claim smoke poverty extra rule winner daughter drip stay remain turn";
+var mnemonic = "pact heavy pistol suspect laundry primary mechanic test water music essay few";

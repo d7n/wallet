@@ -1,1 +1,1 @@
-var mnemonic = "trial gravity social bubble awesome improve sea ordinary gap notable chunk quality";
+var mnemonic = "coil spring bench warm crater embrace ignore mention hire rabbit express hill";

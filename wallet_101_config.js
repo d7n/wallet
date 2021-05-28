@@ -1,1 +1,1 @@
-var mnemonic = "discover rhythm gallery slice artwork float gold select slot spoil theme link";
+var mnemonic = "fitness budget cup loud fatal tag derive assault wage cereal neither come";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut reason wise scene legend chest faint sunset route slim medal civil";
+var mnemonic = "donate hundred cupboard coconut near conduct lake legend peace cause ring drip";

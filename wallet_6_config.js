@@ -1,1 +1,1 @@
-var mnemonic = "diagram hurt deposit supply penalty assume swear notice attack surface chef exercise";
+var mnemonic = "space fiber price cloth mystery repeat size critic champion kidney reform catch";

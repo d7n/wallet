@@ -1,1 +1,1 @@
-var mnemonic = "picture current true father link escape alcohol between enemy bamboo perfect angle";
+var mnemonic = "quiz convince find easy pigeon gate castle pulp puppy eager hawk two";

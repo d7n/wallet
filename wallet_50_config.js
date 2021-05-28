@@ -1,1 +1,1 @@
-var mnemonic = "real kit insane trim tent pelican camera kiwi twist parrot special female";
+var mnemonic = "roast tell walk hire real nasty lyrics zero lesson fortune clock act";

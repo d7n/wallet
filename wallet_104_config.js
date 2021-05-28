@@ -1,1 +1,1 @@
-var mnemonic = "earn inject all legend pole glimpse planet giraffe swamp segment cancel priority";
+var mnemonic = "physical letter report clap loyal like judge tomato hockey only impact tornado";

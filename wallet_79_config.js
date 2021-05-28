@@ -1,1 +1,1 @@
-var mnemonic = "concert sunset laptop fiber arena asthma giant hole library motor test eyebrow";
+var mnemonic = "problem agent title awake chief deny phrase coffee rubber quote mother announce";

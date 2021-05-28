@@ -1,1 +1,1 @@
-var mnemonic = "music afford clay crash short shallow final emerge umbrella dog concert crouch";
+var mnemonic = "dignity hat very favorite above tumble train amount act thank section decrease";

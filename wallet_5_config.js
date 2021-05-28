@@ -1,1 +1,1 @@
-var mnemonic = "fault remind pencil place bird cross hello camera already lyrics field galaxy";
+var mnemonic = "outside gesture execute note team muscle priority open tube year require dirt";

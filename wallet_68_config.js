@@ -1,1 +1,1 @@
-var mnemonic = "connect machine forest tribe trash claw evidence suffer forward absent flock rapid";
+var mnemonic = "ostrich crater jealous tool lens connect juice other catalog thumb fossil glove";

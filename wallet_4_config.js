@@ -1,1 +1,1 @@
-var mnemonic = "penalty toast hello fancy relax casual uniform scrub void dignity potato tool";
+var mnemonic = "useless that face dress attract wasp clown task fold seminar hero squeeze";

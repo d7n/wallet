@@ -1,1 +1,1 @@
-var mnemonic = "lady curtain engage breeze usage unusual hint gauge sweet scale claim gown";
+var mnemonic = "marine guitar long word fever assist bicycle diagram today sample lock close";

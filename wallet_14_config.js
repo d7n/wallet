@@ -1,1 +1,1 @@
-var mnemonic = "cake kitten order addict false grass cool cliff census spider tonight point";
+var mnemonic = "tag depth enable feed universe rough apple mass long rely appear parade";

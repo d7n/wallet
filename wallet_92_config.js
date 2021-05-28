@@ -1,1 +1,1 @@
-var mnemonic = "math purse hair about solar marble volcano inside defy forum tag rare";
+var mnemonic = "option enter pupil pole actor spell provide cruel false blame luxury basic";

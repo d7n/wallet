@@ -1,1 +1,1 @@
-var mnemonic = "income worth save carbon message talent rabbit pretty permit soap hint sword";
+var mnemonic = "fresh scorpion blame kit train canal impose proud outer amused above crisp";

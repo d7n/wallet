@@ -1,1 +1,1 @@
-var mnemonic = "sorry dice narrow bind candy aspect rude toe host easy floor guess";
+var mnemonic = "alley catalog aunt surge magnet industry detail rebel build strike decrease wagon";

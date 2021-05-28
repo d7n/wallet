@@ -1,1 +1,1 @@
-var mnemonic = "talk symbol twice shove glow slender live flash moon oval concert nice";
+var mnemonic = "practice pool bracket marble put search conduct comfort tilt walk milk sleep";

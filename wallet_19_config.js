@@ -1,1 +1,1 @@
-var mnemonic = "camp bike hospital riot neck range there early initial proud wide diesel";
+var mnemonic = "rule jazz vendor win fault hidden lumber coffee order rapid ensure cigar";

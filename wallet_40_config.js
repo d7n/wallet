@@ -1,1 +1,1 @@
-var mnemonic = "area survey weather weekend loud member unit finger purse mother idea chief";
+var mnemonic = "salmon cream news chronic attract nest surprise fire staff lend parrot state";

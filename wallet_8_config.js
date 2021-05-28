@@ -1,1 +1,1 @@
-var mnemonic = "erupt category country roast divorce ice eyebrow hurt toast now consider will";
+var mnemonic = "inspire convince have caution tackle dolphin interest tank give alone alarm law";

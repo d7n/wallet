@@ -1,1 +1,1 @@
-var mnemonic = "riot letter predict impulse upon cactus truck school frost range ethics hockey";
+var mnemonic = "egg valley knock have focus wide govern found average sing current kangaroo";

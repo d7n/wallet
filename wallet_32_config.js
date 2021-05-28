@@ -1,1 +1,1 @@
-var mnemonic = "obscure ticket dinosaur rival vital share youth frame casual amused dismiss return";
+var mnemonic = "ramp elite tiny flame system feel balance patch joy crawl eager then";

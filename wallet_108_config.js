@@ -1,1 +1,1 @@
-var mnemonic = "input search almost arrow tennis unknown glance oval object liar coin slim";
+var mnemonic = "search fee promote borrow clock congress feature clinic conduct web actor fury";

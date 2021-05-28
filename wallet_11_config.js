@@ -1,1 +1,1 @@
-var mnemonic = "sad reward mouse return guilt office find learn giraffe actress walk problem";
+var mnemonic = "sketch river bike crane long universe eternal hurdle exclude skin sunset together";

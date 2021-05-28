@@ -1,1 +1,1 @@
-var mnemonic = "seat parade ritual mechanic decide combine surge liberty disagree letter celery ugly";
+var mnemonic = "shop team ankle always cinnamon clock fuel price hobby term void inject";

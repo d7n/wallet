@@ -1,1 +1,1 @@
-var mnemonic = "zero fragile picture soccer decline wisdom decline kiwi print clever crew neutral";
+var mnemonic = "top ladder bulk wood garment collect title punch liquid version subject soap";

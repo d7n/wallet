@@ -1,1 +1,1 @@
-var mnemonic = "siege rate intact spare pupil slide they place detail midnight cart baby";
+var mnemonic = "recipe duty injury toddler regular silent vicious drum keen portion tired pony";

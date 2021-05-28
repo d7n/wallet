@@ -1,1 +1,1 @@
-var mnemonic = "black manual head north page grid safe wrap away script goose crush";
+var mnemonic = "mother unable mansion dawn thrive pig ridge shove fiction vibrant village joy";

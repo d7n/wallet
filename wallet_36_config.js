@@ -1,1 +1,1 @@
-var mnemonic = "cradle just actual virtual group bless patch topic essay tank elegant yellow";
+var mnemonic = "castle jelly admit car unknown slam legend smile measure shallow convince album";

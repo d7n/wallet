@@ -1,1 +1,1 @@
-var mnemonic = "junior mango wine sun traffic unable drill popular mutual evolve indicate loud";
+var mnemonic = "weird silver else vacant champion field miracle tissue raven blue that celery";

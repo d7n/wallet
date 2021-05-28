@@ -1,1 +1,1 @@
-var mnemonic = "mutual bring garment text twice attitude drill near energy elevator rotate winner";
+var mnemonic = "adult visa combine bomb you time limb agent immense rapid resist defy";

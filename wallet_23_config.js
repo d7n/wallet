@@ -1,1 +1,1 @@
-var mnemonic = "armor easy ostrich swallow this diet gate horn april ribbon energy foil";
+var mnemonic = "bottom exchange radio slight hill tomorrow unlock bone borrow engage people throw";

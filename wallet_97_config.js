@@ -1,1 +1,1 @@
-var mnemonic = "hurry pact heavy gate camera income purity involve illness code short acid";
+var mnemonic = "when trim allow glass glance tornado apology code raw one gasp unaware";

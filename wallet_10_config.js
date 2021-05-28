@@ -1,1 +1,1 @@
-var mnemonic = "vapor shrug gentle monster output arena glimpse apology plate say life biology";
+var mnemonic = "kind honey three lumber inspire canvas sense wife vital repair consider custom";

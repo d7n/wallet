@@ -1,1 +1,1 @@
-var mnemonic = "shield nurse actual sword all ozone alter cycle middle domain swift icon";
+var mnemonic = "creek symbol real unable tiny country forest valley critic right later quality";

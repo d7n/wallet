@@ -1,1 +1,1 @@
-var mnemonic = "sell dignity coast swing outer road super whisper lesson candy conduct acid";
+var mnemonic = "champion hunt gain gallery snake luggage slight best lumber suspect stay total";

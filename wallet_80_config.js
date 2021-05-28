@@ -1,1 +1,1 @@
-var mnemonic = "health guilt medal off party dinosaur bless rent harbor lady napkin witness";
+var mnemonic = "morning table eye assault note salute deny shiver knee thank scrap human";

@@ -1,1 +1,1 @@
-var mnemonic = "when club miracle spawn wise elder snack thrive oyster dad debris ensure";
+var mnemonic = "lamp robust property situate soccer heavy dress hybrid general student swallow vendor";

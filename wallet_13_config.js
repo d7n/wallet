@@ -1,1 +1,1 @@
-var mnemonic = "hero surround town doctor certain wife force move ritual feel lava anchor";
+var mnemonic = "educate traffic again bless short hammer relax funny drama love road wing";

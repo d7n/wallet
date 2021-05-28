@@ -1,1 +1,1 @@
-var mnemonic = "aspect attack treat organ crunch barely damage ill winner goose comic once";
+var mnemonic = "forward outer amazing fame antenna doctor delay neither save casual bag glance";

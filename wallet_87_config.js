@@ -1,1 +1,1 @@
-var mnemonic = "fan two pen pizza jewel blur mouse crash lesson sentence acoustic script";
+var mnemonic = "myself laugh ranch journey fly canal embark oil check tray grab winter";

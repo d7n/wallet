@@ -1,1 +1,1 @@
-var mnemonic = "ocean auction indicate eager regret crime stomach endorse shock clap embody report";
+var mnemonic = "popular coin mammal detect hurt balance three file velvet speed replace dance";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil upper boost final kidney turn ball post permit library stage duty";
+var mnemonic = "sport coast car mad impact lawsuit tongue actual couch guide wave shed";

@@ -1,1 +1,1 @@
-var mnemonic = "double page tomorrow keen soccer marriage balcony equip rough diesel august struggle";
+var mnemonic = "song giant desert sheriff top glow robot process world jelly release thing";

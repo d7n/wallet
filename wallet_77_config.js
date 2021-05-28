@@ -1,1 +1,1 @@
-var mnemonic = "token gentle camp van fish brave spoon artefact fuel height chase meat";
+var mnemonic = "horse domain harbor pill almost family slogan urban able arrow volcano column";

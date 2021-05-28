@@ -1,1 +1,1 @@
-var mnemonic = "buzz search lady turtle insect near castle drink nest prison guard daring";
+var mnemonic = "rescue together develop save gasp taste capital vast transfer focus shadow alley";

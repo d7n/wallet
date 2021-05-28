@@ -1,1 +1,1 @@
-var mnemonic = "mask parade bench alien item cotton find salmon glance shell expose glide";
+var mnemonic = "divorce glass lawn purchase inner index scene sentence recycle jealous mad license";

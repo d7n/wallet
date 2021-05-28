@@ -1,1 +1,1 @@
-var mnemonic = "outside social police link recycle quality fence tube lock bounce pigeon screen";
+var mnemonic = "scrub into weasel nephew deer autumn bulk fee rare either program gauge";

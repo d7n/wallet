@@ -1,1 +1,1 @@
-var mnemonic = "popular friend never love front resemble admit mirror balcony clog scatter youth";
+var mnemonic = "scene rifle chapter science negative apple loop interest universe maximum seminar auction";

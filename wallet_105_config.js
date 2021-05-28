@@ -1,1 +1,1 @@
-var mnemonic = "child blue rough aspect patrol drink speak mom bundle solid advice frost";
+var mnemonic = "click object vacuum rice gossip brain shell sketch stock club wet rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "throw flame skull equal cruise settle swarm practice custom business pet category";
+var mnemonic = "ball current situate amount slice else funny slide renew solution setup circle";

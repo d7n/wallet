@@ -1,1 +1,1 @@
-var mnemonic = "disorder daughter group wild sand script trust dream unusual gate this pair";
+var mnemonic = "image scale lawsuit unknown goat brisk enjoy party sniff atom awful friend";

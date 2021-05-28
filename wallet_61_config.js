@@ -1,1 +1,1 @@
-var mnemonic = "huge grape woman leader dice save unique cannon city convince school prepare";
+var mnemonic = "nest blue better nephew reward load company text defy banana glare mesh";

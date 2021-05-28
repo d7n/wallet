@@ -1,1 +1,1 @@
-var mnemonic = "scorpion chief answer other jacket bean banana tail leisure arrow damage since";
+var mnemonic = "stairs act slide sunset private exclude devote impose tiny draw regret element";

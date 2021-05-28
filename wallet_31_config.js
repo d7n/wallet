@@ -1,1 +1,1 @@
-var mnemonic = "magic wheel canal broom scare old payment lemon hub budget vital medal";
+var mnemonic = "they marble toss slam velvet zoo evoke call depart pink smooth narrow";

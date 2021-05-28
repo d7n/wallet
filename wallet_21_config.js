@@ -1,1 +1,1 @@
-var mnemonic = "muscle orchard give marine tornado fetch shadow leaf gallery shop crunch indicate";
+var mnemonic = "dune jeans hurry display hood echo nation donkey oppose panel else almost";

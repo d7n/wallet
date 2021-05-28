@@ -1,1 +1,1 @@
-var mnemonic = "brown main round mystery bar stomach board catalog broccoli despair horn wisdom";
+var mnemonic = "below card item client fun error disorder when enact magic smart leg";

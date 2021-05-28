@@ -1,1 +1,1 @@
-var mnemonic = "emotion clown trend when injury media allow wire obey slender change spare";
+var mnemonic = "cable matter cost practice coffee orbit legal imitate virtual guilt comic sustain";

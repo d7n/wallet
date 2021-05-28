@@ -1,1 +1,1 @@
-var mnemonic = "coin drill session belt insane alpha sketch trouble season pizza food tornado";
+var mnemonic = "fury purse august height mind tuition empty cart family arch pitch forward";

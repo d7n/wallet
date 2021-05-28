@@ -1,1 +1,1 @@
-var mnemonic = "embody language era cage leaf virtual give must accident delay apart scheme";
+var mnemonic = "orphan fit flower fatigue smoke dawn cube sense expand trade hope find";

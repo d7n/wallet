@@ -1,1 +1,1 @@
-var mnemonic = "undo like empower brand regular client drastic oval verify clutch can special";
+var mnemonic = "dose act help book common gadget enjoy key glass merge utility more";

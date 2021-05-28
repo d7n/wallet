@@ -1,1 +1,1 @@
-var mnemonic = "barely office ozone habit ethics slight kangaroo train island bid attract menu";
+var mnemonic = "often allow warfare token robot thunder arch priority force famous delay stumble";

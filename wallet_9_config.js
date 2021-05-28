@@ -1,1 +1,1 @@
-var mnemonic = "wild ecology slide hurry allow thunder cry dial daughter toward love must";
+var mnemonic = "ostrich age ranch hub acid glow cement autumn mesh dove muscle else";

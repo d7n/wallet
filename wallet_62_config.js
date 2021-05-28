@@ -1,1 +1,1 @@
-var mnemonic = "logic have frown fantasy basic check cost impulse cement typical slow stool";
+var mnemonic = "donate vivid fit rib vivid sun rookie into scan betray column farm";

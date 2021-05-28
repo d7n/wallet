@@ -1,1 +1,1 @@
-var mnemonic = "scatter mandate depart ugly private ceiling silly helmet raise lens volume type";
+var mnemonic = "steel orient cram connect market three vacant warrior hour trash network obey";

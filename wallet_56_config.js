@@ -1,1 +1,1 @@
-var mnemonic = "panda february bicycle sad rival file then birth tuna fetch member suffer";
+var mnemonic = "hidden first tide edge fade rotate safe afford fortune allow head brisk";

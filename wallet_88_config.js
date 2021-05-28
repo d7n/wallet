@@ -1,1 +1,1 @@
-var mnemonic = "drive never glory when logic rail chronic luggage resemble exact smart arch";
+var mnemonic = "onion any vehicle banana shoulder toy drink prison drastic brass mango legend";

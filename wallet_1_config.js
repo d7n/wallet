@@ -1,1 +1,1 @@
-var mnemonic = "toast govern end rely cliff desert language cheap liar mimic journey oppose";
+var mnemonic = "awkward cabbage reflect supreme satisfy misery rabbit cube also coffee know kid";

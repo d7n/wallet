@@ -1,1 +1,1 @@
-var mnemonic = "waste chaos regular argue miracle rebel lion tennis spring cannon sure lemon";
+var mnemonic = "slice injury vibrant hair depart siren inside park ten ecology urban exile";

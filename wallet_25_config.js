@@ -1,1 +1,1 @@
-var mnemonic = "merit scare spike cruel huge title sentence rib umbrella kid legend beyond";
+var mnemonic = "foot leader rabbit stool traffic shed merry puzzle talk young damage emotion";

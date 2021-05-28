@@ -1,1 +1,1 @@
-var mnemonic = "material chase wasp dove pill dance unable prosper various exercise foil morning";
+var mnemonic = "kid grunt account guide stem hole section physical chaos evolve flock olympic";

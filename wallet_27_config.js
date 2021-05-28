@@ -1,1 +1,1 @@
-var mnemonic = "engage kite review leg acid baby rough embrace danger denial dirt flip";
+var mnemonic = "affair rabbit inspire media thought crystal valley require evoke mobile alley capable";

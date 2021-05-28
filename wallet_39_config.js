@@ -1,1 +1,1 @@
-var mnemonic = "volcano panther debris soda scatter crash clay ugly gap barely never achieve";
+var mnemonic = "illness snack afraid practice crime cannon crisp weasel caught donkey report leaf";

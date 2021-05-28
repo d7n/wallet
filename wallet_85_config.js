@@ -1,1 +1,1 @@
-var mnemonic = "laptop initial horse rapid live milk acquire smart blue diamond birth pond";
+var mnemonic = "riot mule oppose raccoon orchard spare electric hungry awesome render flavor business";

@@ -1,1 +1,1 @@
-var mnemonic = "throw immense fault again purchase laptop tackle swarm civil meat embody depend";
+var mnemonic = "fuel warm toward idle vague slow unit throw observe arctic window cart";

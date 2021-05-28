@@ -1,1 +1,1 @@
-var mnemonic = "hospital disagree surprise fiction novel immense belt border better acoustic knife panic";
+var mnemonic = "naive drip update shell typical hero theme thumb dose erode stereo wire";

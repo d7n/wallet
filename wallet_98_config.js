@@ -1,1 +1,1 @@
-var mnemonic = "ancient slim orange shuffle ostrich left lecture vital rookie decade zoo nose";
+var mnemonic = "eight kind skull ghost panda hazard slam song flavor afraid glide mango";

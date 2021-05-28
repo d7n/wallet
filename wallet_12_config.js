@@ -1,1 +1,1 @@
-var mnemonic = "detect certain test feed cube lunar funny first extend cream space chase";
+var mnemonic = "suspect giggle dutch sell tonight favorite exhibit gentle approve supreme swap drill";

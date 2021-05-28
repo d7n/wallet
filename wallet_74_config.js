@@ -1,1 +1,1 @@
-var mnemonic = "basket online leaf biology exist tongue guard trouble pulp educate music express";
+var mnemonic = "giant when city patch final safe laundry annual desk reunion garden differ";

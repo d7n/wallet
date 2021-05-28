@@ -1,1 +1,1 @@
-var mnemonic = "pulp ecology life unveil motor excite cloth social enemy grunt link cliff";
+var mnemonic = "van barrel seminar immense call forget guilt barely kiss verify surround circle";

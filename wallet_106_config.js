@@ -1,1 +1,1 @@
-var mnemonic = "remember goddess expand usual lazy elegant define submit toy quiz gentle burden";
+var mnemonic = "great time below oven battle pact antenna pluck quit shield question trade";

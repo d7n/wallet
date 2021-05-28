@@ -1,1 +1,1 @@
-var mnemonic = "hospital easy useful pig arrange force garment danger genre joy bronze notice";
+var mnemonic = "rookie worth dwarf basket foil until speed apology master network profit snack";

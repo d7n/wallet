@@ -1,1 +1,1 @@
-var mnemonic = "celery swear achieve lunch dune slab zebra fancy hood say patch dynamic";
+var mnemonic = "envelope income spin rule ice addict live point engage pelican sheriff vintage";

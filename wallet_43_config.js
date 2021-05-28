@@ -1,1 +1,1 @@
-var mnemonic = "monkey equal excess achieve paddle slush thunder abandon educate about weird gospel";
+var mnemonic = "once despair hat crazy weather wall camera among gentle evil school fever";
