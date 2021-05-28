@@ -1,1 +1,1 @@
-var mnemonic = "rather obscure thunder best ankle snake satoshi device festival flock rural celery";
+var mnemonic = "sauce lecture refuse gown farm soon multiply nominee want dentist junior choice";

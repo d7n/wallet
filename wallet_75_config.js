@@ -1,1 +1,1 @@
-var mnemonic = "cloth spray recipe candy one trumpet palace surge panda lady major what";
+var mnemonic = "online across toe slice raccoon panic gesture humble split excess close spin";

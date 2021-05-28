@@ -1,1 +1,1 @@
-var mnemonic = "talk boy flight project cook elbow estate sense order picnic sibling buddy";
+var mnemonic = "hammer cream festival return basic rubber crew choice boost round invite feature";

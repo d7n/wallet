@@ -1,1 +1,1 @@
-var mnemonic = "arrow carry unfold prison fame detect grain casual glad hungry stool merge";
+var mnemonic = "vocal lion suspect squeeze drastic kiwi win match dial ecology shell crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "blast chief paper into miss cotton latin company inform visual glimpse slender";
+var mnemonic = "motion frost glimpse box wood carpet couch panel orchard word eight jewel";

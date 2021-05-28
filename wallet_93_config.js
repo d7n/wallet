@@ -1,1 +1,1 @@
-var mnemonic = "point twenty donor outside plate kitten woman angle problem secret note rose";
+var mnemonic = "bottom one venue farm hand dinosaur item phone trophy symbol term useless";

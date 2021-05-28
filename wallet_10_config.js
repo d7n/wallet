@@ -1,1 +1,1 @@
-var mnemonic = "trick review arctic height edge keen betray door surprise keep raise text";
+var mnemonic = "dutch long advice pony toilet dream knock else glue sense fruit praise";

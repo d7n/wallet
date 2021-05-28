@@ -1,1 +1,1 @@
-var mnemonic = "they life witness cram strong metal walk couch peace mean cruel soul";
+var mnemonic = "thank purpose found wall palm stool twin act youth panel debris sail";

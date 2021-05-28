@@ -1,1 +1,1 @@
-var mnemonic = "frequent town soda catch bargain practice valve over access bless card various";
+var mnemonic = "trumpet butter knife return lobster alone organ acid milk cause gorilla verify";

@@ -1,1 +1,1 @@
-var mnemonic = "gap unfair kind mountain hawk position salon onion upper final medal lonely";
+var mnemonic = "axis type lobster taste swear divorce crawl drastic cloth extra sell rubber";

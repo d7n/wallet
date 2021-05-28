@@ -1,1 +1,1 @@
-var mnemonic = "adult globe tube risk attend nest total very knock album script march";
+var mnemonic = "nest ladder recipe mistake dash salon soon slight mean sunset crisp gown";

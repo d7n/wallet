@@ -1,1 +1,1 @@
-var mnemonic = "wasp boost sketch feed behind pole carpet dentist december truly border yellow";
+var mnemonic = "lecture verb away captain enjoy evolve milk meat caution front deny hotel";

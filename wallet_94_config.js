@@ -1,1 +1,1 @@
-var mnemonic = "warm work shine little avoid token fetch festival arm magic horn suffer";
+var mnemonic = "cake dad fan fluid minor skin lumber response agree fatal order wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact symbol liar people mesh exchange sponsor winter circle wing broken mask";
+var mnemonic = "park drive gas hospital tennis mobile replace spot dawn stand siege guard";

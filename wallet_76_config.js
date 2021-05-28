@@ -1,1 +1,1 @@
-var mnemonic = "swim custom dress siege sorry fever canyon nurse ability one lift eye";
+var mnemonic = "brand slab pen model select dirt work chest spawn grant inspire army";

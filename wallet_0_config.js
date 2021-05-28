@@ -1,1 +1,1 @@
-var mnemonic = "cushion lake useless shrug cigar dutch acoustic reform actress decide demand fence";
+var mnemonic = "hockey badge twist edit come wire film produce fat notable fashion because";

@@ -1,1 +1,1 @@
-var mnemonic = "civil tell expire horn leg note today reject virtual laptop faint hat";
+var mnemonic = "swamp pride comic business market flee lunar basic among leaf cousin wage";

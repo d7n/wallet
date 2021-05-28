@@ -1,1 +1,1 @@
-var mnemonic = "onion kangaroo mass absorb office squeeze lock enforce apart minor fragile version";
+var mnemonic = "mistake decorate force round embody dinner there enjoy kid suspect weapon cliff";

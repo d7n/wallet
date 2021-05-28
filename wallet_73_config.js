@@ -1,1 +1,1 @@
-var mnemonic = "visa song ready confirm poem finger fabric blast ginger mix youth six";
+var mnemonic = "mass teach cake keen silly extend client wrap vague art enemy sail";

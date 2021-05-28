@@ -1,1 +1,1 @@
-var mnemonic = "bring coil fade sausage beauty deny cross hungry prison crew detail energy";
+var mnemonic = "risk town error poverty warrior helmet must loop story open result usual";

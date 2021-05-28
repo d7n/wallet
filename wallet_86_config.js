@@ -1,1 +1,1 @@
-var mnemonic = "bar fence fan stairs venue receive magnet simple plug siege develop gospel";
+var mnemonic = "include snack hour guess deer nasty fan coil luggage post skirt muffin";

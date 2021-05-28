@@ -1,1 +1,1 @@
-var mnemonic = "rigid congress remove awake raven case salt prosper yellow fiscal size increase";
+var mnemonic = "pear chef episode oil approve bitter title spin trial chaos mail ramp";

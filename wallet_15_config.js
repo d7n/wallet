@@ -1,1 +1,1 @@
-var mnemonic = "eagle spring rely obscure gather dish skull check before pride happy swap";
+var mnemonic = "sheriff chuckle wagon security cause entire perfect box worth report visa spring";

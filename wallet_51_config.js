@@ -1,1 +1,1 @@
-var mnemonic = "wood pioneer tonight office empty pen magnet elevator orbit giraffe school choose";
+var mnemonic = "bird bike leader maid right host maze fever coin delay leave metal";

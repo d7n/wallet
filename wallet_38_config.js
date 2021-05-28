@@ -1,1 +1,1 @@
-var mnemonic = "empty silly poet slush column autumn pistol still act disorder abstract glance";
+var mnemonic = "surface moment speed that destroy random swamp echo engine crowd asthma fashion";

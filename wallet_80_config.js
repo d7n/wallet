@@ -1,1 +1,1 @@
-var mnemonic = "praise zero strategy prosper faint popular elegant perfect timber keen robot slight";
+var mnemonic = "case lake jump three harvest mixed diary arrest drip scale defy drum";

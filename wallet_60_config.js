@@ -1,1 +1,1 @@
-var mnemonic = "crush dash tiny brand sugar grab frame pause false already special rally";
+var mnemonic = "tackle whale reason steel bridge rapid gauge uniform place light august polar";

@@ -1,1 +1,1 @@
-var mnemonic = "fence coconut winner old replace kind rib glide just bonus icon then";
+var mnemonic = "magic lock neutral word finger vague often sister catch crazy thing harvest";

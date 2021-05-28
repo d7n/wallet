@@ -1,1 +1,1 @@
-var mnemonic = "steel pride promote canvas soldier drill card payment cat stereo enjoy pioneer";
+var mnemonic = "right limb figure monkey amateur chaos already mouse north way arch ice";

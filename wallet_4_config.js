@@ -1,1 +1,1 @@
-var mnemonic = "isolate actress daughter yard news cotton song omit sad shoe siege fat";
+var mnemonic = "forest exercise mimic link list tomato profit era inject hand pretty work";

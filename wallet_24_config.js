@@ -1,1 +1,1 @@
-var mnemonic = "gospel reject chase capable until inject city shrimp box unique aunt museum";
+var mnemonic = "leaf rib lumber best soft weekend letter neglect end ketchup term multiply";

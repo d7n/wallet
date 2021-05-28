@@ -1,1 +1,1 @@
-var mnemonic = "black aunt such monster upset cricket other risk rural scale few planet";
+var mnemonic = "song royal verify buffalo what visit text clerk forum smoke spider build";

@@ -1,1 +1,1 @@
-var mnemonic = "upon wheel faith pupil secret any police side fit humble rescue swap";
+var mnemonic = "mouse recipe uncover weasel fan move tribe autumn aim hamster fee derive";

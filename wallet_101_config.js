@@ -1,1 +1,1 @@
-var mnemonic = "recycle fit often craft rigid vacant arrange swear issue throw slot sell";
+var mnemonic = "hospital vital grief assault live planet property infant essay follow depth old";

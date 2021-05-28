@@ -1,1 +1,1 @@
-var mnemonic = "surround little table echo silly invest silver pole bus raven wire web";
+var mnemonic = "creek twist stem exotic fatal trust all disagree rescue retire exclude aware";

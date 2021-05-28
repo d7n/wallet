@@ -1,1 +1,1 @@
-var mnemonic = "person found lawn wrong excuse first uniform ridge avocado rely sadness crumble";
+var mnemonic = "cat crowd favorite gentle subway run penalty work witness slender century cruise";

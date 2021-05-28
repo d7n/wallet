@@ -1,1 +1,1 @@
-var mnemonic = "dog make neck seven alarm cruise nerve vintage subject black day table";
+var mnemonic = "morning rent legend surge destroy clarify chat leave mango imitate fluid sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "special option orchard myth uncle supreme chief canyon blue scale visit snake";
+var mnemonic = "post element amateur pumpkin december region sister struggle rather right safe bunker";

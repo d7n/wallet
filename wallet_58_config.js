@@ -1,1 +1,1 @@
-var mnemonic = "stage habit ridge rigid pilot garbage width rifle gun giggle essay capital";
+var mnemonic = "fragile boost winner grant right try essay rare rival enact rice heart";

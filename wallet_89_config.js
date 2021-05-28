@@ -1,1 +1,1 @@
-var mnemonic = "upset walk climb digital spoon flee robot rally effort unique mule urge";
+var mnemonic = "praise inform arch airport essay sleep between shine priority wonder same boil";

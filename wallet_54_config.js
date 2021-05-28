@@ -1,1 +1,1 @@
-var mnemonic = "view idea chef vague glare end crop wood hollow upper reunion peasant";
+var mnemonic = "pave zoo silk swarm insane hurry scan unusual between mouse soft this";

@@ -1,1 +1,1 @@
-var mnemonic = "connect month farm huge permit price long supreme toy depend tree trumpet";
+var mnemonic = "kiwi include brand offer dose tent barrel antique tip census end powder";

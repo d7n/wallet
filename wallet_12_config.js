@@ -1,1 +1,1 @@
-var mnemonic = "boat sock era air render solve away mixture twelve sail camera betray";
+var mnemonic = "lucky wave pact boil stairs wall logic crisp million note mystery dance";

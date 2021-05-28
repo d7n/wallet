@@ -1,1 +1,1 @@
-var mnemonic = "toddler enough fabric current lounge together either giggle follow sheriff rifle cattle";
+var mnemonic = "switch device lens ozone staff shell purse awesome bulb cement chicken lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "what rocket friend helmet obvious like airport grape minor panel volume amount";
+var mnemonic = "depth spy roast harsh cash split vault bridge mad cattle margin dove";

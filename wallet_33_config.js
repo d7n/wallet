@@ -1,1 +1,1 @@
-var mnemonic = "repair wash boil sort engage unfold oyster matrix bench unaware match cliff";
+var mnemonic = "wrestle penalty shoulder awesome useless decrease fetch emotion crawl blood obey copper";

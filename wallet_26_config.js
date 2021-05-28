@@ -1,1 +1,1 @@
-var mnemonic = "bind ribbon trust arch pool ensure pride venue elbow student kit gown";
+var mnemonic = "latin axis kitten weekend neck armed swift lobster boss leader across ketchup";

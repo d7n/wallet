@@ -1,1 +1,1 @@
-var mnemonic = "paddle cover poet primary man plug beach safe early assist atom eye";
+var mnemonic = "cave word unique topic weather digital case dignity trash zero luxury neglect";

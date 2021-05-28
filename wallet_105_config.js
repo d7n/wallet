@@ -1,1 +1,1 @@
-var mnemonic = "crack pilot load family pattern accuse indicate visit sphere fever bike recall";
+var mnemonic = "december chicken erase member oil lyrics reduce only vivid hurry ripple crunch";

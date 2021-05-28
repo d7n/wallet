@@ -1,1 +1,1 @@
-var mnemonic = "bike federal country glimpse any confirm basket mountain main power orphan weapon";
+var mnemonic = "liquid wisdom pond flame gossip ordinary love rebuild ride grab crisp honey";

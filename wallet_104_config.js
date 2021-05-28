@@ -1,1 +1,1 @@
-var mnemonic = "ice monitor citizen ball affair jungle insect gap season drill anger endless";
+var mnemonic = "foster gift buddy vehicle steak hover then garage dolphin salad invite adjust";

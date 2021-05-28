@@ -1,1 +1,1 @@
-var mnemonic = "dice grunt tuition boring endorse forget dream piece also start exhaust mechanic";
+var mnemonic = "again genuine burst uphold north armor garment brick point maid hill light";

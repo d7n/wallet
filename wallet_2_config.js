@@ -1,1 +1,1 @@
-var mnemonic = "occur sick village drink exchange life slot term involve boat oak eye";
+var mnemonic = "link luxury spin fiscal myth trigger always cradle kangaroo combine boat canoe";

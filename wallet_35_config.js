@@ -1,1 +1,1 @@
-var mnemonic = "race health churn improve approve small globe tuition draw stereo pride click";
+var mnemonic = "trigger clinic sort lion floor monster frequent disagree area aisle iron fork";

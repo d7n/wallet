@@ -1,1 +1,1 @@
-var mnemonic = "metal review below drastic trim lava bachelor suggest bench place mouse link";
+var mnemonic = "double blossom wire habit start trash column story panel dumb focus ancient";

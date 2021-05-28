@@ -1,1 +1,1 @@
-var mnemonic = "impact moral dismiss ketchup moment reduce filter amount panda pass museum faint";
+var mnemonic = "elite image lens word purse unknown pigeon point custom put proof consider";

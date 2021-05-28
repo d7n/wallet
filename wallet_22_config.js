@@ -1,1 +1,1 @@
-var mnemonic = "ancient choose chief nasty census witness metal park domain rocket mutual identify";
+var mnemonic = "verify sister biology mouse physical sea odor rule drip rotate churn unfair";

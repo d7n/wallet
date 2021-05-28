@@ -1,1 +1,1 @@
-var mnemonic = "utility profit lens bike round express super gain kiwi promote illness shift";
+var mnemonic = "beef actor uphold clarify act input beef blade once inherit armed surface";

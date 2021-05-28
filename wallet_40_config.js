@@ -1,1 +1,1 @@
-var mnemonic = "once duty harsh logic slush degree expand bamboo utility dragon napkin carbon";
+var mnemonic = "eagle fee border define hole true whisper side apology mind orbit welcome";

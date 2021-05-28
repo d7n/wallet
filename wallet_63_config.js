@@ -1,1 +1,1 @@
-var mnemonic = "symbol still panther link famous snake wife trigger invest roof whip super";
+var mnemonic = "bid vessel about rocket cruel cereal interest jar blush excite bundle beyond";

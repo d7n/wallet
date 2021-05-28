@@ -1,1 +1,1 @@
-var mnemonic = "decide fall approve prefer core meat enhance rib multiply park meadow mansion";
+var mnemonic = "category capital board neither left object dash glance slim innocent town divert";

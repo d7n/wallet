@@ -1,1 +1,1 @@
-var mnemonic = "job record morning garden crisp again brown album book artwork equal ancient";
+var mnemonic = "rude emerge sadness swap close blade burger sea enable uncle toddler climb";

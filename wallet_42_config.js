@@ -1,1 +1,1 @@
-var mnemonic = "image bargain state toward foster afraid venue drip pluck cart hold crunch";
+var mnemonic = "barrel riot rhythm subject exile private nephew jealous lemon puzzle ivory humor";

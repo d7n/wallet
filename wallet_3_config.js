@@ -1,1 +1,1 @@
-var mnemonic = "check slab turtle assault lift olive demand domain today music dove skirt";
+var mnemonic = "royal steel silver expect inherit march gather purity token net fever noise";

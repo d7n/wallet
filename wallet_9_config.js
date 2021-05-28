@@ -1,1 +1,1 @@
-var mnemonic = "urge salt crop federal fame diary cube shuffle infant garbage stock access";
+var mnemonic = "upper wood laundry pistol demise crumble relax panda smile learn luggage coffee";

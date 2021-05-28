@@ -1,1 +1,1 @@
-var mnemonic = "radio ticket post congress ankle letter drama critic wealth rule pole recall";
+var mnemonic = "hello seed avocado spoon left evil calm tilt adjust reflect credit more";

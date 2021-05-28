@@ -1,1 +1,1 @@
-var mnemonic = "park steak iron victory people payment person trigger jewel whip submit donkey";
+var mnemonic = "orient violin track gesture cook double embody flight vibrant cargo huge fringe";

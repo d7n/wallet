@@ -1,1 +1,1 @@
-var mnemonic = "solution brisk spend shoulder kid screen happy kidney tobacco tobacco chef suffer";
+var mnemonic = "orient snap height denial decline crouch travel much pioneer clog risk limb";

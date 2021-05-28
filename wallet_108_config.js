@@ -1,1 +1,1 @@
-var mnemonic = "make sugar magnet boat veteran gain lens attend hybrid divorce coin eagle";
+var mnemonic = "leaf moon breeze absent open flock index behave jaguar dismiss melt creek";

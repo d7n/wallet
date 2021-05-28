@@ -1,1 +1,1 @@
-var mnemonic = "fine depart reunion shy bunker become skin power wall casino option pipe";
+var mnemonic = "drop judge decorate peace install royal mom car wink slot mistake blouse";

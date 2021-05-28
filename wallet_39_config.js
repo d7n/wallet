@@ -1,1 +1,1 @@
-var mnemonic = "basic nest evil try canal seminar vessel sight canoe language stove horse";
+var mnemonic = "obvious cause bird tone vintage naive among sadness veteran gather minute liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas comfort neglect auto child legend marriage boost turkey bulb wealth inject";
+var mnemonic = "taste alley catalog illness dream hint light arch undo embody hint solar";

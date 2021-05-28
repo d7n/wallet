@@ -1,1 +1,1 @@
-var mnemonic = "hybrid found fuel artwork forum gap focus into wash spirit food mother";
+var mnemonic = "abstract figure pilot seminar thunder coin discover rude spirit fetch fury august";

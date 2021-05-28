@@ -1,1 +1,1 @@
-var mnemonic = "nature gather dolphin ridge myself dress view jealous reform decline drive actual";
+var mnemonic = "average inmate mass bleak above company office swear layer resource alarm defy";

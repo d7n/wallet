@@ -1,1 +1,1 @@
-var mnemonic = "drastic stool winter meat teach oval turtle detect build rigid guide vacant";
+var mnemonic = "hover destroy what nose pet appear gown help tent goose express note";

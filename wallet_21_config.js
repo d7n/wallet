@@ -1,1 +1,1 @@
-var mnemonic = "bus easy lava punch vital sound damage smile sauce apple gaze chase";
+var mnemonic = "wish guitar scorpion slab finger chef plunge problem embark indicate catalog divert";

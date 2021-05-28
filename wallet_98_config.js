@@ -1,1 +1,1 @@
-var mnemonic = "pistol cake rail stadium impulse comfort you decline burden detail donkey bleak";
+var mnemonic = "behind around scare record group aim slot reward item often brain general";

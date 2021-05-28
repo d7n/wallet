@@ -1,1 +1,1 @@
-var mnemonic = "action short rug yellow cage federal service useful avoid area minute enlist";
+var mnemonic = "fresh engine okay aim wall wrap diary paper very visa cousin rescue";

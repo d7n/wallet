@@ -1,1 +1,1 @@
-var mnemonic = "reward bundle firm oblige pistol humble stamp buffalo letter silly few fix";
+var mnemonic = "escape coffee old phone patrol oval water reform way vote slender pistol";

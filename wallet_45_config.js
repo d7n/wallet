@@ -1,1 +1,1 @@
-var mnemonic = "feature circle exit clay wood tone ritual spin senior elder hello trade";
+var mnemonic = "early suggest gospel pelican near omit barrel fault degree amused amateur slide";

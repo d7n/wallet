@@ -1,1 +1,1 @@
-var mnemonic = "number option alien sweet cute oil economy frozen gather erode insane impose";
+var mnemonic = "lawsuit adapt obey breeze almost butter intact fitness glad patient course light";

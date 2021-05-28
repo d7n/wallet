@@ -1,1 +1,1 @@
-var mnemonic = "seminar avoid relief transfer plunge strategy hover review armor athlete tiny cover";
+var mnemonic = "raise donor lift network strategy cry update slow paddle news enable guide";

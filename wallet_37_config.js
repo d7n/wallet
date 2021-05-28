@@ -1,1 +1,1 @@
-var mnemonic = "bind subway wreck such immune wrist engine diesel reduce learn special expand";
+var mnemonic = "myth runway craft ten basic liquid then nature man clump mystery illegal";

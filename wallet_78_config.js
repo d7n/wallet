@@ -1,1 +1,1 @@
-var mnemonic = "coyote home economy erase tortoise favorite provide coffee december duty response forum";
+var mnemonic = "voyage annual machine luggage catch oxygen birth program meadow consider wheel scrap";
