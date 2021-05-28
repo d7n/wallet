@@ -1,1 +1,1 @@
-var mnemonic = "core moon hazard exchange divorce reflect element super any march armor sponsor";
+var mnemonic = "drill grief team address siege menu clarify unaware city expand engage october";

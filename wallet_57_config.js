@@ -1,1 +1,1 @@
-var mnemonic = "champion news hold average lab vague tower diary attract infant approve hour";
+var mnemonic = "tool bounce shock mandate trumpet pretty gas grid six wood gadget pulp";

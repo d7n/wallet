@@ -1,1 +1,1 @@
-var mnemonic = "secret diamond mandate leave faculty ginger animal security ask example lucky napkin";
+var mnemonic = "vehicle injury flavor rate unfair legend denial accuse arch must flat wing";

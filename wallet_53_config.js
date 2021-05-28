@@ -1,1 +1,1 @@
-var mnemonic = "six guide wide welcome sugar monster fringe stereo pulp water unique iron";
+var mnemonic = "music between cousin token debate slogan angry bird muscle question surprise laptop";

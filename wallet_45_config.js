@@ -1,1 +1,1 @@
-var mnemonic = "helmet salmon retreat napkin guide lava post garment place property estate asthma";
+var mnemonic = "safe riot concert nut thought ball tribe better increase guide jar door";

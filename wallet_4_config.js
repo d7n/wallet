@@ -1,1 +1,1 @@
-var mnemonic = "announce nut spike end orbit banner confirm exhaust mention series stage laptop";
+var mnemonic = "people change negative differ close actor daring identify assist name giraffe silent";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil eyebrow glass nothing sure behind chief bicycle rescue clever biology rib";
+var mnemonic = "remove act trend artist math century glance easy possible sphere kingdom decrease";

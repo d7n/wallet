@@ -1,1 +1,1 @@
-var mnemonic = "connect cheap alarm risk market coil ritual midnight myself disagree slice soft";
+var mnemonic = "thought cable betray april draw resource ketchup traffic muscle cinnamon coyote denial";

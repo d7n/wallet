@@ -1,1 +1,1 @@
-var mnemonic = "wreck extra rib train settle owner abuse story field school popular goddess";
+var mnemonic = "mandate kind asthma air grant palace unique saddle outdoor kitten lobster wire";

@@ -1,1 +1,1 @@
-var mnemonic = "cake best magnet output large make resource draw flip ticket approve loan";
+var mnemonic = "embrace garden only sword pulse tone rifle axis fever sauce blast enjoy";

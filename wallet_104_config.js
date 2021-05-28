@@ -1,1 +1,1 @@
-var mnemonic = "moment couch mystery hole priority tube kind sauce disease fatal frozen game";
+var mnemonic = "scissors use aim toast primary gentle noise ship void need dutch frog";

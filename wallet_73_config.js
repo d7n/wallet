@@ -1,1 +1,1 @@
-var mnemonic = "brown garden divorce faculty nerve drip crush calm cart ski hole interest";
+var mnemonic = "maze mesh wrap tip whip kiwi lift swarm file coyote toe collect";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy comfort pen slogan rapid sport core matrix color involve icon resemble";
+var mnemonic = "strong fragile slide vivid achieve wash oval grit furnace thought good dignity";

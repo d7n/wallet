@@ -1,1 +1,1 @@
-var mnemonic = "sausage detect tent box awkward island anchor decide reunion minute other sing";
+var mnemonic = "sleep replace armed begin industry cargo flush gym harbor later isolate staff";

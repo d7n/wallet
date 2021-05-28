@@ -1,1 +1,1 @@
-var mnemonic = "expose mammal inch almost spy cart board medal card sign trim often";
+var mnemonic = "dish cigar auction ghost clarify adjust stamp divert unfair industry plastic zebra";

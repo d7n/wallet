@@ -1,1 +1,1 @@
-var mnemonic = "alien leg service depth warm magic slow brisk cash hospital cake theory";
+var mnemonic = "submit spider alien stereo mass yard swap pull left film salmon snap";

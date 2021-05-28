@@ -1,1 +1,1 @@
-var mnemonic = "family make pool awkward stomach dilemma mask strong process whip electric float";
+var mnemonic = "report comfort bless blush love kangaroo allow guitar tenant solve peace flavor";

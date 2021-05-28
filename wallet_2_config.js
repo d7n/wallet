@@ -1,1 +1,1 @@
-var mnemonic = "genre sight nephew ripple sound fog moment mom myself random record motion";
+var mnemonic = "ketchup chaos issue original number ocean lumber network drink chief student decade";

@@ -1,1 +1,1 @@
-var mnemonic = "team ball cheese lobster list casual sell goat reopen radio pumpkin senior";
+var mnemonic = "vehicle media evoke author shoulder roof fever memory key giggle pause marine";

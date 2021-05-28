@@ -1,1 +1,1 @@
-var mnemonic = "whale taxi burger behind setup winter deny jaguar crisp such level length";
+var mnemonic = "member clarify brick solution common clinic polar favorite kiwi liberty miss force";

@@ -1,1 +1,1 @@
-var mnemonic = "interest nerve magic refuse stand cute grunt unfold document tiger fix asthma";
+var mnemonic = "fence deal barrel garbage piano cross near brisk miracle volume tent blood";

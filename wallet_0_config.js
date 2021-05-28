@@ -1,1 +1,1 @@
-var mnemonic = "degree raise corn enter agree wild dynamic news wage coil axis stool";
+var mnemonic = "symbol sadness couch beef shrug accuse turn vague token motor crouch stereo";

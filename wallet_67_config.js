@@ -1,1 +1,1 @@
-var mnemonic = "salon faith monitor unfold today bronze wreck artefact accident favorite crater hurt";
+var mnemonic = "cover funny human false tenant prize crop fringe soul sniff shoot illegal";

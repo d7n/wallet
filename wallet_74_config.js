@@ -1,1 +1,1 @@
-var mnemonic = "dose relief goat thunder gossip almost measure unlock small divert region dream";
+var mnemonic = "into capital later simple error security embody dinosaur rookie monitor movie define";

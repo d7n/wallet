@@ -1,1 +1,1 @@
-var mnemonic = "ostrich slice unique grab horn bulk direct air gain sport romance awesome";
+var mnemonic = "calm sweet polar effort color kitten live fan human leave pelican dove";

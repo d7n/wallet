@@ -1,1 +1,1 @@
-var mnemonic = "example gasp air pulp nurse pudding lend into vibrant material bulk funny";
+var mnemonic = "garment useful vital display timber manual parent fiscal original second recall culture";

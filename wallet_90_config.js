@@ -1,1 +1,1 @@
-var mnemonic = "monster great town peanut that surge level clerk case dutch pigeon also";
+var mnemonic = "office clap day color pole daughter exhibit build genre fix spoil gorilla";

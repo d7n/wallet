@@ -1,1 +1,1 @@
-var mnemonic = "differ prosper pill region armor frame exhibit project mushroom drum cycle cake";
+var mnemonic = "cage asthma level country regular price input sorry into memory stock muscle";

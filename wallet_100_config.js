@@ -1,1 +1,1 @@
-var mnemonic = "must vital leave exist initial wheel rabbit clerk anxiety visual physical bamboo";
+var mnemonic = "box artist glimpse ready enlist update hen faint appear brisk claw elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor manual light glue bus finger worth nothing margin only whale pony";
+var mnemonic = "economy exclude dizzy drift wink canal much language elite aisle rival drill";

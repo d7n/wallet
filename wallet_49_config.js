@@ -1,1 +1,1 @@
-var mnemonic = "pistol cycle almost then twenty pretty trumpet agree birth long bean discover";
+var mnemonic = "car clerk equip exhibit dream trophy smoke hurry remain until leisure destroy";

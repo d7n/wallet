@@ -1,1 +1,1 @@
-var mnemonic = "visual bench legend march dry slush give brown produce toward perfect before";
+var mnemonic = "problem tape nephew amateur produce clap tragic index reveal foot rate museum";

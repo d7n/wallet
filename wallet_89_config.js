@@ -1,1 +1,1 @@
-var mnemonic = "tomato plug forum what switch reunion oil dinner license test parent hill";
+var mnemonic = "carpet act subway sword observe retreat defy fabric hole morning float brain";

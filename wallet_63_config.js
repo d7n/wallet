@@ -1,1 +1,1 @@
-var mnemonic = "genre drum staff unaware gun cabbage electric actor damp choose whip panel";
+var mnemonic = "emerge meadow reject enemy deal enrich absorb decorate attend bulk awake sign";

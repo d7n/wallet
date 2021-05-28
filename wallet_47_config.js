@@ -1,1 +1,1 @@
-var mnemonic = "hundred label fish buyer run until rotate sugar have learn earth ribbon";
+var mnemonic = "six require rifle private movie notable diet speak market burden dumb pen";

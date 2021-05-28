@@ -1,1 +1,1 @@
-var mnemonic = "crisp april sleep wisdom once banana brush code middle orchard connect manual";
+var mnemonic = "note index raven pony tail circle cram cargo joy fit pottery wagon";

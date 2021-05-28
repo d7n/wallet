@@ -1,1 +1,1 @@
-var mnemonic = "travel enrich true marine sing oil visit suffer race cattle nation decrease";
+var mnemonic = "act rigid network lucky youth merge tell turtle any together powder message";

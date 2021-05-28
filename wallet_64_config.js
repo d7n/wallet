@@ -1,1 +1,1 @@
-var mnemonic = "control shed surface base gloom joke bird edit jazz enact arrive buzz";
+var mnemonic = "field history action route around roof around seat recycle pipe soft genuine";

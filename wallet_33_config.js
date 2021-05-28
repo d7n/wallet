@@ -1,1 +1,1 @@
-var mnemonic = "edit group solid purity heart tissue dry hip mountain auto ivory fortune";
+var mnemonic = "possible arrest tomato soup speed hurdle quick razor detect target donkey undo";

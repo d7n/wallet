@@ -1,1 +1,1 @@
-var mnemonic = "exile arrange space indicate tomato physical volcano amateur claw dry talk october";
+var mnemonic = "same blood boost dragon clinic oval end cat brick good suggest seminar";

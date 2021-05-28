@@ -1,1 +1,1 @@
-var mnemonic = "kite canvas erupt ritual book example sea liquid window strategy myth romance";
+var mnemonic = "hurt rifle enhance chapter what sudden cancel crumble bid void primary blade";

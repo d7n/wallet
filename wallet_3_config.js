@@ -1,1 +1,1 @@
-var mnemonic = "buzz gain steel script slight stadium parade sense cruise fiscal tragic pulp";
+var mnemonic = "awkward bubble later provide foster miracle foster woman ramp service robust junk";

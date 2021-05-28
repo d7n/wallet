@@ -1,1 +1,1 @@
-var mnemonic = "hawk find diamond awesome yellow broken sting bar october into negative region";
+var mnemonic = "again river enter paddle inquiry way clinic sniff always puppy apology pen";

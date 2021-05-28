@@ -1,1 +1,1 @@
-var mnemonic = "miss small prize among degree salt version cinnamon bridge canoe medal stay";
+var mnemonic = "drive island soccer pave depend click fitness modify fringe boss cruel surface";

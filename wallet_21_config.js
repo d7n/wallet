@@ -1,1 +1,1 @@
-var mnemonic = "camp sorry gain clean paddle pencil fantasy unknown bitter snow secret alpha";
+var mnemonic = "notice bulk warm coil hill pear erase ordinary ice cupboard weapon orchard";

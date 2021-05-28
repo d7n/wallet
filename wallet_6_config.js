@@ -1,1 +1,1 @@
-var mnemonic = "proud off vibrant grant taxi hamster resemble bicycle leopard boy distance trumpet";
+var mnemonic = "into actual private prepare sight win palm vintage mercy truly exile rubber";

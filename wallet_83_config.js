@@ -1,1 +1,1 @@
-var mnemonic = "alter mimic demand town iron share bomb upset tool morning second switch";
+var mnemonic = "social venue sheriff again bleak increase lyrics hungry dad nominee please palace";

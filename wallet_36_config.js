@@ -1,1 +1,1 @@
-var mnemonic = "elder regret impact meat emotion recall boat base witness unfold admit walk";
+var mnemonic = "imitate universe sight keep demand invest anger ready away alley honey magnet";

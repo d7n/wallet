@@ -1,1 +1,1 @@
-var mnemonic = "table range eagle seven start tent apology merit gossip relief random bubble";
+var mnemonic = "grief skin step seed host pumpkin try detect brush grace ugly correct";

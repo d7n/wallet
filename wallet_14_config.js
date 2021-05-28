@@ -1,1 +1,1 @@
-var mnemonic = "bitter worth tragic garlic defy skirt cycle claw vanish combine pilot provide";
+var mnemonic = "kidney tiger spice regular process hip trouble circle foam rubber useless expand";

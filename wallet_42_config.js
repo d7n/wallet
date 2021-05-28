@@ -1,1 +1,1 @@
-var mnemonic = "lens any oven junior injury tilt hurt creek weasel turn admit dragon";
+var mnemonic = "violin finger tourist annual violin dry choose become zero wild once walk";

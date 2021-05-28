@@ -1,1 +1,1 @@
-var mnemonic = "school human convince gloom owner glide race fly basket ask impose border";
+var mnemonic = "ladder harvest mandate orphan rifle repeat pave happy broccoli tool ensure knee";

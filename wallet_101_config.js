@@ -1,1 +1,1 @@
-var mnemonic = "wood furnace icon latin profit smooth blind pipe year scare consider zero";
+var mnemonic = "vacant second measure myth calm hair aim text drink web torch accident";

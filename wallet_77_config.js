@@ -1,1 +1,1 @@
-var mnemonic = "crawl predict pupil concert piece great room allow flavor scale possible inch";
+var mnemonic = "provide bus explain access room cup again problem stuff wheat essay post";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow people image mandate side favorite spray era witness then manual viable";
+var mnemonic = "perfect lift suggest cloud defense tribe visa sunset indicate stairs task ankle";

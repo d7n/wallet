@@ -1,1 +1,1 @@
-var mnemonic = "provide airport genre damp extra amateur humor hip expose dutch deal trigger";
+var mnemonic = "present pause pattern rule theme stereo weekend black rebuild horror obvious jump";

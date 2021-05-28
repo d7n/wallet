@@ -1,1 +1,1 @@
-var mnemonic = "spin dial purpose device success oyster ecology add soap crush brisk pink";
+var mnemonic = "quick indoor catch level flight engine nephew debate tiger cushion swarm creek";

@@ -1,1 +1,1 @@
-var mnemonic = "stage seat rival giggle response cause secret nest rebel wage inherit private";
+var mnemonic = "tired enrich ten mind zebra project off erase tag edge pretty limit";

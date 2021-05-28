@@ -1,1 +1,1 @@
-var mnemonic = "enact tortoise medal cactus lobster genuine gap actual include knife spirit increase";
+var mnemonic = "valve spawn penalty broken shallow damp suffer squeeze sketch crisp step fine";

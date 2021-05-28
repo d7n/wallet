@@ -1,1 +1,1 @@
-var mnemonic = "monitor tortoise deposit trick gas verify erupt spray attend fitness viable grace";
+var mnemonic = "dilemma cliff equip dumb wet patch gun cluster spin suspect quote very";

@@ -1,1 +1,1 @@
-var mnemonic = "hub recall purpose baby crazy solar salute come tumble celery indicate flee";
+var mnemonic = "then finish real joy moment disorder gravity learn swear rival uniform series";

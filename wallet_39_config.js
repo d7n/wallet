@@ -1,1 +1,1 @@
-var mnemonic = "silver argue fatal range sustain loud nest squirrel police latin install nest";
+var mnemonic = "peace budget buyer mom naive dawn answer swamp rocket safe vanish rose";

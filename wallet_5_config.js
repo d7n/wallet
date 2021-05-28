@@ -1,1 +1,1 @@
-var mnemonic = "now lyrics parade that basic joke pink humor clump repeat steel capital";
+var mnemonic = "comfort also awful area charge average have another switch social miss picnic";

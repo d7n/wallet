@@ -1,1 +1,1 @@
-var mnemonic = "banana pledge soda ball inside umbrella float test where abstract exact put";
+var mnemonic = "harbor original cube cotton napkin vacuum husband swallow fashion shield hawk fix";

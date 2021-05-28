@@ -1,1 +1,1 @@
-var mnemonic = "truck fan very become panda invite return face group limit slam program";
+var mnemonic = "crazy float minimum sudden forward rebel dismiss private wait dawn slight glimpse";

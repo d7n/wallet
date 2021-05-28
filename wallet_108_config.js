@@ -1,1 +1,1 @@
-var mnemonic = "wrap token february project fatigue quantum inner secret item canal artwork exhibit";
+var mnemonic = "belt alter blur illness waste tennis keep board avocado unable bless cruel";

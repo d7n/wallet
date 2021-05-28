@@ -1,1 +1,1 @@
-var mnemonic = "control assist rain segment life keep vapor news wrestle globe spell solid";
+var mnemonic = "hotel ecology remove magnet situate leave pizza tragic protect left sorry cradle";

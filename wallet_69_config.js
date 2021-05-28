@@ -1,1 +1,1 @@
-var mnemonic = "produce auction sauce cry rent skate acquire print absorb girl garment chronic";
+var mnemonic = "scissors victory yellow pigeon upon rifle exercise dynamic purchase combine between day";

@@ -1,1 +1,1 @@
-var mnemonic = "topple judge tray hurdle return used ready awkward twin sing pitch satoshi";
+var mnemonic = "enable stable include work light grape path pact secret birth valve visit";

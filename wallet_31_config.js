@@ -1,1 +1,1 @@
-var mnemonic = "barely cabin cruel stone useful nominee ensure road soldier census leaf among";
+var mnemonic = "sort awkward black grant hurt side refuse pond stay valid timber glide";

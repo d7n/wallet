@@ -1,1 +1,1 @@
-var mnemonic = "body asset stone surface jacket wide panic rotate leg citizen inquiry good";
+var mnemonic = "guard pulp become nasty husband sight tackle tobacco shadow cycle merit across";

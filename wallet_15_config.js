@@ -1,1 +1,1 @@
-var mnemonic = "hint lounge spice brisk bring strong cook inner final sauce delay obey";
+var mnemonic = "mammal junk custom kind diesel flag reveal climb husband solid arrow fluid";

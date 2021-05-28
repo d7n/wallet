@@ -1,1 +1,1 @@
-var mnemonic = "woman utility method pilot dirt cart panda clump oak drop success calm";
+var mnemonic = "mass hope unit devote outer dolphin invite tomato more animal hamster bright";

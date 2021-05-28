@@ -1,1 +1,1 @@
-var mnemonic = "conduct degree purse obey crater clinic bargain three tongue sentence orchard december";
+var mnemonic = "mercy voyage arctic cactus torch drink pen company pudding void crater gravity";

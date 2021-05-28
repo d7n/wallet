@@ -1,1 +1,1 @@
-var mnemonic = "pull switch differ day base ski melody base cage puzzle session twin";
+var mnemonic = "tilt accuse reason upper demise apart coffee long old uphold course reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "segment lady talk poem steak blouse seek rude discover dash fix goat";
+var mnemonic = "build emotion ridge moment dumb head clump fresh next canyon twin title";

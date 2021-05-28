@@ -1,1 +1,1 @@
-var mnemonic = "side aspect oil again can exile stomach purity domain knee hello dizzy";
+var mnemonic = "rule small illegal teach renew range spell vapor rural path tattoo catch";

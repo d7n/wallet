@@ -1,1 +1,1 @@
-var mnemonic = "please dynamic fresh isolate cloud throw decline salute plate slender media yard";
+var mnemonic = "snake bubble depth galaxy print genre aunt rival consider furnace mouse reveal";

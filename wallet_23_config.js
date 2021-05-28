@@ -1,1 +1,1 @@
-var mnemonic = "egg laundry govern cup season onion pilot student depart photo expire unlock";
+var mnemonic = "satisfy bitter visit degree detail blind better chunk notable token spare treat";

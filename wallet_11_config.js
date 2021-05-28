@@ -1,1 +1,1 @@
-var mnemonic = "pyramid fish neglect offer slender first version puzzle mango moment carpet retire";
+var mnemonic = "cargo mail item angry grant project system country fiscal lab jazz noble";

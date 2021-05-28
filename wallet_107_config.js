@@ -1,1 +1,1 @@
-var mnemonic = "wise reason tennis enter sight inmate clean naive raw unlock toilet unable";
+var mnemonic = "doctor present veteran erosion safe lumber tourist kitchen sing follow zero okay";

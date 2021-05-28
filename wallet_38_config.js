@@ -1,1 +1,1 @@
-var mnemonic = "sauce deal humor valve ski flavor rug vote crazy silly wasp metal";
+var mnemonic = "dance coral easy cruel hunt route old spring frequent fan divide clip";
