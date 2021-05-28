@@ -1,1 +1,1 @@
-var mnemonic = "half renew bunker organ six cloud extend action skin pattern planet energy";
+var mnemonic = "nothing off awkward iron rely sick edit fancy hello spoil hand barrel";

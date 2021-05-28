@@ -1,1 +1,1 @@
-var mnemonic = "admit horror hint daring occur crack benefit silent match clip ask topic";
+var mnemonic = "disorder grass famous broccoli cycle million blush process connect unfair mean culture";

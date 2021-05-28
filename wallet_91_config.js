@@ -1,1 +1,1 @@
-var mnemonic = "window ugly viable romance silly damp enter tunnel oyster verify explain army";
+var mnemonic = "clay industry scrub key fit want gesture neutral trade shift often seat";

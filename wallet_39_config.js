@@ -1,1 +1,1 @@
-var mnemonic = "office forum predict teach office filter brief ice north wood hope slight";
+var mnemonic = "enroll current lumber engine virtual pony subway collect oven obtain series lyrics";

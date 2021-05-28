@@ -1,1 +1,1 @@
-var mnemonic = "edit above shell inform kite palm donor flat rural census chicken clock";
+var mnemonic = "between execute keen symptom genre duck tongue hour float body quit bargain";

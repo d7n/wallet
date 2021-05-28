@@ -1,1 +1,1 @@
-var mnemonic = "bunker sun fade smile eyebrow husband pretty tonight autumn such symbol tone";
+var mnemonic = "cinnamon middle upset metal weekend soccer flavor civil erase child prepare stand";

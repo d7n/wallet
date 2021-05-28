@@ -1,1 +1,1 @@
-var mnemonic = "plastic kidney eager rescue gloom fun rigid rare cat image twist flash";
+var mnemonic = "have task antique future unveil air dizzy pool stay proud destroy coffee";

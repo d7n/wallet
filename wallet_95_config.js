@@ -1,1 +1,1 @@
-var mnemonic = "onion pulp famous bargain giggle scheme profit chest true toward lava flavor";
+var mnemonic = "twin permit bird below clean couple build certain switch entire animal check";

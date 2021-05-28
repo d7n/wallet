@@ -1,1 +1,1 @@
-var mnemonic = "chronic rich aspect stone kite pause popular inch confirm river kitten chuckle";
+var mnemonic = "various dwarf sea marble female height oblige stereo series combine wire feel";

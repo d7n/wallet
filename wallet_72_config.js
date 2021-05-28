@@ -1,1 +1,1 @@
-var mnemonic = "mean inflict still grocery spoil neutral together idea office yellow life boost";
+var mnemonic = "bless guilt field you alley company audit lift song fiber group burst";

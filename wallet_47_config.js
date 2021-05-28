@@ -1,1 +1,1 @@
-var mnemonic = "hidden timber average sing goat surface short crop bracket they social deny";
+var mnemonic = "rack object company layer catch fashion police frequent visa wine judge ridge";

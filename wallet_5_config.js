@@ -1,1 +1,1 @@
-var mnemonic = "shaft lab shoot system note wire trophy fine kiss safe consider helmet";
+var mnemonic = "muscle ketchup grunt pause universe tide upgrade six tonight control pass reject";

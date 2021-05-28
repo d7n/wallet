@@ -1,1 +1,1 @@
-var mnemonic = "forest glare east fancy trigger merit crumble shed evoke pottery coconut uniform";
+var mnemonic = "cousin worry warm romance mirror quality desk glow case skull prosper dinosaur";

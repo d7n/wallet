@@ -1,1 +1,1 @@
-var mnemonic = "aim invest give cover bubble art panda switch stay author ramp casual";
+var mnemonic = "runway pudding fatigue maple person unfair day bulb home autumn inhale income";

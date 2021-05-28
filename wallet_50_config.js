@@ -1,1 +1,1 @@
-var mnemonic = "soul solve heart cargo orient scale seven suffer fatigue thunder audit barrel";
+var mnemonic = "blame shell animal provide inherit filter struggle grow wage giggle sail iron";

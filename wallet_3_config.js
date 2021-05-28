@@ -1,1 +1,1 @@
-var mnemonic = "holiday enough eager slogan stem slot collect invite pen robot cross slab";
+var mnemonic = "oblige gesture normal today grass twist iron main visa arm kick cat";

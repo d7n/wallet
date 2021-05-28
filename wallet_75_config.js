@@ -1,1 +1,1 @@
-var mnemonic = "dwarf royal spy ready exist mistake inject drift inflict rent coffee style";
+var mnemonic = "medal arch senior learn repeat school stereo crack blouse frown sign minor";

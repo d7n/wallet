@@ -1,1 +1,1 @@
-var mnemonic = "cactus badge kiwi rack media foil lab tag ask into scene prepare";
+var mnemonic = "donate script then dad bike weapon legend age rule step service volcano";

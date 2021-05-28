@@ -1,1 +1,1 @@
-var mnemonic = "cancel blame supreme equip pottery crop scout injury shuffle limit bar crumble";
+var mnemonic = "iron off misery foam truth nation transfer swamp radar upgrade inherit roof";

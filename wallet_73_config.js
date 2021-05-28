@@ -1,1 +1,1 @@
-var mnemonic = "want venue squeeze immune industry artefact reflect tumble ordinary same cargo coyote";
+var mnemonic = "swamp obtain final cinnamon hard water unlock net loud spoil tone diary";

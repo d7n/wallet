@@ -1,1 +1,1 @@
-var mnemonic = "hotel wild reduce remove gadget rent coconut rally satoshi space poverty kitchen";
+var mnemonic = "scare long tobacco direct layer curve cool decide benefit cool spoil sponsor";

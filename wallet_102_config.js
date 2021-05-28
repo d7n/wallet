@@ -1,1 +1,1 @@
-var mnemonic = "have wide plastic awake once kitchen tenant basket loud proud nut fine";
+var mnemonic = "ankle guitar frog happy journey ankle ill drama twenty kitchen trouble peasant";

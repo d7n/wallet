@@ -1,1 +1,1 @@
-var mnemonic = "science depend expect tobacco rookie crystal cake innocent castle advice neck poverty";
+var mnemonic = "bounce kid circle proof position diesel lab style embark electric inquiry skull";

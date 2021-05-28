@@ -1,1 +1,1 @@
-var mnemonic = "alpha purpose denial alcohol hat bid dynamic expire crystal excuse now brown";
+var mnemonic = "cinnamon rally job rural dove language palm tray pull suffer million denial";

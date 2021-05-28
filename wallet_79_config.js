@@ -1,1 +1,1 @@
-var mnemonic = "panther coconut sport vague slice chair chunk tonight eternal escape affair add";
+var mnemonic = "mobile fine icon dune series guitar sentence online fury present bachelor fire";

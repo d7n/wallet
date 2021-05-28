@@ -1,1 +1,1 @@
-var mnemonic = "basic inch marriage someone detect father first cloud write guilt nut raw";
+var mnemonic = "ladder allow alert enjoy loop check whip virus innocent crop extend capital";

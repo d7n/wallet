@@ -1,1 +1,1 @@
-var mnemonic = "night pizza wage vocal spread forward survey sustain range jump blush exchange";
+var mnemonic = "crush extra polar gorilla craft soap tunnel tree myth inspire light smooth";

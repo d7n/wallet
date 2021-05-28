@@ -1,1 +1,1 @@
-var mnemonic = "mouse rapid fall weapon oval goose wide exit rubber hedgehog hood camera";
+var mnemonic = "purpose dress goddess become erode oxygen joy harsh version local buzz drive";

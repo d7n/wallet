@@ -1,1 +1,1 @@
-var mnemonic = "eager lamp begin consider tray taste shallow daughter tray doll urban sort";
+var mnemonic = "repair rocket lift eight shop ask noise stand canal pole parade claw";

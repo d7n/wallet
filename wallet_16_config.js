@@ -1,1 +1,1 @@
-var mnemonic = "barrel retreat share process host hour engine exist family pause bless question";
+var mnemonic = "decide setup tool vital age edit tail harbor planet ten install satisfy";

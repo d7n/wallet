@@ -1,1 +1,1 @@
-var mnemonic = "manage hockey vast foam ensure refuse crisp double clay goddess payment student";
+var mnemonic = "extra solid slush blast always camera deposit tube sentence debate bachelor stadium";

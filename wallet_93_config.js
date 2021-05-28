@@ -1,1 +1,1 @@
-var mnemonic = "rate beauty mixture possible chief slow woman slam blast host topple crop";
+var mnemonic = "enroll arch census trim try hello enroll purpose legend slow okay enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "erase cherry analyst elevator text birth one shy eight meadow gravity history";
+var mnemonic = "crop favorite vibrant pride olympic screen jaguar odor common panic future reunion";

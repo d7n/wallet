@@ -1,1 +1,1 @@
-var mnemonic = "evoke siege switch hundred orient increase kiss maximum walk cheap school theory";
+var mnemonic = "easily immune record spy globe group opinion talent cherry height major lizard";

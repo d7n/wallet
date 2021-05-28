@@ -1,1 +1,1 @@
-var mnemonic = "rather title ask share stem bike reopen blush trust embark library elite";
+var mnemonic = "happy hen cool music armor float space siren tower glad arctic kitchen";

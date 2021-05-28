@@ -1,1 +1,1 @@
-var mnemonic = "label drop slim insect fatal slush cluster clap van wild spirit actress";
+var mnemonic = "emotion absurd omit zoo spring bar frost close athlete lunch chunk surround";

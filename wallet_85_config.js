@@ -1,1 +1,1 @@
-var mnemonic = "bacon worth melt mandate awake fame alert hospital notice regular original forum";
+var mnemonic = "verb trip piece abstract best mix bike tooth ghost garlic isolate recall";

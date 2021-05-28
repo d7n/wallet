@@ -1,1 +1,1 @@
-var mnemonic = "easy entry drive wage office divorce cable opinion few buddy inject hotel";
+var mnemonic = "street exit income swap rate drink puppy account frozen truth dice typical";

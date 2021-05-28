@@ -1,1 +1,1 @@
-var mnemonic = "tree funny reunion always oval visa apple strategy cancel buddy surprise master";
+var mnemonic = "fresh noodle situate sort echo leg brain cable shift random syrup shove";

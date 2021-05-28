@@ -1,1 +1,1 @@
-var mnemonic = "couch drill hundred version illness awful shove audit seven fuel hero slogan";
+var mnemonic = "muscle keep puppy pause shoe host middle illness jar patrol occur pattern";

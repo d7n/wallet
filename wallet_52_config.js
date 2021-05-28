@@ -1,1 +1,1 @@
-var mnemonic = "spring memory point dream act seven kangaroo impact neutral chuckle thought dentist";
+var mnemonic = "obvious tool copy escape pear water aspect lounge dirt allow during ask";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse alien benefit until rhythm maze neck tower feature size blood hotel";
+var mnemonic = "bring clock shock beef drink outer parrot favorite cruel pepper mutual evidence";

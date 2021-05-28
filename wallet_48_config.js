@@ -1,1 +1,1 @@
-var mnemonic = "half narrow gloom cage wise million toast iron deal atom street person";
+var mnemonic = "same express hint hammer artist rigid source latin apple fresh able boy";

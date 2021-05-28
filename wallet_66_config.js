@@ -1,1 +1,1 @@
-var mnemonic = "welcome school snake volume crowd forum track minimum brick fall excess test";
+var mnemonic = "cattle setup scrap bleak chalk pass similar emotion alter bind what power";

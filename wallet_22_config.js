@@ -1,1 +1,1 @@
-var mnemonic = "index night year fantasy bubble radar catalog result step property vital reopen";
+var mnemonic = "vocal pave best arctic spread update merry opinion permit circle suspect service";

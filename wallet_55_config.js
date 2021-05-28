@@ -1,1 +1,1 @@
-var mnemonic = "cotton grab focus ball stove decade jeans rather leader recipe current surround";
+var mnemonic = "access still swarm earn pitch drum cool cart simple result into exercise";

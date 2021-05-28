@@ -1,1 +1,1 @@
-var mnemonic = "radio robot actor green baby sister hard crush fabric beyond curious rifle";
+var mnemonic = "check jazz indicate meadow error coyote aware border sting since speed mango";

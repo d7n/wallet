@@ -1,1 +1,1 @@
-var mnemonic = "myself bird spatial dog rifle distance damp yard priority casino rival tail";
+var mnemonic = "way mind initial ugly eye surprise front audit scare cradle orient unhappy";

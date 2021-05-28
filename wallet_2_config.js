@@ -1,1 +1,1 @@
-var mnemonic = "remind tomato code april husband kick unknown high wool noble note ocean";
+var mnemonic = "target join immense doll month morning near reduce decrease you must wedding";

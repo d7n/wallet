@@ -1,1 +1,1 @@
-var mnemonic = "fruit reopen dilemma fitness plunge sketch tragic twice twice carpet bulk point";
+var mnemonic = "axis begin business park shadow fog donkey virtual other rude search snake";

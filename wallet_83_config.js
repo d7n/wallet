@@ -1,1 +1,1 @@
-var mnemonic = "clog dawn seed eager purpose enemy decade churn sponsor usage south hidden";
+var mnemonic = "hint rose trust open parent paper humor box delay carry poem file";

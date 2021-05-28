@@ -1,1 +1,1 @@
-var mnemonic = "seven harvest choice ancient join ribbon twist elite area knock exist heart";
+var mnemonic = "argue aunt insane tiny normal nut walk cargo relief coast option can";

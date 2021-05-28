@@ -1,1 +1,1 @@
-var mnemonic = "enough chef whisper thrive hero sorry menu hamster all ecology stumble grape";
+var mnemonic = "tree deny because ski brush ready kiss wreck parade history citizen arrange";

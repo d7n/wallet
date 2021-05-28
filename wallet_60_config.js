@@ -1,1 +1,1 @@
-var mnemonic = "cute avocado bless voice monster inform anchor bone link good salmon cycle";
+var mnemonic = "finish put various plastic office salon idea notice practice tiny miss often";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe upper shove buzz speak shoulder deposit embark upon tip deny fly";
+var mnemonic = "dish track foam cart rib talent desert correct better health arrow deliver";

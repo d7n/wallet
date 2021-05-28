@@ -1,1 +1,1 @@
-var mnemonic = "valley choice topple boss various push disagree finger large poverty wood engine";
+var mnemonic = "that gloom coral fiscal twist cause snow deliver video venue melt scout";

@@ -1,1 +1,1 @@
-var mnemonic = "return say satisfy scheme kangaroo subject dragon knife wall rhythm naive mixed";
+var mnemonic = "cost across canyon solar fantasy used core labor misery festival laptop wine";

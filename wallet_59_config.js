@@ -1,1 +1,1 @@
-var mnemonic = "lend virus inherit satisfy color sing found among tip please estate primary";
+var mnemonic = "hybrid ripple gossip cannon sorry under knife visual myself any catalog cushion";

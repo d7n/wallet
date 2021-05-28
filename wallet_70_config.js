@@ -1,1 +1,1 @@
-var mnemonic = "category vacant artist craft cry effort toss leaf zero warm time puzzle";
+var mnemonic = "roof educate dentist soda slab parade season update process ride domain ankle";

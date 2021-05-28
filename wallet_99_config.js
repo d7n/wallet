@@ -1,1 +1,1 @@
-var mnemonic = "regular pony expose concert roof unhappy between clerk fan joy repeat valley";
+var mnemonic = "chair surprise razor amount palm winner arm second emerge west detect icon";

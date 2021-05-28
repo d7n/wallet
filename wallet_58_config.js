@@ -1,1 +1,1 @@
-var mnemonic = "walk double educate wage embrace burst debris float lawn raccoon secret vocal";
+var mnemonic = "segment stumble elevator chronic skirt sample salmon furnace farm govern blanket save";

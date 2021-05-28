@@ -1,1 +1,1 @@
-var mnemonic = "laundry mirror teach resource survey fetch utility crucial combine noodle mammal put";
+var mnemonic = "luggage visa bright wet arrange custom marine sausage ring fury radio mom";

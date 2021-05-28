@@ -1,1 +1,1 @@
-var mnemonic = "hurt omit erosion chronic aerobic beauty just spare betray travel boy test";
+var mnemonic = "flush youth help apart theory drill grief term inside gaze oxygen emotion";

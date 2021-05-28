@@ -1,1 +1,1 @@
-var mnemonic = "view staff weekend athlete mule impulse dove wave wheat soup poverty burst";
+var mnemonic = "large misery butter fantasy member cinnamon glory soft lens unusual brand harbor";

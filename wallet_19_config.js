@@ -1,1 +1,1 @@
-var mnemonic = "soon vessel away cactus awake wrong sock can caution actor minute smooth";
+var mnemonic = "gas citizen carbon state seat unable season better coil limit vocal moral";

@@ -1,1 +1,1 @@
-var mnemonic = "town floor venue laugh job arrest midnight scorpion script theory exhaust harbor";
+var mnemonic = "smart enemy sting fringe during release hospital bean card able slogan quality";

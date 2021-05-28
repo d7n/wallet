@@ -1,1 +1,1 @@
-var mnemonic = "brother lunch kind scene educate drill rubber large quit tornado width fuel";
+var mnemonic = "blanket alpha citizen fault follow true menu coast limb crane motor plastic";

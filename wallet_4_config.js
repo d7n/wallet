@@ -1,1 +1,1 @@
-var mnemonic = "fine chase pipe mountain fit aunt real head desk wonder update link";
+var mnemonic = "metal apple enforce sea expand hunt lunch harsh piano gain bamboo antenna";

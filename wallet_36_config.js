@@ -1,1 +1,1 @@
-var mnemonic = "observe symbol square tonight rocket course runway acoustic detail broccoli champion private";
+var mnemonic = "bunker inflict orbit poet cherry jazz miss snack cheap fat local flock";

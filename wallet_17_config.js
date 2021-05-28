@@ -1,1 +1,1 @@
-var mnemonic = "atom doll lab gadget term gravity used pulp era winner debate range";
+var mnemonic = "program fitness maximum ankle album wear power now response inside tenant night";

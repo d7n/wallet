@@ -1,1 +1,1 @@
-var mnemonic = "whisper shoot swamp speak address census warm diamond tuition bubble album affair";
+var mnemonic = "frost diary stool anxiety bicycle mountain right race gasp legend spin hedgehog";

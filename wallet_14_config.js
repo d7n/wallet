@@ -1,1 +1,1 @@
-var mnemonic = "mother find plug wonder unhappy fury ostrich young certain fluid divide inflict";
+var mnemonic = "borrow empty kiwi fire gesture theory off tank parrot diary awake mountain";

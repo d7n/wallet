@@ -1,1 +1,1 @@
-var mnemonic = "head dose soup miss square sugar universe sort rail chair method bless";
+var mnemonic = "local enable lens stay indicate lunar coil arrow country cattle style prosper";

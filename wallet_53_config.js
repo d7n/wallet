@@ -1,1 +1,1 @@
-var mnemonic = "render loud emotion dad display depend consider emerge romance run similar noble";
+var mnemonic = "then cradle fatigue mail sun omit maximum salute until social cup avocado";

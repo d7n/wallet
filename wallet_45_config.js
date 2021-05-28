@@ -1,1 +1,1 @@
-var mnemonic = "solve hood cover satoshi gold quick arctic civil donate unfair census bag";
+var mnemonic = "soon surround lend language vacuum bread dilemma shrug sound toilet asthma must";

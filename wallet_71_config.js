@@ -1,1 +1,1 @@
-var mnemonic = "sauce chimney anger police grape glass sibling hurry elephant oyster cream clerk";
+var mnemonic = "slim mother stamp gallery claw stand wonder chair fence submit myth banner";

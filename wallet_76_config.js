@@ -1,1 +1,1 @@
-var mnemonic = "table trap stumble chat picture web lens believe riot swift catch safe";
+var mnemonic = "jelly civil whip cliff candy decline train traffic hospital exclude crush grace";

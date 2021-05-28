@@ -1,1 +1,1 @@
-var mnemonic = "average clump state time digital next dance cherry engage thing timber toe";
+var mnemonic = "exotic bird sound stool comfort uncover spread model slide ankle any true";

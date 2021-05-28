@@ -1,1 +1,1 @@
-var mnemonic = "armor force mixed vocal exist slow staff rail heavy era theme coin";
+var mnemonic = "attract verb across reopen deliver bird danger matrix marble crouch inmate year";

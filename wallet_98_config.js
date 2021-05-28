@@ -1,1 +1,1 @@
-var mnemonic = "legend people pig liberty rubber festival reward home certain fiscal cup federal";
+var mnemonic = "strategy shove rug cover divide border also sudden license buffalo runway movie";

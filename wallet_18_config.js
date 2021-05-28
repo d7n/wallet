@@ -1,1 +1,1 @@
-var mnemonic = "judge portion fabric sign notable inner top soldier bounce holiday jar zero";
+var mnemonic = "nasty across oval album rival cancel face novel between moment solid green";

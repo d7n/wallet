@@ -1,1 +1,1 @@
-var mnemonic = "exercise culture clever physical photo prosper front there gaze believe castle extend";
+var mnemonic = "snap idea review retire trick roof history robot dial online target acquire";

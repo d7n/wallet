@@ -1,1 +1,1 @@
-var mnemonic = "trouble wrong grain bubble wear debate slide usual concert corn soon dinosaur";
+var mnemonic = "already silver elegant oil supply caught person tank seven gown time liar";

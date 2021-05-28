@@ -1,1 +1,1 @@
-var mnemonic = "angry wink satoshi enter jazz enjoy main maid retire oxygen soda toddler";
+var mnemonic = "target laptop pulse swim property mountain cart position exile select shy payment";

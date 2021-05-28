@@ -1,1 +1,1 @@
-var mnemonic = "mirror stage monster like steel echo enemy stock slab upper glory opinion";
+var mnemonic = "legend journey shell lawn imitate rival draw jewel trick liar into rib";

@@ -1,1 +1,1 @@
-var mnemonic = "churn source task cage brief increase logic inject attend remember zoo strategy";
+var mnemonic = "garden hamster sweet inside love giraffe gauge paper injury soap police devote";

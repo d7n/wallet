@@ -1,1 +1,1 @@
-var mnemonic = "firm slice color couple attack brush purchase pottery swear damage salad fly";
+var mnemonic = "mobile slot film space gaze pigeon junior extra time blade scare deer";

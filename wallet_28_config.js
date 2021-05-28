@@ -1,1 +1,1 @@
-var mnemonic = "tower gain hair daring erode bamboo bounce squirrel fade boil physical confirm";
+var mnemonic = "faint mountain blade pudding draw various drum vendor eternal gesture eye resource";

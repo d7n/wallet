@@ -1,1 +1,1 @@
-var mnemonic = "wire silver wheel park layer axis join immense calm space burden flag";
+var mnemonic = "organ boat catalog hurry sunset pride unusual whale fitness glove kitten find";
