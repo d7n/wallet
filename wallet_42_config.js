@@ -1,1 +1,1 @@
-var mnemonic = "exist mountain fire eye forest rival deal spring mail equal ladder bring";
+var mnemonic = "horse black scout glide taxi end wagon harbor library wasp debris wish";

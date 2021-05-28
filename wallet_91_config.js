@@ -1,1 +1,1 @@
-var mnemonic = "slight sorry festival tone quarter blouse shock visa invite frequent wisdom test";
+var mnemonic = "hazard sample inside exile guilt flame home attitude basic document candy gun";

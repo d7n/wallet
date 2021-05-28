@@ -1,1 +1,1 @@
-var mnemonic = "today ketchup depart garden orbit exist mistake volume sea wagon useless one";
+var mnemonic = "write trim square scheme dismiss virus solid salmon cabbage menu sport crystal";

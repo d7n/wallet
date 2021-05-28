@@ -1,1 +1,1 @@
-var mnemonic = "middle need swift task rabbit output slice join remember swallow price twin";
+var mnemonic = "shaft jazz winner village member cupboard uncle bamboo hold swift state feature";

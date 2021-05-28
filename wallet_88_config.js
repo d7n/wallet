@@ -1,1 +1,1 @@
-var mnemonic = "route success express license recycle million miracle limit sight list era trap";
+var mnemonic = "paper hundred donor language fine solve hundred okay wagon chunk wrong juice";

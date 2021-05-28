@@ -1,1 +1,1 @@
-var mnemonic = "will season pear auto heavy rack already screen plastic zebra seat pioneer";
+var mnemonic = "quality there enact slot rebuild ball solar rapid seek apology senior rally";

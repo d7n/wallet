@@ -1,1 +1,1 @@
-var mnemonic = "husband sustain camera ball dove mammal render maple glide fatigue urban bag";
+var mnemonic = "coconut pepper marine clip equal goat frost sustain parrot purse kiss promote";

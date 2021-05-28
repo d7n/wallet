@@ -1,1 +1,1 @@
-var mnemonic = "leader case shallow shed cake worry angry law suspect empty rule sell";
+var mnemonic = "wrong remain group whisper choose motor february hood keen carbon fiber dial";

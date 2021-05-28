@@ -1,1 +1,1 @@
-var mnemonic = "nothing divide meat pony earth load nature acid over praise mandate sell";
+var mnemonic = "dutch unaware oven appear fashion similar entire disease entire rain room kit";

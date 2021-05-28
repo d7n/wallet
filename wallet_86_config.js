@@ -1,1 +1,1 @@
-var mnemonic = "mad shallow finger husband noodle title design snap air remind enforce antenna";
+var mnemonic = "soon mutual month remember horse name want demand retire bridge twist divert";

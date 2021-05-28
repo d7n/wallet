@@ -1,1 +1,1 @@
-var mnemonic = "pluck maple concert inherit latin bullet spike awkward muffin miracle fatal quit";
+var mnemonic = "process armed below protect danger pledge protect boss dirt team chronic stage";

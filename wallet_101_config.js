@@ -1,1 +1,1 @@
-var mnemonic = "capital acoustic box crush face hamster design pioneer shuffle project day chalk";
+var mnemonic = "have lunar rally bag churn use wise grain engine blast divert favorite";

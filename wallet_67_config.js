@@ -1,1 +1,1 @@
-var mnemonic = "cream fit hat off buyer notable engage tragic bottom rail bid thunder";
+var mnemonic = "antenna donkey unusual elegant day chapter cheap farm orange friend memory devote";

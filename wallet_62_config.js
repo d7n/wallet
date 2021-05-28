@@ -1,1 +1,1 @@
-var mnemonic = "step vast crater bar idle essay away runway addict payment cinnamon camp";
+var mnemonic = "pig field soda brief banner library track avocado allow enroll lock quality";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue visa move shallow add report swallow wonder filter dad property crowd";
+var mnemonic = "slight coach need hood help slot below basket traffic exchange attitude elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "fire history size hen mobile risk ketchup world caution hood say breeze";
+var mnemonic = "sport robust float parent oxygen fish strategy stage invite friend pulse today";

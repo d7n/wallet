@@ -1,1 +1,1 @@
-var mnemonic = "lunar battle upgrade quote congress tattoo gain curtain deny climb slow lady";
+var mnemonic = "cheese hen gun merry bid height kit excess symptom pulp loop ocean";

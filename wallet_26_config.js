@@ -1,1 +1,1 @@
-var mnemonic = "next universe beauty cram general boy across air during uphold child weekend";
+var mnemonic = "soccer inside cable throw target hat settle ticket taste priority master note";

@@ -1,1 +1,1 @@
-var mnemonic = "soap fit differ rhythm film knee breeze verify brick cloud scale pulp";
+var mnemonic = "exclude lesson clump eight thing enjoy talk wife armed confirm vote torch";

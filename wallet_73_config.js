@@ -1,1 +1,1 @@
-var mnemonic = "immune raise this abstract program blossom minor dragon correct dune add garage";
+var mnemonic = "coil weather obvious allow call cherry across brisk kiwi neutral bicycle vendor";

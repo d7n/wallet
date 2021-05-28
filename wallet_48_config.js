@@ -1,1 +1,1 @@
-var mnemonic = "stove stool mind arena valley excite power knee awake canvas champion board";
+var mnemonic = "sheriff fence live field sentence angle tobacco vote keen harbor bless drama";

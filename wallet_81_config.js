@@ -1,1 +1,1 @@
-var mnemonic = "parade cry slush junior already object pride jelly over parent soon grunt";
+var mnemonic = "toast attitude warm hand clarify earn burst dumb fun wheel gate point";

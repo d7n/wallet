@@ -1,1 +1,1 @@
-var mnemonic = "illness crystal cross indoor banana brush will fiber chat nephew foam tip";
+var mnemonic = "royal culture today replace stumble venue foot person guard doll pluck soap";

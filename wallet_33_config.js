@@ -1,1 +1,1 @@
-var mnemonic = "family honey fashion endorse era universe exile near reason plunge segment card";
+var mnemonic = "forum member zoo clean torch essay thrive member rely grunt reject uphold";

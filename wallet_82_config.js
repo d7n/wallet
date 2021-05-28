@@ -1,1 +1,1 @@
-var mnemonic = "connect exit curious strategy change electric maid wet absent useless leopard perfect";
+var mnemonic = "away broken stand fall sell room cherry icon insect paper dilemma avocado";

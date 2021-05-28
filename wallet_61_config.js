@@ -1,1 +1,1 @@
-var mnemonic = "bulb bomb face velvet leaf wool involve best runway degree world gorilla";
+var mnemonic = "table tennis rhythm chief field movie couple explain black daughter season start";

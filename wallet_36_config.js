@@ -1,1 +1,1 @@
-var mnemonic = "second lift tattoo return rescue dizzy farm coin hidden seek fragile anger";
+var mnemonic = "scheme problem filter renew mammal filter iron twenty shrimp humble demand dad";

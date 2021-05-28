@@ -1,1 +1,1 @@
-var mnemonic = "thumb pledge blood elbow auto vessel library water anger inner february body";
+var mnemonic = "pluck tortoise bracket pull canvas dentist diesel stock have click afford walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "angry patient leisure virtual labor hip multiply bullet dry bronze camp primary";
+var mnemonic = "horse camera oxygen treat submit physical carbon acoustic canoe wedding apart series";

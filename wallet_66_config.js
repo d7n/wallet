@@ -1,1 +1,1 @@
-var mnemonic = "expire hurt rubber insane april decrease arrest belt olive dynamic cook convince";
+var mnemonic = "emerge answer thunder pyramid point fiction gap road mammal reunion arrange dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "drift screen save cry crucial wasp narrow desert coach warrior pause off";
+var mnemonic = "pony spell detect thank early stock connect simple inherit shed reward grass";

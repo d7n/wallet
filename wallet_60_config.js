@@ -1,1 +1,1 @@
-var mnemonic = "pulse expect erase work mosquito huge remind table dose nest portion level";
+var mnemonic = "climb fox job arrive drill sport result lumber wreck artist worry behind";

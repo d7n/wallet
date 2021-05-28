@@ -1,1 +1,1 @@
-var mnemonic = "ceiling manage evolve rain finger silk skin innocent betray inspire fox uncle";
+var mnemonic = "indoor remind abstract brown attack void lawsuit merry spare quality bargain saddle";

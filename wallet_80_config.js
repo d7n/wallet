@@ -1,1 +1,1 @@
-var mnemonic = "typical gesture exit girl gadget duck science stick tiny flock airport subway";
+var mnemonic = "wait option involve devote elite tower gas torch install walk gate wife";

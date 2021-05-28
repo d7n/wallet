@@ -1,1 +1,1 @@
-var mnemonic = "sail patrol giant garment mass stem pill this dash side regret song";
+var mnemonic = "unit senior uniform exercise box bread entire crazy broom census tag simple";

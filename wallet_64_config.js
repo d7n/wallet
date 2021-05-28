@@ -1,1 +1,1 @@
-var mnemonic = "sponsor camera baby decrease wrist unique loud sting napkin marriage faint tragic";
+var mnemonic = "shoe trade mansion device quantum manual traffic find term already spring tomato";

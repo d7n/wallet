@@ -1,1 +1,1 @@
-var mnemonic = "island correct welcome settle mechanic sniff jelly once rigid heart present milk";
+var mnemonic = "game pill cereal stock else usage weasel festival genre random author civil";

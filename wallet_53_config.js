@@ -1,1 +1,1 @@
-var mnemonic = "drill swim team jungle hockey noodle proof night tuition flash loyal essay";
+var mnemonic = "scorpion deposit news patient anxiety radar arrive print course treat focus search";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget sea elite broom spend glide hero able genuine ripple wait glory";
+var mnemonic = "absurd magnet crisp leisure about rotate insane neither trip vault ten grid";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel path special they matter shuffle truth donate latin female used winner";
+var mnemonic = "able science absurd earth document favorite ladder job elephant able knee strategy";

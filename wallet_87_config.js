@@ -1,1 +1,1 @@
-var mnemonic = "local west move myself unfair gain ill unveil peasant canal fossil trip";
+var mnemonic = "cupboard element bean object cake spot arrow ugly assume abandon off crime";

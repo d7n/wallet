@@ -1,1 +1,1 @@
-var mnemonic = "bone flee glad always charge trip rose tragic mix height differ oak";
+var mnemonic = "book wrap arctic output wrong dose label service scare live device blossom";

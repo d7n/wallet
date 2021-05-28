@@ -1,1 +1,1 @@
-var mnemonic = "load imitate fiber crisp couple elephant hair kidney immune legal one coyote";
+var mnemonic = "cement hill warfare focus debris input shell return mesh shine debate tenant";

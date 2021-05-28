@@ -1,1 +1,1 @@
-var mnemonic = "inform express camp quick tennis erupt sketch gas knock wise toast mixture";
+var mnemonic = "pioneer elegant analyst quarter exit size cheap comic auto speak screen vital";

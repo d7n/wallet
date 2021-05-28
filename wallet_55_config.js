@@ -1,1 +1,1 @@
-var mnemonic = "region possible festival despair pull truly unit decide key claim virus sphere";
+var mnemonic = "ranch lottery gun wheat between canvas police piano chapter movie grunt paddle";

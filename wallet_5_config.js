@@ -1,1 +1,1 @@
-var mnemonic = "teach pave relax guard common rail shadow ancient recall pond bind acoustic";
+var mnemonic = "canal exotic begin art glance length poem piano loop old dance fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "present sure surface unfold pitch chair indoor better glance quarter lion thank";
+var mnemonic = "rain observe glance uncover milk tide oven health talent vault trap brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "sing resource try grid mosquito fee volume outer one wonder wrong shoe";
+var mnemonic = "donkey anchor brain weapon inquiry roast charge achieve pink unknown dismiss toe";

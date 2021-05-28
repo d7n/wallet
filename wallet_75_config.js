@@ -1,1 +1,1 @@
-var mnemonic = "job hazard visual crawl color bench cost tissue dentist chapter inmate club";
+var mnemonic = "vendor taxi ribbon awful response sauce palace crumble mix park nuclear dove";

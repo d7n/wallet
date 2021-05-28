@@ -1,1 +1,1 @@
-var mnemonic = "panther release remove curious frame life pave menu island keen sniff bronze";
+var mnemonic = "picnic husband choose word sentence speed exhaust bone impulse window reduce material";

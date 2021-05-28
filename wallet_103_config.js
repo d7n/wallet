@@ -1,1 +1,1 @@
-var mnemonic = "decorate hammer hill glimpse pear dragon voice brass bar stock daughter female";
+var mnemonic = "odor spin square purpose cash phone all antique ozone method before unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce lamp exact avocado shine onion nurse fall marriage nuclear razor pluck";
+var mnemonic = "tomorrow tomato curtain shallow music display stem garlic once problem busy near";

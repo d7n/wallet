@@ -1,1 +1,1 @@
-var mnemonic = "wrestle indicate hover expire okay injury add sausage machine symbol chat escape";
+var mnemonic = "predict lift danger poem rocket journey host drink fever panel depart rib";

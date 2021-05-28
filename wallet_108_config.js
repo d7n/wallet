@@ -1,1 +1,1 @@
-var mnemonic = "tuition input net neutral surface aerobic country cabin soul cash equal purse";
+var mnemonic = "refuse swim kid torch soldier beauty stuff alcohol parrot sad sudden distance";

@@ -1,1 +1,1 @@
-var mnemonic = "cage section bus angry join runway nest catch vocal dwarf carpet before";
+var mnemonic = "flight run labor make vanish dinosaur alert turn fuel track raven picture";

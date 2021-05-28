@@ -1,1 +1,1 @@
-var mnemonic = "october mutual random wing slush style exhaust device cycle caught blanket pave";
+var mnemonic = "proud skirt truly joy enemy journey artwork vehicle upgrade side expire surprise";

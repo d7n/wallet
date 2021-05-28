@@ -1,1 +1,1 @@
-var mnemonic = "garbage vintage glass coyote rubber toward name estate ask deputy venture radio";
+var mnemonic = "bind remain trend inmate ankle crime dish grief future enter message always";

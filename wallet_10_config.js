@@ -1,1 +1,1 @@
-var mnemonic = "flock decide cigar repeat west flip nothing pledge over glance fresh vicious";
+var mnemonic = "tenant enact poem orbit crew pause buddy boy rent deny fashion wrap";

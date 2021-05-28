@@ -1,1 +1,1 @@
-var mnemonic = "noble mandate agent spice answer lift crazy indicate trophy desk loan fashion";
+var mnemonic = "life delay almost card elephant duty sun waste people enemy spare season";

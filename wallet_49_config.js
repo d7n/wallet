@@ -1,1 +1,1 @@
-var mnemonic = "funny immune render tomorrow eight eye hard soup mixture harsh beauty invite";
+var mnemonic = "hero soon deal stem cat symptom benefit lottery extra post okay beauty";

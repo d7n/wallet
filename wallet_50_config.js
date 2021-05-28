@@ -1,1 +1,1 @@
-var mnemonic = "notice junior among submit era click mirror dirt misery poverty spirit slender";
+var mnemonic = "hire normal bullet entire disagree tag enact exchange join craft pepper dial";

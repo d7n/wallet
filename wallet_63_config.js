@@ -1,1 +1,1 @@
-var mnemonic = "bullet path fan nurse advance ketchup picture barrel admit own diary symptom";
+var mnemonic = "wrist vibrant estate mosquito until account success grunt bread fossil typical love";

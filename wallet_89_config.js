@@ -1,1 +1,1 @@
-var mnemonic = "dizzy wine design convince sport change swift admit pencil version segment attack";
+var mnemonic = "because sure report random leopard hundred elder enhance bounce awful coast age";

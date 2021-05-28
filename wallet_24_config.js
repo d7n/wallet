@@ -1,1 +1,1 @@
-var mnemonic = "expose pupil milk supply burden minimum never stomach soap visit razor owner";
+var mnemonic = "maze build crawl fatigue estate sell height dolphin oxygen rice alone vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "seat recycle machine across quantum old stereo suggest envelope evil observe hill";
+var mnemonic = "zebra abandon shop castle forum inch fringe ugly filter kitten blind wave";

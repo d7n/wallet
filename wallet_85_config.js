@@ -1,1 +1,1 @@
-var mnemonic = "auction retreat member cancel ostrich tenant desert fee squeeze helmet panther science";
+var mnemonic = "chest retreat episode season horn plastic razor city critic relax reduce happy";

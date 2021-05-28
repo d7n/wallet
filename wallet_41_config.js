@@ -1,1 +1,1 @@
-var mnemonic = "consider method owner tool sunset coin dog fat degree drop curve local";
+var mnemonic = "aunt clever capable menu warfare stone polar trouble guitar current joke asthma";

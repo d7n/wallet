@@ -1,1 +1,1 @@
-var mnemonic = "hole promote outdoor coffee shiver clump marriage clock capital arm access horse";
+var mnemonic = "fluid short learn body solar giant rotate enact snack cry keep squeeze";

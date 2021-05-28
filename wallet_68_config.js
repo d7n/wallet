@@ -1,1 +1,1 @@
-var mnemonic = "possible circle palace noise meat what desk smile juice scorpion radar buddy";
+var mnemonic = "area trouble duck silly vanish series program answer prepare mean suit guide";

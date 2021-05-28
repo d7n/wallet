@@ -1,1 +1,1 @@
-var mnemonic = "reveal robust shadow juice crime turtle tennis clinic poem improve fork syrup";
+var mnemonic = "unhappy crop also protect staff axis face floor taste helmet tell room";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse code nut dizzy maze snap bag debate hammer acid gift tray";
+var mnemonic = "high track alarm boost swap people million swap wonder twelve quiz mystery";

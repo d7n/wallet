@@ -1,1 +1,1 @@
-var mnemonic = "pull ocean grow lounge prosper enroll pyramid spend wet hello other come";
+var mnemonic = "fee easily top unit install there tray public sponsor idea flower crack";

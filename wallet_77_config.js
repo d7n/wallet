@@ -1,1 +1,1 @@
-var mnemonic = "protect image help awesome few cry lounge grunt calm garment liar river";
+var mnemonic = "immune agree crime crumble token number small dust nice frown innocent artist";

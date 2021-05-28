@@ -1,1 +1,1 @@
-var mnemonic = "relax safe cigar kiss twist truck leopard century core pulp reject forward";
+var mnemonic = "daughter lemon snap excuse deer fat network book ethics enforce dragon account";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel sausage parent ship gorilla sight caution correct rug above marine weapon";
+var mnemonic = "pulse what solid forum subway laugh arrange replace pulse cricket cargo episode";

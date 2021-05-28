@@ -1,1 +1,1 @@
-var mnemonic = "poet kidney innocent spice enter middle make pudding crush velvet demand odor";
+var mnemonic = "stairs cloth muffin olympic flag pause cactus plunge fly bicycle police check";

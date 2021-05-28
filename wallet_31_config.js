@@ -1,1 +1,1 @@
-var mnemonic = "spring feel will follow enforce window timber bean size choice autumn maple";
+var mnemonic = "six oak armed milk outside market alien club mirror snow brave half";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor syrup crystal celery alien rich medal exotic clever seminar elephant essence";
+var mnemonic = "jar fury elite wrong notable enough mechanic garbage wall rule coach atom";

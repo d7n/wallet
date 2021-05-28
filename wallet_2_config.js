@@ -1,1 +1,1 @@
-var mnemonic = "scissors hotel wine year exit drink horror decide time artist endorse flame";
+var mnemonic = "verb scan curtain jeans glory attract across police drastic village joy kangaroo";

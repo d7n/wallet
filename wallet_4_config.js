@@ -1,1 +1,1 @@
-var mnemonic = "castle legend kiss tumble inhale stage riot age olive churn cream lunar";
+var mnemonic = "ridge economy avocado episode other improve isolate clap among slot very collect";

@@ -1,1 +1,1 @@
-var mnemonic = "shop film tilt mouse excess tail cost rib vast reduce grass pluck";
+var mnemonic = "employ rare lens pole cruel essay timber guitar suffer drum lucky announce";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry monster wire stick vibrant service decorate eager rate control congress caution";
+var mnemonic = "enough country polar joke off rude tray near pill visual wear raccoon";

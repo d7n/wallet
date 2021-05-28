@@ -1,1 +1,1 @@
-var mnemonic = "borrow army enjoy tell dash future bonus acoustic average because grass giraffe";
+var mnemonic = "filter exclude add magic success among patrol cruel arrive exotic keen demise";

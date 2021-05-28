@@ -1,1 +1,1 @@
-var mnemonic = "turkey robust autumn negative lens sun laugh tongue satisfy almost blast net";
+var mnemonic = "forget start retreat blind soccer oval door you dignity biology cliff dolphin";

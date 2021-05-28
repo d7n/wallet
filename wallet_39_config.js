@@ -1,1 +1,1 @@
-var mnemonic = "buzz easily forest enable express census spoon kid banana unknown oppose mad";
+var mnemonic = "mom concert crack bar once divide foster ability number patch speed ostrich";

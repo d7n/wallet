@@ -1,1 +1,1 @@
-var mnemonic = "fork glow hat celery message opera bundle remember donkey reason deliver fiber";
+var mnemonic = "topple patch lawn final already brick clever fine hold return chunk song";
