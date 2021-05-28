@@ -1,1 +1,1 @@
-var mnemonic = "boring accident search real pipe mystery name steak census clean year fluid";
+var mnemonic = "best great main simple shadow okay outside early image tube second shell";

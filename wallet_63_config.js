@@ -1,1 +1,1 @@
-var mnemonic = "antenna hobby divorce lawn alpha physical two narrow account hockey siren edge";
+var mnemonic = "witness volcano zoo analyst north load attend outdoor work fever journey office";

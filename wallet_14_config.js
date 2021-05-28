@@ -1,1 +1,1 @@
-var mnemonic = "easy rich perfect diagram cover bullet race age spin quantum digital turkey";
+var mnemonic = "chase voyage hard job practice abstract ski unable fashion hero minimum leaf";

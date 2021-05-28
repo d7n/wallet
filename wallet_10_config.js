@@ -1,1 +1,1 @@
-var mnemonic = "alert exit large able keen world liar under provide record decrease nice";
+var mnemonic = "domain couple elbow frown enforce oppose symbol tennis appear rail boost concert";

@@ -1,1 +1,1 @@
-var mnemonic = "tree proud mother excite animal alien link tent pass image unfold wash";
+var mnemonic = "snow cotton minor oven draft produce movie unfair master comic develop color";

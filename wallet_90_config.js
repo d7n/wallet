@@ -1,1 +1,1 @@
-var mnemonic = "alter welcome insane gossip dawn sword rally sell bargain party brief position";
+var mnemonic = "celery rhythm census love mystery sick garage brother night phrase access joy";

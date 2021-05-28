@@ -1,1 +1,1 @@
-var mnemonic = "stomach recycle vague glimpse tenant midnight broccoli river banner fatigue advance require";
+var mnemonic = "maple decline about table shine cheap uncle sock width surface coast recycle";

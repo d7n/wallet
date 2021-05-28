@@ -1,1 +1,1 @@
-var mnemonic = "engage salute bargain riot swear output erode bless energy sock focus pupil";
+var mnemonic = "vicious grant course between bounce student proud giggle business morning poverty warm";

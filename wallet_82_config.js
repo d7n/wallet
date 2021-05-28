@@ -1,1 +1,1 @@
-var mnemonic = "try sad tomato wish staff symbol learn bomb grief entire grace toe";
+var mnemonic = "inject shuffle utility hazard define language hurt sort slide minimum clinic celery";

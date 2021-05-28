@@ -1,1 +1,1 @@
-var mnemonic = "enact reopen mercy expect material toast vital trial process edge produce comic";
+var mnemonic = "armed execute timber gas letter cabbage visit start apart gasp coach clerk";

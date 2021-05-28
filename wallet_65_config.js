@@ -1,1 +1,1 @@
-var mnemonic = "state reject feel anger drastic slow announce river pear noise basic visual";
+var mnemonic = "dress flavor treat fever panther robust praise wrong awful antenna endless inform";

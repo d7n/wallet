@@ -1,1 +1,1 @@
-var mnemonic = "crane alter program eye bleak credit face monster neglect coin mammal trend";
+var mnemonic = "genre horse burst genuine define mystery awake umbrella business oyster pyramid dose";

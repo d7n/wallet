@@ -1,1 +1,1 @@
-var mnemonic = "canvas food method adult wash decrease tip win owner pilot million slam";
+var mnemonic = "crash thrive laugh device tomato inherit sibling prefer shallow basket holiday quit";

@@ -1,1 +1,1 @@
-var mnemonic = "pear farm remind permit august soup van pioneer wolf foot parade dust";
+var mnemonic = "shuffle unusual flight embrace manage lounge filter tooth rabbit near ready infant";

@@ -1,1 +1,1 @@
-var mnemonic = "differ badge jacket lonely spring month spoon polar pitch foil focus hard";
+var mnemonic = "follow arch tiger neglect twin verify pilot pipe satisfy cost leader holiday";

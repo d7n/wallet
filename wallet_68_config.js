@@ -1,1 +1,1 @@
-var mnemonic = "deposit host sorry bicycle price stairs ginger mandate gossip behave matter height";
+var mnemonic = "prize hollow return note winner general green save wave enemy goat island";

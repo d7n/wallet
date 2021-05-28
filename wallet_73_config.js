@@ -1,1 +1,1 @@
-var mnemonic = "process moral fire puzzle alert asset animal oven mechanic effort good state";
+var mnemonic = "bench arm smart shy legal priority chest marble match opinion grain bridge";

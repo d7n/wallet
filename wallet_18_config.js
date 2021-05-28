@@ -1,1 +1,1 @@
-var mnemonic = "clutch flip canoe gloom dirt antique orphan orient rotate dizzy dice rice";
+var mnemonic = "inmate exotic knife shed syrup symbol scrap school minor violin globe mango";

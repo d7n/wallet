@@ -1,1 +1,1 @@
-var mnemonic = "parade under buzz insect spike discover inner echo produce mandate venture situate";
+var mnemonic = "autumn small embrace crater sweet shaft liquid become cruise inmate pyramid acid";

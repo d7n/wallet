@@ -1,1 +1,1 @@
-var mnemonic = "volcano tired face among rough foster praise wrap slab result property tobacco";
+var mnemonic = "humble laptop tell fresh furnace list paddle pact stuff mirror manage later";

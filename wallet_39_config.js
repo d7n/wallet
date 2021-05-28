@@ -1,1 +1,1 @@
-var mnemonic = "lend below since bamboo suggest valley pair fortune ensure light foot home";
+var mnemonic = "extend normal habit general certain peasant twist outside either borrow trap enable";

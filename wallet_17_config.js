@@ -1,1 +1,1 @@
-var mnemonic = "rose depart clown depend welcome bounce zero abuse fine market acquire icon";
+var mnemonic = "version fabric endless burden female waste that gorilla blind bleak regret saddle";

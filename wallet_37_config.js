@@ -1,1 +1,1 @@
-var mnemonic = "napkin interest move forum beef chef volume hat outside radio clay mutual";
+var mnemonic = "catch rule reason van escape swamp change boss swamp bag skirt dash";

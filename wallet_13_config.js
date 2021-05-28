@@ -1,1 +1,1 @@
-var mnemonic = "summer return aerobic biology develop equip iron wrist real develop cruel poet";
+var mnemonic = "armor word large honey entry enhance execute people buffalo similar acquire pepper";

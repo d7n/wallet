@@ -1,1 +1,1 @@
-var mnemonic = "finger useless stock coral baby fuel damage prosper planet later release tennis";
+var mnemonic = "hand dog general either need almost fossil coyote shop rival toe chase";

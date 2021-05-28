@@ -1,1 +1,1 @@
-var mnemonic = "faith opinion nation alien piano course engine sun fuel check place type";
+var mnemonic = "section liquid cricket garage federal portion stove before love spoon noise allow";

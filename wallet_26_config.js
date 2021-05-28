@@ -1,1 +1,1 @@
-var mnemonic = "agree cactus smart marriage open betray distance cute mobile spike above title";
+var mnemonic = "abstract route major rally mix lamp tunnel they erase enemy pulp hybrid";

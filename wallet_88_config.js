@@ -1,1 +1,1 @@
-var mnemonic = "gift party parent kitchen fatal exclude heart enrich ostrich moment welcome lucky";
+var mnemonic = "swallow write wish worth join bread feel drama jazz web pyramid now";

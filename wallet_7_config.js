@@ -1,1 +1,1 @@
-var mnemonic = "better vendor miracle parent december list large fire because cement learn surface";
+var mnemonic = "universe eagle scrap chalk wear erupt obscure best forget dolphin answer emotion";

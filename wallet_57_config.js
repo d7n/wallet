@@ -1,1 +1,1 @@
-var mnemonic = "minute wrong pulp excuse gather then danger seek swap usage nerve rifle";
+var mnemonic = "donate claw then average champion vivid borrow infant disease thing pottery cinnamon";

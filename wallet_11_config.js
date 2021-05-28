@@ -1,1 +1,1 @@
-var mnemonic = "common chronic forward real turn stadium ecology obvious laundry boss food scrub";
+var mnemonic = "system add dinner solid assault mesh million trend amount scorpion rural coyote";

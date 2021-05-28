@@ -1,1 +1,1 @@
-var mnemonic = "shoulder patient between clog furnace earth drift guess wife able garbage river";
+var mnemonic = "pluck whale tongue retire below middle joke roof cup lion animal impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone arrest duck concert fall image bean fever gym vacant antenna panda";
+var mnemonic = "poverty sail engage kite sick smart amused owner transfer under latin surprise";

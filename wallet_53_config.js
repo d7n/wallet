@@ -1,1 +1,1 @@
-var mnemonic = "tired rent motion find board either gallery enjoy picnic exchange survey train";
+var mnemonic = "original modify medal wish exchange marriage plastic flush radar gospel security chimney";

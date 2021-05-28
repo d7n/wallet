@@ -1,1 +1,1 @@
-var mnemonic = "trend round school erode depend ranch region false concert receive whip guide";
+var mnemonic = "sadness wasp swarm bench they heart despair alert cycle scale motion wrong";

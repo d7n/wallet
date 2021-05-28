@@ -1,1 +1,1 @@
-var mnemonic = "smooth main brave empty taxi cross scout give image mix suspect lemon";
+var mnemonic = "render industry axis weapon divide satoshi lock blind average slender unveil left";

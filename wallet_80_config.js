@@ -1,1 +1,1 @@
-var mnemonic = "obey chicken paper mail purchase result syrup behind supply wool pass spend";
+var mnemonic = "kiwi retreat fetch much asset select pluck canoe evolve pole pumpkin crunch";

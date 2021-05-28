@@ -1,1 +1,1 @@
-var mnemonic = "page weapon advance glad visit prosper twelve where over panther effort swamp";
+var mnemonic = "panic demise chaos palace bless powder apology ancient kit whale catalog actor";

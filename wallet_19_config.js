@@ -1,1 +1,1 @@
-var mnemonic = "select dragon piano digital dignity protect flavor father doctor diary tonight there";
+var mnemonic = "render pattern civil boss vicious case laptop obscure physical today elevator morning";

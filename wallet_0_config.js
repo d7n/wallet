@@ -1,1 +1,1 @@
-var mnemonic = "surge task picture limb manage goat sound december zoo grunt adjust drip";
+var mnemonic = "actor ask please oval weasel under case physical target era puppy crop";

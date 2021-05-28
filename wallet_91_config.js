@@ -1,1 +1,1 @@
-var mnemonic = "vital kite kiwi faint issue flavor become describe below dove inject album";
+var mnemonic = "chuckle wave festival point express clay attack typical expect child direct dust";

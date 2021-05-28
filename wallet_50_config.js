@@ -1,1 +1,1 @@
-var mnemonic = "card any hip old tilt payment assist student mistake monster floor glue";
+var mnemonic = "knock skin tone stay fancy hair oven lock assist reopen life grape";

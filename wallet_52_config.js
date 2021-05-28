@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bundle walk dizzy reveal remind recall artwork fish tail attend virtual";
+var mnemonic = "share soup dirt clever afraid round pet chuckle curve tragic direct focus";

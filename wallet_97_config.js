@@ -1,1 +1,1 @@
-var mnemonic = "become reveal pulp hard life wrestle lizard siren panel symbol ridge canvas";
+var mnemonic = "step impose stool lobster future cattle cluster author drive afford hero cry";

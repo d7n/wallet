@@ -1,1 +1,1 @@
-var mnemonic = "panther magic amazing cloth toy juice resource spread opinion grow wreck harvest";
+var mnemonic = "olympic curtain health merry cactus crane number call other census mom burden";

@@ -1,1 +1,1 @@
-var mnemonic = "what provide win rice hunt drift alcohol fetch grape trial vessel grape";
+var mnemonic = "eternal drastic morning circle chimney poem august minute ginger tuna seven protect";

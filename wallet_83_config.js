@@ -1,1 +1,1 @@
-var mnemonic = "wish pattern submit slogan bike lucky junior erupt elbow tumble language beyond";
+var mnemonic = "walk sentence castle soldier more loop other bike math ready game need";

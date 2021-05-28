@@ -1,1 +1,1 @@
-var mnemonic = "erosion usual shock jelly unveil season flip surprise critic arrest sock draft";
+var mnemonic = "donkey heart gossip tornado initial mimic tone they flee grow trend design";

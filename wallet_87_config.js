@@ -1,1 +1,1 @@
-var mnemonic = "document eagle romance search sugar robust merge pledge fix toast fox entry";
+var mnemonic = "soft regret foster symbol visit measure clever symptom include mosquito reject scout";

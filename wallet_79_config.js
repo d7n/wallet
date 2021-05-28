@@ -1,1 +1,1 @@
-var mnemonic = "size paper afraid unknown decrease reform topple kid arm rescue company candy";
+var mnemonic = "actual ball three stage bundle initial bicycle jelly music flat guide casino";

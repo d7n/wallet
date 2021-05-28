@@ -1,1 +1,1 @@
-var mnemonic = "inform edge winter awful ice throw bicycle enable suit cash cube oval";
+var mnemonic = "fade ball night depart before bullet wife stairs vibrant carbon love frog";

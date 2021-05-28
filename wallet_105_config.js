@@ -1,1 +1,1 @@
-var mnemonic = "describe decade eye antique cage sort age language walk bronze nerve glance";
+var mnemonic = "forward tiger yellow business chest pig cloth gauge during august there crew";

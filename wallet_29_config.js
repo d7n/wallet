@@ -1,1 +1,1 @@
-var mnemonic = "come puzzle shine nothing trophy gown bullet sea salon ticket attack obtain";
+var mnemonic = "wood lake cruise guard patrol crazy sheriff over senior loop frame pet";

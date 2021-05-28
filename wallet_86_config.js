@@ -1,1 +1,1 @@
-var mnemonic = "festival flame regular bundle index shove benefit year fox below choice onion";
+var mnemonic = "wife exile motor resist whisper umbrella seven soup cabin confirm pear verb";

@@ -1,1 +1,1 @@
-var mnemonic = "drip admit cruise ancient fun misery intact matrix universe flame lend crawl";
+var mnemonic = "liquid access expire figure change ability surprise color custom sense expect slide";

@@ -1,1 +1,1 @@
-var mnemonic = "mango lucky air clap insane trophy worry plug two gospel promote confirm";
+var mnemonic = "toy clown hire innocent winner lounge coach old expose lobster addict used";

@@ -1,1 +1,1 @@
-var mnemonic = "glance bind episode series good else museum boost suspect craft whip govern";
+var mnemonic = "install kind mystery fiction endless curve depend gym faith stairs pipe sadness";

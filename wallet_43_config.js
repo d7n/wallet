@@ -1,1 +1,1 @@
-var mnemonic = "kid endorse pill lunar mention payment soldier elbow donate cruel say sniff";
+var mnemonic = "tobacco cotton unveil example couple spirit sibling pave service intact stumble pitch";

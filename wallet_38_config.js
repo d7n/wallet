@@ -1,1 +1,1 @@
-var mnemonic = "awake minute gallery term love crazy bacon doll city cement neck recipe";
+var mnemonic = "stuff filter fly chronic twist width abstract hand rescue brass local glory";

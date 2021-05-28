@@ -1,1 +1,1 @@
-var mnemonic = "leaf mansion defense crew detect wealth unhappy venture flush vapor castle sauce";
+var mnemonic = "enforce pretty because noble wheat resist leader feature daughter cry zoo amount";

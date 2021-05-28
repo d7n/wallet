@@ -1,1 +1,1 @@
-var mnemonic = "person volcano coyote own human arrow develop lemon organ dumb sure rib";
+var mnemonic = "float leader pair later usual useless inside crash short stem avoid punch";

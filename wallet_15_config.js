@@ -1,1 +1,1 @@
-var mnemonic = "peanut because review invest brown cat close domain unfair celery craft powder";
+var mnemonic = "shoot camera year deputy game shadow produce hotel hurt decide scissors street";

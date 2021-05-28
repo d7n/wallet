@@ -1,1 +1,1 @@
-var mnemonic = "dish great paper upper now inquiry usage own camera fame brisk photo";
+var mnemonic = "spin young lens fall vault vocal swift donate license envelope mom emotion";

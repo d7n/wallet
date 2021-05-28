@@ -1,1 +1,1 @@
-var mnemonic = "half people waste color month forum wear fetch enroll celery assist athlete";
+var mnemonic = "parade melody burger entire right wear cabbage peace cluster lonely scare clinic";

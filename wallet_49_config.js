@@ -1,1 +1,1 @@
-var mnemonic = "rocket exotic plate test affair toe staff endorse between kit behave announce";
+var mnemonic = "crop kit public tissue educate sadness diesel always cricket face crouch prepare";

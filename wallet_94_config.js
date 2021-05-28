@@ -1,1 +1,1 @@
-var mnemonic = "unfair vehicle add romance rival version receive width decorate happy coil obey";
+var mnemonic = "need drill body tackle private stuff capable fringe fine height chest junk";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff lumber horror keen trash verify donkey solar best apology number solution";
+var mnemonic = "repeat frozen ginger leopard hazard rhythm skirt control mammal print exit claim";

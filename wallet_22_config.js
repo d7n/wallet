@@ -1,1 +1,1 @@
-var mnemonic = "slight labor neither job soccer cancel orphan blossom gift crew lizard cave";
+var mnemonic = "symbol brisk vessel comic wonder dove ready bring offer endorse peasant bus";

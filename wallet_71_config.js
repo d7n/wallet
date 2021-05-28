@@ -1,1 +1,1 @@
-var mnemonic = "frost purchase awful holiday more venue pass scene eternal effort brisk regular";
+var mnemonic = "normal angle shy click pig giant flush vessel slot select hill morning";

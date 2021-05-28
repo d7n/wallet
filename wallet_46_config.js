@@ -1,1 +1,1 @@
-var mnemonic = "base call frequent symptom little uniform trip hidden heavy mass tide coconut";
+var mnemonic = "flame tape rotate season pencil used diesel wheat common lesson real scene";

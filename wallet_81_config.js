@@ -1,1 +1,1 @@
-var mnemonic = "priority route burger winner blind stumble permit sword system heart surface oyster";
+var mnemonic = "ski wasp fade face govern entire exercise unlock rally shine village negative";

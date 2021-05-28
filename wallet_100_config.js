@@ -1,1 +1,1 @@
-var mnemonic = "iron dinosaur tuna measure eyebrow radar bleak off element leopard repair cement";
+var mnemonic = "post bubble naive prefer situate gun cake wear alpha add uncover negative";

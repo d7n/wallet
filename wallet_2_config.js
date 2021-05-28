@@ -1,1 +1,1 @@
-var mnemonic = "coil warrior dolphin reject tell display choose picture enhance worry charge once";
+var mnemonic = "diamond swap impose unfold galaxy banner syrup make force job rigid share";

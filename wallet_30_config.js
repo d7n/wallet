@@ -1,1 +1,1 @@
-var mnemonic = "sponsor people page final transfer coffee drama foam ensure remind admit rabbit";
+var mnemonic = "immune undo average bundle twice across trophy plate almost cause theory filter";

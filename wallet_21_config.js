@@ -1,1 +1,1 @@
-var mnemonic = "eye mirror unaware nuclear put open flag describe intact loud theme emerge";
+var mnemonic = "oil web fall solution destroy unhappy sad lab lamp tank business anxiety";

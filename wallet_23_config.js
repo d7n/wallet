@@ -1,1 +1,1 @@
-var mnemonic = "winter agree client page spoil bounce index face grain embody effort bamboo";
+var mnemonic = "nest option still total vast ladder alien middle barrel admit royal analyst";

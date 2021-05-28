@@ -1,1 +1,1 @@
-var mnemonic = "hidden exotic point dumb invest hen vault rack actual item drive turtle";
+var mnemonic = "age cancel rural galaxy spring harvest monitor glue local allow erupt sentence";

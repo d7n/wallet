@@ -1,1 +1,1 @@
-var mnemonic = "auto bitter addict sure tortoise fix boat frozen antique dress album deal";
+var mnemonic = "raise sketch keep city grid kitchen direct sentence engage carbon oil rude";

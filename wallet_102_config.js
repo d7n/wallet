@@ -1,1 +1,1 @@
-var mnemonic = "project client love wheat basic spell shrimp tube fortune bread blame canoe";
+var mnemonic = "park seven ball marine voice twelve sorry case crime scrap idea oil";

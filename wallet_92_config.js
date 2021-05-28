@@ -1,1 +1,1 @@
-var mnemonic = "feature welcome maple evoke ahead carbon picture holiday gossip shiver cup boil";
+var mnemonic = "dinner cause relax spawn bunker minute gold stool acoustic gasp venue awake";

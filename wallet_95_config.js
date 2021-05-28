@@ -1,1 +1,1 @@
-var mnemonic = "inhale alcohol urban cover brown garbage pluck crouch fade parade cart eternal";
+var mnemonic = "amused fiction wing blood abstract blouse bulk cloth novel pulse lunar tuna";

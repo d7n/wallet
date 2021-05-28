@@ -1,1 +1,1 @@
-var mnemonic = "faculty arrest siren destroy predict timber echo equip aware antique reopen swarm";
+var mnemonic = "this cart piece talk meat faculty step gift aisle dutch visa target";

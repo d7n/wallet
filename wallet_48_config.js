@@ -1,1 +1,1 @@
-var mnemonic = "toward local input cute blind maximum pair powder cradle modify barrel umbrella";
+var mnemonic = "club destroy original can educate brave angle grant tenant weapon traffic unfold";

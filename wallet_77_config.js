@@ -1,1 +1,1 @@
-var mnemonic = "deny target illegal time basic stove silent detect axis jazz tail casino";
+var mnemonic = "media collect movie extend garbage minimum know dose muffin book enlist deliver";

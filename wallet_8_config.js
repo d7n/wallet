@@ -1,1 +1,1 @@
-var mnemonic = "fat reduce matrix toddler energy pony elbow cloud this debris tomorrow other";
+var mnemonic = "joy lock raise duty try maze slot asset enter rail doll say";

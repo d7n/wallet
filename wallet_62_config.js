@@ -1,1 +1,1 @@
-var mnemonic = "suit donor sketch success argue embody client slab vapor exile dose vital";
+var mnemonic = "host acoustic nature twist menu brass notice music runway flush salon path";

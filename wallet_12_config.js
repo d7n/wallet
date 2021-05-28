@@ -1,1 +1,1 @@
-var mnemonic = "spot marble people route bounce congress that impulse lyrics glad sell cupboard";
+var mnemonic = "opinion pear exclude love doll labor soup bachelor mistake risk still fringe";

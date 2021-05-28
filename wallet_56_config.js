@@ -1,1 +1,1 @@
-var mnemonic = "cannon chef blast catalog access raise lunch develop armed kit angry august";
+var mnemonic = "minor torch extra panda dizzy strategy normal scorpion spin hole barrel warrior";

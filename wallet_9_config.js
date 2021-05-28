@@ -1,1 +1,1 @@
-var mnemonic = "other radar glove tone universe economy pair bag exile like twelve hint";
+var mnemonic = "fever stone shock process shadow beyond tragic during inside private wire situate";

@@ -1,1 +1,1 @@
-var mnemonic = "sea mix century rhythm dinner file garlic panda creek forward praise bachelor";
+var mnemonic = "lawsuit rigid spray frog blouse expose neither stairs wing motion leopard elegant";

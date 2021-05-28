@@ -1,1 +1,1 @@
-var mnemonic = "pigeon donor final desk tribe joy release follow response peanut prize maximum";
+var mnemonic = "toss slogan subway miss bulk noise skin cotton attitude cloth impulse ring";

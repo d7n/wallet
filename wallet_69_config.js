@@ -1,1 +1,1 @@
-var mnemonic = "ripple elegant rule bachelor load prefer trophy seven remind prize average void";
+var mnemonic = "retreat hat army spike empower broom act arrow exile dial first erupt";

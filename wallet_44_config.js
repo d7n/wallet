@@ -1,1 +1,1 @@
-var mnemonic = "amateur vintage muffin side member neck cereal near drum stock punch income";
+var mnemonic = "marriage focus dress wolf energy track curtain belt merge slot spoil wasp";

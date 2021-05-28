@@ -1,1 +1,1 @@
-var mnemonic = "bless absurd civil approve museum trigger endorse used logic bargain pulp grief";
+var mnemonic = "orient disease blade great gospel hand width fold fortune limit earth year";
