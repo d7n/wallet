@@ -1,1 +1,1 @@
-var mnemonic = "unit senior uniform exercise box bread entire crazy broom census tag simple";
+var mnemonic = "ramp eyebrow civil provide demise want own camp embody outer album foster";

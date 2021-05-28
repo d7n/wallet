@@ -1,1 +1,1 @@
-var mnemonic = "area trouble duck silly vanish series program answer prepare mean suit guide";
+var mnemonic = "false share slush labor absorb print useful trick auction people tenant real";

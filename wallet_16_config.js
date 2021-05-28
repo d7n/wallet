@@ -1,1 +1,1 @@
-var mnemonic = "shoot gas into strong movie tube give rigid donate provide way dove";
+var mnemonic = "cotton save sound post brown eight reject wonder cheese violin fame tag";

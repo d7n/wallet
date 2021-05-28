@@ -1,1 +1,1 @@
-var mnemonic = "pig field soda brief banner library track avocado allow enroll lock quality";
+var mnemonic = "circle nice champion divorce alley oak aerobic casual bubble coral gate scout";

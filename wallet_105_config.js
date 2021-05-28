@@ -1,1 +1,1 @@
-var mnemonic = "able science absurd earth document favorite ladder job elephant able knee strategy";
+var mnemonic = "silk ship equip plunge liquid couch label response cram daring mystery left";

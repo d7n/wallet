@@ -1,1 +1,1 @@
-var mnemonic = "suffer hockey because gas can soul kiwi series warfare forget shop that";
+var mnemonic = "liquid almost submit faculty render glow renew illness eagle battle trumpet butter";

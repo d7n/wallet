@@ -1,1 +1,1 @@
-var mnemonic = "picnic husband choose word sentence speed exhaust bone impulse window reduce material";
+var mnemonic = "local soap theme frame digital medal scrap text market section express sunset";

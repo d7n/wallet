@@ -1,1 +1,1 @@
-var mnemonic = "topple patch lawn final already brick clever fine hold return chunk song";
+var mnemonic = "law reject spike mountain label city above culture have slow lift final";

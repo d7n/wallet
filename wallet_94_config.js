@@ -1,1 +1,1 @@
-var mnemonic = "space young parade refuse alarm banner stuff few obey kiwi grain draw";
+var mnemonic = "slogan hedgehog hand make cruise normal kiss explain muscle room unlock spring";

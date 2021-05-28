@@ -1,1 +1,1 @@
-var mnemonic = "canal exotic begin art glance length poem piano loop old dance fruit";
+var mnemonic = "decline cargo pave obscure century tomato rude flag portion recall climb oppose";

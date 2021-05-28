@@ -1,1 +1,1 @@
-var mnemonic = "have lunar rally bag churn use wise grain engine blast divert favorite";
+var mnemonic = "canal kangaroo border tower universe carpet magic wheat beach father gap record";

@@ -1,1 +1,1 @@
-var mnemonic = "predict lift danger poem rocket journey host drink fever panel depart rib";
+var mnemonic = "skill rabbit genius blue bargain suffer move battle bench color dilemma toy";

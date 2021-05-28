@@ -1,1 +1,1 @@
-var mnemonic = "climb fox job arrive drill sport result lumber wreck artist worry behind";
+var mnemonic = "leisure current excuse much swap series opera woman crater board aware trial";

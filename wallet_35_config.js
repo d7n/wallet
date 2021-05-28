@@ -1,1 +1,1 @@
-var mnemonic = "write trim square scheme dismiss virus solid salmon cabbage menu sport crystal";
+var mnemonic = "rib jump milk satisfy blossom build unveil slim success faculty wasp charge";

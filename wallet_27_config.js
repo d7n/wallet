@@ -1,1 +1,1 @@
-var mnemonic = "pigeon vital escape filter discover antenna picnic corn slice runway pet desert";
+var mnemonic = "lyrics casual sight story total right what letter pipe walnut stool tilt";

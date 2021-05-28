@@ -1,1 +1,1 @@
-var mnemonic = "toast attitude warm hand clarify earn burst dumb fun wheel gate point";
+var mnemonic = "soldier sure local blouse live organ critic spray pool push submit punch";

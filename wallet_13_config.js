@@ -1,1 +1,1 @@
-var mnemonic = "youth buffalo color grape coyote work coach visual lift snow torch small";
+var mnemonic = "job dignity staff concert fish region pattern already inch dutch awake business";

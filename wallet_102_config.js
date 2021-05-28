@@ -1,1 +1,1 @@
-var mnemonic = "athlete trip indicate jaguar miracle volume envelope club music column such dream";
+var mnemonic = "bid disorder drastic salt repeat quarter crater apple resource summer hint antique";

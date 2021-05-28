@@ -1,1 +1,1 @@
-var mnemonic = "absurd magnet crisp leisure about rotate insane neither trip vault ten grid";
+var mnemonic = "hedgehog virus blossom zebra spring nose evolve damp obvious bitter write photo";

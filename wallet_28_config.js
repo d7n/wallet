@@ -1,1 +1,1 @@
-var mnemonic = "sport robust float parent oxygen fish strategy stage invite friend pulse today";
+var mnemonic = "valve myth fury mechanic boring blast soup sight stumble denial high snake";

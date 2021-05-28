@@ -1,1 +1,1 @@
-var mnemonic = "soon mutual month remember horse name want demand retire bridge twist divert";
+var mnemonic = "middle shrug flat evolve stool film vanish sausage blame frozen dial bird";

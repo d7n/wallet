@@ -1,1 +1,1 @@
-var mnemonic = "unhappy crop also protect staff axis face floor taste helmet tell room";
+var mnemonic = "snack velvet enable inject lounge poet girl cable ladder project jealous party";

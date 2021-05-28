@@ -1,1 +1,1 @@
-var mnemonic = "sail client snow audit life wing seat random need tribe word moon";
+var mnemonic = "cattle enforce course smooth weather coffee ten vote exist amateur thank sound";

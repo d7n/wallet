@@ -1,1 +1,1 @@
-var mnemonic = "zebra abandon shop castle forum inch fringe ugly filter kitten blind wave";
+var mnemonic = "file energy drift vault voice patient cherry cancel fade boat relax blush";

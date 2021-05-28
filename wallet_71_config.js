@@ -1,1 +1,1 @@
-var mnemonic = "rubber street identify fresh symbol kid distance viable future rebuild way valid";
+var mnemonic = "grid wide message casino leisure issue danger tank hospital promote hover photo";

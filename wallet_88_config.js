@@ -1,1 +1,1 @@
-var mnemonic = "paper hundred donor language fine solve hundred okay wagon chunk wrong juice";
+var mnemonic = "grain among goddess same thank draft educate arctic trust custom banana focus";

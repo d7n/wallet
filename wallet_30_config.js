@@ -1,1 +1,1 @@
-var mnemonic = "rain observe glance uncover milk tide oven health talent vault trap brisk";
+var mnemonic = "slight jealous nasty gaze harvest modify burst buyer river suggest hello kit";

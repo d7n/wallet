@@ -1,1 +1,1 @@
-var mnemonic = "hire normal bullet entire disagree tag enact exchange join craft pepper dial";
+var mnemonic = "submit rather sell build very deal wonder minimum flight awake allow person";

@@ -1,1 +1,1 @@
-var mnemonic = "quality there enact slot rebuild ball solar rapid seek apology senior rally";
+var mnemonic = "august reason earth pride seat armed horn menu sausage dream party thunder";

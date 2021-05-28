@@ -1,1 +1,1 @@
-var mnemonic = "pulse what solid forum subway laugh arrange replace pulse cricket cargo episode";
+var mnemonic = "foster devote mechanic balance ribbon city hurry execute blame act cruise wide";

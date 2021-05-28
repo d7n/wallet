@@ -1,1 +1,1 @@
-var mnemonic = "pioneer elegant analyst quarter exit size cheap comic auto speak screen vital";
+var mnemonic = "lizard mother orchard region cup retire spread loop lava ostrich finish borrow";

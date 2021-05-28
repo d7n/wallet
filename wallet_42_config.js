@@ -1,1 +1,1 @@
-var mnemonic = "horse black scout glide taxi end wagon harbor library wasp debris wish";
+var mnemonic = "shell they segment hospital choose source seed rose nut yard diesel verb";

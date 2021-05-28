@@ -1,1 +1,1 @@
-var mnemonic = "shoe trade mansion device quantum manual traffic find term already spring tomato";
+var mnemonic = "say hire gossip skull fan knock alien ocean habit city attract review";

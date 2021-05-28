@@ -1,1 +1,1 @@
-var mnemonic = "exclude lesson clump eight thing enjoy talk wife armed confirm vote torch";
+var mnemonic = "cover sauce arch affair nest light onion feed add usage vacant tooth";

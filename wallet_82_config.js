@@ -1,1 +1,1 @@
-var mnemonic = "away broken stand fall sell room cherry icon insect paper dilemma avocado";
+var mnemonic = "harvest media chuckle vehicle degree setup blame immense erosion poem zone ability";

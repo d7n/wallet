@@ -1,1 +1,1 @@
-var mnemonic = "table tennis rhythm chief field movie couple explain black daughter season start";
+var mnemonic = "ahead charge worry depth lava bag night trophy easy safe knife female";

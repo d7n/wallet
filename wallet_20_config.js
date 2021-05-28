@@ -1,1 +1,1 @@
-var mnemonic = "indoor remind abstract brown attack void lawsuit merry spare quality bargain saddle";
+var mnemonic = "ski alley orphan floor equip light loyal dog circle sound nuclear eager";

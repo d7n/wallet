@@ -1,1 +1,1 @@
-var mnemonic = "master hollow vote destroy iron weasel addict sister afford luxury office stock";
+var mnemonic = "unable bounce always sunset boat lemon total snow try dirt emerge only";

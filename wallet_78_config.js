@@ -1,1 +1,1 @@
-var mnemonic = "horse camera oxygen treat submit physical carbon acoustic canoe wedding apart series";
+var mnemonic = "clock warrior mouse boost slight velvet chapter define kitten mask piano that";

@@ -1,1 +1,1 @@
-var mnemonic = "enough country polar joke off rude tray near pill visual wear raccoon";
+var mnemonic = "jump echo various dial maid among estate random organ impose cruise refuse";

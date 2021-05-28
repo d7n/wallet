@@ -1,1 +1,1 @@
-var mnemonic = "antenna donkey unusual elegant day chapter cheap farm orange friend memory devote";
+var mnemonic = "game idea hunt transfer worth merry enjoy ocean assault snap scorpion boring";

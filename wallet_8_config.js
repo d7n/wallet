@@ -1,1 +1,1 @@
-var mnemonic = "fee easily top unit install there tray public sponsor idea flower crack";
+var mnemonic = "glass amateur inspire visit cage reunion trial media express boring later grain";

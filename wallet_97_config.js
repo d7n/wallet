@@ -1,1 +1,1 @@
-var mnemonic = "dutch unaware oven appear fashion similar entire disease entire rain room kit";
+var mnemonic = "around dance clinic garbage turkey sign wife floor kiwi dutch lucky car";

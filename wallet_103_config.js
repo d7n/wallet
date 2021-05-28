@@ -1,1 +1,1 @@
-var mnemonic = "odor spin square purpose cash phone all antique ozone method before unhappy";
+var mnemonic = "team globe bacon race fluid warm public bar cute energy grow torch";

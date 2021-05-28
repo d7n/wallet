@@ -1,1 +1,1 @@
-var mnemonic = "sheriff fence live field sentence angle tobacco vote keen harbor bless drama";
+var mnemonic = "version wealth perfect mosquito lemon sun funny reward chronic stuff shrug forward";

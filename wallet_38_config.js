@@ -1,1 +1,1 @@
-var mnemonic = "cheese hen gun merry bid height kit excess symptom pulp loop ocean";
+var mnemonic = "combine melody measure street worry jeans capable stool toilet planet master reduce";

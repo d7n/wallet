@@ -1,1 +1,1 @@
-var mnemonic = "employ rare lens pole cruel essay timber guitar suffer drum lucky announce";
+var mnemonic = "text comic turkey coil rain traffic mimic solution desk youth upper rubber";

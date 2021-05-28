@@ -1,1 +1,1 @@
-var mnemonic = "toy layer prefer retreat accuse reunion develop link pitch together arrive pass";
+var mnemonic = "tackle urge action oyster olive spatial mushroom minimum spare reflect gallery hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard sample inside exile guilt flame home attitude basic document candy gun";
+var mnemonic = "reward loop lock stay come exit minor slot tonight wash sudden orbit";

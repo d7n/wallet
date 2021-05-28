@@ -1,1 +1,1 @@
-var mnemonic = "coconut pepper marine clip equal goat frost sustain parrot purse kiss promote";
+var mnemonic = "gather rather cloud genius sentence junior beyond improve permit prefer model olive";

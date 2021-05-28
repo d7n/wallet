@@ -1,1 +1,1 @@
-var mnemonic = "hero soon deal stem cat symptom benefit lottery extra post okay beauty";
+var mnemonic = "humble jazz ozone balcony toe delay brand letter vessel twelve report dose";

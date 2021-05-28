@@ -1,1 +1,1 @@
-var mnemonic = "edge fantasy subway north cloud memory mango fuel library defy flash asthma";
+var mnemonic = "jewel twist quick riot badge repeat run early hour mistake follow isolate";

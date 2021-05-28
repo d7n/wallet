@@ -1,1 +1,1 @@
-var mnemonic = "pluck tortoise bracket pull canvas dentist diesel stock have click afford walnut";
+var mnemonic = "venture angle spare word anger shoot wire lemon stem gift rigid add";

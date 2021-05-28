@@ -1,1 +1,1 @@
-var mnemonic = "pony spell detect thank early stock connect simple inherit shed reward grass";
+var mnemonic = "noodle february supreme surge high race theory hazard ostrich pyramid advance resemble";

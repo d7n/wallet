@@ -1,1 +1,1 @@
-var mnemonic = "able oblige cupboard fence mixed brisk upgrade curve ordinary trend unhappy donkey";
+var mnemonic = "van crisp party juice member road nose offer result often upper cherry";

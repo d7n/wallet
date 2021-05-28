@@ -1,1 +1,1 @@
-var mnemonic = "firm blush lobster trick agree kidney olympic leaf cat milk absent note";
+var mnemonic = "erode burden enemy brief you process wise jungle hover athlete solution portion";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch guilt escape burger secret december flame private sphere soda mistake hill";
+var mnemonic = "wet time conduct mistake social rice door gas crouch balance service term";

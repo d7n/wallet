@@ -1,1 +1,1 @@
-var mnemonic = "cupboard element bean object cake spot arrow ugly assume abandon off crime";
+var mnemonic = "priority chimney head promote cotton man rail laugh boat bless badge vacant";

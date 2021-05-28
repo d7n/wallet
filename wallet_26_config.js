@@ -1,1 +1,1 @@
-var mnemonic = "soccer inside cable throw target hat settle ticket taste priority master note";
+var mnemonic = "legal tenant picnic obey improve pink pact marble gap soda garden receive";

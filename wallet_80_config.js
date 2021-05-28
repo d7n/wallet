@@ -1,1 +1,1 @@
-var mnemonic = "wait option involve devote elite tower gas torch install walk gate wife";
+var mnemonic = "immune cover resist travel idea elegant mobile bullet obscure crucial village powder";

@@ -1,1 +1,1 @@
-var mnemonic = "word awkward cross chat fatal cruise twenty virtual woman leopard galaxy impose";
+var mnemonic = "glove uphold dignity doll father early media timber lunar limit account ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "atom warrior cloud chicken stand view tree rare again update absorb brick";
+var mnemonic = "pluck virus fame little viable under patch piece latin already champion mirror";

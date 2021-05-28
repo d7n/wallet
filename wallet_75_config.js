@@ -1,1 +1,1 @@
-var mnemonic = "vendor taxi ribbon awful response sauce palace crumble mix park nuclear dove";
+var mnemonic = "erase yard network elevator early fetch aspect sell common skate brain scale";

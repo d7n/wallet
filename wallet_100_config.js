@@ -1,1 +1,1 @@
-var mnemonic = "warfare human marble hybrid sort mushroom funny winner cliff rough rebel club";
+var mnemonic = "like alarm know cube talk dash energy metal paddle crack promote fury";

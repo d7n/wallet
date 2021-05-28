@@ -1,1 +1,1 @@
-var mnemonic = "royal culture today replace stumble venue foot person guard doll pluck soap";
+var mnemonic = "icon shed spy pumpkin yellow laugh empower city text ski gather narrow";

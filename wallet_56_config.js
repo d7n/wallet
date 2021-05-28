@@ -1,1 +1,1 @@
-var mnemonic = "daughter lemon snap excuse deer fat network book ethics enforce dragon account";
+var mnemonic = "place lonely nut menu mimic cause drip fog actress breeze lazy pear";

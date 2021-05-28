@@ -1,1 +1,1 @@
-var mnemonic = "because sure report random leopard hundred elder enhance bounce awful coast age";
+var mnemonic = "vacuum because front doctor doll inner tiny jar repair sort cluster april";

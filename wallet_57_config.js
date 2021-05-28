@@ -1,1 +1,1 @@
-var mnemonic = "donkey anchor brain weapon inquiry roast charge achieve pink unknown dismiss toe";
+var mnemonic = "hungry kiwi rocket silly sound cage scan exotic cash possible help glimpse";

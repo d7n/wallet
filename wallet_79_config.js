@@ -1,1 +1,1 @@
-var mnemonic = "bind remain trend inmate ankle crime dish grief future enter message always";
+var mnemonic = "hammer panel skate disease bonus address possible observe river cupboard brown fork";

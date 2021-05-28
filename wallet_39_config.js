@@ -1,1 +1,1 @@
-var mnemonic = "mom concert crack bar once divide foster ability number patch speed ostrich";
+var mnemonic = "asset hope network draft inner struggle buzz small piano patrol style magnet";

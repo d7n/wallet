@@ -1,1 +1,1 @@
-var mnemonic = "wrist vibrant estate mosquito until account success grunt bread fossil typical love";
+var mnemonic = "riot swamp maximum truly cream agent first short detect robot live team";

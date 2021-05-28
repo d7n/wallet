@@ -1,1 +1,1 @@
-var mnemonic = "tenant enact poem orbit crew pause buddy boy rent deny fashion wrap";
+var mnemonic = "grocery jungle suspect defense journey keep glory demand east dry capital reject";

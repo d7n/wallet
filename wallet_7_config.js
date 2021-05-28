@@ -1,1 +1,1 @@
-var mnemonic = "fluid short learn body solar giant rotate enact snack cry keep squeeze";
+var mnemonic = "gate city bubble dinosaur tail advance style image caught prison lecture clock";

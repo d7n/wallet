@@ -1,1 +1,1 @@
-var mnemonic = "scorpion deposit news patient anxiety radar arrive print course treat focus search";
+var mnemonic = "major install clip marine tower toilet hurdle come visit usage lucky train";

@@ -1,1 +1,1 @@
-var mnemonic = "life delay almost card elephant duty sun waste people enemy spare season";
+var mnemonic = "comfort long body hero identify then company abandon rival dance melt fox";

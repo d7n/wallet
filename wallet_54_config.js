@@ -1,1 +1,1 @@
-var mnemonic = "high track alarm boost swap people million swap wonder twelve quiz mystery";
+var mnemonic = "regret myth life figure pink taxi shield object super tone pen garbage";

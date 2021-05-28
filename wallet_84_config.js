@@ -1,1 +1,1 @@
-var mnemonic = "flight run labor make vanish dinosaur alert turn fuel track raven picture";
+var mnemonic = "umbrella exact spawn math pill boy meadow enlist girl observe vanish plastic";

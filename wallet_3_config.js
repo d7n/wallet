@@ -1,1 +1,1 @@
-var mnemonic = "hello embody retreat daring switch drop dawn galaxy gas illegal quit vintage";
+var mnemonic = "abstract cube silent wife subway tone more above deputy vacuum crush ship";

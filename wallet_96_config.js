@@ -1,1 +1,1 @@
-var mnemonic = "jar fury elite wrong notable enough mechanic garbage wall rule coach atom";
+var mnemonic = "game rural muscle furnace moment river below pupil end plate wink secret";

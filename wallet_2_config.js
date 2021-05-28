@@ -1,1 +1,1 @@
-var mnemonic = "verb scan curtain jeans glory attract across police drastic village joy kangaroo";
+var mnemonic = "ridge eight hour ball wheel giraffe fork notice approve brother dream peanut";

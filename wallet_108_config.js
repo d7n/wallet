@@ -1,1 +1,1 @@
-var mnemonic = "refuse swim kid torch soldier beauty stuff alcohol parrot sad sudden distance";
+var mnemonic = "charge soft judge sunset hospital setup brick learn dilemma chief fatal grace";

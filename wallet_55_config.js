@@ -1,1 +1,1 @@
-var mnemonic = "ranch lottery gun wheat between canvas police piano chapter movie grunt paddle";
+var mnemonic = "trouble gold wide during budget bunker appear pioneer flip sock normal purity";

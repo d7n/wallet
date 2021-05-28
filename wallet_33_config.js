@@ -1,1 +1,1 @@
-var mnemonic = "forum member zoo clean torch essay thrive member rely grunt reject uphold";
+var mnemonic = "zebra view then seek wish switch jar settle certain glare lizard worth";

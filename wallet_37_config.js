@@ -1,1 +1,1 @@
-var mnemonic = "slam giggle embark pioneer bone change vital sentence cattle route away hint";
+var mnemonic = "knock couple engine adapt lottery radio topic leisure post congress parent gesture";

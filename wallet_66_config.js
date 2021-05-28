@@ -1,1 +1,1 @@
-var mnemonic = "emerge answer thunder pyramid point fiction gap road mammal reunion arrange dirt";
+var mnemonic = "bamboo danger hub all axis number chair basket vehicle day two obtain";
