@@ -1,1 +1,1 @@
-var mnemonic = "warm fatigue pact include young cute magic hip ticket mutual enforce human";
+var mnemonic = "post wolf seminar drama secret visa utility buzz twin slide accident victory";

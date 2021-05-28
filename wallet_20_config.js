@@ -1,1 +1,1 @@
-var mnemonic = "message news live steel kiwi clog glass cushion black blood lazy wash";
+var mnemonic = "pave category improve dash pipe gain token medal friend miss case team";

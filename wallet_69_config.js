@@ -1,1 +1,1 @@
-var mnemonic = "venue gaze sad more trophy romance short equal exist key banner loop";
+var mnemonic = "silent keep woman parade grace strong maze secret pulse liberty album winter";

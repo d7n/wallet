@@ -1,1 +1,1 @@
-var mnemonic = "detail seminar feed copper ranch prison truly mail sample crystal december tuna";
+var mnemonic = "speed repeat trick sense mandate file link badge raccoon jaguar kite rescue";

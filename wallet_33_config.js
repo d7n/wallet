@@ -1,1 +1,1 @@
-var mnemonic = "enough about strategy position animal they appear sleep predict rookie frequent net";
+var mnemonic = "foam sign shrug mesh identify grace rebel tiny divide twenty despair olympic";

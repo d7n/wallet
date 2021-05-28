@@ -1,1 +1,1 @@
-var mnemonic = "crisp olive gain cliff bundle hover pass inform achieve junk luggage cushion";
+var mnemonic = "item bike misery uphold civil outer cluster runway party vault steak unusual";

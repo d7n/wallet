@@ -1,1 +1,1 @@
-var mnemonic = "chunk soft balance oval else label spring canvas reduce marine initial nut";
+var mnemonic = "loud bridge width grain hat nature border click warrior when blouse borrow";

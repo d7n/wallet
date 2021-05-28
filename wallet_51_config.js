@@ -1,1 +1,1 @@
-var mnemonic = "smooth help arrow claw shove tragic grass outer tone ready school edit";
+var mnemonic = "helmet furnace clay scissors shy other pink notice gauge spring rotate seed";

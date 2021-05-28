@@ -1,1 +1,1 @@
-var mnemonic = "sustain valid small canal dial cook health arrest angry tattoo cat topple";
+var mnemonic = "frog slab swarm crew shiver latin wave fatal memory expect toy lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "small practice hip picture arrest decade false embark hand quarter cart arrow";
+var mnemonic = "simple pull layer lunch pitch brush symptom jewel guard border wide nature";

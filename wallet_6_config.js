@@ -1,1 +1,1 @@
-var mnemonic = "black belt rude parade welcome maximum bitter invite broom spot bag film";
+var mnemonic = "almost crystal dice genuine silly midnight document plate area you work banana";

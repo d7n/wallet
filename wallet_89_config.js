@@ -1,1 +1,1 @@
-var mnemonic = "net engage front note anger meat heart dismiss else predict soon brief";
+var mnemonic = "mansion cook defense impose injury place ranch hope speed pulp session fox";

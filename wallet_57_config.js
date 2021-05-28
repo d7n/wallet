@@ -1,1 +1,1 @@
-var mnemonic = "ice skin company twelve comfort penalty work chalk clog rocket cable build";
+var mnemonic = "crunch tell there forward crazy useless smooth point recall safe until glimpse";

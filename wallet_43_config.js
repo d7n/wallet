@@ -1,1 +1,1 @@
-var mnemonic = "uphold parent draft envelope tribe laundry exclude balance rally sibling boost height";
+var mnemonic = "insane health diary lock stumble work bargain second gauge core interest canvas";

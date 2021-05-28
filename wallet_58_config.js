@@ -1,1 +1,1 @@
-var mnemonic = "surround whisper still divorce state mutual cannon stairs spell display always hospital";
+var mnemonic = "scrub balcony stick frame destroy music vocal black shy force exit shadow";

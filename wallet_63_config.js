@@ -1,1 +1,1 @@
-var mnemonic = "radar fall puzzle decide illness observe alcohol auction carbon farm auto ski";
+var mnemonic = "draw scheme village daughter poem retreat finger cat undo inherit brother tower";

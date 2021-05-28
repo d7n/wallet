@@ -1,1 +1,1 @@
-var mnemonic = "menu warm fat enact column loop hundred miss eyebrow essay puzzle print";
+var mnemonic = "grief carry stove describe black oval must zoo device issue spoon chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "panda later giraffe decade improve nature brass reveal indoor submit hole history";
+var mnemonic = "burger just only arrive cute furnace fuel advice oven cushion young volume";

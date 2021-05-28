@@ -1,1 +1,1 @@
-var mnemonic = "hen sentence retreat axis gather lock empty extra awful blur bless jump";
+var mnemonic = "able attack accuse indoor term dynamic fringe mistake camera theme spy cause";

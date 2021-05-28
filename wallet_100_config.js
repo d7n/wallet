@@ -1,1 +1,1 @@
-var mnemonic = "suggest giant shrug action mixture okay twice cram venue cement liberty food";
+var mnemonic = "exhibit myth orphan amateur grief patient glass stereo design venue spirit lift";

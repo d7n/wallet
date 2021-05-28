@@ -1,1 +1,1 @@
-var mnemonic = "pelican credit surface drop chronic woman twenty inch noise exile tube chase";
+var mnemonic = "robust hole sail woman flash ceiling major blue height same slush recall";

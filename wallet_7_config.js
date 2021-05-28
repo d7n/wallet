@@ -1,1 +1,1 @@
-var mnemonic = "input cheese funny exhaust dash weather lounge similar over puzzle slam actress";
+var mnemonic = "foot bamboo exact dish merry chalk slab quick rain cruel setup cliff";

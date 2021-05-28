@@ -1,1 +1,1 @@
-var mnemonic = "trigger job exist ankle bachelor envelope stay bitter observe energy wrestle pupil";
+var mnemonic = "lens infant dial orphan stamp tiger card weekend squirrel stick blossom egg";

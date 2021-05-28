@@ -1,1 +1,1 @@
-var mnemonic = "ill charge document win shaft peanut warm tip lonely because suggest dust";
+var mnemonic = "battle pass session direct term muscle curious skate fortune inmate south witness";

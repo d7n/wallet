@@ -1,1 +1,1 @@
-var mnemonic = "usual snake pulp useless rebuild income sound menu corn share relax dignity";
+var mnemonic = "range rule truly clean garbage powder onion foil bleak course offer loop";

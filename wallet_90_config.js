@@ -1,1 +1,1 @@
-var mnemonic = "veteran under leaf razor edit update act sound era october prevent kangaroo";
+var mnemonic = "napkin wear thumb system bag clump oppose found stove flee evoke shoe";

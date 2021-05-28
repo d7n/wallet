@@ -1,1 +1,1 @@
-var mnemonic = "manual yard busy genre jewel language disease duck grain valve develop series";
+var mnemonic = "tent slow submit unlock birth atom coast world setup law bullet slush";

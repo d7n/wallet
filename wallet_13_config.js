@@ -1,1 +1,1 @@
-var mnemonic = "little still cable casual ketchup napkin minimum slab orchard way sleep stove";
+var mnemonic = "rib van loud tattoo net strike chuckle vote width ketchup accuse tissue";

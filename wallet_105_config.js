@@ -1,1 +1,1 @@
-var mnemonic = "tackle media team symptom art extend answer obtain electric invest urban person";
+var mnemonic = "venture belt symptom scrap tragic way pair scan race pretty critic cliff";

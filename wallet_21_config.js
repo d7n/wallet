@@ -1,1 +1,1 @@
-var mnemonic = "notice hat dentist script maple roast confirm width above priority sea veteran";
+var mnemonic = "tumble express second general maple design priority member dash bachelor draw veteran";

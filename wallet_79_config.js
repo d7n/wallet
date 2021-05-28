@@ -1,1 +1,1 @@
-var mnemonic = "school rapid team early live kitten floor erupt mystery brand comfort staff";
+var mnemonic = "year anger zebra require check bleak picture dove day visit hawk subject";

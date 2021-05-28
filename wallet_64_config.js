@@ -1,1 +1,1 @@
-var mnemonic = "grit enact seminar balcony autumn glimpse park join negative trick essay click";
+var mnemonic = "slide load chest bridge decrease dish have estate soul silk taste gospel";

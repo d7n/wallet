@@ -1,1 +1,1 @@
-var mnemonic = "consider save dilemma fabric air rabbit champion wrestle retreat flight rug coin";
+var mnemonic = "property harbor weekend taxi maple deer essence sock tone cheese casino snow";

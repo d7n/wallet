@@ -1,1 +1,1 @@
-var mnemonic = "word puzzle void chimney lucky outer kick runway indicate weasel neglect excite";
+var mnemonic = "arena buyer truck abuse crush awake trigger craft shove citizen brown mixture";

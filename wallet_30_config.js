@@ -1,1 +1,1 @@
-var mnemonic = "someone chunk dilemma surround garbage disease cloth lyrics still gaze goose quality";
+var mnemonic = "bulb unlock inform track sadness august other choice melody wrap excess random";

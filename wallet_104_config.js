@@ -1,1 +1,1 @@
-var mnemonic = "refuse live arrive practice typical enhance avoid royal neutral often ability blame";
+var mnemonic = "bachelor axis rich giraffe oyster earn journey soccer oven mercy item inch";

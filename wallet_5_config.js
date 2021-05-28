@@ -1,1 +1,1 @@
-var mnemonic = "image boy tumble tragic few march across secret lawn slogan struggle carpet";
+var mnemonic = "voice crowd atom maze canoe merge person child act blossom social tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "coach culture light ribbon famous drift issue reduce powder palm gain elbow";
+var mnemonic = "company phone indicate rebel exact distance much vehicle woman decline voyage whisper";

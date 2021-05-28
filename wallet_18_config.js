@@ -1,1 +1,1 @@
-var mnemonic = "drip shoulder roast rural culture congress cave area answer input uphold maple";
+var mnemonic = "pulse neglect wish marine resemble say then hotel door supreme clap wise";

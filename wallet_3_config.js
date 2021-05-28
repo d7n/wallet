@@ -1,1 +1,1 @@
-var mnemonic = "barrel anxiety route easy resist click labor custom cheese scrub rail onion";
+var mnemonic = "until dragon express dress autumn demand immense novel inside rapid remind ketchup";

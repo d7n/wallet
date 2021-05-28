@@ -1,1 +1,1 @@
-var mnemonic = "feature field doll burden skin coconut basket nice mirror book earth seven";
+var mnemonic = "train dismiss hover mango town happy blanket village inflict genius spray logic";

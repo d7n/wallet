@@ -1,1 +1,1 @@
-var mnemonic = "find object choice vehicle mechanic follow avoid logic seed task volume damp";
+var mnemonic = "moon live must argue seat other disagree ceiling scatter repair bitter kite";

@@ -1,1 +1,1 @@
-var mnemonic = "short find drum chapter blush glove domain make unable twenty say hamster";
+var mnemonic = "excess chief prepare involve wash cave fix hen card accident echo sock";

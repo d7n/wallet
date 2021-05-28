@@ -1,1 +1,1 @@
-var mnemonic = "property crowd output capable fee exchange fossil steel blossom atom wash item";
+var mnemonic = "ginger own teach loop any language frown city goddess trash ranch hand";

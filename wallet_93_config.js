@@ -1,1 +1,1 @@
-var mnemonic = "enrich tide such august endorse rough aerobic chief horror age cabin chaos";
+var mnemonic = "guess always mention spell drama inmate bar traffic laptop ostrich road sand";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit cloud blossom reunion ugly maid process sock stove exchange bubble afraid";
+var mnemonic = "update midnight umbrella current gauge room front please embody path yard effort";

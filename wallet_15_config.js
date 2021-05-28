@@ -1,1 +1,1 @@
-var mnemonic = "inspire doctor rug harbor reason table spend tennis capable reform surface case";
+var mnemonic = "ocean useful boring scale silver city chalk fine miracle random harvest tank";

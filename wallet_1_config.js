@@ -1,1 +1,1 @@
-var mnemonic = "napkin angle maple dirt ceiling year mystery giraffe heart patch submit emotion";
+var mnemonic = "almost museum collect state pepper leader hub member exit clean people photo";

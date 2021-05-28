@@ -1,1 +1,1 @@
-var mnemonic = "health upon measure kick belt skin zone rule rough because lift situate";
+var mnemonic = "sketch planet poverty south pistol eye sorry deposit dirt alter soldier antique";

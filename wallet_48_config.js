@@ -1,1 +1,1 @@
-var mnemonic = "cereal era era nose room whale suffer slot august item hazard paddle";
+var mnemonic = "sword process enrich junk program load illegal ocean style slim stereo reward";

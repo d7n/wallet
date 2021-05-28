@@ -1,1 +1,1 @@
-var mnemonic = "hobby bless magic antenna enhance upset symbol sample lamp fringe goat earth";
+var mnemonic = "narrow sample winner consider high witness attract update hip love immune scorpion";

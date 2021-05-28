@@ -1,1 +1,1 @@
-var mnemonic = "squeeze arm spice peace wish olympic what movie bulb joke item middle";
+var mnemonic = "exchange green target patrol merry pitch jazz manage cash lizard hen huge";

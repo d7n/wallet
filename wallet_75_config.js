@@ -1,1 +1,1 @@
-var mnemonic = "wire model mercy usual cart pledge warfare boil crouch picnic skull girl";
+var mnemonic = "unique improve slide camp poet muscle bleak unfold away wool ivory pool";

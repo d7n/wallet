@@ -1,1 +1,1 @@
-var mnemonic = "slot forward option energy coil globe plug high shock tragic opera scrub";
+var mnemonic = "team fantasy suit wish cupboard pulp action lecture spring salad almost salad";

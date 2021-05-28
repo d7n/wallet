@@ -1,1 +1,1 @@
-var mnemonic = "ability radar goddess monster ship allow foster slam yellow deliver assist when";
+var mnemonic = "slender curve dry dice stock noble version arrive music trouble poverty casual";

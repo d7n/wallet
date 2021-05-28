@@ -1,1 +1,1 @@
-var mnemonic = "knee require useless net equip toe eager civil affair noodle amused senior";
+var mnemonic = "scheme note chest write angry nice keep child cotton horse unhappy abuse";

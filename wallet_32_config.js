@@ -1,1 +1,1 @@
-var mnemonic = "robot garlic fee process false piece season bulb review oxygen final joy";
+var mnemonic = "hollow sand federal tongue candy video piano proof lady civil claim start";

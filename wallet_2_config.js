@@ -1,1 +1,1 @@
-var mnemonic = "empower put milk cheap dentist endless person prepare breeze cluster spoon film";
+var mnemonic = "adjust town timber liquid off lecture album produce bid borrow upset chest";

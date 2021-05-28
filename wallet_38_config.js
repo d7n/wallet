@@ -1,1 +1,1 @@
-var mnemonic = "dream decide record myth wasp current push inform fox miss online circle";
+var mnemonic = "business crawl orient axis assume toy butter immune spatial tent insane extend";

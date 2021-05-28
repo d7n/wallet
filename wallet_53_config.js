@@ -1,1 +1,1 @@
-var mnemonic = "degree surface use canvas sign type farm artefact city tray embark rough";
+var mnemonic = "erase express jacket album code suggest few switch service clock moon orphan";

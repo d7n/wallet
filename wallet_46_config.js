@@ -1,1 +1,1 @@
-var mnemonic = "test museum shy jaguar recycle advance keep lizard recycle imitate proud gauge";
+var mnemonic = "actress cause clog taste element must float scrub fuel siege pair parade";

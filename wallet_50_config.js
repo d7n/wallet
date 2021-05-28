@@ -1,1 +1,1 @@
-var mnemonic = "great unfold love purpose truth pig bounce depend weekend train when frost";
+var mnemonic = "stay anger drift rich fan ripple pepper maximum axis laugh prosper task";

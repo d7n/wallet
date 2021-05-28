@@ -1,1 +1,1 @@
-var mnemonic = "coyote become better almost eagle wagon issue save phrase tool argue problem";
+var mnemonic = "cage surprise divorce spatial number acquire hole sell visa sort cotton huge";

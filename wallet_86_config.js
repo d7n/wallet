@@ -1,1 +1,1 @@
-var mnemonic = "good city walnut trip offer crater mandate spot select desk yard coffee";
+var mnemonic = "enable select door nut march movie ability funny vapor lesson belt project";

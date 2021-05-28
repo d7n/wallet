@@ -1,1 +1,1 @@
-var mnemonic = "process shed episode exist silk shield find guard mother goddess place debris";
+var mnemonic = "diet cabin early gun music grab pizza before goat promote zebra rapid";

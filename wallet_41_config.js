@@ -1,1 +1,1 @@
-var mnemonic = "flame disagree assume deliver faith match tell bunker nominee absurd polar cluster";
+var mnemonic = "chat surge lawsuit tiger globe health evidence bracket doll blouse remember minute";

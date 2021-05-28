@@ -1,1 +1,1 @@
-var mnemonic = "earn turtle donkey rookie leaf august answer flag nothing slush sell demand";
+var mnemonic = "same kid quantum rival glance define combine edit want plug future cake";

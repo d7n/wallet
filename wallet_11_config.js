@@ -1,1 +1,1 @@
-var mnemonic = "wing skate armed boring rich bless tape suggest envelope surround surface waste";
+var mnemonic = "shop have video gate pupil unknown sword monster biology kit cup offer";

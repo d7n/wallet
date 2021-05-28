@@ -1,1 +1,1 @@
-var mnemonic = "jungle cushion seminar allow scissors desk brisk post issue chuckle motion slab";
+var mnemonic = "never venture twin find rotate oak force social zebra assume add erosion";

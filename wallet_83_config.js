@@ -1,1 +1,1 @@
-var mnemonic = "crazy wait abstract slogan offer sell effort victory acquire employ dawn heart";
+var mnemonic = "wet myth certain science urban cabbage garden cigar reject venue museum catalog";

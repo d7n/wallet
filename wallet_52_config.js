@@ -1,1 +1,1 @@
-var mnemonic = "crash kid tuna version spike version setup legend budget poet coffee marble";
+var mnemonic = "calm breeze service remove exist grit another similar arch quantum decline fatal";

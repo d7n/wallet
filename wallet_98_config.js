@@ -1,1 +1,1 @@
-var mnemonic = "video require universe dwarf garage dinosaur ticket afraid must fluid always pottery";
+var mnemonic = "network measure all shiver end indicate survey grow game pride magnet tuition";

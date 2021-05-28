@@ -1,1 +1,1 @@
-var mnemonic = "caught bunker advice mesh verify lottery render note feed page brief stem";
+var mnemonic = "enact use fantasy blind staff kite lady fossil want radar half hello";

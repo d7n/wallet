@@ -1,1 +1,1 @@
-var mnemonic = "effort pave away guilt razor arctic garlic empty race rack upgrade employ";
+var mnemonic = "learn damp cave code prefer science wheel chief injury produce target physical";

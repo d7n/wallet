@@ -1,1 +1,1 @@
-var mnemonic = "energy transfer region chef half garbage hint jazz gravity decrease fence luxury";
+var mnemonic = "fruit brother runway remain level hollow must glimpse door tackle connect one";

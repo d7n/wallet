@@ -1,1 +1,1 @@
-var mnemonic = "what wasp accident blade doll electric evil myself direct outer dish damage";
+var mnemonic = "faculty tennis dad modify summer garage size motor ripple select discover cancel";

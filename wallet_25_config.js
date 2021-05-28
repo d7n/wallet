@@ -1,1 +1,1 @@
-var mnemonic = "wing fuel lake vapor nuclear aim float pitch urban rather there borrow";
+var mnemonic = "mention leader reform capital scout vintage sight six wink eye snake try";

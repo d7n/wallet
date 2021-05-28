@@ -1,1 +1,1 @@
-var mnemonic = "impact grid bitter inquiry mixed winner trim toddler power deer opinion unaware";
+var mnemonic = "quote empty match attitude grass ensure divide blood relax heavy obscure depart";

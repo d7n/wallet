@@ -1,1 +1,1 @@
-var mnemonic = "wrestle please duty behave argue chief person average alert miracle phone federal";
+var mnemonic = "calm sound tonight defense tennis demand violin must profit lazy clog board";

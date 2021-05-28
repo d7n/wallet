@@ -1,1 +1,1 @@
-var mnemonic = "guess point buzz saddle aware clown midnight success force control couch drive";
+var mnemonic = "leg order siren bracket million deposit erase alley cruel hip reject outside";

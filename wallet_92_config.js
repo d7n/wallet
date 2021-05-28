@@ -1,1 +1,1 @@
-var mnemonic = "make parrot exit fiscal portion close example guard door boat surface current";
+var mnemonic = "lava fence canyon bargain flush domain organ obtain media february address match";

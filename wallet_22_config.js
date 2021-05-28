@@ -1,1 +1,1 @@
-var mnemonic = "cactus figure culture target dinner describe film meadow tank switch pelican truth";
+var mnemonic = "space near horse cherry dismiss worth truck fantasy summer reflect recycle skin";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix bomb knife orient trend music advance deer habit calm course curve";
+var mnemonic = "lawn smart cup exotic flame peanut once laugh frost define spatial face";
