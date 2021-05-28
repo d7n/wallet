@@ -1,1 +1,1 @@
-var mnemonic = "eight kind skull ghost panda hazard slam song flavor afraid glide mango";
+var mnemonic = "web express space buddy nut alpha turtle neither digital hurry hill mutual";

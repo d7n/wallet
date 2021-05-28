@@ -1,1 +1,1 @@
-var mnemonic = "divorce glass lawn purchase inner index scene sentence recycle jealous mad license";
+var mnemonic = "victory want fine canal desert clip clap split swift broken describe three";

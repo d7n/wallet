@@ -1,1 +1,1 @@
-var mnemonic = "ticket behind furnace era adapt ridge group barely ball gadget tree power";
+var mnemonic = "suspect youth diary attract business jaguar unusual detail cube faith spray boss";

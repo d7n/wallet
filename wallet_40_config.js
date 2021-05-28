@@ -1,1 +1,1 @@
-var mnemonic = "salmon cream news chronic attract nest surprise fire staff lend parrot state";
+var mnemonic = "spy basket eagle husband cluster deposit vendor emotion devote flavor slab cloth";

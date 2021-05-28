@@ -1,1 +1,1 @@
-var mnemonic = "frozen flush piano walk club basic wool system lottery leave host next";
+var mnemonic = "fog song say six family transfer muscle wage issue adult disorder three";

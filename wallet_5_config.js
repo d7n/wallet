@@ -1,1 +1,1 @@
-var mnemonic = "outside gesture execute note team muscle priority open tube year require dirt";
+var mnemonic = "heavy foot bright crunch vast spider melt cigar open emerge upgrade jar";

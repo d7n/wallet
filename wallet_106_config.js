@@ -1,1 +1,1 @@
-var mnemonic = "great time below oven battle pact antenna pluck quit shield question trade";
+var mnemonic = "neither okay dance pill flat lion eagle radio target cube despair enrich";

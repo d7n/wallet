@@ -1,1 +1,1 @@
-var mnemonic = "virus perfect silent donor wrap census orphan train among bitter camp sadness";
+var mnemonic = "virtual wisdom hover hollow brave nerve train verb gap strategy parrot air";

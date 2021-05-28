@@ -1,1 +1,1 @@
-var mnemonic = "space fiber price cloth mystery repeat size critic champion kidney reform catch";
+var mnemonic = "pet decline copy culture rigid trip detect huge flush trap green bring";

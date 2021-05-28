@@ -1,1 +1,1 @@
-var mnemonic = "clog husband vapor rare struggle draw coyote syrup boil mobile bounce inflict";
+var mnemonic = "doll purchase air tiger ride duty stuff slim produce strategy tumble achieve";

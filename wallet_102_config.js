@@ -1,1 +1,1 @@
-var mnemonic = "armed dismiss input cage property grain direct cancel mountain adult trophy wave";
+var mnemonic = "athlete auto crowd evoke walnut reject pet swarm gaze layer crack recall";

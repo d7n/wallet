@@ -1,1 +1,1 @@
-var mnemonic = "slice injury vibrant hair depart siren inside park ten ecology urban exile";
+var mnemonic = "swap nothing chronic moral master sphere water october access curve frog cage";

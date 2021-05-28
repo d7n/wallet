@@ -1,1 +1,1 @@
-var mnemonic = "idle game embrace snap unlock frown steak love loyal venture december frame";
+var mnemonic = "annual pair warfare strategy select diet wet please family gown hammer science";

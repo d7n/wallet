@@ -1,1 +1,1 @@
-var mnemonic = "morning table eye assault note salute deny shiver knee thank scrap human";
+var mnemonic = "warfare flag disagree clock bid attend essence neither neutral false hurt foot";

@@ -1,1 +1,1 @@
-var mnemonic = "fury purse august height mind tuition empty cart family arch pitch forward";
+var mnemonic = "feed column angry message address either fringe congress jungle glimpse peanut direct";

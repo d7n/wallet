@@ -1,1 +1,1 @@
-var mnemonic = "option enter pupil pole actor spell provide cruel false blame luxury basic";
+var mnemonic = "need quantum awesome build core hen teach trend merge theme exercise man";

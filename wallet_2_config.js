@@ -1,1 +1,1 @@
-var mnemonic = "orange chest super code orange rain finger legend prefer what protect lonely";
+var mnemonic = "sponsor cradle series learn champion gap scissors latin hole pet rose original";

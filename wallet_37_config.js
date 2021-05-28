@@ -1,1 +1,1 @@
-var mnemonic = "envelope income spin rule ice addict live point engage pelican sheriff vintage";
+var mnemonic = "field artefact monster cherry hospital stumble comfort track brother race defy labor";

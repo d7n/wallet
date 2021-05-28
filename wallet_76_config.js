@@ -1,1 +1,1 @@
-var mnemonic = "creek symbol real unable tiny country forest valley critic right later quality";
+var mnemonic = "omit upon spoon maximum trade clip hill artefact clown reflect journey siren";

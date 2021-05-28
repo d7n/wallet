@@ -1,1 +1,1 @@
-var mnemonic = "adult visa combine bomb you time limb agent immense rapid resist defy";
+var mnemonic = "wagon treat rail oyster host gown spy tunnel couch net couch supply";

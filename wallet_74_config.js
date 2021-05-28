@@ -1,1 +1,1 @@
-var mnemonic = "giant when city patch final safe laundry annual desk reunion garden differ";
+var mnemonic = "snake turtle artwork hazard barely strategy open soon notice crush south tube";

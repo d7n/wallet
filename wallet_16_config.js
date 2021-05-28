@@ -1,1 +1,1 @@
-var mnemonic = "marine guitar long word fever assist bicycle diagram today sample lock close";
+var mnemonic = "gain collect private aware cement wear mix admit flag axis syrup summer";

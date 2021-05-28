@@ -1,1 +1,1 @@
-var mnemonic = "scrub into weasel nephew deer autumn bulk fee rare either program gauge";
+var mnemonic = "phrase grief expire face speak bargain brick panther fantasy skate retreat romance";

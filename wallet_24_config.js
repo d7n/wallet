@@ -1,1 +1,1 @@
-var mnemonic = "top ladder bulk wood garment collect title punch liquid version subject soap";
+var mnemonic = "donor order witness ankle drastic path crumble change hold forward hair firm";

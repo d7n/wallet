@@ -1,1 +1,1 @@
-var mnemonic = "donate vivid fit rib vivid sun rookie into scan betray column farm";
+var mnemonic = "unit total unfair maximum require february angry gown vehicle cattle dad analyst";

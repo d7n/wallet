@@ -1,1 +1,1 @@
-var mnemonic = "rookie worth dwarf basket foil until speed apology master network profit snack";
+var mnemonic = "climb shadow text scissors harsh ski pretty file alcohol route winner harsh";

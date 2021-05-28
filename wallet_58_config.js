@@ -1,1 +1,1 @@
-var mnemonic = "reform caution creek glad stand noble dose eight mercy pistol eternal above";
+var mnemonic = "use abstract verify give salute kiss plate bubble ketchup venture lazy proud";

@@ -1,1 +1,1 @@
-var mnemonic = "problem agent title awake chief deny phrase coffee rubber quote mother announce";
+var mnemonic = "december bullet scatter jeans acoustic room dizzy knee aisle dizzy skirt recipe";

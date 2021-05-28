@@ -1,1 +1,1 @@
-var mnemonic = "stairs act slide sunset private exclude devote impose tiny draw regret element";
+var mnemonic = "usage motion this aware eyebrow rally roof net any antique slight urban";

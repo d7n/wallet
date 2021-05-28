@@ -1,1 +1,1 @@
-var mnemonic = "when trim allow glass glance tornado apology code raw one gasp unaware";
+var mnemonic = "custom embrace frost search range slam marriage brief manage mad ring sunset";

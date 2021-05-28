@@ -1,1 +1,1 @@
-var mnemonic = "dose act help book common gadget enjoy key glass merge utility more";
+var mnemonic = "fuel inside sentence obey hurt defy enlist patient rigid misery shoot roast";

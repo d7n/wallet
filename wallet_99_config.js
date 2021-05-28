@@ -1,1 +1,1 @@
-var mnemonic = "forward outer amazing fame antenna doctor delay neither save casual bag glance";
+var mnemonic = "panel funny patrol pig play find easy unfold spawn history expose home";

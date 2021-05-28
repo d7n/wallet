@@ -1,1 +1,1 @@
-var mnemonic = "favorite eternal lab spy parade media capital attitude hope senior manage churn";
+var mnemonic = "elevator undo oppose original drama good special merge unknown palace apart suspect";

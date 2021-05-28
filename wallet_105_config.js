@@ -1,1 +1,1 @@
-var mnemonic = "click object vacuum rice gossip brain shell sketch stock club wet rotate";
+var mnemonic = "cute exhibit hood tube unfair average auction invest shock script blur involve";

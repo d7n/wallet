@@ -1,1 +1,1 @@
-var mnemonic = "kid grunt account guide stem hole section physical chaos evolve flock olympic";
+var mnemonic = "life plastic hundred rack present cushion two rival unhappy section cabin include";

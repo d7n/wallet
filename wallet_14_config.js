@@ -1,1 +1,1 @@
-var mnemonic = "tag depth enable feed universe rough apple mass long rely appear parade";
+var mnemonic = "exclude thing logic rebel same devote fox blue patrol that nose cook";

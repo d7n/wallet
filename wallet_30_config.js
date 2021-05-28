@@ -1,1 +1,1 @@
-var mnemonic = "pact heavy pistol suspect laundry primary mechanic test water music essay few";
+var mnemonic = "essay want essence motor fatal between walnut sorry depend problem pave pencil";

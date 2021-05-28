@@ -1,1 +1,1 @@
-var mnemonic = "trim palm narrow venture fade remove day enact roof crater cook tuna";
+var mnemonic = "work flip slide unit cupboard december project country draw skirt helmet okay";

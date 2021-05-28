@@ -1,1 +1,1 @@
-var mnemonic = "dune jeans hurry display hood echo nation donkey oppose panel else almost";
+var mnemonic = "april animal leave rather silk urge unusual author stamp husband crawl whip";

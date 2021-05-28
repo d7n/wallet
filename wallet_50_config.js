@@ -1,1 +1,1 @@
-var mnemonic = "roast tell walk hire real nasty lyrics zero lesson fortune clock act";
+var mnemonic = "prefer armed poem walnut entry auto gate hotel pilot hub grit menu";

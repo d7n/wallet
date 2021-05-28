@@ -1,1 +1,1 @@
-var mnemonic = "staff actor street season gym shine foil fitness bread okay tube stool";
+var mnemonic = "disease future retire victory battle fatal also scene update foil garbage square";

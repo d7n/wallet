@@ -1,1 +1,1 @@
-var mnemonic = "horse domain harbor pill almost family slogan urban able arrow volcano column";
+var mnemonic = "canyon panther ketchup phrase chapter urban furnace woman flat pill young mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "champion hunt gain gallery snake luggage slight best lumber suspect stay total";
+var mnemonic = "minute coral winter drink barely actress salt hybrid forget diamond space oil";

@@ -1,1 +1,1 @@
-var mnemonic = "naive drip update shell typical hero theme thumb dose erode stereo wire";
+var mnemonic = "net combine donate elder brief pig prosper firm hotel bar toilet mass";

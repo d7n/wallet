@@ -1,1 +1,1 @@
-var mnemonic = "nest blue better nephew reward load company text defy banana glare mesh";
+var mnemonic = "reunion shoulder weekend either motor able wire discover rigid sister fringe dumb";

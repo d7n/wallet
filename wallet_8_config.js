@@ -1,1 +1,1 @@
-var mnemonic = "inspire convince have caution tackle dolphin interest tank give alone alarm law";
+var mnemonic = "pair transfer dry audit chronic elite play settle short panda arrange share";

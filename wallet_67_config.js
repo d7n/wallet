@@ -1,1 +1,1 @@
-var mnemonic = "van barrel seminar immense call forget guilt barely kiss verify surround circle";
+var mnemonic = "bridge forest silk dove fit daughter antique shrimp recycle skirt vivid finish";

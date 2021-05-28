@@ -1,1 +1,1 @@
-var mnemonic = "moon furnace artefact oak arena gift hole patient enrich genius shy permit";
+var mnemonic = "acquire skull supreme deputy margin monkey giant second mention stable animal door";

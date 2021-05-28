@@ -1,1 +1,1 @@
-var mnemonic = "ramp elite tiny flame system feel balance patch joy crawl eager then";
+var mnemonic = "that script silent tiger maid square ignore umbrella unknown month honey height";

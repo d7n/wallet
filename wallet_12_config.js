@@ -1,1 +1,1 @@
-var mnemonic = "suspect giggle dutch sell tonight favorite exhibit gentle approve supreme swap drill";
+var mnemonic = "knife cry sustain damage account radio secret strategy parent problem stuff castle";

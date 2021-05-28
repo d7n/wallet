@@ -1,1 +1,1 @@
-var mnemonic = "popular coin mammal detect hurt balance three file velvet speed replace dance";
+var mnemonic = "suit jaguar ridge spread math mouse tunnel legal veteran arm raccoon autumn";

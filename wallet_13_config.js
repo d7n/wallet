@@ -1,1 +1,1 @@
-var mnemonic = "educate traffic again bless short hammer relax funny drama love road wing";
+var mnemonic = "potato right pave can couple pause square occur intact shadow chaos spin";

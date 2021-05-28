@@ -1,1 +1,1 @@
-var mnemonic = "bottom exchange radio slight hill tomorrow unlock bone borrow engage people throw";
+var mnemonic = "push country west service repeat inherit they denial frown skin age team";

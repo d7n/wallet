@@ -1,1 +1,1 @@
-var mnemonic = "awkward cabbage reflect supreme satisfy misery rabbit cube also coffee know kid";
+var mnemonic = "security soap bag advice misery razor source extend solar high spice avocado";

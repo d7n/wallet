@@ -1,1 +1,1 @@
-var mnemonic = "myself laugh ranch journey fly canal embark oil check tray grab winter";
+var mnemonic = "plug just clump cube garment alien debris still electric believe clutch dentist";

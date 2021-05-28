@@ -1,1 +1,1 @@
-var mnemonic = "sketch river bike crane long universe eternal hurdle exclude skin sunset together";
+var mnemonic = "claw balance boil govern midnight vacuum provide injury correct used certain scorpion";

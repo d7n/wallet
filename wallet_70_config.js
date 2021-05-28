@@ -1,1 +1,1 @@
-var mnemonic = "recipe duty injury toddler regular silent vicious drum keen portion tired pony";
+var mnemonic = "file celery frog festival apology news debate seat window extra honey fiber";

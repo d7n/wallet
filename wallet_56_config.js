@@ -1,1 +1,1 @@
-var mnemonic = "hidden first tide edge fade rotate safe afford fortune allow head brisk";
+var mnemonic = "color snow wage duck roast armor piano gift cry assume arch card";

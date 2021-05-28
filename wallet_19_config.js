@@ -1,1 +1,1 @@
-var mnemonic = "rule jazz vendor win fault hidden lumber coffee order rapid ensure cigar";
+var mnemonic = "ceiling proof adjust sword betray defy also pole lamp water title seven";

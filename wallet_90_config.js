@@ -1,1 +1,1 @@
-var mnemonic = "often allow warfare token robot thunder arch priority force famous delay stumble";
+var mnemonic = "essence fan enforce doctor pizza clinic robust grief pelican naive bachelor coach";

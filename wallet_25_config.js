@@ -1,1 +1,1 @@
-var mnemonic = "foot leader rabbit stool traffic shed merry puzzle talk young damage emotion";
+var mnemonic = "hurry grow energy trash fix indoor nurse suspect dignity royal crowd close";

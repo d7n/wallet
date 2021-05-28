@@ -1,1 +1,1 @@
-var mnemonic = "wealth device later derive ripple super play fetch glory room divide boat";
+var mnemonic = "ecology forum east duck short symbol small yellow female zero skill deny";

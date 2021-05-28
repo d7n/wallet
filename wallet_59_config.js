@@ -1,1 +1,1 @@
-var mnemonic = "dignity hat very favorite above tumble train amount act thank section decrease";
+var mnemonic = "mixture kind special eagle icon marine stuff cup crazy garden rent kitchen";

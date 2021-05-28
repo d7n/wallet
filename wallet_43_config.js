@@ -1,1 +1,1 @@
-var mnemonic = "once despair hat crazy weather wall camera among gentle evil school fever";
+var mnemonic = "much champion renew laptop dizzy volcano say else human fix pool amazing";

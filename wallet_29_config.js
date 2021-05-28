@@ -1,1 +1,1 @@
-var mnemonic = "impulse margin praise toy gallery frost useful section neck nose income island";
+var mnemonic = "know manual sniff mechanic afraid kind squeeze shed drum flavor fragile reject";

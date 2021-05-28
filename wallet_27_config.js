@@ -1,1 +1,1 @@
-var mnemonic = "affair rabbit inspire media thought crystal valley require evoke mobile alley capable";
+var mnemonic = "early perfect pepper original hip burden hard situate grant gun notable grab";

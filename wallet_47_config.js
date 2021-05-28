@@ -1,1 +1,1 @@
-var mnemonic = "coil spring bench warm crater embrace ignore mention hire rabbit express hill";
+var mnemonic = "cart island neutral hill medal blind crouch body load holiday limb circle";

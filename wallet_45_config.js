@@ -1,1 +1,1 @@
-var mnemonic = "practice pool bracket marble put search conduct comfort tilt walk milk sleep";
+var mnemonic = "wing air delay promote wall awesome banner fence warrior lazy demand wood";

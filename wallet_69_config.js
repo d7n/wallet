@@ -1,1 +1,1 @@
-var mnemonic = "egg valley knock have focus wide govern found average sing current kangaroo";
+var mnemonic = "kingdom load hub salon device van nerve card account below cinnamon split";

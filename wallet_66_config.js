@@ -1,1 +1,1 @@
-var mnemonic = "arrange convince next shy panel turn century note crater victory fury armor";
+var mnemonic = "husband address mobile dolphin chapter tag myself sausage fresh comfort orphan stem";

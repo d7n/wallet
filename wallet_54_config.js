@@ -1,1 +1,1 @@
-var mnemonic = "mother unable mansion dawn thrive pig ridge shove fiction vibrant village joy";
+var mnemonic = "frequent solution exile auto predict option enroll blind oven dentist friend pet";

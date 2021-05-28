@@ -1,1 +1,1 @@
-var mnemonic = "sport coast car mad impact lawsuit tongue actual couch guide wave shed";
+var mnemonic = "ceiling canoe bamboo amateur keep dial relief maze monitor impulse pumpkin ecology";

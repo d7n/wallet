@@ -1,1 +1,1 @@
-var mnemonic = "kind honey three lumber inspire canvas sense wife vital repair consider custom";
+var mnemonic = "south gallery lend runway rebuild color insect run price when ladder only";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude repair denial fog room street leader actress supply pill monkey puzzle";
+var mnemonic = "bag lucky moon visit oblige wrestle length total fish attack regret raccoon";

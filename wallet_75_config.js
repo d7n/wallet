@@ -1,1 +1,1 @@
-var mnemonic = "rescue together develop save gasp taste capital vast transfer focus shadow alley";
+var mnemonic = "coconut flock hidden actress gallery weapon knee mutual weird kitten addict flame";

@@ -1,1 +1,1 @@
-var mnemonic = "occur elevator rough kind hobby scrub clerk voice manage eyebrow elegant release";
+var mnemonic = "skill desk turn mystery trick symptom bonus music organ shift evoke hero";

@@ -1,1 +1,1 @@
-var mnemonic = "cable matter cost practice coffee orbit legal imitate virtual guilt comic sustain";
+var mnemonic = "fine bunker trade hat sausage twice rug inmate run almost laptop multiply";

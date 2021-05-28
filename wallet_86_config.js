@@ -1,1 +1,1 @@
-var mnemonic = "quiz convince find easy pigeon gate castle pulp puppy eager hawk two";
+var mnemonic = "april safe door receive motion search large cherry divide way online bird";

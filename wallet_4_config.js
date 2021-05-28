@@ -1,1 +1,1 @@
-var mnemonic = "useless that face dress attract wasp clown task fold seminar hero squeeze";
+var mnemonic = "hill menu modify typical purse start bag obvious economy inspire shed design";

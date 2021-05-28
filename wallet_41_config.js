@@ -1,1 +1,1 @@
-var mnemonic = "ball current situate amount slice else funny slide renew solution setup circle";
+var mnemonic = "faith decide bicycle choice cluster inflict author truck mobile logic ask stick";

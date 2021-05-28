@@ -1,1 +1,1 @@
-var mnemonic = "orphan fit flower fatigue smoke dawn cube sense expand trade hope find";
+var mnemonic = "tortoise lottery issue snow eye base either bounce fish voyage crack topic";

@@ -1,1 +1,1 @@
-var mnemonic = "scene rifle chapter science negative apple loop interest universe maximum seminar auction";
+var mnemonic = "click east chunk liar drift display toilet glove father second silly near";

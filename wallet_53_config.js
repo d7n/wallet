@@ -1,1 +1,1 @@
-var mnemonic = "image scale lawsuit unknown goat brisk enjoy party sniff atom awful friend";
+var mnemonic = "town snap dignity feel lazy calm leaf extra abstract comic open author";

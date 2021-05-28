@@ -1,1 +1,1 @@
-var mnemonic = "summer parade follow decide client curtain coach invite inform jacket gym success";
+var mnemonic = "timber oxygen siege supreme stand soul rocket ridge roast feature summer rain";

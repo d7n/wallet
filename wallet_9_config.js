@@ -1,1 +1,1 @@
-var mnemonic = "ostrich age ranch hub acid glow cement autumn mesh dove muscle else";
+var mnemonic = "ladder okay lift joke tenant shadow stool exotic couple develop level special";

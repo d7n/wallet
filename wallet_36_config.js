@@ -1,1 +1,1 @@
-var mnemonic = "castle jelly admit car unknown slam legend smile measure shallow convince album";
+var mnemonic = "country tissue tiny chef wink seminar patrol elegant oppose provide torch various";

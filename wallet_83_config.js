@@ -1,1 +1,1 @@
-var mnemonic = "weird silver else vacant champion field miracle tissue raven blue that celery";
+var mnemonic = "panel scheme afraid remain young rural start engine over sheriff enlist ticket";

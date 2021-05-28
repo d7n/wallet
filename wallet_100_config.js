@@ -1,1 +1,1 @@
-var mnemonic = "priority glue save bundle entire right economy clown donate muffin million parrot";
+var mnemonic = "require shy motion soap pair approve alien water corn bicycle awake gold";

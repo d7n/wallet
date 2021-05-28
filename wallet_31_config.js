@@ -1,1 +1,1 @@
-var mnemonic = "they marble toss slam velvet zoo evoke call depart pink smooth narrow";
+var mnemonic = "permit tomorrow rival toe horn course drift cruel turn leopard twin jaguar";

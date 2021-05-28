@@ -1,1 +1,1 @@
-var mnemonic = "alley catalog aunt surge magnet industry detail rebel build strike decrease wagon";
+var mnemonic = "flush soon pave sponsor age elbow way fiber birth satoshi help oil";

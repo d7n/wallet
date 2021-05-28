@@ -1,1 +1,1 @@
-var mnemonic = "shop team ankle always cinnamon clock fuel price hobby term void inject";
+var mnemonic = "sadness scene circle garbage loud audit retire middle total oblige shallow only";
