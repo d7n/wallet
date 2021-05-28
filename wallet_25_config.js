@@ -1,1 +1,1 @@
-var mnemonic = "spot price left section wheat right say refuse canal current pupil select";
+var mnemonic = "scrap captain thought jewel lumber cause rabbit someone crane stuff sauce diesel";

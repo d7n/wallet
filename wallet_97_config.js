@@ -1,1 +1,1 @@
-var mnemonic = "dove cable robust tonight hire skirt hour rice remember yellow sick mix";
+var mnemonic = "about library tortoise vague denial bunker pear entire spray success chronic such";

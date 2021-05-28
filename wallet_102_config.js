@@ -1,1 +1,1 @@
-var mnemonic = "entry success hollow shove oppose engine buyer quit diagram vintage become step";
+var mnemonic = "easy leopard visa across code other absurd sauce toward snack decorate mango";

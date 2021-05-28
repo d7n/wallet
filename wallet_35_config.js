@@ -1,1 +1,1 @@
-var mnemonic = "radar call planet oval cat buddy cluster toast end cliff trash again";
+var mnemonic = "inject fatal exact service camera logic black lesson predict embark loud physical";

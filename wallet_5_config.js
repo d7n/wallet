@@ -1,1 +1,1 @@
-var mnemonic = "praise erode exercise amateur donor shoulder oval enhance voice fever vocal gold";
+var mnemonic = "age frost warm close success popular knock stay frozen payment depart bicycle";

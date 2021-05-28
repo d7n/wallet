@@ -1,1 +1,1 @@
-var mnemonic = "history pencil reject school victory enforce border inform tower fit net forget";
+var mnemonic = "miracle era dignity virtual vehicle lake upset discover inside miss leisure clap";

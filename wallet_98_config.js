@@ -1,1 +1,1 @@
-var mnemonic = "shift pilot april prepare wire puzzle mercy tiny walk subject country drive";
+var mnemonic = "seminar turtle burden wise submit camp able prison brief ginger lava card";

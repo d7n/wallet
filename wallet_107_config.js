@@ -1,1 +1,1 @@
-var mnemonic = "purity clever great illegal copy pretty action team grape lunar grief print";
+var mnemonic = "gate panda slab pilot garlic window potato jump tail account business police";

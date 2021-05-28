@@ -1,1 +1,1 @@
-var mnemonic = "voyage glory tank master chicken wheel crush secret come priority once truly";
+var mnemonic = "chase yellow matrix comic beach material ability dutch congress skate hazard mad";

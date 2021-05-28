@@ -1,1 +1,1 @@
-var mnemonic = "pull mesh bridge able bunker denial rocket action wealth fat day choice";
+var mnemonic = "brand rail ride fat sell critic chapter scissors like velvet put lecture";

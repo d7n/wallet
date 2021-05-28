@@ -1,1 +1,1 @@
-var mnemonic = "february capital raise provide ankle mule matter immense change fold idle salute";
+var mnemonic = "there doll enemy square ceiling eagle forest rocket school denial dance equip";

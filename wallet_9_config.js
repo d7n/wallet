@@ -1,1 +1,1 @@
-var mnemonic = "arrange page text business wine board master rent update match toddler gold";
+var mnemonic = "dial language rigid detect local order what decide liar light keen summer";

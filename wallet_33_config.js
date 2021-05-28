@@ -1,1 +1,1 @@
-var mnemonic = "jazz wreck rival supply better shiver year feed have page already such";
+var mnemonic = "color genuine minute pyramid rate accuse federal alone beyond slow wide welcome";

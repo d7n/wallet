@@ -1,1 +1,1 @@
-var mnemonic = "elder orchard immense grit dial word spike battle pigeon squirrel medal style";
+var mnemonic = "nut acquire cloud cause tent saddle loud tenant august pledge call year";

@@ -1,1 +1,1 @@
-var mnemonic = "hard pencil law conduct glance thrive proud nose leisure song excess elephant";
+var mnemonic = "hidden veteran powder antenna dynamic edit charge uncle want fly choose true";

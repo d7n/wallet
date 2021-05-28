@@ -1,1 +1,1 @@
-var mnemonic = "come digital old unusual bright isolate duck fever section planet arch material";
+var mnemonic = "phrase endless firm climb patrol punch toy spray kitchen direct miss cherry";

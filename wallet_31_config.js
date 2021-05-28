@@ -1,1 +1,1 @@
-var mnemonic = "wonder tooth please luggage degree guard below car curve crack burger biology";
+var mnemonic = "jacket base electric bacon impact fashion man bunker forest update cargo round";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle border chase party attitude lawsuit view desert uphold slot powder similar";
+var mnemonic = "garbage memory come equip toe damp repeat dismiss saddle marine minimum wife";

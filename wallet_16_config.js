@@ -1,1 +1,1 @@
-var mnemonic = "then tragic eagle elegant venue police phone stable cup aisle typical ozone";
+var mnemonic = "pelican normal lunar lizard festival napkin hungry ridge develop hen fossil account";

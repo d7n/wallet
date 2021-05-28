@@ -1,1 +1,1 @@
-var mnemonic = "entire treat oxygen gym cushion govern roast matter people guitar initial can";
+var mnemonic = "cry door outer tobacco bring flower forward crouch correct approve vintage edge";

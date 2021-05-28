@@ -1,1 +1,1 @@
-var mnemonic = "game theme burger jealous era element later essence inject panda hazard response";
+var mnemonic = "draw dinner fun rain tuna custom wreck domain royal detail ice castle";

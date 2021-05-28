@@ -1,1 +1,1 @@
-var mnemonic = "across float ship edit acquire kit silly naive near wagon travel citizen";
+var mnemonic = "museum first certain game leader inmate trouble charge lamp smooth nut avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "slow cash image define actor kite advice mixed thought book entry inform";
+var mnemonic = "frequent injury safe denial radio thank unfold tiny enough settle knife shiver";

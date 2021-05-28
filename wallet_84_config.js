@@ -1,1 +1,1 @@
-var mnemonic = "change session runway nice upgrade brick art educate unhappy utility pen cluster";
+var mnemonic = "resemble border doll situate defense someone expand update useful tattoo top super";

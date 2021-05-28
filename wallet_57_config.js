@@ -1,1 +1,1 @@
-var mnemonic = "govern rail foster vendor outside arrive mushroom school label cloud wife tiny";
+var mnemonic = "honey hint angry post legal oven attend metal truck loud bargain apart";

@@ -1,1 +1,1 @@
-var mnemonic = "save road usage above churn effort gap hungry slush fruit donate voice";
+var mnemonic = "calm dog flee chest whisper lift drip dawn hurdle catch fatal foam";

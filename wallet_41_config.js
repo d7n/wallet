@@ -1,1 +1,1 @@
-var mnemonic = "myth nasty act tumble inform kick scorpion leaf tourist dignity lonely expand";
+var mnemonic = "scissors salute awesome sister attract review flush pond access wood maid cake";

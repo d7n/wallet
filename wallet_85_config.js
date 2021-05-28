@@ -1,1 +1,1 @@
-var mnemonic = "note ketchup decrease limb nominee fluid sister laundry quiz build theory dry";
+var mnemonic = "typical denial shadow dash ripple dinosaur analyst silk vintage source dignity stable";

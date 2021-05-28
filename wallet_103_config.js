@@ -1,1 +1,1 @@
-var mnemonic = "involve hedgehog advance hill list move skate unveil goose rebel radar invest";
+var mnemonic = "shrug fever skate essay tail this feel ill bar same track account";

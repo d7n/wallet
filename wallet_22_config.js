@@ -1,1 +1,1 @@
-var mnemonic = "cute oil nice sail obtain palm swear warfare belt royal fiber pepper";
+var mnemonic = "custom suspect pulse uphold case point alarm around eager bridge angry please";

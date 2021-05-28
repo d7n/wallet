@@ -1,1 +1,1 @@
-var mnemonic = "coyote estate tattoo gauge session trap add swallow feel dawn glove master";
+var mnemonic = "rifle blood cheap stuff spring tip job expire flock close atom young";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber disagree other frozen olive public profit lecture number addict spy cement";
+var mnemonic = "wealth era vapor super situate piano flight cereal nephew unlock twice outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "security margin submit brush icon where twin thumb cage fatigue upper unaware";
+var mnemonic = "slim twist nurse inch ecology return immune olympic tuition pole used invest";

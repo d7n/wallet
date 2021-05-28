@@ -1,1 +1,1 @@
-var mnemonic = "guitar pause enemy enter salon mandate pretty inside excuse chaos various pulp";
+var mnemonic = "merge weather hat dress misery salmon abstract demise drum differ life tool";

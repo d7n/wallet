@@ -1,1 +1,1 @@
-var mnemonic = "flavor august shadow vivid inflict ostrich avocado train oil pill place inquiry";
+var mnemonic = "desert save goddess retire split meat aerobic october suffer brand lesson drip";

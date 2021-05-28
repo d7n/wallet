@@ -1,1 +1,1 @@
-var mnemonic = "rice board total uphold glow toddler youth shoot give throw dentist ocean";
+var mnemonic = "winner lab custom prevent crane shop drift program silly ripple puzzle job";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon object tragic sniff prosper tonight run taxi clown battle original tooth";
+var mnemonic = "fat unaware ensure indicate little element crazy antique buzz reduce saddle quick";

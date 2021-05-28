@@ -1,1 +1,1 @@
-var mnemonic = "basic shrug enrich receive wink reunion host pumpkin ozone glad joke illegal";
+var mnemonic = "cook loud empty pool harsh casual alter dial youth act wash hour";

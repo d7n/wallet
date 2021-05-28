@@ -1,1 +1,1 @@
-var mnemonic = "wire symptom athlete never wheel poem rent camp pudding park fabric fault";
+var mnemonic = "gadget long setup pool flip notice crater reunion magnet comfort promote cinnamon";

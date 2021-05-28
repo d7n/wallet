@@ -1,1 +1,1 @@
-var mnemonic = "sock disagree genius question window crash donkey gospel mouse stay misery tennis";
+var mnemonic = "maximum limb practice fiber engage gasp frame clock spike small stable lottery";

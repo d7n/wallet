@@ -1,1 +1,1 @@
-var mnemonic = "spoon occur position basket lunar what decrease action joy soccer depth thunder";
+var mnemonic = "wool wage cruel crystal wire access style detail treat work cousin rib";

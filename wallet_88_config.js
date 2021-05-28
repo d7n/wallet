@@ -1,1 +1,1 @@
-var mnemonic = "tissue owner guide quarter zero illness try goddess road poem close field";
+var mnemonic = "rule cactus bless dinosaur legend vocal license rail trial cereal drip fine";

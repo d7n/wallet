@@ -1,1 +1,1 @@
-var mnemonic = "reform filter copy faith educate album pulp laundry tackle island pipe will";
+var mnemonic = "knock other hill craft injury country purity fortune pink expose enjoy gold";

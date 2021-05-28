@@ -1,1 +1,1 @@
-var mnemonic = "pave chapter state race physical middle lawn garlic vendor ritual universe hurry";
+var mnemonic = "chest crime yard silk mystery yard woman cake scorpion puppy seat rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "silly evidence clap clean essence spray life wise excuse fun journey slot";
+var mnemonic = "swallow clock venture monkey lesson stick chest another bridge ozone region tongue";

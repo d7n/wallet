@@ -1,1 +1,1 @@
-var mnemonic = "ostrich icon entry bamboo like slim galaxy vague volume sponsor hamster happy";
+var mnemonic = "craft demand celery alter breeze inmate deer around civil shy promote announce";

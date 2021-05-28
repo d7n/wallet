@@ -1,1 +1,1 @@
-var mnemonic = "arch obscure spirit repeat unhappy vague arrest airport antenna embrace rifle sheriff";
+var mnemonic = "over rotate describe prevent pulp ignore agree problem spend sample cat rebuild";

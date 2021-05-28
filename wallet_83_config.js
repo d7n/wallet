@@ -1,1 +1,1 @@
-var mnemonic = "old improve renew snow clutch hamster reveal melt riot cement modify glance";
+var mnemonic = "fringe patrol bulb talk saddle horse supreme educate render enable height match";

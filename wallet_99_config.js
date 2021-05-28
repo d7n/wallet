@@ -1,1 +1,1 @@
-var mnemonic = "husband dawn attend wire indicate spoon black mobile cheese focus grocery van";
+var mnemonic = "dragon glimpse kid lion lizard rate task honey large airport abandon use";

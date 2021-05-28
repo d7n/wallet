@@ -1,1 +1,1 @@
-var mnemonic = "dignity plunge law usual choice swim foam illness direct quit humor milk";
+var mnemonic = "hotel jazz example truck surge actor crush exact narrow jewel arm retire";

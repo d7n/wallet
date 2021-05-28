@@ -1,1 +1,1 @@
-var mnemonic = "dune submit adapt stomach disagree replace reveal speed pulse loop office winter";
+var mnemonic = "mansion invest element point seminar foam myth define eternal always change second";

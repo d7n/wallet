@@ -1,1 +1,1 @@
-var mnemonic = "quiz town erosion artefact trend liar kitten wasp budget since provide about";
+var mnemonic = "shallow unit recall south decide crumble gate liquid fish please tip way";

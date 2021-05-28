@@ -1,1 +1,1 @@
-var mnemonic = "game crouch anxiety abuse april vessel bitter ugly furnace vacuum call chronic";
+var mnemonic = "play toward girl silk step now decline mixed impose cost couple endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "tank aware pluck suit process various turn empty infant switch canvas junior";
+var mnemonic = "flee stick spare fragile exact trumpet biology woman annual lab pottery leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol pizza number energy produce buzz denial trap obey select tomato monster";
+var mnemonic = "occur female gadget shaft dignity audit caution bid uniform soldier arch lava";

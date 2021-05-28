@@ -1,1 +1,1 @@
-var mnemonic = "ketchup illness talk success travel attend unfair fire noise ride potato this";
+var mnemonic = "physical galaxy train street share stand huge bridge gorilla find chest empower";

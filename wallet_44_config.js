@@ -1,1 +1,1 @@
-var mnemonic = "wet sibling oil lady library scatter curve like save select slow suspect";
+var mnemonic = "caught wrap morning expand seed nut dice solve obey tattoo reform scrap";

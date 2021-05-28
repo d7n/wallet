@@ -1,1 +1,1 @@
-var mnemonic = "recall angle odor cube view wolf prevent hazard journey dish sure staff";
+var mnemonic = "laptop salt luxury cluster mind invest father unusual ice web menu when";

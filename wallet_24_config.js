@@ -1,1 +1,1 @@
-var mnemonic = "hood uncle crucial chief giant left caution finger bus citizen output sniff";
+var mnemonic = "post patient party certain march mercy debris mobile candy fan tilt member";

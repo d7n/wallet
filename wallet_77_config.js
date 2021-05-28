@@ -1,1 +1,1 @@
-var mnemonic = "theme first plate badge author reward first useful mail usage day eight";
+var mnemonic = "wash rack until scorpion cousin erase side early expand atom sting scout";

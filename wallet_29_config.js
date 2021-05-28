@@ -1,1 +1,1 @@
-var mnemonic = "broken inch ticket ridge pride audit dwarf jelly mule flower picture idle";
+var mnemonic = "walk uniform harsh share under lake struggle flavor struggle person modify include";

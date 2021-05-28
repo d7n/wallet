@@ -1,1 +1,1 @@
-var mnemonic = "snow random alien edge annual response assume between tomorrow dry rifle cricket";
+var mnemonic = "oblige exotic holiday there shove seminar deposit place zoo solar gun desk";

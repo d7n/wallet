@@ -1,1 +1,1 @@
-var mnemonic = "soldier piano rack ancient swarm ten approve news steel squeeze now inquiry";
+var mnemonic = "level pipe ketchup access cool tragic soldier deputy mosquito evidence cave firm";

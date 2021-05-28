@@ -1,1 +1,1 @@
-var mnemonic = "rib exercise slow bracket tide body elegant method main that syrup about";
+var mnemonic = "swim ocean close middle heart doll layer rack harvest lyrics boy harvest";

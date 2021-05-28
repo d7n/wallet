@@ -1,1 +1,1 @@
-var mnemonic = "scan noble helmet together snow bread talk physical observe food february sort";
+var mnemonic = "exile visual polar wide same lady legal avoid couple charge two cruel";

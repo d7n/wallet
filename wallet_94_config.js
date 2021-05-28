@@ -1,1 +1,1 @@
-var mnemonic = "resource betray asset walk reveal control sentence depth sponsor crucial spend fire";
+var mnemonic = "attack upper night beach century subject aim sport proud there fix rare";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse heart annual trigger certain goose remember hurry repeat holiday ugly muscle";
+var mnemonic = "kidney foot wasp jungle faith shove chimney sword design fame slice situate";

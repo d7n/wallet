@@ -1,1 +1,1 @@
-var mnemonic = "lake decrease also order detail maple embody allow tray cannon gasp ring";
+var mnemonic = "still exotic fabric slice kingdom forget start spoon sorry ramp car brave";

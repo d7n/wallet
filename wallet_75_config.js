@@ -1,1 +1,1 @@
-var mnemonic = "board idea mansion canvas winner trade stuff spirit antenna burst fitness pepper";
+var mnemonic = "scheme dog unable episode gospel raven hope fun ritual air repair avocado";

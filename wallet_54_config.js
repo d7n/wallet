@@ -1,1 +1,1 @@
-var mnemonic = "order wine bone address capable mention enter clump into ranch boy present";
+var mnemonic = "calm april sell trumpet initial mountain clever quality lucky same analyst warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "order arch panic wait across birth squeeze clip crunch approve cause robust";
+var mnemonic = "artist garden often top visual wild more option bid thrive title blade";

@@ -1,1 +1,1 @@
-var mnemonic = "party vibrant drill prepare verify nature someone produce table flight deposit illness";
+var mnemonic = "horse siren enough pelican need orchard improve profit multiply traffic jelly list";

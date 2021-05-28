@@ -1,1 +1,1 @@
-var mnemonic = "meat appear crater child tooth curve civil toast pulse proof bring hat";
+var mnemonic = "chase term candy spray six panel travel panther orchard immense toast wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal movie island decline parade chicken deny find element draft fame surge";
+var mnemonic = "rifle century endorse old nothing random tower pizza vicious orphan thank kitten";

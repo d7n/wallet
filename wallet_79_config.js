@@ -1,1 +1,1 @@
-var mnemonic = "ice flight destroy asthma crystal dwarf good share balcony eagle topple gate";
+var mnemonic = "meat click case sort merit thumb crush near deer mesh depart apology";

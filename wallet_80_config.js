@@ -1,1 +1,1 @@
-var mnemonic = "forum ten sadness inflict dry hockey olive amazing image size among mirror";
+var mnemonic = "patient baby syrup fever shift vanish gas uphold bleak broken merge business";

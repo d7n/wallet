@@ -1,1 +1,1 @@
-var mnemonic = "catch hybrid mention crazy gap dust picture fit asset tank reflect matter";
+var mnemonic = "bright various debate cement very tomato table core edit dutch brass stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "foam host identify assist orbit segment cattle wild yellow save inherit recycle";
+var mnemonic = "chicken winner risk upset breeze upgrade term machine ordinary exist truck pool";

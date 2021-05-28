@@ -1,1 +1,1 @@
-var mnemonic = "puppy exchange wall choice disease female rhythm bullet remind sign target polar";
+var mnemonic = "citizen soldier exercise venture game unfair fat invite spell episode talk nice";

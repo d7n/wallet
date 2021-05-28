@@ -1,1 +1,1 @@
-var mnemonic = "fancy stick pole pretty assist gravity inside ribbon wing shaft song loud";
+var mnemonic = "scout before problem price amazing slam marble trust major fire review praise";

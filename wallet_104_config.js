@@ -1,1 +1,1 @@
-var mnemonic = "bunker beauty plastic increase critic forest horn wild monster warrior story spike";
+var mnemonic = "praise make mandate faculty easy sauce oppose marine finger heavy trick situate";

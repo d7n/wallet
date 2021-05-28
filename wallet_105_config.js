@@ -1,1 +1,1 @@
-var mnemonic = "diagram volume amount language narrow soul crime entire bullet dress always found";
+var mnemonic = "shield pact time already sugar burden quiz judge reason obtain ghost you";

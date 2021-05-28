@@ -1,1 +1,1 @@
-var mnemonic = "curtain wolf dragon jazz under minor spin notice loyal dwarf lock media";
+var mnemonic = "genius real wedding mosquito finish crime discover talk regret force ensure lizard";

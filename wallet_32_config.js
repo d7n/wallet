@@ -1,1 +1,1 @@
-var mnemonic = "gift since uphold carpet what confirm arrest supreme special unusual grain observe";
+var mnemonic = "flat assault rough august knock market jacket sand youth clown brick stand";

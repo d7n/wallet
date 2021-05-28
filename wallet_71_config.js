@@ -1,1 +1,1 @@
-var mnemonic = "absorb aerobic corn produce actress win system elder destroy divorce fence inhale";
+var mnemonic = "scrap supreme minor road day grit grunt depart duck actor vapor chaos";

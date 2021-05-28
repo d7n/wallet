@@ -1,1 +1,1 @@
-var mnemonic = "wrap setup music flag link merit label smile armor senior polar unveil";
+var mnemonic = "patient sheriff before market diet beyond armor scrap pride cinnamon you talent";

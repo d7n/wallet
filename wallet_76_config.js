@@ -1,1 +1,1 @@
-var mnemonic = "unknown engage surge design answer feel ramp used ready entire amount door";
+var mnemonic = "day parent sound angle afraid major swarm number spatial hub conduct glove";

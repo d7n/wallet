@@ -1,1 +1,1 @@
-var mnemonic = "they wreck catalog lake february drum eye web fee trash toddler poem";
+var mnemonic = "gym gravity digital walnut slam group doll seat satisfy company noodle feel";

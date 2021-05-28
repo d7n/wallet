@@ -1,1 +1,1 @@
-var mnemonic = "whip blush south quit sunny mouse anchor job remain sell embrace crucial";
+var mnemonic = "cycle scrap upper peanut shoot inflict clog correct federal until sing rude";

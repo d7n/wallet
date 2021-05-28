@@ -1,1 +1,1 @@
-var mnemonic = "apple wait state country lesson junior wisdom neglect height shell hurdle road";
+var mnemonic = "earn grain electric dignity custom meat session achieve much cruel quantum liquid";

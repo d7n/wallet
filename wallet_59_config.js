@@ -1,1 +1,1 @@
-var mnemonic = "absurd ribbon always illegal have electric core nose test steak toe rigid";
+var mnemonic = "milk clog modify stage because dream walnut shed nerve autumn girl material";

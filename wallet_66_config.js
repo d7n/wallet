@@ -1,1 +1,1 @@
-var mnemonic = "alcohol napkin very snake today wash nothing rail rigid balcony grain slot";
+var mnemonic = "salon evoke true slab rely duck effort wedding vacant famous forward gain";

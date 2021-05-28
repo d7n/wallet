@@ -1,1 +1,1 @@
-var mnemonic = "mirror animal penalty forum indoor hurt real puppy pitch pull soul tell";
+var mnemonic = "spider reopen repeat often elite either lazy awkward edge sword region grant";
