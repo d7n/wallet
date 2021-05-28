@@ -1,1 +1,1 @@
-var mnemonic = "foot short buddy goddess lava million mass oblige know recipe vehicle game";
+var mnemonic = "add exclude tide reason venue cabin mule fuel warm north mountain hip";

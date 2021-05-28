@@ -1,1 +1,1 @@
-var mnemonic = "damp audit rare act file conduct north cross destroy canyon member script";
+var mnemonic = "elbow bacon abuse oxygen patrol search dolphin day clever bunker biology filter";

@@ -1,1 +1,1 @@
-var mnemonic = "damage parade secret solar glass naive mercy exhaust glide bitter bamboo twenty";
+var mnemonic = "icon define curtain ahead lecture cattle economy sorry arrive force forest trial";

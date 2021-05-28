@@ -1,1 +1,1 @@
-var mnemonic = "system sugar like radar fog elite voyage liquid firm liberty angle twelve";
+var mnemonic = "hover giggle siege spread rookie oil opera tiny mail fall mercy truck";

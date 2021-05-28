@@ -1,1 +1,1 @@
-var mnemonic = "rug census case enhance crack hen alien fluid chat minor option mimic";
+var mnemonic = "dinosaur file staff census meadow lounge manual rely uphold toast deputy afford";

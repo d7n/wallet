@@ -1,1 +1,1 @@
-var mnemonic = "panic stand vanish update raccoon answer frozen jeans suspect sing allow joy";
+var mnemonic = "budget blossom report bid shock gesture quick shed effort rally assist biology";

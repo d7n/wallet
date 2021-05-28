@@ -1,1 +1,1 @@
-var mnemonic = "novel toss can afraid desk hole trick crunch coffee sunset gaze basic";
+var mnemonic = "enjoy hammer welcome awkward wine estate detect donate hen gap odor stable";

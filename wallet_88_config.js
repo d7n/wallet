@@ -1,1 +1,1 @@
-var mnemonic = "dilemma top consider sand gold leave census lucky scatter all network bachelor";
+var mnemonic = "rabbit sell ugly seminar stumble keep manage duck inflict loud differ banana";

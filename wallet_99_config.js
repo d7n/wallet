@@ -1,1 +1,1 @@
-var mnemonic = "present kit edge trouble device sudden wreck pink daughter kind diamond cruel";
+var mnemonic = "fame six hammer beef type mix comfort tiger gossip tornado morning finish";

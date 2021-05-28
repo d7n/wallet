@@ -1,1 +1,1 @@
-var mnemonic = "farm shoot settle describe wife trade ship shop prison squeeze small junk";
+var mnemonic = "supply nasty rule rose gap frost work roast opera hurry size clarify";

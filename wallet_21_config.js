@@ -1,1 +1,1 @@
-var mnemonic = "tribe void crane uncle torch reduce immense enroll caution rich total dance";
+var mnemonic = "erosion virtual dune cherry vicious clip pulp consider main vote source seven";

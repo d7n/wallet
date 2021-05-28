@@ -1,1 +1,1 @@
-var mnemonic = "torch rookie where fruit feel annual near guitar trial moment vanish curious";
+var mnemonic = "caution rail prize thumb east cement leopard spend suggest carpet visa oxygen";

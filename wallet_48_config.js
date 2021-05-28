@@ -1,1 +1,1 @@
-var mnemonic = "improve happy month palace loop team random cricket behave cable able tube";
+var mnemonic = "middle apple useless vacuum disagree across canoe erupt execute off bike visual";

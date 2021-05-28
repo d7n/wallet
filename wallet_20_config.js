@@ -1,1 +1,1 @@
-var mnemonic = "code pioneer heart element panther hold police asthma prize sunny cotton cloud";
+var mnemonic = "lemon father trick stuff foster cable civil save north song uncle verify";

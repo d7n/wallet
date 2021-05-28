@@ -1,1 +1,1 @@
-var mnemonic = "parrot current review weird side topple crunch minor addict drip segment spend";
+var mnemonic = "ticket joy side leave general estate verify sail keep leaf share night";

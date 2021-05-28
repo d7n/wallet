@@ -1,1 +1,1 @@
-var mnemonic = "lumber agree organ inmate rib shoulder bone hurt pony sketch confirm quick";
+var mnemonic = "image endless sort liquid degree street retire august fade trick figure own";

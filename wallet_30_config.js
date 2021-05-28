@@ -1,1 +1,1 @@
-var mnemonic = "dismiss slice wedding unhappy fragile bubble doll medal erupt tortoise expand material";
+var mnemonic = "phone typical armor burst bitter mystery orbit harbor ice modify humble stomach";

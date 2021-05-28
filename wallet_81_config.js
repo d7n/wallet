@@ -1,1 +1,1 @@
-var mnemonic = "alien illness merit owner soap marble spell beauty squirrel lobster scene country";
+var mnemonic = "toast zone indoor update welcome flight sketch hedgehog soccer web abandon letter";

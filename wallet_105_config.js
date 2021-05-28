@@ -1,1 +1,1 @@
-var mnemonic = "affair drop regret van jacket bring tennis prefer reflect nation tribe taxi";
+var mnemonic = "nest sheriff balance universe shy trade come mouse goat curtain carbon auto";

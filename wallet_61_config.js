@@ -1,1 +1,1 @@
-var mnemonic = "virtual picture alpha member heart lunar slush salmon fetch ritual ozone swarm";
+var mnemonic = "wheel kite guilt symbol quote doll canyon morning doll ship utility afraid";

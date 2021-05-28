@@ -1,1 +1,1 @@
-var mnemonic = "bike aisle bar shoulder lottery health also affair decline image lobster old";
+var mnemonic = "world craft grape wrap pattern fortune orchard choice between noodle material agent";

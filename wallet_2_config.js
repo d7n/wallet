@@ -1,1 +1,1 @@
-var mnemonic = "boss ugly rice custom cross extra sweet quantum dad year ranch insect";
+var mnemonic = "hub crime view evidence surround dove daring mass cricket evoke rally split";

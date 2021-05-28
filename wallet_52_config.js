@@ -1,1 +1,1 @@
-var mnemonic = "grid salute gold rug wrap candy dog verify gorilla copper depart attend";
+var mnemonic = "oppose grocery trouble virtual waste phrase health ship slender olympic mind reflect";

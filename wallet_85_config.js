@@ -1,1 +1,1 @@
-var mnemonic = "shadow share elevator faint vehicle collect flag flip lyrics riot cigar kitten";
+var mnemonic = "once jazz diesel live fiscal lonely idea thunder elbow clarify morning typical";

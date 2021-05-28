@@ -1,1 +1,1 @@
-var mnemonic = "fee picture reward dress hidden cheap wave close citizen emotion swarm lobster";
+var mnemonic = "voyage bean jeans process uphold enroll cactus giraffe artwork tiny hurt velvet";

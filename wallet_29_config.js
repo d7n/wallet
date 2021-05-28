@@ -1,1 +1,1 @@
-var mnemonic = "machine basic north letter absent stuff wolf eager elephant beyond alien brass";
+var mnemonic = "danger news clever setup spider foam armed exchange monitor vessel tiny cave";

@@ -1,1 +1,1 @@
-var mnemonic = "ice agree decrease mechanic confirm foil shrimp consider about stamp bag brief";
+var mnemonic = "shadow vanish mercy satisfy prefer seminar cattle approve topic piece north endorse";

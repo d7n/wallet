@@ -1,1 +1,1 @@
-var mnemonic = "shove elegant now pulp table culture donate brown bicycle crack wrap real";
+var mnemonic = "traffic trophy ridge dilemma comic salon planet squirrel smoke slender unfold meadow";

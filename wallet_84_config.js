@@ -1,1 +1,1 @@
-var mnemonic = "offer pond pigeon agree sibling merit sign peace staff head build voice";
+var mnemonic = "kite time pet father review lawn summer fiction list tissue short siege";

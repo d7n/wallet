@@ -1,1 +1,1 @@
-var mnemonic = "motor ginger join van lemon globe share math front amount say teach";
+var mnemonic = "wild brush dove siege pool switch month bleak improve lady small kitten";

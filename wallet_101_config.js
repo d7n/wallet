@@ -1,1 +1,1 @@
-var mnemonic = "buyer upon peace foster judge tree mosquito check mechanic wheat paper high";
+var mnemonic = "zone post release coin enhance woman fitness swamp cluster success flip virus";

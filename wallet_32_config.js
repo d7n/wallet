@@ -1,1 +1,1 @@
-var mnemonic = "save harbor trial involve surface love gospel style ignore office able car";
+var mnemonic = "wagon always regular mammal parade around patch once arrange craft bargain ancient";

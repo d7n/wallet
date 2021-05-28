@@ -1,1 +1,1 @@
-var mnemonic = "gold juice jump alley blade hub differ minor drum tortoise cover page";
+var mnemonic = "sniff fee auto wagon rack shallow energy venture exit truck bounce tribe";

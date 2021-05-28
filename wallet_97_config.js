@@ -1,1 +1,1 @@
-var mnemonic = "fantasy pottery depart mushroom cushion explain glue load surface better thing bulb";
+var mnemonic = "mass cricket item mosquito goddess wish merry mystery maid comic outer weasel";

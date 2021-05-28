@@ -1,1 +1,1 @@
-var mnemonic = "play focus dice food viable pet toast ski salute drum benefit find";
+var mnemonic = "inject want intact success damage wire stable dial creek gospel kiwi print";

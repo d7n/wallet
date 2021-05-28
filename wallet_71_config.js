@@ -1,1 +1,1 @@
-var mnemonic = "pool produce minute chat helmet empty decorate orphan trash host grain exist";
+var mnemonic = "keen immense pyramid badge slot human face coin vivid camera erosion eye";

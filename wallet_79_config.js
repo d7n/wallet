@@ -1,1 +1,1 @@
-var mnemonic = "shuffle must canyon very expose elephant program sign attend enhance guitar punch";
+var mnemonic = "main secret mirror toddler grain tree begin ghost salt thought rescue project";

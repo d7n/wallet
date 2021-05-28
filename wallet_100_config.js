@@ -1,1 +1,1 @@
-var mnemonic = "fly total spy disease jungle solar expand dumb sell prepare blouse property";
+var mnemonic = "educate infant december actual bulk message remain label leader ordinary famous sorry";

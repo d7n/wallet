@@ -1,1 +1,1 @@
-var mnemonic = "diet idle spread inform stable illness border hour title oblige absurd dragon";
+var mnemonic = "logic crouch danger eye air virtual decrease spice wall urban dizzy action";

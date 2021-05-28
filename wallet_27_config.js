@@ -1,1 +1,1 @@
-var mnemonic = "humble curious ladder all physical become lab wink tool ketchup cry pencil";
+var mnemonic = "divert duck merry broom erupt base tunnel load enjoy garbage dinosaur ready";

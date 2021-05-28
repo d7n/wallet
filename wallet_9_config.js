@@ -1,1 +1,1 @@
-var mnemonic = "veteran peace stamp upper mass position desert hybrid clock dress expose round";
+var mnemonic = "crater priority buddy wife viable regular volcano visa actress helmet stumble play";

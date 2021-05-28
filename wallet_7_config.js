@@ -1,1 +1,1 @@
-var mnemonic = "caution spare economy raise box save march hope mechanic vanish master cargo";
+var mnemonic = "sister tribe asthma order client truck cruise shoot absent injury region dinosaur";

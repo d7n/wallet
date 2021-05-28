@@ -1,1 +1,1 @@
-var mnemonic = "spend eight ancient used veteran hair aisle angle illegal crane sell layer";
+var mnemonic = "armor enrich loan sister evolve phone indoor employ muffin taste garbage cannon";

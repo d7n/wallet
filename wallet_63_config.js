@@ -1,1 +1,1 @@
-var mnemonic = "success divert canvas nose excite insect this someone fox napkin scatter egg";
+var mnemonic = "pill bomb lecture vital remain mystery ridge sense alley juice tree stamp";

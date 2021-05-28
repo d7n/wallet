@@ -1,1 +1,1 @@
-var mnemonic = "remain knife behave eye soft liar bicycle liar mind much family execute";
+var mnemonic = "fashion grape front produce flock spread upgrade toy engine race reunion boring";

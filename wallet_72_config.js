@@ -1,1 +1,1 @@
-var mnemonic = "follow zero jacket sail liberty modify regular calm people unique meadow ice";
+var mnemonic = "carpet kiwi submit heart more crucial virus eager result bird hollow always";

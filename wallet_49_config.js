@@ -1,1 +1,1 @@
-var mnemonic = "science limit salt correct ticket such close test sentence buyer coach what";
+var mnemonic = "effort consider cable dial rule chuckle silly praise spoil cigar morning access";

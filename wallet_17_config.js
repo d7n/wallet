@@ -1,1 +1,1 @@
-var mnemonic = "flavor chunk off dish beyond bonus alter talent visual jewel seed machine";
+var mnemonic = "shallow jeans tool cry project script gain bottom idea erosion program orient";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple impact need license address cactus chunk clever inmate twelve start spray";
+var mnemonic = "identify season village dune high involve mouse rate profit breeze annual woman";

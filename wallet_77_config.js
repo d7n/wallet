@@ -1,1 +1,1 @@
-var mnemonic = "burger arctic swamp now report chronic mountain garlic blouse wife collect gorilla";
+var mnemonic = "egg coast behind swallow private rookie snake cherry sun buddy memory immune";

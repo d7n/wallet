@@ -1,1 +1,1 @@
-var mnemonic = "curious artefact erupt increase own curtain public spin chase issue velvet taste";
+var mnemonic = "nominee copper vanish front stumble unusual media dinosaur base unveil bonus manage";

@@ -1,1 +1,1 @@
-var mnemonic = "involve excite similar south raise street donkey moment arm outer employ demise";
+var mnemonic = "today regret potato pelican tiger firm obtain park kite shock slice blame";

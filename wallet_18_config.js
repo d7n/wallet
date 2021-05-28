@@ -1,1 +1,1 @@
-var mnemonic = "fish web welcome toddler alone critic main similar explain casino chunk culture";
+var mnemonic = "hat season hunt lawn suspect parrot nature proud swim mask lucky pool";

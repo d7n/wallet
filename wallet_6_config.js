@@ -1,1 +1,1 @@
-var mnemonic = "please bargain since tank base silver sand swim there square cage slim";
+var mnemonic = "great check drop oppose video gossip pizza collect kit dynamic clock thrive";

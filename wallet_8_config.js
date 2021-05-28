@@ -1,1 +1,1 @@
-var mnemonic = "motion leg butter such indicate add ivory cinnamon wait legend pond useful";
+var mnemonic = "raven ketchup excess grocery spoon island ask regret wear amateur dress sample";

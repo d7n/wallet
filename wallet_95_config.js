@@ -1,1 +1,1 @@
-var mnemonic = "suit common attend erosion six staff pulse reward antenna blue mosquito coffee";
+var mnemonic = "maple shrimp spatial bamboo now nest lonely slim cheap twenty bubble churn";

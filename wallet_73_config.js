@@ -1,1 +1,1 @@
-var mnemonic = "anxiety few feel skin deny lucky local bitter clown present rural unfold";
+var mnemonic = "champion purchase hundred drip double coin clump gospel scrub sea anger flash";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel guess luggage night duty safe dish name view nuclear monitor gasp";
+var mnemonic = "pair amazing pottery snack case void solid increase school tree siege stable";

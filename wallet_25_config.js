@@ -1,1 +1,1 @@
-var mnemonic = "cube weird profit exist poem speed cream fame major share shift blossom";
+var mnemonic = "wrap borrow tiny follow fatigue gain cute pink moral you balance piano";

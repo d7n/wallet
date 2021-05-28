@@ -1,1 +1,1 @@
-var mnemonic = "sketch more funny labor like outer bracket solid cave online fruit travel";
+var mnemonic = "kiss foot agent busy purity excess milk virtual toss flip coil south";

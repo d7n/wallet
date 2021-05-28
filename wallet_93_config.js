@@ -1,1 +1,1 @@
-var mnemonic = "please unfold cereal rookie patch rich flash dawn spirit crack episode place";
+var mnemonic = "boat spare buzz slim twelve scene member basket buzz shoe spell lake";

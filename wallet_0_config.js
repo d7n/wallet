@@ -1,1 +1,1 @@
-var mnemonic = "coast find upper tongue tattoo rally law fault girl antique track crash";
+var mnemonic = "remind lawn purity use among tomato extra estate domain first warfare beyond";

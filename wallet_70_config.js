@@ -1,1 +1,1 @@
-var mnemonic = "section brass force witness lift palace enrich law medal weapon manage spy";
+var mnemonic = "circle autumn write tumble eternal depth shy embrace elder error radar usual";

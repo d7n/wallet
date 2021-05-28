@@ -1,1 +1,1 @@
-var mnemonic = "genre token walnut come spin tip motion sort garment state million wish";
+var mnemonic = "talk settle measure nose trip raccoon diary solution dawn inch volume glory";

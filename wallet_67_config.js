@@ -1,1 +1,1 @@
-var mnemonic = "media purity chief slab future carry kid net picture tuna cereal bottom";
+var mnemonic = "local win foster child tragic relief anchor arch movie ignore pioneer garlic";

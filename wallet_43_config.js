@@ -1,1 +1,1 @@
-var mnemonic = "stage decide average key noise chalk acid maple duty source traffic october";
+var mnemonic = "example right rent exotic attend example fee various ten ethics two mutual";

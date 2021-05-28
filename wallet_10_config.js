@@ -1,1 +1,1 @@
-var mnemonic = "badge parade term clutch torch zone response rain oil course output tooth";
+var mnemonic = "labor more apple huge flower emotion donor snap wife crush dizzy announce";

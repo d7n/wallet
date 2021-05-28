@@ -1,1 +1,1 @@
-var mnemonic = "box clerk wheat actress brass chunk sunny edit switch actor purse lawsuit";
+var mnemonic = "obtain essence royal thrive figure senior fabric cousin version response neither group";

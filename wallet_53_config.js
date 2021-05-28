@@ -1,1 +1,1 @@
-var mnemonic = "pride clock fork list wash unfold renew agree flower general try else";
+var mnemonic = "blood wise busy protect tunnel screen wrap cattle minute picnic other time";

@@ -1,1 +1,1 @@
-var mnemonic = "junk move dolphin arrange humor fog enter carpet census spoon enact urban";
+var mnemonic = "exclude tumble crumble tornado vanish defense tube today time hobby inhale essence";

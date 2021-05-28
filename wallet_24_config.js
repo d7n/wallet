@@ -1,1 +1,1 @@
-var mnemonic = "diary alpha cushion initial goose remind vague vault mail hockey already develop";
+var mnemonic = "deputy hotel clog sister artist ethics refuse pull hidden knock soft weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "park jaguar item library spot few insane color rocket rich bulk wrist";
+var mnemonic = "current exotic culture lucky void wink hobby traffic inquiry identify wrist carbon";

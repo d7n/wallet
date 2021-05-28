@@ -1,1 +1,1 @@
-var mnemonic = "define emotion short tennis fee lounge edit neck year mosquito tissue oblige";
+var mnemonic = "vapor search record cement rely trend frost tide sniff inflict draw punch";

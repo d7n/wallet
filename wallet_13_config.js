@@ -1,1 +1,1 @@
-var mnemonic = "blue number few piano brief boil system crunch alter hotel middle eager";
+var mnemonic = "arrest alarm middle verify sheriff damage blame quit faculty warrior large where";

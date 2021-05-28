@@ -1,1 +1,1 @@
-var mnemonic = "path develop question honey chronic rotate theme oil around junk tattoo illness";
+var mnemonic = "width boy foster leader pencil case trip among judge cart stairs twist";

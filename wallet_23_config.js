@@ -1,1 +1,1 @@
-var mnemonic = "toy garbage general system raccoon jeans fame year rule wolf stool grant";
+var mnemonic = "champion web fall avocado soda gather digital tissue claw giant wasp local";

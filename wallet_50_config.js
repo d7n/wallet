@@ -1,1 +1,1 @@
-var mnemonic = "swift curious pull door hungry chunk desk exchange hope ask dune stock";
+var mnemonic = "cradle sample tail giggle gain burst escape carbon powder lizard own tiny";

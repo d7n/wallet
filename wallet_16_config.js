@@ -1,1 +1,1 @@
-var mnemonic = "melt shield chair announce rough unfold wheat execute since stone typical crystal";
+var mnemonic = "bone impulse concert adapt gap fat absurd circle often concert reveal bacon";

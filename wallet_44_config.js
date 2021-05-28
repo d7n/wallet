@@ -1,1 +1,1 @@
-var mnemonic = "course warrior wish panda mechanic cable number flame girl crunch allow menu";
+var mnemonic = "arctic chase volume valid ladder lyrics pause fly butter faint produce runway";

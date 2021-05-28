@@ -1,1 +1,1 @@
-var mnemonic = "crater risk artwork sphere lawn side forum business cruise then another clerk";
+var mnemonic = "safe choice fade twice garlic sun betray cradle luggage nothing ribbon primary";

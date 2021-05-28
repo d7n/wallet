@@ -1,1 +1,1 @@
-var mnemonic = "property novel salmon guide open glove monster repeat time maximum art excuse";
+var mnemonic = "truly turn print skull imitate double toward toilet merry census claim all";

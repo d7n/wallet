@@ -1,1 +1,1 @@
-var mnemonic = "stumble appear knock upgrade service electric tape cry mad vicious flight print";
+var mnemonic = "hour universe vault scale light power dog champion adult uphold debate stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "asset timber already ivory rent pave soldier emotion maximum side index upper";
+var mnemonic = "luxury render into glow crumble acid priority frame trend grief hospital planet";

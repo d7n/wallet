@@ -1,1 +1,1 @@
-var mnemonic = "album lesson street average lock betray liquid panther embrace above host crouch";
+var mnemonic = "lumber dynamic latin game park flee toe month save device debris credit";

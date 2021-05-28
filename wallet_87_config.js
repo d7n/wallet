@@ -1,1 +1,1 @@
-var mnemonic = "jacket assist organ fuel chuckle emerge crouch ahead result wear waste one";
+var mnemonic = "shadow trade detect divert cinnamon quick forum own subway educate wait indicate";

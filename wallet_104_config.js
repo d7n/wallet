@@ -1,1 +1,1 @@
-var mnemonic = "moral history speak project detect twenty clown history lobster jar drama assault";
+var mnemonic = "rack insane green magic goose until cave caution comic churn ice record";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric meat jar reject slice keep eager oppose embody plate lawn enough";
+var mnemonic = "any crash trip dismiss use enjoy oblige symbol initial abuse tiger twist";

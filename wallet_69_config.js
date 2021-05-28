@@ -1,1 +1,1 @@
-var mnemonic = "neither flower music coyote shove gym place nature start august direct symptom";
+var mnemonic = "during cash market enable perfect heavy paper chest belt grid poverty test";

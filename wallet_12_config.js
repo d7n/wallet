@@ -1,1 +1,1 @@
-var mnemonic = "tuition twin impact annual stage surge miracle skill liquid kiss margin apple";
+var mnemonic = "end bubble little month fox utility magnet toilet nose lunar cover produce";

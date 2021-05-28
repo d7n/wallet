@@ -1,1 +1,1 @@
-var mnemonic = "dutch come once neglect volume output quote mirror shrug mystery brick autumn";
+var mnemonic = "clog business bar total achieve income enlist proof squeeze chest primary blast";

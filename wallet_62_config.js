@@ -1,1 +1,1 @@
-var mnemonic = "extra figure valve omit toddler twenty wonder sunny admit into habit puppy";
+var mnemonic = "pact strategy frequent clinic whisper surround flavor choose arctic prevent face borrow";
