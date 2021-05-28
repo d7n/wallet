@@ -1,1 +1,1 @@
-var mnemonic = "raven ketchup excess grocery spoon island ask regret wear amateur dress sample";
+var mnemonic = "regular army draft idle you smoke best depart october injury twenty letter";

@@ -1,1 +1,1 @@
-var mnemonic = "today regret potato pelican tiger firm obtain park kite shock slice blame";
+var mnemonic = "slot grow sustain giant acquire trash multiply circle inherit wreck depart elephant";

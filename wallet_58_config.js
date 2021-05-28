@@ -1,1 +1,1 @@
-var mnemonic = "inject want intact success damage wire stable dial creek gospel kiwi print";
+var mnemonic = "rib antenna network insect trust moment game oval prosper entire happy magnet";

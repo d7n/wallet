@@ -1,1 +1,1 @@
-var mnemonic = "identify season village dune high involve mouse rate profit breeze annual woman";
+var mnemonic = "rural plug list cabbage unhappy ecology tissue nuclear fossil whip true broken";

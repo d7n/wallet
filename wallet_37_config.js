@@ -1,1 +1,1 @@
-var mnemonic = "ketchup diary economy lunar orbit high use cluster lottery extend fiscal satoshi";
+var mnemonic = "flash middle indicate learn erode day hazard exile boring door slight detect";

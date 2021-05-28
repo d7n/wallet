@@ -1,1 +1,1 @@
-var mnemonic = "rabbit sell ugly seminar stumble keep manage duck inflict loud differ banana";
+var mnemonic = "trap spike civil wage concert consider offer wish welcome egg write master";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain essence royal thrive figure senior fabric cousin version response neither group";
+var mnemonic = "ship tragic collect monster nice diamond rotate leaf disease viable buffalo pupil";

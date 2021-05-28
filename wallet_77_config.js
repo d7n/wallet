@@ -1,1 +1,1 @@
-var mnemonic = "egg coast behind swallow private rookie snake cherry sun buddy memory immune";
+var mnemonic = "garment embrace powder rubber frame feed jazz piano sister route chapter bicycle";

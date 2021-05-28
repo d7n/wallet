@@ -1,1 +1,1 @@
-var mnemonic = "hour universe vault scale light power dog champion adult uphold debate stuff";
+var mnemonic = "habit name end barrel grocery axis decline cram sphere grunt wine soda";

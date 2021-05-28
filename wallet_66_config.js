@@ -1,1 +1,1 @@
-var mnemonic = "talk settle measure nose trip raccoon diary solution dawn inch volume glory";
+var mnemonic = "drift analyst renew grit hire oxygen fox size feel orient enjoy bag";

@@ -1,1 +1,1 @@
-var mnemonic = "side tomorrow borrow creek where avocado mule degree lift silver mass rocket";
+var mnemonic = "feed inherit oxygen truth fiber tag detect fly harsh clock machine alarm";

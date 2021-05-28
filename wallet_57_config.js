@@ -1,1 +1,1 @@
-var mnemonic = "strategy decorate crystal recall talent method early immense chest gather plug bleak";
+var mnemonic = "address drop festival effort keen sure night auction about method twist tenant";

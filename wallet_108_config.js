@@ -1,1 +1,1 @@
-var mnemonic = "width boy foster leader pencil case trip among judge cart stairs twist";
+var mnemonic = "gown bench sample iron volume tobacco inherit expire before picnic gossip panel";

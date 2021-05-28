@@ -1,1 +1,1 @@
-var mnemonic = "source few moment bright apple small glare patch fever basket champion unhappy";
+var mnemonic = "color salon useful hunt gadget civil tragic soda lady scrap beach crack";

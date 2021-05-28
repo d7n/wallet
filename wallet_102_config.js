@@ -1,1 +1,1 @@
-var mnemonic = "camera whale dish choose senior disorder aware month swim tattoo oil brass";
+var mnemonic = "entry exhaust timber husband rather exercise pass senior rule equal nerve cluster";

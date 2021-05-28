@@ -1,1 +1,1 @@
-var mnemonic = "moral clap myself setup alley address industry still scissors gesture vital cricket";
+var mnemonic = "release claim slogan drum student trust visa floor bamboo family member ball";

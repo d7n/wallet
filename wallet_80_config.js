@@ -1,1 +1,1 @@
-var mnemonic = "fix ordinary fragile track install head awkward bench suffer bronze frozen hero";
+var mnemonic = "buzz tobacco wild square rain ripple asthma motor uphold because cloth horn";

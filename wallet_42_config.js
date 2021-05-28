@@ -1,1 +1,1 @@
-var mnemonic = "fashion grape front produce flock spread upgrade toy engine race reunion boring";
+var mnemonic = "trouble kitten velvet six modify fix napkin give mansion urban intact walk";

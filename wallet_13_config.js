@@ -1,1 +1,1 @@
-var mnemonic = "arrest alarm middle verify sheriff damage blame quit faculty warrior large where";
+var mnemonic = "entry chronic undo figure essay dial warfare nation cousin kite slot blind";

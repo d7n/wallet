@@ -1,1 +1,1 @@
-var mnemonic = "lumber dynamic latin game park flee toe month save device debris credit";
+var mnemonic = "this panel menu fury december hobby vault foil shrimp sing pumpkin popular";

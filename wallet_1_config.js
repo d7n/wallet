@@ -1,1 +1,1 @@
-var mnemonic = "armor enrich loan sister evolve phone indoor employ muffin taste garbage cannon";
+var mnemonic = "useless tape muscle top fit accident struggle pluck prison nature salmon assume";

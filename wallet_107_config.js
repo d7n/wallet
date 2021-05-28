@@ -1,1 +1,1 @@
-var mnemonic = "any crash trip dismiss use enjoy oblige symbol initial abuse tiger twist";
+var mnemonic = "pen deputy decorate old alcohol reflect void swear ocean broken voyage economy";

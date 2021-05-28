@@ -1,1 +1,1 @@
-var mnemonic = "circle autumn write tumble eternal depth shy embrace elder error radar usual";
+var mnemonic = "teach minor kit swarm pudding wealth laptop program meadow author interest promote";

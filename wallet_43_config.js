@@ -1,1 +1,1 @@
-var mnemonic = "example right rent exotic attend example fee various ten ethics two mutual";
+var mnemonic = "degree flame tide fold maze ecology opinion razor ticket illegal lottery pumpkin";

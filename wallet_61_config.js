@@ -1,1 +1,1 @@
-var mnemonic = "wheel kite guilt symbol quote doll canyon morning doll ship utility afraid";
+var mnemonic = "gas space sure brave aware head slide rookie work goddess snow hazard";

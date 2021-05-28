@@ -1,1 +1,1 @@
-var mnemonic = "nest sheriff balance universe shy trade come mouse goat curtain carbon auto";
+var mnemonic = "pulse list home pipe actress umbrella crack poverty cushion elite sausage street";

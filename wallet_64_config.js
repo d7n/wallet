@@ -1,1 +1,1 @@
-var mnemonic = "blood reform fossil spatial pitch slogan afford unknown session explain fish razor";
+var mnemonic = "excess taxi solution decorate faith certain knock wall plate edge inflict weekend";

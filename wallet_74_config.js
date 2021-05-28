@@ -1,1 +1,1 @@
-var mnemonic = "logic crouch danger eye air virtual decrease spice wall urban dizzy action";
+var mnemonic = "feed destroy twist thought swing rude swift sock anger square useless dirt";

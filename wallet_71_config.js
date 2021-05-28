@@ -1,1 +1,1 @@
-var mnemonic = "keen immense pyramid badge slot human face coin vivid camera erosion eye";
+var mnemonic = "calm devote seat empower ability rely nice border any cute museum connect";

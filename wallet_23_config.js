@@ -1,1 +1,1 @@
-var mnemonic = "champion web fall avocado soda gather digital tissue claw giant wasp local";
+var mnemonic = "foil before prevent history borrow brain check dry wasp aware endorse walnut";

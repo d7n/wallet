@@ -1,1 +1,1 @@
-var mnemonic = "icon define curtain ahead lecture cattle economy sorry arrive force forest trial";
+var mnemonic = "tomato allow hen pipe popular laugh lottery sail oven tragic sunny ride";

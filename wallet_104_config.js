@@ -1,1 +1,1 @@
-var mnemonic = "rack insane green magic goose until cave caution comic churn ice record";
+var mnemonic = "tribe income quick monitor teach random paddle frame census young deer fortune";

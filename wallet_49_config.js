@@ -1,1 +1,1 @@
-var mnemonic = "effort consider cable dial rule chuckle silly praise spoil cigar morning access";
+var mnemonic = "board vocal guilt current recipe twin topple slogan cereal simple roast palace";

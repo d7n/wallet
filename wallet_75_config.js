@@ -1,1 +1,1 @@
-var mnemonic = "lemon cost kitten seek fever giant husband program one card black throw";
+var mnemonic = "exercise misery dragon token heavy basic quick crime unusual inhale gasp say";

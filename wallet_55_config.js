@@ -1,1 +1,1 @@
-var mnemonic = "shaft below boss elder green salute brother rifle jaguar interest outer put";
+var mnemonic = "chair maze hidden define salute race pact music climb audit head prison";

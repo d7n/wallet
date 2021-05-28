@@ -1,1 +1,1 @@
-var mnemonic = "enjoy hammer welcome awkward wine estate detect donate hen gap odor stable";
+var mnemonic = "sweet slim chunk ladder supreme envelope garden soul mechanic talent split ladder";

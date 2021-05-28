@@ -1,1 +1,1 @@
-var mnemonic = "crater priority buddy wife viable regular volcano visa actress helmet stumble play";
+var mnemonic = "wrap able decorate family slogan industry undo disorder neutral deposit aspect ranch";

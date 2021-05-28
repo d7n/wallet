@@ -1,1 +1,1 @@
-var mnemonic = "win hedgehog moment zone review bitter cradle tower lucky tooth pact also";
+var mnemonic = "puppy often filter observe room comfort pigeon donkey innocent south decorate moon";

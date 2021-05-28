@@ -1,1 +1,1 @@
-var mnemonic = "kiss foot agent busy purity excess milk virtual toss flip coil south";
+var mnemonic = "salon orange drill book nation flash problem super glare home nasty primary";

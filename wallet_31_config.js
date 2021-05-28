@@ -1,1 +1,1 @@
-var mnemonic = "current exotic culture lucky void wink hobby traffic inquiry identify wrist carbon";
+var mnemonic = "narrow picture rough omit stumble puzzle lyrics library smart machine round return";

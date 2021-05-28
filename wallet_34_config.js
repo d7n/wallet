@@ -1,1 +1,1 @@
-var mnemonic = "supply nasty rule rose gap frost work roast opera hurry size clarify";
+var mnemonic = "machine casual bring giant walnut tongue million leg file happy issue enter";

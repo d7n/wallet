@@ -1,1 +1,1 @@
-var mnemonic = "cradle sample tail giggle gain burst escape carbon powder lizard own tiny";
+var mnemonic = "online trend resource sustain music sister task fitness warrior virus margin adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "labor more apple huge flower emotion donor snap wife crush dizzy announce";
+var mnemonic = "creek cause prison flavor beef replace artefact donor discover stove razor actual";

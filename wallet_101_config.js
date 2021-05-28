@@ -1,1 +1,1 @@
-var mnemonic = "zone post release coin enhance woman fitness swamp cluster success flip virus";
+var mnemonic = "sheriff juice female bless forget castle sniff napkin kitchen pulp glory bench";

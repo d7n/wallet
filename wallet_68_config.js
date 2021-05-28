@@ -1,1 +1,1 @@
-var mnemonic = "image endless sort liquid degree street retire august fade trick figure own";
+var mnemonic = "alien paddle broom swamp beauty maid effort large allow stage review option";

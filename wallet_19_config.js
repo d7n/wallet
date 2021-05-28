@@ -1,1 +1,1 @@
-var mnemonic = "desk elegant edge zoo shoulder erode abandon repair network review judge lawn";
+var mnemonic = "food silent donkey ball into focus husband spike process pledge bright travel";

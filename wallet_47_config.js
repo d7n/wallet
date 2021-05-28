@@ -1,1 +1,1 @@
-var mnemonic = "traffic trophy ridge dilemma comic salon planet squirrel smoke slender unfold meadow";
+var mnemonic = "perfect brown accident twenty now fade virus culture route figure crisp shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion virtual dune cherry vicious clip pulp consider main vote source seven";
+var mnemonic = "citizen charge yard pen lion minimum off labor tuna current quiz bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "steak wasp replace alien already panel air tenant few tell sign umbrella";
+var mnemonic = "neck saddle raven word tribe smart gap pepper goat oyster still cabin";

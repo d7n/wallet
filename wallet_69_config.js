@@ -1,1 +1,1 @@
-var mnemonic = "during cash market enable perfect heavy paper chest belt grid poverty test";
+var mnemonic = "half area canal assist skate baby finger coral hollow total place entire";

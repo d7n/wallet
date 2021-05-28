@@ -1,1 +1,1 @@
-var mnemonic = "local win foster child tragic relief anchor arch movie ignore pioneer garlic";
+var mnemonic = "scrub unveil shed speed genuine stable trick tortoise scorpion replace annual oval";

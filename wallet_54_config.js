@@ -1,1 +1,1 @@
-var mnemonic = "shadow vanish mercy satisfy prefer seminar cattle approve topic piece north endorse";
+var mnemonic = "armed soldier current oval scrap runway used mercy offer under mouse track";

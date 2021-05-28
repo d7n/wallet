@@ -1,1 +1,1 @@
-var mnemonic = "end bubble little month fox utility magnet toilet nose lunar cover produce";
+var mnemonic = "coconut tag sleep physical grace summer capable flock head erosion drill taste";

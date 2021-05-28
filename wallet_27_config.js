@@ -1,1 +1,1 @@
-var mnemonic = "divert duck merry broom erupt base tunnel load enjoy garbage dinosaur ready";
+var mnemonic = "aerobic common leisure window calm urban swing check one dumb pepper black";

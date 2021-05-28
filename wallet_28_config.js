@@ -1,1 +1,1 @@
-var mnemonic = "elbow bacon abuse oxygen patrol search dolphin day clever bunker biology filter";
+var mnemonic = "banner mad space marriage humor heavy furnace flock burst column task frog";

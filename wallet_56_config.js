@@ -1,1 +1,1 @@
-var mnemonic = "voyage bean jeans process uphold enroll cactus giraffe artwork tiny hurt velvet";
+var mnemonic = "dash final island absurd mystery judge vessel twist earn accuse peace reward";

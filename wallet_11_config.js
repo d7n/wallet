@@ -1,1 +1,1 @@
-var mnemonic = "add exclude tide reason venue cabin mule fuel warm north mountain hip";
+var mnemonic = "practice humor doll copy fun entry vote mirror easy category another grass";

@@ -1,1 +1,1 @@
-var mnemonic = "hub crime view evidence surround dove daring mass cricket evoke rally split";
+var mnemonic = "used anchor they soup exchange shoot obtain anxiety pupil guard thrive buffalo";

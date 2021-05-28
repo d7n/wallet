@@ -1,1 +1,1 @@
-var mnemonic = "wild brush dove siege pool switch month bleak improve lady small kitten";
+var mnemonic = "crowd wait address narrow city utility prison neglect clap stick question help";

@@ -1,1 +1,1 @@
-var mnemonic = "maple shrimp spatial bamboo now nest lonely slim cheap twenty bubble churn";
+var mnemonic = "type world property ketchup because fossil diary boil case elbow anger corn";

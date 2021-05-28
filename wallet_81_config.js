@@ -1,1 +1,1 @@
-var mnemonic = "toast zone indoor update welcome flight sketch hedgehog soccer web abandon letter";
+var mnemonic = "eye hidden supreme comfort quiz acquire bullet brave praise present seed rookie";

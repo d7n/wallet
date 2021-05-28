@@ -1,1 +1,1 @@
-var mnemonic = "remind lawn purity use among tomato extra estate domain first warfare beyond";
+var mnemonic = "dice illegal pen coach illegal fat black zebra steel soon lecture harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket joy side leave general estate verify sail keep leaf share night";
+var mnemonic = "gold notable alien endorse long nephew nerve gap level hollow near begin";

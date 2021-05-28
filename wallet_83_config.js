@@ -1,1 +1,1 @@
-var mnemonic = "attitude tribe pupil vacuum kite exclude gravity bid wage price snow item";
+var mnemonic = "teach budget pair session supply birth pass lecture black unlock van define";

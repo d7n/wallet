@@ -1,1 +1,1 @@
-var mnemonic = "exclude tumble crumble tornado vanish defense tube today time hobby inhale essence";
+var mnemonic = "cannon pink firm express industry layer load apology describe similar cabbage cool";

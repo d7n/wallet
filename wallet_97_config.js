@@ -1,1 +1,1 @@
-var mnemonic = "mass cricket item mosquito goddess wish merry mystery maid comic outer weasel";
+var mnemonic = "simple repeat slow armor ritual gun differ renew wide item weasel wave";

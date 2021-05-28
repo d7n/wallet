@@ -1,1 +1,1 @@
-var mnemonic = "caution rail prize thumb east cement leopard spend suggest carpet visa oxygen";
+var mnemonic = "clump defy donkey typical wheat property few account guard wine cruel drill";

@@ -1,1 +1,1 @@
-var mnemonic = "middle apple useless vacuum disagree across canoe erupt execute off bike visual";
+var mnemonic = "step omit uniform bright canvas color pear lazy slice volume unveil hope";

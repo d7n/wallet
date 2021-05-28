@@ -1,1 +1,1 @@
-var mnemonic = "oppose grocery trouble virtual waste phrase health ship slender olympic mind reflect";
+var mnemonic = "degree coast wife finger lamp fresh fossil warfare must assist million able";

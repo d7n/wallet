@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur file staff census meadow lounge manual rely uphold toast deputy afford";
+var mnemonic = "inner road bulk aware snap poem want across peace rabbit noise divert";

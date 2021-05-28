@@ -1,1 +1,1 @@
-var mnemonic = "phone typical armor burst bitter mystery orbit harbor ice modify humble stomach";
+var mnemonic = "onion dentist example month food patrol cushion lonely cloud vivid domain antenna";

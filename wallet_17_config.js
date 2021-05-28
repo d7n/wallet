@@ -1,1 +1,1 @@
-var mnemonic = "shallow jeans tool cry project script gain bottom idea erosion program orient";
+var mnemonic = "find estate want sound outer tail cool cup advice fever time barrel";

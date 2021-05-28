@@ -1,1 +1,1 @@
-var mnemonic = "nominee copper vanish front stumble unusual media dinosaur base unveil bonus manage";
+var mnemonic = "wrestle nation squeeze earn basic drum only object able cereal luxury flush";

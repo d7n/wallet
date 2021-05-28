@@ -1,1 +1,1 @@
-var mnemonic = "pill bomb lecture vital remain mystery ridge sense alley juice tree stamp";
+var mnemonic = "comic strike slide gossip day senior net unhappy ladder shove chaos junior";

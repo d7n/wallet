@@ -1,1 +1,1 @@
-var mnemonic = "bone impulse concert adapt gap fat absurd circle often concert reveal bacon";
+var mnemonic = "ivory pet tray hockey couch setup rival toward amateur skill ring dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "kite time pet father review lawn summer fiction list tissue short siege";
+var mnemonic = "riot law record gap boost exclude present stool mimic antenna reopen island";

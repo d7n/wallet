@@ -1,1 +1,1 @@
-var mnemonic = "world craft grape wrap pattern fortune orchard choice between noodle material agent";
+var mnemonic = "damage rice essence lounge aim rookie poverty kitchen frost cricket escape mom";

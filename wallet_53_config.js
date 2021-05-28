@@ -1,1 +1,1 @@
-var mnemonic = "blood wise busy protect tunnel screen wrap cattle minute picnic other time";
+var mnemonic = "giggle also reopen hollow royal wait obtain quantum slight forum labor zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic chase volume valid ladder lyrics pause fly butter faint produce runway";
+var mnemonic = "fatigue century about quit scene outside phrase bus swarm current basic decide";

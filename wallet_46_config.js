@@ -1,1 +1,1 @@
-var mnemonic = "vapor search record cement rely trend frost tide sniff inflict draw punch";
+var mnemonic = "visual consider boost maximum fade hood kite whale concert awful coil family";

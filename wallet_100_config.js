@@ -1,1 +1,1 @@
-var mnemonic = "educate infant december actual bulk message remain label leader ordinary famous sorry";
+var mnemonic = "castle welcome science tumble night market little scene squirrel hospital ostrich salad";

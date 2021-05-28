@@ -1,1 +1,1 @@
-var mnemonic = "lemon father trick stuff foster cable civil save north song uncle verify";
+var mnemonic = "sudden merry page exchange junior hole maximum time soon vendor below expand";

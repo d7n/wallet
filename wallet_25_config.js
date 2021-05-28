@@ -1,1 +1,1 @@
-var mnemonic = "wrap borrow tiny follow fatigue gain cute pink moral you balance piano";
+var mnemonic = "pattern forest puppy admit cup such van thing cook situate hockey nephew";

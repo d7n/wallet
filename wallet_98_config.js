@@ -1,1 +1,1 @@
-var mnemonic = "truly turn print skull imitate double toward toilet merry census claim all";
+var mnemonic = "assist author wrap swift mushroom obvious thrive unit flag arctic shine action";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty special since insect broken make bronze tell answer speed practice mandate";
+var mnemonic = "level drama history pencil wet bring home stamp race napkin twice despair";

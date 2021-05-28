@@ -1,1 +1,1 @@
-var mnemonic = "deputy hotel clog sister artist ethics refuse pull hidden knock soft weapon";
+var mnemonic = "trash country develop pudding insane decorate robust recall heart panel decade device";

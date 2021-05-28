@@ -1,1 +1,1 @@
-var mnemonic = "main secret mirror toddler grain tree begin ghost salt thought rescue project";
+var mnemonic = "mushroom empower crucial afford inflict subway crazy memory axis ensure order island";

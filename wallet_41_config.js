@@ -1,1 +1,1 @@
-var mnemonic = "luxury render into glow crumble acid priority frame trend grief hospital planet";
+var mnemonic = "reveal owner duty sauce deal double spoil inherit what behave wheel transfer";

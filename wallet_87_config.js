@@ -1,1 +1,1 @@
-var mnemonic = "shadow trade detect divert cinnamon quick forum own subway educate wait indicate";
+var mnemonic = "magnet own hole protect search awesome feel choice market visa oppose minute";

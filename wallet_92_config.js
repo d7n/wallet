@@ -1,1 +1,1 @@
-var mnemonic = "pair amazing pottery snack case void solid increase school tree siege stable";
+var mnemonic = "supply twelve spin envelope test jealous grain season already virtual puppy scale";

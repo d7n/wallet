@@ -1,1 +1,1 @@
-var mnemonic = "danger news clever setup spider foam armed exchange monitor vessel tiny cave";
+var mnemonic = "defy solve sudden winter oak pepper keen wreck rally news delay denial";
