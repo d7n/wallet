@@ -1,1 +1,1 @@
-var mnemonic = "entry eye paddle antenna wire sea coral rug entry flush peanut desk";
+var mnemonic = "once duty harsh logic slush degree expand bamboo utility dragon napkin carbon";

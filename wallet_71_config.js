@@ -1,1 +1,1 @@
-var mnemonic = "program butter sword box people emerge aerobic spare happy snow muscle north";
+var mnemonic = "number option alien sweet cute oil economy frozen gather erode insane impose";

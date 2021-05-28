@@ -1,1 +1,1 @@
-var mnemonic = "anger slice dial journey almost oyster grant behind syrup roast tunnel long";
+var mnemonic = "olive practice cave disorder pear describe boat defense grunt square silver blame";

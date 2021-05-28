@@ -1,1 +1,1 @@
-var mnemonic = "hope yellow cram arrange soul sustain tennis sound ocean author say pair";
+var mnemonic = "repair wash boil sort engage unfold oyster matrix bench unaware match cliff";

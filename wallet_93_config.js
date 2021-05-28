@@ -1,1 +1,1 @@
-var mnemonic = "goat cage fringe quiz shiver vibrant fluid health trip desert chronic sphere";
+var mnemonic = "point twenty donor outside plate kitten woman angle problem secret note rose";

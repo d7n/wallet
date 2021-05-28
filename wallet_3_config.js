@@ -1,1 +1,1 @@
-var mnemonic = "orange only sweet breeze pride stool gasp invest orchard lyrics lion height";
+var mnemonic = "check slab turtle assault lift olive demand domain today music dove skirt";

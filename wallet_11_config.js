@@ -1,1 +1,1 @@
-var mnemonic = "notable problem approve neglect dash meat hand goddess fiber sibling antique gossip";
+var mnemonic = "birth clerk cook promote logic twenty note claim ordinary pause crack champion";

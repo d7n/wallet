@@ -1,1 +1,1 @@
-var mnemonic = "strong canoe mass action ring hero blast frost orchard border gadget pet";
+var mnemonic = "what rocket friend helmet obvious like airport grape minor panel volume amount";

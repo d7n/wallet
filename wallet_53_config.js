@@ -1,1 +1,1 @@
-var mnemonic = "assist now oak rich tribe next fragile result tape blur search few";
+var mnemonic = "frequent town soda catch bargain practice valve over access bless card various";

@@ -1,1 +1,1 @@
-var mnemonic = "motion plunge copy clap palm brain perfect agent street unveil picnic tornado";
+var mnemonic = "black aunt such monster upset cricket other risk rural scale few planet";

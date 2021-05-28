@@ -1,1 +1,1 @@
-var mnemonic = "iron latin swing detail dose limit consider blouse toss runway lady castle";
+var mnemonic = "seat nice script enact loan long brisk door man dirt swift robot";

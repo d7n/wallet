@@ -1,1 +1,1 @@
-var mnemonic = "cost visit sphere labor crouch small deliver pelican word venture pilot type";
+var mnemonic = "upset walk climb digital spoon flee robot rally effort unique mule urge";

@@ -1,1 +1,1 @@
-var mnemonic = "group rocket roof average ozone tilt submit special crumble sting valley shoe";
+var mnemonic = "gospel reject chase capable until inject city shrimp box unique aunt museum";

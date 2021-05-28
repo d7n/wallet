@@ -1,1 +1,1 @@
-var mnemonic = "promote quit hedgehog truth save bomb dish sketch cruel any pottery dance";
+var mnemonic = "bring coil fade sausage beauty deny cross hungry prison crew detail energy";

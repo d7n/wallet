@@ -1,1 +1,1 @@
-var mnemonic = "man toward try what long measure region famous below involve outdoor rural";
+var mnemonic = "upon wheel faith pupil secret any police side fit humble rescue swap";

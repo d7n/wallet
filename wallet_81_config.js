@@ -1,1 +1,1 @@
-var mnemonic = "avoid camera wreck valve weird analyst until purchase remain poet live settle";
+var mnemonic = "reason have below subject good lunar dirt style bracket toward cycle injury";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety water swap document ensure despair mouse high sting day train can";
+var mnemonic = "arrow carry unfold prison fame detect grain casual glad hungry stool merge";

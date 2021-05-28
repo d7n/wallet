@@ -1,1 +1,1 @@
-var mnemonic = "cake movie fame grocery priority lion physical addict affair suffer reduce history";
+var mnemonic = "bar fence fan stairs venue receive magnet simple plug siege develop gospel";

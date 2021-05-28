@@ -1,1 +1,1 @@
-var mnemonic = "forward also tonight hotel fine wheat toward title illegal raccoon season teach";
+var mnemonic = "blast chief paper into miss cotton latin company inform visual glimpse slender";

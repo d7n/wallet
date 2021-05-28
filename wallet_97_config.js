@@ -1,1 +1,1 @@
-var mnemonic = "surface rather foam under domain raise stable soon this giant blanket alien";
+var mnemonic = "paddle cover poet primary man plug beach safe early assist atom eye";

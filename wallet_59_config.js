@@ -1,1 +1,1 @@
-var mnemonic = "wagon runway worth spoil reunion thumb coast struggle shadow coin evoke claim";
+var mnemonic = "evoke fluid need cradle kiss symbol bind soon half strike recipe essence";

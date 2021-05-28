@@ -1,1 +1,1 @@
-var mnemonic = "chunk bird song soul mansion feel december crime ugly noble defy upper";
+var mnemonic = "crack pilot load family pattern accuse indicate visit sphere fever bike recall";

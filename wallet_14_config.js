@@ -1,1 +1,1 @@
-var mnemonic = "gauge abandon lamp grocery pelican good scan elbow pudding reason hamster prepare";
+var mnemonic = "below midnight raccoon clog gossip reopen point soup recipe success throw seat";

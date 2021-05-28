@@ -1,1 +1,1 @@
-var mnemonic = "best bachelor polar chase hundred joy motion employ safe symptom delay rug";
+var mnemonic = "basic nest evil try canal seminar vessel sight canoe language stove horse";

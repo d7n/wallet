@@ -1,1 +1,1 @@
-var mnemonic = "private match fabric young real alpha flame sauce tail web muffin example";
+var mnemonic = "wasp boost sketch feed behind pole carpet dentist december truly border yellow";

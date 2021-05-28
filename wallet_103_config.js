@@ -1,1 +1,1 @@
-var mnemonic = "affair bunker strike motor place crazy logic insane public mail twenty devote";
+var mnemonic = "rather obscure thunder best ankle snake satoshi device festival flock rural celery";

@@ -1,1 +1,1 @@
-var mnemonic = "slender hill supply jar sad access draw glide globe peanut budget obtain";
+var mnemonic = "fuel hub limb security journey chief caught leisure label champion tongue blind";

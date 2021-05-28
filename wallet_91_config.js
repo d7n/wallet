@@ -1,1 +1,1 @@
-var mnemonic = "sadness scrap virtual gasp anchor ugly jacket treat license mind blush fossil";
+var mnemonic = "utility profit lens bike round express super gain kiwi promote illness shift";

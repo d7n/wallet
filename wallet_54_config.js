@@ -1,1 +1,1 @@
-var mnemonic = "credit vapor nerve ahead bounce since rug army melt casual tower address";
+var mnemonic = "view idea chef vague glare end crop wood hollow upper reunion peasant";

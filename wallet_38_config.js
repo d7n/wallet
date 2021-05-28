@@ -1,1 +1,1 @@
-var mnemonic = "sketch mobile curious tent great label bulk margin night echo human wedding";
+var mnemonic = "empty silly poet slush column autumn pistol still act disorder abstract glance";

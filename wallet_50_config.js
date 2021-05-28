@@ -1,1 +1,1 @@
-var mnemonic = "clown pledge almost company shallow similar twice cabbage normal evoke iron alpha";
+var mnemonic = "gap unfair kind mountain hawk position salon onion upper final medal lonely";

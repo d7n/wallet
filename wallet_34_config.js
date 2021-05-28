@@ -1,1 +1,1 @@
-var mnemonic = "dwarf silly insect job wolf voyage call scrub mom camp inject gym";
+var mnemonic = "reward bundle firm oblige pistol humble stamp buffalo letter silly few fix";

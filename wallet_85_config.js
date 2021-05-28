@@ -1,1 +1,1 @@
-var mnemonic = "squeeze deposit couch innocent kick convince ghost science ask behind employ hundred";
+var mnemonic = "toe segment quote sight impose layer slab parent slow chunk jaguar kid";

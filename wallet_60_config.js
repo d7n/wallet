@@ -1,1 +1,1 @@
-var mnemonic = "laugh wrong tiger silent holiday uncle limit push arrow carry digital curtain";
+var mnemonic = "crush dash tiny brand sugar grab frame pause false already special rally";

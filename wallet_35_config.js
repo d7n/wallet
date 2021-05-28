@@ -1,1 +1,1 @@
-var mnemonic = "athlete dose chunk rare ozone profit lesson horror purity learn prevent relief";
+var mnemonic = "race health churn improve approve small globe tuition draw stereo pride click";

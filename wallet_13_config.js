@@ -1,1 +1,1 @@
-var mnemonic = "benefit popular choose vast original ladder alpha goose trophy common hybrid correct";
+var mnemonic = "fine depart reunion shy bunker become skin power wall casino option pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "hint pudding frozen extra broken celery side crash family merge capable lyrics";
+var mnemonic = "adult globe tube risk attend nest total very knock album script march";

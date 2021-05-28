@@ -1,1 +1,1 @@
-var mnemonic = "special pool achieve traffic destroy negative fit nest cheese two bench salute";
+var mnemonic = "canvas comfort neglect auto child legend marriage boost turkey bulb wealth inject";

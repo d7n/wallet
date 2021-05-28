@@ -1,1 +1,1 @@
-var mnemonic = "gym media half aware very move baby session high purchase hip kit";
+var mnemonic = "enlist category cushion flame perfect acquire assist audit taxi napkin crane skin";

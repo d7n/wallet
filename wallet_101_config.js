@@ -1,1 +1,1 @@
-var mnemonic = "glare monster excite anxiety grief over garment ocean pact indicate fashion legal";
+var mnemonic = "recycle fit often craft rigid vacant arrange swear issue throw slot sell";

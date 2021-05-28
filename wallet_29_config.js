@@ -1,1 +1,1 @@
-var mnemonic = "bike process click victory person survey useful tongue citizen please defense thought";
+var mnemonic = "solution brisk spend shoulder kid screen happy kidney tobacco tobacco chef suffer";

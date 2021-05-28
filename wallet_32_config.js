@@ -1,1 +1,1 @@
-var mnemonic = "fiber among inner forum iron inject birth spot party fluid expect rubber";
+var mnemonic = "park steak iron victory people payment person trigger jewel whip submit donkey";

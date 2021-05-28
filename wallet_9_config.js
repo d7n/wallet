@@ -1,1 +1,1 @@
-var mnemonic = "skill mobile crawl foam return ivory enroll toddler slim heavy country cushion";
+var mnemonic = "urge salt crop federal fame diary cube shuffle infant garbage stock access";

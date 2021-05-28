@@ -1,1 +1,1 @@
-var mnemonic = "car toss mirror token obvious sand wear chuckle alert leisure crawl shaft";
+var mnemonic = "bus easy lava punch vital sound damage smile sauce apple gaze chase";

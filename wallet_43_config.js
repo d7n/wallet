@@ -1,1 +1,1 @@
-var mnemonic = "wine evil love evoke security load sustain speed visual solid either fantasy";
+var mnemonic = "letter candy garlic rotate muscle squeeze foam prison stamp salmon arctic decide";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy payment claim nasty tumble unable sudden orient horse secret orient ladder";
+var mnemonic = "symbol still panther link famous snake wife trigger invest roof whip super";

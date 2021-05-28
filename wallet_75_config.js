@@ -1,1 +1,1 @@
-var mnemonic = "then breeze case glad motion knee sleep bulb advice sort arrow clip";
+var mnemonic = "cloth spray recipe candy one trumpet palace surge panda lady major what";

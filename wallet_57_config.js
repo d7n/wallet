@@ -1,1 +1,1 @@
-var mnemonic = "excess choose bundle above execute section before fence museum vote valley globe";
+var mnemonic = "person found lawn wrong excuse first uniform ridge avocado rely sadness crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "total hundred oak remove include enough demise nothing olympic differ echo chapter";
+var mnemonic = "radio ticket post congress ankle letter drama critic wealth rule pole recall";

@@ -1,1 +1,1 @@
-var mnemonic = "grit breeze device august pull job badge kitchen labor level sponsor profit";
+var mnemonic = "they life witness cram strong metal walk couch peace mean cruel soul";

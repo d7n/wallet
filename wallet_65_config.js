@@ -1,1 +1,1 @@
-var mnemonic = "blush elite dance page armed boy same column rent monitor install young";
+var mnemonic = "jelly click bench spy bitter misery success mammal cook success glance pluck";

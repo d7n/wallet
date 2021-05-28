@@ -1,1 +1,1 @@
-var mnemonic = "slot high rough breeze exact muffin peanut vicious echo punch aim tunnel";
+var mnemonic = "rigid congress remove awake raven case salt prosper yellow fiscal size increase";

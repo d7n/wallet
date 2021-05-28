@@ -1,1 +1,1 @@
-var mnemonic = "divide sound sausage kite curious distance sport where raise pizza point potato";
+var mnemonic = "onion kangaroo mass absorb office squeeze lock enforce apart minor fragile version";

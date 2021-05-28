@@ -1,1 +1,1 @@
-var mnemonic = "dentist inner garment hope turkey lamp danger media tornado solid office grain";
+var mnemonic = "decide fall approve prefer core meat enhance rib multiply park meadow mansion";

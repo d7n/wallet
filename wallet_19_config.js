@@ -1,1 +1,1 @@
-var mnemonic = "giant mixture eyebrow viable vendor phone rib where romance scheme wish marriage";
+var mnemonic = "fence coconut winner old replace kind rib glide just bonus icon then";

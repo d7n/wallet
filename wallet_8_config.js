@@ -1,1 +1,1 @@
-var mnemonic = "position chimney sister cute weasel table point garden attend erase velvet process";
+var mnemonic = "special option orchard myth uncle supreme chief canyon blue scale visit snake";

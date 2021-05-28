@@ -1,1 +1,1 @@
-var mnemonic = "nut disease obtain giant census leave sail video shoot task wink dust";
+var mnemonic = "milk roast insect dial key more exist away safe inhale measure raw";

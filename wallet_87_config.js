@@ -1,1 +1,1 @@
-var mnemonic = "process old creek brown gather casual early old blur cluster tongue hundred";
+var mnemonic = "artefact symbol liar people mesh exchange sponsor winter circle wing broken mask";

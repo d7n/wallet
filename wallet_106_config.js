@@ -1,1 +1,1 @@
-var mnemonic = "secret violin laptop vocal broken test pull sock demand story march shuffle";
+var mnemonic = "crawl pink thing donate rebuild trip brother crime finish hat biology bring";

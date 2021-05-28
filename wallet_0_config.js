@@ -1,1 +1,1 @@
-var mnemonic = "divide spot spread drop mutual circle fine interest inhale riot narrow winter";
+var mnemonic = "cushion lake useless shrug cigar dutch acoustic reform actress decide demand fence";

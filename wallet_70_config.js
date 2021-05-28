@@ -1,1 +1,1 @@
-var mnemonic = "hurry laundry bargain siren story quality census access faith network intact cinnamon";
+var mnemonic = "junior desert heavy future annual edit affair atom face scheme circle clinic";

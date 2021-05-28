@@ -1,1 +1,1 @@
-var mnemonic = "insane photo grab library flock skirt begin chuckle festival match miracle kick";
+var mnemonic = "together waste catch trial famous pretty wrestle swamp apple fit kiss include";

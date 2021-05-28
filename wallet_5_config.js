@@ -1,1 +1,1 @@
-var mnemonic = "owner verb power crisp habit globe skate youth scorpion distance resist drip";
+var mnemonic = "dice grunt tuition boring endorse forget dream piece also start exhaust mechanic";

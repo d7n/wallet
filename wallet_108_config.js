@@ -1,1 +1,1 @@
-var mnemonic = "solve develop nothing law armor brass define raise essay earth escape soon";
+var mnemonic = "make sugar magnet boat veteran gain lens attend hybrid divorce coin eagle";

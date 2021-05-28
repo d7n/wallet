@@ -1,1 +1,1 @@
-var mnemonic = "senior soul enhance hen cricket try forest six employ excuse visa genre";
+var mnemonic = "occur sick village drink exchange life slot term involve boat oak eye";

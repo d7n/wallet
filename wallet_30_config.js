@@ -1,1 +1,1 @@
-var mnemonic = "you curious meadow chaos confirm music early first praise attend roast lawn";
+var mnemonic = "nature gather dolphin ridge myself dress view jealous reform decline drive actual";

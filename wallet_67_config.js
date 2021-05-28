@@ -1,1 +1,1 @@
-var mnemonic = "denial sugar stand knock express obvious rail assault face cluster lion enroll";
+var mnemonic = "hybrid found fuel artwork forum gap focus into wash spirit food mother";

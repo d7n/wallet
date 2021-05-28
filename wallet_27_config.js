@@ -1,1 +1,1 @@
-var mnemonic = "pulp forum bottom energy worry payment across awesome spare life account weekend";
+var mnemonic = "prefer bulk citizen force dinosaur viable wonder damage always round enact review";

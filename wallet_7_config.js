@@ -1,1 +1,1 @@
-var mnemonic = "lemon bird ghost harbor mind cupboard public room mosquito laundry arrest visit";
+var mnemonic = "night nasty bind merry render element clutch humble twice decrease reopen bleak";

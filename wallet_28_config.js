@@ -1,1 +1,1 @@
-var mnemonic = "price vivid exercise blush indoor bottom hood shoulder fashion memory tobacco emotion";
+var mnemonic = "connect month farm huge permit price long supreme toy depend tree trumpet";

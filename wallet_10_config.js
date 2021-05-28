@@ -1,1 +1,1 @@
-var mnemonic = "erosion return family jacket cupboard home file zebra link stadium angry assist";
+var mnemonic = "trick review arctic height edge keen betray door surprise keep raise text";

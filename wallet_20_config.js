@@ -1,1 +1,1 @@
-var mnemonic = "myth casino hospital female estate buyer nasty laugh limit cricket grid slam";
+var mnemonic = "toddler enough fabric current lounge together either giggle follow sheriff rifle cattle";

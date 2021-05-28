@@ -1,1 +1,1 @@
-var mnemonic = "quantum jungle romance insect window media hurdle such soap level salt warfare";
+var mnemonic = "image bargain state toward foster afraid venue drip pluck cart hold crunch";

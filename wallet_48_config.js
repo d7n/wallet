@@ -1,1 +1,1 @@
-var mnemonic = "fossil mammal salmon survey floor put consider more cushion curve expose wing";
+var mnemonic = "civil tell expire horn leg note today reject virtual laptop faint hat";

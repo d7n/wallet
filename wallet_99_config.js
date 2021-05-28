@@ -1,1 +1,1 @@
-var mnemonic = "music owner attract before remove thing cram report expire endorse giggle latin";
+var mnemonic = "bike federal country glimpse any confirm basket mountain main power orphan weapon";

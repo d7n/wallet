@@ -1,1 +1,1 @@
-var mnemonic = "knee flat govern render lecture sight put fault leopard tooth company night";
+var mnemonic = "steel pride promote canvas soldier drill card payment cat stereo enjoy pioneer";

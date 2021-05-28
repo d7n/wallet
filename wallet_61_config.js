@@ -1,1 +1,1 @@
-var mnemonic = "desk avoid deposit frame crew carpet vicious sail own bullet hotel pull";
+var mnemonic = "drastic stool winter meat teach oval turtle detect build rigid guide vacant";

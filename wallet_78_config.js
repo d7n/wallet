@@ -1,1 +1,1 @@
-var mnemonic = "siren shine photo chair essay element dizzy table ribbon deny buddy tumble";
+var mnemonic = "coyote home economy erase tortoise favorite provide coffee december duty response forum";

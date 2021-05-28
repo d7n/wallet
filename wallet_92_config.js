@@ -1,1 +1,1 @@
-var mnemonic = "twenty patch young case absent armed wear world crack basic century team";
+var mnemonic = "shoe reform tragic report harbor puppy helmet message print dismiss trophy chair";

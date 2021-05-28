@@ -1,1 +1,1 @@
-var mnemonic = "letter scrap actor cart used soon nominee guide middle sponsor modify pink";
+var mnemonic = "job record morning garden crisp again brown album book artwork equal ancient";

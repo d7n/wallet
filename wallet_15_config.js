@@ -1,1 +1,1 @@
-var mnemonic = "orphan surge day vague eyebrow disagree buzz love fortune moment ethics width";
+var mnemonic = "eagle spring rely obscure gather dish skull check before pride happy swap";

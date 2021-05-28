@@ -1,1 +1,1 @@
-var mnemonic = "change dance wedding message barely car drink film knee grief burden open";
+var mnemonic = "ice monitor citizen ball affair jungle insect gap season drill anger endless";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky pipe simple bunker penalty crisp vast creek wool humble dress crush";
+var mnemonic = "warm work shine little avoid token fetch festival arm magic horn suffer";

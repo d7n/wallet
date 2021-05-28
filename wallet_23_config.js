@@ -1,1 +1,1 @@
-var mnemonic = "balance mammal antenna tissue gas upon volume large primary easy provide dog";
+var mnemonic = "metal review below drastic trim lava bachelor suggest bench place mouse link";

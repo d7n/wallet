@@ -1,1 +1,1 @@
-var mnemonic = "cotton key bicycle fat cake asset prize father category faith slice run";
+var mnemonic = "visa song ready confirm poem finger fabric blast ginger mix youth six";

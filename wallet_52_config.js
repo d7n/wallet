@@ -1,1 +1,1 @@
-var mnemonic = "obey very wash cloud sort virtual soda planet light unable female ivory";
+var mnemonic = "action short rug yellow cage federal service useful avoid area minute enlist";

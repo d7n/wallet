@@ -1,1 +1,1 @@
-var mnemonic = "horse cherry skull hello object stadium expand almost document penalty adjust release";
+var mnemonic = "hybrid audit strong switch pilot hazard family behave attract valley bacon furnace";

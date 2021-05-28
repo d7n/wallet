@@ -1,1 +1,1 @@
-var mnemonic = "blind swear borrow avocado zero shy whisper exotic parrot ahead fringe cancel";
+var mnemonic = "stage habit ridge rigid pilot garbage width rifle gun giggle essay capital";
