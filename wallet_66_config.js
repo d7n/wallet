@@ -1,1 +1,1 @@
-var mnemonic = "elevator laptop access glue resist prosper quit arm pipe limb sand icon";
+var mnemonic = "coffee salt pass client sign expect mosquito buffalo mirror hero expire tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "toward ankle grain gas hat punch alcohol clarify truth such figure huge";
+var mnemonic = "dog illegal guitar rug such lazy toward frost jaguar spell fury garden";

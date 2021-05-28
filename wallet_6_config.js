@@ -1,1 +1,1 @@
-var mnemonic = "moral copper narrow width citizen aware atom crush regular taste fog equal";
+var mnemonic = "rally inner pulse item account repair cause feed amused round struggle nothing";

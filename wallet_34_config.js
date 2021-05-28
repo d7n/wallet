@@ -1,1 +1,1 @@
-var mnemonic = "rally fence dance area paper render any prepare sausage kit potato spare";
+var mnemonic = "letter shell jacket shoot firm march toilet ask guilt nothing angry winter";

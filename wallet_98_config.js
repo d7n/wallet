@@ -1,1 +1,1 @@
-var mnemonic = "maze shine olympic chimney magic magnet dad egg normal citizen bridge tell";
+var mnemonic = "mosquito leaf suffer clay hundred brain relax library demise month circle cinnamon";

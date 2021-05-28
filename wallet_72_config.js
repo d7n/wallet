@@ -1,1 +1,1 @@
-var mnemonic = "story suffer describe glass learn voyage infant chase country wave mountain hint";
+var mnemonic = "nation pattern split question length gaze strike throw alter weather engage vacant";

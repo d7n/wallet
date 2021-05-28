@@ -1,1 +1,1 @@
-var mnemonic = "diesel stadium across situate must warm next thank major jungle security scrap";
+var mnemonic = "rate garlic spice snow axis only suffer venture armed fix garment ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden canal tell pelican inspire project rally congress syrup mandate prefer ripple";
+var mnemonic = "motor weapon trade upper can omit grace judge calm give language fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden lamp rain mix when toy lava oyster kite excess cruise february";
+var mnemonic = "tissue bachelor shell hockey select develop beauty practice swap flavor panel have";

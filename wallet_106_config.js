@@ -1,1 +1,1 @@
-var mnemonic = "report group pave room episode stumble cost demise soda beyond unhappy pulp";
+var mnemonic = "pepper scene box suspect huge narrow wide short dolphin absurd kite bronze";

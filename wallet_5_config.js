@@ -1,1 +1,1 @@
-var mnemonic = "drive cycle asset cattle way crisp bacon limit abstract crater oblige direct";
+var mnemonic = "pen way impact strategy wet advance hair theme forest wife fatal ice";

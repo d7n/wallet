@@ -1,1 +1,1 @@
-var mnemonic = "retire plug angle usual immense check uncover hundred column rack entry skill";
+var mnemonic = "able song nice ugly hope inquiry pony anchor person conduct egg black";

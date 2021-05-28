@@ -1,1 +1,1 @@
-var mnemonic = "tomato neither dinner sample abandon mystery amazing junior laundry release ancient seek";
+var mnemonic = "fitness hidden mushroom soon sport surprise taxi bag spare clay chase feel";

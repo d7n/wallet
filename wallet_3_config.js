@@ -1,1 +1,1 @@
-var mnemonic = "session wealth once beach reform clinic stick wrong extra trash unaware minor";
+var mnemonic = "science call address toilet quick bullet wealth rose noodle absurd angle jazz";

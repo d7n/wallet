@@ -1,1 +1,1 @@
-var mnemonic = "game critic chat crater twelve across truth nest dinosaur drive fabric scatter";
+var mnemonic = "wolf same turkey isolate vendor denial junior project jewel common act upper";

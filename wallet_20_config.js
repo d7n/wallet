@@ -1,1 +1,1 @@
-var mnemonic = "bubble usual flat chase chief mansion verb toe castle amazing clip educate";
+var mnemonic = "cigar chuckle false inject thunder typical athlete garment broom glide hotel chat";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf skin duty cannon sketch oval evil earn legend track void valid";
+var mnemonic = "melody kitten jealous dry radar this wool useless ability virus slight fan";

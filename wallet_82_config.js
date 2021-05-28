@@ -1,1 +1,1 @@
-var mnemonic = "very enroll spatial alter august supply bid lion belt clean ball once";
+var mnemonic = "earn scare drama renew volume snap dinner erosion economy box burst blood";

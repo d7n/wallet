@@ -1,1 +1,1 @@
-var mnemonic = "arrow helmet clap confirm patrol moral bachelor best scissors exact winner april";
+var mnemonic = "grant hill dynamic garment celery pistol neck repeat turtle upon stool usage";

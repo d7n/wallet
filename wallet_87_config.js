@@ -1,1 +1,1 @@
-var mnemonic = "wash more behind omit retire call sheriff action crunch supply mobile more";
+var mnemonic = "gallery blade wear bless ignore fever animal clip promote steel obvious basic";

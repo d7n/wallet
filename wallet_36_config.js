@@ -1,1 +1,1 @@
-var mnemonic = "hair elbow sea captain begin youth timber bronze cushion purity case whale";
+var mnemonic = "chalk garlic design script faith pigeon emotion remember saddle lobster summer actor";

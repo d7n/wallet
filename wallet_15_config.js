@@ -1,1 +1,1 @@
-var mnemonic = "nest gentle discover siren circle price goddess consider chimney reward call inner";
+var mnemonic = "general reduce sad kick dumb cinnamon exit milk trust crush salon solve";

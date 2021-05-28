@@ -1,1 +1,1 @@
-var mnemonic = "unit benefit mixed danger donate hope city crane jelly alien tiny auction";
+var mnemonic = "edge window boring whisper focus pear easy panther advance visual approve virus";

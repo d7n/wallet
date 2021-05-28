@@ -1,1 +1,1 @@
-var mnemonic = "staff gas canal cradle slot mouse donate they sign labor sponsor arrest";
+var mnemonic = "vague enemy trouble fortune such engage lion surface shove chief sign surface";

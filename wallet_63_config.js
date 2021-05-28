@@ -1,1 +1,1 @@
-var mnemonic = "true churn melt glare dove bachelor engine original lucky among decline oak";
+var mnemonic = "check negative train rude eight defense smooth number pill unaware gasp cave";

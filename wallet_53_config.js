@@ -1,1 +1,1 @@
-var mnemonic = "space upgrade blind goose soldier opinion bleak corn bench image health liquid";
+var mnemonic = "shadow lawsuit safe degree increase rifle exchange matter tumble brain million knife";

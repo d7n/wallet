@@ -1,1 +1,1 @@
-var mnemonic = "lyrics still dog tiger own tumble multiply soft thank air tunnel tenant";
+var mnemonic = "mirror dune someone hold into resemble draft park elder version abuse junior";

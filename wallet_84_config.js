@@ -1,1 +1,1 @@
-var mnemonic = "awful soul exotic burger submit involve expire eagle snake weird cheese another";
+var mnemonic = "loop note fog vehicle drum spoil load cheap cart relax sign pepper";

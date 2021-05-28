@@ -1,1 +1,1 @@
-var mnemonic = "tennis kingdom secret language night super mango original rifle stomach twin orbit";
+var mnemonic = "love across jewel proud asset when slot poverty apology acoustic rib ostrich";

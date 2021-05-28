@@ -1,1 +1,1 @@
-var mnemonic = "cruel nasty item tone artwork picture clip focus wrap tunnel hire axis";
+var mnemonic = "caution reduce sponsor cup oil weather code spring recycle injury matrix spike";

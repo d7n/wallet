@@ -1,1 +1,1 @@
-var mnemonic = "swap oblige elephant guess foot raven few biology blind spider ahead crush";
+var mnemonic = "rival grab label purchase rocket mercy critic meadow attract topple myth cabbage";

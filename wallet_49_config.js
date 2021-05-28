@@ -1,1 +1,1 @@
-var mnemonic = "combine economy flip physical slush cloud film syrup pizza educate again board";
+var mnemonic = "matrix review embody suit once firm diesel tiny utility fashion orchard pilot";

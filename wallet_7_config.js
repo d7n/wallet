@@ -1,1 +1,1 @@
-var mnemonic = "joy dawn hope shallow able gorilla welcome sense process vicious trumpet pizza";
+var mnemonic = "city mosquito gesture puzzle whale tomato action try humor tooth problem change";

@@ -1,1 +1,1 @@
-var mnemonic = "milk green verify blouse crane length floor venue between quiz soul remove";
+var mnemonic = "pride scare face winter torch luggage fix ramp lab apology wine prison";

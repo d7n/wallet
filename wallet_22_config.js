@@ -1,1 +1,1 @@
-var mnemonic = "maple property lucky regret similar oil orange skate penalty will art thrive";
+var mnemonic = "kitchen spawn cherry horse target ginger month cycle zoo snap shift car";

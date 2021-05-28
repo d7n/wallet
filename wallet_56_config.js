@@ -1,1 +1,1 @@
-var mnemonic = "morning story gesture army tomato sail stay author shock window deer heart";
+var mnemonic = "bench banner define announce cash reunion prize bread stuff cushion air sand";

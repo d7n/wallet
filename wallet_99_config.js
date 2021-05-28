@@ -1,1 +1,1 @@
-var mnemonic = "double myself ill find thunder tattoo pear harsh thought card mom rural";
+var mnemonic = "stairs frozen crazy region prize kingdom glass proof vicious noodle blanket hammer";

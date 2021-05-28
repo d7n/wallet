@@ -1,1 +1,1 @@
-var mnemonic = "layer subject raven mad auction patrol toe rigid emerge chat add bargain";
+var mnemonic = "emotion leg happy prosper garden demise cliff attitude knock whisper make seed";

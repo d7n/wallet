@@ -1,1 +1,1 @@
-var mnemonic = "anxiety hood element clump volume never network thank ancient will balance often";
+var mnemonic = "online bid cage smoke dish goddess verb index inch pear second catalog";

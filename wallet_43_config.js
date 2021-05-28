@@ -1,1 +1,1 @@
-var mnemonic = "come circle artefact soccer project friend buzz ability inspire trash donor vicious";
+var mnemonic = "lens mutual odor law lawsuit caught evolve chicken lobster escape invest rain";

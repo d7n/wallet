@@ -1,1 +1,1 @@
-var mnemonic = "project manual remove foster bracket throw uphold humble stage spend know wash";
+var mnemonic = "fiber sorry paper cloth summer radio grass mesh marriage mansion bacon used";

@@ -1,1 +1,1 @@
-var mnemonic = "post soldier dad interest bind tone collect dad merge adult wink fee";
+var mnemonic = "thrive fish kind mesh snap tray great profit width arrest acquire online";

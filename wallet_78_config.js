@@ -1,1 +1,1 @@
-var mnemonic = "attitude neglect wall century advance creek baby faculty sausage march insane vehicle";
+var mnemonic = "moment risk month length palm poem sad heavy spring aspect affair heart";

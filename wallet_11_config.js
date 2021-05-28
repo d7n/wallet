@@ -1,1 +1,1 @@
-var mnemonic = "message hundred pulse prevent flag fluid often letter smile gate water abstract";
+var mnemonic = "verb finish idle session typical false cute test special ice target flash";

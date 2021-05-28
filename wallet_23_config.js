@@ -1,1 +1,1 @@
-var mnemonic = "impact assault lock target tired uncover result crazy much piano bulb motor";
+var mnemonic = "damage one dolphin raven wing achieve ribbon barrel predict fall whip opera";

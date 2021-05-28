@@ -1,1 +1,1 @@
-var mnemonic = "gain water monster figure body focus arch vacant meadow intact toy economy";
+var mnemonic = "luxury laundry runway pilot bottom clog since soap hidden pottery quote update";

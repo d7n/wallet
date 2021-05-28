@@ -1,1 +1,1 @@
-var mnemonic = "dash festival manage lizard head cream dolphin pyramid urban float fetch drop";
+var mnemonic = "below flight awake laundry rural pistol stool upset damage borrow stone inquiry";

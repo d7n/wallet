@@ -1,1 +1,1 @@
-var mnemonic = "vapor marriage purchase manual nature image era emerge tree glare raise shiver";
+var mnemonic = "funny scout ice pepper cement stove tunnel over squeeze pink swear indicate";

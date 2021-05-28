@@ -1,1 +1,1 @@
-var mnemonic = "enlist lava witness final jealous wish glance shadow rifle maximum spread ill";
+var mnemonic = "join become minute guide badge juice because impulse reason tourist filter banana";

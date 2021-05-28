@@ -1,1 +1,1 @@
-var mnemonic = "hire glad veteran couch orbit spread shock wrestle ivory stage first shell";
+var mnemonic = "color merge vague present annual effort tornado tooth situate evolve permit enjoy";

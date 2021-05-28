@@ -1,1 +1,1 @@
-var mnemonic = "rent summer sell athlete step soccer burger boil when try vital damage";
+var mnemonic = "wise void monitor canyon curtain rich celery climb observe broccoli album lift";

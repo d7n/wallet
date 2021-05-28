@@ -1,1 +1,1 @@
-var mnemonic = "demand word picture raccoon chunk medal shoe bamboo power audit replace culture";
+var mnemonic = "fly copper leg lyrics blood author roast snap cook orient crowd slight";

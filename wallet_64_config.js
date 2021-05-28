@@ -1,1 +1,1 @@
-var mnemonic = "current display onion news wise visa version topple dolphin only eager repeat";
+var mnemonic = "void narrow diamond start rent glimpse venture umbrella protect energy riot glory";

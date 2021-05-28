@@ -1,1 +1,1 @@
-var mnemonic = "cram glide smooth short mansion hood lion enter pony clarify flash tail";
+var mnemonic = "omit echo weather point suit where february lesson talent stamp voice execute";

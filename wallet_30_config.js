@@ -1,1 +1,1 @@
-var mnemonic = "inject dust error approve situate reunion daring resemble firm relax normal thrive";
+var mnemonic = "cube science obvious utility powder cupboard fragile recycle palm payment doll captain";

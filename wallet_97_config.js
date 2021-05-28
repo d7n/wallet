@@ -1,1 +1,1 @@
-var mnemonic = "return hawk minute report category enter scorpion jewel occur bridge crystal palace";
+var mnemonic = "enhance digital despair orbit enter universe august chicken doll account office top";

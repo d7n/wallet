@@ -1,1 +1,1 @@
-var mnemonic = "stay into attitude orbit refuse odor sun action monkey visit crucial frozen";
+var mnemonic = "inside pizza diary system south duty priority trick injury game genuine noise";

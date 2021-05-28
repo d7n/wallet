@@ -1,1 +1,1 @@
-var mnemonic = "tide soap announce shuffle accuse civil outdoor another resource exact across awful";
+var mnemonic = "trial album moon exhibit rhythm option neglect manage layer movie fatal eager";

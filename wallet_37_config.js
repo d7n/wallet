@@ -1,1 +1,1 @@
-var mnemonic = "enjoy obvious possible switch output heart humble cloud fun normal wrap post";
+var mnemonic = "security find rather depart circle ozone travel neglect gasp canal leave leave";

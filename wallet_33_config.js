@@ -1,1 +1,1 @@
-var mnemonic = "entry film ill panic price noble once click afford uncover measure tongue";
+var mnemonic = "labor already cliff leisure jump erode vanish doctor awesome urban lucky film";

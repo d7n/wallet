@@ -1,1 +1,1 @@
-var mnemonic = "outer cheap cave pupil rocket symbol curtain soda help food bubble rapid";
+var mnemonic = "fault vanish sorry excess program focus flag copper icon ship vacuum recall";

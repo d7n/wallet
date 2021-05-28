@@ -1,1 +1,1 @@
-var mnemonic = "know light bring below luxury repair chief cheese boost fat topple involve";
+var mnemonic = "report exclude wisdom wink antenna lab spider olympic link upgrade accuse trash";

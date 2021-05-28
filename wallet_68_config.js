@@ -1,1 +1,1 @@
-var mnemonic = "puppy jealous level below sample board awesome edit anchor alarm acoustic minor";
+var mnemonic = "miracle entire husband main slender actual dash bag mercy hover swallow just";

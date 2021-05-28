@@ -1,1 +1,1 @@
-var mnemonic = "tissue motor pencil art attitude purchase fitness tired dilemma scissors surge loud";
+var mnemonic = "actress donkey bamboo pond doctor corn ranch decide lyrics ski silent this";

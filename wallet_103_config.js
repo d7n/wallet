@@ -1,1 +1,1 @@
-var mnemonic = "rug expand oval thunder drastic pave scheme kind balance engage dash hire";
+var mnemonic = "budget false stairs hub swear edit post deny patient measure village icon";

@@ -1,1 +1,1 @@
-var mnemonic = "jar swear purchase immune hover story exhibit horror wrestle inhale script viable";
+var mnemonic = "cute cigar drama phrase refuse blur family glide casual leg situate delay";

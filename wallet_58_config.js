@@ -1,1 +1,1 @@
-var mnemonic = "will mansion verify basket valley negative they educate crystal effort street library";
+var mnemonic = "amazing service gallery mean travel demise cool student glory space equal cave";

@@ -1,1 +1,1 @@
-var mnemonic = "bag ticket close mail fine vehicle cool agree spice churn ostrich nephew";
+var mnemonic = "worth easy language slam blame plate noise major wait donate fee clever";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado kick forest process tiny country control green path still key cave";
+var mnemonic = "come cause survey priority over young fortune oppose there nut angry unit";

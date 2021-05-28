@@ -1,1 +1,1 @@
-var mnemonic = "goose promote attitude property skin reform citizen double nerve cannon document orient";
+var mnemonic = "mimic melt wink east define maze stock point tone wonder job crash";

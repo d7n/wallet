@@ -1,1 +1,1 @@
-var mnemonic = "train upset suggest river adapt bachelor vast beauty regret carbon error fatal";
+var mnemonic = "recycle album flip sleep warm allow kidney suit mixed benefit weasel slam";

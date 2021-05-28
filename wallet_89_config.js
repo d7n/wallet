@@ -1,1 +1,1 @@
-var mnemonic = "knock stool buffalo aspect sock sell key canvas food depend legal govern";
+var mnemonic = "object route arrive elite phone season horse nasty flat various inspire pepper";

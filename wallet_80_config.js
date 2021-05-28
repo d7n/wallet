@@ -1,1 +1,1 @@
-var mnemonic = "happy grab school twenty panda captain donkey sweet benefit orchard fashion ladder";
+var mnemonic = "easy blouse state fatigue enable follow blanket chef fence raccoon bulb saddle";

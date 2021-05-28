@@ -1,1 +1,1 @@
-var mnemonic = "solution plug monitor own ugly strategy note fan bargain clean dress cheap";
+var mnemonic = "invest visual car task anger arrange ozone fall cushion crystal inject proud";

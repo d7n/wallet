@@ -1,1 +1,1 @@
-var mnemonic = "decorate duty parrot dove vague junk hockey title tumble empty copper quit";
+var mnemonic = "clever stay gravity lens off minute canal wolf ugly vapor pair hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal beach medal task example round olympic rescue gym hidden hope brass";
+var mnemonic = "sock equal emotion strike million pull arm concert frost mention bargain wing";

@@ -1,1 +1,1 @@
-var mnemonic = "memory bleak web mind rebel city gate city smart deer pulp where";
+var mnemonic = "amateur rain amazing sweet siege swear deputy cross wagon either bargain float";

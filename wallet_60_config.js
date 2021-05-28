@@ -1,1 +1,1 @@
-var mnemonic = "final urban extra lemon cushion reveal slow sample monster topic front case";
+var mnemonic = "turkey erase rib glide industry afford prepare crew auction achieve inch survey";

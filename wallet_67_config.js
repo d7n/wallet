@@ -1,1 +1,1 @@
-var mnemonic = "culture typical hope extra soon dentist essay butter wisdom paddle mammal impact";
+var mnemonic = "estate response violin magnet detail record gain ceiling taxi benefit cheese wine";

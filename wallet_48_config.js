@@ -1,1 +1,1 @@
-var mnemonic = "soft combine cheap lens home crane riot dove either similar excuse nest";
+var mnemonic = "document glue yard middle damp snake medal gown merge horror hospital swim";

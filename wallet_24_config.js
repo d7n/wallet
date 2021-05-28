@@ -1,1 +1,1 @@
-var mnemonic = "frown ridge rule enemy bus silk away side thought shuffle zone guide";
+var mnemonic = "relax pitch lottery awesome trouble narrow code maple oval bulk govern skirt";

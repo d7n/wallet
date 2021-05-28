@@ -1,1 +1,1 @@
-var mnemonic = "police oven urban hollow damp excite adult mixed evoke hobby allow ten";
+var mnemonic = "burger exit habit glue catalog smooth gadget humble blossom ski enlist hurt";

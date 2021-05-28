@@ -1,1 +1,1 @@
-var mnemonic = "frozen lend wagon angle cloud immense merry clap unlock very faith parrot";
+var mnemonic = "destroy crowd practice when twelve check myself balcony genius best kind edge";

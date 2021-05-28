@@ -1,1 +1,1 @@
-var mnemonic = "write sphere attract audit wedding scout such pole onion hockey naive sunny";
+var mnemonic = "clap bone illegal fork obey actual that mango theory differ basic faculty";

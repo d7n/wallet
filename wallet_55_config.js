@@ -1,1 +1,1 @@
-var mnemonic = "prevent review subway myself suspect habit dolphin yard describe bus stamp consider";
+var mnemonic = "leopard empty dinosaur city swap half favorite way fire match case rent";

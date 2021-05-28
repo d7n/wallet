@@ -1,1 +1,1 @@
-var mnemonic = "public verify six enemy stool vicious alpha include endless shaft material annual";
+var mnemonic = "hedgehog profit forest alpha nut project trumpet bread cradle deal help drip";

@@ -1,1 +1,1 @@
-var mnemonic = "shield fashion primary label quantum glass brass paper neutral gauge gospel flight";
+var mnemonic = "debate craft stumble speed volume program topple rough furnace thing fatigue begin";

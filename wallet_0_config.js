@@ -1,1 +1,1 @@
-var mnemonic = "video must easy glow region regret scale congress primary yard brain april";
+var mnemonic = "typical describe wrong copper exist illegal tool ability chalk unit reunion yellow";

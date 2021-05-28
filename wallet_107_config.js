@@ -1,1 +1,1 @@
-var mnemonic = "erase month city remember wrong nuclear scrap deal awful busy goat unveil";
+var mnemonic = "shoot sweet curve moral corn rotate barrel pudding voyage mango mechanic pudding";

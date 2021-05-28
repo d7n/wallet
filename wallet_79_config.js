@@ -1,1 +1,1 @@
-var mnemonic = "click section skull rebel thought fit space device spawn youth gas crime";
+var mnemonic = "material comic saddle hood crime industry trial brand toilet goddess argue office";

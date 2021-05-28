@@ -1,1 +1,1 @@
-var mnemonic = "rich spot option version subway carbon sentence rural devote alien doctor cargo";
+var mnemonic = "humble consider grief impose injury drip caught weapon roast degree interest shaft";

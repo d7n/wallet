@@ -1,1 +1,1 @@
-var mnemonic = "loyal insane round spin wood receive aunt divorce chase update saddle net";
+var mnemonic = "much race album fluid traffic transfer baby unfold butter spin hammer mirror";

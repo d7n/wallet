@@ -1,1 +1,1 @@
-var mnemonic = "pause weather puppy pass reduce girl denial clown swift salute mind range";
+var mnemonic = "lend property rhythm doll ask piece jungle vivid only drop combine bring";
