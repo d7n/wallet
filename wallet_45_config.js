@@ -1,1 +1,1 @@
-var mnemonic = "elephant champion choose tape divorce educate artwork worry zero burst balance digital";
+var mnemonic = "donor invite exile item entry tape royal bid parent all voyage sadness";

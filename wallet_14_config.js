@@ -1,1 +1,1 @@
-var mnemonic = "soon giggle mango flock dignity vicious people exchange acid vanish elder zoo";
+var mnemonic = "target purchase left daring final frog party border innocent nuclear slogan weird";

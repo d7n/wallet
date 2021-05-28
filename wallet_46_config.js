@@ -1,1 +1,1 @@
-var mnemonic = "mass fancy misery virtual ramp taxi quality wedding wagon hospital upon spatial";
+var mnemonic = "ten federal brick roof squeeze run disagree defy essence awake gesture summer";

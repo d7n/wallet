@@ -1,1 +1,1 @@
-var mnemonic = "poverty gun hour finish arena visit minor machine race shine vivid agree";
+var mnemonic = "tongue over cannon poet twin jewel border float salute account cup win";

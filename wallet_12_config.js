@@ -1,1 +1,1 @@
-var mnemonic = "tuition flat west clean limit surge viable chalk pilot farm tissue govern";
+var mnemonic = "drift rich fatal street amazing mass cushion similar ability father output ticket";

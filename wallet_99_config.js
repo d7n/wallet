@@ -1,1 +1,1 @@
-var mnemonic = "body ordinary domain olive door approve expose stumble junior awkward cannon aunt";
+var mnemonic = "barely myself trust cement open patient gift gorilla target fortune search stamp";

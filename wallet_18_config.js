@@ -1,1 +1,1 @@
-var mnemonic = "upset bomb violin caught clog demand green fever social win pilot devote";
+var mnemonic = "talent bachelor response unusual coconut uncle humble napkin fly grocery stool board";

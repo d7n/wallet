@@ -1,1 +1,1 @@
-var mnemonic = "deposit rookie crime fault palm paper laugh shove detail tongue frost dove";
+var mnemonic = "torch uncle actor expire mixture velvet someone defy replace feature evolve original";

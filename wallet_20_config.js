@@ -1,1 +1,1 @@
-var mnemonic = "solve find vacuum eyebrow swear message grocery mansion accuse fortune swim actual";
+var mnemonic = "voyage brief rally exhaust pencil peace cement merry baby traffic expose recall";

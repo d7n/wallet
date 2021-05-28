@@ -1,1 +1,1 @@
-var mnemonic = "attack problem decline spice sail vote oak business oven dinosaur subway pond";
+var mnemonic = "universe reveal include another blush wolf purpose cattle hidden medal retreat crash";

@@ -1,1 +1,1 @@
-var mnemonic = "myth hurry actual lemon basic hen unaware venture analyst cruise orient try";
+var mnemonic = "slice vital infant harbor truth main portion region what biology doctor chronic";

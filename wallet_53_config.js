@@ -1,1 +1,1 @@
-var mnemonic = "guide subway better level protect wall pudding sure business home core small";
+var mnemonic = "ridge action custom cool boy beef uncle latin cage worth grape size";

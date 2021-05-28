@@ -1,1 +1,1 @@
-var mnemonic = "ignore initial north hen patch appear much innocent explain valid input hybrid";
+var mnemonic = "palace rigid air style bus amateur rose option angle opera today vault";

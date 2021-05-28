@@ -1,1 +1,1 @@
-var mnemonic = "dizzy salmon credit skate raw mixed pact cloud dirt voyage snake human";
+var mnemonic = "gospel river million borrow era swim shy simple grow search silver gate";

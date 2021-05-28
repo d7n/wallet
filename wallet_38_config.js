@@ -1,1 +1,1 @@
-var mnemonic = "pact know detect boat engine lamp actor ahead deal kit share various";
+var mnemonic = "stool swamp goose renew tourist expect sorry brush increase gadget female knife";

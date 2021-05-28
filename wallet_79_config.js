@@ -1,1 +1,1 @@
-var mnemonic = "mask frequent great discover future logic original expand great hero degree radar";
+var mnemonic = "ready juice flavor sorry consider open error enough grant middle gold merge";

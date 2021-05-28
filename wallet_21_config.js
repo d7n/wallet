@@ -1,1 +1,1 @@
-var mnemonic = "syrup mad purse wire help square trend blue doll judge beef measure";
+var mnemonic = "zebra radio stool joke urge network act grocery utility depth help gown";

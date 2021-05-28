@@ -1,1 +1,1 @@
-var mnemonic = "claw sting fly cram mad file robust blur cabin flat faculty resemble";
+var mnemonic = "draw gym limb drop guess wasp where shuffle dentist nominee punch luxury";

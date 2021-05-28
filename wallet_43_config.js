@@ -1,1 +1,1 @@
-var mnemonic = "trust glance vintage nature false loyal there dumb replace volcano bonus sunset";
+var mnemonic = "reopen section below supreme agree busy early gravity tide bullet trigger shallow";

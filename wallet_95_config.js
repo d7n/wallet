@@ -1,1 +1,1 @@
-var mnemonic = "lucky raven crouch raven tide okay infant senior impose hawk hero tank";
+var mnemonic = "jelly dynamic ankle peanut enable between miracle tent notable category axis over";

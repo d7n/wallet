@@ -1,1 +1,1 @@
-var mnemonic = "lucky secret absurd dream scan horn super oven can size book boy";
+var mnemonic = "wire health finish van minimum earth gain drop jazz friend nose surface";

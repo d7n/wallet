@@ -1,1 +1,1 @@
-var mnemonic = "there local dust harvest series diary unfair tomorrow indicate pole peanut attend";
+var mnemonic = "glide summer flock hobby page surface dolphin access license spoon aspect poet";

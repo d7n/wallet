@@ -1,1 +1,1 @@
-var mnemonic = "olive mutual once ecology buzz analyst comfort cage orient marriage observe seek";
+var mnemonic = "equal fee brain frown wheat direct wrist gate minute often pupil snow";

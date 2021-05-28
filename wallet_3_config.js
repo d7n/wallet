@@ -1,1 +1,1 @@
-var mnemonic = "among angle easily nothing aware hammer fog lake run credit rival record";
+var mnemonic = "mixed life board swamp endorse genius involve blush still essence spoil gym";

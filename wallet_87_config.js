@@ -1,1 +1,1 @@
-var mnemonic = "include wrist orchard swing cruel sight lyrics deputy assume lesson happy hope";
+var mnemonic = "fame brave basket leave either ostrich amused deer turtle foster candy desert";

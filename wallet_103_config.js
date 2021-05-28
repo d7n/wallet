@@ -1,1 +1,1 @@
-var mnemonic = "tell solve setup cool token disagree educate fish large shallow game jewel";
+var mnemonic = "imitate injury audit kick side slender media suit ecology type trophy short";

@@ -1,1 +1,1 @@
-var mnemonic = "involve zone rally indicate post tray tribe onion grocery cabbage sword kick";
+var mnemonic = "true rally shove easy during used usage better truck track narrow call";

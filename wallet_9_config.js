@@ -1,1 +1,1 @@
-var mnemonic = "hurt wool panda loan mutual table modify fat crystal hawk battle evoke";
+var mnemonic = "when outdoor coin donate win engage meadow shrimp cause arrow nothing away";

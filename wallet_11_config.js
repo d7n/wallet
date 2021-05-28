@@ -1,1 +1,1 @@
-var mnemonic = "swing echo cloth evolve know spice purchase nose huge gun reason satoshi";
+var mnemonic = "swarm wreck you horror flee rhythm lamp cloud wish fitness uphold outside";

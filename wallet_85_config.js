@@ -1,1 +1,1 @@
-var mnemonic = "pitch stock fancy roast theory tag depart chicken priority burden clinic catalog";
+var mnemonic = "detail oil vendor life vicious coast enact tragic crime arrow window memory";

@@ -1,1 +1,1 @@
-var mnemonic = "rely inside split distance useless fork rack glide garlic half thought bitter";
+var mnemonic = "crack nothing festival idle coast wreck spoil outside doll tortoise sibling palace";

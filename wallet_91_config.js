@@ -1,1 +1,1 @@
-var mnemonic = "please prosper runway ethics hand hour engine lawn reason away sniff creek";
+var mnemonic = "hobby ski festival animal over gallery claw kid source tribe width sibling";

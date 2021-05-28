@@ -1,1 +1,1 @@
-var mnemonic = "proof fan build spray demand this double lobster rich undo fat party";
+var mnemonic = "physical chair village accuse opinion nephew agent shoe color nut broccoli blue";

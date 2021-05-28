@@ -1,1 +1,1 @@
-var mnemonic = "cart extra walnut law cherry drill wrap fault pigeon stool sausage goose";
+var mnemonic = "viable million era enable primary talk move kiwi warrior occur adapt current";

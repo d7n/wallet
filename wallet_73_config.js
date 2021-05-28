@@ -1,1 +1,1 @@
-var mnemonic = "december connect arena axis dilemma fan fruit avocado steel expand latin scale";
+var mnemonic = "coral evil another simple layer pull problem gym letter brief ridge inhale";

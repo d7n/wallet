@@ -1,1 +1,1 @@
-var mnemonic = "enact vivid pact allow toast resist control future inflict denial pottery light";
+var mnemonic = "diamond census hello photo miss erosion spin hill input sunset erase gallery";

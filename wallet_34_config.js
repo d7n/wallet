@@ -1,1 +1,1 @@
-var mnemonic = "cream recipe news live nation youth surprise toast pond rather orphan industry";
+var mnemonic = "ice deer camp limit flee equip mosquito echo solar impact into scout";

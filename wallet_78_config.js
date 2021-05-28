@@ -1,1 +1,1 @@
-var mnemonic = "explain country among jealous tail patrol pact limb burger whale muscle tumble";
+var mnemonic = "crawl nature pepper exact slight company solid dust pipe math drift powder";

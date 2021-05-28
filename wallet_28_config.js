@@ -1,1 +1,1 @@
-var mnemonic = "grape wild speak actual matrix exact today exhaust invest suspect hamster outside";
+var mnemonic = "rival festival mom polar chest master arrive bridge smoke hurry casual replace";

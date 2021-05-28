@@ -1,1 +1,1 @@
-var mnemonic = "salad sad love need vault wage index mule trade position enough sadness";
+var mnemonic = "thumb fiscal release traffic bachelor door debate mountain first kid route top";

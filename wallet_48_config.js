@@ -1,1 +1,1 @@
-var mnemonic = "setup surprise clap charge seed snack song exile maid index action category";
+var mnemonic = "spread token fold drama copy trip other language unit universe require acid";

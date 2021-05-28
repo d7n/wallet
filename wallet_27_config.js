@@ -1,1 +1,1 @@
-var mnemonic = "genuine diagram aspect crime wing various weird simple earn into syrup dismiss";
+var mnemonic = "differ copper two august ripple globe tower sustain pass poverty bomb picture";

@@ -1,1 +1,1 @@
-var mnemonic = "merge sauce mercy cute essay learn humble wait legend canal tongue joke";
+var mnemonic = "bag coin ugly robot wave tuna click robust addict spray promote retire";

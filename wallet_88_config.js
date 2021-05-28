@@ -1,1 +1,1 @@
-var mnemonic = "right file citizen teach weekend mixture void expose garment need impact extra";
+var mnemonic = "west defense arrow margin amateur plate ketchup undo use plug scare engine";

@@ -1,1 +1,1 @@
-var mnemonic = "hip oak piano random fan vintage force try pen noodle icon intact";
+var mnemonic = "parrot word weapon stand wood dwarf sun lift owner approve whip motor";

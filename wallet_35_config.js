@@ -1,1 +1,1 @@
-var mnemonic = "oven bird traffic arrange pyramid pudding humor stable north same silk exotic";
+var mnemonic = "divide guard enable fatal spare blanket muffin suggest easily lounge giggle giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "switch knee payment wrap gown volcano spoil focus thunder adjust zoo demise";
+var mnemonic = "inmate tiger clutch lion nation visit flush oblige spend shell other river";

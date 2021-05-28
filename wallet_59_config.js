@@ -1,1 +1,1 @@
-var mnemonic = "frequent melt brass symptom math abandon outer spy salon coyote recall answer";
+var mnemonic = "gown inherit cry satisfy resemble trend recall helmet vehicle latin hip parade";

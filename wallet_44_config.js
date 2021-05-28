@@ -1,1 +1,1 @@
-var mnemonic = "humble quality visit humble hope exclude heart decrease base become number gospel";
+var mnemonic = "crucial pioneer bind recipe cat bean diesel social access amateur depart focus";

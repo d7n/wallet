@@ -1,1 +1,1 @@
-var mnemonic = "wing prison ketchup film vapor lamp opinion suggest tuition produce document avocado";
+var mnemonic = "long inherit aisle entry squirrel lyrics pulp sad kid scale pistol theme";

@@ -1,1 +1,1 @@
-var mnemonic = "derive mass stereo merry embrace forward brain payment marble finger test age";
+var mnemonic = "junk position hard mask card seat frog armed various dismiss salon elite";

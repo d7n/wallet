@@ -1,1 +1,1 @@
-var mnemonic = "horse also antenna voice vapor number waste bid cram inject parent female";
+var mnemonic = "frog strong cancel enter knife soldier goose close venue away tobacco runway";

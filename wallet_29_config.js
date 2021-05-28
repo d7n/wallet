@@ -1,1 +1,1 @@
-var mnemonic = "issue wear drip system horn unable enough liar axis base acoustic damage";
+var mnemonic = "fit dice identify typical shock comic ski hill spot page provide all";

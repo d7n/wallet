@@ -1,1 +1,1 @@
-var mnemonic = "bargain humble culture rug clog crystal planet curtain elephant wild code exercise";
+var mnemonic = "kind unhappy miracle green rookie orient runway group deer inject rigid zebra";

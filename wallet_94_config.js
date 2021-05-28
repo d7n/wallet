@@ -1,1 +1,1 @@
-var mnemonic = "taste congress robot unfair spirit father romance churn fog donate ritual grow";
+var mnemonic = "unfair slush remove firm carbon lumber size need night embark explain clutch";

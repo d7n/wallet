@@ -1,1 +1,1 @@
-var mnemonic = "exhaust hub online onion spatial great much limit erupt illegal potato wrong";
+var mnemonic = "autumn maze express winter surge main emerge unfair income smoke shock secret";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist skin spice clap method tip weather among board supreme love sleep";
+var mnemonic = "resist expand surface owner urge neither hair penalty school head ladder buzz";

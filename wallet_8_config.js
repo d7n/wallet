@@ -1,1 +1,1 @@
-var mnemonic = "comic discover clog woman economy cheese buddy pig warfare mesh symbol check";
+var mnemonic = "found romance math height eternal mirror pupil increase theme guitar police frown";

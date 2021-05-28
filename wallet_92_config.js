@@ -1,1 +1,1 @@
-var mnemonic = "result must dance arrest oven nephew reward exercise jacket final trend purpose";
+var mnemonic = "divide student coin uniform devote owner oxygen good marble cream puzzle sweet";

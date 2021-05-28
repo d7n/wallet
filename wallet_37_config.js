@@ -1,1 +1,1 @@
-var mnemonic = "melt prize ask bar interest input alien flush lumber bar divert envelope";
+var mnemonic = "muffin segment good daughter fox sugar cluster field voyage pepper used deputy";

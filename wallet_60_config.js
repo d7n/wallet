@@ -1,1 +1,1 @@
-var mnemonic = "emotion exit tortoise amount estate brisk soft cupboard cube process inside ladder";
+var mnemonic = "depend carbon width fatal road fashion nice ketchup rookie lounge barrel never";

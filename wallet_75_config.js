@@ -1,1 +1,1 @@
-var mnemonic = "open drive music fiction predict jungle moon car slim top moment useful";
+var mnemonic = "tenant island sausage area depart smart share arrest focus buzz around very";

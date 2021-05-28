@@ -1,1 +1,1 @@
-var mnemonic = "powder sphere curious balance wealth rocket all best armor museum maximum page";
+var mnemonic = "deliver write guess purpose airport keep plunge equal mass gadget hill patrol";

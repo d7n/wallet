@@ -1,1 +1,1 @@
-var mnemonic = "nurse motor glide fox volcano service cave pig case high avocado agree";
+var mnemonic = "endless whip report april tribe message federal digital order multiply mesh comfort";

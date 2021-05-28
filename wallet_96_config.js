@@ -1,1 +1,1 @@
-var mnemonic = "welcome hotel envelope beyond vintage able casual arrange cliff defy gas wheel";
+var mnemonic = "stairs solution write suffer inherit cat rib tide gaze rich wash noble";

@@ -1,1 +1,1 @@
-var mnemonic = "initial detect picture blast coil ankle gravity session ceiling scale lock mandate";
+var mnemonic = "vacant caught decide census note nasty jelly fork region ball orphan motor";

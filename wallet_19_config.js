@@ -1,1 +1,1 @@
-var mnemonic = "wide genre remain helmet vacant crack nothing they guitar portion receive edit";
+var mnemonic = "virtual battle gain beach panel captain goddess sick conduct blast burst cake";

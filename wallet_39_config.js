@@ -1,1 +1,1 @@
-var mnemonic = "slide depart canyon gift embrace clown report swap dose bus impulse problem";
+var mnemonic = "glare park target logic symptom venture also zebra under country success remove";

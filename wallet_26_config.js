@@ -1,1 +1,1 @@
-var mnemonic = "million trophy blade inflict state head decline salt symbol shift steak public";
+var mnemonic = "capital surface arrive salon material flip album lava luxury pony success protect";

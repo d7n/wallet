@@ -1,1 +1,1 @@
-var mnemonic = "remain prosper sample bulb crater movie age smooth leisure employ submit cloth";
+var mnemonic = "oblige polar program sail soda light talent decade song spare fix anger";

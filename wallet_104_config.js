@@ -1,1 +1,1 @@
-var mnemonic = "beauty blouse matter custom urban sausage then flash assist connect duck lawsuit";
+var mnemonic = "nature grit aim blush culture much engage atom salt latin program secret";

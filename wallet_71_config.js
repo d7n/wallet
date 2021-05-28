@@ -1,1 +1,1 @@
-var mnemonic = "pattern nose umbrella banana during rail small design gospel laptop audit about";
+var mnemonic = "boy club salt harsh act render include congress sense shove raise cheese";

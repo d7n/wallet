@@ -1,1 +1,1 @@
-var mnemonic = "logic crunch month pattern shadow inject property tongue actress moral helmet lock";
+var mnemonic = "body essay segment response source ordinary cargo disagree question amused alone web";

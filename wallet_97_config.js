@@ -1,1 +1,1 @@
-var mnemonic = "bleak awkward woman cushion number author feature also adjust tower test bring";
+var mnemonic = "tonight miracle salt priority nasty teach chimney arctic space movie inform own";

@@ -1,1 +1,1 @@
-var mnemonic = "flame dawn palm fix silent oblige today finish reopen client exclude slide";
+var mnemonic = "public festival glory seven chat dish wing cave van hint post cousin";

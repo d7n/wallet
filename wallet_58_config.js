@@ -1,1 +1,1 @@
-var mnemonic = "blood oven improve mask volcano song allow donkey saddle embrace device hammer";
+var mnemonic = "scan aspect razor shoot drive into clip board salt wrong pet panda";

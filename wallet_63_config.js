@@ -1,1 +1,1 @@
-var mnemonic = "creek cigar pair kite abuse bless company hold kitten interest flee february";
+var mnemonic = "license sugar island farm tell elephant photo uncle brick front wet water";

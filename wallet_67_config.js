@@ -1,1 +1,1 @@
-var mnemonic = "erupt display excess lava parade spice cloth only invest swing keen plate";
+var mnemonic = "parent happy involve narrow promote alcohol absorb reward mind dash atom spice";

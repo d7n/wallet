@@ -1,1 +1,1 @@
-var mnemonic = "situate arrow service because domain before portion number donate shrimp lawn excuse";
+var mnemonic = "early debate fix public will text grief liberty way chicken poverty catalog";

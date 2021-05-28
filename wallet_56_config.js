@@ -1,1 +1,1 @@
-var mnemonic = "parrot print human nothing pigeon gown clown federal velvet acoustic turn bounce";
+var mnemonic = "leaf warfare orphan file alone situate three great split debris follow pattern";

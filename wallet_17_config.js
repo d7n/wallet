@@ -1,1 +1,1 @@
-var mnemonic = "panel lava transfer marriage carry feed behave click always zero jar exotic";
+var mnemonic = "frost ghost ribbon clump truck cliff easily sibling bamboo eternal stool outside";

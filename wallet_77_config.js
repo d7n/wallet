@@ -1,1 +1,1 @@
-var mnemonic = "scrub mushroom panel must ball onion lawsuit dust glass remove list double";
+var mnemonic = "animal attitude trick width miss athlete dawn cereal poverty seek endless ghost";

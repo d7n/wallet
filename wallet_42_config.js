@@ -1,1 +1,1 @@
-var mnemonic = "face valve situate process nothing meadow lyrics couch arch ignore deposit fun";
+var mnemonic = "weekend crawl affair increase pattern man gesture army broken patrol warfare initial";

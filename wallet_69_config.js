@@ -1,1 +1,1 @@
-var mnemonic = "direct unaware illegal viable antenna quick process later come industry check language";
+var mnemonic = "desk hammer avoid web word turtle only awful crowd hood number reject";

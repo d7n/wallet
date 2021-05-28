@@ -1,1 +1,1 @@
-var mnemonic = "sheriff poem amount mobile almost vast guess area ladder salt olive sadness";
+var mnemonic = "amount peanut duty design list feel clay swim spring turn trade valve";
