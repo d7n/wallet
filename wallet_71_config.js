@@ -1,1 +1,1 @@
-var mnemonic = "warm sing uphold jealous feature arrive vault alert bundle share plate clarify";
+var mnemonic = "middle base peace figure hobby bundle hurdle castle flame iron now pink";

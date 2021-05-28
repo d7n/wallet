@@ -1,1 +1,1 @@
-var mnemonic = "shallow slender above answer page love limb stool feature fit derive divide";
+var mnemonic = "metal legend expire bounce monster lyrics glue dry pen super orphan improve";

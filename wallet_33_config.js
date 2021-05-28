@@ -1,1 +1,1 @@
-var mnemonic = "have elder present gym youth pact add actual exclude search replace field";
+var mnemonic = "give demise vivid change glad pilot behave clever allow august few little";

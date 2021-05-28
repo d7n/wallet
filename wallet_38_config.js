@@ -1,1 +1,1 @@
-var mnemonic = "clerk find bicycle alert sense manual invest arm undo protect render save";
+var mnemonic = "demand beef envelope clock stage horse idea ready stage analyst local measure";

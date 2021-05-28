@@ -1,1 +1,1 @@
-var mnemonic = "love charge labor solution vocal book army album shrimp kind solar festival";
+var mnemonic = "attend cancel own alarm lazy suggest arrive donate skill attend torch sad";

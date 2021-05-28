@@ -1,1 +1,1 @@
-var mnemonic = "dragon angry chair impulse you cloud hidden iron frown turkey trial attend";
+var mnemonic = "worth corn peace about canyon order agent column orphan midnight input category";

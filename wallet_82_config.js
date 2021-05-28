@@ -1,1 +1,1 @@
-var mnemonic = "rice slim artefact roof hamster garbage park open sun unveil tail section";
+var mnemonic = "build mask suit letter multiply diamond child endless illness garbage bitter praise";

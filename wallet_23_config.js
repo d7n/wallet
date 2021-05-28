@@ -1,1 +1,1 @@
-var mnemonic = "tired fit remember moment hazard pluck portion bubble obtain card wool crumble";
+var mnemonic = "social inner quarter thrive exotic like plug prosper bacon wild cart side";

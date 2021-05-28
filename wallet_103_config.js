@@ -1,1 +1,1 @@
-var mnemonic = "vote episode okay tank ticket panda spike network lyrics quit gadget false";
+var mnemonic = "tobacco question above canoe main woman pumpkin grass north trash history leopard";

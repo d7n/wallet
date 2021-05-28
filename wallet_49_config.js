@@ -1,1 +1,1 @@
-var mnemonic = "tuition crisp olive ice easily worth boss amateur oblige enlist similar cable";
+var mnemonic = "hat wrist weather gather opera muffin yellow during cross avoid morning trial";

@@ -1,1 +1,1 @@
-var mnemonic = "essay thumb license census hobby border phone marriage track topple country afford";
+var mnemonic = "section indicate diary video winner duty ahead inflict coach lady act tackle";

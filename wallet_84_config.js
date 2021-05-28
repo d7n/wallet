@@ -1,1 +1,1 @@
-var mnemonic = "ill laptop barely code pulse page endorse hybrid soccer total nasty point";
+var mnemonic = "announce casino fold exile upgrade media obscure guard banner tonight lift sock";

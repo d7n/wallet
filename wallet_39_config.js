@@ -1,1 +1,1 @@
-var mnemonic = "cushion ladder wing slide manual mystery lunch upset bring slender deny choose";
+var mnemonic = "tray talent series century mansion pledge orbit step uncover coil indicate dwarf";

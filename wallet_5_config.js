@@ -1,1 +1,1 @@
-var mnemonic = "doll oak olympic damage bench armed panda claim adjust primary gadget yard";
+var mnemonic = "razor pave twin distance measure romance gun member swallow powder check able";

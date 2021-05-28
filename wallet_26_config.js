@@ -1,1 +1,1 @@
-var mnemonic = "sudden normal tuition furnace sense phrase mixture marble amazing delay warm word";
+var mnemonic = "soap clean elegant symptom empty limit aunt brass radio endless endorse spatial";

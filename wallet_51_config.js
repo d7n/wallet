@@ -1,1 +1,1 @@
-var mnemonic = "portion possible find ensure false keep treat holiday valve deny defy potato";
+var mnemonic = "logic gospel false domain congress ahead giggle permit wing build car maximum";

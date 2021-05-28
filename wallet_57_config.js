@@ -1,1 +1,1 @@
-var mnemonic = "drop laundry flag accuse diary need episode symbol menu raise engage broken";
+var mnemonic = "vintage couch dismiss regular asthma hockey lamp zoo seek make summer february";

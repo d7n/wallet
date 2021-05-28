@@ -1,1 +1,1 @@
-var mnemonic = "payment depend add nasty until bulk fall another mom ritual jungle swamp";
+var mnemonic = "script hill taste economy describe budget property angry combine client benefit climb";

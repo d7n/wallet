@@ -1,1 +1,1 @@
-var mnemonic = "pole sadness catch crunch reflect deputy gain draw peanut conduct float club";
+var mnemonic = "talent clip kitten genius genre blade salt across number brick walk supply";

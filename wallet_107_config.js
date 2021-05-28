@@ -1,1 +1,1 @@
-var mnemonic = "hint purity enough abuse reduce cradle gesture hungry addict despair pen off";
+var mnemonic = "immune merry typical lobster width clay patch author simple bar husband copy";

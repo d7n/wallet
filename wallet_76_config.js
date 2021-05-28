@@ -1,1 +1,1 @@
-var mnemonic = "tortoise alien rabbit whip similar purpose found leg winter burden evidence suffer";
+var mnemonic = "whisper industry nation claim thought ride blast trend stumble vacant team trash";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn lake bread erosion valid vendor matrix tilt home egg winner silent";
+var mnemonic = "session used flag border rose amount utility pig chat question floor sample";

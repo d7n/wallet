@@ -1,1 +1,1 @@
-var mnemonic = "stool custom range photo open machine crucial pilot apart core lend spatial";
+var mnemonic = "addict item joy economy neutral later monster regret mutual arrange step seek";

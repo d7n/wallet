@@ -1,1 +1,1 @@
-var mnemonic = "enlist waste calm forget later minimum stem useful clutch fringe lemon auction";
+var mnemonic = "nephew resource draft replace moon surface sand since buffalo absent rich whale";

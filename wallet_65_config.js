@@ -1,1 +1,1 @@
-var mnemonic = "hurry maid subway future surface rookie year exclude clerk undo amateur remind";
+var mnemonic = "glide same fiscal crunch bullet camp toast pioneer unknown knock dynamic word";

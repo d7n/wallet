@@ -1,1 +1,1 @@
-var mnemonic = "laptop inquiry supply cabin mystery series cruise engine benefit radar supply despair";
+var mnemonic = "inform ribbon slush program drift affair plug asthma pride million goose destroy";

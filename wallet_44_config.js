@@ -1,1 +1,1 @@
-var mnemonic = "draw image jump gloom two crazy age library pupil nose maid tumble";
+var mnemonic = "add stomach coast scatter occur close load dilemma denial snow cream monkey";

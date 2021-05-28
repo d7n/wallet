@@ -1,1 +1,1 @@
-var mnemonic = "black palace erase omit powder motor crunch until tomorrow invite alcohol suit";
+var mnemonic = "congress bonus calm deputy involve either smart gaze mask jewel insane hidden";

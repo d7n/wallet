@@ -1,1 +1,1 @@
-var mnemonic = "father drastic garage cabbage cruel badge shrimp session hybrid awesome correct rail";
+var mnemonic = "neglect cost involve test faculty receive honey drip quick dream dumb drill";

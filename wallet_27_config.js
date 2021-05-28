@@ -1,1 +1,1 @@
-var mnemonic = "annual drive april broken square infant soup tragic enact dinosaur camp require";
+var mnemonic = "love squirrel nothing audit soda slab syrup spoon wait they curious grain";

@@ -1,1 +1,1 @@
-var mnemonic = "piano sleep stem nest across essence file forget river donkey twin angry";
+var mnemonic = "bacon wasp razor trip stick alcohol spy illness bachelor update story derive";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp soul focus ocean mansion hold crew poet start employ sell reduce";
+var mnemonic = "mimic census hill alone you dynamic coral glue erosion soft topple tribe";

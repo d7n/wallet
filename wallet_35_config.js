@@ -1,1 +1,1 @@
-var mnemonic = "misery coast taxi soon chapter flavor umbrella spell refuse crowd barely tragic";
+var mnemonic = "myself blur isolate burger runway little join nurse word spot knock portion";

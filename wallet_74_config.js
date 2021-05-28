@@ -1,1 +1,1 @@
-var mnemonic = "estate record frequent basic dumb seven review eight head initial glory poverty";
+var mnemonic = "immune north fit south thank quick more wood antenna antenna where mom";

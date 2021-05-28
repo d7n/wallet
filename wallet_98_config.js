@@ -1,1 +1,1 @@
-var mnemonic = "broccoli battle gate sunset adult retreat begin arm left aware bronze night";
+var mnemonic = "street leg civil april own holiday motion style damage tone swing fork";

@@ -1,1 +1,1 @@
-var mnemonic = "crop curtain music wise cost weapon trend work clock hurdle knock critic";
+var mnemonic = "slot miracle obtain shoulder recall pattern modify save youth ripple ring rigid";

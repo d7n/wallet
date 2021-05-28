@@ -1,1 +1,1 @@
-var mnemonic = "hill claim vast rescue food panda creek type exchange decade bulb exhaust";
+var mnemonic = "senior cinnamon wonder material kiss nurse super struggle father wasp output draft";

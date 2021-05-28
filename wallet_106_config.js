@@ -1,1 +1,1 @@
-var mnemonic = "recycle start find patch napkin amused mass pond dutch travel undo aware";
+var mnemonic = "average want doctor lawsuit physical average grid cluster salute notable tide saddle";

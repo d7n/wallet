@@ -1,1 +1,1 @@
-var mnemonic = "quiz leave thrive suggest smile stumble dolphin tribe marriage only cry apart";
+var mnemonic = "smile diary scheme scout panda prison net client strategy board rose churn";

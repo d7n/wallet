@@ -1,1 +1,1 @@
-var mnemonic = "motor dust glue debate loop blast snack giant essay orbit vanish green";
+var mnemonic = "drive author observe fossil victory person taxi slim party relax screen butter";

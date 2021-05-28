@@ -1,1 +1,1 @@
-var mnemonic = "jacket enforce dismiss excess warrior profit vital cotton trumpet casual perfect retire";
+var mnemonic = "prevent opinion never volume submit attract drastic assist cigar mirror govern feature";

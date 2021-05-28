@@ -1,1 +1,1 @@
-var mnemonic = "subway output food service left crew wrap alien length blur rail donkey";
+var mnemonic = "must police wrap mammal snack conduct spawn vague brand hurdle endorse host";

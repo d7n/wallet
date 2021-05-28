@@ -1,1 +1,1 @@
-var mnemonic = "amused fun tenant tower crawl ghost say slight furnace shrimp scene mix";
+var mnemonic = "drink select chuckle pipe modify aware half unaware sick ship erosion ticket";

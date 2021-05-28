@@ -1,1 +1,1 @@
-var mnemonic = "curious axis vapor they social cost route bundle gold canoe happy disagree";
+var mnemonic = "mango message engine steel response apology exotic point pluck urban twenty quality";

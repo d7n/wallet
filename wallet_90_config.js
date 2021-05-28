@@ -1,1 +1,1 @@
-var mnemonic = "saddle ribbon maple section barrel control fiber audit nasty smart vicious solid";
+var mnemonic = "hood special repair toss useful comfort wealth swarm slice foster object robot";

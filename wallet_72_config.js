@@ -1,1 +1,1 @@
-var mnemonic = "govern common vote remain mercy fiction range kitten update slight age surge";
+var mnemonic = "debate clever boat cream steak grit very spare practice picnic loan shell";

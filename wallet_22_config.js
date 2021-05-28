@@ -1,1 +1,1 @@
-var mnemonic = "wrap battle puzzle depart plug fantasy shy hurt region attend bus federal";
+var mnemonic = "skirt license night robust error blast brush bar high margin furnace together";

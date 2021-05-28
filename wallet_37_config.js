@@ -1,1 +1,1 @@
-var mnemonic = "second start smooth remind number wealth belt boost outdoor clean sugar skill";
+var mnemonic = "clarify armor summer dumb blossom federal little rain glow adapt faith nuclear";

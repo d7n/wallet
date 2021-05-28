@@ -1,1 +1,1 @@
-var mnemonic = "crunch drip cover moon tail fatigue sadness deposit sand tenant scan chef";
+var mnemonic = "audit try buddy fabric emerge derive chapter cattle search intact time guard";

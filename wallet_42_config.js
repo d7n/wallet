@@ -1,1 +1,1 @@
-var mnemonic = "grab valley stereo clean artefact card satisfy hand bike amazing enemy casual";
+var mnemonic = "faint language require six rose insane style sphere swift version hundred kiwi";

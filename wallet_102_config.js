@@ -1,1 +1,1 @@
-var mnemonic = "vapor annual napkin duck combine oppose fury warm aisle blue label head";
+var mnemonic = "hood blood arctic derive loop acquire amateur survey north speak truth glory";

@@ -1,1 +1,1 @@
-var mnemonic = "explain indoor collect donkey shield morning drama civil judge alley mass luggage";
+var mnemonic = "square capable elbow satoshi shrug grunt violin win stairs lecture innocent invest";

@@ -1,1 +1,1 @@
-var mnemonic = "price mistake atom mammal shield tragic plunge bring soup possible regular apology";
+var mnemonic = "brown render recipe twenty traffic void rhythm hungry finish reduce supreme dream";

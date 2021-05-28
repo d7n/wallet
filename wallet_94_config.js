@@ -1,1 +1,1 @@
-var mnemonic = "sting over boat word wife quality evoke matrix lion water tiger pyramid";
+var mnemonic = "milk marble produce ice neglect spike lab attend item scout peasant trim";

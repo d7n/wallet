@@ -1,1 +1,1 @@
-var mnemonic = "vacuum liar talk start seat cash party since gap example rent swear";
+var mnemonic = "involve chest more logic endless guide crack trouble radio kid yellow couple";

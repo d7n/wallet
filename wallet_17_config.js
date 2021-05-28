@@ -1,1 +1,1 @@
-var mnemonic = "minimum person bottom purchase raven lonely moral endorse start middle critic banner";
+var mnemonic = "undo attend woman sketch solid moment coral february town pizza genre wet";

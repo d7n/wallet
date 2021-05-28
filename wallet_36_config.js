@@ -1,1 +1,1 @@
-var mnemonic = "organ brain shrimp pause okay walnut volcano model congress truth faculty actual";
+var mnemonic = "quarter clean orchard shove book drastic noise utility ghost again thunder unfold";

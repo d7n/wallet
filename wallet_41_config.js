@@ -1,1 +1,1 @@
-var mnemonic = "mandate sort skirt argue when airport stamp achieve atom unhappy bean manual";
+var mnemonic = "chaos melody come include hybrid steak filter cherry ranch crazy front electric";

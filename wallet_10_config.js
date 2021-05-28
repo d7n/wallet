@@ -1,1 +1,1 @@
-var mnemonic = "force notice soul mushroom fiber brush clown over slush blame between bronze";
+var mnemonic = "accident produce absent rocket noble drive cradle blur tissue present invest heavy";

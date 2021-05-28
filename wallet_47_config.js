@@ -1,1 +1,1 @@
-var mnemonic = "spread flag skill trap arctic install arch total way resource when song";
+var mnemonic = "cave live catalog neither daughter meadow abandon detail defy clutch result sister";

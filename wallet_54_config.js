@@ -1,1 +1,1 @@
-var mnemonic = "orbit girl lesson suit conduct soda pole bachelor pole achieve elephant wheel";
+var mnemonic = "vacuum opinion swap day find youth roof rookie behave scan agent dizzy";

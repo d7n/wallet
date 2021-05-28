@@ -1,1 +1,1 @@
-var mnemonic = "lesson shop artist myth universe zoo aspect ripple race grain peasant rich";
+var mnemonic = "blush crazy crash exhibit gospel later unable garbage pluck cushion there good";

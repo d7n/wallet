@@ -1,1 +1,1 @@
-var mnemonic = "shy enlist aisle rice vintage impact color slab access session habit planet";
+var mnemonic = "drink you later crew teach brief possible deputy fuel jealous cat tree";

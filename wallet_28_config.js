@@ -1,1 +1,1 @@
-var mnemonic = "actress laundry fringe skirt opinion pizza ugly head rival gallery stage flavor";
+var mnemonic = "certain glimpse ten build inflict mansion tower clown asthma eternal outdoor problem";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect dumb spread inquiry blouse ritual spider junk what tide vague surprise";
+var mnemonic = "ride maze cake agent they deposit huge step play text involve unlock";

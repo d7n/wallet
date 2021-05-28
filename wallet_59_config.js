@@ -1,1 +1,1 @@
-var mnemonic = "snack team tree mango radio select maze category note work west item";
+var mnemonic = "rich chimney jacket sock mammal consider miracle logic divide hockey twenty victory";

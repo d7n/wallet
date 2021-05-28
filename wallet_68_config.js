@@ -1,1 +1,1 @@
-var mnemonic = "purse parrot trigger aisle reopen stove bar cargo summer elite best kangaroo";
+var mnemonic = "source reveal lady enable feel symbol rude erupt leave scout actress term";

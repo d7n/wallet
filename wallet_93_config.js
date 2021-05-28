@@ -1,1 +1,1 @@
-var mnemonic = "rigid wine measure grocery turkey acoustic final wealth balcony garment awake deny";
+var mnemonic = "music genuine income tomorrow sense inspire letter worth young jacket love almost";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete type toss once rebuild jar nothing crisp arrive equip detect again";
+var mnemonic = "bright mind metal risk glare hero turn predict eagle velvet yellow insect";

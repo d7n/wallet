@@ -1,1 +1,1 @@
-var mnemonic = "fat sight album cat absent earn also metal obey change faint bracket";
+var mnemonic = "garden lawsuit screen mom hire pizza draw net sausage mosquito danger auction";

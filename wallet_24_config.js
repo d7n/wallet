@@ -1,1 +1,1 @@
-var mnemonic = "differ hair glory journey bridge arm slim unit give baby word tissue";
+var mnemonic = "fame motion luggage learn stage almost area spring dumb bachelor nature wasp";

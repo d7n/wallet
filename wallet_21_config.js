@@ -1,1 +1,1 @@
-var mnemonic = "lend amazing wagon wear muffin bus cry lemon churn wish grass diesel";
+var mnemonic = "sock collect either slice deposit recipe session actual rhythm fly alert panel";

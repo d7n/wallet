@@ -1,1 +1,1 @@
-var mnemonic = "gown quality yellow recycle motor neutral awful success film tiny middle meadow";
+var mnemonic = "kick miracle pull pioneer knock unknown notable hedgehog tourist horse runway glove";

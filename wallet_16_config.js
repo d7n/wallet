@@ -1,1 +1,1 @@
-var mnemonic = "human secret crumble local outdoor congress jazz neutral memory picnic rotate rack";
+var mnemonic = "also evil deny slender teach enrich scheme forest glove taste scale diary";

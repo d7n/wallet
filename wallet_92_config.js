@@ -1,1 +1,1 @@
-var mnemonic = "small indoor state balcony arch peace jungle awful donate payment search crew";
+var mnemonic = "already knife eyebrow steak napkin cement goose flat record catch seed trim";

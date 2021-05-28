@@ -1,1 +1,1 @@
-var mnemonic = "diamond field cherry rebel elder piece grunt club tool supply siege upgrade";
+var mnemonic = "boss expand fog correct alone remind hundred wonder position clog eyebrow cannon";

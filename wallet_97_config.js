@@ -1,1 +1,1 @@
-var mnemonic = "legend basic trouble essence potato fall inside like reveal require wreck face";
+var mnemonic = "wisdom mean body glue hidden educate light absurd mountain stereo solar earth";

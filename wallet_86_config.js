@@ -1,1 +1,1 @@
-var mnemonic = "price disorder rigid luggage attack hawk waste slender genius orange around echo";
+var mnemonic = "silver travel spike any hello smart miss supreme town guilt repair damage";

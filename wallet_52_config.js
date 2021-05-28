@@ -1,1 +1,1 @@
-var mnemonic = "angle excite chunk often cupboard option survey cover vocal drink learn prosper";
+var mnemonic = "leader possible twelve until exotic argue drop shiver forward regular roast action";

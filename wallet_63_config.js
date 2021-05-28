@@ -1,1 +1,1 @@
-var mnemonic = "minute vault funny bullet stool member moon duty pupil blanket inside accuse";
+var mnemonic = "across version pepper globe injury talent marriage runway web kite omit chimney";

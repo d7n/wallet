@@ -1,1 +1,1 @@
-var mnemonic = "credit connect people reflect brick viable party mouse broken rabbit ivory calm";
+var mnemonic = "promote brief yellow direct rebuild limb dose address romance account public during";

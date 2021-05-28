@@ -1,1 +1,1 @@
-var mnemonic = "empower convince sheriff observe board garbage much pause like silk link fatal";
+var mnemonic = "problem soft ill ranch cup move surge sister hobby spread same weasel";

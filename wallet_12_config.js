@@ -1,1 +1,1 @@
-var mnemonic = "frequent ugly talk arch curious tackle web pledge crazy innocent fossil govern";
+var mnemonic = "fetch bar rail elegant faith entry squirrel sock wood fatal current member";

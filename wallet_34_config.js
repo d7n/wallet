@@ -1,1 +1,1 @@
-var mnemonic = "tone abandon service reject gadget fatigue interest kit chief venture prefer repeat";
+var mnemonic = "reduce people life else rally october useful wide noodle hurt upper crawl";

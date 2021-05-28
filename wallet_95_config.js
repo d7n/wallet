@@ -1,1 +1,1 @@
-var mnemonic = "sunset turkey blush nest window found shield family prosper stamp neutral nasty";
+var mnemonic = "fall winter liberty record three genre else bullet ride tent crunch report";

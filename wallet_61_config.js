@@ -1,1 +1,1 @@
-var mnemonic = "upset always crawl mixture elephant rib same neither crater sound barrel minor";
+var mnemonic = "toddler anxiety rain clean solid fruit noble dizzy trumpet possible buddy buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "normal runway spider manual pumpkin leg knee demise few ceiling effort spare";
+var mnemonic = "cycle milk pause load giraffe creek staff fork useful oil crunch kidney";

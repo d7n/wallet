@@ -1,1 +1,1 @@
-var mnemonic = "exhaust security world this eager trip mammal gaze exit scale already glare";
+var mnemonic = "same indicate dumb pizza eternal sibling setup else laptop reflect empty home";

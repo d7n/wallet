@@ -1,1 +1,1 @@
-var mnemonic = "ceiling fame fatigue rug because nasty cradle educate produce grab bamboo pair";
+var mnemonic = "upper physical board panel front goat fire vital early bean runway like";

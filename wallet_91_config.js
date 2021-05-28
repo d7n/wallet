@@ -1,1 +1,1 @@
-var mnemonic = "arrest square off multiply depend today suffer label salmon defense announce strike";
+var mnemonic = "erosion stairs effort jar ceiling pair fresh grace scale fitness tiny regret";

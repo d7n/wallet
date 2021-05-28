@@ -1,1 +1,1 @@
-var mnemonic = "dice excuse jazz hammer provide leaf multiply steak blur grow avoid across";
+var mnemonic = "miss tomorrow toe library curtain engage erase chaos armed style invite combine";

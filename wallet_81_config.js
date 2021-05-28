@@ -1,1 +1,1 @@
-var mnemonic = "little paddle gift load ship genre used sing obtain label taste hat";
+var mnemonic = "cube wise crisp grab nominee pony venture tattoo clock tissue daughter marriage";
