@@ -1,1 +1,1 @@
-var mnemonic = "physical galaxy train street share stand huge bridge gorilla find chest empower";
+var mnemonic = "alone injury blast visual buffalo moment double claw ride cannon viable disease";

@@ -1,1 +1,1 @@
-var mnemonic = "hold knee medal enroll vague expire mimic share reason decade violin palace";
+var mnemonic = "already humble icon bitter arrange joy express picture domain beef wire beyond";

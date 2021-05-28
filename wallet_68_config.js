@@ -1,1 +1,1 @@
-var mnemonic = "diagram manage armor prepare earth business course silent soon dial wrong hour";
+var mnemonic = "pumpkin tip tube harsh again skirt depart stove charge adult worry tomorrow";

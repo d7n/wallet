@@ -1,1 +1,1 @@
-var mnemonic = "rifle blood cheap stuff spring tip job expire flock close atom young";
+var mnemonic = "wash ride advance fame hawk barely amateur human cable whisper smooth pelican";

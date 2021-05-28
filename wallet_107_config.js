@@ -1,1 +1,1 @@
-var mnemonic = "gate panda slab pilot garlic window potato jump tail account business police";
+var mnemonic = "human office review obey six catch vacant over trouble steel turtle limit";

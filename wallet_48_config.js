@@ -1,1 +1,1 @@
-var mnemonic = "artist garden often top visual wild more option bid thrive title blade";
+var mnemonic = "icon mansion track virus ugly soap half exotic child naive route goat";

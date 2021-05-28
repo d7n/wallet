@@ -1,1 +1,1 @@
-var mnemonic = "age frost warm close success popular knock stay frozen payment depart bicycle";
+var mnemonic = "ketchup shoe scare display extra laundry exchange undo senior length noble cradle";

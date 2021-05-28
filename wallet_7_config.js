@@ -1,1 +1,1 @@
-var mnemonic = "mansion invest element point seminar foam myth define eternal always change second";
+var mnemonic = "fall satoshi truth cry club civil antenna soccer tag lottery coil aware";

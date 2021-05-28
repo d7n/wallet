@@ -1,1 +1,1 @@
-var mnemonic = "nut acquire cloud cause tent saddle loud tenant august pledge call year";
+var mnemonic = "glance morning have opera face man either weapon gaze usage miss warm";

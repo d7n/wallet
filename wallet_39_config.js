@@ -1,1 +1,1 @@
-var mnemonic = "case canvas misery often bring outdoor syrup margin domain search regret roast";
+var mnemonic = "renew action radar valley smile mixture solve asset sponsor adapt knock legend";

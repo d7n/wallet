@@ -1,1 +1,1 @@
-var mnemonic = "easy leopard visa across code other absurd sauce toward snack decorate mango";
+var mnemonic = "fine primary reopen suggest section elder kingdom remain become sort rapid still";

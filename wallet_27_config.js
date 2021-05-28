@@ -1,1 +1,1 @@
-var mnemonic = "rifle century endorse old nothing random tower pizza vicious orphan thank kitten";
+var mnemonic = "essay invest hat daring hidden tortoise guilt material crane oblige wage all";

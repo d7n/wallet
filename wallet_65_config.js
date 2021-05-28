@@ -1,1 +1,1 @@
-var mnemonic = "prison myth above detail mother swift party curtain exist drip animal mountain";
+var mnemonic = "solution feed impulse bright assist treat teach venture real party deputy river";

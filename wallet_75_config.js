@@ -1,1 +1,1 @@
-var mnemonic = "scheme dog unable episode gospel raven hope fun ritual air repair avocado";
+var mnemonic = "adapt bench collect frequent chest evil picture unhappy chase trip pull torch";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney foot wasp jungle faith shove chimney sword design fame slice situate";
+var mnemonic = "icon orchard shiver coil upset artefact hill ecology series gas gorilla shed";

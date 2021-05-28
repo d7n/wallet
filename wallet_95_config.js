@@ -1,1 +1,1 @@
-var mnemonic = "concert depart economy right brisk hello waste wild since attend belt evoke";
+var mnemonic = "trip begin hour jealous punch digital swamp raise skull craft box scare";

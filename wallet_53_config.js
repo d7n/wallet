@@ -1,1 +1,1 @@
-var mnemonic = "patient sheriff before market diet beyond armor scrap pride cinnamon you talent";
+var mnemonic = "want stone special tank push flush dentist gesture piano furnace primary turtle";

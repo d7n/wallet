@@ -1,1 +1,1 @@
-var mnemonic = "deal strong shop wave alcohol virus treat similar fetch profit custom alarm";
+var mnemonic = "lunch insect energy defy camp logic raise enough return say prosper mixed";

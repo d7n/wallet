@@ -1,1 +1,1 @@
-var mnemonic = "day parent sound angle afraid major swarm number spatial hub conduct glove";
+var mnemonic = "air finger dance impulse civil exhaust concert test ginger visit voice umbrella";

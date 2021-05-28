@@ -1,1 +1,1 @@
-var mnemonic = "bright various debate cement very tomato table core edit dutch brass stairs";
+var mnemonic = "leaf forward leisure warm drink vibrant myth pyramid evolve strong city fuel";

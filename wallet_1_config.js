@@ -1,1 +1,1 @@
-var mnemonic = "guess apology wire camera alert party dance bone hour remain kit elder";
+var mnemonic = "pencil coconut apple bullet morning knock movie novel melt love human surprise";

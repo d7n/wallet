@@ -1,1 +1,1 @@
-var mnemonic = "rule cactus bless dinosaur legend vocal license rail trial cereal drip fine";
+var mnemonic = "lizard inject electric safe depth act piano faculty whale human marriage orphan";

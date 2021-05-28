@@ -1,1 +1,1 @@
-var mnemonic = "cook loud empty pool harsh casual alter dial youth act wash hour";
+var mnemonic = "naive teach drink crystal idea chuckle gloom office tooth umbrella renew boil";

@@ -1,1 +1,1 @@
-var mnemonic = "milk clog modify stage because dream walnut shed nerve autumn girl material";
+var mnemonic = "plastic pipe tail mouse fruit paddle consider dial slow train mask interest";

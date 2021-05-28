@@ -1,1 +1,1 @@
-var mnemonic = "limb office win wool doll device shallow car hold neglect primary mail";
+var mnemonic = "resemble quick loud badge copper powder sheriff olive furnace subway chair radar";

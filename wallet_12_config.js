@@ -1,1 +1,1 @@
-var mnemonic = "hope click toy buzz rival bachelor lamp begin blue narrow hire filter";
+var mnemonic = "vapor steel volume allow cargo false father elbow object couple antenna bean";

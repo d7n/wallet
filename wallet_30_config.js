@@ -1,1 +1,1 @@
-var mnemonic = "play toward girl silk step now decline mixed impose cost couple endorse";
+var mnemonic = "cake chapter chicken jealous bunker session normal wisdom innocent infant valve used";

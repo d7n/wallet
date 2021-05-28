@@ -1,1 +1,1 @@
-var mnemonic = "honey hint angry post legal oven attend metal truck loud bargain apart";
+var mnemonic = "resource prefer mail faint vessel swarm around lecture strike load try latin";

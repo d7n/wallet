@@ -1,1 +1,1 @@
-var mnemonic = "verify sport stamp inside cinnamon funny usual peasant pistol dutch industry end";
+var mnemonic = "black pizza advice motion brush scrub spike unlock increase rebuild frog group";

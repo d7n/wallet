@@ -1,1 +1,1 @@
-var mnemonic = "seminar turtle burden wise submit camp able prison brief ginger lava card";
+var mnemonic = "industry fossil vast visa album chronic sail exile treat liberty success license";

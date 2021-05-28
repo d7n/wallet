@@ -1,1 +1,1 @@
-var mnemonic = "level pipe ketchup access cool tragic soldier deputy mosquito evidence cave firm";
+var mnemonic = "tackle fee fame seat gorilla table rude digital note virus noodle age";

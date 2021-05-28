@@ -1,1 +1,1 @@
-var mnemonic = "wash rack until scorpion cousin erase side early expand atom sting scout";
+var mnemonic = "scorpion flight possible velvet autumn now cute annual spawn dove term egg";

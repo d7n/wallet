@@ -1,1 +1,1 @@
-var mnemonic = "museum first certain game leader inmate trouble charge lamp smooth nut avoid";
+var mnemonic = "squeeze source world cloud blast refuse famous gasp announce lemon size gasp";

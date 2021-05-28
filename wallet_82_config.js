@@ -1,1 +1,1 @@
-var mnemonic = "flee stick spare fragile exact trumpet biology woman annual lab pottery leisure";
+var mnemonic = "giggle embrace review embark broken steak sing reunion turtle axis clap trophy";

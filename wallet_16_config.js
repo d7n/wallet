@@ -1,1 +1,1 @@
-var mnemonic = "pelican normal lunar lizard festival napkin hungry ridge develop hen fossil account";
+var mnemonic = "simple today gap narrow fruit anxiety auto shoot rhythm sauce hybrid force";

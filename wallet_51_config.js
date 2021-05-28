@@ -1,1 +1,1 @@
-var mnemonic = "slim twist nurse inch ecology return immune olympic tuition pole used invest";
+var mnemonic = "group mistake tobacco hidden law hunt level jar pottery slogan dignity normal";

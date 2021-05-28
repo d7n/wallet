@@ -1,1 +1,1 @@
-var mnemonic = "exile visual polar wide same lady legal avoid couple charge two cruel";
+var mnemonic = "spirit clap obey this good biology clinic lounge want bright play horse";

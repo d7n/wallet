@@ -1,1 +1,1 @@
-var mnemonic = "knock other hill craft injury country purity fortune pink expose enjoy gold";
+var mnemonic = "chunk knee guard canal misery come thought egg uniform mimic silly people";

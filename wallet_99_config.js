@@ -1,1 +1,1 @@
-var mnemonic = "dragon glimpse kid lion lizard rate task honey large airport abandon use";
+var mnemonic = "orange milk town trouble kiss powder feed anxiety polar state fossil just";

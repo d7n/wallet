@@ -1,1 +1,1 @@
-var mnemonic = "still exotic fabric slice kingdom forget start spoon sorry ramp car brave";
+var mnemonic = "retire cable tornado alter account prevent helmet start rubber axis black convince";

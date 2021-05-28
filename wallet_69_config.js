@@ -1,1 +1,1 @@
-var mnemonic = "horse siren enough pelican need orchard improve profit multiply traffic jelly list";
+var mnemonic = "venture female cradle expect sketch century chaos need alter leaf breeze cute";

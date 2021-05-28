@@ -1,1 +1,1 @@
-var mnemonic = "custom suspect pulse uphold case point alarm around eager bridge angry please";
+var mnemonic = "pupil pistol sorry nuclear mandate burger tuition pudding elevator priority cause coin";

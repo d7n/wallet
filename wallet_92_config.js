@@ -1,1 +1,1 @@
-var mnemonic = "chicken winner risk upset breeze upgrade term machine ordinary exist truck pool";
+var mnemonic = "dismiss noble caught nose cupboard penalty crack zone admit gown pear stamp";

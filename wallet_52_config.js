@@ -1,1 +1,1 @@
-var mnemonic = "fat unaware ensure indicate little element crazy antique buzz reduce saddle quick";
+var mnemonic = "swing kiss never margin carpet food tooth toddler awesome style across transfer";

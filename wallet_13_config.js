@@ -1,1 +1,1 @@
-var mnemonic = "horror vague audit rally royal gospel usage flock bomb advance immense minimum";
+var mnemonic = "awake fury patrol imitate stuff traffic rib habit rather chaos sister misery";

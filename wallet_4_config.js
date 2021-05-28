@@ -1,1 +1,1 @@
-var mnemonic = "shallow unit recall south decide crumble gate liquid fish please tip way";
+var mnemonic = "sphere minute alpha hotel bone gauge grain crazy project inspire hint pilot";

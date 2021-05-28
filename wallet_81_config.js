@@ -1,1 +1,1 @@
-var mnemonic = "hotel jazz example truck surge actor crush exact narrow jewel arm retire";
+var mnemonic = "jaguar chaos inflict piano table key pond apology quarter fly desert tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "walk uniform harsh share under lake struggle flavor struggle person modify include";
+var mnemonic = "few glow wise uniform frost text army focus plate enact lemon race";

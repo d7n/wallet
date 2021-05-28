@@ -1,1 +1,1 @@
-var mnemonic = "frequent injury safe denial radio thank unfold tiny enough settle knife shiver";
+var mnemonic = "shop exhibit rookie attack fit danger reopen phone mercy soap hurry yard";

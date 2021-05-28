@@ -1,1 +1,1 @@
-var mnemonic = "calm april sell trumpet initial mountain clever quality lucky same analyst warfare";
+var mnemonic = "inhale engine swarm public kid color exact box canyon horse about bottom";

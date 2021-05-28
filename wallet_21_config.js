@@ -1,1 +1,1 @@
-var mnemonic = "gadget long setup pool flip notice crater reunion magnet comfort promote cinnamon";
+var mnemonic = "ignore enrich convince yellow embark exhibit lemon impulse legal shift doctor hobby";

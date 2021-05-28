@@ -1,1 +1,1 @@
-var mnemonic = "shield pact time already sugar burden quiz judge reason obtain ghost you";
+var mnemonic = "cloud camp century blind belt mouse curtain water draft armed motion universe";

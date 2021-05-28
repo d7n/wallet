@@ -1,1 +1,1 @@
-var mnemonic = "genius real wedding mosquito finish crime discover talk regret force ensure lizard";
+var mnemonic = "change surge swift swamp dry first depart husband glove search sign anchor";

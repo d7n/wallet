@@ -1,1 +1,1 @@
-var mnemonic = "maximum limb practice fiber engage gasp frame clock spike small stable lottery";
+var mnemonic = "soda second cook amateur barely tissue draw flash control neither daring rebuild";

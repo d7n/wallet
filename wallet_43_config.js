@@ -1,1 +1,1 @@
-var mnemonic = "wool wage cruel crystal wire access style detail treat work cousin rib";
+var mnemonic = "twenty donor bird theme mind leisure upon category allow notice suit drastic";

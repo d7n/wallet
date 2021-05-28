@@ -1,1 +1,1 @@
-var mnemonic = "occur female gadget shaft dignity audit caution bid uniform soldier arch lava";
+var mnemonic = "candy picnic wrap concert squeeze race debate maple budget position hedgehog round";

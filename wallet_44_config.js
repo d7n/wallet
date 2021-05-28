@@ -1,1 +1,1 @@
-var mnemonic = "caught wrap morning expand seed nut dice solve obey tattoo reform scrap";
+var mnemonic = "raven pretty assume cancel puppy hammer rough nuclear helmet rely jaguar notice";

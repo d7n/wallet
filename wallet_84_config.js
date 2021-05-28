@@ -1,1 +1,1 @@
-var mnemonic = "resemble border doll situate defense someone expand update useful tattoo top super";
+var mnemonic = "mule fame borrow perfect excite amazing symbol amateur clinic discover mutual able";

@@ -1,1 +1,1 @@
-var mnemonic = "draw dinner fun rain tuna custom wreck domain royal detail ice castle";
+var mnemonic = "lizard top that board shrimp despair scheme test charge smile summer nest";

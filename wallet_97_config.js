@@ -1,1 +1,1 @@
-var mnemonic = "about library tortoise vague denial bunker pear entire spray success chronic such";
+var mnemonic = "ocean gauge cat zoo pill marine afraid demise comic cactus call inquiry";

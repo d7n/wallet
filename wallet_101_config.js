@@ -1,1 +1,1 @@
-var mnemonic = "miracle era dignity virtual vehicle lake upset discover inside miss leisure clap";
+var mnemonic = "pulse vanish embody please always trade tired manage forget adult garbage lake";

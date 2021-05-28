@@ -1,1 +1,1 @@
-var mnemonic = "desert save goddess retire split meat aerobic october suffer brand lesson drip";
+var mnemonic = "position crucial rib bar tower tiger window unit copy spike february chimney";

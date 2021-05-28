@@ -1,1 +1,1 @@
-var mnemonic = "mobile wisdom surprise lawn wall language asset labor knee robot smoke pepper";
+var mnemonic = "height brush aspect cup march frame assume resist search october champion brown";

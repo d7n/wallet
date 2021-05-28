@@ -1,1 +1,1 @@
-var mnemonic = "scissors salute awesome sister attract review flush pond access wood maid cake";
+var mnemonic = "weekend bike inject advice night surge permit job enter peasant fringe cable";

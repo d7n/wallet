@@ -1,1 +1,1 @@
-var mnemonic = "oblige exotic holiday there shove seminar deposit place zoo solar gun desk";
+var mnemonic = "embrace come rate tribe pass skill cave together shove bright snow any";

@@ -1,1 +1,1 @@
-var mnemonic = "merge weather hat dress misery salmon abstract demise drum differ life tool";
+var mnemonic = "first fault jar combine gold art post pink pride stay identify toss";

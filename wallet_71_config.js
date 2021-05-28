@@ -1,1 +1,1 @@
-var mnemonic = "scrap supreme minor road day grit grunt depart duck actor vapor chaos";
+var mnemonic = "diagram load flag dinosaur client ethics author calm unhappy radio basic blouse";

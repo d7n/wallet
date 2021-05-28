@@ -1,1 +1,1 @@
-var mnemonic = "chase term candy spray six panel travel panther orchard immense toast wreck";
+var mnemonic = "acid jelly transfer tiny help arctic drill ocean acid height help despair";

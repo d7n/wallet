@@ -1,1 +1,1 @@
-var mnemonic = "calm dog flee chest whisper lift drip dawn hurdle catch fatal foam";
+var mnemonic = "crash wrap peanut bargain elephant hammer crazy skate educate giggle truck scene";

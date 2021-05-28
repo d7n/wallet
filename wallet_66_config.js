@@ -1,1 +1,1 @@
-var mnemonic = "salon evoke true slab rely duck effort wedding vacant famous forward gain";
+var mnemonic = "allow tilt crawl biology evidence buzz swear card slogan entire balance antenna";

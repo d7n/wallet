@@ -1,1 +1,1 @@
-var mnemonic = "chase yellow matrix comic beach material ability dutch congress skate hazard mad";
+var mnemonic = "program like home hawk father coral defense spy merit chunk indoor hazard";

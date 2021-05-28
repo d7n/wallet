@@ -1,1 +1,1 @@
-var mnemonic = "wealth era vapor super situate piano flight cereal nephew unlock twice outdoor";
+var mnemonic = "useless hub desert insect extra below school emotion punch apart pluck blanket";

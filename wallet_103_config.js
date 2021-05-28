@@ -1,1 +1,1 @@
-var mnemonic = "shrug fever skate essay tail this feel ill bar same track account";
+var mnemonic = "federal hundred buffalo bridge lift moon attitude ostrich act job lottery wood";

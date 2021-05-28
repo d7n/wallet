@@ -1,1 +1,1 @@
-var mnemonic = "spider reopen repeat often elite either lazy awkward edge sword region grant";
+var mnemonic = "shrug service drum ranch size solve chimney series critic enact stumble photo";

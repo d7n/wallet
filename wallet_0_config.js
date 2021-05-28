@@ -1,1 +1,1 @@
-var mnemonic = "craft demand celery alter breeze inmate deer around civil shy promote announce";
+var mnemonic = "voyage buyer empty hurry wolf rescue where tongue similar monkey leopard face";

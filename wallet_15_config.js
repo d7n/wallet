@@ -1,1 +1,1 @@
-var mnemonic = "economy wrap crowd desk story offer edit chest pistol scout swamp lemon";
+var mnemonic = "bone kitchen iron early walk jaguar ranch gadget farm civil inch aerobic";

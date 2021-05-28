@@ -1,1 +1,1 @@
-var mnemonic = "need random enjoy furnace spoil hero silent grow jelly scan decrease life";
+var mnemonic = "thunder armor reopen fork almost fault universe program point benefit measure cereal";

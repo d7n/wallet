@@ -1,1 +1,1 @@
-var mnemonic = "chest crime yard silk mystery yard woman cake scorpion puppy seat rifle";
+var mnemonic = "smooth design assume diamond avocado famous bean lion paddle sad clean toy";

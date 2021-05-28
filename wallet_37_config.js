@@ -1,1 +1,1 @@
-var mnemonic = "hidden veteran powder antenna dynamic edit charge uncle want fly choose true";
+var mnemonic = "month pet twist term exact rookie wagon near sense roof aisle tone";

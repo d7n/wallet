@@ -1,1 +1,1 @@
-var mnemonic = "paddle sort include isolate umbrella side involve unique opinion tonight trash toss";
+var mnemonic = "imitate lift exercise egg govern monster oppose tornado dilemma loan matter answer";

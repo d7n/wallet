@@ -1,1 +1,1 @@
-var mnemonic = "there doll enemy square ceiling eagle forest rocket school denial dance equip";
+var mnemonic = "ketchup suffer electric basket trash entire inherit two allow remember language first";

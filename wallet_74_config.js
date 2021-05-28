@@ -1,1 +1,1 @@
-var mnemonic = "winner lab custom prevent crane shop drift program silly ripple puzzle job";
+var mnemonic = "scan ensure giraffe twist ancient struggle fabric section lock fashion margin bar";

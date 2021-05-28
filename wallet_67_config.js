@@ -1,1 +1,1 @@
-var mnemonic = "cry door outer tobacco bring flower forward crouch correct approve vintage edge";
+var mnemonic = "search pond blouse light cycle scatter cradle refuse muffin tobacco pool blanket";

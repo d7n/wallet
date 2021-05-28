@@ -1,1 +1,1 @@
-var mnemonic = "garbage memory come equip toe damp repeat dismiss saddle marine minimum wife";
+var mnemonic = "wink alpha famous twist ritual advance flight action split cradle topple pattern";

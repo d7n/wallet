@@ -1,1 +1,1 @@
-var mnemonic = "wink rather basket pepper spoon junior forget foil reopen rich live stock";
+var mnemonic = "include seek brief weapon wink young circle combine sure purse social claim";

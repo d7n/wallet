@@ -1,1 +1,1 @@
-var mnemonic = "dial language rigid detect local order what decide liar light keen summer";
+var mnemonic = "matter announce hungry debris evolve thunder matter frown copper tool fancy luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "earn grain electric dignity custom meat session achieve much cruel quantum liquid";
+var mnemonic = "slot barrel crumble glare jazz frown home rapid across pitch deputy exclude";

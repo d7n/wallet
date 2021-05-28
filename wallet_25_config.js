@@ -1,1 +1,1 @@
-var mnemonic = "scrap captain thought jewel lumber cause rabbit someone crane stuff sauce diesel";
+var mnemonic = "divide slam concert olive garlic luggage favorite glue wine hat reduce opinion";
