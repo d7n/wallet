@@ -1,1 +1,1 @@
-var mnemonic = "elephant soap icon multiply grain token toe clock donkey brick caught benefit";
+var mnemonic = "fine chase pipe mountain fit aunt real head desk wonder update link";

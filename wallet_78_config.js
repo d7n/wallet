@@ -1,1 +1,1 @@
-var mnemonic = "matter forest pole inform police glad electric define dice horn word quit";
+var mnemonic = "night pizza wage vocal spread forward survey sustain range jump blush exchange";

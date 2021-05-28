@@ -1,1 +1,1 @@
-var mnemonic = "friend noble rose demand average copper text memory ketchup noble tornado credit";
+var mnemonic = "canoe upper shove buzz speak shoulder deposit embark upon tip deny fly";

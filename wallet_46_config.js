@@ -1,1 +1,1 @@
-var mnemonic = "sound trigger example myself despair voyage omit ripple enough gadget lizard evoke";
+var mnemonic = "aim invest give cover bubble art panda switch stay author ramp casual";

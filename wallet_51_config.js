@@ -1,1 +1,1 @@
-var mnemonic = "earn spirit game glad powder perfect climb loop goddess embody odor control";
+var mnemonic = "tortoise vintage magnet glimpse tortoise nominee figure rescue retire depth decade identify";

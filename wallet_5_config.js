@@ -1,1 +1,1 @@
-var mnemonic = "absurd tag brother observe alone donate depart glass salt logic sphere feature";
+var mnemonic = "shaft lab shoot system note wire trophy fine kiss safe consider helmet";

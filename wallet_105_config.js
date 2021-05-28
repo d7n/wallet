@@ -1,1 +1,1 @@
-var mnemonic = "rate autumn animal lawsuit fatigue shift tide differ protect supply include asthma";
+var mnemonic = "erase cherry analyst elevator text birth one shy eight meadow gravity history";

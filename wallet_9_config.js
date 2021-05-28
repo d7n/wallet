@@ -1,1 +1,1 @@
-var mnemonic = "never chunk unfold taxi frequent board wide ranch detect change balance frog";
+var mnemonic = "cancel blame supreme equip pottery crop scout injury shuffle limit bar crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp mix problem maid vapor memory mixed swamp federal husband sell tennis";
+var mnemonic = "cotton grab focus ball stove decade jeans rather leader recipe current surround";

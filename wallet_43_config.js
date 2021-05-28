@@ -1,1 +1,1 @@
-var mnemonic = "liberty extend cream reflect fix desk police always trend bring dash fun";
+var mnemonic = "rather title ask share stem bike reopen blush trust embark library elite";

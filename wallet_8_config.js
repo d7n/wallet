@@ -1,1 +1,1 @@
-var mnemonic = "jacket uncle shell shiver effort street simple omit dinosaur sustain suffer cancel";
+var mnemonic = "manage hockey vast foam ensure refuse crisp double clay goddess payment student";

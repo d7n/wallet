@@ -1,1 +1,1 @@
-var mnemonic = "insane unusual cricket flat junk borrow spin panther ripple faculty predict primary";
+var mnemonic = "whisper shoot swamp speak address census warm diamond tuition bubble album affair";

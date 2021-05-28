@@ -1,1 +1,1 @@
-var mnemonic = "old route other hawk fine night news tragic screen quality injury mad";
+var mnemonic = "child advance work report current prize trick video apology birth fatigue ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "sure firm festival seat enter convince task talk bottom wasp venue run";
+var mnemonic = "hidden timber average sing goat surface short crop bracket they social deny";

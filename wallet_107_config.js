@@ -1,1 +1,1 @@
-var mnemonic = "treat alert thrive manage exotic shift flag dial mushroom enough private refuse";
+var mnemonic = "radio robot actor green baby sister hard crush fabric beyond curious rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle jungle now state video power torch quiz remove rabbit traffic kit";
+var mnemonic = "angry wink satoshi enter jazz enjoy main maid retire oxygen soda toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "script oil manual top sunset wide mean shaft engage clean butter senior";
+var mnemonic = "dwarf royal spy ready exist mistake inject drift inflict rent coffee style";

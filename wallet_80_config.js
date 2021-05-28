@@ -1,1 +1,1 @@
-var mnemonic = "report eager junior scheme runway town claw gesture balance police forward daring";
+var mnemonic = "laundry mirror teach resource survey fetch utility crucial combine noodle mammal put";

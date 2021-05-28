@@ -1,1 +1,1 @@
-var mnemonic = "shoe desert identify cabin olive air ocean aspect wear latin spoon spatial";
+var mnemonic = "muscle acquire summer critic order battle increase ordinary soup educate piece input";

@@ -1,1 +1,1 @@
-var mnemonic = "leg tortoise broken win siege story supreme behave edge hundred clever nothing";
+var mnemonic = "armor force mixed vocal exist slow staff rail heavy era theme coin";

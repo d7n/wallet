@@ -1,1 +1,1 @@
-var mnemonic = "turtle diamond already shallow memory shoot inherit together picture evil purpose sock";
+var mnemonic = "chronic rich aspect stone kite pause popular inch confirm river kitten chuckle";

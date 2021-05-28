@@ -1,1 +1,1 @@
-var mnemonic = "hurry fever dawn artist protect elevator machine cheap radio shoe minor boring";
+var mnemonic = "clog dawn seed eager purpose enemy decade churn sponsor usage south hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "odor talk leopard same faint assume wagon actual purpose visa day yard";
+var mnemonic = "unfair result perfect salon seven brand reason normal culture victory blanket assault";

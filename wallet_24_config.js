@@ -1,1 +1,1 @@
-var mnemonic = "puzzle egg fade inflict hybrid cigar vessel infant file wheat know chat";
+var mnemonic = "strategy ride pelican run vital program silent private erupt van hood rebuild";

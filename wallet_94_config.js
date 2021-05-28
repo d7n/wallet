@@ -1,1 +1,1 @@
-var mnemonic = "focus unfold echo olympic oblige target good crystal north tray outside donor";
+var mnemonic = "firm slice color couple attack brush purchase pottery swear damage salad fly";

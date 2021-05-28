@@ -1,1 +1,1 @@
-var mnemonic = "decline citizen abandon pulse name high giraffe permit flower lion stock supply";
+var mnemonic = "feed hello marriage service miracle airport wear upper give hamster diet color";

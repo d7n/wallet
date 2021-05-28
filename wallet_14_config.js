@@ -1,1 +1,1 @@
-var mnemonic = "fitness join fitness define win erase kid correct ostrich find material wild";
+var mnemonic = "mother find plug wonder unhappy fury ostrich young certain fluid divide inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "join orbit deliver original exist harvest goat night dizzy coil make mean";
+var mnemonic = "brother lunch kind scene educate drill rubber large quit tornado width fuel";

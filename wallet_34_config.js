@@ -1,1 +1,1 @@
-var mnemonic = "bar tell zone normal bind kit student note arrest globe fix hungry";
+var mnemonic = "plastic kidney eager rescue gloom fun rigid rare cat image twist flash";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain mercy embark artefact cost parade stand grain enjoy retreat abandon poverty";
+var mnemonic = "solve hood cover satoshi gold quick arctic civil donate unfair census bag";

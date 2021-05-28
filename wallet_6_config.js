@@ -1,1 +1,1 @@
-var mnemonic = "chapter modify text goose real direct merge what vendor crazy ski vanish";
+var mnemonic = "town floor venue laugh job arrest midnight scorpion script theory exhaust harbor";

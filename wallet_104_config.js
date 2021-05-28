@@ -1,1 +1,1 @@
-var mnemonic = "cake hunt deny meadow recipe young beef another journey raise picture sort";
+var mnemonic = "wagon lecture electric dumb nothing produce horror focus raccoon capital gas raw";

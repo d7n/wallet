@@ -1,1 +1,1 @@
-var mnemonic = "congress notable session crush casino receive effort give around ignore normal wall";
+var mnemonic = "lend virus inherit satisfy color sing found among tip please estate primary";

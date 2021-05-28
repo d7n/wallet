@@ -1,1 +1,1 @@
-var mnemonic = "same protect cry oblige elite noble tortoise easily luxury loan hungry elephant";
+var mnemonic = "bunker sun fade smile eyebrow husband pretty tonight autumn such symbol tone";

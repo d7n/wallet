@@ -1,1 +1,1 @@
-var mnemonic = "axis profit farm sadness fantasy thank bottom join float rifle essay elephant";
+var mnemonic = "walk double educate wage embrace burst debris float lawn raccoon secret vocal";

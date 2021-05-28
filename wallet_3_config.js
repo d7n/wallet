@@ -1,1 +1,1 @@
-var mnemonic = "wood baby cinnamon goddess dragon cook drip reason live vast ostrich furnace";
+var mnemonic = "holiday enough eager slogan stem slot collect invite pen robot cross slab";

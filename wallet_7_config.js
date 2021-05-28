@@ -1,1 +1,1 @@
-var mnemonic = "answer scheme dynamic demand glue purity original disease battle agent kiss index";
+var mnemonic = "half renew bunker organ six cloud extend action skin pattern planet energy";

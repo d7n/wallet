@@ -1,1 +1,1 @@
-var mnemonic = "orient caught deny travel trip steak tube company audit bright shallow glare";
+var mnemonic = "myself bird spatial dog rifle distance damp yard priority casino rival tail";

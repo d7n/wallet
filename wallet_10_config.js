@@ -1,1 +1,1 @@
-var mnemonic = "resist run predict oppose usual rookie festival fence chase swap birth cereal";
+var mnemonic = "fat place lobster stereo egg project ivory kangaroo match hockey skull share";

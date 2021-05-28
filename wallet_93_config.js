@@ -1,1 +1,1 @@
-var mnemonic = "novel ramp aware miss abandon boy method tide fury physical ugly lemon";
+var mnemonic = "rate beauty mixture possible chief slow woman slam blast host topple crop";

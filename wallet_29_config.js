@@ -1,1 +1,1 @@
-var mnemonic = "engage token capable bunker use sell ocean that profit close divorce actual";
+var mnemonic = "early defy planet assault latin marble provide parent pet harbor session giant";

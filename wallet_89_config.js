@@ -1,1 +1,1 @@
-var mnemonic = "kitchen among shine unaware maple museum expire verb address organ symptom street";
+var mnemonic = "cactus badge kiwi rack media foil lab tag ask into scene prepare";

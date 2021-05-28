@@ -1,1 +1,1 @@
-var mnemonic = "ticket empty oppose town coral spring favorite cost wonder slow rose march";
+var mnemonic = "easy entry drive wage office divorce cable opinion few buddy inject hotel";

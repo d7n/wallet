@@ -1,1 +1,1 @@
-var mnemonic = "luxury arena escape clean print sea crunch once proud concert scissors sound";
+var mnemonic = "tree funny reunion always oval visa apple strategy cancel buddy surprise master";

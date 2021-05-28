@@ -1,1 +1,1 @@
-var mnemonic = "ostrich panic curious domain fiber good seat forget opinion vapor limit test";
+var mnemonic = "survey ignore claim until flip biology real sell oak math unlock common";

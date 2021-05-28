@@ -1,1 +1,1 @@
-var mnemonic = "prefer song voyage script mercy quiz person amount spirit hub quantum blouse";
+var mnemonic = "bacon worth melt mandate awake fame alert hospital notice regular original forum";

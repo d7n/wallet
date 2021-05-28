@@ -1,1 +1,1 @@
-var mnemonic = "feel feed talent lamp behind spider again whip taxi roast eternal plunge";
+var mnemonic = "atom doll lab gadget term gravity used pulp era winner debate range";

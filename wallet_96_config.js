@@ -1,1 +1,1 @@
-var mnemonic = "uniform dismiss fitness three oyster casino fresh east energy outer chase sleep";
+var mnemonic = "average clump state time digital next dance cherry engage thing timber toe";

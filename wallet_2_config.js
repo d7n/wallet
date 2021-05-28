@@ -1,1 +1,1 @@
-var mnemonic = "soon vote rain earth setup ordinary spoon split popular glass oyster denial";
+var mnemonic = "remind tomato code april husband kick unknown high wool noble note ocean";

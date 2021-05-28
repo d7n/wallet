@@ -1,1 +1,1 @@
-var mnemonic = "hand execute achieve august vast traffic echo nature proud coin pony popular";
+var mnemonic = "mean inflict still grocery spoil neutral together idea office yellow life boost";

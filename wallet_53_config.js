@@ -1,1 +1,1 @@
-var mnemonic = "verb hint fitness choose patient nephew verb dry excuse abandon employ thunder";
+var mnemonic = "render loud emotion dad display depend consider emerge romance run similar noble";

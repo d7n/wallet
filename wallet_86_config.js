@@ -1,1 +1,1 @@
-var mnemonic = "shove arm caught shaft inherit disorder this sample wasp taxi vehicle able";
+var mnemonic = "return say satisfy scheme kangaroo subject dragon knife wall rhythm naive mixed";

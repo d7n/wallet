@@ -1,1 +1,1 @@
-var mnemonic = "jewel inquiry auction curious sick cream snow enact move rude quality retreat";
+var mnemonic = "soon vessel away cactus awake wrong sock can caution actor minute smooth";

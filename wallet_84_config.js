@@ -1,1 +1,1 @@
-var mnemonic = "title vendor aerobic garlic half theory country cruel trial spend acquire sustain";
+var mnemonic = "mirror stage monster like steel echo enemy stock slab upper glory opinion";

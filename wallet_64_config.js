@@ -1,1 +1,1 @@
-var mnemonic = "guilt danger must avocado dirt taxi mom faith notable debate chest holiday";
+var mnemonic = "couch drill hundred version illness awful shove audit seven fuel hero slogan";

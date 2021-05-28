@@ -1,1 +1,1 @@
-var mnemonic = "divorce arrive banana shoulder voice satisfy cloud media scout amount middle hat";
+var mnemonic = "half narrow gloom cage wise million toast iron deal atom street person";

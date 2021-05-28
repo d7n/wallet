@@ -1,1 +1,1 @@
-var mnemonic = "immense dolphin twenty wide smoke remove menu require cross easy pelican twelve";
+var mnemonic = "alpha purpose denial alcohol hat bid dynamic expire crystal excuse now brown";

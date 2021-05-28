@@ -1,1 +1,1 @@
-var mnemonic = "hover february shell flame chat number spatial eye ozone coyote fabric bronze";
+var mnemonic = "basic inch marriage someone detect father first cloud write guilt nut raw";

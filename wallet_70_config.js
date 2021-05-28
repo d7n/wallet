@@ -1,1 +1,1 @@
-var mnemonic = "denial cash witness claim circle stick pudding torch rival strategy ritual gospel";
+var mnemonic = "category vacant artist craft cry effort toss leaf zero warm time puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "much uniform news above prefer dwarf coil speak junk model heavy lizard";
+var mnemonic = "want venue squeeze immune industry artefact reflect tumble ordinary same cargo coyote";

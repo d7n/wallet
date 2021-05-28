@@ -1,1 +1,1 @@
-var mnemonic = "lecture language bronze stumble globe net trouble sorry machine blade soda shaft";
+var mnemonic = "index night year fantasy bubble radar catalog result step property vital reopen";

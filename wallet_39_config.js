@@ -1,1 +1,1 @@
-var mnemonic = "tumble piano ladder belt worth delay jeans float wedding same ticket treat";
+var mnemonic = "office forum predict teach office filter brief ice north wood hope slight";

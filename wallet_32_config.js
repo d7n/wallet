@@ -1,1 +1,1 @@
-var mnemonic = "broccoli else peanut weekend olive depend bar hamster way witness load orphan";
+var mnemonic = "oblige salad they spray bench absurd myself apology exile brush napkin fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "zero bring kick divorce olive ozone law fitness witness nose food dumb";
+var mnemonic = "field cinnamon kit crucial fluid border social volcano enter tilt response burger";

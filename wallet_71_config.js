@@ -1,1 +1,1 @@
-var mnemonic = "chimney slogan meadow claim fade clutch profit primary now afford used unaware";
+var mnemonic = "sauce chimney anger police grape glass sibling hurry elephant oyster cream clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "base siren hair gorilla annual jump walnut razor suit diary romance govern";
+var mnemonic = "enough chef whisper thrive hero sorry menu hamster all ecology stumble grape";

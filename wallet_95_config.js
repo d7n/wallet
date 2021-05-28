@@ -1,1 +1,1 @@
-var mnemonic = "arch dinosaur stairs accuse chaos physical laugh cave involve mail found cross";
+var mnemonic = "onion pulp famous bargain giggle scheme profit chest true toward lava flavor";

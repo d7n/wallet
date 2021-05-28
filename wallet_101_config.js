@@ -1,1 +1,1 @@
-var mnemonic = "cloud raccoon surprise wire exile now knife slab dismiss wise tiny dizzy";
+var mnemonic = "creek load menu viable magnet cluster enable bamboo sort swamp slim belt";

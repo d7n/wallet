@@ -1,1 +1,1 @@
-var mnemonic = "glass burden toy antique attack theme trend puzzle enlist wealth sister produce";
+var mnemonic = "admit horror hint daring occur crack benefit silent match clip ask topic";

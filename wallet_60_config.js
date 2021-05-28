@@ -1,1 +1,1 @@
-var mnemonic = "dawn list tenant globe chapter hungry piece bulk beauty lunch vicious quantum";
+var mnemonic = "cute avocado bless voice monster inform anchor bone link good salmon cycle";

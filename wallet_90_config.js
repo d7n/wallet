@@ -1,1 +1,1 @@
-var mnemonic = "fox chase equal level weapon eagle deposit mixed boat pigeon novel rug";
+var mnemonic = "label drop slim insect fatal slush cluster clap van wild spirit actress";

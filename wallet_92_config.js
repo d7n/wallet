@@ -1,1 +1,1 @@
-var mnemonic = "tilt reject change prevent give luxury rule come fruit rally salad birth";
+var mnemonic = "valley choice topple boss various push disagree finger large poverty wood engine";

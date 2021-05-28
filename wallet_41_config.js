@@ -1,1 +1,1 @@
-var mnemonic = "safe friend reward useless question cluster stick wrist stove asset where sniff";
+var mnemonic = "mouse rapid fall weapon oval goose wide exit rubber hedgehog hood camera";

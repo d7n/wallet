@@ -1,1 +1,1 @@
-var mnemonic = "slot crucial tongue motor job car kite fold prize leaf off ready";
+var mnemonic = "observe symbol square tonight rocket course runway acoustic detail broccoli champion private";

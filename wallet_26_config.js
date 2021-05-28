@@ -1,1 +1,1 @@
-var mnemonic = "follow yellow hint girl floor crouch capable bacon ethics hour obvious ice";
+var mnemonic = "exercise culture clever physical photo prosper front there gaze believe castle extend";

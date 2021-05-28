@@ -1,1 +1,1 @@
-var mnemonic = "ginger tilt abuse curtain good myself hip indoor athlete must leopard youth";
+var mnemonic = "seven harvest choice ancient join ribbon twist elite area knock exist heart";

@@ -1,1 +1,1 @@
-var mnemonic = "worry order word visa renew figure account guitar chicken lobster tenant battle";
+var mnemonic = "legend people pig liberty rubber festival reward home certain fiscal cup federal";

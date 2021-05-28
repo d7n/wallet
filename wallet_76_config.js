@@ -1,1 +1,1 @@
-var mnemonic = "kind shaft seminar lizard off unique drive pond olympic check rotate west";
+var mnemonic = "table trap stumble chat picture web lens believe riot swift catch safe";

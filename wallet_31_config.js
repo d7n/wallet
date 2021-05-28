@@ -1,1 +1,1 @@
-var mnemonic = "dilemma link audit woman hello glory fabric element bleak electric various river";
+var mnemonic = "trouble wrong grain bubble wear debate slide usual concert corn soon dinosaur";

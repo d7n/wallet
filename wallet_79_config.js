@@ -1,1 +1,1 @@
-var mnemonic = "effort original bamboo scene harsh such mystery shield fall corn health item";
+var mnemonic = "panther coconut sport vague slice chair chunk tonight eternal escape affair add";

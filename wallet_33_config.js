@@ -1,1 +1,1 @@
-var mnemonic = "hundred october jar final tuition common grape price abuse maple acquire copper";
+var mnemonic = "bone shaft survey cactus pave force zone amateur there forward before sword";

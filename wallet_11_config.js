@@ -1,1 +1,1 @@
-var mnemonic = "athlete legend boring town love sad shell engage secret other use crystal";
+var mnemonic = "neglect neck poverty curve depart will wrist elevator elephant quantum father story";

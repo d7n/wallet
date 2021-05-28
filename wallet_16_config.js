@@ -1,1 +1,1 @@
-var mnemonic = "have magic zebra throw wine foot either hazard humble stove range gym";
+var mnemonic = "barrel retreat share process host hour engine exist family pause bless question";

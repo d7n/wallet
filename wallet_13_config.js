@@ -1,1 +1,1 @@
-var mnemonic = "poem flat again bicycle awesome noise another motor hotel bullet borrow approve";
+var mnemonic = "hawk biology globe element borrow elder organ drink mind easy venture flip";
