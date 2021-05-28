@@ -1,1 +1,1 @@
-var mnemonic = "bargain circle park access accuse secret stomach attack surprise dinner grocery prepare";
+var mnemonic = "pluck maple concert inherit latin bullet spike awkward muffin miracle fatal quit";

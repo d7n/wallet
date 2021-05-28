@@ -1,1 +1,1 @@
-var mnemonic = "soda deal twenty toss dumb law page inform brief life furnace slender";
+var mnemonic = "fire history size hen mobile risk ketchup world caution hood say breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "stand monitor derive nephew scene tonight antenna way bench jump ozone film";
+var mnemonic = "illness crystal cross indoor banana brush will fiber chat nephew foam tip";

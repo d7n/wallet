@@ -1,1 +1,1 @@
-var mnemonic = "lumber guess harvest icon actress visual cable sunny arch army swallow destroy";
+var mnemonic = "bone flee glad always charge trip rose tragic mix height differ oak";

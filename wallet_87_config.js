@@ -1,1 +1,1 @@
-var mnemonic = "debate scan input endless ecology hurry strategy usage panic focus flush acid";
+var mnemonic = "local west move myself unfair gain ill unveil peasant canal fossil trip";

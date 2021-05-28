@@ -1,1 +1,1 @@
-var mnemonic = "cloud burst stereo antenna timber dance copper smoke treat local amazing total";
+var mnemonic = "family honey fashion endorse era universe exile near reason plunge segment card";

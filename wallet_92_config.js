@@ -1,1 +1,1 @@
-var mnemonic = "bless gesture region purpose section crime aerobic wolf where start skull better";
+var mnemonic = "sail patrol giant garment mass stem pill this dash side regret song";

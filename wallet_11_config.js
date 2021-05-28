@@ -1,1 +1,1 @@
-var mnemonic = "trap budget very dose pole final taxi ship royal bracket news else";
+var mnemonic = "awesome pride purse snap mean resemble try exotic parade manual road junk";

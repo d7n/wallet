@@ -1,1 +1,1 @@
-var mnemonic = "either explain travel month mandate inmate tide during swarm volume brown people";
+var mnemonic = "notice junior among submit era click mirror dirt misery poverty spirit slender";

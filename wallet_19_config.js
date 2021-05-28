@@ -1,1 +1,1 @@
-var mnemonic = "spend game penalty horror cage place great engine bundle memory tuna tumble";
+var mnemonic = "tube already budget climb consider carbon book history network click amateur brain";

@@ -1,1 +1,1 @@
-var mnemonic = "skull cycle tide enlist fiber lab language crowd novel measure all pioneer";
+var mnemonic = "next universe beauty cram general boy across air during uphold child weekend";

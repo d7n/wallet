@@ -1,1 +1,1 @@
-var mnemonic = "salute resemble chase maid noble mail cabbage razor aspect test special cupboard";
+var mnemonic = "enforce lamp exact avocado shine onion nurse fall marriage nuclear razor pluck";

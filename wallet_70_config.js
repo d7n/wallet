@@ -1,1 +1,1 @@
-var mnemonic = "vintage cave whale fortune stomach admit palm credit tell topic curious bench";
+var mnemonic = "drift screen save cry crucial wasp narrow desert coach warrior pause off";

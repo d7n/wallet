@@ -1,1 +1,1 @@
-var mnemonic = "cactus debate gasp inspire gesture flame captain joke million harvest gown inch";
+var mnemonic = "poet kidney innocent spice enter middle make pudding crush velvet demand odor";

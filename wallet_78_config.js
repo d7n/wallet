@@ -1,1 +1,1 @@
-var mnemonic = "exercise trap tiny ghost hill grow crop young rookie speak blade suggest";
+var mnemonic = "angry patient leisure virtual labor hip multiply bullet dry bronze camp primary";

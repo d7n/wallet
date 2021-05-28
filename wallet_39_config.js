@@ -1,1 +1,1 @@
-var mnemonic = "actual correct okay found story filter sugar side humble zoo chase spoon";
+var mnemonic = "buzz easily forest enable express census spoon kid banana unknown oppose mad";

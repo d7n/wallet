@@ -1,1 +1,1 @@
-var mnemonic = "cake skull flee fire scan hawk argue catalog helmet hammer shaft chat";
+var mnemonic = "hidden hover butter damp few fortune degree hint damage gesture keep valley";

@@ -1,1 +1,1 @@
-var mnemonic = "easily home make blood curve confirm galaxy airport pond cage consider hen";
+var mnemonic = "indoor syrup crystal celery alien rich medal exotic clever seminar elephant essence";

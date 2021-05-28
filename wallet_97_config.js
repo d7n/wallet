@@ -1,1 +1,1 @@
-var mnemonic = "emotion victory shop stadium brother color feature visit weapon gun minute broken";
+var mnemonic = "nothing divide meat pony earth load nature acid over praise mandate sell";

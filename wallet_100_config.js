@@ -1,1 +1,1 @@
-var mnemonic = "endorse episode issue ignore need diary relief robot picnic clinic boy artwork";
+var mnemonic = "exist arm jungle attend message regret pizza punch cradle easy victory chunk";

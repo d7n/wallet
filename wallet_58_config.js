@@ -1,1 +1,1 @@
-var mnemonic = "net lemon increase remind cup plug offer essence pond recipe dismiss action";
+var mnemonic = "husband sustain camera ball dove mammal render maple glide fatigue urban bag";

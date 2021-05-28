@@ -1,1 +1,1 @@
-var mnemonic = "owner various suffer ketchup garage stone east current earth steel brave job";
+var mnemonic = "social pill fortune sight mansion furnace toilet fly school tilt scorpion puppy";

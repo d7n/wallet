@@ -1,1 +1,1 @@
-var mnemonic = "quiz cancel night brisk tone pretty spare angry hunt surge father group";
+var mnemonic = "route success express license recycle million miracle limit sight list era trap";

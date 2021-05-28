@@ -1,1 +1,1 @@
-var mnemonic = "deliver nerve grain inch rookie differ walk brass cable pool stove exotic";
+var mnemonic = "castle legend kiss tumble inhale stage riot age olive churn cream lunar";

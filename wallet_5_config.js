@@ -1,1 +1,1 @@
-var mnemonic = "egg achieve certain electric woman plunge ceiling horn sing gate left grape";
+var mnemonic = "teach pave relax guard common rail shadow ancient recall pond bind acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp reason floor wage jaguar joy person major reveal school artist visit";
+var mnemonic = "auction retreat member cancel ostrich tenant desert fee squeeze helmet panther science";

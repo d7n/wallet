@@ -1,1 +1,1 @@
-var mnemonic = "mosquito drip cigar blossom order execute decorate border pet decorate impose echo";
+var mnemonic = "job hazard visual crawl color bench cost tissue dentist chapter inmate club";

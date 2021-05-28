@@ -1,1 +1,1 @@
-var mnemonic = "hidden couple powder theory vague release include conduct series size develop depth";
+var mnemonic = "crystal snow caution play drink radio recipe forum neither hold fade jazz";

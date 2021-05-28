@@ -1,1 +1,1 @@
-var mnemonic = "humble zone bottom consider record olive poverty style jewel depart impose citizen";
+var mnemonic = "will season pear auto heavy rack already screen plastic zebra seat pioneer";

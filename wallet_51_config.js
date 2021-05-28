@@ -1,1 +1,1 @@
-var mnemonic = "piano silly december universe tennis damp other cluster slush cream yard example";
+var mnemonic = "sorry monster wire stick vibrant service decorate eager rate control congress caution";

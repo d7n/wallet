@@ -1,1 +1,1 @@
-var mnemonic = "flock enact game rally diagram brick rescue few lounge pioneer suspect stem";
+var mnemonic = "pull ocean grow lounge prosper enroll pyramid spend wet hello other come";

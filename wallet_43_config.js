@@ -1,1 +1,1 @@
-var mnemonic = "physical swap cabbage symptom sign daughter twenty sad kingdom act kiss jeans";
+var mnemonic = "reveal robust shadow juice crime turtle tennis clinic poem improve fork syrup";

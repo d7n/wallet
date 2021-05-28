@@ -1,1 +1,1 @@
-var mnemonic = "excess multiply mango ready soul idea run nasty never secret hidden churn";
+var mnemonic = "usage bamboo hollow pig bring winner large curious element banner dirt feel";

@@ -1,1 +1,1 @@
-var mnemonic = "truth morning path truth travel useless mosquito goat park level tent extra";
+var mnemonic = "wrestle indicate hover expire okay injury add sausage machine symbol chat escape";

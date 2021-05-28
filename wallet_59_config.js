@@ -1,1 +1,1 @@
-var mnemonic = "struggle praise industry before pole fringe ice erosion engine van under runway";
+var mnemonic = "hurry moon rapid game fox mail dove tongue believe disagree benefit there";

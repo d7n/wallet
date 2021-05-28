@@ -1,1 +1,1 @@
-var mnemonic = "country tomorrow oval fuel verb silly friend used hurry spice warm plastic";
+var mnemonic = "typical gesture exit girl gadget duck science stick tiny flock airport subway";

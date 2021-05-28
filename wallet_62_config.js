@@ -1,1 +1,1 @@
-var mnemonic = "science prison nominee picture mimic unique scan oil own deer wall enjoy";
+var mnemonic = "step vast crater bar idle essay away runway addict payment cinnamon camp";

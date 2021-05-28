@@ -1,1 +1,1 @@
-var mnemonic = "clog insect assault above else lazy valve fall tobacco tree enough develop";
+var mnemonic = "bulb bomb face velvet leaf wool involve best runway degree world gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "heart bubble scrap virus dawn pattern dad dog duty puzzle evoke virus";
+var mnemonic = "fork glow hat celery message opera bundle remember donkey reason deliver fiber";

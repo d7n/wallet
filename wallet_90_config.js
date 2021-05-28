@@ -1,1 +1,1 @@
-var mnemonic = "exit quality awake luggage carry video flag design fuel frozen job access";
+var mnemonic = "squirrel sausage parent ship gorilla sight caution correct rug above marine weapon";

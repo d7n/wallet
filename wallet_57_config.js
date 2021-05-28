@@ -1,1 +1,1 @@
-var mnemonic = "fuel upper mystery shed sad sport prevent spy praise dinosaur iron muscle";
+var mnemonic = "sing resource try grid mosquito fee volume outer one wonder wrong shoe";

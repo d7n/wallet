@@ -1,1 +1,1 @@
-var mnemonic = "connect artwork kitten champion battle betray planet length faith mountain advice knife";
+var mnemonic = "possible circle palace noise meat what desk smile juice scorpion radar buddy";

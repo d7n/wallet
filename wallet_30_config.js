@@ -1,1 +1,1 @@
-var mnemonic = "panic shaft frozen eager make domain stock join apart govern attract choose";
+var mnemonic = "present sure surface unfold pitch chair indoor better glance quarter lion thank";

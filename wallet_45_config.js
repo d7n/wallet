@@ -1,1 +1,1 @@
-var mnemonic = "liberty tired bachelor voice number poem employ twenty ride session since shuffle";
+var mnemonic = "shop film tilt mouse excess tail cost rib vast reduce grass pluck";

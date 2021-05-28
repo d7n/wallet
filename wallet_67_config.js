@@ -1,1 +1,1 @@
-var mnemonic = "old hope predict what mammal alcohol supply exhaust hood dance merit evoke";
+var mnemonic = "cream fit hat off buyer notable engage tragic bottom rail bid thunder";

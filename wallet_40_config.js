@@ -1,1 +1,1 @@
-var mnemonic = "whisper rude chief lunch castle month clutch yard dust gentle goose derive";
+var mnemonic = "enlist tide zebra pottery spoil fish coyote syrup supply olympic load have";

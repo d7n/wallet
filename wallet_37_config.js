@@ -1,1 +1,1 @@
-var mnemonic = "west include region symptom mom force duck evil minute leader cushion miss";
+var mnemonic = "shallow machine impose about duck height bridge crowd turtle runway select envelope";

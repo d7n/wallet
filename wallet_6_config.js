@@ -1,1 +1,1 @@
-var mnemonic = "bright sail kangaroo vital library zoo embody pond amused sure will atom";
+var mnemonic = "couple leader build source parent buyer furnace two cheap wisdom crane cradle";

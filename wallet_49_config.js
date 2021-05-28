@@ -1,1 +1,1 @@
-var mnemonic = "rifle dune way hundred corn indoor leisure two hen rough battle surround";
+var mnemonic = "funny immune render tomorrow eight eye hard soup mixture harsh beauty invite";

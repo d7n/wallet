@@ -1,1 +1,1 @@
-var mnemonic = "jump monitor enter physical cream faith gossip ice master magnet tackle robot";
+var mnemonic = "athlete okay cream usual model mutual alcohol taxi normal play antique web";

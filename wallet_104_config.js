@@ -1,1 +1,1 @@
-var mnemonic = "industry vault prepare number razor cloud remain shop upper grape top ankle";
+var mnemonic = "noble mandate agent spice answer lift crazy indicate trophy desk loan fashion";

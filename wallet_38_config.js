@@ -1,1 +1,1 @@
-var mnemonic = "worry menu jacket brisk spoon snow garden front place mutual mango inner";
+var mnemonic = "lunar battle upgrade quote congress tattoo gain curtain deny climb slow lady";

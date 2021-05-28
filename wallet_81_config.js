@@ -1,1 +1,1 @@
-var mnemonic = "afraid police disorder upgrade bounce phrase purpose alarm mixed also rate hurt";
+var mnemonic = "parade cry slush junior already object pride jelly over parent soon grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp derive uphold bread quantum forum bullet animal mixture order model employ";
+var mnemonic = "scissors hotel wine year exit drink horror decide time artist endorse flame";

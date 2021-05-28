@@ -1,1 +1,1 @@
-var mnemonic = "actual enter loop alien knock medal disorder click sheriff dentist ladder piece";
+var mnemonic = "panther release remove curious frame life pave menu island keen sniff bronze";

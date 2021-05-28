@@ -1,1 +1,1 @@
-var mnemonic = "ten live world grid weird taxi elbow cotton hip seat domain need";
+var mnemonic = "hole promote outdoor coffee shiver clump marriage clock capital arm access horse";

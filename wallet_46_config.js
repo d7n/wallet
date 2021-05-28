@@ -1,1 +1,1 @@
-var mnemonic = "bacon neck main decorate desert puzzle analyst fiscal home shove trophy emerge";
+var mnemonic = "shoulder napkin obscure tide click dizzy lottery narrow mesh pencil harvest fiction";

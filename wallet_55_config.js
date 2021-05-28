@@ -1,1 +1,1 @@
-var mnemonic = "carpet sibling square soldier health danger menu prepare air wood write super";
+var mnemonic = "region possible festival despair pull truly unit decide key claim virus sphere";

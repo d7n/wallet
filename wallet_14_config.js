@@ -1,1 +1,1 @@
-var mnemonic = "vibrant thought celery layer middle lonely fringe ranch dice clutch diesel there";
+var mnemonic = "borrow army enjoy tell dash future bonus acoustic average because grass giraffe";

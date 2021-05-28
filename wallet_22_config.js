@@ -1,1 +1,1 @@
-var mnemonic = "essay broom then clay excess until edge siren pudding glare legal swarm";
+var mnemonic = "soap fit differ rhythm film knee breeze verify brick cloud scale pulp";

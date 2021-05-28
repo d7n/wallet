@@ -1,1 +1,1 @@
-var mnemonic = "chapter large oyster filter blade fantasy survey apple valve moon clown clever";
+var mnemonic = "october mutual random wing slush style exhaust device cycle caught blanket pave";

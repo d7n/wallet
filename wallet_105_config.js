@@ -1,1 +1,1 @@
-var mnemonic = "barrel limit pet mimic dream clump deny plate devote refuse come spoil";
+var mnemonic = "hotel path special they matter shuffle truth donate latin female used winner";

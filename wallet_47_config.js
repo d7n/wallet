@@ -1,1 +1,1 @@
-var mnemonic = "lazy monster wet fatal captain calm remember begin indoor carbon lyrics delay";
+var mnemonic = "rescue visa move shallow add report swallow wonder filter dad property crowd";

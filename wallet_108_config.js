@@ -1,1 +1,1 @@
-var mnemonic = "tonight prefer trim cherry name million topic brisk below pig mass fork";
+var mnemonic = "tuition input net neutral surface aerobic country cabin soul cash equal purse";

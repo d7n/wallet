@@ -1,1 +1,1 @@
-var mnemonic = "uniform ask garment craft potato swear script pistol drum ensure pond course";
+var mnemonic = "flock decide cigar repeat west flip nothing pledge over glance fresh vicious";

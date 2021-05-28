@@ -1,1 +1,1 @@
-var mnemonic = "rhythm refuse combine kick oak correct special fault hip cloud dignity intact";
+var mnemonic = "expire hurt rubber insane april decrease arrest belt olive dynamic cook convince";

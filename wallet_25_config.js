@@ -1,1 +1,1 @@
-var mnemonic = "price advance someone chief bounce hold increase fat render lunar talk version";
+var mnemonic = "six amazing cash acoustic episode cup thought fun acid focus tomorrow orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "spend coral know crowd frame army protect spike deny fetch quote maid";
+var mnemonic = "middle need swift task rabbit output slice join remember swallow price twin";

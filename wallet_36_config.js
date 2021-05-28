@@ -1,1 +1,1 @@
-var mnemonic = "mandate float lobster illegal roof erosion fringe truly junior notable twist huge";
+var mnemonic = "second lift tattoo return rescue dizzy farm coin hidden seek fragile anger";

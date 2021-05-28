@@ -1,1 +1,1 @@
-var mnemonic = "drastic damage liberty kiss shy stereo black together social survey pencil negative";
+var mnemonic = "drill swim team jungle hockey noodle proof night tuition flash loyal essay";

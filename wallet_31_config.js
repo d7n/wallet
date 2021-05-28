@@ -1,1 +1,1 @@
-var mnemonic = "amused once coral solution absent slice reject rural trouble original tent happy";
+var mnemonic = "spring feel will follow enforce window timber bean size choice autumn maple";

@@ -1,1 +1,1 @@
-var mnemonic = "flash gravity arch width shiver message brief destroy napkin pyramid conduct broccoli";
+var mnemonic = "relax safe cigar kiss twist truck leopard century core pulp reject forward";

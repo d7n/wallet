@@ -1,1 +1,1 @@
-var mnemonic = "drill park accuse gentle travel unusual wreck cheese jazz pony cloth rack";
+var mnemonic = "seat recycle machine across quantum old stereo suggest envelope evil observe hill";

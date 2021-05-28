@@ -1,1 +1,1 @@
-var mnemonic = "glow affair voyage hub nose hood skill recall wonder share walnut finger";
+var mnemonic = "thumb pledge blood elbow auto vessel library water anger inner february body";

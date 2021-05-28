@@ -1,1 +1,1 @@
-var mnemonic = "abuse oxygen volcano bring grass poverty ozone push hope pear wet faculty";
+var mnemonic = "garbage vintage glass coyote rubber toward name estate ask deputy venture radio";

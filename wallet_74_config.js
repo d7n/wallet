@@ -1,1 +1,1 @@
-var mnemonic = "normal accuse scene cram off upset custom intact mandate wool health smooth";
+var mnemonic = "leader case shallow shed cake worry angry law suspect empty rule sell";

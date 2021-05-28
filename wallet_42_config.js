@@ -1,1 +1,1 @@
-var mnemonic = "pitch fork tent flower honey enact receive venue hold debris hungry demand";
+var mnemonic = "exist mountain fire eye forest rival deal spring mail equal ladder bring";

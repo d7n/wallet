@@ -1,1 +1,1 @@
-var mnemonic = "onion audit famous clip general cliff tail enough life hobby want emotion";
+var mnemonic = "turkey robust autumn negative lens sun laugh tongue satisfy almost blast net";

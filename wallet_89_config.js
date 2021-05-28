@@ -1,1 +1,1 @@
-var mnemonic = "afraid weapon chest habit filter guitar rebel firm split wedding knock evil";
+var mnemonic = "dizzy wine design convince sport change swift admit pencil version segment attack";

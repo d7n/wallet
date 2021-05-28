@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow window stick excess among mansion dwarf step message rigid time put";
+var mnemonic = "immune raise this abstract program blossom minor dragon correct dune add garage";

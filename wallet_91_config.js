@@ -1,1 +1,1 @@
-var mnemonic = "true exchange honey witness goddess execute cause hat session task excuse swear";
+var mnemonic = "slight sorry festival tone quarter blouse shock visa invite frequent wisdom test";

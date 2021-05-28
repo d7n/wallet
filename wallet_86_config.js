@@ -1,1 +1,1 @@
-var mnemonic = "split theme local scorpion acquire bomb bounce spatial target mystery hub job";
+var mnemonic = "mad shallow finger husband noodle title design snap air remind enforce antenna";

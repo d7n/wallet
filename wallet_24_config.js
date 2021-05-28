@@ -1,1 +1,1 @@
-var mnemonic = "scare ghost oppose soup funny maze penalty virtual enact grace record broken";
+var mnemonic = "expose pupil milk supply burden minimum never stomach soap visit razor owner";

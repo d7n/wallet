@@ -1,1 +1,1 @@
-var mnemonic = "convince auto danger know material crunch solve first obtain purity youth holiday";
+var mnemonic = "connect exit curious strategy change electric maid wet absent useless leopard perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "fire congress fence hub muffin mixture total element vessel march push across";
+var mnemonic = "sponsor camera baby decrease wrist unique loud sting napkin marriage faint tragic";

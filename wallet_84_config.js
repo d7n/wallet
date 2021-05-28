@@ -1,1 +1,1 @@
-var mnemonic = "roof miracle lyrics jungle unaware trial squeeze title trash struggle rural impact";
+var mnemonic = "cage section bus angry join runway nest catch vocal dwarf carpet before";

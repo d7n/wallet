@@ -1,1 +1,1 @@
-var mnemonic = "often price battle true adjust brick excess three horn vehicle tribe main";
+var mnemonic = "stove stool mind arena valley excite power knee awake canvas champion board";

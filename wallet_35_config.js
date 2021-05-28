@@ -1,1 +1,1 @@
-var mnemonic = "expose wet other owner plug master surround fire mammal mammal crop lawn";
+var mnemonic = "today ketchup depart garden orbit exist mistake volume sea wagon useless one";

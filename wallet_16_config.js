@@ -1,1 +1,1 @@
-var mnemonic = "ladder then keep toilet write critic gasp false thunder ticket submit ticket";
+var mnemonic = "top liberty bag donor dance loop fame absorb mixture enroll ocean hub";

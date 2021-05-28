@@ -1,1 +1,1 @@
-var mnemonic = "alpha ladder disease burger pencil sick apple believe legend sudden desk advice";
+var mnemonic = "ordinary athlete blanket success release antique another feel scatter math iron jar";

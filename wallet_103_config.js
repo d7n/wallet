@@ -1,1 +1,1 @@
-var mnemonic = "bench potato cart empty cram harbor forum bulk assault wisdom enable purpose";
+var mnemonic = "decorate hammer hill glimpse pear dragon voice brass bar stock daughter female";

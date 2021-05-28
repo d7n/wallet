@@ -1,1 +1,1 @@
-var mnemonic = "swarm point unable lucky appear taste mammal orient super coffee impose kit";
+var mnemonic = "maid segment strike wait sugar flush chaos real metal faint eye quote";

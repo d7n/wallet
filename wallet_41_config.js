@@ -1,1 +1,1 @@
-var mnemonic = "chicken library term domain spawn sudden rose breeze fiction arch clump iron";
+var mnemonic = "consider method owner tool sunset coin dog fat degree drop curve local";

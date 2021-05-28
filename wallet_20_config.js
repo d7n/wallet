@@ -1,1 +1,1 @@
-var mnemonic = "cigar meadow copper demand earth someone chase immune undo sail bean cage";
+var mnemonic = "ceiling manage evolve rain finger silk skin innocent betray inspire fox uncle";
