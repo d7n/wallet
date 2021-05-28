@@ -1,1 +1,1 @@
-var mnemonic = "nest option still total vast ladder alien middle barrel admit royal analyst";
+var mnemonic = "armor easy ostrich swallow this diet gate horn april ribbon energy foil";

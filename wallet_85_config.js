@@ -1,1 +1,1 @@
-var mnemonic = "amused ladder length copper alter surprise material oppose film garment turtle one";
+var mnemonic = "laptop initial horse rapid live milk acquire smart blue diamond birth pond";

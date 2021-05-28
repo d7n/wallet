@@ -1,1 +1,1 @@
-var mnemonic = "marriage focus dress wolf energy track curtain belt merge slot spoil wasp";
+var mnemonic = "twelve seek chapter enjoy endorse report neck scrub foster bike diary aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "render pattern civil boss vicious case laptop obscure physical today elevator morning";
+var mnemonic = "camp bike hospital riot neck range there early initial proud wide diesel";

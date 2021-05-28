@@ -1,1 +1,1 @@
-var mnemonic = "eternal drastic morning circle chimney poem august minute ginger tuna seven protect";
+var mnemonic = "undo like empower brand regular client drastic oval verify clutch can special";

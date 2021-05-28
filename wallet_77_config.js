@@ -1,1 +1,1 @@
-var mnemonic = "media collect movie extend garbage minimum know dose muffin book enlist deliver";
+var mnemonic = "token gentle camp van fish brave spoon artefact fuel height chase meat";

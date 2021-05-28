@@ -1,1 +1,1 @@
-var mnemonic = "best great main simple shadow okay outside early image tube second shell";
+var mnemonic = "sell dignity coast swing outer road super whisper lesson candy conduct acid";

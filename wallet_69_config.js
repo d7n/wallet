@@ -1,1 +1,1 @@
-var mnemonic = "retreat hat army spike empower broom act arrow exile dial first erupt";
+var mnemonic = "riot letter predict impulse upon cactus truck school frost range ethics hockey";

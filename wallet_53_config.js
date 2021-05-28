@@ -1,1 +1,1 @@
-var mnemonic = "original modify medal wish exchange marriage plastic flush radar gospel security chimney";
+var mnemonic = "disorder daughter group wild sand script trust dream unusual gate this pair";

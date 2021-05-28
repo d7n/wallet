@@ -1,1 +1,1 @@
-var mnemonic = "shift filter myself flight letter rubber sing decide gate stamp horn fossil";
+var mnemonic = "hospital disagree surprise fiction novel immense belt border better acoustic knife panic";

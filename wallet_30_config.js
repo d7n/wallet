@@ -1,1 +1,1 @@
-var mnemonic = "immune undo average bundle twice across trophy plate almost cause theory filter";
+var mnemonic = "maximum claim smoke poverty extra rule winner daughter drip stay remain turn";

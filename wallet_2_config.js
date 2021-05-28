@@ -1,1 +1,1 @@
-var mnemonic = "diamond swap impose unfold galaxy banner syrup make force job rigid share";
+var mnemonic = "two thrive pear march exact behind pen deal goddess entire expire fork";

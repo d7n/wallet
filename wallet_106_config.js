@@ -1,1 +1,1 @@
-var mnemonic = "follow arch tiger neglect twin verify pilot pipe satisfy cost leader holiday";
+var mnemonic = "remember goddess expand usual lazy elegant define submit toy quiz gentle burden";

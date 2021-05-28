@@ -1,1 +1,1 @@
-var mnemonic = "liquid access expire figure change ability surprise color custom sense expect slide";
+var mnemonic = "lady curtain engage breeze usage unusual hint gauge sweet scale claim gown";

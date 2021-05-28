@@ -1,1 +1,1 @@
-var mnemonic = "detail addict shield critic crawl warm clock return virtual mixture oxygen clump";
+var mnemonic = "area survey weather weekend loud member unit finger purse mother idea chief";

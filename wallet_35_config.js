@@ -1,1 +1,1 @@
-var mnemonic = "picture reduce cross faith vivid sing giant veteran trouble tool vintage good";
+var mnemonic = "master powder seven edge liar slam add chronic cherry enter art relief";

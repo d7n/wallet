@@ -1,1 +1,1 @@
-var mnemonic = "this cart piece talk meat faculty step gift aisle dutch visa target";
+var mnemonic = "icon gym catch shaft cheap guitar youth extend toss hill salute lunch";

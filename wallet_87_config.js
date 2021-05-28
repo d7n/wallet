@@ -1,1 +1,1 @@
-var mnemonic = "soft regret foster symbol visit measure clever symptom include mosquito reject scout";
+var mnemonic = "fan two pen pizza jewel blur mouse crash lesson sentence acoustic script";

@@ -1,1 +1,1 @@
-var mnemonic = "knock skin tone stay fancy hair oven lock assist reopen life grape";
+var mnemonic = "real kit insane trim tent pelican camera kiwi twist parrot special female";

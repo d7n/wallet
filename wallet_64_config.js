@@ -1,1 +1,1 @@
-var mnemonic = "enforce pretty because noble wheat resist leader feature daughter cry zoo amount";
+var mnemonic = "army jacket bulk boy jazz build admit curve team wave reject kitten";

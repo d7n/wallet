@@ -1,1 +1,1 @@
-var mnemonic = "install kind mystery fiction endless curve depend gym faith stairs pipe sadness";
+var mnemonic = "outside social police link recycle quality fence tube lock bounce pigeon screen";

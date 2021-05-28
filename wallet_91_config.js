@@ -1,1 +1,1 @@
-var mnemonic = "chuckle wave festival point express clay attack typical expect child direct dust";
+var mnemonic = "income worth save carbon message talent rabbit pretty permit soap hint sword";

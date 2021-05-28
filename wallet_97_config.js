@@ -1,1 +1,1 @@
-var mnemonic = "step impose stool lobster future cattle cluster author drive afford hero cry";
+var mnemonic = "hurry pact heavy gate camera income purity involve illness code short acid";

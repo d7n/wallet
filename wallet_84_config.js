@@ -1,1 +1,1 @@
-var mnemonic = "extend strike nothing night bracket legal orbit average muscle virtual cherry force";
+var mnemonic = "exercise try joy scout ostrich title blade protect demand deposit worth pond";

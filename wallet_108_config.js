@@ -1,1 +1,1 @@
-var mnemonic = "case bind swap habit label bronze jazz appear inflict violin spell entire";
+var mnemonic = "input search almost arrow tennis unknown glance oval object liar coin slim";

@@ -1,1 +1,1 @@
-var mnemonic = "system add dinner solid assault mesh million trend amount scorpion rural coyote";
+var mnemonic = "sad reward mouse return guilt office find learn giraffe actress walk problem";

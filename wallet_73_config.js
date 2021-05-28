@@ -1,1 +1,1 @@
-var mnemonic = "bench arm smart shy legal priority chest marble match opinion grain bridge";
+var mnemonic = "popular friend never love front resemble admit mirror balcony clog scatter youth";

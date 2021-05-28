@@ -1,1 +1,1 @@
-var mnemonic = "minor torch extra panda dizzy strategy normal scorpion spin hole barrel warrior";
+var mnemonic = "panda february bicycle sad rival file then birth tuna fetch member suffer";

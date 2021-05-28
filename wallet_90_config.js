@@ -1,1 +1,1 @@
-var mnemonic = "celery rhythm census love mystery sick garage brother night phrase access joy";
+var mnemonic = "barely office ozone habit ethics slight kangaroo train island bid attract menu";

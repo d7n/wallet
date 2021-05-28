@@ -1,1 +1,1 @@
-var mnemonic = "maple decline about table shine cheap uncle sock width surface coast recycle";
+var mnemonic = "double page tomorrow keen soccer marriage balcony equip rough diesel august struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "prize hollow return note winner general green save wave enemy goat island";
+var mnemonic = "connect machine forest tribe trash claw evidence suffer forward absent flock rapid";

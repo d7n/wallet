@@ -1,1 +1,1 @@
-var mnemonic = "pipe twenty eagle tissue predict beyond donor siege reason flush polar human";
+var mnemonic = "throw flame skull equal cruise settle swarm practice custom business pet category";

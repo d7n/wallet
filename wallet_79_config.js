@@ -1,1 +1,1 @@
-var mnemonic = "actual ball three stage bundle initial bicycle jelly music flat guide casino";
+var mnemonic = "concert sunset laptop fiber arena asthma giant hole library motor test eyebrow";

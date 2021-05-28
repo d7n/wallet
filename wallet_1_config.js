@@ -1,1 +1,1 @@
-var mnemonic = "fade ball night depart before bullet wife stairs vibrant carbon love frog";
+var mnemonic = "toast govern end rely cliff desert language cheap liar mimic journey oppose";

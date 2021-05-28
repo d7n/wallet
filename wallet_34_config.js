@@ -1,1 +1,1 @@
-var mnemonic = "toss slogan subway miss bulk noise skin cotton attitude cloth impulse ring";
+var mnemonic = "lecture street search decide enemy gloom educate song stay tray legal mansion";

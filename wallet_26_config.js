@@ -1,1 +1,1 @@
-var mnemonic = "abstract route major rally mix lamp tunnel they erase enemy pulp hybrid";
+var mnemonic = "scorpion chief answer other jacket bean banana tail leisure arrow damage since";

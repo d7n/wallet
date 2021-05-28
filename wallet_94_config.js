@@ -1,1 +1,1 @@
-var mnemonic = "need drill body tackle private stuff capable fringe fine height chest junk";
+var mnemonic = "waste chaos regular argue miracle rebel lion tennis spring cannon sure lemon";

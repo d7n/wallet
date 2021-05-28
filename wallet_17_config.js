@@ -1,1 +1,1 @@
-var mnemonic = "version fabric endless burden female waste that gorilla blind bleak regret saddle";
+var mnemonic = "coin drill session belt insane alpha sketch trouble season pizza food tornado";

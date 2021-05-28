@@ -1,1 +1,1 @@
-var mnemonic = "genre horse burst genuine define mystery awake umbrella business oyster pyramid dose";
+var mnemonic = "shield nurse actual sword all ozone alter cycle middle domain swift icon";

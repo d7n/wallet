@@ -1,1 +1,1 @@
-var mnemonic = "actor ask please oval weasel under case physical target era puppy crop";
+var mnemonic = "buffalo install enjoy glimpse involve relief force bottom crisp nurse staff silly";

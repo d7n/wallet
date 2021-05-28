@@ -1,1 +1,1 @@
-var mnemonic = "symbol brisk vessel comic wonder dove ready bring offer endorse peasant bus";
+var mnemonic = "brown main round mystery bar stomach board catalog broccoli despair horn wisdom";

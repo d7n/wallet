@@ -1,1 +1,1 @@
-var mnemonic = "pluck whale tongue retire below middle joke roof cup lion animal impulse";
+var mnemonic = "hospital easy useful pig arrange force garment danger genre joy bronze notice";

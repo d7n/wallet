@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit rigid spray frog blouse expose neither stairs wing motion leopard elegant";
+var mnemonic = "huge grape woman leader dice save unique cannon city convince school prepare";

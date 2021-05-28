@@ -1,1 +1,1 @@
-var mnemonic = "catch rule reason van escape swamp change boss swamp bag skirt dash";
+var mnemonic = "celery swear achieve lunch dune slab zebra fancy hood say patch dynamic";

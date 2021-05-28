@@ -1,1 +1,1 @@
-var mnemonic = "ski wasp fade face govern entire exercise unlock rally shine village negative";
+var mnemonic = "travel right name burst same amazing dismiss network injury typical claim regular";

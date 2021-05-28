@@ -1,1 +1,1 @@
-var mnemonic = "universe eagle scrap chalk wear erupt obscure best forget dolphin answer emotion";
+var mnemonic = "seat parade ritual mechanic decide combine surge liberty disagree letter celery ugly";

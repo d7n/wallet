@@ -1,1 +1,1 @@
-var mnemonic = "fever stone shock process shadow beyond tragic during inside private wire situate";
+var mnemonic = "wild ecology slide hurry allow thunder cry dial daughter toward love must";

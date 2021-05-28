@@ -1,1 +1,1 @@
-var mnemonic = "repeat frozen ginger leopard hazard rhythm skirt control mammal print exit claim";
+var mnemonic = "pulp ecology life unveil motor excite cloth social enemy grunt link cliff";

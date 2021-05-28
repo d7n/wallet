@@ -1,1 +1,1 @@
-var mnemonic = "age cancel rural galaxy spring harvest monitor glue local allow erupt sentence";
+var mnemonic = "mask parade bench alien item cotton find salmon glance shell expose glide";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff filter fly chronic twist width abstract hand rescue brass local glory";
+var mnemonic = "foil rough where tube benefit science saddle average height shed salon decrease";

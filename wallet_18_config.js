@@ -1,1 +1,1 @@
-var mnemonic = "inmate exotic knife shed syrup symbol scrap school minor violin globe mango";
+var mnemonic = "when club miracle spawn wise elder snack thrive oyster dad debris ensure";

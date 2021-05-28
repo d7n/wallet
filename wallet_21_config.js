@@ -1,1 +1,1 @@
-var mnemonic = "oil web fall solution destroy unhappy sad lab lamp tank business anxiety";
+var mnemonic = "muscle orchard give marine tornado fetch shadow leaf gallery shop crunch indicate";

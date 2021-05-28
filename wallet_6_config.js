@@ -1,1 +1,1 @@
-var mnemonic = "sadness wasp swarm bench they heart despair alert cycle scale motion wrong";
+var mnemonic = "diagram hurt deposit supply penalty assume swear notice attack surface chef exercise";

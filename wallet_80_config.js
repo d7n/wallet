@@ -1,1 +1,1 @@
-var mnemonic = "kiwi retreat fetch much asset select pluck canoe evolve pole pumpkin crunch";
+var mnemonic = "health guilt medal off party dinosaur bless rent harbor lady napkin witness";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey heart gossip tornado initial mimic tone they flee grow trend design";
+var mnemonic = "ancient slim orange shuffle ostrich left lecture vital rookie decade zoo nose";

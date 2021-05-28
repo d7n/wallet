@@ -1,1 +1,1 @@
-var mnemonic = "amused fiction wing blood abstract blouse bulk cloth novel pulse lunar tuna";
+var mnemonic = "throw immense fault again purchase laptop tackle swarm civil meat embody depend";

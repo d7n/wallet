@@ -1,1 +1,1 @@
-var mnemonic = "screen smart acid bubble title deal crash drum spare gown match soup";
+var mnemonic = "music afford clay crash short shallow final emerge umbrella dog concert crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "armed execute timber gas letter cabbage visit start apart gasp coach clerk";
+var mnemonic = "siege rate intact spare pupil slide they place detail midnight cart baby";

@@ -1,1 +1,1 @@
-var mnemonic = "slab crane large achieve loop measure sphere rocket nasty dilemma violin aisle";
+var mnemonic = "aspect attack treat organ crunch barely damage ill winner goose comic once";

@@ -1,1 +1,1 @@
-var mnemonic = "witness volcano zoo analyst north load attend outdoor work fever journey office";
+var mnemonic = "snow ready sell sausage claw brief hawk essay imitate wealth mom error";

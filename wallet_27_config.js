@@ -1,1 +1,1 @@
-var mnemonic = "spin young lens fall vault vocal swift donate license envelope mom emotion";
+var mnemonic = "engage kite review leg acid baby rough embrace danger denial dirt flip";

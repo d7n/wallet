@@ -1,1 +1,1 @@
-var mnemonic = "section liquid cricket garage federal portion stove before love spoon noise allow";
+var mnemonic = "buzz search lady turtle insect near castle drink nest prison guard daring";

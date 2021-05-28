@@ -1,1 +1,1 @@
-var mnemonic = "vicious grant course between bounce student proud giggle business morning poverty warm";
+var mnemonic = "fossil upper boost final kidney turn ball post permit library stage duty";

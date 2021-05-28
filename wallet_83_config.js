@@ -1,1 +1,1 @@
-var mnemonic = "walk sentence castle soldier more loop other bike math ready game need";
+var mnemonic = "junior mango wine sun traffic unable drill popular mutual evolve indicate loud";

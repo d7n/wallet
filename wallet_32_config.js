@@ -1,1 +1,1 @@
-var mnemonic = "yard shield affair zero weasel demand design latin bicycle people tag sibling";
+var mnemonic = "obscure ticket dinosaur rival vital share youth frame casual amused dismiss return";

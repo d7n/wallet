@@ -1,1 +1,1 @@
-var mnemonic = "calm lawn olympic clip theory lift then steak collect creek visa focus";
+var mnemonic = "trial gravity social bubble awesome improve sea ordinary gap notable chunk quality";

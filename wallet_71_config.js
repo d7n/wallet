@@ -1,1 +1,1 @@
-var mnemonic = "normal angle shy click pig giant flush vessel slot select hill morning";
+var mnemonic = "emotion clown trend when injury media allow wire obey slender change spare";

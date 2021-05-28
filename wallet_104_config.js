@@ -1,1 +1,1 @@
-var mnemonic = "orient disease blade great gospel hand width fold fortune limit earth year";
+var mnemonic = "earn inject all legend pole glimpse planet giraffe swamp segment cancel priority";

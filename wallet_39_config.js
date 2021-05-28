@@ -1,1 +1,1 @@
-var mnemonic = "extend normal habit general certain peasant twist outside either borrow trap enable";
+var mnemonic = "volcano panther debris soda scatter crash clay ugly gap barely never achieve";

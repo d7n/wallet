@@ -1,1 +1,1 @@
-var mnemonic = "forward tiger yellow business chest pig cloth gauge during august there crew";
+var mnemonic = "child blue rough aspect patrol drink speak mom bundle solid advice frost";

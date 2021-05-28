@@ -1,1 +1,1 @@
-var mnemonic = "park seven ball marine voice twelve sorry case crime scrap idea oil";
+var mnemonic = "baby eternal pepper shift danger flash produce wagon speed bean rose reveal";

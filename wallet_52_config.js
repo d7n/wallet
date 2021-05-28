@@ -1,1 +1,1 @@
-var mnemonic = "share soup dirt clever afraid round pet chuckle curve tragic direct focus";
+var mnemonic = "peanut reason wise scene legend chest faint sunset route slim medal civil";

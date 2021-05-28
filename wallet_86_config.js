@@ -1,1 +1,1 @@
-var mnemonic = "wife exile motor resist whisper umbrella seven soup cabin confirm pear verb";
+var mnemonic = "picture current true father link escape alcohol between enemy bamboo perfect angle";

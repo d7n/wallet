@@ -1,1 +1,1 @@
-var mnemonic = "host acoustic nature twist menu brass notice music runway flush salon path";
+var mnemonic = "logic have frown fantasy basic check cost impulse cement typical slow stool";

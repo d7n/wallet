@@ -1,1 +1,1 @@
-var mnemonic = "shuffle unusual flight embrace manage lounge filter tooth rabbit near ready infant";
+var mnemonic = "cradle just actual virtual group bless patch topic essay tank elegant yellow";

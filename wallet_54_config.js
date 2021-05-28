@@ -1,1 +1,1 @@
-var mnemonic = "scrap obvious flash lizard usual forum wrist emerge morning turtle mask coin";
+var mnemonic = "black manual head north page grid safe wrap away script goose crush";

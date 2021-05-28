@@ -1,1 +1,1 @@
-var mnemonic = "swallow write wish worth join bread feel drama jazz web pyramid now";
+var mnemonic = "drive never glory when logic rail chronic luggage resemble exact smart arch";

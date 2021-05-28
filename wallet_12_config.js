@@ -1,1 +1,1 @@
-var mnemonic = "opinion pear exclude love doll labor soup bachelor mistake risk still fringe";
+var mnemonic = "detect certain test feed cube lunar funny first extend cream space chase";

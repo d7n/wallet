@@ -1,1 +1,1 @@
-var mnemonic = "olympic curtain health merry cactus crane number call other census mom burden";
+var mnemonic = "discover rhythm gallery slice artwork float gold select slot spoil theme link";

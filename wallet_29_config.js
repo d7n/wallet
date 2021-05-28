@@ -1,1 +1,1 @@
-var mnemonic = "wood lake cruise guard patrol crazy sheriff over senior loop frame pet";
+var mnemonic = "ski steel dad expand artwork grass stage citizen because dance thunder sentence";

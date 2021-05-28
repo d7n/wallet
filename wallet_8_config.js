@@ -1,1 +1,1 @@
-var mnemonic = "joy lock raise duty try maze slot asset enter rail doll say";
+var mnemonic = "erupt category country roast divorce ice eyebrow hurt toast now consider will";

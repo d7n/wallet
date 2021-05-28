@@ -1,1 +1,1 @@
-var mnemonic = "shoot camera year deputy game shadow produce hotel hurt decide scissors street";
+var mnemonic = "fix into town type muffin creek range rose involve feel actress dog";

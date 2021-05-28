@@ -1,1 +1,1 @@
-var mnemonic = "armor word large honey entry enhance execute people buffalo similar acquire pepper";
+var mnemonic = "hero surround town doctor certain wife force move ritual feel lava anchor";

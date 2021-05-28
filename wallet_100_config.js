@@ -1,1 +1,1 @@
-var mnemonic = "post bubble naive prefer situate gun cake wear alpha add uncover negative";
+var mnemonic = "then decide high silly access harbor coil muscle accident cave obscure wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "humble laptop tell fresh furnace list paddle pact stuff mirror manage later";
+var mnemonic = "material chase wasp dove pill dance unable prosper various exercise foil morning";

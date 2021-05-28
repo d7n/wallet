@@ -1,1 +1,1 @@
-var mnemonic = "crash thrive laugh device tomato inherit sibling prefer shallow basket holiday quit";
+var mnemonic = "access coffee lemon dice squeeze goat talk involve stage wool early purse";

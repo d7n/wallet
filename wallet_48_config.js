@@ -1,1 +1,1 @@
-var mnemonic = "club destroy original can educate brave angle grant tenant weapon traffic unfold";
+var mnemonic = "mutual bring garment text twice attitude drill near energy elevator rotate winner";

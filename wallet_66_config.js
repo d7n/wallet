@@ -1,1 +1,1 @@
-var mnemonic = "snow cotton minor oven draft produce movie unfair master comic develop color";
+var mnemonic = "predict ostrich stay damage title daughter clean together recycle remind short duck";

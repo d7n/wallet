@@ -1,1 +1,1 @@
-var mnemonic = "hand dog general either need almost fossil coyote shop rival toe chase";
+var mnemonic = "basket online leaf biology exist tongue guard trouble pulp educate music express";

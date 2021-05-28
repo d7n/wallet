@@ -1,1 +1,1 @@
-var mnemonic = "panic demise chaos palace bless powder apology ancient kit whale catalog actor";
+var mnemonic = "zero fragile picture soccer decline wisdom decline kiwi print clever crew neutral";
