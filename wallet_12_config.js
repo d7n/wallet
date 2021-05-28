@@ -1,1 +1,1 @@
-var mnemonic = "law reject spike mountain label city above culture have slow lift final";
+var mnemonic = "course chef ozone wagon grass summer once release tell equal possible voyage";

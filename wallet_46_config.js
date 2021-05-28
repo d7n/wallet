@@ -1,1 +1,1 @@
-var mnemonic = "turn alpha load hunt six shallow kidney broom hurdle hero upgrade gadget";
+var mnemonic = "rely brisk rent depth bonus lava damage private scene trend border baby";

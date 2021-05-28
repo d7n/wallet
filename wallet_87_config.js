@@ -1,1 +1,1 @@
-var mnemonic = "priority chimney head promote cotton man rail laugh boat bless badge vacant";
+var mnemonic = "loyal father reduce toilet clock fringe cereal extra aunt unaware alien erupt";

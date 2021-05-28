@@ -1,1 +1,1 @@
-var mnemonic = "say hire gossip skull fan knock alien ocean habit city attract review";
+var mnemonic = "unusual trophy follow angle plate lemon athlete hollow monitor notable equip sand";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp eyebrow civil provide demise want own camp embody outer album foster";
+var mnemonic = "visa debate drop rabbit burger ginger scrub want crazy ensure height crucial";

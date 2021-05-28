@@ -1,1 +1,1 @@
-var mnemonic = "warrior coconut cram oval voice toss use liberty maze bar kingdom process";
+var mnemonic = "scan decide wire gentle recipe uncover beach slice flash axis place will";

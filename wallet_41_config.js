@@ -1,1 +1,1 @@
-var mnemonic = "rose glow piano gentle galaxy tattoo view save isolate group faint alert";
+var mnemonic = "antenna helmet pepper angry daughter dumb occur inherit sight crater flush acquire";

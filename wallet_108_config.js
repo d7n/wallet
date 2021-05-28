@@ -1,1 +1,1 @@
-var mnemonic = "charge soft judge sunset hospital setup brick learn dilemma chief fatal grace";
+var mnemonic = "under average ginger crumble rate answer huge very muscle legal easily pretty";

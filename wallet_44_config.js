@@ -1,1 +1,1 @@
-var mnemonic = "venture angle spare word anger shoot wire lemon stem gift rigid add";
+var mnemonic = "imitate long dizzy ketchup flock upper bike will breeze canvas clog link";

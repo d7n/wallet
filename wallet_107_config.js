@@ -1,1 +1,1 @@
-var mnemonic = "august reason earth pride seat armed horn menu sausage dream party thunder";
+var mnemonic = "project cart reunion tide obey since zebra lava forum disorder spread learn";

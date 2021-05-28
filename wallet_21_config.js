@@ -1,1 +1,1 @@
-var mnemonic = "other gadget screen upgrade crouch gold sketch pledge faculty absorb man undo";
+var mnemonic = "artwork regular thought become neither motor recycle below glide beef host arm";

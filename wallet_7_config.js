@@ -1,1 +1,1 @@
-var mnemonic = "gate city bubble dinosaur tail advance style image caught prison lecture clock";
+var mnemonic = "energy receive quick mule escape boss chat truck artwork cheese unfold fetch";

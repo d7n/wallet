@@ -1,1 +1,1 @@
-var mnemonic = "submit rather sell build very deal wonder minimum flight awake allow person";
+var mnemonic = "trouble other arch cute cup note ready broccoli chef reveal endless myth";

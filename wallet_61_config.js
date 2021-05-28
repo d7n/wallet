@@ -1,1 +1,1 @@
-var mnemonic = "ahead charge worry depth lava bag night trophy easy safe knife female";
+var mnemonic = "pony dash cannon strike into pluck ski brown hold hen husband attitude";

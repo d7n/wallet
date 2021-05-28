@@ -1,1 +1,1 @@
-var mnemonic = "job dignity staff concert fish region pattern already inch dutch awake business";
+var mnemonic = "mass price okay want ripple wing season flame company code orange base";

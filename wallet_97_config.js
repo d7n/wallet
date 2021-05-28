@@ -1,1 +1,1 @@
-var mnemonic = "around dance clinic garbage turkey sign wife floor kiwi dutch lucky car";
+var mnemonic = "race give wish divert drama digital lawn canoe enjoy federal chuckle isolate";

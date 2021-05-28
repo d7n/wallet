@@ -1,1 +1,1 @@
-var mnemonic = "noodle february supreme surge high race theory hazard ostrich pyramid advance resemble";
+var mnemonic = "coffee aspect wrap liberty peace ivory inmate old junior visual awesome guard";

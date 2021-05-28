@@ -1,1 +1,1 @@
-var mnemonic = "umbrella exact spawn math pill boy meadow enlist girl observe vanish plastic";
+var mnemonic = "mesh rug stairs asthma forget steel spike winner ensure hero wrap jazz";

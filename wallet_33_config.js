@@ -1,1 +1,1 @@
-var mnemonic = "zebra view then seek wish switch jar settle certain glare lizard worth";
+var mnemonic = "crop street match hobby normal garage urban ranch pig pony mystery please";

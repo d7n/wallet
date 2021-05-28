@@ -1,1 +1,1 @@
-var mnemonic = "legal tenant picnic obey improve pink pact marble gap soda garden receive";
+var mnemonic = "depth label away acoustic wonder wild corn useful more hen goose love";

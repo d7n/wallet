@@ -1,1 +1,1 @@
-var mnemonic = "major install clip marine tower toilet hurdle come visit usage lucky train";
+var mnemonic = "suspect magnet this must reveal blanket laptop rigid attract glove menu winner";

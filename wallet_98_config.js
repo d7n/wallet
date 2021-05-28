@@ -1,1 +1,1 @@
-var mnemonic = "glove uphold dignity doll father early media timber lunar limit account ladder";
+var mnemonic = "win relax immense nose hub motor melt say car lock model maximum";

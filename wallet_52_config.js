@@ -1,1 +1,1 @@
-var mnemonic = "skill rabbit genius blue bargain suffer move battle bench color dilemma toy";
+var mnemonic = "hire train solve final fold train among soup rescue involve assume aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "maid blouse tunnel motor advance enough practice labor horror worry dolphin castle";
+var mnemonic = "prize summer retire place labor prison company curtain cry control weather produce";

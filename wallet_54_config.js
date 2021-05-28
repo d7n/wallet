@@ -1,1 +1,1 @@
-var mnemonic = "regret myth life figure pink taxi shield object super tone pen garbage";
+var mnemonic = "brain company collect spring salon flip elbow struggle live quality glare armed";

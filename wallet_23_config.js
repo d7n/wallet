@@ -1,1 +1,1 @@
-var mnemonic = "van crisp party juice member road nose offer result often upper cherry";
+var mnemonic = "video faculty better pony discover mass claim real cousin pizza toward vast";

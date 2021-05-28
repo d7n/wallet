@@ -1,1 +1,1 @@
-var mnemonic = "glass amateur inspire visit cage reunion trial media express boring later grain";
+var mnemonic = "tunnel zero west width glare owner butter ticket pistol couch alcohol junior";

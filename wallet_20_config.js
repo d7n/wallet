@@ -1,1 +1,1 @@
-var mnemonic = "ski alley orphan floor equip light loyal dog circle sound nuclear eager";
+var mnemonic = "kangaroo guitar frost crumble trade sense cycle razor avocado hungry soul myself";

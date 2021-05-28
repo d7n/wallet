@@ -1,1 +1,1 @@
-var mnemonic = "erase yard network elevator early fetch aspect sell common skate brain scale";
+var mnemonic = "mother clerk weapon often bargain humble enable just glare mom curtain thunder";

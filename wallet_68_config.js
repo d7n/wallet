@@ -1,1 +1,1 @@
-var mnemonic = "false share slush labor absorb print useful trick auction people tenant real";
+var mnemonic = "hazard delay grant space forget below property moral step person liar annual";

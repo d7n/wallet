@@ -1,1 +1,1 @@
-var mnemonic = "alien kind play double aim pond human race venture cluster dinosaur clip";
+var mnemonic = "mother man curious net ticket mixture any piano bag admit alter scan";

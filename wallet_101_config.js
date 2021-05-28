@@ -1,1 +1,1 @@
-var mnemonic = "canal kangaroo border tower universe carpet magic wheat beach father gap record";
+var mnemonic = "almost erase hero sea ready final issue mask expand neck model collect";

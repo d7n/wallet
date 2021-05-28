@@ -1,1 +1,1 @@
-var mnemonic = "slight jealous nasty gaze harvest modify burst buyer river suggest hello kit";
+var mnemonic = "scale vague cube purpose dog suit best illegal turn control large plug";

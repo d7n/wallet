@@ -1,1 +1,1 @@
-var mnemonic = "gather rather cloud genius sentence junior beyond improve permit prefer model olive";
+var mnemonic = "curtain pull analyst collect original travel social amazing outer ethics bar auto";

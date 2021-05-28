@@ -1,1 +1,1 @@
-var mnemonic = "version wealth perfect mosquito lemon sun funny reward chronic stuff shrug forward";
+var mnemonic = "story ladder mesh cool library ability topic alcohol radio raw oven panda";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer panel skate disease bonus address possible observe river cupboard brown fork";
+var mnemonic = "just clean over ignore harbor behind unfold moon planet flame census road";

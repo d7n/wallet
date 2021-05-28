@@ -1,1 +1,1 @@
-var mnemonic = "file energy drift vault voice patient cherry cancel fade boat relax blush";
+var mnemonic = "below cycle bomb trade crane day pepper special cabbage above hotel grocery";

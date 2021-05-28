@@ -1,1 +1,1 @@
-var mnemonic = "humble jazz ozone balcony toe delay brand letter vessel twelve report dose";
+var mnemonic = "bundle pigeon mixture damp swamp wink cigar charge pave sweet bundle age";

@@ -1,1 +1,1 @@
-var mnemonic = "reward loop lock stay come exit minor slot tonight wash sudden orbit";
+var mnemonic = "melody avoid upper dentist slow tuna drum flock wrong ride rival early";

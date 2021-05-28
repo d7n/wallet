@@ -1,1 +1,1 @@
-var mnemonic = "ridge eight hour ball wheel giraffe fork notice approve brother dream peanut";
+var mnemonic = "cabbage celery gadget coast calm marriage slush eager magic parade current jewel";

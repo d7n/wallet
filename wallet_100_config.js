@@ -1,1 +1,1 @@
-var mnemonic = "like alarm know cube talk dash energy metal paddle crack promote fury";
+var mnemonic = "journey wet diary spirit panel door mesh crime salon quality battle civil";

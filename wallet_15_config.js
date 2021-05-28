@@ -1,1 +1,1 @@
-var mnemonic = "lizard mother orchard region cup retire spread loop lava ostrich finish borrow";
+var mnemonic = "suit subway bind result hire bleak alert bubble orient someone jewel raw";

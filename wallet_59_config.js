@@ -1,1 +1,1 @@
-var mnemonic = "jewel twist quick riot badge repeat run early hour mistake follow isolate";
+var mnemonic = "gym blast auction buyer weather border negative ahead border sail venture husband";

@@ -1,1 +1,1 @@
-var mnemonic = "team globe bacon race fluid warm public bar cute energy grow torch";
+var mnemonic = "festival violin fox rare ostrich short blood disease such dutch crawl leisure";

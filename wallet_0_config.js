@@ -1,1 +1,1 @@
-var mnemonic = "grace tobacco eyebrow gap again fish indoor shrimp drift memory lunch table";
+var mnemonic = "shock green jump rebuild pistol scale hint search fiber gap dance armor";

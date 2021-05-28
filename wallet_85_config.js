@@ -1,1 +1,1 @@
-var mnemonic = "beauty zoo squirrel palace salmon uncover dutch consider upset mushroom bone since";
+var mnemonic = "rhythm pet correct bonus neglect gift walk wait afford member piece unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper cheap midnight defense clump drastic federal index this tongue canyon peasant";
+var mnemonic = "flush toy myth multiply raven lyrics affair couple grain twist satisfy tribe";

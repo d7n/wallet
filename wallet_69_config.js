@@ -1,1 +1,1 @@
-var mnemonic = "subway inflict animal aunt name include idle thing desert bunker artist favorite";
+var mnemonic = "energy clever stem surge category remember report shoot impose behave state head";

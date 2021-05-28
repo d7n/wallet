@@ -1,1 +1,1 @@
-var mnemonic = "grid wide message casino leisure issue danger tank hospital promote hover photo";
+var mnemonic = "shrimp exist depth diagram thank fashion shield van topic public gift legal";

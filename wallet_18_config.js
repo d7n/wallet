@@ -1,1 +1,1 @@
-var mnemonic = "tower endless bottom furnace clip calm giraffe unveil away consider action close";
+var mnemonic = "mention rebuild balcony alien tongue chronic cup ride child arm spike crystal";

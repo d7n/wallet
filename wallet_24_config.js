@@ -1,1 +1,1 @@
-var mnemonic = "lady exile dice thing remind cigar glimpse surprise timber blue strategy chaos";
+var mnemonic = "blanket bottom stand glide globe error have next rent want gospel learn";

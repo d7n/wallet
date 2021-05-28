@@ -1,1 +1,1 @@
-var mnemonic = "snack velvet enable inject lounge poet girl cable ladder project jealous party";
+var mnemonic = "goddess present sand horse toss key ghost chest journey cushion process salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "wet time conduct mistake social rice door gas crouch balance service term";
+var mnemonic = "just scene deal ill tattoo history elite trumpet assist faith east crater";

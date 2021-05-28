@@ -1,1 +1,1 @@
-var mnemonic = "shell they segment hospital choose source seed rose nut yard diesel verb";
+var mnemonic = "relief enough onion panda balcony apple spend borrow voyage drum expose vote";

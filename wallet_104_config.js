@@ -1,1 +1,1 @@
-var mnemonic = "comfort long body hero identify then company abandon rival dance melt fox";
+var mnemonic = "winner trade canvas mutual carbon attack ski gadget regular coast feature number";

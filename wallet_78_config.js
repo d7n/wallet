@@ -1,1 +1,1 @@
-var mnemonic = "clock warrior mouse boost slight velvet chapter define kitten mask piano that";
+var mnemonic = "basket talent area witness usual will woman try panda leader make color";

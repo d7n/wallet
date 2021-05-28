@@ -1,1 +1,1 @@
-var mnemonic = "leisure current excuse much swap series opera woman crater board aware trial";
+var mnemonic = "enrich east witness crack token outdoor become burger hard unveil noise never";

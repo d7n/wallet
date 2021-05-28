@@ -1,1 +1,1 @@
-var mnemonic = "valve myth fury mechanic boring blast soup sight stumble denial high snake";
+var mnemonic = "purity vessel erosion survey melt aunt labor describe aerobic almost glove bone";

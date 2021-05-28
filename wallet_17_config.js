@@ -1,1 +1,1 @@
-var mnemonic = "raven able provide average enjoy taste smart minor thought solve over thank";
+var mnemonic = "warrior right release aspect awesome among embrace trash dismiss toast picture educate";

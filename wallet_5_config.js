@@ -1,1 +1,1 @@
-var mnemonic = "decline cargo pave obscure century tomato rude flag portion recall climb oppose";
+var mnemonic = "pool path tower swamp venue rigid rebel market exit october oak prepare";

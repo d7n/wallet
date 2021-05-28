@@ -1,1 +1,1 @@
-var mnemonic = "anger dance increase vanish type cliff cute crunch illegal drill devote cause";
+var mnemonic = "guide crumble very robot six exercise artist coil advance grass wrestle egg";

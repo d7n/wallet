@@ -1,1 +1,1 @@
-var mnemonic = "place lonely nut menu mimic cause drip fog actress breeze lazy pear";
+var mnemonic = "adjust drift foot final solution capital market weasel session better secret merry";

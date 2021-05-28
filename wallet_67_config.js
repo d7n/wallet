@@ -1,1 +1,1 @@
-var mnemonic = "game idea hunt transfer worth merry enjoy ocean assault snap scorpion boring";
+var mnemonic = "badge reflect song slight raise whale snack expose atom deny bounce mention";

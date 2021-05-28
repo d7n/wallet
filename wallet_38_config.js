@@ -1,1 +1,1 @@
-var mnemonic = "combine melody measure street worry jeans capable stool toilet planet master reduce";
+var mnemonic = "embody any poet harbor annual chuckle shoulder garage debate gallery whip private";

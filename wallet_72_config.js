@@ -1,1 +1,1 @@
-var mnemonic = "mushroom peanut develop half insect crash guess already burst shadow alarm motion";
+var mnemonic = "trigger illegal whip jeans immune artefact bomb canal parent grow dream hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire upgrade fork write door ribbon client decrease heart worth razor evidence";
+var mnemonic = "space cattle fox lady filter kitchen dress sight mule meat settle crater";

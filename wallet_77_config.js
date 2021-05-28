@@ -1,1 +1,1 @@
-var mnemonic = "bridge prevent hammer stable sniff robot pool basic rescue defy chase planet";
+var mnemonic = "destroy metal cabbage quantum chest polar remember light casino flip frog skate";

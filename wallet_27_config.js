@@ -1,1 +1,1 @@
-var mnemonic = "lyrics casual sight story total right what letter pipe walnut stool tilt";
+var mnemonic = "ivory develop lift two yard wing vapor bomb place more invest long";

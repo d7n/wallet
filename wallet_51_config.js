@@ -1,1 +1,1 @@
-var mnemonic = "jump echo various dial maid among estate random organ impose cruise refuse";
+var mnemonic = "silent usage warm safe work frown word mention forward asthma retire describe";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe soda barrel trumpet pledge despair super sorry scrub canvas share hole";
+var mnemonic = "chat tip shy follow rich later output egg lawsuit twenty grocery mistake";

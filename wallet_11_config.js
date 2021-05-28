@@ -1,1 +1,1 @@
-var mnemonic = "liquid almost submit faculty render glow renew illness eagle battle trumpet butter";
+var mnemonic = "island away rebel female pony pride tail harbor broom exhibit wish error";

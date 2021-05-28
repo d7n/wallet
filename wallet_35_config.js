@@ -1,1 +1,1 @@
-var mnemonic = "rib jump milk satisfy blossom build unveil slim success faculty wasp charge";
+var mnemonic = "clump slot public curtain reform abstract huge index crowd road canoe pact";

@@ -1,1 +1,1 @@
-var mnemonic = "bid disorder drastic salt repeat quarter crater apple resource summer hint antique";
+var mnemonic = "input armed quarter require pupil fresh soul diagram fruit sauce elephant divide";

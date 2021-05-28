@@ -1,1 +1,1 @@
-var mnemonic = "brown syrup pizza caution lazy oyster want nothing denial scheme corn offer";
+var mnemonic = "clarify brother monitor tone gown matrix drop pair hurt divorce business image";

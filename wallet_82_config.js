@@ -1,1 +1,1 @@
-var mnemonic = "harvest media chuckle vehicle degree setup blame immense erosion poem zone ability";
+var mnemonic = "extra visa coach pave guilt tourist tiny embody lucky repeat cat bacon";

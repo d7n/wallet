@@ -1,1 +1,1 @@
-var mnemonic = "circle nice champion divorce alley oak aerobic casual bubble coral gate scout";
+var mnemonic = "claw neck swap clever advance derive tilt asthma leave replace envelope clock";

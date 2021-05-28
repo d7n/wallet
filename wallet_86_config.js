@@ -1,1 +1,1 @@
-var mnemonic = "middle shrug flat evolve stool film vanish sausage blame frozen dial bird";
+var mnemonic = "cream rubber certain stereo unfold avocado blast toe either erosion mule cabin";

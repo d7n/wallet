@@ -1,1 +1,1 @@
-var mnemonic = "hungry kiwi rocket silly sound cage scan exotic cash possible help glimpse";
+var mnemonic = "juice please sniff village lend find supreme iron neck exact bulb relief";

@@ -1,1 +1,1 @@
-var mnemonic = "asset hope network draft inner struggle buzz small piano patrol style magnet";
+var mnemonic = "dish yellow example wave include woman book rich parent calm grain army";

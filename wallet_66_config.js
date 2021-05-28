@@ -1,1 +1,1 @@
-var mnemonic = "bamboo danger hub all axis number chair basket vehicle day two obtain";
+var mnemonic = "flash gasp enough absent sign captain sign crop black witness stove pulp";

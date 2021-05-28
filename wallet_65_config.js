@@ -1,1 +1,1 @@
-var mnemonic = "icon shed spy pumpkin yellow laugh empower city text ski gather narrow";
+var mnemonic = "ribbon chunk course knock chapter heavy next fluid spike shallow risk dash";

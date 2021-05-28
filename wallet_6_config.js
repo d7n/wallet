@@ -1,1 +1,1 @@
-var mnemonic = "tackle urge action oyster olive spatial mushroom minimum spare reflect gallery hunt";
+var mnemonic = "payment flower motion desert dial try picture dance lonely crazy hour version";

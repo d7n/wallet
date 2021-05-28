@@ -1,1 +1,1 @@
-var mnemonic = "cotton save sound post brown eight reject wonder cheese violin fame tag";
+var mnemonic = "silver buzz interest federal type endorse vicious orange strong south table kick";

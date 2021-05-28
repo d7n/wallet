@@ -1,1 +1,1 @@
-var mnemonic = "trouble gold wide during budget bunker appear pioneer flip sock normal purity";
+var mnemonic = "glad panda sunset employ glare enact alpha glide mistake easy tumble company";

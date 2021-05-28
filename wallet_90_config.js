@@ -1,1 +1,1 @@
-var mnemonic = "foster devote mechanic balance ribbon city hurry execute blame act cruise wide";
+var mnemonic = "chat snap patch fitness hill enter reopen carbon ivory utility number boost";

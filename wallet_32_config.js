@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog virus blossom zebra spring nose evolve damp obvious bitter write photo";
+var mnemonic = "stamp mixture area pig oblige rail armor rebel move wisdom actual glove";

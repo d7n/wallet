@@ -1,1 +1,1 @@
-var mnemonic = "soldier sure local blouse live organ critic spray pool push submit punch";
+var mnemonic = "radar man project sugar raw question increase found spatial that awake person";

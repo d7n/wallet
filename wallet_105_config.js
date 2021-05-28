@@ -1,1 +1,1 @@
-var mnemonic = "silk ship equip plunge liquid couch label response cram daring mystery left";
+var mnemonic = "alter gather custom buzz flee actual recycle edge tribe release oppose mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch margin old federal toe peasant transfer already extra rhythm bunker dynamic";
+var mnemonic = "fan craft female street nurse govern bonus broom trap flower neglect aerobic";

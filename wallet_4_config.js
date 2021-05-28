@@ -1,1 +1,1 @@
-var mnemonic = "surge fold assume claw promote crawl rent deal flash feature gold bean";
+var mnemonic = "alone bike bamboo add make wire involve mercy void dry august adjust";
