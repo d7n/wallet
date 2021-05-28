@@ -1,1 +1,1 @@
-var mnemonic = "magnet client crater solution fault garden there trip lonely lab load mechanic";
+var mnemonic = "eager top law sausage palm seek cement quantum disease entry trust trash";

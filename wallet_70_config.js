@@ -1,1 +1,1 @@
-var mnemonic = "rubber kiwi option pave argue series fury rescue truth test drift traffic";
+var mnemonic = "much great state length garment start treat fragile second tornado strong people";

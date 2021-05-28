@@ -1,1 +1,1 @@
-var mnemonic = "brain afford toward flee illegal damp slice enable logic turn resource raven";
+var mnemonic = "grid sample fresh blanket crystal sure traffic cotton derive write box volume";

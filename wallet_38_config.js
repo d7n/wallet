@@ -1,1 +1,1 @@
-var mnemonic = "fashion penalty word theory general misery monitor cram evolve vital cloud kitchen";
+var mnemonic = "video net cover stem wrestle must tongue ostrich hard execute roast similar";

@@ -1,1 +1,1 @@
-var mnemonic = "lens sleep vessel jewel script critic fabric grit tunnel retreat wear walnut";
+var mnemonic = "pitch street disorder response helmet feature glow nothing buzz gesture leaf when";

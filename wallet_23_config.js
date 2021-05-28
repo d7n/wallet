@@ -1,1 +1,1 @@
-var mnemonic = "venue way skin give loyal dwarf scene mushroom ignore shrug slam dizzy";
+var mnemonic = "remain action quick pulse tissue cost method assist print corn immense enter";

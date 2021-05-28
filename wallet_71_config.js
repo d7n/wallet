@@ -1,1 +1,1 @@
-var mnemonic = "game about mosquito flip amused aspect delay vapor day reveal fold copper";
+var mnemonic = "measure sea believe winter flavor warfare umbrella mask soul already replace impulse";

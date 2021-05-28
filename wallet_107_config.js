@@ -1,1 +1,1 @@
-var mnemonic = "stick bacon jelly youth army clerk question coral power bacon next wheat";
+var mnemonic = "frown hamster muffin economy into title tiny stock parade river life advance";

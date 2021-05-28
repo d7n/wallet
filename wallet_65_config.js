@@ -1,1 +1,1 @@
-var mnemonic = "day confirm crack uncle mobile target silk blossom gold obscure source middle";
+var mnemonic = "alley forest across people hundred wheel talk vanish lawn purity accuse duty";

@@ -1,1 +1,1 @@
-var mnemonic = "into lizard junk grace until manual high dirt yard panel unusual trigger";
+var mnemonic = "crisp chimney rocket effort lesson struggle inmate soon attend ginger opera warm";

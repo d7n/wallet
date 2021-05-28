@@ -1,1 +1,1 @@
-var mnemonic = "payment bid engine lucky fold suggest dust unaware brick give memory choose";
+var mnemonic = "soul thunder position trust legal dog unusual inform antenna fence approve drill";

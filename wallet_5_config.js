@@ -1,1 +1,1 @@
-var mnemonic = "repeat fruit you repeat knee toward shuffle bulk surprise olive disagree call";
+var mnemonic = "attend solution behind wheel library battle kangaroo great team lumber hundred frost";

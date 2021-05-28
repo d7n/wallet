@@ -1,1 +1,1 @@
-var mnemonic = "hard depend lottery key idle click raccoon alien critic merge slight nothing";
+var mnemonic = "estate have vast local motor talk kid inner express envelope once drum";

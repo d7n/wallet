@@ -1,1 +1,1 @@
-var mnemonic = "pig pencil fall hunt captain project comic sail inch organ ribbon grid";
+var mnemonic = "give human labor candy unveil youth neutral comic disease snake vicious trap";

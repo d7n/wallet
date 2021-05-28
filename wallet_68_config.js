@@ -1,1 +1,1 @@
-var mnemonic = "kiss donkey region actress ugly expire culture innocent source december remove solar";
+var mnemonic = "private leg depend fault tribe jealous wealth labor opera resist regular hobby";

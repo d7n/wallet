@@ -1,1 +1,1 @@
-var mnemonic = "near velvet few toe polar brain file leave aisle mobile brother comic";
+var mnemonic = "bitter remove hello toddler capital mail fork hollow scatter cactus bench volume";

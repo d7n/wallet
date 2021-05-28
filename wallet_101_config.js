@@ -1,1 +1,1 @@
-var mnemonic = "mean away stumble same jacket weather make radio dirt plunge camp crumble";
+var mnemonic = "control main blouse theory release gossip swing divert total spell calm pet";

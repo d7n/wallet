@@ -1,1 +1,1 @@
-var mnemonic = "galaxy allow collect abstract double home never evidence much toss buzz evil";
+var mnemonic = "belt announce fence unknown rent toy chat thumb memory scatter render baby";

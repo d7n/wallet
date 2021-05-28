@@ -1,1 +1,1 @@
-var mnemonic = "unusual interest produce craft salt spend salad title canvas brown lend skull";
+var mnemonic = "pact comic summer broom toe narrow mystery mouse between dragon rival cheese";

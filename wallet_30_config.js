@@ -1,1 +1,1 @@
-var mnemonic = "lens property heavy interest trim betray improve stereo stove minimum board adult";
+var mnemonic = "use hundred vendor chase quarter rebel sword ocean call main submit fat";

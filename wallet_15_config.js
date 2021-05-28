@@ -1,1 +1,1 @@
-var mnemonic = "shaft trust toy only anger weekend accuse target chief valid gallery order";
+var mnemonic = "actor turn deny trial admit force veteran explain puzzle lawn valid drum";

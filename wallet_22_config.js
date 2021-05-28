@@ -1,1 +1,1 @@
-var mnemonic = "small voice equip clarify snow praise gown pitch force oppose thing fiscal";
+var mnemonic = "logic suffer project coyote sting magic address judge blouse deliver disagree ranch";

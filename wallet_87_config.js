@@ -1,1 +1,1 @@
-var mnemonic = "below annual must execute buffalo unknown festival apology dove dove forum short";
+var mnemonic = "rifle spread symptom wall defy remove cushion valley coral note film forget";

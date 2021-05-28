@@ -1,1 +1,1 @@
-var mnemonic = "father tribe sure birth oven game notable maple crazy route trash loop";
+var mnemonic = "spoil upper subject life nose jeans surface stone together ocean buffalo dash";

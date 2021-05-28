@@ -1,1 +1,1 @@
-var mnemonic = "slam anxiety bless case stool tobacco chest describe injury glance exhibit man";
+var mnemonic = "lounge chuckle acid problem label sadness normal inherit sweet either furnace dirt";

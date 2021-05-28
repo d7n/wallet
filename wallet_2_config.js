@@ -1,1 +1,1 @@
-var mnemonic = "decade hazard expect basket fossil pig bulk force coin describe slow paddle";
+var mnemonic = "wrist tennis same broken teach obtain cloth earth zoo private frog floor";

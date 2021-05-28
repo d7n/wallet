@@ -1,1 +1,1 @@
-var mnemonic = "isolate piece large frost execute strategy excuse sausage salute element adjust runway";
+var mnemonic = "doctor escape bounce goat amused fuel glance air top jealous barely clog";

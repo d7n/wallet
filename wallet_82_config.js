@@ -1,1 +1,1 @@
-var mnemonic = "crumble major wear nothing convince agree print rubber boring wrist wink jewel";
+var mnemonic = "meat theory town pyramid neither frown tonight earth web floor train toward";

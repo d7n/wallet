@@ -1,1 +1,1 @@
-var mnemonic = "myth spy diamond major whip cousin whale frame document target asset army";
+var mnemonic = "stomach kitchen place guard vocal resemble wear sea hollow material old nuclear";

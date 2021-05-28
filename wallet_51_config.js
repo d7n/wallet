@@ -1,1 +1,1 @@
-var mnemonic = "safe disorder wild eyebrow garment letter into lock force avocado under keep";
+var mnemonic = "repair heart motion swim pattern garage expand march marriage bubble electric resource";

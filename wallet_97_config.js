@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cost green glimpse scissors boost potato birth club tenant mandate athlete";
+var mnemonic = "pyramid pudding then choose giggle strike host summer fade practice invite wrong";

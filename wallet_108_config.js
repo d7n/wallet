@@ -1,1 +1,1 @@
-var mnemonic = "stove deputy artefact turn fragile state wish junk galaxy shock robot blame";
+var mnemonic = "album awkward artist lava slim indicate seed work job canvas glimpse initial";

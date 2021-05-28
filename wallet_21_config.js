@@ -1,1 +1,1 @@
-var mnemonic = "solve spoon slam dutch travel hurdle liar tomato dynamic world napkin lizard";
+var mnemonic = "balance arctic ordinary lady firm defense slot winter pulse glue relax vault";

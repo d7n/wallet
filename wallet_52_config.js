@@ -1,1 +1,1 @@
-var mnemonic = "churn until slender column donkey cherry culture section bachelor express live benefit";
+var mnemonic = "wine task choose maximum invest spell lift because swallow flower regular lunar";

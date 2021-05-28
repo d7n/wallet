@@ -1,1 +1,1 @@
-var mnemonic = "color begin grape decrease maid soap logic fire melody success poem pulp";
+var mnemonic = "path tomato people destroy sausage walk ice globe mixed pen swear grape";

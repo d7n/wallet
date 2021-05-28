@@ -1,1 +1,1 @@
-var mnemonic = "lizard trip mango mirror easy zero run hollow blade spare express salad";
+var mnemonic = "abstract awful extra awesome very copper version bar liquid permit token segment";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket culture glare afraid tumble oil spy language solve proof fruit guilt";
+var mnemonic = "despair oil blood economy cannon chronic finish swamp quit include load order";

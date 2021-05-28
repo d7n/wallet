@@ -1,1 +1,1 @@
-var mnemonic = "topic curious group slow twelve august hundred one giant follow extend where";
+var mnemonic = "dinner steel shine weather what hello social verify exhibit daughter dove evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh when april whisper thrive proud awake reopen hole sentence give busy";
+var mnemonic = "chat alien donkey daring spatial ticket warm helmet faint ignore addict trap";

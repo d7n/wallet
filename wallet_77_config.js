@@ -1,1 +1,1 @@
-var mnemonic = "cool cement gather symptom clinic vault must peasant lunch trim convince dune";
+var mnemonic = "tent relax nature tobacco detect denial cage cabbage slow fix cherry squeeze";

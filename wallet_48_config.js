@@ -1,1 +1,1 @@
-var mnemonic = "middle remind soon voyage parent gauge buddy cross wait acid useless inquiry";
+var mnemonic = "sister pottery vessel exact dutch wish brain cram zebra jacket review belt";

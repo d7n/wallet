@@ -1,1 +1,1 @@
-var mnemonic = "enable wire code debris category salmon settle cause upset sure begin flush";
+var mnemonic = "wagon immense hurry account tray defense cave van absorb inspire few loud";

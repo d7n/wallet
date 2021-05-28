@@ -1,1 +1,1 @@
-var mnemonic = "still strategy august symptom scheme orient open approve timber attract interest vote";
+var mnemonic = "penalty economy eye wealth boil brief cry mansion shaft twelve mansion wagon";

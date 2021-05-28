@@ -1,1 +1,1 @@
-var mnemonic = "select degree reunion frozen atom subway find powder very gorilla toward whip";
+var mnemonic = "tomorrow pull battle art bamboo scheme fog giggle flag notable bounce poet";

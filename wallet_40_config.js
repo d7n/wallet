@@ -1,1 +1,1 @@
-var mnemonic = "slice type jeans fly buddy cycle false genius donor manage staff ridge";
+var mnemonic = "sing glory salad define wise fox present hole squeeze advance cover budget";

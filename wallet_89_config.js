@@ -1,1 +1,1 @@
-var mnemonic = "pledge uphold stumble always siege good govern suit actual error very chief";
+var mnemonic = "decorate culture adult priority umbrella like provide grape antenna autumn mammal volume";

@@ -1,1 +1,1 @@
-var mnemonic = "define torch juice fade satoshi message ancient hen genuine tent beef leg";
+var mnemonic = "allow amazing alter keen shell average snake crop same filter inner injury";

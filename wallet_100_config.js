@@ -1,1 +1,1 @@
-var mnemonic = "absent mom glove tube torch tiger square any similar glimpse festival level";
+var mnemonic = "old envelope sound glue super artefact topic biology rhythm receive pool consider";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel brain develop torch truth market rifle solid name tomorrow permit rate";
+var mnemonic = "private find other talent lounge vacuum team fine render soup hedgehog champion";

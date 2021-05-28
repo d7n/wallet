@@ -1,1 +1,1 @@
-var mnemonic = "fever gorilla source such fault scatter hurt unfold twin identify novel dice";
+var mnemonic = "fly share inner tunnel media armed music company moon hint mobile illness";

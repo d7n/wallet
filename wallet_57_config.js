@@ -1,1 +1,1 @@
-var mnemonic = "hockey mechanic lake section sustain aware region vague vintage chest front curious";
+var mnemonic = "alcohol father jazz assist rabbit scare runway fix thank discover doll that";

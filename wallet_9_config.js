@@ -1,1 +1,1 @@
-var mnemonic = "arrange donate canvas dinner jaguar party sibling smoke myth motor adult small";
+var mnemonic = "sad initial volume ancient edit saddle method gain duty senior lion tooth";

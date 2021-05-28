@@ -1,1 +1,1 @@
-var mnemonic = "find magnet cushion certain answer gate canoe once sudden blade tribe aware";
+var mnemonic = "air jungle friend elder major merry spell artwork evolve caught jump moment";

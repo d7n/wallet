@@ -1,1 +1,1 @@
-var mnemonic = "cloth mushroom arena festival vast runway script post luggage coach pepper dentist";
+var mnemonic = "mushroom people apart increase solid two zone upon soccer mystery wrist able";

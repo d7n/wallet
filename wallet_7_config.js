@@ -1,1 +1,1 @@
-var mnemonic = "senior lawsuit blush able arrow copper off oppose isolate repair fork vivid";
+var mnemonic = "brown believe merge rescue sand engine subway size wine twelve cream drink";

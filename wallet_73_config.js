@@ -1,1 +1,1 @@
-var mnemonic = "spoil claim call plug divide whale praise enrich matter card behave cactus";
+var mnemonic = "floor mother hat ozone economy suspect mountain tiger cruel throw media buddy";

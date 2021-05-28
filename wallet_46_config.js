@@ -1,1 +1,1 @@
-var mnemonic = "sugar glad diamond physical pumpkin aim predict desk predict extra sheriff atom";
+var mnemonic = "ski rate oppose chimney shoe steel nephew route faculty picture buzz lazy";

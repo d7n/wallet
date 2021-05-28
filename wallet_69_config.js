@@ -1,1 +1,1 @@
-var mnemonic = "boost offer until swift tree hedgehog owner stand govern honey surprise confirm";
+var mnemonic = "left noise shrug rally bottom ability bone shop because sad hospital health";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude brother grant equal melody easy repair invite kingdom frame seven trim";
+var mnemonic = "mad drift boost conduct arctic lobster list learn situate feed worry enrich";

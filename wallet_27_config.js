@@ -1,1 +1,1 @@
-var mnemonic = "crane weird more weird tired warrior exile badge narrow frog inherit repeat";
+var mnemonic = "mouse grunt again pear essay duty tent valid divert smooth slush enlist";

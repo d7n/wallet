@@ -1,1 +1,1 @@
-var mnemonic = "chalk still circle rebel flush pipe laundry army circle same split major";
+var mnemonic = "raccoon lion garment nominee napkin trophy coast behind proof party spoil keep";

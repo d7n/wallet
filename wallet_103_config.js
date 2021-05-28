@@ -1,1 +1,1 @@
-var mnemonic = "silly better ordinary dumb diesel that cage fatal advance unfold saddle train";
+var mnemonic = "amount trumpet modify rescue tank planet six service under country pear middle";

@@ -1,1 +1,1 @@
-var mnemonic = "valley crop sphere system soup mystery angle process bus song surround tiger";
+var mnemonic = "trust honey carbon bus sign concert auto brave ladder room magic police";

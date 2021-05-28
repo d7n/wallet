@@ -1,1 +1,1 @@
-var mnemonic = "apple leopard crystal sponsor hold soft danger race inner lonely name fragile";
+var mnemonic = "pelican buzz side virus crystal erosion car donor resource couple duty erupt";

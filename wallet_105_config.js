@@ -1,1 +1,1 @@
-var mnemonic = "coyote task dirt palace garment account square noble genre crime height train";
+var mnemonic = "cargo venture cake climb soda cable track aunt walnut theme tongue lava";

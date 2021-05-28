@@ -1,1 +1,1 @@
-var mnemonic = "dismiss tube chase ivory home wild forget midnight over glass conduct kitchen";
+var mnemonic = "improve drive rigid license smoke party sort soda baby fade shrug soldier";

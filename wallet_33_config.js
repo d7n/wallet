@@ -1,1 +1,1 @@
-var mnemonic = "ceiling spin mushroom response paper table record crime potato peanut prefer mouse";
+var mnemonic = "post space oak try output boy canal despair add give keep own";

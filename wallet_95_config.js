@@ -1,1 +1,1 @@
-var mnemonic = "way reject push arrange decide able sheriff image private federal target thumb";
+var mnemonic = "twin wolf turn mix enroll ball lift awkward arrange curious neither cry";

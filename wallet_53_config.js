@@ -1,1 +1,1 @@
-var mnemonic = "same arena huge tribe ill craft leisure detect velvet silent spy child";
+var mnemonic = "hip shuffle piece situate dream glass toward unusual peanut inhale nurse vicious";

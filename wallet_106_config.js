@@ -1,1 +1,1 @@
-var mnemonic = "eternal provide scale bid amateur column foil mirror novel woman when tank";
+var mnemonic = "basket arena alpha urban kite unknown burden scorpion ahead domain forum birth";

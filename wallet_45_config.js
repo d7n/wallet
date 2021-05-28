@@ -1,1 +1,1 @@
-var mnemonic = "head tilt course addict festival issue maple require burger equip lottery keen";
+var mnemonic = "excess course idle illegal sure enroll move hill boost destroy host salute";

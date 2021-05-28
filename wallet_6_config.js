@@ -1,1 +1,1 @@
-var mnemonic = "web garment total bird mosquito diamond right hotel tribe message proud purse";
+var mnemonic = "piano cigar leopard warm verify slice predict chat owner mean state burst";

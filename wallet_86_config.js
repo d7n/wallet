@@ -1,1 +1,1 @@
-var mnemonic = "speed increase seminar note sing giant faith scorpion symptom clay settle style";
+var mnemonic = "about total zoo ski beyond oak grain banner churn fortune rubber huge";

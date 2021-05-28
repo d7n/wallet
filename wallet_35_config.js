@@ -1,1 +1,1 @@
-var mnemonic = "track property ship grace good visual huge ramp awesome work script delay";
+var mnemonic = "distance switch toss vivid swarm tip wood lecture ethics essay october neglect";

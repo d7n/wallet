@@ -1,1 +1,1 @@
-var mnemonic = "maid collect flock diet squeeze van ahead antique fatal whip antenna online";
+var mnemonic = "ghost sail spoon knee loud pull smile fame capable genuine impose echo";

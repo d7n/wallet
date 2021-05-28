@@ -1,1 +1,1 @@
-var mnemonic = "adult cupboard squeeze collect clap beyond host caution then rebel skill furnace";
+var mnemonic = "dinosaur carry rifle staff loop orient disagree tool bar exit explain essay";

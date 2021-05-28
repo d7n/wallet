@@ -1,1 +1,1 @@
-var mnemonic = "cycle foam pilot quit exit kitchen issue story diesel mixture bind hood";
+var mnemonic = "lend slab tree cover misery ostrich limit heavy decorate else profit ability";

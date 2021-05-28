@@ -1,1 +1,1 @@
-var mnemonic = "height swear result craft verify grocery yard start search state bulb choice";
+var mnemonic = "ankle tilt zero link retreat siege transfer theme present risk globe leave";

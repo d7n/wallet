@@ -1,1 +1,1 @@
-var mnemonic = "response warm olive wrestle umbrella forget horse palace dirt envelope claim fork";
+var mnemonic = "lab dog maximum cash defense tackle tomato law beyond security history brain";

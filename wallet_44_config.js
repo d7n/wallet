@@ -1,1 +1,1 @@
-var mnemonic = "wrong stamp naive kiss timber account vault proof wool pole bamboo chuckle";
+var mnemonic = "bubble world manage logic degree burger method bleak autumn focus rich accident";

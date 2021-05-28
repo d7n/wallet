@@ -1,1 +1,1 @@
-var mnemonic = "disagree draw hover patch pledge mention grunt depend opera grocery carry armed";
+var mnemonic = "earn zebra immense poem derive fruit beauty avoid curious width envelope figure";

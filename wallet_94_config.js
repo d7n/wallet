@@ -1,1 +1,1 @@
-var mnemonic = "retreat profit cycle shadow lumber nasty fatal magnet original burst fortune print";
+var mnemonic = "snow bounce private spice please twist liberty cake amazing notice vault isolate";

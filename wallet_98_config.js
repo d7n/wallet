@@ -1,1 +1,1 @@
-var mnemonic = "make manage chronic wink ritual pluck receive refuse anger shy unusual edge";
+var mnemonic = "dose finger ostrich lift clay space tattoo item private ketchup swing edge";

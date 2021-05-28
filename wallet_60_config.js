@@ -1,1 +1,1 @@
-var mnemonic = "bunker nation bunker invite local return tank often raven major click grant";
+var mnemonic = "glass stone blanket laugh will laundry entry region rabbit basket nice pair";

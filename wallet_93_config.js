@@ -1,1 +1,1 @@
-var mnemonic = "essence siege almost burst later gym turtle rice device crisp unusual bind";
+var mnemonic = "chef bubble clock shoe ski toast orbit slab easy yellow wedding rib";

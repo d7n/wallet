@@ -1,1 +1,1 @@
-var mnemonic = "day reunion orchard inspire youth candy margin error abuse orphan act region";
+var mnemonic = "warrior choice lava raw motor glass biology upgrade tag swarm season essay";

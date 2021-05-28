@@ -1,1 +1,1 @@
-var mnemonic = "balance curious renew cool food island mobile gauge album normal south ostrich";
+var mnemonic = "wish dizzy trouble maximum gallery produce similar bomb scan concert explain wagon";
