@@ -1,1 +1,1 @@
-var mnemonic = "senior cinnamon wonder material kiss nurse super struggle father wasp output draft";
+var mnemonic = "derive glance conduct liar wear farm slab empty crowd radar present twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "sock collect either slice deposit recipe session actual rhythm fly alert panel";
+var mnemonic = "wrong aware lecture load govern net profit diamond spend fortune decorate truck";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify armor summer dumb blossom federal little rain glow adapt faith nuclear";
+var mnemonic = "pizza effort similar bullet eager pepper raise mystery cotton welcome bring abandon";

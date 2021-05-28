@@ -1,1 +1,1 @@
-var mnemonic = "bright mind metal risk glare hero turn predict eagle velvet yellow insect";
+var mnemonic = "skirt social axis teach pen erase snack erase since unusual bronze screen";

@@ -1,1 +1,1 @@
-var mnemonic = "limit diagram soul host man attract frame script soda flame hat veteran";
+var mnemonic = "keep usage park tragic blood piano found grow update door vacuum potato";

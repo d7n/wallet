@@ -1,1 +1,1 @@
-var mnemonic = "already knife eyebrow steak napkin cement goose flat record catch seed trim";
+var mnemonic = "actor soldier since beef laptop child recycle link neglect grit require tourist";

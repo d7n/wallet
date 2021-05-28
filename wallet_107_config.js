@@ -1,1 +1,1 @@
-var mnemonic = "immune merry typical lobster width clay patch author simple bar husband copy";
+var mnemonic = "push olympic object siege face predict virtual rotate dial suit boost run";

@@ -1,1 +1,1 @@
-var mnemonic = "fall winter liberty record three genre else bullet ride tent crunch report";
+var mnemonic = "eight stairs donor brush swift army segment category hamster erosion before segment";

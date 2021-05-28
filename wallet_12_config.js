@@ -1,1 +1,1 @@
-var mnemonic = "fetch bar rail elegant faith entry squirrel sock wood fatal current member";
+var mnemonic = "finish attract cause notable identify boost hybrid ability text viable lunch strike";

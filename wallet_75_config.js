@@ -1,1 +1,1 @@
-var mnemonic = "nephew resource draft replace moon surface sand since buffalo absent rich whale";
+var mnemonic = "arch grab crew wait hurdle caution seed welcome equal disagree drop bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "leader possible twelve until exotic argue drop shiver forward regular roast action";
+var mnemonic = "dry cook margin palm apart glove general youth siege final obscure certain";

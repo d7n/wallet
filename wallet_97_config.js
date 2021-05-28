@@ -1,1 +1,1 @@
-var mnemonic = "wisdom mean body glue hidden educate light absurd mountain stereo solar earth";
+var mnemonic = "security wrong rubber goat venue welcome question behave ladder large pen dad";

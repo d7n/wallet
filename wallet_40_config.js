@@ -1,1 +1,1 @@
-var mnemonic = "brown render recipe twenty traffic void rhythm hungry finish reduce supreme dream";
+var mnemonic = "thing notable dance permit wrestle chronic spare tonight hold either utility palace";

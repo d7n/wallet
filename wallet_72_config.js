@@ -1,1 +1,1 @@
-var mnemonic = "debate clever boat cream steak grit very spare practice picnic loan shell";
+var mnemonic = "faculty upset keen develop saddle blue polar spray believe early payment fish";

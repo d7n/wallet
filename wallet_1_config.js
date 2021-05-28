@@ -1,1 +1,1 @@
-var mnemonic = "blush crazy crash exhibit gospel later unable garbage pluck cushion there good";
+var mnemonic = "squeeze orbit any civil enjoy artefact club drink track blouse taste exit";

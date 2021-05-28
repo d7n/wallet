@@ -1,1 +1,1 @@
-var mnemonic = "across version pepper globe injury talent marriage runway web kite omit chimney";
+var mnemonic = "window seed negative holiday oven fringe derive swallow aim explain speed reopen";

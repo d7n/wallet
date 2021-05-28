@@ -1,1 +1,1 @@
-var mnemonic = "square capable elbow satoshi shrug grunt violin win stairs lecture innocent invest";
+var mnemonic = "lunch bitter desert genre tobacco universe march double bridge observe chef say";

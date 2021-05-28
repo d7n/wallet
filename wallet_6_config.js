@@ -1,1 +1,1 @@
-var mnemonic = "must police wrap mammal snack conduct spawn vague brand hurdle endorse host";
+var mnemonic = "project mix promote twist title cube clip joy flush pause curve velvet";

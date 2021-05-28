@@ -1,1 +1,1 @@
-var mnemonic = "bacon wasp razor trip stick alcohol spy illness bachelor update story derive";
+var mnemonic = "mercy debris valid matrix struggle siren under subject pledge dynamic debate stove";

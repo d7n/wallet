@@ -1,1 +1,1 @@
-var mnemonic = "prevent opinion never volume submit attract drastic assist cigar mirror govern feature";
+var mnemonic = "bundle sauce frozen combine test thunder shove legal pencil coast ginger just";

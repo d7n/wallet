@@ -1,1 +1,1 @@
-var mnemonic = "give demise vivid change glad pilot behave clever allow august few little";
+var mnemonic = "stairs frozen life region shoot blur text exit earn idle hockey pink";

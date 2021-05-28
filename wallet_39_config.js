@@ -1,1 +1,1 @@
-var mnemonic = "tray talent series century mansion pledge orbit step uncover coil indicate dwarf";
+var mnemonic = "exhaust fee piano select chalk company year water advice include rose lawsuit";

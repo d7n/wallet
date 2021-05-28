@@ -1,1 +1,1 @@
-var mnemonic = "boss expand fog correct alone remind hundred wonder position clog eyebrow cannon";
+var mnemonic = "primary proud divert toward roof today borrow boring check install cause summer";

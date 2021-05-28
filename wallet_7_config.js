@@ -1,1 +1,1 @@
-var mnemonic = "upper physical board panel front goat fire vital early bean runway like";
+var mnemonic = "analyst reveal mask gentle penalty solid search immense purpose february neutral milk";

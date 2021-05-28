@@ -1,1 +1,1 @@
-var mnemonic = "among nut length easy mixed page impulse trust harbor people fiscal fly";
+var mnemonic = "peasant hamster scrub chimney clean neutral whisper tent zero crucial weird tank";

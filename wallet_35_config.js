@@ -1,1 +1,1 @@
-var mnemonic = "myself blur isolate burger runway little join nurse word spot knock portion";
+var mnemonic = "fog toilet predict copy curious praise elite mask spell leisure sadness shrug";

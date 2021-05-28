@@ -1,1 +1,1 @@
-var mnemonic = "announce casino fold exile upgrade media obscure guard banner tonight lift sock";
+var mnemonic = "own speed disorder inquiry happy stage still elite develop crater near valley";

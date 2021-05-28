@@ -1,1 +1,1 @@
-var mnemonic = "soap clean elegant symptom empty limit aunt brass radio endless endorse spatial";
+var mnemonic = "correct hope poverty ask rally fiber adult bench patient oven road chapter";

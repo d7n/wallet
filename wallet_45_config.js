@@ -1,1 +1,1 @@
-var mnemonic = "drive author observe fossil victory person taxi slim party relax screen butter";
+var mnemonic = "feature index two market drill lift latin wife host industry december panther";

@@ -1,1 +1,1 @@
-var mnemonic = "hat wrist weather gather opera muffin yellow during cross avoid morning trial";
+var mnemonic = "attitude panda beyond pelican across river exercise obtain ethics film all all";

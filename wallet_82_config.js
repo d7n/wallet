@@ -1,1 +1,1 @@
-var mnemonic = "build mask suit letter multiply diamond child endless illness garbage bitter praise";
+var mnemonic = "dolphin border stuff quantum document gown script assault inquiry borrow depart sentence";

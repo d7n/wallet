@@ -1,1 +1,1 @@
-var mnemonic = "latin drink squeeze lawn silk fade onion analyst worth elevator oak damp";
+var mnemonic = "useful moral embody poet vocal angle wisdom safe sword youth mixture letter";

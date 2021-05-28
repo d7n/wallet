@@ -1,1 +1,1 @@
-var mnemonic = "vacuum opinion swap day find youth roof rookie behave scan agent dizzy";
+var mnemonic = "across skirt thumb cook wave scrap pen bundle canoe govern you unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "climb surround immune flight flag crime culture pass large tuition grape maze";
+var mnemonic = "myth mixed order damage room reunion permit visa pumpkin cabin paper chuckle";

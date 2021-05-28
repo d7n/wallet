@@ -1,1 +1,1 @@
-var mnemonic = "ride maze cake agent they deposit huge step play text involve unlock";
+var mnemonic = "dove bubble blur genuine begin affair grape hello swear fiction force black";

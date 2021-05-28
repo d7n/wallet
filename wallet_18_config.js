@@ -1,1 +1,1 @@
-var mnemonic = "section indicate diary video winner duty ahead inflict coach lady act tackle";
+var mnemonic = "magnet box screen next shove tourist match prison fade negative siege depart";

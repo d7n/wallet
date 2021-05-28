@@ -1,1 +1,1 @@
-var mnemonic = "broom device ball vanish raven announce between law virtual must robust sure";
+var mnemonic = "wife seven party view relief couch category lion jewel unique very ball";

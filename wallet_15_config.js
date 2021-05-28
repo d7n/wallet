@@ -1,1 +1,1 @@
-var mnemonic = "kick miracle pull pioneer knock unknown notable hedgehog tourist horse runway glove";
+var mnemonic = "daring time machine certain release thing bar useless profit quarter wear aware";

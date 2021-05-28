@@ -1,1 +1,1 @@
-var mnemonic = "avoid school tape way ramp stable spare couple depth tortoise comic use";
+var mnemonic = "craft capital text jacket moment salon mom category cricket job document fame";

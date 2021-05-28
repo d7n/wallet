@@ -1,1 +1,1 @@
-var mnemonic = "chaos melody come include hybrid steak filter cherry ranch crazy front electric";
+var mnemonic = "extend disease coin health coast erase raise liquid bike popular flat expose";

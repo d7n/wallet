@@ -1,1 +1,1 @@
-var mnemonic = "rich chimney jacket sock mammal consider miracle logic divide hockey twenty victory";
+var mnemonic = "unfair address belt system expose cute sing roof garage rifle deny able";

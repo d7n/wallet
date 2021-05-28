@@ -1,1 +1,1 @@
-var mnemonic = "silver travel spike any hello smart miss supreme town guilt repair damage";
+var mnemonic = "reform subject robust clip sustain neutral fiscal come wool visa fox erase";

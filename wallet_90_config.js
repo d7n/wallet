@@ -1,1 +1,1 @@
-var mnemonic = "hood special repair toss useful comfort wealth swarm slice foster object robot";
+var mnemonic = "knock grace cradle owner heart ring gain impulse fantasy woman soup grief";

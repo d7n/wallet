@@ -1,1 +1,1 @@
-var mnemonic = "undo potato quality post allow earth actor sample twenty thought love clean";
+var mnemonic = "lend else park waste exhaust only fade blood clutch urge tell can";

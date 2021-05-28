@@ -1,1 +1,1 @@
-var mnemonic = "senior lounge canyon hedgehog narrow property choose castle enhance number fan amateur";
+var mnemonic = "identify artefact alien slender business bounce foil soccer powder cause kitten wise";

@@ -1,1 +1,1 @@
-var mnemonic = "accident produce absent rocket noble drive cradle blur tissue present invest heavy";
+var mnemonic = "dash glass appear finish never receive wisdom you emotion reduce exhaust harvest";

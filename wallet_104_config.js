@@ -1,1 +1,1 @@
-var mnemonic = "problem soft ill ranch cup move surge sister hobby spread same weasel";
+var mnemonic = "title strategy sort run endless patient broom tilt cactus another grant almost";

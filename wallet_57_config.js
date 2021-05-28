@@ -1,1 +1,1 @@
-var mnemonic = "vintage couch dismiss regular asthma hockey lamp zoo seek make summer february";
+var mnemonic = "slam hover danger average prize rally agent upon poem off develop wrong";

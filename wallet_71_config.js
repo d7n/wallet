@@ -1,1 +1,1 @@
-var mnemonic = "middle base peace figure hobby bundle hurdle castle flame iron now pink";
+var mnemonic = "trim eyebrow scorpion torch belt razor evoke winner easy stamp envelope else";

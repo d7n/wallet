@@ -1,1 +1,1 @@
-var mnemonic = "quarter clean orchard shove book drastic noise utility ghost again thunder unfold";
+var mnemonic = "nerve across thought walnut jewel staff year trigger debate focus truly song";

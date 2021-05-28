@@ -1,1 +1,1 @@
-var mnemonic = "drink you later crew teach brief possible deputy fuel jealous cat tree";
+var mnemonic = "leader abandon govern before place man call catch inject harvest install equip";

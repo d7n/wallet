@@ -1,1 +1,1 @@
-var mnemonic = "razor pave twin distance measure romance gun member swallow powder check able";
+var mnemonic = "rail core upgrade abandon crash student garden service athlete profit frame cheap";

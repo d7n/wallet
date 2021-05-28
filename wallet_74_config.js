@@ -1,1 +1,1 @@
-var mnemonic = "immune north fit south thank quick more wood antenna antenna where mom";
+var mnemonic = "logic search ozone pitch east company embody case brain that ghost purpose";

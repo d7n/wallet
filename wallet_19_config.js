@@ -1,1 +1,1 @@
-var mnemonic = "smile diary scheme scout panda prison net client strategy board rose churn";
+var mnemonic = "absorb radio gorilla risk input flip cross off more trap snake toast";

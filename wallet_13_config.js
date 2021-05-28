@@ -1,1 +1,1 @@
-var mnemonic = "same indicate dumb pizza eternal sibling setup else laptop reflect empty home";
+var mnemonic = "short sustain notice goat water bullet blind desert brown habit zero okay";

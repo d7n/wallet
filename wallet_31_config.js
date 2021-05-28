@@ -1,1 +1,1 @@
-var mnemonic = "metal legend expire bounce monster lyrics glue dry pen super orphan improve";
+var mnemonic = "worry glue scrub blood moment party front toy will rebuild above blush";

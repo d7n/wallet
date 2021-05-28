@@ -1,1 +1,1 @@
-var mnemonic = "fine canvas decrease disease body knife obtain that rich witness engage suggest";
+var mnemonic = "possible forest offer violin mammal head what spatial flip nerve puzzle fever";

@@ -1,1 +1,1 @@
-var mnemonic = "glide same fiscal crunch bullet camp toast pioneer unknown knock dynamic word";
+var mnemonic = "kite member ski toward knife reveal please coil hole giant follow alcohol";

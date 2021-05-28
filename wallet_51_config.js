@@ -1,1 +1,1 @@
-var mnemonic = "logic gospel false domain congress ahead giggle permit wing build car maximum";
+var mnemonic = "luxury lift evil mystery cloud impact meadow address exotic rookie delay cinnamon";

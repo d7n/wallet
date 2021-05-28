@@ -1,1 +1,1 @@
-var mnemonic = "erosion stairs effort jar ceiling pair fresh grace scale fitness tiny regret";
+var mnemonic = "rent giraffe ahead teach disease enforce easily palm clean library east fence";

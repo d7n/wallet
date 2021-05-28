@@ -1,1 +1,1 @@
-var mnemonic = "vanish flight poet question unable sample art owner supreme defense flag income";
+var mnemonic = "during predict perfect message uncle window badge refuse alcohol slender topple cliff";

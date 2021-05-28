@@ -1,1 +1,1 @@
-var mnemonic = "pave cause dove old stage firm place dust slam quote fish edit";
+var mnemonic = "hand memory better smart wage forward rocket visit tornado wife december debris";

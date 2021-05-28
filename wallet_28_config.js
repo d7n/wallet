@@ -1,1 +1,1 @@
-var mnemonic = "certain glimpse ten build inflict mansion tower clown asthma eternal outdoor problem";
+var mnemonic = "kingdom broom envelope trust right wagon buyer fuel will apology select ranch";

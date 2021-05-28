@@ -1,1 +1,1 @@
-var mnemonic = "script hill taste economy describe budget property angry combine client benefit climb";
+var mnemonic = "hurt night wood insane wise wisdom fix teach bean annual two audit";

@@ -1,1 +1,1 @@
-var mnemonic = "cube wise crisp grab nominee pony venture tattoo clock tissue daughter marriage";
+var mnemonic = "field wild jeans appear recall toast glad horror detect toy blast horror";

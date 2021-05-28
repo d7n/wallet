@@ -1,1 +1,1 @@
-var mnemonic = "miss tomorrow toe library curtain engage erase chaos armed style invite combine";
+var mnemonic = "normal worry tobacco ridge outside machine leader uncle hire direct tongue depth";

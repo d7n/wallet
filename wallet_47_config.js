@@ -1,1 +1,1 @@
-var mnemonic = "cave live catalog neither daughter meadow abandon detail defy clutch result sister";
+var mnemonic = "jeans spider undo always exclude such grape attend electric also nation hurt";

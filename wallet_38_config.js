@@ -1,1 +1,1 @@
-var mnemonic = "demand beef envelope clock stage horse idea ready stage analyst local measure";
+var mnemonic = "rapid hour light half snake tape manual express skill police bless pluck";

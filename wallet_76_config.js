@@ -1,1 +1,1 @@
-var mnemonic = "whisper industry nation claim thought ride blast trend stumble vacant team trash";
+var mnemonic = "wise nephew describe unaware bitter such end harvest reopen law table canyon";

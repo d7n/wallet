@@ -1,1 +1,1 @@
-var mnemonic = "attend cancel own alarm lazy suggest arrive donate skill attend torch sad";
+var mnemonic = "math vehicle grab riot step endorse brain rain card ancient acquire hunt";

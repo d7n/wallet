@@ -1,1 +1,1 @@
-var mnemonic = "music genuine income tomorrow sense inspire letter worth young jacket love almost";
+var mnemonic = "solve month crime art armed another potato dry train negative sauce frown";

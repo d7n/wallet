@@ -1,1 +1,1 @@
-var mnemonic = "worth corn peace about canyon order agent column orphan midnight input category";
+var mnemonic = "cute dignity bronze energy tobacco position melody digital flush panel whale cannon";

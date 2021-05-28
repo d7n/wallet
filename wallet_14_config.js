@@ -1,1 +1,1 @@
-var mnemonic = "addict item joy economy neutral later monster regret mutual arrange step seek";
+var mnemonic = "attack refuse program negative castle orange produce silly husband teach envelope session";

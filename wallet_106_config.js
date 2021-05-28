@@ -1,1 +1,1 @@
-var mnemonic = "average want doctor lawsuit physical average grid cluster salute notable tide saddle";
+var mnemonic = "party crash inherit say mistake waste tennis spell clarify swing below evil";

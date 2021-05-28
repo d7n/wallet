@@ -1,1 +1,1 @@
-var mnemonic = "undo attend woman sketch solid moment coral february town pizza genre wet";
+var mnemonic = "cricket end sustain copy guilt defy today glad employ that civil sound";

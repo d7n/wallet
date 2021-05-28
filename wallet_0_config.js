@@ -1,1 +1,1 @@
-var mnemonic = "dance slight december over seminar limit useless deposit venture fame trumpet clever";
+var mnemonic = "update tool empty that corn enhance energy woman ensure bounce laptop labor";

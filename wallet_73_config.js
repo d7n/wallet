@@ -1,1 +1,1 @@
-var mnemonic = "rabbit sponsor all present cherry stone venture egg spider never head stumble";
+var mnemonic = "blood cram solar glory leopard orbit bone frost road eyebrow limit modify";

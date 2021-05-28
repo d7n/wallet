@@ -1,1 +1,1 @@
-var mnemonic = "love squirrel nothing audit soda slab syrup spoon wait they curious grain";
+var mnemonic = "sphere immune abuse reason scale drink pact reason clock process tree width";

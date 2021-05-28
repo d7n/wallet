@@ -1,1 +1,1 @@
-var mnemonic = "toddler anxiety rain clean solid fruit noble dizzy trumpet possible buddy buddy";
+var mnemonic = "flavor forward turtle morning stomach elevator armed ticket average trash camp size";

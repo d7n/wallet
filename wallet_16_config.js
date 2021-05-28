@@ -1,1 +1,1 @@
-var mnemonic = "also evil deny slender teach enrich scheme forest glove taste scale diary";
+var mnemonic = "divert coffee foam wise shrug broom bachelor birth hover distance cost travel";

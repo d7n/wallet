@@ -1,1 +1,1 @@
-var mnemonic = "milk marble produce ice neglect spike lab attend item scout peasant trim";
+var mnemonic = "dragon hospital input bargain scheme weapon develop enemy window autumn priority glue";

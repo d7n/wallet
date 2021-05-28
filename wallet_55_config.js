@@ -1,1 +1,1 @@
-var mnemonic = "congress bonus calm deputy involve either smart gaze mask jewel insane hidden";
+var mnemonic = "bargain ginger churn chronic peanut board heart biology humor roof gown ecology";

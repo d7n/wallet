@@ -1,1 +1,1 @@
-var mnemonic = "cycle milk pause load giraffe creek staff fork useful oil crunch kidney";
+var mnemonic = "supply change outside recall half spring news door paper width replace sunny";

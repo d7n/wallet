@@ -1,1 +1,1 @@
-var mnemonic = "mango message engine steel response apology exotic point pluck urban twenty quality";
+var mnemonic = "night force ribbon olympic raw topic slush process harbor solar bike claim";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt license night robust error blast brush bar high margin furnace together";
+var mnemonic = "saddle section embody absorb cake flush pony snack horror path guilt pumpkin";

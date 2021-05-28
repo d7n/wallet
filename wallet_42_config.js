@@ -1,1 +1,1 @@
-var mnemonic = "faint language require six rose insane style sphere swift version hundred kiwi";
+var mnemonic = "artefact alarm hope escape vessel recall square pear rare ancient muffin double";

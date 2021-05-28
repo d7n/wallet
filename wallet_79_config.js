@@ -1,1 +1,1 @@
-var mnemonic = "neglect cost involve test faculty receive honey drip quick dream dumb drill";
+var mnemonic = "mountain brief step pact model common inquiry fee book phone mandate seminar";
