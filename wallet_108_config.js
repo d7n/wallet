@@ -1,1 +1,1 @@
-var mnemonic = "match float lion fade raw december pull chalk egg culture chronic sentence";
+var mnemonic = "tonight prefer trim cherry name million topic brisk below pig mass fork";

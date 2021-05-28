@@ -1,1 +1,1 @@
-var mnemonic = "shift picture mirror pottery hover broken raven remember keep wonder banner forget";
+var mnemonic = "quiz cancel night brisk tone pretty spare angry hunt surge father group";

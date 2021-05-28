@@ -1,1 +1,1 @@
-var mnemonic = "card bench section hero know liar giggle distance artwork actual month cherry";
+var mnemonic = "barrel limit pet mimic dream clump deny plate devote refuse come spoil";

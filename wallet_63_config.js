@@ -1,1 +1,1 @@
-var mnemonic = "face silver vehicle will dune match obey define rather near guard cannon";
+var mnemonic = "early evoke cable text hat jump attend message magic faith blade image";

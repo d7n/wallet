@@ -1,1 +1,1 @@
-var mnemonic = "market glimpse canvas beauty devote custom weather cream stage diary apology bitter";
+var mnemonic = "toast supreme dragon hover stick auto fetch team story wood detail page";

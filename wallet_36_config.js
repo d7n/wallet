@@ -1,1 +1,1 @@
-var mnemonic = "empower day tooth organ noise ribbon tonight news female sheriff echo say";
+var mnemonic = "mandate float lobster illegal roof erosion fringe truly junior notable twist huge";

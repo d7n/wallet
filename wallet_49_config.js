@@ -1,1 +1,1 @@
-var mnemonic = "fine winter rapid turkey clutch smooth reopen grit critic milk blind recall";
+var mnemonic = "rifle dune way hundred corn indoor leisure two hen rough battle surround";

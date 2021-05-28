@@ -1,1 +1,1 @@
-var mnemonic = "plastic better claw monster grocery decline dice style icon embark visa tower";
+var mnemonic = "bright sail kangaroo vital library zoo embody pond amused sure will atom";

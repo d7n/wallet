@@ -1,1 +1,1 @@
-var mnemonic = "region improve violin pass swear kid goat boil second expire cannon flight";
+var mnemonic = "talk shadow key cattle spy team flip sausage chronic educate belt weird";

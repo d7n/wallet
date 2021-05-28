@@ -1,1 +1,1 @@
-var mnemonic = "exact sample yard voice learn fold mercy lens fork print volcano rude";
+var mnemonic = "bacon neck main decorate desert puzzle analyst fiscal home shove trophy emerge";

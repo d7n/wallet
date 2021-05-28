@@ -1,1 +1,1 @@
-var mnemonic = "palace fossil permit hunt basket now another blush better piano net goose";
+var mnemonic = "shrimp reason floor wage jaguar joy person major reveal school artist visit";

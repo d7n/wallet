@@ -1,1 +1,1 @@
-var mnemonic = "century twelve stool diary shoot tiny organ walk page aspect alcohol fury";
+var mnemonic = "average ramp combine piece enemy actor sell spread husband among melt indoor";

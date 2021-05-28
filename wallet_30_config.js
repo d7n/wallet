@@ -1,1 +1,1 @@
-var mnemonic = "beauty walnut tree faculty mosquito escape yard chase hospital lunar wall depend";
+var mnemonic = "panic shaft frozen eager make domain stock join apart govern attract choose";

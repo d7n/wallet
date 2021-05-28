@@ -1,1 +1,1 @@
-var mnemonic = "margin stay surround strong any clock fetch beef shell check tower choose";
+var mnemonic = "bench potato cart empty cram harbor forum bulk assault wisdom enable purpose";

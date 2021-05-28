@@ -1,1 +1,1 @@
-var mnemonic = "clump elevator answer indoor company gravity maple hobby federal olive wage cross";
+var mnemonic = "lumber guess harvest icon actress visual cable sunny arch army swallow destroy";

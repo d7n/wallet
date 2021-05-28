@@ -1,1 +1,1 @@
-var mnemonic = "primary unlock cash note taste hammer parent toe athlete jaguar usage hurry";
+var mnemonic = "true stand just cruise oyster image short flight tiny youth net machine";

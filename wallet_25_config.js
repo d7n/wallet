@@ -1,1 +1,1 @@
-var mnemonic = "still inflict announce weapon elder act smoke shrimp prison fantasy skin cause";
+var mnemonic = "price advance someone chief bounce hold increase fat render lunar talk version";

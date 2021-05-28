@@ -1,1 +1,1 @@
-var mnemonic = "youth pass uniform fork certain entry frozen choose giggle cabin since dice";
+var mnemonic = "endless layer sponsor axis evoke snap lady burger caught hold squeeze script";

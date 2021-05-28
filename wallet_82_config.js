@@ -1,1 +1,1 @@
-var mnemonic = "easy write garage cattle robot tunnel mom taxi faculty you ketchup idle";
+var mnemonic = "convince auto danger know material crunch solve first obtain purity youth holiday";

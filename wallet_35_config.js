@@ -1,1 +1,1 @@
-var mnemonic = "door parade vocal reveal shiver fork electric detect thing digital warrior crucial";
+var mnemonic = "expose wet other owner plug master surround fire mammal mammal crop lawn";

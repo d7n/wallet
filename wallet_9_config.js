@@ -1,1 +1,1 @@
-var mnemonic = "rail denial scrub series dose hundred bike phone victory inside orange raise";
+var mnemonic = "chapter large oyster filter blade fantasy survey apple valve moon clown clever";

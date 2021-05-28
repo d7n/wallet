@@ -1,1 +1,1 @@
-var mnemonic = "cream feature crumble strike height exhibit marine neck tobacco spoil venue random";
+var mnemonic = "divorce palm sleep gift head physical sure salmon ghost liquid ribbon weather";

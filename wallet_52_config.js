@@ -1,1 +1,1 @@
-var mnemonic = "rhythm dial title arena essence excuse hero exist asthma imitate saddle cat";
+var mnemonic = "truth morning path truth travel useless mosquito goat park level tent extra";

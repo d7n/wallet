@@ -1,1 +1,1 @@
-var mnemonic = "ordinary choice skate depart debate ocean doctor kidney error wealth install pig";
+var mnemonic = "piano silly december universe tennis damp other cluster slush cream yard example";

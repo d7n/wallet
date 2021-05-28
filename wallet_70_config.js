@@ -1,1 +1,1 @@
-var mnemonic = "teach deliver nephew erase rural magnet spray solar tree garlic foam infant";
+var mnemonic = "vintage cave whale fortune stomach admit palm credit tell topic curious bench";

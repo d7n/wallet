@@ -1,1 +1,1 @@
-var mnemonic = "ordinary neglect whale asset deer save lion shield test citizen figure weapon";
+var mnemonic = "humble zone bottom consider record olive poverty style jewel depart impose citizen";

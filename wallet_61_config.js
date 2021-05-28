@@ -1,1 +1,1 @@
-var mnemonic = "grace crouch table plate unaware once imitate render federal scorpion rebuild proud";
+var mnemonic = "clog insect assault above else lazy valve fall tobacco tree enough develop";

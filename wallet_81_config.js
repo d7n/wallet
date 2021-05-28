@@ -1,1 +1,1 @@
-var mnemonic = "orphan disease regret fog grit about boost face negative kiwi patch image";
+var mnemonic = "afraid police disorder upgrade bounce phrase purpose alarm mixed also rate hurt";

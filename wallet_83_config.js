@@ -1,1 +1,1 @@
-var mnemonic = "leopard guard coyote south flip drink distance toast strike dumb load budget";
+var mnemonic = "gesture diesel disease tree message rifle random push ready decade genre where";

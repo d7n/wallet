@@ -1,1 +1,1 @@
-var mnemonic = "midnight solid blind taste segment jacket fit visa upon hour winter weird";
+var mnemonic = "exercise trap tiny ghost hill grow crop young rookie speak blade suggest";

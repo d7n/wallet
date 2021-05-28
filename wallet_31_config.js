@@ -1,1 +1,1 @@
-var mnemonic = "pull lift throw peanut minute predict dose bone spike inside false estate";
+var mnemonic = "amused once coral solution absent slice reject rural trouble original tent happy";

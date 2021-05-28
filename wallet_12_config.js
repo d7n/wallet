@@ -1,1 +1,1 @@
-var mnemonic = "brother music push chef stumble eager uphold sick course absurd young humor";
+var mnemonic = "heart bubble scrap virus dawn pattern dad dog duty puzzle evoke virus";

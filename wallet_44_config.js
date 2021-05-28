@@ -1,1 +1,1 @@
-var mnemonic = "gorilla easily bread ring make upon permit orange meat huge ivory walnut";
+var mnemonic = "glow affair voyage hub nose hood skill recall wonder share walnut finger";

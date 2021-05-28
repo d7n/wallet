@@ -1,1 +1,1 @@
-var mnemonic = "bracket cupboard cricket umbrella divorce discover wool lion robust wonder street party";
+var mnemonic = "chicken library term domain spawn sudden rose breeze fiction arch clump iron";

@@ -1,1 +1,1 @@
-var mnemonic = "horror click exclude motion arena cabbage super wet sock source outside proof";
+var mnemonic = "essay broom then clay excess until edge siren pudding glare legal swarm";

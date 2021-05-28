@@ -1,1 +1,1 @@
-var mnemonic = "zebra special advance render wave gym gown dizzy key equal victory hill";
+var mnemonic = "trap budget very dose pole final taxi ship royal bracket news else";

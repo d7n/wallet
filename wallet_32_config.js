@@ -1,1 +1,1 @@
-var mnemonic = "wrap kiwi jungle elbow solid lift fringe payment myth drop left spray";
+var mnemonic = "tourist panther dilemma tell enough gesture shock grape twelve split require pledge";

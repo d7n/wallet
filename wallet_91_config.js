@@ -1,1 +1,1 @@
-var mnemonic = "fix shove afraid trade drift license twist wage orchard rail proud pill";
+var mnemonic = "true exchange honey witness goddess execute cause hat session task excuse swear";

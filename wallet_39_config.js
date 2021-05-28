@@ -1,1 +1,1 @@
-var mnemonic = "history hazard select spare document grit boy there demand sunny genre shield";
+var mnemonic = "actual correct okay found story filter sugar side humble zoo chase spoon";

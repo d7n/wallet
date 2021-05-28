@@ -1,1 +1,1 @@
-var mnemonic = "pattern ramp element student ride dance abstract culture soon six image impact";
+var mnemonic = "worry menu jacket brisk spoon snow garden front place mutual mango inner";

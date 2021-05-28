@@ -1,1 +1,1 @@
-var mnemonic = "only more woman solar oven country jewel denial shy outer crack across";
+var mnemonic = "tomorrow window stick excess among mansion dwarf step message rigid time put";

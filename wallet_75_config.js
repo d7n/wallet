@@ -1,1 +1,1 @@
-var mnemonic = "purity dry jungle frown critic bracket mass disorder hidden erosion spell stool";
+var mnemonic = "mosquito drip cigar blossom order execute decorate border pet decorate impose echo";

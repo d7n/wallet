@@ -1,1 +1,1 @@
-var mnemonic = "found assume affair town fame panther horn garbage now venue prevent rabbit";
+var mnemonic = "either explain travel month mandate inmate tide during swarm volume brown people";

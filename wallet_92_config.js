@@ -1,1 +1,1 @@
-var mnemonic = "tunnel impose auction leg before season fold awkward autumn ice dial kid";
+var mnemonic = "bless gesture region purpose section crime aerobic wolf where start skull better";

@@ -1,1 +1,1 @@
-var mnemonic = "exile ranch ordinary damage fly truth special skull outdoor imitate ugly hole";
+var mnemonic = "split theme local scorpion acquire bomb bounce spatial target mystery hub job";

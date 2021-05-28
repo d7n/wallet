@@ -1,1 +1,1 @@
-var mnemonic = "viable skin toilet mercy harsh degree oak rookie husband priority master scan";
+var mnemonic = "debate scan input endless ecology hurry strategy usage panic focus flush acid";

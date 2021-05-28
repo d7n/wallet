@@ -1,1 +1,1 @@
-var mnemonic = "romance capable retreat trap update deputy immune audit that board walnut wish";
+var mnemonic = "ten live world grid weird taxi elbow cotton hip seat domain need";

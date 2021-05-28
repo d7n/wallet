@@ -1,1 +1,1 @@
-var mnemonic = "decline depth easily elbow invite noodle also tiny fortune expire uncle jar";
+var mnemonic = "liberty tired bachelor voice number poem employ twenty ride session since shuffle";

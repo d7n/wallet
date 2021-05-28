@@ -1,1 +1,1 @@
-var mnemonic = "west dance memory gather disease current trend trumpet curve list have basket";
+var mnemonic = "excess multiply mango ready soul idea run nasty never secret hidden churn";

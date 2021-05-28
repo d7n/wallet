@@ -1,1 +1,1 @@
-var mnemonic = "success photo awful cycle rain local discover tone deer replace region coffee";
+var mnemonic = "actual enter loop alien knock medal disorder click sheriff dentist ladder piece";

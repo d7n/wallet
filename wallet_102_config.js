@@ -1,1 +1,1 @@
-var mnemonic = "woman split combine blood arrange before simple recipe frost glory route recall";
+var mnemonic = "hidden couple powder theory vague release include conduct series size develop depth";

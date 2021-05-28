@@ -1,1 +1,1 @@
-var mnemonic = "public click gather nut bonus promote wrestle acid talent under ask midnight";
+var mnemonic = "fuel upper mystery shed sad sport prevent spy praise dinosaur iron muscle";

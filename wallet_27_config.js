@@ -1,1 +1,1 @@
-var mnemonic = "design chalk young drum torch escape blush zero fly phone amazing write";
+var mnemonic = "swarm point unable lucky appear taste mammal orient super coffee impose kit";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor acid there today author valid prepare wave govern cave around chest";
+var mnemonic = "skull cycle tide enlist fiber lab language crowd novel measure all pioneer";

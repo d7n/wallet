@@ -1,1 +1,1 @@
-var mnemonic = "bike finger gadget air science north like point quiz album shed anxiety";
+var mnemonic = "struggle praise industry before pole fringe ice erosion engine van under runway";

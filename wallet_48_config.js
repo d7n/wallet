@@ -1,1 +1,1 @@
-var mnemonic = "surface enough devote window entire leisure rough duck address skill disorder page";
+var mnemonic = "often price battle true adjust brick excess three horn vehicle tribe main";

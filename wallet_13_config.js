@@ -1,1 +1,1 @@
-var mnemonic = "list mechanic afford buyer width sponsor fiscal rich song avoid merge lift";
+var mnemonic = "client magic combine accident shoulder tobacco resemble umbrella certain type spread suit";

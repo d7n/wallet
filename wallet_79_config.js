@@ -1,1 +1,1 @@
-var mnemonic = "retreat fringe bus creek duck inmate middle fame able defense swarm tobacco";
+var mnemonic = "abuse oxygen volcano bring grass poverty ozone push hope pear wet faculty";

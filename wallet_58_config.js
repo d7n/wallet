@@ -1,1 +1,1 @@
-var mnemonic = "hockey journey woman render lumber spin oven jar fatigue brush acoustic volume";
+var mnemonic = "net lemon increase remind cup plug offer essence pond recipe dismiss action";

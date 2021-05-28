@@ -1,1 +1,1 @@
-var mnemonic = "net stove around pumpkin plunge cluster rack cliff harsh truth park soup";
+var mnemonic = "old hope predict what mammal alcohol supply exhaust hood dance merit evoke";

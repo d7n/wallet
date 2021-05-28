@@ -1,1 +1,1 @@
-var mnemonic = "letter person school tumble distance wear sand right usage silent blast spot";
+var mnemonic = "first blur grow reflect junk strategy journey surface galaxy cook pole armor";

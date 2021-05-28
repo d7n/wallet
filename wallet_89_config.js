@@ -1,1 +1,1 @@
-var mnemonic = "model excuse law party general reward champion local beauty culture hair analyst";
+var mnemonic = "afraid weapon chest habit filter guitar rebel firm split wedding knock evil";

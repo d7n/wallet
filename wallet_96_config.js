@@ -1,1 +1,1 @@
-var mnemonic = "champion cousin beyond appear legend apart jar quit loan dutch dog protect";
+var mnemonic = "easily home make blood curve confirm galaxy airport pond cage consider hen";

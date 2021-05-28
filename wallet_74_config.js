@@ -1,1 +1,1 @@
-var mnemonic = "seven unhappy access merry travel miss shop peanut wire street increase holiday";
+var mnemonic = "normal accuse scene cram off upset custom intact mandate wool health smooth";

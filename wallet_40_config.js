@@ -1,1 +1,1 @@
-var mnemonic = "panther amateur real venue safe plunge vast virtual audit next volume sand";
+var mnemonic = "whisper rude chief lunch castle month clutch yard dust gentle goose derive";

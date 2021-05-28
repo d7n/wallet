@@ -1,1 +1,1 @@
-var mnemonic = "explain diagram check clock scheme glide chair obtain uncover civil garbage kiwi";
+var mnemonic = "carpet sibling square soldier health danger menu prepare air wood write super";

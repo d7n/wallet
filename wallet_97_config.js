@@ -1,1 +1,1 @@
-var mnemonic = "garbage update other sustain over that occur trick clutch spin labor top";
+var mnemonic = "emotion victory shop stadium brother color feature visit weapon gun minute broken";

@@ -1,1 +1,1 @@
-var mnemonic = "guide tornado liar hello ramp pill hurry crop clay cash panda hidden";
+var mnemonic = "onion audit famous clip general cliff tail enough life hobby want emotion";

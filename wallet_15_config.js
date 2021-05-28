@@ -1,1 +1,1 @@
-var mnemonic = "diesel bronze gospel pool scrub timber drill swear phone click twelve blade";
+var mnemonic = "letter radar fan coach flock quality shoulder almost lava wheel equal gadget";

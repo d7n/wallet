@@ -1,1 +1,1 @@
-var mnemonic = "rebuild zone analyst victory zebra volume stick volume friend intact build trial";
+var mnemonic = "ladder then keep toilet write critic gasp false thunder ticket submit ticket";

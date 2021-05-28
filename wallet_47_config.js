@@ -1,1 +1,1 @@
-var mnemonic = "junk mistake engine accuse trim echo swap junk merge theme brass case";
+var mnemonic = "lazy monster wet fatal captain calm remember begin indoor carbon lyrics delay";

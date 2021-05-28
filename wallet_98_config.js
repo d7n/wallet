@@ -1,1 +1,1 @@
-var mnemonic = "report galaxy whisper wave lamp grant runway into three fatal parrot margin";
+var mnemonic = "owner various suffer ketchup garage stone east current earth steel brave job";

@@ -1,1 +1,1 @@
-var mnemonic = "message nest civil mandate engage sick squirrel valve design discover attitude square";
+var mnemonic = "science prison nominee picture mimic unique scan oil own deer wall enjoy";

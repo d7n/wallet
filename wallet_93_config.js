@@ -1,1 +1,1 @@
-var mnemonic = "uphold truth clog suit spike truck squeeze sound balcony frown smoke unlock";
+var mnemonic = "alpha ladder disease burger pencil sick apple believe legend sudden desk advice";

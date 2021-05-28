@@ -1,1 +1,1 @@
-var mnemonic = "truly sure angle square oxygen pupil hammer ordinary mixture gather alert obey";
+var mnemonic = "flash gravity arch width shiver message brief destroy napkin pyramid conduct broccoli";

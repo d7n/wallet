@@ -1,1 +1,1 @@
-var mnemonic = "zoo enemy artefact large orchard olive crash hour burden file large broken";
+var mnemonic = "exit quality awake luggage carry video flag design fuel frozen job access";

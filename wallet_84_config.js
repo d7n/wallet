@@ -1,1 +1,1 @@
-var mnemonic = "person scorpion bridge age lucky tooth reject labor machine planet rose autumn";
+var mnemonic = "roof miracle lyrics jungle unaware trial squeeze title trash struggle rural impact";

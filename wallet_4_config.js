@@ -1,1 +1,1 @@
-var mnemonic = "copy mammal music cloth attend brisk trip range where craft occur all";
+var mnemonic = "deliver nerve grain inch rookie differ walk brass cable pool stove exotic";

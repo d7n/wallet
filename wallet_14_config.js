@@ -1,1 +1,1 @@
-var mnemonic = "erase age neglect game zebra roast prevent dumb type old blind foil";
+var mnemonic = "vibrant thought celery layer middle lonely fringe ranch dice clutch diesel there";

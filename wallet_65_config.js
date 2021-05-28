@@ -1,1 +1,1 @@
-var mnemonic = "broken genre inform load train drip reward net leopard distance strong negative";
+var mnemonic = "stand monitor derive nephew scene tonight antenna way bench jump ozone film";

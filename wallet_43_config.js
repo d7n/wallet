@@ -1,1 +1,1 @@
-var mnemonic = "execute promote dice census cage rotate afraid long length move buffalo city";
+var mnemonic = "physical swap cabbage symptom sign daughter twenty sad kingdom act kiss jeans";

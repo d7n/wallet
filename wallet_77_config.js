@@ -1,1 +1,1 @@
-var mnemonic = "swarm frozen wonder program shield output van box salad lonely modify settle";
+var mnemonic = "flash tag quiz report swift later question divorce subway toast ability drill";

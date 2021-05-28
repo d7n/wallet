@@ -1,1 +1,1 @@
-var mnemonic = "usage ill twenty heart wet trumpet relief latin cool into online pig";
+var mnemonic = "salute resemble chase maid noble mail cabbage razor aspect test special cupboard";

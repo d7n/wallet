@@ -1,1 +1,1 @@
-var mnemonic = "luxury produce day delay express forum lesson file admit evil dress nature";
+var mnemonic = "cactus debate gasp inspire gesture flame captain joke million harvest gown inch";

@@ -1,1 +1,1 @@
-var mnemonic = "gun erosion flush rebuild situate poet host dignity girl practice high rescue";
+var mnemonic = "uniform ask garment craft potato swear script pistol drum ensure pond course";

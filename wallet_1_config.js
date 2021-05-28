@@ -1,1 +1,1 @@
-var mnemonic = "year skirt flip improve bronze sight vault require quit crime drastic gold";
+var mnemonic = "torch kiss sign arrow action project inmate middle organ lounge message write";

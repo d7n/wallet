@@ -1,1 +1,1 @@
-var mnemonic = "always together surround struggle satisfy night robust upset jelly transfer puppy shrimp";
+var mnemonic = "egg achieve certain electric woman plunge ceiling horn sing gate left grape";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain receive original equip cinnamon tired draw action garage arrow tip usual";
+var mnemonic = "draw tower sketch spawn phrase cattle depth wall aunt lazy doll brick";

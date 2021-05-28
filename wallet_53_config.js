@@ -1,1 +1,1 @@
-var mnemonic = "curious antique absent duck help marriage adapt wagon number pill solid kiwi";
+var mnemonic = "drastic damage liberty kiss shy stereo black together social survey pencil negative";

@@ -1,1 +1,1 @@
-var mnemonic = "cat rack snake side clinic cloud double amused movie valid creek forum";
+var mnemonic = "spend game penalty horror cage place great engine bundle memory tuna tumble";

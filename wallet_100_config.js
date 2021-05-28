@@ -1,1 +1,1 @@
-var mnemonic = "much path miss danger frame reunion lobster private rug hole awake divert";
+var mnemonic = "endorse episode issue ignore need diary relief robot picnic clinic boy artwork";

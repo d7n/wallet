@@ -1,1 +1,1 @@
-var mnemonic = "nose swing dream team ridge absurd explain siren kid city hold avoid";
+var mnemonic = "cake skull flee fire scan hawk argue catalog helmet hammer shaft chat";

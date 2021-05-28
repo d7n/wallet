@@ -1,1 +1,1 @@
-var mnemonic = "object sauce endless frame right market crash desk project ability execute there";
+var mnemonic = "bargain circle park access accuse secret stomach attack surprise dinner grocery prepare";

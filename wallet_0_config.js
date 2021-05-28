@@ -1,1 +1,1 @@
-var mnemonic = "goat blind urban silk require either deny cricket harbor shove firm polar";
+var mnemonic = "jump monitor enter physical cream faith gossip ice master magnet tackle robot";

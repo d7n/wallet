@@ -1,1 +1,1 @@
-var mnemonic = "egg diet sponsor brave ankle dish egg program stem stereo bulk prison";
+var mnemonic = "pitch fork tent flower honey enact receive venue hold debris hungry demand";
