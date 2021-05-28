@@ -1,1 +1,1 @@
-var mnemonic = "mushroom cargo final diamond alter trend cake clown broken find turtle divide";
+var mnemonic = "street device master foot because arch phrase fiction dizzy river error require";

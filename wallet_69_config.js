@@ -1,1 +1,1 @@
-var mnemonic = "sing win project ramp honey easily million exclude orchard snow addict offer";
+var mnemonic = "voyage nephew library desert obey glass sport remember mansion ceiling drill educate";

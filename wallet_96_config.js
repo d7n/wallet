@@ -1,1 +1,1 @@
-var mnemonic = "palm cat need decrease element matter feed half shiver color impose enough";
+var mnemonic = "phrase table crane sight mobile divorce clever fix brass vicious nose worry";

@@ -1,1 +1,1 @@
-var mnemonic = "front reject hurt limb federal useless seven amount culture exhibit slogan blur";
+var mnemonic = "receive vacuum whip snap detect apology blue blood echo bundle boy estate";

@@ -1,1 +1,1 @@
-var mnemonic = "casino special wait lottery tongue above book comfort acquire elegant must fantasy";
+var mnemonic = "pet exotic clock hazard item school divorce step soon scrap glide ginger";

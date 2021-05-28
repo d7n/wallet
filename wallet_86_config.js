@@ -1,1 +1,1 @@
-var mnemonic = "vast drift kite hurdle aisle enjoy menu master elbow arrow library album";
+var mnemonic = "one own pluck giggle drum arrest often wonder brain thank crisp gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon hockey erode dress erode tumble exchange shift vacant margin plastic change";
+var mnemonic = "bounce top foil drama infant soccer run acoustic coffee loyal tool attack";

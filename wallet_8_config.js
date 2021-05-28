@@ -1,1 +1,1 @@
-var mnemonic = "puzzle movie upon hen submit inflict horse science minute machine casino close";
+var mnemonic = "twin earth ticket shock memory supply game faculty client churn auto enough";

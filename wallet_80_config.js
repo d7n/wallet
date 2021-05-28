@@ -1,1 +1,1 @@
-var mnemonic = "oak dice alpha century walk mad tower bulk left document pond keen";
+var mnemonic = "lift surge proud amateur people bulk lab nephew boil habit unfair learn";

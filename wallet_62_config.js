@@ -1,1 +1,1 @@
-var mnemonic = "worry release flight about say few bundle boss lobster aim catalog eager";
+var mnemonic = "can absorb install humor monitor midnight ecology any merry myself impose dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity stairs route wedding midnight caution situate bone congress opinion knock volume";
+var mnemonic = "wink inside just loop attend sadness then diamond bottom rhythm speed inch";

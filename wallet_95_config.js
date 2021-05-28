@@ -1,1 +1,1 @@
-var mnemonic = "ripple pill aim setup seven cage remove boost drift spawn nature kingdom";
+var mnemonic = "hip unusual nurse dumb dismiss blast lumber rapid spread dust six comfort";

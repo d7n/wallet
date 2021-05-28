@@ -1,1 +1,1 @@
-var mnemonic = "fabric draw artist surround business vital tattoo tilt state demise size try";
+var mnemonic = "until bunker search upon huge oval tragic judge cruel load pepper funny";

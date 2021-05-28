@@ -1,1 +1,1 @@
-var mnemonic = "grunt month fly found few disorder mad marriage host flavor snake traffic";
+var mnemonic = "real ride advice eagle green hip guilt sauce steel tortoise pizza toy";

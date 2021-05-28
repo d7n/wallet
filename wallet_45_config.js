@@ -1,1 +1,1 @@
-var mnemonic = "announce wine obvious capable tissue trouble online joy satoshi future myself elegant";
+var mnemonic = "apology sunny rail guilt pioneer kid stereo struggle visa damage grocery sea";

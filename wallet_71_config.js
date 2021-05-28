@@ -1,1 +1,1 @@
-var mnemonic = "thank dog all bring leopard deal music news tragic life violin improve";
+var mnemonic = "banner bamboo extra awful slide congress mosquito truly cousin maze evidence lemon";

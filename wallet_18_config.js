@@ -1,1 +1,1 @@
-var mnemonic = "ridge twice minute climb rubber witness biology prevent weekend rice salad debate";
+var mnemonic = "ill settle layer ahead tornado razor company unveil razor expect alarm brand";

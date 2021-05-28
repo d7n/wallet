@@ -1,1 +1,1 @@
-var mnemonic = "dry message decline bright master laugh arena uphold harvest cigar arrive twelve";
+var mnemonic = "end accident poem few bachelor chase oxygen deposit tooth already fiction verb";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere chuckle camera fat action timber slush utility aerobic remember cat abandon";
+var mnemonic = "index gym neglect flee globe razor unveil pen pottery abstract eight cigar";

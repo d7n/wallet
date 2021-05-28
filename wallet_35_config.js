@@ -1,1 +1,1 @@
-var mnemonic = "remove junk piece clog industry doctor range impulse bicycle tired spawn tragic";
+var mnemonic = "such twist battle chalk hand sample weird globe smooth attend tuition puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "train brother text collect smoke erupt sword human aware smooth margin mobile";
+var mnemonic = "patrol describe give sauce judge lawsuit dragon perfect foster message innocent glimpse";

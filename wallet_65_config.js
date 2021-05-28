@@ -1,1 +1,1 @@
-var mnemonic = "coconut afraid peanut travel fatal alley kitten emerge february squirrel attract ostrich";
+var mnemonic = "dumb piano grocery average talk square cram abstract agent oppose blossom clarify";

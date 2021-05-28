@@ -1,1 +1,1 @@
-var mnemonic = "mimic destroy rival paper forest burden lumber like snack eyebrow spread arm";
+var mnemonic = "replace supply plunge choice inherit guitar general give old save grace fit";

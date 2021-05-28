@@ -1,1 +1,1 @@
-var mnemonic = "aim chest chaos rhythm novel execute combine that finger color glory outdoor";
+var mnemonic = "identify garment remain picture combine fever floor guilt elite tobacco couple project";

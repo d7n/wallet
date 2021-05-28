@@ -1,1 +1,1 @@
-var mnemonic = "opinion rebuild kite man camera act apart dinner pulp caution bundle pulp";
+var mnemonic = "goose animal bachelor library creek baby stamp lemon treat air banner catch";

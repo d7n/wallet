@@ -1,1 +1,1 @@
-var mnemonic = "flock beauty inquiry alcohol glimpse train turkey army divert near educate trigger";
+var mnemonic = "regret old rabbit digital tip input fun catch welcome case flight method";

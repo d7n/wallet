@@ -1,1 +1,1 @@
-var mnemonic = "answer dumb bring flash almost flat opinion wire radio pass super circle";
+var mnemonic = "thank path avoid flag entire mean pond mosquito ribbon law gather address";

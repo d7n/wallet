@@ -1,1 +1,1 @@
-var mnemonic = "deal helmet property wheat boss whip wagon device rule apology siege sister";
+var mnemonic = "ability copy modify emerge point phone ship fantasy jewel drill supply guess";

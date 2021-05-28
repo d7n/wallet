@@ -1,1 +1,1 @@
-var mnemonic = "bottom wool lava weird blanket remove leave awesome great own escape item";
+var mnemonic = "hollow acoustic nasty minute indicate deposit cousin dial review clinic link woman";

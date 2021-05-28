@@ -1,1 +1,1 @@
-var mnemonic = "blind when vendor story useful school clutch torch cloud arena mention smart";
+var mnemonic = "invest city trap spread hurry fatigue farm canvas huge today final save";

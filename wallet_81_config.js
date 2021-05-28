@@ -1,1 +1,1 @@
-var mnemonic = "same dice solid harvest unfair fantasy twelve keen else deer better wagon";
+var mnemonic = "exercise journey initial erosion maid width improve dolphin buzz mobile bind refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "fire puzzle clock earth mutual firm dash social jaguar buffalo monitor tool";
+var mnemonic = "manage vote spice oyster kingdom video share material boy dream fresh original";

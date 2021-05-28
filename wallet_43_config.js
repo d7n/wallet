@@ -1,1 +1,1 @@
-var mnemonic = "orange nest donkey resemble peasant truly balance stomach stadium little hint tiny";
+var mnemonic = "price hover drill viable tennis scatter saddle human pen chalk shop install";

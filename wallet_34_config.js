@@ -1,1 +1,1 @@
-var mnemonic = "violin chat broom swamp reopen sketch tuition hello crowd stadium sibling endless";
+var mnemonic = "picnic puppy goat loan educate trap wash six athlete filter draft mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce audit better okay ready vanish poem empty coconut bring guide spice";
+var mnemonic = "ball rookie suit crowd unfold access index pipe side focus purpose penalty";

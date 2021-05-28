@@ -1,1 +1,1 @@
-var mnemonic = "game snack century picnic range cherry level fabric picture quote cube category";
+var mnemonic = "chef add rookie arch baby brass lift judge worry flower fork divide";

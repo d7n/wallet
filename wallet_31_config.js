@@ -1,1 +1,1 @@
-var mnemonic = "lava candy spray gather upper grit lake baby super grape page cat";
+var mnemonic = "defy delay dash subway candy donor dignity pigeon bundle flee atom wall";

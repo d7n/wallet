@@ -1,1 +1,1 @@
-var mnemonic = "senior name ribbon spoil square core film visit lyrics hole pet vacuum";
+var mnemonic = "demise fever field sentence level tragic spread drama vote concert level real";

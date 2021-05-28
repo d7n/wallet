@@ -1,1 +1,1 @@
-var mnemonic = "fabric shock movie snap attract monkey manage loud act thank rude turtle";
+var mnemonic = "oven between attend bundle alone dose idea axis glory problem jacket leg";

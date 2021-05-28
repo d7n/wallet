@@ -1,1 +1,1 @@
-var mnemonic = "winner pipe stand mixed bicycle jazz try verify gas ship long remember";
+var mnemonic = "foster cousin license have talent arrange federal coin uncover valve wagon master";

@@ -1,1 +1,1 @@
-var mnemonic = "riot small belt prevent offer media frown tribe model sand upgrade tortoise";
+var mnemonic = "art swift eight aspect glide fitness wait ramp amused clock lounge culture";

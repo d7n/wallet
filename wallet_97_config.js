@@ -1,1 +1,1 @@
-var mnemonic = "siren divert clay wrist reveal table dance train captain crawl wrist tube";
+var mnemonic = "effort pattern divorce regret dinner message jar maid visa moment object measure";

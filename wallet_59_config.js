@@ -1,1 +1,1 @@
-var mnemonic = "common try barely erupt dish raw kingdom timber idea tissue click dwarf";
+var mnemonic = "circle toe refuse negative next spell play renew found town unaware century";

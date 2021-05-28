@@ -1,1 +1,1 @@
-var mnemonic = "loud harsh pool drama carry dawn hour shock festival home harbor rural";
+var mnemonic = "error pull bread rule menu problem foam tiny draft dolphin lyrics manual";

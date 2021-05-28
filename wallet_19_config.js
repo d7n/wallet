@@ -1,1 +1,1 @@
-var mnemonic = "faculty drink festival hope floor cigar airport chief tired wedding clump snow";
+var mnemonic = "gun reopen issue slight output voyage dignity case sound famous post impose";

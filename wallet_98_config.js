@@ -1,1 +1,1 @@
-var mnemonic = "update wrestle charge cousin vital city rabbit shadow solution service struggle promote";
+var mnemonic = "resemble suggest angle clog saddle stamp faint winter chest woman taxi bomb";

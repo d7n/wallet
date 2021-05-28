@@ -1,1 +1,1 @@
-var mnemonic = "team choose frame orphan hollow split melody average near lava spend will";
+var mnemonic = "symptom bounce nominee narrow choice fire course crucial plastic tag file focus";

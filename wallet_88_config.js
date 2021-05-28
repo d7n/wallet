@@ -1,1 +1,1 @@
-var mnemonic = "gaze random borrow stadium sword coil inflict old unfold impact nest basic";
+var mnemonic = "caution vocal bid oval simple place soda prepare depart swap airport antique";

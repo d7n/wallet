@@ -1,1 +1,1 @@
-var mnemonic = "food okay stone lion topple public weasel grit sort melody prosper hurry";
+var mnemonic = "define giraffe replace differ salon degree identify stamp general donor tiger minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal siege joy skate rose lottery border wall black section today comic";
+var mnemonic = "author work beach lunch vast mobile leisure slice isolate betray coral lunar";

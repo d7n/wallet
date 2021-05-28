@@ -1,1 +1,1 @@
-var mnemonic = "twist service kitchen food load damage switch screen tackle motor goat gate";
+var mnemonic = "nature case crystal shallow truck shed code attack humor bless smile tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel kick choose rain shallow club vivid tuition donkey permit gain bamboo";
+var mnemonic = "section list place own leader nuclear leisure choose april claim sell adult";

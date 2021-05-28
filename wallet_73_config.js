@@ -1,1 +1,1 @@
-var mnemonic = "organ swing measure among scan suffer olive derive ramp media possible object";
+var mnemonic = "wire pill stay walnut fan demise science length magic used leaf push";

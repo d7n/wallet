@@ -1,1 +1,1 @@
-var mnemonic = "phone build evoke suggest noodle future explain radio swarm risk attend art";
+var mnemonic = "cricket answer else amazing test domain ripple tag catalog cupboard glory kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "anger garlic hamster custom trend square alter use favorite arrow expose concert";
+var mnemonic = "inhale taxi print person banner unveil reflect entry extra promote runway deputy";

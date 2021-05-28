@@ -1,1 +1,1 @@
-var mnemonic = "mystery picnic powder burst time fold vote void phrase seven volcano pave";
+var mnemonic = "scare pyramid emotion proud sheriff weird chapter denial enhance pact veteran bring";

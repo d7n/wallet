@@ -1,1 +1,1 @@
-var mnemonic = "hover arrange way skirt setup focus walk barely math click habit silk";
+var mnemonic = "guitar sadness situate popular dutch arch crack biology program suggest wear expire";

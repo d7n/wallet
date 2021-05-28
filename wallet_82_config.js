@@ -1,1 +1,1 @@
-var mnemonic = "admit minor able trim lunch drip remove spare silver little help space";
+var mnemonic = "fade gun solution always above absurd guard shed water suit audit bundle";

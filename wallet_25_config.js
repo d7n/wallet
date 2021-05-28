@@ -1,1 +1,1 @@
-var mnemonic = "frame deal flavor grass lyrics run exit height eternal remember erode live";
+var mnemonic = "tube shoot kitten fade party laptop manage rack congress target borrow rabbit";

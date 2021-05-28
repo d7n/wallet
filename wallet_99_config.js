@@ -1,1 +1,1 @@
-var mnemonic = "pigeon wine burst salute boat explain buzz walnut vacant learn sea outer";
+var mnemonic = "keep cruel derive say feed intact achieve vehicle clog eagle few subway";

@@ -1,1 +1,1 @@
-var mnemonic = "van open catch brand crumble employ wife hunt thumb animal runway jewel";
+var mnemonic = "stamp field flavor proof mail luxury remind dish sketch phone problem casual";

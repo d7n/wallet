@@ -1,1 +1,1 @@
-var mnemonic = "injury use mule improve lab custom occur axis rapid flower myself insect";
+var mnemonic = "shallow clutch bracket cupboard rookie since wet agree winner sheriff shine farm";

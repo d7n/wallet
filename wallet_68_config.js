@@ -1,1 +1,1 @@
-var mnemonic = "faith digital panda garbage piano lock immune veteran kit absorb leaf demand";
+var mnemonic = "pig enrich message option game tank bridge frost baby wheel guard high";

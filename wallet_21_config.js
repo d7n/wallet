@@ -1,1 +1,1 @@
-var mnemonic = "smile junior habit twelve finish universe name exercise vacuum stand among muffin";
+var mnemonic = "grunt impact shield mail tribe announce refuse slide air vital people move";

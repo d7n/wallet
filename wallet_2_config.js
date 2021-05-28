@@ -1,1 +1,1 @@
-var mnemonic = "trigger clap carbon avocado donate nothing kind brass three nuclear meat chair";
+var mnemonic = "rent begin surprise hunt coconut update wait corn six garlic skate record";

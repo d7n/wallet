@@ -1,1 +1,1 @@
-var mnemonic = "give wedding census destroy horse permit toast subject vibrant hover caution exhibit";
+var mnemonic = "cake ginger other horror favorite repeat alley just stay affair penalty velvet";

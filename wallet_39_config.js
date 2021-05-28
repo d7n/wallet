@@ -1,1 +1,1 @@
-var mnemonic = "reward pyramid donate hotel stone zebra predict mirror aspect squirrel pumpkin crater";
+var mnemonic = "ripple fox country ripple december around gaze crash exile crack romance alter";

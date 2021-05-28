@@ -1,1 +1,1 @@
-var mnemonic = "liberty during subject calm key eye repeat again giraffe excess skirt visa";
+var mnemonic = "secret fox filter they network purity finish meat unit object exile rail";

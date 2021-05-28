@@ -1,1 +1,1 @@
-var mnemonic = "color stereo eye whip stage insect acquire shallow opera bone service sorry";
+var mnemonic = "title light alpha interest extra total river crash shock vague increase common";

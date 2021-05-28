@@ -1,1 +1,1 @@
-var mnemonic = "zero real case add receive noodle monster old upon empty claw latin";
+var mnemonic = "derive space ordinary blue erupt scrub garden lottery proud detect hospital oil";

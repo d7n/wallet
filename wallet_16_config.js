@@ -1,1 +1,1 @@
-var mnemonic = "intact fortune start firm control fee obvious ankle correct off noble bar";
+var mnemonic = "satisfy average merry all woman need canal hover risk sauce image weather";

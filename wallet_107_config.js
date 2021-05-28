@@ -1,1 +1,1 @@
-var mnemonic = "normal swarm impact excuse refuse pear admit palace easily betray prevent slam";
+var mnemonic = "park subject cram slam assume cool reason ostrich network gun hazard unveil";

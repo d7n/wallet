@@ -1,1 +1,1 @@
-var mnemonic = "brand coconut river man blade problem panel pigeon broken hat confirm slender";
+var mnemonic = "culture very hidden mass furnace visa photo process coin steak toward decline";

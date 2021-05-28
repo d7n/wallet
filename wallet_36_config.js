@@ -1,1 +1,1 @@
-var mnemonic = "toast symbol flip indicate robust bonus swift boost solve bid flock run";
+var mnemonic = "orange above deposit assault demise share pioneer shaft purpose sight license fork";

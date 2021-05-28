@@ -1,1 +1,1 @@
-var mnemonic = "group exile payment cram view excite cabbage exotic traffic grant oblige sunny";
+var mnemonic = "anxiety dawn horror cool happy orbit mobile cradle second card road try";

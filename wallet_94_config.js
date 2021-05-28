@@ -1,1 +1,1 @@
-var mnemonic = "artwork abuse fine seed oval sword similar recipe dinosaur cannon under asthma";
+var mnemonic = "hurt physical glimpse attend chat walk funny enroll adjust person evoke normal";

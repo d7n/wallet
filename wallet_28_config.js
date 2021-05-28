@@ -1,1 +1,1 @@
-var mnemonic = "resemble fantasy hurt evolve evidence alpha door carbon isolate suggest dose reason";
+var mnemonic = "pause monkey enhance benefit turtle primary intact double spring junk there silly";

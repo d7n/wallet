@@ -1,1 +1,1 @@
-var mnemonic = "stick detect equal please protect portion uncle office speed horror antique lyrics";
+var mnemonic = "grape write circle pen exercise shove inner upon mind track process prize";

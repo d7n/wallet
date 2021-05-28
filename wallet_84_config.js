@@ -1,1 +1,1 @@
-var mnemonic = "topic ivory ocean fashion will point earth bleak maze fury sight they";
+var mnemonic = "circle kite senior filter hedgehog dwarf obscure knock love slender sport truth";

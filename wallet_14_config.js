@@ -1,1 +1,1 @@
-var mnemonic = "antique charge sick two inch calm color artefact knock tank actual error";
+var mnemonic = "trip lock stable wasp frozen below mansion industry acid wet soda flock";

@@ -1,1 +1,1 @@
-var mnemonic = "include eternal obvious pole follow laugh trick pair ski battle anger wrestle";
+var mnemonic = "group sun biology polar flash exercise blast junior wing slim palace million";

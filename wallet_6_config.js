@@ -1,1 +1,1 @@
-var mnemonic = "capital fluid space cannon puzzle wage vessel flip bicycle piece puzzle require";
+var mnemonic = "rib anchor marine forum muffin fantasy absurd similar repeat ketchup noble all";

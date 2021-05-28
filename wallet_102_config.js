@@ -1,1 +1,1 @@
-var mnemonic = "rebuild north thrive task hedgehog ensure wave grow kiss front hawk protect";
+var mnemonic = "response judge nest reduce write media gather casual ugly grocery lens powder";

@@ -1,1 +1,1 @@
-var mnemonic = "arch envelope proof cave inner viable food program marble orphan bacon wasp";
+var mnemonic = "talk wrestle magnet initial present census garlic bulk cage office entire dust";

@@ -1,1 +1,1 @@
-var mnemonic = "soap clean cement envelope exile coach sad salmon age turn core ramp";
+var mnemonic = "nerve attack cruel copper alley scale forward worry merit leisure small describe";

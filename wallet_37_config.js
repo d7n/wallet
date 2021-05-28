@@ -1,1 +1,1 @@
-var mnemonic = "ghost destroy grunt west city fancy garment trim ready crucial fire festival";
+var mnemonic = "civil brisk exclude step badge phrase wood then since wear apart rain";

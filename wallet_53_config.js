@@ -1,1 +1,1 @@
-var mnemonic = "bulk gospel price celery assist rubber surround enlist icon impose peace mother";
+var mnemonic = "lunch frog bright struggle solve depart fire prepare symbol muffin differ chaos";
