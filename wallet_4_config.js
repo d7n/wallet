@@ -1,1 +1,1 @@
-var mnemonic = "sphere minute alpha hotel bone gauge grain crazy project inspire hint pilot";
+var mnemonic = "rose verify stumble system torch doll direct frown source amused canyon sibling";

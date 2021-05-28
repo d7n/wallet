@@ -1,1 +1,1 @@
-var mnemonic = "spirit clap obey this good biology clinic lounge want bright play horse";
+var mnemonic = "enrich receive census mimic increase sign hundred assist myth boy venue picnic";

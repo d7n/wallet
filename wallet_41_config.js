@@ -1,1 +1,1 @@
-var mnemonic = "weekend bike inject advice night surge permit job enter peasant fringe cable";
+var mnemonic = "twenty humor attract label silent decade critic expect nominee long wasp crop";

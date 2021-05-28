@@ -1,1 +1,1 @@
-var mnemonic = "fall satoshi truth cry club civil antenna soccer tag lottery coil aware";
+var mnemonic = "return love arrest cargo series silent six element work kind gauge mad";

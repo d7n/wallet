@@ -1,1 +1,1 @@
-var mnemonic = "tackle fee fame seat gorilla table rude digital note virus noodle age";
+var mnemonic = "tomorrow pact wisdom success amused aerobic gaze unlock wrong nose lion frequent";

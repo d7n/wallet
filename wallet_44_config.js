@@ -1,1 +1,1 @@
-var mnemonic = "raven pretty assume cancel puppy hammer rough nuclear helmet rely jaguar notice";
+var mnemonic = "inspire drum ladder hazard struggle deputy carbon manual curtain person talent coffee";

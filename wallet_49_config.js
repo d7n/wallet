@@ -1,1 +1,1 @@
-var mnemonic = "small critic dilemma print apology short castle myself genuine absurd slam badge";
+var mnemonic = "tuna butter armor tuna fashion rally festival consider lonely predict inspire conduct";

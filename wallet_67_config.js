@@ -1,1 +1,1 @@
-var mnemonic = "search pond blouse light cycle scatter cradle refuse muffin tobacco pool blanket";
+var mnemonic = "worth tomorrow father mean chuckle arrest pigeon know decade wolf town piece";

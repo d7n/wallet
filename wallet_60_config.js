@@ -1,1 +1,1 @@
-var mnemonic = "wink alpha famous twist ritual advance flight action split cradle topple pattern";
+var mnemonic = "seat trigger aerobic end bitter program hurdle tower refuse win any beyond";

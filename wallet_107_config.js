@@ -1,1 +1,1 @@
-var mnemonic = "human office review obey six catch vacant over trouble steel turtle limit";
+var mnemonic = "mean evoke better ivory ride under baby east disagree denial coral own";

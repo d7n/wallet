@@ -1,1 +1,1 @@
-var mnemonic = "keep doll property bargain gauge robust sauce warrior delay cruise business crack";
+var mnemonic = "during deliver ski elite brave among swim dice margin inherit under naive";

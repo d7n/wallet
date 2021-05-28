@@ -1,1 +1,1 @@
-var mnemonic = "height brush aspect cup march frame assume resist search october champion brown";
+var mnemonic = "fetch enforce blood caught dog evolve just swap frequent never skill brain";

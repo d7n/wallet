@@ -1,1 +1,1 @@
-var mnemonic = "ignore enrich convince yellow embark exhibit lemon impulse legal shift doctor hobby";
+var mnemonic = "canal employ amazing coin crisp peasant delay wing easy hub chuckle knock";

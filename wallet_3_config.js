@@ -1,1 +1,1 @@
-var mnemonic = "acid jelly transfer tiny help arctic drill ocean acid height help despair";
+var mnemonic = "solar fashion velvet appear amateur blade cricket test session arrest lemon region";

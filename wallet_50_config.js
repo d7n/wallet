@@ -1,1 +1,1 @@
-var mnemonic = "naive teach drink crystal idea chuckle gloom office tooth umbrella renew boil";
+var mnemonic = "grunt loan peanut lyrics quality unfair adapt bird spot cruel vast name";

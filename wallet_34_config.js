@@ -1,1 +1,1 @@
-var mnemonic = "icon orchard shiver coil upset artefact hill ecology series gas gorilla shed";
+var mnemonic = "foster seek wave trouble retreat crane now remain year small talk between";

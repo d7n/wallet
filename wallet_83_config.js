@@ -1,1 +1,1 @@
-var mnemonic = "trade roof base run inch robot nurse lend where age next quantum";
+var mnemonic = "worry absurd major shift all rural lawn quantum also horn swap wonder";

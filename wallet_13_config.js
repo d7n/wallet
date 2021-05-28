@@ -1,1 +1,1 @@
-var mnemonic = "awake fury patrol imitate stuff traffic rib habit rather chaos sister misery";
+var mnemonic = "orchard garlic dynamic cup denial choice west boss never duck mutual wagon";

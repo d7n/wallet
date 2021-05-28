@@ -1,1 +1,1 @@
-var mnemonic = "first fault jar combine gold art post pink pride stay identify toss";
+var mnemonic = "sting marine series page profit remind fatigue sauce logic mutual shield supply";

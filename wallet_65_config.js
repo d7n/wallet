@@ -1,1 +1,1 @@
-var mnemonic = "solution feed impulse bright assist treat teach venture real party deputy river";
+var mnemonic = "organ health kite kid unknown shift talk barrel exchange drive act enough";

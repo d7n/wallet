@@ -1,1 +1,1 @@
-var mnemonic = "already humble icon bitter arrange joy express picture domain beef wire beyond";
+var mnemonic = "scheme comfort keep drastic rebuild price scan crazy ugly soul hotel decline";

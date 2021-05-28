@@ -1,1 +1,1 @@
-var mnemonic = "voyage buyer empty hurry wolf rescue where tongue similar monkey leopard face";
+var mnemonic = "replace suspect view gown ridge kite sleep answer pitch clump adjust normal";

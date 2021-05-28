@@ -1,1 +1,1 @@
-var mnemonic = "glance morning have opera face man either weapon gaze usage miss warm";
+var mnemonic = "vapor settle deliver release weekend fantasy wool fuel fire enforce minimum supply";

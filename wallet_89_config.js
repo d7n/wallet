@@ -1,1 +1,1 @@
-var mnemonic = "slot barrel crumble glare jazz frown home rapid across pitch deputy exclude";
+var mnemonic = "senior limit funny fog veteran olive open nation indicate rebuild mobile twelve";

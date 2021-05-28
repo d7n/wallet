@@ -1,1 +1,1 @@
-var mnemonic = "shop exhibit rookie attack fit danger reopen phone mercy soap hurry yard";
+var mnemonic = "rural random dose best fashion direct junior priority tooth wet drop congress";

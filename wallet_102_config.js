@@ -1,1 +1,1 @@
-var mnemonic = "fine primary reopen suggest section elder kingdom remain become sort rapid still";
+var mnemonic = "hub robot suffer rapid calm exit oval purpose current razor clerk reason";

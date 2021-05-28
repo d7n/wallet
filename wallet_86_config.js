@@ -1,1 +1,1 @@
-var mnemonic = "position crucial rib bar tower tiger window unit copy spike february chimney";
+var mnemonic = "toast picnic stadium erosion winner mosquito chronic athlete deny feel sister exist";

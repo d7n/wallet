@@ -1,1 +1,1 @@
-var mnemonic = "prepare sort steel marble shell glide tunnel wink idle rifle example carry";
+var mnemonic = "crush into breeze friend option open grass used fitness flight police baby";

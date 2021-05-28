@@ -1,1 +1,1 @@
-var mnemonic = "ketchup shoe scare display extra laundry exchange undo senior length noble cradle";
+var mnemonic = "stone six kick repair attitude life blood erase bright bronze abuse decorate";

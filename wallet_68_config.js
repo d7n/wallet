@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin tip tube harsh again skirt depart stove charge adult worry tomorrow";
+var mnemonic = "angle train town knee orphan desk length injury remind put silent bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss noble caught nose cupboard penalty crack zone admit gown pear stamp";
+var mnemonic = "wear eternal when crush panel replace echo second father panther scan hover";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil coconut apple bullet morning knock movie novel melt love human surprise";
+var mnemonic = "cigar dad damp private grant online power leaf chair garden gospel meat";

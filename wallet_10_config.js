@@ -1,1 +1,1 @@
-var mnemonic = "shrug service drum ranch size solve chimney series critic enact stumble photo";
+var mnemonic = "fix remain orange miss adjust robust layer virus spread runway daughter slender";

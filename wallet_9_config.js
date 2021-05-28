@@ -1,1 +1,1 @@
-var mnemonic = "matter announce hungry debris evolve thunder matter frown copper tool fancy luggage";
+var mnemonic = "raven current betray rally kangaroo crew grab man loyal cup crane tragic";

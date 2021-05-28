@@ -1,1 +1,1 @@
-var mnemonic = "lunch insect energy defy camp logic raise enough return say prosper mixed";
+var mnemonic = "grab slow volcano kitchen prevent penalty capable member subway anxiety blanket cricket";

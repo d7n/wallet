@@ -1,1 +1,1 @@
-var mnemonic = "program like home hawk father coral defense spy merit chunk indoor hazard";
+var mnemonic = "private sure normal ribbon pottery mixture hair tree object fancy trim buzz";

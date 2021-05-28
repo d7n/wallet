@@ -1,1 +1,1 @@
-var mnemonic = "retire cable tornado alter account prevent helmet start rubber axis black convince";
+var mnemonic = "message vanish judge letter scheme mind orient dash habit initial struggle wedding";

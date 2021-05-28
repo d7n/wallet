@@ -1,1 +1,1 @@
-var mnemonic = "ridge proof bicycle animal fine detect spell real badge pluck deposit cheese";
+var mnemonic = "element index deal scene warrior virus better umbrella better tooth same step";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil pistol sorry nuclear mandate burger tuition pudding elevator priority cause coin";
+var mnemonic = "party sting budget stuff bird stadium year inmate echo labor zero kingdom";

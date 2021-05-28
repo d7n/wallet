@@ -1,1 +1,1 @@
-var mnemonic = "cake chapter chicken jealous bunker session normal wisdom innocent infant valve used";
+var mnemonic = "during unfair insane bar near solid topic rebel oven border light own";

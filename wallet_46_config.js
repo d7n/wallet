@@ -1,1 +1,1 @@
-var mnemonic = "change surge swift swamp dry first depart husband glove search sign anchor";
+var mnemonic = "solution develop stay fame fuel resource force chaos dice require pulse recycle";

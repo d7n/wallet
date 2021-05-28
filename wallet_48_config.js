@@ -1,1 +1,1 @@
-var mnemonic = "icon mansion track virus ugly soap half exotic child naive route goat";
+var mnemonic = "scare shove yard pen roast sand female motion above mimic canvas route";

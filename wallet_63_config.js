@@ -1,1 +1,1 @@
-var mnemonic = "maximum idea slush squeeze february pioneer antique afford month infant glove already";
+var mnemonic = "miracle blanket cheese ring salon lens change holiday forget empty rebel search";

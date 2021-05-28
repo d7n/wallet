@@ -1,1 +1,1 @@
-var mnemonic = "leaf forward leisure warm drink vibrant myth pyramid evolve strong city fuel";
+var mnemonic = "shock author hold shoulder method public badge reveal myself region load disease";

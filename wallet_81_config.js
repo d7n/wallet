@@ -1,1 +1,1 @@
-var mnemonic = "jaguar chaos inflict piano table key pond apology quarter fly desert tonight";
+var mnemonic = "group bird pudding gentle sample future crisp setup client glow dismiss abstract";

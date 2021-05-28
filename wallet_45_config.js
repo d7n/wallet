@@ -1,1 +1,1 @@
-var mnemonic = "apple orchard provide young enforce afford opinion wine arch private this rapid";
+var mnemonic = "custom city pass review melt desert bomb seminar parrot manual anger fragile";

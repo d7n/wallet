@@ -1,1 +1,1 @@
-var mnemonic = "adapt bench collect frequent chest evil picture unhappy chase trip pull torch";
+var mnemonic = "crush reform forest ramp piece rack boy gun ozone yellow tunnel when";

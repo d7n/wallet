@@ -1,1 +1,1 @@
-var mnemonic = "embrace come rate tribe pass skill cave together shove bright snow any";
+var mnemonic = "repair drink glove woman harvest near dove art drill bus stick wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "mule fame borrow perfect excite amazing symbol amateur clinic discover mutual able";
+var mnemonic = "win glide second you roast green divert six planet quantum concert depart";

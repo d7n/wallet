@@ -1,1 +1,1 @@
-var mnemonic = "ocean gauge cat zoo pill marine afraid demise comic cactus call inquiry";
+var mnemonic = "bulb fan royal pair ten glory biology pattern buyer phone young visit";

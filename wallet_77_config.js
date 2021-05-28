@@ -1,1 +1,1 @@
-var mnemonic = "scorpion flight possible velvet autumn now cute annual spawn dove term egg";
+var mnemonic = "dolphin system acoustic guide sketch lens zone recipe parade mammal reject few";

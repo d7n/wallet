@@ -1,1 +1,1 @@
-var mnemonic = "month pet twist term exact rookie wagon near sense roof aisle tone";
+var mnemonic = "second anchor hair what useless reunion envelope episode park promote satoshi crack";

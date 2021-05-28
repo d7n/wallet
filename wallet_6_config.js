@@ -1,1 +1,1 @@
-var mnemonic = "smooth design assume diamond avocado famous bean lion paddle sad clean toy";
+var mnemonic = "cupboard forest apology fault plug expand chest document also win kiwi middle";

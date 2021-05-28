@@ -1,1 +1,1 @@
-var mnemonic = "noise combine cement object gospel able moon card rabbit dinosaur genius gauge";
+var mnemonic = "finish learn only decorate much mesh affair universe issue lunch cause farm";

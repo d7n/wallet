@@ -1,1 +1,1 @@
-var mnemonic = "allow tilt crawl biology evidence buzz swear card slogan entire balance antenna";
+var mnemonic = "valve trigger rebuild volume ensure taxi urge unhappy athlete fresh online velvet";

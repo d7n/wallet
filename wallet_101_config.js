@@ -1,1 +1,1 @@
-var mnemonic = "pulse vanish embody please always trade tired manage forget adult garbage lake";
+var mnemonic = "afford emerge stuff century glory misery fatal guide doll worth cactus someone";

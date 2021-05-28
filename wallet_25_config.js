@@ -1,1 +1,1 @@
-var mnemonic = "divide slam concert olive garlic luggage favorite glue wine hat reduce opinion";
+var mnemonic = "slim ecology poet shadow seat twist fame silly speed minimum outside iron";

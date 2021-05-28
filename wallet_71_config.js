@@ -1,1 +1,1 @@
-var mnemonic = "diagram load flag dinosaur client ethics author calm unhappy radio basic blouse";
+var mnemonic = "lens whale purchase frequent curve sort gasp cradle cream certain suffer razor";

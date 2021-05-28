@@ -1,1 +1,1 @@
-var mnemonic = "thunder armor reopen fork almost fault universe program point benefit measure cereal";
+var mnemonic = "silk betray emotion stumble hair merry boat beach work prepare doctor tribe";

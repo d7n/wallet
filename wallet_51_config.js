@@ -1,1 +1,1 @@
-var mnemonic = "group mistake tobacco hidden law hunt level jar pottery slogan dignity normal";
+var mnemonic = "mansion potato build snap field doll agree help jealous embark venture envelope";

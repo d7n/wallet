@@ -1,1 +1,1 @@
-var mnemonic = "captain physical metal client retire regret culture dentist rate ozone airport siren";
+var mnemonic = "ten arena garlic hope inspire evolve correct soap image season zero lecture";

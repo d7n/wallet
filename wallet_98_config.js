@@ -1,1 +1,1 @@
-var mnemonic = "industry fossil vast visa album chronic sail exile treat liberty success license";
+var mnemonic = "end dream aisle sand edge card pause hollow shallow tiny legal kangaroo";

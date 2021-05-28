@@ -1,1 +1,1 @@
-var mnemonic = "season front family ready off notice cluster dog damp slam ghost series";
+var mnemonic = "caught dust dumb drift situate culture alone over refuse brother tree crane";

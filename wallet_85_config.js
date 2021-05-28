@@ -1,1 +1,1 @@
-var mnemonic = "entire print flush clock accident bottom inherit mean neck lamp goddess fever";
+var mnemonic = "note version exit pupil drop clip race orient degree camp fade dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "police noble nose group cupboard air chicken foam invest wrong town gravity";
+var mnemonic = "puzzle truth insect mercy cat analyst yellow know immense wish inject maid";

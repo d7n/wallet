@@ -1,1 +1,1 @@
-var mnemonic = "wash ride advance fame hawk barely amateur human cable whisper smooth pelican";
+var mnemonic = "unveil airport cannon fun speed will hole arctic artist shine scatter ocean";

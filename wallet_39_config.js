@@ -1,1 +1,1 @@
-var mnemonic = "renew action radar valley smile mixture solve asset sponsor adapt knock legend";
+var mnemonic = "happy entire current glow jealous cause year aunt express muffin exile toddler";

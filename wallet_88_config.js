@@ -1,1 +1,1 @@
-var mnemonic = "lizard inject electric safe depth act piano faculty whale human marriage orphan";
+var mnemonic = "stool borrow tank advice total grow dance smoke jaguar unable napkin system";

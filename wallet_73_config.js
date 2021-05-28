@@ -1,1 +1,1 @@
-var mnemonic = "useless hub desert insect extra below school emotion punch apart pluck blanket";
+var mnemonic = "release tortoise rabbit bitter gas wear toast mean hawk trigger sample frown";

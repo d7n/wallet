@@ -1,1 +1,1 @@
-var mnemonic = "alone injury blast visual buffalo moment double claw ride cannon viable disease";
+var mnemonic = "exotic bid domain box remove edge fitness reflect december recycle opera faculty";

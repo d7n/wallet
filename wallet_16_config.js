@@ -1,1 +1,1 @@
-var mnemonic = "simple today gap narrow fruit anxiety auto shoot rhythm sauce hybrid force";
+var mnemonic = "keen afraid noble blade system brass inmate rhythm vacuum tail icon pill";

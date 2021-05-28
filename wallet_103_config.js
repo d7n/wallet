@@ -1,1 +1,1 @@
-var mnemonic = "federal hundred buffalo bridge lift moon attitude ostrich act job lottery wood";
+var mnemonic = "repair before faint absent elder fine wrist vital give hotel supreme hint";

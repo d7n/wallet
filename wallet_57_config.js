@@ -1,1 +1,1 @@
-var mnemonic = "resource prefer mail faint vessel swarm around lecture strike load try latin";
+var mnemonic = "main pave solve float trigger glass genre iron canyon crystal couple leopard";

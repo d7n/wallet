@@ -1,1 +1,1 @@
-var mnemonic = "include seek brief weapon wink young circle combine sure purse social claim";
+var mnemonic = "satoshi region vanish armor tip meadow mistake craft visit strike screen robust";

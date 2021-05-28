@@ -1,1 +1,1 @@
-var mnemonic = "squeeze source world cloud blast refuse famous gasp announce lemon size gasp";
+var mnemonic = "grab aunt menu melody cry skate electric broken jaguar pyramid meadow human";

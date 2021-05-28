@@ -1,1 +1,1 @@
-var mnemonic = "cloud camp century blind belt mouse curtain water draft armed motion universe";
+var mnemonic = "library recall south spoon organ certain diagram found hobby burden color furnace";

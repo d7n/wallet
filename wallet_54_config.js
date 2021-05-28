@@ -1,1 +1,1 @@
-var mnemonic = "inhale engine swarm public kid color exact box canyon horse about bottom";
+var mnemonic = "immense capital melody since myth repeat milk bird slender click debate carry";

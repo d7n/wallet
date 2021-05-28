@@ -1,1 +1,1 @@
-var mnemonic = "swing kiss never margin carpet food tooth toddler awesome style across transfer";
+var mnemonic = "elder staff edge another melody grape pluck solar history palace hope budget";

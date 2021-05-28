@@ -1,1 +1,1 @@
-var mnemonic = "vapor steel volume allow cargo false father elbow object couple antenna bean";
+var mnemonic = "reunion around accident cube radio battle when clump matrix slogan budget balcony";

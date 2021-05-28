@@ -1,1 +1,1 @@
-var mnemonic = "stadium sleep rude bus knife library stumble dad trust subject trigger play";
+var mnemonic = "coil cube surface crunch clump ivory accuse calm air february piano earth";

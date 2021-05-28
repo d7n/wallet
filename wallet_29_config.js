@@ -1,1 +1,1 @@
-var mnemonic = "few glow wise uniform frost text army focus plate enact lemon race";
+var mnemonic = "require mouse trial desk filter warrior fog collect curtain piano public twist";

@@ -1,1 +1,1 @@
-var mnemonic = "essay invest hat daring hidden tortoise guilt material crane oblige wage all";
+var mnemonic = "multiply loan jealous robot radar math about vacant security embark spy essence";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic pipe tail mouse fruit paddle consider dial slow train mask interest";
+var mnemonic = "display stumble away journey rare tree artefact absurd join orange chapter hamster";
