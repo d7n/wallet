@@ -1,1 +1,1 @@
-var mnemonic = "soccer scorpion shell bulb gloom cancel core maple august normal rack acid";
+var mnemonic = "notice harvest exotic silent social clock arrive acoustic rifle skill weasel cube";

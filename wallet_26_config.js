@@ -1,1 +1,1 @@
-var mnemonic = "latin axis kitten weekend neck armed swift lobster boss leader across ketchup";
+var mnemonic = "devote lobster can breeze salon primary lamp odor rare shoe ranch frequent";

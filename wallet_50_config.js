@@ -1,1 +1,1 @@
-var mnemonic = "axis type lobster taste swear divorce crawl drastic cloth extra sell rubber";
+var mnemonic = "race senior myth festival tongue never marine rebuild attend inquiry nice draft";

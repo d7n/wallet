@@ -1,1 +1,1 @@
-var mnemonic = "thrive dumb tape fluid faith box tuition initial wild swarm swallow jungle";
+var mnemonic = "daughter close machine assist hurdle rule example canoe exhaust save cement evil";

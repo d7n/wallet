@@ -1,1 +1,1 @@
-var mnemonic = "leaf moon breeze absent open flock index behave jaguar dismiss melt creek";
+var mnemonic = "front blue slush erupt ocean this salad latin feel off hurdle myself";

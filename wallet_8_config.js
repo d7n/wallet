@@ -1,1 +1,1 @@
-var mnemonic = "post element amateur pumpkin december region sister struggle rather right safe bunker";
+var mnemonic = "undo rescue title ceiling phrase grant word drive sail surface cinnamon leaf";

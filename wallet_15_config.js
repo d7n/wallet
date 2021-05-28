@@ -1,1 +1,1 @@
-var mnemonic = "sheriff chuckle wagon security cause entire perfect box worth report visa spring";
+var mnemonic = "light word venue fiction net among cheese kitchen matrix genre surround box";

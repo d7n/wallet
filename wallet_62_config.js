@@ -1,1 +1,1 @@
-var mnemonic = "nest ladder recipe mistake dash salon soon slight mean sunset crisp gown";
+var mnemonic = "toy iron stomach ticket slot random choose oblige paddle desk pause grab";

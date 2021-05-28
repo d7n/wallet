@@ -1,1 +1,1 @@
-var mnemonic = "magic lock neutral word finger vague often sister catch crazy thing harvest";
+var mnemonic = "bike rude lamp umbrella nation melt cactus rigid fortune into brief meat";

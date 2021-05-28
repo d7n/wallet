@@ -1,1 +1,1 @@
-var mnemonic = "pave zoo silk swarm insane hurry scan unusual between mouse soft this";
+var mnemonic = "census jump illegal tuna bind sister grape couch evidence course void scheme";

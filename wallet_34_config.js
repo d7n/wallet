@@ -1,1 +1,1 @@
-var mnemonic = "escape coffee old phone patrol oval water reform way vote slender pistol";
+var mnemonic = "buzz vapor impulse marble tattoo memory label catch crawl public execute attract";

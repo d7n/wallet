@@ -1,1 +1,1 @@
-var mnemonic = "online across toe slice raccoon panic gesture humble split excess close spin";
+var mnemonic = "basket author match food consider champion prepare link narrow addict engage system";

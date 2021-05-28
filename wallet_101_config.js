@@ -1,1 +1,1 @@
-var mnemonic = "hospital vital grief assault live planet property infant essay follow depth old";
+var mnemonic = "security net social ball surprise recall valve keen ginger voice trick stereo";

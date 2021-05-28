@@ -1,1 +1,1 @@
-var mnemonic = "rude emerge sadness swap close blade burger sea enable uncle toddler climb";
+var mnemonic = "light alcohol parent corn inhale access orphan lawsuit purity path elegant belt";

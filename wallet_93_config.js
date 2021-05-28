@@ -1,1 +1,1 @@
-var mnemonic = "bottom one venue farm hand dinosaur item phone trophy symbol term useless";
+var mnemonic = "woman hundred erase tube match sure novel actor appear whip uncle ocean";

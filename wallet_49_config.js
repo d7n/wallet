@@ -1,1 +1,1 @@
-var mnemonic = "creek twist stem exotic fatal trust all disagree rescue retire exclude aware";
+var mnemonic = "error pelican victory toy dilemma master insect inhale ladder rare harsh leopard";

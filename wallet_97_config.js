@@ -1,1 +1,1 @@
-var mnemonic = "cave word unique topic weather digital case dignity trash zero luxury neglect";
+var mnemonic = "raw chaos safe immense hard exclude useful caution kit describe river web";

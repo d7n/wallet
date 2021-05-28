@@ -1,1 +1,1 @@
-var mnemonic = "taste alley catalog illness dream hint light arch undo embody hint solar";
+var mnemonic = "topic mule skate million smile dial cricket welcome grow mixture misery mouse";

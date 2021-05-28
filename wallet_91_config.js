@@ -1,1 +1,1 @@
-var mnemonic = "beef actor uphold clarify act input beef blade once inherit armed surface";
+var mnemonic = "carbon inhale differ lab pair swallow page purpose all belt surface hold";

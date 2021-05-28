@@ -1,1 +1,1 @@
-var mnemonic = "obvious cause bird tone vintage naive among sadness veteran gather minute liberty";
+var mnemonic = "version spice sign man prefer shallow mutual blur purpose voice sadness leisure";

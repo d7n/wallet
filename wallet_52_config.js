@@ -1,1 +1,1 @@
-var mnemonic = "fresh engine okay aim wall wrap diary paper very visa cousin rescue";
+var mnemonic = "come sight pass chat another hurt suit moon ketchup hint reward truth";

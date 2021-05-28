@@ -1,1 +1,1 @@
-var mnemonic = "motion frost glimpse box wood carpet couch panel orchard word eight jewel";
+var mnemonic = "biology price talent soldier dutch session inquiry trade left swamp tide clap";

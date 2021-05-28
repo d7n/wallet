@@ -1,1 +1,1 @@
-var mnemonic = "foster gift buddy vehicle steak hover then garage dolphin salad invite adjust";
+var mnemonic = "picture wasp peace surface average beach immune copper below speed kiwi hawk";

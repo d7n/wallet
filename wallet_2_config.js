@@ -1,1 +1,1 @@
-var mnemonic = "link luxury spin fiscal myth trigger always cradle kangaroo combine boat canoe";
+var mnemonic = "oak wink six town rocket crucial dolphin twice pioneer material cluster main";

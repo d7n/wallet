@@ -1,1 +1,1 @@
-var mnemonic = "barrel riot rhythm subject exile private nephew jealous lemon puzzle ivory humor";
+var mnemonic = "spend purity advance soon anchor era either tank open uniform scrap debris";

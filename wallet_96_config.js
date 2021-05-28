@@ -1,1 +1,1 @@
-var mnemonic = "badge boil buffalo message clarify ill adult donate present forest rib flag";
+var mnemonic = "meat cattle multiply jump bundle blade lonely plate recipe stock north dose";

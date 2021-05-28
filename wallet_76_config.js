@@ -1,1 +1,1 @@
-var mnemonic = "brand slab pen model select dirt work chest spawn grant inspire army";
+var mnemonic = "reveal thrive warfare priority subway lazy salute artist issue slow into boost";

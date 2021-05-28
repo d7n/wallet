@@ -1,1 +1,1 @@
-var mnemonic = "hockey badge twist edit come wire film produce fat notable fashion because";
+var mnemonic = "brain melt spare panic cause pulse amazing shrimp ice engage pottery word";

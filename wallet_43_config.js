@@ -1,1 +1,1 @@
-var mnemonic = "cry infant green purchase old miracle journey image raw ability primary shock";
+var mnemonic = "north apart stairs beach property kiwi resist chair slim myth blue guitar";

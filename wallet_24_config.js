@@ -1,1 +1,1 @@
-var mnemonic = "leaf rib lumber best soft weekend letter neglect end ketchup term multiply";
+var mnemonic = "tribe runway cream crew symptom lyrics power reunion edge spike sing inch";

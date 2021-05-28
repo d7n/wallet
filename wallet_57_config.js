@@ -1,1 +1,1 @@
-var mnemonic = "cat crowd favorite gentle subway run penalty work witness slender century cruise";
+var mnemonic = "capital what grape donor feel illegal ticket magnet pole surge ancient rival";

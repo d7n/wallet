@@ -1,1 +1,1 @@
-var mnemonic = "double blossom wire habit start trash column story panel dumb focus ancient";
+var mnemonic = "ocean fame dismiss way poverty spread tiger divert empower mobile outdoor render";

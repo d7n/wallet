@@ -1,1 +1,1 @@
-var mnemonic = "orient violin track gesture cook double embody flight vibrant cargo huge fringe";
+var mnemonic = "sea afraid again you sibling smart sing horror before easily fiscal improve";

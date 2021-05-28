@@ -1,1 +1,1 @@
-var mnemonic = "milk opera section offer slight tobacco limit enact steel measure cruel uncle";
+var mnemonic = "citizen fresh dinosaur crawl endless end that inmate equal stand basket second";

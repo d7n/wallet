@@ -1,1 +1,1 @@
-var mnemonic = "upper wood laundry pistol demise crumble relax panda smile learn luggage coffee";
+var mnemonic = "scorpion bench drastic scare drama rack ten grace acoustic cream domain quiz";

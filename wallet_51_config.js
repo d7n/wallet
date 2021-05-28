@@ -1,1 +1,1 @@
-var mnemonic = "bird bike leader maid right host maze fever coin delay leave metal";
+var mnemonic = "river novel shrimp demise first fetch village any cabbage ribbon check page";

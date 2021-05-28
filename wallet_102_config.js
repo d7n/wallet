@@ -1,1 +1,1 @@
-var mnemonic = "category capital board neither left object dash glance slim innocent town divert";
+var mnemonic = "follow result relax hurdle come bounce session ring thunder hidden vehicle can";

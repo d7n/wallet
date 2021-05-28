@@ -1,1 +1,1 @@
-var mnemonic = "sheriff pole betray anxiety sweet december silver unhappy annual airport that brass";
+var mnemonic = "nest call mask security oval minor save keen ski spread output slender";

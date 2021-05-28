@@ -1,1 +1,1 @@
-var mnemonic = "switch device lens ozone staff shell purse awesome bulb cement chicken lonely";
+var mnemonic = "ready flock uncle squeeze library fragile meadow planet reopen possible section pool";

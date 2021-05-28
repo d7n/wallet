@@ -1,1 +1,1 @@
-var mnemonic = "eagle fee border define hole true whisper side apology mind orbit welcome";
+var mnemonic = "marine element obtain attitude yard heart cream early outdoor mean garlic luxury";

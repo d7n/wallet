@@ -1,1 +1,1 @@
-var mnemonic = "wish guitar scorpion slab finger chef plunge problem embark indicate catalog divert";
+var mnemonic = "chat firm include expose profit lady few amount team ship alpha much";

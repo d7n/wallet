@@ -1,1 +1,1 @@
-var mnemonic = "mouse recipe uncover weasel fan move tribe autumn aim hamster fee derive";
+var mnemonic = "swing just cycle like just tone human hip piano gift amount okay";

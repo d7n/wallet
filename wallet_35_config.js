@@ -1,1 +1,1 @@
-var mnemonic = "trigger clinic sort lion floor monster frequent disagree area aisle iron fork";
+var mnemonic = "sing silver crisp pretty file kitchen reward wall peace kiwi crowd dish";

@@ -1,1 +1,1 @@
-var mnemonic = "song royal verify buffalo what visit text clerk forum smoke spider build";
+var mnemonic = "list crumble hotel provide impulse tree slush mad liquid ramp rotate tonight";

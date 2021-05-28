@@ -1,1 +1,1 @@
-var mnemonic = "wrestle penalty shoulder awesome useless decrease fetch emotion crawl blood obey copper";
+var mnemonic = "ceiling cube torch toward casino genius exit license milk shell dice nuclear";

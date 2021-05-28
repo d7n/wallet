@@ -1,1 +1,1 @@
-var mnemonic = "raise donor lift network strategy cry update slow paddle news enable guide";
+var mnemonic = "slight hub moral prison poem surge alter reduce gauge notable favorite gentle";

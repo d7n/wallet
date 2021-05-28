@@ -1,1 +1,1 @@
-var mnemonic = "drop judge decorate peace install royal mom car wink slot mistake blouse";
+var mnemonic = "mandate number maze work glow cement course sad illegal spin elite area";

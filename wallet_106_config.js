@@ -1,1 +1,1 @@
-var mnemonic = "earth boring despair turkey spin century wink pond seat hurry elephant bike";
+var mnemonic = "ritual weapon someone hidden control vehicle pumpkin fringe suit gun illness cable";

@@ -1,1 +1,1 @@
-var mnemonic = "response index nation host angle blossom apple trip blossom when mom garden";
+var mnemonic = "party ankle boy focus tell salt dry engine funny captain fluid source";

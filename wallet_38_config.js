@@ -1,1 +1,1 @@
-var mnemonic = "surface moment speed that destroy random swamp echo engine crowd asthma fashion";
+var mnemonic = "blush wagon orphan embrace tree rely execute bomb spring wasp stereo rule";

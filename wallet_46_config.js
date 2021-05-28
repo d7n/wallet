@@ -1,1 +1,1 @@
-var mnemonic = "depth spy roast harsh cash split vault bridge mad cattle margin dove";
+var mnemonic = "fatal lake walnut true fan era category ride joy soft primary digital";

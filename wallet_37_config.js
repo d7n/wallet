@@ -1,1 +1,1 @@
-var mnemonic = "myth runway craft ten basic liquid then nature man clump mystery illegal";
+var mnemonic = "damage duty green broken calm brief divorce gentle buddy physical juice legend";

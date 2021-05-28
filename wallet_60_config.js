@@ -1,1 +1,1 @@
-var mnemonic = "tackle whale reason steel bridge rapid gauge uniform place light august polar";
+var mnemonic = "senior orphan dawn blast ketchup unknown divert plastic face sustain protect sand";

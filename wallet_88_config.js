@@ -1,1 +1,1 @@
-var mnemonic = "hammer cream festival return basic rubber crew choice boost round invite feature";
+var mnemonic = "imitate hawk clap expose chapter post shaft message amused mansion affair gauge";

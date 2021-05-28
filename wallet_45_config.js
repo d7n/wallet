@@ -1,1 +1,1 @@
-var mnemonic = "early suggest gospel pelican near omit barrel fault degree amused amateur slide";
+var mnemonic = "bag mushroom fan memory calm radio window you grief inherit open spread";

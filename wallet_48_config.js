@@ -1,1 +1,1 @@
-var mnemonic = "swamp pride comic business market flee lunar basic among leaf cousin wage";
+var mnemonic = "tunnel social latin choose robot across usual sorry apple bundle alarm pony";

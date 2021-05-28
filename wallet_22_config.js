@@ -1,1 +1,1 @@
-var mnemonic = "verify sister biology mouse physical sea odor rule drip rotate churn unfair";
+var mnemonic = "loop pyramid notice seminar worry embody asthma member student now cargo piece";

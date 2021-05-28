@@ -1,1 +1,1 @@
-var mnemonic = "case lake jump three harvest mixed diary arrest drip scale defy drum";
+var mnemonic = "govern sport clown boring design cotton erase scissors sight cruel town gallery";

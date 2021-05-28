@@ -1,1 +1,1 @@
-var mnemonic = "forest exercise mimic link list tomato profit era inject hand pretty work";
+var mnemonic = "inherit print spend army rack appear trouble make cheap client luxury cycle";

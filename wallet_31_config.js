@@ -1,1 +1,1 @@
-var mnemonic = "thank purpose found wall palm stool twin act youth panel debris sail";
+var mnemonic = "kangaroo grant lazy actual dice laptop dignity lawsuit resist amused transfer empty";

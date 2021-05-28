@@ -1,1 +1,1 @@
-var mnemonic = "kiwi include brand offer dose tent barrel antique tip census end powder";
+var mnemonic = "repair reward boost glare face frozen recall flame milk ski warm only";

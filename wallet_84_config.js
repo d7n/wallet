@@ -1,1 +1,1 @@
-var mnemonic = "lyrics gas hen excite finish canal crunch load prison orphan require illegal";
+var mnemonic = "century display wing join penalty nephew gas sample army fork battle steak";

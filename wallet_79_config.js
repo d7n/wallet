@@ -1,1 +1,1 @@
-var mnemonic = "morning rent legend surge destroy clarify chat leave mango imitate fluid sibling";
+var mnemonic = "recycle exhaust balance nice pride sand match enact reveal road winner cereal";

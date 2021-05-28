@@ -1,1 +1,1 @@
-var mnemonic = "risk town error poverty warrior helmet must loop story open result usual";
+var mnemonic = "fork hole orchard prosper imitate answer shy sniff claim great credit traffic";

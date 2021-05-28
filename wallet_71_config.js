@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit adapt obey breeze almost butter intact fitness glad patient course light";
+var mnemonic = "churn stomach predict ready frog apple diet bitter season spin industry fame";

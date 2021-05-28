@@ -1,1 +1,1 @@
-var mnemonic = "pear chef episode oil approve bitter title spin trial chaos mail ramp";
+var mnemonic = "chapter bring drastic struggle robot version direct sauce course ketchup easy inhale";

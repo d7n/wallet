@@ -1,1 +1,1 @@
-var mnemonic = "royal steel silver expect inherit march gather purity token net fever noise";
+var mnemonic = "fog embody trash come fruit buzz slam pink almost asset vast wheel";

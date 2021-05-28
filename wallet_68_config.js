@@ -1,1 +1,1 @@
-var mnemonic = "will rookie slim denial reflect glass warrior real meat rate absent fame";
+var mnemonic = "physical scrub main inherit skirt slab hollow goddess onion couple flock tone";

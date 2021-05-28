@@ -1,1 +1,1 @@
-var mnemonic = "nice direct ice saddle dice include deal snack virus over lamp route";
+var mnemonic = "elite orient expand alpha vault fatigue hard sad pilot whip magnet room";

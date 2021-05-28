@@ -1,1 +1,1 @@
-var mnemonic = "park drive gas hospital tennis mobile replace spot dawn stand siege guard";
+var mnemonic = "word song alert birth second erase double arena music science throw echo";

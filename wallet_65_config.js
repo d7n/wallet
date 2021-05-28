@@ -1,1 +1,1 @@
-var mnemonic = "release sheriff second hole doll else ring scare crisp gasp caution twin";
+var mnemonic = "page affair ski powder choice celery aunt physical enlist present drum nation";

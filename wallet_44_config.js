@@ -1,1 +1,1 @@
-var mnemonic = "grab fire always family fiction hold fuel stereo legend amused vehicle sugar";
+var mnemonic = "orphan term metal twist lesson pepper peanut vessel adult discover people off";

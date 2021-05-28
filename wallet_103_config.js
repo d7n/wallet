@@ -1,1 +1,1 @@
-var mnemonic = "sauce lecture refuse gown farm soon multiply nominee want dentist junior choice";
+var mnemonic = "member couple zero private bacon upper ring wire salt season embody wreck";

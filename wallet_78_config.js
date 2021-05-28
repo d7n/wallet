@@ -1,1 +1,1 @@
-var mnemonic = "voyage annual machine luggage catch oxygen birth program meadow consider wheel scrap";
+var mnemonic = "usage arrive pull burden surprise bronze winner found defy loan fence leopard";

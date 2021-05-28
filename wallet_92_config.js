@@ -1,1 +1,1 @@
-var mnemonic = "file offer describe tunnel dizzy eight rocket road control combine turkey example";
+var mnemonic = "actor stereo athlete cycle axis mercy liquid bridge glad local hedgehog mother";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract figure pilot seminar thunder coin discover rude spirit fetch fury august";
+var mnemonic = "shock february club make together enough oppose island crucial boost tide oven";

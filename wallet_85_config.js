@@ -1,1 +1,1 @@
-var mnemonic = "disease actor mixed marriage dog inspire provide eye wage olympic best wrong";
+var mnemonic = "valid tape annual salmon spoon cousin ecology tooth spoon matter push leg";

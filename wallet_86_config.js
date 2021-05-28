@@ -1,1 +1,1 @@
-var mnemonic = "include snack hour guess deer nasty fan coil luggage post skirt muffin";
+var mnemonic = "open tomato please zebra impose hard gospel exotic uncle write shell federal";

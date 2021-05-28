@@ -1,1 +1,1 @@
-var mnemonic = "lecture verb away captain enjoy evolve milk meat caution front deny hotel";
+var mnemonic = "label solid anchor expand keen exotic illegal major season coconut cabin song";

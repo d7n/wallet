@@ -1,1 +1,1 @@
-var mnemonic = "again genuine burst uphold north armor garment brick point maid hill light";
+var mnemonic = "element there similar labor face below deny special agent number pear minute";

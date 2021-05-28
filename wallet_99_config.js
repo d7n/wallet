@@ -1,1 +1,1 @@
-var mnemonic = "liquid wisdom pond flame gossip ordinary love rebuild ride grab crisp honey";
+var mnemonic = "dawn release upgrade discover slow believe debate ice carry corn frog disagree";

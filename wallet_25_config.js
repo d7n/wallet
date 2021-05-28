@@ -1,1 +1,1 @@
-var mnemonic = "until cheese supply snake boy obtain borrow supply express venue swear feel";
+var mnemonic = "dash amateur tennis garbage glove lab inside finish filter crunch route gift";

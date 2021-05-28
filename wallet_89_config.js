@@ -1,1 +1,1 @@
-var mnemonic = "praise inform arch airport essay sleep between shine priority wonder same boil";
+var mnemonic = "harsh diagram bag solar hand boil flock rose finish surround coyote interest";

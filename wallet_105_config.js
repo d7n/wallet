@@ -1,1 +1,1 @@
-var mnemonic = "december chicken erase member oil lyrics reduce only vivid hurry ripple crunch";
+var mnemonic = "tennis year believe wave live magic original boil cloud wage auto upset";

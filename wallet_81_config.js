@@ -1,1 +1,1 @@
-var mnemonic = "enter chapter panda kiss grace area knee ranch anchor crane duck mansion";
+var mnemonic = "arrest alley soon script verify galaxy update cigar target salute raven sweet";

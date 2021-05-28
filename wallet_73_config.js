@@ -1,1 +1,1 @@
-var mnemonic = "mass teach cake keen silly extend client wrap vague art enemy sail";
+var mnemonic = "universe normal risk middle change author edit announce select couch weird festival";

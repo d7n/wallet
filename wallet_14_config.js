@@ -1,1 +1,1 @@
-var mnemonic = "year short visit cherry slice jelly nurse onion merge vital mistake pair";
+var mnemonic = "expand meadow loop uncover churn plunge explain woman salon indoor panic crop";

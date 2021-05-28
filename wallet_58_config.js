@@ -1,1 +1,1 @@
-var mnemonic = "fragile boost winner grant right try essay rare rival enact rice heart";
+var mnemonic = "orient sound quote bubble seek awesome chimney voyage shy roof dynamic fortune";
