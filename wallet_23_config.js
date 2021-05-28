@@ -1,1 +1,1 @@
-var mnemonic = "speed drill push educate close phone auto cable mouse example human build";
+var mnemonic = "trumpet trial question cup easy interest mountain lazy syrup century state off";

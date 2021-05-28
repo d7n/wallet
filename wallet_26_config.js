@@ -1,1 +1,1 @@
-var mnemonic = "cabbage fault hard brush switch broom tuition curve accuse pepper sibling suggest";
+var mnemonic = "carry setup climb fee weather key drink trash congress lobster inhale jelly";

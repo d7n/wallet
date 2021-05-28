@@ -1,1 +1,1 @@
-var mnemonic = "snack kiss peanut feel gather imitate property crack solid fault sing country";
+var mnemonic = "first gas inhale try oppose level process gospel join latin host course";

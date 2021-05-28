@@ -1,1 +1,1 @@
-var mnemonic = "similar hood snow chair surround toast all human eight ankle october cupboard";
+var mnemonic = "tackle stereo liberty retreat illegal minor script middle gather female gold stairs";

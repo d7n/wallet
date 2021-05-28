@@ -1,1 +1,1 @@
-var mnemonic = "fruit early scene elevator woman rib forget trap baby father climb attract";
+var mnemonic = "add strong ritual infant category unit kangaroo north what trick broccoli patrol";

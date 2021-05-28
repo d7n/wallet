@@ -1,1 +1,1 @@
-var mnemonic = "rice link inner potato impose wash pencil angry piano bone mercy duck";
+var mnemonic = "purity cricket spike seven unit dry success nerve leave wink sight age";

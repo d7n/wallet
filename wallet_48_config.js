@@ -1,1 +1,1 @@
-var mnemonic = "flash foster razor segment plug acid coconut repair poem vendor buyer few";
+var mnemonic = "pudding occur empower maximum music track actor cram enrich sudden common learn";

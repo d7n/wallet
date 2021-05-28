@@ -1,1 +1,1 @@
-var mnemonic = "siren thank chapter ankle supply prevent nominee link cluster blur wagon december";
+var mnemonic = "barely bleak attract age million join humble worth silver carry tornado peasant";

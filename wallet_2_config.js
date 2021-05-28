@@ -1,1 +1,1 @@
-var mnemonic = "depend memory sample foam upon flat raven project relief retreat elbow rigid";
+var mnemonic = "owner leg admit general scare good topic excite hat embrace valid soup";

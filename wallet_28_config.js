@@ -1,1 +1,1 @@
-var mnemonic = "noodle clown ride number radar news peanut pioneer during zero humble ladder";
+var mnemonic = "know lab mesh hedgehog parade sweet duck basic gossip dust glow roof";

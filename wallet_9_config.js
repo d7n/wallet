@@ -1,1 +1,1 @@
-var mnemonic = "cart gasp accuse truth belt exhibit snack inmate code noodle quote siege";
+var mnemonic = "width antique dwarf feel area ripple amused spatial female dove december feature";

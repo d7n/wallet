@@ -1,1 +1,1 @@
-var mnemonic = "barely leisure lock corn receive legal photo input actress love afford off";
+var mnemonic = "blast myself cargo soap submit cousin obscure sadness wolf argue rigid kidney";

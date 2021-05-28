@@ -1,1 +1,1 @@
-var mnemonic = "thunder quantum height turn earth paper clown mouse oyster claim cinnamon mistake";
+var mnemonic = "demand mass amazing field occur school brave license radar movie kitten raccoon";

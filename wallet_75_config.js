@@ -1,1 +1,1 @@
-var mnemonic = "farm melody memory away pyramid ugly pond appear seed pig execute describe";
+var mnemonic = "expose cattle clay nominee female chunk material early pipe mixed chunk rural";

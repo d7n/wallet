@@ -1,1 +1,1 @@
-var mnemonic = "decrease since modify audit tuna trigger name eternal bacon kind chef poverty";
+var mnemonic = "vanish office stamp letter either water entry turkey unaware tape oval supreme";

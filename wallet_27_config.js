@@ -1,1 +1,1 @@
-var mnemonic = "goat wasp diagram rhythm exhaust doll winter snap local year banner effort";
+var mnemonic = "mule coral decorate enemy flip delay cube giggle good credit welcome usage";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear actor author mountain ostrich club modify birth door mass woman coconut";
+var mnemonic = "comic patch short universe ridge wonder where sport slender topple team advice";

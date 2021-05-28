@@ -1,1 +1,1 @@
-var mnemonic = "flag trick erase gown cactus exchange tobacco senior toss stem stick distance";
+var mnemonic = "idle quick weekend party also giraffe nation flat jeans rigid assist pelican";

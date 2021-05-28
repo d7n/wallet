@@ -1,1 +1,1 @@
-var mnemonic = "pilot true salmon bonus will anger output garlic shed spider music about";
+var mnemonic = "joke obtain frog illegal outdoor file filter sea random act armed gate";

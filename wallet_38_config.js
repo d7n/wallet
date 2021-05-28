@@ -1,1 +1,1 @@
-var mnemonic = "outer cheese again trash science shadow sentence member month liberty tiny funny";
+var mnemonic = "train piano episode arrest oven exhaust reject universe type ability swallow cube";

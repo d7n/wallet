@@ -1,1 +1,1 @@
-var mnemonic = "chuckle debate bachelor east item hazard huge minor anger wrestle sphere belt";
+var mnemonic = "comfort beyond math limit glow key poet annual hub clown sting choose";

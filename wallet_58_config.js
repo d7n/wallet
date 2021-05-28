@@ -1,1 +1,1 @@
-var mnemonic = "proof rib west version whale bachelor recall melody traffic hand tell cage";
+var mnemonic = "long maid heart tray amateur hover critic favorite pluck nurse idle oven";

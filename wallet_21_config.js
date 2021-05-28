@@ -1,1 +1,1 @@
-var mnemonic = "property still candy shield vault urge alter error infant width clay monitor";
+var mnemonic = "dirt sad bubble genre dad secret ugly inch list decide cheese below";

@@ -1,1 +1,1 @@
-var mnemonic = "drink flip ability time zone another under danger cream dune rebel potato";
+var mnemonic = "before crisp cheap kit predict finger discover raise lounge transfer tomorrow will";

@@ -1,1 +1,1 @@
-var mnemonic = "head business giraffe milk follow certain priority depend alarm soup fiber limit";
+var mnemonic = "fan fatigue brief half forget nice treat vacuum input hamster cousin hope";

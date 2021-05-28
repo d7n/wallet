@@ -1,1 +1,1 @@
-var mnemonic = "more vendor damage scissors oblige decorate snake exile bread verb nephew auction";
+var mnemonic = "mind hotel angry turtle boss prefer roast orange display discover game assume";

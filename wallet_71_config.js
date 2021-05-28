@@ -1,1 +1,1 @@
-var mnemonic = "depart ball toddler pass cheese rib arena avoid number box six little";
+var mnemonic = "armor sad equal jump arrange budget soap script orphan camp fever drift";

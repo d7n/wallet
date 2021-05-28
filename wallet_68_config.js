@@ -1,1 +1,1 @@
-var mnemonic = "inner coconut neck online symptom buyer denial debris lens route unveil ill";
+var mnemonic = "price sudden best father away thought open rate effort improve boost drop";

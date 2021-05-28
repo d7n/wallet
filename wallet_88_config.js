@@ -1,1 +1,1 @@
-var mnemonic = "awkward avoid frequent danger economy glory cupboard pig estate food view holiday";
+var mnemonic = "edge power diary car popular idea machine market panda borrow supply spoil";

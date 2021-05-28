@@ -1,1 +1,1 @@
-var mnemonic = "away defense bronze castle local month frozen project hire despair denial submit";
+var mnemonic = "denial dizzy animal cancel enable runway vibrant praise write next juice dose";

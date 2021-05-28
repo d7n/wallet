@@ -1,1 +1,1 @@
-var mnemonic = "peace net burden strike tent fog mean kick avoid north adjust space";
+var mnemonic = "man romance strong flush elevator true black age donor bicycle poverty grass";

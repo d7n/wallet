@@ -1,1 +1,1 @@
-var mnemonic = "arctic attitude congress extend rude wink science volcano zebra worth reject tape";
+var mnemonic = "crucial divorce cabbage wet refuse charge van strike brush write blanket ranch";

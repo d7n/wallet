@@ -1,1 +1,1 @@
-var mnemonic = "emerge grain envelope leaf biology lesson damage fox couch gas juice crucial";
+var mnemonic = "above require blossom piece wreck tragic bright echo exotic globe universe deny";

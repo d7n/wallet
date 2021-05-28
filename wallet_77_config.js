@@ -1,1 +1,1 @@
-var mnemonic = "lawn exile bomb shrimp post exclude chalk square nerve still that noise";
+var mnemonic = "arrange position cattle alter chicken harvest torch banana glass clog hidden hip";

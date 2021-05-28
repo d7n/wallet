@@ -1,1 +1,1 @@
-var mnemonic = "green city spell price copper cart aim cannon tilt chat forward rude";
+var mnemonic = "symbol yellow plunge together twin demand undo river squirrel tilt gesture cement";

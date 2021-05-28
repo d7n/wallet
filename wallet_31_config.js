@@ -1,1 +1,1 @@
-var mnemonic = "enhance slide oak noodle rapid swarm twin crush acid sibling divorce connect";
+var mnemonic = "blind what cube laugh diagram stand ranch box apology social little arch";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat hospital symbol ethics work blush stand multiply exclude stage virus machine";
+var mnemonic = "dirt august element hair visit rabbit bottom return crater spring hope weird";

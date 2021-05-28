@@ -1,1 +1,1 @@
-var mnemonic = "ethics erase walnut prevent various october cost predict lens drop various you";
+var mnemonic = "asthma injury relief scheme scan atom surge consider wish copper gaze camp";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy nerve element word such phrase title shy waste option height unfold";
+var mnemonic = "office school elephant draw behind famous fatal join trial swamp flash liquid";

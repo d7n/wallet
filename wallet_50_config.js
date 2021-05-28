@@ -1,1 +1,1 @@
-var mnemonic = "slot mistake narrow clever sheriff miracle abstract noodle rug cram accuse mean";
+var mnemonic = "betray one peanut similar emotion inch planet seed impose minor tonight observe";

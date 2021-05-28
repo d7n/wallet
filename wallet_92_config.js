@@ -1,1 +1,1 @@
-var mnemonic = "ocean release kite taxi decorate pig cricket decrease valve all runway sting";
+var mnemonic = "skin host march jeans loop dumb outside festival shine service truck jaguar";

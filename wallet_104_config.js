@@ -1,1 +1,1 @@
-var mnemonic = "convince sun diet dune table arrow lesson million dizzy sheriff cloud current";
+var mnemonic = "define assist model moment prefer huge make luxury yellow obvious ecology liquid";

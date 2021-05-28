@@ -1,1 +1,1 @@
-var mnemonic = "still engage remove over vital rally cloth glow orbit dress december salon";
+var mnemonic = "auction useful able load witness mystery focus shoulder east network pear relax";

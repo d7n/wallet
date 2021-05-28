@@ -1,1 +1,1 @@
-var mnemonic = "open print remove edge zoo talent maple pistol gadget still bless chimney";
+var mnemonic = "buyer submit tourist peasant tooth assault person basic weapon panel cherry donate";

@@ -1,1 +1,1 @@
-var mnemonic = "onion burger plastic zero news awkward tail lawsuit capable detail bless print";
+var mnemonic = "wrist snack hunt female trumpet soap surface ticket burst machine mosquito chapter";

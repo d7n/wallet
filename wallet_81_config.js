@@ -1,1 +1,1 @@
-var mnemonic = "swift thing trap cousin expand anger celery sure quit home ladder nominee";
+var mnemonic = "okay palm bonus honey invest plug game adapt heart clap sure clay";

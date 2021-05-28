@@ -1,1 +1,1 @@
-var mnemonic = "rival fancy tackle glad frozen hat width rose reduce smoke garbage board";
+var mnemonic = "either machine burst express achieve exotic senior program boss tobacco crater bulb";

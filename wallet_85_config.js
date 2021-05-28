@@ -1,1 +1,1 @@
-var mnemonic = "connect sell blush brother trust spider gesture vapor hunt merge mask century";
+var mnemonic = "rural purchase meadow option alpha empty loan bachelor gossip lend equal this";

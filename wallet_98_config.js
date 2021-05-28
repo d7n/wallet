@@ -1,1 +1,1 @@
-var mnemonic = "pupil panther head canvas year voice ecology torch royal flame strike rescue";
+var mnemonic = "brisk field void kick rude make false lounge upper tuna arena skill";

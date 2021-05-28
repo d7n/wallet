@@ -1,1 +1,1 @@
-var mnemonic = "suspect fashion evil version month develop march during visa arrange margin depth";
+var mnemonic = "arrange river peace party marriage once possible deny auto diagram reform decide";

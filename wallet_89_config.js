@@ -1,1 +1,1 @@
-var mnemonic = "glance skull toss march around noble there luggage plate sort short mask";
+var mnemonic = "current charge panther dream famous soft figure episode credit salt thank tray";

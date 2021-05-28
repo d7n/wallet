@@ -1,1 +1,1 @@
-var mnemonic = "tower hour clarify drift say recycle rice camp pig hunt transfer burden";
+var mnemonic = "broken busy security hole crime dignity cushion claw barrel toast awesome design";

@@ -1,1 +1,1 @@
-var mnemonic = "city void aware wire cycle long climb ocean simple because frame grab";
+var mnemonic = "oblige hand oblige universe dumb north express infant antenna metal miss story";

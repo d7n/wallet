@@ -1,1 +1,1 @@
-var mnemonic = "token pigeon material olympic tube cigar song hockey toy various milk current";
+var mnemonic = "mystery hello leaf gentle neutral proud wealth control recycle skull alarm student";

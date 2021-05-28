@@ -1,1 +1,1 @@
-var mnemonic = "fire arrive utility speed author year void evil stay pizza curtain pet";
+var mnemonic = "sadness evil execute drama brother pilot thought pill scatter kiss record lend";

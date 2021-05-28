@@ -1,1 +1,1 @@
-var mnemonic = "clay material crazy one man alien fence tumble pill explain various business";
+var mnemonic = "tent draw green fatal tell true fun receive soup mobile receive student";

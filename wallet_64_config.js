@@ -1,1 +1,1 @@
-var mnemonic = "discover squirrel nation margin main tip mind olive surface vibrant attend search";
+var mnemonic = "share term aspect special hill detect tomato all engine town sunny favorite";

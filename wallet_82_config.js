@@ -1,1 +1,1 @@
-var mnemonic = "extend nut cup cigar execute device offer ill twin usual make pool";
+var mnemonic = "couch gorilla badge hunt away barrel flee reward tortoise cattle sniff welcome";

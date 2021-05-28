@@ -1,1 +1,1 @@
-var mnemonic = "pave scare estate enemy suspect crumble tunnel vague follow bounce curtain apart";
+var mnemonic = "tattoo length blanket account expect category shop badge accuse attend shed gravity";

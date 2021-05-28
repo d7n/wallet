@@ -1,1 +1,1 @@
-var mnemonic = "head goddess already visit earth girl harvest adult hollow present frequent liquid";
+var mnemonic = "frame museum tongue zone situate utility one else theme topic zero virus";

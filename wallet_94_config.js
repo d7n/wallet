@@ -1,1 +1,1 @@
-var mnemonic = "shove afford bullet among short fish bronze shed cable gallery situate hen";
+var mnemonic = "thought normal dragon peace barrel video bid search already expect lucky rapid";

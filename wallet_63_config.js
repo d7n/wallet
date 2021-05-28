@@ -1,1 +1,1 @@
-var mnemonic = "obey unhappy gauge bronze come zone unhappy bridge menu aisle soup layer";
+var mnemonic = "sense antenna what try kidney input glare cup interest library bag spare";

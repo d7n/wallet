@@ -1,1 +1,1 @@
-var mnemonic = "awful jewel diesel casual ripple banner style trumpet setup early moment arm";
+var mnemonic = "camp solar region boss subway system reduce rotate field fork melt please";

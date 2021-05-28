@@ -1,1 +1,1 @@
-var mnemonic = "random since trash shove reason awkward guard staff major travel loud border";
+var mnemonic = "main tennis slice fee dose legend make vacuum blur muffin similar slab";

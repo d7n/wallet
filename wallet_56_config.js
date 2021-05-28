@@ -1,1 +1,1 @@
-var mnemonic = "cable shift pole awake noise uncover century immune avoid jewel female lock";
+var mnemonic = "middle ball bleak desk goose pipe general pear picture column often believe";

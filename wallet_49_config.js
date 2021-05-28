@@ -1,1 +1,1 @@
-var mnemonic = "error aerobic such sport until butter goat comfort cereal image safe lizard";
+var mnemonic = "pelican mirror already isolate success other either plate soon method example ability";

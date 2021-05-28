@@ -1,1 +1,1 @@
-var mnemonic = "throw mansion wasp benefit twelve ice gas conduct until joke pattern churn";
+var mnemonic = "gesture pottery major soft bacon rebel spy biology bag hand call include";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy giggle payment state sick extend inspire another when jelly tell tackle";
+var mnemonic = "lonely ceiling nephew such weekend shoe humor siren chunk scout injury jeans";

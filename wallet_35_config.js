@@ -1,1 +1,1 @@
-var mnemonic = "parent sense decorate salmon front tuition ski replace voice cable blouse orchard";
+var mnemonic = "nation december tree mixture pizza impose battle enforce exile upon melt burger";

@@ -1,1 +1,1 @@
-var mnemonic = "rally ugly sign syrup ride mixture festival weekend electric achieve either property";
+var mnemonic = "cricket can steak service limit essay hub movie desert potato leader perfect";

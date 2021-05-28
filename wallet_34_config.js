@@ -1,1 +1,1 @@
-var mnemonic = "harbor twist pill undo soft proof giggle hen camp window school city";
+var mnemonic = "warrior eight enable theme kind daughter expire journey enemy defense neck vacuum";

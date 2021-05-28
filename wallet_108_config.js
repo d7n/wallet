@@ -1,1 +1,1 @@
-var mnemonic = "online digital window assume hello mom antenna evoke lesson weasel always palace";
+var mnemonic = "zone trumpet lawsuit banana narrow segment wink filter enroll ivory rapid essence";

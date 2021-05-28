@@ -1,1 +1,1 @@
-var mnemonic = "sketch front scare team poem brush text hundred oppose toward exact yard";
+var mnemonic = "easy antenna husband moon photo wife nurse desert pig dragon give purpose";

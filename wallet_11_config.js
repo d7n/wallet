@@ -1,1 +1,1 @@
-var mnemonic = "minute shrug hold family unhappy diesel silly dose mansion include hero session";
+var mnemonic = "machine trade truth issue copy rural rookie order balcony wire valve announce";

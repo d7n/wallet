@@ -1,1 +1,1 @@
-var mnemonic = "nice awesome acoustic between lake miracle wagon neither frown around click attitude";
+var mnemonic = "hire mean sight cycle purse combine magnet begin inhale subway install common";

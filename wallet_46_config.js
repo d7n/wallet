@@ -1,1 +1,1 @@
-var mnemonic = "wrist feed guide blanket bomb comfort huge pulse movie mesh sun orange";
+var mnemonic = "dream glass agree file slam hobby voyage riot text nature bright economy";

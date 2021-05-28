@@ -1,1 +1,1 @@
-var mnemonic = "arctic cage cost random team shoulder frequent crouch garlic return cheap clutch";
+var mnemonic = "stock celery mushroom theory corn potato magic rice reason rival congress shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "badge involve honey spike honey visa journey brave owner dawn cool flight";
+var mnemonic = "rescue glance project salon latin dad milk moment region witness legend all";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella stand expose canoe dentist shoulder captain close wonder still panda enable";
+var mnemonic = "response range head next brain hospital special confirm globe journey lucky mouse";

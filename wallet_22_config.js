@@ -1,1 +1,1 @@
-var mnemonic = "coil reflect thought time exotic assume crucial ozone job salmon typical medal";
+var mnemonic = "clog innocent cotton submit inner share around print equip swamp defense cart";

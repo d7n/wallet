@@ -1,1 +1,1 @@
-var mnemonic = "promote boost dune chronic change decide club solve diesel tunnel cream almost";
+var mnemonic = "stone enrich foil poverty donkey use eight industry print solar child song";

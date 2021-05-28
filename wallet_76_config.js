@@ -1,1 +1,1 @@
-var mnemonic = "hip faculty mail syrup robust room wink diagram wide dragon half output";
+var mnemonic = "gather know surround brisk try imitate mind hammer visa require issue grocery";

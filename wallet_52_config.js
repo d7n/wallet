@@ -1,1 +1,1 @@
-var mnemonic = "foot few drama castle home deny genuine suspect jump panel thing leader";
+var mnemonic = "cute choice shift height language segment abandon wrestle ocean direct gun travel";

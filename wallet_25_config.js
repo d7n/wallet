@@ -1,1 +1,1 @@
-var mnemonic = "pole blanket jungle vote fold inherit lemon town escape shoot average someone";
+var mnemonic = "record brush duty route you illegal layer spread source state physical bring";

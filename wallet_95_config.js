@@ -1,1 +1,1 @@
-var mnemonic = "adjust hold agree bench myself reunion cloud divide else good weekend across";
+var mnemonic = "lecture indoor tissue giraffe learn glare across endorse impact assist rookie tower";

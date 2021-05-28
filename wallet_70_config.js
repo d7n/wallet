@@ -1,1 +1,1 @@
-var mnemonic = "play sort jar sure grow relax bone good jar two wood warrior";
+var mnemonic = "believe peanut cool exact garbage silk apple muscle vague broccoli add scout";

@@ -1,1 +1,1 @@
-var mnemonic = "soft soul rule fox garbage what cliff install between that actress pulse";
+var mnemonic = "solid luggage soup rack concert tank future venue drill pizza tent apple";
