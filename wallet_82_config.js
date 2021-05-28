@@ -1,1 +1,1 @@
-var mnemonic = "flash horror awkward butter ticket desk travel lawn key drastic toast skill";
+var mnemonic = "rice slim artefact roof hamster garbage park open sun unveil tail section";

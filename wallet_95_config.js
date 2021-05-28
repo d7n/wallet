@@ -1,1 +1,1 @@
-var mnemonic = "ice future predict hood drink caught rose gloom elephant skirt hurry tomorrow";
+var mnemonic = "sunset turkey blush nest window found shield family prosper stamp neutral nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "slight describe bargain acquire idle deputy outer dragon industry spy render nominee";
+var mnemonic = "diamond field cherry rebel elder piece grunt club tool supply siege upgrade";

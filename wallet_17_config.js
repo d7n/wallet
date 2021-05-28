@@ -1,1 +1,1 @@
-var mnemonic = "ball company about south heavy link copy tip visual doll vapor village";
+var mnemonic = "minimum person bottom purchase raven lonely moral endorse start middle critic banner";

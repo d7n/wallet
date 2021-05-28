@@ -1,1 +1,1 @@
-var mnemonic = "develop motor smooth eyebrow wait deputy useless early right warm want scrap";
+var mnemonic = "enlist waste calm forget later minimum stem useful clutch fringe lemon auction";

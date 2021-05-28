@@ -1,1 +1,1 @@
-var mnemonic = "test lady sadness refuse castle minimum village suffer kite upgrade together thought";
+var mnemonic = "motor dust glue debate loop blast snack giant essay orbit vanish green";

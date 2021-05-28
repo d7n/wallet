@@ -1,1 +1,1 @@
-var mnemonic = "speak office clap pelican curious text cabbage shift enter tackle scan feature";
+var mnemonic = "price disorder rigid luggage attack hawk waste slender genius orange around echo";

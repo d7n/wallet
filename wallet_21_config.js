@@ -1,1 +1,1 @@
-var mnemonic = "warm hand advance gauge clinic worry voice tag nose firm sell guilt";
+var mnemonic = "lend amazing wagon wear muffin bus cry lemon churn wish grass diesel";

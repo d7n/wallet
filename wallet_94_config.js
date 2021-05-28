@@ -1,1 +1,1 @@
-var mnemonic = "stock crisp another hybrid walnut note small raw empower scout original club";
+var mnemonic = "sting over boat word wife quality evoke matrix lion water tiger pyramid";

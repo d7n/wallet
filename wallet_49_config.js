@@ -1,1 +1,1 @@
-var mnemonic = "goose gym buffalo train borrow butter topic sight feel letter dirt route";
+var mnemonic = "tuition crisp olive ice easily worth boss amateur oblige enlist similar cable";

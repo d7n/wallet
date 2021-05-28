@@ -1,1 +1,1 @@
-var mnemonic = "remind wash feel violin page sweet beef involve device window behind angle";
+var mnemonic = "angle excite chunk often cupboard option survey cover vocal drink learn prosper";

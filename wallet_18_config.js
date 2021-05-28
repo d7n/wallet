@@ -1,1 +1,1 @@
-var mnemonic = "clutch stomach glare prepare garment dentist emotion ski gather outer behind engage";
+var mnemonic = "essay thumb license census hobby border phone marriage track topple country afford";

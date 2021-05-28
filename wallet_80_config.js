@@ -1,1 +1,1 @@
-var mnemonic = "shrimp height riot genius glass invite demand barely wink organ rate vintage";
+var mnemonic = "butter figure canoe joke title under ankle night april wing dash wheat";

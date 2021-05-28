@@ -1,1 +1,1 @@
-var mnemonic = "cupboard drink sheriff truly state dignity neither thank cinnamon arena lion ostrich";
+var mnemonic = "draw image jump gloom two crazy age library pupil nose maid tumble";

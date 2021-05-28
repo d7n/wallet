@@ -1,1 +1,1 @@
-var mnemonic = "relax tongue click lock junior circle actual april vintage heavy speed vital";
+var mnemonic = "pole sadness catch crunch reflect deputy gain draw peanut conduct float club";

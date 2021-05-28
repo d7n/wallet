@@ -1,1 +1,1 @@
-var mnemonic = "stable myth cricket mercy luxury track bargain slot rain proof carry pony";
+var mnemonic = "envelope bacon beach chest pet venue off balcony guard hair task sponsor";

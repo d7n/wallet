@@ -1,1 +1,1 @@
-var mnemonic = "kidney silly kit hybrid put payment remain danger slogan cluster blossom system";
+var mnemonic = "payment depend add nasty until bulk fall another mom ritual jungle swamp";

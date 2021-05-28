@@ -1,1 +1,1 @@
-var mnemonic = "vivid dog save agree act twelve slide shy destroy focus trick awkward";
+var mnemonic = "amused fun tenant tower crawl ghost say slight furnace shrimp scene mix";

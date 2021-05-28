@@ -1,1 +1,1 @@
-var mnemonic = "rude advice bronze other fatal west grunt bundle mushroom volcano south sand";
+var mnemonic = "grab valley stereo clean artefact card satisfy hand bike amazing enemy casual";

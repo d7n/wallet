@@ -1,1 +1,1 @@
-var mnemonic = "poem joke wine focus pumpkin effort admit invite market rally produce light";
+var mnemonic = "dice excuse jazz hammer provide leaf multiply steak blur grow avoid across";

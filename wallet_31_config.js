@@ -1,1 +1,1 @@
-var mnemonic = "increase wreck inherit evoke trouble wild demise half accident kidney install fiscal";
+var mnemonic = "shallow slender above answer page love limb stool feature fit derive divide";

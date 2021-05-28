@@ -1,1 +1,1 @@
-var mnemonic = "vast escape then sheriff ask always neglect finish marble umbrella enrich minute";
+var mnemonic = "jacket enforce dismiss excess warrior profit vital cotton trumpet casual perfect retire";

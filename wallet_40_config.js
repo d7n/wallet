@@ -1,1 +1,1 @@
-var mnemonic = "town hire genius execute digital seven rent mule way layer wing tenant";
+var mnemonic = "price mistake atom mammal shield tragic plunge bring soup possible regular apology";

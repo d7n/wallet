@@ -1,1 +1,1 @@
-var mnemonic = "discover attend senior picnic donkey like fringe chef panel awful ribbon gift";
+var mnemonic = "organ brain shrimp pause okay walnut volcano model congress truth faculty actual";

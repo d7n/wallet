@@ -1,1 +1,1 @@
-var mnemonic = "alarm nothing pole tooth home reopen receive essence open theory bone sock";
+var mnemonic = "night drastic noise skin giant fiction chief bread until measure shaft quantum";

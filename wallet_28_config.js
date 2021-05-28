@@ -1,1 +1,1 @@
-var mnemonic = "camera fitness icon summer mixture enough bread increase risk fancy summer hurdle";
+var mnemonic = "actress laundry fringe skirt opinion pizza ugly head rival gallery stage flavor";

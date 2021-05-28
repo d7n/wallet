@@ -1,1 +1,1 @@
-var mnemonic = "master nose hollow pink seminar laugh stick ordinary assume pupil cushion time";
+var mnemonic = "orbit girl lesson suit conduct soda pole bachelor pole achieve elephant wheel";

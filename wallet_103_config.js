@@ -1,1 +1,1 @@
-var mnemonic = "ripple wheat uphold security device recycle beyond autumn tomato genre episode robust";
+var mnemonic = "vote episode okay tank ticket panda spike network lyrics quit gadget false";

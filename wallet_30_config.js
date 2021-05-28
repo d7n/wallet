@@ -1,1 +1,1 @@
-var mnemonic = "salon enemy journey explain glide prepare ozone kiss style predict parade spray";
+var mnemonic = "size reason satisfy arm business apology spider frequent arrange plug merry decline";

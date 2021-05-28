@@ -1,1 +1,1 @@
-var mnemonic = "wide panic february audit setup lecture tiny raccoon maid vendor strategy name";
+var mnemonic = "lamp soul focus ocean mansion hold crew poet start employ sell reduce";

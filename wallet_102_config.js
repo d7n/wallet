@@ -1,1 +1,1 @@
-var mnemonic = "file play memory jazz iron festival vessel match scissors phone master flash";
+var mnemonic = "vapor annual napkin duck combine oppose fury warm aisle blue label head";

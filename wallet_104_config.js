@@ -1,1 +1,1 @@
-var mnemonic = "ask spoil body endorse critic change visit orphan frame pretty face bubble";
+var mnemonic = "empower convince sheriff observe board garbage much pause like silk link fatal";

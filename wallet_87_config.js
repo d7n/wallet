@@ -1,1 +1,1 @@
-var mnemonic = "amazing pride gather survey olympic rubber lottery other sail bone banner turn";
+var mnemonic = "invest plastic animal trap voice flavor wish museum desert index kingdom unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "banner beyond glare voyage swift guess mouse hidden music exhibit evolve topple";
+var mnemonic = "lesson shop artist myth universe zoo aspect ripple race grain peasant rich";

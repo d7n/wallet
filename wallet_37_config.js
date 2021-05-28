@@ -1,1 +1,1 @@
-var mnemonic = "boring dinosaur bright tumble balance skin discover ocean nation debris liquid stone";
+var mnemonic = "second start smooth remind number wealth belt boost outdoor clean sugar skill";

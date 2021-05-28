@@ -1,1 +1,1 @@
-var mnemonic = "point reason autumn note turtle twist robot eager swing fiction discover few";
+var mnemonic = "love charge labor solution vocal book army album shrimp kind solar festival";

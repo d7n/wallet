@@ -1,1 +1,1 @@
-var mnemonic = "frequent ability arm series syrup diesel wasp void shoe brass regret smooth";
+var mnemonic = "snack team tree mango radio select maze category note work west item";

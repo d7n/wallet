@@ -1,1 +1,1 @@
-var mnemonic = "endless drink hungry swear spring level flame sail since shove idle shaft";
+var mnemonic = "ancient bicycle adapt water stock dance gloom type also expect custom note";

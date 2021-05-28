@@ -1,1 +1,1 @@
-var mnemonic = "season now fitness green voice wine silver wide hole sock tower nut";
+var mnemonic = "warm sing uphold jealous feature arrive vault alert bundle share plate clarify";

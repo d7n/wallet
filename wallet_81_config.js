@@ -1,1 +1,1 @@
-var mnemonic = "useful forward control inhale youth model chimney matrix wealth lounge minute weasel";
+var mnemonic = "little paddle gift load ship genre used sing obtain label taste hat";

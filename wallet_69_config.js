@@ -1,1 +1,1 @@
-var mnemonic = "eager awake hazard lock caught end flip start hamster behave blanket blast";
+var mnemonic = "weird field switch slam often lend valve office donate find exotic mouse";

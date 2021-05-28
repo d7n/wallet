@@ -1,1 +1,1 @@
-var mnemonic = "current human logic tape civil salt choose peanut talent age swing between";
+var mnemonic = "normal runway spider manual pumpkin leg knee demise few ceiling effort spare";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty avocado goat rent action recycle process say peasant fat test shuffle";
+var mnemonic = "cushion ladder wing slide manual mystery lunch upset bring slender deny choose";

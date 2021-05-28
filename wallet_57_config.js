@@ -1,1 +1,1 @@
-var mnemonic = "learn survey olive grab cruise actual detect lady relief mandate nut bleak";
+var mnemonic = "drop laundry flag accuse diary need episode symbol menu raise engage broken";

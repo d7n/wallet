@@ -1,1 +1,1 @@
-var mnemonic = "cattle much day network rigid drip scissors sorry chunk cereal add demand";
+var mnemonic = "force notice soul mushroom fiber brush clown over slush blame between bronze";

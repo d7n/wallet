@@ -1,1 +1,1 @@
-var mnemonic = "anchor unfold promote grain broom flame correct clerk file apple illegal portion";
+var mnemonic = "athlete type toss once rebuild jar nothing crisp arrive equip detect again";

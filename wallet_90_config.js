@@ -1,1 +1,1 @@
-var mnemonic = "maple model text language moon style fiction school cradle oven skate price";
+var mnemonic = "saddle ribbon maple section barrel control fiber audit nasty smart vicious solid";

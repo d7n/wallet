@@ -1,1 +1,1 @@
-var mnemonic = "velvet trust excite disease gospel brass exit remember clap pilot tornado employ";
+var mnemonic = "crop curtain music wise cost weapon trend work clock hurdle knock critic";

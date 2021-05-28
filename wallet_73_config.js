@@ -1,1 +1,1 @@
-var mnemonic = "sweet jazz senior item report axis rebel grace find volume inspire amazing";
+var mnemonic = "assault double drum worry general drift security lab forum enlist shrug gorilla";

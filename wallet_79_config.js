@@ -1,1 +1,1 @@
-var mnemonic = "team busy general infant road entire grid slab strike weasel coast tonight";
+var mnemonic = "father drastic garage cabbage cruel badge shrimp session hybrid awesome correct rail";

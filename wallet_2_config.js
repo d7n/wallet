@@ -1,1 +1,1 @@
-var mnemonic = "almost state aim shoot file fiber brown repeat borrow kitten gesture demand";
+var mnemonic = "address night penalty warm purse journey sick borrow boost unveil crowd little";

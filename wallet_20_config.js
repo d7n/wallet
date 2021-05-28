@@ -1,1 +1,1 @@
-var mnemonic = "impact across argue resist job verb pet bless brand drive tennis what";
+var mnemonic = "credit connect people reflect brick viable party mouse broken rabbit ivory calm";

@@ -1,1 +1,1 @@
-var mnemonic = "power churn monster obey birth wall frown armed current man deposit economy";
+var mnemonic = "dragon angry chair impulse you cloud hidden iron frown turkey trial attend";

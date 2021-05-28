@@ -1,1 +1,1 @@
-var mnemonic = "plunge soda witness bring problem army achieve segment route under room hammer";
+var mnemonic = "broccoli battle gate sunset adult retreat begin arm left aware bronze night";

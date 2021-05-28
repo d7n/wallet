@@ -1,1 +1,1 @@
-var mnemonic = "business sell search stand powder common become spot oppose festival used cute";
+var mnemonic = "concert jaguar primary base satisfy bargain faint noise exit file pipe repeat";

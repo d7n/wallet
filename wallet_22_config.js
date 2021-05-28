@@ -1,1 +1,1 @@
-var mnemonic = "announce bless walnut diesel open jacket village orient torch tuition slide summer";
+var mnemonic = "wrap battle puzzle depart plug fantasy shy hurt region attend bus federal";

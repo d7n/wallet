@@ -1,1 +1,1 @@
-var mnemonic = "raise tooth act cheese spoil drip cluster spawn survey cinnamon once comfort";
+var mnemonic = "piano sleep stem nest across essence file forget river donkey twin angry";

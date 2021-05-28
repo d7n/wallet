@@ -1,1 +1,1 @@
-var mnemonic = "coast list burden decline knock team verify mango enhance wheel range wise";
+var mnemonic = "tired fit remember moment hazard pluck portion bubble obtain card wool crumble";

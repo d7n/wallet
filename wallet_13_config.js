@@ -1,1 +1,1 @@
-var mnemonic = "final federal auction task clerk finger tumble snake exchange hire hurry mimic";
+var mnemonic = "exhaust security world this eager trip mammal gaze exit scale already glare";

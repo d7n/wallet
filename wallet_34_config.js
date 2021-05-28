@@ -1,1 +1,1 @@
-var mnemonic = "globe funny suspect excite street appear bronze major another render increase half";
+var mnemonic = "tone abandon service reject gadget fatigue interest kit chief venture prefer repeat";

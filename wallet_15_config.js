@@ -1,1 +1,1 @@
-var mnemonic = "upon yard elder shoulder token depth witness smart piano april total explain";
+var mnemonic = "gown quality yellow recycle motor neutral awful success film tiny middle meadow";

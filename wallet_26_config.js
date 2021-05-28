@@ -1,1 +1,1 @@
-var mnemonic = "glad digital yellow spend hotel drum true toy satoshi library ramp disorder";
+var mnemonic = "sudden normal tuition furnace sense phrase mixture marble amazing delay warm word";

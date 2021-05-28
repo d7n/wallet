@@ -1,1 +1,1 @@
-var mnemonic = "chaos dawn prison mad boil strong boring eyebrow exhibit nurse pottery tennis";
+var mnemonic = "estate record frequent basic dumb seven review eight head initial glory poverty";

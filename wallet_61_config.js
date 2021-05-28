@@ -1,1 +1,1 @@
-var mnemonic = "exclude outer report orange awake day horror annual update plastic siege aspect";
+var mnemonic = "upset always crawl mixture elephant rib same neither crater sound barrel minor";

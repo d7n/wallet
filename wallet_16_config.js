@@ -1,1 +1,1 @@
-var mnemonic = "pair upon hurdle skate toilet plastic secret fitness fantasy vacuum emerge tonight";
+var mnemonic = "human secret crumble local outdoor congress jazz neutral memory picnic rotate rack";

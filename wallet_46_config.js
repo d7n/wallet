@@ -1,1 +1,1 @@
-var mnemonic = "taste title tower session method about bag logic entry excuse fantasy fix";
+var mnemonic = "crunch boat wave crater program evil debate you gentle model engine movie";

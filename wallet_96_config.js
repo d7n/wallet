@@ -1,1 +1,1 @@
-var mnemonic = "bind army wealth plunge ordinary capital connect hospital transfer snack kiwi mosquito";
+var mnemonic = "crunch drip cover moon tail fatigue sadness deposit sand tenant scan chef";

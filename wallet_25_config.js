@@ -1,1 +1,1 @@
-var mnemonic = "market police ivory gossip guitar candy hollow mechanic congress twice gate beyond";
+var mnemonic = "fat sight album cat absent earn also metal obey change faint bracket";

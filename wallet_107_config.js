@@ -1,1 +1,1 @@
-var mnemonic = "parent repeat tent dial shell bachelor loan foil armed flee bag bread";
+var mnemonic = "hint purity enough abuse reduce cradle gesture hungry addict despair pen off";

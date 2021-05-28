@@ -1,1 +1,1 @@
-var mnemonic = "slender arrive baby concert aunt program leader device base shield sword unusual";
+var mnemonic = "laptop inquiry supply cabin mystery series cruise engine benefit radar supply despair";

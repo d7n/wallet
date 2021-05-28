@@ -1,1 +1,1 @@
-var mnemonic = "emotion romance evolve alone clinic sword bid struggle crime process border movie";
+var mnemonic = "frost cram boy myth detect tired evidence can keen amateur few journey";

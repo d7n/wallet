@@ -1,1 +1,1 @@
-var mnemonic = "portion song moment plate talk entire riot load speed immune inform toss";
+var mnemonic = "tortoise alien rabbit whip similar purpose found leg winter burden evidence suffer";

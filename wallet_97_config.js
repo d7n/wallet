@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur orange shed vicious solution miss coyote squeeze effort flat reopen claim";
+var mnemonic = "legend basic trouble essence potato fall inside like reveal require wreck face";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade fragile shuffle lake wrap draw utility renew vapor crystal version elite";
+var mnemonic = "ceiling fame fatigue rug because nasty cradle educate produce grab bamboo pair";

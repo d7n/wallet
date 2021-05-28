@@ -1,1 +1,1 @@
-var mnemonic = "candy injury brain daughter hood gesture energy empower library clinic gas open";
+var mnemonic = "neglect dumb spread inquiry blouse ritual spider junk what tide vague surprise";

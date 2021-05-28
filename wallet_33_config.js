@@ -1,1 +1,1 @@
-var mnemonic = "submit above crash hawk desk today else frown also dove source provide";
+var mnemonic = "have elder present gym youth pact add actual exclude search replace field";

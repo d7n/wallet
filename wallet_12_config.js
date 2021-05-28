@@ -1,1 +1,1 @@
-var mnemonic = "mammal away fortune shop onion raven blouse cheap deny wrong dry hope";
+var mnemonic = "frequent ugly talk arch curious tackle web pledge crazy innocent fossil govern";

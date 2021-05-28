@@ -1,1 +1,1 @@
-var mnemonic = "favorite nothing supply engine warrior cargo other evidence van govern rebuild tooth";
+var mnemonic = "hill claim vast rescue food panda creek type exchange decade bulb exhaust";

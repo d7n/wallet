@@ -1,1 +1,1 @@
-var mnemonic = "top text alien extend galaxy cluster chapter spy glass direct equal brother";
+var mnemonic = "hurry maid subway future surface rookie year exclude clerk undo amateur remind";

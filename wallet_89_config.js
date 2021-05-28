@@ -1,1 +1,1 @@
-var mnemonic = "escape winter festival outer end meat cluster orphan sunny fantasy glance assist";
+var mnemonic = "survey athlete face scale toward strike impact comic escape injury warfare weapon";

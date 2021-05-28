@@ -1,1 +1,1 @@
-var mnemonic = "fence crack torch faculty fog venue prize useful hollow brass vicious friend";
+var mnemonic = "curious axis vapor they social cost route bundle gold canoe happy disagree";

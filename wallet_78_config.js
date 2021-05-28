@@ -1,1 +1,1 @@
-var mnemonic = "face rocket inquiry very clog reduce obvious method dilemma float assault envelope";
+var mnemonic = "biology three crash flush steel result oil face alcohol manual trade tape";

@@ -1,1 +1,1 @@
-var mnemonic = "addict kingdom raccoon juice nice castle half future steak describe shock clinic";
+var mnemonic = "black palace erase omit powder motor crunch until tomorrow invite alcohol suit";

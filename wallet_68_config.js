@@ -1,1 +1,1 @@
-var mnemonic = "girl scorpion paper height wall clarify able relief enrich panda whisper bitter";
+var mnemonic = "purse parrot trigger aisle reopen stove bar cargo summer elite best kangaroo";

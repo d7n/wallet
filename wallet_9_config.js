@@ -1,1 +1,1 @@
-var mnemonic = "camera inquiry clinic square tobacco private boil galaxy invest grunt chaos drip";
+var mnemonic = "explain indoor collect donkey shield morning drama civil judge alley mass luggage";

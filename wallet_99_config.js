@@ -1,1 +1,1 @@
-var mnemonic = "artefact release story proof main skull post whip seven outdoor dilemma liquid";
+var mnemonic = "vacuum liar talk start seat cash party since gap example rent swear";

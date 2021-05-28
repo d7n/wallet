@@ -1,1 +1,1 @@
-var mnemonic = "chaos dolphin actor lawn chalk movie nuclear adjust canyon cube oppose arm";
+var mnemonic = "govern common vote remain mercy fiction range kitten update slight age surge";

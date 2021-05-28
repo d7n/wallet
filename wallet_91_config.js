@@ -1,1 +1,1 @@
-var mnemonic = "fault manual mail erase outer kidney prepare supply woman fish regret beach";
+var mnemonic = "arrest square off multiply depend today suffer label salmon defense announce strike";

@@ -1,1 +1,1 @@
-var mnemonic = "stand badge drop hospital mimic canal enlist quantum section slender voyage blur";
+var mnemonic = "portion possible find ensure false keep treat holiday valve deny defy potato";
