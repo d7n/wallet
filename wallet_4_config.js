@@ -1,1 +1,1 @@
-var mnemonic = "cute dignity bronze energy tobacco position melody digital flush panel whale cannon";
+var mnemonic = "quiz town erosion artefact trend liar kitten wasp budget since provide about";

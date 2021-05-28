@@ -1,1 +1,1 @@
-var mnemonic = "push olympic object siege face predict virtual rotate dial suit boost run";
+var mnemonic = "purity clever great illegal copy pretty action team grape lunar grief print";

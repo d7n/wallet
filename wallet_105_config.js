@@ -1,1 +1,1 @@
-var mnemonic = "mercy debris valid matrix struggle siren under subject pledge dynamic debate stove";
+var mnemonic = "diagram volume amount language narrow soul crime entire bullet dress always found";

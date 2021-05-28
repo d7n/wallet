@@ -1,1 +1,1 @@
-var mnemonic = "field wild jeans appear recall toast glad horror detect toy blast horror";
+var mnemonic = "dignity plunge law usual choice swim foam illness direct quit humor milk";

@@ -1,1 +1,1 @@
-var mnemonic = "actor soldier since beef laptop child recycle link neglect grit require tourist";
+var mnemonic = "foam host identify assist orbit segment cattle wild yellow save inherit recycle";

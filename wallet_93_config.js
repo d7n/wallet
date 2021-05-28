@@ -1,1 +1,1 @@
-var mnemonic = "solve month crime art armed another potato dry train negative sauce frown";
+var mnemonic = "across float ship edit acquire kit silly naive near wagon travel citizen";

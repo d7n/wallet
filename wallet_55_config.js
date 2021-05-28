@@ -1,1 +1,1 @@
-var mnemonic = "bargain ginger churn chronic peanut board heart biology humor roof gown ecology";
+var mnemonic = "symbol pizza number energy produce buzz denial trap obey select tomato monster";

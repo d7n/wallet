@@ -1,1 +1,1 @@
-var mnemonic = "despair gospel fruit tongue love puzzle smoke street awful seed hello tongue";
+var mnemonic = "history pencil reject school victory enforce border inform tower fit net forget";

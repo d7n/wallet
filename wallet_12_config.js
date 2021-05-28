@@ -1,1 +1,1 @@
-var mnemonic = "finish attract cause notable identify boost hybrid ability text viable lunch strike";
+var mnemonic = "report fresh athlete often name lunar curtain gossip dumb rose swear phone";

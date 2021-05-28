@@ -1,1 +1,1 @@
-var mnemonic = "flavor forward turtle morning stomach elevator armed ticket average trash camp size";
+var mnemonic = "slow cash image define actor kite advice mixed thought book entry inform";

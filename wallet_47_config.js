@@ -1,1 +1,1 @@
-var mnemonic = "jeans spider undo always exclude such grape attend electric also nation hurt";
+var mnemonic = "snow random alien edge annual response assume between tomorrow dry rifle cricket";

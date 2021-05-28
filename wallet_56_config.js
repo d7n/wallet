@@ -1,1 +1,1 @@
-var mnemonic = "hurt night wood insane wise wisdom fix teach bean annual two audit";
+var mnemonic = "save road usage above churn effort gap hungry slush fruit donate voice";

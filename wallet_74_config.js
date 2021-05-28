@@ -1,1 +1,1 @@
-var mnemonic = "logic search ozone pitch east company embody case brain that ghost purpose";
+var mnemonic = "rice board total uphold glow toddler youth shoot give throw dentist ocean";

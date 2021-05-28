@@ -1,1 +1,1 @@
-var mnemonic = "slam rich need milk oppose noise cricket run erase assist inherit rose";
+var mnemonic = "entry success hollow shove oppose engine buyer quit diagram vintage become step";

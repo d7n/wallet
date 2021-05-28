@@ -1,1 +1,1 @@
-var mnemonic = "awake erupt twin deer source find crumble opinion beach unable badge clog";
+var mnemonic = "hood uncle crucial chief giant left caution finger bus citizen output sniff";

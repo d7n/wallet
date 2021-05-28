@@ -1,1 +1,1 @@
-var mnemonic = "wife seven party view relief couch category lion jewel unique very ball";
+var mnemonic = "theme first plate badge author reward first useful mail usage day eight";

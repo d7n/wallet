@@ -1,1 +1,1 @@
-var mnemonic = "lunch bitter desert genre tobacco universe march double bridge observe chef say";
+var mnemonic = "arrange page text business wine board master rent update match toddler gold";

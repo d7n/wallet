@@ -1,1 +1,1 @@
-var mnemonic = "skate together slot depart hobby excess special clean thrive urge cannon leg";
+var mnemonic = "spot price left section wheat right say refuse canal current pupil select";

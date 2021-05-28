@@ -1,1 +1,1 @@
-var mnemonic = "security wrong rubber goat venue welcome question behave ladder large pen dad";
+var mnemonic = "dove cable robust tonight hire skirt hour rice remember yellow sick mix";

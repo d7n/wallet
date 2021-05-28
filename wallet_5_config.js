@@ -1,1 +1,1 @@
-var mnemonic = "rail core upgrade abandon crash student garden service athlete profit frame cheap";
+var mnemonic = "praise erode exercise amateur donor shoulder oval enhance voice fever vocal gold";

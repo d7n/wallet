@@ -1,1 +1,1 @@
-var mnemonic = "party crash inherit say mistake waste tennis spell clarify swing below evil";
+var mnemonic = "come digital old unusual bright isolate duck fever section planet arch material";

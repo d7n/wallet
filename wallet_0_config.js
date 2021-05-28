@@ -1,1 +1,1 @@
-var mnemonic = "update tool empty that corn enhance energy woman ensure bounce laptop labor";
+var mnemonic = "ostrich icon entry bamboo like slim galaxy vague volume sponsor hamster happy";

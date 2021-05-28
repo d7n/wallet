@@ -1,1 +1,1 @@
-var mnemonic = "frost enjoy heavy main destroy tilt pluck produce fiction best rural bicycle";
+var mnemonic = "gift since uphold carpet what confirm arrest supreme special unusual grain observe";

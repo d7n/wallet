@@ -1,1 +1,1 @@
-var mnemonic = "saddle section embody absorb cake flush pony snack horror path guilt pumpkin";
+var mnemonic = "cute oil nice sail obtain palm swear warfare belt royal fiber pepper";

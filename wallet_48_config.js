@@ -1,1 +1,1 @@
-var mnemonic = "lend else park waste exhaust only fade blood clutch urge tell can";
+var mnemonic = "order arch panic wait across birth squeeze clip crunch approve cause robust";

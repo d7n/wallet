@@ -1,1 +1,1 @@
-var mnemonic = "cricket end sustain copy guilt defy today glad employ that civil sound";
+var mnemonic = "february capital raise provide ankle mule matter immense change fold idle salute";

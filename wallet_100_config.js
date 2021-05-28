@@ -1,1 +1,1 @@
-var mnemonic = "derive glance conduct liar wear farm slab empty crowd radar present twenty";
+var mnemonic = "zebra mosquito winter prevent empower stumble rival pill ship tide tomorrow know";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon hospital input bargain scheme weapon develop enemy window autumn priority glue";
+var mnemonic = "resource betray asset walk reveal control sentence depth sponsor crucial spend fire";

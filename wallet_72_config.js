@@ -1,1 +1,1 @@
-var mnemonic = "faculty upset keen develop saddle blue polar spray believe early payment fish";
+var mnemonic = "catch hybrid mention crazy gap dust picture fit asset tank reflect matter";

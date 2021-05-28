@@ -1,1 +1,1 @@
-var mnemonic = "kingdom broom envelope trust right wagon buyer fuel will apology select ranch";
+var mnemonic = "brick defy during clinic certain fork service earth subject extend sport observe";

@@ -1,1 +1,1 @@
-var mnemonic = "rent giraffe ahead teach disease enforce easily palm clean library east fence";
+var mnemonic = "game theme burger jealous era element later essence inject panda hazard response";

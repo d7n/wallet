@@ -1,1 +1,1 @@
-var mnemonic = "fog toilet predict copy curious praise elite mask spell leisure sadness shrug";
+var mnemonic = "radar call planet oval cat buddy cluster toast end cliff trash again";

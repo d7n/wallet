@@ -1,1 +1,1 @@
-var mnemonic = "rapid hour light half snake tape manual express skill police bless pluck";
+var mnemonic = "arch obscure spirit repeat unhappy vague arrest airport antenna embrace rifle sheriff";

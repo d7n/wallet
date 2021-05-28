@@ -1,1 +1,1 @@
-var mnemonic = "unfair address belt system expose cute sing roof garage rifle deny able";
+var mnemonic = "absurd ribbon always illegal have electric core nose test steak toe rigid";

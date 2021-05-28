@@ -1,1 +1,1 @@
-var mnemonic = "thing notable dance permit wrestle chronic spare tonight hold either utility palace";
+var mnemonic = "lake decrease also order detail maple embody allow tray cannon gasp ring";

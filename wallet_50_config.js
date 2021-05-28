@@ -1,1 +1,1 @@
-var mnemonic = "skirt social axis teach pen erase snack erase since unusual bronze screen";
+var mnemonic = "basic shrug enrich receive wink reunion host pumpkin ozone glad joke illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "useful moral embody poet vocal angle wisdom safe sword youth mixture letter";
+var mnemonic = "forum ten sadness inflict dry hockey olive amazing image size among mirror";

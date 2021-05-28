@@ -1,1 +1,1 @@
-var mnemonic = "mesh juice peanut pull dismiss cupboard major mirror throw crane pitch viable";
+var mnemonic = "phone gospel now reveal ridge ship reject nest six federal spread depend";

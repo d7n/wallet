@@ -1,1 +1,1 @@
-var mnemonic = "divert coffee foam wise shrug broom bachelor birth hover distance cost travel";
+var mnemonic = "then tragic eagle elegant venue police phone stable cup aisle typical ozone";

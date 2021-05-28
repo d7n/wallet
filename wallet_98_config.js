@@ -1,1 +1,1 @@
-var mnemonic = "lava clap vehicle sniff lunch quote warfare print depth human text occur";
+var mnemonic = "shift pilot april prepare wire puzzle mercy tiny walk subject country drive";

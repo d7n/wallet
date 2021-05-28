@@ -1,1 +1,1 @@
-var mnemonic = "possible forest offer violin mammal head what spatial flip nerve puzzle fever";
+var mnemonic = "rib exercise slow bracket tide body elegant method main that syrup about";

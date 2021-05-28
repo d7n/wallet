@@ -1,1 +1,1 @@
-var mnemonic = "hand memory better smart wage forward rocket visit tornado wife december debris";
+var mnemonic = "sock disagree genius question window crash donkey gospel mouse stay misery tennis";

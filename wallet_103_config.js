@@ -1,1 +1,1 @@
-var mnemonic = "waste dove cricket must solve regret chef bacon wool track laugh simple";
+var mnemonic = "involve hedgehog advance hill list move skate unveil goose rebel radar invest";

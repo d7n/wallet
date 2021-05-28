@@ -1,1 +1,1 @@
-var mnemonic = "wise nephew describe unaware bitter such end harvest reopen law table canyon";
+var mnemonic = "unknown engage surge design answer feel ramp used ready entire amount door";

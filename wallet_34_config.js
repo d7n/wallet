@@ -1,1 +1,1 @@
-var mnemonic = "transfer remove empty vibrant blast pudding tomato shuffle frame tumble phone pink";
+var mnemonic = "abuse heart annual trigger certain goose remember hurry repeat holiday ugly muscle";

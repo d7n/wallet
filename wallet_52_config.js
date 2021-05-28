@@ -1,1 +1,1 @@
-var mnemonic = "dry cook margin palm apart glove general youth siege final obscure certain";
+var mnemonic = "abandon object tragic sniff prosper tonight run taxi clown battle original tooth";

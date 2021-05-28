@@ -1,1 +1,1 @@
-var mnemonic = "useless state choose glance embrace multiply one nuclear reject race hire venue";
+var mnemonic = "husband dawn attend wire indicate spoon black mobile cheese focus grocery van";

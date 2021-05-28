@@ -1,1 +1,1 @@
-var mnemonic = "short sustain notice goat water bullet blind desert brown habit zero okay";
+var mnemonic = "present century index cattle deer trap setup soft tuna item illegal pull";

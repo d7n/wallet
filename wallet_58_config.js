@@ -1,1 +1,1 @@
-var mnemonic = "weird side bike book brain wife bonus lumber elbow trumpet patch oxygen";
+var mnemonic = "voyage glory tank master chicken wheel crush secret come priority once truly";

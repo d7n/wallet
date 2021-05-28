@@ -1,1 +1,1 @@
-var mnemonic = "craft capital text jacket moment salon mom category cricket job document fame";
+var mnemonic = "alcohol napkin very snake today wash nothing rail rigid balcony grain slot";

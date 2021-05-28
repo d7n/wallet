@@ -1,1 +1,1 @@
-var mnemonic = "pulp card apology ranch price neglect long number acid skull path various";
+var mnemonic = "reform filter copy faith educate album pulp laundry tackle island pipe will";

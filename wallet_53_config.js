@@ -1,1 +1,1 @@
-var mnemonic = "math vehicle grab riot step endorse brain rain card ancient acquire hunt";
+var mnemonic = "wrap setup music flag link merit label smile armor senior polar unveil";

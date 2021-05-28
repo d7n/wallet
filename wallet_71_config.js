@@ -1,1 +1,1 @@
-var mnemonic = "trim eyebrow scorpion torch belt razor evoke winner easy stamp envelope else";
+var mnemonic = "absorb aerobic corn produce actress win system elder destroy divorce fence inhale";

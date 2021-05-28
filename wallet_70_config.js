@@ -1,1 +1,1 @@
-var mnemonic = "harvest device romance raw inherit jelly force truly beyond dog garden mystery";
+var mnemonic = "ketchup illness talk success travel attend unfair fire noise ride potato this";

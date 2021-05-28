@@ -1,1 +1,1 @@
-var mnemonic = "nut impulse arm couch ketchup hour satisfy second puzzle picture gasp approve";
+var mnemonic = "entire treat oxygen gym cushion govern roast matter people guitar initial can";

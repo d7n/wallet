@@ -1,1 +1,1 @@
-var mnemonic = "spoil october once maximum limit response wide agent spider pepper link dish";
+var mnemonic = "step wrist wrap during tragic regret welcome feed dish affair nuclear student";

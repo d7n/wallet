@@ -1,1 +1,1 @@
-var mnemonic = "across skirt thumb cook wave scrap pen bundle canoe govern you unhappy";
+var mnemonic = "order wine bone address capable mention enter clump into ranch boy present";

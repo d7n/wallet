@@ -1,1 +1,1 @@
-var mnemonic = "draft mammal amount narrow addict rent toast live phone tuition injury yard";
+var mnemonic = "wet sibling oil lady library scatter curve like save select slow suspect";

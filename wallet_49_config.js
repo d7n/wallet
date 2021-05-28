@@ -1,1 +1,1 @@
-var mnemonic = "attitude panda beyond pelican across river exercise obtain ethics film all all";
+var mnemonic = "recall angle odor cube view wolf prevent hazard journey dish sure staff";

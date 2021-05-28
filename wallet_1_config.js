@@ -1,1 +1,1 @@
-var mnemonic = "squeeze orbit any civil enjoy artefact club drink track blouse taste exit";
+var mnemonic = "celery film below orbit shoot spell spring west wagon attend shrug menu";

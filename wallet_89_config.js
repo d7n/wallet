@@ -1,1 +1,1 @@
-var mnemonic = "keep usage park tragic blood piano found grow update door vacuum potato";
+var mnemonic = "apple wait state country lesson junior wisdom neglect height shell hurdle road";

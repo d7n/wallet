@@ -1,1 +1,1 @@
-var mnemonic = "dash glass appear finish never receive wisdom you emotion reduce exhaust harvest";
+var mnemonic = "mirror animal penalty forum indoor hurt real puppy pitch pull soul tell";

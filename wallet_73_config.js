@@ -1,1 +1,1 @@
-var mnemonic = "blood cram solar glory leopard orbit bone frost road eyebrow limit modify";
+var mnemonic = "fiber disagree other frozen olive public profit lecture number addict spy cement";

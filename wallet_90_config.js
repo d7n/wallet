@@ -1,1 +1,1 @@
-var mnemonic = "knock grace cradle owner heart ring gain impulse fantasy woman soup grief";
+var mnemonic = "begin club desert visa famous decrease loud mixture illness plate effort future";

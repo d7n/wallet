@@ -1,1 +1,1 @@
-var mnemonic = "worry glue scrub blood moment party front toy will rebuild above blush";
+var mnemonic = "wonder tooth please luggage degree guard below car curve crack burger biology";

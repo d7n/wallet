@@ -1,1 +1,1 @@
-var mnemonic = "analyst reveal mask gentle penalty solid search immense purpose february neutral milk";
+var mnemonic = "dune submit adapt stomach disagree replace reveal speed pulse loop office winter";

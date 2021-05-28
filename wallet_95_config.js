@@ -1,1 +1,1 @@
-var mnemonic = "eight stairs donor brush swift army segment category hamster erosion before segment";
+var mnemonic = "main auto tip cabbage speed sound accident high sunny hold disease whisper";

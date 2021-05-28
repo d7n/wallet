@@ -1,1 +1,1 @@
-var mnemonic = "ordinary analyst enter grape average moment service twice raw rural transfer inner";
+var mnemonic = "coyote estate tattoo gauge session trap add swallow feel dawn glove master";

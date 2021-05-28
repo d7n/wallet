@@ -1,1 +1,1 @@
-var mnemonic = "artefact alarm hope escape vessel recall square pear rare ancient muffin double";
+var mnemonic = "they wreck catalog lake february drum eye web fee trash toddler poem";

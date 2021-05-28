@@ -1,1 +1,1 @@
-var mnemonic = "myth mixed order damage room reunion permit visa pumpkin cabin paper chuckle";
+var mnemonic = "party vibrant drill prepare verify nature someone produce table flight deposit illness";

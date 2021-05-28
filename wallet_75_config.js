@@ -1,1 +1,1 @@
-var mnemonic = "arch grab crew wait hurdle caution seed welcome equal disagree drop bulk";
+var mnemonic = "board idea mansion canvas winner trade stuff spirit antenna burst fitness pepper";

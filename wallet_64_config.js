@@ -1,1 +1,1 @@
-var mnemonic = "become ignore dust air pumpkin divert lab leave hockey duck stomach light";
+var mnemonic = "soldier piano rack ancient swarm ten approve news steel squeeze now inquiry";

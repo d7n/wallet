@@ -1,1 +1,1 @@
-var mnemonic = "during predict perfect message uncle window badge refuse alcohol slender topple cliff";
+var mnemonic = "game crouch anxiety abuse april vessel bitter ugly furnace vacuum call chronic";

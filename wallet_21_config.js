@@ -1,1 +1,1 @@
-var mnemonic = "wrong aware lecture load govern net profit diamond spend fortune decorate truck";
+var mnemonic = "wire symptom athlete never wheel poem rent camp pudding park fabric fault";

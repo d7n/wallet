@@ -1,1 +1,1 @@
-var mnemonic = "feature index two market drill lift latin wife host industry december panther";
+var mnemonic = "fancy stick pole pretty assist gravity inside ribbon wing shaft song loud";

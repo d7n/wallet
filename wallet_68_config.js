@@ -1,1 +1,1 @@
-var mnemonic = "genuine bar local exhibit remember very tank act rotate myth debris chuckle";
+var mnemonic = "design razor prosper second divert creek peasant vendor infant hedgehog mix fee";

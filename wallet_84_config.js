@@ -1,1 +1,1 @@
-var mnemonic = "own speed disorder inquiry happy stage still elite develop crater near valley";
+var mnemonic = "change session runway nice upgrade brick art educate unhappy utility pen cluster";

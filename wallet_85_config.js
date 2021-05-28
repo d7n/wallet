@@ -1,1 +1,1 @@
-var mnemonic = "normal worry tobacco ridge outside machine leader uncle hire direct tongue depth";
+var mnemonic = "note ketchup decrease limb nominee fluid sister laundry quiz build theory dry";

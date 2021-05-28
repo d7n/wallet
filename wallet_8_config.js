@@ -1,1 +1,1 @@
-var mnemonic = "supply change outside recall half spring news door paper width replace sunny";
+var mnemonic = "silly evidence clap clean essence spray life wise excuse fun journey slot";

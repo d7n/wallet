@@ -1,1 +1,1 @@
-var mnemonic = "sphere immune abuse reason scale drink pact reason clock process tree width";
+var mnemonic = "illegal movie island decline parade chicken deny find element draft fame surge";

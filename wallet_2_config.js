@@ -1,1 +1,1 @@
-var mnemonic = "identify artefact alien slender business bounce foil soccer powder cause kitten wise";
+var mnemonic = "position orbit table vessel organ cat initial birth loud curious skate derive";

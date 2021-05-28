@@ -1,1 +1,1 @@
-var mnemonic = "primary proud divert toward roof today borrow boring check install cause summer";
+var mnemonic = "broken inch ticket ridge pride audit dwarf jelly mule flower picture idle";

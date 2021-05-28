@@ -1,1 +1,1 @@
-var mnemonic = "magnet box screen next shove tourist match prison fade negative siege depart";
+var mnemonic = "venue tip affair fragile frost napkin chunk wall bring barrel joke rotate";

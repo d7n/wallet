@@ -1,1 +1,1 @@
-var mnemonic = "slam hover danger average prize rally agent upon poem off develop wrong";
+var mnemonic = "govern rail foster vendor outside arrive mushroom school label cloud wife tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "height fan cross type draw universe gate cargo entry observe protect element";
+var mnemonic = "guitar pause enemy enter salon mandate pretty inside excuse chaos various pulp";

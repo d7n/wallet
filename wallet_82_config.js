@@ -1,1 +1,1 @@
-var mnemonic = "dolphin border stuff quantum document gown script assault inquiry borrow depart sentence";
+var mnemonic = "tank aware pluck suit process various turn empty infant switch canvas junior";

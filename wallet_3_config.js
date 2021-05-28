@@ -1,1 +1,1 @@
-var mnemonic = "leader abandon govern before place man call catch inject harvest install equip";
+var mnemonic = "meat appear crater child tooth curve civil toast pulse proof bring hat";

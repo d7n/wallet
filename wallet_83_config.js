@@ -1,1 +1,1 @@
-var mnemonic = "peasant hamster scrub chimney clean neutral whisper tent zero crucial weird tank";
+var mnemonic = "old improve renew snow clutch hamster reveal melt riot cement modify glance";

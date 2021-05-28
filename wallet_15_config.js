@@ -1,1 +1,1 @@
-var mnemonic = "daring time machine certain release thing bar useless profit quarter wear aware";
+var mnemonic = "day disease fee duck split struggle coyote enforce orbit jewel flavor invest";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle sauce frozen combine test thunder shove legal pencil coast ginger just";
+var mnemonic = "tissue owner guide quarter zero illness try goddess road poem close field";

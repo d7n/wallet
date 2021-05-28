@@ -1,1 +1,1 @@
-var mnemonic = "absorb radio gorilla risk input flip cross off more trap snake toast";
+var mnemonic = "elder orchard immense grit dial word spike battle pigeon squirrel medal style";
