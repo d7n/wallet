@@ -1,1 +1,1 @@
-var mnemonic = "list crumble hotel provide impulse tree slush mad liquid ramp rotate tonight";
+var mnemonic = "travel enrich true marine sing oil visit suffer race cattle nation decrease";

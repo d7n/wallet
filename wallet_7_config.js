@@ -1,1 +1,1 @@
-var mnemonic = "auction sponsor slam chicken mystery tribe churn food payment option shoe skate";
+var mnemonic = "banana pledge soda ball inside umbrella float test where abstract exact put";

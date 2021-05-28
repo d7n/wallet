@@ -1,1 +1,1 @@
-var mnemonic = "shock february club make together enough oppose island crucial boost tide oven";
+var mnemonic = "salon faith monitor unfold today bronze wreck artefact accident favorite crater hurt";

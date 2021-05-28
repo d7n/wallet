@@ -1,1 +1,1 @@
-var mnemonic = "toy iron stomach ticket slot random choose oblige paddle desk pause grab";
+var mnemonic = "crowd already gaze dog sheriff bone dad also shoulder panther absorb laptop";

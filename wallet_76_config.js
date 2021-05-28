@@ -1,1 +1,1 @@
-var mnemonic = "reveal thrive warfare priority subway lazy salute artist issue slow into boost";
+var mnemonic = "side aspect oil again can exile stomach purity domain knee hello dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "raw chaos safe immense hard exclude useful caution kit describe river web";
+var mnemonic = "monitor tortoise deposit trick gas verify erupt spray attend fitness viable grace";

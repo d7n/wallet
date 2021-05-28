@@ -1,1 +1,1 @@
-var mnemonic = "category excite bleak erupt change pelican say news rail impulse island ripple";
+var mnemonic = "dry lock post fan anger ten better bunker before thing federal paper";

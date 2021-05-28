@@ -1,1 +1,1 @@
-var mnemonic = "orient sound quote bubble seek awesome chimney voyage shy roof dynamic fortune";
+var mnemonic = "core moon hazard exchange divorce reflect element super any march armor sponsor";

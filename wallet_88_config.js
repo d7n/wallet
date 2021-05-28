@@ -1,1 +1,1 @@
-var mnemonic = "imitate hawk clap expose chapter post shaft message amused mansion affair gauge";
+var mnemonic = "certain minimum squeeze supreme end smile afraid office impose bicycle measure because";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture sheriff case swarm pencil race supreme junk desert alarm ribbon review";
+var mnemonic = "crisp april sleep wisdom once banana brush code middle orchard connect manual";

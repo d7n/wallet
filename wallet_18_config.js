@@ -1,1 +1,1 @@
-var mnemonic = "curious churn anchor educate spice swamp cube accuse crucial badge volcano brisk";
+var mnemonic = "connect cheap alarm risk market coil ritual midnight myself disagree slice soft";

@@ -1,1 +1,1 @@
-var mnemonic = "light alcohol parent corn inhale access orphan lawsuit purity path elegant belt";
+var mnemonic = "dose relief goat thunder gossip almost measure unlock small divert region dream";

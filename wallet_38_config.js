@@ -1,1 +1,1 @@
-var mnemonic = "blush wagon orphan embrace tree rely execute bomb spring wasp stereo rule";
+var mnemonic = "sauce deal humor valve ski flavor rug vote crazy silly wasp metal";

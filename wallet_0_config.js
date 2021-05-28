@@ -1,1 +1,1 @@
-var mnemonic = "brain melt spare panic cause pulse amazing shrimp ice engage pottery word";
+var mnemonic = "degree raise corn enter agree wild dynamic news wage coil axis stool";

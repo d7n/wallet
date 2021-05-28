@@ -1,1 +1,1 @@
-var mnemonic = "churn stomach predict ready frog apple diet bitter season spin industry fame";
+var mnemonic = "conduct degree purse obey crater clinic bargain three tongue sentence orchard december";

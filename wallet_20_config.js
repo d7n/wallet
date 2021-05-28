@@ -1,1 +1,1 @@
-var mnemonic = "ready flock uncle squeeze library fragile meadow planet reopen possible section pool";
+var mnemonic = "sleep giraffe art blast swamp behind choice time morning forest act company";

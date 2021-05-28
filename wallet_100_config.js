@@ -1,1 +1,1 @@
-var mnemonic = "fork hole orchard prosper imitate answer shy sniff claim great credit traffic";
+var mnemonic = "must vital leave exist initial wheel rabbit clerk anxiety visual physical bamboo";

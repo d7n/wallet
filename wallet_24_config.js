@@ -1,1 +1,1 @@
-var mnemonic = "tribe runway cream crew symptom lyrics power reunion edge spike sing inch";
+var mnemonic = "wreck extra rib train settle owner abuse story field school popular goddess";

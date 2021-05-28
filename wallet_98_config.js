@@ -1,1 +1,1 @@
-var mnemonic = "limb concert duty cause deposit spell grab casino expire comic garbage dumb";
+var mnemonic = "leopard acquire liberty crawl inform hip era bomb remind unfold base chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "senior orphan dawn blast ketchup unknown divert plastic face sustain protect sand";
+var mnemonic = "front valid payment festival gravity drink segment ahead hat lab injury hawk";

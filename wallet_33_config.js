@@ -1,1 +1,1 @@
-var mnemonic = "ceiling cube torch toward casino genius exit license milk shell dice nuclear";
+var mnemonic = "edit group solid purity heart tissue dry hip mountain auto ivory fortune";

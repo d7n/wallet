@@ -1,1 +1,1 @@
-var mnemonic = "sing silver crisp pretty file kitchen reward wall peace kiwi crowd dish";
+var mnemonic = "grief flavor cool grief emerge owner enemy parrot ritual tray noodle ring";

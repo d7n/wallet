@@ -1,1 +1,1 @@
-var mnemonic = "dash amateur tennis garbage glove lab inside finish filter crunch route gift";
+var mnemonic = "enact tortoise medal cactus lobster genuine gap actual include knife spirit increase";

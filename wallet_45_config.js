@@ -1,1 +1,1 @@
-var mnemonic = "bag mushroom fan memory calm radio window you grief inherit open spread";
+var mnemonic = "helmet salmon retreat napkin guide lava post garment place property estate asthma";

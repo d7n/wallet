@@ -1,1 +1,1 @@
-var mnemonic = "swing just cycle like just tone human hip piano gift amount okay";
+var mnemonic = "proud off vibrant grant taxi hamster resemble bicycle leopard boy distance trumpet";

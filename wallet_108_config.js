@@ -1,1 +1,1 @@
-var mnemonic = "front blue slush erupt ocean this salad latin feel off hurdle myself";
+var mnemonic = "wrap token february project fatigue quantum inner secret item canal artwork exhibit";

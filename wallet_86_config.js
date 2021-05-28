@@ -1,1 +1,1 @@
-var mnemonic = "open tomato please zebra impose hard gospel exotic uncle write shell federal";
+var mnemonic = "miss small prize among degree salt version cinnamon bridge canoe medal stay";

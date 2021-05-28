@@ -1,1 +1,1 @@
-var mnemonic = "river novel shrimp demise first fetch village any cabbage ribbon check page";
+var mnemonic = "spin dial purpose device success oyster ecology add soap crush brisk pink";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon inhale differ lab pair swallow page purpose all belt surface hold";
+var mnemonic = "woman utility method pilot dirt cart panda clump oak drop success calm";

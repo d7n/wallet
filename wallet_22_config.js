@@ -1,1 +1,1 @@
-var mnemonic = "loop pyramid notice seminar worry embody asthma member student now cargo piece";
+var mnemonic = "zebra truth tongue toast outer trouble young chunk baby bunker dolphin fiber";

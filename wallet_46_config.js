@@ -1,1 +1,1 @@
-var mnemonic = "fatal lake walnut true fan era category ride joy soft primary digital";
+var mnemonic = "market ability agree goose void mushroom zone squeeze swarm elegant profit mass";

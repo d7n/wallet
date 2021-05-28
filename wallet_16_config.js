@@ -1,1 +1,1 @@
-var mnemonic = "chapter bring drastic struggle robot version direct sauce course ketchup easy inhale";
+var mnemonic = "sausage detect tent box awkward island anchor decide reunion minute other sing";

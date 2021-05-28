@@ -1,1 +1,1 @@
-var mnemonic = "suspect crack now wage dutch artefact mixture load smile train connect blade";
+var mnemonic = "table range eagle seven start tent apology merit gossip relief random bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "devote lobster can breeze salon primary lamp odor rare shoe ranch frequent";
+var mnemonic = "mother reflect regret hour rib uphold spy mansion floor actress add skill";

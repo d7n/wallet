@@ -1,1 +1,1 @@
-var mnemonic = "arrest alley soon script verify galaxy update cigar target salute raven sweet";
+var mnemonic = "stage seat rival giggle response cause secret nest rebel wage inherit private";

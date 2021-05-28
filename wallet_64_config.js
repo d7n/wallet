@@ -1,1 +1,1 @@
-var mnemonic = "citizen fresh dinosaur crawl endless end that inmate equal stand basket second";
+var mnemonic = "control shed surface base gloom joke bird edit jazz enact arrive buzz";

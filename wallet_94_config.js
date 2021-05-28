@@ -1,1 +1,1 @@
-var mnemonic = "silk lend one chaos oblige bleak poverty high chunk bridge remain dwarf";
+var mnemonic = "cake best magnet output large make resource draw flip ticket approve loan";

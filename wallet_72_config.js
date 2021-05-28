@@ -1,1 +1,1 @@
-var mnemonic = "metal cereal rally claw enhance muscle clinic sniff record chuckle worth repair";
+var mnemonic = "body asset stone surface jacket wide panic rotate leg citizen inquiry good";

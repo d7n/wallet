@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo grant lazy actual dice laptop dignity lawsuit resist amused transfer empty";
+var mnemonic = "barely cabin cruel stone useful nominee ensure road soldier census leaf among";

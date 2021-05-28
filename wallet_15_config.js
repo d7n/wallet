@@ -1,1 +1,1 @@
-var mnemonic = "light word venue fiction net among cheese kitchen matrix genre surround box";
+var mnemonic = "hint lounge spice brisk bring strong cook inner final sauce delay obey";

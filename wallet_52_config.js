@@ -1,1 +1,1 @@
-var mnemonic = "come sight pass chat another hurt suit moon ketchup hint reward truth";
+var mnemonic = "claw pelican step favorite awkward depend february bomb wasp kite try output";

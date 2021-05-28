@@ -1,1 +1,1 @@
-var mnemonic = "elite orient expand alpha vault fatigue hard sad pilot whip magnet room";
+var mnemonic = "produce auction sauce cry rent skate acquire print absorb girl garment chronic";

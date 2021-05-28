@@ -1,1 +1,1 @@
-var mnemonic = "nest call mask security oval minor save keen ski spread output slender";
+var mnemonic = "example gasp air pulp nurse pudding lend into vibrant material bulk funny";

@@ -1,1 +1,1 @@
-var mnemonic = "member couple zero private bacon upper ring wire salt season embody wreck";
+var mnemonic = "patient play ten miracle diagram refuse rubber toast notice rice question receive";

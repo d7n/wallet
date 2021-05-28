@@ -1,1 +1,1 @@
-var mnemonic = "usage arrive pull burden surprise bronze winner found defy loan fence leopard";
+var mnemonic = "prefer wage wide imitate fiber elder bunker insane dumb frog intact vacuum";

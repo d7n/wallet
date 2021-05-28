@@ -1,1 +1,1 @@
-var mnemonic = "undo rescue title ceiling phrase grant word drive sail surface cinnamon leaf";
+var mnemonic = "segment lady talk poem steak blouse seek rude discover dash fix goat";

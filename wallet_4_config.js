@@ -1,1 +1,1 @@
-var mnemonic = "inherit print spend army rack appear trouble make cheap client luxury cycle";
+var mnemonic = "announce nut spike end orbit banner confirm exhaust mention series stage laptop";

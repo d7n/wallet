@@ -1,1 +1,1 @@
-var mnemonic = "security net social ball surprise recall valve keen ginger voice trick stereo";
+var mnemonic = "wood furnace icon latin profit smooth blind pipe year scare consider zero";

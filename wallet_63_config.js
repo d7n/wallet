@@ -1,1 +1,1 @@
-var mnemonic = "gospel penalty best bench guilt grab fiber jeans mechanic fish keen absurd";
+var mnemonic = "genre drum staff unaware gun cabbage electric actor damp choose whip panel";

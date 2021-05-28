@@ -1,1 +1,1 @@
-var mnemonic = "spend purity advance soon anchor era either tank open uniform scrap debris";
+var mnemonic = "lens any oven junior injury tilt hurt creek weasel turn admit dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "sea afraid again you sibling smart sing horror before easily fiscal improve";
+var mnemonic = "whale taxi burger behind setup winter deny jaguar crisp such level length";

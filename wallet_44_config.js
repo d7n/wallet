@@ -1,1 +1,1 @@
-var mnemonic = "orphan term metal twist lesson pepper peanut vessel adult discover people off";
+var mnemonic = "tide useful route model clown enforce lemon people vicious fit place buzz";

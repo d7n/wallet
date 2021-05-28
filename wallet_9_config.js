@@ -1,1 +1,1 @@
-var mnemonic = "scorpion bench drastic scare drama rack ten grace acoustic cream domain quiz";
+var mnemonic = "letter vicious relief copy reunion journey cactus muffin usage burger recycle genre";

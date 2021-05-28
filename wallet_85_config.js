@@ -1,1 +1,1 @@
-var mnemonic = "valid tape annual salmon spoon cousin ecology tooth spoon matter push leg";
+var mnemonic = "kite canvas erupt ritual book example sea liquid window strategy myth romance";

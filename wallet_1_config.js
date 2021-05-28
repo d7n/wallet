@@ -1,1 +1,1 @@
-var mnemonic = "crouch category hole fold estate sheriff throw trouble various match west term";
+var mnemonic = "provide airport genre damp extra amateur humor hip expose dutch deal trigger";

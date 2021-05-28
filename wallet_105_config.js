@@ -1,1 +1,1 @@
-var mnemonic = "tennis year believe wave live magic original boil cloud wage auto upset";
+var mnemonic = "dizzy comfort pen slogan rapid sport core matrix color involve icon resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "census jump illegal tuna bind sister grape couch evidence course void scheme";
+var mnemonic = "estate reward lamp deliver harbor awkward powder soap enrich web cube coast";

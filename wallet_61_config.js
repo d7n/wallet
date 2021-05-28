@@ -1,1 +1,1 @@
-var mnemonic = "save stadium force toward piano bring cost position jelly stock treat rifle";
+var mnemonic = "flavor manual light glue bus finger worth nothing margin only whale pony";

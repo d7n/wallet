@@ -1,1 +1,1 @@
-var mnemonic = "oak wink six town rocket crucial dolphin twice pioneer material cluster main";
+var mnemonic = "genre sight nephew ripple sound fog moment mom myself random record motion";

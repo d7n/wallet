@@ -1,1 +1,1 @@
-var mnemonic = "century display wing join penalty nephew gas sample army fork battle steak";
+var mnemonic = "rescue imitate honey raven any mention destroy network panda behave parrot struggle";

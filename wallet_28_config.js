@@ -1,1 +1,1 @@
-var mnemonic = "repair reward boost glare face frozen recall flame milk ski warm only";
+var mnemonic = "interest nerve magic refuse stand cute grunt unfold document tiger fix asthma";

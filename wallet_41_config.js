@@ -1,1 +1,1 @@
-var mnemonic = "slight hub moral prison poem surge alter reduce gauge notable favorite gentle";
+var mnemonic = "please dynamic fresh isolate cloud throw decline salute plate slender media yard";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter close machine assist hurdle rule example canoe exhaust save cement evil";
+var mnemonic = "wise reason tennis enter sight inmate clean naive raw unlock toilet unable";

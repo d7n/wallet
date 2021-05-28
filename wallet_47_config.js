@@ -1,1 +1,1 @@
-var mnemonic = "label solid anchor expand keen exotic illegal major season coconut cabin song";
+var mnemonic = "hundred label fish buyer run until rotate sugar have learn earth ribbon";

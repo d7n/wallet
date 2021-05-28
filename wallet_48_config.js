@@ -1,1 +1,1 @@
-var mnemonic = "tunnel social latin choose robot across usual sorry apple bundle alarm pony";
+var mnemonic = "school human convince gloom owner glide race fly basket ask impose border";

@@ -1,1 +1,1 @@
-var mnemonic = "sister auction food near today round rescue file scout tattoo castle pepper";
+var mnemonic = "alter mimic demand town iron share bomb upset tool morning second switch";

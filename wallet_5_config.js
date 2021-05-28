@@ -1,1 +1,1 @@
-var mnemonic = "element there similar labor face below deny special agent number pear minute";
+var mnemonic = "now lyrics parade that basic joke pink humor clump repeat steel capital";

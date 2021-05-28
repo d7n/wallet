@@ -1,1 +1,1 @@
-var mnemonic = "topic mule skate million smile dial cricket welcome grow mixture misery mouse";
+var mnemonic = "machine door outside badge during puzzle pilot alley blue fuel scrub imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "weird stool rich regret marriage jelly jump rural car seat supreme universe";
+var mnemonic = "six guide wide welcome sugar monster fringe stereo pulp water unique iron";

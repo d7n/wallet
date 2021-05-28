@@ -1,1 +1,1 @@
-var mnemonic = "dawn release upgrade discover slow believe debate ice carry corn frog disagree";
+var mnemonic = "truck fan very become panda invite return face group limit slam program";

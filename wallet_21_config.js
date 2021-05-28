@@ -1,1 +1,1 @@
-var mnemonic = "chat firm include expose profit lady few amount team ship alpha much";
+var mnemonic = "camp sorry gain clean paddle pencil fantasy unknown bitter snow secret alpha";

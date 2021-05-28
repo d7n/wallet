@@ -1,1 +1,1 @@
-var mnemonic = "ocean fame dismiss way poverty spread tiger divert empower mobile outdoor render";
+var mnemonic = "egg laundry govern cup season onion pilot student depart photo expire unlock";

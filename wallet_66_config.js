@@ -1,1 +1,1 @@
-var mnemonic = "biology price talent soldier dutch session inquiry trade left swamp tide clap";
+var mnemonic = "differ prosper pill region armor frame exhibit project mushroom drum cycle cake";

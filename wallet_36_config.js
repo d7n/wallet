@@ -1,1 +1,1 @@
-var mnemonic = "radio clay worry child alien bullet roast reunion tissue mixed deer theme";
+var mnemonic = "elder regret impact meat emotion recall boat base witness unfold admit walk";

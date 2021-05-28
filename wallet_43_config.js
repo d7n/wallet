@@ -1,1 +1,1 @@
-var mnemonic = "north apart stairs beach property kiwi resist chair slim myth blue guitar";
+var mnemonic = "scan library hurdle myth can cool wrist major become insect rabbit mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "version spice sign man prefer shallow mutual blur purpose voice sadness leisure";
+var mnemonic = "silver argue fatal range sustain loud nest squirrel police latin install nest";

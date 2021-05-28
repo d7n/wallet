@@ -1,1 +1,1 @@
-var mnemonic = "universe normal risk middle change author edit announce select couch weird festival";
+var mnemonic = "brown garden divorce faculty nerve drip crush calm cart ski hole interest";

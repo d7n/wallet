@@ -1,1 +1,1 @@
-var mnemonic = "notice harvest exotic silent social clock arrive acoustic rifle skill weasel cube";
+var mnemonic = "pull switch differ day base ski melody base cage puzzle session twin";

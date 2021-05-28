@@ -1,1 +1,1 @@
-var mnemonic = "bike rude lamp umbrella nation melt cactus rigid fortune into brief meat";
+var mnemonic = "acid magnet tortoise wood print possible sample brush display eyebrow waste awkward";

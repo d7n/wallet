@@ -1,1 +1,1 @@
-var mnemonic = "genuine charge federal favorite tree can tip shield arctic detail daughter wear";
+var mnemonic = "hub recall purpose baby crazy solar salute come tumble celery indicate flee";

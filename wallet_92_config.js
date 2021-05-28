@@ -1,1 +1,1 @@
-var mnemonic = "actor stereo athlete cycle axis mercy liquid bridge glad local hedgehog mother";
+var mnemonic = "film over fiber argue urban bone journey model term often shuffle skin";

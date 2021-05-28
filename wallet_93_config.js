@@ -1,1 +1,1 @@
-var mnemonic = "woman hundred erase tube match sure novel actor appear whip uncle ocean";
+var mnemonic = "visual bench legend march dry slush give brown produce toward perfect before";

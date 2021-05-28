@@ -1,1 +1,1 @@
-var mnemonic = "mandate number maze work glow cement course sad illegal spin elite area";
+var mnemonic = "ramp parrot poet improve glass address rally skirt annual dish puppy whale";

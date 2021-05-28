@@ -1,1 +1,1 @@
-var mnemonic = "meat cattle multiply jump bundle blade lonely plate recipe stock north dose";
+var mnemonic = "ostrich slice unique grab horn bulk direct air gain sport romance awesome";

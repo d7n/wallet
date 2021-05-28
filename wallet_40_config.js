@@ -1,1 +1,1 @@
-var mnemonic = "marine element obtain attitude yard heart cream early outdoor mean garlic luxury";
+var mnemonic = "secret diamond mandate leave faculty ginger animal security ask example lucky napkin";

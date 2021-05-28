@@ -1,1 +1,1 @@
-var mnemonic = "expand meadow loop uncover churn plunge explain woman salon indoor panic crop";
+var mnemonic = "bitter worth tragic garlic defy skirt cycle claw vanish combine pilot provide";

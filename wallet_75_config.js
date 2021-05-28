@@ -1,1 +1,1 @@
-var mnemonic = "basket author match food consider champion prepare link narrow addict engage system";
+var mnemonic = "topple judge tray hurdle return used ready awkward twin sing pitch satoshi";

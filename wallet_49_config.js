@@ -1,1 +1,1 @@
-var mnemonic = "error pelican victory toy dilemma master insect inhale ladder rare harsh leopard";
+var mnemonic = "pistol cycle almost then twenty pretty trumpet agree birth long bean discover";

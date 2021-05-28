@@ -1,1 +1,1 @@
-var mnemonic = "capital what grape donor feel illegal ticket magnet pole surge ancient rival";
+var mnemonic = "champion news hold average lab vague tower diary attract infant approve hour";

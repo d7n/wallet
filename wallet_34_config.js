@@ -1,1 +1,1 @@
-var mnemonic = "buzz vapor impulse marble tattoo memory label catch crawl public execute attract";
+var mnemonic = "team ball cheese lobster list casual sell goat reopen radio pumpkin senior";

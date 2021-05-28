@@ -1,1 +1,1 @@
-var mnemonic = "page affair ski powder choice celery aunt physical enlist present drum nation";
+var mnemonic = "borrow people image mandate side favorite spray era witness then manual viable";
