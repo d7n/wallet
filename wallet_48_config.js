@@ -1,1 +1,1 @@
-var mnemonic = "sister pottery vessel exact dutch wish brain cram zebra jacket review belt";
+var mnemonic = "soft combine cheap lens home crane riot dove either similar excuse nest";

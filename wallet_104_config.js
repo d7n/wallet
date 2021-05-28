@@ -1,1 +1,1 @@
-var mnemonic = "penalty economy eye wealth boil brief cry mansion shaft twelve mansion wagon";
+var mnemonic = "cram glide smooth short mansion hood lion enter pony clarify flash tail";

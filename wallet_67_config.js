@@ -1,1 +1,1 @@
-var mnemonic = "movie maid pledge pole impulse ripple tube hero illegal later noodle tackle";
+var mnemonic = "culture typical hope extra soon dentist essay butter wisdom paddle mammal impact";

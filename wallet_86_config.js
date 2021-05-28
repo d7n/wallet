@@ -1,1 +1,1 @@
-var mnemonic = "about total zoo ski beyond oak grain banner churn fortune rubber huge";
+var mnemonic = "happy only toe chuckle buyer return slide light crowd ahead milk answer";

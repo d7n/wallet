@@ -1,1 +1,1 @@
-var mnemonic = "spatial pistol token wide vacuum check effort project suggest blast laundry wait";
+var mnemonic = "bag ticket close mail fine vehicle cool agree spice churn ostrich nephew";

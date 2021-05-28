@@ -1,1 +1,1 @@
-var mnemonic = "earn zebra immense poem derive fruit beauty avoid curious width envelope figure";
+var mnemonic = "post soldier dad interest bind tone collect dad merge adult wink fee";

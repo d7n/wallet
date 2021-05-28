@@ -1,1 +1,1 @@
-var mnemonic = "fly share inner tunnel media armed music company moon hint mobile illness";
+var mnemonic = "elevator laptop access glue resist prosper quit arm pipe limb sand icon";

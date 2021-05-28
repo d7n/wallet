@@ -1,1 +1,1 @@
-var mnemonic = "gun insect shove fatigue cabbage bean alarm book throw head girl drill";
+var mnemonic = "ignore wisdom noble cradle letter saddle just cigar river present six pole";

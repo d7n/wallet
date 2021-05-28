@@ -1,1 +1,1 @@
-var mnemonic = "actor turn deny trial admit force veteran explain puzzle lawn valid drum";
+var mnemonic = "nest gentle discover siren circle price goddess consider chimney reward call inner";

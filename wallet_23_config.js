@@ -1,1 +1,1 @@
-var mnemonic = "remain action quick pulse tissue cost method assist print corn immense enter";
+var mnemonic = "impact assault lock target tired uncover result crazy much piano bulb motor";

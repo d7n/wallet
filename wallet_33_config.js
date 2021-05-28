@@ -1,1 +1,1 @@
-var mnemonic = "post space oak try output boy canal despair add give keep own";
+var mnemonic = "entry film ill panic price noble once click afford uncover measure tongue";

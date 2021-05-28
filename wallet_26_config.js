@@ -1,1 +1,1 @@
-var mnemonic = "task auction good library unique eye aunt sketch right party second seven";
+var mnemonic = "toward ankle grain gas hat punch alcohol clarify truth such figure huge";

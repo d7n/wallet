@@ -1,1 +1,1 @@
-var mnemonic = "glass stone blanket laugh will laundry entry region rabbit basket nice pair";
+var mnemonic = "final urban extra lemon cushion reveal slow sample monster topic front case";

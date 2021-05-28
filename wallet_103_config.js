@@ -1,1 +1,1 @@
-var mnemonic = "amount trumpet modify rescue tank planet six service under country pear middle";
+var mnemonic = "rug expand oval thunder drastic pave scheme kind balance engage dash hire";

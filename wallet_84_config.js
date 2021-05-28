@@ -1,1 +1,1 @@
-var mnemonic = "chuckle spider flash copy muscle hotel ignore unit nominee piece cattle foil";
+var mnemonic = "awful soul exotic burger submit involve expire eagle snake weird cheese another";

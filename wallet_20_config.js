@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur carry rifle staff loop orient disagree tool bar exit explain essay";
+var mnemonic = "bubble usual flat chase chief mansion verb toe castle amazing clip educate";

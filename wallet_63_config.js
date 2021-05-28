@@ -1,1 +1,1 @@
-var mnemonic = "morning video rocket tip worth hidden display wood enroll army still neutral";
+var mnemonic = "true churn melt glare dove bachelor engine original lucky among decline oak";

@@ -1,1 +1,1 @@
-var mnemonic = "lend slab tree cover misery ostrich limit heavy decorate else profit ability";
+var mnemonic = "video must easy glow region regret scale congress primary yard brain april";

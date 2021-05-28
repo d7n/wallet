@@ -1,1 +1,1 @@
-var mnemonic = "give human labor candy unveil youth neutral comic disease snake vicious trap";
+var mnemonic = "dog girl toward armed already volcano giant figure fat crowd dance dove";

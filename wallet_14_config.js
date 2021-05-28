@@ -1,1 +1,1 @@
-var mnemonic = "wagon immense hurry account tray defense cave van absorb inspire few loud";
+var mnemonic = "public verify six enemy stool vicious alpha include endless shaft material annual";

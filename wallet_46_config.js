@@ -1,1 +1,1 @@
-var mnemonic = "ski rate oppose chimney shoe steel nephew route faculty picture buzz lazy";
+var mnemonic = "dash festival manage lizard head cream dolphin pyramid urban float fetch drop";

@@ -1,1 +1,1 @@
-var mnemonic = "odor perfect drink cattle sauce airport bounce life metal because raw feel";
+var mnemonic = "happy grab school twenty panda captain donkey sweet benefit orchard fashion ladder";

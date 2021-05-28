@@ -1,1 +1,1 @@
-var mnemonic = "alley forest across people hundred wheel talk vanish lawn purity accuse duty";
+var mnemonic = "leaf skin duty cannon sketch oval evil earn legend track void valid";

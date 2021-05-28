@@ -1,1 +1,1 @@
-var mnemonic = "cargo venture cake climb soda cable track aunt walnut theme tongue lava";
+var mnemonic = "tide soap announce shuffle accuse civil outdoor another resource exact across awful";

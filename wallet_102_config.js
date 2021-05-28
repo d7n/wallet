@@ -1,1 +1,1 @@
-var mnemonic = "trust honey carbon bus sign concert auto brave ladder room magic police";
+var mnemonic = "decorate duty parrot dove vague junk hockey title tumble empty copper quit";

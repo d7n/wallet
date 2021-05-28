@@ -1,1 +1,1 @@
-var mnemonic = "balance arctic ordinary lady firm defense slot winter pulse glue relax vault";
+var mnemonic = "youth garment course sight hotel have develop fever jeans crop acoustic coast";

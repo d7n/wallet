@@ -1,1 +1,1 @@
-var mnemonic = "abstract awful extra awesome very copper version bar liquid permit token segment";
+var mnemonic = "know light bring below luxury repair chief cheese boost fat topple involve";

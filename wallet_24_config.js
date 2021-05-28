@@ -1,1 +1,1 @@
-var mnemonic = "mad drift boost conduct arctic lobster list learn situate feed worry enrich";
+var mnemonic = "frown ridge rule enemy bus silk away side thought shuffle zone guide";

@@ -1,1 +1,1 @@
-var mnemonic = "chef bubble clock shoe ski toast orbit slab easy yellow wedding rib";
+var mnemonic = "milk green verify blouse crane length floor venue between quiz soul remove";

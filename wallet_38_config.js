@@ -1,1 +1,1 @@
-var mnemonic = "video net cover stem wrestle must tongue ostrich hard execute roast similar";
+var mnemonic = "blood clog clever payment place wet crawl install notice thrive month scissors";

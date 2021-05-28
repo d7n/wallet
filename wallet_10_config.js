@@ -1,1 +1,1 @@
-var mnemonic = "pitch street disorder response helmet feature glow nothing buzz gesture leaf when";
+var mnemonic = "jar swear purchase immune hover story exhibit horror wrestle inhale script viable";

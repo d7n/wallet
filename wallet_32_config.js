@@ -1,1 +1,1 @@
-var mnemonic = "raccoon lion garment nominee napkin trophy coast behind proof party spoil keep";
+var mnemonic = "anxiety hood element clump volume never network thank ancient will balance often";

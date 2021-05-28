@@ -1,1 +1,1 @@
-var mnemonic = "alcohol father jazz assist rabbit scare runway fix thank discover doll that";
+var mnemonic = "layer subject raven mad auction patrol toe rigid emerge chat add bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "entire foster divert flavor old again aerobic garment choose swear hero hire";
+var mnemonic = "prevent review subway myself suspect habit dolphin yard describe bus stamp consider";

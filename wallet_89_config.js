@@ -1,1 +1,1 @@
-var mnemonic = "decorate culture adult priority umbrella like provide grape antenna autumn mammal volume";
+var mnemonic = "knock stool buffalo aspect sock sell key canvas food depend legal govern";

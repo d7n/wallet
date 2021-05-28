@@ -1,1 +1,1 @@
-var mnemonic = "chat alien donkey daring spatial ticket warm helmet faint ignore addict trap";
+var mnemonic = "arrow helmet clap confirm patrol moral bachelor best scissors exact winner april";

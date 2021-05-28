@@ -1,1 +1,1 @@
-var mnemonic = "doctor escape bounce goat amused fuel glance air top jealous barely clog";
+var mnemonic = "click section skull rebel thought fit space device spawn youth gas crime";

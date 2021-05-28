@@ -1,1 +1,1 @@
-var mnemonic = "dose finger ostrich lift clay space tattoo item private ketchup swing edge";
+var mnemonic = "maze shine olympic chimney magic magnet dad egg normal citizen bridge tell";

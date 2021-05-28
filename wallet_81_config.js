@@ -1,1 +1,1 @@
-var mnemonic = "again woman minute because language fine acoustic cross dune medal typical liquid";
+var mnemonic = "youth palm gasp gadget enforce balance upset foil cost panic rifle grow";

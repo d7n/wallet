@@ -1,1 +1,1 @@
-var mnemonic = "mouse grunt again pear essay duty tent valid divert smooth slush enlist";
+var mnemonic = "shield fashion primary label quantum glass brass paper neutral gauge gospel flight";

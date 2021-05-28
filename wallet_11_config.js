@@ -1,1 +1,1 @@
-var mnemonic = "travel mule attend jazz cruel maid forum one drill actress picnic eye";
+var mnemonic = "message hundred pulse prevent flag fluid often letter smile gate water abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "improve drive rigid license smoke party sort soda baby fade shrug soldier";
+var mnemonic = "avocado kick forest process tiny country control green path still key cave";

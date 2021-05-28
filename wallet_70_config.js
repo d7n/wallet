@@ -1,1 +1,1 @@
-var mnemonic = "much great state length garment start treat fragile second tornado strong people";
+var mnemonic = "hidden lamp rain mix when toy lava oyster kite excess cruise february";

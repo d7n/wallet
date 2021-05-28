@@ -1,1 +1,1 @@
-var mnemonic = "eager top law sausage palm seek cement quantum disease entry trust trash";
+var mnemonic = "attitude neglect wall century advance creek baby faculty sausage march insane vehicle";

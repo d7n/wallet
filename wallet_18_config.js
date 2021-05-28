@@ -1,1 +1,1 @@
-var mnemonic = "mushroom people apart increase solid two zone upon soccer mystery wrist able";
+var mnemonic = "hidden canal tell pelican inspire project rally congress syrup mandate prefer ripple";

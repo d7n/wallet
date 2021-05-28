@@ -1,1 +1,1 @@
-var mnemonic = "album awkward artist lava slim indicate seed work job canvas glimpse initial";
+var mnemonic = "rich spot option version subway carbon sentence rural devote alien doctor cargo";

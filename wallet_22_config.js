@@ -1,1 +1,1 @@
-var mnemonic = "logic suffer project coyote sting magic address judge blouse deliver disagree ranch";
+var mnemonic = "maple property lucky regret similar oil orange skate penalty will art thrive";

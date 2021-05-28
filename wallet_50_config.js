@@ -1,1 +1,1 @@
-var mnemonic = "improve wheat grass fiction laugh cage drive one flash century worry neutral";
+var mnemonic = "tennis kingdom secret language night super mango original rifle stomach twin orbit";

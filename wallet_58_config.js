@@ -1,1 +1,1 @@
-var mnemonic = "despair oil blood economy cannon chronic finish swamp quit include load order";
+var mnemonic = "will mansion verify basket valley negative they educate crystal effort street library";

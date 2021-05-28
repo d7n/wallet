@@ -1,1 +1,1 @@
-var mnemonic = "old envelope sound glue super artefact topic biology rhythm receive pool consider";
+var mnemonic = "cruel nasty item tone artwork picture clip focus wrap tunnel hire axis";

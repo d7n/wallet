@@ -1,1 +1,1 @@
-var mnemonic = "wrist tennis same broken teach obtain cloth earth zoo private frog floor";
+var mnemonic = "lyrics still dog tiger own tumble multiply soft thank air tunnel tenant";

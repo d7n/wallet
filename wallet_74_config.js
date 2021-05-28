@@ -1,1 +1,1 @@
-var mnemonic = "please shadow treat theme ghost resemble devote stock random suspect shoot carbon";
+var mnemonic = "loyal insane round spin wood receive aunt divorce chase update saddle net";

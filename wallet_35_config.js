@@ -1,1 +1,1 @@
-var mnemonic = "distance switch toss vivid swarm tip wood lecture ethics essay october neglect";
+var mnemonic = "castle dice lumber orange steel always edit pride brown weasel siege maximum";

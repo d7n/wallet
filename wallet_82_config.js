@@ -1,1 +1,1 @@
-var mnemonic = "meat theory town pyramid neither frown tonight earth web floor train toward";
+var mnemonic = "very enroll spatial alter august supply bid lion belt clean ball once";

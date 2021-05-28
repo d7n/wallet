@@ -1,1 +1,1 @@
-var mnemonic = "lab dog maximum cash defense tackle tomato law beyond security history brain";
+var mnemonic = "double myself ill find thunder tattoo pear harsh thought card mom rural";

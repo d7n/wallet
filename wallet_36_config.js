@@ -1,1 +1,1 @@
-var mnemonic = "dinner steel shine weather what hello social verify exhibit daughter dove evolve";
+var mnemonic = "hair elbow sea captain begin youth timber bronze cushion purity case whale";

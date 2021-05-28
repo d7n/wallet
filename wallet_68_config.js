@@ -1,1 +1,1 @@
-var mnemonic = "private leg depend fault tribe jealous wealth labor opera resist regular hobby";
+var mnemonic = "puppy jealous level below sample board awesome edit anchor alarm acoustic minor";

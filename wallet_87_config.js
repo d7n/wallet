@@ -1,1 +1,1 @@
-var mnemonic = "rifle spread symptom wall defy remove cushion valley coral note film forget";
+var mnemonic = "wash more behind omit retire call sheriff action crunch supply mobile more";

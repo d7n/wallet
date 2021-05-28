@@ -1,1 +1,1 @@
-var mnemonic = "spoil upper subject life nose jeans surface stone together ocean buffalo dash";
+var mnemonic = "unit benefit mixed danger donate hope city crane jelly alien tiny auction";

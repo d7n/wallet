@@ -1,1 +1,1 @@
-var mnemonic = "idle gift current net hold urge page hybrid basic moral lake peace";
+var mnemonic = "train upset suggest river adapt bachelor vast beauty regret carbon error fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "liar clump nephew topple orient cram jump pipe cheap alien better paddle";
+var mnemonic = "retire plug angle usual immense check uncover hundred column rack entry skill";

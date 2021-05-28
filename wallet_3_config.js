@@ -1,1 +1,1 @@
-var mnemonic = "grid sample fresh blanket crystal sure traffic cotton derive write box volume";
+var mnemonic = "session wealth once beach reform clinic stick wrong extra trash unaware minor";

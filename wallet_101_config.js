@@ -1,1 +1,1 @@
-var mnemonic = "control main blouse theory release gossip swing divert total spell calm pet";
+var mnemonic = "game critic chat crater twelve across truth nest dinosaur drive fabric scatter";

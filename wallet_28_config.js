@@ -1,1 +1,1 @@
-var mnemonic = "private find other talent lounge vacuum team fine render soup hedgehog champion";
+var mnemonic = "enlist lava witness final jealous wish glance shadow rifle maximum spread ill";

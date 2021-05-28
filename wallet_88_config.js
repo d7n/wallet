@@ -1,1 +1,1 @@
-var mnemonic = "pelican buzz side virus crystal erosion car donor resource couple duty erupt";
+var mnemonic = "goose promote attitude property skin reform citizen double nerve cannon document orient";

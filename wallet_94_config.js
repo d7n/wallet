@@ -1,1 +1,1 @@
-var mnemonic = "snow bounce private spice please twist liberty cake amazing notice vault isolate";
+var mnemonic = "frozen lend wagon angle cloud immense merry clap unlock very faith parrot";

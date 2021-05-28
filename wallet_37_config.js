@@ -1,1 +1,1 @@
-var mnemonic = "path tomato people destroy sausage walk ice globe mixed pen swear grape";
+var mnemonic = "enjoy obvious possible switch output heart humble cloud fun normal wrap post";

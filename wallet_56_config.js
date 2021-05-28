@@ -1,1 +1,1 @@
-var mnemonic = "glimpse milk foil bone brown unhappy veteran club mutual file story wall";
+var mnemonic = "morning story gesture army tomato sail stay author shock window deer heart";

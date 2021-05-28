@@ -1,1 +1,1 @@
-var mnemonic = "brown believe merge rescue sand engine subway size wine twelve cream drink";
+var mnemonic = "joy dawn hope shallow able gorilla welcome sense process vicious trumpet pizza";

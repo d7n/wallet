@@ -1,1 +1,1 @@
-var mnemonic = "piano cigar leopard warm verify slice predict chat owner mean state burst";
+var mnemonic = "moral copper narrow width citizen aware atom crush regular taste fog equal";

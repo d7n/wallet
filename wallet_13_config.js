@@ -1,1 +1,1 @@
-var mnemonic = "lounge chuckle acid problem label sadness normal inherit sweet either furnace dirt";
+var mnemonic = "injury dynamic dolphin push empower gospel canoe dust lady cactus ride genius";

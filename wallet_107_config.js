@@ -1,1 +1,1 @@
-var mnemonic = "frown hamster muffin economy into title tiny stock parade river life advance";
+var mnemonic = "erase month city remember wrong nuclear scrap deal awful busy goat unveil";

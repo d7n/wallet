@@ -1,1 +1,1 @@
-var mnemonic = "debris sting lab remind sauce camp bulk piece leader apology claim purchase";
+var mnemonic = "outer cheap cave pupil rocket symbol curtain soda help food bubble rapid";

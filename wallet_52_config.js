@@ -1,1 +1,1 @@
-var mnemonic = "wine task choose maximum invest spell lift because swallow flower regular lunar";
+var mnemonic = "illegal beach medal task example round olympic rescue gym hidden hope brass";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior choice lava raw motor glass biology upgrade tag swarm season essay";
+var mnemonic = "hire glad veteran couch orbit spread shock wrestle ivory stage first shell";

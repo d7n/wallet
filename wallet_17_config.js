@@ -1,1 +1,1 @@
-var mnemonic = "estate have vast local motor talk kid inner express envelope once drum";
+var mnemonic = "tissue motor pencil art attitude purchase fitness tired dilemma scissors surge loud";

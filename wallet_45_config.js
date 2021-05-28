@@ -1,1 +1,1 @@
-var mnemonic = "excess course idle illegal sure enroll move hill boost destroy host salute";
+var mnemonic = "often express fire paper predict tree library parrot swim brisk alone ask";

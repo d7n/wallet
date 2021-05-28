@@ -1,1 +1,1 @@
-var mnemonic = "pyramid pudding then choose giggle strike host summer fade practice invite wrong";
+var mnemonic = "return hawk minute report category enter scorpion jewel occur bridge crystal palace";

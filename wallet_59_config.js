@@ -1,1 +1,1 @@
-var mnemonic = "ranch bounce task chase cross lion earn write tool idle state frequent";
+var mnemonic = "letter inject record ranch leg sense vibrant avoid increase memory hurry initial";

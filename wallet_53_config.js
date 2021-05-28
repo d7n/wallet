@@ -1,1 +1,1 @@
-var mnemonic = "hip shuffle piece situate dream glass toward unusual peanut inhale nurse vicious";
+var mnemonic = "space upgrade blind goose soldier opinion bleak corn bench image health liquid";

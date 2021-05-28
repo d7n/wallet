@@ -1,1 +1,1 @@
-var mnemonic = "repair heart motion swim pattern garage expand march marriage bubble electric resource";
+var mnemonic = "pause weather puppy pass reduce girl denial clown swift salute mind range";

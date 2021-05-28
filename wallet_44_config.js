@@ -1,1 +1,1 @@
-var mnemonic = "bubble world manage logic degree burger method bleak autumn focus rich accident";
+var mnemonic = "manage celery width month under viable olive camera what oven reason shy";

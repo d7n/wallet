@@ -1,1 +1,1 @@
-var mnemonic = "twin wolf turn mix enroll ball lift awkward arrange curious neither cry";
+var mnemonic = "tomato neither dinner sample abandon mystery amazing junior laundry release ancient seek";

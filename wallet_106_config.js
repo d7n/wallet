@@ -1,1 +1,1 @@
-var mnemonic = "basket arena alpha urban kite unknown burden scorpion ahead domain forum birth";
+var mnemonic = "report group pave room episode stumble cost demise soda beyond unhappy pulp";

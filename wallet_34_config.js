@@ -1,1 +1,1 @@
-var mnemonic = "allow amazing alter keen shell average snake crop same filter inner injury";
+var mnemonic = "rally fence dance area paper render any prepare sausage kit potato spare";

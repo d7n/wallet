@@ -1,1 +1,1 @@
-var mnemonic = "measure sea believe winter flavor warfare umbrella mask soul already replace impulse";
+var mnemonic = "memory bleak web mind rebel city gate city smart deer pulp where";

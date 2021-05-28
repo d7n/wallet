@@ -1,1 +1,1 @@
-var mnemonic = "category misery brother thumb response fashion letter oil number improve motion relax";
+var mnemonic = "project manual remove foster bracket throw uphold humble stage spend know wash";
