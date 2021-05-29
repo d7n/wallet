@@ -1,1 +1,1 @@
-var mnemonic = "dilemma parent chat ball half phrase palm island breeze frequent open letter";
+var mnemonic = "attitude maple arrest quote jungle owner empower must square razor connect pulse";

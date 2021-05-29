@@ -1,1 +1,1 @@
-var mnemonic = "allow purse away volcano balance animal happy giraffe entire number divert wreck";
+var mnemonic = "nice trumpet afford rare crane salmon fatigue dwarf bright chair quiz clip";

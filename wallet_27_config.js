@@ -1,1 +1,1 @@
-var mnemonic = "tide claw ketchup concert faith flight penalty wall normal lemon motor fog";
+var mnemonic = "reveal toss kit damage fabric square arrange elbow subject impact naive when";

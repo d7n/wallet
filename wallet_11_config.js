@@ -1,1 +1,1 @@
-var mnemonic = "victory tape blanket banner pyramid heart cereal jewel jaguar horn island pass";
+var mnemonic = "echo tool two giraffe fun liberty hire make figure core dog tired";

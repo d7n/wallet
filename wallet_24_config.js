@@ -1,1 +1,1 @@
-var mnemonic = "husband label resemble detect embark depth silly fox produce weird adult october";
+var mnemonic = "humor outer predict romance feature neck force mimic height around example man";

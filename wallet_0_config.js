@@ -1,1 +1,1 @@
-var mnemonic = "energy turtle museum cheap company push jaguar bunker machine advance fruit science";
+var mnemonic = "adapt slight link bottom any youth because column damage security beauty snow";

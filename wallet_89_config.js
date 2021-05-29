@@ -1,1 +1,1 @@
-var mnemonic = "junk keep demise man vehicle vanish soul demand miracle path trumpet spice";
+var mnemonic = "virus illegal olive roast coyote pelican width rate satisfy decrease month hire";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal come proof live reveal feed amateur excess service plate portion gorilla";
+var mnemonic = "nurse decline deliver approve month urge inhale excess horse grab thumb melody";

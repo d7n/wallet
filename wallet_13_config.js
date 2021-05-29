@@ -1,1 +1,1 @@
-var mnemonic = "nuclear sweet thrive sort clock execute dumb thought advance kiss glass melt";
+var mnemonic = "bright retire course broom intact burden twice floor target salad opinion cousin";

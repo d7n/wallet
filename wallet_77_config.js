@@ -1,1 +1,1 @@
-var mnemonic = "turn horse scene thing evil rule nurse slam slice giant brief physical";
+var mnemonic = "safe catalog clap manage glare odor source loyal emerge awkward side math";

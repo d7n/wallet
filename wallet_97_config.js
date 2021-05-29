@@ -1,1 +1,1 @@
-var mnemonic = "clip now tip purchase need close remember ancient slim bacon moon fringe";
+var mnemonic = "rotate casino boss project salad submit marine hair canyon save shoulder flee";

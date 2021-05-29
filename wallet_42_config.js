@@ -1,1 +1,1 @@
-var mnemonic = "win tell fish casino swim vault credit lucky borrow learn apology crazy";
+var mnemonic = "index price ghost task execute unfold spell okay accuse attract tribe height";

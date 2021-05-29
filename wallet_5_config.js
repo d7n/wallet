@@ -1,1 +1,1 @@
-var mnemonic = "degree urban boy thank attend equip arrange skull risk purpose glass winner";
+var mnemonic = "twin almost farm lucky risk doctor anchor canvas galaxy mammal leave borrow";

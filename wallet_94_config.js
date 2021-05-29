@@ -1,1 +1,1 @@
-var mnemonic = "tilt electric black stomach try believe surround lens what ceiling enemy cupboard";
+var mnemonic = "mountain fortune casual crush embrace crazy before feel pink wood cook north";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel exile damage skill dolphin umbrella brown option win sauce drama wink";
+var mnemonic = "inmate renew record sweet mean fault eight appear coin unusual museum pair";

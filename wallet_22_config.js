@@ -1,1 +1,1 @@
-var mnemonic = "that acoustic faint autumn cannon head aspect report path obtain lock page";
+var mnemonic = "utility tower math put warfare sugar tiger focus move sing tackle play";

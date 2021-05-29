@@ -1,1 +1,1 @@
-var mnemonic = "choice defy clean amazing describe change genre summer sign same angry reopen";
+var mnemonic = "pear tomato dumb elevator cycle bridge deposit jealous basic fossil grace scheme";

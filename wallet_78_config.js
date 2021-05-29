@@ -1,1 +1,1 @@
-var mnemonic = "outdoor arm head collect exclude kick sport outside bean unaware collect silver";
+var mnemonic = "hill object monitor digital gap hero priority neutral price nest voice farm";

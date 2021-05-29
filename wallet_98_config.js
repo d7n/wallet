@@ -1,1 +1,1 @@
-var mnemonic = "artwork hero pill bullet twist magic risk profit wear arch decrease damp";
+var mnemonic = "check bubble circle advance mobile produce buddy replace brass bean payment north";

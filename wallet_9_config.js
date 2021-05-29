@@ -1,1 +1,1 @@
-var mnemonic = "lonely result barrel usual update spoon vehicle twin return tornado fly chief";
+var mnemonic = "dial spend elite gap chief topic during grow mask aerobic quantum venue";

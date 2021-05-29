@@ -1,1 +1,1 @@
-var mnemonic = "front spell tuition slender motion notice sun symptom else satisfy conduct clog";
+var mnemonic = "embody antenna ceiling flush erosion session like dirt ten just cart team";

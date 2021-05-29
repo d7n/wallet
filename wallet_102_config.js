@@ -1,1 +1,1 @@
-var mnemonic = "slam time treat steak speak valid dad kid casual grace delay surface";
+var mnemonic = "crop sniff palm company ghost planet sister stand pizza income office rocket";

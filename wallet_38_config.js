@@ -1,1 +1,1 @@
-var mnemonic = "bleak castle approve film guilt rigid deny tired identify fold fat laugh";
+var mnemonic = "wagon echo ceiling train lift monkey suggest zebra trim remove fence there";

@@ -1,1 +1,1 @@
-var mnemonic = "ice idea unknown scrap window exact demand impulse guitar shy parade maze";
+var mnemonic = "nose turkey dirt message stem enemy monkey neither silk fan busy filter";

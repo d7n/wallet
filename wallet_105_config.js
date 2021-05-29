@@ -1,1 +1,1 @@
-var mnemonic = "yellow expect series action glass regular wink soul flock click raise emotion";
+var mnemonic = "reunion essay picture layer day list sadness chronic theme paddle hidden gate";

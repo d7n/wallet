@@ -1,1 +1,1 @@
-var mnemonic = "board pelican frequent stock blind burger recall aerobic body shallow father traffic";
+var mnemonic = "rain say injury jaguar huge raw stereo member pumpkin dignity lobster into";

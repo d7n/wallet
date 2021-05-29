@@ -1,1 +1,1 @@
-var mnemonic = "tumble maid differ believe twenty special grocery host note right thumb curious";
+var mnemonic = "hover keen galaxy explain broccoli rug snake betray zero concert obey swap";

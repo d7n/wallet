@@ -1,1 +1,1 @@
-var mnemonic = "purchase huge boring change throw replace dragon ugly short outside ability glue";
+var mnemonic = "furnace act primary mansion clutch present trap thank kite host slot prize";

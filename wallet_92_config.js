@@ -1,1 +1,1 @@
-var mnemonic = "vintage garment rally wood vivid human inquiry chronic fatigue echo brain cash";
+var mnemonic = "visit skin quiz payment visual frozen undo quit sure mom display tank";

@@ -1,1 +1,1 @@
-var mnemonic = "electric valid radar dice decorate adapt swear notice title nerve royal dolphin";
+var mnemonic = "mail brass refuse appear depend month science flush oil delay now legal";

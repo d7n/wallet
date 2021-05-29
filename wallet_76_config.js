@@ -1,1 +1,1 @@
-var mnemonic = "matter cradle purse joke trick avocado market exact jump test remove economy";
+var mnemonic = "diet dutch lion drip rate fiber midnight release decade gun grain romance";

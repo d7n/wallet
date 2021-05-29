@@ -1,1 +1,1 @@
-var mnemonic = "such sketch text creek govern sail peasant drum govern buddy decrease donkey";
+var mnemonic = "hobby next catch shock consider taste reject conduct toward inch lazy apology";

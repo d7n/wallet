@@ -1,1 +1,1 @@
-var mnemonic = "bulk crumble region leader scissors truly fashion divide one adult spring flower";
+var mnemonic = "uncle phone frozen session expand disease raw believe decide original aim exile";

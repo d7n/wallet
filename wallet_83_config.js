@@ -1,1 +1,1 @@
-var mnemonic = "sadness pen cook spring lava depart view possible stick also estate hybrid";
+var mnemonic = "armed draft news sight mountain business still blood vocal cage nothing rose";

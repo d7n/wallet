@@ -1,1 +1,1 @@
-var mnemonic = "taste crush bridge initial knock derive grunt tent polar oil popular slice";
+var mnemonic = "solve laugh stone echo square reunion health one evil word squeeze swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "special resemble region sun donate captain same phone update canvas unit knife";
+var mnemonic = "pen galaxy luxury sugar frozen lonely medal range wait frost survey science";

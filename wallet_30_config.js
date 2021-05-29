@@ -1,1 +1,1 @@
-var mnemonic = "oval critic never coffee glad choose glass region muscle canyon orchard truth";
+var mnemonic = "finish sunset since raw adjust raven update blue certain tired disagree tip";

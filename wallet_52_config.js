@@ -1,1 +1,1 @@
-var mnemonic = "hello census network grocery spot flame oil never maximum long step mansion";
+var mnemonic = "picnic genuine output leopard daughter flee rival system rather snake drama quarter";

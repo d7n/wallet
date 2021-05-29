@@ -1,1 +1,1 @@
-var mnemonic = "hope universe tobacco tumble real scrub athlete sense velvet pelican submit holiday";
+var mnemonic = "tag occur news circle oak nephew similar ski now acoustic cupboard goose";

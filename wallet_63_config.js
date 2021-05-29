@@ -1,1 +1,1 @@
-var mnemonic = "wine pumpkin tide photo dog legal stamp dry furnace cluster alert minor";
+var mnemonic = "attend lonely plastic opera brisk cause kidney month middle job glow image";

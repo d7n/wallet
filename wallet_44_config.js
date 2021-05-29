@@ -1,1 +1,1 @@
-var mnemonic = "injury daughter twin eye drum snow tumble witness ancient like oxygen keen";
+var mnemonic = "that joke party top bag vehicle siren observe always lumber define stage";

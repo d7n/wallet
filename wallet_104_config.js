@@ -1,1 +1,1 @@
-var mnemonic = "jewel setup mule sudden celery help visual cricket assist team muscle logic";
+var mnemonic = "basic isolate hope van lens axis logic talk unveil luxury open off";

@@ -1,1 +1,1 @@
-var mnemonic = "pair carbon crucial year muffin joy nerve illegal subway monkey scrap copy";
+var mnemonic = "giant spoil tray invite under candy athlete identify mind junior menu dad";

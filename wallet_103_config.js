@@ -1,1 +1,1 @@
-var mnemonic = "blind media accident pulp rigid actor armed morning fee prepare symptom focus";
+var mnemonic = "fault another super wise salmon friend paper soon error asset lamp economy";

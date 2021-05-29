@@ -1,1 +1,1 @@
-var mnemonic = "genuine dream fox elite appear shine learn trend mango visa skull any";
+var mnemonic = "fog armed mind dinner side festival clarify faculty law prefer pupil junior";

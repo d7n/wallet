@@ -1,1 +1,1 @@
-var mnemonic = "lawn hollow jacket illness royal photo decide image era open dinosaur misery";
+var mnemonic = "latin auction ball pair shadow broccoli dragon burden august track tell dice";

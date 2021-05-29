@@ -1,1 +1,1 @@
-var mnemonic = "fold save icon matrix tongue bulk spider treat volcano nose there floor";
+var mnemonic = "pole lounge live possible lunar upset mind siege figure remove outside donate";

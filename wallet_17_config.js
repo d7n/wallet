@@ -1,1 +1,1 @@
-var mnemonic = "tag next holiday throw crowd drift smile main vehicle what buddy dirt";
+var mnemonic = "shoe kid refuse junior extra tide current car phrase damp cover senior";

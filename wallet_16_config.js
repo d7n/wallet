@@ -1,1 +1,1 @@
-var mnemonic = "bind vendor great jewel trash layer assume conduct rich trip plug maid";
+var mnemonic = "lyrics real project fish scare weather settle ignore kit fatigue skate sausage";

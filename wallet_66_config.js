@@ -1,1 +1,1 @@
-var mnemonic = "black slot early wood novel floor enact club impact worry drill destroy";
+var mnemonic = "wink acquire labor truck news panel area lend sheriff almost embark deliver";

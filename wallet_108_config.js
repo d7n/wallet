@@ -1,1 +1,1 @@
-var mnemonic = "dwarf charge spin rent ridge disease absent salmon boost sock abuse physical";
+var mnemonic = "split dinner reason family charge pepper choose cradle often output cube flag";

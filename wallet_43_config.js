@@ -1,1 +1,1 @@
-var mnemonic = "body auto image search timber behave maple wall citizen ladder sweet hello";
+var mnemonic = "power melody tornado deposit return hero city meadow similar mail height uncle";

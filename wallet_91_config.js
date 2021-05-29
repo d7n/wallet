@@ -1,1 +1,1 @@
-var mnemonic = "wash magnet number crater sketch initial unfold butter abandon fantasy pass pulse";
+var mnemonic = "embody minute credit rely hello cave immense orphan robust super stock century";

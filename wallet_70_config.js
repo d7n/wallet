@@ -1,1 +1,1 @@
-var mnemonic = "dog action elder size media echo attract exhibit tunnel perfect swap suit";
+var mnemonic = "easily canvas repeat mother mass ice laundry pretty pulse puzzle unfold grid";

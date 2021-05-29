@@ -1,1 +1,1 @@
-var mnemonic = "bounce cat boy umbrella label ship since setup hurdle dumb shield crawl";
+var mnemonic = "seminar write figure possible craft sudden glare electric scheme puppy matter page";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial wave fabric awful member clip old main verb artwork range unusual";
+var mnemonic = "worry jungle album fit govern income close aisle ivory reject engine shy";

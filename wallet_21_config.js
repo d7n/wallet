@@ -1,1 +1,1 @@
-var mnemonic = "satisfy light teach bench chef achieve wish stool sponsor extra buddy amazing";
+var mnemonic = "timber quality subway wrong hold drill cradle stove idea depth measure hero";

@@ -1,1 +1,1 @@
-var mnemonic = "despair obey convince choose chunk drip social west sure pizza feed donate";
+var mnemonic = "gorilla drink name rare enact text monkey mass moral property lava sentence";

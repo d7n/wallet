@@ -1,1 +1,1 @@
-var mnemonic = "program mistake crack stamp item elephant mimic scout pony mask math soft";
+var mnemonic = "awful ticket wrong race merge nose grief expand until spot pattern ranch";

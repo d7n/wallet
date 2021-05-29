@@ -1,1 +1,1 @@
-var mnemonic = "marriage strong oxygen couple mule danger begin rifle danger deliver observe easy";
+var mnemonic = "faith cliff position sphere alone avoid zero cloud repeat chest discover pact";

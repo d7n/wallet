@@ -1,1 +1,1 @@
-var mnemonic = "neck thunder fiber glide twenty north announce approve summer actress tackle script";
+var mnemonic = "feature autumn season predict display divert music creek minute stone dizzy together";

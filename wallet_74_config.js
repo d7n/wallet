@@ -1,1 +1,1 @@
-var mnemonic = "flavor hood spin ostrich pair town misery vessel lyrics beef soon bar";
+var mnemonic = "weasel puzzle soon attend air want impose rifle select lunch arctic kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding jealous action hard bread maid floor chimney flip gauge cousin acid";
+var mnemonic = "fox latin pair push snake eternal romance disease erosion exact pretty else";

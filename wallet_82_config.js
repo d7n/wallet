@@ -1,1 +1,1 @@
-var mnemonic = "bench kitchen face couple common gold firm kitten strike turn coin seed";
+var mnemonic = "hood erase pole settle crush lion party exit element razor tree essence";

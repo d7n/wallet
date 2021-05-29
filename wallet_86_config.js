@@ -1,1 +1,1 @@
-var mnemonic = "short crazy hold enrich movie athlete erase refuse bubble believe angry settle";
+var mnemonic = "spare bacon shrimp relax girl problem physical pool slow hidden segment disease";

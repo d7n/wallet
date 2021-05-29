@@ -1,1 +1,1 @@
-var mnemonic = "exercise eagle pistol hero beach jelly clap injury panic popular design jump";
+var mnemonic = "multiply job describe art pizza maze hover wise receive undo woman web";

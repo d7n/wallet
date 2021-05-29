@@ -1,1 +1,1 @@
-var mnemonic = "render matter code coach surface wedding top ginger shuffle crew hedgehog monkey";
+var mnemonic = "loop yard glad amateur glow tone actor forward dove game index cannon";

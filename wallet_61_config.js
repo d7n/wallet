@@ -1,1 +1,1 @@
-var mnemonic = "clip divide oil giggle science gate math teach sad join shrimp demise";
+var mnemonic = "maple era clay diamond hour party atom sick layer bullet agent offer";

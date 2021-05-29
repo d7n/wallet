@@ -1,1 +1,1 @@
-var mnemonic = "world project option vacant orange glance confirm aisle since fresh milk elder";
+var mnemonic = "cause solve chimney swift tray easy bundle leader mango river robust immense";

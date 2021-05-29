@@ -1,1 +1,1 @@
-var mnemonic = "output stuff until lunar glass force cement basic ethics detail cute cause";
+var mnemonic = "urge blur way baby argue rely immense retire december knife march vault";

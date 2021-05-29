@@ -1,1 +1,1 @@
-var mnemonic = "awake survey advice erode bubble feed knock trim verify inner obey sing";
+var mnemonic = "raccoon prevent fitness shoulder control come stamp october sword another bridge clump";

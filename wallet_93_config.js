@@ -1,1 +1,1 @@
-var mnemonic = "foam silver timber thumb wing moon captain pole civil hole garbage category";
+var mnemonic = "patch chase valve people view panel trumpet short acoustic speed again code";

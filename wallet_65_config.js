@@ -1,1 +1,1 @@
-var mnemonic = "burst axis mad icon congress stool coin chief humble mirror survey hold";
+var mnemonic = "spread bottom path trade welcome panel cricket mimic film rain cereal voyage";

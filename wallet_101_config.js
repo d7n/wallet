@@ -1,1 +1,1 @@
-var mnemonic = "sand impose city globe junior sponsor letter suit garment second pond fog";
+var mnemonic = "suggest lab pony social muffin insect clap wheat case record one layer";

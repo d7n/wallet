@@ -1,1 +1,1 @@
-var mnemonic = "glove general mind fiscal elder antique drop solve car shaft skin chase";
+var mnemonic = "credit permit juice smoke theme stuff awful extend payment whisper viable enlist";

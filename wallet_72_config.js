@@ -1,1 +1,1 @@
-var mnemonic = "age success usual ozone charge exile wine dial custom attract abstract slogan";
+var mnemonic = "cat negative seek huge mutual trick turkey predict rate return love barely";

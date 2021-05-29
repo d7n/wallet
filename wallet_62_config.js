@@ -1,1 +1,1 @@
-var mnemonic = "drip leg orchard angry shoot bid point noble thunder valid stand bundle";
+var mnemonic = "resist capital extra chest april final cricket theory sight twin lumber term";

@@ -1,1 +1,1 @@
-var mnemonic = "oil useful snow glad goddess awkward place sure chimney witness turtle deposit";
+var mnemonic = "idle faith ticket cruel include street next fan attitude put fix legend";

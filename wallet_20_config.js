@@ -1,1 +1,1 @@
-var mnemonic = "caution gather follow inmate effort rebel bus finger zebra frame primary bleak";
+var mnemonic = "tone wheel fence whip device holiday smooth illness private axis expose immense";

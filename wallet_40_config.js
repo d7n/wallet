@@ -1,1 +1,1 @@
-var mnemonic = "twist when senior modify drop crystal idea squeeze boat lesson street annual";
+var mnemonic = "assume explain one oil sell wrestle couple staff hunt tomorrow obey canal";

@@ -1,1 +1,1 @@
-var mnemonic = "piano knee town later peace drink coin below scene sight train reveal";
+var mnemonic = "spin snack muscle audit rhythm brand mail useless giant search cake cereal";

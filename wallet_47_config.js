@@ -1,1 +1,1 @@
-var mnemonic = "team talent cabin poet elder bag cluster desk timber present demise celery";
+var mnemonic = "gospel bronze depend marriage session matrix sorry finger grant inquiry book dwarf";

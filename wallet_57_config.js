@@ -1,1 +1,1 @@
-var mnemonic = "come tilt choice inspire since team warm advance festival long easily hen";
+var mnemonic = "theory metal pet ask frost waste song mail rough crisp tuna faint";

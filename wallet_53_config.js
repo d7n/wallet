@@ -1,1 +1,1 @@
-var mnemonic = "doctor vote layer slogan start law paddle dragon print hire rose beach";
+var mnemonic = "tilt notice shrimp delay track action umbrella mountain gloom guide apple tenant";

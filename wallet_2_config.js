@@ -1,1 +1,1 @@
-var mnemonic = "amount excuse provide shrug width puppy gun banana engine acquire combine broccoli";
+var mnemonic = "address hold inject wisdom worth dish peace interest shrug either crack bracket";

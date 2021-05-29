@@ -1,1 +1,1 @@
-var mnemonic = "battle toss hole need dash limb word camp phone vintage dawn similar";
+var mnemonic = "hole bicycle depart three student any artefact violin awful cattle october range";

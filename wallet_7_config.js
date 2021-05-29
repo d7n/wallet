@@ -1,1 +1,1 @@
-var mnemonic = "describe smoke harbor three violin mesh lobster economy young memory agent twin";
+var mnemonic = "huge token stock mention vacant orphan barely shrug tip three extend raven";

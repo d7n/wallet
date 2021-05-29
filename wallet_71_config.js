@@ -1,1 +1,1 @@
-var mnemonic = "chat photo ketchup success aspect grunt hawk hat scale moment coin motion";
+var mnemonic = "ostrich keep swim candy truck margin muffin express skate valve bonus floor";
