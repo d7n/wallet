@@ -1,1 +1,1 @@
-var mnemonic = "inquiry access machine narrow dawn fish lawn shaft reject setup table exile";
+var mnemonic = "honey day require decorate brain marine wage gasp write stomach genuine icon";

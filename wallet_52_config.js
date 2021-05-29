@@ -1,1 +1,1 @@
-var mnemonic = "ship swift wheel shock witness assault roof float when bench gentle nerve";
+var mnemonic = "future social dragon amateur save element radio please trumpet insect piece tone";

@@ -1,1 +1,1 @@
-var mnemonic = "talk become find master fresh leg liquid fiction oyster staff recipe neither";
+var mnemonic = "observe clever cry hint half certain woman country rate useless tuna echo";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen genius quick dinner friend swamp domain mobile street slush dinosaur snow";
+var mnemonic = "copy edge uncover siren speak network sail skin desk riot emotion gadget";

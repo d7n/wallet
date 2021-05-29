@@ -1,1 +1,1 @@
-var mnemonic = "record lift hawk company nasty hood doctor dilemma draft keep viable kid";
+var mnemonic = "hero rigid lazy negative tip remove bulb fall suggest key kiwi tag";

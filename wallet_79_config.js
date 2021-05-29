@@ -1,1 +1,1 @@
-var mnemonic = "skin soul road safe ensure teach visual always region month record rug";
+var mnemonic = "predict ability border huge broccoli tomorrow bean arrow soft fat early order";

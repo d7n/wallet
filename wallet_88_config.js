@@ -1,1 +1,1 @@
-var mnemonic = "agent bitter make wage very cool crater thumb alter menu kitten matter";
+var mnemonic = "spin aunt spawn repair expect crunch genuine endless submit hazard rather flavor";

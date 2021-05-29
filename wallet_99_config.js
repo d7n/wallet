@@ -1,1 +1,1 @@
-var mnemonic = "combine swarm poem payment elegant sentence pioneer insect quote wool shrug lounge";
+var mnemonic = "electric cute patrol manual swarm trash hawk order oval faint scene chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "embody random soul cook output salon cargo cry already tuna aware later";
+var mnemonic = "certain renew pelican size fragile oppose leader garage hammer judge inflict distance";

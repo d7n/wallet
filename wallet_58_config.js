@@ -1,1 +1,1 @@
-var mnemonic = "choose keep admit oval butter dilemma village same report begin federal they";
+var mnemonic = "garlic year crush feed scheme quit gym recipe near cycle pill shift";

@@ -1,1 +1,1 @@
-var mnemonic = "spider timber galaxy round pistol congress ocean impulse critic cruel car security";
+var mnemonic = "goddess estate annual hawk wood profit desk noble embark piano camera come";

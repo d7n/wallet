@@ -1,1 +1,1 @@
-var mnemonic = "century charge extra hope ten hood erode organ laptop labor pact license";
+var mnemonic = "name nut dizzy bachelor awesome grow employ pull ugly net pottery maze";

@@ -1,1 +1,1 @@
-var mnemonic = "table attitude another prison thank screen foil riot soup ghost horn snap";
+var mnemonic = "bamboo inflict name divide want only snake prosper acquire jump truth tooth";

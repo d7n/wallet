@@ -1,1 +1,1 @@
-var mnemonic = "deny ripple crew canoe spring present force try typical over slim faint";
+var mnemonic = "lumber solid rescue nice dish echo mention omit bus same object forget";

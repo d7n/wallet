@@ -1,1 +1,1 @@
-var mnemonic = "grape crack blur wine fall despair suspect zone live light service sight";
+var mnemonic = "champion need rhythm apple hotel rack inject wink gentle noble tool blame";

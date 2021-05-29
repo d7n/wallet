@@ -1,1 +1,1 @@
-var mnemonic = "interest basic uniform ride exile snack select sample oyster aim sweet clip";
+var mnemonic = "clump hammer huge robot amateur small version discover mistake drip parade oblige";

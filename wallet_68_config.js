@@ -1,1 +1,1 @@
-var mnemonic = "weird venture fabric clarify pudding age fury thumb nerve evolve coast phone";
+var mnemonic = "fall tail inject moral enable light since ensure drip festival balance undo";

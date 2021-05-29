@@ -1,1 +1,1 @@
-var mnemonic = "sorry venue work keen loyal void lazy clerk gift bike inform three";
+var mnemonic = "enable ready sample cart useful wolf witness nominee vapor quick rubber luxury";

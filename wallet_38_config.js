@@ -1,1 +1,1 @@
-var mnemonic = "timber food sunset smoke explain orbit card lizard correct busy able token";
+var mnemonic = "general arrive inherit spider rich fun absent level mesh mandate lunar congress";

@@ -1,1 +1,1 @@
-var mnemonic = "surface glad avocado liar cluster then share iron ski excess witness fiction";
+var mnemonic = "enough hope code priority utility relief market dutch limit dry title lesson";

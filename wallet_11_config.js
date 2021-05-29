@@ -1,1 +1,1 @@
-var mnemonic = "cross valve invest trophy lunar alert antique digital load assist hover under";
+var mnemonic = "such boring treat tackle make brush deny insane chair muffin tonight pepper";

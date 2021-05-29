@@ -1,1 +1,1 @@
-var mnemonic = "pulp still symptom float trend sentence word erase shove doctor peasant cost";
+var mnemonic = "scrub define debris abstract verify forest warm regular web host already degree";

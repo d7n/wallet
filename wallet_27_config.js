@@ -1,1 +1,1 @@
-var mnemonic = "aspect wrist ordinary cement develop pull purity quick inherit exist scene wife";
+var mnemonic = "win jungle unlock scale salmon bicycle among toast various sunny what disease";

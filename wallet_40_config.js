@@ -1,1 +1,1 @@
-var mnemonic = "knife hen chief rotate way inhale rose waste salt museum work core";
+var mnemonic = "bunker draft urge brave aunt praise model reunion copy train open fit";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest arrow hat elegant bone foam invest they width present rabbit snake";
+var mnemonic = "love foster ten approve update among gym escape bachelor crawl embody car";

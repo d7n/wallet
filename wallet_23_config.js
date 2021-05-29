@@ -1,1 +1,1 @@
-var mnemonic = "stay jump lens alter column age antique volume together fit train sentence";
+var mnemonic = "vessel grid vibrant iron blast gather own door furnace feature female vacant";

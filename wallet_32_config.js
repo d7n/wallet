@@ -1,1 +1,1 @@
-var mnemonic = "insect traffic rhythm empower crew brief peanut pole potato topple mosquito violin";
+var mnemonic = "seat improve armed course crane inquiry trigger shrug group horror topple error";

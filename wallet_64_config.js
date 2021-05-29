@@ -1,1 +1,1 @@
-var mnemonic = "unusual flee mind jazz melody neutral plate hope loud diesel fox climb";
+var mnemonic = "apart gesture shed enjoy inquiry off original nominee crisp click winner auction";

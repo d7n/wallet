@@ -1,1 +1,1 @@
-var mnemonic = "bomb absent face crane wolf torch general gauge soldier know country abstract";
+var mnemonic = "ahead shoe tired infant price unaware execute exotic pony acid dwarf army";

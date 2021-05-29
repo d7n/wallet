@@ -1,1 +1,1 @@
-var mnemonic = "decade link machine wait bread small uphold rigid olympic cradle spend noble";
+var mnemonic = "taste foot stereo pen alley give tuition fade swamp purchase often invite";

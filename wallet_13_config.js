@@ -1,1 +1,1 @@
-var mnemonic = "lyrics gather client join mountain jungle extend country bleak resemble aisle admit";
+var mnemonic = "hurry sad child spend column speak predict ball purchase pupil surprise guard";

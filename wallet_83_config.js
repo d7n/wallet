@@ -1,1 +1,1 @@
-var mnemonic = "domain find panic forest unknown sentence gloom neutral winner jungle tonight video";
+var mnemonic = "top solution satisfy must saddle horse topic unfair over muscle young kid";

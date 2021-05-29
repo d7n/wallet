@@ -1,1 +1,1 @@
-var mnemonic = "burst uncle urban siege primary below adapt sound expect shoulder profit gift";
+var mnemonic = "note about fun fork behave coffee luggage twist hope primary violin hope";

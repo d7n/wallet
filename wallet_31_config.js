@@ -1,1 +1,1 @@
-var mnemonic = "whip level universe shoot guard shallow sudden media fetch access nasty bread";
+var mnemonic = "copper obtain floor under brain skirt this monkey vehicle captain spot mirror";

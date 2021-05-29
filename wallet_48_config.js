@@ -1,1 +1,1 @@
-var mnemonic = "uncover suggest peasant whisper buzz target elbow mammal garbage rely surface predict";
+var mnemonic = "bridge park dish more virtual around genuine journey volcano team follow term";

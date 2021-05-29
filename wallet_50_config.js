@@ -1,1 +1,1 @@
-var mnemonic = "trophy diet burger uncover police liquid update spy rice fabric avocado gym";
+var mnemonic = "wear cradle shoe welcome guide pipe noble vague shuffle purity talent leg";

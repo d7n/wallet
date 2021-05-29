@@ -1,1 +1,1 @@
-var mnemonic = "label dynamic ahead click actor oppose bird gold educate level swift refuse";
+var mnemonic = "any permit sport urban right brave extra around win angry usual garment";

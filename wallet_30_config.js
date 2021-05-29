@@ -1,1 +1,1 @@
-var mnemonic = "green teach spray cancel charge bean rapid moment scare pepper infant inspire";
+var mnemonic = "maximum swallow affair top trophy bonus sail vicious pretty fence struggle idea";

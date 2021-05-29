@@ -1,1 +1,1 @@
-var mnemonic = "use feed require march diary stumble portion circle snake meat gloom blossom";
+var mnemonic = "post course toilet fantasy elite whisper season west creek doctor fish summer";

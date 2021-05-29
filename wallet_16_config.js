@@ -1,1 +1,1 @@
-var mnemonic = "wood chat praise core pulp pause regular display stuff note donor blade";
+var mnemonic = "blind egg exhaust dice fiscal grief enough home seat round number snake";

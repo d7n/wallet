@@ -1,1 +1,1 @@
-var mnemonic = "govern slot lamp dad gadget fun party stairs news before tell flash";
+var mnemonic = "stick castle van together result hope place explain arrange unusual language property";

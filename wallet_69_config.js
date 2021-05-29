@@ -1,1 +1,1 @@
-var mnemonic = "goddess cloth stereo equal gaze frown word shaft weasel suspect excite flip";
+var mnemonic = "green orient stuff short hip peace accident dirt muffin immune program original";

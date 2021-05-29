@@ -1,1 +1,1 @@
-var mnemonic = "radar peace illness item demise team shift height mandate alcohol flash crash";
+var mnemonic = "suggest chimney defy picture lazy garlic blood domain expect this sketch husband";

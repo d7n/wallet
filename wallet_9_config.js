@@ -1,1 +1,1 @@
-var mnemonic = "vehicle throw rebuild goat lab number unfold desert spare jump sell midnight";
+var mnemonic = "juice gaze power modify roof say seed bottom dutch butter fragile door";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit economy stay pluck riot glide clerk sleep inhale stuff alley tiny";
+var mnemonic = "lock possible design core add drum giant improve benefit supreme glance turkey";

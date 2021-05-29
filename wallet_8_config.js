@@ -1,1 +1,1 @@
-var mnemonic = "purity goose clock tank steak library coil giggle insane cereal also wet";
+var mnemonic = "pistol head heart crawl pigeon kangaroo museum taste lady artwork water clump";

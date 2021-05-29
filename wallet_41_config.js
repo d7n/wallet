@@ -1,1 +1,1 @@
-var mnemonic = "able love diesel unable lock silent stadium blouse memory brown viable state";
+var mnemonic = "peasant grocery use cable wage cattle private either obscure drama double key";

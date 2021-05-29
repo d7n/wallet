@@ -1,1 +1,1 @@
-var mnemonic = "boy dignity pave achieve quote polar memory fire doll point chair maze";
+var mnemonic = "lift toe journey tooth develop feed mansion universe foster shoot market jar";

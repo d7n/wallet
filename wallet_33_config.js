@@ -1,1 +1,1 @@
-var mnemonic = "trim sad degree borrow shoulder hen dismiss zoo float dirt damage increase";
+var mnemonic = "gap yard muffin come wing jeans pitch weird note buddy dwarf model";

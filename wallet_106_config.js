@@ -1,1 +1,1 @@
-var mnemonic = "advance february test gesture champion turtle ranch exclude unknown fitness engine whip";
+var mnemonic = "food woman maid lawn rely swift arrest elite pilot fish typical pause";

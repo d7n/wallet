@@ -1,1 +1,1 @@
-var mnemonic = "girl fragile era shrimp then crunch advice kick math jump merge enrich";
+var mnemonic = "lazy lunar hood oyster ask prefer reopen harsh ship crucial wise find";

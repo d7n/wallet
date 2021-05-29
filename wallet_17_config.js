@@ -1,1 +1,1 @@
-var mnemonic = "equip ozone street acid motor enemy filter teach trade waste card nut";
+var mnemonic = "pledge butter party rare ramp rubber cycle scout foil owner zoo make";

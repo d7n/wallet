@@ -1,1 +1,1 @@
-var mnemonic = "noodle breeze corn dial group tape pause rack strategy slam purity silly";
+var mnemonic = "rare border surround unveil hobby goat cotton insect sock spy gather sport";

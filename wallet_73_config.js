@@ -1,1 +1,1 @@
-var mnemonic = "merry tent advance limb cloud auto chalk ginger frost become seminar coast";
+var mnemonic = "flee light cause tube admit cabin captain slot chief punch regret satisfy";

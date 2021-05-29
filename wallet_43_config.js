@@ -1,1 +1,1 @@
-var mnemonic = "fish jewel focus yard above bus adult defy receive type student drop";
+var mnemonic = "movie keep area paper say island impose guard simple juice metal lend";

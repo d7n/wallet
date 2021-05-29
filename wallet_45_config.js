@@ -1,1 +1,1 @@
-var mnemonic = "describe critic mirror copy stamp swim volcano balance swap device rack river";
+var mnemonic = "decrease type coffee silly sugar elite stamp idle science great orchard sign";

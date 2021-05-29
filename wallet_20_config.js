@@ -1,1 +1,1 @@
-var mnemonic = "olive transfer acquire another crouch creek symptom grow used street success wrap";
+var mnemonic = "lounge critic theory pencil six base arctic online dumb pigeon border six";

@@ -1,1 +1,1 @@
-var mnemonic = "corn room you around embody beach urge stuff spring exercise language moral";
+var mnemonic = "fun tissue cruise middle foam silver thank clutch nothing crater six auto";

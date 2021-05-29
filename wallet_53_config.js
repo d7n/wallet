@@ -1,1 +1,1 @@
-var mnemonic = "barely nice material dream electric boy kite vast chalk saddle define fun";
+var mnemonic = "medal believe radar oblige olympic mammal account vapor organ material noodle double";

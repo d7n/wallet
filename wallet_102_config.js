@@ -1,1 +1,1 @@
-var mnemonic = "little sniff power demand employ glide forward guess boring garden assume angry";
+var mnemonic = "always desk depth flee crew fantasy sense ocean core chat tool inside";

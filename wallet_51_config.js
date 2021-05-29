@@ -1,1 +1,1 @@
-var mnemonic = "skin elegant visit shoot matter aisle orphan stairs congress attack solar exhibit";
+var mnemonic = "extra soldier phrase evidence seat doll ball praise grief deal vault wave";

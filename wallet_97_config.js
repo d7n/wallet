@@ -1,1 +1,1 @@
-var mnemonic = "panda very art century gasp wool obvious copy balance increase detect lab";
+var mnemonic = "absent play catch because spring wrong leopard then aunt ski habit monitor";

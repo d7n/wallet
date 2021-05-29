@@ -1,1 +1,1 @@
-var mnemonic = "neck salon rice blind random accuse unfair anger blast world pill tomato";
+var mnemonic = "jeans slab scare artwork ten tooth fragile puppy orbit fish top that";

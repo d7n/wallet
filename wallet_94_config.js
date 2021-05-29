@@ -1,1 +1,1 @@
-var mnemonic = "shed spatial subject hen awesome clump winner excite business century salute return";
+var mnemonic = "deposit pyramid flee walnut seek thumb call when pepper stem tape october";

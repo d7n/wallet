@@ -1,1 +1,1 @@
-var mnemonic = "enforce own release embody staff garage canvas dignity primary reveal uncover where";
+var mnemonic = "aware art moon legend sight churn proof card drip nuclear annual dash";

@@ -1,1 +1,1 @@
-var mnemonic = "liar turkey vapor dolphin march limit suffer tomato fitness pool gain click";
+var mnemonic = "news unfold plug assist danger skirt mind release long fog wagon depth";

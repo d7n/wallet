@@ -1,1 +1,1 @@
-var mnemonic = "evolve dust item must august domain subject model canyon tissue ribbon eternal";
+var mnemonic = "knee educate fog among grant sight wisdom speed prize arctic silent jungle";

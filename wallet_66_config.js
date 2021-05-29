@@ -1,1 +1,1 @@
-var mnemonic = "pilot broccoli roast text mechanic slice crystal deposit stamp sugar hello sorry";
+var mnemonic = "plastic frog supply cactus bachelor spoil blast inflict senior tree squirrel hat";

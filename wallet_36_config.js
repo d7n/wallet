@@ -1,1 +1,1 @@
-var mnemonic = "tobacco wisdom lizard post penalty weekend find prevent lazy salt enrich surface";
+var mnemonic = "cream curious mobile anchor plate century mouse bright adjust oil differ gun";

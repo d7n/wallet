@@ -1,1 +1,1 @@
-var mnemonic = "convince train neutral put finish skill learn prepare captain awkward cash color";
+var mnemonic = "matrix need lazy supply raise nurse expect embrace easy angle spray spoil";

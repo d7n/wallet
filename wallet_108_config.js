@@ -1,1 +1,1 @@
-var mnemonic = "alarm clip blade mango easy fragile street shoe ginger jar fresh emerge";
+var mnemonic = "innocent mixed setup autumn write speed field entry ivory spoil quarter banner";

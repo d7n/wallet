@@ -1,1 +1,1 @@
-var mnemonic = "pupil program pledge point utility jeans crime board label axis chest slice";
+var mnemonic = "power school advice letter casino two want diesel jeans brother club dinner";

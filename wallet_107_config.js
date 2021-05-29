@@ -1,1 +1,1 @@
-var mnemonic = "twin dad kiwi message uphold fringe extra blood wrestle mutual denial cart";
+var mnemonic = "patrol shop leisure rule initial desert hire capital fragile rebuild then kingdom";

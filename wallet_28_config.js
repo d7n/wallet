@@ -1,1 +1,1 @@
-var mnemonic = "coil vacant orbit large oppose upper vocal novel shaft media umbrella region";
+var mnemonic = "example improve lava wait ritual angle sample crucial defense ride muffin album";

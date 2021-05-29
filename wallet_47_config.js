@@ -1,1 +1,1 @@
-var mnemonic = "horn hotel bulk between hospital load dismiss genre task job doctor income";
+var mnemonic = "element rib doctor thumb ignore corn absurd letter palace panel able slab";

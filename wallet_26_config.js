@@ -1,1 +1,1 @@
-var mnemonic = "pistol ripple frozen sweet chair section bright organ exhibit shell end crystal";
+var mnemonic = "have piano burger auction vicious sting multiply shallow then cabin trust solve";

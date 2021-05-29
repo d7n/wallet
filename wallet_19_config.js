@@ -1,1 +1,1 @@
-var mnemonic = "vague use banner crumble piano gas muffin mercy sorry try vocal unit";
+var mnemonic = "leave team rain wash clutch crash word devote spawn screen salt traffic";

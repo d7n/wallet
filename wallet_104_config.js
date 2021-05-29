@@ -1,1 +1,1 @@
-var mnemonic = "scatter noble funny ignore basket bright survey slogan arrest effort identify laptop";
+var mnemonic = "bomb couple kid smile ship barely tilt market evil glove notice true";

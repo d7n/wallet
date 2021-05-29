@@ -1,1 +1,1 @@
-var mnemonic = "chaos cool erosion blood know subway quote real tail notice second faint";
+var mnemonic = "budget project name already tree differ begin airport proof arm science door";

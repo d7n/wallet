@@ -1,1 +1,1 @@
-var mnemonic = "bright brick false umbrella shell visual update uniform always baby silk hold";
+var mnemonic = "club vacuum later elite piece give chimney custom journey side sick current";

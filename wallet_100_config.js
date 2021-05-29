@@ -1,1 +1,1 @@
-var mnemonic = "cool mouse melody often point pair image feel appear forum illegal educate";
+var mnemonic = "faculty cannon grain enroll cancel dinosaur behave pottery year swift matrix december";

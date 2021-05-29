@@ -1,1 +1,1 @@
-var mnemonic = "frog essence mobile ridge quality delay escape bulk elevator already grit enough";
+var mnemonic = "notice wet analyst young hood just glad type alien fine veteran oak";

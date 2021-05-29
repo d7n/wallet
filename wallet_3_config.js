@@ -1,1 +1,1 @@
-var mnemonic = "side kitten rack act obscure amount anchor witness object rack pause wife";
+var mnemonic = "exist pelican like flight lemon general helmet casual pepper crucial morning wire";

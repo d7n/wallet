@@ -1,1 +1,1 @@
-var mnemonic = "idle what final govern aunt robust wisdom hedgehog next family maximum lamp";
+var mnemonic = "exact oak prize misery secret control jacket slam shrug ranch trigger must";

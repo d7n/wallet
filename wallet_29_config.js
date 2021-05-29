@@ -1,1 +1,1 @@
-var mnemonic = "symptom mosquito equal lesson cute nominee crash actor bar silly zone pull";
+var mnemonic = "second great boil betray naive area sport diet advice trash sleep you";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen dilemma together guilt wrestle snow boat peace fan catalog ship sell";
+var mnemonic = "green human gesture galaxy wear display tattoo thing arena left right dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "surround dirt whisper enrich bomb enhance one naive domain noise index spread";
+var mnemonic = "mercy tribe between possible annual shop exercise notice culture nut camp leg";

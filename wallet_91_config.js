@@ -1,1 +1,1 @@
-var mnemonic = "head strike quality opinion enforce armed tragic hen garage violin arrest plastic";
+var mnemonic = "thunder climb grass mango disease garage cancel like market leg wealth vapor";

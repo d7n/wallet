@@ -1,1 +1,1 @@
-var mnemonic = "orchard example fossil surge once need tide excess worry strategy final tiger";
+var mnemonic = "tell swing distance cupboard arrive grass shine mango what choose math time";

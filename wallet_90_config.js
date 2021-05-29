@@ -1,1 +1,1 @@
-var mnemonic = "gorilla crumble segment leave nerve utility coach bacon drastic warm welcome virus";
+var mnemonic = "female pet noble moon seminar congress fatal clerk convince range chief decline";

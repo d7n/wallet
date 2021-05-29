@@ -1,1 +1,1 @@
-var mnemonic = "penalty genius cradle fresh half soap mouse text pottery subway kitchen walk";
+var mnemonic = "remind pumpkin insect pen scheme morning garlic drill reveal amateur inmate tray";
