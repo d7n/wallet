@@ -1,1 +1,1 @@
-var mnemonic = "entry tackle junk tennis pill fire normal filter fee winner evil apart";
+var mnemonic = "box pill antenna tool valley topic delay arctic someone across joke tiny";

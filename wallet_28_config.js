@@ -1,1 +1,1 @@
-var mnemonic = "royal glare stereo satoshi picnic jar organ piano alcohol owner flat family";
+var mnemonic = "hockey immune blind panther slight annual sad start actual proof indoor start";

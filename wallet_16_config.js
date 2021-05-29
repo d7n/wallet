@@ -1,1 +1,1 @@
-var mnemonic = "blood enemy direct rather scheme various olive hedgehog giggle turkey ozone predict";
+var mnemonic = "picture outer solar demise into notice gospel plug aisle neglect report gallery";

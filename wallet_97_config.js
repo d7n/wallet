@@ -1,1 +1,1 @@
-var mnemonic = "liquid seek spatial good lesson cart bless they motion glass caution credit";
+var mnemonic = "crumble number destroy theme alert ladder funny ahead collect dirt pencil busy";

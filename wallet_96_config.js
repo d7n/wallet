@@ -1,1 +1,1 @@
-var mnemonic = "license side future sense kangaroo update tackle steel mirror fresh plunge audit";
+var mnemonic = "ladder cigar now wreck adult around beach wave fever peanut cave any";

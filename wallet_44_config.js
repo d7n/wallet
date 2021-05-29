@@ -1,1 +1,1 @@
-var mnemonic = "napkin budget repeat hurdle broken elite drastic cage small elegant acoustic barely";
+var mnemonic = "receive plate omit predict organ endorse silent rapid series latin sausage animal";

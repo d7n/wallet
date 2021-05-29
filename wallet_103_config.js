@@ -1,1 +1,1 @@
-var mnemonic = "wear stereo wink arrow success reason panel talk ramp appear viable injury";
+var mnemonic = "potato caution lift brick aunt range over travel veteran benefit disagree romance";

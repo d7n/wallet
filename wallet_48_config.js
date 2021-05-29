@@ -1,1 +1,1 @@
-var mnemonic = "million olive manual candy satoshi elbow crawl abstract cereal fine nothing royal";
+var mnemonic = "shop author sport borrow gloom subject glove cliff picnic despair vicious farm";

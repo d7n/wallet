@@ -1,1 +1,1 @@
-var mnemonic = "pudding joy fitness cupboard census coast laugh pulse canoe copper prosper sun";
+var mnemonic = "urban midnight banana service feel resist trade bracket candy tackle share item";

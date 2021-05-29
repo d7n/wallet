@@ -1,1 +1,1 @@
-var mnemonic = "city tragic green welcome segment car okay yard mosquito refuse entire inflict";
+var mnemonic = "motor venue fan hat gallery never uniform deny analyst spare tape express";

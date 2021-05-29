@@ -1,1 +1,1 @@
-var mnemonic = "raccoon drive sentence load wreck often tornado divert convince pattern patient sleep";
+var mnemonic = "border twice utility tail later young identify height ostrich taxi type alert";

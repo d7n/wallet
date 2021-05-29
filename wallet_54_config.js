@@ -1,1 +1,1 @@
-var mnemonic = "cancel sail pony galaxy attack kite color attend dice tortoise glory bomb";
+var mnemonic = "immune welcome hire tooth wagon flavor kid vivid marine tobacco leisure option";

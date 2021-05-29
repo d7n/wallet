@@ -1,1 +1,1 @@
-var mnemonic = "hood vapor mercy front embody hidden range own aerobic antique member later";
+var mnemonic = "timber tray wolf involve live notice very hawk wall meadow mouse weasel";

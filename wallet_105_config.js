@@ -1,1 +1,1 @@
-var mnemonic = "beach few pumpkin treat inform zebra letter priority sketch awake donate silk";
+var mnemonic = "since clog camera diagram process myself scale legal broom ostrich omit tide";

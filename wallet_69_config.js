@@ -1,1 +1,1 @@
-var mnemonic = "that step crater holiday silent road flavor adapt pipe argue actress permit";
+var mnemonic = "glad again waste surface snap captain like saddle discover upon absent success";

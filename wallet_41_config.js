@@ -1,1 +1,1 @@
-var mnemonic = "climb make ridge fly code license ocean mean rookie stem manage hammer";
+var mnemonic = "curious update beyond error income festival dance crunch grass point relief media";

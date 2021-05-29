@@ -1,1 +1,1 @@
-var mnemonic = "camera drum machine tongue dose dwarf rib delay lazy rice panther speed";
+var mnemonic = "super oppose castle media vintage scatter fiber infant army sell blame bonus";

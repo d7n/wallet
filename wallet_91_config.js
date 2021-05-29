@@ -1,1 +1,1 @@
-var mnemonic = "blade hill jaguar punch clerk carbon pyramid cram planet gentle virus outdoor";
+var mnemonic = "tape club enemy fortune broom blood vehicle cupboard pig alert clip behave";

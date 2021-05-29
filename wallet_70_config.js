@@ -1,1 +1,1 @@
-var mnemonic = "nurse acquire now better fish rifle tree void tongue come impulse witness";
+var mnemonic = "hybrid ripple scheme crumble define shoot flag wear muffin cradle heavy slow";

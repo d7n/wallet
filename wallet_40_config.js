@@ -1,1 +1,1 @@
-var mnemonic = "away bag pond blind panda girl confirm mango crystal carry reopen impulse";
+var mnemonic = "hen glue taste sick horror battle victory someone health armed wall spread";

@@ -1,1 +1,1 @@
-var mnemonic = "result convince burger buffalo cotton lizard ticket wisdom odor mango embody coil";
+var mnemonic = "busy hard crane inside hello coach gasp team advance chase check tackle";

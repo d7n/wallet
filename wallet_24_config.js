@@ -1,1 +1,1 @@
-var mnemonic = "demise term robot install draw theme curve mail magnet flat pelican powder";
+var mnemonic = "dry mixture pride own chat unaware law actual notable police general average";

@@ -1,1 +1,1 @@
-var mnemonic = "guess pink roast until noble provide bitter wreck blast govern season limit";
+var mnemonic = "impact model multiply stem aerobic frog monitor erode apple upper grab crack";

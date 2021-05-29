@@ -1,1 +1,1 @@
-var mnemonic = "arch demise emotion dawn chimney slide surface resemble concert fancy honey tilt";
+var mnemonic = "patch observe tomorrow protect erase flush avoid gauge poem detect answer essay";

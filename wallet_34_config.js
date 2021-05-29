@@ -1,1 +1,1 @@
-var mnemonic = "praise region walnut warm flight parent fragile spider choose kangaroo account spatial";
+var mnemonic = "december have climb guess spray air kingdom display wasp off faith dismiss";

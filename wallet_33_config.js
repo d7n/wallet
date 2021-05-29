@@ -1,1 +1,1 @@
-var mnemonic = "slogan brave diesel false orphan radar phrase knock gather vapor chronic share";
+var mnemonic = "ill laugh blanket evil clean drill anchor slam exist switch rent category";

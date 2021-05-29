@@ -1,1 +1,1 @@
-var mnemonic = "carry catalog hand enlist fish home wall door index matrix dress possible";
+var mnemonic = "link box stable erode idea jelly awkward foster frog cram start kite";

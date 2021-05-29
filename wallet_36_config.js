@@ -1,1 +1,1 @@
-var mnemonic = "again core prize winter involve asthma fluid stem wealth six orange spirit";
+var mnemonic = "step cruise coyote apart nut gas else hour vanish moment dash pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "wink oil diamond wool space motion stand year brain entire glance shrimp";
+var mnemonic = "inject pattern obtain crumble track field raven husband winter dragon patch author";

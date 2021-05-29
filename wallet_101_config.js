@@ -1,1 +1,1 @@
-var mnemonic = "nothing hold seminar tip cousin park expect insane about cotton connect recycle";
+var mnemonic = "element divorce across crater loyal unit ridge clump crisp enjoy spin stage";

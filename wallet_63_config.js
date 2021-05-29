@@ -1,1 +1,1 @@
-var mnemonic = "congress merry rice mushroom copy leave vault become fit elder color wonder";
+var mnemonic = "gospel risk between model hawk route fragile girl frog hamster wise bus";

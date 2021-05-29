@@ -1,1 +1,1 @@
-var mnemonic = "crucial trap damp direct absurd ordinary question wrap room insane media donkey";
+var mnemonic = "festival truly author hover print luxury dove sing deliver employ vehicle marble";

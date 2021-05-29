@@ -1,1 +1,1 @@
-var mnemonic = "wire borrow wasp quarter wool puzzle hotel novel spring field frequent night";
+var mnemonic = "mad mansion foam alien account raise empty ski twin start elite pupil";

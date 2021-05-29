@@ -1,1 +1,1 @@
-var mnemonic = "people stable chaos paddle satisfy moment jar auction choice account climb sense";
+var mnemonic = "surround exchange street student reveal matter crime yellow range prepare valley harsh";

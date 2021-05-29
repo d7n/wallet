@@ -1,1 +1,1 @@
-var mnemonic = "allow fine speak dilemma inherit salad approve fashion lawn turkey economy romance";
+var mnemonic = "love toe emerge side drip asset clutch treat measure salmon tornado scrap";

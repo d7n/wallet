@@ -1,1 +1,1 @@
-var mnemonic = "fringe debate guide power toy include grid tuition smoke hurdle hire country";
+var mnemonic = "advance caught route unfold shock danger canvas report easily bean quiz believe";

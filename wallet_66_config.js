@@ -1,1 +1,1 @@
-var mnemonic = "view deputy sheriff rent always begin exotic grow tribe vague hundred double";
+var mnemonic = "stay knife hockey exchange solve scrub finish announce sorry derive ensure addict";

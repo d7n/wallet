@@ -1,1 +1,1 @@
-var mnemonic = "between duty scatter april above pigeon wreck march convince orange guess tennis";
+var mnemonic = "tattoo depth real equal final donor hundred strategy innocent bracket shine bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble laundry old advance victory arrive forum festival scheme calm grocery guide";
+var mnemonic = "spread program shield flavor guard pink regular video tower detail lava decade";

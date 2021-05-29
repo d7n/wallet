@@ -1,1 +1,1 @@
-var mnemonic = "muscle proud fold visual tribe foster soon tape forward equip fantasy juice";
+var mnemonic = "concert sea strike online wine hunt travel parrot myself actor power prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial member defy shoulder cheap dune stock cluster file normal wrong swarm";
+var mnemonic = "cook boss satoshi jungle pair kid damp engine modify marine apart pave";

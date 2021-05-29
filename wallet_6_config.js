@@ -1,1 +1,1 @@
-var mnemonic = "marriage always dress kangaroo balcony fatigue frame thrive frozen pyramid stereo manual";
+var mnemonic = "mammal obey attract brain material unhappy confirm document useless supply biology prize";

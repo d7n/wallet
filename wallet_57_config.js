@@ -1,1 +1,1 @@
-var mnemonic = "payment thunder route control half attract roof detect dress cave despair dwarf";
+var mnemonic = "clutch glare biology kid drink april slush crouch extend excuse diamond tilt";

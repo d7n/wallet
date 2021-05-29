@@ -1,1 +1,1 @@
-var mnemonic = "scheme off twin muffin drip odor attack coil toilet torch melt drop";
+var mnemonic = "desert alley decide trend visit topple swallow close eager slide pool garden";

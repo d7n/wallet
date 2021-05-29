@@ -1,1 +1,1 @@
-var mnemonic = "suit advice fresh whale end galaxy choose surround brother animal hurry half";
+var mnemonic = "weather trash fold spring scare increase joy step brass thrive say tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild place path setup base develop smart ghost cargo pact coast lonely";
+var mnemonic = "catalog stomach strong law sunny load language donor destroy hollow reflect job";

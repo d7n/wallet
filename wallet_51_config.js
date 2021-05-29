@@ -1,1 +1,1 @@
-var mnemonic = "slice bus maple hamster credit scare spirit wheel action car tape quantum";
+var mnemonic = "peace ceiling guitar idle absent unhappy canyon dragon occur fade iron near";

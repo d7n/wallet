@@ -1,1 +1,1 @@
-var mnemonic = "aware core occur lava artefact erase festival pulp color blouse gift artist";
+var mnemonic = "defy kiwi possible acquire neutral prosper cross ocean income prefer neglect neutral";

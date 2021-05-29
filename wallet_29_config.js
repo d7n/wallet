@@ -1,1 +1,1 @@
-var mnemonic = "alarm frame dentist result night large task dad leg velvet comic upgrade";
+var mnemonic = "inspire solve ski sense regular come broken know mouse filter will ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise lens need gap code profit genuine feature turkey elite beauty drop";
+var mnemonic = "urge pattern harvest raw flat hour police release fringe price tail cost";

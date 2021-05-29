@@ -1,1 +1,1 @@
-var mnemonic = "use fan intact trigger almost video title obvious genuine viable worth stomach";
+var mnemonic = "tube priority awful thought enforce network tobacco unfair drop swallow brand chair";

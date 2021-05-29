@@ -1,1 +1,1 @@
-var mnemonic = "ask original doll park add mixed this zone giant winter napkin session";
+var mnemonic = "fatal liberty ill theory debris found hat purity orphan critic decrease need";

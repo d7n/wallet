@@ -1,1 +1,1 @@
-var mnemonic = "catalog enlist learn vocal blouse grain unknown bright romance fitness fetch cram";
+var mnemonic = "stock pattern dose avoid great menu harvest ranch catch merit fossil brass";

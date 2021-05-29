@@ -1,1 +1,1 @@
-var mnemonic = "play icon dose wet clog slab allow turkey police dumb bubble rough";
+var mnemonic = "retreat wrong peace rocket peasant inflict glimpse film search bracket upon fade";

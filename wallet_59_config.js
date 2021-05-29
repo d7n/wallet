@@ -1,1 +1,1 @@
-var mnemonic = "describe random type later soda outside burden below scatter toe exercise smoke";
+var mnemonic = "short derive spin cushion record diet coral blush fatal smart ritual total";

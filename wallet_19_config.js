@@ -1,1 +1,1 @@
-var mnemonic = "path hockey clutch call cry margin talk armor figure carbon gown wonder";
+var mnemonic = "work deer wise leopard address update lunch retire average clump enjoy broom";

@@ -1,1 +1,1 @@
-var mnemonic = "improve affair proof desert message fancy clock record voice gorilla inside transfer";
+var mnemonic = "pyramid slush gain escape nothing wisdom meadow note jeans whip crash diary";

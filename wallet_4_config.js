@@ -1,1 +1,1 @@
-var mnemonic = "style window fade dismiss taste broken artwork turkey apology sponsor size broccoli";
+var mnemonic = "hurt assume method diet call guess prison cram shield tower size brush";

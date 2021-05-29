@@ -1,1 +1,1 @@
-var mnemonic = "pear zero mean suffer trash music century pepper consider mouse athlete across";
+var mnemonic = "opera unknown release airport matter matter expose announce confirm night lens year";

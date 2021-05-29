@@ -1,1 +1,1 @@
-var mnemonic = "luggage magic grief fee humble proud grief inmate wave foot ready gasp";
+var mnemonic = "river able web spot pulse tag good paper seek protect occur scene";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic february setup mass panel tourist picture range analyst lamp catalog interest";
+var mnemonic = "hidden horse run comfort finish vault position tissue actress radar filter rabbit";

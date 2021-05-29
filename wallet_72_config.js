@@ -1,1 +1,1 @@
-var mnemonic = "hint top enemy deer bag case vibrant cat sword parade exercise giggle";
+var mnemonic = "cook million scorpion cement cross equal bottom bubble sail casino head reward";

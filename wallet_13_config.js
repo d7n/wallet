@@ -1,1 +1,1 @@
-var mnemonic = "helmet swamp mention embrace scatter fun rib body brown weird develop cycle";
+var mnemonic = "cook fuel hollow panda avocado galaxy axis comfort approve accident relief mass";

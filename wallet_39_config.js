@@ -1,1 +1,1 @@
-var mnemonic = "polar taste oak duty legend smoke also desert rabbit uniform napkin chuckle";
+var mnemonic = "envelope rough found fox animal buzz party holiday wreck fatigue salad razor";

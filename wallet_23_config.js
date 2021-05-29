@@ -1,1 +1,1 @@
-var mnemonic = "mix borrow door inform vintage name current march genre you open welcome";
+var mnemonic = "upper burst digital proof ball surprise improve swamp impact asset congress promote";

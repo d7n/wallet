@@ -1,1 +1,1 @@
-var mnemonic = "sign kingdom borrow tuna cross situate buyer private two author obscure shine";
+var mnemonic = "trial brand switch panel average hello float mutual enforce negative endorse tissue";

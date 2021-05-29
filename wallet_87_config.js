@@ -1,1 +1,1 @@
-var mnemonic = "resemble leaf food love comic mountain cupboard purchase spot scheme absurd suffer";
+var mnemonic = "cotton jar vacant muffin runway hold evolve broken tent install ready firm";

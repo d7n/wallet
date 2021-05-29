@@ -1,1 +1,1 @@
-var mnemonic = "skin settle scale kite foam empty orbit tired camera theory corn half";
+var mnemonic = "ticket minimum bean problem camera envelope shine voice buddy alien guilt live";

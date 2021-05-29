@@ -1,1 +1,1 @@
-var mnemonic = "term vicious treat praise banana gold train royal parade midnight old saddle";
+var mnemonic = "power cover various carry dizzy ability have swamp learn digital above donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff brick artist engage pave leg river miss december fish actress pill";
+var mnemonic = "organ any torch top razor grain master obvious sentence hybrid drill link";

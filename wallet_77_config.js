@@ -1,1 +1,1 @@
-var mnemonic = "attack nuclear tray maximum horse float december vintage mobile absorb giraffe recipe";
+var mnemonic = "random scrub runway core scissors cost rough group parent popular fan divorce";

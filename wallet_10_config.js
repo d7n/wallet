@@ -1,1 +1,1 @@
-var mnemonic = "fiber cave ball invest slow luggage banana bamboo vocal smoke nasty have";
+var mnemonic = "jazz anchor host coin grape angry any sail cinnamon flight thunder fall";

@@ -1,1 +1,1 @@
-var mnemonic = "pave genre bag grief gain hat area tiny wild dwarf stool ethics";
+var mnemonic = "panther drama squirrel detail fancy hover there motion extra piece lake army";

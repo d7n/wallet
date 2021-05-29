@@ -1,1 +1,1 @@
-var mnemonic = "magnet invite bounce valid position spatial ugly auto always tattoo wolf burden";
+var mnemonic = "green wine chief night salon goddess shallow lecture news tuition laundry sword";

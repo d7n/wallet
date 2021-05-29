@@ -1,1 +1,1 @@
-var mnemonic = "cushion forget endorse cotton valley sing double neglect stay nominee mention eye";
+var mnemonic = "merry cannon express rule elevator loyal soft check sure talent subject tomato";

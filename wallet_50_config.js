@@ -1,1 +1,1 @@
-var mnemonic = "coil diet physical chase hat tank effort relief tip volume dinner weasel";
+var mnemonic = "actor pistol squirrel arrow crater oval must corn mobile wish blast deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "slow unable path slender very real pulse resist knife setup siren cannon";
+var mnemonic = "ride vocal donor veteran rebel weasel frown army apology cactus chair youth";

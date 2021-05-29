@@ -1,1 +1,1 @@
-var mnemonic = "fame then mad elbow system clown report bunker curve robot guide vacuum";
+var mnemonic = "mixture catalog cup there lawsuit year unknown property fabric shoot scissors badge";

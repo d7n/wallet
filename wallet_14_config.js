@@ -1,1 +1,1 @@
-var mnemonic = "tail expose leaf notable marine saddle decline rude you arrest feed turn";
+var mnemonic = "merry below glimpse fatal account prosper split mass loyal rule food jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "book steak rose horn cancel mobile fuel duty lake upset man math";
+var mnemonic = "require ripple target income insane describe imitate mirror ranch stand antenna beauty";

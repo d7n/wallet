@@ -1,1 +1,1 @@
-var mnemonic = "waste exercise swallow patient attitude foil indicate limb trial monitor awkward myth";
+var mnemonic = "laptop monkey volume test side universe announce dog kidney adjust uncle weapon";

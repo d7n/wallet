@@ -1,1 +1,1 @@
-var mnemonic = "rule garden wage voice seven canoe mixed squeeze hip winter toss kid";
+var mnemonic = "meat ladder tongue clown cool equal toss stand friend almost boil mom";

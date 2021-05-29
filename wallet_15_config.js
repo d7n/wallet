@@ -1,1 +1,1 @@
-var mnemonic = "camera filter critic enemy list solve cry pole unique lift mixed income";
+var mnemonic = "glue beauty project buddy front pass lion trick chief grace close jelly";

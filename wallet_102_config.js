@@ -1,1 +1,1 @@
-var mnemonic = "weather small motion title miracle salute kick history quantum decline cabin jaguar";
+var mnemonic = "episode parent stadium neutral lazy wagon present anchor ball winter surround argue";

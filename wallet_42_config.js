@@ -1,1 +1,1 @@
-var mnemonic = "insane nature office unveil tower improve clinic left roast walnut umbrella major";
+var mnemonic = "category gesture action cereal mixed lobster attend evoke utility version output fee";

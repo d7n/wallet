@@ -1,1 +1,1 @@
-var mnemonic = "soul problem vendor marble mail acquire stuff crazy track rent blanket ivory";
+var mnemonic = "off solve roof because result evoke claim family man party quarter lamp";
