@@ -1,1 +1,1 @@
-var mnemonic = "dream scan very clap index engine maid lemon soup blur early same";
+var mnemonic = "fold impose emerge output frown eye budget melt isolate cancel provide shock";

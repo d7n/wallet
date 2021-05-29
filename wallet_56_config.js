@@ -1,1 +1,1 @@
-var mnemonic = "margin south scrub enact speed corn romance outdoor electric fresh taste spy";
+var mnemonic = "emerge meat candy grape fade cabbage priority tent million chalk olive rocket";

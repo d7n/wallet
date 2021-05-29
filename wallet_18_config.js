@@ -1,1 +1,1 @@
-var mnemonic = "rubber crime decade soft wife inner arctic impose fringe hungry boat reward";
+var mnemonic = "nest category digital limb unusual video answer grunt miracle first feel tide";

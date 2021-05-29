@@ -1,1 +1,1 @@
-var mnemonic = "illegal begin romance angry wood habit horror best dumb favorite track manual";
+var mnemonic = "stadium spoon kiss pen either minor broom trophy dress roof easy lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee much filter fire ethics bullet donor engage abuse nuclear pizza laugh";
+var mnemonic = "globe delay hello amused fuel body cherry speed friend pair mobile author";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble capable client stove guilt piece know regular slow caught raw humble";
+var mnemonic = "flat library rough moral frost joy sausage topic unusual drill verify cook";

@@ -1,1 +1,1 @@
-var mnemonic = "people grief where mutual tribe steel loud raven flavor update belt seat";
+var mnemonic = "alcohol alter enact bridge scrap congress alcohol laptop radar left sauce powder";

@@ -1,1 +1,1 @@
-var mnemonic = "senior sponsor stamp title type asthma eagle oxygen guess film repair raven";
+var mnemonic = "body useless seed scissors cave derive extend rule element hybrid eager evolve";

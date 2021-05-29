@@ -1,1 +1,1 @@
-var mnemonic = "trick bachelor scale drill domain one dignity remain teach mandate cause width";
+var mnemonic = "width umbrella fluid case depend drive perfect food balcony lamp ski rocket";

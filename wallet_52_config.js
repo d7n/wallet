@@ -1,1 +1,1 @@
-var mnemonic = "effort surprise august example airport hub purpose seat minute nerve suit crush";
+var mnemonic = "treat yard eyebrow dynamic sunny merit buzz forum forget used slogan test";

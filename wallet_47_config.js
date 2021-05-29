@@ -1,1 +1,1 @@
-var mnemonic = "dragon vital reveal faith glance mouse believe twin moon vast amazing mule";
+var mnemonic = "flock mutual real render medal pig snow obtain tobacco deny honey evidence";

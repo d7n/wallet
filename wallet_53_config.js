@@ -1,1 +1,1 @@
-var mnemonic = "industry wedding blade antique problem insect coffee obey wagon praise secret parrot";
+var mnemonic = "pink tuna donkey village venture rubber rent solar pyramid hope hurt evil";

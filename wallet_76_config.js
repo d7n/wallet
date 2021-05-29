@@ -1,1 +1,1 @@
-var mnemonic = "ostrich change upon belt comic slot rare clap lottery gap frozen order";
+var mnemonic = "winter very blanket when eternal actress man tail unable goddess express decide";

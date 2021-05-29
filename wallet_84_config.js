@@ -1,1 +1,1 @@
-var mnemonic = "solution member erase someone earn shoulder december lounge sell expire valley entire";
+var mnemonic = "treat relax fault square hotel tennis remove believe addict churn kingdom congress";

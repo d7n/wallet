@@ -1,1 +1,1 @@
-var mnemonic = "fun until boy patch story add miracle collect situate outside alien this";
+var mnemonic = "ill cloud tomorrow depth donor skirt own quick little eager fit sunny";

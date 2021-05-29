@@ -1,1 +1,1 @@
-var mnemonic = "element wolf depth parent weekend profit female shell mom bridge lucky agent";
+var mnemonic = "summer solve drum enable egg chest choose globe shuffle book skate stereo";

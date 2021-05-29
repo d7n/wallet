@@ -1,1 +1,1 @@
-var mnemonic = "shuffle horn cup seminar bind immense sentence pole cook response hip sweet";
+var mnemonic = "weird profit candy enlist sing honey rough arrow duck camp kid maid";

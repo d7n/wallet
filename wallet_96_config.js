@@ -1,1 +1,1 @@
-var mnemonic = "panda basket guess move future monkey swamp hip proof slot sponsor erode";
+var mnemonic = "canyon okay actor nut buddy curious you sister case fashion rug vibrant";

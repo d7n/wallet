@@ -1,1 +1,1 @@
-var mnemonic = "seat dinosaur race easy lunar spare describe machine fiber poem expect enjoy";
+var mnemonic = "decade maze miss hobby man eternal fork ranch involve install cereal crush";

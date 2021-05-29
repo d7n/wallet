@@ -1,1 +1,1 @@
-var mnemonic = "wish zero plastic book height uncle sponsor author divide switch pulse kick";
+var mnemonic = "vocal orphan throw champion oval govern swift attend please weasel divorce nest";

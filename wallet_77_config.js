@@ -1,1 +1,1 @@
-var mnemonic = "scare view night radar lounge hard appear paddle note sort glass switch";
+var mnemonic = "cricket mixed accident tank avoid doctor drive flock million need defense special";

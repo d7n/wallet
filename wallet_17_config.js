@@ -1,1 +1,1 @@
-var mnemonic = "apart club response rotate exit please magic apart receive plastic cruel buyer";
+var mnemonic = "embrace adult grape snow recycle domain uncle nest marriage review equal mimic";

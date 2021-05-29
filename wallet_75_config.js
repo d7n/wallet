@@ -1,1 +1,1 @@
-var mnemonic = "live ahead artefact phrase picnic slice lens quarter nominee auction dutch atom";
+var mnemonic = "alarm multiply cup ankle vessel stadium retire other pelican mean palm robust";

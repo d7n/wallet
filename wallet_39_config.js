@@ -1,1 +1,1 @@
-var mnemonic = "acquire parent sphere black maximum comic indicate aspect empower stereo owner whisper";
+var mnemonic = "follow knee forward brass belt fitness best fortune manage wood divide reveal";

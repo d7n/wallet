@@ -1,1 +1,1 @@
-var mnemonic = "tray exit betray cereal shuffle chicken favorite tunnel asset supreme topic intact";
+var mnemonic = "shoot another banner torch casino spoil machine black birth fresh news fever";

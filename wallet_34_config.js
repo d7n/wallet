@@ -1,1 +1,1 @@
-var mnemonic = "shallow addict stem tattoo lock fee spell usual bunker palace inside sustain";
+var mnemonic = "offer pattern guess busy peanut harsh forget extend smoke kiss place mechanic";

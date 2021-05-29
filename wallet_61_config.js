@@ -1,1 +1,1 @@
-var mnemonic = "anxiety dismiss first heavy balance stamp sudden gasp essence rate under slogan";
+var mnemonic = "act coach gospel eye draft nation vanish learn antenna tuition angry bounce";

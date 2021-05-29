@@ -1,1 +1,1 @@
-var mnemonic = "dynamic almost protect eagle element lizard filter poem private truly verb shock";
+var mnemonic = "ticket next physical plastic rude scissors crawl wisdom silent similar apology stool";

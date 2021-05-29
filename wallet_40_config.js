@@ -1,1 +1,1 @@
-var mnemonic = "drastic wolf local great topple pear dress attend filter magic art another";
+var mnemonic = "jeans distance panda woman group banner agent gas omit symbol unfair drum";

@@ -1,1 +1,1 @@
-var mnemonic = "educate gentle quit gadget found shove slogan path fabric device trend squeeze";
+var mnemonic = "senior scheme stone bright essence pluck jar sock gospel field logic odor";

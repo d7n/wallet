@@ -1,1 +1,1 @@
-var mnemonic = "guilt alpha page clown add slow tool bottom spice quality joy upset";
+var mnemonic = "walnut wear naive rug fruit organ little culture legend version brain tip";

@@ -1,1 +1,1 @@
-var mnemonic = "kit select final original art thumb quick outer pistol unlock frown runway";
+var mnemonic = "account solve nominee noise heavy dinosaur tail shoe amused rug can flock";

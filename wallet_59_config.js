@@ -1,1 +1,1 @@
-var mnemonic = "unknown seven subway away cinnamon pyramid hover tiny occur dash option error";
+var mnemonic = "very over puppy critic group blur unlock chronic stay pool usage hunt";

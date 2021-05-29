@@ -1,1 +1,1 @@
-var mnemonic = "install glory decorate play describe tumble monster six liberty ladder noise input";
+var mnemonic = "barely panda ghost physical option symbol health best vault jar deputy degree";

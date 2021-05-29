@@ -1,1 +1,1 @@
-var mnemonic = "maze airport turtle rural small feature tuition level tank invite hire garlic";
+var mnemonic = "meadow crunch labor coil office dentist diet neutral ostrich route question permit";

@@ -1,1 +1,1 @@
-var mnemonic = "relax piece doctor help easily text behave theory object mammal cushion busy";
+var mnemonic = "permit quiz fame congress never scatter soup example silent welcome shed close";

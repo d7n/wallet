@@ -1,1 +1,1 @@
-var mnemonic = "twist syrup female round become empower sure because control second hold bulb";
+var mnemonic = "sun label spoon nuclear barrel ugly winter bulk again glad else orchard";

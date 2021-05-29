@@ -1,1 +1,1 @@
-var mnemonic = "rare audit spawn slot fence move rebel ripple permit behave only image";
+var mnemonic = "price moon riot trash riot use truly talent decrease ghost reform talk";

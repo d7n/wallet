@@ -1,1 +1,1 @@
-var mnemonic = "switch tragic clinic coin march real dash defy mimic scatter deputy flush";
+var mnemonic = "vague planet word ill mail front say more bonus twin poverty melody";

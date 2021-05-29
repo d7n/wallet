@@ -1,1 +1,1 @@
-var mnemonic = "hire color mention body okay rice sister airport swift gauge dance bitter";
+var mnemonic = "vibrant favorite unable aim beach trophy pact humor hurry parrot rich season";

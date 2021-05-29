@@ -1,1 +1,1 @@
-var mnemonic = "cry peanut hurry silver adjust metal gospel oak garden banner poet polar";
+var mnemonic = "lottery dove shift net utility bulk raw human scale wrestle wash indicate";

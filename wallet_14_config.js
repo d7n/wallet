@@ -1,1 +1,1 @@
-var mnemonic = "deliver orchard rural bike relief friend robot can theory now save nothing";
+var mnemonic = "length degree okay tortoise forest attend home helmet umbrella venue carpet frame";

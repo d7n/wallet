@@ -1,1 +1,1 @@
-var mnemonic = "day grace couple bunker whale infant brave category modify auto alert rhythm";
+var mnemonic = "law trend bargain mansion grape ready kid vital wing sock since law";

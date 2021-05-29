@@ -1,1 +1,1 @@
-var mnemonic = "skull nation history very loan artwork panther entry rocket main true nut";
+var mnemonic = "task aerobic idea okay rose soup salute select debris satisfy phrase actor";

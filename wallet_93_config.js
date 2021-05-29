@@ -1,1 +1,1 @@
-var mnemonic = "oil faculty grape change loyal vehicle devote abandon soft assist situate train";
+var mnemonic = "knife stay group pulse ghost cruel economy dice almost bacon wire face";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage main address chief parade usual recipe present crawl diagram copper magnet";
+var mnemonic = "issue unaware dress live media wool region clap reunion one artefact sibling";

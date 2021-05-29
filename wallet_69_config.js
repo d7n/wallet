@@ -1,1 +1,1 @@
-var mnemonic = "pledge echo arch elder undo index frown blind split arctic put soccer";
+var mnemonic = "crisp spoil leisure treat reason column sheriff student jelly grow bring donkey";

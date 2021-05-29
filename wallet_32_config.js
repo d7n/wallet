@@ -1,1 +1,1 @@
-var mnemonic = "century glow erosion light beauty true pilot lens multiply memory throw arrow";
+var mnemonic = "live dune ball action such allow grief chaos ball tired maid color";

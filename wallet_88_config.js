@@ -1,1 +1,1 @@
-var mnemonic = "odor hold stadium liberty now ribbon intact direct then host cousin useless";
+var mnemonic = "someone boss glad draft achieve panther depart pistol catch goose fever trade";

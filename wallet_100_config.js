@@ -1,1 +1,1 @@
-var mnemonic = "want middle hotel globe holiday toast oven physical witness pattern guess swallow";
+var mnemonic = "fetch spray amount enjoy rose punch scrap mercy vault sugar corn treat";

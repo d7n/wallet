@@ -1,1 +1,1 @@
-var mnemonic = "view layer letter loyal often tree twelve shiver fame interest sight bid";
+var mnemonic = "position loan silk burger post degree cannon wreck believe burden twice prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "help core laptop sample second business fuel sadness marriage easily regular then";
+var mnemonic = "source glance silk popular metal movie word phrase castle three volume method";

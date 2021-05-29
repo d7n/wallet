@@ -1,1 +1,1 @@
-var mnemonic = "eye wine visual dirt lunch october ostrich raccoon desert lend cabbage half";
+var mnemonic = "icon sniff route bamboo upper under spread yellow denial protect bonus trip";

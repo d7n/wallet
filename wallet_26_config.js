@@ -1,1 +1,1 @@
-var mnemonic = "power uncover mask base clever fiscal search caught index oxygen february laugh";
+var mnemonic = "topic method pool faint forward left gossip race welcome eager supreme source";

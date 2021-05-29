@@ -1,1 +1,1 @@
-var mnemonic = "hen law mercy age fork bitter damage find future mimic sketch proud";
+var mnemonic = "reward always trust acoustic sword field mimic improve always hotel menu now";

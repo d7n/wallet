@@ -1,1 +1,1 @@
-var mnemonic = "rival jar sort wrist purity sure help believe frown speak luxury brain";
+var mnemonic = "judge art pipe simple suspect flock donkey try width tourist soccer topic";

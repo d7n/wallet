@@ -1,1 +1,1 @@
-var mnemonic = "endless predict cheese case canyon present virtual tube innocent cause daring wool";
+var mnemonic = "melt leg vibrant mouse cute cloth proud file want primary split engine";

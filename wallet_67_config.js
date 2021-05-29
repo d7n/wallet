@@ -1,1 +1,1 @@
-var mnemonic = "stone maid ball color caught turkey defense liar family plug hundred claw";
+var mnemonic = "taxi step wink diet pact ankle output phone talk hollow blue harvest";

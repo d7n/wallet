@@ -1,1 +1,1 @@
-var mnemonic = "regular lounge gospel purchase eagle brain soul suffer capital unit potato voice";
+var mnemonic = "toilet begin artist tuition true fox kitchen option swift observe wrestle camera";

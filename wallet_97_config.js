@@ -1,1 +1,1 @@
-var mnemonic = "forum strategy ski suspect behind divide world jewel arch portion please obey";
+var mnemonic = "chair involve salute twice peasant stamp friend include flag stadium adjust range";

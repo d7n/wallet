@@ -1,1 +1,1 @@
-var mnemonic = "market shop butter unknown myth ship keep annual option topple juice vibrant";
+var mnemonic = "spoon lucky medal apology parade carbon soup capable cross screen must rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus talent gain meadow bring torch roof later space enable million goose";
+var mnemonic = "nature verify equal film river refuse junior ghost south slot stomach problem";

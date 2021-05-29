@@ -1,1 +1,1 @@
-var mnemonic = "casino oxygen notable worry snap remember senior around valve original feature medal";
+var mnemonic = "trim almost boat company letter slogan fatal fever boost clarify since kit";

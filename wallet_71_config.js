@@ -1,1 +1,1 @@
-var mnemonic = "orange repair potato piece belt slice major slogan rose smooth alpha vintage";
+var mnemonic = "soccer pluck parade shine require olympic weather vintage staff coyote auction manage";

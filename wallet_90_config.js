@@ -1,1 +1,1 @@
-var mnemonic = "mind custom industry iron remember quote actress blame congress empower link increase";
+var mnemonic = "online hole warm doll finger panic media ten enough rigid choose disagree";

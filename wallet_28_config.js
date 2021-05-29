@@ -1,1 +1,1 @@
-var mnemonic = "merry depth solid police settle quick odor admit labor survey kid else";
+var mnemonic = "taxi one ribbon favorite drive need click reopen rib lava achieve series";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow romance tired invest share horror razor board slow burden earn deer";
+var mnemonic = "notice way tobacco author lottery glue whisper animal slogan vocal increase tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "view alien crystal clip laugh history pumpkin steak monster shine inject sure";
+var mnemonic = "scrap blue jewel curve hundred approve treat run program front front roast";

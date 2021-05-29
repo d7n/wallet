@@ -1,1 +1,1 @@
-var mnemonic = "near exact thumb employ sheriff junk group sun across beyond stuff silver";
+var mnemonic = "kidney penalty stay pass abstract minor flame kit nest replace rain wage";

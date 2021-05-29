@@ -1,1 +1,1 @@
-var mnemonic = "glad filter lounge small enjoy van food rotate glare fiber reunion swallow";
+var mnemonic = "lend question civil rebel genre property ramp steak cabbage solution drive calm";

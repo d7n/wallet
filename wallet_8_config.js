@@ -1,1 +1,1 @@
-var mnemonic = "space chronic blanket ordinary frame initial recycle twenty spatial police corn hurry";
+var mnemonic = "public carbon choose spin mansion involve misery globe leaf result surface urban";

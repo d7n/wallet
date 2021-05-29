@@ -1,1 +1,1 @@
-var mnemonic = "country fix topic angry auto kind sail oven mutual ask prison volcano";
+var mnemonic = "harsh best zone rebuild demise raise nation marble spin remind color only";

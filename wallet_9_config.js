@@ -1,1 +1,1 @@
-var mnemonic = "bullet duck moon play mystery asthma harsh wealth convince twin common gold";
+var mnemonic = "pen grit educate velvet grace corn tiny vessel fame famous cram job";

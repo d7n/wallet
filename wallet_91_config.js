@@ -1,1 +1,1 @@
-var mnemonic = "design wild stuff cry canal fuel soap arena random admit chicken soap";
+var mnemonic = "bubble rifle lumber lamp adult pulse same crystal pear tourist convince puzzle";

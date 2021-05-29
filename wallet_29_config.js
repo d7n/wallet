@@ -1,1 +1,1 @@
-var mnemonic = "flip notice runway swing street soda settle donor change crazy sound evolve";
+var mnemonic = "scene curve music magic visit vault absurd acquire busy vacuum good jacket";

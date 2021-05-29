@@ -1,1 +1,1 @@
-var mnemonic = "cat quantum taste dwarf recipe frost calm illness resource pact shuffle crater";
+var mnemonic = "enforce bike width photo slide volume broccoli license object giraffe east spin";

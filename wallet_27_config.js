@@ -1,1 +1,1 @@
-var mnemonic = "champion satoshi junk magnet round ring appear anger spider adult cram worry";
+var mnemonic = "below confirm lounge common loyal coil sing warrior combine panel weird mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "divert jealous town grace liar refuse sing point wheel cube upper bargain";
+var mnemonic = "toward stand forest result panda visit bitter argue copy coast cannon absurd";

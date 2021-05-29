@@ -1,1 +1,1 @@
-var mnemonic = "enrich eight favorite enough oven worry degree whisper polar employ gate tumble";
+var mnemonic = "syrup mass board favorite crew august still plate iron upset order garden";

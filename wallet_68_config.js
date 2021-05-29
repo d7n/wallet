@@ -1,1 +1,1 @@
-var mnemonic = "smoke endless boat dance victory cabin fantasy menu rich lift aspect tourist";
+var mnemonic = "pause crowd venue day asset mind picnic there gap awake mixture scrap";

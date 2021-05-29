@@ -1,1 +1,1 @@
-var mnemonic = "art crane shaft kid setup elegant asthma cause enforce feel find salon";
+var mnemonic = "noise radio purse bridge limit wisdom core gesture drum scorpion dove airport";

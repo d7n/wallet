@@ -1,1 +1,1 @@
-var mnemonic = "breeze sure fortune penalty daughter federal boat myself clutch spike borrow sword";
+var mnemonic = "liquid injury rabbit illegal topple mention account floor cruel asthma kidney delay";

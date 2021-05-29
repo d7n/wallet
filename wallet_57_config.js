@@ -1,1 +1,1 @@
-var mnemonic = "maximum tilt hold educate inhale glimpse van satoshi palm inmate tail manual";
+var mnemonic = "canoe hockey ghost canoe chef quarter asthma slow coil rebel poverty violin";

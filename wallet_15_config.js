@@ -1,1 +1,1 @@
-var mnemonic = "disease prison opera disorder symbol call video fire fiscal future pulp plastic";
+var mnemonic = "daughter sister price project that clutch want crowd wonder yellow eternal wet";

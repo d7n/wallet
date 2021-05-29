@@ -1,1 +1,1 @@
-var mnemonic = "camera dose useless hurt prison area mask desk bulb arrest okay pepper";
+var mnemonic = "cost update pyramid face dutch project approve matrix grain nominee weekend spell";

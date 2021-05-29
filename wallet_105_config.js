@@ -1,1 +1,1 @@
-var mnemonic = "unfair above click eternal magic cake major genuine monitor secret win permit";
+var mnemonic = "rely feel sort primary glance window plunge huge note sister loop initial";

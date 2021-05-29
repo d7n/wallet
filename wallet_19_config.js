@@ -1,1 +1,1 @@
-var mnemonic = "squeeze royal scrub ethics replace spot foot toy black series ride bamboo";
+var mnemonic = "guess endorse crucial wrong stumble anxiety large move buddy hockey syrup inhale";

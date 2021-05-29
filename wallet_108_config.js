@@ -1,1 +1,1 @@
-var mnemonic = "hungry fox pelican milk chunk swim inside soap crane urge modify earn";
+var mnemonic = "tree bread unit spend typical design entire worry picnic aspect pride auction";

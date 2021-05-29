@@ -1,1 +1,1 @@
-var mnemonic = "bid shock defense submit produce solve engage mad record dilemma gentle say";
+var mnemonic = "shoulder adult tooth machine rather student rebel circle inspire settle local unveil";

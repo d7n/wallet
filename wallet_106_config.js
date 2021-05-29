@@ -1,1 +1,1 @@
-var mnemonic = "require hollow metal merit ball jazz debate giggle board artefact minor convince";
+var mnemonic = "shadow collect junior fine direct wrist crack bacon bullet slab fuel burden";

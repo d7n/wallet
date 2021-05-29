@@ -1,1 +1,1 @@
-var mnemonic = "brain sun cigar tooth glad leader page electric clay rely dish undo";
+var mnemonic = "pizza spin fiber forget cloud luxury early lonely salad interest cave oven";
