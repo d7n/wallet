@@ -1,1 +1,1 @@
-var mnemonic = "audit style patch myself goddess capital mutual style emotion robust grape cargo";
+var mnemonic = "search belt bicycle orchard stick element gloom soap enjoy false chest position";

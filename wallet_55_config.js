@@ -1,1 +1,1 @@
-var mnemonic = "crane category large gentle arena such help glad essay dragon super cost";
+var mnemonic = "news rural gas core beauty couple diet invest keen seven destroy high";

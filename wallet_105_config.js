@@ -1,1 +1,1 @@
-var mnemonic = "cheap holiday exhaust junior pizza rebuild good enable until favorite rug you";
+var mnemonic = "inflict focus federal quote jeans peanut undo glass erosion annual practice pave";

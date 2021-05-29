@@ -1,1 +1,1 @@
-var mnemonic = "mistake pottery ticket panther nothing job caught embody legend pool top yard";
+var mnemonic = "own august toward april door then frozen funny puzzle basket oblige arena";

@@ -1,1 +1,1 @@
-var mnemonic = "appear kite school innocent require play reject calm rhythm patrol thrive version";
+var mnemonic = "absurd family decrease elegant cry few swamp boat amount angry lens border";

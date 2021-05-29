@@ -1,1 +1,1 @@
-var mnemonic = "venture toilet throw easy purpose inspire critic oak cactus identify special joke";
+var mnemonic = "sock ship bronze lumber pave grant memory deposit lucky earth endless speak";

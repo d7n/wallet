@@ -1,1 +1,1 @@
-var mnemonic = "present swap nephew carbon syrup sorry sell common seven fresh unaware high";
+var mnemonic = "window company sell alley clever business riot jaguar license stamp fruit marriage";

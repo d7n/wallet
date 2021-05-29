@@ -1,1 +1,1 @@
-var mnemonic = "oppose cement miracle symbol account light hill also dinosaur lizard practice hello";
+var mnemonic = "mushroom napkin boost cradle require athlete race envelope donkey list skill prepare";

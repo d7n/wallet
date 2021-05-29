@@ -1,1 +1,1 @@
-var mnemonic = "fix seat message milk whale believe phrase card apology myself ecology catch";
+var mnemonic = "basket then cause woman circle diary tide team lake install useless corn";

@@ -1,1 +1,1 @@
-var mnemonic = "siege moon roof recipe only toss lunar clump exhibit praise pilot sustain";
+var mnemonic = "lens print limb lunch diary behind access success gift update wait obscure";

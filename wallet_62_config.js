@@ -1,1 +1,1 @@
-var mnemonic = "nominee symbol beyond spray know dance vivid panda quarter swing brick today";
+var mnemonic = "any exercise tide armed shift meadow before image snake matrix glass energy";

@@ -1,1 +1,1 @@
-var mnemonic = "during truly divorce slide furnace cave rubber legend tennis hello cover later";
+var mnemonic = "path trophy couple arm nest swarm own glory nothing digital section model";

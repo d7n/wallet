@@ -1,1 +1,1 @@
-var mnemonic = "old sheriff excuse liquid maid sort yard cover carpet supply govern crater";
+var mnemonic = "noise turkey palace soon maple claw owner often indoor blind market spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion result tone wide time guide soldier spatial grain laugh hero love";
+var mnemonic = "match valley version rich bulk shoot accuse extra right express glass arctic";

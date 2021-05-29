@@ -1,1 +1,1 @@
-var mnemonic = "fault end edit library baby start ceiling interest there brush uncle green";
+var mnemonic = "pony type there day sure general multiply edge pluck glove unusual unlock";

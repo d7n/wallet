@@ -1,1 +1,1 @@
-var mnemonic = "enemy episode token carpet involve picnic pluck nut legend desk total enlist";
+var mnemonic = "strike leisure fragile awkward random afraid onion jar nut puppy scatter first";

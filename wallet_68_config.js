@@ -1,1 +1,1 @@
-var mnemonic = "sniff riot uncover provide debris chief minute furnace marriage phone arrow conduct";
+var mnemonic = "junior country erode country buzz dad team page panther boring corn couch";

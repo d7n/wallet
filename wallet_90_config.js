@@ -1,1 +1,1 @@
-var mnemonic = "ramp media crowd session siege put give list cup student flee valid";
+var mnemonic = "second addict legend birth tube main welcome toy clump intact patient accident";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery bracket beyond toast couch crowd lock rookie pond arctic squeeze choice";
+var mnemonic = "genius blur panda glimpse urge chapter wrist segment hungry ticket glow sun";

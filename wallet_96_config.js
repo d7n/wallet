@@ -1,1 +1,1 @@
-var mnemonic = "pen practice seed isolate keen anger enlist army february album cousin vendor";
+var mnemonic = "celery disagree seat eternal doctor multiply tomorrow slow hole screen crane inner";

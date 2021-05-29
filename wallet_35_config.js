@@ -1,1 +1,1 @@
-var mnemonic = "pluck system casino shoot random tape road joy great excess twist cool";
+var mnemonic = "mimic sock master offer shy entire all impact tired final tragic search";

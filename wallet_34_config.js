@@ -1,1 +1,1 @@
-var mnemonic = "shield lamp hunt police age kiwi tool apple loyal demand keep this";
+var mnemonic = "actual net fabric eyebrow dismiss resemble glare into web nephew since midnight";

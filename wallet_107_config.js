@@ -1,1 +1,1 @@
-var mnemonic = "bullet hospital swamp virus dignity link bomb gesture dizzy speed provide wedding";
+var mnemonic = "broccoli dutch trip elite fat desert wreck punch okay process country giant";

@@ -1,1 +1,1 @@
-var mnemonic = "flame release quantum snake sad burden virtual normal peasant song vessel coral";
+var mnemonic = "cart evolve zero type wood globe screen horror toy universe wood lemon";

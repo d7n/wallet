@@ -1,1 +1,1 @@
-var mnemonic = "impulse accuse income salute smooth salmon gadget gospel grab tunnel rare topic";
+var mnemonic = "alcohol icon puzzle glad poet cradle menu practice guide cram gallery thumb";

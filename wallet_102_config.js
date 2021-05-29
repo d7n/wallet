@@ -1,1 +1,1 @@
-var mnemonic = "group clarify render palace galaxy amused minute artist river latin dad frame";
+var mnemonic = "project submit cover script someone donor grass destroy cereal throw learn ticket";

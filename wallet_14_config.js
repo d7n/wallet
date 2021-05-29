@@ -1,1 +1,1 @@
-var mnemonic = "danger turkey bicycle helmet half multiply obscure shrug siege play wait zoo";
+var mnemonic = "cube cactus recall display riot gown fringe front erupt kidney oppose mushroom";

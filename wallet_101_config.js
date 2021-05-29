@@ -1,1 +1,1 @@
-var mnemonic = "lonely monkey rate bubble youth casual scene fetch candy auto bargain sunset";
+var mnemonic = "cushion defy extend bird cheap gaze area sport topple vague cloth tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet staff muscle banner march hill century boring shop south odor yellow";
+var mnemonic = "gift certain insect napkin gesture conduct despair surface cook tourist inherit treat";

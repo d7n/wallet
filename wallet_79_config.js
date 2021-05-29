@@ -1,1 +1,1 @@
-var mnemonic = "other attract slide nerve disagree gate siren bag width illegal double room";
+var mnemonic = "lend shell child sentence rule this grain crowd steel amateur practice tongue";

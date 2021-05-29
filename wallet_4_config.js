@@ -1,1 +1,1 @@
-var mnemonic = "common brief year general absurd unusual gesture raw neglect chaos catch medal";
+var mnemonic = "deputy sort fatigue moral mesh claw cereal update panic chimney dwarf crime";

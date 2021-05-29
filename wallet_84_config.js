@@ -1,1 +1,1 @@
-var mnemonic = "loyal crash cat sweet economy noble wheel audit wait fuel advice baby";
+var mnemonic = "embark repeat rescue gorilla alpha gold kitten violin into nut raccoon sure";

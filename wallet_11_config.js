@@ -1,1 +1,1 @@
-var mnemonic = "meat invite wheel device ask begin slide danger rookie prevent pear face";
+var mnemonic = "seat beyond safe south bullet blossom critic outside safe sell aunt sign";

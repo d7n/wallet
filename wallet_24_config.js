@@ -1,1 +1,1 @@
-var mnemonic = "cereal now silver draft frame surround measure embark step arrange alert crush";
+var mnemonic = "anger aspect top already rhythm limit fork social entry era merge purchase";

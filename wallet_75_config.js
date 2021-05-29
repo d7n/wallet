@@ -1,1 +1,1 @@
-var mnemonic = "fringe route parent brief please inform small chair arena gravity general increase";
+var mnemonic = "private start view twelve athlete manage afraid light tower point print elegant";

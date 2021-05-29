@@ -1,1 +1,1 @@
-var mnemonic = "repair indoor forget supreme carbon possible crucial sketch eye success sun recipe";
+var mnemonic = "obtain note similar when pelican math mean dragon long awful document ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "panic hero auto world pig soda pluck swap urban way hundred usage";
+var mnemonic = "hotel clown ankle clump pumpkin gasp congress orbit legal wife include tank";

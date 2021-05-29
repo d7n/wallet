@@ -1,1 +1,1 @@
-var mnemonic = "weekend swamp lyrics veteran together slice skill quarter wrap upper all culture";
+var mnemonic = "drink fatigue south enact humble north wait absorb tag hill rather wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "across ticket cabin crop traffic saddle inform scrap later bundle alert zone";
+var mnemonic = "hole owner goose family gas light radar slim brave view seminar library";

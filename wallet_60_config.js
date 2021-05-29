@@ -1,1 +1,1 @@
-var mnemonic = "tissue canoe economy usage actual want cross pudding fix genre increase unknown";
+var mnemonic = "curtain urban pipe tennis gallery found drastic ripple cute tennis hobby suggest";

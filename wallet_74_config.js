@@ -1,1 +1,1 @@
-var mnemonic = "estate twist salon quality certain stay net behind execute abandon visit crater";
+var mnemonic = "announce glow ribbon draw gold submit employ sniff add catalog cloth cram";

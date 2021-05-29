@@ -1,1 +1,1 @@
-var mnemonic = "uncover stem dice frost slender cotton maximum access draft bone allow orphan";
+var mnemonic = "liar wink life behind glass recycle dynamic notice absurd winner merge toss";

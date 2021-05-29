@@ -1,1 +1,1 @@
-var mnemonic = "meat reflect runway purity real child emerge this escape peanut burst fence";
+var mnemonic = "million kingdom scrap win unaware harvest foster host hockey pottery critic cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve sample spoon eye gravity load library volume ribbon civil shift sure";
+var mnemonic = "album roast space ski wear ready visit voyage polar obvious satisfy pulp";

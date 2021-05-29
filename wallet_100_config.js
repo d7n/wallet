@@ -1,1 +1,1 @@
-var mnemonic = "right modify depend slice eternal park physical example coyote struggle fashion much";
+var mnemonic = "ozone lyrics detect diesel nurse timber pumpkin harbor black cry wrestle sight";

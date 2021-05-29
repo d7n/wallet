@@ -1,1 +1,1 @@
-var mnemonic = "scout combine topic piano scissors focus inform rail radio dial typical matter";
+var mnemonic = "divert pudding pencil sunset deputy liberty february axis board romance gather cat";

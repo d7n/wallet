@@ -1,1 +1,1 @@
-var mnemonic = "shift defense chief gym invite museum learn fury charge rhythm kangaroo coffee";
+var mnemonic = "laptop emotion glass wasp sheriff general mystery tiny spin enable length jungle";

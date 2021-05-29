@@ -1,1 +1,1 @@
-var mnemonic = "urge execute abuse input power garage giggle under dilemma color actress detect";
+var mnemonic = "goddess egg panther estate maze marble wife brother gym keen craft scene";

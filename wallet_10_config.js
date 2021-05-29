@@ -1,1 +1,1 @@
-var mnemonic = "month equip enrich aim lucky size quote toss crew essence peanut stand";
+var mnemonic = "matter direct heart garbage seek tank step prefer gaze fuel picture mandate";

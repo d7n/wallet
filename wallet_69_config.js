@@ -1,1 +1,1 @@
-var mnemonic = "scrap front hip repair honey april youth reunion genius plastic reveal gesture";
+var mnemonic = "strong post panel hamster stem funny nice menu ceiling weekend lock rib";

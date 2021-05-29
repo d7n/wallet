@@ -1,1 +1,1 @@
-var mnemonic = "torch summer dignity swarm grid dust drama ancient grow false egg glow";
+var mnemonic = "roof clog social erode december unique crop crash amazing kitten pulse problem";

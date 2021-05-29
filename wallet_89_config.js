@@ -1,1 +1,1 @@
-var mnemonic = "naive forward jealous economy strike mix bacon symbol fade base suspect remain";
+var mnemonic = "heart smile hero test glance bottom ginger anger tornado modify cotton runway";

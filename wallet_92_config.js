@@ -1,1 +1,1 @@
-var mnemonic = "hover shallow riot disagree infant cradle wise pact noise isolate unhappy force";
+var mnemonic = "vacant half ginger obscure science duty action vessel aware believe dance vague";

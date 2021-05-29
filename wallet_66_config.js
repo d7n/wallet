@@ -1,1 +1,1 @@
-var mnemonic = "absurd wrist chef sick shop bridge match medal fragile swallow usual enter";
+var mnemonic = "eager today text pave rifle almost error soul cake tube south lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "agree bleak rib noodle embark finger lamp arch hungry often cushion arrow";
+var mnemonic = "soup smile depend cross ski since trade flush cherry mobile alert census";

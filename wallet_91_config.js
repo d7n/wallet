@@ -1,1 +1,1 @@
-var mnemonic = "retire camera blast echo input glue weapon venture step magnet hidden dawn";
+var mnemonic = "hard scheme same crash lens daughter weapon capable glad blush extra pen";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge bright vicious ritual jeans search dry media combine stand final parade";
+var mnemonic = "drill ensure gold love yard message coil carbon reduce real apart horn";

@@ -1,1 +1,1 @@
-var mnemonic = "smart essay stamp valve cube bring decrease office wish simple destroy rally";
+var mnemonic = "avocado regular green include favorite cable skirt tongue suggest action blouse plastic";

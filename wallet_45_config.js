@@ -1,1 +1,1 @@
-var mnemonic = "response idea tip together dose twin target large giggle smoke long raw";
+var mnemonic = "interest recipe furnace unfair buddy say pig manual horn cable embody foil";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck brave reveal demand engine artefact unaware meat spot stadium eager vast";
+var mnemonic = "vanish fine picnic buddy gas marriage fun release fashion useful decide pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "renew shove assist wasp gym huge shuffle giggle decide soap oppose unable";
+var mnemonic = "attack genuine wife stove base glow puppy fly history devote letter walk";

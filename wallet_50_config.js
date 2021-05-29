@@ -1,1 +1,1 @@
-var mnemonic = "power crazy dinosaur hello wool fan picture spice patch hire mass appear";
+var mnemonic = "pony cereal twin gasp under foil honey limb keep wood runway major";

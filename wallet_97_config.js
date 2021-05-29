@@ -1,1 +1,1 @@
-var mnemonic = "often sight enroll common bicycle mention tail know metal legal chief airport";
+var mnemonic = "fix present round weapon cute spin parade onion pilot foot miracle town";

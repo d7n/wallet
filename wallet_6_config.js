@@ -1,1 +1,1 @@
-var mnemonic = "regular pony blame fruit comic supply safe juice ordinary girl oil shoe";
+var mnemonic = "crack naive comic like upset element stomach crawl love act minimum price";

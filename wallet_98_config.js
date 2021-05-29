@@ -1,1 +1,1 @@
-var mnemonic = "mad bring focus wall hurry rely marine truck luxury account rocket exercise";
+var mnemonic = "ignore frequent fantasy wolf used story fog devote exact usual paper warfare";

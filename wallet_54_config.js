@@ -1,1 +1,1 @@
-var mnemonic = "spider quick method ship replace name possible brave will this cube run";
+var mnemonic = "pave phone copper accident issue duty digital load devote crunch garlic rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy mammal crop purchase aisle tribe boost garment gown display cup hip";
+var mnemonic = "mechanic broom scrap total lava photo angle brass point era salon pattern";

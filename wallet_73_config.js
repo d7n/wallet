@@ -1,1 +1,1 @@
-var mnemonic = "tornado require chat exercise blue hole away climb render current skull kingdom";
+var mnemonic = "ahead alarm wink aspect juice reward hazard paddle happy salon refuse mesh";

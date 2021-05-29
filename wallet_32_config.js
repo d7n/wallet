@@ -1,1 +1,1 @@
-var mnemonic = "patch boring camera link diesel name window thrive truck like identify moon";
+var mnemonic = "myth eager bracket claim cannon prevent hub need south boss young famous";

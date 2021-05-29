@@ -1,1 +1,1 @@
-var mnemonic = "forget fluid body possible earn share argue moral kiwi master bless tube";
+var mnemonic = "celery crumble swarm legend notice upgrade profit top shock cloth electric riot";

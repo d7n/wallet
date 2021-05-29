@@ -1,1 +1,1 @@
-var mnemonic = "radio hire theory zone fox dolphin update item alert title friend direct";
+var mnemonic = "useful lawsuit trend aerobic apart benefit seek empty vanish luggage olive salon";

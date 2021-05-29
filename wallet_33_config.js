@@ -1,1 +1,1 @@
-var mnemonic = "arch dice above injury wagon concert man alter invite ripple million chunk";
+var mnemonic = "furnace capable hockey clown team box item cradle outside novel intact swing";

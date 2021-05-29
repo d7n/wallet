@@ -1,1 +1,1 @@
-var mnemonic = "rigid shadow raccoon shield fiber mandate tilt bundle flame test puzzle venture";
+var mnemonic = "host cushion visual alarm roast arena source that twenty vacant aware alter";

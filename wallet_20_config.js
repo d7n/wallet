@@ -1,1 +1,1 @@
-var mnemonic = "tunnel mention comic car stem fever fresh glare despair upset ankle ten";
+var mnemonic = "island merge forum nice example document merry that online reopen inner emotion";

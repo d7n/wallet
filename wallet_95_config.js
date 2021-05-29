@@ -1,1 +1,1 @@
-var mnemonic = "share gain sphere enrich claw beach track capable spice tag history clap";
+var mnemonic = "sting enable patrol roof found coffee warrior ladder express risk involve woman";

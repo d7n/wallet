@@ -1,1 +1,1 @@
-var mnemonic = "sure jacket recipe actor swamp basket quit glove spy patient tonight affair";
+var mnemonic = "release enter nut oak any gallery brief cactus profit story comic equip";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness grunt pole ladder tool property throw rubber simple dismiss original hire";
+var mnemonic = "mixture pulse infant exist depart rubber quick faculty sign reopen pull pulse";

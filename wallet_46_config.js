@@ -1,1 +1,1 @@
-var mnemonic = "east rookie write crime scorpion call shift roast audit jewel lumber garbage";
+var mnemonic = "limit warm kind news harsh dress exile nasty discover opinion clump bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "chef frown unit hole sphere ask actual visit total recycle spread renew";
+var mnemonic = "family grain dinner mass memory garbage art dynamic coffee gain kid garage";

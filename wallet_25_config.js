@@ -1,1 +1,1 @@
-var mnemonic = "video basic tongue search excite lake donkey stuff motor empty like skirt";
+var mnemonic = "skin sleep caught road enjoy present heavy radar depth warrior private shove";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cabin wire scout climb broom umbrella require host salt violin truck";
+var mnemonic = "globe friend post float check success object snap bomb dirt mutual system";

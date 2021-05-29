@@ -1,1 +1,1 @@
-var mnemonic = "mammal right cute bag swear glow piece insane palm home struggle catalog";
+var mnemonic = "shoe pony pull lunar syrup web glory stomach pole diesel else hundred";

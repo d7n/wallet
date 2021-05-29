@@ -1,1 +1,1 @@
-var mnemonic = "elite clump neck camp program bless field radar thank tennis insect antique";
+var mnemonic = "double abstract slim rabbit bicycle naive sniff venture robust require ritual robust";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange high under essay viable april ticket crew bamboo gown token remember";
+var mnemonic = "learn warfare robot post angle afraid right enter athlete balance bitter aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "clog over notable build couch shop guard best provide circle flavor angry";
+var mnemonic = "wish aunt mimic salon pear issue vibrant pair sample blanket bundle exhibit";

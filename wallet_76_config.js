@@ -1,1 +1,1 @@
-var mnemonic = "identify share shoe space inherit interest wolf public lyrics palm tool chief";
+var mnemonic = "anger screen sustain elephant scrub pair embrace suit slim warrior victory donkey";

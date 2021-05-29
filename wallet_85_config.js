@@ -1,1 +1,1 @@
-var mnemonic = "jacket blood rather cradle flight time ceiling public inmate razor find all";
+var mnemonic = "answer picture result dog possible marble little protect uncover about tray sense";

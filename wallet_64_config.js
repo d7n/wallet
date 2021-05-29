@@ -1,1 +1,1 @@
-var mnemonic = "pink sudden pulp drama loan echo vault wealth version panel day expose";
+var mnemonic = "weekend whisper flavor lonely knock output proof puzzle vapor gadget cousin torch";

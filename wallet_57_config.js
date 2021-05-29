@@ -1,1 +1,1 @@
-var mnemonic = "evil wing fox bicycle tag cotton supply bulk alley gravity ordinary wise";
+var mnemonic = "height gossip trend fish render pill uniform tragic base fence toast shallow";

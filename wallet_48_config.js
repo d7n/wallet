@@ -1,1 +1,1 @@
-var mnemonic = "rough insect avoid tennis expose ghost hat excess armed ketchup situate fever";
+var mnemonic = "solar tell puzzle talent gather renew shed motor wash critic beyond boat";
