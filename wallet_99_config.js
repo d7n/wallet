@@ -1,1 +1,1 @@
-var mnemonic = "retreat wrong peace rocket peasant inflict glimpse film search bracket upon fade";
+var mnemonic = "pluck canoe fox float shadow miss recipe catch icon junior frequent lounge";

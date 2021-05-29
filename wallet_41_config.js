@@ -1,1 +1,1 @@
-var mnemonic = "curious update beyond error income festival dance crunch grass point relief media";
+var mnemonic = "across ticket cabin crop traffic saddle inform scrap later bundle alert zone";

@@ -1,1 +1,1 @@
-var mnemonic = "merry below glimpse fatal account prosper split mass loyal rule food jewel";
+var mnemonic = "danger turkey bicycle helmet half multiply obscure shrug siege play wait zoo";

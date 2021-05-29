@@ -1,1 +1,1 @@
-var mnemonic = "timber tray wolf involve live notice very hawk wall meadow mouse weasel";
+var mnemonic = "fault end edit library baby start ceiling interest there brush uncle green";

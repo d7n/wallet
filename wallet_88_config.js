@@ -1,1 +1,1 @@
-var mnemonic = "urge pattern harvest raw flat hour police release fringe price tail cost";
+var mnemonic = "library unique addict someone stand market crater summer few swap record track";

@@ -1,1 +1,1 @@
-var mnemonic = "trial brand switch panel average hello float mutual enforce negative endorse tissue";
+var mnemonic = "clog over notable build couch shop guard best provide circle flavor angry";

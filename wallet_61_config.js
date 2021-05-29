@@ -1,1 +1,1 @@
-var mnemonic = "panther drama squirrel detail fancy hover there motion extra piece lake army";
+var mnemonic = "expose mushroom father deal pumpkin pledge beauty still axis warfare frown correct";

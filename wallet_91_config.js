@@ -1,1 +1,1 @@
-var mnemonic = "tape club enemy fortune broom blood vehicle cupboard pig alert clip behave";
+var mnemonic = "retire camera blast echo input glue weapon venture step magnet hidden dawn";

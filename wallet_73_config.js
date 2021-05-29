@@ -1,1 +1,1 @@
-var mnemonic = "milk welcome piano mountain deal glue because cotton supreme near finger city";
+var mnemonic = "tornado require chat exercise blue hole away climb render current skull kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid slush gain escape nothing wisdom meadow note jeans whip crash diary";
+var mnemonic = "pink sudden pulp drama loan echo vault wealth version panel day expose";

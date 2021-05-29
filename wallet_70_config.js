@@ -1,1 +1,1 @@
-var mnemonic = "hybrid ripple scheme crumble define shoot flag wear muffin cradle heavy slow";
+var mnemonic = "rally screen wide short shaft story early wreck have pattern control swift";

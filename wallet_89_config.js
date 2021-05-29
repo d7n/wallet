@@ -1,1 +1,1 @@
-var mnemonic = "nose metal tone video around desk fit habit engine edge foster fitness";
+var mnemonic = "naive forward jealous economy strike mix bacon symbol fade base suspect remain";

@@ -1,1 +1,1 @@
-var mnemonic = "stay knife hockey exchange solve scrub finish announce sorry derive ensure addict";
+var mnemonic = "absurd wrist chef sick shop bridge match medal fragile swallow usual enter";

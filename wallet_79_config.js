@@ -1,1 +1,1 @@
-var mnemonic = "advance caught route unfold shock danger canvas report easily bean quiz believe";
+var mnemonic = "other attract slide nerve disagree gate siren bag width illegal double room";

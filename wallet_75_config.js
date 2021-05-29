@@ -1,1 +1,1 @@
-var mnemonic = "fatal liberty ill theory debris found hat purity orphan critic decrease need";
+var mnemonic = "fringe route parent brief please inform small chair arena gravity general increase";

@@ -1,1 +1,1 @@
-var mnemonic = "receive plate omit predict organ endorse silent rapid series latin sausage animal";
+var mnemonic = "human tissue boil alarm jump humor green umbrella mistake cinnamon vibrant catalog";

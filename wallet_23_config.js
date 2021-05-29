@@ -1,1 +1,1 @@
-var mnemonic = "upper burst digital proof ball surprise improve swamp impact asset congress promote";
+var mnemonic = "media trim deal over area name alley below arctic fluid hard own";

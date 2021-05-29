@@ -1,1 +1,1 @@
-var mnemonic = "category gesture action cereal mixed lobster attend evoke utility version output fee";
+var mnemonic = "chef frown unit hole sphere ask actual visit total recycle spread renew";

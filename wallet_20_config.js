@@ -1,1 +1,1 @@
-var mnemonic = "laptop monkey volume test side universe announce dog kidney adjust uncle weapon";
+var mnemonic = "tunnel mention comic car stem fever fresh glare despair upset ankle ten";

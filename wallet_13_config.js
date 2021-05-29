@@ -1,1 +1,1 @@
-var mnemonic = "cook fuel hollow panda avocado galaxy axis comfort approve accident relief mass";
+var mnemonic = "siege moon roof recipe only toss lunar clump exhibit praise pilot sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "immune welcome hire tooth wagon flavor kid vivid marine tobacco leisure option";
+var mnemonic = "spider quick method ship replace name possible brave will this cube run";

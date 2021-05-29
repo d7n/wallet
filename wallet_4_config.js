@@ -1,1 +1,1 @@
-var mnemonic = "hurt assume method diet call guess prison cram shield tower size brush";
+var mnemonic = "common brief year general absurd unusual gesture raw neglect chaos catch medal";

@@ -1,1 +1,1 @@
-var mnemonic = "jar response pink settle inherit city outside coil outside ginger thumb bread";
+var mnemonic = "loyal crash cat sweet economy noble wheel audit wait fuel advice baby";

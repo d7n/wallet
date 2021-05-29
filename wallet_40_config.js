@@ -1,1 +1,1 @@
-var mnemonic = "hen glue taste sick horror battle victory someone health armed wall spread";
+var mnemonic = "agree bleak rib noodle embark finger lamp arch hungry often cushion arrow";

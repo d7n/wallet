@@ -1,1 +1,1 @@
-var mnemonic = "element divorce across crater loyal unit ridge clump crisp enjoy spin stage";
+var mnemonic = "lonely monkey rate bubble youth casual scene fetch candy auto bargain sunset";

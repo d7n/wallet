@@ -1,1 +1,1 @@
-var mnemonic = "short derive spin cushion record diet coral blush fatal smart ritual total";
+var mnemonic = "rice ribbon old across eternal valley post gate impact lawn happy slow";

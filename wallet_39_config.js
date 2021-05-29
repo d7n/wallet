@@ -1,1 +1,1 @@
-var mnemonic = "envelope rough found fox animal buzz party holiday wreck fatigue salad razor";
+var mnemonic = "renew shove assist wasp gym huge shuffle giggle decide soap oppose unable";

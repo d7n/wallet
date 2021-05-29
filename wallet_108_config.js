@@ -1,1 +1,1 @@
-var mnemonic = "desert alley decide trend visit topple swallow close eager slide pool garden";
+var mnemonic = "nerve sample spoon eye gravity load library volume ribbon civil shift sure";

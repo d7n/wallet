@@ -1,1 +1,1 @@
-var mnemonic = "deputy bulk piece text step solar effort park inhale beauty caution found";
+var mnemonic = "immense choose morning palm suffer outside same burst witness among install curtain";

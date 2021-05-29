@@ -1,1 +1,1 @@
-var mnemonic = "green wine chief night salon goddess shallow lecture news tuition laundry sword";
+var mnemonic = "identify share shoe space inherit interest wolf public lyrics palm tool chief";

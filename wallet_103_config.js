@@ -1,1 +1,1 @@
-var mnemonic = "potato caution lift brick aunt range over travel veteran benefit disagree romance";
+var mnemonic = "rigid shadow raccoon shield fiber mandate tilt bundle flame test puzzle venture";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost piano zone announce pottery laptop miss hidden vendor since fetch cool";
+var mnemonic = "video basic tongue search excite lake donkey stuff motor empty like skirt";

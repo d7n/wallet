@@ -1,1 +1,1 @@
-var mnemonic = "random scrub runway core scissors cost rough group parent popular fan divorce";
+var mnemonic = "old sheriff excuse liquid maid sort yard cover carpet supply govern crater";

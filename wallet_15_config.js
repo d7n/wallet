@@ -1,1 +1,1 @@
-var mnemonic = "glue beauty project buddy front pass lion trick chief grace close jelly";
+var mnemonic = "present swap nephew carbon syrup sorry sell common seven fresh unaware high";

@@ -1,1 +1,1 @@
-var mnemonic = "picture outer solar demise into notice gospel plug aisle neglect report gallery";
+var mnemonic = "patrol narrow two mention shuffle author play horn crunch dismiss empty balance";

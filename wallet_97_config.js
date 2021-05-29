@@ -1,1 +1,1 @@
-var mnemonic = "crumble number destroy theme alert ladder funny ahead collect dirt pencil busy";
+var mnemonic = "often sight enroll common bicycle mention tail know metal legal chief airport";

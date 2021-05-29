@@ -1,1 +1,1 @@
-var mnemonic = "festival truly author hover print luxury dove sing deliver employ vehicle marble";
+var mnemonic = "furnace domain cute illegal finish door scissors erase fence soul badge pony";

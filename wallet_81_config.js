@@ -1,1 +1,1 @@
-var mnemonic = "ride vocal donor veteran rebel weasel frown army apology cactus chair youth";
+var mnemonic = "mistake pottery ticket panther nothing job caught embody legend pool top yard";

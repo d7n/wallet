@@ -1,1 +1,1 @@
-var mnemonic = "weather trash fold spring scare increase joy step brass thrive say tonight";
+var mnemonic = "weekend swamp lyrics veteran together slice skill quarter wrap upper all culture";

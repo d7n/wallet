@@ -1,1 +1,1 @@
-var mnemonic = "love toe emerge side drip asset clutch treat measure salmon tornado scrap";
+var mnemonic = "bullet staff muscle banner march hill century boring shop south odor yellow";

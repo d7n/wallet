@@ -1,1 +1,1 @@
-var mnemonic = "muffin grunt palm wheel seven appear seven doctor stereo lamp album spin";
+var mnemonic = "scout combine topic piano scissors focus inform rail radio dial typical matter";

@@ -1,1 +1,1 @@
-var mnemonic = "mad mansion foam alien account raise empty ski twin start elite pupil";
+var mnemonic = "tower capable field pigeon wife alter way spirit around crop bitter dream";

@@ -1,1 +1,1 @@
-var mnemonic = "inject pattern obtain crumble track field raven husband winter dragon patch author";
+var mnemonic = "now blade fix ketchup tell beauty surge seven match differ medal palm";

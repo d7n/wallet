@@ -1,1 +1,1 @@
-var mnemonic = "exclude fine arrange tortoise praise quit velvet join ethics merge win tomorrow";
+var mnemonic = "height traffic thrive urban trim shock clutch night educate talk mosquito alone";

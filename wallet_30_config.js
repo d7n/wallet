@@ -1,1 +1,1 @@
-var mnemonic = "opera unknown release airport matter matter expose announce confirm night lens year";
+var mnemonic = "uncover stem dice frost slender cotton maximum access draft bone allow orphan";

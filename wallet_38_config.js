@@ -1,1 +1,1 @@
-var mnemonic = "motor venue fan hat gallery never uniform deny analyst spare tape express";
+var mnemonic = "fix seat message milk whale believe phrase card apology myself ecology catch";

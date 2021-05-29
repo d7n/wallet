@@ -1,1 +1,1 @@
-var mnemonic = "picture asset twenty cactus school whisper dinner ordinary maple kiss frog eyebrow";
+var mnemonic = "elite clump neck camp program bless field radar thank tennis insect antique";

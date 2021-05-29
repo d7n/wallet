@@ -1,1 +1,1 @@
-var mnemonic = "december have climb guess spray air kingdom display wasp off faith dismiss";
+var mnemonic = "shield lamp hunt police age kiwi tool apple loyal demand keep this";

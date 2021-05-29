@@ -1,1 +1,1 @@
-var mnemonic = "world skill pilot tree prevent also rotate sniff friend thunder rookie issue";
+var mnemonic = "bullet hospital swamp virus dignity link bomb gesture dizzy speed provide wedding";

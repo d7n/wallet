@@ -1,1 +1,1 @@
-var mnemonic = "cook boss satoshi jungle pair kid damp engine modify marine apart pave";
+var mnemonic = "share gain sphere enrich claw beach track capable spice tag history clap";

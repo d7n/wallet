@@ -1,1 +1,1 @@
-var mnemonic = "meat ladder tongue clown cool equal toss stand friend almost boil mom";
+var mnemonic = "broccoli cabin wire scout climb broom umbrella require host salt violin truck";

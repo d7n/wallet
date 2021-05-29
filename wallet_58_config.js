@@ -1,1 +1,1 @@
-var mnemonic = "link box stable erode idea jelly awkward foster frog cram start kite";
+var mnemonic = "oppose cement miracle symbol account light hill also dinosaur lizard practice hello";

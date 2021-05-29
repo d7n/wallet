@@ -1,1 +1,1 @@
-var mnemonic = "work deer wise leopard address update lunch retire average clump enjoy broom";
+var mnemonic = "mammal right cute bag swear glow piece insane palm home struggle catalog";

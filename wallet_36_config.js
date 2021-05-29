@@ -1,1 +1,1 @@
-var mnemonic = "step cruise coyote apart nut gas else hour vanish moment dash pattern";
+var mnemonic = "tower bracket crazy afraid trigger cat useless core laptop slab once moment";

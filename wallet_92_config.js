@@ -1,1 +1,1 @@
-var mnemonic = "unit mercy arrange hawk portion throw suspect wire setup chief retreat neutral";
+var mnemonic = "hover shallow riot disagree infant cradle wise pact noise isolate unhappy force";

@@ -1,1 +1,1 @@
-var mnemonic = "surround exchange street student reveal matter crime yellow range prepare valley harsh";
+var mnemonic = "east rookie write crime scorpion call shift roast audit jewel lumber garbage";

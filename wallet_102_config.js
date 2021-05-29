@@ -1,1 +1,1 @@
-var mnemonic = "episode parent stadium neutral lazy wagon present anchor ball winter surround argue";
+var mnemonic = "group clarify render palace galaxy amused minute artist river latin dad frame";

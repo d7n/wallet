@@ -1,1 +1,1 @@
-var mnemonic = "toward almost marine innocent village april burger slide tent tube burger genre";
+var mnemonic = "meat reflect runway purity real child emerge this escape peanut burst fence";

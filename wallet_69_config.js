@@ -1,1 +1,1 @@
-var mnemonic = "glad again waste surface snap captain like saddle discover upon absent success";
+var mnemonic = "scrap front hip repair honey april youth reunion genius plastic reveal gesture";

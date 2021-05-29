@@ -1,1 +1,1 @@
-var mnemonic = "concert sea strike online wine hunt travel parrot myself actor power prosper";
+var mnemonic = "ramp media crowd session siege put give list cup student flee valid";

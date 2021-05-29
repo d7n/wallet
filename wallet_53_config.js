@@ -1,1 +1,1 @@
-var mnemonic = "someone control funny invest advance toward absent approve luggage enforce model link";
+var mnemonic = "radio hire theory zone fox dolphin update item alert title friend direct";

@@ -1,1 +1,1 @@
-var mnemonic = "organ any torch top razor grain master obvious sentence hybrid drill link";
+var mnemonic = "urge execute abuse input power garage giggle under dilemma color actress detect";

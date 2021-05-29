@@ -1,1 +1,1 @@
-var mnemonic = "actor pistol squirrel arrow crater oval must corn mobile wish blast deputy";
+var mnemonic = "power crazy dinosaur hello wool fan picture spice patch hire mass appear";

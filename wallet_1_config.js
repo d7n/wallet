@@ -1,1 +1,1 @@
-var mnemonic = "urban midnight banana service feel resist trade bracket candy tackle share item";
+var mnemonic = "panic hero auto world pig soda pluck swap urban way hundred usage";

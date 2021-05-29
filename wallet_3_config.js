@@ -1,1 +1,1 @@
-var mnemonic = "stock pattern dose avoid great menu harvest ranch catch merit fossil brass";
+var mnemonic = "truck pill proof visa high fix source reject asthma potato reveal calm";

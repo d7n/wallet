@@ -1,1 +1,1 @@
-var mnemonic = "hockey immune blind panther slight annual sad start actual proof indoor start";
+var mnemonic = "lottery bracket beyond toast couch crowd lock rookie pond arctic squeeze choice";

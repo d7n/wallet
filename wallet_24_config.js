@@ -1,1 +1,1 @@
-var mnemonic = "dry mixture pride own chat unaware law actual notable police general average";
+var mnemonic = "cereal now silver draft frame surround measure embark step arrange alert crush";

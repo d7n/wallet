@@ -1,1 +1,1 @@
-var mnemonic = "ill laugh blanket evil clean drill anchor slam exist switch rent category";
+var mnemonic = "arch dice above injury wagon concert man alter invite ripple million chunk";

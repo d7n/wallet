@@ -1,1 +1,1 @@
-var mnemonic = "tattoo depth real equal final donor hundred strategy innocent bracket shine bonus";
+var mnemonic = "meat invite wheel device ask begin slide danger rookie prevent pear face";

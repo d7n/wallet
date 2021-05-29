@@ -1,1 +1,1 @@
-var mnemonic = "hidden horse run comfort finish vault position tissue actress radar filter rabbit";
+var mnemonic = "pluck system casino shoot random tape road joy great excess twist cool";

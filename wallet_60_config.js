@@ -1,1 +1,1 @@
-var mnemonic = "tube priority awful thought enforce network tobacco unfair drop swallow brand chair";
+var mnemonic = "tissue canoe economy usage actual want cross pudding fix genre increase unknown";

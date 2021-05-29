@@ -1,1 +1,1 @@
-var mnemonic = "shop author sport borrow gloom subject glove cliff picnic despair vicious farm";
+var mnemonic = "rough insect avoid tennis expose ghost hat excess armed ketchup situate fever";

@@ -1,1 +1,1 @@
-var mnemonic = "super oppose castle media vintage scatter fiber infant army sell blame bonus";
+var mnemonic = "audit style patch myself goddess capital mutual style emotion robust grape cargo";

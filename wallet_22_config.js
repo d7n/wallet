@@ -1,1 +1,1 @@
-var mnemonic = "ticket minimum bean problem camera envelope shine voice buddy alien guilt live";
+var mnemonic = "during truly divorce slide furnace cave rubber legend tennis hello cover later";

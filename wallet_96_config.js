@@ -1,1 +1,1 @@
-var mnemonic = "ladder cigar now wreck adult around beach wave fever peanut cave any";
+var mnemonic = "pen practice seed isolate keen anger enlist army february album cousin vendor";

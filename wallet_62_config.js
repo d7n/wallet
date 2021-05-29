@@ -1,1 +1,1 @@
-var mnemonic = "city again silver shift ring board liberty rich strike shop mercy vault";
+var mnemonic = "nominee symbol beyond spray know dance vivid panda quarter swing brick today";

@@ -1,1 +1,1 @@
-var mnemonic = "prison hint current figure advance luggage daughter scorpion inquiry flag spice museum";
+var mnemonic = "estate twist salon quality certain stay net behind execute abandon visit crater";

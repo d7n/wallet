@@ -1,1 +1,1 @@
-var mnemonic = "real tank clean stay decide tissue coconut diagram crunch ticket strike code";
+var mnemonic = "sure jacket recipe actor swamp basket quit glove spy patient tonight affair";

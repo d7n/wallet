@@ -1,1 +1,1 @@
-var mnemonic = "pilot rib reject give edit wreck audit hazard heavy pen box valley";
+var mnemonic = "awesome sauce pair priority forget crane crop pink suit evoke below desk";

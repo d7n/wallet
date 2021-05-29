@@ -1,1 +1,1 @@
-var mnemonic = "phrase price beauty olympic code capable blush what all accuse office topic";
+var mnemonic = "response idea tip together dose twin target large giggle smoke long raw";

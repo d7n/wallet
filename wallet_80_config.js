@@ -1,1 +1,1 @@
-var mnemonic = "patch observe tomorrow protect erase flush avoid gauge poem detect answer essay";
+var mnemonic = "emerge bright vicious ritual jeans search dry media combine stand final parade";

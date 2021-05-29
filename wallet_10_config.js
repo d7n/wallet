@@ -1,1 +1,1 @@
-var mnemonic = "jazz anchor host coin grape angry any sail cinnamon flight thunder fall";
+var mnemonic = "month equip enrich aim lucky size quote toss crew essence peanut stand";

@@ -1,1 +1,1 @@
-var mnemonic = "defy kiwi possible acquire neutral prosper cross ocean income prefer neglect neutral";
+var mnemonic = "couch pudding mention vibrant science plate omit dynamic asset consider brief about";

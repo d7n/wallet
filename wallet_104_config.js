@@ -1,1 +1,1 @@
-var mnemonic = "box pill antenna tool valley topic delay arctic someone across joke tiny";
+var mnemonic = "fatal state muscle someone person neck easy buyer caution crouch rule deputy";

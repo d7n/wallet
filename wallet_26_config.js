@@ -1,1 +1,1 @@
-var mnemonic = "require ripple target income insane describe imitate mirror ranch stand antenna beauty";
+var mnemonic = "sadness grunt pole ladder tool property throw rubber simple dismiss original hire";

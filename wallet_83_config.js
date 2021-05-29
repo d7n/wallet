@@ -1,1 +1,1 @@
-var mnemonic = "off solve roof because result evoke claim family man party quarter lamp";
+var mnemonic = "mansion result tone wide time guide soldier spatial grain laugh hero love";

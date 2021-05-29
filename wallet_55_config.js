@@ -1,1 +1,1 @@
-var mnemonic = "merry cannon express rule elevator loyal soft check sure talent subject tomato";
+var mnemonic = "crane category large gentle arena such help glad essay dragon super cost";

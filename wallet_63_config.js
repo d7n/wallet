@@ -1,1 +1,1 @@
-var mnemonic = "gospel risk between model hawk route fragile girl frog hamster wise bus";
+var mnemonic = "venture toilet throw easy purpose inspire critic oak cactus identify special joke";

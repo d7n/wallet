@@ -1,1 +1,1 @@
-var mnemonic = "catalog stomach strong law sunny load language donor destroy hollow reflect job";
+var mnemonic = "flame release quantum snake sad burden virtual normal peasant song vessel coral";

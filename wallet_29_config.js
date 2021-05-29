@@ -1,1 +1,1 @@
-var mnemonic = "inspire solve ski sense regular come broken know mouse filter will ridge";
+var mnemonic = "enemy episode token carpet involve picnic pluck nut legend desk total enlist";

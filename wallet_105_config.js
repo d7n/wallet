@@ -1,1 +1,1 @@
-var mnemonic = "since clog camera diagram process myself scale legal broom ostrich omit tide";
+var mnemonic = "cheap holiday exhaust junior pizza rebuild good enable until favorite rug you";

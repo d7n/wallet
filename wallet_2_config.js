@@ -1,1 +1,1 @@
-var mnemonic = "power cover various carry dizzy ability have swamp learn digital above donkey";
+var mnemonic = "enjoy mammal crop purchase aisle tribe boost garment gown display cup hip";
