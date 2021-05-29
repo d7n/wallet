@@ -1,1 +1,1 @@
-var mnemonic = "zoo circle shuffle denial either card praise rough online fire outside sketch";
+var mnemonic = "power violin advice unaware allow cute tilt feed kiss napkin quick vacuum";

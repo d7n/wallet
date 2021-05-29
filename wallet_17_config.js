@@ -1,1 +1,1 @@
-var mnemonic = "spawn chaos kid route kiss fog insect fiction question apple observe remove";
+var mnemonic = "section grief void metal science crowd salmon picture avocado foil other crane";

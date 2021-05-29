@@ -1,1 +1,1 @@
-var mnemonic = "wall trust omit file range language six gallery benefit common mammal put";
+var mnemonic = "sword glory captain olympic price woman educate flock beauty shrimp smile party";

@@ -1,1 +1,1 @@
-var mnemonic = "escape usage report consider lucky glad spring minimum turtle office under sunset";
+var mnemonic = "dish alter ranch invest answer torch unique this butter mystery child muffin";

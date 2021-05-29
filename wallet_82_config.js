@@ -1,1 +1,1 @@
-var mnemonic = "ritual churn edit illegal black smile decade surface property quiz antenna cactus";
+var mnemonic = "relax spirit doll miss cover ready tribe main cruel bench wasp until";

@@ -1,1 +1,1 @@
-var mnemonic = "team elbow hunt umbrella define outdoor skill useless limb original myself sense";
+var mnemonic = "fever trade section penalty lawn inmate tray core express earth power receive";

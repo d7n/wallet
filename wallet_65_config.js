@@ -1,1 +1,1 @@
-var mnemonic = "awake fantasy space smoke elite olympic pupil lab core cause tackle danger";
+var mnemonic = "bounce pear flash frog pen occur kit marble margin consider appear journey";

@@ -1,1 +1,1 @@
-var mnemonic = "appear icon funny catalog eager surround wheel baby error garbage royal broom";
+var mnemonic = "purchase version south dove enrich orbit recipe orbit grab view lumber pill";

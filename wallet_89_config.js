@@ -1,1 +1,1 @@
-var mnemonic = "fancy general name sad base aunt spider cereal else smooth erosion panel";
+var mnemonic = "brother bunker cactus lawn twenty judge envelope coach rookie final amount grid";

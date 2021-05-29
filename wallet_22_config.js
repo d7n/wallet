@@ -1,1 +1,1 @@
-var mnemonic = "upper border stable ring pepper august average hawk cupboard domain door renew";
+var mnemonic = "bottom deputy place envelope mystery own forget once unknown truck blur speed";

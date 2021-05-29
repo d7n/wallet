@@ -1,1 +1,1 @@
-var mnemonic = "achieve garlic scare valley dish inherit trash buddy silk crazy basket unveil";
+var mnemonic = "slight cross tiger basic three flip window shop casino blind transfer future";

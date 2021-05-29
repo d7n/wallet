@@ -1,1 +1,1 @@
-var mnemonic = "glare belt iron toward assist armed citizen suspect pledge swamp trust segment";
+var mnemonic = "wrestle seek ill together resemble tape kiss all also gallery rain hold";

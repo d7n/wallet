@@ -1,1 +1,1 @@
-var mnemonic = "place excite project day prevent shaft near genius chair viable loop fun";
+var mnemonic = "buyer quantum cherry engage tumble exhibit exile prize stereo exist tooth doctor";

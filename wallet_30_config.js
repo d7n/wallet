@@ -1,1 +1,1 @@
-var mnemonic = "gold decrease glare gauge enforce barely hospital siren coconut arrange robot shadow";
+var mnemonic = "aunt soon future base disorder dwarf humor become lyrics turkey slice tragic";

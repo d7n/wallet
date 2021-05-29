@@ -1,1 +1,1 @@
-var mnemonic = "emerge double miracle truly amount awkward quote easy crowd decorate inform apple";
+var mnemonic = "impact dumb length close write patient skirt easy lava chest math roast";

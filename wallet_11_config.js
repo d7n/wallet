@@ -1,1 +1,1 @@
-var mnemonic = "grace list stumble erosion trouble ten actor person double chase impact cannon";
+var mnemonic = "bright test small trend crawl way draft cattle cotton above expect muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "blame sword orient thunder task judge choice pupil require heavy style level";
+var mnemonic = "place useful sand talent need front mercy junk ski topic gold segment";

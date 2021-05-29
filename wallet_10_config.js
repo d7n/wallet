@@ -1,1 +1,1 @@
-var mnemonic = "defy satisfy decline gossip traffic priority box wave cactus mercy diary erosion";
+var mnemonic = "air reason obscure check six evidence celery clock permit cousin senior grain";

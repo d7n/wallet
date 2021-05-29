@@ -1,1 +1,1 @@
-var mnemonic = "dog foster kingdom gorilla neglect animal expand shove prosper balcony mix inform";
+var mnemonic = "ask kitten anxiety year maple vague arctic pony sustain feature faith physical";

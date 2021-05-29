@@ -1,1 +1,1 @@
-var mnemonic = "pair sick gallery offer jar unaware series join retreat doll beach because";
+var mnemonic = "lucky tone swallow almost world oyster remove exhibit weekend rabbit aspect deliver";

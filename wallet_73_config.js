@@ -1,1 +1,1 @@
-var mnemonic = "oak raw bread flag skull success great worry stomach rule wealth also";
+var mnemonic = "grow depart duty kiwi fatigue useless drastic victory bird slush bright attack";

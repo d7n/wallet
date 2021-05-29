@@ -1,1 +1,1 @@
-var mnemonic = "giggle rib lake decade fault someone glass moon choose impose sell border";
+var mnemonic = "stairs potato erupt cricket ecology dolphin hire neglect oven kingdom genre portion";

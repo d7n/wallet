@@ -1,1 +1,1 @@
-var mnemonic = "gauge step odor foam jar cheese battle smile garment solid busy oven";
+var mnemonic = "advance spread submit coffee knee fame saddle car atom caught monitor harbor";

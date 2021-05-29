@@ -1,1 +1,1 @@
-var mnemonic = "spot tackle orange region misery magnet loud laugh off fence climb injury";
+var mnemonic = "home maid rent work ancient rare verify best swear stool soldier hair";

@@ -1,1 +1,1 @@
-var mnemonic = "merry butter glory loop fog distance doll wheat crumble boss tumble indoor";
+var mnemonic = "stock math happy voyage blur alley muscle pepper resource attack food dish";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard range siege alpha elevator segment buddy snack cricket kite bread wear";
+var mnemonic = "barely shed catalog outside clay soap syrup issue fiber dentist absurd pen";

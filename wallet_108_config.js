@@ -1,1 +1,1 @@
-var mnemonic = "apple certain border wet poem sample cycle true sail amused viable world";
+var mnemonic = "brand cool planet animal nurse kitten intact gentle random resemble share casual";

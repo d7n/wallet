@@ -1,1 +1,1 @@
-var mnemonic = "prize unit divorce hotel goose senior few power fruit elephant kingdom enter";
+var mnemonic = "salon dog plunge lucky obvious fruit silly pill early fringe return bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest strike food ostrich train oblige clean green doll enroll mixture flight";
+var mnemonic = "truly menu hat forget genius goddess risk chaos fat palace huge claw";

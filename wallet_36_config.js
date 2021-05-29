@@ -1,1 +1,1 @@
-var mnemonic = "canoe arch switch teach nest find loop tomorrow name nest affair current";
+var mnemonic = "cross puzzle fringe notable muscle book mobile dish special step tackle capital";

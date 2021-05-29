@@ -1,1 +1,1 @@
-var mnemonic = "letter humor thunder song better test trouble pizza pond crush staff gift";
+var mnemonic = "source earth liquid coconut lazy stamp soul lounge height conduct emerge inject";

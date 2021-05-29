@@ -1,1 +1,1 @@
-var mnemonic = "strategy stool crazy question feed company more upset post army jump armed";
+var mnemonic = "theme cost badge galaxy auto fatigue frame angry sound globe rapid shuffle";

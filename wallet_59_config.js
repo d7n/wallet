@@ -1,1 +1,1 @@
-var mnemonic = "ability silent town visit concert sibling deposit swap absorb vault bird nurse";
+var mnemonic = "evoke army slow quote museum deposit crucial upon depart south video already";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor push myself exist december analyst west finger museum visit curve since";
+var mnemonic = "toast cable rabbit forget celery cry base topple jacket celery grow label";

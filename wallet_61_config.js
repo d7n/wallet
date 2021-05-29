@@ -1,1 +1,1 @@
-var mnemonic = "poverty broccoli juice minute puzzle wheel best census sense smoke about female";
+var mnemonic = "space frown toast oak person make gold region jeans pact wheat fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle worry bean lecture where net card sock praise quarter alert tragic";
+var mnemonic = "there move found tree kit open allow electric story similar output air";

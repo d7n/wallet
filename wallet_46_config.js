@@ -1,1 +1,1 @@
-var mnemonic = "cloth tomato can kind list robot earn funny heart only resist become";
+var mnemonic = "between over accident cage include rather maid hen fun fatigue echo section";

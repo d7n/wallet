@@ -1,1 +1,1 @@
-var mnemonic = "coil horse nephew churn pause sting advice foil install monster leisure lawsuit";
+var mnemonic = "orphan antique cereal race curve truly blouse cabin lemon evolve trouble inner";

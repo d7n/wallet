@@ -1,1 +1,1 @@
-var mnemonic = "dilemma tennis hidden hole useless label foster palm fun arena kitchen casino";
+var mnemonic = "struggle dinner muffin glow reunion nuclear wise spread faith focus myth wing";

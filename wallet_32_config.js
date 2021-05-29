@@ -1,1 +1,1 @@
-var mnemonic = "neck now hub strong biology clay history document life resource proof memory";
+var mnemonic = "frozen derive vast welcome enrich butter garage east recycle ramp rate maze";

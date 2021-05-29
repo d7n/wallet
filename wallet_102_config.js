@@ -1,1 +1,1 @@
-var mnemonic = "announce portion series sunny health panel enable grant rubber differ can joke";
+var mnemonic = "lunch equal arm spot correct capital flock forest slot crawl duty video";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid plate nice push congress call fire fiction notice buddy grain flash";
+var mnemonic = "history middle meadow drill detail lock couple artist detail trade husband spice";

@@ -1,1 +1,1 @@
-var mnemonic = "below exile opinion climb arrest grid debate entry dust imitate swamp unlock";
+var mnemonic = "grow truck thrive acquire liquid siren amount stool lemon cattle ginger giraffe";

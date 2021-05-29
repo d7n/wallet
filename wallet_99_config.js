@@ -1,1 +1,1 @@
-var mnemonic = "stone appear under wink grief ugly balcony medal exhaust month advice tide";
+var mnemonic = "skin business lens inside car claim amateur inherit term fit wire decline";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi quick dish craft muffin art hockey tribe page choice nerve tourist";
+var mnemonic = "happy assault warm shrimp execute video essence green safe know fall beef";

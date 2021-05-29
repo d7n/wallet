@@ -1,1 +1,1 @@
-var mnemonic = "need gaze wave sleep canal opera inform boy repeat typical shed fire";
+var mnemonic = "pave bunker advice retire claw flavor escape parent path match inquiry smile";

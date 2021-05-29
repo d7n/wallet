@@ -1,1 +1,1 @@
-var mnemonic = "drip skin dish vibrant seminar glue student session detect movie shift rain";
+var mnemonic = "panic journey lock remind ridge school timber quiz first rigid dash rug";

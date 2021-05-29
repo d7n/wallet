@@ -1,1 +1,1 @@
-var mnemonic = "name shallow profit jungle thrive athlete laundry picture cat cable latin roast";
+var mnemonic = "rigid siege purity draw street dismiss orient slab layer stadium robot bulb";

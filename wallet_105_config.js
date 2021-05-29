@@ -1,1 +1,1 @@
-var mnemonic = "inject novel turtle call entry chase hammer employ cannon tattoo garage join";
+var mnemonic = "stem orient noble correct ship vacuum much domain trip collect paper faint";

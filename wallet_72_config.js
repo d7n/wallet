@@ -1,1 +1,1 @@
-var mnemonic = "spy media keen express fashion sight earn swim nephew ozone edit ski";
+var mnemonic = "sausage father couple sheriff you remain burst ride network fury elegant proof";

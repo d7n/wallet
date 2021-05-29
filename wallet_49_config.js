@@ -1,1 +1,1 @@
-var mnemonic = "custom exit slab carry isolate wonder lumber notable harvest device asset close";
+var mnemonic = "before depend eager erosion consider planet dwarf rhythm vacant breeze need total";

@@ -1,1 +1,1 @@
-var mnemonic = "plug express about bacon gym advice drum moment wrong nurse jealous possible";
+var mnemonic = "situate biology tomorrow bean paper brisk oblige tail spoon chronic sure solution";

@@ -1,1 +1,1 @@
-var mnemonic = "dream crane ugly neglect danger primary glimpse gift uniform govern jaguar quantum";
+var mnemonic = "burden sustain sniff gap tooth this weasel fatigue join dust only toy";

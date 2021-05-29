@@ -1,1 +1,1 @@
-var mnemonic = "remember camera green supply result fiscal remember organ move domain cage pave";
+var mnemonic = "buffalo dentist purity unique palm coyote blue cream tissue festival indicate topic";

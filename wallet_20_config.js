@@ -1,1 +1,1 @@
-var mnemonic = "size impulse profit glass matrix rhythm short garlic huge defy shy story";
+var mnemonic = "taste horn tourist dove sure evil trip cook juice test almost relief";

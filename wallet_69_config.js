@@ -1,1 +1,1 @@
-var mnemonic = "office print flock convince fence erode siege phrase again soap skirt security";
+var mnemonic = "fine reject note never resist home trigger general trap fantasy mention job";

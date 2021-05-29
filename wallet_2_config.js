@@ -1,1 +1,1 @@
-var mnemonic = "try noodle avoid tank fox flock shrimp citizen submit riot tell small";
+var mnemonic = "thumb carpet hen stereo visual service cherry garlic endless spawn spoil already";

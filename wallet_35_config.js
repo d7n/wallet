@@ -1,1 +1,1 @@
-var mnemonic = "pyramid theme fiber cabin hen ship pigeon wrist gesture table river attend";
+var mnemonic = "alone broccoli zoo drastic gadget brand next adult author hire accident indicate";

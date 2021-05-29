@@ -1,1 +1,1 @@
-var mnemonic = "purity open limit frown veteran gown text senior spin unknown spell chat";
+var mnemonic = "swap fly climb car obtain slush slogan acid speed rely click foot";

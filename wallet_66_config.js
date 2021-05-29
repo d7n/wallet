@@ -1,1 +1,1 @@
-var mnemonic = "news test glance furnace flight cream praise danger proud crawl across dance";
+var mnemonic = "found off canoe truly silent age canvas try current bread wall analyst";

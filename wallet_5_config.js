@@ -1,1 +1,1 @@
-var mnemonic = "bone surface galaxy hundred pluck initial brand aisle confirm awful champion club";
+var mnemonic = "fame document trend three occur fashion power hawk miracle cup gaze silent";

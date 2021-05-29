@@ -1,1 +1,1 @@
-var mnemonic = "series kingdom pride deer catch ball key vibrant siren slice planet music";
+var mnemonic = "myself delay vocal start network major bargain essence rich shallow quarter wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor develop desk mind action example rabbit search leisure entry cancel eagle";
+var mnemonic = "lava shift erase knee tourist unaware hazard cushion segment stuff unaware shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow insane truck rapid frequent pottery able trust tent sentence miracle sing";
+var mnemonic = "eagle certain ginger hobby mouse pyramid surge slam above party tiger twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "collect dice green put very animal address meadow victory limit maze early";
+var mnemonic = "various amused today web fine wasp rubber soda congress jazz two lizard";

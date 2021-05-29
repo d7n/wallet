@@ -1,1 +1,1 @@
-var mnemonic = "achieve similar silver solution catch spot sister remind weekend fish genuine wrap";
+var mnemonic = "flock run security major scissors air midnight avoid cry prosper region world";

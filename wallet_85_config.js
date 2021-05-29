@@ -1,1 +1,1 @@
-var mnemonic = "oppose tooth skirt charge steak number warfare digital undo update renew cream";
+var mnemonic = "skill lamp hood black color brisk web image wheel cable dry crash";

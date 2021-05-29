@@ -1,1 +1,1 @@
-var mnemonic = "illness twice glare mirror arrive anchor duck cannon rain huge grab blush";
+var mnemonic = "helmet draft tool differ coyote deny reason hole valid fun once rebel";

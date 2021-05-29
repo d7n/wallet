@@ -1,1 +1,1 @@
-var mnemonic = "catalog move grit spin crisp oil garment method leisure avoid grid nut";
+var mnemonic = "huge scout fork charge ugly february electric wish lobster scout joy prize";

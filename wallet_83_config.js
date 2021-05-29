@@ -1,1 +1,1 @@
-var mnemonic = "axis onion pigeon family easy pipe flip pudding afraid menu style find";
+var mnemonic = "unknown million filter owner bounce town coin dinosaur jaguar movie pulp grid";

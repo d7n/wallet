@@ -1,1 +1,1 @@
-var mnemonic = "drastic feature puppy quantum sense swing book fence trend chest dignity when";
+var mnemonic = "unable shallow rescue horse certain impulse fatigue air box nurse omit time";

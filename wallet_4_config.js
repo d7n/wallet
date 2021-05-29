@@ -1,1 +1,1 @@
-var mnemonic = "loyal mind symptom quit blast climb taste solid foil upgrade flower cheese";
+var mnemonic = "staff property aim vibrant ignore wedding author trumpet tool main salt curtain";

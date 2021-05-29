@@ -1,1 +1,1 @@
-var mnemonic = "spell affair harvest mind lion lawsuit parade grace shift silk travel that";
+var mnemonic = "urge magnet insect smile orange assault winter flash become submit social eight";

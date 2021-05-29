@@ -1,1 +1,1 @@
-var mnemonic = "dolphin thunder high dinosaur party matter snake maximum reopen better enter civil";
+var mnemonic = "secret hood govern own smile garment behind logic health blouse memory actress";

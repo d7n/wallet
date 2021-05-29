@@ -1,1 +1,1 @@
-var mnemonic = "volcano final fever top federal fossil hire exotic there combine ankle matrix";
+var mnemonic = "vendor brass series flat august gloom autumn awful level cave verb meadow";

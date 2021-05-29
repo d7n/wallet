@@ -1,1 +1,1 @@
-var mnemonic = "future essay rare tag stem tumble keep swift select stuff tunnel cargo";
+var mnemonic = "cabbage praise figure hip basic aisle risk phrase honey special peanut guilt";

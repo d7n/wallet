@@ -1,1 +1,1 @@
-var mnemonic = "essay salon meat thing volcano rival direct soda nominee ghost reason include";
+var mnemonic = "wisdom property merit cloth fire ostrich stable job head rubber swift quote";

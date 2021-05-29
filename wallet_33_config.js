@@ -1,1 +1,1 @@
-var mnemonic = "suffer loud color believe mask aisle horn strong wire park glance idle";
+var mnemonic = "suffer deputy glance segment globe despair charge reward tennis gate demand farm";

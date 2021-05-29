@@ -1,1 +1,1 @@
-var mnemonic = "art open muffin sister power fence issue uncle concert animal identify drip";
+var mnemonic = "news expose toe girl garage ski office afraid laundry wet window biology";

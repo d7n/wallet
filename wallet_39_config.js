@@ -1,1 +1,1 @@
-var mnemonic = "crouch rice stable grunt faint robust retreat sunset pen argue cargo club";
+var mnemonic = "barely merit flame season screen practice vapor hire such chronic harvest inside";

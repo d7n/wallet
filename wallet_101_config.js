@@ -1,1 +1,1 @@
-var mnemonic = "camera forward flip neck ensure fetch bubble alien fun smile world arrive";
+var mnemonic = "weird card credit ancient bless napkin logic absurd divorce suit vessel barrel";

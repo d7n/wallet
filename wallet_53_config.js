@@ -1,1 +1,1 @@
-var mnemonic = "reopen vehicle modify vintage road salmon outside banana code rack stamp regular";
+var mnemonic = "actor pelican list measure spell park wine dinner accuse fever quarter mimic";

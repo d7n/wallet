@@ -1,1 +1,1 @@
-var mnemonic = "dolphin wide point test quantum kitten among wire business decline swear human";
+var mnemonic = "trust trouble elbow youth zero lady tell faint danger discover chat core";

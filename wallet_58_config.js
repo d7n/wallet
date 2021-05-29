@@ -1,1 +1,1 @@
-var mnemonic = "minute flame near innocent dress turkey suggest critic plate accident bird symbol";
+var mnemonic = "net sudden armor trade zone deliver cousin wish season model discover hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "enter they close index replace weather flee fee series concert monkey pelican";
+var mnemonic = "cash coffee north health burger oyster exchange swing cat spirit thank select";

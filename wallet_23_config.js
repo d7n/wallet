@@ -1,1 +1,1 @@
-var mnemonic = "burst road chimney bulk shadow chest service average remember advance there scrub";
+var mnemonic = "staff mother evidence domain raw prosper soft unique fee capital affair fiber";

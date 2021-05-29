@@ -1,1 +1,1 @@
-var mnemonic = "spatial bacon logic rhythm render have point empty fabric session hundred act";
+var mnemonic = "elephant effort during endless tumble super bicycle army drip kidney horn cheese";

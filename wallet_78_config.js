@@ -1,1 +1,1 @@
-var mnemonic = "pole edit material air pride goat cereal endless science whale season vanish";
+var mnemonic = "radar home hundred ecology resist dizzy injury idle when ridge there inspire";
