@@ -1,1 +1,1 @@
-var mnemonic = "history mammal project guess awkward wife flight humble enact present jelly shaft";
+var mnemonic = "prize unit divorce hotel goose senior few power fruit elephant kingdom enter";

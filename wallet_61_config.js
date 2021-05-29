@@ -1,1 +1,1 @@
-var mnemonic = "dial immense basket alpha clump phone scrap unfair negative pepper theory mandate";
+var mnemonic = "poverty broccoli juice minute puzzle wheel best census sense smoke about female";

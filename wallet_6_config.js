@@ -1,1 +1,1 @@
-var mnemonic = "apple paper devote naive hazard learn cancel observe despair east bright cloth";
+var mnemonic = "bubble shrug skate grocery defy father infant fan custom marriage ocean barely";

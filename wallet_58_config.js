@@ -1,1 +1,1 @@
-var mnemonic = "ski chat update gas melody accident pottery bachelor reject north speed lounge";
+var mnemonic = "minute flame near innocent dress turkey suggest critic plate accident bird symbol";

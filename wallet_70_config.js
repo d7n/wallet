@@ -1,1 +1,1 @@
-var mnemonic = "nut release agree transfer photo wrestle round arena laugh sleep cotton junior";
+var mnemonic = "blue park raw pitch grain brother pioneer actual merry miss stock plug";

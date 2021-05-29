@@ -1,1 +1,1 @@
-var mnemonic = "whip ranch glass pull broccoli artist link father absorb pyramid orange stamp";
+var mnemonic = "pole edit material air pride goat cereal endless science whale season vanish";

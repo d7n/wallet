@@ -1,1 +1,1 @@
-var mnemonic = "lumber plate spoil pistol shallow close pitch spell alley obtain swamp suggest";
+var mnemonic = "best funny series elder velvet cheap panic oval shove sugar pond manual";

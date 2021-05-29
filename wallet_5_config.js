@@ -1,1 +1,1 @@
-var mnemonic = "style power flash truth hint clap skull suit alarm physical start swing";
+var mnemonic = "bone surface galaxy hundred pluck initial brand aisle confirm awful champion club";

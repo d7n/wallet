@@ -1,1 +1,1 @@
-var mnemonic = "age between transfer sea result inform century shrimp ribbon aisle cost file";
+var mnemonic = "blame sword orient thunder task judge choice pupil require heavy style level";

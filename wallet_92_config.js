@@ -1,1 +1,1 @@
-var mnemonic = "rely tackle pilot expect daring cause volcano hedgehog wait foil tunnel heart";
+var mnemonic = "hazard range siege alpha elevator segment buddy snack cricket kite bread wear";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid game badge accident fun mean gospel retreat obey dirt educate print";
+var mnemonic = "muscle worry bean lecture where net card sock praise quarter alert tragic";

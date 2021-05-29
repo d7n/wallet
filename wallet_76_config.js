@@ -1,1 +1,1 @@
-var mnemonic = "found radar response bitter mixture glass soon disease tree organ slab parent";
+var mnemonic = "adult admit silver slot suspect romance exist time bachelor hospital dice adjust";

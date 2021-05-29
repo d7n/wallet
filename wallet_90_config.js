@@ -1,1 +1,1 @@
-var mnemonic = "glass shell rapid mosquito original horror casino traffic yellow rude become divorce";
+var mnemonic = "sudden dutch fiscal black submit process horse rare glare armor will nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup joke rifle myself finish crumble surround melt doctor winner spoil local";
+var mnemonic = "canoe arch switch teach nest find loop tomorrow name nest affair current";

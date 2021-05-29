@@ -1,1 +1,1 @@
-var mnemonic = "talent holiday depth normal icon risk swap soup slide index multiply rich";
+var mnemonic = "dolphin thunder high dinosaur party matter snake maximum reopen better enter civil";

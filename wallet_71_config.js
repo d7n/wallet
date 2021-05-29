@@ -1,1 +1,1 @@
-var mnemonic = "salute clump pencil toward mosquito pulp cannon grab vendor sting duty pioneer";
+var mnemonic = "zoo circle shuffle denial either card praise rough online fire outside sketch";

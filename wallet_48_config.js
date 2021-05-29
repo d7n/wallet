@@ -1,1 +1,1 @@
-var mnemonic = "excite chest ketchup time found market couple poem country change frog prepare";
+var mnemonic = "emerge double miracle truly amount awkward quote easy crowd decorate inform apple";

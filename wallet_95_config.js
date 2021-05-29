@@ -1,1 +1,1 @@
-var mnemonic = "quality planet horn zero rude account fee illegal pet fossil emotion crew";
+var mnemonic = "volcano final fever top federal fossil hire exotic there combine ankle matrix";

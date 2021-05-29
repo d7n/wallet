@@ -1,1 +1,1 @@
-var mnemonic = "seat divert leisure fun arrow yellow dream labor lecture quiz spot witness";
+var mnemonic = "dolphin wide point test quantum kitten among wire business decline swear human";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer buyer blood tuition valve bonus remain property wool proof aware razor";
+var mnemonic = "okay crisp happy sad lift offer zebra clay ritual improve fine yellow";

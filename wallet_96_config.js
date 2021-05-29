@@ -1,1 +1,1 @@
-var mnemonic = "spread warm season auto friend hand boss park cancel tuna ramp slim";
+var mnemonic = "appear icon funny catalog eager surround wheel baby error garbage royal broom";

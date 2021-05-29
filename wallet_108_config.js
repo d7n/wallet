@@ -1,1 +1,1 @@
-var mnemonic = "spirit boy tower census brief gravity cigar recall rural achieve capable file";
+var mnemonic = "apple certain border wet poem sample cycle true sail amused viable world";

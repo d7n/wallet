@@ -1,1 +1,1 @@
-var mnemonic = "trap spirit order source ocean quiz unit arrest hunt marriage camera mansion";
+var mnemonic = "drip skin dish vibrant seminar glue student session detect movie shift rain";

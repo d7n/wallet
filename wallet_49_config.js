@@ -1,1 +1,1 @@
-var mnemonic = "rib case lake bonus cage assault alert toe sort reopen empower various";
+var mnemonic = "custom exit slab carry isolate wonder lumber notable harvest device asset close";

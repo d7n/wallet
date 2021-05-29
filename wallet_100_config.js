@@ -1,1 +1,1 @@
-var mnemonic = "winter blossom guilt scrub inform emotion rice bottom deposit onion witness monitor";
+var mnemonic = "below exile opinion climb arrest grid debate entry dust imitate swamp unlock";

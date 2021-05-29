@@ -1,1 +1,1 @@
-var mnemonic = "disagree hedgehog damage correct leave iron mix nuclear topple raccoon divert ritual";
+var mnemonic = "eagle artefact zone gaze reveal spike wise chalk adjust control tortoise cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy lizard birth wife taste address want dismiss clog muscle bar super";
+var mnemonic = "suggest strike food ostrich train oblige clean green doll enroll mixture flight";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair develop north maximum goose climb toddler copy table shiver screen private";
+var mnemonic = "plug carry pulse category album shallow vacuum fan uphold unable card spoil";

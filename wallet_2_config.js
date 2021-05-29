@@ -1,1 +1,1 @@
-var mnemonic = "abstract enemy verb purse prize plate toss maple body arrange horse bullet";
+var mnemonic = "try noodle avoid tank fox flock shrimp citizen submit riot tell small";

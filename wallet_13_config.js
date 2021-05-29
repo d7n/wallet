@@ -1,1 +1,1 @@
-var mnemonic = "flight horn exotic define nominee proud life pull joy lock capital turn";
+var mnemonic = "name shallow profit jungle thrive athlete laundry picture cat cable latin roast";

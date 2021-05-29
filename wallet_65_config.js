@@ -1,1 +1,1 @@
-var mnemonic = "airport fault despair pottery laptop machine blanket chat square pioneer harsh universe";
+var mnemonic = "awake fantasy space smoke elite olympic pupil lab core cause tackle danger";

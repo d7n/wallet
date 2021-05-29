@@ -1,1 +1,1 @@
-var mnemonic = "jewel all wash tomato when learn mansion river resource lumber enact scissors";
+var mnemonic = "rubber dinner candy lion elite muscle tennis ripple capable dentist note vault";

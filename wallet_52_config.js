@@ -1,1 +1,1 @@
-var mnemonic = "kind travel age hole fancy best web country sleep seven gaze round";
+var mnemonic = "purity open limit frown veteran gown text senior spin unknown spell chat";

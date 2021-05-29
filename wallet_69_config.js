@@ -1,1 +1,1 @@
-var mnemonic = "easy render rare bunker help diet diet puzzle return cereal kangaroo snow";
+var mnemonic = "office print flock convince fence erode siege phrase again soap skirt security";

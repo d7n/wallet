@@ -1,1 +1,1 @@
-var mnemonic = "evil scare thing survey result mercy fire reunion absurd private seven cabbage";
+var mnemonic = "gold decrease glare gauge enforce barely hospital siren coconut arrange robot shadow";

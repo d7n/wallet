@@ -1,1 +1,1 @@
-var mnemonic = "auction garage consider argue boy yellow kite ski tiny liar duty broccoli";
+var mnemonic = "remember camera green supply result fiscal remember organ move domain cage pave";

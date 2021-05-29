@@ -1,1 +1,1 @@
-var mnemonic = "message deal load wash praise mansion invite adapt special power bleak prepare";
+var mnemonic = "achieve similar silver solution catch spot sister remind weekend fish genuine wrap";

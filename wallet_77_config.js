@@ -1,1 +1,1 @@
-var mnemonic = "magnet remain impulse stone swarm wish giggle clinic cement spend slight catalog";
+var mnemonic = "predict style rocket electric sunny rib setup ladder special duck nerve stomach";

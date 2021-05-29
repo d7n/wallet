@@ -1,1 +1,1 @@
-var mnemonic = "dry climb bird banana still syrup auto control notable manage connect praise";
+var mnemonic = "giggle rib lake decade fault someone glass moon choose impose sell border";

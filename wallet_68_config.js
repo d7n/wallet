@@ -1,1 +1,1 @@
-var mnemonic = "armor pottery future various own raw excuse oyster clown junk sword frame";
+var mnemonic = "illness twice glare mirror arrive anchor duck cannon rain huge grab blush";

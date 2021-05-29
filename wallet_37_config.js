@@ -1,1 +1,1 @@
-var mnemonic = "excite cabin again other range mercy parrot reveal apology thank tail soft";
+var mnemonic = "art open muffin sister power fence issue uncle concert animal identify drip";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas yellow emerge basic hold police vanish slam hero twin width century";
+var mnemonic = "series kingdom pride deer catch ball key vibrant siren slice planet music";

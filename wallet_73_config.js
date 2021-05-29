@@ -1,1 +1,1 @@
-var mnemonic = "drama tenant husband rapid job asset also opinion among park repair spin";
+var mnemonic = "oak raw bread flag skull success great worry stomach rule wealth also";

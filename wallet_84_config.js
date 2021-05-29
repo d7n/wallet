@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon target equal blush tape inquiry cattle deny toe mango garment crouch";
+var mnemonic = "escape usage report consider lucky glad spring minimum turtle office under sunset";

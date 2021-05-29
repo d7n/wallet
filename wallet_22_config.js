@@ -1,1 +1,1 @@
-var mnemonic = "sibling scorpion radar tent senior emotion material security episode forget shrimp icon";
+var mnemonic = "upper border stable ring pepper august average hawk cupboard domain door renew";

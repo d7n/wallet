@@ -1,1 +1,1 @@
-var mnemonic = "defense arena kid stage cream rubber please crop chapter resource shed patrol";
+var mnemonic = "anchor develop desk mind action example rabbit search leisure entry cancel eagle";

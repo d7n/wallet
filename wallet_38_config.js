@@ -1,1 +1,1 @@
-var mnemonic = "minimum cube denial coyote sort trouble example shaft melody estate area gather";
+var mnemonic = "spell affair harvest mind lion lawsuit parade grace shift silk travel that";

@@ -1,1 +1,1 @@
-var mnemonic = "flash wood evil bracket ranch school dance giggle green blush business blur";
+var mnemonic = "taxi quick dish craft muffin art hockey tribe page choice nerve tourist";

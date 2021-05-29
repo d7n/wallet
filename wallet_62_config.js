@@ -1,1 +1,1 @@
-var mnemonic = "trap dirt cheap accident soup summer ankle penalty bone evil own police";
+var mnemonic = "spot tackle orange region misery magnet loud laugh off fence climb injury";

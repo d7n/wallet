@@ -1,1 +1,1 @@
-var mnemonic = "tide reveal lawsuit various hero fatigue plate foot they juice huge retreat";
+var mnemonic = "dog foster kingdom gorilla neglect animal expand shove prosper balcony mix inform";

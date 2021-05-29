@@ -1,1 +1,1 @@
-var mnemonic = "census high combine click car option chalk parent armed lady party inside";
+var mnemonic = "twenty asthma debate attack saddle slow lunar hungry width cigar drum enter";

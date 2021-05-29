@@ -1,1 +1,1 @@
-var mnemonic = "brain pistol grace that steak random memory strategy hour pudding six custom";
+var mnemonic = "camera forward flip neck ensure fetch bubble alien fun smile world arrive";

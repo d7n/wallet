@@ -1,1 +1,1 @@
-var mnemonic = "labor shift exist excuse legal please army episode scorpion lake baby knock";
+var mnemonic = "pair sick gallery offer jar unaware series join retreat doll beach because";

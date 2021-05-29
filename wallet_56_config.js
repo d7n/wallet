@@ -1,1 +1,1 @@
-var mnemonic = "exercise giraffe video hobby front deer palm treat clarify faint strong reward";
+var mnemonic = "volcano control crucial alter rude marble allow ethics interest frequent display unfair";

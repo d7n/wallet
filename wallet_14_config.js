@@ -1,1 +1,1 @@
-var mnemonic = "lemon laptop toast zebra gift proud misery monkey dog acquire trim boss";
+var mnemonic = "dream crane ugly neglect danger primary glimpse gift uniform govern jaguar quantum";

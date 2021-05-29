@@ -1,1 +1,1 @@
-var mnemonic = "skin paddle know wide tape sing slide credit video half sister dentist";
+var mnemonic = "luggage job theory gossip ostrich journey cherry situate warfare spike release someone";

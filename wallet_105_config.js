@@ -1,1 +1,1 @@
-var mnemonic = "toss capable enjoy tonight wage misery winter provide add unaware sketch federal";
+var mnemonic = "inject novel turtle call entry chase hammer employ cannon tattoo garage join";

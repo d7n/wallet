@@ -1,1 +1,1 @@
-var mnemonic = "focus wrong duty place click hill melt call jazz ordinary other broccoli";
+var mnemonic = "hire shop stamp wish guess range dinosaur hood private post butter skate";

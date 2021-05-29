@@ -1,1 +1,1 @@
-var mnemonic = "eager asthma strong enlist tree solve tonight repeat marriage shop horn hammer";
+var mnemonic = "liquid plate nice push congress call fire fiction notice buddy grain flash";

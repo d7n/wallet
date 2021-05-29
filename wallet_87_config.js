@@ -1,1 +1,1 @@
-var mnemonic = "avocado sense badge mystery beef forest trick virtual armor exit muscle ignore";
+var mnemonic = "glare belt iron toward assist armed citizen suspect pledge swamp trust segment";

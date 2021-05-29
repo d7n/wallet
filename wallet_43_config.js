@@ -1,1 +1,1 @@
-var mnemonic = "worth kiwi history sail minimum common artefact bird toward vibrant fog pigeon";
+var mnemonic = "hood enemy arrange much way knock exhaust legend toward own birth copper";

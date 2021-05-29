@@ -1,1 +1,1 @@
-var mnemonic = "task puzzle alter catch genre dentist deposit term expose topple prison barrel";
+var mnemonic = "salon blade dolphin kid weapon early brass measure wolf humble juice property";

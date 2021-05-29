@@ -1,1 +1,1 @@
-var mnemonic = "intact soccer focus obvious dune tobacco scrub need ankle endless inhale guide";
+var mnemonic = "letter humor thunder song better test trouble pizza pond crush staff gift";

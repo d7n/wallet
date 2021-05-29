@@ -1,1 +1,1 @@
-var mnemonic = "autumn north fancy case illness little excess dirt roof illness dad ride";
+var mnemonic = "spy media keen express fashion sight earn swim nephew ozone edit ski";

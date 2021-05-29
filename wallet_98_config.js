@@ -1,1 +1,1 @@
-var mnemonic = "sign cousin away please apart cover purchase wreck deer satisfy knife swarm";
+var mnemonic = "catalog move grit spin crisp oil garment method leisure avoid grid nut";

@@ -1,1 +1,1 @@
-var mnemonic = "love already inject desert lock emerge odor youth merge order dutch bid";
+var mnemonic = "loyal mind symptom quit blast climb taste solid foil upgrade flower cheese";

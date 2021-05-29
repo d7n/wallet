@@ -1,1 +1,1 @@
-var mnemonic = "chef blame rough torch body comic skate lamp planet reunion penalty dinner";
+var mnemonic = "ability silent town visit concert sibling deposit swap absorb vault bird nurse";

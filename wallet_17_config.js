@@ -1,1 +1,1 @@
-var mnemonic = "tobacco amazing library actor wet same obey canyon fancy false torch dentist";
+var mnemonic = "spawn chaos kid route kiss fog insect fiction question apple observe remove";

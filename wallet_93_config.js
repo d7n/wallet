@@ -1,1 +1,1 @@
-var mnemonic = "market potato click valve noodle hybrid deposit unusual same gauge plate veteran";
+var mnemonic = "strategy stool crazy question feed company more upset post army jump armed";

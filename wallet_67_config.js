@@ -1,1 +1,1 @@
-var mnemonic = "sorry decrease sock sure bird elbow mind jeans axis prepare noise elegant";
+var mnemonic = "drastic feature puppy quantum sense swing book fence trend chest dignity when";

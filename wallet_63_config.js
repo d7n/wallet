@@ -1,1 +1,1 @@
-var mnemonic = "divide pyramid motor shine genuine spin woman advice rigid grunt quantum velvet";
+var mnemonic = "indoor push myself exist december analyst west finger museum visit curve since";

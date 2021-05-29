@@ -1,1 +1,1 @@
-var mnemonic = "pulse benefit rubber toddler review brief mix party delay avoid trap axis";
+var mnemonic = "rent angry lumber nose illegal nominee one basic indoor decide exhaust vivid";

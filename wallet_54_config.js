@@ -1,1 +1,1 @@
-var mnemonic = "mystery during autumn little jaguar help sail prevent cupboard smoke company vague";
+var mnemonic = "season chaos awful help horse celery save tragic surge embody consider carbon";

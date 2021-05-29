@@ -1,1 +1,1 @@
-var mnemonic = "cereal ugly seven try usage pear web ordinary angry panic manage arrow";
+var mnemonic = "axis onion pigeon family easy pipe flip pudding afraid menu style find";

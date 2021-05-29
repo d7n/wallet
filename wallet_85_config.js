@@ -1,1 +1,1 @@
-var mnemonic = "miss unique summer rhythm excuse quit tuna beyond logic pencil receive change";
+var mnemonic = "oppose tooth skirt charge steak number warfare digital undo update renew cream";

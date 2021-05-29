@@ -1,1 +1,1 @@
-var mnemonic = "tilt people require reunion present place divide sign sniff company hammer weird";
+var mnemonic = "place excite project day prevent shaft near genius chair viable loop fun";

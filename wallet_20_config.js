@@ -1,1 +1,1 @@
-var mnemonic = "ordinary miss head wood buddy boring please cement alarm bubble benefit end";
+var mnemonic = "size impulse profit glass matrix rhythm short garlic huge defy shy story";

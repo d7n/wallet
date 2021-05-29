@@ -1,1 +1,1 @@
-var mnemonic = "spice basket mixed female leg thank tomorrow worth large orchard rifle cinnamon";
+var mnemonic = "burst road chimney bulk shadow chest service average remember advance there scrub";

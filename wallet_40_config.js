@@ -1,1 +1,1 @@
-var mnemonic = "student bus battle lawn raise equal caution regret cram swamp pottery celery";
+var mnemonic = "essay salon meat thing volcano rival direct soda nominee ghost reason include";

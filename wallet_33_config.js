@@ -1,1 +1,1 @@
-var mnemonic = "siege favorite matrix six van jewel august result predict chalk apart unlock";
+var mnemonic = "suffer loud color believe mask aisle horn strong wire park glance idle";

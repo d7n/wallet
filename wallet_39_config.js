@@ -1,1 +1,1 @@
-var mnemonic = "edit happy way wrong slow exercise dad fade method dutch drill blush";
+var mnemonic = "crouch rice stable grunt faint robust retreat sunset pen argue cargo club";

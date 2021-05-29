@@ -1,1 +1,1 @@
-var mnemonic = "body hope unique afford steel badge elder ice sound deny joy alien";
+var mnemonic = "wall trust omit file range language six gallery benefit common mammal put";

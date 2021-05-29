@@ -1,1 +1,1 @@
-var mnemonic = "unusual doctor salt lens insane idle regular utility anxiety sibling alley merge";
+var mnemonic = "defy satisfy decline gossip traffic priority box wave cactus mercy diary erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "rate cherry slide refuse hobby update pledge item wrap mean purchase hole";
+var mnemonic = "ritual churn edit illegal black smile decade surface property quiz antenna cactus";

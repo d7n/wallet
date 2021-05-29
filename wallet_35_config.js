@@ -1,1 +1,1 @@
-var mnemonic = "receive arrest alpha escape defy lumber slam risk vote mercy spice oyster";
+var mnemonic = "pyramid theme fiber cabin hen ship pigeon wrist gesture table river attend";

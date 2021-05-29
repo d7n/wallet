@@ -1,1 +1,1 @@
-var mnemonic = "enrich sun risk arrest blur deal enforce local romance useful clog firm";
+var mnemonic = "reopen vehicle modify vintage road salmon outside banana code rack stamp regular";

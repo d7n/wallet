@@ -1,1 +1,1 @@
-var mnemonic = "scene team firm matrix myself umbrella include devote answer best wing ask";
+var mnemonic = "coil horse nephew churn pause sting advice foil install monster leisure lawsuit";

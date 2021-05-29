@@ -1,1 +1,1 @@
-var mnemonic = "cruel exist promote captain couple child ketchup debris bulk fine upon riot";
+var mnemonic = "team elbow hunt umbrella define outdoor skill useless limb original myself sense";

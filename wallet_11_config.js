@@ -1,1 +1,1 @@
-var mnemonic = "glance olympic crowd same document athlete since snow boil weekend solve again";
+var mnemonic = "grace list stumble erosion trouble ten actor person double chase impact cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "elder kid bread faculty amused sting boss infant bid cotton hair awkward";
+var mnemonic = "cloth tomato can kind list robot earn funny heart only resist become";

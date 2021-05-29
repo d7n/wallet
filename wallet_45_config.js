@@ -1,1 +1,1 @@
-var mnemonic = "jeans keep measure mistake market prize timber level omit couch ancient rack";
+var mnemonic = "enter they close index replace weather flee fee series concert monkey pelican";

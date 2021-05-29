@@ -1,1 +1,1 @@
-var mnemonic = "glory churn panda excuse glad adult check stumble initial artefact when wise";
+var mnemonic = "joke express high vacuum elbow surge leg gesture hover witness album office";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal lake bomb index toss whale gauge lift urban combine buddy frozen";
+var mnemonic = "spatial bacon logic rhythm render have point empty fabric session hundred act";

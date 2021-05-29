@@ -1,1 +1,1 @@
-var mnemonic = "sorry inner category satoshi there opinion rigid ocean act board will opera";
+var mnemonic = "news test glance furnace flight cream praise danger proud crawl across dance";

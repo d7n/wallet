@@ -1,1 +1,1 @@
-var mnemonic = "drip hurdle give ketchup turtle length shed diamond cycle lobster legal true";
+var mnemonic = "plug express about bacon gym advice drum moment wrong nurse jealous possible";
