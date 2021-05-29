@@ -1,1 +1,1 @@
-var mnemonic = "carpet bean useful globe engine giraffe organ eye test limit warm recycle";
+var mnemonic = "can century find tattoo reduce away weasel escape oven praise twelve bundle";

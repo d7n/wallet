@@ -1,1 +1,1 @@
-var mnemonic = "sand sudden light estate involve random alley stuff solar royal myself cause";
+var mnemonic = "arm warfare basic innocent unhappy vibrant damp insane symbol junior above mention";

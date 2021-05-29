@@ -1,1 +1,1 @@
-var mnemonic = "marble word seat unaware cash accident daring total recycle daring giraffe summer";
+var mnemonic = "three wrap tiny busy trick bag viable muscle blood price level comfort";

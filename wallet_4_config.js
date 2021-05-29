@@ -1,1 +1,1 @@
-var mnemonic = "earn salt wolf subway regular zebra income photo black tonight increase degree";
+var mnemonic = "fuel spread govern clump zebra this sausage finger spider hole harsh elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "social corn soda return coffee aunt acid stone club oppose grow scrap";
+var mnemonic = "name negative swallow debris raw skate obvious staff annual broom hole next";

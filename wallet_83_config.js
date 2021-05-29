@@ -1,1 +1,1 @@
-var mnemonic = "adult door between gesture case history adapt book box deliver arena aspect";
+var mnemonic = "project dance figure angry bulk rare vital vacuum title clump wine baby";

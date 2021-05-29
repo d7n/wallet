@@ -1,1 +1,1 @@
-var mnemonic = "oxygen extra spin drink mule tooth armed ability first calm tip shoe";
+var mnemonic = "useless ocean deal matter quiz film wisdom village april bounce inch goat";

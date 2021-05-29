@@ -1,1 +1,1 @@
-var mnemonic = "post asthma burst maple cruel glove corn warfare affair forget innocent autumn";
+var mnemonic = "symptom nuclear shoot find flame travel text odor lesson increase atom become";

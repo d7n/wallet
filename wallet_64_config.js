@@ -1,1 +1,1 @@
-var mnemonic = "upgrade sudden ladder utility age better fire glide critic neglect fluid save";
+var mnemonic = "off drama idle dignity loud near quick leave iron corn giant name";

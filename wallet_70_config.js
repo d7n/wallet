@@ -1,1 +1,1 @@
-var mnemonic = "interest damage swim famous quiz thrive excite attend ghost trade quick erode";
+var mnemonic = "champion news address rotate forum version quote tackle dirt donkey impulse judge";

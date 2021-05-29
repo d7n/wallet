@@ -1,1 +1,1 @@
-var mnemonic = "fluid nut napkin method happy angle coin swarm cool resource dragon ladder";
+var mnemonic = "learn square town category inspire happy theme put point weird stone twin";

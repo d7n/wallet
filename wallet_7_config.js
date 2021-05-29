@@ -1,1 +1,1 @@
-var mnemonic = "cushion provide later park gauge theory lend various brass maple torch day";
+var mnemonic = "danger almost outdoor brave venture into ugly galaxy capital august poem awkward";

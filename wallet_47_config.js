@@ -1,1 +1,1 @@
-var mnemonic = "tribe frog wing dwarf media anger boat canoe job smart pause benefit";
+var mnemonic = "twenty flavor globe agree pair fitness shield rely army toward car term";

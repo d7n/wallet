@@ -1,1 +1,1 @@
-var mnemonic = "bid street eight hungry grunt nephew claim either must over system whisper";
+var mnemonic = "suffer junk welcome waste float note airport tissue around dust people belt";

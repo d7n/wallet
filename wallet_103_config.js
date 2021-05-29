@@ -1,1 +1,1 @@
-var mnemonic = "large fade cherry area extend plug shuffle usage chief enrich occur oyster";
+var mnemonic = "silly file life plate desert twelve mushroom cluster bench panic also shift";

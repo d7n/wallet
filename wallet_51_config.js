@@ -1,1 +1,1 @@
-var mnemonic = "exercise bargain morning earth bomb harbor plate stone blur mansion napkin fresh";
+var mnemonic = "calm pigeon defy wolf sun gas profit silly early voyage giant strong";

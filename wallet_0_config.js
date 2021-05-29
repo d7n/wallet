@@ -1,1 +1,1 @@
-var mnemonic = "journey obscure lemon cruel slow machine smoke coffee sick crowd squirrel problem";
+var mnemonic = "ecology health chair twist naive venue stereo cargo follow mansion adapt medal";

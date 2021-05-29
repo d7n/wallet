@@ -1,1 +1,1 @@
-var mnemonic = "age skull sphere album artefact bicycle under demise own cloud zebra absorb";
+var mnemonic = "they female torch achieve peanut bracket purpose miracle skull delay spirit motor";

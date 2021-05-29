@@ -1,1 +1,1 @@
-var mnemonic = "cherry echo phrase online fall twice inner crew valid glory banana flower";
+var mnemonic = "foster enemy grit swap cushion helmet inmate solar tuition mammal concert sunset";

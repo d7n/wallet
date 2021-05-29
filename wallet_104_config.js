@@ -1,1 +1,1 @@
-var mnemonic = "number vote abuse giggle whale nerve truly share treat venue weird tired";
+var mnemonic = "scissors inherit select whale ceiling angry waste shy render fatigue pluck worry";

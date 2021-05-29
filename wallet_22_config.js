@@ -1,1 +1,1 @@
-var mnemonic = "town notable galaxy august skate please snap inform fish family remain biology";
+var mnemonic = "belt urban camera crash dress actor believe route sleep company rug quit";

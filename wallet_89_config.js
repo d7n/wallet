@@ -1,1 +1,1 @@
-var mnemonic = "torch wife news occur boss will doll fluid lift rent asthma local";
+var mnemonic = "switch trouble fame pepper open seven south eternal toe ozone poverty replace";

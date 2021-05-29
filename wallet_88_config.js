@@ -1,1 +1,1 @@
-var mnemonic = "such wife repeat unhappy used obtain disease poet volume enroll reason slice";
+var mnemonic = "tornado ice lazy door now input salt error consider wheel mass logic";

@@ -1,1 +1,1 @@
-var mnemonic = "boring about swarm arena grant bridge gift health veteran distance grain label";
+var mnemonic = "husband kangaroo sketch useless other decorate broccoli elegant staff repeat patch fork";

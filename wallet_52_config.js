@@ -1,1 +1,1 @@
-var mnemonic = "win coconut cry join vast chaos month exotic ribbon draft ahead claim";
+var mnemonic = "clarify load peanut desert saddle captain renew grid april shed annual myth";

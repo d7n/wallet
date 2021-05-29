@@ -1,1 +1,1 @@
-var mnemonic = "garment gravity dinosaur sail castle frozen island stamp piano student oven media";
+var mnemonic = "stand flag useful under fox panther book sadness move fall act vendor";

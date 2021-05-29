@@ -1,1 +1,1 @@
-var mnemonic = "vintage glad gospel labor ramp section addict memory fetch cage want taxi";
+var mnemonic = "alien beef weekend call rent elder range index dry feed deliver correct";

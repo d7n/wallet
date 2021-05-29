@@ -1,1 +1,1 @@
-var mnemonic = "miracle mercy excess wise upgrade shallow latin action allow waste rain random";
+var mnemonic = "dragon dirt spell boring despair reunion way dutch chase mosquito pitch glad";

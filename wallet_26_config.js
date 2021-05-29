@@ -1,1 +1,1 @@
-var mnemonic = "chase bench rug guess injury tribe uncle patch meat finger bid bargain";
+var mnemonic = "sister magic tongue naive toddler mad area junior kingdom idea claw cactus";

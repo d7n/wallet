@@ -1,1 +1,1 @@
-var mnemonic = "hunt can rice fragile energy sheriff feel humble artist planet night proof";
+var mnemonic = "monitor sweet ankle hen cradle beach zebra ticket bleak reflect fit orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "install roof immense rapid zebra caution hospital extend accuse arrive face earth";
+var mnemonic = "staff tail sad canvas exhaust artefact unknown become young spike laugh donate";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer enhance situate bird winner cheap magic march jaguar tomato merry nasty";
+var mnemonic = "height worth cheap symbol claw flat pencil jazz praise mad now decline";

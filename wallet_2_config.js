@@ -1,1 +1,1 @@
-var mnemonic = "ring rule client deal naive talent envelope fatigue pause sadness woman frame";
+var mnemonic = "fame submit broom false thunder blame direct fiber creek soldier master robot";

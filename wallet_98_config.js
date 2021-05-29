@@ -1,1 +1,1 @@
-var mnemonic = "laptop fit hundred spoon seven funny scan yard group case erode hedgehog";
+var mnemonic = "drum giraffe repair poem nominee version fly aunt grow loyal index slender";

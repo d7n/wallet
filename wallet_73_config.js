@@ -1,1 +1,1 @@
-var mnemonic = "invite make change opera uniform renew remember during slim aware under gate";
+var mnemonic = "coach tent plastic social mix indoor ocean home orphan dog have cluster";

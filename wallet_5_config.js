@@ -1,1 +1,1 @@
-var mnemonic = "next average bitter plastic day genius decide crunch require reflect fresh retire";
+var mnemonic = "spatial hammer fitness rice tiny soccer cup size purchase actual burger open";

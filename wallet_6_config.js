@@ -1,1 +1,1 @@
-var mnemonic = "benefit disagree napkin mosquito lucky couple zebra luggage lumber whale phrase desk";
+var mnemonic = "sort sibling glad peanut mercy kitchen sing bring ask oxygen copy enter";

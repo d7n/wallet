@@ -1,1 +1,1 @@
-var mnemonic = "mind pool steak leave rich ordinary aspect project sibling steak maximum couple";
+var mnemonic = "tomorrow acoustic need mango machine carpet awful water height lens click patch";

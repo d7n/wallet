@@ -1,1 +1,1 @@
-var mnemonic = "mouse lion vintage buzz sail diesel glue base renew early alter miracle";
+var mnemonic = "liquid village hood reopen return wreck switch switch chuckle debate junior language";

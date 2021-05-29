@@ -1,1 +1,1 @@
-var mnemonic = "mistake isolate novel ostrich notable spell sadness satisfy what lab blast water";
+var mnemonic = "struggle gas perfect grace mercy tortoise front genuine moon sign buzz liar";

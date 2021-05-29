@@ -1,1 +1,1 @@
-var mnemonic = "crack oil tiny galaxy east ghost together neutral pond copper dry siren";
+var mnemonic = "laundry index device demand obtain warm ability street kite polar bone sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "faith demise fee invest favorite citizen brain custom cycle impulse liberty cook";
+var mnemonic = "afford camera describe shoe exist old supreme love story witness entry brain";

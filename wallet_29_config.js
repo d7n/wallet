@@ -1,1 +1,1 @@
-var mnemonic = "parade language tower unfold agree aspect garden radar dragon inch certain enrich";
+var mnemonic = "enemy gorilla tooth garden course they surprise garlic point embrace punch mask";

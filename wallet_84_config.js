@@ -1,1 +1,1 @@
-var mnemonic = "crop simple pen drip wild merge cost what clump repair tuna venture";
+var mnemonic = "foot entry apology street escape hurdle claw echo sense crop prevent shallow";

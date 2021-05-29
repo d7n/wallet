@@ -1,1 +1,1 @@
-var mnemonic = "rotate advice december vehicle month plastic liberty during evidence they muffin vessel";
+var mnemonic = "crush shoe original day furnace mixture horse save allow garment milk doll";

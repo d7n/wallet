@@ -1,1 +1,1 @@
-var mnemonic = "walk nothing summer trash way dance trigger frozen bulk economy match modify";
+var mnemonic = "powder empty ramp settle truth bullet input farm cereal chicken grocery cradle";

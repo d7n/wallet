@@ -1,1 +1,1 @@
-var mnemonic = "flock brave someone bunker relief blue one gun decorate fork tissue hedgehog";
+var mnemonic = "supreme raw south tip glimpse situate old galaxy unable fresh possible aunt";

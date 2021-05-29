@@ -1,1 +1,1 @@
-var mnemonic = "beyond soap motor water drive excuse quote they lizard tower dragon left";
+var mnemonic = "leave skin gasp fade ceiling scatter baby normal praise lamp chat aim";

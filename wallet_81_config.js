@@ -1,1 +1,1 @@
-var mnemonic = "humble spice fly drink kind true aim lonely crater action plastic common";
+var mnemonic = "venture useless birth farm game brush shove wide advice mask wrist snack";

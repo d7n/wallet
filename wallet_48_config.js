@@ -1,1 +1,1 @@
-var mnemonic = "all blame toss topic morning interest scorpion jealous time law wagon wheat";
+var mnemonic = "transfer cost catch galaxy cost among club sail jar bundle labor tortoise";

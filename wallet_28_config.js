@@ -1,1 +1,1 @@
-var mnemonic = "access pilot copper inner attitude token trick first wink mind predict blossom";
+var mnemonic = "able coach valve crush crawl expand deny energy ginger claim immune ship";

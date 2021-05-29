@@ -1,1 +1,1 @@
-var mnemonic = "effort upper tuna twin outdoor slim dad smooth control around mom frame";
+var mnemonic = "razor music enroll gravity width describe color fashion cushion bid circle same";

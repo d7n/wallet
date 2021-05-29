@@ -1,1 +1,1 @@
-var mnemonic = "inquiry all agree north carpet limb ritual wasp hobby sell daring anchor";
+var mnemonic = "book huge expect hub into congress harvest bacon now give artist affair";

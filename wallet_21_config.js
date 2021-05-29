@@ -1,1 +1,1 @@
-var mnemonic = "attract attitude liberty eagle outside crater liberty more pilot connect sea friend";
+var mnemonic = "panther balcony produce can magic awake fall start tail reduce narrow march";

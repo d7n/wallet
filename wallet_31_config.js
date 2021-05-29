@@ -1,1 +1,1 @@
-var mnemonic = "snow come okay behind pigeon thumb actress crystal tennis sunset spell kiwi";
+var mnemonic = "note tiny choice choice marine shrimp spy mass april put settle assist";

@@ -1,1 +1,1 @@
-var mnemonic = "poet elephant exchange despair shed live dumb spike install swift torch dune";
+var mnemonic = "practice pumpkin elite cram remain crisp inject resemble invest easily rigid thunder";

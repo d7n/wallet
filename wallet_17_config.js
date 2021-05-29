@@ -1,1 +1,1 @@
-var mnemonic = "stone bulb tent tent leg puppy immune mouse tongue skill crawl fall";
+var mnemonic = "junk tornado grain dizzy airport drastic flight live airport label subway blur";

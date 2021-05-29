@@ -1,1 +1,1 @@
-var mnemonic = "oval pull test please gaze father room omit elite window stool possible";
+var mnemonic = "session stock fiction hen smooth thunder depart scrap chicken agent keen critic";

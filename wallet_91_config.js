@@ -1,1 +1,1 @@
-var mnemonic = "bike stamp razor area immense entire enrich primary toe side recipe advice";
+var mnemonic = "sentence party pole trip leopard before waste prefer chalk walnut junior toss";

@@ -1,1 +1,1 @@
-var mnemonic = "action tiny paddle insane situate stage balcony hospital spike attack basic heart";
+var mnemonic = "horn south common because jeans spawn shrug box way drip agree peace";

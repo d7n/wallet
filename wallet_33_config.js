@@ -1,1 +1,1 @@
-var mnemonic = "empty raccoon narrow chuckle current add surface unlock report unique learn bacon";
+var mnemonic = "transfer gossip abuse grass bone economy enforce common various february same tuition";

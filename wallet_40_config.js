@@ -1,1 +1,1 @@
-var mnemonic = "snap write paddle evoke buyer submit rain wall want captain forward attract";
+var mnemonic = "derive retire lock select drift company clip spell faculty rival prepare april";

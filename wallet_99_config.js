@@ -1,1 +1,1 @@
-var mnemonic = "place limb person barely fiber upper mesh payment pioneer meadow hole camp";
+var mnemonic = "solution disagree fiber scan business mammal stumble genuine wave liquid return hundred";

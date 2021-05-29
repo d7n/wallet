@@ -1,1 +1,1 @@
-var mnemonic = "include payment clutch juice lava mystery letter rich rule laundry skill mixed";
+var mnemonic = "garden home twice left cheap decrease someone orphan grab zero fury steak";

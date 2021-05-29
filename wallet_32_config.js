@@ -1,1 +1,1 @@
-var mnemonic = "medal shoulder acquire stock gossip melody ten actor index sustain enlist split";
+var mnemonic = "human cigar crumble truth tent clap loan inherit chronic panther level pause";

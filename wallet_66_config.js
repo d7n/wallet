@@ -1,1 +1,1 @@
-var mnemonic = "draw reflect engage hazard rain common depart wait animal tobacco divide slow";
+var mnemonic = "glance carpet vote mad else fit trip quick conduct stamp minimum buddy";

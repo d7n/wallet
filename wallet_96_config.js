@@ -1,1 +1,1 @@
-var mnemonic = "come genuine vapor banner wire fury intact pitch august market simple mean";
+var mnemonic = "appear about child castle behind guess lucky measure speak similar tornado valley";

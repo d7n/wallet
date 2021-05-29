@@ -1,1 +1,1 @@
-var mnemonic = "penalty exclude satoshi shock border bulk cupboard speak girl oxygen pipe post";
+var mnemonic = "spike apology vibrant salmon sure enrich tornado sadness citizen opinion gorilla wheat";

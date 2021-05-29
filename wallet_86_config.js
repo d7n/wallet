@@ -1,1 +1,1 @@
-var mnemonic = "hollow baby renew same half change two mixed sea vocal enroll rib";
+var mnemonic = "later dash foil ready gadget powder company rice bless black element gloom";

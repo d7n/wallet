@@ -1,1 +1,1 @@
-var mnemonic = "derive domain island endless culture square detect snack lottery aspect jealous already";
+var mnemonic = "gloom hurdle legend faith image fashion caught priority gloom lift wrist cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "gate floor deal joke shield myself nothing saddle drill found feature dog";
+var mnemonic = "alarm omit minute obscure cabin success lend lottery toy fetch awful buffalo";

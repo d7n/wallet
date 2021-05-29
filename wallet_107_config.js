@@ -1,1 +1,1 @@
-var mnemonic = "tilt net unhappy vendor gate toe crush shy dune wonder latin grocery";
+var mnemonic = "soon chaos object index grief blade ordinary history enter cash audit lend";

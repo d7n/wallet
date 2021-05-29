@@ -1,1 +1,1 @@
-var mnemonic = "drill quiz error become blush return vital layer table arena aerobic smart";
+var mnemonic = "crane travel immense same index over february wolf priority frost arrive capital";

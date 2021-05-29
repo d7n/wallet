@@ -1,1 +1,1 @@
-var mnemonic = "material gold buzz worth shiver satisfy income fly mother stand door radar";
+var mnemonic = "gesture ahead virtual speak minor volcano valley mouse shine usage victory vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor menu margin quote false slam super high source drive champion motion";
+var mnemonic = "century ostrich model noodle loop strong token purpose hen above ritual talk";

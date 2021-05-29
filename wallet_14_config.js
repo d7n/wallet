@@ -1,1 +1,1 @@
-var mnemonic = "glow minimum barely loyal memory scissors hard portion payment push visit era";
+var mnemonic = "scene say adapt ahead thought net accuse limb shrug stumble moral smart";

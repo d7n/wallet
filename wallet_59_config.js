@@ -1,1 +1,1 @@
-var mnemonic = "muffin talk ability silk exclude clay intact parent avocado jeans april hospital";
+var mnemonic = "oval empower group gadget blue capital deer shed kidney alter body must";

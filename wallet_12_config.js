@@ -1,1 +1,1 @@
-var mnemonic = "soul drop inquiry reflect bargain immense love sponsor glow select border blush";
+var mnemonic = "little outdoor surface marriage three radar leave round calm poet beyond crack";

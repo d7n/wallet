@@ -1,1 +1,1 @@
-var mnemonic = "wagon worry raise banner vintage situate yellow turtle gloom relax quantum imitate";
+var mnemonic = "fringe wink eyebrow kick better orphan easy spawn fold dinosaur fog smart";

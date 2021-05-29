@@ -1,1 +1,1 @@
-var mnemonic = "pizza pilot lens liquid dentist dash zero butter east boil favorite bless";
+var mnemonic = "upper pottery mobile consider depart borrow venture energy initial clown vehicle tortoise";

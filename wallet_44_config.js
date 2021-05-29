@@ -1,1 +1,1 @@
-var mnemonic = "rain rib tonight rent opinion cup brief program scissors humble carbon pupil";
+var mnemonic = "valley road adjust energy around glory method amazing response color still cute";

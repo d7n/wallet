@@ -1,1 +1,1 @@
-var mnemonic = "oil ivory empower citizen tilt pulp cheese second pizza slow tide issue";
+var mnemonic = "crouch silly monkey wrestle elegant upgrade tackle science sheriff elegant sausage simple";

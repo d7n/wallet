@@ -1,1 +1,1 @@
-var mnemonic = "anger draw alone trip empty chief humble royal donkey bunker price stock";
+var mnemonic = "arrange mango visual spend rice alone truth occur margin cave jewel apple";

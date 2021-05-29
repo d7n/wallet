@@ -1,1 +1,1 @@
-var mnemonic = "patient vague use comic illegal car fan siren equip excess ahead input";
+var mnemonic = "wrong flash climb pave enact daughter unlock gap arch stairs trade wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "remember chicken recycle flush gadget eternal end visit actress planet muscle ozone";
+var mnemonic = "exhibit abuse replace cruise language father pulse winter outdoor photo predict scatter";
