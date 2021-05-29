@@ -1,1 +1,1 @@
-var mnemonic = "print unknown alpha limit daughter manual tent various tide gadget day exclude";
+var mnemonic = "million olive manual candy satoshi elbow crawl abstract cereal fine nothing royal";

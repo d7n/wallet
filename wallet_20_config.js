@@ -1,1 +1,1 @@
-var mnemonic = "bleak dizzy kiwi gather want such liquid aspect fiber olympic garlic error";
+var mnemonic = "waste exercise swallow patient attitude foil indicate limb trial monitor awkward myth";

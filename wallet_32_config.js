@@ -1,1 +1,1 @@
-var mnemonic = "lawn sniff sustain page share wealth fine return merry cream hybrid any";
+var mnemonic = "result convince burger buffalo cotton lizard ticket wisdom odor mango embody coil";

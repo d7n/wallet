@@ -1,1 +1,1 @@
-var mnemonic = "nice bacon impact excuse toy october style bacon physical increase error defy";
+var mnemonic = "nothing hold seminar tip cousin park expect insane about cotton connect recycle";

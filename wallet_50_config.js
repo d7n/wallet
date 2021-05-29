@@ -1,1 +1,1 @@
-var mnemonic = "real rebel excite neck soap hope eagle ball garage marine smooth task";
+var mnemonic = "coil diet physical chase hat tank effort relief tip volume dinner weasel";

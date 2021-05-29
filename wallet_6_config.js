@@ -1,1 +1,1 @@
-var mnemonic = "winner innocent need text security lift short crack shiver river peace pull";
+var mnemonic = "marriage always dress kangaroo balcony fatigue frame thrive frozen pyramid stereo manual";

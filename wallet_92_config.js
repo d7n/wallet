@@ -1,1 +1,1 @@
-var mnemonic = "diesel vast execute inspire bonus tooth fat slush museum scout math slow";
+var mnemonic = "vocal number minimum trigger list foster once upset uncle join boat end";

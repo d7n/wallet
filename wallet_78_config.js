@@ -1,1 +1,1 @@
-var mnemonic = "margin vague account fringe flee solution series poverty below scale tiny define";
+var mnemonic = "raccoon drive sentence load wreck often tornado divert convince pattern patient sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "model zebra reveal wild subway enough theme romance move rent green view";
+var mnemonic = "verb describe proud into witness divorce better erode clay across apple toy";

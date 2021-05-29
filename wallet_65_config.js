@@ -1,1 +1,1 @@
-var mnemonic = "juice like topic math quantum claim flock theory early weasel exercise rate";
+var mnemonic = "allow fine speak dilemma inherit salad approve fashion lawn turkey economy romance";

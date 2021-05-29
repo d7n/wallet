@@ -1,1 +1,1 @@
-var mnemonic = "chief switch advance stadium cat found aware foster word dirt august vault";
+var mnemonic = "weather small motion title miracle salute kick history quantum decline cabin jaguar";

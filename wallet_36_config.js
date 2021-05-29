@@ -1,1 +1,1 @@
-var mnemonic = "clerk call ugly arrange survey kick tide grief wear poverty behind tomato";
+var mnemonic = "again core prize winter involve asthma fluid stem wealth six orange spirit";

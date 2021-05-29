@@ -1,1 +1,1 @@
-var mnemonic = "alarm since three remain process wage wall stadium giraffe vacant regret excess";
+var mnemonic = "dust anchor rebuild thunder dragon energy hurry absorb three ignore need crucial";

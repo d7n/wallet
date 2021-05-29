@@ -1,1 +1,1 @@
-var mnemonic = "beyond april leisure trumpet better spawn artist rebuild sense doll zone fox";
+var mnemonic = "idea jaguar ignore praise duty ignore frequent capable keep lecture return cable";

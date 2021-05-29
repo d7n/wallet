@@ -1,1 +1,1 @@
-var mnemonic = "blind there panic farm better recipe flash thank wedding leaf hard sphere";
+var mnemonic = "twenty together laptop draft cruise fee hover little scare horn canoe mechanic";

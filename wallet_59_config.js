@@ -1,1 +1,1 @@
-var mnemonic = "fever adjust shy april gather room wave way wool rookie output embody";
+var mnemonic = "describe random type later soda outside burden below scatter toe exercise smoke";

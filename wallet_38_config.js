@@ -1,1 +1,1 @@
-var mnemonic = "planet alert grocery faculty snack pact right salon crucial brisk action possible";
+var mnemonic = "city tragic green welcome segment car okay yard mosquito refuse entire inflict";

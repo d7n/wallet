@@ -1,1 +1,1 @@
-var mnemonic = "bundle various engine say novel orient cross cattle live hope nerve air";
+var mnemonic = "wish wear unlock tiger iron absurd accuse lab unfair permit soda main";

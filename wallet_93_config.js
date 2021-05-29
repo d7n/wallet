@@ -1,1 +1,1 @@
-var mnemonic = "virus orbit youth differ point rapid ginger often journey push stamp leisure";
+var mnemonic = "luggage magic grief fee humble proud grief inmate wave foot ready gasp";

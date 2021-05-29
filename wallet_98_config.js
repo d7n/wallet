@@ -1,1 +1,1 @@
-var mnemonic = "nominee crash festival caution old margin appear glow romance legal cactus decide";
+var mnemonic = "stumble laundry old advance victory arrive forum festival scheme calm grocery guide";

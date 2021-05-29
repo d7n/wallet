@@ -1,1 +1,1 @@
-var mnemonic = "news gallery hour amateur seven sound blouse category toward glass rely mirror";
+var mnemonic = "mesh fit around venture hand scrap law table canvas unfair orbit utility";

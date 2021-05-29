@@ -1,1 +1,1 @@
-var mnemonic = "juice dismiss sword approve differ million squeeze little pilot soup shove proud";
+var mnemonic = "give recipe garbage enrich valve before ranch scheme ocean hybrid aerobic differ";

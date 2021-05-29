@@ -1,1 +1,1 @@
-var mnemonic = "trigger clutch insane congress orient cheap this egg insect pizza treat pigeon";
+var mnemonic = "praise region walnut warm flight parent fragile spider choose kangaroo account spatial";

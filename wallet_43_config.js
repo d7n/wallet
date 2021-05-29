@@ -1,1 +1,1 @@
-var mnemonic = "slot animal confirm found learn young good text cinnamon flee orchard eager";
+var mnemonic = "peanut unhappy sunset little retire ridge smooth broom help twist link lonely";

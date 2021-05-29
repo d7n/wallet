@@ -1,1 +1,1 @@
-var mnemonic = "sting length network winner viable cereal nature silver rebel science guide one";
+var mnemonic = "away bag pond blind panda girl confirm mango crystal carry reopen impulse";

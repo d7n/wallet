@@ -1,1 +1,1 @@
-var mnemonic = "perfect finish brisk pumpkin history ostrich wrong cover educate game top scare";
+var mnemonic = "hint top enemy deer bag case vibrant cat sword parade exercise giggle";

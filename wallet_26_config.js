@@ -1,1 +1,1 @@
-var mnemonic = "flame thunder rocket frame already park inmate crumble dose such account throw";
+var mnemonic = "book steak rose horn cancel mobile fuel duty lake upset man math";

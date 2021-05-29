@@ -1,1 +1,1 @@
-var mnemonic = "gaze field label reward input fitness panic extend plug dad benefit frown";
+var mnemonic = "guess pink roast until noble provide bitter wreck blast govern season limit";

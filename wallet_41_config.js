@@ -1,1 +1,1 @@
-var mnemonic = "opera noodle that dog horse brand broccoli tomorrow steak travel okay slush";
+var mnemonic = "climb make ridge fly code license ocean mean rookie stem manage hammer";

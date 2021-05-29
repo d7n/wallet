@@ -1,1 +1,1 @@
-var mnemonic = "lucky faint jeans current vocal fury tent island ski cherry rubber female";
+var mnemonic = "rule garden wage voice seven canoe mixed squeeze hip winter toss kid";

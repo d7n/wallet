@@ -1,1 +1,1 @@
-var mnemonic = "wealth economy job awful cave forest budget example mad hat resource ready";
+var mnemonic = "hand trophy now minimum symbol notice canoe board hero butter frost rail";

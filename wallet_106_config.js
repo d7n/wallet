@@ -1,1 +1,1 @@
-var mnemonic = "undo letter lucky orbit siege want crumble key trust loop order tenant";
+var mnemonic = "hood vapor mercy front embody hidden range own aerobic antique member later";

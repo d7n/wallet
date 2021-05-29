@@ -1,1 +1,1 @@
-var mnemonic = "finish whisper chaos steel merry wheat utility visual silk prefer minimum mutual";
+var mnemonic = "edit license issue book spring tennis boost reduce idle bid addict pair";

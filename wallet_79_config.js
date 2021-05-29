@@ -1,1 +1,1 @@
-var mnemonic = "nephew twin quality predict motor ginger lucky dose alert venture cross venue";
+var mnemonic = "fringe debate guide power toy include grid tuition smoke hurdle hire country";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow dinner faint market elbow onion luggage opinion help wet test coil";
+var mnemonic = "improve affair proof desert message fancy clock record voice gorilla inside transfer";

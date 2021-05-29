@@ -1,1 +1,1 @@
-var mnemonic = "roof august arctic lazy ocean grow tube artefact elbow add combine hedgehog";
+var mnemonic = "crucial member defy shoulder cheap dune stock cluster file normal wrong swarm";

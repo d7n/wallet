@@ -1,1 +1,1 @@
-var mnemonic = "primary speak whisper garment honey arctic mesh explain glad modify rate owner";
+var mnemonic = "nurse acquire now better fish rifle tree void tongue come impulse witness";

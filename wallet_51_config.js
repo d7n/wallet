@@ -1,1 +1,1 @@
-var mnemonic = "bulb fit edge web feel caught filter advance width siege assist gain";
+var mnemonic = "slice bus maple hamster credit scare spirit wheel action car tape quantum";

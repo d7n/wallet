@@ -1,1 +1,1 @@
-var mnemonic = "vicious narrow coral place gospel turn fragile dad quote antenna wool vicious";
+var mnemonic = "cushion forget endorse cotton valley sing double neglect stay nominee mention eye";

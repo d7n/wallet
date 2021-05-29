@@ -1,1 +1,1 @@
-var mnemonic = "bundle faith small damp rabbit swear face strong hazard private meadow swarm";
+var mnemonic = "account potato garment burst hybrid kangaroo forward finish return always neglect two";

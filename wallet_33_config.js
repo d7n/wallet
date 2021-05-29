@@ -1,1 +1,1 @@
-var mnemonic = "cute oven toward unable orient chronic plate diagram expose silly advice escape";
+var mnemonic = "slogan brave diesel false orphan radar phrase knock gather vapor chronic share";

@@ -1,1 +1,1 @@
-var mnemonic = "spare bunker struggle alcohol sight aim absurd burden feed vapor uncover conduct";
+var mnemonic = "scheme off twin muffin drip odor attack coil toilet torch melt drop";

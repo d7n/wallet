@@ -1,1 +1,1 @@
-var mnemonic = "suffer deny season squirrel inmate van reveal taxi east cousin client boat";
+var mnemonic = "between duty scatter april above pigeon wreck march convince orange guess tennis";

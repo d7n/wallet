@@ -1,1 +1,1 @@
-var mnemonic = "that place nose agent company dizzy shield pigeon cover sun bridge tongue";
+var mnemonic = "camera filter critic enemy list solve cry pole unique lift mixed income";

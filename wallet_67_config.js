@@ -1,1 +1,1 @@
-var mnemonic = "civil parent gorilla road observe hunt orchard shallow another endorse essence garment";
+var mnemonic = "wink oil diamond wool space motion stand year brain entire glance shrimp";

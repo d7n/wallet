@@ -1,1 +1,1 @@
-var mnemonic = "notable front major tray fresh cube exile toe dolphin canvas taxi van";
+var mnemonic = "fame then mad elbow system clown report bunker curve robot guide vacuum";

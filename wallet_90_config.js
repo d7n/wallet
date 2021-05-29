@@ -1,1 +1,1 @@
-var mnemonic = "wave rhythm ghost coffee bean apple acquire hen enforce olive door wild";
+var mnemonic = "muscle proud fold visual tribe foster soon tape forward equip fantasy juice";

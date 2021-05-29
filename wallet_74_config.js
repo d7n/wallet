@@ -1,1 +1,1 @@
-var mnemonic = "erosion repeat easy cushion ahead chunk ski grid labor near primary penalty";
+var mnemonic = "chimney achieve romance child average logic boat oak garage plug affair cool";

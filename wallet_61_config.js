@@ -1,1 +1,1 @@
-var mnemonic = "ketchup neither erode usage discover primary awesome glad coconut swarm decade wing";
+var mnemonic = "pave genre bag grief gain hat area tiny wild dwarf stool ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow engage powder trash ring gesture kidney fee young home birth goat";
+var mnemonic = "wear stereo wink arrow success reason panel talk ramp appear viable injury";

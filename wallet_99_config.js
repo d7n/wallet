@@ -1,1 +1,1 @@
-var mnemonic = "treat round setup sail maple cute can kit adult base cattle vast";
+var mnemonic = "play icon dose wet clog slab allow turkey police dumb bubble rough";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly void armed steak sail winner diagram liberty duty glad monkey robot";
+var mnemonic = "congress merry rice mushroom copy leave vault become fit elder color wonder";

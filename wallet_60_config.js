@@ -1,1 +1,1 @@
-var mnemonic = "system explain fancy zero destroy frozen club farm resource click vacuum embrace";
+var mnemonic = "use fan intact trigger almost video title obvious genuine viable worth stomach";

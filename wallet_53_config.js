@@ -1,1 +1,1 @@
-var mnemonic = "marriage swamp umbrella soft rifle glow inherit math stem crush armed mansion";
+var mnemonic = "office style junk burger risk vivid axis isolate weather cradle keep waste";

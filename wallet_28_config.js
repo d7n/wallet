@@ -1,1 +1,1 @@
-var mnemonic = "eagle physical giant tourist marine lion fame velvet fitness stumble stand ocean";
+var mnemonic = "royal glare stereo satoshi picnic jar organ piano alcohol owner flat family";

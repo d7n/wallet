@@ -1,1 +1,1 @@
-var mnemonic = "leave weird original mammal square year right vapor audit permit couch surprise";
+var mnemonic = "people stable chaos paddle satisfy moment jar auction choice account climb sense";

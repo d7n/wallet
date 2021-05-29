@@ -1,1 +1,1 @@
-var mnemonic = "cloud amused salute catalog match ladder swamp famous first usual sister pond";
+var mnemonic = "head giggle play include morning fault science head violin maximum dry clock";

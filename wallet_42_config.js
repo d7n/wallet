@@ -1,1 +1,1 @@
-var mnemonic = "code group angle sunset category slam hockey prosper tell benefit alpha assist";
+var mnemonic = "insane nature office unveil tower improve clinic left roast walnut umbrella major";

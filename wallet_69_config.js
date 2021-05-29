@@ -1,1 +1,1 @@
-var mnemonic = "puzzle double mistake cinnamon border final twice raw family rate nurse usual";
+var mnemonic = "that step crater holiday silent road flavor adapt pipe argue actress permit";

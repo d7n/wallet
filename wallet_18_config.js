@@ -1,1 +1,1 @@
-var mnemonic = "pepper fish rebuild enable vendor wool fever cause arrange put shiver quote";
+var mnemonic = "nothing diagram high lens eight economy shine aspect blade promote noodle dumb";

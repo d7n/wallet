@@ -1,1 +1,1 @@
-var mnemonic = "minute faith donkey mass plunge cloud parent mind buyer hole flash together";
+var mnemonic = "differ unaware degree frame history lift again chapter dumb method enhance parent";

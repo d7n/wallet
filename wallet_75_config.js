@@ -1,1 +1,1 @@
-var mnemonic = "sand uncle spend permit enhance corn purity skin sad famous awake deny";
+var mnemonic = "ask original doll park add mixed this zone giant winter napkin session";

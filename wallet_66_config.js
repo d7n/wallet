@@ -1,1 +1,1 @@
-var mnemonic = "earth obscure brown dutch neglect risk laptop bargain improve affair tiger math";
+var mnemonic = "view deputy sheriff rent always begin exotic grow tribe vague hundred double";

@@ -1,1 +1,1 @@
-var mnemonic = "theory elbow calm switch same woman pitch remind pair hole mail ski";
+var mnemonic = "drip fetch tattoo resource frog casual kind girl miss cram promote hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "party lesson tongue sketch illegal enough century afraid transfer asset soldier loyal";
+var mnemonic = "beach few pumpkin treat inform zebra letter priority sketch awake donate silk";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy grit stone across disorder around core almost devote oppose wish raven";
+var mnemonic = "polar taste oak duty legend smoke also desert rabbit uniform napkin chuckle";

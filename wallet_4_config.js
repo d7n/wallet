@@ -1,1 +1,1 @@
-var mnemonic = "album slush pause shoulder dry window defy spoil popular second there noodle";
+var mnemonic = "style window fade dismiss taste broken artwork turkey apology sponsor size broccoli";

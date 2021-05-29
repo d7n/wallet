@@ -1,1 +1,1 @@
-var mnemonic = "latin patch vital devote unusual trap reduce carbon detail heart labor other";
+var mnemonic = "suit advice fresh whale end galaxy choose surround brother animal hurry half";

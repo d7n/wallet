@@ -1,1 +1,1 @@
-var mnemonic = "clap hazard child wing wet sort frozen shrimp fly road try title";
+var mnemonic = "merry pluck crash chief torch duty begin choose over volume minute hold";

@@ -1,1 +1,1 @@
-var mnemonic = "delay steel protect fresh ticket sauce liquid badge husband wave brass shiver";
+var mnemonic = "liquid seek spatial good lesson cart bless they motion glass caution credit";

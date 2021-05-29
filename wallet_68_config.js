@@ -1,1 +1,1 @@
-var mnemonic = "village horn frozen sample type fatal egg animal skull tomorrow card city";
+var mnemonic = "chair surge canvas enable paper assault much joy group evolve husband drum";

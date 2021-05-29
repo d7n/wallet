@@ -1,1 +1,1 @@
-var mnemonic = "cool broom recall volcano move silent market often cinnamon tiny exist thank";
+var mnemonic = "payment thunder route control half attract roof detect dress cave despair dwarf";

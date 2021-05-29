@@ -1,1 +1,1 @@
-var mnemonic = "distance faculty doctor nut tuition clarify razor tray open domain record anxiety";
+var mnemonic = "cancel sail pony galaxy attack kite color attend dice tortoise glory bomb";

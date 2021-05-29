@@ -1,1 +1,1 @@
-var mnemonic = "journey decade action dizzy hood south document affair rebuild always gather cute";
+var mnemonic = "camera drum machine tongue dose dwarf rib delay lazy rice panther speed";

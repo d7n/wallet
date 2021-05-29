@@ -1,1 +1,1 @@
-var mnemonic = "guitar scorpion stamp guide peanut nurse flee path office mechanic aunt drip";
+var mnemonic = "pudding joy fitness cupboard census coast laugh pulse canoe copper prosper sun";

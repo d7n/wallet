@@ -1,1 +1,1 @@
-var mnemonic = "chuckle foam coin collect because spring news screen melody grocery recycle erupt";
+var mnemonic = "blood enemy direct rather scheme various olive hedgehog giggle turkey ozone predict";

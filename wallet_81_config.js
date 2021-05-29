@@ -1,1 +1,1 @@
-var mnemonic = "typical opinion drum puppy hope cross ice sea grass rebel plate anger";
+var mnemonic = "slow unable path slender very real pulse resist knife setup siren cannon";

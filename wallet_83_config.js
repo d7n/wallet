@@ -1,1 +1,1 @@
-var mnemonic = "enlist drink repair truth cream traffic scan resemble female citizen moral shock";
+var mnemonic = "soul problem vendor marble mail acquire stuff crazy track rent blanket ivory";

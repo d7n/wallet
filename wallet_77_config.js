@@ -1,1 +1,1 @@
-var mnemonic = "captain vacant opinion slide mushroom door exact salt purpose keen rain salad";
+var mnemonic = "attack nuclear tray maximum horse float december vintage mobile absorb giraffe recipe";

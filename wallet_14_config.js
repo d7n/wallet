@@ -1,1 +1,1 @@
-var mnemonic = "shoe plug tattoo female name web thing balance exist glimpse rent vast";
+var mnemonic = "tail expose leaf notable marine saddle decline rude you arrest feed turn";

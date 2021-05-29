@@ -1,1 +1,1 @@
-var mnemonic = "hip rhythm weapon illness poet keen rhythm brain aunt cancel mesh famous";
+var mnemonic = "blade hill jaguar punch clerk carbon pyramid cram planet gentle virus outdoor";

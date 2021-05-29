@@ -1,1 +1,1 @@
-var mnemonic = "page butter oak purse chef dutch pony confirm ugly wrist piece solve";
+var mnemonic = "traffic february setup mass panel tourist picture range analyst lamp catalog interest";

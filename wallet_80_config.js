@@ -1,1 +1,1 @@
-var mnemonic = "rate wait protect clean resist client assault police cushion reveal arena enough";
+var mnemonic = "arch demise emotion dawn chimney slide surface resemble concert fancy honey tilt";

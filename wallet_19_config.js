@@ -1,1 +1,1 @@
-var mnemonic = "want concert beyond action carbon gentle worry brass dish increase father wife";
+var mnemonic = "path hockey clutch call cry margin talk armor figure carbon gown wonder";

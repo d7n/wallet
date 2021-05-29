@@ -1,1 +1,1 @@
-var mnemonic = "simple food gasp pet during gown depth loud fluid neither castle habit";
+var mnemonic = "license side future sense kangaroo update tackle steel mirror fresh plunge audit";

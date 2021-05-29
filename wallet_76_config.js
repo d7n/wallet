@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin view theme junk mother captain busy pupil pulse charge guilt absorb";
+var mnemonic = "magnet invite bounce valid position spatial ugly auto always tattoo wolf burden";

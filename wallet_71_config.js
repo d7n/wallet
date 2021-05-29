@@ -1,1 +1,1 @@
-var mnemonic = "upper draw anger horror taxi defy all blood become device boil loyal";
+var mnemonic = "sheriff brick artist engage pave leg river miss december fish actress pill";

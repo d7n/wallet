@@ -1,1 +1,1 @@
-var mnemonic = "smile observe jaguar social swear they clown festival shed sustain another ecology";
+var mnemonic = "catalog enlist learn vocal blouse grain unknown bright romance fitness fetch cram";

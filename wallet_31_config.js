@@ -1,1 +1,1 @@
-var mnemonic = "kite harvest zero still farm noise bar slow episode rocket eagle shine";
+var mnemonic = "cover olympic focus alarm arena step shadow ethics spike token slender bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard hamster west stuff antique solar luxury come screen window shadow enhance";
+var mnemonic = "demise term robot install draw theme curve mail magnet flat pelican powder";
