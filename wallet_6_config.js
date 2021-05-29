@@ -1,1 +1,1 @@
-var mnemonic = "labor couch awake document lizard humor width student cake fix duty gas";
+var mnemonic = "uncover husband tourist mobile humble apart power mixture harbor bargain ring pond";

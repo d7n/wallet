@@ -1,1 +1,1 @@
-var mnemonic = "stem orient noble correct ship vacuum much domain trip collect paper faint";
+var mnemonic = "tilt wall castle typical coyote jelly must avoid beach merge person mistake";

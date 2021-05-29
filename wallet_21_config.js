@@ -1,1 +1,1 @@
-var mnemonic = "various amused today web fine wasp rubber soda congress jazz two lizard";
+var mnemonic = "fall bounce bright raccoon find inspire private mercy decline betray large kiwi";

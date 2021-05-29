@@ -1,1 +1,1 @@
-var mnemonic = "actor pelican list measure spell park wine dinner accuse fever quarter mimic";
+var mnemonic = "ski below voice achieve orient best expire foster start foil party fever";

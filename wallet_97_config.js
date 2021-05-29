@@ -1,1 +1,1 @@
-var mnemonic = "history middle meadow drill detail lock couple artist detail trade husband spice";
+var mnemonic = "air medal dream mistake junior coin shuffle peasant proud carpet defense speak";

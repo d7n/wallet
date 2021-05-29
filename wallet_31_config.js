@@ -1,1 +1,1 @@
-var mnemonic = "flock run security major scissors air midnight avoid cry prosper region world";
+var mnemonic = "chunk client craft cargo match guilt render crystal peanut obscure confirm series";

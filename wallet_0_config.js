@@ -1,1 +1,1 @@
-var mnemonic = "buyer quantum cherry engage tumble exhibit exile prize stereo exist tooth doctor";
+var mnemonic = "dizzy measure resist man afford apple infant size target brave cabbage book";

@@ -1,1 +1,1 @@
-var mnemonic = "staff property aim vibrant ignore wedding author trumpet tool main salt curtain";
+var mnemonic = "fall amateur midnight sleep immense tattoo phrase best aspect vendor absent ride";

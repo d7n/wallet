@@ -1,1 +1,1 @@
-var mnemonic = "place useful sand talent need front mercy junk ski topic gold segment";
+var mnemonic = "around manual gate admit must palace execute affair blush destroy few butter";

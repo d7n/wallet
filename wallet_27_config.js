@@ -1,1 +1,1 @@
-var mnemonic = "misery cushion force jelly grain sniff camera grid panic service recipe forest";
+var mnemonic = "great phone type lonely still alert lawsuit diamond hotel inject ghost abuse";

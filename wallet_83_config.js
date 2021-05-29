@@ -1,1 +1,1 @@
-var mnemonic = "unknown million filter owner bounce town coin dinosaur jaguar movie pulp grid";
+var mnemonic = "place unfold need harsh execute outer rent shell hire energy machine style";

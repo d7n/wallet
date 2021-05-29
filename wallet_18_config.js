@@ -1,1 +1,1 @@
-var mnemonic = "stairs potato erupt cricket ecology dolphin hire neglect oven kingdom genre portion";
+var mnemonic = "come key shell coil either crash voice bacon legend please venture episode";

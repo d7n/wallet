@@ -1,1 +1,1 @@
-var mnemonic = "net sudden armor trade zone deliver cousin wish season model discover hurdle";
+var mnemonic = "art child twice glimpse else plunge ignore firm horror ketchup major code";

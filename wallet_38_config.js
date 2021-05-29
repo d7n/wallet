@@ -1,1 +1,1 @@
-var mnemonic = "urge magnet insect smile orange assault winter flash become submit social eight";
+var mnemonic = "wrong whisper brief chuckle nose caution depart rude believe use comfort world";

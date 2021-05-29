@@ -1,1 +1,1 @@
-var mnemonic = "skill lamp hood black color brisk web image wheel cable dry crash";
+var mnemonic = "cliff family color meadow very tank lawn auction unhappy chimney edit exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer deputy glance segment globe despair charge reward tennis gate demand farm";
+var mnemonic = "nasty notice awesome traffic hungry gasp about pottery crew unit borrow catch";

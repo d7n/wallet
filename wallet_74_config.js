@@ -1,1 +1,1 @@
-var mnemonic = "memory cigar swear viable fat prize electric repeat peasant warfare patrol jelly";
+var mnemonic = "huge battle whale asthma resist umbrella spare aerobic spoon envelope radar spare";

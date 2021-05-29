@@ -1,1 +1,1 @@
-var mnemonic = "power violin advice unaware allow cute tilt feed kiss napkin quick vacuum";
+var mnemonic = "afford stuff army govern smart inherit critic total adjust material donkey praise";

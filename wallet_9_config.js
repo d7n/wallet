@@ -1,1 +1,1 @@
-var mnemonic = "country bench chalk state trust eye fury toddler category twist always document";
+var mnemonic = "undo outdoor outside later token poverty volume grape sure waste child faculty";

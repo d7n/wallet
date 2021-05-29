@@ -1,1 +1,1 @@
-var mnemonic = "uniform melt spoil symbol excite fringe iron shoulder entire walk swear shed";
+var mnemonic = "cash eternal island adapt impulse often kid mimic harsh track mandate whale";

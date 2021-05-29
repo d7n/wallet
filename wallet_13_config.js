@@ -1,1 +1,1 @@
-var mnemonic = "rigid siege purity draw street dismiss orient slab layer stadium robot bulb";
+var mnemonic = "empower chaos transfer glow bonus guess paddle wait circle double crawl duck";

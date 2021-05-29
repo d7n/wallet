@@ -1,1 +1,1 @@
-var mnemonic = "mystery news merry live current bless lend trip settle say element bleak";
+var mnemonic = "sight roof mobile pair opera zoo coach immense panda tobacco human bundle";

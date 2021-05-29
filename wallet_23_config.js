@@ -1,1 +1,1 @@
-var mnemonic = "staff mother evidence domain raw prosper soft unique fee capital affair fiber";
+var mnemonic = "voyage monitor security quiz jealous thank fish upon siege energy symbol panic";

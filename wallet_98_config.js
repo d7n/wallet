@@ -1,1 +1,1 @@
-var mnemonic = "huge scout fork charge ugly february electric wish lobster scout joy prize";
+var mnemonic = "equip three spatial guitar upgrade olympic used video viable crash pudding mad";

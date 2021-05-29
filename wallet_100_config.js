@@ -1,1 +1,1 @@
-var mnemonic = "grow truck thrive acquire liquid siren amount stool lemon cattle ginger giraffe";
+var mnemonic = "pet senior tank strong profit cost adult team daughter combine sheriff cash";

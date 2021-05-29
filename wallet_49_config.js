@@ -1,1 +1,1 @@
-var mnemonic = "before depend eager erosion consider planet dwarf rhythm vacant breeze need total";
+var mnemonic = "course silver guilt hurt glide light universe mother despair number frost garlic";

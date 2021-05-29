@@ -1,1 +1,1 @@
-var mnemonic = "dish alter ranch invest answer torch unique this butter mystery child muffin";
+var mnemonic = "salad hair maid giant winter poverty grid loop seed weird nasty anchor";

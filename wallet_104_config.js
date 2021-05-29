@@ -1,1 +1,1 @@
-var mnemonic = "panic journey lock remind ridge school timber quiz first rigid dash rug";
+var mnemonic = "impact anxiety price medal retire food prepare rabbit keep luxury miracle time";

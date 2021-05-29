@@ -1,1 +1,1 @@
-var mnemonic = "vendor brass series flat august gloom autumn awful level cave verb meadow";
+var mnemonic = "rival joy drama city vault lyrics inspire loud test pledge guess unfair";

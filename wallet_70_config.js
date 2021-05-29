@@ -1,1 +1,1 @@
-var mnemonic = "regular poem cruise certain thumb ball brown grief pool door enact shock";
+var mnemonic = "decrease average grant dilemma busy toward lottery throw unknown theory logic hobby";

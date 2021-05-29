@@ -1,1 +1,1 @@
-var mnemonic = "impact dumb length close write patient skirt easy lava chest math roast";
+var mnemonic = "route patient echo lunch equal ignore rookie egg fine evolve robot safe";

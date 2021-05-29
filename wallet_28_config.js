@@ -1,1 +1,1 @@
-var mnemonic = "happy assault warm shrimp execute video essence green safe know fall beef";
+var mnemonic = "garage answer custom local cry boy differ false horror chimney zebra clock";

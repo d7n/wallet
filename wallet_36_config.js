@@ -1,1 +1,1 @@
-var mnemonic = "cross puzzle fringe notable muscle book mobile dish special step tackle capital";
+var mnemonic = "move upon brain market pave lion nice crawl music lunch veteran weasel";

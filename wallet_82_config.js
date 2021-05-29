@@ -1,1 +1,1 @@
-var mnemonic = "relax spirit doll miss cover ready tribe main cruel bench wasp until";
+var mnemonic = "build relax warfare frown supply dish drip grain tenant panda jacket false";

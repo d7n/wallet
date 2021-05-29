@@ -1,1 +1,1 @@
-var mnemonic = "elephant effort during endless tumble super bicycle army drip kidney horn cheese";
+var mnemonic = "permit smile town insane rug below armor wash discover goddess hazard purse";

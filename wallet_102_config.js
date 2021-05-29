@@ -1,1 +1,1 @@
-var mnemonic = "lunch equal arm spot correct capital flock forest slot crawl duty video";
+var mnemonic = "ten estate wait regret vacant smooth defy scorpion crash step grass body";

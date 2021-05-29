@@ -1,1 +1,1 @@
-var mnemonic = "there move found tree kit open allow electric story similar output air";
+var mnemonic = "divert index inmate leaf effort crumble smooth grape festival youth cradle excess";

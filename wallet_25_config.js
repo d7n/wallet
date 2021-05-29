@@ -1,1 +1,1 @@
-var mnemonic = "pave bunker advice retire claw flavor escape parent path match inquiry smile";
+var mnemonic = "brown rain trap sing client drop kind wife school tube finish foam";

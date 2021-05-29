@@ -1,1 +1,1 @@
-var mnemonic = "brother bunker cactus lawn twenty judge envelope coach rookie final amount grid";
+var mnemonic = "flee desk liberty economy midnight faint leaf style genius upset then fault";

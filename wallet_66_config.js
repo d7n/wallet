@@ -1,1 +1,1 @@
-var mnemonic = "found off canoe truly silent age canvas try current bread wall analyst";
+var mnemonic = "pet girl steel capable describe panther useless mimic cattle canal drink dust";

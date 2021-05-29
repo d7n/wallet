@@ -1,1 +1,1 @@
-var mnemonic = "salon dog plunge lucky obvious fruit silly pill early fringe return bullet";
+var mnemonic = "shop room common arm scale play brain artefact honey antique belt person";

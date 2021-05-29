@@ -1,1 +1,1 @@
-var mnemonic = "between over accident cage include rather maid hen fun fatigue echo section";
+var mnemonic = "firm badge canyon winter combine fitness language ceiling response catalog fork obtain";

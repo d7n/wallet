@@ -1,1 +1,1 @@
-var mnemonic = "air reason obscure check six evidence celery clock permit cousin senior grain";
+var mnemonic = "youth slot cake push oyster verb rare benefit age math final thought";

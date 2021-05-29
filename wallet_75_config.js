@@ -1,1 +1,1 @@
-var mnemonic = "width diary prize settle charge dizzy ill moon fancy portion need outside";
+var mnemonic = "century alien steel dry excite ghost sing absorb palace crane farm describe";

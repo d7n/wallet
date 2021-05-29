@@ -1,1 +1,1 @@
-var mnemonic = "fever trade section penalty lawn inmate tray core express earth power receive";
+var mnemonic = "parrot embody awkward tissue animal circle trophy cave basic race gather acid";

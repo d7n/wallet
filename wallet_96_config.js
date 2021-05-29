@@ -1,1 +1,1 @@
-var mnemonic = "purchase version south dove enrich orbit recipe orbit grab view lumber pill";
+var mnemonic = "length prize element miracle giggle fork fault analyst honey wheat certain naive";

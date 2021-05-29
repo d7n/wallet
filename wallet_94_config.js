@@ -1,1 +1,1 @@
-var mnemonic = "truly menu hat forget genius goddess risk chaos fat palace huge claw";
+var mnemonic = "unlock method mechanic twelve arrow scene resist rich cycle express scheme attract";

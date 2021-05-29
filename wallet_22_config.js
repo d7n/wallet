@@ -1,1 +1,1 @@
-var mnemonic = "bottom deputy place envelope mystery own forget once unknown truck blur speed";
+var mnemonic = "confirm orphan observe high tip thing amateur carbon april faint stadium pluck";

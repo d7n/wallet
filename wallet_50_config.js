@@ -1,1 +1,1 @@
-var mnemonic = "source earth liquid coconut lazy stamp soul lounge height conduct emerge inject";
+var mnemonic = "wage okay two model off hundred alert bright giant human discover wash";

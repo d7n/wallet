@@ -1,1 +1,1 @@
-var mnemonic = "bright test small trend crawl way draft cattle cotton above expect muscle";
+var mnemonic = "dish remove social more skirt narrow bullet capable aunt patch ridge toe";

@@ -1,1 +1,1 @@
-var mnemonic = "barely merit flame season screen practice vapor hire such chronic harvest inside";
+var mnemonic = "bring still mistake vapor sock abandon curious cushion opinion impulse square upon";

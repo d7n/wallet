@@ -1,1 +1,1 @@
-var mnemonic = "grow depart duty kiwi fatigue useless drastic victory bird slush bright attack";
+var mnemonic = "neutral lunar over inhale lesson romance release loud prefer seed aspect entire";

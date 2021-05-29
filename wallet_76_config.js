@@ -1,1 +1,1 @@
-var mnemonic = "shrug connect analyst afraid enough accident ability diet unhappy convince swarm slow";
+var mnemonic = "burst someone prison pet define flower success chaos paddle glory defy quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle certain ginger hobby mouse pyramid surge slam above party tiger twelve";
+var mnemonic = "tenant fun taste insane confirm mad whisper lend foam cradle gloom huge";

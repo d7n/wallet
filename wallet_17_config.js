@@ -1,1 +1,1 @@
-var mnemonic = "section grief void metal science crowd salmon picture avocado foil other crane";
+var mnemonic = "betray lazy eagle water echo expect require shine credit sell delay session";

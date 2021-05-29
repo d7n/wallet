@@ -1,1 +1,1 @@
-var mnemonic = "orphan antique cereal race curve truly blouse cabin lemon evolve trouble inner";
+var mnemonic = "easily dance jewel blast curious outside arctic scale parade true offer verify";

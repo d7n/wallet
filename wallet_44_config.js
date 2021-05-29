@@ -1,1 +1,1 @@
-var mnemonic = "sword glory captain olympic price woman educate flock beauty shrimp smile party";
+var mnemonic = "crisp tumble involve kind bomb ketchup fabric monster usage bronze today critic";

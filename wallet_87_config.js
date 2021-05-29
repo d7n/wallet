@@ -1,1 +1,1 @@
-var mnemonic = "wrestle seek ill together resemble tape kiss all also gallery rain hold";
+var mnemonic = "matter mistake visual dolphin nothing quarter anxiety initial emotion surface shield public";

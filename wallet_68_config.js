@@ -1,1 +1,1 @@
-var mnemonic = "helmet draft tool differ coyote deny reason hole valid fun once rebel";
+var mnemonic = "path mask mystery tower worry critic blur unfold join toward meat chimney";

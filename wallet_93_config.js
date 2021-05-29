@@ -1,1 +1,1 @@
-var mnemonic = "theme cost badge galaxy auto fatigue frame angry sound globe rapid shuffle";
+var mnemonic = "prefer grocery maple feed impose float file ostrich drum bracket salute travel";

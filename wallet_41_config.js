@@ -1,1 +1,1 @@
-var mnemonic = "slight cross tiger basic three flip window shop casino blind transfer future";
+var mnemonic = "endless inhale pyramid purse pioneer walnut length admit pony awful salt evolve";

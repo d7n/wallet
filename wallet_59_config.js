@@ -1,1 +1,1 @@
-var mnemonic = "evoke army slow quote museum deposit crucial upon depart south video already";
+var mnemonic = "worth attitude suspect penalty spin armor cannon toast repeat theory tuna estate";

@@ -1,1 +1,1 @@
-var mnemonic = "home maid rent work ancient rare verify best swear stool soldier hair";
+var mnemonic = "airport debate focus label collect grab purse come rigid surge jelly miracle";

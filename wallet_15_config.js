@@ -1,1 +1,1 @@
-var mnemonic = "trust trouble elbow youth zero lady tell faint danger discover chat core";
+var mnemonic = "tape crash first moon scatter disorder dynamic era firm joy save coil";

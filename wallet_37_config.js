@@ -1,1 +1,1 @@
-var mnemonic = "news expose toe girl garage ski office afraid laundry wet window biology";
+var mnemonic = "daring net cry jungle hockey foster method close truly pilot train alien";

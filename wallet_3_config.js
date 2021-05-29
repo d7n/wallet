@@ -1,1 +1,1 @@
-var mnemonic = "struggle dinner muffin glow reunion nuclear wise spread faith focus myth wing";
+var mnemonic = "denial unique whisper reopen clutch young wall garlic alley hurry joke patient";

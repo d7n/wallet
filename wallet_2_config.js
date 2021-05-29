@@ -1,1 +1,1 @@
-var mnemonic = "thumb carpet hen stereo visual service cherry garlic endless spawn spoil already";
+var mnemonic = "giggle mesh alcohol claw debris logic fatigue mixed pupil appear skirt estate";

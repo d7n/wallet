@@ -1,1 +1,1 @@
-var mnemonic = "bounce pear flash frog pen occur kit marble margin consider appear journey";
+var mnemonic = "deputy frown fabric moment debate chair flock sibling clever lava say produce";

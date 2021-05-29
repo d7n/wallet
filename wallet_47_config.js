@@ -1,1 +1,1 @@
-var mnemonic = "foster doctor alpha panther trade escape vintage pottery expect tell then believe";
+var mnemonic = "blur shoot city churn bracket parrot shoulder champion october awkward thrive excite";

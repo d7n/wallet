@@ -1,1 +1,1 @@
-var mnemonic = "stumble feed bullet certain spy original lobster clip rude force lesson fun";
+var mnemonic = "pink educate dizzy piece nest industry crumble layer summer arrange pudding bus";

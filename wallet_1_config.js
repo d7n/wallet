@@ -1,1 +1,1 @@
-var mnemonic = "snack sentence enforce exotic danger trash winner soon matter theory subject renew";
+var mnemonic = "quarter ecology reform chimney purpose offer inflict february tooth ensure rocket like";

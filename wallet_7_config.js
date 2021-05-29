@@ -1,1 +1,1 @@
-var mnemonic = "vacant calm perfect stem rally update need slam erase visit recipe uphold";
+var mnemonic = "option truly quit unaware attract castle ankle note input quiz syrup exhaust";

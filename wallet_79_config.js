@@ -1,1 +1,1 @@
-var mnemonic = "advance spread submit coffee knee fame saddle car atom caught monitor harbor";
+var mnemonic = "flee squirrel bread census maze zone setup dinosaur peasant oval wet project";

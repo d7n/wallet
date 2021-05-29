@@ -1,1 +1,1 @@
-var mnemonic = "weird card credit ancient bless napkin logic absurd divorce suit vessel barrel";
+var mnemonic = "below armed taxi agent universe drum city hill sound fringe rate enable";

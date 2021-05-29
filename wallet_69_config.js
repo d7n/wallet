@@ -1,1 +1,1 @@
-var mnemonic = "fine reject note never resist home trigger general trap fantasy mention job";
+var mnemonic = "must sadness around proud public same olympic old digital canvas addict wear";

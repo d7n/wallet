@@ -1,1 +1,1 @@
-var mnemonic = "engine access scout weather cluster slight among various jelly session cousin thumb";
+var mnemonic = "green mind define jump please slow market gain render embody action enjoy";

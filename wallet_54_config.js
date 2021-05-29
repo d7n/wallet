@@ -1,1 +1,1 @@
-var mnemonic = "lava radar wedding pole alter struggle jewel idea faint smart screen oyster";
+var mnemonic = "language frame ramp cover room blue imitate initial vague furnace defy minimum";

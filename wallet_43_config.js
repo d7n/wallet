@@ -1,1 +1,1 @@
-var mnemonic = "cry scissors absurd ready attract knee blur write indoor pill keep panther";
+var mnemonic = "text manual vital vendor humble found style federal divide number toast sketch";

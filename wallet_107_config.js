@@ -1,1 +1,1 @@
-var mnemonic = "myself delay vocal start network major bargain essence rich shallow quarter wrist";
+var mnemonic = "cruel avocado market vehicle find include true dirt waste pride put unveil";

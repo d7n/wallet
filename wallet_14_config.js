@@ -1,1 +1,1 @@
-var mnemonic = "burden sustain sniff gap tooth this weasel fatigue join dust only toy";
+var mnemonic = "device page parrot level dolphin island nuclear fine camp gallery monster correct";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage praise figure hip basic aisle risk phrase honey special peanut guilt";
+var mnemonic = "soup bread glue bless need have lucky medal sniff tilt child blood";

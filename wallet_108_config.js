@@ -1,1 +1,1 @@
-var mnemonic = "brand cool planet animal nurse kitten intact gentle random resemble share casual";
+var mnemonic = "regular life spawn card garage east gloom era crazy issue surround journey";

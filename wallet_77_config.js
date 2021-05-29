@@ -1,1 +1,1 @@
-var mnemonic = "cloud usage dune arctic mouse promote banner velvet tray enact increase owner";
+var mnemonic = "impulse hammer lake odor amazing motor unhappy person snow illegal pitch puppy";

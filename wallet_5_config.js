@@ -1,1 +1,1 @@
-var mnemonic = "fame document trend three occur fashion power hawk miracle cup gaze silent";
+var mnemonic = "make common grid drill close lottery senior fog that question monkey immune";

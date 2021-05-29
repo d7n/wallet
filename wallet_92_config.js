@@ -1,1 +1,1 @@
-var mnemonic = "barely shed catalog outside clay soap syrup issue fiber dentist absurd pen";
+var mnemonic = "item enemy cube spider moral reject crystal budget scheme tank muffin face";

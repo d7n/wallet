@@ -1,1 +1,1 @@
-var mnemonic = "come flavor leave radar twelve neck brown unable floor area faith follow";
+var mnemonic = "unveil execute girl soul cram start game actor venue inner avocado minimum";

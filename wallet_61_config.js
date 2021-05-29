@@ -1,1 +1,1 @@
-var mnemonic = "space frown toast oak person make gold region jeans pact wheat fringe";
+var mnemonic = "share faculty assume cart focus act cause attitude memory favorite burden vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt soon future base disorder dwarf humor become lyrics turkey slice tragic";
+var mnemonic = "patch arctic cute dwarf laptop call talk hybrid solar age bag series";

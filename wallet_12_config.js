@@ -1,1 +1,1 @@
-var mnemonic = "secret hood govern own smile garment behind logic health blouse memory actress";
+var mnemonic = "crazy inside exercise truly metal guide taxi kingdom ahead paper citizen provide";
