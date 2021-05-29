@@ -1,1 +1,1 @@
-var mnemonic = "region old coach twist tragic wage luggage else ritual sentence permit plug";
+var mnemonic = "call trap smooth usual cover miracle buzz join reject toward vacuum kingdom";

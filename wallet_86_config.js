@@ -1,1 +1,1 @@
-var mnemonic = "nothing snake option around risk era claw shy copper custom sauce borrow";
+var mnemonic = "draft apart consider umbrella autumn erase vote candy genre message inmate error";

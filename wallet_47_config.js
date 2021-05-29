@@ -1,1 +1,1 @@
-var mnemonic = "tent hybrid destroy prosper broom hurry school limit destroy code master tape";
+var mnemonic = "mango segment rally sick pipe height inherit saddle blouse crane palm fork";

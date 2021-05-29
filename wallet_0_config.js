@@ -1,1 +1,1 @@
-var mnemonic = "pepper hip cat sorry advance immune shop wine asthma normal urban hair";
+var mnemonic = "oblige similar ring hawk spoon key jelly forest canyon subject like city";

@@ -1,1 +1,1 @@
-var mnemonic = "timber debris tackle reward sign glue nose mystery subject image fresh security";
+var mnemonic = "enrich churn box destroy chase walnut kick sponsor airport under trash skill";

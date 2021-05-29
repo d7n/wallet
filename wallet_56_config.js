@@ -1,1 +1,1 @@
-var mnemonic = "debris zero piece worry solve develop toward learn humble board vivid marble";
+var mnemonic = "merge rookie sight front artwork region lyrics hybrid truck noble vague fitness";

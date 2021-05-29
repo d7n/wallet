@@ -1,1 +1,1 @@
-var mnemonic = "figure shoulder angle goddess riot abandon where yellow dirt raise rifle join";
+var mnemonic = "miss tunnel bulk drink tilt march trade guitar tone shove antenna moon";

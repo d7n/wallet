@@ -1,1 +1,1 @@
-var mnemonic = "radio review pony input shield exact office celery cross kiwi during mountain";
+var mnemonic = "swim exhaust bounce awake another south need own girl series warm panel";

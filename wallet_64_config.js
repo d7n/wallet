@@ -1,1 +1,1 @@
-var mnemonic = "retire warm update thunder walnut raven thank stool index pelican school anxiety";
+var mnemonic = "buddy refuse winter air mom fat vintage divide bomb fade engine action";

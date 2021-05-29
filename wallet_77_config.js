@@ -1,1 +1,1 @@
-var mnemonic = "holiday smoke rug speed penalty public across trash ozone unusual lunar reunion";
+var mnemonic = "upon office balcony nice oil tooth grit before subject little vital cute";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble parade budget ensure route calm runway sound base jealous now stereo";
+var mnemonic = "merge debate shed slab cheap almost forward permit alley ritual wasp love";

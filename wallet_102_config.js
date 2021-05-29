@@ -1,1 +1,1 @@
-var mnemonic = "first coffee still solution bread quiz absent major ball curve west diamond";
+var mnemonic = "into punch buzz derive garlic option response flee chest anxiety leaf oval";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel virtual gospel rifle hub entire road clever help virus hint priority";
+var mnemonic = "group misery diamond run glimpse clip peasant trend emerge turn autumn tornado";

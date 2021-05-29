@@ -1,1 +1,1 @@
-var mnemonic = "urge left grape potato increase ribbon chuckle brisk artist slot main claim";
+var mnemonic = "snow screen divert aspect drink catalog word venue pigeon slender dwarf erode";

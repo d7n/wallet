@@ -1,1 +1,1 @@
-var mnemonic = "direct basic still early blood foam pitch skin birth indoor fatigue outside";
+var mnemonic = "deal gravity soccer common order rib robust mouse erode marble tourist luxury";

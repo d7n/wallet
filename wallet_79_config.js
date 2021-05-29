@@ -1,1 +1,1 @@
-var mnemonic = "before lake critic topple sleep relax talk orbit elder blood snake very";
+var mnemonic = "fork grace disorder syrup remind hamster border volume senior abandon favorite basic";

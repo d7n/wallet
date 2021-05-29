@@ -1,1 +1,1 @@
-var mnemonic = "luxury silver art dance crime foster recall hobby quiz dove casino myself";
+var mnemonic = "industry model title reject claw mercy season tool wasp essay that suffer";

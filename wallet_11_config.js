@@ -1,1 +1,1 @@
-var mnemonic = "spider peace canyon puzzle rely spoon expose shine lunar anger uphold champion";
+var mnemonic = "whisper embark silent orbit grass manual fortune illegal aim man empower sponsor";

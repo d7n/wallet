@@ -1,1 +1,1 @@
-var mnemonic = "despair clarify oval patrol goat cake female vapor excess almost stem angry";
+var mnemonic = "ill wrestle real ice quality couch small skate express erase record panel";

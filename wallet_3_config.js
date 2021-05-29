@@ -1,1 +1,1 @@
-var mnemonic = "wolf enroll mixture love afford seat crawl equip motor thrive velvet hamster";
+var mnemonic = "warm moment trade city sign fix cement narrow ostrich select usual because";

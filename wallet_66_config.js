@@ -1,1 +1,1 @@
-var mnemonic = "quarter visa story hollow example cruel below option gorilla point switch depart";
+var mnemonic = "kit bulk guilt outer dove witness subway warrior that track arm solar";

@@ -1,1 +1,1 @@
-var mnemonic = "truck gun work conduct radio slight salad wrestle tilt diet glad taxi";
+var mnemonic = "visa toddler horror legal castle sense stage humble pencil proud friend risk";

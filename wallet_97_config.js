@@ -1,1 +1,1 @@
-var mnemonic = "raise monitor improve grass clutch dance thunder teach afraid educate lecture unfair";
+var mnemonic = "bargain people tent wisdom piece review slow nose indicate soap only play";

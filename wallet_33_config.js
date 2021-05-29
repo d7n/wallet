@@ -1,1 +1,1 @@
-var mnemonic = "gauge outdoor mango mom clay gather amazing pact annual tag imitate junior";
+var mnemonic = "salad cliff mix genuine people orient sibling distance initial morning lawsuit popular";

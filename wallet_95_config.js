@@ -1,1 +1,1 @@
-var mnemonic = "vocal cry leisure because merry climb bullet vacuum grief figure discover rug";
+var mnemonic = "foam lunch hollow example crunch scout trade hazard issue tobacco design cost";

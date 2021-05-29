@@ -1,1 +1,1 @@
-var mnemonic = "adapt put food cereal dog begin place bonus tooth stage play option";
+var mnemonic = "choose brand desert empower bike pluck inch auction prefer monkey match type";

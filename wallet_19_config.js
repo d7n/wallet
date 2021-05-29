@@ -1,1 +1,1 @@
-var mnemonic = "lemon brick exhaust try typical swim sample lift jump over near confirm";
+var mnemonic = "desk human athlete humble swallow finish body enact chaos clutch infant soccer";

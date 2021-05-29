@@ -1,1 +1,1 @@
-var mnemonic = "glue essay vanish young guitar wish junk deny small joke strike goose";
+var mnemonic = "kick escape detect lens high diesel hunt fit daring churn cry muffin";

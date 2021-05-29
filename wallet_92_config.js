@@ -1,1 +1,1 @@
-var mnemonic = "response price country spirit language rug survey wrestle zero rug bus oak";
+var mnemonic = "deer unable mimic balcony lottery fish recycle novel siren minor mass skill";

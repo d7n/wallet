@@ -1,1 +1,1 @@
-var mnemonic = "wheel nest giggle solar thank resemble bone only quote fall rare dumb";
+var mnemonic = "mosquito artist shrug radio hospital valve announce session rich emerge body tooth";

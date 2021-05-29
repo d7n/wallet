@@ -1,1 +1,1 @@
-var mnemonic = "rocket fat just balcony soldier universe miss nuclear radio maid lumber doll";
+var mnemonic = "stick flame skull unhappy balance beef medal country enable sand crumble friend";

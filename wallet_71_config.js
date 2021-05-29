@@ -1,1 +1,1 @@
-var mnemonic = "food mountain middle long gallery boat deputy gossip tiny reflect shaft hope";
+var mnemonic = "hazard stairs luggage velvet rib protect fuel silk edge thumb master sun";

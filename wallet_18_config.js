@@ -1,1 +1,1 @@
-var mnemonic = "initial mimic job until ahead very worry afford emerge lake vault cruel";
+var mnemonic = "vital only odor tribe primary random fox skate connect horn business rocket";

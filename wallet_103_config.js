@@ -1,1 +1,1 @@
-var mnemonic = "noble elegant insane toddler egg drastic trend match dinner slender trash occur";
+var mnemonic = "neck uniform tackle hard faculty glimpse glare share essay page boost bike";

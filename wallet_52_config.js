@@ -1,1 +1,1 @@
-var mnemonic = "silent tourist force example farm movie mystery rifle twelve animal erode together";
+var mnemonic = "false olympic anxiety return hospital multiply human cannon glove mobile mule pear";

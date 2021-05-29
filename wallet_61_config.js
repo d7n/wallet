@@ -1,1 +1,1 @@
-var mnemonic = "develop oak right notice session attend chuckle dizzy rib dawn cat demand";
+var mnemonic = "sock select script neither ranch giggle voyage deal image glad battle intact";

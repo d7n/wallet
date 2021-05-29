@@ -1,1 +1,1 @@
-var mnemonic = "wire blade parrot harvest rare feature round smooth patch race robot ahead";
+var mnemonic = "soda ancient flat arm peanut puzzle rabbit tourist genius opinion culture tiny";

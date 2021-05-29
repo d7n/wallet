@@ -1,1 +1,1 @@
-var mnemonic = "river animal learn match onion sing ordinary brave where elbow brother inspire";
+var mnemonic = "enact town crane giant captain tennis undo rice alone jar face doll";

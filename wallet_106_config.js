@@ -1,1 +1,1 @@
-var mnemonic = "spike erupt such destroy frown lion lonely legal diet cup amused opinion";
+var mnemonic = "chimney math gesture life save anchor outside trick involve sleep music card";

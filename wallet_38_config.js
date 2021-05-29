@@ -1,1 +1,1 @@
-var mnemonic = "science file just razor elegant pulse deer furnace mystery once shoot prosper";
+var mnemonic = "slam industry segment afraid when pistol include live pull nature like expect";

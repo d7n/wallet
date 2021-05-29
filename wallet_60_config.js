@@ -1,1 +1,1 @@
-var mnemonic = "disagree diagram middle endless online idea glance secret clock divorce panic slogan";
+var mnemonic = "misery author link tuna hello wasp popular own affair duty cereal lizard";

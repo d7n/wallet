@@ -1,1 +1,1 @@
-var mnemonic = "addict crazy smart concert famous dose hip degree exotic system stove rib";
+var mnemonic = "grocery laundry jar february suit waste poem brother they avoid huge odor";

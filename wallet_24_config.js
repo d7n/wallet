@@ -1,1 +1,1 @@
-var mnemonic = "birth usage twelve pitch field wreck oblige clip check clerk parrot guess";
+var mnemonic = "ancient betray remember gap dial cannon history shiver boring upgrade spell law";

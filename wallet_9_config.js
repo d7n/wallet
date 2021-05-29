@@ -1,1 +1,1 @@
-var mnemonic = "fall rare romance save rebuild february soul tank kingdom best icon unusual";
+var mnemonic = "proof rubber sadness chuckle brush option anger fiction useful alpha distance behave";

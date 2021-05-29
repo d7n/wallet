@@ -1,1 +1,1 @@
-var mnemonic = "chicken grow topple ridge survey argue proud sock method kit sweet vanish";
+var mnemonic = "whale improve great cheap what juice divide husband giant walk heart current";

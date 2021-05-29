@@ -1,1 +1,1 @@
-var mnemonic = "bid leopard cousin robot boss pear winter emerge hotel sea clock fox";
+var mnemonic = "climb jungle unit skill learn casino indicate surround design burger era online";

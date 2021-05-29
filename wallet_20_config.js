@@ -1,1 +1,1 @@
-var mnemonic = "act duck nasty desert twin leg robust season fatal throw punch arrive";
+var mnemonic = "humor survey idle enroll because direct tank blade cabbage muscle true donor";

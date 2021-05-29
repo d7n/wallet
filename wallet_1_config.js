@@ -1,1 +1,1 @@
-var mnemonic = "barrel basket sing private nature seed artist meadow secret choose attract grab";
+var mnemonic = "coast cry jar kingdom one split dinner base cave ice party alley";

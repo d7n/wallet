@@ -1,1 +1,1 @@
-var mnemonic = "method idle scrub grocery record result shuffle awesome impulse illegal clinic suspect";
+var mnemonic = "shiver brisk sort hat lend blood atom board unable model gun fun";

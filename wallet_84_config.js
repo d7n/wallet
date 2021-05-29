@@ -1,1 +1,1 @@
-var mnemonic = "father naive hole lend frog rose face leopard three defy ordinary siren";
+var mnemonic = "tiger tag trumpet army smile field come basic inspire link nice voyage";

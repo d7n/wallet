@@ -1,1 +1,1 @@
-var mnemonic = "nothing photo cherry judge comfort garment subject task patrol fix idle grape";
+var mnemonic = "force sure online glide alert episode rice select prefer wire amateur owner";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect enrich unique blanket when choose maze frog carbon upgrade capable drift";
+var mnemonic = "face tobacco genius fashion river replace gas basket safe town course crack";

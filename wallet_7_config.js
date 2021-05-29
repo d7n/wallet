@@ -1,1 +1,1 @@
-var mnemonic = "genre perfect method capable candy traffic okay slice daughter measure about silent";
+var mnemonic = "curve elite planet soldier okay between absurd abuse drift weapon expose talk";

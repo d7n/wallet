@@ -1,1 +1,1 @@
-var mnemonic = "arena picnic rebel luggage check analyst vote lamp success midnight dentist clump";
+var mnemonic = "tornado armed daring accident rack earth kangaroo ceiling moon illegal surround math";

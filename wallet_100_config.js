@@ -1,1 +1,1 @@
-var mnemonic = "december model swing please artefact census exile vanish oil phone kick laptop";
+var mnemonic = "staff half spoil size hurdle nation inherit release model blast chest plate";

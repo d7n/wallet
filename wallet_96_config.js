@@ -1,1 +1,1 @@
-var mnemonic = "surprise relief knife easily helmet rack inflict bomb safe giggle wreck fire";
+var mnemonic = "fat obvious course argue pyramid able beef typical pumpkin mammal save trip";

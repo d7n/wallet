@@ -1,1 +1,1 @@
-var mnemonic = "rule solid cancel amateur child cost fiction rally frost notice wall record";
+var mnemonic = "main grab bridge forget such dirt veteran danger coyote chicken heart perfect";

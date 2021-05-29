@@ -1,1 +1,1 @@
-var mnemonic = "grunt question public notable live inform shallow movie spring divert educate mail";
+var mnemonic = "rabbit fetch pelican bright parade oven post sugar guitar that earth habit";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut excite jar picnic dove power text double effort public prize endless";
+var mnemonic = "stick lady position lemon adjust excess ready isolate achieve light crawl venue";

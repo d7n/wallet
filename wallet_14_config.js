@@ -1,1 +1,1 @@
-var mnemonic = "hello shiver write ocean planet remove food subject steak sniff lottery talk";
+var mnemonic = "simple weekend outdoor tide syrup leave demand siren clock young slide enact";

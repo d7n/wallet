@@ -1,1 +1,1 @@
-var mnemonic = "vintage despair crime nation forget end double crowd upon cheese idle render";
+var mnemonic = "reject smooth judge hip day wink belt car shoot blade waste stock";

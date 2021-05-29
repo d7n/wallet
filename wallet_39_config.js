@@ -1,1 +1,1 @@
-var mnemonic = "mother cluster foam sleep route tip grape thumb erosion absent toddler retire";
+var mnemonic = "royal nothing globe tiny idle world wine shield simple portion reveal hub";

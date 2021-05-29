@@ -1,1 +1,1 @@
-var mnemonic = "almost denial spatial supreme turtle drip always rely cloud faint clinic huge";
+var mnemonic = "reflect token shield light arrange panther unaware curtain daughter clown month balance";

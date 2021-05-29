@@ -1,1 +1,1 @@
-var mnemonic = "oppose wing despair nephew force double flock notice hair gorilla seek increase";
+var mnemonic = "awkward code stay list stairs song wedding next bridge head fold design";

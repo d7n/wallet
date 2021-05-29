@@ -1,1 +1,1 @@
-var mnemonic = "advice elbow stadium hat sentence cricket twist try cover sand tortoise pretty";
+var mnemonic = "pyramid enlist talk asthma steak wasp patrol stairs output wing bag train";

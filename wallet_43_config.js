@@ -1,1 +1,1 @@
-var mnemonic = "carpet retreat mosquito antenna knock merge motor process belt swallow angry impact";
+var mnemonic = "else lab welcome sound nasty treat liberty river turtle nose bomb milk";

@@ -1,1 +1,1 @@
-var mnemonic = "soul tornado canal idea drip scan soft common debris open neither merit";
+var mnemonic = "tribe slow lounge cement pool neutral tone vast naive legend suit dismiss";

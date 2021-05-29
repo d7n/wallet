@@ -1,1 +1,1 @@
-var mnemonic = "web umbrella mercy net burst bacon divert brain mosquito exhibit helmet attitude";
+var mnemonic = "riot matrix vague cement rate that impact riot recipe mule tired coconut";

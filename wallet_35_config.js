@@ -1,1 +1,1 @@
-var mnemonic = "ramp truth domain force man crumble fruit floor crack enjoy taste festival";
+var mnemonic = "pill ceiling half volume monkey furnace impulse differ worth vacuum absurd aim";

@@ -1,1 +1,1 @@
-var mnemonic = "scan exit liar shadow decrease equip animal tunnel excess retire uncover razor";
+var mnemonic = "sketch jar crash speak pool stomach oak taxi bomb acid until vacuum";

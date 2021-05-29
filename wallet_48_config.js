@@ -1,1 +1,1 @@
-var mnemonic = "dizzy alien design evolve senior sea small modify hole skull pledge beach";
+var mnemonic = "wink gauge gadget unusual march hidden witness patrol vacant alert thumb hope";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon thank impact logic limb knife choose clever expose method finish couple";
+var mnemonic = "mosquito grief misery credit disagree used defy brief roast south program hybrid";

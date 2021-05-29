@@ -1,1 +1,1 @@
-var mnemonic = "face goddess purity fire rotate forest radar illegal cute misery tonight zone";
+var mnemonic = "olympic fury fade grace chalk elder rose early neither still artefact trick";

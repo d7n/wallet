@@ -1,1 +1,1 @@
-var mnemonic = "until weekend soda update repeat youth system puzzle absent belt office garlic";
+var mnemonic = "quarter jungle powder basic wide student ridge stage elder clip license prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb lend topic soft balcony segment cart result reopen program remember scan";
+var mnemonic = "pitch black renew harbor thrive real tray note better radar pole drip";

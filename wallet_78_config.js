@@ -1,1 +1,1 @@
-var mnemonic = "hurry skirt water cloud outside diamond notable panic future anchor visa crucial";
+var mnemonic = "dance curious magic hybrid wine oak cheese clown film vanish saddle hill";

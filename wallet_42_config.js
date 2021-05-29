@@ -1,1 +1,1 @@
-var mnemonic = "top danger seven lake grow unfold miracle phone utility resource long side";
+var mnemonic = "luxury country average agree peasant pause produce fold unknown donkey social pencil";

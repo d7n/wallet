@@ -1,1 +1,1 @@
-var mnemonic = "skirt finger catalog initial repair supply cave baby license little crumble rebel";
+var mnemonic = "like exile innocent ready hammer loan bomb reward toilet art door enough";

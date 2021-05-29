@@ -1,1 +1,1 @@
-var mnemonic = "want coach give predict motion burst ivory have primary spring mistake company";
+var mnemonic = "proud tennis disagree try math middle economy oval ridge point frown perfect";

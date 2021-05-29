@@ -1,1 +1,1 @@
-var mnemonic = "three era notable pilot radio opinion help forum legal shoe demise sing";
+var mnemonic = "number shallow fluid subject vicious draw marine addict soft display laundry sense";

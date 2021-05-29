@@ -1,1 +1,1 @@
-var mnemonic = "involve smart hotel rice talk buffalo common give any tiny ask summer";
+var mnemonic = "pig eight rather render wool reduce often cost edit juice blouse piano";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty explain fork runway feature fiction drill injury neither catch diary wool";
+var mnemonic = "husband grid effort pony fruit punch taxi youth meadow category cluster daughter";

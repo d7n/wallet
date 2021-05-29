@@ -1,1 +1,1 @@
-var mnemonic = "replace tornado breeze alert refuse talk shaft spoil almost ten mule such";
+var mnemonic = "piece detail seat gorilla bicycle idle sea april teach obey betray square";

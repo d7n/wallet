@@ -1,1 +1,1 @@
-var mnemonic = "must offer bless hire guitar birth body peanut keep discover fence zebra";
+var mnemonic = "erase winter rail cabin lizard cheap target estate advice whale grit cube";

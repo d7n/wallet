@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo luggage chef wife minimum prepare response donkey tortoise alarm picture betray";
+var mnemonic = "suit state surge evidence salad tower mystery spot tent unfair trouble boat";

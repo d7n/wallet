@@ -1,1 +1,1 @@
-var mnemonic = "federal sunset brass heart clip fragile leave quick stove degree display area";
+var mnemonic = "dilemma jacket corn tomorrow split enact cruel buffalo misery subway hint source";

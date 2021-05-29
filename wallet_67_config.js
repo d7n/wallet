@@ -1,1 +1,1 @@
-var mnemonic = "asset blossom tortoise public another galaxy test dream pause sound save aisle";
+var mnemonic = "output eternal nominee sound bean loyal lunch extra despair tool rule just";

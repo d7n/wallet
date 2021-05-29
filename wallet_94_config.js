@@ -1,1 +1,1 @@
-var mnemonic = "flame gadget joke rough seed exist curve wool picnic brief engage paper";
+var mnemonic = "cloth leader stock price gossip vessel distance bid switch media female skate";

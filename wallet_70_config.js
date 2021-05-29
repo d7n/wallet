@@ -1,1 +1,1 @@
-var mnemonic = "access remember gym buffalo limb nominee giggle post ladder sad major punch";
+var mnemonic = "raise seat gallery valve frequent simple rich wonder bridge miss bottom wood";

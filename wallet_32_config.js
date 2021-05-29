@@ -1,1 +1,1 @@
-var mnemonic = "liar scheme rare garment path wisdom shuffle hotel turtle soon day paper";
+var mnemonic = "winner order tree meat breeze hamster found envelope uphold velvet version brown";

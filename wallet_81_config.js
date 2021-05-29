@@ -1,1 +1,1 @@
-var mnemonic = "excite dinner victory citizen romance fox ignore woman clap remember install public";
+var mnemonic = "fold repeat govern inner cricket drop badge stamp midnight inflict pigeon endorse";
