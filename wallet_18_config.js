@@ -1,1 +1,1 @@
-var mnemonic = "dust night wise slide emotion moment short main dress cash math must";
+var mnemonic = "upgrade because immune rubber torch seven jeans marble tomato phrase panther comic";

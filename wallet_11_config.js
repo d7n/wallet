@@ -1,1 +1,1 @@
-var mnemonic = "valve lab butter casual canoe spoon orange cloud prefer weapon rough pigeon";
+var mnemonic = "soldier unfair debris song file season floor build merit discover giant engage";

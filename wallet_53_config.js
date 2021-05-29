@@ -1,1 +1,1 @@
-var mnemonic = "whip enroll supply tumble use envelope purity enemy trial mystery artwork affair";
+var mnemonic = "spirit toy lobster erase wild priority either grace bar insect also execute";

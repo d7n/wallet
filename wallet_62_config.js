@@ -1,1 +1,1 @@
-var mnemonic = "split original resist tumble bright cigar until empty slender ivory panda right";
+var mnemonic = "reflect agree amount credit provide obscure dwarf nerve tree infant humor easy";

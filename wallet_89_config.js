@@ -1,1 +1,1 @@
-var mnemonic = "much heavy enrich peasant sadness dance insect leisure problem fish slogan canvas";
+var mnemonic = "battle agent maximum avocado rapid abuse panda scare distance sweet solution column";

@@ -1,1 +1,1 @@
-var mnemonic = "shift truth wood wreck reopen please jump clip fork rookie team road";
+var mnemonic = "other mad refuse bless beauty agree subway believe crunch reward rival faith";

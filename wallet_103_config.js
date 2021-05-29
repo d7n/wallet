@@ -1,1 +1,1 @@
-var mnemonic = "bamboo spirit dumb myself taste absurd scrub fire globe fatigue winner stage";
+var mnemonic = "aim motion enrich torch wish lounge fruit adult buzz debris giant tone";

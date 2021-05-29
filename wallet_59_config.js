@@ -1,1 +1,1 @@
-var mnemonic = "stock step steel settle tomato together wing hire place zoo offer average";
+var mnemonic = "protect use oyster short stick misery project tell alpha glass tumble pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "repair need gorilla gadget catch early dizzy spider biology message weird possible";
+var mnemonic = "lizard angle moment pole impulse gloom green sight meadow inmate excess track";

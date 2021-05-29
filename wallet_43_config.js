@@ -1,1 +1,1 @@
-var mnemonic = "uncle sphere ripple popular draft file embark switch recycle rifle finish smooth";
+var mnemonic = "another cross problem burden ethics spray primary weasel length employ pretty artefact";

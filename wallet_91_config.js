@@ -1,1 +1,1 @@
-var mnemonic = "ten field sadness bullet know industry pride south legend useful library over";
+var mnemonic = "turn foam embody rule track front flame window prosper miss object alert";

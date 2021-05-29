@@ -1,1 +1,1 @@
-var mnemonic = "keep card habit hybrid turtle voyage mobile endorse interest ability defy such";
+var mnemonic = "strong clinic warm ask project arrange bachelor object fade typical diesel desk";

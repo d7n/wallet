@@ -1,1 +1,1 @@
-var mnemonic = "sorry wrist symptom wear guide olive thumb car pioneer tonight entire aspect";
+var mnemonic = "tongue glow conduct secret mouse achieve head snap predict lottery flip carbon";

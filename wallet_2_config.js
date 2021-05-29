@@ -1,1 +1,1 @@
-var mnemonic = "month pear wild dash outdoor napkin cloth guide foil strike salute assume";
+var mnemonic = "width session race chef taste now mix panther dignity exclude shrug squeeze";

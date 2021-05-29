@@ -1,1 +1,1 @@
-var mnemonic = "limit wash dismiss mansion wrap maple figure much frown stage loud gown";
+var mnemonic = "fatal acid april half reason track snap bird yard little advance human";

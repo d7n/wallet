@@ -1,1 +1,1 @@
-var mnemonic = "slot neck together payment cancel regret adjust identify top reflect doll actress";
+var mnemonic = "ring shed citizen charge rude biology zoo cancel seed humor comfort hedgehog";

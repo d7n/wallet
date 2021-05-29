@@ -1,1 +1,1 @@
-var mnemonic = "scene strategy asthma inherit pelican maple october gorilla athlete bag trouble version";
+var mnemonic = "upset skate puzzle panther light aunt offer olympic quote fat service unit";

@@ -1,1 +1,1 @@
-var mnemonic = "wife floor fork nuclear warfare shadow theory execute judge gain deputy multiply";
+var mnemonic = "nest brisk glow lesson north person reject salon border rain squeeze sail";

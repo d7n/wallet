@@ -1,1 +1,1 @@
-var mnemonic = "image rent hundred carbon trash misery labor mirror blur above human dry";
+var mnemonic = "october gun answer food hurt drastic fat wave silly any refuse universe";

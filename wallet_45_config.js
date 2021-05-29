@@ -1,1 +1,1 @@
-var mnemonic = "legend harvest portion deal walk goose mechanic script trial puzzle feel flower";
+var mnemonic = "talk calm speak junk tree embark athlete aware powder like kiwi during";

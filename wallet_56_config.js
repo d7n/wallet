@@ -1,1 +1,1 @@
-var mnemonic = "twin galaxy wine crowd brass sun rigid naive total jewel notable govern";
+var mnemonic = "celery aerobic utility weapon neck purse there cool wealth canyon rubber diary";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy essay truth car provide tiger wool joy large urban picnic hair";
+var mnemonic = "canoe figure used enter file review cloth pause else together budget wage";

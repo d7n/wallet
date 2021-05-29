@@ -1,1 +1,1 @@
-var mnemonic = "current diary gadget panic good scatter coach father deer fit village lesson";
+var mnemonic = "six family normal eagle bird orange flight useful shoot play gloom elegant";

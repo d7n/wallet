@@ -1,1 +1,1 @@
-var mnemonic = "town author grunt fold warrior fun major toddler solar street coffee rack";
+var mnemonic = "coin income theme pony bar lava define unknown bone pride knock daughter";

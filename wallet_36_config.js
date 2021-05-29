@@ -1,1 +1,1 @@
-var mnemonic = "myth cupboard glow bag modify blur source hurt song cabbage whip chapter";
+var mnemonic = "team oxygen marriage attract someone nation record leisure glow catalog rely elevator";

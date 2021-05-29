@@ -1,1 +1,1 @@
-var mnemonic = "minimum coffee sand winter chronic ball fee silk tape this awake math";
+var mnemonic = "survey youth cliff main owner nation youth evidence load since hire coil";

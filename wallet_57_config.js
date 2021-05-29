@@ -1,1 +1,1 @@
-var mnemonic = "avocado help boy never argue execute remember mother crash trick express crawl";
+var mnemonic = "embody ice giraffe stool blind group supreme stem sniff knife option tiger";

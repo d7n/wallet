@@ -1,1 +1,1 @@
-var mnemonic = "three flock again kind math shine egg entry gown maple mask differ";
+var mnemonic = "peasant innocent prefer crouch escape ladder measure coin razor cage blind flat";

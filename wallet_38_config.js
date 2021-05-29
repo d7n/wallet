@@ -1,1 +1,1 @@
-var mnemonic = "between twenty visa ugly yellow steel allow lemon sphere tail security mom";
+var mnemonic = "plug drama mirror brand device health tell shield deny soda arm cotton";

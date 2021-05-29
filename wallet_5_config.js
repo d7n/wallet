@@ -1,1 +1,1 @@
-var mnemonic = "pottery hurt relax motor salad void snake dice raccoon journey van tattoo";
+var mnemonic = "evoke tilt decline involve problem notice echo timber bargain today action retire";

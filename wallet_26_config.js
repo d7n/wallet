@@ -1,1 +1,1 @@
-var mnemonic = "leave combine shop trial pig town marriage rose pet verb bubble neither";
+var mnemonic = "mother object bitter wealth laugh twin young detect energy figure seed crack";

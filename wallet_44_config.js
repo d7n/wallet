@@ -1,1 +1,1 @@
-var mnemonic = "length tide acoustic rebuild jewel flame aisle wrap result denial change remember";
+var mnemonic = "slot practice assume pretty income unit quarter sheriff slide emotion bracket unit";

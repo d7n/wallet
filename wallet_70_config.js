@@ -1,1 +1,1 @@
-var mnemonic = "manual cluster match other round cluster shrug pencil vote donor kitchen celery";
+var mnemonic = "general quantum protect advance kidney brave void suffer label grunt farm faith";

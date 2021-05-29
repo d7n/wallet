@@ -1,1 +1,1 @@
-var mnemonic = "shaft escape blame oppose case train sign mushroom satoshi laundry saddle boil";
+var mnemonic = "decrease gospel elite yard combine clay leader section grab taxi autumn beauty";

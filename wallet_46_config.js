@@ -1,1 +1,1 @@
-var mnemonic = "shiver high attack vehicle olive wood predict crop fruit leave hidden increase";
+var mnemonic = "sleep common tragic trust name witness evil patrol flash month govern coil";

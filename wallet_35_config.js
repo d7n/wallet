@@ -1,1 +1,1 @@
-var mnemonic = "inhale wreck infant tennis van poem comic candy anxiety occur danger anchor";
+var mnemonic = "slight into robot wet boat shine raw mean curve party repair chase";

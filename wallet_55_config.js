@@ -1,1 +1,1 @@
-var mnemonic = "host wasp liberty resist taxi outdoor present rally master nominee used draw";
+var mnemonic = "range execute room steel slight crime oppose happy couch cactus small animal";

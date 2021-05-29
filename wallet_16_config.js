@@ -1,1 +1,1 @@
-var mnemonic = "permit decide this ugly exotic broken knife all until wolf zero scrub";
+var mnemonic = "mountain hole start vocal vault draw narrow virtual quantum labor enough sock";

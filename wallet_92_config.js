@@ -1,1 +1,1 @@
-var mnemonic = "bomb cabbage repeat wash case afford push must bench stumble unusual donate";
+var mnemonic = "inner faith two vast range feature damage morning window weekend battle decide";

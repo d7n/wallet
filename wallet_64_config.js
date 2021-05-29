@@ -1,1 +1,1 @@
-var mnemonic = "tired degree woman soda bachelor cheap over horn swear planet episode elegant";
+var mnemonic = "embark doll flush polar bonus divide child small human rigid talk copper";

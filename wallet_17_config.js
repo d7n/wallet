@@ -1,1 +1,1 @@
-var mnemonic = "minor spawn about rely early brave spring nurse scout expire monster lonely";
+var mnemonic = "wink rare season unaware lizard segment keep doctor price fruit portion service";

@@ -1,1 +1,1 @@
-var mnemonic = "surge burger menu innocent spare teach crazy crowd rent airport guilt bleak";
+var mnemonic = "group wash demise battle honey under into craft penalty fault source horse";

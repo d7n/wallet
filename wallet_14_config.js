@@ -1,1 +1,1 @@
-var mnemonic = "pelican reduce expose color fine scheme nothing patch potato spoil april reveal";
+var mnemonic = "speak praise only farm credit record north walnut link guide play boss";

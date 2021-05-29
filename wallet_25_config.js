@@ -1,1 +1,1 @@
-var mnemonic = "first swim dynamic wink police inner taxi orbit notable cost process tragic";
+var mnemonic = "ignore flame museum ritual unfold jelly element recipe oxygen deer same company";

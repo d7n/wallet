@@ -1,1 +1,1 @@
-var mnemonic = "flush away swamp blame sound excuse oil athlete half garbage obtain phrase";
+var mnemonic = "human dream add beach august hungry reflect there turtle pen recycle tower";

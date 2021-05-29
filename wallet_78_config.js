@@ -1,1 +1,1 @@
-var mnemonic = "kingdom outside dance december announce exist olympic ordinary ship summer trim print";
+var mnemonic = "replace risk enact buddy name pluck very volcano humor bus silver citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "author pledge jazz that radar combine slot scare color devote student enable";
+var mnemonic = "use knee solar dish creek energy fox soft similar gravity chapter anxiety";

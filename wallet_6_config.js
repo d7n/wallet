@@ -1,1 +1,1 @@
-var mnemonic = "baby alert exclude tired clay pear toilet license absent snap matrix ghost";
+var mnemonic = "nothing indicate abstract utility faint ostrich job dirt rose witness disagree defense";

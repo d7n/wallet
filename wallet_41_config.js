@@ -1,1 +1,1 @@
-var mnemonic = "note hub ride anger crack express donor citizen donor token gaze hammer";
+var mnemonic = "agree virus fault zone armor inner double wagon faith execute scout repeat";

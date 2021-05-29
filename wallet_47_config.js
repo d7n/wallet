@@ -1,1 +1,1 @@
-var mnemonic = "draw lock drink mom melt section water flee juice rely jewel buffalo";
+var mnemonic = "remain caution endless fat into embrace grass umbrella rather hat honey segment";

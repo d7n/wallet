@@ -1,1 +1,1 @@
-var mnemonic = "lyrics grief review pond echo bulk dose eight depth shop melody cause";
+var mnemonic = "inhale avoid west husband syrup unveil tent bonus nasty armed auto borrow";

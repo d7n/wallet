@@ -1,1 +1,1 @@
-var mnemonic = "scorpion fire anxiety warrior strategy school change surprise order moral suggest deposit";
+var mnemonic = "disease party child best scissors swap remain random drum flight island rail";

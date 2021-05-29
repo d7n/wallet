@@ -1,1 +1,1 @@
-var mnemonic = "arch card brain oppose misery aunt witness push number oil name dutch";
+var mnemonic = "bomb potato case swift park wine office used salad gap truck fault";

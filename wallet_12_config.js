@@ -1,1 +1,1 @@
-var mnemonic = "visit purse column magic city blush acid focus more autumn deal section";
+var mnemonic = "coral street suit mango east devote wrestle super home chuckle loan success";

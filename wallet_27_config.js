@@ -1,1 +1,1 @@
-var mnemonic = "common globe wide jealous federal heavy tide vessel answer banana sibling fiscal";
+var mnemonic = "tuna mistake call museum trophy rebuild wire diesel differ soda impose success";

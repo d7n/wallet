@@ -1,1 +1,1 @@
-var mnemonic = "museum submit differ fog face unhappy yellow cup guilt frame all dune";
+var mnemonic = "lawsuit minute elder romance lava dinner super image hour shoe quarter join";

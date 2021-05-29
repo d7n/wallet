@@ -1,1 +1,1 @@
-var mnemonic = "kit settle fiction rose bomb letter bracket message try rotate essence tuna";
+var mnemonic = "dizzy elephant memory survey symptom camera veteran cement coin space over carry";

@@ -1,1 +1,1 @@
-var mnemonic = "assist happy because image smoke hero surface stool virus tail host inform";
+var mnemonic = "casual speak volcano actual spray announce shift loop side shop involve bulb";

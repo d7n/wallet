@@ -1,1 +1,1 @@
-var mnemonic = "myth ceiling myself image client income breeze noise drop trip submit dance";
+var mnemonic = "edit essence level inquiry glare crouch tackle arctic trend humor rabbit visual";

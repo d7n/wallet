@@ -1,1 +1,1 @@
-var mnemonic = "pilot rabbit arrange link six final setup update guitar connect acquire opera";
+var mnemonic = "method tip endorse figure half dilemma excuse frog path pause board observe";

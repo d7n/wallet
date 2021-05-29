@@ -1,1 +1,1 @@
-var mnemonic = "state liberty diesel nasty width retreat october arrive net spawn stairs become";
+var mnemonic = "dignity slogan glass hundred immune unable garage current soda army gun infant";

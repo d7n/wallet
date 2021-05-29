@@ -1,1 +1,1 @@
-var mnemonic = "squeeze online gain nut skill eye caught ramp furnace prevent dinosaur track";
+var mnemonic = "sudden pull pupil practice muffin excess salt job distance nation squeeze brass";

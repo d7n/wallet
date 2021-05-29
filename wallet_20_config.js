@@ -1,1 +1,1 @@
-var mnemonic = "lady spy flight mixture monitor ask grace devote pole author brief wear";
+var mnemonic = "oak entry confirm early donkey violin diary problem party truly sweet senior";

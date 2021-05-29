@@ -1,1 +1,1 @@
-var mnemonic = "rival rule output apart whale slogan produce orphan vapor lawn business gate";
+var mnemonic = "submit dust track pistol derive traffic luggage crush save all plug upgrade";

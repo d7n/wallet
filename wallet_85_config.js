@@ -1,1 +1,1 @@
-var mnemonic = "awesome element young hundred cycle wrap wolf boss main illness local pride";
+var mnemonic = "sniff civil enter smooth giant buddy decorate wage coil one evil pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion unfold paper input warm track tail ring idea canal gesture walk";
+var mnemonic = "cool kangaroo disagree trial inform urban crater license taxi warm lab over";

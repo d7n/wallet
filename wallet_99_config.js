@@ -1,1 +1,1 @@
-var mnemonic = "chief embody oven ahead rotate favorite consider vanish answer shoot daughter gasp";
+var mnemonic = "estate chaos wheel drama reopen ghost author hunt worry lecture recipe shove";

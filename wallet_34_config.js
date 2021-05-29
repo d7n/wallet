@@ -1,1 +1,1 @@
-var mnemonic = "nice act lobster motor already scrub hand chat absurd swamp urban place";
+var mnemonic = "drum custom symbol silly fuel similar tool nephew beach next round emotion";

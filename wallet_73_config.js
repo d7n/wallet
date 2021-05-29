@@ -1,1 +1,1 @@
-var mnemonic = "sadness decline stadium fiction protect second odor state gather salad copper annual";
+var mnemonic = "latin around question floor pluck resemble repair vital celery process shaft patrol";

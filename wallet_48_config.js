@@ -1,1 +1,1 @@
-var mnemonic = "scene warfare measure verb now team ten lend birth math fancy view";
+var mnemonic = "leopard ethics opinion lyrics tape object museum term pet lucky album limit";

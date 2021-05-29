@@ -1,1 +1,1 @@
-var mnemonic = "meadow same inherit dinner senior file subject decade flavor quantum window nominee";
+var mnemonic = "same crisp enable salon reflect unique impulse hospital exile fever flat drip";

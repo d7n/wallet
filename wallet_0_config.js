@@ -1,1 +1,1 @@
-var mnemonic = "either neither else rifle demise gas fix delay ridge doll friend history";
+var mnemonic = "crunch swap gaze soccer media code vivid thunder rotate limb brand eyebrow";

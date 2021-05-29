@@ -1,1 +1,1 @@
-var mnemonic = "drink task manual vote blur mandate damp fiction purity pizza spice chunk";
+var mnemonic = "cart team license device bone sport wild toddler profit escape oak blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "glad seat during mean flower hunt suggest display circle once short give";
+var mnemonic = "luxury sentence cruel draft grain situate lend rain gauge garlic verify moral";

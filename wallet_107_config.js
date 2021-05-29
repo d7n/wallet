@@ -1,1 +1,1 @@
-var mnemonic = "man umbrella lake width city until vendor before hurdle share pet royal";
+var mnemonic = "pool deer tackle upon toilet mosquito bulk fantasy slight denial fragile crouch";

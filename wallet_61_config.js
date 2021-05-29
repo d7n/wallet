@@ -1,1 +1,1 @@
-var mnemonic = "hope uniform pen fringe pudding absurd alert middle lumber ability enact skill";
+var mnemonic = "escape fee receive liar ketchup clay february solid loan degree save route";

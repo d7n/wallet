@@ -1,1 +1,1 @@
-var mnemonic = "danger curious laptop position excess stool knife bamboo type toddler season autumn";
+var mnemonic = "cycle local dumb diamond sick foster main depend taste ribbon tomorrow muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "until smart lava decline potato other victory crowd lumber ahead season trash";
+var mnemonic = "clever ugly bicycle company south garment door veteran also peasant purchase clump";

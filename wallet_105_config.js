@@ -1,1 +1,1 @@
-var mnemonic = "recall pupil retire conduct entry manage ocean betray dish local detect slim";
+var mnemonic = "grit hero reunion shrug bulb ripple doctor civil jazz act erode above";

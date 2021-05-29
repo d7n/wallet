@@ -1,1 +1,1 @@
-var mnemonic = "seminar position edit afraid lady exhaust shoe unfair spot sponsor people try";
+var mnemonic = "play steel wife virus piece wage tone lounge blossom sentence opera meadow";

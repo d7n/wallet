@@ -1,1 +1,1 @@
-var mnemonic = "stem disease knife build cause avoid teach chaos hub inspire wheel gap";
+var mnemonic = "silk solid develop lady learn daring poverty much soap eye review circle";

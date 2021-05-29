@@ -1,1 +1,1 @@
-var mnemonic = "slow milk obvious security erase stomach mammal trick dwarf jazz bounce boring";
+var mnemonic = "front panther express this battle rocket deputy author vendor evidence script art";

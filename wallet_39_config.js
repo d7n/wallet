@@ -1,1 +1,1 @@
-var mnemonic = "solid text lecture trap coyote citizen lion hedgehog purchase awesome pole portion";
+var mnemonic = "talk category law smooth atom season help drum recycle grain pipe melody";

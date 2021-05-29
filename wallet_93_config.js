@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin diagram mad eager gift need idea evolve another case goose million";
+var mnemonic = "require arch orchard donate kite lyrics dolphin meadow draft race isolate exchange";

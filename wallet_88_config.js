@@ -1,1 +1,1 @@
-var mnemonic = "banner huge zoo together deer rule earth illness casino attend change state";
+var mnemonic = "ankle height ring pudding eight fluid leg mosquito blame cherry analyst attract";

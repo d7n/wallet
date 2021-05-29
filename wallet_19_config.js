@@ -1,1 +1,1 @@
-var mnemonic = "wool recipe section moral capital observe bridge next great twelve knife step";
+var mnemonic = "absent awful brick spoon whisper siege crane talent detail seminar daring mass";

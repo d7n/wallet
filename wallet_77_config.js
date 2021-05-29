@@ -1,1 +1,1 @@
-var mnemonic = "tumble girl casual collect festival age license smoke duck surprise address pass";
+var mnemonic = "sadness vault genre image link master rival chest case cannon tortoise permit";

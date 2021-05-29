@@ -1,1 +1,1 @@
-var mnemonic = "cycle blossom position vanish velvet enemy dress anchor lonely fly cat squirrel";
+var mnemonic = "color phrase injury agent burden weasel capital illness news apart cruel world";

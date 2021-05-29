@@ -1,1 +1,1 @@
-var mnemonic = "grace else quarter reflect rhythm spike bundle napkin runway liar raven review";
+var mnemonic = "donate remove isolate reason obvious similar talk style unaware soul defy huge";

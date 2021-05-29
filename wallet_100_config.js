@@ -1,1 +1,1 @@
-var mnemonic = "version timber buffalo nothing crowd picnic below father hundred sound canyon maid";
+var mnemonic = "industry rubber destroy exile laptop usual fever million marriage shock crime radio";

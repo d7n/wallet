@@ -1,1 +1,1 @@
-var mnemonic = "bubble must chief mouse vessel faith across tape super truth boost truth";
+var mnemonic = "surround genre ten utility client sponsor grow shrug bitter famous festival rubber";
