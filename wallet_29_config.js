@@ -1,1 +1,1 @@
-var mnemonic = "stuff carbon salute rack twice gossip crawl nuclear horse broom bleak luggage";
+var mnemonic = "reject because once rib dove relief glimpse chicken tower book behave web";

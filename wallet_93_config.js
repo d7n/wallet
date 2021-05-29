@@ -1,1 +1,1 @@
-var mnemonic = "mosquito life pattern deny print cousin fold cabbage long heavy above rotate";
+var mnemonic = "step antenna picnic powder chair easily monkey mixture peanut walnut kitchen age";

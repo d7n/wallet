@@ -1,1 +1,1 @@
-var mnemonic = "oblige laundry provide canoe cruel include universe mammal impulse useful car suspect";
+var mnemonic = "hello agree sweet alert nose race advice glory roast bring ceiling live";

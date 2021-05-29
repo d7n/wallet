@@ -1,1 +1,1 @@
-var mnemonic = "trap powder sight destroy lawsuit hill another predict cart health bar kick";
+var mnemonic = "chief three usage try oven critic cherry echo south absent sail shrug";

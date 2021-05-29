@@ -1,1 +1,1 @@
-var mnemonic = "observe genre leader work attend ankle marble knee toss section giant tree";
+var mnemonic = "answer average obey sail limb kingdom fringe okay differ robust size victory";

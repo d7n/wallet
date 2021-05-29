@@ -1,1 +1,1 @@
-var mnemonic = "series praise alert neglect stereo high fever desk promote wood item pistol";
+var mnemonic = "friend monster sadness vacuum stable crucial resist talk vendor biology amused achieve";

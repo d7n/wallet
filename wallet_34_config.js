@@ -1,1 +1,1 @@
-var mnemonic = "dice ice youth design what scrap alone uniform kick glance stage detail";
+var mnemonic = "lab ugly notable rifle gather fork grid radio cram humor destroy stay";

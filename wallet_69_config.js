@@ -1,1 +1,1 @@
-var mnemonic = "regular buddy mutual perfect ghost want wisdom shift erode reduce nest equip";
+var mnemonic = "patrol since coyote animal material vessel often romance type focus ramp someone";

@@ -1,1 +1,1 @@
-var mnemonic = "regular enlist rally imitate trigger night obtain dry text random cross trouble";
+var mnemonic = "tourist glance divorce audit parade kick useful fury nation review eternal rice";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil salt piece journey verb motor stand guilt betray casino heavy easy";
+var mnemonic = "whip okay mixture tornado popular learn blossom virtual violin valve grit large";

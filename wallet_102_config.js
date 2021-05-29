@@ -1,1 +1,1 @@
-var mnemonic = "canal dynamic napkin hammer exit stamp atom glue monitor gain crumble resource";
+var mnemonic = "cattle purity chair flame alert annual enroll filter rose label photo rough";

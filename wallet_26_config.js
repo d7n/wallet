@@ -1,1 +1,1 @@
-var mnemonic = "network rely essay split load spell ivory canyon moment drip kitten siren";
+var mnemonic = "manual oak oyster multiply rhythm ketchup hazard analyst acid group angry bright";

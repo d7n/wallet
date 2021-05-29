@@ -1,1 +1,1 @@
-var mnemonic = "extra dress sort movie right frequent desk usage brisk leisure only where";
+var mnemonic = "day drastic account fiscal margin future december odor fiscal body diamond sort";

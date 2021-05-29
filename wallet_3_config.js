@@ -1,1 +1,1 @@
-var mnemonic = "trend lava huge night attend giggle van palace drip mansion bunker wolf";
+var mnemonic = "genius travel pigeon imitate garlic invite coin arctic tackle differ minimum olive";

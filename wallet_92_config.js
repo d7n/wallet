@@ -1,1 +1,1 @@
-var mnemonic = "drip fiber foster render civil ancient good pizza pistol video response list";
+var mnemonic = "topic glare relief solve hover surface industry reason replace sugar title avoid";

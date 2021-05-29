@@ -1,1 +1,1 @@
-var mnemonic = "gadget recall topic original afford pond crazy club knife relax trim vessel";
+var mnemonic = "weapon clean buddy enroll beauty renew witness chef heart chronic tag shock";

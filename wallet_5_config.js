@@ -1,1 +1,1 @@
-var mnemonic = "assume leader tide whale mango devote bitter crush congress verify dice begin";
+var mnemonic = "speak total agent interest churn doll regret awake large mix erosion march";

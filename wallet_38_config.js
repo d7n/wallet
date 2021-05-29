@@ -1,1 +1,1 @@
-var mnemonic = "attract island enable north vanish clog absent leader frown size lake bless";
+var mnemonic = "zoo edge pupil object science brush fade skill venture bitter consider flavor";

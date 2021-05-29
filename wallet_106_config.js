@@ -1,1 +1,1 @@
-var mnemonic = "will auction slow luxury type budget fee arrive coconut cricket praise zone";
+var mnemonic = "brass pool glance yard afraid swallow glove tiger donor cruel rescue harvest";

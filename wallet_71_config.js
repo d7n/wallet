@@ -1,1 +1,1 @@
-var mnemonic = "rival explain hair dinner observe merit sudden project cash season sweet laugh";
+var mnemonic = "charge bottom resemble bubble mention month abuse salmon pull own very before";

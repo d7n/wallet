@@ -1,1 +1,1 @@
-var mnemonic = "shoot cream zone soda hood despair truck cry language foster iron drill";
+var mnemonic = "slim august syrup situate believe funny scatter steel spy lucky mimic ski";

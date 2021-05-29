@@ -1,1 +1,1 @@
-var mnemonic = "twelve story either silent friend yard plunge stick cricket pistol pudding render";
+var mnemonic = "turtle hope match hope vanish skill arena hat catalog dance rent hub";

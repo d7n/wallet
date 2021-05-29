@@ -1,1 +1,1 @@
-var mnemonic = "wide best knock rather oak maze expose mammal annual major velvet whisper";
+var mnemonic = "same odor century rocket ugly fat unfold skin weather reunion shy solution";

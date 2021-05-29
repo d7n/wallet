@@ -1,1 +1,1 @@
-var mnemonic = "pulse total physical engage muffin finger minor slight habit blast vehicle scare";
+var mnemonic = "play only recall surface rule banner bomb reward input field cat return";

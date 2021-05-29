@@ -1,1 +1,1 @@
-var mnemonic = "library bright slot turn chair wild lyrics rude dawn plunge cushion step";
+var mnemonic = "episode toast unhappy recipe orient wise ignore unveil place list juice decade";

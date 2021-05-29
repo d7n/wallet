@@ -1,1 +1,1 @@
-var mnemonic = "plunge arch inform doll receive note work artwork garage cluster mother ceiling";
+var mnemonic = "brother attend depth laptop dog replace shell world stuff law utility address";

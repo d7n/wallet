@@ -1,1 +1,1 @@
-var mnemonic = "motor page explain news notice execute decrease enhance erode chunk gauge major";
+var mnemonic = "scale kangaroo whip space option helmet card course salute solar entry hospital";

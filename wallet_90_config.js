@@ -1,1 +1,1 @@
-var mnemonic = "accuse sail area once three genre dwarf eight liquid melt occur later";
+var mnemonic = "must congress west aerobic much until soup witness van dignity gym morning";

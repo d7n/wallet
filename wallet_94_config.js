@@ -1,1 +1,1 @@
-var mnemonic = "cabin brick timber that pottery coil script poverty lesson fringe glue nice";
+var mnemonic = "sphere alley gaze result tower age program express lend unveil banana plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "alley autumn chair ready stock will flower kiss floor kingdom pipe online";
+var mnemonic = "over whale drum birth forget patch oil talent saddle truly loud hawk";

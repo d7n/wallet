@@ -1,1 +1,1 @@
-var mnemonic = "ticket salad doll journey novel tube essence uphold note weird leave where";
+var mnemonic = "renew credit equal amused muffin fantasy poverty thank rice addict conduct barely";

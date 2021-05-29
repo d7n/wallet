@@ -1,1 +1,1 @@
-var mnemonic = "lawn banana gather staff warrior unveil clip pull weird clinic twelve virus";
+var mnemonic = "just system van various energy inject armed genre damage provide zebra advice";

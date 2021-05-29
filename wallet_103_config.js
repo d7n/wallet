@@ -1,1 +1,1 @@
-var mnemonic = "leopard armor castle gaze age decline plunge myth often actor section hurry";
+var mnemonic = "day title crater cat home basket item bar receive hip blush child";

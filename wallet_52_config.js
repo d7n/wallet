@@ -1,1 +1,1 @@
-var mnemonic = "gasp wheel else quote trap uncover arm aisle empty among profit kiwi";
+var mnemonic = "veteran surprise tower cherry title equal alley now exist fine circle tobacco";

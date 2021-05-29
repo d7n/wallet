@@ -1,1 +1,1 @@
-var mnemonic = "fat fine badge kick rotate chat sing stamp host market exit private";
+var mnemonic = "rally aware exercise park unfold assume short escape mass debris bread core";

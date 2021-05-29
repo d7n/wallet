@@ -1,1 +1,1 @@
-var mnemonic = "bronze resemble rally narrow resource sketch butter nominee cricket smooth mandate urban";
+var mnemonic = "vanish cost cement soon inmate school unhappy purchase dizzy minute sustain firm";

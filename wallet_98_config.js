@@ -1,1 +1,1 @@
-var mnemonic = "film erode keep object come differ employ drill never around leave allow";
+var mnemonic = "parade resource immense dry royal agent merry electric law cream ability jeans";

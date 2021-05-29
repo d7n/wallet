@@ -1,1 +1,1 @@
-var mnemonic = "also into salad frog bacon monster maximum blur image author before carry";
+var mnemonic = "series like rookie today subject fade swamp lesson palm harbor announce stay";

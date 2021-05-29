@@ -1,1 +1,1 @@
-var mnemonic = "cost cargo hockey evolve cactus extend maple glass seed best cube again";
+var mnemonic = "merge problem close chest olympic loud boat diary riot accuse fabric into";

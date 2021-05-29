@@ -1,1 +1,1 @@
-var mnemonic = "slab minimum potato grass foam cake fee crush quantum chest level conduct";
+var mnemonic = "duty latin brave vacant manage curve stock ship pig drama bread feel";

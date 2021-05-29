@@ -1,1 +1,1 @@
-var mnemonic = "decorate long explain describe destroy march trumpet bar curve surge slide sister";
+var mnemonic = "cabbage glimpse april prevent spring since can more answer fabric donate rescue";

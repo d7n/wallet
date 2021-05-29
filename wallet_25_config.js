@@ -1,1 +1,1 @@
-var mnemonic = "shoulder peasant vessel rack process undo smart bench pledge season vivid bus";
+var mnemonic = "lawsuit twin also typical oppose load dice front media upper despair museum";

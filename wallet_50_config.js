@@ -1,1 +1,1 @@
-var mnemonic = "resource clump check economy viable cloud aware hobby attract lawsuit stem tank";
+var mnemonic = "cannon art enlist diet tilt engage coconut immense planet away follow veteran";

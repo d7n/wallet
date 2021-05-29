@@ -1,1 +1,1 @@
-var mnemonic = "ginger cave pottery same celery frozen accuse owner crouch burden merit planet";
+var mnemonic = "west margin man choose urban abuse blossom embody trial belt lyrics clog";

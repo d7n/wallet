@@ -1,1 +1,1 @@
-var mnemonic = "discover fantasy hollow south affair stool there puzzle evoke fatal glue cry";
+var mnemonic = "slam eye library gaze draw tip security loud rice flash museum donor";

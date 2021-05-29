@@ -1,1 +1,1 @@
-var mnemonic = "october arena firm fringe shoe kitchen float gallery lift pole they other";
+var mnemonic = "outer heart force aim expose patient express can adjust abandon gallery boat";

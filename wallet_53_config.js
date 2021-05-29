@@ -1,1 +1,1 @@
-var mnemonic = "earth sea soup plate vote river hub miracle parrot stage miss offer";
+var mnemonic = "maple guitar victory frog buzz angle lucky craft rotate install bar carpet";

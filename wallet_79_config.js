@@ -1,1 +1,1 @@
-var mnemonic = "face cage material act palace today mother shallow pitch rude town gasp";
+var mnemonic = "maximum magic peasant increase nephew uncover motion lucky stay that awkward leader";

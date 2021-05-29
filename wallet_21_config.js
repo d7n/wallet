@@ -1,1 +1,1 @@
-var mnemonic = "pony gown capital drill milk legal nice melody record ecology kangaroo aware";
+var mnemonic = "acquire melt flat bacon cereal cost number abandon wool episode jar pear";

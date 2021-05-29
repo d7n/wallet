@@ -1,1 +1,1 @@
-var mnemonic = "senior lady broccoli crack cradle undo salt elite sustain rotate cover palace";
+var mnemonic = "child say earn milk mirror noise rocket afford risk usage arrow solid";

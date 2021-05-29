@@ -1,1 +1,1 @@
-var mnemonic = "quantum put truly tray pupil find woman phrase smart bean stadium balcony";
+var mnemonic = "item primary trash curve foster donate blast bargain tank develop sock bean";

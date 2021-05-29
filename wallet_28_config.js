@@ -1,1 +1,1 @@
-var mnemonic = "enough pill dress spider soldier ghost husband acid stone mechanic october urban";
+var mnemonic = "sad brisk good manage visual notice dress glue easily picnic wagon bus";

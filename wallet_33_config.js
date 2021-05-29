@@ -1,1 +1,1 @@
-var mnemonic = "cruise off minor social reflect right find forget peace scissors eternal awake";
+var mnemonic = "bread ritual scatter program mushroom elevator cheese picture coil man shock guilt";

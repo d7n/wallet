@@ -1,1 +1,1 @@
-var mnemonic = "arrow woman soldier cactus forward cash endless hire muffin orbit all deer";
+var mnemonic = "pitch rule unusual armor race toilet skirt february thumb gold wood sketch";

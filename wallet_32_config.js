@@ -1,1 +1,1 @@
-var mnemonic = "profit proof soft royal trash sniff old grass stage vocal census defense";
+var mnemonic = "air teach output huge brother february jump code city circle buddy prepare";

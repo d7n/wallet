@@ -1,1 +1,1 @@
-var mnemonic = "buzz robot kid brick virus conduct crawl dose tiger feature melody pattern";
+var mnemonic = "genius caution caught immense extend aware ordinary diamond speak paper ten garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure flame recipe turkey black gauge reward spirit bone honey only gesture";
+var mnemonic = "six erode hero crystal bitter eagle thing meadow response fiction climb orient";

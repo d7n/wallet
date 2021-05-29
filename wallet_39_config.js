@@ -1,1 +1,1 @@
-var mnemonic = "dizzy sweet brown area food rent limit olive slide advance exist sorry";
+var mnemonic = "bullet sausage bottom seminar hello write census laptop drop embody possible near";

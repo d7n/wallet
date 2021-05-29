@@ -1,1 +1,1 @@
-var mnemonic = "elbow liquid receive vivid where resist flame better enemy arrive cloud debris";
+var mnemonic = "exist nose year leaf eager shaft deny execute cat cook spend faith";

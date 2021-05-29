@@ -1,1 +1,1 @@
-var mnemonic = "wedding left virus network patch toddler antique organ purpose health shield adapt";
+var mnemonic = "antenna viable verb vendor about latin renew october program wonder shuffle drip";

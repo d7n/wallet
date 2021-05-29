@@ -1,1 +1,1 @@
-var mnemonic = "prepare reunion taste provide library swear vendor clarify cinnamon organ cost palace";
+var mnemonic = "cage solar force pledge guard blast egg anchor into enrich stock drive";

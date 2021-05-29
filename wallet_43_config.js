@@ -1,1 +1,1 @@
-var mnemonic = "world limb desert limb convince skull view bulb wet round broom sense";
+var mnemonic = "insect normal blush gold bean total bind fall coil brain access crowd";

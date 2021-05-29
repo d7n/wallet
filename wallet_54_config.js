@@ -1,1 +1,1 @@
-var mnemonic = "piece open private example together puppy parent initial scatter ugly caution ecology";
+var mnemonic = "praise marble wife deny gain wave chief copy choice empty jealous cart";

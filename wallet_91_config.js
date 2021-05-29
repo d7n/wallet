@@ -1,1 +1,1 @@
-var mnemonic = "unaware focus eagle property matter skull bag sand become network cluster trip";
+var mnemonic = "age apology network fire make select flip aware achieve license detect hint";

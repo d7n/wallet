@@ -1,1 +1,1 @@
-var mnemonic = "talent point blind soap educate absorb grab select benefit useless design smart";
+var mnemonic = "fruit farm live aspect digital embody antenna arrive clap member other auto";

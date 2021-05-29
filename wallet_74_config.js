@@ -1,1 +1,1 @@
-var mnemonic = "vanish face surge sight riot brown caution fiscal outdoor drama among together";
+var mnemonic = "parrot subject useless slow carbon grief party dance program response lawsuit engage";

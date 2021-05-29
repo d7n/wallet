@@ -1,1 +1,1 @@
-var mnemonic = "page husband include control name session make swarm couch search wedding system";
+var mnemonic = "certain jewel page flame dove deer detail universe pig rebuild tourist drift";

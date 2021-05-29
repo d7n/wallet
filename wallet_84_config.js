@@ -1,1 +1,1 @@
-var mnemonic = "coast amazing method tiger worth gasp place penalty area light involve general";
+var mnemonic = "walk ask camp select struggle easy destroy airport indoor stove column view";

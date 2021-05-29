@@ -1,1 +1,1 @@
-var mnemonic = "govern celery kangaroo acquire cash robot forum copy episode neglect drill neutral";
+var mnemonic = "drill dolphin reflect flame embody dinosaur pudding asset purse foil ride happy";

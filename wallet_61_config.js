@@ -1,1 +1,1 @@
-var mnemonic = "shiver aspect trim monitor still lawsuit element object speak crush enrich actual";
+var mnemonic = "news north desert release measure satisfy olympic fatigue suggest scissors rib south";

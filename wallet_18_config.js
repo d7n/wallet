@@ -1,1 +1,1 @@
-var mnemonic = "purchase marble transfer tissue salute reflect crash mention undo grunt hope girl";
+var mnemonic = "naive picture young chunk squirrel dinner cream road fiction horror brick side";

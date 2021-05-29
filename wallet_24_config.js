@@ -1,1 +1,1 @@
-var mnemonic = "speak swift salute swim hazard pudding grain good divide scheme elite oppose";
+var mnemonic = "opera sort board work victory rack pulse inside pen indicate future throw";

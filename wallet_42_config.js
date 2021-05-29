@@ -1,1 +1,1 @@
-var mnemonic = "negative game cake raise dry leaf ship february wage hockey pair naive";
+var mnemonic = "rubber never demand various divert athlete glow borrow aisle pistol total apple";

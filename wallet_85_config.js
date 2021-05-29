@@ -1,1 +1,1 @@
-var mnemonic = "will broken choose help country mammal day faculty marble visit black gloom";
+var mnemonic = "track identify ordinary image vanish waste bulb gasp marble color manage sorry";

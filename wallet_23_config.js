@@ -1,1 +1,1 @@
-var mnemonic = "sniff rule shove exhibit design sing track screen zero chase sheriff domain";
+var mnemonic = "interest giggle mention mind borrow cool gadget radar diagram pencil amount card";

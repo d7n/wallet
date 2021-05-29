@@ -1,1 +1,1 @@
-var mnemonic = "pony stage prosper core left surround hero okay lottery together few prepare";
+var mnemonic = "review blind eternal sport switch earth arrange ill duty chat attack bread";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme media pigeon either loop include people raven flower double earth together";
+var mnemonic = "dwarf choice need female pledge bench pause retreat film offer oak fatigue";

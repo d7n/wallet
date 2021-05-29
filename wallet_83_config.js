@@ -1,1 +1,1 @@
-var mnemonic = "slab turn goddess bronze online game lounge illegal speak exhibit monkey high";
+var mnemonic = "liar jacket grace chest kite tribe scorpion moon believe exclude cotton tattoo";

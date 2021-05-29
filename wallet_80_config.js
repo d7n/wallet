@@ -1,1 +1,1 @@
-var mnemonic = "powder own spider achieve chase never trial horn neglect scout interest scare";
+var mnemonic = "zebra smart banana clap biology gift change churn water usage among reduce";

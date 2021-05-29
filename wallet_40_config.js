@@ -1,1 +1,1 @@
-var mnemonic = "family demise bundle earn desk cinnamon taxi amateur someone poverty alarm matrix";
+var mnemonic = "syrup settle public arena enter stage space polar brass hover champion insect";

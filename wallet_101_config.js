@@ -1,1 +1,1 @@
-var mnemonic = "shy track size world under squirrel gospel useful sphere number disorder two";
+var mnemonic = "write outdoor key just sense pelican distance census rice focus orange check";

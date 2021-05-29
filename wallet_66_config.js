@@ -1,1 +1,1 @@
-var mnemonic = "despair mixture pond atom fine card girl learn enroll tiger announce sign";
+var mnemonic = "nominee modify ten rate turtle dove pattern laundry opinion tool leopard level";

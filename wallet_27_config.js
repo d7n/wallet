@@ -1,1 +1,1 @@
-var mnemonic = "struggle critic genuine butter universe deal mix cattle cabbage dry culture live";
+var mnemonic = "fresh inherit pledge cheese trophy sing april math diamond card equip nation";

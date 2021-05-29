@@ -1,1 +1,1 @@
-var mnemonic = "burger curtain human question swift hammer obvious powder taxi hero donkey rule";
+var mnemonic = "human witness admit shop twice canoe catalog all collect season brush amazing";

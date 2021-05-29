@@ -1,1 +1,1 @@
-var mnemonic = "material object lyrics lens pipe shadow swift million panel course exit time";
+var mnemonic = "one style swift purpose reveal trouble orchard suspect uncover science grant novel";

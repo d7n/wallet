@@ -1,1 +1,1 @@
-var mnemonic = "total artefact disease twenty try magic focus purpose draft curve grit among";
+var mnemonic = "luxury immense fly tube sorry steak survey oval lady word private doll";

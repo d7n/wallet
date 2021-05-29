@@ -1,1 +1,1 @@
-var mnemonic = "harbor people stomach true connect hobby assault bag confirm pumpkin gauge clean";
+var mnemonic = "loud shoot test rather mean author auto educate guitar call sorry broken";

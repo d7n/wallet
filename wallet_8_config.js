@@ -1,1 +1,1 @@
-var mnemonic = "emotion fly joke similar dust awesome scare wet tongue tiny sick unfair";
+var mnemonic = "seat tiger sure shoot suspect peanut knife action oval drum obtain stereo";

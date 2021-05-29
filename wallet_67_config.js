@@ -1,1 +1,1 @@
-var mnemonic = "concert cheese twenty drip decorate age rose neutral rocket space inject guess";
+var mnemonic = "salon embody topic alarm april open dizzy major what unveil poem excess";
