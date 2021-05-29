@@ -1,1 +1,1 @@
-var mnemonic = "avoid eager opinion remain message fitness ready attend economy chair define mosquito";
+var mnemonic = "recall penalty razor kidney light theory small current weather advice faculty vessel";

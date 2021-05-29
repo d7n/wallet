@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon social convince sustain damp cherry oak release rescue dolphin news home";
+var mnemonic = "decide build frozen coin confirm key border sugar ripple finger code like";

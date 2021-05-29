@@ -1,1 +1,1 @@
-var mnemonic = "clever column perfect bone confirm satisfy suit flee fitness aspect stairs letter";
+var mnemonic = "reunion much puzzle dutch benefit mask rigid gather dance disagree fitness truly";

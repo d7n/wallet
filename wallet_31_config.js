@@ -1,1 +1,1 @@
-var mnemonic = "champion version disagree energy emotion field security nominee mind eternal title gas";
+var mnemonic = "sauce movie loop energy better mimic piece nice song tragic ozone fence";

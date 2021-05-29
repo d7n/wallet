@@ -1,1 +1,1 @@
-var mnemonic = "upgrade kick repair twelve initial truly category fish general jump tell inhale";
+var mnemonic = "royal flag wreck blade inhale tube mechanic finish piano belt regret essay";

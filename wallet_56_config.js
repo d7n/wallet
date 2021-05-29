@@ -1,1 +1,1 @@
-var mnemonic = "rely more census great verb tag tattoo cart raven royal thank egg";
+var mnemonic = "rural crazy episode evidence suffer bring ribbon tumble country inmate antenna rough";

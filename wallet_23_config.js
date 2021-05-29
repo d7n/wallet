@@ -1,1 +1,1 @@
-var mnemonic = "planet gravity outer solid length cliff music know dutch cave dance erupt";
+var mnemonic = "vibrant horror entry surge turkey wish welcome cable trust enough ivory easily";

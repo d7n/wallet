@@ -1,1 +1,1 @@
-var mnemonic = "lion coyote cloth apology symptom job brisk pole dish problem fabric couple";
+var mnemonic = "shy word check survey main violin dilemma fame detail then undo you";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion era lazy bar maze fiscal cost palm practice sting slender wear";
+var mnemonic = "relief pear nut grid weapon dawn boy buzz stem chronic priority head";

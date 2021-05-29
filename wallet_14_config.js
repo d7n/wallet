@@ -1,1 +1,1 @@
-var mnemonic = "behave chimney name roast mammal oval select cat distance easily balcony any";
+var mnemonic = "anchor waste kiwi snake turtle usage buyer secret legal cement large seat";

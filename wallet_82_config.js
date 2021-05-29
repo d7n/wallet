@@ -1,1 +1,1 @@
-var mnemonic = "denial review stamp write table tone letter tomato spread sadness next tribe";
+var mnemonic = "write resource lizard roof mean aim connect prosper siren donate blast success";

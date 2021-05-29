@@ -1,1 +1,1 @@
-var mnemonic = "clever frozen among menu close faint wool pledge twist tip allow story";
+var mnemonic = "response powder iron swallow love trust turn keep spatial great receive fork";

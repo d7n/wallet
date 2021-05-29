@@ -1,1 +1,1 @@
-var mnemonic = "scene priority weasel flat civil calm elite knock pepper guide soda sand";
+var mnemonic = "mandate wish gold settle they hip interest cash punch heart miracle broken";

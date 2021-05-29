@@ -1,1 +1,1 @@
-var mnemonic = "hard eyebrow picnic warrior fat pony coyote fruit laugh stick upon finish";
+var mnemonic = "meadow sauce ketchup polar reflect fat pattern ankle quantum brush copy trim";

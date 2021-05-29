@@ -1,1 +1,1 @@
-var mnemonic = "six word mercy mutual scissors spider weird razor transfer pumpkin dune emerge";
+var mnemonic = "basic spatial enter slush globe year odor spoil accuse thing bird pet";

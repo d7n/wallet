@@ -1,1 +1,1 @@
-var mnemonic = "purity stairs photo moment budget rally orchard rare clap spoon feature draw";
+var mnemonic = "ticket father width angry thank gown steel cheese enough cycle exist head";

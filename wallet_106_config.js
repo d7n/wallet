@@ -1,1 +1,1 @@
-var mnemonic = "east country misery ankle hello among bless pony medal grace betray sting";
+var mnemonic = "cigar tortoise rocket wait plate animal write record repeat use identify suffer";

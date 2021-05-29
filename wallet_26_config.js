@@ -1,1 +1,1 @@
-var mnemonic = "place battle symptom dove oxygen aware celery fire stool immense pond rely";
+var mnemonic = "security motion fragile crack eager spoon account pen music render ski snack";

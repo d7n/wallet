@@ -1,1 +1,1 @@
-var mnemonic = "south rhythm claw guess infant crazy short walnut hub true black increase";
+var mnemonic = "monster thumb own tent avoid mandate mimic simple enlist unable initial dentist";

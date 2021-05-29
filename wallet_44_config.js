@@ -1,1 +1,1 @@
-var mnemonic = "usage gun consider magic matter toast tourist rapid south skull wedding velvet";
+var mnemonic = "claim observe hidden super way aware audit end much second theory cancel";

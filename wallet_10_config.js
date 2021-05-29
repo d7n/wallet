@@ -1,1 +1,1 @@
-var mnemonic = "close salmon violin ladder void nut detail wire proof novel hunt number";
+var mnemonic = "reason switch follow page boss daring antenna engine useless method slogan people";

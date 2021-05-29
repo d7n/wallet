@@ -1,1 +1,1 @@
-var mnemonic = "paddle pizza pair attract panic fault rely grit police praise throw plug";
+var mnemonic = "win virtual provide cotton together attract search brush leave gun require quality";

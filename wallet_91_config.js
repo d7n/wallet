@@ -1,1 +1,1 @@
-var mnemonic = "manual beauty mass decrease march apart cry rail army comic demand behind";
+var mnemonic = "front enrich goddess volume balance other imitate network learn draft apology behind";

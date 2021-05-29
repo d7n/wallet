@@ -1,1 +1,1 @@
-var mnemonic = "still actual total together culture sausage drastic move sad tree zone fluid";
+var mnemonic = "north south car divorce hire analyst program magic police elite eye ski";

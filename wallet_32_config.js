@@ -1,1 +1,1 @@
-var mnemonic = "dignity play frog wedding addict year soft brass kid recall copy sock";
+var mnemonic = "gold try concert canvas tower flock point same prepare buyer area rice";

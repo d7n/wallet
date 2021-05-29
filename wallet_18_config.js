@@ -1,1 +1,1 @@
-var mnemonic = "actress empower mandate afford enter list peanut essay draw satoshi fatal cupboard";
+var mnemonic = "unable eagle gap project item capable exotic ceiling pulse sort someone source";

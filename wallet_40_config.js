@@ -1,1 +1,1 @@
-var mnemonic = "spoon drip calm model blossom robot learn olympic heavy plunge soon pear";
+var mnemonic = "fly zone chalk error input rack borrow diagram impulse lake kick live";

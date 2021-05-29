@@ -1,1 +1,1 @@
-var mnemonic = "use joy rain ill river track crime demise pave embrace super promote";
+var mnemonic = "kitten myth spread web fun narrow derive bless blade skull shoot club";

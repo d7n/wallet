@@ -1,1 +1,1 @@
-var mnemonic = "sausage aunt ceiling master boy pig truck blouse predict mother dry kick";
+var mnemonic = "term fall swear lesson improve interest escape code blast cheap topic inherit";

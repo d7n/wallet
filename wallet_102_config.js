@@ -1,1 +1,1 @@
-var mnemonic = "fiber culture canoe play path park hamster equip worry tape enemy cable";
+var mnemonic = "waste story opera army high kick rely security taste pair unaware borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate rebel brave bind alley bullet emerge economy visual behave actor neither";
+var mnemonic = "bus black clerk divorce come school verify fence glass update taste cigar";

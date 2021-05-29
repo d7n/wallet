@@ -1,1 +1,1 @@
-var mnemonic = "verify legend park often card horse question tumble fork tenant crisp bar";
+var mnemonic = "reunion flat purchase reunion verify machine across warrior easily cram subway elite";

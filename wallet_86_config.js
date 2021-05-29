@@ -1,1 +1,1 @@
-var mnemonic = "erode hollow rival battle virus welcome robust habit stool sample filter hotel";
+var mnemonic = "swim broccoli census degree coffee reopen east online ozone shuffle that desk";

@@ -1,1 +1,1 @@
-var mnemonic = "blood intact tribe ramp van nuclear special choice left around hungry daring";
+var mnemonic = "combine supreme misery fever close hope pioneer goddess cake repair evil group";

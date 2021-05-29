@@ -1,1 +1,1 @@
-var mnemonic = "detect ring glove garage arena group select vast auto unable kidney neither";
+var mnemonic = "element virtual charge film deny demand silver soccer custom oak dose elder";

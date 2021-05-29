@@ -1,1 +1,1 @@
-var mnemonic = "digital attract skull bonus fish urban praise letter oil toddler genre lend";
+var mnemonic = "copper gorilla toss excess castle spatial forest device vanish soap drink menu";

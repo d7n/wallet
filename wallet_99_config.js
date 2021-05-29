@@ -1,1 +1,1 @@
-var mnemonic = "forget better wet credit lion scare reveal proof accident dignity visual sponsor";
+var mnemonic = "harsh segment neither social achieve brand silk enlist property large perfect science";

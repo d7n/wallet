@@ -1,1 +1,1 @@
-var mnemonic = "acid busy olive pizza urban cactus pool plunge upgrade sell field coconut";
+var mnemonic = "top jealous clinic between trash razor ski fun sphere dirt offer motor";

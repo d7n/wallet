@@ -1,1 +1,1 @@
-var mnemonic = "universe scale person rally improve rookie dumb globe grant embody staff plug";
+var mnemonic = "picnic source board circle swap into wisdom simple rapid replace struggle approve";

@@ -1,1 +1,1 @@
-var mnemonic = "album second demand language bottom crazy walnut human secret shuffle relief dance";
+var mnemonic = "ginger clip deputy rate more coast base arm chunk visit birth reduce";

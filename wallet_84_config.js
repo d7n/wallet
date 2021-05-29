@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fan civil sorry chuckle sport involve blame ketchup helmet abandon crater";
+var mnemonic = "must man young remove ride gasp alert attract brisk energy region ecology";

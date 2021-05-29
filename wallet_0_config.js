@@ -1,1 +1,1 @@
-var mnemonic = "combine twenty peasant taste follow radar lesson chicken hunt wing pioneer dilemma";
+var mnemonic = "lamp million scorpion wife spare youth seat sell age way calm saddle";

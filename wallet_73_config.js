@@ -1,1 +1,1 @@
-var mnemonic = "bacon drop fog apology recycle pistol piano guard true school soldier cat";
+var mnemonic = "twelve method dwarf theme popular card under display start dizzy false pistol";

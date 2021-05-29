@@ -1,1 +1,1 @@
-var mnemonic = "mom fame fault accident film father when when trap cheese blossom citizen";
+var mnemonic = "volume gaze alarm casino decline cruel food hint miracle slim spirit next";

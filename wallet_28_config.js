@@ -1,1 +1,1 @@
-var mnemonic = "stove hire lizard sock race move romance chest crack tell sponsor clock";
+var mnemonic = "more destroy addict egg sunny cause exhaust symbol drum slim pumpkin guilt";

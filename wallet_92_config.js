@@ -1,1 +1,1 @@
-var mnemonic = "jelly aisle pink unfair moment coast lava option reduce shrimp remove top";
+var mnemonic = "potato muscle bulb theme certain exercise this okay exhibit machine ten tone";

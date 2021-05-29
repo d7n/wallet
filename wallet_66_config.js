@@ -1,1 +1,1 @@
-var mnemonic = "pair number area core hint unhappy mind apple tired luggage poem nothing";
+var mnemonic = "certain amused emotion surge sleep liar garlic virus hen cheese phone knife";

@@ -1,1 +1,1 @@
-var mnemonic = "glad corn shuffle abandon puppy enhance include fiction panther tumble profit resemble";
+var mnemonic = "funny fluid repeat move undo economy dwarf cliff plunge sausage planet arrest";

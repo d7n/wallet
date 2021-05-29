@@ -1,1 +1,1 @@
-var mnemonic = "vapor vague swallow wife end mountain pumpkin radio kangaroo help faculty gesture";
+var mnemonic = "update turkey ecology eager industry predict chicken vacuum before drum laptop evoke";

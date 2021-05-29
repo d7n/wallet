@@ -1,1 +1,1 @@
-var mnemonic = "right bacon venue heavy connect siege save have carbon energy cram spend";
+var mnemonic = "just picnic feel used tag disagree neutral owner web lizard capital bleak";

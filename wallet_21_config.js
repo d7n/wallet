@@ -1,1 +1,1 @@
-var mnemonic = "impact vendor vague artefact away unable layer error kidney item vibrant pluck";
+var mnemonic = "urge pledge sell always crisp tail increase bone access toddler ketchup narrow";

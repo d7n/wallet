@@ -1,1 +1,1 @@
-var mnemonic = "dynamic work install popular tunnel bottom hurdle hundred smart until unhappy ranch";
+var mnemonic = "gap section dizzy cup feed hub swarm seat turkey limit payment hurdle";

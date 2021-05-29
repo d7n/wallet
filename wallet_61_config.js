@@ -1,1 +1,1 @@
-var mnemonic = "turn cram sudden strategy slab harvest afford multiply shell there replace anger";
+var mnemonic = "vintage damp powder tooth injury cycle today mammal child junk imitate carpet";

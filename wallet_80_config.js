@@ -1,1 +1,1 @@
-var mnemonic = "huge sniff copy convince clever series salt chicken own glue repair parade";
+var mnemonic = "glue cloud sock hotel island weasel typical danger visual furnace bag can";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup chicken demise large famous govern brown library eye person glance scrap";
+var mnemonic = "save useful robot shrug safe skirt noise stay hungry marble usage project";

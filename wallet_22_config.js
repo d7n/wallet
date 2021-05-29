@@ -1,1 +1,1 @@
-var mnemonic = "resource catch size image few noodle science dog acquire other dizzy spoon";
+var mnemonic = "same advice spot infant suffer canyon grow inhale expose biology push purpose";

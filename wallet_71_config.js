@@ -1,1 +1,1 @@
-var mnemonic = "taxi crime regular hard image coyote tomato flash come undo lizard endorse";
+var mnemonic = "elbow harbor size knife venue boat morning excuse blanket demise breeze busy";

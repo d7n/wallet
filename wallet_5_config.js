@@ -1,1 +1,1 @@
-var mnemonic = "state vehicle payment job mask dirt police bleak asset rice raise village";
+var mnemonic = "swarm increase fly prize zoo know disease admit company sure bonus violin";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi profit eye brush eagle size congress method around saddle middle dirt";
+var mnemonic = "aspect tent collect select timber pioneer hen crush village shed shadow exile";

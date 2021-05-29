@@ -1,1 +1,1 @@
-var mnemonic = "useless voyage term devote oyster promote side you advice rebuild sorry minimum";
+var mnemonic = "reduce cotton explain response decline they parent fitness pottery have army remain";

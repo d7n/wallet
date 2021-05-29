@@ -1,1 +1,1 @@
-var mnemonic = "tube giraffe shoot bitter hand twenty explain butter vehicle dutch proof elegant";
+var mnemonic = "bike caution tattoo empower front worry appear juice excuse steel taste inspire";

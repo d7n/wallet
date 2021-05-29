@@ -1,1 +1,1 @@
-var mnemonic = "clean move budget frown island melody reject mixture funny until orient wrestle";
+var mnemonic = "curtain brush wish source vivid talent eight deal portion purchase wrist huge";

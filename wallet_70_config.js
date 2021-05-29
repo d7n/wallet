@@ -1,1 +1,1 @@
-var mnemonic = "supreme enhance extra glass defense kick tennis august chief solar average setup";
+var mnemonic = "impact timber tilt upon brother stand leaf spare click chat scene prize";

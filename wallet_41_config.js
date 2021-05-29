@@ -1,1 +1,1 @@
-var mnemonic = "feature barrel chair size gift task find foam sadness glory crack boss";
+var mnemonic = "toilet wish memory crime element state vendor hour usage long throw key";

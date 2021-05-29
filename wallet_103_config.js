@@ -1,1 +1,1 @@
-var mnemonic = "goat beyond learn spare shrimp anger planet sight north end mountain dynamic";
+var mnemonic = "design sell business remain donate ankle health hundred loud trick search kiss";

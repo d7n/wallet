@@ -1,1 +1,1 @@
-var mnemonic = "north unaware fold steak damp retreat grant scrub yellow plunge jacket palace";
+var mnemonic = "glare have waste plastic claw airport catalog monitor bus tongue pistol sing";

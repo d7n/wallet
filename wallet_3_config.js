@@ -1,1 +1,1 @@
-var mnemonic = "swing group defy couple secret border load burger aerobic impose document ritual";
+var mnemonic = "able hour ethics soda season flag garden shy change spare veteran sphere";

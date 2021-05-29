@@ -1,1 +1,1 @@
-var mnemonic = "accident nasty bullet tray lawsuit error equip proof riot tower fox large";
+var mnemonic = "clown expect raccoon latin design brand release joy world cereal vacuum fluid";

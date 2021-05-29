@@ -1,1 +1,1 @@
-var mnemonic = "ride left snack dirt spatial actor onion mass beef balance hood dumb";
+var mnemonic = "black rebel scorpion gain travel garment clever aim employ spatial assault distance";

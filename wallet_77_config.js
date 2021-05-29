@@ -1,1 +1,1 @@
-var mnemonic = "caution hedgehog trigger chef text drive observe assault ostrich tiny lion gather";
+var mnemonic = "stomach history december sheriff lecture creek lounge sustain appear clog denial canyon";

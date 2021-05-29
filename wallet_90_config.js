@@ -1,1 +1,1 @@
-var mnemonic = "spin habit benefit wasp minute soon earn curtain teach melt gravity physical";
+var mnemonic = "planet quote dress firm require buffalo alter shoe pilot feel room dwarf";

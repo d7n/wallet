@@ -1,1 +1,1 @@
-var mnemonic = "clown govern awesome web member fire sorry reform gesture salon fruit ignore";
+var mnemonic = "tuition section lend hip bonus ankle top cash pair eagle habit tunnel";

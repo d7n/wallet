@@ -1,1 +1,1 @@
-var mnemonic = "dance shiver grape muffin token amused crystal diary romance joke faint hospital";
+var mnemonic = "basket endless scale dinner toy nest sister buyer floor cancel chunk garment";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket flavor invest typical envelope frequent intact vessel depth vault warrior kidney";
+var mnemonic = "crush there circle horror pause force waste connect bunker lounge supply company";

@@ -1,1 +1,1 @@
-var mnemonic = "snake inmate coin trade key token music december brush sauce book answer";
+var mnemonic = "minor rose champion spatial bicycle educate engage spike focus recycle naive fee";

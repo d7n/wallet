@@ -1,1 +1,1 @@
-var mnemonic = "heavy tongue repair visual horror humor pledge globe stereo picture prevent ivory";
+var mnemonic = "orphan icon admit buyer smile advice frozen soldier flee riot lava develop";

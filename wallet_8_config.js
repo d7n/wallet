@@ -1,1 +1,1 @@
-var mnemonic = "since comic diet gesture flash develop invite obscure diet normal able core";
+var mnemonic = "vehicle kidney snake undo identify sick arrive typical lab clever jaguar rebuild";

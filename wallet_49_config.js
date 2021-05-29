@@ -1,1 +1,1 @@
-var mnemonic = "ready model visit fiction stairs select stool clap ocean vehicle trophy scheme";
+var mnemonic = "talk tribe hour police bar pill power fat rescue lunar initial invest";

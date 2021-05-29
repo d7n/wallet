@@ -1,1 +1,1 @@
-var mnemonic = "element angry pioneer cry rice work steel begin item judge picture tilt";
+var mnemonic = "lock dynamic because again caught execute brush industry exile output gym govern";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile consider saddle demand obvious amused midnight diamond olive flight duck feed";
+var mnemonic = "run loan kingdom grief tuition prize strike olympic tag neither inherit before";

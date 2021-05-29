@@ -1,1 +1,1 @@
-var mnemonic = "moral country once flee more purchase daring rural purity shrug mean twelve";
+var mnemonic = "two toss apple evil island odor comic flash mesh burden swing beach";

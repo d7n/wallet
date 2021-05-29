@@ -1,1 +1,1 @@
-var mnemonic = "blue tiny cereal coyote pride near siren goose basic toddler vague office";
+var mnemonic = "fancy civil label they awful fantasy smooth negative long mother wide goddess";

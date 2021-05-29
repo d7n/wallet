@@ -1,1 +1,1 @@
-var mnemonic = "metal scene december angry moment thumb huge language inner brick meat image";
+var mnemonic = "record unique only barely expose together alien pink suit bunker prefer adjust";

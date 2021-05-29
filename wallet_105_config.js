@@ -1,1 +1,1 @@
-var mnemonic = "stairs tunnel laundry speed zone dolphin often universe cancel confirm mom way";
+var mnemonic = "nominee maid lounge parade paper ask barely more giant cancel appear drift";

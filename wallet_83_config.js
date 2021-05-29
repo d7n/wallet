@@ -1,1 +1,1 @@
-var mnemonic = "promote receive identify betray life blur search involve jewel mind copy hidden";
+var mnemonic = "result debate flavor open asset ghost celery kick rain penalty woman fiction";

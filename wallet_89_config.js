@@ -1,1 +1,1 @@
-var mnemonic = "tackle shallow goddess expire load lock scout novel stamp tortoise win endorse";
+var mnemonic = "vivid priority bar cause frame fashion story dash parade senior crucial over";

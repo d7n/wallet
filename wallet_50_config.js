@@ -1,1 +1,1 @@
-var mnemonic = "spike vivid innocent orphan false measure come attend flower decide buzz daring";
+var mnemonic = "dice enlist auction patch neck budget rib dress hen notice dolphin live";

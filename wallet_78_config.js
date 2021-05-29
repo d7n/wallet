@@ -1,1 +1,1 @@
-var mnemonic = "brush provide enable turn execute lake drama chaos oyster worry uncle useless";
+var mnemonic = "piece window couch jewel meadow weapon aim flavor spoon trouble chronic offer";

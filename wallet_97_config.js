@@ -1,1 +1,1 @@
-var mnemonic = "payment coil step photo federal faint tattoo switch resource iron anxiety alcohol";
+var mnemonic = "pottery height force gloom legal welcome old resist void fire soldier original";

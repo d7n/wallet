@@ -1,1 +1,1 @@
-var mnemonic = "tilt merit lumber era soda sock settle dwarf cloth train nominee cement";
+var mnemonic = "scissors near typical term elite manage smart local mail notice equal eyebrow";

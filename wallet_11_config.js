@@ -1,1 +1,1 @@
-var mnemonic = "window nose right below rival bonus prison cram rural own flash record";
+var mnemonic = "infant duty sunset ticket motion glue purity desk odor drum melody panel";

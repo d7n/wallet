@@ -1,1 +1,1 @@
-var mnemonic = "master scorpion various govern genuine beyond collect slide ensure bulk local outside";
+var mnemonic = "actor egg suit damp apology exhibit tag metal estate eight gorilla number";
