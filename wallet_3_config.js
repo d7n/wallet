@@ -1,1 +1,1 @@
-var mnemonic = "fitness balance review shoe urban scale timber apology spice rare insane inject";
+var mnemonic = "ball air size adapt broccoli main short drip despair convince knock tumble";

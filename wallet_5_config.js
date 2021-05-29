@@ -1,1 +1,1 @@
-var mnemonic = "noise copy buyer obey poverty extend rough chronic soldier enlist talk edge";
+var mnemonic = "raccoon solar fashion void gas diamond like punch kite fabric onion find";

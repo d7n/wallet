@@ -1,1 +1,1 @@
-var mnemonic = "wife dream tortoise rapid tattoo display captain indoor shop deny rude warfare";
+var mnemonic = "arctic winter organ warfare number excite clump cave main assist walk winner";

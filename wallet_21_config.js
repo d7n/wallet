@@ -1,1 +1,1 @@
-var mnemonic = "design biology cabbage minimum control quality sister bundle more lesson snack fruit";
+var mnemonic = "share actress shrug unfair praise enough poem peanut error barely recipe use";

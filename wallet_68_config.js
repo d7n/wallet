@@ -1,1 +1,1 @@
-var mnemonic = "umbrella skill category notable hollow chalk universe family company ten panel model";
+var mnemonic = "couple success phrase dove myth mechanic great screen make advice tower orange";

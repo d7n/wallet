@@ -1,1 +1,1 @@
-var mnemonic = "advance end bacon tattoo into timber always month left media rib ten";
+var mnemonic = "fashion glory fancy humor camera always fence nature gorilla toward glare mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "real fault power home finish enter tornado fashion wink air truly weird";
+var mnemonic = "alley glad toward minor art jacket race sign match ordinary enrich message";

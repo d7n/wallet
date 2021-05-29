@@ -1,1 +1,1 @@
-var mnemonic = "lunch cage shoe north alert common mercy motion eye track accuse awful";
+var mnemonic = "ugly busy outside core age limb huge pill charge proof desk company";

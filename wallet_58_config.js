@@ -1,1 +1,1 @@
-var mnemonic = "shuffle metal wash mesh prosper develop riot ensure solid polar ramp device";
+var mnemonic = "camera left switch minimum kitten addict zebra peanut physical beyond ecology chimney";

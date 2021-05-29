@@ -1,1 +1,1 @@
-var mnemonic = "refuse again fun bless sing bunker winter pony venue float over people";
+var mnemonic = "upset alter identify limb save keen govern before minimum rival museum abstract";

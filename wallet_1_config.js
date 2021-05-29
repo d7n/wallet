@@ -1,1 +1,1 @@
-var mnemonic = "spawn uniform toe anchor seminar million plate south hill arrest access come";
+var mnemonic = "patient plastic suit super digital harsh art surprise flock slight urban narrow";

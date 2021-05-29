@@ -1,1 +1,1 @@
-var mnemonic = "wisdom horse gesture siege young income true large focus hamster valid gorilla";
+var mnemonic = "exchange strategy express hip wet city shock identify crush begin beyond tomorrow";

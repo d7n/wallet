@@ -1,1 +1,1 @@
-var mnemonic = "finger dolphin kidney cause please action health song barrel oppose swap quote";
+var mnemonic = "fire kiwi will poverty brother when beyond beef dentist steak kit more";

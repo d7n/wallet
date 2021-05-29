@@ -1,1 +1,1 @@
-var mnemonic = "humble run couch practice inherit claim chat milk disagree pottery toy cook";
+var mnemonic = "bonus obscure habit hand device depart offer ignore viable claim ranch record";

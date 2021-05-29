@@ -1,1 +1,1 @@
-var mnemonic = "relax source hard room three mercy dove ski jazz census recall walk";
+var mnemonic = "giant cherry license west anger recall video enrich chat dawn fan okay";

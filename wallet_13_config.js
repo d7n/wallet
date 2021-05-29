@@ -1,1 +1,1 @@
-var mnemonic = "world earth danger stadium behind spray occur inform humor album firm ripple";
+var mnemonic = "asthma hurt mention tortoise monkey reject return ozone employ buyer egg swallow";

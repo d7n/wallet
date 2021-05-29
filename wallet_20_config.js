@@ -1,1 +1,1 @@
-var mnemonic = "analyst suffer soap found net garment door bless skill habit give enhance";
+var mnemonic = "question require color lobster spice small require elephant purse exact hidden excuse";

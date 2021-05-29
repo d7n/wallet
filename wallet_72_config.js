@@ -1,1 +1,1 @@
-var mnemonic = "trap job master access sugar cash atom sand mean close wreck top";
+var mnemonic = "century modify scrub wife measure mix filter angry diet first dentist nation";

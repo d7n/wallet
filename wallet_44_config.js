@@ -1,1 +1,1 @@
-var mnemonic = "barely between fade strong metal digital crystal dash abandon shell fall harsh";
+var mnemonic = "culture license depend swamp solution bamboo finish party absent cancel unit quick";

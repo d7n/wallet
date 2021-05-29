@@ -1,1 +1,1 @@
-var mnemonic = "trend nice kangaroo sheriff damage mean crew link fog clay beef raw";
+var mnemonic = "coil conduct purse forum market ginger another share retreat point gorilla purse";

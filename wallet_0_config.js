@@ -1,1 +1,1 @@
-var mnemonic = "flush visa host river sausage smile nasty solution fame device defy endorse";
+var mnemonic = "flash lounge law forget apart provide drama curtain zone silk skate flock";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil reveal ice front lawn dinosaur window degree diary drive oxygen ignore";
+var mnemonic = "tuna brain dawn nuclear educate gown flight able empty sad journey great";

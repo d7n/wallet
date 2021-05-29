@@ -1,1 +1,1 @@
-var mnemonic = "price among explain risk warfare make fork moment balance used copy debate";
+var mnemonic = "cube language ridge maze head express festival urge wave range run apart";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey since depart witness amount actor begin humor nest trade pepper proof";
+var mnemonic = "luxury apology oblige rhythm suspect episode family space define raise border fragile";

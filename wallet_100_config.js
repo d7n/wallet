@@ -1,1 +1,1 @@
-var mnemonic = "little same marriage dizzy usual soft tooth ridge require round people round";
+var mnemonic = "belt offer vocal soda work vanish people mistake lobster surprise zebra basic";

@@ -1,1 +1,1 @@
-var mnemonic = "require stem drink bicycle diamond switch salmon ill bronze theme leaf lunar";
+var mnemonic = "must chaos town seat discover sad rug quiz length frown setup interest";

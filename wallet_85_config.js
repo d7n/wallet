@@ -1,1 +1,1 @@
-var mnemonic = "midnight obscure people crime credit slab remind steel shrug spare square surge";
+var mnemonic = "donkey rose woman scrub focus ribbon novel good that spice among fortune";

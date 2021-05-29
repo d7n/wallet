@@ -1,1 +1,1 @@
-var mnemonic = "skate alter artist weasel exotic client please resist shine news price office";
+var mnemonic = "lazy good skin effort receive cradle famous roof talk devote outer wish";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic hammer clay oil suit emerge harsh empower magnet pigeon spell top";
+var mnemonic = "gasp orchard manual kite boost mule train century burden recipe motor sleep";

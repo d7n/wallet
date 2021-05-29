@@ -1,1 +1,1 @@
-var mnemonic = "sail picnic park honey reform oven practice plunge photo brown furnace shrimp";
+var mnemonic = "head ride during number slim loud increase debate upon measure toy ahead";

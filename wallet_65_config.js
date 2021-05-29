@@ -1,1 +1,1 @@
-var mnemonic = "display oval put core useful allow vapor arrest bid water please spy";
+var mnemonic = "awake duck region retire pole version seat hold wet recipe arena neck";

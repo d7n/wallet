@@ -1,1 +1,1 @@
-var mnemonic = "devote gesture skate opinion relax coil asset rubber suggest limit wet merit";
+var mnemonic = "subject orange tomato alert fluid announce govern age mystery story error echo";

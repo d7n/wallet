@@ -1,1 +1,1 @@
-var mnemonic = "young shield pigeon tattoo hollow pudding hold salt tomato humor reduce vibrant";
+var mnemonic = "cherry steak embark test lonely ghost cotton side oblige lens depend insane";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza shiver drama produce pitch control spice text else attend atom gallery";
+var mnemonic = "lonely ladder quit rally order club uncle kitchen divert bubble mobile tourist";

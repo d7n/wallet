@@ -1,1 +1,1 @@
-var mnemonic = "shift include bus museum erupt hero desk rack bean total chuckle glimpse";
+var mnemonic = "hand census observe alley famous door secret sentence debris lounge skate candy";

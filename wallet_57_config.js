@@ -1,1 +1,1 @@
-var mnemonic = "symbol phrase brave peace evoke wide ugly replace impose hidden seed kangaroo";
+var mnemonic = "broccoli together noble hood wash estate excuse toward shaft gallery swamp joke";

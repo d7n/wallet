@@ -1,1 +1,1 @@
-var mnemonic = "purpose park walk popular unable stairs seminar focus year script surprise earn";
+var mnemonic = "cloud silk veteran strong lazy strategy exclude riot report hawk educate bargain";

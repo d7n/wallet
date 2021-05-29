@@ -1,1 +1,1 @@
-var mnemonic = "idea lazy dune youth violin coffee lion diesel slice later visual lounge";
+var mnemonic = "orbit utility correct leg afford seat image rival possible lake loud behave";

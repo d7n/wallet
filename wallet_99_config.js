@@ -1,1 +1,1 @@
-var mnemonic = "fiction clip stay project comfort gun claim install need swarm process trumpet";
+var mnemonic = "remove buffalo fury master update list wine update still symptom moral exchange";

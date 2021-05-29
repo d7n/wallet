@@ -1,1 +1,1 @@
-var mnemonic = "welcome avocado exact find pioneer matrix talk suffer lizard door adult orbit";
+var mnemonic = "spoil someone first kiss cinnamon oven spike draw viable gospel olympic evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "convince state melody second when acid abuse inquiry key favorite alert aim";
+var mnemonic = "core cage artwork shine useless bar island silk shrug cycle coin green";

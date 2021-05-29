@@ -1,1 +1,1 @@
-var mnemonic = "prosper plastic enter surround found option office area raven chronic monitor swear";
+var mnemonic = "core tobacco goat relief office earth olympic kitten slot quit exact wash";

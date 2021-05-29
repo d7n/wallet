@@ -1,1 +1,1 @@
-var mnemonic = "grain crew science silly brain motor prison emotion fox fold parrot celery";
+var mnemonic = "boss coin struggle region disease tired toward tenant enact humor usage invest";

@@ -1,1 +1,1 @@
-var mnemonic = "clog blast layer peasant autumn labor ceiling absent label undo alter popular";
+var mnemonic = "chalk parade winner coyote purpose wall secret smart water coral evidence speed";

@@ -1,1 +1,1 @@
-var mnemonic = "kit sting assist permit valley answer arrive shrug purse infant wine anchor";
+var mnemonic = "fancy sheriff apple decade equal hazard fatal forum away private garment impact";

@@ -1,1 +1,1 @@
-var mnemonic = "concert dutch orbit plastic about general velvet antenna prefer autumn mango nest";
+var mnemonic = "inch bless this save alert spice input require train gym fitness universe";

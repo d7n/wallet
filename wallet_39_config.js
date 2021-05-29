@@ -1,1 +1,1 @@
-var mnemonic = "gravity avocado recipe boil cash say render awful still sad same lava";
+var mnemonic = "awake ecology eye civil boy girl trade observe shrimp traffic sunny soul";

@@ -1,1 +1,1 @@
-var mnemonic = "public subject chase vocal fog stumble gown club seven gap between general";
+var mnemonic = "attract avocado word creek wait circle nasty adapt push catalog teach price";

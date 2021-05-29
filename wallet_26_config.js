@@ -1,1 +1,1 @@
-var mnemonic = "topple pole gap cinnamon camp bring wasp rate push history stereo car";
+var mnemonic = "style genuine olympic gas rhythm prevent turkey great peace drum dance remain";

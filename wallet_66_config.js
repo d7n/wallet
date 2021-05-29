@@ -1,1 +1,1 @@
-var mnemonic = "mesh income hair wreck cost humble quarter obvious someone rebuild merit oil";
+var mnemonic = "sphere inner sustain blind beach shine cigar until stuff lottery regret film";

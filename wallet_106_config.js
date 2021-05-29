@@ -1,1 +1,1 @@
-var mnemonic = "legal april cereal vacuum must satoshi frost spice soft trip situate happy";
+var mnemonic = "welcome great indicate kitchen secret beach orange rich trip announce claw audit";

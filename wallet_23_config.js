@@ -1,1 +1,1 @@
-var mnemonic = "siren ivory joke add together arrive lazy bid oval canvas column spoon";
+var mnemonic = "feature foam raw capable web echo perfect dolphin empower ten below evolve";

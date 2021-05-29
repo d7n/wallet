@@ -1,1 +1,1 @@
-var mnemonic = "father fiscal assume claw enjoy grain raccoon income enlist define answer abuse";
+var mnemonic = "green brush goose pilot vintage afraid target east habit logic delay grid";

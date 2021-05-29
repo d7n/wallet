@@ -1,1 +1,1 @@
-var mnemonic = "car hurt carpet between shy rely actor anger list control flip what";
+var mnemonic = "thumb aisle employ try shiver cupboard cream loud mushroom develop latin carbon";

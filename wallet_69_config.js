@@ -1,1 +1,1 @@
-var mnemonic = "corn tower canal skill meat broom morning topic elbow cruise giant twin";
+var mnemonic = "zero fashion path tongue radio ginger grocery ready biology frequent force curtain";

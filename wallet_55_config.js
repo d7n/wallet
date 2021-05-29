@@ -1,1 +1,1 @@
-var mnemonic = "wine museum lumber term work purse pizza luggage inject spawn despair argue";
+var mnemonic = "recall fade public moral grant acquire cheese private flag access wool bridge";

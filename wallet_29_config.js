@@ -1,1 +1,1 @@
-var mnemonic = "festival return state during cake cat ignore narrow rebel access easy logic";
+var mnemonic = "cereal fat inhale tragic arrest since clarify appear era report wear sail";

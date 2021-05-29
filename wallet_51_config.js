@@ -1,1 +1,1 @@
-var mnemonic = "toss trumpet kingdom vicious famous journey teach embark finish gloom green various";
+var mnemonic = "predict grief raise habit amused blind because right play educate dance trap";

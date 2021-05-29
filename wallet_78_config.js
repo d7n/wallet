@@ -1,1 +1,1 @@
-var mnemonic = "inject vessel coil bullet hobby dawn either joke option abstract endless supreme";
+var mnemonic = "elite hole bleak dizzy taste just hungry casino mother response grunt much";

@@ -1,1 +1,1 @@
-var mnemonic = "render mechanic near oak advice because will exhaust become man smile such";
+var mnemonic = "buddy athlete cover address speak again slim fault surround wire fringe voyage";

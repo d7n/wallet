@@ -1,1 +1,1 @@
-var mnemonic = "scissors orange smoke monitor fury problem photo already expand bright mask awkward";
+var mnemonic = "sad steel ship guitar party gesture cry fox cart stumble prize design";

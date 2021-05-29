@@ -1,1 +1,1 @@
-var mnemonic = "height farm inner cost crumble festival click soon sphere annual reform rug";
+var mnemonic = "famous initial fluid sample weekend strong erupt bottom try where inmate twenty";

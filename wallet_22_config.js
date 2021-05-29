@@ -1,1 +1,1 @@
-var mnemonic = "like eagle transfer offer october craft spray only scene chase animal shop";
+var mnemonic = "piece flavor check asset stamp boss gallery fantasy crop bone shy cage";

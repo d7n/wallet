@@ -1,1 +1,1 @@
-var mnemonic = "bid govern multiply planet cause cotton job trigger horse where badge hazard";
+var mnemonic = "move approve polar shoe solar such critic force rug cram juice oblige";

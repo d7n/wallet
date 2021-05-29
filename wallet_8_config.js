@@ -1,1 +1,1 @@
-var mnemonic = "prosper drum matter frame nothing purpose police cover account kiss govern eternal";
+var mnemonic = "dash mercy right say aerobic spider spirit lady conduct winter submit urge";

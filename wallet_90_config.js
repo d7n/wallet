@@ -1,1 +1,1 @@
-var mnemonic = "cereal illness save enrich city cave tube slender busy invite correct turn";
+var mnemonic = "trip similar possible return boost ball armed fiscal viable during loud mean";

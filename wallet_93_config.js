@@ -1,1 +1,1 @@
-var mnemonic = "labor sell stamp swarm visual lady abstract scheme perfect remember cat evil";
+var mnemonic = "load glide aspect make essence health chat parade mesh repair blast supply";

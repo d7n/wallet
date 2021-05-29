@@ -1,1 +1,1 @@
-var mnemonic = "brother honey radar upper mirror genre lamp virus license harbor journey detail";
+var mnemonic = "wagon legend pull error exotic sheriff poet crumble enemy seat used employ";

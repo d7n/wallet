@@ -1,1 +1,1 @@
-var mnemonic = "tumble human beyond found tag auto spot impose boring hover inform honey";
+var mnemonic = "elegant scout trust advance aisle broom reduce index adapt achieve loan smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "thank fetch secret leave express flush stereo famous balcony impose ramp popular";
+var mnemonic = "oven tonight boat elite palace consider alley original tone project wish protect";

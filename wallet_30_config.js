@@ -1,1 +1,1 @@
-var mnemonic = "mystery letter auction ten noodle host glass current cluster illness eight soda";
+var mnemonic = "recycle give guess slab purpose sunset price slogan wool able toy tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "noise sword lecture render domain slice gold sphere soon trust novel royal";
+var mnemonic = "violin soft lion paper fat major urban increase almost october author path";

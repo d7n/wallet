@@ -1,1 +1,1 @@
-var mnemonic = "cream speak cherry message mule typical swamp wolf mobile latin tattoo clap";
+var mnemonic = "gauge penalty drive spin problem exclude amazing wife glory drink alarm armed";

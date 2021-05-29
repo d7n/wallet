@@ -1,1 +1,1 @@
-var mnemonic = "about radio luggage asthma powder minimum scare unfold worry start nose write";
+var mnemonic = "iron treat response share day talk faint mountain solid wire pyramid clump";

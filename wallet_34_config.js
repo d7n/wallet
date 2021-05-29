@@ -1,1 +1,1 @@
-var mnemonic = "text visual scatter amount aisle claw square old fury vanish diary tornado";
+var mnemonic = "unfair defy embody because spice oxygen bean cement protect easily voice student";

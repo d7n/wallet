@@ -1,1 +1,1 @@
-var mnemonic = "favorite just area audit kite opera venture more suspect nurse pattern genuine";
+var mnemonic = "cactus limit lend butter midnight empty chunk unique truly blouse power razor";

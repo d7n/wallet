@@ -1,1 +1,1 @@
-var mnemonic = "tree scheme moral satoshi carpet eager carry lottery hungry fine arena flock";
+var mnemonic = "creek custom speak panther soda net awkward assist poverty future hurt board";

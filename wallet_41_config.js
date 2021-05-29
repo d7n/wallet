@@ -1,1 +1,1 @@
-var mnemonic = "grab priority antenna spread warrior trend noise gift critic warm sail machine";
+var mnemonic = "output squeeze below ugly faint weekend erode roast flush shed skin crisp";

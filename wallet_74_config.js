@@ -1,1 +1,1 @@
-var mnemonic = "pudding copper journey balcony alcohol scatter lesson anger cover wonder web ride";
+var mnemonic = "dynamic hurry morning review slab bread scout lumber rubber vague guide script";

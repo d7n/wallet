@@ -1,1 +1,1 @@
-var mnemonic = "okay secret sense skin wasp bind truth best diamond vapor boss oppose";
+var mnemonic = "relax vital mammal chicken scale knock upon soap confirm odor success plate";

@@ -1,1 +1,1 @@
-var mnemonic = "between tube useful gentle today uncover draft cricket public two stuff hover";
+var mnemonic = "knee mistake lion erosion shallow bunker reject awesome what web plastic until";

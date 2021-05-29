@@ -1,1 +1,1 @@
-var mnemonic = "flag kite fall pizza they true report taste tumble two destroy lecture";
+var mnemonic = "episode attack ready spoon bind evoke yellow yellow kingdom attack during quit";
