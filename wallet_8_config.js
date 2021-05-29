@@ -1,1 +1,1 @@
-var mnemonic = "same mirror equip dance chimney elegant portion waste inject punch sea secret";
+var mnemonic = "badge wheat menu doctor certain quarter symbol couple divorce term west lamp";

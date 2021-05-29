@@ -1,1 +1,1 @@
-var mnemonic = "same odor grape blind inmate this clap crisp rib seminar layer reflect";
+var mnemonic = "oil rather suspect forget news soda toilet silver already catalog surround rent";

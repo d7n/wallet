@@ -1,1 +1,1 @@
-var mnemonic = "clever siege skull shoe pretty barely valve unfold monitor aisle submit mixture";
+var mnemonic = "glide flip use rebel naive penalty bird rare reveal ripple summer chat";

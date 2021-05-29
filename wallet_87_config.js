@@ -1,1 +1,1 @@
-var mnemonic = "feel fence empty help increase eight pen filter cloud waste decrease dial";
+var mnemonic = "drill mercy ugly pond cup dream wait valley brown extra sun balance";

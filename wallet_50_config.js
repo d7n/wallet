@@ -1,1 +1,1 @@
-var mnemonic = "blood people jeans display lucky worth unfold security mango found rice salad";
+var mnemonic = "rate novel suffer pact wall brisk image attitude bulk off monitor cluster";

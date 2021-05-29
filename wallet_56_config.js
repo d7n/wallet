@@ -1,1 +1,1 @@
-var mnemonic = "snap now famous buffalo forum muscle ketchup engine fatigue pluck pair village";
+var mnemonic = "sell gift peanut chief token vehicle correct blast fringe gadget logic era";

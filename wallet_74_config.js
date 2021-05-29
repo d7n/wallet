@@ -1,1 +1,1 @@
-var mnemonic = "diet heavy shallow key random alley century frame tide spoil rapid below";
+var mnemonic = "twin artist fantasy mango item quarter citizen feature snake chicken security orbit";

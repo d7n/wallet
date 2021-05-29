@@ -1,1 +1,1 @@
-var mnemonic = "spend world sing step guilt airport stone dentist valve sadness awkward column";
+var mnemonic = "kiss doctor leg simple mirror exclude ivory bulb breeze dinner luggage cheese";

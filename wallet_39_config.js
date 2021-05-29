@@ -1,1 +1,1 @@
-var mnemonic = "dawn display device era industry romance silent twelve syrup bridge jaguar execute";
+var mnemonic = "hint slush subway garbage list hybrid pistol dilemma divide air umbrella stone";

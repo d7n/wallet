@@ -1,1 +1,1 @@
-var mnemonic = "renew sister color fringe trash risk option wagon person panther patch buzz";
+var mnemonic = "claim panel build load deliver crime fiscal rally odor acid cereal name";

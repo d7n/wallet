@@ -1,1 +1,1 @@
-var mnemonic = "sweet stove neglect remove glow stamp famous churn please cruise cattle purchase";
+var mnemonic = "invest castle grocery kingdom enact input beef resemble guilt elite unfair ahead";

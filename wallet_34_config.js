@@ -1,1 +1,1 @@
-var mnemonic = "aspect identify manual mountain consider pattern champion judge color total fatigue focus";
+var mnemonic = "aspect novel skull prepare thunder stairs future case parent dose drastic teach";

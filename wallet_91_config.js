@@ -1,1 +1,1 @@
-var mnemonic = "spike cause fat achieve drink stage great turkey bean leaf monitor adapt";
+var mnemonic = "leaf guitar depth fossil brain display master gesture shy click net fatal";

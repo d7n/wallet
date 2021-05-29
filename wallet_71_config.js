@@ -1,1 +1,1 @@
-var mnemonic = "try insane tornado sleep answer camp they ancient goose panic obtain rally";
+var mnemonic = "tobacco inhale remain future shell observe room marriage cloud vocal spend jungle";

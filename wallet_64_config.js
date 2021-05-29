@@ -1,1 +1,1 @@
-var mnemonic = "surface friend fetch update menu glide keen beauty memory genius reason lift";
+var mnemonic = "believe mass gallery rhythm betray mirror slam father alarm critic public arrow";

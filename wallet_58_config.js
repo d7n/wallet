@@ -1,1 +1,1 @@
-var mnemonic = "gift weasel lens broken dirt february often already divide typical enemy jelly";
+var mnemonic = "market neither toddler ride glide copy process embark treat grape clip limit";

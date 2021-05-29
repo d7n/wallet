@@ -1,1 +1,1 @@
-var mnemonic = "illegal detect humble monitor carbon punch palace knock enjoy call hollow daughter";
+var mnemonic = "split conduct able fringe praise parent saddle cloud learn citizen hawk august";

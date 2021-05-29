@@ -1,1 +1,1 @@
-var mnemonic = "dove talk student decrease web anger short model drop survey fault dinosaur";
+var mnemonic = "sadness soft invest error chef badge library extend load play coach curtain";

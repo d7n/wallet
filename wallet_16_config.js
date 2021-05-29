@@ -1,1 +1,1 @@
-var mnemonic = "hammer dove army word slim into genius violin inspire crop immune weather";
+var mnemonic = "tuition calm child airport prize slush leisure moon pelican august army royal";

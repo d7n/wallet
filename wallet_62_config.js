@@ -1,1 +1,1 @@
-var mnemonic = "clutch autumn elegant detail physical evoke dress snow bracket lecture lemon trouble";
+var mnemonic = "cross muffin sausage silent online visit travel race cactus among hood shop";

@@ -1,1 +1,1 @@
-var mnemonic = "heart light pupil limb upper surface admit piece detect easily remind display";
+var mnemonic = "swing scout fitness section mirror demise example erupt vote urban inflict hobby";

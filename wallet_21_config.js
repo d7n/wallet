@@ -1,1 +1,1 @@
-var mnemonic = "swamp gorilla mosquito hurry mixed circle act vague doll early crash village";
+var mnemonic = "town ball task cram people fiber pretty light educate visit memory world";

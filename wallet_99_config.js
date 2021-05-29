@@ -1,1 +1,1 @@
-var mnemonic = "achieve vehicle trust climb about work school woman window together chaos kick";
+var mnemonic = "scorpion divorce manual amused chronic sick genre ability fade crane risk right";

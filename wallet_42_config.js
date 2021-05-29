@@ -1,1 +1,1 @@
-var mnemonic = "science glory improve strong crop debris wise deputy region wide employ drink";
+var mnemonic = "swallow romance school around weasel legend tooth acid fault excuse elbow brother";

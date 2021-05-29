@@ -1,1 +1,1 @@
-var mnemonic = "dismiss again fault dawn depend impulse shoulder interest race confirm match fiber";
+var mnemonic = "bean unit cigar season faint staff leaf tackle achieve occur hollow use";

@@ -1,1 +1,1 @@
-var mnemonic = "juice soldier awesome skull manage reward wall false act solve glide setup";
+var mnemonic = "dignity dash earth cabin spike reform roof twin dove device page lunch";

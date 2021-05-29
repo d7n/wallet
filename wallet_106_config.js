@@ -1,1 +1,1 @@
-var mnemonic = "arrow spell chuckle sustain vintage orbit warrior pioneer trumpet satisfy initial scare";
+var mnemonic = "drop ball indicate receive symptom plate use upon know traffic pizza mammal";

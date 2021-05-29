@@ -1,1 +1,1 @@
-var mnemonic = "gentle vague badge hobby control action panther pair easy reveal slight trap";
+var mnemonic = "balcony huge shift hidden switch issue main dress tired useful toe type";

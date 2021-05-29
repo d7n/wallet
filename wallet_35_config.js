@@ -1,1 +1,1 @@
-var mnemonic = "detail transfer core barely decide century subject crumble great train session card";
+var mnemonic = "fresh sphere warfare gap iron stool shallow design loop favorite alter token";

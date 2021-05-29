@@ -1,1 +1,1 @@
-var mnemonic = "auction pumpkin fog task require basket win range whip absent need cup";
+var mnemonic = "saddle garment bind absent move mimic win exhibit choose worth dose south";

@@ -1,1 +1,1 @@
-var mnemonic = "believe banana build page lottery february phone sheriff degree loan crazy sibling";
+var mnemonic = "anxiety fuel choice immune awake display drama talent season novel team say";

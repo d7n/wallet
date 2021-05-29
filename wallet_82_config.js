@@ -1,1 +1,1 @@
-var mnemonic = "leisure slim glue useful art observe pause response swamp emerge truly chase";
+var mnemonic = "lizard security immune ghost dizzy case romance exact word glass credit equal";

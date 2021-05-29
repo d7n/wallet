@@ -1,1 +1,1 @@
-var mnemonic = "picture artist carpet mom assume supreme ketchup start praise luxury rule dolphin";
+var mnemonic = "crazy derive month miss task now age antique pitch pull audit scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong garage pitch rotate funny already narrow repair skill lobster order spray";
+var mnemonic = "enter hockey enemy office toe laugh kiwi mixed ribbon verb cereal sell";

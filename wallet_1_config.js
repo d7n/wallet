@@ -1,1 +1,1 @@
-var mnemonic = "spike knife plunge supreme habit wear mammal travel eyebrow unaware chapter island";
+var mnemonic = "lens memory disagree tired trade review skull uncle text ethics brave knock";

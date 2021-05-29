@@ -1,1 +1,1 @@
-var mnemonic = "spice brush purse skull rebuild effort spoon push coconut service keen glow";
+var mnemonic = "nut average market corn cheap can panther will mule drop outer hello";

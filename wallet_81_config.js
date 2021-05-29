@@ -1,1 +1,1 @@
-var mnemonic = "novel wrestle tobacco youth clever blade mom frog betray alert garbage volume";
+var mnemonic = "about tool car eight give april elder canvas rural park math north";

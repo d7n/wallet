@@ -1,1 +1,1 @@
-var mnemonic = "fruit embody renew arrest balcony boost deputy comic column pipe swallow enlist";
+var mnemonic = "describe grit brick gift matrix equip ritual road fine loop evolve easy";

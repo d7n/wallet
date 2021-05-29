@@ -1,1 +1,1 @@
-var mnemonic = "twelve torch unaware sleep phrase elephant melody receive used beef barrel action";
+var mnemonic = "assault mouse old glove pull glance elder stand treat cradle later original";

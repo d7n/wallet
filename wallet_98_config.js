@@ -1,1 +1,1 @@
-var mnemonic = "drink sausage limit bicycle rebuild fold uncover huge matrix analyst adult soup";
+var mnemonic = "merry tornado uncle live nation verb bulb inject pottery boss casino hair";

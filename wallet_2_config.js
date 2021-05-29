@@ -1,1 +1,1 @@
-var mnemonic = "trim cruel coyote surge grab bundle average process blue purchase stone kite";
+var mnemonic = "beauty laundry share thunder draft acquire simple coil ignore grant relief scout";

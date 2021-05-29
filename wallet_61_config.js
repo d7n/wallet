@@ -1,1 +1,1 @@
-var mnemonic = "road stairs depth vacant old brain media speak toss omit movie kite";
+var mnemonic = "happy okay bus train comic trash retire carpet program surge repeat hair";

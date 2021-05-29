@@ -1,1 +1,1 @@
-var mnemonic = "rural seven remain emotion scissors refuse odor plug can apology tissue kitchen";
+var mnemonic = "rifle radar clip drip gap crawl bundle option strategy cotton decade worth";

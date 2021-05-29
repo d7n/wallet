@@ -1,1 +1,1 @@
-var mnemonic = "please tray faint shop session electric kingdom tonight melody blush enable guard";
+var mnemonic = "woman explain such pass tongue thrive oven occur lazy doll feel reform";

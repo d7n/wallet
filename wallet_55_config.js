@@ -1,1 +1,1 @@
-var mnemonic = "radar razor camp post mosquito pony amused expose stem cancel scare blanket";
+var mnemonic = "topic need immune butter chalk unit distance explain blame adapt drink caught";

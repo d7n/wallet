@@ -1,1 +1,1 @@
-var mnemonic = "thought bulb garden make save guitar wash sister air tornado session jazz";
+var mnemonic = "gloom margin crack because merit loyal leisure abandon approve race bachelor mass";

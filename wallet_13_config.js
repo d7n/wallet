@@ -1,1 +1,1 @@
-var mnemonic = "menu crouch anchor trust level business mystery voice later census flower column";
+var mnemonic = "comfort iron maid enable crunch stamp vast symptom fly detail desk entry";

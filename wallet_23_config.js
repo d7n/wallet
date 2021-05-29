@@ -1,1 +1,1 @@
-var mnemonic = "aware little latin double penalty initial globe banner battle mango state behave";
+var mnemonic = "broken confirm maximum rough reopen box oxygen scare among dove reunion essence";

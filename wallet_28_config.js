@@ -1,1 +1,1 @@
-var mnemonic = "glance creek light crack sword add estate pride exist addict control risk";
+var mnemonic = "accident ride electric project emerge craft omit orient kite pattern price coffee";

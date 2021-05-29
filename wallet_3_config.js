@@ -1,1 +1,1 @@
-var mnemonic = "genre opinion quality agree urban problem umbrella green dune sadness isolate crush";
+var mnemonic = "phone opinion flee clip custom gain garlic traffic wheel fee dress subway";

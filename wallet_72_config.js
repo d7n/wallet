@@ -1,1 +1,1 @@
-var mnemonic = "upgrade theme visit asthma record crew august mention popular power great assume";
+var mnemonic = "swarm observe myth loop enforce brand slam antique elephant card warm symptom";

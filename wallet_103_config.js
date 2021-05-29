@@ -1,1 +1,1 @@
-var mnemonic = "candy that web heart soda limb sure young ride blur enjoy ranch";
+var mnemonic = "marriage age claim crisp issue pink dismiss mountain inner spider smoke hen";

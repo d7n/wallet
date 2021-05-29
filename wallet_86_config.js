@@ -1,1 +1,1 @@
-var mnemonic = "ask toss denial symbol poem spider vintage rhythm you used mass axis";
+var mnemonic = "service conduct income gasp avoid fabric rare slab more regular diesel ivory";

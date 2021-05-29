@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow skin essay palace crucial sadness sign hazard error panic text sunset";
+var mnemonic = "hotel apology relax spread increase path column silk live cross used spawn";

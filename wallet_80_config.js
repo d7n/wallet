@@ -1,1 +1,1 @@
-var mnemonic = "budget luxury destroy what caught noble behind later better joy bag dance";
+var mnemonic = "sword axis scatter people future option capital unique deliver right insane better";

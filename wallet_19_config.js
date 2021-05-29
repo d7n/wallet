@@ -1,1 +1,1 @@
-var mnemonic = "pass tone trigger rally kiss lift thank detail open sock planet hole";
+var mnemonic = "between divide pole rate trim afraid list uniform foam hour demise when";

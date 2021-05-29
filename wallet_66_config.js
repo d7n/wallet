@@ -1,1 +1,1 @@
-var mnemonic = "income blur okay jar like require stuff maze february record country tent";
+var mnemonic = "faint produce horn humor lab cable income flight logic someone already carbon";

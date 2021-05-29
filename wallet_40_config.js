@@ -1,1 +1,1 @@
-var mnemonic = "render asthma jacket broccoli pupil permit toe deer letter agent private video";
+var mnemonic = "december castle artefact hamster genuine begin lend life volcano hub market badge";

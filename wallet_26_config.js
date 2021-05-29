@@ -1,1 +1,1 @@
-var mnemonic = "patch slam polar engage refuse suspect essence canyon artwork dune torch daughter";
+var mnemonic = "discover wealth food ability update scrub remove daughter assume visual dutch timber";

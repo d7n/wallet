@@ -1,1 +1,1 @@
-var mnemonic = "photo popular erosion front two reform discover desk smile depart frog please";
+var mnemonic = "truck feel parade sound energy furnace cake service deposit chat office lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "twist noble pen stone train symbol mind six cushion scorpion link omit";
+var mnemonic = "topic debate century reward skill december radio dinner give alarm polar unveil";

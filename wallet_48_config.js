@@ -1,1 +1,1 @@
-var mnemonic = "mechanic belt nerve patrol lounge debris husband genre guard guess inflict trophy";
+var mnemonic = "gown once dance cycle feel detail fame awake tape author million arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "west unfair lady pet ice scrub ask magic affair receive attack eyebrow";
+var mnemonic = "fence sorry wide laugh work life popular distance reward wrist aim slot";

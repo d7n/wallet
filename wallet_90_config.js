@@ -1,1 +1,1 @@
-var mnemonic = "friend basic edit music snow area magnet cream elder machine unable biology";
+var mnemonic = "audit pudding lend balance trial almost recall very green chaos bubble menu";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew good quote harvest mesh present master curious oppose speak amused attack";
+var mnemonic = "can carbon chat myth pear reason satoshi circle dinner review swear share";

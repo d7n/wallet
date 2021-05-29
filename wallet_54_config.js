@@ -1,1 +1,1 @@
-var mnemonic = "hub else achieve maple quit govern ocean normal kitten rigid mixed juice";
+var mnemonic = "urban turn iron collect energy pluck student cabin pelican present script diary";

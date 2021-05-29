@@ -1,1 +1,1 @@
-var mnemonic = "mail path wonder fault transfer occur cook detect prepare envelope glare rhythm";
+var mnemonic = "amateur ride flush interest retreat despair hole latin remain stable bronze frame";

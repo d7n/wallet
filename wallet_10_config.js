@@ -1,1 +1,1 @@
-var mnemonic = "castle question lady cheap fiction fruit sick include blame peace imitate basic";
+var mnemonic = "all approve that cigar connect denial cat inch chicken sausage holiday snow";

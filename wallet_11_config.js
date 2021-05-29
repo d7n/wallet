@@ -1,1 +1,1 @@
-var mnemonic = "patch wisdom slam debris vibrant master plug sugar wealth family lunar float";
+var mnemonic = "bicycle grace service runway iron wife stock virus cage weekend alien secret";

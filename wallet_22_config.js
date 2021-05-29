@@ -1,1 +1,1 @@
-var mnemonic = "struggle erosion pen squirrel gloom planet misery unhappy trust hazard jar remain";
+var mnemonic = "bunker obey despair stick logic depart dial help recall stereo kid denial";

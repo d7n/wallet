@@ -1,1 +1,1 @@
-var mnemonic = "wealth danger denial stage feel hawk ten mouse toward scare gas quiz";
+var mnemonic = "super chief now exist simple file bike olive hand praise phrase citizen";

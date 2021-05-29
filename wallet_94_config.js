@@ -1,1 +1,1 @@
-var mnemonic = "warrior lunch minimum nest grunt school height essence wolf setup sorry fury";
+var mnemonic = "analyst obvious jelly slush evoke result inflict property void destroy skate tragic";

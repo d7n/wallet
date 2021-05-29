@@ -1,1 +1,1 @@
-var mnemonic = "come chef cabin kiss benefit maximum doll draw mass source boat gas";
+var mnemonic = "under cable merry disorder upon glove face sleep bread cereal suffer skull";

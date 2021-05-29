@@ -1,1 +1,1 @@
-var mnemonic = "fee alter step spawn avoid fatigue slush cup earth strategy party become";
+var mnemonic = "volcano crazy item front session pulp grass share puppy once tired mosquito";

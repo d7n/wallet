@@ -1,1 +1,1 @@
-var mnemonic = "sand utility under sheriff ridge aerobic camp join kind twelve soon brush";
+var mnemonic = "endorse one brother exact scene win radar normal luxury sort mammal goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "donor water object endorse time retire race vacant genre cash wing say";
+var mnemonic = "grab brand weird rate sense romance okay genre lift salad nephew web";

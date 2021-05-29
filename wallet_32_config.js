@@ -1,1 +1,1 @@
-var mnemonic = "stable shaft lady joy proof pizza hidden plate arch depart drill hip";
+var mnemonic = "wire orient crush stairs cube valid witness bleak rural acquire claim bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "prize amused spike ahead eye off cram wisdom talk candy ramp walnut";
+var mnemonic = "layer taste gift business grape fortune coyote coral hobby you city muffin";

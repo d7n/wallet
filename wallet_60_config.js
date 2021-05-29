@@ -1,1 +1,1 @@
-var mnemonic = "desert frost trust crush million fragile rubber lens shock struggle apology clip";
+var mnemonic = "soda alone you distance bargain shove anchor vivid earn innocent control strategy";

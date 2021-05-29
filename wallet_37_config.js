@@ -1,1 +1,1 @@
-var mnemonic = "also west client obtain snow mule acid rubber festival high stadium solve";
+var mnemonic = "edit amateur session salad miracle security squirrel label pen master come exercise";

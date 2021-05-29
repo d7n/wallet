@@ -1,1 +1,1 @@
-var mnemonic = "utility find gift execute miracle blossom food indoor guide public then fragile";
+var mnemonic = "conduct defense baby media lamp shock habit share exile clump voyage swarm";

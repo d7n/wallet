@@ -1,1 +1,1 @@
-var mnemonic = "utility neck member card friend bounce shuffle salad edit shoulder book helmet";
+var mnemonic = "magic balance narrow belt surge pulp ethics adjust pyramid faint rapid patient";

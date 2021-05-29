@@ -1,1 +1,1 @@
-var mnemonic = "verify feature candy winner mimic battle mixed quality menu prize heavy soap";
+var mnemonic = "say tennis bulb crawl income tobacco auction sport warm office inspire robot";

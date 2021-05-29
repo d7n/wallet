@@ -1,1 +1,1 @@
-var mnemonic = "base derive help office consider nuclear embark prison spatial patch this potato";
+var mnemonic = "indicate accuse bronze endless trade fuel near man tribe purse aim milk";

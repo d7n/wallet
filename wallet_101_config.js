@@ -1,1 +1,1 @@
-var mnemonic = "pond fine level select repeat misery floor smart animal helmet future fashion";
+var mnemonic = "certain brain edit tackle ill frog diagram awesome vivid blame open satoshi";

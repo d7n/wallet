@@ -1,1 +1,1 @@
-var mnemonic = "fold ginger car sustain dynamic output mercy two surge tourist below throw";
+var mnemonic = "gospel cycle way bottom fresh exile rural october attack pride paddle wine";

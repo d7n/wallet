@@ -1,1 +1,1 @@
-var mnemonic = "copy talk fade phone curious ill gasp income length army meadow split";
+var mnemonic = "magic bind foil stamp scheme chase add devote clerk digital remember execute";

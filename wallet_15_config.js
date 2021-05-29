@@ -1,1 +1,1 @@
-var mnemonic = "void call shift body repair snake ecology nature duty devote satisfy example";
+var mnemonic = "stock north van entire good eye rival rug recall yellow leave example";

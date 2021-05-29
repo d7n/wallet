@@ -1,1 +1,1 @@
-var mnemonic = "humble order zone protect outer curtain dismiss until melt obvious drama bronze";
+var mnemonic = "pipe valve behave dismiss pride awful goose sponsor demand risk cruise give";

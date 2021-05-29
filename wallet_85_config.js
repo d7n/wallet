@@ -1,1 +1,1 @@
-var mnemonic = "stand milk spider usage mix roast lazy shiver arctic crop good assault";
+var mnemonic = "bamboo level solid fever neck clutch inject drama total correct eagle rural";

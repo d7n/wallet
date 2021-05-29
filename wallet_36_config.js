@@ -1,1 +1,1 @@
-var mnemonic = "polar train craft strategy stay symptom above dose legend spider credit relief";
+var mnemonic = "cricket differ place sting unaware waste answer spin canal carpet beyond census";

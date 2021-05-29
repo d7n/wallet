@@ -1,1 +1,1 @@
-var mnemonic = "thing umbrella reopen soon cereal behind street best arm road fortune enemy";
+var mnemonic = "shine identify forum holiday cube adapt glove spray speed area spatial hint";
