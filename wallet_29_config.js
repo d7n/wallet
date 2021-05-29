@@ -1,1 +1,1 @@
-var mnemonic = "desert uncover proud evolve float auction vehicle stamp sell keen sudden layer";
+var mnemonic = "purpose rain jump addict badge emerge matter holiday ball among idea ball";

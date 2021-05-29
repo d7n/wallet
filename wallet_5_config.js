@@ -1,1 +1,1 @@
-var mnemonic = "know jump notable try lunch boss trust duty intact bird air utility";
+var mnemonic = "escape reason rebuild observe arch vessel visa age scorpion bid marine quote";

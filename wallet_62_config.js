@@ -1,1 +1,1 @@
-var mnemonic = "spread library clump update group question air harvest air pelican echo copy";
+var mnemonic = "teach arm tube claw drastic humor adjust observe supreme congress predict certain";

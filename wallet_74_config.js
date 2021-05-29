@@ -1,1 +1,1 @@
-var mnemonic = "amazing whisper quote icon visit good force spatial jewel voyage absurd recycle";
+var mnemonic = "soup aim ankle patch derive foam pink maze decline human crucial dignity";

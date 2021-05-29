@@ -1,1 +1,1 @@
-var mnemonic = "waste nasty snack elder aim spy swim rapid hockey solid behave parade";
+var mnemonic = "rich immense page modify food whale transfer video index fly window want";

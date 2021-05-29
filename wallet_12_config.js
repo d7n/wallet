@@ -1,1 +1,1 @@
-var mnemonic = "only nasty baby put only angry isolate inch jazz blade valve bean";
+var mnemonic = "trend book raise pair eye lottery prevent thunder weekend double ladder cherry";

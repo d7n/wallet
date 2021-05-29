@@ -1,1 +1,1 @@
-var mnemonic = "fancy bind desk afraid female high struggle sorry bird borrow decline dice";
+var mnemonic = "drift few idea bitter autumn project twice rhythm acquire acquire display pony";

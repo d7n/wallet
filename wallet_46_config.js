@@ -1,1 +1,1 @@
-var mnemonic = "execute atom rely early service pumpkin mobile swallow rural fiscal general clog";
+var mnemonic = "practice will bicycle they ski tank infant endorse annual canal goddess palm";

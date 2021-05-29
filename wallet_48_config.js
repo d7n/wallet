@@ -1,1 +1,1 @@
-var mnemonic = "intact cat crisp retreat treat wrap spell fall salmon oxygen theory right";
+var mnemonic = "track mistake slush organ glad nerve forget blanket grunt bullet note easy";

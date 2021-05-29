@@ -1,1 +1,1 @@
-var mnemonic = "mom lawsuit battle regret access stove miss level favorite machine thumb disagree";
+var mnemonic = "dizzy domain fish refuse similar title monster strategy cool any jump insect";

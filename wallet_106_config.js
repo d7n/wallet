@@ -1,1 +1,1 @@
-var mnemonic = "snake service exhaust clown pool anxiety deputy you found portion noble angle";
+var mnemonic = "electric connect roast electric culture hair purpose ladder spoil monster brass guitar";

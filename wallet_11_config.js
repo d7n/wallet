@@ -1,1 +1,1 @@
-var mnemonic = "broken detect nation orbit slot mutual company dune one frog leaf venue";
+var mnemonic = "version grow kit web enable hobby promote shoot chaos opinion siege pigeon";

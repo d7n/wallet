@@ -1,1 +1,1 @@
-var mnemonic = "drama suffer step march armor pudding prosper bean leader sugar chronic loyal";
+var mnemonic = "throw glad replace hard pistol immune guard kitchen total cool road movie";

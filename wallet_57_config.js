@@ -1,1 +1,1 @@
-var mnemonic = "tortoise slam bullet trumpet dinner enough sound rabbit verb copy maple clump";
+var mnemonic = "federal dry ride afford benefit begin clog borrow desk few plate wave";

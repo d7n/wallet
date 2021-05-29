@@ -1,1 +1,1 @@
-var mnemonic = "casino detect cliff awesome relax language mirror gift apart remember quantum detect";
+var mnemonic = "poet glass evoke napkin usage meadow such chaos volcano powder weather service";

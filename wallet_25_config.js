@@ -1,1 +1,1 @@
-var mnemonic = "outside sentence coach whip depart rice auction plate two bleak turtle ugly";
+var mnemonic = "hazard wet devote seed mystery innocent they click across token include bracket";

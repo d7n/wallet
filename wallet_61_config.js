@@ -1,1 +1,1 @@
-var mnemonic = "timber jacket include disease moment unusual exotic ostrich recycle toast object cannon";
+var mnemonic = "travel random beach blast spoil company drift wreck ready mother plug please";

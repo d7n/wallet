@@ -1,1 +1,1 @@
-var mnemonic = "issue accuse source dentist camera stable cushion virtual eternal trim extra vehicle";
+var mnemonic = "food skill december syrup place when just lab drop crystal drill transfer";

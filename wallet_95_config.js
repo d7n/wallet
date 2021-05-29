@@ -1,1 +1,1 @@
-var mnemonic = "typical coil verb three tag cash pudding island divide crucial result fat";
+var mnemonic = "flight stuff benefit exist connect olive sock corn amazing wisdom learn siege";

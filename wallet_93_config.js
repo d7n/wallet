@@ -1,1 +1,1 @@
-var mnemonic = "region then system cannon canyon donkey gauge history subject siren express phone";
+var mnemonic = "riot version genuine vivid direct mango token install impose resemble off cloth";

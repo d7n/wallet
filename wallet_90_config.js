@@ -1,1 +1,1 @@
-var mnemonic = "edge vessel original item merge catalog soccer jump funny frown laundry umbrella";
+var mnemonic = "marriage almost lonely report depth achieve repair define maple live cloud surround";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak company rabbit hurry avocado man census trick grass width escape blame";
+var mnemonic = "left kitchen bridge system love piano innocent pair holiday horse fashion term";

@@ -1,1 +1,1 @@
-var mnemonic = "note layer only health cram voice soft what hard sentence ring illegal";
+var mnemonic = "disagree scissors praise space connect flag pilot firm valve talk ritual change";

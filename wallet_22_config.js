@@ -1,1 +1,1 @@
-var mnemonic = "produce material poem result daughter matter chronic reveal warfare sister fetch casual";
+var mnemonic = "slam voice stairs hole snap pony fabric core churn brief raven story";

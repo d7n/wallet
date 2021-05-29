@@ -1,1 +1,1 @@
-var mnemonic = "random dutch denial remove announce august party toss search rotate urban online";
+var mnemonic = "judge useful fresh soldier token tenant offer process still planet million team";

@@ -1,1 +1,1 @@
-var mnemonic = "convince purity shrimp asthma piece rapid acid join measure extra boat tissue";
+var mnemonic = "kiwi problem brother chair casual amused cage stone step census undo peace";

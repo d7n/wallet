@@ -1,1 +1,1 @@
-var mnemonic = "sample slow bulb adjust tower foster catch convince jewel sign best push";
+var mnemonic = "room drama slim ranch pool avoid between during when talk affair dutch";

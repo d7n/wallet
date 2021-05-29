@@ -1,1 +1,1 @@
-var mnemonic = "swallow marble enrich choice shoot decade club camera lumber toss right safe";
+var mnemonic = "off fresh pizza hero unusual chuckle smile donkey detail hawk lecture cradle";

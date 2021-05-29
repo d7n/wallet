@@ -1,1 +1,1 @@
-var mnemonic = "enhance hair surface web they wash wage mushroom burger outer gain author";
+var mnemonic = "that diagram opera expect client slow nose famous bird inherit you diet";

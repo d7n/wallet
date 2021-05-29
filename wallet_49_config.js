@@ -1,1 +1,1 @@
-var mnemonic = "million awful rice pepper relief verb blast file match mixed stuff dinner";
+var mnemonic = "upper gun donor fence pause before predict another embrace hire impact mammal";

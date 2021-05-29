@@ -1,1 +1,1 @@
-var mnemonic = "spring craft author call february goat volume draft action sorry first eternal";
+var mnemonic = "fence text twenty quarter hill hockey fox secret use opera country loyal";

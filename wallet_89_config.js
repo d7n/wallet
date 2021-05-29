@@ -1,1 +1,1 @@
-var mnemonic = "paper entry indicate exact still riot frequent stand fence debris eagle profit";
+var mnemonic = "prize curve frequent immense tomorrow pear left summer defy harsh valley key";

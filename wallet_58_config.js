@@ -1,1 +1,1 @@
-var mnemonic = "cute salute afford jealous soda hidden bachelor raccoon crane illness seven two";
+var mnemonic = "ecology keep original reveal guitar deliver demise surface copper exact wheat bring";

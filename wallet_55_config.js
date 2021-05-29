@@ -1,1 +1,1 @@
-var mnemonic = "tell save catch endless where muffin poet before coil level cancel silly";
+var mnemonic = "risk initial evolve thing panic coffee reduce edge brick code black melody";

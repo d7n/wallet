@@ -1,1 +1,1 @@
-var mnemonic = "meat fancy endless sentence entry analyst sign gather photo letter smile decline";
+var mnemonic = "govern brave balcony garbage now bean shop sail enter relax refuse judge";

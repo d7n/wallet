@@ -1,1 +1,1 @@
-var mnemonic = "debris guess fox ice rain business relief inch attitude luggage shove village";
+var mnemonic = "tank adult crisp liquid blade evidence report enjoy valid honey shy ten";

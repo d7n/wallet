@@ -1,1 +1,1 @@
-var mnemonic = "skill ski pride fade bean right acid bean fiber half sadness chicken";
+var mnemonic = "cloth suffer erosion matter stable process ticket plastic amused opinion human tuna";

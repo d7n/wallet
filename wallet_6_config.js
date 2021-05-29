@@ -1,1 +1,1 @@
-var mnemonic = "hire window usual matter path solar express dentist sphere oyster trigger reduce";
+var mnemonic = "trust dance type number raccoon daughter canal second skill stick actual auto";

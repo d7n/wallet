@@ -1,1 +1,1 @@
-var mnemonic = "muscle write club chair alcohol cabbage dilemma service tonight embody appear table";
+var mnemonic = "tell essay unlock original gown involve track photo glimpse friend pool cinnamon";

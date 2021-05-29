@@ -1,1 +1,1 @@
-var mnemonic = "common ginger pond barrel desk hero affair circle veteran depart desk mobile";
+var mnemonic = "infant spend raise scatter chase derive during wise salute thunder filter credit";

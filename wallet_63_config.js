@@ -1,1 +1,1 @@
-var mnemonic = "black rebel where phone board wet faculty trial dice humble squirrel find";
+var mnemonic = "hour cook sting usual faith arch taxi bean sample punch can judge";

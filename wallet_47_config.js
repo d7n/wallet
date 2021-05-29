@@ -1,1 +1,1 @@
-var mnemonic = "expect already hint during brass canyon push degree amateur nation midnight cute";
+var mnemonic = "pelican canal wreck olive together easily enact jar flower diamond moral weasel";

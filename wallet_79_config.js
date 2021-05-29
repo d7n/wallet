@@ -1,1 +1,1 @@
-var mnemonic = "raw kid sing faint inform sing gloom chicken garage wish lonely aspect";
+var mnemonic = "pact gas lawsuit accuse math area belt soon fiscal theory client latin";

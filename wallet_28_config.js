@@ -1,1 +1,1 @@
-var mnemonic = "twice loyal okay laundry present rice shadow pelican portion travel antenna fit";
+var mnemonic = "nothing couple grocery heart repeat payment quiz undo choice green royal trust";

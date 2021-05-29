@@ -1,1 +1,1 @@
-var mnemonic = "stage fan kind learn cattle trick humble phrase cry diet warrior rubber";
+var mnemonic = "bike identify story canoe month despair relief various choose trust title rough";

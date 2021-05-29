@@ -1,1 +1,1 @@
-var mnemonic = "blind remind appear gospel obscure jaguar cross beef flavor rough airport cousin";
+var mnemonic = "ostrich lemon gadget point purchase casino egg super pond wife nephew bright";

@@ -1,1 +1,1 @@
-var mnemonic = "sense diamond where error gain excess broccoli drama yellow require below bench";
+var mnemonic = "question black ceiling social refuse brain hockey scatter word approve rally cinnamon";

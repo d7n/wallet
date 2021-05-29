@@ -1,1 +1,1 @@
-var mnemonic = "indicate symptom village present size filter culture oven general leisure doctor tired";
+var mnemonic = "treat photo adjust pencil neglect must stick increase club infant process valve";

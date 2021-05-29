@@ -1,1 +1,1 @@
-var mnemonic = "valve wheel gain blood ask material fluid shoot blur aspect prison mutual";
+var mnemonic = "office keen grunt attract one reward scare embody fun candy detail amused";

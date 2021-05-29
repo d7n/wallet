@@ -1,1 +1,1 @@
-var mnemonic = "shove broom topple few topic come hawk pepper drastic fence cream win";
+var mnemonic = "carpet ancient box diary behind cherry decorate bundle amateur purity spend today";

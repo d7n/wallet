@@ -1,1 +1,1 @@
-var mnemonic = "year spring orchard illness say above chat change boat joy kid state";
+var mnemonic = "tuna coffee cereal repeat enroll harbor garbage cable employ plate mechanic normal";

@@ -1,1 +1,1 @@
-var mnemonic = "supply reveal cash air broom nerve pact welcome push almost comfort pretty";
+var mnemonic = "deliver umbrella desk crisp indoor suspect topple decorate price eye double remain";

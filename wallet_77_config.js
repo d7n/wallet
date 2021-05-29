@@ -1,1 +1,1 @@
-var mnemonic = "cancel mule solar reunion era blur inch inform border crystal message head";
+var mnemonic = "purchase fashion amused version galaxy write drip huge urban animal loop follow";

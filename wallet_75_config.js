@@ -1,1 +1,1 @@
-var mnemonic = "brick pen boil glove sleep assault clown torch limb bachelor night capital";
+var mnemonic = "winter solve around sock flock culture only welcome manual use during card";

@@ -1,1 +1,1 @@
-var mnemonic = "same cotton cliff kiss spatial dilemma usage empty quick galaxy wheel assume";
+var mnemonic = "enjoy one atom dose ill brush grunt below base hobby garden warrior";

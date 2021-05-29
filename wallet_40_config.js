@@ -1,1 +1,1 @@
-var mnemonic = "nest increase section devote rhythm music rich mango distance report crash list";
+var mnemonic = "pudding dog endorse spell brush fall lab dish message easily pigeon accident";

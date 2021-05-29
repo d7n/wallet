@@ -1,1 +1,1 @@
-var mnemonic = "memory foam fossil oblige lab phone wise lonely sentence clown museum wife";
+var mnemonic = "domain memory blanket error ready consider oppose foam trophy coconut deliver clump";

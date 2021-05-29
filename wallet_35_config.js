@@ -1,1 +1,1 @@
-var mnemonic = "struggle point silly middle error produce hundred now fame orbit slush basket";
+var mnemonic = "garbage movie foil sheriff scorpion first that veteran foster cook rice evidence";

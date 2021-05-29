@@ -1,1 +1,1 @@
-var mnemonic = "blush boil absurd height finger vocal book tomorrow fuel ten color seed";
+var mnemonic = "live motor caught junk virus exclude leaf vast snack door try ladder";

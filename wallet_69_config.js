@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sleep fatal pulp cotton situate poverty common tent million pass staff";
+var mnemonic = "number manage frown young keen isolate copy middle memory keen receive outside";

@@ -1,1 +1,1 @@
-var mnemonic = "test main glare trial soft inch canvas omit symbol drill health patch";
+var mnemonic = "box crater muscle blue powder runway dizzy card hero receive attitude sunset";

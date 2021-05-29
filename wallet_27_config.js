@@ -1,1 +1,1 @@
-var mnemonic = "tenant enjoy ability slender subway length certain van clerk staff service forest";
+var mnemonic = "pencil black own visual draw orphan destroy document hawk wood vintage swarm";

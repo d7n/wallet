@@ -1,1 +1,1 @@
-var mnemonic = "subway loan impose pigeon giggle abstract priority unhappy equip coin suggest pond";
+var mnemonic = "cheese army cup witness cool dice term van answer glance scorpion swamp";

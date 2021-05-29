@@ -1,1 +1,1 @@
-var mnemonic = "gap swim curve digital prison flag egg tomorrow round end bike second";
+var mnemonic = "inject claw elbow frown swap gospel convince stay cricket deposit topple casino";

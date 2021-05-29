@@ -1,1 +1,1 @@
-var mnemonic = "rule tiny canvas damp kid layer when coast traffic web ghost affair";
+var mnemonic = "merry output give local saddle symptom genius topic have subject column cause";

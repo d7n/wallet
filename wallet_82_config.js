@@ -1,1 +1,1 @@
-var mnemonic = "thank impose better awesome panther cost undo they dumb found eagle athlete";
+var mnemonic = "space join average baby flee envelope blast witness attend monkey token draft";

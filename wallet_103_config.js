@@ -1,1 +1,1 @@
-var mnemonic = "orbit lawn genre cool rate pattern upgrade fiscal symbol ethics game gauge";
+var mnemonic = "butter suffer planet section parent priority radar night upset lecture phrase three";

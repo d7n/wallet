@@ -1,1 +1,1 @@
-var mnemonic = "horn eight before gorilla disease milk obscure wrist quick educate void notable";
+var mnemonic = "word winner regret flush cannon verb rail vital hungry town moon pen";

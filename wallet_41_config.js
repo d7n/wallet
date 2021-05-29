@@ -1,1 +1,1 @@
-var mnemonic = "urge index start monitor embrace drill arrow spice cupboard sure impact horse";
+var mnemonic = "road solid sea cupboard tube near monitor cloth ugly hobby salad museum";

@@ -1,1 +1,1 @@
-var mnemonic = "moment venture sort license derive muffin pyramid knife angle industry peace cost";
+var mnemonic = "fork tribe retire general fabric garbage hat talk recycle couch ugly accident";

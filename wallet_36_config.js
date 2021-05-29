@@ -1,1 +1,1 @@
-var mnemonic = "ivory direct need almost labor electric call army insect tray square smoke";
+var mnemonic = "average slide own vital mother economy expire also flee rely timber quiz";

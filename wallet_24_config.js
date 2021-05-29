@@ -1,1 +1,1 @@
-var mnemonic = "onion material relax degree lock left candy chef orchard start wave enforce";
+var mnemonic = "wine kitten can bunker dumb boring obscure angle canyon enroll cricket home";

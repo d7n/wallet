@@ -1,1 +1,1 @@
-var mnemonic = "unknown observe shoot security unfair topple drip fresh large quit surprise essay";
+var mnemonic = "industry clutch junior brush spread plate dolphin wreck genuine news solar puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "route town local walk employ loyal depart best air mountain luggage ranch";
+var mnemonic = "fun wide myself axis enter basket verb task finger witness whip top";

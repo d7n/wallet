@@ -1,1 +1,1 @@
-var mnemonic = "oxygen crumble until rare obtain engine warm believe crash trigger van symbol";
+var mnemonic = "model spoil another edit monitor token message episode neglect cart drum rely";

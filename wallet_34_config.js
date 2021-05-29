@@ -1,1 +1,1 @@
-var mnemonic = "despair hazard junior camp collect oyster fish sister over prefer negative umbrella";
+var mnemonic = "small plug oak already trim gloom town plate insect enact they heavy";

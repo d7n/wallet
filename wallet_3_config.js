@@ -1,1 +1,1 @@
-var mnemonic = "swear vacuum dwarf over obscure soon asthma whip twin write famous input";
+var mnemonic = "produce danger custom life zero curve fee stem coast hollow benefit enforce";

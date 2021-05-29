@@ -1,1 +1,1 @@
-var mnemonic = "fringe original educate what must cancel advice camera hawk provide width anchor";
+var mnemonic = "bind bicycle brief skin jump about cancel wet front swallow holiday phrase";

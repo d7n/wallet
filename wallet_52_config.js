@@ -1,1 +1,1 @@
-var mnemonic = "fury man lava diagram fluid science vocal goose fetch idle prevent danger";
+var mnemonic = "edge trend equip paper junior nest flash story celery left kitchen lonely";

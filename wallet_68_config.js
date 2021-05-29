@@ -1,1 +1,1 @@
-var mnemonic = "verify muffin swift ten ginger off stem fade tomato first lake until";
+var mnemonic = "shield key invest physical front short milk tube beauty robust pottery elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "toe name mass night pudding grace sell column fog illness disorder error";
+var mnemonic = "case crucial aware peace give wood hope brick ahead swim ten film";

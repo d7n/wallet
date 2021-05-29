@@ -1,1 +1,1 @@
-var mnemonic = "caution menu gaze awful cry fat supply label middle mercy minor puppy";
+var mnemonic = "rapid amazing relax grab girl gather ordinary raw fetch search riot chat";

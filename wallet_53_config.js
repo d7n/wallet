@@ -1,1 +1,1 @@
-var mnemonic = "evoke under jealous cargo shaft bus luggage bring silent custom kingdom shift";
+var mnemonic = "dirt math spatial inquiry runway ability assume glare render hello critic achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "mention acquire model parent client polar wrong attitude dilemma hope start inquiry";
+var mnemonic = "crime spare addict matrix citizen bulk warrior wood melt mutual grape winter";

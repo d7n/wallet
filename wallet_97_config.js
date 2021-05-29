@@ -1,1 +1,1 @@
-var mnemonic = "middle next term hybrid post cover trophy forum water theme tiger swear";
+var mnemonic = "room certain bubble write rebel mobile divorce area blouse cinnamon unit usage";

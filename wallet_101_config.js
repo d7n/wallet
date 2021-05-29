@@ -1,1 +1,1 @@
-var mnemonic = "puppy entry tuition shed anger isolate hole fiber suit twin vacant joy";
+var mnemonic = "badge arctic require similar clump sweet save one tennis emotion dust salt";

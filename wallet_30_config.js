@@ -1,1 +1,1 @@
-var mnemonic = "chef boy width permit cruel sense ring citizen also jaguar sick inspire";
+var mnemonic = "motor gravity hat include odor essence lesson key rich tell fun boss";

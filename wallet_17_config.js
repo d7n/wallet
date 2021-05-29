@@ -1,1 +1,1 @@
-var mnemonic = "family hub giraffe novel basket filter observe drill matrix witness lend bright";
+var mnemonic = "eternal buddy transfer fiction coral same fun trumpet admit cheap labor two";

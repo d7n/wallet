@@ -1,1 +1,1 @@
-var mnemonic = "design crucial engage bind cloth lunch swing face imitate fresh divorce color";
+var mnemonic = "fruit police force income total sphere advance cook subway kingdom rice senior";

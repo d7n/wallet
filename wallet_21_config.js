@@ -1,1 +1,1 @@
-var mnemonic = "lottery choose mention truck ranch detect jealous caution renew embrace network beach";
+var mnemonic = "idle craft scatter agree desk hybrid better same blush melody buzz tattoo";

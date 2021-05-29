@@ -1,1 +1,1 @@
-var mnemonic = "buffalo girl bid gun media casual battle collect phrase remind steak diary";
+var mnemonic = "matrix decline roast canal huge winner expire then effort limb purpose sauce";

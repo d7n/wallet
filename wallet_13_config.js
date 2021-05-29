@@ -1,1 +1,1 @@
-var mnemonic = "rough ahead slight unaware tent prefer belt marine concert already then hundred";
+var mnemonic = "early intact dinosaur owner utility caught process amateur globe defy grunt device";

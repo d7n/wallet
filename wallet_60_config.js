@@ -1,1 +1,1 @@
-var mnemonic = "patch cargo online enact clump alien gain random renew laundry crouch wasp";
+var mnemonic = "social ensure ask decorate diet soap trial private draft arrange episode nut";
