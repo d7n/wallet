@@ -1,1 +1,1 @@
-var mnemonic = "danger almost outdoor brave venture into ugly galaxy capital august poem awkward";
+var mnemonic = "wave ice bar text sausage pull elevator soon inmate income team prefer";

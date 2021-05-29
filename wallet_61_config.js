@@ -1,1 +1,1 @@
-var mnemonic = "drum outside nominee adapt invite hawk drama success faculty valley voice health";
+var mnemonic = "road stairs depth vacant old brain media speak toss omit movie kite";

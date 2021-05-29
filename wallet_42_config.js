@@ -1,1 +1,1 @@
-var mnemonic = "crush shoe original day furnace mixture horse save allow garment milk doll";
+var mnemonic = "science glory improve strong crop debris wise deputy region wide employ drink";

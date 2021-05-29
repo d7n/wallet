@@ -1,1 +1,1 @@
-var mnemonic = "name negative swallow debris raw skate obvious staff annual broom hole next";
+var mnemonic = "limit moment add kiss multiply element trouble magnet snake flee girl neither";

@@ -1,1 +1,1 @@
-var mnemonic = "century ostrich model noodle loop strong token purpose hen above ritual talk";
+var mnemonic = "wealth danger denial stage feel hawk ten mouse toward scare gas quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "grief appear tenant current surprise hospital creek canyon used plate penalty man";
+var mnemonic = "please tray faint shop session electric kingdom tonight melody blush enable guard";

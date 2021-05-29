@@ -1,1 +1,1 @@
-var mnemonic = "scene say adapt ahead thought net accuse limb shrug stumble moral smart";
+var mnemonic = "come chef cabin kiss benefit maximum doll draw mass source boat gas";

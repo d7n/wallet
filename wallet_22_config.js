@@ -1,1 +1,1 @@
-var mnemonic = "belt urban camera crash dress actor believe route sleep company rug quit";
+var mnemonic = "struggle erosion pen squirrel gloom planet misery unhappy trust hazard jar remain";

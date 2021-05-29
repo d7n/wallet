@@ -1,1 +1,1 @@
-var mnemonic = "calm pigeon defy wolf sun gas profit silly early voyage giant strong";
+var mnemonic = "jazz usage human soon beauty hidden calm absent tide person maximum forget";

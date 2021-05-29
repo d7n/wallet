@@ -1,1 +1,1 @@
-var mnemonic = "upper pottery mobile consider depart borrow venture energy initial clown vehicle tortoise";
+var mnemonic = "diet heavy shallow key random alley century frame tide spoil rapid below";

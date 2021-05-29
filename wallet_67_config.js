@@ -1,1 +1,1 @@
-var mnemonic = "exhibit abuse replace cruise language father pulse winter outdoor photo predict scatter";
+var mnemonic = "exhaust match kiss plunge outdoor denial scan wrist appear diary vote open";

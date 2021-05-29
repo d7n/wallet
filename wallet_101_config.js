@@ -1,1 +1,1 @@
-var mnemonic = "suffer junk welcome waste float note airport tissue around dust people belt";
+var mnemonic = "pond fine level select repeat misery floor smart animal helmet future fashion";

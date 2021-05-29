@@ -1,1 +1,1 @@
-var mnemonic = "monitor sweet ankle hen cradle beach zebra ticket bleak reflect fit orphan";
+var mnemonic = "castle question lady cheap fiction fruit sick include blame peace imitate basic";

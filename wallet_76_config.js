@@ -1,1 +1,1 @@
-var mnemonic = "stand flag useful under fox panther book sadness move fall act vendor";
+var mnemonic = "spend world sing step guilt airport stone dentist valve sadness awkward column";

@@ -1,1 +1,1 @@
-var mnemonic = "staff tail sad canvas exhaust artefact unknown become young spike laugh donate";
+var mnemonic = "try insane tornado sleep answer camp they ancient goose panic obtain rally";

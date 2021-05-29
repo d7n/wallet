@@ -1,1 +1,1 @@
-var mnemonic = "razor music enroll gravity width describe color fashion cushion bid circle same";
+var mnemonic = "arrow spell chuckle sustain vintage orbit warrior pioneer trumpet satisfy initial scare";

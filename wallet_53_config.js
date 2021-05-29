@@ -1,1 +1,1 @@
-var mnemonic = "warfare round school deny sleep galaxy wide panther blur choice bone toast";
+var mnemonic = "believe banana build page lottery february phone sheriff degree loan crazy sibling";

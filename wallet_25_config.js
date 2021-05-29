@@ -1,1 +1,1 @@
-var mnemonic = "fringe wink eyebrow kick better orphan easy spawn fold dinosaur fog smart";
+var mnemonic = "same odor grape blind inmate this clap crisp rib seminar layer reflect";

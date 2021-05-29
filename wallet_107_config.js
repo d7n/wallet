@@ -1,1 +1,1 @@
-var mnemonic = "soon chaos object index grief blade ordinary history enter cash audit lend";
+var mnemonic = "renew sister color fringe trash risk option wagon person panther patch buzz";

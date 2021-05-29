@@ -1,1 +1,1 @@
-var mnemonic = "alien beef weekend call rent elder range index dry feed deliver correct";
+var mnemonic = "illegal detect humble monitor carbon punch palace knock enjoy call hollow daughter";

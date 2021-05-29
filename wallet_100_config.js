@@ -1,1 +1,1 @@
-var mnemonic = "liquid village hood reopen return wreck switch switch chuckle debate junior language";
+var mnemonic = "heart light pupil limb upper surface admit piece detect easily remind display";

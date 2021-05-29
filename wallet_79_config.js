@@ -1,1 +1,1 @@
-var mnemonic = "envelope option night loop response coil day sunset reject ripple usual bachelor";
+var mnemonic = "copy talk fade phone curious ill gasp income length army meadow split";

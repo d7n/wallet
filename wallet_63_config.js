@@ -1,1 +1,1 @@
-var mnemonic = "useless ocean deal matter quiz film wisdom village april bounce inch goat";
+var mnemonic = "twist noble pen stone train symbol mind six cushion scorpion link omit";

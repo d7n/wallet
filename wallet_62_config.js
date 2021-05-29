@@ -1,1 +1,1 @@
-var mnemonic = "height worth cheap symbol claw flat pencil jazz praise mad now decline";
+var mnemonic = "clutch autumn elegant detail physical evoke dress snow bracket lecture lemon trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "valley road adjust energy around glory method amazing response color still cute";
+var mnemonic = "auction pumpkin fog task require basket win range whip absent need cup";

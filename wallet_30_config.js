@@ -1,1 +1,1 @@
-var mnemonic = "finish ostrich wrestle develop sniff gasp ability fruit priority visual bottom hockey";
+var mnemonic = "utility find gift execute miracle blossom food indoor guide public then fragile";

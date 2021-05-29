@@ -1,1 +1,1 @@
-var mnemonic = "off drama idle dignity loud near quick leave iron corn giant name";
+var mnemonic = "surface friend fetch update menu glide keen beauty memory genius reason lift";

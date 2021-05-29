@@ -1,1 +1,1 @@
-var mnemonic = "twenty flavor globe agree pair fitness shield rely army toward car term";
+var mnemonic = "nephew good quote harvest mesh present master curious oppose speak amused attack";

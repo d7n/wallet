@@ -1,1 +1,1 @@
-var mnemonic = "they female torch achieve peanut bracket purpose miracle skull delay spirit motor";
+var mnemonic = "tennis fragile mule brave film risk world leisure feed cradle chuckle merge";

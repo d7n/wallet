@@ -1,1 +1,1 @@
-var mnemonic = "drum giraffe repair poem nominee version fly aunt grow loyal index slender";
+var mnemonic = "drink sausage limit bicycle rebuild fold uncover huge matrix analyst adult soup";

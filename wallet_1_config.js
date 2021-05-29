@@ -1,1 +1,1 @@
-var mnemonic = "garden home twice left cheap decrease someone orphan grab zero fury steak";
+var mnemonic = "spike knife plunge supreme habit wear mammal travel eyebrow unaware chapter island";

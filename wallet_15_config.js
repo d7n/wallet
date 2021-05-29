@@ -1,1 +1,1 @@
-var mnemonic = "alarm omit minute obscure cabin success lend lottery toy fetch awful buffalo";
+var mnemonic = "void call shift body repair snake ecology nature duty devote satisfy example";

@@ -1,1 +1,1 @@
-var mnemonic = "venture useless birth farm game brush shove wide advice mask wrist snack";
+var mnemonic = "novel wrestle tobacco youth clever blade mom frog betray alert garbage volume";

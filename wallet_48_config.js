@@ -1,1 +1,1 @@
-var mnemonic = "transfer cost catch galaxy cost among club sail jar bundle labor tortoise";
+var mnemonic = "mechanic belt nerve patrol lounge debris husband genre guard guess inflict trophy";

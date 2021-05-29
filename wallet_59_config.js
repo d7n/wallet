@@ -1,1 +1,1 @@
-var mnemonic = "oval empower group gadget blue capital deer shed kidney alter body must";
+var mnemonic = "thing boring attitude pistol ice people abstract hour climb example joke grid";

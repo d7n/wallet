@@ -1,1 +1,1 @@
-var mnemonic = "ecology health chair twist naive venue stereo cargo follow mansion adapt medal";
+var mnemonic = "juice soldier awesome skull manage reward wall false act solve glide setup";

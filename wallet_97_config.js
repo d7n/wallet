@@ -1,1 +1,1 @@
-var mnemonic = "reason appear win repeat cute palm wage later quarter devote ten year";
+var mnemonic = "fury pull grit account scatter pool blue melody puppy famous drama split";

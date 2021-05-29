@@ -1,1 +1,1 @@
-var mnemonic = "domain include hawk mean lock bone unique mandate cause wise own combine";
+var mnemonic = "dismiss again fault dawn depend impulse shoulder interest race confirm match fiber";

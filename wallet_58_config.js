@@ -1,1 +1,1 @@
-var mnemonic = "horn south common because jeans spawn shrug box way drip agree peace";
+var mnemonic = "gift weasel lens broken dirt february often already divide typical enemy jelly";

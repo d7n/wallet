@@ -1,1 +1,1 @@
-var mnemonic = "appear about child castle behind guess lucky measure speak similar tornado valley";
+var mnemonic = "spice brush purse skull rebuild effort spoon push coconut service keen glow";

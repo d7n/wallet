@@ -1,1 +1,1 @@
-var mnemonic = "crane travel immense same index over february wolf priority frost arrive capital";
+var mnemonic = "patch wisdom slam debris vibrant master plug sugar wealth family lunar float";

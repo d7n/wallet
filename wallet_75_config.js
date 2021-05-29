@@ -1,1 +1,1 @@
-var mnemonic = "crouch silly monkey wrestle elegant upgrade tackle science sheriff elegant sausage simple";
+var mnemonic = "supreme ladder rescue legal lunar dizzy seminar genius almost raccoon sponsor embrace";

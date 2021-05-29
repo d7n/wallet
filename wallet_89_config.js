@@ -1,1 +1,1 @@
-var mnemonic = "switch trouble fame pepper open seven south eternal toe ozone poverty replace";
+var mnemonic = "student subject farm fun nominee stairs bullet range oak toy egg fox";

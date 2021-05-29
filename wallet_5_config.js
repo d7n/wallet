@@ -1,1 +1,1 @@
-var mnemonic = "spatial hammer fitness rice tiny soccer cup size purchase actual burger open";
+var mnemonic = "verify feature candy winner mimic battle mixed quality menu prize heavy soap";

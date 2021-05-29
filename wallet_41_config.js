@@ -1,1 +1,1 @@
-var mnemonic = "practice pumpkin elite cram remain crisp inject resemble invest easily rigid thunder";
+var mnemonic = "fruit embody renew arrest balcony boost deputy comic column pipe swallow enlist";

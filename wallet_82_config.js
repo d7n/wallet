@@ -1,1 +1,1 @@
-var mnemonic = "struggle gas perfect grace mercy tortoise front genuine moon sign buzz liar";
+var mnemonic = "leisure slim glue useful art observe pause response swamp emerge truly chase";

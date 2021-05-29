@@ -1,1 +1,1 @@
-var mnemonic = "need slush student kitten pretty noise clean motion way wreck flag cupboard";
+var mnemonic = "prize amused spike ahead eye off cram wisdom talk candy ramp walnut";

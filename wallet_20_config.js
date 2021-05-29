@@ -1,1 +1,1 @@
-var mnemonic = "swarm venture broccoli supply grit fabric song option spike boss between sketch";
+var mnemonic = "base derive help office consider nuclear embark prison spatial patch this potato";

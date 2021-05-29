@@ -1,1 +1,1 @@
-var mnemonic = "dragon dirt spell boring despair reunion way dutch chase mosquito pitch glad";
+var mnemonic = "friend basic edit music snow area magnet cream elder machine unable biology";

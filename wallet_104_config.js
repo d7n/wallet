@@ -1,1 +1,1 @@
-var mnemonic = "scissors inherit select whale ceiling angry waste shy render fatigue pluck worry";
+var mnemonic = "picture artist carpet mom assume supreme ketchup start praise luxury rule dolphin";

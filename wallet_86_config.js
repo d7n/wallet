@@ -1,1 +1,1 @@
-var mnemonic = "later dash foil ready gadget powder company rice bless black element gloom";
+var mnemonic = "ask toss denial symbol poem spider vintage rhythm you used mass axis";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic pet belt lamp want collect soap measure brush practice raven comic";
+var mnemonic = "west unfair lady pet ice scrub ask magic affair receive attack eyebrow";

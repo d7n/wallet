@@ -1,1 +1,1 @@
-var mnemonic = "outer obey nice blood duty crowd olympic grab release absorb service exit";
+var mnemonic = "budget luxury destroy what caught noble behind later better joy bag dance";

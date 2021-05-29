@@ -1,1 +1,1 @@
-var mnemonic = "arm warfare basic innocent unhappy vibrant damp insane symbol junior above mention";
+var mnemonic = "dawn display device era industry romance silent twelve syrup bridge jaguar execute";

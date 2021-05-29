@@ -1,1 +1,1 @@
-var mnemonic = "dream mail capable exhaust seminar cart spell ginger rapid bachelor deer bonus";
+var mnemonic = "warrior lunch minimum nest grunt school height essence wolf setup sorry fury";

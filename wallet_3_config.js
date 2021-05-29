@@ -1,1 +1,1 @@
-var mnemonic = "spike apology vibrant salmon sure enrich tornado sadness citizen opinion gorilla wheat";
+var mnemonic = "genre opinion quality agree urban problem umbrella green dune sadness isolate crush";

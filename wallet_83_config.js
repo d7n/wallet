@@ -1,1 +1,1 @@
-var mnemonic = "project dance figure angry bulk rare vital vacuum title clump wine baby";
+var mnemonic = "dove talk student decrease web anger short model drop survey fault dinosaur";

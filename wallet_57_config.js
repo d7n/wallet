@@ -1,1 +1,1 @@
-var mnemonic = "stamp approve hello random replace among fragile man into often develop acoustic";
+var mnemonic = "planet boat pitch boring two also prefer valley mango angry south ginger";

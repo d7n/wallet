@@ -1,1 +1,1 @@
-var mnemonic = "coach tent plastic social mix indoor ocean home orphan dog have cluster";
+var mnemonic = "twelve torch unaware sleep phrase elephant melody receive used beef barrel action";

@@ -1,1 +1,1 @@
-var mnemonic = "sing useful style work bounce goddess holiday foam enforce gospel crime illegal";
+var mnemonic = "detail transfer core barely decide century subject crumble great train session card";

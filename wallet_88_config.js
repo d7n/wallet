@@ -1,1 +1,1 @@
-var mnemonic = "tornado ice lazy door now input salt error consider wheel mass logic";
+var mnemonic = "auto sense bulb click sell embrace kick total pioneer strong car embody";

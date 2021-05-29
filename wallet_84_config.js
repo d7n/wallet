@@ -1,1 +1,1 @@
-var mnemonic = "foot entry apology street escape hurdle claw echo sense crop prevent shallow";
+var mnemonic = "tomorrow skin essay palace crucial sadness sign hazard error panic text sunset";

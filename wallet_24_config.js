@@ -1,1 +1,1 @@
-var mnemonic = "vapor voice puppy fury sock solve sort grain vacuum circle month marble";
+var mnemonic = "fee alter step spawn avoid fatigue slush cup earth strategy party become";

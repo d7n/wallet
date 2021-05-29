@@ -1,1 +1,1 @@
-var mnemonic = "laundry index device demand obtain warm ability street kite polar bone sudden";
+var mnemonic = "hammer dove army word slim into genius violin inspire crop immune weather";

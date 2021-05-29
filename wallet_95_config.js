@@ -1,1 +1,1 @@
-var mnemonic = "arrange mango visual spend rice alone truth occur margin cave jewel apple";
+var mnemonic = "circle salute lake chase weasel inspire cool bargain wait chief yellow act";

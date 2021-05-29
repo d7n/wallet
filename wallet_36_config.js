@@ -1,1 +1,1 @@
-var mnemonic = "message ancient spray engage stairs cruise street lottery unable drop ski enrich";
+var mnemonic = "polar train craft strategy stay symptom above dose legend spider credit relief";

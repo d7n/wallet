@@ -1,1 +1,1 @@
-var mnemonic = "can century find tattoo reduce away weasel escape oven praise twelve bundle";
+var mnemonic = "notice hand dignity village embody member cause maze lift giant guide measure";

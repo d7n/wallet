@@ -1,1 +1,1 @@
-var mnemonic = "little outdoor surface marriage three radar leave round calm poet beyond crack";
+var mnemonic = "gentle vague badge hobby control action panther pair easy reveal slight trap";

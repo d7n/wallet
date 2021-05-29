@@ -1,1 +1,1 @@
-var mnemonic = "junk tornado grain dizzy airport drastic flight live airport label subway blur";
+var mnemonic = "sweet stove neglect remove glow stamp famous churn please cruise cattle purchase";

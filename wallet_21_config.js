@@ -1,1 +1,1 @@
-var mnemonic = "panther balcony produce can magic awake fall start tail reduce narrow march";
+var mnemonic = "swamp gorilla mosquito hurry mixed circle act vague doll early crash village";

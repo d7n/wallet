@@ -1,1 +1,1 @@
-var mnemonic = "derive retire lock select drift company clip spell faculty rival prepare april";
+var mnemonic = "render asthma jacket broccoli pupil permit toe deer letter agent private video";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer gossip abuse grass bone economy enforce common various february same tuition";
+var mnemonic = "wrong garage pitch rotate funny already narrow repair skill lobster order spray";

@@ -1,1 +1,1 @@
-var mnemonic = "fame submit broom false thunder blame direct fiber creek soldier master robot";
+var mnemonic = "trim cruel coyote surge grab bundle average process blue purchase stone kite";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow acoustic need mango machine carpet awful water height lens click patch";
+var mnemonic = "aspect identify manual mountain consider pattern champion judge color total fatigue focus";

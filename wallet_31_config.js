@@ -1,1 +1,1 @@
-var mnemonic = "note tiny choice choice marine shrimp spy mass april put settle assist";
+var mnemonic = "humble order zone protect outer curtain dismiss until melt obvious drama bronze";

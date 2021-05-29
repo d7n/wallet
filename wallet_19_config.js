@@ -1,1 +1,1 @@
-var mnemonic = "husband kangaroo sketch useless other decorate broccoli elegant staff repeat patch fork";
+var mnemonic = "pass tone trigger rally kiss lift thank detail open sock planet hole";

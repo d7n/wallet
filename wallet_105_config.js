@@ -1,1 +1,1 @@
-var mnemonic = "exist rib tube phrase bring rebel traffic pyramid awesome you sentence zone";
+var mnemonic = "thought bulb garden make save guitar wash sister air tornado session jazz";

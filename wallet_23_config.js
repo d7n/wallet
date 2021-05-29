@@ -1,1 +1,1 @@
-var mnemonic = "foster enemy grit swap cushion helmet inmate solar tuition mammal concert sunset";
+var mnemonic = "aware little latin double penalty initial globe banner battle mango state behave";

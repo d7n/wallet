@@ -1,1 +1,1 @@
-var mnemonic = "fuel spread govern clump zebra this sausage finger spider hole harsh elbow";
+var mnemonic = "thing umbrella reopen soon cereal behind street best arm road fortune enemy";

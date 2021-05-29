@@ -1,1 +1,1 @@
-var mnemonic = "able coach valve crush crawl expand deny energy ginger claim immune ship";
+var mnemonic = "glance creek light crack sword add estate pride exist addict control risk";

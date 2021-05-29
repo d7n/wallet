@@ -1,1 +1,1 @@
-var mnemonic = "session stock fiction hen smooth thunder depart scrap chicken agent keen critic";
+var mnemonic = "also west client obtain snow mule acid rubber festival high stadium solve";

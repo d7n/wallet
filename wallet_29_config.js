@@ -1,1 +1,1 @@
-var mnemonic = "enemy gorilla tooth garden course they surprise garlic point embrace punch mask";
+var mnemonic = "favorite clarify dawn parent know benefit scale hello offer wreck employ gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "sister magic tongue naive toddler mad area junior kingdom idea claw cactus";
+var mnemonic = "patch slam polar engage refuse suspect essence canyon artwork dune torch daughter";

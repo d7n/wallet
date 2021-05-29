@@ -1,1 +1,1 @@
-var mnemonic = "champion news address rotate forum version quote tackle dirt donkey impulse judge";
+var mnemonic = "mail path wonder fault transfer occur cook detect prepare envelope glare rhythm";
