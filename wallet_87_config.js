@@ -1,1 +1,1 @@
-var mnemonic = "route elbow suit eager tattoo blush salon track cover lens armor conduct";
+var mnemonic = "regular enlist rally imitate trigger night obtain dry text random cross trouble";

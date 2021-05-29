@@ -1,1 +1,1 @@
-var mnemonic = "carbon shallow bachelor angry wheat clutch salt galaxy blush regret vicious swift";
+var mnemonic = "prepare reunion taste provide library swear vendor clarify cinnamon organ cost palace";

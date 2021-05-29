@@ -1,1 +1,1 @@
-var mnemonic = "supply manual elephant tobacco enact grief credit festival increase address mercy sport";
+var mnemonic = "piece open private example together puppy parent initial scatter ugly caution ecology";

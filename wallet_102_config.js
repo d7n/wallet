@@ -1,1 +1,1 @@
-var mnemonic = "sting income mail nominee avoid old head alpha phrase door nice canal";
+var mnemonic = "canal dynamic napkin hammer exit stamp atom glue monitor gain crumble resource";

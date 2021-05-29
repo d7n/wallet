@@ -1,1 +1,1 @@
-var mnemonic = "brick kind aspect can pitch wink capital rocket alert garage cash couple";
+var mnemonic = "pulse total physical engage muffin finger minor slight habit blast vehicle scare";

@@ -1,1 +1,1 @@
-var mnemonic = "alien rally alien beauty solve voice slide noble want exercise angry top";
+var mnemonic = "will auction slow luxury type budget fee arrive coconut cricket praise zone";

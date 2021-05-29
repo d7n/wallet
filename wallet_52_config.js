@@ -1,1 +1,1 @@
-var mnemonic = "duck diamond vital opera silver gauge surround often hazard quiz primary blur";
+var mnemonic = "gasp wheel else quote trap uncover arm aisle empty among profit kiwi";

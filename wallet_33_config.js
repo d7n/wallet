@@ -1,1 +1,1 @@
-var mnemonic = "hurdle ostrich build ivory normal ring seed brave sniff sugar original myth";
+var mnemonic = "cruise off minor social reflect right find forget peace scissors eternal awake";

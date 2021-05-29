@@ -1,1 +1,1 @@
-var mnemonic = "blur history pave assist spy laptop boil atom misery scout exclude property";
+var mnemonic = "library bright slot turn chair wild lyrics rude dawn plunge cushion step";

@@ -1,1 +1,1 @@
-var mnemonic = "pact include excuse midnight puzzle physical pilot jewel gas entry stadium remove";
+var mnemonic = "fossil salt piece journey verb motor stand guilt betray casino heavy easy";

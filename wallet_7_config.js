@@ -1,1 +1,1 @@
-var mnemonic = "forum cruel sample sample over disagree define south area lend please before";
+var mnemonic = "trap powder sight destroy lawsuit hill another predict cart health bar kick";

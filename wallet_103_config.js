@@ -1,1 +1,1 @@
-var mnemonic = "acquire donate submit supreme please people doll season develop flag laugh unable";
+var mnemonic = "leopard armor castle gaze age decline plunge myth often actor section hurry";

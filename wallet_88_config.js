@@ -1,1 +1,1 @@
-var mnemonic = "apart clown parent curious imitate exist sure lyrics grief rebuild dignity license";
+var mnemonic = "bench dune twelve perfect bronze ready marine belt drastic tube chest view";

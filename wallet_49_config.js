@@ -1,1 +1,1 @@
-var mnemonic = "hole glory drip napkin myth over grass pepper purse arctic sell legend";
+var mnemonic = "cannon rare moral gasp victory question text used disagree crater use orphan";

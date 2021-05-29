@@ -1,1 +1,1 @@
-var mnemonic = "hold depth merit machine notice column consider grit oak educate toy abstract";
+var mnemonic = "cover room foot mask cereal hill ready weird shuffle fragile pulp antique";

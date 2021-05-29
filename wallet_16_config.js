@@ -1,1 +1,1 @@
-var mnemonic = "limb asthma harbor setup hand dove rebel abandon scorpion garment keen panda";
+var mnemonic = "fat fine badge kick rotate chat sing stamp host market exit private";

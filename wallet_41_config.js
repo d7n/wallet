@@ -1,1 +1,1 @@
-var mnemonic = "flag absurd disagree album announce image super glimpse collect film swim multiply";
+var mnemonic = "quantum put truly tray pupil find woman phrase smart bean stadium balcony";

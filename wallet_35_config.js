@@ -1,1 +1,1 @@
-var mnemonic = "bounce supreme love rubber member jewel day impact ring gate trophy since";
+var mnemonic = "ginger cave pottery same celery frozen accuse owner crouch burden merit planet";

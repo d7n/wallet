@@ -1,1 +1,1 @@
-var mnemonic = "finger east waste razor infant asset boy melt client group chase hood";
+var mnemonic = "rally time dress robust race ecology bicycle army gossip size wear loud";

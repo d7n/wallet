@@ -1,1 +1,1 @@
-var mnemonic = "animal elbow obscure behind want friend act rain replace plug wing perfect";
+var mnemonic = "wedding left virus network patch toddler antique organ purpose health shield adapt";

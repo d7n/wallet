@@ -1,1 +1,1 @@
-var mnemonic = "venture photo relax culture arrive sting census school card fee insane cool";
+var mnemonic = "powder own spider achieve chase never trial horn neglect scout interest scare";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding vacant because teach such cable misery pottery immense feature board mixed";
+var mnemonic = "also into salad frog bacon monster maximum blur image author before carry";

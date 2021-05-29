@@ -1,1 +1,1 @@
-var mnemonic = "civil math second follow random diamond april never lobster pink usual suspect";
+var mnemonic = "world limb desert limb convince skull view bulb wet round broom sense";

@@ -1,1 +1,1 @@
-var mnemonic = "man tomato typical cream motor fit program elephant hockey draft praise enjoy";
+var mnemonic = "shed theme energy sudden castle prefer during eagle roof become coil then";

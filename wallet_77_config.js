@@ -1,1 +1,1 @@
-var mnemonic = "much sibling act taste enforce system month unit gorilla gasp museum assume";
+var mnemonic = "shoot cream zone soda hood despair truck cry language foster iron drill";

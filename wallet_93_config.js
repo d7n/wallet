@@ -1,1 +1,1 @@
-var mnemonic = "ozone bulb camera menu blush swap scale same twenty spot dwarf earn";
+var mnemonic = "mosquito life pattern deny print cousin fold cabbage long heavy above rotate";

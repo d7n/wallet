@@ -1,1 +1,1 @@
-var mnemonic = "skin brisk first media tortoise cover present desert deposit hurry verify witness";
+var mnemonic = "coast amazing method tiger worth gasp place penalty area light involve general";

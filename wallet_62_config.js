@@ -1,1 +1,1 @@
-var mnemonic = "trouble horse firm inflict ozone scale drop myself own pond clerk embrace";
+var mnemonic = "october arena firm fringe shoe kitchen float gallery lift pole they other";

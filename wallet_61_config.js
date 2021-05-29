@@ -1,1 +1,1 @@
-var mnemonic = "crew laugh thrive solid express zebra armor reveal sense usage demand color";
+var mnemonic = "shiver aspect trim monitor still lawsuit element object speak crush enrich actual";

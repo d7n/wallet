@@ -1,1 +1,1 @@
-var mnemonic = "donor usage afford magnet grab gold helmet burst fan park immense welcome";
+var mnemonic = "earth sea soup plate vote river hub miracle parrot stage miss offer";

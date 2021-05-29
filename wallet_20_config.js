@@ -1,1 +1,1 @@
-var mnemonic = "trip torch panel absurd profit organ pretty maid share anchor purse grit";
+var mnemonic = "decorate long explain describe destroy march trumpet bar curve surge slide sister";

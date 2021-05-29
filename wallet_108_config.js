@@ -1,1 +1,1 @@
-var mnemonic = "churn novel arctic clutch easy twenty excess humble auction hair dentist furnace";
+var mnemonic = "combine ostrich step glory inch huge will slam mixture twin peace whisper";

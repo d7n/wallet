@@ -1,1 +1,1 @@
-var mnemonic = "thank floor slender place guide east coin depart creek fever inform blue";
+var mnemonic = "slab minimum potato grass foam cake fee crush quantum chest level conduct";

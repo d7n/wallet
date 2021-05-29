@@ -1,1 +1,1 @@
-var mnemonic = "raise reward blanket link crouch bundle alarm olive employ ancient chicken elephant";
+var mnemonic = "obscure flame recipe turkey black gauge reward spirit bone honey only gesture";

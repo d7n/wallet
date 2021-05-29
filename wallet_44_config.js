@@ -1,1 +1,1 @@
-var mnemonic = "thought indoor harvest sting prefer zoo pilot energy protect liquid prize banner";
+var mnemonic = "senior lady broccoli crack cradle undo salt elite sustain rotate cover palace";

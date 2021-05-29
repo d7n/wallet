@@ -1,1 +1,1 @@
-var mnemonic = "analyst carry suffer seven silly together believe oxygen rapid refuse obey easy";
+var mnemonic = "struggle critic genuine butter universe deal mix cattle cabbage dry culture live";

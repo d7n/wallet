@@ -1,1 +1,1 @@
-var mnemonic = "message antenna pudding merit avocado tackle brown fame oil rescue december major";
+var mnemonic = "enlist nominee open twist enjoy radar push wish diesel volcano movie find";

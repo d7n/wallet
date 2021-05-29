@@ -1,1 +1,1 @@
-var mnemonic = "outer beef joke profit love piano harvest report lift stadium water palace";
+var mnemonic = "fever lemon fox report peasant indoor memory raven universe vault copy false";

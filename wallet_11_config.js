@@ -1,1 +1,1 @@
-var mnemonic = "what all salon broom morning cannon buzz pill drive purse disagree broccoli";
+var mnemonic = "wide best knock rather oak maze expose mammal annual major velvet whisper";

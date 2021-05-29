@@ -1,1 +1,1 @@
-var mnemonic = "danger scrap message negative drill dial almost disease first leader field witness";
+var mnemonic = "burger curtain human question swift hammer obvious powder taxi hero donkey rule";

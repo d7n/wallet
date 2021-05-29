@@ -1,1 +1,1 @@
-var mnemonic = "current become limb nominee couch purpose write success jelly drift vendor scene";
+var mnemonic = "page husband include control name session make swarm couch search wedding system";

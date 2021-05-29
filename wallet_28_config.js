@@ -1,1 +1,1 @@
-var mnemonic = "repeat breeze live organ define solar taxi female peace cherry visa pudding";
+var mnemonic = "enough pill dress spider soldier ghost husband acid stone mechanic october urban";

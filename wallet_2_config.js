@@ -1,1 +1,1 @@
-var mnemonic = "knock expire order spice virus hidden brick garment window anchor family build";
+var mnemonic = "obvious warrior key traffic enable cabbage tomorrow season furnace fresh offer bounce";

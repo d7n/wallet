@@ -1,1 +1,1 @@
-var mnemonic = "slam sister step distance boat ivory vast sunny deliver stadium traffic turtle";
+var mnemonic = "arrow woman soldier cactus forward cash endless hire muffin orbit all deer";

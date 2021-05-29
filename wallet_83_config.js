@@ -1,1 +1,1 @@
-var mnemonic = "knife bag gaze patch scheme envelope divide type shrimp typical divide kite";
+var mnemonic = "slab turn goddess bronze online game lounge illegal speak exhibit monkey high";

@@ -1,1 +1,1 @@
-var mnemonic = "name toilet cute corn next begin cherry moon brisk ugly lava arrive";
+var mnemonic = "ticket salad doll journey novel tube essence uphold note weird leave where";

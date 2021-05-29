@@ -1,1 +1,1 @@
-var mnemonic = "police trumpet input link vague thank panther swarm target diet dog scene";
+var mnemonic = "attract island enable north vanish clog absent leader frown size lake bless";

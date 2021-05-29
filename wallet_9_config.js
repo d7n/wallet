@@ -1,1 +1,1 @@
-var mnemonic = "image space drink spike goose lava kid woman output mango green erase";
+var mnemonic = "total artefact disease twenty try magic focus purpose draft curve grit among";

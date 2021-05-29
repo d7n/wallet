@@ -1,1 +1,1 @@
-var mnemonic = "educate pool pony sugar bread grant script drama place prevent resist hen";
+var mnemonic = "purchase marble transfer tissue salute reflect crash mention undo grunt hope girl";

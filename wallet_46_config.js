@@ -1,1 +1,1 @@
-var mnemonic = "prepare firm inflict spin bird example brand item provide jewel win erosion";
+var mnemonic = "talent point blind soap educate absorb grab select benefit useless design smart";

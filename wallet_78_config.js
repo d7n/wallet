@@ -1,1 +1,1 @@
-var mnemonic = "axis habit erosion damp mixture dutch host antique primary hospital insect inquiry";
+var mnemonic = "elbow liquid receive vivid where resist flame better enemy arrive cloud debris";

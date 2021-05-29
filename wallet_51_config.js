@@ -1,1 +1,1 @@
-var mnemonic = "humor miracle stuff embrace habit barrel grass symbol leopard when expire accident";
+var mnemonic = "whip inflict market gossip meadow sail now supreme song cement record trial";

@@ -1,1 +1,1 @@
-var mnemonic = "shy deer law crunch lab royal chapter blanket clog bamboo dilemma accident";
+var mnemonic = "stuff carbon salute rack twice gossip crawl nuclear horse broom bleak luggage";

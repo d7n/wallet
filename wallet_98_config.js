@@ -1,1 +1,1 @@
-var mnemonic = "degree you alien border author reunion seven wife correct answer trumpet inherit";
+var mnemonic = "film erode keep object come differ employ drill never around leave allow";

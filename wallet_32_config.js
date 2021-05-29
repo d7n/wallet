@@ -1,1 +1,1 @@
-var mnemonic = "melt gift arm sea lawn egg reason grace owner fossil seminar corn";
+var mnemonic = "profit proof soft royal trash sniff old grass stage vocal census defense";

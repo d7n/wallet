@@ -1,1 +1,1 @@
-var mnemonic = "flip act spice diet pelican crouch agent admit few icon enjoy item";
+var mnemonic = "extra dress sort movie right frequent desk usage brisk leisure only where";

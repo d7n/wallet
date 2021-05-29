@@ -1,1 +1,1 @@
-var mnemonic = "hole walk load comfort swing fuel hundred capital flash fruit photo over";
+var mnemonic = "pony gown capital drill milk legal nice melody record ecology kangaroo aware";

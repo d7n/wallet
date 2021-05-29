@@ -1,1 +1,1 @@
-var mnemonic = "season north shuffle figure junk cupboard deal distance decrease make decade coconut";
+var mnemonic = "shy track size world under squirrel gospel useful sphere number disorder two";

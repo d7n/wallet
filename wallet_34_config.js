@@ -1,1 +1,1 @@
-var mnemonic = "jacket monster guess cliff chalk small glad wish thought eagle earth echo";
+var mnemonic = "dice ice youth design what scrap alone uniform kick glance stage detail";

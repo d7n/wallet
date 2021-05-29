@@ -1,1 +1,1 @@
-var mnemonic = "neglect labor phone sort word trim mimic gravity rebel chase flee layer";
+var mnemonic = "oblige laundry provide canoe cruel include universe mammal impulse useful car suspect";

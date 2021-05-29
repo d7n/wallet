@@ -1,1 +1,1 @@
-var mnemonic = "genius salmon harbor jump client kid ugly theme news pledge ladder mirror";
+var mnemonic = "will broken choose help country mammal day faculty marble visit black gloom";

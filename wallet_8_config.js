@@ -1,1 +1,1 @@
-var mnemonic = "kiwi spell yard ask legal liquid solve effort latin earth learn admit";
+var mnemonic = "emotion fly joke similar dust awesome scare wet tongue tiny sick unfair";

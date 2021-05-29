@@ -1,1 +1,1 @@
-var mnemonic = "claim domain primary vote jar embark public announce humor attitude city marble";
+var mnemonic = "supreme media pigeon either loop include people raven flower double earth together";

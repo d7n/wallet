@@ -1,1 +1,1 @@
-var mnemonic = "cabin cricket power gather smooth entire there pole strategy scan flower bottom";
+var mnemonic = "rhythm pluck horror tongue height away whip quantum empty vague clap velvet";

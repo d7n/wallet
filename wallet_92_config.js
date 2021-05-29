@@ -1,1 +1,1 @@
-var mnemonic = "also bench dry humble night online judge display deliver profit parrot income";
+var mnemonic = "drip fiber foster render civil ancient good pizza pistol video response list";

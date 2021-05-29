@@ -1,1 +1,1 @@
-var mnemonic = "clean tissue erosion guess elbow vast exotic admit between south either short";
+var mnemonic = "cost cargo hockey evolve cactus extend maple glass seed best cube again";

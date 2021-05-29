@@ -1,1 +1,1 @@
-var mnemonic = "erosion clerk banner display pool reunion they tip minute amateur broken island";
+var mnemonic = "assume leader tide whale mango devote bitter crush congress verify dice begin";

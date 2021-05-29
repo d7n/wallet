@@ -1,1 +1,1 @@
-var mnemonic = "tuition estate dwarf true post simple hamster lens demand tunnel brown hair";
+var mnemonic = "resource clump check economy viable cloud aware hobby attract lawsuit stem tank";

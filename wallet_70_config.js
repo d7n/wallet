@@ -1,1 +1,1 @@
-var mnemonic = "range stick unit airport session tube swing spray repair amused maple anchor";
+var mnemonic = "motor page explain news notice execute decrease enhance erode chunk gauge major";

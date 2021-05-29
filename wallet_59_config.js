@@ -1,1 +1,1 @@
-var mnemonic = "resemble say stereo fruit depart grid unique forward ancient steel rule drip";
+var mnemonic = "material object lyrics lens pipe shadow swift million panel course exit time";

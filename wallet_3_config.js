@@ -1,1 +1,1 @@
-var mnemonic = "devote century pitch deny bone upon asset work winter reveal dumb girl";
+var mnemonic = "trend lava huge night attend giggle van palace drip mansion bunker wolf";

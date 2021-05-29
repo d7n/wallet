@@ -1,1 +1,1 @@
-var mnemonic = "card rabbit blouse garage vacuum produce twist duty lion champion mesh tail";
+var mnemonic = "dizzy sweet brown area food rent limit olive slide advance exist sorry";

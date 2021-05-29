@@ -1,1 +1,1 @@
-var mnemonic = "minor ripple brown tongue settle side gossip pair inspire tiny snap grit";
+var mnemonic = "pony stage prosper core left surround hero okay lottery together few prepare";

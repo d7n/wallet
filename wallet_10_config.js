@@ -1,1 +1,1 @@
-var mnemonic = "ball century gas repair expect foot measure smart depth rescue wagon witness";
+var mnemonic = "news little confirm aspect tube valid knock sell buyer strong video joy";

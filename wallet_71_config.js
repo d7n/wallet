@@ -1,1 +1,1 @@
-var mnemonic = "napkin barely print mule rural bulk science candy cube soccer casino destroy";
+var mnemonic = "rival explain hair dinner observe merit sudden project cash season sweet laugh";

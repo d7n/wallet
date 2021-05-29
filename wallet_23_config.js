@@ -1,1 +1,1 @@
-var mnemonic = "action title tail effort dune erosion soccer ostrich bundle south exact common";
+var mnemonic = "sniff rule shove exhibit design sing track screen zero chase sheriff domain";

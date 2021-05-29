@@ -1,1 +1,1 @@
-var mnemonic = "off host material seven erase address another village friend dizzy pepper cream";
+var mnemonic = "face cage material act palace today mother shallow pitch rude town gasp";

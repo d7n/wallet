@@ -1,1 +1,1 @@
-var mnemonic = "engage table glide eight local virtual tackle glance bacon donor welcome ecology";
+var mnemonic = "hollow pattern tuition bundle accident fame primary oyster opera record street about";

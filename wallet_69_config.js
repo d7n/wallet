@@ -1,1 +1,1 @@
-var mnemonic = "cradle solid abuse syrup lend chicken equip girl salute mind delay naive";
+var mnemonic = "regular buddy mutual perfect ghost want wisdom shift erode reduce nest equip";

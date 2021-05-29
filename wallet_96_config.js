@@ -1,1 +1,1 @@
-var mnemonic = "rescue measure roast mirror alley pause critic clean window extra boil seed";
+var mnemonic = "observe genre leader work attend ankle marble knee toss section giant tree";

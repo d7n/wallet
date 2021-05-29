@@ -1,1 +1,1 @@
-var mnemonic = "harbor off result month section rough dirt brush ritual under swamp pig";
+var mnemonic = "buzz robot kid brick virus conduct crawl dose tiger feature melody pattern";

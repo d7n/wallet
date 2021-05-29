@@ -1,1 +1,1 @@
-var mnemonic = "fabric street pioneer faith bitter car gossip any palm omit below badge";
+var mnemonic = "harbor people stomach true connect hobby assault bag confirm pumpkin gauge clean";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly tomorrow runway rate major logic parent hair earn strong solution jacket";
+var mnemonic = "bronze resemble rally narrow resource sketch butter nominee cricket smooth mandate urban";

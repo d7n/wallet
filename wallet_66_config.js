@@ -1,1 +1,1 @@
-var mnemonic = "exotic seek august anchor frost hybrid story diesel group enough extend there";
+var mnemonic = "despair mixture pond atom fine card girl learn enroll tiger announce sign";

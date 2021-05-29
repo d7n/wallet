@@ -1,1 +1,1 @@
-var mnemonic = "wave feature card rigid submit people soldier size mushroom cheap wine nice";
+var mnemonic = "seek average grace rotate digital short glare hybrid creek satoshi paper body";

@@ -1,1 +1,1 @@
-var mnemonic = "deer chalk pave poem approve slot legend marble entry into slight eager";
+var mnemonic = "negative game cake raise dry leaf ship february wage hockey pair naive";

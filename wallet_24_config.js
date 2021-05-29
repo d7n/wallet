@@ -1,1 +1,1 @@
-var mnemonic = "gym belt stick swap genre relief confirm people sight huge hurry alcohol";
+var mnemonic = "speak swift salute swim hazard pudding grain good divide scheme elite oppose";

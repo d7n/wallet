@@ -1,1 +1,1 @@
-var mnemonic = "luxury north pair general cute gallery rate hidden planet surge lock crawl";
+var mnemonic = "govern celery kangaroo acquire cash robot forum copy episode neglect drill neutral";

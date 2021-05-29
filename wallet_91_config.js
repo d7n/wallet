@@ -1,1 +1,1 @@
-var mnemonic = "tuna develop permit canyon fluid bacon become verb solid august february tape";
+var mnemonic = "unaware focus eagle property matter skull bag sand become network cluster trip";

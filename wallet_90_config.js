@@ -1,1 +1,1 @@
-var mnemonic = "grunt noodle unknown hair inquiry arrange slender tonight under wave citizen survey";
+var mnemonic = "accuse sail area once three genre dwarf eight liquid melt occur later";

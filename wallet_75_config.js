@@ -1,1 +1,1 @@
-var mnemonic = "dutch ozone admit shallow muscle clarify cram approve casual frost tomorrow exact";
+var mnemonic = "spice sight obscure reward there afraid solid barely script educate suspect shed";

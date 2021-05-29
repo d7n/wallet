@@ -1,1 +1,1 @@
-var mnemonic = "deliver pioneer title monkey return inspire fabric lamp raccoon auto search wave";
+var mnemonic = "ability future human reveal hotel bean jar quiz price scrap cannon endless";
