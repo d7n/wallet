@@ -1,1 +1,1 @@
-var mnemonic = "near basket slender parade card medal argue can tackle diagram feel accuse";
+var mnemonic = "burst axis mad icon congress stool coin chief humble mirror survey hold";

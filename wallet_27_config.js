@@ -1,1 +1,1 @@
-var mnemonic = "fence sorry wide laugh work life popular distance reward wrist aim slot";
+var mnemonic = "tide claw ketchup concert faith flight penalty wall normal lemon motor fog";

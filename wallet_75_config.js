@@ -1,1 +1,1 @@
-var mnemonic = "genre small stereo stove depth absorb evil dish spin swap excess negative";
+var mnemonic = "glove general mind fiscal elder antique drop solve car shaft skin chase";

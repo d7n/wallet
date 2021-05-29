@@ -1,1 +1,1 @@
-var mnemonic = "certain brain edit tackle ill frog diagram awesome vivid blame open satoshi";
+var mnemonic = "sand impose city globe junior sponsor letter suit garment second pond fog";

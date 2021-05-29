@@ -1,1 +1,1 @@
-var mnemonic = "tuition calm child airport prize slush leisure moon pelican august army royal";
+var mnemonic = "bind vendor great jewel trash layer assume conduct rich trip plug maid";

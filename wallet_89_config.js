@@ -1,1 +1,1 @@
-var mnemonic = "pioneer must forward salute shift blur grunt sustain merry happy heart describe";
+var mnemonic = "junk keep demise man vehicle vanish soul demand miracle path trumpet spice";

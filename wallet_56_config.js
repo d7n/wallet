@@ -1,1 +1,1 @@
-var mnemonic = "sell gift peanut chief token vehicle correct blast fringe gadget logic era";
+var mnemonic = "cover mom figure sleep silver ring feel mistake cart nothing school laugh";

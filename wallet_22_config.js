@@ -1,1 +1,1 @@
-var mnemonic = "bunker obey despair stick logic depart dial help recall stereo kid denial";
+var mnemonic = "that acoustic faint autumn cannon head aspect report path obtain lock page";

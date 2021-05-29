@@ -1,1 +1,1 @@
-var mnemonic = "buddy next comfort use width joke poverty crunch nothing prepare six mask";
+var mnemonic = "lonely result barrel usual update spoon vehicle twin return tornado fly chief";

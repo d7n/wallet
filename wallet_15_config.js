@@ -1,1 +1,1 @@
-var mnemonic = "stock north van entire good eye rival rug recall yellow leave example";
+var mnemonic = "select once crash snap hedgehog slab saddle mistake warrior they green news";

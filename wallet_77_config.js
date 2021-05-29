@@ -1,1 +1,1 @@
-var mnemonic = "endorse one brother exact scene win radar normal luxury sort mammal goddess";
+var mnemonic = "turn horse scene thing evil rule nurse slam slice giant brief physical";

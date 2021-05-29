@@ -1,1 +1,1 @@
-var mnemonic = "drill mercy ugly pond cup dream wait valley brown extra sun balance";
+var mnemonic = "sick cabbage jealous media wife reject pride kit resist hidden giraffe business";

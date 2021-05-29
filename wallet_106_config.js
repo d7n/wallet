@@ -1,1 +1,1 @@
-var mnemonic = "drop ball indicate receive symptom plate use upon know traffic pizza mammal";
+var mnemonic = "hope universe tobacco tumble real scrub athlete sense velvet pelican submit holiday";

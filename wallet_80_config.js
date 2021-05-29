@@ -1,1 +1,1 @@
-var mnemonic = "sword axis scatter people future option capital unique deliver right insane better";
+var mnemonic = "bounce cat boy umbrella label ship since setup hurdle dumb shield crawl";

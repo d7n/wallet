@@ -1,1 +1,1 @@
-var mnemonic = "woman explain such pass tongue thrive oven occur lazy doll feel reform";
+var mnemonic = "special resemble region sun donate captain same phone update canvas unit knife";

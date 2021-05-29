@@ -1,1 +1,1 @@
-var mnemonic = "swarm observe myth loop enforce brand slam antique elephant card warm symptom";
+var mnemonic = "age success usual ozone charge exile wine dial custom attract abstract slogan";

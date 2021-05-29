@@ -1,1 +1,1 @@
-var mnemonic = "nut average market corn cheap can panther will mule drop outer hello";
+var mnemonic = "water legend buyer delay shiver decade portion lion analyst coast bean face";

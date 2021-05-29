@@ -1,1 +1,1 @@
-var mnemonic = "service conduct income gasp avoid fabric rare slab more regular diesel ivory";
+var mnemonic = "short crazy hold enrich movie athlete erase refuse bubble believe angry settle";

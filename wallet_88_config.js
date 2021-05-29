@@ -1,1 +1,1 @@
-var mnemonic = "opinion sniff cave ride avocado print chief sheriff soap belt tent perfect";
+var mnemonic = "genuine dream fox elite appear shine learn trend mango visa skull any";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect novel skull prepare thunder stairs future case parent dose drastic teach";
+var mnemonic = "world project option vacant orange glance confirm aisle since fresh milk elder";

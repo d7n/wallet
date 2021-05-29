@@ -1,1 +1,1 @@
-var mnemonic = "kiss doctor leg simple mirror exclude ivory bulb breeze dinner luggage cheese";
+var mnemonic = "matter cradle purse joke trick avocado market exact jump test remove economy";

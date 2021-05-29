@@ -1,1 +1,1 @@
-var mnemonic = "between divide pole rate trim afraid list uniform foam hour demise when";
+var mnemonic = "marriage strong oxygen couple mule danger begin rifle danger deliver observe easy";

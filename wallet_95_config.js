@@ -1,1 +1,1 @@
-var mnemonic = "capable pudding output cash illness energy crawl raw message first grid margin";
+var mnemonic = "crucial wave fabric awful member clip old main verb artwork range unusual";

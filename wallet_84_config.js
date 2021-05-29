@@ -1,1 +1,1 @@
-var mnemonic = "hotel apology relax spread increase path column silk live cross used spawn";
+var mnemonic = "battle toss hole need dash limb word camp phone vintage dawn similar";

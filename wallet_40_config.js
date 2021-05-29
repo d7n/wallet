@@ -1,1 +1,1 @@
-var mnemonic = "december castle artefact hamster genuine begin lend life volcano hub market badge";
+var mnemonic = "twist when senior modify drop crystal idea squeeze boat lesson street annual";

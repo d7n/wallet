@@ -1,1 +1,1 @@
-var mnemonic = "glide flip use rebel naive penalty bird rare reveal ripple summer chat";
+var mnemonic = "between lazy neither early valley control federal gospel south horror clinic style";

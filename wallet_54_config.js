@@ -1,1 +1,1 @@
-var mnemonic = "urban turn iron collect energy pluck student cabin pelican present script diary";
+var mnemonic = "glass protect garment stereo bid panic keep phrase awful eight manage mango";

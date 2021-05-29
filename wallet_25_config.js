@@ -1,1 +1,1 @@
-var mnemonic = "oil rather suspect forget news soda toilet silver already catalog surround rent";
+var mnemonic = "cousin dynamic doctor pumpkin jazz innocent iron also gorilla odor travel degree";

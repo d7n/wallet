@@ -1,1 +1,1 @@
-var mnemonic = "balcony huge shift hidden switch issue main dress tired useful toe type";
+var mnemonic = "despair obey convince choose chunk drip social west sure pizza feed donate";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket differ place sting unaware waste answer spin canal carpet beyond census";
+var mnemonic = "junk diagram need apology awesome talent pole goat glove velvet insect away";

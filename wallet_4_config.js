@@ -1,1 +1,1 @@
-var mnemonic = "shine identify forum holiday cube adapt glove spray speed area spatial hint";
+var mnemonic = "faint soup sentence exchange maze forum trade car quiz before must develop";

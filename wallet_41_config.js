@@ -1,1 +1,1 @@
-var mnemonic = "describe grit brick gift matrix equip ritual road fine loop evolve easy";
+var mnemonic = "favorite fox fetch happy wreck core visa ecology nature matter festival bulk";

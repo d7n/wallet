@@ -1,1 +1,1 @@
-var mnemonic = "edit amateur session salad miracle security squirrel label pen master come exercise";
+var mnemonic = "fiscal come proof live reveal feed amateur excess service plate portion gorilla";

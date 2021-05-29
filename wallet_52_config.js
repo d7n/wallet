@@ -1,1 +1,1 @@
-var mnemonic = "rifle radar clip drip gap crawl bundle option strategy cotton decade worth";
+var mnemonic = "hello census network grocery spot flame oil never maximum long step mansion";

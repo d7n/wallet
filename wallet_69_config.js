@@ -1,1 +1,1 @@
-var mnemonic = "split conduct able fringe praise parent saddle cloud learn citizen hawk august";
+var mnemonic = "such sketch text creek govern sail peasant drum govern buddy decrease donkey";

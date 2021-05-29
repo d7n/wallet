@@ -1,1 +1,1 @@
-var mnemonic = "bicycle grace service runway iron wife stock virus cage weekend alien secret";
+var mnemonic = "victory tape blanket banner pyramid heart cereal jewel jaguar horn island pass";

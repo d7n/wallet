@@ -1,1 +1,1 @@
-var mnemonic = "broken confirm maximum rough reopen box oxygen scare among dove reunion essence";
+var mnemonic = "salute ritual state estate enable giant link acid decrease diamond hello master";

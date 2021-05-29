@@ -1,1 +1,1 @@
-var mnemonic = "lizard security immune ghost dizzy case romance exact word glass credit equal";
+var mnemonic = "bench kitchen face couple common gold firm kitten strike turn coin seed";

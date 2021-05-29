@@ -1,1 +1,1 @@
-var mnemonic = "marriage age claim crisp issue pink dismiss mountain inner spider smoke hen";
+var mnemonic = "blind media accident pulp rigid actor armed morning fee prepare symptom focus";

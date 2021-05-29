@@ -1,1 +1,1 @@
-var mnemonic = "soft sound miss faculty tip hazard often sponsor gift profit whale strong";
+var mnemonic = "come tilt choice inspire since team warm advance festival long easily hen";

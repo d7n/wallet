@@ -1,1 +1,1 @@
-var mnemonic = "anxiety fuel choice immune awake display drama talent season novel team say";
+var mnemonic = "doctor vote layer slogan start law paddle dragon print hire rose beach";

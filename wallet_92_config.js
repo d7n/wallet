@@ -1,1 +1,1 @@
-var mnemonic = "aim green conduct finger know time neutral crime cliff before waste sport";
+var mnemonic = "vintage garment rally wood vivid human inquiry chronic fatigue echo brain cash";

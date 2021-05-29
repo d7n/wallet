@@ -1,1 +1,1 @@
-var mnemonic = "case hope trust gauge census pull absurd combine above announce combine when";
+var mnemonic = "clip now tip purchase need close remember ancient slim bacon moon fringe";

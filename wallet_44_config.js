@@ -1,1 +1,1 @@
-var mnemonic = "saddle garment bind absent move mimic win exhibit choose worth dose south";
+var mnemonic = "injury daughter twin eye drum snow tumble witness ancient like oxygen keen";

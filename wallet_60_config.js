@@ -1,1 +1,1 @@
-var mnemonic = "soda alone you distance bargain shove anchor vivid earn innocent control strategy";
+var mnemonic = "taste crush bridge initial knock derive grunt tent polar oil popular slice";

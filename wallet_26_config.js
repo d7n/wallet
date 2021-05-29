@@ -1,1 +1,1 @@
-var mnemonic = "discover wealth food ability update scrub remove daughter assume visual dutch timber";
+var mnemonic = "alien pretty mansion tornado mad nose pool brass pistol tent give cereal";

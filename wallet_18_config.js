@@ -1,1 +1,1 @@
-var mnemonic = "super chief now exist simple file bike olive hand praise phrase citizen";
+var mnemonic = "giraffe certain blood salute bind duty wrap virtual draw chair appear fine";

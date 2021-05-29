@@ -1,1 +1,1 @@
-var mnemonic = "girl boost space fruit witness judge glue pact city skull piano evoke";
+var mnemonic = "describe smoke harbor three violin mesh lobster economy young memory agent twin";

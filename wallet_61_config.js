@@ -1,1 +1,1 @@
-var mnemonic = "happy okay bus train comic trash retire carpet program surge repeat hair";
+var mnemonic = "clip divide oil giggle science gate math teach sad join shrimp demise";

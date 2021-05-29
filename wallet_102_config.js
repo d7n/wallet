@@ -1,1 +1,1 @@
-var mnemonic = "magic balance narrow belt surge pulp ethics adjust pyramid faint rapid patient";
+var mnemonic = "slam time treat steak speak valid dad kid casual grace delay surface";

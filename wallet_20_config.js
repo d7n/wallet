@@ -1,1 +1,1 @@
-var mnemonic = "indicate accuse bronze endless trade fuel near man tribe purse aim milk";
+var mnemonic = "caution gather follow inmate effort rebel bus finger zebra frame primary bleak";

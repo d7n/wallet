@@ -1,1 +1,1 @@
-var mnemonic = "exchange luggage barely fitness disease impose empower airport scene basic depth win";
+var mnemonic = "bulk crumble region leader scissors truly fashion divide one adult spring flower";

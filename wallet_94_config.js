@@ -1,1 +1,1 @@
-var mnemonic = "analyst obvious jelly slush evoke result inflict property void destroy skate tragic";
+var mnemonic = "tilt electric black stomach try believe surround lens what ceiling enemy cupboard";

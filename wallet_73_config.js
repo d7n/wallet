@@ -1,1 +1,1 @@
-var mnemonic = "assault mouse old glove pull glance elder stand treat cradle later original";
+var mnemonic = "output stuff until lunar glass force cement basic ethics detail cute cause";

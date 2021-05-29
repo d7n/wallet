@@ -1,1 +1,1 @@
-var mnemonic = "conduct defense baby media lamp shock habit share exile clump voyage swarm";
+var mnemonic = "oval critic never coffee glad choose glass region muscle canyon orchard truth";

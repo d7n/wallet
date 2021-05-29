@@ -1,1 +1,1 @@
-var mnemonic = "gym prison fatigue miss duty floor subway tourist swap ritual pigeon bomb";
+var mnemonic = "choice defy clean amazing describe change genre summer sign same angry reopen";

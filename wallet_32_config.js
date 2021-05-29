@@ -1,1 +1,1 @@
-var mnemonic = "wire orient crush stairs cube valid witness bleak rural acquire claim bargain";
+var mnemonic = "electric valid radar dice decorate adapt swear notice title nerve royal dolphin";

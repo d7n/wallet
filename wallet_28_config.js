@@ -1,1 +1,1 @@
-var mnemonic = "accident ride electric project emerge craft omit orient kite pattern price coffee";
+var mnemonic = "lawn hollow jacket illness royal photo decide image era open dinosaur misery";

@@ -1,1 +1,1 @@
-var mnemonic = "market neither toddler ride glide copy process embark treat grape clip limit";
+var mnemonic = "program mistake crack stamp item elephant mimic scout pony mask math soft";

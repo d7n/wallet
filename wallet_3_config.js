@@ -1,1 +1,1 @@
-var mnemonic = "phone opinion flee clip custom gain garlic traffic wheel fee dress subway";
+var mnemonic = "render matter code coach surface wedding top ginger shuffle crew hedgehog monkey";

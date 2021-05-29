@@ -1,1 +1,1 @@
-var mnemonic = "under cable merry disorder upon glove face sleep bread cereal suffer skull";
+var mnemonic = "between strong coral banana survey dilemma smart wife manual reopen twice thumb";

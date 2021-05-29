@@ -1,1 +1,1 @@
-var mnemonic = "rate novel suffer pact wall brisk image attitude bulk off monitor cluster";
+var mnemonic = "best shuffle coffee outer volume bullet present stay wrist picnic pulp monkey";

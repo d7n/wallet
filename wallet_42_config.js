@@ -1,1 +1,1 @@
-var mnemonic = "swallow romance school around weasel legend tooth acid fault excuse elbow brother";
+var mnemonic = "win tell fish casino swim vault credit lucky borrow learn apology crazy";

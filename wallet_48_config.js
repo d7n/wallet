@@ -1,1 +1,1 @@
-var mnemonic = "gown once dance cycle feel detail fame awake tape author million arrive";
+var mnemonic = "neck thunder fiber glide twenty north announce approve summer actress tackle script";

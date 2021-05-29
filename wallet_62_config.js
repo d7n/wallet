@@ -1,1 +1,1 @@
-var mnemonic = "cross muffin sausage silent online visit travel race cactus among hood shop";
+var mnemonic = "drip leg orchard angry shoot bid point noble thunder valid stand bundle";

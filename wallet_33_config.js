@@ -1,1 +1,1 @@
-var mnemonic = "enter hockey enemy office toe laugh kiwi mixed ribbon verb cereal sell";
+var mnemonic = "head stick senior thrive repeat marine embrace couch gloom ring cream credit";

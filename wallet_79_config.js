@@ -1,1 +1,1 @@
-var mnemonic = "magic bind foil stamp scheme chase add devote clerk digital remember execute";
+var mnemonic = "awake survey advice erode bubble feed knock trim verify inner obey sing";

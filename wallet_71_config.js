@@ -1,1 +1,1 @@
-var mnemonic = "tobacco inhale remain future shell observe room marriage cloud vocal spend jungle";
+var mnemonic = "chat photo ketchup success aspect grunt hawk hat scale moment coin motion";

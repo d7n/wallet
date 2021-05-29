@@ -1,1 +1,1 @@
-var mnemonic = "swing scout fitness section mirror demise example erupt vote urban inflict hobby";
+var mnemonic = "blossom nation open minute hill law material marriage crash denial opinion tube";

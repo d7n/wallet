@@ -1,1 +1,1 @@
-var mnemonic = "truck feel parade sound energy furnace cake service deposit chat office lyrics";
+var mnemonic = "body auto image search timber behave maple wall citizen ladder sweet hello";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur ride flush interest retreat despair hole latin remain stable bronze frame";
+var mnemonic = "dog action elder size media echo attract exhibit tunnel perfect swap suit";

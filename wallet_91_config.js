@@ -1,1 +1,1 @@
-var mnemonic = "leaf guitar depth fossil brain display master gesture shy click net fatal";
+var mnemonic = "wash magnet number crater sketch initial unfold butter abandon fantasy pass pulse";

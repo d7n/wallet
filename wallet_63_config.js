@@ -1,1 +1,1 @@
-var mnemonic = "topic debate century reward skill december radio dinner give alarm polar unveil";
+var mnemonic = "wine pumpkin tide photo dog legal stamp dry furnace cluster alert minor";

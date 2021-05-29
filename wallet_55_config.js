@@ -1,1 +1,1 @@
-var mnemonic = "topic need immune butter chalk unit distance explain blame adapt drink caught";
+var mnemonic = "ice idea unknown scrap window exact demand impulse guitar shy parade maze";

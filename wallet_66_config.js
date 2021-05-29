@@ -1,1 +1,1 @@
-var mnemonic = "faint produce horn humor lab cable income flight logic someone already carbon";
+var mnemonic = "black slot early wood novel floor enact club impact worry drill destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo level solid fever neck clutch inject drama total correct eagle rural";
+var mnemonic = "dilemma parent chat ball half phrase palm island breeze frequent open letter";

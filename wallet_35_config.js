@@ -1,1 +1,1 @@
-var mnemonic = "fresh sphere warfare gap iron stool shallow design loop favorite alter token";
+var mnemonic = "tumble maid differ believe twenty special grocery host note right thumb curious";

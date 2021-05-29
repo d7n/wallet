@@ -1,1 +1,1 @@
-var mnemonic = "gospel cycle way bottom fresh exile rural october attack pride paddle wine";
+var mnemonic = "bleak castle approve film guilt rigid deny tired identify fold fat laugh";

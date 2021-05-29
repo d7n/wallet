@@ -1,1 +1,1 @@
-var mnemonic = "about tool car eight give april elder canvas rural park math north";
+var mnemonic = "wedding jealous action hard bread maid floor chimney flip gauge cousin acid";

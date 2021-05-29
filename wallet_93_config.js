@@ -1,1 +1,1 @@
-var mnemonic = "ability account cloud best puzzle soul sentence fortune clerk curtain matrix crater";
+var mnemonic = "foam silver timber thumb wing moon captain pole civil hole garbage category";

@@ -1,1 +1,1 @@
-var mnemonic = "merry tornado uncle live nation verb bulb inject pottery boss casino hair";
+var mnemonic = "artwork hero pill bullet twist magic risk profit wear arch decrease damp";

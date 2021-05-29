@@ -1,1 +1,1 @@
-var mnemonic = "pipe valve behave dismiss pride awful goose sponsor demand risk cruise give";
+var mnemonic = "piano knee town later peace drink coin below scene sight train reveal";

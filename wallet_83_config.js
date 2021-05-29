@@ -1,1 +1,1 @@
-var mnemonic = "sadness soft invest error chef badge library extend load play coach curtain";
+var mnemonic = "sadness pen cook spring lava depart view possible stick also estate hybrid";

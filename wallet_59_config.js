@@ -1,1 +1,1 @@
-var mnemonic = "latin arm good rely birth female become engage manual dumb celery feel";
+var mnemonic = "purchase huge boring change throw replace dragon ugly short outside ability glue";

@@ -1,1 +1,1 @@
-var mnemonic = "hint slush subway garbage list hybrid pistol dilemma divide air umbrella stone";
+var mnemonic = "fold save icon matrix tongue bulk spider treat volcano nose there floor";

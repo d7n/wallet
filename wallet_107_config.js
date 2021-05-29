@@ -1,1 +1,1 @@
-var mnemonic = "claim panel build load deliver crime fiscal rally odor acid cereal name";
+var mnemonic = "front spell tuition slender motion notice sun symptom else satisfy conduct clog";

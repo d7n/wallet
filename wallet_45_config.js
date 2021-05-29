@@ -1,1 +1,1 @@
-var mnemonic = "layer taste gift business grape fortune coyote coral hobby you city muffin";
+var mnemonic = "board pelican frequent stock blind burger recall aerobic body shallow father traffic";

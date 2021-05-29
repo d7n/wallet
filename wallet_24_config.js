@@ -1,1 +1,1 @@
-var mnemonic = "volcano crazy item front session pulp grass share puppy once tired mosquito";
+var mnemonic = "husband label resemble detect embark depth silly fox produce weird adult october";

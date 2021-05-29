@@ -1,1 +1,1 @@
-var mnemonic = "bean unit cigar season faint staff leaf tackle achieve occur hollow use";
+var mnemonic = "grass use crater pluck boat hybrid label boat already identify swing wine";
