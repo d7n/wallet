@@ -1,1 +1,1 @@
-var mnemonic = "style genuine olympic gas rhythm prevent turkey great peace drum dance remain";
+var mnemonic = "fine good talk flat nation beach bike field mammal excuse believe sad";

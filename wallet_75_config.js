@@ -1,1 +1,1 @@
-var mnemonic = "arctic winter organ warfare number excite clump cave main assist walk winner";
+var mnemonic = "fault enough scout update shadow choice grab egg announce palace balcony advance";

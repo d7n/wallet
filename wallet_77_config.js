@@ -1,1 +1,1 @@
-var mnemonic = "margin claw clutch wood gasp thumb hotel sell dutch faculty lens cradle";
+var mnemonic = "century above mass swing congress latin behave shaft six innocent arrive logic";

@@ -1,1 +1,1 @@
-var mnemonic = "famous initial fluid sample weekend strong erupt bottom try where inmate twenty";
+var mnemonic = "involve upset carpet reopen six second salad obey leaf taxi police collect";

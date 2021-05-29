@@ -1,1 +1,1 @@
-var mnemonic = "century modify scrub wife measure mix filter angry diet first dentist nation";
+var mnemonic = "soft rice hole mule afford captain slush stove display head grocery code";

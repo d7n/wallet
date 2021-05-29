@@ -1,1 +1,1 @@
-var mnemonic = "thumb aisle employ try shiver cupboard cream loud mushroom develop latin carbon";
+var mnemonic = "industry obtain banana inmate join then ugly delay equip genius position cart";

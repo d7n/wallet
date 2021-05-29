@@ -1,1 +1,1 @@
-var mnemonic = "citizen vintage uncover credit smooth promote ready liberty enact educate memory shadow";
+var mnemonic = "pool actress culture caught shoot divorce motion apple effort example topic basket";

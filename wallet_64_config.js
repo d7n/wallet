@@ -1,1 +1,1 @@
-var mnemonic = "sad steel ship guitar party gesture cry fox cart stumble prize design";
+var mnemonic = "brick frown grunt economy truly page common arm burden crack grape cheese";

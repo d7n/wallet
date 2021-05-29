@@ -1,1 +1,1 @@
-var mnemonic = "much deposit acid weapon festival silent casual minimum matrix south code universe";
+var mnemonic = "mule lunch define color unusual flush reunion unhappy grant ancient vapor include";

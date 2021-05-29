@@ -1,1 +1,1 @@
-var mnemonic = "senior there siren lucky carbon have sample skull lift inquiry fault cat";
+var mnemonic = "snake wave essay sauce blur humble acid over stand ethics obey tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "knee mistake lion erosion shallow bunker reject awesome what web plastic until";
+var mnemonic = "oyster hold square wonder device photo electric series process shove inform basket";

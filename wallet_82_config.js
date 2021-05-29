@@ -1,1 +1,1 @@
-var mnemonic = "fault guitar dress copper office lunch brown alone easily enemy dolphin base";
+var mnemonic = "surface cook recall drink almost rival change rocket ill supreme wire dawn";

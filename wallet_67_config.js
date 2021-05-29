@@ -1,1 +1,1 @@
-var mnemonic = "alley glad toward minor art jacket race sign match ordinary enrich message";
+var mnemonic = "sponsor ladder mirror illness outdoor pulse this task clay unfair biology goat";

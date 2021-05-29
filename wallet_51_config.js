@@ -1,1 +1,1 @@
-var mnemonic = "predict grief raise habit amused blind because right play educate dance trap";
+var mnemonic = "maple oil toy marriage layer regular noble evolve praise impose garden visit";

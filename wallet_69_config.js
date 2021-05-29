@@ -1,1 +1,1 @@
-var mnemonic = "zero fashion path tongue radio ginger grocery ready biology frequent force curtain";
+var mnemonic = "vapor february picnic alien tag crucial good reform void apart wool exclude";

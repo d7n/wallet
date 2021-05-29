@@ -1,1 +1,1 @@
-var mnemonic = "much apology myth finish traffic glory naive debate tragic gift grid depth";
+var mnemonic = "hazard trigger rigid camp bike stairs disagree any lock path track increase";

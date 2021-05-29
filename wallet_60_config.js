@@ -1,1 +1,1 @@
-var mnemonic = "leopard multiply people material skin size awful involve drink market entire license";
+var mnemonic = "surround fantasy exist citizen thing open gas ten admit cushion vicious forum";

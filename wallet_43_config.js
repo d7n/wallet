@@ -1,1 +1,1 @@
-var mnemonic = "sleep caught weather burst bronze hole scorpion alcohol rack great bounce project";
+var mnemonic = "cricket chair wish unknown follow stick legend scan tattoo frown affair test";

@@ -1,1 +1,1 @@
-var mnemonic = "attract avocado word creek wait circle nasty adapt push catalog teach price";
+var mnemonic = "body tuition jealous immense breeze today east street garlic lyrics plug later";

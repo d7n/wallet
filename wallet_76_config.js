@@ -1,1 +1,1 @@
-var mnemonic = "fire kiwi will poverty brother when beyond beef dentist steak kit more";
+var mnemonic = "test edge ribbon child parade flat crowd mean recall decide fix gown";

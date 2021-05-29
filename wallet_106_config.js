@@ -1,1 +1,1 @@
-var mnemonic = "welcome great indicate kitchen secret beach orange rich trip announce claw audit";
+var mnemonic = "click normal distance mosquito duty nation belt dial frame seat exchange lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli together noble hood wash estate excuse toward shaft gallery swamp joke";
+var mnemonic = "crucial shell laugh traffic modify retire record purse zoo giraffe avoid assume";

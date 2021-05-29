@@ -1,1 +1,1 @@
-var mnemonic = "camera left switch minimum kitten addict zebra peanut physical beyond ecology chimney";
+var mnemonic = "eight prosper beach sentence source dress portion spawn index fuel noise warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "awake ecology eye civil boy girl trade observe shrimp traffic sunny soul";
+var mnemonic = "damage tribe proud glad opinion frown smoke narrow fiber dream during message";

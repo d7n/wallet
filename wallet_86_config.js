@@ -1,1 +1,1 @@
-var mnemonic = "gentle mammal emerge access fancy crumble equal solid flee suit label wasp";
+var mnemonic = "behave castle second bundle upgrade amateur reunion coffee network spot venue exhibit";

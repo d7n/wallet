@@ -1,1 +1,1 @@
-var mnemonic = "episode attack ready spoon bind evoke yellow yellow kingdom attack during quit";
+var mnemonic = "snake laundry husband garlic deliver jazz parade valid gloom garment save strategy";

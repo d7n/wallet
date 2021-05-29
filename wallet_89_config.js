@@ -1,1 +1,1 @@
-var mnemonic = "fashion glory fancy humor camera always fence nature gorilla toward glare mouse";
+var mnemonic = "seed cereal eagle adapt pole live talent maximum day draw suspect bronze";

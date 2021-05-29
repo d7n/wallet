@@ -1,1 +1,1 @@
-var mnemonic = "bonus obscure habit hand device depart offer ignore viable claim ranch record";
+var mnemonic = "project crane deputy primary forward donor myself depth divorce helmet town banana";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil someone first kiss cinnamon oven spike draw viable gospel olympic evoke";
+var mnemonic = "surround plunge angry fade hope slush fatigue behave escape acquire insect scheme";

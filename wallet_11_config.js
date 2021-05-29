@@ -1,1 +1,1 @@
-var mnemonic = "gather small quality dutch prefer extra strike appear fit frost client eyebrow";
+var mnemonic = "army bleak section project hope expect split champion blast square save youth";

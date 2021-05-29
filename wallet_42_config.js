@@ -1,1 +1,1 @@
-var mnemonic = "cube language ridge maze head express festival urge wave range run apart";
+var mnemonic = "derive erosion spot board three inmate orphan digital gas book hotel disorder";

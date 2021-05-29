@@ -1,1 +1,1 @@
-var mnemonic = "gasp orchard manual kite boost mule train century burden recipe motor sleep";
+var mnemonic = "accident humor lift simple until festival vast caught witness people tree nerve";

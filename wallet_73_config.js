@@ -1,1 +1,1 @@
-var mnemonic = "giant cherry license west anger recall video enrich chat dawn fan okay";
+var mnemonic = "era there ball similar divide since matrix shell bridge tilt jump coffee";

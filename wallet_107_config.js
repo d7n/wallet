@@ -1,1 +1,1 @@
-var mnemonic = "wagon legend pull error exotic sheriff poet crumble enemy seat used employ";
+var mnemonic = "latin fabric brisk dutch word afraid domain betray harbor task language amused";

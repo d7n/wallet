@@ -1,1 +1,1 @@
-var mnemonic = "raccoon solar fashion void gas diamond like punch kite fabric onion find";
+var mnemonic = "approve conduct drastic afford melody expect fiscal rookie monkey machine diagram assist";

@@ -1,1 +1,1 @@
-var mnemonic = "hand census observe alley famous door secret sentence debris lounge skate candy";
+var mnemonic = "news boost great coyote help ship wool discover lemon sister trick height";

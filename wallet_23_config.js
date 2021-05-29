@@ -1,1 +1,1 @@
-var mnemonic = "feature foam raw capable web echo perfect dolphin empower ten below evolve";
+var mnemonic = "script artist reunion humble proud all throw outdoor barrel rigid system habit";

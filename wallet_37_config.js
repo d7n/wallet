@@ -1,1 +1,1 @@
-var mnemonic = "subject orange tomato alert fluid announce govern age mystery story error echo";
+var mnemonic = "solve state false girl tiger obey true party exile tide holiday uniform";

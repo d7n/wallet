@@ -1,1 +1,1 @@
-var mnemonic = "cereal fat inhale tragic arrest since clarify appear era report wear sail";
+var mnemonic = "square orange sniff tiger zone knife plate trade ordinary broom metal essay";

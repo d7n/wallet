@@ -1,1 +1,1 @@
-var mnemonic = "belt offer vocal soda work vanish people mistake lobster surprise zebra basic";
+var mnemonic = "urge beef define hybrid smile flip system call clarify oval you satoshi";

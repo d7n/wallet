@@ -1,1 +1,1 @@
-var mnemonic = "fancy sheriff apple decade equal hazard fatal forum away private garment impact";
+var mnemonic = "common bring brass pelican engine wedding print good toe because input they";

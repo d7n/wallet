@@ -1,1 +1,1 @@
-var mnemonic = "creek custom speak panther soda net awkward assist poverty future hurt board";
+var mnemonic = "forest flee pottery recipe tuition flower step violin donkey betray win craft";

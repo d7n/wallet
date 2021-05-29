@@ -1,1 +1,1 @@
-var mnemonic = "gauge penalty drive spin problem exclude amazing wife glory drink alarm armed";
+var mnemonic = "goose agree sudden multiply symptom romance response stomach coyote expose easily best";

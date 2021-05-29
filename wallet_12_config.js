@@ -1,1 +1,1 @@
-var mnemonic = "tuna brain dawn nuclear educate gown flight able empty sad journey great";
+var mnemonic = "occur rifle device inquiry hello pave atom rally promote song across lunar";

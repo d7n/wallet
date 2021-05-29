@@ -1,1 +1,1 @@
-var mnemonic = "load glide aspect make essence health chat parade mesh repair blast supply";
+var mnemonic = "spike avoid village wire chalk february rescue excite hole leopard amazing never";

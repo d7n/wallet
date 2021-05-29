@@ -1,1 +1,1 @@
-var mnemonic = "green brush goose pilot vintage afraid target east habit logic delay grid";
+var mnemonic = "scrub belt garden canvas eyebrow heavy lounge void vague release chicken hamster";

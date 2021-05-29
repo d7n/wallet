@@ -1,1 +1,1 @@
-var mnemonic = "remove buffalo fury master update list wine update still symptom moral exchange";
+var mnemonic = "rug sentence enough chapter cram belt marriage train economy elbow symbol will";

@@ -1,1 +1,1 @@
-var mnemonic = "patient plastic suit super digital harsh art surprise flock slight urban narrow";
+var mnemonic = "dragon tribe achieve goddess angle october float vapor brisk image pepper hire";

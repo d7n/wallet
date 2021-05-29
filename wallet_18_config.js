@@ -1,1 +1,1 @@
-var mnemonic = "head ride during number slim loud increase debate upon measure toy ahead";
+var mnemonic = "slide fitness vendor mail wire involve bus eager carry grief apology bind";

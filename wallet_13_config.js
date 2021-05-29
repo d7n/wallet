@@ -1,1 +1,1 @@
-var mnemonic = "asthma hurt mention tortoise monkey reject return ozone employ buyer egg swallow";
+var mnemonic = "give ensure argue jar mention truth slot cannon burden veteran super custom";

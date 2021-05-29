@@ -1,1 +1,1 @@
-var mnemonic = "upset alter identify limb save keen govern before minimum rival museum abstract";
+var mnemonic = "ceiling cage grass weekend this easy avocado lock ball rigid caution waste";

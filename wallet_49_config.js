@@ -1,1 +1,1 @@
-var mnemonic = "lazy good skin effort receive cradle famous roof talk devote outer wish";
+var mnemonic = "burden three neck primary sister slice motor seminar shallow coconut double upgrade";

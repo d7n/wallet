@@ -1,1 +1,1 @@
-var mnemonic = "recall fade public moral grant acquire cheese private flag access wool bridge";
+var mnemonic = "enlist oil forest decide weapon exclude stove scan slogan raise crowd hood";

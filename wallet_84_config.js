@@ -1,1 +1,1 @@
-var mnemonic = "cactus limit lend butter midnight empty chunk unique truly blouse power razor";
+var mnemonic = "mad volume congress fashion relax maximum rug teach foster sentence pave bar";

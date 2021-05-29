@@ -1,1 +1,1 @@
-var mnemonic = "boss coin struggle region disease tired toward tenant enact humor usage invest";
+var mnemonic = "slab bundle frequent capable very seven festival arctic oxygen funny wait fetch";

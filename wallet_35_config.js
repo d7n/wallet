@@ -1,1 +1,1 @@
-var mnemonic = "infant wife pattern adapt october gossip that wing tunnel bunker heart fat";
+var mnemonic = "seminar country dance place wrestle scene reunion suffer law unit place unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "core cage artwork shine useless bar island silk shrug cycle coin green";
+var mnemonic = "trouble boil express nuclear filter glad term profit month gesture hint remain";

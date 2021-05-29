@@ -1,1 +1,1 @@
-var mnemonic = "flash lounge law forget apart provide drama curtain zone silk skate flock";
+var mnemonic = "slam yellow mimic talk plug tuna kitchen grass fresh wave load okay";

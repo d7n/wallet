@@ -1,1 +1,1 @@
-var mnemonic = "couple success phrase dove myth mechanic great screen make advice tower orange";
+var mnemonic = "urban club crucial wrap control inquiry soldier person render slush later turn";

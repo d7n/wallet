@@ -1,1 +1,1 @@
-var mnemonic = "lonely ladder quit rally order club uncle kitchen divert bubble mobile tourist";
+var mnemonic = "below fire learn festival humble tide energy organ feel select improve ramp";

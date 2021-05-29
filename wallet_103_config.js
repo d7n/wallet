@@ -1,1 +1,1 @@
-var mnemonic = "luxury apology oblige rhythm suspect episode family space define raise border fragile";
+var mnemonic = "enlist space catalog cruel aim please bonus quote burden believe snack derive";

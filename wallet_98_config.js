@@ -1,1 +1,1 @@
-var mnemonic = "ugly busy outside core age limb huge pill charge proof desk company";
+var mnemonic = "local material diagram hint receive cargo skate visa pretty apart burst slogan";

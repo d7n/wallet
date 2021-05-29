@@ -1,1 +1,1 @@
-var mnemonic = "output squeeze below ugly faint weekend erode roast flush shed skin crisp";
+var mnemonic = "normal install turkey share kiwi jealous profit ill unknown swift plate decline";

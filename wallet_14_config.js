@@ -1,1 +1,1 @@
-var mnemonic = "garbage much spawn destroy endless riot mechanic direct raven cattle daughter pen";
+var mnemonic = "pumpkin symbol sad used ugly early drive adult demand mandate job leave";

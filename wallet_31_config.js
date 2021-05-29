@@ -1,1 +1,1 @@
-var mnemonic = "sweet square label begin ocean tail check decrease water move virus volume";
+var mnemonic = "shoe unit bone april faculty tenant lava pizza build travel cereal door";

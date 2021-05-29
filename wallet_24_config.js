@@ -1,1 +1,1 @@
-var mnemonic = "gate urge fold napkin absorb venue trip proud balcony angle hundred knock";
+var mnemonic = "fix wall bind bottom achieve tragic execute gravity meadow mean badge soap";

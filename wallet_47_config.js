@@ -1,1 +1,1 @@
-var mnemonic = "violin soft lion paper fat major urban increase almost october author path";
+var mnemonic = "dance oxygen fiscal before vital enhance ship process derive private seed feature";

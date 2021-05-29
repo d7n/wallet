@@ -1,1 +1,1 @@
-var mnemonic = "mammal light artefact gadget rescue kind note collect corn topple sword wedding";
+var mnemonic = "shaft absent time shoulder cart pigeon pudding hill orphan steel setup bridge";

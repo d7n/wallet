@@ -1,1 +1,1 @@
-var mnemonic = "chalk parade winner coyote purpose wall secret smart water coral evidence speed";
+var mnemonic = "cheese mercy path burden hotel thumb energy orchard toddler then claw hobby";

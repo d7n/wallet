@@ -1,1 +1,1 @@
-var mnemonic = "sphere inner sustain blind beach shine cigar until stuff lottery regret film";
+var mnemonic = "fence boy solution assault remember carbon faith physical crouch pyramid race income";

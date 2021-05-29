@@ -1,1 +1,1 @@
-var mnemonic = "glove clinic metal hurdle chat city ask scatter toward priority junior gentle";
+var mnemonic = "lounge drip bleak cat swing flag raccoon erupt chalk connect memory place";

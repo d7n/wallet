@@ -1,1 +1,1 @@
-var mnemonic = "coil conduct purse forum market ginger another share retreat point gorilla purse";
+var mnemonic = "sniff script ghost live zone core fitness mountain spice try ski bounce";

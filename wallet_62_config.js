@@ -1,1 +1,1 @@
-var mnemonic = "venue exist tape shift drift tuna travel various disagree nuclear salute entire";
+var mnemonic = "season together cattle tent refuse quality admit relief push brisk hundred improve";

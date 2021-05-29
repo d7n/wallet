@@ -1,1 +1,1 @@
-var mnemonic = "relax vital mammal chicken scale knock upon soap confirm odor success plate";
+var mnemonic = "recipe slow audit april idle donor tape orbit envelope dog animal give";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich calm erase maximum vapor stairs nephew phone pride hobby pepper tip";
+var mnemonic = "normal give pen auction caught diagram double identify route subway lounge level";

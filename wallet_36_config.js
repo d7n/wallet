@@ -1,1 +1,1 @@
-var mnemonic = "century hamster hard nerve total champion suffer never arch brand business mother";
+var mnemonic = "retire genre garbage donkey quarter liar health axis remind viable share border";

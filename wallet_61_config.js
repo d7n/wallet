@@ -1,1 +1,1 @@
-var mnemonic = "spy best way acoustic excess twelve cable twist march coffee current flag";
+var mnemonic = "tail rib sugar angry enroll garbage same hood apart dumb uncover creek";

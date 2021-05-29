@@ -1,1 +1,1 @@
-var mnemonic = "ball air size adapt broccoli main short drip despair convince knock tumble";
+var mnemonic = "close wide festival gossip tackle lemon arch snake monster code aspect iron";

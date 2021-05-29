@@ -1,1 +1,1 @@
-var mnemonic = "core tobacco goat relief office earth olympic kitten slot quit exact wash";
+var mnemonic = "horror sail delay initial force borrow wrap valve inspire news grid pond";

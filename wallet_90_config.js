@@ -1,1 +1,1 @@
-var mnemonic = "trip similar possible return boost ball armed fiscal viable during loud mean";
+var mnemonic = "stable expire survey adjust canal view outer warrior grit purchase win gesture";

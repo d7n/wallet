@@ -1,1 +1,1 @@
-var mnemonic = "move approve polar shoe solar such critic force rug cram juice oblige";
+var mnemonic = "office tower off cheap race camp blur assist option electric visit ship";

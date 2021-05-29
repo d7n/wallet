@@ -1,1 +1,1 @@
-var mnemonic = "share actress shrug unfair praise enough poem peanut error barely recipe use";
+var mnemonic = "parrot chase joy dirt offer dawn giggle shaft leader champion about cinnamon";

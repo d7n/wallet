@@ -1,1 +1,1 @@
-var mnemonic = "donkey rose woman scrub focus ribbon novel good that spice among fortune";
+var mnemonic = "goddess assist lumber fashion shrug bicycle reward cheese parade primary garment ring";

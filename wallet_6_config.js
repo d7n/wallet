@@ -1,1 +1,1 @@
-var mnemonic = "inch bless this save alert spice input require train gym fitness universe";
+var mnemonic = "tail genuine defense dolphin initial accuse defy eagle syrup foil light used";

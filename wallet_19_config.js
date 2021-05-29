@@ -1,1 +1,1 @@
-var mnemonic = "cherry steak embark test lonely ghost cotton side oblige lens depend insane";
+var mnemonic = "despair orange valley grant trap turtle pizza abuse obscure duck weather pear";

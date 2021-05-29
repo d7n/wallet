@@ -1,1 +1,1 @@
-var mnemonic = "elite hole bleak dizzy taste just hungry casino mother response grunt much";
+var mnemonic = "train erosion coyote story mad scene august cost hundred ship ocean truly";

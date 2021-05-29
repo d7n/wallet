@@ -1,1 +1,1 @@
-var mnemonic = "must chaos town seat discover sad rug quiz length frown setup interest";
+var mnemonic = "flavor legal panic equal door broccoli deal review execute float coffee debris";
