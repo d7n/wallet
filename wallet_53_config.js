@@ -1,1 +1,1 @@
-var mnemonic = "medal believe radar oblige olympic mammal account vapor organ material noodle double";
+var mnemonic = "hurry maple detail chronic mirror funny matrix marine unveil trophy skull huge";

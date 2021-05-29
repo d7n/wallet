@@ -1,1 +1,1 @@
-var mnemonic = "fall tail inject moral enable light since ensure drip festival balance undo";
+var mnemonic = "chapter chaos tourist reject afford catch afford sunset saddle illegal ring thumb";

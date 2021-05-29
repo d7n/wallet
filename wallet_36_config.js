@@ -1,1 +1,1 @@
-var mnemonic = "cream curious mobile anchor plate century mouse bright adjust oil differ gun";
+var mnemonic = "provide school depend perfect comfort nominee goat crop ball mutual deny join";

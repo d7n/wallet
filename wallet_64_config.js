@@ -1,1 +1,1 @@
-var mnemonic = "apart gesture shed enjoy inquiry off original nominee crisp click winner auction";
+var mnemonic = "destroy voyage seek prison nominee come melt fatigue boring bamboo cloth sunny";

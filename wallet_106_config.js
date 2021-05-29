@@ -1,1 +1,1 @@
-var mnemonic = "food woman maid lawn rely swift arrest elite pilot fish typical pause";
+var mnemonic = "radio december hat kite always evoke quote idle skate desk much away";

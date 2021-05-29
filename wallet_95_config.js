@@ -1,1 +1,1 @@
-var mnemonic = "goddess estate annual hawk wood profit desk noble embark piano camera come";
+var mnemonic = "tube suit course eight oppose finger truck sunset aisle leopard type coach";

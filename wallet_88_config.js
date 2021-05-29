@@ -1,1 +1,1 @@
-var mnemonic = "spin aunt spawn repair expect crunch genuine endless submit hazard rather flavor";
+var mnemonic = "notice wrist describe fancy giggle summer envelope unlock oblige local category pig";

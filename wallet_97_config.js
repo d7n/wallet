@@ -1,1 +1,1 @@
-var mnemonic = "absent play catch because spring wrong leopard then aunt ski habit monitor";
+var mnemonic = "orphan find chuckle duty father crush wonder pretty gold skill bamboo exile";

@@ -1,1 +1,1 @@
-var mnemonic = "extra soldier phrase evidence seat doll ball praise grief deal vault wave";
+var mnemonic = "rent still spring vapor fluid pet collect keen amazing hint curious horn";

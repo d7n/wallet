@@ -1,1 +1,1 @@
-var mnemonic = "lift toe journey tooth develop feed mansion universe foster shoot market jar";
+var mnemonic = "proud maximum elevator spoon above regular put shoe trust tip draft unknown";

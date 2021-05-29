@@ -1,1 +1,1 @@
-var mnemonic = "bridge park dish more virtual around genuine journey volcano team follow term";
+var mnemonic = "thrive dilemma clock supply crazy follow alarm region copper cube rude escape";

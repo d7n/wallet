@@ -1,1 +1,1 @@
-var mnemonic = "scrub define debris abstract verify forest warm regular web host already degree";
+var mnemonic = "isolate travel quarter half urge sustain despair doctor oblige produce edit garbage";

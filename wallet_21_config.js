@@ -1,1 +1,1 @@
-var mnemonic = "exact oak prize misery secret control jacket slam shrug ranch trigger must";
+var mnemonic = "happy tenant inmate glove pole skull sea crumble seek ancient collect mask";

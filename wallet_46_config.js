@@ -1,1 +1,1 @@
-var mnemonic = "mesh lumber broken mass club drive flat involve lunar mystery wet hope";
+var mnemonic = "sniff roof retire planet portion excite boost lion ozone balance quick play";

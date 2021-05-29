@@ -1,1 +1,1 @@
-var mnemonic = "taste foot stereo pen alley give tuition fade swamp purchase often invite";
+var mnemonic = "shrug student oppose mail silk breeze close base brand volume all visa";

@@ -1,1 +1,1 @@
-var mnemonic = "poet forest human offer ghost neck sword few baby dragon pretty sphere";
+var mnemonic = "castle unaware floor fruit tunnel swim adjust slot eight chronic once east";

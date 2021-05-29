@@ -1,1 +1,1 @@
-var mnemonic = "flee light cause tube admit cabin captain slot chief punch regret satisfy";
+var mnemonic = "despair run unit sure lock melody example thing amateur angle hockey tube";

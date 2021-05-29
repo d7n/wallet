@@ -1,1 +1,1 @@
-var mnemonic = "patrol shop leisure rule initial desert hire capital fragile rebuild then kingdom";
+var mnemonic = "knock relief face manual vehicle length slam hip found palm since reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch blossom faint neutral bike icon also promote dirt artefact body derive";
+var mnemonic = "truth arrive crumble level fence question alpha match draw chest setup famous";

@@ -1,1 +1,1 @@
-var mnemonic = "second great boil betray naive area sport diet advice trash sleep you";
+var mnemonic = "plunge gadget social best consider chapter easy boil flat isolate elite great";

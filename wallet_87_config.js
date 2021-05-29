@@ -1,1 +1,1 @@
-var mnemonic = "any permit sport urban right brave extra around win angry usual garment";
+var mnemonic = "topic stove rate awkward human path false evil universe issue under immune";

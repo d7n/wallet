@@ -1,1 +1,1 @@
-var mnemonic = "blind egg exhaust dice fiscal grief enough home seat round number snake";
+var mnemonic = "auction menu myself angle dance chapter grass atom lend whale endless element";

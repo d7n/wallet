@@ -1,1 +1,1 @@
-var mnemonic = "clump hammer huge robot amateur small version discover mistake drip parade oblige";
+var mnemonic = "drop ginger cheap strong vote you flock cluster despair jaguar depth pepper";

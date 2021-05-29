@@ -1,1 +1,1 @@
-var mnemonic = "post course toilet fantasy elite whisper season west creek doctor fish summer";
+var mnemonic = "purse spare original picture october nice cage banana witness polar thrive hawk";

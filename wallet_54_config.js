@@ -1,1 +1,1 @@
-var mnemonic = "tooth quote deal bargain orphan absurd tone false alcohol under result pulp";
+var mnemonic = "usual main dust month erupt snake share trouble goddess glide true brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "side case insane step sunset empty captain scheme setup drill chaos rent";
+var mnemonic = "before slot ill panel short autumn vivid kitchen skill other aunt until";

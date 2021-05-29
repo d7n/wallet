@@ -1,1 +1,1 @@
-var mnemonic = "coconut also blood they fancy razor occur abstract brown slab script guard";
+var mnemonic = "page snap craft like train deny together broken object mind boy exclude";

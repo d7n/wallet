@@ -1,1 +1,1 @@
-var mnemonic = "thrive mother ready relief similar unlock twin general lonely draw fence fresh";
+var mnemonic = "perfect divide embark adult unlock document aunt involve square paper wife couple";

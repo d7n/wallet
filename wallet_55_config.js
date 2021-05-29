@@ -1,1 +1,1 @@
-var mnemonic = "green human gesture galaxy wear display tattoo thing arena left right dolphin";
+var mnemonic = "globe tired garment drive apart ancient spy tell broken youth rude neither";

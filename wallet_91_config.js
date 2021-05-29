@@ -1,1 +1,1 @@
-var mnemonic = "thunder climb grass mango disease garage cancel like market leg wealth vapor";
+var mnemonic = "grid carpet ship envelope rigid diesel scrub gloom exclude option stumble evolve";

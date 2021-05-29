@@ -1,1 +1,1 @@
-var mnemonic = "green orient stuff short hip peace accident dirt muffin immune program original";
+var mnemonic = "shell evolve dinner hurdle room outside fame story drill journey gesture shock";

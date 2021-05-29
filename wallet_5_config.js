@@ -1,1 +1,1 @@
-var mnemonic = "jeans slab scare artwork ten tooth fragile puppy orbit fish top that";
+var mnemonic = "jealous radio faculty spoon chief bracket nice matrix ripple milk safe receive";

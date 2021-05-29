@@ -1,1 +1,1 @@
-var mnemonic = "vessel grid vibrant iron blast gather own door furnace feature female vacant";
+var mnemonic = "result blossom cinnamon slogan caught debate sand thing bridge village clump copy";

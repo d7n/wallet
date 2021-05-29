@@ -1,1 +1,1 @@
-var mnemonic = "hero rigid lazy negative tip remove bulb fall suggest key kiwi tag";
+var mnemonic = "witness ring range under cargo insane ivory talent alert slice deny drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "observe clever cry hint half certain woman country rate useless tuna echo";
+var mnemonic = "subway blossom reveal evolve lady tumble fire viable concert twice menu broccoli";

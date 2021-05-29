@@ -1,1 +1,1 @@
-var mnemonic = "female pet noble moon seminar congress fatal clerk convince range chief decline";
+var mnemonic = "course turkey bicycle caution banana mass ginger taste hunt first glare plastic";

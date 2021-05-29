@@ -1,1 +1,1 @@
-var mnemonic = "champion need rhythm apple hotel rack inject wink gentle noble tool blame";
+var mnemonic = "purchase ten atom brother loyal spread supply parent day canyon town verb";

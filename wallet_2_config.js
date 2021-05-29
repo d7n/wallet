@@ -1,1 +1,1 @@
-var mnemonic = "mercy tribe between possible annual shop exercise notice culture nut camp leg";
+var mnemonic = "chef surround venture good file castle glory include mad trick bean police";

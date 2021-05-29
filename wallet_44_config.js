@@ -1,1 +1,1 @@
-var mnemonic = "fun tissue cruise middle foam silver thank clutch nothing crater six auto";
+var mnemonic = "small celery require feed produce eye blame rose truck mercy output apology";

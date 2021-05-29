@@ -1,1 +1,1 @@
-var mnemonic = "van copy total elevator bean exercise park because make taste network pattern";
+var mnemonic = "response force staff endorse broken height fossil ostrich swift guard message army";

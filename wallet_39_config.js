@@ -1,1 +1,1 @@
-var mnemonic = "name nut dizzy bachelor awesome grow employ pull ugly net pottery maze";
+var mnemonic = "across fade stadium little neck giant frozen vintage angry like now sell";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit pyramid flee walnut seek thumb call when pepper stem tape october";
+var mnemonic = "will gospel poverty twin bonus fatigue sense certain retire library civil youth";

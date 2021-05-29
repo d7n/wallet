@@ -1,1 +1,1 @@
-var mnemonic = "win jungle unlock scale salmon bicycle among toast various sunny what disease";
+var mnemonic = "visual team leave brick swear measure ramp south ride praise cube physical";

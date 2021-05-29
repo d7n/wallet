@@ -1,1 +1,1 @@
-var mnemonic = "lock possible design core add drum giant improve benefit supreme glance turkey";
+var mnemonic = "educate pitch trade wing equal lunch solar light rotate frozen raise deny";

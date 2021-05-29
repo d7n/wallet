@@ -1,1 +1,1 @@
-var mnemonic = "example improve lava wait ritual angle sample crucial defense ride muffin album";
+var mnemonic = "way mosquito admit extend length trust conduct quick forest grid document lady";

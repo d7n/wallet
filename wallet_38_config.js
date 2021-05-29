@@ -1,1 +1,1 @@
-var mnemonic = "general arrive inherit spider rich fun absent level mesh mandate lunar congress";
+var mnemonic = "diamond enroll matrix pepper betray glove gospel fresh garden food believe age";

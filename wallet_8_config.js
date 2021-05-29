@@ -1,1 +1,1 @@
-var mnemonic = "pistol head heart crawl pigeon kangaroo museum taste lady artwork water clump";
+var mnemonic = "emerge head bulb dynamic ski boss rice weasel power lava afford perfect";

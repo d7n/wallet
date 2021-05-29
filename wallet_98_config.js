@@ -1,1 +1,1 @@
-var mnemonic = "water crack panda involve jungle police clean cycle random friend lady health";
+var mnemonic = "equip bundle dog improve cigar pulse depart toddler pig model unit holiday";

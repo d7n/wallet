@@ -1,1 +1,1 @@
-var mnemonic = "honey day require decorate brain marine wage gasp write stomach genuine icon";
+var mnemonic = "poverty unfair elder screen tunnel someone lion play range hold shrimp loop";

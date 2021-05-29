@@ -1,1 +1,1 @@
-var mnemonic = "power school advice letter casino two want diesel jeans brother club dinner";
+var mnemonic = "episode name despair favorite floor fluid bid health course evoke urban wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb couple kid smile ship barely tilt market evil glove notice true";
+var mnemonic = "chase special foster sadness kick kiwi drastic music wall thunder side slot";

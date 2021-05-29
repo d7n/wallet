@@ -1,1 +1,1 @@
-var mnemonic = "notice wet analyst young hood just glad type alien fine veteran oak";
+var mnemonic = "brisk view regular genre bleak insane call agent cry museum gold two";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant grocery use cable wage cattle private either obscure drama double key";
+var mnemonic = "obey stable lottery cruise gown obtain secret display evoke hedgehog hurry assume";

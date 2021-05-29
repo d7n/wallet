@@ -1,1 +1,1 @@
-var mnemonic = "lazy lunar hood oyster ask prefer reopen harsh ship crucial wise find";
+var mnemonic = "pride hospital found clinic confirm lake kiss fly next jazz have harvest";

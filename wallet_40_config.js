@@ -1,1 +1,1 @@
-var mnemonic = "bunker draft urge brave aunt praise model reunion copy train open fit";
+var mnemonic = "random calm oven swim parrot equal lady often surround lottery empty emerge";

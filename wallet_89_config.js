@@ -1,1 +1,1 @@
-var mnemonic = "rare border surround unveil hobby goat cotton insect sock spy gather sport";
+var mnemonic = "labor enjoy offer fatal dentist duty try category mobile snap inject carbon";

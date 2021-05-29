@@ -1,1 +1,1 @@
-var mnemonic = "copy edge uncover siren speak network sail skin desk riot emotion gadget";
+var mnemonic = "asthma remind silent fire great scare can message require wasp error coconut";

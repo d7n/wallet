@@ -1,1 +1,1 @@
-var mnemonic = "faculty cannon grain enroll cancel dinosaur behave pottery year swift matrix december";
+var mnemonic = "place enable shiver quit host video depart silent rich under session fiscal";

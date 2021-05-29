@@ -1,1 +1,1 @@
-var mnemonic = "have piano burger auction vicious sting multiply shallow then cabin trust solve";
+var mnemonic = "uncle second they honey cabin upper human oppose veteran promote strong health";

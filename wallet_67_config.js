@@ -1,1 +1,1 @@
-var mnemonic = "budget project name already tree differ begin airport proof arm science door";
+var mnemonic = "come pact talent stereo design better ability nephew kick lunar olympic melody";

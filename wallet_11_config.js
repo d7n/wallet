@@ -1,1 +1,1 @@
-var mnemonic = "such boring treat tackle make brush deny insane chair muffin tonight pepper";
+var mnemonic = "violin torch when disease rice spot inflict attack suspect embrace swarm ask";

@@ -1,1 +1,1 @@
-var mnemonic = "top solution satisfy must saddle horse topic unfair over muscle young kid";
+var mnemonic = "put message utility version priority dry expire lake butter price paddle useless";

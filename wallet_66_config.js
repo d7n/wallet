@@ -1,1 +1,1 @@
-var mnemonic = "plastic frog supply cactus bachelor spoil blast inflict senior tree squirrel hat";
+var mnemonic = "risk language antenna rocket fiscal future noodle good predict exclude joy core";

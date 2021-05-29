@@ -1,1 +1,1 @@
-var mnemonic = "pledge butter party rare ramp rubber cycle scout foil owner zoo make";
+var mnemonic = "term identify monkey want trouble comic feel address become gallery window sample";

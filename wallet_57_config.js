@@ -1,1 +1,1 @@
-var mnemonic = "diesel enrich drink potato ramp oven flat fever iron fit wonder spawn";
+var mnemonic = "rescue betray web stamp slot concert mesh retire pass junior drum slab";

@@ -1,1 +1,1 @@
-var mnemonic = "leave team rain wash clutch crash word devote spawn screen salt traffic";
+var mnemonic = "vital guard flight hurt level manage prosper lazy need mention toy science";

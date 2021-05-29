@@ -1,1 +1,1 @@
-var mnemonic = "news unfold plug assist danger skirt mind release long fog wagon depth";
+var mnemonic = "total about pencil fury clean then enhance cage napkin mix paper whip";

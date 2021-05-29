@@ -1,1 +1,1 @@
-var mnemonic = "gap yard muffin come wing jeans pitch weird note buddy dwarf model";
+var mnemonic = "talent hollow pave recycle snap dance tooth aim dish napkin doll cattle";

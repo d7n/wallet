@@ -1,1 +1,1 @@
-var mnemonic = "movie keep area paper say island impose guard simple juice metal lend";
+var mnemonic = "foil veteran minimum fame cruel scrub west viable surprise vocal vague violin";

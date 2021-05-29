@@ -1,1 +1,1 @@
-var mnemonic = "stick castle van together result hope place explain arrange unusual language property";
+var mnemonic = "ecology immense input couch limit harsh casino speed thumb roast update soul";

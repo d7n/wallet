@@ -1,1 +1,1 @@
-var mnemonic = "bamboo inflict name divide want only snake prosper acquire jump truth tooth";
+var mnemonic = "casual blush witness man inject series assault goose harvest bottom axis start";

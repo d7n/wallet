@@ -1,1 +1,1 @@
-var mnemonic = "love foster ten approve update among gym escape bachelor crawl embody car";
+var mnemonic = "depth hurry can profit initial duck march shadow minimum actor open sport";

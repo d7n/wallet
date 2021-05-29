@@ -1,1 +1,1 @@
-var mnemonic = "enable ready sample cart useful wolf witness nominee vapor quick rubber luxury";
+var mnemonic = "pottery motor vast siren extra scrub matrix arrange have idea salute faculty";

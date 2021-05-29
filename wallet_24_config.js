@@ -1,1 +1,1 @@
-var mnemonic = "knee educate fog among grant sight wisdom speed prize arctic silent jungle";
+var mnemonic = "stool vendor slim common auto slim render night carpet camp family fortune";

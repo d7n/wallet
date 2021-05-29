@@ -1,1 +1,1 @@
-var mnemonic = "aware art moon legend sight churn proof card drip nuclear annual dash";
+var mnemonic = "bacon total people head punch quote load destroy fold wage valid stamp";

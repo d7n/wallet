@@ -1,1 +1,1 @@
-var mnemonic = "seat improve armed course crane inquiry trigger shrug group horror topple error";
+var mnemonic = "diary fire green fatigue glide off walnut buffalo vanish slender canvas express";

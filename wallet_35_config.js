@@ -1,1 +1,1 @@
-var mnemonic = "lumber solid rescue nice dish echo mention omit bus same object forget";
+var mnemonic = "ordinary void dumb lonely artefact two usual fly boss tackle truth vehicle";

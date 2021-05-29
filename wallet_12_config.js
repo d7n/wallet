@@ -1,1 +1,1 @@
-var mnemonic = "enough hope code priority utility relief market dutch limit dry title lesson";
+var mnemonic = "actor exchange casino section night dynamic bone grid genius luggage taste crunch";

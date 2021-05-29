@@ -1,1 +1,1 @@
-var mnemonic = "certain renew pelican size fragile oppose leader garage hammer judge inflict distance";
+var mnemonic = "sick smooth burger acquire engine start sheriff budget detail oven base alone";

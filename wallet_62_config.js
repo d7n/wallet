@@ -1,1 +1,1 @@
-var mnemonic = "keen age palace lobster gain tip zero ski chuckle gravity size elegant";
+var mnemonic = "uncle hour knee surge room shaft dwarf panther buyer patrol rookie sail";

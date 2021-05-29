@@ -1,1 +1,1 @@
-var mnemonic = "decrease type coffee silly sugar elite stamp idle science great orchard sign";
+var mnemonic = "aisle shop unlock together high save century start hotel turn vocal ahead";

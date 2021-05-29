@@ -1,1 +1,1 @@
-var mnemonic = "predict ability border huge broccoli tomorrow bean arrow soft fat early order";
+var mnemonic = "trash cattle harsh matrix behind model congress flush harbor magic mean join";

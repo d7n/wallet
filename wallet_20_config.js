@@ -1,1 +1,1 @@
-var mnemonic = "lounge critic theory pencil six base arctic online dumb pigeon border six";
+var mnemonic = "crucial ensure rifle shrug picture author merry salad credit mixed devote rally";

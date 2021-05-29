@@ -1,1 +1,1 @@
-var mnemonic = "garlic year crush feed scheme quit gym recipe near cycle pill shift";
+var mnemonic = "gallery pumpkin lock monitor twenty drum eagle cover onion bread comic cup";

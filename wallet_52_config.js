@@ -1,1 +1,1 @@
-var mnemonic = "future social dragon amateur save element radio please trumpet insect piece tone";
+var mnemonic = "hazard expect world lens improve card fun capable liberty chunk act awkward";

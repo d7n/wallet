@@ -1,1 +1,1 @@
-var mnemonic = "juice gaze power modify roof say seed bottom dutch butter fragile door";
+var mnemonic = "sudden prepare boring mother fat zoo debris divorce early sting bright trouble";

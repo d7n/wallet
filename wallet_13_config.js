@@ -1,1 +1,1 @@
-var mnemonic = "hurry sad child spend column speak predict ball purchase pupil surprise guard";
+var mnemonic = "language cave mention october wood sentence select run huge decline seek verb";

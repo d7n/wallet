@@ -1,1 +1,1 @@
-var mnemonic = "best question chase mobile monkey useless velvet pact absent baby reward allow";
+var mnemonic = "average scorpion alert lizard miss banner detect wheel kitchen quit nuclear glass";

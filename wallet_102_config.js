@@ -1,1 +1,1 @@
-var mnemonic = "always desk depth flee crew fantasy sense ocean core chat tool inside";
+var mnemonic = "multiply upon cage spice breeze frown equip three junk stand toy ridge";

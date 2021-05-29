@@ -1,1 +1,1 @@
-var mnemonic = "note about fun fork behave coffee luggage twist hope primary violin hope";
+var mnemonic = "inject copy place approve sight bracket swap stage bracket mystery swim festival";

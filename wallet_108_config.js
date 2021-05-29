@@ -1,1 +1,1 @@
-var mnemonic = "innocent mixed setup autumn write speed field entry ivory spoil quarter banner";
+var mnemonic = "dune record body repeat crack lava impulse quiz dwarf tank aim ribbon";
