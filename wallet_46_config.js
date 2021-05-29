@@ -1,1 +1,1 @@
-var mnemonic = "practice will bicycle they ski tank infant endorse annual canal goddess palm";
+var mnemonic = "elder kid bread faculty amused sting boss infant bid cotton hair awkward";

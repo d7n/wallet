@@ -1,1 +1,1 @@
-var mnemonic = "carpet ancient box diary behind cherry decorate bundle amateur purity spend today";
+var mnemonic = "toss capable enjoy tonight wage misery winter provide add unaware sketch federal";

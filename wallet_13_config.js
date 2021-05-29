@@ -1,1 +1,1 @@
-var mnemonic = "early intact dinosaur owner utility caught process amateur globe defy grunt device";
+var mnemonic = "flight horn exotic define nominee proud life pull joy lock capital turn";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding dog endorse spell brush fall lab dish message easily pigeon accident";
+var mnemonic = "student bus battle lawn raise equal caution regret cram swamp pottery celery";

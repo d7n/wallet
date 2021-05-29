@@ -1,1 +1,1 @@
-var mnemonic = "hamster orbit stable possible lawn fun require comic valve mechanic jungle order";
+var mnemonic = "unusual doctor salt lens insane idle regular utility anxiety sibling alley merge";

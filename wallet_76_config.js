@@ -1,1 +1,1 @@
-var mnemonic = "fun wide myself axis enter basket verb task finger witness whip top";
+var mnemonic = "found radar response bitter mixture glass soon disease tree organ slab parent";

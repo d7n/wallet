@@ -1,1 +1,1 @@
-var mnemonic = "trust dance type number raccoon daughter canal second skill stick actual auto";
+var mnemonic = "apple paper devote naive hazard learn cancel observe despair east bright cloth";

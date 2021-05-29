@@ -1,1 +1,1 @@
-var mnemonic = "electric connect roast electric culture hair purpose ladder spoil monster brass guitar";
+var mnemonic = "cereal lake bomb index toss whale gauge lift urban combine buddy frozen";

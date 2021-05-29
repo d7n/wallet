@@ -1,1 +1,1 @@
-var mnemonic = "tuna coffee cereal repeat enroll harbor garbage cable employ plate mechanic normal";
+var mnemonic = "seat divert leisure fun arrow yellow dream labor lecture quiz spot witness";

@@ -1,1 +1,1 @@
-var mnemonic = "word winner regret flush cannon verb rail vital hungry town moon pen";
+var mnemonic = "dry climb bird banana still syrup auto control notable manage connect praise";

@@ -1,1 +1,1 @@
-var mnemonic = "pact gas lawsuit accuse math area belt soon fiscal theory client latin";
+var mnemonic = "grant adapt device income verb flower diet gallery palm estate various example";

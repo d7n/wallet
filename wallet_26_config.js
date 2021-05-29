@@ -1,1 +1,1 @@
-var mnemonic = "cheese army cup witness cool dice term van answer glance scorpion swamp";
+var mnemonic = "skin paddle know wide tape sing slide credit video half sister dentist";

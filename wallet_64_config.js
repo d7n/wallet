@@ -1,1 +1,1 @@
-var mnemonic = "infant spend raise scatter chase derive during wise salute thunder filter credit";
+var mnemonic = "history mammal project guess awkward wife flight humble enact present jelly shaft";

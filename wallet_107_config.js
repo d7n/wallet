@@ -1,1 +1,1 @@
-var mnemonic = "bike identify story canoe month despair relief various choose trust title rough";
+var mnemonic = "canvas yellow emerge basic hold police vanish slam hero twin width century";

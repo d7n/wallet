@@ -1,1 +1,1 @@
-var mnemonic = "ecology keep original reveal guitar deliver demise surface copper exact wheat bring";
+var mnemonic = "ski chat update gas melody accident pottery bachelor reject north speed lounge";

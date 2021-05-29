@@ -1,1 +1,1 @@
-var mnemonic = "hazard wet devote seed mystery innocent they click across token include bracket";
+var mnemonic = "obtain skull have carpet foil live cabbage alpha zebra strike prosper toddler";

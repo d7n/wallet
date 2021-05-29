@@ -1,1 +1,1 @@
-var mnemonic = "pledge arrest calm fantasy bulb joke goddess select lottery right hurry stool";
+var mnemonic = "frequent congress blue pave enact refuse mammal require desk engine danger autumn";

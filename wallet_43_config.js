@@ -1,1 +1,1 @@
-var mnemonic = "box crater muscle blue powder runway dizzy card hero receive attitude sunset";
+var mnemonic = "worth kiwi history sail minimum common artefact bird toward vibrant fog pigeon";

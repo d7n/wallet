@@ -1,1 +1,1 @@
-var mnemonic = "govern brave balcony garbage now bean shop sail enter relax refuse judge";
+var mnemonic = "exercise giraffe video hobby front deer palm treat clarify faint strong reward";

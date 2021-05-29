@@ -1,1 +1,1 @@
-var mnemonic = "shield key invest physical front short milk tube beauty robust pottery elbow";
+var mnemonic = "armor pottery future various own raw excuse oyster clown junk sword frame";

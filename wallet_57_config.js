@@ -1,1 +1,1 @@
-var mnemonic = "federal dry ride afford benefit begin clog borrow desk few plate wave";
+var mnemonic = "labor shift exist excuse legal please army episode scorpion lake baby knock";

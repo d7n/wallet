@@ -1,1 +1,1 @@
-var mnemonic = "curious maple winter affair city original egg family unhappy prepare penalty regret";
+var mnemonic = "enact search arrange attitude toy volume outside expand win trend energy city";

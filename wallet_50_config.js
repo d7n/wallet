@@ -1,1 +1,1 @@
-var mnemonic = "crime spare addict matrix citizen bulk warrior wood melt mutual grape winter";
+var mnemonic = "intact soccer focus obvious dune tobacco scrub need ankle endless inhale guide";

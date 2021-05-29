@@ -1,1 +1,1 @@
-var mnemonic = "room drama slim ranch pool avoid between during when talk affair dutch";
+var mnemonic = "siege favorite matrix six van jewel august result predict chalk apart unlock";

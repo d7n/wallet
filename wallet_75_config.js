@@ -1,1 +1,1 @@
-var mnemonic = "winter solve around sock flock culture only welcome manual use during card";
+var mnemonic = "census high combine click car option chalk parent armed lady party inside";

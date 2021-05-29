@@ -1,1 +1,1 @@
-var mnemonic = "kiwi problem brother chair casual amused cage stone step census undo peace";
+var mnemonic = "salute clump pencil toward mosquito pulp cannon grab vendor sting duty pioneer";

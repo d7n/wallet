@@ -1,1 +1,1 @@
-var mnemonic = "deliver umbrella desk crisp indoor suspect topple decorate price eye double remain";
+var mnemonic = "spirit boy tower census brief gravity cigar recall rural achieve capable file";

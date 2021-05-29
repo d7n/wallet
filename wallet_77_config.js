@@ -1,1 +1,1 @@
-var mnemonic = "purchase fashion amused version galaxy write drip huge urban animal loop follow";
+var mnemonic = "magnet remain impulse stone swarm wish giggle clinic cement spend slight catalog";

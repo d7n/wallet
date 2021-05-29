@@ -1,1 +1,1 @@
-var mnemonic = "rapid amazing relax grab girl gather ordinary raw fetch search riot chat";
+var mnemonic = "mystery during autumn little jaguar help sail prevent cupboard smoke company vague";

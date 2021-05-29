@@ -1,1 +1,1 @@
-var mnemonic = "moon room grunt inquiry script open cancel hotel choose plastic road pumpkin";
+var mnemonic = "airport fault despair pottery laptop machine blanket chat square pioneer harsh universe";

@@ -1,1 +1,1 @@
-var mnemonic = "left kitchen bridge system love piano innocent pair holiday horse fashion term";
+var mnemonic = "sorry decrease sock sure bird elbow mind jeans axis prepare noise elegant";

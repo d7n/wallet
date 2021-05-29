@@ -1,1 +1,1 @@
-var mnemonic = "matrix decline roast canal huge winner expire then effort limb purpose sauce";
+var mnemonic = "lemon laptop toast zebra gift proud misery monkey dog acquire trim boss";

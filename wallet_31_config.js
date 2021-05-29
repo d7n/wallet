@@ -1,1 +1,1 @@
-var mnemonic = "bind bicycle brief skin jump about cancel wet front swallow holiday phrase";
+var mnemonic = "message deal load wash praise mansion invite adapt special power bleak prepare";

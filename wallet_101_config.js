@@ -1,1 +1,1 @@
-var mnemonic = "badge arctic require similar clump sweet save one tennis emotion dust salt";
+var mnemonic = "brain pistol grace that steak random memory strategy hour pudding six custom";

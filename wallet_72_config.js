@@ -1,1 +1,1 @@
-var mnemonic = "that diagram opera expect client slow nose famous bird inherit you diet";
+var mnemonic = "autumn north fancy case illness little excess dirt roof illness dad ride";

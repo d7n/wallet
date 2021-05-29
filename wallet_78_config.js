@@ -1,1 +1,1 @@
-var mnemonic = "cloth suffer erosion matter stable process ticket plastic amused opinion human tuna";
+var mnemonic = "whip ranch glass pull broccoli artist link father absorb pyramid orange stamp";

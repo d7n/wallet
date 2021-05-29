@@ -1,1 +1,1 @@
-var mnemonic = "poet glass evoke napkin usage meadow such chaos volcano powder weather service";
+var mnemonic = "ordinary miss head wood buddy boring please cement alarm bubble benefit end";

@@ -1,1 +1,1 @@
-var mnemonic = "treat photo adjust pencil neglect must stick increase club infant process valve";
+var mnemonic = "glue limb then slender gasp impulse pumpkin pumpkin skull fault spirit slow";

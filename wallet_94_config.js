@@ -1,1 +1,1 @@
-var mnemonic = "fork tribe retire general fabric garbage hat talk recycle couch ugly accident";
+var mnemonic = "buddy lizard birth wife taste address want dismiss clog muscle bar super";

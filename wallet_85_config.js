@@ -1,1 +1,1 @@
-var mnemonic = "judge useful fresh soldier token tenant offer process still planet million team";
+var mnemonic = "miss unique summer rhythm excuse quit tuna beyond logic pencil receive change";

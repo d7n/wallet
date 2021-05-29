@@ -1,1 +1,1 @@
-var mnemonic = "case crucial aware peace give wood hope brick ahead swim ten film";
+var mnemonic = "glory churn panda excuse glad adult check stumble initial artefact when wise";

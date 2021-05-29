@@ -1,1 +1,1 @@
-var mnemonic = "soup aim ankle patch derive foam pink maze decline human crucial dignity";
+var mnemonic = "jewel all wash tomato when learn mansion river resource lumber enact scissors";

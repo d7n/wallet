@@ -1,1 +1,1 @@
-var mnemonic = "dirt math spatial inquiry runway ability assume glare render hello critic achieve";
+var mnemonic = "enrich sun risk arrest blur deal enforce local romance useful clog firm";

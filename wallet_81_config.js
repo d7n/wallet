@@ -1,1 +1,1 @@
-var mnemonic = "estate zebra tide diet wool cancel staff finish undo save august slogan";
+var mnemonic = "unfair develop north maximum goose climb toddler copy table shiver screen private";

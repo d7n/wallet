@@ -1,1 +1,1 @@
-var mnemonic = "drift few idea bitter autumn project twice rhythm acquire acquire display pony";
+var mnemonic = "tide reveal lawsuit various hero fatigue plate foot they juice huge retreat";

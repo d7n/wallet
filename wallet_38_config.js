@@ -1,1 +1,1 @@
-var mnemonic = "rich immense page modify food whale transfer video index fly window want";
+var mnemonic = "minimum cube denial coyote sort trouble example shaft melody estate area gather";

@@ -1,1 +1,1 @@
-var mnemonic = "version grow kit web enable hobby promote shoot chaos opinion siege pigeon";
+var mnemonic = "glance olympic crowd same document athlete since snow boil weekend solve again";

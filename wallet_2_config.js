@@ -1,1 +1,1 @@
-var mnemonic = "throw glad replace hard pistol immune guard kitchen total cool road movie";
+var mnemonic = "abstract enemy verb purse prize plate toss maple body arrange horse bullet";

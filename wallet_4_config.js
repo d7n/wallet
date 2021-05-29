@@ -1,1 +1,1 @@
-var mnemonic = "alcohol wage guitar legend drama hammer wave trouble practice elegant whisper snake";
+var mnemonic = "love already inject desert lock emerge odor youth merge order dutch bid";

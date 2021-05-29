@@ -1,1 +1,1 @@
-var mnemonic = "butter suffer planet section parent priority radar night upset lecture phrase three";
+var mnemonic = "immune pill carry film merge exclude expose nose educate raccoon holiday ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal buddy transfer fiction coral same fun trumpet admit cheap labor two";
+var mnemonic = "tobacco amazing library actor wet same obey canyon fancy false torch dentist";

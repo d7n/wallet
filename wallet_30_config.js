@@ -1,1 +1,1 @@
-var mnemonic = "motor gravity hat include odor essence lesson key rich tell fun boss";
+var mnemonic = "evil scare thing survey result mercy fire reunion absurd private seven cabbage";

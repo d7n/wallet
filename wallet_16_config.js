@@ -1,1 +1,1 @@
-var mnemonic = "food skill december syrup place when just lab drop crystal drill transfer";
+var mnemonic = "drip hurdle give ketchup turtle length shed diamond cycle lobster legal true";

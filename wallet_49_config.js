@@ -1,1 +1,1 @@
-var mnemonic = "upper gun donor fence pause before predict another embrace hire impact mammal";
+var mnemonic = "rib case lake bonus cage assault alert toe sort reopen empower various";

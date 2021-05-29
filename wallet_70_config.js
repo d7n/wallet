@@ -1,1 +1,1 @@
-var mnemonic = "fruit police force income total sphere advance cook subway kingdom rice senior";
+var mnemonic = "nut release agree transfer photo wrestle round arena laugh sleep cotton junior";

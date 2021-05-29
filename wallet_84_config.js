@@ -1,1 +1,1 @@
-var mnemonic = "dizzy domain fish refuse similar title monster strategy cool any jump insect";
+var mnemonic = "cinnamon target equal blush tape inquiry cattle deny toe mango garment crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "trend book raise pair eye lottery prevent thunder weekend double ladder cherry";
+var mnemonic = "talent holiday depth normal icon risk swap soup slide index multiply rich";

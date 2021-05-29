@@ -1,1 +1,1 @@
-var mnemonic = "merry output give local saddle symptom genius topic have subject column cause";
+var mnemonic = "soccer buyer blood tuition valve bonus remain property wool proof aware razor";

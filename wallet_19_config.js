@@ -1,1 +1,1 @@
-var mnemonic = "tank adult crisp liquid blade evidence report enjoy valid honey shy ten";
+var mnemonic = "auction garage consider argue boy yellow kite ski tiny liar duty broccoli";

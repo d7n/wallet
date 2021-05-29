@@ -1,1 +1,1 @@
-var mnemonic = "model spoil another edit monitor token message episode neglect cart drum rely";
+var mnemonic = "lumber plate spoil pistol shallow close pitch spell alley obtain swamp suggest";

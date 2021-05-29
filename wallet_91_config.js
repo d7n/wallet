@@ -1,1 +1,1 @@
-var mnemonic = "fence text twenty quarter hill hockey fox secret use opera country loyal";
+var mnemonic = "allow gallery diamond stage vintage argue physical rude genius reflect diagram valve";

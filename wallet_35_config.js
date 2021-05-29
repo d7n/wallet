@@ -1,1 +1,1 @@
-var mnemonic = "garbage movie foil sheriff scorpion first that veteran foster cook rice evidence";
+var mnemonic = "receive arrest alpha escape defy lumber slam risk vote mercy spice oyster";

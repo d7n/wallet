@@ -1,1 +1,1 @@
-var mnemonic = "space join average baby flee envelope blast witness attend monkey token draft";
+var mnemonic = "rate cherry slide refuse hobby update pledge item wrap mean purchase hole";

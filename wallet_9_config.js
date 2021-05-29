@@ -1,1 +1,1 @@
-var mnemonic = "live motor caught junk virus exclude leaf vast snack door try ladder";
+var mnemonic = "disagree hedgehog damage correct leave iron mix nuclear topple raccoon divert ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "small plug oak already trim gloom town plate insect enact they heavy";
+var mnemonic = "defense arena kid stage cream rubber please crop chapter resource shed patrol";

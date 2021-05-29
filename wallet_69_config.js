@@ -1,1 +1,1 @@
-var mnemonic = "number manage frown young keen isolate copy middle memory keen receive outside";
+var mnemonic = "easy render rare bunker help diet diet puzzle return cereal kangaroo snow";

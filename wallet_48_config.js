@@ -1,1 +1,1 @@
-var mnemonic = "track mistake slush organ glad nerve forget blanket grunt bullet note easy";
+var mnemonic = "excite chest ketchup time found market couple poem country change frog prepare";

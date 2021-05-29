@@ -1,1 +1,1 @@
-var mnemonic = "stove clean rebuild round virus surround concert butter design smoke figure erosion";
+var mnemonic = "jeans keep measure mistake market prize timber level omit couch ancient rack";

@@ -1,1 +1,1 @@
-var mnemonic = "wine kitten can bunker dumb boring obscure angle canyon enroll cricket home";
+var mnemonic = "scene team firm matrix myself umbrella include devote answer best wing ask";

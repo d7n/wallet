@@ -1,1 +1,1 @@
-var mnemonic = "domain memory blanket error ready consider oppose foam trophy coconut deliver clump";
+var mnemonic = "chef blame rough torch body comic skate lamp planet reunion penalty dinner";

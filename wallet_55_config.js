@@ -1,1 +1,1 @@
-var mnemonic = "risk initial evolve thing panic coffee reduce edge brick code black melody";
+var mnemonic = "age between transfer sea result inform century shrimp ribbon aisle cost file";

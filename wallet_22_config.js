@@ -1,1 +1,1 @@
-var mnemonic = "slam voice stairs hole snap pony fabric core churn brief raven story";
+var mnemonic = "sibling scorpion radar tent senior emotion material security episode forget shrimp icon";

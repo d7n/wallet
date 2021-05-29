@@ -1,1 +1,1 @@
-var mnemonic = "enjoy one atom dose ill brush grunt below base hobby garden warrior";
+var mnemonic = "cereal ugly seven try usage pear web ordinary angry panic manage arrow";

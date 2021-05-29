@@ -1,1 +1,1 @@
-var mnemonic = "pelican canal wreck olive together easily enact jar flower diamond moral weasel";
+var mnemonic = "task puzzle alter catch genre dentist deposit term expose topple prison barrel";

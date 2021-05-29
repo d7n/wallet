@@ -1,1 +1,1 @@
-var mnemonic = "off fresh pizza hero unusual chuckle smile donkey detail hawk lecture cradle";
+var mnemonic = "trap spirit order source ocean quiz unit arrest hunt marriage camera mansion";

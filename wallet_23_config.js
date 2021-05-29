@@ -1,1 +1,1 @@
-var mnemonic = "wink split gallery coyote indoor island extend update hard youth sister rotate";
+var mnemonic = "spice basket mixed female leg thank tomorrow worth large orchard rifle cinnamon";

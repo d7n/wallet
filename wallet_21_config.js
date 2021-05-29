@@ -1,1 +1,1 @@
-var mnemonic = "idle craft scatter agree desk hybrid better same blush melody buzz tattoo";
+var mnemonic = "lady meat cannon rose limit saddle across pride try ship expect design";

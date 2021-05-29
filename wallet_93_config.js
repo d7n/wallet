@@ -1,1 +1,1 @@
-var mnemonic = "riot version genuine vivid direct mango token install impose resemble off cloth";
+var mnemonic = "market potato click valve noodle hybrid deposit unusual same gauge plate veteran";

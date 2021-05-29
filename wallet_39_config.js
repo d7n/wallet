@@ -1,1 +1,1 @@
-var mnemonic = "act viable apart frown endorse few dinner mechanic attend viable invite jaguar";
+var mnemonic = "edit happy way wrong slow exercise dad fade method dutch drill blush";

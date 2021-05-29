@@ -1,1 +1,1 @@
-var mnemonic = "escape reason rebuild observe arch vessel visa age scorpion bid marine quote";
+var mnemonic = "style power flash truth hint clap skull suit alarm physical start swing";

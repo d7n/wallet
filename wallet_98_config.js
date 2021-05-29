@@ -1,1 +1,1 @@
-var mnemonic = "wealth similar wrong reveal verify digital romance first range escape country gossip";
+var mnemonic = "sign cousin away please apart cover purchase wreck deer satisfy knife swarm";

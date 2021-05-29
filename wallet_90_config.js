@@ -1,1 +1,1 @@
-var mnemonic = "marriage almost lonely report depth achieve repair define maple live cloud surround";
+var mnemonic = "glass shell rapid mosquito original horror casino traffic yellow rude become divorce";

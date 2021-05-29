@@ -1,1 +1,1 @@
-var mnemonic = "garlic skate execute west roast cradle vacuum spot media hour dose install";
+var mnemonic = "excite cabin again other range mercy parrot reveal apology thank tail soft";

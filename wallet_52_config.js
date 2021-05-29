@@ -1,1 +1,1 @@
-var mnemonic = "edge trend equip paper junior nest flash story celery left kitchen lonely";
+var mnemonic = "kind travel age hole fancy best web country sleep seven gaze round";

@@ -1,1 +1,1 @@
-var mnemonic = "industry clutch junior brush spread plate dolphin wreck genuine news solar puzzle";
+var mnemonic = "tilt people require reunion present place divide sign sniff company hammer weird";

@@ -1,1 +1,1 @@
-var mnemonic = "average slide own vital mother economy expire also flee rely timber quiz";
+var mnemonic = "ketchup joke rifle myself finish crumble surround melt doctor winner spoil local";

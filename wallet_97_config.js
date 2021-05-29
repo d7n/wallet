@@ -1,1 +1,1 @@
-var mnemonic = "room certain bubble write rebel mobile divorce area blouse cinnamon unit usage";
+var mnemonic = "eager asthma strong enlist tree solve tonight repeat marriage shop horn hammer";

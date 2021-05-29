@@ -1,1 +1,1 @@
-var mnemonic = "teach arm tube claw drastic humor adjust observe supreme congress predict certain";
+var mnemonic = "trap dirt cheap accident soup summer ankle penalty bone evil own police";
