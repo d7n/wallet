@@ -1,1 +1,1 @@
-var mnemonic = "wheat angle hollow emotion lemon ozone route alarm slam hundred seminar gesture";
+var mnemonic = "cactus talent gain meadow bring torch roof later space enable million goose";

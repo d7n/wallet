@@ -1,1 +1,1 @@
-var mnemonic = "sniff follow way return float vacant father planet mouse lava sail access";
+var mnemonic = "help core laptop sample second business fuel sadness marriage easily regular then";

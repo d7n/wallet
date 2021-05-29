@@ -1,1 +1,1 @@
-var mnemonic = "employ chimney client amazing forget access dune fresh below master profit casino";
+var mnemonic = "solution member erase someone earn shoulder december lounge sell expire valley entire";

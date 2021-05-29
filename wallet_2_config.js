@@ -1,1 +1,1 @@
-var mnemonic = "spirit regret kingdom man ready keep old above host basic stone valid";
+var mnemonic = "kit select final original art thumb quick outer pistol unlock frown runway";

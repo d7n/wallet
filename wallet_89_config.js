@@ -1,1 +1,1 @@
-var mnemonic = "dinner will juice frown trick language infant absent enroll scene sight fine";
+var mnemonic = "tray exit betray cereal shuffle chicken favorite tunnel asset supreme topic intact";

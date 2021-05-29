@@ -1,1 +1,1 @@
-var mnemonic = "upper sadness alien slim goose impose pig ozone gauge tomato core exhaust";
+var mnemonic = "install glory decorate play describe tumble monster six liberty ladder noise input";

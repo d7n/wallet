@@ -1,1 +1,1 @@
-var mnemonic = "juice doll soon hour toilet model book unaware arctic shadow sorry vivid";
+var mnemonic = "birth chunk pull best original venue evoke lawsuit athlete cherry merge weapon";

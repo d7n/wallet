@@ -1,1 +1,1 @@
-var mnemonic = "skull apology delay sand stairs dismiss tank turkey stone sport ship fame";
+var mnemonic = "panda basket guess move future monkey swamp hip proof slot sponsor erode";

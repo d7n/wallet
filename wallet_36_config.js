@@ -1,1 +1,1 @@
-var mnemonic = "coffee iron slot fantasy move clog wasp canyon judge spice vintage size";
+var mnemonic = "divert jealous town grace liar refuse sing point wheel cube upper bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "steak swim chest walk rebel burger fever puzzle unlock lunar frozen apart";
+var mnemonic = "educate gentle quit gadget found shove slogan path fabric device trend squeeze";

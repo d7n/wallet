@@ -1,1 +1,1 @@
-var mnemonic = "wish heavy poverty reform detail actual code mother negative behave already barely";
+var mnemonic = "nominee much filter fire ethics bullet donor engage abuse nuclear pizza laugh";

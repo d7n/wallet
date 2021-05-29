@@ -1,1 +1,1 @@
-var mnemonic = "pig brave student canoe apart runway machine loan ignore response ranch top";
+var mnemonic = "beef rubber change salt hundred fancy venue online tag feel black salute";

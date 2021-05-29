@@ -1,1 +1,1 @@
-var mnemonic = "atom tide call legal fossil decline curtain kangaroo can elegant labor slogan";
+var mnemonic = "day grace couple bunker whale infant brave category modify auto alert rhythm";

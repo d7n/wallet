@@ -1,1 +1,1 @@
-var mnemonic = "clown noodle warm nice ladder announce possible already maid cannon twin scissors";
+var mnemonic = "orange repair potato piece belt slice major slogan rose smooth alpha vintage";

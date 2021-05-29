@@ -1,1 +1,1 @@
-var mnemonic = "shift salad blade square ramp deny sorry wage plunge rough cancel tunnel";
+var mnemonic = "oil faculty grape change loyal vehicle devote abandon soft assist situate train";

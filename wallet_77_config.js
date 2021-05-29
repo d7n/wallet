@@ -1,1 +1,1 @@
-var mnemonic = "immense noodle sugar breeze flight vanish error swift siege diary dilemma want";
+var mnemonic = "scare view night radar lounge hard appear paddle note sort glass switch";

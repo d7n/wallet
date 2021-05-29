@@ -1,1 +1,1 @@
-var mnemonic = "extend boil super example fade quiz door trip jacket train evidence clean";
+var mnemonic = "shallow addict stem tattoo lock fee spell usual bunker palace inside sustain";

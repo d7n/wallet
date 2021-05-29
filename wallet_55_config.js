@@ -1,1 +1,1 @@
-var mnemonic = "thank guess excess copy steak congress deputy blind awake find oval fee";
+var mnemonic = "glad filter lounge small enjoy van food rotate glare fiber reunion swallow";

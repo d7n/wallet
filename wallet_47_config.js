@@ -1,1 +1,1 @@
-var mnemonic = "snap catch write rail raven banana salt intact cycle immune snow pipe";
+var mnemonic = "dragon vital reveal faith glance mouse believe twin moon vast amazing mule";

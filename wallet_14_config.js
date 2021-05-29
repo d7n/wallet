@@ -1,1 +1,1 @@
-var mnemonic = "blush pole output advance tenant shove milk again town avocado toddler vault";
+var mnemonic = "deliver orchard rural bike relief friend robot can theory now save nothing";

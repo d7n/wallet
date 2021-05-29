@@ -1,1 +1,1 @@
-var mnemonic = "custom dismiss trend canal pill coconut cricket wave lizard glass afford scissors";
+var mnemonic = "market shop butter unknown myth ship keep annual option topple juice vibrant";

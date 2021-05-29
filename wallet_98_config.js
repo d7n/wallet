@@ -1,1 +1,1 @@
-var mnemonic = "profit track jewel address color still another version wood when put slice";
+var mnemonic = "size cradle spider reject power letter remove shoulder ribbon warm garden until";

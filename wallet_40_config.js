@@ -1,1 +1,1 @@
-var mnemonic = "spin offer wool gain hidden trial surge club absent wrong develop fun";
+var mnemonic = "drastic wolf local great topple pear dress attend filter magic art another";

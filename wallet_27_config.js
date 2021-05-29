@@ -1,1 +1,1 @@
-var mnemonic = "garden sudden dial gold fetch provide lens amazing clown donate warfare wine";
+var mnemonic = "champion satoshi junk magnet round ring appear anger spider adult cram worry";

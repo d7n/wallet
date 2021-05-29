@@ -1,1 +1,1 @@
-var mnemonic = "burst future police soon stereo blue inmate muscle belt robust real service";
+var mnemonic = "guilt alpha page clown add slow tool bottom spice quality joy upset";

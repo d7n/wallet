@@ -1,1 +1,1 @@
-var mnemonic = "child mimic swarm frown option divide sunny toe segment brain minor dawn";
+var mnemonic = "twist syrup female round become empower sure because control second hold bulb";

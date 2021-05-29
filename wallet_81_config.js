@@ -1,1 +1,1 @@
-var mnemonic = "remind indicate warm cave disagree art during cook float ancient useless decorate";
+var mnemonic = "regular lounge gospel purchase eagle brain soul suffer capital unit potato voice";

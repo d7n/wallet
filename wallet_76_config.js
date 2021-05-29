@@ -1,1 +1,1 @@
-var mnemonic = "truck dumb foil raw universe stable decide shift check bar setup trust";
+var mnemonic = "ostrich change upon belt comic slot rare clap lottery gap frozen order";

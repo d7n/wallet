@@ -1,1 +1,1 @@
-var mnemonic = "pool unknown lend slice shrug cricket nuclear hard dumb rose chronic parent";
+var mnemonic = "heavy bronze electric ribbon marble arrest rib enrich myth miss pear credit";

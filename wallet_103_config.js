@@ -1,1 +1,1 @@
-var mnemonic = "palm rain crew quality brisk news lounge together occur vague stamp execute";
+var mnemonic = "country fix topic angry auto kind sail oven mutual ask prison volcano";

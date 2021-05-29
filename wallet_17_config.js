@@ -1,1 +1,1 @@
-var mnemonic = "depend sea unaware swift solution purity estate install flight mystery verify animal";
+var mnemonic = "apart club response rotate exit please magic apart receive plastic cruel buyer";

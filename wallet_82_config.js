@@ -1,1 +1,1 @@
-var mnemonic = "grain recycle leader diet strategy fat scan toast mail inside solve acid";
+var mnemonic = "sauce file scrap build draw girl dinner way burger unique jacket agent";

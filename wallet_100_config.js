@@ -1,1 +1,1 @@
-var mnemonic = "often useless guard kiwi try casino then basic kangaroo resource magic hire";
+var mnemonic = "want middle hotel globe holiday toast oven physical witness pattern guess swallow";

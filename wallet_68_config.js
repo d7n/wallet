@@ -1,1 +1,1 @@
-var mnemonic = "pulse click town guard army area mask muscle state resource glance fiscal";
+var mnemonic = "smoke endless boat dance victory cabin fantasy menu rich lift aspect tourist";

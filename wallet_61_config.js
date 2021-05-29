@@ -1,1 +1,1 @@
-var mnemonic = "swing sentence ordinary flock jump twelve border hamster enjoy gospel sick wide";
+var mnemonic = "anxiety dismiss first heavy balance stamp sudden gasp essence rate under slogan";

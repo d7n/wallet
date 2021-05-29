@@ -1,1 +1,1 @@
-var mnemonic = "strike smooth hurt aerobic achieve possible maid chef toddler fall mango fan";
+var mnemonic = "flip notice runway swing street soda settle donor change crazy sound evolve";

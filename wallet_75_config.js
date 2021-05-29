@@ -1,1 +1,1 @@
-var mnemonic = "dutch point hub liquid review witness mutual angry disorder pepper tenant food";
+var mnemonic = "live ahead artefact phrase picnic slice lens quarter nominee auction dutch atom";

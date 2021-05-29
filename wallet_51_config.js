@@ -1,1 +1,1 @@
-var mnemonic = "beyond such feed same stomach bitter route cruel verb bottom vapor clump";
+var mnemonic = "endless predict cheese case canyon present virtual tube innocent cause daring wool";

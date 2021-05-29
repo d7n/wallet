@@ -1,1 +1,1 @@
-var mnemonic = "behave shoot illness walnut rough tackle burger adjust coast pulse grief wage";
+var mnemonic = "cry peanut hurry silver adjust metal gospel oak garden banner poet polar";

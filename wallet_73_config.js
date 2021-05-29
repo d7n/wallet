@@ -1,1 +1,1 @@
-var mnemonic = "inner style pool sentence dwarf palace treat nice cage thing oval exact";
+var mnemonic = "shell purity solid protect dust meat luggage gain shoulder exclude actress refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb conduct isolate ramp trick photo nominee gap trophy phone ugly victory";
+var mnemonic = "bonus sword inhale flight swear bid misery neutral web hope clarify wool";

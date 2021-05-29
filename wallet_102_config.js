@@ -1,1 +1,1 @@
-var mnemonic = "school click fury depth word news victory wasp burden range donor pistol";
+var mnemonic = "switch tragic clinic coin march real dash defy mimic scatter deputy flush";

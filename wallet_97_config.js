@@ -1,1 +1,1 @@
-var mnemonic = "leader guitar april exercise south run pact food wink chase return parade";
+var mnemonic = "forum strategy ski suspect behind divide world jewel arch portion please obey";

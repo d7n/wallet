@@ -1,1 +1,1 @@
-var mnemonic = "bless critic vast scrub fence eyebrow lock hole abstract crime know letter";
+var mnemonic = "winter pig cluster soap there gap expand vivid magic lottery moment blind";

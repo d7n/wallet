@@ -1,1 +1,1 @@
-var mnemonic = "onion spot pulp later tilt below sphere trend about jump catalog page";
+var mnemonic = "require hollow metal merit ball jazz debate giggle board artefact minor convince";

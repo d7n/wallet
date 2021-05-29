@@ -1,1 +1,1 @@
-var mnemonic = "festival alley typical tourist imitate situate tiny crowd traffic double stamp wide";
+var mnemonic = "virus pulse rib guitar monitor duty cherry expand fire barely deliver shoulder";

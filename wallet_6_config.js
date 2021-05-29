@@ -1,1 +1,1 @@
-var mnemonic = "common bus coffee tissue pave team invest sadness render giant blanket differ";
+var mnemonic = "view alien crystal clip laugh history pumpkin steak monster shine inject sure";

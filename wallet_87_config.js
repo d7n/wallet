@@ -1,1 +1,1 @@
-var mnemonic = "soup degree physical behave hundred grid vapor orchard over cherry ride proof";
+var mnemonic = "camera dose useless hurt prison area mask desk bulb arrest okay pepper";

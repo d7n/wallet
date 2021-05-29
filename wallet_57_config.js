@@ -1,1 +1,1 @@
-var mnemonic = "chimney travel flip exact length fiscal fork figure frost meat sample expect";
+var mnemonic = "maximum tilt hold educate inhale glimpse van satoshi palm inmate tail manual";

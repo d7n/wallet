@@ -1,1 +1,1 @@
-var mnemonic = "finish syrup nothing say obey correct rifle vault lesson leader guilt credit";
+var mnemonic = "space chronic blanket ordinary frame initial recycle twenty spatial police corn hurry";

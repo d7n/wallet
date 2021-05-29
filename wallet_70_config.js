@@ -1,1 +1,1 @@
-var mnemonic = "column cradle ripple news island over certain evil bike enough frown shrug";
+var mnemonic = "view layer letter loyal often tree twelve shiver fame interest sight bid";

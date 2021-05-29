@@ -1,1 +1,1 @@
-var mnemonic = "shell desk upgrade vacuum trash person globe fix exact federal hair sustain";
+var mnemonic = "enrich eight favorite enough oven worry degree whisper polar employ gate tumble";

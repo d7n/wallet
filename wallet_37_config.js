@@ -1,1 +1,1 @@
-var mnemonic = "drum direct riot mosquito must ignore manual mom unfold rate erupt bone";
+var mnemonic = "run bridge rail awake donate scheme sock leopard during work myself gas";

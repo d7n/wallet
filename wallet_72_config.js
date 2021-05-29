@@ -1,1 +1,1 @@
-var mnemonic = "picture day trouble people edit welcome fork capable advice list inside lobster";
+var mnemonic = "dream scan very clap index engine maid lemon soup blur early same";

@@ -1,1 +1,1 @@
-var mnemonic = "post grass veteran puzzle income soap shell surge flame survey car accident";
+var mnemonic = "seat dinosaur race easy lunar spare describe machine fiber poem expect enjoy";

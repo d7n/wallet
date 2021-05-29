@@ -1,1 +1,1 @@
-var mnemonic = "bracket candy now fit butter axis make love soccer security clump that";
+var mnemonic = "air audit tackle usual jeans stamp grape coyote blur banana oyster lock";

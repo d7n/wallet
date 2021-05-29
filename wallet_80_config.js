@@ -1,1 +1,1 @@
-var mnemonic = "jungle dose session group curtain embrace mutual enrich mango call put chat";
+var mnemonic = "garbage main address chief parade usual recipe present crawl diagram copper magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "agree isolate pizza depart boss much enroll next awful utility pepper used";
+var mnemonic = "eye wine visual dirt lunch october ostrich raccoon desert lend cabbage half";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran trip door stomach churn refuse finish news praise antenna stamp toward";
+var mnemonic = "disease prison opera disorder symbol call video fire fiscal future pulp plastic";

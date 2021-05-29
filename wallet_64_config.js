@@ -1,1 +1,1 @@
-var mnemonic = "spot nice perfect unknown inquiry sugar buffalo wine zero banana category this";
+var mnemonic = "trick bachelor scale drill domain one dignity remain teach mandate cause width";

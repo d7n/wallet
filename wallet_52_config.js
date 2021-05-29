@@ -1,1 +1,1 @@
-var mnemonic = "notice game nothing width harsh bleak circle prosper world spin blade blue";
+var mnemonic = "effort surprise august example airport hub purpose seat minute nerve suit crush";

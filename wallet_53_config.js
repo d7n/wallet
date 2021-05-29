@@ -1,1 +1,1 @@
-var mnemonic = "gun soul catch opera alley hundred report abandon mass bring year jacket";
+var mnemonic = "industry wedding blade antique problem insect coffee obey wagon praise secret parrot";

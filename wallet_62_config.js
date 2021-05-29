@@ -1,1 +1,1 @@
-var mnemonic = "bleak entry blast switch harbor kidney parade black foil lumber sugar beach";
+var mnemonic = "element wolf depth parent weekend profit female shell mom bridge lucky agent";

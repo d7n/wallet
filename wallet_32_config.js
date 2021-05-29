@@ -1,1 +1,1 @@
-var mnemonic = "trumpet various ancient build heavy obvious release radio brief elite ketchup van";
+var mnemonic = "century glow erosion light beauty true pilot lens multiply memory throw arrow";

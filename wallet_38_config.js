@@ -1,1 +1,1 @@
-var mnemonic = "horn divert guilt define moon mass million misery cool win mechanic close";
+var mnemonic = "dynamic almost protect eagle element lizard filter poem private truly verb shock";

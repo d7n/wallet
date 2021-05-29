@@ -1,1 +1,1 @@
-var mnemonic = "never wear mimic public transfer dad shop bulk clean unfair image resist";
+var mnemonic = "breeze sure fortune penalty daughter federal boat myself clutch spike borrow sword";

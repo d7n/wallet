@@ -1,1 +1,1 @@
-var mnemonic = "noble reopen biology exact finish swear universe unaware opinion ugly chef jeans";
+var mnemonic = "rain garden marriage sponsor talent sunny purchase soap hurt enforce achieve fluid";

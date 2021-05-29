@@ -1,1 +1,1 @@
-var mnemonic = "merge sea chaos decline burger school joke vapor venue impact knife angle";
+var mnemonic = "bullet duck moon play mystery asthma harsh wealth convince twin common gold";

@@ -1,1 +1,1 @@
-var mnemonic = "host venture prison digital tape evolve tank nest march vast range where";
+var mnemonic = "mind custom industry iron remember quote actress blame congress empower link increase";

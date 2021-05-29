@@ -1,1 +1,1 @@
-var mnemonic = "symbol tired choose dial enable manual note rifle stand measure initial away";
+var mnemonic = "hire color mention body okay rice sister airport swift gauge dance bitter";

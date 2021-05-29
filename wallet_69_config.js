@@ -1,1 +1,1 @@
-var mnemonic = "butter awful outside track hundred attack snack bus proud science cruel mouse";
+var mnemonic = "pledge echo arch elder undo index frown blind split arctic put soccer";

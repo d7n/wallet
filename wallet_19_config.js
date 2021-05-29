@@ -1,1 +1,1 @@
-var mnemonic = "sort glad mosquito capable again dove reason salon layer crouch monkey river";
+var mnemonic = "squeeze royal scrub ethics replace spot foot toy black series ride bamboo";

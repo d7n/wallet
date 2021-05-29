@@ -1,1 +1,1 @@
-var mnemonic = "possible neck profit dial stock interest tourist perfect diary path peasant salmon";
+var mnemonic = "hungry fox pelican milk chunk swim inside soap crane urge modify earn";

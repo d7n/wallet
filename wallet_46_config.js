@@ -1,1 +1,1 @@
-var mnemonic = "verify december vague mixed cook lounge maximum promote gaze awesome great monitor";
+var mnemonic = "people grief where mutual tribe steel loud raven flavor update belt seat";

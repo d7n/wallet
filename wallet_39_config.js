@@ -1,1 +1,1 @@
-var mnemonic = "wreck able clerk parade maximum carbon also crowd bacon source armed exhaust";
+var mnemonic = "acquire parent sphere black maximum comic indicate aspect empower stereo owner whisper";

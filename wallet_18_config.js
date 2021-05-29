@@ -1,1 +1,1 @@
-var mnemonic = "various sausage message ritual trip then conduct brand equip echo canyon absurd";
+var mnemonic = "rubber crime decade soft wife inner arctic impose fringe hungry boat reward";

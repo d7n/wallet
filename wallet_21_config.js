@@ -1,1 +1,1 @@
-var mnemonic = "practice alley strategy borrow pool sausage account already shoot health bulb mechanic";
+var mnemonic = "rival jar sort wrist purity sure help believe frown speak luxury brain";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur before flee forget rebuild high spirit guess neglect payment lawsuit arrange";
+var mnemonic = "skull nation history very loan artwork panther entry rocket main true nut";

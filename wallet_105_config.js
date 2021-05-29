@@ -1,1 +1,1 @@
-var mnemonic = "endless planet crumble arrive can miracle blanket ecology walk hold observe zone";
+var mnemonic = "unfair above click eternal magic cake major genuine monitor secret win permit";

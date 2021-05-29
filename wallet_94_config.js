@@ -1,1 +1,1 @@
-var mnemonic = "spot throw submit organ filter fame wall true trouble pave valid early";
+var mnemonic = "illegal begin romance angry wood habit horror best dumb favorite track manual";

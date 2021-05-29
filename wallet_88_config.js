@@ -1,1 +1,1 @@
-var mnemonic = "easy toe burger laugh dial special sleep tape pledge flavor heart critic";
+var mnemonic = "odor hold stadium liberty now ribbon intact direct then host cousin useless";

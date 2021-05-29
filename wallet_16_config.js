@@ -1,1 +1,1 @@
-var mnemonic = "ask mimic dismiss lend bulk repair glance ugly wedding obvious thing twenty";
+var mnemonic = "near exact thumb employ sheriff junk group sun across beyond stuff silver";

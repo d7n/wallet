@@ -1,1 +1,1 @@
-var mnemonic = "pear cause else rent decrease possible source luggage find general siren annual";
+var mnemonic = "design wild stuff cry canal fuel soap arena random admit chicken soap";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog love submit flash library winner bleak bird clock know try top";
+var mnemonic = "tuna license february credit acoustic nation vessel citizen depend celery lumber custom";

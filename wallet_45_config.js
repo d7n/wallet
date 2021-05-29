@@ -1,1 +1,1 @@
-var mnemonic = "key ceiling enable device inhale sand mountain hole six bullet option early";
+var mnemonic = "siege correct stay smile next tobacco promote base rookie dynamic ice pumpkin";

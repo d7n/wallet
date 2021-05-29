@@ -1,1 +1,1 @@
-var mnemonic = "glove off connect decide ugly eager slam poet still rigid unable charge";
+var mnemonic = "stone maid ball color caught turkey defense liar family plug hundred claw";

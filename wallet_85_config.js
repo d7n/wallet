@@ -1,1 +1,1 @@
-var mnemonic = "item bridge detail palace average diesel purse cotton party welcome slender few";
+var mnemonic = "canoe dutch race super misery panda barrel edge turtle amount grunt silver";

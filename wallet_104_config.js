@@ -1,1 +1,1 @@
-var mnemonic = "devote glimpse cheap stay skate husband taxi cactus peanut impulse rice swim";
+var mnemonic = "fun until boy patch story add miracle collect situate outside alien this";

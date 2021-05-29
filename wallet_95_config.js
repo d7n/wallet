@@ -1,1 +1,1 @@
-var mnemonic = "palace acid bicycle truth tunnel salute occur garment village glow simple humor";
+var mnemonic = "off wasp mind increase flip chicken alien label mention explain payment lonely";

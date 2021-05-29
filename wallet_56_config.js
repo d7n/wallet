@@ -1,1 +1,1 @@
-var mnemonic = "lounge sea slam congress sibling relax swing menu marble head swap fancy";
+var mnemonic = "margin south scrub enact speed corn romance outdoor electric fresh taste spy";
