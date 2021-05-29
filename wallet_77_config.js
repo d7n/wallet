@@ -1,1 +1,1 @@
-var mnemonic = "banana owner frog trash top erupt flip same recycle media guess stand";
+var mnemonic = "stereo engine poverty can math diet lizard student misery embark dry shallow";

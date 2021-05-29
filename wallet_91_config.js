@@ -1,1 +1,1 @@
-var mnemonic = "engage awkward grow filter have flag icon group secret track recipe safe";
+var mnemonic = "choice airport flower window draw apple visual faint traffic palm noble clock";

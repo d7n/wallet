@@ -1,1 +1,1 @@
-var mnemonic = "turkey aspect oval problem minimum farm hedgehog point woman october cinnamon scheme";
+var mnemonic = "expose balcony evolve sentence buyer wire arctic clean vacant thing sustain phone";

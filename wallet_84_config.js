@@ -1,1 +1,1 @@
-var mnemonic = "true hello treat output ankle shoot absorb tissue universe cash chronic collect";
+var mnemonic = "toilet clump warm route century sail derive style yard entire win group";

@@ -1,1 +1,1 @@
-var mnemonic = "exit sort call pride have enact offer double any glide neck bitter";
+var mnemonic = "other dog horse two labor mad chaos mad crystal decline couple sort";

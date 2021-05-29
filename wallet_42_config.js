@@ -1,1 +1,1 @@
-var mnemonic = "question sting lucky coin garbage organ duck vote tool math invest raw";
+var mnemonic = "trim skull cave fold blush wedding winter crop spirit foil hour nose";

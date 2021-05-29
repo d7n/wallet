@@ -1,1 +1,1 @@
-var mnemonic = "few forget oil repair aisle face olive tide bargain design bacon case";
+var mnemonic = "skate poverty horn burden senior diamond defense proud choose early sport sweet";

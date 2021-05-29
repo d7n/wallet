@@ -1,1 +1,1 @@
-var mnemonic = "bachelor trade spring barrel expand music people antenna situate dignity aisle salad";
+var mnemonic = "quantum century afford bargain midnight ticket issue once empty enlist mother blush";

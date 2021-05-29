@@ -1,1 +1,1 @@
-var mnemonic = "bounce exclude service inherit ethics lesson impose ritual latin sunny expire weird";
+var mnemonic = "ride scale banana cupboard object silk bone patient wrong absurd bag wage";

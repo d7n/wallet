@@ -1,1 +1,1 @@
-var mnemonic = "camera park unfold always trigger odor illegal expect imitate series evoke ghost";
+var mnemonic = "mobile you cushion dentist brass mutual donkey scorpion mule thank bench subway";

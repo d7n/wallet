@@ -1,1 +1,1 @@
-var mnemonic = "globe chimney arrow quiz session leader crisp error skate solar business allow";
+var mnemonic = "fun goat cactus vivid offer nuclear evoke scheme swear tank rely battle";

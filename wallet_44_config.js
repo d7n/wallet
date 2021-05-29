@@ -1,1 +1,1 @@
-var mnemonic = "mother town destroy position pact special sustain obscure hover keep income wink";
+var mnemonic = "farm photo choose diesel neglect sword three long drift drift again dwarf";

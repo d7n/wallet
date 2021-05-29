@@ -1,1 +1,1 @@
-var mnemonic = "struggle one regret yard inside youth safe panel force replace elder toy";
+var mnemonic = "smart butter tonight cry grant gain cool trick enlist pupil walk grant";

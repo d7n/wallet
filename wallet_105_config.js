@@ -1,1 +1,1 @@
-var mnemonic = "glimpse fuel solid rural solve work scout river news duty frown metal";
+var mnemonic = "angle dose skate latin market void such shoe save nut sign game";

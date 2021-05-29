@@ -1,1 +1,1 @@
-var mnemonic = "buddy before chimney please onion move mean first now poverty endorse orbit";
+var mnemonic = "night have bulb shrug salon engine shield garbage avocado merge toddler task";

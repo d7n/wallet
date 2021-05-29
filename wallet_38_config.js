@@ -1,1 +1,1 @@
-var mnemonic = "into visit card arrange poet syrup boil crush news onion rent mercy";
+var mnemonic = "hurry drive crisp outer skull erase husband derive teach alert dad review";

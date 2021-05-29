@@ -1,1 +1,1 @@
-var mnemonic = "chat road ridge noise enrich lend actor noodle measure barely salad tip";
+var mnemonic = "robot airport reason trigger genius reject face ladder light rookie ability harsh";

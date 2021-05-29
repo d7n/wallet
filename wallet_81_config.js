@@ -1,1 +1,1 @@
-var mnemonic = "organ truck multiply type banner beyond citizen suspect indoor reopen garment candy";
+var mnemonic = "raw frog you relax release protect obscure nephew tongue inhale key avoid";

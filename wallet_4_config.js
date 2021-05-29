@@ -1,1 +1,1 @@
-var mnemonic = "ridge ramp only twin damp alone stove return session scout uphold grain";
+var mnemonic = "scare slush chuckle worry approve reveal glue garden stamp despair monster six";

@@ -1,1 +1,1 @@
-var mnemonic = "cute net volcano fabric flip lawn excess gain bag river feature nut";
+var mnemonic = "salad few armor cheese divorce catch sponsor chase surge muffin another thumb";

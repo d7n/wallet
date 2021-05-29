@@ -1,1 +1,1 @@
-var mnemonic = "session index dust acoustic work beach lawn mean ignore cake twenty sibling";
+var mnemonic = "mix fiscal federal shoe hint tide asthma trash hint pink strategy announce";

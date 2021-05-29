@@ -1,1 +1,1 @@
-var mnemonic = "deal pet ostrich update bus three truth scrap sure clean inmate struggle";
+var mnemonic = "kind remind cherry situate summer inquiry kiss stock menu antique leaf pulp";

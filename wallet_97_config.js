@@ -1,1 +1,1 @@
-var mnemonic = "six dizzy trim theme enlist pig satoshi common ankle render tip kitchen";
+var mnemonic = "candy decline below job path slight earn notice science game festival gaze";

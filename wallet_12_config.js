@@ -1,1 +1,1 @@
-var mnemonic = "champion eternal afraid forest merge cabin slender hollow inmate local bus horror";
+var mnemonic = "cargo step spider rely general ridge ladder repair concert hello patch robot";

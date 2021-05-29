@@ -1,1 +1,1 @@
-var mnemonic = "figure intact order bulb myself afford infant table rice virus bounce often";
+var mnemonic = "hybrid pole example praise shock quality genuine awake talent left umbrella owner";

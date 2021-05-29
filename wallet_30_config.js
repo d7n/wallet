@@ -1,1 +1,1 @@
-var mnemonic = "hire today girl fade eager device top extend stable panda prevent cereal";
+var mnemonic = "shallow tackle undo alter mansion disagree sadness wrestle talent note canvas movie";

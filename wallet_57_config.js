@@ -1,1 +1,1 @@
-var mnemonic = "park soft novel elite talent shaft bench feel zoo grunt crush blue";
+var mnemonic = "price mom train service still output unique bag victory caught oppose gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "much define alter autumn stadium feed lemon cargo lawn come section stem";
+var mnemonic = "gentle rude lamp card success organ month nothing punch fine fold taste";

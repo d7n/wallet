@@ -1,1 +1,1 @@
-var mnemonic = "echo involve love main raven scrap pull tide other initial river giraffe";
+var mnemonic = "response frozen eager bean decorate fun category differ train attend common music";

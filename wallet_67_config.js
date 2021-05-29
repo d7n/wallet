@@ -1,1 +1,1 @@
-var mnemonic = "fire parade thrive know very retreat bind strong alone arch glance venue";
+var mnemonic = "sunset raven improve magnet spend craft coral derive coin parrot jealous sponsor";

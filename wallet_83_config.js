@@ -1,1 +1,1 @@
-var mnemonic = "orange rain cook sleep liberty denial crop remember sense inquiry amateur stage";
+var mnemonic = "air kangaroo shoulder stock avoid maid gather worth rate aware step century";

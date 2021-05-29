@@ -1,1 +1,1 @@
-var mnemonic = "water organ draw cotton glory memory barrel history group initial side oil";
+var mnemonic = "ginger want cliff warrior sudden dress pledge grunt hero pudding ball ahead";

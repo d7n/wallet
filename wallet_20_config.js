@@ -1,1 +1,1 @@
-var mnemonic = "digital head eyebrow transfer cook help juice adapt primary mean tag crater";
+var mnemonic = "note rare merry manual pond increase pioneer view surround glance tortoise brief";

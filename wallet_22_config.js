@@ -1,1 +1,1 @@
-var mnemonic = "traffic globe life lens upper bubble argue laugh arrest analyst adapt library";
+var mnemonic = "problem shrimp install apple start world position acquire perfect cloud doctor entire";

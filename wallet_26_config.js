@@ -1,1 +1,1 @@
-var mnemonic = "want join design business faculty can twelve involve copper venture lab virus";
+var mnemonic = "memory all worry liquid amateur replace hour uniform order assist rack ketchup";

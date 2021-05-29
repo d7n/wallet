@@ -1,1 +1,1 @@
-var mnemonic = "treat grid modify wet mean cycle hand toast day damp twist worry";
+var mnemonic = "trial disease whale security grief increase silent mountain pride burst stamp dwarf";

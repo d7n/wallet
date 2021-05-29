@@ -1,1 +1,1 @@
-var mnemonic = "traffic seminar decline wealth that middle shove rookie spell endorse scout mountain";
+var mnemonic = "hard advice couple real soap have erase patch involve always best course";

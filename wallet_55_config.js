@@ -1,1 +1,1 @@
-var mnemonic = "favorite prefer indicate topple list arrest kitchen skirt sun ozone rival route";
+var mnemonic = "craft tone since extend rent boost half muffin bread rare worry siren";

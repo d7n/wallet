@@ -1,1 +1,1 @@
-var mnemonic = "unique need police turtle atom marine omit short ready youth liquid ranch";
+var mnemonic = "minimum wagon rely add bulk affair excite blast agent mixture august crumble";

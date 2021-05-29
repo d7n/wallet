@@ -1,1 +1,1 @@
-var mnemonic = "desk smoke input east kitten object brush color blood fiction mention cargo";
+var mnemonic = "patient oppose toward flight fabric charge connect slogan memory video grass over";

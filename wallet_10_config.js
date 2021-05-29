@@ -1,1 +1,1 @@
-var mnemonic = "interest pull promote medal promote hub solution increase bind raven inhale glare";
+var mnemonic = "amused document require consider pool such pretty earn away kick infant culture";

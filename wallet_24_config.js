@@ -1,1 +1,1 @@
-var mnemonic = "spoon flag island club between eager rich broccoli steak eagle immune high";
+var mnemonic = "source that lunch people soft icon dawn glove tomorrow marine more dog";

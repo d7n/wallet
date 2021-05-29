@@ -1,1 +1,1 @@
-var mnemonic = "torch mixture tail stage grow reopen guard clump wild hobby gift derive";
+var mnemonic = "game general view party case short police spot kingdom gas open medal";

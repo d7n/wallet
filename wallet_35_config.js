@@ -1,1 +1,1 @@
-var mnemonic = "age review cheap obey viable alley giraffe mesh chair shy addict sample";
+var mnemonic = "blur lend summer reason beyond general involve car rate flight judge quantum";

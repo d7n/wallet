@@ -1,1 +1,1 @@
-var mnemonic = "cute below welcome arrange web favorite autumn congress warrior fit faith scatter";
+var mnemonic = "donor jacket waste mosquito arctic oblige expand leisure apple nation ethics visa";

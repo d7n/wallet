@@ -1,1 +1,1 @@
-var mnemonic = "plug blush equip exotic bean stadium limit kidney quality rotate crane bacon";
+var mnemonic = "accuse round what sand other risk gentle success attend material large peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit divide safe media spawn frame wolf hotel table major crazy ride";
+var mnemonic = "puppy please shield venue switch display very tumble erupt bid lava motion";

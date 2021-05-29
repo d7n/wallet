@@ -1,1 +1,1 @@
-var mnemonic = "power fine kingdom name peanut evil world learn fade dizzy manual label";
+var mnemonic = "else rain ridge split settle intact recipe lend law place crop camera";

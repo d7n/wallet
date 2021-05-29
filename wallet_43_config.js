@@ -1,1 +1,1 @@
-var mnemonic = "when rather actress guitar warm april castle blue despair purity casino apple";
+var mnemonic = "swarm appear pave caught medal habit certain asset merit taxi exit depend";

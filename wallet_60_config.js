@@ -1,1 +1,1 @@
-var mnemonic = "loud birth gym else armor edge garage decorate guard mass jazz glance";
+var mnemonic = "blanket kiwi gesture menu foil kitten village clutch barely auction tray little";

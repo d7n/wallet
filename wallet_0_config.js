@@ -1,1 +1,1 @@
-var mnemonic = "wheel train cream tail chalk develop chat regret toward bomb bitter elbow";
+var mnemonic = "fun guard impose human portion liquid auction night talent comic grass drink";

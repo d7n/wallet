@@ -1,1 +1,1 @@
-var mnemonic = "rug confirm quiz century mercy suit pyramid calm ship repeat audit chalk";
+var mnemonic = "polar dry robust napkin rain disorder orange forest unlock flee recipe palm";

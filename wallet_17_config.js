@@ -1,1 +1,1 @@
-var mnemonic = "grow boat swarm reward people off onion december shield acquire stool hotel";
+var mnemonic = "leave dumb design swarm year intact catalog cream useful castle pact business";

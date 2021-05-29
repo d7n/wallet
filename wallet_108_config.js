@@ -1,1 +1,1 @@
-var mnemonic = "couple palace element work survey scene repair caught tourist link guide genuine";
+var mnemonic = "width minimum scorpion system process oil nasty buyer obvious tide stage enrich";

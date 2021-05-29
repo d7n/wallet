@@ -1,1 +1,1 @@
-var mnemonic = "clock gentle hill person mirror liberty guilt exit injury volcano pull tribe";
+var mnemonic = "fringe wrist actor boy oxygen exit gorilla secret purchase fringe pistol street";

@@ -1,1 +1,1 @@
-var mnemonic = "region title error chunk such hero prepare ketchup session clown normal total";
+var mnemonic = "aim tent notable option insane tobacco ask food various impose alone shine";

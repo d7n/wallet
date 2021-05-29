@@ -1,1 +1,1 @@
-var mnemonic = "injury swallow knee below deputy topic giggle poem fever acid belt quick";
+var mnemonic = "over axis harbor sand noble paddle shop dash scrap oil tenant festival";

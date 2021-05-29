@@ -1,1 +1,1 @@
-var mnemonic = "doctor orchard law prize tired fossil caution swap maid blood clarify bundle";
+var mnemonic = "office gaze spy truck arm extra frost essence hover custom toast kick";

@@ -1,1 +1,1 @@
-var mnemonic = "moral action color fitness keep limit sand crazy above doctor tunnel price";
+var mnemonic = "faith apple uniform observe imitate wide scene obey oil just multiply state";

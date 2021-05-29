@@ -1,1 +1,1 @@
-var mnemonic = "blouse rate dynamic chicken forest gentle bind gift guitar write fish glow";
+var mnemonic = "profit junk option cloth lend brown fitness patient hero edge remain journey";

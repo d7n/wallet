@@ -1,1 +1,1 @@
-var mnemonic = "spy toilet track proof able safe derive south bridge salad spread family";
+var mnemonic = "trap phrase input heart print butter peasant baby lunar bicycle genius hunt";

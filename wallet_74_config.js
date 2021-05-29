@@ -1,1 +1,1 @@
-var mnemonic = "wait popular person control account hill diary yellow security mass bean impact";
+var mnemonic = "slot wedding early jaguar reopen popular cancel answer trap injury company cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum hammer foam toss pistol cousin uncover vocal alter reject minute edit";
+var mnemonic = "tongue bunker shell spoil pretty total shed bunker bless rain aerobic quiz";

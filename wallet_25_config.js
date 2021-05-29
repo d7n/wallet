@@ -1,1 +1,1 @@
-var mnemonic = "muscle coyote few shield round caught receive rabbit fuel pistol pave odor";
+var mnemonic = "hat enable frozen total predict twelve age wrap sustain still extra woman";

@@ -1,1 +1,1 @@
-var mnemonic = "grape cost cheese turtle matrix cover author wisdom uniform lucky flag embark";
+var mnemonic = "purity turtle scatter target world goose cargo corn fox crew early manual";

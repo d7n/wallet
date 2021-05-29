@@ -1,1 +1,1 @@
-var mnemonic = "glow escape obvious quarter repair wine thrive joke like clay tribe repair";
+var mnemonic = "rival resemble net power butter puzzle city soap scrub ramp garbage tag";

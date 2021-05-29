@@ -1,1 +1,1 @@
-var mnemonic = "figure abuse drill tray hotel decade exhibit expose require volcano alley range";
+var mnemonic = "laugh common ripple mean disagree profit empty twin sister turkey leg pride";

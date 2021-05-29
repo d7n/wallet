@@ -1,1 +1,1 @@
-var mnemonic = "remove similar demise husband brother strong horse basket fence panda aerobic purse";
+var mnemonic = "faint require cactus sketch high magnet code divorce feel hidden enough shove";

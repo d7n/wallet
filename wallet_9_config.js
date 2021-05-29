@@ -1,1 +1,1 @@
-var mnemonic = "public exist aim celery account novel modify month foam average jump exchange";
+var mnemonic = "icon proud torch trial become twice sail any youth wrestle sudden tribe";

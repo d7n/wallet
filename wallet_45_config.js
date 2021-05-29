@@ -1,1 +1,1 @@
-var mnemonic = "leopard trim fatal slam era rain joy tone equip winter suit educate";
+var mnemonic = "glance satisfy crash derive welcome scan stool color rookie hamster virus demand";

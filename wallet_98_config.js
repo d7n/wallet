@@ -1,1 +1,1 @@
-var mnemonic = "argue glance below excuse idea assume napkin soul address puzzle soap buddy";
+var mnemonic = "budget demand catch dwarf mosquito now ginger course normal adjust ramp chaos";

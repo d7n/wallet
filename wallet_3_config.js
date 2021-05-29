@@ -1,1 +1,1 @@
-var mnemonic = "search rhythm excess grape odor super topic table arm boil discover tornado";
+var mnemonic = "ordinary utility name stove enjoy movie spray gate blue post garden vacant";

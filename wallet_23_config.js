@@ -1,1 +1,1 @@
-var mnemonic = "gold twin dumb monster such expose venture creek shallow enlist cross cheese";
+var mnemonic = "record turn burden glide coach human mystery bread document pen erode unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "home term divorce slice vacant decade harsh that broken spawn truth snake";
+var mnemonic = "satoshi orange basket drill prison pencil damage fitness ice what fall income";

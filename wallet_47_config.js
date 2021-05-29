@@ -1,1 +1,1 @@
-var mnemonic = "dice spread blue glare enforce eight cake elder enhance diamond cute transfer";
+var mnemonic = "forum gas bunker cake mind concert harsh other slice chicken join luxury";

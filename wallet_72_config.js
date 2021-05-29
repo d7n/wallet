@@ -1,1 +1,1 @@
-var mnemonic = "shrimp spot age fashion depart cram cream honey escape assault punch wagon";
+var mnemonic = "inform trip crumble fruit bamboo remain cream review skate stage wink exclude";

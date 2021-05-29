@@ -1,1 +1,1 @@
-var mnemonic = "decline fit run teach trap earth tennis firm error process pride retire";
+var mnemonic = "cage page slush track cram abandon nominee snack solution rug round estate";

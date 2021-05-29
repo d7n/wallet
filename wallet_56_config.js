@@ -1,1 +1,1 @@
-var mnemonic = "window punch awful base riot wing project abstract become unique unfold patch";
+var mnemonic = "such bracket claw toe math boil night usual speed timber earn huge";

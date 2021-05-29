@@ -1,1 +1,1 @@
-var mnemonic = "all race addict blue help elder token empty amazing thumb slot notable";
+var mnemonic = "grow must fall surge gesture layer useless course lawsuit village mesh return";

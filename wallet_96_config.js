@@ -1,1 +1,1 @@
-var mnemonic = "barely lift dinosaur since twin have cotton cradle stadium genius today coffee";
+var mnemonic = "ticket admit forest gentle below end squeeze west vivid dust pet clerk";

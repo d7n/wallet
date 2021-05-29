@@ -1,1 +1,1 @@
-var mnemonic = "engine possible ignore general hint search token false advance luxury pen north";
+var mnemonic = "defense quantum fish inch logic amused sing all shrimp obscure parade fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt traffic city stool access agree school own supply dish scatter laundry";
+var mnemonic = "short glare half inquiry aware caution afraid follow shift tired siren puppy";

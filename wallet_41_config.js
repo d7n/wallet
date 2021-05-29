@@ -1,1 +1,1 @@
-var mnemonic = "rescue proud exotic habit trust raise plug mandate saddle stem physical top";
+var mnemonic = "task camera sting valve ostrich laundry prison always warfare hen believe engine";

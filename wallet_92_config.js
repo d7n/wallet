@@ -1,1 +1,1 @@
-var mnemonic = "floor divorce air hour pipe jelly story update since speak excite deliver";
+var mnemonic = "outdoor often already memory update one aunt royal wall image eyebrow bomb";

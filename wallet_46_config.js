@@ -1,1 +1,1 @@
-var mnemonic = "century onion share toilet scatter voice energy medal gun magnet setup now";
+var mnemonic = "expect ostrich ride despair meadow skill inside knock evolve organ ritual original";

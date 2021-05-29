@@ -1,1 +1,1 @@
-var mnemonic = "cluster draw funny invite business side luggage web hungry lamp pumpkin novel";
+var mnemonic = "peanut wool aunt life other merge mobile example exile radar idle motor";

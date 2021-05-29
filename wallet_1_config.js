@@ -1,1 +1,1 @@
-var mnemonic = "home adult average man climb eight clog tent fever pizza neck world";
+var mnemonic = "camp coach exile until series neglect report thrive drip bomb fade purity";

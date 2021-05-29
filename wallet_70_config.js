@@ -1,1 +1,1 @@
-var mnemonic = "amused mobile tiny entry female child noble hurry exotic isolate wasp napkin";
+var mnemonic = "basket foot game adjust know dutch credit coyote what explain vanish smile";

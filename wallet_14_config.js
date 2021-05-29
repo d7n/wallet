@@ -1,1 +1,1 @@
-var mnemonic = "bone diamond net first ozone disease favorite panther nuclear party early planet";
+var mnemonic = "burst legend must frequent action media fee heart setup avocado angle ramp";
