@@ -1,1 +1,1 @@
-var mnemonic = "cancel sport brick void west spawn admit body unique network west tourist";
+var mnemonic = "finish whisper chaos steel merry wheat utility visual silk prefer minimum mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "text same velvet various wrestle label slogan brown brand economy siren purpose";
+var mnemonic = "beyond april leisure trumpet better spawn artist rebuild sense doll zone fox";

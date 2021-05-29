@@ -1,1 +1,1 @@
-var mnemonic = "change air stage tonight surface tragic search similar silent machine couple heavy";
+var mnemonic = "trigger clutch insane congress orient cheap this egg insect pizza treat pigeon";

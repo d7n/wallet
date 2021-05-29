@@ -1,1 +1,1 @@
-var mnemonic = "cheese genius jewel ethics tail float this violin rate fan clay network";
+var mnemonic = "economy enact arena height burden ankle enough figure boring pottery theory express";

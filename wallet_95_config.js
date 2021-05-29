@@ -1,1 +1,1 @@
-var mnemonic = "gentle rookie stool sword antique culture glove spirit eagle sun soap unaware";
+var mnemonic = "roof august arctic lazy ocean grow tube artefact elbow add combine hedgehog";

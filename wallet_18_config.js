@@ -1,1 +1,1 @@
-var mnemonic = "tissue turtle uncle excite wolf mouse cousin will brother squeeze relief involve";
+var mnemonic = "pepper fish rebuild enable vendor wool fever cause arrange put shiver quote";

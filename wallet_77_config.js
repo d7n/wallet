@@ -1,1 +1,1 @@
-var mnemonic = "try crawl busy put mirror treat glide black rent climb idea negative";
+var mnemonic = "captain vacant opinion slide mushroom door exact salt purpose keen rain salad";

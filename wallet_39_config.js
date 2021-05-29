@@ -1,1 +1,1 @@
-var mnemonic = "evoke laundry still ridge roast exotic dad lesson palm angry gaze athlete";
+var mnemonic = "fantasy grit stone across disorder around core almost devote oppose wish raven";

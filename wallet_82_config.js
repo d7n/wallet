@@ -1,1 +1,1 @@
-var mnemonic = "crucial moment better tiny wrestle menu entry canyon moment top warrior weapon";
+var mnemonic = "mention goat exact evidence cook brisk fame match obvious wasp capital torch";

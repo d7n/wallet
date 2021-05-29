@@ -1,1 +1,1 @@
-var mnemonic = "lucky blame injury modify chief volume physical stone actress rally portion buddy";
+var mnemonic = "delay steel protect fresh ticket sauce liquid badge husband wave brass shiver";

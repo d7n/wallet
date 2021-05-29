@@ -1,1 +1,1 @@
-var mnemonic = "ketchup transfer visit mutual baby arch shoot custom broccoli syrup bird whale";
+var mnemonic = "that place nose agent company dizzy shield pigeon cover sun bridge tongue";

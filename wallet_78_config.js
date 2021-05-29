@@ -1,1 +1,1 @@
-var mnemonic = "dragon minor impact lady rally before mirror flat market proof step slice";
+var mnemonic = "margin vague account fringe flee solution series poverty below scale tiny define";

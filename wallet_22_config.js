@@ -1,1 +1,1 @@
-var mnemonic = "fever simple estate track fitness cram ginger puzzle sick fatal bacon design";
+var mnemonic = "connect penalty state erosion plastic brave air health diagram note suffer absorb";

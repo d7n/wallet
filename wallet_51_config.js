@@ -1,1 +1,1 @@
-var mnemonic = "deny deny matter layer genius radio kiss replace bid clown lottery taxi";
+var mnemonic = "bulb fit edge web feel caught filter advance width siege assist gain";

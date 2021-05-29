@@ -1,1 +1,1 @@
-var mnemonic = "cement person obvious student pitch photo wedding actress jacket equal domain fantasy";
+var mnemonic = "cool broom recall volcano move silent market often cinnamon tiny exist thank";

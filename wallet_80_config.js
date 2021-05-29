@@ -1,1 +1,1 @@
-var mnemonic = "machine trouble gas client online only track cruel illness joke float limit";
+var mnemonic = "rate wait protect clean resist client assault police cushion reveal arena enough";

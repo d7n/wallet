@@ -1,1 +1,1 @@
-var mnemonic = "weather coral quiz budget expose relief purse bless benefit waste eight amused";
+var mnemonic = "power cement off head brief awesome payment fury essence tomorrow inmate quit";

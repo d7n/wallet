@@ -1,1 +1,1 @@
-var mnemonic = "mask segment ask double sand guilt garlic warm crunch vault ordinary nation";
+var mnemonic = "code group angle sunset category slam hockey prosper tell benefit alpha assist";

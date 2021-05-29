@@ -1,1 +1,1 @@
-var mnemonic = "whale aisle switch tissue first hurdle donkey staff allow game again jungle";
+var mnemonic = "wealth economy job awful cave forest budget example mad hat resource ready";

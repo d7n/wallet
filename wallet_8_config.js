@@ -1,1 +1,1 @@
-var mnemonic = "angle web glow clay salon winter deputy ribbon excuse universe endorse blush";
+var mnemonic = "bundle faith small damp rabbit swear face strong hazard private meadow swarm";

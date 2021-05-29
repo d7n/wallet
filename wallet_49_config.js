@@ -1,1 +1,1 @@
-var mnemonic = "chaos liquid limb car monkey between slogan pass caution patient slab oppose";
+var mnemonic = "forget kitten act romance slender shock blast fatigue chest fit romance drink";

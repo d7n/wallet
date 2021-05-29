@@ -1,1 +1,1 @@
-var mnemonic = "own august crash again model erosion dove stick cinnamon student uncover nothing";
+var mnemonic = "civil parent gorilla road observe hunt orchard shallow another endorse essence garment";

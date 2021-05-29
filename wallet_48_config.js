@@ -1,1 +1,1 @@
-var mnemonic = "victory decline produce hobby kingdom season plunge scatter coin few vendor shed";
+var mnemonic = "print unknown alpha limit daughter manual tent various tide gadget day exclude";

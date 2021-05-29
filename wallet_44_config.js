@@ -1,1 +1,1 @@
-var mnemonic = "emotion pudding reform educate roof dry work raise prepare toy hawk search";
+var mnemonic = "almost control comfort there couple pizza swarm chicken earth rack basic fit";

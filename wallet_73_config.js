@@ -1,1 +1,1 @@
-var mnemonic = "motion image practice order wish again wisdom vote talent connect destroy awful";
+var mnemonic = "engine ignore ritual sad predict student pond amount olive gate abstract saddle";

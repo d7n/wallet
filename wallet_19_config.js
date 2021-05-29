@@ -1,1 +1,1 @@
-var mnemonic = "fetch fat side fashion payment autumn window mandate skirt fury dilemma pumpkin";
+var mnemonic = "want concert beyond action carbon gentle worry brass dish increase father wife";

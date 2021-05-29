@@ -1,1 +1,1 @@
-var mnemonic = "moment mesh check abandon agent slush train view major supreme episode fiber";
+var mnemonic = "erosion repeat easy cushion ahead chunk ski grid labor near primary penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "energy feed alone dress debris pudding ten liar over gate zero blanket";
+var mnemonic = "smile observe jaguar social swear they clown festival shed sustain another ecology";

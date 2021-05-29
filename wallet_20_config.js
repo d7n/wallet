@@ -1,1 +1,1 @@
-var mnemonic = "move hint neutral hockey mad wreck citizen scissors dinosaur orphan victory alter";
+var mnemonic = "bleak dizzy kiwi gather want such liquid aspect fiber olympic garlic error";

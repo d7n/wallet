@@ -1,1 +1,1 @@
-var mnemonic = "culture bubble glove desert cricket age denial work swim talk affair subject";
+var mnemonic = "sand uncle spend permit enhance corn purity skin sad famous awake deny";

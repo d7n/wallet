@@ -1,1 +1,1 @@
-var mnemonic = "also barrel garden leg orient art soccer round mention shock devote common";
+var mnemonic = "buyer depart breeze soon satisfy faith divorce apart achieve ecology sugar duck";

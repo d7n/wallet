@@ -1,1 +1,1 @@
-var mnemonic = "scissors genius this expand north phone dune dial dream globe build trick";
+var mnemonic = "fortune shell car monitor shield century under best vacant group fuel rescue";

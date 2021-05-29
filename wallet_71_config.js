@@ -1,1 +1,1 @@
-var mnemonic = "give round december easy few deny penalty sting kangaroo acoustic brain pig";
+var mnemonic = "upper draw anger horror taxi defy all blood become device boil loyal";

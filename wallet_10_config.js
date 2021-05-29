@@ -1,1 +1,1 @@
-var mnemonic = "monster coach aunt eye proof clarify flight split wisdom position column judge";
+var mnemonic = "glove arrive deer august alien ask tell broken hidden unaware bench federal";

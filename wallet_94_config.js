@@ -1,1 +1,1 @@
-var mnemonic = "denial season stadium resemble celery ill balcony practice spoil toast indicate project";
+var mnemonic = "devote tide destroy address fee benefit smile thought conduct camp phone cabbage";

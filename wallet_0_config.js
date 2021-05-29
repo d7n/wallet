@@ -1,1 +1,1 @@
-var mnemonic = "twice bundle decline poverty inch weird load dirt swarm dragon uncle change";
+var mnemonic = "alarm since three remain process wage wall stadium giraffe vacant regret excess";

@@ -1,1 +1,1 @@
-var mnemonic = "moral day animal opera bid era index either blossom hurry eyebrow verify";
+var mnemonic = "slot animal confirm found learn young good text cinnamon flee orchard eager";

@@ -1,1 +1,1 @@
-var mnemonic = "bar catch bonus shrug empower beyond uphold fence turkey milk idea wonder";
+var mnemonic = "news gallery hour amateur seven sound blouse category toward glass rely mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "brother excess sugar pet brass find dismiss summer brand treat emerge fold";
+var mnemonic = "village horn frozen sample type fatal egg animal skull tomorrow card city";

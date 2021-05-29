@@ -1,1 +1,1 @@
-var mnemonic = "squeeze pig token puppy drama remain exhibit wink display evidence zoo hurry";
+var mnemonic = "marriage swamp umbrella soft rifle glow inherit math stem crush armed mansion";

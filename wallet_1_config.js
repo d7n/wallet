@@ -1,1 +1,1 @@
-var mnemonic = "chapter fork exhaust family universe floor key later crew pledge hurt mule";
+var mnemonic = "guitar scorpion stamp guide peanut nurse flee path office mechanic aunt drip";

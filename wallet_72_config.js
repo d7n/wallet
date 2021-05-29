@@ -1,1 +1,1 @@
-var mnemonic = "stay stamp prevent fit fiscal broom seven chief myself eagle market measure";
+var mnemonic = "perfect finish brisk pumpkin history ostrich wrong cover educate game top scare";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz caught grace road little core session fragile country source december sword";
+var mnemonic = "ketchup neither erode usage discover primary awesome glad coconut swarm decade wing";

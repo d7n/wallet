@@ -1,1 +1,1 @@
-var mnemonic = "raw position adjust comfort trumpet flag runway arrow cousin finger belt turn";
+var mnemonic = "lucky faint jeans current vocal fury tent island ski cherry rubber female";

@@ -1,1 +1,1 @@
-var mnemonic = "voice clump tomorrow bomb rely design survey oven fat duck nephew prefer";
+var mnemonic = "treat round setup sail maple cute can kit adult base cattle vast";

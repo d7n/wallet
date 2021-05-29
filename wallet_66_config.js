@@ -1,1 +1,1 @@
-var mnemonic = "hope trouble express uncover crucial usage engine indicate engine stand insane laundry";
+var mnemonic = "earth obscure brown dutch neglect risk laptop bargain improve affair tiger math";

@@ -1,1 +1,1 @@
-var mnemonic = "false license video chapter shift quiz phrase truck input athlete scorpion public";
+var mnemonic = "undo letter lucky orbit siege want crumble key trust loop order tenant";

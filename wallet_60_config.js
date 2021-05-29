@@ -1,1 +1,1 @@
-var mnemonic = "abandon village cream salad crazy image lens fatigue nest radar whip apple";
+var mnemonic = "system explain fancy zero destroy frozen club farm resource click vacuum embrace";

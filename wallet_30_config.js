@@ -1,1 +1,1 @@
-var mnemonic = "mesh wall tiny credit change wire curious divide chalk raise apology swift";
+var mnemonic = "maid sick traffic outside add crack because crowd crane memory destroy borrow";

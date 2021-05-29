@@ -1,1 +1,1 @@
-var mnemonic = "oxygen pole exercise sock bullet loud coyote man mystery steel hire hat";
+var mnemonic = "virus orbit youth differ point rapid ginger often journey push stamp leisure";

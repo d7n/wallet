@@ -1,1 +1,1 @@
-var mnemonic = "marine neither weapon clutch dish balcony auto muffin basic maid crawl pair";
+var mnemonic = "juice dismiss sword approve differ million squeeze little pilot soup shove proud";

@@ -1,1 +1,1 @@
-var mnemonic = "split pond sell movie genuine gold trick bike grief bomb almost bless";
+var mnemonic = "clerk call ugly arrange survey kick tide grief wear poverty behind tomato";

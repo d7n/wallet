@@ -1,1 +1,1 @@
-var mnemonic = "pill drive sentence barrel injury jungle move nuclear lizard remove day cheese";
+var mnemonic = "theory elbow calm switch same woman pitch remind pair hole mail ski";

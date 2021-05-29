@@ -1,1 +1,1 @@
-var mnemonic = "bring sheriff decrease gadget tape permit lounge carpet guard book jungle chief";
+var mnemonic = "planet alert grocery faculty snack pact right salon crucial brisk action possible";

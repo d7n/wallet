@@ -1,1 +1,1 @@
-var mnemonic = "shrug panda wasp thumb spring next flame gap little breeze delay spider";
+var mnemonic = "album slush pause shoulder dry window defy spoil popular second there noodle";

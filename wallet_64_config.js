@@ -1,1 +1,1 @@
-var mnemonic = "add resist copper embark cable lonely dignity staff pact pear unusual update";
+var mnemonic = "tomorrow dinner faint market elbow onion luggage opinion help wet test coil";

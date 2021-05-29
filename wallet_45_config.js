@@ -1,1 +1,1 @@
-var mnemonic = "cook heavy miss thumb expect dance wave circle street mind talent claw";
+var mnemonic = "blind there panic farm better recipe flash thank wedding leaf hard sphere";

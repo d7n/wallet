@@ -1,1 +1,1 @@
-var mnemonic = "absent clock desk border reopen promote parrot possible page swap notice fetch";
+var mnemonic = "empty subject issue exercise fringe midnight garlic domain symbol mass inch ginger";

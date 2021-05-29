@@ -1,1 +1,1 @@
-var mnemonic = "ceiling cheese mobile tank crunch calm velvet spice silent ugly hurry bullet";
+var mnemonic = "primary speak whisper garment honey arctic mesh explain glad modify rate owner";

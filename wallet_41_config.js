@@ -1,1 +1,1 @@
-var mnemonic = "lift portion fall isolate soon story floor system buffalo evidence off rotate";
+var mnemonic = "opera noodle that dog horse brand broccoli tomorrow steak travel okay slush";

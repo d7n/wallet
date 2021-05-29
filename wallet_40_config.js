@@ -1,1 +1,1 @@
-var mnemonic = "office harvest fold toilet glory raven juice invest spider enhance clinic ready";
+var mnemonic = "sting length network winner viable cereal nature silver rebel science guide one";

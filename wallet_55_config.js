@@ -1,1 +1,1 @@
-var mnemonic = "pulse lizard author surge tone army ten odor fix head then onion";
+var mnemonic = "vicious narrow coral place gospel turn fragile dad quote antenna wool vicious";

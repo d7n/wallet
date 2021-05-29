@@ -1,1 +1,1 @@
-var mnemonic = "garbage cram endorse bike obey today sense crawl arrow dutch stable adapt";
+var mnemonic = "chief switch advance stadium cat found aware foster word dirt august vault";

@@ -1,1 +1,1 @@
-var mnemonic = "bid guard zero film brass aware intact power marriage fever clinic similar";
+var mnemonic = "nominee crash festival caution old margin appear glow romance legal cactus decide";

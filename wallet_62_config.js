@@ -1,1 +1,1 @@
-var mnemonic = "assault hotel divorce motion place barely unable speak velvet mixed rifle rather";
+var mnemonic = "clap hazard child wing wet sort frozen shrimp fly road try title";

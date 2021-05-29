@@ -1,1 +1,1 @@
-var mnemonic = "hockey exhibit fade cancel stuff public celery husband swing judge noise breeze";
+var mnemonic = "strike pact easy live churn ability stock screen brass walk exhaust super";

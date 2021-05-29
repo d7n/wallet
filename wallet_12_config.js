@@ -1,1 +1,1 @@
-var mnemonic = "catalog female acquire gain erase resist kitchen imitate entry great around person";
+var mnemonic = "bundle various engine say novel orient cross cattle live hope nerve air";

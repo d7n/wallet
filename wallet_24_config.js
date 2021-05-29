@@ -1,1 +1,1 @@
-var mnemonic = "fire uncle tuna lend inspire wet marine leave input soldier unhappy another";
+var mnemonic = "orchard hamster west stuff antique solar luxury come screen window shadow enhance";

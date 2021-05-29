@@ -1,1 +1,1 @@
-var mnemonic = "first manual obscure domain note boring correct liberty sort knock swap inspire";
+var mnemonic = "page butter oak purse chef dutch pony confirm ugly wrist piece solve";

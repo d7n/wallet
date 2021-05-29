@@ -1,1 +1,1 @@
-var mnemonic = "cage thumb limb orchard turtle swap august country width glad crew sudden";
+var mnemonic = "latin patch vital devote unusual trap reduce carbon detail heart labor other";

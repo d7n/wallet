@@ -1,1 +1,1 @@
-var mnemonic = "library chaos kidney like conduct oak firm above actress royal stand super";
+var mnemonic = "juice like topic math quantum claim flock theory early weasel exercise rate";

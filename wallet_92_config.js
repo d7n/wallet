@@ -1,1 +1,1 @@
-var mnemonic = "transfer start chicken ski clip half knife valid mask pretty seat slender";
+var mnemonic = "diesel vast execute inspire bonus tooth fat slush museum scout math slow";

@@ -1,1 +1,1 @@
-var mnemonic = "original wet genius club gain debris endless believe hammer juice garbage nothing";
+var mnemonic = "distance faculty doctor nut tuition clarify razor tray open domain record anxiety";

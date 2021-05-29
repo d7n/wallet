@@ -1,1 +1,1 @@
-var mnemonic = "maze build chapter canal ignore agent olive surface raccoon utility nothing comfort";
+var mnemonic = "leave weird original mammal square year right vapor audit permit couch surprise";

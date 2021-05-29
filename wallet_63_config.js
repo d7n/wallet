@@ -1,1 +1,1 @@
-var mnemonic = "empty rally obscure decorate grid jacket access stereo autumn chase album stool";
+var mnemonic = "jelly void armed steak sail winner diagram liberty duty glad monkey robot";

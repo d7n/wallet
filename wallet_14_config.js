@@ -1,1 +1,1 @@
-var mnemonic = "width zoo benefit much adapt basic brain honey flag annual shove actress";
+var mnemonic = "shoe plug tattoo female name web thing balance exist glimpse rent vast";

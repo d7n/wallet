@@ -1,1 +1,1 @@
-var mnemonic = "breeze goddess potato interest flavor submit fringe firm knee work wood piano";
+var mnemonic = "minute faith donkey mass plunge cloud parent mind buyer hole flash together";

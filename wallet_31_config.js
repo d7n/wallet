@@ -1,1 +1,1 @@
-var mnemonic = "jazz tennis clap around plunge force float rival sick excuse omit fortune";
+var mnemonic = "kite harvest zero still farm noise bar slow episode rocket eagle shine";

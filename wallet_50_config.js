@@ -1,1 +1,1 @@
-var mnemonic = "ribbon hand notice acid maze input require blanket empower idle fun token";
+var mnemonic = "real rebel excite neck soap hope eagle ball garage marine smooth task";

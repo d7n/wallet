@@ -1,1 +1,1 @@
-var mnemonic = "trip busy plug gown tourist baby lucky gentle float eight rapid assist";
+var mnemonic = "simple food gasp pet during gown depth loud fluid neither castle habit";

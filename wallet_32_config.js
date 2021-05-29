@@ -1,1 +1,1 @@
-var mnemonic = "guitar prepare merry truth unaware regular window soup pen spirit humble kangaroo";
+var mnemonic = "lawn sniff sustain page share wealth fine return merry cream hybrid any";

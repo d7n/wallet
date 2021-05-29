@@ -1,1 +1,1 @@
-var mnemonic = "casual mountain acoustic leave since faith plastic cake ask pretty economy core";
+var mnemonic = "enlist drink repair truth cream traffic scan resemble female citizen moral shock";

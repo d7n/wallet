@@ -1,1 +1,1 @@
-var mnemonic = "cactus alpha nose drama shell absurd then produce scare during defense glare";
+var mnemonic = "alley inspire umbrella receive rubber hedgehog silent size toast alone fork bonus";

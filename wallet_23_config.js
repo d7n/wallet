@@ -1,1 +1,1 @@
-var mnemonic = "grace vintage fury valve rice tonight inspire pipe valley tape attend cereal";
+var mnemonic = "shock question october raccoon someone seat base gentle tip budget brief step";

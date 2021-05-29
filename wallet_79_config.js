@@ -1,1 +1,1 @@
-var mnemonic = "page turtle outside hold correct pipe elevator muscle beauty ill nurse focus";
+var mnemonic = "nephew twin quality predict motor ginger lucky dose alert venture cross venue";

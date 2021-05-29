@@ -1,1 +1,1 @@
-var mnemonic = "average voyage garbage chicken soup deposit inspire what paper squirrel elder shift";
+var mnemonic = "spare bunker struggle alcohol sight aim absurd burden feed vapor uncover conduct";

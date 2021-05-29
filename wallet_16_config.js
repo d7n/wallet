@@ -1,1 +1,1 @@
-var mnemonic = "athlete edge enrich praise common hurt gown alert flight budget depend cycle";
+var mnemonic = "chuckle foam coin collect because spring news screen melody grocery recycle erupt";

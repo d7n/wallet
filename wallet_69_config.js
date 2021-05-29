@@ -1,1 +1,1 @@
-var mnemonic = "young lamp abstract lecture pigeon marine valid menu crush program force mosquito";
+var mnemonic = "puzzle double mistake cinnamon border final twice raw family rate nurse usual";

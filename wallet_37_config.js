@@ -1,1 +1,1 @@
-var mnemonic = "dignity dutch employ mango reject river three amount dynamic train foot park";
+var mnemonic = "notable front major tray fresh cube exile toe dolphin canvas taxi van";
