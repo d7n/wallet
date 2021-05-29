@@ -1,1 +1,1 @@
-var mnemonic = "lucky cat hammer dynamic enrich into season remain gather spy refuse nerve";
+var mnemonic = "inhale delay culture tonight tilt grace fly boil conduct occur supply hungry";

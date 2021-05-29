@@ -1,1 +1,1 @@
-var mnemonic = "cheap thank soda inmate weekend program police glove ghost base copper recycle";
+var mnemonic = "urge eight sword mail love intact seed frozen visa people awake human";

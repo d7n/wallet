@@ -1,1 +1,1 @@
-var mnemonic = "glove print key nurse aerobic six baby antenna wisdom bring only deny";
+var mnemonic = "require primary matter social front celery family add cricket east ticket quiz";

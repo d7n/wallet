@@ -1,1 +1,1 @@
-var mnemonic = "roast admit arrive stock keep credit pioneer gorilla left love obvious because";
+var mnemonic = "dutch dry federal letter leave arm mind prefer turkey often violin pact";

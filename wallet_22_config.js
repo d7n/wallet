@@ -1,1 +1,1 @@
-var mnemonic = "uncover swift pole laugh minute law valve duck fantasy hybrid unaware into";
+var mnemonic = "acquire embrace culture stand museum have weapon amateur uphold subway gauge biology";

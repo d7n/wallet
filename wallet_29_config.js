@@ -1,1 +1,1 @@
-var mnemonic = "clog actress asthma have release donate use sword easily claim agent birth";
+var mnemonic = "wreck credit sad hour parade aim rule avoid crush office salad will";

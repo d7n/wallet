@@ -1,1 +1,1 @@
-var mnemonic = "marine inflict cool eye any fix upper yellow carbon opera ordinary radio";
+var mnemonic = "isolate crazy faint card seven gallery tomato tomato session capable coffee tunnel";

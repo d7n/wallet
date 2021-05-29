@@ -1,1 +1,1 @@
-var mnemonic = "cotton bag canvas hamster super spoil meadow left identify butter rail coach";
+var mnemonic = "author spy finger crash lunch person dolphin romance draw situate fade ice";

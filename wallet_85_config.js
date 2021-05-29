@@ -1,1 +1,1 @@
-var mnemonic = "link life pluck orbit spider mirror can romance oil found curve stock";
+var mnemonic = "analyst dust sea prefer cause able critic logic intact glow emerge subway";

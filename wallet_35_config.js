@@ -1,1 +1,1 @@
-var mnemonic = "sting diesel price razor task unable plastic claim fetch amount menu unfair";
+var mnemonic = "river pelican radar cool another stable run concert south behind awesome club";

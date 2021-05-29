@@ -1,1 +1,1 @@
-var mnemonic = "goose good melt private bitter predict segment grow man elegant exotic fun";
+var mnemonic = "thing crystal join inch range tuition december budget fire mirror shop intact";

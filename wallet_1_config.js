@@ -1,1 +1,1 @@
-var mnemonic = "ticket law weird mother north feel purity diesel dignity doctor move raven";
+var mnemonic = "usage inhale urge combine mass setup debris cloud review thing update prevent";

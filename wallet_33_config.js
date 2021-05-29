@@ -1,1 +1,1 @@
-var mnemonic = "hospital fork poet tube deliver rotate broken tackle tennis casino wet ticket";
+var mnemonic = "ship kit region cactus route spot betray loyal eternal flower sport velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "truth harvest year script satoshi film latin raise later before bitter already";
+var mnemonic = "elephant off vault family behind security air bunker elevator outside soon lava";

@@ -1,1 +1,1 @@
-var mnemonic = "meat scan easy bring lecture airport tray favorite ostrich visa point hazard";
+var mnemonic = "book toy bicycle know arch ill attack wedding dog razor slam when";

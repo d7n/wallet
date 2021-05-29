@@ -1,1 +1,1 @@
-var mnemonic = "fatigue child menu cash dinner assume skate mango grunt asset catalog captain";
+var mnemonic = "scatter leopard forward win twin opera cheese curve forest curtain scrap valve";

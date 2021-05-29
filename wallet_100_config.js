@@ -1,1 +1,1 @@
-var mnemonic = "topple calm afraid endorse elite step minimum sure trim immense found ugly";
+var mnemonic = "radar intact service comic trip awake brick rough night parrot alarm bonus";

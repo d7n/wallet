@@ -1,1 +1,1 @@
-var mnemonic = "shove virtual grass control canvas stuff together noodle must gadget hill opinion";
+var mnemonic = "glow flight banana brother embrace fat hunt tray ill awkward ice own";

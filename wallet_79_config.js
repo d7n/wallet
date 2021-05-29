@@ -1,1 +1,1 @@
-var mnemonic = "sketch away mean argue document mechanic dice silent resemble such flee combine";
+var mnemonic = "level there estate glove laundry load pepper unit knee finger crane denial";

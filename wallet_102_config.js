@@ -1,1 +1,1 @@
-var mnemonic = "saddle blue narrow prevent hawk alley image valid rich weapon fine hire";
+var mnemonic = "cage sleep ball void youth monitor blouse festival express dust law zero";

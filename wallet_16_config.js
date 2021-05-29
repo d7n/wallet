@@ -1,1 +1,1 @@
-var mnemonic = "melt whip tube edge liquid relief garden elevator law glimpse craft topple";
+var mnemonic = "grid time fix arrive pupil lobster retire raven dismiss live neck job";

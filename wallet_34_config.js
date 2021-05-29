@@ -1,1 +1,1 @@
-var mnemonic = "poet poverty grain duty push interest abstract carpet knee injury bike snake";
+var mnemonic = "movie replace dinosaur lab heart palm kidney crystal dizzy hub enrich crane";

@@ -1,1 +1,1 @@
-var mnemonic = "author remove sample repair vintage actual security range plate segment team heavy";
+var mnemonic = "gospel into alpha receive crime gentle quarter art pelican accuse chapter great";

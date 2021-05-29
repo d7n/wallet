@@ -1,1 +1,1 @@
-var mnemonic = "salute notice usual south reject protect saddle arctic economy afford slender genuine";
+var mnemonic = "bicycle reward excite honey dust family sing target depth dignity garage denial";

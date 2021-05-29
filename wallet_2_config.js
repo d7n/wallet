@@ -1,1 +1,1 @@
-var mnemonic = "peace garlic pledge much link delay arena ghost decrease slogan chest drum";
+var mnemonic = "ramp bullet fault audit quiz ten version minute mix chapter desk before";

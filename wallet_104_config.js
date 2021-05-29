@@ -1,1 +1,1 @@
-var mnemonic = "kite cliff mass eternal sense steel canvas impose write road fix memory";
+var mnemonic = "adult conduct kiss few present style warrior holiday bridge bottom balance letter";

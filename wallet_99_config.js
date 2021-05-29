@@ -1,1 +1,1 @@
-var mnemonic = "tell antique wise estate book cloud deposit raccoon street describe employ educate";
+var mnemonic = "mirror race grab tattoo monitor cloth crop shrug ball suit hole latin";

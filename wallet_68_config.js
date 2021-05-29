@@ -1,1 +1,1 @@
-var mnemonic = "economy market load pig outside empower organ gloom title oblige floor rally";
+var mnemonic = "message buddy toy absurd focus more second net wink token payment senior";

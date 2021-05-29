@@ -1,1 +1,1 @@
-var mnemonic = "upon silk leave summer media fan discover ecology minor describe laptop bread";
+var mnemonic = "odor situate curious used proud easy repeat calm general violin toilet swallow";

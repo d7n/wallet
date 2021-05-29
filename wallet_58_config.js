@@ -1,1 +1,1 @@
-var mnemonic = "garden nerve tag genius mutual forest vintage come weird scatter thunder save";
+var mnemonic = "ski either slam jealous change social acid logic flag brief coil mom";

@@ -1,1 +1,1 @@
-var mnemonic = "silk tribe hard adapt system museum diamond they despair canoe globe trick";
+var mnemonic = "remove chapter regret nut sun pistol october ostrich amount benefit exist price";

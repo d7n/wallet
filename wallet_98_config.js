@@ -1,1 +1,1 @@
-var mnemonic = "front melt lizard brain crop baby drastic trust just spring black treat";
+var mnemonic = "lounge page near egg during repair puppy clever retreat noise grape cat";

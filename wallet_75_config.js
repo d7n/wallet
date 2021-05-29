@@ -1,1 +1,1 @@
-var mnemonic = "forward million orient thing agree license royal shove sample glove sense domain";
+var mnemonic = "stand light before hurt snack barely squirrel jar hammer among gasp couple";

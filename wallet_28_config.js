@@ -1,1 +1,1 @@
-var mnemonic = "banana boost tonight execute cake food eyebrow feed never one video depth";
+var mnemonic = "clip silk enforce glow also install season velvet catch regret mind apology";

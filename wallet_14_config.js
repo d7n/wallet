@@ -1,1 +1,1 @@
-var mnemonic = "path clap view faculty genius captain enrich flame fee front name spice";
+var mnemonic = "design legal hold motor divorce size soda erupt avoid connect slow detail";

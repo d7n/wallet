@@ -1,1 +1,1 @@
-var mnemonic = "leaf truth shrug thank remember palace cigar raw trap distance card ecology";
+var mnemonic = "silly infant legend join goat zero ten pull guard fence possible olympic";

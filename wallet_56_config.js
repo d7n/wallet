@@ -1,1 +1,1 @@
-var mnemonic = "cost hurt sword helmet dizzy shoe again amateur tuna nice amazing exchange";
+var mnemonic = "inch engage man people cram marble tail destroy solve ghost change film";

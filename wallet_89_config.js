@@ -1,1 +1,1 @@
-var mnemonic = "pole tiger jump liar daring pyramid join involve park winter ability cupboard";
+var mnemonic = "together eyebrow market budget climb select seven soccer adjust resemble carbon egg";

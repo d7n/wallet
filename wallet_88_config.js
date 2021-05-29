@@ -1,1 +1,1 @@
-var mnemonic = "fox transfer rocket liquid settle code turn nose food razor alert float";
+var mnemonic = "essay quarter start warfare similar color lock couch awake edge tiger aware";

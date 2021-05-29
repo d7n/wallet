@@ -1,1 +1,1 @@
-var mnemonic = "nerve van stable toddler churn badge drift vicious eternal spare head party";
+var mnemonic = "penalty put ethics quantum nerve daughter enact word tunnel knock subway maze";

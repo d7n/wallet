@@ -1,1 +1,1 @@
-var mnemonic = "panther reward wage tag prize cloud reason trumpet tape grocery injury follow";
+var mnemonic = "devote fork idle perfect fan hybrid where feed inhale delay marble lady";

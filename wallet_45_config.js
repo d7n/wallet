@@ -1,1 +1,1 @@
-var mnemonic = "round truly nurse traffic defense leaf supreme solar knock direct token clever";
+var mnemonic = "quality need catalog solution quantum wheat giant roof woman differ effort scan";

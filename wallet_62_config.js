@@ -1,1 +1,1 @@
-var mnemonic = "fame airport dish violin fat suspect cook melt lizard patient wink meat";
+var mnemonic = "amused roast proud turtle holiday report beauty ordinary little trend glide year";

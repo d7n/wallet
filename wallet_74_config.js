@@ -1,1 +1,1 @@
-var mnemonic = "stairs tortoise second confirm usage hospital fame float choice tooth bless water";
+var mnemonic = "vessel vehicle distance account upgrade snack attract express picture funny punch welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust fog reduce nurse effort deal sketch wait battle toilet secret spell";
+var mnemonic = "pottery glory motor south kit afford reform power coast surge absent buyer";

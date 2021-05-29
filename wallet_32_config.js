@@ -1,1 +1,1 @@
-var mnemonic = "hover cream sign tenant embark render slice divorce drama tackle rookie raise";
+var mnemonic = "oblige lady city elbow arch animal fiber guide ugly enlist dad category";

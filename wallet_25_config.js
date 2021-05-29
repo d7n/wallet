@@ -1,1 +1,1 @@
-var mnemonic = "blossom furnace climb flight hub chunk coconut believe avoid sweet scrub eager";
+var mnemonic = "echo power crumble horse wear charge plug arrive tree lab large pitch";

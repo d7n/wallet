@@ -1,1 +1,1 @@
-var mnemonic = "private cactus logic arrow advance orient april regret funny this cost chase";
+var mnemonic = "noise wet only assault inspire subject album kitchen cabin twin crystal bulb";

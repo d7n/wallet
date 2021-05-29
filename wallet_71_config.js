@@ -1,1 +1,1 @@
-var mnemonic = "cause quote genius genre canal allow blade amateur appear cram pupil circle";
+var mnemonic = "bachelor fiscal dynamic begin smoke couch stone forum crucial dress damage duck";

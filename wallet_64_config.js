@@ -1,1 +1,1 @@
-var mnemonic = "debris there multiply once track patrol tent mystery happy member link wear";
+var mnemonic = "damp century select crash hamster snow tattoo agent flock melt more almost";

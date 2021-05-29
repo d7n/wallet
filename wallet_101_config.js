@@ -1,1 +1,1 @@
-var mnemonic = "fresh original topic layer two brick vicious correct noise scatter quantum keen";
+var mnemonic = "below reunion attack pizza toilet border network patch loyal also hybrid spin";

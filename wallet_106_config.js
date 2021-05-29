@@ -1,1 +1,1 @@
-var mnemonic = "grow river snack remember boss eager dream afraid churn faint when modify";
+var mnemonic = "alone wise exotic evoke ignore fun protect turn panther lend quit juice";

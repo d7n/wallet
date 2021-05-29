@@ -1,1 +1,1 @@
-var mnemonic = "pole impulse banner slender chronic fossil topple exclude sea display fluid step";
+var mnemonic = "diesel pool axis fantasy double practice trim ketchup raven win agent material";

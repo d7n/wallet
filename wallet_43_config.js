@@ -1,1 +1,1 @@
-var mnemonic = "impose work ignore waste stand trumpet color guide seek pave shuffle argue";
+var mnemonic = "document truck quote phone accuse priority beef vivid flush permit price tomato";

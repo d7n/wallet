@@ -1,1 +1,1 @@
-var mnemonic = "endorse crunch cute struggle recall device dwarf lyrics leopard entry hawk brush";
+var mnemonic = "rural fog process hip armor hunt fee dirt warfare express amateur crew";

@@ -1,1 +1,1 @@
-var mnemonic = "pony knife gorilla huge curtain swing decorate picnic venture series century myth";
+var mnemonic = "cargo achieve retreat bridge strategy honey foil animal coral busy weird mass";

@@ -1,1 +1,1 @@
-var mnemonic = "father dawn reward umbrella dentist defy fish box swallow fork glass shy";
+var mnemonic = "bar mask issue clerk onion story beef island soda pilot ordinary just";

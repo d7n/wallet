@@ -1,1 +1,1 @@
-var mnemonic = "tortoise crisp left wealth capable relax century grass core wrong arrest rug";
+var mnemonic = "retreat luxury flower push text body oven click choose grunt industry skill";

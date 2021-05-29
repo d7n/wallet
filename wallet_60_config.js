@@ -1,1 +1,1 @@
-var mnemonic = "nice rain patrol pass betray abandon speak figure detect what athlete when";
+var mnemonic = "fever unhappy raise music multiply judge coffee keep essay refuse length shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "gather dirt swift symptom post end pill neglect broken mention miracle sleep";
+var mnemonic = "harvest test focus oval wrist damp memory settle cancel rent virus among";

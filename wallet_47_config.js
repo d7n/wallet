@@ -1,1 +1,1 @@
-var mnemonic = "repair manage globe unusual raven filter mixed flower board arch next undo";
+var mnemonic = "ceiling adapt tennis gain key valve heavy aerobic ring rebuild region uncle";

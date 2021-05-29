@@ -1,1 +1,1 @@
-var mnemonic = "tomato grace property honey office logic exercise sentence mind review weird goddess";
+var mnemonic = "state first draft also leader chimney range token clerk bus inside wear";

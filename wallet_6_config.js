@@ -1,1 +1,1 @@
-var mnemonic = "road visa parade animal cave area strong nerve around vessel rare wise";
+var mnemonic = "fatigue strategy venue popular choice silver chunk cancel gesture rely romance virus";

@@ -1,1 +1,1 @@
-var mnemonic = "action seek merit flee april zebra moral master lazy stand portion sense";
+var mnemonic = "cash blood good foil crouch ability ski dose bone neck clarify jealous";

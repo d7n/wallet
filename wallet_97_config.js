@@ -1,1 +1,1 @@
-var mnemonic = "speed quarter enjoy pyramid west father cheese file myself stereo lawsuit chronic";
+var mnemonic = "ozone library tuna vault main slot system carry boss enrich barely observe";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp acquire cube angry garden intact manual eyebrow improve friend amazing purpose";
+var mnemonic = "glide uniform happy now enter duck tag early pluck inflict dilemma interest";

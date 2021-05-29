@@ -1,1 +1,1 @@
-var mnemonic = "digital cook good crumble unlock nerve duty soon child south opera legal";
+var mnemonic = "smooth upon fit fox grant together auction bargain dwarf fortune lazy zone";

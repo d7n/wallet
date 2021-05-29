@@ -1,1 +1,1 @@
-var mnemonic = "foil exist potato protect zone away window jazz under exact regular zebra";
+var mnemonic = "fossil column much tuition solve adult member valid fix until jacket luggage";

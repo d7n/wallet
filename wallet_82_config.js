@@ -1,1 +1,1 @@
-var mnemonic = "inspire artefact danger wheel thunder grief client demise win chase hungry youth";
+var mnemonic = "culture begin eyebrow usage hope sponsor crucial oppose recycle blur radio put";

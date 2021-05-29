@@ -1,1 +1,1 @@
-var mnemonic = "fury clever helmet clay prevent damage situate net matrix pulse gallery grow";
+var mnemonic = "tuition mimic exclude weird pipe industry ready card cube corn obscure various";

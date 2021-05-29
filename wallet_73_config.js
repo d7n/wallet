@@ -1,1 +1,1 @@
-var mnemonic = "oven shed scrap miss mechanic very danger artwork chest tag perfect web";
+var mnemonic = "length idea dinosaur muffin chuckle primary remember blush crowd give sister bleak";

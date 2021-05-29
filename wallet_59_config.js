@@ -1,1 +1,1 @@
-var mnemonic = "bright twelve gospel fit alcohol village antique search ocean type hurt hockey";
+var mnemonic = "attitude apple knock predict zero knife february wash verb arrive seed spike";

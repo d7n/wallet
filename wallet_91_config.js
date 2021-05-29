@@ -1,1 +1,1 @@
-var mnemonic = "search welcome upon skirt hip elite rival blush elephant fashion deny fence";
+var mnemonic = "soda element lonely purpose win ribbon shoe visit vacuum faint scene scan";

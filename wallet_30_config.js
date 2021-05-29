@@ -1,1 +1,1 @@
-var mnemonic = "moral setup memory write trend alley typical ensure elevator vault giant become";
+var mnemonic = "inch eye oppose top leopard comic swallow voice churn space normal robust";

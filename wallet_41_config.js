@@ -1,1 +1,1 @@
-var mnemonic = "icon patch afford elite casino reveal express apart fold syrup spray robot";
+var mnemonic = "advance rib tissue goat matrix tag dress web ring divide win layer";

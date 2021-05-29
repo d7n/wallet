@@ -1,1 +1,1 @@
-var mnemonic = "betray canyon evidence frost envelope ketchup glove turtle winner head fire guard";
+var mnemonic = "dirt uncover scout normal enrich vintage another jazz total embark enemy crop";

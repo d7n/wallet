@@ -1,1 +1,1 @@
-var mnemonic = "donate swim sorry return tattoo essay basic pride fossil local loan work";
+var mnemonic = "analyst awesome claim tackle calm peanut catalog vague diet almost true label";

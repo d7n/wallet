@@ -1,1 +1,1 @@
-var mnemonic = "cart prefer online method excess place noodle favorite planet caught write surround";
+var mnemonic = "ordinary crumble behind foil earn bomb hidden carbon novel spare extend excess";

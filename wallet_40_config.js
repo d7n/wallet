@@ -1,1 +1,1 @@
-var mnemonic = "uniform other venture universe joke robot social whisper science grid piano dumb";
+var mnemonic = "letter solid unfair plug balance swing acid term olive pottery snake weasel";

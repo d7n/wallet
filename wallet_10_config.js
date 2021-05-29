@@ -1,1 +1,1 @@
-var mnemonic = "speak remember camp layer book please absorb tomorrow vintage embody select oblige";
+var mnemonic = "wagon caution scheme scan upon lumber ankle labor bachelor urban cry alarm";

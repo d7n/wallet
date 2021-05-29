@@ -1,1 +1,1 @@
-var mnemonic = "play diary antique swap surface bench skirt easy erase mixture mystery exist";
+var mnemonic = "bird adapt disorder sentence mad fiber cross oven sunny plastic ride step";

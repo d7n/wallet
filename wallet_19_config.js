@@ -1,1 +1,1 @@
-var mnemonic = "rely lunch volume tomato charge chimney equip moment fat online maid bulb";
+var mnemonic = "warfare traffic luxury arrive clerk peace version silly clock poet pyramid float";

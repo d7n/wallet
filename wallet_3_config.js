@@ -1,1 +1,1 @@
-var mnemonic = "deal nuclear reform habit cream pause such invest fancy cancel hedgehog spike";
+var mnemonic = "menu wrap library palm curious social donate churn insane detect cheese primary";

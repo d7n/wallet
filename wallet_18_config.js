@@ -1,1 +1,1 @@
-var mnemonic = "shuffle relief inch bubble word immune ghost squeeze that region call order";
+var mnemonic = "truth best all special siren second employ mountain together speed more example";

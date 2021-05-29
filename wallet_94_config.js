@@ -1,1 +1,1 @@
-var mnemonic = "asthma robust giraffe element enact garden awesome fantasy broom plug focus hamster";
+var mnemonic = "virus lock shine consider weird number indicate grant process gaze salt pepper";

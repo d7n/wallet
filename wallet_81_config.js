@@ -1,1 +1,1 @@
-var mnemonic = "potato truth sustain timber insect bunker tobacco holiday labor dress clean clerk";
+var mnemonic = "shaft glue innocent tissue mechanic weasel bone mansion fiscal sock reveal hurdle";

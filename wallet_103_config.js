@@ -1,1 +1,1 @@
-var mnemonic = "lumber rate hockey few critic short congress strong thumb jar poverty imitate";
+var mnemonic = "proud injury unknown solution muscle stairs few mass giant jar cost spatial";

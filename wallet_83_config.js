@@ -1,1 +1,1 @@
-var mnemonic = "collect pepper spoil candy grocery meadow tired stock giant under fitness pill";
+var mnemonic = "step what party bring direct simple arch final harsh seek cook lady";

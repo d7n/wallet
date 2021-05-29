@@ -1,1 +1,1 @@
-var mnemonic = "level quote dream burden suffer toe cabbage alert wall method tool brass";
+var mnemonic = "drop spatial rib explain category you enrich know remember pet misery envelope";
