@@ -1,1 +1,1 @@
-var mnemonic = "ensure head cart pupil illegal guilt food awkward index foster couch speak";
+var mnemonic = "manual six female tool comfort maid put shadow marine rotate ostrich coral";

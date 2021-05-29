@@ -1,1 +1,1 @@
-var mnemonic = "mule mesh menu comic almost hip vocal youth peace pottery sea eternal";
+var mnemonic = "glove visit sudden mad grief moment own toy demand pepper process reject";

@@ -1,1 +1,1 @@
-var mnemonic = "typical almost feed attack image unable garden century margin hen fashion strike";
+var mnemonic = "staff puzzle duty leaf sudden mom napkin raise account path sorry chalk";

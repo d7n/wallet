@@ -1,1 +1,1 @@
-var mnemonic = "pizza equip enforce detail carbon radio party phrase hair tired excite frozen";
+var mnemonic = "replace obscure riot around author expand crawl bacon flash gas bring car";

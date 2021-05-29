@@ -1,1 +1,1 @@
-var mnemonic = "correct shield sure weekend fog fury rigid beef utility weapon clever whisper";
+var mnemonic = "clay pave purity rent police provide deal used assault govern decide box";

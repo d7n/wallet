@@ -1,1 +1,1 @@
-var mnemonic = "eight damage sing embody happy verb shaft solve walk husband phone scale";
+var mnemonic = "zone marble electric innocent repair undo earn museum fortune love rely casino";

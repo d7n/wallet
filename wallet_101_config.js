@@ -1,1 +1,1 @@
-var mnemonic = "canvas twin spend brown crater barely tiny similar relax language tragic diagram";
+var mnemonic = "gap mimic borrow school wall remove rack mobile else purity van bottom";

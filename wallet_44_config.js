@@ -1,1 +1,1 @@
-var mnemonic = "live photo bridge quit start boring exile switch wheel latin market razor";
+var mnemonic = "address powder economy ethics assault retire cycle enjoy venue during pride inmate";

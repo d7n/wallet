@@ -1,1 +1,1 @@
-var mnemonic = "head valley elder taxi frog team guitar primary giraffe garage august advance";
+var mnemonic = "ozone six profit check museum lecture hunt woman glimpse document pool corn";

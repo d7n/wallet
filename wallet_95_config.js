@@ -1,1 +1,1 @@
-var mnemonic = "circle scale notice garage carbon payment sign tiny entry during famous oblige";
+var mnemonic = "off resemble night night holiday visual pigeon paper share neck bubble ceiling";

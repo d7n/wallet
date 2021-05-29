@@ -1,1 +1,1 @@
-var mnemonic = "lock april rate episode federal impulse predict slab reduce nerve helmet wink";
+var mnemonic = "canoe clip narrow drift negative fun satisfy rabbit seat garbage vital later";

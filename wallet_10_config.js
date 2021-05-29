@@ -1,1 +1,1 @@
-var mnemonic = "confirm drink grass around design theme true gaze steak middle arrive bird";
+var mnemonic = "hour rhythm load suspect letter catch chair rigid mammal canal drill ready";

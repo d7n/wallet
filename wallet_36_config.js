@@ -1,1 +1,1 @@
-var mnemonic = "steak minute wool replace guilt confirm want student length box season emotion";
+var mnemonic = "lawn double banner impose unveil goat square blanket length street simple height";

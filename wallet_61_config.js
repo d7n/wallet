@@ -1,1 +1,1 @@
-var mnemonic = "shoe offer rhythm idle own dance wedding health arch blood wink monkey";
+var mnemonic = "frame bounce dirt thought capital vast alcohol capital zoo artist awkward junior";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow giggle reform scatter toilet prevent pig mix gauge receive catch chase";
+var mnemonic = "rifle chimney huge joke camp sight mammal image coyote visit color van";

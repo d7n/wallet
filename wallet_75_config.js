@@ -1,1 +1,1 @@
-var mnemonic = "tag middle mail column enact art equip profit cube give abuse clerk";
+var mnemonic = "maple feature either rate narrow bone limit fold sorry mother hope nephew";

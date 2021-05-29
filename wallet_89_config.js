@@ -1,1 +1,1 @@
-var mnemonic = "view very protect sponsor deer spin scan wrestle bubble edge dawn rescue";
+var mnemonic = "math crane march parade silver canyon leopard umbrella plate burst index horn";

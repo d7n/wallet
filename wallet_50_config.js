@@ -1,1 +1,1 @@
-var mnemonic = "title turtle main twenty village rebel chat fiction rate muffin lunar nasty";
+var mnemonic = "setup vast tennis gorilla rookie survey since exhaust laugh soon beach hill";

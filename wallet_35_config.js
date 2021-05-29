@@ -1,1 +1,1 @@
-var mnemonic = "mystery illness pizza skirt waste swing repeat vintage disorder apple state bonus";
+var mnemonic = "excuse have palace random cupboard test plate visual anger dolphin tray culture";

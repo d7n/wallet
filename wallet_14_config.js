@@ -1,1 +1,1 @@
-var mnemonic = "pond liquid ramp pistol fever convince report brown catalog wool razor soda";
+var mnemonic = "forest torch luggage swift twist much inner pencil protect region piano taxi";

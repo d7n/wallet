@@ -1,1 +1,1 @@
-var mnemonic = "ring canal vanish horse become post various ceiling drive ready cabbage cook";
+var mnemonic = "myth rate bicycle update list sick casino palm convince taste leaf jungle";

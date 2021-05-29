@@ -1,1 +1,1 @@
-var mnemonic = "worth era picnic off vacant dove major artist cousin image transfer pig";
+var mnemonic = "rain hurdle palace fruit soul swamp write cradle color sign flip soup";

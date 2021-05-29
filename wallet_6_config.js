@@ -1,1 +1,1 @@
-var mnemonic = "alley island actress smart aspect useless true flower cheese neither input rent";
+var mnemonic = "process camp then thumb useless enroll grape flower shoulder author ritual one";

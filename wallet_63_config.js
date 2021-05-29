@@ -1,1 +1,1 @@
-var mnemonic = "mean census moon long pretty visa style pull vocal tiger roof cradle";
+var mnemonic = "elevator page spell supply govern cram address glove verb random pigeon upset";

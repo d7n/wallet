@@ -1,1 +1,1 @@
-var mnemonic = "favorite table curve genuine symbol stock stuff recipe degree cycle barrel flush";
+var mnemonic = "profit expect drum motion sad ten inch quantum when fade wheel retreat";

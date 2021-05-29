@@ -1,1 +1,1 @@
-var mnemonic = "devote corn maximum clean speak valve table afraid cloth impact wise reward";
+var mnemonic = "supreme minute boost arch resource half price goddess deposit wisdom vendor source";

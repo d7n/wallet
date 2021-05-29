@@ -1,1 +1,1 @@
-var mnemonic = "glow prosper best brown frost symptom fiction ready disease sadness oblige snap";
+var mnemonic = "shove canal exotic sadness buyer runway wink ticket spirit under inform horn";

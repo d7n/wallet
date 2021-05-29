@@ -1,1 +1,1 @@
-var mnemonic = "boring claim sleep dream city reveal pattern manual auto ice simple able";
+var mnemonic = "stay climb item curious stock play amount sentence begin invest use maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "art fly fit smart usual squeeze salt novel street doctor curious canoe";
+var mnemonic = "away play found primary achieve task family wing rose tumble office phrase";

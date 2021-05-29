@@ -1,1 +1,1 @@
-var mnemonic = "crowd nothing wild arrive spend snack advance ceiling like relief enjoy worry";
+var mnemonic = "coast jump resource beach menu piece pet nerve post mutual nerve wise";

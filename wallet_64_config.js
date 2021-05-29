@@ -1,1 +1,1 @@
-var mnemonic = "vote shoot mansion acquire explain brave deliver exclude later wolf eye monster";
+var mnemonic = "scatter party piece paddle mercy cook sister salute salmon artwork course toy";

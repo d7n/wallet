@@ -1,1 +1,1 @@
-var mnemonic = "twin embrace please warm design ball isolate play boost cost crawl ill";
+var mnemonic = "velvet save hazard strategy tent fan regret retreat office mention crack install";

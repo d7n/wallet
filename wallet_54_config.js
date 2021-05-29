@@ -1,1 +1,1 @@
-var mnemonic = "fury snack basic slogan young ancient alarm huge forget lab pact doctor";
+var mnemonic = "runway museum glow honey menu happy body thrive monkey name segment rebel";

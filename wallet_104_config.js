@@ -1,1 +1,1 @@
-var mnemonic = "reunion dress student club smile rally wedding property deliver polar galaxy room";
+var mnemonic = "candy fancy green robot inhale phrase more artefact coral dose defy choose";

@@ -1,1 +1,1 @@
-var mnemonic = "need dirt laptop ecology risk spawn twelve talent assume large dust kiwi";
+var mnemonic = "quick enemy win emotion laugh battle theory crystal absent push can vague";

@@ -1,1 +1,1 @@
-var mnemonic = "spin cloud legal anxiety tribe nasty gather north supreme wage response measure";
+var mnemonic = "cushion canal spider process tent famous tool device option ginger judge actress";

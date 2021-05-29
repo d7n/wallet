@@ -1,1 +1,1 @@
-var mnemonic = "anger pyramid fold pigeon rare adapt grain enrich update wish dad rookie";
+var mnemonic = "hip cause clever panther interest morning digital idea segment labor elegant leopard";

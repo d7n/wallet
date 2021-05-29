@@ -1,1 +1,1 @@
-var mnemonic = "riot blue embrace smoke woman false famous carry impulse sort trouble together";
+var mnemonic = "throw reveal desk field rebel offer pen syrup climb bone symbol ancient";

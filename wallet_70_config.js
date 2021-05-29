@@ -1,1 +1,1 @@
-var mnemonic = "flavor grunt boss void imitate bamboo cigar unit rural sand filter easily";
+var mnemonic = "dose prepare gallery hungry all possible deposit wall cradle excuse patient inform";

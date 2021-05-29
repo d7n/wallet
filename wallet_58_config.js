@@ -1,1 +1,1 @@
-var mnemonic = "denial arrange lunch salad junior insect chest usage limit circle first topic";
+var mnemonic = "multiply wing bird adult wish odor order exit accident crazy critic chef";

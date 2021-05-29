@@ -1,1 +1,1 @@
-var mnemonic = "cart story upgrade gasp poem long noise witness stumble sand bind rug";
+var mnemonic = "bird scissors sting swear circle meat syrup possible desk shaft busy differ";

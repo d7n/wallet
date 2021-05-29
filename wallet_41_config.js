@@ -1,1 +1,1 @@
-var mnemonic = "infant hero skull circle second check link priority avocado deputy nephew vital";
+var mnemonic = "wing advice trash similar push cat iron scissors sketch place hunt focus";

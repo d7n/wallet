@@ -1,1 +1,1 @@
-var mnemonic = "bamboo excuse memory tuition void uphold process dawn surround reward brand ill";
+var mnemonic = "rookie tackle mutual spy embark project art gravity short six smoke clerk";

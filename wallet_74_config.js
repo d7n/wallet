@@ -1,1 +1,1 @@
-var mnemonic = "lens address mystery burst latin faith betray rug acquire barrel rookie adult";
+var mnemonic = "oxygen nuclear embody intact cheese canyon timber tourist dune board found prison";

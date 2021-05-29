@@ -1,1 +1,1 @@
-var mnemonic = "boss draw book repair angry reward baby anger index sun flat arrest";
+var mnemonic = "grant phone bright discover olive habit lock meadow away parade abandon board";

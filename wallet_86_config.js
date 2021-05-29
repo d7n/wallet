@@ -1,1 +1,1 @@
-var mnemonic = "rich limit stand radar slush fat pistol ankle warrior tattoo photo hundred";
+var mnemonic = "pig steel gentle icon lens cart output finger real help predict garlic";

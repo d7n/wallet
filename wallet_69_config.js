@@ -1,1 +1,1 @@
-var mnemonic = "retire rookie option base online near picture cross witness proof episode notable";
+var mnemonic = "sadness mandate chicken traffic track essay entry angle gas sword beyond tortoise";

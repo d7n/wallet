@@ -1,1 +1,1 @@
-var mnemonic = "empty will path fiber decade party drastic history board senior scale recycle";
+var mnemonic = "april world crush trumpet awesome gesture twist glue remember dolphin grape pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel chase protect mixed sheriff spray torch board infant extra fragile odor";
+var mnemonic = "canvas drink flip enough base oven great town vault category barely mouse";

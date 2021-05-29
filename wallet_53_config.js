@@ -1,1 +1,1 @@
-var mnemonic = "game absurd trumpet sight pact crew make hood wash limb romance hazard";
+var mnemonic = "embody theory trumpet twelve universe hungry nut coil grab brother humor okay";

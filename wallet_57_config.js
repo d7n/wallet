@@ -1,1 +1,1 @@
-var mnemonic = "cable fever ensure jazz pyramid clever scale fix february stumble kidney census";
+var mnemonic = "faint desert awkward young spider right dream business shallow hedgehog adult electric";

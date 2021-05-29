@@ -1,1 +1,1 @@
-var mnemonic = "victory cake absorb super certain program amateur salon actress burger square festival";
+var mnemonic = "play fringe since retire attract glory clutch shrug despair retreat poet dress";

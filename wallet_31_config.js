@@ -1,1 +1,1 @@
-var mnemonic = "address empower cheese express twice frequent hundred mechanic roast certain evolve country";
+var mnemonic = "west spoil usual cradle shove bamboo team shadow material unfold ignore oppose";

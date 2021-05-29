@@ -1,1 +1,1 @@
-var mnemonic = "mandate rotate comic response elegant raise shield sock trap execute aerobic leave";
+var mnemonic = "capital seed clerk swallow bone grid grain fantasy slam urge smooth punch";

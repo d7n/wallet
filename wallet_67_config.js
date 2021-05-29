@@ -1,1 +1,1 @@
-var mnemonic = "promote brief legal tobacco summer castle sketch month grocery used rose trade";
+var mnemonic = "ladder feature hill twelve corn acid manage problem rely catch devote brain";

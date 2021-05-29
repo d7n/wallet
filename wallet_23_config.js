@@ -1,1 +1,1 @@
-var mnemonic = "shove cactus ski remind smooth alpha grace license almost artist large ten";
+var mnemonic = "all couch security obey rubber nut bless mobile method note hurdle order";

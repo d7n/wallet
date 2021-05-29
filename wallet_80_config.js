@@ -1,1 +1,1 @@
-var mnemonic = "bubble second oppose leg pepper duck rack game bird stable economy search";
+var mnemonic = "soccer ice wear service list boy invite jeans entry spend stick wood";

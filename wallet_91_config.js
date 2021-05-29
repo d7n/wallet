@@ -1,1 +1,1 @@
-var mnemonic = "trash bounce family cradle orchard dynamic toddler infant payment valley relax sun";
+var mnemonic = "medal journey donkey pitch oblige year slender strategy visual success spread ten";

@@ -1,1 +1,1 @@
-var mnemonic = "student square summer potato usual feature inch jewel armor napkin air diet";
+var mnemonic = "bracket pink gesture boat movie fortune cactus chase park grass soccer popular";

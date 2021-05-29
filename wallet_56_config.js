@@ -1,1 +1,1 @@
-var mnemonic = "truth stable hope loyal cliff bulk obscure ahead wasp sorry blush suspect";
+var mnemonic = "high muscle pass chair stone public gossip predict fix trap general truly";

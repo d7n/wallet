@@ -1,1 +1,1 @@
-var mnemonic = "later trouble quiz ski large bitter impact risk employ kid rude boy";
+var mnemonic = "ripple whale try clump grunt mesh trade dial cliff buyer royal elevator";

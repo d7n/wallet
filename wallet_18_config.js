@@ -1,1 +1,1 @@
-var mnemonic = "pink drum label remind minute cage wear couch vehicle nest entry give";
+var mnemonic = "crash vital goat festival camp pole baby cool awful six above feature";

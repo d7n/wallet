@@ -1,1 +1,1 @@
-var mnemonic = "cruel fringe vacuum prevent pride dumb address cargo wild sponsor cluster club";
+var mnemonic = "away beyond check loyal level bracket nuclear document brisk hedgehog pigeon analyst";

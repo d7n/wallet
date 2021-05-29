@@ -1,1 +1,1 @@
-var mnemonic = "inquiry brush afford topple vital lecture dismiss help trend burden beyond license";
+var mnemonic = "hand drive glance will slim scrap decide vacuum deal uncover cage coyote";

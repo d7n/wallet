@@ -1,1 +1,1 @@
-var mnemonic = "radar need cheap undo solid disease beach settle purity crouch buddy hospital";
+var mnemonic = "trim reunion throw cabin laundry coil dilemma student clap diet settle drift";

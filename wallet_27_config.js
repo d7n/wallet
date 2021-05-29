@@ -1,1 +1,1 @@
-var mnemonic = "harvest during sibling bird blind broom expect wear choose lesson life hen";
+var mnemonic = "erupt inject foster ginger auto hat erode clean wear squirrel replace affair";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial dinner disagree whale victory soul divorce exit radio stumble maximum escape";
+var mnemonic = "way survey aim basic shell civil birth unique giraffe left glove figure";

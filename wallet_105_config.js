@@ -1,1 +1,1 @@
-var mnemonic = "cat advice cruise warfare excite sight sun nothing amount gift capital proud";
+var mnemonic = "gospel seminar legend spring grit fetch soul fold lake enrich tent episode";

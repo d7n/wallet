@@ -1,1 +1,1 @@
-var mnemonic = "honey slogan range caught sketch quick fade tuition neglect pond time grid";
+var mnemonic = "feel conduct various visa clutch guess mechanic owner brisk chest mixed chair";

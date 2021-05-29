@@ -1,1 +1,1 @@
-var mnemonic = "antique frame tennis gaze program build couple gadget version spike ethics gospel";
+var mnemonic = "property melody erosion globe silly inquiry tide great toddler defy mixed baby";

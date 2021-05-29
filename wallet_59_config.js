@@ -1,1 +1,1 @@
-var mnemonic = "expand design domain vault measure peasant squirrel boss repeat mixed cattle lecture";
+var mnemonic = "crack nest twist float struggle unusual depart dolphin calm plastic hockey below";

@@ -1,1 +1,1 @@
-var mnemonic = "target question dash ladder differ first spice book matrix cheese pelican meadow";
+var mnemonic = "garlic drill subway solve choice ketchup use lottery axis range zoo dash";

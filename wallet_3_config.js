@@ -1,1 +1,1 @@
-var mnemonic = "gown convince alter chat boil celery casual point high narrow friend alter";
+var mnemonic = "daughter exercise wrap category say club dolphin random normal crash infant excess";

@@ -1,1 +1,1 @@
-var mnemonic = "explain comfort chat rent syrup profit detail clarify clean talent series timber";
+var mnemonic = "legal injury special fetch person shift kit economy uphold squeeze armed fun";

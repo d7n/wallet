@@ -1,1 +1,1 @@
-var mnemonic = "work hold burger kit elite panic produce useless ancient link duty video";
+var mnemonic = "ignore rose virtual artwork artist educate chronic protect solar leopard bench trash";

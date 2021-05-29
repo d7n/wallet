@@ -1,1 +1,1 @@
-var mnemonic = "what note unknown sure amount prevent banana risk second minor brown left";
+var mnemonic = "mass liar federal knee glance cupboard love involve merit reunion despair spend";

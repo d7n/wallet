@@ -1,1 +1,1 @@
-var mnemonic = "bike dress peace author garage solution dutch develop kind girl couch safe";
+var mnemonic = "claim ill solution finish fiscal pitch huge dish silk enough truck when";

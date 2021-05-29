@@ -1,1 +1,1 @@
-var mnemonic = "february wreck label grant fresh sport later will stock adapt gain during";
+var mnemonic = "unveil auction defy pool devote print cave caution dash harvest glow math";

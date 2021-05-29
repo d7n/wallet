@@ -1,1 +1,1 @@
-var mnemonic = "only mechanic air drill mercy immune legend pretty hurry common remove cart";
+var mnemonic = "salt ladder chalk hurry fun venue advice boring medal tongue coyote sister";

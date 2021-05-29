@@ -1,1 +1,1 @@
-var mnemonic = "frequent inherit hobby erode vanish pool act tomato length salad family fiscal";
+var mnemonic = "select rail crouch move reject power sword swamp phone radio sustain segment";

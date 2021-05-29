@@ -1,1 +1,1 @@
-var mnemonic = "copy asset train depend program april vicious broken warm drip fossil dress";
+var mnemonic = "normal canoe letter injury dizzy garlic razor endless game tent catalog tennis";

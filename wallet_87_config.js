@@ -1,1 +1,1 @@
-var mnemonic = "crater mixed banner penalty version inquiry business slight beauty chest excess miss";
+var mnemonic = "parent leaf crime ugly sock carry isolate wisdom unhappy artist attract crystal";

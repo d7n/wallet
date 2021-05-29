@@ -1,1 +1,1 @@
-var mnemonic = "walnut unveil long project seven fuel spoon city joke correct noodle tail";
+var mnemonic = "drastic essence cover unaware sheriff glass please identify crystal ketchup truth caution";

@@ -1,1 +1,1 @@
-var mnemonic = "good laptop depart stomach identify zero clip walk icon pepper jaguar bullet";
+var mnemonic = "degree mention own refuse eager normal region bike circle usual vessel hazard";

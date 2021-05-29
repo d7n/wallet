@@ -1,1 +1,1 @@
-var mnemonic = "adjust easy nut what diagram diamond ozone ankle tonight delay regret pioneer";
+var mnemonic = "catch auction bench medal coffee half taxi gravity usual soldier lake torch";

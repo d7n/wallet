@@ -1,1 +1,1 @@
-var mnemonic = "garment intact token where opera thought move royal result again universe poem";
+var mnemonic = "angle game happy civil swarm arrange various powder estate bottom crisp tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "acid poverty blind fit human never eagle aunt hello cause also common";
+var mnemonic = "vault fetch lobster rapid cool december degree surface whale despair cradle muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion foil regret solid tail blade thumb goose never twelve hundred whip";
+var mnemonic = "where act truly wife can learn teach panic warfare deer birth minute";

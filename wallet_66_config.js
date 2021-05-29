@@ -1,1 +1,1 @@
-var mnemonic = "pudding evolve volcano skin draft century swear crime pioneer run kind canvas";
+var mnemonic = "fish ghost view father tower poet gorilla wheat fruit daughter thank salute";

@@ -1,1 +1,1 @@
-var mnemonic = "shop comfort nasty okay catalog crouch unhappy order glad nation abandon canyon";
+var mnemonic = "guitar absorb they wrestle habit wonder reopen pave deposit bulb purity sock";

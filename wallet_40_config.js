@@ -1,1 +1,1 @@
-var mnemonic = "biology artwork onion veteran wife pull street live risk track advance dash";
+var mnemonic = "wash smart mansion pottery fame yellow keep ripple express artist estate broccoli";

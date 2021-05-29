@@ -1,1 +1,1 @@
-var mnemonic = "position bone swallow nest practice blossom ranch inmate insane tourist tool teach";
+var mnemonic = "bag erosion nasty loop idea chief trigger hunt bargain pitch rabbit paddle";
