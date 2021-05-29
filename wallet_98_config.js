@@ -1,1 +1,1 @@
-var mnemonic = "gap section dizzy cup feed hub swarm seat turkey limit payment hurdle";
+var mnemonic = "industry busy garment margin snack term pave bounce clown found sun fee";

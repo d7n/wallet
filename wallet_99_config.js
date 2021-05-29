@@ -1,1 +1,1 @@
-var mnemonic = "harsh segment neither social achieve brand silk enlist property large perfect science";
+var mnemonic = "stool trend future story chimney hole keep midnight rural panel eye creek";

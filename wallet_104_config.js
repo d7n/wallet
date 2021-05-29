@@ -1,1 +1,1 @@
-var mnemonic = "reduce cotton explain response decline they parent fitness pottery have army remain";
+var mnemonic = "trash exit give trap stamp palace foster pledge account boost damp claim";

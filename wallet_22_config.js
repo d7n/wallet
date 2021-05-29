@@ -1,1 +1,1 @@
-var mnemonic = "same advice spot infant suffer canyon grow inhale expose biology push purpose";
+var mnemonic = "banner reveal shadow side thrive home plunge welcome flame skirt cheap student";

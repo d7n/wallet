@@ -1,1 +1,1 @@
-var mnemonic = "top jealous clinic between trash razor ski fun sphere dirt offer motor";
+var mnemonic = "cereal code expect shaft swap plunge matter atom dragon lawsuit pudding robot";

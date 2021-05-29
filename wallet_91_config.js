@@ -1,1 +1,1 @@
-var mnemonic = "front enrich goddess volume balance other imitate network learn draft apology behind";
+var mnemonic = "raw profit muscle laundry what armed wide question cover divorce radar sniff";

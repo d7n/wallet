@@ -1,1 +1,1 @@
-var mnemonic = "update turkey ecology eager industry predict chicken vacuum before drum laptop evoke";
+var mnemonic = "firm indicate need grocery midnight dad will hub ribbon west grief body";

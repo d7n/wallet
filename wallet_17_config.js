@@ -1,1 +1,1 @@
-var mnemonic = "answer inspire cruel debris bean apart wide fossil inmate text promote dinosaur";
+var mnemonic = "mammal connect lucky help surface spare hundred sudden buzz affair pioneer debris";

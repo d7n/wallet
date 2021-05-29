@@ -1,1 +1,1 @@
-var mnemonic = "toilet wish memory crime element state vendor hour usage long throw key";
+var mnemonic = "crucial woman usage lecture private history december task mobile jealous barely priority";

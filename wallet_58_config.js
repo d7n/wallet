@@ -1,1 +1,1 @@
-var mnemonic = "reunion flat purchase reunion verify machine across warrior easily cram subway elite";
+var mnemonic = "marine model parrot grace ecology divert reunion angle chalk scrap dinner quick";

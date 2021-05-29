@@ -1,1 +1,1 @@
-var mnemonic = "actor egg suit damp apology exhibit tag metal estate eight gorilla number";
+var mnemonic = "burger margin matrix erupt zone palm emotion cat hurt cheap sunny divide";

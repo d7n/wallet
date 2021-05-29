@@ -1,1 +1,1 @@
-var mnemonic = "stomach history december sheriff lecture creek lounge sustain appear clog denial canyon";
+var mnemonic = "amazing unfold turn duck find impose shine token motor maple machine hen";

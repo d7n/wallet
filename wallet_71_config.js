@@ -1,1 +1,1 @@
-var mnemonic = "elbow harbor size knife venue boat morning excuse blanket demise breeze busy";
+var mnemonic = "muscle vocal hero dinosaur any lesson artefact siege yellow busy local history";

@@ -1,1 +1,1 @@
-var mnemonic = "change power rhythm chunk lemon inspire town junior raccoon box flight wrong";
+var mnemonic = "parade pet actor amused army crumble attack random orbit once sponsor bless";

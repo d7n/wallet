@@ -1,1 +1,1 @@
-var mnemonic = "term fall swear lesson improve interest escape code blast cheap topic inherit";
+var mnemonic = "level net weekend happy grant bicycle order attack way tape sell stand";

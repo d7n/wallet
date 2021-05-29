@@ -1,1 +1,1 @@
-var mnemonic = "dish miracle olympic dish clever pulp fresh laptop hire proof host live";
+var mnemonic = "extra path front champion combine stand empower harvest album human wasp blind";

@@ -1,1 +1,1 @@
-var mnemonic = "recall penalty razor kidney light theory small current weather advice faculty vessel";
+var mnemonic = "climb bundle boat lesson goose canyon shine zero solution flavor assault example";

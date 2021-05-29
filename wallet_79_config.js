@@ -1,1 +1,1 @@
-var mnemonic = "save useful robot shrug safe skirt noise stay hungry marble usage project";
+var mnemonic = "february pass hold monster ice achieve drink hawk credit hybrid essay sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "potato muscle bulb theme certain exercise this okay exhibit machine ten tone";
+var mnemonic = "weapon company number hand device game flock wire broom loan trend tape";

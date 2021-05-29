@@ -1,1 +1,1 @@
-var mnemonic = "clown expect raccoon latin design brand release joy world cereal vacuum fluid";
+var mnemonic = "hungry test job satisfy drastic thank sister execute slow anger axis blanket";

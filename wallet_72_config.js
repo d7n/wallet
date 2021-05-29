@@ -1,1 +1,1 @@
-var mnemonic = "fancy civil label they awful fantasy smooth negative long mother wide goddess";
+var mnemonic = "also tent ship balcony sponsor submit any verify pizza kind home surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant horror entry surge turkey wish welcome cable trust enough ivory easily";
+var mnemonic = "risk enact wedding slush flip that wing praise concert chief vendor enough";

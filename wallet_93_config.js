@@ -1,1 +1,1 @@
-var mnemonic = "reunion much puzzle dutch benefit mask rigid gather dance disagree fitness truly";
+var mnemonic = "side pen return enough industry couch flame service army apart pill van";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee maid lounge parade paper ask barely more giant cancel appear drift";
+var mnemonic = "march eternal outside snack skirt life crisp gentle visual deer execute document";

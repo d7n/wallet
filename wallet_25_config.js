@@ -1,1 +1,1 @@
-var mnemonic = "picnic source board circle swap into wisdom simple rapid replace struggle approve";
+var mnemonic = "sun frown poem robot sentence nation excuse want shuffle buddy laugh key";

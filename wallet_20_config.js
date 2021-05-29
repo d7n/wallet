@@ -1,1 +1,1 @@
-var mnemonic = "robot model come melody chicken wink brown craft opera agent deny eyebrow";
+var mnemonic = "umbrella pulse butter core moment prosper canyon dragon loop pluck coffee rural";

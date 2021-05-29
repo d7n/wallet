@@ -1,1 +1,1 @@
-var mnemonic = "ticket father width angry thank gown steel cheese enough cycle exist head";
+var mnemonic = "quantum sting general enjoy plunge asthma claw skill great circle aware crisp";

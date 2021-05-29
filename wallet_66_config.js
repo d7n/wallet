@@ -1,1 +1,1 @@
-var mnemonic = "certain amused emotion surge sleep liar garlic virus hen cheese phone knife";
+var mnemonic = "maximum torch pluck device purity wedding spin roof boss want scene buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "glue cloud sock hotel island weasel typical danger visual furnace bag can";
+var mnemonic = "tunnel group conduct forget stuff exercise learn stomach grant silent swap dinner";

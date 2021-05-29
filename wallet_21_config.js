@@ -1,1 +1,1 @@
-var mnemonic = "urge pledge sell always crisp tail increase bone access toddler ketchup narrow";
+var mnemonic = "caught note crawl reform alpha people pair text situate panic awful hour";

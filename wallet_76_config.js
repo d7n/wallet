@@ -1,1 +1,1 @@
-var mnemonic = "basket endless scale dinner toy nest sister buyer floor cancel chunk garment";
+var mnemonic = "happy replace owner rally sibling fit federal trash sauce social mad pill";

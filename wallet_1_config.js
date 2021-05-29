@@ -1,1 +1,1 @@
-var mnemonic = "mandate wish gold settle they hip interest cash punch heart miracle broken";
+var mnemonic = "chef about enforce increase dragon hockey tonight birth deliver already craft eight";

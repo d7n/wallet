@@ -1,1 +1,1 @@
-var mnemonic = "salon cushion crumble vanish relief hub bracket cover rocket very love rookie";
+var mnemonic = "able refuse stay van image ocean today aerobic slice note like awake";

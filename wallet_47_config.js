@@ -1,1 +1,1 @@
-var mnemonic = "volume gaze alarm casino decline cruel food hint miracle slim spirit next";
+var mnemonic = "jelly unusual mandate wood copy catch cliff swear silly pony finger idea";

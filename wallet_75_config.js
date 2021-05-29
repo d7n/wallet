@@ -1,1 +1,1 @@
-var mnemonic = "bread middle radar velvet horn valve tuna panda cousin remember victory pill";
+var mnemonic = "spin barely kitten hurdle fold joke wheat math degree give blush dog";

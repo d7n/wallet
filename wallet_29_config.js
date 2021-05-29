@@ -1,1 +1,1 @@
-var mnemonic = "rabbit price wear buyer humble unaware category student memory mom purpose round";
+var mnemonic = "organ rigid two earn whip robust wage service gauge scan resist pass";

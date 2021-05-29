@@ -1,1 +1,1 @@
-var mnemonic = "result debate flavor open asset ghost celery kick rain penalty woman fiction";
+var mnemonic = "review tip egg quarter scissors distance symbol begin cost crawl awkward visual";

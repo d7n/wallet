@@ -1,1 +1,1 @@
-var mnemonic = "design sell business remain donate ankle health hundred loud trick search kiss";
+var mnemonic = "bird never rebel salt style nurse vehicle garden erosion soda dice lake";

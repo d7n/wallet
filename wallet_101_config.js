@@ -1,1 +1,1 @@
-var mnemonic = "relief pear nut grid weapon dawn boy buzz stem chronic priority head";
+var mnemonic = "truth unusual use soup behave grape glue possible butter tuna stick symptom";

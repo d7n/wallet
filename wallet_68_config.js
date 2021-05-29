@@ -1,1 +1,1 @@
-var mnemonic = "bus black clerk divorce come school verify fence glass update taste cigar";
+var mnemonic = "shoulder injury barrel prevent genius gossip legend apple winter neck switch ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle kidney snake undo identify sick arrive typical lab clever jaguar rebuild";
+var mnemonic = "grid close ugly again ticket borrow fatigue frost wild liquid extend hub";

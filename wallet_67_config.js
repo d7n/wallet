@@ -1,1 +1,1 @@
-var mnemonic = "orphan icon admit buyer smile advice frozen soldier flee riot lava develop";
+var mnemonic = "bar human seed paper waste disorder actor nut scale keen weapon vapor";

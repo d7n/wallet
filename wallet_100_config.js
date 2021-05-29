@@ -1,1 +1,1 @@
-var mnemonic = "minor rose champion spatial bicycle educate engage spike focus recycle naive fee";
+var mnemonic = "august bring voyage sand maid depend uncle crater expire account edge ice";

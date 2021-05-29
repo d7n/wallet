@@ -1,1 +1,1 @@
-var mnemonic = "grace century barrel can nose valve expose eyebrow purity extend force loud";
+var mnemonic = "payment liar air knock powder artwork stage picnic course wise bring brown";

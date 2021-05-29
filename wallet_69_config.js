@@ -1,1 +1,1 @@
-var mnemonic = "funny fluid repeat move undo economy dwarf cliff plunge sausage planet arrest";
+var mnemonic = "six suspect rug now owner rough truth very deal coffee gauge dinosaur";

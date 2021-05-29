@@ -1,1 +1,1 @@
-var mnemonic = "fly zone chalk error input rack borrow diagram impulse lake kick live";
+var mnemonic = "caught scorpion swear prepare inmate predict cactus defense entire ramp dress blouse";

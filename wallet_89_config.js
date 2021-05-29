@@ -1,1 +1,1 @@
-var mnemonic = "vivid priority bar cause frame fashion story dash parade senior crucial over";
+var mnemonic = "rhythm depth ozone wisdom inflict fluid legal afraid stamp usage axis win";

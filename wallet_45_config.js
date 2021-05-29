@@ -1,1 +1,1 @@
-var mnemonic = "north south car divorce hire analyst program magic police elite eye ski";
+var mnemonic = "weekend mansion swear scissors picnic just nice sphere pause castle nice marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors near typical term elite manage smart local mail notice equal eyebrow";
+var mnemonic = "crane choice horror system index easy grab skill rally once also path";

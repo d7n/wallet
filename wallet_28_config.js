@@ -1,1 +1,1 @@
-var mnemonic = "more destroy addict egg sunny cause exhaust symbol drum slim pumpkin guilt";
+var mnemonic = "artist expand guilt shock shiver possible begin shallow ranch siren firm wait";

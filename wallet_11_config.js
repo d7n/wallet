@@ -1,1 +1,1 @@
-var mnemonic = "infant duty sunset ticket motion glue purity desk odor drum melody panel";
+var mnemonic = "exile boat weasel despair witness inflict abuse castle tennis lava barrel thumb";

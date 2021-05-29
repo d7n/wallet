@@ -1,1 +1,1 @@
-var mnemonic = "record unique only barely expose together alien pink suit bunker prefer adjust";
+var mnemonic = "sword exile riot harvest tissue street else trigger random robust chimney family";

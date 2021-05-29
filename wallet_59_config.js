@@ -1,1 +1,1 @@
-var mnemonic = "black rebel scorpion gain travel garment clever aim employ spatial assault distance";
+var mnemonic = "pioneer also sauce eye boy false ethics unlock indicate arena kidney into";

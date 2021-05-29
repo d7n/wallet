@@ -1,1 +1,1 @@
-var mnemonic = "decide build frozen coin confirm key border sugar ripple finger code like";
+var mnemonic = "resist critic often price drip scheme envelope follow anchor borrow eight plate";

@@ -1,1 +1,1 @@
-var mnemonic = "copper gorilla toss excess castle spatial forest device vanish soap drink menu";
+var mnemonic = "bulk battle mammal jungle vehicle disagree dash cabbage essay nerve awesome observe";

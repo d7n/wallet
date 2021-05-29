@@ -1,1 +1,1 @@
-var mnemonic = "lock dynamic because again caught execute brush industry exile output gym govern";
+var mnemonic = "sauce husband media afraid strategy expose night idle desert hotel clever goat";

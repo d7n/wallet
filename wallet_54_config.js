@@ -1,1 +1,1 @@
-var mnemonic = "punch because indoor alarm amount pig among because fabric lend rotate connect";
+var mnemonic = "sample market clay sausage valid veteran patient pledge tiger wait remind two";

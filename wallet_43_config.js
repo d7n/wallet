@@ -1,1 +1,1 @@
-var mnemonic = "win virtual provide cotton together attract search brush leave gun require quality";
+var mnemonic = "walk panda shy ahead coral glass anchor tooth label sight gun eye";

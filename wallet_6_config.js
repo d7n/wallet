@@ -1,1 +1,1 @@
-var mnemonic = "kitten myth spread web fun narrow derive bless blade skull shoot club";
+var mnemonic = "behave frozen stadium other genre soft book label turn nerve man dragon";

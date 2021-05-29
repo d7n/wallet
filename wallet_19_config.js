@@ -1,1 +1,1 @@
-var mnemonic = "ugly imitate desk invest misery round stem patient hundred trick reopen cancel";
+var mnemonic = "salad convince pulp erosion cycle order swear unable kitten hope garlic bench";

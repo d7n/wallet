@@ -1,1 +1,1 @@
-var mnemonic = "basic spatial enter slush globe year odor spoil accuse thing bird pet";
+var mnemonic = "moral suggest table image pioneer whale jar feature leopard trim crazy blossom";

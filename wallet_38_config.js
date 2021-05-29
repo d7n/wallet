@@ -1,1 +1,1 @@
-var mnemonic = "tuition section lend hip bonus ankle top cash pair eagle habit tunnel";
+var mnemonic = "push spy equal estate ethics quiz eight race tortoise iron sister air";

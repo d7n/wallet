@@ -1,1 +1,1 @@
-var mnemonic = "piece window couch jewel meadow weapon aim flavor spoon trouble chronic offer";
+var mnemonic = "walnut lock twice club ghost uniform solar scout sausage fortune super grain";

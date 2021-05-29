@@ -1,1 +1,1 @@
-var mnemonic = "cigar tortoise rocket wait plate animal write record repeat use identify suffer";
+var mnemonic = "battle year deal orange meadow plastic network source unfair tooth cabin lady";

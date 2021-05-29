@@ -1,1 +1,1 @@
-var mnemonic = "dice enlist auction patch neck budget rib dress hen notice dolphin live";
+var mnemonic = "parade dose erase voice pupil swim select retreat advance mango analyst robust";

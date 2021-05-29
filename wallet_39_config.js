@@ -1,1 +1,1 @@
-var mnemonic = "meadow sauce ketchup polar reflect fat pattern ankle quantum brush copy trim";
+var mnemonic = "pottery pear camera letter inject across local congress naive resist possible left";

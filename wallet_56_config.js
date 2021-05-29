@@ -1,1 +1,1 @@
-var mnemonic = "rural crazy episode evidence suffer bring ribbon tumble country inmate antenna rough";
+var mnemonic = "unlock stove employ surge pumpkin lunar enlist acoustic trial canyon expose menu";

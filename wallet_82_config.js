@@ -1,1 +1,1 @@
-var mnemonic = "write resource lizard roof mean aim connect prosper siren donate blast success";
+var mnemonic = "urban identify gain secret era own shallow position father income fall key";

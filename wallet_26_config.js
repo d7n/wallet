@@ -1,1 +1,1 @@
-var mnemonic = "security motion fragile crack eager spoon account pen music render ski snack";
+var mnemonic = "tray rate table vehicle lunch lava split barrel reunion choice family dinosaur";

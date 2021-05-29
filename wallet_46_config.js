@@ -1,1 +1,1 @@
-var mnemonic = "aspect tent collect select timber pioneer hen crush village shed shadow exile";
+var mnemonic = "rigid rice express club dwarf family foam pool during motion power anchor";

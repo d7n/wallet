@@ -1,1 +1,1 @@
-var mnemonic = "waste story opera army high kick rely security taste pair unaware borrow";
+var mnemonic = "soda hole innocent legal advice cluster cover opera word crop barrel canoe";

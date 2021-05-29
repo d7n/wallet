@@ -1,1 +1,1 @@
-var mnemonic = "crush there circle horror pause force waste connect bunker lounge supply company";
+var mnemonic = "upset spend visual huge unlock mirror able flock burden night crazy security";

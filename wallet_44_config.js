@@ -1,1 +1,1 @@
-var mnemonic = "claim observe hidden super way aware audit end much second theory cancel";
+var mnemonic = "finish filter useful raise gather vendor swallow cabin hockey dress stamp glare";

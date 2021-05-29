@@ -1,1 +1,1 @@
-var mnemonic = "bike caution tattoo empower front worry appear juice excuse steel taste inspire";
+var mnemonic = "illegal prison defy actual cancel vehicle keen glide spawn degree crew metal";

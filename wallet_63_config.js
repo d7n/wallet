@@ -1,1 +1,1 @@
-var mnemonic = "curtain brush wish source vivid talent eight deal portion purchase wrist huge";
+var mnemonic = "certain edit wrestle feed tent fault idea burden mix gun cheese solution";

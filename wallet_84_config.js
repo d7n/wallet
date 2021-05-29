@@ -1,1 +1,1 @@
-var mnemonic = "must man young remove ride gasp alert attract brisk energy region ecology";
+var mnemonic = "near wheat cost soup close human drop science judge captain fade pool";

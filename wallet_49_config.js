@@ -1,1 +1,1 @@
-var mnemonic = "talk tribe hour police bar pill power fat rescue lunar initial invest";
+var mnemonic = "library soul nothing danger before leisure donate daughter payment laugh engage sustain";

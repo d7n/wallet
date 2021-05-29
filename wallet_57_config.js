@@ -1,1 +1,1 @@
-var mnemonic = "clinic inject victory immune record exile sting index rare tape spot chair";
+var mnemonic = "total myself depth total army fog opera exhibit ten waste hope spoil";

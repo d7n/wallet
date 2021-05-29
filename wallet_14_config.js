@@ -1,1 +1,1 @@
-var mnemonic = "anchor waste kiwi snake turtle usage buyer secret legal cement large seat";
+var mnemonic = "visa mad great slogan breeze street morning inflict dove title happy view";

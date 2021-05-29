@@ -1,1 +1,1 @@
-var mnemonic = "combine supreme misery fever close hope pioneer goddess cake repair evil group";
+var mnemonic = "entry wave capital apple clutch claim random state lecture magnet fish trick";

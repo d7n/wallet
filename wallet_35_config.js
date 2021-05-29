@@ -1,1 +1,1 @@
-var mnemonic = "hero plate exhaust note clarify hat icon disease rain amateur blue easily";
+var mnemonic = "ladder course element host divide board indicate next method section man swift";

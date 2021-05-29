@@ -1,1 +1,1 @@
-var mnemonic = "shy word check survey main violin dilemma fame detail then undo you";
+var mnemonic = "elder next keep bamboo island food month tribe patch angry hip depart";

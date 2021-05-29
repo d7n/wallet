@@ -1,1 +1,1 @@
-var mnemonic = "sauce movie loop energy better mimic piece nice song tragic ozone fence";
+var mnemonic = "idea call orphan hand tackle ride globe distance nose broom feel expire";

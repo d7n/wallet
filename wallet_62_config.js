@@ -1,1 +1,1 @@
-var mnemonic = "royal flag wreck blade inhale tube mechanic finish piano belt regret essay";
+var mnemonic = "neutral unique wheel saddle village garage live affair head fade neutral gadget";

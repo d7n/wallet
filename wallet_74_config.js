@@ -1,1 +1,1 @@
-var mnemonic = "glare have waste plastic claw airport catalog monitor bus tongue pistol sing";
+var mnemonic = "regret pass man dolphin pluck muscle salmon dinosaur cigar tray ugly female";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve method dwarf theme popular card under display start dizzy false pistol";
+var mnemonic = "seminar kingdom siege damp mind illness race front special thunder rotate physical";

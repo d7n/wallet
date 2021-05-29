@@ -1,1 +1,1 @@
-var mnemonic = "element virtual charge film deny demand silver soccer custom oak dose elder";
+var mnemonic = "valley able advance valley because receive kit guess kit work begin frozen";

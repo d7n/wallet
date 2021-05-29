@@ -1,1 +1,1 @@
-var mnemonic = "impact timber tilt upon brother stand leaf spare click chat scene prize";
+var mnemonic = "mail way trip cost chair unveil suit affair leader happy shield clip";

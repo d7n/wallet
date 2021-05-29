@@ -1,1 +1,1 @@
-var mnemonic = "swarm increase fly prize zoo know disease admit company sure bonus violin";
+var mnemonic = "about space hamster grape pond repeat flag praise gossip tattoo track lazy";
