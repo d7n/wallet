@@ -1,1 +1,1 @@
-var mnemonic = "perfect divide embark adult unlock document aunt involve square paper wife couple";
+var mnemonic = "idea identify cool arrow bonus music erupt resource program monster wreck crash";

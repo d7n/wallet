@@ -1,1 +1,1 @@
-var mnemonic = "violin torch when disease rice spot inflict attack suspect embrace swarm ask";
+var mnemonic = "calm mixed staff quality poverty rapid assume cart duty athlete image mobile";

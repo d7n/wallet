@@ -1,1 +1,1 @@
-var mnemonic = "sick smooth burger acquire engine start sheriff budget detail oven base alone";
+var mnemonic = "illness copy solve nest apology jewel history issue nurse axis liquid social";

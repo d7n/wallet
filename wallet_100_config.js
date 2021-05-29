@@ -1,1 +1,1 @@
-var mnemonic = "place enable shiver quit host video depart silent rich under session fiscal";
+var mnemonic = "tomorrow convince thumb zone ability taxi armed program entire genius kiwi mechanic";

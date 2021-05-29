@@ -1,1 +1,1 @@
-var mnemonic = "rescue betray web stamp slot concert mesh retire pass junior drum slab";
+var mnemonic = "royal aware lucky develop swim climb vacuum hip illegal page bomb december";

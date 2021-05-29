@@ -1,1 +1,1 @@
-var mnemonic = "asthma remind silent fire great scare can message require wasp error coconut";
+var mnemonic = "smoke program rib silver stand illness permit friend version topic beef license";

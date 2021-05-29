@@ -1,1 +1,1 @@
-var mnemonic = "multiply upon cage spice breeze frown equip three junk stand toy ridge";
+var mnemonic = "flower whale gloom mean subject assist fish never force transfer wrist oval";

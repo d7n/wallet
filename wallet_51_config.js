@@ -1,1 +1,1 @@
-var mnemonic = "rent still spring vapor fluid pet collect keen amazing hint curious horn";
+var mnemonic = "wool film indoor early park must leg together wool approve put special";

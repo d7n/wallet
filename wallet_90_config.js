@@ -1,1 +1,1 @@
-var mnemonic = "course turkey bicycle caution banana mass ginger taste hunt first glare plastic";
+var mnemonic = "risk craft excuse clock kiwi crop fabric put disagree scrap shell thank";

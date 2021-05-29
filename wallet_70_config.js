@@ -1,1 +1,1 @@
-var mnemonic = "cloud pattern leave buddy soccer print stay gadget hedgehog meat decorate shadow";
+var mnemonic = "what bid ridge limb pupil tragic thunder pioneer loyal dice enhance target";

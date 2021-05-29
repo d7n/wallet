@@ -1,1 +1,1 @@
-var mnemonic = "sudden prepare boring mother fat zoo debris divorce early sting bright trouble";
+var mnemonic = "peanut hurry affair ahead boat elegant margin novel valid imitate food refuse";

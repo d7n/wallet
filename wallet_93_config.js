@@ -1,1 +1,1 @@
-var mnemonic = "episode name despair favorite floor fluid bid health course evoke urban wasp";
+var mnemonic = "million ankle endorse guard urge join danger embark bomb slight penalty simple";

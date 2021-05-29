@@ -1,1 +1,1 @@
-var mnemonic = "result blossom cinnamon slogan caught debate sand thing bridge village clump copy";
+var mnemonic = "parrot example road able lonely episode heavy idea wait easily broken bullet";

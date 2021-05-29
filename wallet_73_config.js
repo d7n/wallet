@@ -1,1 +1,1 @@
-var mnemonic = "despair run unit sure lock melody example thing amateur angle hockey tube";
+var mnemonic = "churn table observe deliver obscure alley tortoise novel palace diagram walk cinnamon";

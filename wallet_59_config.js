@@ -1,1 +1,1 @@
-var mnemonic = "opinion purse abstract survey boring thank quit develop cargo clog menu debris";
+var mnemonic = "quarter omit about gravity short clarify fever slim spare section penalty afraid";

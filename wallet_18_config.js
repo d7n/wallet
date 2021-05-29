@@ -1,1 +1,1 @@
-var mnemonic = "purity mansion boost point urge ridge rich maple sail loyal sudden mail";
+var mnemonic = "sound hurt virtual mandate cheap sentence public inquiry witness border begin tool";

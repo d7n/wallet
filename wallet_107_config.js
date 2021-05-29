@@ -1,1 +1,1 @@
-var mnemonic = "knock relief face manual vehicle length slam hip found palm since reveal";
+var mnemonic = "typical rail junior client manage latin twenty mom swamp cream bike language";

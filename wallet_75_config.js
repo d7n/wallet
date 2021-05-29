@@ -1,1 +1,1 @@
-var mnemonic = "ecology immense input couch limit harsh casino speed thumb roast update soul";
+var mnemonic = "window current weasel leave goat elite spin organ cradle maze mammal mechanic";

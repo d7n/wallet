@@ -1,1 +1,1 @@
-var mnemonic = "sniff roof retire planet portion excite boost lion ozone balance quick play";
+var mnemonic = "kitten during enjoy clay rebel poem save weapon this arm quiz lawsuit";

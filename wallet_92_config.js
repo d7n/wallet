@@ -1,1 +1,1 @@
-var mnemonic = "casual blush witness man inject series assault goose harvest bottom axis start";
+var mnemonic = "width mirror spy daughter hawk little kitchen outdoor student vacant excuse mechanic";

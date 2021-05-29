@@ -1,1 +1,1 @@
-var mnemonic = "truth arrive crumble level fence question alpha match draw chest setup famous";
+var mnemonic = "surprise brown draw stem rookie desert relax nature father jealous more angry";

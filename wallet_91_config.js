@@ -1,1 +1,1 @@
-var mnemonic = "grid carpet ship envelope rigid diesel scrub gloom exclude option stumble evolve";
+var mnemonic = "gauge trophy bid scissors long solution silly hub wise trend blast road";

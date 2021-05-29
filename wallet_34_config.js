@@ -1,1 +1,1 @@
-var mnemonic = "drop ginger cheap strong vote you flock cluster despair jaguar depth pepper";
+var mnemonic = "end luxury home odor heart innocent fame hurdle drift soon almost kiss";

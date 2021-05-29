@@ -1,1 +1,1 @@
-var mnemonic = "purchase ten atom brother loyal spread supply parent day canyon town verb";
+var mnemonic = "crop casual unique embark educate list noodle length record infant nothing hammer";

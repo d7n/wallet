@@ -1,1 +1,1 @@
-var mnemonic = "online improve emerge similar leopard broom feel moon execute tag attack yellow";
+var mnemonic = "model fatigue rural love peasant idea ability weasel scan wrestle comfort core";

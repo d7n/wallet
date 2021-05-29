@@ -1,1 +1,1 @@
-var mnemonic = "tube suit course eight oppose finger truck sunset aisle leopard type coach";
+var mnemonic = "economy agent rescue winter dove window later beach doll uncover sting fruit";

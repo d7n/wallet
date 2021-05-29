@@ -1,1 +1,1 @@
-var mnemonic = "trash cattle harsh matrix behind model congress flush harbor magic mean join";
+var mnemonic = "wear fix ensure safe three spread avocado lake dice title actual version";

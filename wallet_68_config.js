@@ -1,1 +1,1 @@
-var mnemonic = "chapter chaos tourist reject afford catch afford sunset saddle illegal ring thumb";
+var mnemonic = "vehicle nominee sense coral birth vote arm hello shiver sad payment abandon";

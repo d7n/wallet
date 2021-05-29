@@ -1,1 +1,1 @@
-var mnemonic = "average scorpion alert lizard miss banner detect wheel kitchen quit nuclear glass";
+var mnemonic = "behind rescue sail want position eye radio rail cement post oxygen early";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug student oppose mail silk breeze close base brand volume all visa";
+var mnemonic = "worry outer define ring above battle chest fragile under despair people multiply";

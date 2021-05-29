@@ -1,1 +1,1 @@
-var mnemonic = "hurry maple detail chronic mirror funny matrix marine unveil trophy skull huge";
+var mnemonic = "clutch engage eagle differ grape thrive peasant vocal brown valid cabin poverty";

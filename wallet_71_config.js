@@ -1,1 +1,1 @@
-var mnemonic = "subway blossom reveal evolve lady tumble fire viable concert twice menu broccoli";
+var mnemonic = "tenant payment learn silent useful shrimp across miracle quote ugly praise become";

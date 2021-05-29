@@ -1,1 +1,1 @@
-var mnemonic = "obey stable lottery cruise gown obtain secret display evoke hedgehog hurry assume";
+var mnemonic = "idle expire card dentist degree around ability someone hockey upper impact fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "various income sheriff fold upon hobby shiver couple marine caught multiply patrol";
+var mnemonic = "side soda steel reward elbow either embrace grow fly ramp degree shrimp";

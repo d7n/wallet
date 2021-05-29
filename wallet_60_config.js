@@ -1,1 +1,1 @@
-var mnemonic = "bacon total people head punch quote load destroy fold wage valid stamp";
+var mnemonic = "toy dinosaur horror donkey you cigar wear when panic addict fun milk";

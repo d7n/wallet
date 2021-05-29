@@ -1,1 +1,1 @@
-var mnemonic = "talent hollow pave recycle snap dance tooth aim dish napkin doll cattle";
+var mnemonic = "spatial winner twin treat shop decide silver patch thought blur drum clown";

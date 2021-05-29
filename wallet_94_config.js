@@ -1,1 +1,1 @@
-var mnemonic = "will gospel poverty twin bonus fatigue sense certain retire library civil youth";
+var mnemonic = "donor victory salute draft dress trip immune tennis emotion give hand draft";

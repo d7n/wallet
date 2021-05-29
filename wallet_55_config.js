@@ -1,1 +1,1 @@
-var mnemonic = "globe tired garment drive apart ancient spy tell broken youth rude neither";
+var mnemonic = "grape enlist trip day strike area mixture lady country exile sketch wash";

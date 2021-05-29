@@ -1,1 +1,1 @@
-var mnemonic = "isolate travel quarter half urge sustain despair doctor oblige produce edit garbage";
+var mnemonic = "dial misery pupil cabbage coast deputy settle bone near pipe powder spawn";

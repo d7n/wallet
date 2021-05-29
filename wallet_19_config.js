@@ -1,1 +1,1 @@
-var mnemonic = "vital guard flight hurt level manage prosper lazy need mention toy science";
+var mnemonic = "goddess normal story spring critic pencil impulse sugar hollow street reward easily";

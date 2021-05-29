@@ -1,1 +1,1 @@
-var mnemonic = "inject copy place approve sight bracket swap stage bracket mystery swim festival";
+var mnemonic = "twenty home next grain coyote recipe crawl cricket normal cluster betray kite";

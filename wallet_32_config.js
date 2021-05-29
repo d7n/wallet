@@ -1,1 +1,1 @@
-var mnemonic = "diary fire green fatigue glide off walnut buffalo vanish slender canvas express";
+var mnemonic = "obtain return run never bulb awful size forest butter neither bitter suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "depth hurry can profit initial duck march shadow minimum actor open sport";
+var mnemonic = "thumb giraffe obscure ticket disease bunker surge license scatter mesh pull stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber daring vapor unhappy cactus tip crater slender obey shift recall blanket";
+var mnemonic = "heart horse coyote make nation choose sister cupboard quote gentle tunnel trim";

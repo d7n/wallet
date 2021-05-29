@@ -1,1 +1,1 @@
-var mnemonic = "topic stove rate awkward human path false evil universe issue under immune";
+var mnemonic = "talk trial model render evoke swap carbon portion diagram chalk climb unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "auction menu myself angle dance chapter grass atom lend whale endless element";
+var mnemonic = "tumble train fish cancel angle major exit cry property swallow charge coach";

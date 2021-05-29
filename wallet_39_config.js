@@ -1,1 +1,1 @@
-var mnemonic = "across fade stadium little neck giant frozen vintage angry like now sell";
+var mnemonic = "together grocery banana regret spatial defy goat safe wolf property lunch evoke";

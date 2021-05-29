@@ -1,1 +1,1 @@
-var mnemonic = "poverty unfair elder screen tunnel someone lion play range hold shrimp loop";
+var mnemonic = "magnet exclude soup obey burger sample sponsor elevator almost master attract rabbit";

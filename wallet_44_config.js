@@ -1,1 +1,1 @@
-var mnemonic = "small celery require feed produce eye blame rose truck mercy output apology";
+var mnemonic = "fun sting exhibit what mother debris squirrel gym sail artist slice wage";

@@ -1,1 +1,1 @@
-var mnemonic = "random calm oven swim parrot equal lady often surround lottery empty emerge";
+var mnemonic = "until result cousin poet submit live treat cry obey pact next review";

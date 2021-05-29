@@ -1,1 +1,1 @@
-var mnemonic = "ordinary void dumb lonely artefact two usual fly boss tackle truth vehicle";
+var mnemonic = "proof salon response gloom office echo sell silver dignity doll lift merit";

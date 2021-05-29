@@ -1,1 +1,1 @@
-var mnemonic = "crucial ensure rifle shrug picture author merry salad credit mixed devote rally";
+var mnemonic = "inch inside category sort include donor blossom crash people sketch unaware make";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol ask into lock same again glory remain view scene wisdom winner";
+var mnemonic = "father leisure bitter appear cage wing hat argue old carry priority rebel";

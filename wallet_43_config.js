@@ -1,1 +1,1 @@
-var mnemonic = "foil veteran minimum fame cruel scrub west viable surprise vocal vague violin";
+var mnemonic = "pole cheese link artist enter reopen broom guitar staff improve arrow wild";

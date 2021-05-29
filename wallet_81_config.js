@@ -1,1 +1,1 @@
-var mnemonic = "proud maximum elevator spoon above regular put shoe trust tip draft unknown";
+var mnemonic = "casual hurt limit actress pudding plate ride steel asset report beach fun";

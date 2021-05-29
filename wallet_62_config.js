@@ -1,1 +1,1 @@
-var mnemonic = "uncle hour knee surge room shaft dwarf panther buyer patrol rookie sail";
+var mnemonic = "omit clean bargain cereal great tube crumble medal bone sing verb call";

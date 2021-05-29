@@ -1,1 +1,1 @@
-var mnemonic = "door garbage gaze source cover load display burst gym trumpet regular alarm";
+var mnemonic = "camera attitude fame claw confirm chest ten injury whale orange style tide";

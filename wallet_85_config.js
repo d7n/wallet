@@ -1,1 +1,1 @@
-var mnemonic = "type toward world leaf holiday frozen mansion veteran news legend degree bachelor";
+var mnemonic = "walnut approve crowd observe hour umbrella property nature tomato ability private ski";

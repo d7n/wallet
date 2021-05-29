@@ -1,1 +1,1 @@
-var mnemonic = "jealous radio faculty spoon chief bracket nice matrix ripple milk safe receive";
+var mnemonic = "pact broom garbage host when crumble legend boring banner great middle edit";

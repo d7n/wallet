@@ -1,1 +1,1 @@
-var mnemonic = "castle unaware floor fruit tunnel swim adjust slot eight chronic once east";
+var mnemonic = "loyal mouse oblige zero whale empower dose possible dice disease produce lemon";

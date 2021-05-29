@@ -1,1 +1,1 @@
-var mnemonic = "good scale style habit forum must bomb erupt casual fitness strategy giggle";
+var mnemonic = "town need pig label mention error another oyster toss once minor laundry";

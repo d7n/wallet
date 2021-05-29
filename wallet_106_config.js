@@ -1,1 +1,1 @@
-var mnemonic = "radio december hat kite always evoke quote idle skate desk much away";
+var mnemonic = "drill rude reveal poem hero lion ostrich radar ankle want shuffle slam";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky van coyote illness tower climb program armor cabbage melt radio arrest";
+var mnemonic = "thunder prefer involve panther popular erupt violin stick april poverty wife grit";

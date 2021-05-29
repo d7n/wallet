@@ -1,1 +1,1 @@
-var mnemonic = "labor enjoy offer fatal dentist duty try category mobile snap inject carbon";
+var mnemonic = "hair object tissue bone wood dinner link tag shallow gospel unknown man";

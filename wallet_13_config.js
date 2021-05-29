@@ -1,1 +1,1 @@
-var mnemonic = "language cave mention october wood sentence select run huge decline seek verb";
+var mnemonic = "cactus result away alter neck journey attract mom phone dolphin clinic example";

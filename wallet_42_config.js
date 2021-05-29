@@ -1,1 +1,1 @@
-var mnemonic = "witness ring range under cargo insane ivory talent alert slice deny drastic";
+var mnemonic = "antique palace chair recycle consider pool excess salmon gloom weasel coffee net";

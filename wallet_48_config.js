@@ -1,1 +1,1 @@
-var mnemonic = "thrive dilemma clock supply crazy follow alarm region copper cube rude escape";
+var mnemonic = "much side midnight flat slight hope task jazz tip pole tennis lounge";

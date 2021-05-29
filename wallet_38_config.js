@@ -1,1 +1,1 @@
-var mnemonic = "diamond enroll matrix pepper betray glove gospel fresh garden food believe age";
+var mnemonic = "toy street carbon umbrella trip saddle ridge silk crane mosquito upgrade flame";

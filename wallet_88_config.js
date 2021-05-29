@@ -1,1 +1,1 @@
-var mnemonic = "notice wrist describe fancy giggle summer envelope unlock oblige local category pig";
+var mnemonic = "neither only napkin banner engine empty over patrol canal tiny festival great";

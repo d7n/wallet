@@ -1,1 +1,1 @@
-var mnemonic = "equip bundle dog improve cigar pulse depart toddler pig model unit holiday";
+var mnemonic = "rail short deer weapon mass iron beyond puzzle vague world easily when";

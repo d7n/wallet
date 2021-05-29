@@ -1,1 +1,1 @@
-var mnemonic = "pottery motor vast siren extra scrub matrix arrange have idea salute faculty";
+var mnemonic = "fun stumble network large emerge domain pencil fat impulse fuel width dog";

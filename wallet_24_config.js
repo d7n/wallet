@@ -1,1 +1,1 @@
-var mnemonic = "stool vendor slim common auto slim render night carpet camp family fortune";
+var mnemonic = "tumble govern grab rabbit clutch second pet grape dune nose civil dismiss";

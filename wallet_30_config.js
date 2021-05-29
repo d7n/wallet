@@ -1,1 +1,1 @@
-var mnemonic = "cigar copper hockey sick coral quick connect sure just extra helmet chronic";
+var mnemonic = "popular virtual rice police paper sing embark detect impact conduct impose torch";

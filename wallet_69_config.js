@@ -1,1 +1,1 @@
-var mnemonic = "shell evolve dinner hurdle room outside fame story drill journey gesture shock";
+var mnemonic = "rocket run volume reunion upper duck name dynamic runway joke federal gold";

@@ -1,1 +1,1 @@
-var mnemonic = "happy tenant inmate glove pole skull sea crumble seek ancient collect mask";
+var mnemonic = "later one glare sand maple race debris trust tape stove wheel drop";

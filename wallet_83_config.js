@@ -1,1 +1,1 @@
-var mnemonic = "put message utility version priority dry expire lake butter price paddle useless";
+var mnemonic = "bronze depth worth fix bulk weasel welcome coin barely kiss garment purchase";

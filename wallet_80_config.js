@@ -1,1 +1,1 @@
-var mnemonic = "purse spare original picture october nice cage banana witness polar thrive hawk";
+var mnemonic = "erase smart donate since fat fetch cousin stove ripple lobster nature upset";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan find chuckle duty father crush wonder pretty gold skill bamboo exile";
+var mnemonic = "enough electric south glide worry tiny garage explain mountain grass entry garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge head bulb dynamic ski boss rice weasel power lava afford perfect";
+var mnemonic = "wealth fashion install skull potato bridge tongue fame female claw elbow purpose";

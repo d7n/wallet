@@ -1,1 +1,1 @@
-var mnemonic = "term identify monkey want trouble comic feel address become gallery window sample";
+var mnemonic = "cute crater first denial farm devote angle busy invest pride supply secret";

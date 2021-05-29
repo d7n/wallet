@@ -1,1 +1,1 @@
-var mnemonic = "actor exchange casino section night dynamic bone grid genius luggage taste crunch";
+var mnemonic = "twin sunny peanut inch height vacant second climb fly stand toy anchor";

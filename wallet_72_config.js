@@ -1,1 +1,1 @@
-var mnemonic = "page snap craft like train deny together broken object mind boy exclude";
+var mnemonic = "genre involve brush forum zone include wear dynamic race desk volume crisp";

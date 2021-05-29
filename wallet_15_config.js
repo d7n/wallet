@@ -1,1 +1,1 @@
-var mnemonic = "before slot ill panel short autumn vivid kitchen skill other aunt until";
+var mnemonic = "lawn dove seat melt air vacant seminar drive shallow turtle farm clap";

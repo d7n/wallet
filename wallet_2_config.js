@@ -1,1 +1,1 @@
-var mnemonic = "chef surround venture good file castle glory include mad trick bean police";
+var mnemonic = "scale duck universe false crouch clever double outdoor crane replace empty inform";

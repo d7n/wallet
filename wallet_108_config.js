@@ -1,1 +1,1 @@
-var mnemonic = "dune record body repeat crack lava impulse quiz dwarf tank aim ribbon";
+var mnemonic = "anxiety special network ozone aunt duty aerobic outdoor stadium merit faith memory";

@@ -1,1 +1,1 @@
-var mnemonic = "sick harbor cable define solution shed tackle enough strong day unusual derive";
+var mnemonic = "dolphin hand decorate stand trim rain spy cart excuse jar tunnel flower";

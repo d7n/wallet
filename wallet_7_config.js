@@ -1,1 +1,1 @@
-var mnemonic = "total about pencil fury clean then enhance cage napkin mix paper whip";
+var mnemonic = "camp wise sense casino whale bar skirt retire fruit door venture this";

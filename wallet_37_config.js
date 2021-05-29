@@ -1,1 +1,1 @@
-var mnemonic = "pride hospital found clinic confirm lake kiss fly next jazz have harvest";
+var mnemonic = "code fame stool order total peasant joke obtain dish table hurt hockey";

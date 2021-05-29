@@ -1,1 +1,1 @@
-var mnemonic = "outside thrive manage lawn stairs arena elegant scissors super knock nephew clerk";
+var mnemonic = "shove between mansion obvious clean fly olympic infant junk deposit phone naive";

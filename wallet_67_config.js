@@ -1,1 +1,1 @@
-var mnemonic = "come pact talent stereo design better ability nephew kick lunar olympic melody";
+var mnemonic = "twice arch wasp piano solid phone miracle myself angry bitter middle more";

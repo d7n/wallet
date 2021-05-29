@@ -1,1 +1,1 @@
-var mnemonic = "destroy voyage seek prison nominee come melt fatigue boring bamboo cloth sunny";
+var mnemonic = "rude pumpkin refuse acoustic dumb august notable caught elegant lounge ribbon knee";

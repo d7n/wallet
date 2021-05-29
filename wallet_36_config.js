@@ -1,1 +1,1 @@
-var mnemonic = "provide school depend perfect comfort nominee goat crop ball mutual deny join";
+var mnemonic = "what copper beyond foil afraid rifle chief april gaze trigger congress cheese";
