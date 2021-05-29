@@ -1,1 +1,1 @@
-var mnemonic = "purpose toward habit hen primary asset over hover manage donkey valid suffer";
+var mnemonic = "dash senior hero cousin stove father chuckle width express indoor cram impulse";

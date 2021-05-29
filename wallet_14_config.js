@@ -1,1 +1,1 @@
-var mnemonic = "visa hill feature sketch shoulder what interest salute blast gain outdoor glimpse";
+var mnemonic = "noodle enrich expect merge dinosaur option dizzy smart know cushion end swap";

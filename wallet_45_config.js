@@ -1,1 +1,1 @@
-var mnemonic = "motion assist leader pilot high bridge unique tuna argue ozone goddess great";
+var mnemonic = "refuse again fun bless sing bunker winter pony venue float over people";

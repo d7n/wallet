@@ -1,1 +1,1 @@
-var mnemonic = "banner step find develop innocent unable cannon brush elevator school physical metal";
+var mnemonic = "prosper plastic enter surround found option office area raven chronic monitor swear";

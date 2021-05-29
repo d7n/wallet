@@ -1,1 +1,1 @@
-var mnemonic = "next argue drill jar pioneer custom scissors slow give deliver setup ecology";
+var mnemonic = "have regret involve orchard hedgehog find inquiry capable outer start mimic roast";

@@ -1,1 +1,1 @@
-var mnemonic = "link side escape stool cargo circle reunion spare inspire fun daring cause";
+var mnemonic = "cream speak cherry message mule typical swamp wolf mobile latin tattoo clap";

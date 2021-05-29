@@ -1,1 +1,1 @@
-var mnemonic = "under birth orphan march verb meadow predict penalty execute dolphin lawn typical";
+var mnemonic = "father fiscal assume claw enjoy grain raccoon income enlist define answer abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "egg enemy punch explain april clinic reject lens market health super float";
+var mnemonic = "spawn uniform toe anchor seminar million plate south hill arrest access come";

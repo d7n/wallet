@@ -1,1 +1,1 @@
-var mnemonic = "satoshi weather energy auto mask empower element cash water grief seven mystery";
+var mnemonic = "bounce divert machine dentist amused secret steak autumn system nerve across robot";

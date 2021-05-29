@@ -1,1 +1,1 @@
-var mnemonic = "delay smooth carbon any awesome candy evil knee tiger armed exercise flag";
+var mnemonic = "hockey since depart witness amount actor begin humor nest trade pepper proof";

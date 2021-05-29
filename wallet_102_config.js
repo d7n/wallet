@@ -1,1 +1,1 @@
-var mnemonic = "pattern alcohol cliff stomach car dumb use peasant caution start occur fortune";
+var mnemonic = "abandon ten either style clutch gloom cook nature argue motion often earth";

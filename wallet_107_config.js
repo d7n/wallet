@@ -1,1 +1,1 @@
-var mnemonic = "stove autumn attend clap consider garbage acoustic brave wise segment omit give";
+var mnemonic = "brother honey radar upper mirror genre lamp virus license harbor journey detail";

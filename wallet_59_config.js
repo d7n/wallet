@@ -1,1 +1,1 @@
-var mnemonic = "split crop enter school glide dust charge uncle soft argue gauge genuine";
+var mnemonic = "clog blast layer peasant autumn labor ceiling absent label undo alter popular";

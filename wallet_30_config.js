@@ -1,1 +1,1 @@
-var mnemonic = "guide north spider spread kind broom elite scheme pill pen cereal enhance";
+var mnemonic = "mystery letter auction ten noodle host glass current cluster illness eight soda";

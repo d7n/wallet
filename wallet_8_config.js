@@ -1,1 +1,1 @@
-var mnemonic = "despair ramp bread rough harvest spider survey pulse vanish bridge timber order";
+var mnemonic = "prosper drum matter frame nothing purpose police cover account kiss govern eternal";

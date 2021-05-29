@@ -1,1 +1,1 @@
-var mnemonic = "brother strong enemy envelope excite fold mandate traffic gown simple labor sweet";
+var mnemonic = "tumble human beyond found tag auto spot impose boring hover inform honey";

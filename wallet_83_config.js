@@ -1,1 +1,1 @@
-var mnemonic = "renew almost remain music glide virtual hair small raccoon spend melody song";
+var mnemonic = "idea lazy dune youth violin coffee lion diesel slice later visual lounge";

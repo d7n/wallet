@@ -1,1 +1,1 @@
-var mnemonic = "flock anger bacon slab legal unique orange network actor crop beauty match";
+var mnemonic = "engage grace glue love exhaust stay endless crash focus ladder flash draw";

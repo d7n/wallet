@@ -1,1 +1,1 @@
-var mnemonic = "seek lunch jazz excite festival special matter cloth young around tuition occur";
+var mnemonic = "inject vessel coil bullet hobby dawn either joke option abstract endless supreme";

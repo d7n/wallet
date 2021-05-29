@@ -1,1 +1,1 @@
-var mnemonic = "airport cancel south light spike turkey pencil fix lion brass keen satisfy";
+var mnemonic = "finger dolphin kidney cause please action health song barrel oppose swap quote";

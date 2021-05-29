@@ -1,1 +1,1 @@
-var mnemonic = "sea kitten cute snack head tide fuel flush shift patch wood rely";
+var mnemonic = "young shield pigeon tattoo hollow pudding hold salt tomato humor reduce vibrant";

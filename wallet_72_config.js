@@ -1,1 +1,1 @@
-var mnemonic = "ready security tag chunk damp unit dutch suspect barely glad royal excuse";
+var mnemonic = "trap job master access sugar cash atom sand mean close wreck top";

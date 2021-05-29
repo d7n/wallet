@@ -1,1 +1,1 @@
-var mnemonic = "coral response toast open rural coin ridge foam tank safe fuel cloth";
+var mnemonic = "real fault power home finish enter tornado fashion wink air truly weird";

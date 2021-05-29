@@ -1,1 +1,1 @@
-var mnemonic = "burst abstract leisure cruise treat jump space ranch abuse mushroom essay payment";
+var mnemonic = "palm blur frequent axis casino wood number figure timber asset sun north";

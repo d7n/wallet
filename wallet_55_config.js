@@ -1,1 +1,1 @@
-var mnemonic = "polar tool select safe pencil object bar absurd toddler purpose finger step";
+var mnemonic = "wine museum lumber term work purse pizza luggage inject spawn despair argue";

@@ -1,1 +1,1 @@
-var mnemonic = "milk ginger custom minimum rain glass sponsor culture trick theory spoon indicate";
+var mnemonic = "flush visa host river sausage smile nasty solution fame device defy endorse";

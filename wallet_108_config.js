@@ -1,1 +1,1 @@
-var mnemonic = "love action crunch main poem custom tree card page sadness height shop";
+var mnemonic = "vintage oil bulk spice absent silly iron bulk portion material robust supply";

@@ -1,1 +1,1 @@
-var mnemonic = "blur adult attack find move industry special echo swallow dish area ready";
+var mnemonic = "between tube useful gentle today uncover draft cricket public two stuff hover";

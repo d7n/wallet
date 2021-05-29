@@ -1,1 +1,1 @@
-var mnemonic = "vague body lake busy person detect morning long copper obvious blade margin";
+var mnemonic = "okay secret sense skin wasp bind truth best diamond vapor boss oppose";

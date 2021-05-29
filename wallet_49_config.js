@@ -1,1 +1,1 @@
-var mnemonic = "soup hole quick transfer spend spell eternal wage family uncle thank dish";
+var mnemonic = "skate alter artist weasel exotic client please resist shine news price office";

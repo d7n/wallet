@@ -1,1 +1,1 @@
-var mnemonic = "salt episode record pudding pulse huge differ still heart fun bike supply";
+var mnemonic = "fiction clip stay project comfort gun claim install need swarm process trumpet";

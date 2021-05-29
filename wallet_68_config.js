@@ -1,1 +1,1 @@
-var mnemonic = "breeze dismiss radio cement crop clean noodle frame smart chest universe spring";
+var mnemonic = "umbrella skill category notable hollow chalk universe family company ten panel model";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie honey over rely math matrix exhaust train build scan ladder fever";
+var mnemonic = "price among explain risk warfare make fork moment balance used copy debate";

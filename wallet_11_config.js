@@ -1,1 +1,1 @@
-var mnemonic = "wing giant document crash open stem picture club runway whale seminar during";
+var mnemonic = "pelican never shoe unveil slender stuff afford annual harsh shift wrong clip";

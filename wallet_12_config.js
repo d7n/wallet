@@ -1,1 +1,1 @@
-var mnemonic = "volcano you velvet buyer execute guitar scrap neither hour iron number apology";
+var mnemonic = "unveil reveal ice front lawn dinosaur window degree diary drive oxygen ignore";

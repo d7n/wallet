@@ -1,1 +1,1 @@
-var mnemonic = "enlist found perfect boss reform organ boost ketchup glass seed shuffle obscure";
+var mnemonic = "february august regret motion decorate flat valley inquiry cheap easy you jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry tide domain narrow rough junk shoot fossil thunder slogan inmate plunge";
+var mnemonic = "flag kite fall pizza they true report taste tumble two destroy lecture";

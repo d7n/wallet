@@ -1,1 +1,1 @@
-var mnemonic = "lab help rally stairs soul proof field praise hip prison dream edit";
+var mnemonic = "bid govern multiply planet cause cotton job trigger horse where badge hazard";

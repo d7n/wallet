@@ -1,1 +1,1 @@
-var mnemonic = "snap must glory ripple deer canoe deposit hen combine loyal version day";
+var mnemonic = "code just blur tissue mammal lunch domain clump drink depend mass deliver";

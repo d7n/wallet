@@ -1,1 +1,1 @@
-var mnemonic = "just exist plastic gesture school heart rain letter horn wire shed champion";
+var mnemonic = "welcome avocado exact find pioneer matrix talk suffer lizard door adult orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "faint critic bracket dutch cover twice rural cannon guide chief load worry";
+var mnemonic = "armed imitate monkey choice lion summer gasp depend mammal gain depth coast";

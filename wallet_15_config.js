@@ -1,1 +1,1 @@
-var mnemonic = "lesson dry false call update home sponsor siren leisure barrel daughter rose";
+var mnemonic = "about radio luggage asthma powder minimum scare unfold worry start nose write";

@@ -1,1 +1,1 @@
-var mnemonic = "offer current verify deny pilot offer prison predict door curious spring can";
+var mnemonic = "concert dutch orbit plastic about general velvet antenna prefer autumn mango nest";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage brief digital day happy peasant fall silent speak tooth brass guard";
+var mnemonic = "convince state melody second when acid abuse inquiry key favorite alert aim";

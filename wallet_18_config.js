@@ -1,1 +1,1 @@
-var mnemonic = "section initial private youth bronze arch crew sauce square shop dance gauge";
+var mnemonic = "sail picnic park honey reform oven practice plunge photo brown furnace shrimp";

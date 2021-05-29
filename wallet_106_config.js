@@ -1,1 +1,1 @@
-var mnemonic = "property quit history guilt shed stool midnight sock spy news genuine dose";
+var mnemonic = "legal april cereal vacuum must satoshi frost spice soft trip situate happy";

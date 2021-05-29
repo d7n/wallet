@@ -1,1 +1,1 @@
-var mnemonic = "thrive comic wool blast tooth claim wrap reason alley monkey retreat lizard";
+var mnemonic = "marble endorse jelly orphan seven unusual winner drop ostrich version people belt";

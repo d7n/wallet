@@ -1,1 +1,1 @@
-var mnemonic = "jeans sketch soda remove victory napkin genuine shrug claw brief clinic vacuum";
+var mnemonic = "display oval put core useful allow vapor arrest bid water please spy";

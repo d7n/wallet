@@ -1,1 +1,1 @@
-var mnemonic = "salute cigar orient tragic element cigar bread club shrimp risk pass punch";
+var mnemonic = "relax source hard room three mercy dove ski jazz census recall walk";

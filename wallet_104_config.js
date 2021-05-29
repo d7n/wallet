@@ -1,1 +1,1 @@
-var mnemonic = "simple swarm angle pass entire brush acquire recycle clean squeeze grow hope";
+var mnemonic = "thank fetch secret leave express flush stereo famous balcony impose ramp popular";

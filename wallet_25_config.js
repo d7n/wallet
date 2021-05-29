@@ -1,1 +1,1 @@
-var mnemonic = "fly decorate glue stereo inch invest electric shiver onion used bamboo abuse";
+var mnemonic = "exile pink toy today relax coffee twenty lens attitude display cigar whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry course horn funny purpose eye audit crew shrimp float acid idle";
+var mnemonic = "shift include bus museum erupt hero desk rack bean total chuckle glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "absent unaware camera spread dance pelican close physical uniform vital fantasy basket";
+var mnemonic = "pet sleep nurse marine genre output winner daring fall laundry alarm apple";

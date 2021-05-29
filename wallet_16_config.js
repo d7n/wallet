@@ -1,1 +1,1 @@
-var mnemonic = "exhibit tilt fence loop point oppose bicycle educate motion right retire year";
+var mnemonic = "require stem drink bicycle diamond switch salmon ill bronze theme leaf lunar";

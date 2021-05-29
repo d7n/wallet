@@ -1,1 +1,1 @@
-var mnemonic = "test duck crouch debris violin gold coral viable scale bunker point elder";
+var mnemonic = "advance end bacon tattoo into timber always month left media rib ten";

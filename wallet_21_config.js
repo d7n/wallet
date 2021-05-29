@@ -1,1 +1,1 @@
-var mnemonic = "narrow kitten gentle blast beyond frame trumpet ramp morning joy height gesture";
+var mnemonic = "design biology cabbage minimum control quality sister bundle more lesson snack fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "hand rubber improve spy ticket remove require require remind select sponsor flush";
+var mnemonic = "toss trumpet kingdom vicious famous journey teach embark finish gloom green various";

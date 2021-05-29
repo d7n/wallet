@@ -1,1 +1,1 @@
-var mnemonic = "vanish prevent sample naive noble match hunt hover trash mimic scrap check";
+var mnemonic = "analyst suffer soap found net garment door bless skill habit give enhance";

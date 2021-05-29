@@ -1,1 +1,1 @@
-var mnemonic = "coconut penalty hospital frozen tissue honey tenant health vessel tag square evidence";
+var mnemonic = "park always claw fiction robot end destroy wide settle purpose affair level";

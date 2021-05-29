@@ -1,1 +1,1 @@
-var mnemonic = "twist monkey truth raven disease shiver length sausage fiction velvet gospel recycle";
+var mnemonic = "mesh income hair wreck cost humble quarter obvious someone rebuild merit oil";

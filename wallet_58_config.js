@@ -1,1 +1,1 @@
-var mnemonic = "satisfy foil metal raccoon hunt quick sniff style obvious virtual sing topple";
+var mnemonic = "shuffle metal wash mesh prosper develop riot ensure solid polar ramp device";

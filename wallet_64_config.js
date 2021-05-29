@@ -1,1 +1,1 @@
-var mnemonic = "rapid inmate rhythm crazy flat boil romance science spin congress peace skirt";
+var mnemonic = "scissors orange smoke monitor fury problem photo already expand bright mask awkward";

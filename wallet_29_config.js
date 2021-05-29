@@ -1,1 +1,1 @@
-var mnemonic = "exhaust bonus photo human idle lion elegant predict gap perfect property blast";
+var mnemonic = "festival return state during cake cat ignore narrow rebel access easy logic";

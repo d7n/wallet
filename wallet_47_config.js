@@ -1,1 +1,1 @@
-var mnemonic = "stereo sword cat length sea nominee kind million student gap defense castle";
+var mnemonic = "noise sword lecture render domain slice gold sphere soon trust novel royal";

@@ -1,1 +1,1 @@
-var mnemonic = "beef depend general flat wheat jeans frozen rebel people congress radar wave";
+var mnemonic = "fragile suit hospital auto donor divert item spend silly chair episode soap";

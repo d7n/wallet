@@ -1,1 +1,1 @@
-var mnemonic = "lecture puzzle ability food garment solution squirrel fatal plate screen lunch human";
+var mnemonic = "trend nice kangaroo sheriff damage mean crew link fog clay beef raw";

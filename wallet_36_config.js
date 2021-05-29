@@ -1,1 +1,1 @@
-var mnemonic = "section trust unaware nominee elegant soul doll audit clarify upon size blue";
+var mnemonic = "abandon night before banner ability steak sudden like bunker field absurd render";

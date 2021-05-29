@@ -1,1 +1,1 @@
-var mnemonic = "doctor urge kick flag spike cotton fetch walnut cute attract oyster assist";
+var mnemonic = "barely between fade strong metal digital crystal dash abandon shell fall harsh";

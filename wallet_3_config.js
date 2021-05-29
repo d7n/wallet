@@ -1,1 +1,1 @@
-var mnemonic = "violin damage maple tattoo under marine rhythm jacket permit robust mind turn";
+var mnemonic = "fitness balance review shoe urban scale timber apology spice rare insane inject";

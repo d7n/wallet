@@ -1,1 +1,1 @@
-var mnemonic = "slow attack frozen solar huge visit album fade possible sugar visa fabric";
+var mnemonic = "siren ivory joke add together arrive lazy bid oval canvas column spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle midnight latin lounge mango found kick addict body energy pause wedding";
+var mnemonic = "wife dream tortoise rapid tattoo display captain indoor shop deny rude warfare";

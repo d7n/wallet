@@ -1,1 +1,1 @@
-var mnemonic = "laptop essence breeze pattern mimic puppy enlist boss dinner dream height cost";
+var mnemonic = "devote gesture skate opinion relax coil asset rubber suggest limit wet merit";

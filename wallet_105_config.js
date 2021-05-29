@@ -1,1 +1,1 @@
-var mnemonic = "priority kit typical wood want people album someone scout summer fork special";
+var mnemonic = "shock boil grow play balcony write labor eye code enlist foster finger";

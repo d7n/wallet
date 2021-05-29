@@ -1,1 +1,1 @@
-var mnemonic = "little surprise claw run render bitter arm open access filter negative idle";
+var mnemonic = "tree scheme moral satoshi carpet eager carry lottery hungry fine arena flock";

@@ -1,1 +1,1 @@
-var mnemonic = "divert fame crime slice miracle crystal fragile place note bench sustain vendor";
+var mnemonic = "echo together flush unfold grit busy brush champion panther survey excess capable";

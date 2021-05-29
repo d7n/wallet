@@ -1,1 +1,1 @@
-var mnemonic = "brisk coyote airport thrive cruise trip accident ship lucky soap any wild";
+var mnemonic = "noise copy buyer obey poverty extend rough chronic soldier enlist talk edge";

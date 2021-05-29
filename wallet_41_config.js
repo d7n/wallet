@@ -1,1 +1,1 @@
-var mnemonic = "demand fox other amused view hotel convince method task favorite idle magic";
+var mnemonic = "grab priority antenna spread warrior trend noise gift critic warm sail machine";

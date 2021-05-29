@@ -1,1 +1,1 @@
-var mnemonic = "fix excuse unaware surge reject member resist shock spin volcano together shed";
+var mnemonic = "topple pole gap cinnamon camp bring wasp rate push history stereo car";

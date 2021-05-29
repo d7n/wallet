@@ -1,1 +1,1 @@
-var mnemonic = "pole vault medal soap vanish problem dumb can cruise rebuild load spoil";
+var mnemonic = "student room vast honey soldier congress fever coach observe gain cargo category";

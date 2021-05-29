@@ -1,1 +1,1 @@
-var mnemonic = "fog canal satisfy hurdle cloud clean case lawn surround lunar torch pencil";
+var mnemonic = "traffic hammer clay oil suit emerge harsh empower magnet pigeon spell top";

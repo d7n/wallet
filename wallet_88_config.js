@@ -1,1 +1,1 @@
-var mnemonic = "demise worth knock warfare circle never observe cigar text height street remain";
+var mnemonic = "unit ribbon farm novel flame salon test ugly board leaf envelope color";

@@ -1,1 +1,1 @@
-var mnemonic = "cart spray surround time scout example aspect security plug measure talk high";
+var mnemonic = "lunch cage shoe north alert common mercy motion eye track accuse awful";
