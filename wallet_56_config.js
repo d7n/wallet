@@ -1,1 +1,1 @@
-var mnemonic = "merge rookie sight front artwork region lyrics hybrid truck noble vague fitness";
+var mnemonic = "pill drive sentence barrel injury jungle move nuclear lizard remove day cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich churn box destroy chase walnut kick sponsor airport under trash skill";
+var mnemonic = "empty rally obscure decorate grid jacket access stereo autumn chase album stool";

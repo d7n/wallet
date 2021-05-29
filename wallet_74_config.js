@@ -1,1 +1,1 @@
-var mnemonic = "ill wrestle real ice quality couch small skate express erase record panel";
+var mnemonic = "moment mesh check abandon agent slush train view major supreme episode fiber";

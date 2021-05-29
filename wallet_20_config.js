@@ -1,1 +1,1 @@
-var mnemonic = "humor survey idle enroll because direct tank blade cabbage muscle true donor";
+var mnemonic = "move hint neutral hockey mad wreck citizen scissors dinosaur orphan victory alter";

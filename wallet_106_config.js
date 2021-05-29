@@ -1,1 +1,1 @@
-var mnemonic = "chimney math gesture life save anchor outside trick involve sleep music card";
+var mnemonic = "false license video chapter shift quiz phrase truck input athlete scorpion public";

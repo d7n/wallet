@@ -1,1 +1,1 @@
-var mnemonic = "rib capable put august assume monkey digital foam knife sand pretty merge";
+var mnemonic = "squeeze pig token puppy drama remain exhibit wink display evidence zoo hurry";

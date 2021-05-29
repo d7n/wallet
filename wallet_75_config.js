@@ -1,1 +1,1 @@
-var mnemonic = "reflect token shield light arrange panther unaware curtain daughter clown month balance";
+var mnemonic = "culture bubble glove desert cricket age denial work swim talk affair subject";

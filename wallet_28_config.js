@@ -1,1 +1,1 @@
-var mnemonic = "mosquito artist shrug radio hospital valve announce session rich emerge body tooth";
+var mnemonic = "shuffle keep curve subject resource market series nut rule choice resource mean";

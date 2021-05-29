@@ -1,1 +1,1 @@
-var mnemonic = "dilemma jacket corn tomorrow split enact cruel buffalo misery subway hint source";
+var mnemonic = "grace vintage fury valve rice tonight inspire pipe valley tape attend cereal";

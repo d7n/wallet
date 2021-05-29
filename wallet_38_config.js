@@ -1,1 +1,1 @@
-var mnemonic = "slam industry segment afraid when pistol include live pull nature like expect";
+var mnemonic = "bring sheriff decrease gadget tape permit lounge carpet guard book jungle chief";

@@ -1,1 +1,1 @@
-var mnemonic = "simple weekend outdoor tide syrup leave demand siren clock young slide enact";
+var mnemonic = "width zoo benefit much adapt basic brain honey flag annual shove actress";

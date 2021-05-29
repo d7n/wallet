@@ -1,1 +1,1 @@
-var mnemonic = "side pottery bird oxygen pipe material desert trap spread bus satoshi crater";
+var mnemonic = "fresh genius quote lesson motion few address invite mad entry multiply fat";

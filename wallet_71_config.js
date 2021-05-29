@@ -1,1 +1,1 @@
-var mnemonic = "hazard stairs luggage velvet rib protect fuel silk edge thumb master sun";
+var mnemonic = "give round december easy few deny penalty sting kangaroo acoustic brain pig";

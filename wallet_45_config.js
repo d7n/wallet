@@ -1,1 +1,1 @@
-var mnemonic = "climb jungle unit skill learn casino indicate surround design burger era online";
+var mnemonic = "cook heavy miss thumb expect dance wave circle street mind talent claw";

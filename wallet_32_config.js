@@ -1,1 +1,1 @@
-var mnemonic = "winner order tree meat breeze hamster found envelope uphold velvet version brown";
+var mnemonic = "guitar prepare merry truth unaware regular window soup pen spirit humble kangaroo";

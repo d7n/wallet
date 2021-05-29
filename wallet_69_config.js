@@ -1,1 +1,1 @@
-var mnemonic = "visa toddler horror legal castle sense stage humble pencil proud friend risk";
+var mnemonic = "young lamp abstract lecture pigeon marine valid menu crush program force mosquito";

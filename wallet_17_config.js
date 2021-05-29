@@ -1,1 +1,1 @@
-var mnemonic = "piece detail seat gorilla bicycle idle sea april teach obey betray square";
+var mnemonic = "text same velvet various wrestle label slogan brown brand economy siren purpose";

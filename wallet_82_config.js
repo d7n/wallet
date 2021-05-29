@@ -1,1 +1,1 @@
-var mnemonic = "merge debate shed slab cheap almost forward permit alley ritual wasp love";
+var mnemonic = "crucial moment better tiny wrestle menu entry canyon moment top warrior weapon";

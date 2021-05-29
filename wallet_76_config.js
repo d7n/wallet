@@ -1,1 +1,1 @@
-var mnemonic = "force sure online glide alert episode rice select prefer wire amateur owner";
+var mnemonic = "major join desert ivory powder bacon hotel mushroom farm possible pull nut";

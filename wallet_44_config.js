@@ -1,1 +1,1 @@
-var mnemonic = "group misery diamond run glimpse clip peasant trend emerge turn autumn tornado";
+var mnemonic = "emotion pudding reform educate roof dry work raise prepare toy hawk search";

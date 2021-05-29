@@ -1,1 +1,1 @@
-var mnemonic = "tribe slow lounge cement pool neutral tone vast naive legend suit dismiss";
+var mnemonic = "maze build chapter canal ignore agent olive surface raccoon utility nothing comfort";

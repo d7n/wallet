@@ -1,1 +1,1 @@
-var mnemonic = "pitch black renew harbor thrive real tray note better radar pole drip";
+var mnemonic = "insect excess try thought cancel fabric pole toast wisdom number undo brave";

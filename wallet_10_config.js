@@ -1,1 +1,1 @@
-var mnemonic = "quarter jungle powder basic wide student ridge stage elder clip license prefer";
+var mnemonic = "monster coach aunt eye proof clarify flight split wisdom position column judge";

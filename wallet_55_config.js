@@ -1,1 +1,1 @@
-var mnemonic = "kick escape detect lens high diesel hunt fit daring churn cry muffin";
+var mnemonic = "pulse lizard author surge tone army ten odor fix head then onion";

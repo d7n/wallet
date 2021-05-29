@@ -1,1 +1,1 @@
-var mnemonic = "mixture recycle trim blanket armor town media frame year poet bargain ring";
+var mnemonic = "stage jungle fashion alley rent mercy raccoon clip cross alter estate pigeon";

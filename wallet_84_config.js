@@ -1,1 +1,1 @@
-var mnemonic = "tiger tag trumpet army smile field come basic inspire link nice voyage";
+var mnemonic = "emerge solar naive material journey loud era rabbit resist erupt fee expose";

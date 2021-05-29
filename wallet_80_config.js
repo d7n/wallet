@@ -1,1 +1,1 @@
-var mnemonic = "shiver brisk sort hat lend blood atom board unable model gun fun";
+var mnemonic = "machine trouble gas client online only track cruel illness joke float limit";

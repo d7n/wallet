@@ -1,1 +1,1 @@
-var mnemonic = "neck uniform tackle hard faculty glimpse glare share essay page boost bike";
+var mnemonic = "caution fluid teach symbol observe toy lock assault special true also that";

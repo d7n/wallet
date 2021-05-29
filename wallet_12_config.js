@@ -1,1 +1,1 @@
-var mnemonic = "proud tennis disagree try math middle economy oval ridge point frown perfect";
+var mnemonic = "catalog female acquire gain erase resist kitchen imitate entry great around person";

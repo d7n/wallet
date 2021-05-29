@@ -1,1 +1,1 @@
-var mnemonic = "misery author link tuna hello wasp popular own affair duty cereal lizard";
+var mnemonic = "abandon village cream salad crazy image lens fatigue nest radar whip apple";

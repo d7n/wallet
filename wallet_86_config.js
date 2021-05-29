@@ -1,1 +1,1 @@
-var mnemonic = "draft apart consider umbrella autumn erase vote candy genre message inmate error";
+var mnemonic = "marble between enable side bacon future photo mountain enforce bus online unknown";

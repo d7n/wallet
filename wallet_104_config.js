@@ -1,1 +1,1 @@
-var mnemonic = "round vacuum duty focus interest slice wolf kidney carpet mask duty another";
+var mnemonic = "cheese genius jewel ethics tail float this violin rate fan clay network";

@@ -1,1 +1,1 @@
-var mnemonic = "escape tourist sniff ill half nut grid answer advance tuition leader blouse";
+var mnemonic = "cement person obvious student pitch photo wedding actress jacket equal domain fantasy";

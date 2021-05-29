@@ -1,1 +1,1 @@
-var mnemonic = "call trap smooth usual cover miracle buzz join reject toward vacuum kingdom";
+var mnemonic = "bid guard zero film brass aware intact power marriage fever clinic similar";

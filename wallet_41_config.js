@@ -1,1 +1,1 @@
-var mnemonic = "industry model title reject claw mercy season tool wasp essay that suffer";
+var mnemonic = "lift portion fall isolate soon story floor system buffalo evidence off rotate";

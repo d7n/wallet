@@ -1,1 +1,1 @@
-var mnemonic = "like exile innocent ready hammer loan bomb reward toilet art door enough";
+var mnemonic = "scissors genius this expand north phone dune dial dream globe build trick";

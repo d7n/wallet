@@ -1,1 +1,1 @@
-var mnemonic = "fork grace disorder syrup remind hamster border volume senior abandon favorite basic";
+var mnemonic = "page turtle outside hold correct pipe elevator muscle beauty ill nurse focus";

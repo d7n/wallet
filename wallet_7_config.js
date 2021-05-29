@@ -1,1 +1,1 @@
-var mnemonic = "curve elite planet soldier okay between absurd abuse drift weapon expose talk";
+var mnemonic = "weather coral quiz budget expose relief purse bless benefit waste eight amused";

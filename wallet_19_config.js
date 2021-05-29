@@ -1,1 +1,1 @@
-var mnemonic = "desk human athlete humble swallow finish body enact chaos clutch infant soccer";
+var mnemonic = "fetch fat side fashion payment autumn window mandate skirt fury dilemma pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado armed daring accident rack earth kangaroo ceiling moon illegal surround math";
+var mnemonic = "office harvest fold toilet glory raven juice invest spider enhance clinic ready";

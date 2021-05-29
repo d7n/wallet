@@ -1,1 +1,1 @@
-var mnemonic = "sock select script neither ranch giggle voyage deal image glad battle intact";
+var mnemonic = "quiz caught grace road little core session fragile country source december sword";

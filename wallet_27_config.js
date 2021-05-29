@@ -1,1 +1,1 @@
-var mnemonic = "luxury alert people eager auto depart engage trophy morning used then staff";
+var mnemonic = "raw position adjust comfort trumpet flag runway arrow cousin finger belt turn";

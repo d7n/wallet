@@ -1,1 +1,1 @@
-var mnemonic = "vital only odor tribe primary random fox skate connect horn business rocket";
+var mnemonic = "tissue turtle uncle excite wolf mouse cousin will brother squeeze relief involve";

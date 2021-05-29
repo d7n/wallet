@@ -1,1 +1,1 @@
-var mnemonic = "ancient betray remember gap dial cannon history shiver boring upgrade spell law";
+var mnemonic = "fire uncle tuna lend inspire wet marine leave input soldier unhappy another";

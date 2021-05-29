@@ -1,1 +1,1 @@
-var mnemonic = "pyramid enlist talk asthma steak wasp patrol stairs output wing bag train";
+var mnemonic = "stay stamp prevent fit fiscal broom seven chief myself eagle market measure";

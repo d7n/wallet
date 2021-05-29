@@ -1,1 +1,1 @@
-var mnemonic = "whale improve great cheap what juice divide husband giant walk heart current";
+var mnemonic = "pull fiction anchor vacant tobacco absurd transfer dial assist pear script cube";

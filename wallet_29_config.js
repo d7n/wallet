@@ -1,1 +1,1 @@
-var mnemonic = "awkward code stay list stairs song wedding next bridge head fold design";
+var mnemonic = "hockey exhibit fade cancel stuff public celery husband swing judge noise breeze";

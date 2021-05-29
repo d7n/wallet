@@ -1,1 +1,1 @@
-var mnemonic = "rabbit fetch pelican bright parade oven post sugar guitar that earth habit";
+var mnemonic = "chaos liquid limb car monkey between slogan pass caution patient slab oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "proof rubber sadness chuckle brush option anger fiction useful alpha distance behave";
+var mnemonic = "cage thumb limb orchard turtle swap august country width glad crew sudden";

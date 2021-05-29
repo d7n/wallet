@@ -1,1 +1,1 @@
-var mnemonic = "snow screen divert aspect drink catalog word venue pigeon slender dwarf erode";
+var mnemonic = "cancel sport brick void west spawn admit body unique network west tourist";

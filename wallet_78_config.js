@@ -1,1 +1,1 @@
-var mnemonic = "dance curious magic hybrid wine oak cheese clown film vanish saddle hill";
+var mnemonic = "dragon minor impact lady rally before mirror flat market proof step slice";

@@ -1,1 +1,1 @@
-var mnemonic = "face tobacco genius fashion river replace gas basket safe town course crack";
+var mnemonic = "athlete edge enrich praise common hurt gown alert flight budget depend cycle";

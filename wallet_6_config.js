@@ -1,1 +1,1 @@
-var mnemonic = "fine option miracle rack jar wink dynamic fiber organ icon buyer glass";
+var mnemonic = "guilt virus tip deliver bright brass scout dream kingdom express menu blouse";

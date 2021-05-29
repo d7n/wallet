@@ -1,1 +1,1 @@
-var mnemonic = "whisper embark silent orbit grass manual fortune illegal aim man empower sponsor";
+var mnemonic = "cliff ski pig gravity blouse neck brain cloth axis young erupt scare";

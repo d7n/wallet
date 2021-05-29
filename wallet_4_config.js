@@ -1,1 +1,1 @@
-var mnemonic = "enact town crane giant captain tennis undo rice alone jar face doll";
+var mnemonic = "shrug panda wasp thumb spring next flame gap little breeze delay spider";

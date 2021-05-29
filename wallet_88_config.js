@@ -1,1 +1,1 @@
-var mnemonic = "seminar drift execute argue arrange shrug chase bubble humble shoulder iron enter";
+var mnemonic = "cushion cook moral egg response rule pole giraffe solid guard carbon note";

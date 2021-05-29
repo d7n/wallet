@@ -1,1 +1,1 @@
-var mnemonic = "output eternal nominee sound bean loyal lunch extra despair tool rule just";
+var mnemonic = "own august crash again model erosion dove stick cinnamon student uncover nothing";

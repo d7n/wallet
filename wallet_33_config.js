@@ -1,1 +1,1 @@
-var mnemonic = "salad cliff mix genuine people orient sibling distance initial morning lawsuit popular";
+var mnemonic = "gym charge half upper settle tissue trim embark bike auction cherry move";

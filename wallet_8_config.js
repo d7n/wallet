@@ -1,1 +1,1 @@
-var mnemonic = "deal gravity soccer common order rib robust mouse erode marble tourist luxury";
+var mnemonic = "angle web glow clay salon winter deputy ribbon excuse universe endorse blush";

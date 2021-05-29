@@ -1,1 +1,1 @@
-var mnemonic = "olympic fury fade grace chalk elder rose early neither still artefact trick";
+var mnemonic = "ribbon hand notice acid maze input require blanket empower idle fun token";

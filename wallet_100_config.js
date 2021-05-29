@@ -1,1 +1,1 @@
-var mnemonic = "staff half spoil size hurdle nation inherit release model blast chest plate";
+var mnemonic = "have portion walk resource private together cream deny agree task laptop wasp";

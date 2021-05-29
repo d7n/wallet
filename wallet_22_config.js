@@ -1,1 +1,1 @@
-var mnemonic = "main grab bridge forget such dirt veteran danger coyote chicken heart perfect";
+var mnemonic = "fever simple estate track fitness cram ginger puzzle sick fatal bacon design";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy refuse winter air mom fat vintage divide bomb fade engine action";
+var mnemonic = "add resist copper embark cable lonely dignity staff pact pear unusual update";

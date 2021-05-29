@@ -1,1 +1,1 @@
-var mnemonic = "mosquito grief misery credit disagree used defy brief roast south program hybrid";
+var mnemonic = "ketchup transfer visit mutual baby arch shoot custom broccoli syrup bird whale";

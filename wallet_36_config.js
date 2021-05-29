@@ -1,1 +1,1 @@
-var mnemonic = "ketchup hotel clever scatter mercy mercy tiny minor future fossil dizzy suspect";
+var mnemonic = "split pond sell movie genuine gold trick bike grief bomb almost bless";

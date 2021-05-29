@@ -1,1 +1,1 @@
-var mnemonic = "choose brand desert empower bike pluck inch auction prefer monkey match type";
+var mnemonic = "mesh wall tiny credit change wire curious divide chalk raise apology swift";

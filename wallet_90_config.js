@@ -1,1 +1,1 @@
-var mnemonic = "reject smooth judge hip day wink belt car shoot blade waste stock";
+var mnemonic = "focus control pulse bind broccoli spy high exercise basic quote wish eight";

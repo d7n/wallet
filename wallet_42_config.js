@@ -1,1 +1,1 @@
-var mnemonic = "luxury country average agree peasant pause produce fold unknown donkey social pencil";
+var mnemonic = "mask segment ask double sand guilt garlic warm crunch vault ordinary nation";

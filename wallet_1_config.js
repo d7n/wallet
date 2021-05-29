@@ -1,1 +1,1 @@
-var mnemonic = "coast cry jar kingdom one split dinner base cave ice party alley";
+var mnemonic = "chapter fork exhaust family universe floor key later crew pledge hurt mule";

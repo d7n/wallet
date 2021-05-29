@@ -1,1 +1,1 @@
-var mnemonic = "number shallow fluid subject vicious draw marine addict soft display laundry sense";
+var mnemonic = "brother excess sugar pet brass find dismiss summer brand treat emerge fold";

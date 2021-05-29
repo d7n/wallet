@@ -1,1 +1,1 @@
-var mnemonic = "suit state surge evidence salad tower mystery spot tent unfair trouble boat";
+var mnemonic = "rifle suffer regret envelope breeze one exile sing recycle humble drop wide";

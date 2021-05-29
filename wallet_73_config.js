@@ -1,1 +1,1 @@
-var mnemonic = "unable program alley various another armor increase mechanic hammer six festival fly";
+var mnemonic = "motion image practice order wish again wisdom vote talent connect destroy awful";

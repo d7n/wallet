@@ -1,1 +1,1 @@
-var mnemonic = "pill ceiling half volume monkey furnace impulse differ worth vacuum absurd aim";
+var mnemonic = "first manual obscure domain note boring correct liberty sort knock swap inspire";

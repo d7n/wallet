@@ -1,1 +1,1 @@
-var mnemonic = "false olympic anxiety return hospital multiply human cannon glove mobile mule pear";
+var mnemonic = "bar catch bonus shrug empower beyond uphold fence turkey milk idea wonder";

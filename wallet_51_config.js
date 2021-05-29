@@ -1,1 +1,1 @@
-var mnemonic = "stick flame skull unhappy balance beef medal country enable sand crumble friend";
+var mnemonic = "deny deny matter layer genius radio kiss replace bid clown lottery taxi";

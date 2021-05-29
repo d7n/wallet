@@ -1,1 +1,1 @@
-var mnemonic = "curve horse hill sing era finger always push skirt around profit immense";
+var mnemonic = "original wet genius club gain debris endless believe hammer juice garbage nothing";

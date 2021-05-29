@@ -1,1 +1,1 @@
-var mnemonic = "fresh enough lake iron degree prize upgrade ugly apart prefer pattern supreme";
+var mnemonic = "voice clump tomorrow bomb rely design survey oven fat duck nephew prefer";

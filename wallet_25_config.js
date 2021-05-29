@@ -1,1 +1,1 @@
-var mnemonic = "miss tunnel bulk drink tilt march trade guitar tone shove antenna moon";
+var mnemonic = "breeze goddess potato interest flavor submit fringe firm knee work wood piano";

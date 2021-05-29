@@ -1,1 +1,1 @@
-var mnemonic = "cloth leader stock price gossip vessel distance bid switch media female skate";
+var mnemonic = "denial season stadium resemble celery ill balcony practice spoil toast indicate project";

@@ -1,1 +1,1 @@
-var mnemonic = "soda ancient flat arm peanut puzzle rabbit tourist genius opinion culture tiny";
+var mnemonic = "library chaos kidney like conduct oak firm above actress royal stand super";

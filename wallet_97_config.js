@@ -1,1 +1,1 @@
-var mnemonic = "bargain people tent wisdom piece review slow nose indicate soap only play";
+var mnemonic = "lucky blame injury modify chief volume physical stone actress rally portion buddy";

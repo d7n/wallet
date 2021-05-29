@@ -1,1 +1,1 @@
-var mnemonic = "mimic skill tired limb fiction mobile isolate decorate frame dilemma column abandon";
+var mnemonic = "whale aisle switch tissue first hurdle donkey staff allow game again jungle";

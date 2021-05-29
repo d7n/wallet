@@ -1,1 +1,1 @@
-var mnemonic = "royal nothing globe tiny idle world wine shield simple portion reveal hub";
+var mnemonic = "evoke laundry still ridge roast exotic dad lesson palm angry gaze athlete";

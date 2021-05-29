@@ -1,1 +1,1 @@
-var mnemonic = "into punch buzz derive garlic option response flee chest anxiety leaf oval";
+var mnemonic = "garbage cram endorse bike obey today sense crawl arrow dutch stable adapt";

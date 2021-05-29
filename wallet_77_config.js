@@ -1,1 +1,1 @@
-var mnemonic = "upon office balcony nice oil tooth grit before subject little vital cute";
+var mnemonic = "try crawl busy put mirror treat glide black rent climb idea negative";

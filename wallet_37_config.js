@@ -1,1 +1,1 @@
-var mnemonic = "erase winter rail cabin lizard cheap target estate advice whale grit cube";
+var mnemonic = "dignity dutch employ mango reject river three amount dynamic train foot park";

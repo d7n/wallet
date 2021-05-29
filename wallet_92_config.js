@@ -1,1 +1,1 @@
-var mnemonic = "deer unable mimic balcony lottery fish recycle novel siren minor mass skill";
+var mnemonic = "transfer start chicken ski clip half knife valid mask pretty seat slender";

@@ -1,1 +1,1 @@
-var mnemonic = "riot matrix vague cement rate that impact riot recipe mule tired coconut";
+var mnemonic = "average voyage garbage chicken soup deposit inspire what paper squirrel elder shift";

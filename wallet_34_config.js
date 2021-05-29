@@ -1,1 +1,1 @@
-var mnemonic = "shuffle dinosaur bleak hello group hamster blossom carbon acid scan frost phone";
+var mnemonic = "change air stage tonight surface tragic search similar silent machine couple heavy";

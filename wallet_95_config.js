@@ -1,1 +1,1 @@
-var mnemonic = "foam lunch hollow example crunch scout trade hazard issue tobacco design cost";
+var mnemonic = "gentle rookie stool sword antique culture glove spirit eagle sun soap unaware";

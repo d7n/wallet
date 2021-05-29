@@ -1,1 +1,1 @@
-var mnemonic = "wink gauge gadget unusual march hidden witness patrol vacant alert thumb hope";
+var mnemonic = "victory decline produce hobby kingdom season plunge scatter coin few vendor shed";

@@ -1,1 +1,1 @@
-var mnemonic = "siege aisle aunt rug foster kidney mammal inside label wait margin door";
+var mnemonic = "vicious armor purpose kid stadium syrup dolphin jungle mom obtain coach illness";

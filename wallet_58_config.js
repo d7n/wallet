@@ -1,1 +1,1 @@
-var mnemonic = "grocery laundry jar february suit waste poem brother they avoid huge odor";
+var mnemonic = "absent clock desk border reopen promote parrot possible page swap notice fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "stick lady position lemon adjust excess ready isolate achieve light crawl venue";
+var mnemonic = "assault hotel divorce motion place barely unable speak velvet mixed rifle rather";

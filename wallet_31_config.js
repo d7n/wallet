@@ -1,1 +1,1 @@
-var mnemonic = "canal treat ginger feel this love nerve salute crop under curious half";
+var mnemonic = "jazz tennis clap around plunge force float rival sick excuse omit fortune";
