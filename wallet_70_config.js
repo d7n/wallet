@@ -1,1 +1,1 @@
-var mnemonic = "exotic bid domain box remove edge fitness reflect december recycle opera faculty";
+var mnemonic = "aim open master fence super lizard gather angry enable usage opinion jealous";

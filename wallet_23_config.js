@@ -1,1 +1,1 @@
-var mnemonic = "topic resist stem phone system paddle chunk pioneer excite desk name vicious";
+var mnemonic = "stay jump lens alter column age antique volume together fit train sentence";

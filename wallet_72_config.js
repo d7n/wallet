@@ -1,1 +1,1 @@
-var mnemonic = "shock author hold shoulder method public badge reveal myself region load disease";
+var mnemonic = "close anxiety salon clay flight blind mango gadget lizard clutch during syrup";

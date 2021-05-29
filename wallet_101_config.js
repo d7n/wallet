@@ -1,1 +1,1 @@
-var mnemonic = "afford emerge stuff century glory misery fatal guide doll worth cactus someone";
+var mnemonic = "frog essence mobile ridge quality delay escape bulk elevator already grit enough";

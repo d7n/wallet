@@ -1,1 +1,1 @@
-var mnemonic = "country average payment wagon woman salad effort bean elder orchard tuna mercy";
+var mnemonic = "spider timber galaxy round pistol congress ocean impulse critic cruel car security";

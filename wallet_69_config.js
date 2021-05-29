@@ -1,1 +1,1 @@
-var mnemonic = "drastic spirit know forest choose dwarf dance genuine banana moral device thrive";
+var mnemonic = "goddess cloth stereo equal gaze frown word shaft weasel suspect excite flip";

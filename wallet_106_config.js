@@ -1,1 +1,1 @@
-var mnemonic = "finish learn only decorate much mesh affair universe issue lunch cause farm";
+var mnemonic = "advance february test gesture champion turtle ranch exclude unknown fitness engine whip";

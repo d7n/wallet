@@ -1,1 +1,1 @@
-var mnemonic = "grab slow volcano kitchen prevent penalty capable member subway anxiety blanket cricket";
+var mnemonic = "gorilla crumble segment leave nerve utility coach bacon drastic warm welcome virus";

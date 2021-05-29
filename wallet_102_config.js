@@ -1,1 +1,1 @@
-var mnemonic = "hub robot suffer rapid calm exit oval purpose current razor clerk reason";
+var mnemonic = "little sniff power demand employ glide forward guess boring garden assume angry";

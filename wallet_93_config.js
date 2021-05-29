@@ -1,1 +1,1 @@
-var mnemonic = "grab aunt menu melody cry skate electric broken jaguar pyramid meadow human";
+var mnemonic = "pupil program pledge point utility jeans crime board label axis chest slice";

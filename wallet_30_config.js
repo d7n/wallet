@@ -1,1 +1,1 @@
-var mnemonic = "during unfair insane bar near solid topic rebel oven border light own";
+var mnemonic = "green teach spray cancel charge bean rapid moment scare pepper infant inspire";

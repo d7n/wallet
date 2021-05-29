@@ -1,1 +1,1 @@
-var mnemonic = "crush into breeze friend option open grass used fitness flight police baby";
+var mnemonic = "skin soul road safe ensure teach visual always region month record rug";

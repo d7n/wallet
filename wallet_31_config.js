@@ -1,1 +1,1 @@
-var mnemonic = "coil cube surface crunch clump ivory accuse calm air february piano earth";
+var mnemonic = "whip level universe shoot guard shallow sudden media fetch access nasty bread";

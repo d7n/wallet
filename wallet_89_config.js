@@ -1,1 +1,1 @@
-var mnemonic = "senior limit funny fog veteran olive open nation indicate rebuild mobile twelve";
+var mnemonic = "noodle breeze corn dial group tape pause rack strategy slam purity silly";

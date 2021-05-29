@@ -1,1 +1,1 @@
-var mnemonic = "return love arrest cargo series silent six element work kind gauge mad";
+var mnemonic = "liar turkey vapor dolphin march limit suffer tomato fitness pool gain click";

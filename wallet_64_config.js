@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow pact wisdom success amused aerobic gaze unlock wrong nose lion frequent";
+var mnemonic = "unusual flee mind jazz melody neutral plate hope loud diesel fox climb";

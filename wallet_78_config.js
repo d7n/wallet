@@ -1,1 +1,1 @@
-var mnemonic = "sting marine series page profit remind fatigue sauce logic mutual shield supply";
+var mnemonic = "bomb absent face crane wolf torch general gauge soldier know country abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "private sure normal ribbon pottery mixture hair tree object fancy trim buzz";
+var mnemonic = "choose keep admit oval butter dilemma village same report begin federal they";

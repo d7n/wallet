@@ -1,1 +1,1 @@
-var mnemonic = "release tortoise rabbit bitter gas wear toast mean hawk trigger sample frown";
+var mnemonic = "merry tent advance limb cloud auto chalk ginger frost become seminar coast";

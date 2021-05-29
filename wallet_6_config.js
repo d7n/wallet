@@ -1,1 +1,1 @@
-var mnemonic = "cupboard forest apology fault plug expand chest document also win kiwi middle";
+var mnemonic = "orchard example fossil surge once need tide excess worry strategy final tiger";

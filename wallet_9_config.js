@@ -1,1 +1,1 @@
-var mnemonic = "raven current betray rally kangaroo crew grab man loyal cup crane tragic";
+var mnemonic = "vehicle throw rebuild goat lab number unfold desert spare jump sell midnight";

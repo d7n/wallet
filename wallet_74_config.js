@@ -1,1 +1,1 @@
-var mnemonic = "kit brief fiction tank pudding crystal sister glow aware sad ride increase";
+var mnemonic = "harvest arrow hat elegant bone foam invest they width present rabbit snake";

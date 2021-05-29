@@ -1,1 +1,1 @@
-var mnemonic = "tuna butter armor tuna fashion rally festival consider lonely predict inspire conduct";
+var mnemonic = "convince train neutral put finish skill learn prepare captain awkward cash color";

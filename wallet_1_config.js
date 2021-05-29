@@ -1,1 +1,1 @@
-var mnemonic = "cigar dad damp private grant online power leaf chair garden gospel meat";
+var mnemonic = "rebel minute cradle fluid round rug wait action aware shaft nose inflict";

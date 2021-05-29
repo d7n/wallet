@@ -1,1 +1,1 @@
-var mnemonic = "solar fashion velvet appear amateur blade cricket test session arrest lemon region";
+var mnemonic = "side kitten rack act obscure amount anchor witness object rack pause wife";

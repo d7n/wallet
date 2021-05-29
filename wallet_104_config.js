@@ -1,1 +1,1 @@
-var mnemonic = "robot basic clutch way sudden blossom first arrest family artefact reveal buffalo";
+var mnemonic = "scatter noble funny ignore basket bright survey slogan arrest effort identify laptop";

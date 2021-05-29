@@ -1,1 +1,1 @@
-var mnemonic = "canal employ amazing coin crisp peasant delay wing easy hub chuckle knock";
+var mnemonic = "idle what final govern aunt robust wisdom hedgehog next family maximum lamp";

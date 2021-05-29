@@ -1,1 +1,1 @@
-var mnemonic = "ten arena garlic hope inspire evolve correct soap image season zero lecture";
+var mnemonic = "purity goose clock tank steak library coil giggle insane cereal also wet";

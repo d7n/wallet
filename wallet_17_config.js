@@ -1,1 +1,1 @@
-var mnemonic = "finger dinner steak economy advice sail ignore biology slot inherit reform inject";
+var mnemonic = "equip ozone street acid motor enemy filter teach trade waste card nut";

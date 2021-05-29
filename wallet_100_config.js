@@ -1,1 +1,1 @@
-var mnemonic = "satoshi region vanish armor tip meadow mistake craft visit strike screen robust";
+var mnemonic = "cool mouse melody often point pair image feel appear forum illegal educate";

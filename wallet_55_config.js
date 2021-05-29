@@ -1,1 +1,1 @@
-var mnemonic = "wedding bag label illness mind double destroy various obtain width lava armed";
+var mnemonic = "reopen dilemma together guilt wrestle snow boat peace fan catalog ship sell";

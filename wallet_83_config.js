@@ -1,1 +1,1 @@
-var mnemonic = "worry absurd major shift all rural lawn quantum also horn swap wonder";
+var mnemonic = "domain find panic forest unknown sentence gloom neutral winner jungle tonight video";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing pause bargain attitude upset lock region book hub level loyal pilot";
+var mnemonic = "pulp still symptom float trend sentence word erase shove doctor peasant cost";

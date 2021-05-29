@@ -1,1 +1,1 @@
-var mnemonic = "repair before faint absent elder fine wrist vital give hotel supreme hint";
+var mnemonic = "surge woman plug noodle elephant recipe hotel news tell amazing grid head";

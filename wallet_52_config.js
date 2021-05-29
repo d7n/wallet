@@ -1,1 +1,1 @@
-var mnemonic = "elder staff edge another melody grape pluck solar history palace hope budget";
+var mnemonic = "ship swift wheel shock witness assault roof float when bench gentle nerve";

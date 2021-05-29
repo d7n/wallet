@@ -1,1 +1,1 @@
-var mnemonic = "occur dish sister vessel divide trumpet window recall captain air guilt worth";
+var mnemonic = "trim sad degree borrow shoulder hen dismiss zoo float dirt damage increase";

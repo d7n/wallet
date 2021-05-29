@@ -1,1 +1,1 @@
-var mnemonic = "display stumble away journey rare tree artefact absurd join orange chapter hamster";
+var mnemonic = "diamond mushroom royal either mass minute arctic direct pond museum charge blind";

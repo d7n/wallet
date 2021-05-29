@@ -1,1 +1,1 @@
-var mnemonic = "slim ecology poet shadow seat twist fame silly speed minimum outside iron";
+var mnemonic = "decade link machine wait bread small uphold rigid olympic cradle spend noble";

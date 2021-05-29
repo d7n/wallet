@@ -1,1 +1,1 @@
-var mnemonic = "crush reform forest ramp piece rack boy gun ozone yellow tunnel when";
+var mnemonic = "govern slot lamp dad gadget fun party stairs news before tell flash";

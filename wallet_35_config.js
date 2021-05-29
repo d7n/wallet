@@ -1,1 +1,1 @@
-var mnemonic = "egg school right midnight alter boil swim busy monitor found rate mesh";
+var mnemonic = "deny ripple crew canoe spring present force try typical over slim faint";

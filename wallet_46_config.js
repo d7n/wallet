@@ -1,1 +1,1 @@
-var mnemonic = "solution develop stay fame fuel resource force chaos dice require pulse recycle";
+var mnemonic = "ketchup expire property hint limit reunion merge churn save deposit crash luxury";

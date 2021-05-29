@@ -1,1 +1,1 @@
-var mnemonic = "bottom modify high soft demise ketchup calm original prize census primary night";
+var mnemonic = "head strike quality opinion enforce armed tragic hen garage violin arrest plastic";

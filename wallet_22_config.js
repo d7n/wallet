@@ -1,1 +1,1 @@
-var mnemonic = "party sting budget stuff bird stadium year inmate echo labor zero kingdom";
+var mnemonic = "penalty genius cradle fresh half soap mouse text pottery subway kitchen walk";

@@ -1,1 +1,1 @@
-var mnemonic = "rose verify stumble system torch doll direct frown source amused canyon sibling";
+var mnemonic = "bright brick false umbrella shell visual update uniform always baby silk hold";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion around accident cube radio battle when clump matrix slogan budget balcony";
+var mnemonic = "surface glad avocado liar cluster then share iron ski excess witness fiction";

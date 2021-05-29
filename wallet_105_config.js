@@ -1,1 +1,1 @@
-var mnemonic = "library recall south spoon organ certain diagram found hobby burden color furnace";
+var mnemonic = "feel curve episode raven alien deny leader subway spider ball throw auction";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey quote fetch artist depend kangaroo wide tag move science skull pistol";
+var mnemonic = "use feed require march diary stumble portion circle snake meat gloom blossom";

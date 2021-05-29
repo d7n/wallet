@@ -1,1 +1,1 @@
-var mnemonic = "repair drink glove woman harvest near dove art drill bus stick wrist";
+var mnemonic = "horn hotel bulk between hospital load dismiss genre task job doctor income";

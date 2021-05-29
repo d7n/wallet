@@ -1,1 +1,1 @@
-var mnemonic = "stool borrow tank advice total grow dance smoke jaguar unable napkin system";
+var mnemonic = "agent bitter make wage very cool crater thumb alter menu kitten matter";

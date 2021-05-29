@@ -1,1 +1,1 @@
-var mnemonic = "mansion potato build snap field doll agree help jealous embark venture envelope";
+var mnemonic = "skin elegant visit shoot matter aisle orphan stairs congress attack solar exhibit";

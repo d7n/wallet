@@ -1,1 +1,1 @@
-var mnemonic = "shoulder luggage pelican keen exchange myself snack pride state glimpse immune blast";
+var mnemonic = "sorry venue work keen loyal void lazy clerk gift bike inform three";

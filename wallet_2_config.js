@@ -1,1 +1,1 @@
-var mnemonic = "lecture try book oyster kind dismiss smile glass frown lobster energy artwork";
+var mnemonic = "surround dirt whisper enrich bomb enhance one naive domain noise index spread";

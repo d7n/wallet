@@ -1,1 +1,1 @@
-var mnemonic = "brick wall anger chicken they smart busy garden call supply boil gap";
+var mnemonic = "coil vacant orbit large oppose upper vocal novel shaft media umbrella region";

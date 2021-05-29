@@ -1,1 +1,1 @@
-var mnemonic = "main pave solve float trigger glass genre iron canyon crystal couple leopard";
+var mnemonic = "lake apple agree double foster indoor hour furnace pill broccoli oppose drama";

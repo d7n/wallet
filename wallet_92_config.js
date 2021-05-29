@@ -1,1 +1,1 @@
-var mnemonic = "wear eternal when crush panel replace echo second father panther scan hover";
+var mnemonic = "table attitude another prison thank screen foil riot soup ghost horn snap";

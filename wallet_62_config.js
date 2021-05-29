@@ -1,1 +1,1 @@
-var mnemonic = "unveil airport cannon fun speed will hole arctic artist shine scatter ocean";
+var mnemonic = "harbor slow actor health write total medal east horn theme erosion torch";

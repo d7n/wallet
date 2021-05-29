@@ -1,1 +1,1 @@
-var mnemonic = "organ health kite kid unknown shift talk barrel exchange drive act enough";
+var mnemonic = "reopen genius quick dinner friend swamp domain mobile street slush dinosaur snow";

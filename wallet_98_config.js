@@ -1,1 +1,1 @@
-var mnemonic = "end dream aisle sand edge card pause hollow shallow tiny legal kangaroo";
+var mnemonic = "helmet tornado mango cash object friend vintage wide near inquiry tail remove";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich receive census mimic increase sign hundred assist myth boy venue picnic";
+var mnemonic = "tobacco wisdom lizard post penalty weekend find prevent lazy salt enrich surface";

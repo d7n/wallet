@@ -1,1 +1,1 @@
-var mnemonic = "unveil blur vocal online day spring slight wink feature entire spirit ceiling";
+var mnemonic = "flee become motor love dinosaur level tenant beef parent reveal attitude ivory";

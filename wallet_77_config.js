@@ -1,1 +1,1 @@
-var mnemonic = "dolphin system acoustic guide sketch lens zone recipe parade mammal reject few";
+var mnemonic = "embody random soul cook output salon cargo cry already tuna aware later";

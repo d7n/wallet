@@ -1,1 +1,1 @@
-var mnemonic = "vapor settle deliver release weekend fantasy wool fuel fire enforce minimum supply";
+var mnemonic = "vague use banner crumble piano gas muffin mercy sorry try vocal unit";

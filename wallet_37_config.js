@@ -1,1 +1,1 @@
-var mnemonic = "second anchor hair what useless reunion envelope episode park promote satoshi crack";
+var mnemonic = "girl fragile era shrimp then crunch advice kick math jump merge enrich";

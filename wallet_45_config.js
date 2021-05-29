@@ -1,1 +1,1 @@
-var mnemonic = "custom city pass review melt desert bomb seminar parrot manual anger fragile";
+var mnemonic = "describe critic mirror copy stamp swim volcano balance swap device rack river";

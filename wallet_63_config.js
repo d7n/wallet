@@ -1,1 +1,1 @@
-var mnemonic = "miracle blanket cheese ring salon lens change holiday forget empty rebel search";
+var mnemonic = "exhibit economy stay pluck riot glide clerk sleep inhale stuff alley tiny";

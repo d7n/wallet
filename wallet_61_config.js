@@ -1,1 +1,1 @@
-var mnemonic = "rural random dose best fashion direct junior priority tooth wet drop congress";
+var mnemonic = "grace track eagle fit slim umbrella enough dance enjoy spy tiny lady";

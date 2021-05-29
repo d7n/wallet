@@ -1,1 +1,1 @@
-var mnemonic = "art goose food wine endless first alarm six fetch book borrow oblige";
+var mnemonic = "tornado memory language useful steel void prize depend cream fine fuel post";

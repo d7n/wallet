@@ -1,1 +1,1 @@
-var mnemonic = "inspire drum ladder hazard struggle deputy carbon manual curtain person talent coffee";
+var mnemonic = "corn room you around embody beach urge stuff spring exercise language moral";

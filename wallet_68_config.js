@@ -1,1 +1,1 @@
-var mnemonic = "angle train town knee orphan desk length injury remind put silent bridge";
+var mnemonic = "weird venture fabric clarify pudding age fury thumb nerve evolve coast phone";

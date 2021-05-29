@@ -1,1 +1,1 @@
-var mnemonic = "jungle ostrich toy cargo hello gym math pudding mansion jewel awful also";
+var mnemonic = "fish jewel focus yard above bus adult defy receive type student drop";

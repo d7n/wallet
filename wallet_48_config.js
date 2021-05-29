@@ -1,1 +1,1 @@
-var mnemonic = "scare shove yard pen roast sand female motion above mimic canvas route";
+var mnemonic = "uncover suggest peasant whisper buzz target elbow mammal garbage rely surface predict";

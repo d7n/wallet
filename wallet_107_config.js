@@ -1,1 +1,1 @@
-var mnemonic = "mean evoke better ivory ride under baby east disagree denial coral own";
+var mnemonic = "twin dad kiwi message uphold fringe extra blood wrestle mutual denial cart";

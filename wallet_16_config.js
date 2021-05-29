@@ -1,1 +1,1 @@
-var mnemonic = "keen afraid noble blade system brass inmate rhythm vacuum tail icon pill";
+var mnemonic = "wood chat praise core pulp pause regular display stuff note donor blade";

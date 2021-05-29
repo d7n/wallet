@@ -1,1 +1,1 @@
-var mnemonic = "modify develop harsh accident horn enrich okay merry brass satoshi hole shaft";
+var mnemonic = "distance exhibit advance chat guitar inquiry select bind swamp shrimp ball bean";

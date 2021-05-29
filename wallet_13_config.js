@@ -1,1 +1,1 @@
-var mnemonic = "orchard garlic dynamic cup denial choice west boss never duck mutual wagon";
+var mnemonic = "lyrics gather client join mountain jungle extend country bleak resemble aisle admit";

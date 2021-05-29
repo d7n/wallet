@@ -1,1 +1,1 @@
-var mnemonic = "puzzle truth insect mercy cat analyst yellow know immense wish inject maid";
+var mnemonic = "record lift hawk company nasty hood doctor dilemma draft keep viable kid";

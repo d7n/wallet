@@ -1,1 +1,1 @@
-var mnemonic = "logic very cannon lumber bind grab cloth bind bottom quantum plastic embody";
+var mnemonic = "label dynamic ahead click actor oppose bird gold educate level swift refuse";

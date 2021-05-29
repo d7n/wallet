@@ -1,1 +1,1 @@
-var mnemonic = "immense capital melody since myth repeat milk bird slender click debate carry";
+var mnemonic = "title canvas echo ocean allow scout blossom text shock great exit honey";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty humor attract label silent decade critic expect nominee long wasp crop";
+var mnemonic = "able love diesel unable lock silent stadium blouse memory brown viable state";

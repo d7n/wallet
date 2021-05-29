@@ -1,1 +1,1 @@
-var mnemonic = "multiply loan jealous robot radar math about vacant security embark spy essence";
+var mnemonic = "aspect wrist ordinary cement develop pull purity quick inherit exist scene wife";

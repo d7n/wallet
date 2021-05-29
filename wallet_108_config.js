@@ -1,1 +1,1 @@
-var mnemonic = "scheme comfort keep drastic rebuild price scan crazy ugly soul hotel decline";
+var mnemonic = "alarm clip blade mango easy fragile street shoe ginger jar fresh emerge";

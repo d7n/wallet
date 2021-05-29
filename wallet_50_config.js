@@ -1,1 +1,1 @@
-var mnemonic = "grunt loan peanut lyrics quality unfair adapt bird spot cruel vast name";
+var mnemonic = "trophy diet burger uncover police liquid update spy rice fabric avocado gym";

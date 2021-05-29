@@ -1,1 +1,1 @@
-var mnemonic = "worth tomorrow father mean chuckle arrest pigeon know decade wolf town piece";
+var mnemonic = "chaos cool erosion blood know subway quote real tail notice second faint";

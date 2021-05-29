@@ -1,1 +1,1 @@
-var mnemonic = "replace suspect view gown ridge kite sleep answer pitch clump adjust normal";
+var mnemonic = "grape crack blur wine fall despair suspect zone live light service sight";

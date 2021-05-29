@@ -1,1 +1,1 @@
-var mnemonic = "silk betray emotion stumble hair merry boat beach work prepare doctor tribe";
+var mnemonic = "network that shaft polar window wire lock vicious loud double use tobacco";

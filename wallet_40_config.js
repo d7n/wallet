@@ -1,1 +1,1 @@
-var mnemonic = "message vanish judge letter scheme mind orient dash habit initial struggle wedding";
+var mnemonic = "knife hen chief rotate way inhale rose waste salt museum work core";

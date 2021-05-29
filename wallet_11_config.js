@@ -1,1 +1,1 @@
-var mnemonic = "caught dust dumb drift situate culture alone over refuse brother tree crane";
+var mnemonic = "cross valve invest trophy lunar alert antique digital load assist hover under";

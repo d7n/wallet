@@ -1,1 +1,1 @@
-var mnemonic = "fetch enforce blood caught dog evolve just swap frequent never skill brain";
+var mnemonic = "inquiry access machine narrow dawn fish lawn shaft reject setup table exile";

@@ -1,1 +1,1 @@
-var mnemonic = "obey speed girl attract snack submit inhale series response clip state ketchup";
+var mnemonic = "combine swarm poem payment elegant sentence pioneer insect quote wool shrug lounge";

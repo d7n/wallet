@@ -1,1 +1,1 @@
-var mnemonic = "win glide second you roast green divert six planet quantum concert depart";
+var mnemonic = "burst uncle urban siege primary below adapt sound expect shoulder profit gift";

@@ -1,1 +1,1 @@
-var mnemonic = "limit eager effort right snow great under genius visual soul install have";
+var mnemonic = "insect traffic rhythm empower crew brief peanut pole potato topple mosquito violin";

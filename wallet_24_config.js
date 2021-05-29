@@ -1,1 +1,1 @@
-var mnemonic = "during deliver ski elite brave among swim dice margin inherit under naive";
+var mnemonic = "evolve dust item must august domain subject model canyon tissue ribbon eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "valve trigger rebuild volume ensure taxi urge unhappy athlete fresh online velvet";
+var mnemonic = "pilot broccoli roast text mechanic slice crystal deposit stamp sugar hello sorry";

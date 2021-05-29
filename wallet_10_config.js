@@ -1,1 +1,1 @@
-var mnemonic = "fix remain orange miss adjust robust layer virus spread runway daughter slender";
+var mnemonic = "issue sunny nasty surprise easily maximum title what knee hub exit tooth";

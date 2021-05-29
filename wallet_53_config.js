@@ -1,1 +1,1 @@
-var mnemonic = "bid symptom front reveal dinosaur table boss autumn isolate board raccoon powder";
+var mnemonic = "barely nice material dream electric boy kite vast chalk saddle define fun";

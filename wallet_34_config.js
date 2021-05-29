@@ -1,1 +1,1 @@
-var mnemonic = "foster seek wave trouble retreat crane now remain year small talk between";
+var mnemonic = "interest basic uniform ride exile snack select sample oyster aim sweet clip";

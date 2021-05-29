@@ -1,1 +1,1 @@
-var mnemonic = "toast picnic stadium erosion winner mosquito chronic athlete deny feel sister exist";
+var mnemonic = "soldier typical orbit choose guitar canoe record script dragon become twice dwarf";
