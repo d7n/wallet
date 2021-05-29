@@ -1,1 +1,1 @@
-var mnemonic = "flee squirrel bread census maze zone setup dinosaur peasant oval wet project";
+var mnemonic = "off host material seven erase address another village friend dizzy pepper cream";

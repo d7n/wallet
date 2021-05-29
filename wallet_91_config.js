@@ -1,1 +1,1 @@
-var mnemonic = "review pink fabric catch grape couch fly this vintage clay nerve waste";
+var mnemonic = "tuna develop permit canyon fluid bacon become verb solid august february tape";

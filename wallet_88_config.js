@@ -1,1 +1,1 @@
-var mnemonic = "parrot embody awkward tissue animal circle trophy cave basic race gather acid";
+var mnemonic = "apart clown parent curious imitate exist sure lyrics grief rebuild dignity license";

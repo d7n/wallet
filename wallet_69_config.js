@@ -1,1 +1,1 @@
-var mnemonic = "must sadness around proud public same olympic old digital canvas addict wear";
+var mnemonic = "cradle solid abuse syrup lend chicken equip girl salute mind delay naive";

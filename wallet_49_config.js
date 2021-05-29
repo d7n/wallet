@@ -1,1 +1,1 @@
-var mnemonic = "course silver guilt hurt glide light universe mother despair number frost garlic";
+var mnemonic = "hole glory drip napkin myth over grass pepper purse arctic sell legend";

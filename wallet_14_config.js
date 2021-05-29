@@ -1,1 +1,1 @@
-var mnemonic = "device page parrot level dolphin island nuclear fine camp gallery monster correct";
+var mnemonic = "primary hello erode risk dentist bicycle maple shadow midnight genre neglect into";

@@ -1,1 +1,1 @@
-var mnemonic = "brown rain trap sing client drop kind wife school tube finish foam";
+var mnemonic = "tide update minor garbage surge tank course valve prison essence want team";

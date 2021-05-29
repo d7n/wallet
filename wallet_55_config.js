@@ -1,1 +1,1 @@
-var mnemonic = "around manual gate admit must palace execute affair blush destroy few butter";
+var mnemonic = "outer beef joke profit love piano harvest report lift stadium water palace";

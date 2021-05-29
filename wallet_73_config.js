@@ -1,1 +1,1 @@
-var mnemonic = "neutral lunar over inhale lesson romance release loud prefer seed aspect entire";
+var mnemonic = "raise reward blanket link crouch bundle alarm olive employ ancient chicken elephant";

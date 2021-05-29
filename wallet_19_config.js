@@ -1,1 +1,1 @@
-var mnemonic = "vibrant face initial dust produce mosquito inmate magic goat raven uphold once";
+var mnemonic = "thank floor slender place guide east coin depart creek fever inform blue";

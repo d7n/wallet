@@ -1,1 +1,1 @@
-var mnemonic = "second program ethics horror script rare donkey board nephew bus main impact";
+var mnemonic = "neither square seat supreme manual filter vague that abandon impulse cube frost";

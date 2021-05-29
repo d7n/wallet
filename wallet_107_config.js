@@ -1,1 +1,1 @@
-var mnemonic = "cruel avocado market vehicle find include true dirt waste pride put unveil";
+var mnemonic = "claim domain primary vote jar embark public announce humor attitude city marble";

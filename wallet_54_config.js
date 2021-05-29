@@ -1,1 +1,1 @@
-var mnemonic = "language frame ramp cover room blue imitate initial vague furnace defy minimum";
+var mnemonic = "supply manual elephant tobacco enact grief credit festival increase address mercy sport";

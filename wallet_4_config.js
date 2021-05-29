@@ -1,1 +1,1 @@
-var mnemonic = "fall amateur midnight sleep immense tattoo phrase best aspect vendor absent ride";
+var mnemonic = "neglect labor phone sort word trim mimic gravity rebel chase flee layer";

@@ -1,1 +1,1 @@
-var mnemonic = "shop room common arm scale play brain artefact honey antique belt person";
+var mnemonic = "current become limb nominee couch purpose write success jelly drift vendor scene";

@@ -1,1 +1,1 @@
-var mnemonic = "permit smile town insane rug below armor wash discover goddess hazard purse";
+var mnemonic = "alien rally alien beauty solve voice slide noble want exercise angry top";

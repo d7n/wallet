@@ -1,1 +1,1 @@
-var mnemonic = "patch arctic cute dwarf laptop call talk hybrid solar age bag series";
+var mnemonic = "luxury north pair general cute gallery rate hidden planet surge lock crawl";

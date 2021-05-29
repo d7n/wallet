@@ -1,1 +1,1 @@
-var mnemonic = "art child twice glimpse else plunge ignore firm horror ketchup major code";
+var mnemonic = "engage table glide eight local virtual tackle glance bacon donor welcome ecology";

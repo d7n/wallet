@@ -1,1 +1,1 @@
-var mnemonic = "melt ordinary chaos penalty apart amused wood miss light together fork cargo";
+var mnemonic = "humor miracle stuff embrace habit barrel grass symbol leopard when expire accident";

@@ -1,1 +1,1 @@
-var mnemonic = "betray lazy eagle water echo expect require shine credit sell delay session";
+var mnemonic = "carbon shallow bachelor angry wheat clutch salt galaxy blush regret vicious swift";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage monitor security quiz jealous thank fish upon siege energy symbol panic";
+var mnemonic = "action title tail effort dune erosion soccer ostrich bundle south exact common";

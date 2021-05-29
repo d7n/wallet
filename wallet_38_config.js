@@ -1,1 +1,1 @@
-var mnemonic = "wrong whisper brief chuckle nose caution depart rude believe use comfort world";
+var mnemonic = "police trumpet input link vague thank panther swarm target diet dog scene";

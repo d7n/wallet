@@ -1,1 +1,1 @@
-var mnemonic = "tilt wall castle typical coyote jelly must avoid beach merge person mistake";
+var mnemonic = "blur history pave assist spy laptop boil atom misery scout exclude property";

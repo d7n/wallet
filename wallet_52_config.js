@@ -1,1 +1,1 @@
-var mnemonic = "arrow orphan extra calm pool code isolate concert bulk twist emotion upon";
+var mnemonic = "duck diamond vital opera silver gauge surround often hazard quiz primary blur";

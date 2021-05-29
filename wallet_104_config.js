@@ -1,1 +1,1 @@
-var mnemonic = "impact anxiety price medal retire food prepare rabbit keep luxury miracle time";
+var mnemonic = "finger east waste razor infant asset boy melt client group chase hood";

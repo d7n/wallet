@@ -1,1 +1,1 @@
-var mnemonic = "hawk category bronze void boost chat marine cram economy rural this ahead";
+var mnemonic = "used deer virtual shiver fashion armed opinion banana erode device ivory online";

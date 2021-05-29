@@ -1,1 +1,1 @@
-var mnemonic = "unveil execute girl soul cram start game actor venue inner avocado minimum";
+var mnemonic = "acquire donate submit supreme please people doll season develop flag laugh unable";

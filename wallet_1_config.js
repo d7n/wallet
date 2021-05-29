@@ -1,1 +1,1 @@
-var mnemonic = "quarter ecology reform chimney purpose offer inflict february tooth ensure rocket like";
+var mnemonic = "cabin cricket power gather smooth entire there pole strategy scan flower bottom";

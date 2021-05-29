@@ -1,1 +1,1 @@
-var mnemonic = "nasty notice awesome traffic hungry gasp about pottery crew unit borrow catch";
+var mnemonic = "hurdle ostrich build ivory normal ring seed brave sniff sugar original myth";

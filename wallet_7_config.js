@@ -1,1 +1,1 @@
-var mnemonic = "option truly quit unaware attract castle ankle note input quiz syrup exhaust";
+var mnemonic = "forum cruel sample sample over disagree define south area lend please before";

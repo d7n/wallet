@@ -1,1 +1,1 @@
-var mnemonic = "choice fame dutch old rib soda miracle coach feel baby thank universe";
+var mnemonic = "jacket monster guess cliff chalk small glad wish thought eagle earth echo";

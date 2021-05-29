@@ -1,1 +1,1 @@
-var mnemonic = "cliff family color meadow very tank lawn auction unhappy chimney edit exclude";
+var mnemonic = "genius salmon harbor jump client kid ugly theme news pledge ladder mirror";

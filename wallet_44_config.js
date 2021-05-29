@@ -1,1 +1,1 @@
-var mnemonic = "crisp tumble involve kind bomb ketchup fabric monster usage bronze today critic";
+var mnemonic = "thought indoor harvest sting prefer zoo pilot energy protect liquid prize banner";

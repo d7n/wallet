@@ -1,1 +1,1 @@
-var mnemonic = "undo outdoor outside later token poverty volume grape sure waste child faculty";
+var mnemonic = "image space drink spike goose lava kid woman output mango green erase";

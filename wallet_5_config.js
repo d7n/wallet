@@ -1,1 +1,1 @@
-var mnemonic = "make common grid drill close lottery senior fog that question monkey immune";
+var mnemonic = "erosion clerk banner display pool reunion they tip minute amateur broken island";

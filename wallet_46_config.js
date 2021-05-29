@@ -1,1 +1,1 @@
-var mnemonic = "firm badge canyon winter combine fitness language ceiling response catalog fork obtain";
+var mnemonic = "prepare firm inflict spin bird example brand item provide jewel win erosion";

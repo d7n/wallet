@@ -1,1 +1,1 @@
-var mnemonic = "confirm orphan observe high tip thing amateur carbon april faint stadium pluck";
+var mnemonic = "jelly tomorrow runway rate major logic parent hair earn strong solution jacket";

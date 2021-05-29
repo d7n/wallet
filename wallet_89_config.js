@@ -1,1 +1,1 @@
-var mnemonic = "flee desk liberty economy midnight faint leaf style genius upset then fault";
+var mnemonic = "bunker company electric blossom corn awake strike image spin keep absent lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "sight roof mobile pair opera zoo coach immense panda tobacco human bundle";
+var mnemonic = "dentist oak leaf analyst require noodle nuclear pluck scout voice leisure mobile";

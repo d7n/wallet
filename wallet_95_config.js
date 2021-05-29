@@ -1,1 +1,1 @@
-var mnemonic = "rival joy drama city vault lyrics inspire loud test pledge guess unfair";
+var mnemonic = "animal elbow obscure behind want friend act rain replace plug wing perfect";

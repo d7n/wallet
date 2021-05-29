@@ -1,1 +1,1 @@
-var mnemonic = "century alien steel dry excite ghost sing absorb palace crane farm describe";
+var mnemonic = "dutch ozone admit shallow muscle clarify cram approve casual frost tomorrow exact";

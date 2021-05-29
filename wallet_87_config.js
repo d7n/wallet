@@ -1,1 +1,1 @@
-var mnemonic = "matter mistake visual dolphin nothing quarter anxiety initial emotion surface shield public";
+var mnemonic = "route elbow suit eager tattoo blush salon track cover lens armor conduct";

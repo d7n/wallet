@@ -1,1 +1,1 @@
-var mnemonic = "green mind define jump please slow market gain render embody action enjoy";
+var mnemonic = "side orange shift supply wide kind hire skirt airport benefit tobacco menu";

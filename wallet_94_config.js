@@ -1,1 +1,1 @@
-var mnemonic = "unlock method mechanic twelve arrow scene resist rich cycle express scheme attract";
+var mnemonic = "sunny census afraid submit shell divide system people current obscure cargo alter";

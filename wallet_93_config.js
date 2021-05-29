@@ -1,1 +1,1 @@
-var mnemonic = "prefer grocery maple feed impose float file ostrich drum bracket salute travel";
+var mnemonic = "ozone bulb camera menu blush swap scale same twenty spot dwarf earn";

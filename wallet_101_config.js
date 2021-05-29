@@ -1,1 +1,1 @@
-var mnemonic = "below armed taxi agent universe drum city hill sound fringe rate enable";
+var mnemonic = "season north shuffle figure junk cupboard deal distance decrease make decade coconut";

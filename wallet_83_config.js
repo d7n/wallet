@@ -1,1 +1,1 @@
-var mnemonic = "place unfold need harsh execute outer rent shell hire energy machine style";
+var mnemonic = "knife bag gaze patch scheme envelope divide type shrimp typical divide kite";

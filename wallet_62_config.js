@@ -1,1 +1,1 @@
-var mnemonic = "airport debate focus label collect grab purse come rigid surge jelly miracle";
+var mnemonic = "trouble horse firm inflict ozone scale drop myself own pond clerk embrace";

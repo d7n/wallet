@@ -1,1 +1,1 @@
-var mnemonic = "huge battle whale asthma resist umbrella spare aerobic spoon envelope radar spare";
+var mnemonic = "little tone blanket cannon amateur room industry whale year dash make mixed";

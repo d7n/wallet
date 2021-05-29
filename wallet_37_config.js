@@ -1,1 +1,1 @@
-var mnemonic = "daring net cry jungle hockey foster method close truly pilot train alien";
+var mnemonic = "message antenna pudding merit avocado tackle brown fame oil rescue december major";

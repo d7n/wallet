@@ -1,1 +1,1 @@
-var mnemonic = "pink educate dizzy piece nest industry crumble layer summer arrange pudding bus";
+var mnemonic = "grunt noodle unknown hair inquiry arrange slender tonight under wave citizen survey";

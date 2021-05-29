@@ -1,1 +1,1 @@
-var mnemonic = "garage answer custom local cry boy differ false horror chimney zebra clock";
+var mnemonic = "repeat breeze live organ define solar taxi female peace cherry visa pudding";

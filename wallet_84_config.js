@@ -1,1 +1,1 @@
-var mnemonic = "salad hair maid giant winter poverty grid loop seed weird nasty anchor";
+var mnemonic = "skin brisk first media tortoise cover present desert deposit hurry verify witness";

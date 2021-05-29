@@ -1,1 +1,1 @@
-var mnemonic = "tenant fun taste insane confirm mad whisper lend foam cradle gloom huge";
+var mnemonic = "venture photo relax culture arrive sting census school card fee insane cool";

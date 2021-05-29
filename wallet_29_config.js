@@ -1,1 +1,1 @@
-var mnemonic = "divert index inmate leaf effort crumble smooth grape festival youth cradle excess";
+var mnemonic = "shy deer law crunch lab royal chapter blanket clog bamboo dilemma accident";

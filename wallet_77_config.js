@@ -1,1 +1,1 @@
-var mnemonic = "impulse hammer lake odor amazing motor unhappy person snow illegal pitch puppy";
+var mnemonic = "much sibling act taste enforce system month unit gorilla gasp museum assume";

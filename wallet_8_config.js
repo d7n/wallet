@@ -1,1 +1,1 @@
-var mnemonic = "soup bread glue bless need have lucky medal sniff tilt child blood";
+var mnemonic = "kiwi spell yard ask legal liquid solve effort latin earth learn admit";

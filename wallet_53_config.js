@@ -1,1 +1,1 @@
-var mnemonic = "ski below voice achieve orient best expire foster start foil party fever";
+var mnemonic = "donor usage afford magnet grab gold helmet burst fan park immense welcome";

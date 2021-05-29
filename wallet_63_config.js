@@ -1,1 +1,1 @@
-var mnemonic = "melt tool pelican raise dwarf stand leg fringe render impact age indicate";
+var mnemonic = "deliver pioneer title monkey return inspire fabric lamp raccoon auto search wave";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy frown fabric moment debate chair flock sibling clever lava say produce";
+var mnemonic = "wave feature card rigid submit people soldier size mushroom cheap wine nice";

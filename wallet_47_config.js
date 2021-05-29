@@ -1,1 +1,1 @@
-var mnemonic = "blur shoot city churn bracket parrot shoulder champion october awkward thrive excite";
+var mnemonic = "flip act spice diet pelican crouch agent admit few icon enjoy item";

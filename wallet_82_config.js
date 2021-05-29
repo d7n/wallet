@@ -1,1 +1,1 @@
-var mnemonic = "build relax warfare frown supply dish drip grain tenant panda jacket false";
+var mnemonic = "spatial approve such young believe garlic coil garlic arrange segment funny spring";

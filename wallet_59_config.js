@@ -1,1 +1,1 @@
-var mnemonic = "worth attitude suspect penalty spin armor cannon toast repeat theory tuna estate";
+var mnemonic = "resemble say stereo fruit depart grid unique forward ancient steel rule drip";

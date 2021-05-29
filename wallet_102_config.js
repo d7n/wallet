@@ -1,1 +1,1 @@
-var mnemonic = "ten estate wait regret vacant smooth defy scorpion crash step grass body";
+var mnemonic = "sting income mail nominee avoid old head alpha phrase door nice canal";

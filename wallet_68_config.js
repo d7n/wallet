@@ -1,1 +1,1 @@
-var mnemonic = "path mask mystery tower worry critic blur unfold join toward meat chimney";
+var mnemonic = "lonely student lunar human truck when awful chronic ladder hundred about march";

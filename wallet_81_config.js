@@ -1,1 +1,1 @@
-var mnemonic = "cash eternal island adapt impulse often kid mimic harsh track mandate whale";
+var mnemonic = "clean tissue erosion guess elbow vast exotic admit between south either short";

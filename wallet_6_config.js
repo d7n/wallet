@@ -1,1 +1,1 @@
-var mnemonic = "uncover husband tourist mobile humble apart power mixture harbor bargain ring pond";
+var mnemonic = "harbor off result month section rough dirt brush ritual under swamp pig";

@@ -1,1 +1,1 @@
-var mnemonic = "regular life spawn card garage east gloom era crazy issue surround journey";
+var mnemonic = "churn novel arctic clutch easy twenty excess humble auction hair dentist furnace";

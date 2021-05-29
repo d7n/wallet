@@ -1,1 +1,1 @@
-var mnemonic = "come key shell coil either crash voice bacon legend please venture episode";
+var mnemonic = "educate pool pony sugar bread grant script drama place prevent resist hen";

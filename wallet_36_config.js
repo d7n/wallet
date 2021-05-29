@@ -1,1 +1,1 @@
-var mnemonic = "move upon brain market pave lion nice crawl music lunch veteran weasel";
+var mnemonic = "fabric street pioneer faith bitter car gossip any palm omit below badge";

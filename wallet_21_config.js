@@ -1,1 +1,1 @@
-var mnemonic = "fall bounce bright raccoon find inspire private mercy decline betray large kiwi";
+var mnemonic = "hole walk load comfort swing fuel hundred capital flash fruit photo over";

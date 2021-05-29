@@ -1,1 +1,1 @@
-var mnemonic = "empower chaos transfer glow bonus guess paddle wait circle double crawl duck";
+var mnemonic = "man tomato typical cream motor fit program elephant hockey draft praise enjoy";

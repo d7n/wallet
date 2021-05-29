@@ -1,1 +1,1 @@
-var mnemonic = "endless inhale pyramid purse pioneer walnut length admit pony awful salt evolve";
+var mnemonic = "flag absurd disagree album announce image super glimpse collect film swim multiply";

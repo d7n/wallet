@@ -1,1 +1,1 @@
-var mnemonic = "dolphin roast connect potato pelican defense trouble security monitor power convince off";
+var mnemonic = "trip torch panel absurd profit organ pretty maid share anchor purse grit";

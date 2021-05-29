@@ -1,1 +1,1 @@
-var mnemonic = "illegal trigger plate science wage face arrest feature drive stuff evil weekend";
+var mnemonic = "slam sister step distance boat ivory vast sunny deliver stadium traffic turtle";

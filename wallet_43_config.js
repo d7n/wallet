@@ -1,1 +1,1 @@
-var mnemonic = "text manual vital vendor humble found style federal divide number toast sketch";
+var mnemonic = "civil math second follow random diamond april never lobster pink usual suspect";

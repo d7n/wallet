@@ -1,1 +1,1 @@
-var mnemonic = "item enemy cube spider moral reject crystal budget scheme tank muffin face";
+var mnemonic = "also bench dry humble night online judge display deliver profit parrot income";

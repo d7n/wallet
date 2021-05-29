@@ -1,1 +1,1 @@
-var mnemonic = "great phone type lonely still alert lawsuit diamond hotel inject ghost abuse";
+var mnemonic = "analyst carry suffer seven silly together believe oxygen rapid refuse obey easy";

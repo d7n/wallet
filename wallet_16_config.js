@@ -1,1 +1,1 @@
-var mnemonic = "patrol bundle siege fiction pluck tray mistake ensure beyond joke torch worry";
+var mnemonic = "limb asthma harbor setup hand dove rebel abandon scorpion garment keen panda";

@@ -1,1 +1,1 @@
-var mnemonic = "warm trend goat list kid again trim convince jacket lumber antenna eight";
+var mnemonic = "name toilet cute corn next begin cherry moon brisk ugly lava arrive";

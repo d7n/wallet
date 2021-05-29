@@ -1,1 +1,1 @@
-var mnemonic = "bring still mistake vapor sock abandon curious cushion opinion impulse square upon";
+var mnemonic = "card rabbit blouse garage vacuum produce twist duty lion champion mesh tail";

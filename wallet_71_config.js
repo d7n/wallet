@@ -1,1 +1,1 @@
-var mnemonic = "afford stuff army govern smart inherit critic total adjust material donkey praise";
+var mnemonic = "napkin barely print mule rural bulk science candy cube soccer casino destroy";

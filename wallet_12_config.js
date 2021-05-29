@@ -1,1 +1,1 @@
-var mnemonic = "crazy inside exercise truly metal guide taxi kingdom ahead paper citizen provide";
+var mnemonic = "where volume genuine oppose habit soldier mountain electric lawsuit reveal urban flush";

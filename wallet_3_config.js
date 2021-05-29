@@ -1,1 +1,1 @@
-var mnemonic = "denial unique whisper reopen clutch young wall garlic alley hurry joke patient";
+var mnemonic = "devote century pitch deny bone upon asset work winter reveal dumb girl";

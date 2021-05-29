@@ -1,1 +1,1 @@
-var mnemonic = "matter pattern country antenna radar gold project among know pelican ask mercy";
+var mnemonic = "melt gift arm sea lawn egg reason grace owner fossil seminar corn";

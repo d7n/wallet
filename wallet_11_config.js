@@ -1,1 +1,1 @@
-var mnemonic = "dish remove social more skirt narrow bullet capable aunt patch ridge toe";
+var mnemonic = "what all salon broom morning cannon buzz pill drive purse disagree broccoli";

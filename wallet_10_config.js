@@ -1,1 +1,1 @@
-var mnemonic = "youth slot cake push oyster verb rare benefit age math final thought";
+var mnemonic = "ball century gas repair expect foot measure smart depth rescue wagon witness";

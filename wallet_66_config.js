@@ -1,1 +1,1 @@
-var mnemonic = "pet girl steel capable describe panther useless mimic cattle canal drink dust";
+var mnemonic = "exotic seek august anchor frost hybrid story diesel group enough extend there";

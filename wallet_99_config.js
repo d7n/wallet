@@ -1,1 +1,1 @@
-var mnemonic = "lens auto true edit virtual desk ladder trap survey broom park neither";
+var mnemonic = "pool liberty dust treat iron powder group approve wish winter multiply talk";

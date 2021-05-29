@@ -1,1 +1,1 @@
-var mnemonic = "equip three spatial guitar upgrade olympic used video viable crash pudding mad";
+var mnemonic = "degree you alien border author reunion seven wife correct answer trumpet inherit";

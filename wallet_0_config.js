@@ -1,1 +1,1 @@
-var mnemonic = "dizzy measure resist man afford apple infant size target brave cabbage book";
+var mnemonic = "later exit unveil aunt quiz comic van shrug sadness pig trouble fantasy";

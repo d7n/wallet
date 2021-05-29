@@ -1,1 +1,1 @@
-var mnemonic = "chunk client craft cargo match guilt render crystal peanut obscure confirm series";
+var mnemonic = "minor ripple brown tongue settle side gossip pair inspire tiny snap grit";

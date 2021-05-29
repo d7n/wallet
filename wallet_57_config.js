@@ -1,1 +1,1 @@
-var mnemonic = "coin exercise bridge marriage clown fold memory fossil love olive escape rich";
+var mnemonic = "wedding vacant because teach such cable misery pottery immense feature board mixed";

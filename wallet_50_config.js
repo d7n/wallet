@@ -1,1 +1,1 @@
-var mnemonic = "wage okay two model off hundred alert bright giant human discover wash";
+var mnemonic = "tuition estate dwarf true post simple hamster lens demand tunnel brown hair";

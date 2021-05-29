@@ -1,1 +1,1 @@
-var mnemonic = "easily dance jewel blast curious outside arctic scale parade true offer verify";
+var mnemonic = "gym belt stick swap genre relief confirm people sight huge hurry alcohol";
