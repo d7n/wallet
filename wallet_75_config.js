@@ -1,1 +1,1 @@
-var mnemonic = "joke wave asset rose leave trust error stove simple gasp wild detail";
+var mnemonic = "tag middle mail column enact art equip profit cube give abuse clerk";

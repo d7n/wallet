@@ -1,1 +1,1 @@
-var mnemonic = "guilt prefer burger label brush master pigeon genius puzzle inherit viable pass";
+var mnemonic = "target question dash ladder differ first spice book matrix cheese pelican meadow";

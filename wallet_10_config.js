@@ -1,1 +1,1 @@
-var mnemonic = "curious water fragile mandate warm eternal crash skill salute join hospital mandate";
+var mnemonic = "confirm drink grass around design theme true gaze steak middle arrive bird";

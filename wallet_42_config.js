@@ -1,1 +1,1 @@
-var mnemonic = "forum upset magnet modify smooth oblige stairs tunnel fresh tonight dignity catch";
+var mnemonic = "boring claim sleep dream city reveal pattern manual auto ice simple able";

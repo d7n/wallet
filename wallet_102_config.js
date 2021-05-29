@@ -1,1 +1,1 @@
-var mnemonic = "point social logic claw latin ecology purse flee frost forest wise sister";
+var mnemonic = "riot blue embrace smoke woman false famous carry impulse sort trouble together";

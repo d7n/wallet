@@ -1,1 +1,1 @@
-var mnemonic = "volume analyst shop exhaust champion saddle manage easy this hover company receive";
+var mnemonic = "biology artwork onion veteran wife pull street live risk track advance dash";

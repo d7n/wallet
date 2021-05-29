@@ -1,1 +1,1 @@
-var mnemonic = "moment shiver such depth inject aim tray catch magic gossip famous barely";
+var mnemonic = "follow faint hair shuffle cannon goddess jazz soft symbol pool hybrid relax";

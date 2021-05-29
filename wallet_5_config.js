@@ -1,1 +1,1 @@
-var mnemonic = "shock metal fitness usage drift body feel oxygen shield elbow walnut buddy";
+var mnemonic = "enemy behave tourist happy park record idea prevent year father receive abstract";

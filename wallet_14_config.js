@@ -1,1 +1,1 @@
-var mnemonic = "hint very daughter rare buyer wasp depend old supreme blush orange item";
+var mnemonic = "pond liquid ramp pistol fever convince report brown catalog wool razor soda";

@@ -1,1 +1,1 @@
-var mnemonic = "day census depend snake bridge ignore grow coast tuna fire valid slender";
+var mnemonic = "antique frame tennis gaze program build couple gadget version spike ethics gospel";

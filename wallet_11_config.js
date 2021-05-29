@@ -1,1 +1,1 @@
-var mnemonic = "nuclear help nose admit scatter rude illegal awkward bachelor jump gain they";
+var mnemonic = "garment intact token where opera thought move royal result again universe poem";

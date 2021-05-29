@@ -1,1 +1,1 @@
-var mnemonic = "urge ready arrive peace pool spy glimpse athlete cherry walk civil ice";
+var mnemonic = "denial arrange lunch salad junior insect chest usage limit circle first topic";

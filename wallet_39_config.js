@@ -1,1 +1,1 @@
-var mnemonic = "toast rice grape galaxy tragic thing exclude capital loud certain razor elbow";
+var mnemonic = "position bone swallow nest practice blossom ranch inmate insane tourist tool teach";

@@ -1,1 +1,1 @@
-var mnemonic = "explain art orchard huge surge step truly unique actual minimum avocado intact";
+var mnemonic = "vote shoot mansion acquire explain brave deliver exclude later wolf eye monster";

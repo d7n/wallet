@@ -1,1 +1,1 @@
-var mnemonic = "prepare ginger traffic mom shy party winter cricket awesome quantum have soda";
+var mnemonic = "fury snack basic slogan young ancient alarm huge forget lab pact doctor";

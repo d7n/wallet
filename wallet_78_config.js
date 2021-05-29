@@ -1,1 +1,1 @@
-var mnemonic = "flame wrong into kingdom series snow thing double struggle bottom feel arrive";
+var mnemonic = "cruel fringe vacuum prevent pride dumb address cargo wild sponsor cluster club";

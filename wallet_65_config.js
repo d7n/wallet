@@ -1,1 +1,1 @@
-var mnemonic = "village mask denial chuckle piano inch avoid twin disagree visit tuna churn";
+var mnemonic = "later trouble quiz ski large bitter impact risk employ kid rude boy";

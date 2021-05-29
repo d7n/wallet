@@ -1,1 +1,1 @@
-var mnemonic = "supply produce cinnamon rail future lawsuit toddler believe catch ribbon invest legal";
+var mnemonic = "honey slogan range caught sketch quick fade tuition neglect pond time grid";

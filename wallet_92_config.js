@@ -1,1 +1,1 @@
-var mnemonic = "naive curtain glove afraid monitor flee battle armed expire oval tail obey";
+var mnemonic = "work hold burger kit elite panic produce useless ancient link duty video";

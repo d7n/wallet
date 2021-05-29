@@ -1,1 +1,1 @@
-var mnemonic = "jacket age balance air piece common light indoor bar nut impose hurry";
+var mnemonic = "pitch drive swamp rotate sail long beauty man child leisure mule wave";

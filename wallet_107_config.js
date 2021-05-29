@@ -1,1 +1,1 @@
-var mnemonic = "citizen core unable creek trouble thunder helmet hour crunch mandate wage assist";
+var mnemonic = "spatial dinner disagree whale victory soul divorce exit radio stumble maximum escape";

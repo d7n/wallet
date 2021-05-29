@@ -1,1 +1,1 @@
-var mnemonic = "party mass west youth bread imitate cushion token casual youth bomb park";
+var mnemonic = "cart story upgrade gasp poem long noise witness stumble sand bind rug";

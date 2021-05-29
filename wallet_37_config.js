@@ -1,1 +1,1 @@
-var mnemonic = "surround flush tape wool fantasy extend neck garbage trip furnace cable guide";
+var mnemonic = "adjust easy nut what diagram diamond ozone ankle tonight delay regret pioneer";

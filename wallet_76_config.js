@@ -1,1 +1,1 @@
-var mnemonic = "child coyote fortune mouse kidney hen wasp pelican dove rubber master joy";
+var mnemonic = "symptom bronze funny quick side shield sick blame mirror bamboo poem raw";

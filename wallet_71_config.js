@@ -1,1 +1,1 @@
-var mnemonic = "dust device give imitate lens museum stuff fall snap canal year cattle";
+var mnemonic = "jewel chase protect mixed sheriff spray torch board infant extra fragile odor";

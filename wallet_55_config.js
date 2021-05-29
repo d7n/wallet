@@ -1,1 +1,1 @@
-var mnemonic = "spy tired betray bubble dinosaur inner example tiger now ski wine torch";
+var mnemonic = "carry hint paddle lizard twist grid kingdom social truly bicycle beauty cover";

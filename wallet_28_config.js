@@ -1,1 +1,1 @@
-var mnemonic = "view renew lend asthma woman tackle field chest video urge prosper cheap";
+var mnemonic = "bike dress peace author garage solution dutch develop kind girl couch safe";

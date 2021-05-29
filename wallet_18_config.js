@@ -1,1 +1,1 @@
-var mnemonic = "curious elevator camp asset tobacco heart diagram kiss search siren find equal";
+var mnemonic = "pink drum label remind minute cage wear couch vehicle nest entry give";

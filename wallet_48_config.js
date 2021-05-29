@@ -1,1 +1,1 @@
-var mnemonic = "nurse voyage blouse chat lunar since material visa dentist accident six kite";
+var mnemonic = "art fly fit smart usual squeeze salt novel street doctor curious canoe";

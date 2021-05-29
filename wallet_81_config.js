@@ -1,1 +1,1 @@
-var mnemonic = "wide arrow wing oppose traffic zero awesome prosper example sign state gold";
+var mnemonic = "explain comfort chat rent syrup profit detail clarify clean talent series timber";

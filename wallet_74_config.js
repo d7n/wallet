@@ -1,1 +1,1 @@
-var mnemonic = "debris valley vital fuel first rail lens short regular flee winner version";
+var mnemonic = "lens address mystery burst latin faith betray rug acquire barrel rookie adult";

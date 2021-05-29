@@ -1,1 +1,1 @@
-var mnemonic = "leaf load mass spend come bridge invite spoil soldier extend alert fee";
+var mnemonic = "empty will path fiber decade party drastic history board senior scale recycle";

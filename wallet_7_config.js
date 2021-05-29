@@ -1,1 +1,1 @@
-var mnemonic = "adult board walnut surge echo manual carbon pave relief leaf final brave";
+var mnemonic = "twin embrace please warm design ball isolate play boost cost crawl ill";

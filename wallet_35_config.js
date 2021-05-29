@@ -1,1 +1,1 @@
-var mnemonic = "regular feed medal earn soft old never key strike barrel ball doll";
+var mnemonic = "mystery illness pizza skirt waste swing repeat vintage disorder apple state bonus";

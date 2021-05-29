@@ -1,1 +1,1 @@
-var mnemonic = "dinner tiger element hero remove tape kiss will trend army west yard";
+var mnemonic = "pizza equip enforce detail carbon radio party phrase hair tired excite frozen";

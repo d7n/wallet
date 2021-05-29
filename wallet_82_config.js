@@ -1,1 +1,1 @@
-var mnemonic = "disease often please sudden quote recipe sure duck health pitch garment blood";
+var mnemonic = "ice empty stay canoe divert rhythm can critic daring orbit brush trumpet";

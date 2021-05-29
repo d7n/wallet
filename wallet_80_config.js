@@ -1,1 +1,1 @@
-var mnemonic = "shock round mountain muscle stuff castle town oak sand income fly pause";
+var mnemonic = "bubble second oppose leg pepper duck rack game bird stable economy search";

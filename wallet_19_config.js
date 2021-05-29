@@ -1,1 +1,1 @@
-var mnemonic = "road version minute forget width never parrot exchange crowd solar pledge ski";
+var mnemonic = "blanket toss renew tent burst parrot call remove room meadow anchor entry";

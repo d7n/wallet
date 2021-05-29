@@ -1,1 +1,1 @@
-var mnemonic = "illness myself draft end few hurdle wheel machine judge galaxy already front";
+var mnemonic = "hotel reveal blade title response domain silly scrub monkey battle rhythm tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury pilot oppose season forest idle maid size talent math cash town";
+var mnemonic = "expose lonely goddess fragile distance crucial author hockey poem habit spatial diet";

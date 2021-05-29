@@ -1,1 +1,1 @@
-var mnemonic = "hair monster grant author fine current sail disorder allow stairs fitness art";
+var mnemonic = "gown convince alter chat boil celery casual point high narrow friend alter";

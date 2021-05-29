@@ -1,1 +1,1 @@
-var mnemonic = "glad amazing absurd keen insane bright have grace doll weapon soldier fresh";
+var mnemonic = "view very protect sponsor deer spin scan wrestle bubble edge dawn rescue";

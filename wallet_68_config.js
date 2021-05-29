@@ -1,1 +1,1 @@
-var mnemonic = "make sniff agent quarter puzzle fiction faith slush screen cook paper job";
+var mnemonic = "midnight music phone almost devote hover cave dice nothing athlete few drip";

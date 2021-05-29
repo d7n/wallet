@@ -1,1 +1,1 @@
-var mnemonic = "post little hunt jaguar vital kid mass february banner treat corn ethics";
+var mnemonic = "spin cloud legal anxiety tribe nasty gather north supreme wage response measure";

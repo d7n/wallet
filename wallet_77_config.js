@@ -1,1 +1,1 @@
-var mnemonic = "erupt dance tired wave detect orange write athlete battle runway nuclear divide";
+var mnemonic = "erosion foil regret solid tail blade thumb goose never twelve hundred whip";

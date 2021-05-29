@@ -1,1 +1,1 @@
-var mnemonic = "giant cook stem rotate electric meat reunion vague fever depart surface aware";
+var mnemonic = "only mechanic air drill mercy immune legend pretty hurry common remove cart";

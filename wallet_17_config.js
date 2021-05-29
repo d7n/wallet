@@ -1,1 +1,1 @@
-var mnemonic = "sheriff ketchup fine bubble crawl achieve absent hidden danger second such gorilla";
+var mnemonic = "glow prosper best brown frost symptom fiction ready disease sadness oblige snap";

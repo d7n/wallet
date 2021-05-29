@@ -1,1 +1,1 @@
-var mnemonic = "rely often winter coyote hub segment limb spot brick shuffle net maid";
+var mnemonic = "shop comfort nasty okay catalog crouch unhappy order glad nation abandon canyon";

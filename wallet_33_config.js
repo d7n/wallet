@@ -1,1 +1,1 @@
-var mnemonic = "mechanic oak word gospel three live begin jacket song festival talent tip";
+var mnemonic = "anger pyramid fold pigeon rare adapt grain enrich update wish dad rookie";

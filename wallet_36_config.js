@@ -1,1 +1,1 @@
-var mnemonic = "fragile hobby oil tower diary diet tourist jewel enable equip happy flower";
+var mnemonic = "steak minute wool replace guilt confirm want student length box season emotion";

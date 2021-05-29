@@ -1,1 +1,1 @@
-var mnemonic = "hybrid visit slight spider right mean front slogan castle sell grocery discover";
+var mnemonic = "cat advice cruise warfare excite sight sun nothing amount gift capital proud";

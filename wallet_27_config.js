@@ -1,1 +1,1 @@
-var mnemonic = "desk pelican sweet general inhale seed throw blue slogan zone matter dirt";
+var mnemonic = "harvest during sibling bird blind broom expect wear choose lesson life hen";

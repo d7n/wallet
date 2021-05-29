@@ -1,1 +1,1 @@
-var mnemonic = "poem badge evidence fuel shrug jealous scissors palm six fold give glow";
+var mnemonic = "infant hero skull circle second check link priority avocado deputy nephew vital";

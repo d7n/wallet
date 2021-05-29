@@ -1,1 +1,1 @@
-var mnemonic = "want truly arrange now welcome mail magic endless walnut broccoli giraffe climb";
+var mnemonic = "promote brief legal tobacco summer castle sketch month grocery used rose trade";

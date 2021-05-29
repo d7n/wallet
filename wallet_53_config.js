@@ -1,1 +1,1 @@
-var mnemonic = "bus quality token fee harsh echo fan more area weather inner size";
+var mnemonic = "game absurd trumpet sight pact crew make hood wash limb romance hazard";

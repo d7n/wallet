@@ -1,1 +1,1 @@
-var mnemonic = "chimney fabric elephant firm one cotton bracket cry atom general lottery loan";
+var mnemonic = "live photo bridge quit start boring exile switch wheel latin market razor";

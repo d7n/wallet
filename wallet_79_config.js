@@ -1,1 +1,1 @@
-var mnemonic = "gown logic hill maze drum cage mandate ready pilot mixture aware payment";
+var mnemonic = "eight damage sing embody happy verb shaft solve walk husband phone scale";

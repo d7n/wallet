@@ -1,1 +1,1 @@
-var mnemonic = "craft spice earn task match liberty real antique item much salute crane";
+var mnemonic = "mean census moon long pretty visa style pull vocal tiger roof cradle";

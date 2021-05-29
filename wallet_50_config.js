@@ -1,1 +1,1 @@
-var mnemonic = "divert icon vote ranch mind dignity priority history grid marble onion mercy";
+var mnemonic = "title turtle main twenty village rebel chat fiction rate muffin lunar nasty";

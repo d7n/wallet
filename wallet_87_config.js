@@ -1,1 +1,1 @@
-var mnemonic = "notice surprise short hurt street pair satoshi bronze twice giraffe goat dance";
+var mnemonic = "crater mixed banner penalty version inquiry business slight beauty chest excess miss";

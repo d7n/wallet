@@ -1,1 +1,1 @@
-var mnemonic = "present climb rack mosquito cattle choose discover autumn cruise hobby vacant submit";
+var mnemonic = "circle scale notice garage carbon payment sign tiny entry during famous oblige";

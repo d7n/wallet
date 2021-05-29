@@ -1,1 +1,1 @@
-var mnemonic = "cargo coin swift merit possible patient warfare van march taste alone once";
+var mnemonic = "silver humor smart useless dinner steak divorce plastic able rescue wrap two";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom salmon demand tired crime divide true essence forum intact popular oyster";
+var mnemonic = "walnut unveil long project seven fuel spoon city joke correct noodle tail";

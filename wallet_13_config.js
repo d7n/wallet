@@ -1,1 +1,1 @@
-var mnemonic = "cigar wife lake swallow action upper elite memory food identify school wage";
+var mnemonic = "frequent inherit hobby erode vanish pool act tomato length salad family fiscal";

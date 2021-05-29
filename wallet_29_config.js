@@ -1,1 +1,1 @@
-var mnemonic = "lava voice broccoli denial adjust wide usage code flock lizard copy hedgehog";
+var mnemonic = "victory cake absorb super certain program amateur salon actress burger square festival";

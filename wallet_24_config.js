@@ -1,1 +1,1 @@
-var mnemonic = "segment boost pupil utility claim member modify address brand popular notice concert";
+var mnemonic = "boss draw book repair angry reward baby anger index sun flat arrest";

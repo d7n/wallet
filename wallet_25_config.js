@@ -1,1 +1,1 @@
-var mnemonic = "seek club oval profit love pave ready voice engage square hour hero";
+var mnemonic = "need dirt laptop ecology risk spawn twelve talent assume large dust kiwi";

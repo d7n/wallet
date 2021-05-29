@@ -1,1 +1,1 @@
-var mnemonic = "actress venture please use say deny often hawk often grunt hint critic";
+var mnemonic = "reunion dress student club smile rally wedding property deliver polar galaxy room";

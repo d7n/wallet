@@ -1,1 +1,1 @@
-var mnemonic = "erosion purchase bicycle option firm spot service expand blood steel dish border";
+var mnemonic = "head valley elder taxi frog team guitar primary giraffe garage august advance";

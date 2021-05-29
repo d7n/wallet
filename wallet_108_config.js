@@ -1,1 +1,1 @@
-var mnemonic = "shove client punch swift since horror lonely ahead inflict tower pioneer exotic";
+var mnemonic = "correct shield sure weekend fog fury rigid beef utility weapon clever whisper";

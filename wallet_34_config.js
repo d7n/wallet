@@ -1,1 +1,1 @@
-var mnemonic = "poet shift casino gold omit prevent expect jewel young peanut laugh spend";
+var mnemonic = "favorite table curve genuine symbol stock stuff recipe degree cycle barrel flush";

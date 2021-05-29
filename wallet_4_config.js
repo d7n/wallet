@@ -1,1 +1,1 @@
-var mnemonic = "census alarm bottom call grunt wise tackle dragon harvest gorilla novel asthma";
+var mnemonic = "stairs flight mistake can scan truly alpha comic right broken weapon must";

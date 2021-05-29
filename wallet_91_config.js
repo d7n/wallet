@@ -1,1 +1,1 @@
-var mnemonic = "price civil produce nice consider nerve trip bulb abuse submit dwarf proud";
+var mnemonic = "trash bounce family cradle orchard dynamic toddler infant payment valley relax sun";

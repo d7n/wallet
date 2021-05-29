@@ -1,1 +1,1 @@
-var mnemonic = "winter jar stereo vivid one tired accident lounge round scatter piano tone";
+var mnemonic = "check doll cherry own pizza all base island minor settle kind swap";

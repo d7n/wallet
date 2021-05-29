@@ -1,1 +1,1 @@
-var mnemonic = "ribbon steak discover enroll dutch merit invest trick old culture sand recipe";
+var mnemonic = "mandate rotate comic response elegant raise shield sock trap execute aerobic leave";

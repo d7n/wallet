@@ -1,1 +1,1 @@
-var mnemonic = "mushroom isolate outer calm lounge cube beach rapid poverty green off motor";
+var mnemonic = "alley island actress smart aspect useless true flower cheese neither input rent";

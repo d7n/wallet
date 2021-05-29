@@ -1,1 +1,1 @@
-var mnemonic = "rally radar barrel monkey pave muffin tourist mirror young radar jazz artist";
+var mnemonic = "canvas twin spend brown crater barely tiny similar relax language tragic diagram";

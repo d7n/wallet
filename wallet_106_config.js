@@ -1,1 +1,1 @@
-var mnemonic = "despair adjust tenant wonder butter draft month among sea mad pledge task";
+var mnemonic = "what note unknown sure amount prevent banana risk second minor brown left";

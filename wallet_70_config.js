@@ -1,1 +1,1 @@
-var mnemonic = "trouble view alley when stomach kiwi violin van assault open pattern cart";
+var mnemonic = "flavor grunt boss void imitate bamboo cigar unit rural sand filter easily";

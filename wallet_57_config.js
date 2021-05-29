@@ -1,1 +1,1 @@
-var mnemonic = "genuine test warfare frog fossil edit hungry opera soul volcano recall exhibit";
+var mnemonic = "cable fever ensure jazz pyramid clever scale fix february stumble kidney census";

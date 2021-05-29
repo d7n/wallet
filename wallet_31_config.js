@@ -1,1 +1,1 @@
-var mnemonic = "settle opera diamond final tissue unhappy ritual gown rocket honey speed swing";
+var mnemonic = "address empower cheese express twice frequent hundred mechanic roast certain evolve country";

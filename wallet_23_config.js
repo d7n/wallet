@@ -1,1 +1,1 @@
-var mnemonic = "range planet transfer crime output ginger silly sphere during brown power core";
+var mnemonic = "shove cactus ski remind smooth alpha grace license almost artist large ten";

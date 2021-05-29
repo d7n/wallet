@@ -1,1 +1,1 @@
-var mnemonic = "rebel owner wealth car hover jacket pear rack column knee leg expect";
+var mnemonic = "inquiry brush afford topple vital lecture dismiss help trend burden beyond license";
