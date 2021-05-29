@@ -1,1 +1,1 @@
-var mnemonic = "myth rate bicycle update list sick casino palm convince taste leaf jungle";
+var mnemonic = "moral setup memory write trend alley typical ensure elevator vault giant become";

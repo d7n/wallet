@@ -1,1 +1,1 @@
-var mnemonic = "crash vital goat festival camp pole baby cool awful six above feature";
+var mnemonic = "shuffle relief inch bubble word immune ghost squeeze that region call order";

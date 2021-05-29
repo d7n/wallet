@@ -1,1 +1,1 @@
-var mnemonic = "salt ladder chalk hurry fun venue advice boring medal tongue coyote sister";
+var mnemonic = "lucky cat hammer dynamic enrich into season remain gather spy refuse nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "crack nest twist float struggle unusual depart dolphin calm plastic hockey below";
+var mnemonic = "bright twelve gospel fit alcohol village antique search ocean type hurt hockey";

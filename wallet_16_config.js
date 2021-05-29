@@ -1,1 +1,1 @@
-var mnemonic = "staff puzzle duty leaf sudden mom napkin raise account path sorry chalk";
+var mnemonic = "melt whip tube edge liquid relief garden elevator law glimpse craft topple";

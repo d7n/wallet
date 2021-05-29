@@ -1,1 +1,1 @@
-var mnemonic = "bird scissors sting swear circle meat syrup possible desk shaft busy differ";
+var mnemonic = "foil exist potato protect zone away window jazz under exact regular zebra";

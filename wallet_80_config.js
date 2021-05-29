@@ -1,1 +1,1 @@
-var mnemonic = "soccer ice wear service list boy invite jeans entry spend stick wood";
+var mnemonic = "adjust fog reduce nurse effort deal sketch wait battle toilet secret spell";

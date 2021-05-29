@@ -1,1 +1,1 @@
-var mnemonic = "bracket pink gesture boat movie fortune cactus chase park grass soccer popular";
+var mnemonic = "tell antique wise estate book cloud deposit raccoon street describe employ educate";

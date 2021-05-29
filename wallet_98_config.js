@@ -1,1 +1,1 @@
-var mnemonic = "stumble device cushion view supreme nature mechanic possible tackle believe achieve foil";
+var mnemonic = "front melt lizard brain crop baby drastic trust just spring black treat";

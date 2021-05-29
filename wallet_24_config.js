@@ -1,1 +1,1 @@
-var mnemonic = "grant phone bright discover olive habit lock meadow away parade abandon board";
+var mnemonic = "doll pistol ordinary input actual brief submit brown village address best denial";

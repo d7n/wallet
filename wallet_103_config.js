@@ -1,1 +1,1 @@
-var mnemonic = "feel conduct various visa clutch guess mechanic owner brisk chest mixed chair";
+var mnemonic = "lumber rate hockey few critic short congress strong thumb jar poverty imitate";

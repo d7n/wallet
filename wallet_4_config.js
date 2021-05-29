@@ -1,1 +1,1 @@
-var mnemonic = "chalk punch focus elephant elegant category cheese outer segment close motion quality";
+var mnemonic = "goose good melt private bitter predict segment grow man elegant exotic fun";

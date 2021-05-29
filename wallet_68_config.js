@@ -1,1 +1,1 @@
-var mnemonic = "palace cool ramp say matrix ivory pupil chuckle total image bar cherry";
+var mnemonic = "economy market load pig outside empower organ gloom title oblige floor rally";

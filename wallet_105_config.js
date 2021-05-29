@@ -1,1 +1,1 @@
-var mnemonic = "gospel seminar legend spring grit fetch soul fold lake enrich tent episode";
+var mnemonic = "meat scan easy bring lecture airport tray favorite ostrich visa point hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "wing advice trash similar push cat iron scissors sketch place hunt focus";
+var mnemonic = "icon patch afford elite casino reveal express apart fold syrup spray robot";

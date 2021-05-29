@@ -1,1 +1,1 @@
-var mnemonic = "ranch sadness arrest lesson stove put skate crystal coil truth sample avocado";
+var mnemonic = "peace garlic pledge much link delay arena ghost decrease slogan chest drum";

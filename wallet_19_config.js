@@ -1,1 +1,1 @@
-var mnemonic = "kid beauty agent kidney dish six tenant ghost critic hen game immune";
+var mnemonic = "rely lunch volume tomato charge chimney equip moment fat online maid bulb";

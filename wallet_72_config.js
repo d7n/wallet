@@ -1,1 +1,1 @@
-var mnemonic = "forget gesture vendor blouse win fury make rural produce stereo cliff tomato";
+var mnemonic = "nerve van stable toddler churn badge drift vicious eternal spare head party";

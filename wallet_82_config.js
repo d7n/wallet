@@ -1,1 +1,1 @@
-var mnemonic = "jewel ethics shoot erupt want relax mansion curve mention swallow obscure risk";
+var mnemonic = "inspire artefact danger wheel thunder grief client demise win chase hungry youth";

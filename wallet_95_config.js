@@ -1,1 +1,1 @@
-var mnemonic = "off resemble night night holiday visual pigeon paper share neck bubble ceiling";
+var mnemonic = "twice blood track box illegal miracle pencil spoil outer fringe insect electric";

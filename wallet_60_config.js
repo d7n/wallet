@@ -1,1 +1,1 @@
-var mnemonic = "coast jump resource beach menu piece pet nerve post mutual nerve wise";
+var mnemonic = "nice rain patrol pass betray abandon speak figure detect what athlete when";

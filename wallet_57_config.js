@@ -1,1 +1,1 @@
-var mnemonic = "faint desert awkward young spider right dream business shallow hedgehog adult electric";
+var mnemonic = "weapon west sell detail gift blur snack gather wise captain van when";

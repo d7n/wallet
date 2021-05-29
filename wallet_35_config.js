@@ -1,1 +1,1 @@
-var mnemonic = "excuse have palace random cupboard test plate visual anger dolphin tray culture";
+var mnemonic = "sting diesel price razor task unable plastic claim fetch amount menu unfair";

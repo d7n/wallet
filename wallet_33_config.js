@@ -1,1 +1,1 @@
-var mnemonic = "hip cause clever panther interest morning digital idea segment labor elegant leopard";
+var mnemonic = "hospital fork poet tube deliver rotate broken tackle tennis casino wet ticket";

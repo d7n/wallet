@@ -1,1 +1,1 @@
-var mnemonic = "mass liar federal knee glance cupboard love involve merit reunion despair spend";
+var mnemonic = "grow river snack remember boss eager dream afraid churn faint when modify";

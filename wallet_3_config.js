@@ -1,1 +1,1 @@
-var mnemonic = "daughter exercise wrap category say club dolphin random normal crash infant excess";
+var mnemonic = "deal nuclear reform habit cream pause such invest fancy cancel hedgehog spike";

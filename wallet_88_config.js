@@ -1,1 +1,1 @@
-var mnemonic = "smart mansion soon spike century acoustic virus render under unhappy then spray";
+var mnemonic = "fox transfer rocket liquid settle code turn nose food razor alert float";

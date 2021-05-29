@@ -1,1 +1,1 @@
-var mnemonic = "raw task siren liar royal pipe empower roof trumpet bread spoon shaft";
+var mnemonic = "author remove sample repair vintage actual security range plate segment team heavy";

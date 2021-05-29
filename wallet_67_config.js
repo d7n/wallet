@@ -1,1 +1,1 @@
-var mnemonic = "ladder feature hill twelve corn acid manage problem rely catch devote brain";
+var mnemonic = "display holiday choose shell burger farm journey burden gallery mask rifle minute";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn double banner impose unveil goat square blanket length street simple height";
+var mnemonic = "traffic skill elevator concert bless gown position receive jaguar praise sketch lawn";

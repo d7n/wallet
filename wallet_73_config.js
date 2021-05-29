@@ -1,1 +1,1 @@
-var mnemonic = "degree mention own refuse eager normal region bike circle usual vessel hazard";
+var mnemonic = "oven shed scrap miss mechanic very danger artwork chest tag perfect web";

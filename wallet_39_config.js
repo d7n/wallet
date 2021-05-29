@@ -1,1 +1,1 @@
-var mnemonic = "bag erosion nasty loop idea chief trigger hunt bargain pitch rabbit paddle";
+var mnemonic = "category flavor have artwork debris job observe remember barrel curtain dolphin final";

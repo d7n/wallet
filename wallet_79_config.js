@@ -1,1 +1,1 @@
-var mnemonic = "zone marble electric innocent repair undo earn museum fortune love rely casino";
+var mnemonic = "sketch away mean argue document mechanic dice silent resemble such flee combine";

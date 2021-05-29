@@ -1,1 +1,1 @@
-var mnemonic = "normal canoe letter injury dizzy garlic razor endless game tent catalog tennis";
+var mnemonic = "balance normal alley online place topple tumble spoon solid method abstract ring";

@@ -1,1 +1,1 @@
-var mnemonic = "hour rhythm load suspect letter catch chair rigid mammal canal drill ready";
+var mnemonic = "speak remember camp layer book please absorb tomorrow vintage embody select oblige";

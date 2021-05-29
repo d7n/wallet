@@ -1,1 +1,1 @@
-var mnemonic = "hand drive glance will slim scrap decide vacuum deal uncover cage coyote";
+var mnemonic = "upon silk leave summer media fan discover ecology minor describe laptop bread";

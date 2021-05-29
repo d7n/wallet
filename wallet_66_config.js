@@ -1,1 +1,1 @@
-var mnemonic = "fish ghost view father tower poet gorilla wheat fruit daughter thank salute";
+var mnemonic = "fatigue child menu cash dinner assume skate mango grunt asset catalog captain";

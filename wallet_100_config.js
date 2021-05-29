@@ -1,1 +1,1 @@
-var mnemonic = "canoe clip narrow drift negative fun satisfy rabbit seat garbage vital later";
+var mnemonic = "topple calm afraid endorse elite step minimum sure trim immense found ugly";

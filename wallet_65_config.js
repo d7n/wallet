@@ -1,1 +1,1 @@
-var mnemonic = "ripple whale try clump grunt mesh trade dial cliff buyer royal elevator";
+var mnemonic = "fever human rail panda radio tuna goddess dream okay strike glimpse expand";

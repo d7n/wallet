@@ -1,1 +1,1 @@
-var mnemonic = "trim reunion throw cabin laundry coil dilemma student clap diet settle drift";
+var mnemonic = "alley artwork swift runway engine base jacket raven armed smoke always quit";

@@ -1,1 +1,1 @@
-var mnemonic = "address powder economy ethics assault retire cycle enjoy venue during pride inmate";
+var mnemonic = "pony knife gorilla huge curtain swing decorate picnic venture series century myth";

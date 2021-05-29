@@ -1,1 +1,1 @@
-var mnemonic = "candy fancy green robot inhale phrase more artefact coral dose defy choose";
+var mnemonic = "kite cliff mass eternal sense steel canvas impose write road fix memory";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter party piece paddle mercy cook sister salute salmon artwork course toy";
+var mnemonic = "debris there multiply once track patrol tent mystery happy member link wear";

@@ -1,1 +1,1 @@
-var mnemonic = "math crane march parade silver canyon leopard umbrella plate burst index horn";
+var mnemonic = "pole tiger jump liar daring pyramid join involve park winter ability cupboard";

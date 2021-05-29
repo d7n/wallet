@@ -1,1 +1,1 @@
-var mnemonic = "forest torch luggage swift twist much inner pencil protect region piano taxi";
+var mnemonic = "path clap view faculty genius captain enrich flame fee front name spice";

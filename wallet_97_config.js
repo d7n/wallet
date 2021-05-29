@@ -1,1 +1,1 @@
-var mnemonic = "arctic comic awful mutual swamp loop custom chronic sail shiver refuse learn";
+var mnemonic = "speed quarter enjoy pyramid west father cheese file myself stereo lawsuit chronic";

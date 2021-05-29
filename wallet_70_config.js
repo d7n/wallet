@@ -1,1 +1,1 @@
-var mnemonic = "dose prepare gallery hungry all possible deposit wall cradle excuse patient inform";
+var mnemonic = "legend picnic ankle device code catalog bacon wish cream fee steak fan";

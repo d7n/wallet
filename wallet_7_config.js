@@ -1,1 +1,1 @@
-var mnemonic = "velvet save hazard strategy tent fan regret retreat office mention crack install";
+var mnemonic = "frown clay situate mad faculty pull pioneer fork cream motor jazz west";

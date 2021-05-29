@@ -1,1 +1,1 @@
-var mnemonic = "unveil auction defy pool devote print cave caution dash harvest glow math";
+var mnemonic = "uncover swift pole laugh minute law valve duck fantasy hybrid unaware into";

@@ -1,1 +1,1 @@
-var mnemonic = "all couch security obey rubber nut bless mobile method note hurdle order";
+var mnemonic = "private cactus logic arrow advance orient april regret funny this cost chase";

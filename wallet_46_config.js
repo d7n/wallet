@@ -1,1 +1,1 @@
-var mnemonic = "various category valley industry decline toilet ketchup melody polar flush rookie wood";
+var mnemonic = "badge risk raccoon fly opera spy code armed tortoise cart high ahead";

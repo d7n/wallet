@@ -1,1 +1,1 @@
-var mnemonic = "high muscle pass chair stone public gossip predict fix trap general truly";
+var mnemonic = "cost hurt sword helmet dizzy shoe again amateur tuna nice amazing exchange";

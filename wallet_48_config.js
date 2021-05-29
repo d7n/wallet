@@ -1,1 +1,1 @@
-var mnemonic = "away play found primary achieve task family wing rose tumble office phrase";
+var mnemonic = "truth harvest year script satoshi film latin raise later before bitter already";

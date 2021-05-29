@@ -1,1 +1,1 @@
-var mnemonic = "embody theory trumpet twelve universe hungry nut coil grab brother humor okay";
+var mnemonic = "beach predict liquid position skate viable salt wrestle liberty hour hold design";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar absorb they wrestle habit wonder reopen pave deposit bulb purity sock";
+var mnemonic = "ticket law weird mother north feel purity diesel dignity doctor move raven";

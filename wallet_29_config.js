@@ -1,1 +1,1 @@
-var mnemonic = "play fringe since retire attract glory clutch shrug despair retreat poet dress";
+var mnemonic = "clog actress asthma have release donate use sword easily claim agent birth";

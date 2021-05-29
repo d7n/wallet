@@ -1,1 +1,1 @@
-var mnemonic = "parent leaf crime ugly sock carry isolate wisdom unhappy artist attract crystal";
+var mnemonic = "play diary antique swap surface bench skirt easy erase mixture mystery exist";

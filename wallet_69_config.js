@@ -1,1 +1,1 @@
-var mnemonic = "sadness mandate chicken traffic track essay entry angle gas sword beyond tortoise";
+var mnemonic = "glove print key nurse aerobic six baby antenna wisdom bring only deny";

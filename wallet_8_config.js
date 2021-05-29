@@ -1,1 +1,1 @@
-var mnemonic = "supreme minute boost arch resource half price goddess deposit wisdom vendor source";
+var mnemonic = "pulp acquire cube angry garden intact manual eyebrow improve friend amazing purpose";

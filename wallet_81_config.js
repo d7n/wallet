@@ -1,1 +1,1 @@
-var mnemonic = "legal injury special fetch person shift kit economy uphold squeeze armed fun";
+var mnemonic = "potato truth sustain timber insect bunker tobacco holiday labor dress clean clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope tag regret okay basic hurt priority mutual file cake enlist casual";
+var mnemonic = "endorse crunch cute struggle recall device dwarf lyrics leopard entry hawk brush";

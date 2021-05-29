@@ -1,1 +1,1 @@
-var mnemonic = "manual six female tool comfort maid put shadow marine rotate ostrich coral";
+var mnemonic = "link life pluck orbit spider mirror can romance oil found curve stock";

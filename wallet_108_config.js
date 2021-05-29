@@ -1,1 +1,1 @@
-var mnemonic = "clay pave purity rent police provide deal used assault govern decide box";
+var mnemonic = "tortoise crisp left wealth capable relax century grass core wrong arrest rug";

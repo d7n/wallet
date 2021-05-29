@@ -1,1 +1,1 @@
-var mnemonic = "garlic drill subway solve choice ketchup use lottery axis range zoo dash";
+var mnemonic = "leaf truth shrug thank remember palace cigar raw trap distance card ecology";

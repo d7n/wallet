@@ -1,1 +1,1 @@
-var mnemonic = "medal journey donkey pitch oblige year slender strategy visual success spread ten";
+var mnemonic = "search welcome upon skirt hip elite rival blush elephant fashion deny fence";

@@ -1,1 +1,1 @@
-var mnemonic = "process camp then thumb useless enroll grape flower shoulder author ritual one";
+var mnemonic = "road visa parade animal cave area strong nerve around vessel rare wise";

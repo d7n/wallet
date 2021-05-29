@@ -1,1 +1,1 @@
-var mnemonic = "throw reveal desk field rebel offer pen syrup climb bone symbol ancient";
+var mnemonic = "saddle blue narrow prevent hawk alley image valid rich weapon fine hire";

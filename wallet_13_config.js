@@ -1,1 +1,1 @@
-var mnemonic = "select rail crouch move reject power sword swamp phone radio sustain segment";
+var mnemonic = "pole impulse banner slender chronic fossil topple exclude sea display fluid step";

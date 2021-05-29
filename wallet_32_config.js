@@ -1,1 +1,1 @@
-var mnemonic = "april world crush trumpet awesome gesture twist glue remember dolphin grape pipe";
+var mnemonic = "hover cream sign tenant embark render slice divorce drama tackle rookie raise";

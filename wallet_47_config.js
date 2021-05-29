@@ -1,1 +1,1 @@
-var mnemonic = "rain hurdle palace fruit soul swamp write cradle color sign flip soup";
+var mnemonic = "repair manage globe unusual raven filter mixed flower board arch next undo";

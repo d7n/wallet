@@ -1,1 +1,1 @@
-var mnemonic = "capital seed clerk swallow bone grid grain fantasy slam urge smooth punch";
+var mnemonic = "defy crucial tennis exist close boring arrow indicate opera ranch trumpet gesture";

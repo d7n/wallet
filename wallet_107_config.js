@@ -1,1 +1,1 @@
-var mnemonic = "way survey aim basic shell civil birth unique giraffe left glove figure";
+var mnemonic = "render uncover bind tell silly hand express female awake blast absurd rely";

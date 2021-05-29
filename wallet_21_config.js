@@ -1,1 +1,1 @@
-var mnemonic = "ozone six profit check museum lecture hunt woman glimpse document pool corn";
+var mnemonic = "fury clever helmet clay prevent damage situate net matrix pulse gallery grow";

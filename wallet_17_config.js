@@ -1,1 +1,1 @@
-var mnemonic = "shove canal exotic sadness buyer runway wink ticket spirit under inform horn";
+var mnemonic = "crash text auto other popular great elevator crash sustain plug elbow unveil";

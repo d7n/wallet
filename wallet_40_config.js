@@ -1,1 +1,1 @@
-var mnemonic = "wash smart mansion pottery fame yellow keep ripple express artist estate broccoli";
+var mnemonic = "uniform other venture universe joke robot social whisper science grid piano dumb";

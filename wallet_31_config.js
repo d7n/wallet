@@ -1,1 +1,1 @@
-var mnemonic = "west spoil usual cradle shove bamboo team shadow material unfold ignore oppose";
+var mnemonic = "gather dirt swift symptom post end pill neglect broken mention miracle sleep";

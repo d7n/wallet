@@ -1,1 +1,1 @@
-var mnemonic = "retire image desk hen situate naive lift desk indicate knock bag metal";
+var mnemonic = "panther reward wage tag prize cloud reason trumpet tape grocery injury follow";

@@ -1,1 +1,1 @@
-var mnemonic = "glove visit sudden mad grief moment own toy demand pepper process reject";
+var mnemonic = "impose work ignore waste stand trumpet color guide seek pave shuffle argue";

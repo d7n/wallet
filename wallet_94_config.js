@@ -1,1 +1,1 @@
-var mnemonic = "replace obscure riot around author expand crawl bacon flash gas bring car";
+var mnemonic = "asthma robust giraffe element enact garden awesome fantasy broom plug focus hamster";

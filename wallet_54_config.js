@@ -1,1 +1,1 @@
-var mnemonic = "runway museum glow honey menu happy body thrive monkey name segment rebel";
+var mnemonic = "tomato grace property honey office logic exercise sentence mind review weird goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "pig steel gentle icon lens cart output finger real help predict garlic";
+var mnemonic = "father dawn reward umbrella dentist defy fish box swallow fork glass shy";

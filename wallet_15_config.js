@@ -1,1 +1,1 @@
-var mnemonic = "cushion canal spider process tent famous tool device option ginger judge actress";
+var mnemonic = "cotton bag canvas hamster super spoil meadow left identify butter rail coach";

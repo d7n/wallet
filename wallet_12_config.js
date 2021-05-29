@@ -1,1 +1,1 @@
-var mnemonic = "property melody erosion globe silly inquiry tide great toddler defy mixed baby";
+var mnemonic = "cheap thank soda inmate weekend program police glove ghost base copper recycle";

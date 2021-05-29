@@ -1,1 +1,1 @@
-var mnemonic = "away beyond check loyal level bracket nuclear document brisk hedgehog pigeon analyst";
+var mnemonic = "silk tribe hard adapt system museum diamond they despair canoe globe trick";

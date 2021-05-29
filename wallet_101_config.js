@@ -1,1 +1,1 @@
-var mnemonic = "gap mimic borrow school wall remove rack mobile else purity van bottom";
+var mnemonic = "fresh original topic layer two brick vicious correct noise scatter quantum keen";

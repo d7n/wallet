@@ -1,1 +1,1 @@
-var mnemonic = "profit expect drum motion sad ten inch quantum when fade wheel retreat";
+var mnemonic = "poet poverty grain duty push interest abstract carpet knee injury bike snake";

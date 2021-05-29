@@ -1,1 +1,1 @@
-var mnemonic = "clock glue total fabric purchase design settle curve genuine crouch worth tumble";
+var mnemonic = "monster recall cycle pigeon quote argue fun broccoli initial captain able prefer";

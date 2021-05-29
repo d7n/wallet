@@ -1,1 +1,1 @@
-var mnemonic = "where act truly wife can learn teach panic warfare deer birth minute";
+var mnemonic = "donate swim sorry return tattoo essay basic pride fossil local loan work";
