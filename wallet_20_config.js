@@ -1,1 +1,1 @@
-var mnemonic = "inch inside category sort include donor blossom crash people sketch unaware make";
+var mnemonic = "cargo coin swift merit possible patient warfare van march taste alone once";

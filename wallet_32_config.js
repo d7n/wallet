@@ -1,1 +1,1 @@
-var mnemonic = "obtain return run never bulb awful size forest butter neither bitter suggest";
+var mnemonic = "leaf load mass spend come bridge invite spoil soldier extend alert fee";

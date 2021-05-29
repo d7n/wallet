@@ -1,1 +1,1 @@
-var mnemonic = "proof salon response gloom office echo sell silver dignity doll lift merit";
+var mnemonic = "regular feed medal earn soft old never key strike barrel ball doll";

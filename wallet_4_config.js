@@ -1,1 +1,1 @@
-var mnemonic = "thunder prefer involve panther popular erupt violin stick april poverty wife grit";
+var mnemonic = "census alarm bottom call grunt wise tackle dragon harvest gorilla novel asthma";

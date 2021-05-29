@@ -1,1 +1,1 @@
-var mnemonic = "idea identify cool arrow bonus music erupt resource program monster wreck crash";
+var mnemonic = "cross find float smooth race same chief weapon media hamster prison arena";

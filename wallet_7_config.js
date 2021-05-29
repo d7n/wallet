@@ -1,1 +1,1 @@
-var mnemonic = "camp wise sense casino whale bar skirt retire fruit door venture this";
+var mnemonic = "adult board walnut surge echo manual carbon pave relief leaf final brave";

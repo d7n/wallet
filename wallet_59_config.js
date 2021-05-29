@@ -1,1 +1,1 @@
-var mnemonic = "quarter omit about gravity short clarify fever slim spare section penalty afraid";
+var mnemonic = "suspect sense rich major favorite either mango torch expand repair sausage enter";

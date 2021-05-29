@@ -1,1 +1,1 @@
-var mnemonic = "wool film indoor early park must leg together wool approve put special";
+var mnemonic = "old card trigger crazy reveal divorce drift science flat marine pyramid donkey";

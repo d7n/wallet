@@ -1,1 +1,1 @@
-var mnemonic = "grape enlist trip day strike area mixture lady country exile sketch wash";
+var mnemonic = "spy tired betray bubble dinosaur inner example tiger now ski wine torch";

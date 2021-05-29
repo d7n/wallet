@@ -1,1 +1,1 @@
-var mnemonic = "later one glare sand maple race debris trust tape stove wheel drop";
+var mnemonic = "erosion purchase bicycle option firm spot service expand blood steel dish border";

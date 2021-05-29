@@ -1,1 +1,1 @@
-var mnemonic = "vehicle nominee sense coral birth vote arm hello shiver sad payment abandon";
+var mnemonic = "make sniff agent quarter puzzle fiction faith slush screen cook paper job";

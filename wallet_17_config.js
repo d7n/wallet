@@ -1,1 +1,1 @@
-var mnemonic = "cute crater first denial farm devote angle busy invest pride supply secret";
+var mnemonic = "sheriff ketchup fine bubble crawl achieve absent hidden danger second such gorilla";

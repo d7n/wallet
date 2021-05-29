@@ -1,1 +1,1 @@
-var mnemonic = "exist rule evil typical earth face payment lottery beef decorate vast receive";
+var mnemonic = "theory orbit crazy captain noodle select celery enact soon penalty possible simple";

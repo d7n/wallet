@@ -1,1 +1,1 @@
-var mnemonic = "hair object tissue bone wood dinner link tag shallow gospel unknown man";
+var mnemonic = "glad amazing absurd keen insane bright have grace doll weapon soldier fresh";

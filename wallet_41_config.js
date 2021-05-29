@@ -1,1 +1,1 @@
-var mnemonic = "idle expire card dentist degree around ability someone hockey upper impact fatigue";
+var mnemonic = "poem badge evidence fuel shrug jealous scissors palm six fold give glow";

@@ -1,1 +1,1 @@
-var mnemonic = "calm mixed staff quality poverty rapid assume cart duty athlete image mobile";
+var mnemonic = "nuclear help nose admit scatter rude illegal awkward bachelor jump gain they";

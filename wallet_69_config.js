@@ -1,1 +1,1 @@
-var mnemonic = "rocket run volume reunion upper duck name dynamic runway joke federal gold";
+var mnemonic = "city spoil door invite hood churn eyebrow endorse pass push hard upper";

@@ -1,1 +1,1 @@
-var mnemonic = "shove between mansion obvious clean fly olympic infant junk deposit phone naive";
+var mnemonic = "rely often winter coyote hub segment limb spot brick shuffle net maid";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb giraffe obscure ticket disease bunker surge license scatter mesh pull stereo";
+var mnemonic = "debris valley vital fuel first rail lens short regular flee winner version";

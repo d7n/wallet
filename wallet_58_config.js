@@ -1,1 +1,1 @@
-var mnemonic = "limb census warfare later extend celery advance peace utility acid loud unit";
+var mnemonic = "urge ready arrive peace pool spy glimpse athlete cherry walk civil ice";

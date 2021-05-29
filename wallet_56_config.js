@@ -1,1 +1,1 @@
-var mnemonic = "tourist ready draft ginger appear glare barrel ozone frame gauge august fold";
+var mnemonic = "before decide garbage isolate wood fresh sphere coach catalog anchor sample illegal";

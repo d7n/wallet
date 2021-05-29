@@ -1,1 +1,1 @@
-var mnemonic = "spatial winner twin treat shop decide silver patch thought blur drum clown";
+var mnemonic = "mechanic oak word gospel three live begin jacket song festival talent tip";

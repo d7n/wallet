@@ -1,1 +1,1 @@
-var mnemonic = "flower whale gloom mean subject assist fish never force transfer wrist oval";
+var mnemonic = "point social logic claw latin ecology purse flee frost forest wise sister";

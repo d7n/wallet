@@ -1,1 +1,1 @@
-var mnemonic = "economy agent rescue winter dove window later beach doll uncover sting fruit";
+var mnemonic = "present climb rack mosquito cattle choose discover autumn cruise hobby vacant submit";

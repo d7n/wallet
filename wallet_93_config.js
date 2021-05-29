@@ -1,1 +1,1 @@
-var mnemonic = "million ankle endorse guard urge join danger embark bomb slight penalty simple";
+var mnemonic = "ribbon steak discover enroll dutch merit invest trick old culture sand recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut hurry affair ahead boat elegant margin novel valid imitate food refuse";
+var mnemonic = "someone hawk list cause grocery hood audit sell speak gather permit pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze depth worth fix bulk weasel welcome coin barely kiss garment purchase";
+var mnemonic = "minute wire phone nice print oyster pear trophy wide disagree myth enroll";

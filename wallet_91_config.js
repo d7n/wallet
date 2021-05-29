@@ -1,1 +1,1 @@
-var mnemonic = "gauge trophy bid scissors long solution silly hub wise trend blast road";
+var mnemonic = "price civil produce nice consider nerve trip bulb abuse submit dwarf proud";

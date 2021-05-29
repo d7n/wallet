@@ -1,1 +1,1 @@
-var mnemonic = "rude pumpkin refuse acoustic dumb august notable caught elegant lounge ribbon knee";
+var mnemonic = "explain art orchard huge surge step truly unique actual minimum avocado intact";

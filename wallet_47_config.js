@@ -1,1 +1,1 @@
-var mnemonic = "ahead wish future solve tobacco lecture frozen between poem bottom lab kidney";
+var mnemonic = "pyramid recipe fresh evolve crush near sea cruise custom lake pact vapor";

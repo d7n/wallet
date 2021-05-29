@@ -1,1 +1,1 @@
-var mnemonic = "what copper beyond foil afraid rifle chief april gaze trigger congress cheese";
+var mnemonic = "fragile hobby oil tower diary diet tourist jewel enable equip happy flower";

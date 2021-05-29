@@ -1,1 +1,1 @@
-var mnemonic = "clutch engage eagle differ grape thrive peasant vocal brown valid cabin poverty";
+var mnemonic = "bus quality token fee harsh echo fan more area weather inner size";

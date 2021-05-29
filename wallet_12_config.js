@@ -1,1 +1,1 @@
-var mnemonic = "twin sunny peanut inch height vacant second climb fly stand toy anchor";
+var mnemonic = "day census depend snake bridge ignore grow coast tuna fire valid slender";

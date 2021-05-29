@@ -1,1 +1,1 @@
-var mnemonic = "heart horse coyote make nation choose sister cupboard quote gentle tunnel trim";
+var mnemonic = "divert icon vote ranch mind dignity priority history grid marble onion mercy";

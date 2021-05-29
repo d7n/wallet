@@ -1,1 +1,1 @@
-var mnemonic = "drill rude reveal poem hero lion ostrich radar ankle want shuffle slam";
+var mnemonic = "despair adjust tenant wonder butter draft month among sea mad pledge task";

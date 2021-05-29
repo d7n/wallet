@@ -1,1 +1,1 @@
-var mnemonic = "harvest point language equal stuff public tone stem method quit wedding satoshi";
+var mnemonic = "gloom salmon demand tired crime divide true essence forum intact popular oyster";

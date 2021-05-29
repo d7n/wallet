@@ -1,1 +1,1 @@
-var mnemonic = "radio exercise attack toilet park onion recipe erase until other tide dignity";
+var mnemonic = "view renew lend asthma woman tackle field chest video urge prosper cheap";

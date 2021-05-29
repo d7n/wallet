@@ -1,1 +1,1 @@
-var mnemonic = "cactus result away alter neck journey attract mom phone dolphin clinic example";
+var mnemonic = "cigar wife lake swallow action upper elite memory food identify school wage";

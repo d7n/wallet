@@ -1,1 +1,1 @@
-var mnemonic = "erase smart donate since fat fetch cousin stove ripple lobster nature upset";
+var mnemonic = "shock round mountain muscle stuff castle town oak sand income fly pause";

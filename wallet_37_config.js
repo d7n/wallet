@@ -1,1 +1,1 @@
-var mnemonic = "code fame stool order total peasant joke obtain dish table hurt hockey";
+var mnemonic = "surround flush tape wool fantasy extend neck garbage trip furnace cable guide";

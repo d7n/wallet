@@ -1,1 +1,1 @@
-var mnemonic = "magnet exclude soup obey burger sample sponsor elevator almost master attract rabbit";
+var mnemonic = "hint very daughter rare buyer wasp depend old supreme blush orange item";

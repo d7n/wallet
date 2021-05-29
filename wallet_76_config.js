@@ -1,1 +1,1 @@
-var mnemonic = "dial misery pupil cabbage coast deputy settle bone near pipe powder spawn";
+var mnemonic = "child coyote fortune mouse kidney hen wasp pelican dove rubber master joy";

@@ -1,1 +1,1 @@
-var mnemonic = "select during system spot negative dismiss robot flee medal crane coconut attitude";
+var mnemonic = "prepare ginger traffic mom shy party winter cricket awesome quantum have soda";

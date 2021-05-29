@@ -1,1 +1,1 @@
-var mnemonic = "side soda steel reward elbow either embrace grow fly ramp degree shrimp";
+var mnemonic = "settle opera diamond final tissue unhappy ritual gown rocket honey speed swing";

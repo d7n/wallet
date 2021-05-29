@@ -1,1 +1,1 @@
-var mnemonic = "pole cheese link artist enter reopen broom guitar staff improve arrow wild";
+var mnemonic = "ostrich gossip put cliff behind quantum embrace ski tape wear other obvious";

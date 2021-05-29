@@ -1,1 +1,1 @@
-var mnemonic = "worry outer define ring above battle chest fragile under despair people multiply";
+var mnemonic = "seek club oval profit love pave ready voice engage square hour hero";

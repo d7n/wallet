@@ -1,1 +1,1 @@
-var mnemonic = "rail short deer weapon mass iron beyond puzzle vague world easily when";
+var mnemonic = "sponsor cabbage arch coconut laundry cargo security interest snake fix tone bone";

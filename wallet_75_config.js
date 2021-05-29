@@ -1,1 +1,1 @@
-var mnemonic = "window current weasel leave goat elite spin organ cradle maze mammal mechanic";
+var mnemonic = "joke wave asset rose leave trust error stove simple gasp wild detail";

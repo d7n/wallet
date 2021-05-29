@@ -1,1 +1,1 @@
-var mnemonic = "loyal mouse oblige zero whale empower dose possible dice disease produce lemon";
+var mnemonic = "disease often please sudden quote recipe sure duck health pitch garment blood";

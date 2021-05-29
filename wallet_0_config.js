@@ -1,1 +1,1 @@
-var mnemonic = "crop casual unique embark educate list noodle length record infant nothing hammer";
+var mnemonic = "guilt prefer burger label brush master pigeon genius puzzle inherit viable pass";

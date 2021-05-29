@@ -1,1 +1,1 @@
-var mnemonic = "model fatigue rural love peasant idea ability weasel scan wrestle comfort core";
+var mnemonic = "response evolve dry that fat ripple bacon response powder arrive birth fun";

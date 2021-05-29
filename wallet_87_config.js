@@ -1,1 +1,1 @@
-var mnemonic = "talk trial model render evoke swap carbon portion diagram chalk climb unfold";
+var mnemonic = "notice surprise short hurt street pair satoshi bronze twice giraffe goat dance";

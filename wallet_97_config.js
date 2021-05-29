@@ -1,1 +1,1 @@
-var mnemonic = "enough electric south glide worry tiny garage explain mountain grass entry garlic";
+var mnemonic = "winter jar stereo vivid one tired accident lounge round scatter piano tone";

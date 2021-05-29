@@ -1,1 +1,1 @@
-var mnemonic = "what bid ridge limb pupil tragic thunder pioneer loyal dice enhance target";
+var mnemonic = "trouble view alley when stomach kiwi violin van assault open pattern cart";

@@ -1,1 +1,1 @@
-var mnemonic = "genre involve brush forum zone include wear dynamic race desk volume crisp";
+var mnemonic = "jacket age balance air piece common light indoor bar nut impose hurry";

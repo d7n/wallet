@@ -1,1 +1,1 @@
-var mnemonic = "toy dinosaur horror donkey you cigar wear when panic addict fun milk";
+var mnemonic = "dilemma rotate frown easy van vast tumble cause dismiss shop uniform park";

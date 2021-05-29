@@ -1,1 +1,1 @@
-var mnemonic = "width mirror spy daughter hawk little kitchen outdoor student vacant excuse mechanic";
+var mnemonic = "naive curtain glove afraid monitor flee battle armed expire oval tail obey";

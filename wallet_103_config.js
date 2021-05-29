@@ -1,1 +1,1 @@
-var mnemonic = "behind rescue sail want position eye radio rail cement post oxygen early";
+var mnemonic = "supply produce cinnamon rail future lawsuit toddler believe catch ribbon invest legal";

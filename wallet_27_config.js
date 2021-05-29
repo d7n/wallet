@@ -1,1 +1,1 @@
-var mnemonic = "black identify mosquito adapt goose film best uncle hungry edge exotic opera";
+var mnemonic = "desk pelican sweet general inhale seed throw blue slogan zone matter dirt";

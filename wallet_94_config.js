@@ -1,1 +1,1 @@
-var mnemonic = "donor victory salute draft dress trip immune tennis emotion give hand draft";
+var mnemonic = "dinner tiger element hero remove tape kiss will trend army west yard";

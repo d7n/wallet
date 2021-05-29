@@ -1,1 +1,1 @@
-var mnemonic = "fun sting exhibit what mother debris squirrel gym sail artist slice wage";
+var mnemonic = "chimney fabric elephant firm one cotton bracket cry atom general lottery loan";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety special network ozone aunt duty aerobic outdoor stadium merit faith memory";
+var mnemonic = "shove client punch swift since horror lonely ahead inflict tower pioneer exotic";

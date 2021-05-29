@@ -1,1 +1,1 @@
-var mnemonic = "hire master purity oil furnace letter spot swamp want crash winter crisp";
+var mnemonic = "lava voice broccoli denial adjust wide usage code flock lizard copy hedgehog";

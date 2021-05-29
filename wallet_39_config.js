@@ -1,1 +1,1 @@
-var mnemonic = "together grocery banana regret spatial defy goat safe wolf property lunch evoke";
+var mnemonic = "toast rice grape galaxy tragic thing exclude capital loud certain razor elbow";

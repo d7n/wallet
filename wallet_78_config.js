@@ -1,1 +1,1 @@
-var mnemonic = "town need pig label mention error another oyster toss once minor laundry";
+var mnemonic = "flame wrong into kingdom series snow thing double struggle bottom feel arrive";

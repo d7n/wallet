@@ -1,1 +1,1 @@
-var mnemonic = "until result cousin poet submit live treat cry obey pact next review";
+var mnemonic = "volume analyst shop exhaust champion saddle manage easy this hover company receive";

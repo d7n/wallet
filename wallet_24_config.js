@@ -1,1 +1,1 @@
-var mnemonic = "tumble govern grab rabbit clutch second pet grape dune nose civil dismiss";
+var mnemonic = "segment boost pupil utility claim member modify address brand popular notice concert";

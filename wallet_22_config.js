@@ -1,1 +1,1 @@
-var mnemonic = "father leisure bitter appear cage wing hat argue old carry priority rebel";
+var mnemonic = "service shield reunion doll intact nerve invest main mirror practice topic undo";

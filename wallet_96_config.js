@@ -1,1 +1,1 @@
-var mnemonic = "fun stumble network large emerge domain pencil fat impulse fuel width dog";
+var mnemonic = "rebel owner wealth car hover jacket pear rack column knee leg expect";

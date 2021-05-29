@@ -1,1 +1,1 @@
-var mnemonic = "parrot example road able lonely episode heavy idea wait easily broken bullet";
+var mnemonic = "range planet transfer crime output ginger silly sphere during brown power core";

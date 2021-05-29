@@ -1,1 +1,1 @@
-var mnemonic = "twice alien point pass spell purse few disease calm lecture label crystal";
+var mnemonic = "ski they accident mercy grant jelly pumpkin advice million rent muffin sock";

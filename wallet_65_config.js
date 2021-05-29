@@ -1,1 +1,1 @@
-var mnemonic = "smoke program rib silver stand illness permit friend version topic beef license";
+var mnemonic = "village mask denial chuckle piano inch avoid twin disagree visit tuna churn";

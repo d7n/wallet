@@ -1,1 +1,1 @@
-var mnemonic = "pact broom garbage host when crumble legend boring banner great middle edit";
+var mnemonic = "shock metal fitness usage drift body feel oxygen shield elbow walnut buddy";

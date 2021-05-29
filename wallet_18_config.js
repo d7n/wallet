@@ -1,1 +1,1 @@
-var mnemonic = "sound hurt virtual mandate cheap sentence public inquiry witness border begin tool";
+var mnemonic = "curious elevator camp asset tobacco heart diagram kiss search siren find equal";

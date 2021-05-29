@@ -1,1 +1,1 @@
-var mnemonic = "tenant payment learn silent useful shrimp across miracle quote ugly praise become";
+var mnemonic = "dust device give imitate lens museum stuff fall snap canal year cattle";

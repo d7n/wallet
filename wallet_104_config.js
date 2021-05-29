@@ -1,1 +1,1 @@
-var mnemonic = "volume sock plastic choice shrimp woman case taxi impact poem prosper harbor";
+var mnemonic = "actress venture please use say deny often hawk often grunt hint critic";

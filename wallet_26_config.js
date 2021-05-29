@@ -1,1 +1,1 @@
-var mnemonic = "lend broom few hero light dinosaur spike shift size lemon match buzz";
+var mnemonic = "shed salute rural brush orchard cigar crumble attract kingdom roof include legend";

@@ -1,1 +1,1 @@
-var mnemonic = "much side midnight flat slight hope task jazz tip pole tennis lounge";
+var mnemonic = "nurse voyage blouse chat lunar since material visa dentist accident six kite";

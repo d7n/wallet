@@ -1,1 +1,1 @@
-var mnemonic = "twice arch wasp piano solid phone miracle myself angry bitter middle more";
+var mnemonic = "want truly arrange now welcome mail magic endless walnut broccoli giraffe climb";

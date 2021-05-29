@@ -1,1 +1,1 @@
-var mnemonic = "wealth fashion install skull potato bridge tongue fame female claw elbow purpose";
+var mnemonic = "stand age tiger width skull canal blossom cart ripple now combine seek";

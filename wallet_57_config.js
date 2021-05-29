@@ -1,1 +1,1 @@
-var mnemonic = "royal aware lucky develop swim climb vacuum hip illegal page bomb december";
+var mnemonic = "genuine test warfare frog fossil edit hungry opera soul volcano recall exhibit";

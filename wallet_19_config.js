@@ -1,1 +1,1 @@
-var mnemonic = "goddess normal story spring critic pencil impulse sugar hollow street reward easily";
+var mnemonic = "road version minute forget width never parrot exchange crowd solar pledge ski";

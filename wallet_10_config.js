@@ -1,1 +1,1 @@
-var mnemonic = "surprise brown draw stem rookie desert relax nature father jealous more angry";
+var mnemonic = "curious water fragile mandate warm eternal crash skill salute join hospital mandate";

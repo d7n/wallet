@@ -1,1 +1,1 @@
-var mnemonic = "toy street carbon umbrella trip saddle ridge silk crane mosquito upgrade flame";
+var mnemonic = "giant cook stem rotate electric meat reunion vague fever depart surface aware";

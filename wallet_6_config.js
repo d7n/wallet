@@ -1,1 +1,1 @@
-var mnemonic = "isolate cart beauty rookie force they meat green enemy subject figure slow";
+var mnemonic = "mushroom isolate outer calm lounge cube beach rapid poverty green off motor";
