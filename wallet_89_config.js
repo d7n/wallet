@@ -1,1 +1,1 @@
-var mnemonic = "together eyebrow market budget climb select seven soccer adjust resemble carbon egg";
+var mnemonic = "torch wife news occur boss will doll fluid lift rent asthma local";

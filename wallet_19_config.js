@@ -1,1 +1,1 @@
-var mnemonic = "warfare traffic luxury arrive clerk peace version silly clock poet pyramid float";
+var mnemonic = "boring about swarm arena grant bridge gift health veteran distance grain label";

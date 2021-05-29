@@ -1,1 +1,1 @@
-var mnemonic = "message buddy toy absurd focus more second net wink token payment senior";
+var mnemonic = "stem quick auto lava various color speed erupt raccoon sorry pudding insect";

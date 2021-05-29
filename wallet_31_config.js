@@ -1,1 +1,1 @@
-var mnemonic = "harvest test focus oval wrist damp memory settle cancel rent virus among";
+var mnemonic = "snow come okay behind pigeon thumb actress crystal tennis sunset spell kiwi";

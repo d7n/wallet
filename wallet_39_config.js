@@ -1,1 +1,1 @@
-var mnemonic = "west priority chef mechanic resist target smoke start culture fringe food lion";
+var mnemonic = "sand sudden light estate involve random alley stuff solar royal myself cause";

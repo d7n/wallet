@@ -1,1 +1,1 @@
-var mnemonic = "rural fog process hip armor hunt fee dirt warfare express amateur crew";
+var mnemonic = "crop simple pen drip wild merge cost what clump repair tuna venture";

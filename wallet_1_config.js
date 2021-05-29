@@ -1,1 +1,1 @@
-var mnemonic = "usage inhale urge combine mass setup debris cloud review thing update prevent";
+var mnemonic = "include payment clutch juice lava mystery letter rich rule laundry skill mixed";

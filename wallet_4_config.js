@@ -1,1 +1,1 @@
-var mnemonic = "thing crystal join inch range tuition december budget fire mirror shop intact";
+var mnemonic = "earn salt wolf subway regular zebra income photo black tonight increase degree";

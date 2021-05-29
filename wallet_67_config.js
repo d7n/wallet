@@ -1,1 +1,1 @@
-var mnemonic = "test ceiling soap panel now copy time melt nasty bundle thing about";
+var mnemonic = "remember chicken recycle flush gadget eternal end visit actress planet muscle ozone";

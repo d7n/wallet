@@ -1,1 +1,1 @@
-var mnemonic = "gospel into alpha receive crime gentle quarter art pelican accuse chapter great";
+var mnemonic = "next average bitter plastic day genius decide crunch require reflect fresh retire";

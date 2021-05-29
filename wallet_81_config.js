@@ -1,1 +1,1 @@
-var mnemonic = "shaft glue innocent tissue mechanic weasel bone mansion fiscal sock reveal hurdle";
+var mnemonic = "humble spice fly drink kind true aim lonely crater action plastic common";

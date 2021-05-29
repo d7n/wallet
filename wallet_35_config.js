@@ -1,1 +1,1 @@
-var mnemonic = "river pelican radar cool another stable run concert south behind awesome club";
+var mnemonic = "valid spot swing helmet saddle ride rotate lottery gospel add pull track";

@@ -1,1 +1,1 @@
-var mnemonic = "remove chapter regret nut sun pistol october ostrich amount benefit exist price";
+var mnemonic = "social corn soda return coffee aunt acid stone club oppose grow scrap";

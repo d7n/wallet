@@ -1,1 +1,1 @@
-var mnemonic = "vessel vehicle distance account upgrade snack attract express picture funny punch welcome";
+var mnemonic = "pizza pilot lens liquid dentist dash zero butter east boil favorite bless";

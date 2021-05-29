@@ -1,1 +1,1 @@
-var mnemonic = "glide uniform happy now enter duck tag early pluck inflict dilemma interest";
+var mnemonic = "notice bid auto inject giggle cattle injury shaft symptom error arrive awake";

@@ -1,1 +1,1 @@
-var mnemonic = "below reunion attack pizza toilet border network patch loyal also hybrid spin";
+var mnemonic = "bid street eight hungry grunt nephew claim either must over system whisper";

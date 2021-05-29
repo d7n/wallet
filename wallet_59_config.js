@@ -1,1 +1,1 @@
-var mnemonic = "attitude apple knock predict zero knife february wash verb arrive seed spike";
+var mnemonic = "muffin talk ability silk exclude clay intact parent avocado jeans april hospital";

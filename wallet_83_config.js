@@ -1,1 +1,1 @@
-var mnemonic = "step what party bring direct simple arch final harsh seek cook lady";
+var mnemonic = "adult door between gesture case history adapt book box deliver arena aspect";

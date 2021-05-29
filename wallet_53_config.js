@@ -1,1 +1,1 @@
-var mnemonic = "second extend airport nothing iron dad return element ketchup monster blouse label";
+var mnemonic = "borrow destroy sign army suspect clean habit repair suit interest flush relax";

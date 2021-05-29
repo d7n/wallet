@@ -1,1 +1,1 @@
-var mnemonic = "uncover artist cup certain globe height shell ostrich find quit genre undo";
+var mnemonic = "fatal else sun frequent vicious flight narrow mask elbow spike surge fly";

@@ -1,1 +1,1 @@
-var mnemonic = "door garlic vacuum business alter crane tackle dirt usual arena elegant process";
+var mnemonic = "miracle mercy excess wise upgrade shallow latin action allow waste rain random";

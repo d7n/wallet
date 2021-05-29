@@ -1,1 +1,1 @@
-var mnemonic = "clip silk enforce glow also install season velvet catch regret mind apology";
+var mnemonic = "access pilot copper inner attitude token trick first wink mind predict blossom";

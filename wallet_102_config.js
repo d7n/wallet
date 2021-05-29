@@ -1,1 +1,1 @@
-var mnemonic = "cage sleep ball void youth monitor blouse festival express dust law zero";
+var mnemonic = "material gold buzz worth shiver satisfy income fly mother stand door radar";

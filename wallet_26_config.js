@@ -1,1 +1,1 @@
-var mnemonic = "dune proud mango holiday aspect lab obvious push report urban broom public";
+var mnemonic = "chase bench rug guess injury tribe uncle patch meat finger bid bargain";

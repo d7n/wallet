@@ -1,1 +1,1 @@
-var mnemonic = "book toy bicycle know arch ill attack wedding dog razor slam when";
+var mnemonic = "wagon stock drip friend funny prison depart into page mad quick planet";

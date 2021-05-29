@@ -1,1 +1,1 @@
-var mnemonic = "bar mask issue clerk onion story beef island soda pilot ordinary just";
+var mnemonic = "hollow baby renew same half change two mixed sea vocal enroll rib";

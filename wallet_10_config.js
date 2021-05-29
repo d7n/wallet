@@ -1,1 +1,1 @@
-var mnemonic = "wagon caution scheme scan upon lumber ankle labor bachelor urban cry alarm";
+var mnemonic = "hunt can rice fragile energy sheriff feel humble artist planet night proof";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb wasp diesel chalk trick sword finish outer thrive swallow coil cable";
+var mnemonic = "drill quiz error become blush return vital layer table arena aerobic smart";

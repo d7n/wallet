@@ -1,1 +1,1 @@
-var mnemonic = "damp century select crash hamster snow tattoo agent flock melt more almost";
+var mnemonic = "upgrade sudden ladder utility age better fire glide critic neglect fluid save";

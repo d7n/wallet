@@ -1,1 +1,1 @@
-var mnemonic = "ozone library tuna vault main slot system carry boss enrich barely observe";
+var mnemonic = "legend menu connect either bullet ability ritual dog device grab lunch crime";

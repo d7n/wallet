@@ -1,1 +1,1 @@
-var mnemonic = "scatter leopard forward win twin opera cheese curve forest curtain scrap valve";
+var mnemonic = "draw reflect engage hazard rain common depart wait animal tobacco divide slow";

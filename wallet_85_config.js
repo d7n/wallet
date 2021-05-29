@@ -1,1 +1,1 @@
-var mnemonic = "analyst dust sea prefer cause able critic logic intact glow emerge subway";
+var mnemonic = "vocal palace end give nut describe raise fit aerobic lemon liberty obvious";

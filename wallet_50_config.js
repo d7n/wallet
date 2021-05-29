@@ -1,1 +1,1 @@
-var mnemonic = "dirt uncover scout normal enrich vintage another jazz total embark enemy crop";
+var mnemonic = "beyond soap motor water drive excuse quote they lizard tower dragon left";

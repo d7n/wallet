@@ -1,1 +1,1 @@
-var mnemonic = "inch engage man people cram marble tail destroy solve ghost change film";
+var mnemonic = "patient vague use comic illegal car fan siren equip excess ahead input";

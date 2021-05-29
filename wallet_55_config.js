@@ -1,1 +1,1 @@
-var mnemonic = "glow flight banana brother embrace fat hunt tray ill awkward ice own";
+var mnemonic = "flock brave someone bunker relief blue one gun decorate fork tissue hedgehog";

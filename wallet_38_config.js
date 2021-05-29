@@ -1,1 +1,1 @@
-var mnemonic = "inhale delay culture tonight tilt grace fly boil conduct occur supply hungry";
+var mnemonic = "derive domain island endless culture square detect snack lottery aspect jealous already";

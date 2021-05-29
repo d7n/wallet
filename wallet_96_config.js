@@ -1,1 +1,1 @@
-var mnemonic = "odor situate curious used proud easy repeat calm general violin toilet swallow";
+var mnemonic = "come genuine vapor banner wire fury intact pitch august market simple mean";

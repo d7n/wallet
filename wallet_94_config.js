@@ -1,1 +1,1 @@
-var mnemonic = "virus lock shine consider weird number indicate grant process gaze salt pepper";
+var mnemonic = "match behind pipe visit party action infant balcony glide explain thank fluid";

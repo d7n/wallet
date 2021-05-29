@@ -1,1 +1,1 @@
-var mnemonic = "length idea dinosaur muffin chuckle primary remember blush crowd give sister bleak";
+var mnemonic = "invite make change opera uniform renew remember during slim aware under gate";

@@ -1,1 +1,1 @@
-var mnemonic = "alone wise exotic evoke ignore fun protect turn panther lend quit juice";
+var mnemonic = "effort upper tuna twin outdoor slim dad smooth control around mom frame";

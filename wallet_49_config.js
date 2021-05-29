@@ -1,1 +1,1 @@
-var mnemonic = "fossil column much tuition solve adult member valid fix until jacket luggage";
+var mnemonic = "walk nothing summer trash way dance trigger frozen bulk economy match modify";

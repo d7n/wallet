@@ -1,1 +1,1 @@
-var mnemonic = "elephant off vault family behind security air bunker elevator outside soon lava";
+var mnemonic = "all blame toss topic morning interest scorpion jealous time law wagon wheat";

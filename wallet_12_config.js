@@ -1,1 +1,1 @@
-var mnemonic = "urge eight sword mail love intact seed frozen visa people awake human";
+var mnemonic = "soul drop inquiry reflect bargain immense love sponsor glow select border blush";

@@ -1,1 +1,1 @@
-var mnemonic = "toss glow cabin gloom cannon hunt piano chief feature lounge detail blanket";
+var mnemonic = "depend shrug thank wrist dwarf soap brief stamp travel glass wire circle";

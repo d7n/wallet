@@ -1,1 +1,1 @@
-var mnemonic = "light service position reward lens sister rapid render equal write tube rebuild";
+var mnemonic = "idea float tumble snap real gaze recall spell hollow umbrella message cannon";

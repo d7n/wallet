@@ -1,1 +1,1 @@
-var mnemonic = "require primary matter social front celery family add cricket east ticket quiz";
+var mnemonic = "vintage glad gospel labor ramp section addict memory fetch cage want taxi";

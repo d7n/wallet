@@ -1,1 +1,1 @@
-var mnemonic = "describe good dinosaur demise vague life veteran orchard blush option live tilt";
+var mnemonic = "carpet bean useful globe engine giraffe organ eye test limit warm recycle";

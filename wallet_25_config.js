@@ -1,1 +1,1 @@
-var mnemonic = "echo power crumble horse wear charge plug arrive tree lab large pitch";
+var mnemonic = "wagon worry raise banner vintage situate yellow turtle gloom relax quantum imitate";

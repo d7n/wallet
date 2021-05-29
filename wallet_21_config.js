@@ -1,1 +1,1 @@
-var mnemonic = "tuition mimic exclude weird pipe industry ready card cube corn obscure various";
+var mnemonic = "attract attitude liberty eagle outside crater liberty more pilot connect sea friend";

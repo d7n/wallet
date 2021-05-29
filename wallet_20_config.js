@@ -1,1 +1,1 @@
-var mnemonic = "pear interest photo vast taste property rich wink inside glory blast once";
+var mnemonic = "fee miracle bean tooth pilot angle skirt lady express fetch consider retire";

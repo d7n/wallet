@@ -1,1 +1,1 @@
-var mnemonic = "cargo achieve retreat bridge strategy honey foil animal coral busy weird mass";
+var mnemonic = "rain rib tonight rent opinion cup brief program scissors humble carbon pupil";

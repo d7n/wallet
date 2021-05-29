@@ -1,1 +1,1 @@
-var mnemonic = "penalty put ethics quantum nerve daughter enact word tunnel knock subway maze";
+var mnemonic = "post asthma burst maple cruel glove corn warfare affair forget innocent autumn";

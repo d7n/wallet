@@ -1,1 +1,1 @@
-var mnemonic = "letter solid unfair plug balance swing acid term olive pottery snake weasel";
+var mnemonic = "snap write paddle evoke buyer submit rain wall want captain forward attract";

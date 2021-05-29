@@ -1,1 +1,1 @@
-var mnemonic = "document truck quote phone accuse priority beef vivid flush permit price tomato";
+var mnemonic = "deposit young scale tortoise match december initial muffin garment nut eye emotion";

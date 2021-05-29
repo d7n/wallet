@@ -1,1 +1,1 @@
-var mnemonic = "diesel pool axis fantasy double practice trim ketchup raven win agent material";
+var mnemonic = "faith demise fee invest favorite citizen brain custom cycle impulse liberty cook";

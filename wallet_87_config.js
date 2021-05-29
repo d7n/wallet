@@ -1,1 +1,1 @@
-var mnemonic = "bird adapt disorder sentence mad fiber cross oven sunny plastic ride step";
+var mnemonic = "inquiry all agree north carpet limb ritual wasp hobby sell daring anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "hint mansion fever quarter monitor liquid heart monkey whisper hundred clock aisle";
+var mnemonic = "tilt net unhappy vendor gate toe crush shy dune wonder latin grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate crazy faint card seven gallery tomato tomato session capable coffee tunnel";
+var mnemonic = "oval pull test please gaze father room omit elite window stool possible";

@@ -1,1 +1,1 @@
-var mnemonic = "proud injury unknown solution muscle stairs few mass giant jar cost spatial";
+var mnemonic = "large fade cherry area extend plug shuffle usage chief enrich occur oyster";

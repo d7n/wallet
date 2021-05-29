@@ -1,1 +1,1 @@
-var mnemonic = "smooth upon fit fox grant together auction bargain dwarf fortune lazy zone";
+var mnemonic = "exercise bargain morning earth bomb harbor plate stone blur mansion napkin fresh";

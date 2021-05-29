@@ -1,1 +1,1 @@
-var mnemonic = "wreck credit sad hour parade aim rule avoid crush office salad will";
+var mnemonic = "parade language tower unfold agree aspect garden radar dragon inch certain enrich";

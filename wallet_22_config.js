@@ -1,1 +1,1 @@
-var mnemonic = "acquire embrace culture stand museum have weapon amateur uphold subway gauge biology";
+var mnemonic = "town notable galaxy august skate please snap inform fish family remain biology";

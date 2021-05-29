@@ -1,1 +1,1 @@
-var mnemonic = "movie replace dinosaur lab heart palm kidney crystal dizzy hub enrich crane";
+var mnemonic = "mind pool steak leave rich ordinary aspect project sibling steak maximum couple";

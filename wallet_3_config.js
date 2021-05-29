@@ -1,1 +1,1 @@
-var mnemonic = "menu wrap library palm curious social donate churn insane detect cheese primary";
+var mnemonic = "penalty exclude satoshi shock border bulk cupboard speak girl oxygen pipe post";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue strategy venue popular choice silver chunk cancel gesture rely romance virus";
+var mnemonic = "benefit disagree napkin mosquito lucky couple zebra luggage lumber whale phrase desk";

@@ -1,1 +1,1 @@
-var mnemonic = "silly infant legend join goat zero ten pull guard fence possible olympic";
+var mnemonic = "journey obscure lemon cruel slow machine smoke coffee sick crowd squirrel problem";

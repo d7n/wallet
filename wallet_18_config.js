@@ -1,1 +1,1 @@
-var mnemonic = "truth best all special siren second employ mountain together speed more example";
+var mnemonic = "anchor menu margin quote false slam super high source drive champion motion";

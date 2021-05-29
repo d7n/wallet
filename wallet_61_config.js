@@ -1,1 +1,1 @@
-var mnemonic = "dutch dry federal letter leave arm mind prefer turkey often violin pact";
+var mnemonic = "major blind ill above gun tobacco huge cannon phone answer desk this";

@@ -1,1 +1,1 @@
-var mnemonic = "stand light before hurt snack barely squirrel jar hammer among gasp couple";
+var mnemonic = "oil ivory empower citizen tilt pulp cheese second pizza slow tide issue";

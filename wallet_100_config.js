@@ -1,1 +1,1 @@
-var mnemonic = "radar intact service comic trip awake brick rough night parrot alarm bonus";
+var mnemonic = "mouse lion vintage buzz sail diesel glue base renew early alter miracle";

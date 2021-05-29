@@ -1,1 +1,1 @@
-var mnemonic = "inch eye oppose top leopard comic swallow voice churn space normal robust";
+var mnemonic = "disease kidney dish love segment rich sniff snack tuition nasty music combine";

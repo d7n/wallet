@@ -1,1 +1,1 @@
-var mnemonic = "retreat luxury flower push text body oven click choose grunt industry skill";
+var mnemonic = "step remain degree match turkey display idea begin slush hard memory marble";

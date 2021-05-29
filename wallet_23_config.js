@@ -1,1 +1,1 @@
-var mnemonic = "noise wet only assault inspire subject album kitchen cabin twin crystal bulb";
+var mnemonic = "cherry echo phrase online fall twice inner crew valid glory banana flower";

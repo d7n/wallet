@@ -1,1 +1,1 @@
-var mnemonic = "grid time fix arrive pupil lobster retire raven dismiss live neck job";
+var mnemonic = "crack oil tiny galaxy east ghost together neutral pond copper dry siren";

@@ -1,1 +1,1 @@
-var mnemonic = "state first draft also leader chimney range token clerk bus inside wear";
+var mnemonic = "ghost observe repeat december siren shove lesson club pause clay basic frozen";

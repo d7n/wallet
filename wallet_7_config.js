@@ -1,1 +1,1 @@
-var mnemonic = "cushion media educate remove custom syrup bread print invite client legal bomb";
+var mnemonic = "cushion provide later park gauge theory lend various brass maple torch day";

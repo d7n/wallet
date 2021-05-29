@@ -1,1 +1,1 @@
-var mnemonic = "tragic napkin pepper cabin east planet ring program flight raven protect mail";
+var mnemonic = "tuna weird pelican test now fantasy weekend scene milk person wet dash";

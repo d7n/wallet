@@ -1,1 +1,1 @@
-var mnemonic = "analyst awesome claim tackle calm peanut catalog vague diet almost true label";
+var mnemonic = "fluid nut napkin method happy angle coin swarm cool resource dragon ladder";

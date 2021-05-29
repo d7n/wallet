@@ -1,1 +1,1 @@
-var mnemonic = "author spy finger crash lunch person dolphin romance draw situate fade ice";
+var mnemonic = "gate floor deal joke shield myself nothing saddle drill found feature dog";

@@ -1,1 +1,1 @@
-var mnemonic = "devote fork idle perfect fan hybrid where feed inhale delay marble lady";
+var mnemonic = "garment gravity dinosaur sail castle frozen island stamp piano student oven media";

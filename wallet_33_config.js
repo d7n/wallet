@@ -1,1 +1,1 @@
-var mnemonic = "ship kit region cactus route spot betray loyal eternal flower sport velvet";
+var mnemonic = "empty raccoon narrow chuckle current add surface unlock report unique learn bacon";

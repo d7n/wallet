@@ -1,1 +1,1 @@
-var mnemonic = "soda element lonely purpose win ribbon shoe visit vacuum faint scene scan";
+var mnemonic = "bike stamp razor area immense entire enrich primary toe side recipe advice";

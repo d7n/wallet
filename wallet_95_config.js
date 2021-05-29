@@ -1,1 +1,1 @@
-var mnemonic = "cage maze shrug follow window feed arrive album round rural east exhaust";
+var mnemonic = "anger draw alone trip empty chief humble royal donkey bunker price stock";

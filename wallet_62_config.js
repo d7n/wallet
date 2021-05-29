@@ -1,1 +1,1 @@
-var mnemonic = "amused roast proud turtle holiday report beauty ordinary little trend glide year";
+var mnemonic = "pioneer enhance situate bird winner cheap magic march jaguar tomato merry nasty";

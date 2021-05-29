@@ -1,1 +1,1 @@
-var mnemonic = "syrup picture payment kick coconut tribe clump century grab spare van sight";
+var mnemonic = "stone bulb tent tent leg puppy immune mouse tongue skill crawl fall";

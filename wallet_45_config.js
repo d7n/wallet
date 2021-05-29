@@ -1,1 +1,1 @@
-var mnemonic = "quality need catalog solution quantum wheat giant roof woman differ effort scan";
+var mnemonic = "route liar length mention honey wave party title seed alone toe neutral";
