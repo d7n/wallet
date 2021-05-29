@@ -1,1 +1,1 @@
-var mnemonic = "other dog horse two labor mad chaos mad crystal decline couple sort";
+var mnemonic = "caution menu gaze awful cry fat supply label middle mercy minor puppy";

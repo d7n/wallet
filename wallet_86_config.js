@@ -1,1 +1,1 @@
-var mnemonic = "hybrid pole example praise shock quality genuine awake talent left umbrella owner";
+var mnemonic = "oxygen crumble until rare obtain engine warm believe crash trigger van symbol";

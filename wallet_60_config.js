@@ -1,1 +1,1 @@
-var mnemonic = "blanket kiwi gesture menu foil kitten village clutch barely auction tray little";
+var mnemonic = "patch cargo online enact clump alien gain random renew laundry crouch wasp";

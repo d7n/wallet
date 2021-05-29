@@ -1,1 +1,1 @@
-var mnemonic = "glance satisfy crash derive welcome scan stool color rookie hamster virus demand";
+var mnemonic = "useful cinnamon time devote message omit relax question athlete wealth win sugar";

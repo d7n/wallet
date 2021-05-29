@@ -1,1 +1,1 @@
-var mnemonic = "trial disease whale security grief increase silent mountain pride burst stamp dwarf";
+var mnemonic = "weird hamster impulse skate method assist entire mistake turtle talk tired behave";

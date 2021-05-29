@@ -1,1 +1,1 @@
-var mnemonic = "faith apple uniform observe imitate wide scene obey oil just multiply state";
+var mnemonic = "stage fan kind learn cattle trick humble phrase cry diet warrior rubber";

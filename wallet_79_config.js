@@ -1,1 +1,1 @@
-var mnemonic = "smart butter tonight cry grant gain cool trick enlist pupil walk grant";
+var mnemonic = "raw kid sing faint inform sing gloom chicken garage wish lonely aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "burst legend must frequent action media fee heart setup avocado angle ramp";
+var mnemonic = "buffalo girl bid gun media casual battle collect phrase remind steak diary";

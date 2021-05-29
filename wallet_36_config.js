@@ -1,1 +1,1 @@
-var mnemonic = "night have bulb shrug salon engine shield garbage avocado merge toddler task";
+var mnemonic = "ivory direct need almost labor electric call army insect tray square smoke";

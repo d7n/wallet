@@ -1,1 +1,1 @@
-var mnemonic = "mobile you cushion dentist brass mutual donkey scorpion mule thank bench subway";
+var mnemonic = "indicate symptom village present size filter culture oven general leisure doctor tired";

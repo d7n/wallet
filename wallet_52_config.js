@@ -1,1 +1,1 @@
-var mnemonic = "defense quantum fish inch logic amused sing all shrimp obscure parade fiscal";
+var mnemonic = "fury man lava diagram fluid science vocal goose fetch idle prevent danger";

@@ -1,1 +1,1 @@
-var mnemonic = "note rare merry manual pond increase pioneer view surround glance tortoise brief";
+var mnemonic = "casino detect cliff awesome relax language mirror gift apart remember quantum detect";

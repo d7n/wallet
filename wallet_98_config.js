@@ -1,1 +1,1 @@
-var mnemonic = "budget demand catch dwarf mosquito now ginger course normal adjust ramp chaos";
+var mnemonic = "orange yellow tragic control panic town derive salt acoustic wish indoor width";

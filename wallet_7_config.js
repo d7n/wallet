@@ -1,1 +1,1 @@
-var mnemonic = "gentle rude lamp card success organ month nothing punch fine fold taste";
+var mnemonic = "put plunge wink clean tribe shuffle valley report group today seven dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy please shield venue switch display very tumble erupt bid lava motion";
+var mnemonic = "gap swim curve digital prison flag egg tomorrow round end bike second";

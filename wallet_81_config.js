@@ -1,1 +1,1 @@
-var mnemonic = "raw frog you relax release protect obscure nephew tongue inhale key avoid";
+var mnemonic = "ahead pumpkin soft try abuse explain ocean absent hood loan dress what";

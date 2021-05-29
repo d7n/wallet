@@ -1,1 +1,1 @@
-var mnemonic = "quantum century afford bargain midnight ticket issue once empty enlist mother blush";
+var mnemonic = "region then system cannon canyon donkey gauge history subject siren express phone";

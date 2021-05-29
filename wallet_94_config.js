@@ -1,1 +1,1 @@
-var mnemonic = "profit junk option cloth lend brown fitness patient hero edge remain journey";
+var mnemonic = "moment venture sort license derive muffin pyramid knife angle industry peace cost";

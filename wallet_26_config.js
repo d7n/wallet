@@ -1,1 +1,1 @@
-var mnemonic = "memory all worry liquid amateur replace hour uniform order assist rack ketchup";
+var mnemonic = "subway loan impose pigeon giggle abstract priority unhappy equip coin suggest pond";

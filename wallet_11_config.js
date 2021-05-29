@@ -1,1 +1,1 @@
-var mnemonic = "ride scale banana cupboard object silk bone patient wrong absurd bag wage";
+var mnemonic = "broken detect nation orbit slot mutual company dune one frog leaf venue";

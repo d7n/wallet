@@ -1,1 +1,1 @@
-var mnemonic = "ticket admit forest gentle below end squeeze west vivid dust pet clerk";
+var mnemonic = "little truck endorse sure issue trim drive suggest brain ensure addict elevator";

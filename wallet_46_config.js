@@ -1,1 +1,1 @@
-var mnemonic = "expect ostrich ride despair meadow skill inside knock evolve organ ritual original";
+var mnemonic = "execute atom rely early service pumpkin mobile swallow rural fiscal general clog";

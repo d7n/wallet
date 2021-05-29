@@ -1,1 +1,1 @@
-var mnemonic = "rival resemble net power butter puzzle city soap scrub ramp garbage tag";
+var mnemonic = "timber jacket include disease moment unusual exotic ostrich recycle toast object cannon";

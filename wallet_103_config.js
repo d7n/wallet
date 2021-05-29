@@ -1,1 +1,1 @@
-var mnemonic = "dentist warfare once toilet patient correct select decline magic planet wool betray";
+var mnemonic = "orbit lawn genre cool rate pattern upgrade fiscal symbol ethics game gauge";

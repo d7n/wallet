@@ -1,1 +1,1 @@
-var mnemonic = "satoshi orange basket drill prison pencil damage fitness ice what fall income";
+var mnemonic = "upset believe army slight total load firm damp distance design cool mouse";

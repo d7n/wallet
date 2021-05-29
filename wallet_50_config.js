@@ -1,1 +1,1 @@
-var mnemonic = "consider layer grace input omit mail chief credit trade bitter organ syrup";
+var mnemonic = "mention acquire model parent client polar wrong attitude dilemma hope start inquiry";

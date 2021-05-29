@@ -1,1 +1,1 @@
-var mnemonic = "blur lend summer reason beyond general involve car rate flight judge quantum";
+var mnemonic = "struggle point silly middle error produce hundred now fame orbit slush basket";

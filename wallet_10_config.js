@@ -1,1 +1,1 @@
-var mnemonic = "amused document require consider pool such pretty earn away kick infant culture";
+var mnemonic = "protect near option robot deposit forum update head grid bitter artist bean";

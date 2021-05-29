@@ -1,1 +1,1 @@
-var mnemonic = "choice airport flower window draw apple visual faint traffic palm noble clock";
+var mnemonic = "spring craft author call february goat volume draft action sorry first eternal";

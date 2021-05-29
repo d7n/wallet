@@ -1,1 +1,1 @@
-var mnemonic = "wisdom mirror donkey tortoise wrestle digital mountain sponsor blood uphold stadium state";
+var mnemonic = "convince purity shrimp asthma piece rapid acid join measure extra boat tissue";

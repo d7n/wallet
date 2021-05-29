@@ -1,1 +1,1 @@
-var mnemonic = "dream abstract buffalo version illegal bamboo sniff you silent regular hand blush";
+var mnemonic = "blind remind appear gospel obscure jaguar cross beef flavor rough airport cousin";

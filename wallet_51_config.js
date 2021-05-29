@@ -1,1 +1,1 @@
-var mnemonic = "peanut wool aunt life other merge mobile example exile radar idle motor";
+var mnemonic = "toe name mass night pudding grace sell column fog illness disorder error";

@@ -1,1 +1,1 @@
-var mnemonic = "over axis harbor sand noble paddle shop dash scrap oil tenant festival";
+var mnemonic = "brick pen boil glove sleep assault clown torch limb bachelor night capital";

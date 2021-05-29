@@ -1,1 +1,1 @@
-var mnemonic = "salad few armor cheese divorce catch sponsor chase surge muffin another thumb";
+var mnemonic = "sample slow bulb adjust tower foster catch convince jewel sign best push";

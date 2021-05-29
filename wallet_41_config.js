@@ -1,1 +1,1 @@
-var mnemonic = "task camera sting valve ostrich laundry prison always warfare hen believe engine";
+var mnemonic = "urge index start monitor embrace drill arrow spice cupboard sure impact horse";

@@ -1,1 +1,1 @@
-var mnemonic = "else rain ridge split settle intact recipe lend law place crop camera";
+var mnemonic = "million awful rice pepper relief verb blast file match mixed stuff dinner";

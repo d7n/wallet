@@ -1,1 +1,1 @@
-var mnemonic = "expose balcony evolve sentence buyer wire arctic clean vacant thing sustain phone";
+var mnemonic = "edge vessel original item merge catalog soccer jump funny frown laundry umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "purity turtle scatter target world goose cargo corn fox crew early manual";
+var mnemonic = "decade inch law enjoy replace apology south spirit glory hip siege defy";

@@ -1,1 +1,1 @@
-var mnemonic = "trap phrase input heart print butter peasant baby lunar bicycle genius hunt";
+var mnemonic = "paper entry indicate exact still riot frequent stand fence debris eagle profit";

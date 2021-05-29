@@ -1,1 +1,1 @@
-var mnemonic = "such bracket claw toe math boil night usual speed timber earn huge";
+var mnemonic = "meat fancy endless sentence entry analyst sign gather photo letter smile decline";

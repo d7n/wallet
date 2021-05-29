@@ -1,1 +1,1 @@
-var mnemonic = "license humor dragon rigid mixture advice grit rabbit amazing gauge evolve giraffe";
+var mnemonic = "twice loyal okay laundry present rice shadow pelican portion travel antenna fit";

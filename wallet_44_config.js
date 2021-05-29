@@ -1,1 +1,1 @@
-var mnemonic = "farm photo choose diesel neglect sword three long drift drift again dwarf";
+var mnemonic = "thrive suffer cart custom pulse merry shine depart reject short snake basket";

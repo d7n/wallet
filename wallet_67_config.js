@@ -1,1 +1,1 @@
-var mnemonic = "sunset raven improve magnet spend craft coral derive coin parrot jealous sponsor";
+var mnemonic = "bleak company rabbit hurry avocado man census trick grass width escape blame";

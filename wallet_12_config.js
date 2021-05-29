@@ -1,1 +1,1 @@
-var mnemonic = "cargo step spider rely general ridge ladder repair concert hello patch robot";
+var mnemonic = "only nasty baby put only angry isolate inch jazz blade valve bean";

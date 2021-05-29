@@ -1,1 +1,1 @@
-var mnemonic = "tongue bunker shell spoil pretty total shed bunker bless rain aerobic quiz";
+var mnemonic = "thank impose better awesome panther cost undo they dumb found eagle athlete";

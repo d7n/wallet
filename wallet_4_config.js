@@ -1,1 +1,1 @@
-var mnemonic = "scare slush chuckle worry approve reveal glue garden stamp despair monster six";
+var mnemonic = "peasant seminar fetch garlic once arch insect false issue hybrid top team";

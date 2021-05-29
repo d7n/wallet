@@ -1,1 +1,1 @@
-var mnemonic = "gown void glance circle baby else stove impulse shadow depth yellow enrich";
+var mnemonic = "snake service exhaust clown pool anxiety deputy you found portion noble angle";

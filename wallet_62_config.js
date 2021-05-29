@@ -1,1 +1,1 @@
-var mnemonic = "okay segment bid skull blossom resemble nest satoshi what twice tornado other";
+var mnemonic = "spread library clump update group question air harvest air pelican echo copy";

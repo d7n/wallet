@@ -1,1 +1,1 @@
-var mnemonic = "net peace solid misery repair resemble machine alien potato rifle trap scorpion";
+var mnemonic = "debris guess fox ice rain business relief inch attitude luggage shove village";

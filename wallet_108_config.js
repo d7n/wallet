@@ -1,1 +1,1 @@
-var mnemonic = "width minimum scorpion system process oil nasty buyer obvious tide stage enrich";
+var mnemonic = "supply reveal cash air broom nerve pact welcome push almost comfort pretty";

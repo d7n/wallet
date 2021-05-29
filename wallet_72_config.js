@@ -1,1 +1,1 @@
-var mnemonic = "inform trip crumble fruit bamboo remain cream review skate stage wink exclude";
+var mnemonic = "enhance hair surface web they wash wage mushroom burger outer gain author";

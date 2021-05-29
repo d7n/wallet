@@ -1,1 +1,1 @@
-var mnemonic = "problem shrimp install apple start world position acquire perfect cloud doctor entire";
+var mnemonic = "produce material poem result daughter matter chronic reveal warfare sister fetch casual";

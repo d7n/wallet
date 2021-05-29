@@ -1,1 +1,1 @@
-var mnemonic = "ivory seminar risk multiply jungle carpet initial thought unhappy large leave hedgehog";
+var mnemonic = "camera ice elder fence useful bacon kangaroo dog supply surface clock pepper";

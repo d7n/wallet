@@ -1,1 +1,1 @@
-var mnemonic = "cage page slush track cram abandon nominee snack solution rug round estate";
+var mnemonic = "spatial grab library kick giraffe milk release case harbor all twist renew";

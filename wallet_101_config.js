@@ -1,1 +1,1 @@
-var mnemonic = "donor jacket waste mosquito arctic oblige expand leisure apple nation ethics visa";
+var mnemonic = "puppy entry tuition shed anger isolate hole fiber suit twin vacant joy";

@@ -1,1 +1,1 @@
-var mnemonic = "office gaze spy truck arm extra frost essence hover custom toast kick";
+var mnemonic = "year spring orchard illness say above chat change boat joy kid state";

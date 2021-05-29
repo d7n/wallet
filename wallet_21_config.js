@@ -1,1 +1,1 @@
-var mnemonic = "fun goat cactus vivid offer nuclear evoke scheme swear tank rely battle";
+var mnemonic = "lottery choose mention truck ranch detect jealous caution renew embrace network beach";

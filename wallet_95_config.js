@@ -1,1 +1,1 @@
-var mnemonic = "ginger want cliff warrior sudden dress pledge grunt hero pudding ball ahead";
+var mnemonic = "typical coil verb three tag cash pudding island divide crucial result fat";

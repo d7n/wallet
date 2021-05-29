@@ -1,1 +1,1 @@
-var mnemonic = "hat enable frozen total predict twelve age wrap sustain still extra woman";
+var mnemonic = "outside sentence coach whip depart rice auction plate two bleak turtle ugly";

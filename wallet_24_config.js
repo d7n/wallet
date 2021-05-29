@@ -1,1 +1,1 @@
-var mnemonic = "source that lunch people soft icon dawn glove tomorrow marine more dog";
+var mnemonic = "onion material relax degree lock left candy chef orchard start wave enforce";

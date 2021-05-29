@@ -1,1 +1,1 @@
-var mnemonic = "fun guard impose human portion liquid auction night talent comic grass drink";
+var mnemonic = "unknown observe shoot security unfair topple drip fresh large quit surprise essay";

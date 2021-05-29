@@ -1,1 +1,1 @@
-var mnemonic = "skate poverty horn burden senior diamond defense proud choose early sport sweet";
+var mnemonic = "horn eight before gorilla disease milk obscure wrist quick educate void notable";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy poem industry water donkey favorite engage move coast bomb couch comfort";
+var mnemonic = "despair hazard junior camp collect oyster fish sister over prefer negative umbrella";

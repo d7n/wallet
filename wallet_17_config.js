@@ -1,1 +1,1 @@
-var mnemonic = "leave dumb design swarm year intact catalog cream useful castle pact business";
+var mnemonic = "family hub giraffe novel basket filter observe drill matrix witness lend bright";

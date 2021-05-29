@@ -1,1 +1,1 @@
-var mnemonic = "patient oppose toward flight fabric charge connect slogan memory video grass over";
+var mnemonic = "skill ski pride fade bean right acid bean fiber half sadness chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe wrist actor boy oxygen exit gorilla secret purchase fringe pistol street";
+var mnemonic = "evoke under jealous cargo shaft bus luggage bring silent custom kingdom shift";

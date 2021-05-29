@@ -1,1 +1,1 @@
-var mnemonic = "mushroom trumpet hole pelican onion visit hint grief exchange chunk flat resource";
+var mnemonic = "cute salute afford jealous soda hidden bachelor raccoon crane illness seven two";

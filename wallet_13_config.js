@@ -1,1 +1,1 @@
-var mnemonic = "grow must fall surge gesture layer useless course lawsuit village mesh return";
+var mnemonic = "rough ahead slight unaware tent prefer belt marine concert already then hundred";

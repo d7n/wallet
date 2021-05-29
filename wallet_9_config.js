@@ -1,1 +1,1 @@
-var mnemonic = "icon proud torch trial become twice sail any youth wrestle sudden tribe";
+var mnemonic = "blush boil absurd height finger vocal book tomorrow fuel ten color seed";

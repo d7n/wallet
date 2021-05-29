@@ -1,1 +1,1 @@
-var mnemonic = "ordinary utility name stove enjoy movie spray gate blue post garden vacant";
+var mnemonic = "swear vacuum dwarf over obscure soon asthma whip twin write famous input";

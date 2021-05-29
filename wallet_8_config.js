@@ -1,1 +1,1 @@
-var mnemonic = "polar dry robust napkin rain disorder orange forest unlock flee recipe palm";
+var mnemonic = "inflict absent sleep vocal snow endless silver cabbage curtain cricket eagle news";

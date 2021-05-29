@@ -1,1 +1,1 @@
-var mnemonic = "coconut pipe width silk pig random salon fortune stuff shoe goat permit";
+var mnemonic = "muscle write club chair alcohol cabbage dilemma service tonight embody appear table";

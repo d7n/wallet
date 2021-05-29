@@ -1,1 +1,1 @@
-var mnemonic = "trim skull cave fold blush wedding winter crop spirit foil hour nose";
+var mnemonic = "fancy bind desk afraid female high struggle sorry bird borrow decline dice";

@@ -1,1 +1,1 @@
-var mnemonic = "cry erupt image solution blame build erupt swim cover night nest phrase";
+var mnemonic = "black rebel where phone board wet faculty trial dice humble squirrel find";

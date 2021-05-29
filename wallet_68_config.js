@@ -1,1 +1,1 @@
-var mnemonic = "response frozen eager bean decorate fun category differ train attend common music";
+var mnemonic = "verify muffin swift ten ginger off stem fade tomato first lake until";

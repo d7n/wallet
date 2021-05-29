@@ -1,1 +1,1 @@
-var mnemonic = "betray science spider few finger time denial garment loyal panther van enjoy";
+var mnemonic = "intact cat crisp retreat treat wrap spell fall salmon oxygen theory right";

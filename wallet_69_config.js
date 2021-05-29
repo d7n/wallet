@@ -1,1 +1,1 @@
-var mnemonic = "earn system believe slide rent price person toe merry faint forum heavy";
+var mnemonic = "kitchen sleep fatal pulp cotton situate poverty common tent million pass staff";

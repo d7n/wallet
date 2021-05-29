@@ -1,1 +1,1 @@
-var mnemonic = "craft tone since extend rent boost half muffin bread rare worry siren";
+var mnemonic = "tell save catch endless where muffin poet before coil level cancel silly";

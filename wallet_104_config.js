@@ -1,1 +1,1 @@
-var mnemonic = "game general view party case short police spot kingdom gas open medal";
+var mnemonic = "swallow marble enrich choice shoot decade club camera lumber toss right safe";

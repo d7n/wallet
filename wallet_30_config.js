@@ -1,1 +1,1 @@
-var mnemonic = "shallow tackle undo alter mansion disagree sadness wrestle talent note canvas movie";
+var mnemonic = "chef boy width permit cruel sense ring citizen also jaguar sick inspire";

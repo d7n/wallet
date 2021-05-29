@@ -1,1 +1,1 @@
-var mnemonic = "flash pipe slam rice wolf anxiety cloud weekend cheap cool prize owner";
+var mnemonic = "note layer only health cram voice soft what hard sentence ring illegal";

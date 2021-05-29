@@ -1,1 +1,1 @@
-var mnemonic = "minimum wagon rely add bulk affair excite blast agent mixture august crumble";
+var mnemonic = "know jump notable try lunch boss trust duty intact bird air utility";

@@ -1,1 +1,1 @@
-var mnemonic = "forum gas bunker cake mind concert harsh other slice chicken join luxury";
+var mnemonic = "expect already hint during brass canyon push degree amateur nation midnight cute";

@@ -1,1 +1,1 @@
-var mnemonic = "aim tent notable option insane tobacco ask food various impose alone shine";
+var mnemonic = "desert uncover proud evolve float auction vehicle stamp sell keen sudden layer";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh common ripple mean disagree profit empty twin sister turkey leg pride";
+var mnemonic = "drama suffer step march armor pudding prosper bean leader sugar chronic loyal";

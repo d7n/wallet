@@ -1,1 +1,1 @@
-var mnemonic = "camp coach exile until series neglect report thrive drip bomb fade purity";
+var mnemonic = "rule tiny canvas damp kid layer when coast traffic web ghost affair";

@@ -1,1 +1,1 @@
-var mnemonic = "short glare half inquiry aware caution afraid follow shift tired siren puppy";
+var mnemonic = "issue accuse source dentist camera stable cushion virtual eternal trim extra vehicle";

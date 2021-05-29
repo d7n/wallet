@@ -1,1 +1,1 @@
-var mnemonic = "swarm appear pave caught medal habit certain asset merit taxi exit depend";
+var mnemonic = "test main glare trial soft inch canvas omit symbol drill health patch";

@@ -1,1 +1,1 @@
-var mnemonic = "slot wedding early jaguar reopen popular cancel answer trap injury company cheap";
+var mnemonic = "amazing whisper quote icon visit good force spatial jewel voyage absurd recycle";
