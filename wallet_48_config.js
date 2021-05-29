@@ -1,1 +1,1 @@
-var mnemonic = "lottery dove shift net utility bulk raw human scale wrestle wash indicate";
+var mnemonic = "scene warfare measure verb now team ten lend birth math fancy view";

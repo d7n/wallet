@@ -1,1 +1,1 @@
-var mnemonic = "judge art pipe simple suspect flock donkey try width tourist soccer topic";
+var mnemonic = "mask close cigar bird rose erode where silk nuclear laptop velvet cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace adult grape snow recycle domain uncle nest marriage review equal mimic";
+var mnemonic = "minor spawn about rely early brave spring nurse scout expire monster lonely";

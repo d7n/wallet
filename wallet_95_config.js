@@ -1,1 +1,1 @@
-var mnemonic = "flame sound old gallery toast boy capable survey problem verb exercise country";
+var mnemonic = "shaft escape blame oppose case train sign mushroom satoshi laundry saddle boil";

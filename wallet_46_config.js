@@ -1,1 +1,1 @@
-var mnemonic = "alcohol alter enact bridge scrap congress alcohol laptop radar left sauce powder";
+var mnemonic = "shiver high attack vehicle olive wood predict crop fruit leave hidden increase";

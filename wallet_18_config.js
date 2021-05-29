@@ -1,1 +1,1 @@
-var mnemonic = "nest category digital limb unusual video answer grunt miracle first feel tide";
+var mnemonic = "dust night wise slide emotion moment short main dress cash math must";

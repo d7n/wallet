@@ -1,1 +1,1 @@
-var mnemonic = "cost update pyramid face dutch project approve matrix grain nominee weekend spell";
+var mnemonic = "squeeze online gain nut skill eye caught ramp furnace prevent dinosaur track";

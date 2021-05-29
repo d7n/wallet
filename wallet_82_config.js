@@ -1,1 +1,1 @@
-var mnemonic = "mix dune wave first crime update sweet near hollow immense knife all";
+var mnemonic = "hazard pistol decline inflict wheat isolate blind hover legal almost clutch door";

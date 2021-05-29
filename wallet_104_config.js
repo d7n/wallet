@@ -1,1 +1,1 @@
-var mnemonic = "ill cloud tomorrow depth donor skirt own quick little eager fit sunny";
+var mnemonic = "ability spider apology body empower tackle glance endorse afraid glory badge width";

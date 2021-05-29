@@ -1,1 +1,1 @@
-var mnemonic = "jeans distance panda woman group banner agent gas omit symbol unfair drum";
+var mnemonic = "myth ceiling myself image client income breeze noise drop trip submit dance";

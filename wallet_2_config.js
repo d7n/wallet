@@ -1,1 +1,1 @@
-var mnemonic = "account solve nominee noise heavy dinosaur tail shoe amused rug can flock";
+var mnemonic = "month pear wild dash outdoor napkin cloth guide foil strike salute assume";

@@ -1,1 +1,1 @@
-var mnemonic = "position loan silk burger post degree cannon wreck believe burden twice prefer";
+var mnemonic = "manual cluster match other round cluster shrug pencil vote donor kitchen celery";

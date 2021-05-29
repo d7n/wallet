@@ -1,1 +1,1 @@
-var mnemonic = "follow knee forward brass belt fitness best fortune manage wood divide reveal";
+var mnemonic = "solid text lecture trap coyote citizen lion hedgehog purchase awesome pole portion";

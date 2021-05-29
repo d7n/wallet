@@ -1,1 +1,1 @@
-var mnemonic = "lend question civil rebel genre property ramp steak cabbage solution drive calm";
+var mnemonic = "host wasp liberty resist taxi outdoor present rally master nominee used draw";

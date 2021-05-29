@@ -1,1 +1,1 @@
-var mnemonic = "flat library rough moral frost joy sausage topic unusual drill verify cook";
+var mnemonic = "chief embody oven ahead rotate favorite consider vanish answer shoot daughter gasp";

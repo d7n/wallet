@@ -1,1 +1,1 @@
-var mnemonic = "crisp spoil leisure treat reason column sheriff student jelly grow bring donkey";
+var mnemonic = "bubble must chief mouse vessel faith across tape super truth boost truth";

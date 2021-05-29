@@ -1,1 +1,1 @@
-var mnemonic = "pizza spin fiber forget cloud luxury early lonely salad interest cave oven";
+var mnemonic = "arch card brain oppose misery aunt witness push number oil name dutch";

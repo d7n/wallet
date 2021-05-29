@@ -1,1 +1,1 @@
-var mnemonic = "kidney penalty stay pass abstract minor flame kit nest replace rain wage";
+var mnemonic = "permit decide this ugly exotic broken knife all until wolf zero scrub";

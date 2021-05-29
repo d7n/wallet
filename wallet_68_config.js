@@ -1,1 +1,1 @@
-var mnemonic = "pause crowd venue day asset mind picnic there gap awake mixture scrap";
+var mnemonic = "rhythm inside catalog flavor muffin below since cheese proof connect dinner common";

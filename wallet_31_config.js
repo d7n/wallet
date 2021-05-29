@@ -1,1 +1,1 @@
-var mnemonic = "price moon riot trash riot use truly talent decrease ghost reform talk";
+var mnemonic = "image rent hundred carbon trash misery labor mirror blur above human dry";

@@ -1,1 +1,1 @@
-var mnemonic = "length degree okay tortoise forest attend home helmet umbrella venue carpet frame";
+var mnemonic = "pelican reduce expose color fine scheme nothing patch potato spoil april reveal";

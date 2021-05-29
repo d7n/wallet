@@ -1,1 +1,1 @@
-var mnemonic = "stadium spoon kiss pen either minor broom trophy dress roof easy lottery";
+var mnemonic = "slow milk obvious security erase stomach mammal trick dwarf jazz bounce boring";

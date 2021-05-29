@@ -1,1 +1,1 @@
-var mnemonic = "city celery double category goat embody quit deer diet surface shiver ranch";
+var mnemonic = "flush away swamp blame sound excuse oil athlete half garbage obtain phrase";

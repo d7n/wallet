@@ -1,1 +1,1 @@
-var mnemonic = "canoe hockey ghost canoe chef quarter asthma slow coil rebel poverty violin";
+var mnemonic = "avocado help boy never argue execute remember mother crash trick express crawl";

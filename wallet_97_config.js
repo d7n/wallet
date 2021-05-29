@@ -1,1 +1,1 @@
-var mnemonic = "chair involve salute twice peasant stamp friend include flag stadium adjust range";
+var mnemonic = "sauce style window remember climb wool uncover cruel feature find october staff";

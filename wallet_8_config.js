@@ -1,1 +1,1 @@
-var mnemonic = "public carbon choose spin mansion involve misery globe leaf result surface urban";
+var mnemonic = "put network analyst divert awesome quality notable coil orient poet card next";

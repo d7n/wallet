@@ -1,1 +1,1 @@
-var mnemonic = "pulse address thought ghost annual exhaust void eight response used orient trick";
+var mnemonic = "danger curious laptop position excess stool knife bamboo type toddler season autumn";

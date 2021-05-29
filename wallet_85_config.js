@@ -1,1 +1,1 @@
-var mnemonic = "note any boil caution utility broccoli public picture diesel hotel unhappy what";
+var mnemonic = "awesome element young hundred cycle wrap wolf boss main illness local pride";

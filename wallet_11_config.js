@@ -1,1 +1,1 @@
-var mnemonic = "oven lemon guess drill dilemma finish leopard popular couch viable symbol bus";
+var mnemonic = "valve lab butter casual canoe spoon orange cloud prefer weapon rough pigeon";

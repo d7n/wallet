@@ -1,1 +1,1 @@
-var mnemonic = "meadow crunch labor coil office dentist diet neutral ostrich route question permit";
+var mnemonic = "first swim dynamic wink police inner taxi orbit notable cost process tragic";

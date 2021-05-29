@@ -1,1 +1,1 @@
-var mnemonic = "soccer pluck parade shine require olympic weather vintage staff coyote auction manage";
+var mnemonic = "fantasy essay truth car provide tiger wool joy large urban picnic hair";

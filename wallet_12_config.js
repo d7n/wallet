@@ -1,1 +1,1 @@
-var mnemonic = "task aerobic idea okay rose soup salute select debris satisfy phrase actor";
+var mnemonic = "visit purse column magic city blush acid focus more autumn deal section";

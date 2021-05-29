@@ -1,1 +1,1 @@
-var mnemonic = "guess endorse crucial wrong stumble anxiety large move buddy hockey syrup inhale";
+var mnemonic = "wool recipe section moral capital observe bridge next great twelve knife step";

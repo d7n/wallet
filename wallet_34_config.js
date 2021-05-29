@@ -1,1 +1,1 @@
-var mnemonic = "offer pattern guess busy peanut harsh forget extend smoke kiss place mechanic";
+var mnemonic = "nice act lobster motor already scrub hand chat absurd swamp urban place";

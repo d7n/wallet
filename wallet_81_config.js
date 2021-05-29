@@ -1,1 +1,1 @@
-var mnemonic = "toilet begin artist tuition true fox kitchen option swift observe wrestle camera";
+var mnemonic = "glad seat during mean flower hunt suggest display circle once short give";

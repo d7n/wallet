@@ -1,1 +1,1 @@
-var mnemonic = "notice way tobacco author lottery glue whisper animal slogan vocal increase tumble";
+var mnemonic = "patch rain grace what taste ticket toddler muscle train sponsor pupil argue";

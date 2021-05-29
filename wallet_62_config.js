@@ -1,1 +1,1 @@
-var mnemonic = "summer solve drum enable egg chest choose globe shuffle book skate stereo";
+var mnemonic = "split original resist tumble bright cigar until empty slender ivory panda right";

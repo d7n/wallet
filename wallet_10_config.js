@@ -1,1 +1,1 @@
-var mnemonic = "trip cancel auction brave few later riot invest educate frame gap remind";
+var mnemonic = "slot neck together payment cancel regret adjust identify top reflect doll actress";

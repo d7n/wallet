@@ -1,1 +1,1 @@
-var mnemonic = "cricket mixed accident tank avoid doctor drive flock million need defense special";
+var mnemonic = "tumble girl casual collect festival age license smoke duck surprise address pass";

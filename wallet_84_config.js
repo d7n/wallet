@@ -1,1 +1,1 @@
-var mnemonic = "treat relax fault square hotel tennis remove believe addict churn kingdom congress";
+var mnemonic = "scorpion fire anxiety warrior strategy school change surprise order moral suggest deposit";

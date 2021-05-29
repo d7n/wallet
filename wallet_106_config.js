@@ -1,1 +1,1 @@
-var mnemonic = "shadow collect junior fine direct wrist crack bacon bullet slab fuel burden";
+var mnemonic = "author pledge jazz that radar combine slot scare color devote student enable";

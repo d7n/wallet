@@ -1,1 +1,1 @@
-var mnemonic = "cross bachelor chest truth glass join federal hazard engage become nose elbow";
+var mnemonic = "legend harvest portion deal walk goose mechanic script trial puzzle feel flower";

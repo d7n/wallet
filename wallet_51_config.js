@@ -1,1 +1,1 @@
-var mnemonic = "melt leg vibrant mouse cute cloth proud file want primary split engine";
+var mnemonic = "repair need gorilla gadget catch early dizzy spider biology message weird possible";

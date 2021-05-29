@@ -1,1 +1,1 @@
-var mnemonic = "toward stand forest result panda visit bitter argue copy coast cannon absurd";
+var mnemonic = "myth cupboard glow bag modify blur source hurt song cabbage whip chapter";

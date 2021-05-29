@@ -1,1 +1,1 @@
-var mnemonic = "alarm multiply cup ankle vessel stadium retire other pelican mean palm robust";
+var mnemonic = "meadow same inherit dinner senior file subject decade flavor quantum window nominee";

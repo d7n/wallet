@@ -1,1 +1,1 @@
-var mnemonic = "act coach gospel eye draft nation vanish learn antenna tuition angry bounce";
+var mnemonic = "hope uniform pen fringe pudding absurd alert middle lumber ability enact skill";

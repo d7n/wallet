@@ -1,1 +1,1 @@
-var mnemonic = "live dune ball action such allow grief chaos ball tired maid color";
+var mnemonic = "story cry odor iron butter juice sibling begin orient hawk monkey suit";

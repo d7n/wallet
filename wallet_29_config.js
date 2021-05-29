@@ -1,1 +1,1 @@
-var mnemonic = "scene curve music magic visit vault absurd acquire busy vacuum good jacket";
+var mnemonic = "cycle blossom position vanish velvet enemy dress anchor lonely fly cat squirrel";

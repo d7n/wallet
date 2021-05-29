@@ -1,1 +1,1 @@
-var mnemonic = "canyon okay actor nut buddy curious you sister case fashion rug vibrant";
+var mnemonic = "scene strategy asthma inherit pelican maple october gorilla athlete bag trouble version";

@@ -1,1 +1,1 @@
-var mnemonic = "icon sniff route bamboo upper under spread yellow denial protect bonus trip";
+var mnemonic = "inhale wreck infant tennis van poem comic candy anxiety occur danger anchor";

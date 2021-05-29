@@ -1,1 +1,1 @@
-var mnemonic = "vocal orphan throw champion oval govern swift attend please weasel divorce nest";
+var mnemonic = "note hub ride anger crack express donor citizen donor token gaze hammer";

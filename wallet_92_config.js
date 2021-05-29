@@ -1,1 +1,1 @@
-var mnemonic = "shoulder adult tooth machine rather student rebel circle inspire settle local unveil";
+var mnemonic = "bomb cabbage repeat wash case afford push must bench stumble unusual donate";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot another banner torch casino spoil machine black birth fresh news fever";
+var mnemonic = "much heavy enrich peasant sadness dance insect leisure problem fish slogan canvas";

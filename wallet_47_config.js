@@ -1,1 +1,1 @@
-var mnemonic = "flock mutual real render medal pig snow obtain tobacco deny honey evidence";
+var mnemonic = "draw lock drink mom melt section water flee juice rely jewel buffalo";

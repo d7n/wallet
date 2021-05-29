@@ -1,1 +1,1 @@
-var mnemonic = "artwork advice candy differ bone favorite print bubble analyst income kingdom early";
+var mnemonic = "man umbrella lake width city until vendor before hurdle share pet royal";

@@ -1,1 +1,1 @@
-var mnemonic = "very over puppy critic group blur unlock chronic stay pool usage hunt";
+var mnemonic = "stock step steel settle tomato together wing hire place zoo offer average";

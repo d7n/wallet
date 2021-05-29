@@ -1,1 +1,1 @@
-var mnemonic = "taxi one ribbon favorite drive need click reopen rib lava achieve series";
+var mnemonic = "assist happy because image smoke hero surface stool virus tail host inform";

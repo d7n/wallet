@@ -1,1 +1,1 @@
-var mnemonic = "walnut wear naive rug fruit organ little culture legend version brain tip";
+var mnemonic = "town author grunt fold warrior fun major toddler solar street coffee rack";

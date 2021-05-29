@@ -1,1 +1,1 @@
-var mnemonic = "tree bread unit spend typical design entire worry picnic aspect pride auction";
+var mnemonic = "grace else quarter reflect rhythm spike bundle napkin runway liar raven review";

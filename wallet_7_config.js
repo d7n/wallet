@@ -1,1 +1,1 @@
-var mnemonic = "sort congress aware section access rigid shadow opinion outdoor risk mushroom card";
+var mnemonic = "seminar position edit afraid lady exhaust shoe unfair spot sponsor people try";

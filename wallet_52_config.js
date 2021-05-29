@@ -1,1 +1,1 @@
-var mnemonic = "treat yard eyebrow dynamic sunny merit buzz forum forget used slogan test";
+var mnemonic = "kit settle fiction rose bomb letter bracket message try rotate essence tuna";

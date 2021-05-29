@@ -1,1 +1,1 @@
-var mnemonic = "vague planet word ill mail front say more bonus twin poverty melody";
+var mnemonic = "stem disease knife build cause avoid teach chaos hub inspire wheel gap";

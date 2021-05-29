@@ -1,1 +1,1 @@
-var mnemonic = "topic method pool faint forward left gossip race welcome eager supreme source";
+var mnemonic = "leave combine shop trial pig town marriage rose pet verb bubble neither";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap blue jewel curve hundred approve treat run program front front roast";
+var mnemonic = "baby alert exclude tired clay pear toilet license absent snap matrix ghost";

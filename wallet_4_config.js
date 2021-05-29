@@ -1,1 +1,1 @@
-var mnemonic = "senior scheme stone bright essence pluck jar sock gospel field logic odor";
+var mnemonic = "tuition finish jump pledge assume upon ship today transfer fog toe banana";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket next physical plastic rude scissors crawl wisdom silent similar apology stool";
+var mnemonic = "between twenty visa ugly yellow steel allow lemon sphere tail security mom";

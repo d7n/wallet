@@ -1,1 +1,1 @@
-var mnemonic = "liquid injury rabbit illegal topple mention account floor cruel asthma kidney delay";
+var mnemonic = "lady spy flight mixture monitor ask grace devote pole author brief wear";

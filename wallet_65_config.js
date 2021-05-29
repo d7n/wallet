@@ -1,1 +1,1 @@
-var mnemonic = "reward always trust acoustic sword field mimic improve always hotel menu now";
+var mnemonic = "stuff provide tape soon lock start congress kitchen skin venue goose cargo";

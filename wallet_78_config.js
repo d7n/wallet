@@ -1,1 +1,1 @@
-var mnemonic = "syrup mass board favorite crew august still plate iron upset order garden";
+var mnemonic = "kingdom outside dance december announce exist olympic ordinary ship summer trim print";

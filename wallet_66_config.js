@@ -1,1 +1,1 @@
-var mnemonic = "noise radio purse bridge limit wisdom core gesture drum scorpion dove airport";
+var mnemonic = "until smart lava decline potato other victory crowd lumber ahead season trash";

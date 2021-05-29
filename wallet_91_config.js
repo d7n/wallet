@@ -1,1 +1,1 @@
-var mnemonic = "bubble rifle lumber lamp adult pulse same crystal pear tourist convince puzzle";
+var mnemonic = "ten field sadness bullet know industry pride south legend useful library over";

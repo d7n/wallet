@@ -1,1 +1,1 @@
-var mnemonic = "harsh best zone rebuild demise raise nation marble spin remind color only";
+var mnemonic = "bamboo spirit dumb myself taste absurd scrub fire globe fatigue winner stage";

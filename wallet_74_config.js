@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow chef slot seminar install river wedding spirit truth give crazy radio";
+var mnemonic = "state liberty diesel nasty width retreat october arrive net spawn stairs become";

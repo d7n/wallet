@@ -1,1 +1,1 @@
-var mnemonic = "barely panda ghost physical option symbol health best vault jar deputy degree";
+var mnemonic = "parade addict cluster pumpkin team frequent wait risk drum agree infant divide";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant favorite unable aim beach trophy pact humor hurry parrot rich season";
+var mnemonic = "cloth ripple tortoise name usage gift shell state fold sting relief lumber";

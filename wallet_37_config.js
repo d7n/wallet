@@ -1,1 +1,1 @@
-var mnemonic = "achieve essence junior close secret mosquito swap income fiscal around lava style";
+var mnemonic = "limit wash dismiss mansion wrap maple figure much frown stage loud gown";

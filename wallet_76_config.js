@@ -1,1 +1,1 @@
-var mnemonic = "winter very blanket when eternal actress man tail unable goddess express decide";
+var mnemonic = "museum submit differ fog face unhappy yellow cup guilt frame all dune";

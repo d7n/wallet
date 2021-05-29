@@ -1,1 +1,1 @@
-var mnemonic = "super auto assume furnace grant total swim misery maid calm rather project";
+var mnemonic = "lyrics grief review pond echo bulk dose eight depth shop melody cause";

@@ -1,1 +1,1 @@
-var mnemonic = "issue unaware dress live media wool region clap reunion one artefact sibling";
+var mnemonic = "rival rule output apart whale slogan produce orphan vapor lawn business gate";

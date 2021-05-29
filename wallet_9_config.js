@@ -1,1 +1,1 @@
-var mnemonic = "pen grit educate velvet grace corn tiny vessel fame famous cram job";
+var mnemonic = "pilot rabbit arrange link six final setup update guitar connect acquire opera";

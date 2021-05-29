@@ -1,1 +1,1 @@
-var mnemonic = "nature verify equal film river refuse junior ghost south slot stomach problem";
+var mnemonic = "length tide acoustic rebuild jewel flame aisle wrap result denial change remember";

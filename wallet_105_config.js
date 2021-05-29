@@ -1,1 +1,1 @@
-var mnemonic = "rely feel sort primary glance window plunge huge note sister loop initial";
+var mnemonic = "recall pupil retire conduct entry manage ocean betray dish local detect slim";

@@ -1,1 +1,1 @@
-var mnemonic = "width umbrella fluid case depend drive perfect food balcony lamp ski rocket";
+var mnemonic = "tired degree woman soda bachelor cheap over horn swear planet episode elegant";

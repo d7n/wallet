@@ -1,1 +1,1 @@
-var mnemonic = "enforce bike width photo slide volume broccoli license object giraffe east spin";
+var mnemonic = "surge burger menu innocent spare teach crazy crowd rent airport guilt bleak";

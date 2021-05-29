@@ -1,1 +1,1 @@
-var mnemonic = "weird profit candy enlist sing honey rough arrow duck camp kid maid";
+var mnemonic = "erosion unfold paper input warm track tail ring idea canal gesture walk";

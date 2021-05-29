@@ -1,1 +1,1 @@
-var mnemonic = "knife stay group pulse ghost cruel economy dice almost bacon wire face";
+var mnemonic = "pumpkin diagram mad eager gift need idea evolve another case goose million";

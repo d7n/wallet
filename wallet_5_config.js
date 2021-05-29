@@ -1,1 +1,1 @@
-var mnemonic = "trim almost boat company letter slogan fatal fever boost clarify since kit";
+var mnemonic = "pottery hurt relax motor salad void snake dice raccoon journey van tattoo";

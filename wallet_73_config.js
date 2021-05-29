@@ -1,1 +1,1 @@
-var mnemonic = "time strike mixture end company pencil dry wage measure ignore zebra assist";
+var mnemonic = "sadness decline stadium fiction protect second odor state gather salad copper annual";

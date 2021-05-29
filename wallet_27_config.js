@@ -1,1 +1,1 @@
-var mnemonic = "below confirm lounge common loyal coil sing warrior combine panel weird mouse";
+var mnemonic = "common globe wide jealous federal heavy tide vessel answer banana sibling fiscal";
