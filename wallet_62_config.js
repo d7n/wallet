@@ -1,1 +1,1 @@
-var mnemonic = "outer heart force aim expose patient express can adjust abandon gallery boat";
+var mnemonic = "eight again drill museum day collect victory walk cabin result morning junior";

@@ -1,1 +1,1 @@
-var mnemonic = "age apology network fire make select flip aware achieve license detect hint";
+var mnemonic = "valve heart captain volume crystal chat pilot pipe crane nerve call mouse";

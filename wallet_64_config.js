@@ -1,1 +1,1 @@
-var mnemonic = "certain jewel page flame dove deer detail universe pig rebuild tourist drift";
+var mnemonic = "bar swear vault model top outer stadium pool token story wise decade";

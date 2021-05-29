@@ -1,1 +1,1 @@
-var mnemonic = "child say earn milk mirror noise rocket afford risk usage arrow solid";
+var mnemonic = "surprise cupboard say lobster diary bomb dentist song busy twin elevator helmet";

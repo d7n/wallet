@@ -1,1 +1,1 @@
-var mnemonic = "play only recall surface rule banner bomb reward input field cat return";
+var mnemonic = "ridge toe eternal essence wagon treat water exist release throw dutch fault";

@@ -1,1 +1,1 @@
-var mnemonic = "bread ritual scatter program mushroom elevator cheese picture coil man shock guilt";
+var mnemonic = "turtle cage pig scan festival prefer rate moral burger push mutual apple";

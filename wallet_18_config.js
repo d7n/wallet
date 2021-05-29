@@ -1,1 +1,1 @@
-var mnemonic = "naive picture young chunk squirrel dinner cream road fiction horror brick side";
+var mnemonic = "keen depth then clock message science sample voice bomb jungle order shuffle";

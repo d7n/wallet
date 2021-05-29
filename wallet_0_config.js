@@ -1,1 +1,1 @@
-var mnemonic = "brother attend depth laptop dog replace shell world stuff law utility address";
+var mnemonic = "spare assault fancy dutch pond vast baby exchange arrow between inmate taste";

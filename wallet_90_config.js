@@ -1,1 +1,1 @@
-var mnemonic = "must congress west aerobic much until soup witness van dignity gym morning";
+var mnemonic = "vapor chat sunset salad pretty fantasy force steak devote giant rude sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch rule unusual armor race toilet skirt february thumb gold wood sketch";
+var mnemonic = "various clog mammal agree pitch fix magic deal fury ball clown crisp";

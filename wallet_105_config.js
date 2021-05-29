@@ -1,1 +1,1 @@
-var mnemonic = "episode toast unhappy recipe orient wise ignore unveil place list juice decade";
+var mnemonic = "senior pear crawl ten pact toast company holiday hurry merit kitchen harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "interest giggle mention mind borrow cool gadget radar diagram pencil amount card";
+var mnemonic = "fury century during three economy wise junior lucky math impulse warm hidden";

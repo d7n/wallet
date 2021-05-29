@@ -1,1 +1,1 @@
-var mnemonic = "veteran surprise tower cherry title equal alley now exist fine circle tobacco";
+var mnemonic = "lawsuit today slogan cinnamon chicken attack orchard another coin force ostrich butter";

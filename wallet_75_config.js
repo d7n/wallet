@@ -1,1 +1,1 @@
-var mnemonic = "rule chalk equal raven dinosaur client double knee sponsor add liquid square";
+var mnemonic = "depart size honey license genius purpose coach surprise exist blouse select section";

@@ -1,1 +1,1 @@
-var mnemonic = "speak total agent interest churn doll regret awake large mix erosion march";
+var mnemonic = "reduce sword that begin marriage urban twelve galaxy little era drink jump";

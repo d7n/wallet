@@ -1,1 +1,1 @@
-var mnemonic = "echo reason gauge eye friend twist only mammal able solar asthma symbol";
+var mnemonic = "announce derive cost good edge vibrant alien brick achieve foot stool honey";

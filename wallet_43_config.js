@@ -1,1 +1,1 @@
-var mnemonic = "insect normal blush gold bean total bind fall coil brain access crowd";
+var mnemonic = "mutual very nut later disease decide cream nuclear shrimp horn tent lens";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo edge pupil object science brush fade skill venture bitter consider flavor";
+var mnemonic = "chapter type high profit friend profit movie pull shiver idle panda change";

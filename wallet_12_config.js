@@ -1,1 +1,1 @@
-var mnemonic = "friend monster sadness vacuum stable crucial resist talk vendor biology amused achieve";
+var mnemonic = "vital guess void pony draft heavy find cruise produce sword push slender";

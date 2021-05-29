@@ -1,1 +1,1 @@
-var mnemonic = "shove service shy cheese proud quantum frequent sure this combine rich rotate";
+var mnemonic = "draft six derive purse truth shine crew behind renew dignity whisper office";

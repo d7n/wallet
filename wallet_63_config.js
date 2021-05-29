@@ -1,1 +1,1 @@
-var mnemonic = "travel bring play face sleep rose smoke buzz kick camera brand style";
+var mnemonic = "below curtain arctic fringe case badge vessel brother budget insect twice barely";

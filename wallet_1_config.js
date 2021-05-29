@@ -1,1 +1,1 @@
-var mnemonic = "orange question misery agent accuse kitten human dream rib spray wing oxygen";
+var mnemonic = "turtle swim trophy toast mistake label mansion good evoke office impulse vapor";

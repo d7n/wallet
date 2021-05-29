@@ -1,1 +1,1 @@
-var mnemonic = "slam eye library gaze draw tip security loud rice flash museum donor";
+var mnemonic = "grit stay amateur course smile region amazing until damage play luggage soccer";

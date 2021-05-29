@@ -1,1 +1,1 @@
-var mnemonic = "seat tiger sure shoot suspect peanut knife action oval drum obtain stereo";
+var mnemonic = "hover effort clip scrub ill grocery essay wrestle barely tree guilt maximum";

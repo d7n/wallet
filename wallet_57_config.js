@@ -1,1 +1,1 @@
-var mnemonic = "series like rookie today subject fade swamp lesson palm harbor announce stay";
+var mnemonic = "auction mix lounge meadow dutch mutual noise net fat net hip adapt";

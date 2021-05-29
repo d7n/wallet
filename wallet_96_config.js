@@ -1,1 +1,1 @@
-var mnemonic = "answer average obey sail limb kingdom fringe okay differ robust size victory";
+var mnemonic = "small tennis mammal club cushion chronic edge middle warrior silly example logic";

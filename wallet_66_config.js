@@ -1,1 +1,1 @@
-var mnemonic = "nominee modify ten rate turtle dove pattern laundry opinion tool leopard level";
+var mnemonic = "limb suggest harsh plunge reopen mule armed install spoon mad winter north";

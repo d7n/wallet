@@ -1,1 +1,1 @@
-var mnemonic = "fruit farm live aspect digital embody antenna arrive clap member other auto";
+var mnemonic = "dress ancient replace theme creek hospital ten supreme spot left blade across";

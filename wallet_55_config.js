@@ -1,1 +1,1 @@
-var mnemonic = "easy custom tenant easy shed latin cargo output innocent market gauge gather";
+var mnemonic = "wrong saddle sponsor hover section donkey boss liar recycle fragile roast rotate";

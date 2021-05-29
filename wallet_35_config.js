@@ -1,1 +1,1 @@
-var mnemonic = "west margin man choose urban abuse blossom embody trial belt lyrics clog";
+var mnemonic = "squirrel cement blush still stem lesson retire secret tourist blouse venue tumble";

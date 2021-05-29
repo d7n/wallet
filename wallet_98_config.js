@@ -1,1 +1,1 @@
-var mnemonic = "parade resource immense dry royal agent merry electric law cream ability jeans";
+var mnemonic = "squeeze copper escape erosion surge metal payment brief prize top skull stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "lab ugly notable rifle gather fork grid radio cram humor destroy stay";
+var mnemonic = "glove duty letter patch vintage veteran lunch clean shadow oil sword glare";

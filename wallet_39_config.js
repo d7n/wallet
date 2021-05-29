@@ -1,1 +1,1 @@
-var mnemonic = "bullet sausage bottom seminar hello write census laptop drop embody possible near";
+var mnemonic = "jump asthma casual ginger eye zebra snake sketch public artefact exotic ramp";

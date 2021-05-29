@@ -1,1 +1,1 @@
-var mnemonic = "defense brain increase note gravity select tray loop acoustic field category fix";
+var mnemonic = "clean blouse shoot pond coast type inspire bright million romance cute proud";

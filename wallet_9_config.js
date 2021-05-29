@@ -1,1 +1,1 @@
-var mnemonic = "luxury immense fly tube sorry steak survey oval lady word private doll";
+var mnemonic = "night celery solid soft cabbage crunch pet supreme pact brand behave stamp";

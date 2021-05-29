@@ -1,1 +1,1 @@
-var mnemonic = "review blind eternal sport switch earth arrange ill duty chat attack bread";
+var mnemonic = "maze moment major glance palace where connect bus kind analyst milk unknown";

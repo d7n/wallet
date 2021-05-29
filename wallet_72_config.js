@@ -1,1 +1,1 @@
-var mnemonic = "renew credit equal amused muffin fantasy poverty thank rice addict conduct barely";
+var mnemonic = "divide project rival rural jump fun siren eager brass royal floor ticket";

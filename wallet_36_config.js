@@ -1,1 +1,1 @@
-var mnemonic = "loud shoot test rather mean author auto educate guitar call sorry broken";
+var mnemonic = "village law alien govern skill blind rigid govern trend smooth fatigue snake";

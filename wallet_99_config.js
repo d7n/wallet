@@ -1,1 +1,1 @@
-var mnemonic = "year abstract employ improve glove junior reject hope thing year load yellow";
+var mnemonic = "crowd any galaxy undo multiply brain power history bachelor acquire plate fun";

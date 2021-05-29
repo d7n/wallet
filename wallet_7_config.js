@@ -1,1 +1,1 @@
-var mnemonic = "chief three usage try oven critic cherry echo south absent sail shrug";
+var mnemonic = "casino concert concert game display pilot bike point ten sound lunch play";

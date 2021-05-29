@@ -1,1 +1,1 @@
-var mnemonic = "human witness admit shop twice canoe catalog all collect season brush amazing";
+var mnemonic = "often better wink dignity rose hen hood motion pipe cash horse coast";

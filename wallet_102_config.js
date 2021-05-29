@@ -1,1 +1,1 @@
-var mnemonic = "cattle purity chair flame alert annual enroll filter rose label photo rough";
+var mnemonic = "walnut february sustain rebuild budget fall exact mother parent kiss predict laundry";

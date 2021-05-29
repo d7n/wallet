@@ -1,1 +1,1 @@
-var mnemonic = "whip okay mixture tornado popular learn blossom virtual violin valve grit large";
+var mnemonic = "soccer swear patient tree river yard pass notable close average episode person";

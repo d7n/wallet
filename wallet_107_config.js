@@ -1,1 +1,1 @@
-var mnemonic = "dwarf choice need female pledge bench pause retreat film offer oak fatigue";
+var mnemonic = "upper pause great echo enable salmon certain beach time april draw feed";

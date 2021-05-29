@@ -1,1 +1,1 @@
-var mnemonic = "charge bottom resemble bubble mention month abuse salmon pull own very before";
+var mnemonic = "pause mail expand employ outer sugar tone loud song deal law city";

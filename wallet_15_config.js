@@ -1,1 +1,1 @@
-var mnemonic = "brother blast peanut judge tackle floor liberty work buffalo label entire basic";
+var mnemonic = "smart pupil private about confirm crawl cinnamon affair energy sponsor trend exhibit";

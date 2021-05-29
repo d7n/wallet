@@ -1,1 +1,1 @@
-var mnemonic = "zebra smart banana clap biology gift change churn water usage among reduce";
+var mnemonic = "run cheese crater hazard display quantum polar sock deal silver drift pepper";

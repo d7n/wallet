@@ -1,1 +1,1 @@
-var mnemonic = "merge problem close chest olympic loud boat diary riot accuse fabric into";
+var mnemonic = "solar increase rigid water album paper glide grass burger satisfy build split";

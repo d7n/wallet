@@ -1,1 +1,1 @@
-var mnemonic = "write outdoor key just sense pelican distance census rice focus orange check";
+var mnemonic = "area sentence whisper autumn circle power cable vacant air shrimp practice change";

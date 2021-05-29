@@ -1,1 +1,1 @@
-var mnemonic = "liar jacket grace chest kite tribe scorpion moon believe exclude cotton tattoo";
+var mnemonic = "napkin rescue pulp harsh judge erode chat cross trigger exhibit define fuel";

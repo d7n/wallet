@@ -1,1 +1,1 @@
-var mnemonic = "exist nose year leaf eager shaft deny execute cat cook spend faith";
+var mnemonic = "dizzy crater eye that view tray artist twin goddess half dinosaur sting";

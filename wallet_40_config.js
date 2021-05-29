@@ -1,1 +1,1 @@
-var mnemonic = "syrup settle public arena enter stage space polar brass hover champion insect";
+var mnemonic = "antenna arm ready you vivid picture miracle february discover install crystal mosquito";

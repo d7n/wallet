@@ -1,1 +1,1 @@
-var mnemonic = "air teach output huge brother february jump code city circle buddy prepare";
+var mnemonic = "rack horn tomato beauty pluck insect tenant rhythm firm hockey fish detail";

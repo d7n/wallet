@@ -1,1 +1,1 @@
-var mnemonic = "curious inhale shuffle flash issue arrest confirm else present dog apology marriage";
+var mnemonic = "volume elephant injury fortune use drastic friend scatter start picture romance inspire";

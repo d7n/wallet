@@ -1,1 +1,1 @@
-var mnemonic = "sphere alley gaze result tower age program express lend unveil banana plastic";
+var mnemonic = "beach wine orbit gallery vacant muffin obtain person farm obscure potato erosion";

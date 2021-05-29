@@ -1,1 +1,1 @@
-var mnemonic = "crucial glass rifle portion engine erosion boil access embrace scissors use immense";
+var mnemonic = "leopard aim evidence census popular echo trumpet mercy circle holiday burst popular";

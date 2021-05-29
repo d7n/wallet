@@ -1,1 +1,1 @@
-var mnemonic = "maple guitar victory frog buzz angle lucky craft rotate install bar carpet";
+var mnemonic = "festival broccoli myth visa liar swarm shine swarm satisfy proof cradle crucial";

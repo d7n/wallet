@@ -1,1 +1,1 @@
-var mnemonic = "rally aware exercise park unfold assume short escape mass debris bread core";
+var mnemonic = "thank stomach mushroom dilemma confirm believe vendor escape congress property violin oak";

@@ -1,1 +1,1 @@
-var mnemonic = "drill dolphin reflect flame embody dinosaur pudding asset purse foil ride happy";
+var mnemonic = "episode balcony vessel ability chef either focus hole dinner limit stay cattle";

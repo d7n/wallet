@@ -1,1 +1,1 @@
-var mnemonic = "vanish cost cement soon inmate school unhappy purchase dizzy minute sustain firm";
+var mnemonic = "identify burger business nominee saddle sustain resist donate carpet remember jaguar debate";

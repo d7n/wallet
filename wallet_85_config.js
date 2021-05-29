@@ -1,1 +1,1 @@
-var mnemonic = "track identify ordinary image vanish waste bulb gasp marble color manage sorry";
+var mnemonic = "wait design rigid crater habit loud lyrics security desk shallow warfare step";

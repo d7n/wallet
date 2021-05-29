@@ -1,1 +1,1 @@
-var mnemonic = "scale kangaroo whip space option helmet card course salute solar entry hospital";
+var mnemonic = "eye fabric immense oak almost patient sound since square aunt wage city";

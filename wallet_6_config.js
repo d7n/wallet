@@ -1,1 +1,1 @@
-var mnemonic = "genius caution caught immense extend aware ordinary diamond speak paper ten garbage";
+var mnemonic = "ladder segment finger exhibit settle result gaze ignore common salt humor eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "item primary trash curve foster donate blast bargain tank develop sock bean";
+var mnemonic = "dune easy kitten organ citizen drift grass wish host you logic antique";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage glimpse april prevent spring since can more answer fabric donate rescue";
+var mnemonic = "viable relax diagram extend fence parrot bring arrow inject usage oak myself";

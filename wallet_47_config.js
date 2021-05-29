@@ -1,1 +1,1 @@
-var mnemonic = "day drastic account fiscal margin future december odor fiscal body diamond sort";
+var mnemonic = "rain author couple journey sound renew era security panther fee evidence skirt";

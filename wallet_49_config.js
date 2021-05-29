@@ -1,1 +1,1 @@
-var mnemonic = "chair arm story pizza burst leader crucial trouble review crush hospital gadget";
+var mnemonic = "chicken bonus tip visa video hawk recall series few identify axis wall";

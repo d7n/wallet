@@ -1,1 +1,1 @@
-var mnemonic = "earth coil regular gold year cheese bonus decorate salon exit faith candy";
+var mnemonic = "quarter exact matrix start train country agree force gentle post danger tobacco";

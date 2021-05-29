@@ -1,1 +1,1 @@
-var mnemonic = "hello agree sweet alert nose race advice glory roast bring ceiling live";
+var mnemonic = "vacuum captain demand cricket group crowd object drink beef absent twenty cost";

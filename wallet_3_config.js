@@ -1,1 +1,1 @@
-var mnemonic = "genius travel pigeon imitate garlic invite coin arctic tackle differ minimum olive";
+var mnemonic = "play grape lawn minute head regret sniff giant acoustic size grid ankle";

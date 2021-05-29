@@ -1,1 +1,1 @@
-var mnemonic = "topic glare relief solve hover surface industry reason replace sugar title avoid";
+var mnemonic = "unit height coyote sad kind simple brisk dune dial van domain board";

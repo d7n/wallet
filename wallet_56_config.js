@@ -1,1 +1,1 @@
-var mnemonic = "over whale drum birth forget patch oil talent saddle truly loud hawk";
+var mnemonic = "market master toy humble whisper kangaroo across jar busy clever sort bunker";

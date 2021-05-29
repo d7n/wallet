@@ -1,1 +1,1 @@
-var mnemonic = "salon embody topic alarm april open dizzy major what unveil poem excess";
+var mnemonic = "business you library another buzz armor salt soul desk mixture link illness";

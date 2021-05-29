@@ -1,1 +1,1 @@
-var mnemonic = "fresh inherit pledge cheese trophy sing april math diamond card equip nation";
+var mnemonic = "gun illegal zebra ghost reveal brain coin surprise rib rich kiwi permit";

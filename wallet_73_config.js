@@ -1,1 +1,1 @@
-var mnemonic = "six erode hero crystal bitter eagle thing meadow response fiction climb orient";
+var mnemonic = "slide glimpse present salmon wolf heavy finger scan lamp wing ship omit";

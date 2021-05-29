@@ -1,1 +1,1 @@
-var mnemonic = "cannon art enlist diet tilt engage coconut immense planet away follow veteran";
+var mnemonic = "romance afford hint suggest grief tilt sauce wild radio episode afford miracle";

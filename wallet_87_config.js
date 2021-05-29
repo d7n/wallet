@@ -1,1 +1,1 @@
-var mnemonic = "tourist glance divorce audit parade kick useful fury nation review eternal rice";
+var mnemonic = "jazz young remove laundry title blur awful cross glad message social cigar";

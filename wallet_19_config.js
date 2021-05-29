@@ -1,1 +1,1 @@
-var mnemonic = "duty latin brave vacant manage curve stock ship pig drama bread feel";
+var mnemonic = "liberty marriage buffalo cloth zone siege route crucial tonight sell valley combine";

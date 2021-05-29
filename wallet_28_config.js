@@ -1,1 +1,1 @@
-var mnemonic = "sad brisk good manage visual notice dress glue easily picnic wagon bus";
+var mnemonic = "certain dress runway cannon clarify fossil oppose proof chimney almost symbol magic";

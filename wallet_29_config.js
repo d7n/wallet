@@ -1,1 +1,1 @@
-var mnemonic = "reject because once rib dove relief glimpse chicken tower book behave web";
+var mnemonic = "tool siren drop shield parade attract desert crystal taxi earn crush lock";

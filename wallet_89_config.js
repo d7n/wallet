@@ -1,1 +1,1 @@
-var mnemonic = "just system van various energy inject armed genre damage provide zebra advice";
+var mnemonic = "congress spray glue custom pitch flat bachelor cake thought charge panel tooth";

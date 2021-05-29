@@ -1,1 +1,1 @@
-var mnemonic = "task also deer fiction coach choice essay dizzy simple loyal code strong";
+var mnemonic = "blush marriage toilet gown fame visual figure photo unusual daring critic mosquito";

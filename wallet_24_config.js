@@ -1,1 +1,1 @@
-var mnemonic = "opera sort board work victory rack pulse inside pen indicate future throw";
+var mnemonic = "kidney extend foster portion diet young kiwi just bitter math cluster chat";

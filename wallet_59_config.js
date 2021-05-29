@@ -1,1 +1,1 @@
-var mnemonic = "one style swift purpose reveal trouble orchard suspect uncover science grant novel";
+var mnemonic = "major satoshi wife sudden inhale relax pretty rotate trophy stock grit future";

@@ -1,1 +1,1 @@
-var mnemonic = "day title crater cat home basket item bar receive hip blush child";
+var mnemonic = "fan universe wolf exclude rate card tenant clever tomorrow answer glare vintage";

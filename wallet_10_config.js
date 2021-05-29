@@ -1,1 +1,1 @@
-var mnemonic = "usual song enter neglect record bunker rude undo enhance slab primary walk";
+var mnemonic = "holiday steak range bone narrow ship enemy rookie train fat decade upon";

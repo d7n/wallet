@@ -1,1 +1,1 @@
-var mnemonic = "license marriage arch royal lift author art across snack lumber cargo aerobic";
+var mnemonic = "blur diagram soda space bike armed roast hand shift robust fix defense";

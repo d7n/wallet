@@ -1,1 +1,1 @@
-var mnemonic = "praise marble wife deny gain wave chief copy choice empty jealous cart";
+var mnemonic = "you creek blush sea nasty job emotion assault ensure north deposit decade";

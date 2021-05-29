@@ -1,1 +1,1 @@
-var mnemonic = "parrot subject useless slow carbon grief party dance program response lawsuit engage";
+var mnemonic = "assault worth code library heavy sibling onion mansion kitchen stairs way cover";

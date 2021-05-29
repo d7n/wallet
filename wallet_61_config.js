@@ -1,1 +1,1 @@
-var mnemonic = "news north desert release measure satisfy olympic fatigue suggest scissors rib south";
+var mnemonic = "bacon bulk small allow adjust pass ethics hero other always spin bulk";

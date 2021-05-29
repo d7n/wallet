@@ -1,1 +1,1 @@
-var mnemonic = "weapon clean buddy enroll beauty renew witness chef heart chronic tag shock";
+var mnemonic = "illegal grape wear correct check sorry auction dismiss category angle lava attend";
