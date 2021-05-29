@@ -1,1 +1,1 @@
-var mnemonic = "rug carry admit general maid grief edge nephew hobby kiss want great";
+var mnemonic = "rotate rebel brave bind alley bullet emerge economy visual behave actor neither";

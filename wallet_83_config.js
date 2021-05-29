@@ -1,1 +1,1 @@
-var mnemonic = "armed draft news sight mountain business still blood vocal cage nothing rose";
+var mnemonic = "promote receive identify betray life blur search involve jewel mind copy hidden";

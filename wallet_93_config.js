@@ -1,1 +1,1 @@
-var mnemonic = "patch chase valve people view panel trumpet short acoustic speed again code";
+var mnemonic = "clever column perfect bone confirm satisfy suit flee fitness aspect stairs letter";

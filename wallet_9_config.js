@@ -1,1 +1,1 @@
-var mnemonic = "dial spend elite gap chief topic during grow mask aerobic quantum venue";
+var mnemonic = "six word mercy mutual scissors spider weird razor transfer pumpkin dune emerge";

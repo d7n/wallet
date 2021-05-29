@@ -1,1 +1,1 @@
-var mnemonic = "shoe kid refuse junior extra tide current car phrase damp cover senior";
+var mnemonic = "practice debate kangaroo couch orbit acid below cradle cousin legal virus mango";

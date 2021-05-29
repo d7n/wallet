@@ -1,1 +1,1 @@
-var mnemonic = "train vendor orchard basic hour turtle retreat note inform obscure truth limit";
+var mnemonic = "universe scale person rally improve rookie dumb globe grant embody staff plug";

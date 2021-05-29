@@ -1,1 +1,1 @@
-var mnemonic = "spin snack muscle audit rhythm brand mail useless giant search cake cereal";
+var mnemonic = "champion version disagree energy emotion field security nominee mind eternal title gas";

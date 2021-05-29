@@ -1,1 +1,1 @@
-var mnemonic = "lyrics real project fish scare weather settle ignore kit fatigue skate sausage";
+var mnemonic = "tube giraffe shoot bitter hand twenty explain butter vehicle dutch proof elegant";

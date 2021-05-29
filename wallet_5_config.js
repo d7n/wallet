@@ -1,1 +1,1 @@
-var mnemonic = "twin almost farm lucky risk doctor anchor canvas galaxy mammal leave borrow";
+var mnemonic = "state vehicle payment job mask dirt police bleak asset rice raise village";

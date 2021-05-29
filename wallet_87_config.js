@@ -1,1 +1,1 @@
-var mnemonic = "begin marriage rival derive square buzz black issue supreme sun quiz tube";
+var mnemonic = "vivid sentence spoil rally engine shed genius tuition erase rural embark motor";

@@ -1,1 +1,1 @@
-var mnemonic = "safe catalog clap manage glare odor source loyal emerge awkward side math";
+var mnemonic = "caution hedgehog trigger chef text drive observe assault ostrich tiny lion gather";

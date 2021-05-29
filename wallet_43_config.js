@@ -1,1 +1,1 @@
-var mnemonic = "power melody tornado deposit return hero city meadow similar mail height uncle";
+var mnemonic = "paddle pizza pair attract panic fault rely grit police praise throw plug";

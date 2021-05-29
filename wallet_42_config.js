@@ -1,1 +1,1 @@
-var mnemonic = "index price ghost task execute unfold spell okay accuse attract tribe height";
+var mnemonic = "game friend excess pride chicken setup dry giggle tonight three dinosaur modify";

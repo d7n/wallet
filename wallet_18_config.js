@@ -1,1 +1,1 @@
-var mnemonic = "hip network cash brown fun rate anchor maximum flush wait harbor carbon";
+var mnemonic = "actress empower mandate afford enter list peanut essay draw satoshi fatal cupboard";

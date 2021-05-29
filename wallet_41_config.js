@@ -1,1 +1,1 @@
-var mnemonic = "custom help web visit cloth wheat uniform shock course forward ladder front";
+var mnemonic = "feature barrel chair size gift task find foam sadness glory crack boss";

@@ -1,1 +1,1 @@
-var mnemonic = "latin auction ball pair shadow broccoli dragon burden august track tell dice";
+var mnemonic = "stove hire lizard sock race move romance chest crack tell sponsor clock";

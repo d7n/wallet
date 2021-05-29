@@ -1,1 +1,1 @@
-var mnemonic = "worry jungle album fit govern income close aisle ivory reject engine shy";
+var mnemonic = "airport airport potato lecture field cycle lake story habit clean bargain artefact";

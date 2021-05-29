@@ -1,1 +1,1 @@
-var mnemonic = "unhappy van venue age smooth river laptop hero system man impulse filter";
+var mnemonic = "scene priority weasel flat civil calm elite knock pepper guide soda sand";

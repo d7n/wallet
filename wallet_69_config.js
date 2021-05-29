@@ -1,1 +1,1 @@
-var mnemonic = "hobby next catch shock consider taste reject conduct toward inch lazy apology";
+var mnemonic = "glad corn shuffle abandon puppy enhance include fiction panther tumble profit resemble";

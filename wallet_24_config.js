@@ -1,1 +1,1 @@
-var mnemonic = "humor outer predict romance feature neck force mimic height around example man";
+var mnemonic = "avoid eager opinion remain message fitness ready attend economy chair define mosquito";

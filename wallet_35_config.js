@@ -1,1 +1,1 @@
-var mnemonic = "hover keen galaxy explain broccoli rug snake betray zero concert obey swap";
+var mnemonic = "bicycle merry hazard rate fame pear text bachelor half laundry sleep remember";

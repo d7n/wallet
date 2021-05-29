@@ -1,1 +1,1 @@
-var mnemonic = "reunion essay picture layer day list sadness chronic theme paddle hidden gate";
+var mnemonic = "stairs tunnel laundry speed zone dolphin often universe cancel confirm mom way";

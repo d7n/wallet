@@ -1,1 +1,1 @@
-var mnemonic = "solve laugh stone echo square reunion health one evil word squeeze swallow";
+var mnemonic = "sock source flight ball build family route beef aim forum pact morning";

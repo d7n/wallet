@@ -1,1 +1,1 @@
-var mnemonic = "gospel bronze depend marriage session matrix sorry finger grant inquiry book dwarf";
+var mnemonic = "mom fame fault accident film father when when trap cheese blossom citizen";

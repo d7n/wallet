@@ -1,1 +1,1 @@
-var mnemonic = "attend lonely plastic opera brisk cause kidney month middle job glow image";
+var mnemonic = "clean move budget frown island melody reject mixture funny until orient wrestle";

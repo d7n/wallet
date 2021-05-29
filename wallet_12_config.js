@@ -1,1 +1,1 @@
-var mnemonic = "gorilla drink name rare enact text monkey mass moral property lava sentence";
+var mnemonic = "guard afford sign arrange spoil check admit polar cattle seven practice around";

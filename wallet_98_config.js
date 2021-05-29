@@ -1,1 +1,1 @@
-var mnemonic = "check bubble circle advance mobile produce buddy replace brass bean payment north";
+var mnemonic = "dynamic work install popular tunnel bottom hurdle hundred smart until unhappy ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace act primary mansion clutch present trap thank kite host slot prize";
+var mnemonic = "ride left snack dirt spatial actor onion mass beef balance hood dumb";

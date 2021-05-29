@@ -1,1 +1,1 @@
-var mnemonic = "rotate casino boss project salad submit marine hair canyon save shoulder flee";
+var mnemonic = "payment coil step photo federal faint tattoo switch resource iron anxiety alcohol";

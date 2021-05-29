@@ -1,1 +1,1 @@
-var mnemonic = "rain say injury jaguar huge raw stereo member pumpkin dignity lobster into";
+var mnemonic = "still actual total together culture sausage drastic move sad tree zone fluid";

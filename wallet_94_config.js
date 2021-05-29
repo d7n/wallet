@@ -1,1 +1,1 @@
-var mnemonic = "mountain fortune casual crush embrace crazy before feel pink wood cook north";
+var mnemonic = "pepper genius junior whip monitor patient boost arrange breeze thought merit logic";

@@ -1,1 +1,1 @@
-var mnemonic = "giant spoil tray invite under candy athlete identify mind junior menu dad";
+var mnemonic = "spin habit benefit wasp minute soon earn curtain teach melt gravity physical";

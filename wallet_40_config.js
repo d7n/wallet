@@ -1,1 +1,1 @@
-var mnemonic = "assume explain one oil sell wrestle couple staff hunt tomorrow obey canal";
+var mnemonic = "spoon drip calm model blossom robot learn olympic heavy plunge soon pear";

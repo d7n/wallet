@@ -1,1 +1,1 @@
-var mnemonic = "deny exit agree game parent napkin duty regret helmet inject angry message";
+var mnemonic = "moral country once flee more purchase daring rural purity shrug mean twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "address hold inject wisdom worth dish peace interest shrug either crack bracket";
+var mnemonic = "lion coyote cloth apology symptom job brisk pole dish problem fabric couple";

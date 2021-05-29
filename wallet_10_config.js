@@ -1,1 +1,1 @@
-var mnemonic = "idle faith ticket cruel include street next fan attitude put fix legend";
+var mnemonic = "close salmon violin ladder void nut detail wire proof novel hunt number";

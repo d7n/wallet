@@ -1,1 +1,1 @@
-var mnemonic = "raccoon prevent fitness shoulder control come stamp october sword another bridge clump";
+var mnemonic = "syrup chicken demise large famous govern brown library eye person glance scrap";

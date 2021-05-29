@@ -1,1 +1,1 @@
-var mnemonic = "diet dutch lion drip rate fiber midnight release decade gun grain romance";
+var mnemonic = "dance shiver grape muffin token amused crystal diary romance joke faint hospital";

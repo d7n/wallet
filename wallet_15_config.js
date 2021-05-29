@@ -1,1 +1,1 @@
-var mnemonic = "robot shadow pattern sword chase custom hamster attend giant bid lemon surface";
+var mnemonic = "require drink table atom drift toy jeans hybrid melody turtle vibrant raw";

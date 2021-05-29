@@ -1,1 +1,1 @@
-var mnemonic = "easily canvas repeat mother mass ice laundry pretty pulse puzzle unfold grid";
+var mnemonic = "supreme enhance extra glass defense kick tennis august chief solar average setup";

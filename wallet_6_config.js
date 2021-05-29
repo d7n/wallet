@@ -1,1 +1,1 @@
-var mnemonic = "romance develop what illegal where metal domain neither hotel circle impact hungry";
+var mnemonic = "use joy rain ill river track crime demise pave embrace super promote";

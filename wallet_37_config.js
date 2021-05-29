@@ -1,1 +1,1 @@
-var mnemonic = "nurse decline deliver approve month urge inhale excess horse grab thumb melody";
+var mnemonic = "vapor vague swallow wife end mountain pumpkin radio kangaroo help faculty gesture";

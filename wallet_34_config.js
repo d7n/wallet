@@ -1,1 +1,1 @@
-var mnemonic = "cause solve chimney swift tray easy bundle leader mango river robust immense";
+var mnemonic = "search drip draw rich drift pioneer comic now program wrong have paper";

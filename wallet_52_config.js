@@ -1,1 +1,1 @@
-var mnemonic = "picnic genuine output leopard daughter flee rival system rather snake drama quarter";
+var mnemonic = "digital attract skull bonus fish urban praise letter oil toddler genre lend";

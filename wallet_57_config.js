@@ -1,1 +1,1 @@
-var mnemonic = "theory metal pet ask frost waste song mail rough crisp tuna faint";
+var mnemonic = "second upon elder romance shuffle spend drama horror print task check quarter";

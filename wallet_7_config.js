@@ -1,1 +1,1 @@
-var mnemonic = "huge token stock mention vacant orphan barely shrug tip three extend raven";
+var mnemonic = "life struggle cool during slice turn hospital gallery segment dilemma question tribe";

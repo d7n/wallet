@@ -1,1 +1,1 @@
-var mnemonic = "tilt notice shrimp delay track action umbrella mountain gloom guide apple tenant";
+var mnemonic = "south rhythm claw guess infant crazy short walnut hub true black increase";

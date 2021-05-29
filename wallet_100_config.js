@@ -1,1 +1,1 @@
-var mnemonic = "rather cargo salute witness drama flock life account other demise enemy goose";
+var mnemonic = "snake inmate coin trade key token music december brush sauce book answer";

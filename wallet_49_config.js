@@ -1,1 +1,1 @@
-var mnemonic = "pear tomato dumb elevator cycle bridge deposit jealous basic fossil grace scheme";
+var mnemonic = "ready model visit fiction stairs select stool clap ocean vehicle trophy scheme";

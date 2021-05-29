@@ -1,1 +1,1 @@
-var mnemonic = "hole bicycle depart three student any artefact violin awful cattle october range";
+var mnemonic = "lyrics fan civil sorry chuckle sport involve blame ketchup helmet abandon crater";

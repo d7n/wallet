@@ -1,1 +1,1 @@
-var mnemonic = "credit permit juice smoke theme stuff awful extend payment whisper viable enlist";
+var mnemonic = "forest install neither swallow cool wonder quarter shrug taste pill sentence surprise";

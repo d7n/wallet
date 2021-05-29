@@ -1,1 +1,1 @@
-var mnemonic = "mail brass refuse appear depend month science flush oil delay now legal";
+var mnemonic = "dignity play frog wedding addict year soft brass kid recall copy sock";

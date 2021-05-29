@@ -1,1 +1,1 @@
-var mnemonic = "attitude maple arrest quote jungle owner empower must square razor connect pulse";
+var mnemonic = "jacket flavor invest typical envelope frequent intact vessel depth vault warrior kidney";

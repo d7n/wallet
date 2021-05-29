@@ -1,1 +1,1 @@
-var mnemonic = "embody minute credit rely hello cave immense orphan robust super stock century";
+var mnemonic = "manual beauty mass decrease march apart cry rail army comic demand behind";

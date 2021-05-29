@@ -1,1 +1,1 @@
-var mnemonic = "tag occur news circle oak nephew similar ski now acoustic cupboard goose";
+var mnemonic = "east country misery ankle hello among bless pony medal grace betray sting";

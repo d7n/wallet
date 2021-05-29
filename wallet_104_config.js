@@ -1,1 +1,1 @@
-var mnemonic = "basic isolate hope van lens axis logic talk unveil luxury open off";
+var mnemonic = "useless voyage term devote oyster promote side you advice rebuild sorry minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "faith cliff position sphere alone avoid zero cloud repeat chest discover pact";
+var mnemonic = "sure garage net fiscal resist garlic craft art lesson fitness toddler thing";

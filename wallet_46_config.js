@@ -1,1 +1,1 @@
-var mnemonic = "pen galaxy luxury sugar frozen lonely medal range wait frost survey science";
+var mnemonic = "taxi profit eye brush eagle size congress method around saddle middle dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "finish sunset since raw adjust raven update blue certain tired disagree tip";
+var mnemonic = "element angry pioneer cry rice work steel begin item judge picture tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "spread bottom path trade welcome panel cricket mimic film rain cereal voyage";
+var mnemonic = "clever frozen among menu close faint wool pledge twist tip allow story";

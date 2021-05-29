@@ -1,1 +1,1 @@
-var mnemonic = "fault another super wise salmon friend paper soon error asset lamp economy";
+var mnemonic = "goat beyond learn spare shrimp anger planet sight north end mountain dynamic";

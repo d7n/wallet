@@ -1,1 +1,1 @@
-var mnemonic = "magic coin agree swear muscle cupboard soccer senior describe evidence inflict round";
+var mnemonic = "behave chimney name roast mammal oval select cat distance easily balcony any";

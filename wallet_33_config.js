@@ -1,1 +1,1 @@
-var mnemonic = "acid orchard pole observe evolve balcony better unit lava relax buddy wolf";
+var mnemonic = "master scorpion various govern genuine beyond collect slide ensure bulk local outside";

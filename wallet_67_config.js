@@ -1,1 +1,1 @@
-var mnemonic = "nice trumpet afford rare crane salmon fatigue dwarf bright chair quiz clip";
+var mnemonic = "heavy tongue repair visual horror humor pledge globe stereo picture prevent ivory";

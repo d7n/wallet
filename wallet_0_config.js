@@ -1,1 +1,1 @@
-var mnemonic = "adapt slight link bottom any youth because column damage security beauty snow";
+var mnemonic = "combine twenty peasant taste follow radar lesson chicken hunt wing pioneer dilemma";

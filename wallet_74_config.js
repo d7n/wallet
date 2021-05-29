@@ -1,1 +1,1 @@
-var mnemonic = "weasel puzzle soon attend air want impose rifle select lunch arctic kingdom";
+var mnemonic = "north unaware fold steak damp retreat grant scrub yellow plunge jacket palace";

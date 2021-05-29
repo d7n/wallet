@@ -1,1 +1,1 @@
-var mnemonic = "shy tribe kind strong jelly bomb bone bind capable goat mother horn";
+var mnemonic = "tilt merit lumber era soda sock settle dwarf cloth train nominee cement";

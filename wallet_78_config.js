@@ -1,1 +1,1 @@
-var mnemonic = "hill object monitor digital gap hero priority neutral price nest voice farm";
+var mnemonic = "brush provide enable turn execute lake drama chaos oyster worry uncle useless";

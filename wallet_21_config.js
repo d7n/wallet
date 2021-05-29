@@ -1,1 +1,1 @@
-var mnemonic = "timber quality subway wrong hold drill cradle stove idea depth measure hero";
+var mnemonic = "impact vendor vague artefact away unable layer error kidney item vibrant pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar write figure possible craft sudden glare electric scheme puppy matter page";
+var mnemonic = "huge sniff copy convince clever series salt chicken own glue repair parade";

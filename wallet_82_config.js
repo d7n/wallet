@@ -1,1 +1,1 @@
-var mnemonic = "hood erase pole settle crush lion party exit element razor tree essence";
+var mnemonic = "denial review stamp write table tone letter tomato spread sadness next tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "spare bacon shrimp relax girl problem physical pool slow hidden segment disease";
+var mnemonic = "erode hollow rival battle virus welcome robust habit stool sample filter hotel";

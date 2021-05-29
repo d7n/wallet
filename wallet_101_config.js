@@ -1,1 +1,1 @@
-var mnemonic = "suggest lab pony social muffin insect clap wheat case record one layer";
+var mnemonic = "mansion era lazy bar maze fiscal cost palm practice sting slender wear";

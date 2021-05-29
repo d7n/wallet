@@ -1,1 +1,1 @@
-var mnemonic = "accuse sunny push asset outer square pretty inmate verb child mechanic grief";
+var mnemonic = "place battle symptom dove oxygen aware celery fire stool immense pond rely";

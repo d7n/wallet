@@ -1,1 +1,1 @@
-var mnemonic = "wagon echo ceiling train lift monkey suggest zebra trim remove fence there";
+var mnemonic = "clown govern awesome web member fire sorry reform gesture salon fruit ignore";

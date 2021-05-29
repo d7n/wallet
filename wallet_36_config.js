@@ -1,1 +1,1 @@
-var mnemonic = "coin pig waste space hole wait pony similar dwarf hill index act";
+var mnemonic = "album second demand language bottom crazy walnut human secret shuffle relief dance";

@@ -1,1 +1,1 @@
-var mnemonic = "idle fire bring gate trash need short pistol wine winner remember west";
+var mnemonic = "rely more census great verb tag tattoo cart raven royal thank egg";

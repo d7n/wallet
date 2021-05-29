@@ -1,1 +1,1 @@
-var mnemonic = "talent total uphold thunder icon club entire guitar cross burst blade upon";
+var mnemonic = "accident nasty bullet tray lawsuit error equip proof riot tower fox large";

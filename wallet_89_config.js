@@ -1,1 +1,1 @@
-var mnemonic = "virus illegal olive roast coyote pelican width rate satisfy decrease month hire";
+var mnemonic = "tackle shallow goddess expire load lock scout novel stamp tortoise win endorse";

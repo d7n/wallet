@@ -1,1 +1,1 @@
-var mnemonic = "reveal toss kit damage fabric square arrange elbow subject impact naive when";
+var mnemonic = "detect ring glove garage arena group select vast auto unable kidney neither";

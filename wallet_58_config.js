@@ -1,1 +1,1 @@
-var mnemonic = "awful ticket wrong race merge nose grief expand until spot pattern ranch";
+var mnemonic = "verify legend park often card horse question tumble fork tenant crisp bar";

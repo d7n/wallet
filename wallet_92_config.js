@@ -1,1 +1,1 @@
-var mnemonic = "visit skin quiz payment visual frozen undo quit sure mom display tank";
+var mnemonic = "jelly aisle pink unfair moment coast lava option reduce shrimp remove top";

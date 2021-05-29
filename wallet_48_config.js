@@ -1,1 +1,1 @@
-var mnemonic = "feature autumn season predict display divert music creek minute stone dizzy together";
+var mnemonic = "cinnamon social convince sustain damp cherry oak release rescue dolphin news home";

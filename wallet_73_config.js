@@ -1,1 +1,1 @@
-var mnemonic = "urge blur way baby argue rely immense retire december knife march vault";
+var mnemonic = "bacon drop fog apology recycle pistol piano guard true school soldier cat";

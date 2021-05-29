@@ -1,1 +1,1 @@
-var mnemonic = "fog armed mind dinner side festival clarify faculty law prefer pupil junior";
+var mnemonic = "metal scene december angry moment thumb huge language inner brick meat image";

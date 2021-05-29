@@ -1,1 +1,1 @@
-var mnemonic = "wink acquire labor truck news panel area lend sheriff almost embark deliver";
+var mnemonic = "pair number area core hint unhappy mind apple tired luggage poem nothing";

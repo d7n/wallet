@@ -1,1 +1,1 @@
-var mnemonic = "multiply job describe art pizza maze hover wise receive undo woman web";
+var mnemonic = "since comic diet gesture flash develop invite obscure diet normal able core";

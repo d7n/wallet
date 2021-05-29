@@ -1,1 +1,1 @@
-var mnemonic = "tone wheel fence whip device holiday smooth illness private axis expose immense";
+var mnemonic = "glow virus summer piano atom carry over convince upper success major kid";

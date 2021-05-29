@@ -1,1 +1,1 @@
-var mnemonic = "cat negative seek huge mutual trick turkey predict rate return love barely";
+var mnemonic = "blue tiny cereal coyote pride near siren goose basic toddler vague office";

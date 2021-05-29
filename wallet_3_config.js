@@ -1,1 +1,1 @@
-var mnemonic = "loop yard glad amateur glow tone actor forward dove game index cannon";
+var mnemonic = "swing group defy couple secret border load burger aerobic impose document ritual";
