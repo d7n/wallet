@@ -1,1 +1,1 @@
-var mnemonic = "solve benefit zero suffer border announce riot ten song jump drama people";
+var mnemonic = "resemble century silk evoke bronze alert fee impulse manage mass memory subway";

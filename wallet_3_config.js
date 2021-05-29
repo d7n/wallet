@@ -1,1 +1,1 @@
-var mnemonic = "law asset gravity obvious bind mail trigger clog tired daughter melt accuse";
+var mnemonic = "violin damage maple tattoo under marine rhythm jacket permit robust mind turn";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange south page stomach photo ancient patrol egg dash lion raise joke";
+var mnemonic = "hurry course horn funny purpose eye audit crew shrimp float acid idle";

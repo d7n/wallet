@@ -1,1 +1,1 @@
-var mnemonic = "fabric pause warm vicious birth chunk robust merry spoon mobile cargo raw";
+var mnemonic = "breeze dismiss radio cement crop clean noodle frame smart chest universe spring";

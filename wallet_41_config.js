@@ -1,1 +1,1 @@
-var mnemonic = "indicate metal permit fluid demise kind wash hat warrior dog prefer shaft";
+var mnemonic = "demand fox other amused view hotel convince method task favorite idle magic";

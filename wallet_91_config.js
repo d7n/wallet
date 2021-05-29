@@ -1,1 +1,1 @@
-var mnemonic = "grass depart surprise rapid flash cabin giant carpet dilemma lucky purchase crisp";
+var mnemonic = "island brother liar gain exhibit stove dutch surround olive shuffle lizard still";

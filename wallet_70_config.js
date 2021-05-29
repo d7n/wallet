@@ -1,1 +1,1 @@
-var mnemonic = "stamp person direct story bubble boring desert material drama fork picture sunset";
+var mnemonic = "fog canal satisfy hurdle cloud clean case lawn surround lunar torch pencil";

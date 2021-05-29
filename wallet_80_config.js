@@ -1,1 +1,1 @@
-var mnemonic = "venture cute illegal aim unaware chase unknown piano artwork silly army loop";
+var mnemonic = "brother strong enemy envelope excite fold mandate traffic gown simple labor sweet";

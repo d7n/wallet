@@ -1,1 +1,1 @@
-var mnemonic = "near way badge entire citizen object shrimp salute section dolphin security soda";
+var mnemonic = "visa hill feature sketch shoulder what interest salute blast gain outdoor glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn river knock melt theme hammer hurry point bless wreck juice antenna";
+var mnemonic = "next argue drill jar pioneer custom scissors slow give deliver setup ecology";

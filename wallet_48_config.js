@@ -1,1 +1,1 @@
-var mnemonic = "crouch much asset learn rug voice better trip satisfy six neutral patient";
+var mnemonic = "join police author escape arrow color mention anxiety raven remember treat state";

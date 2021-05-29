@@ -1,1 +1,1 @@
-var mnemonic = "rude welcome doll mean horn humble glide swap suffer credit magnet syrup";
+var mnemonic = "polar tool select safe pencil object bar absurd toddler purpose finger step";

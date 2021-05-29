@@ -1,1 +1,1 @@
-var mnemonic = "crouch cloth behave unaware child slot float attack helmet churn isolate fringe";
+var mnemonic = "salute cigar orient tragic element cigar bread club shrimp risk pass punch";

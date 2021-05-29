@@ -1,1 +1,1 @@
-var mnemonic = "foil ridge praise pool fruit daughter clarify degree steak shine elevator dove";
+var mnemonic = "seek lunch jazz excite festival special matter cloth young around tuition occur";

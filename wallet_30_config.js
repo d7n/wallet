@@ -1,1 +1,1 @@
-var mnemonic = "joy vital trap cinnamon find style result obscure price property nuclear kite";
+var mnemonic = "guide north spider spread kind broom elite scheme pill pen cereal enhance";

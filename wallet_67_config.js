@@ -1,1 +1,1 @@
-var mnemonic = "firm game jump junk lounge color romance embody interest receive budget cook";
+var mnemonic = "coral response toast open rural coin ridge foam tank safe fuel cloth";

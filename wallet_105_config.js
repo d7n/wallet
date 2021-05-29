@@ -1,1 +1,1 @@
-var mnemonic = "raven story swim wait salon weapon almost coral bulk reunion carpet fever";
+var mnemonic = "priority kit typical wood want people album someone scout summer fork special";

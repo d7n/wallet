@@ -1,1 +1,1 @@
-var mnemonic = "dad luggage bacon rather boat fade prevent they slow proud crash list";
+var mnemonic = "test duck crouch debris violin gold coral viable scale bunker point elder";

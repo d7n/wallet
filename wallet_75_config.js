@@ -1,1 +1,1 @@
-var mnemonic = "cake cycle shield protect year float another treat half rural nurse ridge";
+var mnemonic = "puzzle midnight latin lounge mango found kick addict body energy pause wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "old asthma reject surprise verb few network crash axis outdoor call report";
+var mnemonic = "pattern alcohol cliff stomach car dumb use peasant caution start occur fortune";

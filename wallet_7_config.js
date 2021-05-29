@@ -1,1 +1,1 @@
-var mnemonic = "soap ghost top else green still smoke number spoil know jacket mixture";
+var mnemonic = "kingdom surround shoulder enjoy delay device describe cancel habit obtain spider live";

@@ -1,1 +1,1 @@
-var mnemonic = "business wonder notable flight push differ film life silver spoil summer balance";
+var mnemonic = "property quit history guilt shed stool midnight sock spy news genuine dose";

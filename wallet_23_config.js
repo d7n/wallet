@@ -1,1 +1,1 @@
-var mnemonic = "supreme before kangaroo glance annual clerk diary know nurse slogan sauce master";
+var mnemonic = "slow attack frozen solar huge visit album fade possible sugar visa fabric";

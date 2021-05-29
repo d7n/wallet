@@ -1,1 +1,1 @@
-var mnemonic = "ugly rebel loyal absorb tooth extend tired grace pepper first area design";
+var mnemonic = "industry usage shell enact million knock squirrel vacuum decrease disease trash myth";

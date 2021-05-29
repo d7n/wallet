@@ -1,1 +1,1 @@
-var mnemonic = "gap able umbrella fit wet city session trumpet empower hub that run";
+var mnemonic = "motion assist leader pilot high bridge unique tuna argue ozone goddess great";

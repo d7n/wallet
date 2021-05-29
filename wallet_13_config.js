@@ -1,1 +1,1 @@
-var mnemonic = "used team car predict shrug present barely slice zone prosper exist episode";
+var mnemonic = "math script saddle husband major bar defy what denial page flip ridge";

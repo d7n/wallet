@@ -1,1 +1,1 @@
-var mnemonic = "bulb liberty year cool pluck dinner century bean hover traffic gasp october";
+var mnemonic = "stove autumn attend clap consider garbage acoustic brave wise segment omit give";

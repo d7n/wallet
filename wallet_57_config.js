@@ -1,1 +1,1 @@
-var mnemonic = "eternal often suggest custom want bundle exact oak upgrade away pluck symptom";
+var mnemonic = "position resist opera woman host saddle system satoshi invite miss best census";

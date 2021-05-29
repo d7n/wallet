@@ -1,1 +1,1 @@
-var mnemonic = "one ticket narrow chunk piece hollow mobile carry curtain idea circle pony";
+var mnemonic = "volcano you velvet buyer execute guitar scrap neither hour iron number apology";

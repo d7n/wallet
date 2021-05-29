@@ -1,1 +1,1 @@
-var mnemonic = "mesh orient hurt stem object hurdle vault misery coffee bulk crumble electric";
+var mnemonic = "absent unaware camera spread dance pelican close physical uniform vital fantasy basket";

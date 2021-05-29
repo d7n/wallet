@@ -1,1 +1,1 @@
-var mnemonic = "pill film thank olympic quality trim clean antique source wood midnight library";
+var mnemonic = "lab help rally stairs soul proof field praise hip prison dream edit";

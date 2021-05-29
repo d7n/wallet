@@ -1,1 +1,1 @@
-var mnemonic = "tongue fence erase what remain inner symbol heavy movie element pluck margin";
+var mnemonic = "exhaust bonus photo human idle lion elegant predict gap perfect property blast";

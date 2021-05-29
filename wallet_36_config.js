@@ -1,1 +1,1 @@
-var mnemonic = "argue praise matrix hospital enough promote ginger tuna input dumb just shop";
+var mnemonic = "section trust unaware nominee elegant soul doll audit clarify upon size blue";

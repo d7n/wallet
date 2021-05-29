@@ -1,1 +1,1 @@
-var mnemonic = "enact kidney problem frost essay trumpet tornado cradle illness furnace forget fruit";
+var mnemonic = "under birth orphan march verb meadow predict penalty execute dolphin lawn typical";

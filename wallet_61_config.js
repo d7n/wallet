@@ -1,1 +1,1 @@
-var mnemonic = "silly sword rose math wrong begin boring degree media sight tobacco win";
+var mnemonic = "purpose toward habit hen primary asset over hover manage donkey valid suffer";

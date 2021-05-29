@@ -1,1 +1,1 @@
-var mnemonic = "inner siege route enemy memory hello coconut female timber kitten shop whale";
+var mnemonic = "help tray chuckle appear first thank behind manual horse habit witness gadget";

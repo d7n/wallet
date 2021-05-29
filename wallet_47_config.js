@@ -1,1 +1,1 @@
-var mnemonic = "manage poverty rely captain exit jaguar accident orbit boring capital truck size";
+var mnemonic = "stereo sword cat length sea nominee kind million student gap defense castle";

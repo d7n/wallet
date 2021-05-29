@@ -1,1 +1,1 @@
-var mnemonic = "flash tired shoulder craft harbor velvet symptom fuel increase tree flush soup";
+var mnemonic = "sorry tide domain narrow rough junk shoot fossil thunder slogan inmate plunge";

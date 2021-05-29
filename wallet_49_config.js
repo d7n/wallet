@@ -1,1 +1,1 @@
-var mnemonic = "divert muscle velvet better shuffle supreme assault space caught giant help solve";
+var mnemonic = "soup hole quick transfer spend spell eternal wage family uncle thank dish";

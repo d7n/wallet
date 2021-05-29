@@ -1,1 +1,1 @@
-var mnemonic = "tornado patch honey wife patient venue skin transfer under future drill feed";
+var mnemonic = "exhibit tilt fence loop point oppose bicycle educate motion right retire year";

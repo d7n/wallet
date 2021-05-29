@@ -1,1 +1,1 @@
-var mnemonic = "shuffle coffee cable twenty acoustic able priority spring include route romance photo";
+var mnemonic = "sound limb donor rely cousin quiz summer neglect south hurry main round";

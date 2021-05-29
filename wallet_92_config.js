@@ -1,1 +1,1 @@
-var mnemonic = "bomb eight pulse sport addict cancel harvest toe marble engine bright dignity";
+var mnemonic = "vague body lake busy person detect morning long copper obvious blade margin";

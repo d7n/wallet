@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog leader chimney silly clarify sure outside main hover dice machine evidence";
+var mnemonic = "desk sphere great light valve bone verb badge bounce topple cheese kitten";

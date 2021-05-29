@@ -1,1 +1,1 @@
-var mnemonic = "term canal escape scrub orbit gun maze library end rule student input";
+var mnemonic = "scale kingdom divorce volume wealth body gravity neck peasant cliff beef violin";

@@ -1,1 +1,1 @@
-var mnemonic = "happy employ eyebrow sing wish boost security dentist harvest minor spike neck";
+var mnemonic = "jeans sketch soda remove victory napkin genuine shrug claw brief clinic vacuum";

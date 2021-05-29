@@ -1,1 +1,1 @@
-var mnemonic = "speed code wisdom chest abstract wedding enough pony movie category chalk mistake";
+var mnemonic = "thrive comic wool blast tooth claim wrap reason alley monkey retreat lizard";

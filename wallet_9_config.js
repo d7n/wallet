@@ -1,1 +1,1 @@
-var mnemonic = "maximum bread flavor swing alcohol lumber uncover man prepare tonight into enact";
+var mnemonic = "faint critic bracket dutch cover twice rural cannon guide chief load worry";

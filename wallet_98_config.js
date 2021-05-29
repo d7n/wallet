@@ -1,1 +1,1 @@
-var mnemonic = "equip food swamp reunion quantum despair clerk welcome capable scorpion cabbage deliver";
+var mnemonic = "cart spray surround time scout example aspect security plug measure talk high";

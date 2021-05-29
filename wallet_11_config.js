@@ -1,1 +1,1 @@
-var mnemonic = "unit accident ski coin essence admit paper device possible input ceiling cement";
+var mnemonic = "wing giant document crash open stem picture club runway whale seminar during";

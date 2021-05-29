@@ -1,1 +1,1 @@
-var mnemonic = "silent man snow alarm lens order can upon total pet kitchen damp";
+var mnemonic = "milk ginger custom minimum rain glass sponsor culture trick theory spoon indicate";

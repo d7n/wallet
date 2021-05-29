@@ -1,1 +1,1 @@
-var mnemonic = "together beach below hamster fury fence solve you jaguar safe brass pill";
+var mnemonic = "menu lucky unique front exotic other carry believe bullet grunt member sun";

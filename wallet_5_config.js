@@ -1,1 +1,1 @@
-var mnemonic = "column drama twenty despair devote market ranch hotel will avocado awake reward";
+var mnemonic = "brisk coyote airport thrive cruise trip accident ship lucky soap any wild";

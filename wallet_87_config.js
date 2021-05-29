@@ -1,1 +1,1 @@
-var mnemonic = "social blood swim abuse outdoor gospel elephant essay eye ethics grab bus";
+var mnemonic = "blur adult attack find move industry special echo swallow dish area ready";

@@ -1,1 +1,1 @@
-var mnemonic = "treat guess brave dynamic shed cart toe wasp fee amateur stage share";
+var mnemonic = "offer current verify deny pilot offer prison predict door curious spring can";

@@ -1,1 +1,1 @@
-var mnemonic = "file edge they portion awkward moon range snow cup cake latin stick";
+var mnemonic = "egg enemy punch explain april clinic reject lens market health super float";

@@ -1,1 +1,1 @@
-var mnemonic = "cause expect spy grief soldier hand wall limb frog donkey room torch";
+var mnemonic = "sea kitten cute snack head tide fuel flush shift patch wood rely";

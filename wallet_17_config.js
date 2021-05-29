@@ -1,1 +1,1 @@
-var mnemonic = "garage glue fame shock wave welcome orient seed train matter square acoustic";
+var mnemonic = "ahead accuse vendor problem marble flat network hint vacant glory sign balcony";

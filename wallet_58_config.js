@@ -1,1 +1,1 @@
-var mnemonic = "captain pride intact piece wide delay toward repeat jaguar ordinary rapid safe";
+var mnemonic = "satisfy foil metal raccoon hunt quick sniff style obvious virtual sing topple";

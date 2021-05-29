@@ -1,1 +1,1 @@
-var mnemonic = "chef jealous stomach settle clutch october fat alone ski citizen gospel salute";
+var mnemonic = "hand rubber improve spy ticket remove require require remind select sponsor flush";

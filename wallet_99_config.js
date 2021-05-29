@@ -1,1 +1,1 @@
-var mnemonic = "sound alley code melody eight neck fly solution cover cereal hope athlete";
+var mnemonic = "salt episode record pudding pulse huge differ still heart fun bike supply";

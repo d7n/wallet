@@ -1,1 +1,1 @@
-var mnemonic = "raw earn arrow increase whip march pledge demise repeat exit rotate indoor";
+var mnemonic = "enlist found perfect boss reform organ boost ketchup glass seed shuffle obscure";

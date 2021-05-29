@@ -1,1 +1,1 @@
-var mnemonic = "book urban humor party cricket steel ancient coil lion zoo easy grace";
+var mnemonic = "amateur simple public picture layer also behind used birth despair alley aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "business mass lunch police episode scatter napkin depend custom mass lawsuit cave";
+var mnemonic = "laptop essence breeze pattern mimic puppy enlist boss dinner dream height cost";

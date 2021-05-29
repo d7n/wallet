@@ -1,1 +1,1 @@
-var mnemonic = "wave danger body female climb chat duck found educate table drive inject";
+var mnemonic = "rookie honey over rely math matrix exhaust train build scan ladder fever";

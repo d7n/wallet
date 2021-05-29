@@ -1,1 +1,1 @@
-var mnemonic = "core fee buzz mouse actor laugh juice chase rocket stick puppy net";
+var mnemonic = "vanish prevent sample naive noble match hunt hover trash mimic scrap check";

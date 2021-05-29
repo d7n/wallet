@@ -1,1 +1,1 @@
-var mnemonic = "judge token minor woman such outdoor whip disease between jealous accident frequent";
+var mnemonic = "gate gloom patrol juice pigeon utility voyage know middle rocket other area";

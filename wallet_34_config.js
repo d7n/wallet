@@ -1,1 +1,1 @@
-var mnemonic = "proof twist destroy clerk goat interest below sniff exist address index utility";
+var mnemonic = "slush fork valve paddle they episode kiss field gift bread black census";

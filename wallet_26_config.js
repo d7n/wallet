@@ -1,1 +1,1 @@
-var mnemonic = "brother gentle legend punch cry zone size quality cherry attack deer adjust";
+var mnemonic = "fix excuse unaware surge reject member resist shock spin volcano together shed";

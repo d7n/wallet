@@ -1,1 +1,1 @@
-var mnemonic = "guide nasty raise protect snack blur middle sight aspect husband blouse cushion";
+var mnemonic = "lecture puzzle ability food garment solution squirrel fatal plate screen lunch human";

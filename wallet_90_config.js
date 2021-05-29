@@ -1,1 +1,1 @@
-var mnemonic = "goose wolf because answer sweet library grab snap youth detect earth grocery";
+var mnemonic = "siren neck food submit jeans soft wreck evolve shoulder cabin strong reject";

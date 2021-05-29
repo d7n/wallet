@@ -1,1 +1,1 @@
-var mnemonic = "gym super picture sure return usage volcano soul minute rescue better pet";
+var mnemonic = "airport cancel south light spike turkey pencil fix lion brass keen satisfy";

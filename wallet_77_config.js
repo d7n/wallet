@@ -1,1 +1,1 @@
-var mnemonic = "ship plastic two bachelor soup spray hold mesh peanut muffin cement gospel";
+var mnemonic = "satoshi weather energy auto mask empower element cash water grief seven mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug flavor orient staff park divorce parade affair artist amused critic quality";
+var mnemonic = "simple swarm angle pass entire brush acquire recycle clean squeeze grow hope";

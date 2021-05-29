@@ -1,1 +1,1 @@
-var mnemonic = "million sign order peanut rookie inside solid element armed judge cream tank";
+var mnemonic = "spice ranch diagram rare network ahead boat audit blast avocado predict hazard";

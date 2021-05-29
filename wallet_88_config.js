@@ -1,1 +1,1 @@
-var mnemonic = "vendor ritual penalty evolve usual pilot famous road subject conduct into congress";
+var mnemonic = "demise worth knock warfare circle never observe cigar text height street remain";

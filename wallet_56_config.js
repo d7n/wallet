@@ -1,1 +1,1 @@
-var mnemonic = "cram ripple rigid force siege unfold narrow clump yellow roof skirt evidence";
+var mnemonic = "crumble width caution soup lady little resist farm carry argue vast give";

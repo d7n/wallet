@@ -1,1 +1,1 @@
-var mnemonic = "access rhythm swallow remain catch make autumn beyond affair giant dwarf match";
+var mnemonic = "just exist plastic gesture school heart rain letter horn wire shed champion";

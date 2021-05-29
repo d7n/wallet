@@ -1,1 +1,1 @@
-var mnemonic = "pond echo fitness often rack insane sad forest strong foot sight brick";
+var mnemonic = "hollow bicycle spatial asthma sword target elevator asset apology animal absurd transfer";

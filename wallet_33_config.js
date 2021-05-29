@@ -1,1 +1,1 @@
-var mnemonic = "cradle bless surprise car casino tuna sure tornado vintage ski frown shrug";
+var mnemonic = "elephant follow scheme borrow develop enough ripple marriage sense lonely initial taxi";

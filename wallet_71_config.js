@@ -1,1 +1,1 @@
-var mnemonic = "cover paper buffalo build rocket wrap supreme explain tattoo birth jelly safe";
+var mnemonic = "pole vault medal soap vanish problem dumb can cruise rebuild load spoil";

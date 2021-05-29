@@ -1,1 +1,1 @@
-var mnemonic = "churn atom valve hollow travel exchange screen cube slam palm slice already";
+var mnemonic = "split crop enter school glide dust charge uncle soft argue gauge genuine";

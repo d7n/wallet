@@ -1,1 +1,1 @@
-var mnemonic = "example wisdom pride quick summer live humor avoid champion blame enter rule";
+var mnemonic = "renew almost remain music glide virtual hair small raccoon spend melody song";

@@ -1,1 +1,1 @@
-var mnemonic = "settle curve super ask dream rude dad annual garbage turkey matter yard";
+var mnemonic = "flock anger bacon slab legal unique orange network actor crop beauty match";

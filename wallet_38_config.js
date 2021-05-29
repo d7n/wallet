@@ -1,1 +1,1 @@
-var mnemonic = "tape cost push amateur learn section angle fiber man ginger federal melt";
+var mnemonic = "banner step find develop innocent unable cannon brush elevator school physical metal";

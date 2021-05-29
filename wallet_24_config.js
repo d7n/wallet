@@ -1,1 +1,1 @@
-var mnemonic = "figure boss park hover usage observe repeat priority real offer almost garden";
+var mnemonic = "sniff kid broom depart unfold excuse general cost cage fashion exhibit turn";

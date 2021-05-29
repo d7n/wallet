@@ -1,1 +1,1 @@
-var mnemonic = "crucial secret fossil kit airport present forum receive assume entire ticket snake";
+var mnemonic = "grace scissors miss science service all soon motion swing twenty scan habit";

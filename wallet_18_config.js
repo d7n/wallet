@@ -1,1 +1,1 @@
-var mnemonic = "cereal valid rocket follow strike flat wonder original bring spot scare style";
+var mnemonic = "section initial private youth bronze arch crew sauce square shop dance gauge";

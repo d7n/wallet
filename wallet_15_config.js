@@ -1,1 +1,1 @@
-var mnemonic = "top sound stay horror detect coconut home chimney reject oblige correct sound";
+var mnemonic = "lesson dry false call update home sponsor siren leisure barrel daughter rose";

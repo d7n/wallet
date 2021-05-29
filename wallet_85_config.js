@@ -1,1 +1,1 @@
-var mnemonic = "intact sentence parade gift organ guess ski simple license response actor chef";
+var mnemonic = "regular thank arrange one board tuition blossom heavy poverty inject apart usage";

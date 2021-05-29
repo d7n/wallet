@@ -1,1 +1,1 @@
-var mnemonic = "million brass artefact border thrive jewel remind horse merge swamp record glimpse";
+var mnemonic = "fly decorate glue stereo inch invest electric shiver onion used bamboo abuse";

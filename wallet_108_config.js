@@ -1,1 +1,1 @@
-var mnemonic = "mixed riot toe cat amazing physical budget agent bundle upgrade acquire garage";
+var mnemonic = "love action crunch main poem custom tree card page sadness height shop";

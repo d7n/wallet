@@ -1,1 +1,1 @@
-var mnemonic = "dizzy error differ vocal liberty pretty solution smooth wear boy city gift";
+var mnemonic = "delay smooth carbon any awesome candy evil knee tiger armed exercise flag";

@@ -1,1 +1,1 @@
-var mnemonic = "advance visa result patrol very oval capital rack laugh more knee mutual";
+var mnemonic = "rapid inmate rhythm crazy flat boil romance science spin congress peace skirt";

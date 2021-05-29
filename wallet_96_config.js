@@ -1,1 +1,1 @@
-var mnemonic = "company chronic husband dash bar canoe advice clinic open hill hawk afford";
+var mnemonic = "snap must glory ripple deer canoe deposit hen combine loyal version day";

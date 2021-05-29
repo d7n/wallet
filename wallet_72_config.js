@@ -1,1 +1,1 @@
-var mnemonic = "helmet elbow inquiry april thank income lyrics decade buzz art kangaroo north";
+var mnemonic = "ready security tag chunk damp unit dutch suspect barely glad royal excuse";

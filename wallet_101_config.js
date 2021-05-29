@@ -1,1 +1,1 @@
-var mnemonic = "history hurdle couple swamp ugly lawsuit cup genuine regular resource chapter crucial";
+var mnemonic = "divert fame crime slice miracle crystal fragile place note bench sustain vendor";

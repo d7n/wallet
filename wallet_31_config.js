@@ -1,1 +1,1 @@
-var mnemonic = "sauce sorry mansion despair world strong length alcohol mandate pipe image teach";
+var mnemonic = "coconut penalty hospital frozen tissue honey tenant health vessel tag square evidence";
