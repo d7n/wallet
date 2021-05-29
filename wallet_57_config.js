@@ -1,1 +1,1 @@
-var mnemonic = "total myself depth total army fog opera exhibit ten waste hope spoil";
+var mnemonic = "chimney travel flip exact length fiscal fork figure frost meat sample expect";

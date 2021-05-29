@@ -1,1 +1,1 @@
-var mnemonic = "sun frown poem robot sentence nation excuse want shuffle buddy laugh key";
+var mnemonic = "inch broom winner remove flower vanish right luxury evolve plastic check patch";

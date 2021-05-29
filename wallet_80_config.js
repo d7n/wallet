@@ -1,1 +1,1 @@
-var mnemonic = "tunnel group conduct forget stuff exercise learn stomach grant silent swap dinner";
+var mnemonic = "jungle dose session group curtain embrace mutual enrich mango call put chat";

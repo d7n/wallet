@@ -1,1 +1,1 @@
-var mnemonic = "cereal code expect shaft swap plunge matter atom dragon lawsuit pudding robot";
+var mnemonic = "noble reopen biology exact finish swear universe unaware opinion ugly chef jeans";

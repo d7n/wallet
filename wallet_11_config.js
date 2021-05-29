@@ -1,1 +1,1 @@
-var mnemonic = "exile boat weasel despair witness inflict abuse castle tennis lava barrel thumb";
+var mnemonic = "inch hello nothing unveil fortune economy check mobile cross theme region snack";

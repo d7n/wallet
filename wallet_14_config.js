@@ -1,1 +1,1 @@
-var mnemonic = "visa mad great slogan breeze street morning inflict dove title happy view";
+var mnemonic = "blush pole output advance tenant shove milk again town avocado toddler vault";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder dry rescue army drift endless seat game trumpet noodle flee ability";
+var mnemonic = "swing sentence ordinary flock jump twelve border hamster enjoy gospel sick wide";

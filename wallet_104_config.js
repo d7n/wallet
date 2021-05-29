@@ -1,1 +1,1 @@
-var mnemonic = "trash exit give trap stamp palace foster pledge account boost damp claim";
+var mnemonic = "devote glimpse cheap stay skate husband taxi cactus peanut impulse rice swim";

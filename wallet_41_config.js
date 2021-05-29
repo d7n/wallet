@@ -1,1 +1,1 @@
-var mnemonic = "crucial woman usage lecture private history december task mobile jealous barely priority";
+var mnemonic = "rifle remember flag salad shadow exhaust kingdom forum harvest man chef one";

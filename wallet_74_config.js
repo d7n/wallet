@@ -1,1 +1,1 @@
-var mnemonic = "regret pass man dolphin pluck muscle salmon dinosaur cigar tray ugly female";
+var mnemonic = "pig brave student canoe apart runway machine loan ignore response ranch top";

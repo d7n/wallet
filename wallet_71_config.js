@@ -1,1 +1,1 @@
-var mnemonic = "muscle vocal hero dinosaur any lesson artefact siege yellow busy local history";
+var mnemonic = "clown noodle warm nice ladder announce possible already maid cannon twin scissors";

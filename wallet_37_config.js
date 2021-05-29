@@ -1,1 +1,1 @@
-var mnemonic = "firm indicate need grocery midnight dad will hub ribbon west grief body";
+var mnemonic = "drum direct riot mosquito must ignore manual mom unfold rate erupt bone";

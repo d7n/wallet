@@ -1,1 +1,1 @@
-var mnemonic = "happy replace owner rally sibling fit federal trash sauce social mad pill";
+var mnemonic = "truck dumb foil raw universe stable decide shift check bar setup trust";

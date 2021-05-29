@@ -1,1 +1,1 @@
-var mnemonic = "shoulder injury barrel prevent genius gossip legend apple winter neck switch ethics";
+var mnemonic = "pulse click town guard army area mask muscle state resource glance fiscal";

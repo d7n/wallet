@@ -1,1 +1,1 @@
-var mnemonic = "rigid rice express club dwarf family foam pool during motion power anchor";
+var mnemonic = "verify december vague mixed cook lounge maximum promote gaze awesome great monitor";

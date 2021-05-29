@@ -1,1 +1,1 @@
-var mnemonic = "extra path front champion combine stand empower harvest album human wasp blind";
+var mnemonic = "juice doll soon hour toilet model book unaware arctic shadow sorry vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon company number hand device game flock wire broom loan trend tape";
+var mnemonic = "write level entry false deposit predict adult canvas smile aunt invite display";

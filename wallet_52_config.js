@@ -1,1 +1,1 @@
-var mnemonic = "bulk battle mammal jungle vehicle disagree dash cabbage essay nerve awesome observe";
+var mnemonic = "notice game nothing width harsh bleak circle prosper world spin blade blue";

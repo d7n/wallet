@@ -1,1 +1,1 @@
-var mnemonic = "bird never rebel salt style nurse vehicle garden erosion soda dice lake";
+var mnemonic = "palm rain crew quality brisk news lounge together occur vague stamp execute";

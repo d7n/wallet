@@ -1,1 +1,1 @@
-var mnemonic = "rhythm depth ozone wisdom inflict fluid legal afraid stamp usage axis win";
+var mnemonic = "dinner will juice frown trick language infant absent enroll scene sight fine";

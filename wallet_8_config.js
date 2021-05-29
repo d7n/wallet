@@ -1,1 +1,1 @@
-var mnemonic = "grid close ugly again ticket borrow fatigue frost wild liquid extend hub";
+var mnemonic = "finish syrup nothing say obey correct rifle vault lesson leader guilt credit";

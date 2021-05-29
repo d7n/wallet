@@ -1,1 +1,1 @@
-var mnemonic = "august bring voyage sand maid depend uncle crater expire account edge ice";
+var mnemonic = "often useless guard kiwi try casino then basic kangaroo resource magic hire";

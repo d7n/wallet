@@ -1,1 +1,1 @@
-var mnemonic = "valley able advance valley because receive kit guess kit work begin frozen";
+var mnemonic = "garden sudden dial gold fetch provide lens amazing clown donate warfare wine";

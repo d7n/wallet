@@ -1,1 +1,1 @@
-var mnemonic = "say hazard display high skull acid neck spray live cement pear voice";
+var mnemonic = "coffee iron slot fantasy move clog wasp canyon judge spice vintage size";

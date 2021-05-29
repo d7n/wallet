@@ -1,1 +1,1 @@
-var mnemonic = "jelly unusual mandate wood copy catch cliff swear silly pony finger idea";
+var mnemonic = "snap catch write rail raven banana salt intact cycle immune snow pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "idea call orphan hand tackle ride globe distance nose broom feel expire";
+var mnemonic = "leisure voice maid dilemma require birth toss phone seminar brown sad host";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral unique wheel saddle village garage live affair head fade neutral gadget";
+var mnemonic = "bleak entry blast switch harbor kidney parade black foil lumber sugar beach";

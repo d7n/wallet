@@ -1,1 +1,1 @@
-var mnemonic = "term essay magic reason ginger flip label make narrow power present include";
+var mnemonic = "bless critic vast scrub fence eyebrow lock hole abstract crime know letter";

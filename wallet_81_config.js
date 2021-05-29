@@ -1,1 +1,1 @@
-var mnemonic = "excess reunion together equip cruise logic salt wealth decade weather cable category";
+var mnemonic = "remind indicate warm cave disagree art during cook float ancient useless decorate";

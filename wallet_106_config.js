@@ -1,1 +1,1 @@
-var mnemonic = "battle year deal orange meadow plastic network source unfair tooth cabin lady";
+var mnemonic = "onion spot pulp later tilt below sphere trend about jump catalog page";

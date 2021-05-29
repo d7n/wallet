@@ -1,1 +1,1 @@
-var mnemonic = "walnut lock twice club ghost uniform solar scout sausage fortune super grain";
+var mnemonic = "shell desk upgrade vacuum trash person globe fix exact federal hair sustain";

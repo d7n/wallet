@@ -1,1 +1,1 @@
-var mnemonic = "push spy equal estate ethics quiz eight race tortoise iron sister air";
+var mnemonic = "horn divert guilt define moon mass million misery cool win mechanic close";

@@ -1,1 +1,1 @@
-var mnemonic = "urban identify gain secret era own shallow position father income fall key";
+var mnemonic = "grain recycle leader diet strategy fat scan toast mail inside solve acid";

@@ -1,1 +1,1 @@
-var mnemonic = "truth unusual use soup behave grape glue possible butter tuna stick symptom";
+var mnemonic = "until update foil bring program such glue destroy helmet era edge open";

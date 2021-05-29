@@ -1,1 +1,1 @@
-var mnemonic = "near wheat cost soup close human drop science judge captain fade pool";
+var mnemonic = "employ chimney client amazing forget access dune fresh below master profit casino";

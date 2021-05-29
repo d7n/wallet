@@ -1,1 +1,1 @@
-var mnemonic = "topple dinosaur pig breeze ball trash sign gift ladder relax faculty width";
+var mnemonic = "various sausage message ritual trip then conduct brand equip echo canyon absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "hour strategy answer night twist eager chuckle onion average home clay case";
+var mnemonic = "thank guess excess copy steak congress deputy blind awake find oval fee";

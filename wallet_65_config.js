@@ -1,1 +1,1 @@
-var mnemonic = "dose stage pact plug slot island cool problem advance argue round tray";
+var mnemonic = "donor energy twice puzzle rely edit spoil captain pencil uncover dream human";

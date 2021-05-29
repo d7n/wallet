@@ -1,1 +1,1 @@
-var mnemonic = "behave frozen stadium other genre soft book label turn nerve man dragon";
+var mnemonic = "common bus coffee tissue pave team invest sadness render giant blanket differ";

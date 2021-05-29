@@ -1,1 +1,1 @@
-var mnemonic = "side pen return enough industry couch flame service army apart pill van";
+var mnemonic = "shift salad blade square ramp deny sorry wage plunge rough cancel tunnel";

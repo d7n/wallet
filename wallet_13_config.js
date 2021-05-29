@@ -1,1 +1,1 @@
-var mnemonic = "level net weekend happy grant bicycle order attack way tape sell stand";
+var mnemonic = "post grass veteran puzzle income soap shell surge flame survey car accident";

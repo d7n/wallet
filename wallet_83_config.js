@@ -1,1 +1,1 @@
-var mnemonic = "review tip egg quarter scissors distance symbol begin cost crawl awkward visual";
+var mnemonic = "atom tide call legal fossil decline curtain kangaroo can elegant labor slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "payment liar air knock powder artwork stage picnic course wise bring brown";
+var mnemonic = "extend boil super example fade quiz door trip jacket train evidence clean";

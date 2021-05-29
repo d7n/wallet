@@ -1,1 +1,1 @@
-var mnemonic = "couch member hover nasty wish roof inject steak derive write settle half";
+var mnemonic = "host venture prison digital tape evolve tank nest march vast range where";

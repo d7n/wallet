@@ -1,1 +1,1 @@
-var mnemonic = "fade lobster right silent excite glass update hire present eight crawl catch";
+var mnemonic = "veteran trip door stomach churn refuse finish news praise antenna stamp toward";

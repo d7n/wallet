@@ -1,1 +1,1 @@
-var mnemonic = "library soul nothing danger before leisure donate daughter payment laugh engage sustain";
+var mnemonic = "pool unknown lend slice shrug cricket nuclear hard dumb rose chronic parent";

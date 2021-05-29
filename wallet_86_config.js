@@ -1,1 +1,1 @@
-var mnemonic = "comfort labor invest deal fabric distance tissue eager wrong drastic derive reopen";
+var mnemonic = "final tip script act click decorate guide debate chicken battle bulb amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "february pass hold monster ice achieve drink hawk credit hybrid essay sleep";
+var mnemonic = "sponsor civil wish assault breeze winter order joy base whip friend afford";

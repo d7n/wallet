@@ -1,1 +1,1 @@
-var mnemonic = "six suspect rug now owner rough truth very deal coffee gauge dinosaur";
+var mnemonic = "butter awful outside track hundred attack snack bus proud science cruel mouse";

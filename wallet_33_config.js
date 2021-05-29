@@ -1,1 +1,1 @@
-var mnemonic = "burger margin matrix erupt zone palm emotion cat hurt cheap sunny divide";
+var mnemonic = "wish heavy poverty reform detail actual code mother negative behave already barely";

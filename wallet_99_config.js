@@ -1,1 +1,1 @@
-var mnemonic = "stool trend future story chimney hole keep midnight rural panel eye creek";
+var mnemonic = "wreck street smile basket into cabbage salute inflict garment give ticket screen";

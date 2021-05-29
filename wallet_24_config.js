@@ -1,1 +1,1 @@
-var mnemonic = "climb bundle boat lesson goose canyon shine zero solution flavor assault example";
+var mnemonic = "upper sadness alien slim goose impose pig ozone gauge tomato core exhaust";

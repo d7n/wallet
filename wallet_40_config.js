@@ -1,1 +1,1 @@
-var mnemonic = "caught scorpion swear prepare inmate predict cactus defense entire ramp dress blouse";
+var mnemonic = "spin offer wool gain hidden trial surge club absent wrong develop fun";

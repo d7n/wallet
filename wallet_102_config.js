@@ -1,1 +1,1 @@
-var mnemonic = "soda hole innocent legal advice cluster cover opera word crop barrel canoe";
+var mnemonic = "school click fury depth word news victory wasp burden range donor pistol";

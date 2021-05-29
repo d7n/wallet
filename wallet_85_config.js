@@ -1,1 +1,1 @@
-var mnemonic = "upset spend visual huge unlock mirror able flock burden night crazy security";
+var mnemonic = "item bridge detail palace average diesel purse cotton party welcome slender few";

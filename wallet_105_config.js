@@ -1,1 +1,1 @@
-var mnemonic = "march eternal outside snack skirt life crisp gentle visual deer execute document";
+var mnemonic = "endless planet crumble arrive can miracle blanket ecology walk hold observe zone";

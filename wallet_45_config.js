@@ -1,1 +1,1 @@
-var mnemonic = "weekend mansion swear scissors picnic just nice sphere pause castle nice marriage";
+var mnemonic = "key ceiling enable device inhale sand mountain hole six bullet option early";

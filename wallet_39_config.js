@@ -1,1 +1,1 @@
-var mnemonic = "pottery pear camera letter inject across local congress naive resist possible left";
+var mnemonic = "wreck able clerk parade maximum carbon also crowd bacon source armed exhaust";

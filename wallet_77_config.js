@@ -1,1 +1,1 @@
-var mnemonic = "amazing unfold turn duck find impose shine token motor maple machine hen";
+var mnemonic = "immense noodle sugar breeze flight vanish error swift siege diary dilemma want";

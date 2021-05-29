@@ -1,1 +1,1 @@
-var mnemonic = "bar human seed paper waste disorder actor nut scale keen weapon vapor";
+var mnemonic = "glove off connect decide ugly eager slam poet still rigid unable charge";

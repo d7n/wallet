@@ -1,1 +1,1 @@
-var mnemonic = "able refuse stay van image ocean today aerobic slice note like awake";
+var mnemonic = "spot throw submit organ filter fame wall true trouble pave valid early";

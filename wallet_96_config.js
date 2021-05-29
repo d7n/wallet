@@ -1,1 +1,1 @@
-var mnemonic = "crane choice horror system index easy grab skill rally once also path";
+var mnemonic = "skull apology delay sand stairs dismiss tank turkey stone sport ship fame";

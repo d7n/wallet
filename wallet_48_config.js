@@ -1,1 +1,1 @@
-var mnemonic = "resist critic often price drip scheme envelope follow anchor borrow eight plate";
+var mnemonic = "behave shoot illness walnut rough tackle burger adjust coast pulse grief wage";

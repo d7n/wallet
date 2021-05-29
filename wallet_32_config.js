@@ -1,1 +1,1 @@
-var mnemonic = "anger essay exhaust soon divert animal father time capital giant frame grunt";
+var mnemonic = "trumpet various ancient build heavy obvious release radio brief elite ketchup van";

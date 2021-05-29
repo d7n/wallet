@@ -1,1 +1,1 @@
-var mnemonic = "parade pet actor amused army crumble attack random orbit once sponsor bless";
+var mnemonic = "absorb conduct isolate ramp trick photo nominee gap trophy phone ugly victory";

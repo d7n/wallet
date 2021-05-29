@@ -1,1 +1,1 @@
-var mnemonic = "also tent ship balcony sponsor submit any verify pizza kind home surprise";
+var mnemonic = "picture day trouble people edit welcome fork capable advice list inside lobster";

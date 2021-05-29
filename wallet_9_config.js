@@ -1,1 +1,1 @@
-var mnemonic = "moral suggest table image pioneer whale jar feature leopard trim crazy blossom";
+var mnemonic = "merge sea chaos decline burger school joke vapor venue impact knife angle";

@@ -1,1 +1,1 @@
-var mnemonic = "chef about enforce increase dragon hockey tonight birth deliver already craft eight";
+var mnemonic = "custom dismiss trend canal pill coconut cricket wave lizard glass afford scissors";

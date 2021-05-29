@@ -1,1 +1,1 @@
-var mnemonic = "finish filter useful raise gather vendor swallow cabin hockey dress stamp glare";
+var mnemonic = "wheat angle hollow emotion lemon ozone route alarm slam hundred seminar gesture";

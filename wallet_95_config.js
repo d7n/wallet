@@ -1,1 +1,1 @@
-var mnemonic = "electric area scheme cheese try swallow legal brush marble coffee common anchor";
+var mnemonic = "palace acid bicycle truth tunnel salute occur garment village glow simple humor";

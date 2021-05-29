@@ -1,1 +1,1 @@
-var mnemonic = "marine model parrot grace ecology divert reunion angle chalk scrap dinner quick";
+var mnemonic = "symbol tired choose dial enable manual note rifle stand measure initial away";

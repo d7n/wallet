@@ -1,1 +1,1 @@
-var mnemonic = "wheel high traffic endless shove address also layer mixture matter omit salmon";
+var mnemonic = "amount mesh iron morning occur zoo analyst few void correct search woman";

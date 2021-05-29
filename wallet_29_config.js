@@ -1,1 +1,1 @@
-var mnemonic = "organ rigid two earn whip robust wage service gauge scan resist pass";
+var mnemonic = "strike smooth hurt aerobic achieve possible maid chef toddler fall mango fan";

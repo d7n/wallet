@@ -1,1 +1,1 @@
-var mnemonic = "elder next keep bamboo island food month tribe patch angry hip depart";
+var mnemonic = "spirit regret kingdom man ready keep old above host basic stone valid";

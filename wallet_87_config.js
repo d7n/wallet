@@ -1,1 +1,1 @@
-var mnemonic = "session crumble idle impose yard begin that pottery run ordinary attitude paddle";
+var mnemonic = "soup degree physical behave hundred grid vapor orchard over cherry ride proof";

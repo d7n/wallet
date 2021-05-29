@@ -1,1 +1,1 @@
-var mnemonic = "maximum torch pluck device purity wedding spin roof boss want scene buddy";
+var mnemonic = "gown thrive sheriff audit bicycle hungry accuse trip cycle engage kit clarify";

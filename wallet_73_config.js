@@ -1,1 +1,1 @@
-var mnemonic = "seminar kingdom siege damp mind illness race front special thunder rotate physical";
+var mnemonic = "inner style pool sentence dwarf palace treat nice cage thing oval exact";

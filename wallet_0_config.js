@@ -1,1 +1,1 @@
-var mnemonic = "crush sugar false ensure leisure holiday pioneer couch sea slogan guilt search";
+var mnemonic = "sniff follow way return float vacant father planet mouse lava sail access";

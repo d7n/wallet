@@ -1,1 +1,1 @@
-var mnemonic = "pioneer also sauce eye boy false ethics unlock indicate arena kidney into";
+var mnemonic = "script credit evil ski fruit grain inject muffin odor poem empower lemon";

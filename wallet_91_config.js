@@ -1,1 +1,1 @@
-var mnemonic = "raw profit muscle laundry what armed wide question cover divorce radar sniff";
+var mnemonic = "pear cause else rent decrease possible source luggage find general siren annual";

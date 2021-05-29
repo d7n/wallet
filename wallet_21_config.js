@@ -1,1 +1,1 @@
-var mnemonic = "caught note crawl reform alpha people pair text situate panic awful hour";
+var mnemonic = "practice alley strategy borrow pool sausage account already shoot health bulb mechanic";

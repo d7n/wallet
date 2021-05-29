@@ -1,1 +1,1 @@
-var mnemonic = "about space hamster grape pond repeat flag praise gossip tattoo track lazy";
+var mnemonic = "valid parade oblige video trophy mutual build chapter dinner addict pact science";

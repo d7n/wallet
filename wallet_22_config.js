@@ -1,1 +1,1 @@
-var mnemonic = "banner reveal shadow side thrive home plunge welcome flame skirt cheap student";
+var mnemonic = "earth write indicate muscle prize actress upon report bridge album portion want";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry test job satisfy drastic thank sister execute slow anger axis blanket";
+var mnemonic = "spot nice perfect unknown inquiry sugar buffalo wine zero banana category this";

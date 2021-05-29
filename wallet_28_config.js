@@ -1,1 +1,1 @@
-var mnemonic = "artist expand guilt shock shiver possible begin shallow ranch siren firm wait";
+var mnemonic = "they curve poem save random under regular dad uniform peasant session clump";

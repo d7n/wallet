@@ -1,1 +1,1 @@
-var mnemonic = "forest enhance spice life delay blind future traffic floor rough into toilet";
+var mnemonic = "bracket candy now fit butter axis make love soccer security clump that";

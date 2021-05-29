@@ -1,1 +1,1 @@
-var mnemonic = "mail way trip cost chair unveil suit affair leader happy shield clip";
+var mnemonic = "column cradle ripple news island over certain evil bike enough frown shrug";

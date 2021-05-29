@@ -1,1 +1,1 @@
-var mnemonic = "tray rate table vehicle lunch lava split barrel reunion choice family dinosaur";
+var mnemonic = "history comic stick awkward visual betray current lonely mandate barrel define spawn";

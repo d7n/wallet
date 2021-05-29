@@ -1,1 +1,1 @@
-var mnemonic = "certain edit wrestle feed tent fault idea burden mix gun cheese solution";
+var mnemonic = "burst future police soon stereo blue inmate muscle belt robust real service";

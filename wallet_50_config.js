@@ -1,1 +1,1 @@
-var mnemonic = "parade dose erase voice pupil swim select retreat advance mango analyst robust";
+var mnemonic = "scene sock sponsor color hill clerk convince repeat distance below strong visual";

@@ -1,1 +1,1 @@
-var mnemonic = "flock chuckle there east hole brave club barrel wasp orchard under book";
+var mnemonic = "amateur before flee forget rebuild high spirit guess neglect payment lawsuit arrange";

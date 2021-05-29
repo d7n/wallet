@@ -1,1 +1,1 @@
-var mnemonic = "quantum sting general enjoy plunge asthma claw skill great circle aware crisp";
+var mnemonic = "possible neck profit dial stock interest tourist perfect diary path peasant salmon";

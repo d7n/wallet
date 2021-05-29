@@ -1,1 +1,1 @@
-var mnemonic = "grape stamp inform coffee fortune cable festival erupt clinic wrap gentle sentence";
+var mnemonic = "steak swim chest walk rebel burger fever puzzle unlock lunar frozen apart";

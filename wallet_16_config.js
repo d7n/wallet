@@ -1,1 +1,1 @@
-var mnemonic = "illegal prison defy actual cancel vehicle keen glide spawn degree crew metal";
+var mnemonic = "ask mimic dismiss lend bulk repair glance ugly wedding obvious thing twenty";
