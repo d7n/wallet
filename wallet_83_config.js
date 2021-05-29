@@ -1,1 +1,1 @@
-var mnemonic = "napkin rescue pulp harsh judge erode chat cross trigger exhibit define fuel";
+var mnemonic = "example wisdom pride quick summer live humor avoid champion blame enter rule";

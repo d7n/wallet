@@ -1,1 +1,1 @@
-var mnemonic = "sketch wise donkey guilt blanket swim mesh grief hazard cactus portion truck";
+var mnemonic = "hedgehog leader chimney silly clarify sure outside main hover dice machine evidence";

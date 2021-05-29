@@ -1,1 +1,1 @@
-var mnemonic = "turtle cage pig scan festival prefer rate moral burger push mutual apple";
+var mnemonic = "cradle bless surprise car casino tuna sure tornado vintage ski frown shrug";

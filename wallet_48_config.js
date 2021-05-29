@@ -1,1 +1,1 @@
-var mnemonic = "soccer swear patient tree river yard pass notable close average episode person";
+var mnemonic = "crouch much asset learn rug voice better trip satisfy six neutral patient";

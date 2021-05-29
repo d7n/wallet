@@ -1,1 +1,1 @@
-var mnemonic = "keen depth then clock message science sample voice bomb jungle order shuffle";
+var mnemonic = "cereal valid rocket follow strike flat wonder original bring spot scare style";

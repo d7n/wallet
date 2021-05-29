@@ -1,1 +1,1 @@
-var mnemonic = "clean blouse shoot pond coast type inspire bright million romance cute proud";
+var mnemonic = "same crash exhibit script today dutch bonus blossom keen nuclear asthma elite";

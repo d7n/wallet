@@ -1,1 +1,1 @@
-var mnemonic = "crouch client devote metal ceiling uncover voyage pave century only flock humor";
+var mnemonic = "inner siege route enemy memory hello coconut female timber kitten shop whale";

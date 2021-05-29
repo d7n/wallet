@@ -1,1 +1,1 @@
-var mnemonic = "layer swear fiscal ski immune work purpose ability twelve expire kangaroo emotion";
+var mnemonic = "captain pride intact piece wide delay toward repeat jaguar ordinary rapid safe";

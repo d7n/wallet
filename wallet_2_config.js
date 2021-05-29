@@ -1,1 +1,1 @@
-var mnemonic = "come notice legal predict unaware order test nation bulk affair immense setup";
+var mnemonic = "term canal escape scrub orbit gun maze library end rule student input";

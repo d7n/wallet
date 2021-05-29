@@ -1,1 +1,1 @@
-var mnemonic = "chicken bonus tip visa video hawk recall series few identify axis wall";
+var mnemonic = "divert muscle velvet better shuffle supreme assault space caught giant help solve";

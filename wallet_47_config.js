@@ -1,1 +1,1 @@
-var mnemonic = "rain author couple journey sound renew era security panther fee evidence skirt";
+var mnemonic = "manage poverty rely captain exit jaguar accident orbit boring capital truck size";

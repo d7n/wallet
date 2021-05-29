@@ -1,1 +1,1 @@
-var mnemonic = "run cheese crater hazard display quantum polar sock deal silver drift pepper";
+var mnemonic = "venture cute illegal aim unaware chase unknown piano artwork silly army loop";

@@ -1,1 +1,1 @@
-var mnemonic = "business you library another buzz armor salt soul desk mixture link illness";
+var mnemonic = "firm game jump junk lounge color romance embody interest receive budget cook";

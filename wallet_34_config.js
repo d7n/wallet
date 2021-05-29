@@ -1,1 +1,1 @@
-var mnemonic = "glove duty letter patch vintage veteran lunch clean shadow oil sword glare";
+var mnemonic = "proof twist destroy clerk goat interest below sniff exist address index utility";

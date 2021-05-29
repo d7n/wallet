@@ -1,1 +1,1 @@
-var mnemonic = "clown elegant equip segment impose common artist dune crime dragon miss network";
+var mnemonic = "crucial secret fossil kit airport present forum receive assume entire ticket snake";

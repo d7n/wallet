@@ -1,1 +1,1 @@
-var mnemonic = "grit stay amateur course smile region amazing until damage play luggage soccer";
+var mnemonic = "fabric pause warm vicious birth chunk robust merry spoon mobile cargo raw";

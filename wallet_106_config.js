@@ -1,1 +1,1 @@
-var mnemonic = "involve unique ring palm forest truck portion keep vendor pottery turtle elder";
+var mnemonic = "business wonder notable flight push differ film life silver spoil summer balance";

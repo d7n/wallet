@@ -1,1 +1,1 @@
-var mnemonic = "announce derive cost good edge vibrant alien brick achieve foot stool honey";
+var mnemonic = "raw earn arrow increase whip march pledge demise repeat exit rotate indoor";

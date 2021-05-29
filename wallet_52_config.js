@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit today slogan cinnamon chicken attack orchard another coin force ostrich butter";
+var mnemonic = "arrange south page stomach photo ancient patrol egg dash lion raise joke";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd any galaxy undo multiply brain power history bachelor acquire plate fun";
+var mnemonic = "sound alley code melody eight neck fly solution cover cereal hope athlete";

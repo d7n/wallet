@@ -1,1 +1,1 @@
-var mnemonic = "blur diagram soda space bike armed roast hand shift robust fix defense";
+var mnemonic = "used team car predict shrug present barely slice zone prosper exist episode";

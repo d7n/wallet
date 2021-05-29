@@ -1,1 +1,1 @@
-var mnemonic = "maze moment major glance palace where connect bus kind analyst milk unknown";
+var mnemonic = "sauce sorry mansion despair world strong length alcohol mandate pipe image teach";

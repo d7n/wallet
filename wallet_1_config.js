@@ -1,1 +1,1 @@
-var mnemonic = "turtle swim trophy toast mistake label mansion good evoke office impulse vapor";
+var mnemonic = "file edge they portion awkward moon range snow cup cake latin stick";

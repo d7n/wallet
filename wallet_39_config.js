@@ -1,1 +1,1 @@
-var mnemonic = "jump asthma casual ginger eye zebra snake sketch public artefact exotic ramp";
+var mnemonic = "shuffle coffee cable twenty acoustic able priority spring include route romance photo";

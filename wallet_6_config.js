@@ -1,1 +1,1 @@
-var mnemonic = "ladder segment finger exhibit settle result gaze ignore common salt humor eternal";
+var mnemonic = "treat guess brave dynamic shed cart toe wasp fee amateur stage share";

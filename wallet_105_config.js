@@ -1,1 +1,1 @@
-var mnemonic = "senior pear crawl ten pact toast company holiday hurry merit kitchen harvest";
+var mnemonic = "raven story swim wait salon weapon almost coral bulk reunion carpet fever";

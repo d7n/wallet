@@ -1,1 +1,1 @@
-var mnemonic = "auction mix lounge meadow dutch mutual noise net fat net hip adapt";
+var mnemonic = "eternal often suggest custom want bundle exact oak upgrade away pluck symptom";

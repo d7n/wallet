@@ -1,1 +1,1 @@
-var mnemonic = "play grape lawn minute head regret sniff giant acoustic size grid ankle";
+var mnemonic = "law asset gravity obvious bind mail trigger clog tired daughter melt accuse";

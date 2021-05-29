@@ -1,1 +1,1 @@
-var mnemonic = "quarter exact matrix start train country agree force gentle post danger tobacco";
+var mnemonic = "happy employ eyebrow sing wish boost security dentist harvest minor spike neck";

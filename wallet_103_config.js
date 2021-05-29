@@ -1,1 +1,1 @@
-var mnemonic = "fan universe wolf exclude rate card tenant clever tomorrow answer glare vintage";
+var mnemonic = "dizzy error differ vocal liberty pretty solution smooth wear boy city gift";

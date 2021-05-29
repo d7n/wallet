@@ -1,1 +1,1 @@
-var mnemonic = "casino concert concert game display pilot bike point ten sound lunch play";
+var mnemonic = "soap ghost top else green still smoke number spoil know jacket mixture";

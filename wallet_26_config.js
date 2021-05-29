@@ -1,1 +1,1 @@
-var mnemonic = "car ignore bunker quiz hobby opera humble budget foot mind keen define";
+var mnemonic = "brother gentle legend punch cry zone size quality cherry attack deer adjust";

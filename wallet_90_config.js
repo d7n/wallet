@@ -1,1 +1,1 @@
-var mnemonic = "vapor chat sunset salad pretty fantasy force steak devote giant rude sheriff";
+var mnemonic = "goose wolf because answer sweet library grab snap youth detect earth grocery";

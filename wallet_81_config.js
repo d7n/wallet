@@ -1,1 +1,1 @@
-var mnemonic = "solar increase rigid water album paper glide grass burger satisfy build split";
+var mnemonic = "more fabric truly smoke clap labor frame boil toilet kind exit latin";

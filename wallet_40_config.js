@@ -1,1 +1,1 @@
-var mnemonic = "antenna arm ready you vivid picture miracle february discover install crystal mosquito";
+var mnemonic = "youth check identify exhaust dwarf say second globe record loyal iron pattern";

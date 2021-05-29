@@ -1,1 +1,1 @@
-var mnemonic = "various clog mammal agree pitch fix magic deal fury ball clown crisp";
+var mnemonic = "speed code wisdom chest abstract wedding enough pony movie category chalk mistake";

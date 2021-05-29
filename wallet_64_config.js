@@ -1,1 +1,1 @@
-var mnemonic = "bar swear vault model top outer stadium pool token story wise decade";
+var mnemonic = "advance visa result patrol very oval capital rack laugh more knee mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "timber coyote original hard celery define minute minute onion aerobic abstract flat";
+var mnemonic = "chef jealous stomach settle clutch october fat alone ski citizen gospel salute";

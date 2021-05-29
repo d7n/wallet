@@ -1,1 +1,1 @@
-var mnemonic = "wrong saddle sponsor hover section donkey boss liar recycle fragile roast rotate";
+var mnemonic = "rude welcome doll mean horn humble glide swap suffer credit magnet syrup";

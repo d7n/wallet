@@ -1,1 +1,1 @@
-var mnemonic = "cherry height rural path festival valve junk plug alpha melt eight spawn";
+var mnemonic = "cruise enroll hawk bulb jacket spike stay logic negative clap risk film";

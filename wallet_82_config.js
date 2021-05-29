@@ -1,1 +1,1 @@
-var mnemonic = "draft six derive purse truth shine crew behind renew dignity whisper office";
+var mnemonic = "mesh orient hurt stem object hurdle vault misery coffee bulk crumble electric";

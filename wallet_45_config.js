@@ -1,1 +1,1 @@
-var mnemonic = "often better wink dignity rose hen hood motion pipe cash horse coast";
+var mnemonic = "gap able umbrella fit wet city session trumpet empower hub that run";

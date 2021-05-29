@@ -1,1 +1,1 @@
-var mnemonic = "unit height coyote sad kind simple brisk dune dial van domain board";
+var mnemonic = "bomb eight pulse sport addict cancel harvest toe marble engine bright dignity";

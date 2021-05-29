@@ -1,1 +1,1 @@
-var mnemonic = "walnut february sustain rebuild budget fall exact mother parent kiss predict laundry";
+var mnemonic = "old asthma reject surprise verb few network crash axis outdoor call report";

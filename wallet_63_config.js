@@ -1,1 +1,1 @@
-var mnemonic = "below curtain arctic fringe case badge vessel brother budget insect twice barely";
+var mnemonic = "guide nasty raise protect snack blur middle sight aspect husband blouse cushion";

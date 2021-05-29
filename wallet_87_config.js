@@ -1,1 +1,1 @@
-var mnemonic = "jazz young remove laundry title blur awful cross glad message social cigar";
+var mnemonic = "social blood swim abuse outdoor gospel elephant essay eye ethics grab bus";

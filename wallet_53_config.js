@@ -1,1 +1,1 @@
-var mnemonic = "festival broccoli myth visa liar swarm shine swarm satisfy proof cradle crucial";
+var mnemonic = "brass machine fitness success depend fiscal comfort old keep resemble slow barely";

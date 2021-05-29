@@ -1,1 +1,1 @@
-var mnemonic = "brick pull tide office tank spring exhaust floor basic nest congress such";
+var mnemonic = "hurt lobster notable blur face used address ivory super nasty another pause";

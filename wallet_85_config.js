@@ -1,1 +1,1 @@
-var mnemonic = "wait design rigid crater habit loud lyrics security desk shallow warfare step";
+var mnemonic = "intact sentence parade gift organ guess ski simple license response actor chef";

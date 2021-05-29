@@ -1,1 +1,1 @@
-var mnemonic = "squeeze copper escape erosion surge metal payment brief prize top skull stumble";
+var mnemonic = "equip food swamp reunion quantum despair clerk welcome capable scorpion cabbage deliver";

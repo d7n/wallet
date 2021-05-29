@@ -1,1 +1,1 @@
-var mnemonic = "divide project rival rural jump fun siren eager brass royal floor ticket";
+var mnemonic = "helmet elbow inquiry april thank income lyrics decade buzz art kangaroo north";

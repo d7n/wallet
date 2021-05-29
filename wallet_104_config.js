@@ -1,1 +1,1 @@
-var mnemonic = "leopard aim evidence census popular echo trumpet mercy circle holiday burst popular";
+var mnemonic = "shrug flavor orient staff park divorce parade affair artist amused critic quality";

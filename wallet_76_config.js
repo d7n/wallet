@@ -1,1 +1,1 @@
-var mnemonic = "ridge toe eternal essence wagon treat water exist release throw dutch fault";
+var mnemonic = "gym super picture sure return usage volcano soul minute rescue better pet";

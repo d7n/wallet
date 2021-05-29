@@ -1,1 +1,1 @@
-var mnemonic = "dune easy kitten organ citizen drift grass wish host you logic antique";
+var mnemonic = "indicate metal permit fluid demise kind wash hat warrior dog prefer shaft";

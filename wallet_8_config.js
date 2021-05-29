@@ -1,1 +1,1 @@
-var mnemonic = "hover effort clip scrub ill grocery essay wrestle barely tree guilt maximum";
+var mnemonic = "couch funny pudding federal length humor burger reopen accident wheat entire ramp";

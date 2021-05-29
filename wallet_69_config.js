@@ -1,1 +1,1 @@
-var mnemonic = "birth wheel artwork pet funny athlete eagle beyond police fantasy fluid zone";
+var mnemonic = "judge token minor woman such outdoor whip disease between jealous accident frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "congress spray glue custom pitch flat bachelor cake thought charge panel tooth";
+var mnemonic = "dad luggage bacon rather boat fade prevent they slow proud crash list";

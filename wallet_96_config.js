@@ -1,1 +1,1 @@
-var mnemonic = "small tennis mammal club cushion chronic edge middle warrior silly example logic";
+var mnemonic = "company chronic husband dash bar canoe advice clinic open hill hawk afford";

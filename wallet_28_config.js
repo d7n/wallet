@@ -1,1 +1,1 @@
-var mnemonic = "certain dress runway cannon clarify fossil oppose proof chimney almost symbol magic";
+var mnemonic = "pond echo fitness often rack insane sad forest strong foot sight brick";

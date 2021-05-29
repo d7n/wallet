@@ -1,1 +1,1 @@
-var mnemonic = "bacon bulk small allow adjust pass ethics hero other always spin bulk";
+var mnemonic = "silly sword rose math wrong begin boring degree media sight tobacco win";

@@ -1,1 +1,1 @@
-var mnemonic = "romance afford hint suggest grief tilt sauce wild radio episode afford miracle";
+var mnemonic = "senior return royal desert seek around repeat process bachelor insect wagon mushroom";

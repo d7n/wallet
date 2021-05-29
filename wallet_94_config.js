@@ -1,1 +1,1 @@
-var mnemonic = "beach wine orbit gallery vacant muffin obtain person farm obscure potato erosion";
+var mnemonic = "solve benefit zero suffer border announce riot ten song jump drama people";

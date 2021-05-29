@@ -1,1 +1,1 @@
-var mnemonic = "gun illegal zebra ghost reveal brain coin surprise rib rich kiwi permit";
+var mnemonic = "ugly rebel loyal absorb tooth extend tired grace pepper first area design";

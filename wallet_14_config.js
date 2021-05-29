@@ -1,1 +1,1 @@
-var mnemonic = "illegal grape wear correct check sorry auction dismiss category angle lava attend";
+var mnemonic = "near way badge entire citizen object shrimp salute section dolphin security soda";

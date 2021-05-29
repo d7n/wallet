@@ -1,1 +1,1 @@
-var mnemonic = "you creek blush sea nasty job emotion assault ensure north deposit decade";
+var mnemonic = "access rhythm swallow remain catch make autumn beyond affair giant dwarf match";

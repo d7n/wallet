@@ -1,1 +1,1 @@
-var mnemonic = "market master toy humble whisper kangaroo across jar busy clever sort bunker";
+var mnemonic = "cram ripple rigid force siege unfold narrow clump yellow roof skirt evidence";

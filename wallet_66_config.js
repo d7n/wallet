@@ -1,1 +1,1 @@
-var mnemonic = "limb suggest harsh plunge reopen mule armed install spoon mad winter north";
+var mnemonic = "arch atom power yard dolphin banana guess push document gift antique sell";

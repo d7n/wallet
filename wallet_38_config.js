@@ -1,1 +1,1 @@
-var mnemonic = "chapter type high profit friend profit movie pull shiver idle panda change";
+var mnemonic = "tape cost push amateur learn section angle fiber man ginger federal melt";

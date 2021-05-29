@@ -1,1 +1,1 @@
-var mnemonic = "thank stomach mushroom dilemma confirm believe vendor escape congress property violin oak";
+var mnemonic = "tornado patch honey wife patient venue skin transfer under future drill feed";

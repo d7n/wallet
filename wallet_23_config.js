@@ -1,1 +1,1 @@
-var mnemonic = "fury century during three economy wise junior lucky math impulse warm hidden";
+var mnemonic = "supreme before kangaroo glance annual clerk diary know nurse slogan sauce master";

@@ -1,1 +1,1 @@
-var mnemonic = "depart size honey license genius purpose coach surprise exist blouse select section";
+var mnemonic = "cake cycle shield protect year float another treat half rural nurse ridge";

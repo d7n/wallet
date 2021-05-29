@@ -1,1 +1,1 @@
-var mnemonic = "surprise cupboard say lobster diary bomb dentist song busy twin elevator helmet";
+var mnemonic = "cave fee often salon lecture ugly timber ski thought horror destroy steak";

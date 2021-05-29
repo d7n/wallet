@@ -1,1 +1,1 @@
-var mnemonic = "identify burger business nominee saddle sustain resist donate carpet remember jaguar debate";
+var mnemonic = "either lawsuit modify rent arm tooth corn demand act improve fossil notable";

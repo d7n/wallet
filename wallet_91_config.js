@@ -1,1 +1,1 @@
-var mnemonic = "valve heart captain volume crystal chat pilot pipe crane nerve call mouse";
+var mnemonic = "grass depart surprise rapid flash cabin giant carpet dilemma lucky purchase crisp";

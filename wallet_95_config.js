@@ -1,1 +1,1 @@
-var mnemonic = "predict clock music enjoy endorse empower rely ginger blame exotic pretty view";
+var mnemonic = "flash tired shoulder craft harbor velvet symptom fuel increase tree flush soup";

@@ -1,1 +1,1 @@
-var mnemonic = "assault worth code library heavy sibling onion mansion kitchen stairs way cover";
+var mnemonic = "reveal nose borrow clarify edit garbage tissue maple position army lawn apart";

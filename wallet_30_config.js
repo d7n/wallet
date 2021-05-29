@@ -1,1 +1,1 @@
-var mnemonic = "episode balcony vessel ability chef either focus hole dinner limit stay cattle";
+var mnemonic = "joy vital trap cinnamon find style result obscure price property nuclear kite";

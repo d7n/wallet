@@ -1,1 +1,1 @@
-var mnemonic = "carbon blush ginger setup space grant radio mansion fortune embody quiz rug";
+var mnemonic = "ship plastic two bachelor soup spray hold mesh peanut muffin cement gospel";

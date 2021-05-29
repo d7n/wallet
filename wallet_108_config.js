@@ -1,1 +1,1 @@
-var mnemonic = "walnut federal top hungry output cricket false giant metal stay viable leisure";
+var mnemonic = "mixed riot toe cat amazing physical budget agent bundle upgrade acquire garage";

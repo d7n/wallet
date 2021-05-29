@@ -1,1 +1,1 @@
-var mnemonic = "smart pupil private about confirm crawl cinnamon affair energy sponsor trend exhibit";
+var mnemonic = "top sound stay horror detect coconut home chimney reject oblige correct sound";

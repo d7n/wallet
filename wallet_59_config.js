@@ -1,1 +1,1 @@
-var mnemonic = "major satoshi wife sudden inhale relax pretty rotate trophy stock grit future";
+var mnemonic = "churn atom valve hollow travel exchange screen cube slam palm slice already";

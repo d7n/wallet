@@ -1,1 +1,1 @@
-var mnemonic = "rack horn tomato beauty pluck insect tenant rhythm firm hockey fish detail";
+var mnemonic = "enact kidney problem frost essay trumpet tornado cradle illness furnace forget fruit";

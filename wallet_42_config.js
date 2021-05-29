@@ -1,1 +1,1 @@
-var mnemonic = "wrestle only false run notice sea caught easily box shop baby wire";
+var mnemonic = "wave danger body female climb chat duck found educate table drive inject";

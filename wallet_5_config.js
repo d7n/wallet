@@ -1,1 +1,1 @@
-var mnemonic = "reduce sword that begin marriage urban twelve galaxy little era drink jump";
+var mnemonic = "column drama twenty despair devote market ranch hotel will avocado awake reward";

@@ -1,1 +1,1 @@
-var mnemonic = "together step acquire learn strategy remember screen slot report tortoise blue fuel";
+var mnemonic = "unit accident ski coin essence admit paper device possible input ceiling cement";

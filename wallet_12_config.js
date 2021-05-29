@@ -1,1 +1,1 @@
-var mnemonic = "vital guess void pony draft heavy find cruise produce sword push slender";
+var mnemonic = "one ticket narrow chunk piece hollow mobile carry curtain idea circle pony";

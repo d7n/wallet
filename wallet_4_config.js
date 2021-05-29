@@ -1,1 +1,1 @@
-var mnemonic = "vacuum captain demand cricket group crowd object drink beef absent twenty cost";
+var mnemonic = "book urban humor party cricket steel ancient coil lion zoo easy grace";

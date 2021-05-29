@@ -1,1 +1,1 @@
-var mnemonic = "correct believe melt fiction glide veteran fury upon busy say pink source";
+var mnemonic = "million brass artefact border thrive jewel remind horse merge swamp record glimpse";

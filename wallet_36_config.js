@@ -1,1 +1,1 @@
-var mnemonic = "village law alien govern skill blind rigid govern trend smooth fatigue snake";
+var mnemonic = "argue praise matrix hospital enough promote ginger tuna input dumb just shop";

@@ -1,1 +1,1 @@
-var mnemonic = "slide glimpse present salmon wolf heavy finger scan lamp wing ship omit";
+var mnemonic = "crouch cloth behave unaware child slot float attack helmet churn isolate fringe";

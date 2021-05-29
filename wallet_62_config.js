@@ -1,1 +1,1 @@
-var mnemonic = "eight again drill museum day collect victory walk cabin result morning junior";
+var mnemonic = "million sign order peanut rookie inside solid element armed judge cream tank";
