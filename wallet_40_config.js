@@ -1,1 +1,1 @@
-var mnemonic = "soup smile depend cross ski since trade flush cherry mobile alert census";
+var mnemonic = "street mail stay envelope address wild used emotion sniff lens cross harsh";

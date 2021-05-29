@@ -1,1 +1,1 @@
-var mnemonic = "drill ensure gold love yard message coil carbon reduce real apart horn";
+var mnemonic = "duck end label chapter lake photo drift absorb art then sleep end";

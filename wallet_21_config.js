@@ -1,1 +1,1 @@
-var mnemonic = "absurd family decrease elegant cry few swamp boat amount angry lens border";
+var mnemonic = "globe chimney arrow quiz session leader crisp error skate solar business allow";

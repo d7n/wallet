@@ -1,1 +1,1 @@
-var mnemonic = "sting enable patrol roof found coffee warrior ladder express risk involve woman";
+var mnemonic = "water organ draw cotton glory memory barrel history group initial side oil";

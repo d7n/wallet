@@ -1,1 +1,1 @@
-var mnemonic = "answer picture result dog possible marble little protect uncover about tray sense";
+var mnemonic = "deal pet ostrich update bus three truth scrap sure clean inmate struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic sock master offer shy entire all impact tired final tragic search";
+var mnemonic = "age review cheap obey viable alley giraffe mesh chair shy addict sample";

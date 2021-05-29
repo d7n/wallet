@@ -1,1 +1,1 @@
-var mnemonic = "merge better glide wink holiday summer luggage retire minimum resemble proof supply";
+var mnemonic = "traffic seminar decline wealth that middle shove rookie spell endorse scout mountain";

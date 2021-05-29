@@ -1,1 +1,1 @@
-var mnemonic = "crack naive comic like upset element stomach crawl love act minimum price";
+var mnemonic = "session index dust acoustic work beach lawn mean ignore cake twenty sibling";

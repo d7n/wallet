@@ -1,1 +1,1 @@
-var mnemonic = "urban ball mouse mixture near gaze hedgehog goat forward abuse push because";
+var mnemonic = "vacuum hammer foam toss pistol cousin uncover vocal alter reject minute edit";

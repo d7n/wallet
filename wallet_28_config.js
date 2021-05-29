@@ -1,1 +1,1 @@
-var mnemonic = "genius blur panda glimpse urge chapter wrist segment hungry ticket glow sun";
+var mnemonic = "refuse cost manual hotel use fiction kit impose maple gospel shell phone";

@@ -1,1 +1,1 @@
-var mnemonic = "myth eager bracket claim cannon prevent hub need south boss young famous";
+var mnemonic = "camera park unfold always trigger odor illegal expect imitate series evoke ghost";

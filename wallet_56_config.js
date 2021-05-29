@@ -1,1 +1,1 @@
-var mnemonic = "celery crumble swarm legend notice upgrade profit top shock cloth electric riot";
+var mnemonic = "window punch awful base riot wing project abstract become unique unfold patch";

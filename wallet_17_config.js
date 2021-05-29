@@ -1,1 +1,1 @@
-var mnemonic = "million kingdom scrap win unaware harvest foster host hockey pottery critic cruel";
+var mnemonic = "grow boat swarm reward people off onion december shield acquire stool hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "word prison spell bonus view chef initial bulb device gift circle mask";
+var mnemonic = "desk smoke input east kitten object brush color blood fiction mention cargo";

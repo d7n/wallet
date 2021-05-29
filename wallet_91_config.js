@@ -1,1 +1,1 @@
-var mnemonic = "hard scheme same crash lens daughter weapon capable glad blush extra pen";
+var mnemonic = "engage awkward grow filter have flag icon group secret track recipe safe";

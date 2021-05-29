@@ -1,1 +1,1 @@
-var mnemonic = "vacant half ginger obscure science duty action vessel aware believe dance vague";
+var mnemonic = "floor divorce air hour pipe jelly story update since speak excite deliver";

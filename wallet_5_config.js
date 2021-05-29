@@ -1,1 +1,1 @@
-var mnemonic = "sibling usage goddess portion arrest cook runway peasant vault ribbon kangaroo wide";
+var mnemonic = "unique need police turtle atom marine omit short ready youth liquid ranch";

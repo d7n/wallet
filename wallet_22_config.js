@@ -1,1 +1,1 @@
-var mnemonic = "path trophy couple arm nest swarm own glory nothing digital section model";
+var mnemonic = "traffic globe life lens upper bubble argue laugh arrest analyst adapt library";

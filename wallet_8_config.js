@@ -1,1 +1,1 @@
-var mnemonic = "learn warfare robot post angle afraid right enter athlete balance bitter aspect";
+var mnemonic = "rug confirm quiz century mercy suit pyramid calm ship repeat audit chalk";

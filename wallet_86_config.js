@@ -1,1 +1,1 @@
-var mnemonic = "search belt bicycle orchard stick element gloom soap enjoy false chest position";
+var mnemonic = "figure intact order bulb myself afford infant table rice virus bounce often";

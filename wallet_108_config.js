@@ -1,1 +1,1 @@
-var mnemonic = "album roast space ski wear ready visit voyage polar obvious satisfy pulp";
+var mnemonic = "couple palace element work survey scene repair caught tourist link guide genuine";

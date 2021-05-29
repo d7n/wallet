@@ -1,1 +1,1 @@
-var mnemonic = "celery disagree seat eternal doctor multiply tomorrow slow hole screen crane inner";
+var mnemonic = "barely lift dinosaur since twin have cotton cradle stadium genius today coffee";

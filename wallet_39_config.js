@@ -1,1 +1,1 @@
-var mnemonic = "attack genuine wife stove base glow puppy fly history devote letter walk";
+var mnemonic = "home term divorce slice vacant decade harsh that broken spawn truth snake";

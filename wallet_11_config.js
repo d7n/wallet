@@ -1,1 +1,1 @@
-var mnemonic = "seat beyond safe south bullet blossom critic outside safe sell aunt sign";
+var mnemonic = "bounce exclude service inherit ethics lesson impose ritual latin sunny expire weird";

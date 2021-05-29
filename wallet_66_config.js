@@ -1,1 +1,1 @@
-var mnemonic = "eager today text pave rifle almost error soul cake tube south lonely";
+var mnemonic = "deposit divide safe media spawn frame wolf hotel table major crazy ride";

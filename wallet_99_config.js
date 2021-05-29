@@ -1,1 +1,1 @@
-var mnemonic = "use range require kitten crucial bike exact vivid betray fabric property giant";
+var mnemonic = "treat grid modify wet mean cycle hand toast day damp twist worry";

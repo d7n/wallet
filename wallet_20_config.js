@@ -1,1 +1,1 @@
-var mnemonic = "island merge forum nice example document merry that online reopen inner emotion";
+var mnemonic = "digital head eyebrow transfer cook help juice adapt primary mean tag crater";

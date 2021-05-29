@@ -1,1 +1,1 @@
-var mnemonic = "alcohol icon puzzle glad poet cradle menu practice guide cram gallery thumb";
+var mnemonic = "cluster draw funny invite business side luggage web hungry lamp pumpkin novel";

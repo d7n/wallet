@@ -1,1 +1,1 @@
-var mnemonic = "cushion defy extend bird cheap gaze area sport topple vague cloth tackle";
+var mnemonic = "cute below welcome arrange web favorite autumn congress warrior fit faith scatter";

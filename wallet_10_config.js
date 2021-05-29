@@ -1,1 +1,1 @@
-var mnemonic = "matter direct heart garbage seek tank step prefer gaze fuel picture mandate";
+var mnemonic = "interest pull promote medal promote hub solution increase bind raven inhale glare";

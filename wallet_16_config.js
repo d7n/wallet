@@ -1,1 +1,1 @@
-var mnemonic = "echo blade route claw oil flower media topple august raise hub symbol";
+var mnemonic = "dirt traffic city stool access agree school own supply dish scatter laundry";

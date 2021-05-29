@@ -1,1 +1,1 @@
-var mnemonic = "match valley version rich bulk shoot accuse extra right express glass arctic";
+var mnemonic = "orange rain cook sleep liberty denial crop remember sense inquiry amateur stage";

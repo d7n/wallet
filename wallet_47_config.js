@@ -1,1 +1,1 @@
-var mnemonic = "wish aunt mimic salon pear issue vibrant pair sample blanket bundle exhibit";
+var mnemonic = "dice spread blue glare enforce eight cake elder enhance diamond cute transfer";

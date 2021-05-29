@@ -1,1 +1,1 @@
-var mnemonic = "grow spirit demand horn page subway smart symptom bleak junk focus hole";
+var mnemonic = "buddy before chimney please onion move mean first now poverty endorse orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish fine picnic buddy gas marriage fun release fashion useful decide pencil";
+var mnemonic = "when rather actress guitar warm april castle blue despair purity casino apple";

@@ -1,1 +1,1 @@
-var mnemonic = "family grain dinner mass memory garbage art dynamic coffee gain kid garage";
+var mnemonic = "question sting lucky coin garbage organ duck vote tool math invest raw";

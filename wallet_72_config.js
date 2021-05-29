@@ -1,1 +1,1 @@
-var mnemonic = "laptop emotion glass wasp sheriff general mystery tiny spin enable length jungle";
+var mnemonic = "shrimp spot age fashion depart cram cream honey escape assault punch wagon";

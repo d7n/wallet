@@ -1,1 +1,1 @@
-var mnemonic = "useful lawsuit trend aerobic apart benefit seek empty vanish luggage olive salon";
+var mnemonic = "clock gentle hill person mirror liberty guilt exit injury volcano pull tribe";

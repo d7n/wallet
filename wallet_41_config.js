@@ -1,1 +1,1 @@
-var mnemonic = "hole owner goose family gas light radar slim brave view seminar library";
+var mnemonic = "rescue proud exotic habit trust raise plug mandate saddle stem physical top";

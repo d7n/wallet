@@ -1,1 +1,1 @@
-var mnemonic = "any exercise tide armed shift meadow before image snake matrix glass energy";
+var mnemonic = "lecture tube actress unknown ahead allow clown salt honey this payment collect";

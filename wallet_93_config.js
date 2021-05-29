@@ -1,1 +1,1 @@
-var mnemonic = "obtain note similar when pelican math mean dragon long awful document ketchup";
+var mnemonic = "bachelor trade spring barrel expand music people antenna situate dignity aisle salad";

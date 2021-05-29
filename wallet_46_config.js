@@ -1,1 +1,1 @@
-var mnemonic = "limit warm kind news harsh dress exile nasty discover opinion clump bulb";
+var mnemonic = "century onion share toilet scatter voice energy medal gun magnet setup now";

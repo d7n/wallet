@@ -1,1 +1,1 @@
-var mnemonic = "anger screen sustain elephant scrub pair embrace suit slim warrior victory donkey";
+var mnemonic = "will neglect link stomach sphere remain twelve rose account useful laptop choice";

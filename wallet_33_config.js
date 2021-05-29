@@ -1,1 +1,1 @@
-var mnemonic = "furnace capable hockey clown team box item cradle outside novel intact swing";
+var mnemonic = "cute net volcano fabric flip lawn excess gain bag river feature nut";

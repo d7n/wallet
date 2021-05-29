@@ -1,1 +1,1 @@
-var mnemonic = "news rural gas core beauty couple diet invest keen seven destroy high";
+var mnemonic = "favorite prefer indicate topple list arrest kitchen skirt sun ozone rival route";

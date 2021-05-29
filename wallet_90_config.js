@@ -1,1 +1,1 @@
-var mnemonic = "second addict legend birth tube main welcome toy clump intact patient accident";
+var mnemonic = "turkey aspect oval problem minimum farm hedgehog point woman october cinnamon scheme";

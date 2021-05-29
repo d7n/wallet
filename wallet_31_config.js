@@ -1,1 +1,1 @@
-var mnemonic = "double abstract slim rabbit bicycle naive sniff venture robust require ritual robust";
+var mnemonic = "plug blush equip exotic bean stadium limit kidney quality rotate crane bacon";

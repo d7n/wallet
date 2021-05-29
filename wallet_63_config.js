@@ -1,1 +1,1 @@
-var mnemonic = "sock ship bronze lumber pave grant memory deposit lucky earth endless speak";
+var mnemonic = "fee state thought toilet mom ranch trigger consider couch bread fox alarm";

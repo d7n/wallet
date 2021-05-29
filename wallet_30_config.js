@@ -1,1 +1,1 @@
-var mnemonic = "liar wink life behind glass recycle dynamic notice absurd winner merge toss";
+var mnemonic = "hire today girl fade eager device top extend stable panda prevent cereal";

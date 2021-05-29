@@ -1,1 +1,1 @@
-var mnemonic = "mushroom napkin boost cradle require athlete race envelope donkey list skill prepare";
+var mnemonic = "gift cool rather coach mechanic hair case original fiction model oxygen solution";

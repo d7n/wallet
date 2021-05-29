@@ -1,1 +1,1 @@
-var mnemonic = "announce glow ribbon draw gold submit employ sniff add catalog cloth cram";
+var mnemonic = "wait popular person control account hill diary yellow security mass bean impact";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone lyrics detect diesel nurse timber pumpkin harbor black cry wrestle sight";
+var mnemonic = "click hour fly vessel flash easily hurry social mystery raccoon behave view";

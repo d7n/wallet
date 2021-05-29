@@ -1,1 +1,1 @@
-var mnemonic = "fix present round weapon cute spin parade onion pilot foot miracle town";
+var mnemonic = "six dizzy trim theme enlist pig satoshi common ankle render tip kitchen";

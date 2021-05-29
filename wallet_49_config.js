@@ -1,1 +1,1 @@
-var mnemonic = "cart evolve zero type wood globe screen horror toy universe wood lemon";
+var mnemonic = "power fine kingdom name peanut evil world learn fade dizzy manual label";

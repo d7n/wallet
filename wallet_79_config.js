@@ -1,1 +1,1 @@
-var mnemonic = "lend shell child sentence rule this grain crowd steel amateur practice tongue";
+var mnemonic = "struggle one regret yard inside youth safe panel force replace elder toy";

@@ -1,1 +1,1 @@
-var mnemonic = "height gossip trend fish render pill uniform tragic base fence toast shallow";
+var mnemonic = "park soft novel elite talent shaft bench feel zoo grunt crush blue";

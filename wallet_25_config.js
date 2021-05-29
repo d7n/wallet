@@ -1,1 +1,1 @@
-var mnemonic = "skin sleep caught road enjoy present heavy radar depth warrior private shove";
+var mnemonic = "muscle coyote few shield round caught receive rabbit fuel pistol pave odor";

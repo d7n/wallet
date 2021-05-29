@@ -1,1 +1,1 @@
-var mnemonic = "window company sell alley clever business riot jaguar license stamp fruit marriage";
+var mnemonic = "doctor orchard law prize tired fossil caution swap maid blood clarify bundle";

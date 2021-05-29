@@ -1,1 +1,1 @@
-var mnemonic = "genuine oppose smart robot clinic find suit wheat impulse float nice split";
+var mnemonic = "search rhythm excess grape odor super topic table arm boil discover tornado";

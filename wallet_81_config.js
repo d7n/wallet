@@ -1,1 +1,1 @@
-var mnemonic = "own august toward april door then frozen funny puzzle basket oblige arena";
+var mnemonic = "organ truck multiply type banner beyond citizen suspect indoor reopen garment candy";

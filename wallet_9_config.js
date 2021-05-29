@@ -1,1 +1,1 @@
-var mnemonic = "drink fatigue south enact humble north wait absorb tag hill rather wheel";
+var mnemonic = "public exist aim celery account novel modify month foam average jump exchange";

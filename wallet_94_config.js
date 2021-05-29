@@ -1,1 +1,1 @@
-var mnemonic = "soccer auction cover view tuna game group junk fun certain table artefact";
+var mnemonic = "blouse rate dynamic chicken forest gentle bind gift guitar write fish glow";

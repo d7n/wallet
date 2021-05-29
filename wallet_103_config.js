@@ -1,1 +1,1 @@
-var mnemonic = "host cushion visual alarm roast arena source that twenty vacant aware alter";
+var mnemonic = "interest pride judge permit note garden gaze giggle collect lizard skirt title";

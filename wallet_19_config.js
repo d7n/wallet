@@ -1,1 +1,1 @@
-var mnemonic = "shoe pony pull lunar syrup web glory stomach pole diesel else hundred";
+var mnemonic = "agent glimpse chase young under company diamond sad axis glad acquire mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid raise blur buzz isolate direct urge proud ankle hover visa coil";
+var mnemonic = "glow escape obvious quarter repair wine thrive joke like clay tribe repair";

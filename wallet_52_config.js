@@ -1,1 +1,1 @@
-var mnemonic = "release enter nut oak any gallery brief cactus profit story comic equip";
+var mnemonic = "engine possible ignore general hint search token false advance luxury pen north";

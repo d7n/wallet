@@ -1,1 +1,1 @@
-var mnemonic = "multiply exit benefit arch shield agree wide patrol post arch silent scale";
+var mnemonic = "torch mixture tail stage grow reopen guard clump wild hobby gift derive";

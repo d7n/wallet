@@ -1,1 +1,1 @@
-var mnemonic = "pony cereal twin gasp under foil honey limb keep wood runway major";
+var mnemonic = "term knock advice trick model pact success canoe alpha raccoon steak rack";

@@ -1,1 +1,1 @@
-var mnemonic = "clock letter pitch fetch explain extra amazing poverty cycle innocent yellow symbol";
+var mnemonic = "much define alter autumn stadium feed lemon cargo lawn come section stem";

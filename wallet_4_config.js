@@ -1,1 +1,1 @@
-var mnemonic = "deputy sort fatigue moral mesh claw cereal update panic chimney dwarf crime";
+var mnemonic = "ridge ramp only twin damp alone stove return session scout uphold grain";

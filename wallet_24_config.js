@@ -1,1 +1,1 @@
-var mnemonic = "anger aspect top already rhythm limit fork social entry era merge purchase";
+var mnemonic = "spoon flag island club between eager rich broccoli steak eagle immune high";

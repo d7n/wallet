@@ -1,1 +1,1 @@
-var mnemonic = "space aunt film canyon wrist chimney address frequent impact culture tissue canoe";
+var mnemonic = "fire parade thrive know very retreat bind strong alone arch glance venue";

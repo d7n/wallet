@@ -1,1 +1,1 @@
-var mnemonic = "steak trust that black first cereal climb rough armor web used remind";
+var mnemonic = "gold twin dumb monster such expose venture creek shallow enlist cross cheese";

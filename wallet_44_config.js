@@ -1,1 +1,1 @@
-var mnemonic = "august super wheel flush pigeon card rifle traffic rib hello inner style";
+var mnemonic = "mother town destroy position pact special sustain obscure hover keep income wink";

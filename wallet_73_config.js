@@ -1,1 +1,1 @@
-var mnemonic = "ahead alarm wink aspect juice reward hazard paddle happy salon refuse mesh";
+var mnemonic = "decline fit run teach trap earth tennis firm error process pride retire";

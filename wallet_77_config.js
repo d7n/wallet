@@ -1,1 +1,1 @@
-var mnemonic = "noise turkey palace soon maple claw owner often indoor blind market spoon";
+var mnemonic = "banana owner frog trash top erupt flip same recycle media guess stand";

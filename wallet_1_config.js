@@ -1,1 +1,1 @@
-var mnemonic = "hotel clown ankle clump pumpkin gasp congress orbit legal wife include tank";
+var mnemonic = "home adult average man climb eight clog tent fever pizza neck world";

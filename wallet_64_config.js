@@ -1,1 +1,1 @@
-var mnemonic = "weekend whisper flavor lonely knock output proof puzzle vapor gadget cousin torch";
+var mnemonic = "phrase actual impact jump swarm flavor obscure talent mixture connect balcony beef";

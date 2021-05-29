@@ -1,1 +1,1 @@
-var mnemonic = "lens print limb lunch diary behind access success gift update wait obscure";
+var mnemonic = "all race addict blue help elder token empty amazing thumb slot notable";

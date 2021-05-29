@@ -1,1 +1,1 @@
-var mnemonic = "solar tell puzzle talent gather renew shed motor wash critic beyond boat";
+var mnemonic = "napkin police net urban swallow finish buzz tent ability hidden execute exhibit";

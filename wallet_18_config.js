@@ -1,1 +1,1 @@
-var mnemonic = "lock episode educate rural design ignore focus idea toss screen flag follow";
+var mnemonic = "few forget oil repair aisle face olive tide bargain design bacon case";

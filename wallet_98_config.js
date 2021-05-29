@@ -1,1 +1,1 @@
-var mnemonic = "ignore frequent fantasy wolf used story fog devote exact usual paper warfare";
+var mnemonic = "argue glance below excuse idea assume napkin soul address puzzle soap buddy";

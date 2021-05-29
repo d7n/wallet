@@ -1,1 +1,1 @@
-var mnemonic = "divert pudding pencil sunset deputy liberty february axis board romance gather cat";
+var mnemonic = "champion eternal afraid forest merge cabin slender hollow inmate local bus horror";

@@ -1,1 +1,1 @@
-var mnemonic = "heart smile hero test glance bottom ginger anger tornado modify cotton runway";
+var mnemonic = "spy toilet track proof able safe derive south bridge salad spread family";

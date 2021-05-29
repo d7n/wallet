@@ -1,1 +1,1 @@
-var mnemonic = "mechanic broom scrap total lava photo angle brass point era salon pattern";
+var mnemonic = "figure abuse drill tray hotel decade exhibit expose require volcano alley range";

@@ -1,1 +1,1 @@
-var mnemonic = "strong post panel hamster stem funny nice menu ceiling weekend lock rib";
+var mnemonic = "potato rescue use action bid victory satoshi print warm ankle mercy open";

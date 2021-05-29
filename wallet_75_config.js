@@ -1,1 +1,1 @@
-var mnemonic = "private start view twelve athlete manage afraid light tower point print elegant";
+var mnemonic = "injury swallow knee below deputy topic giggle poem fever acid belt quick";

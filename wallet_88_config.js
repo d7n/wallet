@@ -1,1 +1,1 @@
-var mnemonic = "useful confirm multiply century crater hard physical cereal limb urban uncover earth";
+var mnemonic = "flush deputy degree bundle valid job bright crane month fringe priority ice";

@@ -1,1 +1,1 @@
-var mnemonic = "cube cactus recall display riot gown fringe front erupt kidney oppose mushroom";
+var mnemonic = "bone diamond net first ozone disease favorite panther nuclear party early planet";

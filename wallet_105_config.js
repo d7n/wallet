@@ -1,1 +1,1 @@
-var mnemonic = "inflict focus federal quote jeans peanut undo glass erosion annual practice pave";
+var mnemonic = "glimpse fuel solid rural solve work scout river news duty frown metal";

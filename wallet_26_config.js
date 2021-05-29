@@ -1,1 +1,1 @@
-var mnemonic = "mixture pulse infant exist depart rubber quick faculty sign reopen pull pulse";
+var mnemonic = "want join design business faculty can twelve involve copper venture lab virus";
