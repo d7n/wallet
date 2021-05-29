@@ -1,1 +1,1 @@
-var mnemonic = "turn foam embody rule track front flame window prosper miss object alert";
+var mnemonic = "action explain video spin truth awake enable game pig mix monitor master";

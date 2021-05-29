@@ -1,1 +1,1 @@
-var mnemonic = "anger annual twin gym weird door drink six pilot mushroom pencil tonight";
+var mnemonic = "asset mom blue ghost forest fetch leopard present good country drill shock";

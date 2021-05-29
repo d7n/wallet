@@ -1,1 +1,1 @@
-var mnemonic = "acquire found sign someone wife nation tail hockey offer error host evolve";
+var mnemonic = "direct basic still early blood foam pitch skin birth indoor fatigue outside";

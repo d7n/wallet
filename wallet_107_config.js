@@ -1,1 +1,1 @@
-var mnemonic = "pool deer tackle upon toilet mosquito bulk fantasy slight denial fragile crouch";
+var mnemonic = "scan exit liar shadow decrease equip animal tunnel excess retire uncover razor";

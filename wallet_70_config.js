@@ -1,1 +1,1 @@
-var mnemonic = "general quantum protect advance kidney brave void suffer label grunt farm faith";
+var mnemonic = "access remember gym buffalo limb nominee giggle post ladder sad major punch";

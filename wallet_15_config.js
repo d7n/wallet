@@ -1,1 +1,1 @@
-var mnemonic = "turtle remind search million help goat flash true model fork merit scale";
+var mnemonic = "pigeon thank impact logic limb knife choose clever expose method finish couple";

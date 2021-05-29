@@ -1,1 +1,1 @@
-var mnemonic = "inflict chief print harsh swift night motion final often purity agree sign";
+var mnemonic = "addict crazy smart concert famous dose hip degree exotic system stove rib";

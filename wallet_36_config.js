@@ -1,1 +1,1 @@
-var mnemonic = "team oxygen marriage attract someone nation record leisure glow catalog rely elevator";
+var mnemonic = "pelican inquiry senior better dinner elevator hub fly acoustic secret emotion blush";

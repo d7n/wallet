@@ -1,1 +1,1 @@
-var mnemonic = "surround genre ten utility client sponsor grow shrug bitter famous festival rubber";
+var mnemonic = "truck gun work conduct radio slight salad wrestle tilt diet glad taxi";

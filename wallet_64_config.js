@@ -1,1 +1,1 @@
-var mnemonic = "embark doll flush polar bonus divide child small human rigid talk copper";
+var mnemonic = "retire warm update thunder walnut raven thank stool index pelican school anxiety";

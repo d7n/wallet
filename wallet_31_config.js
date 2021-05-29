@@ -1,1 +1,1 @@
-var mnemonic = "october gun answer food hurt drastic fat wave silly any refuse universe";
+var mnemonic = "sketch dragon brick glove culture initial filter indicate announce bring cave dog";

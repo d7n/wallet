@@ -1,1 +1,1 @@
-var mnemonic = "spirit toy lobster erase wild priority either grace bar insect also execute";
+var mnemonic = "boil pigeon giggle stomach amused virus mobile one endorse gloom record uniform";

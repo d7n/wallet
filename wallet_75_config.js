@@ -1,1 +1,1 @@
-var mnemonic = "same crisp enable salon reflect unique impulse hospital exile fever flat drip";
+var mnemonic = "almost denial spatial supreme turtle drip always rely cloud faint clinic huge";

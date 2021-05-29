@@ -1,1 +1,1 @@
-var mnemonic = "possible assume view spike empower dream impose depart defense monitor gain emotion";
+var mnemonic = "auto imitate mass hospital smile relief edge donkey when lawn repeat supreme";

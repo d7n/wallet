@@ -1,1 +1,1 @@
-var mnemonic = "dizzy elephant memory survey symptom camera veteran cement coin space over carry";
+var mnemonic = "silent tourist force example farm movie mystery rifle twelve animal erode together";

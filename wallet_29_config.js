@@ -1,1 +1,1 @@
-var mnemonic = "color phrase injury agent burden weasel capital illness news apart cruel world";
+var mnemonic = "oppose wing despair nephew force double flock notice hair gorilla seek increase";

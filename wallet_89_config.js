@@ -1,1 +1,1 @@
-var mnemonic = "battle agent maximum avocado rapid abuse panda scare distance sweet solution column";
+var mnemonic = "bronze cake light umbrella fire mention vintage quiz cloud wheel permit club";

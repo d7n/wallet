@@ -1,1 +1,1 @@
-var mnemonic = "silk solid develop lady learn daring poverty much soap eye review circle";
+var mnemonic = "first coffee still solution bread quiz absent major ball curve west diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness vault genre image link master rival chest case cannon tortoise permit";
+var mnemonic = "holiday smoke rug speed penalty public across trash ozone unusual lunar reunion";

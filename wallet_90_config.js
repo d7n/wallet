@@ -1,1 +1,1 @@
-var mnemonic = "unfold put disagree ivory liquid possible donate round february warrior body vague";
+var mnemonic = "vintage despair crime nation forget end double crowd upon cheese idle render";

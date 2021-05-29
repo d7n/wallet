@@ -1,1 +1,1 @@
-var mnemonic = "nothing indicate abstract utility faint ostrich job dirt rose witness disagree defense";
+var mnemonic = "supreme female toddler garbage hobby indicate family furnace miracle steak penalty author";

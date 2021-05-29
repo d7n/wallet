@@ -1,1 +1,1 @@
-var mnemonic = "inner faith two vast range feature damage morning window weekend battle decide";
+var mnemonic = "response price country spirit language rug survey wrestle zero rug bus oak";

@@ -1,1 +1,1 @@
-var mnemonic = "aim motion enrich torch wish lounge fruit adult buzz debris giant tone";
+var mnemonic = "noble elegant insane toddler egg drastic trend match dinner slender trash occur";

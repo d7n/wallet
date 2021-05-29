@@ -1,1 +1,1 @@
-var mnemonic = "clever ugly bicycle company south garment door veteran also peasant purchase clump";
+var mnemonic = "quarter visa story hollow example cruel below option gorilla point switch depart";

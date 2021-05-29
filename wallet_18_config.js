@@ -1,1 +1,1 @@
-var mnemonic = "upgrade because immune rubber torch seven jeans marble tomato phrase panther comic";
+var mnemonic = "initial mimic job until ahead very worry afford emerge lake vault cruel";

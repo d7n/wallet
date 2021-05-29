@@ -1,1 +1,1 @@
-var mnemonic = "sudden pull pupil practice muffin excess salt job distance nation squeeze brass";
+var mnemonic = "educate blur jealous scout lend cotton hero display south injury head wool";

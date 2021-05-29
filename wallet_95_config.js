@@ -1,1 +1,1 @@
-var mnemonic = "decrease gospel elite yard combine clay leader section grab taxi autumn beauty";
+var mnemonic = "vocal cry leisure because merry climb bullet vacuum grief figure discover rug";

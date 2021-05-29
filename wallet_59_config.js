@@ -1,1 +1,1 @@
-var mnemonic = "protect use oyster short stick misery project tell alpha glass tumble pigeon";
+var mnemonic = "chicken grow topple ridge survey argue proud sock method kit sweet vanish";

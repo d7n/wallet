@@ -1,1 +1,1 @@
-var mnemonic = "escape fee receive liar ketchup clay february solid loan degree save route";
+var mnemonic = "develop oak right notice session attend chuckle dizzy rib dawn cat demand";

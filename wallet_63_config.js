@@ -1,1 +1,1 @@
-var mnemonic = "coin income theme pony bar lava define unknown bone pride knock daughter";
+var mnemonic = "timber debris tackle reward sign glue nose mystery subject image fresh security";

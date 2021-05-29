@@ -1,1 +1,1 @@
-var mnemonic = "reflect agree amount credit provide obscure dwarf nerve tree infant humor easy";
+var mnemonic = "walnut excite jar picnic dove power text double effort public prize endless";

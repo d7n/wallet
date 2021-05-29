@@ -1,1 +1,1 @@
-var mnemonic = "inhale avoid west husband syrup unveil tent bonus nasty armed auto borrow";
+var mnemonic = "federal sunset brass heart clip fragile leave quick stove degree display area";

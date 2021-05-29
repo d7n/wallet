@@ -1,1 +1,1 @@
-var mnemonic = "talk category law smooth atom season help drum recycle grain pipe melody";
+var mnemonic = "mother cluster foam sleep route tip grape thumb erosion absent toddler retire";

@@ -1,1 +1,1 @@
-var mnemonic = "owner diamond easily level verify fire doll spike sick talk cargo bind";
+var mnemonic = "raise monitor improve grass clutch dance thunder teach afraid educate lecture unfair";

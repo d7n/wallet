@@ -1,1 +1,1 @@
-var mnemonic = "upset skate puzzle panther light aunt offer olympic quote fat service unit";
+var mnemonic = "surprise relief knife easily helmet rack inflict bomb safe giggle wreck fire";

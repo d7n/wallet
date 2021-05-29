@@ -1,1 +1,1 @@
-var mnemonic = "submit dust track pistol derive traffic luggage crush save all plug upgrade";
+var mnemonic = "method idle scrub grocery record result shuffle awesome impulse illegal clinic suspect";

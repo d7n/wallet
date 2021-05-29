@@ -1,1 +1,1 @@
-var mnemonic = "range execute room steel slight crime oppose happy couch cactus small animal";
+var mnemonic = "glue essay vanish young guitar wish junk deny small joke strike goose";

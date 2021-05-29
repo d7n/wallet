@@ -1,1 +1,1 @@
-var mnemonic = "leopard ethics opinion lyrics tape object museum term pet lucky album limit";
+var mnemonic = "dizzy alien design evolve senior sea small modify hole skull pledge beach";

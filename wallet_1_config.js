@@ -1,1 +1,1 @@
-var mnemonic = "strong clinic warm ask project arrange bachelor object fade typical diesel desk";
+var mnemonic = "barrel basket sing private nature seed artist meadow secret choose attract grab";

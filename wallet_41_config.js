@@ -1,1 +1,1 @@
-var mnemonic = "agree virus fault zone armor inner double wagon faith execute scout repeat";
+var mnemonic = "luxury silver art dance crime foster recall hobby quiz dove casino myself";

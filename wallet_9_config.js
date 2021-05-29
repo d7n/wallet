@@ -1,1 +1,1 @@
-var mnemonic = "method tip endorse figure half dilemma excuse frog path pause board observe";
+var mnemonic = "fall rare romance save rebuild february soul tank kingdom best icon unusual";

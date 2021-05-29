@@ -1,1 +1,1 @@
-var mnemonic = "slight into robot wet boat shine raw mean curve party repair chase";
+var mnemonic = "ramp truth domain force man crumble fruit floor crack enjoy taste festival";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe figure used enter file review cloth pause else together budget wage";
+var mnemonic = "food mountain middle long gallery boat deputy gossip tiny reflect shaft hope";

@@ -1,1 +1,1 @@
-var mnemonic = "industry rubber destroy exile laptop usual fever million marriage shock crime radio";
+var mnemonic = "december model swing please artefact census exile vanish oil phone kick laptop";

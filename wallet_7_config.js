@@ -1,1 +1,1 @@
-var mnemonic = "play steel wife virus piece wage tone lounge blossom sentence opera meadow";
+var mnemonic = "genre perfect method capable candy traffic okay slice daughter measure about silent";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke tilt decline involve problem notice echo timber bargain today action retire";
+var mnemonic = "involve smart hotel rice talk buffalo common give any tiny ask summer";

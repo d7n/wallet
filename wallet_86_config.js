@@ -1,1 +1,1 @@
-var mnemonic = "cool kangaroo disagree trial inform urban crater license taxi warm lab over";
+var mnemonic = "nothing snake option around risk era claw shy copper custom sauce borrow";

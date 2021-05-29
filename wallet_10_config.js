@@ -1,1 +1,1 @@
-var mnemonic = "ring shed citizen charge rude biology zoo cancel seed humor comfort hedgehog";
+var mnemonic = "until weekend soda update repeat youth system puzzle absent belt office garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "group wash demise battle honey under into craft penalty fault source horse";
+var mnemonic = "wolf enroll mixture love afford seat crawl equip motor thrive velvet hamster";

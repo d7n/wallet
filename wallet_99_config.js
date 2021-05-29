@@ -1,1 +1,1 @@
-var mnemonic = "estate chaos wheel drama reopen ghost author hunt worry lecture recipe shove";
+var mnemonic = "already cook tobacco fog swift vanish empty erosion aisle initial upper grape";

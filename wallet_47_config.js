@@ -1,1 +1,1 @@
-var mnemonic = "remain caution endless fat into embrace grass umbrella rather hat honey segment";
+var mnemonic = "tent hybrid destroy prosper broom hurry school limit destroy code master tape";

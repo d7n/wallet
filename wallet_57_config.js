@@ -1,1 +1,1 @@
-var mnemonic = "embody ice giraffe stool blind group supreme stem sniff knife option tiger";
+var mnemonic = "toe okay source long emotion castle parade broccoli keep cruise retire have";

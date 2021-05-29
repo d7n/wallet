@@ -1,1 +1,1 @@
-var mnemonic = "donate remove isolate reason obvious similar talk style unaware soul defy huge";
+var mnemonic = "web umbrella mercy net burst bacon divert brain mosquito exhibit helmet attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "topple camera traffic slide cash brown remove raw six winner wool normal";
+var mnemonic = "top danger seven lake grow unfold miracle phone utility resource long side";

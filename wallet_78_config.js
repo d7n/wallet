@@ -1,1 +1,1 @@
-var mnemonic = "replace risk enact buddy name pluck very volcano humor bus silver citizen";
+var mnemonic = "hurry skirt water cloud outside diamond notable panic future anchor visa crucial";

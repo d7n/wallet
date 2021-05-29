@@ -1,1 +1,1 @@
-var mnemonic = "other mad refuse bless beauty agree subway believe crunch reward rival faith";
+var mnemonic = "skirt finger catalog initial repair supply cave baby license little crumble rebel";

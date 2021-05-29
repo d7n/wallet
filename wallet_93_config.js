@@ -1,1 +1,1 @@
-var mnemonic = "require arch orchard donate kite lyrics dolphin meadow draft race isolate exchange";
+var mnemonic = "twenty explain fork runway feature fiction drill injury neither catch diary wool";

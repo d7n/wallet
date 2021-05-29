@@ -1,1 +1,1 @@
-var mnemonic = "sniff civil enter smooth giant buddy decorate wage coil one evil pepper";
+var mnemonic = "urge left grape potato increase ribbon chuckle brisk artist slot main claim";

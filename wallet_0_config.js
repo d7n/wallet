@@ -1,1 +1,1 @@
-var mnemonic = "crunch swap gaze soccer media code vivid thunder rotate limb brand eyebrow";
+var mnemonic = "pepper hip cat sorry advance immune shop wine asthma normal urban hair";

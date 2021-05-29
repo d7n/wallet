@@ -1,1 +1,1 @@
-var mnemonic = "ankle height ring pudding eight fluid leg mosquito blame cherry analyst attract";
+var mnemonic = "trigger address lawn only forget gate bridge three athlete gather wisdom tragic";

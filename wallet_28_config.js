@@ -1,1 +1,1 @@
-var mnemonic = "casual speak volcano actual spray announce shift loop side shop involve bulb";
+var mnemonic = "wheel nest giggle solar thank resemble bone only quote fall rare dumb";

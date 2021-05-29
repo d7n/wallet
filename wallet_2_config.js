@@ -1,1 +1,1 @@
-var mnemonic = "width session race chef taste now mix panther dignity exclude shrug squeeze";
+var mnemonic = "easily corn blossom mad provide network topic april various ring wrap crunch";

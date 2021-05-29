@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit minute elder romance lava dinner super image hour shoe quarter join";
+var mnemonic = "nothing photo cherry judge comfort garment subject task patrol fix idle grape";

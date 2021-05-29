@@ -1,1 +1,1 @@
-var mnemonic = "tongue glow conduct secret mouse achieve head snap predict lottery flip carbon";
+var mnemonic = "before lake critic topple sleep relax talk orbit elder blood snake very";

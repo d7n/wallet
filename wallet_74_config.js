@@ -1,1 +1,1 @@
-var mnemonic = "dignity slogan glass hundred immune unable garage current soda army gun infant";
+var mnemonic = "despair clarify oval patrol goat cake female vapor excess almost stem angry";

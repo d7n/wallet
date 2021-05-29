@@ -1,1 +1,1 @@
-var mnemonic = "cycle local dumb diamond sick foster main depend taste ribbon tomorrow muffin";
+var mnemonic = "disagree diagram middle endless online idea glance secret clock divorce panic slogan";

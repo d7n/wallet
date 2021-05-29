@@ -1,1 +1,1 @@
-var mnemonic = "tourist road fiber december glove video property mosquito suspect stove raven measure";
+var mnemonic = "wire blade parrot harvest rare feature round smooth patch race robot ahead";

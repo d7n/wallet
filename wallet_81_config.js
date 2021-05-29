@@ -1,1 +1,1 @@
-var mnemonic = "luxury sentence cruel draft grain situate lend rain gauge garlic verify moral";
+var mnemonic = "excite dinner victory citizen romance fox ignore woman clap remember install public";

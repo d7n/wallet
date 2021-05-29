@@ -1,1 +1,1 @@
-var mnemonic = "oak entry confirm early donkey violin diary problem party truly sweet senior";
+var mnemonic = "act duck nasty desert twin leg robust season fatal throw punch arrive";

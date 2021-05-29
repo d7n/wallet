@@ -1,1 +1,1 @@
-var mnemonic = "grit hero reunion shrug bulb ripple doctor civil jazz act erode above";
+var mnemonic = "kangaroo luggage chef wife minimum prepare response donkey tortoise alarm picture betray";

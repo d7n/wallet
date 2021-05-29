@@ -1,1 +1,1 @@
-var mnemonic = "lizard angle moment pole impulse gloom green sight meadow inmate excess track";
+var mnemonic = "rocket fat just balcony soldier universe miss nuclear radio maid lumber doll";

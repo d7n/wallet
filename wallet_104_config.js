@@ -1,1 +1,1 @@
-var mnemonic = "erosion faith follow double glide mercy popular arrive strike radar any thing";
+var mnemonic = "stay kick clerk stadium around slow tooth mutual stadium fame success car";

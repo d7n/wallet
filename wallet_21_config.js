@@ -1,1 +1,1 @@
-var mnemonic = "best monkey general person legal camp arrive square want coast cotton typical";
+var mnemonic = "radio review pony input shield exact office celery cross kiwi during mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "human dream add beach august hungry reflect there turtle pen recycle tower";
+var mnemonic = "adapt put food cereal dog begin place bonus tooth stage play option";

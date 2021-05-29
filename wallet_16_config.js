@@ -1,1 +1,1 @@
-var mnemonic = "mountain hole start vocal vault draw narrow virtual quantum labor enough sock";
+var mnemonic = "neglect enrich unique blanket when choose maze frog carbon upgrade capable drift";

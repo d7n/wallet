@@ -1,1 +1,1 @@
-var mnemonic = "another cross problem burden ethics spray primary weasel length employ pretty artefact";
+var mnemonic = "carpet retreat mosquito antenna knock merge motor process belt swallow angry impact";

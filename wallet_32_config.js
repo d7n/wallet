@@ -1,1 +1,1 @@
-var mnemonic = "color chapter snack innocent pride drip cheap toddler boring bulk parade hobby";
+var mnemonic = "liar scheme rare garment path wisdom shuffle hotel turtle soon day paper";

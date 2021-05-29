@@ -1,1 +1,1 @@
-var mnemonic = "slot practice assume pretty income unit quarter sheriff slide emotion bracket unit";
+var mnemonic = "vessel virtual gospel rifle hub entire road clever help virus hint priority";

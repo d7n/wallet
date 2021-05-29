@@ -1,1 +1,1 @@
-var mnemonic = "survey youth cliff main owner nation youth evidence load since hire coil";
+var mnemonic = "gauge outdoor mango mom clay gather amazing pact annual tag imitate junior";

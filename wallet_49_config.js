@@ -1,1 +1,1 @@
-var mnemonic = "six family normal eagle bird orange flight useful shoot play gloom elegant";
+var mnemonic = "grunt question public notable live inform shallow movie spring divert educate mail";

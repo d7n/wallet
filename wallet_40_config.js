@@ -1,1 +1,1 @@
-var mnemonic = "edit essence level inquiry glare crouch tackle arctic trend humor rabbit visual";
+var mnemonic = "arena picnic rebel luggage check analyst vote lamp success midnight dentist clump";

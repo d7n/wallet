@@ -1,1 +1,1 @@
-var mnemonic = "absent awful brick spoon whisper siege crane talent detail seminar daring mass";
+var mnemonic = "lemon brick exhaust try typical swim sample lift jump over near confirm";

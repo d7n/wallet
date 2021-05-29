@@ -1,1 +1,1 @@
-var mnemonic = "nest brisk glow lesson north person reject salon border rain squeeze sail";
+var mnemonic = "asset blossom tortoise public another galaxy test dream pause sound save aisle";

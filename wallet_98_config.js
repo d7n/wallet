@@ -1,1 +1,1 @@
-var mnemonic = "peasant innocent prefer crouch escape ladder measure coin razor cage blind flat";
+var mnemonic = "region old coach twist tragic wage luggage else ritual sentence permit plug";

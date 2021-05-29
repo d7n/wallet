@@ -1,1 +1,1 @@
-var mnemonic = "ignore flame museum ritual unfold jelly element recipe oxygen deer same company";
+var mnemonic = "figure shoulder angle goddess riot abandon where yellow dirt raise rifle join";

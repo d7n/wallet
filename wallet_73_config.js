@@ -1,1 +1,1 @@
-var mnemonic = "latin around question floor pluck resemble repair vital celery process shaft patrol";
+var mnemonic = "economy accident fish nephew pupil clown basket few acquire warm gap start";

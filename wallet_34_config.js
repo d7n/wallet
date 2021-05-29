@@ -1,1 +1,1 @@
-var mnemonic = "drum custom symbol silly fuel similar tool nephew beach next round emotion";
+var mnemonic = "rebel dinosaur gold piano fat pet axis betray reject bread hire exile";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal acid april half reason track snap bird yard little advance human";
+var mnemonic = "must offer bless hire guitar birth body peanut keep discover fence zebra";
