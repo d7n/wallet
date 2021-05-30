@@ -1,1 +1,1 @@
-var mnemonic = "have grit alley casino misery indoor soon expand evidence mention decline appear";
+var mnemonic = "abandon viable spawn dentist bar eyebrow ahead decline involve season faculty design";

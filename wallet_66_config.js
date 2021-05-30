@@ -1,1 +1,1 @@
-var mnemonic = "entire forum screen sport clay mention grief track letter spare ability episode";
+var mnemonic = "caution profit oppose cabbage little genre oblige lonely dolphin balcony never boat";

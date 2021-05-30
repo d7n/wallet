@@ -1,1 +1,1 @@
-var mnemonic = "deer wrap sister strategy ugly original jazz capital blouse once future depart";
+var mnemonic = "owner dice sentence kitchen laundry left domain pepper duty stomach guilt same";

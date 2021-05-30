@@ -1,1 +1,1 @@
-var mnemonic = "arch patch snap exercise proof edge people oblige verb baby crumble service";
+var mnemonic = "rifle profit shoe cube gap around feel roof walk eager require oven";

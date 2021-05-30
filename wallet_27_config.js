@@ -1,1 +1,1 @@
-var mnemonic = "night possible sad debate hurdle cigar shiver false peanut street crash host";
+var mnemonic = "escape auction result train wide traffic occur atom tag sport endless throw";

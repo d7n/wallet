@@ -1,1 +1,1 @@
-var mnemonic = "human biology task author library fortune curtain marble disagree repair share wink";
+var mnemonic = "spend deny assume erosion spray neglect lab pear position cruel timber crystal";

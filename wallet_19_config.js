@@ -1,1 +1,1 @@
-var mnemonic = "physical situate opera love smart candy shift bus scene rail truly need";
+var mnemonic = "police bind tackle dance anxiety that waste farm thing chase bird consider";

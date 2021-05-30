@@ -1,1 +1,1 @@
-var mnemonic = "lesson okay capital permit fame expand tide agree require ceiling lottery fresh";
+var mnemonic = "author patch witness rain trap tissue wall explain alert whip view immense";

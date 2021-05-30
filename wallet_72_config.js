@@ -1,1 +1,1 @@
-var mnemonic = "glimpse first matter shrug large clerk tuna audit choice rebuild idea among";
+var mnemonic = "project cable across draft narrow above live injury roast brief iron coral";

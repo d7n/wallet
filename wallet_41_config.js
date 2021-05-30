@@ -1,1 +1,1 @@
-var mnemonic = "found stage scare local gadget idea cactus donor giggle stone town embody";
+var mnemonic = "video tray cushion stove beef clarify napkin return bunker ghost caution diesel";

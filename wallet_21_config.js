@@ -1,1 +1,1 @@
-var mnemonic = "planet almost injury price bounce asthma also winner hurdle memory come chalk";
+var mnemonic = "flip ghost egg dignity pelican ramp notice nuclear luxury exotic awful elbow";

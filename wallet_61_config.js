@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur can glue enemy love silly gorilla surround maple accident silver cube";
+var mnemonic = "focus truly ripple clerk blade pipe luggage maze pluck rude wrestle follow";

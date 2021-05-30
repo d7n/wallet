@@ -1,1 +1,1 @@
-var mnemonic = "lemon duty employ army roast endorse auto simple page man climb surge";
+var mnemonic = "dentist cook screen picnic rhythm metal picnic journey seed evil clutch plug";

@@ -1,1 +1,1 @@
-var mnemonic = "immense course ancient man genuine exist trip improve onion tenant impact rely";
+var mnemonic = "odor runway entry settle shiver follow police twin quote robust curve denial";

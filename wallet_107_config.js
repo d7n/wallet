@@ -1,1 +1,1 @@
-var mnemonic = "license else loyal vendor ceiling drink core syrup blade wine ill unique";
+var mnemonic = "scene someone switch potato audit judge thought average sister vote hand car";

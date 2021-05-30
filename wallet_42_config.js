@@ -1,1 +1,1 @@
-var mnemonic = "arm mind luggage fee shrimp tell great fiscal ripple excess ugly wise";
+var mnemonic = "region chapter purchase cat lunch curious oval aim hawk doll budget hope";

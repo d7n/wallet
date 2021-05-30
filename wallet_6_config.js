@@ -1,1 +1,1 @@
-var mnemonic = "play frog develop release business profit village magic tattoo thrive okay burger";
+var mnemonic = "night category success ritual dignity sustain shift execute owner black possible tape";

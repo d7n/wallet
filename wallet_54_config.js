@@ -1,1 +1,1 @@
-var mnemonic = "penalty fine grunt poem smooth sample young twist annual amateur clinic voice";
+var mnemonic = "walnut toddler intact circle coffee giggle school swallow pulse what happy visit";

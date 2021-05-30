@@ -1,1 +1,1 @@
-var mnemonic = "pulse lottery crawl cup stand anchor share general grief account solve execute";
+var mnemonic = "worry timber dry axis kite thunder dolphin select metal indicate solution urge";

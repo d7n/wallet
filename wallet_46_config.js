@@ -1,1 +1,1 @@
-var mnemonic = "spider hurt knee evidence eagle wait reopen other truth claw fetch slow";
+var mnemonic = "pyramid obtain foam mobile castle dwarf size mercy luxury canvas shock library";

@@ -1,1 +1,1 @@
-var mnemonic = "size possible crash first discover clinic accident sketch famous birth stick profit";
+var mnemonic = "series kitten honey hobby abstract image shock clump birth judge fly emerge";

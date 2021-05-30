@@ -1,1 +1,1 @@
-var mnemonic = "neglect power pave black snap tumble lobster glide innocent pact vital bracket";
+var mnemonic = "inhale auto around forward bamboo liberty virtual neglect buffalo obscure dynamic oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "drum december home sadness empower cactus palm ocean tone peanut night divide";
+var mnemonic = "census bread taste truly measure eagle shadow weapon belt ordinary index festival";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom lawsuit unknown banner tonight nest abuse certain spray garage insane novel";
+var mnemonic = "assist home unaware renew inhale soul warm raise enter peanut fame juice";

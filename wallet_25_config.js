@@ -1,1 +1,1 @@
-var mnemonic = "video cement magic cart guide neutral dentist shop learn clog biology human";
+var mnemonic = "broccoli spot wink topic pact tiny frown occur segment tube nest obtain";

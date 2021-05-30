@@ -1,1 +1,1 @@
-var mnemonic = "dance piece smoke much must sure exact drastic alarm together deposit luggage";
+var mnemonic = "whale dress dizzy juice few salad glare busy secret city beach demand";

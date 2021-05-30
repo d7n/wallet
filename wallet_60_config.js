@@ -1,1 +1,1 @@
-var mnemonic = "merry repeat patrol transfer way mixed immune budget birth sure bronze huge";
+var mnemonic = "bicycle gather logic rug photo great toss curve grunt pencil machine curious";

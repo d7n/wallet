@@ -1,1 +1,1 @@
-var mnemonic = "sting divide menu there estate nothing debate strong dismiss despair season essay";
+var mnemonic = "shell tribe moral express settle mule fork notice earth intact around arch";

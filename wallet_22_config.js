@@ -1,1 +1,1 @@
-var mnemonic = "science chapter good credit thumb enough holiday candy sing need arctic prosper";
+var mnemonic = "comic spirit casual real hollow guess rent teach raise business bottom fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "act moon razor build alpha duty ridge dutch dirt rude scout lizard";
+var mnemonic = "simple voyage spin snap swallow skull check close flash number lizard zebra";

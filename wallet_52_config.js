@@ -1,1 +1,1 @@
-var mnemonic = "basket inner hotel gallery art cabbage science stamp crucial tube knife satoshi";
+var mnemonic = "recipe table huge very doctor click brand grass middle erode deposit sting";

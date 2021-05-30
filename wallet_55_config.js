@@ -1,1 +1,1 @@
-var mnemonic = "glove clarify seminar glide math post shiver wheat fortune theme argue gain";
+var mnemonic = "chat about surface gentle lens brother confirm crucial result vague always robot";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny upper repair cup crime hammer alcohol loan advice reduce market talk";
+var mnemonic = "practice casual control inner elevator next rubber depth demand popular index shine";

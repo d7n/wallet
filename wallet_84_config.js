@@ -1,1 +1,1 @@
-var mnemonic = "virtual volume together pen visual duty combine steel prison magic raise phrase";
+var mnemonic = "cube hat lawsuit squeeze oxygen shrimp half eager mystery gather grace acquire";

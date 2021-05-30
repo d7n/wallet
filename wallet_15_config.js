@@ -1,1 +1,1 @@
-var mnemonic = "able divert help scare original cupboard click alpha tongue loop shove siren";
+var mnemonic = "lobster uphold develop glass satisfy anger unique luxury cry cycle mass galaxy";

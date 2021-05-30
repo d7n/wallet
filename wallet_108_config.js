@@ -1,1 +1,1 @@
-var mnemonic = "voyage craft sound adult slab wealth palm match coral reduce mountain civil";
+var mnemonic = "later cloth screen mansion debate spike tube sentence pigeon retreat cloth index";

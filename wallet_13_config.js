@@ -1,1 +1,1 @@
-var mnemonic = "weapon later move surge bus rally pumpkin long clean soda please perfect";
+var mnemonic = "together month vanish setup student multiply celery craft dust weather blue drama";

@@ -1,1 +1,1 @@
-var mnemonic = "piano develop trigger hood impulse first rhythm tube curve raise reveal ramp";
+var mnemonic = "kit slide ivory feature lonely cheap face mammal tortoise pride party file";

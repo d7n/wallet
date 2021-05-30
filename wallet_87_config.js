@@ -1,1 +1,1 @@
-var mnemonic = "bright island best citizen leaf distance aunt nuclear wreck axis coconut craft";
+var mnemonic = "property any throw nasty rain drive child chapter bright vintage grant injury";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz inch major hour arrive about fabric neither city expire laundry combine";
+var mnemonic = "coconut throw write discover empower science slush cluster oval salon move canal";

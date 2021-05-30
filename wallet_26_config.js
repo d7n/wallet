@@ -1,1 +1,1 @@
-var mnemonic = "love finger brand march column mesh squirrel tape bread become fatigue village";
+var mnemonic = "pride family genre spice swing toast crazy submit nuclear scene loyal cloth";

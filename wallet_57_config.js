@@ -1,1 +1,1 @@
-var mnemonic = "juice rookie outdoor inform jealous rookie timber morning expire tunnel alert jelly";
+var mnemonic = "between patient quantum lend bottom dad artefact exotic ocean drift only engine";

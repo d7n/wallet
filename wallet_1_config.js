@@ -1,1 +1,1 @@
-var mnemonic = "immense resist gorilla lyrics asthma field thrive face lens pluck lesson sphere";
+var mnemonic = "leg play avoid quality match feed skull eagle blanket olive kitchen mask";

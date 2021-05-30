@@ -1,1 +1,1 @@
-var mnemonic = "smoke slide claim crucial novel off receive oppose urban fold essence main";
+var mnemonic = "vocal view cry agent prefer embark sail nature ill pilot stuff visual";

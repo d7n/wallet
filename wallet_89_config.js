@@ -1,1 +1,1 @@
-var mnemonic = "copper glide rate aware alone exhibit digital voice ask minor barely breeze";
+var mnemonic = "image wash cement uncover say dose nest keep supreme vicious gorilla galaxy";

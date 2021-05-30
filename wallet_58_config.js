@@ -1,1 +1,1 @@
-var mnemonic = "between north surround bus tennis indicate pencil erupt unusual mammal code glory";
+var mnemonic = "chat drama lunar arrange shed wire remove tape horror era glow transfer";

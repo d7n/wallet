@@ -1,1 +1,1 @@
-var mnemonic = "dumb table vault rural daring remind few enforce draw model music proud";
+var mnemonic = "fatal erode useful crumble praise bunker pool such weird push canoe off";

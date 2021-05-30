@@ -1,1 +1,1 @@
-var mnemonic = "pave system grow excite dwarf alter bench join lyrics seminar clap brush";
+var mnemonic = "game join thank wave upper vehicle crew party orphan crew oyster life";

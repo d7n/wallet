@@ -1,1 +1,1 @@
-var mnemonic = "brisk inquiry hard render olive rose napkin will ketchup hard start advice";
+var mnemonic = "economy decade old volcano elephant rally devote ill daughter auto strategy rapid";

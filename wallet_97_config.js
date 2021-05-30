@@ -1,1 +1,1 @@
-var mnemonic = "clip olive mix trade flip office cram lift during ball equip hat";
+var mnemonic = "believe tooth cricket arrest stuff gas flavor genuine material chicken oppose sand";

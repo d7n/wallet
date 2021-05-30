@@ -1,1 +1,1 @@
-var mnemonic = "shaft brief before cheap around genuine moral velvet margin satoshi purpose broom";
+var mnemonic = "crucial auction enter flush assume rib loud museum practice metal rival sustain";

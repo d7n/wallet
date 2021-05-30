@@ -1,1 +1,1 @@
-var mnemonic = "slender ride elevator push castle bean tomorrow swear nasty cotton ceiling choice";
+var mnemonic = "rather again ability expire leaf opinion quarter ten enter resemble hard robust";

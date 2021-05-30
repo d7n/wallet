@@ -1,1 +1,1 @@
-var mnemonic = "mechanic glory shrug mean item benefit movie empower burst empty logic double";
+var mnemonic = "goddess remove congress exile obtain citizen all detect witness interest palace monitor";

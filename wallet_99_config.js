@@ -1,1 +1,1 @@
-var mnemonic = "turn stock vehicle morning private shine rally happy spring fit truck piece";
+var mnemonic = "great carpet ball idle vicious raw giggle session gap cycle domain trophy";

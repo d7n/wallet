@@ -1,1 +1,1 @@
-var mnemonic = "maid side soap unhappy crater social elder tuna west crazy royal purse";
+var mnemonic = "win citizen arm embark wild leave emotion depth subject witness garlic era";

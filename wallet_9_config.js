@@ -1,1 +1,1 @@
-var mnemonic = "monitor erupt cry august chief one gravity jungle brush page height prosper";
+var mnemonic = "cruel public coin culture train crumble allow diet absurd place raise juice";

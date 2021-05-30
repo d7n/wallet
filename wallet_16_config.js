@@ -1,1 +1,1 @@
-var mnemonic = "powder misery tenant mistake sight visit slide flight off arrest when route";
+var mnemonic = "tower call rug combine tattoo soldier orbit polar exhibit basket year topic";

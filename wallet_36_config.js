@@ -1,1 +1,1 @@
-var mnemonic = "gorilla orient piece license garage funny ceiling girl range aerobic chuckle attract";
+var mnemonic = "series include spider flame decrease mosquito broom crunch deer broom time cloth";

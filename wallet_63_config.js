@@ -1,1 +1,1 @@
-var mnemonic = "inject woman ramp behind mutual unit essence world become tiger film fit";
+var mnemonic = "naive bid chronic fuel roast obey army immense round rescue limb unique";

@@ -1,1 +1,1 @@
-var mnemonic = "iron hen glory finger lizard sudden exit cost shed shaft balcony share";
+var mnemonic = "cup order romance earth cross fork cover assist sure hollow guitar make";

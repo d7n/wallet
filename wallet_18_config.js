@@ -1,1 +1,1 @@
-var mnemonic = "wrestle wire path call state skin hurdle pause blur squeeze circle able";
+var mnemonic = "unfair another broom inquiry gather sausage picnic bachelor leisure strategy paper drift";

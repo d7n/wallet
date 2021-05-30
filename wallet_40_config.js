@@ -1,1 +1,1 @@
-var mnemonic = "lawn diagram knife only coyote comic exist shuffle sustain palm kiss sand";
+var mnemonic = "erase orchard surround image pole demise battle obscure immense mix embrace parent";

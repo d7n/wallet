@@ -1,1 +1,1 @@
-var mnemonic = "exclude van boss balance snap minimum cattle can stuff render fetch little";
+var mnemonic = "number brush upper open destroy replace mule bulk coil drum poverty rookie";

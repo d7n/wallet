@@ -1,1 +1,1 @@
-var mnemonic = "survey twist join segment allow attract shoulder limb refuse produce bubble street";
+var mnemonic = "gesture gentle lava top tattoo vote tobacco seed gesture bottom version butter";

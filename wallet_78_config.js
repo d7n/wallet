@@ -1,1 +1,1 @@
-var mnemonic = "label potato okay sweet only uphold monster helmet enemy cradle sponsor grass";
+var mnemonic = "find pretty fee flight fox note month link guilt ritual ask ten";

@@ -1,1 +1,1 @@
-var mnemonic = "rate genuine sing wear grain frost panel casual arch scout orange outside";
+var mnemonic = "envelope type place arctic paddle remember february unusual concert tattoo monitor feature";

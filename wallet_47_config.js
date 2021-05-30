@@ -1,1 +1,1 @@
-var mnemonic = "tool zoo degree kiwi empower nothing kiwi danger sail solution what shrimp";
+var mnemonic = "peanut bacon sound differ decrease curious nasty swing leisure rapid improve enforce";

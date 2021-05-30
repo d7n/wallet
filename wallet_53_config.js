@@ -1,1 +1,1 @@
-var mnemonic = "disagree scorpion tent organ lady mail library drift stool drive enable warrior";
+var mnemonic = "insane stomach become fragile spray beef ribbon question kangaroo love spy entry";

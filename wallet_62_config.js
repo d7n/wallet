@@ -1,1 +1,1 @@
-var mnemonic = "decide distance token fabric praise thumb bamboo fabric worry time crouch wait";
+var mnemonic = "medal kidney august ask upper blade nerve flash corn unaware stuff absorb";

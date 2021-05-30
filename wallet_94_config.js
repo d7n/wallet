@@ -1,1 +1,1 @@
-var mnemonic = "segment gravity meat giraffe balance describe depth panther drum toast act candy";
+var mnemonic = "test impulse correct loan decade monkey craft ensure scissors skill defy foster";

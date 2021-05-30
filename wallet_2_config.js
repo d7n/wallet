@@ -1,1 +1,1 @@
-var mnemonic = "soul soup prevent child figure bid output danger strong author poet jacket";
+var mnemonic = "piano wheat pole satisfy ribbon that average bind original share solution tower";

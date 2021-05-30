@@ -1,1 +1,1 @@
-var mnemonic = "skull quick swear curtain educate dentist rapid modify isolate merit behave luggage";
+var mnemonic = "shield idea fringe glory aunt economy athlete butter click enhance fringe dress";

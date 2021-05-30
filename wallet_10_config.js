@@ -1,1 +1,1 @@
-var mnemonic = "possible witness orchard sword finger surge tilt domain slice wreck remain tooth";
+var mnemonic = "gospel apart ghost barely expect arrange now stable dinosaur gold puzzle nose";

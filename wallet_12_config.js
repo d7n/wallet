@@ -1,1 +1,1 @@
-var mnemonic = "charge occur fetch help tank total citizen asset eager entry small absent";
+var mnemonic = "spy hover solve worry service gravity fashion inquiry impose labor monster welcome";

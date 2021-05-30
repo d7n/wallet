@@ -1,1 +1,1 @@
-var mnemonic = "you denial pill sword begin phrase arrange risk give middle typical circle";
+var mnemonic = "wall actual profit online jealous slogan hard victory flag sign gallery clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "east tower bar december liberty lake impact figure where neck kind top";
+var mnemonic = "job medal orange infant client skull surface earn school garbage muscle method";

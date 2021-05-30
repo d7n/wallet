@@ -1,1 +1,1 @@
-var mnemonic = "trip exist consider brick machine guess gas palm fringe electric arch vast";
+var mnemonic = "try miss news huge divorce seven absurd practice document puppy column head";

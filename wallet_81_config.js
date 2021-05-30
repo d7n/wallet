@@ -1,1 +1,1 @@
-var mnemonic = "tuition castle document rural atom victory trial agent apology brave silver gesture";
+var mnemonic = "seek sport vocal text either swap blouse sadness company color public giggle";

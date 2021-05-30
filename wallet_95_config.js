@@ -1,1 +1,1 @@
-var mnemonic = "federal under orphan cactus fire notable obtain poem make outdoor general luxury";
+var mnemonic = "drip direct blossom element comic engine window problem fame order arm hold";

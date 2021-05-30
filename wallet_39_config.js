@@ -1,1 +1,1 @@
-var mnemonic = "prosper zero post speak leader chef lake drink toilet hill twice bring";
+var mnemonic = "pink oblige hundred arrange link anxiety few solid kitten involve crawl domain";

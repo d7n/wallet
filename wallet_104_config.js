@@ -1,1 +1,1 @@
-var mnemonic = "crisp cattle myth evidence output surface funny sketch balance alone search pencil";
+var mnemonic = "deer maid neglect drum easily tomorrow artefact clown stove output monkey fire";

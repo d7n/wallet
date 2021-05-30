@@ -1,1 +1,1 @@
-var mnemonic = "release soda scan labor auto reason hawk artist denial dwarf end mango";
+var mnemonic = "pumpkin obtain salmon note hunt mind gloom until exhibit orient total humble";

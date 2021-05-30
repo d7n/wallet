@@ -1,1 +1,1 @@
-var mnemonic = "dirt hover beach absorb earn marble say because seminar liquid begin reform";
+var mnemonic = "human warm resource claim cradle question hold prevent language fatal air eternal";

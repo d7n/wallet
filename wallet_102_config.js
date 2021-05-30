@@ -1,1 +1,1 @@
-var mnemonic = "grant abuse stand bleak culture tobacco lunch fury possible scorpion veteran pulse";
+var mnemonic = "valid large duck rival develop tumble develop school portion tortoise swamp remove";

@@ -1,1 +1,1 @@
-var mnemonic = "intact rack logic hub noble vault plate cinnamon south member tumble day";
+var mnemonic = "any weasel sail coconut husband shoot blur youth seven tumble bamboo advice";

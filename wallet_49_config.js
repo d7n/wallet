@@ -1,1 +1,1 @@
-var mnemonic = "range old ritual parade debate subway profit oppose inspire spin garbage miracle";
+var mnemonic = "clog liberty panic renew lava elbow attend obtain secret country rose dove";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow diesel flame elephant renew calm grunt anchor popular sudden accident enemy";
+var mnemonic = "stumble drip skin ride almost prevent prepare guitar meat immune egg trumpet";

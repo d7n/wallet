@@ -1,1 +1,1 @@
-var mnemonic = "term away apart cherry bamboo slush alley bless weasel hammer famous frost";
+var mnemonic = "gloom domain donkey actor focus risk tiger eager genre oxygen clump ball";
