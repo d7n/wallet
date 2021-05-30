@@ -1,1 +1,1 @@
-var mnemonic = "vocal view cry agent prefer embark sail nature ill pilot stuff visual";
+var mnemonic = "athlete air decide trick pear bacon stable casual dance gun chicken more";

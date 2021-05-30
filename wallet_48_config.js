@@ -1,1 +1,1 @@
-var mnemonic = "gesture gentle lava top tattoo vote tobacco seed gesture bottom version butter";
+var mnemonic = "early follow round slight ensure crouch name stick bomb permit recipe observe";

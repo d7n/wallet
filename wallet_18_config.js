@@ -1,1 +1,1 @@
-var mnemonic = "unfair another broom inquiry gather sausage picnic bachelor leisure strategy paper drift";
+var mnemonic = "cluster diet vast tragic blush exist unusual atom expose flip churn marble";

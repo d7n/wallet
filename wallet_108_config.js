@@ -1,1 +1,1 @@
-var mnemonic = "later cloth screen mansion debate spike tube sentence pigeon retreat cloth index";
+var mnemonic = "error text fly recycle goose call direct bunker vintage kitten praise clean";

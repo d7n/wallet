@@ -1,1 +1,1 @@
-var mnemonic = "stumble drip skin ride almost prevent prepare guitar meat immune egg trumpet";
+var mnemonic = "symbol wait must ball milk column deer angle ring wine fence virtual";

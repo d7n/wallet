@@ -1,1 +1,1 @@
-var mnemonic = "walnut toddler intact circle coffee giggle school swallow pulse what happy visit";
+var mnemonic = "ecology pole bench south strike chuckle taxi crack vicious web essay shed";

@@ -1,1 +1,1 @@
-var mnemonic = "piano wheat pole satisfy ribbon that average bind original share solution tower";
+var mnemonic = "erosion mom gossip struggle burden gold invite exact reward danger sick brown";

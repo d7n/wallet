@@ -1,1 +1,1 @@
-var mnemonic = "broccoli spot wink topic pact tiny frown occur segment tube nest obtain";
+var mnemonic = "phone coral outside dance meat list entire dignity know donor angle debate";

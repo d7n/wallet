@@ -1,1 +1,1 @@
-var mnemonic = "comic spirit casual real hollow guess rent teach raise business bottom fossil";
+var mnemonic = "ostrich remind cream cinnamon carbon funny acid fine fire away sting curious";

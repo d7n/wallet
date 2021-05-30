@@ -1,1 +1,1 @@
-var mnemonic = "find pretty fee flight fox note month link guilt ritual ask ten";
+var mnemonic = "else slice board bid timber start deliver insane extend cost retire park";

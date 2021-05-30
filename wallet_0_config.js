@@ -1,1 +1,1 @@
-var mnemonic = "author patch witness rain trap tissue wall explain alert whip view immense";
+var mnemonic = "hole tumble absurd tray about airport order friend stem taste occur assault";

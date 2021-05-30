@@ -1,1 +1,1 @@
-var mnemonic = "believe tooth cricket arrest stuff gas flavor genuine material chicken oppose sand";
+var mnemonic = "adjust myth zero century erode angry slogan actor essay hub vendor manage";

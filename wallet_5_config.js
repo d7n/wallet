@@ -1,1 +1,1 @@
-var mnemonic = "game join thank wave upper vehicle crew party orphan crew oyster life";
+var mnemonic = "economy current pen depth identify similar mirror citizen vast ankle actual manage";

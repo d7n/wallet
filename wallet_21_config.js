@@ -1,1 +1,1 @@
-var mnemonic = "flip ghost egg dignity pelican ramp notice nuclear luxury exotic awful elbow";
+var mnemonic = "asset apple job account party naive blood soup away beauty copper base";

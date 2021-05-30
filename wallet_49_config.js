@@ -1,1 +1,1 @@
-var mnemonic = "clog liberty panic renew lava elbow attend obtain secret country rose dove";
+var mnemonic = "bubble blush display duty exclude gap outdoor assume disorder grass pizza van";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans initial grief panther bone repeat speed sea baby sibling upset fitness";
+var mnemonic = "canoe jar park process book walnut deal giant stand lounge total alter";

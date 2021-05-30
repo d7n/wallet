@@ -1,1 +1,1 @@
-var mnemonic = "outer guilt frog recipe vapor business tray business run celery actor recycle";
+var mnemonic = "peasant stadium happy chapter wet prefer problem involve brain diet boost shaft";

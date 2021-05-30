@@ -1,1 +1,1 @@
-var mnemonic = "envelope type place arctic paddle remember february unusual concert tattoo monitor feature";
+var mnemonic = "casual review write volume weasel finger journey foster local sell layer orchard";

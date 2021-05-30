@@ -1,1 +1,1 @@
-var mnemonic = "pride family genre spice swing toast crazy submit nuclear scene loyal cloth";
+var mnemonic = "vast just nerve inform rule ladder result wreck pear expect tortoise quality";

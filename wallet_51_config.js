@@ -1,1 +1,1 @@
-var mnemonic = "economy decade old volcano elephant rally devote ill daughter auto strategy rapid";
+var mnemonic = "twin mobile oval pumpkin absorb plastic below more float biology success athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "spend deny assume erosion spray neglect lab pear position cruel timber crystal";
+var mnemonic = "cause daring gown aisle twice panda sunny coconut divorce post desert daring";

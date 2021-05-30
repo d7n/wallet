@@ -1,1 +1,1 @@
-var mnemonic = "human warm resource claim cradle question hold prevent language fatal air eternal";
+var mnemonic = "debris horn balcony grid search clean wide flat book ceiling require evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom domain donkey actor focus risk tiger eager genre oxygen clump ball";
+var mnemonic = "special weasel write old firm delay glow kind avoid recall easily faint";

@@ -1,1 +1,1 @@
-var mnemonic = "rather again ability expire leaf opinion quarter ten enter resemble hard robust";
+var mnemonic = "intact monitor fatigue absurd safe old write special reform swamp trigger palace";

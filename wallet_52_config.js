@@ -1,1 +1,1 @@
-var mnemonic = "recipe table huge very doctor click brand grass middle erode deposit sting";
+var mnemonic = "power gold dentist drum cat awkward scorpion laptop fiscal wolf destroy mask";

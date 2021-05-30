@@ -1,1 +1,1 @@
-var mnemonic = "number brush upper open destroy replace mule bulk coil drum poverty rookie";
+var mnemonic = "person expand afford panda outdoor deputy silent fancy purity guilt lemon dismiss";

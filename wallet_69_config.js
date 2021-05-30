@@ -1,1 +1,1 @@
-var mnemonic = "balance risk own elite chair vanish couple once large ethics drive quality";
+var mnemonic = "ceiling giggle merit bread quarter hedgehog swear boring inherit oak borrow shadow";

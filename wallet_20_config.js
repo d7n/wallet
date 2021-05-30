@@ -1,1 +1,1 @@
-var mnemonic = "worry timber dry axis kite thunder dolphin select metal indicate solution urge";
+var mnemonic = "rabbit stone hint inmate cinnamon bachelor upgrade say cage hand survey pill";

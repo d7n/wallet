@@ -1,1 +1,1 @@
-var mnemonic = "drip direct blossom element comic engine window problem fame order arm hold";
+var mnemonic = "bargain gaze pig decrease clerk bonus clerk immune cream behave cash solid";

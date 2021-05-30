@@ -1,1 +1,1 @@
-var mnemonic = "valid large duck rival develop tumble develop school portion tortoise swamp remove";
+var mnemonic = "crane parrot comic nose evoke west endorse film napkin eager elite night";

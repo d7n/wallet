@@ -1,1 +1,1 @@
-var mnemonic = "naive bid chronic fuel roast obey army immense round rescue limb unique";
+var mnemonic = "penalty glue girl transfer valid easy whale okay mushroom mixture fox guard";

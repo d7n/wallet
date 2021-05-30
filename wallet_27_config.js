@@ -1,1 +1,1 @@
-var mnemonic = "escape auction result train wide traffic occur atom tag sport endless throw";
+var mnemonic = "expect saddle sort knife tourist enhance bunker crowd crumble table city talent";

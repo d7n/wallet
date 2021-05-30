@@ -1,1 +1,1 @@
-var mnemonic = "promote total mix burden fox wage violin magnet current miss between patch";
+var mnemonic = "afford anxiety just asthma letter axis happy narrow meadow silly balcony cactus";

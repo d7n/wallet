@@ -1,1 +1,1 @@
-var mnemonic = "rifle profit shoe cube gap around feel roof walk eager require oven";
+var mnemonic = "uniform couch hood letter profit fantasy emotion sad useful square beef motion";

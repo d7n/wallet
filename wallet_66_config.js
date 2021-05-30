@@ -1,1 +1,1 @@
-var mnemonic = "caution profit oppose cabbage little genre oblige lonely dolphin balcony never boat";
+var mnemonic = "target crack reduce away liquid please vacant forward fence advice festival review";

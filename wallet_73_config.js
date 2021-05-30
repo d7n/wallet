@@ -1,1 +1,1 @@
-var mnemonic = "token dentist high phrase taxi such poverty course disorder crystal clip wheat";
+var mnemonic = "person brother table notable artwork expose teach reopen dismiss hundred evidence defy";

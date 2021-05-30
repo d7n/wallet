@@ -1,1 +1,1 @@
-var mnemonic = "abandon viable spawn dentist bar eyebrow ahead decline involve season faculty design";
+var mnemonic = "faith feature drill early crush before mention lunar gas silver try phone";

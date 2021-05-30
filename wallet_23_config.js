@@ -1,1 +1,1 @@
-var mnemonic = "nasty rich tip hire diary cattle notable split mixed smoke vapor shoot";
+var mnemonic = "arrow camera resource lyrics lamp prison uncle doll stuff goose correct crew";

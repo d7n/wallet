@@ -1,1 +1,1 @@
-var mnemonic = "owner dice sentence kitchen laundry left domain pepper duty stomach guilt same";
+var mnemonic = "calm kidney van fix jazz shy trend zero present clog sunset pitch";

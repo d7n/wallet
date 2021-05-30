@@ -1,1 +1,1 @@
-var mnemonic = "together month vanish setup student multiply celery craft dust weather blue drama";
+var mnemonic = "still surge middle message smooth candy random notable crane beach fantasy grab";

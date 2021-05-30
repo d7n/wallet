@@ -1,1 +1,1 @@
-var mnemonic = "shield idea fringe glory aunt economy athlete butter click enhance fringe dress";
+var mnemonic = "series plate drink smart frog similar laugh picture leisure minimum galaxy crumble";

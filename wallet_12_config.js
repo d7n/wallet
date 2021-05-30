@@ -1,1 +1,1 @@
-var mnemonic = "spy hover solve worry service gravity fashion inquiry impose labor monster welcome";
+var mnemonic = "egg cave zero aisle grid position pair census transfer shoe easily blast";

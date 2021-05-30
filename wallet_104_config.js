@@ -1,1 +1,1 @@
-var mnemonic = "deer maid neglect drum easily tomorrow artefact clown stove output monkey fire";
+var mnemonic = "art awake parrot clown apart hen shock cabbage broccoli labor fly leaf";

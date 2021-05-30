@@ -1,1 +1,1 @@
-var mnemonic = "vote apple upset sport mix gold leaf snake faith butter cargo floor";
+var mnemonic = "draft search believe better federal cause task rack tent increase ribbon frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin obtain salmon note hunt mind gloom until exhibit orient total humble";
+var mnemonic = "click brief tuna truly clap amount noodle floor sure hollow shop brick";

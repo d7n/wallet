@@ -1,1 +1,1 @@
-var mnemonic = "video tray cushion stove beef clarify napkin return bunker ghost caution diesel";
+var mnemonic = "current include curious lecture fit neutral buyer drive judge zone receive basket";

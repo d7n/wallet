@@ -1,1 +1,1 @@
-var mnemonic = "whale dress dizzy juice few salad glare busy secret city beach demand";
+var mnemonic = "normal jaguar eager like exact vacant minor eight welcome uncover fetch length";

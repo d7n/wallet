@@ -1,1 +1,1 @@
-var mnemonic = "leg play avoid quality match feed skull eagle blanket olive kitchen mask";
+var mnemonic = "notice fade noise decline coin inherit oblige attend grief broken cabin suggest";

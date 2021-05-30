@@ -1,1 +1,1 @@
-var mnemonic = "swarm grass silent lumber tongue swift avocado patch chronic mixture apple help";
+var mnemonic = "friend void volume arch must ethics moral key sound elephant west bundle";

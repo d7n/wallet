@@ -1,1 +1,1 @@
-var mnemonic = "cube hat lawsuit squeeze oxygen shrimp half eager mystery gather grace acquire";
+var mnemonic = "embark laugh super artist check emerge finger mouse teach stairs pattern pond";

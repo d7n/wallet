@@ -1,1 +1,1 @@
-var mnemonic = "case what duck forward planet blouse maid memory witness slim typical hub";
+var mnemonic = "link gossip park floor lucky half hard either sunny artefact penalty seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "chat about surface gentle lens brother confirm crucial result vague always robot";
+var mnemonic = "strong brush gauge spy trumpet cream mountain cigar jacket armor oppose decade";

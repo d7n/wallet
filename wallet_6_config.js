@@ -1,1 +1,1 @@
-var mnemonic = "night category success ritual dignity sustain shift execute owner black possible tape";
+var mnemonic = "write else card wreck film hedgehog various bird bachelor barrel plug hub";

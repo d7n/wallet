@@ -1,1 +1,1 @@
-var mnemonic = "any weasel sail coconut husband shoot blur youth seven tumble bamboo advice";
+var mnemonic = "grunt frozen network find fortune forget split dial neither frame alien strong";

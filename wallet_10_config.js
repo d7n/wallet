@@ -1,1 +1,1 @@
-var mnemonic = "gospel apart ghost barely expect arrange now stable dinosaur gold puzzle nose";
+var mnemonic = "blur web grid burst apart version giant assist teach peace soon hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "practice casual control inner elevator next rubber depth demand popular index shine";
+var mnemonic = "under daring cry burden birth tennis boring labor original mad say cool";

@@ -1,1 +1,1 @@
-var mnemonic = "found monkey donate grief jealous orient equal loan music leaf upper wash";
+var mnemonic = "urge suspect mercy dilemma twin catch fade doll novel raw pyramid jewel";

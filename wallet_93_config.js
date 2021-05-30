@@ -1,1 +1,1 @@
-var mnemonic = "wall actual profit online jealous slogan hard victory flag sign gallery clerk";
+var mnemonic = "funny drama order prepare liar crouch chest umbrella note universe secret exhibit";

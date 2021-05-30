@@ -1,1 +1,1 @@
-var mnemonic = "shell tribe moral express settle mule fork notice earth intact around arch";
+var mnemonic = "soft service input mule grace below dog dove forget music chimney range";

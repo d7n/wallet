@@ -1,1 +1,1 @@
-var mnemonic = "try miss news huge divorce seven absurd practice document puppy column head";
+var mnemonic = "when force woman audit shed chimney blur doll color turtle tourist swamp";

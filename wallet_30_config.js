@@ -1,1 +1,1 @@
-var mnemonic = "swear blast planet valve south rival crouch charge midnight address circle advance";
+var mnemonic = "era organ blast room pizza clinic orchard cattle vibrant chalk ticket husband";

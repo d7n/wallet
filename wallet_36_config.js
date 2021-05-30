@@ -1,1 +1,1 @@
-var mnemonic = "series include spider flame decrease mosquito broom crunch deer broom time cloth";
+var mnemonic = "provide cause detail theme picnic tape able giant biology bean winner legend";

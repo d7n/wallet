@@ -1,1 +1,1 @@
-var mnemonic = "assist home unaware renew inhale soul warm raise enter peanut fame juice";
+var mnemonic = "pattern leader heavy kick shove steak verb again dinner lesson decline pencil";

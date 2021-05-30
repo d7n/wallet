@@ -1,1 +1,1 @@
-var mnemonic = "brave income earn engage inspire praise hobby jealous lunch fork knock behind";
+var mnemonic = "fury hazard direct blast two welcome flat sausage jacket unknown universe mom";

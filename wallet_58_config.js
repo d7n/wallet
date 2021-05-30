@@ -1,1 +1,1 @@
-var mnemonic = "chat drama lunar arrange shed wire remove tape horror era glow transfer";
+var mnemonic = "aerobic umbrella helmet auction poet book symptom grunt voyage exact fetch absorb";

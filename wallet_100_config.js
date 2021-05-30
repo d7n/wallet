@@ -1,1 +1,1 @@
-var mnemonic = "job medal orange infant client skull surface earn school garbage muscle method";
+var mnemonic = "box furnace language page broken palm injury color visual sketch feel uniform";

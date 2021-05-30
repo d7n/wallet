@@ -1,1 +1,1 @@
-var mnemonic = "great carpet ball idle vicious raw giggle session gap cycle domain trophy";
+var mnemonic = "unveil cabbage enroll penalty fiber cake believe echo gift region rally club";

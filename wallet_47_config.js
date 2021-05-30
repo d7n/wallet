@@ -1,1 +1,1 @@
-var mnemonic = "peanut bacon sound differ decrease curious nasty swing leisure rapid improve enforce";
+var mnemonic = "bronze tomorrow equal special practice enroll disagree course mechanic spot beyond actual";

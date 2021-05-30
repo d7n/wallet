@@ -1,1 +1,1 @@
-var mnemonic = "goddess remove congress exile obtain citizen all detect witness interest palace monitor";
+var mnemonic = "equal globe denial scorpion alien daring hospital illness silk couple this bless";

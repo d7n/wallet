@@ -1,1 +1,1 @@
-var mnemonic = "erase orchard surround image pole demise battle obscure immense mix embrace parent";
+var mnemonic = "theory uncle flag expect ostrich lonely sponsor physical fuel middle deliver security";

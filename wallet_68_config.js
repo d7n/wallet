@@ -1,1 +1,1 @@
-var mnemonic = "jewel shallow great face type patient social tenant tissue hub road apart";
+var mnemonic = "drop decade culture leave fashion absent stock tube brown order icon submit";

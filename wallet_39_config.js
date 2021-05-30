@@ -1,1 +1,1 @@
-var mnemonic = "pink oblige hundred arrange link anxiety few solid kitten involve crawl domain";
+var mnemonic = "flip milk whip cat rebuild dentist transfer sibling advance spray auto alpha";

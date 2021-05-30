@@ -1,1 +1,1 @@
-var mnemonic = "cruel public coin culture train crumble allow diet absurd place raise juice";
+var mnemonic = "girl nice orange style oil need hen vendor promote warm brown estate";

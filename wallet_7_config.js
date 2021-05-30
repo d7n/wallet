@@ -1,1 +1,1 @@
-var mnemonic = "oblige room lunar sample life december chronic afford degree recall wait scout";
+var mnemonic = "soldier please quote match again float repair ability puppy wrap abandon dash";

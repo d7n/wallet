@@ -1,1 +1,1 @@
-var mnemonic = "win citizen arm embark wild leave emotion depth subject witness garlic era";
+var mnemonic = "naive chief witness curve useless minute void climb draw excess series enable";

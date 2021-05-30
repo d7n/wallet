@@ -1,1 +1,1 @@
-var mnemonic = "property any throw nasty rain drive child chapter bright vintage grant injury";
+var mnemonic = "shine disorder end frost couple glance pave tourist melody crawl grab burst";

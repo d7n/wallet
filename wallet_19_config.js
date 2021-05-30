@@ -1,1 +1,1 @@
-var mnemonic = "police bind tackle dance anxiety that waste farm thing chase bird consider";
+var mnemonic = "person letter know helmet twist win neutral vendor occur visit undo nuclear";

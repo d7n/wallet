@@ -1,1 +1,1 @@
-var mnemonic = "lobster uphold develop glass satisfy anger unique luxury cry cycle mass galaxy";
+var mnemonic = "amount talent mystery elephant season canyon will knee weird dial perfect snack";

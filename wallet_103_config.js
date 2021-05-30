@@ -1,1 +1,1 @@
-var mnemonic = "census bread taste truly measure eagle shadow weapon belt ordinary index festival";
+var mnemonic = "only hurry fall alley ugly will great forget fresh sail hero noble";

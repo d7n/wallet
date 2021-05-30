@@ -1,1 +1,1 @@
-var mnemonic = "cup order romance earth cross fork cover assist sure hollow guitar make";
+var mnemonic = "goose submit sentence pumpkin sadness pulp galaxy select olympic taste physical client";

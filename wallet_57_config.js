@@ -1,1 +1,1 @@
-var mnemonic = "between patient quantum lend bottom dad artefact exotic ocean drift only engine";
+var mnemonic = "tent capable witness purpose account host emotion genuine electric village uniform plastic";

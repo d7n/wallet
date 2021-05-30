@@ -1,1 +1,1 @@
-var mnemonic = "crucial auction enter flush assume rib loud museum practice metal rival sustain";
+var mnemonic = "mercy tiny picture pave original trash wool loop tenant rabbit unfold scissors";

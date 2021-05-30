@@ -1,1 +1,1 @@
-var mnemonic = "project cable across draft narrow above live injury roast brief iron coral";
+var mnemonic = "process sausage dog now message celery this cousin beyond dizzy become rely";

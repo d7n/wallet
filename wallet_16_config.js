@@ -1,1 +1,1 @@
-var mnemonic = "tower call rug combine tattoo soldier orbit polar exhibit basket year topic";
+var mnemonic = "private clip purse evil barely notice bracket opinion box must dune alert";

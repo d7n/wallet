@@ -1,1 +1,1 @@
-var mnemonic = "simple voyage spin snap swallow skull check close flash number lizard zebra";
+var mnemonic = "marriage scatter settle extra kidney source body ginger bless puppy arrest peanut";

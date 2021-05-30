@@ -1,1 +1,1 @@
-var mnemonic = "bicycle gather logic rug photo great toss curve grunt pencil machine curious";
+var mnemonic = "argue excuse task thought timber almost advice hunt exercise obtain rotate tube";
