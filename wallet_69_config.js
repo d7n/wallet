@@ -1,1 +1,1 @@
-var mnemonic = "they betray tide chapter embody country crucial matrix chunk movie step shed";
+var mnemonic = "era human brush uniform sand fence sign liar dice ranch feature top";

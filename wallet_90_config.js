@@ -1,1 +1,1 @@
-var mnemonic = "lunar omit choose crater square load whisper pluck disease shadow artwork illness";
+var mnemonic = "shallow brass legend female soon man gold nation vanish reduce ability width";

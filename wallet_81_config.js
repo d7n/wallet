@@ -1,1 +1,1 @@
-var mnemonic = "erosion husband roof double ugly mammal salt attend machine cricket nation atom";
+var mnemonic = "until myself release chapter end harsh sentence bamboo wide remove suffer dust";

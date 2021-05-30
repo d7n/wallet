@@ -1,1 +1,1 @@
-var mnemonic = "lobster forget civil thumb chat obscure foot patch diary skirt green weather";
+var mnemonic = "dutch number vital shoot pave illness wise measure smile eager maple maze";

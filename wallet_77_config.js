@@ -1,1 +1,1 @@
-var mnemonic = "wheel repair bundle bracket rare defy radio addict garage join job defense";
+var mnemonic = "street exchange border when skull beach vicious grid train coast cricket tape";

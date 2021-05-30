@@ -1,1 +1,1 @@
-var mnemonic = "slight jacket chair web pudding card urban arch spare zoo turtle stick";
+var mnemonic = "shiver december ranch pulp abuse remain return live kind noble flower egg";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal west spider tell true member feed smooth wrist sketch much cute";
+var mnemonic = "toast engage virus notice pipe crash congress sentence sketch illegal mother have";

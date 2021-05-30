@@ -1,1 +1,1 @@
-var mnemonic = "salmon small client buddy rally trap cactus idle guitar wonder ignore dust";
+var mnemonic = "woman movie purity select know then faith cart captain story uphold click";

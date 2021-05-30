@@ -1,1 +1,1 @@
-var mnemonic = "fresh engage print mango else sleep cactus taxi humor because squirrel act";
+var mnemonic = "label brother render alien alpha lion tongue race marble athlete figure chair";

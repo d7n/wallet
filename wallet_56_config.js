@@ -1,1 +1,1 @@
-var mnemonic = "much aerobic chimney increase stomach rigid aware broken have endorse choice destroy";
+var mnemonic = "dwarf surge tennis unique diary clock core grab any hood cycle observe";

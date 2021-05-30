@@ -1,1 +1,1 @@
-var mnemonic = "chimney margin tornado arrange tattoo bind base tortoise nominee love tail belt";
+var mnemonic = "interest security joke random smoke abandon link faint front foil push ugly";

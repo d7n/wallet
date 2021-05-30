@@ -1,1 +1,1 @@
-var mnemonic = "scale battle regular unveil van depend usage dose domain lawsuit poet hammer";
+var mnemonic = "hero idle above among path traffic split blade mutual diary indicate dream";

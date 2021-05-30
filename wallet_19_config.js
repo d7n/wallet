@@ -1,1 +1,1 @@
-var mnemonic = "panda daring spike fade amateur utility galaxy matter guard enrich walnut steak";
+var mnemonic = "slim window bullet depart piece enable muffin bring cousin fiscal assist detail";

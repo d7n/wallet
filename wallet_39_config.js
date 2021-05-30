@@ -1,1 +1,1 @@
-var mnemonic = "soup dress grunt live there sheriff feature science student payment eye whale";
+var mnemonic = "tornado sense media paper metal foam pioneer myth couch inner walnut acquire";

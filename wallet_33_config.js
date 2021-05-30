@@ -1,1 +1,1 @@
-var mnemonic = "area empower fetch unlock voyage faculty crater suit make tail ready better";
+var mnemonic = "blood giant fever able inquiry cool dilemma congress source detect produce pole";

@@ -1,1 +1,1 @@
-var mnemonic = "sword shield name major muscle replace search voyage measure approve assist finish";
+var mnemonic = "lobster card oyster hat cactus canvas home plastic cheap wish scissors tired";

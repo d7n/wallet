@@ -1,1 +1,1 @@
-var mnemonic = "sail cheese notice impose select nerve fiscal diamond jar attitude claim glad";
+var mnemonic = "acid hotel forum have impose december clinic tackle olympic whisper concert burger";

@@ -1,1 +1,1 @@
-var mnemonic = "view noise force antique belt very very begin leader shop trim direct";
+var mnemonic = "hair video blanket game venue august describe shiver title author shoulder foster";

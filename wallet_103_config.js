@@ -1,1 +1,1 @@
-var mnemonic = "topple fabric prefer choose garden cable climb eternal clean canvas six hundred";
+var mnemonic = "sun team ripple despair wet green shaft august sister enough jaguar nasty";

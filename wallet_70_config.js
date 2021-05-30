@@ -1,1 +1,1 @@
-var mnemonic = "travel woman dolphin boost title wrong stay armor eye stadium unique together";
+var mnemonic = "open local inmate few warm ahead school arrow soon fresh three knife";

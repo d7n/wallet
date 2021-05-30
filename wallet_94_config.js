@@ -1,1 +1,1 @@
-var mnemonic = "save cliff weekend method okay magic carbon output police sunny bicycle sing";
+var mnemonic = "beach inspire ecology female asthma promote ability want real attract top bulb";

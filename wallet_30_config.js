@@ -1,1 +1,1 @@
-var mnemonic = "spot obvious reflect kite steel goddess slot round scheme amateur drum pudding";
+var mnemonic = "proof saddle soccer student wink lake boat defense cactus dog heart space";

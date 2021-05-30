@@ -1,1 +1,1 @@
-var mnemonic = "various used chapter blood ignore screen organ seat then much wheel left";
+var mnemonic = "bus rice cradle token buddy afraid grow peace fan prevent agent glimpse";

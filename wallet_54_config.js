@@ -1,1 +1,1 @@
-var mnemonic = "suggest ready off board job phone rate kiwi wire prize hollow coil";
+var mnemonic = "system tomato collect mystery family tortoise labor blossom draft catalog humble kick";

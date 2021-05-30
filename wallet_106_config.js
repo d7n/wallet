@@ -1,1 +1,1 @@
-var mnemonic = "idle drop occur two program shrug lion iron genuine embody robot crouch";
+var mnemonic = "spend jealous grant student dilemma veteran biology pelican never strike orbit betray";

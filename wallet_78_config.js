@@ -1,1 +1,1 @@
-var mnemonic = "quick icon try park roast cool fringe rule fashion elegant arctic fitness";
+var mnemonic = "gate jelly capital they net holiday arch fly ocean place brisk ship";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose ritual profit evil auction snap enable hold crumble mass corn final";
+var mnemonic = "spoon stumble element orbit puppy pride object manual worth trip health stool";

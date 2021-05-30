@@ -1,1 +1,1 @@
-var mnemonic = "sun buddy vintage lesson vehicle winter ring lion position hollow syrup above";
+var mnemonic = "onion craft pause salmon demise drum month calm pumpkin diet fortune report";

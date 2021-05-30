@@ -1,1 +1,1 @@
-var mnemonic = "ramp kitten bomb ribbon twin tornado avocado genuine afford rival accuse present";
+var mnemonic = "aisle month valid topic gain elite nothing wrap disagree poem often health";

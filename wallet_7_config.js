@@ -1,1 +1,1 @@
-var mnemonic = "usage leader transfer ability opera subway team great remind convince short brush";
+var mnemonic = "farm day certain virus payment attract heavy release pass quote fix extend";

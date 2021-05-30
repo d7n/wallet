@@ -1,1 +1,1 @@
-var mnemonic = "pear lucky guess grow proud gaze nature sibling intact upset game van";
+var mnemonic = "enhance exile shrimp draft plug twenty hotel cradle vague pupil spider divorce";

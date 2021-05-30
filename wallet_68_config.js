@@ -1,1 +1,1 @@
-var mnemonic = "tip race federal prosper nation wrist picture advice impulse level puppy train";
+var mnemonic = "stand captain ceiling place library shoot erode hub bar raven energy enroll";

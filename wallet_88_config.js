@@ -1,1 +1,1 @@
-var mnemonic = "impulse goose wrestle ridge hold gown route achieve abandon wonder major patrol";
+var mnemonic = "pave inject reject wonder leave slice tattoo wheel please web survey acquire";

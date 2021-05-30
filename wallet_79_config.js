@@ -1,1 +1,1 @@
-var mnemonic = "crew normal diary bulk hobby surge neck diet weasel chapter plastic focus";
+var mnemonic = "car critic tumble margin critic daring bamboo pottery often before antenna easy";

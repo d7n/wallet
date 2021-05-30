@@ -1,1 +1,1 @@
-var mnemonic = "fossil push chimney raven grit pig regret smart sand skull term gravity";
+var mnemonic = "myself fade keep where endorse pudding powder person slice memory half dad";

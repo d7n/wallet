@@ -1,1 +1,1 @@
-var mnemonic = "dragon peasant burger husband anchor useful sign cargo hospital reason bitter vivid";
+var mnemonic = "potato sea pull gauge diet fame cost actual gap stove venue empower";

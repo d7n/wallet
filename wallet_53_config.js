@@ -1,1 +1,1 @@
-var mnemonic = "nest waste fatigue then position coast reopen palace team juice area stay";
+var mnemonic = "left tongue palm annual soon couple feature loan abandon target truly dash";

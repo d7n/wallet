@@ -1,1 +1,1 @@
-var mnemonic = "rail head devote rifle treat company sun drip useless clerk flight mass";
+var mnemonic = "ensure olympic pass soldier august palace scout aisle depart purchase minor over";

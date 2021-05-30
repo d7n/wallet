@@ -1,1 +1,1 @@
-var mnemonic = "glad hand barely supreme lottery solid warm dwarf trouble pen lawsuit ask";
+var mnemonic = "relax term tackle success pretty abandon way recall spend draft normal squeeze";

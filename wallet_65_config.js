@@ -1,1 +1,1 @@
-var mnemonic = "satoshi trend shy defy allow harvest rebel board parrot ghost usual moment";
+var mnemonic = "size casino pen design daring weird else tornado boost confirm electric venue";

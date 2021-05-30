@@ -1,1 +1,1 @@
-var mnemonic = "claim sail reform already execute slush net obscure rude boost first outer";
+var mnemonic = "use unfold then orchard another payment prosper width enable clap chef forward";

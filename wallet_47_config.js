@@ -1,1 +1,1 @@
-var mnemonic = "judge quiz vibrant pluck human legend level fly floor lens enroll west";
+var mnemonic = "life prevent assist where lobster cycle athlete salute hill pear merit canoe";

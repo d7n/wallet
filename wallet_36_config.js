@@ -1,1 +1,1 @@
-var mnemonic = "outdoor six legend enrich dawn stock around permit network strong bless trick";
+var mnemonic = "actress cash stamp alpha father cave marriage immune rack silent install praise";

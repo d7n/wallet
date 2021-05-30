@@ -1,1 +1,1 @@
-var mnemonic = "design angry surface hollow glass tornado radio tooth twin false chaos loan";
+var mnemonic = "trim term typical bicycle grant auction view calm drift feed screen curious";

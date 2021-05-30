@@ -1,1 +1,1 @@
-var mnemonic = "follow eye focus grunt wave net primary ancient jungle silk moral history";
+var mnemonic = "attend east kangaroo awesome actor affair sniff hammer kid culture horn logic";

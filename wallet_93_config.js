@@ -1,1 +1,1 @@
-var mnemonic = "logic rally bomb feed own joy ranch blind valley kid pupil prosper";
+var mnemonic = "pumpkin fury stove relax turtle neither alone such asthma honey diamond horn";

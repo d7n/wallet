@@ -1,1 +1,1 @@
-var mnemonic = "amateur patch crucial upgrade copy chronic apology axis fat image tuna return";
+var mnemonic = "keen boy erode smoke cement source mandate thumb sea history fan green";

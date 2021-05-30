@@ -1,1 +1,1 @@
-var mnemonic = "riot skull goose small great embrace envelope crisp spring toe wild divorce";
+var mnemonic = "wage more roof fence ship uncover disease pride honey amateur isolate foot";

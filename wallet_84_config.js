@@ -1,1 +1,1 @@
-var mnemonic = "ridge settle exchange piece mail wasp all clutch remind until ski humble";
+var mnemonic = "gather artist neglect secret balance noodle sphere success release narrow grit romance";

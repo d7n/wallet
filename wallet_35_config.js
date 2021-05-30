@@ -1,1 +1,1 @@
-var mnemonic = "girl sell mechanic priority task pluck endorse attend across jungle pulse verb";
+var mnemonic = "coconut slogan amazing vote kidney skin pony basic extend month omit south";

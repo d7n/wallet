@@ -1,1 +1,1 @@
-var mnemonic = "wool burger credit chair fall typical alien charge kitchen rigid ramp vessel";
+var mnemonic = "clog mention leg there repair athlete shine tooth glass pepper dirt dance";

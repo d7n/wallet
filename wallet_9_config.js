@@ -1,1 +1,1 @@
-var mnemonic = "battle hotel diesel flag amateur mercy leopard icon alert plug regular region";
+var mnemonic = "rebuild ostrich social hello annual doctor party match power effort city tomorrow";

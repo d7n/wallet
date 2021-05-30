@@ -1,1 +1,1 @@
-var mnemonic = "victory click holiday observe bus adult blast whale allow grant simple smoke";
+var mnemonic = "image squeeze police method nominee protect pear used blur effort perfect love";

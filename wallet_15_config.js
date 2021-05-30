@@ -1,1 +1,1 @@
-var mnemonic = "false chicken silent warm question crush curtain census view sell round such";
+var mnemonic = "giraffe emotion parrot cannon dolphin crouch follow veteran galaxy identify own bamboo";

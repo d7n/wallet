@@ -1,1 +1,1 @@
-var mnemonic = "notice flock almost opera layer fork alarm monster symbol engage resemble edit";
+var mnemonic = "shop write ripple know you local rebel expand over spirit what winner";

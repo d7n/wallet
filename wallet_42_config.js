@@ -1,1 +1,1 @@
-var mnemonic = "fame salon discover truly duty latin little reopen merge similar crisp motion";
+var mnemonic = "setup guilt woman print private toward goat stuff firm throw body little";

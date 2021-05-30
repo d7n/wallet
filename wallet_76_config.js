@@ -1,1 +1,1 @@
-var mnemonic = "ahead jar vibrant drastic void retire demand easily cool soap gospel bar";
+var mnemonic = "people royal erode company double case affair umbrella assault audit screen truly";

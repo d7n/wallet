@@ -1,1 +1,1 @@
-var mnemonic = "sting sausage toddler hurry wine feature lady resource labor mother way palace";
+var mnemonic = "fiber radar mushroom demise crumble wage infant column brother island bread like";

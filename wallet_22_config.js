@@ -1,1 +1,1 @@
-var mnemonic = "stay around naive music amount sock energy between lab identify solar message";
+var mnemonic = "pepper sound kiwi sail vendor bullet blossom donkey promote piece option month";

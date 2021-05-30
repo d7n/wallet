@@ -1,1 +1,1 @@
-var mnemonic = "cycle people device penalty fire world huge neither stumble choice invite squeeze";
+var mnemonic = "fit before pluck siege bicycle duck panda person teach pulp voyage juice";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb sing toast group cook limb pond cupboard dream wool ignore quote";
+var mnemonic = "once recycle glove phone put gas later peace giggle answer accuse trip";

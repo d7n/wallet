@@ -1,1 +1,1 @@
-var mnemonic = "inspire cover dentist decade film vote catalog punch trumpet balance long indicate";
+var mnemonic = "exhaust gate swim speed wear split aware merge elegant mimic melody cool";

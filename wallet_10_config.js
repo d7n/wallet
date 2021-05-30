@@ -1,1 +1,1 @@
-var mnemonic = "turtle rifle soft delay gym welcome salad stay elbow album force old";
+var mnemonic = "price aunt cruel apple dune attend logic cement infant seat ahead glue";

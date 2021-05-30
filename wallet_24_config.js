@@ -1,1 +1,1 @@
-var mnemonic = "cook share mistake cake maid swing stick color hockey nephew feel sunny";
+var mnemonic = "trash vital gown increase marble radar cement steel pact soft tragic giant";

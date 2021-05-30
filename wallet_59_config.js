@@ -1,1 +1,1 @@
-var mnemonic = "enough fetch window cross truly slam coast winner twin jewel agent jealous";
+var mnemonic = "town boy wrist possible decade among toe frequent rib duty viable note";

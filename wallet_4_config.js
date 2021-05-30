@@ -1,1 +1,1 @@
-var mnemonic = "tobacco brown relax wife custom quick chuckle kid donor flock require weird";
+var mnemonic = "problem clap source capable opinion smooth pipe symptom blame crucial tattoo mimic";

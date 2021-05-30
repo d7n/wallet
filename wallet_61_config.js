@@ -1,1 +1,1 @@
-var mnemonic = "spy parent detail quarter satisfy clutch farm banner impulse walk exchange gentle";
+var mnemonic = "kiwi tube venture envelope subject leave valve foot lend hunt brush enemy";

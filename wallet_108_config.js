@@ -1,1 +1,1 @@
-var mnemonic = "issue name certain meat toward such race casual spider pill risk unfold";
+var mnemonic = "task category steak notice bamboo annual crane stove struggle hair churn scale";

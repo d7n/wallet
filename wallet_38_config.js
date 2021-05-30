@@ -1,1 +1,1 @@
-var mnemonic = "evidence napkin half prize ten neck miracle tennis true spend tag meadow";
+var mnemonic = "hint frame much sun engage trigger globe cigar discover melt polar twelve";

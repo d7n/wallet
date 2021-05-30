@@ -1,1 +1,1 @@
-var mnemonic = "found ritual purse sudden dirt firm lava van race wife endless topple";
+var mnemonic = "room shaft alone recycle good enemy tunnel hockey connect trophy endless utility";

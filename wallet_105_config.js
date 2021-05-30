@@ -1,1 +1,1 @@
-var mnemonic = "curve lens stereo prefer orange mobile nurse acid perfect vendor suspect swear";
+var mnemonic = "beef group rocket age sunset aisle lesson surround chaos ancient fish bracket";

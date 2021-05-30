@@ -1,1 +1,1 @@
-var mnemonic = "shrimp crime erode cute kind law marble taxi law bomb phrase bracket";
+var mnemonic = "bamboo language dial satoshi dumb tiny hamster check bike combine repair labor";

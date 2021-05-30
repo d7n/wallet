@@ -1,1 +1,1 @@
-var mnemonic = "spread maze movie cage crouch cover road cycle invest stool mistake benefit";
+var mnemonic = "drastic goat spice suffer salad eagle group near silly loud rhythm busy";

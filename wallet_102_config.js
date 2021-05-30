@@ -1,1 +1,1 @@
-var mnemonic = "child magic chimney way orange onion upon honey ordinary only east foot";
+var mnemonic = "call chapter april trophy artist ahead predict ice deliver alarm fit used";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket better axis ask toy raw exotic next cloud mistake priority carbon";
+var mnemonic = "aerobic faint economy improve autumn season true turkey there pear wood sport";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz palace glide polar swift devote brother holiday goat nerve expect insect";
+var mnemonic = "pretty snow depart seminar mosquito fancy nose celery panic caution fever pretty";

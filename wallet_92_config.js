@@ -1,1 +1,1 @@
-var mnemonic = "naive claim pyramid position impose pact gaze range canal paddle bridge goat";
+var mnemonic = "party pretty gap float unfold tennis wish cube wave obey olympic stove";

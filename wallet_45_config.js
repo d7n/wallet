@@ -1,1 +1,1 @@
-var mnemonic = "fashion bind vast language donate dream furnace person boss amateur raccoon access";
+var mnemonic = "lift borrow vehicle suit situate this prefer income cram sport knee peasant";

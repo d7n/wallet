@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bicycle comfort waste can denial forward gospel urban lounge taste ecology";
+var mnemonic = "gesture case price wife quality bridge flavor frame code dinosaur absent all";

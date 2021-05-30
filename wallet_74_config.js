@@ -1,1 +1,1 @@
-var mnemonic = "hope certain powder upon since tribe segment together spider wedding ocean rail";
+var mnemonic = "magnet plate speak wet guard enforce capable ugly fun half bounce trigger";

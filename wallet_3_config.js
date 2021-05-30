@@ -1,1 +1,1 @@
-var mnemonic = "drop kitten police flip stomach fluid enroll aware grape across balance chaos";
+var mnemonic = "tool desk census december ski security insect exit regret bright wish feature";

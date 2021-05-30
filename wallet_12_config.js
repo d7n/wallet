@@ -1,1 +1,1 @@
-var mnemonic = "enlist thank middle salmon way modify ozone jewel humor vintage key cool";
+var mnemonic = "airport brother powder disagree scheme sister erosion elbow energy frequent pond stereo";
