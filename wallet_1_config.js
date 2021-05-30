@@ -1,1 +1,1 @@
-var mnemonic = "law energy bulk expand omit credit quick reunion view typical coil public";
+var mnemonic = "web duty hello gold scrub pet tomato truly calm topple evil treat";

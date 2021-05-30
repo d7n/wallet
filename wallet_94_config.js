@@ -1,1 +1,1 @@
-var mnemonic = "catch bicycle curious casino coconut sport bulk huge tonight giggle humble vague";
+var mnemonic = "dolphin motion icon oval grunt supreme devote bomb betray off expand worry";

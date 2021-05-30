@@ -1,1 +1,1 @@
-var mnemonic = "grid taxi mad valid example any judge earth cycle excess avocado cancel";
+var mnemonic = "guitar situate venture victory popular gesture sense top liquid twist drink either";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing hold fuel daughter mandate river endless between kitchen long regret permit";
+var mnemonic = "consider village camera mandate want zero exact churn rule tomato good area";

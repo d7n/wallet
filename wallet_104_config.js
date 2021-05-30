@@ -1,1 +1,1 @@
-var mnemonic = "phone fold shoulder bird march chief move brief group canoe steel planet";
+var mnemonic = "address infant air glow squeeze prefer couple bag loop fantasy avoid pass";

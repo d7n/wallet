@@ -1,1 +1,1 @@
-var mnemonic = "axis alarm thought caution speed metal memory skate destroy dose eagle income";
+var mnemonic = "convince boat peanut elder novel aisle give raccoon snow belt tenant arrive";

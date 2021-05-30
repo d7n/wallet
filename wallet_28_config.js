@@ -1,1 +1,1 @@
-var mnemonic = "market connect lawn net hobby cricket story network cash food typical error";
+var mnemonic = "bird kingdom lecture virus mean maple excuse fee asthma ketchup insect rare";

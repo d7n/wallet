@@ -1,1 +1,1 @@
-var mnemonic = "source dignity trouble okay nerve release cloud segment hungry payment fatigue educate";
+var mnemonic = "derive middle intact version force palace toddler equip account panther april bomb";

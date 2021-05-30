@@ -1,1 +1,1 @@
-var mnemonic = "weapon there pen mammal arena cat rib defense mouse wire detail alcohol";
+var mnemonic = "annual crash want render coyote smart boss monitor pigeon assume bone february";

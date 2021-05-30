@@ -1,1 +1,1 @@
-var mnemonic = "normal story author anxiety elbow solid catch audit near toddler awful park";
+var mnemonic = "flame brand ability survey region helmet spend reason heart wreck coral source";

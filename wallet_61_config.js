@@ -1,1 +1,1 @@
-var mnemonic = "slender clip model champion solid eye race auto razor town torch erosion";
+var mnemonic = "cat wave vehicle athlete brick ripple dance toss gift member work foam";

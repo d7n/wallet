@@ -1,1 +1,1 @@
-var mnemonic = "penalty leaf warm valley multiply tooth double arrow genre whip woman obvious";
+var mnemonic = "aspect much reduce pluck scrap tumble easily youth cost when genre treat";

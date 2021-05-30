@@ -1,1 +1,1 @@
-var mnemonic = "company smart knee update erase picture carbon mixture model correct emotion buddy";
+var mnemonic = "power pottery vicious romance defy melt afford pulp poem garbage midnight page";

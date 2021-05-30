@@ -1,1 +1,1 @@
-var mnemonic = "ivory also try unable erase swing west lawn dolphin squeeze first avocado";
+var mnemonic = "sheriff portion one sorry shy harvest debate obscure parade rate final loud";

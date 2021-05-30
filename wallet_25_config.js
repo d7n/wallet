@@ -1,1 +1,1 @@
-var mnemonic = "feed item tape input piano pull east hero pill marriage bar critic";
+var mnemonic = "travel media hen lecture purchase foster stuff airport timber install unfair gadget";

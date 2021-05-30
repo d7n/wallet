@@ -1,1 +1,1 @@
-var mnemonic = "nominee speed final used link lawn knife mobile current cram desert narrow";
+var mnemonic = "pool twelve hurt slot day limb address choose someone exchange filter virtual";

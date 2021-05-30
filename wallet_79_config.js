@@ -1,1 +1,1 @@
-var mnemonic = "fat word frown early indoor music blanket convince poverty vintage side whisper";
+var mnemonic = "nuclear truth rabbit alone mass target hollow forum jelly anxiety slot cash";

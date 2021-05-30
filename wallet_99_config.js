@@ -1,1 +1,1 @@
-var mnemonic = "castle brain side six limb attitude one flat sunset enroll autumn canal";
+var mnemonic = "clump leader artefact acid vicious beauty bird inflict sea sleep foot already";

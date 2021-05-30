@@ -1,1 +1,1 @@
-var mnemonic = "trend robot daughter invest human eyebrow cinnamon minute fabric outside cave add";
+var mnemonic = "spring duty throw remember stone cable need since two hockey raven sight";

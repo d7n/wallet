@@ -1,1 +1,1 @@
-var mnemonic = "rhythm episode target involve alley tongue wall security theory gift cruel sleep";
+var mnemonic = "art rail foil shift desk release couch focus smart speed auction talent";

@@ -1,1 +1,1 @@
-var mnemonic = "team surround caution base claw popular ticket dizzy law birth project apology";
+var mnemonic = "tunnel gorilla cute draw organ talk stone canal abandon problem cat vague";

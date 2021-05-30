@@ -1,1 +1,1 @@
-var mnemonic = "imitate method view run pen silver wasp finger talk tortoise trick cube";
+var mnemonic = "fruit artefact drift team vehicle reason blouse obvious change aware column shed";

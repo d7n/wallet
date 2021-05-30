@@ -1,1 +1,1 @@
-var mnemonic = "slight group predict nice apart library special tank razor middle embrace grief";
+var mnemonic = "arrow wave lawn update purity party juice crouch silly jeans physical twist";

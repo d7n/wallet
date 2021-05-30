@@ -1,1 +1,1 @@
-var mnemonic = "assume humble hip bench donate siege task please anger basic car road";
+var mnemonic = "tackle comfort spirit crime gap paddle welcome couch atom enrich unable minute";

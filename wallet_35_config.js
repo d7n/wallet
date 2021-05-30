@@ -1,1 +1,1 @@
-var mnemonic = "wine infant distance equip aisle marine olive whip amused country ahead double";
+var mnemonic = "lock sport put eagle escape flower auction parade hollow aspect attitude decorate";

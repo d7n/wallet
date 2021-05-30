@@ -1,1 +1,1 @@
-var mnemonic = "camp amount index achieve crash caught inquiry ten play muscle transfer tomorrow";
+var mnemonic = "swift oxygen coffee alley favorite peace second daughter pattern choice wire anger";

@@ -1,1 +1,1 @@
-var mnemonic = "viable practice oak uncle naive lucky task enemy album bag split inner";
+var mnemonic = "lecture battle wrong lemon civil caught candy keen crucial heavy improve budget";

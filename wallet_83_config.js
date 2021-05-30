@@ -1,1 +1,1 @@
-var mnemonic = "live veteran drill quiz together leader lift century fan treat sword recycle";
+var mnemonic = "attack alert extra hire sketch calm ghost polar airport life short wire";

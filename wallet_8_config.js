@@ -1,1 +1,1 @@
-var mnemonic = "imitate toss kiss derive chuckle add tiny trophy direct hamster cover conduct";
+var mnemonic = "merry gift ancient stomach language general august chuckle ramp cattle spot gossip";

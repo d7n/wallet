@@ -1,1 +1,1 @@
-var mnemonic = "judge honey sausage across vague boy hidden box tumble segment equal behave";
+var mnemonic = "affair nothing basic card harsh ghost pause tornado mango method choice allow";

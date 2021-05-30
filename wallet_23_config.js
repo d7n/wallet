@@ -1,1 +1,1 @@
-var mnemonic = "trigger crucial refuse toy any spot kitten lock mention fringe large resist";
+var mnemonic = "account argue make shaft garment tape gift cereal tortoise coffee aisle wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "episode able jaguar genre draw funny flight second gossip quick kidney differ";
+var mnemonic = "huge clog divide wood slim rule science birth dune shine voice sell";

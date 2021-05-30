@@ -1,1 +1,1 @@
-var mnemonic = "lumber nation agent planet craft cricket spray barely maple once only light";
+var mnemonic = "food slow skill history ghost general cup ranch link nest wolf replace";

@@ -1,1 +1,1 @@
-var mnemonic = "bright disorder observe prepare human regular opinion smile waste erase outer member";
+var mnemonic = "rose cause lady pencil donor hood runway charge veteran sniff detect tobacco";

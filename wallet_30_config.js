@@ -1,1 +1,1 @@
-var mnemonic = "dragon reveal stool bullet future dismiss increase vendor fame hello jungle dance";
+var mnemonic = "hill frame peanut catch ride warm robot youth place culture judge cube";

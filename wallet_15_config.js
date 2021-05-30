@@ -1,1 +1,1 @@
-var mnemonic = "fence extra survey whisper apart tent brush swing timber endorse industry pitch";
+var mnemonic = "call trade able window roast silent business exclude dress water degree time";

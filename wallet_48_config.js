@@ -1,1 +1,1 @@
-var mnemonic = "moral remember idle rubber evidence real pet mistake increase practice embark belt";
+var mnemonic = "motor syrup quick tuna piano mercy output wide swift genuine victory lizard";

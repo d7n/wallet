@@ -1,1 +1,1 @@
-var mnemonic = "ball impose dinner review example floor peanut hamster north quiz video curtain";
+var mnemonic = "solid oxygen device spice science kidney jazz toward close gauge social system";

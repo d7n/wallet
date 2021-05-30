@@ -1,1 +1,1 @@
-var mnemonic = "ignore oxygen first trash dress loud claim pony diesel bicycle client void";
+var mnemonic = "erode never exile acid ball match isolate bind all express humor town";

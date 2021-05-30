@@ -1,1 +1,1 @@
-var mnemonic = "slab alert concert detail enact curious shove private couple vehicle vote habit";
+var mnemonic = "goose hip venue marriage reopen provide wasp conduct since youth mix luggage";

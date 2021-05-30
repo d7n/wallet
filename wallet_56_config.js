@@ -1,1 +1,1 @@
-var mnemonic = "drastic monitor album drive toss neglect tray almost zebra husband clip special";
+var mnemonic = "waste faith cart soda square brisk laptop casual patch combine twice recall";

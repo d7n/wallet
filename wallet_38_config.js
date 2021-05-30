@@ -1,1 +1,1 @@
-var mnemonic = "shrimp heavy response lumber armor ice chase vintage bundle salt among skill";
+var mnemonic = "know hard dignity venture rain evidence enact monster hip engine enhance mesh";

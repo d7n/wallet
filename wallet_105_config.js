@@ -1,1 +1,1 @@
-var mnemonic = "mass evidence satisfy multiply level vapor express switch cover castle ritual man";
+var mnemonic = "random eternal fame pride noise label action supply castle wing embark casino";

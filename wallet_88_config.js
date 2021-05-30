@@ -1,1 +1,1 @@
-var mnemonic = "random switch suspect below lamp track extra hungry oxygen corn snake flock";
+var mnemonic = "appear frog echo spoil alone rail direct coyote youth crush habit barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "leave world reunion carry code hold worry melt guitar collect virus laundry";
+var mnemonic = "donkey forest shine join wing need burst grace nephew tribe still drama";

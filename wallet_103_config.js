@@ -1,1 +1,1 @@
-var mnemonic = "fitness gospel chalk caught bubble also front anxiety runway excuse siren old";
+var mnemonic = "quarter six wait satoshi stick miss fox hospital guide hazard joke scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "best broom need frog left clap build snow chimney express response exercise";
+var mnemonic = "eagle zebra sure scorpion disease work route ceiling guess tornado spice roast";

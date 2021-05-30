@@ -1,1 +1,1 @@
-var mnemonic = "laptop jar ghost print march whip ugly light squirrel dice aspect soup";
+var mnemonic = "shiver very loan speak cube enable cram found case palace misery prison";

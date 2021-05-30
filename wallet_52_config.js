@@ -1,1 +1,1 @@
-var mnemonic = "mixture awesome guilt unhappy trash tragic jewel segment trade citizen maze shove";
+var mnemonic = "grace sun winter prize rookie minimum tray april donkey eager common giant";

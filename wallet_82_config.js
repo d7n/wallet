@@ -1,1 +1,1 @@
-var mnemonic = "shoe script online emotion claim equip wish perfect joke federal split banner";
+var mnemonic = "marble fog tag before correct junior doll bridge curious release valve silk";

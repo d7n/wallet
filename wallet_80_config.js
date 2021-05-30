@@ -1,1 +1,1 @@
-var mnemonic = "table display lottery usual idea trap during tray inform whip primary maple";
+var mnemonic = "oxygen torch human ginger salute obscure nothing silent sentence eager hungry swarm";

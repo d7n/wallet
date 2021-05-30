@@ -1,1 +1,1 @@
-var mnemonic = "seek cabbage fuel vintage labor aunt aware wine custom surround pilot foam";
+var mnemonic = "recycle purpose topple laptop level sentence acquire foot lawsuit illegal weasel sausage";

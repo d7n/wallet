@@ -1,1 +1,1 @@
-var mnemonic = "curve meadow globe tilt ask skate nest airport tissue insect width lonely";
+var mnemonic = "message cash awesome cabbage quarter jewel toe worry diagram network open bike";

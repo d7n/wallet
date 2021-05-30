@@ -1,1 +1,1 @@
-var mnemonic = "grow near lock ship please mail steel essay worth discover tuition ten";
+var mnemonic = "album balance wing runway call bounce lounge wise moon seat planet describe";

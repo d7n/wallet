@@ -1,1 +1,1 @@
-var mnemonic = "term glove any kind expand enact ocean proud nest hockey run table";
+var mnemonic = "pear mango garden digital clean power sweet deny remind orchard swarm coyote";

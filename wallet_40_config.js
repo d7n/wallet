@@ -1,1 +1,1 @@
-var mnemonic = "vicious acoustic chronic edit onion order stairs evil number stumble smart armed";
+var mnemonic = "control second clay antenna cotton add heavy vault cliff wood smart glory";

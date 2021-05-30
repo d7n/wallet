@@ -1,1 +1,1 @@
-var mnemonic = "muffin found apart announce wall judge crop name poet season solve skull";
+var mnemonic = "excess ketchup public void mammal army test room ancient always cat judge";

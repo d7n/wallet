@@ -1,1 +1,1 @@
-var mnemonic = "diary grape oyster relief trophy coyote link glad drift sketch normal laugh";
+var mnemonic = "void theme luxury spread gym item noble exotic recycle brand weasel lesson";

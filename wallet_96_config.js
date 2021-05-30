@@ -1,1 +1,1 @@
-var mnemonic = "digital rely quit auto amateur caught choice powder boil gown job warfare";
+var mnemonic = "soda south symptom curious absurd gain case ostrich armed garden confirm vibrant";

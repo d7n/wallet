@@ -1,1 +1,1 @@
-var mnemonic = "sunny always lend assault earn glue very course add light mixed october";
+var mnemonic = "coyote hire elbow clean type already dentist faith true enlist dove echo";

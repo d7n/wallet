@@ -1,1 +1,1 @@
-var mnemonic = "possible style teach tree orphan soda bachelor scheme auction robust avoid tone";
+var mnemonic = "romance brass strategy frog olympic office prize explain figure upset rate quiz";

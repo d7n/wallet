@@ -1,1 +1,1 @@
-var mnemonic = "increase assault blame speed denial same rose atom police mandate gate dose";
+var mnemonic = "little couple youth blood impulse crush visual cruise couple swallow crucial surprise";

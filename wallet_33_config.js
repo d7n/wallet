@@ -1,1 +1,1 @@
-var mnemonic = "hospital blind various innocent attend luggage voyage ripple holiday velvet isolate toilet";
+var mnemonic = "bundle cannon mercy inherit state pink hockey become olive scissors raw movie";

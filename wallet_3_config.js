@@ -1,1 +1,1 @@
-var mnemonic = "pistol lens between arch pole lottery scene enroll forum skate learn cycle";
+var mnemonic = "choice present toast derive term exercise trick room skate fossil episode genre";

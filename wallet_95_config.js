@@ -1,1 +1,1 @@
-var mnemonic = "census daring moon immune nest spend just wagon join define alarm cupboard";
+var mnemonic = "math attitude feel tired elevator panda wing fruit cinnamon always vapor plate";

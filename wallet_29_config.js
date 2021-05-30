@@ -1,1 +1,1 @@
-var mnemonic = "area tooth average win bronze transfer rough inquiry rural visa program warm";
+var mnemonic = "medal speak squirrel basic flat drink mention hat soap indicate balance cram";

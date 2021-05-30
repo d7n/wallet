@@ -1,1 +1,1 @@
-var mnemonic = "protect arrest please owner place beach fresh zone first street book region";
+var mnemonic = "pact jacket order acquire female hamster foam rookie noodle remember trend gain";

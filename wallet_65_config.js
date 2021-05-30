@@ -1,1 +1,1 @@
-var mnemonic = "lunar follow sick coach merry shallow gloom insect fabric view still put";
+var mnemonic = "surround talent shoe salt twenty ritual more consider path genre open more";

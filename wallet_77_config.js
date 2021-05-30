@@ -1,1 +1,1 @@
-var mnemonic = "demand scene visit garbage bag magic fan talk flag upper bind frame";
+var mnemonic = "luggage modify luggage element panic music right fox million skirt person crisp";

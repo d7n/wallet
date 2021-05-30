@@ -1,1 +1,1 @@
-var mnemonic = "model shop filter uniform involve mercy carpet rather emotion gather verb once";
+var mnemonic = "near tree buddy fancy wash ring delay good earn scorpion lens manual";

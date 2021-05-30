@@ -1,1 +1,1 @@
-var mnemonic = "ivory brand broken office budget surprise oval valley cherry unusual equip doll";
+var mnemonic = "matrix intact actor soccer solid monkey toss brand summer inherit feel parent";

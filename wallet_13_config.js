@@ -1,1 +1,1 @@
-var mnemonic = "thumb cattle exile nothing orchard smoke true minor jelly leopard damage ignore";
+var mnemonic = "shrimp train duty poem float cruise wrap actual collect rally weird update";

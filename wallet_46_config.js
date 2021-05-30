@@ -1,1 +1,1 @@
-var mnemonic = "mercy faith possible idea indicate rice affair output before kitchen wonder salute";
+var mnemonic = "clown engage night dash double divorce mechanic recycle cement nominee mercy reduce";

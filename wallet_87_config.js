@@ -1,1 +1,1 @@
-var mnemonic = "visa labor cricket tell chat cram sun shift fine net enlist domain";
+var mnemonic = "grain lonely bone settle crop floor iron tilt blanket mind rose spin";

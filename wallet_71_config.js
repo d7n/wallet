@@ -1,1 +1,1 @@
-var mnemonic = "kid sweet trophy bracket rookie lab party helmet unlock pipe stomach auction";
+var mnemonic = "cereal rare day mosquito social swamp truth rookie dog scout enable major";

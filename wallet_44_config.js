@@ -1,1 +1,1 @@
-var mnemonic = "hundred stereo suspect remind liberty combine calm daughter bridge major movie mercy";
+var mnemonic = "inquiry sibling verify nature rule enhance wealth area satoshi olive amazing toy";

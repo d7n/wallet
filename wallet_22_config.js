@@ -1,1 +1,1 @@
-var mnemonic = "flavor nuclear shuffle fade message gym wrong render border width lawsuit amused";
+var mnemonic = "balcony smooth shift runway media prevent lens major dirt erosion plate siege";

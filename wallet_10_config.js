@@ -1,1 +1,1 @@
-var mnemonic = "universe install panic trouble never garbage guilt canyon art harvest feed tide";
+var mnemonic = "card armed battle way cream movie text invest robot wear choose museum";

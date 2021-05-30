@@ -1,1 +1,1 @@
-var mnemonic = "famous genuine okay visa holiday system face tennis horror tonight rib trim";
+var mnemonic = "jazz horror pass symptom praise perfect blur blur tent spot grape fire";

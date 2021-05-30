@@ -1,1 +1,1 @@
-var mnemonic = "solar symptom range south glass between stem knee common fiber ten tone";
+var mnemonic = "olympic system defense crystal water neck jelly neither armed usage bridge tail";

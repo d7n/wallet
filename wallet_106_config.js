@@ -1,1 +1,1 @@
-var mnemonic = "amazing magnet weekend wheat liar always spike fatal limit debris web recycle";
+var mnemonic = "forget police ancient need language number favorite baby twice rural group gift";

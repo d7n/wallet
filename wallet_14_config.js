@@ -1,1 +1,1 @@
-var mnemonic = "mom update digital sadness reduce similar welcome genuine train final cupboard thank";
+var mnemonic = "stem purchase shadow morning inhale fatal advice company catalog exhibit buzz ship";

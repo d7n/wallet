@@ -1,1 +1,1 @@
-var mnemonic = "giraffe angle picnic coyote mobile essay noise melt shoot civil finish grass";
+var mnemonic = "mass always about anxiety swing coral stadium either city version nurse smoke";

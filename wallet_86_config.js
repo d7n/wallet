@@ -1,1 +1,1 @@
-var mnemonic = "ankle real milk someone key green afford stamp fresh dream pepper cup";
+var mnemonic = "system raw must index kitten timber face elbow razor minor oak jewel";

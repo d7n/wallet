@@ -1,1 +1,1 @@
-var mnemonic = "sand tattoo salute super gorilla draw muffin rifle crazy false february near";
+var mnemonic = "weird rude street fancy romance express insect bonus urban there eagle scheme";

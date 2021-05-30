@@ -1,1 +1,1 @@
-var mnemonic = "castle mutual trip symptom ten harbor join royal abandon flat kidney casual";
+var mnemonic = "question dolphin middle blind hedgehog cool creek suit polar three toe movie";
