@@ -1,1 +1,1 @@
-var mnemonic = "coin glance spare burden dirt benefit degree brother about pave sweet gossip";
+var mnemonic = "pear wine return hero valid twenty exhibit wreck top degree maple outer";

@@ -1,1 +1,1 @@
-var mnemonic = "range alone kiwi safe enhance response elbow page enter drink slot peace";
+var mnemonic = "cry enrich flush anxiety warm monster turn shed sentence broken approve online";

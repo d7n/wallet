@@ -1,1 +1,1 @@
-var mnemonic = "sudden chronic transfer erode divert ship document onion father lecture mention slight";
+var mnemonic = "couple absurd page time seat miracle corn pizza shaft force very argue";

@@ -1,1 +1,1 @@
-var mnemonic = "axis cinnamon buffalo place buyer neither subject diamond cherry rule unfair shop";
+var mnemonic = "night lottery lazy fitness wasp farm team put afraid miss post federal";

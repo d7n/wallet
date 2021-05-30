@@ -1,1 +1,1 @@
-var mnemonic = "debate where intact pioneer galaxy cook expect cactus include access talk diary";
+var mnemonic = "wheel spray exhaust cupboard garlic evil country police camp exact palm route";

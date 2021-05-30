@@ -1,1 +1,1 @@
-var mnemonic = "clinic century size gravity chest maze very hurt tag marble trumpet tuna";
+var mnemonic = "coral crane favorite funny worry stumble cereal owner nerve mutual nurse thing";

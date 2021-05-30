@@ -1,1 +1,1 @@
-var mnemonic = "rapid dumb antique also ticket silly year chicken skin option sugar chronic";
+var mnemonic = "audit margin more senior diary luxury creek become aim merry panda ginger";

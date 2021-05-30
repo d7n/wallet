@@ -1,1 +1,1 @@
-var mnemonic = "nurse border vibrant glide atom obvious small color rabbit unveil evoke weasel";
+var mnemonic = "grain chimney jar foil usual chase boring present throw flower arrow blade";

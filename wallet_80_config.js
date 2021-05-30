@@ -1,1 +1,1 @@
-var mnemonic = "nature subject marriage loop exile purse path draft frog beauty worth decrease";
+var mnemonic = "grass useless sustain elevator antenna despair sister height version scare cloud pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh circle exercise fold below mountain name sphere clap runway fossil type";
+var mnemonic = "bus claw sugar lesson speak tobacco refuse topic eye when solve festival";

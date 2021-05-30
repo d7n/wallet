@@ -1,1 +1,1 @@
-var mnemonic = "local still before atom crew truth add plug use end bachelor street";
+var mnemonic = "spot spike start broken flag girl reject shed click bright loan avocado";

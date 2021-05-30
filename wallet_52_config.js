@@ -1,1 +1,1 @@
-var mnemonic = "position gossip blouse tail middle treat concert amazing february increase robust hello";
+var mnemonic = "title mask husband height gorilla fee dust rookie galaxy taste arctic column";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor make target weasel tragic mind such hobby quality yellow toast property";
+var mnemonic = "glue lens tide kingdom copper rib soldier lemon bike nose actor grocery";

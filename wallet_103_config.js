@@ -1,1 +1,1 @@
-var mnemonic = "road urge brush theory pistol famous friend arrest just anchor object mountain";
+var mnemonic = "lunar table frequent stay wait together badge earn nothing always eternal rural";

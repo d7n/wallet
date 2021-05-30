@@ -1,1 +1,1 @@
-var mnemonic = "lemon hybrid erupt text screen place tonight release ill arrow proud spring";
+var mnemonic = "maximum found until coyote peasant term under lecture mammal slot boy cinnamon";

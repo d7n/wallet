@@ -1,1 +1,1 @@
-var mnemonic = "produce easily toddler transfer walk inflict pigeon become whale side agree expand";
+var mnemonic = "volume spin retire spice vacuum morning present visa lizard universe input sleep";

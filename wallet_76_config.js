@@ -1,1 +1,1 @@
-var mnemonic = "soft coral broom kiss oppose property endless thank grit travel boil coyote";
+var mnemonic = "entire illness timber intact veteran rural dust obvious chronic cattle hazard hole";

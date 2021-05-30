@@ -1,1 +1,1 @@
-var mnemonic = "finish unaware crazy donate write affair wine husband blade alarm crew crystal";
+var mnemonic = "garden door beach shadow immense raccoon intact immense foil mechanic wrist green";

@@ -1,1 +1,1 @@
-var mnemonic = "frost ivory polar symbol update often sustain arrow fault bitter need purpose";
+var mnemonic = "inch penalty glove poem inner meadow empty air remain eight century barrel";

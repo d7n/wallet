@@ -1,1 +1,1 @@
-var mnemonic = "sheriff december install alpha dragon frown lounge about maximum drip reveal insect";
+var mnemonic = "finish when wink expose focus dizzy knife advice penalty blanket switch emerge";

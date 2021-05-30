@@ -1,1 +1,1 @@
-var mnemonic = "cigar door metal return drum doctor sign artefact narrow word bulb prepare";
+var mnemonic = "club law other despair fragile glove pair start era dignity denial hazard";

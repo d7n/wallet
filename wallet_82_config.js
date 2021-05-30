@@ -1,1 +1,1 @@
-var mnemonic = "near burden taxi industry echo clay cool tenant soul genre emerge mouse";
+var mnemonic = "erupt drama fitness crucial slam similar stick riot super timber lucky slam";

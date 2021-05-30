@@ -1,1 +1,1 @@
-var mnemonic = "word follow act motion enact shell frame large old praise boy already";
+var mnemonic = "sustain cross fly winter organ gown acoustic snack grant wagon snake evidence";

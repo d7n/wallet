@@ -1,1 +1,1 @@
-var mnemonic = "marble sound hobby toilet plug oxygen useful know lawsuit annual accuse abuse";
+var mnemonic = "trumpet dwarf symbol post snap obtain trigger rifle foster begin spray wedding";

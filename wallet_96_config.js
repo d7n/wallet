@@ -1,1 +1,1 @@
-var mnemonic = "glad trumpet gather exclude absurd sing brief wrong fog wolf ignore nasty";
+var mnemonic = "weird chase original birth strategy skate palace basket crack thrive shed online";

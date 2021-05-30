@@ -1,1 +1,1 @@
-var mnemonic = "board spring clutch common sunny shrug rebuild tired arena lady upset saddle";
+var mnemonic = "bamboo edit pitch equal crazy correct forest sentence today column south patch";

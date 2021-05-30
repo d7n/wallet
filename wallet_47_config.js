@@ -1,1 +1,1 @@
-var mnemonic = "bar steel oblige column nasty album margin spell act wedding simple next";
+var mnemonic = "mandate example quantum engage chaos table rural walk actor pledge gain steel";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican pulse yellow spread possible refuse security already slight list lake always";
+var mnemonic = "congress ecology stand phrase practice taste valve balcony squirrel human level forest";

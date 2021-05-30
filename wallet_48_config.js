@@ -1,1 +1,1 @@
-var mnemonic = "hair replace muffin wild solve trouble damage great relax champion useless city";
+var mnemonic = "jar panel clip celery perfect oyster way web useless tenant valid save";

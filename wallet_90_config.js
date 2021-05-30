@@ -1,1 +1,1 @@
-var mnemonic = "again clip train gentle grocery scheme sadness august frost agent dumb best";
+var mnemonic = "fun true family skill reveal convince there engine brass ahead galaxy share";

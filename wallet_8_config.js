@@ -1,1 +1,1 @@
-var mnemonic = "rug later napkin flock ticket nominee heavy leave fly couch mix upgrade";
+var mnemonic = "corn tool chimney hollow oxygen spell naive govern cruise typical reveal cradle";

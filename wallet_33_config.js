@@ -1,1 +1,1 @@
-var mnemonic = "fruit hood cactus tumble assume dice food embark result beach boring stairs";
+var mnemonic = "weather exotic tilt exhaust spend glass game hobby pluck harbor sure promote";

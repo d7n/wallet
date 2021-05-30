@@ -1,1 +1,1 @@
-var mnemonic = "belt visit syrup senior update virtual brick dice act tragic village visual";
+var mnemonic = "space critic connect slab uphold elbow mixture shrimp video forum escape pluck";

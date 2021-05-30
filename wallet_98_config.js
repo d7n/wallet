@@ -1,1 +1,1 @@
-var mnemonic = "copper dove ahead whisper chimney fat increase crumble potato inject mean mother";
+var mnemonic = "spare base element anger success sniff bone outer oblige fun bitter similar";

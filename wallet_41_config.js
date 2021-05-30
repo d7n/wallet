@@ -1,1 +1,1 @@
-var mnemonic = "fish degree note joy sword fossil dust rough opera staff ball leave";
+var mnemonic = "sad win open liberty indicate surge tobacco teach always fault load bread";

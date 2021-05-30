@@ -1,1 +1,1 @@
-var mnemonic = "spirit boring album absurd swarm mushroom erase mother illegal record smooth midnight";
+var mnemonic = "shuffle clarify setup load model feature wool token dog attack blouse despair";

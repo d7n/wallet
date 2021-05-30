@@ -1,1 +1,1 @@
-var mnemonic = "trigger weasel ignore tenant real tube couch exact brush someone add subject";
+var mnemonic = "damp pudding fruit oyster trend twice peanut maid spare erupt odor cable";

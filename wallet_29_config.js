@@ -1,1 +1,1 @@
-var mnemonic = "miss track border weather misery grain olympic purity firm aerobic live lion";
+var mnemonic = "erupt shy stick frost coyote liberty frequent style holiday chief power always";

@@ -1,1 +1,1 @@
-var mnemonic = "air music melt manage fragile awesome hill fan matrix clay lamp village";
+var mnemonic = "position gossip zebra gasp suspect burger green season spirit wine mountain exist";

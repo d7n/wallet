@@ -1,1 +1,1 @@
-var mnemonic = "debate use obscure recipe uncover shove behind dilemma miss balance lonely industry";
+var mnemonic = "extend junior journey test door bacon since young tongue whale hen elbow";

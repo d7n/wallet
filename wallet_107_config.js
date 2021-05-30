@@ -1,1 +1,1 @@
-var mnemonic = "only canvas unusual elite truth salad paddle crisp guilt story save stamp";
+var mnemonic = "only region leisure online area song earn rubber enlist oven slot tooth";

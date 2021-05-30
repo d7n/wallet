@@ -1,1 +1,1 @@
-var mnemonic = "glare later spray arch rotate slam clip real chef frog crawl wrap";
+var mnemonic = "board sniff grit erase valve win chronic plastic acquire link critic devote";

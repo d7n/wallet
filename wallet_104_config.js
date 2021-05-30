@@ -1,1 +1,1 @@
-var mnemonic = "group rocket robust blouse elder answer predict august pass echo aisle secret";
+var mnemonic = "cabin ill say ability cream mountain erupt tomorrow nuclear noble abandon beef";

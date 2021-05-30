@@ -1,1 +1,1 @@
-var mnemonic = "office mother problem crash luggage result double debris turtle grain vanish board";
+var mnemonic = "inherit bullet speak kitten accident antique stem world version buzz castle drop";

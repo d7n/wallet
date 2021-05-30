@@ -1,1 +1,1 @@
-var mnemonic = "donate report castle jump crane critic task rebel live cupboard broom garlic";
+var mnemonic = "until laundry auto million jacket sugar nominee stuff donate barrel lonely convince";

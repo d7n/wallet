@@ -1,1 +1,1 @@
-var mnemonic = "poem latin media camera goddess dragon hollow govern sleep sea course magic";
+var mnemonic = "govern sister topic thing minimum next mix version net body mind guide";

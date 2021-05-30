@@ -1,1 +1,1 @@
-var mnemonic = "demise great delay royal switch buddy antenna random cherry slab level ranch";
+var mnemonic = "file company lobster search glow winner radar essence noble found guess bright";

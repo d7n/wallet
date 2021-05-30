@@ -1,1 +1,1 @@
-var mnemonic = "reform round oak market hospital excess mutual reason exile walnut strong climb";
+var mnemonic = "because negative divert today adapt dawn park rhythm snack melody skill hawk";

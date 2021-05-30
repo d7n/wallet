@@ -1,1 +1,1 @@
-var mnemonic = "despair pistol cruel together buffalo puzzle whale collect gain morning wave music";
+var mnemonic = "another art produce that panther wing country arrive off impose town scene";

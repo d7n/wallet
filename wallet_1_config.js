@@ -1,1 +1,1 @@
-var mnemonic = "tribe steel ready repair close believe punch radar valid program beauty arrange";
+var mnemonic = "pause shiver team horse oyster pistol account small flock attend guess infant";

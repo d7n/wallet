@@ -1,1 +1,1 @@
-var mnemonic = "pitch vacuum six index steel twenty early daring flat elite cage little";
+var mnemonic = "segment multiply echo diamond favorite staff boss gain frame foot patient cricket";

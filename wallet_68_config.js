@@ -1,1 +1,1 @@
-var mnemonic = "wheat remind rabbit alter army pattern craft area movie neglect spice spell";
+var mnemonic = "artist build soldier normal talent song furnace occur company night defy length";

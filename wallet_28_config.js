@@ -1,1 +1,1 @@
-var mnemonic = "pledge prize wide express there lady faint chronic level nature average topic";
+var mnemonic = "vendor level envelope bring affair fog kangaroo world clip ready orbit piece";

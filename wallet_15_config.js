@@ -1,1 +1,1 @@
-var mnemonic = "genius change special edge remain hedgehog cruise night typical dumb also breeze";
+var mnemonic = "jeans scorpion spray oxygen correct system tuna impact wolf recycle license share";

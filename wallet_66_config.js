@@ -1,1 +1,1 @@
-var mnemonic = "wedding good name forward weekend replace physical arrive face erosion bike idea";
+var mnemonic = "calm wage risk truth excite coconut day found fog small rich anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "enact infant bless parrot also actress air abstract laptop learn draw congress";
+var mnemonic = "man laundry receive mail arctic hurdle stuff doll know hero injury gentle";

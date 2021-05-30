@@ -1,1 +1,1 @@
-var mnemonic = "purse entry cook couple impose eyebrow slide tilt super benefit cabin unfold";
+var mnemonic = "orchard always biology bacon leopard orient human diesel horse version edge tackle";

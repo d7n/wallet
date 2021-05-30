@@ -1,1 +1,1 @@
-var mnemonic = "wall wheel tortoise napkin bread orbit muffin wool tip depart child industry";
+var mnemonic = "token exercise right legal radio olive modify normal stable tide dignity wife";

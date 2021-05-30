@@ -1,1 +1,1 @@
-var mnemonic = "paper fat element fit seminar library memory section gauge march fork melody";
+var mnemonic = "erode penalty soup crouch pulp hamster fiction suit icon gossip cave upon";

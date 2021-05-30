@@ -1,1 +1,1 @@
-var mnemonic = "voice apology second differ crew author name actor jeans sleep march spirit";
+var mnemonic = "digital certain flash valid have penalty rescue broccoli release ensure oyster away";

@@ -1,1 +1,1 @@
-var mnemonic = "potato seed segment cement into frame host diesel vault oppose neck divorce";
+var mnemonic = "leaf hip critic reveal such lift reason reflect put fog ignore cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "simple square salad nature pistol lake behind baby divide shift steak casino";
+var mnemonic = "brief deputy throw project clay figure wrist general skate hope grunt enjoy";

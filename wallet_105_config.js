@@ -1,1 +1,1 @@
-var mnemonic = "grab shiver loyal habit number enroll help curve panther rare siege super";
+var mnemonic = "right cage grape right valley say cream champion style nuclear welcome quarter";

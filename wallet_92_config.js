@@ -1,1 +1,1 @@
-var mnemonic = "food urge try primary skull option label transfer brain poem mandate vacuum";
+var mnemonic = "history quiz color private palace sail lecture more song excuse enemy moment";

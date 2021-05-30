@@ -1,1 +1,1 @@
-var mnemonic = "plug friend assist churn adapt faint spoon author erase gain like bicycle";
+var mnemonic = "bunker monster winner subway group kitchen either mansion lonely country perfect weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "youth reduce fine grass moment belt humble series heart lazy coral solution";
+var mnemonic = "upper cram purse pipe speed festival combine diagram nasty tackle brown glare";

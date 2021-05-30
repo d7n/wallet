@@ -1,1 +1,1 @@
-var mnemonic = "mango spoil arctic trigger despair mountain method buyer exile pottery gravity catch";
+var mnemonic = "harbor virus tragic utility bench tortoise rack exist water fine chief grab";

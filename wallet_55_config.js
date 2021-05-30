@@ -1,1 +1,1 @@
-var mnemonic = "royal put reunion absorb exact virus scare magic always quantum banner lecture";
+var mnemonic = "cruel uphold exercise meadow track expect divert canvas guess tone defy venue";

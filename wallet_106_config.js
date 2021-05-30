@@ -1,1 +1,1 @@
-var mnemonic = "text bargain dilemma clap glow venue message jewel junior way buzz spot";
+var mnemonic = "inmate aspect blue horror imitate nation reopen talk slam promote kitten speak";

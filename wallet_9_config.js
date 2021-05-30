@@ -1,1 +1,1 @@
-var mnemonic = "electric adult sun dismiss enable excess time mixed guilt unaware repeat tumble";
+var mnemonic = "fragile hen view inhale base affair matrix income own promote betray knife";

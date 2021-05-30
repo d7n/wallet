@@ -1,1 +1,1 @@
-var mnemonic = "broccoli damage ridge income rhythm deny chapter size stock buddy tissue guess";
+var mnemonic = "improve gravity burger host impact leaf apology inspire armor valid worth scene";

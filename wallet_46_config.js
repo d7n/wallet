@@ -1,1 +1,1 @@
-var mnemonic = "foam mobile swamp scene fortune kick tilt secret wise wonder goddess indoor";
+var mnemonic = "asset permit sock patient glance draw spatial knock grunt cricket canyon spatial";

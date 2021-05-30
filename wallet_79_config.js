@@ -1,1 +1,1 @@
-var mnemonic = "also defy peasant now receive erode angry walnut head come arrive enter";
+var mnemonic = "impact novel unveil nasty wash kitchen test prefer arctic lecture illness system";

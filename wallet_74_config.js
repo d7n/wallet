@@ -1,1 +1,1 @@
-var mnemonic = "average they van property melody glory share phone fringe example girl judge";
+var mnemonic = "trick energy pig visual cabin lion language special unlock fold body repair";

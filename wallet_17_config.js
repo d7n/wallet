@@ -1,1 +1,1 @@
-var mnemonic = "burger effort aisle easy mail method clip certain around note attitude master";
+var mnemonic = "plate solid medal dish hotel cactus raw arrest repair fortune runway timber";

@@ -1,1 +1,1 @@
-var mnemonic = "check range outer public clever math debate turn release guard cruise dose";
+var mnemonic = "riot immense project car stereo gauge burden sight custom super task blue";

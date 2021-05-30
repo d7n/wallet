@@ -1,1 +1,1 @@
-var mnemonic = "advance fire ugly allow ill click reward crumble planet jump glimpse stadium";
+var mnemonic = "warfare vacant turtle fork kiss choice degree focus powder sentence trash auto";

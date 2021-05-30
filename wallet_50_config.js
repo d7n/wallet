@@ -1,1 +1,1 @@
-var mnemonic = "amount rate october oblige know wink plate arrange nominee cousin brother sudden";
+var mnemonic = "frog bike air nothing eye junk kitten visit leg switch egg sniff";

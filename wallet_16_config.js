@@ -1,1 +1,1 @@
-var mnemonic = "coach horn hover aspect teach goat silent federal energy must napkin dial";
+var mnemonic = "master true flee begin toy dirt lawn dentist apart mango glow frog";

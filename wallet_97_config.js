@@ -1,1 +1,1 @@
-var mnemonic = "squirrel eight twin remember what floor fury laugh unfair struggle poverty aunt";
+var mnemonic = "lumber protect index use engage farm belt sure awake country walk valley";

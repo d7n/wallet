@@ -1,1 +1,1 @@
-var mnemonic = "nephew crater mean differ soon focus snow danger wire fossil sponsor talk";
+var mnemonic = "speak crater nut slice wrong iron kiss minor entire wheat matter fee";

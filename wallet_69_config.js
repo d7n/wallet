@@ -1,1 +1,1 @@
-var mnemonic = "curious upgrade lottery diet slice tenant soda bottom boss venue web sniff";
+var mnemonic = "embody damage awkward pudding fiber purse canal kidney vital patch jacket juice";

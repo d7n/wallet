@@ -1,1 +1,1 @@
-var mnemonic = "raccoon brand already school table tiny wedding angry idle submit hip vapor";
+var mnemonic = "add camera shoe maze capable lazy weasel omit pact gasp fitness private";

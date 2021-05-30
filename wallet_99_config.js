@@ -1,1 +1,1 @@
-var mnemonic = "scare grab way gesture artefact wagon library width badge subject wing ocean";
+var mnemonic = "found repair stay public future ghost bird jungle garbage orchard grape shallow";

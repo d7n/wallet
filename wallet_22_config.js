@@ -1,1 +1,1 @@
-var mnemonic = "borrow latin song label vanish frown lawn castle oxygen mirror patch ill";
+var mnemonic = "acoustic zoo follow knock flavor word cereal dizzy track long caution job";

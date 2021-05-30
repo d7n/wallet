@@ -1,1 +1,1 @@
-var mnemonic = "kite gadget frog that claw employ grass income captain mass device leg";
+var mnemonic = "client pencil hole indicate close raw awake blade equal moment fold inside";

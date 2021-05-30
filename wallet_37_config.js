@@ -1,1 +1,1 @@
-var mnemonic = "reflect trash deer remain fine mask regret gap then settle bar couple";
+var mnemonic = "unique rail typical pluck typical gravity weather replace attack slot wasp clap";

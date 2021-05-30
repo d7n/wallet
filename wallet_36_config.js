@@ -1,1 +1,1 @@
-var mnemonic = "cool marine wasp affair panda dilemma prepare domain exhaust limit shoot crouch";
+var mnemonic = "way put dog settle audit response glove replace force churn script acquire";

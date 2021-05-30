@@ -1,1 +1,1 @@
-var mnemonic = "silk moment deliver beyond digital earn wing diamond depend mouse coast profit";
+var mnemonic = "bubble damp flee comfort couch purse parent edge combine stock since hover";
