@@ -1,1 +1,1 @@
-var mnemonic = "actual lava devote layer match talk another abstract shrug three version defy";
+var mnemonic = "immense resist gorilla lyrics asthma field thrive face lens pluck lesson sphere";

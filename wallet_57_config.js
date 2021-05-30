@@ -1,1 +1,1 @@
-var mnemonic = "snap ticket awful problem cabbage twice under walk frown strong suffer search";
+var mnemonic = "juice rookie outdoor inform jealous rookie timber morning expire tunnel alert jelly";

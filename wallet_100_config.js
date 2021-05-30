@@ -1,1 +1,1 @@
-var mnemonic = "neither family more blush girl plate weird glass attend thrive caution favorite";
+var mnemonic = "east tower bar december liberty lake impact figure where neck kind top";

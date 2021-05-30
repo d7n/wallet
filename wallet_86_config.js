@@ -1,1 +1,1 @@
-var mnemonic = "modify pool beyond panic tourist amateur found space wash tackle prison melt";
+var mnemonic = "immense course ancient man genuine exist trip improve onion tenant impact rely";

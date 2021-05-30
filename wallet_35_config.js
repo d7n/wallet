@@ -1,1 +1,1 @@
-var mnemonic = "month window sorry vanish venue ridge cactus escape country until tackle gentle";
+var mnemonic = "drip beauty surround pole scan uniform decrease fence acid suffer range clean";

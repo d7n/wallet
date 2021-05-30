@@ -1,1 +1,1 @@
-var mnemonic = "rail private fiction elite service exhaust inquiry ride ten normal stick cook";
+var mnemonic = "lesson okay capital permit fame expand tide agree require ceiling lottery fresh";

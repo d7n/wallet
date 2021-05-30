@@ -1,1 +1,1 @@
-var mnemonic = "blame aspect maximum risk such permit final enter ocean arena garlic town";
+var mnemonic = "act moon razor build alpha duty ridge dutch dirt rude scout lizard";

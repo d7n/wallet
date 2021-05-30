@@ -1,1 +1,1 @@
-var mnemonic = "upset chief bargain oak melt produce arena work cat escape gorilla rug";
+var mnemonic = "science chapter good credit thumb enough holiday candy sing need arctic prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "episode glide cancel announce learn state pretty blush diagram sound peasant chuckle";
+var mnemonic = "smoke slide claim crucial novel off receive oppose urban fold essence main";

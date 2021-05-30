@@ -1,1 +1,1 @@
-var mnemonic = "luggage whisper grain illness base post front traffic mule maximum maid banner";
+var mnemonic = "jazz inch major hour arrive about fabric neither city expire laundry combine";

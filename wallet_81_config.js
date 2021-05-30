@@ -1,1 +1,1 @@
-var mnemonic = "wage invest body harbor floor tenant bid power arena decide indicate smooth";
+var mnemonic = "tuition castle document rural atom victory trial agent apology brave silver gesture";

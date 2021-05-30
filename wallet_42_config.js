@@ -1,1 +1,1 @@
-var mnemonic = "labor pottery claim addict rather hockey leopard old verify buyer trumpet impulse";
+var mnemonic = "arm mind luggage fee shrimp tell great fiscal ripple excess ugly wise";

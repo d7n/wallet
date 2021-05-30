@@ -1,1 +1,1 @@
-var mnemonic = "chef build digital predict nominee mistake egg switch sudden boat miss aisle";
+var mnemonic = "rate genuine sing wear grain frost panel casual arch scout orange outside";

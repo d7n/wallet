@@ -1,1 +1,1 @@
-var mnemonic = "canvas chuckle final baby ordinary aspect burst alert treat panel hand unhappy";
+var mnemonic = "mushroom lawsuit unknown banner tonight nest abuse certain spray garage insane novel";

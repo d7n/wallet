@@ -1,1 +1,1 @@
-var mnemonic = "inherit patch shock scorpion together quarter walk patient gain stone opera bridge";
+var mnemonic = "often struggle salute cheese sunny divide expect area loan elbow alarm soon";

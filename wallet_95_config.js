@@ -1,1 +1,1 @@
-var mnemonic = "cushion direct pull wisdom high decrease master gain debris squirrel wash vacuum";
+var mnemonic = "federal under orphan cactus fire notable obtain poem make outdoor general luxury";

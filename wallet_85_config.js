@@ -1,1 +1,1 @@
-var mnemonic = "will anger awkward travel tilt antique kidney pool upper asset consider pupil";
+var mnemonic = "trumpet great matrix abandon orbit illness hurt avoid security earn series year";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss devote scatter deal corn sell name stumble agree garlic doll average";
+var mnemonic = "segment gravity meat giraffe balance describe depth panther drum toast act candy";

@@ -1,1 +1,1 @@
-var mnemonic = "base stove average canoe valve spawn genuine possible shop father blame cereal";
+var mnemonic = "lemon duty employ army roast endorse auto simple page man climb surge";

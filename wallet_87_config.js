@@ -1,1 +1,1 @@
-var mnemonic = "office afraid liquid soldier aim wall clap beach test right draft burger";
+var mnemonic = "bright island best citizen leaf distance aunt nuclear wreck axis coconut craft";

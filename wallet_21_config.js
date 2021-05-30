@@ -1,1 +1,1 @@
-var mnemonic = "maximum palm sadness gasp dentist define gas depend exotic cube flock sad";
+var mnemonic = "planet almost injury price bounce asthma also winner hurdle memory come chalk";

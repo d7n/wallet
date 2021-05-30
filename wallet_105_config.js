@@ -1,1 +1,1 @@
-var mnemonic = "assist any cargo fly obtain circle empower ecology aisle country wear frog";
+var mnemonic = "arch patch snap exercise proof edge people oblige verb baby crumble service";

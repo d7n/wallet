@@ -1,1 +1,1 @@
-var mnemonic = "team close velvet spirit zone pulse consider sadness scale huge initial rude";
+var mnemonic = "drum december home sadness empower cactus palm ocean tone peanut night divide";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup manual cactus sibling board episode vocal replace van river cancel review";
+var mnemonic = "tool zoo degree kiwi empower nothing kiwi danger sail solution what shrimp";

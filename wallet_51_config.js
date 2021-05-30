@@ -1,1 +1,1 @@
-var mnemonic = "caution dynamic win peasant honey amused this idle number develop chair husband";
+var mnemonic = "brisk inquiry hard render olive rose napkin will ketchup hard start advice";

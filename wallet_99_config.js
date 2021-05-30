@@ -1,1 +1,1 @@
-var mnemonic = "aim amazing voice load rare giant replace night sick round kite skull";
+var mnemonic = "turn stock vehicle morning private shine rally happy spring fit truck piece";

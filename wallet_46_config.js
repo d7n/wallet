@@ -1,1 +1,1 @@
-var mnemonic = "lady afraid weekend chuckle notice lend antenna bomb carbon tackle wave tragic";
+var mnemonic = "spider hurt knee evidence eagle wait reopen other truth claw fetch slow";

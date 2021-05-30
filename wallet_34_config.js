@@ -1,1 +1,1 @@
-var mnemonic = "capable fiscal parent exclude speed woman toast spread tree scan broken mirror";
+var mnemonic = "human biology task author library fortune curtain marble disagree repair share wink";

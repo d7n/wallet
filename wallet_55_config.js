@@ -1,1 +1,1 @@
-var mnemonic = "modify muscle desert census inquiry thank valley ankle broken leave fold pig";
+var mnemonic = "glove clarify seminar glide math post shiver wheat fortune theme argue gain";

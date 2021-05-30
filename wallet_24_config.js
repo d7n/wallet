@@ -1,1 +1,1 @@
-var mnemonic = "rotate scrub theme south stick rigid fat profit fan iron donor pen";
+var mnemonic = "sting divide menu there estate nothing debate strong dismiss despair season essay";

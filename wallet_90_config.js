@@ -1,1 +1,1 @@
-var mnemonic = "ride banana saddle just average split custom invest midnight resource disagree pyramid";
+var mnemonic = "coconut velvet cat naive merit absurd bargain escape sad cluster vapor step";

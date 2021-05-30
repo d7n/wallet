@@ -1,1 +1,1 @@
-var mnemonic = "cage conduct tunnel pact erode legal price license double decline orange sadness";
+var mnemonic = "found stage scare local gadget idea cactus donor giggle stone town embody";

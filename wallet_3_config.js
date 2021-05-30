@@ -1,1 +1,1 @@
-var mnemonic = "tree eyebrow hurry pottery fossil mass snap husband pulse sustain young civil";
+var mnemonic = "dirt hover beach absorb earn marble say because seminar liquid begin reform";

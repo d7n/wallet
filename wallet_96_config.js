@@ -1,1 +1,1 @@
-var mnemonic = "exclude cup sugar shoe wish skirt health square jaguar zone chef gadget";
+var mnemonic = "slender ride elevator push castle bean tomorrow swear nasty cotton ceiling choice";

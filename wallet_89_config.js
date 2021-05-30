@@ -1,1 +1,1 @@
-var mnemonic = "fit salad people front alter aim private sibling bulb uncle office rabbit";
+var mnemonic = "copper glide rate aware alone exhibit digital voice ask minor barely breeze";

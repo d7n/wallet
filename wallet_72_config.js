@@ -1,1 +1,1 @@
-var mnemonic = "step gas leisure mango elbow chimney brisk lawn echo brush place grunt";
+var mnemonic = "glimpse first matter shrug large clerk tuna audit choice rebuild idea among";

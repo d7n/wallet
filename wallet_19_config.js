@@ -1,1 +1,1 @@
-var mnemonic = "scare field elegant term lazy hurt fantasy describe present unveil urge vicious";
+var mnemonic = "physical situate opera love smart candy shift bus scene rail truly need";

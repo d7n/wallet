@@ -1,1 +1,1 @@
-var mnemonic = "oil miss woman width matter best modify relax glow velvet chaos method";
+var mnemonic = "voyage craft sound adult slab wealth palm match coral reduce mountain civil";

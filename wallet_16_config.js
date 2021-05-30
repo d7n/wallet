@@ -1,1 +1,1 @@
-var mnemonic = "step blade divorce gesture indicate trade gasp fan thunder genius clarify bulk";
+var mnemonic = "powder misery tenant mistake sight visit slide flight off arrest when route";

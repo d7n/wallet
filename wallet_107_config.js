@@ -1,1 +1,1 @@
-var mnemonic = "dynamic expose city slow wool brave double boy reform there goose robust";
+var mnemonic = "license else loyal vendor ceiling drink core syrup blade wine ill unique";

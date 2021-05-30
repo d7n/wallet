@@ -1,1 +1,1 @@
-var mnemonic = "wasp until organ disorder liquid pupil business torch kingdom priority across token";
+var mnemonic = "have grit alley casino misery indoor soon expand evidence mention decline appear";

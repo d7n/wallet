@@ -1,1 +1,1 @@
-var mnemonic = "foster once denial era lounge diesel churn opinion tool shallow nominee scissors";
+var mnemonic = "video quote heavy slide tattoo potato spirit surge regret valley mystery inch";

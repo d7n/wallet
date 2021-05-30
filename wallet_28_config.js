@@ -1,1 +1,1 @@
-var mnemonic = "easily lab timber soldier rigid news message parent bonus pass deposit rude";
+var mnemonic = "infant wrap cluster train blood assume correct amused portion insect subway bacon";

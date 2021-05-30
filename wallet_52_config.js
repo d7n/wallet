@@ -1,1 +1,1 @@
-var mnemonic = "tornado net design now slender gospel ahead delay wash busy iron hour";
+var mnemonic = "basket inner hotel gallery art cabbage science stamp crucial tube knife satoshi";

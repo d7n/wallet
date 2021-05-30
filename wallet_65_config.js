@@ -1,1 +1,1 @@
-var mnemonic = "wave obtain photo clever butter patient decrease nuclear gaze faculty print obey";
+var mnemonic = "identify elephant dice hunt satisfy ignore unique shaft stand captain input decline";

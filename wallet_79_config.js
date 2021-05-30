@@ -1,1 +1,1 @@
-var mnemonic = "acid sense key until aisle scale fetch art render best transfer saddle";
+var mnemonic = "skull quick swear curtain educate dentist rapid modify isolate merit behave luggage";

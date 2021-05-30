@@ -1,1 +1,1 @@
-var mnemonic = "marble capital enhance outside cross half learn drum shuffle senior diagram skull";
+var mnemonic = "prize exile trumpet comfort pause camera horror shift property hockey credit ten";

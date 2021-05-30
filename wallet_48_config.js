@@ -1,1 +1,1 @@
-var mnemonic = "capable denial switch spare forest dad ball genius coyote inform finger neither";
+var mnemonic = "survey twist join segment allow attract shoulder limb refuse produce bubble street";

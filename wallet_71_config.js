@@ -1,1 +1,1 @@
-var mnemonic = "result toilet radar vapor people upset melody milk rotate such aisle mesh";
+var mnemonic = "narrow diesel flame elephant renew calm grunt anchor popular sudden accident enemy";

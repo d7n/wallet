@@ -1,1 +1,1 @@
-var mnemonic = "mask leg same ecology wall high bid extend ill month trap raccoon";
+var mnemonic = "inject woman ramp behind mutual unit essence world become tiger film fit";

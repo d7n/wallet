@@ -1,1 +1,1 @@
-var mnemonic = "end hip stem cage child couch torch obey math tag nest enrich";
+var mnemonic = "term away apart cherry bamboo slush alley bless weasel hammer famous frost";

@@ -1,1 +1,1 @@
-var mnemonic = "error wonder turn rail pretty umbrella cost magic badge absorb depth october";
+var mnemonic = "arctic sound onion concert sentence convince annual flock polar trigger orphan toward";

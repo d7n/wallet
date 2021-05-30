@@ -1,1 +1,1 @@
-var mnemonic = "net light issue dizzy group abandon demand wide tribe garden uncover year";
+var mnemonic = "wrestle wire path call state skin hurdle pause blur squeeze circle able";

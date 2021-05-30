@@ -1,1 +1,1 @@
-var mnemonic = "glimpse leader skate obvious install forum together column snap access speak harbor";
+var mnemonic = "tiny upper repair cup crime hammer alcohol loan advice reduce market talk";

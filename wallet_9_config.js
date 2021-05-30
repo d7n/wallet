@@ -1,1 +1,1 @@
-var mnemonic = "enlist hint leopard alien inspire baby spirit minimum coast lemon permit powder";
+var mnemonic = "monitor erupt cry august chief one gravity jungle brush page height prosper";

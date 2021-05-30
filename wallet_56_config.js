@@ -1,1 +1,1 @@
-var mnemonic = "foil umbrella drink travel there moon sport primary toe curve action ramp";
+var mnemonic = "frame cheap liberty face harbor pass flash make amazing broom paddle limit";

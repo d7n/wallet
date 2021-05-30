@@ -1,1 +1,1 @@
-var mnemonic = "cost saddle patrol mother depart genius naive rally tray wrap doll apology";
+var mnemonic = "morning devote input simple vicious find cradle patch sentence rubber saddle sauce";

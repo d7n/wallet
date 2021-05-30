@@ -1,1 +1,1 @@
-var mnemonic = "island cloth poem section focus spray phrase author cave swear unfold equal";
+var mnemonic = "kind clean half bird tide news garden special effort clay quantum ignore";

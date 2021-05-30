@@ -1,1 +1,1 @@
-var mnemonic = "caught history runway regular uphold truly unveil piece soccer scheme north come";
+var mnemonic = "weapon later move surge bus rally pumpkin long clean soda please perfect";

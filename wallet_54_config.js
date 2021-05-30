@@ -1,1 +1,1 @@
-var mnemonic = "hurdle voice struggle sample grid candy stomach cargo abuse quote hybrid capable";
+var mnemonic = "penalty fine grunt poem smooth sample young twist annual amateur clinic voice";

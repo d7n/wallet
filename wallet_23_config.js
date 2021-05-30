@@ -1,1 +1,1 @@
-var mnemonic = "awesome lion perfect garage cradle blossom glide spirit used congress add two";
+var mnemonic = "barely argue scrap luggage winner print master process over effort mother doll";

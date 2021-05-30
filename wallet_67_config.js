@@ -1,1 +1,1 @@
-var mnemonic = "thrive animal way inform arrange choose spin tilt update raw salute alcohol";
+var mnemonic = "verb ask win alcohol liberty switch unknown purchase august dance hire blouse";

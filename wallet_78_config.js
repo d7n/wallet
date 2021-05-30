@@ -1,1 +1,1 @@
-var mnemonic = "hamster lunch creek patrol wrestle tiny spike tomato narrow stamp bird eight";
+var mnemonic = "label potato okay sweet only uphold monster helmet enemy cradle sponsor grass";

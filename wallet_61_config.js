@@ -1,1 +1,1 @@
-var mnemonic = "place exhaust boost extend pulp rally split enhance wheat true catch purchase";
+var mnemonic = "dinosaur can glue enemy love silly gorilla surround maple accident silver cube";

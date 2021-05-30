@@ -1,1 +1,1 @@
-var mnemonic = "senior inside bird screen artwork light bridge kite smooth frost anger blush";
+var mnemonic = "gorilla orient piece license garage funny ceiling girl range aerobic chuckle attract";

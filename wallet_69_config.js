@@ -1,1 +1,1 @@
-var mnemonic = "unveil canoe close man bike vintage banner sing immune insane deputy loyal";
+var mnemonic = "grief chicken emerge volume level infant old cushion rabbit crunch erode glimpse";

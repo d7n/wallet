@@ -1,1 +1,1 @@
-var mnemonic = "they shrimp run rent vault hub disease radio announce gossip addict heart";
+var mnemonic = "piano develop trigger hood impulse first rhythm tube curve raise reveal ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise decline feed side chase wave carbon venture cart spot coast pig";
+var mnemonic = "pulse lottery crawl cup stand anchor share general grief account solve execute";

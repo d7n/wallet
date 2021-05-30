@@ -1,1 +1,1 @@
-var mnemonic = "behave demand spice useless fame love crazy junior express leave regular gaze";
+var mnemonic = "dance piece smoke much must sure exact drastic alarm together deposit luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke science powder similar prefer hint pretty mosquito fox make admit hope";
+var mnemonic = "disagree scorpion tent organ lady mail library drift stool drive enable warrior";

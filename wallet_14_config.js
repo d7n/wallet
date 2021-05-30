@@ -1,1 +1,1 @@
-var mnemonic = "broccoli acquire plate lawn erupt gospel news garment memory trust crime quit";
+var mnemonic = "iron hen glory finger lizard sudden exit cost shed shaft balcony share";

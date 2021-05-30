@@ -1,1 +1,1 @@
-var mnemonic = "grain rule omit fit execute inspire shaft awful web arm soccer direct";
+var mnemonic = "blue maple dawn praise negative biology fan trouble shine marriage liquid hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "play color dune deal luxury steel hair good volcano twelve cat depend";
+var mnemonic = "deer wrap sister strategy ugly original jazz capital blouse once future depart";

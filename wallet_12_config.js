@@ -1,1 +1,1 @@
-var mnemonic = "throw reject solar police dust enable innocent they bonus debate narrow explain";
+var mnemonic = "charge occur fetch help tank total citizen asset eager entry small absent";

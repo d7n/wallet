@@ -1,1 +1,1 @@
-var mnemonic = "grid direct outdoor blouse deliver mutual vicious around tonight syrup habit blush";
+var mnemonic = "maid side soap unhappy crater social elder tuna west crazy royal purse";

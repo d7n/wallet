@@ -1,1 +1,1 @@
-var mnemonic = "witness candy gasp resist service empty machine card unhappy sword aspect final";
+var mnemonic = "possible witness orchard sword finger surge tilt domain slice wreck remain tooth";

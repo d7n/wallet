@@ -1,1 +1,1 @@
-var mnemonic = "cross hawk rare miracle stage evoke chaos swing power zebra snake rocket";
+var mnemonic = "decide distance token fabric praise thumb bamboo fabric worry time crouch wait";

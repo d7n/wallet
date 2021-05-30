@@ -1,1 +1,1 @@
-var mnemonic = "project nasty slice degree spike rabbit essence math motor bone spin improve";
+var mnemonic = "couch notice liar clever someone crunch portion human ordinary maximum cheese harbor";

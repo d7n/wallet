@@ -1,1 +1,1 @@
-var mnemonic = "swear weather half season grit salmon erosion fish noise normal seminar office";
+var mnemonic = "soul soup prevent child figure bid output danger strong author poet jacket";

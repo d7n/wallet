@@ -1,1 +1,1 @@
-var mnemonic = "corn buddy doctor project oblige avoid echo dynamic humble journey feed excuse";
+var mnemonic = "pave system grow excite dwarf alter bench join lyrics seminar clap brush";

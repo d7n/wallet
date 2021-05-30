@@ -1,1 +1,1 @@
-var mnemonic = "palm unaware doll spend illegal neutral cannon code actor baby cabbage lonely";
+var mnemonic = "able divert help scare original cupboard click alpha tongue loop shove siren";

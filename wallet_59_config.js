@@ -1,1 +1,1 @@
-var mnemonic = "stage simple coin motion kitten jelly sound verify when family blue feel";
+var mnemonic = "exclude van boss balance snap minimum cattle can stuff render fetch little";

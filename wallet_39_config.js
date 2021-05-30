@@ -1,1 +1,1 @@
-var mnemonic = "cradle benefit act cost thought hour earn honey bulb estate laptop hazard";
+var mnemonic = "prosper zero post speak leader chef lake drink toilet hill twice bring";

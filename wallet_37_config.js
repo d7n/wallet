@@ -1,1 +1,1 @@
-var mnemonic = "afford alley three cream episode cradle level erupt shadow loan stable people";
+var mnemonic = "mechanic glory shrug mean item benefit movie empower burst empty logic double";

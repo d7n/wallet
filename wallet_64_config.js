@@ -1,1 +1,1 @@
-var mnemonic = "sell kick detect prosper police divide strong orange say adapt found action";
+var mnemonic = "size possible crash first discover clinic accident sketch famous birth stick profit";

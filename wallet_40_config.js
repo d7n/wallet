@@ -1,1 +1,1 @@
-var mnemonic = "divide refuse session gloom wrist repeat pig female wall disagree claim snake";
+var mnemonic = "lawn diagram knife only coyote comic exist shuffle sustain palm kiss sand";

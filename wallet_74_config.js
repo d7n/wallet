@@ -1,1 +1,1 @@
-var mnemonic = "glad appear exhibit require hawk gap cannon wrestle impulse core collect grab";
+var mnemonic = "intact rack logic hub noble vault plate cinnamon south member tumble day";

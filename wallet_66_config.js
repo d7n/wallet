@@ -1,1 +1,1 @@
-var mnemonic = "latin grief case depend cradle attend critic witness depth inflict require control";
+var mnemonic = "entire forum screen sport clay mention grief track letter spare ability episode";

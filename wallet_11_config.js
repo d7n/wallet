@@ -1,1 +1,1 @@
-var mnemonic = "rebel manual snake topple grape math life victory expand powder vapor scheme";
+var mnemonic = "dumb table vault rural daring remind few enforce draw model music proud";
