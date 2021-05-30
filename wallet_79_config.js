@@ -1,1 +1,1 @@
-var mnemonic = "spirit beauty story cube hunt kiss track daring solve machine radar mouse";
+var mnemonic = "yard bonus control color element air awful mean brush lamp detect kit";

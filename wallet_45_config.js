@@ -1,1 +1,1 @@
-var mnemonic = "pink border foster sword casino liar govern defense sister source weather fatal";
+var mnemonic = "photo wrap garage gold dwarf poverty catalog column size glance velvet utility";

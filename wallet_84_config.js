@@ -1,1 +1,1 @@
-var mnemonic = "soccer gentle situate arm path clump clerk evolve must damage during slow";
+var mnemonic = "decorate apple scrap sweet sport cruise honey fever frozen evoke dune olive";

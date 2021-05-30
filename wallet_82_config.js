@@ -1,1 +1,1 @@
-var mnemonic = "lunch dove wood night scare spatial horn original ritual crisp sad school";
+var mnemonic = "humble claw initial arrive camera allow toss skate elite soccer next fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn mandate found ecology enroll leg nature between soul update awkward demand";
+var mnemonic = "network rotate flush drum acquire staff tape timber sand bone lumber happy";

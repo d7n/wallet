@@ -1,1 +1,1 @@
-var mnemonic = "jazz churn deputy culture olympic demise topic toe theme time maximum left";
+var mnemonic = "rescue door canoe chief shove across young parrot world donate explain disagree";

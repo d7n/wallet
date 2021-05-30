@@ -1,1 +1,1 @@
-var mnemonic = "dust top spatial kiwi daring demise useful dust royal render abuse useful";
+var mnemonic = "swift output rely ice senior cactus fence donor ordinary orbit wish order";

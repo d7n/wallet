@@ -1,1 +1,1 @@
-var mnemonic = "supreme fancy rigid ladder report suspect carry any fine fall promote baby";
+var mnemonic = "midnight figure grab try tourist health history actor lunar notice woman rich";

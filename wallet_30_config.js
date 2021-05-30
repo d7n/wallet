@@ -1,1 +1,1 @@
-var mnemonic = "wrap daughter ship calm radio lazy loop legal powder renew topic nerve";
+var mnemonic = "club visa lucky pretty mesh please unaware lobster energy cruel bicycle boring";

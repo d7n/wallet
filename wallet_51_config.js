@@ -1,1 +1,1 @@
-var mnemonic = "budget olive lift between derive sell work motor auction adult similar betray";
+var mnemonic = "clay gas sausage place range poet direct net decline teach together match";

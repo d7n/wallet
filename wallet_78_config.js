@@ -1,1 +1,1 @@
-var mnemonic = "voyage sunset anger dentist category develop group roof point young sphere setup";
+var mnemonic = "hill judge coral sock sting cake digital clump worry explain ordinary turtle";

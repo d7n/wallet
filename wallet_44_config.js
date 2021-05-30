@@ -1,1 +1,1 @@
-var mnemonic = "panic kangaroo cruise wave price extend render sand anchor giant elbow chaos";
+var mnemonic = "squirrel country wisdom monitor buffalo taste animal true bundle voice define harvest";

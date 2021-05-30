@@ -1,1 +1,1 @@
-var mnemonic = "toast cable annual dial sign style pepper nut net situate embrace angry";
+var mnemonic = "forget since frozen razor other ostrich exist beauty weasel bamboo fade jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "nut unfold poet journey hen valid mimic horse brick peasant sad soul";
+var mnemonic = "kitchen amazing absurd unknown fiber control upgrade lazy series retire coral pipe";

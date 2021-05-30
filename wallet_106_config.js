@@ -1,1 +1,1 @@
-var mnemonic = "holiday daring cluster custom any flame bike math rose assume case chunk";
+var mnemonic = "burden museum present globe shell divide unhappy jump wealth common warfare shrug";

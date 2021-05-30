@@ -1,1 +1,1 @@
-var mnemonic = "render tower bounce fancy retreat donor hurdle pair stone supply attend dress";
+var mnemonic = "doll ordinary extra drip steak fresh make property moral mad parade position";

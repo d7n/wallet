@@ -1,1 +1,1 @@
-var mnemonic = "pool kick reopen wrist hour adjust shy avoid extra trophy stool health";
+var mnemonic = "much agree lazy vessel apart feel memory hero clay earth april tuna";

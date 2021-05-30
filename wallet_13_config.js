@@ -1,1 +1,1 @@
-var mnemonic = "critic remind repeat screen rapid kind nose jazz bitter any entire run";
+var mnemonic = "unable grace turtle enlist regret valley option add sunny fever dolphin calm";

@@ -1,1 +1,1 @@
-var mnemonic = "garage lesson true year image salmon salt question way alcohol milk arctic";
+var mnemonic = "glory such elevator relax keen unlock trial random apology buyer dish pride";

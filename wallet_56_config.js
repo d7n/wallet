@@ -1,1 +1,1 @@
-var mnemonic = "nut sheriff judge apple enhance lounge dragon cluster success rebuild cereal meadow";
+var mnemonic = "enact broccoli leaf damage civil receive drastic confirm traffic flavor scout flat";

@@ -1,1 +1,1 @@
-var mnemonic = "empower song electric buffalo shop dice punch stuff boy luggage antenna clock";
+var mnemonic = "able claim double inch age else project mango pave want sand popular";

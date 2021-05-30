@@ -1,1 +1,1 @@
-var mnemonic = "slight birth wisdom skate record firm mouse ugly wait blame evolve behave";
+var mnemonic = "address double error doctor gym curious tooth sheriff shoulder height problem long";

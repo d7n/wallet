@@ -1,1 +1,1 @@
-var mnemonic = "dismiss kite abuse avoid differ parade expose raccoon plunge stuff glad can";
+var mnemonic = "sail imitate name impulse exotic vapor crane gym oval aerobic shoot stem";

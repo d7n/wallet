@@ -1,1 +1,1 @@
-var mnemonic = "pact keep seek spike horn reveal carry imitate balcony control leg yellow";
+var mnemonic = "pudding palm slim club switch maple task bullet toast canvas news enjoy";

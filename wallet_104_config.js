@@ -1,1 +1,1 @@
-var mnemonic = "myself half monkey fold pet photo dragon sadness follow jar limb present";
+var mnemonic = "awake science mountain ten inner blade hundred bunker must rule keen surge";

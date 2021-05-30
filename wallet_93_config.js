@@ -1,1 +1,1 @@
-var mnemonic = "butter innocent warrior exit chair antenna depend antenna camera maximum start success";
+var mnemonic = "unfold lunar outside drum lumber mass logic service okay defy book around";

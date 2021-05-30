@@ -1,1 +1,1 @@
-var mnemonic = "develop stone judge faint novel trip naive place village sweet cost special";
+var mnemonic = "donor exhaust pond brother return scrub uniform hub love style atom humble";

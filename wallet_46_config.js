@@ -1,1 +1,1 @@
-var mnemonic = "domain wink hungry sudden soap dog brother okay room vague neglect neither";
+var mnemonic = "inhale impose where spatial embody current grab gossip trip draw blouse process";

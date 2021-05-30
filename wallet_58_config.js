@@ -1,1 +1,1 @@
-var mnemonic = "more vacant trim deputy service minute bulk cherry lunch practice certain burst";
+var mnemonic = "rule tourist valley test case credit advice oil layer balcony shell mobile";

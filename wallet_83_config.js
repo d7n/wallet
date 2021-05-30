@@ -1,1 +1,1 @@
-var mnemonic = "famous clean payment kid title wonder rigid carbon young theme buzz never";
+var mnemonic = "broken barrel velvet club design direct moment intact lab forget senior melody";

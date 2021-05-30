@@ -1,1 +1,1 @@
-var mnemonic = "move august pumpkin price before save normal dune medal elbow inch height";
+var mnemonic = "winner poverty afford final label illness basic country charge velvet fork surface";

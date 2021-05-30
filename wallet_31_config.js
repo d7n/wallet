@@ -1,1 +1,1 @@
-var mnemonic = "train abandon liberty crisp friend lock wink earn trigger fade neck stem";
+var mnemonic = "kiss tooth box bamboo super exact element dignity muffin skill faith curious";

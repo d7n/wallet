@@ -1,1 +1,1 @@
-var mnemonic = "pulse friend hip youth deliver cabin badge drip pledge scheme muscle genuine";
+var mnemonic = "option gravity tank wage random element ritual social city assume soon tank";

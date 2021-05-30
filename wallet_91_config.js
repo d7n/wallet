@@ -1,1 +1,1 @@
-var mnemonic = "eagle roof door steel naive aim vault rotate icon prefer march admit";
+var mnemonic = "ring shiver cherry monster know pattern genre useless buyer immense arrest crew";

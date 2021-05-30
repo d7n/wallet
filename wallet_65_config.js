@@ -1,1 +1,1 @@
-var mnemonic = "come income beyond ocean bronze laugh card decade luggage stumble diary distance";
+var mnemonic = "filter network kite dynamic guard fan project dolphin dance cushion between tuition";

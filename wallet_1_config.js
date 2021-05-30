@@ -1,1 +1,1 @@
-var mnemonic = "citizen maximum label antenna spend library bread spare family upset claim major";
+var mnemonic = "during voyage salt live dream mandate ahead middle glance crouch athlete budget";

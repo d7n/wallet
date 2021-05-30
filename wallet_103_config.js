@@ -1,1 +1,1 @@
-var mnemonic = "pelican security cactus city winter false mountain lunar glory gate mesh wise";
+var mnemonic = "misery gift stadium click monkey animal hundred program whale similar cargo captain";

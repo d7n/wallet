@@ -1,1 +1,1 @@
-var mnemonic = "dance wrestle bless stage hair illegal mechanic clump feel topic average jacket";
+var mnemonic = "dirt diesel raise outer wrestle twelve again fashion poverty session echo crater";

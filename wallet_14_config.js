@@ -1,1 +1,1 @@
-var mnemonic = "pistol upset hammer tool burden danger loyal dial design hub zoo rapid";
+var mnemonic = "duck close axis wonder creek view resource trend select lumber shrimp enact";

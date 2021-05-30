@@ -1,1 +1,1 @@
-var mnemonic = "universe argue sentence crowd sponsor federal frame muscle chimney kid boy fire";
+var mnemonic = "tag palace promote trap resemble detect brave task upper pledge smoke disorder";

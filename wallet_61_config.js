@@ -1,1 +1,1 @@
-var mnemonic = "spider tomorrow pill observe board turkey reunion gain add clog dress deposit";
+var mnemonic = "crop tornado indicate abstract swing hobby onion scatter then abuse visit used";

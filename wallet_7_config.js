@@ -1,1 +1,1 @@
-var mnemonic = "nest oxygen recycle amount knock excuse call wood butter hair rabbit cross";
+var mnemonic = "post wrong file rhythm quick smart adult merge blast allow gentle shine";

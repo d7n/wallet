@@ -1,1 +1,1 @@
-var mnemonic = "robust park hurry tower deposit protect gate treat second glare worth debris";
+var mnemonic = "picnic combine oxygen type topple barely transfer original forget cactus exact wage";

@@ -1,1 +1,1 @@
-var mnemonic = "elite degree trend cart exit pink gesture mail this submit today first";
+var mnemonic = "borrow deny mouse plug chief seed rotate donor churn circle style expand";

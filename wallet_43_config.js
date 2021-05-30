@@ -1,1 +1,1 @@
-var mnemonic = "canvas budget board flat gentle hour job flock drum pigeon wisdom ripple";
+var mnemonic = "sheriff dust saddle trophy major burden across dice law fly club clown";

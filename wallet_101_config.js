@@ -1,1 +1,1 @@
-var mnemonic = "toss random never bomb crazy dwarf grit powder swamp adjust emerge eye";
+var mnemonic = "sister defy ladder bundle another valid mass false prize penalty odor cheese";

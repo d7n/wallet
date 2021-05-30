@@ -1,1 +1,1 @@
-var mnemonic = "weekend little build flower useful bike people note effort lava captain client";
+var mnemonic = "crop buffalo radar twenty horse can noodle rich aunt escape dust demise";

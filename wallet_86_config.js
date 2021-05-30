@@ -1,1 +1,1 @@
-var mnemonic = "pact solve flame blouse kidney town caught power elevator exhibit network police";
+var mnemonic = "bulb side recipe catalog injury throw pair sleep mosquito believe doll fan";

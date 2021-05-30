@@ -1,1 +1,1 @@
-var mnemonic = "monitor screen pitch neutral nature slender drill wild glass amused canoe wire";
+var mnemonic = "ripple wealth edit cost chronic scheme route hundred predict elevator sibling agent";

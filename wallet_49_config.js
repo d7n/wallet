@@ -1,1 +1,1 @@
-var mnemonic = "moral absent fall seek agent crane boy sense excuse year soon green";
+var mnemonic = "debate battle canvas hockey creek patient bike bronze early risk maple fragile";

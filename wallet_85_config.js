@@ -1,1 +1,1 @@
-var mnemonic = "right deal waste answer ill convince enrich very usual mouse endorse snake";
+var mnemonic = "buffalo turkey syrup smoke very know project spray like notable cupboard wasp";

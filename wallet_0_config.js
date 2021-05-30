@@ -1,1 +1,1 @@
-var mnemonic = "screen pear grape remain future rude soccer library swear install copy silver";
+var mnemonic = "adult until shove wish decide home trigger priority fee icon tumble antique";

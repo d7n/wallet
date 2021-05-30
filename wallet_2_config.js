@@ -1,1 +1,1 @@
-var mnemonic = "life such canoe twice remind client tissue volume pear nose piece sign";
+var mnemonic = "fancy combine mansion about tiny print luxury easy soap document almost winter";

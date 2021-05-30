@@ -1,1 +1,1 @@
-var mnemonic = "this portion slight build switch knife visual pool coach topple wasp purse";
+var mnemonic = "present pencil into unable fine age essence rude truth never fan mouse";

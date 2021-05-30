@@ -1,1 +1,1 @@
-var mnemonic = "steel garbage material heavy wreck stereo torch corn define pool harbor crowd";
+var mnemonic = "move fetch number hard seek setup panda gaze pole mixture feel noble";

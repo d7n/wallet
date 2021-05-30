@@ -1,1 +1,1 @@
-var mnemonic = "gift wheel flat deliver segment once child super century pink argue enough";
+var mnemonic = "ride vessel flip pencil pill usage embrace wagon brave struggle myth essence";

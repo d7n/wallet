@@ -1,1 +1,1 @@
-var mnemonic = "cricket office fame pact express level decrease oxygen grape hair gap resource";
+var mnemonic = "venue rebel miss mouse base wealth canyon rude render visual that comic";

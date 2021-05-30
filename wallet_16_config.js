@@ -1,1 +1,1 @@
-var mnemonic = "traffic inmate tree canyon admit milk that sad rice wool sugar sign";
+var mnemonic = "gun oven noise accuse deer canvas absent apology jaguar silent course isolate";

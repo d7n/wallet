@@ -1,1 +1,1 @@
-var mnemonic = "friend deputy where blame poverty crazy juice open crush unable rigid crumble";
+var mnemonic = "cloud blush climb reward situate lesson lawn nerve girl zebra stock bind";

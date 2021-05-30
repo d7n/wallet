@@ -1,1 +1,1 @@
-var mnemonic = "mystery purchase fiscal tonight toast core spray sketch page cheese lunch dial";
+var mnemonic = "faint dignity chase grocery destroy salt wagon poverty energy energy search gauge";

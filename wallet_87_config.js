@@ -1,1 +1,1 @@
-var mnemonic = "leisure holiday across level raven home panel neglect cage connect banner lock";
+var mnemonic = "immune exist naive first unlock coconut surround jump mesh fancy believe ketchup";

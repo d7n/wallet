@@ -1,1 +1,1 @@
-var mnemonic = "traffic glory business potato arctic conduct giggle rigid vapor liar veteran genuine";
+var mnemonic = "object turkey ball elbow gas begin tissue merry crop razor aware glass";

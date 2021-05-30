@@ -1,1 +1,1 @@
-var mnemonic = "spirit violin health loud ridge cattle disorder above crazy demand unfold toss";
+var mnemonic = "they wage copper own duty decorate stove capital enforce pair casual penalty";

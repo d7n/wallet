@@ -1,1 +1,1 @@
-var mnemonic = "essence rescue pear frame certain sand dial hat suspect endorse food elbow";
+var mnemonic = "leg settle isolate benefit gentle ankle affair credit crash mimic topple quality";

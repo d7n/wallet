@@ -1,1 +1,1 @@
-var mnemonic = "slight chaos stick question maid umbrella mobile bid index phrase glare physical";
+var mnemonic = "suit ability suspect spider master vibrant tribe garlic mimic asset sphere direct";

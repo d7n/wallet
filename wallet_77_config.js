@@ -1,1 +1,1 @@
-var mnemonic = "tape blast print skill gadget indicate narrow behind topple manual taste armor";
+var mnemonic = "put open actress can solid symbol bitter unit wonder camp exist coffee";

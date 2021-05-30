@@ -1,1 +1,1 @@
-var mnemonic = "accuse reject staff mom park resource latin way shine burger ginger party";
+var mnemonic = "green raccoon survey tumble toast attend drive amused ugly click liquid hurry";

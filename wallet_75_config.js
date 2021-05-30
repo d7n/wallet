@@ -1,1 +1,1 @@
-var mnemonic = "foam festival mutual village derive convince plunge moral clean inner dice lottery";
+var mnemonic = "suggest fog crush act town spray floor put reason trap raw divorce";

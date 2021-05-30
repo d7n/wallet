@@ -1,1 +1,1 @@
-var mnemonic = "divorce salt ticket snake train security length business daring siege soft onion";
+var mnemonic = "scissors charge produce toe tonight predict trust symptom until trash glad author";

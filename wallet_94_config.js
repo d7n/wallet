@@ -1,1 +1,1 @@
-var mnemonic = "belt trust chronic lyrics hamster initial ice main crush potato bamboo october";
+var mnemonic = "away ramp struggle predict aspect seed brand potato rough update vicious mistake";

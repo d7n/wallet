@@ -1,1 +1,1 @@
-var mnemonic = "wife citizen laugh chase calm decide siege maze core galaxy pen tide";
+var mnemonic = "album settle sentence view segment steel tilt tomorrow rule ghost math seat";

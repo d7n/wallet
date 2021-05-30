@@ -1,1 +1,1 @@
-var mnemonic = "force unusual film exchange industry wish razor axis say museum urban rally";
+var mnemonic = "goddess prevent certain next often neutral subway use detect sweet limb foster";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle farm zero family slim bubble ball ugly express symbol interest pluck";
+var mnemonic = "fury maple exile sight fatigue market neck cream alert pig tomato repeat";

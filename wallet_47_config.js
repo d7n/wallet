@@ -1,1 +1,1 @@
-var mnemonic = "umbrella where ship leg gorilla pulp tomato raven venue agent offer alien";
+var mnemonic = "around blood meat parrot husband real gloom borrow soda enjoy velvet van";

@@ -1,1 +1,1 @@
-var mnemonic = "legend attack horse deal bamboo polar water alter idle whisper embark tiny";
+var mnemonic = "ship artefact tail erode expect flower alpha access energy suspect general guilt";

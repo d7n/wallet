@@ -1,1 +1,1 @@
-var mnemonic = "fringe appear accident electric machine town title dress middle leg swing supply";
+var mnemonic = "spring scatter forget silver student skill atom squirrel rich protect taxi force";

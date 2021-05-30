@@ -1,1 +1,1 @@
-var mnemonic = "soup margin tiger nest glimpse project always orange sniff category scale equal";
+var mnemonic = "slender obey custom final rebuild notice auction bulk anger height office tiny";

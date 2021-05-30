@@ -1,1 +1,1 @@
-var mnemonic = "unit load raven hill manual decrease consider witness exchange then impose thought";
+var mnemonic = "just wrestle soul dog screen menu comic runway frozen street dinner hospital";

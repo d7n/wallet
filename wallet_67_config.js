@@ -1,1 +1,1 @@
-var mnemonic = "tumble satoshi between motor miss reduce network magic devote toast reduce vicious";
+var mnemonic = "sail match idle clean brisk chronic bleak online feel daughter mutual happy";

@@ -1,1 +1,1 @@
-var mnemonic = "danger choose raccoon wrestle tonight option ladder front salad hold vanish arrow";
+var mnemonic = "essence vivid enemy chapter cake breeze curve short clown topple lobster chapter";

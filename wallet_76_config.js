@@ -1,1 +1,1 @@
-var mnemonic = "wrestle pyramid holiday already eyebrow useful wire unknown joy imitate ivory perfect";
+var mnemonic = "female monitor spy screen fatigue master husband antique tattoo memory rather bicycle";
