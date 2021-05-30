@@ -1,1 +1,1 @@
-var mnemonic = "thank rather subway speed behind bargain comic total vague suspect better wild";
+var mnemonic = "close stumble pond angle sure setup similar situate buyer music neck excuse";

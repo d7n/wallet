@@ -1,1 +1,1 @@
-var mnemonic = "wish youth couch gentle spin oil evoke funny predict ride chair video";
+var mnemonic = "oak marriage rose sing hood final weekend capable sweet fish chat tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "title mixture deputy turtle accident laugh horror try gather tired surprise remind";
+var mnemonic = "track hand present execute twice wise symbol gather busy group mystery scan";

@@ -1,1 +1,1 @@
-var mnemonic = "cage pipe simple follow pigeon ship abuse tip spoon door yard marble";
+var mnemonic = "pizza doll capital amazing other grape pizza paddle axis artist inquiry sponsor";

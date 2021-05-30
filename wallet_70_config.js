@@ -1,1 +1,1 @@
-var mnemonic = "sister mammal episode ahead slab language before return forum heart canoe chronic";
+var mnemonic = "point equip funny dose history service craft chuckle bunker crash sick uphold";

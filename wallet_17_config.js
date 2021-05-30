@@ -1,1 +1,1 @@
-var mnemonic = "route cloud sauce post jump course apart audit else struggle coin mutual";
+var mnemonic = "property couple pigeon wink simple web dawn clarify mix panda smile entry";

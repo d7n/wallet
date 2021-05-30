@@ -1,1 +1,1 @@
-var mnemonic = "path zoo neck indicate pair frequent derive suit huge heavy glimpse witness";
+var mnemonic = "area burger depend index royal riot dinosaur news example modify planet kite";

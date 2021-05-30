@@ -1,1 +1,1 @@
-var mnemonic = "now isolate void will struggle curve energy snake park cook pilot hood";
+var mnemonic = "yellow frozen want monitor energy review unknown bargain vivid coil fresh pulse";

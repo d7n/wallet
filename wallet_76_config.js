@@ -1,1 +1,1 @@
-var mnemonic = "jealous office bike place approve subway double gospel south ramp already rather";
+var mnemonic = "limb task abstract intact body joke badge duty prepare recall flip coin";

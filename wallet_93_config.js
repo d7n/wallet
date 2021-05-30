@@ -1,1 +1,1 @@
-var mnemonic = "cement oxygen pigeon audit mountain essence hungry box group slow stay tattoo";
+var mnemonic = "omit degree rate wood piano south time baby cruise puppy trim outside";

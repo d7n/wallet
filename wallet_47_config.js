@@ -1,1 +1,1 @@
-var mnemonic = "column brief innocent apology exist whisper brisk promote immense menu cabbage barely";
+var mnemonic = "guilt benefit ice casual wagon moral burger build legal pass canoe stuff";

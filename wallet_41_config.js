@@ -1,1 +1,1 @@
-var mnemonic = "final page island forward aisle valley equip praise infant fee relief toss";
+var mnemonic = "term chalk hire cupboard refuse valley view tired stairs broom surge infant";

@@ -1,1 +1,1 @@
-var mnemonic = "grace bleak drop turn ecology gloom purpose depart drop puppy place scrub";
+var mnemonic = "track smoke toilet remember embody bar sport favorite fruit autumn code tube";

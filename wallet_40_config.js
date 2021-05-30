@@ -1,1 +1,1 @@
-var mnemonic = "churn when pair identify cool case village pull motion grain rebuild bird";
+var mnemonic = "other clap lounge page crouch enact credit skill laundry airport mushroom quality";

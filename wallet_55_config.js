@@ -1,1 +1,1 @@
-var mnemonic = "festival differ clown pulp magnet damage indoor sister excite fruit artwork dice";
+var mnemonic = "gravity term athlete cinnamon minute small negative either project joke million drum";

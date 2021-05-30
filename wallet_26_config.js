@@ -1,1 +1,1 @@
-var mnemonic = "advice wrist box balcony convince one letter ginger illegal roast blame bind";
+var mnemonic = "gift limb strategy deer kiwi fruit cabbage tree bridge submit seek result";

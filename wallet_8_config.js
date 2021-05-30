@@ -1,1 +1,1 @@
-var mnemonic = "faith motor foster regret material champion enable okay client inside cousin voyage";
+var mnemonic = "begin truly process wrist river craft lyrics milk practice fee ancient patrol";

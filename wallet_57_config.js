@@ -1,1 +1,1 @@
-var mnemonic = "question ask west glimpse tuna defense discover injury jeans comic kiss drip";
+var mnemonic = "net spray obey motion priority ancient term oven supreme skate casual toast";

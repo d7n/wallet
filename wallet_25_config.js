@@ -1,1 +1,1 @@
-var mnemonic = "liberty hero police outdoor suit topple weather spike fun claw monster pulp";
+var mnemonic = "grape useful wage actor sustain enlist host leopard regret update spoil sport";

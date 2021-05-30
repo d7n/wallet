@@ -1,1 +1,1 @@
-var mnemonic = "clever balcony hockey under pass giant panda gift cradle need glare unaware";
+var mnemonic = "release army debris stamp roof front beach broccoli cattle settle include kitten";

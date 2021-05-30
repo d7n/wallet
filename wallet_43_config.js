@@ -1,1 +1,1 @@
-var mnemonic = "poet pilot coffee breeze you egg hobby town behave october wife jazz";
+var mnemonic = "anger dentist hurt breeze badge guard style child pyramid certain top indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "foil mountain life attract mixture company clown either festival ripple casino patch";
+var mnemonic = "mushroom toe sure frequent develop adjust outside draft flush pitch heavy fame";

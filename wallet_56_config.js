@@ -1,1 +1,1 @@
-var mnemonic = "parade figure patrol autumn silk shoulder rookie teach bridge very camera deny";
+var mnemonic = "voice soap name outside end dilemma fire track end party achieve wheat";

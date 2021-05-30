@@ -1,1 +1,1 @@
-var mnemonic = "erupt finish diamond indicate major december wonder identify pen supply cheese butter";
+var mnemonic = "belt nurse patient bulk resource rice dust clutch soccer artefact powder boost";

@@ -1,1 +1,1 @@
-var mnemonic = "parent allow syrup next gloom twin deny wrestle final bus accident believe";
+var mnemonic = "voice good cigar scrub muffin illegal edit viable icon rocket toast hurt";

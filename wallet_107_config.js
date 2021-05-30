@@ -1,1 +1,1 @@
-var mnemonic = "budget salad symptom update prepare sand nose divide region ivory decide soft";
+var mnemonic = "evil blouse across expect same program emotion food amused invite globe embark";

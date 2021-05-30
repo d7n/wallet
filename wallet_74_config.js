@@ -1,1 +1,1 @@
-var mnemonic = "pitch recycle butter exchange snap sure head coil wheat moment priority desk";
+var mnemonic = "fire able quiz only thrive ball hybrid twenty truck inch dinner neutral";

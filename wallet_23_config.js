@@ -1,1 +1,1 @@
-var mnemonic = "multiply expire perfect ugly blame happy defy banana shallow state young soul";
+var mnemonic = "random valid purse body globe buzz choose lonely drill pudding diary author";

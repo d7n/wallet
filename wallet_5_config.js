@@ -1,1 +1,1 @@
-var mnemonic = "tonight pluck quick where exchange royal payment glory quote dolphin shoe castle";
+var mnemonic = "fancy soul garlic liberty six level alarm defy target alpha weather fantasy";

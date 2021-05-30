@@ -1,1 +1,1 @@
-var mnemonic = "movie airport empty early hover imitate blouse prevent rich quality sketch grit";
+var mnemonic = "voice powder keen return term six owner skirt sell marble blind false";

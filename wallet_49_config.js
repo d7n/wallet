@@ -1,1 +1,1 @@
-var mnemonic = "upset crucial sight water sort common globe couch process journey fat run";
+var mnemonic = "worth pottery recipe faint federal fence slam usage grief swamp nest daring";

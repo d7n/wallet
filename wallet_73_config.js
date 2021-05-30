@@ -1,1 +1,1 @@
-var mnemonic = "unusual rifle arena system antenna enable hamster woman tone safe asthma ignore";
+var mnemonic = "run tool chuckle cabin picnic critic popular town trim enact wish misery";

@@ -1,1 +1,1 @@
-var mnemonic = "royal trouble detail apology lava attitude purchase gorilla glove flee domain radar";
+var mnemonic = "sauce fortune scan torch gorilla major lunar rib menu smoke bone breeze";

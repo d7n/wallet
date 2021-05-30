@@ -1,1 +1,1 @@
-var mnemonic = "federal blossom behind hotel feature student drive dutch pull nominee resource allow";
+var mnemonic = "guess add office wasp limit false mutual derive you away pottery sell";

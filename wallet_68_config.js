@@ -1,1 +1,1 @@
-var mnemonic = "either material party either antenna loan west film silk unveil accident shell";
+var mnemonic = "carry wait fire veteran favorite oil heart grab february maid whip walk";

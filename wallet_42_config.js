@@ -1,1 +1,1 @@
-var mnemonic = "clump north ivory during width chief page hair wedding eyebrow cannon kite";
+var mnemonic = "hen custom suit rich phrase asset distance middle diet suspect equal siren";

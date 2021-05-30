@@ -1,1 +1,1 @@
-var mnemonic = "image hammer gospel hover ripple giant vital exhibit erode wonder bird impact";
+var mnemonic = "foster rule sight vendor color copy shaft street century detect early recycle";

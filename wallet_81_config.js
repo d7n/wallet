@@ -1,1 +1,1 @@
-var mnemonic = "unique industry joy nasty toast salt question mix example blue slim goat";
+var mnemonic = "machine harbor sample suggest drill street giggle document panic benefit town reopen";

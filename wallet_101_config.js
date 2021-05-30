@@ -1,1 +1,1 @@
-var mnemonic = "mesh tragic tenant youth flight off useless random pitch return detail police";
+var mnemonic = "siren inner welcome enact apology train choose cargo topple develop school casino";

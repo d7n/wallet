@@ -1,1 +1,1 @@
-var mnemonic = "result detect fee toward version feature reason vault extra mouse library slow";
+var mnemonic = "first tell hungry limb impose chimney erase early bulb fit couple tenant";

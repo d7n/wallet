@@ -1,1 +1,1 @@
-var mnemonic = "simple domain future copy diesel produce jeans anger west range pyramid toddler";
+var mnemonic = "salmon valve okay smooth sauce drink slice subway spot sell web drum";

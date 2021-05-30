@@ -1,1 +1,1 @@
-var mnemonic = "appear slight real shrimp possible raise evil prison engine ranch awkward tongue";
+var mnemonic = "rescue undo educate nerve universe air police clip measure unhappy exile meat";

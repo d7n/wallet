@@ -1,1 +1,1 @@
-var mnemonic = "give lunch will table liberty tone hazard axis alien meat hungry edit";
+var mnemonic = "aerobic hill risk regret harvest draft echo grocery convince toast banana ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "radar swap praise year dismiss crouch season adult excuse bean parent roof";
+var mnemonic = "just share tortoise master someone someone much poverty horn green exhaust divorce";

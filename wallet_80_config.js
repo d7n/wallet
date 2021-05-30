@@ -1,1 +1,1 @@
-var mnemonic = "invest globe coral select canyon rice ugly coin major lunar roast neck";
+var mnemonic = "essay marriage soul ball hungry wasp climb fresh pulse orient claim injury";

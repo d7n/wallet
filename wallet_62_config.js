@@ -1,1 +1,1 @@
-var mnemonic = "gentle tired coconut crack summer spoil card pool wet velvet mystery connect";
+var mnemonic = "modify runway flash bottom excuse lava fruit sunset model range output plunge";

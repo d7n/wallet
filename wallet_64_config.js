@@ -1,1 +1,1 @@
-var mnemonic = "garden equip view sun mimic dress deer cotton deer river tone exotic";
+var mnemonic = "boy badge tunnel escape stone salt winter slow coyote tape chicken picnic";

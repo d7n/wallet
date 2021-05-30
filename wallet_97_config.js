@@ -1,1 +1,1 @@
-var mnemonic = "issue lake fault spell push teach mule disagree neither select era remind";
+var mnemonic = "excess worth hurry account spice olympic neutral exclude earth vanish skate process";

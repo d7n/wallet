@@ -1,1 +1,1 @@
-var mnemonic = "damage version work funny hard bright dust height arena vocal index one";
+var mnemonic = "tenant case tape foot delay disease victory worry come merge gain same";

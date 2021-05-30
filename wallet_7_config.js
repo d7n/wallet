@@ -1,1 +1,1 @@
-var mnemonic = "volume mixed ridge vote book skirt extra gas armed wide gorilla hobby";
+var mnemonic = "muscle rapid hammer risk lemon fence off include wedding crime arrive spend";

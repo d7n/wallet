@@ -1,1 +1,1 @@
-var mnemonic = "jacket tuition wagon tunnel wink sorry vast orange razor sustain pink repeat";
+var mnemonic = "volume gate flip mesh proof close era settle usage insect midnight coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "supply kiss when ready pumpkin list cushion abandon endless miracle lawsuit reveal";
+var mnemonic = "park ill crack vintage defy clump enjoy current teach buyer dentist auction";

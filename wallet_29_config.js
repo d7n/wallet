@@ -1,1 +1,1 @@
-var mnemonic = "high novel sail brand total reveal verify critic meat various magnet switch";
+var mnemonic = "bacon cart stand among wisdom rough limit phone review traffic cherry grace";

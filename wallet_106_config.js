@@ -1,1 +1,1 @@
-var mnemonic = "hen credit appear lyrics when image drive sound when vibrant need federal";
+var mnemonic = "diesel embrace member borrow time salad crazy offer badge fury friend insane";

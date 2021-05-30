@@ -1,1 +1,1 @@
-var mnemonic = "wheat eagle mouse measure sustain common boss crisp need tag mother enemy";
+var mnemonic = "carbon glove ride shell flat confirm afford inside tourist baby stairs card";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate diagram foam rug people couch guard tourist shoe sign deliver bean";
+var mnemonic = "old phrase panther ask old salute steel rigid drip cross rally episode";

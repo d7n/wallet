@@ -1,1 +1,1 @@
-var mnemonic = "glance apart ridge act gesture void local vital cave access main dog";
+var mnemonic = "badge love flower muscle trigger stumble fantasy artefact ostrich matter caution blind";

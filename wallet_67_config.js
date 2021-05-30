@@ -1,1 +1,1 @@
-var mnemonic = "exit notable viable step normal lecture stool install below bunker waste tattoo";
+var mnemonic = "segment custom session decade quote safe cute theme team snake fragile save";

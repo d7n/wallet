@@ -1,1 +1,1 @@
-var mnemonic = "fish oval insect comfort bullet early situate inherit forum board hundred spoil";
+var mnemonic = "wedding update moment fatigue february address alert cycle ordinary shop city student";

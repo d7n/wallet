@@ -1,1 +1,1 @@
-var mnemonic = "morning element calm outer keep identify virus avoid dragon effort avocado royal";
+var mnemonic = "pupil page champion mirror priority tomato brave defy enemy library baby sort";

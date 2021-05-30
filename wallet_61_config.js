@@ -1,1 +1,1 @@
-var mnemonic = "solid hybrid great lady lemon pony panther report pitch duck execute method";
+var mnemonic = "boil roast night inflict dwarf food struggle evolve have boost journey sense";

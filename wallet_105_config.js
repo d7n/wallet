@@ -1,1 +1,1 @@
-var mnemonic = "already hedgehog emerge erosion device bleak evidence shrug apology salute scout holiday";
+var mnemonic = "spring turtle uncle prefer good valve inner lottery stuff glare coconut churn";

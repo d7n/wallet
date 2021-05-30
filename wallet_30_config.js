@@ -1,1 +1,1 @@
-var mnemonic = "rapid tissue people tilt spread gain flush army upper bargain pizza only";
+var mnemonic = "warm aisle scene soda payment labor illegal moon civil minor steak assault";

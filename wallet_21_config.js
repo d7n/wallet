@@ -1,1 +1,1 @@
-var mnemonic = "spike sustain replace runway pulse orient sample moon bind few balance evolve";
+var mnemonic = "excite hat panic inflict gloom wise game inform mixed bridge plug poem";

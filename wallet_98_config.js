@@ -1,1 +1,1 @@
-var mnemonic = "shell valley unhappy discover resemble day jar cup digital roast merit model";
+var mnemonic = "cannon news sustain change verb sunny often agree coral crazy assume pilot";

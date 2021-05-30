@@ -1,1 +1,1 @@
-var mnemonic = "hawk mushroom primary clinic dad elephant derive burger cram guess bridge love";
+var mnemonic = "cube relief boring stool task solution eight wrong blade talk caution say";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost cream country cannon victory matrix sword badge speed wise cement device";
+var mnemonic = "visa stock panther offer aspect jewel addict urban mercy visa dignity pulp";

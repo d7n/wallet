@@ -1,1 +1,1 @@
-var mnemonic = "series inflict person flush salmon history flower leopard oval glare check game";
+var mnemonic = "balance empower enlist coconut reward muffin depart earth bless color sausage broken";

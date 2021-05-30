@@ -1,1 +1,1 @@
-var mnemonic = "medal there useful bar rug tongue man rough lizard large dinner expand";
+var mnemonic = "runway model oven liberty hover birth faint south ticket foam course erase";

@@ -1,1 +1,1 @@
-var mnemonic = "edge impulse palm burden abstract strong reflect skin season similar output suffer";
+var mnemonic = "frame pepper series innocent put powder iron crack begin final lava capable";

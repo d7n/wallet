@@ -1,1 +1,1 @@
-var mnemonic = "quality detect very lava amazing naive grid stomach moment expect chief render";
+var mnemonic = "pupil regular recall equip cute distance game much crowd ability paddle six";

@@ -1,1 +1,1 @@
-var mnemonic = "code drink shrimp diary cage nut party memory west craft give keep";
+var mnemonic = "nest document decade rude hero final ice steel turtle identify during describe";

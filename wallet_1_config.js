@@ -1,1 +1,1 @@
-var mnemonic = "pause surprise amateur dice flight anxiety proud thing unable pattern romance flat";
+var mnemonic = "disagree acid hole approve essence assist behind mass melt century song wrong";

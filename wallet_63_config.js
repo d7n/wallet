@@ -1,1 +1,1 @@
-var mnemonic = "wealth frequent depart special goose corn hat pigeon pretty neck envelope gun";
+var mnemonic = "maple flock cash raw route canvas voyage marble steak double recall parent";

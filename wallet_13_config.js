@@ -1,1 +1,1 @@
-var mnemonic = "wage divorce sister hold punch love series person glide hobby sunset music";
+var mnemonic = "thank wonder neglect photo scheme city kind olympic idea resist dad ring";

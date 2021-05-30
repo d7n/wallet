@@ -1,1 +1,1 @@
-var mnemonic = "venture buzz vague fever proof parrot virus repair vacuum pen net update";
+var mnemonic = "lesson tonight live hope ability answer paddle actual fresh main afraid season";

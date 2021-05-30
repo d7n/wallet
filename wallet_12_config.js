@@ -1,1 +1,1 @@
-var mnemonic = "venue erosion shoulder kidney rug bunker skull spell stuff access tube infant";
+var mnemonic = "cactus action party repeat giant casino like maple reject float crystal devote";

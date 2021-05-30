@@ -1,1 +1,1 @@
-var mnemonic = "sail true coral pudding donkey melt morning emotion lemon wreck absurd impact";
+var mnemonic = "satoshi biology cupboard option street clever attack toe actual cream hero horn";

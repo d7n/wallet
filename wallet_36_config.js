@@ -1,1 +1,1 @@
-var mnemonic = "silly expose execute vehicle volcano sample brave immune critic unusual empower beef";
+var mnemonic = "word asthma mad dragon monster bitter best humor chapter animal round robust";

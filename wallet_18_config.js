@@ -1,1 +1,1 @@
-var mnemonic = "describe relax saddle coral amount firm much donor reopen tuna civil replace";
+var mnemonic = "morning trick fresh entry genius work minor fatal belt body clinic honey";

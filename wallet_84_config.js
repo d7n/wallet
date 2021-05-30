@@ -1,1 +1,1 @@
-var mnemonic = "music poet phone million describe permit churn drill layer sting desert trophy";
+var mnemonic = "genuine draft boss medal tomato delay visual angle lucky item hood various";

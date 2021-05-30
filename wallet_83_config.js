@@ -1,1 +1,1 @@
-var mnemonic = "theory worth unlock truck curious concert patch start wall brave arrive carbon";
+var mnemonic = "gather true cram curtain cheese ladder decorate climb approve shine excuse venue";

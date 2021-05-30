@@ -1,1 +1,1 @@
-var mnemonic = "toilet drastic jealous cinnamon system zebra opinion abstract allow shaft winter jaguar";
+var mnemonic = "hair demand music spend among large illegal husband any manual surface gravity";

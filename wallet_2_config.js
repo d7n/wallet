@@ -1,1 +1,1 @@
-var mnemonic = "broom gown spike dignity disease can pet deny cart drink seat spoon";
+var mnemonic = "friend category core extra tent student nose home input try index race";

@@ -1,1 +1,1 @@
-var mnemonic = "chat sunny anger comfort piece nominee expect grocery fiction tobacco enough pig";
+var mnemonic = "welcome select force glory purity marble plug kangaroo limb inch wagon regular";

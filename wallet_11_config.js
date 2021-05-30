@@ -1,1 +1,1 @@
-var mnemonic = "just first disagree coin fluid end injury start denial limb monster display";
+var mnemonic = "copper blind myself flavor hair control veteran certain energy envelope switch copy";

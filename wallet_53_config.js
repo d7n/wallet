@@ -1,1 +1,1 @@
-var mnemonic = "soft car someone whale citizen film evolve hold course warm twelve glow";
+var mnemonic = "hen column until mango oven pledge honey width raven skill music drift";

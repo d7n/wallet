@@ -1,1 +1,1 @@
-var mnemonic = "solar adjust oak stove shock sign cover cloud vendor music wheel holiday";
+var mnemonic = "large just arrest average carpet market deny earn upon armor potato bag";

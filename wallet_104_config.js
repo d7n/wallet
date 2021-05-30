@@ -1,1 +1,1 @@
-var mnemonic = "steel topple split unit inform permit trap head burst fat chuckle token";
+var mnemonic = "coin whale hospital note fatal illegal digital vital pattern frost cake initial";

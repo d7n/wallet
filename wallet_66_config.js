@@ -1,1 +1,1 @@
-var mnemonic = "vendor chair hybrid mirror verb unable lock delay fancy fan author toddler";
+var mnemonic = "sunset future cat rabbit kingdom hip shell where dinner bitter very involve";

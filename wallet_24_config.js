@@ -1,1 +1,1 @@
-var mnemonic = "half unknown point mirror glad crash panic invite donate rival bench author";
+var mnemonic = "october industry crack window recall proof tackle fiber medal story interest wood";

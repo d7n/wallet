@@ -1,1 +1,1 @@
-var mnemonic = "vehicle stuff fog snow lunch unable loan monkey suspect also alarm predict";
+var mnemonic = "music all all flush exile addict clip surge expose kite universe nasty";
