@@ -1,1 +1,1 @@
-var mnemonic = "approve conduct drastic afford melody expect fiscal rookie monkey machine diagram assist";
+var mnemonic = "grid taxi mad valid example any judge earth cycle excess avocado cancel";

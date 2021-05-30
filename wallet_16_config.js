@@ -1,1 +1,1 @@
-var mnemonic = "flavor legal panic equal door broccoli deal review execute float coffee debris";
+var mnemonic = "paddle swamp shrimp cancel mom female drink tourist text good tilt august";

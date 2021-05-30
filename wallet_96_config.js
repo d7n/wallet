@@ -1,1 +1,1 @@
-var mnemonic = "normal give pen auction caught diagram double identify route subway lounge level";
+var mnemonic = "digital rely quit auto amateur caught choice powder boil gown job warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor ladder mirror illness outdoor pulse this task clay unfair biology goat";
+var mnemonic = "diary grape oyster relief trophy coyote link glad drift sketch normal laugh";

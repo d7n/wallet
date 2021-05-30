@@ -1,1 +1,1 @@
-var mnemonic = "ceiling cage grass weekend this easy avocado lock ball rigid caution waste";
+var mnemonic = "deal off aisle chef loyal twice draw ceiling glass often develop merge";

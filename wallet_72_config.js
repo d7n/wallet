@@ -1,1 +1,1 @@
-var mnemonic = "soft rice hole mule afford captain slush stove display head grocery code";
+var mnemonic = "fatal market lady other hobby high moment tourist blur uncle runway curious";

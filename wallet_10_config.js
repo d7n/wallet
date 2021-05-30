@@ -1,1 +1,1 @@
-var mnemonic = "body tuition jealous immense breeze today east street garlic lyrics plug later";
+var mnemonic = "universe install panic trouble never garbage guilt canyon art harvest feed tide";

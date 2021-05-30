@@ -1,1 +1,1 @@
-var mnemonic = "fault enough scout update shadow choice grab egg announce palace balcony advance";
+var mnemonic = "slab alert concert detail enact curious shove private couple vehicle vote habit";

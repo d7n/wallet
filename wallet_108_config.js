@@ -1,1 +1,1 @@
-var mnemonic = "shaft absent time shoulder cart pigeon pudding hill orphan steel setup bridge";
+var mnemonic = "increase assault blame speed denial same rose atom police mandate gate dose";

@@ -1,1 +1,1 @@
-var mnemonic = "involve upset carpet reopen six second salad obey leaf taxi police collect";
+var mnemonic = "estate obvious suit useful faculty during wolf sleep acquire steel museum bounce";

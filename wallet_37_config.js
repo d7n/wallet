@@ -1,1 +1,1 @@
-var mnemonic = "solve state false girl tiger obey true party exile tide holiday uniform";
+var mnemonic = "normal story author anxiety elbow solid catch audit near toddler awful park";

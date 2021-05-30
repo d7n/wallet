@@ -1,1 +1,1 @@
-var mnemonic = "example blanket essay dash acoustic allow problem aisle shock zone lamp rely";
+var mnemonic = "tone property music uphold exist manual cancel record divorce arena mean depart";

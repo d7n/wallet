@@ -1,1 +1,1 @@
-var mnemonic = "kiss normal disease blast avoid reward toddler can struggle chat web visa";
+var mnemonic = "live veteran drill quiz together leader lift century fan treat sword recycle";

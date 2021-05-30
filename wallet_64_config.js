@@ -1,1 +1,1 @@
-var mnemonic = "brick frown grunt economy truly page common arm burden crack grape cheese";
+var mnemonic = "best broom need frog left clap build snow chimney express response exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "train erosion coyote story mad scene august cost hundred ship ocean truly";
+var mnemonic = "helmet drop divide verb shrug rocket shrimp sight zoo river model garage";

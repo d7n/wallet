@@ -1,1 +1,1 @@
-var mnemonic = "goddess assist lumber fashion shrug bicycle reward cheese parade primary garment ring";
+var mnemonic = "source dignity trouble okay nerve release cloud segment hungry payment fatigue educate";

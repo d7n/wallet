@@ -1,1 +1,1 @@
-var mnemonic = "fix wall bind bottom achieve tragic execute gravity meadow mean badge soap";
+var mnemonic = "ignore oxygen first trash dress loud claim pony diesel bicycle client void";

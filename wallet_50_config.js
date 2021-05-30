@@ -1,1 +1,1 @@
-var mnemonic = "trouble boil express nuclear filter glad term profit month gesture hint remain";
+var mnemonic = "physical melody empty dish man twelve hope scorpion magnet zoo mixture slide";

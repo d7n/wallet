@@ -1,1 +1,1 @@
-var mnemonic = "office tower off cheap race camp blur assist option electric visit ship";
+var mnemonic = "mercy faith possible idea indicate rice affair output before kitchen wonder salute";

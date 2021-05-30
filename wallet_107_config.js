@@ -1,1 +1,1 @@
-var mnemonic = "latin fabric brisk dutch word afraid domain betray harbor task language amused";
+var mnemonic = "judge honey sausage across vague boy hidden box tumble segment equal behave";

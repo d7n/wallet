@@ -1,1 +1,1 @@
-var mnemonic = "scrub belt garden canvas eyebrow heavy lounge void vague release chicken hamster";
+var mnemonic = "grow near lock ship please mail steel essay worth discover tuition ten";

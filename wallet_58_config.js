@@ -1,1 +1,1 @@
-var mnemonic = "eight prosper beach sentence source dress portion spawn index fuel noise warrior";
+var mnemonic = "youth east cable spot order upgrade garbage globe animal credit van injury";

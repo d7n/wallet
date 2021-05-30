@@ -1,1 +1,1 @@
-var mnemonic = "recipe slow audit april idle donor tape orbit envelope dog animal give";
+var mnemonic = "trend robot daughter invest human eyebrow cinnamon minute fabric outside cave add";

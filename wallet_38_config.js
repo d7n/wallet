@@ -1,1 +1,1 @@
-var mnemonic = "horror sail delay initial force borrow wrap valve inspire news grid pond";
+var mnemonic = "shrimp heavy response lumber armor ice chase vintage bundle salt among skill";

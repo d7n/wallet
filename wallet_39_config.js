@@ -1,1 +1,1 @@
-var mnemonic = "damage tribe proud glad opinion frown smoke narrow fiber dream during message";
+var mnemonic = "penalty leaf warm valley multiply tooth double arrow genre whip woman obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial shell laugh traffic modify retire record purse zoo giraffe avoid assume";
+var mnemonic = "assume humble hip bench donate siege task please anger basic car road";

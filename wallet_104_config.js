@@ -1,1 +1,1 @@
-var mnemonic = "betray insect lens lemon shadow jaguar spoil couch glass bundle account lock";
+var mnemonic = "phone fold shoulder bird march chief move brief group canoe steel planet";

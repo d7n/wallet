@@ -1,1 +1,1 @@
-var mnemonic = "ahead rough holiday muffin vivid cannon galaxy run odor stock segment metal";
+var mnemonic = "mass evidence satisfy multiply level vapor express switch cover castle ritual man";

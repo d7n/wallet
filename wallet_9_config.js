@@ -1,1 +1,1 @@
-var mnemonic = "sketch marriage prosper attract people they basket since analyst night gym truck";
+var mnemonic = "travel float cousin inhale salt audit reunion usual left attend announce blue";

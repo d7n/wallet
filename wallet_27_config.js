@@ -1,1 +1,1 @@
-var mnemonic = "industry obtain banana inmate join then ugly delay equip genius position cart";
+var mnemonic = "salad fiction vacuum dose whip husband observe fault galaxy awkward prison cry";

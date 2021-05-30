@@ -1,1 +1,1 @@
-var mnemonic = "news boost great coyote help ship wool discover lemon sister trick height";
+var mnemonic = "mixture awesome guilt unhappy trash tragic jewel segment trade citizen maze shove";

@@ -1,1 +1,1 @@
-var mnemonic = "despair orange valley grant trap turtle pizza abuse obscure duck weather pear";
+var mnemonic = "viable practice oak uncle naive lucky task enemy album bag split inner";

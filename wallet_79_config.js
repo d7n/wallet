@@ -1,1 +1,1 @@
-var mnemonic = "snake wave essay sauce blur humble acid over stand ethics obey tobacco";
+var mnemonic = "fat word frown early indoor music blanket convince poverty vintage side whisper";

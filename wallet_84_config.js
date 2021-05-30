@@ -1,1 +1,1 @@
-var mnemonic = "mad volume congress fashion relax maximum rug teach foster sentence pave bar";
+var mnemonic = "imitate method view run pen silver wasp finger talk tortoise trick cube";

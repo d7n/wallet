@@ -1,1 +1,1 @@
-var mnemonic = "urban club crucial wrap control inquiry soldier person render slush later turn";
+var mnemonic = "weapon there pen mammal arena cat rib defense mouse wire detail alcohol";

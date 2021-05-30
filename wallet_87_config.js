@@ -1,1 +1,1 @@
-var mnemonic = "oyster hold square wonder device photo electric series process shove inform basket";
+var mnemonic = "visa labor cricket tell chat cram sun shift fine net enlist domain";

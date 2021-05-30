@@ -1,1 +1,1 @@
-var mnemonic = "tail genuine defense dolphin initial accuse defy eagle syrup foil light used";
+var mnemonic = "nominee speed final used link lawn knife mobile current cram desert narrow";

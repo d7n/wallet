@@ -1,1 +1,1 @@
-var mnemonic = "spike avoid village wire chalk february rescue excite hole leopard amazing never";
+var mnemonic = "seek cabbage fuel vintage labor aunt aware wine custom surround pilot foam";

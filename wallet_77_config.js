@@ -1,1 +1,1 @@
-var mnemonic = "century above mass swing congress latin behave shaft six innocent arrive logic";
+var mnemonic = "demand scene visit garbage bag magic fan talk flag upper bind frame";

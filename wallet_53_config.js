@@ -1,1 +1,1 @@
-var mnemonic = "goose agree sudden multiply symptom romance response stomach coyote expose easily best";
+var mnemonic = "pear village swim jump prevent person pole luggage pull better hover true";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff script ghost live zone core fitness mountain spice try ski bounce";
+var mnemonic = "company smart knee update erase picture carbon mixture model correct emotion buddy";

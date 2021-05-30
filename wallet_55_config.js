@@ -1,1 +1,1 @@
-var mnemonic = "enlist oil forest decide weapon exclude stove scan slogan raise crowd hood";
+var mnemonic = "ball impose dinner review example floor peanut hamster north quiz video curtain";

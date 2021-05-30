@@ -1,1 +1,1 @@
-var mnemonic = "enlist space catalog cruel aim please bonus quote burden believe snack derive";
+var mnemonic = "fitness gospel chalk caught bubble also front anxiety runway excuse siren old";

@@ -1,1 +1,1 @@
-var mnemonic = "derive erosion spot board three inmate orphan digital gas book hotel disorder";
+var mnemonic = "curve meadow globe tilt ask skate nest airport tissue insect width lonely";

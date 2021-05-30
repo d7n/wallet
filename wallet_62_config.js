@@ -1,1 +1,1 @@
-var mnemonic = "season together cattle tent refuse quality admit relief push brisk hundred improve";
+var mnemonic = "muffin found apart announce wall judge crop name poet season solve skull";

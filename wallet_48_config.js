@@ -1,1 +1,1 @@
-var mnemonic = "common bring brass pelican engine wedding print good toe because input they";
+var mnemonic = "moral remember idle rubber evidence real pet mistake increase practice embark belt";

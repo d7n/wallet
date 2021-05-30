@@ -1,1 +1,1 @@
-var mnemonic = "photo draw goddess stool jacket equal room dizzy claim spy switch news";
+var mnemonic = "dragon reveal stool bullet future dismiss increase vendor fame hello jungle dance";

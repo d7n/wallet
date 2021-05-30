@@ -1,1 +1,1 @@
-var mnemonic = "vapor excite sniff spice garden inject garden slam fresh give cannon lonely";
+var mnemonic = "fence extra survey whisper apart tent brush swing timber endorse industry pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "slam yellow mimic talk plug tuna kitchen grass fresh wave load okay";
+var mnemonic = "ivory also try unable erase swing west lawn dolphin squeeze first avocado";

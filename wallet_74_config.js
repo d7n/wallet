@@ -1,1 +1,1 @@
-var mnemonic = "recipe left among song penalty team mouse oxygen police shine then soldier";
+var mnemonic = "mad rug test gloom genius tattoo ribbon finish clutch pact north bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "super rigid history struggle trust pretty more object mushroom ranch elephant modify";
+var mnemonic = "feed item tape input piano pull east hero pill marriage bar critic";

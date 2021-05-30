@@ -1,1 +1,1 @@
-var mnemonic = "autumn where paper galaxy simple crouch useful cage reveal morning gun face";
+var mnemonic = "axis alarm thought caution speed metal memory skate destroy dose eagle income";

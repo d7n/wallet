@@ -1,1 +1,1 @@
-var mnemonic = "taxi crime thing despair warrior cook toy rural aisle coil office chunk";
+var mnemonic = "kid sweet trophy bracket rookie lab party helmet unlock pipe stomach auction";

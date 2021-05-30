@@ -1,1 +1,1 @@
-var mnemonic = "urge beef define hybrid smile flip system call clarify oval you satoshi";
+var mnemonic = "slight group predict nice apart library special tank razor middle embrace grief";

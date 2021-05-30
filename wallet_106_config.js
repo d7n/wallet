@@ -1,1 +1,1 @@
-var mnemonic = "click normal distance mosquito duty nation belt dial frame seat exchange lawn";
+var mnemonic = "amazing magnet weekend wheat liar always spike fatal limit debris web recycle";

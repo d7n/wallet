@@ -1,1 +1,1 @@
-var mnemonic = "forest flee pottery recipe tuition flower step violin donkey betray win craft";
+var mnemonic = "vicious acoustic chronic edit onion order stairs evil number stumble smart armed";

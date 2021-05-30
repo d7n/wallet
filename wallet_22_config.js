@@ -1,1 +1,1 @@
-var mnemonic = "index visit lemon retreat fortune volcano guess sure because keen lemon people";
+var mnemonic = "flavor nuclear shuffle fade message gym wrong render border width lawsuit amused";

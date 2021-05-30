@@ -1,1 +1,1 @@
-var mnemonic = "behave castle second bundle upgrade amateur reunion coffee network spot venue exhibit";
+var mnemonic = "ankle real milk someone key green afford stamp fresh dream pepper cup";

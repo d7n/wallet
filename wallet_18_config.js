@@ -1,1 +1,1 @@
-var mnemonic = "slide fitness vendor mail wire involve bus eager carry grief apology bind";
+var mnemonic = "perfect brand syrup trend focus brother impact social panther valid drop sadness";

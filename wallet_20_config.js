@@ -1,1 +1,1 @@
-var mnemonic = "device night true victory nest hero parrot group deal stool network letter";
+var mnemonic = "solar symptom range south glass between stem knee common fiber ten tone";

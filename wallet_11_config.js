@@ -1,1 +1,1 @@
-var mnemonic = "army bleak section project hope expect split champion blast square save youth";
+var mnemonic = "amazing hold fuel daughter mandate river endless between kitchen long regret permit";

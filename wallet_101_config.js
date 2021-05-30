@@ -1,1 +1,1 @@
-var mnemonic = "hold parrot pigeon found patrol month phone people warfare scrub rally memory";
+var mnemonic = "giggle pencil achieve barrel chuckle parrot category world food fence slot dad";

@@ -1,1 +1,1 @@
-var mnemonic = "mule lunch define color unusual flush reunion unhappy grant ancient vapor include";
+var mnemonic = "sand tattoo salute super gorilla draw muffin rifle crazy false february near";

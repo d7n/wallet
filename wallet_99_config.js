@@ -1,1 +1,1 @@
-var mnemonic = "rug sentence enough chapter cram belt marriage train economy elbow symbol will";
+var mnemonic = "castle brain side six limb attitude one flat sunset enroll autumn canal";

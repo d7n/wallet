@@ -1,1 +1,1 @@
-var mnemonic = "maple oil toy marriage layer regular noble evolve praise impose garden visit";
+var mnemonic = "ivory brand broken office budget surprise oval valley cherry unusual equip doll";

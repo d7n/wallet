@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin symbol sad used ugly early drive adult demand mandate job leave";
+var mnemonic = "mom update digital sadness reduce similar welcome genuine train final cupboard thank";

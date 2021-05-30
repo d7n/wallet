@@ -1,1 +1,1 @@
-var mnemonic = "tennis remind bullet rubber vital cattle already large random deliver drastic drift";
+var mnemonic = "imitate toss kiss derive chuckle add tiny trophy direct hamster cover conduct";

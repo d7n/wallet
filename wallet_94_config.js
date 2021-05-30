@@ -1,1 +1,1 @@
-var mnemonic = "pool actress culture caught shoot divorce motion apple effort example topic basket";
+var mnemonic = "catch bicycle curious casino coconut sport bulk huge tonight giggle humble vague";

@@ -1,1 +1,1 @@
-var mnemonic = "test edge ribbon child parade flat crowd mean recall decide fix gown";
+var mnemonic = "castle mutual trip symptom ten harbor join royal abandon flat kidney casual";

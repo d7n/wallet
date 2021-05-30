@@ -1,1 +1,1 @@
-var mnemonic = "total evoke detail item capable soda table pluck biology grow quit crash";
+var mnemonic = "tackle seven rain loan civil smile elevator useless day dust monkey february";

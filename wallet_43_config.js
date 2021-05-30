@@ -1,1 +1,1 @@
-var mnemonic = "cricket chair wish unknown follow stick legend scan tattoo frown affair test";
+var mnemonic = "lumber nation agent planet craft cricket spray barely maple once only light";

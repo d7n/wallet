@@ -1,1 +1,1 @@
-var mnemonic = "vapor february picnic alien tag crucial good reform void apart wool exclude";
+var mnemonic = "walk ten tray number width stamp capable thrive ranch series hub portion";

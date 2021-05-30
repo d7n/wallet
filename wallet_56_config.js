@@ -1,1 +1,1 @@
-var mnemonic = "project crane deputy primary forward donor myself depth divorce helmet town banana";
+var mnemonic = "drastic monitor album drive toss neglect tray almost zebra husband clip special";

@@ -1,1 +1,1 @@
-var mnemonic = "surround fantasy exist citizen thing open gas ten admit cushion vicious forum";
+var mnemonic = "rhythm episode target involve alley tongue wall security theory gift cruel sleep";

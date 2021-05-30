@@ -1,1 +1,1 @@
-var mnemonic = "parrot chase joy dirt offer dawn giggle shaft leader champion about cinnamon";
+var mnemonic = "giraffe angle picnic coyote mobile essay noise melt shoot civil finish grass";

@@ -1,1 +1,1 @@
-var mnemonic = "dance oxygen fiscal before vital enhance ship process derive private seed feature";
+var mnemonic = "possible style teach tree orphan soda bachelor scheme auction robust avoid tone";

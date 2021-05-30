@@ -1,1 +1,1 @@
-var mnemonic = "local material diagram hint receive cargo skate visa pretty apart burst slogan";
+var mnemonic = "bright disorder observe prepare human regular opinion smile waste erase outer member";

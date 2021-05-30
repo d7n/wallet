@@ -1,1 +1,1 @@
-var mnemonic = "seed cereal eagle adapt pole live talent maximum day draw suspect bronze";
+var mnemonic = "model shop filter uniform involve mercy carpet rather emotion gather verb once";

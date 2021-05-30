@@ -1,1 +1,1 @@
-var mnemonic = "snake laundry husband garlic deliver jazz parade valid gloom garment save strategy";
+var mnemonic = "census daring moon immune nest spend just wagon join define alarm cupboard";

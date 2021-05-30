@@ -1,1 +1,1 @@
-var mnemonic = "stable expire survey adjust canal view outer warrior grit purchase win gesture";
+var mnemonic = "elephant deny process fly notable slow rebuild embrace head major inspire early";

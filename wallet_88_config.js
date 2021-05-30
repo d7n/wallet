@@ -1,1 +1,1 @@
-var mnemonic = "hazard trigger rigid camp bike stairs disagree any lock path track increase";
+var mnemonic = "random switch suspect below lamp track extra hungry oxygen corn snake flock";

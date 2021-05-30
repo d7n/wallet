@@ -1,1 +1,1 @@
-var mnemonic = "slab bundle frequent capable very seven festival arctic oxygen funny wait fetch";
+var mnemonic = "popular high confirm park profit match shine sound ensure until ice basic";

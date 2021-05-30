@@ -1,1 +1,1 @@
-var mnemonic = "gloom lift blind bomb vague document bean venture stand taxi behave tide";
+var mnemonic = "hospital blind various innocent attend luggage voyage ripple holiday velvet isolate toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese mercy path burden hotel thumb energy orchard toddler then claw hobby";
+var mnemonic = "protect arrest please owner place beach fresh zone first street book region";

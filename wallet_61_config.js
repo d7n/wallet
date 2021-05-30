@@ -1,1 +1,1 @@
-var mnemonic = "tail rib sugar angry enroll garbage same hood apart dumb uncover creek";
+var mnemonic = "slender clip model champion solid eye race auto razor town torch erosion";

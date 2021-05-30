@@ -1,1 +1,1 @@
-var mnemonic = "burden three neck primary sister slice motor seminar shallow coconut double upgrade";
+var mnemonic = "dose huge reflect shrimp lunch hotel arrange area race phrase include despair";

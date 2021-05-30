@@ -1,1 +1,1 @@
-var mnemonic = "script artist reunion humble proud all throw outdoor barrel rigid system habit";
+var mnemonic = "trigger crucial refuse toy any spot kitten lock mention fringe large resist";
